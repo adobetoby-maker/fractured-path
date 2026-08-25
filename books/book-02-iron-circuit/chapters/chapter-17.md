@@ -44,6 +44,12 @@ Keth considered this, working through something behind his eyes. "It should."
 
 "Because it means anyone who studies you long enough can do the same thing to you." He said this plainly, an experienced fighter's honest warning rather than a threat. "The more visible you get in this circuit, the more data exists about you to study."
 
+Cael offered his hand, and Keth took it without hesitation, the grip of a man who'd lost cleanly before and knew how to do it again without letting the losing curdle into something smaller than he was. "Good fight," Keth said, getting to his feet with the careful economy of someone checking, privately, that everything still worked the way it had before the fourth exchange. "I mean that. Most fighters who beat me on a read like that would spend the next hour telling me about it. You just told me the truth and let it sit there." He rolled the shoulder Cael had locked, testing it, satisfied with what he found. "Come find me sometime when neither of us has anything at stake. I'd like to hear what else that notebook of yours says about me."
+
+"I will."
+
+"I believe you." Keth said it plainly, the same register he'd used for everything else that evening, and walked off toward the edge of the ring where Dace was already waiting with a cloth and a look of frank, professional approval — the look of a man whose main floor had just delivered exactly the kind of night that would be talked about for weeks.
+
 Cael absorbed this fully, the way he absorbed most things that arrived with genuine weight behind them, and wrote it into the Power Log that evening: *Information asymmetry works both ways. Begin thinking about which patterns to vary, deliberately, before someone else builds the same kind of file on me that I've been building on everyone else.*
 
 ---
@@ -70,6 +76,28 @@ Lira raised her cup partway through the meal, a small, private toast that didn't
 
 "You appreciate it the way you appreciate everything — by filing it and moving to the next problem." She wasn't wrong, and Cael didn't pretend otherwise.
 
+"What did he say to you?" Lira asked, a little later, not looking up from her bowl, the studied casualness she used when she wanted an honest answer more than a performed one. "Keth. After."
+
+"That anyone who studies someone long enough can learn to do the same thing back to them." Cael turned his cup slowly in his hands. "He's right. I've already started thinking about which patterns to change before somebody builds the same kind of file on me that I've been building on everyone else."
+
+"Tonight? You won an hour ago."
+
+"The thinking doesn't wait for a convenient time to start. It just starts." He said it as a plain fact about how his mind worked, not as an apology for it, and didn't especially expect her to like the answer.
+
+She didn't, entirely — he could see that much in the way her mouth set — but she let it go rather than pushing, the particular kind of letting-go that meant she'd filed the observation for later rather than abandoned it. "One evening," she said instead. "You're allowed one evening where the only thing that happened today is that you won. Just the one."
+
+"I know."
+
+"Do you?" The question carried the gentle challenge it so often did, fond rather than sharp, an old argument worn comfortable between them by now. "Eat, Cael. The patterns will still be there tomorrow."
+
+He ate. It was, he privately conceded, good stew.
+
+Brom, watching the exchange with the mild interest of a man who found most human negotiations quietly entertaining, waited until Cael had gotten several spoonfuls in before speaking again. "She's right, you know," he said. "Though she's also not going to win this particular argument. Not tonight. Possibly not ever."
+
+"You're not helping," Lira said, without much heat.
+
+"I'm not trying to help. I'm making an observation." Brom's tone stayed level, unbothered as always. "It's an old argument. Older than either of you know I've noticed. I'm simply confirming which side is going to keep losing it."
+
 "Now the interesting ones will come," Brom said, between bites, entirely unbothered by his own prediction.
 
 "Why?"
@@ -80,7 +108,33 @@ Lira raised her cup partway through the meal, a small, private toast that didn't
 
 "It's an observation. Whether it's a compliment depends on how you feel about attention." Brom considered his own question for a moment. "You don't love attention. You tolerate it because it's occasionally useful. That's going to be tested soon."
 
+"Tested how?"
+
+"I don't know yet. That's what makes it worth saying now rather than later." Brom set down his cup, unhurried, the way he did most things. "You built a version of yourself designed to be noticed, for reasons that made sense at the time. Tonight you found out the noticing works. What you haven't found out yet is what it costs, because the bill for that kind of thing rarely arrives the same week the purchase does."
+
+Lira glanced at Cael, then back at Brom, something wary crossing her expression before she smoothed it away. "That's a cheerful thing to say over dinner."
+
+"I have never claimed to be cheerful. I claim to be accurate." Brom almost smiled, the closest he generally came to it. "Eat your stew. I only said it was coming. I didn't say it was coming tonight."
+
+They let the subject rest after that, the three of them settling back into the easier rhythm of a meal that had, for one evening, nowhere it needed to go. Cael found himself, more than once, simply watching the two of them talk past him about something unrelated — a shipment Brom was tracking, a drill Lira meant to run in the morning — content, for the length of a bowl of stew, to let the day be only what it was rather than the first data point in some larger pattern he'd need to work out later. It didn't last, exactly. It never entirely did. But it lasted long enough to notice, which was its own kind of victory, quieter than the one the ledger had recorded but not, he thought, a smaller one.
+
 He was, as it would turn out within a matter of weeks, entirely correct.
+
+---
+
+The change, when Cael went looking for it in the days that followed, wasn't loud. It rarely was, in Ardenmere; the district had never been given to loud reactions about much of anything, and it treated a new Iron-equivalent name the way it treated most things — noted, absorbed, folded into the ordinary texture of the place without much ceremony.
+
+It showed up first in the small transactions he'd stopped consciously noticing months ago. The woman who ran the mending stall near Torvin's, who had spent the better part of a year addressing him only as "the boy who fixes his own sleeves wrong," asked his name directly for the first time and then used it twice in the same short exchange, as if testing how it sat in her mouth before committing to it. Dace stopped introducing him to newcomers as "the unranked one who's worth watching" and started, without any visible decision to do so, simply saying "Cael" and trusting the newcomer's own circuit knowledge to fill in whatever came after. Fighters who'd shared the practitioners' quarter with him for months and never offered more than a nod began stopping to talk — not always about anything that mattered, the weather, a bout they'd both watched, the price of wraps at the market — but talking, which turned out to be its own kind of recognition, one he hadn't fully appreciated the absence of until it stopped being absent.
+
+The old yard-owner, watching him cross the practice floor one morning, offered only: "You've got a face people know now." He didn't elaborate, and Cael understood, without needing him to, that the observation was both a compliment and a small warning, the two folded together the way they usually were when the old man bothered to speak at all.
+
+It was a stranger sensation to sit with than Cael had expected. He'd spent most of his life since Weaver's Row cultivating the opposite condition — unremarkable, forgettable, a shape that slid past attention rather than gathered it. He had built himself, deliberately and at real cost, to be the kind of person nobody thought twice about. Becoming, instead, someone whose name got used rather than avoided, whose face got remembered rather than filed away as merely another face in a crowded district, felt less like an achievement and more like an experiment whose results he hadn't yet decided how to read.
+
+He wrote about it that week, in the private section of the log rather than the tactical one, in an entry shorter than most: *Being known is not the same as being safe. I already understood that in theory. I am starting to understand it a different way now, in the way strangers say my name.*
+
+He thought, more than once in those days, about what Brom had said at dinner — that a story about a fighter nobody could classify would travel further and faster than a story about a fighter who was simply very good. He hadn't disagreed with the reasoning even as Brom offered it. He hadn't fully understood, though, not until he was living inside it day by day, what it would actually feel like to become the story rather than simply hear one told about somebody else.
+
+There were smaller signs of that reach beyond Ardenmere's own gates, too, if he knew where to look for them. Dace mentioned, in passing, that a courier from another circuit district had asked after the result before the ledger ink had properly dried, the kind of interest that didn't come from idle curiosity. Vell noted, with the same flat register she used for everything, that two names she didn't recognize had asked to see the entry itself, in her own book, rather than simply hear about it secondhand. None of it amounted to much on its own — a courier, a pair of strangers, the ordinary churn of a circuit that had always talked to itself across district lines. But Cael had learned, by now, not to dismiss small signs simply because they arrived alone. He filed each one in the notebook exactly as he'd have filed a fighter's tell, and waited, the way he'd learned to wait, for the pattern underneath them to finish declaring itself.
 
 ---
 

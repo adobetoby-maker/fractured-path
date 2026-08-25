@@ -50,6 +50,8 @@ He left without waiting for a response, and by the following morning, word of th
 
 Cael received the news from Dace directly, mid-morning, before the day's training had properly started. Dace found him at the alcove wall, delivered it in the same unhurried, matter-of-fact tone he used for every scheduling update regardless of its actual weight, and waited, watching, for whatever reaction Cael was going to have.
 
+The alcove wall was where Cael did most of his early-morning thinking these days, worn smooth in places from a year of leaning against it while he ran through footwork or turned some half-formed observation over until it resolved into something usable. It wasn't a private spot, not really — anyone crossing the yard could see him there — but it had become private in practice, the kind of visible solitude the Ironyard's regulars had quietly learned to leave alone. Dace clearly understood that too, delivering the news there rather than pulling him aside somewhere more deliberately quiet, as if the ordinariness of the setting were meant to keep the moment itself ordinary a little longer.
+
 Cael sat with it a moment before responding, running the bare facts through the same careful processing he brought to any piece of information that arrived without enough context yet to act on.
 
 "What's his tier?"
@@ -60,7 +62,7 @@ A pause, longer this time. "When?"
 
 "Two weeks. Main floor."
 
-He turned the phrase over. The main floor, at capacity, for an Iron-tier outside opponent against an unclassified Iron-equivalent local. He'd fought on the main floor before — the Brom fight had been there, the ordinary weekly bouts that drew a genuine crowd — but this felt different in a way he couldn't yet name precisely, a weight in how Dace had said it that went beyond the words themselves.
+He turned the phrase over. The main floor, at capacity, for an Iron-tier outside opponent against an unclassified Iron-equivalent local. He'd fought on the main floor before — the Brom fight had been there, the ordinary weekly bouts that drew a genuine crowd — but this felt different in a way he couldn't yet name precisely, a weight in how Dace had said it that went beyond the words themselves. Iron Rank 8 was a full tier and most of a rank above anything he'd faced since arriving in Ardenmere, closer to the Bronze threshold than to the Copper-range opponents he'd spent the last year learning to beat cleanly. He ran the comparison anyway, out of habit more than usefulness — Feryn, Sarel, Talis, Darrow Innes, every name in the log measured against a rank he hadn't fought yet and didn't have enough information to weigh properly. The comparison told him less than he wanted it to. That, itself, was information.
 
 "You could say no," Dace added, unprompted, something almost gentle in the offer. "Nobody's making you take this. Reydan wants it. That doesn't mean you have to give it to him."
 
@@ -70,7 +72,9 @@ He turned the phrase over. The main floor, at capacity, for an Iron-tier outside
 
 "No."
 
-Dace nodded, unsurprised, and left him to it — the specific, practiced discretion of a man who'd learned, over years of running this place, exactly when a fighter needed room rather than conversation.
+Dace nodded, unsurprised, and left him to it — the practiced discretion of a man who'd learned, over years of running this place, exactly when a fighter needed room rather than conversation.
+
+Cael stayed at the wall some time after Dace had gone, turning the two facts over without yet trying to build them into a plan — the tier, and the two weeks — because building too early, before he'd let the shape of the problem finish settling, had cost him clarity before. He'd learn everything he could stand to learn before the day was out. For now, he let himself simply hold it, the way he'd learned, over a year of exactly this kind of news, to hold anything that mattered too much to rush.
 
 ---
 
