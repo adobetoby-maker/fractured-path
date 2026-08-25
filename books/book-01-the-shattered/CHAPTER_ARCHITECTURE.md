@@ -18,9 +18,10 @@ Make the reader feel expelled alongside Cael — and then make them want to stay
 ## Clue / Plant Ledger
 
 Plants required for future reveals:
-- [ ] **Book 3 plant:** One moment where Cael moves with an ability he hasn't been told he has (planted as instinct, not understood yet)
-- [ ] **Book 8 plant:** Old text or record that uses a word other than [SHATTERED] for what Cael is (Mira finds this; Cael doesn't see it)
-- [ ] **Book 6 plant:** One moment where the Compact's behavior toward Cael is disproportionate to what a bureaucratic monitoring protocol should produce (hint at active suppression interest)
+- [ ] **Book 3 plant:** One moment where Cael moves with an ability he hasn't been told he has (planted as instinct, not understood yet) — Ch9, sparring with Lira
+- [ ] **Book 6 plant:** One moment where the Compact's behavior toward Cael is disproportionate to what a bureaucratic monitoring protocol should produce (hint at active suppression interest) — Ch11 (unsanctioned active sweep), Ch18 (unrecognized evaluation-system flag), Ch24 (unauthorized senior-level flag on Coss's own check)
+
+*Book 8's plant (old text using a word other than [SHATTERED]) now belongs to Book 3, per series bible — Mira has not yet been introduced in this book and should not be. Do not stage it here.*
 
 ---
 
@@ -54,7 +55,7 @@ In the side room, Cael waits for forty minutes while Hesk is called in. Hesk's f
 
 *Plant (Book 3):* Hesk, quietly, tells Cael: "Don't let anyone see you move until you know what you're doing." Cael asks what that means. Hesk says: "You'll understand." He doesn't explain further.
 
-*Fragment notice: none. Cael's Arbiter goes dark after the classification. It will not speak again for years.*
+*Fragment notice: none yet. Whatever just happened does not repeat through any channel the registry can see. Fragment notices, when they begin (Chapter 15), arrive through a separate, unexplained channel — not a second formal declaration.*
 
 ---
 
@@ -112,7 +113,7 @@ She is watching Cael watch the circuit notice board with the specific attention 
 
 Their first conversation establishes the dynamic immediately: she is faster and funnier than most people expect, and she is genuinely interested in Cael as a problem — not as a person, yet, but as an unusual thing she wants to understand. He is dry and specific and does not perform friendliness. They are, immediately, interesting to each other.
 
-She has seen his registry document over his shoulder (he doesn't know this yet). [SHATTERED] is not something she has ever encountered. She does not mention it. She asks if he can fight.
+*As drafted:* Cael tells her directly, unprompted — deciding for himself how and when the word gets said rather than having it discovered sideways. She doesn't flinch, doesn't perform sympathy, just recalibrates and keeps talking. She looks up the classification on her own that night, out of curiosity, rather than having recognized it in the moment. This is stronger than the original beat (his agency over disclosure vs. discovery) — Chapter 10 has been revised to match: it's now "the first time they address it directly *as a shared problem*," not the first time the word is spoken between them.
 
 ---
 
@@ -170,7 +171,7 @@ He asks Lira, carefully, what her Arbiter tells her when she checks it. She desc
 
 Cael: "What does it look like when it doesn't respond?"
 
-Lira: "It doesn't. It always responds. Unless—" She stops. She knows what [SHATTERED] means. This is the first time they address it directly.
+Lira: "It doesn't. It always responds. Unless—" She stops, and Cael confirms it's what she's already worked out on her own since Chapter 6. This is the first time they address it directly *as a shared, present problem* rather than a fact she's already absorbed and set aside.
 
 The conversation is honest and does not linger. Lira asks what the registry notice says. Cael shows her the document. She reads it. She gives it back. She says: "The circuit doesn't care what the registry says."
 
@@ -194,9 +195,9 @@ He tells Lira. She: "How long do you have before they find you?" Cael: "I don't 
 **Chapter 12 — First Win**
 ~4,600 words
 
-Cael's first circuit win. Copper Rank 5, Wind-adjacent Path. Not Lira's path — a different Wind practitioner whose movement patterns Cael has been watching for two weeks from the circuit audience.
+Cael's first circuit win. Copper Rank 5, Stone Path. A practitioner whose grounded, patient style Cael has been watching for two weeks from the circuit audience — the kind of opponent that punishes impatience.
 
-The fight. Cael wins because he has been watching this specific practitioner's specific tells for two weeks, and because in the second exchange, something happens that he doesn't fully understand until later: he moves with the Wind practitioner's path in a way that isn't defensive. It's integrative. He absorbs the rhythm of the movement before the ability fully fires, and he counters into the gap it creates.
+The fight. Cael wins because he has been watching this specific practitioner's specific tells for two weeks, and because in the second exchange, something happens that he doesn't fully understand until later: he moves with a stillness that isn't his own, absorbing the rhythm of a *different* pattern he's been quietly tracking for longer than two weeks — Lira's. It's the first time the Wind-adjacent instinct from their morning sparring (Ch9) surfaces under real pressure, though he won't have a name for it until Chapter 15.
 
 He wins. The Ledger-keeper records: unrated, win by opponent incapacitation, atypical movement pattern in second exchange.
 
@@ -253,7 +254,7 @@ FRAGMENT ACQUIRED
 [unnamed] — Wind-adjacent. Duration: undetermined. Integration: partial.
 Tier equivalent: unknown.
 ```
-Cael receives this alone, late at night, after reviewing his combat notes. He stares at it for a long time. He does not tell Lira.
+Cael receives this alone, late at night, after reviewing his combat notes. He knows immediately what it is and where it came from — the months of morning sparring, watching Lira move. He stares at it for a long time. He does not tell Lira, not because he's hiding it exactly, but because he doesn't yet know how to tell her *this is yours and also mine now* without it sounding like something it isn't.
 
 ---
 
@@ -275,7 +276,7 @@ The chapter interlaces this notebook interiority with a secondary event: Lira co
 **Chapter 17 — Bronze**
 ~4,600 words
 
-Three weeks later. Cael enters the high-profile bout. His opponent: Feryn, Bronze Rank 2, [Pressure Path] — a specialization that generates force waves and sustained crushing pressure. Feryn is 24, legitimate, has no idea who he's fighting until he walks into the circuit space and sees a fourteen-year-old.
+Three weeks later. Cael enters the high-profile bout. His opponent: Feryn, Bronze Rank 2, Pressure Path — a specialization that generates force waves and sustained crushing pressure. Feryn is 24, legitimate, has no idea who he's fighting until he walks into the circuit space and sees a fourteen-year-old.
 
 The fight is the chapter. Cael loses. It's not close. But three specific things happen:
 
@@ -288,7 +289,7 @@ After: Feryn offers to buy Cael dinner. This is unusual. Feryn is not sentimenta
 *Fragment notice (second):*
 ```
 FRAGMENT ACQUIRED
-[unnamed] — Force-adjacent. Duration: undetermined. Integration: partial.
+[unnamed] — Pressure-adjacent. Duration: undetermined. Integration: partial.
 Tier equivalent: unknown.
 ```
 
@@ -341,85 +342,68 @@ After Coss leaves, Cael writes in his notebook: *He doesn't want me gone. Someon
 
 ---
 
-**Chapter 21 — The Academy Offer**
+**Chapter 21 — The Wager**
 ~4,600 words
 
-The Greyvane Academy scout finds Cael.
+Cael decides not to disappear. If Coss's message is *leave quietly and this stays simple*, the answer is to become the opposite of quiet — because a fourteen-year-old nobody in the Compact will admit to caring about is easy to retrieve without consequence, and a fourteen-year-old the whole Unranked District has a stake in is not.
 
-Not through the circuit — through Feryn, who has been describing the "unranked fourteen-year-old" to his Bronze-tier acquaintances for three weeks. The scout is a teaching-rank practitioner from Greyvane, Silver-tier, who has been looking for unusual prospects for the academy's demonstration-provision track — a minor-use clause that allows unkindled prospects to attend under observation status.
+He goes to Vell, the circuit's Ledger-keeper, and asks for something that hasn't happened before in Ardenmere: a marquee bout, publicly wagered, publicly witnessed, against a name opponent — not a demonstration, a real contest with real stakes, advertised on every notice board in the district.
 
-The scout knows Cael is not unkindled. Cael's registry document is technically publicly accessible. The scout is choosing to treat the demonstration-provision clause as applicable anyway. It is a workaround — not illegal, but not precisely what the clause was designed for.
+Vell is skeptical. Marquee bouts draw the kind of attention that gets circuits shut down. Cael's counter: attention is the point. Feryn, present for the conversation (he's taken to checking in on Cael every few weeks since their dinner), backs the request and offers to help find the opponent — someone legitimate enough that a win means something, careful enough that a loss doesn't mean a funeral.
 
-The offer: attend Greyvane under demonstration-provision status. Not full enrollment. Observation only, with monthly assessments to maintain the status. The academy is minor-tier and has nothing to gain from this except the possibility that this practitioner is what Feryn says he is, in which case they will have a very unusual asset.
+Lira is furious he didn't ask her first. Then she's in, completely, the way she commits to everything once she's decided it's happening.
 
-Cael's response: "What happens when the Compact's monitoring finds me at a registered academy?" Scout: "That becomes our problem, not yours. We have legal staff." Cael: "And when the demonstration assessments produce results the Compact doesn't like?" Scout: "We've handled unusual practitioners before."
-
-He asks for a day. He asks Hesk, by letter. Hesk's response arrives quickly: *Go. You need a structure that knows you exist.*
+The opponent is set within the week: Darrow Innes, Bronze Rank 1, Iron Path — a visiting circuit professional with a genuine reputation, in Ardenmere for exactly this kind of high-purse exhibition.
 
 ---
 
-**Chapter 22 — Preparing**
+**Chapter 22 — What Winning Would Actually Change**
 ~4,600 words
 
-Cael and Lira prepare to leave Ardenmere. Lira's decision to come is not dramatic — she decides within an hour of Cael telling her about the offer. Her reason: the academy's demonstration-provision track may apply to expelled practitioners as well as unkindled ones. She is going to find out.
+The two weeks before the bout. Training intensifies — Lira drilling him on Iron Path counters, Feryn stopping by with tactical notes on Darrow's known fights, the district's attention building in a way that makes Cael uncomfortable and Lira delighted.
 
-The chapter is about leavings — small and specific. The circuit Ledger-keeper who tracked Cael's entire record and gives him a hand-written summary of it (unofficial, personal). The first fight opponent, the Copper Rank 3, who nods at Cael from across the market. Feryn, who finds Cael at the gate and says: "Come find me when you've figured it out." He means the power. Cael says he will.
+A quiet scene between Cael and Lira, late, after a training session: what does winning actually change? Not the registry. Not the classification. Lira's answer, direct: *It doesn't change what you are. It changes who'd have to explain themselves if something happened to you.* Visibility as armor — a version of Hesk's "perform competence" scaled up to an entire district's worth of witnesses.
 
-Cael's notebook at departure: 14 observations about Path abilities he's witnessed. 2 confirmed fragments. 1 working hypothesis about what the Fractured Path does, which he is not yet confident enough to write in declarative form.
+A letter arrives from Hesk — the first exchange since Cael left, mentioned but not detailed here (their correspondence becomes a recurring texture, not a single event). Hesk's line, which Cael copies into his notebook: *Being seen is not the same as being safe. But it's not nothing.*
 
-*Fragment notice: still only 2. He enters Greyvane with 2 fragments. He leaves it with his first conscious integration.*
+Coss makes a second unofficial visit, this one less composed than the first. He's heard about the marquee bout. He tells Cael, plainly, that this is a mistake — that visibility invites exactly the kind of senior-level attention Coss has been trying to keep off him. Cael: "You said someone else already wants me gone. I can't out-quiet that. I can out-loud it." Coss doesn't have a good answer. He leaves without threatening anything, which is itself information.
 
 ---
 
-**Chapter 23 — Greyvane**
+**Chapter 23 — The Bout**
 ~4,600 words
 
-Arrival at Greyvane Academy. First encounter with the institution — not the combat programs, but the administrative process. Cael's enrollment is handled by the scout, who has prepared the paperwork. The academy registrar processes it with the specific face of a person who is doing something that is technically correct but also technically unprecedented.
+The fight. The whole chapter is the fight — the biggest set-piece in the book so far, staged as a genuine event: the Cinder House yard packed beyond capacity, Vell presiding as Ledger-keeper, betting running heavy against Cael, Lira and Feryn in the crowd.
 
-Cael is assigned to observer status — not enrolled in a Path cohort, not assigned to combat training, not given academy housing (he and Lira find rooms in the town adjacent to campus). He is permitted to attend lectures, practical demonstrations, and assessment sessions. His monthly assessment: demonstrate observable practice that warrants continued enrollment.
+Darrow is exactly as good as advertised — Iron Path grants him layered physical resilience that makes straightforward damage a losing strategy. Cael wins by doing what he's been doing since Chapter 8: watching, patterning, waiting for the gap. In the climactic exchange, he deploys the Wind-adjacent and Pressure-adjacent fragments together for the first time — not as a plan, but because the moment demands a response that neither fragment alone could produce, and his body produces it before his mind catches up. He doesn't understand what just happened until afterward. Neither does anyone watching.
 
-Lira's situation: the scout found the expelled-practitioner provision she was looking for. She is enrolled as a re-certification candidate — enrolled, not just observed, but under conditions that require monthly requalification. They are both under observation. They are both, for different reasons, in a place that has committed to knowing they exist.
+He wins. Not cleanly, not without cost — he's hurt, genuinely, for the first time in the book. But he wins, publicly, decisively, in front of enough witnesses that "the [SHATTERED] boy from the circuit" becomes a specific, well-known person in Ardenmere rather than a rumor.
 
-**Introduction of Mira:** She is in the third lecture Cael attends. She is the best practitioner in the room, visibly so — not arrogant about it, just precise in the specific way of someone who has trained seriously and knows it. She watches Cael during the practical demonstration component. He is doing something that doesn't fit the demonstration's framework, which the instructor flags as incorrect. Mira, without looking at Cael: "It wasn't incorrect. It was a different optimization." The instructor is not pleased. Mira is unbothered.
-
-After: Mira finds Cael in the hallway. "You're the [SHATTERED] from the circuit." Cael: "Who told you?" Mira: "I keep track of interesting things." She extends her hand: "I want to understand what you're doing." Not: I want to help you. Not: you're remarkable. She wants to understand. This is the most honest thing anyone has said to Cael since Hesk's notebook.
+*Fragment notice (third — first combined-use integration):* the two existing fragments (Wind, Pressure) register as functioning together for the first time. No new fragment yet — this is method, not acquisition. Cael's notebook entry that night: *They're not separate things I switch between. They're one thing with parts I haven't found all of yet.* (This line closes the book — plant it here, echo it in Ch24.)
 
 ---
 
-**Chapter 24 — The First Win That Counts**
+**Chapter 24 — The Message**
 ~4,600 words
 
-Cael's first monthly assessment. The assessment panel includes the scout, the registrar, and — surprise — Warden Coss, who has invoked the Compact's right to observe demonstration-provision assessments for non-standard classified practitioners.
+Aftermath. The win changes Cael's standing in the district exactly the way he hoped — he's protected now by the simple fact that too many people would notice if he disappeared. Vell's formal circuit record lists him, for the first time, by name rather than "unrated."
 
-The assessment takes the form of a practical demonstration: Cael must demonstrate observable Path practice to a panel evaluator. The evaluator is an Iron-tier practitioner who will attempt to assess what tier-equivalent Cael's abilities are operating at.
+But the escalation Coss warned about arrives anyway, faster than expected. Not a retrieval attempt — something quieter and more unsettling: Cael's registry file, when Coss checks it days later (a scene from Coss's perspective, brief, mirroring Ch13), now carries a flag Coss didn't request and doesn't have clearance to read the reason for. Senior-level. Above his authority. He stares at it a long moment, then closes the file without comment.
 
-The practical: sparring, limited contact, one exchange. Cael spars the evaluator.
+Cael doesn't know about the flag. What he knows is smaller and stranger: two days after the bout, a stranger — not Compact, not circuit, unreadable — watches him from across the market for exactly as long as it takes to be noticed, then leaves without approaching. Cael tells Lira. Neither of them can explain it. It isn't threatening. It's *interested*, in a way that feels older and more patient than anything the Compact has shown so far.
 
-In the third movement of the exchange, Cael uses both of his fragments — the Wind-adjacent and the Force-adjacent — simultaneously, for the first time. He did not plan this. It happens because the evaluator's combination attack creates a specific gap that only a combination response closes. The combination works. The evaluator stops the exchange.
+*Close:* Cael, that night, adds to his notebook, beneath the line from Ch23: *Someone else wants me gone. I used to think that meant the Compact. I'm starting to think Coss doesn't know who he was talking about either.*
 
-Long silence. Cael's Arbiter, in the privacy of his own perception, generates a response for the first time since Kindling — not a Path declaration, just:
-
-```
-FRAGMENT ACQUIRED
-[unnamed] — Pressure-adjacent. Duration: undetermined. Integration: partial.
-Tier equivalent: unknown.
-```
-
-Third fragment. His first conscious integration arrived between chapters — he integrated Mira's Ember fragment during the lecture session, watching her demonstrate without realizing what he was doing. He will understand this later. What matters now:
-
-The panel votes to continue his enrollment. Three to zero, with Coss abstaining.
-
-Coss does not speak to Cael afterward. He files a report to the Compact. Somewhere above Coss's level, a file is flagged for senior attention.
-
-*Close:* Cael, alone in the room after the panel leaves, writes in his notebook. One line: *It's not separate things. It's one thing with parts I haven't found yet.*
+Book ends here — the circuit win secured, Cael's standing changed, and the Compact-flag mystery deliberately widened rather than resolved, setting up Book 2's escalation.
 
 ---
 
 ## Continuity Checkpoint
 
-- [ ] [SHATTERED] not disclosed as [UNBOUND] in this book — Mira finds the reference but Cael doesn't see it
-- [ ] Fragment integration: Wind (Chapter 9/12 — observation), Force (Chapter 17 — contact), Pressure (Chapter 23 — observation), Ember (Chapter 23 — observation without awareness); 4 fragments at book close
-- [ ] Compact monitoring escalation: passive flag → active monitoring → senior-level attention — escalation planted
-- [ ] Hesk backstory: knows about [SHATTERED] before Kindling — planted, not explained; OPEN
+- [ ] [SHATTERED] not disclosed as [UNBOUND] in this book — that plant now belongs to Book 3, staged through Mira, who is not introduced until Book 3
+- [ ] Fragment integration: Wind (planted Ch9 via Lira's sparring patterns, formally acquired Ch15), Pressure (Ch17, from Feryn's Pressure Path); 2 fragments at book close, first combined-use deployment in Ch23
+- [ ] Compact monitoring escalation: passive flag (Ch11 sweep) → procedural friction (Ch14, Ch18) → unrecognized senior-level flag (Ch18 plant, confirmed Ch24) — escalation planted, not resolved
+- [ ] Book ends in Ardenmere. No academy offer, no Greyvane arrival, no Mira — those beats now belong to Book 2's ending and Book 3's opening respectively (confirmed against Book 2's architecture, which opens compatible with this ending)
+- [ ] Hesk backstory: knows about [SHATTERED] before Kindling; witnessed a prior case as a young Compact logistics officer, outcome unknown — planted Ch2–3, not explained; OPEN
 - [ ] Coss: agent status confirmed, but his Compact rank is not clarified — OPEN
-- [ ] State ledger: update after chapter architecture finalizes
+- [ ] State ledger: update after chapter architecture finalizes (see below — companion roster and fragment state both need revision)
