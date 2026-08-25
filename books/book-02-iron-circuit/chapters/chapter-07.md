@@ -132,7 +132,7 @@ It was, he decided, outside his lane for now. He closed the file and moved on to
 
 He walked home later than usual, the district's evening crowds thinning around him, and found himself turning the whole day over one more time before he let it go for the night — the calm boy at the market, the marker with no origin, his own unplanned admission on the way out. None of it added up to anything he could act on. All of it, together, sat in his mind with a weight that a genuinely routine compliance visit had no business leaving behind.
 
-He didn't know, walking home that evening, that he had just become one small, quiet piece of something considerably larger than his own modest grade level would ever be cleared to see in full — a junior officer's honest unease, filed alongside a Ledger-keeper's forty years of records and a Compact warden's own uneasy silence, three separate people circling the edges of the same unexplained shape from three directions that would never, in the ordinary course of things, have any reason to compare notes.
+He didn't know, walking home that evening, that he had just become one small, quiet piece of something considerably larger than his own modest grade level would ever be cleared to see in full — a junior officer's honest unease, filed alongside a Ledger-keeper's thirty years of records and a Compact warden's own uneasy silence, three separate people circling the edges of the same unexplained shape from three directions that would never, in the ordinary course of things, have any reason to compare notes.
 
 He simply went home, made himself a modest dinner, and slept the untroubled sleep of a man who had done his job correctly, whatever quiet questions the job had left unanswered behind it.
 

@@ -12,19 +12,19 @@ He worked through the entry with the same unhurried care he brought to everythin
 
 He set the pen down for a moment and let himself replay the actual fight rather than just the compressed version already living on the page — a habit he'd kept from the very beginning, checking his own written account against the fuller memory before the memory had time to simplify itself into something less useful.
 
-The opponent — Corren, a name he'd learned only because Vell's ledger required it, not because either of them had bothered with introductions — had come in confident, the settled ease of a guild-trained Blade practitioner who'd fought plenty of circuit opponents and rarely found one worth adjusting his opening approach for. Cael had let him keep that confidence through the first two exchanges, giving up ground he didn't need, letting Corren's read of him settle into exactly the shape Corren expected it to take. It was a technique he'd built slowly, over a year, out of watching how badly overconfidence punished itself once it finally met something it hadn't accounted for.
+The opponent — Ulric, a name he'd learned only because Vell's ledger required it, not because either of them had bothered with introductions — had come in confident, the settled ease of a guild-trained Blade practitioner who'd fought plenty of circuit opponents and rarely found one worth adjusting his opening approach for. Cael had let him keep that confidence through the first two exchanges, giving up ground he didn't need, letting Ulric's read of him settle into exactly the shape Ulric expected it to take. It was a technique he'd built slowly, over a year, out of watching how badly overconfidence punished itself once it finally met something it hadn't accounted for.
 
-The shoulder-drop had shown up first in the second of the four bouts he'd watched — a small, almost invisible tell, the kind of thing that would have meant nothing without three other data points to confirm it wasn't simply an accident of that particular fight. By the fourth watched bout, he'd been certain enough to build the whole plan around it: wait for the third exchange, let Corren's guard settle into its most confident shape, and answer the telegraph a half-beat before the strike actually committed rather than after.
+The shoulder-drop had shown up first in the second of the four bouts he'd watched — a small, almost invisible tell, the kind of thing that would have meant nothing without three other data points to confirm it wasn't simply an accident of that particular fight. By the fourth watched bout, he'd been certain enough to build the whole plan around it: wait for the third exchange, let Ulric's guard settle into its most confident shape, and answer the telegraph a half-beat before the strike actually committed rather than after.
 
 It had worked cleanly. Not dramatically — nothing about it would have looked, from the crowd's perspective, like anything more than a solid, competent circuit win. But Cael understood, in the quiet satisfaction that followed every fight built this way, that the cleanliness itself was the actual achievement. A messy win taught you less than an ugly loss. A clean win built on six hours of prior watching taught you that the method worked, again, one more time, in a fight that could have gone very differently against a less patient opponent.
 
-He was fifteen now. He had been in Ardenmere for just over a year, which felt like both an enormous stretch of time and no time at all, depending on which part of himself he asked. The observation notebook — the original one, the one that had started with Renn's telegraphed strikes and Dessa's transition windows — had twenty-three entries in it now, each one a little more precise than the last. The fragment log, which he'd finally separated out into its own slim volume six months ago because keeping tactical opponent data and his own private architecture in the same pages had started to feel like a filing error, had two entries. Wind-adjacent. Pressure-adjacent.
+He was fifteen now. He had been in Ardenmere for just over a year, which felt like both an enormous stretch of time and no time at all, depending on which part of himself he asked. The observation notebook — the original one, the one that had started with Renn's telegraphed strikes and Dessa's transition windows — had twenty-three entries in it now, each one a little more precise than the last. The fragment log, which he'd finally separated out into its own slim volume because keeping tactical opponent data and his own private architecture in the same pages had started to feel like a filing error, had two entries. Wind-adjacent. Pressure-adjacent.
 
 Vell's ledger, three tables over, would already show the result: *Assessed-Copper (Hesk-ward, C.), win, atypical movement pattern in third exchange, opponent Copper-tier formal.* Atypical movement pattern. It was, by now, close to a permanent fixture of his entries in that ledger, the way *win by exchange-four incapacitation* had once been. Vell never asked him to explain the atypical part. He suspected she'd stopped needing an explanation months ago.
 
 She'd caught him on the way to the alcove, actually, ledger still open, and glanced at the entry she'd just finished writing before glancing back at him.
 
-"Corren's going to want a rematch," she said. "He won't get one for a while. His pride needs longer to recover than his body does."
+"Ulric's going to want a rematch," she said. "He won't get one for a while. His pride needs longer to recover than his body does."
 
 "I wasn't trying to hurt his pride."
 
@@ -32,13 +32,13 @@ She'd caught him on the way to the alcove, actually, ledger still open, and glan
 
 "Should I apologize?"
 
-"Absolutely not. Just don't be surprised when some of them stop being gracious about it." She'd said this without any particular warning in her tone, just the flat, practical observation of someone who'd watched the circuit's social currents shift for forty years and had long since stopped being surprised by any particular pattern in them. "Go write your notes. I've got three more results to log before I can go home."
+"Absolutely not. Just don't be surprised when some of them stop being gracious about it." She'd said this without any particular warning in her tone, just the flat, practical observation of someone who'd watched the circuit's social currents shift for thirty years and had long since stopped being surprised by any particular pattern in them. "Go write your notes. I've got three more results to log before I can go home."
 
 He'd gone. The exchange sat with him now, a small addition to the evening's accounting alongside the fight itself — one more data point in the slow, ongoing project of understanding exactly what his growing reputation was actually costing him, and what it was buying him in return.
 
 He closed the observation notebook and opened the fragment log instead, which he did rarely enough — twice a week, sometimes less — that the act itself still felt significant every time, a different kind of writing than anything else he did.
 
-It was a slim volume, deliberately so. He'd chosen the smallest binding the stationer carried when he'd finally separated it out from the observation notebook six months ago, on the theory that a book too large would tempt him to fill it with speculation rather than confirmed fact. Two entries lived in it now, each one taking up most of a page, the surrounding white space a kind of honesty in itself — evidence of how little he actually knew, laid out plainly rather than padded with guesses dressed up as data.
+It was a slim volume, deliberately so. He'd chosen the smallest binding the stationer carried when he'd finally separated it out from the observation notebook, on the theory that a book too large would tempt him to fill it with speculation rather than confirmed fact. Two entries lived in it now, each one taking up most of a page, the surrounding white space a kind of honesty in itself — evidence of how little he actually knew, laid out plainly rather than padded with guesses dressed up as data.
 
 He'd added a third column to each entry this month, after six months of methodically testing what the fragments could actually do rather than simply confirming, over and over, that they existed. *Functional deployment range.* It had taken him most of the winter to work out a testing method he trusted — controlled sparring sessions with Lira, logged separately from their ordinary training, each one designed to isolate a single variable rather than let the fragments blur together the way they tended to under real pressure.
 
@@ -54,7 +54,7 @@ He was midway through annotating the Wind-adjacent entry's new column when Lira 
 
 She didn't say anything. She looked at the small, precise handwriting, the two entries, the column he was filling in — and something in her expression settled into a familiar shape: patient curiosity, held rather than spoken.
 
-She already had guesses. She'd had guesses for months. She was waiting until he was ready to confirm them properly, the way she waited for most things that mattered — not passively, but with the discipline of someone who understood that some doors opened faster if you didn't lean on them.
+She knew the book as well as anyone but its author — the fragments had started with her, and she'd read more of its pages than anyone besides him. But he was still mid-entry, and she'd long since learned the difference between a page he offered and a page he was still writing. She waited, the way she waited for most things that mattered — not passively, but with the discipline of someone who understood that some doors opened faster if you didn't lean on them.
 
 "Good fight?" she asked instead.
 
@@ -118,41 +118,39 @@ The Ironyard itself had become as familiar to him as Denvash's Outer District on
 
 They walked back to the boarding house together once the evening crowd had thinned enough to make conversation possible without shouting over it, the observation notebook and the fragment log both tucked into the same worn bag, the way they'd traveled together for a year even after he'd finally separated their contents onto different pages. The street outside the Ironyard was busy in its own particular evening way — vendors closing stalls, a pair of younger circuit hopefuls arguing good-naturedly about a bout they'd both watched from the cheap standing section, someone's dog trotting past with the specific unbothered confidence of an animal that had decided, long ago, this entire district belonged to it.
 
-"You're going to have to tell me eventually," Lira said, not quite out of nowhere — she had a way of returning to a subject after enough silence that it felt like a fresh thought rather than a resumed one, a habit Cael had noticed months ago and never once managed to predict the timing of.
+"You finished the deployment-range column," Lira said, not quite out of nowhere — she had a way of returning to a subject after enough silence that it felt like a fresh thought rather than a resumed one, a habit Cael had noticed months ago and never once managed to predict the timing of.
 
-"Tell you what?"
+"I did."
 
-"Whatever's in that second book that you only open when you think I'm not paying attention." She said this lightly, but her eyes, when he glanced over, were serious underneath the lightness. "I've had guesses for months, Cael. I'm not going to make you say it before you're ready. I'm just telling you I notice."
+"How long did that actually take you? Properly, I mean. Not the fight-by-fight guessing. The part where you decided you actually trusted the numbers."
 
-He thought about the two entries. Wind-adjacent, sourced from months of watching her move, still — a year later — the foundation everything else in the log had been built on top of. He thought about how she'd already lived with that fact for months without demanding to see it named on a page.
+"Longer than I expected. I kept wanting one more data point before I'd commit anything to the page." He said this without embarrassment — it was simply how he worked, and she'd stopped needing him to apologize for it months ago. "I trust the Wind-adjacent entry completely now. Yours, more than mine, really, given how much of the testing was just you letting me swing at you until I stopped missing."
 
-"I know you notice," he said. "I'll show you when I understand it well enough to show you properly."
+"I didn't 'let' you do anything. You got better because I kept correcting you." She said this without heat, a familiar back-and-forth worn smooth by repetition. "The Pressure one's still not finished, though."
 
-"That's what you said three months ago."
+"No. I don't have a controlled way to push it past what a real fight already gives me, and I'm not going to manufacture a Bronze-tier opponent just to finish a column."
 
-"I understand it better now than I did three months ago."
+Lira considered this, something more serious settling under her usual directness. "Can I ask you something that isn't about the testing."
 
-Lira studied him for a moment, then let it go, the way she always eventually let things go once she'd registered that pushing wouldn't move the timeline, only the mood. "Fine. But I'm keeping count."
+"Always."
 
-"I know you are."
+"Does it ever bother you that I know all of it? Not just the shape — the actual mechanism. I was there for one of them. I've read the log more times than anyone besides you." She said it carefully, watching him for the answer rather than assuming it. "I sometimes wonder if it would be easier for you, carrying something this strange, if there were parts of it that were only yours."
 
-"Three months, Cael. I mean it. If it's still 'not ready' by then, I get to start guessing out loud, and you don't get to correct me."
+Cael thought about this honestly, the way he thought about most things she asked him directly. "No," he said, finally. "It would be lonelier. I've done lonelier. I didn't like it better."
 
-"That seems like an unreasonable threat."
+"That's a very you way of saying you're glad I know."
 
-"It's not a threat. It's an incentive." She bumped his shoulder with hers, easy and familiar, the gesture doing more to close the distance than either of their sentences had. "I like you. I'm not going anywhere. I'd just like to actually understand the thing that's clearly shaping the rest of your life, sometime before it's finished shaping it."
+"I am glad you know." He said it plainly, without performance, because it was simply true and hedging it would have cost more than it earned. "I don't think I'd trust the fragments as much as I do if I'd had to build my understanding of them entirely alone. Some of what I know about them, I know because you told me what you saw from the outside, watching me use them. I don't have that view of myself. You do."
 
-"You already understand most of it. You've understood most of it since before I told you anything."
+Lira studied him for a moment, something warmer than her usual directness showing through. "That's the nicest thing you've said about the notebook all year."
 
-"Understanding the shape of a thing and understanding the thing aren't the same." She said this simply, without pressing it further, the way she said most of the observations she'd decided were true enough to state once and then let sit. "I know you're carrying something that started with me, months ago, in a sparring session neither of us has ever properly talked about. I know it's grown since then. I don't know what it actually is, underneath the two careful words in that little book. That's the part I'm asking for. Not permission. Just — eventually, the actual thing."
+"It's a good notebook."
 
-Cael thought about the two entries, the careful column he'd finally finished filling in that evening, the six months it had taken him to trust a testing method enough to write anything down with confidence at all. He thought about how much of the work — the sparring sessions, the thirty seconds she gave him after every activation, the patient willingness to be studied as much as she studied him — had been hers as much as his, even though only his name went in the log.
+"You're supposed to say I'm the nicest thing about the notebook."
 
-"Soon," he said, and meant it more than the word usually carried. "Not because of the three months. Because I think I'm getting close enough to actually explain it properly, and I'd rather you hear it that way than rushed."
+"You're not in the notebook. You're the reason half of it exists." He said this simply, and found, saying it, that it landed harder than he'd expected it to.
 
-"That's a better answer than the ones you usually give me."
-
-"I've been practicing better answers. You've been teaching me, mostly without meaning to."
+She bumped his shoulder with hers, easy and familiar, the gesture doing more to close whatever distance the conversation had opened than either of their sentences had managed alone. "Good answer. I'm keeping that one."
 
 They walked the rest of the way without talking much, the comfortable quiet of two people who'd spent a year building a life together out of circuit winnings and morning drills and a shared, unspoken agreement that whatever was actually happening to Cael, they were going to face it together whenever it finally arrived. The boarding house came into view at the street's end, lamplight already lit in the front window, and Cael found himself, not for the first time, doing the small private arithmetic of how far he'd come from a fourteen-year-old standing in front of a notice board he hadn't understood yet at all.
 

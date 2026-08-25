@@ -2,7 +2,7 @@
 
 He woke before the alarm he hadn't set, the way he always did on days that mattered, and spent the first several minutes of the morning doing the thing he always did before he let himself get out of bed: cataloguing.
 
-Ceiling. The room's familiar shape, Lira's breathing steady in the next bed over. The particular quiet of a morning that hadn't decided yet whether it belonged to nerves or readiness — he'd learned, across a year of mornings like this one, that the two feelings arrived wearing nearly identical clothes and the only real way to tell them apart was to get up and start moving.
+Ceiling. The room's familiar shape, Lira's room still silent on the other side of the wall. The particular quiet of a morning that hadn't decided yet whether it belonged to nerves or readiness — he'd learned, across a year of mornings like this one, that the two feelings arrived wearing nearly identical clothes and the only real way to tell them apart was to get up and start moving.
 
 He ran through the transition-window hypothesis one final time before breakfast, not because rehearsing it again would sharpen it any further — two weeks of watching had already given the theory whatever shape it was going to have — but because the rehearsal itself had become part of how he readied himself for anything that mattered. Third exchange. If the window existed at all, it would show itself there, when Brom was most settled into pattern and least braced for something to interrupt it.
 

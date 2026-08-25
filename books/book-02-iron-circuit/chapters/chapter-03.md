@@ -90,7 +90,7 @@ Lira had heard about the morning's dispute by the time he found her in the alcov
 
 "That the whole thing works because everyone with something to lose has agreed it should work. No formal authority behind any of it. Just consequence, distributed evenly enough that nobody wants to be the one who tests it and finds out the consequence is real."
 
-"That's basically how everything out here works, if you think about it long enough." She circled him, unhurried, waiting for an opening rather than forcing one. "The district. The market credit system. Us, honestly — you and me and now Brom, whenever he stops circling and actually joins properly. None of it's official. All of it holds anyway, because everyone involved has decided it's worth more than whatever the alternative would be."
+"That's basically how everything out here works, if you think about it long enough." She circled him, unhurried, waiting for an opening rather than forcing one. "The district. The market credit system. Us, honestly — you and me. None of it's official. All of it holds anyway, because everyone involved has decided it's worth more than whatever the alternative would be."
 
 Cael turned that over mid-exchange, the observation landing with more weight than the casual delivery suggested it should. He said nothing about it yet, filing it instead the way he filed most things that arrived sideways, during training, when his attention was split enough that the real shape of an idea sometimes slipped past his usual caution before he'd decided how to guard it.
 

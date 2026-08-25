@@ -2,7 +2,7 @@
 
 Assessor Havel's desk sat in the third row of the regional office's compliance wing, close enough to a window that he'd spent four years mildly grateful for the daylight and far enough from anyone senior that his work rarely drew a second glance. That suited him. He'd built a quiet, competent reputation out of exactly this kind of anonymity — the officer whose files closed clean, whose reports never needed correcting, whose name nobody remembered until they needed someone reliable for something unglamorous.
 
-The compliance wing itself ran to a particular rhythm he'd long since stopped noticing consciously: the scratch of pens, the occasional muted conversation between desks, the specific institutional quiet of a room full of people processing other people's lives into standardized language, one field at a time. He liked the rhythm, if he was honest with himself, more than he'd ever admit to anyone senior enough to read something ambitious into the admission. There was a comfort in work that closed cleanly. A file either matched procedure or it didn't. A report either needed correcting or it was finished. Four years in, he'd built an entire professional identity out of that comfort, and he had no particular interest in disturbing it.
+The compliance wing itself ran to a particular rhythm he'd long since stopped noticing consciously: the scratch of pens, the occasional muted conversation between desks, the institutional quiet of a room full of people processing other people's lives into standardized language, one field at a time. He liked the rhythm, if he was honest with himself, more than he'd ever admit to anyone senior enough to read something ambitious into the admission. There was a comfort in work that closed cleanly. A file either matched procedure or it didn't. A report either needed correcting or it was finished. Four years in, he'd built an entire professional identity out of that comfort, and he had no particular interest in disturbing it.
 
 The Ardenmere [SHATTERED] file had come back across his desk for its scheduled quarterly review, and he worked through it the way he worked through everything: methodically, in order, checking each field against the last update before moving to the next.
 
@@ -18,7 +18,7 @@ He pulled the classification manual instead — the thick, unglamorous volume ev
 
 He read the specification twice. He looked back at the file open on his desk. Cael Hesk-ward. Classification: [SHATTERED]. No formal tier. No guild violation. No security incident anywhere in the file's history that might explain a designation built for practitioners the Compact considered genuinely dangerous at the highest formal bracket that existed.
 
-It made no sense. Not in the loose, unconcerning way of an administrative inconsistency — in the specific, precise way of two facts that could not both be true under the manual's own stated logic, sitting side by side in the same file as though nobody had ever noticed the contradiction before him.
+It made no sense. Not in the loose, unconcerning way of an administrative inconsistency — in the precise way of two facts that could not both be true under the manual's own stated logic, sitting side by side in the same file as though nobody had ever noticed the contradiction before him.
 
 He sat with it for a while, turning the page back and forth between the classification manual and the file itself, the way a person turns a coin over when they're not entirely sure it's real.
 
@@ -50,7 +50,7 @@ The query itself didn't worry him. Havel's phrasing was careful, procedural, exa
 
 If Havel had noticed it, doing nothing more than his routine job competently, then the classification wasn't buried as deep as Coss had allowed himself to assume. And if it wasn't buried that deep, then eventually — not today, not from Havel, but eventually, from someone with the rank and the curiosity to actually pursue the question past the point where standard procedure told them to stop — somebody was going to ask the question Coss himself had never quite worked up the nerve to ask through any channel that would leave a record of his asking it.
 
-He answered Havel the way his own instincts told him to: flat, closed, sufficient to end the conversation without inviting a follow-up. It wasn't kindness. It wasn't even entirely caution. It was the specific, practiced reflex of a career built on knowing exactly how far a question was allowed to travel before it became someone else's problem.
+He answered Havel the way his own instincts told him to: flat, closed, sufficient to end the conversation without inviting a follow-up. It wasn't kindness. It wasn't even entirely caution. It was the practiced reflex of a career built on knowing exactly how far a question was allowed to travel before it became someone else's problem.
 
 Then, once Havel's inquiry was safely closed on the official record, he did the thing he'd been putting off for the better part of a year: he wrote his own supplementary note, addressed not to anyone specific but filed into the chain above his own authority, the place reports went when an officer wanted something on record without personally attaching his name to the question it implied.
 
@@ -62,7 +62,7 @@ He received no response. Not that day, not the following week, not in the month 
 
 He closed the loop the only way available to him: by not asking again.
 
-It cost him something, over the following weeks, that he hadn't expected it to cost — a low, persistent awareness that sat underneath his ordinary casework, the specific discomfort of a careful man who had built his entire career on trusting that the paperwork in front of him meant what it claimed to mean. He found himself, more than once, glancing at other files in his queue with a fraction more scrutiny than they'd previously received, checking for the small, unauthorized markers he'd never thought to look for before Havel's query had taught him what one looked like. He found nothing. He wasn't certain whether that was reassuring or simply evidence that he didn't know enough yet to recognize a second one if it were sitting directly in front of him.
+It cost him something, over the following weeks, that he hadn't expected it to cost — a low, persistent awareness that sat underneath his ordinary casework, the discomfort of a careful man who had built his entire career on trusting that the paperwork in front of him meant what it claimed to mean. He found himself, more than once, glancing at other files in his queue with a fraction more scrutiny than they'd previously received, checking for the small, unauthorized markers he'd never thought to look for before Havel's query had taught him what one looked like. He found nothing. He wasn't certain whether that was reassuring or simply evidence that he didn't know enough yet to recognize a second one if it were sitting directly in front of him.
 
 He told no one else about it. There was, as far as he could determine, no one else worth telling — no colleague whose discretion he trusted enough to risk the conversation, no superior who had shown any interest in actually answering the question rather than simply closing it. He carried it the way he'd learned, over eleven years, to carry most things that troubled him without a clear next step available: quietly, at the edge of his attention, revisited occasionally in the specific late hours when a case file's stranger details tended to surface unbidden, filed under a category he'd never needed a name for until this particular file had forced one into existence.
 
@@ -88,13 +88,13 @@ He mentioned it to Lira that evening, briefly, because he'd promised himself mon
 
 "Someone's watching me. Not Havel. A practitioner, patient, never approaches."
 
-Lira's expression sharpened immediately, the specific alertness she reserved for anything that touched the actual danger underneath their ordinary circuit life. "For how long?"
+Lira's expression sharpened immediately, the sharpened alertness she reserved for anything that touched the actual danger underneath their ordinary circuit life. "For how long?"
 
 "Three sightings in three weeks. Possibly longer — I might have missed the earlier ones before the pressure-read got sensitive enough to catch the signature reliably."
 
 "What do we do?"
 
-"Nothing yet. I don't have enough to act on. I have enough to watch back." He said this with the same flat, methodical calm he brought to most genuine threats, the tone that had carried him through Coss's summons and Havel's predecessor's counter-procedure and every other quiet escalation the past year had produced. "I'll tell you the moment that changes."
+"Nothing yet. I don't have enough to act on. I have enough to watch back." He said this with the same flat, methodical calm he brought to most genuine threats, the tone that had carried him through Coss's summons and Ilsev's assessments and every other quiet escalation the past two years had produced. "I'll tell you the moment that changes."
 
 She held his gaze a moment longer, checking, the way she always checked, whether the calm was real or performed for her benefit. She decided, apparently, that it was real, and let the subject go — though Cael noticed, over the following days, that she'd started walking slightly closer to him through the market than she used to, an adjustment neither of them mentioned and both of them understood.
 
@@ -102,9 +102,9 @@ He raised it with Brom too, the next morning, during the pause between sparring 
 
 "Someone's been watching me. Iron Skin signature. I caught it with the fragment."
 
-Brom went very still, the specific stillness Cael had learned meant he was thinking rather than simply pausing. "Describe the signature."
+Brom went very still, the stillness Cael had learned meant he was thinking rather than simply pausing. "Describe the signature."
 
-Cael did, as precisely as he could — the texture of the held-in-reserve reading, the specific quality that had let him distinguish it from ordinary background noise once he knew what he was listening for.
+Cael did, as precisely as he could — the texture of the held-in-reserve reading, the particular quality that had let him distinguish it from ordinary background noise once he knew what he was listening for.
 
 "That's not a technique I recognize," Brom said, finally. "Which either means it's a variant I haven't encountered, or it means whoever's doing it has trained somewhere considerably more specialized than a standard guild cohort." He considered this for a long moment, something working behind his usually plain expression. "I don't like either possibility very much."
 
@@ -124,7 +124,7 @@ Somewhere in the Compact's internal record system, detached from anyone currentl
 
 It sat there the way it had sat there since before Havel had ever pulled the file for a routine review, since before Coss had inherited the case from whoever had handled it prior to him, since — though nobody currently employed by the Compact would have been able to confirm this, because nobody currently employed by the Compact had access to a record old enough to check — the file had technically existed at all.
 
-Level 4 was reserved, by the system's own procedural logic, for Gold-tier practitioners under active security review — individuals whose formal power and formal danger together justified the specific, resource-intensive weight of sustained institutional attention. It was not a designation applied casually. It required sign-off, in the ordinary course of things, from officials considerably more senior than either Havel or Coss, officials who left their names attached to the authorization the way procedure required.
+Level 4 was reserved, by the system's own procedural logic, for Gold-tier practitioners under active security review — individuals whose formal power and formal danger together justified the resource-intensive weight of sustained institutional attention. It was not a designation applied casually. It required sign-off, in the ordinary course of things, from officials considerably more senior than either Havel or Coss, officials who left their names attached to the authorization the way procedure required.
 
 This designation carried no name. No sign-off. No authorizing officer anywhere in the chain a careful search would have revealed, had anyone with the clearance to search thoroughly ever actually tried. The record offered only the same flat, procedural language it had apparently always offered, unchanged across however many years the underlying system had quietly maintained it: *systemic protocol, registry sub-layer.*
 

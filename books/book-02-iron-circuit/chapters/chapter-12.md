@@ -94,7 +94,7 @@ Cael considered this seriously, the way he considered most questions Brom asked,
 
 Brom nodded, apparently satisfied, and then said the thing that mattered more than anything else in the entire conversation, delivered with the same flat directness as everything else he'd said that afternoon: "Show me the log sometime."
 
-Cael looked at him for a long moment. It was, in context, a considerably larger request than its four words suggested — the Power Log was private in a way that had nothing to do with shame and everything to do with honesty. Lira had earned her way into it slowly, over months, the way she'd earned her way into most of what he carried; nobody else outside her and Hesk had ever seen a page of it. It was the single most technical, unguarded document he kept, more precise than his letters home, and he had never once shown it to anyone who hadn't already earned the access some other way first.
+Cael looked at him for a long moment. It was, in context, a considerably larger request than its four words suggested — the Power Log was private in a way that had nothing to do with shame and everything to do with honesty. Lira had earned her way into its pages slowly, over months, the way she'd earned her way into most of what he carried; Hesk knew it existed only through letters. Nobody else had ever read a line of it. It was the single most technical, unguarded document he kept, more precise than anything he'd ever said aloud, and he had never once shown it to anyone who hadn't already earned the access some other way first.
 
 He weighed Brom against the benchmark, quietly, the way he weighed most decisions that actually mattered — not the fight two nights ago, which had told him plenty about Brom's skill and composure, but this conversation, the unhurried honesty of it, the specific way Brom had received *unreadable* and *fragments* and *I don't fully understand the mechanism* without once flinching or performing sympathy he didn't feel.
 
@@ -138,7 +138,7 @@ He was — early, in fact, waiting at the side alcove before Brom himself arrive
 
 He found Lira before dinner, back at the boarding house, and told her the whole of it — not because he owed her a report, but because keeping something this size from her for even an evening had started to feel, in the year since he'd learned better, like its own small betrayal.
 
-She listened without interrupting, sitting on the edge of her own cot across the narrow hall, working a knot out of her boot laces with the specific patient attention she gave anything that let her hands stay busy while her mind did the harder work of actually absorbing what she was hearing.
+She listened without interrupting, sitting on the edge of her own cot through the open door between their two rooms, working a knot out of her boot laces with the specific patient attention she gave anything that let her hands stay busy while her mind did the harder work of actually absorbing what she was hearing.
 
 "You told him everything," she said, once he'd finished. Not quite a question.
 

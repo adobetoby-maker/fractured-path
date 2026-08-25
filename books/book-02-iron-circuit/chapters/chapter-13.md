@@ -2,7 +2,7 @@
 
 The first session set the terms, though neither of them said so out loud at the time.
 
-They met in the side alcove an hour before the Ironyard's morning crowd usually arrived, the stone floor still cool from the night, and Brom opened without preamble by setting three conditions, counted off on his fingers like a man reading a short but non-negotiable contract.
+They met in the side alcove an hour before the Ironyard's morning crowd usually arrived, the stone floor still cool from the night, and Brom opened without preamble by adding three working conditions to the terms they'd already agreed at the market, counted off on his fingers like a man reading a short but non-negotiable contract.
 
 "No holding back on my end. If I moderate the pressure-read or soften the amplification, you're not learning anything about the real thing — you're learning about a version of me I invented for your comfort, and that's worthless to both of us." A second finger. "You tell me when something happens. Not eventually. Immediately, even if you don't understand it yet, even if all you can say is *something.*" A third finger. "And whatever you learn about how I work, you don't repeat it to anyone who could use it against me in a real bout. I'm trusting you with my actual method, not a demonstration of it."
 

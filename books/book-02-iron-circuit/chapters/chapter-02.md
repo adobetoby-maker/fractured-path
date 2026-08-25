@@ -10,7 +10,7 @@ Vell looked up from the ledger, considered him for a moment with the same weighi
 
 "Come here, then."
 
-She led him to the archive shelf at the back of her small office — not the oldest section, which she kept separate and rarely opened, but the current forty years, bound volume after bound volume, her own handwriting running through decades of them with a consistency that had less to do with penmanship and more to do with never once letting the habit lapse.
+She led him to the archive shelf at the back of her small office — not the oldest section, which she kept separate and rarely opened, but the current thirty years, bound volume after bound volume, her own handwriting running through decades of them with a consistency that had less to do with penmanship and more to do with never once letting the habit lapse.
 
 The office itself was smaller than its contents suggested from the doorway — a desk, two chairs, and shelving that ran floor to ceiling on three walls, every inch of it accounted for. It smelled like old paper and the particular oil Vell used on the leather bindings to keep them from cracking in Ardenmere's damp winters, a smell Cael would come to associate, over the following months, with the specific feeling of being trusted with something.
 
@@ -22,7 +22,7 @@ The office itself was smaller than its contents suggested from the doorway — a
 
 "What happens if the chain breaks? If someone I beat turns out to have been overrated?"
 
-"Then I correct the whole line beneath them, retroactively, and I tell everyone affected exactly why." She said this like it was obvious, because to her it clearly was. "The ledger's only worth keeping if I'm willing to admit when it's wrong. I've had to do it maybe a dozen times in forty years. Every time, I've told the practitioner directly, to their face, rather than just quietly changing a number they'd never see."
+"Then I correct the whole line beneath them, retroactively, and I tell everyone affected exactly why." She said this like it was obvious, because to her it clearly was. "The ledger's only worth keeping if I'm willing to admit when it's wrong. I've had to do it maybe a dozen times in thirty years. Every time, I've told the practitioner directly, to their face, rather than just quietly changing a number they'd never see."
 
 "And the no-kill rule?"
 
@@ -30,9 +30,9 @@ The office itself was smaller than its contents suggested from the doorway — a
 
 "How do you know when to stop it?"
 
-She considered the question longer than Cael expected. "You learn the difference between a fighter who's losing and a fighter who's about to actually be hurt. It's not the same signal. Losing looks desperate. About-to-be-hurt looks something else — a specific stillness right before it, like the body already knows and the mind hasn't caught up yet. I've called it wrong twice in forty years. Both times I stopped a fight too early, not too late. I'd rather be wrong that direction."
+She considered the question longer than Cael expected. "You learn the difference between a fighter who's losing and a fighter who's about to actually be hurt. It's not the same signal. Losing looks desperate. About-to-be-hurt looks something else — a specific stillness right before it, like the body already knows and the mind hasn't caught up yet. I've called it wrong twice in thirty years. Both times I stopped a fight too early, not too late. I'd rather be wrong that direction."
 
-Cael filed the number. Three, in thirty years, against a fight count that had to run into the thousands. He didn't ask how she'd learned to read that stillness so precisely. He suspected the answer was less about any Path she'd once carried and more about four decades of paying closer attention than anyone had ever asked her to.
+Cael filed the number. Three, in thirty years, against a fight count that had to run into the thousands. He didn't ask how she'd learned to read that stillness so precisely. He suspected the answer was less about any Path she'd once carried and more about three decades of paying closer attention than anyone had ever asked her to.
 
 ---
 
@@ -74,11 +74,11 @@ Cael thought about this for the rest of the afternoon — the quiet, unhurried d
 
 The Ironyard's social ecosystem, once Cael started paying deliberate attention to it rather than simply moving through it, revealed itself to be considerably more structured than the loose, informal texture it presented on the surface.
 
-Status here wasn't tier. It wasn't even circuit rating, exactly, though rating mattered. It was reliability — whether you showed up when you said you would, fought honestly, accepted a Ledger-keeper's ruling without making it someone else's problem afterward. A Bronze-tier washout with a spotless thirty-fight record commanded more genuine respect in this room than a formally ranked visitor who'd once tried to argue a loss. Cael watched this play out one afternoon with unusual clarity: an older Copper-tier washout named Fessin, who hadn't won a bout in months, walked through the crowd on his way to the water barrel and drew more nods, more genuine acknowledgment, than a visiting Silver-tier guild fighter who'd arrived that same week with a considerably more impressive record and a considerably worse habit of complaining when a call went against him.
+Status here wasn't tier. It wasn't even circuit rating, exactly, though rating mattered. It was reliability — whether you showed up when you said you would, fought honestly, accepted a Ledger-keeper's ruling without making it someone else's problem afterward. A Bronze-tier washout with a spotless thirty-fight record commanded more genuine respect in this room than a formally ranked visitor who'd once tried to argue a loss. Cael watched this play out one afternoon with unusual clarity: an older Copper-tier washout named Stedd, who hadn't won a bout in months, walked through the crowd on his way to the water barrel and drew more nods, more genuine acknowledgment, than a visiting Silver-tier guild fighter who'd arrived that same week with a considerably more impressive record and a considerably worse habit of complaining when a call went against him.
 
-"Fessin hasn't won since spring," Cael said, watching this.
+"Stedd hasn't won since spring," Cael said, watching this.
 
-"Fessin's never once argued a loss in eleven years," Vell said. "Ask around. Half this room would rather lose honestly next to him than win next to someone who complains. That's not sentiment. That's the actual currency here."
+"Stedd's never once argued a loss in eleven years," Vell said. "Ask around. Half this room would rather lose honestly next to him than win next to someone who complains. That's not sentiment. That's the actual currency here."
 
 The district, beyond the Ironyard's walls, watched the circuit with a mix of pride and practical interest that Cael had come to recognize as its own kind of economy. Winners earned. Earning meant spending — in the market, at the boarding houses, at the small shops that had learned, over years, to extend credit to people whose income arrived in irregular, sometimes-large bursts rather than a predictable wage. The baker two streets from the Ironyard kept a running tally, in her own head, of which circuit fighters were good for it and which weren't, and Cael had watched her wave off payment more than once from a fighter who'd clearly had a losing week, trusting the account to balance itself out eventually. It usually did. The circuit wasn't separate from the Unranked District's economy. It was one of the district's load-bearing walls, whether the Compact's maps acknowledged the district's existence in any detail at all.
 

@@ -4,7 +4,7 @@ A final circuit bout came first — brief, lower stakes, agreed to weeks before 
 
 His opponent was a Copper-tier formal fighter, unremarkable by every measure that had once made Cael nervous and now barely registered as a category worth naming. He watched two of the man's bouts the day before, out of habit more than necessity, and found the fight itself almost restful in its predictability — a clean, methodical win, no drama, no fragment deployment beyond the Wind-adjacent step he could now summon nearly as reliably outside combat as within it. Vell recorded it in her usual hand, the entry no different in weight from a hundred others before it, and Cael understood, walking away from the circle for what he already suspected might be one of his last times standing in it, that the fight's very unremarkableness was itself a kind of gift. Ardenmere had given him, somewhere in the past year, the specific luxury of an easy win meaning nothing more than exactly what it was.
 
-He didn't tell anyone at the Ironyard that this might be his last bout there. He wasn't ready yet to make the leaving that concrete, and some part of him — the part that had learned, a year ago, never to promise a room more permanence than he actually had — preferred to let the fight simply be a fight, and worry about goodbyes when goodbyes could no longer be avoided.
+He didn't tell anyone at the Ironyard that this might be his last bout there. He wasn't ready yet to make the leaving that concrete, and some part of him — the part that had learned, long ago, never to promise a room more permanence than he actually had — preferred to let the fight simply be a fight, and worry about goodbyes when goodbyes could no longer be avoided.
 
 The fourth fragment notice arrived that night, in the quiet between the bout and sleep, unhurried and precise in the way all of them eventually resolved themselves to be — though this one carried a weight the others hadn't, arriving not as a surprise but as a confirmation of something he'd already half-known since the moment it first happened, incomplete and unrepeatable, in the middle of the Reydan bout's fourth exchange.
 
@@ -35,7 +35,7 @@ He didn't have a ready answer for that. He folded the pages with more care than 
 
 "Don't thank me. You earned every page of it." She closed her own ledger, the current volume, its final third of pages still blank, waiting for whoever came through her door next season. "Write, if you're ever somewhere with a post office and a reason. I keep a running tally of everyone who's come through here and where they ended up. You'd be the first to make it as far as an academy."
 
-He lingered a moment longer than he needed to, taking in the office one last time — the shelving, the smell of old paper and leather oil, the specific hush of a room that had spent thirty years accumulating the truth about people the rest of the world had decided not to bother recording. He'd walked in a year ago as an unrated fourteen-year-old with a bag and a direction. He was leaving it, he understood now, having become someone this room would remember on its own terms, regardless of anything the Compact's registry ever decided to say about him.
+He lingered a moment longer than he needed to, taking in the office one last time — the shelving, the smell of old paper and leather oil, the specific hush of a room that had spent thirty years accumulating the truth about people the rest of the world had decided not to bother recording. He'd walked in two years ago as an unrated fourteen-year-old with a bag and a direction. He was leaving it, he understood now, having become someone this room would remember on its own terms, regardless of anything the Compact's registry ever decided to say about him.
 
 "I'll write," he said.
 
@@ -43,7 +43,7 @@ He lingered a moment longer than he needed to, taking in the office one last tim
 
 ---
 
-Brom's own leaving was quieter than either Vell's or Dace's, in keeping with how he did most things — no ceremony, no formal goodbye to the district that had taken him in two months before Cael's own arrival. He simply packed the little he owned, settled his few debts around the practitioners' quarter, and appeared at the boarding house on departure morning as though the decision had never required deliberating at all.
+Brom's own leaving was quieter than either Vell's or Dace's, in keeping with how he did most things — no ceremony, no formal goodbye to the district that had taken him in months after Cael's own arrival. He simply packed the little he owned, settled his few debts around the practitioners' quarter, and appeared at the boarding house on departure morning as though the decision had never required deliberating at all.
 
 "You didn't say goodbye to anyone," Cael said, watching him shoulder his pack.
 
@@ -93,7 +93,7 @@ Cael didn't have the answer yet. He suspected, watching Reydan turn back to what
 
 The road east was early and quiet, Ardenmere's district gate receding behind them, Greyvane several days ahead. Cael, Lira, Brom. The pace was easy. No rush.
 
-He looked back once, the way he'd looked back at Denvash a year and a lifetime ago, watching the gate shrink into a shape rather than a place. It didn't hurt the way Denvash had hurt. Denvash had taken something from him, a home he hadn't chosen to leave. Ardenmere he was choosing to leave, on his own terms, carrying more out of it than he'd ever expected a district to give a fourteen-year-old with nothing but a bag and a direction. That difference mattered more than he'd have guessed, walking away from it.
+He looked back once, the way he'd looked back at Denvash two years and a lifetime ago, watching the gate shrink into a shape rather than a place. It didn't hurt the way Denvash had hurt. Denvash had taken something from him, a home he hadn't chosen to leave. Ardenmere he was choosing to leave, on his own terms, carrying more out of it than he'd ever expected a district to give a fourteen-year-old with nothing but a bag and a direction. That difference mattered more than he'd have guessed, walking away from it.
 
 "You're doing the thing," Lira said, watching him watch the horizon.
 
@@ -101,7 +101,7 @@ He looked back once, the way he'd looked back at Denvash a year and a lifetime a
 
 "Cataloguing. I can practically hear the notebook entry forming." She said it fondly, no real accusation in it. "Go ahead. I know you're not going to be able to walk another mile without writing something down."
 
-He didn't, in fact, make it another mile. He pulled the log out at the first rest, sitting on a low stone wall much like the one outside Ardenmere's gate had been, a year and two books of careful handwriting ago, and wrote the closing entry for a chapter of his life he understood, even now, he'd only half-finished understanding.
+He didn't, in fact, make it another mile. He pulled the log out at the first rest, sitting on a low stone wall much like the one outside Ardenmere's gate had been, two years and two books of careful handwriting ago, and wrote the closing entry for a chapter of his life he understood, even now, he'd only half-finished understanding.
 
 *Four confirmed fragments. One anomaly. A circuit record that exists whether or not the Compact ever acknowledges it. A friend who reads people the way I do, from a completely different direction, and somehow arrives at the same conclusions. A partner who's stopped holding back, in every sense that matters, and is going to be extraordinary because of it.*
 

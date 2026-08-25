@@ -21,7 +21,7 @@ He opened it now to the first blank page and began the first properly systematic
 *Open questions: upper limit of sustained use, if any. Whether repeated deployment in a single bout degrades reliability.*
 
 *Fragment 2 — Pressure-adjacent.*
-*Source: single instance of direct contact, Feryn, during a bout (Book 1, though he didn't think of it in those terms — the entry read simply "the Bronze-tier fight, fourth exchange, his hand on my shoulder longer than the movement required").*
+*Source: single instance of direct contact, Feryn, during a bout the year before — the entry read simply "the Bronze-tier fight, fourth exchange, his hand on my shoulder longer than the movement required."*
 *Conditions: less understood than Fragment 1. Working deployment range established, but upper limits under sustained combat pressure remain uncharacterized.*
 *Open questions: whether contact-sourced fragments behave differently from observation-sourced fragments in some structural way, or whether the difference is simply that I've had less time with this one.*
 

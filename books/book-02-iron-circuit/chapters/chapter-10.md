@@ -2,19 +2,19 @@
 
 Lira's best bout to date happened four days before the Brom fight, and Cael watched it with the attentive pride of someone witnessing a result a full year of deliberate, difficult work had actually been building toward.
 
-Her opponent was an Iron-equivalent Wind Path practitioner named Ossen — formally trained, considerably more experienced than Lira on paper, the kind of fighter whose technique had the unhurried polish of someone who'd never once had to teach himself anything the hard way. He'd fought at the Ironyard twice before, both wins, both clean enough that Cael had filed him, months ago, as a reasonable benchmark for what proper Iron-equivalent Wind Path looked like when it hadn't been assembled from the outside in.
+Her opponent was an Iron-equivalent Wind Path practitioner named Wendel — formally trained, considerably more experienced than Lira on paper, the kind of fighter whose technique had the unhurried polish of someone who'd never once had to teach himself anything the hard way. He'd fought at the Ironyard twice before, both wins, both clean enough that Cael had filed him, months ago, as a reasonable benchmark for what proper Iron-equivalent Wind Path looked like when it hadn't been assembled from the outside in.
 
 The bout opened the way most of Lira's bouts had opened for the past several weeks: no probing, no careful first exchange spent gauging the room. She went at him immediately, the specific hunger she'd been cultivating since the evening she'd promised herself no more clean wins turned fully outward for the first time against an opponent who could actually make her pay for it.
 
-Ossen absorbed the opening with visible surprise — not alarm, just the recalibration of someone who'd expected a more cautious Copper-equivalent opponent and was rapidly revising the assessment. He answered with a combination that would have ended most of Lira's bouts from a month ago: three-part, building speed, the kind of sequence designed to overwhelm a defender who thought in single exchanges rather than chains.
+Wendel absorbed the opening with visible surprise — not alarm, just the recalibration of someone who'd expected a more cautious Copper-equivalent opponent and was rapidly revising the assessment. He answered with a combination that would have ended most of Lira's bouts from a month ago: three-part, building speed, the kind of sequence designed to overwhelm a defender who thought in single exchanges rather than chains.
 
 She didn't think in single exchanges anymore. Cael watched her read the second beat of the combination a half-step before it landed and adjust her angle just enough to turn what should have been a clean hit into a glancing one — not damage-free, she'd carry a mark from it by evening, but not the fight-ending blow it had been built to be. She used the opening it cost her to close distance rather than retreat, which was, Cael understood watching it happen, exactly the kind of decision the old Lira — the clean-win Lira — would never have made. Retreating was safer. Closing was better.
 
-The middle exchanges ran long, longer than most of her recent bouts, both fighters trading real ground rather than either one settling into a controlling rhythm. Ossen adapted twice, each time finding something new to answer with; Lira adapted back both times, faster than he adjusted, the gap between his revision speed and hers widening with each exchange in a way the crowd had started, audibly, to notice.
+The middle exchanges ran long, longer than most of her recent bouts, both fighters trading real ground rather than either one settling into a controlling rhythm. Wendel adapted twice, each time finding something new to answer with; Lira adapted back both times, faster than he adjusted, the gap between his revision speed and hers widening with each exchange in a way the crowd had started, audibly, to notice.
 
-By the fifth exchange, something had shifted in the room's attention — the specific quality of a crowd that had come expecting one kind of fight and was now watching a different, better one. Ossen's guild-polished technique, which had carried him cleanly through his first two Ironyard bouts, was visibly straining against something it hadn't been built to answer: an opponent whose formal tier said Copper but whose actual technique, refined against a year of deliberately chosen hard fights, had outgrown the tier that was supposed to define its ceiling.
+By the fifth exchange, something had shifted in the room's attention — the specific quality of a crowd that had come expecting one kind of fight and was now watching a different, better one. Wendel's guild-polished technique, which had carried him cleanly through his first two Ironyard bouts, was visibly straining against something it hadn't been built to answer: an opponent whose formal tier said Copper but whose actual technique, refined against a year of deliberately chosen hard fights, had outgrown the tier that was supposed to define its ceiling.
 
-She won in the seventh exchange — not by survival, not by extracting a narrow margin from a longer opponent's single mistake, but by outright technique superiority, a clean finish that left no reasonable question in the room about who the better fighter had actually been that afternoon. Ossen went down without the theatrical collapse of someone outmatched by raw power; he went down the way a technically sound fighter goes down when someone simply reads him better than he reads them, exchange after exchange, until the accumulated gap becomes impossible to close in the time remaining.
+She won in the seventh exchange — not by survival, not by extracting a narrow margin from a longer opponent's single mistake, but by outright technique superiority, a clean finish that left no reasonable question in the room about who the better fighter had actually been that afternoon. Wendel went down without the theatrical collapse of someone outmatched by raw power; he went down the way a technically sound fighter goes down when someone simply reads him better than he reads them, exchange after exchange, until the accumulated gap becomes impossible to close in the time remaining.
 
 She'd been fighting without holding back since the afternoon she'd decided to stop, months before, and it showed in a way that had become undeniable to anyone paying attention. The Ironyard noticed. Dace, watching from his usual position near the scheduling board, crossed the floor to speak to her almost before the crowd had finished its reaction.
 
@@ -28,7 +28,7 @@ She looked back at Dace. "Yes."
 
 It mattered more than the exchange's brevity suggested. Lira was building her own record now, visibly independent of whatever arc Cael's own strange trajectory was tracing through the circuit — the Ironyard doing, without any formal mechanism at all, what the Compact's classification system had failed to do three years before: seeing her clearly, for exactly what she'd become, rather than for what a single Kindling evaluation had decided she was.
 
-They walked home slower than usual that evening, her leg stiffening where Ossen's combination had caught it, neither of them in any particular hurry to reach the boarding house.
+They walked home slower than usual that evening, her leg stiffening where Wendel's combination had caught it, neither of them in any particular hurry to reach the boarding house.
 
 "You've been holding that ceiling since before I met you," Cael said, eventually.
 
@@ -54,7 +54,7 @@ She almost smiled at that, tired and satisfied in the specific way of someone wh
 
 Vell's ledger entry that evening, which Cael saw days later when she finally let him look through a stretch of recent pages, ran longer than her usual clipped notation:
 
-*Lira. Assessed-Copper, high range, requesting reclassification review. Bout vs. Ossen (Iron-equivalent, formal), win by exchange-seven technique superiority. Recommend elevation to provisional Iron-equivalent pending two further confirming bouts. Note: this fighter's actual capability has been ahead of her circuit rating for some months. The delay was mine, not hers — I wanted more data before I moved the number, and in hindsight I should have trusted what I was already seeing.*
+*Lira. Assessed-Copper, high range, requesting reclassification review. Bout vs. Wendel (Iron-equivalent, formal), win by exchange-seven technique superiority. Recommend elevation to provisional Iron-equivalent pending two further confirming bouts. Note: this fighter's actual capability has been ahead of her circuit rating for some months. The delay was mine, not hers — I wanted more data before I moved the number, and in hindsight I should have trusted what I was already seeing.*
 
 It was, Cael understood, close to an apology, delivered the only way Vell ever delivered anything that resembled one — folded into the record itself, honest and precise, rather than spoken aloud where it might have felt like a performance.
 
@@ -100,7 +100,7 @@ It did more for the trust between them than either of the two weeks of formal pr
 
 "Go ahead."
 
-"Why are you actually doing this? The watching, the notebooks, the whole method. Most people who fight the way you fight are chasing something obvious — money, or a rating, or someone's approval they never got. I've watched you for three weeks now, and I don't think you're chasing any of those."
+"Why are you actually doing this? The watching, the notebooks, the whole method. Most people who fight the way you fight are chasing something obvious — money, or a rating, or someone's approval they never got. I've been watching you for a month now, and I don't think you're chasing any of those."
 
 Cael thought about the question longer than its size seemed to warrant, aware that the honest answer required more care than a quick one. "I think I'm trying to understand what I am before anyone else gets to decide it for me," he said, finally. "The Compact already tried once. They didn't have a category, so they gave me a word that meant *dangerous, don't look too closely.* I'd rather build my own understanding, slowly, from evidence, than accept theirs by default just because they were faster to hand me an answer."
 
@@ -150,7 +150,7 @@ Cael turned this over, recognizing it for the genuine question it was rather tha
 
 Cael wrote the exchange down later that night, alone, first in the observation notebook — a brief, factual account of the pressure-read's limits, filed under Iron Skin's methodology for future reference — and then, more carefully, in the Power Log, where the entry carried a different weight entirely:
 
-*Iron Skin pressure read cannot categorize my signature. Second confirmation, in different words, of something the fragment log has been suggesting since Book One: whatever I am, existing frameworks don't have a shape for it. Brom doesn't find this alarming. He finds it interesting, which is not a reaction I expected to receive twice from two different people in the space of a single year, after fifteen years of assuming strangeness and danger were the same thing to everyone who encountered it.*
+*Iron Skin pressure read cannot categorize my signature. Second confirmation, in different words, of something the fragment log has been suggesting since its first entry: whatever I am, existing frameworks don't have a shape for it. Brom doesn't find this alarming. He finds it interesting, which is not a reaction I expected to receive twice from two different people in the space of a single year, after fifteen years of assuming strangeness and danger were the same thing to everyone who encountered it.*
 
 *Need to decide, eventually, whether the absence of a category is a problem to solve or simply a fact to build around. I don't think I need to decide tonight. I think I have time to keep gathering evidence first, the way I gather evidence about everything else.*
 
@@ -158,7 +158,7 @@ He closed the log, and went to find Lira, and spent the rest of the evening not 
 
 ---
 
-He found her on the boarding house's small back step, still favoring the leg Ossen's combination had marked, a cup of something cooling untouched beside her.
+He found her on the boarding house's small back step, still favoring the leg Wendel's combination had marked, a cup of something cooling untouched beside her.
 
 "You're quiet," she said, without looking up.
 

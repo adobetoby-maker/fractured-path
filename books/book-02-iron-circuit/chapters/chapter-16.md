@@ -20,9 +20,9 @@ She looked up, and for a moment he thought she might simply deflect the way she 
 
 She led him to the back of the archive room, past the shelving he'd already seen during his very first tour of the circuit, months and months ago, into a section he'd never had reason to approach closely. The air back here was different — cooler, drier, carrying the specific dry-paper smell of things that had been kept deliberately away from moisture for a very long time.
 
-She walked him through it properly, in order, the way he suspected she'd walked exactly nobody else through it in longer than she'd probably admit. Her own forty years of ledger came first — precise, legible, a handwriting that had clearly settled into its final form sometime in her first decade of keeping and never wavered since. Then the previous keeper's thirty years before that: a different hand, rounder, with a habit of underlining opponent names that Vell's own record-keeping had long since abandoned, but the identical disciplined format underneath the surface differences, as though the format itself were the actual inheritance and the handwriting merely incidental to it.
+She walked him through it properly, in order, the way he suspected she'd walked exactly nobody else through it in longer than she'd probably admit. Her own thirty years of ledger came first — precise, legible, a handwriting that had clearly settled into its final form sometime in her first decade of keeping and never wavered since. Then the previous keeper's thirty years before that: a different hand, rounder, with a habit of underlining opponent names that Vell's own record-keeping had long since abandoned, but the identical disciplined format underneath the surface differences, as though the format itself were the actual inheritance and the handwriting merely incidental to it.
 
-"He trained me," Vell said, of the previous keeper, running a finger along the spine of one volume without pulling it down. "Fifteen years, before I took over properly. He used to say the format mattered more than the keeper — that any fool with decent handwriting could learn to fill in a ledger, but the discipline of filling it in the same way every single time, for forty years, without ever once deciding a particular day's laziness was an acceptable exception — that was the actual job. I didn't understand what he meant until I'd been doing it myself for about a decade." She moved on. "He wasn't wrong."
+"He trained me," Vell said, of the previous keeper, running a finger along the spine of one volume without pulling it down. "Fifteen years, before I took over properly. He used to say the format mattered more than the keeper — that any fool with decent handwriting could learn to fill in a ledger, but the discipline of filling it in the same way every single time, for decades, without ever once deciding a particular day's laziness was an acceptable exception — that was the actual job. I didn't understand what he meant until I'd been doing it myself for about a decade." She moved on. "He wasn't wrong."
 
 And then, at the shelf's far end, the oldest section — records predating not just the Ironyard's current location but the circuit's entire operational structure as Cael understood it, a stretch of shelving that looked, at first glance, more like something salvaged from a ruin than an active reference collection.
 
@@ -56,7 +56,7 @@ Vell considered the question with the specific weight she gave to things she'd c
 
 "What did you do?"
 
-"I chose the records instead." She said this simply, as though it had been an obvious choice rather than the considerable sacrifice it clearly represented. "I walked away from guild standing I'd spent fifteen years earning, and I picked up a Ledger-keeper's pen instead, because I decided I'd rather build something true than keep something official." She glanced at the archive shelf, the whole accumulated weight of it, four decades of her own careful handwriting and however many decades before that of someone else's. "These are more true than anything in the Compact Registry, Cael. A fight happened, or it didn't. A person was capable of something, or they weren't. None of that requires the Compact's certification to already be real. The certification is just a story someone with authority tells about a fact that existed perfectly well before they ever got around to telling it."
+"I chose the records instead." She said this simply, as though it had been an obvious choice rather than the considerable sacrifice it clearly represented. "I walked away from guild standing I'd spent fifteen years earning, and I picked up a Ledger-keeper's pen instead, because I decided I'd rather build something true than keep something official." She glanced at the archive shelf, the whole accumulated weight of it, three decades of her own careful handwriting and however many decades before that of someone else's. "These are more true than anything in the Compact Registry, Cael. A fight happened, or it didn't. A person was capable of something, or they weren't. None of that requires the Compact's certification to already be real. The certification is just a story someone with authority tells about a fact that existed perfectly well before they ever got around to telling it."
 
 "The Compact does falsify things," Cael said, quietly. Not quite a question.
 
@@ -72,36 +72,8 @@ Cael thought about the phrase in the marginal note for a long time after he'd le
 
 He didn't understand its full significance yet. He filed it anyway, the way he'd learned to file everything whose full shape hadn't yet resolved, trusting — the way he'd learned to trust most things in Ardenmere, slowly, over a year of evidence that trust here tended to be rewarded rather than punished — that the pieces would eventually connect, on their own schedule, whether or not he'd been ready for them to.
 
----
-
-Cael paged through the oldest section with the specific careful attention Vell had trusted him to bring, and found the entry roughly two-thirds of the way through the earliest surviving volume.
-
-A practitioner — the name partially damaged by age, illegible beyond a few surviving letters — described by the recording Ledger-keeper as fighting with abilities that didn't map to any guild classification the keeper recognized. The bout record itself was otherwise entirely standard: opponent, outcome, exchange count.
-
-The marginal note, in a hand cramped by either age or urgency, read: *Assessed per pre-registry terminology as [UNBOUND]. Abilities not matching any guild standard. Competed without incident.*
-
-Cael copied the phrase into his observation notebook, his handwriting very small, and continued reading the surrounding entries without letting his expression change.
+He walked back to the boarding house that evening by a longer route than he needed, in no hurry to arrive anywhere, turning the single word over the whole way — not trying to solve it, exactly, just letting it sit in the same part of his attention where the unsolved things lived until they were ready to stop being unsolved. He didn't mention it to Lira or Brom that night. Some threads, he was learning, needed to be held alone for a while before they could survive being shared.
 
 ---
 
-"Why do you keep them?" he asked, later, once they'd worked their way back toward the archive's newer, sturdier volumes. "Not just yours. The inherited ones, the fragile ones that cost you something every time they're handled."
-
-Vell considered the question with the specific weight she gave to things she'd clearly thought about many times before, alone, without ever quite having reason to say the answer aloud.
-
-"Thirty years ago I was a Bronze-tier practitioner with proper guild credentials," she said. "Then I had a dispute about what I was allowed to do in an official bout — a technical ruling I still believe was wrong, for reasons that don't matter anymore. The guild threatened my certification over it. I chose the records instead." She glanced at the archive shelf, the whole accumulated weight of it. "These are more true than anything in the Compact Registry. A fight happened, or it didn't. A person was capable of something, or they weren't. None of that requires the Compact's certification to already be real."
-
-"The Compact does falsify things," Cael said, quietly. Not quite a question.
-
-Vell looked at him steadily, no surprise in her expression at all. "I know."
-
-A silence settled between them, weighted but not uncomfortable.
-
-"I've suspected it for twenty years," she said, eventually. "I don't have evidence for anything beyond suspicion. I've never needed evidence to keep believing it — I've simply watched enough real results get quietly ignored, and enough manufactured ones get quietly promoted, to trust my own eyes over their paperwork." She closed the archive's outer case with the same careful precision she brought to everything. "That's why I keep these. Somebody should have a record that doesn't answer to them."
-
-Cael thought about the phrase in the marginal note for a long time after he'd left the archive that evening — [UNBOUND], a word from before the current system had a name for anything at all, sitting quietly in a damaged ledger for longer than he'd been alive.
-
-He didn't understand its full significance yet. He filed it anyway, the way he'd learned to file everything whose full shape hadn't yet resolved, trusting — the way he'd learned to trust most things in Ardenmere — that the pieces would eventually connect, on their own schedule, whether or not he'd been ready for them to.
-
----
-
-*End of Chapter 16 — draft, to be expanded*
+*End of Chapter 16 — approximately 2,000 words*

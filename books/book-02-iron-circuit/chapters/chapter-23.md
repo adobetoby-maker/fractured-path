@@ -1,6 +1,6 @@
 # Chapter 23 — The Offer
 
-Cael's internal conflict wasn't about whether to go. He'd known, in some quiet way, since arriving in Ardenmere that the circuit had a ceiling — it had given him everything it had to give, and whatever waited beyond that ceiling required the structure and opponents that only a legitimate institution could actually provide. Halven's offer wasn't a temptation he needed to be argued into. The moment she'd said the word *Greyvane,* some part of him that had been quietly totaling a ledger for months had simply closed the account and reported the answer: yes.
+Cael's internal conflict wasn't about whether to go. He'd known, in some quiet way, since arriving in Ardenmere that the circuit had a ceiling — it had given him everything it had to give, and whatever waited beyond that ceiling required the structure and opponents that only a legitimate institution could actually provide. Quenna's offer wasn't a temptation he needed to be argued into. The moment she'd said the word *Greyvane,* some part of him that had been quietly totaling a ledger for months had simply closed the account and reported the answer: yes.
 
 His conflict was about what the going would cost, and he spent the first hour after she'd left simply walking the district, not toward anywhere in particular, letting the question sit with him the way he let a difficult opponent's tell sit with him before he trusted himself to act on it.
 
@@ -36,7 +36,7 @@ Brom took longer to answer, which surprised none of them — he approached every
 
 "I know that. I want to know if a real classification from a family estate two provinces away is going to matter to them, or if what matters is what I can currently do." Brom said this without any particular heat, just the flat precision of someone determined to understand the actual terms of a thing before agreeing to them. "I left home because a piece of paper told my family what I was worth before I'd had the chance to find out myself. I'm not walking into another institution on the strength of the same kind of paper. If I go, I go on what I can demonstrate."
 
-Cael relayed the full set of questions to Halven the following morning, at the small inn near the market where she'd taken a room for the duration of her stay. She listened to each one without impatience, and confirmed, without hesitation, that a standard Copper-tier practitioner with demonstrated performance — and she'd clearly already looked into Brom's specifically, given how little she needed explained to her — could apply under the regular enrollment provision, no special designation required, evaluated on the same terms as any other Greyvane applicant.
+Cael relayed the full set of questions to Quenna the following morning, at the small inn near the market where she'd taken a room for the duration of her stay. She listened to each one without impatience, and confirmed, without hesitation, that a standard Copper-tier practitioner with demonstrated performance — and she'd clearly already looked into Brom's specifically, given how little she needed explained to her — could apply under the regular enrollment provision, no special designation required, evaluated on the same terms as any other Greyvane applicant.
 
 He carried the answer back to the boarding house that afternoon and delivered it plainly, the way Brom preferred things delivered.
 
@@ -54,13 +54,13 @@ Cael wrote to Hesk that same evening, keeping the letter short: the academy, the
 
 *Go. You need people who have seen you clearly and haven't left. Find more of them.*
 
-Cael read it twice, and then a third time, the specific economy of Hesk's handwriting doing what it always did — saying less than most people would have needed to say the same thing, and somehow landing with more weight for the restraint. He thought about the workshop, the smell of solder and the particular oil Hesk used on instrument housings, the rooftop where they'd once sat together the night before everything changed. He thought about how easily Hesk could have written something longer, more anxious, more full of the specific fears a grandfather might reasonably carry about a fifteen-year-old accepting an offer from an institution two provinces distant. He hadn't. He'd trusted Cael to already know the fears existed and to have weighed them properly before ever writing to ask.
+Cael read it twice, and then a third time, the specific economy of Hesk's handwriting doing what it always did — saying less than most people would have needed to say the same thing, and somehow landing with more weight for the restraint. He thought about the workshop, the smell of solder and the particular oil Hesk used on instrument housings, the rooftop where they'd once sat together the night before everything changed. He thought about how easily Hesk could have written something longer, more anxious, more full of the specific fears a grandfather might reasonably carry about a sixteen-year-old accepting an offer from an institution two provinces distant. He hadn't. He'd trusted Cael to already know the fears existed and to have weighed them properly before ever writing to ask.
 
 *Find more of them,* he'd written. Not *be careful.* Not *are you certain.* An instruction, not a caution — the same shape of trust Hesk had been extending since a marked circle in a certification office had first tried to tell them both who Cael was supposed to be.
 
 He wrote back that same evening, shorter than usual, because some replies didn't need length to carry their full weight: *I found two more already. I think that's most of what a person actually needs. I'll write when I arrive.*
 
-He sealed it, and the following morning walked to the small inn near the market and told Halven, plainly, that he accepted. She produced the paperwork with the same unhurried efficiency she'd brought to everything since introducing herself, and by midday the demonstration-provision track carried his name on it, formal in a way nothing about his classification had ever managed to be formal before.
+He sealed it, and the following morning walked to the small inn near the market and told Quenna, plainly, that he accepted. She produced the paperwork with the same unhurried efficiency she'd brought to everything since introducing herself, and by midday the demonstration-provision track carried his name on it, formal in a way nothing about his classification had ever managed to be formal before.
 
 ---
 
@@ -68,7 +68,7 @@ That evening, back in the boarding house's common room, he sat with the Power Lo
 
 Lira was across the room, already sorting through what she'd actually need to pack, and Brom sat near the window doing nothing in particular, simply present the way he'd become, over the months, a fixture of most evenings that mattered. Cael looked at the two of them for a while before he finally picked up the pen.
 
-*Accepted. Greyvane, within the week. Four fragments, one anomaly, two people who know all of it and are coming with me anyway.*
+*Accepted. Greyvane, within the week. Three fragments, one anomaly, two people who know all of it and are coming with me anyway.*
 
 *I don't know what Greyvane will actually be. I know it's going to ask for more of me than Ardenmere ever did, formally — assessments, demonstrations, a faculty that will look at me the way Havel and Coss and every Compact official before them has looked at me, except this time with something closer to curiosity than suspicion. I don't know yet whether that's better or simply different.*
 
