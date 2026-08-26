@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "generated": "2026-08-26T17:15:00-06:00",
+  "universe": "The Fractured Path",
+  "sourceBranch": "main",
+  "books": [
+    {
+      "id": "book-01-the-shattered",
+      "title": "The Shattered",
+      "totalChapters": 24,
+      "renderedChapters": 3,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Day Before",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-01.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-01.mp3",
+              "bytes": 21764689,
+              "durationSec": 1835.63,
+              "sha256": "d68d5cd4dcc7df627ded545335bb163a58aaa23e9fe1fc62e33b2c0f8ce972ee",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-01.mp3"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Kindling",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-02.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-02.mp3",
+              "bytes": 21292718,
+              "durationSec": 1812.41,
+              "sha256": "fd5bc1c38ab8a53b7a41f31abdc34bd3a4f2baf4b65f3aa334e66c9282a64fb1",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-02.mp3"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "The Record",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-03.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-03.mp3",
+              "bytes": 21467447,
+              "durationSec": 1778.32,
+              "sha256": "1d8f4e4ade52dae26a75fbbe114af111e73ac267c41fa6bb5fc2cf6286ce86a4",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-03.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
