@@ -1,7 +1,7 @@
 # CHAPTER ARCHITECTURE — Book 3: No Path Given
 **Canon status: PROVISIONAL**
 **Target: 110,000 words / 24 chapters / ~4,600 words per chapter**
-**Cael's age: 16 across this book**
+**Cael's age: 15 across this book (no birthday scene; matches Book 2's verified close)**
 **Companions introduced: Karis (Ember Path, Iron-tier)**
 **Arc: Circuit legitimacy → institutional foothold → first public victory over the system itself**
 
@@ -67,7 +67,7 @@ The asymmetry is structural and deliberate: Brom is the only one of the three wh
 
 The road from Book 2's final page runs directly into this chapter — same three travelers, same easy pace, no time skip. Three days east of Ardenmere, Greyvane appears the way minor institutions do: smaller than the word "academy" promised, and more real for it. Cael's narration does the arrival the way he does everything — cataloguing. The wall is old waystation stone. The gate is newer. The gate clerk has a list, and their names are on it, which is its own small shock: the first door in Cael's life that was opened *before* he reached it.
 
-Intake runs three tracks in three lines, and the chapter stages the asymmetry immediately. Brom's paperwork takes eleven minutes — application, record, stamp, done; he is, for the first time in the series, the *simple* case, and his flat satisfaction at this is quietly funny. Lira's takes an hour: her Fenmark record has traveled with her file, and the re-certification provision requires her to sign an acknowledgment of the expulsion she has spent three years refusing to acknowledge as legitimate. She signs it. Her jaw does most of the talking.
+Intake runs three tracks in three lines, and the chapter stages the asymmetry immediately. Brom's paperwork takes eleven minutes — application, record, stamp, done; he is, for the first time in the series, the *simple* case, and his flat satisfaction at this is quietly funny. Lira's takes an hour: her Fenmark record has traveled with her file, and the re-certification provision requires her to sign an acknowledgment of the expulsion she has spent two years refusing to acknowledge as legitimate. She signs it. Her jaw does most of the talking.
 
 Cael's takes the rest of the day. Quenna walks him through it personally. The enrollment document classifies him as an *unclassified observer* — a category written for children who have not yet Kindled. Cael, fifteen, Iron-equivalent by a circuit's honest ledger, four fragments in a binder in his pack, reads the category line three times. Quenna, evenly: "The provision's language is what protects you. The provision's intent is what you'll be asked about if anyone ever looks closely." Cael: "Someone will look closely." Quenna: "Yes. Our job is to be established fact by the time they do."
 
