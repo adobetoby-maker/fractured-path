@@ -122,17 +122,17 @@ Brom processed this for a moment, turning it over with visible care. "Your press
 
 "I didn't plan it."
 
-"I know. That's why I want to understand it." A pause, and then, without any particular ceremony: "I'm Brom."
+"I know. That's why I want to understand it." He was quiet a moment, then extended a hand — a formality that belonged nowhere in two weeks of arguing over breakfast about pressure-read response times, which was exactly why he bothered with it. "I'm Brom."
 
-"I know."
+Cael understood, a half-second late, that this wasn't information. It was a ritual, offered because the third exchange had apparently earned one, and he decided to play along rather than point out the obvious. "I know."
 
 "You're the one everyone says isn't possible."
 
-"That sounds right."
+"That sounds right." He took the offered hand, the shake deliberately formal on both sides — two people who'd spent two weeks talking past each other in a sparring alcove, performing an introduction neither of them actually needed.
 
-"Good." Something that might, on a less economical face, have been a full smile crossed his expression. "I like problems I can't solve." He extended a hand.
+"Good." Something that might, on a less economical face, have been a full smile crossed his expression. "I like problems I can't solve."
 
-Cael took it, and something in the handshake — brief, ordinary, no ceremony to it at all — settled the whole encounter into a different category than he'd expected walking into the bout. He'd come in braced for a fight and, without quite noticing the transition, walked out of it with something closer to a colleague.
+Something in the handshake — ordinary, faintly ridiculous, entirely on purpose — settled the whole encounter into a different category than he'd expected walking into the bout. He'd come in braced for a fight against a man he already knew, and walked out of it having, apparently, just been properly introduced to a friend.
 
 "The transition-window hypothesis," Cael said, once his breathing had evened out enough to manage a full sentence. "It was wrong. Or half wrong. There's no window in the ordinary sense — you don't hesitate between modes, you just run them concurrently faster than I accounted for."
 

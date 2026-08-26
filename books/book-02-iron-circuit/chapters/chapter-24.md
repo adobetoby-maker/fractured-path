@@ -35,7 +35,7 @@ He didn't have a ready answer for that. He folded the pages with more care than 
 
 "Don't thank me. You earned every page of it." She closed her own ledger, the current volume, its final third of pages still blank, waiting for whoever came through her door next season. "Write, if you're ever somewhere with a post office and a reason. I keep a running tally of everyone who's come through here and where they ended up. You'd be the first to make it as far as an academy."
 
-He lingered a moment longer than he needed to, taking in the office one last time — the shelving, the smell of old paper and leather oil, the specific hush of a room that had spent thirty years accumulating the truth about people the rest of the world had decided not to bother recording. He'd walked in two years ago as an unrated fourteen-year-old with a bag and a direction. He was leaving it, he understood now, having become someone this room would remember on its own terms, regardless of anything the Compact's registry ever decided to say about him.
+He lingered a moment longer than he needed to, taking in the office one last time — the shelving, the smell of old paper and leather oil, the specific hush of a room that had spent thirty years accumulating the truth about people the rest of the world had decided not to bother recording. He'd walked in a year and a half ago as an unrated fourteen-year-old with a bag and a direction. He was leaving it, he understood now, having become someone this room would remember on its own terms, regardless of anything the Compact's registry ever decided to say about him.
 
 "I'll write," he said.
 
@@ -93,7 +93,7 @@ Cael didn't have the answer yet. He suspected, watching Reydan turn back to what
 
 The road east was early and quiet, Ardenmere's district gate receding behind them, Greyvane several days ahead. Cael, Lira, Brom. The pace was easy. No rush.
 
-He looked back once, the way he'd looked back at Denvash two years and a lifetime ago, watching the gate shrink into a shape rather than a place. It didn't hurt the way Denvash had hurt. Denvash had taken something from him, a home he hadn't chosen to leave. Ardenmere he was choosing to leave, on his own terms, carrying more out of it than he'd ever expected a district to give a fourteen-year-old with nothing but a bag and a direction. That difference mattered more than he'd have guessed, walking away from it.
+He looked back once, the way he'd looked back at Denvash a year and a half and a lifetime ago, watching the gate shrink into a shape rather than a place. It didn't hurt the way Denvash had hurt. Denvash had taken something from him, a home he hadn't chosen to leave. Ardenmere he was choosing to leave, on his own terms, carrying more out of it than he'd ever expected a district to give a fourteen-year-old with nothing but a bag and a direction. That difference mattered more than he'd have guessed, walking away from it.
 
 "You're doing the thing," Lira said, watching him watch the horizon.
 
@@ -101,7 +101,7 @@ He looked back once, the way he'd looked back at Denvash two years and a lifetim
 
 "Cataloguing. I can practically hear the notebook entry forming." She said it fondly, no real accusation in it. "Go ahead. I know you're not going to be able to walk another mile without writing something down."
 
-He didn't, in fact, make it another mile. He pulled the log out at the first rest, sitting on a low stone wall much like the one outside Ardenmere's gate had been, two years and two books of careful handwriting ago, and wrote the closing entry for a chapter of his life he understood, even now, he'd only half-finished understanding.
+He didn't, in fact, make it another mile. He pulled the log out at the first rest, sitting on a low stone wall much like the one outside Ardenmere's gate had been, a year and a half and two books of careful handwriting ago, and wrote the closing entry for a chapter of his life he understood, even now, he'd only half-finished understanding.
 
 *Four confirmed fragments. One anomaly. A circuit record that exists whether or not the Compact ever acknowledges it. A friend who reads people the way I do, from a completely different direction, and somehow arrives at the same conclusions. A partner who's stopped holding back, in every sense that matters, and is going to be extraordinary because of it.*
 

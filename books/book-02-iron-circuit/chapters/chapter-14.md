@@ -8,9 +8,9 @@ The season brought its own recurring cast of grievances, most of which Cael had 
 
 This dispute, when it came, was smaller than most of what Vell had to adjudicate this particular season, but it arrived with the kind of implicit threat that made it worth handling carefully rather than waving off.
 
-A mid-tier practitioner from outside the district, guild-adjacent by his connections rather than his formal standing, claimed — without evidence, and in front of enough of the regular crowd to make the claim a genuine nuisance rather than a private grievance — that a recent bout's outcome had been skewed in Cael's favor. He'd been in the audience for that bout, three days earlier, a mid-afternoon match that Cael barely remembered as anything other than one entry among dozens in the observation notebook. The practitioner had lost money on it, apparently, and had spent the intervening days deciding that his loss required an explanation other than simply having bet on the wrong outcome.
+The practitioner who cornered Vell that morning was the same one from the coaching-interference dispute months earlier — older by a season, apparently no wiser for the wait, though this time his grievance had nothing to do with Orvet or the west post. He'd been in the audience for a bout three days earlier, a mid-afternoon match Cael barely remembered as anything other than one entry among dozens in the observation notebook. The practitioner had lost money on it, apparently, and had spent the intervening days deciding that his loss required an explanation other than simply having bet on the wrong outcome — the same instinct that had sent him to this table once before, dressed up this time in a different complaint.
 
-He cornered Vell at her table on a crowded morning, loud enough that the benches nearest the scheduling board quieted to listen.
+He cornered Vell at her table on a crowded morning, loud enough that the benches nearest the scheduling board quieted to listen — and Cael watched Vell's expression shift, just slightly, into the flat resignation of someone recognizing a repeat customer rather than meeting a stranger.
 
 "That result was manipulated," he said. "The unranked one — everyone knows he's doing something the Arbiter can't track. How is anyone supposed to bet honestly against that?"
 
@@ -22,13 +22,13 @@ Vell didn't look up from the ledger right away. When she did, her expression car
 
 "That's not a rules violation. That's a complaint that circuit betting carries risk, which it always has, for every fighter whose full capability isn't published somewhere convenient." She set the pen down — the same small gesture Cael had learned, months ago, marked the moment she stopped performing patience and simply delivered her ruling. "The bout stands."
 
-The practitioner's jaw tightened. He glanced around at the gathering audience, apparently recalculating whether a bigger crowd made his position stronger or simply more exposed. "My training facility is guild-affiliated. I have connections who'd be very interested to hear that an unclassified fighter is competing in an unsanctioned circuit without any oversight at all."
+The practitioner's jaw tightened. He glanced around at the gathering audience, apparently recalculating whether a bigger crowd made his position stronger or simply more exposed. "My training facility is guild-affiliated, same as I told you last time. Except this time I've actually written the complaint down, and I have connections who'd be very interested to hear that an unclassified fighter is competing in an unsanctioned circuit without any oversight at all."
 
 The threat landed exactly the way it was meant to — a ripple through the nearest benches, the attentive stillness of people recognizing that the conversation had just changed shape.
 
 Cael, seated in his usual spot with the observation notebook open, didn't look up immediately either. He'd learned, watching Vell work for a year now, that the useful information in a moment like this rarely lived in what was being said. It lived in what happened next.
 
-"Do that," Vell said, "and you'll find out how fast word travels between keepers. I'd think carefully about whether that's a reputation you want attached to your name, given how much of your own income depends on circuits exactly like this one continuing to let you fight in them."
+"Do that," Vell said, "and you'll find out how fast word travels between keepers — same as I told you the last time you stood at this table. I'd think carefully about whether that's a reputation you want attached to your name twice in one season, given how much of your own income depends on circuits exactly like this one continuing to let you fight in them."
 
 The practitioner opened his mouth to argue further, and that was when Cael spoke, quietly, from where he sat.
 
@@ -54,7 +54,7 @@ She turned a page, checking a second exchange, then a third, her finger tracing 
 
 Vell nodded slowly, closing both books with the finality of a decision already made rather than one still forming. "The claim doesn't hold," she said, addressing the practitioner directly now rather than the crowd around him. "The bout stands. This matter is closed."
 
-The practitioner looked between the two of them, clearly understanding that whatever chance his complaint had carried had just evaporated in front of forty witnesses, and left without further argument — the deflated posture of someone who'd walked in certain and was walking out having recalculated, in real time, the actual cost of that certainty.
+The practitioner looked between the two of them, understanding — for the second time in one season, from the same table — that his complaint had just evaporated in front of forty witnesses, and left without further argument, the particular deflated posture of a man discovering that testing the same door twice doesn't make it open any wider.
 
 ---
 
@@ -78,7 +78,9 @@ Cael understood the weight underneath the offhand delivery. This wasn't idle com
 
 He glanced toward the scheduling board, where the day's remaining bouts waited in chalk, and something in his expression softened slightly, the sharpness of a moment ago receding back into his usual unhurried calm. "I had a fighter here, years back, before your time. Talented. Genuinely talented, the kind that only comes through once every few seasons. Guild scout found out he trained here, offered him a legitimate placement — real money, real standing, everything he'd never get from an unranked classification. He took it." A pause, longer than the story strictly needed. "Six months later the guild had a full record of every unsanctioned bout he'd ever fought, and used it to make sure he understood exactly how replaceable he was if he ever thought about negotiating his own terms. He came back here eventually. Different person by then. Careful in a way he hadn't needed to be careful before." Dace shrugged, the gesture settling the memory back into wherever he usually kept it. "I don't share records anymore. Not with anyone. Not even the good ones."
 
-Cael filed the story the way he filed most things Dace offered him — not as tactics, but as evidence of the actual shape of the thing he'd chosen to build his life around. "So." He pushed off the shelf, already turning to go, the conversation apparently concluded as far as he was concerned. "Keep taking your notes. Just remember whose hands they're for."
+Cael filed the story the way he filed most things Dace offered him — not as tactics, but as evidence of the actual shape of the thing he'd chosen to build his life around.
+
+Dace pushed off the shelf, already turning to go, the conversation apparently concluded as far as he was concerned. "So. Keep taking your notes. Just remember whose hands they're for."
 
 "I already knew that."
 
@@ -154,4 +156,4 @@ He folded the page back into the log, closed it, and slept better than he had in
 
 ---
 
-*End of Chapter 14 — approximately 3,571 words*
+*End of Chapter 14 — approximately 3,643 words*

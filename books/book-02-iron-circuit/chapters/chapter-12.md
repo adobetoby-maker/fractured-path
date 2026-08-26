@@ -62,7 +62,7 @@ Brom let the silence sit for a moment after Cael's answer about the map and the 
 
 "My turn to ask the question I've actually been building toward," he said. "What's your classification?"
 
-Cael had known this was coming since the moment Brom sat down at the fight two nights ago and said *I'm Brom* like an opening move rather than an introduction. He'd had two days to decide how he wanted to answer it, and had landed, in the end, on the same principle that had carried him through every version of this conversation since Weaver's Row: say it plainly, first, before anyone else got the chance to say it around him.
+Cael had known this was coming since the moment Brom sat down at the fight the day before and said *I'm Brom* like it was still worth saying, the two of them already well past the point of needing introductions. He'd had a day to decide how he wanted to answer it, and had landed, in the end, on the same principle that had carried him through every version of this conversation since Weaver's Row: say it plainly, first, before anyone else got the chance to say it around him.
 
 "[SHATTERED]."
 
@@ -82,7 +82,7 @@ Brom's expression didn't change. Not the flicker of alarm Cael had learned to ex
 
 "And what you're actually doing — in the circle, in the third exchange against me. What is that?"
 
-"Something." Cael turned the word over before continuing, choosing the next part carefully, because it was the part he least liked admitting out loud even now, a year into carrying it. "I don't have a name for it yet. I have fragments — pieces of other people's abilities, borrowed through sustained observation, or once through direct contact. I don't fully understand the mechanism. I've been building a private record of what I do know for almost a year now."
+"Something." Cael turned the word over before continuing, choosing the next part carefully, because it was the part he least liked admitting out loud even now, a year into carrying it. "I don't have a name for it yet. Pieces of something, maybe — I don't fully understand the mechanism myself. I've been building a private record of what I do know for almost a year now."
 
 "Does having a name matter?"
 
@@ -96,7 +96,7 @@ Brom nodded, apparently satisfied, and then said the thing that mattered more th
 
 Cael looked at him for a long moment. It was, in context, a considerably larger request than its four words suggested — the Power Log was private in a way that had nothing to do with shame and everything to do with honesty. Lira had earned her way into its pages slowly, over months, the way she'd earned her way into most of what he carried; Hesk knew it existed only through letters. Nobody else had ever read a line of it. It was the single most technical, unguarded document he kept, more precise than anything he'd ever said aloud, and he had never once shown it to anyone who hadn't already earned the access some other way first.
 
-He weighed Brom against the benchmark, quietly, the way he weighed most decisions that actually mattered — not the fight two nights ago, which had told him plenty about Brom's skill and composure, but this conversation, the unhurried honesty of it, the specific way Brom had received *unreadable* and *fragments* and *I don't fully understand the mechanism* without once flinching or performing sympathy he didn't feel.
+He weighed Brom against the benchmark, quietly, the way he weighed most decisions that actually mattered — not the fight the day before, which had told him plenty about Brom's skill and composure, but this conversation, the unhurried honesty of it, the specific way Brom had received *unreadable* and *fragments* and *I don't fully understand the mechanism* without once flinching or performing sympathy he didn't feel.
 
 "Maybe," he said, finally, which was, given everything Brom had already learned to read correctly in him over the past two days, close enough to a yes that neither of them needed to pretend otherwise.
 
@@ -158,7 +158,7 @@ Cael considered the question honestly, the way he tried to consider most things 
 
 "Brom," Lira said, with the specific fondness that had crept into her voice for him faster than either of them had quite expected, "says a lot of things that sound like they should be obvious and somehow aren't, until he's the one saying them."
 
-They ate dinner together after that, the ordinary rhythm of an evening that had, underneath its ordinariness, quietly marked something neither of them needed to name directly: a second person now fully inside the circle of who knew, who'd chosen to stay anyway, adding one more thread to whatever it was the three of them — soon, though neither of them knew it yet, to properly become three — were slowly, carefully building together in a district that had given all of them considerably more than any of them had arrived expecting.
+They ate dinner together after that, the ordinary rhythm of an evening that had, underneath its ordinariness, quietly marked something neither of them needed to name directly: a second person now fully inside the circle of who knew, who'd chosen to stay anyway, adding one more thread to whatever it was the two of them had been slowly, carefully building together — soon, though neither of them fully realized it yet, to become three — in a district that had given all of them considerably more than any of them had arrived expecting.
 
 ---
 

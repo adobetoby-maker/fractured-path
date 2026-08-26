@@ -14,7 +14,7 @@ The two years between Velmere and Ardenmere had taught him things his family's e
 
 The second city had gone better, and by the time he'd arrived in Ardenmere, he'd stopped thinking of himself as someone in flight from a disappointing Kindling result and started thinking of himself as someone building a method — the force-redirect technique refined further with every circuit he passed through, tested against opponents his family's estate would never have allowed near him, each new city adding another layer to a version of Iron Skin Path that belonged entirely to him rather than to any lineage.
 
-He'd been watching Cael for three weeks before he ever spoke to him.
+He'd been watching Cael for three weeks, since the night he'd first sat down beside him at a bout and told him his notebook was wrong.
 
 ---
 

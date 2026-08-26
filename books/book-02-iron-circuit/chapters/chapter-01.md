@@ -134,7 +134,7 @@ Lira considered this, something more serious settling under her usual directness
 
 "Always."
 
-"Does it ever bother you that I know all of it? Not just the shape — the actual mechanism. I was there for one of them. I've read the log more times than anyone besides you." She said it carefully, watching him for the answer rather than assuming it. "I sometimes wonder if it would be easier for you, carrying something this strange, if there were parts of it that were only yours."
+"Does it ever bother you that I know all of it? Not just the shape — the actual fact of it. Where they come from. I was there for one of them. I've read the log more times than anyone besides you." She said it carefully, watching him for the answer rather than assuming it. "I sometimes wonder if it would be easier for you, carrying something this strange, if there were parts of it that were only yours."
 
 Cael thought about this honestly, the way he thought about most things she asked him directly. "No," he said, finally. "It would be lonelier. I've done lonelier. I didn't like it better."
 

@@ -80,7 +80,7 @@ She sat with this for a while, turning it over with the same careful attention s
 
 "That's going to cost you some losses."
 
-"I know. I've been avoiding losses for months and calling it progress." She almost laughed at herself, a short, rueful sound. "I think I've been more afraid of losing in front of people than I've admitted to myself. Which is a strange thing to be afraid of, considering I already lost everything that was supposed to matter, three years ago, in a room where nobody was even keeping score the way the circuit does."
+"I know. I've been avoiding losses for months and calling it progress." She almost laughed at herself, a short, rueful sound. "I think I've been more afraid of losing in front of people than I've admitted to myself. Which is a strange thing to be afraid of, considering I already lost everything that was supposed to matter, two years ago, in a room where nobody was even keeping score the way the circuit does."
 
 "Losing here isn't the same as losing there."
 
@@ -158,7 +158,7 @@ She sat down beside him on the boarding house steps that evening, both of them n
 
 "Always."
 
-"The examiner. The one from the room, three years ago." He chose the words carefully, aware he was walking into territory she rarely opened voluntarily. "Do you actually think you'll ever see them again? Or is it more that they matter as an idea — someone to aim at, even if the aiming never actually lands anywhere specific."
+"The examiner. The one from the room, two years ago." He chose the words carefully, aware he was walking into territory she rarely opened voluntarily. "Do you actually think you'll ever see them again? Or is it more that they matter as an idea — someone to aim at, even if the aiming never actually lands anywhere specific."
 
 Lira considered the question with real seriousness, turning it over the way she turned over a genuinely difficult opponent's tell. "Both, maybe. I don't spend time imagining the actual conversation — what I'd say, what they'd say back. That part doesn't interest me much. What interests me is just — existing, loudly enough, that the decision they made stops looking correct to anyone who examines it. I don't need them in the room for that to happen. I just need to become undeniable enough that the story reaches them eventually, secondhand, the way most consequences travel."
 
@@ -170,7 +170,7 @@ Cael turned this over, recognizing, underneath the specific details of guild exp
 
 "I think you're going to get there," he said, plainly, because it was true and because he'd learned, over a year, that Lira trusted plain statements more than elaborate encouragement.
 
-"I know." She bumped his shoulder with hers, some of the evening's weight lifting the way it usually did between them once the hardest part of a conversation had actually been said out loud. "Took me three years and one very annoying fourteen-year-old to admit I wanted it badly enough to say it plainly. Don't let it go to your head."
+"I know." She bumped his shoulder with hers, some of the evening's weight lifting the way it usually did between them once the hardest part of a conversation had actually been said out loud. "Took me two years and one very annoying fourteen-year-old to admit I wanted it badly enough to say it plainly. Don't let it go to your head."
 
 "Too late."
 

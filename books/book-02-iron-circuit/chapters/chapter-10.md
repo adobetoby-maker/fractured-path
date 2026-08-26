@@ -64,7 +64,7 @@ He mentioned it to Lira, who read the entry twice, something working behind her 
 
 "She did."
 
-"That matters more than the rating change, honestly." Lira closed the ledger page carefully, the way she'd started handling anything of Vell's since the tour of the archives months before — a specific, learned respect for records that had earned their weight the hard way. "I spent three years at an academy where nobody ever once admitted they'd underestimated me. Not even after I proved them wrong. They just quietly stopped mentioning the original assessment, like not saying it out loud made it not have happened."
+"That matters more than the rating change, honestly." Lira closed the ledger page carefully, the way she'd started handling anything of Vell's since the tour of the archives months before — a specific, learned respect for records that had earned their weight the hard way. "I spent months at an academy where nobody ever once admitted they'd underestimated me. Not even after I proved them wrong. They just quietly stopped mentioning the original assessment, like not saying it out loud made it not have happened."
 
 "Vell's different."
 
@@ -116,7 +116,7 @@ Brom nodded slowly, something settling into place behind his expression — not 
 
 "I saw it this morning."
 
-"Good." Brom turned to leave, then paused, glancing back with the same economical directness he'd used the day he'd first introduced himself. "I meant what I said before, about problems I can't solve. I don't think I'll solve you in one fight. I don't expect to. I just want to see what the first real attempt looks like."
+"Good." Brom turned to leave, then paused, glancing back with the same economical directness he'd used the day he'd first introduced himself. "There are problems I don't expect to solve in a single sitting. I don't think I'll solve you in one fight, either. I don't expect to. I just want to see what the first real attempt looks like."
 
 He left before Cael could formulate a response — the same clean, unhurried exit Cael had come to associate with him, three steps and gone, leaving behind considerably more to think about than the sentence count would have suggested.
 

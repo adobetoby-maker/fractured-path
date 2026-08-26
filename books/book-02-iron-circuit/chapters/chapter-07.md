@@ -72,13 +72,7 @@ Havel studied him a moment longer, then made a small note — not in the complia
 
 "Thank you for your time," Cael said, which cost him nothing and occasionally, he'd found, bought him a fraction more goodwill from officials who expected a colder reception than that.
 
-Havel gave a short nod, the closest thing to acknowledgment his training seemed to allow for, and turned to leave — then paused, half-turned back, with the specific hesitation of someone deciding whether a thought was worth voicing at all.
-
-"For what it's worth," he said, "the file I was handed this morning doesn't match what I just saw. I don't know what to do with that information. I'm not sure it's mine to do anything with. But I thought you should know someone noticed."
-
-He left before Cael could ask what, precisely, he meant by it, the credentials case already returning to its habitual place at his side, his stride carrying him back toward the district's edge with the same measured, unhurried pace he'd arrived with.
-
-Cael stood for a moment, turning the parting comment over. It was, he understood immediately, more than Havel had strictly needed to say — a small, deliberate crack in an otherwise perfectly procedural visit, the kind of thing a careful officer only said when something about a case had genuinely unsettled him enough to want another person, however briefly, to know it too.
+Havel gave a short nod, the closest thing to acknowledgment his training seemed to allow for, and turned to leave, the credentials case already returning to its habitual place at his side, his stride carrying him back toward the district's edge with the same measured, unhurried pace he'd arrived with.
 
 ---
 
@@ -86,21 +80,19 @@ Cael watched him go, then finished his purchase and continued through the rest o
 
 He mentioned the encounter to Lira over the midday meal, more out of habit than any real sense that it required discussion.
 
-"Junior officer. Younger than Coss. Asked the standard questions, stamped it compliant." He paused, weighing whether the parting comment was worth including. "Said something odd on his way out. That the file he'd been handed didn't match what he saw."
+"Junior officer. Younger than Coss. Asked the standard questions, stamped it compliant." He turned his cup slowly, thinking it over. "Newer to the district than Coss was, I think — hadn't worked it before. Everything about him still had that slightly-too-careful edge."
 
-Lira looked up from her own plate, something sharpening in her attention. "Odd how?"
+Lira looked up from her own plate. "Nervous?"
 
-"I don't know yet. It felt like he meant it as a warning, or maybe just an honest confession — the kind of thing you say when you've noticed something and don't have anywhere useful to put it." Cael turned his cup slowly, the way he did when a piece of information hadn't finished settling into place. "He wasn't threatening. If anything, he seemed uneasy about his own file."
+"Not exactly. More like someone still building the calm that comes with having done a thing enough times to stop thinking about it." Cael shrugged. "He asked what they always ask. I gave the answers I always give. Stamped compliant and left."
 
-"That's new."
+"So, nothing."
 
-"It is." He filed the thought alongside the rest of the morning, unresolved for now, the way he'd learned to let most unresolved things sit until enough additional evidence arrived to actually do something with them.
+"So, nothing." He filed the visit alongside a year's worth of similarly unremarkable ones, one more entry in a pattern that had stopped meaning much beyond itself.
 
-He wrote it into the log that evening, brief and precise, the way he wrote most encounters that resolved without producing anything genuinely new — though this one, he suspected, hadn't quite finished resolving yet.
+He wrote it into the log that evening, brief and precise, the way he wrote most encounters that resolved without producing anything genuinely new.
 
 *Junior assessor. First visit in six months, which tracks with the roughly semi-annual rhythm Coss's own visits used to follow before things changed. Younger than Coss, less settled into the role — visible in the posture, the timing of the questions, a slight over-formality that experience will probably wear off him in a year or two. They're watching, but they're not sure what they're looking for. Standard compliance check, nothing beyond it.*
-
-*One addition worth keeping separate: on his way out, he said the file he'd been given didn't match what he actually saw. Unprompted. Not required by any procedure I'm aware of. I don't know what to make of it yet, except that it's the second time now — Havel's own discomfort, and whatever quietly unsettled Coss months ago — that someone inside the Compact's own structure has looked at my file and found something in it they couldn't explain. That pattern is worth watching more closely than the visits themselves.*
 
 This was accurate, and it was, as it turned out, close to the most comfortable the Compact's attention would remain for some time yet — though Cael had no way of knowing that particular fact as he wrote it, filing the encounter alongside a year's worth of similarly routine, similarly unremarkable Compact contact, each one a little less alarming than the one before it, each one making the next a little easier to meet without his pulse changing.
 
@@ -112,7 +104,7 @@ The office was small, one window facing an alley, a desk he shared with two othe
 
 He thought, briefly, walking back from the district that afternoon, about the comment he'd made on his way out — the file doesn't match what I saw. He wasn't entirely sure why he'd said it out loud. It wasn't the kind of thing his training encouraged; a compliance officer's job was to record, not to editorialize, and certainly not to hand a subject an unprompted piece of his own uncertainty. But something about the boy's flat, unbothered composure — the specific quality of someone who had clearly weathered considerably worse scrutiny than a routine district visit — had made the silence feel like the wrong choice. He'd said it, and he didn't regret having said it, even if he couldn't have fully explained, if pressed, exactly what he'd hoped saying it would accomplish.
 
-He entered the routine compliance confirmation into the system in the standard language his training had drilled into him until it required no real thought: subject located, residency confirmed, compliance status affirmed, no further action indicated. A case remaining exactly as unremarkable as it had been assigned to him that morning. He should have closed it there and moved directly to the third file waiting in his queue.
+He entered the routine compliance confirmation into the system in the standard language his training had drilled into him until it required no real thought: subject located, residency confirmed, compliance status affirmed, no further action indicated. Alongside it, he entered one line he hadn't drafted himself — the supplementary compliance marker his supervisor's morning briefing had specifically instructed him to attach to any [SHATTERED]-classification file before closing it out, regardless of what the visit itself turned up. It wasn't the first such standing instruction he'd filed without asking why; classification-specific requirements changed more often than anyone bothered explaining to an officer at his grade, and he thought nothing further of it as he entered it and moved on. A case remaining, in every way he understood it, exactly as unremarkable as it had been assigned to him that morning. He should have closed it there and moved directly to the third file waiting in his queue.
 
 He paused instead, his attention catching on something he hadn't been specifically looking for — a classification marker sitting quietly among the file's other administrative fields, the kind of small technical detail a less careful officer might have scrolled past without registering at all.
 
@@ -132,10 +124,10 @@ It was, he decided, outside his lane for now. He closed the file and moved on to
 
 He walked home later than usual, the district's evening crowds thinning around him, and found himself turning the whole day over one more time before he let it go for the night — the calm boy at the market, the marker with no origin, his own unplanned admission on the way out. None of it added up to anything he could act on. All of it, together, sat in his mind with a weight that a genuinely routine compliance visit had no business leaving behind.
 
-He didn't know, walking home that evening, that he had just become one small, quiet piece of something considerably larger than his own modest grade level would ever be cleared to see in full — a junior officer's honest unease, filed alongside a Ledger-keeper's thirty years of records and a Compact warden's own uneasy silence, three separate people circling the edges of the same unexplained shape from three directions that would never, in the ordinary course of things, have any reason to compare notes.
+He didn't know, walking home that evening, how much further the loose thread he'd noticed and set aside might actually run, or how many other quiet, careful people — people he would never meet, working cases he would never see — might already be circling some piece of the same unexplained shape from their own separate directions, each of them just as unable to compare notes as he was.
 
 He simply went home, made himself a modest dinner, and slept the untroubled sleep of a man who had done his job correctly, whatever quiet questions the job had left unanswered behind it.
 
 ---
 
-*End of Chapter 7 — approximately 3,550 words*
+*End of Chapter 7 — approximately 3,340 words*

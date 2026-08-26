@@ -16,7 +16,7 @@ They didn't speak. They watched each other watch the fighters in the ring — a 
 
 Cael found himself, somewhere in the second bout, cataloguing Reydan the way he cataloged everyone — not tactically, not yet, there'd be time for that tomorrow, but simply as a fact of the room. The way he sat. The way his attention moved. The quality of patience in someone who had already decided, apparently, that tomorrow would answer whatever questions tonight's watching raised, and saw no reason to rush the answer by asking them out loud early.
 
-He thought, watching him, about Feryn — the first Bronze-tier professional he'd ever fought, back when Ardenmere itself had still felt new to him. Feryn had watched him the same way, in the end. Curious rather than hostile. Interested in the problem rather than invested in the win. He wondered if that was simply what genuine skill did to a person eventually — burned off whatever needed the crowd's noise to feel like it mattered, and left behind something closer to pure appetite for a real question. He hoped, distantly, that it would do the same to him, someday, whenever someday arrived.
+He thought, watching him, about Feryn — one of the first Bronze-tier professionals he'd ever fought, back when Ardenmere itself had still felt new to him. Feryn had watched him the same way, in the end. Curious rather than hostile. Interested in the problem rather than invested in the win. He wondered if that was simply what genuine skill did to a person eventually — burned off whatever needed the crowd's noise to feel like it mattered, and left behind something closer to pure appetite for a real question. He hoped, distantly, that it would do the same to him, someday, whenever someday arrived.
 
 Lira found him during the gap between the second and third preliminary bouts, settling onto the bench beside him without asking, the two of them watching the crowd's texture shift as more people filtered in through the doors.
 
@@ -46,7 +46,7 @@ He clocked her fully within ten minutes, the instinct for an unfamiliar pattern 
 
 He asked Dace about her, quietly, between bouts, catching him at the edge of the scheduling board during a lull.
 
-"Not circuit-regular," Dace said, not even needing to look toward her to know who Cael meant. "Came in with a credentialed pass — the kind academy scouts use for venue observation. First time I've seen one of those used here in longer than I can remember."
+"Not circuit-regular," Dace said, not even needing to look toward her to know who Cael meant. "Came in with a credentialed pass — the kind academy scouts use for venue observation. Uncommon. There's been a bit more of that this past season than there used to be, but still uncommon enough that I notice it every time."
 
 "Which academy?"
 
@@ -82,7 +82,7 @@ He left without further ceremony, the same economical exit Cael had come to expe
 
 He sat with the Power Log open in his lap for a long while before writing anything at all, the lamp beside him burning low, the Ironyard's last few departing voices fading into the district's ordinary night noise beyond the walls.
 
-Three integrated fragments. One anomaly that might, eventually, become a fourth, if the anomaly ever consented to be summoned on purpose rather than simply happening to him under pressure he couldn't fully control. He turned the pages back through the log's short history, and further back in memory than the log itself reached — Renn's telegraphed strikes, a courtyard behind Torvin's boarding house, Dessa's transition windows, Feryn's contact-sourced fragment, Brom's careful, patient teaching, the Tide-adjacent anomaly he still couldn't name. A year of careful, accumulated evidence, building toward a night like this one without either of them ever quite planning for it to arrive this specific way.
+Three integrated fragments. One anomaly that might, eventually, become a fourth, if the anomaly ever consented to be summoned on purpose rather than simply happening to him under pressure he couldn't fully control. He turned the pages back through the log's short history, and further back in memory than the log itself reached — Renn's telegraphed strikes, his room at Torvin's boarding house by lamplight, Dessa's transition windows, Feryn's contact-sourced fragment, Brom's careful, patient teaching, the Tide-adjacent anomaly he still couldn't name. A year of careful, accumulated evidence, building toward a night like this one without either of them ever quite planning for it to arrive this specific way.
 
 He wrote a single entry for the coming bout, the handwriting steadier than he expected it to be: *Reydan. Iron-tier Rank 8. Pressure-burst variant. Known tells: containment signature, per Brom's read. Known weaknesses: adapts between exchanges, which means he commits to a read and then has to abandon it when it fails. If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.*
 

@@ -100,13 +100,13 @@ At the tour's end, back at the archive shelf, Vell gestured to an empty space at
 
 "That's a large claim for a room full of old books."
 
-"It's not the books that make it true. It's that I was here, every time, watching closely enough to write down what actually happened instead of what someone wanted written down." She looked at him for a moment, something more direct in her expression than the conversation had carried up to that point. "You understand that better than most people who walk through this door, I think. Your own registry entry says one thing. What you actually are is something else entirely. Nobody had to write either version down for both to be true at the same time."
+"It's not the books that make it true. It's that I was here, every time, watching closely enough to write down what actually happened instead of what someone wanted written down." She looked at him for a moment, something more direct in her expression than the conversation had carried up to that point. "You understand that better than most people who walk through this door, I think. A registry entry is one kind of true. What someone actually did with their life is sometimes a different kind of true altogether. Nobody has to choose between them. They're just both real, whether anyone official ever writes the second one down."
 
 Cael absorbed this without visible reaction, the way he absorbed most things that mattered too much to react to immediately.
 
-He wrote it down that evening, alone, in the observation notebook rather than the Power Log, because it wasn't about his own architecture — it was about the world's, the shape of an authority built entirely on the discipline of being present and honest, requiring no Arbiter, no registry, no permission from anyone who'd never bothered to actually watch.
+He wrote it down that evening, alone, in the observation notebook rather than the fragment log, because it wasn't about his own architecture — it was about the world's, the shape of an authority built entirely on the discipline of being present and honest, requiring no Arbiter, no registry, no permission from anyone who'd never bothered to actually watch.
 
-*Vell's ledger. The truth that doesn't need the Compact's cooperation to be true. My registry entry says one thing. What I am is something else. Both of those are apparently allowed to be real at once, as long as someone is willing to keep an honest record of the second one.*
+*Vell's ledger. The truth that doesn't need the Compact's cooperation to be true. A registry entry is one kind of true. What a person actually does is sometimes a different kind entirely — and I think mine might be, more than most. Both of those are apparently allowed to be real at once, as long as someone is willing to keep an honest record of the second one.*
 
 He starred it, the way he'd starred Hesk's line in his very first notebook, a lifetime and a year ago — and thought, closing the notebook, that Ardenmere kept handing him versions of the same lesson from entirely different directions, as though the district itself had decided he needed to hear it more than once before it would finally stick.
 

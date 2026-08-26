@@ -94,7 +94,7 @@ Lira's expression sharpened immediately, the sharpened alertness she reserved fo
 
 "What do we do?"
 
-"Nothing yet. I don't have enough to act on. I have enough to watch back." He said this with the same flat, methodical calm he brought to most genuine threats, the tone that had carried him through Coss's summons and Ilsev's assessments and every other quiet escalation the past two years had produced. "I'll tell you the moment that changes."
+"Nothing yet. I don't have enough to act on. I have enough to watch back." He said this with the same flat, methodical calm he brought to most genuine threats, the tone that had carried him through Coss's summons and Ilsev's assessments and every other quiet escalation the better part of two years had produced. "I'll tell you the moment that changes."
 
 She held his gaze a moment longer, checking, the way she always checked, whether the calm was real or performed for her benefit. She decided, apparently, that it was real, and let the subject go — though Cael noticed, over the following days, that she'd started walking slightly closer to him through the market than she used to, an adjustment neither of them mentioned and both of them understood.
 
@@ -138,9 +138,9 @@ Havel had looked closely enough, once, out of nothing more than an ordinary offi
 
 Coss had looked closely enough to be uneasy, and had done the one thing available to a man in his position who wanted the discomfort on someone else's record rather than only his own: he had asked, quietly, and been met with silence loud enough to answer the question on its own terms.
 
-Neither of them — nor anyone else currently drawing a salary from the Compact, moving files from one office to the next, filling in the ordinary boxes the ordinary system asked them to fill — had reached the implication that sat, patient and entirely undisturbed, underneath all of it: that whatever had generated this designation was the same mechanism that had flagged Cael's Kindling in the first place, more than a year and two districts ago, operating on a schedule and for reasons that belonged to something considerably older and considerably less interested in the Compact's own chain of command than the Compact itself had ever imagined.
+Neither of them — nor anyone else currently drawing a salary from the Compact, moving files from one office to the next, filling in the ordinary boxes the ordinary system asked them to fill — had reached the implication sitting underneath all of it: that whatever had generated this designation was the same mechanism that had flagged Cael's Kindling in the first place, more than a year and two districts ago, running on infrastructure considerably older than the Compact's own chain of command, and answerable to none of it.
 
-It did not care that Havel had asked. It did not care that Coss had filed a note nobody answered. It simply continued, quietly, doing whatever it had been built to do — patient, in its own way, in a manner that made even the watcher trailing Cael through Ardenmere's market look, by comparison, almost hurried.
+Havel's query changed nothing in it. Coss's unanswered note changed nothing in it. It simply continued running, unaffected by either — the same flat continuation that had outlasted every officer who'd ever touched the file, and would presumably outlast the next one too.
 
 ---
 
