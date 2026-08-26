@@ -92,7 +92,7 @@ Cael turned that over the way he turned over anything that arrived sounding too 
 
 Lira spoke before Cael could respond. "What about expelled practitioners?"
 
-Quenna looked at her with the same unhurried, thoroughly prepared attention she'd brought to the entire conversation so far — nothing improvised in it, the look of a woman who had done her reading well before tonight and simply hadn't mentioned it until asked. "Wind Path, Copper-tier, expelled from Venmire Academy."
+Quenna looked at her with the same unhurried, thoroughly prepared attention she'd brought to the entire conversation so far — nothing improvised in it, the look of a woman who had done her reading well before tonight and simply hadn't mentioned it until asked. "Wind Path, Copper-tier, expelled from Fenmark Academy."
 
 "Yes."
 
@@ -102,7 +102,7 @@ Quenna looked at her with the same unhurried, thoroughly prepared attention she'
 
 "I assumed you could."
 
-There was something almost warm buried in that last exchange, underneath the flat professional cadence Quenna had maintained through everything else — not quite approval, but the recognition of someone who had clearly reviewed a file before ever crossing the yard tonight and had already formed her own opinion of it, independent of whatever Venmire's official record said. Lira didn't relax exactly, but something in her posture eased by a degree, the particular tension of a person bracing for judgment that hadn't arrived.
+There was something almost warm buried in that last exchange, underneath the flat professional cadence Quenna had maintained through everything else — not quite approval, but the recognition of someone who had clearly reviewed a file before ever crossing the yard tonight and had already formed her own opinion of it, independent of whatever Fenmark's official record said. Lira didn't relax exactly, but something in her posture eased by a degree, the particular tension of a person bracing for judgment that hadn't arrived.
 
 Brom, who had said nothing throughout the entire exchange, shifted his weight slightly, and Quenna's eyes moved to him for the space of a breath — a brief, assessing look, the same kind Cael had watched her give the circle itself earlier, cataloguing something and filing it away without comment. She didn't address him directly, and whatever this offer meant, or didn't mean, for a Copper-tier practitioner with no irregularity attached to his name at all, she left it unspoken tonight. If Brom noticed the omission, he gave no outward sign of it.
 

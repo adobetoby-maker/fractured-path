@@ -21,7 +21,7 @@ Plants required for future reveals:
 - [ ] **Book 3 plant:** One moment where Cael moves with an ability he hasn't been told he has (planted as instinct, not understood yet) — Ch9, sparring with Lira
 - [ ] **Book 6 plant:** One moment where the Compact's behavior toward Cael is disproportionate to what a bureaucratic monitoring protocol should produce (hint at active suppression interest) — Ch11 (unsanctioned active sweep), Ch18 (unrecognized evaluation-system flag), Ch24 (unauthorized senior-level flag on Coss's own check)
 
-*Book 8's plant (old text using a word other than [SHATTERED]) now belongs to Book 3, per series bible — Mira has not yet been introduced in this book and should not be. Do not stage it here.*
+*Book 8's plant (old text using a word other than [SHATTERED]) now belongs to Book 3, per series bible — Karis has not yet been introduced in this book and should not be. Do not stage it here.*
 
 ---
 
@@ -400,10 +400,10 @@ Book ends here — the circuit win secured, Cael's standing changed, and the Com
 
 ## Continuity Checkpoint
 
-- [ ] [SHATTERED] not disclosed as [UNBOUND] in this book — that plant now belongs to Book 3, staged through Mira, who is not introduced until Book 3
+- [ ] [SHATTERED] not disclosed as [UNBOUND] in this book — that plant now belongs to Book 3, staged through Karis, who is not introduced until Book 3
 - [ ] Fragment integration: Wind (planted Ch9 via Lira's sparring patterns, formally acquired Ch15), Pressure (Ch17, from Feryn's Pressure Path); 2 fragments at book close, first combined-use deployment in Ch23
 - [ ] Compact monitoring escalation: passive flag (Ch11 sweep) → procedural friction (Ch14, Ch18) → unrecognized senior-level flag (Ch18 plant, confirmed Ch24) — escalation planted, not resolved
-- [ ] Book ends in Ardenmere. No academy offer, no Greyvane arrival, no Mira — those beats now belong to Book 2's ending and Book 3's opening respectively (confirmed against Book 2's architecture, which opens compatible with this ending)
+- [ ] Book ends in Ardenmere. No academy offer, no Greyvane arrival, no Karis — those beats now belong to Book 2's ending and Book 3's opening respectively (confirmed against Book 2's architecture, which opens compatible with this ending)
 - [ ] Hesk backstory: knows about [SHATTERED] before Kindling; witnessed a prior case as a young Compact logistics officer, outcome unknown — planted Ch2–3, not explained; OPEN
 - [ ] Coss: agent status confirmed, but his Compact rank is not clarified — OPEN
 - [ ] State ledger: update after chapter architecture finalizes (see below — companion roster and fragment state both need revision)

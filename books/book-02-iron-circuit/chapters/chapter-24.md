@@ -73,7 +73,7 @@ Lira, walking beside him, read the note over his shoulder without asking permiss
 
 "You built your own version of it. Same district, different proof." He glanced at her, thinking of the woman who'd once told him, months ago, that she wanted to be the best Wind practitioner alive and have it be obvious. "You're not the same fighter who told me you wanted a guild to have to admit you were good."
 
-"No. I'm better than that fighter wanted to be, and I got there by not being her anymore." She said this without any particular weight, a plain fact rather than a confession. "I stopped needing the guild's admission somewhere in the last few months. I still want it. I just don't need it the way I did a year ago. Greyvane's not going to be about proving anything to Venmire anymore. It's going to be about finding out what I actually am, past whatever ceiling either academy ever tried to put on it."
+"No. I'm better than that fighter wanted to be, and I got there by not being her anymore." She said this without any particular weight, a plain fact rather than a confession. "I stopped needing the guild's admission somewhere in the last few months. I still want it. I just don't need it the way I did a year ago. Greyvane's not going to be about proving anything to Fenmark anymore. It's going to be about finding out what I actually am, past whatever ceiling either academy ever tried to put on it."
 
 Cael thought that was, in its own way, the most significant thing to happen to either of them in the whole year — not a fragment, not a fight, not a classification. A person deciding, on her own terms, what she was actually working toward, and finding it had quietly changed shape somewhere along the way without either of them noticing the exact moment it happened.
 

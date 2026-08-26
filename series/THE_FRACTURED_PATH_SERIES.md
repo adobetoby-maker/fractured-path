@@ -111,9 +111,9 @@ The arc that establishes everything: who Cael is, what the world thinks of him, 
 
 **Internal arc:** Cael moves from *I can do this* to *I need to understand what I'm actually doing before it gets someone killed.*
 
-**Companion:** Mira joins. Ember Path, Iron-tier, was top-ranked at a much better academy. She transferred to Greyvane specifically because she heard about the [SHATTERED] practitioner and wants to understand how the Fractured Path works. She is the first person who studies Cael's power as a phenomenon rather than a threat or an asset.
+**Companion:** Karis joins. Ember Path, Iron-tier, was top-ranked at a much better academy. She transferred to Greyvane specifically because she heard about the [SHATTERED] practitioner and wants to understand how the Fractured Path works. She is the first person who studies Cael's power as a phenomenon rather than a threat or an asset.
 
-**First real revelation:** Cael, in a training match against Mira, absorbs a fragment of her Ember ability mid-fight — consciously, intentionally, for the first time. He receives a fragment notice immediately after. The integration is partial but real. He understands for the first time that what he does is not random.
+**First real revelation:** Cael, in a training match against Karis, absorbs a fragment of her Ember ability mid-fight — consciously, intentionally, for the first time. He receives a fragment notice immediately after. The integration is partial but real. He understands for the first time that what he does is not random.
 
 **Antagonist:** Warden Coss reappears — now revealed to be a Compact agent rather than just a local official. He has been tracking Cael since Denvash. He brings a formal challenge to Cael's enrollment, which forces a public adjudication hearing at the academy.
 
@@ -121,7 +121,7 @@ The arc that establishes everything: who Cael is, what the world thinks of him, 
 
 **Ending:** Cael wins the hearing and keeps his enrollment. He also makes a public record of his win — which means every Compact official above Coss's level now knows his name. The monitoring becomes active tracking. Somewhere, a file is opened.
 
-**Mystery planted:** Mira finds a reference to [SHATTERED] in Greyvane's old records — pre-Compact, from before the registry standardization. The word used is different: [UNBOUND]. She copies the passage before the record is confiscated.
+**Mystery planted:** Karis finds a reference to [SHATTERED] in Greyvane's old records — pre-Compact, from before the registry standardization. The word used is different: [UNBOUND]. She copies the passage before the record is confiscated.
 
 ---
 
@@ -136,7 +136,7 @@ The arc where the found family fully assembles and the institutional antagonist 
 
 **Promise:** Make the reader feel the mid-tier academy as a real place with real stakes and real politics — not just a setting, a world.
 
-**External arc:** Cael, Lira, Brom, and Mira reach Halcenvane Academy — mid-tier, legitimate, competitive. Cael's workaround classification is gone; he is enrolled under a new provision that Mira's research found: historical precedent for unclassified practitioners being evaluated by demonstration rather than Arbiter record. He has to prove himself every semester.
+**External arc:** Cael, Lira, Brom, and Karis reach Halcenvane Academy — mid-tier, legitimate, competitive. Cael's workaround classification is gone; he is enrolled under a new provision that Karis's research found: historical precedent for unclassified practitioners being evaluated by demonstration rather than Arbiter record. He has to prove himself every semester.
 
 **Internal arc:** Cael moves from *I know what I can do* to *I need to understand why the system doesn't want me to be able to do it.*
 
@@ -154,11 +154,11 @@ The arc where the found family fully assembles and the institutional antagonist 
 
 **Promise:** Make the reader feel the tournament as the genuine proving ground it is — and make them sweat through every match.
 
-**External arc:** The Continental Academy Tournament — held every three years, open to all registered academies. Halcenvane qualifies. Cael cannot participate officially due to classification status. He participates anyway through a technicality Mira found: the tournament rules require that academies field any practitioner who appears on their enrollment record. His demonstration provision means he's on the record.
+**External arc:** The Continental Academy Tournament — held every three years, open to all registered academies. Halcenvane qualifies. Cael cannot participate officially due to classification status. He participates anyway through a technicality Karis found: the tournament rules require that academies field any practitioner who appears on their enrollment record. His demonstration provision means he's on the record.
 
 **Internal arc:** Cael moves from *I can beat anyone at my tier* to *I am not at any tier.*
 
-**Tournament structure:** Each companion fights separately before the companions fight together. Each faces an opponent designed to test their specific arc: Lira vs. speed specialist who outpaces her, Brom vs. Glass Path striker who finds every gap in his defense, Mira vs. information-advantage opponent who knows her technique perfectly.
+**Tournament structure:** Each companion fights separately before the companions fight together. Each faces an opponent designed to test their specific arc: Lira vs. speed specialist who outpaces her, Brom vs. Glass Path striker who finds every gap in his defense, Karis vs. information-advantage opponent who knows her technique perfectly.
 
 **Main event:** Cael vs. a Gold-tier prodigy — Daeva, 19 years old, Gold Rank 3, the youngest Gold-tier practitioner in continental history. The match is the book's climax. Cael does not win cleanly. He survives long enough to demonstrate something that has never been recorded in a tournament: a practitioner integrating an opponent's ability mid-fight and immediately deploying it. The judges don't know how to score it.
 
@@ -184,7 +184,7 @@ This is the first honest warning Cael receives from an institutional source.
 
 He doesn't switch sides in this book. But he stops being the Compact's instrument.
 
-**The walk-out:** The companions leave Halcenvane together. Not expelled — they resign. Mira forfeits her ranking. Lira walks out of the last class she'll ever take at a formal institution. Brom carries three boxes of materials Mira has been compiling. Seln simply isn't at his desk the next morning.
+**The walk-out:** The companions leave Halcenvane together. Not expelled — they resign. Karis forfeits her ranking. Lira walks out of the last class she'll ever take at a formal institution. Brom carries three boxes of materials Karis has been compiling. Seln simply isn't at his desk the next morning.
 
 **Ending:** The companions are in the edge territories for the first time. They have no institutional backing, no ranking protection, and a Compact classification file that now reads: *active non-compliance, observation priority escalated.*
 
@@ -223,9 +223,9 @@ The arc where the world gets larger and the true threat becomes visible.
 
 **Internal arc:** Cael moves from *I know the system was built to exclude me* to *the system was built specifically to prevent me.*
 
-**The Architect's name:** In a pre-Compact archive at a border city, Mira finds the first primary source reference to the Architect — not as a myth but as a historical individual who designed and deployed the Arbiter system. The record dates to roughly 400 years before the series present. The record is damaged; the Architect's name is not readable, but their intent is: *the system exists to prevent the reemergence of [UNBOUND] potential, which nearly destroyed the continent before the system's deployment.*
+**The Architect's name:** In a pre-Compact archive at a border city, Karis finds the first primary source reference to the Architect — not as a myth but as a historical individual who designed and deployed the Arbiter system. The record dates to roughly 400 years before the series present. The record is damaged; the Architect's name is not readable, but their intent is: *the system exists to prevent the reemergence of [UNBOUND] potential, which nearly destroyed the continent before the system's deployment.*
 
-**Plant:** A damaged secondary source mentions that the Architect did not die in the conventional sense. The language used is obscure. Mira marks the passage.
+**Plant:** A damaged secondary source mentions that the Architect did not die in the conventional sense. The language used is obscure. Karis marks the passage.
 
 **Vastin arc:** Vastin obtains the Compact's complete Quieting records — which he shouldn't have, because the Compact has been suppressing the Quieting data for six years. He gives them to the companions without editorial comment. His arc this book: the man who spent a career enforcing institutional authority learning to navigate without it.
 
@@ -357,7 +357,7 @@ The arc where Cael becomes able to do what only he can do, and then has to decid
 
 **Promise:** Pay off every relationship, every fragment, every sacrifice, every choice — and make the ending feel like it was always going to be exactly this.**
 
-**External arc:** Cael uses the primordial Path — the source the Architect tried to suppress — to enter the Arbiter system's deepest layer. The companions outside buy him the time he needs. This requires everything each of them has. Oryn's Tide Path burns out. Lira's Wind Path is pushed past any tier she's ever operated at. Brom takes damage he will carry permanently. Mira uses three years of theoretical research in a single sustained operation. Vastin coordinates the surviving continental governing bodies to hold the perimeter positions. Seln, from a location nobody knows, takes out three of the Architect's critical relay points in silence.
+**External arc:** Cael uses the primordial Path — the source the Architect tried to suppress — to enter the Arbiter system's deepest layer. The companions outside buy him the time he needs. This requires everything each of them has. Oryn's Tide Path burns out. Lira's Wind Path is pushed past any tier she's ever operated at. Brom takes damage he will carry permanently. Karis uses three years of theoretical research in a single sustained operation. Vastin coordinates the surviving continental governing bodies to hold the perimeter positions. Seln, from a location nobody knows, takes out three of the Architect's critical relay points in silence.
 
 **The choice:** Cael can dismantle the system — release all Path architecture and return the world to the primordial state. Every practitioner loses their abilities. The world returns to chaos. The Architect's fear about what that produces is not wrong.
 

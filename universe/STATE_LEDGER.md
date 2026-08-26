@@ -38,7 +38,7 @@
 |---|---|---|---|---|
 | Lira | Active — circuit-rated provisional Iron-equivalent; Greyvane re-certification candidate | Wind Path | Copper (formal; ceiling is her Book 2 arc) | Book 1 |
 | Brom | Active — Greyvane standard-enrollment applicant; traveling with Cael and Lira | Iron Skin Path | Copper (formal; Iron-equivalent circuit rating) | Book 2 (Ch8; Kindled at 14, left Velmere ~2 years before Ch8, two cities of circuit work in between) |
-| Mira | Not yet met | Ember Path | Iron | Book 3 |
+| Karis | Not yet met | Ember Path | Iron | Book 3 |
 | Seln | Not yet met | Shadow Path | Bronze | Books 4-5 |
 | Oryn | Not yet met | Tide Path | Iron | Books 7-8 |
 
@@ -46,7 +46,7 @@
 
 ## Minor Named Characters — Book 1 (Ardenmere/Denvash)
 
-*Added after Book 1's third review pass caught multiple name collisions from parallel chapter drafting (Ossa/Dessa, Corin/Corr/Corrin, Feyd/Feryn, Orrin/Oryn, two unnamed "Fen"s). Check this table before naming any new minor character in Book 1 or later books — future companions Brom, Mira, Seln, Oryn above are already reserved names.*
+*Added after Book 1's third review pass caught multiple name collisions from parallel chapter drafting (Ossa/Dessa, Corin/Corr/Corrin, Feyd/Feryn, Orrin/Oryn, two unnamed "Fen"s). Check this table before naming any new minor character in Book 1 or later books — future companions Brom, Karis, Seln, Oryn above are already reserved names.*
 
 | Name | Role | Chapter(s) | Notes |
 |---|---|---|---|
@@ -93,6 +93,11 @@
 
 *Added during Book 2's end-to-end continuity review. Five parallel-drafted names collided with Book 1's cleaned-up name families and were renamed in the chapters: Corren→**Ulric**, Fessin→**Stedd**, Ossen→**Wendel**, Sennet→**Ansel**, Halven→**Quenna** (Halven was one letter off Book 1's Halvern AND too close to Book 2's own Assessor Havel). Check this table plus the Book 1 table before naming anyone in Book 3+.*
 
+**Book 3 pre-drafting rename decisions (planning-layer only, made before any Book 3 prose existed):**
+- **Mira → Karis** — the reserved companion name "Mira" was one letter-shape and one syllable off "Lira" (Book 1 companion, same travel party, same era of the story from Book 3 on). Renamed across the series bible and this ledger before any Book 3 chapters were drafted, so the fix cost zero prose changes.
+- **Venmire → Fenmark** (Lira's former academy, first named on-page in Book 2 Ch22) — too close to **Velmere** (Brom's family estate, Book 2 Ch8+, 9 on-page occurrences). Venmire had only 3 on-page occurrences (Ch22 x2, Ch24 x1), so it was the cheaper side to rename; fixed directly in those chapters plus Book 2's architecture doc and this ledger. Velmere is unchanged.
+- Also flagged and still open: no new D-names in Book 3+ (Book 2 already has a 7-strong D-name family — Dace, Darrow, Dessa, etc.); avoid a bare "Iron Path" character introduced near Brom (both would share a Path-name root, risking reader confusion even without a literal name collision); "Iron Skin" should stay fully spelled out (not shortened to "Iron") wherever it appears going forward.
+
 | Name | Role | Chapter(s) | Notes |
 |---|---|---|---|
 | Brom | Companion | 6 (unnamed), 8+ | See Companion Roster — Velmere estate family (Gold-tier lineage: grandmother Gold, mother Gold, older sister in guild placement) |
@@ -109,7 +114,7 @@
 | Ansel | Bronze-tier washout, lost to Reydan 3 years prior | 19 | "Survive first, think second" (renamed from Sennet) |
 | The old yard-owner | Mentor figure, unnamed by design | 11, 17 | Carried over from Book 1 |
 | Torvin | Former boarding-house owner | landmark refs only | Cael and Lira moved OUT of Torvin's before B2 Ch1 — two adjoining rooms in a practitioners' boarding house two streets from the Ironyard. Do not set Book 2+ domestic scenes at Torvin's |
-| Venmire Academy | Lira's former academy (named) | 22 | First time named on-page; keep for Book 3+ |
+| Fenmark Academy | Lira's former academy (named) | 22 | First time named on-page; keep for Book 3+ |
 | Greyvane Academy | Destination institution | 22–24 | Book 3 setting; demonstration-provision track (Cael), re-certification track (Lira), standard enrollment (Brom) |
 
 ---
