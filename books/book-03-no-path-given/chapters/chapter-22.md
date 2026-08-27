@@ -36,7 +36,7 @@ He read it. All of it. Every Path family, every tier designation, every provisio
 
 It took a long time. That was the point.
 
-"[SHATTERED] is not there," he said, when he finished. "It is not in the schedule. It has never been in the schedule. It exists in Arbiter output. It exists in four hundred years of enforcement practice that has treated it as a classification. It has never once existed in the text the Compact's own charter says is the *only* source of classification authority." He closed the code. "The system that removed me from my home academy at fourteen, that has monitored me for two years, that filed the challenge against this enrollment — ran entirely on precedent and custom. It never once ran on the law it claims to be enforcing."
+"[SHATTERED] is not there," he said, when he finished. "It is not in the schedule. It has never been in the schedule. It exists in Arbiter output. It exists in four hundred years of enforcement practice that has treated it as a classification. It has never once existed in the text the Compact's own charter says is the *only* source of classification authority." He closed the code. "The system that removed me from my home at fourteen, that has monitored me for two years, that filed the challenge against this enrollment — ran entirely on precedent and custom. It never once ran on the law it claims to be enforcing."
 
 ---
 

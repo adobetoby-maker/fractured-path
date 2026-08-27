@@ -6,7 +6,7 @@ The proposal came from Karis, on the third evening after the observation session
 
 Cael sat with the offer longer than she seemed to expect him to.
 
-It was not a small thing she was proposing, and he understood — from two books of learning to weigh what people offered him against what it cost them — that she understood that too, even if her voice gave away nothing of the weighing. She was offering to be deliberately, repeatedly, studied *from the other direction*. Not the researcher watching the phenomenon. The phenomenon's raw material, handed over on a schedule, for as long as it took.
+It was not a small thing she was proposing, and he understood — from a year and a half of learning to weigh what people offered him against what it cost them — that she understood that too, even if her voice gave away nothing of the weighing. She was offering to be deliberately, repeatedly, studied *from the other direction*. Not the researcher watching the phenomenon. The phenomenon's raw material, handed over on a schedule, for as long as it took.
 
 "Why would you agree to that."
 
@@ -22,11 +22,11 @@ The first session was, by any honest accounting, uneventful.
 
 ---
 
-They ran it in one of the smaller training rooms off the main hall, chosen for privacy rather than size — a bare rectangle with good light and nothing on the walls, the kind of room built to hold a demonstration rather than a fight. Karis stood at one end, ran her Ember Path declarations at the intensity she used for formal assessment, and Cael watched from the other, doing the thing he had never once, in two years of fragments arriving unbidden, deliberately tried to do.
+They ran it in one of the smaller training rooms off the main hall, chosen for privacy rather than size — a bare rectangle with good light and nothing on the walls, the kind of room built to hold a demonstration rather than a fight. Karis stood at one end, ran her Ember Path declarations at the intensity she used for formal assessment, and Cael watched from the other, doing the thing he had never once, in a year and a half of fragments arriving unbidden, deliberately tried to do.
 
 He reached for it.
 
-He was not entirely sure what *reaching* meant, mechanically. He had spent two years cataloguing what acquisition felt like after the fact — the sense of something settling into a space that had been empty, a texture he had learned to half-recognize in the seconds before a fragment notice arrived — but he had never once initiated it, and he discovered, standing in that bare room watching Karis's ignition points bloom and fade with perfect, repeatable precision, that wanting something to happen and knowing how to make it happen were not remotely the same skill.
+He was not entirely sure what *reaching* meant, mechanically. He had spent a year and a half cataloguing what acquisition felt like after the fact — the sense of something settling into a space that had been empty, a texture he had learned to half-recognize in the seconds before a fragment notice arrived — but he had never once initiated it, and he discovered, standing in that bare room watching Karis's ignition points bloom and fade with perfect, repeatable precision, that wanting something to happen and knowing how to make it happen were not remotely the same skill.
 
 Nothing happened.
 
@@ -48,7 +48,7 @@ By the end of the second week, he had a stack of null sessions eight deep, and a
 
 He worked the question the way he worked everything that mattered, which was on paper, at night, with the Power Log open on the desk and the fragment binder beside it, going back through every acquisition he had ever logged and asking, plainly, what they had in common.
 
-Lira's Wind-adjacent had come during a real bout, in the Ironyard, evasion patterns deployed against him at genuine speed, with genuine stakes — a sparring session that had mattered, that had cost something if he'd lost it badly enough. Feryn's Pressure-adjacent had come from a real fight, fourth exchange, a shoulder against his that had carried actual weight behind it. Brom's Iron-adjacent had come from full-intensity training, the kind where getting it wrong meant getting hurt. Reydan's Compression-adjacent had come from the climax of a circuit match with a scout in the crowd and everything riding on the outcome.
+Lira's Wind-adjacent had come during a real bout, back in Ardenmere, evasion patterns deployed against him at genuine speed, with genuine stakes — a sparring session that had mattered, that had cost something if he'd lost it badly enough. Feryn's Pressure-adjacent had come from a real fight, fourth exchange, a shoulder against his that had carried actual weight behind it. Brom's Iron-adjacent had come from full-intensity training, the kind where getting it wrong meant getting hurt. Reydan's Compression-adjacent had come from the climax of a circuit match with a scout in the crowd and everything riding on the outcome.
 
 Four fragments. Four moments of genuine engagement. Zero moments of quiet observation from a safe distance, no matter how sustained, no matter how carefully cataloged.
 
@@ -56,7 +56,7 @@ He wrote the pattern out in full, in his careful hand, and then wrote the hypoth
 
 *Observation is necessary but not sufficient. Every fragment I have ever received came from genuine engagement — real stakes, real risk, something that mattered in the moment it happened. Watching Karis run drills at demonstration intensity, safely, with nothing on the line, has produced nothing in two weeks of trying. The architecture doesn't take what's shown to it. It takes what's used against me. Stakes are part of the mechanism, not incidental to it.*
 
-He looked at the sentence for a long time. It was, he understood, either the missing piece of a two-year puzzle or a convenient story he was telling himself to explain a run of failed experiments. He didn't yet know which. He wrote beneath it, smaller: *Don't know if this is true yet. Will know when something with real stakes tests it.*
+He looked at the sentence for a long time. It was, he understood, either the missing piece of a year-and-a-half-old puzzle or a convenient story he was telling himself to explain a run of failed experiments. He didn't yet know which. He wrote beneath it, smaller: *Don't know if this is true yet. Will know when something with real stakes tests it.*
 
 He didn't say the last part out loud to anyone, but he understood, closing the log that night, that some part of him was already waiting for the test to arrive.
 
@@ -66,9 +66,9 @@ It was late in the third week, in the last hour of a session that had produced n
 
 "Your fragment log," she said, closing her notebook with the careful precision she gave everything. "Four confirmed. Is that the complete inventory, or is there something you haven't told me because it doesn't fit anywhere?"
 
-He thought about deflecting. He didn't, because two years of practice had taught him that the people worth trusting were the ones who could handle an honest *I don't know*, and he had already decided, somewhere in the archive on the first day, that Karis was one of them.
+He thought about deflecting. He didn't, because a year and a half of practice had taught him that the people worth trusting were the ones who could handle an honest *I don't know*, and he had already decided, somewhere in the archive on the first day, that Karis was one of them.
 
-"There's an anomaly. Book 2 — a session with Brom, months ago now. A single reading, Tide-adjacent, that came through his pressure-read for less than a second and then never repeated. I've tried to reproduce it a dozen times since. Nothing."
+"There's an anomaly. A session with Brom, months ago now. A single reading, Tide-adjacent, that came through his pressure-read for less than a second and then never repeated. I've tried to reproduce it a dozen times since. Nothing."
 
 "Tell me everything you remember about the conditions."
 
@@ -98,10 +98,10 @@ He wrote about it that night, in the Power Log, in the same careful hand he used
 
 *Three weeks of controlled sessions. Zero directed acquisitions. The pattern holds: every fragment I've ever received came from genuine stakes, real engagement, something that mattered when it happened. Karis's demonstration intensity, however sustained, doesn't produce the conditions the architecture requires.*
 
-*The Tide-adjacent anomaly remains exactly as unexplained as it was a year ago. Karis marked it "real, unexplained, keep" — the only entry in her notebook with that classification. I find I trust that mark more than I would trust an explanation. An explanation this early would almost certainly be wrong. The mark, at least, is honest.*
+*The Tide-adjacent anomaly remains exactly as unexplained as it was the night it happened. Karis marked it "real, unexplained, keep" — the only entry in her notebook with that classification. I find I trust that mark more than I would trust an explanation. An explanation this early would almost certainly be wrong. The mark, at least, is honest.*
 
 *Hypothesis stands, untested against real stakes: observation is necessary but not sufficient. Stakes are part of the mechanism. I don't know yet if that's true. I'll know when something tests it properly.*
 
 He closed the log and sat with the binder a while longer, the four fragment entries and the one anomaly, all of it sitting exactly where careful, patient, controlled experimentation had left it: real, mostly explained, one piece stubbornly, honestly unresolved.
 
-He had learned, across two years of cataloguing things he didn't understand, that the unresolved pieces were rarely the ones that stayed unresolved forever. He had also learned, more slowly, that rushing them rarely helped. He put the notebook away, and let the anomaly sit exactly where Karis had marked it: real, unexplained, and — for now, deliberately, disciplined about the difference between patience and avoidance — kept.
+He had learned, across a year and a half of cataloguing things he didn't understand, that the unresolved pieces were rarely the ones that stayed unresolved forever. He had also learned, more slowly, that rushing them rarely helped. He put the notebook away, and let the anomaly sit exactly where Karis had marked it: real, unexplained, and — for now, deliberately, disciplined about the difference between patience and avoidance — kept.

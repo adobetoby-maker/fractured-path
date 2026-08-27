@@ -94,7 +94,7 @@ Barred from open bouts himself, he had nothing to do during the training hall's 
 
 More Path variety in two weeks, he wrote, than the circuit had shown him in a year.
 
-He sat with the entry a while before closing the log that night, turning the observation over the way he turned most things over, looking for the shape underneath the fact. It would have been easy, he thought, to write the sentence and move on — a true statement, mildly interesting, filed and forgotten. But he had learned, across two books' worth of institutions that had tried to make him smaller than he was, that the true statements worth keeping were usually the ones that changed shape a little when he looked at them a second time.
+He sat with the entry a while before closing the log that night, turning the observation over the way he turned most things over, looking for the shape underneath the fact. It would have been easy, he thought, to write the sentence and move on — a true statement, mildly interesting, filed and forgotten. But he had learned, across every institution that had tried to make him smaller than he was, that the true statements worth keeping were usually the ones that changed shape a little when he looked at them a second time.
 
 The observer category had been built, he understood — Quenna had told him as much, plainly, on the first day — as a workaround. A cage shaped like a door, technically open, practically narrow. He had assumed, walking in, that the narrowness was the whole story: a constraint to be endured until something better came along, a door he'd have to prove his way through eventually the way he'd proven his way through every other door that had ever been shut on him.
 

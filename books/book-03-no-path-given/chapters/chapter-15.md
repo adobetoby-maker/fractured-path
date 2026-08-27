@@ -4,7 +4,7 @@ The gate clerk had never seen the credentials before, and it showed.
 
 Cael watched it happen from across the yard, close enough to read the shape of the exchange without hearing the words: a man in traveling clothes, unremarkable at a glance, holding out a document case and waiting while the clerk turned a small stamped seal over in her hands longer than she needed to, the particular hesitation of someone checking a thing against a memory that didn't have anywhere to file it. She said something. He answered, patient, and produced a second paper from the case — a formality, the kind of extra proof a careful traveler carried for exactly this situation — and after that the gate opened the way it opened for anyone the list expected.
 
-Cael didn't need to see the second paper to know who was standing at the gate. He had spent two years learning the shape a certain kind of patience made in a doorway, and this was that shape, older now, traveled, but built the same way underneath.
+Cael didn't need to see the second paper to know who was standing at the gate. He had spent a year and a half learning the shape a certain kind of patience made in a doorway, and this was that shape, older now, traveled, but built the same way underneath.
 
 He wrote nothing down. There wasn't time, and there wasn't a version of this that needed the notebook to be real.
 
@@ -24,19 +24,19 @@ Naveth sat behind his desk with the stillness of a man who had rehearsed his own
 
 "Cael," Naveth said, and something in the single syllable carried the whole shape of the next several minutes. "This is Warden Coss. I understand you two have met."
 
-"We have," Coss said, before Cael could answer for himself, and there was nothing performative in the correction — just the flat efficiency of a man who preferred precision to ceremony. "Two years ago. A market square, a certification office, and a great many questions I asked as gently as the questions could be asked."
+"We have," Coss said, before Cael could answer for himself, and there was nothing performative in the correction — just the flat efficiency of a man who preferred precision to ceremony. "A year and a half ago. A market square, and a great many questions I asked as gently as the questions could be asked."
 
-Cael sat, because Quenna's small nod toward the empty chair made it clear he was meant to, and because standing would have made this a confrontation rather than what it actually was, which was a procedure. He had learned, somewhere in the last two years, to recognize the difference even when the two felt identical from the inside.
+Cael sat, because Quenna's small nod toward the empty chair made it clear he was meant to, and because standing would have made this a confrontation rather than what it actually was, which was a procedure. He had learned, somewhere in the last year and a half, to recognize the difference even when the two felt identical from the inside.
 
 "You're a long way from a district record office," Cael said.
 
-"I am." Coss opened the document case fully, laying its contents flat on his knee with the easy care of a man who had done this exact motion enough times that it required no thought at all. "Which is, I imagine, the first thing worth explaining. I want to be honest with you about what I am, because I suspect you've spent two years assuming something less accurate than the truth, and the truth will serve this conversation better than the assumption would."
+"I am." Coss opened the document case fully, laying its contents flat on his knee with the easy care of a man who had done this exact motion enough times that it required no thought at all. "Which is, I imagine, the first thing worth explaining. I want to be honest with you about what I am, because I suspect you've spent a year and a half assuming something less accurate than the truth, and the truth will serve this conversation better than the assumption would."
 
 He produced a card — small, stamped, plain in the way that official things were plain when the people who designed them had stopped needing to impress anyone. Naveth's expression didn't change looking at it, which told Cael the provost had already seen it, privately, before this meeting began.
 
 "'Warden' was never a town title," Coss said. "It reads like one. It's meant to. A local district finds it easier to accept a Warden than a Compact field agent walking through its gates, and the Compact has never seen a reason to correct that impression when the impression does useful work. But the grade is real, and it's mine, and I've held it since before I ever set foot in your district." A pause, precise. "I was never a local official who happened to notice you, Cael. I was the Compact's hand on your file from the morning of your Kindling, patient at a distance because patience at a distance was what the assignment required." He set the card down. "Greyvane changed the assignment."
 
-Cael sat with that. It landed the way true things sometimes landed — not as a surprise so much as a shape finally resolving out of something he'd been looking at sideways for two years without quite letting himself look at directly. He had known, in the careful way he knew things he'd never fully written down, that Coss's gentleness had never once been the whole story. He had simply never had a mechanism to attach the knowledge to.
+Cael sat with that. It landed the way true things sometimes landed — not as a surprise so much as a shape finally resolving out of something he'd been looking at sideways for a year and a half without quite letting himself look at directly. He had known, in the careful way he knew things he'd never fully written down, that Coss's gentleness had never once been the whole story. He had simply never had a mechanism to attach the knowledge to.
 
 "You're here to file something," Cael said.
 
@@ -66,7 +66,7 @@ He meant it. That was, Cael understood, watching him go — understood with the 
 
 ---
 
-The hearing notice went up in the main hall before the end of the day, posted on the board beside the assessment calendar with the same unceremonious efficiency Greyvane applied to every piece of its own administration. Cael read it standing in front of the board the way he'd read the assessment calendar on his first day here — his own name, in public, on a schedule, except this time the schedule wasn't an opportunity someone had built a door around. It was a date circled in ink by a system that had spent two years deciding he didn't belong on the other side of any door at all.
+The hearing notice went up in the main hall before the end of the day, posted on the board beside the assessment calendar with the same unceremonious efficiency Greyvane applied to every piece of its own administration. Cael read it standing in front of the board the way he'd read the assessment calendar on his first day here — his own name, in public, on a schedule, except this time the schedule wasn't an opportunity someone had built a door around. It was a date circled in ink by a system that had spent a year and a half deciding he didn't belong on the other side of any door at all.
 
 *Public Adjudication Hearing. Matter of enrollment status, unclassified observer track. Three weeks hence.*
 

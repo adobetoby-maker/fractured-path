@@ -44,7 +44,7 @@ He had spent six weeks learning her. Not documenting her — Karis did that, met
 
 So he stopped running.
 
-It was not a decision in the way decisions usually felt to him — weighed, considered, written down afterward in careful handwriting. It was closer to the thing that had happened with Lira's Wind in a training yard two years ago, except this time he was awake for it in a way he had never quite been awake for it before. He stopped trying to escape her architecture and reached, instead, directly into the shape of it — the ignition point she was in the process of forming, the heat gathering at a single precise location the way her whole lattice always gathered heat, controlled, structured, *hers* — and he took it.
+It was not a decision in the way decisions usually felt to him — weighed, considered, written down afterward in careful handwriting. It was closer to the thing that had happened with Lira's Wind in a training yard a year and a half ago, except this time he was awake for it in a way he had never quite been awake for it before. He stopped trying to escape her architecture and reached, instead, directly into the shape of it — the ignition point she was in the process of forming, the heat gathering at a single precise location the way her whole lattice always gathered heat, controlled, structured, *hers* — and he took it.
 
 Consciously. Intentionally. Directed, the word arriving in his own head at the exact moment the thing itself happened, as if some part of him had been waiting three weeks of null results just to finally have a sentence for what this was supposed to feel like.
 
@@ -78,9 +78,9 @@ Acquisition: directed.
 
 *Acquisition: directed.*
 
-He read it four times, sitting on the training hall floor with the panel still talking somewhere behind him and Karis still catching her breath a few feet away, because four fragments across two years had never once carried that field, and he had genuinely, honestly, not known until this exact moment that the field existed at all. Not a name for the fragment. A name for the *act* — the system itself, in its flat administrative language, confirming that this one, unlike every other, had been chosen.
+He read it four times, sitting on the training hall floor with the panel still talking somewhere behind him and Karis still catching her breath a few feet away, because four fragments across a year and a half had never once carried that field, and he had genuinely, honestly, not known until this exact moment that the field existed at all. Not a name for the fragment. A name for the *act* — the system itself, in its flat administrative language, confirming that this one, unlike every other, had been chosen.
 
-He understood, sitting there, reading the word a fifth time because four had not been enough for it to fully land: what he did was not random. It never had been. Every fragment before this one had simply arrived on a schedule he'd mistaken for weather, because he had never once, in two years, tried to reach for the handle.
+He understood, sitting there, reading the word a fifth time because four had not been enough for it to fully land: what he did was not random. It never had been. Every fragment before this one had simply arrived on a schedule he'd mistaken for weather, because he had never once, in a year and a half, tried to reach for the handle.
 
 He had a handle now.
 

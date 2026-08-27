@@ -68,10 +68,10 @@ He sat with the outline a long time, the lamp burning down toward the hour Prynn
 
 ---
 
-*The code is architecture,* he wrote, near the bottom of a page already crowded with the day's notes, in the careful hand he reserved for things that mattered. *Architecture has seams. I have spent two years learning how to find the seam in anything that has one — a fighter's stance, a Path's declaration timing, a system's own rules about what it's allowed to do to people. This is the same work. It just doesn't leave bruises.*
+*The code is architecture,* he wrote, near the bottom of a page already crowded with the day's notes, in the careful hand he reserved for things that mattered. *Architecture has seams. I have spent a year and a half learning how to find the seam in anything that has one — a fighter's stance, a Path's declaration timing, a system's own rules about what it's allowed to do to people. This is the same work. It just doesn't leave bruises.*
 
 He closed the notebook. Outside, past the archive's single high window, the Greyvane grounds had gone fully dark, the kind of dark that meant Prynn would be along any minute now to remind him, without needing to say it twice, that even the most important argument of his life could survive being continued tomorrow.
 
-Two weeks left. He had the seam. What remained was building an argument sturdy enough to stand in it — the same discipline he'd spent two years learning on a training floor, applied now to something with no third exchange, no tell to read, nothing but four hundred years of paper and the same patient work of proving it wrong.
+Two weeks left. He had the seam. What remained was building an argument sturdy enough to stand in it — the same discipline he'd spent a year and a half learning on a training floor, applied now to something with no third exchange, no tell to read, nothing but four hundred years of paper and the same patient work of proving it wrong.
 
 He kept writing.

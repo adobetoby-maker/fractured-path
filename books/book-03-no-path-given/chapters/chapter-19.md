@@ -122,4 +122,4 @@ He copied both entries onto a single page, the old and the new, side by side exa
 
 *Two records. Two cities. One word neither of us was supposed to find. I don't know what it means yet. I'm keeping it until I do.*
 
-He closed the notebook. Outside, the last of the evening traffic moved through Greyvane's yard, and somewhere beyond the wall, three weeks was becoming two, and the older word stayed exactly where he'd put it — filed, unresolved, waiting for a version of him that didn't exist yet to come back and finally understand what it had been trying to say.
+He closed the notebook. Outside, the last of the evening traffic moved through Greyvane's yard, and somewhere beyond the wall, the last few days were narrowing toward the hearing, and the older word stayed exactly where he'd put it — filed, unresolved, waiting for a version of him that didn't exist yet to come back and finally understand what it had been trying to say.

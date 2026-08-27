@@ -28,13 +28,13 @@ That evening he sat with the Power Log open on the archive table, the year's clo
 
 He looked at that line the way he always looked at it, still slightly amazed each time by the plainness of the words doing the work of the strangest thing that had ever happened to him.
 
-And below all five, in its own section, the entry that hadn't moved in over a year:
+And below all five, in its own section, the entry that hadn't moved in months:
 
 *Anomaly. Session nine. Tide-adjacent. Unreproduced. Unexplained.*
 
 He turned it over the way he always turned it over — the pressure-read Brom had caught that night, the reading that fit nothing, that no amount of careful re-creation had ever managed to summon a second time. Karis had spent an evening on it with him weeks ago and reached the same honest dead end everyone always reached: it didn't fit the pattern. It shouldn't exist. It existed anyway.
 
-He wrote, beside it, the same three words he always ended up writing, because a year of trying to write something better hadn't produced anything truer.
+He wrote, beside it, the same three words he always ended up writing, because months of trying to write something better hadn't produced anything truer.
 
 *Still open. Still real. Patience.*
 

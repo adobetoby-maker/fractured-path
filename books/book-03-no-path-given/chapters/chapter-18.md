@@ -10,7 +10,7 @@ The second arrival stopped his notebook cold for a different reason entirely.
 
 Assessor Ilsev.
 
-He knew her immediately, the way he knew very few things immediately — the same sharp, procedurally exact bearing he remembered from a room two years and a district behind him, the assessor who had called his preliminary results *uncommon variation* and meant it precisely, technically, without the softening most people reached for. She had been junior then, one voice among several. She was senior now, empaneled as the evaluation seat for a Compact field commission's formal hearing, which told him something about the intervening two years that his own file could only imply.
+He knew her immediately, the way he knew very few things immediately — the same sharp, procedurally exact bearing he remembered from the senior evaluation a year and a half and a district behind him, the assessor whose counter-procedure had shaped the shorthand of his whole Ardenmere circuit career without either of them fully realizing it at the time. She had been senior then, too. The seat she held now was the same kind of seat, simply attached to a different case — which told him something about how deliberately the Compact had chosen who to send.
 
 The third was younger, and it took him a moment longer to place — Assessor Havel, promoted one grade since a market square he still occasionally thought about, assigned as recording officer, carrying the particular watchful stillness of someone who had learned, the hard way, that a Compact hearing recorded every word for reasons that outlasted the hearing itself.
 
@@ -46,19 +46,19 @@ The rest of the deposition ran the same way: cooperative, minimal, nothing volun
 
 Ilsev found the flag late that afternoon, while reviewing the case file's supporting documentation ahead of the formal proceedings — a routine review, the kind any senior evaluator would conduct before empaneling on a matter this unusual.
 
-Cael was not in the room for it. He learned the shape of it only later, secondhand, from Havel, in a conversation that happened almost by accident, the two of them crossing paths near the archive as the light went long and gold across the yard.
+Cael was not in the room for it, and never would be. What happened there happened entirely without him, in the flat administrative light of a records office two doors down from where he was preparing for a deposition he had no idea was about to become, for one hour, about something other than him entirely.
 
-"There's a routing annotation on a records request that came through Greyvane before the challenge was formally filed," Havel said, in the careful, half-official register he used for anything he wasn't entirely sure he should be saying. "Suppression-Advisory. Watch Level 4. Ilsev found it in the file this afternoon. Asked about it, on the record, because that's what she does — she doesn't let a designation sit unexplained just because explaining it would be inconvenient."
+Ilsev found the routing annotation the way she found everything — by reading past the point where most people would have stopped. A records request, processed before the challenge was formally filed, carrying a designation she didn't recognize: Suppression-Advisory. Watch Level 4. She did what she had always done with a designation she didn't recognize. She asked about it, on the record, because that was the whole of her method and had been for as long as anyone in this hearing chamber had known her.
 
-"What did she find?"
+The origin query came back with nothing in it worth the asking. *Systemic protocol, registry sub-layer.* No authorizing official. No creation record. A designation that predated the file it was attached to, sitting inside a system that otherwise prided itself on being able to explain everything it did.
 
-"Nothing." Havel's expression didn't change, but something in the way he said it carried more weight than the word alone. "Origin query came back: systemic protocol, registry sub-layer. No authorizing official. No creation record. The designation predates the file it's attached to." He paused. "She noted it formally as an administrative irregularity, referred it up the chain, and moved on. Procedure satisfied. That's what you do with an irregularity you can't explain and don't have clearance to chase."
+Havel, recording, watched her read the answer twice. Watched the small, precise stillness that came over her — not alarm, nothing so dramatic as alarm, just the particular attention of someone filing a fact she couldn't yet do anything useful with. She noted it, formally, as an administrative irregularity, referred it up a chain that would very likely never send anything back down, and moved on to the next document in the stack. Procedure satisfied. That was what you did with an irregularity you couldn't explain and didn't have clearance to chase.
 
-Cael turned this over, cataloguing it the way he catalogued everything that didn't quite fit. "You've seen that flag before."
+Havel said nothing. It was not his place to say anything, and he had learned, across two years of watching people with more authority than himself decide what could and couldn't be pursued, that silence was frequently the only professional option available to a recording officer who noticed more than his grade entitled him to act on.
 
-Havel didn't answer directly, which was its own kind of answer. "I record hearings for a living. I see a great many things I don't have clearance to understand." He looked at Cael for a moment longer than the conversation strictly required. "Good luck at the hearing. I mean that. Off the record, if there's such a thing between us."
+That night, in the small private notebook he had kept since Ardenmere for exactly this purpose, he added a third entry beneath the two he already carried. He did not show it to anyone. He was not sure yet what he was building — only that he was building something, one careful, unexplained entry at a time, and that someday, not this year, it might matter that somebody had been keeping count.
 
-He walked on before Cael could ask anything further, and Cael let him go, because some questions were the kind you filed rather than chased, and this was clearly one of them — a designation with no origin, sitting quietly inside a system that otherwise prided itself on explaining everything it did. He wrote it down anyway, in the observation notebook rather than the Power Log, under a heading that had accumulated exactly one other entry since Ardenmere: *things that don't have an author.*
+Cael, elsewhere in the building, learned none of it, and would not for a long time.
 
 ---
 
@@ -74,8 +74,8 @@ Cael said nothing, because there was nothing useful to say that wouldn't hand Co
 
 Coss stopped walking. Cael stopped with him, more out of the momentum of the conversation than any conscious choice.
 
-"For what it's worth," Coss said, "I hope it's a good one. I've built a clean case. Clean cases deserve to be tested by good arguments, not sympathy or delay. If you've actually found something in the text, I'll respect it whether it wins or not." He nodded once, the particular economy of a man who had said everything he intended to say. "Three days."
+"For what it's worth," Coss said, "I hope it's a good one. I've built a clean case. Clean cases deserve to be tested by good arguments, not sympathy or delay. If you've actually found something in the text, I'll respect it whether it wins or not." He nodded once, the particular economy of a man who had said everything he intended to say. "Five days."
 
 He walked on. Cael stood at the yard's edge a while longer, watching the last color go out of the sky over Greyvane's wall, and found, somewhat to his own surprise, that he believed him.
 
-He got out the Power Log that night and wrote, carefully, the entry he'd been circling for most of the walk back: *Three days. He's built a clean case and he wants a clean fight. I understand that better than I want to. I've spent two years wanting the same thing from people who were trying to end me. Strange, to finally get it from the one person whose job it's always been.*
+He got out the Power Log that night and wrote, carefully, the entry he'd been circling for most of the walk back: *Five days. He's built a clean case and he wants a clean fight. I understand that better than I want to. I've spent a year and a half wanting the same thing from people who were trying to end me. Strange, to finally get it from the one person whose job it's always been.*

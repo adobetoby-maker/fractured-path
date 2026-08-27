@@ -50,7 +50,7 @@ She fought the first bout at a pace that made her opponent's Copper-tier trainin
 
 By the third exchange of the second bout, the floor had gone quiet in the way floors went quiet when something was being settled that had nothing to do with the immediate fight.
 
-Quenna's panel closed the assessment with a notation Cael read over her shoulder before he could stop himself, because reading things over shoulders was a habit two years of circuit work hadn't cured him of: *Advancement inconsistent with recorded tier. Recommend continued track with priority review.*
+Quenna's panel closed the assessment with a notation Cael read over her shoulder before he could stop himself, because reading things over shoulders was a habit a year and a half of circuit work hadn't cured him of: *Advancement inconsistent with recorded tier. Recommend continued track with priority review.*
 
 It was, he understood, the first time in Lira's life that an academy's own system had written down, in its own official language, that her file might be wrong.
 

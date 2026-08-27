@@ -24,7 +24,7 @@ Naveth's office, an hour later, held four people and a decision none of them wan
 
 "Doing nothing is its own decision, and it's the worst one on the table. Every student in this building will read silence as either weakness or favoritism, and I can't afford either." Naveth set the petition down. "I need an answer. A real one. Today, if possible."
 
-Quenna was quiet for a moment, and Cael, watching her, recognized the particular stillness she wore when she was turning a problem over to find its other side — the same stillness she'd worn in the Ironyard, a year and a season ago, deciding whether a fifteen-year-old boy was worth the professional risk of recruiting.
+Quenna was quiet for a moment, and Cael, watching her, recognized the particular stillness she wore when she was turning a problem over to find its other side — the same stillness she'd worn in the Ironyard, a few months ago, deciding whether a fifteen-year-old boy was worth the professional risk of recruiting.
 
 "There's an answer," she said finally, "if we're willing to convert the problem instead of solving it." She looked at Cael. "Edran's petition claims your capability hasn't been demonstrably observed under the framework the rest of the academy operates under. He's right. It hasn't — your assessments have been closed sessions. Formal, logged, but private." She let that sit a moment. "So we make one public. A supervised exhibition spar. Full faculty supervision, open to the student body, formally logged as this month's demonstration assessment under the observer provision's own language — *consistent, observable practice.* We're not granting the petition and we're not denying it. We're answering the actual question it asked, in front of everyone who's asking it."
 
@@ -34,7 +34,7 @@ Quenna was quiet for a moment, and Cael, watching her, recognized the particular
 
 Cael sat with this for a moment, doing the thing he always did with a plan that wasn't his own — testing it for weaknesses before deciding whether to trust it. "If I lose," he said, "the petition wins by default, and I've publicly confirmed his argument in front of the whole academy."
 
-"If you lose," Quenna agreed, evenly, "yes. That's the risk. I wouldn't be proposing this if I thought losing was the likely outcome, but I want you walking into it with the actual stakes named, not softened." She met his eyes. "You've spent two years reading opponents until you find the seam. Edran's Glass Path. I've watched him train for seven weeks. He has one, same as everyone does. The question is whether you can find it before he ends the conversation."
+"If you lose," Quenna agreed, evenly, "yes. That's the risk. I wouldn't be proposing this if I thought losing was the likely outcome, but I want you walking into it with the actual stakes named, not softened." She met his eyes. "You've spent a year and a half reading opponents until you find the seam. Edran's Glass Path. I've watched him train for seven weeks. He has one, same as everyone does. The question is whether you can find it before he ends the conversation."
 
 Cael thought about Denvash, and the certification office, and the word he'd spent a year and a half trying to outrun. He thought about the notebook on page seven, the eleven descriptions of Kindling, the one he'd starred. *Better when it's done. Even if it's not what you wanted.*
 
@@ -50,11 +50,11 @@ Edran trained in the mornings, on the second training floor, in a pattern regula
 
 The first three days taught him the shape of the discipline before they taught him anything useful about the man practicing it. Glass Path ran on discrete commitments — each declaration a crystalline structure thrown whole into the space between two practitioners, sharp-edged, precise, unable to be revised once released the way Wind Path's evasions could be feathered mid-motion or Iron Skin's bracing could be adjusted a half-beat late. A Glass Path practitioner did not improvise. He selected, in advance, and executed, and the execution either landed clean or it didn't, and either way the structure was already spent by the time anyone could react to it. It was, Cael wrote on the second night, an unforgiving discipline to train seriously, which explained a great deal about the person training it: Edran did not waste motion, because a Glass Path practitioner who wasted motion in drilling wasted motion in the one place where waste was least survivable.
 
-It took four more days to find the seam, and he found it the way he'd found Keth's, and Kestrel's, and Reydan's before it — not by watching for a mistake, because Edran made almost none, but by watching for the place where precision itself created a cost. Between the second and third declarations in any sustained sequence, there was a recommitment window — a fraction of a second where the second crystalline structure released and the third had not yet formed, a gap built into the discipline's own architecture rather than into Edran's execution of it. Every Glass Path practitioner would carry some version of that seam, Cael suspected, the same way every Wind Path practitioner carried Lira's evasion-reset vulnerability. Discipline created structure. Structure created seams. He wrote the pattern down, plainly, the way he wrote everything that mattered: *The gap isn't his mistake. It's the shape of the thing itself. Patience, not correction.*
+It took four more days to find the seam, and he found it the way he'd found Keth's, and Darrow Innes's, and Reydan's before it — not by watching for a mistake, because Edran made almost none, but by watching for the place where precision itself created a cost. Between the second and third declarations in any sustained sequence, there was a recommitment window — a fraction of a second where the second crystalline structure released and the third had not yet formed, a gap built into the discipline's own architecture rather than into Edran's execution of it. Every Glass Path practitioner would carry some version of that seam, Cael suspected, the same way every Wind Path practitioner carried Lira's evasion-reset vulnerability. Discipline created structure. Structure created seams. He wrote the pattern down, plainly, the way he wrote everything that mattered: *The gap isn't his mistake. It's the shape of the thing itself. Patience, not correction.*
 
 He spent the fifth and sixth days confirming it from three different angles — watching Edran drill alone in the early mornings, watching him spar against two different training partners in the afternoons, watching the recording of a bout Wray had on file from before Karis had ever transferred in — and the gap held every time, unvarying, structural rather than incidental. He did not train visibly against it. A seam anyone could see coming stopped being useful the moment it was seen, and he had learned that lesson expensively enough, against enough opponents, to trust it without needing to relearn it here.
 
-Lira found him on the sixth night, notebook open on the floor of the common room, and read the entry over his shoulder without asking permission, which was one of the privileges two years of shared rooms and shared danger had earned her.
+Lira found him on the sixth night, notebook open on the floor of the common room, and read the entry over his shoulder without asking permission, which was one of the privileges a year and a half of shared rooms and shared danger had earned her.
 
 "You've had it since the fourth day," she said. It wasn't a question.
 
@@ -64,7 +64,7 @@ Lira found him on the sixth night, notebook open on the floor of the common room
 
 "The fourth day used to cost less when I was wrong."
 
-She didn't argue with that. She just sat with him a while, in the kind of comfortable quiet the two of them had gotten good at across two books' worth of nights like this one, until the lamp burned low enough that neither of them had an excuse left to stay awake.
+She didn't argue with that. She just sat with him a while, in the kind of comfortable quiet the two of them had gotten good at across more nights like this one than either of them could easily count, until the lamp burned low enough that neither of them had an excuse left to stay awake.
 
 ---
 
@@ -90,7 +90,7 @@ The first exchange told him what he'd already suspected from six days of watchin
 
 Second exchange, Edran pressed harder, the crystalline structures coming faster and closer together, precision undiminished even at pace — genuinely the best formally trained opponent Cael had faced in a sanctioned space, better drilled than Feryn, cleaner than Darrow Innes, the product of a real academy's real investment in a real prodigy. Cael took a shallow graze along his forearm doing nothing more than confirming, at cost, what six days of watching had already told him for free: the seam was there. Between the second declaration and the third, in every sequence, for the fraction of a second the discipline itself demanded, Edran's structure released before the next one formed.
 
-He held the pattern in his attention the way he'd once held Kestrel's evasion-reset vulnerability against the Ironyard crowd — waiting, patient, letting the fight teach Edran that patience looked like losing until the moment it stopped looking like anything at all.
+He held the pattern in his attention the way he'd once held Darrow Innes's evasion-reset vulnerability against the Cinder House crowd — waiting, patient, letting the fight teach Edran that patience looked like losing until the moment it stopped looking like anything at all.
 
 Third exchange, Edran committed to a full sustained sequence — four declarations, precision compounding on precision, the kind of pressure meant to end a fight rather than probe it. Cael let the first two land where they had to land, absorbing the cost the way he'd learned to absorb cost against every opponent worth the word, and in the gap between the second declaration's release and the third's formation — the fraction of a second the discipline itself had built into its own architecture — he closed the distance and ended the exchange before the third structure ever finished forming.
 
@@ -108,7 +108,7 @@ The hall went quiet the particular way a crowd went quiet when it had just watch
 
 Edran did not sit down.
 
-Cael had half-expected, in some unexamined corner of himself, a version of what had happened with Brom — a year and a season ago now, a different training floor, a different opponent settling down beside him afterward to ask how he'd done it, the first thread of a friendship neither of them had seen coming. He caught himself expecting it and understood, watching Edran stand there instead, breathing hard, glass-precise even in exhaustion, that the expectation had been its own kind of mistake. Not every ending looked like the last one. This one was its own shape.
+Cael had half-expected, in some unexamined corner of himself, a version of what had happened with Brom — months ago now, a different training floor, a different opponent settling down beside him afterward to ask how he'd done it, the first thread of a friendship neither of them had seen coming. He caught himself expecting it and understood, watching Edran stand there instead, breathing hard, glass-precise even in exhaustion, that the expectation had been its own kind of mistake. Not every ending looked like the last one. This one was its own shape.
 
 Edran stood, and looked at him, and said, with the flat honesty of someone reporting a finding rather than conceding a fight: "Whatever you are, it's real." A breath. "I withdraw the petition."
 
@@ -134,4 +134,4 @@ He wasn't sure yet whether he was ready for that question. He got out the notebo
 
 *Passed the assessment. Edran withdrew, honestly, which is its own kind of gift. Quenna wants structure next month. I think that means Karis. I think that means the real question is finally starting.*
 
-He closed the notebook, and went to find Lira and Brom, because whatever the real question turned out to be, he had learned, across two books and a year and a half of walking toward things instead of away from them, that he did not want to be the only person holding it.
+He closed the notebook, and went to find Lira and Brom, because whatever the real question turned out to be, he had learned, across a year and a half of walking toward things instead of away from them, that he did not want to be the only person holding it.
