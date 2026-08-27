@@ -8,7 +8,7 @@
       "id": "book-01-the-shattered",
       "title": "The Shattered",
       "totalChapters": 24,
-      "renderedChapters": 3,
+      "renderedChapters": 4,
       "chapters": [
         {
           "number": 1,
@@ -58,6 +58,24 @@
               "durationSec": 1778.32,
               "sha256": "1d8f4e4ade52dae26a75fbbe114af111e73ac267c41fa6bb5fc2cf6286ce86a4",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-03.mp3"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Exit",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-04.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-04.mp3",
+              "bytes": 12743619,
+              "durationSec": 1592.87,
+              "sha256": "084328e4618f21291514aa4abdee168e9c8d2f63f8d829d748b4c00ca4b8a87e",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-04.mp3",
+              "note": "64 kbps; request-stitched (previous_request_ids) so no post-hoc drift correction needed."
             }
           ]
         }
