@@ -34,10 +34,15 @@ CHAPTERS = os.path.join(ROOT, "books/book-01-the-shattered/chapters")
 OUT = os.path.join(ROOT, "audio/book-01-the-shattered")
 WORK = "/tmp/fp_render"
 
-# This narrator runs 8,791 words/hour, measured across chapters 1-3 and stable
-# to within 0.5%. It is NOT the Boundary band (~7,000) -- Keiller reads faster.
-# A chapter landing far off this is the signal that text went missing.
-WPH = 8791
+# Two baselines, because the method changed mid-book.
+#   8,791 w/hr -- chapters 1-3, rendered WITHOUT request stitching. Stable to
+#     within 0.5% across the three.
+#   9,836 w/hr -- chapters 4-6, stitched. Measured 9994 / 9815 / 9700.
+# The ~12% gap is the stitching itself: an unstitched chunk cold-starts with a
+# settling cadence, a stitched one continues a sentence it can already hear.
+# The gate compares against the stitched figure because everything from ch4 on
+# is stitched. A chapter far off THIS is the dropped-text signal.
+WPH = 9836
 
 
 def chunk(text):

@@ -8,7 +8,7 @@
       "id": "book-01-the-shattered",
       "title": "The Shattered",
       "totalChapters": 24,
-      "renderedChapters": 4,
+      "renderedChapters": 17,
       "chapters": [
         {
           "number": 1,
@@ -76,6 +76,240 @@
               "sha256": "084328e4618f21291514aa4abdee168e9c8d2f63f8d829d748b4c00ca4b8a87e",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-04.mp3",
               "note": "64 kbps; request-stitched (previous_request_ids) so no post-hoc drift correction needed."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Ardenmere",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-05.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-05.mp3",
+              "bytes": 12793565,
+              "durationSec": 1599.11,
+              "sha256": "9dcbb4d17d1762118bb7a9a3df1c6fa2baf312f69909bd1ce3a092bf741907c4",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-05.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Lira",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-06.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-06.mp3",
+              "bytes": 12378950,
+              "durationSec": 1547.29,
+              "sha256": "e11d65bb81da73a32cbebd6a032ecffba55456e878755c613c9302844cb41810",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-06.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "The Rules",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-07.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-07.mp3",
+              "bytes": 13020099,
+              "durationSec": 1627.44,
+              "sha256": "b0f0533f74b7b1b31964404a77821a8c3a88b5c029284d0fb47275c9f12f59a9",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-07.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "First Bout",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-08.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-08.mp3",
+              "bytes": 12566404,
+              "durationSec": 1570.72,
+              "sha256": "01b61e11f58e61fa53a04a1a965b4dce9bdc875d41caf3a794dc8effa4fc875b",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-08.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "title": "Pattern",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-09.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-09.mp3",
+              "bytes": 12972452,
+              "durationSec": 1621.5,
+              "sha256": "f0e812d90d80b49945accb81acd9c631236b31e09e92e349ee54a3e5e0008815",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-09.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "The Weight of [SHATTERED]",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-10.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-10.mp3",
+              "bytes": 12569330,
+              "durationSec": 1571.09,
+              "sha256": "87338626832056106505253491b786a1560d234dce1d23e1dfb9be9e7049d2d7",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-10.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "title": "The Compact",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-11.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-11.mp3",
+              "bytes": 11807181,
+              "durationSec": 1475.83,
+              "sha256": "a779d123ccfd0e41966c23c0f20e35320a7a4bb5619e3b3f025570cc9f22f35b",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-11.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "title": "First Win",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-12.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-12.mp3",
+              "bytes": 12681970,
+              "durationSec": 1585.18,
+              "sha256": "a60e9ec971b6c90bfe276ee303d32f59cf36b8a947a8c66cd0421b2ba430fddd",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-12.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "title": "The Notice",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-13.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-13.mp3",
+              "bytes": 13163459,
+              "durationSec": 1645.35,
+              "sha256": "2225aa8ed4c95be9f6948a9767de308ac48889c5e9563b32132b11278b9b8e07",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-13.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "title": "The Summons",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-14.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-14.mp3",
+              "bytes": 13397098,
+              "durationSec": 1674.58,
+              "sha256": "3aa87b1b9eb2714b69a118cfb431fb73a9c631924e904651e352171305b20d99",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-14.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "title": "Six Weeks",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-15.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-15.mp3",
+              "bytes": 11690571,
+              "durationSec": 1461.25,
+              "sha256": "7af126cbcc45f09743314e92259912d1f40dfd9929ad965b17ce30bf4383d5b4",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-15.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "title": "What the Notebook Says",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-16.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-16.mp3",
+              "bytes": 11606143,
+              "durationSec": 1450.7,
+              "sha256": "55bd8b2004ec9697eb8c99714e3c8a28553eacfff28e3407c0fce37f257fd2e8",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-16.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "title": "Bronze",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-17.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-17.mp3",
+              "bytes": 11511057,
+              "durationSec": 1438.82,
+              "sha256": "dcfab467743337f7cfb265307edfd3827221f0785ebcb28a12c37a6ee04613d1",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-17.mp3",
+              "note": "64 kbps; request-stitched."
             }
           ]
         }
