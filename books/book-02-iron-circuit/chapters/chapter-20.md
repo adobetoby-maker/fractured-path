@@ -56,7 +56,7 @@ He asked Dace about her, quietly, between bouts, catching him at the edge of the
 
 "Which academy?"
 
-"Pass doesn't say. Just the credential itself, which is enough to get her through the door without anyone asking further questions — that's rather the point of a credential like that." Dace glanced toward her once, briefly, then back to his board. "She's been here before, if that's useful to you. Not often. Not never."
+"Pass doesn't say. Just the credential itself, which is enough to get her through the door without anyone asking further questions — that's the whole use of a credential like that." Dace glanced toward her once, briefly, then back to his board. "She's been here before, if that's useful to you. Not often. Not never."
 
 Cael filed all of it without visible reaction, the way he filed most information that mattered too much for an immediate response. He didn't mention it to Lira or Brom yet, not that evening. He wanted to understand the shape of it fully — why an academy would send a scout to an unsanctioned circuit at all, and why now, on the eve of a fight that had already drawn more attention than anything the Ironyard had hosted in a year — before deciding what, if anything, the information actually required him to do.
 
@@ -100,7 +100,7 @@ Then the resources, written out plainly, because tomorrow he wouldn't have time 
 
 *Iron-adjacent: pulse only. One in five still fails. Budget the pulses for containment-reads and nothing else — no spending them on curiosity.*
 
-*Pressure-adjacent: three clean redirects, maximum, and each one costs shoulder and ribs I'll need afterward. A redirect is a purchase of position at the price of damage. Do not buy position I can't use.*
+*Pressure-adjacent: three clean redirects, maximum, and each one costs shoulder and ribs I'll need afterward. Do not buy position I can't use.*
 
 *Compound gaze: runs the whole fight. There's no budgeting it tomorrow. It runs until it can't.*
 

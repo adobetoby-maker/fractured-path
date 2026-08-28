@@ -34,7 +34,7 @@ Cael listened as he read ledgers, and the details assembled themselves into a pi
 
 "Your family didn't know."
 
-"My family assumed. That's different from knowing." He said this without bitterness, simply naming the distinction, as he named most things. "They assumed I was following the standard progression, the same one my mother and grandmother had followed, because that was the only progression they'd ever needed to imagine for anyone in the family. It never occurred to them to actually watch closely enough to notice I'd quietly built something else underneath it."
+"My family assumed. That's different from knowing." No bitterness in it — just the distinction, named, as he named most things. "They assumed I was following the standard progression, the same one my mother and grandmother had followed, because that was the only progression they'd ever needed to imagine for anyone in the family. It never occurred to them to actually watch closely enough to notice I'd quietly built something else underneath it."
 
 Cael thought, listening, that he was hearing the origin of the coverage map he'd charted two weeks ago — the lead forearm and lead foot trusted fully, everything else at baseline. A boy training alone, in stolen hours, would build exactly that: total investment in the two contact points he could drill against a post without a partner, and nothing anywhere a proper instructor would have insisted on covering. The gap below the knee wasn't a flaw in the Path. It was a biography, written in allocation. He filed the insight and said nothing; it wasn't the moment, and it might never need to be said at all.
 
@@ -74,7 +74,7 @@ Cael had known this was coming since the moment Brom sat down at the fight the d
 
 Brom's expression didn't change. Not the flicker of alarm Cael had learned to expect and mostly stopped bracing for, not even the brief, considering pause most people needed to process the word before responding to it. He simply nodded, the way you'd nod at a fact that confirmed something you'd already worked out from other evidence.
 
-"I know," he said. "I've known since the second exchange, more or less. The pressure-read doesn't malfunction. It reads everyone I've ever pointed it at, cleanly, into some category or another, even the strange ones. It didn't do that with you. It just — failed to sort you into anything at all. I've read Gold-tier practitioners with strange, rare Paths. I've read people training abilities they hadn't formally declared. Nothing has ever come back simply *unreadable* before you did."
+"I know," he said. "I've known since the second exchange, more or less. I told you before the fight what reading you was like — the shelf that isn't there. The bout confirmed it. The pressure-read doesn't malfunction. It sorts everyone I've ever pointed it at, even the strange ones. It declined to sort you at all."
 
 "That's why you sat down next to me at that first bout. Before we'd even spoken."
 
@@ -82,7 +82,7 @@ Brom's expression didn't change. Not the flicker of alarm Cael had learned to ex
 
 "And now?"
 
-"Now I know it's the second kind. Which is considerably more interesting than the first." He asked his questions the way he did most things — directly, without cushioning, the economy of someone who'd decided long ago that softening a real question rarely made the answer any easier to receive. "What does the Arbiter show, when you check it?"
+"Now I know it's the second kind. Which is a great deal more interesting than the first." He asked his questions the way he did most things — directly, without cushioning, the economy of someone who'd decided long ago that softening a real question rarely made the answer any easier to receive. "What does the Arbiter show, when you check it?"
 
 "Nothing. It went dark at Kindling. Hasn't spoken since, not in any way the registry would recognize."
 
@@ -114,7 +114,7 @@ The practical question came next, as it usually did with Brom once the larger, h
 
 "You want close-range observation."
 
-"I want to know what your architecture reads as under controlled, repeated conditions, instead of the single high-pressure data point a formal bout gives me. One data point tells you almost nothing reliable. Ten tell you the shape of something." He said this with the same plain conviction he brought to everything, as though the logic were self-evident enough not to require further defense. "And you want the same thing from me, whether or not you've said it yet. Sustained, close-range exposure to Iron Skin under real pressure — not the single fight, where half your attention was busy not losing too badly instead of purely watching."
+"I want to know what your architecture reads as under controlled, repeated conditions, instead of the single high-pressure data point a formal bout gives me. One data point tells you almost nothing reliable. Ten tell you the shape of something." The logic, delivered flat, was apparently expected to defend itself. "And you want the same thing from me, whether or not you've said it yet. Sustained, close-range exposure to Iron Skin under real pressure — not the single fight, where half your attention was busy not losing too badly instead of purely watching."
 
 Cael considered this, and found he had no honest objection to make. He was already, in the half-second before answering, sketching what the arrangement would actually demand of his method: the compound gaze rebuilt once more, this time for a subject at arm's length instead of across an alcove — latency read through his own skin rather than timed by pulse, the breath signature audible instead of merely visible, every observation paid for in bruises rather than bench time. Costlier data. Better data. The trade was obvious.
 
@@ -140,11 +140,11 @@ Both of them understood, without needing to spell it out further, exactly what t
 
 "I'll be there."
 
-He was — early, in fact, waiting at the side alcove before Brom himself arrived, notebook already open on the bench beside him, the observation section reformatted weeks ago and the Power Log tucked underneath it, not yet shown to anyone but ready, for the first time, to be shown to someone who might actually understand what it meant.
+He was — early, in fact, waiting at the side alcove before Brom himself arrived, notebook already open on the bench beside him, the observation section reformatted weeks ago and the Power Log tucked underneath it, never yet shown to anyone beyond Lira but ready, for the first time, to be shown to someone who might actually understand what it meant.
 
 ---
 
-He found Lira before dinner, back at the boarding house, and told her the whole of it — not because he owed her a report, but because keeping something this size from her for even an evening had started to feel, in the year since he'd learned better, like its own small betrayal.
+The evening before, he'd found Lira at the boarding house and told her the whole of it — not because he owed her a report, but because keeping something this size from her for even an evening had started to feel, in the year since he'd learned better, like its own small betrayal.
 
 She listened without interrupting, sitting on the edge of her own cot through the open door between their two rooms, working a knot out of her boot laces with the patient attention she gave anything that let her hands stay busy while her mind did the harder work of actually absorbing what she was hearing.
 
@@ -166,7 +166,7 @@ Cael considered the question honestly, giving it the care he tried to give most 
 
 "Brom," Lira said, with the fondness that had crept into her voice for him faster than either of them had quite expected, "says a lot of things that sound like they should be obvious and somehow aren't, until he's the one saying them."
 
-They ate dinner together after that, the ordinary rhythm of an evening that had, underneath its ordinariness, quietly marked something neither of them needed to name directly: a second person now fully inside the circle of who knew, who'd chosen to stay anyway, adding one more thread to whatever it was the two of them had been slowly, carefully building together — soon, though neither of them fully realized it yet, to become three — in a district that had given all of them far more than any of them had arrived expecting.
+They ate dinner together after that, the ordinary rhythm of an evening that had, underneath its ordinariness, quietly marked something neither of them needed to name directly: a second person now fully inside the circle of who knew, and who'd chosen to stay anyway, in a district that had given all of them far more than any of them had arrived expecting.
 
 ---
 

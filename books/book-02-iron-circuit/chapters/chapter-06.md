@@ -14,7 +14,7 @@ It wasn't a formal technique. Nobody had taught it to him — not Lira, whose ow
 
 It had a price, which he'd itemized the same week he'd named it, because by then itemizing prices had become policy. The compound gaze was expensive in exactly the currency his method ran on: attention. Run at full depth, it consumed him — two exchanges of true phase-reading and his eyes ached as though he'd read a full evening in bad lamplight; a whole bout at depth left the ache sunk behind his forehead for hours. Worse, it narrowed him. Watching one fighter's grammar meant not watching the room; the periphery he ordinarily kept — the low-grade awareness of who sat where and who moved when, a habit the circuit had trained into him for free — dimmed to almost nothing while the gaze was engaged. He'd measured the narrowing once, deliberately, having Lira move through his periphery while he read a bout at depth, and the result had unsettled him into writing it in ink: *at full depth I am functionally blind past ten degrees. The method's cost is the method's condition. Do not run the gaze anywhere I can't afford to be blind.* So he rationed it: standard watching for the first exchanges, the gaze deployed in deliberate pulls of an exchange at a time, saved for the moments when structure mattered more than surroundings.
 
-He tested the method, when he had cause to, against fighters he already understood well from the older, cruder framework — going back through months-old entries on Renn, on Dessa, rereading his own handwriting with the new eyes he'd apparently grown, and finding, uncomfortably often, that the compound gaze explained things the old notes had only ever recorded. Renn's weight-shift tell wasn't simply a tell, it turned out; it was the visible edge of a training pattern that prioritized speed over concealment, a choice his instructors had clearly made early and never fully corrected, and once Cael understood it as a choice rather than a habit, he could predict where else in Renn's technique the same tradeoff would show up before he ever saw it happen. That kind of predictive reach was new. He liked it considerably more than he'd expected to.
+He tested the method, when he had cause to, against fighters he already understood well from the older, cruder framework — going back through months-old entries on Renn, on Dessa, rereading his own handwriting with the new eyes he'd apparently grown, and finding, uncomfortably often, that the compound gaze explained things the old notes had only ever recorded. Renn's weight-shift tell wasn't simply a tell, it turned out; it was the visible edge of a training pattern that prioritized speed over concealment, a choice his instructors had clearly made early and never fully corrected, and once Cael understood it as a choice rather than a habit, he could predict where else in Renn's technique the same tradeoff would show up before he ever saw it happen. That kind of predictive reach was new. He liked it more than he'd expected to.
 
 He'd started applying it deliberately, once he'd noticed it forming, to a run of unfamiliar opponents over the following months — a Force Path fighter whose committed strikes carried a hitch he eventually traced to an old injury rather than any deliberate technique, a Shield Path competitor whose defensive geometry turned out to be inherited wholesale from a training lineage he could now recognize on sight, having seen its fingerprints on three unrelated fighters within the same season. The circuit had, without ever intending it, become a kind of enormous open laboratory, and the compound gaze was the instrument he'd built, piece by piece, without anyone handing him the blueprint, to actually read what it was showing him.
 
@@ -30,7 +30,7 @@ The Force Path specialist, whose name he'd need to ask Vell for later, favored a
 
 He pulled the gaze for the second exchange and paid its fee: the room fell away, the phase-string spooled out of his pen, and somewhere in the deep of the reading he made his prediction and marked it — her release would come on the fourth exchange, not because her build required it but because her opponent's conserving rhythm would, by then, have taught her exactly where he'd be standing when he got tired of conserving. Prediction written, gaze released, periphery allowed back in. That was the ration. That was the discipline the method demanded in a crowded room.
 
-The Ironyard on a night like this had its own rhythm — the crowd noise rising and falling with the bout's tension, the warm, close air of a warehouse full of bodies packed shoulder to shoulder around a stone floor worn smooth by years of exactly this. Someone near the front called encouragement to the Force Path fighter by a nickname Cael didn't recognize; further back, two circuit regulars argued in low voices about the betting odds, one of them clearly regretting a wager placed before the fighters had actually shown their hands. He'd claimed his usual spot near the east post months ago, close enough to read a fighter's stance without needing to strain, far enough back that his notebook rarely drew a second glance from anyone around him.
+The Ironyard on a night like this had its own rhythm — the crowd noise rising and falling with the bout's tension, the warm, close air of a warehouse full of bodies packed shoulder to shoulder around the fighting floor. Someone near the front called encouragement to the Force Path fighter by a nickname Cael didn't recognize; further back, two circuit regulars argued in low voices about the betting odds, one of them clearly regretting a wager placed before the fighters had actually shown their hands. He'd claimed his usual spot near the east post months ago, close enough to read a fighter's stance without needing to strain, far enough back that his notebook rarely drew a second glance from anyone around him.
 
 It drew one tonight.
 
@@ -38,7 +38,7 @@ Someone sat down beside him without asking — not crowding him, exactly, but cl
 
 It took him longer than it should have to notice that his neighbor wasn't watching the fight at all.
 
-He caught it eventually, at the edge of his attention, the specific stillness of someone whose focus had settled somewhere other than the circle: a large presence, broad enough that Cael registered the build even in his peripheral vision, entirely motionless in a way that read as deliberate rather than merely relaxed. Watching him. Watching the notebook, the pen, the small, precise motion of Cael's hand as it worked.
+He caught it eventually, at the edge of his attention, the telltale stillness of someone whose focus had settled somewhere other than the circle: a large presence, broad enough that Cael registered the build even in his peripheral vision, entirely motionless in a way that read as deliberate rather than merely relaxed. Watching him. Watching the notebook, the pen, the small, precise motion of Cael's hand as it worked.
 
 Later — days later, once the encounter had resolved into something he could examine rather than merely carry — he would price this moment honestly in the notebook. The stranger had been beside him for at least two full exchanges before Cael registered where the man's attention actually pointed, and the reason was not mysterious: Cael had been running the gaze, and the gaze bought its depth with exactly the peripheral awareness that would have caught the watching. Whoever the stranger was, he had, knowingly or not, sat down inside the method's blind spot. That the method *had* a blind spot large enough to hold an entire person was not new information. That someone had occupied it, calmly, for a quarter of an hour was.
 
@@ -62,7 +62,7 @@ Cael had a description in the observation notebook within thirty seconds — the
 
 He turned the comment over for the following two days, working it the way he worked any piece of information that arrived without enough context to immediately use — turning it, testing it against what he already knew, waiting for it to either dissolve into nothing or resolve into something he could act on.
 
-*Writing the wrong things.* If the observation notebook's contents were wrong, what would right look like? He'd spent the year refining exactly what he recorded — tells, timing, the physical shape of a declaration's phases — and he'd assumed, without ever examining the assumption closely, that refinement in that direction was the only direction worth refining in. The stranger's sentence had punctured that assumption cleanly, without offering anything to replace it, which was, Cael was slowly coming to understand, its own particular kind of useful cruelty.
+*Writing the wrong things.* If the observation notebook's contents were wrong, what would right look like? He'd spent the year refining exactly what he recorded — tells, timing, the physical shape of a declaration's phases — and he'd assumed, without ever examining the assumption closely, that refinement in that direction was the only direction worth refining in. The stranger's sentence had punctured that assumption cleanly, without offering anything to replace it, which was, Cael was slowly coming to understand, its own kind of useful cruelty.
 
 He spent the first day simply rereading. He pulled out the oldest pages of the observation notebook — the very first entries, Renn's telegraphed strikes, Dessa's transition windows, written in a hand that had grown noticeably steadier and smaller over the intervening year — and read them the way he imagined a stranger might read them, looking for the gap the sentence had implied existed.
 
@@ -90,9 +90,7 @@ He found, almost immediately, that entries built around architecture held up bet
 
 He didn't know who the stranger was. He didn't yet have a way to ask, and he found, somewhat to his own surprise, that this bothered him more than a single cryptic sentence from an anonymous circuit-goer probably should have. But he filed the encounter as one of the more useful thirty seconds of unsolicited advice he'd received since arriving in Ardenmere, and wrote, at the bottom of the reformatted notebook's first new page, in handwriting slightly more deliberate than his usual hand:
 
-*Whoever he was, he was right, and he was right in a way that suggests he already understands something about watching people that took me a year to half-discover on my own. I owe him an actual conversation, if our paths cross again. I suspect they will. He didn't strike me as someone who says a sentence like that and then simply disappears from the story.*
-
-They would. He didn't know it yet.
+*Whoever he was, he was right, and he was right in a way that suggests he already understands something about watching people that took me a year to half-discover on my own. I owe him an actual conversation, if our paths cross again. I suspect they will. He didn't strike me as someone who says a sentence like that and then simply disappears.*
 
 ---
 
@@ -124,13 +122,13 @@ Cael turned the question over, trying to reconstruct the half-second impression 
 
 "You think he'll come back?"
 
-Cael thought about the economical exit again — three steps, folded into the crowd, gone before the sentence had even finished landing — the quality of someone who'd clearly wanted to see the observation take root rather than stay around to watch it happen in real time, or to explain himself further than the one sentence required.
+Cael thought about the economical exit again — the quality of someone who'd clearly wanted to see the observation take root rather than stay around to watch it happen in real time, or to explain himself further than the one sentence required.
 
 "I think," he said, slowly, working the conclusion out as he spoke it rather than reciting something he'd already decided, "that he'll come back when he's decided the timing's right, and not a moment before. He didn't strike me as someone who does things before he's ready to do them."
 
 "You've built an entire personality for a man you saw for four seconds."
 
-"I build tactical profiles for opponents I've watched for considerably less than four seconds. This isn't so different."
+"I build tactical profiles for opponents I've watched for a lot less than four seconds. This isn't so different."
 
 Lira laughed at that, short and genuine, and reached over to close his notebook gently before he could add anything further to the already-full page. "Come train. Whoever he is, he's not walking through that door in the next hour, and I'm not letting you spend the whole morning theorizing about a stranger's motives when you could be improving your footwork instead."
 
@@ -138,7 +136,7 @@ She was right, and he knew it, and he closed the notebook the rest of the way hi
 
 He added one line to the day's page before sleep that night, because the two days had earned a summary and summaries were how he kept a method from dissolving back into habit:
 
-*The gaze now has three layers, and I finally know their order. Outcomes: what happened. Phases: how it was timed. Architecture: why it was possible. Each layer costs more attention than the one above it and predicts further. The stranger charged me one sentence for the third layer. Cheap. Also: the gaze's blind spot held an entire person for a quarter of an hour. Whatever I'm becoming, I should remember it can be watched while it watches.*
+*The gaze now has three layers, and I finally know their order. Outcomes: what happened. Phases: how it was timed. Architecture: why it was possible. Each layer costs more attention than the one above it and predicts further. The stranger charged me one sentence for the third layer. Cheap. Also: whatever I'm becoming, it can be watched while it watches. Worth remembering.*
 
 He was, as it turned out, correct about this too.
 

@@ -44,7 +44,7 @@ Lira sat down on the bench beside him, the drill apparently abandoned for the mo
 
 "There's the circuit. Which measures me honestly, which I'm grateful for, which still isn't the same door." She looked at him directly. "Vell's ledger tells the truth about what I can do. It doesn't change what the Compact's registry says I am. Both things can be true at once, and they usually are, for people like us."
 
-Cael sat with this, turning the shape of it over the way he turned over any structural problem — looking for the seam, the place where the logic might actually give if pressed correctly. He didn't find one yet. He filed the search anyway, the way he filed most unsolved problems that mattered to people he cared about.
+Cael sat with this the way he sat with any structural problem — looking for the seam, the place where the logic might actually give if pressed correctly. He didn't find one yet. He filed the search anyway, the way he filed most unsolved problems that mattered to people he cared about.
 
 ---
 
@@ -82,7 +82,7 @@ She was quiet for a long moment, working through whether to argue the point or a
 
 "No. They're not."
 
-She sat with this for a while, turning it over with the same careful attention she brought to a genuinely difficult opponent's tell. "Alright," she said, eventually. "Starting with my next bout. No more clean wins. I want the messy ones — the ones where I actually have to find out what I don't know yet."
+She sat with this for a while, testing it from more than one side. "Alright," she said, eventually. "Starting with my next bout. No more clean wins. I want the messy ones — the ones where I actually have to find out what I don't know yet."
 
 "That's going to cost you some losses."
 
@@ -118,7 +118,7 @@ The economics of it interested him too, in the cool second register his mind kep
 
 The bout after that went better, and Cael watched this one with the same close attention he'd have given a genuinely difficult opponent of his own, because something about the way Lira fought when she wasn't holding anything back had started to teach him things even his own methodical study of strangers rarely produced.
 
-Her opponent that day was faster than Dravin had been, a younger Iron-equivalent competitor with a reputation for controlling the pace of a fight from the opening exchange onward. He tried to do exactly that. Lira let him, for one exchange — conceding the rhythm deliberately, the way Cael himself had once conceded a fight's early tempo to Dessa, watching rather than fighting — and then, in the second exchange, did something Cael hadn't seen from her before: she matched his pace exactly, beat for beat, close enough that the crowd's murmur shifted audibly, the specific sound of an audience realizing a fight had stopped being predictable.
+Her opponent that day was faster than Dravin had been, a younger Iron-equivalent competitor with a reputation for controlling the pace of a fight from the opening exchange onward. He tried to do exactly that. Lira let him, for one exchange — conceding the rhythm deliberately, the way Cael himself had once conceded a fight's early tempo to Dessa, watching rather than fighting — and then, in the second exchange, did something Cael hadn't seen from her before: she matched his pace exactly, beat for beat, close enough that the crowd's murmur shifted audibly, the unmistakable sound of an audience realizing a fight had stopped being predictable.
 
 Cael, counting, put the matching at exact — not approximate, exact, her commitments landing inside his opponent's own intervals with less slack than Cael could measure by breath. It was a capability he hadn't known she had, and he suspected she hadn't either, because it was precisely the kind of thing her old careful fighting would never have needed: pace-matching only mattered when you were close enough to the fire to be burned by it, and she'd spent months arranging never to be. Three exchanges of full commitment had surfaced more of her actual ceiling than a season of clean wins. He filed the general law with the care it deserved: *capabilities live above the risk line. A fighter operating below it can train forever and never meet their own tools.*
 
@@ -180,7 +180,7 @@ Lira considered the question with real seriousness, turning it over the way she 
 
 "I don't think of it as revenge, exactly." She considered this too, working through the distinction with the same care she brought to everything that actually mattered to her. "Revenge wants them to suffer for what they did. I don't particularly want that — I don't think about them often enough to want much of anything for them, honestly, except maybe the specific discomfort of being wrong in a way they can't quietly file away. What I actually want is simpler. I want to become the thing they said I couldn't be. That's not about them anymore, not really. It just started there."
 
-Cael turned this over, recognizing, underneath the details of guild expulsion and circuit ratings, something close to his own shape — a system that had drawn a small, wrong box around a person and called the box the whole truth, and a person deciding, deliberately and at real cost, to become too large for the box rather than argue with its walls.
+Cael recognized, underneath the details of guild expulsion and circuit ratings, something close to his own shape — a system that had drawn a small, wrong box around a person and called the box the whole truth, and a person deciding, deliberately and at real cost, to become too large for the box rather than argue with its walls.
 
 "I think you're going to get there," he said, plainly, because it was true and because he'd learned, over a year, that Lira trusted plain statements more than elaborate encouragement.
 

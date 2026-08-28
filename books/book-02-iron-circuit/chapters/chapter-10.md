@@ -30,7 +30,7 @@ She looked back at Dace. "Yes."
 
 ---
 
-It mattered more than the exchange's brevity suggested, and not only in the ways that could be felt. Cael, who had spent a year learning the circuit's economics the way he learned everything — by counting — could have itemized the practical weight of it: a provisional Iron-equivalent rating changed which bouts Dace could schedule her into, and the bouts changed the purses, and the purses changed the arithmetic of two rooms in a practitioners' boarding house where rent was paid by people who earned with their bodies and healed on their own time. An Iron-equivalent name on the board drew a bigger crowd; a bigger crowd meant the vendors outside sold through their stock; some measurable fraction of the district's evening economy adjusted itself, without ceremony, around the fact of one fighter refusing to stay under a ceiling.
+It mattered more than the exchange's brevity suggested, and not only in the ways that could be felt. Cael, who had spent a year learning the circuit's economics the way he learned everything — by counting — could have itemized the practical weight of it: a provisional Iron-equivalent rating changed which bouts Dace could schedule her into, and the bouts changed the purses, and the purses changed the arithmetic of two rooms in a practitioners' boarding house where rent was paid by people who earned with their bodies and healed on their own time. An Iron-equivalent name on the board drew a bigger crowd, and some measurable fraction of the district's evening economy adjusted itself, without ceremony, around the fact of one fighter refusing to stay under a ceiling.
 
 But the deeper weight was simpler. Lira was building her own record now, visibly independent of whatever arc Cael's own strange trajectory was tracing through the circuit — the Ironyard doing, without any formal mechanism at all, what the Compact's classification system had failed to do three years before: seeing her clearly, for exactly what she'd become, rather than for what a single Kindling evaluation had decided she was.
 
@@ -128,13 +128,13 @@ Cael thought about the question longer than its size seemed to warrant, aware th
 
 "That's not a small thing to be doing at fourteen."
 
-"Fifteen, now. And I didn't exactly choose the timeline. It chose me, and I decided I'd rather be the one doing the understanding than the one being understood at, by people who've already made up their minds about what the answer should be."
+"Fifteen. And I didn't exactly choose the timeline. It chose me, and I decided I'd rather be the one doing the understanding than the one being understood at, by people who've already made up their minds about what the answer should be."
 
 Brom nodded slowly, something settling into place behind his expression — not agreement exactly, but the recognition of someone who'd found, in a stranger's answer, something close enough to his own reasons that the distance between them had just gotten meaningfully smaller. "I left Velmere for something adjacent to that. Not identical. But adjacent."
 
 "I know. You said as much, without saying it directly."
 
-"I say most things without saying them directly. You seem to have caught on faster than most people manage." A faint, dry note entered his voice — the closest thing to warmth Cael had heard from him yet. "Two days. Main floor. Vell's already posted the notice."
+"I say most things without saying them directly. You seem to have caught on faster than most people manage." A faint, dry note entered his voice — the closest thing to warmth Cael had heard from him yet. "Four days. Main floor. Vell's already posted the notice."
 
 "I saw it this morning."
 
@@ -144,7 +144,7 @@ He left before Cael could formulate a response — the same clean exit Cael had 
 
 ---
 
-"What do you see," Cael asked, carefully, a few days later, the two of them alone in the alcove after a training session had wound down, "when you use Iron Skin's pressure read?"
+"What do you see," Cael asked, carefully, two days later, the two of them alone in the alcove after a training session had wound down, "when you use Iron Skin's pressure read?"
 
 Brom looked at him with the directness that had become, over two weeks, familiar rather than unsettling. He didn't answer immediately, weighing something behind his eyes before he did. "You're asking what I'll see when we fight."
 
@@ -154,11 +154,11 @@ Brom considered the question seriously, as he considered most things, turning it
 
 "That's not useful."
 
-"It is, if you understand what I mean." He said this without impatience, working through the explanation with the same careful precision he brought to his own technique — the thoroughness of someone who genuinely wanted to be understood rather than simply heard. "I've read Gold-tier practitioners. Silver-tier, plenty of Copper. I've read off-Path competitors doing things their formal training never intended, and I've read people training abilities they hadn't formally declared yet, working around a system that hadn't caught up to what they were actually capable of. Every one of those, I have a category for. A shape my training gave me to slot the reading into, even if the specific practitioner surprised me." He paused, choosing the next part carefully. "What I read from you — I don't have a category for it at all. That's what I mean when I say something I've never seen before. It's not a description of intensity, like you're simply stronger or stranger than anything I've encountered. It's a description of absence. The absence of any bucket my training has ever given me to put you in. Reading you is like reaching for a shelf that isn't there."
+"It is, if you understand what I mean." He said this without impatience, working through the explanation with the same careful precision he brought to his own technique — the thoroughness of someone who genuinely wanted to be understood rather than simply heard. "I've read Gold-tier practitioners. Silver-tier, plenty of Copper. I've read off-Path competitors doing things their formal training never intended, and I've read people training abilities they hadn't formally declared yet, working around a system that hadn't caught up to what they were actually capable of. Every one of those, I have a category for. A shape my training gave me to slot the reading into, even when the practitioner in front of me surprised me." He paused, choosing the next part carefully. "What I read from you — I don't have a category for it at all. That's what I mean when I say something I've never seen before. It's not a description of intensity, like you're simply stronger or stranger than anything I've encountered. It's a description of absence. The absence of any bucket my training has ever given me to put you in. Reading you is like reaching for a shelf that isn't there."
 
 "Does that concern you? Fighting something you can't categorize."
 
-Brom thought about this longer than Cael expected. "No," he said, finally. "It interests me. I think those feel similar to some people. They don't feel similar to me." A faint, dry note entered his voice. "My family would find your existence deeply concerning, for what it's worth. They spent considerable effort building a framework where every outcome had a proper place in it. You'd break the framework just by walking into the room. I find that I like people who break frameworks. I've become one of the reasons my own family's framework doesn't hold together anymore, so it would be strange of me to resent you for the same thing."
+Brom thought about this longer than Cael expected. "No," he said, finally. "It interests me. I think those feel similar to some people. They don't feel similar to me." Something dry crossed his voice. "My family would find your existence deeply concerning, for what it's worth. They spent considerable effort building a framework where every outcome had a proper place in it. You'd break the framework just by walking into the room. I find that I like people who break frameworks. I've become one of the reasons my own family's framework doesn't hold together anymore, so it would be strange of me to resent you for the same thing."
 
 "Is that why you want to fight me? To see what an unreadable opponent actually does under pressure?"
 

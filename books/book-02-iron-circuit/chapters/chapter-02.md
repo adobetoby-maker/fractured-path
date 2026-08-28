@@ -46,7 +46,7 @@ He wrote her description down that evening word for word — *a stillness right 
 
 ---
 
-Dace found them partway through the tour, drifting past with the unhurried purpose of a man already three conversations deep into his day and headed toward a fourth.
+Dace found them partway through the tour, drifting past with the easy purpose of a man already three conversations deep into his day and headed toward a fourth.
 
 "Teaching him the archive?" he asked Vell, not stopping fully.
 
@@ -114,7 +114,7 @@ They passed, on the way back, a knot of younger practitioners clustered around t
 
 "Could you tell, with me? When I first walked in?"
 
-Vell considered the question longer than he expected. "No," she said, finally, with the flat honesty that made most of her answers worth trusting. "You didn't look like anything in particular that first week. Quiet. Watchful. I've seen a hundred quiet, watchful fourteen-year-olds walk through that gate, and most of them stayed exactly that — quiet and watchful, nothing more, for as long as they lasted here." She glanced at him. "What told me you were different wasn't anything about how you looked. It was that you kept coming back to ask questions nobody else bothered asking. That's rarer than talent, in my experience. Talent shows up reasonably often. Genuine curiosity that survives a year of hard losses is considerably harder to find."
+Vell didn't answer right away. "No," she said, finally, with the flat honesty that made most of her answers worth trusting. "You didn't look like anything in particular that first week. Quiet. Watchful. I've seen a hundred quiet, watchful fourteen-year-olds walk through that gate, and most of them stayed exactly that — quiet and watchful, nothing more, for as long as they lasted here." She glanced at him. "What told me you were different wasn't anything about how you looked. It was that you kept coming back to ask questions nobody else bothered asking. That's rarer than talent, in my experience. Talent shows up reasonably often. Genuine curiosity that survives a year of hard losses is far harder to find."
 
 At the tour's end, back at the archive shelf, Vell gestured to an empty space at the end of the current volume's row — where the next book would go, once this one filled.
 

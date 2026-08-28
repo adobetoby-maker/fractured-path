@@ -10,7 +10,7 @@ That was the entire extent of what the public archives had to offer. He tried a 
 
 The practitioner-level knowledge that would have actually helped him — the kind that explained not just what the Path did but how one body learned to do it — lived somewhere he couldn't reach at all: inside the guild cohorts that trained Iron Skin practitioners directly, institutions with no reason whatsoever to share their methods with an unclassified circuit fighter doing research out of a public reading room two districts from anywhere they'd ever bothered to send a representative.
 
-He gave up on the archives by the second evening and did what he always eventually did when the written record ran dry: he went to go watch, in person, for as long and as carefully as the subject would tolerate.
+He gave up on the archives by the second evening. The watching had started regardless — mornings, from the first day, the reading rooms filling only the afternoons — and now it had his whole attention: the thing he always did when the written record ran dry, watching in person, for as long and as carefully as the subject would tolerate.
 
 ---
 
@@ -80,7 +80,7 @@ Wind-adjacent was the older of the two, the more thoroughly tested, the one he t
 
 Against most opponents, the ledger balanced easily: the cost of the burst was almost always smaller than the cost of being hit. Against Brom, the arithmetic collapsed, because Brom did not chase. An evasion framework earned its keep by making committed attacks miss, and Brom committed to almost nothing. Cael could spend his legs dancing around a man who was content to stand on his heels and wait, and at the end of it Brom would have paid nothing and Cael would have paid for every step. Wind-adjacent, against this opponent, wasn't a weapon. It was, at best, insurance — worth carrying, ruinous to rely on.
 
-Pressure-adjacent was worse, and it took him an evening of honest accounting to admit how much worse. The fragment's gain was force: an amplification laid into a strike at the moment of delivery, weight arriving from somewhere his mass alone couldn't have supplied. Its costs he had characterized over six patient months. It drew from somewhere deeper than the legs — the core, the breath's foundation, a spending he felt afterward as a hollowness under the ribs rather than an ache in any muscle. It demanded rhythm: deployed on-beat, integrated into a strike's natural timing, it flowed; deployed off-beat, forced into a strike that hadn't earned it, it misfired, and a misfire meant the amplification discharging partly back up his own arm — he'd sprained his wrist that way twice in the early months, and still felt the second sprain in cold weather. And it recovered slowly. Two amplified strikes in an exchange was sustainable. Three was a gamble. He had never landed four without the fourth being noticeably weaker than an unassisted hit, which defeated the entire point of the thing.
+Pressure-adjacent was worse, and it took him an evening of honest accounting to admit how much worse. The fragment kept two ledgers of its own — the receiving half, the slow dispersal he'd charted through the winter testing, which won nothing from an opponent who dealt no force until he chose to; and the delivery half, the one that mattered in most fights. That half's gain was force: an amplification laid into a strike at the moment of delivery, weight arriving from somewhere his mass alone couldn't have supplied. Its costs he had characterized over six patient months. It drew from somewhere deeper than the legs — the core, the breath's foundation, a spending he felt afterward as a hollowness under the ribs rather than an ache in any muscle. It demanded rhythm: deployed on-beat, integrated into a strike's natural timing, it flowed; deployed off-beat, forced into a strike that hadn't earned it, it misfired, and a misfire meant the amplification discharging partly back up his own arm — he'd sprained his wrist that way twice in the early months, and still felt the second sprain in cold weather. And it recovered slowly. Two amplified strikes in an exchange was sustainable. Three was a gamble. He had never landed four without the fourth being noticeably weaker than an unassisted hit, which defeated the entire point of the thing.
 
 All of which was manageable, had been managed, in a year of bouts against fighters who received force the ordinary way. Brom did not receive force the ordinary way. Brom's entire Path was a machine for accepting delivered force and returning it with interest, and Pressure-adjacent was a machine for delivering more force. Every amplified strike Cael landed on a hardened surface would hand Brom a larger sum to redirect. He would be paying out of his own core to increase the size of the payment coming back at him.
 
@@ -108,7 +108,7 @@ Lira watched one of Brom's sessions from over Cael's shoulder, roughly a week in
 
 "So what are you going to do?"
 
-Cael considered the question with real care, turning over the accumulated observation before answering. "I'm going to find out if he has a transition window. A moment between defensive and offensive activation where his read is incomplete — where the amplification hasn't fully engaged yet, or where the shift from absorbing to redirecting leaves some small gap I can actually use."
+Cael considered the question with real care before answering. "I'm going to find out if he has a transition window. A moment between defensive and offensive activation where his read is incomplete — where the amplification hasn't fully engaged yet, or where the shift from absorbing to redirecting leaves some small gap I can actually use."
 
 "What if he doesn't have one?"
 
@@ -136,7 +136,7 @@ He didn't mention the Brom fight to anyone beyond Lira and, eventually, Vell, wh
 
 "You're not worried."
 
-Cael considered this honestly, turning the question over the way he turned over most things that deserved an accurate answer rather than a reassuring one. "I'm interested. I don't think those are the same feeling, but they're close enough that I understand why you'd ask."
+Cael weighed this honestly, as he weighed anything that deserved an accurate answer rather than a reassuring one. "I'm interested. I don't think those are the same feeling, but they're close enough that I understand why you'd ask."
 
 "They're not the same feeling. Interested people ask good questions afterward. Worried people just want it to be over." She studied him for a moment, something almost like approval in her weathered expression — the look she reserved, he'd learned over the year, for the rare occasions someone answered her honestly instead of with whatever they thought she wanted to hear. "Good luck, then. Or good information. Whichever you actually end up needing more."
 
@@ -144,9 +144,9 @@ Cael considered this honestly, turning the question over the way he turned over 
 
 "There's always a version where you get both. There's just no guarantee it's this one." She reopened the ledger, the conversation apparently concluded on her end, though she added, almost as an afterthought, without looking up: "Whatever happens Tuesday, the ledger will record it accurately. That's the only promise I can actually make you."
 
-He thanked her, and went back to watching, and preparing, and turning the transition-window hypothesis over one more time before the day finally arrived to test it properly. By the second week's end, he had filled four pages of careful notes on a technique no manual anywhere had ever bothered to record — latency tables, the breath signature, the heel-load platform, the coverage map with its unexplained gap below the knee, the fatigue account that three fast activations could visibly draw down. He had also filled one page, harder-won, on himself: two fragments whose honest ledgers said *insurance* and *liability* for the fight ahead, and a fighter underneath them who would have to be enough.
+He thanked her, and went back to watching, and preparing, and testing the hypothesis against everything he'd charted one more time. By the second week's end, he had filled four pages of careful notes on a technique no manual anywhere had ever bothered to record — latency tables, the breath signature, the heel-load platform, the coverage map with its unexplained gap below the knee, the fatigue account that three fast activations could visibly draw down. He had also filled one page, harder-won, on himself: two fragments whose honest ledgers said *insurance* and *liability* for the fight ahead, and a fighter underneath them who would have to be enough.
 
-He understood, closing the notebook on the final evening before the fight, that whatever happened in the circle tomorrow, the two weeks themselves had already been worth having.
+He understood, closing the notebook as the second week ran down, that whatever happened in the circle, the two weeks themselves had already been worth having.
 
 ---
 

@@ -16,7 +16,7 @@ He'd tested the theory twice against lesser Blade Path opponents in the weeks be
 
 The Ironyard had turned out for it in numbers Cael hadn't quite anticipated — Keth's standing as the circuit's established Iron-equivalent meant this bout carried weight beyond a simple match, something closer to a changing of the guard, whether or not the guard in question was ready to be changed. Vell kept the ledger herself. Dace had cleared the main floor's schedule around it entirely, no undercard bouts competing for attention before or after.
 
-When the two of them finally stepped into the ring, Keth offered a small, unhurried nod — not quite a greeting, more an acknowledgment that months of mutual watching were about to become something neither of them could take back. "I've heard you've been studying me," he said, pitched low enough that it wouldn't carry past the first few rows. It wasn't a question, and it wasn't posed like an accusation either — closer to a fighter noting a fact about the weather. "Everyone studies everyone, eventually, if they stay in this yard long enough. You'll have been a good habit to have kept, once tonight's finished — whichever way it goes." Cael said nothing, which Keth seemed to expect, an old competitor's patience settling over his face as he rolled his shoulders once and let the small talk go. The two of them found their positions as Vell called the opening.
+When the two of them finally stepped into the ring, Keth offered a small, easy nod — not quite a greeting, more an acknowledgment that months of mutual watching were about to become something neither of them could take back. "I've heard you've been studying me," he said, pitched low enough that it wouldn't carry past the first few rows. It wasn't a question, and it wasn't posed like an accusation either — closer to a fighter noting a fact about the weather. "Everyone studies everyone, eventually, if they stay in this yard long enough. You'll have been a good habit to have kept, once tonight's finished — whichever way it goes." Cael said nothing, which Keth seemed to expect, an old competitor's patience settling over his face as he rolled his shoulders once and let the small talk go. The two of them found their positions as Vell called the opening.
 
 The first exchange went almost exactly as four months of observation had predicted it would. Keth opened with the clean, economical precision that had carried him to Iron-equivalent in the first place — a probing series of declarations, each one tested and discarded when it didn't immediately produce an opening, the settled confidence of a fighter who'd never needed to rush a first exchange in his life. He moved the way his bout records had suggested he'd move: measured, methodical, treating the opening minute of any fight as reconnaissance rather than combat. Cael gave him nothing to work with, holding position, watching rather than engaging, confirming in real time the small details that four months of secondhand study had earned him — the shoulder that dropped a fraction before a genuine commitment, the half-step reset that always preceded a transition between declaration types, both exactly where the notebook said they'd be.
 
@@ -74,7 +74,7 @@ Below it, in the columned format the log had settled into over the past half-yea
 
 ---
 
-The crowd took longer to thin than it usually did after a bout, clustering instead around the ledger table the way it gathered for very few results — a formality most nights, an occasion on the rare ones. Vell didn't hurry for any of them. She never did. She opened the book to its next clean line with the same unbothered care she brought to every entry, the small silver-rimmed glasses she wore only for ledger work pushed low on her nose, and let the whole yard wait while she worked, unbothered by the waiting the same way she was unbothered by most things a room expected of her.
+The crowd took longer to thin than it usually did after a bout, clustering instead around the ledger table the way it gathered for very few results — a formality most nights, an occasion on the rare ones. Vell didn't hurry for any of them. She never did. She opened the book to its next clean line with the same even care she brought to every entry, the small silver-rimmed glasses she wore only for ledger work pushed low on her nose, and let the whole yard wait while she worked, no more moved by the waiting than by most things a room expected of her.
 
 She recorded the result herself, in her own hand, with a small pause before the final line — the kind of pause Cael had learned, over months of watching her keep other fighters' results, meant she was choosing her words rather than simply lacking them. "Iron-equivalent." Her pen moved. "Cael." She looked up, meeting his eyes directly rather than the book. "No Path designation." A beat, longer than the first. "First time I've ever written that particular combination in this ledger."
 
@@ -98,7 +98,7 @@ Lira raised her cup partway through the meal, a small, private toast that didn't
 
 "What did he say to you?" Lira asked, a little later, not looking up from her bowl, the studied casualness she used when she wanted an honest answer more than a performed one. "Keth. After."
 
-"That anyone who studies someone long enough can learn to do the same thing back to them." Cael turned his cup slowly in his hands. "He's right. I've already started thinking about which patterns to change before somebody builds the same kind of file on me that I've been building on everyone else."
+"That anyone who studies someone long enough can learn to do the same thing back to them." Cael turned his cup slowly in his hands. "He's right. I've already started thinking about which patterns to change."
 
 "Tonight? You won an hour ago."
 
@@ -118,7 +118,7 @@ Brom, watching the exchange with the mild interest of a man who found most human
 
 "I'm not trying to help. I'm making an observation." Brom's tone stayed level, unbothered as always. "It's an old argument. Older than either of you know I've noticed. I'm simply confirming which side is going to keep losing it."
 
-"Now the interesting ones will come," Brom said, between bites, entirely unbothered by his own prediction.
+"Now the interesting ones will come," Brom said, a little later, changing subjects the way he always did — no bridge offered, none apparently needed.
 
 "Why?"
 
@@ -138,7 +138,7 @@ Lira glanced at Cael, then back at Brom, something wary crossing her expression 
 
 They let the subject rest after that, the three of them settling back into the easier rhythm of a meal that had, for one evening, nowhere it needed to go. Cael found himself, more than once, simply watching the two of them talk past him about something unrelated — a shipment Brom was tracking, a drill Lira meant to run in the morning — content, for the length of a bowl of stew, to let the day be only what it was rather than the first data point in some larger pattern he'd need to work out later. It didn't last, exactly. It never entirely did. But it lasted long enough to notice, which was its own kind of victory, quieter than the one the ledger had recorded but not, he thought, a smaller one.
 
-He was, as it would turn out within a matter of weeks, entirely correct.
+Brom was, as it would turn out within a matter of weeks, entirely correct.
 
 ---
 

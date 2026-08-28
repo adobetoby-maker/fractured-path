@@ -2,7 +2,7 @@
 
 Assessor Havel's desk sat in the third row of the regional office's compliance wing, close enough to a window that he'd spent four years mildly grateful for the daylight and far enough from anyone senior that his work rarely drew a second glance. That suited him. He'd built a quiet, competent reputation out of exactly this kind of anonymity — the officer whose files closed clean, whose reports never needed correcting, whose name nobody remembered until they needed someone reliable for something unglamorous.
 
-The compliance wing itself ran to a rhythm he'd long since stopped noticing consciously: the scratch of pens, the occasional muted conversation between desks, the institutional quiet of a room full of people processing other people's lives into standardized language, one field at a time. He liked the rhythm, if he was honest with himself, more than he'd ever admit to anyone senior enough to read something ambitious into the admission. There was a comfort in work that closed cleanly. A file either matched procedure or it didn't. A report either needed correcting or it was finished. Four years in, he'd built an entire professional identity out of that comfort, and he had no particular interest in disturbing it.
+The compliance wing itself ran to a rhythm he'd long since stopped noticing consciously: the scratch of pens, the occasional muted conversation between desks, the institutional quiet of a room full of people processing other people's lives into standardized language, one field at a time. He liked the rhythm, if he was honest with himself, more than he'd ever say to anyone senior enough to read something ambitious into the admission. There was a comfort in work that closed cleanly. A file either matched procedure or it didn't. A report either needed correcting or it was finished. Four years in, he'd built an entire professional identity out of that comfort, and he had no particular interest in disturbing it.
 
 The Ardenmere [SHATTERED] file had come back across his desk for its scheduled quarterly review, and he worked through it as he worked through everything: methodically, in order, checking each field against the last update before moving to the next.
 
@@ -10,7 +10,7 @@ Registration status. Current. Residential compliance. Current, per his own visit
 
 *Suppression-Advisory Watch, Priority Level 4.*
 
-He'd noticed it before — he was fairly sure he'd noticed it before, though the file crossed his desk often enough now that his memory of any single pass had started to blur. He was certain, this time, that he'd never actually looked into what it meant. It had simply been there, present in every version of the file he'd touched, unremarked upon by anyone above him, and he'd absorbed it the way a careful officer absorbed most fields he didn't have a ready explanation for: as someone else's business, filed and moved past.
+He'd noticed it before. There was a dated line about it in his own personal log, written the evening after the Ardenmere visit — an unexplained marker, origin untraceable to any authorization he could find, noted for future reference and then left there, a loose thread he'd decided didn't yet justify the attention pulling on it would draw. What he'd never done, in all the file's passes across his desk since, was look up what the designation itself actually meant. It had simply been present, unremarked upon by anyone above him, and he'd absorbed it the way a careful officer absorbed most fields he didn't have a ready explanation for: as someone else's business, filed and moved past.
 
 Today, for reasons he couldn't have fully articulated even to himself, he didn't move past it.
 
@@ -46,7 +46,7 @@ He closed the file. He did not, however, forget the question. He simply filed it
 
 Coss read the query twice before he answered it, standing at his own desk rather than sitting, as he tended to do with anything that required more thought than the ordinary flow of his day.
 
-The query itself didn't worry him. Havel's phrasing was careful, procedural, exactly the kind of thing a competent junior officer sent when something genuinely didn't add up and he wanted the record to show he'd asked rather than simply guessed. What worried Coss was the fact of the question at all — the fact that a four-year field officer, working an ordinary quarterly review with no particular reason to look closely, had caught something Coss himself had spent considerable energy over the past year quietly not looking at too directly.
+The query itself didn't worry him. Havel's phrasing was careful, procedural, exactly the kind of thing a competent junior officer sent when something genuinely didn't add up and he wanted the record to show he'd asked rather than simply guessed. What worried Coss was the fact of the question at all — the fact that a four-year field officer, working an ordinary quarterly review with no reason to look closely, had caught something Coss himself had spent the past year quietly not looking at too directly.
 
 If Havel had noticed it, doing nothing more than his routine job competently, then the classification wasn't buried as deep as Coss had allowed himself to assume. And if it wasn't buried that deep, then eventually — not today, not from Havel, but eventually, from someone with the rank and the curiosity to actually pursue the question past the point where standard procedure told them to stop — somebody was going to ask the question Coss himself had never quite worked up the nerve to ask through any channel that would leave a record of his asking it.
 
@@ -72,7 +72,7 @@ Cael, entirely unaware of either exchange, had noticed something of his own — 
 
 That he could notice it at all was itself the product of three weeks of deliberate, mostly humbling work.
 
-The Iron-adjacent fragment had come out of the alcove sessions with a capability so narrow it barely deserved the word: one signature, four feet, seated, quiet room, ten breaths, headache. He'd set himself a development program the same evening he'd written that ledger, because a development program was what he did with any capability whose current state and required state didn't match — the same patient architecture that had turned the Wind-adjacent step from a thing that arrived unbidden into a thing he could deploy on demand, months of small deliberate doses, each one logged.
+The Iron-adjacent fragment had come out of the alcove sessions with a capability so narrow it barely deserved the word: one signature, three paces, stationary, quiet room, a handful of breaths, headache. He'd set himself a development program the same evening he'd written that ledger, because a development program was what he did with any capability whose current state and required state didn't match — the same patient architecture that had turned the Wind-adjacent step from a thing that arrived unbidden into a thing he could deploy on demand, months of small deliberate doses, each one logged.
 
 The program's early weeks were a record of instructive failure. Range came first and came slowly: four feet to eight, eight to the width of the boarding house's common room, each extension paid for in the band behind his eyes, until he learned — the fragment teaching him its own economics one overdraft at a time — that range wasn't purchased with effort but with stillness, and that straining toward a distant signature collapsed the channel faster than distance ever did. Movement came slower still. Two weeks in, he could hold a thin version of the channel open while walking at a deliberate pace, provided nothing startled him and he asked the read for nothing more precise than *present or absent*. Asking it to run beneath a training exchange — beneath the step, beneath any organized readiness at all — still failed every single time, the listening displaced the instant his body began to speak.
 
@@ -110,7 +110,7 @@ She held his gaze a moment longer, checking, the way she always checked, whether
 
 He raised it with Brom too, the next morning, during the pause between sparring rounds — partly because Brom had a stake in it, given whose pressure-read fragment had made the watcher detectable in the first place, and partly because Cael had learned, over the past year, that a problem shared with the right people tended to resolve faster than a problem carried alone out of some misplaced instinct toward self-sufficiency.
 
-"Someone's been watching me. Iron Skin signature. I caught it with the fragment."
+"Someone's been watching me. A practitioner — I caught the signature with the fragment."
 
 Brom went very still, the stillness Cael had learned meant he was thinking rather than simply pausing. "Describe the signature."
 
@@ -138,7 +138,7 @@ Level 4 was reserved, by the system's own procedural logic, for Gold-tier practi
 
 This designation carried no name. No sign-off. No authorizing officer anywhere in the chain a careful search would have revealed, had anyone with the clearance to search thoroughly ever actually tried. The record offered only the same flat, procedural language it had apparently always offered, unchanged across however many years the underlying system had quietly maintained it: *systemic protocol, registry sub-layer.*
 
-To anyone who understood how to read Compact records — and there were vanishingly few people, even within the Compact itself, who understood that particular corner of the system well enough to read it correctly — that phrase meant something exact and unsettling: no living person had placed this designation. It had arrived through a layer of the registry's own architecture, the deep administrative substrate beneath the ordinary human bureaucracy that believed itself to be running the institution, operating according to logic nobody currently alive had written and nobody currently alive could fully audit.
+To anyone who understood how to read Compact records — and there were vanishingly few people, even within the Compact itself, who understood that corner of the system well enough to read it correctly — that phrase meant something exact and unsettling: no living person had placed this designation. It had arrived through a layer of the registry's own architecture, the deep administrative substrate beneath the ordinary human bureaucracy that believed itself to be running the institution, operating according to logic nobody currently alive had written and nobody currently alive could fully audit.
 
 The timestamp, buried in a metadata field almost nobody thought to check, predated the file's own creation.
 

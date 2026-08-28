@@ -113,11 +113,11 @@ He looked back once, the way he'd looked back at Denvash a year and a half and a
 
 "Cataloguing. I can practically hear the notebook entry forming." She said it fondly, no real accusation in it. "Go ahead. I know you're not going to be able to walk another mile without writing something down."
 
-He didn't, in fact, make it another mile. He pulled the log out at the first rest, sitting on a low stone wall much like the one outside Ardenmere's gate had been, a year and a half and two books of careful handwriting ago, and wrote the closing entry for a chapter of his life he understood, even now, he'd only half-finished understanding.
+He didn't, in fact, make it another mile. He pulled the log out at the first rest, sitting on a low stone wall much like the one outside Ardenmere's gate had been, a year and a half and two notebooks of careful handwriting ago, and wrote the closing entry for a stretch of his life he understood, even now, he'd only half-finished understanding.
 
 *Four confirmed fragments. One anomaly. A circuit record that exists whether or not the Compact ever acknowledges it. A friend who reads people the way I do, from a completely different direction, and somehow arrives at the same conclusions. A partner who's stopped holding back, in every sense that matters, and is going to be extraordinary because of it.*
 
-*I came to Ardenmere with nothing but a bag and Hesk's notebook. I'm leaving with considerably more than I know how to properly measure yet. I think that's the actual lesson, if there's one lesson a year like this produces: you don't arrive somewhere already knowing what it's going to give you. You just have to stay long enough, and pay close enough attention, to find out.*
+*I came to Ardenmere with nothing but a bag and Hesk's notebook. I'm leaving with far more than I know how to properly measure yet. I think that's the actual lesson, if there's one lesson a year like this produces: you don't arrive somewhere already knowing what it's going to give you. You just have to stay long enough, and pay close enough attention, to find out.*
 
 He closed the log.
 

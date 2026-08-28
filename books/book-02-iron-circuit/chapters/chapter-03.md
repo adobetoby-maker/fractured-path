@@ -34,7 +34,7 @@ A ripple moved through the nearby benches — not loud, just the attentive still
 
 She looked at the man for a long moment. Not alarmed. Not even mildly rattled, as far as Cael could tell — just the stillness of someone who had absorbed this exact threat more times than she could probably count and had never once seen it produce a different outcome than the one she was about to describe.
 
-"Do that," she said, "and you won't fight in any circuit from here to the coast. The keepers talk. We're a small enough community that a formal complaint against one of us tends to travel considerably faster than the complaint's actual merits." A pause, timed with the precision of long practice. "I'd think carefully about whether that's the reputation you want attached to your name before you walk out that door. Once it's attached, it doesn't come off easily. I've watched it happen to better fighters than you."
+"Do that," she said, "and you won't fight in any circuit from here to the coast. The keepers talk. We're a small enough community that a formal complaint against one of us tends to travel a good deal faster than the complaint's actual merits." A pause, timed with the precision of long practice. "I'd think carefully about whether that's the reputation you want attached to your name before you walk out that door. Once it's attached, it doesn't come off easily. I've watched it happen to better fighters than you."
 
 "You're threatening me."
 
@@ -52,7 +52,7 @@ He thought about which category the departed practitioner would turn out to belo
 
 ---
 
-Cael watched the entire exchange with the close, cataloguing attention he brought to anything involving how authority actually functioned, as opposed to how it was formally supposed to function.
+Cael watched the entire exchange with the close attention he brought to anything involving how authority actually functioned, as opposed to how it was formally supposed to function.
 
 He waited until the crowd had thinned back to its usual rhythm before writing the entry, wanting the shape of it clear in his memory rather than half-formed and rushed.
 
@@ -62,7 +62,7 @@ He waited until the crowd had thinned back to its usual rhythm before writing th
 
 *Prediction record: called the timing (waited for witnesses) and the opening (strongest rehearsed word first). Missed the document he kept touching under his jacket — never produced. Either reassurance only, or a card he decided not to play. Filed: people carry their unplayed cards somewhere on their body, and their hands visit them under stress. Worth watching for in fighters too.*
 
-He thought about it a while longer, turning the mechanism over as he'd turn over an opponent's tell. It struck him as a smaller, informal cousin of the same principle Vell's whole ledger operated on — legitimacy that didn't ask the Compact's permission to exist, built instead on consistency, witnesses, and the accumulated weight of a record nobody outside the room had any power to rewrite.
+He thought about it a while longer, working the mechanism the way he'd work an opponent's tell. It struck him as a smaller, informal cousin of the same principle Vell's whole ledger operated on — legitimacy that didn't ask the Compact's permission to exist, built instead on consistency, witnesses, and the accumulated weight of a record nobody outside the room had any power to rewrite.
 
 He found Vell afterward, back at her table, the ledger closed now that the morning's business had quieted.
 
@@ -162,7 +162,7 @@ She mentioned it almost in passing, running a finger along a row of spines that 
 
 "Different how?"
 
-She considered the question longer than its size seemed to warrant, her finger still resting against the cracked spine as though she were deciding, in real time, how much of an answer the moment actually deserved.
+The question sat between them longer than its size seemed to warrant, her finger still resting against the cracked spine as though she were deciding, in real time, how much of an answer the moment actually deserved.
 
 "I'd have to show you properly sometime," she said, at last. "It's not a quick explanation, and these pages don't take kindly to being handled without a reason worth the wear." She withdrew her hand and moved on down the shelf, toward the volume she'd actually come for, the conversation closing the way conversations with Vell sometimes closed — not dismissively, exactly, just with the measured pacing of someone who decided things would be shown when they were ready to be shown, and not a moment before.
 
@@ -184,7 +184,7 @@ Vell glanced back, the volume she'd retrieved already tucked under one arm. "Old
 
 "Everything worth keeping is dangerous to keep, eventually. That's not a reason to stop keeping it. It's a reason to be careful about who you show it to." She looked at him for a moment, something evaluating in her gaze that reminded him, not for the first time, of the exact look she'd given him the day he'd first walked up to her registration table as an unrated fourteen-year-old with nothing to his name but a bag and a direction. "I showed you the tour today because I trust your judgment about what to do with things you don't fully understand yet. That's not a small thing, coming from me. I don't extend it casually."
 
-Cael absorbed this as he absorbed most things that mattered too much for an immediate response — quietly, filing the weight of it alongside the words themselves. "Thank you."
+Cael took it in quietly, the weight of it filed alongside the words themselves. "Thank you."
 
 "Don't thank me yet. I haven't shown you the oldest section properly. Today was the tour. The actual reading is a different, longer conversation, for whenever both of us have the time it deserves." She turned to leave the archive, the volume she'd actually come for settling more comfortably under her arm. "Soon, maybe. Not today."
 

@@ -32,7 +32,7 @@ He'd tried this before, more than once, in more than one city — a rumor follow
 
 He'd heard about Cael the way most out-of-town interest eventually reached Ardenmere: practitioner to practitioner, city to city, a story passed hand to hand and embellished a little with each retelling until it arrived a good deal larger than whatever had actually happened in the Ironyard the night it started. An unclassified fighter, formally nothing at all by the Compact's own accounting, beating ranked opponents clean. It was, by the time it reached Reydan two cities over, exactly the kind of story that made a fighter like him curious enough to travel.
 
-One version of the story, the one that had actually reached him, claimed the boy had beaten a Bronze Rank 1 opponent while carrying no Path a certification office would recognize — an unclassified nothing, by the Compact's own accounting, doing something the Compact's own accounting said should have been impossible. Reydan had heard enough impossible things claimed about circuit fighters over the years to distrust the shape of a story like that on principle. He'd also learned, the harder way, that dismissing every impossible story on principle meant occasionally missing the one that turned out true, and that the cost of checking a story that failed to hold up was far smaller than the cost of ignoring one that didn't.
+One version of the story, the one that had actually reached him, claimed the boy had beaten a Bronze Rank 1 opponent while carrying no Path a certification office would recognize — an unclassified nothing doing something the Compact's own accounting said should have been impossible. Reydan had heard enough impossible things claimed about circuit fighters over the years to distrust the shape of a story like that on principle. He'd also learned, the harder way, that dismissing every impossible story on principle meant occasionally missing the one that turned out true, and that the cost of checking a story that failed to hold up was far smaller than the cost of ignoring one that didn't.
 
 He'd wanted to see for himself before committing to anything, which was why he'd come and watched two ordinary bouts in silence rather than announcing his interest the moment he arrived. Ardenmere's story had survived two cities of retelling without collapsing into the ordinary shape those stories usually collapsed into by the time they reached him, and that alone had been enough to get him on the road; now he wanted to understand the venue, the crowd, the general caliber of what this circuit actually produced, before deciding whether the story matched the reality closely enough to be worth the rest of his time.
 
@@ -116,9 +116,9 @@ Lira turned her cup slowly on the table, the way she did when she was working th
 
 "Not much yet. Burst-compression, not the sustained kind Feryn used. Short wind-up. Professional background — trained young, trained properly. That's what Dace gave me, and what was already moving through the quarter by the time I got there this morning."
 
-"That's a name and a warning, not a fighter." Brom said it without looking up from his own bowl, the flat economy he brought to most observations. "You'll need considerably more than that before two weeks is worth anything. And don't take comfort from the rank. He's under the Bronze line — under Innes, under Feryn, on paper. Innes and Feryn are gifted men who taught themselves. Reydan's had twelve years of people paid to make him better than that. The number doesn't measure the difference."
+"That's a name and a warning, not a fighter." Brom said it without looking up from his own bowl, the flat economy he brought to most observations. "You'll need a good deal more than that before two weeks is worth anything. And don't take comfort from the rank. He's under the Bronze line — under Innes, under Feryn, on paper. Innes and Feryn are gifted men who taught themselves. Reydan's had twelve years of people paid to make him better than that. The number doesn't measure the difference."
 
-"I know. That's rather the point of the two weeks."
+"I know. That's what the two weeks are for."
 
 "Are you ready?"
 
@@ -142,7 +142,7 @@ She studied him for a moment, the evaluating look that had become, over the past
 
 "You said that last time too."
 
-Brom, from across the table, hadn't said anything yet, working through a private calculation of his own. When he finally spoke, it was with his usual economy. "I'll find practitioners who've fought him before. Someone in this district, or someone Dace knows through a contact somewhere else. Reydan's circuit tour didn't start here — there'll be a record of him somewhere, even if it's just secondhand impression rather than anything written down."
+Brom, from across the table, had gone quiet again, working through a private calculation of his own. When he spoke, it was with his usual economy. "I'll find practitioners who've fought him before. Someone in this district, or someone Dace knows through a contact somewhere else. Reydan's circuit tour didn't start here — there'll be a record of him somewhere, even if it's just secondhand impression rather than anything written down."
 
 "How reliable is secondhand impression, against someone like this?" Lira asked.
 
@@ -160,7 +160,7 @@ Brom, from across the table, hadn't said anything yet, working through a private
 
 "I know you'll mean to." It wasn't an accusation, only an old, familiar observation, delivered with enough warmth that it didn't need to be one. Cael let it stand without arguing, because arguing would only have proven her point rather than disproven it.
 
-Brom set his spoon down, considering something before he said it. "Main floor, for an outside Iron-tier against you. That's not just Dace being generous with room. That's the circuit deciding this is worth watching." He said it plainly, without special weight attached, the way he delivered most observations that other people might have dressed up as bigger than they were. "Everyone in the district who pays attention to circuit gossip will hear about this fight before it happens, and everyone who watches it will remember whether you won or how you lost, for considerably longer than they'd remember an ordinary Tuesday bout."
+Brom set his spoon down, considering something before he said it. "Main floor, for an outside Iron-tier against you. That's not just Dace being generous with room. That's the circuit deciding this is worth watching." He said it plainly, without special weight attached, the way he delivered most observations that other people might have dressed up as bigger than they were. "Everyone in the district who pays attention to circuit gossip will hear about this fight before it happens, and everyone who watches it will remember whether you won or how you lost, far longer than they'd remember an ordinary Tuesday bout."
 
 "I know," Cael said.
 
