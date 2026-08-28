@@ -14,8 +14,9 @@ to fix a specific low-frequency throb in Holden's delivery. Keiller is a
 different voice and chapters 1-3 shipped clean; applying someone else's
 correction would be an unforced error.
 
-  python3 render_chapter.py <n>          # renders + assembles chapter n
+  python3 render_chapter.py <n>          # renders + assembles chapter n (book 1)
   python3 render_chapter.py <n> --dry    # chunk only, no API calls
+  python3 render_chapter.py <n> --book book-02-iron-circuit   # target a different book
 """
 import hashlib, json, os, re, ssl, subprocess, sys, time, urllib.error, urllib.request
 
@@ -30,8 +31,15 @@ STITCH = 3           # ElevenLabs accepts at most 3 previous_request_ids
 SR = 44100
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CHAPTERS = os.path.join(ROOT, "books/book-01-the-shattered/chapters")
-OUT = os.path.join(ROOT, "audio/book-01-the-shattered")
+BOOK = "book-01-the-shattered"
+if "--book" in sys.argv:
+    BOOK = sys.argv[sys.argv.index("--book") + 1]
+BOOK_AUDIO_DIR = {
+    "book-01-the-shattered": "book-01-the-shattered",
+    "book-02-iron-circuit": "book-02-iron-circuit",
+}.get(BOOK, BOOK)
+CHAPTERS = os.path.join(ROOT, f"books/{BOOK}/chapters")
+OUT = os.path.join(ROOT, f"audio/{BOOK_AUDIO_DIR}")
 WORK = "/tmp/fp_render"
 
 # Two baselines, because the method changed mid-book.
