@@ -8,7 +8,7 @@
       "id": "book-01-the-shattered",
       "title": "The Shattered",
       "totalChapters": 24,
-      "renderedChapters": 17,
+      "renderedChapters": 24,
       "chapters": [
         {
           "number": 1,
@@ -309,6 +309,132 @@
               "durationSec": 1438.82,
               "sha256": "dcfab467743337f7cfb265307edfd3827221f0785ebcb28a12c37a6ee04613d1",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-17.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "title": "The Senior Evaluation",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-18.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-18.mp3",
+              "bytes": 10738669,
+              "durationSec": 1342.25,
+              "sha256": "4953941295a11dba12d6e8015fa5ea410b96b1579be8a178c3fe4ecb1fec738b",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-18.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "title": "The District",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-19.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-19.mp3",
+              "bytes": 11041689,
+              "durationSec": 1380.15,
+              "sha256": "f1273e37fe7d9e65844fd2348ee654f86ee6a982ebc3742e336a644f90bcb78e",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-19.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "title": "Coss Again",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-20.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-20.mp3",
+              "bytes": 9804739,
+              "durationSec": 1225.53,
+              "sha256": "44f593b6e1f7e539b3ddcfd74409f5e74ece4e62804a7ef5601062f0c3346f70",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-20.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "title": "The Wager",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-21.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-21.mp3",
+              "bytes": 11373340,
+              "durationSec": 1421.59,
+              "sha256": "677c9db093f8263019425d122f0c1f5201ab1b4402224a79c0decce3419d1548",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-21.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "title": "What Winning Would Actually Change",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-22.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-22.mp3",
+              "bytes": 11665702,
+              "durationSec": 1458.13,
+              "sha256": "f329b1839568bc87842e548d640dba7344d4b7a18c034ef0a9f5015de7dab18d",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-22.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "title": "The Bout",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-23.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-23.mp3",
+              "bytes": 12870888,
+              "durationSec": 1608.8,
+              "sha256": "f47616b4c16bb500131bfc2fa1c617de28515578fc0e32855be8a62851880b0e",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-23.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "title": "The Message",
+          "manuscript": "books/book-01-the-shattered/chapters/chapter-24.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-01-the-shattered/chapter-24.mp3",
+              "bytes": 11038764,
+              "durationSec": 1379.77,
+              "sha256": "a2c5c375acef8720cb53fc41b35748cd7696a11fc64347f26da915fbf8d07c01",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-01-the-shattered/chapter-24.mp3",
               "note": "64 kbps; request-stitched."
             }
           ]
