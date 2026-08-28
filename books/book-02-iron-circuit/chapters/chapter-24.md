@@ -2,11 +2,11 @@
 
 A final circuit bout came first — brief, lower stakes, agreed to weeks before the Reydan fight had ever entered the schedule and honored anyway, because that was simply what Cael did with commitments once he'd made them, regardless of how much larger the world around a promise had since become.
 
-His opponent was a Copper-tier formal fighter, unremarkable by every measure that had once made Cael nervous and now barely registered as a category worth naming. He watched two of the man's bouts the day before, out of habit more than necessity, and found the fight itself almost restful in its predictability — a clean, methodical win, no drama, no fragment deployment beyond the Wind-adjacent step he could now summon nearly as reliably outside combat as within it. Vell recorded it in her usual hand, the entry no different in weight from a hundred others before it, and Cael understood, walking away from the circle for what he already suspected might be one of his last times standing in it, that the fight's very unremarkableness was itself a kind of gift. Ardenmere had given him, somewhere in the past year, the specific luxury of an easy win meaning nothing more than exactly what it was.
+His opponent was a Copper-tier formal fighter, unremarkable by every measure that had once made Cael nervous and now barely registered as a category worth naming. He watched two of the man's bouts the day before, out of habit more than necessity, and found the fight itself almost restful in its predictability — a clean, methodical win, no drama, no fragment deployment beyond the Wind-adjacent step he could now summon nearly as reliably outside combat as within it. Vell recorded it in her usual hand, the entry no different in weight from a hundred others before it, and Cael understood, walking away from the circle for what he already suspected might be one of his last times standing in it, that the fight's very unremarkableness was itself a kind of gift. He'd fought it with the Reydan bout's bill not yet fully paid — the redirect's shoulder still announcing itself on certain angles — and won without ever needing the angles it guarded, which was its own quiet measurement of how far the year had carried him. Ardenmere had given him, somewhere in that year, the rare luxury of an easy win meaning nothing more than exactly what it was.
 
 He didn't tell anyone at the Ironyard that this might be his last bout there. He wasn't ready yet to make the leaving that concrete, and some part of him — the part that had learned, long ago, never to promise a room more permanence than he actually had — preferred to let the fight simply be a fight, and worry about goodbyes when goodbyes could no longer be avoided.
 
-The fourth fragment notice arrived that night, in the quiet between the bout and sleep, unhurried and precise in the way all of them eventually resolved themselves to be — though this one carried a weight the others hadn't, arriving not as a surprise but as a confirmation of something he'd already half-known since the moment it first happened, incomplete and unrepeatable, in the middle of the Reydan bout's fourth exchange.
+The fourth fragment notice arrived that night, in the quiet between the bout and sleep, calm and precise in the way all of them eventually resolved themselves to be — though this one carried a weight the others hadn't, arriving not as a surprise but as a confirmation of something he'd already half-known since the moment it first happened, incomplete and unrepeatable, in the middle of the Reydan bout's fourth exchange.
 
 ```
 FRAGMENT ACQUIRED
@@ -15,7 +15,17 @@ Tier equivalent: unknown.
 Note: force absorption component. Damage redirect, contact range.
 ```
 
-This was the fragment whose incomplete version had first appeared, instinctively, in the Reydan bout. It was confirmed now, given a partial name, integrated. He recorded it in the Power Log, which had grown, over the past year, from a single slim notebook into something closer to a binder. Four confirmed fragments. One anomaly — the Tide-adjacent reading from session nine, still unreproduced, still unexplained. He was not a Path. He was something else entirely, still being determined, one careful entry at a time.
+This was the fragment whose incomplete version had first appeared, instinctively, in the Reydan bout. It was confirmed now, given a partial name, integrated.
+
+The arrival itself had a texture he took time to record, because the record was the only instrument he had. No drama attended it — there never was any; the notice simply existed where it hadn't a moment before, patient as a ledger line. What was different this time was the recognition. The other three had arrived as strangers, capabilities he'd then spent weeks learning the shape of. This one arrived already half-known — the shape of the fourth exchange, the gathered-and-returned force, the heartbeat of legible quiet inside an impact — named at last, like a face finally matched to someone glimpsed once in a crowd.
+
+He turned to the anomaly pages first, before writing anything new. Two entries had sat there since the bout: session nine, and the half-second. He drew a line under the second and marked it resolved — *identified: Compression-adjacent, incomplete expression preceding integration* — and felt the small, disproportionate satisfaction of a column finally balancing. Then he looked for a long moment at the first entry, the session-nine reading Brom had called Tide-adjacent, which the new notice did nothing at all to explain. Still unreproduced. Still unexplained. One anomaly remained one anomaly. He left the page exactly as it was.
+
+The new entry he wrote in the format the log had taught him to trust:
+
+*Compression-adjacent. Function, as experienced once under combat conditions: force absorption at contact range — received force gathered and redirected rather than dispersed or endured. Benefit, provisional: converts an opponent's committed strike into position and returned force; strongest against exactly the class of attack that is hardest to evade. Cost, provisional: the bout suggests the body pays a substantial toll at full deployment — shoulder, ribs, breath. Assume expensive until proven otherwise. Untested under deliberate control. Integration partial. Expect the usual apprenticeship: the others each took weeks before they answered on purpose. Begin tomorrow, carefully, at the smallest scale available.*
+
+The Power Log had grown, over the past year, from a single slim notebook into something closer to a binder. Four confirmed fragments. One anomaly. He was not a Path. He was something else entirely, still being determined, one careful entry at a time.
 
 ---
 
@@ -35,7 +45,7 @@ He didn't have a ready answer for that. He folded the pages with more care than 
 
 "Don't thank me. You earned every page of it." She closed her own ledger, the current volume, its final third of pages still blank, waiting for whoever came through her door next season. "Write, if you're ever somewhere with a post office and a reason. I keep a running tally of everyone who's come through here and where they ended up. You'd be the first to make it as far as an academy."
 
-He lingered a moment longer than he needed to, taking in the office one last time — the shelving, the smell of old paper and leather oil, the specific hush of a room that had spent thirty years accumulating the truth about people the rest of the world had decided not to bother recording. He'd walked in a year and a half ago as an unrated fourteen-year-old with a bag and a direction. He was leaving it, he understood now, having become someone this room would remember on its own terms, regardless of anything the Compact's registry ever decided to say about him.
+He lingered a moment longer than he needed to, taking in the office one last time — the shelving, the smell of old paper and leather oil, the hush of a room that had spent thirty years accumulating the truth about people the rest of the world had decided not to bother recording. He'd walked in a year and a half ago as an unrated fourteen-year-old with a bag and a direction. He was leaving it, he understood now, having become someone this room would remember on its own terms, regardless of anything the Compact's registry ever decided to say about him.
 
 "I'll write," he said.
 
@@ -51,13 +61,15 @@ Brom's own leaving was quieter than either Vell's or Dace's, in keeping with how
 
 "You'll remember Ardenmere, though."
 
-Something shifted, briefly, in Brom's usually unreadable expression — not quite sentiment, but adjacent to it, the specific weight of a person who'd arrived somewhere broken by his own family's expectations and left it having built, instead, an actual friendship out of nothing but shared curiosity and mutual respect. "I found the first problem I've ever wanted to keep solving," he said, finally. "That's worth remembering. Ardenmere's just the place it happened to happen."
+Something shifted, briefly, in Brom's usually unreadable expression — not quite sentiment, but adjacent to it, the settled weight of a person who'd arrived somewhere broken by his own family's expectations and left it having built, instead, an actual friendship out of nothing but shared curiosity and mutual respect. "I found the first problem I've ever wanted to keep solving," he said, finally. "That's worth remembering. Ardenmere's just the place it happened to happen."
 
-Cael understood, hearing this, that Brom meant him — not the district, not the circuit, but the specific, ongoing puzzle of what Cael actually was, which Brom had decided, back on the floor after their very first fight, was worth a lifetime's patient attention rather than a single afternoon's curiosity. It was, Cael thought, one of the more honest compliments he'd ever received, delivered exactly the way Brom delivered everything: plainly, without decoration, and entirely meant.
+Cael understood, hearing this, that Brom meant him — not the district, not the circuit, but the ongoing puzzle of what Cael actually was, which Brom had decided, back on the floor after their very first fight, was worth a lifetime's patient attention rather than a single afternoon's curiosity. It was, Cael thought, one of the more honest compliments he'd ever received, delivered exactly the way Brom delivered everything: plainly, without decoration, and entirely meant.
 
 ---
 
-Dace found him at the market on the morning of departure, and said nothing of any particular consequence — no farewell speech, no summary of what the past year had meant, just the same brisk, logistical energy he brought to every ordinary transaction, as though seeing Cael off were simply one more line item in a day already full of them.
+The market on departure morning ran its ordinary rhythm, and Cael walked it one last time with the doubled attention of someone recording a place he already knew by heart — the fishmonger's line already formed, the mending stall's shutters half up, the credit vendor who'd widened his terms after the Iron-equivalent rating giving him a nod that settled their account better than coin would have. Nobody made anything of the pack on his shoulder. The district didn't do farewells any more than Brom did; it did acknowledgment, in passing, at the volume the relationship had actually earned, and he found he preferred it that way. A year of this place taking his measure, as he had taken its, closing without ceremony on both sides.
+
+Dace found him at the market that morning, and said nothing of real consequence — no farewell speech, no summary of what the past year had meant, just the same brisk, logistical energy he brought to every ordinary transaction, as though seeing Cael off were simply one more line item in a day already full of them.
 
 He did, however, hand over a sealed note before turning back to his scheduling board.
 
@@ -67,19 +79,19 @@ Cael didn't open it until they were well past the district gate, the Ironyard al
 
 *For whatever it's worth: you fought honestly. That matters here.*
 
-He read it twice, and then a third time, turning it over the way he turned over anything that carried more weight than its length suggested. He didn't know the man's name. He never would. He put the note in the pack with everything else worth keeping, and found, walking, that a stranger's five words had settled into him with a specific, quiet permanence that Dace's brisk efficiency and even Vell's careful ceremony hadn't quite managed on their own.
+He read it twice, and then a third time, turning it over the way he turned over anything that carried more weight than its length suggested. He didn't know the man's name. He never would. He put the note in the pack with everything else worth keeping, and found, walking, that a stranger's five words had settled into him with a quiet permanence that Dace's brisk efficiency and even Vell's careful ceremony hadn't quite managed on their own.
 
 Lira, walking beside him, read the note over his shoulder without asking permission — an old habit between them by now, worn smooth from a year of sharing everything worth sharing. "That's the whole district in one sentence," she said. "Nobody here cared what you were classified as. They cared whether you fought honestly. That's the entire value system, and I don't think either of us fully appreciated how rare it is until right now, walking away from it."
 
 "You built your own version of it. Same district, different proof." He glanced at her, thinking of the woman who'd once told him, months ago, that she wanted to be the best Wind practitioner alive and have it be obvious. "You're not the same fighter who told me you wanted a guild to have to admit you were good."
 
-"No. I'm better than that fighter wanted to be, and I got there by not being her anymore." She said this without any particular weight, a plain fact rather than a confession. "I stopped needing the guild's admission somewhere in the last few months. I still want it. I just don't need it the way I did a year ago. Greyvane's not going to be about proving anything to Fenmark anymore. It's going to be about finding out what I actually am, past whatever ceiling either academy ever tried to put on it."
+"No. I'm better than that fighter wanted to be, and I got there by not being her anymore." She said this without ceremony, a plain fact rather than a confession. "I stopped needing the guild's admission somewhere in the last few months. I still want it. I just don't need it the way I did a year ago. Greyvane's not going to be about proving anything to Fenmark anymore. It's going to be about finding out what I actually am, past whatever ceiling either academy ever tried to put on it."
 
 Cael thought that was, in its own way, the most significant thing to happen to either of them in the whole year — not a fragment, not a fight, not a classification. A person deciding, on her own terms, what she was actually working toward, and finding it had quietly changed shape somewhere along the way without either of them noticing the exact moment it happened.
 
 ---
 
-Reydan was in the market too, that final morning, watching from across the stalls with the same unhurried, professional attention he'd brought to every previous encounter between them.
+Reydan was in the market too, that final morning, watching from across the stalls with the same patient, professional attention he'd brought to every previous encounter between them.
 
 Neither of them crossed the distance to speak. There didn't seem to be anything left that needed saying out loud — the bout itself had said most of it, and the rest belonged to some future conversation neither of them was in a hurry to force before it was ready.
 
@@ -87,7 +99,7 @@ He nodded. Cael nodded back — the simple acknowledgment between two practition
 
 *Find me later,* Reydan had said, on the floor, still catching his breath. *I want the answer when you have it.*
 
-Cael didn't have the answer yet. He suspected, watching Reydan turn back to whatever business had brought him to the market that morning, that the search for it was going to take him considerably further than the road to Greyvane alone could carry him — but it was, at least, a beginning worth having, and he added the promise, silently, to the small private list of debts he intended to eventually pay.
+Cael didn't have the answer yet. He suspected, watching Reydan turn back to whatever business had brought him to the market that morning, that the search for it was going to take him a great deal further than the road to Greyvane alone could carry him — but it was, at least, a beginning worth having, and he added the promise, silently, to the small private list of debts he intended to eventually pay.
 
 ---
 
@@ -109,6 +121,20 @@ He didn't, in fact, make it another mile. He pulled the log out at the first res
 
 He closed the log.
 
+They tested the new fragment at the midday rest, because *begin tomorrow, carefully* had technically become today somewhere on the road, and because Brom, once told a fragment had confirmed, was constitutionally incapable of leaving the question alone until the next town. The method they settled on was the alcove method scaled down to a roadside: Brom kneeling opposite, delivering a slow, measured push of Iron Skin-hardened force against Cael's braced forearm — a fraction of a real strike, controlled, repeatable.
+
+The first attempt did nothing at all. The force arrived, his arm absorbed it the ordinary way arms absorb things, and the fragment sat inert, unreachable in exactly the way Wind-adjacent had been unreachable in his earliest weeks with it — present, confirmed, and entirely indifferent to being wanted. On the second attempt he over-reached and caught something, badly: a fraction of Brom's push gathered and turned, mistimed, so that the redirect went into the ground through his own knee instead of anywhere useful and left the joint aching with a dull bruise-from-inside sensation he wrote down afterward in exactly those words.
+
+Brom watched with clinical interest. "That looked wrong."
+
+"It was wrong."
+
+"Good. Now you know one of the ways it goes wrong."
+
+The sixth attempt, or possibly the seventh, caught perhaps a quarter of the push cleanly — gathered, turned, returned into Brom's braced arm with enough coherence that Brom's eyebrows rose a fraction, his own pressure-read evidently confirming what his arm had felt. It cost more than the bout's instinctive version had seemed to: deliberate deployment ran through the same channels as the redirect drill, the toll through shoulder and sternum arriving promptly and pricing itself without ambiguity. A quarter of a slow push, for a cost he could feel in his teeth. He was, by every honest measure, terrible at it.
+
+He found this obscurely reassuring, and wrote down why at the evening stop: *Compression-adjacent, first deliberate sessions: clumsy, expensive, weak. Exactly like Wind at the start. Exactly like the read at the start. The awkwardness is not a defect. It is the apprenticeship — and this time I know what the far side of it looks like, three times over.*
+
 "I have four things that aren't a Path," Cael said, eventually, to nobody in particular, "and two people who know about all of it. This might be enough."
 
 "It's a start," Brom said.
@@ -125,7 +151,7 @@ The road continued.
 
 ---
 
-*End of Chapter 24 — approximately 2,670 words*
+*End of Chapter 24 — approximately 3,500 words*
 
 ---
 

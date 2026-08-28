@@ -2,33 +2,39 @@
 
 Lira's best bout to date happened four days before the Brom fight, and Cael watched it with the attentive pride of someone witnessing a result a full year of deliberate, difficult work had actually been building toward.
 
-Her opponent was an Iron-equivalent Wind Path practitioner named Wendel — formally trained, considerably more experienced than Lira on paper, the kind of fighter whose technique had the unhurried polish of someone who'd never once had to teach himself anything the hard way. He'd fought at the Ironyard twice before, both wins, both clean enough that Cael had filed him, months ago, as a reasonable benchmark for what proper Iron-equivalent Wind Path looked like when it hadn't been assembled from the outside in.
+Her opponent was an Iron-equivalent Wind Path practitioner named Wendel — formally trained, senior to Lira in every credential that could be written down, the kind of fighter whose technique had the settled polish of someone who'd never once had to teach himself anything the hard way. He'd fought at the Ironyard twice before, both wins, both clean enough that Cael had filed him, months ago, as a reasonable benchmark for what proper Iron-equivalent Wind Path looked like when it hadn't been assembled from the outside in. Cael had four pages on him: a fondness for three-part combinations that built speed left to right, a declaration architecture that primed a full half-beat slower on his off side, and a habit — logged across both prior bouts, eleven instances — of resetting to the same neutral stance after any exchange he judged himself to have won, as though filing the exchange away before starting the next one.
 
-The bout opened the way most of Lira's bouts had opened for the past several weeks: no probing, no careful first exchange spent gauging the room. She went at him immediately, the specific hunger she'd been cultivating since the evening she'd promised herself no more clean wins turned fully outward for the first time against an opponent who could actually make her pay for it.
+He watched this bout with the notebook open, out of habit, but the watching itself had changed since the last time he'd charted Wendel. He wasn't only tracking the fighters now. He was tracking two architectures colliding — Wendel's, formal and inherited, every declaration arriving along channels his training had dug for him; and Lira's, which had started from the same manuals and then been rebuilt, seam by seam, in a year of deliberately chosen hard fights, until the manual underneath was more foundation than blueprint.
+
+The bout opened the way most of Lira's bouts had opened for the past several weeks: no probing, no careful first exchange spent gauging the room. She went at him immediately, the hunger she'd been cultivating since the evening she'd promised herself no more clean wins turned fully outward for the first time against an opponent who could actually make her pay for it.
 
 Wendel absorbed the opening with visible surprise — not alarm, just the recalibration of someone who'd expected a more cautious Copper-equivalent opponent and was rapidly revising the assessment. He answered with a combination that would have ended most of Lira's bouts from a month ago: three-part, building speed, the kind of sequence designed to overwhelm a defender who thought in single exchanges rather than chains.
 
-She didn't think in single exchanges anymore. Cael watched her read the second beat of the combination a half-step before it landed and adjust her angle just enough to turn what should have been a clean hit into a glancing one — not damage-free, she'd carry a mark from it by evening, but not the fight-ending blow it had been built to be. She used the opening it cost her to close distance rather than retreat, which was, Cael understood watching it happen, exactly the kind of decision the old Lira — the clean-win Lira — would never have made. Retreating was safer. Closing was better.
+She didn't think in single exchanges anymore. Cael watched her read the second beat of the combination a half-step before it landed — watched her catch the off-side priming lag he'd charted months ago, the one he'd never told her about because she'd found it herself in her own study of Iron-tier Wind fighters — and adjust her angle just enough to turn what should have been a clean hit into a glancing one. Not damage-free; she'd carry a mark from it by evening. But not the fight-ending blow it had been built to be. She used the opening it cost her to close distance rather than retreat, which was, Cael understood watching it happen, exactly the kind of decision the old Lira — the clean-win Lira — would never have made. Retreating was safer. Closing was better.
 
-The middle exchanges ran long, longer than most of her recent bouts, both fighters trading real ground rather than either one settling into a controlling rhythm. Wendel adapted twice, each time finding something new to answer with; Lira adapted back both times, faster than he adjusted, the gap between his revision speed and hers widening with each exchange in a way the crowd had started, audibly, to notice.
+The middle exchanges ran long, longer than most of her recent bouts, both fighters trading real ground rather than either one settling into a controlling rhythm. Cael's pen moved almost continuously. Wendel adapted twice, each time finding something new to answer with; Lira adapted back both times, faster than he adjusted, and Cael put rough numbers to the gap because rough numbers were how he kept himself honest: Wendel's revisions arrived an exchange late, solutions to the version of Lira from one exchange ago. Hers arrived inside the exchange itself. It was the same asymmetry he'd exploited in a dozen of his own bouts, watched now from the outside, and seeing it from the outside taught him something the inside never had — how visible it was, once you knew to look. Wendel's whole difficulty could be read in his reset stance, which came a fraction later each time, the filing-away gesture growing hurried as the fights he was filing stopped resembling the ones he'd trained for.
 
-By the fifth exchange, something had shifted in the room's attention — the specific quality of a crowd that had come expecting one kind of fight and was now watching a different, better one. Wendel's guild-polished technique, which had carried him cleanly through his first two Ironyard bouts, was visibly straining against something it hadn't been built to answer: an opponent whose formal tier said Copper but whose actual technique, refined against a year of deliberately chosen hard fights, had outgrown the tier that was supposed to define its ceiling.
+By the fifth exchange, something had shifted in the room's attention — the collective lean of a crowd that had come expecting one kind of fight and was now watching a different, better one. Wendel's guild-polished technique, which had carried him cleanly through his first two Ironyard bouts, was visibly straining against something it hadn't been built to answer: an opponent whose formal tier said Copper but whose actual technique, refined against a year of deliberately chosen hard fights, had outgrown the tier that was supposed to define its ceiling.
 
 She won in the seventh exchange — not by survival, not by extracting a narrow margin from a longer opponent's single mistake, but by outright technique superiority, a clean finish that left no reasonable question in the room about who the better fighter had actually been that afternoon. Wendel went down without the theatrical collapse of someone outmatched by raw power; he went down the way a technically sound fighter goes down when someone simply reads him better than he reads them, exchange after exchange, until the accumulated gap becomes impossible to close in the time remaining.
+
+Cael's last notation of the bout, written as the crowd noise rose around him, was not about Wendel at all: *She fights the fight in front of her. He fought the fight he trained for. That's the entire margin, and no Arbiter has ever had a field for it.*
 
 She'd been fighting without holding back since the afternoon she'd decided to stop, months before, and it showed in a way that had become undeniable to anyone paying attention. The Ironyard noticed. Dace, watching from his usual position near the scheduling board, crossed the floor to speak to her almost before the crowd had finished its reaction.
 
 "You want a higher circuit rating?"
 
-She glanced at Cael, an old habit rather than a genuine request for permission. He gave her nothing — no opinion, no nudge either direction, the specific deliberate neutrality of someone who understood this decision belonged entirely to her.
+She glanced at Cael, an old habit rather than a genuine request for permission. He gave her nothing — no opinion, no nudge either direction, the deliberate neutrality of someone who understood this decision belonged entirely to her.
 
 She looked back at Dace. "Yes."
 
 ---
 
-It mattered more than the exchange's brevity suggested. Lira was building her own record now, visibly independent of whatever arc Cael's own strange trajectory was tracing through the circuit — the Ironyard doing, without any formal mechanism at all, what the Compact's classification system had failed to do three years before: seeing her clearly, for exactly what she'd become, rather than for what a single Kindling evaluation had decided she was.
+It mattered more than the exchange's brevity suggested, and not only in the ways that could be felt. Cael, who had spent a year learning the circuit's economics the way he learned everything — by counting — could have itemized the practical weight of it: a provisional Iron-equivalent rating changed which bouts Dace could schedule her into, and the bouts changed the purses, and the purses changed the arithmetic of two rooms in a practitioners' boarding house where rent was paid by people who earned with their bodies and healed on their own time. An Iron-equivalent name on the board drew a bigger crowd; a bigger crowd meant the vendors outside sold through their stock; some measurable fraction of the district's evening economy adjusted itself, without ceremony, around the fact of one fighter refusing to stay under a ceiling.
 
-They walked home slower than usual that evening, her leg stiffening where Wendel's combination had caught it, neither of them in any particular hurry to reach the boarding house.
+But the deeper weight was simpler. Lira was building her own record now, visibly independent of whatever arc Cael's own strange trajectory was tracing through the circuit — the Ironyard doing, without any formal mechanism at all, what the Compact's classification system had failed to do three years before: seeing her clearly, for exactly what she'd become, rather than for what a single Kindling evaluation had decided she was.
+
+They walked home slower than usual that evening, her leg stiffening where Wendel's combination had caught it, neither of them in any hurry to reach the boarding house.
 
 "You've been holding that ceiling since before I met you," Cael said, eventually.
 
@@ -44,7 +50,7 @@ Cael considered this honestly, matching her slower pace. "Every time I confirm s
 
 "Might be both. I've noticed those aren't always as different as people assume."
 
-She almost smiled at that, tired and satisfied in the specific way of someone who'd spent a year earning exactly this kind of exhaustion. "Dace is going to have me fighting Silver-equivalent names within the month. I can feel it coming."
+She almost smiled at that, tired and satisfied in the way of someone who'd spent a year earning exactly this kind of exhaustion. "Dace is going to have me fighting Silver-equivalent names within the month. I can feel it coming."
 
 "You'll be ready."
 
@@ -52,7 +58,23 @@ She almost smiled at that, tired and satisfied in the specific way of someone wh
 
 ---
 
-Vell's ledger entry that evening, which Cael saw days later when she finally let him look through a stretch of recent pages, ran longer than her usual clipped notation:
+The next morning she trained lightly, minding the leg, which left Cael the alcove and two hours he'd already planned how to spend.
+
+The Brom preparation had taught him something about his own fragments that deserved testing while the observation was still fresh: that the Wind-adjacent burst cost less when it was deployed off a read instead of a reaction. He built a drill for it, because building drills was what he did with hypotheses about himself. Six markers chalked on the alcove floor at uneven spacings. A sequence memorized, then deliberately half-forgotten, so that some transitions arrived expected and some didn't. He ran the circuit twenty times: burst to the next marker on his own decision, then burst on a cue he gave himself as late as he could stand, and afterward sat against the wall and compared what his legs reported.
+
+The report was consistent with the bout evidence. An informed burst — one his balance had already prepared for, weight organized before the step was asked of it — drew off the top of his strength. A reactive burst, forced from an unprepared stance, drew from the bottom, the deep reserve that didn't refill inside a single fight. Same distance covered. Meaningfully different price. He wrote it up as the first genuine revision to the Wind-adjacent entry in months:
+
+*Deployment cost varies with preparation state, not just frequency. Read-first movement is sustainable across a long bout; reaction-first movement isn't. Practical implication: the observation work isn't separate from the fragment work. The compound gaze is what makes the step affordable. They were never two systems.*
+
+He gave the second hour to Pressure-adjacent, more cautiously, because Pressure-adjacent punished carelessness in ways Wind never had. The open question in its log entry had stood for months: upper limit under sustained conditions unknown. He wasn't willing to find the limit by crossing it — the memory of the second wrist sprain was instruction enough — so he worked the approach instead, laddering amplified strikes against the alcove's padded post at a fixed count and interval. Two per exchange-length, rest, then three. At three, the familiar accounting: the hollowness under the ribs arriving sooner, the fourth strike's amplification thinner than the third's even to his own senses. He stopped there, on the near side of the line, and logged the boundary rather than the crossing:
+
+*Three amplified deployments per sustained sequence is the working ceiling. The fragment doesn't fail past it — I do. The draw is fine; the reservoir is the constraint. Whatever this costs, it costs it from the same account that keeps my breathing organized, and a fight can't be won breathing from an empty account. Ceiling noted. Do not test the far side of it in a bout I care about.*
+
+It was unglamorous work, and he was aware, chalk dust on his hands, of how it would have looked to anyone from his old life in Denvash — a boy alone in a stone alcove, running between marks, hitting a post, sitting down to write about it. It looked like nothing. It was, he had come to believe, most of everything. The fragments had arrived on their own terms, unasked for, unexplained. What they became was decided here, in the counting.
+
+---
+
+Vell's ledger entry from Lira's bout, which Cael saw days later when she finally let him look through a stretch of recent pages, ran longer than her usual clipped notation:
 
 *Lira. Assessed-Copper, high range, requesting reclassification review. Bout vs. Wendel (Iron-equivalent, formal), win by exchange-seven technique superiority. Recommend elevation to provisional Iron-equivalent pending two further confirming bouts. Note: this fighter's actual capability has been ahead of her circuit rating for some months. The delay was mine, not hers — I wanted more data before I moved the number, and in hindsight I should have trusted what I was already seeing.*
 
@@ -64,23 +86,23 @@ He mentioned it to Lira, who read the entry twice, something working behind her 
 
 "She did."
 
-"That matters more than the rating change, honestly." Lira closed the ledger page carefully, the way she'd started handling anything of Vell's since the tour of the archives months before — a specific, learned respect for records that had earned their weight the hard way. "I spent months at an academy where nobody ever once admitted they'd underestimated me. Not even after I proved them wrong. They just quietly stopped mentioning the original assessment, like not saying it out loud made it not have happened."
+"That matters more than the rating change, honestly." Lira closed the ledger page carefully, with the learned respect she'd brought to anything of Vell's since the tour of the archives months before — a respect for records that had earned their weight the hard way. "I spent months at an academy where nobody ever once admitted they'd underestimated me. Not even after I proved them wrong. They just quietly stopped mentioning the original assessment, like not saying it out loud made it not have happened."
 
 "Vell's different."
 
 "Vell's the first person with any real authority over how I'm measured who's ever said, in writing, that she got it wrong before she got it right." She handed the ledger back. "I didn't know how much I needed someone to say that until she did."
 
-Cael filed the exchange away — not in the observation notebook, which was for opponents, and not quite in the Power Log either, which was for his own architecture. He'd started, sometime over the past year without formally deciding to, keeping a third category in the back of his mind that never made it onto any page: the specific, growing list of moments that told him Ardenmere had actually become the thing Hesk's notebook had once promised him he might eventually find, if he was patient and careful and willing to build it himself rather than wait for it to be handed to him.
+Cael filed the exchange away — not in the observation notebook, which was for opponents, and not quite in the Power Log either, which was for his own architecture. He'd started, sometime over the past year without formally deciding to, keeping a third category in the back of his mind that never made it onto any page: the growing list of moments that told him Ardenmere had actually become the thing Hesk's notebook had once promised him he might eventually find, if he was patient and careful and willing to build it himself rather than wait for it to be handed to him.
 
-Brom watched her bout from the crowd, arms crossed, his own particular economical attention fixed on her the entire time.
+Brom watched her bout from the crowd, arms crossed, his economical attention fixed on her the entire time.
 
-Afterward, he found Cael near the edge of the crowd, and said, without preamble, the way he said most things: "She's going to hit Silver-tier before she's done."
+Afterward, he found Cael near the edge of the crowd, and said, without preamble, in his usual fashion: "She's going to hit Silver-tier before she's done."
 
 "I know."
 
 "She knows it too."
 
-"She won't say it like that, though. Not yet. She'll say something smaller and mean the same thing." Cael watched Lira across the floor, accepting the small crowd of well-wishers with the specific brisk impatience of someone who wanted the congratulations finished so she could get back to work. "She's been carrying that particular ceiling since before I met her. Today's the first time I've watched it actually crack instead of just bend."
+"She won't say it like that, though. Not yet. She'll say something smaller and mean the same thing." Cael watched Lira across the floor, accepting the small crowd of well-wishers with the brisk impatience of someone who wanted the congratulations finished so she could get back to work. "She's been carrying that ceiling since before I met her. Today's the first time I've watched it actually crack instead of just bend."
 
 Brom considered this. "You care about her a great deal."
 
@@ -90,7 +112,7 @@ Brom considered this. "You care about her a great deal."
 
 "No," Cael agreed, unbothered by the observation. "Not that way. A different way. The kind where you'd rearrange most of your plans around making sure someone else's ceiling actually breaks, and not think of it as a sacrifice at all."
 
-"I understand that kind." Brom said it simply, without elaborating further, and Cael didn't ask him to. There was something in the way he said it that suggested a comparison to his own family — the specific, complicated shape of caring about people whose expectations for you didn't match what you actually were — that he wasn't yet ready to unpack aloud, and Cael, who understood exactly that kind of reluctance from the inside, let it sit without pressing.
+"I understand that kind." Brom said it simply, without elaborating further, and Cael didn't ask him to. There was something in how he said it that suggested a comparison to his own family — the complicated shape of caring about people whose expectations for you didn't match what you actually were — that he wasn't yet ready to unpack aloud, and Cael, who understood exactly that kind of reluctance from the inside, let it sit without pressing.
 
 A silence settled between them, not uncomfortable, the companionable quiet of two people who'd already decided, mostly without discussing it, that they respected each other's judgment. It was, Cael realized afterward, turning the moment over on the walk home, the first real conversation between them that hadn't been organized around their scheduled fight — no tactics, no Iron Skin, nothing but a shared, genuine assessment of someone they both cared about, in their different ways.
 
@@ -108,7 +130,7 @@ Cael thought about the question longer than its size seemed to warrant, aware th
 
 "Fifteen, now. And I didn't exactly choose the timeline. It chose me, and I decided I'd rather be the one doing the understanding than the one being understood at, by people who've already made up their minds about what the answer should be."
 
-Brom nodded slowly, something settling into place behind his expression — not agreement exactly, but the specific recognition of someone who'd found, in a stranger's answer, something close enough to his own reasons that the distance between them had just gotten meaningfully smaller. "I left Velmere for something adjacent to that. Not identical. But adjacent."
+Brom nodded slowly, something settling into place behind his expression — not agreement exactly, but the recognition of someone who'd found, in a stranger's answer, something close enough to his own reasons that the distance between them had just gotten meaningfully smaller. "I left Velmere for something adjacent to that. Not identical. But adjacent."
 
 "I know. You said as much, without saying it directly."
 
@@ -118,7 +140,7 @@ Brom nodded slowly, something settling into place behind his expression — not 
 
 "Good." Brom turned to leave, then paused, glancing back with the same economical directness he'd used the day he'd first introduced himself. "There are problems I don't expect to solve in a single sitting. I don't think I'll solve you in one fight, either. I don't expect to. I just want to see what the first real attempt looks like."
 
-He left before Cael could formulate a response — the same clean, unhurried exit Cael had come to associate with him, three steps and gone, leaving behind considerably more to think about than the sentence count would have suggested.
+He left before Cael could formulate a response — the same clean exit Cael had come to associate with him, three steps and gone, leaving behind a good deal more to think about than the sentence count would have suggested.
 
 ---
 
@@ -128,11 +150,11 @@ Brom looked at him with the directness that had become, over two weeks, familiar
 
 "Yes."
 
-Brom considered the question seriously, the way he considered most things, turning it over with the same patient attention he brought to a training combination he hadn't fully mastered yet. "Something I've never seen before."
+Brom considered the question seriously, as he considered most things, turning it over with the same patient attention he brought to a training combination he hadn't fully mastered yet. "Something I've never seen before."
 
 "That's not useful."
 
-"It is, if you understand what I mean." He said this without impatience, working through the explanation with the same careful precision he brought to his own technique — the specific unhurried thoroughness of someone who genuinely wanted to be understood rather than simply heard. "I've read Gold-tier practitioners. Silver-tier, plenty of Copper. I've read off-Path competitors doing things their formal training never intended, and I've read people training abilities they hadn't formally declared yet, working around a system that hadn't caught up to what they were actually capable of. Every one of those, I have a category for. A shape my training gave me to slot the reading into, even if the specific practitioner surprised me." He paused, choosing the next part carefully. "What I read from you — I don't have a category for it at all. That's what I mean when I say something I've never seen before. It's not a description of intensity, like you're simply stronger or stranger than anything I've encountered. It's a description of absence. The absence of any bucket my training has ever given me to put you in. Reading you is like reaching for a shelf that isn't there."
+"It is, if you understand what I mean." He said this without impatience, working through the explanation with the same careful precision he brought to his own technique — the thoroughness of someone who genuinely wanted to be understood rather than simply heard. "I've read Gold-tier practitioners. Silver-tier, plenty of Copper. I've read off-Path competitors doing things their formal training never intended, and I've read people training abilities they hadn't formally declared yet, working around a system that hadn't caught up to what they were actually capable of. Every one of those, I have a category for. A shape my training gave me to slot the reading into, even if the specific practitioner surprised me." He paused, choosing the next part carefully. "What I read from you — I don't have a category for it at all. That's what I mean when I say something I've never seen before. It's not a description of intensity, like you're simply stronger or stranger than anything I've encountered. It's a description of absence. The absence of any bucket my training has ever given me to put you in. Reading you is like reaching for a shelf that isn't there."
 
 "Does that concern you? Fighting something you can't categorize."
 
@@ -180,7 +202,7 @@ Lira turned this over, unsurprised by the answer — she'd clearly arrived at so
 
 "The rest is that you're not actually doing this alone, whatever the notebooks might suggest. You've got Hesk writing you letters full of things he learned the hard way so you wouldn't have to learn them the same way. You've got Vell handing you thirty years of her own hard-won judgment because she decided you'd earned the trust. You've got me, for whatever that's worth. And now you've got Brom, who apparently finds the whole strange shape of you more interesting than frightening, which is rarer than either of us probably deserves to have found twice." She bumped his shoulder with hers, the old, easy gesture that had survived a year of circuit bruises and late nights and everything in between. "You're building an understanding of yourself. You're just not building it by yourself. I think that distinction matters more than the version you told Brom."
 
-Cael sat with this for a long moment, the specific quiet settling of something true finding its proper place. "You're right," he said, finally. "I should have said that instead."
+Cael sat with this for a long moment, the quiet settling of something true finding its proper place. "You're right," he said, finally. "I should have said that instead."
 
 "You'll get another chance to say it better. You usually do." She stood, offering him a hand up, mindful of her own leg as she did it. "Come on. Whatever happens in two days, you're not facing it as thin as you were fourteen months ago, standing at a gate with a bag and no idea what came next. Remember that, if tomorrow — the day after tomorrow — goes worse than you're hoping."
 
@@ -188,4 +210,4 @@ He remembered it. It helped, more than he expected it to, walking back inside wi
 
 ---
 
-*End of Chapter 10 — approximately 3,780 words*
+*End of Chapter 10 — approximately 4,800 words*

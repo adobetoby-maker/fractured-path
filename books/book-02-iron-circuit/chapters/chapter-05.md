@@ -4,6 +4,8 @@ Lira's circuit rating had settled, over the past several months, into a shape th
 
 It was, by any circuit measure, an excellent result. It was also, Cael understood without needing her to say it directly, not the actual thing she wanted — a fact he'd absorbed slowly, over weeks of watching her train with a focus that had started to look less like discipline and more like something closer to hunger.
 
+He had a baseline for her, which was the thing that made the watching legible. A year of mornings had given him the most complete observational record he kept on anyone — not written down, most of it, because writing down a friend felt different from writing down an opponent, but held the same way: her resting rhythm between combinations, the exact economy of her resets, the tell she didn't know she had when a drill stopped teaching her and became stubbornness instead (her jaw set a fraction forward; her reset time shortened when it should have lengthened). Watching a stranger, he had to build the picture from nothing, four bouts and three columns. Watching Lira, he only had to watch the deviations — and the deviations, lately, had all pointed the same direction. Longer sessions. Shorter rests. The paid drills with her Bronze-tier washout partner running past their agreed hour, which cost her extra and which she paid without mentioning.
+
 The alcove was quiet by the time he found her that evening, the Ironyard's main floor already handed over to the night's last scheduled bout, its noise a distant murmur through the warehouse's old walls. Someone had left a lamp burning low near the practice post, casting Lira's shadow long and doubled across the packed dirt, stretching and contracting each time she reset her stance. She was running the same combination over and over, alone now — her formal training partner, a Bronze-tier washout who sparred with her twice a week for a modest fee, had already packed up and gone home to whatever life he kept outside these walls.
 
 She hadn't noticed Cael come in, or had noticed and decided not to break stride for it, which amounted to the same thing this late in a training session, when stopping cost more than it was worth. Sweat had darkened the collar of her shirt through, and her breathing had the ragged, controlled rhythm of someone well past the point where the drill was still teaching her anything new and had become, instead, a kind of stubbornness applied to her own body.
@@ -16,13 +18,15 @@ He sat on the low bench along the wall and watched for a while before saying any
 
 "What's the problem."
 
-She finished the combination before answering, precise and controlled, the kind of technique that had visibly sharpened over the past year in ways that had nothing to do with fragments or borrowed instinct and everything to do with simple, accumulated work — the specific, unglamorous kind of progress Cael had come to respect more than almost anything else he'd watched happen in Ardenmere, because nothing about it had arrived by accident.
+She finished the combination before answering, precise and controlled, the kind of technique that had visibly sharpened over the past year in ways that had nothing to do with fragments or borrowed instinct and everything to do with simple, accumulated work — the unglamorous kind of progress Cael had come to respect more than almost anything else he'd watched happen in Ardenmere, because nothing about it had arrived by accident.
 
 "Copper-tier has a ceiling," she said, finally. "Not a circuit ceiling — an actual formal one. To advance past what Copper training can produce, I need a formal Arbiter advancement evaluation. Which requires guild affiliation. Which requires certification clearance I don't have, because I got expelled before I could ever earn it properly."
 
 Cael turned this over, understanding the shape of it even though the mechanism itself was new information. "You've been working around it."
 
 "Trying to. Watching Iron-tier Wind practitioners from the outside, deriving what I can from the physical evidence of what they do in bout — the declarations I can't formally access, reverse-engineered from watching enough of them happen." She said this with the flat, practiced tone of someone reciting a strategy she'd examined thoroughly enough to have found its own limits. "It's partly working. It's not enough. I can approach the gap from the outside. I can't actually arrive at it. The Arbiter hasn't given me the formal architecture, and watching alone doesn't manufacture what it never granted."
+
+He registered, hearing it laid out plainly, how strange a mirror the two of them made. Her method and his were the same method — watch from outside, derive the architecture from the physical evidence, build what you weren't given. The difference was what happened at the end of the watching. His watching, for reasons neither of them understood, eventually *arrived* — became a fragment, became his, fingerprints and all. Hers approached forever and never crossed. She was doing everything he did, better in some respects, with more formal understanding of what she was looking at — and the door that opened for him without his asking stayed shut for her no matter how correctly she knocked. He kept the observation to himself. It wasn't useful to her, and tonight it would have been worse than not useful.
 
 "How do you know the gap's real, and not just slow progress?"
 
@@ -72,6 +76,8 @@ She looked at him, something sharp crossing her expression. "I don't hold back."
 
 "You've been holding back." It wasn't a question, and he didn't soften it into one.
 
+He had the evidence, if she'd demanded it, because he'd been assembling it for weeks without admitting to himself what it was for. Her last six wins, watched from the crowd's edge with the same attention he gave anyone: in every one, she'd had a faster, riskier line available and had declined it. He'd timed her decision points against his breath-count, and the pattern held across all six — at each branching moment, she took the option that protected the win over the option that tested the technique. Against Iron-equivalent opponents, that choice was always available to her, because her reads were good enough to see both branches. That was precisely what made it holding back. A fighter who couldn't see the risky line wasn't declining anything. She saw it every time, and every time she paid for certainty with information, and the ledger recorded the certainty and nobody recorded the price.
+
 She was quiet for a long moment, working through whether to argue the point or admit it. "I've been winning cleanly," she said, finally, slowly, as though testing the sentence for the first time. "Winning cleanly and learning aren't the same thing."
 
 "No. They're not."
@@ -94,6 +100,8 @@ By Lira's old standard, the bout would have gone one of two ways: a careful, pat
 
 Cael watched from the crowd's edge, notebook closed for once, entirely absorbed in watching rather than recording.
 
+Closed, but not idle. He was running the bout through his method anyway, because the method no longer required the pen — and watching Lira against a formally trained Wind practitioner was the richest comparative data the circuit had offered him in months. Dravin fought the technique as written: every evasion initiated from the same textbook load, every declaration arriving inside the same tempo his training had installed, a man performing an excellent copy of his instruction. Lira fought the technique as discovered — and the difference showed in the deviations. Dravin never surprised himself. Lira, pressing lines she'd always declined, surprised herself twice in the first three exchanges, and Cael could see her *harvesting* the surprises in real time, each one visibly banked mid-fight, the exact behavior he performed on a notebook page executed instead at full speed inside an exchange. It was costing her. That was the other thing he could see, and it sat in his chest with a weight that watching strangers never produced: every piece of information she bought, she bought with her own body, and he had to hold himself still on the bench each time the purchase went through.
+
 The middle of the fight ran uncertain in a way he hadn't seen from her in months — not out of control, exactly, but genuinely searching, adjusting mid-exchange to information she was only just discovering rather than executing a plan built from careful advance study. Dravin, for his part, seemed to sense the shift and pressed his own advantage, a combination in the fourth exchange that would have ended most of her recent bouts cleanly.
 
 She read it late. Not late enough to avoid it entirely — the hit landed, hard, along her ribs, a sound Cael felt more than heard from where he stood — but late enough, and read well enough in the half-second she had, that she turned what should have been a finishing blow into something she could actually absorb and answer. She didn't finish the answer in time. Dravin closed it out in the sixth exchange, clean, decisive, the kind of win that left no argument in the room about who'd actually taken the bout.
@@ -106,13 +114,17 @@ She was smiling when Vell recorded the loss.
 
 "I learned four things in that fight I didn't know this morning. I learned one thing in my last six wins combined." She said this with genuine satisfaction, wincing as she tested her weight on the leg. "Worth it."
 
+The economics of it interested him too, in the cool second register his mind kept running whether or not the moment called for it. The loss paid her the loser's share — three marks against the winner's eight — which meant her new policy had a measurable cost in coin as well as bruises: five marks per lost bout, plus her partner's fees, plus the slower drag of a dipping record on the quality of purses Dace could book for her. She'd priced all of it, he was fairly sure, before her first pressed exchange. It was the same trade he'd written into the Power Log two weeks ago in different clothing — *information over comfort, paid in advance, at posted rates.* The betting corner adjusted faster than the ledger did. Within two bouts, he overheard the large-wager man quoting longer odds on her wins and shorter odds on her bouts *lasting* — the market had noticed, before most of the room, that whatever she was doing now produced longer fights and stranger endings, and had repriced her accordingly. Even the gamblers' arithmetic understood her better than the Compact's registry did.
+
 The bout after that went better, and Cael watched this one with the same close attention he'd have given a genuinely difficult opponent of his own, because something about the way Lira fought when she wasn't holding anything back had started to teach him things even his own methodical study of strangers rarely produced.
 
 Her opponent that day was faster than Dravin had been, a younger Iron-equivalent competitor with a reputation for controlling the pace of a fight from the opening exchange onward. He tried to do exactly that. Lira let him, for one exchange — conceding the rhythm deliberately, the way Cael himself had once conceded a fight's early tempo to Dessa, watching rather than fighting — and then, in the second exchange, did something Cael hadn't seen from her before: she matched his pace exactly, beat for beat, close enough that the crowd's murmur shifted audibly, the specific sound of an audience realizing a fight had stopped being predictable.
 
+Cael, counting, put the matching at exact — not approximate, exact, her commitments landing inside his opponent's own intervals with less slack than Cael could measure by breath. It was a capability he hadn't known she had, and he suspected she hadn't either, because it was precisely the kind of thing her old careful fighting would never have needed: pace-matching only mattered when you were close enough to the fire to be burned by it, and she'd spent months arranging never to be. Three exchanges of full commitment had surfaced more of her actual ceiling than a season of clean wins. He filed the general law with the care it deserved: *capabilities live above the risk line. A fighter operating below it can train forever and never meet their own tools.*
+
 By the fourth exchange, her opponent had adjusted twice and was visibly out of adjustments. She closed it in the fifth with a combination built from a piece of his own rhythm turned back against him — not a technique Cael recognized from any of her prior bouts, something new, assembled in real time out of whatever the fight itself had handed her.
 
-She won, but the margin was narrow, sweat-soaked, considerably more informative than her old clean victories had ever managed to be. Cael understood, watching her walk off the floor afterward, that this was the actual shape of what she'd been chasing — not the win itself, but the specific, hard-won knowledge that had made the win possible, knowledge no amount of cautious, controlled fighting could ever have produced.
+She won, but the margin was narrow, sweat-soaked, and more informative than her old clean victories had ever managed to be. Cael understood, watching her walk off the floor afterward, that this was the actual shape of what she'd been chasing — not the win itself, but the hard-won knowledge that had made the win possible, knowledge no amount of cautious, controlled fighting could ever have produced.
 
 The bout after that, she lost again, hard, and came home with a bruise along her ribs that made her wince climbing the boarding house stairs and a smile that didn't dim for it at all.
 
@@ -144,6 +156,8 @@ Vell studied him for a moment, something almost fond in her weathered expression
 
 What it was purchasing became undeniable within a month. The sophistication of what she was doing between exchanges — the reads, the adjustments, the growing catalogue of things she now understood about Iron-equivalent Wind technique from the inside rather than from careful observation at a remove — accelerated faster than her formal rating could keep pace with. She was, by every measure that actually mattered, no longer approximating Iron-tier technique from the outside. She was simply doing it, unofficially, one hard-won exchange at a time.
 
+He could chart the acceleration in his own training sessions with her, which was where it reached him most directly. The morning drills changed texture week by week: angles arriving from her that had no precedent in a year of shared mornings, corrections offered to him in a new vocabulary — she'd started talking about commitment windows and recovery debts, concepts she was clearly importing from her own bouts still warm — and, once, an evasion she demonstrated that his Wind-adjacent fragment *recognized*, a low pivot-and-break he'd never seen her use and that nonetheless rang against something in his hips like a word he almost knew. He noted that in the Power Log with double underlining and no conclusion. The fragment had come from watching her a year ago. She was no longer the fighter he'd watched. What that meant for what he carried — whether a fragment's source going on growing meant anything at all for the copy — was a question he had no way to test and no intention of forgetting.
+
 "You look worse," Cael told her, honestly, after one particularly rough bout that had left her favoring one leg for the walk home, a shallow cut along one forearm she hadn't bothered to properly bandage yet.
 
 "I feel better," she said, and meant it, the satisfaction of someone finally doing the actual work rather than a comfortable approximation of it plain in her voice.
@@ -152,7 +166,7 @@ What it was purchasing became undeniable within a month. The sophistication of w
 
 "Don't get smug about it." But she was smiling when she said it, tired and bruised and genuinely pleased with herself in a way that had been missing from her circuit results for longer than either of them had noticed until this stretch of deliberately messy weeks made the absence visible by contrast.
 
-She sat down beside him on the boarding house steps that evening, both of them nursing the specific tiredness of a long day of training layered over an even longer stretch of deliberate risk, and for a while neither of them said anything at all — the comfortable kind of quiet, worn smooth by a year of sharing it.
+She sat down beside him on the boarding house steps that evening, both of them nursing the tiredness of a long day of training layered over an even longer stretch of deliberate risk, and for a while neither of them said anything at all — the comfortable kind of quiet, worn smooth by a year of sharing it.
 
 "Can I ask you something," Cael said, eventually.
 
@@ -166,7 +180,7 @@ Lira considered the question with real seriousness, turning it over the way she 
 
 "I don't think of it as revenge, exactly." She considered this too, working through the distinction with the same care she brought to everything that actually mattered to her. "Revenge wants them to suffer for what they did. I don't particularly want that — I don't think about them often enough to want much of anything for them, honestly, except maybe the specific discomfort of being wrong in a way they can't quietly file away. What I actually want is simpler. I want to become the thing they said I couldn't be. That's not about them anymore, not really. It just started there."
 
-Cael turned this over, recognizing, underneath the specific details of guild expulsion and circuit ratings, something close to his own shape — a system that had drawn a small, wrong box around a person and called the box the whole truth, and a person deciding, deliberately and at real cost, to become too large for the box rather than argue with its walls.
+Cael turned this over, recognizing, underneath the details of guild expulsion and circuit ratings, something close to his own shape — a system that had drawn a small, wrong box around a person and called the box the whole truth, and a person deciding, deliberately and at real cost, to become too large for the box rather than argue with its walls.
 
 "I think you're going to get there," he said, plainly, because it was true and because he'd learned, over a year, that Lira trusted plain statements more than elaborate encouragement.
 
@@ -182,8 +196,10 @@ He wrote it in the observation notebook that night, not as tactical data but as 
 
 *Lira learned to lose usefully. Watching her do it is teaching me something about my own method that watching opponents never has — that the information was always available at this cost, and I've been paying a version of it too, for a year, without fully naming what I was buying with it.*
 
+*Method notes, because they belong somewhere: capabilities live above the risk line — she found pace-matching only after she started fighting close enough to need it. Six clean wins produced one useful fact; one pressed loss produced four. The exchange rate on comfort is terrible and nobody posts it. And her fighting has moved past the version of her I watched a year ago, which means the thing I carry is a copy of someone who no longer exists. I don't know yet whether that matters. I know it's the kind of fact that will matter eventually, on a day I can't currently predict.*
+
 *She wants to become undeniable. I understand that want better than I've let myself admit. I think I want something adjacent to it, though I haven't found the right word for mine yet either. Maybe that's what this whole notebook has actually been — a slow, patient argument against a box someone else drew, built one entry at a time until the box simply stops fitting anymore.*
 
 ---
 
-*End of Chapter 5 — approximately 3,840 words*
+*End of Chapter 5 — approximately 5,100 words*
