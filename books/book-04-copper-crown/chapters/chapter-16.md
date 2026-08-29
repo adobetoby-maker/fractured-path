@@ -112,7 +112,7 @@ The first was ordinary — a Fourth-day lecture, the second hour, a hall too war
 
 The second was in hall three, in a supervised session, on a floor, with a wing observer at the rail.
 
-The wing sent an observer to two of his four weekly sessions — that was the provision's ordinary machinery, the evaluation-linked floor time that had to be evaluation-linked by somebody — and the observer sat at the north rail with a board and wrote down what she saw and had done so, without incident, for four months. Cael was working a redirect sequence with Brom at half intensity when it happened, and it happened, he worked out afterward, at exactly the point his attention went fully onto the sequence and off his own edges.
+The wing sent an observer to two of his four weekly sessions — that was the provision's ordinary machinery, the evaluation-linked floor time that had to be evaluation-linked by somebody — and the observer sat at the north rail with a board and wrote down what she saw and had done so, without incident, for half a year. Cael was working a redirect sequence with Brom at half intensity when it happened, and it happened, he worked out afterward, at exactly the point his attention went fully onto the sequence and off his own edges.
 
 Two seconds. Maybe three.
 
@@ -206,7 +206,7 @@ The third carriage was last, and it was the plainest of the three, and Cael unde
 
 The count came back wrong.
 
-That was the only way he could put it, then or that night. He had been counting arrivals and rooms and corridors for two years; he had built an instrument that measured where attention went and had run it on four hundred people a day for four months and had used it to find a professional whose entire trade was not being found. The instrument had never once failed to return a number.
+That was the only way he could put it, then or that night. He had been counting arrivals and rooms and corridors for two years; he had built an instrument that measured where attention went and had run it on four hundred people a day for six months and had used it to find a professional whose entire trade was not being found. The instrument had never once failed to return a number.
 
 It returned three numbers here and all of them contradicted each other.
 
@@ -226,7 +226,7 @@ And in the middle of the two seconds his gaze crossed the upper tier, and it cro
 
 Cael stood at the rail with his hands on the stone and did the read that he had done to every watcher the Compact had ever sent him — Coss on a Denvash road, Coss in an Ardenmere gymnasium, Havel in a corridor with too-new boots, the resourced rotations on the Greyvane road who had followed them down every mile and let themselves be counted, a teaching assistant at the north end of a rail four bodies in from the stair — and he got nothing.
 
-Not concealment. He knew concealment; he had spent four months charting a man who did it professionally and had learned to find the shape of the hole. There was no hole here. There was a man crossing a courtyard, and every ordinary channel Cael had was open and reporting, and what they reported was a man crossing a courtyard.
+Not concealment. He knew concealment; he had spent six months charting a man who did it professionally and had learned to find the shape of the hole. There was no hole here. There was a man crossing a courtyard, and every ordinary channel Cael had was open and reporting, and what they reported was a man crossing a courtyard.
 
 "What," said Lira, at his shoulder.
 
@@ -238,7 +238,7 @@ It took him a moment to answer.
 
 "That one crossed a courtyard," Cael said.
 
-He ran the instruments anyway, all of them, in the ninety seconds he had, because a read that returns nothing is only a finding if you have actually taken it. Rhythm: even, no variation between the step down and the step across, which told him the man was not tired and not hurried and nothing else. Weight: settled, low, entirely undeclarative — no Path in it that Cael could name, from a body that had certainly held one for forty years. Attention: and this was the one that stopped him, because he had four months of practice measuring where other people's attention went and had never once thought to measure where a single man's own attention went, and the answer was *everywhere at the same rate*. The roofline got the same two seconds as the door. The tiers got the same two seconds as the roofline. An empty bench got what Cael got.
+He ran the instruments anyway, all of them, in the ninety seconds he had, because a read that returns nothing is only a finding if you have actually taken it. Rhythm: even, no variation between the step down and the step across, which told him the man was not tired and not hurried and nothing else. Weight: settled, low, entirely undeclarative — no Path in it that Cael could name, from a body that had certainly held one for forty years. Attention: and this was the one that stopped him, because he had six months of practice measuring where other people's attention went and had never once thought to measure where a single man's own attention went, and the answer was *everywhere at the same rate*. The roofline got the same two seconds as the door. The tiers got the same two seconds as the roofline. An empty bench got what Cael got.
 
 That was not indifference. Indifference had a shape and the shape was carelessness, and there was no carelessness anywhere in it. It was a man sampling a place evenly on purpose, the way you take a measurement across a whole surface rather than at the point you already suspect, so that the reading comes back clean and the surface never learns which part of it you cared about.
 
