@@ -90,7 +90,7 @@ Ilsev read it once and set it down and put her hands flat on the table on either
 
 She had filed that referral in a room at a small academy in a cold month, in the second hour of a review she had conducted the way she conducted every review, and she had filed it because a designation had been sitting in a priority field that matched no monitoring level the Compact had ever issued to her or to anybody she had trained. She had filed it as a query, at the lowest temperature the form permitted, because she had assumed — and she remembered assuming it, and remembered the exact quality of the assumption, which was the mild irritation of a professional anticipating a clerical answer — that some office three doors from hers would write back a paragraph explaining a legacy convention, and she would read the paragraph and think *ah,* and never think about it again.
 
-Eighteen months.
+Fourteen months.
 
 She read the sheet a second time, in the sequence she read anything: the operative sentence, then the sentences around it, then the operative sentence again against them.
 
@@ -128,7 +128,7 @@ Return, in. Referral, out, escalated one level, with its cross-reference to the 
 
 He read the return while he logged it, because a records officer who does not read what he logs is a clerk with better boots.
 
-He had read the original referral eighteen months ago too, at a hearing, from three feet away, and had watched the senior evaluator who filed it read a designation three times before turning the page — not to check it, because she had already checked it, but the way a person rereads a sentence in a language they are certain they speak.
+He had read the original referral fourteen months ago too, at a hearing, from three feet away, and had watched the senior evaluator who filed it read a designation three times before turning the page — not to check it, because she had already checked it, but the way a person rereads a sentence in a language they are certain they speak.
 
 He finished the session at the seventh bell, carried the block down to the delegation's working room, ate at the refectory's late sitting because the guest table had been given to counsel and two clerks who wanted to argue about the afternoon, and went up.
 

@@ -1,6 +1,6 @@
 # Chapter 11 — Omission
 
-The apparatus in hall three's north bay was called a resistance post, and Cael had priced it in his first fortnight the way he priced everything, and had concluded that it was the best-designed object at Halcenvane and the one most likely to hurt somebody.
+The apparatus in hall three's north bay was called a resistance post, and Cael had priced it in his first fortnight as he priced everything, and had concluded that it was the best-designed object at Halcenvane and the one most likely to hurt somebody.
 
 It was a padded column, chest-high, set into a floor plate, with a graduated core that could be wound to any of nine settings. A Force practitioner declared against it and the core took the delivered force and converted it into rotation against a calibrated drag, and a dial on the far side gave a number, and the number went in a ledger, and over a term you got a curve of a practitioner's delivery that no instructor's eye could have produced.
 
@@ -22,7 +22,7 @@ The instructor — the one he had had in the standing eight for a fortnight in t
 
 And in the north bay, at the resistance post, was a Force Path third-year named Jask, working through his own term curve at the seventh setting.
 
-Cael had a page on him. He had a page on everybody in the bracket and Jask was in the bracket, at Copper Rank 12, sixteenth in the standings, a wide-shouldered young man with an honest and rather slow delivery and a habit of over-committing in the third quarter of any session because he got competitive with his own dial.
+Cael had a page on him. He had a page on everybody in the bracket and Jask was in the bracket, at Copper Rank 5, sixteenth in the standings, a wide-shouldered young man with an honest and rather slow delivery and a habit of over-committing in the third quarter of any session because he got competitive with his own dial.
 
 *Over-commits when tired,* the page said. *Reads his own numbers between declarations, which is a mistake — a man watching his own dial is a man fighting the dial.*
 
@@ -74,7 +74,7 @@ Nothing else came. It had been one container and the container was empty.
 
 ---
 
-Jask sat down on the floor plate. He did not fall; he sat, all at once, the way a person does when their legs have received information their head has not yet had.
+Jask sat down on the floor plate. He did not fall; he sat, all at once, as a person does when their legs have received information their head has not yet had.
 
 "What," he said.
 
@@ -180,7 +180,7 @@ He stopped there for a while.
 
 *And I am going to watch the rotations at the ferry landing and the bluff road's foot, every day, because that is the only instrument I have that reads the apparatus from outside. If nothing changes down there, nothing went up. If something changes, I'll know within four days.*
 
-*That's the plan. Write it down before, not after.*
+*That's the plan.*
 
 He closed the log, and did not sleep well, and his forearm hummed in the bone until the second morning.
 

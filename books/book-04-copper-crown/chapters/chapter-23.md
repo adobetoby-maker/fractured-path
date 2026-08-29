@@ -56,7 +56,7 @@ Nine words, entirely ordinary, the standard closing recommendation on an unremar
 
 It kept a desk between the boy and the apparatus.
 
-That was the whole of it, and he had never once written it down anywhere, including here, including in his own cipher, including on any page in the case under the bed — because a man who writes down his reason has written down his crime, and because there was, on any honest reading, no reason. He had made no arrangement. He had given no undertaking. He had spoken to no person on this bluff about any of it, and the total sum of what he had done over six months was to go on writing true sentences and to stop writing certain others.
+That was the whole of it, and he had never once written it down anywhere, including here, including in his own cipher, including on any page in the case under the bed — because a man who writes down his reason has written down his crime, and because there was, on any honest reading, no reason. He had made no arrangement. He had given no undertaking. He had spoken to no person on this bluff about any of it. What he had done, over six months, was to go on writing true sentences and to stop writing certain others — that, and one slip of wing paper, cut down, unsigned, in a hand that belonged to nobody, which had gone into a coursework folder on the eve of the twentieth and, he was confident, into a stove within the hour of being read. He had shaped it to be burned. The boy had burned it. That was the nearest thing to a conversation the two of them had ever had, and it existed nowhere, which was the only place he permitted his conversations to live.
 
 He signed the quarterly. He appended the schedule extracts. He sealed it for the ninth, which was the courier day, and set it on the table by the door where the outgoing went.
 
@@ -144,7 +144,7 @@ Lira said, very quietly: "And nothing went up."
 
 He had not spoken since Karis started. He was standing at the window with his back to all of them, which was where he went when he needed to not be looked at, and none of them had ever once mentioned that they had noticed.
 
-"Since the training-floor incident I have counted the rotations outside the gate every third day," he said. If a report had gone up with the actual thing in it, the rotations would have changed inside a fortnight, because that is what a resourced apparatus does with escalation-grade capability data, and I have watched it do exactly that twice. They didn't change. They haven't changed since. That went in the log before my birthday and I have never once been able to write down what it meant without it sounding like wanting something."
+"Since the training-floor incident I have counted the rotations outside the gate every third day," he said. "If a report had gone up with the actual thing in it, the rotations would have changed inside a fortnight, because that is what a resourced apparatus does with escalation-grade capability data, and I have watched it do exactly that twice. They didn't change. They haven't changed since. That went in the log before my birthday and I have never once been able to write down what it meant without it sounding like wanting something."
 
 He turned round.
 
@@ -169,6 +169,8 @@ Karis looked up sharply. "Since when?"
 "Now he's spent something." Cael put both hands on the table. "Everything up to tonight was omission. Omission is free — it's the absence of an act, it leaves no trace, and if anybody ever came for him he could stand in front of an audit board and say *nothing met the reporting threshold* and they would have to prove intent out of six true reports. That's why he did it that way. That's craft.
 
 "Tonight he performed an act. He stopped in a corridor and moved information across a line, deliberately, at his own initiative, in a building with a Compact inspection four days behind it. It's deniable, it's small, it's the most careful version of it that could possibly exist — and it is still an *act*, and he did it, and he did it for a set of notebooks that aren't even mine."
+
+It was not, strictly, the first act. There had been a slip of wing paper in a coursework folder on the eve of the twentieth, and a stove; but that one had been aimed at him alone and built to stop existing, and Cael was never going to put it into a sentence in front of anybody — and Karis, who had watched it burn, had never once put it into one either. Tonight was different in kind. Tonight had a witness, and the witness was the point.
 
 Brom said, "So what do we do?"
 
@@ -202,7 +204,7 @@ It was not a remarkable hour. The unit had never had a remarkable hour. They ran
 
 Cael wrote his and handed it in and it was not the best one in the room, deliberately, by about a fifth.
 
-At the end, the teaching assistant collected the sheets, squared them, made two marks in the wing ledger, and said, to the room, in the flat register in which he had said everything for four sessions:
+At the end, the teaching assistant collected the sheets, squared them, made two marks in the wing ledger, and said, to the room, in the flat register in which he had said everything for a term:
 
 "The unit runs again next term. Enrolment goes on the residence board in the first week. Those of you continuing into assessment work will find the second unit harder and less interesting, which is the correct order."
 
@@ -210,7 +212,7 @@ That was all of it.
 
 Cael went out with the other five and did not look back, and said nothing at all, and did not stop at the counter, and got as far as the covered walk before he had to put his hand on a pillar for a moment.
 
-*Four sessions,* he wrote, that night. *Thirty-two hours of a Shadow Path practitioner working at eight feet, and a syllabus, and a countersigned attendance record, and a man who taught it exactly the way he would have taught it to six ordinary second-years going into assessment work, because teaching it any other way would have been visible.*
+*Sixteen sessions,* he wrote, that night. *Thirty-two hours of a Shadow Path practitioner working at eight feet, and a syllabus, and a countersigned attendance record, and a man who taught it exactly the way he would have taught it to six ordinary second-years going into assessment work, because teaching it any other way would have been visible.*
 
 *I have never been given anything larger by anybody in my life and there is no page in the world where that transaction is recorded, and there is not going to be one, and if there were it would end him.*
 
@@ -244,7 +246,7 @@ The first was from the nineteenth, from the Crown yard, from a bracket final he 
 
 *The Copper champion is Iron-grade. The bracket is the error. Recommend the advancement evaluation proceed unimpeded.*
 
-He had written it in the fourth exchange, before the result, and had not revised it. He had watched a Wind practitioner solve an Iron Skin practitioner through range in a cage built by people who had never imagined either of them, in front of six hundred people, and had known inside ninety seconds that the institution's assessment office would file for her advancement on the strength of the season and that somebody at his own altitude would eventually be asked whether the filing had merit.
+He had had the line by the fourth exchange, before the result; he had written it in the emptying yard afterward and had not revised it. He had watched a Wind practitioner solve an Iron Skin practitioner through range in a cage built by people who had never imagined either of them, in front of eleven hundred people, and had known inside ninety seconds that the institution's assessment office would file for her advancement on the strength of the season and that somebody at his own altitude would eventually be asked whether the filing had merit.
 
 They would ask. He had answered in advance, which was the only useful thing an Archmarshal could do with a bracket final, and the answer would hold, because his answers held.
 
@@ -260,7 +262,7 @@ Ninety minutes later, at the session's close, standing in a room that was emptyi
 
 He looked at the amendment now for some time.
 
-*An evaluation that begins from its conclusion is a report about the evaluator.* He had been told that at twenty-six by a woman who had gone on to be wrong about a great many things and right about that one, and he had repeated it to perhaps two hundred officers since, and the reason he repeated it was not that it was wise. It was that he had needed it, personally, in a room, two hours into a three-hour session, at sixty years of age, with a pen in his hand.
+*An evaluation that begins from its conclusion is a report about the evaluator.* He had been told that at twenty-three by a man who had gone on to be wrong about a great many things and right about that one, and he had repeated it to perhaps two hundred officers since, and the reason he repeated it was not that it was wise. It was that he had needed it, personally, in a room, two hours into a three-hour session, at sixty years of age, with a pen in his hand.
 
 *Capability exceeds classification* was a conclusion. It might well be correct. It was, on the material, more likely correct than not. But he had written it inside two minutes of the event and before the re-run, and a man who writes his finding inside two minutes has stopped measuring and started confirming, and every subsequent observation in that session would have obliged him. Instruments always oblige the man reading them. So do eyes.
 
@@ -306,11 +308,11 @@ He took a clean sheet, and dated it, and thought for a while, and did not write.
 
 The plain readings were available and all of them were wrong. *No adverse finding* — accurate, useless, a document that shuts a door somebody else may need to open. *Subject warrants attention* — a sentence that would put a warden on a bluff road inside a month and would produce, in a boy who had already been through one adjudication, exactly the behaviour that makes a monitoring file impossible to read afterward.
 
-And underneath both of them sat the reading that half the continent had already reached and that a small academy in the hills had built an institution's worth of conviction on: that the file was a mistake. A misfiled Kindling. A clerk's hand, a registry apparatus, a boy of eleven in a certification hall in a town nobody had heard of, and one wrong mark that four years of law and two academies had been spent unpicking. It was a comfortable reading. It was the reading that let everybody go on believing the system worked and had simply slipped, once, in a small way, on one person.
+And underneath both of them sat the reading that half the continent had already reached and that a small academy in the hills had built an institution's worth of conviction on: that the file was a mistake. A misfiled Kindling. A clerk's hand, a registry apparatus, a boy in a certification hall in a town nobody had heard of, and one wrong mark that four years of law and two academies had been spent unpicking. It was a comfortable reading. It was the reading that let everybody go on believing the system worked and had simply slipped, once, in a small way, on one person.
 
 Vastin had spent eleven days at Halcenvane and forty years in the registry's arms, and he did not believe it.
 
-Not because the boy was extraordinary. Extraordinary practitioners came through the schedule at a steady rate and the schedule held every one of them; that was what the schedule was for. He did not believe it because a mistake is careless, and there was no carelessness anywhere in this file. The designation had been generated at the Kindling itself, before any human being had formed an opinion. It had held through four years, three institutions, a public adjudication, and a documentary defence that Bracken's index made unassailable, and in all that time nobody at any altitude had produced a competing classification, an amended entry, or a single sheet proposing one.
+Not because the boy was extraordinary. Extraordinary practitioners came through the schedule at a steady rate and the schedule held every one of them; that was what the schedule was for. He did not believe it because a mistake is careless, and there was no carelessness anywhere in this file. The designation had been generated at the Kindling itself, before any human being had formed an opinion. It had held through four years, three institutions, a public adjudication, and a documentary defense that Bracken's index made unassailable, and in all that time nobody at any altitude had produced a competing classification, an amended entry, or a single sheet proposing one.
 
 A slipped hand gets corrected. This had never been touched.
 

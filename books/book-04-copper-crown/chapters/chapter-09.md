@@ -88,7 +88,7 @@ Karis went first, because it was her model and because she had a position she ha
 
 "There is no version where he knows and survives knowing," said Karis. "Which is a different sentence and I want it kept different, because the day we start saying *he can't be told* when what we mean is *we've decided not to tell him*, we've begun lying to ourselves in a register that gets very hard to hear."
 
-Lira came at it from the other side, and did it in the way she did most things, which was to state a position with total conviction and then attack it herself before anyone else could.
+Lira came at it from the other side, and did it as she did most things, which was to state a position with total conviction and then attack it herself before anyone else could.
 
 "Taking from an enemy isn't the same as taking from a friend," she said. "That's obvious. That's so obvious it's barely worth the breath. He's here to end you. He gets paid to be here. Nobody made him take the assignment and nobody's making him stay on it, and if you take something off a man who's aiming a weapon at you, that's not theft, that's the *floor*."
 
@@ -254,7 +254,7 @@ Cael did not look directly at him. He had not looked directly at him in five wee
 
 He worked out the new position's sightlines from where he sat, because that was now simply what his attention did when it was left alone, and found that the man had given up about a fifth of the floor and gained both stair heads and the whole of the assessment wing's approach, and had done it inside eleven seconds, without appearing to have made a decision, in a crowd that had made the same movement for entirely different reasons and had absorbed him into it perfectly.
 
-*Optimum,* Cael thought. *Again. Twenty-something for twenty-something. He is the best working practitioner of anything I have ever stood near, and the thing he practises is not being here, and he has been doing it eleven meters from me all season without one error I have been able to find.*
+*Optimum,* Cael thought. *Again. He is the best working practitioner of anything I have ever stood near, and the thing he practises is not being here, and he has been doing it eleven meters from me all season without one error I have been able to find.*
 
 And under it, arriving whole, in the flat register the notebook used for facts:
 

@@ -7,16 +7,16 @@ Cael had been keeping a glance count since his ninth day at Halcenvane, and he h
 At Greyvane, the staring had run about six weeks and then decayed, and he had watched the decay happen and had not measured it, and had regretted not measuring it within a month of arriving here, because here the staring was worse and he had no curve to compare it against. So he had built the crudest instrument he owned. Every time he crossed the long lecture-complex corridor between the second bell and the third — the same corridor, the same hour, four days a week, roughly ninety people in transit — he counted the number who marked his passage. A turned head, a held glance, a nudge to a neighbor. Anything that constituted a decision to look.
 
 Day nine: thirty-one of ninety-one.
-Day eleven: twenty-nine of eighty-eight.
-Day fourteen: twenty-six of ninety-four.
+Day nineteen: twenty-seven of ninety-three.
+Day thirty-one: twenty-three of eighty-six.
 
 Roughly one in three, sliding slowly downward, which was a decay curve and would give him a half-life in another month. The number itself was not interesting. What was interesting was that he now had a baseline for what it cost to be looked at in this building, and a baseline is an instrument, and an instrument measures whatever you put in front of it, including things you were not looking for.
 
-On day sixteen he ran the corridor count, wrote *24 of 89* in the margin, and then, at the bottom of the page, without any plan behind it, wrote a second number, because he'd noticed himself noticing it and the notebook's oldest rule was that anything he noticed himself noticing went on the page before he decided whether it mattered.
+On day thirty-six he ran the corridor count, wrote *22 of 88* in the margin, and then, at the bottom of the page, without any plan behind it, wrote a second number, because he'd noticed himself noticing it and the notebook's oldest rule was that anything he noticed himself noticing went on the page before he decided whether it mattered.
 
 *TA, assessment office: 0 of 7.*
 
-Seven encounters. Seven days. And not once — not a glance, not a half-glance, not the flick of attention a person gives a door opening — had the man in Gault's office looked at him.
+Seven encounters. Seven days — every one since the afternoon at the copying table, when he had run the layers on an entirely ordinary man and filed the evening's one-line note about him and priced it at exactly one line. And not once — not a glance, not a half-glance, not the flick of attention a person gives a door opening — had the man in Gault's office looked at him.
 
 ---
 
@@ -26,7 +26,7 @@ One instance was an accident. Two was a coincidence. Three was structure. It was
 
 So he did the honest thing, which was to widen the sample before touching the hypothesis.
 
-On day nineteen he stopped counting only the corridor and started counting everywhere, and by the end of that week he had a number that no amount of squinting made ordinary.
+On day thirty-eight he stopped counting only the corridor and started counting everywhere, and by the end of the following week he had a number that no amount of squinting made ordinary.
 
 Thirty-one encounters. Corridors, the assessment wing, the yard at the second bell, the gallery rail at hall three, the covered walk between quadrangles, the queue at the residence board on the morning the floor assignments went up. Thirty-one occasions on which he and the teaching assistant from Gault's office had occupied the same space at the same time, close enough for a glance to be free.
 
@@ -48,7 +48,7 @@ That was not an unlikely draw. That was a man doing something.
 
 He built a new instrument, because the old one didn't fit.
 
-The compound gaze was for reading people, and reading people required them to give you something to read — rhythm under load, weight before commitment, breath under strain, the disagreement between the three that meant strain or lying. It was a method built entirely out of what a body leaked. And this body leaked nothing, on seven separate examinations, which he had now performed at increasing depth and increasing shame, because the seventh had involved standing at the assessment wing's copying table for four minutes discussing a filing date he already knew the answer to.
+The compound gaze was for reading people, and reading people required them to give you something to read — rhythm under load, weight before commitment, breath under strain, position by permission, and the disagreement among the layers that meant strain or lying. It was a method built entirely out of what a body leaked. And this body leaked nothing, on seven separate examinations, which he had now performed at increasing depth and increasing shame, because the seventh had involved standing at the assessment wing's copying table for four minutes discussing a filing date he already knew the answer to.
 
 Level rhythm. Settled weight. Slow, ordinary breath. Total agreement between all three. A man who copied paper, being a man who copied paper.
 
@@ -58,11 +58,11 @@ The new pages did not look like anything else in the notebook. No columns for co
 
 The four failures were worth as much as the fifth, and he kept them rather than tearing them out, on the standing principle that a discarded method written down as discarded could not sneak back in disguised as a fresh idea. The first map had been drawn to scale, which had taken an evening and had been useless, because what he needed was not distance but *lines* — two rooms forty feet apart with a wall between them were further from each other than two rooms at opposite ends of a landing, and a scale drawing insisted on saying the opposite. The second had recorded who else was present at each sighting, on the theory that the man might be watching somebody other than him, and had produced four pages of names and no signal at all; he had killed it on day three and had been careful to write down *killed, no signal* rather than simply stopping, because an abandoned line of inquiry that nobody had formally closed had a way of reopening itself at two in the morning. The third had tried to log the man's route between sightings — which had failed for the simple and slightly humiliating reason that observing a route required following someone, and following someone in a building where one in three people turned to look at you was not a thing Cael could do for six consecutive paces. The fourth had been the first to give up on the man entirely and record only the campus, and had been right in principle and wrong in execution: he'd gridded by room, and the answer, when it came, had not lived in rooms. It had lived in rails, landings, stair-heads, and the third body of a cluster — in the places between rooms, which is where a person stands when standing is the work.
 
-*Day 21, second bell. Gallery rail, hall three, north end, four bodies in from the stair. Sees: hall three floor entire, hall one's east doors, the covered walk.*
+*Day 40, second bell. Gallery rail, hall three, north end, four bodies in from the stair. Sees: hall three floor entire, hall one's east doors, the covered walk.*
 
-*Day 21, fifth bell. Crown yard, upper tier, west, third body in a cluster of six. Sees: bout floor, both stair heads, the assessment wing's approach.*
+*Day 40, fifth bell. Crown yard, upper tier, west, third body in a cluster of six. Sees: bout floor, both stair heads, the assessment wing's approach.*
 
-*Day 22, second bell. Lecture complex, second landing, against the inner rail with the traffic between him and the stair. Sees: the long corridor its whole length.*
+*Day 41, second bell. Lecture complex, second landing, against the inner rail with the traffic between him and the stair. Sees: the long corridor its whole length.*
 
 It took him four days to see it, and when he saw it he went cold in a way that had nothing to do with the weather coming up off the river.
 
@@ -102,11 +102,11 @@ Which meant the concealment was not passive. Which meant it had requirements, an
 
 The third test he ran twice, because he wanted to be sure and because he was, by then, honestly a little afraid of being right.
 
-At the fifth bell on the following day he stood at the Crown yard's lower rail with his back to the upper west tier, and used the yard's brass session-lamp — the tall one on the north post, polished weekly, the surface of it giving back the whole upper tier in a smeared brown curve — and watched the reflection for eleven minutes while appearing to watch a Copper-bracket practice bout.
+At the fifth bell on the following day he stood at the Crown yard's lower rail with his back to the upper west tier, and used the yard's brass session-lamp — the tall one on the north post, polished weekly, the surface of it giving back the whole upper tier in a smeared brown curve — and watched the reflection for ten minutes while appearing to watch a Copper-bracket practice bout.
 
 Third body in a cluster of five. Upper west tier. He never looked down.
 
-Not once. Not when a Force declaration cracked off the floor and every other head in the yard turned toward the noise. Not when the bout's second exchange put a body onto the boards hard enough to be heard in the lecture complex. Not in eleven minutes, in a yard where the only interesting thing was the floor, and Cael was standing on the floor's edge.
+Not once. Not when a Force declaration cracked off the floor and every other head in the yard turned toward the noise. Not when the bout's second exchange put a body onto the boards hard enough to be heard in the lecture complex. Not in ten minutes, in a yard where the only interesting thing was the floor, and Cael was standing on the floor's edge.
 
 He ran it again two days later from a different angle with a different pretext. Same result.
 
@@ -120,19 +120,19 @@ He had, he realized, three grades of monitoring in his notebook now, and he had 
 
 The first grade was Havel — a junior assessor in Ardenmere with four years' service, who had followed him for a season and had looked at him constantly, and had looked *away* badly, and had twice written in a notebook while standing where Cael could see him do it. Cael had understood at the time that the man was not incompetent. He had understood, later and better, what the tells had actually been made of: Havel had not been sure he was allowed to be doing it. Monitoring that is uncertain of its own authority leaks everywhere, because the officer is watching two things — the subject, and his own standing — and a divided attention shows.
 
-The second grade was what came after the hearing. Rotations, at Greyvane and on the road and now in Ostrand, at the ferry landing and the bluff road's foot: two men, changing every four hours, entirely open about it. He had counted them for eleven days on the walk south to pass the time and had stopped counting because the number never changed. That was monitoring that was sure of itself and had money behind it, and its whole method was to be seen. It produced almost nothing — he had worked that out on the road, and it had been an oddly comforting piece of arithmetic — because a watcher you can see is a watcher whose report you are writing for him.
+The second grade was what came after the hearing. Rotations, at Greyvane and on the road and now in Ostrand, at the ferry landing and the bluff road's foot: two men, changing every four hours, entirely open about it. He had counted them for the four days of the walk south to pass the time, and had kept half an eye on them at Ostrand since, because the number never changed. That was monitoring that was sure of itself and had money behind it, and its whole method was to be seen. It produced almost nothing — he had worked that out on the road, and it had been an oddly comforting piece of arithmetic — because a watcher you can see is a watcher whose report you are writing for him.
 
 The third grade was a teaching assistant with an armful of forms who had stood on the optimal sightline nineteen times out of nineteen and had never once let his eye touch the subject.
 
 *What the difference is,* he wrote, *is that the first two were watching me. This one is watching the room I'm in, and I'm the reason the room is worth watching, and those are not the same activity. Havel wanted to see what I did. The rotations wanted me to know they could see. This one wants the shape of my week, and he is getting it, because the shape of my week is a public document and he is standing where it's legible.*
 
-*Note, for honesty: he is better at his job than I have been at mine. It took me twenty-six days. He has had all twenty-six.*
+*Note, for honesty: he is better at his job than I have been at mine. He has been on this campus twenty-six days. It took me twenty-six days to be sure, and he has had every one of them.*
 
 ---
 
-He put it to the other three on a Sixth-day evening in the common room, with the door shut and the ladder brackets three days from posting and the whole quadrangle loud enough downstairs that the room's own quiet was not conspicuous.
+He put it to the other three on a Sixth-day evening in the common room, with the door shut and the ladder brackets four days from posting and the whole quadrangle loud enough downstairs that the room's own quiet was not conspicuous.
 
-He gave it to them the way he gave them everything now: the data first, the conclusion last, so that they could disagree with the conclusion without having to fight the data on the way. The glance count and its baseline. The thirty-one encounters and the zero. The two-layer map and the nineteen for nineteen. The empty gallery and the man who had walked on rather than stand alone on a good sightline. The brass lamp and the eleven minutes.
+He gave it to them the way he gave them everything now: the data first, the conclusion last, so that they could disagree with the conclusion without having to fight the data on the way. The glance count and its baseline. The thirty-one encounters and the zero. The two-layer map and the nineteen for nineteen. The empty gallery and the man who had walked on rather than stand alone on a good sightline. The brass lamp and the ten minutes.
 
 Karis had her notebook out before he was three sentences in and stopped writing halfway through the map, which he had learned meant she'd gotten ahead of him and was waiting for him to catch up so she could check her work against his.
 

@@ -2,7 +2,7 @@
 
 The brackets posted on a Third-day morning in the covered walk outside the Crown yard's north stair, and Cael got there at the first bell because he wanted to watch the reading rather than the boards.
 
-The boards themselves he could have copied out in ten minutes: three columns, Copper, Iron, Silver, each column a ladder of names with a standing number beside it and a run of empty result-squares stretching down the sheet to the season's end. Ninety-one names in Copper. Sixty-three in Iron. Nineteen in Silver, which was as much of Halcenvane's upper end as existed and was the reason a mid-tier academy stayed a mid-tier academy. He had the numbers before the second bell.
+The boards themselves he could have copied out in ten minutes: three columns, Copper, Iron, Silver, each column a ladder of names with a standing number beside it and a run of empty result-squares stretching down the sheet to the season's end. Ninety-one names in Copper, of the two hundred and nine who could have entered — a season was a tax on a year, and half the tier had declined to pay it. Sixty-three in Iron. Nineteen in Silver, which was as much of Halcenvane's thin upper end as had put its name to a season, and the thinness was the reason a mid-tier academy stayed a mid-tier academy. He had the numbers before the second bell.
 
 What he'd come for was the reading, and the reading was better than the boards.
 
@@ -34,7 +34,7 @@ Eleven Paths competed across the three brackets. He had a page for each of them 
 
 ---
 
-Lira's opener came on the second session afternoon, against a Copper Rank 5 named Nyle, ninth in the standings — Stone Path, third year, a shoulder-heavy young man with a settled stance and a record of eleven wins that Cael had read in Bracken's public season files and then gone and confirmed by watching two of the bouts in the yard's practice hours.
+Lira's opener came on the second session afternoon, against a Copper Rank 5 named Nyle, ninth in the standings — Stone Path, third year, a shoulder-heavy young man with a settled stance and eleven wins across two seasons in Bracken's public files, whose habits Cael had confirmed by watching him twice in the yard's practice hours.
 
 He had built Nyle's page the ordinary way. Rhythm: five breaths between committed motions, unusually long, because Stone Path work was slow to gather and he had learned to make the gathering look like patience. Weight: enormous, and honest — a Stone practitioner could not lie with his weight, because the weight was the declaration, and the whole art of the Path was making it arrive at the right instant rather than disguising that it was coming. Breath: he exhaled through the gather, low and audible, which the yard's acoustics carried up into the gallery.
 
@@ -60,7 +60,7 @@ The strike itself was almost incidental — the back of Nyle's leading knee, at 
 
 The yard did not cheer.
 
-That was the thing Cael would write about for two pages that night. There was applause, eventually, ragged and a beat late, but before the applause there were perhaps four full seconds in which four hundred people made no sound at all, and it was not the silence of a crowd that had been impressed. He had heard impressed. Impressed was loud.
+That was the thing Cael would write about for two pages that night. There was applause, eventually, ragged and a beat late, but before the applause there were perhaps four full seconds in which the whole yard made no sound at all, and it was not the silence of a crowd that had been impressed. He had heard impressed. Impressed was loud.
 
 This was the other one. He'd heard it exactly twice in his life, both times in the Ironyard, both times when something had happened on the floor that the room's whole understanding of what it was watching could not absorb. It was the sound a crowd makes when it has just watched a category fail — when ninety-one names on a board have been sorted into a column by a system, and the system's answer has been publicly and unarguably wrong about one of them, and everybody in the yard understands this without any of them being able to say what they understand.
 
@@ -86,11 +86,7 @@ Brom won. Cael wanted that on the page first, because everything else about the 
 
 It took him five exchanges and about nine minutes, and it cost him.
 
-The seam was the story. Brom's flaw had been named honestly at Greyvane a year ago and had been a private problem there, because Greyvane had not held anybody fast enough to reach it: when he absorbed a committed strike and tried to convert the absorption into a counter, there was a gap in the conversion — a fractional stall while the hardening released along one side and the drive came up on the other — and inside that gap he was, briefly, an ordinary person standing still.
-
-Ephram had found it in three sessions. Cael had heard about that from Brom himself, delivered flat, with an ice wrap on the shoulder and an expression of unmixed delight.
-
-What Cael watched from the gallery was the aftermath of three weeks in which the entire cohort had been taught to look for it.
+The seam was the story, and it was no longer a private one. Brom's flaw had been named honestly at Greyvane a year ago and had cost him nothing there, because Greyvane had not held anybody fast enough to reach it: the self-taught redirect carried a gap between reading an incoming force and executing against it, and inside that gap he was, briefly, an ordinary person standing still. Ephram had found the gap in three sessions — Cael had watched most of the fortnight that followed from the east hall's gallery, nine pages' worth — and by now the entire cohort had been taught to look for it.
 
 Merrick did not try to out-hit an Iron Skin practitioner, because Merrick was not stupid. Merrick fed him force he *wanted* to redirect — committed, cheap, slightly short strikes, four of them in the first two exchanges, each one arriving with just enough weight to make absorption the obvious answer and just little enough that the absorption bought nothing. And then, on the fifth, he stepped into the seam.
 
@@ -110,7 +106,7 @@ Rooke was waiting at the floor's edge.
 
 Cael had watched Rooke for four weeks by then and had a page on him too, a longer one than he'd expected to need. Blade Path, Silver-tier, fifties, the senior combat faculty and the man whose cohort was Halcenvane's tournament hope — and the man who had said, in open faculty session with three rows of new enrollees sitting behind him, that the assay provision's attention was a risk to the academy's inspection standing and that he wanted it minuted before the notice came rather than after. He had said it looking at Withrow and not at anybody else in the room, which Cael had filed as the single most useful thing he'd learned that week: Rooke argued with the institution, not with people, and a man who did that could be moved by evidence and could not be moved by anything else.
 
-Brom came off the floor with his left arm not quite hanging and his jaw already colouring.
+Brom came off the floor with his left arm not quite hanging and his jaw already coloring.
 
 Rooke looked at him for about three seconds.
 
@@ -128,7 +124,7 @@ In two and a half years, Brom had received instruction from perhaps a dozen peop
 
 The season put its teeth in over the following month, and Cael watched all of it from the same place.
 
-He went to every session. Not the ones Lira fought, or the ones Brom fought — every session, including practice hours, including the Silver bracket's thin four-name column where nineteen enrollees produced maybe two bouts a fortnight, including the Iron bracket afternoons where Ephram held a court that was not quite a court.
+He went to every session. Not the ones Lira fought, or the ones Brom fought — every session, including practice hours, including the Silver bracket's thin column, where nineteen names produced maybe two bouts a fortnight, including the Iron bracket afternoons where Ephram held a court that was not quite a court.
 
 He did the standings mathematics in the third week, on a wet afternoon in the library, because nobody else appeared to have done it properly and the whole yard was arguing about it anyway.
 
@@ -136,7 +132,7 @@ The arguing version went: win enough and you climb. The actual version was more 
 
 Then he put the schedule against it. The session calendar gave each enrollee a bout about every nine days. A hundred and sixty days of season. Seventeen bouts, and that was if nobody was ever injured, deferred, or unmatched, which happened to everyone.
 
-Which meant the seeding was not a starting position. Past a certain depth it was a ceiling. From twenty-second, the top was six wins away — six perfect afternoons, demanding but entirely available. From fiftieth it was thirteen, which a good season could still reach. Somewhere around sixty-fifth the arithmetic simply closed: more wins required than bouts available, and no performance on any floor could open it. A third of the Copper column had been eliminated from the crown before the boards went up, by a scheduling constraint, and every one of them was down there fighting for it anyway.
+Which meant the seeding was not a starting position. Past a certain depth it was a ceiling. From twenty-second, the top was six wins away — six perfect afternoons, demanding but entirely available. From fiftieth it was thirteen, which a good season could still reach. From the high sixties the arithmetic simply closed — more wins required than bouts available — and it closed well before that for anyone who missed a single session, which everyone did. A quarter of the Copper column had been eliminated from the crown before the boards went up, by a scheduling constraint, and every one of them was down there fighting for it anyway.
 
 He checked it twice, and then took it to Karis, who checked it a third time and looked genuinely annoyed, which from Karis was a compliment to the finding.
 
@@ -150,7 +146,7 @@ The other half of the mathematics ran upward, and that was the half the yard act
 
 And it made Fiske's position, first in the Copper standings with a brass mark beside her name, the strangest thing on any board in the building.
 
-Copper Rank 8 was the top rank the tier held. There was nothing above it inside Copper; the next number up was a different tier entirely, and tiers did not move because a person won bouts. Tiers moved because a registry conducted an advancement evaluation and said so, and no registry had said anything about Fiske in two years, and none had been asked to, because asking cost an institution paperwork and produced no benefit the institution could bank.
+Copper Rank 8 was the top rank the tier held. There was nothing above it inside Copper; the next number up was a different tier entirely, and tiers did not move because a person won bouts. Tiers moved because a registry conducted an advancement evaluation and said so, and no registry had said anything about Fiske in two years, and none had been asked to — Lira had worked out why, weeks ago, in the middle of a conversation about laundry, and nobody had improved on her answer since.
 
 So she had climbed to the top of her column in her first season, and then run out of column. There was nothing left to challenge. The ladder could not move her out of the bracket, only around inside it, and the crown was the only object left in the whole cage that she had not already been given — and she had been given that twice.
 
@@ -158,9 +154,9 @@ Cael wrote her page that night and found, finishing it, that it was the only pag
 
 Ephram at Iron Rank 6 was the top-ranked enrollee at Halcenvane and behaved like it, which was to say that he did not perform any of it. He came to the yard, he fought when the ladder required it, he won, and between bouts he stood at the rail with four or five of Rooke's cohort around him and dissected whatever had just happened on the floor in a low, level voice that carried further than he probably intended. Cael listened to it whenever he could get within range, and found — irritatingly — that the analysis was good. Not as good as it thought it was. But good.
 
-Ephram had said one thing to him since the first week, in the Crown yard, in front of enough people that it was clearly meant to be a posted position rather than a remark: *Greyvane needed him to be real. We don't. I'll wait for the semester evaluation.* Cael had written it down that night and had written *fair — same terms I'd offer* underneath it, and had meant both.
+Ephram had said one thing to him all term, in the Crown yard, in front of enough people that it was clearly meant to be a posted position rather than a remark: *Greyvane needed him to be real. We don't. I'll wait for the semester evaluation.* Cael had written it down that night and had written *fair — same terms I'd offer* underneath it, and had meant both.
 
-Withrow came to the finals-track bouts, which was the other thing worth noting. Not all of them. The ones that mattered to the standings' upper end, and always with someone from Ostrand beside her — a guild factor, once a man Cael recognized from the endowment plaques in the lecture stairwell, twice a woman in a river-trade house's colours. She did not watch the bouts so much as she watched her guests watching the bouts, and Cael understood the transaction entirely and did not resent it. A mid-tier academy converted its students into money and its money into standing and its standing into a qualifying berth. The Crown yard was the machine's visible end. Withrow was standing at the machine, with her hand on it, in front of people who paid for machines.
+Withrow came to the finals-track bouts, which was the other thing worth noting. Not all of them. The ones that mattered to the standings' upper end, and always with someone from Ostrand beside her — a guild factor, once a man Cael recognized from the endowment plaques in the lecture stairwell, twice a woman in a river-trade house's colors. She did not watch the bouts so much as she watched her guests watching the bouts, and Cael understood the transaction entirely and did not resent it. A mid-tier academy converted its students into money and its money into standing and its standing into a qualifying berth. The Crown yard was the machine's visible end. Withrow was standing at the machine, with her hand on it, in front of people who paid for machines.
 
 And through all of it, in every gallery, at every session, there was a man from the assessment office with an armful of paper who never once looked at him.
 

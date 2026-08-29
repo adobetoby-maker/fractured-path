@@ -50,9 +50,9 @@ That was the number Brom reported and Cael believed it, because Cael had done th
 
 Ephram found it in three sessions and then spent the next fortnight doing nothing else.
 
-Cael watched four of those sessions from the east hall's gallery and filled eleven pages, and by the end he had the mechanism as clearly as if it had been his own.
+Cael watched four of those sessions from the east hall's gallery and filled nine pages, and by the end he had the mechanism as clearly as if it had been his own.
 
-*Ephram. Blade Path, Iron-tier Rank 6, tops the Iron bracket standings — which at Halcenvane is what "top-ranked" means. There are fourteen Silver students and one Gold in this academy and none of them are considered the best competitor in it, because "best" here is a ladder position and the ladder is where the institution actually looks.*
+*Ephram. Blade Path, Iron-tier Rank 6, tops the Iron bracket standings — which at Halcenvane is what "top-ranked" means. There are fourteen Silver students and a Gold-tier fellow on this bluff and none of them is considered its best competitor, because "best" here is a ladder position and the ladder is where the institution actually looks.*
 
 *Method against Brom, session four onward: he does not attack the gap. He manufactures it.*
 
@@ -80,11 +80,11 @@ Brom's own account of it, over the second week, was three sentences and got shor
 
 Lira's problem had no session count and no instructor and nothing to take apart.
 
-She registered for the Copper bracket on the eleventh day, two days inside the deadline, after a week of not filling in a form that took four minutes to fill in. Cael did not say anything about the week, because there was nothing useful to say and because she would have hated it.
+She registered for the Copper bracket on the twelfth day, two days inside the deadline, after a week of not filling in a form that took four minutes to fill in. Cael did not say anything about the week, because there was nothing useful to say and because she would have hated it.
 
-The bracket was two hundred and nine practitioners deep, and the standings board on the Crown yard's north wall carried the top forty of them in chalk with the rest listed in a bound register at the registrar's table for anybody who cared to look. Lira's name went on at the bottom of the board's fortieth line the day after her first scheduled round, and moved up eleven places the following week, and by the end of the first month was in the top fifteen and climbing at a rate the porter described, without being asked, as *not usual*.
+The tier was two hundred and nine practitioners strong, and the season's brackets would not post until near the term's midpoint. Until then the yard ran practice hours — open floors, faculty-supervised, every result entered in a bound register at the registrar's table for anybody who cared to look, because at Halcenvane even practice generated paper. Lira fought her first practice bout the day after she registered, her fourth by the week's end, and by the close of the first month had fought nine and won nine, at a rate the porter described, without being asked, as *not usual*. And the register recorded all of it, and the seeding would ignore all of it, because seeding ran off the previous season's closing standings and a transfer had no previous season. A transferred file, the registrar's table confirmed, seeds low.
 
-None of that touched the paper.
+None of it touched the paper, either.
 
 Cael understood the mechanism completely and it did not help either of them. Greyvane had watched her beat Iron-equivalent opposition for two terms and had done the only thing a minor academy could do about it, which was file a priority-review flag on her formal classification and send it up. The flag had transferred. It sat now in a registry queue at the district office on Weighbridge Street, one item in a stack, and it entitled her to be reassessed by an Arbiter *eventually*. Until the reassessment happened, her tier was Copper, because her certificate said Copper, and the bracket read off the certificate.
 
@@ -118,7 +118,7 @@ He did not have an answer that night. He wrote the question down instead, and un
 
 She met Fiske eight days later, at the board, in front of about thirty people, and the whole of it took under a minute.
 
-Cael was there because he was at every ladder session by then, and he had a good sightline, and afterward he was able to reconstruct the sequence exactly.
+Cael was there because he was at every practice session by then, and he had a good sightline, and afterward he was able to reconstruct the sequence exactly.
 
 Fiske had just come off the yard. Force Path, Copper Rank 8, twenty years old, two years the holder of the Copper Crown — and she had spent the preceding eleven minutes dismantling a Copper Rank 4 with a completeness that Cael found almost uncomfortable to watch. He had the notes.
 
@@ -140,7 +140,7 @@ That was all. Fiske looked at Lira for perhaps two seconds longer, and something
 
 Then she went to get water, and Lira turned back to the board, and the thirty people who had been pretending not to watch went back to pretending not to have been.
 
-Lira did not say anything about it that evening. She said something about it eleven days later, out of nowhere, in the middle of a conversation about laundry.
+Lira did not say anything about it that evening. She said something about it a week and a half later, out of nowhere, in the middle of a conversation about laundry.
 
 "She's not in that bracket because she's Copper," Lira said. "She's Copper because nobody's reassessed her. Same queue. Same flag. Except she hasn't got a flag, because Halcenvane never filed one for her, because — " and she stopped, and worked it out on the spot, in front of them, and Cael watched her arrive at it — "because she's winning. If she loses her crown they might file. While she's holding it, she's the Copper champion, and the Copper champion is worth something to this academy exactly as long as she stays Copper."
 
@@ -170,7 +170,7 @@ The honest answer, written down on the nineteenth day, was: *mostly.*
 
 *The vantage point is real and it is better here than it was at Greyvane by a factor I can't yet estimate. Twenty-two declared Paths taught on these floors. I had charted eleven before I arrived, which means eleven more I had never seen at all — Lattice, Ash, Mire, and eight I've only had at a distance so far. Lattice alone would have been a year's work at Ardenmere and there are nine Lattice students here and one instructor who has taught it for thirty-one years.*
 
-*Also true: I stood at the boards on the fourteenth day for six minutes reading two hundred and nine names, and mine was not among them, and it was never going to be, and I noticed I minded.*
+*Also true: I stood at the registrar's table on the fourteenth day for six minutes reading two hundred and nine names in the tier register, and mine was not among them, and it was never going to be, and I noticed I minded.*
 
 *Not the crown. I don't want the crown. I want the* line*. I want a row of figures in chalk that says what I did this season, in public, that anybody could check.*
 
@@ -196,7 +196,7 @@ The other thing the floor time bought him was one supervised sparring slot a wee
 
 The slot was against Lira, which the assessment office permitted because they were on the same residence roster and because the supervising instructor that week was the Ash Path lecturer, who signed the sheet, sat down on the gallery rail, and thereafter interfered with nothing. They ran full intensity with the old Ardenmere protocol — she called a stop the instant a fragment visibly activated, and he had thirty seconds to write.
 
-Then a Lattice Path pair took the neighbouring floor, and Cael lost the rest of the session to watching them, and Lira let him, because she had lost sessions the same way herself.
+Then a Lattice Path pair took the neighboring floor, and Cael lost the rest of the session to watching them, and Lira let him, because she had lost sessions the same way herself.
 
 Lattice, close up, did not behave like anything he had charted.
 
@@ -226,19 +226,19 @@ The supervisors were the other education, and the education was in the rotation.
 
 Because the assessment office rota'd him, he trained in front of eleven different faculty in his first month, none of them more than twice. Every one of them watched him with the mild, unloaded attention of an instructor supervising a student who was not theirs, and every one of them, without exception, watched him more closely in the second half of the session than the first.
 
-He tracked the crossover point. It ran between the eleventh and the nineteenth minute, and it correlated with nothing he could isolate except deployment: the moment he used the Wind-adjacent framework at anything above a walk, the supervising instructor's attention changed state, and it did not change back.
+He tracked the crossover point. It ran between the tenth and the nineteenth minute, and it correlated with nothing he could isolate except deployment: the moment he used the Wind-adjacent framework at anything above a walk, the supervising instructor's attention changed state, and it did not change back.
 
 *Eleven supervisors, eleven crossovers, no exceptions. Mean crossover: fourteen minutes.*
 
 *Nobody has said a word to me about it. Not one question in a month. That is either institutional discipline of a very high order or somebody has told them not to, and I would like to know which, and I have no way to find out that doesn't cost more than the answer is worth.*
 
-*Note the shape of this, though, because the shape is new: at Greyvane people asked. Constantly. Badly. Here nobody asks, and the not-asking is itself organised.*
+*Note the shape of this, though, because the shape is new: at Greyvane people asked. Constantly. Badly. Here nobody asks, and the not-asking is itself organized.*
 
 ---
 
 Karis got her research standing in writing on the twenty-fourth day, after four sessions with Bracken across ten days, and came back to the second quadrangle in a condition Cael had seen exactly twice before.
 
-"Terms," she said, and put the document on the table, and did not sit down. "One: I have carrel access and overnight retention, which I already had. Two: I have south-range access to the third and fourth floors *without an escort*, which Bracken tells me is normally faculty-only and which she has granted on the grounds that I have already demonstrated documentary competence to the institution's benefit, which is the politest sentence anyone has ever written about me. Three — and this is the one I fought for — anything I compile from those floors in support of the assay provision's documentary defence is filed as *institutional* work product, not student work, and is held by the registrar rather than the library."
+"Terms," she said, and put the document on the table, and did not sit down. "One: I have carrel access and overnight retention, which I already had. Two: I have south-range access to the third and fourth floors *without an escort*, which Bracken tells me is normally faculty-only and which she has granted on the grounds that I have already demonstrated documentary competence to the institution's benefit, which is the politest sentence anyone has ever written about me. Three — and this is the one I fought for — anything I compile from those floors in support of the assay provision's documentary defense is filed as *institutional* work product, not student work, and is held by the registrar rather than the library."
 
 Brom, who had been half asleep, opened one eye. "Why does that matter?"
 
@@ -262,7 +262,7 @@ Brom was working a redirect drill against a post, slowly, at a fraction of speed
 
 *Brom is being made worse on purpose by a man who told him in advance that it would happen, and he is happier than I have seen him.*
 
-*Lira is eleventh on a board of two hundred and nine and climbing, and none of it can reach the piece of paper that decides where she's allowed to climb.*
+*Lira is nine for nine in the practice register against a tier two hundred and nine strong, and none of it can reach the piece of paper that decides where she's allowed to climb.*
 
 *Karis has been given four bays of an era and terms in writing that stop her own work being swallowed by a filing cycle.*
 

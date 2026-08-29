@@ -2,27 +2,25 @@
 
 He woke at the fourth hour on the twentieth of Reaping and did the first task before he opened his eyes.
 
-It had a shape now. Four weeks of practice had given it one, and the shape was this: before anything else — before the light at the shutter, before the day's list, before the ache in both calves that the Crown yard's stone benches had put there yesterday — he found his own edges and held them where an ordinary person's sat.
-
-The sensation had no good name. He had tried six in the notebook and rejected all of them. It was not tension and it was not effort in the way a plank is effort. It was closer to the feeling of carrying something on the flat of an outstretched hand: nothing heavy, nothing that hurt, only a thing that had to be attended to continuously or it would go, and which was not permitted to go, and which therefore occupied a channel that could never afterward be used for anything else.
+It had a shape now. Four weeks of practice had given it one, and the shape was this: before anything else — before the light at the shutter, before the day's list — he found his own edges and held them where an ordinary person's sat. The sensation had no good name; he had tried six in the notebook and rejected all of them. It was closest to carrying something on the flat of an outstretched hand: nothing heavy, nothing that hurt, only a thing that had to be attended to continuously or it would go, and which was not permitted to go, and which therefore occupied a channel that could never afterward be used for anything else.
 
 He held it, and got up, and put his feet on cold boards, and it stayed held.
 
 *Hour one,* he thought, and did not write it down, because writing it down would have required looking away from it.
 
-Below the bluff the river was doing its business — the long horn and the two short ones, the ore barges going up on the dawn water — and out past the shutter the sky over Ostrand was the colour of an unlit lamp. On the common-room table, where Lira had set it down last night without ceremony and without one word about where it ought to end up, the Copper Crown sat on its brass mount and caught nothing at all, because there was no light in the room to catch.
+Below the bluff the river was doing its business — the long horn and the two short ones, the ore barges going up on the dawn water. On the common-room table, where Lira had set it down last night without ceremony, the Copper Crown sat on its brass mount and caught nothing at all, because there was no light in the room to catch.
 
 He looked at it for a moment on his way past.
 
-Then he went down to the wash-room and held his edges through it, and came back and dressed and held them through that, and by the second bell he had been holding them for two hours and the channel they occupied was already a channel with a weight in it.
+Then he went down to the wash-room and held his edges through it, and came back and dressed and held them through that, and by the second bell he had been holding for two hours and the channel was already a channel with a weight in it.
 
-Brom was at the corridor's end with a mug in each hand, sitting on the stair with his back against the wall, moving like a man who had taken four exchanges against a Wind practitioner in front of six hundred people and then slept on it.
+Brom was at the corridor's end with a mug in each hand, sitting on the stair with his back against the wall, moving like a man who had taken four exchanges against a Wind practitioner in front of eleven hundred people and then slept on it.
 
 "You're up early," he said.
 
 "So are you."
 
-"I'm not up. I never went." Brom handed over the second mug. His left eye had a colour under it that was going to be worth seeing by the weekend and the knuckles of his forcing hand were strapped. "How's the wick?"
+"I'm not up. I never went." Brom handed over the second mug. His left eye had a color under it that was going to be worth seeing by the weekend and the knuckles of his forcing hand were strapped. "How's the wick?"
 
 "Holding."
 
@@ -34,11 +32,11 @@ Brom drank some of his own. "Three hours in that room. Plus the walk over. Plus 
 
 "Yes."
 
-"So call it six." He said it flatly, without any comfort in it at all, which was the most useful thing anybody could have done. "You've never held it six."
+"So call it six." He said it flatly, without any comfort in it at all, which was the most useful thing anybody could have done. "You held nine at the records session."
 
-"Four and a half. In the lecture complex, twelve days ago, and the last hour of it was bad."
+"In a chair, with a wall at my back and nothing to do but sit, and it still got away from me three times." Cael drank. "Today it's six on my feet, on a floor, being measured."
 
-"Then today's the longest thing you've ever done and none of it is the part they're measuring." Brom got up off the stair, slowly, and rolled the shoulder, and the shoulder made a sound. "They don't get to see it. That's the whole job today. Whatever it costs you to hold that, nobody in that room ever finds out you paid it — everybody in there is going to think the hardest thing happening is on the grid." He shrugged, once. "I'll know. That's the best I've got."
+"Then today's the harder thing and none of it is the part they're measuring." Brom got up off the stair, slowly, and rolled the shoulder, and the shoulder made a sound. "They don't get to see it. That's the whole job today. Whatever it costs you to hold that, nobody in that room ever finds out you paid it — everybody in there is going to think the hardest thing happening is on the grid." He shrugged, once. "I'll know. That's the best I've got."
 
 "It's enough."
 
@@ -70,11 +68,11 @@ The demonstration room had been changed by four chairs.
 
 That was all — that was the entire physical alteration, and Cael stopped inside the near door for the second time in his life and did the count in the four seconds it took him to cross the threshold.
 
-The brass grid ran both ways under the lamps, one third of a pace, the intersections still sharp at the far end where a lazy surveyor's would have wandered. The apparatus stood along the north wall in its eleven pieces. The pendulum escapement was already going in its case, clicking, which meant somebody had wound it early, which meant the clerk had been in the room since the second bell. Along the south side the long table held Magister Gault at its centre with his forms squared, the Ash Path instructor on his right, the Mire Path instructor on his left with a coat still on and her hands in the pockets of it, and the clerk at the fourth chair set apart.
+The brass grid ran both ways under the lamps, one third of a pace, the intersections still sharp at the far end where a lazy surveyor's would have wandered. The apparatus stood along the north wall in its eleven pieces. The pendulum escapement was already going in its case, clicking, which meant the clerk had been in the room since the second bell. Along the south side the long table held Magister Gault at its center with his forms squared, the Ash Path instructor on his right, the Mire Path instructor on his left with a coat still on and her hands in the pockets of it, and the clerk at the fourth chair set apart.
 
 And along the east wall, where there had been nothing at all in the first month, four chairs, set in a row with the ordinary spacing of an ordinary institution making room for guests, because that was the charter's language and Bracken had drafted the seating to the charter's language.
 
-Delegation counsel, at the near end, with a document case open on her knees and two ribboned folders already out of it. Assessor Ilsev, second, with her own case on the floor beside her and nothing in her hands but a pencil. The records officer, third, with the compiled file on his lap and a fresh log sheet on top of it, because a records officer at an observed evaluation logged the observation itself — a piece of procedure Cael had read about in the library and had never seen performed. Havel looked up as Cael came in, once, level, four-tenths of a second, and looked back down at his sheet, and Cael understood with complete clarity that the man had just performed the only greeting available to him and had performed it correctly.
+Delegation counsel, at the near end, with a document case open on her knees and two ribboned folders already out of it. Assessor Ilsev, second, with her own case on the floor beside her and nothing in her hands but a pencil. The records officer, third, with the compiled file on his lap and a fresh log sheet on top of it, because a records officer at an observed evaluation logged the observation itself. Havel looked up as Cael came in, once, level, four-tenths of a second, and looked back down at his sheet, and Cael understood that the man had just performed the only greeting available to him, and had performed it correctly.
 
 And at the far end, in plain inspection greys, with nothing on his lap and nothing in his hands and no case anywhere near him, Archmarshal Vastin.
 
@@ -94,13 +92,21 @@ Gault did not stand up. He had not stood up at the baseline and he did not stand
 
 Counsel inclined her head about half an inch. Nobody else moved.
 
-"Enrollee." Gault turned a page. "You know the format. Six trials, questions between them, everything logged including the questions and the interval. Three points of procedure, and I will say them again, because I said them once in this room five months ago and a thing said once is a thing somebody can claim was never said.
+"Enrollee." Gault turned a page. "You know the format. The baseline's trials, in the baseline's order, questions between them, everything logged including the questions and the interval. Three points of procedure, and I will say them again, because I said them once in this room five months ago and a thing said once is a thing somebody can claim was never said.
 
 "One. If at any moment you cannot do a thing, say so, and we will record that you could not, and it will be true and it will not count against you. Two. I measure consistency, not maximum. Three." He looked up. "This session measures against the baseline you set in this room in the first month of term. It does not measure against anybody's expectation, anybody's transcript, or anything said in a corridor. If you have come here to be impressive you have come to the wrong wing."
 
 "Understood, Magister."
 
-"Then we'll start."
+"One matter remaining, then. The baseline measured what you elected to place in it. The rule holds at every sitting. Is there anything on your record you elect to add?"
+
+"The ignition point, Magister. It's on the Greyvane record."
+
+"It is." Gault did not look surprised, because Gault did not look things. "Where do you want it?"
+
+"Second. It's contact work — I'd rather my arm were fresh for it."
+
+"Then six trials. Clerk, enter the amended order." He squared the forms. "We'll start."
 
 ---
 
@@ -152,19 +158,19 @@ The man at the end of the row had not moved at all.
 
 *Surprise them exactly once, small, early. A watcher who finds one thing stops hunting for a second.*
 
-Gault gestured, and the clerk went to the north wall and brought over one of the two pieces of apparatus that Cael had failed to identify in his first fortnight at Halcenvane and had subsequently spent six months failing to identify in the library.
+Gault gestured, and the clerk went to the north wall and brought over one of the two pieces of apparatus Cael had never been able to identify, in a first fortnight of looking or the six months since.
 
-It was a sealed copper vessel on a tripod, about the size of a wine jug, with a graduated glass column rising out of the top of it and a small brass plate on the flank where the calibration date was painted in the same hand as the accession numbers in the library.
+It was a sealed copper vessel on a tripod, about the size of a wine jug, with a graduated glass column rising out of the top of it and a small brass plate on the flank carrying a painted calibration date.
 
 "You have never seen this used," Gault said.
 
 "No, Magister. I've been trying to work out what it is since the eighth week."
 
-"It measures applied heat. Water, sealed, with a column. Slow, honest, and impossible to argue with. The Ember and Ash cohorts are measured on it four times a year and it has never once flattered anybody." He turned a page. "The hearing record entered into evidence at Greyvane contains one demonstration exhibit describing an ignition-point capability, contact-adjacent, single channel, recorded late in that institution's term and recorded thinly. It is on your record. It was not on the floor at your baseline, and I did not ask for it then, because a baseline measures what an enrollee elects to place in it." He set the page down flat. "I am asking for it now. Hand to the vessel. Raise the column."
+"It measures applied heat. Water, sealed, with a column. Slow, honest, and impossible to argue with. The Ember and Ash cohorts are measured on it four times a year and it has never once flattered anybody." He turned a page. "The hearing record entered into evidence at Greyvane contains one demonstration exhibit describing an ignition-point capability, contact-adjacent, single channel, recorded late in that institution's term and recorded thinly. It is on your record. It was not on the floor at your baseline." He set the page down flat. "You have elected to place it now. Hand to the vessel. Raise the column."
 
 Cael went and put his hand on the copper.
 
-The Ember-adjacent fragment was the smallest thing he owned and the only one that had ever come to him with a written consent behind it, and it worked in one direction and at one distance and did nothing else at all. It was not heat. That had taken him two months at Greyvane to understand, and Karis had explained it three times in her own words before it landed: what he had taken from her was not fire but the *decision point* — the single instant at which a thing that is not burning becomes a thing that is, and the ability to put that instant where he chose, at the surface of his own hand, once, at contact.
+The Ember-adjacent fragment was the smallest thing he owned and the only one that had ever come to him with a written consent behind it, and it worked in one direction and at one distance and did nothing else at all. It was not heat. That had taken him two months at Greyvane and three of Karis's patient rewordings to understand: what he had taken from her was not fire but the *decision point* — the single instant at which a thing that is not burning becomes a thing that is, and the ability to put that instant where he chose, at the surface of his own hand, once, at contact.
 
 He put it at the copper.
 
@@ -202,7 +208,7 @@ The man at the end of the row had not written.
 
 The idle state went at the ninety-minute mark, and it went for the reason Brom had named in a corridor four weeks earlier, and Cael did what he had told Lira at the gate he would do.
 
-It happened in the interval after **trial three** — the combined trial, surface read and displacement, drop-frame release from an unannounced rack position, be off the marked square before the weight arrived. He had run it twelve times against the baseline's eight and taken eleven of twelve, because the read had gotten better and the legs had gotten better and the two of them had spent five months learning to be one operation instead of two.
+It happened in the interval after **trial three** — the combined trial, surface read and displacement, drop-frame release from an unannounced rack position, be off the marked square before the weight arrived. He had run it twelve times against the baseline's six and taken eleven of twelve, because the read had gotten better and the legs had gotten better and the two of them had spent five months learning to be one operation instead of two.
 
 Gault's questions afterward were long, and good, which was the problem. He asked about the eleventh repetition, where Cael had gone early, and whether early meant the read had arrived early or the decision had — and Cael had to go all the way inside to answer honestly, down past the surface of his own forearms to a moment that had lasted a fifth of a second and now had to be reconstructed in front of a panel.
 
@@ -314,7 +320,7 @@ Cael was standing on a hip that had taken the entire account for the day and the
 
 "Why not?"
 
-And here it was: the question at the exact centre of everything, asked mildly, in a room with a Compact delegation along the east wall and a records officer logging every word of it, and the honest answer was the only one Cael had prepared for five months to be able to give.
+And here it was: the question at the exact center of everything, asked mildly, in a room with a Compact delegation along the east wall and a records officer logging every word of it, and the honest answer was the only one Cael had prepared for five months to be able to give.
 
 "Because the clerk was standing where I'd have landed."
 
@@ -390,7 +396,7 @@ He had been sitting for three hours in a plain chair with nothing on his lap. He
 
 Cael, standing at the demonstration floor's rail with both hands flat on the stone because the hip was not going to carry him anywhere for a moment, watched him close it.
 
-He had been counting. He had been counting the whole session, on the channel that never turned off, and the count was this: the notebook had come out twice in three hours. Once in the eleven minutes while the reserve frame was being set. Once now, at the end, for about four seconds, and Cael had not been able to see whether the pen had made a new line or gone back over an old one.
+He had been counting. He had been counting the whole session, on the channel that never turned off, and the count was this: the notebook had come out twice in three hours. Once in the eleven minutes while the reserve frame was being set. Once now, at the end, long enough for a line, and Cael had not been able to see whether the pen had made a new one or struck through an old one.
 
 *Twice,* he thought.
 
@@ -419,6 +425,8 @@ He wrote it at the window that night with the new pen, later than he meant to, w
 *What the record doesn't say, itemised, because I refuse to let this be a good day in the retelling and a mystery in six months:*
 
 *One. Six hours of holding the wick. Two before the room, three in it, one after. It went at ninety minutes, for two seconds, because Gault asked me a good question and I went all the way inside to answer it honestly. Honest answers cost me the wick. Nobody could have warned me about that one.*
+
+*And it went thin again in the second and a half after the weight hit the floor — three seconds, properly thin, while every eye in the room was on the frame. Nobody was looking. That is luck, not discipline, and the ledger does not have a column for luck.*
 
 *I stopped the trial and said so out loud and let the clerk log it. It is now in a Compact-observed record that I requested two minutes for fatigue — the most boring sentence in the world, and the only proof I will ever have that I was managing something rather than hiding it.*
 

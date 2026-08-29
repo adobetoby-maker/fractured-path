@@ -1,6 +1,6 @@
 # Chapter 13 — The Operation
 
-The fire-watch posted its closure list in the covered walk every morning at the first bell, on a quarter-sheet of the cheapest paper the academy bought, and as far as Cael could establish in four months of looking, nobody in the building read it but him.
+The fire-watch posted its closure list in the covered walk every morning at the first bell, on a quarter-sheet of the cheapest paper the academy bought, and as far as Cael could establish in three months of looking, nobody in the building read it but him.
 
 It was not a document with any information in it. It was an accounting of lamp oil. Halcenvane burned oil in every hall it kept open past the last bell, and the fire-watch — two men and a boy, working a circuit of the bluff from the residence quadrangles out to the assessment wing and back — logged each building's closing hour so that the bursar could argue with the chandler about the invoice at the end of every month. Hall three, last bell. Lecture complex, last bell. Library, second hour, which was the librarians and always had been. Records hall, closed at last bell.
 
@@ -64,15 +64,15 @@ He wrote the decision down before he made it, in the observation notebook rather
 
 The last four words sat on the page looking exactly as bad as they were, and he left them.
 
-The records hall stood at the eastern end of the administrative range, a squat two-storey block with the enrollment section on the ground floor and the charter archive above it. Three ways in: the main door onto the courtyard, which the fire-watch passed four times a night; the covered walk's inner door, which was the one with the plate; and a service stair on the east face that ran from a yard door up to the archive and had, at its foot, a half-landing with a window and no lamp.
+The records hall stood at the eastern end of the administrative range, a squat two-story block with the enrollment section on the ground floor and the charter archive above it. Three ways in: the main door onto the courtyard, which the fire-watch passed four times a night; the covered walk's inner door, which was the one with the plate; and a service stair on the east face that ran from a yard door up to the archive and had, at its foot, a half-landing with a window and no lamp.
 
 Cael took the covered walk's upper gallery, which overlooked the courtyard and the main door and was, at the third hour, entirely empty and entirely dark.
 
 He was there for forty minutes before he understood that he was the second-best-positioned person on the bluff.
 
-It was not a sighting. He never once saw the man that night. What he had instead was a subtraction — four months of an instrument that measured where attention went, working better in the dark than it had ever worked in daylight: the fire-watch's lantern coming along the range at the third hour, the boy's head turning at every doorway, the older man's not turning at all, because thirty years of the same circuit had taught him which doorways were worth a head-turn.
+It was not a sighting. He never once saw the man that night. What he had instead was a subtraction — three months of an instrument that measured where attention went, working better in the dark than it had ever worked in daylight: the fire-watch's lantern coming along the range at the third hour, the boy's head turning at every doorway, the older man's not turning at all, because thirty years of the same circuit had taught him which doorways were worth a head-turn.
 
-At the second doorway of the administrative range — the shallow one beside the records hall's main door, three feet deep, with a stone bench in it that nobody had sat on in Cael's four months — the boy's head turned, and the older man's head turned, and both of them looked at the bench.
+At the second doorway of the administrative range — the shallow one beside the records hall's main door, three feet deep, with a stone bench in it that nobody had sat on in Cael's three months — the boy's head turned, and the older man's head turned, and both of them looked at the bench.
 
 And neither of them stopped.
 
@@ -94,13 +94,15 @@ The administrative range had that window between the third and fourth hours, for
 
 And the service stair on the east face was the only one of the three ways in that a person could use inside that window without crossing the covered walk itself.
 
+The Shadow unit had met for the first time three days earlier — a long room off the assessment office, nine names off the residence board's sheet, Cael's among them in his own hand, and a teaching assistant working flat through a syllabus Gault had approved and would never attend. Observation. Positioning. Presence-discipline. The first session's whole cargo had been one sentence, delivered to a slate and nine note-taking enrollees as though it were administrative: *a position is an argument about where attention will go.* Cael had copied it down with the rest of the room, and had known it was said to the room and handed to him.
+
 So on the second night Cael did not take the gallery. He took the service stair's half-landing — the dark one, the one with the window and no lamp — at the second hour, and sat down on the fourth step with his back to the wall and waited, and did not look for the man at all.
 
 He was making an argument, in the only language available: *I know when, and I know which door, and here is my evidence, which is that I am sitting on it.*
 
 At some point past the third hour the argument was answered.
 
-He did not hear the door below him. He did not hear anything. What happened was that the quality of the stairwell changed — the flat, unmistakable, entirely unprovable sense of a room becoming occupied — and Cael, who had spent four months writing that sensation up as an instrument and had never once been on the receiving end of it, felt every hair on his forearms stand up at once.
+He did not hear the door below him. He did not hear anything. What happened was that the quality of the stairwell changed — the flat, unmistakable, entirely unprovable sense of a room becoming occupied — and Cael, who had spent three months writing that sensation up as an instrument and had never once been on the receiving end of it, felt every hair on his forearms stand up at once.
 
 Nothing else happened for a full minute. Then, below him, in the dark, a man moved eight or nine feet across a stone floor and made a sound at the eighth foot — one small scuff, deliberate, the sound of somebody choosing to be a person in a room rather than a shape in one.
 
@@ -114,7 +116,7 @@ He wrote it up at the fifth hour, sitting on the floor of his room with his back
 
 *He also scuffed his foot. There is no other person in this building he needed to tell he was there, and there is no version of that man who makes an involuntary noise on a stone floor. I have been sitting with what the scuff was for two hours and I have an answer I don't especially like: courtesy. He came within four feet of somebody sitting in the dark in a building where being found ends his enrollment, and he told him so, because the alternative was letting him find out by being touched.*
 
-*Third note. Tonight I saw the second component, and I have been building the study wrong for four months.*
+*Third note. Tonight I saw the second component, and I have been building the study wrong for three months.*
 
 *Everything I have charted about this Path came from a man standing still. Standing still, it taxes the look. Moving, it does something else — a different thing, not a stronger version of the same thing. He crossed a lit corridor below me and I did not hear a footfall, and then he chose to make one. So it is not that he moves silently. He moves inside the building's own noise. The stair's fourth step complains under everybody; he did not use the fourth step. The library traffic was going past the courtyard end; he moved while it went past. Every increment of that man's movement is folded into a movement the building was already making.*
 
@@ -164,13 +166,13 @@ Below, in the dark, on the fourth step of the lower flight, Cael reached.
 
 He had written the terms out three weeks before, in the common room, with four people watching him do it, and had read them back so many times since that he did not need to remember them so much as fail to forget them.
 
-He was not going to aim it at the man in cold blood. But the operation had been aimed at him — at his file, at his name, at the one sentence in the building that was true about him — for four months, by a professional, on instruction; there was a version of the line where that counted and a version where it did not, and he had chosen the version that counted and signed his own name under it in advance. *Write it down before, not after. That's the whole difference between me and the system.*
+He was not going to aim it at the man in cold blood. But the operation had been aimed at him — at his file, at his name, at the one sentence in the building that was true about him — for three months, by a professional, on instruction; there was a version of the line where that counted and a version where it did not, and he had chosen the version that counted and signed his own name under it in advance. *Write it down before, not after. That's the whole difference between me and the system.*
 
 So he did not reach on instinct. He reached on the fourth step of a stone stair with his enrollment in the balance and a man he owed nine kinds of debt standing eleven feet above him, and he knew exactly what he was doing while he did it, and the knowing was the price and he paid it.
 
 He had done the reach once before, at Greyvane, mid-exchange, with Karis's ignition point going up in front of him. It had felt then like turning a handle he had spent a year and a half not knowing was there. It felt now like turning the same handle in a much larger door.
 
-And then the quiet came, the way it had come six times in his life, from the inside out — the sound of the stairwell going away, the light on the wall going flat, the whole eleven seconds above him subtracted at a stroke.
+And then the quiet came, the way it had come five times before, from the inside out — the sound of the stairwell going away, the light on the wall going flat, the whole eleven seconds above him subtracted at a stroke.
 
 He lost the operation. Entirely. Three seconds, four, in which the most consequential thing he had ever been permitted to watch went on above him and he was not there for it, and he understood while it was happening that this was the bill and that he would be angry about it later.
 
@@ -197,7 +199,7 @@ He read it, and then he read it again, and then he stopped being able to do anyt
 
 *Tier equivalent: Bronze.*
 
-Five notices in his life had carried that line, and five notices had said *unknown*. He had built a whole private theory on the word — that the mechanism could name a type and could not rate one, that rating belonged to somebody else's instrument and not to this one — and the theory had just been deleted by a single word in a flat administrative hand. It could rate. It had been able to rate the entire time. It had looked at Lira's Wind Path and Feryn's Pressure and Brom's Iron Skin and Reydan's compression and Karis's ignition and had declined, five times, to say a number, and tonight it had said one.
+Five notices in his life, and not one of them had ever put a number there. He had built a whole private theory on the word *unknown* — that the mechanism could name a type and could not rate one, that rating belonged to somebody else's instrument and not to this one — and the theory had just been deleted by a single word in a flat administrative hand. It could rate. It had been able to rate the entire time. It had looked at Lira's Wind Path and Feryn's Pressure and Brom's Iron Skin and Reydan's compression and Karis's ignition and had declined, five times, to say a number, and tonight it had said one.
 
 *Note: presence-suppression component; movement-masking component.*
 
@@ -211,7 +213,7 @@ He had made an argument in a common room three weeks ago, out loud, to three peo
 
 The architecture had just agreed with him. In writing. In a field it had never used before.
 
-He sat on the fourth step with his hands shaking and thought, very clearly: *every other one of these arrived while somebody was hitting me.*
+He sat on the fourth step with his hands shaking and thought, very clearly: *every other one of these came out of somebody hitting me.*
 
 Lira had been hitting him. Feryn had been hitting him hard enough that it took a week to breathe properly. Brom had spent three mornings hitting him for science. Reydan had put him on a floor in front of six hundred people. Karis had thrown an ignition point at him under panel supervision with a bout's stakes on it.
 
@@ -251,9 +253,9 @@ Cael went on.
 
 He wrote the failure into the observation notebook standing up in the covered walk, because it was going into the ledger tonight and not in the morning, when he might have been kinder about it.
 
-*First attempt: total. Not a weak deployment — nothing at all, twice, followed by the attention-headache at a rate the Iron-adjacent charges for six breaths of reading. Then the one man in the courtyard whose job is looking at doorways looked straight at me and spoke to me, which in four months on this bluff has happened exactly never.*
+*First attempt: total. Not a weak deployment — nothing at all, twice, followed by the attention-headache at a rate the Iron-adjacent charges for six breaths of reading. Then the one man in the courtyard whose job is looking at doorways looked straight at me and spoke to me, which in three months on this bluff has happened exactly never.*
 
-*I aimed it. I felt myself do the aiming. Brom told me two years ago that the surface read would never once be aimed, and it took me four months to hear him. I have just spent four minutes proving I never learned the general case.*
+*I aimed it. I felt myself do the aiming. Brom told me two years ago that the surface read would never once be aimed, and it took me three months here to hear him. I have just spent four minutes proving I never learned the general case.*
 
 *Working hypothesis, hour one, to be tested and probably discarded: the whole thing runs on not being the person who is watching. Everything else I own runs on attention pointed outward like a lamp. This one may require me to put the lamp down — and if that's right, the two components fight each other in my hands, because folding into a building's movement means reading the building's movement, and reading is the lamp, and the lamp is the thing this Path exists to switch off.*
 
@@ -299,7 +301,7 @@ Karis closed her eyes briefly. "Right. Then tomorrow you're not training, and th
 
 ---
 
-He wrote the entry before dawn, sitting at the window with the shutter half-open and the river doing its business below the bluff, in handwriting that was worse than usual and that he decided not to be embarrassed about, because a hand that shakes is data too.
+He wrote the entry before dawn, sitting at the window with the shutter half-open and the river going by below the bluff, in handwriting that was worse than usual and that he decided not to be embarrassed about, because a hand that shakes is data too.
 
 *Sixth fragment. Bronze — the notice finally said a tier out loud, like the architecture decided I'd earned a number. Acquired from a man who doesn't know, in defense of a file with my name on it, during an operation he let me watch. I drew the line in advance and I stayed on my side of it. It cost anyway. Write that down too.*
 

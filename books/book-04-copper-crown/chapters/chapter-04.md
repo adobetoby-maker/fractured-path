@@ -250,7 +250,7 @@ He opened the door.
 
 ---
 
-The panel was closed. The rumour was in the refectory by the second bell that afternoon.
+The panel was closed. The rumor was in the refectory by the second bell that afternoon.
 
 Cael tracked the mechanism, because tracking the mechanism was the only satisfaction available. It was not a leak. Nobody in the room had said a word; he checked that four different ways over the following week and found no channel at all. What had happened was that the charter required the *fact* of a provision-status evaluation to be posted — date, enrollee, outcome, one line — on the same board in the administration range where every other institutional act was posted, because Halcenvane conducted itself in public and had done for a hundred and forty-one years.
 
@@ -270,9 +270,9 @@ By evening he had heard that he had broken the drop-frame. That he had refused t
 
 Ephram found him at the Crown yard the following afternoon, which was to say that Ephram spoke to him at the Crown yard, in front of about sixty people, on purpose.
 
-There had been a ladder session and it was breaking up. Cael was on the top tier with the notebook, as he had been at every ladder session since the boards went up, and he saw Ephram coming from three tiers down and had eleven seconds to prepare and used all of them.
+There had been a practice session and it was breaking up. Cael was on the top tier with the notebook, as he had been at every session the yard ran since his first week, and he saw Ephram coming from three tiers down and had nine seconds to prepare and used all of them.
 
-*Ephram, close range, first time. Blade Path, Iron R6, tops the Iron bracket. Late seventeen or eighteen. Carries the weight forward on the balls of the feet even standing still, which is a Blade habit and an expensive one — that man is never fully at rest and probably hasn't been for two years.*
+*Ephram, close range, first time. Blade Path, Iron R6, tops the Iron bracket. Seventeen, maybe eighteen. Carries the weight forward on the balls of the feet even standing still, which is a Blade habit and an expensive one — that man is never fully at rest and probably hasn't been for two years.*
 
 *He has not looked at me once in three weeks. That is not avoidance; I've watched him not-look at four other people. It's a policy. He does not spend attention on anything he hasn't decided is worth attention.*
 

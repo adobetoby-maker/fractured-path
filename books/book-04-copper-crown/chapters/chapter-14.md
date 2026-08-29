@@ -94,7 +94,7 @@ The third was in the assessment office. He was at the counter with the Shadow un
 
 Cael went back to the residence and sat on his bed and got very cold.
 
-Three in three days. Four months on this bluff being looked at by five hundred and forty people, the fame problem, the constant low-grade traffic of glances he had measured to two decimal places because it was the ambient weather of his life at Halcenvane — and in three days, three separate people had failed to register him at conversational distance in good light.
+Three in three days. Three months on this bluff being looked at by five hundred and forty people, the fame problem, the constant low-grade traffic of glances he had measured to two decimal places because it was the ambient weather of his life at Halcenvane — and in three days, three separate people had failed to register him at conversational distance in good light.
 
 He was not doing it on purpose. That was the entire problem, and it took him the rest of the evening to find language for it that he could stand.
 
@@ -180,7 +180,7 @@ Cael walked out into the covered walk and stood there for a minute in the traffi
 
 The arithmetic was not complicated and he had been avoiding running it for a fortnight. Every other fragment he carried had been taken from somebody who knew afterward. Lira had known within days and had read the log itself, more of it than anyone. Brom had read the whole document in an alcove in Ardenmere and had then spent a day teaching Cael to use the piece of himself he'd lost. Karis had consented in advance, in her own handwriting, on terms she had drafted. Feryn had never known — but Feryn had been an opponent in a bout on a public circuit floor and had gone on with his life and had never once given Cael anything except an honest fight, and Reydan had asked to be told the answer someday and would be, someday, because he had asked.
 
-Six was different, and it was different in exactly the way the last four months had been different, which was that the man had given him everything.
+Six was different, and it was different in exactly the way the whole term had been different, which was that the man had given him everything.
 
 He had given him a Path to chart at operational range, which no academy floor on the continent would have shown him. He had corrected his paperwork. He had allocated him a sector on two consecutive nights and had made a noise on a stone floor so a boy in the dark would not be startled by a touch. He had watched a fifteen-year-old stop Iron-tier force with a Copper-adjacent baseline in a supervised hall, in front of a room, and whatever he had written about it — and Cael had spent eleven weeks watching the rotations outside the gate for the change that never came — he had not written *that*.
 
@@ -238,7 +238,7 @@ Karis gave him a single folded sheet halfway through, without ceremony, sliding 
 
 He opened it.
 
-It was a chart. Eighteen months across the bottom, six entries plotted, each one with the date of acquisition, the interval to the next, the measured integration period, and the cost — itemized in her small hand under four headings she had invented and defined in a legend at the foot of the sheet: *immediate*, *destabilization*, *continuous*, and *unpaid*. The last column had one entry in it, against the sixth fragment, and it read: *see holder.*
+It was a chart. Two and a half years across the bottom, six entries plotted, each one with the date of acquisition, the interval to the next, the measured integration period, and the cost — itemized in her small hand under four headings she had invented and defined in a legend at the foot of the sheet: *immediate*, *destabilization*, *continuous*, and *unpaid*. The last column had one entry in it, against the sixth fragment, and it read: *see holder.*
 
 "You asked me what the trend line looked like," Karis said. "There isn't one. Four of them arrived in eleven months and then nothing for eight and then two in a year, and the costs don't scale with the tier, and the intervals don't scale with anything I can find. So the answer to your question is that the answer is *no pattern yet*, and I am giving it to you in writing, because a finding of no-pattern is a finding and you and I are both bad at treating it like one."
 
@@ -252,7 +252,7 @@ The package from Hesk came out from under Lira's chair, which meant it had been 
 
 Inside, in a fitted case of unstained pine that Hesk had obviously made himself in about an hour, was a drafting pen.
 
-It was steel. Instrument-maker's work, from the man who had made instruments for thirty years and had never once made a decorative object: the barrel plain, the balance set an inch forward of centre so it sat down into the hand, the nib ground to a fine consistent line and a spare nib housed in the lid, and a small collar near the point where the steel had been left unpolished so the fingers had something to find in the dark.
+It was steel. Instrument-maker's work, from the man who had made instruments for thirty years and had never once made a decorative object: the barrel plain, the balance set an inch forward of center so it sat down into the hand, the nib ground to a fine consistent line and a spare nib housed in the lid, and a small collar near the point where the steel had been left unpolished so the fingers had something to find in the dark.
 
 Under the case was a note, one sheet, in a hand that had gotten larger in the last two years and no less exact.
 

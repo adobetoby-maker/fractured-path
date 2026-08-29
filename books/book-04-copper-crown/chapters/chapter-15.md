@@ -2,7 +2,7 @@
 
 The notice came up the bluff road on a Second-day morning in a courier's satchel, under a registry seal, and Cael watched it arrive without knowing what it was, because he was in the covered walk at the second bell counting a corridor and the courier came past him at eleven feet.
 
-He noted the man because the man was wrong for the season. Crown-season traffic on the bluff was guild factors and instructors and river-house juniors, and they all arrived the same way, which was slowly, in company, looking at the buildings. This one came alone at a working pace with his satchel strapped across his chest and did not look at anything, and his coat was the colour Cael had first seen on a Denvash road five years ago and had never once mistaken for anything else since.
+He noted the man because the man was wrong for the season. Crown-season traffic on the bluff was guild factors and instructors and river-house juniors, and they all arrived the same way, which was slowly, in company, looking at the buildings. This one came alone at a working pace with his satchel strapped across his chest and did not look at anything, and his coat was the color Cael had first seen on a Denvash road five years ago and had never once mistaken for anything else since.
 
 Registry grey.
 
@@ -124,7 +124,7 @@ He built pages on the delegation.
 
 The manifest had eleven names on it and Halcenvane's library had something on nine of them, because a chartered academy holds the Compact's published findings and a published finding carries the panel that made it. He had all nine inside four days: counsel with a nineteen-year run of enrollment-basis findings and a habit of attacking provenance before scope; three clerks with nothing; an escort with nothing; and the two names that mattered.
 
-*Records officer: Havel.* Cael sat looking at that one for some time. Four years ago a young assessor with too-new boots had stood in an Ardenmere corridor and asked him a question he had been told not to ask, and had gone away, and had never once been unkind. He was a records officer on an Archmarshal's manifest now, which was a grade up from the last grade up, and Cael wrote *he keeps rising and he keeps ending up wherever I am, and I have never once decided whether that is a coincidence* and left it.
+*Records officer: Havel.* Cael sat looking at that one for some time. In an Ardenmere corridor, a young assessor with too-new boots had once asked him a question he had been told not to ask, and had gone away, and had never once been unkind. He was a records officer on an Archmarshal's manifest now, which was a grade up from the last grade up, and Cael wrote *he keeps rising and he keeps ending up wherever I am, and I have never once decided whether that is a coincidence* and left it.
 
 *Senior evaluation seat: Assessor Ilsev.* Six published findings in the library's holdings. He read all six twice and did not need the second reading. She was the reason the Greyvane adjudication had gone the way it had gone; she was a woman who read text and went wherever the text went and had, in a hearing room, followed it somewhere nobody at that table had wanted to go. She was, on the evidence, the single most dangerous person on the manifest and possibly the best thing on it, and Cael was entirely unable to decide which, and wrote that down too.
 
@@ -164,7 +164,7 @@ She went out. Rooke, sitting in the faculty rows, did not applaud and did not sc
 
 Ephram found him on the stair afterward, in front of about thirty people, which was how Ephram did everything.
 
-"I said I'd wait for the semester evaluation," he said. "That was before the evaluation had an Archmarshal at the rail. So the terms have changed and I want it said out loud that they've changed in your favour, because anybody can look good in an empty room." He shifted his kit bag. "You get watched by the highest-graded person any of us will ever be in a building with. If you're real, we'll all know in nine weeks. If you're not, we'll know that too, and I'd rather know."
+"I said I'd wait for the semester evaluation," he said. "That was before the evaluation had an Archmarshal at the rail. So the terms have changed and I want it said out loud that they've changed in your favour, because anybody can look good in an empty room." He shifted his kit bag. "You get watched by the highest-graded person any of us will ever be in a building with. If you're real, we'll all know at the evaluation. If you're not, we'll know that too, and I'd rather know."
 
 "So would I," said Cael, and meant it, and Ephram looked briefly annoyed at having agreed with him.
 
@@ -194,7 +194,7 @@ He laid the term out in order, which he had not done since the first month, and 
 
 Six filings. Every sentence in them true. Every one complete in form, correct in appendix, filed on the ninth, walked down to the Ostrand courier post by hand. A term of professional product from an officer with fifteen years and nineteen postings behind him and not one adverse note anywhere in his service.
 
-He had audited product for two of those fifteen years, in a room with four other men who did nothing else, and he knew precisely what this stack looked like from above, because he had written the assessment that ended a colleague's posting off a stack shaped exactly like it. *Complete, consistent, and containing nothing.* You did not need a suspicion to write that assessment. You needed only to lay six reports side by side and notice that a subject who had generated an adjudication, a transcript and a monitoring line three grades above the briefing officer had, across an entire term of embedded coverage, generated no product at all.
+His two auditing years had been spent in a room with four other men who did nothing else, and he knew precisely what this stack looked like from above, because he had once written the assessment that ended a colleague's posting off a stack shaped exactly like it. *Complete, consistent, and containing nothing.* You did not need a suspicion to write that assessment. You needed only to lay six reports side by side and notice that a subject who had generated an adjudication, a transcript and a monitoring line three grades above the briefing officer had, across an entire term of embedded coverage, generated no product at all.
 
 The evaluation seat on the manifest was Ilsev. He had read four of her findings on the road up from the last posting, which was the sort of preparation that had kept him alive in three cities, and he had put the volume down understanding one thing about her clearly: she read what was in front of her, without wanting anything from it, all the way to the end. That was rarer at her altitude than incompetence and a great deal harder to survive.
 
@@ -208,7 +208,7 @@ That evening he ate at the refectory's late sitting, walked the covered walk onc
 
 His room held a bed, a table, a shuttered window, a lamp, and a case.
 
-The case was leather over a wood frame, dark with handling, with a lock in it that had cost more than the case and a strap he had replaced twice. It had been to nineteen postings. It fit under the bed if the bed was against the wall and it fit in the bottom of a travelling chest if it was not, and it had gone into and come out of both without once being opened by anybody but him.
+The case was leather over a wood frame, dark with handling, with a lock in it that had cost more than the case and a strap he had replaced twice. It had been to every posting he had ever held. It fit under the bed if the bed was against the wall and it fit in the bottom of a travelling chest if it was not, and it had gone into and come out of both without once being opened by anybody but him.
 
 He took the day's private page out of his coat — his own shorthand, his own cipher, four lines, the fire-watch's closure hours and the records-office matter's disposition and a note about the Crown final's date — and unlocked the case and put the page inside with the others, and locked it, and put it back.
 
@@ -234,7 +234,7 @@ Cael stood in front of it in the Fifth-day traffic with four hundred people goin
 
 *Charter inspection — Guilds Compact delegation. Records sessions, the twelfth to the fifteenth. Facility review, the fourteenth. Faculty interviews, the fifteenth and sixteenth. Provision-status evaluation: observation right reserved, the twentieth of Reaping.*
 
-Nine weeks, and the two columns overlapping by a week in the middle, and every date on both of them scheduled by ordinary people doing ordinary jobs who had not once conferred.
+Six weeks out, the two columns overlapping by a week in the middle, and every date on both of them scheduled by ordinary people doing ordinary jobs who had not once conferred.
 
 He had stood in front of a board like this before. That was the thing he could not stop noticing: a notice-board in a smaller academy in a colder month, with a hearing date on it and his own name in a line of print, and a fifteen-year-old reading it and finding out that the system had scheduled him. He had thought at the time that it was the worst a board could do.
 
@@ -242,7 +242,7 @@ This board had two dates on it and neither of them was a threat. One of them was
 
 He read them both a third time and went to his session, and wrote it at the window that night with the new pen.
 
-*Last time the Compact came to an academy for me, they sent a warden with a challenge. This time they're sending an Archmarshal with no stated business at all. Coss I could read in a week. I don't know what reads an Archmarshal. Nine weeks to find out.*
+*Last time the Compact came to an academy for me, they sent a warden with a challenge. This time they're sending an Archmarshal with no stated business at all. Coss I could read in a week. I don't know what reads an Archmarshal. Six weeks to find out.*
 
 And beneath it, because it belonged with it:
 
@@ -252,4 +252,4 @@ And beneath it, because it belonged with it:
 
 *I have spent two years being told by institutions to stop existing so loudly. This is the first time an institution has told me to keep doing exactly what I'm doing, and meant it, and been right.*
 
-*Nine weeks of dull. Begin.*
+*Six weeks of dull left. Hold.*

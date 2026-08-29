@@ -2,7 +2,7 @@
 
 He read the adjudication transcript for the fourth time on the last morning of the road, with the shutter down against the dust and the case open on the seat beside him, and he read it in the order the panel had received it rather than the order that would have been convenient.
 
-That was the discipline, and it was forty years old, and it had cost him whole weeks over the course of a career. Primary record first, complete, in sequence, including the procedural matter and the two adjournments and the eleven minutes of argument about whether a document could be entered without its cover sheet. Then the exhibits, in the order they had been tendered, which was almost never the order a summarizer would choose, because a summarizer chooses the order that makes the finding legible and the finding was the last thing he wanted made legible for him. Then, and only then, the product of other officers: the monitoring summaries, the field reports, the collated observations of men and women who had been paid to watch and had written down what they thought they saw.
+That was the discipline, and it was forty years old, and it had cost him whole weeks over the course of a career. Primary record first, complete, in sequence, including the procedural matter and the two adjournments and the quarter-hour of argument about whether a document could be entered without its cover sheet. Then the exhibits, in the order they had been tendered, which was almost never the order a summarizer would choose, because a summarizer chooses the order that makes the finding legible and the finding was the last thing he wanted made legible for him. Then, and only then, the product of other officers: the monitoring summaries, the field reports, the collated observations of men and women who had been paid to watch and had written down what they thought they saw.
 
 He read that last, and once, and he had a phrase for why, which he had said aloud perhaps six times in his life and written down never.
 
@@ -10,7 +10,7 @@ He read that last, and once, and he had a phrase for why, which he had said alou
 
 It was not contempt. He had been an observer. It was arithmetic: a report told you what one person had been able to notice, from where they had stood, with the instructions they had been given, and every one of those three was a limit, and the limits went into the paper along with the facts and could not afterward be separated out. A report was a reading taken through an instrument whose calibration you did not hold. You could use it. You could not build on it.
 
-So the appendix of monitoring filings from the receiving institution — six sheets, compiled, indexed in a fourth handwriting, covering an entire term of embedded coverage on a provision-status enrollee — he read on the second morning of the road, in eleven minutes, and set down, and did not annotate. Complete in form. Correct in appendix. A term of a competent officer's product, telling him what a competent officer had been positioned to see, which was a fact about the officer's position.
+So the appendix of monitoring filings from the receiving institution — six sheets, compiled, indexed in a fourth handwriting, covering an entire term of embedded coverage on a provision-status enrollee — he read on the second morning of the road, in nine minutes, and set down, and did not annotate. Complete in form. Correct in appendix. A term of a competent officer's product, telling him what a competent officer had been positioned to see, which was a fact about the officer's position.
 
 He put it back in the file and went on to the exhibits.
 
@@ -18,7 +18,7 @@ The transcript itself he had now been through four times and had marked in four 
 
 *Why concede the category?* — beside session two, where the respondent, a boy of fifteen with no counsel and three weeks' preparation, had stood in front of a panel and given away, unforced, the single point everyone in the room had expected him to fight for.
 
-*Who taught him the schedule's structure?* — beside session four, where the same boy had walked a hearing through an enumerated list, amendment by amendment, and had understood, in a way that eleven-year practitioners of registry law routinely did not, that a closed enumeration is closed in both directions.
+*Who taught him the schedule's structure?* — beside session four, where the same boy had walked a hearing through an enumerated list, amendment by amendment, and had understood, in a way that practitioners with a decade of registry law behind them routinely did not, that a closed enumeration is closed in both directions.
 
 *Verify: three weeks' preparation — from what baseline?* — twice underlined, which for him was not emphasis but an instruction to himself, meaning *this is the load-bearing question and you will be tempted to accept the obvious answer.*
 
@@ -40,7 +40,7 @@ An inspection, from an enrollee's altitude, was mostly furniture moving.
 
 Cael had expected that and had still not expected how completely it would be true. For two days the delegation was a set of doors that were now closed at hours when they had been open — the records hall's back room, the second-floor conference space above the lecture complex, the assessment wing's document store — and a pattern of clerks in the covered walk carrying boxes in one direction in the morning and the other direction at the fourth bell. That was all. Eleven people had come up a hill and the building had absorbed them the way a body absorbs a splinter, which is to say by building a shape around it and going on.
 
-He went to his sessions. He went to his lectures. He submitted his coursework on the day it was due and not the day before it, because a boy who suddenly becomes early is a boy who has started performing, and Withrow had used eleven minutes of a five-hundred-person hall to explain that a performance was the only thing an inspection could actually detect.
+He went to his sessions. He went to his lectures. He submitted his coursework on the day it was due and not the day before it, because a boy who suddenly becomes early is a boy who has started performing, and Withrow had used nine minutes of a five-hundred-person hall to explain that a performance was the only thing an inspection could actually detect.
 
 And he built the page, because that was what he had instead of a bracket.
 
@@ -52,7 +52,7 @@ Assessor Ilsev he could not build a page on and did not need one, because he had
 
 Havel was the strange one, and Cael did not enjoy discovering how strange.
 
-They passed at eleven feet on the second afternoon, in the walk, going opposite directions, with about forty people between the walls. Havel had a document case under one arm and a clerk half a pace behind him and did not look up, and Cael watched the whole approach and the whole passage with the compound gaze wide open and got a clean, complete reading of a records officer walking to a records session.
+They passed at a dozen feet on the second afternoon, in the walk, going opposite directions, with about forty people between the walls. Havel had a document case under one arm and a clerk half a pace behind him and did not look up, and Cael watched the whole approach and the whole passage with the compound gaze wide open and got a clean, complete reading of a records officer walking to a records session.
 
 Except for the shoulder.
 
@@ -74,7 +74,7 @@ Three hours in front of a panel on the twentieth was the problem he had spent th
 
 So he went in having slept nine hours, which he had done on purpose, and having eaten at the second bell rather than the third, and having decided in advance which of the three parts of the sequence he would let go slack if the account ran low.
 
-The delegation came in at the fourth bell and eleven minutes, seven of them, and arranged themselves along the gallery rail at the north end, and Cael did not look up, and knew where every one of them was standing inside ten seconds because the floor's noise changed shape.
+The delegation came in just past the fourth bell, seven of them, and arranged themselves along the gallery rail at the north end, and Cael did not look up, and knew where every one of them was standing inside ten seconds because the floor's noise changed shape.
 
 Then he worked.
 
@@ -86,7 +86,7 @@ He held his own edges the entire fifty minutes, and he could describe afterward 
 
 It cost the drill.
 
-Not visibly. The wing observer's count came out at fifty-four clean of sixty, which was inside his ordinary band and two above his worst week. But Cael knew what he had done to get there, and it was this: he had run the redirect on structure instead of on read. He had stopped taking the surface pressure off Brom's forearm a half-beat before contact — the Iron-adjacent read, the thing that had made this drill worth doing at all — because the read and the idle state did not share a hallway, they had never shared a hallway, the working ledger had said *exclusivity: total* since the first week, and with seven of the Compact's senior staff at the rail there had been exactly one of those two he was permitted to drop.
+Not visibly. The wing observer's count came out at fifty-four clean of sixty, which was inside his ordinary band and two above his worst week. But Cael knew what he had done to get there, and it was this: he had run the redirect on structure instead of on read. He had stopped taking the surface pressure off Brom's forearm a half-beat before contact — the Iron-adjacent read at working depth, the thing that had made this drill worth doing at all — because the read at that depth and the idle state drew on the same account, had drawn on it since the fragment's first week, and the account had a floor. The read's cheap ambient layer went on reporting the room, because that layer cost nothing and had never once cost anything; the reach into a forearm was the part with a price on it, and with seven of the Compact's senior staff at the rail there had been exactly one of those two disciplines he was permitted to let go.
 
 So he had dropped the useful one and kept the invisible one, and had done a Copper-baseline redirect drill at Copper baseline, fifty-four times, correctly, in front of people who had come four days up a river road to see what he was.
 
@@ -106,7 +106,7 @@ Afterward, in the corridor, with the tremor in his forearms that came off contac
 
 *Gain: nothing. There is no gain. This is a maintenance cost and it produces no capability whatsoever; the entire product of fifty minutes of it is that nothing happened.*
 
-*Cost, itemized honestly: (1) the continuous rate, which I now price at about what the compound gaze costs at half extension, running the whole time. (2) The exclusivity — I could not run the surface read at any point in the session. Fifty minutes of the drill that exists to train the read, run without the read. That's the real bill and it will be the real bill on the twentieth. (3) After, about ninety minutes where reading anything is unpleasant. Pressure behind both eyes, the currency the compound gaze spends.*
+*Cost, itemized honestly: (1) the continuous rate, which I now price at about what the compound gaze costs at half extension, running the whole time. (2) The account — the read never came up past its ambient layer the whole session, because the wick and the read at depth spend from the same account and the account has a floor. Fifty minutes of the drill that exists to train the read, run on the stub of it. That's the real bill and it will be the real bill on the twentieth. (3) After, about ninety minutes where reading anything is unpleasant. Pressure behind both eyes, the currency the compound gaze spends.*
 
 *Useful where: nowhere, still, at eighty days. It is not a capability. It is rent.*
 
@@ -168,7 +168,7 @@ Two exchanges was enough to establish that the faculty panel was calling the sam
 
 ---
 
-Magister Gault said eleven words to him on the fifteenth and Cael would carry them for a month.
+Magister Gault gave him one exchange on the fifteenth and Cael would carry it for a month.
 
 It was at the assessment wing's counter, at the second bell, over a floor allocation — the ordinary transaction, the one Cael had performed perhaps ninety times. Gault came through the back with a folder under his arm, saw him, stopped, and delivered it in the register he delivered everything in, which had never once in a full term risen or fallen.
 
@@ -210,9 +210,9 @@ He turned that against the other thing he knew — that the reports themselves w
 
 ---
 
-He went up to the Crown yard's upper tier on the sixteenth evening, alone, at the hour when the yard was empty and the light off the river came up the bluff the colour of weak tea, and he wrote the week's entry there rather than at the window, because the window had half a year of ordinary entries in it and this one did not feel ordinary.
+He went up to the Crown yard's upper tier on the sixteenth evening, alone, at the hour when the yard was empty and the light off the river came up the bluff the color of weak tea, and he wrote the week's entry there rather than at the window, because the window had half a year of ordinary entries in it and this one did not feel ordinary.
 
-Below, the yard was being swept. Two porters, one broom each, working from the centre out, the way they did it every evening, so that the tiers stayed clean and the floor got done twice.
+Below, the yard was being swept. Two porters, one broom each, working from the center out, the way they did it every evening, so that the tiers stayed clean and the floor got done twice.
 
 *Four watchers, four grades, and I have finally got the taxonomy,* he wrote.
 
@@ -230,6 +230,6 @@ Below, the yard was being swept. Two porters, one broom each, working from the c
 
 *The Compact finally sent someone who takes notes the way I take notes.*
 
-He stopped there for a while. Below, the porters finished the centre and started on the tiers.
+He stopped there for a while. Below, the porters finished the center and started on the tiers.
 
 *I can't decide if that's the best news of the year or the worst,* he wrote, and closed it, and went down.

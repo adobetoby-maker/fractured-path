@@ -4,13 +4,13 @@ Ten days after the pin sheared, Seln sat down at his own table in his own room w
 
 He wrote something down for himself.
 
-He had thought about it for most of a week, in the way he thought about operational questions, which was to say not deliberately and not at set times but continuously and at a low rate, the way a man carries a small stone in a boot and adjusts around it. The conclusion had assembled itself on the bluff road on the ninth day, coming back up from the courier post in the dark with the third of the null reports already in the bag going south, and he had recognized it as a conclusion because it arrived with the shape of something he had been avoiding rather than something he had been reaching for.
+He had thought about it for most of a week, as he thought about all operational questions, which was to say not deliberately and not at set times but continuously and at a low rate, the way a man carries a small stone in a boot and adjusts around it. The conclusion had assembled itself on the bluff road on the ninth day, coming back up from the courier post in the dark with the third of the null reports already in the bag going south, and he had recognized it as a conclusion because it arrived with the shape of something he had been avoiding rather than something he had been reaching for.
 
 The reasoning was not complicated and he did not dress it up.
 
 An officer who stops reporting is a liability. That was the first premise and it was true and every man in the service knew it. The apparatus does not run on the honesty of its officers; it runs on the *completeness* of its files, and the file is the only thing that survives a posting, and an officer whose files have a hole in them has built a trap that will close on him in four years when somebody with better access reads the same period from a different angle and asks why one man's product went quiet at exactly the point the interesting thing happened.
 
-An officer who stops reporting and stops recording is worse than a liability. He is a fool. Because the hole is going to be found eventually — everything is found eventually, it is a slow apparatus but it is not a stupid one — and when it is found, the officer's entire defence rests on his ability to say what he knew and when he had known it, and a man who has kept nothing has no defence at all. He has only his word, and the word of a covered officer with a gap in his product is worth precisely nothing, and Seln had personally watched it be worth nothing twice.
+An officer who stops reporting and stops recording is worse than a liability. He is a fool. Because the hole is going to be found eventually — everything is found eventually, it is a slow apparatus but it is not a stupid one — and when it is found, the officer's entire defense rests on his ability to say what he knew and when he had known it, and a man who has kept nothing has no defense at all. He has only his word, and the word of a covered officer with a gap in his product is worth precisely nothing, and Seln had personally watched it be worth nothing twice.
 
 So: the file. Not product. Not a report. A private record, kept for himself, in his own shorthand, of what he had observed and when and what he had judged about it. If it was ever needed, it existed. If it was never needed, it cost him nothing but paper.
 
@@ -76,7 +76,7 @@ He had written all three at the same table in the same hand and had walked all t
 
 That last sentence had been in the first report and in every one since, and he had written it the first time because it had been true, and had written it the fourth time because it was the sentence the assignment existed for and the sentence its absence would be noticed in.
 
-He had audited product for two years, early, and he knew what his own now looked like from above. It looked like a competent officer with excellent access producing accurate, unexceptional coverage of a stable situation. It looked, in fact, exactly like what it had looked like in the first month, which was the part an auditor would notice if an auditor ever went looking — because a live situation does not stay flat, and coverage that stays flat across a term is coverage of a situation that has stopped moving or coverage that has stopped following it, and there is no third option.
+He knew what his own product now looked like from above. It looked like a competent officer with excellent access producing accurate, unexceptional coverage of a stable situation. It looked, in fact, exactly like what it had looked like in the first month, which was the part an auditor would notice if an auditor ever went looking — because a live situation does not stay flat, and coverage that stays flat across a term is coverage of a situation that has stopped moving or coverage that has stopped following it, and there is no third option.
 
 He knew that. He knew it with the precision of a man who had once written a training note about it.
 
@@ -100,7 +100,7 @@ Seln put the form on the counter, turned it round, and did not look up.
 
 Cael signed. The pen was the office's and scratched.
 
-"There's a coursework change going through for next term," Seln said, to the form. "Field assessment. Gault is adding a unit."
+"There's a coursework change going through for the term's back half," Seln said, to the form. "Field assessment. Gault is adding a unit."
 
 He said it the way the counter said everything at that hour — flatly, at the volume of a man passing on a room clash, to a boy he happened to be processing.
 
@@ -212,9 +212,9 @@ Karis had stopped writing.
 
 ---
 
-Cael wrote the entry at the window with the shutter open and the river doing its business below the bluff — the barge horns going, the long call and the two short ones, *loaded, downstream, give way*, which he had decoded in the second month and stopped hearing in the third.
+Cael wrote the entry at the window with the shutter open and the river doing its business below the bluff — the barge horns going, the long call and the two short ones, which he had long since stopped hearing and tonight, for some reason, heard.
 
-He wrote the standing lines first, because the inventory came before the commentary and always had. Five confirmed. The Compression-adjacent's forearm had come right on the fourth day rather than the second, and he entered that as an amendment to the recovery column rather than as an alarm, because one instance at an unmeasured load was not a curve.
+He wrote the standing lines first. Five confirmed. The Compression-adjacent's forearm had come right on the fourth day rather than the second, and he entered that as an amendment to the recovery column rather than as an alarm, because one instance at an unmeasured load was not a curve.
 
 Then the entry, and it came out whole, which almost never happened twice in a term.
 

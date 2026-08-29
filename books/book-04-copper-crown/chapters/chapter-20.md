@@ -2,7 +2,7 @@
 
 It took the three of them twenty minutes to get Lira up the residence steps, and the argument about it lasted longer than the climb.
 
-She could put weight on the leading side for about a second and a half at a time and had established this by doing it four times in the covered walk while Cael stood there and let her, because eleven months had taught him that stopping Lira from proving something to herself cost more than the proof did. The wing's duty practitioner had looked at the hip in the yard, at the seventh bell, and had said what everybody in the building already knew — deep strain along the crest, nothing torn, four days off it, ice tonight and heat tomorrow — and had then said the other thing, in the flat voice of a woman who had been treating Copper-bracket fighters for eleven years.
+She could put weight on the leading side for about a second and a half at a time and had established this by doing it four times in the covered walk while Cael stood there and let her, because three years had taught him that stopping Lira from proving something to herself cost more than the proof did. The wing's duty practitioner had looked at the hip in the yard, at the seventh bell, and had said what everybody in the building already knew — deep strain along the crest, nothing torn, four days off it, ice tonight and heat tomorrow — and had then said the other thing, in the flat voice of a woman who had been treating Copper-bracket fighters for eleven years.
 
 "You did this to it on purpose."
 
@@ -38,21 +38,21 @@ Karis set it out on the table in her own hand, on four sheets, and she had clear
 
 "That's what tonight's for." She turned the first sheet round. "So. The published assessment standard. Bracken got me the calibration schedule and the wing's standing instrument schedules, both of which are public documents and both of which I have now read more carefully than anybody in this academy including, I suspect, the man who wrote them."
 
-The sheet had six rows.
+The sheet had five rows.
 
-"Six trials at the baseline, six trials tomorrow, and Gault will run them in the same order because Gault runs everything in the same order. Trial one, drop-frame: guided weight, known force, known instant. Trial two, shutter-board: nine louvres, randomising drum, reaction and displacement. Three, dynamometer. Four, pendulum and the dust plate — interval work and foot placement. Five, the surface read against a pressure you can't see coming. Six, repetition to degradation."
+"Five trials at the baseline, the same five tomorrow, and Gault will run them in the order he ran them then, because Gault runs everything in the same order. Trial one, the shutter-board: nine louvres, randomising drum, displacement on the signal — the pendulum takes your interval, the brass takes your distance. Two, the drop-frame with the surface read: a known weight from an unannounced rack position, off the marked square before it arrives. Three, the plate on its brace: received force, dispersal, repetition to your stated ceiling. Four, the frame again at its heaviest, the margin cut thin, and the chalked plate reading where your feet actually went rather than where you believe they went. Five, the first two again, cold, at the end, to find out what three hours have moved."
 
-"I know the six."
+"I know the five."
 
-"You know what they are. You don't know what they *say*, because you were the thing being measured and I've spent a fortnight reading them as an evaluator would." Karis put her finger on the first row. "Here's the number that matters and it's the only number I want you to carry into that room. At the baseline you took weight three on the drop-frame with a redirect the clerk logged as clean in five of six trials. Wind-adjacent displacement on the shutter-board: you volunteered a ceiling of four repetitions, unprompted, which Gault wrote into the record as the single most useful sentence anybody had said to him in that room all year. Surface read: you identified the incoming pressure's shape in four of six."
+"You know what they are. You don't know what they *say*, because you were the thing being measured and I've spent a fortnight reading them as an evaluator would." Karis put her finger on the first row. "Here's the number that matters and it's the only number I want you to carry into that room. At the baseline you took weight three on the drop-frame with a redirect the clerk logged as clean in five of six runs. Wind-adjacent displacement on the shutter-board: you volunteered a ceiling of four repetitions, unprompted, which Gault wrote into the record as the single most useful sentence anybody had said to him in that room all year. The read's contribution to the frame trial: five clean calls in six."
 
 "And what does a term buy?"
 
-"That's the question I've been on for a fortnight and here's the answer, and you're going to dislike the shape of it." She sat back. "A practitioner training four supervised sessions a week under competent instruction, from that baseline, with no unusual event, should present: weight four on the frame at the same cleanness, or weight three at six of six. Ceiling of five or six on the shutter-board, not four. Surface read at five of six. That is the band. Above the band you are a new question and the whole room has to stop and consider what it's looking at. Below it and you have failed the provision's own honest language, because the enrollment was granted on a basis of evaluation by demonstration and a demonstration that demonstrates nothing is a demonstration that failed."
+"That's the question I've been on for a fortnight and here's the answer, and you're going to dislike the shape of it." She sat back. "A practitioner training four supervised sessions a week under competent instruction, from that baseline, with no unusual event, should present: weight four on the frame at the same cleanness, or weight three at six of six. Ceiling of five or six on the shutter-board, not four. That is the band. Above the band you are a new question and the whole room has to stop and consider what it's looking at. Below it and you have failed the provision's own honest language, because the enrollment was granted on a basis of evaluation by demonstration and a demonstration that demonstrates nothing is a demonstration that failed."
 
 "That's a narrow band."
 
-"It's a *generous* band. I built it generously on purpose, twice, and then had Bracken check the arithmetic without telling him what it was for." Karis tapped the sheet. "The narrow part isn't the band. The narrow part is that you have to land inside it on six separate instruments, in front of a magister who cares about consistency more than magnitude and has said so out loud, while holding a continuous discipline nobody in that room knows you're running, for three hours."
+"It's a *generous* band. I built it generously on purpose, twice, and then had Bracken check the arithmetic without telling him what it was for." Karis tapped the sheet. "The narrow part isn't the band. The narrow part is that you have to land inside it on every instrument in that wing, in front of a magister who cares about consistency more than magnitude and has said so out loud, while holding a continuous discipline nobody in that room knows you're running, for three hours."
 
 Brom, from the floor by the stove with his leg out straight, said, "And it has to look like it isn't work."
 
@@ -82,9 +82,9 @@ Karis was the panel. She had the published standards, a borrowed timing glass, f
 
 Brom was the apparatus.
 
-He could not move off the mark, which turned out not to matter and in one respect to help. Iron Skin from a fixed stance at cohort speed was a better analogue for a drop-frame than anything else in the building: a known force arriving at an instant he did not control, from a man who had spent a term being taught by Rooke's cohort to deliver it as fast as it could be delivered.
+He could not move off the mark, which turned out not to matter and in one respect to help. The shutter-board's trial they walked through dry — displacement was displacement, and there was no randomising drum in a residence common room — and then Brom took his mark, because Iron Skin from a fixed stance at cohort speed was a better analogue for a drop-frame than anything else in the building: a known force arriving at an instant Cael did not control, from a man who had spent a term being taught by Rooke's cohort to deliver it as fast as it could be delivered.
 
-*Trial one, run one.* Cael took it on the forearm and turned it down into the floor, and it was clean, and Karis wrote and asked her question and he answered it.
+*Trial two, run one.* Cael took it on the forearm and turned it down into the floor, and it was clean, and Karis wrote and asked her question and he answered it.
 
 *Run two.* Clean.
 
@@ -106,17 +106,17 @@ Cael put his hands on the back of a chair and stood there.
 
 He had not decided to open the surface read. That was the thing that took him the longest twenty seconds of the evening to say out loud, and he said it because the covenant's whole architecture was that he said things like this out loud in this room.
 
-"I didn't turn it on," he said. "It was on. It's been off for eleven days because the idle state and the read don't share a hallway and I've been holding the idle state since the delegation came up the hill. And I've just spent three hours in a yard not holding anything, because I wasn't being watched by anybody, and it came back on when I stopped, and I didn't notice."
+"I didn't turn it on," he said. "It was on — all the way open, at working depth. It's been down to its ambient layer since the delegation came up the hill, because the read at depth and the idle state spend from the same account and the account has a floor. The low layer I can afford; it reads a room and nothing faster than a room. The reach into a forearm is the part with a price on it. And I've just spent three hours in a yard not holding anything, because every eye on that bluff was on two other people, and the read came back open when I stopped holding, and I didn't notice it happen."
 
 "So on the day," said Karis, "in a room with the Compact in it—"
 
-"On the day I hold the idle state, so the read is off, so run three is impossible." He heard his own voice come out flat and was grateful for it. "Which means the number I put on Gault's floor tomorrow is a number produced without the single best instrument I own, and Gault will log it, and it'll be honest, and it'll be lower than what I can actually do."
+"On the day I hold the idle state, so the read runs low, so run three is impossible." He heard his own voice come out flat and was grateful for it. "Which means the number I put on Gault's floor tomorrow gets produced with the best instrument I own turned down to a stub, and Gault will log it, and it'll be honest, and it'll be lower than what I can actually do."
 
 "Is it inside the band?"
 
 He did the arithmetic, which took him a moment, and the answer was the only good news of the hour.
 
-"Weight four at five of six," he said. "Without the read. It's inside. It's at the bottom."
+"Weight four at five of six," he said. "On the stub. It's inside. It's at the bottom."
 
 "Then that's the plan," said Karis, and wrote it down, and did not offer him one word of comfort about it, which was worth more than comfort.
 
@@ -148,13 +148,13 @@ He did, and it took him three attempts to do it convincingly, which was itself a
 
 "That's the trap, and it's a better trap than the one you've been guarding, because it's the one you'd walk into voluntarily." She wrote for a moment. "So the instruction is not *hold back*. The instruction is: land on the number. Not under it, not over it. Which is an enormously harder thing than either, and it's the actual work, and we now have three hours to practise it and one man with a bad knee to practise it against."
 
-They did trial five twice and abandoned it, because there was no way to rehearse a surface read without the surface read, and both of them knew it and Karis logged the abandonment rather than pretending.
+Trial five they did not attempt, because running everything again cold only means something at the end of the three hours that make it cold, and the read at working depth could not be rehearsed with at all — it was down to its stub and it was staying down. Karis logged both rather than pretending.
 
-*Trial five: not rehearsed. Instrument unavailable. Plan for the day: state the limitation to the panel before the trial rather than after.*
+*Trial five: rehearsal not possible. Read at depth: not available, tonight or tomorrow; the day runs on the low read only. Plan for the day: if the wick goes past thin, stop the trial, out loud, and let the interval be logged. A logged interval is a line in a record. A drift is evidence.*
 
-"You can do that?" said Brom.
+"You can just — stop a trial?" said Brom.
 
-"He told me I could in the first month and I wrote it down," said Cael. "*If at any moment you cannot do a thing, say so, and we will record that you could not do it, and it will not count against you in any way except that it will be true. A refusal I have to infer is worth less to me than a refusal you state.*" He heard how exactly he had reproduced it and shrugged. "I've had that sentence in the notebook for eleven months. Tomorrow's the first time I get to spend it."
+"He told me I could in the first month and I wrote it down," said Cael. "*If at any moment you cannot do a thing, say so, and we will record that you could not do it, and it will not count against you in any way except that it will be true. A refusal I have to infer is worth less to me than a refusal you state.*" He heard how exactly he had reproduced it and shrugged. "I've had that sentence in the notebook for five months. Tomorrow may be the first time I spend it."
 
 ---
 
@@ -186,11 +186,11 @@ Karis was already turning to a fresh sheet, because a number of that shape was t
 
 Everyone looked at her.
 
-She was sitting sideways in the chair with her leading leg propped and a cloth of ice on the hip and her face the colour of the wall, and she said it as though it were obvious, which for her it was.
+She was sitting sideways in the chair with her leading leg propped and a cloth of ice on the hip and her face the color of the wall, and she said it as though it were obvious, which for her it was.
 
 "You've been thinking about this as a discipline problem for eighty days and you've built eleven techniques and they all work while somebody's hitting you and none of them work while you're standing on a mark waiting. That's because they're all techniques for *doing* something, and in the gap there's nothing to do." She shifted, and winced, and went on. "So make something. In the gap tomorrow, pick one person in that room and fight them. Not out loud. Read them. Rhythm, weight, breath, the fourth pass, all of it, on one person, for the whole ninety seconds, and don't stop when the panel comes back — just take a layer off and keep it running underneath."
 
-"The read's off. I can't run—"
+"The read's down to almost nothing. I can't run—"
 
 "Not the fragment. *You*." She said it with a flash of something that was nearly temper. "The notebook. The thing you built when you were fourteen with a fruit vendor and no Path at all and nothing in you at all. That's not a fragment, Cael, that's *yours*, it's the only thing in the whole of your ledger that didn't come off somebody else, and you can run it all day and it doesn't cost you a fragment, it doesn't cost you the idle state, and it will keep your attention pinned to the outside of your own skin for three hours, which is the entire problem."
 
@@ -259,6 +259,8 @@ He worked the four sentences into the plan in the last half-hour, at the table, 
 *Surprise them exactly once, small, early* was the piece he did not have and could not have built, and it took him twenty minutes to work out what the surprise should be, and the answer was the only capability he owned that was on a record, unremarkable in itself, and had never once been demonstrated in this building.
 
 The Ember-adjacent ignition point. It was in Greyvane's panel notes. It was in the adjudication transcript that half the continent had read. It was, on the page, the least impressive thing in his ledger — a point of ignition, small, requiring contact, expensive in a way nobody watching would ever see. Nobody at Halcenvane had seen it. Gault's instruments had never measured it. It was, in Karis's language, entirely inside the record's permission and entirely outside the room's expectation, which made it the only object in his possession that could be spent once, early, at a cost of nothing, to give eleven experienced watchers a thing to find.
+
+And it was his to place. The provision measured what an enrollee elected to put on the floor — Gault had said so at the baseline, in those words — and an election could name its own place in the order.
 
 *A watcher who finds one thing stops hunting for a second.*
 

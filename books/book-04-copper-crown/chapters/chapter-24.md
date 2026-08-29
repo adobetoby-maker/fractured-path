@@ -2,7 +2,7 @@
 
 The Compact registry station in Ostrand stood on the third street back from the wharfs, in a building that had been a grain factor's counting house before the Compact bought it, and it did not look like anything at all.
 
-That was the first thing Cael wrote down about it, standing across the street at the second bell in the first week of the month after Reaping, with the rain not quite starting. Two storeys, brown stone, a door with a step worn into a dish, and one plate beside the door about the size of a book. He had built the place enormous in his head for four years without ever once meaning to and had never noticed doing it, and here it was, being a building, on a street with a rope-maker on one side of it and nothing much on the other.
+That was the first thing Cael wrote down about it, standing across the street at the second bell in the first week of the month after Reaping, with the rain not quite starting. Two stories, brown stone, a door with a step worn into a dish, and one plate beside the door about the size of a book. He had built the place enormous in his head for four years without ever once meaning to and had never noticed doing it, and here it was, being a building, on a street with a rope-maker on one side of it and nothing much on the other.
 
 Lira looked at it for a while.
 
@@ -10,7 +10,7 @@ Lira looked at it for a while.
 
 "Everything's smaller than Denvash."
 
-"No, I mean it's *smaller*." She hitched the strap of her kit higher on her shoulder. "Fenmark had a hall. Two storeys of hall, with a window at the end you could see the sigil through from the street, and they made you wait in it. Forty of us, benches down both sides, and the assessors came through in a line and you all stood up." She said it without any weight at all, which from Lira was how you knew. "I was fourteen and I stood up eleven times in one morning."
+"No, I mean it's *smaller*." She hitched the strap of her kit higher on her shoulder. "Fenmark had a hall. Two stories of hall, with a window at the end you could see the sigil through from the street, and they made you wait in it. Forty of us, benches down both sides, and the assessors came through in a line and you all stood up." She said it without any weight at all, which from Lira was how you knew. "I was fourteen and I stood up eleven times in one morning."
 
 "And this is a door."
 
@@ -278,7 +278,7 @@ He wrote the year's inventory on the last night of term, at the window, with the
 
 *Pressure-adjacent — Feryn. Reliable, use restricted, and the restriction has now cost me a flat line in a semester evaluation on a Compact-observed record. Gault defended me for it in front of a delegation without knowing what he was defending. Price: paid in the shoulder, four repetitions at a time, twice a year, forever.*
 
-*Iron-adjacent — Brom. Surface read. The cheapest thing I own and the one that saved a clerk from being landed on. Twelve of twelve on a drop-frame this year against eleven of twelve at the baseline, and nine of twelve on the harder variant, which I said out loud at the time.*
+*Iron-adjacent — Brom. Surface read. The cheapest thing I own and the one that saved a clerk from being landed on. Eleven of twelve on the drop-frame this year against five of six at the baseline, and eight of nine on the reserve frame after the fault — the last two degraded, which I said out loud at the time.*
 
 *Compression-adjacent — Reydan. Contact absorption. Held in reserve all year on the public record's own precedent. Unused, unshown, and the only thing I own that has ever kept somebody else from being hurt, which is a sentence I have now written in three consecutive years' inventories without ever managing to use it in front of anybody official.*
 
@@ -288,7 +288,7 @@ He wrote the year's inventory on the last night of term, at the window, with the
 
 *Working ledger, unchanged from Sowing in every important respect: the two components remain mutually exclusive in practice, because masking movement requires reading the building, and reading the building requires being the most awake person in it, which is precisely the state that switches the suppression off. He solves it. I don't. He had a year of not solving it too — that's Brom's line and I am still leaning on it.*
 
-*Cost: continuous, from waking, whether I deploy or not. It has drifted eleven times this term and once in the evaluation itself, and the number is falling, and the falling is the only encouraging line in the ledger.*
+*Cost: continuous, from waking, whether I deploy or not. It has drifted more times this term than I have enjoyed counting — eleven in a single evening's rehearsal once — and twice in the evaluation itself, and the count per week is falling, and the falling is the only encouraging line in the ledger.*
 
 *Useful where: nowhere yet. Still nowhere. Second year of that answer begins now.*
 

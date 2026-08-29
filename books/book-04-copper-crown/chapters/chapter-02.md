@@ -32,13 +32,13 @@ He sat down on the gallery bench and priced it honestly, which took the rest of 
 
 He threw out three days of pages, which cost him a bad evening, and then rebuilt.
 
-What he built was triage, and it was the first genuine addition to the method in over a year. Three tiers. *Standing*, meaning subjects he would carry at full resolution and update continuously — capped at eight, hard, because nine was where the degradation had started and he intended to leave himself a margin. *Sampled*, meaning subjects he would take at fixed intervals rather than continuously, one session in four, with the interval recorded so he would know how stale any entry was. *Structural*, meaning everyone else: not people at all, for his purposes, but a population, characterised by aggregate — how a cohort moved, what its instructors corrected for, where its median sat.
+What he built was triage, and it was the first genuine addition to the method in over a year. Three tiers. *Standing*, meaning subjects he would carry at full resolution and update continuously — capped at eight, hard, because nine was where the degradation had started and he intended to leave himself a margin. *Sampled*, meaning subjects he would take at fixed intervals rather than continuously, one session in four, with the interval recorded so he would know how stale any entry was. *Structural*, meaning everyone else: not people at all, for his purposes, but a population, characterized by aggregate — how a cohort moved, what its instructors corrected for, where its median sat.
 
 The third tier was the one that took him longest to accept, because it required writing down that four hundred people existed whom he had decided in advance not to look at properly. He wrote it down anyway, and underlined the reason.
 
 *Structural tier exists because I cannot do otherwise and pretending I can produces invented data. A method that admits its ceiling is a method. A method that doesn't is a story I'm telling myself.*
 
-The other thing triage bought him was a question he had never had to ask before: *who goes in the eight?* At Greyvane the answer had been everyone worth watching, because everyone worth watching had fitted. Here he had to choose, and choosing meant declaring, in his own notebook, a private ranking of who in this building was going to matter — which was, he realised on the fifth evening, exactly the kind of judgment the standings board on the Crown yard's north wall was making publicly, in chalk, every week, and getting wrong.
+The other thing triage bought him was a question he had never had to ask before: *who goes in the eight?* At Greyvane the answer had been everyone worth watching, because everyone worth watching had fitted. Here he had to choose, and choosing meant declaring, in his own notebook, a private ranking of who in this building was going to matter — which was, he realized on the fifth evening, exactly the kind of judgment the standings boards on the Crown yard's north wall made publicly, in chalk, season after season, and got wrong.
 
 ---
 
@@ -52,7 +52,7 @@ The place itself, catalogued properly, went in the notebook's new Halcenvane sec
 
 *Library: forty-one thousand volumes by the accession board at the entrance, which I do not fully believe; Karis says the real figure is probably thirty-six and that accession numbers include everything ever received including duplicates and things later destroyed. Registry-law holdings in the south range, third and fourth floors, which is four floors more of that material than Greyvane owned in total. Prynn's whole archive would fit in one of the eleven bays and would be, Karis says, better indexed than any of them.*
 
-*Lecture complex: four storeys, eleven rooms, a theatre that holds two hundred and forty.*
+*Lecture complex: four stories, twelve rooms, a theater that holds two hundred and forty.*
 
 *Residence: three quadrangles. First quadrangle is older by twenty years and has the best rooms; second is ours; third was built nine years ago and is the largest. Room assignment is not random — first quadrangle skews to Silver-bracket enrollees and to students whose families have names the porter says without being asked to repeat them.*
 
@@ -82,9 +82,11 @@ It was a floor of dressed stone, sixty feet by forty, sunk four feet below the s
 
 There were four boards. He read them for an hour and a half.
 
-The first was the season calendar: nine scheduled ladder rounds per bracket, spread across both terms, plus the challenge windows. The second and third were the standings, Copper bracket and Iron bracket, ruled in permanent paint and filled in chalk — name, formal rank, bouts fought, bouts won, points. The fourth was the Silver bracket, and it was shorter than the others by half, and it took him a moment to work out why.
+The first was the season calendar: the session afternoons, spread across both terms, plus the challenge windows. The second and third were the standings, Copper bracket and Iron bracket, still carrying the previous season's closing order in chalk — name, formal rank, bouts fought, bouts won, standing. The fourth was the Silver bracket, and it was shorter than the others by half, and it took him a moment to work out why.
 
-Halcenvane ran three brackets for five tiers. Two hundred and nine Copper-tier enrollees had a bracket of their own. A hundred and thirty-eight Iron had another. And everything from Bronze upward — fifty-one Bronze, fourteen Silver, and, according to the porter, exactly one Gold-tier student in the whole institution who did not compete because there was nobody within two tiers of her — got folded into a single pool named for its highest member.
+Halcenvane ran three brackets for five tiers. Two hundred and nine Copper-tier enrollees had a bracket of their own. A hundred and thirty-eight Iron had another. And everything from Bronze upward — fifty-one Bronze and fourteen Silver — got folded into a single pool named for its highest member. The one Gold-tier practitioner on the bluff was not in it, or in anything: not an enrollee at all, strictly, the porter said — she had finished her coursework two years ago and stayed on under a fellowship arrangement whose paperwork he could not name, and she did not compete because there was nobody within two tiers of her to compete against.
+
+Cael did the sum without deciding to, because sums did themselves. Two hundred and nine, a hundred and thirty-eight, fifty-one, fourteen. Four hundred and twelve — the refectory notice's figure to the digit. So the enrollment number was a count of certificates, and the two people on this bluff whom the certificates could not describe stood outside it entirely: a Gold-tier fellow the categories had run out of room for at the top, and an assay-provision enrollee they had never had a column for at all.
 
 He stood in front of that fourth board for a long time.
 
@@ -94,7 +96,7 @@ He stood in front of that fourth board for a long time.
 
 The porter — a broad man in his fifties with a groundskeeper's forearms and an administrator's manner, who had been minding the yard for nineteen years and appeared to regard explaining it as a duty he had been assigned by nobody — walked him through the rest.
 
-Nine scheduled rounds, matched by the assessment office off the standings. Three upward challenges per practitioner per season, no more than four ranks above your own. Three points for a win, one for a completed bout, none for a forfeit and a note on your record besides. Top four in each bracket seed to semifinals at season's end; semifinals in the last fortnight of the second term; the final on the last competition day of the year, witnessed, faculty-panelled, registrar-recorded.
+Bouts ran on scheduled session afternoons, four to a session, matched by the assessment office. Challenges went up the column only, never more than four places above your own name; a win put you in the loser's place and pushed everyone between down a step. A loss cost nothing on the board — but a name that sat idle four sessions slid a place on its own, which meant the ladder's true engine was not winning. It was the obligation to keep fighting. Top four in each bracket at season's end seeded the semifinals, run in the last fortnight of the second term; the final fell on the last competition day of the year, witnessed, faculty-paneled, registrar-recorded.
 
 "And the winner gets a crown."
 
@@ -146,7 +148,7 @@ Cael asked it. "Why did you take me?"
 
 Withrow did not answer immediately, and when she did she did not do it the way Naveth would have done it, or Quenna. There was no philosophy in it, no creed about clerical errors and mispriced people, nothing that was trying to be believed. She laid out a ledger.
 
-"On the debit side. The provision draws attention, and the attention comes from an institution that has enforcement powers over my charter. That is not abstract: I will be inspected sooner than my cycle calls for, and an inspection I did not schedule is an inspection where somebody else chooses the questions. Second, reputational exposure — if the enrollment fails, publicly, it fails as *Halcenvane's* failure, not the provision's, and a mid-tier academy that mishandles a legal question in public does not get considered for a tournament berth for a decade. Third, the ordinary running costs of an unusual case: a full panel evaluation every semester, faculty time, apparatus, and a registrar who has spent four months on documentation she would otherwise have spent on four hundred and eleven other people."
+"On the debit side. The provision draws attention, and the attention comes from an institution that has enforcement powers over my charter. That is not abstract: I will be inspected sooner than my cycle calls for, and an inspection I did not schedule is an inspection where somebody else chooses the questions. Second, reputational exposure — if the enrollment fails, publicly, it fails as *Halcenvane's* failure, not the provision's, and a mid-tier academy that mishandles a legal question in public does not get considered for a tournament berth for a decade. Third, the ordinary running costs of an unusual case: a full panel evaluation every semester, faculty time, apparatus, and a registrar who has spent four months on documentation she would otherwise have spent on four hundred and twelve other people."
 
 She said all of it evenly, without any suggestion that the recitation was meant to make him grateful.
 
@@ -162,7 +164,7 @@ The yard below was empty. Somewhere in the east hall a bell went for the change 
 
 "How rare is it?"
 
-"In twenty years I saw the registry's own instrument contradict the registry's own preference in favour of the person under examination, and hold, three times." She turned back. "Three. Against thousands. I processed some of the ones that went the other way. I want you to understand what I'm telling you: I did not take you because I believe in you. I have met you for six minutes. I took you because the law is sound, and because I have spent two decades being the person who has to look at sound law and file it in a drawer, and I am now in a position where I don't have to do that, and I would like, before I retire, to have used the position for something."
+"In twenty years I saw the registry's own instrument contradict the registry's own preference in favor of the person under examination, and hold, three times." She turned back. "Three. Against thousands. I processed some of the ones that went the other way. I want you to understand what I'm telling you: I did not take you because I believe in you. I have met you for six minutes. I took you because the law is sound, and because I have spent two decades being the person who has to look at sound law and file it in a drawer, and I am now in a position where I don't have to do that, and I would like, before I retire, to have used the position for something."
 
 She picked the pen back up.
 
@@ -174,7 +176,7 @@ She picked the pen back up.
 
 ---
 
-He learned what the faculty thought of all this on the second-term-opening open session, which Halcenvane held in the lecture theatre and which was, by charter, minuted and attended by any enrollee who wanted to sit in the back rows.
+He learned what the faculty thought of all this at the term's first open faculty session, which Halcenvane held in the lecture theater and which was, by charter, minuted and attended by any enrollee who wanted to sit in the back rows.
 
 Cael had assumed the charter provision was a formality that nobody exercised. Sixty-odd students were in the back rows. Withrow made no attempt whatsoever to clear them, and it took him most of the session to understand that this was itself a governing choice: she ran her institution in front of it, and the cost of doing that was that her institution's disagreements were public, and she had evidently decided the cost was worth paying and had been paying it for two decades.
 
@@ -188,7 +190,7 @@ There was a silence of about two seconds, which in a room of forty faculty is a 
 
 "Minuted," Withrow said.
 
-And that was all of it. No argument, no defence, no attempt to bring him round. She wrote a line and moved to the next item on the agenda, which concerned the east hall's floor timbers.
+And that was all of it. No argument, no defense, no attempt to bring him round. She wrote a line and moved to the next item on the agenda, which concerned the east hall's floor timbers.
 
 Cael sat in the back row and understood that he had just watched the whole political architecture of the place get established in under fifteen words, and that both parties had known exactly what they were doing, and that neither had said one word that was untrue.
 
@@ -196,7 +198,7 @@ He also understood — sitting there, running the weight layer on a man who had 
 
 He had expected hostility, because Greyvane had trained him to expect hostility, and Edran had come at him with a petition and a stance and a grievance he could read off a shoulder. This was not that. This was worse, in the sense that there was nothing in it to beat.
 
-Rooke was not wrong, either. It would be eleven weeks before Cael understood how completely he was not wrong.
+Rooke was not wrong, either. It would be a full season before Cael understood how completely he was not wrong.
 
 ---
 

@@ -1,14 +1,14 @@
 # Chapter 1 — The Assay
 
-The bluff road came out of the pines two miles above the ferry crossing, and from there you could see the whole argument at once: Ostrand spread along the near bank in its brown-and-slate sprawl, the Ost running wide and slow and the colour of weak tea between, and on the far bluff, above and apart and deliberately both, Halcenvane.
+The bluff road came out of the pines two miles above the ferry crossing, and from there you could see the whole argument at once: Ostrand spread along the near bank in its brown-and-slate sprawl, the Ost running wide and slow and the color of weak tea between, and on the far bluff, above and apart and deliberately both, Halcenvane.
 
 Cael stopped walking to look at it, which was not something he did often on a road, and let the others get four paces ahead before either of them noticed.
 
-Five months. He had been keeping the number since the morning they left, not because he was sentimental about intervals but because an interval you failed to count was an interval that could later be argued about. Five months and eleven days since the adjudication panel at Greyvane had read out a ruling that made him, for the first time in his life, a person the law had been forced to describe accurately. Four days since they had walked out of Greyvane's gate for the last time. Fifteen years old, which he had checked against Hesk's letters twice on the road, because he had learned that a number nobody was tracking on your behalf was a number that drifted.
+Five months. He had been keeping the number since the morning they left, not because he was sentimental about intervals but because an interval you failed to count was an interval that could later be argued about. Five months and nine days since the adjudication panel at Greyvane had read out a ruling that made him, for the first time in his life, a person the law had been forced to describe accurately. Four days since they had walked out of Greyvane's gate for the last time. Fifteen years old, which he had checked against Hesk's letters twice on the road, because he had learned that a number nobody was tracking on your behalf was a number that drifted.
 
 He looked at the far bluff and did the thing he always did with a new object, which was to take it apart before deciding how he felt about it.
 
-Greyvane had been a converted waystation: one wall, one training hall, one lecture wing built with the place itself in mind and everything else inherited. Halcenvane had been built. That was legible from two miles out, in the way the roofline agreed with itself — a single architectural intention carried across nine or ten buildings instead of six centuries of patching. He counted what he could resolve at that distance. Three long halls with the high clerestory windows that meant training floors, arranged along a north edge to take morning light. A wing set apart from the others behind its own low wall, which he provisionally read as either assessment or administration and could not yet split. A lecture complex, four storeys, newer stone. Two — no, three — residence blocks laid around courtyards, the same building repeated with the economy of an institution that had needed more beds twice and had not felt the need to redesign anything for the occasion. A library, and he knew it was the library because it was the only building on the bluff with a roof pitched for weight rather than weather, and slate over a book-hall was a decision somebody had costed.
+Greyvane had been a converted waystation: one wall, one training hall, one lecture wing built with the place itself in mind and everything else inherited. Halcenvane had been built. That was legible from two miles out, in the way the roofline agreed with itself — a single architectural intention carried across nine or ten buildings instead of six centuries of patching. He counted what he could resolve at that distance. Three long halls with the high clerestory windows that meant training floors, arranged along a north edge to take morning light. A wing set apart from the others behind its own low wall, which he provisionally read as either assessment or administration and could not yet split. A lecture complex, four stories, newer stone. Two — no, three — residence blocks laid around courtyards, the same building repeated with the economy of an institution that had needed more beds twice and had not felt the need to redesign anything for the occasion. A library, and he knew it was the library because it was the only building on the bluff with a roof pitched for weight rather than weather, and slate over a book-hall was a decision somebody had costed.
 
 And at the middle of all of it, where a chapel would have gone in an older institution and a parade ground in a military one, an open floor with tiered stone seating around three of its four sides.
 
@@ -20,7 +20,7 @@ He did not know what that was yet. He knew what it meant that it was in the midd
 
 "Counting what?"
 
-"Seats." He resumed walking. "Whatever that yard in the centre is, it holds about eleven hundred people. That's more than the whole enrollment. Which means it's not for the students."
+"Seats." He resumed walking. "Whatever that yard in the center is, it holds about eleven hundred people. That's more than the whole enrollment. Which means it's not for the students."
 
 Brom, from behind: "It's for the town."
 
@@ -40,13 +40,13 @@ Cael had asked her, that night, what the difference was.
 
 "Custom against text," she'd said. "You already won that argument once."
 
-*Weeks fourteen through nineteen: the letters.* Registrar Bracken of Halcenvane Academy wrote in a small upright hand and did not waste a line, and there were, by the end, twenty-two letters in the bundle. Cael had read all of them, because Karis had brought them to him unopened the first time and had never once, afterward, considered doing otherwise. Bracken's first letter had asked four questions. Her fourth had asked forty-one. Her eleventh had contained no questions at all and instead a two-page reconstruction of the clause's documentary provenance, assembled independently, arriving at Karis's conclusion by a different route — which Karis had found more satisfying than agreement, because independent arrival was worth more than assent.
+*Weeks fourteen through nineteen: the letters.* Registrar Bracken of Halcenvane Academy wrote in a small upright hand and did not waste a line, and there were, by the end, twenty-two letters in the bundle. Cael had read all of them, because Karis had brought them to him unopened the first time and had never once, afterward, considered doing otherwise. Bracken's first letter had asked four questions. Her fourth had asked forty-one. Her fifteenth had contained no questions at all and instead a two-page reconstruction of the clause's documentary provenance, assembled independently, arriving at Karis's conclusion by a different route — which Karis had found more satisfying than agreement, because independent arrival was worth more than assent.
 
-Somewhere in there, Halcenvane's counsel had verified the whole architecture and put a seal on the verification. Naveth had read that letter twice in the provost's office at Greyvane with an expression Cael could not fully parse and had eventually decided was envy of an honourable kind: a man looking at the resources a real institution could bring to a question he had staked his career on with almost none.
+Somewhere in there, Halcenvane's counsel had verified the whole architecture and put a seal on the verification. Naveth had read that letter twice in the provost's office at Greyvane with an expression Cael could not fully parse and had eventually decided was envy of an honorable kind: a man looking at the resources a real institution could bring to a question he had staked his career on with almost none.
 
 *Week twenty: Edran.*
 
-He had honoured it, because it had been promised. Full sanction, faculty supervised, on the record, exactly the terms Edran had named at the end of the previous term. Wray presided. Quenna sat the second seat. Two hundred and some students in the gallery, which at Greyvane meant essentially all of them.
+He had honored it, because it had been promised. Full sanction, faculty supervised, on the record, exactly the terms Edran had named at the end of the previous term. Wray presided. Quenna sat the second seat. Two hundred and some students in the gallery, which at Greyvane meant essentially all of them.
 
 Edran had spent a season rebuilding, and it showed from the first exchange. The recommitment seam Cael had opened last time was gone — not disguised, gone, closed by a season of somebody drilling it out of him with the patience of a person who resented needing to. What replaced it was worse to fight: a Glass Path stance that gave up a fraction of its reach to buy a half-beat of recovery, which meant every one of Cael's reads arrived correct and a half-beat too slow to be worth anything.
 
@@ -78,7 +78,7 @@ She had come to the gate, which nobody had ever seen Prynn do, and had pressed a
 
 The road down from Greyvane had taken four days and there had never been fewer than two of them.
 
-He had counted, to pass the time, because the alternative was thinking about the road and there were only so many hours a person could spend thinking about a road. The rotations had been open — not concealed, not even lightly disguised, and he understood after the first morning that the openness was the point. A watcher who hides is trying to collect information. A watcher who does not is trying to produce behaviour.
+He had counted, to pass the time, because the alternative was thinking about the road and there were only so many hours a person could spend thinking about a road. The rotations had been open — not concealed, not even lightly disguised, and he understood after the first morning that the openness was the point. A watcher who hides is trying to collect information. A watcher who does not is trying to produce behavior.
 
 *Day one: two, both mounted, changed once at the second waystation. Day two: three — the mounted pair plus one on the coach with us, grey coat, no attempt to sit anywhere but where he could see all four of us. Day three: two, new faces. Day four: two, and one of day two's. Total distinct faces across four days: seven. Total distinct rotations: five. Standing coverage: two minimum, three at road junctions and inn stops. Nobody spoke to us. Nobody needed to.*
 
@@ -100,11 +100,11 @@ Ostrand was the largest place any of them had walked into since Ardenmere, and i
 
 Ardenmere had been a city with a district the maps declined to describe. Ostrand was a city that had been drawn on maps carefully, repeatedly, by people with a financial interest in its accuracy. It sat at the last navigable bend of the Ost, which meant everything coming down out of the hill country had to be broken out of carts and put into boats here, or the reverse, and a town that exists because two kinds of transport meet at it develops a particular set of muscles. Cael read them off the approach without meaning to: warehousing along the whole east bank, six long sheds and a seventh going up; a crane gantry at the public wharf that four men were working and a second, private one further down that had a company mark on it; a customs house with its own dock and its own steps, positioned so that nothing could reach the public wharf without passing it.
 
-The bridge was stone, five spans, with a toll house at the near end. Two coppers for a person on foot, four for a laden handcart, a schedule painted on a board with eleven categories on it, which meant somebody had been arguing about the categories for a long time. Brom paid for all four of them before anyone could object, which was a thing Brom did roughly once a week and never discussed.
+The bridge was stone, five spans, with a toll house at the near end. Two coppers for a person on foot, four for a laden handcart, a schedule painted on a board with nine categories on it, which meant somebody had been arguing about the categories for a long time. Brom paid for all four of them before anyone could object, which was a thing Brom did roughly once a week and never discussed.
 
 "How many people live here?" Lira asked, on the bridge, watching a barge work its way up against the current with two men on the sweeps and a boy on the tiller.
 
-"Twenty thousand, near enough," Karis said. "It's in the academy's own prospectus, which means it's probably rounded up. Fourteen guild lodges, three of them with their own halls. Two registry offices — a district office and a stations office, which are not the same thing and which I intend to find out the difference between within a fortnight."
+"Twenty thousand, near enough," Karis said. "It's in the academy's own prospectus, so it's probably rounded up. Fourteen guild lodges, three of them with their own halls. Two registry offices — a district office and a stations office, which are not the same thing, and I intend to find out the difference within a fortnight."
 
 "Why does that matter?"
 
@@ -112,9 +112,9 @@ The bridge was stone, five spans, with a toll house at the near end. Two coppers
 
 Cael looked at her sideways. "You've been in this city eleven minutes."
 
-"I've been in this city eleven minutes and I read the prospectus in Greyvane in the spring." She said it without any self-satisfaction at all, which was somehow worse. "There's a tournament in it, by the way. Continental. Every three years. I'll get to that when we're not on a bridge."
+"I've been in this city eleven minutes and I read the prospectus in Greyvane in the spring." She said it without any self-satisfaction at all, which left him nothing to push back against. "There's a tournament in it, by the way. Continental. Every three years. I'll get to that when we're not on a bridge."
 
-The road up the far bluff was properly made — cut, drained, metalled, with passing bays for carts at the two switchbacks, which told Cael that this road carried loads and did so on a schedule. Halfway up, a wagon came down past them with four barrels and a driver who nodded at them without curiosity, and Cael understood from the nod that arriving students walking up this hill were not, at Halcenvane, an event.
+The road up the far bluff was properly made — cut, drained, surfaced, with passing bays for carts at the two switchbacks, which told Cael that this road carried loads and did so on a schedule. Halfway up, a wagon came down past them with four barrels and a driver who nodded at them without curiosity, and Cael understood from the nod that arriving students walking up this hill were not, at Halcenvane, an event.
 
 The wall at the top was not old. It had been built in the same generation as everything behind it, faced stone over rubble core, four and a half feet — a wall that marked a boundary rather than defended one. The gate had two leaves and stood open, and beside it there was a lodge with glass in the window and a man inside it with a ledger.
 
@@ -128,7 +128,7 @@ The clerk ran a finger down the page and stopped and did not look up.
 
 "Four of you. Karis Dellenmoor, standard enrollment, research standing pending. Brom, standard enrollment, Blade cohort assessment on the ninth. Lira, re-certification transfer, Copper bracket, ladder registration by the fourteenth." He turned the page. "Cael. Assay-provision enrollment. Registrar's office directly — she's expecting you, and she's blocked the whole morning, so don't be leisurely about the walk."
 
-He looked up then, at all four of them together, with the mild professional impatience of a man with eleven more arrivals to process before noon.
+He looked up then, at all four of them together, with the mild professional impatience of a man with a dozen more arrivals to process before noon.
 
 "Second quadrangle for residence, the porter has your door assignments. Assessment wing is the low building with its own wall; don't cut through the Crown yard when a bout's called, they'll shout at you. Welcome to Halcenvane."
 
@@ -188,7 +188,7 @@ Registrar Bracken was somewhere in her forties, narrow-faced, with ink on the fi
 
 "All of them."
 
-"Good, that saves eleven minutes." She pulled the first stack toward her. "I'm going to talk while I work. Stop me when something is wrong, and I mean anything — a date, a place name, the spelling of your grandfather's name. This document is going to be read by people whose entire professional method is finding the one line that doesn't hold, and I would rather find it now, in this room, than have it found for me in eighteen months by a man in grey."
+"Good, that saves us ten minutes." She pulled the first stack toward her. "I'm going to talk while I work. Stop me when something is wrong, and I mean anything — a date, a place name, the spelling of your grandfather's name. This document is going to be read by people whose entire professional method is finding the one line that doesn't hold, and I would rather find it now, in this room, than have it found for me in eighteen months by a man in grey."
 
 She worked through it. Ninety minutes, and Cael spent all of them in the strange condition of watching a system function correctly on his behalf, which was not a sensation he had a stored comparison for.
 
@@ -258,7 +258,7 @@ She had, in any case, already turned to her filing cabinet, which he suspected �
 
 Bracken shut the drawer. For the first time in ninety-four minutes she stopped moving entirely.
 
-"Because I have kept this academy's enrollment records for eleven years," she said, "and in eleven years I have never once been asked to file a document that required me to be *good at my job* in order to be true. Every other record in that cabinet survives because nobody looks at it." She turned back to her desk. "Yours will be looked at by an inspector. That's not a burden. That's the first interesting thing that's happened to my filing system since I built it. Go and find your residence."
+"Because I have kept this academy's enrollment records for twelve years," she said, "and in twelve years I have never once been asked to file a document that required me to be *good at my job* in order to be true. Every other record in that cabinet survives because nobody looks at it." She turned back to her desk. "Yours will be looked at by an inspector. That's not a burden. That's the first interesting thing that's happened to my filing system since I built it. Go and find your residence."
 
 ---
 

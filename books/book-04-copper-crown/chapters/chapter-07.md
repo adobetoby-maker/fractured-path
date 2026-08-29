@@ -8,7 +8,7 @@ So: observation. What the subject did. When. Where. Verifiable. Nothing about wh
 
 *Coverage established, day one. Cover post functioning; no friction with office staff. Access to evaluation calendar, floor scheduling, and assessment-wing filing confirmed as briefed.*
 
-*Subject's routine is disciplined and unremarkable. Trains under supervision, halls one and three, four sessions weekly per provision allocation, no unscheduled floor access observed. Attends lecture complex on standard enrollee pattern. Attends Crown yard ladder sessions in the public gallery — every session to date, including practice bouts, including brackets in which no associate of his competes. Extensive private notation habit; writes daily, at length, in at least two separate volumes, one of which he does not carry into training halls. No undisclosed capability observed.*
+*Subject's routine is disciplined and unremarkable. Trains under supervision, halls one and three, four sessions weekly per provision allocation, no unscheduled training activity observed. Attends lecture complex on standard enrollee pattern. Attends Crown yard practice sessions in the public gallery — every session to date, including bouts in which no associate of his competes. Extensive private notation habit; writes daily, at length, in at least two separate volumes, one of which he does not carry into training halls. No undisclosed capability observed.*
 
 He read it back and found nothing to change, which was correct, because it was all true.
 
@@ -22,7 +22,7 @@ It was a good report. Complete, dry, accurate. Eight years ago it would have bee
 
 The cover had bedded in faster than most, and he gave the credit where it belonged, which was to the office rather than to himself.
 
-Halcenvane's assessment wing was run by a man who did not care who you were. Magister Gault had asked Seln exactly four questions on the first morning — whether he could copy accurately, whether he could hold a calendar in his head, whether he understood that an evaluation date moved for injury and illness and nothing else, and whether he had any objection to working the hours the wing actually kept as opposed to the hours the charter said it kept. Seln had answered all four honestly, which had cost nothing, and had then been left alone in a way that would have been unimaginable at eleven of his previous postings. Gault's whole administrative theory, as far as Seln could reconstruct it from a month of watching him operate, was that instruments do not have opinions and neither should the people who carry them. He did not chat. He did not ask where a man was from. He noticed errors within a day and said so once, flatly, and never mentioned them again.
+Halcenvane's assessment wing was run by a man who did not care who you were. Magister Gault had asked Seln exactly four questions on the first morning — whether he could copy accurately, whether he could hold a calendar in his head, whether he understood that an evaluation date moved for injury and illness and nothing else, and whether he had any objection to working the hours the wing actually kept as opposed to the hours the charter said it kept. Seln had answered all four honestly, which had cost nothing, and had then been left alone in a way that would have been unimaginable at a dozen of his previous postings. Gault's whole administrative theory, as far as Seln could reconstruct it from a month of watching him operate, was that instruments do not have opinions and neither should the people who carry them. He did not chat. He did not ask where a man was from. He noticed errors within a day and said so once, flatly, and never mentioned them again.
 
 It was, from a tradecraft perspective, close to ideal. It was also — and Seln noted this the way he noted everything, without permitting it to become a preference — the first office in nineteen postings where nobody had asked him a single question he had needed to lie about.
 
@@ -32,21 +32,21 @@ He had used the trick in eight postings. It had never once failed. He thought, s
 
 ---
 
-He had been made on day twenty-three.
+He had been made on his twenty-third day on post.
 
-He had known it on day twenty-three, more or less immediately, and had spent the two weeks since working out how, because the *how* was the only part with any operational value and because the alternative was to sit with the fact itself, which he did not intend to do.
+He had known it more or less immediately, and had spent the two weeks since working out how, because the *how* was the only part with any operational value and because the alternative was to sit with the fact itself, which he did not intend to do.
 
 The moment had been the empty gallery.
 
 Second bell, hall three, and he had come along the upper walk with a stack of forms intending to take the north end of the rail, four bodies in from the stair, which was the position and had been the position for three weeks. The gallery had been empty. Not thin — empty, not one body on it, because the schedule said hall three did not run until the third bell that day and the schedule had been correct.
 
-And hall three had been running.
+And hall three had not been empty.
 
-He had registered the sound of it two steps before he registered the emptiness, and had made the correct decision in the time it took to take the third step, which was to discard the position and keep walking, because a man standing alone at a rail above a floor is not a man in a crowd; he is a shape, and Shadow Path at Bronze cannot suppress a shape that has nothing to be part of. He had walked through and out the far door and had not broken stride, and had been rather pleased with himself for about eleven seconds.
+He had registered it two steps before he registered the gallery — a single figure on the benches inside the floor doors, seated, notebook open — and had made the correct decision in the time it took to take the third step, which was to discard the position and keep walking, because a man standing alone at a rail above a floor is not a man in a crowd; he is a shape, and Shadow Path at Bronze cannot suppress a shape that has nothing to be part of. He had walked through and out the far door and had not broken stride, and had been rather pleased with himself for about eleven seconds.
 
 Then, in the corridor, the eleven seconds had ended.
 
-*The schedule was correct.* The schedule said the third bell. The floor was running at the second. Which meant the subject had come to hall three forty minutes outside his own allocation, without a filing, without a request, on a morning when nobody had any reason to be there — and had done it on the one day in three weeks when the gallery would therefore be empty.
+*The schedule was correct.* The schedule said the third bell. The subject was in the hall at the second. Which meant the subject had come to hall three forty minutes outside his own allocation, without a filing, without a request, on a morning when nobody had any reason to be there — and had done it on the one day in three weeks when the gallery would therefore be empty.
 
 Seln had walked another forty paces before he let himself finish the thought, because he had learned early that a conclusion reached in motion sits better than one reached standing still.
 
@@ -94,7 +94,7 @@ The observation notebook got a new section that month, and Cael gave it a headin
 
 He had charted eleven Paths in his life with any rigor and had watched perhaps twenty more. Every one of them had a declaration.
 
-That was the first thing an academy taught and the first thing a circuit taught you to read, and the two institutions agreed about almost nothing else. A Path declares. There is a moment — brief, sometimes very brief, but a moment — in which the practitioner commits, and the commitment shows: the drawn breath before an Ember ignition, the stance-widening and the sunk weight before a Force compression, the visible hardening along a Iron Skin practitioner's forearms a half-beat before contact. Lira's Wind Path declared in the hips. Brom's Iron Skin declared in the jaw, which he had never once managed to correct and had stopped trying. Karis's Ember declared so subtly that it had taken Cael two months and she had been unbearably pleased about it, and it still declared.
+That was the first thing an academy taught and the first thing a circuit taught you to read, and the two institutions agreed about almost nothing else. A Path declares. There is a moment — brief, sometimes very brief, but a moment — in which the practitioner commits, and the commitment shows: the drawn breath before an Ember ignition, the stance-widening and the sunk weight before a Force compression, the visible hardening along an Iron Skin practitioner's forearms a half-beat before contact. Lira's Wind Path declared in the hips. Brom's Iron Skin declared in the jaw, which he had never once managed to correct and had stopped trying. Karis's Ember declared so subtly that it had taken Cael two months and she had been unbearably pleased about it, and it still declared.
 
 Shadow Path did not.
 
@@ -106,7 +106,7 @@ He looked for it for nineteen days, which was longer than he had ever spent look
 
 He could not see it directly. He could see it in the crowd.
 
-That was the method he ended up building, and it was the best piece of work he had done since the Greyvane archive: he stopped measuring the man and started measuring where other people's eyes went. He already had the instrument — the glance count, four weeks of it, a baseline for how often attention landed on a body in a Halcenvane corridor. So he ran it on the corridor instead of on himself, sampling one stretch of the covered walk at a fixed hour, counting how many transiting people marked *anyone* standing at the walk's east rail.
+That was the method he ended up building, and it was the best piece of work he had done since the Greyvane archive: he stopped measuring the man and started measuring where other people's eyes went. He already had the instrument — the glance count, six weeks of it now, a baseline for how often attention landed on a body in a Halcenvane corridor. So he ran it on the corridor instead of on himself, sampling one stretch of the covered walk at a fixed hour, counting how many transiting people marked *anyone* standing at the walk's east rail.
 
 Then he compared the count on days the teaching assistant was at the east rail against days he was not.
 
@@ -204,7 +204,7 @@ He stood at the residence board in the Fifth-day traffic with four hundred peopl
 
 The man knew he had left it. Of course he knew — leaving an error uncorrected for three days was itself an observable behavior, and Cael had been observed for three days by somebody with a professional reason to notice paperwork.
 
-The man had fixed it anyway. Which was a message, and the message was not *I know*. The message was *I know, and I am going to keep doing the work properly, and here is my paperwork, correct, on time, initialled twice.*
+The man had fixed it anyway. Which was a message, and the message was not *I know*. The message was *I know, and I am going to keep doing the work properly, and here is my paperwork, correct, on time, initialed twice.*
 
 And Cael had built the test in the first place, which meant Cael had said something first, and the correction was an answer, and neither of them had spoken a word to the other since a filing date four weeks ago.
 

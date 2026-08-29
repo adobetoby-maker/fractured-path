@@ -18,7 +18,7 @@ Cael looked at the folded sheet for a moment and decided he was not going to be 
 
 The delegation came in at the fourth bell and took the north tier's second row, which the yard had left clear for them without anybody instructing it to, in the manner of a crowd making room around something it has decided to be careful about. Counsel, two clerks, Ilsev with her case on her knees. Havel at the end of the row with nothing in his hands at all, which Cael noted, because a records officer with nothing in his hands is a man off duty, and a man off duty had chosen to spend it here.
 
-And at the row's centre, in inspection greys, seated — which surprised him, because the man had stood for fifty minutes at a training-floor rail and had not needed to sit — with a small notebook closed on one knee and a pen laid across it.
+And at the row's center, in inspection greys, seated — which surprised him, because the man had stood for fifty minutes at a training-floor rail and had not needed to sit — with a small notebook closed on one knee and a pen laid across it.
 
 Cael looked at that for about four seconds and then put it away, entirely, and did not look at the north tier again for an hour, because two of his friends were about to fight each other and he had promised them a sentence and he intended to earn it.
 
@@ -216,7 +216,7 @@ She was at the floor rail where a defending champion stands and she brought her 
 
 The crown itself was a circlet of hammered copper the width of two fingers, unremarkable as metalwork.
 
-Lira took it in both hands. She did not put it on. She stood in the centre of a floor with eleven hundred people making noise at her and looked down at the thing in her hands, and turned it once, and Cael — who knew her better than anyone alive and had spent six months trying to work out how she would hold it — got his answer and wrote it that night in six words.
+Lira took it in both hands. She did not put it on. She stood in the center of a floor with eleven hundred people making noise at her and looked down at the thing in her hands, and turned it once, and Cael — who knew her better than anyone alive and had spent six months trying to work out how she would hold it — got his answer and wrote it that night in six words.
 
 *She held it like an exhibit.*
 
@@ -274,7 +274,7 @@ He wrote the day's entry at the window before he went down to find them, because
 
 The yard was empty by the eighth bell except for two porters and the fighters, and Cael came down the west stair and stopped at the bottom of it, because what was happening on the floor was not his.
 
-Lira was sitting on the boards at the centre with her leading leg out straight in front of her and the crown on the floor beside her, in the dust, where she had put it.
+Lira was sitting on the boards at the center with her leading leg out straight in front of her and the crown on the floor beside her, in the dust, where she had put it.
 
 Brom came out of the north door with an ice wrap on one knee and walked the length of the floor and sat down next to her, on the loser's side of a bout he had lost by one beat, which was the oldest posture either of them had.
 

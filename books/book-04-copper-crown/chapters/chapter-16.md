@@ -2,11 +2,11 @@
 
 The final settled itself on a Sixth-day afternoon with four bouts left in the bracket, and Cael had it on paper eleven days before the results clerk chalked it up.
 
-The Copper column had ninety-one names in it and by the season's last month it had four that mattered. Lira had gone from twenty-second to first in six wins across a hundred and thirty days, which was the maximum possible climb and had required six perfect afternoons in a row, and she had taken all six inside four exchanges. Fiske sat second, dethroned in the standings and undethroned in the crown, because the brass mark did not move until the final moved it. Brom stood third after a season that had cost him two losses and had given him back something Cael had watched arrive session by session: the seam was closing. Rooke's assignment had had a date on it and the date was the final, and by the last month Brom was converting absorption into counter with a stall Cael could still find from the gallery and could no longer find inside two exchanges.
+The Copper column had ninety-one names in it and by the season's last month it had four that mattered. Lira had gone from twenty-second to first in six wins inside eleven sessions, the fastest climb the ladder's mathematics permitted, and it had required six perfect afternoons in a row, and she had taken all six inside four exchanges. Fiske sat second, dethroned in the standings and undethroned in the crown, because the brass mark did not move until the final moved it. Brom stood third after a season that had cost him two losses and had given him back something Cael had watched arrive session by session: the seam was closing. Rooke's assignment had had a date on it and the date was the final, and by the last month Brom was converting absorption into counter with a stall Cael could still find from the gallery and could no longer find inside two exchanges.
 
 Fourth was a fourth-year Shield Path named Merrick, and the arithmetic ate him on a Fifth-day when he drew a bout he could not decline.
 
-That left the two of them, and it left them by a route neither could have argued with: the top four ran the witnessed final's bracket, Fiske had to face Lira again and did, and the eleven seconds it took the first time became four exchanges and one very long minute the second, and Lira came off the floor with a leading hip she could not put full weight on and the top of the column still hers. Brom took Merrick in the fifth. The pairings resolved. There was no other answer available in the mathematics, and Cael had known there wouldn't be since the third week, and had written it down and then privately hoped he had made an error.
+That left the two of them, and it left them by a route neither could have argued with: the top four ran the witnessed final's bracket, Fiske had to face Lira again and did, and it ran four exchanges again — harder ones, and one very long minute at the end that the first meeting had not needed — and Lira came off the floor with a leading hip she could not put full weight on and the top of the column still hers. Brom took Merrick in the fifth. The pairings resolved. There was no other answer available in the mathematics, and Cael had known there wouldn't be since the third week, and had written it down and then privately hoped he had made an error.
 
 They read it off the board together, the four of them, in the covered walk, at the second bell.
 
@@ -68,7 +68,7 @@ Cael, sitting on the floor at the wall's edge with the notebook shut on his knee
 
 He thought about which sentence.
 
-"I've watched every bout either of you has fought this season," he said. "Not the ones that mattered — all of them. And there's a thing I've never been able to write down properly, because it sounds like sentiment and it isn't. Everybody in that yard thinks the nineteenth is a Copper final. It isn't. It's two Iron practitioners who have never been allowed to fight anybody their own size, finally getting to, in a cage that was built by people who never imagined either of you existed."
+"I've watched every bout either of you has fought this season," he said. "Not the ones that mattered — all of them. And there's a thing I've never been able to write down properly, because it sounds like sentiment and it isn't. Everybody in that yard thinks the nineteenth is a Copper final. It isn't. It's two Iron-equivalent practitioners who have never been allowed to fight anybody their own size, finally getting to, in a cage that was built by people who never imagined either of you existed."
 
 Brom said, "Huh," which from Brom was a paragraph.
 
@@ -108,7 +108,7 @@ And then the part he had been circling for three weeks and had left to last, bec
 
 The idle state slipped on him twice in that final month, and the second time frightened him properly.
 
-The first was ordinary — a Fourth-day lecture, the second hour, a hall too warm, his attention wandering onto the fatigue curve's page, and afterward the lecturer's assistant looking straight through him at the door and then jumping when he spoke. He logged it and added it to the running count, which by then stood at nine incidents in six weeks and had been falling steadily as he learned to hold the wick, which was the only encouraging line in the entire working ledger.
+The first was ordinary — a Fourth-day lecture, the second hour, a hall too warm, his attention wandering onto the fatigue curve's page, and afterward the lecturer's assistant looking straight through him at the door and then jumping when he spoke. He logged it and added it to the running count, which by then stood at nine incidents since the stairwell and had been thinning steadily as he learned to hold the wick, which was the only encouraging line in the entire working ledger.
 
 The second was in hall three, in a supervised session, on a floor, with a wing observer at the rail.
 
@@ -186,7 +186,7 @@ The records officer came out of the second carriage behind her.
 
 Cael had him in two seconds.
 
-Four years and a great deal of distance and the man was still the man: the same economy of movement, the same habit of taking in a courtyard's corners before its centre, the same slightly-too-correct posture of somebody who had been told once, early, that he looked young for the grade and had never stopped over-correcting for it. The coat was better. The boots were not new anymore. The grade insignia at his collar had gone up again, which made two rises in four years, which for a man who had once been told to stand down about a designation and had stood down was a career going somewhere.
+Ardenmere was a long way back, and the man was still the man: the same economy of movement, the same habit of taking in a courtyard's corners before its center, the same slightly-too-correct posture of somebody who had been told once, early, that he looked young for the grade and had never stopped over-correcting for it. The coat was better. The boots were not new anymore. The grade insignia at his collar had gone up again, the second rise since Ardenmere, which for a man who had once been told to stand down about a designation and had stood down was a career going somewhere.
 
 Havel crossed the courtyard, and — Cael watched this happen and would think about it for a week — did not look up at the Crown yard's tier. Not once. He looked at the roofline, the door, the registrar waiting at it, and the ground. A man who does not look up at the one place a subject would be standing is a man who has thought about where the subject would be standing.
 
@@ -218,7 +218,7 @@ He came down the step without using the rail, moved out of the doorway so the cl
 
 *Three.* The credentials said one thing and the bearing said nothing.
 
-He was in inspection greys, plain, and at the collar was an insignia Cael had never seen on a living person and had seen exactly twice in a library, in line drawings, in a procedural volume: no colour in it, no device, nothing but a plain bar and a plain field. Every other rank the Compact issued announced itself. A warden's coat announced. Coss's whole posture had announced, all the time, in every room, and Cael had been able to read Coss in a week because Coss had never once stopped telling him things. This man's insignia announced an altitude that stopped the counsel talking mid-sentence, and his bearing did not perform one inch of it.
+He was in inspection greys, plain, and at the collar was an insignia Cael had never seen on a living person and had seen exactly twice in a library, in line drawings, in a procedural volume: no color in it, no device, nothing but a plain bar and a plain field. Every other rank the Compact issued announced itself. A warden's coat announced. Coss's whole posture had announced, all the time, in every room, and Cael had been able to read Coss in a week because Coss had never once stopped telling him things. This man's insignia announced an altitude that stopped the counsel talking mid-sentence, and his bearing did not perform one inch of it.
 
 He was perhaps sixty. Medium height. He stood with his hands at his sides. He looked at the records hall's door for about two seconds and at the Crown yard's tiers for about two seconds and then walked in.
 
@@ -232,7 +232,7 @@ Not concealment. He knew concealment; he had spent six months charting a man who
 
 It took him a moment to answer.
 
-"Coss told me things by existing," he said. "Every warden I've ever seen tells you what he wants before he opens his mouth — that's what the coat is *for*. Havel told me he'd been ordered to be somewhere and didn't like the order, four years ago, in about eleven seconds. Even the man in Gault's office tells me something, and he's the best there is at not telling people things, because the not-telling is a shape and shapes can be measured."
+"Coss told me things by existing," he said. "Every warden I've ever seen tells you what he wants before he opens his mouth — that's what the coat is *for*. Havel told me he'd been ordered to be somewhere and didn't like the order, back in Ardenmere, in about eleven seconds. Even the man in Gault's office tells me something, and he's the best there is at not telling people things, because the not-telling is a shape and shapes can be measured."
 
 "And that one?"
 

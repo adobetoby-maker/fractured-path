@@ -296,7 +296,7 @@ She stopped at the bottom of them, which put her about fifteen feet from the tie
 
 "I know."
 
-"I believe you do, which is why I am saying it." She picked the case back up. "Most people in your position want the text to be on their side because it means something. It does not mean anything. It is simply on your side, which is worth an enormous amount and is not the same as being loved by anybody." Something in her face did something very small. "Hold on to the distinction. People who confuse the two are unbearable in a hearing room and they lose."
+"I believe you do, which is why I am saying it." She picked the case back up. "Most people in your position want the text to be on their side because it means something. It does not mean anything. It is simply on your side, which is worth an enormous amount and is not the same as being loved by anybody." Something in her face moved, very small. "Hold on to the distinction. People who confuse the two are unbearable in a hearing room and they lose."
 
 She went to the carriage.
 
@@ -336,6 +336,6 @@ He wrote it that night, at the window, with the new pen, and it took him three a
 
 *And then I need to understand why it built itself to know it.*
 
-*That's not this year's question. This year's question got answered yesterday at the twentieth of Reaping, in fourteen words, with a stamp on it.*
+*That's not this year's question. This year's question got answered on the twentieth of Reaping, in fourteen words, with a stamp on it.*
 
 *That one's next.*

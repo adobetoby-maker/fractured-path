@@ -212,7 +212,7 @@ Relief. It was relief. It had been relief both times.
 
 "I know."
 
-"I want to tell you what the crown got me, because nobody told me and I'd have liked to be told." She said it without any particular weight, in the flat voice of a woman handing over a tool. "It got me a better seat in the same bracket. That's all. Two years, two crowns, forty-something wins, and the sheet with my name on it says the same word it said the week I enrolled, and it is going to say that word next year, and the year after, unless somebody with an office decides to spend an afternoon on me, and nobody has, because there has never been one single reason for anybody here to spend it."
+"I want to tell you what the crown got me, because nobody told me and I'd have liked to be told." She said it without weight, in the flat voice of a woman handing over a tool. "It got me a better seat in the same bracket. That's all. Two years, two crowns, forty-something wins, and the sheet with my name on it says the same word it said the week I enrolled, and it is going to say that word next year, and the year after, unless somebody with an office decides to spend an afternoon on me, and nobody has, because there has never been one single reason for anybody here to spend it."
 
 Lira did not say anything.
 
@@ -260,7 +260,7 @@ Karis, at the end of the table, had her pen going. "May I have it verbatim for t
 
 ---
 
-He wrote the session's entry that night, and the fragments' standing lines first, because the inventory came before the commentary and always had.
+He wrote the session's entry that night, the fragments' standing lines first, in the order the log had run since Ardenmere.
 
 Five confirmed. Nothing moved in any of them. The Iron-adjacent surface read had come back to full speed inside four days of easing off the counting, which was now the third time he had measured the recovery and the third time it had come back at four days, and three instances was structure, and he wrote *confirmed: attention budget refills at four days* in the column that had held it as *probable* for a month.
 
