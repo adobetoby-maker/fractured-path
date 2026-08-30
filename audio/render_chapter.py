@@ -30,6 +30,14 @@ BITRATE = 64         # one mono voice; 128 buys nothing but radio time
 STITCH = 3           # ElevenLabs accepts at most 3 previous_request_ids
 SR = 44100
 
+# QUOTA POLICY (author decision, 2026-08-30): do NOT probe the balance before
+# rendering. Just start. Chunk failures are clean (no partial chapters are ever
+# assembled), so running dry mid-book costs nothing but a resume later. The
+# "oversized-probe" trick is banned: it reads the balance for free ONLY when
+# quota is low enough to reject it -- with healthy quota it renders the filler
+# and charges for it. If balance visibility is ever needed, fix the key scope
+# (user_read) instead of burning renders to ask.
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOOK = "book-01-the-shattered"
 if "--book" in sys.argv:
