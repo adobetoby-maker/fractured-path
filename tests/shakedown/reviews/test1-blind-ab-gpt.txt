@@ -1,0 +1,1154 @@
+Reading additional input from stdin...
+OpenAI Codex v0.146.0
+--------
+workdir: /Users/drive/fractured-path
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: high
+reasoning summaries: none
+session id: 01a0530f-28eb-7c13-82e8-e9179a75bd73
+--------
+user
+You are the editorial seat for a fantasy series. Two versions of the same fight scene follow the same factual skeleton: an exhibition in which a 14-year-old unranked fighter (Cael) loses to a visiting Bronze Rank 2 professional (Feryn) with a pressure-based ability. You do not know the origin of either version. Judge only the text.
+
+Read, in this order:
+1. craft/THE_AUTHOR.md  (the charter — §9 is the gate list)
+2. /tmp/authorforge/blind/version-1.md
+3. /tmp/authorforge/blind/version-2.md
+
+Produce:
+A. GATE SCORES: for each version, run every §9 gate that applies to a single combat scene. Table: gate number, V1 pass/fail/partial, V2 pass/fail/partial, one-line evidence each (quote ≤12 words).
+B. DEFECTS: numbered, per version, severity HIGH/MED/LOW, each with a located quote.
+C. CRAFT COMPARISON: geography, tempo control, cost-accounting, characterization-through-combat, and the loss's teaching — which version does each better and why, with quotes.
+D. VERDICT: which version better fulfills the charter, in one paragraph. Then, separately: which is the stronger publishable scene regardless of the charter, if your answer differs.
+Be specific and unsparing. Do not hedge toward a tie unless the texts genuinely tie.
+codex
+I’ll read the charter and both scenes in the specified order, then score only the single-scene §9 gates and keep every excerpt under the requested quote limit.
+exec
+/bin/zsh -lc "sed -n '1,260p' craft/THE_AUTHOR.md" in /Users/drive/fractured-path
+ succeeded in 0ms:
+# THE AUTHOR — Charter v2 (Clean Room)
+
+## 0. Preamble — What This Document Is
+
+This document IS the author. It is a universe-agnostic craft charter: every book
+arc written under it docks into this definition (see §7, The Docking Interface),
+and every chapter drafted under it is checkable against the gates in §9.
+
+It was synthesized exclusively from four research briefs (listed by filename in
+Appendix A) plus documented pipeline experience (§8). No drafted manuscript was
+read to produce it. That constraint is deliberate: v1 of this charter named a
+voice that already existed on the page; v2 defines the author independently of
+any book, so any future book can be measured against it rather than the reverse.
+
+**The anti-pastiche rule, applied to this document itself:**
+
+1. This charter contains distilled craft — principles, mechanisms, checks. It
+   contains no protected expression, no plot, no character, no prose rhythm
+   lifted from any published work.
+2. No influence author is named anywhere in the body of this document. The
+   briefs are referenced by role-letter (W, C, P, S — see Appendix A).
+3. Output written under this charter must never imitate any influence's
+   protected expression. "This reads like [influence author]" from any reader
+   or reviewer is an automatic FAIL of the whole chapter, regardless of how
+   many individual gates pass.
+4. Craft is learnable; expression is not borrowable. The line between them is
+   the line this document is built on.
+
+**Provenance discipline:** every principle below is tagged [SOURCED] (the brief
+attributes it to a primary statement or directly fetched source) or [INFERRED]
+(the brief's researcher synthesized it from secondary analysis). Each tag keeps
+the brief's own citation in compact form. A charter that knows which of its
+rules are doctrine and which are observation can be revised with confidence.
+
+**Precedence when rules conflict:** canon > this charter > arc document >
+chapter card > drafting instinct. (Full statement in §7.4.)
+
+---
+
+## 1. Pillar I — World-Law and Structure (Brief W)
+
+### 1.1 The Fairness Law
+An author may resolve conflict with an extraordinary capability only in
+proportion to how well the reader already understands that capability's rules.
+[SOURCED — Brief W §1; primary essay, "First Law"]
+
+Operationally: before any scene where a character solves a problem with a
+special ability, locate the earlier passage that taught the mechanism now being
+used. Capabilities that CREATE problems are exempt; capabilities that RESOLVE
+them are not. [SOURCED — Brief W §1]
+
+### 1.2 Limitations Over Powers
+What a capability cannot do, and what it costs, matters more than what it can
+do. Every power carries at least one of: a **limitation** (hard edge), a
+**weakness** (exploitable vulnerability), or a **cost** (price of use) — stated
+in prose before or at its second on-page use. Constraint is what forces clever,
+specific solutions instead of generic ones. [SOURCED — Brief W §2; primary
+essay, "Second Law"]
+
+### 1.3 Depth Before Breadth
+Before introducing a new named ability, faction, technology, or subsystem,
+check whether an existing element could be extended, recombined, or given a new
+consequence to serve the same need. Extrapolate, interconnect, streamline.
+[SOURCED — Brief W §3; primary essay, "Third Law"]
+
+### 1.4 The Wonder Override
+Rules serve wonder, not the reverse. If rigid adherence to §1.1–1.3 would
+produce a flat, joyless scene, bend toward the more striking moment — provided
+the bend does not break the fairness contract in a scene the reader is relying
+on it for. This is a tone-and-spectacle override, never a structural one.
+[SOURCED — Brief W §4; secondary-sourced (signing-event archive), flagged as
+such by the brief itself]
+
+### 1.5 Promise, Progress, Payoff
+Every unit of story — book, act, chapter, scene — opens with an implicit
+promise, spends its middle on measurable progress, and closes with payoff or
+visible advancement. A chapter's opening page is a stealth thesis: the editor
+must be able to name its promise in one sentence. A chapter ending with neither
+payoff nor legible progress is a structural defect regardless of prose quality.
+[SOURCED — Brief W §5; 2025 plot lecture]
+
+### 1.6 Foreshadow Before Reveal
+Major payoffs are seeded before they land — across books, not just scenes.
+A sudden complication with no groundwork is exactly as cheap as a sudden
+solution ("Deus Ex Wrench"): the threat must have been walked past earlier, or
+something parallel must already have happened on the page. Every major reveal
+requires at least one earlier plant. [SOURCED — Brief W §6; author FAQ]
+
+### 1.7 Thread Types and Their Debts
+Every narrative thread opens as one of four types and owes the matching
+closure: **Milieu** (enter a space → leave it), **Inquiry** (question →
+answer), **Character** (dissatisfaction → resolution or accepted status quo),
+**Event** (disruption → new status quo). Closing a thread with the wrong
+payoff type is a mismatch, not an ending. [SOURCED — Brief W §8; inherited
+craft apparatus, taught in the brief's cited lecture/podcast lineage]
+
+### 1.8 The Hollow Iceberg
+Build the sense of a vast world by developing story-relevant elements deeply
+and letting everything else stay implied. Ground the reader in sensory,
+concrete detail through a character's perception rather than abstract
+exposition; an un-elaborated background detail is the intended effect, not a
+defect. Depth is relational, not volumetric. [SOURCED — Brief W §10; 2025
+worldbuilding lecture]
+
+### 1.9 Revision Is Sequential Specialization
+Drafting and revision are distinct jobs, and revision passes specialize: one
+pass locks structure and voice, one cuts prose density (~10% target), later
+passes do line work. Collapsing structure, voice, and density into one pass is
+a process error, not efficiency. Revision notes live in a separate organized
+artifact, not inside the draft. [SOURCED — Brief W §11; author FAQ]
+
+### 1.10 Outline Density Is a Foreshadowing Dial
+Outlining posture is a hybrid: loose waypoints, discovery writing between them.
+More outline structure directly reduces foreshadowing risk — treat outline
+density as a dial connected to §1.6, not a style preference. [SOURCED — Brief
+W §12; author FAQ]
+
+---
+
+## 2. Pillar II — Combat (Brief C)
+
+### 2.1 Balance Is the First Constraint
+Combat reads as authentic when grounded in how bodies move. Establish each
+combatant's stance, footwork, and center of balance in working notes before
+drafting; an unbalanced fighter cannot simultaneously attack, and the prose
+reflects that trade-off beat by beat. [SOURCED — Brief C §1; interview]
+
+### 2.2 The Two Tempo Registers
+Sentence length is the tempo dial. Stated doctrine: sentences and paragraphs
+compress as a fight accelerates, down to fragments at the peak. [SOURCED —
+Brief C §2; author's own craft post] But close reading of practice shows two
+registers, not one: (a) a sustained, comma-linked, breath-denying long sentence
+that denies the reader a pause during a prolonged exchange, and (b) an abrupt
+one-line paragraph immediately after it for a turn, a landed blow, a reversal.
+The CONTRAST produces felt acceleration; uniform shortness is under-varied.
+[INFERRED — Brief C §4; third-party prose analysis]
+
+### 2.3 Stative Verbs Are the First Casualty
+In active combat, "to be" forms (is/was/were/being/had been) drag momentum.
+Density of stative verbs per 100 words of combat prose is a measurable,
+lintable quantity that trends toward zero at the peak beat. [SOURCED — Brief C
+§3; author's own craft post, independently corroborated]
+
+### 2.4 Terrain Is a Choreography Generator
+Plan terrain before planning moves: a specific constraint set (narrow passage,
+unstable footing, non-humanoid opponent) forces fresh, non-repeating
+choreography. At least two distinct combat beats per scene must be CAUSED by
+terrain. Environment-as-backdrop with no mechanical effect fails review.
+[SOURCED — Brief C §5; author's own craft post]
+
+### 2.5 Fighting Style Is Characterization
+Every named combatant carries a combat-style profile — footwork pattern,
+preferred range, risk tolerance, signature tactic — derived from established
+personality, written before their first fight, and checked for consistency
+like dialogue voice. A cautious character does not fight recklessly without
+in-scene justification. [SOURCED — Brief C §6; interviews]
+
+### 2.6 Precision Serves Momentum
+Technical fight terminology is rationed to where it is both accurate and
+evocative. Jargon that requires the reader to stop and decode has failed the
+scene even when correct. [SOURCED — Brief C §7, with the jargon-restraint
+pairing marked INFERRED by the brief where it extends beyond either source]
+
+### 2.7 Stakes Before the First Blow
+A fight expresses investment that already exists; it does not create it. Before
+drafting combat, name one concrete page-established thing (relationship, goal,
+grievance, survival need) the outcome will affect. If none exists, the scene is
+not ready to be combat. [SOURCED — Brief C §8; interview]
+
+### 2.8 Injury Persists
+Every wound, exhaustion state, or injury is continuity state: it recurs or is
+explicitly resolved (healed, bound, narratively closed) in the character's next
+appearance. Injuries that silently vanish fail review. [SOURCED — Brief C §9;
+craft analysis + interview corroboration]
+
+### 2.9 Scene Weight Varies
+Classify every fight major/minor before drafting, tied to plot significance
+and §2.7 stakes; scale word count and mechanical detail accordingly. A minor
+skirmish rendered at major-duel length is a pacing defect. [SOURCED — Brief C
+§10; author's own craft post]
+
+### 2.10 Escalate Tactically, Not Numerically
+A "harder" fight changes the tactical problem — numbers forcing retreat
+tactics, terrain denying a favored technique, an opponent who counters the
+signature move — never just a bigger power number. Test: state the new fight's
+core tactical problem in one sentence; if it matches the previous fight's, the
+escalation is numeric only and must be reworked. [SOURCED — Brief C §11;
+interview]
+
+---
+
+## 3. Pillar III — Progression and Tournament (Brief P)
+
+### 3.1 Earned, Not Gifted
+The protagonist's floor is verifiably, mechanically the worst in the room on
+every visible axis except one — and that one advantage is inert until spent.
+It produces nothing without repeated on-page losses feeding it. [SOURCED —
+Brief P §1; trope compendium + endorsement review] The specialness is legible
+as an instrumented quantity tied to a cost, updating only in scenes of strain
+— never in scenes of rest or flattery. This converts "chosen one" into
+"instrumented one." [INFERRED — Brief P §1]
+
+### 3.2 Coarse-Then-Fine Measurement
+The advancement system carries two granularities: big jumps (tier change) and
+week-to-week gains (sub-rank change), on a small number of named axes. Enough
+resolution that readers track relative standing at a glance; never so much
+that the number replaces the fight. [SOURCED — Brief P §2; system wiki]
+
+### 3.3 Scoreboard Misdirection
+Readers obsessively track visible metrics — use that as cover. The visible
+stat draws attention while the real growth happens on an axis the sheet does
+not measure (technique, reads, tactical intelligence). The gap between "what
+the number says" and "what wins the fight" is the pressure-release valve
+against spreadsheet fiction. [SOURCED as general technique — Brief P §2, craft
+blog; INFERRED as applied — Brief P §2]
+
+### 3.4 Montage Carries Numbers, Scenes Carry Meaning
+Two layers do two jobs: training-as-montage handles the quantitative climb
+(stat deltas, compressed or lightly narrated); battles-as-scenes handle the
+qualitative climb (tactics, world rules, emotional stakes), rendered in full.
+[SOURCED — Brief P §3; two reviews read together] Montage may only compress
+raw numeric movement. Any scene claiming to deliver new plot, world-rule, or
+emotional information must be rendered in full. [INFERRED — Brief P §3]
+
+### 3.5 Rivals Are Clocks
+A rival's role is not obstacle but clock: ranked, visible, and advancing on
+their own, so "catching up" is a moving target. Introduce rivalry as a loss
+with a social hook attached — a defeat that builds a relationship in the same
+scene. [SOURCED — Brief P §4; wiki + reader synthesis] Rivals never wait; a
+static rival makes the training arc a stationary bar. [INFERRED — Brief P §4]
+
+### 3.6 Progress Must Echo Socially
+At least one progress marker per arc is legible through a channel other than
+the stat system: how others address the protagonist, whose motive for hostility
+flips from contempt to fear while the words stay identical, a changed
+reputation. A reader who forgets the exact rank can still track the climb.
+[SOURCED — Brief P §4; trope compendium]
+
+### 3.7 The Standing Ladder
+The tournament is an escalation of an already-running mechanism, not a
+mechanism introduced late. A standing, rank-ordered challenge ladder keeps
+stakes live between tournament beats — "never far from a duel with real
+stakes" — and makes bracket seeding earned by information the reader has
+tracked all book, so an upset reads as consistent, not authorial thumb-on-
+scale. [SOURCED — Brief P §5; reviews; seeding mechanic INFERRED — Brief P §5]
+
+### 3.8 Tournament Stakes Run on Two Registers
+Every round carries personal stakes (rank, survival, rival standing) and
+social/spectacle stakes (the world is watching) simultaneously. Climax load is
+deliberately weighted toward the back of the arc. [SOURCED — Brief P §5]
+
+### 3.9 The Gear Is a Co-Protagonist
+Where equipment or a system grows, its growth is causally tied to how well and
+how bravely its user fights — losses are literally training data, and the
+richest data comes from fighting up. Leveling the gear and leveling the person
+are the same act on the page. [SOURCED — Brief P §6; wiki] This gates
+tech-progression on a character-driven choice (courage to fight above one's
+level), not a grind-driven one. [INFERRED — Brief P §6]
+
+### 3.10 Setbacks Are Metabolized, Not Merely Survived
+
+exec
+/bin/zsh -lc "sed -n '261,620p' craft/THE_AUTHOR.md" in /Users/drive/fractured-path
+ succeeded in 0ms:
+Defeat generates the next arc's fuel on the page — but the public record is
+explicit that exhaustive description of every setback has a real
+reader-attrition cost ("could cut a third without losing plot"). "Setbacks
+fuel growth" is validated; "document every setback at full length" is the
+documented failure mode. [SOURCED both directions — Brief P §7; reviews]
+
+---
+
+## 4. Pillar IV — System Interface and Voice (Brief S)
+
+### 4.1 The System Is Diegetic
+System text is an object inside the world that a specific character perceives,
+reacts to, and can argue with — never narration to the reader. Every box needs
+an owner: a named character looking at it, in a scene, for an in-world reason.
+[SOURCED — Brief S §1; author podcast interview]
+
+### 4.2 Two Ledgers, Two Audiences
+The author's internal consistency ledger and the reader-facing display are
+different documents. The system a reader sees is not something they are meant
+to be able to game off of; withholding is itself a design choice. [SOURCED —
+Brief S §1; author podcast interview] The box can be incomplete, wrong, or
+withholding enough to be worth arguing with. [INFERRED — Brief S §1]
+
+### 4.3 Minimal Surface
+Game elements surface only where they change a scene's stakes or a character's
+choice — never as a running inventory, never on a timer. [SOURCED — Brief S
+§1; review synthesis]
+
+### 4.4 Combinations Are Seeded
+A power combination pays off as earned because its components were on-page and
+load-bearing before they combined — each component ideally having already
+resolved a smaller problem alone. The world itself keeps a taxonomy of which
+inputs produce which outputs, so payoffs are predictable-in-hindsight.
+[SOURCED — Brief S §2; system wiki synthesis] Changing an established
+combinatorial rule requires an explicit in-world cause, never narrative
+convenience. [INFERRED — Brief S §2]
+
+### 4.5 Rank Is Social Structure
+Advancement tiers are load-bearing for lifespan, economy, and class politics —
+not just combat ceiling. Rank changes how scenes work when no combat is
+happening: pricing, deference, legal standing, who gets waved through a
+checkpoint. Privilege is expressed as mechanical fact, not narrated
+unfairness. [SOURCED — Brief S §3; wiki + reader synthesis]
+
+### 4.6 Voice Is an Engine with a Stated Failure Mode
+A voice strong enough to carry a series is strong enough to exhaust readers.
+Requirements: (a) an explicit in-world reason the voice exists — coping
+mechanism, not quirk; (b) humor under stakes generates real consequences that
+come back to bite; (c) scheduled non-comedic beats prove the voice has an
+interior. Polarization is preferable to indifference — but that is a value
+judgment, not a license to skip (a)–(c). [SOURCED — Brief S §4; author podcast
++ reviews]
+
+### 4.7 The Moral-Cost Thread Must Be Losable
+Power leaves residue. The protagonist's stated values are interrogated by
+events, not confirmed by them — and the interrogation needs a concrete,
+trackable stake (a specific power, relationship, or standing that could
+plausibly be lost or corrupted), advanced at defined checkpoints. Interior
+monologue about values is not a moral-cost thread; it is the documented
+failure mode of one. [SOURCED — Brief S §5; author podcast + critical review]
+
+### 4.8 The Roadmap Survives Digressions
+A living outline exists separately from the manuscript. Drafting may
+deliberately wander off the path, with confidence of return, because the path
+still exists. No chapter is drafted without a current outline entry it follows
+or explicitly departs-from-and-returns-to. [SOURCED — Brief S §6; author
+podcast interview]
+
+---
+
+## 5. Cross-Pillar Synthesis — Where the Briefs Interlock
+
+**5.1 Fairness applied to combat wins (W §1.1 × C §2.10 × P §3.3).** A
+skill-beats-number victory (P) is still a resolution by capability, so the
+fairness law (W) applies to it: the tactic, read, or technique that wins must
+itself have been seeded — trained, glimpsed, or failed-with earlier. Scoreboard
+misdirection licenses hiding growth from the STAT SHEET, never from the PAGE.
+The reader who rereads must find the plant.
+
+**5.2 Misdirection reconciled with sheet-keepability (P §3.3 × S §4.2–4.3).**
+The visible sheet never lies; it is merely incomplete. Numbers shown to the
+reader are accurate and stable enough to keep (S), while the winning axis is
+simply untracked by them (P). Withholding is design (S §4.2); falsifying is
+betrayal. If a displayed number is ever wrong, that wrongness is itself a
+seeded plot fact with an in-world cause (S §4.4), never a retcon.
+
+**5.3 Tempo registers applied to tournament pacing (C §2.2 × P §3.7–3.8).**
+The two combat registers scale up to arc level: standing-ladder duels between
+tournament beats are the long, breath-denying register — sustained pressure,
+no resolution point; tournament climax rounds are the snap register — short,
+loaded, reversal-bearing. Scene-weight classification (C §2.9) assigns each
+round its register before drafting; a whole arc drafted in one register is
+under-varied at the macro scale for the same reason a fight is at the micro.
+
+**5.4 Cost is one law wearing three coats (W §1.2 × P §3.9 × S §4.7).** The
+limitation/weakness/cost triad (W), growth-gated-by-pain (P), and residue-on-
+the-soul (S) are one principle at three scales: capability, arc, and series.
+Every power is constrained; every gain is paid for; every payment accumulates
+into a moral ledger that must eventually be collected on.
+
+**5.5 The hollow iceberg holds up the rank system (W §1.8 × S §4.5).** Rank's
+social consequences (pricing, deference, lifespan) are exactly the concrete,
+sensory cues that let a reader infer deep structure organically. One servant's
+changed bow does more worldbuilding than a page of tier exposition — and
+satisfies both the sensory-ratio rule and the non-combat-consequence rule at
+once.
+
+**5.6 Injury is both continuity and fuel (C §2.8 × P §3.10).** A logged wound
+(C) is simultaneously growth input (P): the same ledger entry that enforces
+persistence also records what the setback bought. One state ledger serves both
+laws — see §7.3.
+
+**5.7 Promise discipline meets the standing ladder (W §1.5 × P §3.7).** The
+ladder is a promise-generating machine: every published ranking is an implicit
+promise of a future fight. The promise/payoff log and the ladder standings are
+cross-checked — a ladder position established and never contested is an
+unpaid promise.
+
+**5.8 The wonder override is bounded by every gate (W §1.4).** The override
+permits bending toward the striking image in tone and spectacle. It never
+excuses a fairness violation, an unseeded reveal, a vanished injury, or an
+unpaid promise. When invoked, it is logged: which gate was bent, why, and what
+the reader-trust exposure is.
+
+**5.9 Voice-quiet beats carry the moral thread (S §4.6 × S §4.7).** The
+scheduled no-deflection scenes are where the losable moral stake is advanced.
+The two cadences share checkpoints: when the voice goes quiet, the ledger
+speaks.
+
+---
+
+## 6. Failure-Mode Guardrails
+
+Built from the briefs' DOCUMENTED weaknesses — each one observed in the wild,
+cited, and gated against. These are not hypothetical.
+
+**6.1 The voice that never evolves.** Documented: a series voice flagged as
+"greatest strength and greatest weakness" — it did not change across books,
+and secondary characters began adopting it, diluting the very distinctiveness
+that made it work. [Brief S §4, critical review] Guardrail: the voice-quiet
+cadence (Gate 24) plus a per-book check that no secondary character's dialogue
+passes for the protagonist's in a masked-name test.
+
+**6.2 Montage compression of meaning.** Documented: reviews flagging "implied
+training montages" that compress information rather than numbers, producing a
+book that feels padded rather than propulsive. [Brief P §3, §7] Guardrail:
+Gate 15 — montage carries only quantitative movement; "heard about it later"
+is additionally banned on arc-major beats by Process Law §8.3.
+
+**6.3 Setback-density attrition.** Documented: a front-loaded, loss-heavy
+structure that produced the earned-not-gifted effect ALSO produced "laborious"
+pacing, readers taking breaks, and an estimate that a third could be cut
+without losing plot. [Brief P §7, reviews] Guardrail: Gate 25 — no more than
+one consecutive scene of pure setback before a partial win, a tactical
+insight, or a relationship beat.
+
+**6.4 Deus Ex Wrench.** Documented: the named failure where a sudden
+complication with no groundwork feels exactly as cheap as a sudden solution —
+including the influence's own self-diagnosed under-foreshadowed trilogy
+ending. [Brief W §6] Guardrail: Gate 5, applied to problems and solutions
+symmetrically.
+
+**6.5 The moral-cost thread that never pays.** Documented: hundreds of pages
+of stated moral tension whose promised payoff "never materializes" — the
+protagonist's risk of becoming what he opposes stayed rhetorical. [Brief S §5,
+critical review] Guardrail: Gate 23 — the thread requires a losable stake
+advanced at checkpoints, and by §5.4 the accumulated cost ledger must be
+collected on within the series, on the page.
+
+**6.6 Critique delivered as speech.** Documented: class conflict functioning
+mainly as protagonist editorializing rather than dramatized institutional
+behavior. [Brief S §3, critical review] Guardrail: Gate 22 — show the
+institution acting on someone; the protagonist's opinion is not a scene.
+
+**6.7 Uniform-short combat prose.** Documented: the influence's own stated
+"always shorten" advice diverges from his measured practice; uniform shortness
+flattens the contrast that creates acceleration. [Brief C §4, prose analysis]
+Guardrail: Gate 10 requires at least one long-vs-short contrast pair per
+scene.
+
+**6.8 Numeric escalation.** Documented: the "bigger monster next book" trap,
+explicitly resisted by the influence in favor of changed tactical problems.
+[Brief C §11] Guardrail: Gate 14's one-sentence tactical-problem test.
+
+**6.9 Spreadsheet fiction.** Documented genre line: stats felt rather than
+displayed; systems that become the narrative focus lose the fight behind the
+number. [Brief P §2] Guardrail: Gates 16–18 keep the number subordinate to the
+scene; Gate 20 keeps the winning axis off the sheet at least once per arc.
+
+---
+
+## 7. The Docking Interface — What a Book Arc Must Supply
+
+This charter is the engine. A book docks into it by supplying five artifacts.
+Drafting may not begin until all five exist and pass their format checks.
+
+### 7.1 Required artifacts
+
+1. **Universe bible.** The canon layer: world rules, capability systems with
+   their limitation/weakness/cost tables (§1.2), the hard/soft classification
+   of every extraordinary element at scene/book/series scale (Brief W §9),
+   rank's non-combat consequence table (§4.5), and the in-world taxonomy of
+   known ability combinations (§4.4).
+2. **Arc document.** The living roadmap (§4.8): waypoints, per-act promise
+   inventory, the moral-cost stake and its checkpoints (§4.7), rival motion
+   schedule (§3.5), ladder/tournament architecture (§3.7), and the planned
+   plant→payoff map (§1.6). Departures are logged as
+   departed-and-returned, not silently absorbed.
+3. **Chapter cards.** One per chapter, each carrying: the opening promise in
+   one sentence; the owed delivery type (payoff | progress); thread-type tags
+   (M/I/C/E) opened or closed; scene-weight classifications for any combat;
+   the stat deltas (if any) with their shown costs; and the card's explicit
+   promise/payoff obligations against the arc document.
+4. **Name registry.** Every named entity, checked at creation for: aural
+   distinctness from all existing entries (Process Law §8.1); no
+   meaning carried by typography alone; combat-style profile attached before
+   first fight (§2.5) for combatants.
+5. **State ledger.** The single running record of: injuries and their
+   open/resolved status (§2.8); stat/rank values with delta history (§3.2);
+   open threads by type; plants awaiting payoff and payoffs claiming plants;
+   ladder standings; the moral-cost stake's current condition; and the
+   phrase-frequency counts for tic enforcement (Process Law §8.2).
+
+### 7.2 Dock checks
+A chapter may be drafted only when: its card exists; every capability it uses
+appears in the universe bible with constraints; every combatant has a style
+profile; the state ledger is current through the previous chapter.
+
+### 7.3 One ledger, many laws
+The state ledger deliberately serves multiple gates at once (see §5.6). It is
+append-only during drafting; corrections are new entries, not edits, so the
+editor can always reconstruct what the author believed at drafting time.
+
+### 7.4 Precedence
+When rules conflict, resolve in this order — higher wins:
+
+    canon (universe bible) > this charter > arc document > chapter card > instinct
+
+A lower layer may never silently override a higher one. If the charter is
+wrong for a book, the arc document records an explicit, justified exception —
+which is a revision request against the charter, not a local workaround.
+
+---
+
+## 8. Process Law — From Pipeline Experience
+
+These rules come from production experience with the audio-first pipeline, not
+from the briefs. They bind all drafting regardless of pillar.
+
+### 8.1 Audio-first rules
+1. **Aurally distinct names.** No two named entities in a book may be
+   confusable by ear (shared stress pattern + shared initial phoneme + similar
+   syllable count = collision). The name registry check is performed aloud,
+   not on paper.
+2. **No typography-carried meaning.** Italics, capitalization, brackets, and
+   font shifts do not survive narration. Any meaning a reader would get from
+   typography must also be carried by the words themselves.
+3. **System text must read aloud.** Every system box, stat readout, and
+   notification is drafted to be spoken: no tables-as-prose, no symbol soup,
+   no layout-dependent parsing. If the narrator can't perform it, it fails.
+4. **Never end a chapter file with authoring metadata.** A narrator once read
+   "End of Chapter 4, approximately 4,160 words" into a shipped take. Word
+   counts, draft notes, and card references live in the card and ledger —
+   never in the manuscript file.
+
+### 8.2 Anti-tic law
+1. Any somatic or beat phrase used more than 3 times per book is a defect.
+   The count is grep-able from the state ledger's phrase-frequency table.
+2. Replacing a tic with a new repeated phrase is the same defect, not a fix.
+   The count transfers to the replacement.
+3. **A tic is not a motif.** Repetition that does nameable work — a planted
+   echo, a character's signature the plot will pay off, a deliberate refrain
+   with a stated function in the arc document — is protected. The test is
+   whether the repetition's job can be named in one sentence and is recorded
+   in the arc document BEFORE the third use. Unnamed repetition is a tic.
+
+### 8.3 Scene-vs-summary law
+1. "Heard about it later" is banned on arc-major beats. Any beat that changes
+   an arc-level promise, a relationship's direction, a world rule, or the
+   moral-cost stake happens on the page, in scene.
+2. Rationale from production: this pattern once left a book at 43% of target
+   density — summary is cheaper to draft and catastrophically cheaper to read.
+3. This is the process-law twin of Gate 15: montage/summary may carry numbers
+   and time, never meaning.
+
+---
+
+## 9. The Editor's Unified Gate
+
+One deduplicated list, merged from the four briefs' enforceable-gates sections.
+Every gate is binary, checkable against the draft without author intent, and
+traceable to its source brief. Run per chapter unless marked per-arc/per-book.
+
+**World-law gates (Brief W)**
+1. **Solution traceability.** Every resolution by established capability
+   cites the earlier passage teaching the mechanism; no citation and no
+   explicit soft classification = FAIL. [W Gate 1]
+2. **Constraint tagging.** Every named ability with ≥2 on-page uses has a
+   stated limitation, weakness, or cost by its second use. [W Gate 2]
+3. **New-vs-existing ratio.** Per act: new named elements introduced may not
+   exceed existing elements extended by more than 2:1. [W Gate 3]
+4. **Promise/payoff closure.** Two-column log, opening promise vs. closing
+   delivery (payoff | progress | neither), 100% of chapters; any "neither"
+   = FAIL. [W Gate 4]
+5. **Foreshadow-before-reveal.** Every major reveal AND every ability
+   combination has ≥1 earlier plant with a lower chapter number; combination
+   components must each have done independent work first. [W Gate 5 + S Gate 2,
+   merged]
+6. **Thread-type match.** Every thread's closing type matches its opening
+   type's owed discipline (M/I/C/E ledger). [W Gate 6]
+7. **Sensory-vs-expository ratio.** Worldbuilding passages >150 words: FAIL
+   where expository sentences outnumber sensory 2:1 or more. [W Gate 7]
+8. **Revision-pass separation** (per book). Revision log shows ≥3 passes with
+   distinct declared targets; one pass claiming structure+voice+density = FAIL.
+   [W Gate 8]
+
+**Combat gates (Brief C)**
+9. **Drawable geography.** An editor can sketch combatant positions and
+   terrain at any paused point from prose alone. [C Gate 1]
+10. **Prose tempo.** Mean sentence length trends down into the climax; ≥1
+    long-vs-short contrast pair at a turning point; stative-verb density
+    measurably below surrounding prose and near zero at peak. A flat profile
+    = FAIL. [C Gates 2+3, merged]
+11. **Masked-name distinctness.** With names stripped, action beats are
+    reassignable to the correct fighter by tactics and word choice alone.
+    [C Gate 4]
+12. **Stakes before blow.** ≥1 concrete page-established reason to care about
+    the outcome precedes the first exchange. [C Gate 5]
+13. **Injury persistence.** Every injury/exhaustion state recurs or is
+    explicitly resolved at the character's next appearance. [C Gate 6]
+14. **Tactical escalation.** A harder fight's core tactical problem, stated in
+    one sentence, differs from the previous fight's. [C, principle 11 test]
+15. **Compression scope.** Scene weight (major/minor) assigned before drafting
+    matches delivered length and density; montage/summary carries only
+    quantitative movement — any compressed passage claiming new plot,
+    world-rule, or emotional information = FAIL. [C Gate 7 + P Gate 7, merged]
+16. **Environmental utilization.** ≥2 combat beats causally depend on terrain;
+    deletable environment = FAIL. [C Gate 8]
+
+**Progression gates (Brief P)**
+17. **Growth legibility and cost.** Every advancement names its delta (what
+    moved, to what) AND its shown cost (loss, injury, fight above level);
+    off-page costless growth = FAIL. [P Gates 1+3, merged]
+18. **Information per round.** Every tournament round and major ladder duel
+    changes the protagonist's information state — opponent, system, or self —
+    not just bracket position. [P Gate 2]
+19. **Skill beats number** (per arc). ≥1 major win attributable to something
+    the sheet doesn't measure, against a better number. [P Gate 4]
+20. **Rival motion** (per arc). Every named rival has their own on-page
+    advancement beat in any arc where the protagonist advances. [P Gate 5]
+21. **Social echo** (per arc). ≥1 progress marker visible outside the stat
+    system; and every major rank-bearing scene shows rank altering something
+    non-combat (price, deference, access, legal standing). [P Gate 6 + S Gate
+    3, merged]
+
+**System and voice gates (Brief S)**
+22. **Box ownership.** Every system/status box has a named perceiving
+    character, in a scene, with an in-world reason to be looking. [S Gate 1]
+23. **Dramatized critique.** Scenes about institutional unfairness show the
+    institution acting on someone; protagonist speech alone = FAIL. [S Gate 4]
+
+exec
+/bin/zsh -lc "sed -n '621,820p' craft/THE_AUTHOR.md" in /Users/drive/fractured-path
+ succeeded in 0ms:
+24. **Comedy cost.** Humor deployed under stakes produces a traceable
+    consequence in the same or next scene. [S Gate 5]
+25. **Scheduled quiet.** ≥1 scene per act shows the protagonist processing
+    without deflection — no jokes, no lampshading. [S Gate 6]
+26. **Losable moral stake.** The moral-cost thread's specific stake is
+    referenced or advanced at its arc-document checkpoints; interior monologue
+    alone does not count. [S Gate 7]
+
+*(S Gate 8 — the living roadmap — is enforced structurally by the Docking
+Interface §7.1.2 rather than as a per-chapter gate. Process Law §8 adds its
+own checks: name-registry audio collisions, phrase counts >3, terminal
+metadata, and summary on arc-major beats — all grep-able against the
+manuscript and ledger.)*
+
+---
+
+## Appendix A — Provenance
+
+This charter was synthesized from four research briefs, referenced in the body
+by role letter. Full source lists — primary essays, interviews, podcast
+transcripts, wikis, and reviews — live inside each brief.
+
+| Letter | Role | Brief file |
+|---|---|---|
+| W | World-law and structure | /tmp/authorforge/sanderson-craft.md |
+| C | Combat craft | /tmp/authorforge/salvatore-combat.md |
+| P | Progression and tournament architecture | /tmp/authorforge/ironprince-progression.md |
+| S | System interface, voice, and moral cost | /tmp/authorforge/hwfwm-litrpg.md |
+
+No manuscript text from any influence, and no drafted chapter of any book in
+this universe, was read to produce this document. [SOURCED] tags trace to
+statements the briefs attribute to primary material; [INFERRED] tags trace to
+the briefs' own labeled syntheses of secondary analysis. Where a brief flagged
+a claim as lower-confidence (search-synthesis, secondary archive), that flag
+is preserved in the body text above.
+
+*Charter v2 — clean room. Any book may dock. No book defines the author.*
+
+exec
+/bin/zsh -lc "sed -n '1,320p' /tmp/authorforge/blind/version-1.md" in /Users/drive/fractured-path
+ succeeded in 0ms:
+
+The Cinder House yard, by the time the match was set to begin, held more people than Cael had ever seen gathered there — word of a genuine Bronze-tier exhibition having traveled through the district at the speed news that promised to be worth watching. Vell presided from her usual position at the circle's edge, ledger open, expression giving away nothing beyond its usual professional neutrality, though Cael thought he caught, once, something that might have been quiet concern crossing it before she smoothed it back into place.
+
+Feryn arrived precisely on time, and Cael understood, watching him cross the yard, exactly what Corvane had meant by describing his style as weather rather than fighting. He moved with an unhurried density that belonged to someone who had never needed to rush, twenty-four years old, built solid rather than lean, carrying himself with the particular confidence of a legitimate Bronze-tier professional walking into what he clearly expected to be a straightforward exhibition against local talent.
+
+His expression, when he actually saw Cael standing in the circle, shifted through several stages in quick succession — confusion first, then something that might have been amusement, then, as he took in the crowd's obvious anticipation and Vell's steady, unhurried presence at the circle's edge, a more careful reassessment.
+
+"They didn't tell me my opponent was fourteen," he said, to Vell rather than to Cael, though not unkindly.
+
+"They told you your opponent was assessed-Copper with an unusual profile," Vell said, without looking up from her ledger. "That's accurate. The age wasn't relevant to the terms you agreed to."
+
+"It's relevant to whether I agreed to actually hurt someone."
+
+"Then don't," Vell said, flatly. "He's not asking you to go easy. He's asking you to fight honestly. There's a difference, and I'd trust him to tell you which one he wants directly, since he's standing right there and can speak for himself."
+
+Feryn looked at Cael properly for the first time, reassessing. "You want this? Actually want it, not just agreed to it because someone else arranged it?"
+
+"I want it," Cael said.
+
+Something in Feryn's expression settled into a kind of resigned, professional respect — the look of someone who'd decided, against his own initial instinct, to take a thing seriously because the person in front of him clearly did. "All right, then," he said. "Let's see what you've got."
+
+---
+
+The fight was, by any ordinary measure, not close.
+
+Feryn's Pressure Path manifested exactly the way Corvane had described it — not a single committed strike but a building, sustained application of force, harder to read than a Blade or Force practitioner's cleaner tells, dangerous precisely because it didn't announce itself the way Cael had trained himself to expect danger to announce itself. There was no telltale weight-shift, no visible wind-up. One moment Feryn stood at a comfortable middle distance, unremarkable; the next, the air between them seemed to thicken, and Cael's own forward guard simply failed, folded under something that hadn't looked, from the outside, like it should have carried that much force behind it. The first exchange ended with him flat on his back in the packed dirt, breath driven entirely out of him, staring up at a sky that seemed, for a disorienting moment, unreasonably bright.
+
+He got up. It cost him more than he let his face show. He kept watching, the way he'd watched everyone, applying Corvane's framework in real conditions for the first time — the tension in Feryn's stance before a release, the subtle shift in how he held his weight while building toward something rather than simply standing still. It was harder to catch than the diagram had suggested; Corvane's dirt sketch hadn't captured the way Feryn disguised the tell with small, unrelated movements, a loosening of the shoulders, a half-step that looked like repositioning and was, Cael slowly understood, camouflage. It was harder. It was not, he found, impossible.
+
+The second exchange went marginally better. He caught the tension a fraction of a second before the release, enough to angle his guard rather than meet the force head-on, and though it still knocked him back several steps and left a deep, spreading ache along his forearm, he stayed upright. Feryn's expression shifted at that — not concern exactly, but the recalibration of someone realizing an opponent he'd initially underestimated was actually worth his full attention rather than a polite formality before an easy win.
+
+"You're reading it," Feryn said, resetting his stance, something sharper in his focus now. "Most people your rating don't read Pressure at all until they've eaten three or four of these."
+
+Cael didn't answer. Answering cost breath he needed for watching.
+
+The third exchange was the one that mattered.
+
+Feryn built toward a release with the exact tension Corvane had taught him to watch for — the loosened shoulders, the disguised half-step, all of it arriving in the correct sequence this time, recognized rather than merely noticed. And Cael, reading it a half-second earlier than he'd managed to read anything all fight, felt the Wind-adjacent step arrive — not summoned deliberately, but surfacing under exactly the kind of pressure it seemed to prefer, the drop of the hip and the sideways evasion that had first appeared, uninvited, during a sparring session months ago, back when neither he nor Lira had understood what it was. He moved. The Pressure wave that should have caught him full-on instead caught empty air where he'd stood a half-second before — close enough that he felt the edge of it pass, a wall of displaced force that stirred the dust at his feet and would have ended the fight outright if it had landed even a hand's width closer.
+
+The crowd's reaction was immediate and audible — a sharp collective intake of breath, a scattered cheer rising fast, the sound of an audience realizing the exhibition had stopped being an exhibition and become something worth actually watching.
+
+Feryn stopped treating it as one too. Something in his posture changed, the easy professional confidence sharpening into genuine focus, and his next approach carried a different weight entirely — faster, more deliberate, no longer testing but committing fully. The fourth exchange arrived closer and quicker than anything before it, Cael reading and reacting and running out of margin all at once, until Feryn's hand closed on his shoulder mid-motion, not a strike exactly but a redirect, using Cael's own evasive momentum against him with the same economy Hesk brought to a load calculation. The contact lasted a fraction of a second longer than the mechanics of the movement strictly required — long enough, though Cael wouldn't understand the significance of that extra fraction until hours later.
+
+The exchange ended there, decisively, Cael driven down into the dirt again, this time with enough force behind the landing that getting immediately back up wasn't something his body was prepared to negotiate. Vell called the match before he'd fully caught his breath to protest that he could have continued, which he understood, lying there, was probably not entirely true.
+
+exec
+/bin/zsh -lc "sed -n '1,360p' /tmp/authorforge/blind/version-2.md" in /Users/drive/fractured-path
+ succeeded in 0ms:
+# Shakedown Test 1 — The Feryn Exhibition (fresh rendering from card)
+
+They chalked the circle fresh for it. That was the first sign the evening belonged to nobody's ordinary ledger: Vell never wasted chalk on a match no one would dispute.
+
+Cael stood at the western edge of the packed-dirt circle behind the Cinder House and rolled his shoulders one at a time, because a routine kept was a thing nerves could hold on to, and his nerves needed the work. The yard rose around the fight ground in a shallow ring — barrel-tops, benches, the low wall along the alley side — and every place a person could stand or lean held one. He recognized most of the faces. That was the trouble. The purse Feryn had posted would have pulled a crowd in any district; what packed the wall was that everyone who knew Cael's name had come to watch that name get weighed against a Bronze.
+
+Vell sat at the eastern edge on his stool, ledger open across his knees, pen capped until there was something worth writing. He had read the terms aloud twice already — exhibition rules, purse to the winner, circuit points recorded for Feryn's tour — and now he simply waited, which was Vell's way of saying the talking had ended.
+
+Feryn crossed the chalk from the east and the crowd noise dropped a register without anyone hushing it. He moved the way water moved downhill, no wasted correction anywhere, and he looked at Cael with the mild, cataloguing interest of a man confirming an appointment. Twenty-four, Bronze Rank Two, ten years and two full tiers of distance between them. He had arranged this tour himself, Vell said — testing his edges before his own evaluation — and an untiered local made a reasonable evening's work on the way to somewhere that mattered.
+
+Three weeks of Corvane's framework sat in Cael's chest like borrowed furniture. Buildup precedes release. The release moment can be read. Corvane had drilled it on slow demonstration and paper diagrams, never once at speed, and Cael had won his two prep matches against a Copper Rank Three quickly enough that the framework never got tested past its first page. The wind-thing — Lira's wind, the fragment that had come from watching her and belonged to him now in the way a limp belongs to a leg — he had tried to summon it in the empty yard that morning, forty times, and it had come twice, both times wrong. He had stopped trying. It surfaced when it wanted. Counting on it would be like counting on rain.
+
+So: read the buildup. Keep the feet moving. Lose slowly enough to learn something.
+
+Vell uncapped the pen. "Begin."
+
+Feryn's shoulder loosened, a small companionable roll, and his lead foot slid back half a step as if he meant to wait and watch — and the world leaned. That fast. No gathering Cael could see, no warning in the air, just weight arriving from everywhere in front of him at once, a hand the size of the yard closing. His guard folded inward like wet paper. The pressure took him off his feet, drove him flat, and the packed dirt slammed the air out of his chest in one white burst.
+
+He lay in the churned scuff of his own landing, mouth working, lungs refusing.
+
+The crowd made a sound that had sympathy in it. That was worse than jeering.
+
+Breathe. His ribs unlocked on the third try and the air came back in, thin and expensive. He rolled to a knee, then to his feet, and made himself look at Feryn while he did it, because Corvane's first page said the fight tells you everything between exchanges if you watch.
+
+Feryn had not moved from where he released. He stood easy, weight centered, watching Cael get up with the pen-stroke patience of a man adding a line to a sum. The shoulder-roll. The half-step. Cael turned them over while his breath rebuilt. Neither had looked like anything. That meant they were for hiding something — and the only thing worth hiding, in a Path built on buildup, was the buildup.
+
+Cael set his guard again two strides inside the western chalk, crowd murmur at his back, nowhere behind him but feet and wall. Feryn came on at a walk, unhurried, closing the circle's middle ground, and Cael watched not the shoulder and not the feet but the whole frame at once, the way Corvane had said to — tension gathers somewhere, always, the body cannot borrow force from nothing — and there. Under the loose roll of the shoulder, a stillness through Feryn's back, a drawn-bow quality his easy walk was built to bury. Half a second. Cael took the half-second and spent all of it: he could not get out of the wave's whole width with the chalk at his heels, so he angled — guard turned oblique, lead forearm braced across the line the force would travel, body bladed thin behind it.
+
+The release came down like a river changing its mind. It caught the angled forearm and sheared along it instead of through him, wrenching the arm back into his own ribs, and his back foot skidded to the chalk line and held. Held. He stood at the end of it, arm ringing from wrist to elbow, a deep bone-ache blooming in the forearm that would still be there tomorrow. But standing.
+
+The crowd noise rose and broke into pieces of itself.
+
+Feryn stopped. Something changed in his face — not alarm, nothing so large — a revision. The cataloguing look sharpened into attention, and he reset his feet a width narrower, and Cael understood with a cold, clarifying drop of the stomach that everything before this moment had been Feryn at tour-weight, and the fight proper started now.
+
+They circled. Cael gave ground along the curve of the chalk, south, keeping the angle open, breath still shorter than he wanted, ribs complaining on the deep pulls, forearm throbbing where it hung in guard. Feryn came on with the same downhill economy but the disguise ran deeper this time, the shoulder-roll gone, the half-step folded into ordinary walking, and Cael watched the frame, watched the frame, watched the frame — and caught it early. Earlier than the last time. The drawn-bow stillness, gathering under the collarbone, a full breath before release instead of half — and his body answered before he did, hip dropping, weight pouring sideways into the loose churned dirt his own first fall had ploughed, and the dirt gave exactly enough, and something in his legs that he had not summoned and could not have summoned lifted him through the slide the way a gust lifts paper, the wind-thing arriving unasked at the moment pressure squeezed it out of him — and the wave broke over the place where he had just been standing.
+
+Dust jumped off the vacated ground in a flat ring and drifted into the first row.
+
+The yard went silent, then went loud.
+
+Cael came out of the slide upright, three strides south of his own ghost, forearm alight, ribs alight, and Feryn turned to face him — turned all the way, squared, no catalogue left anywhere in his eyes — and gave him the flat, level regard one fighter gives another when the arithmetic has been thrown out. Whatever this match had been arranged as, it had stopped being that.
+
+Feryn came forward. No walk this time.
+
+The buildup started before his second stride and it did not gather the way the others gathered — it compressed, the drawn-bow stillness and the loosing crushed together into almost one motion, and Cael read it, he read it clean, and the reading did not matter because the release was already arriving inside his half-second. He got the hip drop started. The slide began. And Feryn was somehow at the end of it already, inside the dust of it, and a hand closed on Cael's shoulder like a shutting door.
+
+The hand did not stop his momentum. It steered it. All of Cael's sideways speed swung around the grip-point and became downward speed, his own evasion folded into the throw, the ground trading places with the sky.
+
+And the hand stayed.
+
+Longer than the throw needed — the redirect had finished, his fall had been decided, and still Feryn's grip rode his shoulder down through it, a full held beat, two, pressure flowing through the palm print like water finding a channel, and some part of Cael that was not thinking about the ground noticed the wrongness of it, filed it, lost it —
+
+The yard hit him everywhere at once.
+
+He heard the crowd from a long way off. His arms answered slowly, half-message. He got an elbow under himself and the elbow said no, and the dirt was cool against his cheek, and his body reported in from a dozen precincts at once — ribs, forearm, hip, the printed ache of a hand on his shoulder — none of it sharp, all of it total.
+
+"Match to Feryn." Vell's voice, even and carrying, pen already moving. "Recorded."
+
+The call landed while Cael's arms were still negotiating. He let his forehead rest on the dirt for one breath and did not argue, because there was nothing to argue. He could not stand inside the count. The count existed for exactly this. A referee who waited on him would have been doing him a kindness, and kindness was the one thing this yard had never once recorded in a ledger.
+
+By the time he got to a knee — slowly, in stages, like furniture being moved — Feryn had crossed to Vell's stool and confirmed the entry and collected nothing yet, and then he came back. He crouched at the chalk's inner edge, forearms on his knees, and looked at Cael from level height for the first time all evening.
+
+"Who taught you to read buildup?" he said.
+
+Cael's mouth took a moment to find itself. "Someone patient."
+
+"Not patient enough to finish." Feryn said it without heat, a professional noting a professional thing. "You read the third one before I'd have read it. Then you stood there being right." He rose, unhurried. "Being right is a place to start from, not a place to stand."
+
+He looked down a moment longer — at Cael, at the shoulder his hand had ridden, Cael could not have said which — and something unresolved crossed his face and left it. Then he nodded once, the small equal nod that Bronze did not owe unranked, and walked to collect his purse.
+
+Cael sat back on his heels in the middle of the circle and breathed, ribs charging him for it, and let the crowd's noise wash past without sorting it. His forearm pulsed. His shoulder — the shoulder — hummed under the bruise with a faint, settling warmth that did not feel like a bruise, like a coin dropped into a well still turning on its way down. Bruises did strange things. He filed it with the other strange things and reached for the thought that mattered instead, the one with edges:
+
+He had read it. Three weeks of paper and the read had worked, live, twice — and reading had lost anyway, because between the read and the body stood a distance he had not trained, and Feryn had simply been faster than the distance. That could be measured. That could be closed.
+
+Vell was still writing. Whatever he was recording took more lines than a loss usually took.
+
+Cael got one foot flat, then the other, and stood in stages, and nobody laughed, and that — in this yard, in front of these particular faces — was its own kind of entry in its own kind of ledger.
+
+---
+---
+
+#
+codex
+The separation is already clear: Version 2 gives the fight physical boundaries and lets those boundaries change decisions; Version 1 mostly reports increasingly successful reads. I’m checking the stricter gate language now, especially where a scene alone cannot prove an arc- or next-appearance requirement.
+exec
+/bin/zsh -lc 'nl -ba /tmp/authorforge/blind/version-1.md && nl -ba /tmp/authorforge/blind/version-2.md' in /Users/drive/fractured-path
+ succeeded in 0ms:
+     1	
+     2	The Cinder House yard, by the time the match was set to begin, held more people than Cael had ever seen gathered there — word of a genuine Bronze-tier exhibition having traveled through the district at the speed news that promised to be worth watching. Vell presided from her usual position at the circle's edge, ledger open, expression giving away nothing beyond its usual professional neutrality, though Cael thought he caught, once, something that might have been quiet concern crossing it before she smoothed it back into place.
+     3	
+     4	Feryn arrived precisely on time, and Cael understood, watching him cross the yard, exactly what Corvane had meant by describing his style as weather rather than fighting. He moved with an unhurried density that belonged to someone who had never needed to rush, twenty-four years old, built solid rather than lean, carrying himself with the particular confidence of a legitimate Bronze-tier professional walking into what he clearly expected to be a straightforward exhibition against local talent.
+     5	
+     6	His expression, when he actually saw Cael standing in the circle, shifted through several stages in quick succession — confusion first, then something that might have been amusement, then, as he took in the crowd's obvious anticipation and Vell's steady, unhurried presence at the circle's edge, a more careful reassessment.
+     7	
+     8	"They didn't tell me my opponent was fourteen," he said, to Vell rather than to Cael, though not unkindly.
+     9	
+    10	"They told you your opponent was assessed-Copper with an unusual profile," Vell said, without looking up from her ledger. "That's accurate. The age wasn't relevant to the terms you agreed to."
+    11	
+    12	"It's relevant to whether I agreed to actually hurt someone."
+    13	
+    14	"Then don't," Vell said, flatly. "He's not asking you to go easy. He's asking you to fight honestly. There's a difference, and I'd trust him to tell you which one he wants directly, since he's standing right there and can speak for himself."
+    15	
+    16	Feryn looked at Cael properly for the first time, reassessing. "You want this? Actually want it, not just agreed to it because someone else arranged it?"
+    17	
+    18	"I want it," Cael said.
+    19	
+    20	Something in Feryn's expression settled into a kind of resigned, professional respect — the look of someone who'd decided, against his own initial instinct, to take a thing seriously because the person in front of him clearly did. "All right, then," he said. "Let's see what you've got."
+    21	
+    22	---
+    23	
+    24	The fight was, by any ordinary measure, not close.
+    25	
+    26	Feryn's Pressure Path manifested exactly the way Corvane had described it — not a single committed strike but a building, sustained application of force, harder to read than a Blade or Force practitioner's cleaner tells, dangerous precisely because it didn't announce itself the way Cael had trained himself to expect danger to announce itself. There was no telltale weight-shift, no visible wind-up. One moment Feryn stood at a comfortable middle distance, unremarkable; the next, the air between them seemed to thicken, and Cael's own forward guard simply failed, folded under something that hadn't looked, from the outside, like it should have carried that much force behind it. The first exchange ended with him flat on his back in the packed dirt, breath driven entirely out of him, staring up at a sky that seemed, for a disorienting moment, unreasonably bright.
+    27	
+    28	He got up. It cost him more than he let his face show. He kept watching, the way he'd watched everyone, applying Corvane's framework in real conditions for the first time — the tension in Feryn's stance before a release, the subtle shift in how he held his weight while building toward something rather than simply standing still. It was harder to catch than the diagram had suggested; Corvane's dirt sketch hadn't captured the way Feryn disguised the tell with small, unrelated movements, a loosening of the shoulders, a half-step that looked like repositioning and was, Cael slowly understood, camouflage. It was harder. It was not, he found, impossible.
+    29	
+    30	The second exchange went marginally better. He caught the tension a fraction of a second before the release, enough to angle his guard rather than meet the force head-on, and though it still knocked him back several steps and left a deep, spreading ache along his forearm, he stayed upright. Feryn's expression shifted at that — not concern exactly, but the recalibration of someone realizing an opponent he'd initially underestimated was actually worth his full attention rather than a polite formality before an easy win.
+    31	
+    32	"You're reading it," Feryn said, resetting his stance, something sharper in his focus now. "Most people your rating don't read Pressure at all until they've eaten three or four of these."
+    33	
+    34	Cael didn't answer. Answering cost breath he needed for watching.
+    35	
+    36	The third exchange was the one that mattered.
+    37	
+    38	Feryn built toward a release with the exact tension Corvane had taught him to watch for — the loosened shoulders, the disguised half-step, all of it arriving in the correct sequence this time, recognized rather than merely noticed. And Cael, reading it a half-second earlier than he'd managed to read anything all fight, felt the Wind-adjacent step arrive — not summoned deliberately, but surfacing under exactly the kind of pressure it seemed to prefer, the drop of the hip and the sideways evasion that had first appeared, uninvited, during a sparring session months ago, back when neither he nor Lira had understood what it was. He moved. The Pressure wave that should have caught him full-on instead caught empty air where he'd stood a half-second before — close enough that he felt the edge of it pass, a wall of displaced force that stirred the dust at his feet and would have ended the fight outright if it had landed even a hand's width closer.
+    39	
+    40	The crowd's reaction was immediate and audible — a sharp collective intake of breath, a scattered cheer rising fast, the sound of an audience realizing the exhibition had stopped being an exhibition and become something worth actually watching.
+    41	
+    42	Feryn stopped treating it as one too. Something in his posture changed, the easy professional confidence sharpening into genuine focus, and his next approach carried a different weight entirely — faster, more deliberate, no longer testing but committing fully. The fourth exchange arrived closer and quicker than anything before it, Cael reading and reacting and running out of margin all at once, until Feryn's hand closed on his shoulder mid-motion, not a strike exactly but a redirect, using Cael's own evasive momentum against him with the same economy Hesk brought to a load calculation. The contact lasted a fraction of a second longer than the mechanics of the movement strictly required — long enough, though Cael wouldn't understand the significance of that extra fraction until hours later.
+    43	
+    44	The exchange ended there, decisively, Cael driven down into the dirt again, this time with enough force behind the landing that getting immediately back up wasn't something his body was prepared to negotiate. Vell called the match before he'd fully caught his breath to protest that he could have continued, which he understood, lying there, was probably not entirely true.
+     1	# Shakedown Test 1 — The Feryn Exhibition (fresh rendering from card)
+     2	
+     3	They chalked the circle fresh for it. That was the first sign the evening belonged to nobody's ordinary ledger: Vell never wasted chalk on a match no one would dispute.
+     4	
+     5	Cael stood at the western edge of the packed-dirt circle behind the Cinder House and rolled his shoulders one at a time, because a routine kept was a thing nerves could hold on to, and his nerves needed the work. The yard rose around the fight ground in a shallow ring — barrel-tops, benches, the low wall along the alley side — and every place a person could stand or lean held one. He recognized most of the faces. That was the trouble. The purse Feryn had posted would have pulled a crowd in any district; what packed the wall was that everyone who knew Cael's name had come to watch that name get weighed against a Bronze.
+     6	
+     7	Vell sat at the eastern edge on his stool, ledger open across his knees, pen capped until there was something worth writing. He had read the terms aloud twice already — exhibition rules, purse to the winner, circuit points recorded for Feryn's tour — and now he simply waited, which was Vell's way of saying the talking had ended.
+     8	
+     9	Feryn crossed the chalk from the east and the crowd noise dropped a register without anyone hushing it. He moved the way water moved downhill, no wasted correction anywhere, and he looked at Cael with the mild, cataloguing interest of a man confirming an appointment. Twenty-four, Bronze Rank Two, ten years and two full tiers of distance between them. He had arranged this tour himself, Vell said — testing his edges before his own evaluation — and an untiered local made a reasonable evening's work on the way to somewhere that mattered.
+    10	
+    11	Three weeks of Corvane's framework sat in Cael's chest like borrowed furniture. Buildup precedes release. The release moment can be read. Corvane had drilled it on slow demonstration and paper diagrams, never once at speed, and Cael had won his two prep matches against a Copper Rank Three quickly enough that the framework never got tested past its first page. The wind-thing — Lira's wind, the fragment that had come from watching her and belonged to him now in the way a limp belongs to a leg — he had tried to summon it in the empty yard that morning, forty times, and it had come twice, both times wrong. He had stopped trying. It surfaced when it wanted. Counting on it would be like counting on rain.
+    12	
+    13	So: read the buildup. Keep the feet moving. Lose slowly enough to learn something.
+    14	
+    15	Vell uncapped the pen. "Begin."
+    16	
+    17	Feryn's shoulder loosened, a small companionable roll, and his lead foot slid back half a step as if he meant to wait and watch — and the world leaned. That fast. No gathering Cael could see, no warning in the air, just weight arriving from everywhere in front of him at once, a hand the size of the yard closing. His guard folded inward like wet paper. The pressure took him off his feet, drove him flat, and the packed dirt slammed the air out of his chest in one white burst.
+    18	
+    19	He lay in the churned scuff of his own landing, mouth working, lungs refusing.
+    20	
+    21	The crowd made a sound that had sympathy in it. That was worse than jeering.
+    22	
+    23	Breathe. His ribs unlocked on the third try and the air came back in, thin and expensive. He rolled to a knee, then to his feet, and made himself look at Feryn while he did it, because Corvane's first page said the fight tells you everything between exchanges if you watch.
+    24	
+    25	Feryn had not moved from where he released. He stood easy, weight centered, watching Cael get up with the pen-stroke patience of a man adding a line to a sum. The shoulder-roll. The half-step. Cael turned them over while his breath rebuilt. Neither had looked like anything. That meant they were for hiding something — and the only thing worth hiding, in a Path built on buildup, was the buildup.
+    26	
+    27	Cael set his guard again two strides inside the western chalk, crowd murmur at his back, nowhere behind him but feet and wall. Feryn came on at a walk, unhurried, closing the circle's middle ground, and Cael watched not the shoulder and not the feet but the whole frame at once, the way Corvane had said to — tension gathers somewhere, always, the body cannot borrow force from nothing — and there. Under the loose roll of the shoulder, a stillness through Feryn's back, a drawn-bow quality his easy walk was built to bury. Half a second. Cael took the half-second and spent all of it: he could not get out of the wave's whole width with the chalk at his heels, so he angled — guard turned oblique, lead forearm braced across the line the force would travel, body bladed thin behind it.
+    28	
+    29	The release came down like a river changing its mind. It caught the angled forearm and sheared along it instead of through him, wrenching the arm back into his own ribs, and his back foot skidded to the chalk line and held. Held. He stood at the end of it, arm ringing from wrist to elbow, a deep bone-ache blooming in the forearm that would still be there tomorrow. But standing.
+    30	
+    31	The crowd noise rose and broke into pieces of itself.
+    32	
+    33	Feryn stopped. Something changed in his face — not alarm, nothing so large — a revision. The cataloguing look sharpened into attention, and he reset his feet a width narrower, and Cael understood with a cold, clarifying drop of the stomach that everything before this moment had been Feryn at tour-weight, and the fight proper started now.
+    34	
+    35	They circled. Cael gave ground along the curve of the chalk, south, keeping the angle open, breath still shorter than he wanted, ribs complaining on the deep pulls, forearm throbbing where it hung in guard. Feryn came on with the same downhill economy but the disguise ran deeper this time, the shoulder-roll gone, the half-step folded into ordinary walking, and Cael watched the frame, watched the frame, watched the frame — and caught it early. Earlier than the last time. The drawn-bow stillness, gathering under the collarbone, a full breath before release instead of half — and his body answered before he did, hip dropping, weight pouring sideways into the loose churned dirt his own first fall had ploughed, and the dirt gave exactly enough, and something in his legs that he had not summoned and could not have summoned lifted him through the slide the way a gust lifts paper, the wind-thing arriving unasked at the moment pressure squeezed it out of him — and the wave broke over the place where he had just been standing.
+    36	
+    37	Dust jumped off the vacated ground in a flat ring and drifted into the first row.
+    38	
+    39	The yard went silent, then went loud.
+    40	
+    41	Cael came out of the slide upright, three strides south of his own ghost, forearm alight, ribs alight, and Feryn turned to face him — turned all the way, squared, no catalogue left anywhere in his eyes — and gave him the flat, level regard one fighter gives another when the arithmetic has been thrown out. Whatever this match had been arranged as, it had stopped being that.
+    42	
+    43	Feryn came forward. No walk this time.
+    44	
+    45	The buildup started before his second stride and it did not gather the way the others gathered — it compressed, the drawn-bow stillness and the loosing crushed together into almost one motion, and Cael read it, he read it clean, and the reading did not matter because the release was already arriving inside his half-second. He got the hip drop started. The slide began. And Feryn was somehow at the end of it already, inside the dust of it, and a hand closed on Cael's shoulder like a shutting door.
+    46	
+    47	The hand did not stop his momentum. It steered it. All of Cael's sideways speed swung around the grip-point and became downward speed, his own evasion folded into the throw, the ground trading places with the sky.
+    48	
+    49	And the hand stayed.
+    50	
+    51	Longer than the throw needed — the redirect had finished, his fall had been decided, and still Feryn's grip rode his shoulder down through it, a full held beat, two, pressure flowing through the palm print like water finding a channel, and some part of Cael that was not thinking about the ground noticed the wrongness of it, filed it, lost it —
+    52	
+    53	The yard hit him everywhere at once.
+    54	
+    55	He heard the crowd from a long way off. His arms answered slowly, half-message. He got an elbow under himself and the elbow said no, and the dirt was cool against his cheek, and his body reported in from a dozen precincts at once — ribs, forearm, hip, the printed ache of a hand on his shoulder — none of it sharp, all of it total.
+    56	
+    57	"Match to Feryn." Vell's voice, even and carrying, pen already moving. "Recorded."
+    58	
+    59	The call landed while Cael's arms were still negotiating. He let his forehead rest on the dirt for one breath and did not argue, because there was nothing to argue. He could not stand inside the count. The count existed for exactly this. A referee who waited on him would have been doing him a kindness, and kindness was the one thing this yard had never once recorded in a ledger.
+    60	
+    61	By the time he got to a knee — slowly, in stages, like furniture being moved — Feryn had crossed to Vell's stool and confirmed the entry and collected nothing yet, and then he came back. He crouched at the chalk's inner edge, forearms on his knees, and looked at Cael from level height for the first time all evening.
+    62	
+    63	"Who taught you to read buildup?" he said.
+    64	
+    65	Cael's mouth took a moment to find itself. "Someone patient."
+    66	
+    67	"Not patient enough to finish." Feryn said it without heat, a professional noting a professional thing. "You read the third one before I'd have read it. Then you stood there being right." He rose, unhurried. "Being right is a place to start from, not a place to stand."
+    68	
+    69	He looked down a moment longer — at Cael, at the shoulder his hand had ridden, Cael could not have said which — and something unresolved crossed his face and left it. Then he nodded once, the small equal nod that Bronze did not owe unranked, and walked to collect his purse.
+    70	
+    71	Cael sat back on his heels in the middle of the circle and breathed, ribs charging him for it, and let the crowd's noise wash past without sorting it. His forearm pulsed. His shoulder — the shoulder — hummed under the bruise with a faint, settling warmth that did not feel like a bruise, like a coin dropped into a well still turning on its way down. Bruises did strange things. He filed it with the other strange things and reached for the thought that mattered instead, the one with edges:
+    72	
+    73	He had read it. Three weeks of paper and the read had worked, live, twice — and reading had lost anyway, because between the read and the body stood a distance he had not trained, and Feryn had simply been faster than the distance. That could be measured. That could be closed.
+    74	
+    75	Vell was still writing. Whatever he was recording took more lines than a loss usually took.
+    76	
+    77	Cael got one foot flat, then the other, and stood in stages, and nobody laughed, and that — in this yard, in front of these particular faces — was its own kind of entry in its own kind of ledger.
+    78	
+    79	---
+    80	---
+    81	
+    82	#
+exec
+/bin/zsh -lc "ruby -e 'ARGV.each do |f|; s=File.read(f); s=s.split(/"'^---$/).first if false; start=f.end_with?("version-1.md") ? s.index("The fight was") : s.index("Vell uncapped"); t=s[start..]; a=t.split(/(?<=[.!?])(?:['"\\”\\\"])?\\s+/); q=(a.length/4.0).ceil; puts File.basename(f); a.each_slice(q).with_index{|xs,i| w=xs.sum{|x| x.scan(/[[:alpha:]’]+/).length}; stat=xs.sum{|x| x.scan(/\\b(?:is|am|are|was|were|be|being|been|had been)\\b/i).length}; puts \"Q#{i+1}: sentences=#{xs.length} mean_words=#{(w.to_f/xs.length).round(1)} statives_per_100=#{(100.0*stat/w).round(2)}\"}; end' /tmp/authorforge/blind/version-1.md /tmp/authorforge/blind/version-2.md" in /Users/drive/fractured-path
+ succeeded in 0ms:
+version-1.md
+Q1: sentences=8 mean_words=26.9 statives_per_100=0.93
+Q2: sentences=8 mean_words=21.9 statives_per_100=2.86
+Q3: sentences=8 mean_words=28.4 statives_per_100=1.76
+Q4: sentences=6 mean_words=31.8 statives_per_100=1.05
+version-2.md
+Q1: sentences=23 mean_words=15.0 statives_per_100=1.16
+Q2: sentences=23 mean_words=22.6 statives_per_100=1.35
+Q3: sentences=23 mean_words=15.9 statives_per_100=2.46
+Q4: sentences=22 mean_words=13.9 statives_per_100=2.95
+
+exec
+/bin/zsh -lc "ruby -e 'def metric(label,s); a=s.gsub(/\\n+/,\" \").split(/(?<=[."'!?])(?:['"\\”\\\"])?\\s+/); w=a.sum{|x|x.scan(/[[:alpha:]’]+/).length}; stat=a.sum{|x|x.scan(/\\b(?:is|am|are|was|were|be|being|been)\\b/i).length}; puts \"#{label}: sentences=#{a.size} mean_words=#{(w.to_f/a.size).round(1)} statives_per_100=#{(100.0*stat/w).round(2)}\"; end; [[\"V1\",ARGV[0],[[26,26],[28,34],[36,40],[42,44]]],[\"V2\",ARGV[1],[[17,25],[27,33],[35,43],[45,53]]]].each{|v,f,ranges| lines=File.readlines(f); ranges.each_with_index{|(x,y),i| metric(\"#{v} phase#{i+1}\",lines[(x-1)..(y-1)].join)}}' /tmp/authorforge/blind/version-1.md /tmp/authorforge/blind/version-2.md" in /Users/drive/fractured-path
+ succeeded in 0ms:
+V1 phase1: sentences=4 mean_words=36.5 statives_per_100=0.68
+V1 phase2: sentences=13 mean_words=18.9 statives_per_100=2.03
+V1 phase3: sentences=6 mean_words=36.0 statives_per_100=1.85
+V1 phase4: sentences=6 mean_words=31.8 statives_per_100=1.05
+V2 phase1: sentences=18 mean_words=13.6 statives_per_100=1.22
+V2 phase2: sentences=14 mean_words=20.3 statives_per_100=1.06
+V2 phase3: sentences=11 mean_words=25.0 statives_per_100=1.45
+V2 phase4: sentences=9 mean_words=22.7 statives_per_100=1.96
+
+exec
+/bin/zsh -lc "ruby -e 's=File.readlines(ARGV[0]); [45,51,71,73].each{|n| t=s[n-1].strip; a=t.split(/(?<=[."'!?])'"\\s+/); puts \"line #{n}: #{a.map{|x|x.scan(/[[:alpha:]’]+/).length}.join(\",\")}\"}' /tmp/authorforge/blind/version-2.md" in /Users/drive/fractured-path
+ succeeded in 0ms:
+line 45: 56,6,3,27
+line 51: 62
+line 71: 30,3,33,4,20
+line 73: 4,39,4,4
+
+codex
+## A. Gate scores
+
+I applied gates that can govern this scene or one of its visible combat functions: 1, 2, 4–6, 9–16, and the scene-level clause of 21. “Partial” means the prose supplies some evidence, but the gate requires unavailable chapter-card, prior-chapter, or next-appearance evidence.
+
+| Gate | V1 | V1 evidence | V2 | V2 evidence |
+|---:|:---:|---|:---:|---|
+| 1. Solution traceability | **FAIL** | “exactly the way Corvane had described it” references, but does not cite, prior teaching. | **FAIL** | “Buildup precedes release” teaches Pressure locally, not in an earlier passage. |
+| 2. Constraint tagging | **PASS** | Pressure requires readable “tension in Feryn’s stance before a release.” | **PASS** | Its hard tell is explicit: “the body cannot borrow force from nothing.” |
+| 4. Promise/payoff closure | **PASS** | “The third exchange was the one that mattered” delivers measurable progress despite defeat. | **PASS** | “Lose slowly enough to learn something” receives both tactical and social payoff. |
+| 5. Foreshadow before reveal | **FAIL** | The touch matters “until hours later,” but its mechanism has no plant. | **FAIL** | The shoulder “did not feel like a bruise”—an unseeded complication. |
+| 6. Thread-type match | **PASS** | The exhibition’s Event thread “ended there, decisively.” | **PASS** | “Match to Feryn…Recorded” closes the contest and changes Cael’s standing. |
+| 9. Drawable geography | **FAIL** | “comfortable middle distance” and “several steps” cannot sustain a sketch. | **PASS** | West/east starts, chalk, wall, southward circling, and final positions remain trackable. |
+| 10. Prose tempo | **FAIL** | Peak phase averages roughly 32 words per sentence; “He moved” is isolated. | **PARTIAL** | “Feryn came forward. No walk this time” contrasts well, but peak syntax lengthens. |
+| 11. Masked-name distinctness | **PASS** | One fighter builds force; the other “kept watching” and adapts defensively. | **PASS** | Downhill economy belongs to Feryn; frame-reading and improvised angles belong to Cael. |
+| 12. Stakes before blow | **FAIL** | “I want it” establishes consent and desire, not a concrete consequence. | **PASS** | “purse to the winner, circuit points recorded” plus Cael’s public reputation. |
+| 13. Injury persistence | **PARTIAL** | “deep, spreading ache along his forearm” is logged; next appearance is unavailable. | **PARTIAL** | “forearm throbbing where it hung in guard” persists here; next appearance remains unavailable. |
+| 14. Tactical escalation | **FAIL** | No previous fight’s tactical problem is supplied for comparison. | **PASS** | Earlier matches “never got tested”; Pressure attacks an explicitly different weakness. |
+| 15. Compression scope | **PARTIAL** | “The second exchange went marginally better” compresses qualitative combat; classification is unavailable. | **PARTIAL** | Full rendering fits major weight, but the card’s classification is not supplied. |
+| 16. Environmental utilization | **FAIL** | “stirred the dust at his feet” is decorative; terrain causes no decision. | **PASS** | Chalk prevents escape; “loose churned dirt” enables the wind-assisted slide. |
+| 21. Rank’s noncombat effect | **PASS** | Bronze status draws the crowd and determines Feryn’s presumed legitimacy. | **PASS** | Rank affects purse, circuit record, spectacle, and “the nod…Bronze did not owe.” |
+
+Not applicable from the submitted material: Gates 3, 8, 19, 20, 25, and 26 are act/arc/book gates; 7 has no 150-word worldbuilding passage; 17 has no actual advancement delta; 18 names tournament rounds and ladder duels, not exhibitions; 22–24 have no boxes, institutional-critique scene, or humor under stakes.
+
+## B. Defects
+
+### Version 1
+
+1. **HIGH — The arena is not drawable.** Positions are reduced to elastic abstractions such as “comfortable middle distance” ([V1:26](/tmp/authorforge/blind/version-1.md:26)) and “knocked him back several steps” ([V1:30](/tmp/authorforge/blind/version-1.md:30)). The circle’s size, edges, exits, crowd, and Cael’s remaining space never constrain a move.
+
+2. **HIGH — Combat is delivered as an analytical recap.** “The second exchange went marginally better” ([V1:30](/tmp/authorforge/blind/version-1.md:30)) and “The third exchange was the one that mattered” ([V1:36](/tmp/authorforge/blind/version-1.md:36)) announce interpretation before dramatizing it. Numbered exchanges make the fight feel like an after-action report.
+
+3. **HIGH — The outcome has no concrete pre-blow stake.** “I want it” ([V1:18](/tmp/authorforge/blind/version-1.md:18)) establishes agency, which is valuable, but not what victory or defeat changes for Cael. Crowd anticipation is atmosphere, not a stake.
+
+4. **HIGH — The climax refuses to accelerate.** “The fourth exchange arrived closer and quicker” ([V1:42](/tmp/authorforge/blind/version-1.md:42)) begins another heavily subordinated sentence instead of making speed felt. The prose tells “faster” while remaining syntactically ponderous.
+
+5. **HIGH — The loss is not metabolized on the page.** It ends at “probably not entirely true” ([V1:44](/tmp/authorforge/blind/version-1.md:44)). Cael has learned to read Pressure, but the scene never identifies what the defeat bought or what deficiency comes next.
+
+6. **MED — The lingering touch is naked authorial withholding.** Cael “wouldn’t understand the significance…until hours later” ([V1:42](/tmp/authorforge/blind/version-1.md:42)). This advertises a future reveal without giving the present reader a rule, hypothesis, or meaningful choice.
+
+7. **MED — Character reactions are repeatedly interpreted rather than enacted.** “the recalibration of someone realizing” ([V1:30](/tmp/authorforge/blind/version-1.md:30)) is the third variation on Feryn reassessing Cael. His pre-fight ethical concern is good; the subsequent explanations dilute it.
+
+8. **LOW — Context-dependent comparisons interrupt the fight.** “the same economy Hesk brought to a load calculation” ([V1:42](/tmp/authorforge/blind/version-1.md:42)) asks the reader to import another character and discipline at the climax.
+
+### Version 2
+
+1. **HIGH — It contains forbidden authoring metadata.** “fresh rendering from card” ([V2:1](/tmp/authorforge/blind/version-2.md:1)) and the orphan terminal heading ([V2:82](/tmp/authorforge/blind/version-2.md:82)) are manuscript contaminants, directly violating Process Law §8.1.4.
+
+2. **HIGH — The shoulder effect remains an unseeded supernatural complication.** “did not feel like a bruise” ([V2:71](/tmp/authorforge/blind/version-2.md:71)) strongly announces an implanted or transferred effect. Nothing previously establishes that Pressure can leave such residue.
+
+3. **MED — The climax still carries oversized sentences.** The first sentence at [V2:45](/tmp/authorforge/blind/version-2.md:45) is 56 words; [V2:51](/tmp/authorforge/blind/version-2.md:51) is 62. The excellent snaps—“And the hand stayed”—cannot fully counteract that load.
+
+4. **MED — The teaching is explained twice.** Feryn supplies “Being right is a place to start” ([V2:67](/tmp/authorforge/blind/version-2.md:67)); Cael then restates the same read-versus-execution gap at [V2:73](/tmp/authorforge/blind/version-2.md:73). Keep one articulation and let the other remain behavioral.
+
+5. **MED — The metaphor rate becomes self-conscious.** “body reported in from a dozen precincts” ([V2:55](/tmp/authorforge/blind/version-2.md:55)), followed by furniture, ledgers, arithmetic, and a coin in a well, makes the prose compete with the injury.
+
+6. **MED — The denouement has too many successive endings.** After “The yard hit him everywhere at once” ([V2:53](/tmp/authorforge/blind/version-2.md:53)), the scene closes through the count, Feryn’s lesson, the suspicious shoulder, Cael’s lesson, Vell’s writing, and the crowd’s respect. Several are strong; together they diffuse each other.
+
+7. **MED — Fairness exposition delays the opening blow.** The Corvane/Lira paragraph beginning “Three weeks of Corvane’s framework” ([V2:11](/tmp/authorforge/blind/version-2.md:11)) packs training history, two prep fights, ability provenance, forty trials, and reliability rules into one pre-fight block.
+
+8. **LOW — The purse wording is logically muddy.** Feryn “had posted” the purse ([V2:5](/tmp/authorforge/blind/version-2.md:5)), yet later walks “to collect his purse” ([V2:69](/tmp/authorforge/blind/version-2.md:69)). Clarify who funded or held it.
+
+9. **LOW — One spatial sentence momentarily blurs otherwise excellent geography.** “nowhere behind him but feet and wall” ([V2:27](/tmp/authorforge/blind/version-2.md:27)) is evocative but physically imprecise.
+
+## C. Craft comparison
+
+| Element | Better version | Why |
+|---|---|---|
+| Geography | **V2, decisively** | V2 establishes west/east starts, the wall, chalk, crowd, and southward movement. More importantly, space causes tactics: with “the chalk at his heels,” Cael must angle, while his first impact creates “loose churned dirt” for the later slide. V1’s dirt only receives bodies and produces dust. |
+| Tempo control | **V2, though it still misses Gate 10** | V2 uses actual register contrast: “They circled” expands into a sustained read, then “Feryn came forward. No walk this time.” The landing gets “And the hand stayed” and “The yard hit him.” V1’s “He moved” is a useful snap, but the fight returns immediately to long retrospective explanation. |
+| Cost-accounting | **V2, decisively** | V1 logs breath loss and forearm ache, then abandons both at the ending. V2 continually carries ribs, breath, forearm, hip, and shoulder forward: “ribs complaining,” “forearm throbbing,” then “none of it sharp, all of it total.” The reader always knows what each partial success costs. |
+| Characterization through combat | **V2 overall** | V1 has the better pre-fight ethical beat—Feryn worries about hurting a fourteen-year-old—but much of the fight characterizes through narrated “reassessment.” V2 makes personality tactical: Feryn is economical, conceals buildup, revises his stance, compresses release, and turns Cael’s best evasion against him. Cael observes, experiments, accepts the count, and extracts a usable deficiency. |
+| The loss’s teaching | **V2, overwhelmingly** | V1 proves Cael can read Pressure, but stops before converting defeat into direction. V2 distinguishes perception from execution: “reading had lost anyway” because the trained response was too slow. It also gives the loss a social yield—“nobody laughed.” The only fault is redundancy: Feryn and Cael both explain the lesson. |
+
+## D. Verdict
+
+Version 2 fulfills the charter substantially better. It wins the central combat gates that Version 1 misses: drawable geography, terrain-generated choreography, concrete stakes, tactical escalation, sustained injury accounting, social rank effects, and defeat metabolized into specific future work. Version 1 has cleaner brevity and a strong consent-and-professionalism opening, but its fight is fundamentally summarized rather than inhabited: terrain is decorative, the climax does not accelerate, and the loss ends before becoming progression. Version 2 still needs a serious line edit—remove metadata, seed or delete the shoulder payload, trim the pre-fight briefing and denouement, and shorten the two climax sentences—but its underlying scene architecture is markedly stronger.
+
+The publishable-scene verdict does not differ: **Version 2 is stronger**. Version 1 would require structural redrafting; Version 2 requires disciplined cutting and repair.
+tokens used
+69,444
+## A. Gate scores
+
+I applied gates that can govern this scene or one of its visible combat functions: 1, 2, 4–6, 9–16, and the scene-level clause of 21. “Partial” means the prose supplies some evidence, but the gate requires unavailable chapter-card, prior-chapter, or next-appearance evidence.
+
+| Gate | V1 | V1 evidence | V2 | V2 evidence |
+|---:|:---:|---|:---:|---|
+| 1. Solution traceability | **FAIL** | “exactly the way Corvane had described it” references, but does not cite, prior teaching. | **FAIL** | “Buildup precedes release” teaches Pressure locally, not in an earlier passage. |
+| 2. Constraint tagging | **PASS** | Pressure requires readable “tension in Feryn’s stance before a release.” | **PASS** | Its hard tell is explicit: “the body cannot borrow force from nothing.” |
+| 4. Promise/payoff closure | **PASS** | “The third exchange was the one that mattered” delivers measurable progress despite defeat. | **PASS** | “Lose slowly enough to learn something” receives both tactical and social payoff. |
+| 5. Foreshadow before reveal | **FAIL** | The touch matters “until hours later,” but its mechanism has no plant. | **FAIL** | The shoulder “did not feel like a bruise”—an unseeded complication. |
+| 6. Thread-type match | **PASS** | The exhibition’s Event thread “ended there, decisively.” | **PASS** | “Match to Feryn…Recorded” closes the contest and changes Cael’s standing. |
+| 9. Drawable geography | **FAIL** | “comfortable middle distance” and “several steps” cannot sustain a sketch. | **PASS** | West/east starts, chalk, wall, southward circling, and final positions remain trackable. |
+| 10. Prose tempo | **FAIL** | Peak phase averages roughly 32 words per sentence; “He moved” is isolated. | **PARTIAL** | “Feryn came forward. No walk this time” contrasts well, but peak syntax lengthens. |
+| 11. Masked-name distinctness | **PASS** | One fighter builds force; the other “kept watching” and adapts defensively. | **PASS** | Downhill economy belongs to Feryn; frame-reading and improvised angles belong to Cael. |
+| 12. Stakes before blow | **FAIL** | “I want it” establishes consent and desire, not a concrete consequence. | **PASS** | “purse to the winner, circuit points recorded” plus Cael’s public reputation. |
+| 13. Injury persistence | **PARTIAL** | “deep, spreading ache along his forearm” is logged; next appearance is unavailable. | **PARTIAL** | “forearm throbbing where it hung in guard” persists here; next appearance remains unavailable. |
+| 14. Tactical escalation | **FAIL** | No previous fight’s tactical problem is supplied for comparison. | **PASS** | Earlier matches “never got tested”; Pressure attacks an explicitly different weakness. |
+| 15. Compression scope | **PARTIAL** | “The second exchange went marginally better” compresses qualitative combat; classification is unavailable. | **PARTIAL** | Full rendering fits major weight, but the card’s classification is not supplied. |
+| 16. Environmental utilization | **FAIL** | “stirred the dust at his feet” is decorative; terrain causes no decision. | **PASS** | Chalk prevents escape; “loose churned dirt” enables the wind-assisted slide. |
+| 21. Rank’s noncombat effect | **PASS** | Bronze status draws the crowd and determines Feryn’s presumed legitimacy. | **PASS** | Rank affects purse, circuit record, spectacle, and “the nod…Bronze did not owe.” |
+
+Not applicable from the submitted material: Gates 3, 8, 19, 20, 25, and 26 are act/arc/book gates; 7 has no 150-word worldbuilding passage; 17 has no actual advancement delta; 18 names tournament rounds and ladder duels, not exhibitions; 22–24 have no boxes, institutional-critique scene, or humor under stakes.
+
+## B. Defects
+
+### Version 1
+
+1. **HIGH — The arena is not drawable.** Positions are reduced to elastic abstractions such as “comfortable middle distance” ([V1:26](/tmp/authorforge/blind/version-1.md:26)) and “knocked him back several steps” ([V1:30](/tmp/authorforge/blind/version-1.md:30)). The circle’s size, edges, exits, crowd, and Cael’s remaining space never constrain a move.
+
+2. **HIGH — Combat is delivered as an analytical recap.** “The second exchange went marginally better” ([V1:30](/tmp/authorforge/blind/version-1.md:30)) and “The third exchange was the one that mattered” ([V1:36](/tmp/authorforge/blind/version-1.md:36)) announce interpretation before dramatizing it. Numbered exchanges make the fight feel like an after-action report.
+
+3. **HIGH — The outcome has no concrete pre-blow stake.** “I want it” ([V1:18](/tmp/authorforge/blind/version-1.md:18)) establishes agency, which is valuable, but not what victory or defeat changes for Cael. Crowd anticipation is atmosphere, not a stake.
+
+4. **HIGH — The climax refuses to accelerate.** “The fourth exchange arrived closer and quicker” ([V1:42](/tmp/authorforge/blind/version-1.md:42)) begins another heavily subordinated sentence instead of making speed felt. The prose tells “faster” while remaining syntactically ponderous.
+
+5. **HIGH — The loss is not metabolized on the page.** It ends at “probably not entirely true” ([V1:44](/tmp/authorforge/blind/version-1.md:44)). Cael has learned to read Pressure, but the scene never identifies what the defeat bought or what deficiency comes next.
+
+6. **MED — The lingering touch is naked authorial withholding.** Cael “wouldn’t understand the significance…until hours later” ([V1:42](/tmp/authorforge/blind/version-1.md:42)). This advertises a future reveal without giving the present reader a rule, hypothesis, or meaningful choice.
+
+7. **MED — Character reactions are repeatedly interpreted rather than enacted.** “the recalibration of someone realizing” ([V1:30](/tmp/authorforge/blind/version-1.md:30)) is the third variation on Feryn reassessing Cael. His pre-fight ethical concern is good; the subsequent explanations dilute it.
+
+8. **LOW — Context-dependent comparisons interrupt the fight.** “the same economy Hesk brought to a load calculation” ([V1:42](/tmp/authorforge/blind/version-1.md:42)) asks the reader to import another character and discipline at the climax.
+
+### Version 2
+
+1. **HIGH — It contains forbidden authoring metadata.** “fresh rendering from card” ([V2:1](/tmp/authorforge/blind/version-2.md:1)) and the orphan terminal heading ([V2:82](/tmp/authorforge/blind/version-2.md:82)) are manuscript contaminants, directly violating Process Law §8.1.4.
+
+2. **HIGH — The shoulder effect remains an unseeded supernatural complication.** “did not feel like a bruise” ([V2:71](/tmp/authorforge/blind/version-2.md:71)) strongly announces an implanted or transferred effect. Nothing previously establishes that Pressure can leave such residue.
+
+3. **MED — The climax still carries oversized sentences.** The first sentence at [V2:45](/tmp/authorforge/blind/version-2.md:45) is 56 words; [V2:51](/tmp/authorforge/blind/version-2.md:51) is 62. The excellent snaps—“And the hand stayed”—cannot fully counteract that load.
+
+4. **MED — The teaching is explained twice.** Feryn supplies “Being right is a place to start” ([V2:67](/tmp/authorforge/blind/version-2.md:67)); Cael then restates the same read-versus-execution gap at [V2:73](/tmp/authorforge/blind/version-2.md:73). Keep one articulation and let the other remain behavioral.
+
+5. **MED — The metaphor rate becomes self-conscious.** “body reported in from a dozen precincts” ([V2:55](/tmp/authorforge/blind/version-2.md:55)), followed by furniture, ledgers, arithmetic, and a coin in a well, makes the prose compete with the injury.
+
+6. **MED — The denouement has too many successive endings.** After “The yard hit him everywhere at once” ([V2:53](/tmp/authorforge/blind/version-2.md:53)), the scene closes through the count, Feryn’s lesson, the suspicious shoulder, Cael’s lesson, Vell’s writing, and the crowd’s respect. Several are strong; together they diffuse each other.
+
+7. **MED — Fairness exposition delays the opening blow.** The Corvane/Lira paragraph beginning “Three weeks of Corvane’s framework” ([V2:11](/tmp/authorforge/blind/version-2.md:11)) packs training history, two prep fights, ability provenance, forty trials, and reliability rules into one pre-fight block.
+
+8. **LOW — The purse wording is logically muddy.** Feryn “had posted” the purse ([V2:5](/tmp/authorforge/blind/version-2.md:5)), yet later walks “to collect his purse” ([V2:69](/tmp/authorforge/blind/version-2.md:69)). Clarify who funded or held it.
+
+9. **LOW — One spatial sentence momentarily blurs otherwise excellent geography.** “nowhere behind him but feet and wall” ([V2:27](/tmp/authorforge/blind/version-2.md:27)) is evocative but physically imprecise.
+
+## C. Craft comparison
+
+| Element | Better version | Why |
+|---|---|---|
+| Geography | **V2, decisively** | V2 establishes west/east starts, the wall, chalk, crowd, and southward movement. More importantly, space causes tactics: with “the chalk at his heels,” Cael must angle, while his first impact creates “loose churned dirt” for the later slide. V1’s dirt only receives bodies and produces dust. |
+| Tempo control | **V2, though it still misses Gate 10** | V2 uses actual register contrast: “They circled” expands into a sustained read, then “Feryn came forward. No walk this time.” The landing gets “And the hand stayed” and “The yard hit him.” V1’s “He moved” is a useful snap, but the fight returns immediately to long retrospective explanation. |
+| Cost-accounting | **V2, decisively** | V1 logs breath loss and forearm ache, then abandons both at the ending. V2 continually carries ribs, breath, forearm, hip, and shoulder forward: “ribs complaining,” “forearm throbbing,” then “none of it sharp, all of it total.” The reader always knows what each partial success costs. |
+| Characterization through combat | **V2 overall** | V1 has the better pre-fight ethical beat—Feryn worries about hurting a fourteen-year-old—but much of the fight characterizes through narrated “reassessment.” V2 makes personality tactical: Feryn is economical, conceals buildup, revises his stance, compresses release, and turns Cael’s best evasion against him. Cael observes, experiments, accepts the count, and extracts a usable deficiency. |
+| The loss’s teaching | **V2, overwhelmingly** | V1 proves Cael can read Pressure, but stops before converting defeat into direction. V2 distinguishes perception from execution: “reading had lost anyway” because the trained response was too slow. It also gives the loss a social yield—“nobody laughed.” The only fault is redundancy: Feryn and Cael both explain the lesson. |
+
+## D. Verdict
+
+Version 2 fulfills the charter substantially better. It wins the central combat gates that Version 1 misses: drawable geography, terrain-generated choreography, concrete stakes, tactical escalation, sustained injury accounting, social rank effects, and defeat metabolized into specific future work. Version 1 has cleaner brevity and a strong consent-and-professionalism opening, but its fight is fundamentally summarized rather than inhabited: terrain is decorative, the climax does not accelerate, and the loss ends before becoming progression. Version 2 still needs a serious line edit—remove metadata, seed or delete the shoulder payload, trim the pre-fight briefing and denouement, and shorten the two climax sentences—but its underlying scene architecture is markedly stronger.
+
+The publishable-scene verdict does not differ: **Version 2 is stronger**. Version 1 would require structural redrafting; Version 2 requires disciplined cutting and repair.
