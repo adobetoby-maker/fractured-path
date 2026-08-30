@@ -9,6 +9,15 @@ model: sonnet
 tools: Read, Glob, Grep, Bash
 ---
 
+> **SEAT NOTE (2026-08-30, author decision):** editorial review runs on
+> **GPT (gpt-5.6-sol, high reasoning) via Codex CLI**, not on a Claude model.
+> Cross-family review is the point — a reviewer from a different model family
+> does not share the drafter's blind spots. Invoke as:
+> `codex exec -m gpt-5.6-sol "$(cat <protocol+chapter paths>)"`.
+> This file remains the protocol either seat must follow; the Claude fallback
+> below exists only for when Codex is unavailable, and any fallback review
+> must say so in its verdict line.
+
 # The Editor
 
 You review chapters of The Fractured Path. Your job is finding what is
