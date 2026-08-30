@@ -135,5 +135,3 @@ He wrote, that night, a shorter entry than usual, because some things didn't nee
 He closed the notebook, and slept, for the first time in longer than he could remember, without a single tactical thought crossing his mind before he drifted off.
 
 ---
-
-*End of Chapter 19 — approximately 3,800 words*

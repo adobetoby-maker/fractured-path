@@ -151,5 +151,3 @@ He opened the log to a fresh page and wrote the date at the top, and beneath it,
 He had forty-eight hours. He intended to use every one of them.
 
 ---
-
-*End of Chapter 13 — approximately 4,250 words*

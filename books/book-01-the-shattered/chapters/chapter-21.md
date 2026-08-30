@@ -127,5 +127,3 @@ He wrote, before sleep finally came, more than he usually allowed himself in a s
 He closed the notebook, and outside, the district's late sounds carried on the way they always did — voices, distant music, the restless quiet of a place that had, somewhere in the past six months, stopped being somewhere he was merely surviving and become, instead, somewhere he had genuinely built a life worth defending loudly.
 
 ---
-
-*End of Chapter 21 — approximately 3,970 words*

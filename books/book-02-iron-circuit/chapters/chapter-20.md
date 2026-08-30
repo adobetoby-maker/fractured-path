@@ -115,5 +115,3 @@ When he finally went to find them, the district had gone mostly quiet around him
 Tomorrow would answer what tonight could only prepare him for. He'd learned, by now, that this was usually enough.
 
 ---
-
-*End of Chapter 20 — approximately 3,400 words*

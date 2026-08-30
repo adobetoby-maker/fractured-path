@@ -139,5 +139,3 @@ Then, exhausted and aching and more satisfied than he'd expected to feel, he wro
 He read it back once, satisfied with its accuracy even though he couldn't yet explain the mechanism underneath it, the way a fighter could sometimes describe exactly what had worked without being able to say precisely why. He closed the notebook, set it on the shelf beside his cot in its usual place next to Hesk's leather-bound one, and let exhaustion finally claim him, the last sound he registered the wheezing man's familiar rhythm settling into the dark, and somewhere beyond the window, faint and distant, the district still murmuring about what it had watched that afternoon.
 
 ---
-
-*End of Chapter 23 — approximately 4,300 words*

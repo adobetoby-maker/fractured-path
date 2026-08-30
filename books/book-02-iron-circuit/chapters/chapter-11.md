@@ -209,5 +209,3 @@ He'd come to Ardenmere with a bag and a direction and nothing beyond that. A yea
 He closed the notebook, set it beside the bed, and slept better than the aching in his legs had any right to let him.
 
 ---
-
-*End of Chapter 11 — approximately 5,450 words*

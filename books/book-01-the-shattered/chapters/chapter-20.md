@@ -151,5 +151,3 @@ He read it back once, twice, the same careful checking he applied to anything he
 He closed the notebook, banked the lamp, and lay in the dark listening to the boarding house's familiar sounds settle around him, the unhurried quiet of a place that had, somewhere in the last several months, become something closer to home than he'd expected any place after Denvash to feel. Whatever waited beyond the edges of Coss's careful warning, he intended to meet it rested, and steady, and exactly where he'd chosen to stand.
 
 ---
-
-*End of Chapter 20 — approximately 3,430 words*

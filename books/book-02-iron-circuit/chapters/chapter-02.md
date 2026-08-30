@@ -143,5 +143,3 @@ He wrote it down that evening, alone, in the observation notebook rather than th
 He starred it, the way he'd starred Hesk's line in his very first notebook, a lifetime and a year ago — and thought, closing the notebook, that Ardenmere kept handing him versions of the same lesson from entirely different directions, as though the district itself had decided he needed to hear it more than once before it would finally stick.
 
 ---
-
-*End of Chapter 2 — approximately 4,900 words*

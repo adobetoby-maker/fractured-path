@@ -141,5 +141,3 @@ He added one line to the day's page before sleep that night, because the two day
 He was, as it turned out, correct about this too.
 
 ---
-
-*End of Chapter 6 — approximately 5,100 words*

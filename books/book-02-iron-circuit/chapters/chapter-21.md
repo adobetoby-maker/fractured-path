@@ -143,5 +143,3 @@ Cael thought about the question honestly, the way he thought about most things t
 Behind them, the crowd was already beginning its long, reluctant dissolution into the ordinary night — the noise thinning by degrees rather than all at once, small clusters peeling off toward the doors while others lingered, unwilling yet to let the evening end. Vell's ledger stayed open at the table, pen still moving, recording a bout she'd remember, Cael suspected, longer than most of the ones that had come before it. Somewhere near the back, notebook closed now, the academy scout hadn't moved from her spot against the wall. She was watching him still, patient, the way someone watched a thing they'd already decided was worth the wait, and Cael, catching the shape of her stillness across the thinning crowd, understood that whatever tonight had actually settled, it hadn't settled that.
 
 ---
-
-*End of Chapter 21 — approximately 6,200 words*

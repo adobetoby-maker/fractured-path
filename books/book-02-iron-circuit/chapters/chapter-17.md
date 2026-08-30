@@ -161,5 +161,3 @@ He thought, more than once in those days, about what Brom had said at dinner —
 There were smaller signs of that reach beyond Ardenmere's own gates, too, if he knew where to look for them. Dace mentioned, in passing, that a courier from another circuit district had asked after the result before the ledger ink had properly dried, the kind of interest that didn't come from idle curiosity. Vell noted, with the same flat register she used for everything, that two names she didn't recognize had asked to see the entry itself, in her own book, rather than simply hear about it secondhand. None of it amounted to much on its own — a courier, a pair of strangers, the ordinary churn of a circuit that had always talked to itself across district lines. But Cael had learned, by now, not to dismiss small signs simply because they arrived alone. He filed each one in the notebook exactly as he'd have filed a fighter's tell, and waited, the way he'd learned to wait, for the pattern underneath them to finish declaring itself.
 
 ---
-
-*End of Chapter 17 — approximately 5,650 words*

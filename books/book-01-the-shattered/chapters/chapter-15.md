@@ -153,5 +153,3 @@ It wasn't confidence, exactly. It was closer to the specific, hard-won steadines
 He slept, eventually, and didn't dream of anything he remembered in the morning, which he'd come to understand, by now, was itself a kind of rest.
 
 ---
-
-*End of Chapter 15 — approximately 4,100 words*

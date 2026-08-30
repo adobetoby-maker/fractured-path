@@ -197,5 +197,3 @@ Two entries in the fragment log. A year in Ardenmere. Eight silver marks earned 
 It would have to be enough, for tonight. He suspected, without quite being able to say why, that it wasn't going to stay this simple for very much longer.
 
 ---
-
-*End of Chapter 1 — approximately 6,600 words*

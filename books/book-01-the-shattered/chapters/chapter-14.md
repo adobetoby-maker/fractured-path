@@ -157,5 +157,3 @@ He went, without quite deciding to, directly to the Cinder House circuit board, 
 Six weeks. He intended to make every one of them count.
 
 ---
-
-*End of Chapter 14 — approximately 4,450 words*

@@ -87,5 +87,3 @@ Read in order, the log told a story he'd never quite let himself see whole: noth
 He closed the log, and set it beside Hesk's leather-bound notebook, the two of them sitting together the way they always eventually did, and let the evening settle into the settled quiet of a decision finally made and no longer requiring anything further from him except the simple, practical work of preparing to leave.
 
 ---
-
-*End of Chapter 23 — approximately 3,050 words*

@@ -157,5 +157,3 @@ He wrote the bout's accounting before he slept, because the habit didn't recogni
 He was asleep within a minute of closing the log, and if he dreamed, the morning kept no record of it.
 
 ---
-
-*End of Chapter 22 — approximately 4,750 words*

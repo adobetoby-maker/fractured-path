@@ -129,5 +129,3 @@ He thought, too, about the detail Coss had offered almost as an afterthought —
 He wrote it into the log that evening, in the private section rather than the tactical one, because it felt like the kind of thing that belonged there: *Coss has a daughter my age. I don't think that changes what he can do for me, officially. I think it changes why he keeps trying anyway. I'm glad I know it. I don't fully know what to do with knowing it yet.*
 
 ---
-
-*End of Chapter 22 — approximately 3,900 words*

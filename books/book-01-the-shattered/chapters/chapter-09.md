@@ -161,5 +161,3 @@ He thought, too, about the quality of Lira's attention since the sparring sessio
 He didn't yet know what being careful would require. He was starting, slowly, to understand that he would need to find out — and that finding out, whatever it cost, was no longer optional. Something in him had already decided that on its own, the same way his body had already decided, in the space of half a second on an ordinary Tuesday, exactly how to move.
 
 ---
-
-*End of Chapter 9 — approximately 4,400 words*

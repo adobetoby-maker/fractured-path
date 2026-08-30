@@ -123,5 +123,3 @@ He thought, before sleep finally took him, about the four names in the historica
 He added one final line before closing the notebook, smaller than the others, the kind of sentence that didn't need elaboration to carry its full weight: *I'm still here. That's not nothing either.*
 
 ---
-
-*End of Chapter 18 — approximately 3,500 words*

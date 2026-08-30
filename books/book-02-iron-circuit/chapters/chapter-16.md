@@ -105,5 +105,3 @@ But he did write, late, after the boarding house had gone quiet, a short entry i
 He closed the log, set it in its place beside the cot, and lay in the dark a while with the day's single old word for company. [UNBOUND]. Somebody, once, had needed a word for a person the categories couldn't hold, and had chosen one that meant *free* instead of one that meant *broken.* He fell asleep before he'd finished deciding what to do with that.
 
 ---
-
-*End of Chapter 16 — approximately 4,100 words*

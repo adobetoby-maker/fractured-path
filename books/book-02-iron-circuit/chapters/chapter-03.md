@@ -205,5 +205,3 @@ He wrote a final entry into the observation notebook before closing it for the d
 He closed the notebook and went to find Lira for the evening meal, the small, unresolved thread sitting quietly in the back of his attention the way most unresolved threads did in him now, waiting for the day he'd finally have reason to pull it.
 
 ---
-
-*End of Chapter 3 — approximately 5,300 words*

@@ -151,7 +151,6 @@ The road continued.
 
 ---
 
-*End of Chapter 24 — approximately 3,500 words*
 
 ---
 

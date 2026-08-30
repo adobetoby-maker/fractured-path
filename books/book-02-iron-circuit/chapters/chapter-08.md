@@ -137,5 +137,3 @@ He wrote that evening, in the observation notebook, the entry brief and, for onc
 He read the last clause back and let it stand, because the honesty in it was the kind he'd built both notebooks to protect. He expected to lose. The inventory said so; the locked door said so; the calm arithmetic he ran on every scheduled fight said so, and he'd never once improved a fight's odds by lying to the page about them. What the arithmetic couldn't price — what he noticed in himself with the detached interest he'd once reserved for other people's anomalies — was that the expected loss changed nothing about the anticipation. Somewhere in a year of Ardenmere, losing to the right opponent had stopped being a cost and become a purchase. Feryn had taught him that. He suspected, closing the notebook and turning down the lamp, that Brom was about to teach him what the next price bracket looked like.
 
 ---
-
-*End of Chapter 8 — approximately 4,300 words*

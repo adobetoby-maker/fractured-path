@@ -161,5 +161,3 @@ Cael closed the Power Log that night with the watcher's signature and Brom's cau
 He set the log beside his cot, the way he did most nights now, and let the district's ordinary evening sounds carry him toward sleep — the same restless, familiar quiet that had stopped feeling unfamiliar a very long time ago.
 
 ---
-
-*End of Chapter 15 — approximately 4,400 words*

@@ -305,5 +305,3 @@ He closed his eyes. He thought, not for the first time, that the worst part was 
 He slept eventually, without dreaming about anything in particular, which was the best outcome he could have reasonably hoped for.
 
 ---
-
-*End of Chapter 1 — 4,485 words (verified via wc -w)*

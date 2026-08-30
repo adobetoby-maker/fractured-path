@@ -141,5 +141,3 @@ He didn't know, walking home that evening, how much further the loose thread he'
 He simply went home, made himself a modest dinner, and slept the untroubled sleep of a man who had done his job correctly, whatever quiet questions the job had left unanswered behind it.
 
 ---
-
-*End of Chapter 7 — approximately 4,550 words*

@@ -183,5 +183,3 @@ He closed the notebook, and lay back on his cot, and thought — not for the fir
 Tomorrow, he would learn what Iron Skin actually felt like from the inside of a sustained exchange, without the distraction of an audience or the pressure of a formal result attached to it. He found, turning the thought over one last time before sleep took the choice away from him, that he was looking forward to it in a way that had very little to do with tactics at all.
 
 ---
-
-*End of Chapter 12 — approximately 4,600 words*

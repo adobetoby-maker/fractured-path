@@ -161,5 +161,3 @@ He closed the log and set it beside the observation notebook, the two of them si
 He thought, lying awake later than he'd meant to, that he still didn't have a name for what he was. He had, at least, gotten much better at keeping honest records of not knowing.
 
 ---
-
-*End of Chapter 4 — approximately 4,500 words*

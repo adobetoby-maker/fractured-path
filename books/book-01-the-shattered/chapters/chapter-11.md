@@ -151,5 +151,3 @@ He added one more line before he let himself stop, smaller than the rest, the ki
 He closed the notebook. He did not sleep easily that night, and for the first time since arriving in Ardenmere, the district's late sounds — voices, distant music, the texture of a place that never fully went quiet — felt less like company and more like the sound of a clock he couldn't see the face of, running somewhere just out of sight, counting down toward an hour he had no way of knowing yet.
 
 ---
-
-*End of Chapter 11 — 4,311 words*

@@ -209,5 +209,3 @@ Cael sat with this for a long moment, the quiet settling of something true findi
 He remembered it. It helped, more than he expected it to, walking back inside with her into the ordinary, accumulated warmth of a life he'd built out of exactly the kind of patient, unglamorous work nobody outside Ardenmere would ever think to ask him about.
 
 ---
-
-*End of Chapter 10 — approximately 4,800 words*

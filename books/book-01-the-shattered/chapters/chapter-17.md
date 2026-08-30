@@ -161,5 +161,3 @@ He tried, gingerly, sore ribs protesting every movement, to summon the new fragm
 He closed the notebook, set it on the shelf beside his cot in its usual spot next to Hesk's leather-bound book, and lay back, cataloguing the pattern of aches settling into his ribs and shoulder — a fair price, he decided, turning the whole night over one final time before sleep finally claimed him, for everything the evening had actually taught him.
 
 ---
-
-*End of Chapter 17 — approximately 3,740 words*

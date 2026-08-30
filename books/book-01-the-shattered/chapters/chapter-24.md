@@ -112,7 +112,6 @@ That, he decided, closing his eyes at last, was enough to build on for one more 
 
 ---
 
-*End of Chapter 24 — approximately 3,850 words*
 
 ---
 

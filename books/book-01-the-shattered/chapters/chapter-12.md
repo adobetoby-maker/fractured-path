@@ -173,5 +173,3 @@ He closed the notebook, blew out the lamp, and lay in the dark listening to the 
 That felt, on balance, like the better way to measure it.
 
 ---
-
-*End of Chapter 12 — approximately 4,410 words*

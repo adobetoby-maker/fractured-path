@@ -187,5 +187,3 @@ It helped. Not completely. But it helped, the way that true things helped more t
 He tied the notebook closed, put it back in the bag, and got up, because Ardenmere was still a day and a half east and the afternoon wasn't going to last forever, and there was, he was beginning to understand, a quiet kind of comfort in simply continuing to walk.
 
 ---
-
-*End of Chapter 4 — approximately 4,460 words*

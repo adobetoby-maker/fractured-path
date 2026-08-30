@@ -177,5 +177,3 @@ He wrote a short entry that night, not in the Power Log, not in the observation 
 He folded the page back into the log, closed it, and slept better than he had in weeks.
 
 ---
-
-*End of Chapter 14 — approximately 4,400 words*

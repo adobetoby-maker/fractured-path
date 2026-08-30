@@ -151,5 +151,3 @@ That night, Cael added a final entry to the private section of the log before tu
 He closed the notebook, and for the first time in longer than he could easily remember, fell asleep without needing to argue himself into it first.
 
 ---
-
-*End of Chapter 16 — approximately 3,900 words*

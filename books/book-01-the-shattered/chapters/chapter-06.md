@@ -169,5 +169,3 @@ He slept better than he had in three nights.
 Tomorrow, he would go to the Cinder House. Tomorrow, he would start finding out what his body already knew.
 
 ---
-
-*End of Chapter 6 — approximately 4,200 words*

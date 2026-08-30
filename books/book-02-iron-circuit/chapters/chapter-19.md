@@ -145,5 +145,3 @@ He read the entry back twice before closing the book, and found, underneath the 
 He'd learned, by now, to be patient with that particular kind of not-knowing. It was, he was beginning to understand, simply the ordinary condition of being whatever he actually was.
 
 ---
-
-*End of Chapter 19 — approximately 4,250 words*

@@ -201,5 +201,3 @@ He wrote it in the observation notebook that night, not as tactical data but as 
 *She wants to become undeniable. I understand that want better than I've let myself admit. I think I want something adjacent to it, though I haven't found the right word for mine yet either. Maybe that's what this whole notebook has actually been — a slow, patient argument against a box someone else drew, built one entry at a time until the box simply stops fitting anymore.*
 
 ---
-
-*End of Chapter 5 — approximately 5,100 words*

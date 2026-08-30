@@ -187,5 +187,3 @@ He thought he did want to. He wasn't entirely sure that wanting to was the same 
 He slept eventually, more easily than he expected to, and dreamed, as far as he could remember in the morning, of nothing in particular — which he decided, turning it over with his tea before the sun was fully up, was itself a kind of answer.
 
 ---
-
-*End of Chapter 7 — approximately 4,480 words*

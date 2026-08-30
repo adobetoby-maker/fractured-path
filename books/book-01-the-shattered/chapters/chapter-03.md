@@ -199,5 +199,3 @@ It was not a comforting thought. It was, however, a useful one, and useful had g
 He slept.
 
 ---
-
-*End of Chapter 3 — approximately 4,400 words*

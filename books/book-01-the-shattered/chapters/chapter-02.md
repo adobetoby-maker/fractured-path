@@ -287,5 +287,3 @@ He thought: what is it learning?
 He fell asleep before he had an answer. He would not have an answer for a long time. But the question had arrived, and that was, he would come to understand, how it started.
 
 ---
-
-*End of Chapter 2 — approximately 4,430 words*

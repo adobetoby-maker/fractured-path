@@ -172,5 +172,3 @@ He closed the log, and sat for a while in the quiet of the boarding house's comm
 Ardenmere had given him more than he'd had any right to expect from a district he'd arrived in with nothing but a bag, a notebook he couldn't yet open, and one direction to walk in. Tonight it had given him a third thing that wasn't a Path, a teacher it had never occurred to him to hope for, and a headache he'd earned honestly. He went to bed early, and slept, and did not dream of doors.
 
 ---
-
-*End of Chapter 13 — approximately 4,900 words*

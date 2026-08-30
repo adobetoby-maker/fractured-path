@@ -161,5 +161,3 @@ He closed the notebook and set it on the small shelf beside his cot, in the same
 For the first time in three weeks, he slept without the particular vigilance he hadn't realized he'd been carrying every night since Denvash — the low, constant hum of being the only person who knew the whole shape of what he was. It wasn't gone. It was, for one night, shared, and that turned out to be enough of a difference to let him rest.
 
 ---
-
-*End of Chapter 10 — approximately 4,320 words*

@@ -171,5 +171,3 @@ He stood there a while longer, turning the thought over, notebook open but nothi
 He came back to it the next morning. He told himself it was to check for new notices. Some part of him already suspected that wasn't the whole reason.
 
 ---
-
-*End of Chapter 5 — approximately 4,300 words*

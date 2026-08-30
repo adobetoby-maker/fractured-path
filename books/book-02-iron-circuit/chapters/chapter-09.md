@@ -149,5 +149,3 @@ He thanked her, and went back to watching, and preparing, and testing the hypoth
 He understood, closing the notebook as the second week ran down, that whatever happened in the circle, the two weeks themselves had already been worth having.
 
 ---
-
-*End of Chapter 9 — approximately 4,700 words*

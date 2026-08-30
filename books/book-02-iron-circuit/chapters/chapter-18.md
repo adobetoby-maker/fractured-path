@@ -177,6 +177,3 @@ The district had its own arithmetic about the fight, and Cael collected it over 
 Cael thought about Reydan's parting words to Dace as he lay awake later that night, turning them over the way he turned over everything that mattered too much to let go of easily. *I'd like it to stay that kind of fight.* A strange thing for a man to say before asking to fight someone he'd never met — not a threat, not quite a courtesy either, but something closer to a standard he was holding both of them to before either of them had earned the right to know if it would hold. Cael didn't yet know what kind of fight it would turn out to be. He knew only that he had two weeks to become the kind of fighter capable of finding out, and that two weeks, starting tomorrow, was no longer a comfortable amount of time to have.
 
 ---
-
-*End of Chapter 18 — approximately 5,100 words*
-

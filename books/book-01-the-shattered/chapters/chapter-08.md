@@ -193,5 +193,3 @@ It was, Cael thought, a strange kind of comfort — the comfort of someone who u
 He let it be true. It took more effort than he expected, and less than he'd feared, and by the time they reached Torvin's front step, the ache in his ribs had settled into something almost companionable — proof, in its own blunt way, that the day had happened, and that he'd walked all the way through it and come out the other side still standing, still curious, still, against every reasonable expectation Denvash had set for him, exactly where he wanted to be.
 
 ---
-
-*End of Chapter 8 — approximately 4,300 words*
