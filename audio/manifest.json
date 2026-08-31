@@ -445,7 +445,7 @@
       "id": "book-02-iron-circuit",
       "title": "Iron Circuit",
       "totalChapters": 24,
-      "renderedChapters": 2,
+      "renderedChapters": 3,
       "chapters": [
         {
           "number": 1,
@@ -479,6 +479,24 @@
               "durationSec": 1837.38,
               "sha256": "e12d45f9c63632b55d30ddc033dbb66388d8453a26da0ad29f1b46b6b2b95c20",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-02.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Vell's Rules",
+          "manuscript": "books/book-02-iron-circuit/chapters/chapter-03.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-02-iron-circuit/chapter-03.mp3",
+              "bytes": 18060896,
+              "durationSec": 2257.54,
+              "sha256": "0a01dabb139fd3e5f09d4a3f4b5136bdc9ae7633615c37d0070424a87420e8ad",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-03.mp3",
               "note": "64 kbps; request-stitched."
             }
           ]
