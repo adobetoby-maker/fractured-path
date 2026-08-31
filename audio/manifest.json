@@ -445,7 +445,7 @@
       "id": "book-02-iron-circuit",
       "title": "Iron Circuit",
       "totalChapters": 24,
-      "renderedChapters": 7,
+      "renderedChapters": 8,
       "chapters": [
         {
           "number": 1,
@@ -569,6 +569,24 @@
               "durationSec": 1797.09,
               "sha256": "0e462fee46b6fde714b095008d0585858d1f55b2994087f62507418a765d8bdc",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-09.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "The Observation Principle",
+          "manuscript": "books/book-02-iron-circuit/chapters/chapter-10.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-02-iron-circuit/chapter-10.mp3",
+              "bytes": 14181608,
+              "durationSec": 1772.63,
+              "sha256": "7edc42469bb55c95e52bb92034856999f1f585da15971c6712bb8c5dcc574f0e",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-10.mp3",
               "note": "64 kbps; request-stitched."
             }
           ]
