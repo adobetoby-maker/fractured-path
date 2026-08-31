@@ -1,0 +1,97 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch23-fight-r1",
+  "scene_id": "b1-ch23-fight",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-01/drafts/ch23-fight.md",
+  "word_count": 7294,
+  "obligations": [
+    {
+      "obligation": "Cael wins the bout in the fourth exchange by forced fall/incapacitation, consistent with Vell's later ledger line",
+      "status": "MET",
+      "evidence": "Fourth exchange: Darrow goes down after the tenth accumulated strike at the crossing ('his legs simply concluded... He tried to rise... and got silence. Not injury. Depletion.'). Vell calls it on-page: 'The bout is called. Cael Hesk-ward. By incapacitation. Fourth exchange... It goes in the book as it happened' — fully compatible with Ch24's ledger record 'Cael Hesk-ward, assessed-Copper, def. Darrow Innes (Bronze R1, Iron Path)'."
+    },
+    {
+      "obligation": "Darrow's established fighting identity: Bronze Rank 1, Iron Path, absorb-and-redistribute resilience, unhurried confidence as psychological weapon, fourth-exchange committed strike",
+      "status": "MET",
+      "evidence": "Vell announces 'Darrow Innes. Bronze, Rank One, Iron Path, eight years professional.' Exchange one dramatizes futility-as-weapon ('It doesn't matter. Nothing you do matters'); Feryn's briefing names it explicitly ('The Iron Path is the floor. The futility is the fight'). Fourth exchange opens with Darrow visibly reorganizing from receiving to sending and committing the 'whole account' to one bout-ending strike."
+    },
+    {
+      "obligation": "Two-week tactical preparation with Lira (precision over power, one compounding location) and Feryn's scouting (resilience-as-psychology) as the visible foundation",
+      "status": "MET",
+      "evidence": "Pre-fight: Feryn's last-time recital of the scouting (his notes, a former Copper-tier fighter's account, a circuit veteran's impressions); Lira's drill litany 'Same place. Every time. No matter what the rest of you is doing.' Execution: exchanges two and three are built on accumulation at the rib-to-hip crossing; the notebook entry credits it: 'Lira's method won this fight.'"
+    },
+    {
+      "obligation": "First combined deployment of Wind-adjacent + Pressure-adjacent in the fourth exchange, unplanned and instinctive, against a strike neither fragment alone could answer",
+      "status": "MET",
+      "evidence": "'What happened next, he did not decide... his body, already reaching along the Wind-adjacent line, reached further... and found the other thing... and took hold of both at once. They arrived together.' The Wind angle is explicitly computed as insufficient beforehand ('The clearance the Wind could buy him was a hand's width. He needed three'). A fraction of Darrow's force is turned back through the strike's origin — his own principle met rather than avoided."
+    },
+    {
+      "obligation": "Real visible physical cost: bone-deep impact, aching ribs, faint unfamiliar vision wobble, week-long bruising — first genuine injury of the book",
+      "status": "MET",
+      "evidence": "'The rest of the strike hit Cael... bone-deep, along his right side... He felt something in his ribs sound like a struck beam... a wobble entered his vision at the edges.' Night scene: 'deep, spreading dark under the skin, rib to hip... a week's tenant at least, his first real injury.' Lira prescribes a week off training."
+    },
+    {
+      "obligation": "Boundary preserved: Cael cannot explain, categorize, or reproduce the combination; scene closes on the exact notebook line",
+      "status": "MET",
+      "evidence": "Notebook scene: 'he tried to write down what had actually happened... and found that he couldn't. Not wouldn't. Couldn't.' Three openings scratched out; no mechanism given anywhere, including the fragment notice ('Concurrent function: recorded' — no explanation). Final line of prose is verbatim: 'They're not separate things I switch between. They're one thing with parts I haven't found all of yet.'"
+    },
+    {
+      "obligation": "Darrow's post-fight reaction: respect, unsettlement, acknowledgment that nobody has ever returned his Iron Path principle, 'What are you?', and Cael's 'I don't fully know yet'",
+      "status": "MET",
+      "evidence": "Darrow rises under his own power, crosses to Cael: 'Nobody ever gave it back... tonight the wall got its own principle handed back up the road it came down... I know every way that isn't possible.' Then the naked question 'What are you?' and Cael's verbatim answer 'I don't fully know yet.' Handshake and professional exit on his own legs."
+    },
+    {
+      "obligation": "Lira's post-fight reaction: recognizes the combined use wasn't the plan, names it as the first time both fragments worked together under real pressure, and shows the fear now that it has nowhere left to go",
+      "status": "MET",
+      "evidence": "'That wasn't the plan,' followed by her naming it plainly: 'until this afternoon I had never once seen them at the same time — because it's never happened. Has it. That was the first time. Both of them. Together.' Then: 'she let the fear arrive... undefended, the whole afternoon's worth... because it finally had nowhere left to go,' plus her stated after/during arrangement."
+    },
+    {
+      "obligation": "Stakes changed per chapter architecture: no change to Compact threat or registry, but Cael becomes a publicly known person a sizeable number of people would notice missing",
+      "status": "MET",
+      "evidence": "Opening frames the arithmetic (three hundred witnesses as the entire argument); closing walk renders it concretely: forty-one greetings counted, his name in strangers' mouths, 'three hundred threads woven made the only armor left.' Explicitly bounded: 'Whether it would hold against what was actually coming... was tomorrow's arithmetic' — no registry or Compact change claimed."
+    },
+    {
+      "obligation": "Vell's officiating cadence bookending the fight: formal announcement of fighters and rules before the first exchange; her call closing the match",
+      "status": "MET",
+      "evidence": "Opening: 'This is a recorded bout. Witnessed, wagered, and entered... The bout continues to submission, incapacitation, or forfeit, and nothing past my call.' Closing: 'The bout is called. Cael Hesk-ward. By incapacitation. Fourth exchange.'"
+    },
+    {
+      "obligation": "Plant: the unexplained combined arrival as a costly anomaly (fragment-mechanism development)",
+      "status": "MET",
+      "evidence": "The combination is never named, never explained, costs a genuine injury, and resists reproduction even in reflection ('drilling for lightning'). The spare fragment notice records concurrence without explanation, reinforcing the anomaly."
+    },
+    {
+      "obligation": "Plant: closing notebook line echoed by Ch24/book ending",
+      "status": "MET",
+      "evidence": "The manuscript's final line is the exact planned sentence, standing alone as the last line of prose."
+    },
+    {
+      "obligation": "Payoffs: Lira's precision drilling (Ch22), Feryn's scouting (Ch22), both fragments' individual establishment (Ch15/Ch17), and the visibility strategy (Ch22)",
+      "status": "MET",
+      "evidence": "Drilling pays off as the winning method (tenth strike at the crossing); scouting shapes exchanges one and two on-page; Wind-adjacent used alone in exchange three (consistent with its Ch17 combat debut), Pressure-adjacent attributed to Feryn ('Feryn's gift'); visibility strategy is the fight's stated purpose from the first scene and its payoff is the closing walk."
+    }
+  ],
+  "inventions": [
+    "The specific rendering of the structural gap in Darrow's resilience: absorbed force routes across, down, and out through his rooted back leg, narrowing at a rib-to-hip 'crossing' on his low left side; accumulation works by keeping the route loaded so redistribution slows (exchange-internal choreography implementing the packet's required 'one structural gap')",
+    "Exchange-by-exchange choreography: exchange one as deliberate measurement-taking against permitted strikes; exchange two as six accumulating strikes at one address; exchange three as Darrow's geometric denial and squeeze including one solo Wind-adjacent evasion; exchange four as the committed strike, combined response, and finishing strike",
+    "Crowd and venue texture: betting drift from eleven-to-one to fifteen-to-one and closing at thirteen, wiped and enlarged betting slates, roughly three hundred standing capacity as Cael's counted estimate, roped-off fighters' preparation corner (dressing on established Cinder House yard, no new venue facts asserted as canon)",
+    "Brief reactions from established unnamed background figures per budget: the baker (closes her stall, third row, presses a loaf on Lira after), the errand boys (running slate-changes, shadowing the walk home), the old man in the yard's corner (one-degree nod)",
+    "Dialogue in established voices: Vell's spare officiating, Lira's coaching litany and after/during 'arrangement', Feryn's showman-then-professional register and his eleven-to-one wager, Darrow's composed professional courtesy ('It's a wall, son... There's no door')",
+    "Sensory cost detail consistent with established injuries: forearm bruise, small facial cut, glass-hinge ribs, liquid ghost at the edge of vision fading through the evening",
+    "A terse combined-use fragment notice in the established notice format ('Concurrent function: recorded. Integration: partial. Tier equivalent: unknown.') — records concurrence only; names, explains, and resolves nothing"
+  ],
+  "state_change_proposals": [
+    "Cael: first genuine injury — right-side rib bruising (rib to hip), roughly one week recovery; faint vision wobble on the fight night, fading by end of scene; no training until Lira clears him",
+    "Cael: publicly established in Ardenmere as a known, named person (circuit and district level); visibility-as-armor strategy achieved its intended effect; no change to Compact threat, registry state, or monitoring",
+    "Fragments: Wind-adjacent and Pressure-adjacent registered as functioning concurrently for the first time (fourth exchange only); not reproducible on command; mechanism unexplained in-world and on-page",
+    "Darrow Innes: defeated by incapacitation (capacity depletion, no lasting injury), departed under his own power; holds genuine respect for and open curiosity about Cael ('When you find out, the circuit will hear it')",
+    "Lira: has explicitly named the combined use as unplanned and unprecedented; intends structured investigation of it once Cael heals",
+    "Vell's ledger: bout recorded — Cael Hesk-ward, by incapacitation, fourth exchange (formal ledger phrasing surfaces in Ch24 per canon)"
+  ],
+  "deviations": [
+    "The chapter architecture stages a third fragment notice ('first combined-use integration') that the scene packet's must_include list omits. I included a minimal notice in the established format that records concurrent function without naming, explaining, or resolving the capability, reading the packet's prohibitions as barring recognition of a NEW capacity rather than barring the system's bare record of the two established fragments co-firing. If the editor reads the prohibition more strictly, the notice block (night scene) can be cut cleanly with no downstream dependency — the notebook close does not rely on it.",
+    "Word count 7294 vs target 7220 (+1.0%), well inside the 20 percent tolerance."
+  ],
+  "blockers": []
+}

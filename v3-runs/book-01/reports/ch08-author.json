@@ -1,0 +1,111 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch08-fight-r1",
+  "scene_id": "b1-ch08-fight",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-01/drafts/ch08-fight.md",
+  "word_count": 4486,
+  "obligations": [
+    {
+      "obligation": "Cael enters unrated, fourteen years old, no Path classification, matched by Vell against Renn (Copper Rank 3, Blade Path), eleven fights this season, eight wins",
+      "status": "MET",
+      "evidence": "Vouching recollection: Vell asks age ('fourteen') and Path ('nothing to register'); Vell states 'Renn's been asking me for work. Blade Path, Copper Rank Three. Eleven fights this season. Eight wins.' Record comes only from Vell, per knowledge boundary."
+    },
+    {
+      "obligation": "Lira vouches for Cael to Vell before the match is set",
+      "status": "MET",
+      "evidence": "Rendered as a compact recalled scene from earlier that afternoon (before the seam's walk to the table): 'I want a bout for him. Unrated. I'll vouch,' with Vell testing what the vouch is worth. The match is set at the end of that exchange ('Him, then')."
+    },
+    {
+      "obligation": "Vell's pre-match terms: match ends only when she calls it; nobody stops it once it starts",
+      "status": "MET",
+      "evidence": "Vell's terms speech at the table: 'The match ends when I call it... Once it starts, nobody stops it short of my word. Not the crowd, not the bookmaker, not you,' with an explicit walk-away-now option Cael declines."
+    },
+    {
+      "obligation": "Renn's Blade Path extension: forearm, compressed light not steel, faster because not fighting metal's weight, ~8 inches more reach than the eye expects",
+      "status": "MET",
+      "evidence": "Delivered twice within the knowledge boundary: recalled from Lira's briefing ('compressed light... faster than a blade because it isn't hauling metal's weight... about eight inches longer than a hand's reach') and observed at ignition ('a straight edge of pale light' that 'looked about a hand's length past the fist' — Cael keeps adding Lira's eight inches)."
+    },
+    {
+      "obligation": "Exchange 1: Cael watches per plan, misreads the weight-shift tell about a quarter second late, takes a glancing hit to the shoulder",
+      "status": "MET",
+      "evidence": "Cael gives ground and only watches; discovers the rear-heel weight-shift tell; 'Cael saw it happen and was a quarter second behind it'; the extension catches 'the meat of his left shoulder' glancingly, leaving the bruise."
+    },
+    {
+      "obligation": "Exchange 2: reads the same tell fractionally faster, avoids a low sweep meant to unbalance not wound, lands nothing of his own",
+      "status": "MET",
+      "evidence": "'This time he moved on the settle itself'; the sweep is explicitly 'not meant to wound at all. Meant to dump an overeager debut on his back'; he hops clear, has an open moment, and 'did nothing with the moment at all.'"
+    },
+    {
+      "obligation": "Exchange 3: three-strike combination built so the third lands even against a correct read of the first two; Cael's body arrives correctly positioned for all three anyway, faster and more precisely than exposure could explain, with no conscious process — the canon-critical anomaly",
+      "status": "MET",
+      "evidence": "The figure's design is shown from outside afterward ('it did not require you to guess wrong. It was built to catch you where guessing right put you'). Strikes two and three are evaded by a step 'his mind had not ordered and did not recognize'; the exchange 'did not reconstruct'; his one explanatory guess ('the watching') immediately fails to cover it ('like a blanket cut short') and is left unconfirmed."
+    },
+    {
+      "obligation": "Exchange 4: Renn's combination outpaces even the improved reading; controlled decisive blow to the ribs ends the match; Cael loses all four exchanges",
+      "status": "MET",
+      "evidence": "'Whatever had lived in his feet during the third exchange did not come back; he groped for it... found nothing'; 'the extension's flat took him across the ribs... a controlled, driving, expert blow.' Cael touches nothing all night; closing line confirms 'beaten in four exchanges.'"
+    },
+    {
+      "obligation": "Vell calls 'Match' to end the bout",
+      "status": "MET",
+      "evidence": "'\"Match,\" Vell called, level as ever, and the word came down over everything like a lid.'"
+    },
+    {
+      "obligation": "Injuries limited to bruised shoulder, bruised ribs, and a forearm scrape he doesn't remember acquiring; nothing broken, nothing worse than next-day soreness expected",
+      "status": "MET",
+      "evidence": "Post-match inventory: ribs ('breathing around them possible, so probably nothing broken'), shoulder 'warming toward tomorrow,' and 'a scrape along his left forearm... that he had no memory whatsoever of acquiring.' No other damage on the page."
+    },
+    {
+      "obligation": "Renn post-match: genuinely impressed, states plainly the survival time is atypical for an unrated debut, asks what Cael's Path is, receives 'I don't have one,' sincerely requests a rematch through Vell in a month",
+      "status": "MET",
+      "evidence": "'You know what an unrated debut usually gives me? One... Nobody gives me four'; 'What's your Path?' / 'I don't have one'; 'Ask Vell to put us down again. A month out... I want the second look' — framed as a sincere booking, 'nothing in it of a champion patting a boy on the head.'"
+    },
+    {
+      "obligation": "Vell privately records the exchange 2-3 pattern flag in her ledger, not shown to Cael",
+      "status": "MET",
+      "evidence": "Staged strictly within Cael's POV as required by the knowledge boundary and prohibited_outcomes: Cael observes the entry running well past the one-to-two lines a result takes, a flat checking look at him, more writing, then 'She closed the ledger. Whatever was in it stayed in it.' Contents are never shown, paraphrased, or learned; Vell's spoken line is limited to 'You lasted longer than the book said you would' / 'It's noted.'"
+    },
+    {
+      "obligation": "Lira's post-match analysis: Cael nearly won the second exchange; she knows the third-exchange figure firsthand from fighting Renn; it is built so the third strike lands even against a correct read of the first two; Cael catching all three is flagged as genuinely unusual without being resolved",
+      "status": "MET",
+      "evidence": "'You almost had him in the second exchange... his hips were square to you for half a beat'; 'I fought Renn in my second month here... I read them both perfectly, and the third one put me in the dirt'; 'tonight I watched it miss... by a hand's width... How?' She flags it and lets it ride unresolved ('That's tonight's answer. I'm noting it was tonight's')."
+    },
+    {
+      "obligation": "Cael's answer when pressed is 'Instinct' — true as far as it goes, deliberately incomplete, and he is not ready to examine it further even privately",
+      "status": "MET",
+      "evidence": "'\"Instinct,\" Cael said. It was true, as far as it went. It simply went about a hand's width less far than the truth.' His unreadiness is explicit: 'he was not ready to do that. It had no measure... every time his mind walked toward it, his mind found somewhere else to be.'"
+    },
+    {
+      "obligation": "Cael frames the loss to himself and to Lira as losing on purpose to learn how Renn moves, not losing because outmatched",
+      "status": "MET",
+      "evidence": "To Lira: 'I wasn't trying to win. I was trying to learn how he moves,' followed by his itemized read of Renn's machine. To himself: 'the shape of it, against all standing of the official result, was profit... Losing on purpose only worked if you collected everything you'd paid for.'"
+    },
+    {
+      "obligation": "Plant: the exchange-3 reading-speed anomaly reads as genuinely strange, isolated, and non-repeatable, unrecognized as a pattern by anyone, with no connection drawn to any ability, Path, or classification",
+      "status": "MET",
+      "evidence": "The anomaly is unnamed and unexplained throughout; it fails to recur on demand in exchange 4; Cael 'could not summon it... could not swear it would ever happen again'; Renn files it as a curiosity, Vell writes an unseen note, Lira flags it and accepts 'Instinct' for the night. No character connects it to anything, and the closing beat leaves it deliberately unsorted ('One item from the evening he did not sort. He filed it instead, whole and unexamined')."
+    }
+  ],
+  "inventions": [
+    "Cinder House yard staging within the allowed terrain budget: registration table as a door across two trestles, the circle worn into a shallow groove, watered packed dirt, lanterns on three walls, a middling crowd of about sixty at a rope.",
+    "Vell's physical presentation (fifties, gray-bound hair, flattened knuckles) and procedural texture (ledger back-pages entry at registration, result-reporting etiquette at the table, 'Result stands as called').",
+    "Exchange-internal choreography per the choreography budget: Renn's two front-foot probes, the rear-heel weight-shift tell, the shoulder-reset habit before he changes plans, the folded-strike construction of the third- and fourth-exchange figures, and the four-second duration of exchange four.",
+    "Renn's pre-rank laborer build ('carried freight before he carried a rank') as characterizing texture, not stated backstory.",
+    "Lira's line that she fought Renn in her second month in Ardenmere ('losing to him is practically how the circuit stamps your papers') — the packet establishes she fought Renn personally; the second-month timing and framing are invented dialogue texture.",
+    "One-line invocation of Hesk's notebook principle ('watch someone who knows what you're doing... your body will learn before your mind does'), quoting the established Ch4 canon text; no new Hesk material.",
+    "Vell's closing exchange with Cael ('You lasted longer than the book said you would' / 'It's noted') as the spoken, content-free surface of her private note."
+  ],
+  "state_change_proposals": [
+    "Cael's injury state entering Ch9: bruised left shoulder (exchange 1), bruised right-side ribs (exchange 4), left forearm scrape of unremembered origin; nothing broken; worse the following day.",
+    "Standing rematch offer: Renn has asked Vell for a return bout at one month, and Vell is 'minded to allow it' with terms to be set at the table when Cael has healed — an open thread available to Ch9-16.",
+    "Vell's ledger now contains a private flagged entry on Cael's exchange 2-3 pattern (contents unknown to Cael and not rendered on the page), consistent with the packet's closing_state and with Ch9's reference to Vell's private notes.",
+    "Lira has explicitly deferred, not dropped, the third-exchange question ('That's tonight's answer. I'm noting it was tonight's') — available pressure for the Ch9 sparring plant."
+  ],
+  "deviations": [
+    "Word count 4486 vs target 4700 (-4.6%), inside the 20 percent tolerance.",
+    "Exchange-3 staging interpretation: the first strike of the figure is evaded via Cael's conscious read (continuous with his exchange-2 improvement), while the escape from strikes two and three — the part the figure is designed to make impossible — carries the no-conscious-process anomaly. This reading reconciles the packet's 'body arrives correctly positioned for all three strikes' with Lira's statement that correctly reading the first two is achievable (she did it herself); the anomalous component is strictly the movement no read can produce. Flagging for editor review in case the intended staging was all three strikes unconscious.",
+    "The obligation that Vell records the specific ledger wording ('reads faster than exposure should produce,' continued-tracking recommendation) cannot be rendered verbatim inside Cael's POV without violating the knowledge boundary and prohibited_outcomes; it is staged observationally (a too-long entry Cael watches her write and never sees), which is the only execution consistent with all three packet clauses simultaneously."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,179 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch17-fight-r1",
+  "scene_id": "b1-ch17-fight",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Authority conflicts: canon, timeline, state, and viewpoint knowledge",
+      "state": "FAIL",
+      "evidence": "The draft preserves Cael's close-third knowledge boundary, the fragment sequence, the four-exchange outcome, and the approved state delta. One authority variance remains: line 109 adds 'forms' to Bronze-evaluation procedure even though the packet reserves evaluation specifics beyond a months-long, panel-assessed process for approval; see finding B1-CH17-FIGHT-E01."
+    },
+    {
+      "gate": "Assigned obligations, plants, payoffs, turn, and prohibited outcomes",
+      "state": "PASS",
+      "evidence": "Lines 9-29 establish informed consent; lines 39-95 deliver exactly four exchanges in order and the correct stoppage; lines 97-159 deliver respect, dinner, and the open invitation; lines 171-203 deliver the exact second notice, contact hypothesis, Kestrel reconsideration, and calibration framing. Cael loses decisively, Feryn remains intact and curious, and no prohibited character knowledge or outcome appears."
+    },
+    {
+      "gate": "Causality and earned resolution",
+      "state": "PASS",
+      "evidence": "The result follows visibly from Feryn escalating after exchange 3, collapsing Cael's reading margin, and redirecting Cael's deliberate evasive momentum (lines 75-85). The Wind step is established as involuntary rather than a convenient command-use (lines 67-71, 81), and the fragment notice follows the deliberately held contact planted in line 85."
+    },
+    {
+      "gate": "Combat 1: Stakes precede the decisive exchange",
+      "state": "PASS",
+      "evidence": "Before combat, Cael states that he wants to test what three weeks bought and accepts what Pressure can do (lines 21-29). Before exchange 4 he explicitly chooses full commitment over protecting his margin because he wants an honest measure against Feryn's real weight (line 77)."
+    },
+    {
+      "gate": "Combat 2: Positions and movement remain legible",
+      "state": "PASS",
+      "evidence": "The eleven-pace dirt circle, marks, footing, and sightlines are established in lines 1-5 and 31. Each exchange tracks Feryn's arc, Cael's guard or evasion, the direction of force, and the resulting position without losing viewpoint distance (lines 39-85)."
+    },
+    {
+      "gate": "Combat 3: Actions respect balance, reach, injury, equipment, and established ability",
+      "state": "PASS",
+      "evidence": "The angled guard converts force into a two-pace skid and forearm injury (lines 51-53); the pressure-triggered step lands Cael balanced but cognitively behind the opening (lines 67-71); the final shoulder grip redirects already-committed momentum into the fall (lines 81-87). Ribs and forearm limitations persist through dinner and note-taking (lines 121, 127, 165)."
+    },
+    {
+      "gate": "Combat 4: Named combatants use distinguishable character-consistent tactics",
+      "state": "PASS",
+      "evidence": "Cael narrows observations, angles rather than absorbs, and treats each exchange as data; Feryn disguises a sustained build, recalibrates aloud, then wins through professional speed and a compact redirect (lines 35-85). Their tactics express Cael's cataloguing method and Feryn's practiced control."
+    },
+    {
+      "gate": "Combat 5: Pivotal decision and consequence are causally legible",
+      "state": "PASS",
+      "evidence": "Cael rejects the safe circling line and closes at full commitment (line 77). Feryn answers by accelerating beyond the usable reading margin, catches the deliberate slip, and turns Cael's momentum into the fight-ending fall (lines 79-91)."
+    },
+    {
+      "gate": "Combat 6: Fight changes a non-damage story state",
+      "state": "PASS",
+      "evidence": "The fight changes Cael's knowledge and capability state through the Pressure-adjacent fragment, changes his relationship with Feryn through earned respect and a standing invitation, and changes his tactical understanding from 'reading works' to 'reading is necessary, not sufficient' (lines 97-159, 167-203)."
+    },
+    {
+      "gate": "Combat 7: Persistent costs are recorded for the next state snapshot",
+      "state": "PASS",
+      "evidence": "The draft carries sore ribs, a deep forearm ache, full-body bruising, and delayed standing through the stoppage, dinner, walk home, and notebook entry while explicitly ruling out breakage (lines 41, 53, 87-91, 121, 127, 163-197)."
+    },
+    {
+      "gate": "Progression 1: Advancement has an intelligible cause and recorded delta",
+      "state": "PASS",
+      "evidence": "The held-contact beat is isolated in exchange 4 (line 85), the exact Pressure-adjacent acquisition notice records the delta (lines 171-177), and Cael compares the event against the prior Wind acquisition before logging Feryn as the probable source (lines 181-195)."
+    },
+    {
+      "gate": "Progression 2: Cost or tradeoff is visible when promised",
+      "state": "PASS",
+      "evidence": "The gain comes through a decisive loss whose costs remain concrete: rib pain and lost breath, forearm injury, general bruising, six seconds of inability to stand, and a professional exposing the limit of Cael's reading margin (lines 41-53, 81-91, 197-203)."
+    },
+    {
+      "gate": "Progression 3: Progress changes something outside the measuring system during the arc",
+      "state": "PASS",
+      "evidence": "Beyond the fragment notice, Cael earns Feryn's respect, an unusual dinner invitation, and an open future connection; he also revises his tactical model of reading under speed (lines 97-159, 167-203)."
+    },
+    {
+      "gate": "Progression 4: Major victories do not depend on an unestablished capability",
+      "state": "PASS",
+      "evidence": "Cael does not win the bout. His meaningful success in exchange 3 uses the already-acquired Wind-adjacent fragment under its established real-pressure trigger, and the draft explicitly shows that it cannot be summoned on demand in exchange 4 (lines 67-71, 81)."
+    },
+    {
+      "gate": "Progression 5: Rivals and institutions do not freeze for the protagonist",
+      "state": "PASS",
+      "evidence": "Feryn begins at tour-weight, recognizes Cael's live read after exchange 2, fully recalibrates after exchange 3, and immediately uses his superior speed and commitment to end the fight (lines 45, 57-59, 73-91). Vell independently enforces the correct stoppage (lines 89-95)."
+    },
+    {
+      "gate": "Progression 6: Repeated challenges differ in tactical, emotional, or social problem",
+      "state": "PASS",
+      "evidence": "The exchanges escalate from an unread release, to a late read and angled guard, to an early read plus involuntary fragment evasion, to a correctly read but unusably compressed margin and momentum redirect (lines 39-85). Each asks a different tactical question."
+    },
+    {
+      "gate": "Progression 7: Setbacks generate changed behavior or understanding",
+      "state": "PASS",
+      "evidence": "Cael accepts Vell's call, identifies that speed defeats a sliver of reading margin, preserves Corvane's framework while changing the training target, and records the loss as calibration rather than repetitive suffering (lines 91-95, 167-169, 197-203)."
+    },
+    {
+      "gate": "LitRPG 1: Every system display has an owner and in-world trigger",
+      "state": "PASS",
+      "evidence": "The only display arrives privately in Cael's awareness after the fight while he reviews and records it (lines 163-181). Its owner is Cael and its in-world trigger is the newly acquired Pressure-adjacent fragment following exchange-4 contact."
+    },
+    {
+      "gate": "LitRPG 2: Values match the approved state snapshot and delta history",
+      "state": "PASS",
+      "evidence": "Lines 175-177 reproduce the required second notice: unnamed, Pressure-adjacent, duration undetermined, integration partial, tier equivalent unknown. This matches the Book 1 state ledger and does not assign Cael a standard rank."
+    },
+    {
+      "gate": "LitRPG 3: Display remains understandable aloud",
+      "state": "PASS",
+      "evidence": "The display uses ordinary spoken labels in a fixed sequence (lines 175-177), and the surrounding narration immediately repeats 'Pressure-adjacent' and interprets its significance without relying on visual alignment (lines 179-187)."
+    },
+    {
+      "gate": "LitRPG 4: Display changes the scene or can be cut",
+      "state": "PASS",
+      "evidence": "The notice triggers Cael's comparison of acquisition pathways, identification of the held contact as the anomalous datum, reopening of the Kestrel experiment, and final reframing of the loss (lines 181-203). It is the scene's closing knowledge and capability turn."
+    },
+    {
+      "gate": "LitRPG 5: Hidden information is withheld consistently",
+      "state": "PASS",
+      "evidence": "During the fight Cael files the held grip as unexplained (line 85). Only after the notice does he hypothesize contact transfer, and he repeatedly marks the idea as uncertain and based on one data point (lines 187-195); the mechanism is neither named nor confirmed."
+    },
+    {
+      "gate": "LitRPG 6: Combinations use established components or approved exception",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fragment combination occurs in this scene. The Wind-adjacent fragment acts alone in exchange 3, and the Pressure-adjacent fragment is only acquired afterward."
+    },
+    {
+      "gate": "LitRPG 7: Rank has non-combat consequences where relevant",
+      "state": "PASS",
+      "evidence": "Rank shapes consent, expectations, professional standing, and post-fight interpretation: Feryn questions whether an assessed-Copper fourteen-year-old should face him, Vell records the formal terms, and Feryn's Bronze experience informs his unusual respect and invitation (lines 9-31, 89-119)."
+    },
+    {
+      "gate": "Character, emotional movement, and voice charter",
+      "state": "PASS",
+      "evidence": "Cael's practical, cataloguing attention governs description, tactics, pain, humor, and reflection throughout. He moves from controlled uncertainty, through live proof and decisive defeat, to calibrated confidence; Feryn and Vell retain distinct priorities and speech strategies."
+    },
+    {
+      "gate": "Audio survival",
+      "state": "PASS",
+      "evidence": "Action, speaker identity, system content, and the [SHATTERED] reveal remain intelligible without typography. The display is narrated in sequence, and no meaning depends solely on italics, layout, or punctuation."
+    },
+    {
+      "gate": "Production hygiene, seam continuity, compression, and repetition",
+      "state": "PASS",
+      "evidence": "The draft is 4,864 words, within the declared 3,728-5,592 range. It enters cleanly from Lira's 'what three weeks bought you' seam, ends exactly at the packet's verified cutoff before the supplied closing paragraph, contains no placeholders, and uses recurring accounting/cataloguing language as controlled viewpoint motif rather than accidental duplication."
+    }
+  ],
+  "findings": [
+    {
+      "id": "B1-CH17-FIGHT-E01",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "authority_invention_budget",
+      "gate": "Authority conflicts: canon, timeline, state, and viewpoint knowledge",
+      "draft_evidence": {
+        "path": "v3-runs/book-01/drafts/ch17-fight.md",
+        "line_start": 109,
+        "line_end": 109,
+        "quote": "I fought in Bronze evaluations for a year. Panels, forms, months of it."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-01/packets/ch17-editor-prompt.md",
+        "line_start": 591,
+        "line_end": 595,
+        "quote": "Any specific detail about what a Bronze-tier evaluation involves beyond the general shape already established in the source chapter (a months-long, panel-assessed process)"
+      },
+      "consequence": "The unapproved reference to evaluation forms adds procedural canon beyond the packet's authorized general shape, constraining later Bronze-evaluation scenes and bypassing the required approval checkpoint.",
+      "repair_target": "Keep Feryn's months-long, panel-assessed experience but remove 'forms' or obtain explicit approval for that added procedural detail.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Line 185's categorical 'So it wasn't the watching' briefly sounds firmer than Cael's evidence allows, although lines 187-195 immediately and repeatedly restore the required speculative framing; monitor the certainty gradient in revision or audio performance."
+  ],
+  "strengths": [
+    "The four exchanges form a clean escalation ladder: unread impact, late read with paid mitigation, early read with involuntary breakthrough, then a correct read defeated by speed and commitment.",
+    "Exchange 3 earns its promised held-breath quality through physical clarity, silence, Vell's stopped pen, and Feryn's immediate professional recalibration.",
+    "The held shoulder contact is planted with exact mechanical excess during the fall and remains meaningless to Cael until the notice supplies a reason to revisit it.",
+    "The loss changes capability, tactical understanding, reputation, and relationship at once, making 'calibration rather than defeat' an earned outcome rather than an appended claim.",
+    "Injuries and fatigue persist through the stoppage, dinner, walk home, and notebook work without exceeding the packet's permitted damage.",
+    "Feryn's consent check, recalibration, careful post-fight conduct, curiosity, and open invitation preserve both his professionalism and his later recurrence value.",
+    "Cael's accounting, cataloguing, and notebook habits unify action comprehension with emotional movement while keeping the close-third voice stable."
+  ]
+}

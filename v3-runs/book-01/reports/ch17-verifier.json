@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch17-fight-r1-verify",
+  "scene_id": "b1-ch17-fight",
+  "editor_run_id": "b1-ch17-fight-r1",
+  "verdict": "CLEAR",
+  "decisions": [
+    {
+      "finding_id": "B1-CH17-FIGHT-E01",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch17-fight.md line 109: 'Panels, forms, months of it' — 'forms' present in draft",
+        "packets/ch17-fight.json invention_budget approval_required: Bronze-evaluation detail beyond 'months-long, panel-assessed'"
+      ],
+      "reason": "One-word unapproved procedural detail. Repair applied by orchestrator per editor repair_target (removed 'forms'); rhythm preserved. Verdict CLEAR post-repair."
+    }
+  ]
+}

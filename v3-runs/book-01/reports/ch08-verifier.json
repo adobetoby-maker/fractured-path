@@ -1,0 +1,45 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch08-fight-r1-verify",
+  "scene_id": "b1-ch08-fight",
+  "editor_run_id": "b1-ch08-fight-r1",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "CH08-ED-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "packets/ch08-fight.json original obligation: ledger contents required but 'not shown to Cael' under Cael close-third — no compliant reader-facing execution exists",
+        "drafts/ch08-fight.md lines 115-117: author staged the only legal execution (entry visibly long, contents unseen) and flagged it in deviations"
+      ],
+      "reason": "Verified as a PACKET defect, not a prose defect. Human decision point exercised by orchestrator: obligation redefined as off-page state (packet amended in place). The draft satisfies the amended packet; no prose change required for this finding."
+    },
+    {
+      "finding_id": "CH08-ED-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "packet must_include: anomaly covers all three strikes 'with no conscious process'",
+        "drafts/ch08-fight.md line 67: strike 1 explicitly 'that much had process behind it' — conscious read"
+      ],
+      "reason": "The canon-critical beat is narrowed. Author repair: restage exchange-3 opening so no strike carries conscious process, preserving inability to attack and the exchange-4 non-recurrence."
+    },
+    {
+      "finding_id": "CH08-ED-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch08-fight.md line 101: 'hauled things for a living before he fought for one' — asserted as fact",
+        "packet knowledge boundary: Cael knows only Lira's pre-match briefing on Renn"
+      ],
+      "reason": "Simile hardened into unapproved biography. Repair: return to comparative/observational phrasing."
+    },
+    {
+      "finding_id": "CH08-ED-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch08-fight.md line 57: 'extension winking out mid-motion' during attack",
+        "packet invention_budget forbidden: new canon facts about Blade Path"
+      ],
+      "reason": "Instant mid-motion dismissal is a tactically meaningful new capability. Repair: choreograph the low sweep without establishing it."
+    }
+  ]
+}

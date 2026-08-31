@@ -1,0 +1,117 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch17-fight-r1",
+  "scene_id": "b1-ch17-fight",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-01/drafts/ch17-fight.md",
+  "word_count": 4864,
+  "obligations": [
+    {
+      "obligation": "Four exchanges in the specified order: (1) unread release folds guard, flat, breath knocked out; (2) read a fraction before release, angled guard, forearm ache; (3) earliest read, Wind-adjacent step surfaces pressure-triggered, clears wave entirely, feels its edge; (4) committed Feryn collapses margin, hand catches shoulder mid-evasion, redirect ends fight, no immediate stand",
+      "status": "MET",
+      "evidence": "Exchange 1: 'the air came down on him like a roof... his guard not so much broken as folded... take his breath out through his teeth. The ground swung up.' Exchange 2: 'A fraction of a second, that was all the reading bought him... a deep ache blooming from wrist to elbow.' Exchange 3: 'there, early, absurdly early, before the shoulder roll... carried him not back from the Pressure wave but around it... He felt the edge of it pass — a hard tug of solid air dragging at his sleeve.' Exchange 4: 'It closed on Cael's shoulder mid-motion, and Feryn simply agreed with him... his weight already committed past recovery... His body answered the stand-up order with a counteroffer: presently.'"
+    },
+    {
+      "obligation": "Feryn's Pressure Path is a building, sustained force with no wind-up or weight-shift tell, disguised by small unrelated movements (shoulder loosening, repositioning half-step) that Corvane's framework did not fully prepare Cael to catch live",
+      "status": "MET",
+      "evidence": "'no rush, no probing jab... shoulders rolling loose... a half-step left that looked like repositioning. His weight never visibly shifted. Nothing wound up.' Corvane's framework rendered as a dirt drawing that 'had seemed almost simple' on dirt; exchange 1 shows it failing live ('while he was still sorting one from the other')."
+    },
+    {
+      "obligation": "Pre-match: Feryn objects to fighting a fourteen-year-old, Vell confirms terms, Cael states plainly he wants the fight, Feryn accepts by taking Cael's consent seriously (not pressured or tricked)",
+      "status": "MET",
+      "evidence": "Feryn: 'No... He's a child.' Vell reads the posted terms from the ledger and says 'The consent question is his, not yours and not mine. Ask him.' Feryn asks whether Cael understands what a Pressure Path does; Cael: 'I want this fight. Nobody talked me into it.' Feryn weighs whether the answer is rehearsed or coerced, then accepts: 'All right... Note that I objected.' / Vell: 'Noted. So is his answer.'"
+    },
+    {
+      "obligation": "Feryn visibly recalibrates: registers aloud after exchange 2 that Cael is reading him; shifts from tour-weight to fully committed after exchange 3",
+      "status": "MET",
+      "evidence": "After exchange 2: 'You read that... Three weeks, and you're actually reading me... Nobody reads the build.' After exchange 3: 'Then he settled... the tour-weight, all of it set aside like a coat, and what stood in its place was a Bronze Rank 2 professional at working weight. Last one, then.'"
+    },
+    {
+      "obligation": "CANON-CRITICAL: exchange-4 redirect uses Cael's own evasive momentum; hand-on-shoulder contact held deliberately longer than the redirect's mechanics require, encoded as a held beat",
+      "status": "MET",
+      "evidence": "'Cael's own evasive momentum accepted, joined, and steered... he had thrown himself.' Held beat encoded precisely: 'the mechanics of the throw complete and paid for, and Feryn's hand stayed on him anyway, one held beat, a full pressed second of contact where a glancing touch would have served.' Cael files it as an unexplained detail only; no in-fight interpretation."
+    },
+    {
+      "obligation": "Vell calls the match before Cael has recovered enough to protest; Cael's narrated assessment affirms the call was correct",
+      "status": "MET",
+      "evidence": "'The match is called' while Cael is still getting an elbow under himself; he assembles the protest and 'the part that did the accounting reviewed it and threw it out... Vell's call was not early. Vell's call was exact.' He says 'Good call' aloud."
+    },
+    {
+      "obligation": "Win-sentence (Feryn): takes away Cael's reading margin by escalating to full speed and commitment, not by out-planning him",
+      "status": "MET",
+      "evidence": "'catching it bought him almost nothing now... his margin collapsing not because the reading failed but because reading was no longer enough.' Notebook: 'He didn't beat the framework. He outran it.'"
+    },
+    {
+      "obligation": "Win-sentence (Cael): proves Corvane's framework works live and earns Feryn's genuine, unguarded curiosity and respect",
+      "status": "MET",
+      "evidence": "Reads the build in exchanges 2, 3, and 4; Feryn confirms aloud ('Nobody reads the build'). Post-fight: 'It was appetite. The pure, unguarded curiosity of a professional'; 'the quiet kind, the kind nobody performs.'"
+    },
+    {
+      "obligation": "Persisting injuries: sore ribs and knocked-out breath (ex 1), deep spreading forearm ache (ex 2), full-body bruising and inability to stand immediately (ex 4); nothing broken",
+      "status": "MET",
+      "evidence": "Ribs 'bright with a deep, ringing soreness'; forearm ache 'promised to spread and stiffen and stay for days'; 'nothing hurt in the specific way that meant broken'; six seconds to stand plus swaying. All three carried into dinner (cup as 'two-stage negotiation', ribs commenting on laughs) and into the night scene ('careful of the ribs', aching writing arm)."
+    },
+    {
+      "obligation": "Post-fight: Feryn extends a hand, pulls Cael up, asks his tier; Cael answers '[SHATTERED]'; Feryn's reaction is unguarded curiosity and quiet respect, explicitly without the fear response Cael expects",
+      "status": "MET",
+      "evidence": "'He put out his hand... pulled him the rest of the way to steady.' 'What tier are you?' / '[SHATTERED]'. Cael watches for his full catalogue of fear responses: 'It was none of them... not fear, not even a well-hidden version of it. It was appetite.'"
+    },
+    {
+      "obligation": "Feryn invites Cael to dinner, established as unusual for Feryn and motivated by genuine interest",
+      "status": "MET",
+      "evidence": "Vell's editorial eyebrows: 'never once feed anybody afterward' in eleven years; Feryn: 'nobody's been interesting.' The invitation follows directly from 'I don't know what I fought.'"
+    },
+    {
+      "obligation": "Over dinner Feryn asks how the third-exchange evasion happened; Cael answers honestly that he doesn't know yet; Feryn accepts without pressing and says he wants to know when Cael figures it out",
+      "status": "MET",
+      "evidence": "'The third exchange... How.' / 'I don't know yet.' Feryn 'decide[s], visibly, not to press' and says 'When you figure it out, I want to know' — 'Not a courtesy. An open account.'"
+    },
+    {
+      "obligation": "That night the second fragment notice arrives (exact system-text block) and Cael connects it for the first time to the held contact in exchange 4 rather than observation, distinct from the Wind fragment's sustained-watching acquisition",
+      "status": "MET",
+      "evidence": "Block rendered verbatim: 'FRAGMENT ACQUIRED / [unnamed] — Pressure-adjacent. Duration: undetermined. Integration: partial. Tier equivalent: unknown.' Cael runs the arithmetic ('one bout on my side against months for Lira's... If watching were the mechanism, the arithmetic refused outright') and lands on the held grip as the thing that 'doesn't fit anywhere else.'"
+    },
+    {
+      "obligation": "Notebook reflection registers a second, different acquisition pathway (contact vs. sustained observation) and raises the inconclusive Kestrel experiment without resolving it; speculation only, no confirmed mechanism",
+      "status": "MET",
+      "evidence": "'if there are two doors and not one — then the Kestrel experiment needs rereading... maybe the whole experiment was standing at the wrong door. I don't know.' Doubt is written into the record explicitly: 'I do not know that the contact did this... That is not the same as knowing.' Open questions listed, none answered."
+    },
+    {
+      "obligation": "Plant: exchange-3 evasion lands as the fight's held-breath, audience-silencing moment",
+      "status": "MET",
+      "evidence": "'The yard went silent. Genuinely silent — forty-one people and the water barrels and nobody breathing... He heard Vell's pen stop.' Feryn's full recalibration flows from it."
+    },
+    {
+      "obligation": "Plant: Feryn leaves intact, impressed, open-ended ('when you figure it out, I want to know') for recurrence in Ch21-24",
+      "status": "MET",
+      "evidence": "Feryn exits uninjured, laughing, respectful; 'You'll be somewhere I can find?' / 'I'm always somewhere' keeps the connection explicitly open. No humiliation, hostility, or closure."
+    },
+    {
+      "obligation": "Payoff: Wind-adjacent fragment (planted Ch9, acquired Ch15) gets its first real deployment under live combat pressure in exchange 3",
+      "status": "MET",
+      "evidence": "The step is written as familiar-but-untrained ('a sureness he had never trained into them, familiar and not his'), pressure-triggered, and explicitly unsummonable — it fails to come when deliberately called in exchange 4, preserving the established constraint."
+    }
+  ],
+  "inventions": [
+    "Crowd texture: ~41 spectators counted by Cael, benches along the east wall, standing clusters by the water barrels, regulars distinguished from spectacle-seekers (within 'crowd size and reaction' budget)",
+    "Circle conditions: raked dirt, watered south arc, eleven paces across, skid marks from exchange 2 (within 'dirt circle conditions' budget)",
+    "Vell's ledger staging: table at the circle's edge, pen at the ready angle, formal entry of the result, leaving the table to make the call (within 'Vell's ledger presence' budget)",
+    "Corvane's framework rendered as a remembered dirt drawing — spiral held against the chest, heartbeat tally, 'everything that moves is the lie' — presented as Cael's memory of instruction, not new Pressure Path canon",
+    "Exchange-internal choreography: shed-angle guard in exchange 2 with two-pace skid; diagonal glide around the wave's line in exchange 3; Cael's deliberate (non-fragment) slip attempt in exchange 4 that the redirect converts (four-exchange skeleton and outcomes unchanged)",
+    "Vell/Feryn exchange establishing the dinner invitation as unprecedented ('eleven years... never once feed anybody afterward'), grounding the 'unusual for Feryn' obligation in a witness's on-page testimony",
+    "Unnamed food-hall two streets from the Cinder House as the dinner venue (no new place name)",
+    "Lira's silent presence at the circle's edge post-fight (single nod, no dialogue), consistent with the seam-before walk and her established role; she does not attend the dinner"
+  ],
+  "state_change_proposals": [
+    "Cael acquires the Pressure-adjacent fragment (source: Feryn, held contact in exchange 4); notice received the same night; integration partial — matches STATE_LEDGER Book 1 row",
+    "Injuries carried forward out of Ch17: sore ribs (ex 1), deep forearm ache in the writing arm (ex 2), full-body bruising from the fall (ex 4); nothing broken",
+    "Relationship: Feryn's standing invitation ('when you figure it out, I want to know') opened; Feryn departs Ardenmere-adjacent circuit life on good terms with Cael — supports his Ch21-24 recurrence",
+    "Cael's notebook now contains the contact-vs-observation two-pathway hypothesis (explicitly unconfirmed) and a re-opened question mark on the Kestrel experiment",
+    "Circuit record: Vell's ledger enters a loss for Cael by incapacity against Feryn, Bronze Rank 2, with Feryn's pre-match objection and Cael's consent both noted"
+  ],
+  "deviations": [
+    "Word count 4864 vs target 4660 (+4.4%), inside the 20% tolerance",
+    "Feryn's dialogue line from the chapter architecture summary ('What tier are you?' / 'How.') is realized as 'What tier are you?' in the circle and 'How.' at dinner rather than both at dinner; the packet's scene_shape places the tier question in the post-fight beat and the evasion question at dinner, and the draft follows the packet, which supersedes the compressed architecture summary"
+  ],
+  "blockers": []
+}

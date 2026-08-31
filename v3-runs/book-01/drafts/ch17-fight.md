@@ -1,39 +1,3 @@
-# Chapter 17 — Bronze
-
-Three weeks compressed into what felt, in memory afterward, like both the longest and the shortest stretch of time Cael had experienced since Weaver's Row.
-
-He trained every morning with Lira, refining the Wind-adjacent step until it had lost most of its clumsiness, though it still arrived more reliably under pressure than by deliberate summons, a distinction he'd stopped trying to fully explain and simply learned to work around. Some mornings the step came clean on the first attempt, crisp and low, and he'd catch Lira nodding once in approval before resetting him for another pass. Other mornings it refused to come at all, no matter how many times he dropped into the stance that should have summoned it, and on those mornings Lira had learned not to push, just to switch the drill to something else and let the frustration burn itself out on a target that couldn't take it personally.
-
-"It's not going to be reliable yet," she told him, after one particularly stubborn morning. "You've had it for weeks. Give it a season before you expect it to behave."
-
-"I don't have a season. I have three weeks and then I have a Bronze-tier opponent."
-
-"Then you'll have what you have when the fight starts, and not a scrap more, and that's true whether you spend the next three weeks anxious about it or not. So don't be anxious about it. Just keep training."
-
-He spent his afternoons rehearsing Corvane's diagram from memory — the tension that preceded a Pressure release, the difference between a fighter loading force and a fighter simply standing still — until he could close his eyes and picture the shape of it clearly enough to believe he might recognize it live, under circumstances considerably less forgiving than a dirt sketch and an unhurried afternoon. He practiced against Lira, who did her best approximation of a sustained, building pressure using her own Wind Path, though both of them understood it was an imperfect substitute — nothing in the district could truly stand in for an actual Bronze-tier professional, and the gap between simulation and reality was itself a kind of risk they simply had to accept.
-
-He fought twice more in the interim, smaller circuit matches that Lira insisted on scheduling specifically to keep his instincts sharp rather than let three weeks of pure preparation calcify into overthinking. He won both, cleanly, with none of the drama of his earlier fights — which felt, he noted in the log, like its own kind of milestone, the unremarkable competence of someone who had stopped needing every win to prove something. One of the two opponents, a Copper Rank 3 he'd beaten in under three exchanges, asked him afterward, with genuine curiosity rather than resentment, whether it was true he had a Bronze-tier match coming. Word, apparently, had already started moving through the district ahead of the fight itself.
-
-The morning of the match, he woke before the alarm he hadn't set, the way he had the morning before his Kindling, and lay still for a moment doing the thing he always did on days that mattered: cataloguing.
-
-Ceiling. The wheezing man nearest the door, still asleep. The grey light of an Ardenmere morning, different from Denvash's in ways he'd stopped consciously noticing months ago and only recovered now, deliberately, because some part of him wanted the full weight of the comparison — how far he'd come, measured not in distance but in the texture of everything around him.
-
-He thought, lying there, about the eleven seconds in the certification office, the word that had arrived and reshaped everything. He thought about the archive entry, four names, three dead within weeks. He thought about how strange it was that both of those memories now felt like they belonged to a different, younger version of himself — not erased, not diminished, just further away than a few months should reasonably have made them feel.
-
-He got up, dressed, and ate a small breakfast he didn't particularly taste, going through the motions of the morning with the mechanical calm he'd learned to summon on days that mattered, saving the actual nervousness for later, when it would have somewhere useful to go. He found Lira waiting for him outside, already dressed for the day, a small canvas bag slung over one shoulder that he recognized as the one she used for carrying anything she thought he might need and hadn't thought to pack himself.
-
-"You didn't sleep well," she said, studying his face with the accuracy she'd developed over months of reading him.
-
-"Well enough."
-
-"That's not an answer, but I'll let it go today." She fell into step beside him as they walked toward the Cinder House, neither of them in any particular hurry, the morning still cool enough to be comfortable. "Whatever happens today, you've already done everything you could with the time you had. I need you to actually believe that before you walk into that circle, not just hear it and nod."
-
-"I believe it. Mostly."
-
-"Mostly's good enough for today." She bumped his shoulder with hers, the small, grounding gesture that had become, over the months, one of the more reliable fixtures of how they navigated difficult mornings together. "Come on. Let's go find out what three weeks bought you."
-
----
-
 The Cinder House yard held more people than Cael had ever seen in it. He counted anyway, out of habit — the benches along the east wall full, three deep standing behind them, a second cluster by the water barrels that kept growing as word moved through the market that the Bronze bout was actually happening. Forty-one people when he stopped counting. The circuit's regulars were easy to pick out because they had claimed the sightlines early and were not talking. The people who had come for a spectacle were the ones making noise.
 
 Vell had set her table at the circle's edge, the ledger open, her pen lying across it at the angle that meant the page was ready and she was waiting on the last signature. She had presided over every bout Cael had fought in this yard and she looked exactly as she always looked: unhurried, unimpressed, and paying attention to everything.
@@ -237,7 +201,3 @@ He turned to a fresh line and paid the last of it in.
 *Loss. Feryn, Bronze Rank 2, Pressure Path, by incapacity, Vell's call. The call was correct. Read him in three exchanges out of four. The framework holds. The step came once, on its own terms, same as always. Earned: the read, the respect of a professional, a standing invitation, and — maybe — a second door I didn't know was there. Paid: bruises and a fall. Three weeks bought more than I thought I was buying.*
 
 *I don't think I've ever felt less like I lost anything.*
-
-He closed the notebook, set it on the shelf beside his cot in its usual spot next to Hesk's leather-bound book, and lay back, cataloguing the pattern of aches settling into his ribs and shoulder — a fair price, he decided, turning the whole night over one final time before sleep finally claimed him, for everything the evening had actually taught him.
-
----

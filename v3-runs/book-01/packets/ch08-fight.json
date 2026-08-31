@@ -1,0 +1,143 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b1-ch08-fight",
+  "project": "the-shattered",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "7f61d625e13e59998250b86fea57e66a208527f9",
+    "canon": "canon-b1-v1",
+    "arc": "arc-b1-v1",
+    "state": "state-b1-pre-ch08-fight",
+    "registry": "registry-v1"
+  },
+  "modules": [
+    "combat",
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense",
+    "knowledge_boundary": [
+      "Cael has no fragments, no Path classification, and no functional Fractured Path ability of any kind at this point in the series -- the first plant toward one is Ch9 and formal acquisition is Ch15; nothing may be anticipated or hinted at here",
+      "Cael does not know what the unexplained reading-speed anomaly in the third exchange is, and neither does the reader; he cannot summon it, cannot reproduce it on request, and cannot explain what happened even to himself",
+      "Cael does not know whether the third-exchange reading will ever recur -- from his perspective it is a single, isolated, unrepeatable event with no established pattern yet",
+      "Cael does not know the contents of Vell's private ledger note; the source text is explicit that she does not share it with him, and he has no access to her observations about his 'atypical' survival time or reading pattern",
+      "Cael knows only what Lira told him in the hour before the match about Renn: Blade Path manifests as a compressed-light extension roughly eight inches longer than a hand's reach, faster than steel because it isn't fighting metal's weight, and the general shape of Blade Path fighters as a category -- nothing about Renn's specific record beyond what Vell states (eleven fights this season, eight wins)",
+      "Cael does not yet know his Arbiter is dark; that discovery is Ch10 and must not be referenced or foreshadowed with specifics here",
+      "Cael does not know Warden Coss, the Compact's Suppression-Advisory Watch, the Level 4 designation, or the Architect's will; all of this is SECRET-tier and unknown to every character at this point in the story",
+      "Cael has already told Lira directly about his [SHATTERED] classification prior to this chapter; it is not a secret between them, but it is not relevant to this scene and must not be re-litigated or explained on the page here"
+    ]
+  },
+  "purpose": "Put Cael through a fight he cannot win against a faster, more experienced Blade Path opponent, so that the loss itself teaches his signature method (losing on purpose to learn, not losing because outmatched) while the third exchange puts the very first on-page trace of an unexplained reading-speed anomaly into the story -- deliberately unnamed and unresolved.",
+  "scene_shape": {
+    "opening_state": "Cael enters the circuit unrated, fourteen years old, with no Path classification to register. Lira has vouched for him to Vell and spent the preceding hour compressing everything she can about Blade Path fighters and Renn specifically into a workable plan: watch the first exchange, don't try to win it, mind the extension's extra reach.",
+    "pov_goal": "Survive the bout and extract as much real information as possible about how Renn actually moves -- explicitly not trying to win, per Lira's plan, using the early exchanges purely to observe rather than to score.",
+    "opposition": "Renn is a Copper Rank 3 Blade Path fighter, twenty years old, eleven fights this season with eight wins, whose extension is compressed light rather than physical steel -- faster than a blade because it isn't fighting the weight of metal, with roughly eight inches more reach than an untrained eye expects. He escalates his seriousness across the bout as Cael proves harder to finish than his rating suggests he should be.",
+    "turn": "In the third exchange, Renn chains a three-strike combination specifically built to punish anyone who reads only the first two strikes. Cael's body arrives correctly positioned for all three strikes anyway -- faster and more precisely than a day and a half of circuit exposure could plausibly account for, with no conscious process he can identify behind it.",
+    "choice": "There is no deliberate choice on Cael's part in the third exchange -- that is the point of the beat. The reading is not summoned, not willed, not something he decides to attempt; it simply happens, the way it will only occur to him much later that small, half-noticed things have already quietly started happening since he arrived in Ardenmere. It cannot be repeated on command and he cannot explain it, including to himself.",
+    "outcome": "The improved reading never translates into offense -- Cael still cannot land a hit on Renn, because reading a strike and stopping it from landing are two different skills, and he has only built the first one so far. In the fourth exchange, Renn closes with a combination that outpaces even the third exchange's reading, landing a controlled, decisive blow to the ribs that ends the match. Cael loses all four exchanges.",
+    "closing_state": "Cael is on the ground, winded, with a bruised shoulder, bruised ribs, and a forearm scrape he doesn't remember acquiring -- nothing broken, nothing that won't be worse tomorrow than it feels right now. Renn is genuinely impressed, notes aloud that Cael's survival time is atypical for an unrated debut, asks what his Path is, gets 'I don't have one,' and asks for a rematch in a month. Vell privately flags the exchange 2-3 reading pattern in her ledger as 'reads faster than exposure should produce,' recommending continued tracking -- a note she does not share with Cael. Walking home, Lira identifies the third exchange as statistically implausible (she knows the combination personally, from having fought Renn herself, and it is built to land the third strike even against a correct read of the first two) but accepts Cael's answer of 'Instinct' for the night without pushing further."
+  },
+  "obligations": {
+    "must_include": [
+      "Cael enters unrated, fourteen years old, no Path classification, matched by Vell against Renn (Copper Rank 3, Blade Path), who has fought eleven times this season and won eight",
+      "Lira vouches for Cael to Vell before the match is set",
+      "Vell's pre-match terms exchange establishes that the match ends only when she calls it, and that nobody is stopping it once it starts short of that",
+      "Renn's Blade Path manifests as an extension along his forearm -- compressed light, not physical steel -- faster than a blade because it isn't fighting the weight of metal, with roughly eight inches more reach than an untrained eye expects",
+      "Exchange 1: Cael watches per Lira's plan rather than trying to win, misreads Renn's weight-shift tell that precedes the true strike by about a quarter second too late, and takes a glancing hit to the shoulder",
+      "Exchange 2: Cael reads the same weight-shift tell fractionally faster than the first exchange and avoids a low sweep meant to unbalance rather than wound him, but still lands nothing of his own",
+      "Exchange 3: Renn chains a three-strike combination designed so the third strike lands even against a correct read of the first two; Cael's body arrives correctly positioned for all three strikes anyway, faster and more precisely than his actual exposure to Renn could explain, with no conscious process behind it -- this is the unexplained reading-speed anomaly and the chapter's canon-critical beat",
+      "Exchange 4: Renn closes with a combination that outpaces even the improved reading and lands a controlled, decisive blow to Cael's ribs that ends the match; Cael loses all four exchanges",
+      "Vell calls 'Match' to end the bout",
+      "Cael's injuries at the end are limited to a bruised shoulder, bruised ribs, and a forearm scrape -- nothing broken, nothing worse expected than soreness by the next day",
+      "Renn, post-match, is genuinely impressed, states plainly that Cael's survival time is atypical for an unrated debut, asks what his Path is, receives 'I don't have one,' and asks Cael to request a rematch through Vell in a month, meaning it sincerely",
+      "Vell privately records in her ledger -- not shown to Cael -- that the exchange 2-3 movement pattern is flagged for observation as reading faster than exposure should produce, with a recommendation for continued tracking [AMENDED per CH08-ED-001 orchestrator ruling: this is an OFF-PAGE state obligation \u2014 satisfied by Vell visibly writing a longer-than-normal private entry whose contents stay unseen; the entry's contents bind the state ledger, not the page. Do not expose the contents to Cael or the reader.]",
+      "Lira's post-match analysis: Cael nearly won the second exchange; the third-exchange combination is one she knows firsthand from having fought Renn herself, built specifically so the third strike lands even against a correct read of the first two -- and Cael caught all three anyway, which she flags as genuinely unusual without resolving it",
+      "Cael's answer to Lira when pressed about the third exchange is 'Instinct' -- true as far as it goes, deliberately incomplete, and he is not ready to examine it further even privately",
+      "Cael frames the loss to himself and to Lira as losing on purpose to learn how Renn moves, not losing because he was simply outmatched"
+    ],
+    "plants": [
+      "The exchange-3 reading-speed anomaly is the first on-page trace of the mechanic that eventually becomes Cael's Wind-adjacent fragment (planted again explicitly in Ch9's sparring scene, formally acquired Ch15); it must read here as genuinely strange, isolated, and non-repeatable, with no suggestion that Cael, Renn, Vell, or Lira recognizes it as part of any pattern, and no connection drawn to any named ability, Path, or classification"
+    ],
+    "payoffs": [],
+    "prohibited_outcomes": [
+      "Cael winning any exchange, or winning or drawing the bout",
+      "Naming, explaining, mechanistically resolving, or categorizing the exchange-3 reading anomaly in any way -- no Path name, no 'fragment,' no theory that reads as more than a guess Cael immediately can't confirm even to himself",
+      "Any suggestion that Cael can summon, control, or intentionally reproduce the exchange-3 reading on request",
+      "Giving Cael any fragment, Path, or Fractured Path ability of any kind -- he has none at this point in the series and must not manifest, name, or hint at possessing one",
+      "Showing, paraphrasing, or having Cael learn the contents of Vell's private ledger note -- the source is explicit that she does not share it with him, and that boundary must hold",
+      "Injuries beyond the original end-state: nothing broken, no injury beyond a bruised shoulder, bruised ribs, and a forearm scrape",
+      "New named characters beyond Cael, Renn, Lira, and Vell",
+      "Disclosing any SECRET-tier or later-series fact (Cael's Arbiter going dark, the Suppression-Advisory Watch, the Architect's will, Warden Coss, or any Book 2+ fragment or character) inside Cael's POV or dialogue"
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Terrain and crowd texture within the already-established Cinder House yard circle -- packed dirt, light, murmur, spectator reactions",
+      "Exchange-internal choreography -- specific footwork, strike angles, and physical staging beyond the exchange-level summary given here",
+      "Dialogue in Cael's, Renn's, Lira's, and Vell's already-established voices, consistent with the beats already blocked in the chapter architecture and the source scene"
+    ],
+    "approval_required": [
+      "Any new named character, official, or crowd figure beyond those already in the registry",
+      "Any new canon fact about Blade Path or the circuit's rules beyond what is specified in this packet",
+      "Any new detail about the nature, origin, or mechanism of the exchange-3 reading anomaly"
+    ],
+    "forbidden": [
+      "New powers, fragments, or Path classifications not listed in obligations.must_include",
+      "Any change to the outcome (Cael winning, an exchange result changing, the bout running a different number of exchanges)",
+      "Resolving, naming, or explaining the exchange-3 anomaly in any way",
+      "Any knowledge outside pov.knowledge_boundary appearing in Cael's perspective or being implied as known to him",
+      "Adding injuries or persisting costs beyond the original end-state described in scene_shape.closing_state"
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "canon rules -- status markers and fragment reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 1 chapter architecture -- Ch8 scene card",
+      "path": "books/book-01-the-shattered/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "state ledger -- Cael's ability state, companion roster, open questions",
+      "path": "universe/STATE_LEDGER.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "name registry -- in-scene names",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "verbatim seam immediately before the fight",
+      "path": "v3-runs/book-01/packets/ch08-seam-before.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "verbatim seam immediately after the fight",
+      "path": "v3-runs/book-01/packets/ch08-seam-after.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-01/drafts/ch08-fight.md",
+    "report_path": "v3-runs/book-01/reports/ch08-author.json",
+    "editor_report_path": "v3-runs/book-01/reports/ch08-editor.json",
+    "verifier_report_path": "v3-runs/book-01/reports/ch08-verifier.json",
+    "target_words": 4700,
+    "tolerance_percent": 20
+  }
+}

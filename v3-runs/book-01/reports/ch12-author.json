@@ -1,0 +1,102 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch12-fight-r1",
+  "scene_id": "b1-ch12-fight",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-01/drafts/ch12-fight.md",
+  "word_count": 3753,
+  "obligations": [
+    {
+      "obligation": "Cael wins the bout in the fourth exchange, by incapacitation — not any other exchange",
+      "status": "MET",
+      "evidence": "Exactly four exchanges are staged; the finish lands in the fourth ('The strike was his... up into the hinge of her jaw') and Vell calls it: 'Bout. Fourth exchange. Incapacitation. Win to the unrated.'"
+    },
+    {
+      "obligation": "Exactly four exchanges with the specified content: probing / irregular-rhythm test producing the back-foot tell at the reset / tell read, transition-window strike, counter-sweep evaded / bout ends",
+      "status": "MET",
+      "evidence": "Exchange one is pure probing against the held guard ('him spending, her banking'); exchange two is the deliberate off-beat rhythm that does not crack her frame, and the tell appears at the reset ('her weight came off her back foot a half-beat early'); exchange three enters the transition window, lands the real strike below her collarbone, and sidesteps the low sweep 'before her level dropped... two feet to the left of that place'; exchange four ends the bout."
+    },
+    {
+      "obligation": "Dessa's Stone Path style as established: patient near-impenetrable head-on defense, faint stone-grey forearm light visible only if looking, stops reacting to repeated feints after the first exchange, low sweeping reclaim-of-ground counter, once-per-bout tired back-foot tell",
+      "status": "MET",
+      "evidence": "All five elements on the page: the frame that 'might as well have been the yard wall'; 'the stone-grey light lying faint along her forearms' that 'you had to look for'; feints priced to zero within exchange one and 'wasted breath' in exchange two; the sweep 'exactly as it had come twice from the benches — low... a long reclaiming arc'; the tell established as once per bout, when tired."
+    },
+    {
+      "obligation": "Cael's two weeks / two watched bouts of notes covering defensive shape, transition-window timing, tell, quiet between-round counting, and never looking at the crowd",
+      "status": "MET",
+      "evidence": "Two bouts from 'the third row of the benches' across two weeks are stated twice; notes on shape, transition timing ('timed from the benches until he could have clapped its rhythm'), the underlined tell line, her counts at every reset (four, six, eight in and out), and 'he had never once seen her look at the crowd' plus the payoff 'true to two weeks of notes, she did not look at the crowd on the way.'"
+    },
+    {
+      "obligation": "Second borrowed-movement instance occurs specifically in the fourth exchange, unplanned and uncommanded, arriving as recognition with no warning, structurally identical in kind to Ch9, and is what puts Cael in position to finish",
+      "status": "MET",
+      "evidence": "'What happened next, he did not decide... There was no thought in it. There was barely a him in it. It arrived the way recognition arrives... and it had arrived exactly once before, on a grey morning in the practice yard weeks ago.' The pivot puts him 'inside her frame, past her forearms, at an angle her structure had never needed to defend,' from which the trained finishing strike lands."
+    },
+    {
+      "obligation": "Cael cannot explain the instance, in the moment or afterward, and it is explicitly distinct from the two-weeks plan that won exchange three",
+      "status": "MET",
+      "evidence": "In-scene: 'a voice he couldn't place.' Afterward: 'He reached for it, the way you reach for a word. There was nothing to reach for.' The log deliberately separates the entries ('he turned to a fresh page, because the next entry did not belong on the same one'), and the Lira dialogue draws the built/not-built distinction explicitly."
+    },
+    {
+      "obligation": "Lira asks what winning felt like underneath the 'data point' framing; Cael volunteers the 'less like something I built and more like something I—' line; Lira supplies 'Borrowed'; Cael accepts only provisionally ('Maybe. I don't know yet.')",
+      "status": "MET",
+      "evidence": "Cael's first answer is 'Like a data point.' Lira: 'And underneath the data point?' Cael's sentence stalls at 'more like something I—'; Lira offers 'Borrowed' 'the way you set a cup down on a table in the dark — a word offered, not a word insisted on'; Cael: 'Maybe. I don't know yet.'"
+    },
+    {
+      "obligation": "Cael promises Lira, unprompted, that she will be the first person told once he knows — before even Hesk",
+      "status": "MET",
+      "evidence": "Final line of the draft: 'But when I know — when I actually understand what it is — you'll be the first person I tell. Before anyone. Before Hesk.' Volunteered, not asked for; positioned so the published seam line 'I'd expect nothing less.' answers it directly."
+    },
+    {
+      "obligation": "Dessa's post-fight beat: clean read explicitly not luck, asks his Path, reframes no-Path as hard to prepare for, declines immediate rematch pending two more weeks against a different problem",
+      "status": "MET",
+      "evidence": "'It wasn't luck. That was the cleanest read anyone has made on me in a year'; 'What's your Path?'; 'That's not a weakness, whatever the registry thinks it is. That's hard to prepare for'; 'Not yet. Two more weeks of whatever it is you do, against a different problem than me... Then we'll talk.'"
+    },
+    {
+      "obligation": "Vell's ledger logs exchange-four incapacitation and separately flags the transition-window exploitation as unusually precise plus the studies-before-he-fights note",
+      "status": "MET",
+      "evidence": "Spoken formal record ('Fourth exchange, by incapacitation. Witnessed and entered.') plus the unspoken second line Cael reads upside down: 'Transition-window exploitation unusually precise... This fighter studies before he fights, past what his time on this circuit accounts for.'"
+    },
+    {
+      "obligation": "Private log that night: earned pride in exchange three kept separate from the fourth-exchange instance; states two instances make a pattern needing a third, without theorizing",
+      "status": "MET",
+      "evidence": "Pride passage ('He had built all three out of nothing but attention... that page was his'), fresh page for the second entry, and the closing log lines: 'Two instances is a pattern. A pattern needs a third before I trust it. Watch. Record. Don't guess.'"
+    },
+    {
+      "obligation": "No injury to Cael beyond ordinary match fatigue and dust; the instance leaves nothing behind mechanically",
+      "status": "MET",
+      "evidence": "Dessa never lands a strike; Cael carries only 'cinder dust on his hands and down one side of his neck' and ordinary shaking; the instance is 'gone without leaving so much as an ache,' and a failed private attempt to find it again ('Tried to find it again tonight... Nothing. Same as last time. It leaves nothing behind.') confirms non-summonability and zero carry-forward."
+    },
+    {
+      "obligation": "PLANT: instance reads as genuinely mysterious with no authorial, imagery, or dialogue suggestion of its connection to Lira's Wind Path; private-log counting line is the Ch15 carrier and is not extended",
+      "status": "MET",
+      "evidence": "No wind/air/current imagery anywhere in the fourth exchange or its aftermath (verified by grep; one incidental mundane 'for air' was rewritten out); the Ch9 memory names Lira only as the person present, never as a source; the log line stops at plain counting."
+    },
+    {
+      "obligation": "PAYOFF: confirms on the page that the Ch9 moment was not a one-off, without resolving what it is",
+      "status": "MET",
+      "evidence": "Fourth-exchange narration ties the sensation to the yard morning and Lira's Ch9 question ('he had told her the truth, which was that he didn't'); the step conversation states 'It's happened twice now... The same thing, whatever it is' — confirmed as a repeat, resolved as nothing."
+    }
+  ],
+  "inventions": [
+    "Cinder House yard staging: twenty-foot chalk ring on packed cinder, stacked benches holding roughly eighty spectators, betting chatter, odds long against Cael but shortening (crowd texture, allowed)",
+    "Exchange-internal choreography beyond the packet's exchange-level summary: probe sequence and feint pricing in exchange one; off-beat entries and the 'cost of a re-forming frame' idea in exchange two; strike seam below the collarbone and the two-foot offline sidestep in exchange three; Dessa's first-ever forward advance as the exchange-four pressure that the instance answers (allowed choreography, consistent with Stone Path defensive mechanics)",
+    "Dessa's breath-counting rendered as specific lengthening counts (four/six/eight in-out) as a fatigue signal — an implementation of her established quiet between-round counting",
+    "Minor unnamed figures: a laughing bettor, a wrong explanation on the benches, a woman with a water skin waved off by Dessa (unnamed spectator reactions, allowed)",
+    "One remembered unnamed prior opponent of Dessa's ('an eager Copper third' she dismantled) used to anchor Cael's note about impatience — unnamed, no registry entry needed",
+    "Character texture: Cael able to read upside down since age nine; Dessa's parting 'Eat something. Winning takes more out of you than losing.'; Lira waiting on Torvin's step exactly as long as a log entry takes",
+    "Vell's procedure of speaking the formal ledger line aloud, with the flag note written but not spoken (consistent with her established presiding role)"
+  ],
+  "state_change_proposals": [
+    "Cael's circuit record advances to 1-4: first win, over Dessa (Copper Rank 5, Stone Path), by exchange-four incapacitation, logged by Vell with a precision flag and a studies-before-he-fights note",
+    "Dessa: professional respect established; open forward hook — she will watch Cael's next bout from the benches and has deferred a rematch by her own choice (~two weeks)",
+    "Cael/Lira relationship: standing promise that Lira is told first — before Hesk — once Cael understands the phenomenon; the word 'Borrowed' now exists between them, provisionally, unconfirmed",
+    "Cael's private log now contains the two-instances-is-a-pattern entry (Ch15 plant carrier)",
+    "Crowd/district: Cael's name is now known at the Cinder House yard; first-win visibility begins"
+  ],
+  "deviations": [
+    "Word count 3752 vs 3900 target (-3.8%, within the 20% tolerance)",
+    "Per verified finding vf-b1-ch12-01, the CHAPTER_ARCHITECTURE.md Ch12 card's 'second exchange' placement and 'Wind-adjacent instinct' naming were deliberately not followed; the packet's fourth-exchange placement and no-naming lock were treated as authoritative",
+    "The ordering places the private-log scene before the Lira step conversation so the draft's final line is the promise the published seam ('I'd expect nothing less.') answers; the packet does not specify intra-night ordering, and the log obligation ('that night') is fully satisfied"
+  ],
+  "blockers": []
+}

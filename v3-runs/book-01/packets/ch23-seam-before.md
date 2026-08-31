@@ -1,0 +1,11 @@
+# Seam — immediately before the fight
+
+Source: the fight (Chapter 23 — "The Bout") opens Chapter 23 itself — Chapter 23 begins at its own line 3 with "The Cinder House yard had never held a crowd like this," directly starting the bout-day scene with no lead-in prose. There is no "before" content inside chapter-23.md to draw from. Per the harness's own precedent (see `ch08-seam-before.md`/`ch08-seam-after.md` in this same directory, where Chapter 8's fight also opened its chapter), the seam-before is instead the closing prose of the preceding chapter.
+
+This is verbatim, from `books/book-01-the-shattered/chapters/chapter-22.md`, lines 127–129 — the final two paragraphs of Chapter 22 ("What Winning Would Actually Change"), immediately preceding that chapter's closing section-break marker on line 131. Chapter 22 covers the two weeks of fight preparation and ends on Coss's second unofficial visit, four days before the bout; these two paragraphs are Cael's private reflection on that visit, written into his log the same night.
+
+---
+
+He thought, too, about the detail Coss had offered almost as an afterthought — a daughter, roughly his own age, entirely unconnected to the case except as the private reason a mid-level field agent kept finding excuses to sit across from a compliance subject he had no further official reason to monitor. It was the kind of detail that didn't change the tactical situation at all, and changed, nonetheless, something in how Cael understood the man delivering it — not an obstacle wearing a Compact badge, but a person, doing an impossible job as decently as the job allowed, worried in a way that had nothing to do with policy and everything to do with the plain, human instinct to protect something young and unprotected when the systems meant to do that job had clearly stopped functioning as designed.
+
+He wrote it into the log that evening, in the private section rather than the tactical one, because it felt like the kind of thing that belonged there: *Coss has a daughter my age. I don't think that changes what he can do for me, officially. I think it changes why he keeps trying anyway. I'm glad I know it. I don't fully know what to do with knowing it yet.*

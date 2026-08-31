@@ -1,0 +1,119 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b1-ch12-fight",
+  "project": "the-shattered",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "02d2fbcac8496974a254746ada284019e7f552b7",
+    "canon": "canon-b1-v1",
+    "arc": "arc-b1-v1",
+    "state": "state-b1-pre-ch12-fight",
+    "registry": "registry-v1"
+  },
+  "modules": ["combat", "progression", "litrpg"],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense",
+    "knowledge_boundary": [
+      "Cael does not know what the recurring unexplained instinct is; this fight is the second instance he has felt (the first was a sparring session with Lira, Ch9), and he cannot summon it, cannot reproduce it on request, and cannot fully explain it even to himself",
+      "Cael does not yet know the instinct is connected to Lira's Wind Path or that he will formally acquire a Wind-adjacent fragment; that identification and acquisition happen in Ch15 and must not be anticipated, named, or foreshadowed with specifics here",
+      "Cael does not know that the Fractured Path can integrate abilities witnessed in others -- this is a SECRET reserved for the Book 3 reveal (CANON_RULES.md reveal schedule); nothing in this scene may state, imply, or gesture toward that mechanism beyond the plain observation that two unexplained instances now exist",
+      "Cael does not know about Warden Coss, the Compact's monitoring sweep, or anything from Ch11/Ch13 onward; none of it may appear or be referenced in this scene",
+      "Cael does not know what his dark, unresponsive Arbiter (Ch10) has to do with any of this, if anything; that thread is not resolved and must not be connected here",
+      "Cael knows Dessa only from two watched bouts plus this fight -- he has no access to her private thoughts, motives, or history beyond what she says or visibly does on the page",
+      "Cael does not yet have a Path declaration, a fragment name, or any formal classification beyond [SHATTERED]; he must not think or speak of himself in terms that presuppose Wind-adjacent, Pressure-adjacent, or any later-acquired vocabulary"
+    ]
+  },
+  "purpose": "Deliver Cael's first circuit win as the emotional pivot of legitimacy -- earned, on the page, through two weeks of patient tactical observation -- while the fourth exchange surfaces a second unexplained instance of the same borrowed-movement phenomenon from Ch9, and Cael, for the first time, lets Lira put a tentative word to it without either of them confirming what it means.",
+  "scene_shape": {
+    "opening_state": "Cael is 0-4 on the circuit, matched by Vell against Dessa -- Copper Rank 5, Stone Path, a patient defensive fighter he has spent two weeks watching from the crowd across two prior bouts. Dessa has just confirmed directly with him that he understands the terms and withdrawn to her side of the circle without further comment.",
+    "pov_goal": "Convert two weeks of mapped observation -- Dessa's near-impenetrable guard, her transition-window timing, and a back-foot weight-shift tell that shows up only once per bout, when she tires -- into a win, without giving her the impatience her style is built to punish.",
+    "opposition": "Dessa's defensive shape holds through direct probing and through a deliberately irregular rhythm in the second exchange; she reads and stops reacting to repeated feints after the first exchange, and she holds a known counter -- a low sweeping reclaim of ground -- that has punished eager follow-ups in both bouts Cael studied.",
+    "turn": "In the third exchange Cael's mapped tell pays off exactly on schedule: he reads the half-beat early weight-shift, moves into the transition window, and lands a real strike, then anticipates and sidesteps Dessa's counter-sweep before her weight has finished shifting into it -- the cleanest tactical execution he has managed on the circuit. In the fourth exchange, something outside that plan moves through him -- unplanned, uncommanded, arriving with the same unplaceable familiarity as the sparring session weeks earlier with Lira -- and it is what puts him in the position to finish the bout.",
+    "choice": "There is no deliberate choice to produce the fourth-exchange movement; it is not summoned any more than it was in Ch9. The real choice in this scene is what Cael does with it afterward: when Lira asks what it felt like beneath the plan, he chooses, unprompted, to say more than he has said before, and to promise her -- before even Hesk -- that she will be the first person told once he understands it.",
+    "outcome": "Cael wins by exchange-four incapacitation, a clean and controlled finish; Dessa concedes without contesting the call. Vell logs the win. Dessa, recovering, offers genuine professional respect rather than resentment, calls his read unusually clean for two weeks' preparation, asks his Path, and -- learning he has none -- reframes that as making him hard to prepare for rather than a weakness. She declines an immediate rematch, wanting to see what another two weeks of his method does against a different problem first.",
+    "closing_state": "Cael has his first win, and for the first time gives partial language to the thing underneath it: not the tactical plan, which he can explain and takes real, earned pride in, but the fourth-exchange instance, which Lira tentatively names 'Borrowed' and Cael only provisionally accepts ('Maybe. I don't know yet.'). In his private log that night he registers it, factually, as the second instance of the same unexplained thing and notes that two instances make a pattern he needs a third to confirm -- without theorizing what the pattern is. The promise to tell Lira first still stands, unresolved, at the end of the scene."
+  },
+  "obligations": {
+    "must_include": [
+      "Cael wins the bout in the fourth exchange, by incapacitation -- not the second, not the third, and not any exchange beyond the fourth",
+      "Exactly four exchanges: exchange one is pure probing against Dessa's near-impenetrable guard; exchange two is an irregular-rhythm test that does not crack her guard but produces her back-foot tell at the reset; exchange three is where Cael reads the tell, moves into the transition window, lands a real strike, and then anticipates and evades Dessa's low sweeping counter-sweep before it fully commits; exchange four ends the bout",
+      "Dessa's Stone Path style as established: patient, near-impenetrable head-on defensive posture with stone-grey light gathering faint along her forearms (visible only if looking for it); she reads and stops reacting to repeated feints after the first exchange; she carries a counter -- a low sweeping reclaim of ground -- that punishes eager follow-ups; her one exploitable tell is her weight coming off her back foot a half-beat early at the reset after an exchange, and it shows up only once per bout, when she is tired",
+      "Cael has watched Dessa from the crowd across exactly two prior bouts over two weeks, and his notes cover her defensive shape, her transition-window timing, her tell, her quiet between-round counting, and her habit of never looking at the crowd",
+      "The second unexplained instance of the borrowed-movement phenomenon (first instance: Ch9 sparring with Lira) occurs specifically in the fourth exchange and is what puts Cael in position to finish the bout; it must read as unplanned and uncommanded -- arriving as recognition rather than decision, with no warning beforehand -- and structurally identical in kind to the Ch9 instance",
+      "Cael cannot explain the fourth-exchange instance, in the moment or afterward, including to himself; it is explicitly distinct from, and additional to, the two-weeks-of-watching plan that won him the third exchange, and that distinction must be legible on the page",
+      "After the win, Lira asks what winning felt like underneath the 'data point' framing Cael offers first; Cael volunteers, unprompted, that something underneath the plan felt less like something he built and more like something he--; Lira supplies the word 'Borrowed'; Cael accepts it only provisionally ('Maybe. I don't know yet.') -- the pattern is named tentatively but not confirmed or explained",
+      "Cael promises Lira, unprompted, that she will be the first person told once he knows what the thing is -- before even Hesk",
+      "Dessa's post-fight beat: she calls his read unusually clean for two weeks of preparation and explicitly not luck; she asks his Path; on learning he has none, she reframes the lack of a declared technique as making him hard to prepare for rather than a weakness; she declines an immediate rematch, wanting to see what two more weeks of his method produce against a different opponent first",
+      "Vell's ledger entry logs the win as exchange-four incapacitation and separately flags the transition-window exploitation as unusually precise, with a note that this fighter studies before he fights more thoroughly than his circuit tenure should allow",
+      "Cael's private log that night records genuine, earned pride in the third exchange as clean tactical work, explicitly kept separate from the fourth-exchange instance, and states plainly that two instances now make a pattern he needs a third to be sure of -- without theorizing what the pattern actually is",
+      "No injury to Cael beyond ordinary match fatigue and dust; the fourth-exchange instance leaves no lingering ability, soreness, or usable capability behind it -- nothing about it carries forward mechanically past this scene"
+    ],
+    "plants": [
+      "The fourth-exchange instance is tracked by the planning layer as the second data point toward the Ch15 Wind-adjacent acquisition and, further out, the Book 3 SECRET reveal that the Fractured Path can integrate witnessed abilities (CANON_RULES.md reveal schedule); it must read here as genuinely mysterious to Cael, with no suggestion -- including through authorial implication, imagery, or dialogue -- that he or anyone else has identified it as connected to Lira's Wind Path",
+      "Cael's private-log line that two instances make a pattern he needs a third to confirm is itself the plant that carries this thread forward into Chapter 15; it must not be extended beyond that plain counting claim"
+    ],
+    "payoffs": [
+      "Partial payoff of the Ch9 sparring plant (Lira: 'How did you know that was coming?' Cael: 'I don't know.') -- this scene confirms, on the page, that the Ch9 moment was not a one-off, without resolving what it is"
+    ],
+    "prohibited_outcomes": [
+      "Cael losing, drawing, or the bout extending to a fifth exchange or ending on any exchange other than the fourth",
+      "Placing the borrowed-movement instance in the second exchange or any exchange other than the fourth -- the CHAPTER_ARCHITECTURE.md Ch12 card's 'second exchange' placement is stale against the published chapter text and must not be followed (see verified_findings)",
+      "Naming, explaining, or mechanistically resolving the fourth-exchange instance in any way -- no Path name, no 'Wind-adjacent' label, no reference to Lira's Wind Path as its source, no theory that reads as more than Cael's own admitted uncertainty",
+      "Disclosing or foreshadowing, beyond what Ch9 already planted and this scene's plain 'two instances is a pattern' observation, that the Fractured Path can integrate witnessed abilities -- that is a SECRET locked to the Book 3 reveal",
+      "Any suggestion that Cael can summon, control, or intentionally repeat the fourth-exchange instance",
+      "Introducing Warden Coss, the Compact sweep, or any Ch11/Ch13-onward material into this scene",
+      "Altering Dessa's established characterization -- patient, unhurried, technically superior in defense, genuinely respectful in defeat -- writing her as petty, cruel, or rattled into a different personality by the loss",
+      "Any injury to Cael beyond ordinary match fatigue and dust; nothing broken, nothing requiring recovery time beyond the scene",
+      "Any romantic reframing of the Cael/Lira dynamic beyond the established casual physical shorthand (the shoulder bump) already used elsewhere in the book"
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Crowd texture, ambient sound, and minor unnamed spectator reactions at the Cinder House yard",
+      "Exchange-internal choreography -- footwork, strike angles, physical staging -- beyond the exchange-level summary given in this packet, consistent with Stone Path defensive mechanics and Cael's established watch-and-map method",
+      "Dialogue in Cael's, Lira's, Dessa's, and Vell's already-established voices, consistent with the beats specified in scene_shape and obligations"
+    ],
+    "approval_required": [
+      "Any new named character, official, or crowd figure beyond those already in the registry",
+      "Any new canon fact about Stone Path, Wind Path, or the borrowed-movement phenomenon beyond what is specified in this packet",
+      "Any new specific description of the stone-grey forearm light beyond 'faint, visible only if looking for it'"
+    ],
+    "forbidden": [
+      "New powers or fragments not listed in obligations.must_include",
+      "Any change to the outcome (Cael losing, a different exchange count, a different winning exchange)",
+      "Naming, explaining, or resolving the fourth-exchange instance",
+      "Any knowledge outside pov.knowledge_boundary appearing in Cael's perspective or implied as known to him",
+      "Introducing Warden Coss or any Compact-sweep material",
+      "Altering Dessa's established characterization or the exchange-four ending condition"
+    ]
+  },
+  "context_files": [
+    {"kind": "canon", "label": "canon rules -- status markers, SECRET reveal schedule (Fractured Path integration, Book 3)", "path": "universe/CANON_RULES.md", "required": true},
+    {"kind": "arc", "label": "Book 1 chapter architecture -- Ch12 scene card (and Ch9 plant for cross-reference)", "path": "books/book-01-the-shattered/CHAPTER_ARCHITECTURE.md", "required": true},
+    {"kind": "state", "label": "state ledger -- Cael's ability state, Dessa's roster entry", "path": "universe/STATE_LEDGER.md", "required": true},
+    {"kind": "registry", "label": "name registry -- Dessa, Vell, Lira, Cael usage", "path": "craft/NAME_REGISTRY.md", "required": true},
+    {"kind": "previous_scene", "label": "verbatim seam immediately before the fight", "path": "v3-runs/book-01/packets/ch12-seam-before.md", "required": true},
+    {"kind": "reference", "label": "verbatim seam immediately after the fight", "path": "v3-runs/book-01/packets/ch12-seam-after.md", "required": true}
+  ],
+  "verified_findings": [
+    {
+      "id": "vf-b1-ch12-01",
+      "severity": "HIGH",
+      "gate": "continuity / canon-drift -- chapter architecture vs. published chapter text",
+      "evidence": "books/book-01-the-shattered/CHAPTER_ARCHITECTURE.md line 200 places the unexplained movement in the 'second exchange' and explicitly calls it 'the Wind-adjacent instinct from their morning sparring (Ch9)' surfacing under real pressure. The published books/book-01-the-shattered/chapters/chapter-12.md instead places it in the fourth exchange (lines 115-121, 161-163) and keeps it deliberately unnamed -- Lira only offers 'Borrowed' (line 119) and Cael declines to confirm ('Maybe. I don't know yet.', line 121).",
+      "consequence": "A cold redraft following the architecture card literally would place the instance in the wrong exchange and would name it 'Wind-adjacent' three books before its Ch15 acquisition and its Book 3 SECRET reveal (CANON_RULES.md line 48: 'The Fractured Path can integrate witnessed abilities | Book 3 | Cael uses Lira's Wind ability in combat without thinking'), producing a continuity break against the already-published chapter and an early SECRET disclosure.",
+      "repair_target": "obligations.must_include and obligations.prohibited_outcomes in this packet lock the instance to the fourth exchange and forbid naming it -- the packet, not the architecture card, is authoritative for this redraft. Recommend a separate housekeeping pass to correct CHAPTER_ARCHITECTURE.md line 200 to match the published chapter."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-01/drafts/ch12-fight.md",
+    "report_path": "v3-runs/book-01/reports/ch12-author.json",
+    "editor_report_path": "v3-runs/book-01/reports/ch12-editor.json",
+    "verifier_report_path": "v3-runs/book-01/reports/ch12-verifier.json",
+    "target_words": 3900,
+    "tolerance_percent": 20
+  }
+}

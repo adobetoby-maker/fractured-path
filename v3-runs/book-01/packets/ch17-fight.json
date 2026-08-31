@@ -1,0 +1,109 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b1-ch17-fight",
+  "project": "the-shattered",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "7f61d625e13e59998250b86fea57e66a208527f9",
+    "canon": "canon-b1-v1",
+    "arc": "arc-b1-v1",
+    "state": "state-b1-pre-ch17-fight",
+    "registry": "registry-v1"
+  },
+  "modules": ["combat", "progression", "litrpg"],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense",
+    "knowledge_boundary": [
+      "Cael does not know, during any of the four exchanges, that Feryn's held contact in exchange 4 is transferring a fragment; the fragment notice does not arrive until that night, after the active fight and dinner are over",
+      "Cael cannot summon the Wind-adjacent step on command; prior testing (established before this scene) already showed it only surfaces under real pressure, not deliberate effort, and this scene must not contradict that by having him summon it at will in any exchange",
+      "Cael has not confirmed what the Pressure-adjacent fragment does, what it feels like from the inside, or whether contact-transfer generalizes beyond this one data point; his post-notice journal reflection in this scene is speculation, not a confirmed mechanism, and must read that way",
+      "Cael does not know anything about Brom, Iron-adjacent or Compression-adjacent fragments, Reydan, Greyvane, or any Book 2+ material -- none of it exists yet from his perspective",
+      "Cael does not know about the Compact's Suppression-Advisory Watch / Level 4 flag on his file, the Architect's will, or Warden Coss's exact Compact rank -- these are SECRET-tier and unknown to every character at this point in the story",
+      "Cael does not know whether or how Feryn will recur in his life beyond this evening; Feryn's 'when you figure it out, I want to know' is an open invitation, not a guarantee either character can rely on"
+    ]
+  },
+  "purpose": "Force Cael through his first live Bronze-tier fight and his first fragment acquisition by contact, so the loss reads as calibration rather than defeat and the contact-vs-observation transfer mechanism is planted precisely -- while Feryn leaves the scene intact, impressed, and open-ended for his recurrence in Ch21-24.",
+  "scene_shape": {
+    "opening_state": "Cael stands in the Cinder House circle facing Feryn, a Bronze Rank 2 Pressure Path professional who initially balks at fighting a fourteen-year-old; Vell confirms the terms on Cael's behalf, and Cael states plainly that he wants the fight. Three weeks of Corvane's Pressure-reading framework and an unreliable, pressure-triggered Wind-adjacent step are the only preparation he has.",
+    "pov_goal": "Read Feryn's Pressure buildup in live combat for the first time, survive long enough to be taken seriously, and find out what three weeks of study and one unproven fragment can actually do against a legitimate Bronze-tier opponent.",
+    "opposition": "Feryn's Pressure Path is a building, sustained application of force rather than a single committed strike, with no telltale weight-shift or visible wind-up; he disguises the buildup tension with small unrelated movements -- a loosening of the shoulders, a half-step that reads as repositioning -- that make the tell harder to catch live than Corvane's dirt-sketch framework prepared Cael for.",
+    "turn": "In the third exchange Cael reads the disguised tell earlier than anything before it, and the Wind-adjacent step surfaces on its own -- pressure-triggered, not deliberately summoned -- carrying him out of the Pressure wave's path entirely and drawing the fight's first real crowd reaction.",
+    "choice": "Cael keeps closing and reading at full commitment into the fourth exchange rather than falling back to protect his margin, matching Feryn's shift from tour-weight testing into fully committed fighting.",
+    "outcome": "Feryn's hand closes on Cael's shoulder mid-motion in the fourth exchange, redirecting Cael's own evasive momentum into a fight-ending fall; the contact is held a fraction of a second longer than the redirect's mechanics require. Vell calls the match before Cael has recovered enough to contest it, and Cael's own assessment affirms the call was correct.",
+    "closing_state": "Cael has lost decisively but earns Feryn's genuine, unguarded respect and a dinner invitation; that night a second fragment notice arrives -- Pressure-adjacent, sourced from the held contact rather than from watching -- and Cael logs the loss as calibration, not defeat, while persisting rib, forearm, and full-body bruising remain unresolved."
+  },
+  "obligations": {
+    "must_include": [
+      "Four exchanges total, in this order: (1) Feryn's Pressure folds Cael's guard on an unread first release, driving him flat and knocking the breath out of him; (2) Cael reads the buildup a fraction of a second before release and angles his guard rather than meeting the wave head-on, staying upright at the cost of a deep, spreading forearm ache; (3) Cael reads the tell earlier than either prior exchange and the Wind-adjacent step surfaces -- pressure-triggered, not summoned -- carrying him out of the wave's path entirely, close enough to feel the edge of it pass; (4) Feryn, now fully committed and faster, collapses the reading margin, and his hand catches Cael's shoulder mid-evasion in a redirect that ends the fight -- Cael driven down hard enough that an immediate stand is not possible",
+      "Feryn's Pressure Path is a building, sustained application of force with no visible wind-up or telltale weight-shift, harder to read than a Blade or Force practitioner's cleaner tells; he disguises the buildup tension with small unrelated movements -- a loosening of the shoulders, a half-step that reads as repositioning -- that Corvane's framework did not fully prepare Cael to catch live",
+      "Before the match, Feryn initially objects to fighting a fourteen-year-old and Vell confirms the terms; Cael states plainly that he wants the fight, and Feryn accepts on that basis -- this must land as Feryn taking Cael's consent seriously, not as Feryn being pressured or tricked into the match",
+      "Feryn visibly recalibrates his effort across the fight: after exchange 2 he registers aloud that Cael is actually reading him, and after exchange 3's evasion he shifts fully from testing/tour-weight into committed fighting",
+      "CANON-CRITICAL: in exchange 4, the redirect uses Cael's own evasive momentum against him, and the hand-on-shoulder contact is held deliberately longer than the redirect's mechanics require -- this held contact IS the fragment-transfer mechanism (transfer through contact, not observation) and must be encoded precisely as a held beat, not a glancing touch",
+      "Vell calls the match before Cael has recovered enough to protest that he could have continued, and Cael's own narrated assessment affirms the call was correct -- this is not a contested or unfair stoppage",
+      "Win-sentence (Feryn's side): Feryn takes away Cael's reading margin by escalating to full speed and commitment once the third exchange proves Cael a real threat, not by out-planning him",
+      "Win-sentence (Cael's side): Cael proves Corvane's Pressure-reading framework works live and earns Feryn's genuine, unguarded curiosity and respect rather than a dismissive or pitying reaction to the loss",
+      "Persisting injuries carried out of the scene: sore ribs and knocked-out breath from exchange 1, a deep spreading forearm ache from exchange 2, and general full-body bruising plus an inability to stand immediately from exchange 4 -- nothing broken, nothing beyond what these four exchanges establish",
+      "Post-fight beat: Feryn extends a hand and pulls Cael up, asks his tier, and Cael answers '[SHATTERED]' -- Feryn's reaction is unguarded curiosity and quiet respect, explicitly without the fear response Cael has learned to expect from others encountering the word for the first time",
+      "Feryn invites Cael to dinner afterward -- established as unusual for Feryn, motivated by genuine interest in what he just fought rather than obligation or pity",
+      "Over dinner, Feryn asks how the third-exchange evasion happened and Cael answers honestly that he doesn't know yet; Feryn accepts the honest non-answer without pressing further and says he wants to know when Cael figures it out",
+      "That night, the second fragment notice arrives (system-text block: FRAGMENT ACQUIRED / [unnamed] -- Pressure-adjacent. Duration: undetermined. Integration: partial. Tier equivalent: unknown.), and Cael connects it, for the first time, to the held contact in exchange 4 rather than to observation alone -- distinct from how the Wind-adjacent fragment was acquired (sustained watching, no contact)",
+      "Cael's private notebook reflection registers this as a second, different acquisition pathway (contact vs. sustained observation) and raises, without resolving, what that might mean for the earlier inconclusive Kestrel experiment -- speculation only, no confirmed mechanism"
+    ],
+    "plants": [
+      "The exchange-3 evasion -- the Wind-adjacent step surfacing under pressure rather than by deliberate summons -- is a series pattern and must land as the fight's held-breath, audience-silencing moment, not a minor beat",
+      "Feryn's open, unresolved 'when you figure it out, I want to know' is a standing invitation that pays off in his recurrence across Ch21-24; he must leave this scene intact, impressed, and open-ended -- not humiliated, not hostile, not narratively closed off"
+    ],
+    "payoffs": [
+      "The Wind-adjacent fragment (planted Ch9 via Lira's sparring patterns, formally acquired Ch15) gets its first real deployment under live combat pressure in exchange 3 of this scene"
+    ],
+    "prohibited_outcomes": [
+      "Cael winning, drawing, or Vell's call being contested, overturned, or written as incorrect",
+      "The fragment transfer being attributed to observation or watching rather than to the held physical contact in exchange 4 -- contact is the mechanism, not proximity or witnessing",
+      "Feryn written as humiliated, hostile, mocking, cruel, or reluctant after the fight -- he must remain professionally respectful, genuinely curious, and open to a future connection",
+      "Explaining, naming, or mechanistically resolving how fragment-transfer-by-contact actually works, beyond Cael's own speculative, unconfirmed journal hypothesis -- no authorial confirmation, no Path-name for the mechanism itself",
+      "Any new named character, place, or Path name beyond those already in craft/NAME_REGISTRY.md's Book 1 entries for this chapter (Cael, Feryn, Vell, Lira, Corvane referenced only)",
+      "Disclosing any SECRET-tier fact (Suppression-Advisory Watch, the Architect's will, Kindling-flag origin) or any Book 2+ material (Brom, Iron-adjacent, Reydan, Compression-adjacent, Greyvane)",
+      "Injuries beyond ribs/knocked-out breath (exchange 1), forearm ache (exchange 2), and full-body bruising/inability to stand immediately (exchange 4) -- nothing broken, no permanent damage"
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Terrain and tactical texture within the Cinder House yard (crowd size and reaction, dirt circle conditions, Vell's ledger presence, ambient detail)",
+      "Exchange-internal choreography -- specific footwork, strike angles, and physical staging beyond the exchange-level summary given here, so long as the four-exchange skeleton and outcome are unchanged",
+      "Dialogue in Cael's, Feryn's, and Vell's already-established voices, consistent with the beats already established in the source chapter (Vell mediating the consent question, Feryn's post-fight questions, the dinner conversation)",
+      "Expanded interior narration consistent with Cael's established cataloguing, notebook-keeping habit of mind, appropriate to this cold re-solve's larger target word count"
+    ],
+    "approval_required": [
+      "Any new named character, official, or crowd figure beyond those already in the registry",
+      "Any new canon fact about Pressure Path mechanics, the Wind-adjacent fragment, or the fragment-transfer mechanism beyond what is specified in this packet",
+      "Any specific detail about what a Bronze-tier evaluation involves beyond the general shape already established in the source chapter (a months-long, panel-assessed process)"
+    ],
+    "forbidden": [
+      "New powers or fragments not listed in obligations.must_include",
+      "Any change to the outcome (Cael winning, the exchange count changing, the redirect/held-contact mechanism changing)",
+      "Explaining or resolving the fragment-transfer mechanism beyond Cael's own unconfirmed speculation",
+      "Any knowledge outside pov.knowledge_boundary appearing in Cael's perspective",
+      "New named characters or place names not already in craft/NAME_REGISTRY.md"
+    ]
+  },
+  "context_files": [
+    {"kind": "canon", "label": "canon rules -- Pressure Path, fragment-transfer mechanics, reveal schedule", "path": "universe/CANON_RULES.md", "required": true},
+    {"kind": "arc", "label": "Book 1 chapter architecture -- Ch17 scene card", "path": "books/book-01-the-shattered/CHAPTER_ARCHITECTURE.md", "required": true},
+    {"kind": "state", "label": "state ledger -- fragment state, companion roster, minor-name cross-check", "path": "universe/STATE_LEDGER.md", "required": true},
+    {"kind": "registry", "label": "name registry -- Book 1 in-scene names and collision flags", "path": "craft/NAME_REGISTRY.md", "required": true},
+    {"kind": "previous_scene", "label": "verbatim seam immediately before the fight", "path": "v3-runs/book-01/packets/ch17-seam-before.md", "required": true},
+    {"kind": "reference", "label": "verbatim seam immediately after the fight", "path": "v3-runs/book-01/packets/ch17-seam-after.md", "required": true}
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-01/drafts/ch17-fight.md",
+    "report_path": "v3-runs/book-01/reports/ch17-author.json",
+    "editor_report_path": "v3-runs/book-01/reports/ch17-editor.json",
+    "verifier_report_path": "v3-runs/book-01/reports/ch17-verifier.json",
+    "target_words": 4660,
+    "tolerance_percent": 20
+  }
+}

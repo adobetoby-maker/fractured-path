@@ -1,0 +1,109 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b1-ch23-fight",
+  "project": "the-shattered",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "02d2fbcac8496974a254746ada284019e7f552b7",
+    "canon": "canon-b1-v1",
+    "arc": "arc-b1-v1",
+    "state": "state-b1-pre-ch23-fight",
+    "registry": "registry-v1"
+  },
+  "modules": ["combat", "progression", "litrpg"],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense",
+    "knowledge_boundary": [
+      "Cael cannot categorize, name, or explain the unrehearsed combined arrival of the Wind-adjacent and Pressure-adjacent fragments in the fourth exchange — it registers only as something his body reached for faster than he could consciously decide, with no prior instance to compare it to and no account, even that same night in his notebook, of how or why it worked.",
+      "Cael does not yet recognize the fourth-exchange combined use as a new or third fragment. It is the first time his two already-acquired fragments (Wind-adjacent, acquired Ch15; Pressure-adjacent, acquired Ch17) have functioned together, and he may feel that it exceeded anything he drilled, but no on-page recognition that this constitutes a new capacity belongs here.",
+      "Cael has no advance knowledge of the full extent of Darrow's Iron Path resilience or technique beyond what two weeks of secondhand scouting (Feryn's notes, a former Copper-tier fighter's account, a circuit veteran's impressions) and Lira's coaching have given him. He is reading Darrow's guard, rhythm, and escalation live, exchange by exchange, with no foreknowledge of the fourth exchange's committed strike before it happens.",
+      "Cael does not know what tonight's win will lead to beyond the fight itself and the immediate crowd reaction — no knowledge of the senior-level flag Coss will later find on his registry file, no knowledge of any stranger who will later watch him in the market, no knowledge of any academy interest. None of that exists in his awareness at this point in the book.",
+      "Cael does not know, in the moment, whether the visibility strategy he built this bout to serve will actually work against the underlying threat from the Compact — only that it is the best option he has after concluding that quiet isn't protecting him."
+    ]
+  },
+  "purpose": "Force Cael to win a publicly staged marquee bout against a genuinely superior, formally rated Bronze-tier Iron Path opponent by reading and exploiting the one structural gap in that opponent's resilience, surfacing as the fight's decisive turn an unplanned, costly, and still-unexplained first combined deployment of his two established fragments, and securing through the win the public visibility his whole strategy was built to generate.",
+  "scene_shape": {
+    "opening_state": "Cael arrives early at the packed Cinder House yard for the marquee bout he deliberately engineered, Lira steady beside him after two weeks of focused preparation, the crowd's betting running heavily against a fourteen-year-old assessed-Copper facing a genuine Bronze-tier professional with a real outside reputation.",
+    "pov_goal": "Win by finding and exploiting the one gap in Darrow's Iron Path resilience through patient, precise, accumulating strikes rather than raw force — the method his whole approach was already built for — without needing to reveal more of his fragments than the fight forces him to.",
+    "opposition": "Darrow Innes, Bronze Rank 1, Iron Path: dense, absorb-and-redistribute physical resilience that makes straightforward damage a losing strategy, an unhurried professional confidence that itself functions as a psychological weapon, and an escalating fourth-exchange press that abandons the earlier restraint for a fully committed strike meant to end the bout outright.",
+    "turn": "In the fourth exchange, facing that committed strike with perfect clarity and no time to out-think it, the Wind-adjacent evasion alone is not enough to fully clear it — and in the same half-second his body reaches further, unbidden, for the Pressure-adjacent absorption as well, the two fragments arriving together for the first time and turning a portion of Darrow's own generated force back through the strike's origin, the same principle Darrow's own Iron Path relies on, met rather than avoided for the first time in his career.",
+    "choice": "Cael commits to the combined response rather than fighting free of it or letting the moment cost him the win, absorbing the genuine bone-deep impact it still doesn't fully cancel, and uses Darrow's half-second of disorientation to close the distance and land the single precise strike at the one structural gap two weeks of patient study identified.",
+    "outcome": "Darrow goes down — not dramatically, but decisively, the stillness of a body that has run out of capacity to keep absorbing — and Vell calls the match. Cael is genuinely hurt for the first time in the book: ribs aching, vision faintly wobbling, bruising he'll carry for a week, but he stands.",
+    "closing_state": "Cael leaves the circle publicly and decisively established in Ardenmere exactly the way his strategy demanded, Darrow's respect and unsettled 'what are you' met with an honest 'I don't fully know yet,' Lira naming plainly that the combined use wasn't in the plan, and Cael that night committing to his notebook a line that admits, without resolving, that he still doesn't understand the mechanism underneath what his body just did."
+  },
+  "obligations": {
+    "must_include": [
+      "Cael wins the bout in the fourth exchange by forced fall/incapacitation; Vell's ledger later records it exactly as: 'Cael Hesk-ward, assessed-Copper, def. Darrow Innes (Bronze R1, Iron Path)'",
+      "Darrow Innes's established fighting identity: Bronze Rank 1, Iron Path, dense absorb-and-redistribute physical resilience that makes straightforward damage ineffective, an unhurried professional confidence that functions as its own psychological weapon, and a shift in the fourth exchange into a fully committed strike meant to end the bout outright",
+      "Cael's two-week tactical preparation with Lira (precision over power, accumulating damage at one compounding location rather than seeking a single knockout) and Feryn's scouting of Darrow's resilience-as-psychology as the visible foundation the fight tests and confirms",
+      "The first combined deployment of the Wind-adjacent fragment (evasive angle) and the Pressure-adjacent fragment (force absorption/redirect) together, occurring in the fourth exchange against a strike Cael can see coming but cannot fully evade with either fragment alone: it must read as unplanned and instinctive, his body reaching for it faster than conscious choice, not a decision made in advance",
+      "A real, visible physical cost from the combined use: a genuine bone-deep impact that still lands despite the redirect, an ache along Cael's ribs, a faint unfamiliar wobble in his vision, and bruising he will carry for a week — his first genuine injury in the book",
+      "The boundary of what Cael still cannot do: he cannot explain, categorize, or reproduce the combination on command; the scene must close on his own notebook line admitting the mechanism is still unresolved: 'They're not separate things I switch between. They're one thing with parts I haven't found all of yet.'",
+      "Darrow's post-fight reaction: composure replaced by genuine respect and unsettlement, explicit acknowledgment that nobody has ever met his Iron Path resilience with its own principle turned back on him, the question 'What are you?', and Cael's honest, insufficient answer, 'I don't fully know yet'",
+      "Lira's post-fight reaction: immediately recognizing the combined use wasn't in the plan, naming it explicitly as the first time he's used both fragments together under real pressure, and the genuine fear she allows herself to show now that it has nowhere left to go",
+      "The stakes the win changes, matching the chapter architecture exactly: no change to the underlying Compact threat or registry flag, but Cael becomes a publicly known person in Ardenmere that a specific, sizeable number of people would notice missing — the friction his visibility strategy was built to generate",
+      "Vell's officiating cadence bookending the fight: her formal announcement of both fighters and the rules before the first exchange, and her call of the match closing it"
+    ],
+    "plants": [
+      "The unexplained, uncategorized combined arrival of the two fragments in the fourth exchange — this is the plant for later fragment-mechanism development; it must read as a genuine, costly anomaly, not a mastered technique",
+      "Cael's closing notebook line, 'They're not separate things I switch between. They're one thing with parts I haven't found all of yet' — plants the thematic beat the book's ending (Ch24) echoes"
+    ],
+    "payoffs": [
+      "Payoff of Lira's two weeks of precision-over-power drilling against Iron Path resilience (Ch22): this is the fight that proves the method",
+      "Payoff of Feryn's tactical scouting of Darrow's resilience-as-psychological-weapon pattern (Ch22): the read that shapes Cael's approach to the early exchanges",
+      "Payoff of the Wind-adjacent fragment (planted Ch9, acquired Ch15) and the Pressure-adjacent fragment (acquired Ch17), both already individually established before this scene, now used together for the first time",
+      "Payoff of Cael's deliberate visibility strategy (the reasoning he laid out to Lira and to Coss in Ch22): a decisive public win is the entire point of the marquee bout, not merely a fight to be won"
+    ],
+    "prohibited_outcomes": [
+      "Cael losing, being incapacitated, forfeiting, or the bout ending on any exchange other than the fourth",
+      "Naming, explaining, or mechanically resolving the combined-use capability as a new, third, or fourth fragment in any way — no on-page recognition that it is a distinct new capacity, no label for it, no explanation of how it works",
+      "Expanding the combined use beyond its established boundary: no repeatable or on-demand version, no use of the combination anywhere in the scene outside the fourth exchange, no indication Cael can reproduce it at will",
+      "Any injury or physical end-state for Cael beyond what is already established: no permanent damage, no injuries beyond rib/bruising-level impact and disorientation, no loss of consciousness",
+      "Darrow losing consciousness, sustaining serious or permanent injury, or leaving the circle under anything but his own power",
+      "Any killing blow or violation of the circuit's rules (to submission, incapacitation, or forfeit only)",
+      "New named characters introduced into the bout itself or its immediate same-scene aftermath",
+      "Disclosing any material that belongs to Chapter 24 or later: the senior-level registry flag Coss eventually finds, the unnamed stranger who later watches Cael in the market, or any academy interest — none of this exists in the story yet"
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Crowd and venue texture consistent with the Cinder House yard packed beyond capacity: torchlight-equivalent daylight detail, betting murmur, specific unnamed spectator reactions, and brief reactions from already-established background figures (Feryn, the baker, the errand boys, the old man from the yard's corner)",
+      "Exchange-internal choreography: footwork, specific strike placement, breath, and physical sensation consistent with the established sequence of four exchanges and Cael's precision-accumulation method",
+      "Background dialogue in established voices: Vell's officiating cadence, Lira's coaching register, Feryn's showmanship, Darrow's professional composure",
+      "Sensory and physical detail of accumulating fatigue, adrenaline, and pain consistent with the injuries already established (ribs, bruising, disorientation)"
+    ],
+    "approval_required": [
+      "New named characters of any kind, including additional named spectators",
+      "New facts about Darrow's technique, background, or history beyond what canon and the state ledger establish (Bronze Rank 1, Iron Path, eight years of professional fighting)",
+      "New facts about the Cinder House venue, the circuit's rules, or Vell's officiating beyond what is already established"
+    ],
+    "forbidden": [
+      "New powers or fragments beyond the two already established for Cael (Wind-adjacent, Pressure-adjacent)",
+      "Any change to the fight's outcome or method of victory",
+      "Naming, explaining, or resolving the combined-use capability as a new or additional fragment",
+      "Giving Cael knowledge outside the stated knowledge_boundary",
+      "Altering the substance of Vell's ruling or ledger record",
+      "Introducing new named characters into the bout or its immediate aftermath"
+    ]
+  },
+  "context_files": [
+    {"kind": "canon", "label": "canon rules", "path": "universe/CANON_RULES.md", "required": true},
+    {"kind": "arc", "label": "book 1 chapter architecture", "path": "books/book-01-the-shattered/CHAPTER_ARCHITECTURE.md", "required": true},
+    {"kind": "state", "label": "state ledger", "path": "universe/STATE_LEDGER.md", "required": true},
+    {"kind": "registry", "label": "name registry", "path": "craft/NAME_REGISTRY.md", "required": true},
+    {"kind": "previous_scene", "label": "seam immediately before the fight", "path": "v3-runs/book-01/packets/ch23-seam-before.md", "required": true},
+    {"kind": "reference", "label": "seam immediately after the fight", "path": "v3-runs/book-01/packets/ch23-seam-after.md", "required": true}
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-01/drafts/ch23-fight.md",
+    "report_path": "v3-runs/book-01/reports/ch23-author.json",
+    "editor_report_path": "v3-runs/book-01/reports/ch23-editor.json",
+    "verifier_report_path": "v3-runs/book-01/reports/ch23-verifier.json",
+    "target_words": 7220,
+    "tolerance_percent": 20
+  }
+}
