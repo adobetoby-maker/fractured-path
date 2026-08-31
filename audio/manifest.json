@@ -445,7 +445,7 @@
       "id": "book-02-iron-circuit",
       "title": "Iron Circuit",
       "totalChapters": 24,
-      "renderedChapters": 16,
+      "renderedChapters": 17,
       "chapters": [
         {
           "number": 1,
@@ -731,6 +731,24 @@
               "durationSec": 1249.65,
               "sha256": "0aa94070f292262c9f061d90da2fdcd11dbaefb8ac50ae4dff2c1078c5a146a9",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-20.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "title": "The Bout",
+          "manuscript": "books/book-02-iron-circuit/chapters/chapter-21.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-02-iron-circuit/chapter-21.mp3",
+              "bytes": 25154081,
+              "durationSec": 3144.2,
+              "sha256": "1a1b4daf7365c37c8b475d559389ad78dab81588f53a4a53a45e12ceba3cb300",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-21.mp3",
               "note": "64 kbps; request-stitched."
             }
           ]
