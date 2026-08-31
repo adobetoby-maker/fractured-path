@@ -1,13 +1,13 @@
 {
   "schema_version": "3.1",
-  "run_id": "b1-ch23-fight-r1",
+  "run_id": "b1-ch23-fight-r2-recheck",
   "scene_id": "b1-ch23-fight",
-  "verdict": "STRUCTURAL_HOLD",
+  "verdict": "PASS",
   "gate_results": [
     {
       "gate": "Authority and invention budget",
-      "state": "FAIL",
-      "evidence": "Draft lines 35-37 establish a specific Iron Path load route through Darrow's planted stance, back leg, and a low-left rib-to-hip crossing, and lines 97, 127, 153, 187, and 194 make that invented mechanism the causal basis of the victory. The packet permits strike placement and choreography but separately requires approval for new facts about Darrow's technique (compiled prompt lines 590-593); the packet records no exception (line 643)."
+      "state": "PASS",
+      "evidence": "RECHECKED b1-ch23-fight-r1-editor-001: repaired lines 35-37 separate sworn testimony from Cael's proposed routing model and explicitly cast that model as a wager with Claim, Evidence, 'Ruling: pending,' 'provisionally,' and repeated 'if' markers. Lines 97, 127, 153, 179, 187, 194, 198, and 283 keep later routing, congestion, disorientation, finishing-load, depletion, and notebook conclusions inside Cael's reading/model rather than establishing Iron Path physics in narrator voice. Darrow's line 222 is character testimony, not omniscient confirmation. The packet-authorized strike placement and choreography remain unchanged."
     },
     {
       "gate": "Assigned obligations, plants, payoffs, and prohibited outcomes",
@@ -17,7 +17,7 @@
     {
       "gate": "Point-of-view integrity and knowledge boundary",
       "state": "PASS",
-      "evidence": "Close-third narration remains inside Cael's bodily perception and inference. He reads Darrow live, explicitly fails to choose or explain the concurrence (lines 167-185), answers that he does not fully know (lines 228-232), and still cannot describe or reproduce the mechanism that night (lines 285-291)."
+      "evidence": "Close-third narration remains inside Cael's bodily perception and inference. The repaired prose labels the load route as his provisional hypothesis (lines 35-37), repeatedly distinguishes sensations from the model imposed on them (lines 97, 127, 153, 179, 187, 194, and 198), and limits the final tactical ruling to one tested body regardless of the route's actual truth (line 283). He explicitly fails to choose or explain the concurrence (lines 167-185), answers that he does not fully know (lines 228-232), and still cannot describe or reproduce it that night (lines 285-291)."
     },
     {
       "gate": "Continuity persistence and frozen state",
@@ -27,7 +27,7 @@
     {
       "gate": "Causal legibility and earned resolution",
       "state": "PASS",
-      "evidence": "Feryn's psychological scouting and Lira's precision drill are established before the bout (lines 21-49), then tested through repeated strikes at the selected location (lines 97-153). Darrow adapts, commits, becomes disoriented by the established fragments' first concurrence, and Cael consciously spends that opening on the finishing strike (lines 161-198). The scene-level causal chain is legible, subject to approval of the newly specified Iron Path mechanics."
+      "evidence": "Feryn's psychological scouting and Lira's precision drill are established before the bout (lines 21-49), then tested through repeated strikes at the selected location (lines 97-153). Darrow adapts, commits, becomes disoriented by the established fragments' first concurrence, and Cael consciously spends that opening on the finishing strike (lines 161-198). The repair preserves this causal chain while making the load-route explanation Cael's fallible but action-guiding model rather than canon fact."
     },
     {
       "gate": "Consequential scene and emotional movement",
@@ -47,7 +47,7 @@
     {
       "gate": "Production hygiene and target length",
       "state": "PASS",
-      "evidence": "Deterministic diagnostics declare 7,294 words against the allowed 5,776-8,664 range. The manuscript contains no drafting placeholders, editorial notes, or malformed section artifacts, and its final line is the required notebook sentence."
+      "evidence": "The repaired draft contains 7,662 whitespace-delimited words against the allowed 5,776-8,664 range. The manuscript contains no drafting placeholders, editorial notes, or malformed section artifacts, and its final line is the required notebook sentence."
     },
     {
       "gate": "Combat 1: Stakes precede the decisive exchange",
@@ -155,35 +155,13 @@
       "evidence": "Vell announces assessed-Copper against Bronze Rank One and the mismatch drives betting and crowd interpretation (lines 15-29, 67-69). Winning across that rank gap changes Cael's public identity and visibility across Ardenmere (lines 258-264)."
     }
   ],
-  "findings": [
-    {
-      "id": "b1-ch23-fight-r1-editor-001",
-      "status": "PROPOSED",
-      "severity": "BLOCKER",
-      "category": "authority/invention-budget",
-      "gate": "Authority and invention budget",
-      "draft_evidence": {
-        "path": "v3-runs/book-01/drafts/ch23-fight.md",
-        "line_start": 35,
-        "line_end": 37,
-        "quote": "Power went in and Darrow's body drank it, spread it, sent it down through that planted stance into the ground... Everything Darrow took traveled the same road — across, down, out through the braced back leg... Low on the left side, where the ribs handed their load to the hip."
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-01/packets/ch23-editor-prompt.md",
-        "line_start": 590,
-        "line_end": 593,
-        "quote": "approval_required: New facts about Darrow's technique, background, or history beyond what canon and the state ledger establish..."
-      },
-      "consequence": "The draft converts the packet's unspecified structural gap into canonically specific Iron Path anatomy and makes the entire accumulation strategy, redirect, disorientation, and finishing blow depend on that load-routing rule. Because the packet reserves new facts about Darrow's technique for approval and records no exception, the scene cannot safely advance with this mechanism asserted as fact.",
-      "repair_target": "Obtain an explicit human exception for the planted-stance/back-leg/rib-to-hip load-routing mechanic, or preserve the required repeated strike placement and visible compounding gap without asserting unapproved Iron Path physics.",
-      "confidence": "HIGH"
-    }
-  ],
+  "findings": [],
   "concerns": [
     "At draft line 250, Lira says she was already through the rope and two steps in before the bout was called. The venue has both a rope and a chalk circle, so the exact boundary is ambiguous; clarify the staging if needed so listeners do not infer spectator interference or a circuit-rule breach.",
     "The account/ledger/road imagery coheres with Cael and Darrow, but it remains active through briefing, all four exchanges, the fall, Darrow's explanation, and the aftermath. A later line pass should test whether a few repetitions can be removed without weakening the strong central motif."
   ],
   "strengths": [
+    "RECHECKED b1-ch23-fight-r1-editor-001: resolved. The repaired draft consistently presents the planted-stance/back-leg/rib-to-hip route as Cael's explicit in-POV hypothesis and model, with the ruling limited to this one observed bout; no narrator-voice assertion of universal Iron Path physics survives.",
     "The four-exchange structure is exceptionally legible: measurement, accumulation, adversary adaptation, then committed escalation and a narrow finish.",
     "The victory has receipts. Lira's precision-over-power drilling and Feryn's psychological scouting visibly govern Cael's choices rather than serving as retrospective explanation.",
     "The concurrence is handled with the required boundary discipline: involuntary first arrival, partial mitigation, real cost, no new fragment, and no claim of repeatability or understanding.",

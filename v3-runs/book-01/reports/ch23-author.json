@@ -1,10 +1,10 @@
 {
   "schema_version": "3.1",
-  "run_id": "b1-ch23-fight-r1",
+  "run_id": "b1-ch23-fight-r2",
   "scene_id": "b1-ch23-fight",
   "status": "DONE",
   "draft_path": "v3-runs/book-01/drafts/ch23-fight.md",
-  "word_count": 7294,
+  "word_count": 7662,
   "obligations": [
     {
       "obligation": "Cael wins the bout in the fourth exchange by forced fall/incapacitation, consistent with Vell's later ledger line",
@@ -73,7 +73,7 @@
     }
   ],
   "inventions": [
-    "The specific rendering of the structural gap in Darrow's resilience: absorbed force routes across, down, and out through his rooted back leg, narrowing at a rib-to-hip 'crossing' on his low left side; accumulation works by keeping the route loaded so redistribution slows (exchange-internal choreography implementing the packet's required 'one structural gap')",
+    "The specific rendering of the structural gap in Darrow's resilience — framed throughout as Cael's in-POV tactical hypothesis, never narrator fact: Cael's claim/evidence/ruling model holds that absorbed force routes across, down, and out through the rooted back leg, narrowing at a rib-to-hip 'crossing' on the low left side, and that accumulation keeps the route loaded so redistribution slows; the prose repeatedly marks this as his read and wager, and the win proves his read of this fight only (exchange-internal choreography implementing the packet's required 'one structural gap')",
     "Exchange-by-exchange choreography: exchange one as deliberate measurement-taking against permitted strikes; exchange two as six accumulating strikes at one address; exchange three as Darrow's geometric denial and squeeze including one solo Wind-adjacent evasion; exchange four as the committed strike, combined response, and finishing strike",
     "Crowd and venue texture: betting drift from eleven-to-one to fifteen-to-one and closing at thirteen, wiped and enlarged betting slates, roughly three hundred standing capacity as Cael's counted estimate, roped-off fighters' preparation corner (dressing on established Cinder House yard, no new venue facts asserted as canon)",
     "Brief reactions from established unnamed background figures per budget: the baker (closes her stall, third row, presses a loaf on Lira after), the errand boys (running slate-changes, shadowing the walk home), the old man in the yard's corner (one-degree nod)",
@@ -91,7 +91,8 @@
   ],
   "deviations": [
     "The chapter architecture stages a third fragment notice ('first combined-use integration') that the scene packet's must_include list omits. I included a minimal notice in the established format that records concurrent function without naming, explaining, or resolving the capability, reading the packet's prohibitions as barring recognition of a NEW capacity rather than barring the system's bare record of the two established fragments co-firing. If the editor reads the prohibition more strictly, the notice block (night scene) can be cut cleanly with no downstream dependency — the notebook close does not rely on it.",
-    "Word count 7294 vs target 7220 (+1.0%), well inside the 20 percent tolerance."
+    "REPAIR (b1-ch23-fight-r1-editor-001, cycle 1): the draft previously asserted a specific Iron Path load-routing anatomy (across/down/out through the braced back leg; rib-to-hip crossing) in narrator voice as fact — unapproved canon. Per the human decision, the entire routing model is reframed as Cael's explicit in-POV tactical hypothesis under CORE invariant 1 (inference may exceed knowledge when it reads as inference). Nine passages were revised: the prep-scene model is now laid out in his claim/evidence/ruling notebook idiom with the ruling explicitly pending; the first-exchange measurements, second-exchange half-beat, third-exchange congestion, fourth-exchange force-return, Darrow's disorientation, the finishing strike, the depletion diagnosis, and the closing notebook tactical entry all carry varied inference markers (he read, the model said, if he was right, by his count, so Cael read it, staked on the reading, a ruling let stand unwitnessed). Darrow's own 'handed back up the road it came down' remains as character testimony in dialogue. All staging — strike placement, compounding gap, disorientation, finisher, combined-use payoff — is unchanged; only the epistemic register moved from fact to Cael's concluded-and-wagered model, proving his read of this fight without establishing how Iron Path universally works. The required closing notebook line is preserved verbatim as the final line.",
+    "Word count 7662 vs target 7220 (+6.1%), inside the 20 percent tolerance (repair added inference framing without cutting staged material)."
   ],
   "blockers": []
 }

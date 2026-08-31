@@ -3,7 +3,7 @@
  "run_id": "b1-ch23-fight-r1-verify",
  "scene_id": "b1-ch23-fight",
  "editor_run_id": "b1-ch23-fight-r1",
- "verdict": "REPAIR_REQUIRED",
+ "verdict": "CLEAR",
  "decisions": [
   {
    "finding_id": "b1-ch23-fight-r1-editor-001",
