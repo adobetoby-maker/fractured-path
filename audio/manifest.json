@@ -445,7 +445,7 @@
       "id": "book-02-iron-circuit",
       "title": "Iron Circuit",
       "totalChapters": 24,
-      "renderedChapters": 19,
+      "renderedChapters": 20,
       "chapters": [
         {
           "number": 1,
@@ -677,6 +677,24 @@
               "durationSec": 1654.24,
               "sha256": "e13b6b2145316d5d3b5e29448b73d0335fe072fcb45c241621c0d70ecd65f8e7",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-14.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "title": "Something in the File",
+          "manuscript": "books/book-02-iron-circuit/chapters/chapter-15.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-02-iron-circuit/chapter-15.mp3",
+              "bytes": 13630946,
+              "durationSec": 1703.79,
+              "sha256": "6500ca1ef8b3ead20e2b53cb97ee56c46b12bdffd6669477efde332dc6d7747a",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-15.mp3",
               "note": "64 kbps; request-stitched."
             }
           ]
