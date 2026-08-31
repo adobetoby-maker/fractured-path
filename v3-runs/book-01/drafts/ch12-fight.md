@@ -12,7 +12,7 @@ Vell stood at the chalk with her ledger closed over her thumb. "Begin when ready
 
 Cael went in.
 
-Not fast. Speed against Dessa was an offering, and she accepted offerings. He came in at three-quarter pace and started asking questions with his hands — a probe at her high line, a step through to her left, a low fake he had no intention of finishing. Her forearms drifted into place ahead of each answer, unhurried and exact, and when he looked for it — you had to look for it; from the benches it had taken him most of a bout to be sure — he caught the stone-grey light lying faint along her forearms, less a glow than a change in what her skin was willing to be.
+Not fast. Speed against Dessa was an offering, and she accepted offerings. He came in at three-quarter pace and started asking questions with his hands — a probe at her high line, a step through to her left, a low fake he had no intention of finishing. Her forearms drifted into place ahead of each answer, unhurried and exact, and when he looked for it — you had to look for it; from the benches it had taken him most of a bout to be sure — he caught the stone-grey light lying faint along her forearms, the kind of faint you only saw if you were already looking for it.
 
 He touched her guard twice and might as well have touched the yard wall.
 

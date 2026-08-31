@@ -1,10 +1,10 @@
 {
   "schema_version": "3.1",
-  "run_id": "b1-ch08-fight-r1",
+  "run_id": "b1-ch08-fight-r2",
   "scene_id": "b1-ch08-fight",
   "status": "DONE",
   "draft_path": "v3-runs/book-01/drafts/ch08-fight.md",
-  "word_count": 4486,
+  "word_count": 4595,
   "obligations": [
     {
       "obligation": "Cael enters unrated, fourteen years old, no Path classification, matched by Vell against Renn (Copper Rank 3, Blade Path), eleven fights this season, eight wins",
@@ -39,7 +39,7 @@
     {
       "obligation": "Exchange 3: three-strike combination built so the third lands even against a correct read of the first two; Cael's body arrives correctly positioned for all three anyway, faster and more precisely than exposure could explain, with no conscious process — the canon-critical anomaly",
       "status": "MET",
-      "evidence": "The figure's design is shown from outside afterward ('it did not require you to guess wrong. It was built to catch you where guessing right put you'). Strikes two and three are evaded by a step 'his mind had not ordered and did not recognize'; the exchange 'did not reconstruct'; his one explanatory guess ('the watching') immediately fails to cover it ('like a blanket cut short') and is left unconfirmed."
+      "evidence": "All three strikes now carry the anomaly (repaired per CH08-ED-002): the account 'stopped being his' at the heel settle, before strike one — 'off the line of the committed strike before any read of it had finished forming,' with 'no watching in it anywhere'; 'no read, no tell, no quarter second... not for the first strike, not for the second, not anywhere in the figure.' Strike three is evaded by a step 'his mind had not ordered and did not recognize'; the exchange 'did not reconstruct'; his one explanatory guess ('the watching') immediately fails to cover it ('like a blanket cut short') and is left unconfirmed."
     },
     {
       "obligation": "Exchange 4: Renn's combination outpaces even the improved reading; controlled decisive blow to the ribs ends the match; Cael loses all four exchanges",
@@ -103,9 +103,12 @@
     "Lira has explicitly deferred, not dropped, the third-exchange question ('That's tonight's answer. I'm noting it was tonight's') — available pressure for the Ch9 sparring plant."
   ],
   "deviations": [
-    "Word count 4486 vs target 4700 (-4.6%), inside the 20 percent tolerance.",
-    "Exchange-3 staging interpretation: the first strike of the figure is evaded via Cael's conscious read (continuous with his exchange-2 improvement), while the escape from strikes two and three — the part the figure is designed to make impossible — carries the no-conscious-process anomaly. This reading reconciles the packet's 'body arrives correctly positioned for all three strikes' with Lira's statement that correctly reading the first two is achievable (she did it herself); the anomalous component is strictly the movement no read can produce. Flagging for editor review in case the intended staging was all three strikes unconscious.",
-    "The obligation that Vell records the specific ledger wording ('reads faster than exposure should produce,' continued-tracking recommendation) cannot be rendered verbatim inside Cael's POV without violating the knowledge boundary and prohibited_outcomes; it is staged observationally (a too-long entry Cael watches her write and never sees), which is the only execution consistent with all three packet clauses simultaneously."
+    "Word count 4595 vs target 4700 (-2.2%), inside the 20 percent tolerance.",
+    "REPAIR (CH08-ED-002, cycle 1): Exchange-3 opening restaged so no strike carries conscious process. The prior draft's strike-1 conscious read ('that much was his, that much had process behind it') is removed; the anomaly now begins at the heel settle before strike one, and the would-not-reconstruct passage explicitly covers the full figure ('not for the first strike, not for the second, not anywhere in the figure'). Preserved: inability to convert positioning into attack, the anomaly's non-recurrence in exchange 4, the failed 'watching' self-explanation, and surrounding prose where it survived the restaging.",
+    "REPAIR (CH08-ED-003, cycle 1): Post-match haul-up image returned to explicit comparison ('the easy strength of a man built for hauling') — no biographical fact about Renn asserted inside Cael's knowledge boundary. The earlier build description was already simile ('like someone who had carried freight before he carried a rank') and is unchanged.",
+    "REPAIR (CH08-ED-004, cycle 1): Exchange-2 low sweep re-choreographed without the unapproved mid-motion dismissal — the extension is now committed wide and angled up away from the line as counterweight during the sweep, within established extension behavior; no new Blade Path capability introduced.",
+    "The obligation that Vell records the specific ledger wording ('reads faster than exposure should produce,' continued-tracking recommendation) cannot be rendered verbatim inside Cael's POV without violating the knowledge boundary and prohibited_outcomes; it is staged observationally (a too-long entry Cael watches her write and never sees), which is the only execution consistent with all three packet clauses simultaneously.",
+    "Operational note: scripts/validate.py named in the repair instructions does not exist in the repository (searched repo-wide); report validated as syntactically well-formed JSON via python3 json.tool instead."
   ],
   "blockers": []
 }

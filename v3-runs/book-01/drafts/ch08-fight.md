@@ -54,7 +54,7 @@ Hesk's notebook, in Hesk's careful hand: *When you don't know what you can do ye
 
 The second exchange began the same way, probes off the front foot, loose, conversational. Cael gave ground on the curve again. He watched the heel.
 
-The settle came — and this time he moved on the settle itself, not on the strike it promised, and the strike that arrived was not the strike he'd braced for. Renn had thrown himself low instead, the extension winking out mid-motion and the whole of that freight-carrier frame swinging leg-first through the space where Cael's ankles should have been. A sweep. Not meant to wound at all. Meant to dump an overeager debut on his back and teach the crowd to laugh.
+The settle came — and this time he moved on the settle itself, not on the strike it promised, and the strike that arrived was not the strike he'd braced for. Renn had thrown himself low instead, the extension flung out wide and high, angled up and away from the line as counterweight, and the whole of that freight-carrier frame swinging leg-first through the space where Cael's ankles should have been. A sweep. Not meant to wound at all. Meant to dump an overeager debut on his back and teach the crowd to laugh.
 
 But Cael had moved a half-beat before the swing committed, and the half-beat meant his ankles weren't where the sweep went looking for them. He hopped the trailing edge of it, graceless but clear, and for one open moment Renn was low and turned and square-hipped and *there*, close enough that even an unrated reach might have touched him — and Cael, mid-recovery, off-balance, hands wrong, did nothing with the moment at all. It closed. Renn came up out of the sweep smiling slightly, backed off two steps, and rolled his shoulders again.
 
@@ -64,11 +64,11 @@ Renn wasn't smiling at him, exactly. He was smiling at the situation. But he had
 
 Later — much later, walking home, and later still, lying awake — Cael would try to reconstruct the third exchange, and he would find that it did not reconstruct.
 
-It began legibly. Two probes, high and across. The heel settled. Cael read it clean, cleaner than the second exchange, the quarter second wide and usable, and he moved off the line of the committed strike as it came — that much was his, that much had process behind it, watching and paying and moving. The strike cut air where his chest had been.
+It began legibly. Two probes, high and across. The heel settled — and there the account stopped being his. He had spent two exchanges buying the quarter second between the settle and the strike, and he never got to spend it. He was off the line of the committed strike before any read of it had finished forming, weight already through, feet already placed, and the strike cut air where his chest had been. Even that first evasion — the one that should have been watching and paying and moving, the skill he had bled a shoulder to build — had, when he went looking afterward, no watching in it anywhere. His body had arrived at the answer before he had managed to ask the question.
 
 Then the second strike arrived out of the first one's follow-through, not a new attack but the same motion folded back on itself, angled down and across at where a fighter who had dodged the first strike would necessarily be standing. It was a beautiful, vicious piece of construction. He knew that afterward. In the moment, he knew nothing about it whatsoever, because his body was already somewhere else.
 
-He had not decided to be somewhere else. That was the part that would not reconstruct. There was no read, no tell, no quarter second, no *I saw the heel, the hip, the wrist, and moved*. There was the first strike missing him, and then there was Cael standing outside the second strike's arc with his weight already turning, and his mind arrived at the new position the way a man arrives late at his own house and finds the lamps already lit.
+He had not decided to be somewhere else. He had not, so far as he could ever establish, decided anything from the settle onward. That was the part that would not reconstruct. There was no read, no tell, no quarter second, no *I saw the heel, the hip, the wrist, and moved* — not for the first strike, not for the second, not anywhere in the figure. There was the heel settling, and then there was Cael standing outside the second strike's arc with his weight already turning, and his mind arrived at each new position the way a man arrives late at his own house and finds the lamps already lit.
 
 The third strike was the point of the whole figure. He understood the shape of it afterward, from the outside, the way you understand a trap that has been sprung on someone else: strikes one and two herded a defender — even a good defender, even a defender who read them both — into a narrowing lane, and the third strike came up the lane. It did not require you to guess wrong. It was built to catch you where guessing right put you.
 
@@ -98,7 +98,7 @@ Breathing came back in pieces. Cael got an elbow under himself, then a knee, and
 
 A shadow crossed the lantern light. Renn stood over him with the extension gone and his hand out.
 
-Cael took it and was hauled up with the easy strength of a man who hauled things for a living before he fought for one.
+Cael took it and was hauled up with the easy strength of a man built for hauling, the grip doing the work without appearing to notice there was any work in it.
 
 "Four exchanges," Renn said. He said it the way Vell would write it, a fact for the record, but he was studying Cael's face while he said it. "You know what an unrated debut usually gives me? One. The brave ones give me two. Nobody gives me four." He glanced down at Cael's ribs, back up. "And the third one — " He stopped. He shook his head, and the shake was not disbelief. It was a man filing something he intended to think about later. "That was a real figure I threw at you. It doesn't miss. It missed."
 

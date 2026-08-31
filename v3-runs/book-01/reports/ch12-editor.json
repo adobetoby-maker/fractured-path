@@ -1,0 +1,204 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch12-fight-r1",
+  "scene_id": "b1-ch12-fight",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Authority conflicts — canon, timeline, state, and viewpoint knowledge",
+      "state": "PASS",
+      "evidence": "The draft follows the packet's authoritative fourth-exchange, unnamed-instance lock rather than the stale architecture card: the event occurs at draft lines 63-69, remains unexplained at lines 75 and 115-119, and no Warden Coss, Compact sweep, later fragment vocabulary, or Arbiter theory appears. Dessa, Vell, Lira, and Cael match the supplied state and registry evidence."
+    },
+    {
+      "gate": "Point-of-view integrity",
+      "state": "PASS",
+      "evidence": "The full draft remains close third, past tense in Cael's practical attention. Dessa's internal state is never asserted; her recalculation and respect are conveyed through visible behavior and dialogue at lines 49 and 81-97."
+    },
+    {
+      "gate": "Assigned obligations — scene turn, plants, payoff, and outcome",
+      "state": "PASS",
+      "evidence": "Manual structural review finds exactly four exchanges at lines 21, 25-39, 41-51, and 53-73. All required beats occur: two-bout/two-week observation (5-9), tell and counter-sweep payoff (33-47), fourth-exchange unexplained pivot and incapacitation (63-73), Dessa's respect/rematch response (81-99), Vell's two-part record (101-103), separated private-log entries (111-119), tentative 'Borrowed' naming (123-139), and the promise to tell Lira before Hesk (143)."
+    },
+    {
+      "gate": "Prohibited outcomes and SECRET protection",
+      "state": "PASS",
+      "evidence": "The bout ends in the fourth exchange, Cael has only fatigue and dust, and the Cael/Lira beat remains non-romantic. The prose never names Wind, a fragment, an integration mechanism, Warden Coss, or the Compact; lines 65, 75, 115-119, and 139 preserve uncertainty and non-summonability."
+    },
+    {
+      "gate": "Invention budget — approval-required details",
+      "state": "FAIL",
+      "evidence": "Draft line 15 describes the faint stone-grey forearm light as 'less a glow than a change in what her skin was willing to be.' Packet line 594 requires approval for any new specific description beyond 'faint, visible only if looking for it,' and the packet records no exception. See finding ed-b1-ch12-fight-001."
+    },
+    {
+      "gate": "Causal legibility and earned resolution",
+      "state": "PASS",
+      "evidence": "Cael's two weeks of observation visibly produce the third-exchange opening and sweep evasion at lines 33-47. The fourth-exchange phenomenon is the packet-required second instance, explicitly tied to the prior Ch9 event at line 65, and it supplies position rather than the trained finishing strike itself (67-69)."
+    },
+    {
+      "gate": "Consequential scene and state change",
+      "state": "PASS",
+      "evidence": "The scene changes Cael's circuit record from 0-4 to 1-4, his standing with Dessa and the crowd, Vell's assessment, his understanding of the recurring event as a two-instance pattern, and his trust commitment to Lira (73-75, 85-107, 115-119, 143)."
+    },
+    {
+      "gate": "Character, emotional movement, and pen-name voice",
+      "state": "PASS",
+      "evidence": "Cael enters treating the match as a test of method (7-9), earns specific tactical pride without conflating it with the unexplained movement (111-119), and exits choosing vulnerable disclosure (123-143). Dessa's patience and professional respect, Vell's dry economy, and Lira's restraint remain distinguishable."
+    },
+    {
+      "gate": "Audio survival",
+      "state": "PASS",
+      "evidence": "Exchange order, ranks, the called result, and the ledger note are all verbalized in narration or dialogue. The italic-like private-log content at lines 115-119 is introduced and read as prose, so meaning does not depend on typography."
+    },
+    {
+      "gate": "Seam integrity",
+      "state": "PASS",
+      "evidence": "The opening moves directly from Vell's pre-fight withdrawal in ch12-seam-before.md into the ring setup and start. The closing promise at draft line 143 provides the direct antecedent for Lira's 'I'd expect nothing less' in ch12-seam-after.md."
+    },
+    {
+      "gate": "Production hygiene and target length",
+      "state": "PASS",
+      "evidence": "The deterministic packet diagnostic reports 3,753 words, within the required 3,120-4,680 range. The draft contains no headings, placeholders, editorial notes, or malformed display text."
+    },
+    {
+      "gate": "Combat 1 — Stakes precede the decisive exchange",
+      "state": "PASS",
+      "evidence": "Before combat begins, lines 7-9 establish Cael's four losses, the betting expectation, two weeks of preparation, and the bout as a test of whether his method works."
+    },
+    {
+      "gate": "Combat 2 — Positions and movement remain legible",
+      "state": "PASS",
+      "evidence": "The twenty-foot ring and Dessa's defended ranges are established at line 1. Marks, resets, angles, the two-foot offline evasion, chalk boundary, inside-frame pivot, and finishing position stay trackable at lines 21-23, 33-47, and 59-69."
+    },
+    {
+      "gate": "Combat 3 — Balance, reach, injury, equipment, and established ability",
+      "state": "PASS",
+      "evidence": "Force generation and balance are explicit in the short hip-driven strike (45), Dessa's committed versus Cael's uncommitted weight (67), and the controlled jaw finish (69-73). Dessa lands no injury; Cael carries only stipulated fatigue and dust (75)."
+    },
+    {
+      "gate": "Combat 4 — Named combatants use distinguishable tactics",
+      "state": "PASS",
+      "evidence": "Cael probes, varies rhythm, observes, and waits; Dessa banks behind a near-impenetrable frame, stops buying feints, preserves a low reclaiming sweep, and then adapts by advancing. Their methods and temperaments remain distinct throughout lines 15-69."
+    },
+    {
+      "gate": "Combat 5 — Pivotal decision and consequence are causally legible",
+      "state": "PASS",
+      "evidence": "The fight pivot is deliberately involuntary and is rendered as such at lines 63-67; its immediate consequence is a position inside Dessa's committed frame, enabling Cael's established trained strike at line 69. The scene's actual choice—telling Lira more—is explicit at lines 129-143."
+    },
+    {
+      "gate": "Combat 6 — Fight changes a non-damage story state",
+      "state": "PASS",
+      "evidence": "Beyond incapacitation, the fight changes Cael's legitimacy, circuit record, Dessa's professional assessment, Vell's record, public recognition, the pattern count, and Cael/Lira trust (73-75, 85-107, 115-119, 143)."
+    },
+    {
+      "gate": "Combat 7 — Persistent costs are recorded for the next state snapshot",
+      "state": "PASS",
+      "evidence": "The prose explicitly records ordinary fatigue and no lingering mechanical residue at lines 75 and 115, while Vell records the durable win and tactical flag at lines 101-103 and Cael records the second instance at lines 115-119."
+    },
+    {
+      "gate": "Progression 1 — Advancement has intelligible cause and recorded delta",
+      "state": "PASS",
+      "evidence": "The 0-4 starting record and observation method are established at lines 7-9; the tactical cause is executed at lines 33-47; the 1-4 delta and win conditions are spoken and entered at lines 73 and 101-103."
+    },
+    {
+      "gate": "Progression 2 — Cost or tradeoff is visible when the system promises one",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No formal system advancement, fragment acquisition, rank award, or system-promised price occurs in this scene. Match effort and ordinary fatigue are nevertheless visible at lines 31, 55, and 75."
+    },
+    {
+      "gate": "Progression 3 — Progress changes something outside the measuring system",
+      "state": "PASS",
+      "evidence": "The win changes Dessa's respect and future interest (85-99), crowd recognition (75), and Cael's willingness to trust Lira (129-143), not merely the 1-4 record."
+    },
+    {
+      "gate": "Progression 4 — Major victory uses established capability",
+      "state": "PASS",
+      "evidence": "The involuntary movement is established as the second instance of the Ch9 phenomenon by the packet and draft line 65; the finish itself is a trained, accountable strike (69). The prose adds no new named or controllable capability."
+    },
+    {
+      "gate": "Progression 5 — Rivals and institutions continue acting independently",
+      "state": "PASS",
+      "evidence": "Dessa learns Cael's feints, preserves her counter, guards the used window, and changes to a forward-pressure solution (19, 29, 55-61). Vell applies procedure while independently adding a precision assessment (101-107)."
+    },
+    {
+      "gate": "Progression 6 — Repeated challenges differ in tactical, emotional, or social problem",
+      "state": "PASS",
+      "evidence": "Against the packet's prior circuit-loss context, this bout is specifically designed around a patient Stone defender and the danger of impatience. Within the scene, each of the four exchanges changes the tactical problem rather than repeating damage."
+    },
+    {
+      "gate": "Progression 7 — Setbacks generate changed behavior or understanding",
+      "state": "PASS",
+      "evidence": "Cael has converted four prior losses into longer survival, pages of observations, and the two-week watch-and-map method tested here (7-9); afterward he preserves the distinction between earned tactic and unknown event in his log (111-119)."
+    },
+    {
+      "gate": "LitRPG 1 — Every system display has an owner and in-world trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No Arbiter notice, character sheet, or other system display appears. Vell's ledger is a manually owned institutional record, clearly triggered by the completed bout at lines 101-103."
+    },
+    {
+      "gate": "LitRPG 2 — Displayed values match approved state and delta history",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no system display. The diegetic ledger's non-system values—unrated Cael, Dessa at Copper fifth, fourth-exchange incapacitation—do match the packet at lines 101-103."
+    },
+    {
+      "gate": "LitRPG 3 — Display remains understandable aloud",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no system display. The manual ledger result is spoken aloud at line 101, and its added note is fully narrated at line 103."
+    },
+    {
+      "gate": "LitRPG 4 — Display changes the scene or can be cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no system display. Vell's manual record is consequential because it establishes the official circuit delta and her unusual precision flag."
+    },
+    {
+      "gate": "LitRPG 5 — Hidden information is withheld consistently",
+      "state": "PASS",
+      "evidence": "The future Wind-adjacent identity and Fractured Path integration mechanism remain entirely withheld. The draft permits only the packet-authorized facts that the event has happened twice, cannot be summoned, and is not yet understood (65, 75, 115-119, 135-139)."
+    },
+    {
+      "gate": "LitRPG 6 — Combinations use established components or an approved exception",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fragment, Path, skill, or system-component combination occurs or is named in the scene."
+    },
+    {
+      "gate": "LitRPG 7 — Rank has non-combat consequences when relevant",
+      "state": "PASS",
+      "evidence": "Dessa's Copper-fifth rank against Cael's unrated status shapes betting and audience expectation (7), Dessa's preparation and the anticipated luck narrative (85-93), and the legitimacy carried by Vell's ledger entry (101-103)."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b1-ch12-fight-001",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "invention-budget",
+      "gate": "Invention budget — approval-required details",
+      "draft_evidence": {
+        "path": "v3-runs/book-01/drafts/ch12-fight.md",
+        "line_start": 15,
+        "line_end": 15,
+        "quote": "he caught the stone-grey light lying faint along her forearms, less a glow than a change in what her skin was willing to be."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-01/packets/ch12-editor-prompt.md",
+        "line_start": 594,
+        "line_end": 594,
+        "quote": "Any new specific description of the stone-grey forearm light beyond 'faint, visible only if looking for it'"
+      },
+      "consequence": "The added skin-property image exceeds the packet's pre-approved description and may imply an unapproved Stone Path manifestation detail, creating avoidable canon drift in later depictions.",
+      "repair_target": "Remove or neutralize 'less a glow than a change in what her skin was willing to be' so the description conveys only faintness and visibility to an attentive observer, or obtain an explicit human exception for the added image.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Draft line 111 says 'the first win of his life,' while the packet establishes the narrower fact 'first circuit win.' No supplied evidence proves a contradiction, but the broader literal scope merits confirmation before publication.",
+    "The spending/account/currency image is coherent with Cael's tactical thinking but recurs densely across lines 15-39; whether that repetition strengthens the governing metaphor or becomes conspicuous in audio is a line-level taste judgment."
+  ],
+  "strengths": [
+    "The four-exchange architecture is unusually clear: every reset changes information, and the third-exchange earned tactic remains sharply separated from the fourth-exchange mystery.",
+    "Cael's competence has receipts—two watched bouts, a specific tell, disciplined refusal of the obvious follow-up, and a logged causal analysis—so the first win advances both skill and self-concept.",
+    "Dessa remains formidable and professionally generous in defeat; her forward advance is an adaptive tactical surprise rather than a personality break.",
+    "The unexplained movement pays off Ch9 without leaking the Wind connection or Book 3 integration SECRET, and the failed attempt to reproduce it protects non-summonability.",
+    "The Cael/Lira ending converts exposition into relationship movement: Lira offers a tentative word, accepts uncertainty, and receives an unprompted promise that splices cleanly into the supplied following seam.",
+    "Vell's spoken result plus silent precision note gives the win institutional and social consequence while remaining fully intelligible in audio."
+  ]
+}

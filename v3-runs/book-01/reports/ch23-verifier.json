@@ -1,0 +1,19 @@
+{
+ "schema_version": "3.1",
+ "run_id": "b1-ch23-fight-r1-verify",
+ "scene_id": "b1-ch23-fight",
+ "editor_run_id": "b1-ch23-fight-r1",
+ "verdict": "REPAIR_REQUIRED",
+ "decisions": [
+  {
+   "finding_id": "b1-ch23-fight-r1-editor-001",
+   "decision": "VERIFIED",
+   "evidence_checked": [
+    "drafts/ch23-fight.md lines 35-37: load-routing asserted in narrative voice as fact",
+    "packet invention_budget approval_required: new facts about Darrow's technique",
+    "CORE invariant 1: inference may exceed knowledge but must read as inference"
+   ],
+   "reason": "Unapproved Iron Path physics asserted as fact, with the win mechanism depending on it. Human decision point exercised by orchestrator: repair by reframing the load-routing as Cael's explicit in-POV hypothesis/model (reads as inference, binds no canon), preserving strike placement and compounding-gap strategy. Fable repair run r2 dispatched."
+  }
+ ]
+}

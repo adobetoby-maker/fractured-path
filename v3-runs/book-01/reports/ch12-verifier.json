@@ -1,0 +1,18 @@
+{
+ "schema_version": "3.1",
+ "run_id": "b1-ch12-fight-r1-verify",
+ "scene_id": "b1-ch12-fight",
+ "editor_run_id": "b1-ch12-fight-r1",
+ "verdict": "CLEAR",
+ "decisions": [
+  {
+   "finding_id": "ed-b1-ch12-fight-001",
+   "decision": "VERIFIED",
+   "evidence_checked": [
+    "drafts/ch12-fight.md line 15: skin-property image present",
+    "packet invention_budget: forearm-light description limited to 'faint, visible only if looking for it'"
+   ],
+   "reason": "Image exceeded approved description. Orchestrator applied the editor's repair_target (neutralized to faintness+attentive-observer only). CLEAR post-repair."
+  }
+ ]
+}

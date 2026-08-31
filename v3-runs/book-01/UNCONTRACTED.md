@@ -1,2 +1,3 @@
 - 22:13 UNCONTRACTED: B1 CHAPTER_ARCHITECTURE.md line ~200 stale — places ch12 borrowed-movement in exchange 2 and names 'Wind-adjacent instinct' (published text: exchange 4, unnamed; naming would violate B3 SECRET reveal schedule). Fix in housekeeping pass.
 - 04:53 UNCONTRACTED: orchestrator applied one-word ch17 repair (E01) and exercised the CH08-ED-001 human decision point (Vell-ledger obligation redefined as off-page state; packet amended)
+- 05:18 UNCONTRACTED: orchestrator applied ch12 LOW trim + exercised ch23 BLOCKER decision (inference-framing repair instead of canon exception)

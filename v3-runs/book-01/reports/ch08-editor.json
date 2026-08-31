@@ -1,63 +1,63 @@
 {
   "schema_version": "3.1",
-  "run_id": "b1-ch08-fight-r1",
+  "run_id": "b1-ch08-fight-r2-recheck",
   "scene_id": "b1-ch08-fight",
-  "verdict": "STRUCTURAL_HOLD",
+  "verdict": "PASS",
   "gate_results": [
     {
       "gate": "Authority conflicts: canon, timeline, state, and invention budget",
-      "state": "FAIL",
-      "evidence": "The draft otherwise preserves the frozen age, rank, record, injury, ability, and reveal state, but line 57 establishes an unapproved Blade Path behavior and line 101 states an unapproved Renn history detail as fact."
+      "state": "PASS",
+      "evidence": "The repaired draft preserves the frozen age, rank, record, injury, ability, and reveal state. Line 57 keeps Renn's extension present as a visible counterweight during the sweep, and line 101 describes hauling strength as observation rather than biography."
     },
     {
       "gate": "Point-of-view integrity and viewpoint knowledge",
-      "state": "FAIL",
-      "evidence": "The scene remains in Cael's close third except for the categorical assertion at line 101 that Renn hauled things for a living before fighting, information outside Cael's declared knowledge boundary."
+      "state": "PASS",
+      "evidence": "The scene remains in Cael's close third. Repaired line 101 stays within observable build and grip, while lines 65-81 distinguish his immediate blankness from his later failed reconstruction without adding outside knowledge."
     },
     {
       "gate": "Assigned obligations: required beats and scene turn",
-      "state": "FAIL",
-      "evidence": "Most required beats are present, but the canon-critical third exchange gives Cael a conscious, process-backed read of the first committed strike at line 67, and the draft never establishes the required contents and tracking recommendation of Vell's private note at lines 115-117."
+      "state": "PASS",
+      "evidence": "All reader-facing obligations are present. Repaired lines 67-77 position Cael correctly for all three committed strikes with no conscious process from the heel-set onward. Per the recorded human packet decision for CH08-ED-001, Vell's note is an off-page state obligation satisfied by the deliberately extended private entry at lines 115-117."
     },
     {
       "gate": "Plants and payoffs",
       "state": "PASS",
-      "evidence": "Lines 69-81 and 89, reinforced by lines 141-151, keep the reading anomaly strange, unnamed, unresolved, and non-repeatable; no payoff is assigned in this scene."
+      "evidence": "Lines 67-81 and 89, reinforced by lines 141-151, keep the reading anomaly strange, unnamed, unresolved, involuntary, and non-repeatable; no payoff is assigned here."
     },
     {
       "gate": "Prohibited outcomes",
-      "state": "FAIL",
-      "evidence": "The bout outcome, exchange count, injuries, names, secrets, and absence of a Path or fragment all comply, but line 101 implies knowledge outside Cael's packet-defined boundary."
+      "state": "PASS",
+      "evidence": "The outcome, four-exchange count, injuries, names, secrets, and absence of a Path or fragment comply. The hauling repair removes unprovided biography, and exchange 4 denies control of the anomaly."
     },
     {
       "gate": "Causality and earned resolution",
       "state": "PASS",
-      "evidence": "Cael's ordinary improvement follows observation of Renn's heel tell at lines 39-59; the unexplained anomaly creates no escape, produces no hit, fails to recur at line 89, and Renn ends the bout causally at lines 89-95."
+      "evidence": "Cael's ordinary improvement follows observation of Renn's heel tell at lines 39-59. The unexplained anomaly creates no escape or hit, fails to recur at line 89, and Renn ends the bout causally at lines 89-95."
     },
     {
       "gate": "Continuity persistence and closing state",
       "state": "PASS",
-      "evidence": "Lines 97 and 153 carry forward exactly the bruised shoulder, bruised ribs, and unremembered forearm scrape, with nothing broken and worse soreness expected the next day; lines 103-123 establish the rematch offer and Vell's private writing without giving its contents to Cael."
+      "evidence": "Lines 97 and 153 carry forward exactly the bruised shoulder, bruised ribs, and unremembered forearm scrape, with nothing broken and worse soreness expected the next day; lines 103-123 preserve the rematch offer and Vell's private writing."
     },
     {
       "gate": "Character, emotional movement, and voice charter",
       "state": "PASS",
-      "evidence": "Cael's practical cataloguing attention drives the scene, Renn escalates from routine practice to professional respect, and Lira's questioning changes from tactical coaching to protective suspicion without losing her distinct cadence."
+      "evidence": "Cael's practical cataloguing drives the scene, Renn escalates from routine practice to professional respect, and Lira shifts from tactical coaching to protective suspicion without losing her distinct cadence."
     },
     {
       "gate": "Audio survival",
       "state": "PASS",
-      "evidence": "Ranks, the Blade Path extension, exchange sequence, anomaly, injuries, and rematch terms remain intelligible aloud; typography supplies emphasis rather than indispensable meaning."
+      "evidence": "Ranks, the Blade Path extension, the four exchanges, the anomaly, injuries, and rematch terms remain intelligible aloud; typography supplies emphasis rather than indispensable meaning."
     },
     {
       "gate": "Production hygiene and target length",
       "state": "PASS",
-      "evidence": "The deterministic diagnostic reports 4,486 words, within the permitted 3,760-5,640 range, and the draft contains no production notes or unresolved placeholders."
+      "evidence": "The repaired draft contains 4,595 whitespace-delimited words, within the permitted 3,760-5,640 range, and contains no production notes or unresolved placeholders."
     },
     {
       "gate": "Seam continuity",
       "state": "PASS",
-      "evidence": "The opening continues naturally from the walk toward Vell's table, and the closing injury, loss, lesson, and private-ledger setup support Chapter 9's three-week time skip and account of progressively informative losses."
+      "evidence": "The opening continues naturally from the walk toward Vell's table, and the closing injury, loss, lesson, and private-ledger setup support Chapter 9's three-week time skip and progressively informative losses."
     },
     {
       "gate": "Combat 1: Stakes precede the decisive exchange",
@@ -67,12 +67,12 @@
     {
       "gate": "Combat 2: Positions and movement remain sufficiently legible",
       "state": "PASS",
-      "evidence": "The circle, rope, lit center, and opposing start positions are established at lines 21-35, while each exchange tracks Cael's line, balance, exits, and Renn's range clearly."
+      "evidence": "The circle, rope, lit center, and opposing start positions are established at lines 21-35, while every exchange tracks Cael's line, balance, exits, and Renn's range."
     },
     {
       "gate": "Combat 3: Actions respect balance, reach, injury, equipment, and established ability",
-      "state": "FAIL",
-      "evidence": "Balance, reach, and accumulated injury are consistently legible, but line 57 has Renn extinguish the compressed-light extension in mid-motion, a Blade Path capability not established by the packet or approved context."
+      "state": "PASS",
+      "evidence": "Balance, reach, and accumulated injury remain legible. Repaired line 57 uses the still-present extension as counterweight during the low sweep, removing the unapproved instant-dismissal behavior while preserving the sweep's mechanics."
     },
     {
       "gate": "Combat 4: Named combatants use distinguishable tactics consistent with character",
@@ -82,12 +82,12 @@
     {
       "gate": "Combat 5: The pivotal decision and its consequence are causally legible",
       "state": "PASS",
-      "evidence": "Cael's deliberate decision to observe rather than score yields the heel and shoulder-reset map, while the anomalous movement is explicitly not a decision and yields no offense; Renn's choice to stop probing then produces the decisive fourth-exchange blow."
+      "evidence": "Cael's deliberate early observation yields the heel and shoulder-reset map. Lines 67-77 clearly mark the pivotal anomaly as not a decision and give it no offense; Renn's choice to stop probing produces the decisive fourth-exchange blow."
     },
     {
       "gate": "Combat 6: The fight changes at least one non-damage story state",
       "state": "PASS",
-      "evidence": "The loss changes Cael's tactical knowledge, Renn's regard and future interest, Lira's assessment, and Vell's attention, culminating in the month-out rematch offer."
+      "evidence": "The loss changes Cael's tactical knowledge, Renn's regard and future interest, Lira's assessment, and Vell's attention, culminating in the sincere month-out rematch offer."
     },
     {
       "gate": "Combat 7: Persistent costs are recorded for the next state snapshot",
@@ -97,7 +97,7 @@
     {
       "gate": "Progression 1: Advancement has an intelligible cause and recorded delta",
       "state": "PASS",
-      "evidence": "Observation of the rear-heel tell produces the exchange-2 improvement at lines 51-59, and Cael records the resulting opponent-specific map aloud and internally at lines 135 and 155."
+      "evidence": "Observation of the rear-heel tell produces exchange-2 improvement at lines 51-59, and Cael records the opponent-specific map aloud and internally at lines 135 and 155."
     },
     {
       "gate": "Progression 2: Cost or tradeoff is visible when the system promises one",
@@ -122,12 +122,12 @@
     {
       "gate": "Progression 6: Repeated challenges differ in tactical, emotional, or social problem",
       "state": "PASS",
-      "evidence": "The four exchanges progress from late tell recognition, to improved reading against a sweep, to an impossible three-strike figure, to a faster closing combination with no probes."
+      "evidence": "The four exchanges progress from late tell recognition, to improved reading against a sweep, to an involuntary three-strike anomaly, to a faster closing combination with no probes."
     },
     {
       "gate": "Progression 7: Setbacks generate changed behavior or understanding",
       "state": "PASS",
-      "evidence": "Each lost exchange changes Cael's next read, and the completed loss becomes the specific tactical map articulated at lines 135 and 155 rather than repetitive suffering."
+      "evidence": "Each lost exchange changes Cael's next read, and the completed loss becomes the tactical map articulated at lines 135 and 155 rather than repetitive suffering."
     },
     {
       "gate": "LitRPG 1: Every system display has an owner and an in-world trigger",
@@ -137,7 +137,7 @@
     {
       "gate": "LitRPG 2: Values match the approved state snapshot and delta history",
       "state": "PASS",
-      "evidence": "Cael is fourteen, unrated, and has nothing to register; Renn is Copper Rank Three with eleven fights and eight wins, exactly matching the packet. No ability or fragment delta is claimed."
+      "evidence": "Cael is fourteen, unrated, and has nothing to register; Renn is Copper Rank Three with eleven fights and eight wins. No ability or fragment delta is claimed."
     },
     {
       "gate": "LitRPG 3: The display remains understandable aloud",
@@ -157,114 +157,29 @@
     {
       "gate": "LitRPG 6: Combinations use established components or carry an approved exception",
       "state": "NOT_APPLICABLE",
-      "evidence": "No system capability or fragment combination is used; Renn's multi-strike figures are ordinary combat choreography rather than a LitRPG component combination."
+      "evidence": "No system capability or fragment combination is used; Renn's multi-strike figures are ordinary combat choreography."
     },
     {
       "gate": "LitRPG 7: Rank has non-combat consequences where the scene makes rank relevant",
       "state": "PASS",
-      "evidence": "Renn's Copper Rank Three and Cael's unrated debut govern matchmaking, crowd expectations, Vell's record, the meaning of survival time, and the value of the proposed rematch, not damage alone."
+      "evidence": "Renn's Copper Rank Three and Cael's unrated debut govern matchmaking, crowd expectations, Vell's record, the meaning of survival time, and the value of the proposed rematch."
     }
   ],
-  "findings": [
-    {
-      "id": "CH08-ED-001",
-      "status": "PROPOSED",
-      "severity": "BLOCKER",
-      "category": "packet_conflict",
-      "gate": "Assigned obligations: required beats and scene turn",
-      "draft_evidence": {
-        "path": "v3-runs/book-01/drafts/ch08-fight.md",
-        "line_start": 115,
-        "line_end": 117,
-        "quote": "Vell was writing. Cael stood and waited while she finished the entry, and it occurred to him, watching the pen, that it was taking longer than a result should take. [...] She closed the ledger. Whatever was in it stayed in it."
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-01/packets/ch08-editor-prompt.md",
-        "line_start": 565,
-        "line_end": 565,
-        "quote": "Vell privately records in her ledger -- not shown to Cael -- that the exchange 2-3 movement pattern is flagged for observation as reading faster than exposure should produce, with a recommendation for continued tracking"
-      },
-      "consequence": "The draft proves only that Vell writes an unusually long private entry; it never establishes the required exchange-2-to-3 observation, the exposure comparison, or the continued-tracking recommendation. Establishing those contents for the reader would require leaving Cael's mandated close third or giving him knowledge expressly barred at packet lines 530 and 535, so the work order has no compliant reader-facing execution as written.",
-      "repair_target": "Obtain a human packet decision: either redefine this as an off-page state obligation satisfied by the unseen entry, or approve a bounded document/POV device that exposes Vell's note to the reader without exposing it to Cael. Do not solve it by letting Cael infer or learn the contents.",
-      "confidence": "HIGH"
-    },
-    {
-      "id": "CH08-ED-002",
-      "status": "PROPOSED",
-      "severity": "HIGH",
-      "category": "assigned_obligation",
-      "gate": "Assigned obligations: required beats and scene turn",
-      "draft_evidence": {
-        "path": "v3-runs/book-01/drafts/ch08-fight.md",
-        "line_start": 67,
-        "line_end": 67,
-        "quote": "Cael read it clean, cleaner than the second exchange, the quarter second wide and usable, and he moved off the line of the committed strike as it came — that much was his, that much had process behind it, watching and paying and moving."
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-01/packets/ch08-editor-prompt.md",
-        "line_start": 560,
-        "line_end": 560,
-        "quote": "Cael's body arrives correctly positioned for all three strikes anyway, faster and more precisely than his actual exposure to Renn could explain, with no conscious process behind it -- this is the unexplained reading-speed anomaly and the chapter's canon-critical beat"
-      },
-      "consequence": "The canon-critical beat is narrowed to the second and third strikes, while the first strike is explicitly ordinary, conscious improvement. That changes the required scale of the first on-page anomaly and gives the reader a process-backed component where the packet requires all-three positioning without conscious process.",
-      "repair_target": "Restage the start of exchange 3 so Cael is correctly positioned for the full three-strike chain without identifying a conscious read or deliberate movement for any of the three, while preserving his inability to attack and the anomaly's failure to recur in exchange 4.",
-      "confidence": "HIGH"
-    },
-    {
-      "id": "CH08-ED-003",
-      "status": "PROPOSED",
-      "severity": "MEDIUM",
-      "category": "pov_knowledge",
-      "gate": "Point-of-view integrity and viewpoint knowledge",
-      "draft_evidence": {
-        "path": "v3-runs/book-01/drafts/ch08-fight.md",
-        "line_start": 101,
-        "line_end": 101,
-        "quote": "Cael took it and was hauled up with the easy strength of a man who hauled things for a living before he fought for one."
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-01/packets/ch08-editor-prompt.md",
-        "line_start": 536,
-        "line_end": 536,
-        "quote": "Cael knows only what Lira told him in the hour before the match about Renn: Blade Path manifests as a compressed-light extension roughly eight inches longer than a hand's reach, faster than steel because it isn't fighting metal's weight, and the general shape of Blade Path fighters as a category -- nothing about Renn's specific record beyond what Vell states (eleven fights this season, eight wins)"
-      },
-      "consequence": "A physical inference introduced as a simile at line 25 hardens here into a factual employment history. The close-third narration therefore gives Cael unprovided knowledge and creates unapproved Renn history that later continuity could accidentally inherit.",
-      "repair_target": "Keep the freight image explicitly comparative or observational; do not assert that Renn actually hauled freight unless that history is approved and supplied to Cael.",
-      "confidence": "HIGH"
-    },
-    {
-      "id": "CH08-ED-004",
-      "status": "PROPOSED",
-      "severity": "MEDIUM",
-      "category": "invention_budget",
-      "gate": "Combat 3: Actions respect balance, reach, injury, equipment, and established ability",
-      "draft_evidence": {
-        "path": "v3-runs/book-01/drafts/ch08-fight.md",
-        "line_start": 57,
-        "line_end": 57,
-        "quote": "Renn had thrown himself low instead, the extension winking out mid-motion and the whole of that freight-carrier frame swinging leg-first through the space where Cael's ankles should have been."
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-01/packets/ch08-editor-prompt.md",
-        "line_start": 593,
-        "line_end": 593,
-        "quote": "Any new canon fact about Blade Path or the circuit's rules beyond what is specified in this packet"
-      },
-      "consequence": "The draft establishes that a Blade Path fighter can extinguish the extension instantaneously inside an attacking motion. That is a tactically meaningful capability beyond the approved description and could constrain later Blade Path choreography without approval.",
-      "repair_target": "Either obtain approval for instantaneous mid-motion dismissal of the Blade Path extension or choreograph the low sweep without establishing that new capability.",
-      "confidence": "MEDIUM"
-    }
-  ],
+  "findings": [],
   "concerns": [
-    "The retrospective forecast at line 65 (including Cael later lying awake) briefly widens the temporal distance of an otherwise immediate close-third scene; it is clear, but worth retaining only if that small narrative pullback is intentional.",
-    "Ledger, filing, columns, accounting, and invoicing form an effective Cael-specific metaphor system, but they recur densely in the final third; a later line pass should check that the motif remains cumulative rather than self-echoing."
+    "The retrospective forecast at line 65, including Cael later lying awake, briefly widens the temporal distance of an otherwise immediate close-third scene; it is clear, but worth retaining only if that small narrative pullback is intentional.",
+    "Ledger, filing, columns, accounting, and invoicing form an effective Cael-specific metaphor system, but recur densely in the final third; a later line pass should check that the motif remains cumulative rather than self-echoing."
   ],
   "strengths": [
-    "The fight is visually legible from the circle setup through all four exchanges, and each exchange poses a distinct tactical problem rather than merely increasing speed.",
-    "Cael's practical attention controls description and causality: heel load, shoulder reset, reach correction, and missed scoring windows turn competence into observable decisions.",
-    "The anomaly remains strange, isolated, unnamed, non-repeatable, and useless as an escape hatch; exchange 4 explicitly denies Cael control and preserves the required loss.",
+    "RECHECKED CH08-ED-001: resolved at packet level by the recorded human decision redefining Vell's private ledger entry as off-page state; lines 115-117 preserve Cael's knowledge boundary and require no prose repair.",
+    "RECHECKED CH08-ED-002: repaired lines 67-77 position Cael correctly for all three strikes without a completed conscious read or decision from the heel-set onward; the anomaly still produces no hit and fails to recur in exchange 4.",
+    "RECHECKED CH08-ED-003: repaired line 101 makes Renn's hauling strength explicitly observational and no longer asserts an unapproved biography.",
+    "RECHECKED CH08-ED-004: repaired line 57 keeps the extension visible and mechanically useful as counterweight, eliminating the invented instant-dismissal capability without disrupting exchange 2.",
+    "The fight remains visually legible through all four exchanges, and each exchange poses a distinct tactical problem rather than merely increasing speed.",
+    "Cael's practical attention still controls description and causality: heel load, shoulder reset, reach correction, and missed scoring windows turn competence into observable decisions.",
+    "The anomaly remains strange, isolated, unnamed, non-repeatable, and useless as an escape hatch; the repaired opening strengthens that effect while exchange 4 explicitly denies control.",
     "Renn's escalation and sincere rematch offer change rivalry and standing beyond damage, while Lira's analysis advances trust without resolving the mystery.",
-    "Injury and recovery accounting are exact and persistent, with the bruised shoulder, bruised ribs, and forearm scrape carried into the walk home and next-day expectation.",
-    "The ending converts defeat into Cael's signature learning method while preserving the one event he cannot yet sort, creating changed pressure without explaining the final beat."
+    "Injury and recovery accounting remain exact and persistent, with the bruised shoulder, bruised ribs, and forearm scrape carried into the walk home and next-day expectation.",
+    "The ending still converts defeat into Cael's signature learning method while preserving the one event he cannot sort, creating changed pressure without explaining the final beat."
   ]
 }

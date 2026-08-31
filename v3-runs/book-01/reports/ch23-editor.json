@@ -1,0 +1,194 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b1-ch23-fight-r1",
+  "scene_id": "b1-ch23-fight",
+  "verdict": "STRUCTURAL_HOLD",
+  "gate_results": [
+    {
+      "gate": "Authority and invention budget",
+      "state": "FAIL",
+      "evidence": "Draft lines 35-37 establish a specific Iron Path load route through Darrow's planted stance, back leg, and a low-left rib-to-hip crossing, and lines 97, 127, 153, 187, and 194 make that invented mechanism the causal basis of the victory. The packet permits strike placement and choreography but separately requires approval for new facts about Darrow's technique (compiled prompt lines 590-593); the packet records no exception (line 643)."
+    },
+    {
+      "gate": "Assigned obligations, plants, payoffs, and prohibited outcomes",
+      "state": "PASS",
+      "evidence": "The draft stages four exchanges; Cael wins by incapacitation in the fourth (lines 165-204); both established fragments arrive together instinctively and only once (lines 169-185); the physical cost persists (lines 185, 266); Darrow and Lira deliver their required reactions (lines 218-254); public visibility changes (lines 258-264); and the exact notebook line closes the scene (line 291). No later-chapter registry flag, watcher, or academy material appears."
+    },
+    {
+      "gate": "Point-of-view integrity and knowledge boundary",
+      "state": "PASS",
+      "evidence": "Close-third narration remains inside Cael's bodily perception and inference. He reads Darrow live, explicitly fails to choose or explain the concurrence (lines 167-185), answers that he does not fully know (lines 228-232), and still cannot describe or reproduce the mechanism that night (lines 285-291)."
+    },
+    {
+      "gate": "Continuity persistence and frozen state",
+      "state": "PASS",
+      "evidence": "Wind-adjacent and Pressure-adjacent are the only fragments used (lines 141, 173-179, 272-275); the concurrence remains partial and unexplained; Cael retains only rib/bruising-level injury and disorientation (lines 185, 266); and Darrow rises and leaves under his own power (lines 218-236)."
+    },
+    {
+      "gate": "Causal legibility and earned resolution",
+      "state": "PASS",
+      "evidence": "Feryn's psychological scouting and Lira's precision drill are established before the bout (lines 21-49), then tested through repeated strikes at the selected location (lines 97-153). Darrow adapts, commits, becomes disoriented by the established fragments' first concurrence, and Cael consciously spends that opening on the finishing strike (lines 161-198). The scene-level causal chain is legible, subject to approval of the newly specified Iron Path mechanics."
+    },
+    {
+      "gate": "Consequential scene and emotional movement",
+      "state": "PASS",
+      "evidence": "Cael enters uncertain whether visibility can protect him (lines 11-13) and exits as a named person greeted across the district (lines 258-264). Darrow's composure changes to respect and unsettlement (lines 218-234), while Lira's suppressed fear becomes explicit after the call (lines 238-254)."
+    },
+    {
+      "gate": "Voice charter and character differentiation",
+      "state": "PASS",
+      "evidence": "Cael's counting, tactical accounting, and bodily attention remain viewpoint-specific; Lira speaks through coaching and protective control; Feryn shifts from showman to scout; Darrow retains professional restraint; and Vell's sparse authority remains distinct. The sustained accounting imagery is noted as a concern, not a verified voice break."
+    },
+    {
+      "gate": "Audio survival",
+      "state": "PASS",
+      "evidence": "Fighter names, ranks, exchange sequence, ruling, and fragment notice all remain intelligible when spoken. The system display at lines 272-275 carries its meaning in words rather than relying on alignment, color, or other typography-only distinctions."
+    },
+    {
+      "gate": "Production hygiene and target length",
+      "state": "PASS",
+      "evidence": "Deterministic diagnostics declare 7,294 words against the allowed 5,776-8,664 range. The manuscript contains no drafting placeholders, editorial notes, or malformed section artifacts, and its final line is the required notebook sentence."
+    },
+    {
+      "gate": "Combat 1: Stakes precede the decisive exchange",
+      "state": "PASS",
+      "evidence": "The opening makes the roughly three hundred witnesses the practical point of the bout and states that visibility may create friction against disappearance (lines 3-13), while the betting odds and Bronze-versus-assessed-Copper mismatch establish immediate fight stakes (lines 15-33)."
+    },
+    {
+      "gate": "Combat 2: Positions and movement remain sufficiently legible",
+      "state": "PASS",
+      "evidence": "The widened chalk circle, center, edge, retreat lanes, guarded left side, rope, and fourth-exchange approach provide usable anchors (lines 3, 65-81, 109-141, 161-169). Cael's final two-step close inside Darrow's dead arm is spatially traceable (lines 190-194)."
+    },
+    {
+      "gate": "Combat 3: Actions respect balance, reach, injury, equipment, and established ability",
+      "state": "PASS",
+      "evidence": "Darrow roots and reorganizes before force generation (lines 81, 161-167); the combined response fails to cancel the full impact (lines 179-185); Darrow's returned force costs him balance; and Cael exploits only the resulting half-second after explicitly recalling the balance rule (lines 187-194). No new fragment or equipment appears."
+    },
+    {
+      "gate": "Combat 4: Named combatants use distinguishable, character-consistent tactics",
+      "state": "PASS",
+      "evidence": "Darrow receives, redistributes, controls space, audits the threat, and escalates with professional economy (lines 81-159). Cael measures, accumulates precise strikes, counts recovery time, and chooses placement over power (lines 85-194)."
+    },
+    {
+      "gate": "Combat 5: The pivotal decision and consequence are causally legible",
+      "state": "PASS",
+      "evidence": "The fragment concurrence itself is involuntary (lines 171-179), but the required pivotal choice is explicit: Cael decides not to surrender the opening, closes in two steps, and lands the tenth precise strike; Darrow's depleted structure then fails to rise (lines 190-198)."
+    },
+    {
+      "gate": "Combat 6: The fight changes a non-damage story state",
+      "state": "PASS",
+      "evidence": "The result turns Cael into a publicly known person whom hundreds would notice missing (lines 258-264), earns Darrow's respect and open curiosity (lines 218-234), and changes Lira's understanding of the fragments' behavior (lines 238-254)."
+    },
+    {
+      "gate": "Combat 7: Persistent costs are recorded for the next state snapshot",
+      "state": "PASS",
+      "evidence": "The night scene records deep right-side bruising from rib to hip, pain on breathing, an expected week of recovery, and a fading but unresolved visual wobble (line 266); Cael's tactical log repeats ribs, a week down, and vision wobble (line 283)."
+    },
+    {
+      "gate": "Progression 1: Advancement has an intelligible cause and recorded delta",
+      "state": "PASS",
+      "evidence": "Two weeks of preparation, prior Wind and Pressure acquisitions, deliberate accumulation, and an instinctive first concurrence produce the win (lines 21-49, 97-198). The system records concurrent function as partial integration (lines 268-275), and the public-standing delta is concrete (lines 258-264)."
+    },
+    {
+      "gate": "Progression 2: Cost or tradeoff is visible when promised",
+      "state": "PASS",
+      "evidence": "The concurrence redirects only part of Darrow's strike, leaving bone-deep rib pain and visual disorientation (lines 179-185), followed by a week-long bruising and training interruption (lines 250-266)."
+    },
+    {
+      "gate": "Progression 3: Progress changes something outside the measuring system",
+      "state": "PASS",
+      "evidence": "Beyond the fragment notice and circuit result, Cael gains visibility across the district, Darrow's respect, and a changed shared understanding with Lira (lines 218-264)."
+    },
+    {
+      "gate": "Progression 4: Major victories do not depend on an unestablished capability",
+      "state": "PASS",
+      "evidence": "The victory uses only the Wind-adjacent and Pressure-adjacent fragments already established by the frozen state. Their concurrent use is the packet-assigned first combination, not a third fragment, and the prose denies mastery or prior rehearsal (lines 169-179, 272-291)."
+    },
+    {
+      "gate": "Progression 5: Rivals and institutions do not freeze for the protagonist",
+      "state": "PASS",
+      "evidence": "Darrow notices the repeated target, changes his guard, compresses Cael's available space, prices in the Wind evasion, and commits to a bout-ending strike (lines 119-169). Vell enforces and records the outcome rather than favoring Cael (lines 200-204)."
+    },
+    {
+      "gate": "Progression 6: Repeated challenges differ in tactical, emotional, or social problem",
+      "state": "PASS",
+      "evidence": "This bout presents an absorb-and-redistribute opponent who makes direct damage and learned futility the problem, requiring accumulation at one gap, while the larger goal is public visibility rather than a routine circuit win (lines 11-37, 81-159)."
+    },
+    {
+      "gate": "Progression 7: Setbacks generate changed behavior or understanding",
+      "state": "PASS",
+      "evidence": "Cael's earlier loss to Feryn has yielded the Pressure-adjacent fragment and Feryn's active scouting role; in this scene, Cael uses both that source and Lira's drills rather than repeating a raw-force approach (lines 21-49, 173-194). The new cost produces a planned recovery and cautious investigation rather than immediate repetition (lines 250-291)."
+    },
+    {
+      "gate": "LitRPG 1: Every system display has an owner and an in-world trigger",
+      "state": "PASS",
+      "evidence": "Cael alone perceives the fragment notice in his room after the bout, and narration explicitly ties it to the same half-second of concurrent fragment use (lines 266-279)."
+    },
+    {
+      "gate": "LitRPG 2: Values match the approved state snapshot and delta history",
+      "state": "PASS",
+      "evidence": "The display names only the approved Wind-adjacent and Pressure-adjacent fragments, records concurrent function, keeps integration partial, and assigns no standard tier (lines 272-275), consistent with the frozen Book 1 ability and rank state."
+    },
+    {
+      "gate": "LitRPG 3: The display remains understandable aloud",
+      "state": "PASS",
+      "evidence": "Read aloud, the notice communicates two unnamed adjacent fragments, concurrent function, partial integration, and unknown tier without depending on columns, color, icons, or spatial arrangement (lines 272-275)."
+    },
+    {
+      "gate": "LitRPG 4: The display changes the scene or can be cut",
+      "state": "PASS",
+      "evidence": "The notice records that the hidden system observed the concurrence while refusing to explain it, creating a state-ledger delta and sharpening Cael's frustration with an unanswerable system (lines 268-279)."
+    },
+    {
+      "gate": "LitRPG 5: Hidden information is withheld consistently",
+      "state": "PASS",
+      "evidence": "The notice records only occurrence and partial integration. It supplies no mechanism, new fragment label, repeatability, tier, registry information, or later-chapter secret, and Cael remains unable to explain the event (lines 272-291)."
+    },
+    {
+      "gate": "LitRPG 6: Combinations use established components or an approved exception",
+      "state": "PASS",
+      "evidence": "The concurrence combines only the previously acquired Wind-adjacent and Pressure-adjacent fragments (lines 169-179, 272-275); no additional component is introduced."
+    },
+    {
+      "gate": "LitRPG 7: Rank has non-combat consequences where relevant",
+      "state": "PASS",
+      "evidence": "Vell announces assessed-Copper against Bronze Rank One and the mismatch drives betting and crowd interpretation (lines 15-29, 67-69). Winning across that rank gap changes Cael's public identity and visibility across Ardenmere (lines 258-264)."
+    }
+  ],
+  "findings": [
+    {
+      "id": "b1-ch23-fight-r1-editor-001",
+      "status": "PROPOSED",
+      "severity": "BLOCKER",
+      "category": "authority/invention-budget",
+      "gate": "Authority and invention budget",
+      "draft_evidence": {
+        "path": "v3-runs/book-01/drafts/ch23-fight.md",
+        "line_start": 35,
+        "line_end": 37,
+        "quote": "Power went in and Darrow's body drank it, spread it, sent it down through that planted stance into the ground... Everything Darrow took traveled the same road — across, down, out through the braced back leg... Low on the left side, where the ribs handed their load to the hip."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-01/packets/ch23-editor-prompt.md",
+        "line_start": 590,
+        "line_end": 593,
+        "quote": "approval_required: New facts about Darrow's technique, background, or history beyond what canon and the state ledger establish..."
+      },
+      "consequence": "The draft converts the packet's unspecified structural gap into canonically specific Iron Path anatomy and makes the entire accumulation strategy, redirect, disorientation, and finishing blow depend on that load-routing rule. Because the packet reserves new facts about Darrow's technique for approval and records no exception, the scene cannot safely advance with this mechanism asserted as fact.",
+      "repair_target": "Obtain an explicit human exception for the planted-stance/back-leg/rib-to-hip load-routing mechanic, or preserve the required repeated strike placement and visible compounding gap without asserting unapproved Iron Path physics.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "At draft line 250, Lira says she was already through the rope and two steps in before the bout was called. The venue has both a rope and a chalk circle, so the exact boundary is ambiguous; clarify the staging if needed so listeners do not infer spectator interference or a circuit-rule breach.",
+    "The account/ledger/road imagery coheres with Cael and Darrow, but it remains active through briefing, all four exchanges, the fall, Darrow's explanation, and the aftermath. A later line pass should test whether a few repetitions can be removed without weakening the strong central motif."
+  ],
+  "strengths": [
+    "The four-exchange structure is exceptionally legible: measurement, accumulation, adversary adaptation, then committed escalation and a narrow finish.",
+    "The victory has receipts. Lira's precision-over-power drilling and Feryn's psychological scouting visibly govern Cael's choices rather than serving as retrospective explanation.",
+    "The concurrence is handled with the required boundary discipline: involuntary first arrival, partial mitigation, real cost, no new fragment, and no claim of repeatability or understanding.",
+    "Darrow remains a credible professional through defeat. He adapts during the bout, falls by depletion rather than humiliation, rises under his own power, and pays respect without acquiring Cael's voice.",
+    "The visibility strategy pays off through concrete social behavior—greetings, retellings, touch, and people who would ask questions—while the prose correctly refuses to claim that the Compact threat itself has changed.",
+    "The final notebook sequence preserves uncertainty and lands the exact required line without appending an explanatory coda."
+  ]
+}
