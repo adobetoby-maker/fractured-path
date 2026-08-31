@@ -1,10 +1,10 @@
 {
   "schema_version": "3.1",
-  "run_id": "b2-ch21-fight-r1",
+  "run_id": "b2-ch21-fight-r2",
   "scene_id": "b2-ch21-fight",
   "status": "DONE",
   "draft_path": "v3-runs/book-02/drafts/ch21-fight.md",
-  "word_count": 6518,
+  "word_count": 6519,
   "obligations": [
     {
       "obligation": "Cael wins the bout in the fourth exchange by forced incapacitation, matching Vell's ruling exactly",
@@ -14,7 +14,7 @@
     {
       "obligation": "Reydan's established fighting identity: burst-compression Pressure Path, minimal wind-up, exchange-to-exchange adaptation, fourth-exchange escalation to a sustained multi-burst volume sequence",
       "status": "MET",
-      "evidence": "Ex1 probing single bursts with no wind-up ('there was no wind-up'); ex2 same-signature/new-angle adaptation exploiting the evasion seam; ex3 recalibration under Cael's offense; ex4 deliberate shift to metronome volume ('seven bursts and a breath and seven more') designed to drain the evasion framework rather than outmatch it."
+      "evidence": "Ex1 probing single bursts with no wind-up ('there was no wind-up'); ex2 same-signature/new-angle adaptation exploiting the evasion seam; ex3 recalibration under Cael's offense; ex4 deliberate shift to metronome volume ('he was going to throw a climate') designed to drain the evasion framework rather than outmatch it, its sustained design legible from the opening grammar of the sequence."
     },
     {
       "obligation": "Fragment 4 (Compression-adjacent) preview surfaces exactly as bounded: unrehearsed completion of the drilled Pressure-adjacent redirect turning Reydan's force back through its origin; genuinely anomalous, real physical cost, never named or recognized as a new/fourth fragment",
@@ -64,7 +64,7 @@
     {
       "obligation": "PAYOFF: Lira's evasion drilling holds through three exchanges and is visibly degraded by the fourth exchange's volume sequence exactly as anticipated",
       "status": "MET",
-      "evidence": "The framework carries ex1-3 ('four inches, exactly four inches'); in ex4 the degradation is explicit and measured ('five inches, six... seven'), the bucket-with-a-hole arithmetic is named, and the volume sequence is what drains it."
+      "evidence": "The framework carries ex1-3 ('four inches, exactly four inches'); in ex4 the degradation is explicit and measured across the first two bursts ('the fold that should have been four inches ran five' / 'five inches, six' with the hip clip), the bucket-with-a-hole arithmetic is named, and the volume sequence is what drains it."
     },
     {
       "obligation": "PAYOFF: Cael's pre-bout fight plan — forcing repeated read-abandonments to pattern-break Reydan by the fourth exchange — is the tactical logic the win follows",
@@ -74,7 +74,7 @@
   ],
   "inventions": [
     "Crowd and venue texture within budget: the 'watch his feet' spectator, betting murmur changing registers, a bettor cashing out early, a bettor staring at his slip, an old regular by the east pillar revising his beliefs, the crowd riding the ex4 metronome beat, torchlight under the rafters, doors barred an hour before the bout (background action attributed to established character Dace, no dialogue)",
-    "Exchange-internal choreography consistent with the packet's four-exchange sequence: ex1 probing bursts interrogating angle/timing, ex2 paired bursts and a herding funnel toward the boundary rope, ex3 interior-range fencing including Reydan riding a strike into a point-blank counter and an elbow exchange, ex4 seven-burst metronome runs contracting the usable floor",
+    "Exchange-internal choreography consistent with the packet's four-exchange sequence: ex1 probing bursts interrogating angle/timing, ex2 paired bursts and a herding funnel toward the boundary rope, ex3 interior-range fencing including Reydan riding a strike into a point-blank counter and an elbow exchange, ex4 metronome volume sequence whose sustained climate design is legible from its first two bursts, with the redirect completion landing on the third",
     "Vell's interstitial officiating markers in her established cadence: 'First exchange,' 'Second exchange,' 'Third exchange,' each with the ledger pen scratch",
     "Silent continuity placement of Lira and Brom in the crowd (west side, second tier; Lira auditing Cael's footwork) — no dialogue, consistent with their established presence at the bout",
     "Sensory and physical fatigue/injury detail consistent with established injuries: bone-bell forearm impact, knuckle-shock accumulation, ragged breathing, whited vision at the redirect, locked-knee cost"
@@ -89,7 +89,10 @@
   ],
   "deviations": [
     "Vell's pre-fight announcement (both fighters, rules, no-kill) is not restated inside the draft because the validated seam-before text supplied with the packet contains it verbatim and ends on her hand dropping; the draft opens on the instant after the drop. The announcement half of the bookend obligation is therefore carried by the adjacent seam rather than duplicated on-page; the ruling half is on-page and verbatim.",
-    "The draft ends on Reydan's gathering stillness immediately before he looks up, by design, so that the supplied seam-after text ('Reydan, from the floor, looked up at him...') continues without overlap; his question and Cael's inability to answer it belong to that seam."
+    "The draft ends on Reydan's gathering stillness immediately before he looks up, by design, so that the supplied seam-after text ('Reydan, from the floor, looked up at him...') continues without overlap; his question and Cael's inability to answer it belong to that seam.",
+    "REPAIR r2 / E002 (HIGH, scene obligation): fourth exchange restructured so the unrehearsed completion lands on the third burst of the exchange itself, matching the packet's frozen turn. The ten-plus-burst run and 'third burst of the next sequence' decision were removed; the metronome's arithmetic is now legible to Cael within two bursts (second compression packing on the half-count exactly as the first promised), exhaustion and framework degradation are carried forward from the third exchange (five-inch then six-inch folds, hip clip on burst two), the climate conceit, crowd-countdown texture, and Lira hamstring voice are preserved, and the protected completion beat (gathering, return through the burst's origin, spent shoulder and dead arm) is unchanged. One downstream consistency tweak forced by the retiming: 'a metronome that had two more bursts in this sequence alone' became 'a metronome that was already packing again'.",
+    "REPAIR r2 / E003 (LOW, invention budget): removed 'never betting' from the scout description at the first-exchange pause; no replacement behavior added. She remains dress, back-of-crowd position, notebook, sustained attention, prior attendance only.",
+    "REPAIR r2 / authorized clarity edit: 'each one under full power and none of them needing to be otherwise' rephrased to 'none of them near full power and none of them needing to be' so the reduced-cost bursts cannot be misread as full-power bursts; consistent with 'each release cheap enough' later in the same paragraph."
   ],
   "blockers": []
 }

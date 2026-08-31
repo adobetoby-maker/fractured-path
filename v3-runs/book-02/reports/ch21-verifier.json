@@ -1,36 +1,36 @@
 {
-  "schema_version": "3.1",
-  "run_id": "b2-ch21-fight-r1-verify",
-  "scene_id": "b2-ch21-fight",
-  "editor_run_id": "b2-ch21-fight-r1",
-  "verdict": "REPAIR_REQUIRED",
-  "decisions": [
-    {
-      "finding_id": "b2-ch21-fight-r1-E001",
-      "decision": "REJECTED",
-      "evidence_checked": [
-        "drafts/ch21-fight.md line 127: 'each one under full power and none of them needing to be otherwise' — ambiguous phrase",
-        "drafts/ch21-fight.md line 133: 'each individual release cheap enough that he could sustain the rate for longer than Cael wanted to compute' — draft explicitly states reduced per-burst cost, matching the packet's volume-over-power strategy"
-      ],
-      "reason": "The claimed capability-ceiling contradiction does not survive a full read: the draft's mechanics are internally consistent with the packet (cheap sustained bursts). The flagged phrase is an ambiguity, not a continuity defect. Orchestrator notes the ambiguity for a clarity edit in the repair pass since the editor's own misreading demonstrates reader risk."
-    },
-    {
-      "finding_id": "b2-ch21-fight-r1-E002",
-      "decision": "VERIFIED",
-      "evidence_checked": [
-        "packets/ch21-fight.json scene_shape.turn: 'On the third burst of the fourth exchange... an unrehearsed completion finishes the motion for him' — frozen beat timing",
-        "drafts/ch21-fight.md lines 131-145: anomaly occurs on 'third burst of the next sequence' after ten-plus fourth-exchange bursts — ordinal violated"
-      ],
-      "reason": "Count re-run confirms the turn lands after >10 bursts, not on the exchange's third burst. The packet is frozen authority; later callbacks may identify the anomaly by its prescribed ordinal."
-    },
-    {
-      "finding_id": "b2-ch21-fight-r1-E003",
-      "decision": "VERIFIED",
-      "evidence_checked": [
-        "drafts/ch21-fight.md line 33: 'never betting' — behavior detail",
-        "packets/ch21-fight.json invention_budget: scout details limited to watching, notebook, sustained attention, dress, position"
-      ],
-      "reason": "Unapproved characterization beyond the declared budget for the not-yet-named scout."
-    }
-  ]
+ "schema_version": "3.1",
+ "run_id": "b2-ch21-fight-r1-verify",
+ "scene_id": "b2-ch21-fight",
+ "editor_run_id": "b2-ch21-fight-r1",
+ "verdict": "CLEAR",
+ "decisions": [
+  {
+   "finding_id": "b2-ch21-fight-r1-E001",
+   "decision": "REJECTED",
+   "evidence_checked": [
+    "drafts/ch21-fight.md line 127: 'each one under full power and none of them needing to be otherwise' \u2014 ambiguous phrase",
+    "drafts/ch21-fight.md line 133: 'each individual release cheap enough that he could sustain the rate for longer than Cael wanted to compute' \u2014 draft explicitly states reduced per-burst cost, matching the packet's volume-over-power strategy"
+   ],
+   "reason": "The claimed capability-ceiling contradiction does not survive a full read: the draft's mechanics are internally consistent with the packet (cheap sustained bursts). The flagged phrase is an ambiguity, not a continuity defect. Orchestrator notes the ambiguity for a clarity edit in the repair pass since the editor's own misreading demonstrates reader risk."
+  },
+  {
+   "finding_id": "b2-ch21-fight-r1-E002",
+   "decision": "VERIFIED",
+   "evidence_checked": [
+    "packets/ch21-fight.json scene_shape.turn: 'On the third burst of the fourth exchange... an unrehearsed completion finishes the motion for him' \u2014 frozen beat timing",
+    "drafts/ch21-fight.md lines 131-145: anomaly occurs on 'third burst of the next sequence' after ten-plus fourth-exchange bursts \u2014 ordinal violated"
+   ],
+   "reason": "Count re-run confirms the turn lands after >10 bursts, not on the exchange's third burst. The packet is frozen authority; later callbacks may identify the anomaly by its prescribed ordinal."
+  },
+  {
+   "finding_id": "b2-ch21-fight-r1-E003",
+   "decision": "VERIFIED",
+   "evidence_checked": [
+    "drafts/ch21-fight.md line 33: 'never betting' \u2014 behavior detail",
+    "packets/ch21-fight.json invention_budget: scout details limited to watching, notebook, sustained attention, dress, position"
+   ],
+   "reason": "Unapproved characterization beyond the declared budget for the not-yet-named scout."
+  }
+ ]
 }

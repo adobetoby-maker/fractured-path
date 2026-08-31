@@ -1,38 +1,38 @@
 {
   "schema_version": "3.1",
-  "run_id": "b2-ch21-fight-r1",
+  "run_id": "b2-ch21-fight-r2-recheck",
   "scene_id": "b2-ch21-fight",
-  "verdict": "PASS_WITH_FINDINGS",
+  "verdict": "PASS",
   "gate_results": [
     {
       "gate": "authority.canon_timeline_state",
-      "state": "FAIL",
-      "evidence": "Draft line 127 says every burst in Reydan's sustained fourth-exchange sequence is at full power, while the supplied chapter architecture at compiled prompt line 1198 specifies that the sequence is not at full power per burst. Other rank, fragment, injury, location, and sequence-state facts match the frozen context."
+      "state": "PASS",
+      "evidence": "E001 recheck: the verifier rejected the original capability-ceiling finding, and the applied clarity edit now removes the reader-risk ambiguity anyway. Draft lines 123-127 explicitly establish the opening burst at half power, the sustained sequence as 'none of them near full power,' and each release as cheap enough to sustain. Rank, fragment, injury, location, and sequence-state facts continue to match the frozen context."
     },
     {
       "gate": "authority.point_of_view_integrity",
       "state": "PASS",
-      "evidence": "The draft remains in close-third past from Cael's practical combat attention. The scout stays unnamed and unexplained (draft lines 31-35, 107-109, 193-195), Reydan's choices are presented as live tactical readings, and the anomaly remains something Cael cannot categorize (lines 153-159, 189-191)."
+      "evidence": "The draft remains in close-third past from Cael's practical combat attention. The scout stays unnamed and unexplained (draft lines 31-35, 107-109, 191-193), Reydan's choices are presented as live tactical readings, and the anomaly remains something Cael cannot categorize (lines 151-159, 187-189)."
     },
     {
       "gate": "obligations.required_outcome_and_ruling",
       "state": "PASS",
-      "evidence": "Reydan is consciously incapacitated in the fourth exchange at draft lines 171-177, and Vell gives the packet's exact ruling at line 181. The seam before supplies the formal announcement and no-kill rule."
+      "evidence": "Reydan is consciously incapacitated in the fourth exchange at draft lines 169-175, and Vell gives the packet's exact ruling at line 179. The seam before supplies the formal announcement and no-kill rule."
     },
     {
       "gate": "obligations.scene_turn",
-      "state": "FAIL",
-      "evidence": "The packet places the anomalous completion on the third burst of the fourth exchange (compiled prompt line 544). The draft has Cael evade at least ten bursts (lines 131-133) and then commits on the third burst of a later sequence (lines 145-153)."
+      "state": "PASS",
+      "evidence": "E002 recheck: resolved. The fourth exchange opens with burst one at draft lines 123 and 131, burst two clips Cael at line 133, Cael explicitly commits on 'The third burst' at line 143, meets it at lines 145-149, and the unrehearsed completion lands at line 151, matching the locked turn at compiled prompt line 544. The compressed timing remains causally legible: two identical intervals establish the rhythm, while prior exchanges have already degraded the framework and legs."
     },
     {
       "gate": "obligations.plants",
       "state": "PASS",
-      "evidence": "The redirect completion is anomalous, unrepeatable, unnamed, and costly at draft lines 153-177 and 189-191. The scout watches and records at key turns at lines 31-35, 107-109, and 193-195."
+      "evidence": "The redirect completion is anomalous, unrepeatable, unnamed, and costly at draft lines 151-175 and 187-189. The scout watches and records at key turns at lines 31-35, 107-109, and 191-193."
     },
     {
       "gate": "obligations.payoffs",
       "state": "PASS",
-      "evidence": "The Iron-equivalent benchmark is made explicit at lines 65 and 181-187; Brom's read succeeds and exposes its directional limit at lines 43-65; Lira's framework holds through three exchanges then degrades at lines 83-117 and 131-143; Cael counts three abandoned reads before exploiting Reydan's patterned volume response at lines 111-145."
+      "evidence": "The Iron-equivalent benchmark is made explicit at lines 65 and 179-185; Brom's read succeeds and exposes its directional limit at lines 43-65; Lira's framework holds through three exchanges then degrades at lines 83-117 and 131-143; Cael counts three abandoned reads before exploiting Reydan's patterned volume response at lines 111-145."
     },
     {
       "gate": "obligations.prohibited_outcomes",
@@ -41,13 +41,13 @@
     },
     {
       "gate": "invention_budget",
-      "state": "FAIL",
-      "evidence": "Draft line 33 adds that the scout was 'never betting.' The packet places new scout behavior beyond watching, notebook use, and sustained attention in approval_required (compiled prompt line 589), and no approval or exception is recorded."
+      "state": "PASS",
+      "evidence": "E003 recheck: resolved. Draft line 33 now limits the scout to her established dress, repeated attendance, back-of-room position, sustained attention, and notebook use; the unapproved 'never betting' history is gone. Her later watching and note-taking at lines 107-109 and 191 remain within the packet's invention budget."
     },
     {
       "gate": "core.causal_legibility",
       "state": "PASS",
-      "evidence": "Cael's training creates the warning, evasion, and drilled redirect; his three-read plan forces Reydan into a regular volume rhythm; the rhythm makes one burst predictable; the anomalous completion is offered rather than compulsory; Cael then chooses to drive forward and lock his knees (draft lines 111-169)."
+      "evidence": "Cael's training creates the warning, evasion, and drilled redirect; his three-read plan forces Reydan into a regular volume rhythm; the rhythm makes one burst predictable; the anomalous completion is offered rather than compulsory; Cael then chooses to drive forward and lock his knees (draft lines 111-167)."
     },
     {
       "gate": "core.earned_resolution",
@@ -57,12 +57,12 @@
     {
       "gate": "core.consequential_scene",
       "state": "PASS",
-      "evidence": "The win validates Cael's circuit rating against formal Iron rank eight, changes his public standing, gives him unresolved knowledge of a new anomaly, and intensifies the scout's attention (draft lines 181-195)."
+      "evidence": "The win validates Cael's circuit rating against formal Iron rank eight, changes his public standing, gives him unresolved knowledge of a new anomaly, and intensifies the scout's attention (draft lines 179-193)."
     },
     {
       "gate": "voice.character_emotional_movement",
       "state": "PASS",
-      "evidence": "Cael enters controlled and secretive, chooses to spend his known suite, then violates his own rule against untested techniques to win. He closes publicly validated but physically spent and privately unable to account for what happened (draft lines 75-81, 159-169, 185-195)."
+      "evidence": "Cael enters controlled and secretive, chooses to spend his known suite, then violates his own rule against untested techniques to win. He closes publicly validated but physically spent and privately unable to account for what happened (draft lines 75-81, 157-167, 183-193)."
     },
     {
       "gate": "voice.runtime_charter",
@@ -77,7 +77,7 @@
     {
       "gate": "production.word_target_and_seams",
       "state": "PASS",
-      "evidence": "The deterministic diagnostic reports 6,518 words within the 5,352-8,028 target. Draft line 1 continues directly from the supplied hand-drop seam, and line 195 hands cleanly to Reydan looking up in the following seam."
+      "evidence": "The deterministic diagnostic reports 6,519 words within the 5,352-8,028 target. Draft line 1 continues directly from the supplied hand-drop seam, and line 193 hands cleanly to Reydan looking up in the following seam."
     },
     {
       "gate": "combat.1_stakes_precede_decisive_exchange",
@@ -91,8 +91,8 @@
     },
     {
       "gate": "combat.3_balance_reach_injury_equipment_ability",
-      "state": "FAIL",
-      "evidence": "Balance, reach, and Cael's accumulated injuries are otherwise tracked carefully, but draft line 127 makes every sustained burst full power, contradicting the approved reduced-per-burst volume design at compiled prompt line 1198 and materially changing Reydan's established resource tradeoff."
+      "state": "PASS",
+      "evidence": "E001 recheck: draft lines 123-127 make the power-versus-volume tradeoff explicit: the opening burst is half power, none of the sequence is near full power, and each release is cheap enough to sustain. Cael's late second evasion and clipped hip at line 133 preserve balance consequence, while the closing inventory at lines 185-187 retains every accumulated injury and ability cost."
     },
     {
       "gate": "combat.4_distinguishable_character_tactics",
@@ -102,7 +102,7 @@
     {
       "gate": "combat.5_pivotal_decision_and_consequence_legible",
       "state": "PASS",
-      "evidence": "Draft lines 145-169 isolate Cael's decision to meet the burst, accept the anomalous completion, drive forward, and lock his knees; lines 171-181 show Reydan's resulting incapacitation and the ruling."
+      "evidence": "Draft lines 143-167 isolate Cael's decision to meet the burst, accept the anomalous completion, drive forward, and lock his knees; lines 169-179 show Reydan's resulting incapacitation and the ruling."
     },
     {
       "gate": "combat.6_non_damage_state_change",
@@ -112,7 +112,7 @@
     {
       "gate": "combat.7_persistent_costs_recorded",
       "state": "PASS",
-      "evidence": "Draft lines 187-189 inventory the deep left-forearm bruise, bilateral knuckle-shock and declining grip, clipped hip, frayed legs, fatigue, scoured shoulder, and dead arm without healing or minimizing them."
+      "evidence": "Draft lines 185-189 inventory the deep left-forearm bruise, bilateral knuckle-shock and declining grip, clipped hip, frayed legs, fatigue, scoured shoulder, and dead arm without healing or minimizing them."
     },
     {
       "gate": "progression.1_advancement_cause_and_delta",
@@ -182,79 +182,12 @@
     {
       "gate": "litrpg.7_rank_has_noncombat_consequences",
       "state": "PASS",
-      "evidence": "Rank changes betting behavior, crowd interpretation, Cael's public legitimacy, and the scout's rate of note-taking; lines 65-77 and 181-193 make the benchmark socially consequential beyond damage."
+      "evidence": "Rank changes betting behavior, crowd interpretation, Cael's public legitimacy, and the scout's rate of note-taking; lines 65-77 and 179-191 make the benchmark socially consequential beyond damage."
     }
   ],
-  "findings": [
-    {
-      "id": "b2-ch21-fight-r1-E001",
-      "status": "PROPOSED",
-      "severity": "HIGH",
-      "category": "CONTINUITY",
-      "gate": "authority.canon_timeline_state; combat.3_balance_reach_injury_equipment_ability",
-      "draft_evidence": {
-        "path": "v3-runs/book-02/drafts/ch21-fight.md",
-        "line_start": 127,
-        "line_end": 127,
-        "quote": "a sustained sequence, burst after burst after burst on a metronome beat, each one under full power"
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-02/packets/ch21-editor-prompt.md",
-        "line_start": 1198,
-        "line_end": 1198,
-        "quote": "He fires a sustained burst sequence — not his full power on each burst, but enough to make continuous evasion exhausting."
-      },
-      "consequence": "The draft reverses the approved power-versus-volume tradeoff. Reydan appears able to sustain repeated full-power bursts, which changes his established capability ceiling and weakens the intended tactical distinction between exhausting Cael and simply overpowering him.",
-      "repair_target": "Restore the fourth-exchange sequence's reduced per-burst power while preserving its metronomic volume, cumulative exhaustion, and existing choreography.",
-      "confidence": "HIGH"
-    },
-    {
-      "id": "b2-ch21-fight-r1-E002",
-      "status": "PROPOSED",
-      "severity": "HIGH",
-      "category": "SCENE_OBLIGATION",
-      "gate": "obligations.scene_turn",
-      "draft_evidence": {
-        "path": "v3-runs/book-02/drafts/ch21-fight.md",
-        "line_start": 131,
-        "line_end": 145,
-        "quote": "The first three bursts he evaded clean ... He folded through the eighth and ninth and took the wash of the tenth across his ribs. ... Third burst of the next sequence, he decided"
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-02/packets/ch21-editor-prompt.md",
-        "line_start": 544,
-        "line_end": 544,
-        "quote": "On the third burst of the fourth exchange ... an unrehearsed completion finishes the motion for him"
-      },
-      "consequence": "The assigned turn occurs after at least ten fourth-exchange bursts and on the third burst of a later run, not on the third burst of the exchange. This changes the locked beat timing and can conflict with later callbacks or state summaries that identify the anomaly by its prescribed ordinal.",
-      "repair_target": "Align the anomaly with the third burst of the fourth exchange while retaining enough visible volume pressure to degrade Cael's evasion and motivate his commitment.",
-      "confidence": "HIGH"
-    },
-    {
-      "id": "b2-ch21-fight-r1-E003",
-      "status": "PROPOSED",
-      "severity": "LOW",
-      "category": "INVENTION_BUDGET",
-      "gate": "invention_budget",
-      "draft_evidence": {
-        "path": "v3-runs/book-02/drafts/ch21-fight.md",
-        "line_start": 33,
-        "line_end": 33,
-        "quote": "well-dressed for this room, always at the back, always attentive, never betting"
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-02/packets/ch21-editor-prompt.md",
-        "line_start": 589,
-        "line_end": 589,
-        "quote": "Any new detail about the academy scout's appearance or behavior beyond watching, notebook, and sustained attention"
-      },
-      "consequence": "Saying she never bets adds an unapproved repeated behavior and subtly narrows her characterization toward an institutional observer before the authorized reveal.",
-      "repair_target": "Remove the betting-history assertion or obtain explicit approval for it; preserve her established dress, prior attendance, back-of-crowd position, notebook, and focused attention.",
-      "confidence": "HIGH"
-    }
-  ],
+  "findings": [],
   "concerns": [
-    "The accounting motif (price, spend, ledger, bill, receipt, inventory) is strongly character-aligned but unusually dense across the scene; consider a later line pass for local repetition only after structural repairs, without flattening Cael's analytical voice."
+    "The accounting motif (price, spend, ledger, bill, receipt, inventory) is strongly character-aligned but unusually dense across the scene; consider a later line pass for local repetition without flattening Cael's analytical voice."
   ],
   "strengths": [
     "The fight reads as four different tactical problems rather than a damage ladder, and Reydan's rapid adaptation remains specific and credible.",
