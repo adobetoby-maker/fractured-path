@@ -445,7 +445,7 @@
       "id": "book-02-iron-circuit",
       "title": "Iron Circuit",
       "totalChapters": 24,
-      "renderedChapters": 17,
+      "renderedChapters": 18,
       "chapters": [
         {
           "number": 1,
@@ -749,6 +749,24 @@
               "durationSec": 3144.2,
               "sha256": "1a1b4daf7365c37c8b475d559389ad78dab81588f53a4a53a45e12ceba3cb300",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-21.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "title": "The Scout",
+          "manuscript": "books/book-02-iron-circuit/chapters/chapter-22.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-02-iron-circuit/chapter-22.mp3",
+              "bytes": 13913487,
+              "durationSec": 1739.12,
+              "sha256": "f138454e4b19a20bdb5b741b5284cb89a992d5e5127a460734fd39cbbbee9867",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-22.mp3",
               "note": "64 kbps; request-stitched."
             }
           ]
