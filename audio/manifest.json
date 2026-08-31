@@ -445,7 +445,7 @@
       "id": "book-02-iron-circuit",
       "title": "Iron Circuit",
       "totalChapters": 24,
-      "renderedChapters": 10,
+      "renderedChapters": 11,
       "chapters": [
         {
           "number": 1,
@@ -623,6 +623,24 @@
               "durationSec": 2437.14,
               "sha256": "18a31865b5e916d4966321bb1231c755cc2f00a28d80f8404b190925fcc8ec1a",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-11.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "title": "Reydan",
+          "manuscript": "books/book-02-iron-circuit/chapters/chapter-18.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-02-iron-circuit/chapter-18.mp3",
+              "bytes": 14970088,
+              "durationSec": 1871.19,
+              "sha256": "b44eeb40706ff254c79ffbb3ae4c67cd13ddcb603e918e8dafa0596691161033",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-18.mp3",
               "note": "64 kbps; request-stitched."
             }
           ]
