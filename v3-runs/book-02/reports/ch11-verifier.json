@@ -1,0 +1,18 @@
+{
+ "schema_version": "3.1",
+ "run_id": "b2-ch11-fight-r1-verify",
+ "scene_id": "b2-ch11-fight",
+ "editor_run_id": "b2-ch11-fight-r1",
+ "verdict": "CLEAR",
+ "decisions": [
+  {
+   "finding_id": "B2-CH11-EDITOR-001",
+   "decision": "REJECTED",
+   "evidence_checked": [
+    "books/book-02-iron-circuit/chapters/chapter-11.md lines 123-149 (retained text immediately following the seam): contains the complete required aftermath \u2014 'Brom crossed the floor in no hurry... and sat down next to him. Not standing over him in the winner's usual position', 'I want to know how you did that thing in the third exchange', Cael's 'I'm not sure', the extended hand, and the friendship-opening close",
+    "packet output.draft_path replaces only the fight span (original lines 55-113); the aftermath was never inside the replaced span"
+   ],
+   "reason": "The 'missing' aftermath exists in full in retained chapter text outside the scene boundary. The author's NOT_APPLICABLE disposition was correct. Editor evidence scope was draft + seam excerpt only; the finding is an artifact of scene-scope blindness, not a manuscript defect."
+  }
+ ]
+}

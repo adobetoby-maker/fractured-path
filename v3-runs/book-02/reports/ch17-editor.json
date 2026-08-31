@@ -1,0 +1,148 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b2-ch17-fight-r1",
+  "scene_id": "b2-ch17-fight",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "Authority conflicts: canon, timeline, state, and viewpoint knowledge",
+      "state": "PASS",
+      "evidence": "The draft remains in close-third Cael past tense and limits narration to his established knowledge. It uses exactly Wind-adjacent, Iron-adjacent, and Pressure-adjacent; the Pressure-adjacent fragment remains unspent, no Compression-adjacent or planning-layer secret appears, and Vell reveals the unprecedented ledger combination only after writing it (draft lines 23-153)."
+    },
+    {
+      "gate": "Assigned obligations, payoff, and prohibited outcomes",
+      "state": "PASS",
+      "evidence": "Dace clears the main floor (lines 1-21); Vell formally opens and calls the bout (27-33, 105-107); Cael wins in the fourth exchange through the second-to-third declaration seam (89-107); fragment use and costs match the packet (41-99); the sole injury is a controlled glancing cut (61-69, 101); Keth is analytical and warns Cael about reciprocal study (111-137); and Vell records Iron-equivalent with No Path as an unprecedented combination (139-153)."
+    },
+    {
+      "gate": "Causality and earned resolution",
+      "state": "PASS",
+      "evidence": "Four months of observation, two earlier general tests in the pre-scene seam, repeated in-bout verification, disciplined resource budgeting, and Cael's refusal of a marginal third-exchange opening establish the decisive fourth-exchange commitment. Lines 93-101 make the pivotal read, entry, strike, and loss of Keth's balance causally continuous."
+    },
+    {
+      "gate": "Character, emotional movement, and voice charter",
+      "state": "PASS",
+      "evidence": "Cael's practical counting, accounting, and pattern language control the narration; Dace speaks in logistical inventory, Keth in technical analysis, and Vell in evidentiary rulings. The scene moves Cael from controlled uncertainty about what the room will decide (line 7) to public legitimacy paired with a new vulnerability to observation (lines 131-153)."
+    },
+    {
+      "gate": "Audio survival and production hygiene",
+      "state": "PASS",
+      "evidence": "Exchange order, speaker attribution, fragment names, declaration transitions, match result, rating, and No Path designation remain intelligible aloud. The deterministic diagnostic reports 3,678 words, within the required 3,048-4,572 range. No new named entity is introduced."
+    },
+    {
+      "gate": "Combat 1: Stakes precede the decisive exchange",
+      "state": "PASS",
+      "evidence": "The cleared schedule, packed quiet crowd, Vell's personal attendance, formal rating asymmetry, and Cael's uncertainty about the room's eventual judgment establish practical and social stakes before fighting begins (lines 1-33)."
+    },
+    {
+      "gate": "Combat 2: Positions and movement remain sufficiently legible",
+      "state": "PASS",
+      "evidence": "The main floor, marks, rails, center, exits, range, footing, resets, slow spiral, locked blade angle, and final inside entry provide continuous usable geography (lines 23-101)."
+    },
+    {
+      "gate": "Combat 3: Actions respect balance, reach, injury, equipment, and established ability",
+      "state": "PASS",
+      "evidence": "Cael declines openings at wrong range or footing (lines 45-47, 73-77), Keth's controlled practice-blade graze remains minor (61-69), the young Iron read stays pulsed and close-range (59-61, 91, 99), and the decisive shoulder strike removes balance before recovery (101-103)."
+    },
+    {
+      "gate": "Combat 4: Named combatants use distinguishable, character-consistent tactics",
+      "state": "PASS",
+      "evidence": "Keth uses formally trained Blade Path geometry, structured series, tempo variation, bait, and late compression; Cael evades, budgets perception, samples with unreliable pulses, declines unverified opportunities, and commits only on the studied seam (lines 39-101)."
+    },
+    {
+      "gate": "Combat 5: The pivotal decision and consequence are causally legible",
+      "state": "PASS",
+      "evidence": "Lines 93-101 show the seam opening, Cael's trained body committing half a beat before conscious confirmation, the final Iron pulse confirming the fixed angle, Wind carrying the entry, and the shoulder strike breaking Keth's balance."
+    },
+    {
+      "gate": "Combat 6: The fight changes at least one non-damage story state",
+      "state": "PASS",
+      "evidence": "Cael advances to Iron-equivalent with an unprecedented No Path ledger designation, becomes newly worth studying, and gains Keth's analytical respect and open invitation (lines 123-153)."
+    },
+    {
+      "gate": "Combat 7: Persistent costs are recorded for the next state snapshot",
+      "state": "PASS",
+      "evidence": "The draft records the glancing arm cut, forecast post-gaze strain, Wind's first summoning-free use, Iron's mixed pulse behavior, untouched Pressure reserve, new public visibility, and rating delta. The supplied after-seam explicitly continues into Cael's written bout accounting and pattern-variation note."
+    },
+    {
+      "gate": "Progression 1: Advancement has an intelligible cause and recorded delta",
+      "state": "PASS",
+      "evidence": "Cael's verified study and execution defeat the circuit's traceable Iron-equivalent benchmark; Vell records the delta from Copper-equivalent to Iron-equivalent with No Path (lines 27, 93-107, 139-147)."
+    },
+    {
+      "gate": "Progression 2: Cost or tradeoff is visible when the system promises one",
+      "state": "PASS",
+      "evidence": "The compound gaze produces accumulating eye and temple strain, Iron pulses return unreliable noise and cause the glancing hit when overtrusted, and victory exposes Cael to reciprocal study (lines 47, 59-79, 91-99, 131-133)."
+    },
+    {
+      "gate": "Progression 3: Progress changes something outside the measuring system during the arc",
+      "state": "PASS",
+      "evidence": "Beyond the rating, Cael changes Keth's assessment of him, becomes a public object of study, validates observation as embodied competence, and alters his future tactical obligation toward pattern variation (lines 117-137 and supplied after-seam)."
+    },
+    {
+      "gate": "Progression 4: Major victories do not depend on an unestablished capability",
+      "state": "PASS",
+      "evidence": "The victory uses established compound-gaze study, mature Wind evasion, and young pulsed Iron pressure-reading. Pressure remains reserved and no new fragment or capability resolves the bout (lines 41-99)."
+    },
+    {
+      "gate": "Progression 5: Rivals and institutions do not freeze solely to accommodate the protagonist",
+      "state": "PASS",
+      "evidence": "Keth repeatedly revises his tactics through aggression, tempo variation, bait, and a fourth-exchange attempt to end the fight; Dace manages the exceptional schedule and crowd, while Vell applies the circuit's benchmark chain rather than granting an unsupported result (lines 49-91, 109, 139-153)."
+    },
+    {
+      "gate": "Progression 6: Repeated challenges differ in tactical, emotional, or social problem",
+      "state": "PASS",
+      "evidence": "The four exchanges progress distinctly through survey and floor control, structured aggression and an informative graze, engineered temptation, and full-speed commitment to the decisive seam (lines 39-101)."
+    },
+    {
+      "gate": "Progression 7: Setbacks generate changed behavior or understanding",
+      "state": "PASS",
+      "evidence": "The noisy third Iron pulse and glancing cut teach Cael the interval of Keth's disposable rhythm variation and reinforce his refusal to overtrust a marginal opening; the loss of informational privacy generates a future pattern-variation practice (lines 61-79, 131-133 and supplied after-seam)."
+    },
+    {
+      "gate": "LitRPG 1: Every system display has an owner and an in-world trigger",
+      "state": "PASS",
+      "evidence": "The only display-like artifact is Vell's diegetic ledger entry, owned and written by Vell in direct response to the witnessed match result (lines 139-147). No unowned system notification appears."
+    },
+    {
+      "gate": "LitRPG 2: Values match the approved state snapshot and delta history",
+      "state": "PASS",
+      "evidence": "The opening state is Copper-equivalent with No Path; the witnessed win over Keth produces the approved Iron-equivalent circuit rating with No Path, matching the packet and state ledger (lines 27, 141-147)."
+    },
+    {
+      "gate": "LitRPG 3: The display remains understandable aloud",
+      "state": "PASS",
+      "evidence": "The ledger text is spoken and paraphrased aloud as 'Iron-equivalent, no Path designation,' so its meaning does not depend on italics or page layout (lines 141-147)."
+    },
+    {
+      "gate": "LitRPG 4: The display changes the scene or can be cut",
+      "state": "PASS",
+      "evidence": "The ledger entry formalizes the required advancement, establishes an unprecedented circuit ruling, and creates the closing question about consequences outside the Ironyard; removing it would erase the assigned outcome (lines 139-153)."
+    },
+    {
+      "gate": "LitRPG 5: Hidden information is withheld consistently rather than rewritten for convenience",
+      "state": "PASS",
+      "evidence": "Cael receives no knowledge of Suppression-Advisory Watch, registry sub-layers, or other planning secrets. His uncertainty about the room's interpretation and the significance outside it remains genuine (lines 7, 149-153)."
+    },
+    {
+      "gate": "LitRPG 6: Combinations use established components or carry an approved exception",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system combination or new compound ability is created. Cael sequences established Wind evasion and pulsed Iron reading, while Pressure remains unused."
+    },
+    {
+      "gate": "LitRPG 7: Rank has non-combat consequences where the scene makes rank relevant",
+      "state": "PASS",
+      "evidence": "The Iron-equivalent rating changes Cael's formal circuit legitimacy, public visibility, study risk, and possible standing outside the Ironyard; Vell explicitly distinguishes its secure local meaning from uncertain external consequences (lines 131-153)."
+    }
+  ],
+  "findings": [],
+  "concerns": [
+    "Cadence diagnostic only: the comparison scaffold 'the way' appears 22 times across 3,678 words. The instances remain clear and viewpoint-shaped, so this does not rise to a finding, but an audio pass should listen for cumulative recurrence."
+  ],
+  "strengths": [
+    "The four exchanges have distinct tactical jobs and escalate through choice rather than raw spectacle; Cael wins by declining bad information before acting on verified information.",
+    "Fragment accounting is unusually precise without reading like a status dump: Wind's maturation, Iron's mixed pulses, untouched Pressure reserve, gaze strain, and the single graze all alter decisions on the page.",
+    "Keth's defeat preserves his competence and dignity while turning the victory into a new problem for Cael; the visibility warning advances both relationship and progression arcs.",
+    "The final ledger beat pays the formal rating obligation, reinforces the Ironyard's institutional identity, and ends on changed pressure rather than explanation."
+  ]
+}

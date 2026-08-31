@@ -1,0 +1,19 @@
+{
+ "schema_version": "3.1",
+ "run_id": "b2-ch03-fight-r1-verify",
+ "scene_id": "b2-ch03-fight",
+ "editor_run_id": "b2-ch03-fight-r1",
+ "verdict": "REPAIR_REQUIRED",
+ "decisions": [
+  {
+   "finding_id": "ED-B2CH03-001",
+   "decision": "VERIFIED",
+   "evidence_checked": [
+    "drafts/ch03-fight.md line 51: 'Trial ten. Full displacement, no cleverness, the burst spent to its natural end.' \u2014 a tenth deployment occurs on the page",
+    "drafts/ch03-fight.md line 71: Lira's completed-session line says 'Nine bursts and seven hits' \u2014 but seven hits already includes trial ten's shoulder hit (4 baseline + 2 landed in trials 5-9 + 1 in trial ten), so the line counts trial ten's hit while omitting its burst",
+    "drafts/ch03-fight.md line 37: 'Nine bursts inside an hour' occurs at the post-trial-nine checkpoint and is correct as written; packet must_include authorizes exactly this benchmark at exactly this point"
+   ],
+   "reason": "Count re-run over the declared scope reproduces the defect: ten deployments occur, completed-session dialogue says nine. Internally inconsistent (hit count includes trial ten). Repair per editor repair_target: reconcile lines 71 and 75 to ten; leave line 37 checkpoint untouched."
+  }
+ ]
+}

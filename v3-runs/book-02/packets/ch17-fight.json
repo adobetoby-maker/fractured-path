@@ -1,0 +1,92 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b2-ch17-fight",
+  "project": "iron-circuit",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "8784e1201c14dfe6c20d7d8d661b612d20acfe4b",
+    "canon": "canon-b2-v1",
+    "arc": "arc-b2-v1",
+    "state": "state-b2-pre-ch17-fight",
+    "registry": "registry-v1"
+  },
+  "modules": ["combat", "progression", "litrpg"],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense",
+    "knowledge_boundary": [
+      "Cael knows Keth's Blade Path tell architecture from four months of covert bout-watching, including the fraction-of-a-second transition seam between Keth's second and third declaration types; he does not know whether Keth has ever consciously noticed the same seam in himself.",
+      "Cael carries exactly three fragments at this point and no others: Wind-adjacent (Lira-sourced, matured to near-instinctive deployment, no deliberate summoning required), Iron-adjacent (Brom-sourced, still young, a pulsed surface pressure-read that is only reliably useful at close range), and Pressure-adjacent (Feryn-sourced, integrated but untested in this bout). The Compression-adjacent fragment does not exist for him yet and Reydan has not been introduced.",
+      "Cael knows the compound gaze is not free to run continuously; he is actively budgeting it (full attention on exchanges, deliberate rest in resets) and knows roughly what a sustained stretch of it costs him afterward.",
+      "Cael does not yet know that a formal Iron-equivalent rating with 'No Path' designation has never been entered in Vell's ledger before; that fact is revealed to him by Vell in this scene, not known going in.",
+      "Cael has no visibility into the Compact's Suppression-Advisory Watch on his file, into any [UNBOUND] archive terminology, or into any other planning-layer secret; none of that is available to his pov in this scene.",
+      "Cael knows this bout is being treated by the yard as unusually significant (full crowd turnout, Dace clearing the main floor's schedule, Vell keeping the ledger herself) but does not know in advance how the room will read the result once it lands."
+    ]
+  },
+  "purpose": "Stage the formal, officiated assessment bout in which Cael defeats Keth, the circuit's established Iron-equivalent standard, earning an Iron-equivalent rating with no Path designation on the strength of four months of covert observation rather than any classifiable technique.",
+  "scene_shape": {
+    "opening_state": "Cael steps into a packed, high-stakes assessment bout against Keth — the circuit's established Iron-equivalent standard and, by every formal metric, the technically superior fighter — carrying months of covert observation but nothing the Compact's own framework would recognize as an advantage.",
+    "pov_goal": "Win clean by waiting for the verified transition-window seam in Keth's Blade Path technique to open for real, without overspending the young Iron-adjacent read or the compound gaze before that window arrives.",
+    "opposition": "Keth probes methodically and tests Cael's patience with calculated aggression, forcing Cael to hold position under growing crowd restlessness while rationing an unreliable, pulsed Iron-adjacent read and a compound gaze that costs him real strain the longer it runs.",
+    "turn": "The transition-window seam Cael has tracked for four months opens for real inside the bout, and his body commits to the read a half-beat ahead of his conscious confirmation of it.",
+    "choice": "Cael spends everything he has verified on that one window rather than holding back for a smaller, safer opening, and closes the gap before Keth's superior technique can recover the angle.",
+    "outcome": "Cael lands a clean, decisive strike that ends the bout in his favor, having spent only the Wind-adjacent fragment and a handful of Iron-adjacent pulses and leaving the Pressure-adjacent fragment untouched in reserve.",
+    "closing_state": "Vell, officiating, formally records the result in her ledger as Iron-equivalent with no Path designation, and tells Cael this is the first time she has ever written that particular combination — closing the bout on a ruling the room can log but not fully classify."
+  },
+  "obligations": {
+    "must_include": [
+      "Cael wins the bout in the fourth exchange, via the verified transition-window seam between Keth's second and third declaration types.",
+      "The bout is a formal, officiated assessment: Vell (the Ironyard's Ledger-keeper) calls the opening and calls the match, and Dace (the Ironyard's Circuit Master) has cleared the main floor's schedule around it, signaling the bout's unusual significance before it starts.",
+      "Cael's formal outcome from this bout is an Iron-equivalent circuit rating.",
+      "Vell's ledger entry explicitly states the rating with a 'No Path' designation, and she tells Cael directly that this is the first time she has ever written that particular combination in her ledger — the beat must land as a formally notable, unprecedented ruling, not a routine one.",
+      "Fragment costs land at their matured ch17 state and must match precisely: Wind-adjacent is used for evasion multiple times at negligible cost with immediate recovery, and for the first time requires no deliberate summoning at all; Iron-adjacent is used only as a pulsed (never continuous) pressure-read that is young and unreliable past close range, returning a mix of usable signal and unusable static; Pressure-adjacent is held in reserve for the entire bout and never spent.",
+      "Cael sustains no injury beyond one minor, incidental glancing hit from Keth mid-bout — controlled, non-vital, more informative to Cael than costly.",
+      "Keth is gracious and analytical in defeat, not bitter, and explicitly warns Cael that being this visible in the circuit means others can build the same kind of study on Cael that Cael built on him."
+    ],
+    "plants": [],
+    "payoffs": [
+      "Cael's information-asymmetry method, already established as the principle that carried him through prior circuit mismatches, pays off decisively against a fighter who is his formal superior in every metric the Compact's framework recognizes."
+    ],
+    "prohibited_outcomes": [
+      "Cael does not lose the bout under any circumstance.",
+      "The rating outcome does not change: Cael must end the scene certified Iron-equivalent with a No Path designation exactly as ledgered, not any other tier, Path classification, or provisional result.",
+      "Do not contradict established fragment rules: no continuous (non-pulsed) Iron-adjacent use, no Iron-adjacent or Pressure-adjacent reaching the same summoning-free maturity Wind-adjacent has reached, no deployment of the Pressure-adjacent fragment in this bout, and no Compression-adjacent fragment or any other ability not already on Cael's established list.",
+      "No injuries beyond the original end-state for either fighter: nothing lasting for Cael, and nothing worse for Keth than being outmaneuvered and losing the exchange cleanly."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Venue and tactical texture: Ironyard main floor sounds, sightlines, crowd density and reaction, physical staging of the ring",
+      "Exchange choreography and blow-by-blow physical detail for the four exchanges, consistent with each fighter's established Path and Cael's established fragment rules",
+      "Dialogue in Cael's, Keth's, Vell's, and Dace's established voices, provided it does not contradict any quoted-outcome fact in this packet"
+    ],
+    "approval_required": [
+      "Any new named entity — spectators, officials, or otherwise — beyond Cael, Keth, Vell, and Dace",
+      "Any new canon fact about the Ironyard, the Compact's rating framework, or fragment mechanics not already established in canon/state context"
+    ],
+    "forbidden": [
+      "New powers or fragment types for Cael or Keth",
+      "Any change to who wins the bout, the rating awarded, or the No Path designation",
+      "Any knowledge outside Cael's pov knowledge_boundary for this scene, including anything from the Compact's Suppression-Advisory layer or any other planning-layer secret"
+    ]
+  },
+  "context_files": [
+    {"kind": "canon", "label": "canon rules and status markers", "path": "universe/CANON_RULES.md", "required": true},
+    {"kind": "arc", "label": "Book 2 chapter architecture", "path": "books/book-02-iron-circuit/CHAPTER_ARCHITECTURE.md", "required": true},
+    {"kind": "state", "label": "state ledger — Cael ability/rank state, companion and antagonist status", "path": "universe/STATE_LEDGER.md", "required": true},
+    {"kind": "registry", "label": "name registry — in-scene character entries", "path": "craft/NAME_REGISTRY.md", "required": true},
+    {"kind": "previous_scene", "label": "verbatim seam immediately before the ch17 fight", "path": "v3-runs/book-02/packets/ch17-seam-before.md", "required": true},
+    {"kind": "reference", "label": "verbatim seam immediately after the ch17 fight", "path": "v3-runs/book-02/packets/ch17-seam-after.md", "required": true}
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-02/drafts/ch17-fight.md",
+    "report_path": "v3-runs/book-02/reports/ch17-author.json",
+    "editor_report_path": "v3-runs/book-02/reports/ch17-editor.json",
+    "verifier_report_path": "v3-runs/book-02/reports/ch17-verifier.json",
+    "target_words": 3810,
+    "tolerance_percent": 20
+  }
+}

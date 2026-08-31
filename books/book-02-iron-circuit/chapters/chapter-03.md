@@ -106,47 +106,83 @@ Lira had heard about the morning's dispute by the time he found her in the alcov
 
 "That's basically how everything out here works, if you think about it long enough." She circled him, patient, waiting for an opening rather than forcing one. "The district. The market credit system. Us, honestly — you and me. None of it's official. All of it holds anyway, because everyone involved has decided it's worth more than whatever the alternative would be."
 
-Cael turned that over mid-exchange, the observation landing with more weight than the casual delivery suggested it should. He said nothing about it yet, filing it instead the way he filed most things that arrived sideways, during training, when his attention was split enough that the real shape of an idea sometimes slipped past his usual caution before he'd decided how to guard it.
+He let the point stand. It was correct, and arguing with correct things was a way of spending breath he had other plans for. Instead he stepped back out of her range and let his hands drop, and she stopped circling at once, because she read a change of agenda off his shoulders faster than anyone he had ever watched read anything.
 
-The session's second half, he'd asked for in advance, which was unusual enough that Lira had raised an eyebrow at the request: he wanted to work the landing beat.
+"I want to run the landing," he said. "Properly this time."
 
-It was the Wind-adjacent burst's fixed price, the locked half-breath at the end of every deployment, and he'd been circling the problem for a month without touching it. The fragment gave him displacement no legs could produce — that was the purchase, and it kept being worth making. But every purchase ended the same way: weight slamming back into his heels, a half-breath where he was, in Lira's flat phrasing from the winter, *just a thing that landed,* incapable of changing direction, readable to anyone who'd learned the rhythm. Against opponents he'd out-studied, the beat never mattered; he only spent the burst when he'd already arranged for its ending to be safe. Against someone who studied him back — and his growing ledger presence guaranteed that someone eventually would — the beat was a standing invitation.
+She straightened out of her stance. "Same drill as the winter testing?"
 
-"Same drill as the winter testing," he told her. "Full intensity. But this time, don't stop when the fragment activates. Attack the landing. Every time."
+"Same drill. Different terms." He rolled his shoulders, feeling where the session already sat in them. "Full intensity. Attack the landing. Every time. Don't pull off it because I look bad. I'm going to look bad. That's the data."
 
-"You want me to hit you at the one moment you can't move."
+"You've been walking around this for a month."
 
-"I want to find out whether 'can't' is a fact or a habit."
+"I know. I'm done walking."
 
-She hit him at the one moment he couldn't move. Repeatedly. The first four attempts taught him only the dimensions of the problem: the burst ended and the world resumed and there was a gap — he could see her strike coming into it, see it with complete clarity, and could do nothing whatever about it, his body still paying the fragment's toll while his eyes made useless, accurate predictions. It was among the stranger sensations he'd catalogued: perfect information, zero capacity. He took the four hits and wrote nothing down between them because there was nothing to write yet except *confirmed, again.*
+She gave him the look she used when she was measuring the distance between the thing he wanted and the thing that was good for him, deciding whether the gap was worth a fight. The alcove was quiet around them — mid-afternoon, the main floor's noise reduced by two walls to a low tide of impact and voices, dust hanging in the light from the practitioner-lamps. Nobody watching. That was the other reason for today.
 
-The fifth through ninth attempts, he tried spending the beat early — initiating the landing before the burst fully finished, trading away the last fraction of displacement to buy back a fraction of the recovery. It half worked, which was worse than not working: the shortened burst left him nearer to Lira's strike, and the shortened beat wasn't shortened enough to answer it. She caught him anyway, twice, and pulled the third strike when his balance failed outright and put him on a knee in the dirt, breath gone, hip singing its usual line of complaint from crest to knee. The fragment's costs did not scale gently with experimentation — nine bursts inside an hour was three nights' worth of ordinary use, and his body was invoicing him in real time for all of it.
+"How many?" she said.
 
-"That's enough," Lira said, not a question.
+"Ten. That's what I can afford."
 
-"One more."
+The problem had a shape, and he had known the shape since winter without once testing its edges at full pressure. The Wind-adjacent burst did exactly what his log said it did: a short, committed displacement, faster than any footwork he owned, consistent, reliable under load. And then it billed him. The instant a deployment ended, his body locked — half a breath, no more, no less — and for that half-breath he could not move, could not turn, could not shift an ounce of weight from one foot to the other. What he could do, the whole time, was perceive. Sight, hearing, balance-sense, prediction — all of it ran clean through the lock, cleaner than usual if anything, the way a held breath sharpens a room. Perfect information, zero capacity. He had written that phrase in the log in winter and then spent a month not finding out what it was worth.
 
-"Cael."
+Trial one, she was moving before the burst finished spending itself, and her strike arrived in the middle of the lock like a scheduled delivery. He watched it the whole way in. He saw her weight gather, saw the line, knew the exact point below his collarbone it would find, and stood there — a fencepost with excellent eyesight — while it found it.
 
-"One more. I want to try the other direction."
+Trials two through four settled the question of angle. He varied the burst's exit line each time; she read the endpoint regardless and came in low, then crossing, then from behind his leading shoulder. Four deployments. Four landings. Four clean hits, each one watched in full from inside the lock, each one unanswerable. The impacts stung and faded. The pattern didn't.
 
-The other direction was the one he'd been avoiding because it felt like giving up: not shortening the beat, but *using* it. If the landing was locked — if for one half-breath he was a fixed object with perfect information — then the beat was useless for defense and possibly, precisely because it was so stable, useful for something else. He deployed the burst a tenth time, let the landing come without fighting it, and spent the locked half-breath doing the one thing a fixed object with perfect information could do: he watched her. Not to dodge — dodging was off the table by definition — but to read, with his whole attention, unencumbered by any need to move, the exact load-path of the strike she was committing to the place he'd landed.
+Claim: the lock has a seam. Evidence: four trials, four angles, full commitment. Ruling: no seam. That was the baseline, and the baseline was the easy part.
 
-He couldn't avoid it. He read it so completely that his counter was already moving before his body unlocked, and the counter arrived a quarter-beat after her strike did — she caught his shoulder, he caught her overextension, and they ended in a mutual tangle that a Ledger-keeper would have scored as an exchange rather than a hit.
+Trial five he tried the first real idea. Spend the landing early — cut the displacement short, take the lock sooner, be through it and free before her strike finished traveling. The truncated burst dropped him short of the line she had committed to, and her strike sheared through the air where a full deployment would have put him. No contact. Also no victory. He hadn't beaten her strike; the geometry had, once, by surprising them both. And the price was already visible: he had unlocked a full step nearer to her than the drill had ever put him.
 
-Lira stepped back, breathing hard, and looked at him with an expression that was doing several things at once. "That's not a fix."
+Trial six, she recalibrated for the shorter arrival and hit him harder than any of the first four, because there was less distance for anything to decay across.
 
-"No. It's a price adjustment." He stayed down a moment longer than dignity preferred, letting his breath and his hip negotiate their grievances. "The beat stays. I can't move during it — that's a fact, not a habit, I'm reasonably sure now. But I can aim during it. Whoever attacks my landing commits to a fixed target, and a committed strike is the most readable thing in the world. I give them the hit. I take the read. If the hit isn't decisive, the read is."
+Trial seven he cut the burst deeper. The lock came sooner, ended sooner, and it did not matter, because her strike had less ground to cover than the time he'd bought. It took him across the hip, and unlike the others, that one stayed.
 
-"That only works if the hit isn't decisive."
+Trial eight he cut deeper still, arrived so short and so awkward that her committed line missed him entirely — and he stumbled coming out of the unlock, off-balance, worthless, while the trade curve finished drawing itself in his head. Every sliver of recovery he bought cost him distance, and distance was the thing keeping her strikes survivable.
 
-"Yes. That's the new column." He got up, found the notebook, and wrote it while the session's data was still sharp: *Landing beat — irreducible (10 trials, 2 methods failed). Reclassified from flaw to trade: locked beat = uninterrupted read of any attack committed at the landing point. Viable against single strikes I can afford to take. Not viable against anything heavy enough to end the exchange. Corollary: never spend a burst near an opponent whose single hit I cannot price in advance.*
+Trial nine he over-spent. The burst died with his weight already going sideways, and the lock held him in a falling shape the way it held him in every shape: totally. She pulled the strike. Not kindness — hitting a man who was already going down proved nothing, and she was here for proof; it was his rule she was honoring, not his ribs. He went down onto one knee on the worn stone and stayed there, breath gone somewhere it would take a while to come back from, hip announcing itself with every heartbeat.
 
-"You've just turned your worst weakness into a fee schedule," Lira said, reading over his shoulder, close enough that her breath stirred the page. "You know most people would have just tried to get faster."
+Nine bursts inside an hour. Call it three nights of ordinary use, spent in one afternoon, and his body was invoicing him in real time — the particular hollowed-out weight behind the sternum that the log described, politely, as *depletion*.
 
-"I tried getting faster. Attempts five through nine. It made me worse." He closed the notebook. "The fragment has terms. I'd rather know them than argue with them."
+Lira crouched in front of him, forearms on her knees, not touching him. "One left. We can bank it."
 
-They trained through the rest of the afternoon without returning to the subject, though it sat with him longer than most of Lira's offhand observations tended to.
+"No."
+
+"Then tell me what it's for. Because the last five were you paying to make it worse."
+
+She was right, and being right, she had handed him the finding. Five trials of trying to shorten the beat had established that the beat did not shorten — it only relocated, and every relocation was bought with distance he needed more. He had been asking the lock the wrong question all month. *How do I get out of you* had one answer, tested nine ways now: you don't. The question he hadn't asked, because it sounded like surrender: *what are you worth from the inside?* Half a breath in which nothing — not fear, not footwork, not the option of flinching — could interrupt his attention. He'd been treating the stillness as the wound. He had never once treated it as the instrument.
+
+"Last one," he said, getting up. "Don't change anything."
+
+"Wasn't going to."
+
+Trial ten. Full displacement, no cleverness, the burst spent to its natural end. He landed. The lock took him.
+
+And he gave it everything. No part of the half-breath went to wanting out. Her strike was already committed to the fixed point where he stood, and for the first time he read it whole: the load gathering through her back foot, the hips turning over it, the shoulder rolling into line, the hand — her right, traveling for his left shoulder, arriving at an angle he could price exactly. Affordable. He paid it forward in his head, accepted the cost before it arrived, and spent every remaining grain of the stillness building the answer: her arm would be extended, her weight committed past her lead foot, her recovery a known quantity because he had watched her recover from full commitment four hundred times.
+
+The counter was moving before his body was. That was the strangest part, the thing he'd want the log to get exactly right — the decision complete, the line mapped, everything loaded and waiting, so that when the lock released, it released *into* motion instead of ahead of it. Her strike took his shoulder, full intensity, an honest hit that turned him half a step. His hand arrived on her overextended arm in almost the same instant, caught the recovery she hadn't started yet, and torqued. They ended in a graceless knot — her strike spent, his counter tangled in her balance, both of them fighting for the same square foot of floor and neither getting it clean.
+
+A Ledger-keeper, had one been in the alcove, which one was not, would have scored it an exchange. Not a hit for her. Not a hit for him. An exchange — bought with a shoulder he could already feel stiffening.
+
+They came apart. Lira stepped back, flexing the arm he'd caught, and looked at him with an expression that had several things in it, not all of them exasperation. "That was different."
+
+"Yes."
+
+"Tell me what you did."
+
+"Nothing." He worked the shoulder, cataloguing the hit's exact weight. "That's the finding. I stopped doing things. The lock isn't a flaw. Flaws train out — five trials say this doesn't. It's a fact, like the length of my arms. So it stops going in the log as a defect and goes in as a price." He could see the entry already, the shape it would take tonight in his own hand. "And a price implies a purchase. Half a breath where nothing can pull my attention — not reflex, not fear, nothing, because there's nothing to decide. One committed strike, read completely, start to finish. If I can afford the hit, I come out of the lock with the whole answer already moving."
+
+"And if you can't afford the hit?"
+
+"Then nothing I read matters, because I'm not standing up to use it." He said it flatly, because it deserved flatness. "Against one strike I can price in advance — a trade. Against anything heavy enough to end the exchange outright — a donation. So, rule, from today: I don't spend the burst close to anyone whose one hit I can't price before I pay it. Ever. That's the whole discipline."
+
+Lira considered him for a long moment. "Ten bursts and seven hits to learn to stand still."
+
+"Six hits," he said, "and an exchange."
+
+"I'll let the stillness argue with your hip tomorrow." She said it lightly, but her eyes had already done the arithmetic on what ten bursts meant, and tomorrow was in there too — he knew from winter what the day after this kind of spending felt like, and the collecting wouldn't be finished by morning. She jerked her chin toward the center of the alcove. "On your feet properly. Combinations, ordinary speed. You've spent enough of the expensive thing today — the cheap thing still needs work."
+
+He got up, set his feet, and went back to the cheap thing.
 
 Somewhere in the middle of a combination he'd run a hundred times before, he found himself thinking about Hesk's workshop back in Denvash — the load calculations his grandfather double-checked before signing off on anything, the patience of a man who trusted a structure only once he'd tested every joint himself rather than taking someone else's word for its soundness. Vell's ledger operated on the same principle, he realized, just applied to people instead of instrument housings. Trust built joint by joint, tested under load, never assumed. He filed the comparison away without writing it down, the kind of thought that felt truer for staying private a little longer.
 

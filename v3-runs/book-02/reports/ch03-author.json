@@ -1,0 +1,87 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b2-ch03-fight-r1",
+  "scene_id": "b2-ch03-fight",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-02/drafts/ch03-fight.md",
+  "word_count": 1729,
+  "obligations": [
+    {
+      "obligation": "Landing beat is a fixed half-breath of total immobility with full sensory/predictive awareness ('perfect information, zero capacity')",
+      "status": "MET",
+      "evidence": "Mechanics paragraph: 'his body locked — half a breath, no more, no less... could not shift an ounce of weight... What he could do, the whole time, was perceive... Perfect information, zero capacity.' The lock remains total in all ten trials, including trial ten where the counter releases only when the lock does."
+    },
+    {
+      "obligation": "Exactly ten trials, full intensity, Lira attacking the landing every time by Cael's explicit prior request ('Attack the landing. Every time.')",
+      "status": "MET",
+      "evidence": "Setup dialogue: 'Full intensity. Attack the landing. Every time. Don't pull off it because I look bad.' Cael sets the count himself: 'Ten. That's what I can afford.' All ten trials are individually rendered or grouped with explicit counts."
+    },
+    {
+      "obligation": "Trials 1-4 baseline: unavoidable, four clean hits, vulnerability confirmed",
+      "status": "MET",
+      "evidence": "Trial one rendered in full; trials two through four vary angle: 'Four deployments. Four landings. Four clean hits.' Ruling recorded in claim/evidence/ruling form: 'no seam.'"
+    },
+    {
+      "obligation": "Trials 5-9: early-spend attempts make it worse; she lands two more hits and pulls a third when balance fails; Cael on a knee, breath gone, hip aching",
+      "status": "MET",
+      "evidence": "Trial five: geometric miss but a step closer. Trial six and seven: the two additional hits land (seven takes the hip, which persists). Trial eight: awkward miss, trade curve confirmed worse. Trial nine: balance fails outright, Lira pulls the strike ('hitting a man who was already going down proved nothing'), Cael ends on one knee, breath gone, hip announcing itself."
+    },
+    {
+      "obligation": "Trial ten reversal: uncontested landing spent purely on reading the load-path; hit lands on shoulder; counter already moving before unlock; ends as mutual clash/exchange",
+      "status": "MET",
+      "evidence": "'No part of the half-breath went to wanting out... he read it whole: the load gathering through her back foot...' Shoulder hit lands at full intensity; 'The counter was moving before his body was'; ends in 'a graceless knot' with neither getting it clean."
+    },
+    {
+      "obligation": "Reclassification stated precisely: flaw to trade; mechanism is total uninterrupted read of one committed strike; viable only against a single affordable hit, not against anything heavy enough to end the exchange",
+      "status": "MET",
+      "evidence": "Aftermath dialogue: 'It's a fact... it stops going in the log as a defect and goes in as a price... a price implies a purchase... One committed strike, read completely'; 'Against one strike I can price in advance — a trade. Against anything heavy enough to end the exchange outright — a donation.'"
+    },
+    {
+      "obligation": "Corollary rule stated as a forward operating principle: never spend a Wind-adjacent burst near an opponent whose single hit he cannot price in advance",
+      "status": "MET",
+      "evidence": "'So, rule, from today: I don't spend the burst close to anyone whose one hit I can't price before I pay it. Ever. That's the whole discipline.' Stated aloud to Lira only."
+    },
+    {
+      "obligation": "Cost explicit and persisting: nine bursts in about an hour equal roughly three nights' ordinary use; body 'invoicing him in real time'; debt still collecting the next day",
+      "status": "MET",
+      "evidence": "'Nine bursts inside an hour. Call it three nights of ordinary use... his body was invoicing him in real time.' Persistence carried as Cael's inference from the winter testing: 'the collecting wouldn't be finished by morning,' plus Lira's 'I'll let the stillness argue with your hip tomorrow.'"
+    },
+    {
+      "obligation": "Private training with Lira in the usual alcove, regular afternoon session; no Ledger-keeper present; scoring line is hypothetical",
+      "status": "MET",
+      "evidence": "Alcove established mid-afternoon with the main floor two walls away, 'Nobody watching.' The scoring line is explicitly counterfactual: 'A Ledger-keeper, had one been in the alcove, which one was not, would have scored it an exchange.'"
+    },
+    {
+      "obligation": "Plant: the corollary rule as a load-bearing forward principle for all future Wind-adjacent combat use",
+      "status": "MET",
+      "evidence": "Rule delivered as a standing discipline ('from today... Ever'), framed as the drill's durable output rather than a one-scene aside."
+    },
+    {
+      "obligation": "Payoff: dialogue directly references the off-page winter testing ('Same drill as the winter testing')",
+      "status": "MET",
+      "evidence": "Lira's line 'Same drill as the winter testing?' opens the drill negotiation; winter is also the origin of the 'perfect information, zero capacity' log phrase and of Cael's knowledge of next-day depletion."
+    },
+    {
+      "obligation": "Notebook write-up of the reclassification happens off-page; Cael processes aloud with Lira only",
+      "status": "MET",
+      "evidence": "The entry is anticipated, not shown: 'He could see the entry already, the shape it would take tonight in his own hand.' No on-page writing; no third party present or informed."
+    }
+  ],
+  "inventions": [
+    "Alcove sensory texture: mid-afternoon practitioner-lamp light, dust, the main floor's noise reduced by two walls to 'a low tide of impact and voices' (within allowed environmental detail, consistent with established Ironyard venue).",
+    "Trial-by-trial tactical texture for the unspecified early-spend trials: trial five and trial eight rendered as geometric misses caused by truncated arrival (her full commitment unchanged), preserving the stated result of exactly two landed hits plus one pulled strike across trials 5-9.",
+    "The 'fencepost with excellent eyesight' self-description and the 'scheduled delivery' image for trial one, in Cael's dry analytical register.",
+    "Cael's depletion described as 'the particular hollowed-out weight behind the sternum that the log described, politely, as depletion' — texture on the established cost, no new numeric detail.",
+    "Lira's closing redirect to 'combinations, ordinary speed' ('the cheap thing'), engineered to splice into the seam-after paragraph, which opens mid-combination."
+  ],
+  "state_change_proposals": [
+    "Wind-adjacent fragment log/notebook: landing beat reclassified from flaw to trade (fixed, untrainable lock; usable as uninterrupted read of a single committed strike; entry written the evening after this scene, off-page).",
+    "Standing combat rule in effect from this scene forward: never deploy the Wind-adjacent burst in range of an opponent whose single hit Cael cannot price in advance.",
+    "Physical state carried out of the scene and into the next day: depletion equal to roughly three nights' ordinary fragment use (nine bursts), sore hip, stiffening left shoulder, no lasting injury beyond these."
+  ],
+  "deviations": [
+    "The scene packet's closing_state says Cael 'reclassifies the landing beat in his notebook' while prohibited_outcomes require the notebook writing to remain off-page relative to this fight. I followed the prohibition: the reclassification is processed aloud with Lira and the notebook entry is anticipated ('the shape it would take tonight') but never written on the page.",
+    "The trial-ten burst is the tenth deployment of the session, but the canonical cost accounting is kept at the packet's 'nine bursts in under an hour = roughly three nights' figure, stated at the turn after trial nine; no new arithmetic is introduced afterward (the closing refers only to 'nine bursts' via Lira's tally and unquantified next-day collection)."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,196 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b2-ch11-fight-r1",
+  "scene_id": "b2-ch11-fight",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Core — authority, canon, timeline, and state continuity",
+      "state": "PASS",
+      "evidence": "The draft preserves the pre-scene fragment state (Wind-adjacent and Pressure-adjacent only), Cael's knowledge boundary, the Ironyard's established stone main floor, Brom's established Iron Skin mechanics, and the required four-exchange loss. It introduces no new named entity, secret disclosure, later fragment, or unapproved persistent state."
+    },
+    {
+      "gate": "Core — assigned obligations and scene turn",
+      "state": "FAIL",
+      "evidence": "The four exchanges, discipline plan, leg damage, read-gap, loss, and physical closing inventory are present, but the complete submitted draft (lines 1-119) and supplied seam-after (lines 1-7) contain no moment in which Brom sits beside Cael, asks directly about the third exchange, receives Cael's inability to explain it, or extends a hand. The packet makes that aftermath the friendship-opening completion of the scene."
+    },
+    {
+      "gate": "Core — plant and reveal control",
+      "state": "PASS",
+      "evidence": "Lines 79-99 present the read-failure as isolated, involuntary, fragment-independent, unrepeatable, and unexplained. Cael's comparison to the Wind step is immediately limited to an unconfirmable shape rather than a theory, and no Path or mechanism is named or ruled out."
+    },
+    {
+      "gate": "Core — prohibited outcomes",
+      "state": "PASS",
+      "evidence": "Brom wins all four exchanges; Iron Skin remains intact; Cael gains no controllable capability; Brom stays patient, composed, adaptive, and careful; the injuries remain compromised-but-unbroken legs plus first-exchange arm shock; and no protected secret or Ch12 backstory detail appears."
+    },
+    {
+      "gate": "Core — causal legibility and earned resolution",
+      "state": "PASS",
+      "evidence": "Each result follows from a visible cause: live contact disproves the post-flex hypothesis (lines 25-33), Brom's tuned read defeats speed (lines 53-63), damaged legs make Wind inefficient (lines 65-69), Brom's instinct answers the brief read-gap (lines 85-91), and his fourth-exchange redirect deliberately exploits the compromised legs (lines 107-113)."
+    },
+    {
+      "gate": "Core — point-of-view integrity",
+      "state": "PASS",
+      "evidence": "The scene remains in close-third Cael. Brom's internal read is framed through observable guard, weight, eyes, timing, and Cael's explicitly uncertain inference ('This looked like'), while Cael repeatedly admits he cannot identify, explain, or predict the anomalous event."
+    },
+    {
+      "gate": "Core — consequential scene and emotional movement",
+      "state": "PASS",
+      "evidence": "Even before the missing aftermath completion, the scene changes knowledge, tactics, physical condition, and relationship pressure: Cael loses the transition-window hypothesis, proves his discipline can survive a bout, discovers an unexplained read-gap, and earns Brom's visibly sharpened attention."
+    },
+    {
+      "gate": "Core — character, emotional movement, and voice charter",
+      "state": "PASS",
+      "evidence": "Cael's attention consistently runs through plans, ledgers, measurements, costs, and failure analysis; Brom's patient technical superiority is expressed through economical redirects and adaptation; Vell remains terse and record-focused; and Lira's silent forward posture is distinct from either fighter's method."
+    },
+    {
+      "gate": "Core — audio survival and production hygiene",
+      "state": "PASS",
+      "evidence": "The italicized discipline rules are also stated and causally demonstrated in prose, speaker attribution is unambiguous, and no meaning depends on visual layout alone. Deterministic diagnostics report 3,463 words, within the declared 3,136-4,704 range."
+    },
+    {
+      "gate": "Core — compression, repetition, and line-level control",
+      "state": "PASS",
+      "evidence": "Repeated accounting language tracks Cael's cognition and changing resource state rather than restating static information. Cadence expands for tactical analysis and contracts at exchange calls and reversals; fragments remain accents rather than the default action register."
+    },
+    {
+      "gate": "Combat 1 — Stakes precede the decisive exchange",
+      "state": "PASS",
+      "evidence": "Before exchange one, lines 3-21 establish the rating disadvantage, largest crowd, no-kill bout, written discipline rules, danger of feeding Pressure into Iron Skin, and Cael's transition-window objective."
+    },
+    {
+      "gate": "Combat 2 — Positions and movement remain sufficiently legible",
+      "state": "PASS",
+      "evidence": "The circle, center, boundary line, marks, rail, Vell's table, contact lines, quarter-step rotation, cross-step, low and high diagonals, floor, and reset positions keep the two-person geography readable at Cael's close tactical distance."
+    },
+    {
+      "gate": "Combat 3 — Actions respect balance, reach, injury, equipment, and established ability",
+      "state": "PASS",
+      "evidence": "Redirects act through contact and unbraced angles; a reactive Wind burst restores footing at full cost; the weight-bearing leg hit degrades both mobility and burst precision; Cael then shuts Wind down; and the final redirect requires and exploits his damaged brace."
+    },
+    {
+      "gate": "Combat 4 — Named combatants use distinguishable, character-consistent tactics",
+      "state": "PASS",
+      "evidence": "Cael probes, records, tests, revises, and preserves resource discipline. Brom holds even balance, turns incoming force, prepares a tuned answer to speed, adapts to the read-gap through sight and instinct, and chooses the compromised legs rather than chasing novelty."
+    },
+    {
+      "gate": "Combat 5 — The pivotal decision and consequence are causally legible",
+      "state": "PASS",
+      "evidence": "The anomaly is correctly not a deliberate decision. The decisive combat choice is Brom's professional refusal to investigate it in exchange four (line 107), followed by a forced-brace entry and exact redirect through both compromised legs (line 109), which ends the bout."
+    },
+    {
+      "gate": "Combat 6 — The fight changes a non-damage story state",
+      "state": "PASS",
+      "evidence": "The bout destroys Cael's transition-window theory, proves an unexplained limitation in Brom's pressure-read, changes Brom from routine observation to sharpened attention, and leaves Cael with Pressure-adjacent unspent for the first time."
+    },
+    {
+      "gate": "Combat 7 — Persistent costs are recorded for the next state snapshot",
+      "state": "PASS",
+      "evidence": "Lines 115-119 explicitly record ragged-but-organizing breath, legs paid through damage and burst cost, Pressure-adjacent wholly unspent, and no recovery yet beyond breathing. Lines 97-99 separately establish that the anomaly leaves no residue or usable capability."
+    },
+    {
+      "gate": "Progression 1 — Advancement has an intelligible cause and recorded delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement is awarded in this scene. The third-exchange event is deliberately not a fragment acquisition or controllable delta, and lines 97-99 establish that nothing usable remains to record as advancement."
+    },
+    {
+      "gate": "Progression 2 — Cost or tradeoff is visible when the system promises one",
+      "state": "PASS",
+      "evidence": "The first reactive Wind burst and the post-injury test burst both spend the usual reserve cost; the latter yields only about one-third distance without precision (line 67). Refusing Pressure preserves its reserve but costs Cael position and absorbed redirects (lines 35-43)."
+    },
+    {
+      "gate": "Progression 3 — Progress changes something outside the measuring system during the arc",
+      "state": "PASS",
+      "evidence": "Cael's disciplined loss changes tactical understanding and Brom's regard without granting a rank or numeric gain. Brom's slow reset, new shoulder roll, sustained watch, and decision to remain on the floor show the social effect."
+    },
+    {
+      "gate": "Progression 4 — Major victories do not depend on an unestablished capability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Cael wins no exchange and no major victory. The unexplained capability creates only a sub-second opening; Brom answers it on established instinct and still wins the third exchange and bout."
+    },
+    {
+      "gate": "Progression 5 — Rivals and institutions do not freeze for the protagonist",
+      "state": "PASS",
+      "evidence": "Brom has specifically modified his read against fast approaches before this bout, immediately adapts when it fails, and targets Cael's legs to finish. Vell independently records each exchange and takes extended notes on the anomaly."
+    },
+    {
+      "gate": "Progression 6 — Repeated challenges differ in tactical, emotional, or social problem",
+      "state": "PASS",
+      "evidence": "The four exchanges test distinct problems in sequence: a nonexistent contact window, a pre-countered speed approach, fragmentless survival plus an involuntary read-gap, and a forced brace on damaged legs."
+    },
+    {
+      "gate": "Progression 7 — Setbacks generate changed behavior or understanding",
+      "state": "PASS",
+      "evidence": "Cael identifies training-post flex as the source of his false hypothesis, abandons the contact-window plan, tests and then closes damaged Wind rather than leaking reserve, stops attacking the read head-on, and preserves the Pressure rule through defeat."
+    },
+    {
+      "gate": "LitRPG 1 — Every system display has an owner and an in-world trigger",
+      "state": "PASS",
+      "evidence": "The only display-like material is Cael's own two-line Power Log plan, recalled at the bout opening because the fight is beginning and discipline is immediately relevant. No ownerless notification or omniscient interface appears."
+    },
+    {
+      "gate": "LitRPG 2 — Values match the approved state snapshot and delta history",
+      "state": "PASS",
+      "evidence": "Cael has only Wind-adjacent and Pressure-adjacent available. Wind spends its usual cost on each shown burst and is then closed; Pressure is never drawn; the anomaly spends neither reserve and is not added as a fragment."
+    },
+    {
+      "gate": "LitRPG 3 — The display remains understandable aloud",
+      "state": "PASS",
+      "evidence": "The Power Log rules are short verbal statements ('Wind: read-fed bursts only. Never reactive.' and 'Pressure: locked. Do not open it. Not once.'), and the surrounding narration explains both their purpose and consequences without relying on typography."
+    },
+    {
+      "gate": "LitRPG 4 — The display changes the scene or can be cut",
+      "state": "PASS",
+      "evidence": "The recalled log rules directly control Cael's refusals, make the reactive burst a meaningful violation, shut Pressure out of the bout, and make its untouched closing reserve a human and tactical achievement."
+    },
+    {
+      "gate": "LitRPG 5 — Hidden information is withheld consistently",
+      "state": "PASS",
+      "evidence": "The anomaly receives no name, Path, origin, mechanism, controllability, or forecast. No Suppression-Advisory flag, Architect information, later fragment, or Brom backstory enters Cael's narration."
+    },
+    {
+      "gate": "LitRPG 6 — Combinations use established components or carry an approved exception",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Cael performs no fragment combination in this bout. Wind and Pressure are never deployed together, and the anomalous read-gap is explicitly separated from both named fragments rather than presented as a combination."
+    },
+    {
+      "gate": "LitRPG 7 — Rank has non-combat consequences where the scene makes rank relevant",
+      "state": "PASS",
+      "evidence": "Vell's formal ledger call records Cael as Assessed Copper-equivalent and Brom as Iron-equivalent, while the rating mismatch helps produce the largest crowd Cael has faced. Rank therefore changes institutional record and social attention, not damage alone."
+    }
+  ],
+  "findings": [
+    {
+      "id": "B2-CH11-EDITOR-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "missing_required_aftermath",
+      "gate": "Core — assigned obligations and scene turn",
+      "draft_evidence": {
+        "path": "v3-runs/book-02/drafts/ch11-fight.md",
+        "line_start": 117,
+        "line_end": 119,
+        "quote": "Brom had not left the floor. Cael registered that at the edge of vision — the winner's silhouette unmoving out there past his feet, in no hurry to be anywhere — and set it with everything else he wasn't ready to process. He started with his breathing, because it was nearest."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-02/packets/ch11-editor-prompt.md",
+        "line_start": 570,
+        "line_end": 570,
+        "quote": "The aftermath: Brom sits down beside Cael on the floor, not standing over him in a winner's posture, and opens with wanting to understand the third exchange specifically -- this is what begins their friendship"
+      },
+      "consequence": "A complete search of the submitted draft (lines 1-119) and supplied post-fight seam (lines 1-7) finds no sitting-beside beat, direct question, Cael non-answer, or offered hand. The scene therefore stops at anticipation of its required relationship turn, so the loss does not yet open the friendship on the page and a reader receives setup without the assigned payoff.",
+      "repair_target": "After the supplied Lira-check seam, complete the packeted aftermath in scene: Brom crosses without hurry, sits beside rather than over Cael, asks specifically what happened in the third exchange, hears that Cael cannot explain it, and extends the gracious hand that begins their friendship. Preserve the mystery and add no mechanism, classification, repeatability, or new injury.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [],
+  "strengths": [
+    "The four-exchange escalation is exceptionally clear: each exchange asks a different tactical question, fails for a specific reason, and narrows Cael's available choices without muddying geography.",
+    "Iron Skin's contact hardening and angled force return are rendered through repeatable physical cause rather than spectacle; Brom's superiority feels technical, patient, and earned.",
+    "The fragment-discipline plan creates meaningful costs on both sides of restraint: Cael pays for refusing Pressure, violates Wind once under emergency, tests it responsibly after injury, and then shuts it down.",
+    "The third-exchange capability stays genuinely strange. The prose distinguishes absence from blocking or deception, supplies no reserve or warning, and immediately forecloses confidence, residue, control, and classification.",
+    "Cael's ledger-and-arithmetic attention unifies action, voice, emotion, and progression; the untouched Pressure reserve lands as human progress despite the clean loss.",
+    "Brom remains gracious and formidable after the anomaly: he adapts through established instinct, refuses to chase novelty during the bout, targets the valid tactical weakness, and causes no excess injury."
+  ]
+}

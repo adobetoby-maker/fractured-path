@@ -1,0 +1,74 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b2-ch17-fight-r1",
+  "scene_id": "b2-ch17-fight",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-02/drafts/ch17-fight.md",
+  "word_count": 3678,
+  "obligations": [
+    {
+      "obligation": "Cael wins the bout in the fourth exchange, via the verified transition-window seam between Keth's second and third declaration types.",
+      "status": "MET",
+      "evidence": "The fourth exchange contains the decisive action: 'Second declaration. Cut. Third. Chain. Second. Cut — / The seam opened.' Cael's strike lands 'inside the locked angle' of the second-to-third declaration transition, Keth goes down, and signals 'Done' to Vell, who calls 'Match.'"
+    },
+    {
+      "obligation": "The bout is a formal, officiated assessment: Vell calls the opening and calls the match, and Dace has cleared the main floor's schedule around it.",
+      "status": "MET",
+      "evidence": "Opening paragraph: 'Dace cleared the main floor's schedule by mid-afternoon' with the emptiness signaling significance before the bout; Dace also says 'Floor's yours until it's done... I moved everything.' Vell calls the formal opening ('Assessment bout... Outcome enters the record as witnessed. The no-kill rule holds... Confirm.') and calls the end ('Match,' said Vell)."
+    },
+    {
+      "obligation": "Cael's formal outcome from this bout is an Iron-equivalent circuit rating.",
+      "status": "MET",
+      "evidence": "Vell's ledger entry reads 'Iron-equivalent. Cael. No Path designation.' and she states 'Iron-equivalent, witnessed, clean. The chain holds... Nobody disputes this entry.'"
+    },
+    {
+      "obligation": "Vell's ledger entry explicitly states the rating with a 'No Path' designation, and she tells Cael directly this is the first time she has ever written that combination — landing as a formally notable, unprecedented ruling.",
+      "status": "MET",
+      "evidence": "The entry is shown verbatim on the page ('Iron-equivalent. Cael. No Path designation.'); Vell says 'First time I've written that. That exact combination... Forty years of records in this building and it's never gone in the book before tonight,' with her rare expression of encountering a record with no precedent. The scene closes on her 'In this room? No... Outside this room? Different question.'"
+    },
+    {
+      "obligation": "Fragment costs land at their matured ch17 state: Wind-adjacent multiple evasions at negligible cost with immediate recovery and, for the first time, no deliberate summoning; Iron-adjacent only as a pulsed, young, close-range pressure-read returning mixed signal and static; Pressure-adjacent held in reserve, never spent.",
+      "status": "MET",
+      "evidence": "Wind-adjacent: 'The evasion architecture was there before he was... There had been no reach... the cost of it was nothing he could detect. His breath came back level.' with the explicit interior note '*First time*'; it recurs through exchanges at negligible cost ('evasion after evasion arriving unsummoned, costing him breath he immediately got back'). Iron-adjacent: 'Close range only... a single sharp interrogation... then nothing, then another pulse... Never continuous. Continuous wasn't a thing it could do yet'; reads return 'a smear of static with usable signal buried in it,' one pulse 'pure noise,' a later one 'pure static, one signal.' Approximately six pulses total. Pressure-adjacent: explicitly weighed and declined in exchange three ('He had carried the fragment whole through the entire bout... It sat in reserve the way a sealed jar sits in a pack') and never deployed."
+    },
+    {
+      "obligation": "Cael sustains no injury beyond one minor, incidental glancing hit from Keth mid-bout — controlled, non-vital, more informative than costly.",
+      "status": "MET",
+      "evidence": "Second exchange: 'The blade's last handspan crossed his upper arm on the way past, a shallow line of contact, controlled — Keth's precision holding the no-kill margin... Heat, then sting, then nothing that mattered,' followed by '*More useful than it cost*.' At bout's end: 'the sting in his arm the sum total of the evening's damage.'"
+    },
+    {
+      "obligation": "Keth is gracious and analytical in defeat, not bitter, and explicitly warns Cael that visibility means others can build the same study on him.",
+      "status": "MET",
+      "evidence": "Keth analyzes his own defeated seam ('That's what you were waiting on. I felt where the hit came through'), delivers the exchange 'You won because you knew something about me that I didn't know about myself... It should [bother you],' and warns: 'It works in both directions... You've just become worth studying... Anyone with your kind of patience can build the same thing against you that you built against me... Someone will.' No bitterness: 'There was, if anything, the particular generosity of a technician handing over the one tool he wished someone had handed him,' plus his dry 'Come find me sometime... I'd rather buy it than fight it again.'"
+    },
+    {
+      "obligation": "Payoff: Cael's information-asymmetry method pays off decisively against a fighter who is his formal superior in every metric the Compact's framework recognizes.",
+      "status": "MET",
+      "evidence": "Vell's opening call states the asymmetry openly ('Keth. Iron-equivalent, Blade Path. Cael. Copper-equivalent, no Path designation'); the turn is framed as four months of observation converting into a body-level commitment ('Four months of study had not given him a decision. It had given him something faster than a decision, a groove of his own, worn by watching'), and Keth names the mechanism aloud in defeat."
+    },
+    {
+      "obligation": "Prohibited outcomes respected: Cael does not lose; rating outcome exactly Iron-equivalent with No Path designation; no fragment-rule contradictions (no continuous Iron-adjacent, no summoning-free maturity for Iron/Pressure fragments, no Pressure-adjacent deployment, no Compression-adjacent or other unestablished ability); no injuries beyond the specified end-state for either fighter.",
+      "status": "MET",
+      "evidence": "Cael wins cleanly in the fourth exchange; the ledger entry is exactly as specified; Iron-adjacent is pulsed-only with its immaturity stated on the page; only Wind-adjacent reaches summoning-free deployment; Pressure-adjacent is never opened; no other abilities appear; Keth ends outmaneuvered but intact ('rolled with it like the professional he was... got up without help'), and Cael carries only the one graze."
+    }
+  ],
+  "inventions": [
+    "Venue staging: all four practitioner-installed fixtures lit instead of the usual two; roped and swept floor; crowd density detail (three deep at rails, four at corners, overloaded east bench); the crowd's low pre-bout pitch as a significance signal — all within the allowed venue-texture budget.",
+    "Exchange choreography: exchange one as a patience survey behind Keth's first-form defensive declaration; exchange two as structured cutting series plus Keth's disposable off-tempo shortened cut (the source of the glancing hit); exchange three as engineered bait openings and a half-shuttered seam appearance that Cael declines; exchange four as Keth's full-speed commitment where the real seam opens. Consistent with Blade Path precision and Cael's established fragment rules.",
+    "Blade Path texture: Keth's declarations rendered as a hum of commitment along a guild-pattern practice blade, with first form (position-holding), second (cutting line), and third (follow-through/re-declaration) forms — an interpretive rendering of the packet's established 'declaration types,' not new mechanics.",
+    "Dialogue within established voices: Dace's pre-bout inventory exchange ('Floor's yours until it's done'); Keth's mid-bout 'You're not going to come to me' and post-bout analysis including 'Come find me sometime' (registry-noted as his reusable line) extended with 'I'd rather buy it than fight it again'; Vell's opening call, chain-of-benchmarks validation, and closing ruling built around the architecture's mandated lines.",
+    "Silent, non-dialogue presence of Lira and Brom at the near rail (established companions who would credibly attend; no new entities, no dialogue).",
+    "Interior texture: the compound gaze's cost rendered as a specific temple/eye strain with a budgeted spend-and-rest pattern, per the pov knowledge boundary."
+  ],
+  "state_change_proposals": [
+    "Cael's circuit rating advances from Copper-equivalent (Assessed) to Iron-equivalent, entered in Vell's ledger with a No Path designation — the first such combination in the ledger's forty years (matches STATE_LEDGER Book 2 rank row).",
+    "Keth loses his standing as the circuit's uncontested Iron-equivalent standard; relationship with Cael shifts to gracious analytical respect with an open invitation ('Come find me sometime').",
+    "Cael's Wind-adjacent fragment is confirmed matured to summoning-free deployment as of this bout (first occurrence on the page).",
+    "Cael receives Keth's visibility warning — the seed of the Power Log entry about varying his own patterns (picked up verbatim by the post-scene seam)."
+  ],
+  "deviations": [
+    "The chapter architecture summary has the seam appear twice before Cael takes it on a third appearance; in the draft it is glimpsed twice at wrong range in exchange one, declined once as a half-formed window in exchange three, and taken when it opens true in exchange four. The packet's binding requirements (fourth-exchange win via the verified seam; the turn of body committing a half-beat ahead of conscious confirmation) are met exactly; the appearance count is treated as summary-level detail within choreography latitude.",
+    "The architecture summary orders Keth's post-bout exchange after Vell's recording; the packet's closing_state explicitly places Vell's ledger ruling as the scene's close, so the draft runs Keth's exchange first and ends on Vell's ruling. This also lets the verbatim seam-after ('Cael absorbed this fully...') follow naturally."
+  ],
+  "blockers": []
+}

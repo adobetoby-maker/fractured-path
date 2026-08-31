@@ -1,0 +1,112 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b2-ch11-fight",
+  "project": "iron-circuit",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "8784e1201c14dfe6c20d7d8d661b612d20acfe4b",
+    "canon": "canon-b2-v1",
+    "arc": "arc-b2-v1",
+    "state": "state-b2-pre-ch11-fight",
+    "registry": "registry-v1"
+  },
+  "modules": ["combat", "progression", "litrpg"],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense",
+    "knowledge_boundary": [
+      "Cael does not know what the unnamed capability that surfaces in the third exchange is, and neither does the reader; he cannot summon it, cannot reproduce it on request, and cannot explain what happened even to himself",
+      "Cael does not yet know whether the capability will ever recur — its first echo (Ch19) has not happened yet from his perspective",
+      "Cael has not yet acquired the Iron-adjacent fragment; that comes later, from sustained close sparring with Brom (Ch13), and must not be anticipated or referenced as already available in this scene",
+      "Cael does not know Brom's family background, the Velmere estate, or why Brom left home; that is revealed the following day (Ch12) and must not be foreshadowed with specifics here",
+      "Cael does not know about the Compact's Suppression-Advisory Watch / Level 4 flag on his file, or about the Architect's will; these are SECRET-tier and unknown to every character at this point in the story",
+      "Cael does not know Warden Coss's exact rank or clearance level",
+      "Cael has not yet met Reydan and knows nothing about a Compression-adjacent fragment; that arc is Ch18-24"
+    ]
+  },
+  "purpose": "Force Cael through a fight he cannot win on strategy alone, so a wholly unplanned, fragment-independent capability appears on the page for the first time -- deliberately under-explained -- while the loss itself opens the friendship between Cael and Brom.",
+  "scene_shape": {
+    "opening_state": "Cael enters the fight off two weeks of observation and a written fragment-discipline plan: Wind-adjacent rationed to read-fed bursts only, never reactive; Pressure-adjacent locked away entirely against Brom's hardened surface. The bout is on the Ironyard's main floor before the largest crowd Cael has fought in front of, with Vell keeping the ledger personally.",
+    "pov_goal": "Find and exploit a transition window in Brom's Iron Skin pressure-read between its defensive and offensive activation, without breaking his own fragment-discipline rules, in order to close the scoreline against a fighter with a hard rating advantage.",
+    "opposition": "Brom's Iron Skin hardens specific contact points at the instant of impact and redirects incoming force back through the contact point at an angle the opponent's body has not braced for; the give-to-hardening transition at contact is effectively instantaneous, leaving no exploitable window there. His pressure-read also has a faster response speed against fast approaches than two weeks of observation indicated -- a modification aimed at countering exactly the kind of speed-based attack Cael tries in the second exchange. The read tracks active resistance, not simple presence.",
+    "turn": "In the third exchange, Cael abandons the plan to break the read head-on and instead does something spontaneous and outside his named toolkit -- not a fragment deployment, no reserve spent, no account drawn, no warning before it happens. For under a full second, Brom's pressure-read does not register him at all: not blocked, not evaded, simply absent from anything the read is built to categorize.",
+    "choice": "There is no deliberate choice on Cael's part to make here -- that is the point of the beat. The event is not summoned, not authorized, not something he decides to do; it happens the way the Wind-adjacent step first arrived over a year earlier, present without having been asked for, and it cannot be repeated or explained afterward, including to Cael himself.",
+    "outcome": "Brom wins the third exchange anyway, adapting on raw instinct rather than the read, but visibly takes longer to do so than either of the first two exchanges. In the fourth exchange he targets Cael's already-compromised legs (damaged in the second exchange) with a clean, deliberate force-redirect and ends the bout. Cael loses all four exchanges; the bout goes to Brom.",
+    "closing_state": "Cael is down, both legs spent twice over (damage plus the bursts drawn against them), breath ragged but reorganizing, and the Pressure-adjacent reserve entirely unspent for the first time since he acquired it. Brom crosses the floor without hurry and sits down beside Cael rather than standing over him, and asks directly what happened in the third exchange. Neither of them can answer it. This exchange is what starts their friendship."
+  },
+  "obligations": {
+    "must_include": [
+      "Four exchanges total; Brom wins every exchange, with the fourth being the deliberate, fight-ending blow against Cael's already-compromised legs",
+      "Iron Skin hardens at the point and instant of contact and redirects the opponent's own incoming force back at an unanticipated angle, rather than simply blocking or absorbing passively",
+      "The give-to-hardening transition happens essentially instantaneously once real contact replaces training-post contact; there is no usable transition window at the point of impact, which corrects Cael's pre-fight hypothesis",
+      "Brom's pressure-read has a faster response speed against fast approaches than two weeks of alcove observation suggested -- a modification Cael concludes is aimed specifically at countering speed-based attacks",
+      "Cael entered the bout with a written fragment-discipline rule: Wind-adjacent rationed to read-fed bursts only, never reactive; Pressure-adjacent locked away entirely against a hardened surface",
+      "In the first exchange, Cael is tempted at least twice to break Pressure-adjacent discipline and declines each time; each refusal has a cost that Brom's redirects punish",
+      "Cael is forced to spend one reactive Wind-adjacent burst in the first exchange, against his own discipline plan, to recover his footing",
+      "In the second exchange Cael takes a real, weight-bearing hit that compromises both legs (not broken, but unstable) -- not the glancing redirected contact of exchange one",
+      "After the leg damage, Wind-adjacent becomes unusable in its intended form -- it still fires and still spends its full cost but delivers a fraction of its distance with no precision -- and Cael deliberately shuts it down rather than keep drawing on it",
+      "From partway through the second exchange onward, Cael fights the remainder of the bout with neither fragment available to him",
+      "In the third exchange, Cael produces a capability that is explicitly not a fragment deployment: no reserve is spent, no named account is drawn against, there is no anticipatory warning the way the Wind-adjacent step sometimes gives",
+      "The effect of that capability: for under one full second, Brom's pressure-read fails to register Cael at all -- not blocked, not evaded, simply absent from what the read can categorize",
+      "Cael cannot explain what he did, in the moment or afterward, including directly to Brom in the post-bout conversation",
+      "Brom notices the read-gap is real; it costs him visibly more time to close than either of the first two exchanges, though it does not cost him the exchange itself since he adapts on instinct rather than the read",
+      "Something in Brom's manner changes after the third exchange -- sharper attention, genuine interest -- and this must be shown through behavior (sitting beside Cael instead of standing over him after the win, asking directly what happened) rather than stated as an internal fact only Cael could know",
+      "At the bout's end: legs compromised twice over (impact damage plus the cost of the bursts drawn against them), breath ragged but recovering, and the Pressure-adjacent reserve completely unspent for the first time since Cael acquired it",
+      "The third-exchange capability leaves no residual trace afterward -- no lingering ability, no soreness or cost tied to it, nothing usable going forward from this scene",
+      "The aftermath: Brom sits down beside Cael on the floor, not standing over him in a winner's posture, and opens with wanting to understand the third exchange specifically -- this is what begins their friendship"
+    ],
+    "plants": [
+      "The third exchange's read-failure is the first on-page appearance of a capability the planning layer tracks as possibly a fourth thing alongside Cael's named fragments; it must read as genuinely strange and isolated here, with no suggestion that this is part of a pattern or that anyone (including Cael) recognizes it as such"
+    ],
+    "payoffs": [],
+    "prohibited_outcomes": [
+      "Cael winning any exchange, or winning or drawing the bout",
+      "Naming, explaining, mechanistically resolving, or expanding the third-exchange capability in any way -- no Path name, no category, no theory that reads as more than speculation Cael immediately can't confirm",
+      "Any suggestion that Cael can summon, control, or intentionally repeat the third-exchange capability",
+      "Ruling in or out any specific Path or classification for the capability, including via authorial implication, imagery, or Brom's dialogue",
+      "Altering Brom's established character -- he must stay patient, composed, technically superior, and genuinely gracious in victory (sitting beside Cael, extending a hand); not smug, not cruel, not written as rattled into a different personality by the third exchange",
+      "Injuries beyond the original end-state: nothing worse than 'compromised, not broken' legs and general exhaustion; no permanent damage; no injury to hands, arms, or ribs beyond what the absorbed strikes in exchange one already establish",
+      "Iron Skin being defeated, bypassed, damaged, or permanently altered by anything that happens in this fight",
+      "Disclosing any SECRET-tier fact (the Level 4 Suppression-Advisory Watch flag, the Architect's will) or any detail from Brom's Ch12 backstory reveal that is outside this scene's knowledge boundary"
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Terrain and tactical texture within the already-established Ironyard main floor (crowd reactions, lamp light, packed dirt, the circle itself)",
+      "Exchange-internal choreography -- specific footwork, strike angles, and physical staging beyond the exchange-level summary given here",
+      "Dialogue in Cael's, Brom's, Lira's, and Vell's already-established voices, consistent with the aftermath beats already blocked in the chapter architecture"
+    ],
+    "approval_required": [
+      "Any new named character, official, or crowd figure beyond those already in the registry",
+      "Any new canon fact about Iron Skin, Wind-adjacent, or Pressure-adjacent beyond what is specified in this packet",
+      "Any new detail about the nature, origin, or mechanism of the third-exchange capability"
+    ],
+    "forbidden": [
+      "New powers or fragments not listed in obligations.must_include",
+      "Any change to the outcome (Cael winning, an exchange result changing, the bout running a different number of exchanges)",
+      "Resolving, naming, or explaining the fourth-capability mystery in any way",
+      "Any knowledge outside pov.knowledge_boundary appearing in Cael's perspective or being implied as known to him",
+      "Altering Brom's Iron Skin mechanics as established in this packet and in universe/CANON_RULES.md",
+      "Adding injuries or persisting costs beyond the original end-state described in scene_shape.closing_state"
+    ]
+  },
+  "context_files": [
+    {"kind": "canon", "label": "canon rules -- Brom, Iron Skin, fragment mechanics", "path": "universe/CANON_RULES.md", "required": true},
+    {"kind": "arc", "label": "Book 2 chapter architecture -- Ch11 scene card", "path": "books/book-02-iron-circuit/CHAPTER_ARCHITECTURE.md", "required": true},
+    {"kind": "state", "label": "state ledger -- fragment state, companion roster, open questions", "path": "universe/STATE_LEDGER.md", "required": true},
+    {"kind": "registry", "label": "name registry -- in-scene names", "path": "craft/NAME_REGISTRY.md", "required": true},
+    {"kind": "previous_scene", "label": "verbatim seam immediately before the fight", "path": "v3-runs/book-02/packets/ch11-seam-before.md", "required": true},
+    {"kind": "reference", "label": "verbatim seam immediately after the fight", "path": "v3-runs/book-02/packets/ch11-seam-after.md", "required": true}
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-02/drafts/ch11-fight.md",
+    "report_path": "v3-runs/book-02/reports/ch11-author.json",
+    "editor_report_path": "v3-runs/book-02/reports/ch11-editor.json",
+    "verifier_report_path": "v3-runs/book-02/reports/ch11-verifier.json",
+    "target_words": 3920,
+    "tolerance_percent": 20
+  }
+}

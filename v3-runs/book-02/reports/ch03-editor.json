@@ -1,0 +1,205 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b2-ch03-fight-r1",
+  "scene_id": "b2-ch03-fight",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Core — canon, timeline, state, and viewpoint authority",
+      "state": "PASS",
+      "evidence": "The scene stays in close-third past-tense Cael POV, uses only the established Wind-adjacent fragment, and introduces none of the later people, fragments, archive knowledge, surveillance detail, or Book 3 integration knowledge excluded by the packet."
+    },
+    {
+      "gate": "Core — assigned scene purpose and turn",
+      "state": "PASS",
+      "evidence": "Draft lines 19-69 establish the fixed lock, test failed attempts to escape it, and turn Cael toward reclassifying the stillness as a tactical trade."
+    },
+    {
+      "gate": "Core — required ten-trial structure and outcomes",
+      "state": "PASS",
+      "evidence": "Draft lines 17-57 explicitly establish ten trials: four clean baseline hits, five early-spend trials with two further hits and one pulled strike after balance failure, then the shoulder-hit mutual exchange on trial ten."
+    },
+    {
+      "gate": "Core — reclassification, corollary rule, plant, and winter-testing payoff",
+      "state": "PASS",
+      "evidence": "The winter testing is named at draft line 5; lines 65-69 precisely move the lock from flaw/defect to price/trade and state the standing rule never to deploy near an opponent whose single hit cannot be priced in advance."
+    },
+    {
+      "gate": "Core — prohibited outcomes and invention budget",
+      "state": "PASS",
+      "evidence": "The lock remains total; no limitation is cured, no new power or named entity appears, injuries remain within hip/breath/knee/shoulder bounds, the Ledger-keeper is explicitly hypothetical, and only Lira hears the finding. Lira's trial-nine pull is the exact balance-failure pull required by the packet, not a generalized reduction of drill intensity."
+    },
+    {
+      "gate": "Core — causal legibility and earned resolution",
+      "state": "PASS",
+      "evidence": "Four baseline trials disprove an angle seam, five early-spend trials expose the displacement/recovery trade curve, and Cael's accumulated observation of Lira makes the trial-ten load-path read and post-unlock counter intelligible."
+    },
+    {
+      "gate": "Core — continuity and persistent resource accounting",
+      "state": "FAIL",
+      "evidence": "Draft line 51 spends the Wind-adjacent burst on trial ten, but lines 71-75 still total the completed session at nine bursts. This undercounts the established tenth deployment and leaves its depletion out of the carried cost; see ED-B2CH03-001."
+    },
+    {
+      "gate": "Core — consequential scene and emotional movement",
+      "state": "PASS",
+      "evidence": "Cael enters after a month of avoidance and exits with a durable operating rule, accepting rather than erasing the limitation; the tactical knowledge and self-concept both change."
+    },
+    {
+      "gate": "Core — character and voice charter",
+      "state": "PASS",
+      "evidence": "Cael's claim/evidence/ruling cognition, clipped dialogue, dry self-description, and cost accounting remain distinct from Lira's blunt protective pressure and practical challenge."
+    },
+    {
+      "gate": "Core — audio survival",
+      "state": "PASS",
+      "evidence": "Trial numbers, the lock mechanics, the flaw-to-trade change, and the final rule are all stated in words and remain intelligible without italics or page layout."
+    },
+    {
+      "gate": "Core — seam continuity",
+      "state": "PASS",
+      "evidence": "The opening immediately continues Lira's circling from ch03-seam-before.md, and draft line 77 returns Cael to ordinary combinations, directly supporting the first sentence of ch03-seam-after.md."
+    },
+    {
+      "gate": "Core — production hygiene and target length",
+      "state": "PASS",
+      "evidence": "The deterministic diagnostic reports 1,729 words, within the declared 1,376-2,064 range; the manuscript contains no drafting notes, unresolved placeholders, or report language outside Cael's established analytical idiom."
+    },
+    {
+      "gate": "Combat 1 — stakes precede the decisive exchange",
+      "state": "PASS",
+      "evidence": "Before trial ten, lines 7-19 establish full intensity, the ten-trial limit, the unavoidable half-breath lock, and Cael's need to determine what the vulnerability is worth."
+    },
+    {
+      "gate": "Combat 2 — positions and movement remain sufficiently legible",
+      "state": "PASS",
+      "evidence": "Exit angles, shortened displacement, changing distance, balance failure, Lira's right-hand line to Cael's left shoulder, and the final shared square foot are spatially trackable."
+    },
+    {
+      "gate": "Combat 3 — actions respect balance, reach, injury, equipment, and established ability",
+      "state": "PASS",
+      "evidence": "Early spending costs displacement and worsens range; trial nine's sideways weight produces a fall; hip pain and depletion persist; trial ten begins physical counteraction only when the total lock releases. No equipment is introduced."
+    },
+    {
+      "gate": "Combat 4 — named combatants use distinguishable, character-consistent tactics",
+      "state": "PASS",
+      "evidence": "Cael varies hypotheses and converts observation into a planned counter, while Lira reads endpoints, recalibrates range, commits physically, and challenges him to justify the final expense."
+    },
+    {
+      "gate": "Combat 5 — pivotal decision and consequence are causally legible",
+      "state": "PASS",
+      "evidence": "At lines 45-55 Cael stops spending attention on escape, reads Lira's full load path, accepts the shoulder hit, and releases the already-mapped counter as soon as the lock ends, producing the exchange."
+    },
+    {
+      "gate": "Combat 6 — fight changes at least one non-damage story state",
+      "state": "PASS",
+      "evidence": "The drill changes Cael's tactical classification of the lock and establishes a forward operating rule governing future Wind-adjacent deployments."
+    },
+    {
+      "gate": "Combat 7 — persistent costs are recorded for the next state snapshot",
+      "state": "FAIL",
+      "evidence": "Hip pain, shoulder stiffness, and next-day depletion persist, but the post-trial-ten tally at draft lines 71-75 records only nine bursts despite the tenth deployment at line 51; see ED-B2CH03-001."
+    },
+    {
+      "gate": "Progression 1 — advancement has an intelligible cause and recorded delta",
+      "state": "PASS",
+      "evidence": "The delta is tactical understanding rather than a power increase: repeated controlled evidence causes Cael to record the fixed lock as a trade and adopt a specific deployment rule."
+    },
+    {
+      "gate": "Progression 2 — promised cost or tradeoff is visible",
+      "state": "FAIL",
+      "evidence": "The physical and tactical price is vivid, but the completed drill's resource cost omits the tenth burst in its closing tally; see ED-B2CH03-001."
+    },
+    {
+      "gate": "Progression 3 — progress changes something outside the measuring system",
+      "state": "PASS",
+      "evidence": "The result changes Cael's future combat judgment and converts an avoided fear into disciplined acceptance; no rank or number alone carries the advancement."
+    },
+    {
+      "gate": "Progression 4 — major victory does not depend on an unestablished capability",
+      "state": "PASS",
+      "evidence": "The result uses the established Wind-adjacent lock, Cael's established observational method, and repeated familiarity with Lira's recovery; it grants no action during the lock and adds no fragment."
+    },
+    {
+      "gate": "Progression 5 — rivals and institutions do not freeze for the protagonist",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This private two-person drill contains no rival-progression or institutional-time comparison to evaluate."
+    },
+    {
+      "gate": "Progression 6 — repeated challenges differ tactically, emotionally, or socially",
+      "state": "PASS",
+      "evidence": "The trial sequence advances from angle baselines to increasingly shortened displacement, outright balance failure, and finally a reversal of objective from escape to observation."
+    },
+    {
+      "gate": "Progression 7 — setbacks generate changed behavior or understanding",
+      "state": "PASS",
+      "evidence": "Nine failed trials eliminate Cael's escape hypothesis and directly generate the trial-ten read strategy and permanent pricing rule."
+    },
+    {
+      "gate": "LitRPG 1 — every system display has an owner and in-world trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system notification, status sheet, or diegetic display appears in this scene."
+    },
+    {
+      "gate": "LitRPG 2 — displayed values match approved state and delta history",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values are displayed. The prose-level burst-accounting defect is evaluated under continuity, Combat 7, and Progression 2 instead."
+    },
+    {
+      "gate": "LitRPG 3 — system display remains understandable aloud",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "LitRPG 4 — system display changes the scene or can be cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "LitRPG 5 — hidden information is withheld consistently",
+      "state": "PASS",
+      "evidence": "The scene neither discloses nor gestures toward later fragment integrations, the archive's older terminology, the suppression-advisory classification, or Book 3's witnessed-ability integration realization."
+    },
+    {
+      "gate": "LitRPG 6 — combinations use established components or approved exception",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Cael uses only one established fragment and ordinary observation/physical countering; no system combination is performed."
+    },
+    {
+      "gate": "LitRPG 7 — rank has non-combat consequences where relevant",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Rank is not invoked or made relevant in this private training scene."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ED-B2CH03-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity/resource accounting",
+      "gate": "Core continuity; Combat 7; Progression 2",
+      "draft_evidence": {
+        "path": "v3-runs/book-02/drafts/ch03-fight.md",
+        "line_start": 71,
+        "line_end": 75,
+        "quote": "\"Nine bursts and seven hits to learn to stand still.\" ... her eyes had already done the arithmetic on what nine bursts meant, and tomorrow was in there too"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-02/packets/ch03-editor-prompt.md",
+        "line_start": 552,
+        "line_end": 555,
+        "quote": "The drill is exactly ten trials ... Trial ten is the reversal"
+      },
+      "consequence": "After the manuscript explicitly spends the Wind-adjacent burst on trial ten (draft line 51), both Lira and the narration still call the completed session nine bursts. In a progression scene built around exact empirical counts and persistent costs, the reader is likely to notice that the tenth deployment vanishes from the resource ledger, weakening trust in both the experiment and the carried depletion state.",
+      "repair_target": "Preserve the packet-authorized nine-burst/three-night benchmark at the pre-trial-ten checkpoint, but reconcile all post-trial-ten language with the tenth deployment. Either avoid presenting nine as the completed-session total while explicitly carrying the final deployment's added debt, or obtain planning approval for a corrected total/recovery statement; do not invent an unapproved recovery rate.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [],
+  "strengths": [
+    "The flaw-to-trade reversal is exact, memorable, and bounded: the lock stays absolute, while Cael gains only a conditional use for information he already receives.",
+    "The ten-trial escalation makes abstract system mechanics physical and causal; shortened displacement reliably worsens range and balance rather than conveniently curing the cost.",
+    "Cael and Lira remain sharply differentiated under pressure, and Lira's protective judgment never steals Cael's choice or turns into generic softness.",
+    "The final rule is stated with enough precision to function as a load-bearing plant in later combat.",
+    "The ending splice is especially clean: Lira's return to ordinary combinations directly feeds the supplied following paragraph without an explanatory bridge."
+  ]
+}

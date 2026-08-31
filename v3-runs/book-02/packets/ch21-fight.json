@@ -1,0 +1,105 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b2-ch21-fight",
+  "project": "iron-circuit",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "8784e1201c14dfe6c20d7d8d661b612d20acfe4b",
+    "canon": "canon-b2-v1",
+    "arc": "arc-b2-v1",
+    "state": "state-b2-pre-ch21-fight",
+    "registry": "registry-v1"
+  },
+  "modules": ["combat", "progression", "litrpg"],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense",
+    "knowledge_boundary": [
+      "Cael does not know the academy scout's name, institution, or purpose — he recognizes only that she has attended before and is watching intently again tonight, the same way he has half-registered her presence at earlier bouts.",
+      "Cael cannot categorize, name, or explain the unrehearsed completion of his Pressure-adjacent redirect in the fourth exchange — it registers only as something anomalous that finished a motion he started, with no entry in his training and no account, even afterward, of where it came from.",
+      "Cael does not yet recognize the fourth-exchange anomaly as a new or fourth fragment. He may feel that it exceeded anything he has drilled, but the recognition that this is a distinct, nameable capacity belongs to a later point in the story and must not surface here.",
+      "Cael has no advance knowledge of Reydan's full technique repertoire. He is reading Reydan's containment signature and adaptation pattern live, exchange by exchange, including the shift to a sustained volume sequence in the fourth exchange, with no foreknowledge of what Reydan will do next before it happens.",
+      "Cael does not know what tonight's win will lead to beyond the fight itself — no knowledge of any academy offer, no sense that the scout's attention has future significance, no knowledge of Reydan's own history with academies or his reasons for singling Cael out."
+    ]
+  },
+  "purpose": "Force Cael to defeat a formally rated Iron rank 8 opponent using his full fragment suite under real combat pressure for the first time, surfacing an unexplained new capacity that must remain unresolved, while an academy scout takes note of a performance that will shape the book's next arc.",
+  "scene_shape": {
+    "opening_state": "Cael enters the circle formally announced against Reydan, Iron-tier rank eight, fighting under his Iron-equivalent circuit rating with two weeks of specific preparation behind him but no read yet on an opponent whose economy of motion has denied every account a repeatable tell.",
+    "pov_goal": "Win the bout by finding and exploiting whatever seam Reydan's adaptive style leaves open, spending his fragment suite deliberately rather than reflexively, without revealing more of it than the fight forces him to.",
+    "opposition": "Reydan's burst-compression Pressure Path: precise, minimal wind-up, adapting exchange to exchange faster than Cael's read can keep pace with, escalating from single targeted strikes into a sustained multi-burst volume sequence built specifically to outlast Cael's evasion framework.",
+    "turn": "On the third burst of the fourth exchange, in the place of the drilled Pressure-adjacent redirect, an unrehearsed completion finishes the motion for him — gathering Reydan's own compression and turning it back through the burst's origin instead of merely dispersing it.",
+    "choice": "Cael commits to the unexplained completion rather than fighting free of it, driving forward into range instead of pulling back, and locks his knees to stay upright through the compounded impact rather than let the moment cost him the win along with the damage.",
+    "outcome": "Cael wins by forced incapacitation on the fourth exchange, the bout's first and only clean fall, called by Vell in the same measured cadence she uses for every ruling — the first time he has beaten a formally ranked Iron rank 8 opponent.",
+    "closing_state": "Cael is left standing but spent, carrying an unexplained new capacity with no name and no account of its origin, a genuinely impressed Reydan asking a question Cael cannot yet answer, and the academy scout — still unnamed, still unapproached — watching from the back of a crowd that has not yet finished reacting to what it saw."
+  },
+  "obligations": {
+    "must_include": [
+      "Cael wins the bout in the fourth exchange by forced incapacitation, matching Vell's ruling exactly: 'Iron-equivalent, Cael. Win. Method: forced incapacitation, fourth exchange.'",
+      "Reydan's established fighting identity: a burst-compression Pressure Path variant with minimal wind-up, precise exchange-to-exchange adaptation, and an escalation in the fourth exchange to a sustained multi-burst volume sequence designed to exhaust Cael's evasion rather than simply outmatch it in a single strike",
+      "The Fragment 4 (Compression-adjacent) preview surfaces exactly as bounded: an unrehearsed completion of the drilled Pressure-adjacent redirect that turns Reydan's own generated force back through its origin rather than merely dispersing it; it reads as genuinely anomalous to Cael in the moment, costs him something real and physical, and is never named, categorized, or recognized on-page as a new or fourth fragment",
+      "The academy scout's witnessed presence: positioned at the back of the crowd, notebook open, visibly attentive through the bout's key turns, never approaching and never named or identified beyond what Cael already knows of her from prior attendance",
+      "Persisting costs carried into the scene's close without being healed, dismissed, or downplayed: the forearm impact from the second exchange, the accumulated fatigue and knuckle-shock from the third exchange's three landed hits, and the spent, aching shoulder from the fourth exchange's redirect",
+      "The formal tier-benchmark meaning of the win: Cael holds a circuit Iron-equivalent rating with no formal Path classification, and this bout is the clearest demonstration yet that the rating is real — he has just beaten a fighter with a formal Iron-tier rank eight classification, not merely another unranked or Copper-tier opponent",
+      "Vell's officiating cadence bookends the fight: her formal announcement of both fighters and the rules before the first exchange, and her level, measured ruling closing it"
+    ],
+    "plants": [
+      "The unexplained, uncategorized completion of the redirect in the fourth exchange — this is the plant for the Compression-adjacent fragment's later confirmation; it must read as a genuine anomaly with real cost, not as a mastered technique",
+      "The academy scout's sustained, focused attention through the bout, including her pen moving faster at key turns — this is the plant for her approach and offer in the following chapter"
+    ],
+    "payoffs": [
+      "Payoff of Cael's Iron-equivalent certification (established defeating Keth): this is the first real test of what that rating means against a formally classified opponent",
+      "Payoff of Brom's Iron-adjacent pressure-read training: its first use under genuine combat pressure, including the moment it fails to distinguish a repeated tell from a genuinely new angle in the second exchange",
+      "Payoff of Lira's evasion drilling: it holds through the first three exchanges and is deliberately, visibly degraded by the fourth exchange's volume sequence exactly as anticipated",
+      "Payoff of Cael's own pre-bout fight plan: forcing Reydan through repeated read-abandonments to break his adaptive pattern by the fourth exchange, which is the tactical logic the win actually follows"
+    ],
+    "prohibited_outcomes": [
+      "Cael losing, being incapacitated, forfeiting, or the bout ending on any exchange other than the fourth",
+      "Naming, explaining, or mechanically resolving the Fragment 4 / Compression-adjacent capacity in any way — no on-page recognition that it is a new or fourth fragment, no label for it, no explanation of how it works",
+      "The academy scout approaching Cael, speaking to him, being introduced, being named, or being identified as anything beyond an attentive, unapproached watcher in the crowd",
+      "Any injury or physical end-state beyond what is already established: no permanent damage, no injuries beyond forearm/rib/shoulder-level impact and accumulated fatigue, no loss of consciousness for Cael",
+      "Reydan losing consciousness, sustaining serious or permanent injury, or leaving the circle under anything but his own power",
+      "Any killing blow or violation of the circuit's no-kill rule",
+      "Any authority within the scene formally assigning Cael a Path name, tier, or classification"
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Crowd and venue texture: torchlight, packed bodies, betting murmur, specific unnamed spectator reactions",
+      "Exchange-internal choreography: footwork, specific strike placement, breath, and physical sensation consistent with the established sequence of four exchanges",
+      "Background dialogue in established voices: Vell's officiating cadence, brief unnamed crowd reactions",
+      "Sensory and physical detail of accumulating fatigue, pain, and adrenaline consistent with the injuries already established"
+    ],
+    "approval_required": [
+      "New named characters of any kind, including additional named spectators",
+      "New facts about Reydan's technique, background, or history beyond what the canon and arc documents establish",
+      "Any new detail about the academy scout's appearance or behavior beyond watching, notebook, and sustained attention"
+    ],
+    "forbidden": [
+      "New powers or fragments beyond the four already established for Cael",
+      "Any change to the fight's outcome or method of victory",
+      "Naming, explaining, or resolving the Fragment 4 / Compression-adjacent capacity",
+      "Giving Cael knowledge outside the stated knowledge_boundary",
+      "Altering the substance of Vell's ruling",
+      "Introducing new named characters into the bout itself"
+    ]
+  },
+  "context_files": [
+    {"kind": "canon", "label": "canon rules", "path": "universe/CANON_RULES.md", "required": true},
+    {"kind": "arc", "label": "book 2 chapter architecture", "path": "books/book-02-iron-circuit/CHAPTER_ARCHITECTURE.md", "required": true},
+    {"kind": "state", "label": "state ledger", "path": "universe/STATE_LEDGER.md", "required": true},
+    {"kind": "registry", "label": "name registry", "path": "craft/NAME_REGISTRY.md", "required": true},
+    {"kind": "previous_scene", "label": "seam immediately before the fight", "path": "v3-runs/book-02/packets/ch21-seam-before.md", "required": true},
+    {"kind": "reference", "label": "seam immediately after the fight", "path": "v3-runs/book-02/packets/ch21-seam-after.md", "required": true}
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-02/drafts/ch21-fight.md",
+    "report_path": "v3-runs/book-02/reports/ch21-author.json",
+    "editor_report_path": "v3-runs/book-02/reports/ch21-editor.json",
+    "verifier_report_path": "v3-runs/book-02/reports/ch21-verifier.json",
+    "target_words": 6690,
+    "tolerance_percent": 20
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b2-ch11-fight-r1",
+  "scene_id": "b2-ch11-fight",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-02/drafts/ch11-fight.md",
+  "word_count": 3463,
+  "obligations": [
+    {
+      "obligation": "Four exchanges total; Brom wins every exchange, with the fourth being the deliberate, fight-ending blow against Cael's already-compromised legs",
+      "status": "MET",
+      "evidence": "Vell calls all four exchanges to Brom on the page; the fourth is written as Brom declining to investigate the anomaly and instead forcing a braced entry, redirecting Cael's own bracing force down through both compromised legs to end the bout."
+    },
+    {
+      "obligation": "Iron Skin hardens at the point and instant of contact and redirects incoming force back at an unanticipated angle rather than blocking or absorbing passively",
+      "status": "MET",
+      "evidence": "First contact: 'for the first sliver of the contact it was a shoulder... and then it was not... the force he'd put in came back out... rotated off his line by an angle no part of his structure had been braced against.' Reinforced across all four exchanges ('He rented Cael's [offense]')."
+    },
+    {
+      "obligation": "Give-to-hardening transition is essentially instantaneous under real contact; no usable window; corrects Cael's pre-fight hypothesis",
+      "status": "MET",
+      "evidence": "Exchange one runs the alternation test and disproves it on the page: the perceived lag is traced to training-post flex ('The give had belonged to the equipment, not the man... There was no interval in it to be fast across')."
+    },
+    {
+      "obligation": "Pressure-read responds faster against fast approaches than two weeks of observation suggested; Cael concludes it was modified specifically to counter speed-based attacks",
+      "status": "MET",
+      "evidence": "Exchange two: the read meets his fastest concealed entries 'a full beat early'; Cael's on-page conclusion: 'the read has been modified against fast approaches... a door somebody else had tried before him... Brom had rebuilt the lock.'"
+    },
+    {
+      "obligation": "Cael entered with a written fragment-discipline rule: Wind read-fed bursts only, never reactive; Pressure locked entirely",
+      "status": "MET",
+      "evidence": "The two Power Log lines are quoted near the opening ('Wind: read-fed bursts only. Never reactive. / Pressure: locked. Do not open it. Not once.'), with the rationale for locking Pressure against a hardening surface."
+    },
+    {
+      "obligation": "In the first exchange, Cael is tempted at least twice to break Pressure-adjacent discipline and declines each time; each refusal has a cost punished by Brom's redirects",
+      "status": "MET",
+      "evidence": "Temptation one (open ribs): declined, plain strike redirected back through his elbow, costing half a step and a numbed arm. Temptation two (sternum line): declined, the checked motion is itself redirected and he loses the center of the circle."
+    },
+    {
+      "obligation": "Cael is forced to spend one reactive Wind-adjacent burst in the first exchange, against his own plan, to recover his footing",
+      "status": "MET",
+      "evidence": "Balance driven past recovery by a redirect off the forearm; the burst fires 'not off a read but off a fall'; Cael explicitly registers the violation ('one line of the plan broken inside the first exchange')."
+    },
+    {
+      "obligation": "In the second exchange Cael takes a real, weight-bearing hit that compromises both legs (not broken, but unstable)",
+      "status": "MET",
+      "evidence": "The redirect arrives 'down, through the line of his commitment... through his hips... both legs at once'; state fixed as 'Everything held. Nothing held well,' with the rope-bridge terms image; nothing is broken."
+    },
+    {
+      "obligation": "After the leg damage, Wind-adjacent still fires and spends full cost but delivers a fraction of its distance with no precision; Cael deliberately shuts it down",
+      "status": "MET",
+      "evidence": "One legal read-fed test burst: 'The reserve dropped by exactly its usual cost... perhaps a third of the usual ground, in not quite the direction he'd asked for'; he closes it 'the way he'd close a ledger with the ink still wet.'"
+    },
+    {
+      "obligation": "From partway through the second exchange onward, Cael fights with neither fragment available",
+      "status": "MET",
+      "evidence": "Accounting paragraph after the test burst: 'Pressure: locked by rule. Wind: closed by damage. From here to the end of the bout, he had eyes, a plan's ruins, and whatever his legs had left.'"
+    },
+    {
+      "obligation": "Third-exchange capability is explicitly not a fragment deployment: no reserve spent, no named account drawn, no anticipatory warning",
+      "status": "MET",
+      "evidence": "In the moment: 'no decision he could locate, no draw against any account, none of the leaning readiness that the Wind-adjacent sometimes gave.' Post-exchange inventory re-verifies both reserves untouched and 'no warning before.'"
+    },
+    {
+      "obligation": "Effect: for under one full second, Brom's pressure-read fails to register Cael at all — not blocked, not evaded, simply absent from what the read can categorize",
+      "status": "MET",
+      "evidence": "'Not fooled. Fooled implied the read had been handed a wrong answer. This looked like a read handed no answer at all'; duration fixed at 'a stretch of time shorter than a full second'; Cael physically present throughout."
+    },
+    {
+      "obligation": "Cael cannot explain what he did, in the moment or afterward, including directly to Brom in the post-bout conversation",
+      "status": "MET",
+      "evidence": "Draft covers the in-the-moment and immediate-afterward inability ('every reconstruction would fail at the same place'; the empty-room reach; 'He had no idea what he had done'). The direct exchange with Brom lands in the retained post-seam chapter text this draft flows into."
+    },
+    {
+      "obligation": "Brom notices the read-gap is real; it costs him visibly more time than either earlier exchange, though he wins it by adapting on instinct",
+      "status": "MET",
+      "evidence": "Brom's guard commits to a space Cael has left; 'the exchange went on three times longer than either exchange before it'; 'Twice Brom built a solution and abandoned it half-built'; he closes 'by eyesight and training rather than by the read' and wins."
+    },
+    {
+      "obligation": "Something in Brom's manner changes after the third exchange, shown through behavior rather than stated as an internal fact",
+      "status": "MET",
+      "evidence": "Shown in-fight: the deliberately slow reset, the shoulder roll he had not done all bout, watching Cael cross the full way ('This was the second one'), and remaining on the floor after the bout call. The sitting-down-beside beat itself occurs in the retained continuation."
+    },
+    {
+      "obligation": "At the bout's end: legs compromised twice over, breath ragged but recovering, Pressure-adjacent reserve completely unspent for the first time since acquisition",
+      "status": "MET",
+      "evidence": "Closing systems-report paragraph: breath 'ragged, but organizing'; legs 'paid twice over — once by the second exchange, and once more by every burst'; the reserve 'completely untouched, for the first time since the night it had arrived,' with the unspent-coin image."
+    },
+    {
+      "obligation": "The third-exchange capability leaves no residual trace afterward — no lingering ability, soreness, cost, or anything usable going forward",
+      "status": "MET",
+      "evidence": "'And there was nothing after. No ache that belonged to it. No drain, no residue, no echo he could follow back toward a source'; his deliberate attempt to reach for it again finds 'what a hand finds in a dark room that turns out to be empty.'"
+    },
+    {
+      "obligation": "The aftermath: Brom sits down beside Cael on the floor, not in a winner's posture, and opens with wanting to understand the third exchange — beginning their friendship",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Outside the drafted span. The required verbatim seam (ch11-seam-after.md: audience clearing, Lira checking first and withdrawing to leave the space clear) chronologically precedes Brom's approach, so the retained chapter text following the seam carries this beat. The draft hands off into it: Brom 'had not left the floor... in no hurry to be anywhere.'"
+    },
+    {
+      "obligation": "PLANT: the read-failure is the first on-page appearance of a possible fourth thing; it must read as genuinely strange and isolated, with no pattern recognition by anyone",
+      "status": "MET",
+      "evidence": "The event has no located beginning, no mechanism, no name, and no category; Cael's only speculation ('It arrived the way the step arrived') is immediately marked unconfirmable ('It was a shape, not a fact'); no character or narration suggests a pattern, classification, or recurrence."
+    }
+  ],
+  "inventions": [
+    "Vell's per-exchange call convention ('First exchange. Brom.') and the brief pre-fight formalities dialogue, in her established terse register.",
+    "The two written Power Log discipline lines quoted as remembered text, with Cael's stated reason for writing rules down ('a rule that only existed in his head was a rule he'd renegotiate').",
+    "Exchange-internal choreography: the alternation probe sequence; training-post flex as the concrete source of the false transition-window read; the low fast entry caught mid-weight-transfer for the leg hit; the forced-brace entry that ends the bout.",
+    "Terrain and crowd texture within the established Ironyard main floor: the pale-worn boundary line of the circle, benches behind the rail, lamp brackets, crowd noise 'changing shape' as an index of exchange length.",
+    "Lira placed silently at the wall by Vell's table during the bout (consistent with her position at the top of the retained seam-after text).",
+    "Vell's pen running longer than the result requires after exchanges three and four — an observational-notation beat consistent with her Ch1-established 'atypical movement pattern' ledger practice; no classification implied."
+  ],
+  "state_change_proposals": [
+    "No state changes beyond the packet's closing_state (legs compromised twice over, Pressure-adjacent unspent, bout to Brom in four exchanges).",
+    "Continuity flag only: Vell's ledger for this bout is implied on-page to carry an extended notation about the third exchange; if any later scene quotes her ledger entry for this bout, it should be consistent with an atypical-exchange note existing."
+  ],
+  "deviations": [
+    "Word count 3463 vs target 3920 (-11.7%), inside the 20% tolerance band.",
+    "Drafted span ends at the bout call and Cael's first breath-inventory, flowing directly into the required verbatim seam (ch11-seam-after.md). The packet's aftermath must_include items that chronologically follow that seam (Brom crossing and sitting down, the direct question) are therefore carried by the retained chapter continuation rather than duplicated in this draft; the sibling ch21 packet's seam-after confirms this assembly convention (its seam likewise opens the retained aftermath dialogue). The draft's final beats are built to hand off into it."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,3 @@
+Cael absorbed this fully, as he absorbed most things that arrived with genuine weight behind them, and wrote it into the Power Log that evening: *Information asymmetry works both ways. Begin thinking about which patterns to vary, deliberately, before someone else builds the same kind of file on me that I've been building on everyone else.*
+
+Below it, in the columned format the log had settled into over the past half-year, he wrote the bout's accounting — a habit begun after the Brom fight, when he'd realized that what a fight cost him was as much a pattern worth tracking as anything an opponent did:

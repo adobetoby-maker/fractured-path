@@ -1,0 +1,2 @@
+- [ ] STATE_LEDGER.md line ~14: Iron-adjacent 'first combat use Ch21' contradicts ch17 pulsed reads — fix after B2 campaign (manuscript is authoritative)
+- 20:41 UNCONTRACTED: orchestrator applied verified finding ED-B2CH03-001 repair directly (two-word arithmetic reconciliation per editor repair_target + verifier decision) instead of a repair-packet author run

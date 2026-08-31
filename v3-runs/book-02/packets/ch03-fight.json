@@ -1,0 +1,104 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b2-ch03-fight",
+  "project": "iron-circuit",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "8784e1201c14dfe6c20d7d8d661b612d20acfe4b",
+    "canon": "canon-b2-v1",
+    "arc": "arc-b2-v1",
+    "state": "state-b2-pre-ch03-fight",
+    "registry": "registry-v1"
+  },
+  "modules": ["combat", "progression", "litrpg"],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense",
+    "knowledge_boundary": [
+      "Cael has not yet met Brom, Karis, Reydan, Quenna, or anyone connected to Greyvane Academy — none of them exist in his awareness at this point in the story.",
+      "Cael holds only the two fragments acquired in Book 1 — Wind-adjacent (from Lira) and Pressure-adjacent (from Feryn). He does not have the Iron-adjacent fragment (Brom, Book 2 Ch13), the Compression-adjacent fragment (Ch21 instinctive use / Ch24 confirmed notice), or the unconfirmed Tide-adjacent anomaly (Ch19).",
+      "Cael does not yet know about Vell's older, pre-standardization archive records or the phrase 'different words for things' — that conversation happens later the same afternoon, after this training session, when Vell takes him into the archive.",
+      "Cael does not know the specific cause of the recent increase in Compact compliance sweeps through the district, though he suspects it concerns him; he has no confirmation and no knowledge of the Suppression-Advisory Watch Level 4 classification on his file, its origin, or that any official has noticed it.",
+      "Cael does not know that a Fractured Path practitioner can integrate an ability witnessed in another person directly into combat use — that realization belongs to Book 3. His approach to the landing beat in this scene is purely tactical and observational, not a new power or a new fragment."
+    ]
+  },
+  "purpose": "Prove, through ten controlled trials with Lira, that the Wind-adjacent burst's landing-beat immobility is a fixed fact of the fragment rather than a fixable habit, and let Cael convert that unchangeable cost into a usable tactical trade -- a reclassification that will govern every future combat use of the fragment.",
+  "scene_shape": {
+    "opening_state": "Mid-training-session with Lira in their usual alcove. Cael has spent a month circling, without directly testing, the Wind-adjacent burst's fixed price: a locked half-breath of total immobility the instant a deployment ends, during which he is fully readable and cannot change direction or defend.",
+    "pov_goal": "Settle, empirically, whether the landing-beat vulnerability is a fact he must plan around forever or a habit he can train away -- and if it can't be removed, find some way to survive facing an opponent who has learned to attack it.",
+    "opposition": "Lira, at Cael's own explicit request, drilling at full intensity and attacking the landing every single time the burst ends, refusing to pull the pressure off him the way she normally would.",
+    "turn": "Four baseline hits confirm the lock is total and unavoidable. Five more attempts at spending the burst early to shorten the beat make things worse, not better -- he ends up closer to her strike with a beat still not short enough to answer it, and is put on a knee, winded, hip aching. Nine bursts in under an hour have cost him three nights' worth of ordinary fragment use.",
+    "choice": "On the tenth and final trial, Cael stops trying to shorten or escape the lock and instead lets the landing happen uncontested, spending the forced stillness purely to read -- with total, undivided attention -- the full load-path of the strike Lira is committing to the fixed point where he'll land.",
+    "outcome": "He cannot avoid the hit and takes it on the shoulder, but the read is complete enough that his counter is already moving before his body unlocks; the exchange lands as a mutual clash -- her strike connecting, his overextension caught -- the kind of result a Ledger-keeper would score as an exchange rather than a clean hit for either side.",
+    "closing_state": "Cael reclassifies the landing beat in his notebook from flaw to trade: the lock stays and is a fact, not a habit, but a fixed target with perfect, uninterrupted read time is usable against any single committed strike he can afford to take, and useless-to-dangerous against anything heavy enough to end the exchange outright. He sets himself a standing rule from it. His body is left to invoice him for the nine bursts through the next day; nothing about the drill is presented as free."
+  },
+  "obligations": {
+    "must_include": [
+      "The Wind-adjacent burst's landing beat is a fixed, non-negotiable half-breath of total physical immobility immediately after every deployment -- Cael cannot move or change direction or defend during it, but retains full, clear sensory and predictive awareness throughout ('perfect information, zero capacity').",
+      "The drill is exactly ten trials, run at full intensity, with Lira attacking the landing every time by Cael's own explicit prior request ('Attack the landing. Every time.').",
+      "Trials one through four establish the baseline: the beat is unavoidable and he takes all four hits clean, with nothing yet to record except that the vulnerability is confirmed.",
+      "Trials five through nine are Cael attempting to shorten the beat by initiating/spending the landing early, trading away part of the burst's displacement to buy back recovery time. This makes the problem worse, not better: he ends up nearer to Lira's strike and the shortened beat still isn't short enough. She lands two more hits and pulls a third when his balance fails outright, putting him on a knee, breath gone, hip aching.",
+      "Trial ten is the reversal: Cael stops trying to reduce or escape the lock and instead uses the enforced stillness purely to read the full load-path of Lira's committed strike. He cannot avoid the hit (it lands on his shoulder) but the read is complete enough that his counter is already moving before his body unlocks, and the exchange ends as a mutual tangle/clash rather than a clean hit for Lira.",
+      "The reclassification itself is the load-bearing, canon-critical beat and must be stated precisely: the landing beat moves from 'flaw' to 'trade.' Mechanism: because Cael cannot move during the lock, he can read a single committed attack with total, uninterrupted attention. This is viable only against an opponent's single strike he can afford to take, and explicitly not viable against anything heavy enough to end the exchange outright.",
+      "The corollary rule Cael derives and states applies going forward: never spend a Wind-adjacent burst near an opponent whose single hit he cannot price/afford in advance.",
+      "The cost is explicit and persists past the scene: nine bursts spent inside about an hour equal roughly three nights' worth of ordinary fragment use, and Cael's body is 'invoicing him in real time' -- the debt is still being collected the next day, not resolved by scene's end.",
+      "This is private training between Cael and Lira in their usual alcove during a regular afternoon session -- it is a drill, not an officiated bout; no Ledger-keeper is actually present or scoring it."
+    ],
+    "plants": [
+      "The corollary rule Cael establishes at the close -- never spend a Wind-adjacent burst near an opponent whose single hit he cannot price in advance -- is a forward operating principle for how he uses the fragment in all future combat; treat it as load-bearing for any later Wind-adjacent use, not a one-scene aside."
+    ],
+    "payoffs": [
+      "Pays off the previously-established, off-page 'winter testing' of the landing beat that the dialogue references directly ('Same drill as the winter testing') -- this scene is the first full, on-page, ten-trial breakdown and resolution of a cost that was already known to exist before this scene starts."
+    ],
+    "prohibited_outcomes": [
+      "Do not let Cael move, evade, or otherwise regain any capacity to act during the landing beat itself -- the lock is total and must remain total. The trade is about reading during the lock, not escaping it.",
+      "Do not resolve, reduce, upgrade, or remove the fragment's underlying limitation beyond the reclassification already achieved in this scene -- no new fix, no partial cure, no future-proofing beyond the stated trade.",
+      "Do not change the ten-trial structure or its internal breakdown (four baseline / five early-spend / one final reversal) or its outcome (unresolved vulnerability, successful reclassification).",
+      "Do not give Cael any lasting injury beyond the established end-state of this scene (breath gone, hip pain/complaint, a knee in the dirt during trials five-nine, a shoulder hit on trial ten) -- no new wound, no medical intervention, no healing.",
+      "Do not have Lira hold back, ease off, or fail to fully commit on any of the ten attacks -- full intensity throughout is explicit in the source and is what makes the ten trials count as real data.",
+      "Do not introduce an actual Ledger-keeper present or officiating -- the 'a Ledger-keeper would have scored it as an exchange' line is explicitly hypothetical/comparative, not a real scoring event.",
+      "Do not have Cael share the reclassification or the corollary rule with anyone besides Lira within this scene; he processes it aloud with her and later writes it privately in his own notebook, off-page relative to this fight.",
+      "Do not disclose or gesture toward anything outside Cael's stated knowledge boundary -- no Brom, no Iron-adjacent/Compression-adjacent/Tide-adjacent fragments, no Reydan, no Greyvane/Fenmark, no the archive's 'different words for things,' no Suppression-Advisory Watch/Level 4 detail."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Sensory and environmental detail of the training alcove (light, floor, dust, ambient sound of the wider Ironyard) consistent with the established venue.",
+      "Trial-by-trial tactical and physical texture for the ten attempts -- specific footwork, angles, breath, small physical beats -- so long as the four-baseline / five-early-spend / one-reversal structure and its stated results are unchanged.",
+      "Dialogue beats consistent with established voices: Cael clipped, analytical, notebook-oriented; Lira blunt, physically confident, protectively exasperated with him.",
+      "Incidental description of Cael's injuries strictly within the bounds already established (hip, breath, knee, shoulder) -- texture, not new locations or severities.",
+      "Cael's internal, observational-notebook-style narration processing the drill as it happens, consistent with his established habit of narrating in three-column claim/evidence/ruling terms."
+    ],
+    "approval_required": [
+      "Any new named onlooker, technique name, or entity not already present in the supplied context.",
+      "Any new canon fact about the Wind-adjacent fragment's mechanics beyond what is stated here (e.g., its range, its trigger conditions, anything about its origin).",
+      "Any new fact about Cael's or Lira's personal history or abilities not already established in the supplied canon/state/registry files.",
+      "Any specific new numeric detail about fragment costs or recovery times beyond the 'nine bursts, roughly three nights' worth' framing already given."
+    ],
+    "forbidden": [
+      "New powers, new fragments, or any new ability for Cael or Lira.",
+      "Any change to the ten-trial structure or to the scene's outcome (unresolved lock, achieved reclassification).",
+      "Any resolution, reduction, or removal of the landing-beat lock itself -- it must remain unmovable at scene's end.",
+      "Any knowledge outside Cael's stated knowledge_boundary -- no Brom, no Iron/Compression/Tide fragments, no Reydan, no Greyvane, no the archive's older records, no Suppression-Advisory Watch detail, no material from any later chapter."
+    ]
+  },
+  "context_files": [
+    {"kind": "canon", "label": "Canon status rules and reveal schedule", "path": "universe/CANON_RULES.md", "required": true},
+    {"kind": "arc", "label": "Book 2 chapter architecture (Chapter 3 card)", "path": "books/book-02-iron-circuit/CHAPTER_ARCHITECTURE.md", "required": true},
+    {"kind": "state", "label": "State ledger -- Cael's ability state, companion roster, open questions", "path": "universe/STATE_LEDGER.md", "required": true},
+    {"kind": "registry", "label": "Name registry -- confirmed spellings and roles for Cael and Lira", "path": "craft/NAME_REGISTRY.md", "required": true},
+    {"kind": "previous_scene", "label": "Seam -- last two paragraphs immediately before the fight", "path": "v3-runs/book-02/packets/ch03-seam-before.md", "required": true},
+    {"kind": "reference", "label": "Seam -- first two paragraphs immediately after the fight", "path": "v3-runs/book-02/packets/ch03-seam-after.md", "required": true}
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-02/drafts/ch03-fight.md",
+    "report_path": "v3-runs/book-02/reports/ch03-author.json",
+    "editor_report_path": "v3-runs/book-02/reports/ch03-editor.json",
+    "verifier_report_path": "v3-runs/book-02/reports/ch03-verifier.json",
+    "target_words": 1720,
+    "tolerance_percent": 20
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b2-ch21-fight-r1",
+  "scene_id": "b2-ch21-fight",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-02/drafts/ch21-fight.md",
+  "word_count": 6518,
+  "obligations": [
+    {
+      "obligation": "Cael wins the bout in the fourth exchange by forced incapacitation, matching Vell's ruling exactly",
+      "status": "MET",
+      "evidence": "Reydan goes down on the returned third burst of the fourth exchange, tries both sides, cannot rise, stays down conscious. Vell's ruling appears verbatim: 'Iron-equivalent, Cael. Win. Method: forced incapacitation, fourth exchange.'"
+    },
+    {
+      "obligation": "Reydan's established fighting identity: burst-compression Pressure Path, minimal wind-up, exchange-to-exchange adaptation, fourth-exchange escalation to a sustained multi-burst volume sequence",
+      "status": "MET",
+      "evidence": "Ex1 probing single bursts with no wind-up ('there was no wind-up'); ex2 same-signature/new-angle adaptation exploiting the evasion seam; ex3 recalibration under Cael's offense; ex4 deliberate shift to metronome volume ('seven bursts and a breath and seven more') designed to drain the evasion framework rather than outmatch it."
+    },
+    {
+      "obligation": "Fragment 4 (Compression-adjacent) preview surfaces exactly as bounded: unrehearsed completion of the drilled Pressure-adjacent redirect turning Reydan's force back through its origin; genuinely anomalous, real physical cost, never named or recognized as a new/fourth fragment",
+      "status": "MET",
+      "evidence": "'something finished the motion for him... the pouring gathered... turned... back through the burst's origin.' Cost: shoulder joint takes what the floor was meant to take, arm dead to the fingers, scoured ache persisting to scene close. Never named or categorized; Cael deliberately stops at the edge of analysis: 'It exceeded everything I have... the only sentence in reach that was entirely true.'"
+    },
+    {
+      "obligation": "Academy scout's witnessed presence: back of crowd, notebook open, visibly attentive through key turns, never approaching, never named or identified beyond prior attendance",
+      "status": "MET",
+      "evidence": "Three beats: after ex1 (book open against forearm, watching exchanges, pen moving in pauses), after ex3 (pen 'moving fast, faster than in the earlier pauses'), after the ruling (writing without looking down while the crowd erupts). Cael's POV knows only that she has attended before; no name, institution, or purpose surfaces."
+    },
+    {
+      "obligation": "Persisting costs carried into the close without healing or downplaying: forearm impact (ex2), fatigue and knuckle-shock from three landed hits (ex3), spent aching shoulder (ex4)",
+      "status": "MET",
+      "evidence": "Closing inventory itemizes all three: forearm 'one long deep bruise from wrist to elbow', hands 'aching to the wrist, knuckle-shock from three amplified hits, grip at half strength and dropping', shoulder 'scoured, hollowed-out wrongness in the joint'; plus clipped hip and accumulated fatigue. Nothing is dismissed."
+    },
+    {
+      "obligation": "Formal tier-benchmark meaning of the win: Iron-equivalent circuit rating proven against a formally classified Iron-tier rank 8 opponent",
+      "status": "MET",
+      "evidence": "'Iron-tier, rank eight... This is what the number means' mid-fight; post-ruling the phrase 'rank eight' moves through the crowd 'in a dozen mouths'; the win stakes are framed throughout as the rating being real against a formally rated opponent, with no authority assigning Cael any Path name, tier, or classification."
+    },
+    {
+      "obligation": "Vell's officiating cadence bookends the fight: formal announcement before the first exchange, level measured ruling closing it",
+      "status": "MET",
+      "evidence": "The formal announcement (both fighters, rules, no-kill) is supplied by the immediately preceding seam text (ch21-seam-before.md), which ends on her hand dropping; the draft opens the instant after to avoid duplicating it. Her cadence continues on-page through interstitial exchange markers ('First exchange,' etc.) and closes with the verbatim ruling delivered in 'the same voice she had ruled with every night of her forty years.'"
+    },
+    {
+      "obligation": "PLANT: unexplained, uncategorized completion of the redirect in the fourth exchange (Compression-adjacent fragment's later confirmation) reading as genuine anomaly with real cost",
+      "status": "MET",
+      "evidence": "The completion arrives mid-drill with no locatable origin ('He would try, afterward... to find the seam where it began, and fail'), leaves no examinable trace ('no residue he could examine'), and costs the shoulder and dead arm. It is never mastered, named, or repeated."
+    },
+    {
+      "obligation": "PLANT: the scout's sustained focused attention including her pen moving faster at key turns (sets up her approach in the following chapter)",
+      "status": "MET",
+      "evidence": "Pen movement escalates across the bout's turns: moving in the pauses (ex1), 'faster than in the earlier pauses' after ex3's fragment-suite reveal, and still moving through the post-ruling eruption, 'the way people wrote when they could not afford to take their eyes off the thing they were recording.'"
+    },
+    {
+      "obligation": "PAYOFF: Cael's Iron-equivalent certification tested against a formally classified opponent for the first time",
+      "status": "MET",
+      "evidence": "The bout is framed from Cael's POV as the first real test of the number ('Iron-tier, rank eight... This is what the number means') and resolves with the ruling confirming the rating against a formal rank 8."
+    },
+    {
+      "obligation": "PAYOFF: Brom's Iron-adjacent pressure-read training under genuine combat pressure, including its second-exchange failure to distinguish a repeated tell from a genuinely new angle",
+      "status": "MET",
+      "evidence": "The read supplies the four-tenths warning throughout ('it compresses inward before it fires outward'); in ex2 'the read had said again and the burst had said new,' costing the forearm hit; Cael logs the finding: 'The signature carries timing and weight. It does not carry direction.'"
+    },
+    {
+      "obligation": "PAYOFF: Lira's evasion drilling holds through three exchanges and is visibly degraded by the fourth exchange's volume sequence exactly as anticipated",
+      "status": "MET",
+      "evidence": "The framework carries ex1-3 ('four inches, exactly four inches'); in ex4 the degradation is explicit and measured ('five inches, six... seven'), the bucket-with-a-hole arithmetic is named, and the volume sequence is what drains it."
+    },
+    {
+      "obligation": "PAYOFF: Cael's pre-bout fight plan — forcing repeated read-abandonments to pattern-break Reydan by the fourth exchange — is the tactical logic the win follows",
+      "status": "MET",
+      "evidence": "The plan is quoted from the log ('If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move'), the three abandonments are counted on-page after ex3, and ex4's volume sequence is the pattern-broken response whose honest rhythm gives Cael the burst he redirects."
+    }
+  ],
+  "inventions": [
+    "Crowd and venue texture within budget: the 'watch his feet' spectator, betting murmur changing registers, a bettor cashing out early, a bettor staring at his slip, an old regular by the east pillar revising his beliefs, the crowd riding the ex4 metronome beat, torchlight under the rafters, doors barred an hour before the bout (background action attributed to established character Dace, no dialogue)",
+    "Exchange-internal choreography consistent with the packet's four-exchange sequence: ex1 probing bursts interrogating angle/timing, ex2 paired bursts and a herding funnel toward the boundary rope, ex3 interior-range fencing including Reydan riding a strike into a point-blank counter and an elbow exchange, ex4 seven-burst metronome runs contracting the usable floor",
+    "Vell's interstitial officiating markers in her established cadence: 'First exchange,' 'Second exchange,' 'Third exchange,' each with the ledger pen scratch",
+    "Silent continuity placement of Lira and Brom in the crowd (west side, second tier; Lira auditing Cael's footwork) — no dialogue, consistent with their established presence at the bout",
+    "Sensory and physical fatigue/injury detail consistent with established injuries: bone-bell forearm impact, knuckle-shock accumulation, ragged breathing, whited vision at the redirect, locked-knee cost"
+  ],
+  "state_change_proposals": [
+    "Cael: first victory over a formally classified Iron-tier rank 8 opponent (Reydan), ruled by Vell as forced incapacitation, fourth exchange — validates his Iron-equivalent circuit rating against a formal benchmark",
+    "Cael injuries persisting into ch22: deep forearm bruise (left, wrist to elbow), bilateral knuckle-shock with reduced grip, clipped hip, heavy accumulated fatigue, spent and scoured right shoulder with arm dead to the fingers from the redirect completion",
+    "Cael carries an unexplained, uncategorized capacity experience (the redirect completion) with no name, no account of origin, and no reproducible trace — logged nowhere yet, unresolved by design",
+    "Reydan: incapacitated but conscious, ribs and right side damaged, still in the circle at scene close preparing to rise under his own power (handoff to seam-after)",
+    "The unnamed watcher: observed recording throughout the bout including through the post-ruling eruption; unapproached, unidentified in Cael's knowledge",
+    "Circuit/crowd: Cael's reputation sharply elevated; the bout expected to be retold and argued over; Vell's ledger holds the sole precise account"
+  ],
+  "deviations": [
+    "Vell's pre-fight announcement (both fighters, rules, no-kill) is not restated inside the draft because the validated seam-before text supplied with the packet contains it verbatim and ends on her hand dropping; the draft opens on the instant after the drop. The announcement half of the bookend obligation is therefore carried by the adjacent seam rather than duplicated on-page; the ruling half is on-page and verbatim.",
+    "The draft ends on Reydan's gathering stillness immediately before he looks up, by design, so that the supplied seam-after text ('Reydan, from the floor, looked up at him...') continues without overlap; his question and Cael's inability to answer it belong to that seam."
+  ],
+  "blockers": []
+}
