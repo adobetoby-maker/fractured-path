@@ -445,7 +445,7 @@
       "id": "book-02-iron-circuit",
       "title": "Iron Circuit",
       "totalChapters": 24,
-      "renderedChapters": 6,
+      "renderedChapters": 7,
       "chapters": [
         {
           "number": 1,
@@ -515,6 +515,24 @@
               "durationSec": 1700.66,
               "sha256": "fff6174223435d70b845d72515af17cd632891b9e73024f151051cf52f54c53d",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-04.mp3",
+              "note": "64 kbps; request-stitched."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Lira's Ceiling",
+          "manuscript": "books/book-02-iron-circuit/chapters/chapter-05.md",
+          "renders": [
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Jason Keiller (Audience Pleaser)",
+              "file": "audio/book-02-iron-circuit/chapter-05.mp3",
+              "bytes": 14964445,
+              "durationSec": 1870.49,
+              "sha256": "68480c6118cc00fa2c53328c4bfeed8637b498d2444c523641d499064cc09aaf",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-05.mp3",
               "note": "64 kbps; request-stitched."
             }
           ]
