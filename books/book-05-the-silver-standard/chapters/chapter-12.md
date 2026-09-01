@@ -1,0 +1,117 @@
+# Chapter 12 — What Ternhall Kept
+
+The Iron bracket's other pool delivered its quarterfinal on schedule, and the pairing had been printed on the boards for a fortnight, and the delegation had watched Karis not talk about it for the entire fortnight with the discipline of people who knew the difference between respecting a silence and enforcing one.
+
+KARIS, HALCENVANE — IVENNE, TERNHALL. The boards' flat type, doing what it did to every pairing it printed, which was to make a history look like a schedule.
+
+The facts, as the delegation held them: three years of shared training floor. The lattice learned side by side — Ternhall's Ember doctrine ran on paired development; you built your ignition architecture against a partner's, and the partner's against yours, and the two documentations grew up interleaved. Notebooks traded for two of the three years. And when Karis had transferred out — Greyvane first, then the road, then Halcenvane — Ivenne had inherited the standing she vacated: Ternhall's top rank, Iron 2 now, the school's current best, carrying the institutional memory of everything her former partner had ever practiced, plus Ternhall's full scouting file, which the season's own economy guaranteed was current.
+
+What the delegation did not hold, because Karis had never tabled it, was the other ledger — what the three years had been *like* — and Cael, whose instrument read what people declined to table, had assembled it across the fortnight from scraps: that the trade of notebooks was not a Ternhall custom but a private one, theirs; that "training partner" at a paired-doctrine school meant something nearer to co-author; that the transfer out had happened at speed, between terms, for reasons filed under research access; and that in two years of Karis documenting everything, the delegation had never once heard her say the name Ivenne until a draw board printed it.
+
+---
+
+The study sessions collapsed on the first evening, and the collapse was the study.
+
+She laid out the preparation the way she laid out everything — the Ternhall file acquired through the season's ordinary channels, her own bout charts, the notebook's opponent section headed and ruled — and began the standard architecture: opponent's structure, tells, tendencies, the exploitable deltas. And Cael, sitting opposite with his own charting of Ivenne's four tournament bouts — and with Brom at the room's end, forearms wrapped, the Copper final's redirect bruising at its two-day worst, worn without comment and attended by the table's total lack of remark — watched the season's most methodical researcher hit the method's boundary condition inside an hour.
+
+"Tell me her tells," he said, running the protocol.
+
+"I trained half of them into her." Karis set the pen down. "The pre-ignition weight settle — we drilled that together for a year; I can tell you the day it set. The lattice-check glance at the third anchor: mine. She caught it from me the way you catch handwriting." She turned her own chart around. "Now ask me the useful question."
+
+"Which of your tells did she train into you."
+
+"All of them," said Karis. "That's the file, Cael. That's what Ternhall kept." She opened the school's scouting document — four pages on herself, and she had read it in one sitting with an expression he had never seen on her, which was a reader finding her own hand in a hostile text. "Every tell I own is in here, correctly. Every lattice habit. My documentation practice — they have a *section* on my documentation practice: subject prepares exhaustively; subject's improvisation degrades under time pressure; subject defaults to documented configurations when extended. Author's assessment." She read the last line with a care that was its own confession. "*Subject's method is her signature: she will arrive with a complete plan and the plan will be internally consistent and externally legible to anyone holding this file.* Ivenne wrote that. It's the best professional description of me that exists. My own notebook doesn't describe me this well."
+
+"Standardization is legibility," Cael said, quietly, because somebody had to say it and better him than the fight.
+
+"My line." She acknowledged it the way she acknowledged audit findings. "Third book of my life, said about the registry, in triumph. Returned to sender at Norhold with three years' interest." She looked at the ruled, headed, empty preparation pages. "There is nothing to prepare. Study is a differential instrument: it profits where I know more than the opponent expects. She knows *everything* the study would produce. The differential is zero — no." The honesty ran all the way down, because it always did. "The differential is negative. She holds my file and I hold hers, and hers is three years stale where it matters, because the person who compiled Ternhall's knowledge of Karis stopped collecting when I left, and I've been — " she stopped, and did the arithmetic, and arrived somewhere she visibly had not planned to arrive — "I've been assuming the same is true in reverse. That my knowledge of her is stale too. It isn't. She's still there. Still in the doctrine, still paired-trained, still building the way we built. Ternhall kept her, so Ternhall kept her *legible*. The file that's out of date is theirs on me. And the reason it's out of date —"
+
+She stopped again.
+
+"Say it for the record," Cael said, because the notebook's own law held at this table.
+
+"The reason it's out of date is you," Karis said. "All of you. Three years ago my method was my identity because Ternhall's doctrine makes them the same thing. Then I transferred into a traveling argument against the whole premise — a Wind fighter with no doctrine, a wall who prices instead of defends, a boy whose entire condition is that no file can hold him — and I've spent two years documenting people who fight *past* their documentation, and some of it — " the pause of a researcher declining to overstate — "some of it may have transferred. The file says I default to documented configurations when extended. The file's author has never seen me extended at this table. We find out at the quarterfinal what the difference is worth."
+
+---
+
+Lira took her walking the second evening, and the delegation understood the assignment structure without anyone stating it, because the delegation had run the same protocol in reverse before Fenmark: watch the quiet, assign the argument, dispatch the one she'll hear it from — and for this one the one was Lira, who held the found family's only other closed institutional account.
+
+They were gone two hours. What came back was reported to no one and changed the week's weather anyway, and Cael got the only scrap either woman ever surrendered, days later, from Lira, unprompted, at a rail: "I told her about the coat-rack. How I braced for a reckoning and got furniture. She said hers is the opposite problem — Fenmark threw you away, so Fenmark got small. Ternhall *kept* everything. The doctrine, the standing, the person. Nothing got small. She's not walking into a hall of strangers wearing old colors. She's walking into her own unfinished sentence." Lira shrugged. "I didn't have anything for that. So I told her the true thing instead: the sentence's ending isn't in the hall. It's in her. Same as mine was. She wrote it down." A beat. "On her *hand*, Cael. I've never felt so listened to in my life. It was alarming."
+
+Cael also ran his own instrument where it was actually competent, which was the floor: Ivenne's four tournament bouts, charted whole. The charting confirmed the file's author was the file's equal — a clean, schooled, quick-handed Iron 2 whose fights were themselves organized like documents, survey-thesis-resolution, the paired doctrine's fingerprints on every sequence. And it produced one original finding, which he tabled at the last study session because it was the only differential the dead study game had yielded: "She's never improvised either. Four bouts. Every sequence she ran exists in Ternhall's documented repertoire — I checked against your old notebooks. Her adaptations are *selections*, fast and correct, from a finished set. It's not a limitation of hers. It's the doctrine's premise: the repertoire is supposed to be sufficient." He looked at Karis. "You're about to test whether it's sufficient against someone who left the set. Whatever happens in that bout, one of Ternhall's two best students is going to learn something about the doctrine that the doctrine can't teach."
+
+"Both of them are," said Karis.
+
+---
+
+Cael gave her his read the night before, on the residence stair, because she asked for it in the exact grammar Lira had used — "the instrument's answer, no coaching" — and the parallel was its own datum about what the delegation had become.
+
+"You can't out-study someone who studied *with* you," he said. "The whole discipline assumes an information gradient and you two are level. So the study game is dead, and the fight's somewhere else: you have to be someone the file hasn't met."
+
+Karis, slowly: "The file is accurate."
+
+"The file is *finished*," Cael said. "You're not."
+
+She stood on the stair a moment, taking that apart the way she took everything apart, and he watched the finding land — watched her locate the seam between the two sentences, which was the seam her whole method lived on: a document was closed at compilation; its subject went on compounding. "Finished versus accurate," she said at last. "Different failure modes. Accurate fails by error. Finished fails by *date*." She wrote both sentences on her palm-pad, standing there, and went up, and at the turn of the stair she paused and delivered, in her flattest register, which the delegation had learned was where she kept the things that mattered:
+
+"Ternhall's file will fight the woman who left. Halcenvane sends the one who arrived."
+
+---
+
+The bout drew Ternhall's whole delegation to the rails, russet in a block behind their fighter's corner, the chancellor at the block's center — the season's first academy to attend one of its own quarterfinals at full institutional strength, which Karis noted from the warm-up floor with a researcher's appreciation: "They didn't come for her. They came for the doctrine. It's on trial too, and they know it."
+
+**The quarterfinal.** Second floor, midmorning — the true fast square, forty feet under the Concourse's high glass, the same boards Lira's bracket had run on: rope on four sides, the judges' dais breaking the south rail, the light falling in long panes that crossed the floor's western third and would migrate east all morning. A gallery thick with craft-readers — the broadsides had done their work; *former training partners* was a story the city could price — and the two of them at the flags in russet and Halcenvane plain: Ivenne compact and quick-handed, taking the western half with the light behind her, which was Ternhall doctrine and Karis's own old habit, the paired school's fingerprints on the coin-toss itself; Karis taller, stiller, at the eastern mark, arriving with — the gallery could not know what the delegation knew — no plan at all, on purpose, for the first time in her documented life.
+
+**First exchange: the file won.**
+
+It won the way perfect information wins: preemptively, and in mapped space. Karis opened with the lattice — she had to; an Ember fighter's architecture was her opening whether she willed it or not — laying its three anchors in the doctrine's own geometry: first at her leading foot, second a stride ahead at the floor's center line, third to flank. Ivenne was across the center line and inside the assembly before it closed, striking the second anchor as it formed, at the half-beat the file said its formation took, and was back in the western light before the counter existed. The ignition points fared worse: twice Karis set them and twice Ivenne's counter arrived *before the ignition* — not reactive; scheduled — her whole fight running off the documentation like a musician off a score she had partly composed. Every tell paid its bill: the weight-settle read, the anchor-glance read, the entire trained-in signature of Ternhall's paired doctrine performing exactly as its co-author expected. The flags were three to nothing and might have been worse; the gallery's craft-readers were making the low sound; and Cael, charting, wrote one word in the margin — *flawless* — and meant Ivenne's exchange and the file both, because it was the best-executed information advantage he had ever watched, a fight conducted against a person's paperwork with the person merely present.
+
+At the break, Karis stood at her mark and did not square her shoulders, did not reset the lattice stance, did not perform any documented item whatsoever. From the rail, Cael charted her doing the thing he had only ever charted in himself: she was *filing*. The exchange, entering the notebook behind her eyes, not as defeat — as data about the instrument reading her.
+
+**Second exchange: the abandonment.**
+
+She came off her mark without the lattice, and the delegation's rail — which knew what it was watching where the gallery did not — held its collective breath, because the file's cruelest line was about to be tested at continental stakes: *subject's improvisation degrades under time pressure; subject defaults to documented configurations when extended.* The author of that line stood twenty feet away, counting on it. If it held, the bout was already over. Everything at the rail knew the line had been true when it was written. The wager of the whole exchange — of the whole transfer, of two years at a traveling table — was that its date had lapsed.
+
+The gallery did not understand at first, because an Ember fighter without ignition architecture read as a fighter declining her own Path — and Ivenne did not understand either, which was the exchange's entire mechanism, visible from the first contact: her scheduled counters arrived on time at positions the documentation specified, and the documentation's subject was not at them. No lattice to pre-empt: Karis built nothing, anchored nothing, gave the score-reader no score. What she did instead had no Ternhall name, because it had been learned at no school: she ran Lira's economy — motion bought only where it purchased twice — through Ember architecture deployed raw, ignition points set not in structure but in *passing*, single-use, unanchored: one dropped at the center line as she crossed it, one on the dais-side rope where Ivenne's scheduled counter was headed, one in the migrating light of the western panes where a fighter with the sun behind her stopped being able to see heat-shimmer. Points placed where her opponent's committed counters were going rather than where doctrine said points belonged, the whole floor turned from a diagram into a terrain. She priced like Brom: the gaps in her unstructured fight left deliberately open, each one collecting a contact from a fighter trained to take documented opportunities. She fought like the circuit — the not-holding-back she had spent two years watching and charting and, it turned out, absorbing — in configurations invented between exchanges, unwritten anywhere, least of all in her.
+
+The information advantage did not degrade. It *inverted*. Every pre-emption aimed at the documented Karis was a commitment, and the improvising one punished commitments — that was Brom's law, learned at a hundred tables — and by mid-exchange Ivenne was fighting the file's ghost while its subject collected on every scheduled certainty. The flags came back level. The craft-readers' sound changed register.
+
+**Third exchange: the stranger.**
+
+Ivenne adapted, and Cael's chart gave her adaptation its full due, because it was brave and correct and three years too slow: she abandoned the file mid-bout — visibly, a fighter setting down her best instrument — and began reading the woman in front of her cold, as a stranger, which was the right fight and the only one. She was good at it. Ternhall's top rank was not an archivist; the paired doctrine taught reading, and she read the new configurations at speed, began answering the unanchored ignitions, forced two real contests that the improvisation paid for at honest rates.
+
+She ran out of bout. Cold-reading a stranger takes exchanges, and she had spent two on the file, and the third was not enough floor: Karis closed it with a sequence that Cael's chart recorded as the fight's thesis stated once, plainly — a lattice, finally, the documented architecture itself, begun exactly per the file, and then *unfinished*, its third anchor never placed, the structure left open like a sentence broken off while Ivenne's counter committed to the ending the file promised — and the ignition arrived from the structure's abandoned interior, undocumented, decisive.
+
+Flags to Halcenvane. Quarterfinal: Karis.
+
+She stood at her mark a moment before the handshake, breathing hard — the improvisation had cost at rates the notebook would itemize honestly that night — and the gallery gave the bout the craft-reader's ovation, long and low, and Ivenne crossed the floor and shook her former partner's hand with a grip Cael charted as wholly professional and a face he charted as working through the only audit that mattered to her, which was not the flags.
+
+The rail's verdicts filed in per the season's custom. Rooke's, the coach's: "She burned the plan on purpose in front of a continental gallery. I've had fighters who couldn't burn a plan in a closed session with my permission. Whatever that cost her, price it — it doesn't come off a shelf." Brom's, the economist's: "Second exchange she left four gaps open and collected on all four. She's been at my table two years. I'm invoicing Ternhall." Ephram's, the cohort's: "The unfinished lattice. Tell me she planned the unfinished lattice." — and Cael's honest answer, which went to the table and the log both: "No. I charted it forming. She started the documented structure because she was spent and it's her deepest groove — and then she *felt the file fighting it* and broke it off live. The finish wasn't a con like Brom's. It was a woman interrupting her own signature mid-stroke. That's why it worked. It can't be scouted because it wasn't decided."
+
+And Withrow's, delivered in person at the delegation table that evening, in full: "Ternhall's chancellor sat four seats from me this morning." She let the geometry register. "At the second exchange he stopped taking notes. At the third he said, to his own coach, not quietly enough: *we taught her none of that.* I have waited a career to hear a chancellor say that sentence in that tone." She poured herself the indifferent wine. "He's wrong, incidentally. They taught her all the parts. We taught her they were parts."
+
+---
+
+The semifinal, two days later, got its honest paragraph and had earned no more: Auremont's lattice-breaker — their Iron bracket's third entry, a Force Path specialist whose entire continental reputation was the dismantling of structured casters — extended Karis through four exchanges of the improvised game, solved its economics in the fourth with the resources of a program that had spent a decade solving cleverness, and won on accumulated flags. She came off the floor outmatched, extended, and content, in measurable order, and her own summary at the rail closed the bracket: "He beat the stranger too. The stranger's two weeks old. Wait for her at the next cycle."
+
+Which put the delegation's Iron campaign to bed with its final arithmetic: Lira a continental semifinalist, Karis a quarterfinal winner over Ternhall's best, Ephram's round-of-sixteen price of admission paid in full — and both Halcenvane semifinal exits administered by Auremont, whose Iron entries now held one line of the bracket's final and whose whole program had spent the fortnight demonstrating what the deep blue and silver actually meant: not a school. A *watershed*. Every current in the tournament eventually ran through them. "Keep the arithmetic where the trial briefing can see it," was Rooke's note on the standings sheet. "We've now lost to their third-best and their fourth-best, honorably, by margins. The team trial seeds us against the whole set at once."
+
+---
+
+Ivenne found her at the boards that evening — the boards scene now a series structure, and both women likely knew it; the whole tournament conducted its truths there, after hours, in front of the printed record — and the delegation's charting instrument, who had come to walk Karis home and stopped at the court's edge instead, witnessed it at the distance the moment deserved.
+
+"Ternhall's file on you is the best document I've ever worked from," Ivenne said. No preamble; the doctrine's children did not spend motion. "It was perfect through the first exchange."
+
+"I know," said Karis. "I wrote most of it."
+
+A silence with three years in it. The two of them looked at the results board rather than each other, in the manner of co-authors reviewing a final proof, and the silence conducted the entire correspondence neither had sent: the interleaved notebooks, the paired lattices, the transfer between terms, the standing inherited rather than won, the three years of one of them compiling and the other becoming.
+
+"Whatever you transferred for," Ivenne said at last. "Did you find it?"
+
+"Yes," said Karis, without hesitation, and the word carried its entire freight, and both of them let it.
+
+Ivenne nodded once — the nod of an auditor closing a file whose findings she would be processing for a season — and left, russet into the evening crowd, Ternhall's top rank, holder of a vacated standing and author of a perfect finished document, and Karis stood at the boards alone a while, and then came home.
+
+The notebook got two entries that night. The first was the bill, itemized, because she had promised the rail an honest one and Karis kept her promises to instruments: *costs of the improvised game, quarterfinal — both hands scorched at the heel of the palm from unanchored ignition (raw points burn their caster; the lattice exists for reasons); the left wrist strained from a counter taken instead of pre-empted; and a fatigue unlike bracket fatigue, the specific exhaustion of inventing under fire, which the file's author correctly predicted degrades me and which degraded me — I had perhaps half an exchange of invention left when the flags ended it.* The second entry she left open on the table afterward, face up, beside Cael's log — deliberately, the researcher entering her finding into the only journal whose peer review she trusted:
+
+*Finding: the documented self is a boundary condition, not an identity. The file was accurate and I won by exiting its jurisdiction — which is not a trick, and cannot be repeated as one; it worked because the two years since compilation were real. Corollary, entered with the care it deserves: I have been studying Cael for two years. Today was the first day I understood what it costs him that nobody can study him back. My file was a cage with one door, and I walked out of it once and it took everything I had. His condition is the open air. I have been calling that freedom in my notes for two years. Correction, for the record: nobody closes a door behind him, either. The cage was also a house. The file was also a self. He builds both from nothing, nightly, in a log, and I am only now competent to review what that work is.*
