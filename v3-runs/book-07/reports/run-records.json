@@ -660,16 +660,16 @@
     "model": "gpt-5.6-sol",
     "reasoning": "high",
     "adapter": "codex-exec-cli",
-    "status": "RUNNING",
+    "status": "COMPLETED",
     "started_at": "2026-09-01T23:07:00-06:00",
-    "completed_at": null,
+    "completed_at": "2026-09-01T23:12:00-06:00",
     "input_commit": "e6d23ad",
     "harness_commit": "1a24b9cec2781ce0af3ca393ffd14e118b9b9b12",
     "packet_sha256": "a6cc782148f377e6b7a863006332ae2395ff6e3344d92bca7d1d39b9f4623202",
     "prompt_sha256": "807c57ab5b2bbb510e11d2b79d263b62d9709970942d0cc4362cc96d96b80a16",
-    "output_sha256": null,
+    "output_sha256": "8531e481fab66df4ed65b61677f673a7176ed5a6ab5d128a3384c6dce1efe4c2",
     "output_commit": null,
-    "note": ""
+    "note": "PASS, 0 findings; scene CLOSED r1"
   },
   {
     "schema_version": "3.1",

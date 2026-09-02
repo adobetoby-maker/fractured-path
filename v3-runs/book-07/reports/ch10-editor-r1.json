@@ -1,0 +1,351 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch10-r1-editor",
+  "scene_id": "b7-ch10",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The chapter follows directly from Chapter 9's day ninety-five camp and opens the next morning, then records 'Ninety-sixth day' at dusk. Cael remains eighteen, has nine confirmed fragments plus the standing anomaly, carries 108 marks, and the party is six. The measured boundary, registry stake, Path failures, Cael exception, and den sign remain at their scheduled reveal depth without disclosing the Quieting's source, age, purpose, or later Compact interpretation."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third stays within Cael's practical attention: cord counts, strides, ground read, Path tells, material comparisons, injuries, tracks, money, and the private distinction between a true sentence and the truth. Other minds are rendered through speech, posture, hands, and procedure; no secret planning-layer fact enters narration as his knowledge."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "All mandated beats occur in scene: cord/count/'gone'/'back'/Brom's markers; the 1,256-meter-and-a-piece circumference and ten-cord radius; Karis's single geometric 'made'; all five companion trials with the three verbatim required lines and Oryn's three crossings; Cael's running Iron read, foot-wide Wind evasion, true-but-incomplete answer, and nondisclosure; eleven uprights, fused seamless lipped floor, non-local grey, unknown lines, exact-edge numbered registry stake weathered about five years, absent instruments; fresh heavy stillhound sign and Seln's verbatim line; the required looks; and the exact terminal log. Pike's folklore and Chapter 9's stone are paid off by measurement."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "No fight occurs, no stillhound is seen, and no new injury occurs. Cael uses only the Iron-adjacent read and one small Wind-adjacent evasion, silently and unseen; the later floor touch continues the already-running/read component under the packet's permitted grace-note budget. Nobody witnesses fragment function or receives disclosure. Full-file searches return zero for 'Quieting', 'Compact', 'Teague', 'Vastin', and letter/letters; no maker, purpose, or ruin-age theory appears; the stake is identified only by its registry stamp and weathering; the chapter ends on a log rather than dialogue or image; and 'at the pitch/at that pitch' is absent."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Karis's cord procedure produces the geometry; repeated crossings establish the sharp rule; established Path practice makes each failed trial legible; the already-established Iron and Wind fragments make Cael's private tests fair; the contract motivates the site search; and Seln's established fieldcraft finds and reads the den sign. Nothing convenient removes the new danger."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "The Chapter 9 camp configuration persists into morning: stone in the rut, three boxes, mule, six people, Lira's ankle tape, Cael's rib tape, and the dark Arbiter. The party crosses together, leaves mule and two boxes at the road, carries the middle box, and ends together at the far lip. Marks, fragments, injuries, possessions, and knowledge all remain consistent with the frozen state."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Quiet-ground folklore becomes a measured mechanism; every working Arbiter and Path is shown to fail at one line; Oryn learns her hands fail there; Cael learns his fragments do not and chooses a more consequential silence; the site and first stake are catalogued; the contract's instruments are found absent; and the den turns investigation into immediate danger. Cael moves from private uncertainty to knowingly withholding tested evidence."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose uses the series' established catalogue, procedure, object-emotion, ledger, and dry-dialogue register. No influence author is named or detectably imitated."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues camp, boundary, circumference, uprights, floor, materials, lines, missing instruments, tracks, money, and reactions. The Power Log is plain first person and immediately motivated by him taking out the book. Karis measures and records, Lira tests bodily, Brom confirms by touch and labor, Seln converts uncertainty into procedure and sign, and Oryn repeats a clinical trial three times."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. The worldbuilding is performed rather than lectured: the boundary exists through Lira's calls and Karis's cord; Path failure through five distinct trials; registry reach through a punched survey stake; material history through chips, rubbing, cord, sighting, and Cael's ground read; healer scarcity through Oryn's stopped hands; and monster ecology through sign under the lip."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "The chapter introduces no unapproved named entity or capability. It observes a perfect circle, identical Path failure, one registry stake, a non-local floor, Cael's exception, and den sign, but does not name the Quieting, identify the Compact as owner, recall Seln's map blanks, date the ruin, or theorize maker, source, age, or purpose."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked across the opening procedure, perimeter walk, stake examination, multi-person Path trials, site search, and den discovery. In scenes with three or more speakers, the longest unattributed run is two and speaker identity remains fixed by alternating exchange or adjacent action. Italics decorate calls, notebook words, and the final log, but prose supplies owner, action, and meaning, so all survive narration."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every manuscript name was checked by ear against craft/NAME_REGISTRY.md: Cael, Karis, Lira, Brom, Seln, Oryn, Pike, Lowmarch, Thornwater, and Fallow Ring. Arbiter, Wind, Iron Skin, Ember/lattice, Shadow, Tide, and registry are system terms or titles rather than newly minted names. All proper nouns are established or packet-approved, none uses a reserved name, and the same-chapter names remain distinguishable at audiobook speed."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch10.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0, and the section 10 summary-substitution grep returns 0. The exact H1 is present, there are seven '---' breaks, the file ends on prose, and wc -w returns 5,118 words, inside the 3,910-5,290 tolerance band. Every major packet turn is dramatized."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 10 counts followed by current Book 7 Chapters 1-10 totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/1; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Chapter 10 has 0 single-word paragraphs, 0 banned modern-register hits, 0 summary-substitution hits, 0 feeling/growth declarations, and 8 em dashes including the title. Raw 'the way' hits were manually classified: the repeated true simile scaffold 'the way a man [verbs]' occurs 2 times, within the per-chapter cap; the remaining hits are a distinct 'the way she saw' construction or literal direction/manner. 'At the pitch' and 'at that pitch' are both 0 in Chapter 10; the inherited book total is 10, all in Chapters 2-4, so this chapter adds none as required."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 9 ends on an observed image: Oryn lowering her hands as the light leaves the ring. Chapter 10 ends on the required first-person Power Log entry. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Fragment audit against the base snapshot, running state through Chapter 9, and the previous chapter: nine confirmed fragments plus one unconfirmed Tide-adjacent anomaly; no acquisition; Iron-adjacent read and Wind-adjacent evasion only; all others held; Arbiter still dark; disclosure count unchanged. Injury audit: Cael's rib tape still stops breath and his old calf is correctly silent on flat ground; Lira's right ankle is taped; Brom's ford-scarred forearm is raised, dense, and the mend holds; Karis's hand remains scarred and functional; Seln remains unmarked; Oryn's raw heel was explicitly healed in Chapter 9. No new injury or unledgered cost appears."
+    },
+    {
+      "gate": "state.party_headcount",
+      "state": "PASS",
+      "evidence": "The established party of six is present from morning through the final beat: Cael, Lira, Brom, Karis, Seln, and Oryn. 'Six over the stone' explicitly fixes the crossing count, and all six reactions are accounted for at the den."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and none occurs. The den and failing light establish Chapter 11's stakes without beginning its exchange."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The noncombat set piece is nevertheless drawable: road and stone at the western boundary, a circular perimeter around the central ring, survey stake sixty meters around the line, ring ten cords in, and den under the far lip."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "All physical tests respect established reach and condition: Lira attempts only small/full forms that become ordinary steps; Brom's bare skin is checked at contact; Oryn reads through both hands on the same forearm; Karis can perceive but not light her lattice; Seln retains trained fieldcraft without Shadow; and Cael's silent read/evasion match previously acquired components and do not erase his rib tape."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The six remain strongly differentiated by how they test and interpret the boundary."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat exchange occurs. Cael's pivotal decision to conceal successful fragment use is assessed under causality, obligation, and emotional-movement gates."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The chapter changes knowledge, trust pressure, danger, and tactical understanding without damage."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "Prior costs persist in Cael's rib tape, Lira's ankle tape, Brom's forearm scar/mend, and Karis's scarred hand; Seln is still unmarked and Oryn's prior heel is already explicitly resolved. The chapter adds no injury, exhaustion, or unrecorded deployment cost."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No rank or fragment advances. The chapter's knowledge delta has an intelligible cause: controlled trials establish the circle and failure rule, while two established fragments establish Cael's exception."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Cael's exceptional capability creates a trust tradeoff through deliberate nondisclosure, while everyone else's identical failure removes combat and healing options inside the line. The final den makes that tradeoff immediately dangerous."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress appears as field knowledge, Karis's documented procedure, Oryn's changed professional understanding, Cael's choice, the failed recovery contract, and a new tactical danger—not as a rank or stat increase."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "There is no victory. Cael's two successful tests use long-established Iron- and Wind-adjacent components and create future pressure rather than resolving the den threat."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "No rival is required on page. Institutional motion is materially present through an older numbered registry survey stake exactly on the measured boundary and a recovery contract seeking instruments that are absent, while interpretation remains withheld for later chapters."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "Chapter 9's approach and first bodily boundary encounter become field measurement, controlled Path trials, material catalogue, private capability testing, and den discovery. The problem changes from whether a line exists to how it works and what lives inside it."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Prior stillhound experience produces Seln's declare-inside-only safety rule and careful sign reading; the Chapter 9 boundary encounter produces formal measurement; Cael's long history of being misread shapes his true-but-incomplete answer; and each failed Path trial changes the party's tactical understanding before the fight."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The terminal Power Log is a physical document owned and written by Cael at an immediate decision point."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display. Manual values—day 96, age eighteen, 108 marks, eleven uprights, one stake, nine fragments—match the approved state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The italicized log reads as ordinary first-person prose when formatting is stripped."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The required Power Log records Cael's concealment and fixes the den's tactical pressure."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "Maker, source, purpose, ruin age, later terminology, Compact ownership/knowledge, Seln's map memory, and the true reason Cael is unaffected remain withheld. Cael reports only tested function and admits he does not yet understand his own silence."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "No combination or acquisition occurs. The Iron-adjacent ground read and Wind-adjacent evasion are used separately, and both components were established before this chapter."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The scene makes Path function, not formal rank, relevant. No rank-bearing transaction, access decision, or social encounter occurs."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "No extraordinary capability resolves the den threat. The measurement resolves the boundary's geometry through shown cord arithmetic, and Cael's tests use established Iron and Wind fragments; Chapter 9 supplies the lower-numbered boundary plant."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Every repeatedly used named capability is constrained on the page or by established state: Wind becomes an ordinary step inside, Iron Skin becomes skin, Ember lattice cannot light, Shadow disappears at the stride, Tide stops in Oryn's hands, and Cael limits his test to the cheapest read and a foot of evasion while carrying the established Wind landing-beat doctrine."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The chapter extends existing people, Paths, quiet-ground folklore, the Fallow site, registry practice, the recovery contract, stillhounds, and Cael's fragments. The Fallow Ring label and numbered stake are packet-approved; no unapproved named person, place, faction, Path, or subsystem is minted."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: Karis has a cord and wants to know where the boundary is. Delivery: the line becomes a perfect measured circle with a fixed radius; its rule is tested across every Path; Cael learns his exception; the site and stake are catalogued; the contract target is absent; and the den converts knowledge into changed pressure."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The chapter pays Pike's earlier folklore and Chapter 9's marked stone, identical Arbiter failure, Cael non-change, visible ring, and Oryn's stopped hands. Cael's Iron and Wind components have each done independent work in earlier books. The stake, den, and hidden fragment function remain plants/progress rather than premature explanation."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The quiet-ground mystery advances by reproducible observation without false explanation; the recovery contract advances by a searched absence and one stake rather than invented instruments; the stillhound thread pays folklore with sign rather than an early fight; and Cael's character thread advances through a choice and log rather than a declared conclusion."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Worldbuilding runs through cord knots, strides, wrist bend, scrub, grass, stone, punched iron, skin, hands, lattice points, ground pressure, masonry chips, charcoal rubbings, tracks, bones, scat, lip, and failing sun. Explanatory passages are continuously tied to physical tests and visible results rather than outnumbering sensory/action sentences."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the first cross-family review of a fresh draft; per-book revision-pass history is outside the supplied manuscript evidence."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The measurement and den-discovery set piece is spatially reconstructable from the road stone, circular line, ten-cord radius, central ring, and far lip."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. Cadence nevertheless moves from long procedural accumulation to short trial results and the terminal log without relying on fragment spam."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The boundary trials remain assignable without names: the researcher measures, the Wind fighter tests movement, the Iron fighter offers skin, the infiltrator retains craft, the healer repeats a clinical crossing, and the cataloguer conceals a private result."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or combat exchange occurs. The chapter deliberately establishes the line, healer failure, distance, den, and failing light before Chapter 11's first blow."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every current or recently resolved injury was checked against the state snapshot and Chapter 9: Cael's rib tape recurs and his flat-ground calf needs no limp count; Lira's ankle tape recurs; Brom's forearm scar and mend recur; Karis's scars recur; Seln remains unmarked; Oryn's heel was explicitly resolved in the previous chapter. No injury vanishes or appears without cause."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The chapter prepares a new tactical problem in kind: every ordinary Path and the healer's hands fail inside a fixed-radius circle containing a stillhound den."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "All architecture-major content is staged in real time: perimeter pacing, arithmetic finding, stake examination, each Path trial, Oryn's repeated clinical crossings, Cael's tests and lie-by-truth, site catalogue, instrument search, den sign, group reaction, and log. Only uneventful portions of walking/searching are compressed."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. Terrain is load-bearing in the noncombat choreography: varied perimeter ground tests boundary constancy, the road stone anchors the line, the central floor verifies radius, the raised far lip shelters the den, and two hundred meters plus failing sun create the next chapter's danger."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "No stat advancement occurs. Human and knowledge progress is legible and costly: Karis converts folklore into a reproducible method, Oryn learns her professional limit, and Cael gains exceptional knowledge at the cost of deliberately widening a trust secret while the den makes disclosure tactically relevant."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This per-arc major-win gate is not exercised; the chapter contains no win or rank contest."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No protagonist advancement or named-rival beat occurs in this field-measurement chapter."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank advancement or rank-bearing social scene occurs. Progress echoes through group observation and Cael's concealment, assessed under the emotional and progression gates."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. Cael visibly owns and writes the Power Log after the group turns to him at the den."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional reach is shown materially through a seal-stamped, numbered iron stake placed on the exact boundary and through the contract's missing instruments. No protagonist speech substitutes for the institution acting or for physical evidence."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Dry asymmetry such as Lira being named 'the instrument' is character interaction, not humor used to deflect danger, pain, or moral cost."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Cael processes the successful tests and his concealment without jokes or lampshading: he separates true halves from the truth, recognizes that he has retained the same reasons as the night before, and ends by recording that he must examine why he has told nobody."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The arc's later outward-reading moral-cost checkpoint has not opened. Cael's trust secrecy advances as a separate packet-mandated pressure."
+    }
+  ],
+  "findings": [],
+  "concerns": [
+    "Taste only: the perimeter walk and the later site catalogue are both deliberately exhaustive procedural movements. At 5,118 words the chapter is within tolerance, but an audio pass may find a small amount of compressible repetition in the scrub/grass/stone transitions or repeated floor measurements without touching any required arithmetic, trial, material, or den beat.",
+    "Taste only: the sentence explaining that both halves of Cael's answer are true and together are not the truth is thematically exact, but the immediately following explanation of why nobody studies him restates some subtext already carried by the companions looking at their own failed abilities. The current explicitness is defensible for the secrecy turn.",
+    "Taste only: the final sequence of each companion looking at the line, then Oryn, then Cael is mandated and lands clearly; in audio its repeated 'looked at the line' syntax will depend on performance and pacing to retain escalation rather than feel enumerative."
+  ],
+  "strengths": [
+    "Yes: worldbuilding is done through mechanism and use. The chapter teaches a supernatural rule with a cord, a count, bodies crossing a rut, five distinct professional tests, a stamped stake, masonry comparisons, charcoal rubbings, and monster sign. The reader learns the world by watching competent people operate inside it.",
+    "There is no fight, exactly as prohibited. The measurement and discovery nevertheless form a memorable noncombat set piece with load-bearing terrain: the road stone anchors the boundary; changing scrub, grass, and rubble prove its constancy; the constant bend produces the circle; ten cords locate the ring; the raised far lip makes the den possible; and two hundred meters plus failing sun create danger. Because no combat victory occurs, the fight win sentence 'X removed Y's ability to Z' is correctly not applicable; the chapter instead establishes the precise ability-removal problem Chapter 11 must solve.",
+    "Karis's competence is unusually well dramatized. The bend entering her wrist, the circumference checked against the expected number, the radial cord, the taut-string level, masonry chips, rubbings, and refusal to follow 'made' turn method into character rather than praise her abstractly.",
+    "Each Path failure is both mechanically consistent and personally voiced: Lira understands motion and timing, Brom reduces the result to skin, Karis distinguishes known lattice geometry from absent expenditure, Seln separates Path from fifteen years of craft, and Oryn repeats the crossing until a story becomes a finding.",
+    "Oryn's three trials are cold enough to make the coming crisis fair. 'Nothing. Not nothing in him. Nothing in my hands.' precisely separates patient state from instrument failure, while 'A healer's hands stop working there' converts folklore into professional evidence without theory.",
+    "Cael's private test is physically legible and ethically charged. The Iron read begins before the line, survives it on continuous ground, and the foot-wide Wind evasion reads from behind as an ordinary step; his answer is literally true while withholding the decisive fact. The mechanics and the trust turn land together.",
+    "The stake is an efficient institutional plant. Its square iron, punched stamp and number, exact placement, weather scale, and implied list reveal prior administrative action through an object in use, while the prose obeys the chapter's ban on naming an owner or supplying Seln's later interpretation.",
+    "The site catalogue belongs strongly to Cael: eleven counted repeatedly, level checked rather than admired, seamlessness privately felt through a fragment, unknown lines tested against Karis's holdings, and the missing instruments converted into the number thirty-one. 'He catalogued the site, because he loved it and that was how' earns its directness through the surrounding procedure.",
+    "The den closes the causal circuit from Pike's folklore without showing a hound or stealing Chapter 11's fight. Tracks, marrow-cracked bones, recent scat, worn threshold, and the sheltering lip let Seln derive exactly one sentence and no more.",
+    "Production and continuity checks are clean: 5,118 words is within tolerance; metadata and summary greps return zero; all capped Chapter 10 tics are zero and book totals remain within cap; the prohibited pitch phrase receives zero new uses; the longest unattributed dialogue run is two; names are authorized and distinct by ear; fragments, injuries, possessions, money, and headcount reconcile; and the terminal log differs from Chapter 9's image close."
+  ]
+}
