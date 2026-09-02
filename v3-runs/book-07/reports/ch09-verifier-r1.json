@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch09-verifier-r1",
+  "scene_id": "b7-ch09",
+  "editor_run_id": "b7-ch09-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch09-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch09-r1.md:93-95 ('Seventeen days')",
+        "STATE_RUNNING: ribs broken day 78, taped day 81; Thornwater day 93"
+      ],
+      "reason": "Seventeen matches neither count. Repaired to 'Fifteen days. Since the break.' / 'Fifteen.' \u2014 Oryn counting from the break in her clinical register."
+    },
+    {
+      "finding_id": "ed-b7-ch09-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch07.md:27 (heel gone raw, taped)",
+        "v3-runs/book-07/drafts/ch09-r1.md (no heel reference)"
+      ],
+      "reason": "Minor wound established as a cost she cannot heal on herself; next appearance omitted it. Repaired by one sentence at her walking description: healed in the nine days the ordinary way; walk unchanged."
+    }
+  ]
+}

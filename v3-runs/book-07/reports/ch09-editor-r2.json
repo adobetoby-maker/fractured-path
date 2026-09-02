@@ -1,0 +1,353 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch09-r2-editor",
+  "scene_id": "b7-ch09",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The calendar reconciles: departure day 91, Thornwater day 93, east gate day 94, and the line day 95. The verified rib-age contradiction is repaired by the exact manuscript exchange: \"Fifteen days,\" she said. \"Since the break.\" / \"Fifteen.\" The ribs broke on day 78, fifteen elapsed days before day 93."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third remains inside Cael's cataloguing attention: maps, hands, route arithmetic, injury inventory, walking order, stride counts, his dark Arbiter, and the final light. No secret mechanism, perimeter, material, stake, maker, purpose, or Compact knowledge enters narration."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "Both maps and Karis's exact line appear; Oryn is at Thornwater on the ninth day with both reasons, eleven prior passes, route ownership, and six on the road; Ephram's required facts and final line and Vell's verbatim letter appear; all required reactions, the ten-paces procedure, stone, Cael's unchanged silence, exact mid-chapter log, plants, Pike payoff, and ninth-day payoff occur; the chapter closes on the required image."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Nobody proceeds past the marked line or measures it; the visible site is limited to broken uprights and a floor catching the last sun like water. There is no fused-stone description, survey stake, Quieting, theory, fight, fragment use, stillhound sighting, Teague, Vastin, new named entity, disclosure by Cael, modern idiom, feeling/growth declaration, terminal log/dialogue, metadata, or use of 'at the pitch'/'at that pitch'."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The marked contract and monthly ferry cause the departure and letters; the ninth-day promise causes the Thornwater meeting; Oryn's patient and route arithmetic cause her limited participation; Pike's folklore and the carter map cause the careful approach; simultaneous bodily reactions cause Seln's retreat procedure and Karis's stone. No coincidence erases a cost or supplies an answer."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Cael's ribs and calf, Lira's mended leg and taped ankle, Brom's recovered forearm, Karis's healed hands, Seln's unmarked state, nine fragments plus anomaly, 108 marks, three boxes, and Oryn's route persist. Both verified defects are repaired: the break is fifteen days old, and Oryn's raw heel is explicitly resolved as healed in nine days on the ordinary schedule."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The crew becomes six on the walk without erasing Oryn's independent route; two letters update Cael's relationship to Halcenvane and Ardenmere; folklore becomes a reproducible boundary event; every working Arbiter stops at one stride; Cael learns that his does not change and chooses silence; the stone and promise to enter create the next obligation."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter remains in the series' own catalogue, ledger, procedure, object-emotion, and dry-dialogue register. No influence author is named or detectably imitated."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues witnesses, maps, roads, handwriting, injuries, marching order, terrain, Arbiter state, strides, money, boxes, and light. Ephram, Vell, and the Power Log retain distinct in-world registers. Oryn prices time and bodies, Karis sources and records, Lira reads implication, Brom counts weight, and Seln converts uncertainty into procedure."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. The registry's cartographic power appears through verified endpoints, solid lines, dashes, blank paper, and roads physically walked; the edge-country alternative appears through a hand-copied carter map and three bends around blank circles. Mail, the public board, Oryn's route, healer reserve, and quiet ground likewise operate as procedures that constrain choices."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "All proper nouns are established or packet-mandated. The chapter observes identical Arbiter failure and Cael's non-change without interpretation. It gives no perimeter size or shape, no material finding, no survey evidence, no later terminology, and no theory about source or purpose."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was rechecked across the Thornwater gate, letter discussion, marching halt, and boundary procedure. In the 3+ speaker scenes, the longest run of unattributed dialogue paragraphs is three, below the maximum of four; all other voices are tagged or fixed by adjacent action. Italics decorate letters and the log, but surrounding prose identifies owner and purpose, so meaning survives aloud."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every manuscript name was checked by ear against craft/NAME_REGISTRY.md: Cael, Pike, Karis, Lira, Brom, Seln, Oryn, Ephram, Vell, Rooke, Withrow, Bracken, Ilsev, Lowmarch, Thornwater, Fallow, Halcenvane, Ardenmere, Weaver's Row, and the Line. No new name is minted. Bracken/Brom and Halcenvane/-vane remain known pre-audio rename flags explicitly required in the fixed letter text; the other names are distinct at audiobook speed."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch09.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0; the section 10 summary-substitution grep returns 0. The H1 is exact, there are five '---' breaks, the file ends on prose, and wc -w returns 5,286 words, inside the 3,910-5,290 range. Every assigned turn occurs in scene."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 9 / current Book 7 Chapters 1-9 counts: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/1; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Chapter 9 has one true 'the way X verbs' simile (the other regex hit is literal direction), zero single-word emphasis paragraphs, and zero banned modern/summary patterns. 'At the pitch'/'at that pitch' adds 0 uses; the inherited Book 7 total remains 10, all from earlier chapters as declared by the packet."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 8 ends on a first-person Power Log entry. Chapter 9 places its mandated log mid-chapter and ends on an observed image: last light on the ring and Oryn lowering her hands. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Fragment inventory matches the base snapshot and running state: nine confirmed plus the standing Tide-adjacent anomaly, no acquisition, no deployment, and the dark Arbiter unchanged. Injury audit against Chapter 8, the running state, and Chapter 7: Cael's three ribs remain taped and right calf says nine uphill; Lira's mended right leg bears weight while the right ankle is retaped; Brom's right forearm is in full use; Karis's hands and pen are healed; Seln is unmarked; Oryn's raw heel is now explicitly healed after nine days."
+    },
+    {
+      "gate": "state.party_headcount",
+      "state": "PASS",
+      "evidence": "The manuscript begins with the established five, meets Oryn on the promised ninth day, and states 'Six on the Fallow road' once. Oryn explicitly adds the crew as a stop on her route; the prose never says she joins the crew."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and the chapter contains none."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The noncombat boundary set piece remains drawable: road, rise, left shoulder, bend, marching order, shared stride, ten paces back, stone on the near side, ridge, bowl, and off-road ring."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "Physical behavior respects established condition and equipment: Cael carries the satchel off the taped side and loses breath at the tape; his calf counts uphill; Lira walks on the mended leg and retapes the ankle; Brom carries boxes after the arm restriction elapsed; Oryn's healed heel does not alter her established walk; all nine fragments remain held to nothing."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat exchange occurs; Seln's retreat procedure and Cael's silence are assessed under causality and obligation gates."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The chapter changes knowledge, relationship, route, danger, and obligation."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "Prior costs remain embodied or are explicitly resolved: taped ribs, a counting calf, a taped ankle, recovered forearm and hands, and Oryn's heel healed on the ordinary nine-day schedule."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No rank or fragment advances. Human and knowledge deltas are caused and exact: a prior clinical anomaly and promised date add the crew as one stop on Oryn's route; Pike's folklore becomes a marked boundary; five Arbiters fail identically; Cael's remains unchanged; his silence begins."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Oryn's added stop costs a day she owes at the next hold, while Cael's new knowledge carries the immediate tradeoff of deliberate non-disclosure. The crew camps without fire and stops rather than taking the recovery farther that night."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress appears as Oryn's route choice, the first six-person walk, altered correspondence with former institutions, a marked stone, shared procedure, and Cael's changed trust behavior—not as a stat display."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No capability resolves a conflict. The boundary creates a problem and plant; observation and retreat preserve safety."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "The registry sends a query, Bracken answers it on his own terms, Halcenvane installs an unnamed cohort captain, Withrow's tenure remains active pressure, the Crown yard changes in Cael's absence, Vell files his record, the ferry carries mail, and Oryn continues to allocate her independent route."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "After Chapter 8's board, folklore, and council problem, Chapter 9 changes the challenge to travel, correspondence, route arithmetic, bodily anomaly, field procedure, and withheld knowledge."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Prior injuries shape load, pace, breath, and tape or receive explicit resolution; the Compact's prior treatment shapes Cael's reading of blank maps and his refusal to volunteer an uninterpreted anomaly; Oryn's healer scarcity determines how she joins the walk."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The Power Log and letters are owned physical documents with in-world triggers."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display. Manual counts—nine fragments plus anomaly, 108 marks, calendar days, passes, and paces—match approved state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The required Power Log records Cael's choice and the next-day obligation."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The Quieting name, perimeter, material, stakes, Compact survey knowledge, mechanism, source, and purpose remain withheld. Cael observes only that his already-dark Arbiter does not change and does not turn that observation into theory."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fragment is used, acquired, or combined."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "The institutional world is shaped by registration and verification rather than combat: maps end where the registry will not vouch, a registry query seeks travel direction, and Oryn's healer labor is allocated by route and bodily need rather than tier."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No extraordinary capability resolves conflict. Seln's back-up procedure responds conservatively to a new phenomenon."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No named ability is introduced or used. Quiet ground creates a constraint but does not resolve the chapter."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The chapter extends existing maps, roads, board procedure, ferry mail, letters, route healing, injury states, Arbiter behavior, and Fallow folklore. It mints no unapproved named person, place, Path, faction, technology, or subsystem."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: walk the registry's void road and compare ink to a real country. Delivery: the maps become the title's argument, Oryn makes six on the road, inside letters travel east, and the road terminates for the night at a bodily line Cael alone cannot feel."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The boundary event pays Pike's Chapter 8 rule and Oryn's Chapter 7 date. The identical Arbiter failure, Cael's unchanged darkness, Oryn's hands, and 'Tomorrow we go in' remain plants rather than reveals."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The route event pays its promised meeting; the inquiry thread advances from folklore to observable boundary without falsely answering cause; correspondence updates relationship threads without closing them; the site milieu is approached but not entered."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Worldbuilding stays attached to paper, ink, brands, ruts, wet cart tracks, blank circles, handwriting, a healer's table, boots, tape, scrub height, slope, shoulder, stride, stone, and changing light. Explanation is tested against objects and use rather than abstracted away from the scene."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The supplied evidence documents a targeted continuity repair, not a per-book three-pass revision history. The actual r1-to-r2 diff is limited to the two verified repairs."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs; the boundary approach is nevertheless spatially drawable and is assessed under the noncombat position gate."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. Cadence variation in the discovery sequence is a voice consideration, not this combat gate."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. Character differentiation in dialogue and procedure passes the voice gate."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight or first blow occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every open or recently resolved injury recurs or is explicitly closed at the next relevant appearance. The verified omission is repaired by: 'The heel that had gone raw in her boot on the mountain had healed in nine days the ordinary way, on the ordinary schedule; it had not changed the walk, and he catalogued that.'"
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Only incident-free walking and Oryn's evening table are compressed. The maps, Thornwater meeting and reasons, both letters, bodily boundary turn, retreat procedure, silence, log, and final image occur on the page."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. Terrain is load-bearing in the noncombat set piece but the gate requires combat beats."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "There is no stat advancement. Human and knowledge progress is legible and paid for through Oryn's owed route day, Cael's deliberate silence, and the crew stopping at the line."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a per-arc major-win gate; no fight or win occurs in the chapter."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a per-arc gate and Teague is prohibited from appearing in this chapter. Institutions continue moving under progression gate 5."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Progress echoes outside statistics through the public HOLD marking, eleven witnesses, the registry query, Bracken's answer, Vell's filed standing, the first six-person road formation, and Oryn adding the crew to her route."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. Letters and the Power Log have explicit owners and in-world occasions."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional critique is dramatized through the registry's cartographic standard, its blank paper, the query for former enrollees, and Bracken's exact truthful answer rather than through a speech declaring the system unjust."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor is deployed under stakes as a scene mechanism."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Cael processes both letters and his unchanged Arbiter without jokes or deflection; he files uncertainty, chooses silence, and records the fact plainly."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The reading-turned-outward moral stake begins later in the arc. Cael's silence is consequential but is not the arc document's named moral-cost checkpoint for this gate."
+    }
+  ],
+  "findings": [],
+  "strengths": [
+    "Recheck scope is clean. A direct unified diff between ch09-r1.md and ch09.md contains exactly two manuscript changes: the 'Fifteen days ... Since the break' exchange and the heel-resolution sentence. No unrelated passage changed. Every strength recorded in the r1 editor report survives in the repaired draft.",
+    "Both verified findings are repaired with exact manuscript evidence. ED-B7CH09-001: 'Fifteen days,' she said. 'Since the break.' / 'Fifteen.' ED-B7CH09-002: 'The heel that had gone raw in her boot on the mountain had healed in nine days the ordinary way, on the ordinary schedule; it had not changed the walk, and he catalogued that.'",
+    "Yes: the worldbuilding is done through mechanism and use. The registry's worldview is a printed standard—verified endpoints, brands, solid roads, dashes, and blank paper—tested under Cael's feet against ruts, carts, fords, a failed traverse, and a carter's competing map. The title becomes both object and argument without detached lore exposition.",
+    "There is no fight, exactly as the prohibited outcomes require. The last-mile discovery is nevertheless a memorable set piece whose terrain is load-bearing: thinning scrub exposes the approach; the low ridge and shoulder force the bend; the shared stride creates the line; ten paces back establishes procedure; the stone fixes memory; the falling light reveals the ring and then leaves Oryn's hands empty. Because there is no combat victory, an 'X removed Y's ability to Z' win sentence is not applicable.",
+    "The two maps remain unusually efficient thematic objects. Cael's registry sheet turns institutional refusal into negative space, while Karis's carter copy encodes local survival by bending around unnamed circles. Her exact line—'Their map has no roads. His has no quiet ground. Between them you get the country.'—is unchanged.",
+    "Oryn's participation still protects her independent want. She treats the crew as one added stop, names the day she will owe elsewhere, works nine patients before leaving, and walks beside her mule rather than being absorbed into the party. The repair sentence adds continuity without changing her economical, sure-footed motion.",
+    "The letters continue to carry emotional and institutional movement through physical objects and differentiated voices. Ephram reports weather in ordered restraint; Bracken weaponizes truthful blank space; Vell answers resignation by entering an unprecedented ledger line. Cael reacts through filing, shelf placement, paper, and reading order rather than declared feeling.",
+    "The boundary turn remains staged in the body before the mind and gives each person a specific response: Lira gets density, Brom closure, Oryn raised healer's hands, Karis instrument failure, and Seln procedure. Identical failure is observed at a stride without theory, making the Book 9 plant clean and audible.",
+    "Cael's silence remains earned rather than coy. The chapter establishes his four-year-dark Arbiter before the line, records no change in either direction, shows why nobody looks to him, and gives him two narrow reasons for withholding. The exact log fixes the fact while refusing interpretation.",
+    "The final image still obeys both packet and scene-closer rule. Chapter 8's terminal log becomes a mid-chapter record here; prose continues into camp, ridge, broken uprights, water-like light, and Oryn lowering her hands after the floor and ridge go dark.",
+    "Production checks are clean: 5,286 words is within tolerance; metadata and summary greps return zero; every capped Chapter 9 tic is zero; the true 'the way X verbs' simile count is one; single-word emphasis paragraphs are zero; the pitch prohibition receives zero new uses; names are authorized and checked by ear; and the longest unattributed run is three."
+  ],
+  "concerns": [
+    "Taste only: the opening map argument is excellent and required, but it remains a long explanatory run before Ephram's letter. At 5,286 words—four below the tolerance ceiling—an audio compression pass may find small redundancies among the registry-standard explanation, the ink/ground catalogue, and the later restatement that Bracken's answer is the printed sheet said aloud.",
+    "Taste only: Ephram's final line already carries its omission, and Cael then parses it through three readings, Ephram's fighting order, and a second filing paragraph. The reaction is character-true, but the strongest subtext may land before all of its explanation has finished.",
+    "Taste only: the boundary sequence deliberately repeats 'same place,' 'same stride,' 'same line,' and 'same step.' This is functional measurement, not an anti-tic defect, but the audiobook pass should preserve escalation so the procedural refrain does not flatten into redundancy.",
+    "Taste only: the heel repair is intentionally explicit—'ordinary way,' 'ordinary schedule,' 'it had not changed the walk'—and therefore reads slightly more like continuity closure than the surrounding kinetic catalogue. It remains in voice, does not breach a gate, and is preferable to letting the injury vanish."
+  ]
+}

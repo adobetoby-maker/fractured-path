@@ -18,3 +18,4 @@
 - POLICY (owner, 22:15): each closed chapter is committed and pushed to origin/main by a Sonnet git agent (stage only books/book-07-void-roads and v3-runs/book-07; pull --rebase first; never force). ch01–07 pushed as one batch; ch08+ per chapter on close.
 - (ch08) departed-and-returned: closing log says 'Twelve weeks' (card: 'Eight weeks') to match the drafted calendar (day 90); accepted by the orchestrator; architecture card to be annotated in the book-scope pass.
 - (ch08) Sol BLOCKER on 'Eight weeks' vs the drafted calendar resolved by planning-layer exception EXC-B7-001 (packet exceptions + architecture Ch8 card amended to 'twelve weeks'); no prose change; closed without a codex recheck since the manuscript did not change.
+- (ch09) MEDIUM day-count and LOW heel-persistence findings verified; repaired directly by the orchestrator; editor recheck r2 launched.
