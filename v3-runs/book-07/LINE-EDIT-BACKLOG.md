@@ -1,1 +1,2 @@
 - 'at the pitch': 10 uses across ch01–ch04 (1/3/6); cap is 3 per book (VOICE_CHARTER §9). Reduce in the line-edit pass; keep at most three, distributed; do not replace with a new repeated scaffold.
+- Feryn/Oryn rhyme: do not voice in sequence (ch14/ch24 inventories guarded); audiobook read-through list: Oryn/Oxhollow/Ostrand, Pike/Fiske.

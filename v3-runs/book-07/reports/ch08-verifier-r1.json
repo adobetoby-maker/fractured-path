@@ -1,0 +1,20 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch08-verifier-r1",
+  "scene_id": "b7-ch08",
+  "editor_run_id": "b7-ch08-r1-editor",
+  "verdict": "RESOLVED_BY_EXCEPTION",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch08-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch08.md (closing log 'Twelve weeks' \u00d72; dateline 'Ninetieth day')",
+        "v3-runs/book-07/STATE_RUNNING.md (day 84 Oxhollow; day 93 Thornwater)",
+        "v3-runs/book-07/packets/ch08.json exceptions[EXC-B7-001]",
+        "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md Ch8 card (amended)"
+      ],
+      "reason": "Authority conflict verified as real. Resolved at the planning layer: exception EXC-B7-001 approves 'Twelve weeks'; the arc document is amended so the required text is true; no prose change; gate state EXCEPTION_APPROVED. Manuscript otherwise clean per the editor's strengths; scene closes."
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch08-r1-editor",
+  "scene_id": "b7-ch08",
+  "verdict": "STRUCTURAL_HOLD",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The manuscript's 'Ninetieth day' and 'Twelve weeks' agree with the frozen post-Chapter-7 state: Oxhollow is day eighty-four, Lowmarch is six travel days later, and Thornwater is due on day ninety-three. However, the packet separately requires the closing entry 'as given' with 'Eight weeks' twice. No exception resolves this state-versus-work-order conflict, so the manuscript cannot satisfy both authorities as currently compiled."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third stays inside Cael's practical attention: he counts the town, board, ledger, paper, faces, map, injuries, money, and silences. Other characters' motives remain speech-, action-, or posture-based inference; no hidden broker fact, quiet-ground mechanism, or off-page Teague knowledge enters narration as fact."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "The traverse entry, cart charge, fair acceptance, board-standing shift, physical posting, Pike's stillness and full folklore, all three mandated Pike/Karis beats, Seln's language finding, Teague's refusal, five-voice council, ninth-day observation, withheld invitation, decision, plants, and payoffs are present. The sole unmet delivery is the explicit requirement that the chapter end on the supplied log 'as given': the draft changes both instances of 'Eight weeks' to 'Twelve weeks.'"
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "The chapter remains in Lowmarch. Nobody visits, enters, measures, or theorizes about the site; 'the Quieting,' fused stone, survey stakes, Oryn, Vastin, and Architect are absent. Teague has no dialogue; no fight, fragment use, declaration, letter, watcher, modern idiom, feeling/growth declaration, metadata, or 'at the pitch/at that pitch' occurs. The only new names are the permitted Fallow road and Fallow Ring, and the ending is a log rather than dialogue or image."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The crew's completed ford and traverse work causes the holds to request their names and Pike to move them up the wall. The posting's high price, repeated refusals, Pike's warning, Karis's independent intent, Seln's professional read, and Cael's curiosity all visibly cause the council's decision. No coincidence erases cost or supplies an answer."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "The lost cart becomes a six-mark charge and is paid; the map is delivered; the three boxes remain intact; money reconciles from 116 to 108 after boot and smith; injuries persist on the correct owners and sides; Oryn remains north on her route; Teague remains independently employed; the contract physically enters Cael's satchel."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Standing moves from twelfth to tenth, two holds now request the five by name, Chapter 4's rumor becomes the Fallow Ring and a paid contract, the registry-prose plant enters the log, the party commits east, and Cael's freedom shifts from relief at being unread to curiosity about a place that reads nothing."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose remains in the series' own cataloguing, ledger, procedural-emotion, dry-dialogue register. No external author is named or detectably imitated."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael inventories Lowmarch, seventeen slips, the posting's material clues, Pike's nine-count stillness, wall position, money, route days, injuries, and fragment count. The closing Power Log is plain first-person diegetic writing. Pike prices, Karis sources, Brom weighs, Lira tests the bodily risk, Seln reads institutional prose, and Cael reduces his public reason to 'It pays.'"
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes: worldbuilding is done through mechanism and use. The board works by paper, brands, witnesses, HOLD marks, public saying, wall order, price deductions, and names requested at the ferry. Quiet ground enters through a carter's route rule and Pike's practiced refusal, while the Compact's reach appears as form-language under a genuine local seal rather than dossier exposition."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "The chapter instantiates only packet-authorized Lowmarch detail, posting material, council dialogue, Fallow road, and Fallow Ring. Pike gives carter folklore and a visible ring of stones but no measurement, material, floor, stake, mechanism, maker, purpose, or later name; Seln stops at two facts and refuses theory."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked across the board, folklore, roof-edge, saying, council, and final Pike exchanges. The longest run of dialogue paragraphs without a speaker tag or adjacent speaker action is two, below the maximum of four; alternating exchanges remain clear aloud. Italics decorate the posting and log but their words carry the meaning without typography."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every name heard was checked against craft/NAME_REGISTRY.md: Cael, Lira, Brom, Karis, Seln, Pike, Teague, Lowmarch, Oxhollow, Thornwater, the Fallow road, and the Fallow Ring. No unapproved name is minted. Pike remains distinct from Fiske by onset and vowel; Teague is distinct from the registered T-names; Oxhollow is distinct from Oryn/Orvet/Ostrand; the descriptive Fallow names do not collide with an existing person or place."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch08.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0; the section 10 summary-substitution grep returns 0. The H1 is exact, there are five rule breaks, the file ends on prose, and wc -w returns 5,189 words, inside the 3,910-5,290 range. Only incident-free travel is compressed."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 8 counts, followed by actual current Book 7 Chapters 1-8 totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/1; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Chapter 8 has 2 'the way you/he/she [verb]' constructions, 2 single-word prose paragraphs ('Recovery.' and 'Tenth.'), and 34 em dashes. Modern-register, feeling-declaration, growth-declaration, summary-substitution, and 'at the pitch/at that pitch' searches return 0 in the draft; the packet-declared inherited pitch cap receives no addition."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 7 ends on an observed-from-distance image of Oryn's mule diminishing against the bench. Chapter 8 ends on a first-person Power Log entry. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "The inventory remains nine confirmed fragments plus one anomaly, with no deployment since the ford and Shadow untouched. Against the snapshot and Chapter 7: Cael's three left low ribs remain taped and his right calf bound; Lira's right leg is mended and aching while the right ankle remains taped and she has a replacement right boot; Brom's right forearm returns to full use only after the seven-day restriction; Karis's palms are healed and pen-normal; Seln remains unmarked."
+    },
+    {
+      "gate": "state.party_headcount",
+      "state": "PASS",
+      "evidence": "The active party is exactly five—Cael, Lira, Brom, Karis, and Seln. Oryn is absent and referred to only as 'the healer' or 'she'; Teague's four-person crew remains off-page."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and the chapter contains none."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The board roof, plank, river side, road side, inn doors, fire, wall, and council table remain spatially legible."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "Although no fight occurs, physical behavior respects state: Brom waits the full ordered week before using the right arm; Lira stands off the taped ankle and wears a packed replacement boot; Cael's breath stops at the rib tape and his calf still counts on a climb."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat exchange occurs; the council decision is assessed under causality and obligation gates."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The chapter nevertheless changes standing, knowledge, obligation, route, and danger."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "Prior action costs remain visible as taped ribs and ankle, bound calf, delayed arm use, replacement boot, lost cart, and a six-mark debit paid and recorded."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No stat advances, but visible and human progression has an exact cause and delta: witnessed ford/traverse outcomes and an honestly charged loss move the crew from twelfth to tenth, produce two requested HOLD slips, and reduce Teague's lead to nine wall positions."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The standing gain keeps its receipt: a cart in the gorge, six marks deducted, three injured on the ledger line, and the best available posting priced high because every established crew refused it."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress changes who the holds request, what Pike says at the ferry, which jobs wait for the crew, how the hide-woman reads them, and what risk they choose together—not merely their wall number."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No capability or new combination resolves the chapter's conflict; the contract decision is made from established reputation, material evidence, professional judgment, and character priorities."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague independently reads and refuses the recovery slip, then takes a longer hold fence and remains first on the wall. Holds travel to the ferry and request crews, the broker's posting remains live, Pike publicly prices work, and the board moves without waiting for Cael."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "After Chapter 7's route, clinical reading, and rival confrontation, this chapter changes the problem to institutional standing, dangerous folklore, suspicious paperwork, and a five-person risk decision."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The traverse loss is metabolized into a map that redirects carts, an accepted debit, a fair public ledger entry, Teague's correct prior assessment, and more credible standing; it is not erased by the successful delivery."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The Power Log is Cael's owned handwritten document."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display. The manual inventory and money count match frozen state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The required Power Log changes the chapter by recording the Part 1 turn."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The party receives only Pike's folklore. The Quieting's mechanism and source, the Compact's role, the poster's identity and purpose, and Cael's later interaction with quiet ground all remain withheld rather than rewritten."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No ability use, combination, acquisition, or fragment notice occurs."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank-bearing scene or rank claim occurs; the board prices witnessed outcome rather than tier."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No extraordinary capability resolves a conflict."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No ability is used or introduced for repeated use. Quiet ground is planted as constrained folklore, not exercised as a capability."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The chapter primarily extends the board, ledger, holds, crew standing, carter folklore, broker paperwork, map, injuries, and route. The only new named place terms are the two explicitly permitted Fallow names."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: return to Lowmarch and learn what the completed traverse has made the crew worth. Delivery: Pike prices the success and loss, the wall moves, holds request them, and the recovery posting converts that new freedom into the Part 2 commitment."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The Fallow Ring pays Chapter 4's quiet-ground rumor; Pike's authority is established by the functioning board; Teague's refusal pays the prior rival clock. Quiet ground's mechanism, the registry prose, and Thornwater timing remain plants rather than premature answers."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The rumor inquiry advances from hearsay to a named place, source, rule, and contract without falsely answering why. The standing thread pays in social movement, while the contract event opens a new eastward obligation rather than closing the Quieting inquiry."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "World information arrives through lower water, ford poles, tents, smoke, brands, paper thickness, dust curve, wax, pen movement, a one-armed ledger procedure, map bends, wall pegs, bread, jug, and bodily positioning. Explanation remains attached to an object being used."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a first review of a fresh chapter draft; per-book revision-pass history is outside the supplied chapter evidence."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. Character methods remain strongly distinct in the council."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or combat exchange occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every open Chapter 7 injury or recovery restriction recurs accurately at the characters' next appearance; none silently disappears."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Only the uneventful six-day return is summarized. The ledger ruling, posting discovery, Pike's folklore, Karis's source response, public saying, five-voice council, suspicious-language finding, route count, decision, and log all occur in scene."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs, so the two-terrain-beat threshold does not govern."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "The wall delta is exact—twelfth to tenth, Teague nine up—and causally tied to seven completed lines. The cost remains the cart debit, three injuries on the public entry, bodily persistence, and acceptance of a dangerous job the higher crew refused."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This per-arc major-win gate is not exercised by the chapter."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague does not freeze: he reaches Lowmarch ahead of the five, reads the posting twice, refuses it, takes a separate hold fence, and remains first on the wall."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The crew's progress is visible outside any stat sheet through requested HOLD slips, Pike naming them at the ferry, the hide-woman's recalibration, a two-line wall rise, and access to the best-priced unclaimed posting."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. Cael explicitly owns and writes the Power Log for an immediate in-world reason."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The chapter does not make an institutional-unfairness argument; it dramatizes the board and registry prose as working mechanisms."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The smith's dry cart line is low-stakes character pressure and does not erase the paid six-mark consequence; no humor is used to deflect a dangerous exchange."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The council processes Pike's warning, Karis's independent intent, Seln's paper finding, Oryn's route, and Cael's curiosity without jokes or lampshading. The characters' restraint around 'bring her' carries the found-family pressure."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The later outward-reading moral stake has not opened, and Chapter 8 is not an assigned checkpoint for it."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch08-001",
+      "status": "PROPOSED",
+      "severity": "BLOCKER",
+      "category": "authority-conflict-required-closing-log",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch08.md",
+        "line_start": 253,
+        "line_end": 255,
+        "quote": "*Ninetieth day. Lowmarch. The lower inn, the table by the road door. A hundred and eight in hand; the smith paid; the wall says tenth.*\n\n*Twelve weeks. Seven contracts. Pike says there's ground out here where the Arbiter goes quiet, and nobody goes in twice. Karis has been waiting her whole life for a sentence like that. Seln says the contract was written by someone from inside. I say it pays. Two days east, through Thornwater, on the day the healer said. For twelve weeks nothing out here has read me. I'd like to see what a place that reads nothing does with that.*"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch08-editor-prompt-r1.md",
+        "line_start": 506,
+        "line_end": 506,
+        "quote": "    \"closing_state\": \"The chapter ENDS ON THE LOG, Part 1's summary entry: 'Eight weeks. Seven contracts. Pike says there's ground out here where the Arbiter goes quiet, and nobody goes in twice. Karis has been waiting her whole life for a sentence like that. Seln says the contract was written by someone from inside. I say it pays. Two days east, through Thornwater, on the day the healer said. For eight weeks nothing out here has read me. I'd like to see what a place that reads nothing does with that.'\""
+      },
+      "consequence": "The manuscript changes both mandated instances of 'Eight weeks' to 'Twelve weeks,' so an explicit as-given scene obligation is not met. Simply restoring 'Eight' would contradict the same manuscript's 'Ninetieth day' and the frozen post-Chapter-7 state (day eighty-four at Oxhollow; Thornwater nine days later on day ninety-three). With no recorded exception, the required outcome is internally impossible and the chapter cannot safely advance until the authority conflict is resolved.",
+      "repair_target": "Obtain an authority decision that reconciles the packet's exact closing text with the frozen timeline. Either approve 'Twelve weeks' as an explicit exception/update to the required log, or revise the authoritative timeline and all dependent day counts so 'Eight weeks' becomes true. Do not make an isolated prose substitution that leaves packet or state contradictory.",
+      "confidence": "HIGH"
+    }
+  ],
+  "strengths": [
+    "Yes: the worldbuilding is decisively done through mechanism and use. Lowmarch's board is paper stock, brands, stones, witnesses, public saying, five columns, deductions, HOLD marks, wall position, and holds asking at the ferry. The foreign institution first reaches the edge not as exposition but as registry form-language hiding under a local broker's wax.",
+    "There is no fight, exactly as the packet requires. The board sequence is nevertheless a memorable procedural set piece: a successful map and a lost cart enter the same line, the public room hears the price, the wall is physically rewritten, and the dangerous posting moves from stone to satchel. Terrain-load-bearing combat and an 'X removed Y's ability to Z' win sentence are therefore not applicable in this chapter.",
+    "Pike's stillness and folklore are exceptionally controlled. Cael reads the stopped pen, settling shoulder, fixed eyes, and nine-count pause before Pike names the Ring; Pike then gives precisely a carter's usable rule, distinguishes what he knows from what nobody knows, and stops before research or theory.",
+    "The council sustains five distinct voices without turning into a vote transcript. Karis prices source quality and admits she would go alone; Brom prices the kit's physical value; Lira prices danger through bodies and the refused contract; Seln reads form-language and limits himself to two facts; Cael gives the public reason in two words and the private reason only in the log.",
+    "Seln's paper finding is a strong plant because it is both specific and bounded. Wax, hand, local diction, registry form, and his own work history prove the wrongness, while 'I've not got a third' prevents competence from becoming premature revelation.",
+    "The chapter pays the freedom arc through social receipts rather than narration: two holds request the five by name, Pike says those names at the ferry, the wall moves two lines, the hide-woman recalibrates, and the crew chooses the job Teague refused while keeping the cart loss visible.",
+    "Continuity is exact and embodied: Cael's ribs and calf remain open, Lira's leg and ankle retain different statuses, Brom waits seven full days before loading the mended arm, Karis's hands are healed, the boxes survive, the replacement boot and smith payment reconcile the money, and the fragment inventory remains nine plus anomaly with no use.",
+    "The Thornwater beat earns found-family restraint through a shared omission. All five reach the same conclusion, nobody treats Oryn as cargo, and Karis records where they will be rather than writing an invitation on someone else's behalf.",
+    "Production and audio checks are otherwise clean: 5,189 words is inside tolerance; section 8.4 metadata and section 10 summary greps return zero; every named section 9 tic is zero in the chapter; the two single-word paragraphs sit at the cap; the pitch prohibition adds zero; all names are distinct by ear; and the longest unattributed dialogue run is two.",
+    "The final beat is structurally right apart from the unresolved week-count authority conflict: a plain Power Log closes Part 1, converts Pike's rule, Seln's prose finding, Karis's hunger, pay, route, and Cael's unreadability into one changed-pressure entry, and differs cleanly from Chapter 7's image close."
+  ],
+  "concerns": [
+    "Taste only: the Thornwater passage states the non-invitation several times—'Nobody said the sentence,' four people not saying it, the explicit italicized words, and the general rule about what one says about a person like Oryn. The restraint is contract-critical and emotionally true, but the audio may hear the explanation after the behavior has already carried the subtext.",
+    "Taste only: the cart arithmetic is intentionally the chapter's moral calibration, but it receives several complete interpretations—from Pike's line, Cael's debit/credit analysis, Teague's remembered ruling, the public saying, and the wall movement. A later line pass may find a little compression without weakening the fair-ledger pleasure.",
+    "Taste only: 34 em dashes in 5,189 words is notably denser than the recent Chapter 6-7 baseline. No numeric cap is breached and many dashes do precise parenthetical work, but an audio pass should listen for repeated suspended cadence."
+  ]
+}

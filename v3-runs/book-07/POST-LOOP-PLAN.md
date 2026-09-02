@@ -24,3 +24,9 @@ Same discipline per chapter: packet → Fable author (fresh context) → Sol edi
 3. Reveal-schedule audit: every SECRET in CANON_RULES checked against B7 prose (none disclosed early); planting minimums for Books 8, 9, 11 confirmed present in prose (not just cards).
 4. Arc 3 promise audit: "first place fully free — then complicated" traced through the drafted chapters; the internal arc's two poles quoted from prose.
 5. Deliverable: a series-fit memo (v3-runs/book-07/SERIES-FIT.md) + the updated bibles, with a change log; nothing committed to git unless asked.
+
+## Peer findings folded in (Atlas book writer session, 22:27 — second-eyes on ch1–7; verdict ON-PLAN)
+- [MAJOR, bible pass C.1/C.2] Arc 3 age band: bibles say 20–22; drafted prose is 18→19 (B7) and B8 is being built on 19→20. Reconcile ARC-WIDE in the bible files: rebase the bands to the drafted timeline (14 at B1 → ~28 by B15 re-derived) and add a LOCKED annotation naming the drafted timeline as authoritative; do not retrofit prose.
+- [MINOR, audio] Feryn/Oryn rhyme in spoken inventories — guarded in ch14/ch24 packets (do not voice in sequence; Pressure line may drop the bare name). Add to the audiobook read-through list with Oryn/Oxhollow/Ostrand O-onset stacking and Pike/Fiske.
+- [NOTE] Fragment math: 10 at B7 close vs 22 by B10 — Book 8/9 must accelerate; flagged to the Book 8 architect by the peer; record in the series-fit memo.
+- CLEAN per peer: secret discipline (B8/B9/B11/B13), Oryn-vs-anomaly non-connection, B6→B7 seam against prose, Shadow seal, fight geography, audio-first, closer variety (log·image·log·dialogue·log·dialogue·image).

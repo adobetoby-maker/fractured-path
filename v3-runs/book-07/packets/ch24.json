@@ -62,7 +62,8 @@
       "No new named entities.",
       "The chapter ends on the final paragraph as given, not on dialogue or a log entry.",
       "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
-      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means.",
+      "AUDIO (registry §8.1, peer review): do not voice 'Feryn' and 'Oryn' in the same sentence or the same read-aloud list run — they rhyme (FER-in / OR-in). In the fragment inventory, the Pressure-adjacent line may name its source as 'the Bronze from Ardenmere' or omit the name (the reader knows it); the Tide-adjacent line keeps 'Oryn'. Do not rename anyone."
     ]
   },
   "invention_budget": {
