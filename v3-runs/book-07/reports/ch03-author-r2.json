@@ -1,0 +1,28 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch03-r2",
+  "scene_id": "b7-ch03",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch03.md",
+  "word_count": 5172,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH03-001 repaired",
+      "status": "MET",
+      "evidence": "found that Teague's crew had been gone from Lowmarch two days now, out by the landing door on the autumn road while the five of them were still walking in off the traverse. Sixty marks and fed. Three days out along it before they turned, and three back: a week before anyone would see that table filled."
+    },
+    {
+      "obligation": "ED-B7CH03-002 repaired",
+      "status": "MET",
+      "evidence": "with three people below him who could not hold a pen or walk or use an arm, and one who could,"
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [
+    "Timeline shift: the ford contract is released two days after Teague's crew left on the autumn road; day numbers in the After-Chapter-3 state block move by +2 (board ~day 52, ford ~day 55)."
+  ],
+  "deviations": [
+    "Repair applied directly by the orchestrator (two one-clause edits, no creative choice) \u2014 logged UNCONTRACTED."
+  ],
+  "blockers": []
+}

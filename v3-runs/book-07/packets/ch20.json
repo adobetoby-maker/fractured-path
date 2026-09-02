@@ -1,0 +1,145 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch20",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 20 card)",
+    "state": "state-b7-post-ch19 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + anomaly. Party SIX; Teague's crew (four, unnamed but for Teague) holds the rim without being asked while the six go back down the stair with lamps. Brom one-shouldered (mended, sore); Lira one-armed.",
+      "The chamber: fused stone, level, seamless, a floor beneath the floor; walls carved floor to ceiling in the lines; at the center the 'surveyor's instruments' the contract wanted — REAL: a registry survey kit, five years weathered, cased, abandoned MID-USE — a pacing cord still laid out, a stake half-driven, a field ledger open on the floor with its last page written in a hand that stopped mid-line. Someone measured this place five years ago and left in a hurry. Seln reads the ledger (registry prose, cipher-shorthand): distances; a circle's radius (two hundred meters — the number again, from the Compact's own hand); a site designation in an index the kit's owner did not explain; the last line unfinished: 'third site confirmed on bearing —'. Bearing.",
+      "Karis's six hours by lamp: every line copied; the finding — the Stair's carvings and the Ring's share FORTY-ONE characters; the Stair has one line the Ring lacks, repeated at intervals matching, to the stride, the perimeter's radius: the floor was carved by someone who knew the circle's size. Entered as a finding. NOT interpreted: 'a measurement is a fact about a ruler, not about the hand that held it' (her voice). No 'Architect', no [UNBOUND], no maker, no purpose.",
+      "The kit is carried up by Brom, one-shouldered, refusing help. The contract is 'paid' in the wrong currency: the man who posted it will never see the kit; Seln keeps the ledger; Cael keeps the kit.",
+      "Nobody knows what the site designation index is; nobody theorizes."
+    ]
+  },
+  "purpose": "The artifact chapter: the recovery contract paid in the wrong currency — a registry survey kit abandoned mid-use five years ago, its field ledger's last line an unfinished bearing — and Karis's six hours with the chamber's walls, advancing the sites' meaning by exactly one notch: forty-one shared characters, and a line that recurs at the perimeter's radius, entered as a measurement and not a maker.",
+  "scene_shape": {
+    "opening_state": "Morning at the Long Stair, the trap gone, Teague's crew on the rim; the six back down the stair with lamps because Karis will not leave a chamber she has seen the walls of.",
+    "pov_goal": "Catalogue the chamber; recover what the contract wanted; read what its owner left.",
+    "opposition": "A bowl still ringed by yesterday's fear; the kit's ledger in cipher; the temptation to interpret.",
+    "turn": "The chamber catalogued; the kit found mid-use; Seln's reading of the ledger with the 200-meter figure and the unfinished 'bearing —'; Karis's body changing at the word.",
+    "choice": "Karis copies rather than interprets; Cael keeps the kit and Seln the ledger rather than returning them west.",
+    "outcome": "Forty-one shared characters; the recurring line at the radius; 'a fact about a ruler'; the kit cased and carried up by Brom.",
+    "closing_state": "The chapter ENDS ON THE LOG at the rim (the previous chapter ended on dialogue): 'Instruments recovered. The contract's paid, and the man who posted it is never going to see them, because Seln's keeping the ledger and I'm keeping the kit. Someone measured this place five years ago and wrote bearing and stopped. Karis has a straightedge. She's been waiting her whole life to use it. The Ring, the Stair, and whatever's on that bearing. Pike said a handful. We have two. The kit says three. We're going to go look.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The chamber catalogued in Cael's register (the floor beneath the floor; carved walls; the ceiling as the floor's underside); Teague's crew holding the rim unasked.",
+      "The kit as an object abandoned mid-use (cord laid out; stake half-driven; field ledger open; the hand that stopped mid-line); Seln's reading with the fixed elements (distances; 200 m; an unexplained site designation/index; 'third site confirmed on bearing —').",
+      "Karis's six hours; the forty-one shared characters; the recurring line at radius-spacing; her 'ruler' line verbatim; no interpretation.",
+      "The disposition of kit and ledger (kept; not returned); Brom carrying the kit one-shouldered, refusing help.",
+      "The chapter ENDS on the log entry verbatim as given.",
+      "Manuscript format: H1 '# Chapter 20 — The Stair's Floor', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The bearing (Ch21's route; Ch23–24's alignment).",
+      "The site designation index (Book 8; unexplained here).",
+      "The recurring line at radius-spacing (a measurement; Book 8+)."
+    ],
+    "payoffs": [
+      "Ch8's contract; Ch12's map blanks; Ch15's carvings."
+    ],
+    "prohibited_outcomes": [
+      "No theory of maker/purpose/age; no 'Architect'; no [UNBOUND]; Karis interprets nothing.",
+      "No fight; no fragment use; no reading of Teague or anyone.",
+      "Teague's crew at the rim only; no conversation beyond a line or two; no letters, Vastin.",
+      "No new named entities.",
+      "The chapter does not end on dialogue or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Lamplight on carved stone; the chamber's air; the kit's leather and brass; the ledger's cipher shape; six hours compressed with Karis at work; Teague's crew as silhouettes on the rim.",
+      "Dialogue in established voices; Seln's reading in his flat register.",
+      "Cael's interior cataloguing and the closing log."
+    ],
+    "approval_required": [
+      "Any new named entity; any content of the ledger beyond the fixed elements; any carving detail that implies meaning."
+    ],
+    "forbidden": [
+      "Interpretation; theory; fights; fragment use; a dialogue or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 19 as drafted — the immediate seam (the trap, 'no column')",
+      "path": "v3-runs/book-07/drafts/ch19.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch20.md",
+    "report_path": "v3-runs/book-07/reports/ch20-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch20-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch20-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

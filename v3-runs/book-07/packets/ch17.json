@@ -1,0 +1,149 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch17",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 17 card)",
+    "state": "state-b7-post-ch16 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + located anomaly. Roster SIX; physically FIVE at Lowmarch (Oryn is three days north making up her route; she left Thornwater after the circle of six). Lira one-armed (slung; load-restricted for the season).",
+      "Known to the circle: the Quieting (named); the Fallow Ring's mechanics; Cael's fragments work inside (all six know); the Compact measured quiet ground (stakes, map blanks); the first contract was written from inside and its completion report went west; the cache is what the Compact wants (B6's open dread).",
+      "Pike's ledger entry for the Fallow Ring (incomplete; crew returned) costs them a line and buys what no line records: they went in and came out, which no crew on the board has done. Teague STANDS when they come in — not a greeting; a captain marking a change before the ledger does.",
+      "The second posting: same broker (who Pike says has posted nothing else in a year), same 'instruments', a second site — the Long Stair, a day south — at three times the first price. Seln's reading (the professional's chapter-within-a-chapter): registry prose again; a price that is a lure, sized for a crew that went in once and came out; a site chosen where the poster knows six practitioners will be five bodies and one anomaly (the poster does NOT know about Cael's immunity — nobody outside the circle does). 'This isn't a contract. It's a pre-restriction inventory. They've mapped what we do inside, and they've priced a floor where we can't do it.' Karis: 'They don't know about Cael.' Seln: 'They don't need to. They want the case. The boy's the price of the case.'",
+      "The council (five voices): Lira and Brom want to walk away; Karis wants the site regardless; Seln wants to TAKE it — a trap you have read is the only instrument for reading the hand behind it: 'They'll send people. People have faces. Six years I've wanted a face.' Cael's decision line verbatim: 'Inside the circle, I'm the only one who works. They chose a floor that makes the rest of you helpless. They don't know it doesn't do anything to me.' They take it: the site is real, the pattern needs it, the trap is built on an assumption the Compact cannot know is wrong.",
+      "Teague at the door: 'You're taking the Stair contract.' 'Yes.' 'It's a bad contract.' 'Yes.' 'My crew's at Oxhollow in two days. If you're late back, we'll come look.' Cael: 'Noted.' Brom quotes Rooke once: 'doors open both ways' (he has never quoted anyone).",
+      "No theory of the sites; no 'Architect'; the faceless faction stays faceless; no letters, no Vastin."
+    ]
+  },
+  "purpose": "Part 3 opens: back at Lowmarch with a standing the ledger cannot quite record, a second posting from the same broker priced as a lure, Seln's professional anatomy of a trap built on quiet ground, the book's second honest collision over walking away — lost by the leavers for the right reason — and the rival clock making a sound it has not made all book.",
+  "scene_shape": {
+    "opening_state": "Lowmarch, first cold. Pike's Fallow Ring entry; Teague standing; the unit's standing after the Ring. Oryn three days north.",
+    "pov_goal": "Read the contract the way Seln reads it, decide whether to walk into a trap on purpose, and say aloud to the whole table the sentence he has never said.",
+    "opposition": "A contract that is an inventory; the case on Seln's shoulder as the price; Lira and Brom's honest wish to walk away; Karis who would go alone.",
+    "turn": "The posting read; Seln's anatomy (registry prose; nothing else posted in a year; the lure's size; the floor chosen; the pre-restriction-inventory line; 'They want the case.'). The council's four positions in register.",
+    "choice": "Cael's decision and the sentence (fixed): they take it, because the site is real and the pattern needs it, and because the trap's assumption is wrong in a way the Compact cannot know.",
+    "outcome": "Contract taken; south tomorrow; the log mid-scene: 'Priced too well. Seln says it's for the case. I say the floor's for me and they don't know it. South, tomorrow. Lira's arm is a week old. Brom says doors open both ways. He's quoting Rooke. He's never quoted anyone.'",
+    "closing_state": "The chapter ENDS ON DIALOGUE (the previous chapter ended on the log): Teague's offer at the door, and Cael's 'Noted.' — the first time in the book he has said the word to anyone eleven lines up."
+  },
+  "obligations": {
+    "must_include": [
+      "Pike's 'incomplete — instruments not recovered — crew returned' line costing a line and buying the unrecorded thing; Teague standing when they come in; the standing shown, not asserted.",
+      "The second posting as an object (same broker, same instruments, the Long Stair a day south, three times the price); Pike's 'posted nothing else in a year' unasked.",
+      "Seln's anatomy with the fixed lines verbatim (pre-restriction inventory; 'They want the case. The boy's the price of the case.'); Karis's 'They don't know about Cael.'",
+      "The council with each position in register; Seln's 'People have faces. Six years I've wanted a face.'; Cael's decision line verbatim.",
+      "The mid-scene log entry as given (with Brom quoting Rooke).",
+      "Teague's door exchange verbatim; the chapter ENDS on 'Noted.'",
+      "Oryn's absence on the page accounted for (three days north on her route); Lira's arm carried (a week old, slung).",
+      "Manuscript format: H1 '# Chapter 17 — Priced Too Well', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The trap's design (people outside the line with crossbows; the floor as disarmament) — Ch19 stages it; here only Seln's inference that they will send people.",
+      "Teague's 'we'll come look' (Ch19 close).",
+      "The case as the target (Ch18–19)."
+    ],
+    "payoffs": [
+      "Ch12's 'We just told them'; Ch16's report on a desk it shouldn't reach; Ch2's rival clock (Teague stands; speaks at the door)."
+    ],
+    "prohibited_outcomes": [
+      "No travel to the Stair yet; no fight; no fragment use; Oryn absent.",
+      "No theory of the sites; no 'Architect'; no naming of the faction; the broker unnamed.",
+      "No letters, Vastin.",
+      "No new named entities.",
+      "The chapter does not end on a log entry or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Lowmarch in first cold; the board's room and the best table; Pike's manner; the posting's paper; the council's table; Teague at the door.",
+      "Dialogue in established voices beyond the fixed lines.",
+      "Cael's interior read of the posting and of Teague."
+    ],
+    "approval_required": [
+      "Any new named entity; any fact about the broker or the faction beyond Seln's inferences; any detail of the trap's mechanics beyond 'they will send people'."
+    ],
+    "forbidden": [
+      "Travel; fights; theory; fragment use; a log or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 16 as drafted — the immediate seam (the circle of six, the second pole)",
+      "path": "v3-runs/book-07/drafts/ch16.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch17.md",
+    "report_path": "v3-runs/book-07/reports/ch17-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch17-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch17-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

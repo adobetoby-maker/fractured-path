@@ -1,0 +1,188 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch01",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md after Sol r1+r2 repairs; party is FIVE before Oryn)",
+    "state": "state-b7-pre-ch01 (v3-runs/book-07/state-b7-pre-ch01.md)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "combat",
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen. He has nine confirmed fragments and one anomaly (Tide-adjacent, session nine, Book 2). He must not count, confirm, or explain the anomaly beyond the standing inventory words if he inventories at all.",
+      "Cael has never met Oryn or any Tide Path practitioner. No healer appears in this chapter.",
+      "Cael does not know the word 'stillhound' for certain; carters at Lowmarch may have used it and he may have heard it, but he does not know WHY the void roads are walked silent — the Path-discharge mechanism is Karis's Chapter 3 finding. In this chapter the rule is etiquette learned by watching carters: walk quiet, carry steel, don't light anything you don't need, don't declare.",
+      "Cael has not heard of quiet ground, the Quiet, or the Quieting. Nobody in the party has. The phrase must not appear.",
+      "Cael has not met Ghent or seen Ghent's crew; they belong to Chapter 2.",
+      "Cael knows the Compact file reads 'active non-compliance, observation priority escalated' and that asset-restriction is pending jurisdiction — both from Book 6 — and knows nobody goes west. He does not know the Compact has surveyed anything east of the Line.",
+      "Cael believes, sincerely, that nothing out here measures him. The chapter should let him believe it; it is the first pole of the book's arc and it is true at this altitude."
+    ]
+  },
+  "purpose": "REPAIR RUN. Apply the two verified findings below to the existing draft at v3-runs/book-07/drafts/ch01.md exactly and minimally, preserving every recorded strength (the log-voice opening, the board and ledger, the dusk walk's geography and five-item catalogue, the carter's line, Pike's copied line, the closing entry). Do not rewrite unrelated passages. Do not change the ending. Keep the word count within tolerance.",
+  "scene_shape": {
+    "opening_state": "Log-voice opening movement, the series' established skip technique (B4/B5/B6 Ch1): six weeks beyond the Registry Line, dated and inventoried in Cael's plain first-person log register — the walk-in from the first camp; the last westbound courier turned back at the ford; void-road etiquette learned by watching carters; Lowmarch reached on the ninth day and its contract board read the way he read the Cinder House notice board at fourteen; the first three contracts (a ferry escort, a fence-line clearance, a cart recovered from a wash) taken and completed in summary — cheap, the unit finding its feet; Pike's ledger opened for them under a heading with no tier column. He is eighteen and says so on the page. Nine confirmed fragments. One anomaly. No file he can see.",
+    "pov_goal": "To do the fourth contract — the first with teeth — well enough to earn a line in the only ledger that exists out here, and to prove to himself that the five of them are a unit in a country that has never seen an academy or a circuit.",
+    "opposition": "The road itself and what lives beside it: a stretch of void road toward Thornwater where two carts went silent last month; dusk; a carter and a mule who must be walked through; and a grey shape in the scrub that makes no sound at all and keeps pace at roughly forty meters, never closing — waiting, though nobody says so, for someone to declare a Path.",
+    "turn": "Lira, twenty paces ahead, stops with her hand up — and the reason is the ABSENCE of a sound. Something is pacing them that has made no noise. Seln, without turning: 'Don't declare anything.' The unit, five practitioners with everything they own held in check, walks a mile of road with the shape keeping station. The temptation is real and specific: Lira's burst would clear it, Brom's Iron Skin would answer it, Karis could light the scrub — and every one of them holds, because the carters hold.",
+    "choice": "Cael chooses not to reach — not for any of the nine, not for the observation-turned-weapon — and instead runs the compound gaze at full depth on an ANIMAL for the first time in his life, cataloguing what it does and does not do (it keeps distance, it never crosses open ground, it tracks the mule and the six bodies differently, it reacts to nothing they do because they do nothing), and lets the not-doing be the whole tactic. The banking doctrine, inverted from law into survival.",
+    "outcome": "No fight. The shape peels off a hundred meters short of Thornwater's fence-line and is gone the way it came. At the steading's gate the carter, twenty years on this road, says: 'First crew I've hired that knew to shut up.' Cael files the sentence beside the best compliments of his life. Pike's line for the job, arriving by the carter's return, is the chapter's third-party verdict.",
+    "closing_state": "The Power Log, under a roof that isn't an institution's, honoring the card's close-on entry: six weeks, four contracts, nobody has asked what he is — the board asks what they DID, and Pike writes it down, and that is the whole system; something out here hunts Paths and he has been not-using his in front of hostile audiences since he was fifteen, which turns out to have been training; 'Note the date. Season's open, and for once it isn't theirs.' Confident, earned, and — for the reader — standing on ground the book will spend twenty-three chapters mapping."
+  },
+  "obligations": {
+    "must_include": [
+      "The traveling party is FIVE people — Cael, Lira, Brom, Karis, Seln — everywhere: Pike's ledger heading has five names; the carter hires 'five'; the walk is five practitioners; the closing entry counts five. No sixth person exists.",
+      "Open with the log-voice skip movement: six weeks compressed, dated, inventoried, in Cael's first-person log register (italicized in-world writing), covering the walk-in, the turned-back courier, void-road etiquette, Lowmarch and its board, the first three contracts in summary, Pike and his ledger heading with no tier column.",
+      "Cael states his age — eighteen — on the page, and inventories nine confirmed fragments and one anomaly (inventory words only; no explanation).",
+      "The fourth contract is rendered in SCENE, not summary: dusk, the void road toward Thornwater, a carter and a mule behind the five of them, the stretch where two carts went silent last month.",
+      "Lira, twenty paces ahead, stops with her hand up because of an absent sound. Seln, without turning, says 'Don't declare anything.' Nobody declares anything for the whole walk.",
+      "The grey shape keeps pace at about forty meters and never closes; the chapter holds at least a mile of road in real time with the shape present; Cael catalogues the animal's behavior with the observation discipline the series built on fighters.",
+      "No fight occurs. The shape leaves short of Thornwater. The carter's line at the gate: 'First crew I've hired that knew to shut up.'",
+      "Cael's cataloguing habit is on the page at least once outside the log (a road, a board, a gate, a crowd — per VOICE_CHARTER §3.1).",
+      "Every companion has at least one line or action in their own register: Lira kinetic and blunt; Brom weight, few words; Karis precise, note-taking, the researcher starving for sources; Seln procedural, dry, never bantering, never explaining himself.",
+      "Rank's non-combat consequence is visible (charter Gate 21): the board and the ledger sort by outcome, not tier — shown through Pike's ledger heading and/or pricing, not explained by narration.",
+      "The chapter closes on the Power Log entry honoring the card's close-on content, ending with 'Season's open, and for once it isn't theirs.' The manuscript file ends on the last line of prose — no metadata, no word count, no notes.",
+      "Manuscript format: begin with the H1 heading '# Chapter 1 — Unmeasured' (the drafted books' convention), then prose. Section breaks as '---' on their own line, per the drafted books."
+    ],
+    "plants": [
+      "Void-road etiquette (walk quiet, carry steel, don't declare) is shown as carter practice whose REASON nobody in the party yet knows — Chapter 3 pays it (stillhounds hunt Path discharge). Do not explain it here.",
+      "Pike's ledger has no tier column — Chapter 2 anatomizes the board as a machine; here it is glimpsed as an object.",
+      "The absence of watchers is noted (nobody is watching; nobody has asked) — the freedom the book will complicate.",
+      "The three boxes (Karis's field archive) ride in the cart; they are load-bearing in Chapter 6. One glance is enough.",
+      "Hesk's travel-grade log satchel (B6 Ch14 gift) is the log's home; 'mind the shape' may be recalled once, at most."
+    ],
+    "payoffs": [
+      "Book 6's closing line — 'nothing anywhere was deciding what he was, except him' — is lived, not quoted: six weeks of nobody deciding.",
+      "The banking doctrine (B2 Vell-era → B3 hearing → B4 evaluation → B5 tournament) pays off as survival craft: not-using a Path in front of a hostile audience, now an animal."
+    ],
+    "prohibited_outcomes": [
+      "No sixth traveler, named or unnamed, anywhere in the chapter.",
+      "No fight, no injury, no fragment use, no declaration by anyone in the party. The shape is never engaged.",
+      "No Oryn, no healer, no Tide Path, no mention of Tide.",
+      "No 'quiet ground', 'the Quiet', 'the Quieting', ruins, sigils going silent, or Arbiters failing — nothing of Part 2.",
+      "No Ghent, no rival crew on the page (Chapter 2).",
+      "No explanation of WHY the void roads are walked silent; no statement that the creature senses Path use.",
+      "No Compact presence, no watchers, no Vastin window, no letters from Hesk/Vell/Ephram (Chapter 4 and 9 own those).",
+      "No new named characters beyond Pike (the board-keeper: 60s, one arm, retired Copper Force Path — may appear or be referenced; do not give him a scene longer than a paragraph, Chapter 2 is his). The carter, the steading folk, and the mule stay unnamed.",
+      "No new place names beyond Lowmarch and Thornwater. No new Path names. No new fauna names beyond a carter's use of 'stillhound' at most.",
+      "Do not resolve, advance, or theorize the Tide anomaly, [UNBOUND], the Level 4 flag, Seln's cache contents, or any locked thread.",
+      "No modern idiom ('okay', 'literally', 'basically', 'gonna'); no feeling-declarations ('felt a wave of'); no growth-declarations ('he had changed'); tic caps per VOICE_CHARTER §9."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Sensory and environmental detail of the walk-in, the void roads, Lowmarch (river ford, ferry, two inns, a smith, no wall, seasonal population), the board as an object, Thornwater's fence-line and gate, the dusk road, scrub, the mule.",
+      "Texture for the three summarized contracts (ferry escort, fence-line clearance, cart from a wash) — one or two concrete details each, no scenes.",
+      "The carter's characterization (unnamed): twenty years on the road, taciturn, practical; his mule.",
+      "Dialogue beats consistent with established voices; Seln may speak more than one line but never explains himself.",
+      "The animal's observed behavior beyond the card's minimum (distance, silence, tracking) so long as it never closes, never attacks, and its sense-mechanism is never stated.",
+      "Cael's log entries and interior cataloguing in the three-column claim/evidence/ruling habit.",
+      "Small worldbuilding through use (charter §6.5): how the board prices, how carters talk about the roads, what people beyond the Line call practitioners."
+    ],
+    "approval_required": [
+      "Any new named person, place, creature, or institution not listed in the packet or architecture.",
+      "Any new fact about the Compact, the Registry Line, asset-restriction, or the watchers.",
+      "Any new fact about the fragments' mechanics, costs, or the anomaly.",
+      "Any behavior for the animal that implies its sensing mechanism."
+    ],
+    "forbidden": [
+      "New powers, fragments, or Paths for anyone.",
+      "Any outcome other than: no fight, shape departs, carter delivered, ledger line earned.",
+      "Any knowledge outside Cael's stated knowledge_boundary or any content from Chapters 2–24.",
+      "Authoring metadata in the manuscript file."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible — world, Path system, edge territories (read the SECRET markers as forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 1 card is the work order; the reference section defines Lowmarch, the board, Pike, and void-road etiquette",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "State snapshot pre-Chapter 1 — abilities, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Seam — Book 6 architecture; Chapters 23–24 are the immediately preceding story (prose not yet available)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Voice sample — the most recent drafted chapter of the series (Book 4 Ch24), for cadence, log register, and dialogue texture only; its events are two books old",
+      "path": "books/book-04-copper-crown/chapters/chapter-24.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR — apply the verified findings to this text; write the repaired manuscript to output.draft_path",
+      "path": "v3-runs/book-07/drafts/ch01-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH01-001",
+      "severity": "BLOCKER",
+      "gate": "authority.canon_timeline_state / continuity persistence (CORE invariant 3)",
+      "evidence": "Draft: 'the six of them' (log, day nine; 'Sorted by what each would cost the six of us'); 'Six names down the margin of a fresh page'; carter: 'Pike says you're six'; Lira: 'We're six'; 'six people had done nothing to answer'; 'Six people held everything they own for a mile of road'. Frozen state (v3-runs/book-07/state-b7-pre-ch01.md) lists exactly five travelers: Cael, Lira, Brom, Karis, Seln. The road blocking itself places only those five around the cart. Planning-layer decision (Book 7 architecture, Continuity Checkpoint seam note): the party entering Book 7 is FIVE; Book 6's 'six' is an inherited counting defect flagged for Book 6's drafting team.",
+      "consequence": "A listener is asked to imagine an unnamed sixth companion who never acts, speaks, or is placed; injury fractions, witness counts and the chair arithmetic for Oryn's arrival all break downstream.",
+      "repair_target": "Change every party count to five (five names on Pike's page; 'Pike says you're five' / 'We're five'; 'five people'; 'Five people held'), and any 'six of us/them' referring to the party. Leave 'six weeks' and all other sixes that are not the party."
+    },
+    {
+      "id": "ED-B7CH01-002",
+      "severity": "MEDIUM",
+      "gate": "authority.canon_timeline_state",
+      "evidence": "Draft: 'Cael had watched Brom answer anything with teeth for six years' — Brom joined in Book 2 when Cael was fifteen; Cael is eighteen: three years. Draft: 'four years of walking into rooms together had made it a habit' — Karis joined at fifteen (three years), Seln at sixteen (two years); the five have walked into rooms together for two years at most.",
+      "consequence": "Cael's voice is a counting voice; exact wrong durations read as errors, not idiom, and contradict the on-page birthdays of Books 4–6.",
+      "repair_target": "Replace 'six years' with 'three years' (or an exact equivalent). Replace 'four years of walking into rooms together' with a phrasing true for all five (e.g., years of walking into rooms together, or 'two years' for the five as a unit) — keep the sentence's function (the order settled itself without a word)."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch01.md",
+    "report_path": "v3-runs/book-07/reports/ch01-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch01-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch01-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

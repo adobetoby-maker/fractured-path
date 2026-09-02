@@ -1,0 +1,148 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch23",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 23 card)",
+    "state": "state-b7-post-ch22 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + the located still place. Party SIX leaving the marsh; FIVE after Oryn turns north at the fork for Thornwater (eleven days late is eleven days; the old woman's knee is on her circuit); Cael walks her to the fork and does not ask her to stay — that is the condition of her being with them at all. 'Find me at Thornwater,' she says, the same sentence as the first time, meaning the opposite. 'Bring the map.' Teague's crew has gone back to Oxhollow (not on the page).",
+      "Karis's finding at the marsh, in the formal register she reserves for findings she is afraid of: the Ring, the Stair, and the Hall are on a LINE — three centers, a straightedge, and the kit's bearing running through all three to the stride; the line runs on east and south, and the carter's map's fourth circle sits on it, two days away. 'Three points make a line. Four make an argument.' No maker, no purpose, no age beyond 'older than any registry' (Ch15).",
+      "The fourth site from a ridge at dusk: LARGER. The perimeter, paced by Karis in the last light with Brom marking, is not two hundred meters — it is FOUR hundred. A circle of the same perfect shape at twice the radius, around a structure seen only as a shape against the sky (a mound, or a hall, or a floor with something standing on it, grey stone); on the near slope, not one stake but a LINE of them — iron, numbered, close-set, running away into the dusk both ways. The Compact did not survey this one; it FENCED it. Seln: 'That's not a survey. That's a cordon. They've been here more than once.' NOBODY CROSSES THE LINE. The council of five voices and one silence (Cael's — the only one of them the fourth site would let in): 'Not without her. Not without knowing what a circle twice the size does to the four of you. And not without the map finished.' Karis: 'It's finished. It's a line.' Cael: 'Then it's a line that points somewhere. We go home and find out where.'",
+      "Cael's fragments are NOT tested at the fourth site (nobody crosses). Arc language ceiling: the sites STOP Paths and do not stop his; nobody says they read or measure anyone.",
+      "'Home is Lowmarch now' appears in the log unnoticed by him."
+    ]
+  },
+  "purpose": "The fourth site — sighted, paced, not entered — and the road chapter that earns the ending: Karis's line through three centers, Oryn turning north at the fork on her own terms, the book's last freedom walk and its coldest, a perimeter twice the size, a cordon of stakes instead of a survey, and the decision to stop, taken as the series takes its hard stops.",
+  "scene_shape": {
+    "opening_state": "The marsh, morning; Karis's finding delivered; the map with three marks and a straightedge.",
+    "pov_goal": "Follow the line to the fourth circle; look; decide honestly whether to go in.",
+    "opposition": "Oryn's route (she must turn north); high autumn emptying the roads; a circle twice the size; a cordon; his own silence at the council.",
+    "turn": "The finding; the walk (the book's last freedom chapter and its coldest — high autumn, the void roads emptying for winter, six on a bearing nobody drew for them, Cael cataloguing a country he has come to love with a straightedge's worth of dread in his pocket); the fork and Oryn's departure (fixed lines); five on the bearing; the ridge at dusk; the pacing to four hundred; the line of stakes; Seln's 'cordon' line.",
+    "choice": "The decision to stop — Cael's, spoken: not without her; not without knowing what twice the size does to the four of them; not without the map finished. Karis's 'It's a line.' His 'Then it's a line that points somewhere. We go home and find out where.'",
+    "outcome": "Nobody crosses. Five turn for Lowmarch.",
+    "closing_state": "The chapter ENDS ON THE LOG (the previous chapter ended on an image), on the ridge: 'Four sites. One line. The last one's twice the size and the Compact fenced it. The bearing runs through it and keeps going. Karis says four points is an argument. I say it's a bearing — the kind their maps draw as nothing. Home is Lowmarch now. I just wrote that without noticing. Nineteen, ten fragments, a still place at the center of me, and a line on a map that somebody drew before there were maps. We're not done. We're oriented.'"
+  },
+  "obligations": {
+    "must_include": [
+      "Karis's finding with the straightedge and the kit's bearing (three centers on a line to the stride; the fourth circle on it two days away); her two fixed lines ('Three points make a line. Four make an argument.').",
+      "The walk as the last freedom chapter and the coldest (high autumn; roads emptying; cataloguing with dread), rendered in scene at halts, not summary only.",
+      "Oryn at the fork: her reason (eleven days; the knee); Cael walking her to the fork and NOT asking; her two fixed lines ('Find me at Thornwater.' / 'Bring the map.'); five on the bearing after.",
+      "The fourth site from the ridge at dusk: the pacing to four hundred meters (procedure as in Ch10, compressed); the structure as a shape only; the LINE of stakes; Seln's fixed line ('That's not a survey. That's a cordon. They've been here more than once.').",
+      "The council of five voices and one silence, Cael's decision lines verbatim, Karis's reply, Cael's reply; nobody crosses.",
+      "The chapter ENDS on the log entry verbatim as given (ending 'We're oriented.').",
+      "Lira one-armed carried; Brom's shoulder carried.",
+      "Manuscript format: H1 '# Chapter 23 — Bearing', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The fourth site (Book 8's on-ramp): twice the radius; cordoned; not entered.",
+      "'Home is Lowmarch now.'",
+      "'Bring the map.' (Ch24 letter)."
+    ],
+    "payoffs": [
+      "Ch20's bearing; Ch22's pencil stopping; Ch18's 'she'll turn north the day she has to and I won't ask her not to.'"
+    ],
+    "prohibited_outcomes": [
+      "Nobody crosses the fourth site's line; no Path is tested there; nothing about the fourth site's effect is known.",
+      "No theory of maker/purpose; no 'Architect'; no claim the sites read/measure anyone.",
+      "No fight; no fragment use; Oryn does not stay.",
+      "No Teague on the page; no letters (Ch24), no Vastin.",
+      "No new named entities (the fourth site unnamed).",
+      "The chapter does not end on dialogue or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "High-autumn road texture (frost, empty carts, the void roads' first snow-smell); the fork; the ridge; the fourth site as a shape against the sky; the cordon's stakes as objects; the pacing compressed.",
+      "Dialogue in established voices beyond the fixed lines.",
+      "Cael's cataloguing and the closing log."
+    ],
+    "approval_required": [
+      "Any new named entity; any fact about the fourth site beyond radius, shape-against-sky, cordon; any Compact fact beyond 'more than once'."
+    ],
+    "forbidden": [
+      "Crossing; testing; theory; Oryn staying; fights; a dialogue or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 22 as drafted — the immediate seam (the three readings, the pencil)",
+      "path": "v3-runs/book-07/drafts/ch22.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch23.md",
+    "report_path": "v3-runs/book-07/reports/ch23-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch23-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch23-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

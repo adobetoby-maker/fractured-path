@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch03-verifier-r1",
+  "scene_id": "b7-ch03",
+  "editor_run_id": "b7-ch03-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch03-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch03-r1.md:3",
+        "v3-runs/book-07/drafts/ch03-r1.md:11",
+        "v3-runs/book-07/packets/ch03.json (knowledge_boundary: Teague's crew is three days away)"
+      ],
+      "reason": "Line 3 has Teague's crew leaving hours before the carter arrives; the packet's causal support for the hold releasing its named HOLD is a three-day absence. Repaired by one clause: the crew has been gone two days on a week-long road job, so the hold cannot wait."
+    },
+    {
+      "finding_id": "ed-b7-ch03-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch03-r1.md:271"
+      ],
+      "reason": "'four people below him ... and one who could' totals five companions plus Cael. Repaired: 'three people ... and one who could' (Brom, Lira, Karis injured; Seln able)."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch05-r2",
+  "scene_id": "b7-ch05",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch05.md",
+  "word_count": 5232,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH05-001 repaired",
+      "status": "MET",
+      "evidence": "Pike entered it as a price gets entered, flat, with the five names under it, and said the things he said. | sloping toward the outer edge as a roof slopes \u2014 not steep, but not flat, | \"Shale-backs,\" said Seln, from ahead, low, in the road's own quiet. | Karis said, without heat, as one asks for a thing already paid for: \"I want a day.\""
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [
+    "Line edit applied directly by the orchestrator (four clauses)."
+  ],
+  "blockers": []
+}

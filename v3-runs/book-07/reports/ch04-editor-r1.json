@@ -1,0 +1,373 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch04-r1-editor",
+  "scene_id": "b7-ch04",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "NEEDS_HUMAN_JUDGMENT",
+      "evidence": "Cael is eighteen; the party remains five; the board begins with thirteen crews and the unit thirteenth; the chapter moves it to twelfth; Hesk's first eastbound letter arrives; no later reveal leaks. Chapter 4's sixtieth-day marker is internally workable with Chapter 3's on-page fifty-third-day fight and recovery days. The upstream record is not clean enough for a firmer calendar ruling, however: STATE_RUNNING.md contains both a day-53 account and a later repair note placing the ford about day 55, while Chapter 3 itself still says 'Fifty-third day.' Chapter 4 does not create a provable new contradiction, but 'a week ago' at lines 113 and 213 should be reconciled when the Chapter 3 seam is finally closed."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration stays in close-third past through Cael's practical catalogue: paces, injuries, boxes, slips, mail, and ledger lines. New information comes from witnessed speech, Hesk's letter, or Cael's explicit inference. The quiet-ground phrase is not interpreted, and Cael does not claim knowledge beyond the carter's wife's words."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "All four companion movements occur in scene and remain centered on the companion's own want; all four Chapter 3 injuries recur without resolving; the quiet-ground line, underline, full Hesk letter, mid-chapter Power Log, one-line board move, and fixed Pike close are present. Cael catalogues outside the log, healer rationing and board pricing show rank's non-combat effects, and the manuscript format matches the packet."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "The prohibited-outcome search found no healer, Oryn, Tide, Quieting, ruins, sigil, survey, stakes, Vell, Ephram, Vastin, watcher, fight, fragment use, new injury, extra letter, Teague dialogue, or metadata. The sole allowed 'quiet ground' occurrence is the carter's wife's fixed three-sentence folklore line. Teague's crew appears only as the wall/contract fact represented by its empty table and continuing autumn-road job. No new named person or place is minted."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The ford outcome causes every downstream change: wounds restrict travel and work; the cleared ford lets grain move; the witnessed completion lets Pike say the result and rewrite the wall; the one-line move follows visibly from that procedure. No coincidence erases a cost."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Against Chapter 3 and the pre-Chapter 4 state: Cael's right-calf bite remains painful and produces the eleven/nine/twelve-pace limp; Brom's right forearm remains bound, is re-bound twice, cannot carry, and is still open at the wrist; Lira's right ankle bears badly, sets stiff, and requires a stick/cart; Karis's palms remain wrapped and force enlarged, leaning handwriting from the elbow. Seln remains uninjured. None heals or acquires an extra wound."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The unit enters physically diminished and individually uncertain about worth without institutional numbers. It exits with each companion's want surfaced, Hesk's letter received, a first source from beyond the Line, a well contract taken, Brom's kept sentence, and the unit publicly priced one line higher."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter uses the series' own catalogue, ledger, Power Log, procedural emotion, and dry oblique dialogue. No passage was identified as imitating a named external author or protected expression."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the injury ladder, library contents, road, board, mail, room, and wall outside the log. The italicized letter and Power Log have distinct in-world registers. Karis speaks through source discipline, Lira through contested measurement, Brom through weight and few words, Seln through report logic, and Pike through price and procedure."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. The field library is physically assembled and limited by Karis's hands; folklore arrives through a working grain convoy; healer rationing changes how an ankle sets; the courier chain sorts nineteen pieces through the board; and reputation changes when Pike rewrites thirteen lines in front of the room. Worldbuilding operates through tools, labor, scarcity, and procedure rather than detached explanation."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "The carter's wife supplies exactly the assigned quiet-ground folklore and leaves before follow-up; nobody investigates, asks Pike, or adds a fact. Existing names and places are reused, background people stay unnamed, and the mail/board/healer texture stays within the invention budget."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "The section 8.5 audit covered the field-library exchange, four-person road-camp exchange, Seln/Cael board exchange, Brom/Pike/Cael plank scene, and crowded final room. The maximum run is three unattributed dialogue paragraphs, in the Seln/Cael exchange, below the cap of four; speaker order and surrounding action remain intelligible aloud. Italics decorate identified writing, and no meaning depends only on typography."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every personal and place name in the chapter was checked aloud against craft/NAME_REGISTRY.md: Cael, Brom, Lira, Karis, Seln, Prynn, Rooke, Pike, Teague, Hesk, Lowmarch, Thornwater, Norhold, Denvash. Existing names retain their entities. Pike/Fiske is the closest new-series ear check, but the one-syllable Pike and two-syllable Fiske remain distinguishable at speed; Karis/Kestrel and Prynn/Quenna retain the registry's accepted dispositions."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared chapter scope: v3-runs/book-07/drafts/ch04.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. The H1 is exact, seven standalone rules divide eight prose sections, and the file ends on Pike's dialogue with no footer. wc reports 5,273 words, inside the 3,910-5,290 tolerance."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "FAIL",
+      "evidence": "Declared chapter scope ch04 and book-to-date scope ch01-ch04, using the canonical .md files only. Chapter 4 counts are 0 for jaw tightened, laughed once, without humor, stomach tightened, stomach dropped, There it was, That was true, Also true, sounded almost, held this, standalone '[Name] noticed.', and 'which was, in its own way'. Book-to-date counts are identical except raw 'There it was' = 1, inside Chapter 2's 'In there it was heresy,' not the standalone beat. Chapter 4 has one single-word paragraph ('Cael.'), below the cap of two; four 'the way X [verb]' candidates, with the largest identical construction count 2 ('the way he had'); 22 em dashes; and 0 modern-register, feeling-declaration, or growth-declaration hits. A newly repeated attribution scaffold, 'at the pitch', occurs 6 times in Chapter 4 and 10 times book-to-date, violating the section 9 rule for new beat phrases. See ed-b7-ch04-001."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 3 ends on a copied ledger line followed by Cael's written sentence. Chapter 4 ends on Pike's spoken dialogue. The adjacent final-beat types differ, and Chapter 4 does not end on a log or image."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "The inventory remains nine confirmed fragments plus one anomaly. 'Deployment since the Line: one, the ford, paid' correctly carries Chapter 3's sole Wind-adjacent use. Shadow trying at the landing and Anchor wanting the inn door are idle-state texture; neither is deployed. All four assigned injuries match Chapter 3 in owner, side, mechanism, and open status, and no healer appears."
+    },
+    {
+      "gate": "state.party_headcount",
+      "state": "PASS",
+      "evidence": "The manuscript consistently keeps Cael, Lira, Brom, Karis, and Seln as five: 'Four of five,' Pike's 'Crew of five,' and the final room's 'five of them' all reconcile. Oryn remains unmet."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and the manuscript contains none."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat exchange occurs. The road camp, board, plank, and final room remain spatially legible as non-combat scenes."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "No ability is used. Physical action respects the carried injuries: Brom cannot lift, Lira uses a stick and cart, Karis cannot grip normally, and Cael walks by an explicit limp count."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs; character methods are evaluated under voice and companion-obligation gates."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat decision occurs. The chapter's non-combat turn is Cael's choice to record worth through deed and accept Pike's/Teague's pricing."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. Knowledge, standing, obligation, and self-concept change outside combat."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "The previous fight's four wounds drive the chapter's movement, work allocation, dialogue, travel, and observer verdict. All remain open at the close."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "The visible delta is exact: the crew moves from thirteenth to twelfth because the ford was cleared with five confirmed, four injured, and none lost. Human-track deltas are likewise explicit: Lira's unresolved measure, Brom's kept rule, Karis's first local source, and Seln choosing work without a debrief."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The one-line reputation gain is inseparable from its stated bill: four of five injured, with each wound visibly restricting daily life."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress changes employment, self-conception, research access, local reputation, and the way strangers read the crew, not merely the wall position."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No capability resolves this chapter. The board move depends on the previously established ford result and Pike's established ledger procedure."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague's crew remains away on the autumn-road contract; other jobs and crews turn over; grain and mail move; Pike processes the ford and rewrites the sheet; Seln takes new work. Neither rival nor institution waits for Cael."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "Chapter 3's terrain-and-pack fight becomes a braided recovery, identity, research, employment, and reputation chapter. The problem is social and procedural rather than a stronger repetition of the ford."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The ford's injuries change how the group carries boxes, writes, walks, camps, and accepts help. The fight without Paths changes Lira's and Brom's questions about worth, while Karis and Seln turn deprivation into new method."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No Arbiter, declaration, fragment notice, or System display appears. The italicized block is Cael's handwritten Power Log."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System values display. The manual inventory independently matches the frozen nine-plus-anomaly state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears; the letter, Power Log, and ledger reading are speakable prose."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The Power Log is a character-authored document carrying the assigned choice and state reconciliation."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The anomaly remains unexplained; quiet ground remains three sentences of folklore; nobody knows or states the Quieting mechanism, later ruins, stakes, or Compact knowledge."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No Path or fragment combination occurs."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "Healers staying 'inside, where the tiers are' leaves Lira's ankle to set stiff, while Pike's board explicitly declines to buy carried rank paper and prices Brom's deed instead. Rank shapes medical access, labor value, and reputation without combat."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No extraordinary capability resolves a conflict. The procedural resolution traces to the previously taught board and the recorded ford outcome."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No named ability is used or introduced. Idle fragment pressures do not become deployments."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The chapter adds no named entity or subsystem. It extends Thornwater, Lowmarch, the board, courier chain, healer scarcity, companion wants, and existing documents."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "The opening promises an honest inventory of the ford's bill; the close delivers a public price for that bill and an exact one-line advancement, while leaving the eleven-line pressure intact."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The quiet-ground phrase is a plant rather than a reveal. The wall move pays the board mechanism taught in Chapter 2 and the ford outcome recorded in Chapter 3. No unplanted major reveal lands."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The ford-cost event advances to a new reputation status; each companion's character dissatisfaction is surfaced rather than falsely resolved; quiet ground opens as inquiry folklore; and the rival clock progresses by one measured line."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "The longest worldbuilding movements are anchored to bound hands, boxes, paper bundles, a working grain yard, mule reins, a board, a mail sack, and Pike physically copying the wall. No passage over 150 words is dominated two-to-one by detached exposition."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the first review of a fresh draft; no revision-pass artifact is supplied."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. Non-combat spaces remain clear enough for the field-library, road-camp, plank, mail, and wall procedures."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The gate's combat-climax measurements do not govern this no-fight chapter. The chapter varies long catalogue sentences with short procedural landings."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants act. Character methods remain distinguishable in dialogue and work under the voice gate."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every Chapter 3 injury recurs at its owner's next appearance and continues affecting work and movement through the final room."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Only uneventful recovery intervals and road movement are compressed. The field library and folklore, Lira's question, Seln's report, Brom's question and writing, Hesk's letter, Power Log choice, and board move are all staged on the page."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat scene exists. The procedural set pieces nevertheless use their environments materially: the table becomes shelves, the cart carries what Brom cannot, and the board room's wall and sightlines make reputation public."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "The exact visible delta is one board line, caused by the ford and paid for with four persistent injuries. Human progress is behaviorally legible without a rank gain."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a per-arc combat-standing requirement, and no fight occurs here."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague's crew remains active on the better autumn-road job while Cael's unit advances only one line; the rival clock moves without making Teague wait or appear."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The new crew reads the stick, bound arm, and wrapped hands; Pike reads the exact outcome aloud; the wall is rewritten; and the room reacts. Progress is socially visible outside any stat display."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System box appears. Cael owns and writes the Power Log; Hesk owns the letter's voice; Pike owns the ledger and wall."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "The rank critique is enacted: the missing healer leaves Lira's ankle to set wrong, Pike refuses to buy the weight of rank paper, and the board pays Brom's deed. No speech alone carries the institutional argument."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No joke or comic deflection is deployed under stakes."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The chapter repeatedly processes cost without deflection: Karis faces a researcher's damaged instrument, Lira asks what becoming means without measurement, Brom keeps Pike's answer against his skin, and Cael receives Hesk's letter through filing and objects."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The arc's later reading/consent stake has not opened, and this chapter card assigns no moral-cost checkpoint."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch04-001",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "production-anti-tic-repeated-attribution-scaffold",
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch04.md",
+        "line_start": 41,
+        "line_end": 233,
+        "quote": "She said it without heat, at the pitch she used for a finding. / Then he said, not looking round, at the pitch of the road: / \"Same as anyone,\" he said, at the pitch he said a price. \"What'd he do?\" / Pike read the name on its face at the pitch of a price / read it aloud, at the pitch, to the room / he said the rest, to the room, at the pitch of a price, asked by nobody."
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 313,
+        "line_end": 317,
+        "quote": "Rule: any somatic/beat phrase appearing more than 3 times per book is a defect — including new phrases invented to replace an old one. Fixing a tic with a fresh repeated phrase is the same defect wearing a different coat; vary the replacement or cut the beat."
+      },
+      "consequence": "A case-insensitive fixed-string count over the canonical Book 7 drafts ch01.md through ch04.md returns 10 occurrences of 'at the pitch': 1 in Chapter 2, 3 in Chapter 3, and 6 in Chapter 4. Chapter 4 alone doubles the charter's per-book ceiling. The phrase usefully marks professional registers, but at this density the attribution scaffold becomes audible and makes Karis, Seln, Pike, and Cael's narrative framing share the same verbal mechanism.",
+      "repair_target": "Reduce or vary the Chapter 4 occurrences while preserving the distinct finding, road, and price registers. Because four earlier canonical occurrences already exist, reconcile the remaining book-level count in the appropriate production pass or record an explicit motif exception before Book 7 closes.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Timeline taste/authority concern: Chapter 4 twice describes Pike's relevant reading/place in the book as 'a week' old on day sixty, while Chapter 3's on-page fight is day fifty-three and its courier travel is not cleanly reconciled. STATE_RUNNING.md itself preserves conflicting day-53/day-55 notes, so this is not promoted to a new Chapter 4 finding until the upstream seam receives an authoritative calendar ruling.",
+    "The required Power Log deliberately recapitulates all four companion movements shortly after they occur. It performs the packet's assigned choice and state-record function, but in audio the Karis and Seln summaries are close enough to their scenes to feel like a second explanation; this is a compression-taste concern, not a failed obligation.",
+    "No fight occurs, as explicitly prohibited. The terrain-load-bearing combat test and the win sentence 'X removed Y's ability to Z' are therefore not applicable. The board rewrite is a memorable procedural set piece, but it should not be scored as combat choreography."
+  ],
+  "strengths": [
+    "Yes: worldbuilding is done through mechanism and use. Three boxes become a field library through labor; the healer economy sets an ankle wrong; folklore arrives because grain can move again; a monthly sack reaches the only board that keeps names; and a reputation changes only when Pike reads, copies, and re-pins it.",
+    "The board rewrite is memorably choreographed as a non-combat set piece: the book is read to the room, the old sheet comes down from four pegs, thirteen lines are copied, the five names move to twelfth, and strangers price the visible injuries before Pike speaks. Its causal win can be stated procedurally: the ford outcome removed the board's ability to keep treating the crew as wholly unproven.",
+    "All four companion movements retain independent wants. Karis wants sources, Lira wants a form of becoming without the ladder, Brom wants worth without a Path number, and Seln wants to discover what his craft is when nobody demands a report. Cael observes without taking ownership of their scenes.",
+    "The injury continuity is unusually strong and vocationally specific: Karis loses normal handwriting, Brom loses the boxes he habitually carries, Lira loses both gait and the floor on which she proved speed, and Cael turns pain into a paced map. The final room keeps the stick, arm, and hands visible after the log.",
+    "The quiet-ground plant obeys the reveal boundary exactly. The three sentences arrive from an unnamed working carter, Karis's restraint is dramatized as cost, 'everybody knows' is underlined, and the chapter refuses explanation, investigation, Pike, or later terminology.",
+    "Hesk's letter lands through the series' strongest emotional method: handwriting, a three-week date, the satchel, the absence of a roof, and a new fact filed without interrogation. The fixed text remains verbatim and distinct from the Power Log's voice.",
+    "Pike's answer to Brom is protected by action rather than interpretation. Brom writes eight words with the wrong hand and keeps them against his skin; the second-time beat therefore advances relationship and self-concept without a growth declaration.",
+    "The final beat differs cleanly from Chapter 3's written close. Pike's dialogue preserves the eleven-line pressure, converts Teague's silence into a working ledger rule, and ends without an explanatory image or appended summary.",
+    "Production checks otherwise hold: length is inside tolerance; metadata, summary-substitution, modern-register, feeling-declaration, and growth-declaration searches are clean; fixed section 9 tics remain below cap; attribution survives audio; every name passes the registry ear check; the party remains five; and the fragment inventory is unchanged."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch16",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 16 card)",
+    "state": "state-b7-post-ch15 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael — with ONE limited third-person window (Vastin, one paragraph, three sentences), the series' established device; the window may reveal only what Vastin perceives and knows.",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + the located anomaly. Party SIX at Thornwater. Lira one-armed.",
+      "THE DISCLOSURE: Lira first, at Thornwater's wall at dusk — nothing changed for him at the line, not in the ring, not at the den, not at the stone; his Arbiter has been dark since a Kindling eleven seconds long and the Quiet had nothing to turn off; he used everything inside and it all worked and he does not know why. Her answer is the B1 Ch16 covenant six books on: 'You told me when you knew. You don't know. So you told me that. Keep doing it.' Then: 'It scares you.' / 'Out there I was the thing the system couldn't hold. In there I was the only thing that worked. I don't know which one's worse.' / 'The second one. You're allowed to say so.'",
+      "THE CIRCLE, that night, six for the first time (Oryn included by Cael's decision): the fact stated; the four who saw saying what they saw; Karis's five findings on the table; Seln's professional read verbatim: 'They know something turns Paths off. They don't know something doesn't turn off. Yet.'; Oryn's clinical read verbatim: 'My hands stop at that line. Yours don't. I had my hands in you for twenty minutes and I can tell you what I didn't find, which is a Path. That's all I've got. I'm not going to guess past it.' Nobody theorizes a maker; nobody says why; six intelligent people agree they cannot see the fact's edges and decide what to do anyway: the Fallow Ring is one site; Pike said a handful; the carter's map has three circles; the contract was written inside. Karis: 'We find the others. All of them. And we find out whether they're the same.'",
+      "THE VASTIN WINDOW — one paragraph, three sentences, limited third person, the only one in the book: a courtesy copy of an edge-territory broker's completed-contract report, forwarded through a registry office that should have no interest in Lowmarch's board, crosses his desk marked 'Fallow Ring: crew returned, instruments not recovered'; he reads it twice — a broker's report from a town on no registry map, on his desk with no routing note — does not know why it reached him, and files, in the register of a man who has never pretended to knowledge he lacks, that he does not know; returns it unannotated. He recognizes NOTHING; no classified index; still inside; writing nothing.",
+      "THE LOSABLE MORAL STAKE named: Oryn, alone with Cael, restating her condition: 'You can read people now. At contact. Me, Karis, Seln, anyone whose wrist you're holding. I read people for a living and I ask first, every time, even when they're dying. You will too.' 'Yes.' 'Say it in the log. I've seen what the log does to you.' He writes it in full: 'The reading turned outward. I ask first. Every time. If I ever don't, that's the day I became the instrument.'",
+      "Oryn will leave after this chapter to make up her route (she is three days north by Ch17); this chapter may stage her intention to go north in the morning."
+    ]
+  },
+  "purpose": "The disclosure chapter and Part 2's close: Cael tells Lira, then the circle, what he has carried since the stone — in the register the series keeps for his honest entries, what he knows is small and the not-knowing is the point; the circle of six looks at the largest fact of the book and agrees it cannot see its edges and decides what to do anyway; Vastin receives a report he cannot explain and writes nothing; the reading turned outward is named as the book's losable stake; and the second pole arrives in the log, intellectually, eight chapters before it lands.",
+  "scene_shape": {
+    "opening_state": "Thornwater's wall at dusk; Lira one-armed; the day after Karis's three facts.",
+    "pov_goal": "Tell her what he knows when he knows it — and then tell all of them — and accept a condition on the newest thing he owns.",
+    "opposition": "The size of the not-knowing; the fear of which sentence is worse; the temptation the tenth fragment brings (reading people without asking).",
+    "turn": "Lira at the wall (fixed exchange). The circle of six (fixed reads from Seln and Oryn; Karis's decision line). The Vastin window (three sentences). Oryn's condition and the log line.",
+    "choice": "Cael includes Oryn in the circle by his decision and nobody's objection; writes the ask-first line in the log as a standing rule.",
+    "outcome": "The book's second half decided: find the other circles, all of them, and find out whether they're the same.",
+    "closing_state": "The chapter ENDS ON THE LOG (the previous chapter ended on dialogue), the second pole intellectually: 'Nothing out here reads me. And at a line you can mark with a rock, every Path in this camp stops, and mine doesn't. Karis won't write her hypothesis. I won't write mine. We're going to find the other circles. Pike said nobody goes in twice. Tomorrow makes three.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The Lira scene at the wall with the fixed exchange verbatim (the covenant line; 'It scares you.'; the two sentences about which is worse; 'The second one. You're allowed to say so.').",
+      "The circle of six that night with the fact stated, the witnesses' accounts, Karis's findings on the table, Seln's read and Oryn's read verbatim, the four data points (one site; a handful; three circles on the carter's map; the contract written inside), Karis's 'We find the others...' verbatim; no theory from anyone.",
+      "The Vastin window: one paragraph, three sentences, limited third person, exactly the content in the knowledge boundary; unannotated; he recognizes nothing.",
+      "Oryn's condition restated with the fixed lines and Cael's log rule verbatim ('The reading turned outward. I ask first. Every time. If I ever don't, that's the day I became the instrument.').",
+      "The chapter ENDS on the second-pole log entry verbatim as given.",
+      "Manuscript format: H1 '# Chapter 16 — Lira First', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The ask-first rule (Ch18 taught on Oryn; Ch22 refused on Teague).",
+      "The report reached a desk it shouldn't have (Ch17's trap).",
+      "'Tomorrow makes three' — the search for the other circles (Ch17–24)."
+    ],
+    "payoffs": [
+      "Ch11's 'Later.'; Ch12's 'unfiled'; Ch15's three facts; the B1 Ch16 covenant six books on."
+    ],
+    "prohibited_outcomes": [
+      "No theory of maker/purpose/age/nature by anyone; no 'Architect'; no claim that the sites read or measure Cael; only observed facts.",
+      "Vastin recognizes nothing, locates nothing, writes nothing; no classified index; no Book 8 material.",
+      "No fight; no fragment use except the standing rule's statement; no travel yet.",
+      "No Teague; no letters; no new named entities.",
+      "The chapter does not end on dialogue or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Thornwater's wall at dusk; the common room at night; the six around a table; Vastin's desk in three sentences (registry altitude, a folder, a courtesy stamp); Oryn's manner; Lira one-armed at a wall.",
+      "Dialogue in established voices beyond the fixed lines (short).",
+      "Cael's interior and the log."
+    ],
+    "approval_required": [
+      "Any new named entity; any fact about the report's routing beyond 'a registry office that should have no interest'; any ontological claim."
+    ],
+    "forbidden": [
+      "Theory; Vastin recognizing anything; fights; a dialogue or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 15 as drafted — the immediate seam (Karis's findings, 'That's different.')",
+      "path": "v3-runs/book-07/drafts/ch15.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch16.md",
+    "report_path": "v3-runs/book-07/reports/ch16-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch16-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch16-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

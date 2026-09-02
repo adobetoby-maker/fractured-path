@@ -1,0 +1,351 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch03-r3-editor",
+  "scene_id": "b7-ch03",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "Verified finding ed-b7-ch03-003 is repaired. The opening now says, 'The best table was empty when they came in off the meadow at first light on the second morning after the wall' and that Teague's crew 'had gone out by the landing door at the previous dawn.' Chapter 2 is day forty-nine; this makes the opening day fifty-one, Teague's departure day fifty, and the retained 'Fifty-third day' ford log consistent with the two-day walk."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close-third past remains limited to Cael's catalogue, body, tactical attention, and uncertainty. Karis owns the discharge-sense hypothesis, the fight confirms it, and Cael keeps the two downstream hounds open rather than converting absence into knowledge."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "The corrected opening state, carter lore, Karis derivation, Seln cut-dog geometry, one-declaration plan, four ordered exchanges, exact deployment limits, five-dead/two-downstream result, four injuries, seal log, observer verdicts, Pike payoff, and assigned close are all present."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "NEEDS_HUMAN_JUDGMENT",
+      "evidence": "No Oryn, Tide, quiet-ground terminology, Quieting, ruins, survey stakes, death, limb loss, extra injury, Teague appearance, new named entity, modern idiom, metadata, speaking stillhound, or extra Cael deployment appears. Karis's 'Ours and theirs. Every practitioner leaks a little, idle' remains semantically ambiguous about whether stillhounds themselves emit Path discharge; the packet both forbids stillhounds carrying a Path and requires water to hide them, so this is an authority ambiguity, not a verified manuscript defect."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Chapter 1's loudest-sound and open-ground observations combine with local cases, Seln's count, and the walked ford to produce a stated hypothesis and test before combat. The first-mover seam is observed before Cael exploits it, and Seln's lead-hound kill visibly breaks the geometry."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "The party enters uninjured with nine fragments plus the anomaly. Brom's forearm, Lira's ankle, Karis's palms, Cael's calf, and the burst bill persist through treatment, log, forced delay, dictation, and the closing day; none resolves."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The ford is cleared, stillhound behavior becomes confirmed knowledge, the unit gains reusable doctrine and a public record, Brom and Lira gain changed self-knowledge, Karis's hypothesis becomes a finding, four injuries remain open, and the Shadow seal is reinforced."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose uses the series-specific catalogue, ledger, Power Log, procedural emotion, and dry dialogue methods without resembling protected expression or inviting identification with an outside author."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the contract transfer, ford, positions, pack behavior, costs, and injuries. The Power Log has its plain first-person register. Karis reasons by hypothesis and test, Seln by position, Lira by movement, Brom by footing and mass, and Pike by price arithmetic."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Pike transfers the held contract through a struck name and public reading; lore comes from the woman who buried and bound victims; wet stone constrains Ember; boiled cloth and the absent healer determine wound outcomes; and the witness-slip/courier/ledger chain turns the fight into reputation."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "NEEDS_HUMAN_JUDGMENT",
+      "evidence": "No scheduled secret or Part 2 knowledge is disclosed, and first-mover behavior stays within the assigned pack geometry. The same 'Ours and theirs' wording leaves an unresolved ontology question about animal discharge versus the explicit no-Path prohibition."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "The section 8.5 audit covered the board exchange, five-person loft plan, fight calls, and binding scene. The maximum run is two unattributed dialogue paragraphs, below the cap of four. Italics decorate already-identified log and ledger writing; the meaning survives audio."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every name was checked by ear against craft/NAME_REGISTRY.md: Cael, Lira, Brom, Karis, Seln, Pike, Teague, Lowmarch, and Thornwater are established and distinguishable at audiobook speed. The carter, steading's woman, bowman, and ferryman's boy remain unnamed."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Scope: v3-runs/book-07/drafts/ch03.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. The H1 and rule breaks are correct, the file ends on prose, and wc reports 5,174 words, within the 3,910-5,290 range."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Declared chapter scope ch03 and book-to-date scope ch01-ch03. Chapter/book counts: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/1; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; standalone '[Name] noticed.' 0/0; which was, in its own way 0/0. The sole book hit for 'There it was' is embedded in 'In there it was heresy.' Chapter 3 has one single-word dialogue paragraph ('No.'), below the cap of two, and one qualifying 'the way X [verb]' construction with no identical repetition. Modern-idiom, feeling-declaration, and growth-declaration greps return 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 2 ends on an observed image of the wall sheet. Chapter 3 ends on Pike's copied ledger line plus Cael's written sentence. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "The pre-chapter snapshot and Chapter 2 give nine confirmed fragments plus one anomaly, no deployment since the Line, and no open injuries. Chapter 3 keeps the inventory unchanged: Cael uses exactly one Wind-adjacent burst; Iron-adjacent, Shadow, and Anchor only want or try and are held. Karis lights once, Brom declares once then stops, Lira uses no Wind, and Seln does the assigned Shadow work. The only new wounds are the four specified injuries plus the burst's usual bill."
+    },
+    {
+      "gate": "state.party_headcount",
+      "state": "PASS",
+      "evidence": "The earlier repaired sentence survives unchanged: 'with three people below him who could not hold a pen or walk or use an arm, and one who could.' Together with Cael, that is the established party of five, and Pike's line remains 'Crew of five, four injured, none lost.'"
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "PASS",
+      "evidence": "Before the bait is lit, the chapter establishes two buried or bound victims plus a third disappearance, the hold's only grain road, Pike's professional reservation, and the unit's no-loss objective."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "PASS",
+      "evidence": "The sixty-pace ford, right-to-left current, twenty-pace near channel, thirty-by-eight-pace bar, thirty-pace far channel, forty-meter shingle-to-scrub gaps, pools, and every starting position are established. Movement remains keyed to the road, bar ends, channels, shingle, and current."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "Brom earns force from memorized footing and current while the hound loses hindquarter purchase; Lira's ankle turns on loose gravel; Cael's burst enforces the landing lock and breath/framework cost. No participant exceeds assigned Path use."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "PASS",
+      "evidence": "Brom solves with planted mass, Lira with unamplified speed, Karis with controlled bait and refusal to relight, Cael with observation and one redirecting burst, and Seln with unseen positioning behind the decisive hound."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "PASS",
+      "evidence": "Cael sees that the pack breaks toward the first mover, moves first away from Karis, and turns every hound. The big grey exposes its back to Seln; taking it removes coordinated initiative for the breath in which the crew finishes with steel."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "PASS",
+      "evidence": "The fight changes confirmed knowledge, doctrine, board reputation, Lira's understanding of her speed, Brom's understanding of Iron Skin as a declaration, Karis's hypothesis status, and the crew's public record."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "Brom's forearm, Lira's ankle, Karis's palms, Cael's calf, and Cael's breath/landing/framework cost are named, treated, logged, and carried through the remaining days."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No rank or fragment advancement occurs. Technique deltas are caused and explicit: Lira proves fast without Wind, Brom learns amplification declares him, Karis converts hypothesis to finding, and the unit gains a repeatable bait doctrine."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The gains are paid through Lira's ankle, Brom's opened forearm, Karis's hands, Cael's calf and burst bill, and the honest four-of-five ledger price."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress becomes a cleared trade route, local testimony, confirmed knowledge, changed self-conception, Pike's completion line, and future standing rather than a tier or stat increase."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "Wind, Shadow positioning, Ember ignition, Iron Skin, and steel skills are established. Declaration-sense is derived before combat, and the first-mover seam is shown before the decisive burst."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague's crew independently leaves on the autumn-road work after Chapter 2; the hold reassigns its named contract under pressure; the carter carries news and the witnessed slip; Pike applies board procedure."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "Chapter 1 asks the crew to cross silently without confirming the mechanism. Chapter 3 asks them to draw seven hidden animals into designed geometry with one declaration and fight without further Path use."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Brom stops declaring after every head turns; Lira continues without Wind after the ankle goes; Karis refuses the second point under attack; Cael records both the successful rule and its four-injury price."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No Arbiter, declaration, fragment notice, or System display appears. The italicized inventory is Cael's manually written Power Log."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System values are displayed. The manual nine-plus-anomaly inventory and one-deployment count match frozen state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears; the Power Log and Pike line read naturally aloud."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The in-world log performs continuity, seal, finding, and cost-accounting work."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The anomaly remains unexplained, no Quieting knowledge appears, and Cael distinguishes confirmed behavior from the unresolved two hounds downstream."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new Path or fragment combination occurs. The unit coordinates separate established capabilities under a stated plan."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank-bearing display or advancement occurs. The contract changes hands because of availability, experience, and urgency."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The resolution traces to Chapter 1's loudest-sound/open-ground observations, established Wind and Shadow capabilities, the landing lock, and this chapter's pre-fight hypothesis."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Wind carries breath and landing-lock costs, Iron Skin draws the pack, Ember cannot place a point on wet stone and is limited to one bait, and silence constrains every combat choice."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named entity or subsystem is added. The chapter extends stillhounds, established Paths and fragments, Pike's board, Thornwater, and Chapter 1's observations."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "The opening promises an urgent clearance the board cannot confidently price; the ending supplies a cleared ford, exact cost, and Pike's third-party price."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "Declaration-sense grows from Chapter 1 and local cases; the first-mover seam is demonstrated before the burst; the ledger verdict pays Chapter 2's demonstrated mechanism."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The clearance event closes with five confirmed dead, two open downstream, a usable ford, open injuries, and an entered outcome. The sensing inquiry advances from hypothesis to confirmed finding without claiming total knowledge."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "World-rule explanation is anchored in water movement, wet stone, bodies, buckets, a survivor, knife-on-stone sound, and Karis's active method. No detached passage over 150 words is dominated two-to-one by exposition."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "PASS",
+      "evidence": "This is a continuity-repair pass. Exact diff from ch03-r2.md to ch03.md shows one changed opening sentence and no other manuscript change, so no unrelated voice, structure, density, or line revision entered the pass."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "PASS",
+      "evidence": "The fight can be sketched from the ford width, current, sill, pools, bar dimensions, shingle, scrub distances, road line, and starting and updated positions."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "PASS",
+      "evidence": "The fight alternates sustained action and analysis with abrupt turns: 'The river stood up.'; 'Every head but one.'; 'So he moved first.'; 'That was the fight.' The climax compresses without becoming uniformly fragmentary."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "PASS",
+      "evidence": "Footing and mass, unamplified speed, hypothesis and controlled bait, catalogue and burst, and unseen positional work uniquely identify Brom, Lira, Karis, Cael, and Seln without names."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "PASS",
+      "evidence": "Deaths, a missing man and mule, threatened grain movement, Pike's professional risk, and the no-loss objective precede the bait point."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every cost recurs in treatment, the log, forced immobility, dictation, delayed travel, and the final ledger count."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "PASS",
+      "evidence": "The tactical problem differs from Chapter 1: draw seven hidden animals with one declaration, remain otherwise silent, defeat cut-dog geometry, and use a moving declaration to remove coordinated initiative."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Only uneventful travel and recovery days are compressed. Preparation, hypothesis, test, exchanges, decisive choice, wounds, binding, seal, and ledger payoff occur in scene."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "PASS",
+      "evidence": "More than two combat beats are terrain-caused: the river hides the pack; Brom's selected stone and the current remove hindquarter purchase; loose gravel turns Lira's ankle; deep pools enable Seln's unseen approach; the shingle gives Cael a bait lane."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "The qualitative deltas for Lira, Brom, Karis, and the unit are named and paired with injury or resource bills. No costless stat growth occurs."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs. Each animal exchange nevertheless changes tactical information."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a per-arc numerical-standing gate. The fight is won by skill and doctrine, but the pack has no ranked number."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague's crew takes separate paid work after its Chapter 2 appearance rather than waiting on Cael; the repaired dates make that motion continuous."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The bowman's observation, the steading woman's survival arithmetic, the witness mark, and Pike's completion line make progress legible outside any stat system."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System box appears. Cael owns and writes the Power Log; Pike owns and writes the ledger copy."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The chapter does not mount an institutional-unfairness critique. Pike's board acts materially through a held slip, public reading, witness mark, and price."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No joke or comic deflection is deployed under the fight's stakes."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Karis's lost ability to hold a pen, Cael's delayed recognition of the bite, the binding sequence, and the copied number process cost without jokes or lampshading."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "The Shadow seal is at risk before a bowman, ledger, and ferry chain. Cael keeps Shadow-adjacent unused, attributes the unseen work to Seln, and records why the distinction must survive witnesses."
+    }
+  ],
+  "findings": [],
+  "concerns": [
+    "The packet remains internally inconsistent about injury count: scene_shape says 'Nobody uninjured,' while the listed wounds, required ledger line, and closing sentence specify four of five injured. The manuscript follows the more specific repeated count and leaves Seln uninjured; this is an authority-cleanup concern, not a manuscript finding.",
+    "Karis's line 'Ours and theirs. Every practitioner leaks a little, idle' can imply that stillhounds emit Path discharge or count as practitioners, while the packet prohibits them from carrying a Path. The same packet requires water-masking to explain why the river hides them, so an ontology ruling remains useful.",
+    "Taste: the loft hypothesis movement is dense in audio because it formalizes discharge-sense, idle leakage, water masking, the one-point bait, sound bait, and a fallback declaration in one sequence. It remains dramatized, character-specific, and load-bearing, so no pacing or exposition gate fails."
+  ],
+  "strengths": [
+    "Verified repair confirmed by exact text: 'The best table was empty when they came in off the meadow at first light on the second morning after the wall' and Teague's crew 'had gone out by the landing door at the previous dawn.' This resolves ed-b7-ch03-003 while preserving the day-fifty-three ford. Exact r2-to-r3 diff shows only this one sentence changed; every unrelated passage is byte-for-byte unchanged.",
+    "Every r2 recorded strength survives: revision-scope discipline; mechanism-through-use worldbuilding; the terrain-load-bearing ford; earned preparation; drawable and character-revealing exchanges; persistent costs with vocational specificity; competence-specific third-party verdicts; the distinct ledger-line close; and clean production discipline. The earlier headcount repair also survives verbatim: 'with three people below him who could not hold a pen or walk or use an arm, and one who could.'",
+    "Yes: worldbuilding is done through mechanism and use. Contract reassignment happens through Pike's struck name and public arithmetic; stillhound lore comes from the woman who buried and bound victims; Ember's wet-stone limit drives Karis's inference; the absent healer controls the injury outcome; and the courier/ledger chain turns a local clearance into reputation.",
+    "Yes: the ford is a memorable, terrain-load-bearing set piece. Hidden pools generate the ambush; Brom's chosen submerged stone and the current remove a hound's ability to set its hindquarters; loose gravel enables Lira's style and turns her ankle; and the downstream shingle supplies Cael's bait lane. The win is writable as: Cael removed the pack's ability to maintain its first-mover geometry by becoming the first mover, and Seln removed the decisive hound when it turned.",
+    "The preparation earns the victory: Chapter 1's five-item catalogue is tested against local cases, converted into Karis's explicitly provisional hypothesis, and confirmed by the pack's simultaneous response to Brom. Mechanism precedes payoff.",
+    "The assigned exchanges remain drawable and character-revealing: Brom is a wall after switching Iron Skin off; Lira discovers speed without Wind; Karis refuses the second point while afraid; Cael finds a seam by watching what does not happen; Seln solves the decisive position outside the sightline.",
+    "Costs retain receipts and emotional specificity. Brom's exposed bone, Lira's bound ankle, Karis's lost writing hand, Cael's delayed calf pain, and the burst bill recur in treatment, log, forced delay, dictation, and Pike's four-of-five verdict. Karis's inability to hold a pen makes the wound vocational, not merely physical.",
+    "Third-party verdicts remain specific to competence: the steading's woman spots the wound Cael missed and supplies survival arithmetic; the bowman notices that nobody shouted; Pike prices confirmed bodies, crew size, injuries, losses, and payment rather than offering generic praise.",
+    "The close changes structural move from Chapter 2's observed image to a copied ledger line plus Cael's written sentence. The mandated ending is verbatim, intelligible aloud, and binds progression to human cost.",
+    "Production discipline survives the repair: 5,174 words is within tolerance; metadata, summary-substitution, modern-register, feeling-declaration, and growth-declaration greps are clean; all section 9 counts stay below cap; attribution survives audio; names are registry-safe; and no unassigned fragment or extra injury appears."
+  ]
+}

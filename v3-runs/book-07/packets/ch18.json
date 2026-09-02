@@ -1,0 +1,151 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch18",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 18 card)",
+    "state": "state-b7-post-ch17 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + anomaly. Roster SIX; physically five south from Lowmarch until Oxhollow, where Oryn is due the same day on her route; six from the ford. Lira one-armed.",
+      "Oryn at Oxhollow's clinic-shelter (a lean-to with a table) with a line of hold-people: three serious hurts and a dozen small (a carter's crushed hand, a child's fever, an old woman's knee) worked in the clinical register at her reserve's rate. Cael, who has the reading now, ASKS first and is told NO — she is working, he is not a healer, this is not a demonstration (the ask-first rule's first test: asked, refused, honored).",
+      "Her weighing, aloud, without heat: seven holds owe her and she owes them; a crew is walking into a floor where her Path dies; the one patient she has never been able to read is going in first; if she goes, Thornwater's next visit is eleven days late and somebody there might die of it. Fixed exchange: 'You're asking me to break the route.' / 'I'm not asking. I'm telling you where we'll be.' / 'That's worse. That's a healer's sentence.'",
+      "Her CHOICE: she does not join the crew; she sends word up the route (a carter, a note, the holds told she is eleven days late and why) and comes south — the crew made a stop on her route, not the reverse. 'You're on the route now. Which means when I say lie still, you lie still, and when I say I can't help you, you believe me.' The sixth chair filled on her terms of service.",
+      "On the road south she teaches Cael the reading properly for the first time — on HER, at her direction, her wrist in his hand, consent explicit — and he reads a Tide practitioner's architecture from inside: banks, a channel, a current that runs TO things; 'you're built to arrive' — and she looks at him the way patients look at a diagnosis that is correct. He asked; she said yes; the log records both. (This is a SURFACE-to-deep teaching at her pace; no new mechanics.)",
+      "The Long Stair's ridge at dusk: the line marked by Karis with a stone; beyond it a stair of the same grey stone descending into the ground from a floor with no ring; at its perimeter TWO survey stakes where the Ring had one — one weathered five years, one fewer. Seln: 'Newer. This one's been re-surveyed.' Nobody crosses the line in this chapter.",
+      "No theory; no fight; no trap sprung (Ch19)."
+    ]
+  },
+  "purpose": "Oryn's second arc chapter: her independent want given its full test with something she can actually lose, and the sixth chair filled on her terms — she does not join the crew; she makes the crew a stop on her route. The ask-first rule tested and honored, the reading taught on her at her direction, and the Long Stair sighted with two stakes at its edge.",
+  "scene_shape": {
+    "opening_state": "Oxhollow's ford; Oryn at the lean-to with a line of patients; the five arriving south with the contract.",
+    "pov_goal": "Tell her where they will be without asking her to come; learn the reading from the only person who can teach it; reach the Stair.",
+    "opposition": "The route's arithmetic and the people who might die of eleven days; her rule that the reading is not a demonstration; two stakes.",
+    "turn": "The clinic scene (hers); Cael's ask refused; the contract explained; her weighing aloud; the fixed exchange.",
+    "choice": "Hers: word sent up the route; south as a stop; the terms of service stated.",
+    "outcome": "The road south: the reading taught on her, consent explicit, 'built to arrive'; the ridge at dusk; the stair; two stakes; Seln's line.",
+    "closing_state": "The log at the fork, hours earlier (mid-scene): 'Oryn came. On her terms. She'll turn north the day she has to and I won't ask her not to.' Then the chapter ENDS ON AN IMAGE (the previous chapter ended on dialogue): the two stakes at the Stair's perimeter, iron, numbered, one weathered five years and one weathered fewer, and Seln on one knee between them, reading the difference with a thumb."
+  },
+  "obligations": {
+    "must_include": [
+      "The clinic scene as HER scene (three serious hurts and a dozen small; her reserve spent in her arithmetic; the clinical register); Cael asking to read and being refused; the refusal honored.",
+      "Her weighing laid flat aloud (the four considerations) and the fixed exchange verbatim; her choice staged as a healer's, not a companion's (word sent up the route; south as a stop); her terms-of-service line verbatim.",
+      "The reading taught on Oryn at her direction with explicit consent; Cael's description ('banks, a channel, a current that runs to things'; 'you're built to arrive'); her reaction; the log recording that he asked and she said yes.",
+      "The mid-scene log line at the fork (as given).",
+      "The Stair sighted from the ridge at dusk: the line marked; the stair descending from a floor with no ring; TWO stakes; Seln's line verbatim.",
+      "The chapter ENDS on the two-stakes image with Seln's thumb.",
+      "Lira's arm carried; six on the road from Oxhollow.",
+      "Manuscript format: H1 '# Chapter 18 — Oryn's Choice', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Two stakes — re-surveyed (the Compact has been back; the trap).",
+      "Oryn's route made explicit as something she will break only on her terms (Ch23).",
+      "The reading taught (Ch21 refused in combat; Ch22 the three readings)."
+    ],
+    "payoffs": [
+      "Ch16's ask-first rule tested (refused, honored).",
+      "Ch7's route and reserve arithmetic paid at full price."
+    ],
+    "prohibited_outcomes": [
+      "Oryn does not 'join the crew'; the language is route/stop/terms.",
+      "No crossing of the Stair's line; no fight; no trap; no crossbows; nobody seen on the rim.",
+      "No fragment use except the consented reading on Oryn; no theory.",
+      "No Teague on the page (he is at Oxhollow in two days — after they leave); no letters, Vastin.",
+      "No new named entities (patients unnamed).",
+      "The chapter does not end on dialogue or a log entry.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Oxhollow's lean-to clinic and its line of patients as texture; Oryn's hands and arithmetic; the road south; the ridge; the stair's shape at dusk; the stakes as objects.",
+      "Dialogue in established voices beyond the fixed lines.",
+      "Cael's interior during the taught reading (sensation; her architecture as shape)."
+    ],
+    "approval_required": [
+      "Any new named entity; any Tide mechanic beyond the taught readings; any fact about the Stair beyond what is visible from the ridge."
+    ],
+    "forbidden": [
+      "Crossing the line; the trap; fights; theory; Oryn 'joining'; a dialogue or log ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 17 as drafted — the immediate seam (the council, Teague at the door)",
+      "path": "v3-runs/book-07/drafts/ch17.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch18.md",
+    "report_path": "v3-runs/book-07/reports/ch18-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch18-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch18-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

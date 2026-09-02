@@ -1,0 +1,176 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch06",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 6 card)",
+    "state": "state-b7-post-ch05 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "combat",
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine fragments + anomaly; party is FIVE until Oryn arrives on the second day after the collapse. Open injuries at start: Lira's ankle (taped, twice turned: the ford and — in this chapter — the ledge), Brom's forearm (bound, not healed since the ford), Cael's calf (mostly closed; reopens here on the shale), Karis's hands (scarred).",
+      "Shale-backs flee declarations as a unit (Karis, Chapter 5); below a herd is the wrong place to be loud (Pike's rule). Lira's Wind burst on the collapsing ledge is her OWN Path (Wind, Iron R1), a full declaration — not Cael's fragment.",
+      "ORYN is introduced in this chapter, through her hands, in Cael's POV — NOT through the limited third-person window. Facts available to Cael on the page: a woman, late twenties, Tide Path (she says so, as a trade), Iron-tier (may state rank 4), a traveling healer with a mule and a kit, two years on the void roads, came up the road from Oxhollow because a carter said a crew was overdue on the traverse. Her ROUTE, her want, and her reasons for leaving the city belong to Chapter 7 — at most one sentence here.",
+      "Tide Path mechanics shown here for the first time and only as observed: the mending (her current run through the break; bone knitting faster than any healer Cael has watched; it visibly costs her — she sits down afterward like a woman spending something she counts); the SURFACE reading (hands on the hurt, seconds). She does NOT run the deep reading here and does not describe it (Chapter 7). On Cael she gets nothing beneath the injury and says so as a finding.",
+      "Nobody knows what quiet ground is; no Quieting; no survey stakes. Nobody has met Teague in conversation."
+    ]
+  },
+  "purpose": "The job goes wrong exactly as the bible requires: the ground itself is the opponent (the ledge lets go; Lira's own Wind saves her and turns thirty shale-backs downhill), the fight is a fight against a mountain with the herd as the clock and where-to-be as the only decision, the cart goes into the gorge and the three boxes are saved at a price the found family pays on purpose — and then the sixth companion walks onto the page through her hands, healing three people and failing, clinically and to his face, to read the fourth.",
+  "scene_shape": {
+    "opening_state": "First light on the bench: Lira thirty meters out on the ledge over the gorge checking it for a cart's width; the herd two hundred meters above and moving; the other four on the bench behind with the cart and the three boxes.",
+    "pov_goal": "Get everyone to the one piece of ground the herd will split around; then — the stupid thing, on purpose — get Karis's boxes off the cart before the mountain takes them.",
+    "opposition": "A ledge that held five days of scouting and lets go under Lira; thirty armored animals the size of carts fleeing downhill from her declaration, on shale, toward the bench; and the arithmetic of thirty seconds.",
+    "turn": "The ledge goes; Lira does what her body has trained into her — she bursts, her own Wind, full, loud enough to cross a gorge — and lands on the bench with the ledge gone beneath her; two hundred meters above, thirty shale-backs turn away from the declaration, which on a slope means downhill, toward everyone. FIRST: Seln, already moving, has the outcrop the herd will split around; thirty seconds. SECOND: Brom prices the geometry — the cart is between them and the outcrop; the cart is lost; he says so and nobody argues; the three boxes are in it. THIRD: Karis lights a lattice-line across the bench ABOVE the outcrop — a wall of ignition the herd will turn from — and it works and it costs: the herd splits around the outcrop and both halves pass within arm's reach, and the lattice drains her to nothing in eight seconds. Win sentence, legible: Karis took away the herd's line by lighting one it had to turn from.",
+    "choice": "FOURTH: the boxes. Brom goes back for the cart; Cael goes after Brom; the chapter is honest that this is the found family doing the stupid thing on purpose. Brom gets two boxes off before the second half of the herd reaches the cart; Cael gets the third and a shale-back's shoulder at the same time — thrown into the outcrop's lee with the box in his arms, three ribs (he catalogues it and is right), the calf opened again on the shale. The cart goes into the gorge. Lira reaches the outcrop last, on an ankle that has now gone twice, and not whole: the ledge took her boot and the shale the rest; the leg below the knee is the wrong shape. She knows she caused it and the chapter lets her.",
+    "outcome": "Five practitioners on a mountain with a broken leg, three broken ribs, a drained Ember, a forearm not healed since the ford, and no healer for four days in any direction. On the second day, up the void road from Oxhollow with a mule and a kit: Oryn. She asks who is worst, not who they are. Lira's leg read, set, and MENDED inside an hour — the Tide Path's civil face in full, the current run through the break, bone knitting the way no healer Cael has watched does it — and it costs her visibly. Then Brom's arm. Then Karis, who is only empty. Then Cael: both hands on his ribs, the surface reading — and she stops, takes her hands off, puts them back, and her face does the thing Cael has seen on assessors for four years and never on a healer: the instrument returning nothing. 'Your ribs are broken. I can feel that they're broken. I can't feel YOU. Whatever you are, I can't read it. I've never said that to anyone. Tape them. They'll heal on their own. They always have, haven't they?' Cael: 'Yes.'",
+    "closing_state": "The log, on the mountain, one line in a hand that hurts, written BEFORE she reaches him: 'Lira's leg is straight. The boxes are ours. The cart is in the gorge. A healer came up the road because a carter said we were late.' Then the chapter ENDS ON DIALOGUE — her hands off his ribs, her finding said to his face: 'That's not an answer. That's a finding.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The collapse and Lira's own Wind declaration saving her and triggering the herd; the herd's downhill flight staged with Chapter 5's rule as the cause.",
+      "Four exchanges as in scene_shape with the mountain as terrain (ledge, downhill herd, the outcrop the herd splits around, the cart between, the gorge): at least two beats CAUSED by terrain; geography drawable at each pause.",
+      "Karis's lattice-line above the outcrop and its eight-second cost (drained to nothing); the herd splitting within arm's reach.",
+      "The boxes: Brom back for the cart, Cael after Brom, two boxes then the third; Cael's three ribs and reopened calf; the cart into the gorge; Lira's leg broken below the knee, her boot taken by the ledge; Lira's knowledge that she caused it, held without melodrama.",
+      "Oryn's arrival on the second day (Oxhollow road, mule, kit, a carter's word); introduced through her hands and her questions ('Who's worst?'), no backstory beyond one sentence; Lira's leg set and mended inside an hour with visible cost; Brom's arm; Karis (empty); then Cael — the surface reading returning nothing beneath the break, and her lines as given (the finding), with Cael's 'Yes.'",
+      "Tide Path's first on-page use carries its limit/cost in the same scene (charter §6.1): contact only; healing spends her; she does not heal herself.",
+      "Cael's log line on the mountain (as given) placed BEFORE Oryn reaches him; the chapter ENDS on her dialogue line 'That's not an answer. That's a finding.'",
+      "Cael's cataloguing outside the log (the herd, the geometry, his own ribs).",
+      "Manuscript format: H1 '# Chapter 6 — Shale', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Oryn cannot read Cael (first of three failed surface readings; Chapter 7 teaches the two modes; Chapter 13 completes).",
+      "Lira's leg mended by Tide — the healer's mend and its cost; Oryn's reserve arithmetic (Chapter 7).",
+      "Cael's ribs and calf — three-week healing that Oryn will find faster than it should be (Chapter 7).",
+      "The three boxes saved — the field archive (Chapter 4, Chapter 15)."
+    ],
+    "payoffs": [
+      "Chapter 5's shale-back rule and the ledge; Chapter 4's healer shortage (no healer for four days in any direction) paid by Oryn's arrival.",
+      "The banking doctrine's inverse: Lira's declaration is the loudest thing on the mountain and it is exactly the wrong place to be loud."
+    ],
+    "prohibited_outcomes": [
+      "Nobody dies. Lira's leg is broken below the knee and MENDED by Oryn (she keeps the leg, walks with help); Brom's forearm mended; Karis empty, not injured; Cael's ribs taped, calf bound, NOT healed by Oryn.",
+      "No fragment use by Cael in the stampede or after (he may WANT Compression/Anchor and hold; the ribs are taken raw); no Shadow-adjacent.",
+      "Oryn does not run the deep reading, does not describe the route in detail, does not join the crew, does not explain Tide theory. She does not learn anything about fragments.",
+      "No Oryn window/POV; no backstory speech.",
+      "No quiet ground, Quieting, stakes; no Teague; no letters; no Vastin.",
+      "No new named people beyond Oryn; no new places beyond those on the traverse (descriptive).",
+      "The chapter does not end on a log entry or an image; it ends on Oryn's line.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Full choreography texture for the collapse and the stampede (sound, shale, dust, the animals' armor and gait, the outcrop's shape, the gorge); the two days of waiting (cold, pain, rationing, who does what with a broken leg and three ribs); Oryn's kit, mule, hands, manner (blunt, unhurried, clinical, no awe); the mending described as sensation and consequence.",
+      "Dialogue in established voices; Oryn's clinical questions ('When you heal, does it hurt in the right places?' may appear here or wait for Chapter 7).",
+      "Cael's interior cataloguing of pain, geometry, and the healer's face."
+    ],
+    "approval_required": [
+      "Any new named entity; any Tide mechanic beyond contact-only mending with visible cost and the surface reading; any fact about Oryn's history beyond one sentence; any change to the injury list."
+    ],
+    "forbidden": [
+      "Deaths; fragment use; Oryn healing Cael; the deep reading; Oryn learning of fragments; Part 2 knowledge; a log or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 5 as drafted — the immediate seam (the fifth night, the ledge announced)",
+      "path": "v3-runs/book-07/drafts/ch05.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch06-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH06-001",
+      "severity": "HIGH",
+      "gate": "authority.canon_timeline_state",
+      "evidence": "one night staged between day 78 and Oryn's arrival, counted as two days / day 80",
+      "consequence": "reader-facing day-count contradiction",
+      "repair_target": "stage the second day; arrival on the third morning"
+    },
+    {
+      "id": "ED-B7CH06-002",
+      "severity": "HIGH",
+      "gate": "audio.names_by_ear",
+      "evidence": "'Greyvane' and 'Halcenvane' in one sentence (r1 line 249)",
+      "consequence": "worst-case listener confusion; Halcenvane pending rename",
+      "repair_target": "remove the rhyme from the sentence without minting a name"
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch06.md",
+    "report_path": "v3-runs/book-07/reports/ch06-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch06-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch06-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

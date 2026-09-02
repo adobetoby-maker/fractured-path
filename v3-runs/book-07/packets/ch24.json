@@ -1,0 +1,147 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch24",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 24 card)",
+    "state": "state-b7-post-ch23 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten fragments + the still place. Roster SIX; physically FIVE at Lowmarch (Oryn on her route; she writes). Lira one-armed to first snow (this is first snow — the order stands until Oryn says). Brom's shoulder healed.",
+      "Lowmarch in first snow; the ferry's last run before the ice. Pike's season entry read aloud because the procedure requires it: 'Crew of six. Ford cleared, traverse mapped, Ring entered, Stair entered and instruments recovered, Hall entered. No losses. Returned every time.' He enters NO line number and says so: 'Teague says you need a column I don't have. I've kept this ledger thirty years. First time it's been wrong about a crew by being too small.' Teague winters at Lowmarch: 'Spring. Whatever's on that bearing. My crew comes.' — a term, not an offer. Cael: 'Noted.'",
+      "The inventory in Hesk's satchel by an inn's fire, complete: TEN confirmed — Wind-adjacent (Lira), Pressure-adjacent (Feryn), Iron-adjacent (Brom), Compression-adjacent (Reydan), Ember-adjacent (Karis), Shadow-adjacent (Seln), Storm-adjacent (Daeva), Anchor-adjacent (unnamed), Blade-adjacent (Ephram), Tide-adjacent (Oryn) — with the tenth's field 'clinical'; and the anomaly as a LOCATION now: 'The still place. Read three times. Doesn't flow. Doesn't change. Everything goes around it. Not the Quiet. Not a fragment. Older than the log. Observation continues.' One log line: 'Reydan will get his answer. Daeva will get her rematch. Both are going to need a map.'",
+      "Letters on the last ferry: HESK'S PACKAGE, six weeks late — instrument-maker's work, a folding brass STRAIGHTEDGE, calibrated in a hand Cael knows; note in full: 'Nineteen. I'm told it's late; the ferry's fault, not mine. Your grandmother said a man who catalogues everything eventually needs to draw a line through it. This one's true to a hair. Mind the shape. — H.' Cael looks at Karis's map and the straightedge and says nothing. His letter west to Hesk: 'Nineteen, past the Line, and there's a roof. It's an inn. The shape you said to mind is a line, and I've got the tool for it now. — C.' A letter to Vell (content: a second ledger-keeper stopped numbering him; her ledger holds his first honest record and Pike's his newest). Oryn's letter from Thornwater by carter: 'Route's whole. The knee held. Nobody died of eleven days. Spring: bring the map, and lie still when I say. — O.' Six, by letter.",
+      "THE CLOSING WINDOW (the bible's ending, verbatim, NOT resolved further): Karis's map on the inn's table, four circles, the bearing, the straightedge laid along it — the Ring, the Stair, the Hall, the fourth. The sites are on an alignment — not random. Karis, after a long time, the only sentence permitted: 'Someone made this pattern.' Nobody answers; nobody says who, why, or how old. The window holds four seconds on the map and the straightedge's shadow and closes.",
+      "The last lines fixed (must_include). The final narration's ceiling: at THREE floors older than any registry every Path in the party stopped at a line and his did not; a fourth paced from outside and not crossed; nobody alive knows why; someone made the pattern — that is as far as anyone can say. No 'reads him', no 'left a road', no maker."
+    ]
+  },
+  "purpose": "The last chapter — the ledger, the map, and the door into Book 8, in the series' Chapter 24 register: small leavings and stayings, each heavier than its size. Pike stops numbering; Teague sets a term for spring; the inventory shows ten and the still place; Hesk's straightedge arrives six weeks late; Oryn fills the sixth chair by post; and the bible's ending is staged the way the series stages endings — on paper, with an instrument, by a researcher, one sentence.",
+  "scene_shape": {
+    "opening_state": "Lowmarch in first snow; the ferry's last run; the board's room; five at the table.",
+    "pov_goal": "Close the year's ledger in every form it keeps, and lay the straightedge along the line.",
+    "opposition": "The ice closing the ferry; a ledger that has no column for them; a map that points somewhere they cannot go until spring.",
+    "turn": "Pike's entry read aloud and his refusal to number; Teague's term; the inventory; the letters (Hesk's straightedge; his replies; Oryn's letter).",
+    "choice": "Cael lays the straightedge along Karis's bearing and says nothing; he writes 'both are going to need a map.'",
+    "outcome": "The closing window on the map: 'Someone made this pattern.'",
+    "closing_state": "The last lines, verbatim (the previous chapter ended on the log; this ends on closing narration): '\"I have ten things that aren't a Path,\" Cael said, eventually, to nobody in particular, \"no tier, no rank, no file I can see — and five people, one of them on a route, who've walked into the quiet three times and come out.\" He turned it over once and let it stand. \"And a line on a map that somebody drew before there was a registry to draw one.\" Lira, one-armed, feeding the fire: \"Then we follow it.\" Brom: \"Spring.\" Karis, writing: \"Noted.\" Down the fire, the man who used to file reports about him watched the snow on the ferry landing with evident professional approval and said nothing, which — from him — was home.' Then the final paragraph at the evidence ceiling: 'Nothing out here had read him. At three floors older than any registry, every Path in the party had stopped at a line and his had not; a fourth had been paced from outside and not crossed. Nobody alive — least of all him — knew why. Someone had made the pattern. That was as far as anyone could say.'"
+  },
+  "obligations": {
+    "must_include": [
+      "Pike's season entry read aloud verbatim and his refusal to number with his fixed line; Teague's term verbatim and Cael's 'Noted.'",
+      "The inventory complete with all ten sources named and the tenth's 'clinical' field; the still place entry verbatim; the Reydan/Daeva line verbatim.",
+      "Hesk's package (the folding brass straightedge) and note verbatim; Cael's reply to Hesk verbatim; a letter to Vell (composed, short, in his register); Oryn's letter verbatim; 'Six, by letter.' in the narration.",
+      "The closing window on the map as staged, with Karis's single sentence verbatim and NOTHING further; four seconds; closes.",
+      "The last lines verbatim and the final paragraph verbatim as given in closing_state; the file ends on 'That was as far as anyone could say.'",
+      "Lira one-armed at the fire (first snow; the order holds); five at the table; Oryn absent in person.",
+      "Manuscript format: H1 '# Chapter 24 — Alignment', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Spring: the bearing, Teague's crew, Oryn's map (Book 8).",
+      "The still place (later books).",
+      "A second ledger-keeper who stopped numbering him."
+    ],
+    "payoffs": [
+      "Ch14's late package (mind the shape); Ch19/22's 'no column'; Ch18's 'bring the map'; the series' Ch24 register (B3/B4/B5/B6 closing-line pattern)."
+    ],
+    "prohibited_outcomes": [
+      "No theory, maker, purpose, age beyond 'older than any registry', or 'Architect'; nobody answers Karis's sentence; no claim that the sites read/measure him; no 'left a road'.",
+      "The fourth site is not credited with any tested effect (three entered, one paced).",
+      "No fight; no fragment use; no travel; Oryn does not appear in person; Vastin absent.",
+      "No new named entities.",
+      "The chapter ends on the final paragraph as given, not on dialogue or a log entry.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Lowmarch in first snow (the ferry landing, the ice, the inn's fire, the board's room, Pike's table); the letters as objects (the straightedge's brass, the calibration marks, Hesk's hand); Teague at the board; the map on the table.",
+      "Dialogue in established voices beyond the fixed lines (short).",
+      "Cael's cataloguing and the inventory entry; the letter to Vell composed."
+    ],
+    "approval_required": [
+      "Any new named entity; any change to the fixed texts; any fact about spring beyond the terms stated."
+    ],
+    "forbidden": [
+      "Theory; ontology; fights; travel; a dialogue or log ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 23 as drafted — the immediate seam (the fourth site, 'We're oriented.')",
+      "path": "v3-runs/book-07/drafts/ch23.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch24.md",
+    "report_path": "v3-runs/book-07/reports/ch24-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch24-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch24-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

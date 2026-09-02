@@ -1,0 +1,23 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch03-r3",
+  "scene_id": "b7-ch03",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch03.md",
+  "word_count": 5174,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH03-003 repaired",
+      "status": "MET",
+      "evidence": "The best table was empty when they came in off the meadow at first light on the second morning after the wall, and Cael counted the room before he counted anything else and found that Teague's crew had gone out by the landing door at the previous dawn, onto the autumn road, a day and a night ahead of anyone already. Sixty marks and fed. Three days out along it before they turned, and three back: a week before anyone would see that table filled."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [
+    "Chapter 3 opens day 51 (second morning after the wall); Teague's crew left at day 50's dawn on a week-long autumn-road job; ford fought day 53 (unchanged); Chapter 4's day 55/60 references stand."
+  ],
+  "deviations": [
+    "Repair applied directly by the orchestrator (one sentence)."
+  ],
+  "blockers": []
+}

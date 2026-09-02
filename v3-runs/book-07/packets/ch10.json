@@ -1,0 +1,150 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch10",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 10 card)",
+    "state": "state-b7-post-ch09 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine + anomaly. Party SIX (Oryn present). Morning at the stone.",
+      "In THIS chapter the Quieting's mechanics are established as trials-with-results, cold, before any fight: the perimeter paced by Karis with a cord and a count (Lira inside calling 'gone'/'back', Brom outside marking) — a circle, two hundred meters from the ring's center to within a stride, all the way around; Karis says the word 'made' once, as geometry, and does not follow it. The transition is sharp: a stride in, dark; a stride out, back — 'like a clock that stopped and started again without losing the time' (Lira). Declarations don't render inside: Lira's Wind (the shape in her body, nothing in the air); Brom's Iron Skin is skin; Karis knows where a lattice would go and cannot light it; Seln walks in nearly unbothered. Oryn's trial: over the line with Brom's ford-scarred forearm in her hands, the surface reading stops at the stride — 'Nothing. Not nothing IN him. Nothing in my HANDS.' — back at the stride; three times; 'A healer's hands stop working there.'",
+      "Cael's fragments WORK inside. He steps over the line with the Iron-adjacent read RUNNING and it runs; twenty meters in he tries a small silent Wind-adjacent evasion and it works. He tells NO ONE; he walks out and says his Arbiter was dark before and is dark now, which is true.",
+      "The site catalogued (Cael): eleven broken uprights on a floor of fused stone, circular, level (to the eye and Karis's string), seamless, lipped at the edge like a shallow basin, a grey not local and not any masonry in her boxes; shallow regular carved lines on the uprights in no alphabet she owns. At the perimeter's exact edge, half-buried: a registry survey stake — iron, numbered, seal-stamped, weathered about five years by Seln's estimate. The 'abandoned instruments' the contract wants are NOT here. Nobody theorizes who or why.",
+      "Stillhound sign, fresh and heavy, INSIDE the perimeter: the den is under the ring's far lip. Seln: 'They live in here because nothing that walks in can fight.' No fight occurs in this chapter (Chapter 11).",
+      "Nobody says 'the Quieting' (Chapter 15). Nobody names the Compact as the stake's owner beyond 'registry' stamped on iron (Seln's professional reading is Chapter 12)."
+    ]
+  },
+  "purpose": "The measurement chapter: the Quieting taught as mechanism in full, by trial, before the book fights inside it — Karis doing what she is for; each companion's Path tried at the line and failing identically; Oryn's hands checked three times; Cael stepping over with a fragment running and finding that everything he owns works on ground where nothing should, and telling no one; the site catalogued because cataloguing is how he loves things; the first survey stake; and the den.",
+  "scene_shape": {
+    "opening_state": "Morning at the stone. Karis with a cord and a count; the six of them at the line.",
+    "pov_goal": "Measure the thing; catalogue the site; find the instruments the contract wants — and, privately, find out what a place that reads nothing does to him.",
+    "opposition": "The line's rule (every Path dies at it); the den under the far lip; the absence of the instruments; and his own decision not to say what he has learned.",
+    "turn": "The pacing: a perfect circle, two hundred meters; the sharp transition; each Path tried; Oryn's three trials and her sentence. Then Cael at the line with Karis, stepping over with the Iron-adjacent read running — it runs; twenty meters in, a foot's worth of Wind-adjacent evasion, silent — it works. Nine fragments, ordinary, on ground where every Path in the party is dead.",
+    "choice": "He turns around, walks out, and says his Arbiter was dark before and is dark now, which is true — and not the truth. He does not tell Karis.",
+    "outcome": "The site catalogued (uprights, floor, lip, grey stone, carved lines); the survey stake found at the perimeter's exact edge (iron, numbered, seal-stamped, ~five years); the contract's instruments absent; and, at the ring's far side, Seln on one knee reading fresh stillhound sign inside the perimeter: the den. Everyone looks at the line two hundred meters back, and at the sun, and at Oryn whose hands do not work in here, and at Cael, who is the only one not looking at the line.",
+    "closing_state": "The chapter ENDS ON THE LOG (the previous chapter ended on an image): 'The circle is perfect. The stakes are the registry's. The dogs are inside. Everyone's Path dies at the line and mine didn't, and I've told nobody, and I'm going to need to think about why I haven't. Not tonight. Tonight we're inside the one place on the continent where a stillhound can't lose.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The pacing as procedure: cord, count, 'gone'/'back' calls, Brom marking; the finding as arithmetic (two hundred meters, a circle, within a stride all the way round); Karis's single use of 'made' as geometry, unfollowed.",
+      "Each Path tried at the line with the stated results; Lira's clock line verbatim; Seln nearly unbothered; Oryn's three trials on Brom's forearm with her two lines verbatim ('Nothing. Not nothing in him. Nothing in my hands.' / 'A healer's hands stop working there.').",
+      "Cael's crossing with the Iron-adjacent read running and the small silent Wind-adjacent evasion; his true-and-not-the-truth sentence; no disclosure.",
+      "The site catalogued in Cael's register (eleven uprights; fused-stone floor, circular, level, seamless, lipped; non-local grey; carved lines in no alphabet Karis owns); the survey stake (iron, numbered, seal-stamped, weathered ~five years by Seln's estimate) at the perimeter's exact edge; the instruments absent.",
+      "The den: fresh heavy stillhound sign inside; Seln's line verbatim ('They live in here because nothing that walks in can fight.'); the looks at the line, the sun, Oryn, and Cael.",
+      "The chapter ENDS on the log entry as given.",
+      "Manuscript format: H1 '# Chapter 10 — Two Hundred Meters', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "A perfect circle, fixed radius, sharp boundary, identical failure for every Arbiter (Book 9/11 plants, observed only).",
+      "The survey stake — the Compact measured this (Chapter 12 names it; Book 8 pays it).",
+      "The den under the far lip and the sun going (Chapter 11).",
+      "Oryn's hands do not work inside (Chapter 11 crisis).",
+      "Cael's fragments work inside — known to him alone (Chapter 11 reveals it to the others by use; Chapter 16 by disclosure)."
+    ],
+    "payoffs": [
+      "Pike's folklore made measurable; Chapter 9's stone."
+    ],
+    "prohibited_outcomes": [
+      "No fight; no stillhound seen (sign only); no injuries.",
+      "Cael uses only the Iron-adjacent read and one small Wind-adjacent evasion, silently, unseen; nothing else; nobody witnesses a fragment working.",
+      "No 'the Quieting'; no theory of maker/purpose/age beyond 'not any masonry in her boxes'; no dating (Chapter 15).",
+      "No Compact named as the stake's owner beyond 'registry' stamped on it; Seln's map-blanks memory is Chapter 12.",
+      "No letters, Teague, Vastin.",
+      "The chapter does not end on dialogue or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Morning light on the ring; the stone's texture underfoot; the cord and count as procedure; each companion's bodily description of their Path failing; Oryn's clinical trial manner; the stake half-buried in scrub; the den's sign (tracks, bones, scat) in Seln's reading.",
+      "Dialogue in established voices; Karis's method-register; Cael's interior cataloguing.",
+      "One or two grace notes of Cael's private testing beyond the two mandated (silent, unseen)."
+    ],
+    "approval_required": [
+      "Any new named entity; any Quieting mechanic beyond those listed; any reading of the stake beyond registry seal, number, ~five years."
+    ],
+    "forbidden": [
+      "A fight; witnessed fragment use; disclosure; theory; dating; a dialogue or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 9 as drafted — the immediate seam (the stone, the ring at dusk)",
+      "path": "v3-runs/book-07/drafts/ch09.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch10.md",
+    "report_path": "v3-runs/book-07/reports/ch10-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch10-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch10-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

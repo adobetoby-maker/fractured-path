@@ -1,0 +1,150 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch13",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 13 card)",
+    "state": "state-b7-post-ch12 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; NINE fragments + anomaly at open; TEN at close (Tide-adjacent acquired in this chapter). Party SIX at Thornwater, two days back along the void road; a steading back room with a door that shuts.",
+      "Injuries: Lira's arm saved/slung/load-restricted (unchanged); Karis's voice returning hoarse; Brom's hand mended; Cael's calf mended (Ch12) and ribs healed — for the first time in Oryn's presence he is STILL and WHOLE, which is the deep reading's condition (taught Ch7).",
+      "The deep reading: both hands, her whole current through the whole architecture, minutes (about twenty), patient still and uninjured, at a mending's cost. Its result on Cael is STILL A FAILURE TO READ, honestly staged — she perceives movement, more than one, cannot count them, cannot find banks, finds nothing shaped like the thing she reads. She does NOT say he has no banks / needs no container / is made of anything; she says she cannot FIND them. Her lines are fixed in must_include.",
+      "The covenant (B3/B4/B6 machinery): sustained close engagement (twenty minutes of her current through him at contact); genuine stakes (three days off a full-suite deployment, frameworks resettling; the only healer in a country spending a mending's reserve on a patient who may return nothing); earnest use ON him (Karis: 'Ephram fought you in earnest and the notice said non-hostile. This is earnest and it isn't a fight at all. The model doesn't say the engagement has to be a fight. It says it has to be real.'); the cost written in advance in the log: she cannot consent to what she cannot know about; he will tell her afterward in full. Oryn learns the mechanism in Chapter 14, NOT here — this chapter ends on 'I need to tell you what I am' and her reply.",
+      "The notice text is fixed (see must_include). Two firsts counted on the page: the first 'clinical' engagement field; the first fragment that does nothing in a fight. He counts a third privately and does not write it: ten, the tenth is Tide, the anomaly has been Tide-adjacent for five years.",
+      "Nobody says 'Quieting'; nobody theorizes."
+    ]
+  },
+  "purpose": "The acquisition chapter — the series' Chapter 13 tradition honored a fifth time, and for the first time the engagement is clinical: a healer's hands on a patient at real stakes. The ethics argued on the page before the act (the covenant, the cost written in advance), the deep reading rendered as sensation in Cael's POV with Oryn's running commentary an honest failure to read, the interior action completing inside it because the reading has finally been long, the tenth notice in full with its new engagement field, and the chapter ending on her ordering him to lie still while he tells her what he is.",
+  "scene_shape": {
+    "opening_state": "Thornwater. Oryn has said she will run the long reading because he is, for the first time in her presence, still and whole. Before it, Cael takes the covenant to the circle without her.",
+    "pov_goal": "Do the honest thing twice: write the cost before the act, and not stop her when the architecture reaches.",
+    "opposition": "His own line (drawn in B4 Ch9, stood on since): the source cannot consent; the person doing this came to help; and the reading itself, twenty minutes of being touched from outside for the first time.",
+    "turn": "The circle's council (Lira, Brom, Karis, Seln): the conditions named; Karis's sentence on 'real' versus 'fight'; the log entry written in advance ('Write it before, not after. That's the whole difference between me and the system.'). Then the back room, morning light: her hands on sternum and spine, her current run INTO him as a study, slow, for minutes — a cold that isn't cold moving through architecture never touched from outside, going where it is put — and her commentary: she feels movement, more than one, can't count them, can't find where one stops, can't find banks, 'It isn't that you're broken. It's that I can't find anything shaped like the thing I read.' ... 'Eleven years. I've never had my hands in something and not known what it was.'",
+    "choice": "Inside the deep reading — sustained, at stakes, earnest, complete for the first time because it has never before been LONG — the interior action completes, and Cael feels it and does NOT stop her, because stopping her would be the lie. He reaches. Directed. Open-eyed.",
+    "outcome": "The notice arrives with her hands still on him (text fixed). Two firsts counted on the page; a third counted privately and unwritten. Oryn takes her hands off, looks at them: 'Something just changed. In you. While I was in there.' 'Yes.' 'Did I do that?' 'No. I did. I need to tell you what I am.'",
+    "closing_state": "The chapter ENDS ON HER LINE (dialogue; the previous chapter ended on an image): 'Then lie still while you do it. You've been still for twenty minutes. I want to see if you can manage twenty-one.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The circle's covenant council WITHOUT Oryn present: the three conditions named in Cael's words; Karis's 'real, not a fight' sentence verbatim; the cost written in the log in advance, including that she cannot consent to what she cannot know about and that he will tell her afterward in full; the line 'Write it before, not after. That's the whole difference between me and the system.'",
+      "The deep reading rendered as sensation in Cael's POV over minutes, with the difference from the three surface readings made explicit (not looking for injury; whole current through the whole of him; slow).",
+      "Oryn's running commentary as an honest failure to read, with these lines verbatim: 'I can feel that there's movement. More than one. I can't count them — I can't find where one stops. There's no channel. Everyone has a channel; I feel the banks and I know the Path. I can't find the banks in you. I've looked for twenty minutes. It isn't that you're broken. It's that I can't find anything shaped like the thing I read.' and 'Eleven years. I've never had my hands in something and not known what it was.' She makes NO claim about what he is made of.",
+      "The interior action completing inside the reading; Cael not stopping her; 'He reaches. Directed. Open-eyed.' in the series' register.",
+      "The notice, shown in full, in a fenced block or the established format, text exactly: FRAGMENT ACQUIRED / [unnamed] — Tide-adjacent. Duration: sustained. Integration: partial. / Tier equivalent: Iron. / Note: current-perception component; architecture-reading component. Self and contact. / Contact range. / Acquisition: directed. Engagement: clinical — non-hostile. (line breaks as in the established notices).",
+      "Two firsts counted on the page (clinical engagement field; a fragment that does nothing in a fight); the third counted and NOT written (ten; the tenth is Tide; the anomaly has been Tide-adjacent for five years).",
+      "The closing exchange verbatim ending on Oryn's 'twenty-one' line.",
+      "Manuscript format: H1 '# Chapter 13 — The Reading', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The tenth fragment: current-perception, architecture-reading, self and contact (Ch14 self-reading; Ch16 the outward temptation; Ch22).",
+      "The anomaly's convergence begins (Ch14).",
+      "Oryn's consent-after-the-fact with a condition (Ch14)."
+    ],
+    "payoffs": [
+      "Ch7's two-readings rule (the long one finally run).",
+      "The B4 Ch9 covenant and B6 Ch20's 'non-hostile' precedent, extended by argument to 'clinical'."
+    ],
+    "prohibited_outcomes": [
+      "Oryn does not learn the mechanism in this chapter; the disclosure is Chapter 14.",
+      "No claim by anyone that Cael lacks banks/containers, is made of Tide, or predates anything — only that she cannot find/read.",
+      "No fight; no other fragment use; no destabilization staged yet (Ch14); no theory of the Quiet.",
+      "No Teague, letters, Vastin; no quiet ground beat beyond memory.",
+      "No new named entities.",
+      "The chapter does not end on a log entry or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Thornwater's back room, morning light, the door, the table; the circle's council texture; Oryn's hands and clinical manner; the reading as cold-that-isn't-cold and shape-without-explanation; Cael's interior during the reach (brief).",
+      "Dialogue in established voices beyond the mandated lines (short).",
+      "Cael's log entry in advance in his plain register."
+    ],
+    "approval_required": [
+      "Any new named entity; any Tide mechanic beyond the taught two readings; any change to the notice text; any ontological claim."
+    ],
+    "forbidden": [
+      "Disclosure to Oryn in this chapter; ontology; fights; other fragment use; a log or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 12 as drafted — the immediate seam (the camp, the stake, Oryn at the line)",
+      "path": "v3-runs/book-07/drafts/ch12.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch13.md",
+    "report_path": "v3-runs/book-07/reports/ch13-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch13-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch13-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

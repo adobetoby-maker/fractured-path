@@ -1,0 +1,19 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch03-verifier-r2",
+  "scene_id": "b7-ch03",
+  "editor_run_id": "b7-ch03-r2-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch03-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch03-r2.md:3",
+        "v3-runs/book-07/drafts/ch03-r2.md:243 ('Fifty-third day')",
+        "v3-runs/book-07/drafts/ch02.md (day forty-nine, Teague at the table)"
+      ],
+      "reason": "The r2 repair asserted a two-day absence at a first-light opening that read as day fifty; with the ford log fixed at day fifty-three (and Chapter 4 already built on it), the opening is set on day fifty-one (the second morning after the wall), Teague's crew gone since the dawn of day fifty on a week-long job; two days' walk keeps the ford on day fifty-three. Applied directly (one sentence)."
+    }
+  ]
+}

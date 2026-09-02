@@ -1,0 +1,153 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch07",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 7 card)",
+    "state": "state-b7-post-ch06 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine + anomaly. Party is FIVE plus Oryn walking with them down to Oxhollow (she is NOT joining; she is late for her route). Injuries: Lira's leg mended (walks with help, rides the mule), Brom's arm mended, Karis's reserve recovering, Cael's three ribs taped and calf bound — NOT healed, knitting on their own.",
+      "Oryn's facts, now available: late twenties; Iron-tier Rank 4, Tide Path, certified at a city academy and gone within a year because the city rationed her (Tide healers assigned by rank of patient, Bronze and above first — she Kindled to heal people, not tiers); two years on the void roads running a ROUTE — seven holds and fords in fixed order, a circuit of twenty days (Oxhollow, Thornwater, five others named only as places on Karis's map), the only healer any of them see; reserve arithmetic: about three serious mendings a day, cannot heal herself.",
+      "Tide Path's two readings are TAUGHT in this chapter, in her words, before either is load-bearing: the SURFACE reading (hands on the hurt, seconds, finds injury and the Path beneath it — run on Cael three times now, returning nothing legible) and the DEEP reading (both hands, her whole current through the whole architecture, minutes, patient still and uninjured, at a mending's cost — never run on him because he has never been still and whole in her presence). She does NOT run the deep reading here.",
+      "Oryn does not know about fragments and learns nothing of them. Cael answers her clinical questions honestly but says nothing of mechanism.",
+      "Teague speaks to Cael for the FIRST time here, at Oxhollow's ford, having heard of the ford and the traverse. No joint contract; no hostility.",
+      "No quiet ground beyond the Chapter 4 rumor (Oryn may be asked nothing about it; she says nothing about it). No Quieting, stakes."
+    ]
+  },
+  "purpose": "Oryn's chapter: the sixth companion given her own arc-spine on her first full day — the route taught as an institution, her want stated once without heat and shown to have nothing to do with Cael, three failed surface readings and the two-readings rule taught before it matters, her clinical questions, and the sentence that keeps her in the book ('Come find me. I want to read you when you're not broken.'). Then the rival clock's first conversation: Teague pricing them honestly. End on an image.",
+  "scene_shape": {
+    "opening_state": "The walk down from the traverse to Oxhollow, four days, Lira on the mule, Oryn walking with them because Oxhollow is the next stop on her route and she is already late.",
+    "pov_goal": "To understand the healer the way he understands everyone — and to find out whether a person exists out here who can read him.",
+    "opposition": "The route: Oryn is not joining them; she has seven holds that owe her and that she owes; her want is a circuit with a clinic in it and it does not include a crew. And the rule she did not make: she cannot heal what she cannot read.",
+    "turn": "The route taught on the page (holds, order, twenty days, the ledger of who is owed what, the reserve arithmetic against a country's injuries); her want, to Karis who asked: 'In the city I healed Bronzes with bruises. Out here I set legs. I'm not going back and I'm not stopping. The route is the only thing I own.' At Oxhollow: she reads Cael's ribs again (knitting faster than they should without a current she can feel); reads Lira's leg (perfect, expected); reads Brom's arm (an Iron Skin architecture, dense, legible, ordinary); reads Cael a third time — nothing legible: 'like putting my hands in a river in the dark. Something's moving. I can't find the banks, so I can't read it, so I can't touch it. That's the rule. I didn't make it.' The two readings taught in her words: surface (seconds, hurt, the Path beneath) versus deep (minutes, still, whole, at a mending's cost) — 'When you're not broken, I run the long one. It won't read you either. I want to feel it not read you properly.' Her questions: does it hurt in the right places; faster or slower than other people; has any healer ever GOT anything. His answers: yes; faster; no. She writes nothing down; she remembers.",
+    "choice": "Cael answers honestly, because honesty is the only strategy this woman won't see through, and says nothing of mechanism; at Oxhollow's gate he lets her go north without asking her to stay.",
+    "outcome": "Oryn: 'Thornwater's on my route in nine days. You'll be on the board by then. Come find me. I want to read you when you're not broken.' Then Teague's crew at Oxhollow's ford the same evening: the first conversation — 'You cleared Thornwater's ford with five and lost a cart on the high bench with five.' 'Yes.' 'The ford was good work. The bench was a cart.' Not unkind; pricing. 'The board's going to have you and me on the same contract inside a season. Be good enough that I'm glad.' The log that evening (mid-scene, not the ending): 'Teague priced us. He's right about the cart. Oryn read me three times and got nothing three times and wants a fourth. Two people out here measuring me, and neither of them has a seal. I keep waiting to mind.'",
+    "closing_state": "The chapter ENDS ON AN IMAGE: Teague's crew crossing Oxhollow's ford at dusk — four practitioners and a cart that is not in a gorge, water to their knees, walking it quiet the way carters walk the void roads — and Oryn's mule already a mile up the north road, small against the bench."
+  },
+  "obligations": {
+    "must_include": [
+      "The route taught as mechanism (order, twenty days, seven stops with Oxhollow and Thornwater named, owed-and-owing, reserve arithmetic: ~three serious mendings a day, cannot heal herself; the cities' rationing of healers by tier as the reason she left) — through use and her words, not lecture.",
+      "Her want verbatim (the four sentences to Karis) in a scene that is about HER.",
+      "The three readings at Oxhollow as staged (ribs; Lira's leg; Brom's arm; Cael a third time) and the river-in-the-dark line verbatim; the two-readings distinction in her words with the 'When you're not broken, I run the long one...' line.",
+      "Her three clinical questions and his three honest answers (yes; faster; no); she writes nothing down.",
+      "Her parting line verbatim ('Thornwater's on my route in nine days... I want to read you when you're not broken.').",
+      "Teague's first conversation with the lines as given; no more than that exchange; Cael recognizing his own pricing method from the other side.",
+      "The evening log (as given) mid-scene, NOT as the ending.",
+      "The chapter ENDS on the image in closing_state (the previous chapter ended on dialogue).",
+      "Oryn distinct from Karis (not a researcher; remembers rather than writes) and from Lira (never kinetic; positions like a healer, moves like a carter).",
+      "Manuscript format: H1 '# Chapter 7 — The Healer's Route', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The deep reading — minutes, still, whole, a mending's cost — the condition Chapter 13 will finally meet.",
+      "Thornwater in nine days — Chapter 8's council and Chapter 9's walk.",
+      "Teague: 'same contract inside a season' (Chapter 17/19/24).",
+      "Oryn's route as the thing she will not give up (Chapter 18, 23)."
+    ],
+    "payoffs": [
+      "Chapter 6's three failed reads become a stated rule; Chapter 4's healer-rationing fact becomes her biography.",
+      "Chapter 2's rival clock speaks."
+    ],
+    "prohibited_outcomes": [
+      "Oryn does not join; does not run the deep reading; learns nothing of fragments; is not given a POV window or a backstory speech longer than the four sentences plus the rationing fact.",
+      "No fragment use; no fight; no new injury; Cael's ribs and calf remain unhealed by her.",
+      "No quiet ground beyond one passing mention at most; no Quieting, stakes, ruins.",
+      "No letters, Vastin, watchers; no joint contract with Teague; Teague's crew members unnamed.",
+      "No new named people; no new places beyond Oxhollow and the five other route stops named ONLY as place-names on a map if at all (prefer leaving them unnamed).",
+      "The chapter does not end on dialogue or a log entry.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The walk down (four days compressed with scenes at halts), Oxhollow's ford settlement in sensory detail, Oryn's lean-to clinic if she works a line of patients (at most a glimpse), her mule, her kit, her hands; Teague's crew as four bodies and one voice.",
+      "Dialogue in established voices; Oryn's clinical register beyond the mandated lines.",
+      "Cael's interior read of Oryn and of Teague in the claim/evidence/ruling habit."
+    ],
+    "approval_required": [
+      "Any new named entity (route stops should stay unnamed); any Tide fact beyond those listed; any fact about Teague beyond Path, tier, unreported status, crew of four, three years at the top, and the mandated lines."
+    ],
+    "forbidden": [
+      "Oryn joining; the deep reading; fragment disclosure; fights; healing Cael; Part 2 knowledge; a dialogue or log ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 6 as drafted — the immediate seam (Oryn's arrival, the finding)",
+      "path": "v3-runs/book-07/drafts/ch06.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch07.md",
+    "report_path": "v3-runs/book-07/reports/ch07-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch07-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch07-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

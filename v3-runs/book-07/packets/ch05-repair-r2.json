@@ -1,0 +1,165 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch05",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "line_edit",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 5 card)",
+    "state": "state-b7-post-ch04 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine fragments + anomaly; party is FIVE. Injuries from Chapter 3 are still open but improving without a healer: Brom's forearm bound; Lira's ankle taped and never seen by a healer; Cael's calf mostly closed; Karis's hands healed to scars.",
+      "Oxhollow (a ford settlement north) is named for the first time as the hold posting the contract; nobody from Oxhollow appears. Oryn is unmet; no healer; no Tide.",
+      "'Quiet ground' is a rumor the party has heard once (Chapter 4); it is not on this route and is not discussed beyond, at most, one passing thought.",
+      "Shale-backs are NEW to the party. The carters' rule comes from Pike, quoted by Seln: 'Never be below them. Never be loud below them.' Karis derives, from a day's observation, that the herd moves as a unit AWAY from declarations — the stillhounds' sense with the opposite response: flight, not hunt. On a slope, flight is a landslide with legs. This is derived on the page; the ledge collapse and the stampede are Chapter 6 and must NOT happen here.",
+      "Teague's crew is on the hold contracts again; no contact."
+    ]
+  },
+  "purpose": "The route-scouting contract set up with the care the series gives its hinge fights: the book's first true freedom chapter (five days of high country, cataloguing at scale, nothing measuring him, everything interesting) that also teaches the shale-backs properly before the mountain kills the cart in Chapter 6. Deliver Arc 3's promise whole here — Cael free — before the book complicates it.",
+  "scene_shape": {
+    "opening_state": "Lowmarch's board: a hold-posted, well-priced contract from Oxhollow's ford — scout the high traverse to Thornwater before the autumn carts: a scree route along a shale bench above a gorge, two days shorter than the void road, unused for three seasons since a slide. The five take it because it pays, because Teague's crew is on the hold contracts, and because Cael wants a job that is ground, not teeth — a scouting run is cataloguing at scale, and he has never once been paid to catalogue.",
+    "pov_goal": "Map the traverse well enough that a hold will trust a cart to it — and, privately, to be somewhere nothing measures him and everything is interesting.",
+    "opposition": "The ground: shale, a bench, a gorge; the injuries slowing them; and, from the second day, a herd of thirty shale-backs grazing the bench above — placid, armored, the size of carts, and a rule about them the carters live by.",
+    "turn": "The walk up as freedom: Karis mapping, Lira running the bench ahead on a taped ankle, Brom load-balancing the cart on a road that wants to kill it, Seln finding campsites before anyone knows they need one, Cael writing in the log at every halt the way he wrote in the observation notebook at every bout. Then the shale-backs, introduced at distance and taught (charter §1.1): thirty on the bench above, grazing lichen off the shale; Seln quoting Pike's rule; Karis spending a day's halt on their movement and deriving the thing that will matter — the herd moves as a unit, and the unit moves AWAY from declarations; flight, not hunt; on a slope, flight is a landslide with legs.",
+    "choice": "They keep going up, quiet, because the rule is simple and they have been quiet for four days; Cael writes the fourth-night entry: the traverse holds, the map's good, the loudest thing on the mountain is them and they've been quiet — 'First honest job I've ever had that didn't have a fight at the end of it.' He is choosing to believe the job has no teeth.",
+    "outcome": "The traverse two-thirds scouted and mapped by the fifth night; the bench narrowing ahead to a ledge over the gorge; the herd above and behind them.",
+    "closing_state": "The chapter ENDS ON THE LOG (the previous chapter ended on dialogue): the fifth night — Lira at the fire, taping the ankle that never got a healer, saying she'll run the ledge at first light to see if it holds a cart; and Cael's entry: 'The traverse holds. The map's good. Karis says the herd moves off declarations, which means the loudest thing on this mountain is us, and we've been quiet for five days. One more day. First honest job I've ever had that didn't have a fight at the end of it. Sleep.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The contract taken at the board for the three stated reasons (pay; Teague's crew on the hold contracts; Cael wanting ground, not teeth — paid to catalogue for the first time).",
+      "The freedom movement rendered as scene and cataloguing, not summary: high country, the gorge opening below, each companion at their competence (Karis mapping; Lira running the bench; Brom and the cart; Seln and the campsites), Cael logging at every halt. Injuries carried (taped ankle, bound forearm, the calf, the scarred hands).",
+      "Shale-backs taught before they matter: seen at distance (thirty, armored, placid, the size of carts, grazing lichen); Pike's rule via Seln verbatim: 'Never be below them. Never be loud below them.'; Karis's day-long observation and derivation (unit movement; flight from declarations; 'on a slope, flight is a landslide with legs' or equivalent in her register). No stampede occurs.",
+      "The fourth-night log entry (content as in scene_shape) mid-chapter.",
+      "The chapter ENDS on the fifth-night image-then-log exactly as in closing_state — Lira taping the ankle and announcing the ledge; the final words are Cael's entry ending 'Sleep.'",
+      "Cael's cataloguing at scale (a map, a bench, a herd) outside the log at least once; the three boxes in the cart glimpsed once (load-bearing in Chapter 6).",
+      "Manuscript format: H1 '# Chapter 5 — Route', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Shale-backs flee declarations as a unit; below them is the wrong place to be loud (Chapter 6's engine).",
+      "The ledge over the gorge that Lira will run at first light (Chapter 6 opens there).",
+      "The three boxes riding in the cart (Chapter 6 costs the cart).",
+      "Lira's ankle, never seen by a healer (Chapter 6).",
+      "Oxhollow as a ford settlement on the route (Oryn's route, Chapter 7)."
+    ],
+    "payoffs": [
+      "Chapter 4's want-lines lived: Lira running, Brom holding, Karis mapping, Seln scouting — each priced by what they do.",
+      "Chapter 3's stillhound sense rhymed and inverted by the shale-backs (Karis names the rhyme)."
+    ],
+    "prohibited_outcomes": [
+      "No ledge collapse, no stampede, no fight, no new injury — those are Chapter 6.",
+      "No fragment use by anyone; no declarations (the mountain is walked quiet).",
+      "No Oryn, healer, Tide; no quiet ground beyond one passing thought at most; no ruins/stakes/Quieting.",
+      "No Teague contact; no letters; no Vastin; no watchers.",
+      "No new named people; no new places beyond Oxhollow (named), the bench, the gorge, the traverse (descriptive).",
+      "The chapter does not end on dialogue or an image; it ends on the log entry.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Mountain sensory detail (shale, lichen, wind, cold, the gorge's sound, campsite texture); the cart's mechanics on scree; the herd's appearance and grazing behavior; five days compressed with scenes at halts.",
+      "Dialogue in established voices; Karis's derivation in her method-register; Seln's one-line rule.",
+      "Cael's log entries at halts in his plain register (more than one)."
+    ],
+    "approval_required": [
+      "Any new named entity; any shale-back behavior beyond herd cohesion, placidity, and flight from declarations; any fact about Oxhollow beyond 'a ford settlement north on the route'."
+    ],
+    "forbidden": [
+      "The collapse/stampede; fragment use; healing; Part 2 knowledge; a dialogue or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 4 as drafted — the immediate seam (injuries, wants, Pike's line)",
+      "path": "v3-runs/book-07/drafts/ch04.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch05-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH05-001",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes / VOICE_CHARTER §9",
+      "evidence": "r1 lines 25, 59, 107, 115: 'at the pitch' ×4 (book total 14).",
+      "consequence": "Attribution scaffolds converge across Pike, Seln, Karis on an audible house tic.",
+      "repair_target": "Vary all four; no replacement scaffold repeated."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch05.md",
+    "report_path": "v3-runs/book-07/reports/ch05-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch05-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch05-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

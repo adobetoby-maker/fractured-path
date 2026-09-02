@@ -1,0 +1,243 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch01-r1-editor",
+  "scene_id": "b7-ch01",
+  "verdict": "STRUCTURAL_HOLD",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The draft repeatedly asserts a six-person crew ('She looked at the six of us,' line 15; 'Six names down the margin,' line 37; 'We're six,' line 63), but its complete road formation names only Lira, Cael, Karis, Brom, and Seln (line 93). The frozen pre-Chapter 1 state likewise lists those four companions beside Cael and says Oryn is 'NOT YET MET' (state snapshot lines 24-33). The same gate also fails on relationship chronology: line 133 says Cael has watched Brom for six years, although Brom is introduced in Book 2 when Cael is 15-16 and Cael is only eighteen here. See findings ed-b7-ch01-001 and ed-b7-ch01-002."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration stays in close-third past through Cael's practical attention. His conclusions about the animal remain explicitly provisional ('Claim,' 'Evidence,' 'Ruling: unproven/hold'), the stillhound name is entered as a word rather than confirmed knowledge, and no forbidden reason for void-road etiquette becomes narrator fact."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "Against the packet's literal work order, the manuscript supplies the dated italicized six-week opening, age eighteen, nine fragments plus the standing anomaly words, turned-back courier, observed etiquette, Lowmarch and Pike's five-column ledger, three summarized contracts, the fourth contract in scene, Lira's hand signal, Seln's exact warning, a mile-long forty-meter station, no fight, the carter's required compliment, Pike's return line, all four companion registers, the three boxes, Hesk's satchel, absence of watchers, and the exact closing sentence. The packet's own 'six' requirement is impossible to reconcile with frozen state and is therefore handled under the authority gate rather than counted as a missing draft beat."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Nothing prohibited occurs: no fight, injury, Path or fragment use, declaration, engagement with the shape, Oryn, healer, Tide, quiet-ground terminology, ruins, silent sigils, failed Arbiters, Ghent, rival crew, Compact presence, Vastin window, correspondence, new named person beyond Pike, new place beyond Lowmarch/Thornwater, new Path, or fauna name beyond the carter's single 'stillhound.' Hesk's satchel and Vell's old ledger line are permitted continuity references, not letters or present institutional actors. The draft never states the Path-discharge mechanism."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The carters' rules precede the dangerous walk; the carter restates the constraints before departure; each practitioner's specific temptation is made visible and refused; the animal keeps station while they do nothing and peels away short of the fence; and the delivered/no-loss record follows. The underlying sensing mechanism remains unclaimed, as required, while the characters' actionable cause-and-effect is clear."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Cael enters still checking for watchers and trying to understand a country without institutional measures. He exits with a third-party ledger line, a first roof, the group's successful restraint logged as unit doctrine, and the confident conclusion that being unmeasured has made an old defensive discipline useful. Knowledge, standing, relationship, and self-concept all move despite the absence of a fight."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the board, carter, road, animal, and gate; the italicized Power Log uses a plain first-person register; emotion arrives through counting, objects, and procedure; and Lira, Brom, Karis, and Seln retain distinct strategies and cadences. The timeline defects are factual rather than a voice failure."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "The edge territories are made specific through operations: carters' road discipline, 'paper' as a social category, board pricing, a ledger without a tier column, witness marks, return slips, a seasonal camp, and a hold gate that accepts an outcome report. Rank's altered value is demonstrated through transactions instead of explained abstractly."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Manual §8.5 audit covered every 3+ speaker scene: the hiring fire (carter/Lira/Karis/Seln), the road walk (Lira/Seln/Brom/Karis), and Thornwater gate (gate-woman/carter/Karis/Cael). The maximum run is two unattributed lines, below the cap of four. Speakers remain separable by syntax and context. Italics decorate clearly introduced log writing; all essential meaning survives aloud."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every personal and place name in the draft was checked aloud against craft/NAME_REGISTRY.md. Established names remain their registered entities: Cael, Lira, Brom, Karis, Seln, Hesk, Rooke, Vell, Cinder House, Ironyard, and Ostrand. Approved new names Lowmarch and Thornwater are aurally distinct from the registry. Pike remains distinct at speed from Prynn, Pellin, Petra, and especially flagged Fiske (/paik/ versus /fisk/). The common-noun fauna label 'stillhound' creates no name collision."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "The §8.4 chapter-scope grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The §10 summary-substitution grep returns 0. The file begins with the required H1, uses standalone section rules, ends on the last prose line with no footer, and contains 5,269 words within the 3,910-5,290 range."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch01.md, which is all Book 7 prose so far. Case-insensitive occurrence counts from the §9 greps are: jaw tightened 0; laughed once 0; without humor 0; stomach tightened 0; stomach dropped 0; There it was 0; That was true 0; Also true 0; sounded almost 0; held this 0; standalone '[Name] noticed.' 0. 'which was, in its own way' is 0; single-word prose paragraphs are 0. Four 'the way you/he/she [verb]' candidates occur, but all use different verb constructions (look, walked, held, made), so no identical construction exceeds the per-chapter cap. Modern idiom, feeling-declaration, and growth-declaration greps each return 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is Book 7 Chapter 1, so there is no preceding chapter in the book against which to test consecutive closer structure. The log-entry close matches the architecture's assigned closer."
+    },
+    {
+      "gate": "state.fragment_inventory",
+      "state": "PASS",
+      "evidence": "The opening inventory lists exactly nine confirmed components—Wind, Pressure, Iron, Compression, Ember, Storm, Anchor, Blade, Shadow—and one anomaly using only 'Session nine. Still open. Still real. Patience.' This matches state snapshot lines 5-17. No fragment is deployed, no acquisition occurs, the anomaly is neither counted nor explained, and the Shadow seal holds."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "PASS",
+      "evidence": "Before the shape appears, the carter establishes two missing carts, the found cart's absent driver, the two-mile dusk stretch, and the absolute no-declaration condition. The practical stakes therefore precede the encounter's decisive restraint."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "PASS",
+      "evidence": "The road runs east with the wash ten to twelve paces left, dense scrub right, Thornwater two miles ahead, Lira twenty paces forward, Cael/Karis five paces ahead of the mule, Brom at its shoulder, the carter opposite, and Seln on the wash lip. The shape remains forty meters right and the gravel fan/fence supply later anchors. The near-fight can be drawn from the prose."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "No one performs a Path action. The prose identifies what Lira, Brom, Karis, and Cael could spend, then keeps each capability withheld. The crossbow stays accessible but untouched, the party carries no open injuries, and movement remains at walking pace."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet expressly forbids a fight. Character-specific restraint is well differentiated, but no named combatant engages the animal."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "PASS",
+      "evidence": "Cael explicitly holds all nine, substitutes full-depth observation for reaching, and recognizes that doing nothing is the tactic. The whole group maintains that choice for a mile; the shape never closes and departs before the fence; the carter and Pike then record the successful delivery."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The encounter nonetheless changes standing, knowledge, doctrine, and group confidence under the consequential-scene gate."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The scene creates no injury, equipment damage, or spent Path reserve to carry forward; that absence is a prohibited-outcome requirement."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank, fragment, technique acquisition, or measurable capability advancement occurs. The chapter advances human standing and team doctrine instead."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system advancement promising a cost occurs. The scene's meaningful tradeoff is voluntarily foregoing powerful options under risk, already evaluated under causality and character gates."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "The fourth contract changes the crew's reputation in Pike's outcome ledger, earns a practical carter's rare praise, proves coordinated restraint, and changes Cael's understanding of prior banking discipline from institutional defense to survival craft."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No capability is used. Success depends on established observation discipline, existing banking practice, and the carters' demonstrated etiquette."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "The board, Pike, carters, and Thornwater all operate through independent prices, rules, schedules, witness marks, and return traffic. The unnamed carter walks the stretch alone on his return, underscoring that the country does not pause around Cael. No rival is assigned to this chapter."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The three compressed jobs differ in practical problem—visibility, labor, and recovery geometry—and the fourth changes both dramatic mode and tactical problem to a real-time restraint encounter."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No setback occurs in this chapter. Earlier institutional pressure is productively converted into the restraint doctrine evaluated under progression gate 3."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The fragment inventory is Cael's authored Power Log, clearly owned and dated in world."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System values are displayed. The manually written inventory independently matches frozen state, as recorded in the fragment-inventory gate."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The spoken fragment list and anomaly wording remain fully intelligible aloud."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The Power Log inventory has character and continuity work, but it is not an Arbiter or system notification."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The anomaly remains unconfirmed and unexplained; the stillhound mechanism remains unknown; quiet-ground material, Compact surveys, and later-book secrets never surface. Cael labels inference rather than rewriting hidden information into fact."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fragment combination or Path combination is used."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "The board prices jobs rather than crew tiers; Pike's ledger records Job, Hirer, Witness, Outcome, and Price with no tier column; and the completion slip speaks only the delivered outcome. Rank's diminished institutional value is therefore visible through use."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch01-001",
+      "status": "PROPOSED",
+      "severity": "BLOCKER",
+      "category": "authority-state-roster",
+      "gate": "authority.canon_timeline_state",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch01.md",
+        "line_start": 37,
+        "line_end": 37,
+        "quote": "He opened a heading for us. Six names down the margin of a fresh page, in his hand, spelled the way we said them."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+        "line_start": 24,
+        "line_end": 33,
+        "quote": "| Oryn | Tide | Iron-tier | NOT YET MET. Reserved. Appears B7 Ch6. No Tide practitioner on the page before then. |\nCircle who know the mechanism (the B3 SECRET): Cael, Lira, Brom, Karis, Seln. Nobody else on the continent."
+      },
+      "consequence": "The draft and packet count six practitioners, but frozen state supplies only five people in the traveling party. The road blocking confirms the reader-facing defect by placing only Lira, Cael, Karis, Brom, and Seln around the cart. A listener is therefore asked to imagine an unnamed, unstaged sixth companion even though the packet forbids adding anyone and reserves Oryn for Chapter 6. The scene cannot safely advance until the upstream roster/count conflict is resolved.",
+      "repair_target": "Obtain a planning-layer decision establishing the correct pre-Oryn roster count. Then reconcile the scene packet and every manuscript count, ledger reference, formation beat, and unit statement to that decision. Do not invent a sixth companion in prose under the present authority set.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch01-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity-timeline",
+      "gate": "authority.canon_timeline_state",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch01.md",
+        "line_start": 93,
+        "line_end": 133,
+        "quote": "four years of walking into rooms together had made it a habit. ... Cael had watched Brom answer anything with teeth for six years"
+      },
+      "comparison_evidence": {
+        "path": "books/book-02-iron-circuit/CHAPTER_ARCHITECTURE.md",
+        "line_start": 4,
+        "line_end": 5,
+        "quote": "**Cael's age: 15–16 across this book**\n**Companions introduced: Brom (Iron Skin Path, Copper-tier)**"
+      },
+      "consequence": "Cael is eighteen in the frozen Chapter 1 state, so he cannot have watched a companion introduced when he was fifteen or sixteen for six years. The broader 'four years ... together' phrasing also overstates the tenure of later-arriving Karis and especially Seln. Exact durations are prominent in Cael's counting voice, making the chronology error more visible than a loose idiom would be.",
+      "repair_target": "Reconcile the two elapsed-time claims with the established companion-introduction chronology, or remove exact durations where the sentence intends accumulated familiarity rather than literal shared years.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "The opening log is effective and contract-complete, but it consumes roughly the first quarter of a chapter already at the 5,269-word upper tolerance edge. Human pacing judgment should test the audiobook transition from compressed contracts into the real-time fourth contract; this is not a failed density or summary gate.",
+    "The near-fight's governing interpretation is stated once in narration ('That was the whole tactic') and then substantially restated in the closing log. Both passages are voice- and packet-aligned, but an audio pass should decide whether the second explanation slightly reduces the grey shape's residual menace. This is taste, not a contract violation.",
+    "No aural name collision was found. Pike/Fiske was the only architecture-flagged pair worth special attention, and the different onset, vowel, and final cluster remain distinct at audiobook speed."
+  ],
+  "strengths": [
+    "Yes: the chapter makes the edge territories memorable through mechanism and use. The void roads are ruts, silence practices, reachable steel, and fire discipline; Lowmarch is a board, prices, witness marks, and a five-column ledger with the expected tier column physically absent. The country feels different because people transact and survive differently, not because narration labels it exotic.",
+    "Yes: the dusk walk reads as a memorable near-fight rather than a lull. Its drawable geography, asymmetric silence, fixed forty-meter threat, each companion's specific temptation, Cael's five-item animal catalogue, the gravel-fan disappearance, and the refusal to spend power sustain pressure across the full mile. Restraint is active tactical work.",
+    "The opening Power Log delivers a large continuity load in Cael's established plain register while preserving the anomaly boundary exactly: nine confirmed, one anomaly, standing words only.",
+    "The animal remains an animal and a mystery. The draft gives behavior with tactical relevance but repeatedly marks inference as unproven, allowing Chapter 3 to own the sensing explanation.",
+    "Companion differentiation is unusually economical: Lira has to say she could clear it; Brom becomes only his unamplified weight beside the mule; Karis repeatedly refuses her notebook and light; Seln issues procedure without theory.",
+    "The carter's compliment and Pike's copied outcome line provide two distinct third-party verdicts. Both recognize competence in the local currency and let Cael's freedom land through objects and procedure rather than declared emotion.",
+    "Production discipline is strong: all required tic, metadata, banned-register, and summary-substitution searches are clean, the dialogue attribution audit passes, and the exact closing line lands without a metadata coda."
+  ]
+}

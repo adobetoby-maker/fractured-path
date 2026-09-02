@@ -1,0 +1,29 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch06-verifier-r1",
+  "scene_id": "b7-ch06",
+  "editor_run_id": "b7-ch06-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch06-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch06-r1.md:123 (seventy-eighth)",
+        "ch06-r1.md:153-157 (one night, then 'The second day')",
+        "ch06-r1.md:173-185 ('two days back', 'Two days old')",
+        "ch06-r1.md:231 ('Eightieth day')"
+      ],
+      "reason": "Collapse day 78; one night staged; Oryn's arrival narrated as the next morning (79) but counted as two days (80). The card requires arrival on the second day. Repaired by staging the missing day in one summary paragraph (Seln's aborted first-light attempt on the running fan; rationing; the leg going hot) and renaming the arrival morning 'the third morning'. Oryn's and Lira's counts and the day-eighty log now agree."
+    },
+    {
+      "finding_id": "ed-b7-ch06-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch06-r1.md:249",
+        "craft/NAME_REGISTRY.md collision #2 and Dispositions (Halcenvane to be renamed at migration)"
+      ],
+      "reason": "Greyvane and Halcenvane in one spoken sentence is the registry's worst-case condition. The series rename is a migration and not this scene's to mint; the sentence is repaired by referring to the second academy by place ('the academy above Ostrand'), which removes the rhyme and leaves the migration untouched."
+    }
+  ]
+}

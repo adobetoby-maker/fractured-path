@@ -1,0 +1,36 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch01-r2",
+  "scene_id": "b7-ch01",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch01.md",
+  "word_count": 5269,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH01-001 (BLOCKER): The traveling party is FIVE people — Cael, Lira, Brom, Karis, Seln — everywhere. Change every party count to five; leave 'six weeks' and every other six that is not the party.",
+      "status": "MET",
+      "evidence": "Eleven party counts changed from six to five, one word each, nothing else in the sentences touched. Log, fourth day: 'She looked at the five of us and did not ask what we were.' Log, ninth day: 'Sorted by what each would cost the five of us: the escorts cost time.' Pike's page: 'Five names down the margin of a fresh page, in his hand, spelled the way we said them.' Log, fourteenth day: 'a broker who wanted five people visible on his goods.' The carter's catalogue: 'anything he had not priced yet, which at present was the five of them.' The hiring: '\"Pike says you're five,\" the carter said, \"and cheap.\" / \"We're five,\" said Lira.' The fifth item: 'in a mile of road it had done nothing in answer to five people, because in a mile of road five people had done nothing to answer.' The tactic: 'the reason the carter had hired five strangers who were paper.' The gate: 'She had looked at the five of them for exactly as long as it took to count them.' Closing entry: 'Five people held everything they own for a mile of road in the dark, and nobody had to be told twice, and that is the finding of the six weeks.' Remaining sixes, all verified non-party: 'Six escorts' (postings on the board), 'six crossings' twice (the ferry job), 'six hours' (Brom cutting thorn), 'the six hundredth pace', 'Six weeks' and 'the six weeks'. The road blocking is unchanged and places exactly five practitioners around the cart."
+    },
+    {
+      "obligation": "ED-B7CH01-002 (MEDIUM): Replace 'six years' (Brom) with 'three years'; replace 'four years of walking into rooms together' with a phrasing true for all five, keeping the sentence's function (the order settled itself without a word).",
+      "status": "MET",
+      "evidence": "'Cael had watched Brom answer anything with teeth for three years, and the answer had always been the same: to become the thing teeth broke on.' — Brom joined in Book 2 at fifteen; Cael is eighteen. 'The order had settled itself on the first day without a word from anyone, because two years of walking into rooms together had made it a habit.' — the exact figure the packet offers for the five as a unit (Seln joined at sixteen), and the sentence's function is untouched. In the same paragraph the sibling duration about Seln's placement was corrected to the same true figure: 'Seln was on the left, off the road, along the wash's lip, in the place two years had taught Cael to look for him last.' The unrelated 'for four years' on the second day (Cael checking for watchers since Kindling at fourteen) is true at eighteen and was left as written."
+    },
+    {
+      "obligation": "Preserve every recorded strength and every other sentence: the log-voice opening, the board and ledger, the dusk walk's geography and five-item catalogue, the carter's line, Pike's copied line, the closing entry; do not change the ending; keep the H1 heading and the prose-only file end.",
+      "status": "MET",
+      "evidence": "diff against v3-runs/book-07/drafts/ch01-r1.md touches thirteen lines (15, 33, 37, 41, 59, 61, 63, 93, 133, 165, 167, 187, 243), each a single-word or two-word substitution; no sentence added, removed, or reordered. First line is still '# Chapter 1 — Unmeasured'; the file still ends on '*Note the date. Season's open, and for once it isn't theirs.*' followed by a single newline; the §8.4 metadata grep returns zero. The carter's 'First crew I've hired that knew to shut up.' and Pike's copied line 'Thornwater road, the stretch. Walked ahead of one cart, one carter, one mule. Delivered at the fence. No losses. Nine marks, paid.' are verbatim from r1. Word count unchanged at 5,269 (wc -w), inside the 15% tolerance of 4,600."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [
+    "Pike's ledger heading now carries FIVE names (Cael, Lira, Brom, Karis, Seln) with columns Job / Hirer / Witness / Outcome / Price; the r1 report's 'heading for the six' should be read as five. All other state proposals from ch01-author.json (run b7-ch01-r1) stand unchanged.",
+    "Durations now on the page and to be carried forward: Cael has watched Brom fight for three years; the five have walked into rooms together as a unit for two years; Cael has known where to look for Seln for two years."
+  ],
+  "deviations": [
+    "One correction beyond the two quoted phrases of ED-B7CH01-002, in the same paragraph and of the same defect class: 'the place four years had taught Cael to look for him last' (Seln, whom Cael has known since Book 4 at sixteen) was changed to 'two years'. Leaving it would have put a four-year duration for Seln in the sentence immediately after the repaired two-year duration for the five, contradicting the repair on its own page. Flagged here so the editor can revert it if the recheck treats it as out of scope; reverting costs nothing else.",
+    "One party count not itemized in the finding's evidence list but covered by its repair target ('change every party count to five'): the fourteenth-day log's 'a broker who wanted six people visible on his goods' is now 'five people', since the broker was hiring the crew and six visible people would imply a sixth traveler. 'Six crossings' in the same entry is the ferry and was left alone.",
+    "The fifth item's 'five people ... five people' now counts the crew rather than everyone on the road (the carter also did nothing). The finding lists this sentence explicitly with 'five people' as its repair target, so the finding was followed as written; if the editor prefers the carter counted, 'six bodies' would be the honest phrasing, but that is the editor's call, not a repair."
+  ],
+  "blockers": []
+}

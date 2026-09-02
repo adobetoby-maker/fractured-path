@@ -1,0 +1,131 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch01-r1",
+  "scene_id": "b7-ch01",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch01.md",
+  "word_count": 5269,
+  "obligations": [
+    {
+      "obligation": "Open with the log-voice skip movement: six weeks compressed, dated, inventoried, in Cael's first-person log register (italicized in-world writing), covering the walk-in, the turned-back courier, void-road etiquette, Lowmarch and its board, the first three contracts in summary, Pike and his ledger heading with no tier column.",
+      "status": "MET",
+      "evidence": "The chapter opens on eleven italicized log entries dated by days past the Line ('Second day past the Line.' through 'Thirty-third day.'): the walk-in ('Walked eleven miles. The road is real.'); the courier at the ford ('The last of the westbound couriers turned back here'); etiquette learned from carters ('walk quiet. Carry steel. Don't light anything you don't need. Don't declare.'); Lowmarch on the ninth day with its ford, ferry, two inns, smith, no wall, and the board read 'the way I read the Cinder House board at fourteen'; three contracts summarized (ferry escort, fence-line clearance, cart from a wash); Pike catalogued; the ledger heading 'Job. Hirer. Witness. Outcome. Price.' with 'the column ... that says what you are' absent."
+    },
+    {
+      "obligation": "Cael states his age — eighteen — on the page, and inventories nine confirmed fragments and one anomaly (inventory words only; no explanation).",
+      "status": "MET",
+      "evidence": "'Inventory, because I do one at the start of anything. I am eighteen. Nine confirmed: Wind, Pressure, Iron, Compression, Ember, Storm, Anchor, Blade, and Shadow ... One anomaly. Session nine. Still open. Still real. Patience.' The anomaly is given only the standing inventory words; the word 'Tide' does not appear anywhere in the chapter."
+    },
+    {
+      "obligation": "The fourth contract is rendered in SCENE, not summary: dusk, the void road toward Thornwater, a carter and a mule behind the six of them, the stretch where two carts went silent last month.",
+      "status": "MET",
+      "evidence": "The carter's hiring is a dialogue scene at the fire ('Two carts went quiet on it last month. One we found. Cart, mule, no driver. The other we didn't.'), and the stretch is walked in real time from the descent off the shelf at dusk ('the light going the grey that light went when it had stopped being anyone's') with geography laid out (road, wash on the left, scrub on the right, fence two miles ahead) and the carter and mule behind the six."
+    },
+    {
+      "obligation": "Lira, twenty paces ahead, stops with her hand up because of an absent sound. Seln, without turning, says 'Don't declare anything.' Nobody declares anything for the whole walk.",
+      "status": "MET",
+      "evidence": "'Lira went first, twenty paces ahead' ... 'Lira stopped and put her hand up. She did not turn.' ... 'The right-hand side of the valley had gone silent ... A hole in the noise, and the hole was keeping pace with them.' ... 'From the lip of the wash, without turning his head toward the scrub ... Seln said: \"Don't declare anything.\"' No character declares; the closing log confirms 'Six people held everything they own for a mile of road in the dark.'"
+    },
+    {
+      "obligation": "The grey shape keeps pace at about forty meters and never closes; the chapter holds at least a mile of road in real time with the shape present; Cael catalogues the animal's behavior with the observation discipline the series built on fighters.",
+      "status": "MET",
+      "evidence": "'Forty meters off the road on the right ... It was moving when they moved, at their pace' ... 'Forty meters at the half-mile, forty at the six hundredth pace ... It did not close.' The walk is paced from the half-mile to the thousandth pace and beyond, to a hundred meters short of the fence. Cael's catalogue runs as five numbered 'Item.' paragraphs plus claim/evidence/ruling passages, explicitly framed as the fighter discipline turned on an animal: 'He had never once run it on an animal. He ran it now.'"
+    },
+    {
+      "obligation": "No fight occurs. The shape leaves short of Thornwater. The carter's line at the gate: 'First crew I've hired that knew to shut up.'",
+      "status": "MET",
+      "evidence": "'A hundred meters short of the fence ... the shape stopped. They walked on and it did not.' ... 'It had gone the way it came.' At the gate: '\"No,\" he said. \"First crew I've hired that knew to shut up.\"' No weapon is raised, no injury occurs, no fragment or Path is used."
+    },
+    {
+      "obligation": "Cael's cataloguing habit is on the page at least once outside the log (a road, a board, a gate, a crowd — per VOICE_CHARTER §3.1).",
+      "status": "MET",
+      "evidence": "Narrated catalogues of the carter ('Cael had him catalogued before he sat. Fifty, or a road's version of fifty...'), the road ('Cael read the ground as he would have read a floor. The road ran east, straight...'), and Thornwater's gate ('Thornwater at the gate, catalogued while a woman with a lantern looked them over: a fence of split timber...')."
+    },
+    {
+      "obligation": "Every companion has at least one line or action in their own register: Lira kinetic and blunt; Brom weight, few words; Karis precise, note-taking, the researcher starving for sources; Seln procedural, dry, never bantering, never explaining himself.",
+      "status": "MET",
+      "evidence": "Lira: 'on the balls of her feet' / '\"I could clear it.\" ... \"I know. I'm saying it so I've said it.\"' / runs the fence-line each morning. Brom: 'exactly as large as his body made him and not one degree larger' / '\"Mule's fine\"' / resets a leaning post. Karis: hand going to her notebook five times / '\"I want to see it.\"' / writes the carter's one word underlined with her counts beneath. Seln: '\"Don't declare anything.\"' '\"Walk. Same pace.\"' '\"No light.\"' '\"Don't test it.\"' '\"Then don't stop.\"' — five sentences in a mile, none a reason, plus '\"The wash goes round the north side\" ... as though it were the weather.'"
+    },
+    {
+      "obligation": "Rank's non-combat consequence is visible (charter Gate 21): the board and the ledger sort by outcome, not tier — shown through Pike's ledger heading and/or pricing, not explained by narration.",
+      "status": "MET",
+      "evidence": "Shown through objects and pricing: 'Every slip prices the job. Not one slip prices the crew. There is no line on any of them for what a crew has to be — no \"Iron or above,\" no \"certified,\" nothing'; the ledger's five columns with 'the one that says what you are' missing; Pike stating 'Copper, Force' as a trade and not asking theirs; the witnessed slip's fourth line 'Outcome. Not a word beside it about who had walked.'"
+    },
+    {
+      "obligation": "The chapter closes on the Power Log entry honoring the card's close-on content, ending with 'Season's open, and for once it isn't theirs.' The manuscript file ends on the last line of prose — no metadata, no word count, no notes.",
+      "status": "MET",
+      "evidence": "Final italicized entry contains 'Six weeks. Four contracts. Nobody has asked what I am. Nobody has asked what any of us are ... The board asks what we did. Pike writes it down ... that is the whole system', the claim 'there is something out here that hunts Paths' marked as a claim with evidence and ruling, 'I have been not-using mine in front of hostile audiences since I was fifteen ... Turns out that was training for this', and the last line '*Note the date. Season's open, and for once it isn't theirs.*' The file ends there; §8.4 grep for metadata returns zero."
+    },
+    {
+      "obligation": "Manuscript format: begin with the H1 heading '# Chapter 1 — Unmeasured', then prose. Section breaks as '---' on their own line.",
+      "status": "MET",
+      "evidence": "First line is '# Chapter 1 — Unmeasured'; four '---' section breaks on their own lines separate the log movement, the hiring, the road, the gate, and the Thornwater close."
+    },
+    {
+      "obligation": "PLANT: Void-road etiquette (walk quiet, carry steel, don't declare) is shown as carter practice whose REASON nobody in the party yet knows — Chapter 3 pays it. Do not explain it here.",
+      "status": "MET",
+      "evidence": "'He did not say why.' / 'So, the etiquette, as observed and not as explained ... Nobody has given me the reason for any of it and I am not going to make one up.' The carter's hiring rules ('And you don't declare. Not on that stretch. Not for anything.') and his gate answer ('It's a stillhound. You shut up. It went home ... That's all I've got') give no mechanism; the closing log enters the hunting idea as 'Claim ... Ruling: hold.'"
+    },
+    {
+      "obligation": "PLANT: Pike's ledger has no tier column — glimpsed as an object; Chapter 2 anatomizes the board.",
+      "status": "MET",
+      "evidence": "'Five columns ruled beside the names: Job. Hirer. Witness. Outcome. Price. I read it upside down ... to be sure I had not missed the column every ledger I have ever been entered in has had, the one that says what you are. I had not missed it. The page does not have it.' The board's procedure is otherwise left for Chapter 2."
+    },
+    {
+      "obligation": "PLANT: The absence of watchers is noted (nobody is watching; nobody has asked).",
+      "status": "MET",
+      "evidence": "'nobody is watching. I have counted every morning — the far bank, the meadow's edge, the road both ways — and the count is zero, and I keep counting'; and the closing entry's 'Nobody has asked what I am.'"
+    },
+    {
+      "obligation": "PLANT: The three boxes (Karis's field archive) ride in the cart; one glance is enough.",
+      "status": "MET",
+      "evidence": "'Karis's three boxes went up onto the grain at first light, roped by Brom and checked by Karis at every halt for two days'; later 'Karis sat in the loft with the three boxes open around her.'"
+    },
+    {
+      "obligation": "PLANT: Hesk's travel-grade log satchel is the log's home; 'mind the shape' may be recalled once, at most.",
+      "status": "MET",
+      "evidence": "Closing log: 'Hesk's satchel is on my knee. It has been through a ford and two carts and a wash and it sits flat, the way he made it to. He said mind the shape.' — one recall only."
+    },
+    {
+      "obligation": "PAYOFF: Book 6's closing line — 'nothing anywhere was deciding what he was, except him' — is lived, not quoted: six weeks of nobody deciding.",
+      "status": "MET",
+      "evidence": "Not quoted. Lived through the courier who did not ask, the gate-woman whose interest ends at 'paper', the slip with no line for who walked, and the log's 'Nobody has asked what I am. Nobody has asked what any of us are.'"
+    },
+    {
+      "obligation": "PAYOFF: The banking doctrine (B2 → B3 hearing → B4 evaluation → B5 tournament) pays off as survival craft: not-using a Path in front of a hostile audience, now an animal.",
+      "status": "MET",
+      "evidence": "'And Cael held the nine. Holding was never one act...' with each fragment's pull named and refused; 'He had been quiet in front of a hearing. He had been quiet in front of a delegation. He had held nine things to nothing in front of every instrument the continent owned ... and here was a valley where it was the only competence that priced.' Closing log: 'I have been not-using mine in front of hostile audiences since I was fifteen ... Turns out that was training for this.'"
+    }
+  ],
+  "inventions": [
+    "Log dating convention for Book 7's opening: entries dated by days past the Line ('Second day past the Line.' ... 'Forty-sixth day.') because there is no bell, term, or calendar out here; Karis's remark that a calendar is an institution.",
+    "Edge-territory usage 'paper' as the carters' word for anyone from inside the Line (used by a carter, a wash carter, and Thornwater's gate-woman), per the packet's allowance for what people beyond the Line call practitioners.",
+    "Texture for the three summarized contracts: a broker's ferry escort of six crossings for two marks; a fence-line at an unnamed steading north of the ford cleared with bill-hooks for four marks and a sack of flour; a carter's cart nose-down in a wash recovered with rope (Lira far bank, Brom near bank) for three marks.",
+    "Lowmarch and board texture: the meadow above the ford where non-carters camp in tents (the unit has not slept under a roof since the Line, which makes Thornwater's loft the first roof); the board as planks on four posts by the ferry landing with pinned slips; a HOLD notation in Pike's hand on taken contracts; the witnessed completion slip (posting copied out with five ruled lines) carried by the hirer and marked by the witness at the gate, returned to Pike by the carter, with Pike's ledger line copied on the back for the crew.",
+    "Pike's physical catalogue (pinned left sleeve, seated weight of a retired Force practitioner) and one exchange ('In that order?' / 'Depends on the day'), kept within the log summary and under a paragraph of scene.",
+    "The unnamed carter: fifty, weather-made face, rein-and-wheel hands, a crossbow across the sacks he never touches; his mule with an unset harness buckle that becomes the loudest thing on the road; his hiring terms and his second load four days later, walked alone.",
+    "Void-road etiquette shown in action on the sixth day: a carter's boy reaching toward a hillside and having his hand knocked down with 'Not on the road.'",
+    "The stretch's geography: two miles of valley floor, thorn scrub dense on the right to the valley wall, a dry wash ten or twelve paces off the road on the left, a bare gravel fan a hundred paces wide three-quarters of a mile in, Thornwater's fence and lamps at the valley's end; a wheel-and-wedge delay that puts the party on the stretch at dusk.",
+    "The animal's observed behavior beyond the card's minimum, none of it implying a sensing mechanism: it makes no scrub-sound, turns toward the harness buckle rather than voices or a kicked stone, will not cross the bare gravel fan and reappears beyond it unseen, and stops a hundred meters short of the fence where an ordinary chained dog is barking.",
+    "Thornwater's gate: split-timber fence twice a man's height, two lamps, a walk with an unnamed bowman, an unnamed gate-woman who witnesses the slip, a chained dog, four or five thatched roofs; the unit lodged in the grain loft over the barn and fed for lofting grain (not a board contract).",
+    "Cael's forty-meter reference: the long side of the Ironyard floor, which he chalked himself at fifteen.",
+    "Thornwater downtime beats in each companion's register: Brom resetting a leaning fence-post, Lira running the fence-line at first light, Seln returning with the lay of every road and one weather-flat sentence about the wash, Karis writing the carter's one word underlined with her counts beneath and nothing under that."
+  ],
+  "state_change_proposals": [
+    "Timeline: Chapter 1 closes on the forty-sixth day past the Line, at Thornwater; the unit has been at Lowmarch's ford-meadow since the ninth day and has taken four board contracts (ferry escort, fence-line clearance, cart recovery, Thornwater road escort), all completed, no injuries, roughly eighteen marks earned in total, cheap by the board's standards.",
+    "Pike's ledger now carries a heading for the six (names down the margin; columns Job / Hirer / Witness / Outcome / Price) with four completed lines, the fourth reading: 'Thornwater road, the stretch. Walked ahead of one cart, one carter, one mule. Delivered at the fence. No losses. Nine marks, paid.'",
+    "Cael: fragments unchanged (nine confirmed, one anomaly); no fragment deployed since the Line; Shadow-adjacent drift and Anchor-adjacent idle pull noted as ongoing costs; the compound observation discipline has now been run on an animal once, catalogued in the log as five items with claim/evidence/ruling.",
+    "Knowledge state: the party has heard the word 'stillhound' from one carter and logged it as a word, not a fact; nobody knows why the void roads are walked silent; the standing etiquette (walk quiet, carry steel, don't light, don't declare) is held as observed practice with 'Ruling: hold' on its reason.",
+    "Thornwater: the unit is known to the steading by sight (gate-woman, bowman) as 'paper' who walked the stretch quiet; the grain carter has hired them once and reported the outcome to the hold; the carter walked the stretch alone with a second load on the forty-sixth day and nothing paced him.",
+    "The three boxes and Seln's locked case are at Thornwater with the unit; the two letters written at the first camp went west with the last courier at the fourth-day ford.",
+    "The unit's standing in Cael's own accounting: 'we are a unit in a country that has never seen one' — entered as the finding of the six weeks, and the belief that nothing out here measures him remains intact."
+  ],
+  "deviations": [
+    "The prohibited_outcomes list bars any mention of Tide while must_include requires the anomaly to be inventoried; resolved by inventorying the anomaly with the standing words only ('One anomaly. Session nine. Still open. Still real. Patience.') and never writing the word Tide. The nine fragments are listed by adjacency name in the opening inventory (Shadow placed last so its cost note can follow it), which is the series' inventory practice.",
+    "The card's close-on names Thornwater as the log's location and the packet's outcome names Pike's ledger line 'arriving by the carter's return' as the third-party verdict; to honor both, the unit stays four days at Thornwater and the carter's second load brings Pike's copied line, so the closing log is written at Thornwater with the line in hand. Consequence: the chapter's close falls on the forty-sixth day past the Line rather than the forty-second; the log still says 'Six weeks.'",
+    "Word count 5,269 is inside the +15% tolerance (ceiling 5,290) but above the 4,600 target; the first draft ran 5,826 and was trimmed by about 560 words of texture rather than obligation. Voice charter tic checks run on the draft: 'jaw tightened' 0, 'laughed once' 0, 'without humor' 0, 'stomach tightened' 0, 'stomach dropped' 0, 'There it was' 0, 'That was true' 0, 'Also true' 0, 'sounded almost' 0, 'held this' 0, 'heard about it later' 0, 'End of Chapter' 0, 'okay' 0, 'literally' 0, 'basically' 0, 'gonna' 0, standalone '[Name] noticed.' 0, 'which was, in its own way' 0; no 'the way X [verb]' construction repeats verbatim; no single-word paragraphs; feeling-declaration and growth-declaration greps return zero.",
+    "The word 'watchers' appears once, in the log noting their absence ('the last thing the watchers left me'), which is the required absence-of-watchers plant and not a Compact presence.",
+    "Cael's forty-meter reference cites the Ironyard's long side chalked 'at fifteen' — an inferred small detail consistent with Book 2's Ironyard setting but not previously on the page; flagged for the editor as low-stakes backstory texture rather than new canon."
+  ],
+  "blockers": []
+}

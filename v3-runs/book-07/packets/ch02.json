@@ -1,0 +1,149 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch02",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 2 card)",
+    "state": "state-b7-post-ch01 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine fragments + the anomaly (inventory words only). Party is FIVE: Cael, Lira, Brom, Karis, Seln.",
+      "He has not heard of quiet ground, the Quiet, or the Quieting; nobody in the party has. The phrase must not appear.",
+      "He knows the carters' word 'stillhound' (Chapter 1) and the road etiquette as practice; he does NOT know the animal senses Path discharge (Karis derives that in Chapter 3). He may repeat the Chapter 1 hypothesis ('something out here hunts Paths — hold') but not confirm it.",
+      "He has not met Oryn or any healer; no Tide Path anywhere.",
+      "He has never spoken to Teague. He may learn Teague's name and crew from Pike's ledger or the board (the crew's name is at the top of the column), and may read Teague across the room; no conversation between them occurs in this chapter (that is Chapter 7).",
+      "He knows the Compact file reads 'active non-compliance, observation priority escalated' and that asset-restriction is 'pending jurisdiction' (Book 6); he does not know the Compact has ever surveyed anything east of the Line.",
+      "He believes, sincerely, that nothing out here measures him; this chapter writes that sentence in the log as the arc's first pole, and it is true at this altitude."
+    ]
+  },
+  "purpose": "Anatomize the contract board and Pike's ledger as the edge territories' institution — rules, prices, failure modes — the way earlier books anatomized the circuit and the Crown ladder, so the reader holds the machine before the book leans on it; place the unit honestly on that ledger (unknown, cheap, taking what established crews refuse); state once and put away the reason the book's geography has only one direction (asset-restriction executes on any return west); let Cael write the arc's first pole in the log, in relief, and end on the image of the rival crew who are, today, simply better.",
+  "scene_shape": {
+    "opening_state": "The five of them back at Lowmarch from Thornwater (Chapter 1 ended on the forty-sixth day past the Line, in Thornwater's grain loft, with Pike's copied line in hand). Nine marks richer. The meadow above the ford, the board under its roof by the ferry landing, Pike at his table with the ledger.",
+    "pov_goal": "To understand the board as a system — who posts, who takes, who witnesses, how completion enters the ledger, how price is set — and to see exactly where the five of them stand in it, because Cael trusts a system only when he can see its incentives.",
+    "opposition": "The ledger's honest arithmetic: they are unknown and cheap, eleven lines below the crew that gets the hold contracts; and the arithmetic of the Line behind them, which the five have not said aloud since the first camp.",
+    "turn": "Pike, asked how the board prices, explains it with a one-armed man's economy — 'A Bronze who lost my carter is worth less than a Copper who brought him home. Out here that's arithmetic. In there it was heresy.' — and Cael recognizes Vell's ledger doctrine run by a man who never heard of Vell, at the scale of a country; then Seln, over the board's map, traces the Line with a finger and says the thing nobody has said: west of that, the inventory executes the hour any of them shows paper. Pending jurisdiction means armed. Nobody goes west. Brom: 'Nobody wants to.' Karis: 'Nobody can. Different sentences.' The map is turned east.",
+    "choice": "Cael writes the first pole in the Power Log, mid-chapter, at the inn table, plainly and in relief: no instrument out here reads him; the board reads what they did; the cure for being the case no instrument could parse was a country with no instruments; 'I'm free. First time.' He chooses to believe the sentence, and the chapter lets him, because it is true at this altitude.",
+    "outcome": "The unit's place on the ledger is exact and unflattering, and accepted; the map is turned east; and across the board's room Teague's crew — four practitioners at the best table, three years at the top of the column — is seen, not met.",
+    "closing_state": "The chapter ends on an IMAGE, not a log entry: Teague reads the five of them the way Cael reads everyone, and Cael reads him back (Force Path, Bronze by a registry he stopped reporting to years ago, a captain who counts his people before he counts a job); neither speaks; Teague turns back to his table; and the ledger on the wall between them has eleven lines of daylight in it. The rival clock starts here, honestly: Teague's crew is better at this than they are, today, and the ledger says so."
+  },
+  "obligations": {
+    "must_include": [
+      "The board and Pike's ledger anatomized on the page as mechanism: posting (holds, carters, brokers), taking, witnessing, completion entered in the ledger, price — shown through Pike's practice and Cael's cataloguing, not through narrator exposition. The ledger has no tier column; the board sorts by outcome.",
+      "Pike's pricing line, verbatim: 'A Bronze who lost my carter is worth less than a Copper who brought him home. Out here that's arithmetic. In there it was heresy.'",
+      "The unit's standing stated honestly: unknown, cheap, taking the jobs the established crews don't want; Teague's crew eleven lines above them at the top of the column for three years.",
+      "The asset-restriction beat, once, over the board's map: Seln traces the Line — 'West of that, the inventory executes the hour any of us shows paper. Pending jurisdiction means armed. Nobody goes west.' Brom: 'Nobody wants to.' Karis: 'Nobody can. Different sentences.' Then the map turned east. Not revisited.",
+      "The first pole in the Power Log, mid-chapter (not at the end), honoring the card's entry: 'No instrument out here reads me... The board reads what we did... Write it plainly, because it's true: I'm free. First time.'",
+      "Teague's crew seen across the room at the best table (four practitioners; Teague: Force Path, Bronze-tier by a registry he stopped reporting to years ago; counts his people before he counts a job). Cael reads him; Teague reads them; NO dialogue between them.",
+      "The chapter ENDS on the image of Teague turning back to his table and the ledger on the wall with eleven lines between them — not on a log entry (the previous chapter ended on the log; the closer must differ).",
+      "Cael's cataloguing habit on the page outside the log at least once (the board, the meadow, Pike's table, the room).",
+      "Each companion in their own register at least once: Lira kinetic and blunt; Brom weight, few words; Karis precise, note-taking; Seln procedural, dry, never explaining himself.",
+      "Manuscript format: H1 heading '# Chapter 2 — The Board', prose only, '---' section breaks, file ends on the last line of prose."
+    ],
+    "plants": [
+      "Pike's ledger as the book's third-party verdict engine (charter §3.5): later chapters will read lines from it aloud; establish here that lines are read aloud because the procedure requires it.",
+      "Teague as the rival clock (charter §3.5): eleven lines up, better today; Chapter 4 moves the unit one line; Chapter 7 is the first conversation.",
+      "'Nobody goes west' — the reason the trap (Chapter 17) must come east; stated once here and not again.",
+      "The board's hold contracts as the prize the established crews get; the unit's climb is measured against them."
+    ],
+    "payoffs": [
+      "Chapter 1's carter line and Pike's copied line are now entered in the ledger in front of them; the reader sees the mechanism that produced the line they already read.",
+      "Vell's ledger doctrine (Book 1) recognized at country scale by a man who never heard of Vell."
+    ],
+    "prohibited_outcomes": [
+      "No conversation with Teague or any member of his crew; no confrontation; no contract taken jointly.",
+      "No fight, no injury, no fragment use beyond idle-state texture (Shadow drift, Anchor wanting doorways) — nothing deployed.",
+      "No 'quiet ground', 'the Quiet', 'the Quieting', ruins, Arbiters failing, survey stakes, or any Part 2 material; no explanation of the stillhound's sense.",
+      "No Oryn, no healer, no Tide.",
+      "No letters from Hesk/Vell/Ephram (Chapter 4 and 9 own those); no Vastin; no watchers (there are none).",
+      "No new named characters beyond Pike and Teague. Teague's crew members are unnamed. No new place names beyond Lowmarch and Thornwater.",
+      "The chapter does not end on a log entry.",
+      "No modern idiom; no feeling/growth declarations; tic caps per VOICE_CHARTER §9; no authoring metadata."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Sensory detail of Lowmarch (ford, ferry, meadow, the board's roof-on-posts, Pike's table, the inn), the board's postings as objects, Pike's manner and one-armed economy, the crews in the room as background texture (unnamed).",
+      "Cael's interior cataloguing in the claim/evidence/ruling habit; the Power Log's first-pole entry in his plain register.",
+      "Dialogue beats consistent with established voices; Pike may explain the ledger's practice in his own words beyond the mandated line.",
+      "Small worldbuilding through use: what holds post, what brokers post, how witnesses mark, what a hold contract pays versus a carter's."
+    ],
+    "approval_required": [
+      "Any new named person, place, or institution; any new fact about the Compact, the Line, or asset-restriction beyond the mandated beat; any fact about Teague beyond Path, tier, unreported status, crew of four, and three years at the top."
+    ],
+    "forbidden": [
+      "New powers or fragments; any fight; any Teague dialogue; any Part 2 knowledge; a log-entry ending; authoring metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 1 as drafted and editor-passed — the immediate seam, voice, and cadence",
+      "path": "v3-runs/book-07/drafts/ch01.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch02.md",
+    "report_path": "v3-runs/book-07/reports/ch02-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch02-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch02-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

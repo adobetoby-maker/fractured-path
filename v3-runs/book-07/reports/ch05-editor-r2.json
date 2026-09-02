@@ -1,0 +1,363 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch05-r2-editor",
+  "scene_id": "b7-ch05",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "recheck.ed-b7-ch05-001",
+      "state": "PASS",
+      "evidence": "RECHECKED and CLOSED. Every verified occurrence is repaired: line 25, 'Pike entered it as a price gets entered, flat, with the five names under it, and said the things he said.'; line 59, 'sloping toward the outer edge as a roof slopes — not steep, but not flat'; line 107, '\"Shale-backs,\" said Seln, from ahead, low, in the road's own quiet.'; and line 115, 'Karis said, without heat, as one asks for a thing already paid for: \"I want a day.\"' A case-insensitive chapter-scope search for 'at the pitch|at that pitch' returns 0. Each replacement scaffold occurs once in Chapter 5, so the repair creates no replacement tic."
+    },
+    {
+      "gate": "recheck.targeted_repair_diff",
+      "state": "PASS",
+      "evidence": "A unified diff of v3-runs/book-07/drafts/ch05-r1.md against v3-runs/book-07/drafts/ch05.md reports exactly 4 added and 4 deleted lines, comprising only the four ordered clause substitutions. No line, paragraph, scene break, log entry, required beat, or unrelated passage was added, deleted, reordered, or rewritten. All non-repair text is byte-identical."
+    },
+    {
+      "gate": "recheck.recorded_strengths",
+      "state": "PASS",
+      "evidence": "All eight r1 strengths survive: mechanism-and-use worldbuilding; terrain-led route choreography and Brom's cart-control win sentence; the fair shale-back derivation; companion want-lines expressed as competence; exact injury and fragment continuity; all story prohibitions; audio/production discipline; and the assigned image-then-log false-security close. The four local substitutions preserve Pike's price register, the bench slope, Seln's road register, and Karis's priced-request register."
+    },
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The chapter runs from day seventy through day seventy-seven after Chapter 4's day-sixty close. The interval accommodates the well job and Teague crew activity. Cael remains eighteen; Oxhollow is only a northern ford; Oryn, Tide, the Quieting, later ruins, and forbidden later knowledge do not appear."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close-third narration remains inside Cael's practical attention: slips, costs, injuries, widths, narrowings, herd count, and days. Pike's private advice reaches him through Seln, while Karis labels the shale-back rule 'Derived' and 'Not tested' rather than converting inference into fact."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "All assigned beats remain on the page: the three contract reasons; five-day freedom movement; each companion's competence; four carried injuries; thirty armored, placid, cart-sized lichen grazers; Pike's verbatim rule; Karis's day-long derivation; fourth-night log; three boxes; ledge plant; Oxhollow; and the required fifth-night image-then-log ending on 'Sleep.' Chapter 4's want-lines are lived, and the stillhound mechanism is explicitly rhymed and inverted."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "No ledge collapse, stampede, fight, new injury, fragment use, declaration, Oryn, healer, Tide, Teague contact, letter, Vastin, watcher, ruin, Quieting reveal, or new named entity appears. Quiet ground receives no discussion beyond the already-known rumor remaining untouched in a box. The chapter ends on the log, not dialogue or image. The categorical phrase 'at the pitch'/'at that pitch' occurs 0 times in Chapter 5."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Price, rival availability, and Cael's desire cause the contract choice; an actual cart tests cart-worthiness. Karis's conclusion follows from a full observation day, the slipped plate, whole-herd cohesion, Pike's wording, and the established stillhound sense, and she refuses an unsafe confirming trial."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "The three boxes ride over the axle. Cael's calf, Brom's forearm, Lira's ankle, and Karis's palms persist in plausible improving states. Marks, party size, route direction, Teague's absence, and the unresolved quiet-ground rumor all carry forward without reset."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The crew exits with two-thirds of the traverse mapped, nine narrowings recorded, a ledge identified, and a qualified shale-back mechanism. Cael moves from wanting ground rather than teeth to the premature written belief that this honest job has no fight at its end; freedom is enacted through paid cataloguing."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "No passage names or imitates an outside author. The prose remains in the series-specific catalogue, log, ledger, procedure, and object-led register."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the board, fan, bench, gorge, herd, injuries, widths, and route. Four italicized Power Log entries keep his plain first-person register. Lira tests by running, Karis measures and qualifies, Brom speaks through load, and Seln reports through placement and minimal language."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Oxhollow enters through a priced board need; the route is learned through the hired cart, rope, axle placement, cord, paces, campsite selection, injury accommodations, gorge echo, lichen grazing, and a carter's operational rule. World information consistently arrives because somebody must use it."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "Oxhollow stays within its authorization as a ford north on the route. Fan, cairn, bench, gorge, ledge, and traverse remain descriptive. Shale-back behavior stays within placidity, cohesion, grazing, and qualified flight inference. The quiet-ground rumor is neither explained nor advanced."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was rechecked across the Pike, herd-introduction, derivation, and fifth-night multi-speaker scenes. Named tags, action anchors, direct address, and immediately recoverable continuations keep every run at four unattributed lines or fewer. The repair retains attribution anchors. Pike's rule, Karis's derivation, and all logs remain intelligible without italics."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every proper name was checked aloud against craft/NAME_REGISTRY.md. Cael, Lira, Brom, Karis, Seln, Pike, Teague, Lowmarch, and Thornwater retain their established entities. Packet-authorized Oxhollow is distinct at speed from Ostrand, Orvet, Ardenmere, and the active cast. No reserved name or unapproved named entity appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch05.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. The file has the required H1 and prose-only section breaks, ends on 'Sleep.', and contains 5,232 words, within the 3,910-5,290 range."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Declared scope for section 9 counts: current Book 7 drafts ch01-ch05. Case-insensitive counts: jaw tightened 0; laughed once 0; without humor 0; stomach tightened 0; stomach dropped 0; There it was 1; That was true 0; Also true 0; sounded almost 0; held this 0; which was, in its own way 0; standalone '[Name] noticed.' 0. Chapter 5 has 0 single-word paragraphs, 0 'the way you/he/she [verb]' candidates, 0 modern-register hits, 0 feeling-declaration hits, and 0 growth-declaration hits. 'At the pitch'/'at that pitch' is 0 in Chapter 5; the pre-existing ch01-ch04 book count remains 10 and is not increased. Each of the four replacement scaffolds occurs once."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 4 ends on Pike's spoken dialogue, 'That's not rudeness. That's the ledger.' Chapter 5 ends on Cael's written Power Log, with final word 'Sleep.' The consecutive final beat types differ: dialogue then log."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Against the base snapshot, running state, and Chapter 4: Cael remains at nine fragments plus one anomaly and logs only the ford deployment; no fragment is used here. His right calf improves beyond twenty flat while remaining nine uphill; Brom's right forearm is closed at the wrist but bound and barred from pulling; Lira's right ankle remains stiff, repeatedly taped, and never seen by a healer; Karis's palm wounds have become raised scars with handwriting restored. No wound vanishes or changes side."
+    },
+    {
+      "gate": "state.party_headcount",
+      "state": "PASS",
+      "evidence": "The manuscript counts five and assigns work to Cael, Lira, Brom, Karis, and Seln. Oryn remains unmet."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and none occurs. The non-combat stakes—seventy marks and whether a hold may trust a cart to the map—precede all terrain tests."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The route set piece remains drawable: lower bench, upper shelf two hundred meters above, gorge on the outer side, cart in the route line, herd above, nine narrowings, and ledge ahead."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "Lira runs without Wind on a taped ankle; Brom's chest strap carries the pull while his bound hand only holds; Cael's calf prices every climb; Karis's healed scars permit pen and cord work. Cart motion follows the stated slope, axle, shaft, rope, and scree mechanics."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. Non-combat methods remain assignable by running, mapping, load control, scouting, and logging."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight has a pivotal exchange. The decision to continue quietly after deriving the herd rule leads to two-thirds of the route being mapped without incident."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. Knowledge, map state, group confidence, and Cael's self-concept change without damage."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "All four earlier wounds continue to constrain work. The chapter adds no wound; the cart costs six marks, observation costs a travel day, and the traverse remains incomplete."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No rank or fragment advances. Human and vocational deltas are caused and legible: Cael performs paid cataloguing for the first time, the crew maps nine narrowings and two-thirds of the route, and Karis turns a day's observation plus the ford record into a qualified rule."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The job costs a six-mark cart, an observation day, a week north before payment, and continued work through four unresolved injuries. Knowledge is earned while exposed below the herd."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress becomes a physical map, safer route doctrine, clearer companion roles, and Cael's lived freedom. No System number carries the movement."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No extraordinary capability resolves conflict. Established bodily skill, mapping tools, scouting, and cart mechanics carry the traversal; the animal rule is taught before its Chapter 6 use."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague's crew returns from the autumn road and independently takes two hold contracts. Pike's board continues posting, holding, pricing, and entering work; Oxhollow posts its route need without waiting for the protagonists."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "Chapter 3 required a planned predator fight. Chapter 5 instead requires quiet measurement, load control on loose terrain, and inference about placid grazers; tactical, social, and emotional problems differ."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Ford wounds alter gait, load assignment, and rest. The ford's discharge-sense finding enables Karis's comparison, and Lira's earlier no-Wind performance becomes the method for testing the bench silently."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No Arbiter, declaration, fragment notice, or System display appears. The italicized entries are Cael's manually written Power Log."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System values display. The manual nine-plus-anomaly inventory, age eighteen, and one-deployment count match frozen state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The Power Log reads naturally aloud."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The in-world logs perform continuity, route, freedom, and false-security work."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The Tide-adjacent anomaly remains only 'one anomaly, patience.' Quiet ground remains an untouched rumor, and Karis separates observation from derived, untested inference."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No Path or fragment combination occurs."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank-bearing display, advancement, access question, or rank-priced transaction occurs; the board prices route value and demonstrated work."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No extraordinary capability resolves conflict; the chapter teaches a mechanism for later use."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No named ability is used. Lira explicitly avoids Wind because a burst would be a declaration."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The chapter chiefly extends the board, injuries, field archive, stillhound knowledge, companion competencies, and silence doctrine. Oxhollow and shale-backs are packet-authorized; no subsystem or faction is silently minted."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: take a paid, ground-only scouting job and produce a cart-trustworthy map. Closing progress: the traverse is two-thirds mapped, the map is good, the ledge is next, and Cael has lived the promised freedom while prematurely calling the job fightless."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The shale-back inference grows from Pike's warning, the ford finding, a full day of observation, and whole-herd movement after a plate slips. It is qualified as derived and precedes its Chapter 6 payoff."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The route event thread advances to a two-thirds map and identified ledge; the shale-back inquiry advances from warning to qualified mechanism. Neither is falsely closed before Chapter 6."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Long worldbuilding passages remain dominated by physical evidence: sliding shale plates, axle weight, cord-and-stone measurement, delayed echoes, lichen grinding, spacing, and the herd's body's-length movement."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a per-book process gate; the supplied evidence does not include a complete book revision log. The targeted r2 repair itself is cleanly separated and limited to its declared phrase task."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The non-combat traversal is nevertheless fully drawable and preserved as a strength."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs, so fight-tempo and peak-stative checks do not govern."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The non-combat action profiles remain assignable by running, mapping, cart control, scouting, and logging."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow occurs. Contract price, map trust, injuries, cart risk, and herd position precede the route set piece."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every open Chapter 3 injury appears in Chapter 5 in a state consistent with Chapter 4 and the ten-day seam: calf, forearm, ankle, and palms all persist or scar without silent healing."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The chapter's terrain problem is new in kind and prepares Chapter 6 rather than numerically escalating Chapter 3."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "The route's repeated miles are compressed, but the freedom movement, injury use, each companion's competence, shale-back introduction, day-long derivation, fourth-night log, ledge plant, and final choice are dramatized on the page. No major meaning is displaced into report."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. As a non-combat set piece, terrain is strongly load-bearing: the fan requires ropes, slope drives the cart, gorge returns sound, narrowings price wheels, and the upper bench determines herd danger."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "There is no stat advancement. Vocational growth is legible and paid for: nine measured narrowings, two-thirds of a map, and a derived rule cost time, exposure, money, and injured labor."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a per-arc major-win gate; no fight or sheet-bearing win occurs here."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague's crew independently returns, takes two hold contracts, and leaves again while the protagonists work elsewhere. The rival clock does not freeze."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Cael's progress is externalized through being paid to catalogue and producing a map a ford may trust. The board, not a System display, prices the work."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System or status box appears."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No scene is built around institutional unfairness. The board and contract operate materially rather than becoming a speech."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor is deployed under stakes in a way requiring a consequence ledger."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The observation day and the fourth- and fifth-night logs let Cael process freedom, work, injury, and premature confidence without banter or deflection."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The book's later reading-consent moral stake is not scheduled for this chapter; no new power or consent choice occurs."
+    }
+  ],
+  "findings": [],
+  "strengths": [
+    "SURVIVED: Worldbuilding is done through mechanism and use. Oxhollow first exists as a priced board need; the traverse is learned through a real cart, rope, axle, cord, paces, overhangs, injury accommodations, and delayed echo; the shale-backs become legible through grazing, spacing, a slipped plate, carter language, and a qualified field finding.",
+    "SURVIVED: The route is a memorably choreographed non-combat set piece with load-bearing terrain. The fan forces a rope haul, the sloping bench makes the cart drift, the gorge repeats sound, narrowing eight places a wheel a hand from the edge, and the upper shelf makes future flight a downhill mass. The local win is writable as: Brom removed the scree's ability to take the cart over the edge by keeping the load over the axle and countering the downhill pull with his body. The chapter correctly contains no fight.",
+    "SURVIVED: The shale-back teaching sequence is fair and memorable. Karis separates sound from declaration, observation from inference, and safety-biased derivation from proof; 'Same shape, upside down' pays the ford mechanism while preserving uncertainty before Chapter 6.",
+    "SURVIVED: Each companion's Chapter 4 want becomes useful work without recitation: Lira runs without Wind, Brom holds without Iron Skin, Karis creates the first local primary source and map, and Seln scouts without waiting to be asked. Cael's freedom is embodied by finally being paid to catalogue.",
+    "SURVIVED: Continuity remains exact and vocational. Cael's calf prices climbs, Brom's hand may hold but not pull, Lira's ankle requires repeated taping and has never seen a healer, and Karis's scars sit under the restored pen grip. The fragment inventory stays at nine plus anomaly with no declaration or deployment.",
+    "SURVIVED: Every packet prohibition remains honored: the ledge stays intact, the herd does not stampede, nobody fights or declares, no new injury occurs, no later companion or reveal leaks, Teague stays offstage, and the quiet-ground rumor remains untouched in the box. The repaired chapter adds no 'at the pitch' occurrence.",
+    "SURVIVED: Audio and production discipline remains strong. Every listed section 9 tic is within the declared Book 7 scope; metadata, summary-substitution, modern-register, feeling-declaration, and growth-declaration searches are clean; attribution runs remain within the audio cap; names pass the registry-by-ear check; and the Chapter 5 log close differs from Chapter 4's dialogue close.",
+    "SURVIVED: The final image-then-log lands the assigned false security. Lira tapes the untreated ankle, prices the ledge as her job, and Cael's exact final entry turns competence, silence, herd position, and the promised no-fight belief into the pressure Chapter 6 will break."
+  ],
+  "concerns": [
+    "The fourth-night and fifth-night logs deliberately repeat 'First honest job I've ever had that didn't have a fight at the end of it.' The packet requires the final wording and assigns the thought at both points, while the earlier entry explicitly notices the premature repetition. An audio listener may still hear reiteration more than deepening; this remains taste, not a finding.",
+    "Two repairs trade the prohibited tic for mild local self-echo: 'Pike entered it as a price gets entered' and 'sloping ... as a roof slopes.' Both preserve sense and occur once, so neither violates a gate, but a later human line/audio pass may prefer less cognate repetition."
+  ]
+}

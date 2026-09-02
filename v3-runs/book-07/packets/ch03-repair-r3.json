@@ -1,0 +1,174 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch03",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 3 card)",
+    "state": "state-b7-post-ch02 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "combat",
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine fragments + the anomaly. Party is FIVE: Cael, Lira, Brom, Karis, Seln.",
+      "Nobody has heard of quiet ground / the Quiet / the Quieting; the phrase must not appear. No Oryn, no healer, no Tide anywhere (Thornwater has NO healer; the steading's woman binds wounds).",
+      "Before this chapter the party knows the road etiquette as practice and the carters' word 'stillhound'; they do NOT yet know the animal's sense. In THIS chapter Karis derives it from the carters' lore plus Chapter 1's observations: stillhounds hunt Path discharge (they sense declarations the way a hound smells blood), are nearly blind to a still body, and water masks discharge — which is why the pack holds the ford. This is a finding made on the page, in her voice, from evidence; it is not narrator exposition and it is not certain until the fight confirms it.",
+      "Teague's crew is three days away on a hold contract; Cael has never spoken to Teague. Pike priced this job for Teague's crew.",
+      "Cael knows nobody goes west (Chapter 2) and does not revisit it."
+    ]
+  },
+  "purpose": "Stage the first clearance contract as the book's first full choreography, built to make the edge territories' rules physical: a stillhound pack holding Thornwater's ford, a preparation movement that runs the series' study discipline on an animal for the first time, and a fight whose winning idea is the banking doctrine inverted into a weapon — bait the pack WITH one declaration and kill it with everything that isn't one. Terrain must cause at least two beats (knee-deep water over slick stone, a mid-river gravel bar, the current, submerged footing). Every injury persists into Chapter 4. Pike's ledger line arrives as the third-party verdict, and Cael writes beneath it that the honest number says four of five got hurt.",
+  "scene_shape": {
+    "opening_state": "Lowmarch. Thornwater's steading posts a clearance contract: a stillhound pack has taken the ford below the hold and killed two carters in a month. Pike's board priced the job for Teague's crew; Teague's crew is three days away on a hold contract; the steading cannot wait. The five take it at a price Pike enters with visible reservation.",
+    "pov_goal": "Clear the ford without losing anyone, and learn how to fight an animal that hunts Paths — by studying it first the way Cael studied every fighter he ever beat.",
+    "opposition": "Seven stillhounds that live IN the river (the water hides them), hunt at dusk, sense declarations, are nearly blind to still bodies, and have a geometry — there is always a dog positioned to cut the road, and it is never the one you see (Seln's contribution).",
+    "turn": "Preparation: what the carters know, what Karis derives (discharge-sense; water masks it — 'the ford is theirs because the river hides THEM'), what Seln adds (the cut-dog). Cael's plan: bait with one declaration and kill with everything that isn't one. Dusk, the ford: Karis on the gravel bar ignites a single lattice-point, once, loud — and the pack comes out of the water on three sides. FIRST exchange: the cut behind Brom; Brom learns in one contact that Iron Skin amplification is a declaration and every dog turns toward it; he stops declaring and prices the dog with his shoulder and the current — a hound in knee-deep water cannot set its hindquarters; a man who planted his feet on a submerged stone he found on purpose can. SECOND: Lira on the bar, running — no bursts, a burst is a shout — discovering the not-holding-back style without Wind is a style she has never used and is fast anyway. THIRD: the hounds adapt as animals adapt — ignoring silent bodies, converging on Karis, the only thing still making noise on purpose; she holds the bar with a knife and the lattice she is NOT lighting; the chapter gives her the fear honestly.",
+    "choice": "FOURTH: Cael — nine fragments held to nothing, the observation running at full depth on seven animals at once — sees that the pack breaks toward whichever hound moves first, and moves first: one Wind-adjacent burst, spent openly, the loudest thing on the river, AWAY from Karis. Every dog turns. Seln, in no sightline for four exchanges, is standing behind the lead hound when it turns, and the pack loses its geometry at the instant it loses its leader.",
+    "outcome": "The unit finishes it with steel in the shallows. Five dead, two gone downstream. Nobody uninjured: Brom's forearm opened to the bone by a hound that got past a shoulder; Lira's ankle turned on the bar; Karis's hands cut by her own knife; Cael's burst paid in the usual currency plus a bite through the calf he did not feel until the water went cold. No healer at Thornwater; the steading's woman binds what she can. Win sentence, legible in the prose: Cael took away the pack's ability to keep its leader-led geometry by being the first mover, and Seln took the leader.",
+    "closing_state": "One log line mid-aftermath for the seal the book keeps: Seln did the shadow work tonight; Cael didn't — 'Out here there's a ledger and a ferry west once a month, and a defector's tradecraft in my hands would tell anyone who reads carefully where I learned it. The seal holds. Different country, same arithmetic.' Then the chapter closes on Pike's ledger entry arriving by carter — 'Stillhound pack, Thornwater ford: cleared. Five confirmed. Crew of five, four injured, none lost. Price paid.' — and Cael's line beneath the copy: 'First honest number anyone's written about us in a year. It says four of five got hurt. It's right.' (The previous chapter ended on an image; this one ends on the copied ledger line plus his written line.)"
+  },
+  "obligations": {
+    "must_include": [
+      "Preparation movement rendered in scene (not summary): the carters' lore, Karis's derivation of the discharge-sense and the water-masking, Seln's cut-dog geometry, Cael's bait-with-one-declaration plan. Karis's finding is hers, stated as hypothesis before the fight and confirmed by it.",
+      "Terrain first and load-bearing: knee-deep water over slick stone, the mid-river gravel bar, the bank's scrub at forty meters, the current pulling downstream; at least two beats are CAUSED by terrain (the submerged stone Brom planted on; the hounds hidden in the river; the bar Lira runs).",
+      "Four exchanges as staged in scene_shape, geography drawable at every pause (who stands where, distances when they matter).",
+      "Karis lights exactly one lattice-point as bait at the start and does NOT light again; Brom stops declaring after one contact; Lira uses no Wind at all; Cael deploys exactly one Wind-adjacent burst and nothing else; Seln's Shadow Path does the unseen work (Cael's Shadow-adjacent is NOT used — the seal).",
+      "The pack is seven; five die, two go downstream. Costs stated on the page and persisting: Brom's forearm to the bone; Lira's ankle turned; Karis's hands cut by her own knife; Cael's calf bitten through (felt only when the water went cold) plus the burst's usual cost. No healer at Thornwater; bound by the steading's woman.",
+      "The seal log line (content as in closing_state) placed mid-aftermath, not at the end.",
+      "The chapter ENDS on Pike's copied ledger line (verbatim as given) and Cael's one sentence beneath it — not on a plain Power Log entry, not on an image.",
+      "Third-party verdict specific to the observer's competence: the steading's woman or the carter notices something a non-fighter would notice; Pike's line prices outcome.",
+      "Manuscript format: H1 '# Chapter 3 — The Ford', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Stillhounds hunt declarations and are near-blind to still bodies (Karis's finding, confirmed) — load-bearing for Chapters 10–11 (they den in quiet ground because prey cannot declare) and for the traverse (shale-backs share the sense with the opposite response, Chapter 5).",
+      "The bait-with-one-declaration tactic — Chapter 11 inverts it (Cael as the only declaration, leading the pack OUT).",
+      "Brom's discovery that Iron Skin amplification is a declaration; Lira's discovery that she is fast without Wind (her Chapter 4 want).",
+      "The seal restated once: Shadow-adjacent stays unused where any witness or courier chain could attribute it."
+    ],
+    "payoffs": [
+      "Chapter 1's five-item catalogue (tracks the loudest sound; never crosses open ground) pays as tactical data.",
+      "Pike's ledger (Chapter 2) produces the chapter's verdict line."
+    ],
+    "prohibited_outcomes": [
+      "No healer, no Oryn, no Tide. No quiet ground / Quieting / ruins / survey stakes.",
+      "No fragment use by Cael except the single Wind-adjacent burst; no Shadow-adjacent; no Storm, Anchor, Ember, Compression, Iron read used as a declaration (the Iron-adjacent surface read may be described as WANTING to run and being held, as in Chapter 1).",
+      "Nobody dies; nobody loses a limb; no injuries beyond those listed; injuries do not resolve in this chapter.",
+      "Teague and his crew do not appear (three days away).",
+      "No new named characters or places (the steading's woman and carter stay unnamed); no new fauna names.",
+      "The stillhounds do not speak, think, or carry a Path; they are animals.",
+      "The chapter does not end on a plain log entry or an image; it ends on the ledger line and Cael's sentence.",
+      "No modern idiom; no feeling/growth declarations; tic caps per VOICE_CHARTER §9; no metadata."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Sensory and tactical detail of the ford, the river, the bar, the bank, dusk light, water temperature, footing; the hounds' bodies and behavior consistent with Chapter 1 and the derived sense (they may show learned adaptation as animals do).",
+      "Exchange-level choreography beyond the four mandated beats so long as the four occur in order with the stated results.",
+      "Dialogue in established voices, including Karis's hypothesis in her method-register and Seln's geometry in one or two flat sentences.",
+      "The steading's woman's competence (binding, boiled cloth) and the carter's manner; a fee detail; the walk from Lowmarch compressed in summary."
+    ],
+    "approval_required": [
+      "Any new named entity; any new fact about stillhound biology beyond the discharge-sense, water-masking, near-blindness to stillness, pack geometry, and dusk hunting; any new fragment mechanics or costs."
+    ],
+    "forbidden": [
+      "New powers/fragments; additional fragment use; Shadow-adjacent use; any Part 2 knowledge; deaths; a log-entry or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 2 as drafted — the immediate seam",
+      "path": "v3-runs/book-07/drafts/ch02.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Chapter 1 as drafted and editor-passed — the dusk walk the fight pays off (the five catalogue items)",
+      "path": "v3-runs/book-07/drafts/ch01.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r2)",
+      "path": "v3-runs/book-07/drafts/ch03-r2.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH03-003",
+      "severity": "HIGH",
+      "gate": "authority.canon_timeline_state",
+      "evidence": "r2 line 3 asserted 'gone two days' at what reads as the day-fifty first light; fight log 'Fifty-third day'.",
+      "consequence": "Seam/date contradiction with Chapter 2 (day 49) and the ford date.",
+      "repair_target": "Open on day fifty-one; Teague gone since day fifty's dawn; ford stays day fifty-three."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch03.md",
+    "report_path": "v3-runs/book-07/reports/ch03-author-r3.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch03-editor-r3.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch03-verifier-r3.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

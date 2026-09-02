@@ -1,0 +1,150 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch09",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 9 card)",
+    "state": "state-b7-post-ch08 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine + anomaly. Party FIVE leaving Lowmarch; SIX from Thornwater when Oryn joins the walk east (she is adding the crew to her route as a stop; she is not 'joining the crew'). Cael's ribs and calf knitted enough to walk two days.",
+      "Known: Pike's folklore of quiet ground (the sigil sleeps; carters walk around; stillhounds live in it; nobody goes in twice; 'your Arbiter tells you — it stops'). NOT known: the perimeter's size or shape, the fused stone, the survey stakes, any theory. The word 'Quieting' does not exist yet (Karis coins it in Chapter 15).",
+      "Two letters arrive on the last ferry and are carried on the walk; their texts are fixed (must_include): Ephram's from Halcenvane and Vell's from Ardenmere. NOTE: the name registry's dispositions slate 'Halcenvane' and 'Bracken' for rename before Book 2's audio; use them as they stand in Books 4–6 (no rename has executed) — 'Halcenvane', 'Bracken', 'Withrow', 'Rooke' as in the letter text.",
+      "Oryn's two reasons for coming (in her words): a patient she wants to read whole and still, which needs a day of him not fighting anything; and the carters' claim that a healer's hands stop working on quiet ground, which she has never been able to check — 'I'd like to know if that's true before somebody bleeds on the wrong side of it.' She has walked past the Fallow Ring's line on the void road eleven times in two years and never stepped off the road.",
+      "At the line: every Arbiter in the party goes silent at the same stride except Cael's, which has been dark since his Kindling and does not change. Cael feels NOTHING change either direction and SAYS NOTHING (the bible's 'he doesn't mention this immediately' begins here). Lira: 'It's like the air got thick.' Brom: 'Like a door closing behind me.' Karis: 'My Arbiter's gone.' Seln: 'Back up. Ten paces. Tell me when it comes back.' Oryn stops with her hands half-raised and says nothing. Karis marks the line with a stone. Nobody crosses it in this chapter; nobody measures it (Chapter 10)."
+    ]
+  },
+  "purpose": "The approach: two days east on a road the Compact draws as a dashed line ending in nothing — the title's first meaning on the page (Cael's void-style map against a carter's hand-copied map with three circles) — Oryn joining the walk at Thornwater as a stop on her route, two letters from inside carried east, and the road's last mile turning in the body before the mind: every Arbiter in the party stopping at a line Karis can mark with a rock, and Cael's not, and Cael saying nothing.",
+  "scene_shape": {
+    "opening_state": "Leaving Lowmarch on the Fallow road with the recovery contract; Cael walking with the Compact-style map open, cataloguing the difference between the ink (dashes ending in nothing) and the ground (a road, real, rutted, used); Karis with the carter's copy on which the same road runs solid and bends three times around blanks drawn as circles. 'Their map has no roads. His has no quiet ground. Between them you get the country.'",
+    "pov_goal": "Reach the Fallow Ring; read Oryn's reasons; find the line Pike said his Arbiter would tell him about — and learn what his Arbiter, dark for four years, will tell him.",
+    "opposition": "The letters' weight (the inside still writing); Oryn's route-arithmetic (she is spending days she owes elsewhere); and the line itself.",
+    "turn": "Thornwater on the ninth day: Oryn at the gate with her mule, as promised; her two reasons; six on the road, the sixth chair walking with the five for the first time and the book not underlining it. Ephram's letter and Vell's letter read on the walk (texts fixed). The last mile: the carter's-map bend, the ground rising to a low ridge, scrub thinning — and the sensations, each described differently: Lira, Brom, Oryn (hands half-raised, silent), Karis ('My Arbiter's gone'). Seln's procedure: back up ten paces, tell me when it comes back. It comes back at a line Karis marks with a stone.",
+    "choice": "Cael, who backed up with them and felt nothing change either direction, says nothing — and writes the reason he says nothing in the log: he does not know what it means and nobody asked.",
+    "outcome": "The stone at the line; past it, in the failing light, a ring of broken uprights on a floor that catches the last sun like water. The log, written at the stone, mid-chapter: 'Quiet ground. Karis's Arbiter stopped at a line she can mark with a rock. So did Lira's, Brom's, Seln's, Oryn's — same line, same step. Mine didn't. Mine's been stopped since I was fourteen. I don't know what that means. Nobody asked. Tomorrow we go in.'",
+    "closing_state": "The chapter ENDS ON AN IMAGE: the stone at the line, the ridge, the ring of broken uprights on a floor catching the last sun like water — and Oryn, at the line, lowering her hands."
+  },
+  "obligations": {
+    "must_include": [
+      "The two maps as objects and the void-roads convention shown through Cael's cataloguing (dashes ending in nothing versus ruts; the carter's three circles); Karis's line about the two maps verbatim.",
+      "Oryn at Thornwater's gate on the ninth day; her two reasons in her register (the still-and-whole patient; the carters' claim about a healer's hands, 'before somebody bleeds on the wrong side of it'); her eleven times past the line; six on the road; the crew added to her route, not the reverse.",
+      "Ephram's letter, in full: the Crown yard's new cohort captain; Withrow's tenure holding; a registry query about 'former enrollees' last known direction of travel' answered by Bracken with a map reference to the Line and nothing past it — 'which is true, and which Bracken enjoyed being true'; and the line Cael reads three times: 'Rooke says the yard's quieter. He didn't say it was worse. He also didn't say it wasn't.' (Compose the letter in Ephram's own register around these fixed facts and the fixed final line.)",
+      "Vell's letter, verbatim: 'Filed with your record. It reads: left in good standing, undefeated on paper. I've kept this ledger forty years and never had a line like it. The session still stands. The road still runs through Ardenmere. — V.'",
+      "The last mile staged in the body before the mind: the four spoken reactions verbatim (Lira, Brom, Karis; Seln's procedure), Oryn's silent half-raised hands, the ten paces back, the stone.",
+      "Cael feels nothing change and says nothing; the mid-chapter log entry verbatim.",
+      "The chapter ENDS on the image (the ring in the last light; Oryn lowering her hands) — not on the log (the previous chapter ended on the log).",
+      "Manuscript format: H1 '# Chapter 9 — The Void Road', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Every Arbiter fails at the same stride the same way (Book 9 plant, observed, not interpreted).",
+      "Cael's Arbiter unchanged because it was already dark (Book 9 plant; his silence begins).",
+      "Oryn's hands — the healer's claim to be checked (Chapter 10 trial, Chapter 11 crisis).",
+      "'Tomorrow we go in.'"
+    ],
+    "payoffs": [
+      "Pike's 'Your Arbiter tells you. It stops.' paid at the stride.",
+      "Chapter 7's 'Thornwater in nine days' paid at the gate."
+    ],
+    "prohibited_outcomes": [
+      "Nobody crosses the line; nobody measures it; no fused stone described beyond 'a floor that catches the last sun like water'; no stakes; no 'Quieting'; no theory from anyone.",
+      "Cael does not tell anyone his Arbiter did not change; nobody asks.",
+      "No fight; no fragment use; no stillhounds seen (the den is Chapter 10).",
+      "No Teague; no Vastin.",
+      "No new named people or places; Ephram's letter may reference Halcenvane, Withrow, Bracken, Rooke only.",
+      "The chapter does not end on a log entry or dialogue.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The road east in sensory detail (ruts, scrub, the ridge, failing light); Thornwater's gate; the ferry's mail; Oryn's manner walking (economical, sure-footed, never fast); the letters' paper and hands.",
+      "Ephram's letter composed in his register around the fixed facts; Cael's reactions.",
+      "Dialogue in established voices; Cael's interior cataloguing; the log entry at the stone."
+    ],
+    "approval_required": [
+      "Any new named entity; any fact about the site beyond what is visible from the line at dusk; any Arbiter behavior beyond 'gone at the stride, back at the stride'."
+    ],
+    "forbidden": [
+      "Crossing the line; measuring; theory; disclosure by Cael; fights; fragment use; a log or dialogue ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 8 as drafted — the immediate seam (the contract, Pike's folklore, the council)",
+      "path": "v3-runs/book-07/drafts/ch08.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch09.md",
+    "report_path": "v3-runs/book-07/reports/ch09-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch09-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch09-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

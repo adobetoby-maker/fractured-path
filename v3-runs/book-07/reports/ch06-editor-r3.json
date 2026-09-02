@@ -1,0 +1,362 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch06-r3-editor",
+  "scene_id": "b7-ch06",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "revision.verified_finding_recheck",
+      "state": "PASS",
+      "evidence": "The sole VERIFIED r2 finding, ed-b7-ch06-003, is repaired. Actual wc -w is 5,264 versus 5,414 for ch06-r2.md: 150 words removed, satisfying the packet's at-least-140-word cut, the 5,270 repair target, and the 5,290 ceiling. The compressed waiting-day passage still reads, exactly, 'The next day was the one the mountain kept.' and 'The third morning came up grey, and the sound of the gorge came up with it.' The earlier audio repair also survives exactly: 'On assessors' faces at Ardenmere and at Greyvane, and on a panel in the academy above Ostrand, from the outside, over a page with his name on it and a bracket after it.'"
+    },
+    {
+      "gate": "revision.scope_and_strength_preservation",
+      "state": "PASS",
+      "evidence": "A direct r2-to-r3 word diff changes 45 existing lines, keeps the same 265-line structure, and contains only sentence-level deletion, substitution, or consolidation for density. No event, exchange, injury, chronology marker, character fact, named entity, paragraph function, or section break was added or removed. Extracting every double-quoted string from both files produces an identical sequence, so all dialogue, including every required Oryn line, Cael's 'Yes,' and the closing finding, is unchanged. The exact log remains: 'Eightieth day. Lira's leg is straight. The boxes are ours. The cart is in the gorge. A healer came up the road because a carter said we were late.' Every strength recorded in the r2 report survives; only its length defect changed, and it is now repaired."
+    },
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "Collapse day seventy-eight, the intervening day, and Oryn's third-morning/day-eighty arrival remain explicit and mutually consistent. Cael is eighteen, has nine confirmed fragments plus one anomaly, and the party remains five until Oryn arrives. No SECRET or later-book knowledge leaks."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close-third past remains limited to Cael's perception and inference. Oryn is introduced through what he sees her hands do and what she says; there is no Oryn viewpoint or omniscient account of Tide."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "All assigned beats remain in scene: collapse; Lira's own full Wind declaration; downhill herd; Seln's fin; Brom's cart arithmetic; Karis's eight-second line; Brom's two boxes and Cael's third; exact injuries and cart loss; Lira's causal knowledge; the staged waiting day; Oryn's third-morning arrival, treatment order, visible cost, failed reading, pre-reading log, and dialogue ending. Chapter 4 healer scarcity and Chapter 5's ledge/herd rule are paid."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "No prohibited outcome occurs. Nobody dies; Cael uses no fragment and Oryn does not heal him; Shadow is absent; Oryn performs no deep reading, learns nothing about fragments, gives no route exposition, receives no POV, and does not join. Quiet ground, Quieting, survey stakes, Teague, letters, Vastin, and new named entities are absent. The chapter does not end on a log or image. 'At the pitch' and 'at that pitch' return zero in this draft."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The trained Wind declaration saves Lira and triggers the herd under the prior chapter's rule; unstable slope converts flight into descent; the fin creates refuge; Karis's established lattice takes away the herd's straight line; Cael's restraint explains the raw impact. Oryn arrives because a carter independently reports the herd and overdue crew."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Every inherited injury persists on the correct owner and side: Lira's taped right ankle turns again; Brom's bound right forearm reopens when he pulls; Cael's mostly closed right calf reopens; Karis's palms remain scarred. New costs persist through inventory, waiting, and triage."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The traverse becomes uncrossable by cart, the archive is saved, the cart and food are lost, injuries and obligations change, and Oryn enters as a professional unable to read Cael. Lira moves from reflexive survival through owned causation without melodramatic absolution."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "No influence author is named or imitated. The prose remains in the series' catalogue, ledger, procedural-emotion, material-arithmetic, and dry professional registers."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael counts thirty animals, distances, seconds, herd halves, ribs, people, boxes, supplies, and injuries. The Power Log is plain first-person diegetic writing. Seln chooses ground, Brom prices loads, Karis derives and applies mechanism, Lira owns cause, and Oryn triages and diagnoses."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Worldbuilding is delivered through cart width, unstable shale, lee, rope, map verdict, rationing, splints, wet tape, healer scarcity, declaration-sensitive herd behavior, and Tide's contact, reserve, time, and inability to self-heal. No dossier replaces use."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "Oryn, Oxhollow, Tide, Iron rank four, mule, kit, carter report, two years on the roads, contact reading, mending, finite reserve, and inability to self-heal are packet-authorized. Fin, lip, fan, and bulge are descriptive terrain. No deep-reading theory, Quieting knowledge, fragment explanation, or unapproved proper noun appears."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 review of every multi-party exchange finds no run over four unattributed lines; the maximum is two once direct address and adjacent action are counted. Compression removed no dialogue or speaker cue. The log, Path references, and final emphasis remain intelligible when formatting is stripped."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Names heard are Cael, Lira, Brom, Karis, Seln, Reydan, Oryn, Thornwater, Oxhollow, Lowmarch, Ardenmere, Greyvane, and Ostrand. Each is registry-established or accepted and distinguishable by onset, stress, syllable count, and ending. Oryn/Orvet/Ostrand and Oryn/Oxhollow remain distinct at audiobook speed; the rejected Greyvane/Halcenvane co-occurrence remains absent."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Scope: v3-runs/book-07/drafts/ch06.md. wc -w = 5,264, inside the declared 3,910-5,290 range and at or below the repair target of 5,270. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns zero; the section 10 summary-substitution grep returns zero. H1 is exactly '# Chapter 6 — Shale'; there are eight standalone section breaks; the file ends on prose."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 6 counts: jaw tightened 0; laughed once 0; without humor 0; stomach tightened 0; stomach dropped 0; There it was 0; That was true 0; Also true 0; sounded almost 0; held this 0; which was, in its own way 0; standalone '[Name] noticed.' 0. Book-to-Chapter-6 counts are respectively 0,0,0,0,0,1,0,0,0,0,0,0. Chapter 6 also has 0 single-word prose paragraphs, 0 'the way you/he/she [verb]' constructions, 5 em dashes, 0 modern-register hits, 0 feeling declarations, 0 growth declarations, and 0 summary-substitution hits. 'Went still' occurs four times, always as the packet-planned procedural cue for Oryn's contact reading rather than a generic beat; its repeated mechanism function is established before use. 'At the pitch/at that pitch' is 0 in Chapter 6 and remains 10 book-to-date."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 5 ends on an italicized Power Log entry ending 'Sleep.' Chapter 6 ends on Oryn's spoken line, 'That's not an answer,' Oryn said. 'That's a finding.' The adjacent final-beat types differ: log versus dialogue."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Inventory remains nine confirmed fragments plus one anomaly. Compression and Anchor only want; Cael holds both and takes the shoulder raw; Shadow is not named or used. Prior wounds retain owner and side. Lira's right lower-leg fracture is mended but her right ankle is not; Brom's right wrist is mended; Karis is empty, not injured; Cael's three left ribs and reopened right calf remain unhealed."
+    },
+    {
+      "gate": "state.party_headcount",
+      "state": "PASS",
+      "evidence": "The inventory explicitly counts 'Five. Two of them could stand.' before Oryn's arrival: Cael, Lira, Brom, Karis, Seln. Oryn is the sixth person present afterward, but her crew status is not declared and she does not join."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "PASS",
+      "evidence": "Five lives, the paid route, cart, three archive boxes, injured ankle, herd above, unstable ledge, and gorge below are established before the collapse and decisive exchanges."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "PASS",
+      "evidence": "The ledge and cart are forward, the fin is forty paces back at the inner edge, the upper shelf is two hundred meters above, and the gorge is down-slope. Lattice, refuge, herd halves, retrieval path, and impact point stay drawable at every pause."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "Lira's damaged ankle affects landing and escape; Brom's prohibited pull reopens his wrist; Karis's road-sized lattice empties her in eight seconds; Cael withholds contact-range defenses because another declaration could redirect the herd; slope, shale, armor, and momentum cause the impacts."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "PASS",
+      "evidence": "Seln owns positioning, Brom geometry and load, Karis rule-driven ignition, Lira trained Wind reflex, and Cael capability pricing plus restraint. Their action beats remain reassignable with names masked."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "PASS",
+      "evidence": "Karis lights a line the herd must turn from, so the herd splits around the fin. Cael then holds Compression and Anchor because another declaration could turn the second half toward the refuge, so he takes the shoulder raw while preserving the third box and the split."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "PASS",
+      "evidence": "The set piece saves the archive, destroys the cart, proves the traverse cannot carry carts, pays the shale-back rule, changes trust and obligation, and creates the conditions of Oryn's arrival."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "Lira's fracture and ankle, Brom's wrist, Karis's depletion, Cael's ribs and calf, the lost boot, food, cart, and route remain explicit through inventory, waiting day, and triage. Oryn's expenditure persists across patients."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No rank or fragment advancement is claimed. Human and tactical deltas have causes: Karis's derived rule becomes field doctrine, the archive is preserved at cost, and Cael prioritizes collective survival over using available power."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Wind saves Lira but triggers the herd; Karis's line empties her; the boxes cost ribs and a reopened wrist; the route costs cart and food; Tide drains Oryn and leaves Lira's lesser ankle untreated."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress changes route knowledge, possessions, trust, responsibility, prognosis, and the party's relationship to a new professional. No number substitutes for those changes."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "The herd response is taught in Chapter 5 and Karis's Ember lattice is established. Tide does not decide the stampede; its authorized first use addresses medical consequences while showing its limits and cost."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague is prohibited and absent, but the carter network acts independently: a carter sees the herd, reports the overdue crew at Oxhollow, and Oryn responds from her own route."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "Chapter 3's ford required fighting Path-hunting predators in water. Chapter 6 is timing and placement against unstable terrain and fleeing grazers, followed by triage and an unreadable patient."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Ford injuries change this crisis; Chapter 5's herd study produces the solution; the new setback establishes Tide's civil limits and Cael's unreadability instead of repeating damage without movement."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No Arbiter display, declaration block, fragment notice, or status box appears. The italicized passage is Cael's handwritten log."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System values display. The manual inventory nevertheless matches age eighteen, nine fragments plus one anomaly, and no deployment."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. Path names and the Power Log are speakable without describing punctuation."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The handwritten log records the assigned cost state before Oryn reaches Cael."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The anomaly remains unnamed and unexplained. Oryn reports only that she cannot feel or read Cael; fragments, deep reading, Quieting, and the cause of the failure remain withheld."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fragment combination or integration occurs. Karis applies established Ember lattice practice to an established animal response."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "Seln asks Oryn's tier as a professional credential during triage. 'Iron. Four' calibrates civil medical trust, expected capability, and reserve rather than combat damage."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "Karis's herd redirection traces to Chapter 5's observed and derived declaration-flight rule. Oryn's authorized first-use wonder carries contact, reserve, and self-healing limits in the same scene."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Wind's danger is established and paid; Ember drains Karis; Tide requires contact, spends reserve, cannot restore spent Ember, and cannot heal Oryn herself."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The chapter primarily extends established terrain, herd behavior, abilities, wounds, boxes, route work, and healer scarcity. Oryn and Tide are authorized additions; no extra faction, place, subsystem, or ability is minted."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: test the ledge while the herd closes. Delivery: terrain defeats the route, the crew survives and saves the archive at measured cost, Tide repairs only part of the damage, and the failed reading creates new pressure."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The ledge and herd are planted in Chapter 5; declaration response is derived there before resolving this crisis; healer scarcity is established in Chapter 4; Cael's unreadable assessments precede Oryn's failed reading."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The route event closes with a definitive no-cart state; healer scarcity receives intervention without erased cost; Oryn's failed reading opens the assigned inquiry without false resolution."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Long worldbuilding passages are dominated by plates, gorge echo, armor at arm's length, splints, heat, swelling, grey skin, and hands on injuries rather than abstract explanation."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a chapter-level targeted compression run, not the per-book three-pass audit. Within supplied scope, the declared compression job remains separate and the diff performs density work only."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "PASS",
+      "evidence": "The action sketches cleanly: ledge and cart forward, fin forty paces back at inner edge, gorge down-slope, herd two hundred meters above, lattice above the fin, herd halves on both sides."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "PASS",
+      "evidence": "Long accumulation lands on short turns: 'She took two strides.'; 'The herd hit it and split.'; 'He held. He took it raw.' Active physical verbs dominate the peak and cadence expands again for aftermath and healing."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "PASS",
+      "evidence": "With names removed, ground selection, geometry/load work, lattice inference, trained Wind reflex, and fragment restraint remain assignable to Seln, Brom, Karis, Lira, and Cael respectively."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "PASS",
+      "evidence": "Party survival, paid map, cart, archive, damaged ankle, herd, and gorge precede the collapse and first decisive exchange."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "All four prior injuries recur; every new wound or exhaustion state persists through aftermath, waiting, and triage. Oryn resolves only Lira's fracture and Brom's wrist."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "PASS",
+      "evidence": "Unlike the ford's predator problem, this set piece has no opponent to overpower: unstable downhill terrain, declaration-sensitive grazers, one refuge, a split line, and seconds to place bodies and boxes."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Collapse, four exchanges, injury inventory, Tide healing, and failed reading remain fully dramatized. Summary carries only elapsed waiting, rationing, route danger, and persistent symptoms. The r2-to-r3 compression removes 150 words without displacing meaning."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "PASS",
+      "evidence": "At least five beats depend causally on terrain: ledge collapse, upper shelf shedding and downhill flight, fin-created lee and split, loose shale floating the cart, and a moving plate breaking Lira's leg."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "No stat delta is claimed. Tactical and relational growth appears through Karis's successful inference and the group's deliberate archive rescue; the bill is depletion, fractures, reopened wounds, cart, food, and route failure."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This per-arc gate concerns a major win against a better visible number; the herd has no ranked opponent or sheet comparison."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No protagonist advancement triggers a rival-motion checkpoint, and the packet prohibits Teague here."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Progress and failure are externally legible through the saved archive, destroyed cart, unusable traverse, and Oryn's professional verdict. Her rank changes noncombat medical trust."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System/status box appears. Cael visibly writes and closes the Power Log in scene."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No institutional-critique speech occurs. Healer scarcity functions materially as delay, route danger, rationing, and triage pressure."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor is deployed under stakes. Oryn's dry lines are clinical boundaries, not tension-erasing jokes."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The injury inventory, Lira's ordered responsibility, two nights and intervening day, and Cael's response to the failed reading process cost without banter or deflection."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The later reading-consent stake is not scheduled here. Oryn's surface-reading failure plants the thread without Cael acquiring or using it."
+    }
+  ],
+  "findings": [],
+  "strengths": [
+    "The VERIFIED r2 length finding is closed with direct receipts: 5,414 to 5,264 words, a 150-word cut. The staged waiting day and 'third morning' chronology remain quoted on the page, and the prior Greyvane/Halcenvane repair remains 'the academy above Ostrand.'",
+    "The compression is disciplined. The files remain 265 lines; all eight section breaks, exact H1, exact ending, and every double-quoted string are identical. Every modified line is a density edit inside an existing passage; no unrelated story passage changed.",
+    "Yes: worldbuilding is done through mechanism and use. The mountain is explained by cart width, plate failure, slope, lee, rope, rationing, wet tape, splints, and the altered map; shale-backs by declaration response and footing; Tide by contact, triage, time, finite reserve, and hard limits.",
+    "Yes: the set piece is memorably choreographed and terrain is load-bearing. The ledge creates the crisis, upper shelf and slope convert flight into descent, the fin creates refuge and the split, loose shale takes the cart, and a moving plate breaks Lira's leg. Win sentence: Karis removed the herd's ability to run straight through the refuge by lighting a line it had to turn from.",
+    "The four exchanges remain exceptionally legible under speed: Seln selects ground, Brom prices the cart, Karis changes the herd's line, and Brom/Cael return for the archive. Every exchange changes position, resource, injury, or knowledge.",
+    "The found-family choice still has receipts instead of sentiment. 'It was the stupid thing, done on purpose, by people who did it for each other' is paid through Brom's wrist, Cael's ribs and calf, the cart and food, with all three boxes intact.",
+    "Lira's responsibility beat remains controlled and honest. Karis restores causal order without absolution; Lira accepts the second cause once; nobody converts guilt into reassurance or melodrama.",
+    "Oryn remains distinct on arrival: hands first, triage before identity, ranked diagnosis, comparative readings, reserve accounting, blunt boundaries, and no awe. The staged day keeps her arrival earned rather than convenient.",
+    "Tide's first use preserves fairness and wonder together: contact is mandatory, mending spends Oryn, she cannot heal herself or refill spent Ember, the ankle remains untreated, and the surface reading can find broken ribs while failing beneath them.",
+    "The fragment and injury ledger remains exact against the post-Chapter-5 snapshot and Chapter 5: nine fragments plus anomaly, no deployment, correct owners and sides, every new cost inventoried, and every healing or refusal shown.",
+    "All prohibited outcomes remain absent; section 9 counts remain under cap; metadata and summary greps are clean; names remain aurally distinct; attribution runs are audio-safe; and the dialogue close differs from Chapter 5's log close."
+  ],
+  "concerns": [
+    "Taste only: the formal injury inventory and Oryn's patient-by-patient readings deliberately restate physical state for continuity and comparison, but an audio listener may still feel the deceleration before Cael's reading.",
+    "Taste only: the waiting day remains a dense single paragraph carrying route danger, rationing, Karis's depletion, Lira's worsening leg, and Cael's counting. The compression improves it, but its cumulative load is still audible.",
+    "Taste only: 'went still' occurs four times in Oryn's diagnostic sequence. It functions as a planned procedural refrain for contact readings rather than a generic beat tic, but a future audio line pass may prefer slightly more surface variation if the mechanism stays equally clear."
+  ]
+}

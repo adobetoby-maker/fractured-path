@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch04-verifier-r1",
+  "scene_id": "b7-ch04",
+  "editor_run_id": "b7-ch04-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch04-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "grep -oi 'at the pitch' v3-runs/book-07/drafts/ch0[1-4].md \u2192 1/3/6 (ch02/ch03/ch04), 10 total",
+        "craft/VOICE_CHARTER.md \u00a79 (any somatic/beat phrase >3 per book is a defect; the count transfers to replacements)"
+      ],
+      "reason": "Verified LOW. Per the completion loop, scene closes with no blocker/high open; the repair is scheduled for the book-level line-edit pass (one pass after voice locks) rather than a per-scene author run, because the phrase is distributed across three chapters and the cap is per book. Guardrails added now: 'at the pitch' appended to the loop's tic gate and to every remaining packet's prohibited_outcomes."
+    }
+  ]
+}

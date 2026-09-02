@@ -1,0 +1,19 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch02-verifier-r1",
+  "scene_id": "b7-ch02",
+  "editor_run_id": "b7-ch02-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch02-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch02-r1.md:171",
+        "v3-runs/book-07/drafts/ch02-r1.md:219",
+        "v3-runs/book-07/packets/ch02.json (must_include: 'Then the map turned east. Not revisited.')"
+      ],
+      "reason": "Line 219 of the r1 draft restates the Line exchange (participants, answer, correction, map turned east) inside the closing log after the packet required it be said once and put away. Repair is a pure deletion of that paragraph; no creative choice is involved, so the orchestrator applied it directly (logged UNCONTRACTED) rather than compiling a repair run. Severity MEDIUM; no BLOCKER/HIGH remains; scene closes per the completion loop's rule."
+    }
+  ]
+}

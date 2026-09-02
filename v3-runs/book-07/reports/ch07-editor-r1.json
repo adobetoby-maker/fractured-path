@@ -1,0 +1,350 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch07-r1-editor",
+  "scene_id": "b7-ch07",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The chapter advances countably from Oryn's day-eighty arrival in Chapter 6: the party leaves the fin on day eighty-one, reaches Oxhollow on day eighty-four after four inclusive travel days, and Oryn's 'Six days' correctly measures from the day-seventy-eight rib break. Cael remains eighteen; no canon secret, later-book knowledge, or frozen state is contradicted."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third remains inside Cael's practical attention. Oryn's motives are inferred from her speech, work, route, and positioning, and the narration explicitly labels the one speculative comparison to Lira as 'inference, kept as inference.' No Oryn POV window appears."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "All assigned deliveries occur in scene: the seven-stop twenty-day route and owed-and-owing ledger; Oryn's four-sentence want verbatim; reserve arithmetic and city tier rationing; the complete Oxhollow reading sequence; both reading modes and their conditions; the three clinical questions with yes/faster/no; her parting line; Teague's exact first exchange and Cael's recognition of his own pricing method; the exact evening log before the close; and the required final image. The deep reading, Thornwater timing, rival clock, and route plants are all present."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Oryn leaves north and does not join; she explains but does not perform the deep reading and learns nothing of fragments. There is no fragment use, fight, new injury, Quieting material, letter, Vastin, watcher, joint contract, named Teague crew member, new named person or printed new route-place name, modern idiom, growth declaration, metadata, dialogue ending, log ending, or prohibited 'at the pitch/at that pitch' phrase. Cael's ribs and calf remain unhealed by her."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Every result follows established pressure and choice: injury dictates the lip order and travel load, Oryn's finite reserve dictates Lira's refused ankle treatment and the Oxhollow queue, the three failed surface readings justify the stated rule, Oryn's independent route makes Cael's withheld invitation meaningful, and the completed ford/traverse jobs causally trigger Teague's pricing."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "The lost cart, saved boxes, owed smith's six marks, delivered map, open injuries, Karis's depleted reserve, Oryn's own heel, and the existing board/rival state all persist until changed on the page. No cost silently vanishes."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The chapter changes knowledge, relationship, obligation, and standing: Cael learns Oryn's route and reading rule; Oryn commits to a fourth visit without joining; Cael lets her leave rather than recruiting her; Teague speaks and establishes the moving rival clock; Oxhollow accepts the map and pays the crew. Cael exits measured by two people without seals and still waiting to resent it."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter remains in the series' own cataloguing, procedural, ledger-centered voice. No passage reads as an imitation of a named external author or imports protected-expression markers."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael counts thirty-one paces, seven stops, days, patients, marks, readings, and crew positions; the Power Log remains plain first-person diegetic text. Oryn remembers patients rather than writing, walks like a carter, positions like a healer, never hurries, and remains distinct from Karis's page-based research and Lira's kinetic attention. Teague's compressed claim/evidence/ruling voice also remains distinct."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes: worldbuilding is delivered through mechanism and use. The route appears as order, travel time, mule shoes, food, a kept table, late patients, and reserve allocation; healer rationing appears as a tiered list whose consequences are visible in Lira's refused ankle and Oxhollow's waiting line; the ford and board economy appear through map delivery, seventy marks, and the unpaid cart debt."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "The chapter only instantiates packet-approved Tide, route, Oxhollow, and Teague facts. The other five route stops are not printed as names, the ford-keeper and patients remain unnamed, the deep reading stays a planted future condition, and no forbidden secret is interpreted or revealed."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked across the road, fire, clinic, gate, and ford scenes. The longest unattributed run is exactly four dialogue paragraphs in Oryn's clinical question sequence, never more than the cap; the alternating question/answer pattern and the surrounding named attribution keep it intelligible aloud. The log and emphasis retain their meaning without typography."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every proper name heard in the chapter was checked against craft/NAME_REGISTRY.md and the packet's approved Book 7 set: Cael, Lira, Brom, Karis, Seln, Oryn, Teague, Pike, Coss, Vell, Lowmarch, Thornwater, and Oxhollow. No new name is minted. The flagged Oryn/Oxhollow co-occurrence remains distinguishable at audiobook speed (OR-in versus OX-hol-oh: different first syllable closure and syllable count), and no registry-disposition collision such as Greyvane/Halcenvane appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch07.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0, and the section 10 summary-substitution grep returns 0. The H1 and rule breaks are correct, the file ends on prose, and wc -w returns 5,220 words, within the 3,910-5,290 tolerance. The four-day travel alone is compressed; all assigned meaning-bearing beats are dramatized."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 7 counts, followed by Book 7 Chapters 1-7 totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/1; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Chapter 7 has 1 'the way you/he/she [verb]' construction, 0 single-word paragraphs, 25 em dashes, and 0 modern-register, feeling-declaration, growth-declaration, or summary-substitution hits. 'At the pitch/at that pitch' is 0 in Chapter 7 and remains 10 book-to-date, unchanged."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 6 ends on Oryn's spoken dialogue, 'That's not an answer ... That's a finding.' Chapter 7 ends on the observed-from-distance image of Teague's crew leaving south and Oryn's mule shrinking against the north bench. The adjacent final-beat types differ exactly as required."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "The nine confirmed fragments plus one anomaly remain unchanged and unused. Against Chapter 6 and the running state: Cael's three left low ribs are taped but not mended and his right calf is washed and rebound; Lira's right leg is mended and weight-bearing while her right ankle remains taped and unmended and her right boot remains lost; Brom's right forearm is mended but still under the no-pulling order; Karis's reserve is recovering and one lattice point makes her sit. No new injury appears."
+    },
+    {
+      "gate": "state.party_headcount",
+      "state": "PASS",
+      "evidence": "The five established companions plus Oryn travel together to Oxhollow, but the prose consistently treats Oryn as a route-walker rather than a joined sixth companion. She leaves north, returning the active party to five. Teague's crew is exactly four."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and the chapter contains none."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The noncombat lip crossing is nevertheless fully placeable: Seln first, Lira second, Oryn a stride and a half behind, boxes one at a time, and Cael last with Seln behind him."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "Although there is no fight, all physical action respects current state: Lira uses the rock and then rides; Brom carries by shoulder strap without pulling; Cael's breath stops at the tape and he favors the calf; Oryn never heals herself; Karis sits after one recovered lattice point."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat exchange occurs; the chapter's pivotal choices are reviewed under causality and character gates."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The chapter still changes knowledge, relationship, obligation, and reputation."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "All prior combat and traverse costs persist through taped ribs, a rebound calf, Lira's taped ankle and lost boot, Brom's restricted arm, Karis's depleted reserve, the lost cart, and the outstanding six-mark debt."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No stat advances, but the visible progression delta is intelligible: three completed surface failures become a usable rule and future deep-reading condition; the crew's ford success and traverse loss move Teague from silent observation to direct pricing. Both deltas have explicit causes."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Progress carries receipts: the crew's rising reputation includes the lost cart and six-mark debt; Oryn's healing reach costs reserve, delays her route, leaves her own heel untreated, and forces the refusal of Lira's ankle."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "The chapter's progress changes relationships and obligations outside any stat display: Oryn asks Cael to return whole, Cael honors her independent route rather than recruiting her, Oxhollow pays for the map, and Teague treats the five as a future peer crew."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No victory or conflict resolution depends on a capability. Tide's surface/deep distinction and costs are taught here for later use rather than used as an escape hatch."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague's crew arrives from its own hold contract with a working cart, crosses south, and projects the shared-contract clock. Oxhollow's table, route obligations, ford payment, Pike's spoken ledger, and city healer rationing all operate independently of Cael's desires."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "After Chapter 6's terrain disaster and triage, Chapter 7 changes the problem to travel under injury, finite-resource allocation, institutional route mechanics, clinical unreadability, letting Oryn leave, and rival pricing. The tactical, emotional, and social problem is new."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The traverse setback changes the map and carts' route, redistributes loads, constrains every injured body, consumes Oryn's reserve, and becomes Teague's honest price. Cael accepts 'the bench was a cart' rather than treating the loss as erased by survival."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The Power Log is an owned diegetic document, not system text."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The log's money, party, and reading counts match state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The Power Log records Teague and Oryn's converging measurement pressure and is required by the packet."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "Cael answers Oryn's clinical questions truthfully but withholds the fragment mechanism; Oryn receives no inference or display that would expose it. The Tide anomaly, quiet-ground facts, and later-book secrets remain sealed."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No ability combination or fragment use occurs."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "Rank directly governs city healer allocation: certified healers receive a tier-ordered list with Bronze and above first. The result is an undersupplied route, a twenty-day empty table, delayed patients, and Oryn's choice to leave the city."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No extraordinary capability resolves a conflict."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Tide's repeated uses carry explicit limits and costs: contact, readable architecture, finite daily reserve, inability to heal oneself, surface-versus-deep conditions, and a mending's cost for the long reading."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named person, printed place, faction, or ability is introduced. Existing elements—Tide, the route, Oxhollow, the board, Teague, injuries, and the traverse map—are deepened and interconnected."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: understand the healer and learn whether she can read Cael. Delivery: her route and independent want become concrete, three surface failures become a rule plus a future test, and Cael chooses not to ask her to surrender the route. The rival-price coda adds visible progression before the closing image."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The unreadability rule pays Chapter 6's first failed read through two additional controlled trials; Oryn's city rationale pays Chapter 4's rationing fact; Teague's first speech pays Chapter 2's silent rival clock and Chapter 4's rule for when he will speak. The deep reading and shared contract are planted rather than paid early."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The Oryn inquiry advances by a partial answer and a clearly conditioned next test; her character thread advances from professional arrival to an independent route promise, not premature joining; the Teague event thread advances from silent clock to direct future pressure. No thread is falsely closed."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "The route and healer institutions are grounded in feet, tape, a raw heel, mule tack, a burr in the lead, map ink, a kept table, patient bodies, grey reserve cost, river depth, cart wheels, marks, and roads. Dialogue explanation remains attached to immediate use; abstraction does not outnumber concrete mechanism two to one."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a first review of a fresh chapter draft; per-book revision-pass history is outside the chapter evidence."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The lip crossing, Oxhollow yard, ford, north road, and south road are nevertheless drawable."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs, so the combat-climax sentence-length and stative-density test does not govern."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. Character action remains strongly assignable by method: Lira tests movement, Brom carries, Seln scouts and returns, Karis maps and writes, Oryn positions and treats."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or combat exchange occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every Chapter 6 wound or depletion state recurs at the character's next appearance and is either constrained, rebound, read, or explicitly left alone; none silently disappears."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Only incident-free travel is summarized under 'Four days down.' The route conversation, reserve refusal, city history, clinic use, readings, parting choice, Teague exchange, log, and closing image all occur on the page at appropriate scene weight."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The short lip set piece still makes terrain load-bearing: the drop determines order, spacing, hand placement, load transfer, and Oryn's position where a fall would arrive."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "The chapter contains no numerical advancement, but its progression is legible and priced: the reading delta is three failed surfaces plus a defined future deep test; the reputation delta is Teague speaking after the ford displaced his slip; the price remains a lost cart, debt, injury, and Oryn's spent reserve."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This per-arc major-win gate is not exercised by the chapter."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague does not wait offstage: his four-person crew returns from its own hold contract with an intact cart, he has heard and priced both of Cael's jobs, and he forecasts a shared contract inside a season."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The crew's progress echoes socially through Oxhollow's seventy-mark verdict and Teague's first direct assessment. Rank also changes noncombat life through the city's tier-prioritized healer list and the resulting scarcity beyond the Line."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system or status box appears. Cael explicitly owns and writes the Power Log for an immediate in-world reason."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "The tier critique is not merely editorial speech: the city gives Oryn a ranked list; she leaves; her finite route and raw heel embody the displaced cost; Lira's ankle is refused; Oxhollow's empty table fills with untreated bodies; and treatment order is governed by medical need rather than tier."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor is deployed under stakes."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Cael processes Oryn's independent want, his own history of being measured, and the sentence asking her to stay without jokes or deflection. He makes the quieter choice to say only 'Nine days' and let her route remain hers."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The book's later outward-reading moral stake has not yet opened and this chapter is not an assigned checkpoint for it."
+    }
+  ],
+  "findings": [],
+  "strengths": [
+    "Yes: the worldbuilding is decisively done through mechanism and use. Oryn's institution is a twenty-day circuit, mule shoes, meals, one kept table, remembered patients, a raw heel she cannot heal, three serious mendings on a good day, and the treatment she refuses as much as the treatment she gives. The city critique lands through a tiered list and Oxhollow's waiting bodies rather than an explanatory speech alone.",
+    "Oryn's independent want is unusually clean. The four mandated sentences land after the route has already shown their cost, and Cael's strongest character choice is the sentence he does not say at the gate. Letting her walk north protects both her autonomy and the found-family arc from premature recruitment.",
+    "The three-reading sequence is fair, cumulative, and clinically specific. Ribs establish anomalous healing, Lira supplies a successful expected control, Brom supplies a different successful ordinary architecture, and the uninjured wrist-and-neck reading isolates Cael's unreadability from the wound. The river/banks rule and deep-reading conditions therefore feel discovered, not announced.",
+    "Oryn remains sharply differentiated from both adjacent women. Karis turns experience into durable pages; Oryn turns it into remembered obligations. Lira treats ground as something to leave; Oryn treats it as an arrangement and occupies the place where injury will arrive. Those contrasts are behavioral and never become dossier labels.",
+    "Teague's first exchange is controlled and exact. The prose lets Cael recognize claim, evidence, and ruling from the receiving side, preserves Teague's lack of hostility, gives the rival an independent working crew and contract history, and stops after the packet's mandated lines.",
+    "The final image does two jobs at once without explaining either: Teague's intact cart goes south through the ford while Oryn's mule goes north along the bench. The image separates rival clock, crew road, and healer route spatially, and it cleanly differs from Chapter 6's dialogue close.",
+    "There is no fight, as the packet requires. The noncombat lip crossing is still memorably choreographed and terrain is load-bearing: the drop fixes crossing order, spacing, hands, load transfer, and Oryn's position behind Lira. The combat win formulation 'X removed Y's ability to Z' is not applicable because the chapter deliberately contains no adversarial win.",
+    "Continuity work is unusually exact without feeling like a ledger correction: three ribs stay open under cloth, the calf is rebound but unread, Lira's leg bears weight while the ankle remains wrong, Brom carries but does not pull, Karis can light one point and must sit, the cart remains lost, and the six-mark debt survives the seventy-mark payment.",
+    "Production checks are clean: 5,220 words is inside tolerance; section 8.4 metadata and section 10 summary greps return zero; all named section 9 tics are zero in the draft; the only inherited book-to-date capped phrase is one 'There it was'; 'at the pitch/at that pitch' adds zero; and the longest unattributed dialogue run is four, at the allowed ceiling.",
+    "All prohibited outcomes are absent, every name is registry-safe by ear, the fragment inventory is unchanged, the deep reading is planted but not run, and the exact required log is mid-scene rather than used as an ending."
+  ],
+  "concerns": [
+    "Taste only: the route movement accumulates several explicit thesis closures in close succession—what late is, what Oryn's book is, what the city is, and what her want means to Cael. Each is lucid and contract-serving, but an audio line pass may hear slightly more interpretation than the surrounding objects and dialogue require.",
+    "Taste only: Oryn's final clinical questions use a four-paragraph unattributed run, exactly the section 8.5 maximum. The alternating question/answer pattern is clear in this draft and therefore passes, but the sequence has no attribution slack if later revisions insert or reorder a line."
+  ]
+}

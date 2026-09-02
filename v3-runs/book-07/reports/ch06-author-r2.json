@@ -1,0 +1,30 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch06-r2",
+  "scene_id": "b7-ch06",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch06.md",
+  "word_count": 5414,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH06-001 repaired",
+      "status": "MET",
+      "evidence": "---\n\nThe next day was the one the mountain kept. Seln went at first light with the pack on and came back before the sun was over the gorge: the lip held a walker, and below the lip the fan the herd had taken down was still going, in slides, one every hundred breaths or so, and a man on it was a ston"
+    },
+    {
+      "obligation": "ED-B7CH06-002 repaired",
+      "status": "MET",
+      "evidence": "On assessors' faces at Ardenmere and at Greyvane, and on a panel in the academy above Ostrand, from the outside,"
+    }
+  ],
+  "inventions": [
+    "One summary paragraph for the second day of waiting (Seln's aborted attempt on the running fan; rationing; Lira's leg going hot)."
+  ],
+  "state_change_proposals": [
+    "Oryn arrives the morning of day 80 (third morning); Seln's first-light attempt on day 79 turned back by the still-running fan."
+  ],
+  "deviations": [
+    "Repair applied directly by the orchestrator (one inserted paragraph; two sentence edits)."
+  ],
+  "blockers": []
+}

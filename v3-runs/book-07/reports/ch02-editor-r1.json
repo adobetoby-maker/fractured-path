@@ -1,0 +1,232 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch02-r1-editor",
+  "scene_id": "b7-ch02",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "Day forty-nine follows Chapter 1's day-forty-six Thornwater close and accepted four-day stay. The traveling unit remains Cael, Lira, Brom, Karis, and Seln; Cael remains eighteen; no reserved companion appears. Four completed contracts, eighteen marks earned in total, the five-name ledger page, and the return to Lowmarch all reconcile with Chapter 1 and the frozen state."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration remains close-third past through Cael's catalogue-and-ruling attention. The stillhound mechanism is not confirmed: the opening repeats the prior hypothesis and immediately labels the ruling 'hold.' Teague's Path, tier, lapsed reporting, crew size, and three-year standing come from Pike before Cael reads him across the room; Cael marks uncertainty where his read cannot decide."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "The chapter supplies the complete board mechanism, Pike's verbatim pricing line, the unit's bottom placement, the eleven-line gap, the map exchange, the mid-chapter first-pole log, Vell recognition, all companion registers, Teague's silent mutual read, and the assigned image close. One presentation constraint fails: after the map exchange has been put away at line 179, the Power Log returns to it at line 219. See finding ed-b7-ch02-001."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "No prohibited outcome occurs. Teague and Cael do not speak; there is no confrontation, joint contract, fight, new injury to the party, deployed fragment, quiet-ground terminology, Part 2 knowledge, Oryn, healer, Tide, letter, Vastin, watcher, new named character, or new place. Teague's three companions remain unnamed. The file ends on prose rather than a log entry."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Pike demonstrates two completed slips before explaining the mechanism; brands and witness marks support entry, entries support the wall, and the wall supports hold selection and price. The crew's low place follows from four low-risk lines and no established reputation. Teague's superior place follows from three years of outcomes and Pike's statement that Teague has never made his recommendation wrong."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Cael enters seeking the mechanism behind Pike's copied line. He exits knowing the complete incentive structure, accepting an exact and unflattering placement, writing the book's first freedom pole, turning the map east with the group, and recognizing a rival who is presently better. Knowledge, standing, self-concept, and future pressure all change."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter extends the supplied series-specific catalogue, ledger, Power Log, and oblique-dialogue methods. No passage was identified as imitating a named external author or protected expression."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues Lowmarch, the postings, Pike's table, the inn, and Teague outside the log. The italicized Power Log stays plain, first-person, and limited to Cael's knowledge. Lira is kinetic and blunt; Brom communicates through placement, weight, and few words; Karis records and presses for precision; Seln supplies procedure without explanation or banter."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. The chapter makes the institution concrete through three paper stocks, burned hold brands, first-mark taking, witnessed slips, two public readings, a one-handed paperweight, five ledger columns, a ranked wall, and hold hiring behavior. Literacy, risk, rank, price, reputation, and access are shown changing what people do rather than delivered as detached lore."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "All named entities are established or packet-approved. Unnamed background crews, posting materials, the lower inn, Pike's stone, and Teague's unnamed crew silhouettes fit the invention budget. No scheduled secret, stillhound sensing mechanism, Quieting information, or unapproved Compact fact is disclosed."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "The section 8.5 audit covered the multi-party board procedure, pricing discussion, map exchange, and inn-table discussion. The maximum run is three unattributed dialogue lines, below the cap of four, and surrounding action or syntax identifies the speakers aloud. The Power Log and ledger italics decorate writing already identified in prose; no meaning depends on seeing the typography. There is no System block."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every personal and place name was checked by ear against craft/NAME_REGISTRY.md: Cael, Lira, Brom, Karis, Seln, Pike, Teague, Vell, Lowmarch, Thornwater, Ardenmere, and Ostrand. Established names retain their registered entities. Teague does not collide with the registry set; Pike remains distinguishable from Fiske, Prynn, Pellin, and Petra; Lowmarch and Thornwater remain distinct at audiobook speed. No prohibited new name appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared chapter scope: v3-runs/book-07/drafts/ch02.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. The file has the required H1, six prose sections separated by five standalone rules, ends on its final prose line with no footer, and contains 5,169 words, within the 3,910-5,290 tolerance range."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Declared book-to-date scope: v3-runs/book-07/drafts/ch01.md and ch02.md. Case-insensitive occurrence counts from the section 9 greps are: jaw tightened 0; laughed once 0; without humor 0; stomach tightened 0; stomach dropped 0; There it was 1; That was true 0; Also true 0; sounded almost 0; held this 0; standalone '[Name] noticed.' 0; 'which was, in its own way' 0. The sole 'There it was' substring occurs inside the packet-mandated sentence 'In there it was heresy,' not as the capped standalone beat. Chapter 2 has 0 single-word prose paragraphs and one 'the way you/he/she [verb]' candidate, so no identical construction exceeds three. Modern-idiom, feeling-declaration, and growth-declaration greps each return 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 1 ends on a Power Log entry. Chapter 2 ends on an observed image: Teague back at his table and the lit wall sheet with eleven lines between the crews. The adjacent structural moves differ as required."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "The Power Log records 'Nine confirmed. One anomaly, session nine, still open, still real, patience,' matching the snapshot's nine fragments plus one unconfirmed anomaly and Chapter 1's full inventory. 'Deployment since the Line: none' remains true; Shadow drift and Anchor's doorway pull are idle-state texture only. The party begins and ends uninjured, matching Chapter 1 and both state artifacts. Pike's missing arm is established, while the unnamed captain's old scar and Teague crewman's limp are permitted background texture and do not create a party-state contradiction."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and the draft contains none. The board procedure has social stakes, but no combat exchange is scored under this gate."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight or action set piece occurs. Room and board geography remain clear for the procedural scene and silent rival read."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "No Path or fragment is deployed. Shadow and Anchor remain idle; no one spends a reserve or incurs injury. Equipment on Teague's crew is observed but not used."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants engage. Character methods are differentiated under the voice gate instead."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no fight and therefore no combat decision to score. Cael's non-combat choice to accept the board's verdict and write the freedom pole is legible under the consequential-scene gate."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The chapter changes knowledge, standing, self-concept, and rival pressure outside combat."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat cost, injury, or Path expenditure is created."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank, tier, fragment, technique, or measurable capability advancement occurs. The chapter establishes the external measuring system that later records progress."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement that promises a system cost occurs. The crew's low price is a reputation consequence, not a system advancement."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "The chapter defines human-track progress in practical terms: reputation controls access to hold contracts, and Cael's acceptance of honest placement changes his relationship to being measured even though no rank changes."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No capability is used and no victory depends on one. The scene turn comes from Pike's established practice and Cael's established catalogue-and-ledger doctrine."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "The board records other crews' success and failure before answering Cael's questions. Teague's crew holds two desirable contracts, returns on its own schedule, feeds its youngest member, and reads the room independently. Neither institution nor rival freezes around the protagonist."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "This chapter changes the prior road-restraint problem into an institutional-literacy and status problem. The clean escort and failed recovery additionally demonstrate different board outcomes without becoming repeated dramatic challenges for Cael."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The crew's bottom placement is accepted as usable calibration rather than treated as humiliation. It gives Cael an exact rival distance and establishes the behavior that can move them upward: outcomes witnessed and entered."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The italicized inventory is a character-authored Power Log entry."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System values are displayed. The manually written fragment and injury counts independently match frozen state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The Power Log inventory reads naturally aloud."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System display appears. The Power Log performs continuity, institutional synthesis, and arc-pole work but is not an Arbiter notification."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The anomaly remains unconfirmed and unexplained; the stillhound mechanism remains a held hypothesis; quiet-ground material and later-book Compact knowledge do not surface."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fragment or Path combination is used."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "The board deliberately replaces registry tier with witnessed outcome in hiring and price. Pike's Bronze/Copper comparison, Teague's lapsed Bronze record, the lack of a tier column, and holds choosing the wall's top crew all make rank's altered social and economic meaning visible."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch02-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "scene-obligation-repetition",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch02.md",
+        "line_start": 219,
+        "line_end": 219,
+        "quote": "*Seln said the thing about the Line today, over a carter's map, and Brom answered it and Karis corrected the answer, and that is the whole of what will be said about it, by any of us, and I am noting once that it was said. The map's turned east. It's under a stone that way now.*"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch02-editor-prompt-r1.md",
+        "line_start": 515,
+        "line_end": 526,
+        "quote": "The asset-restriction beat, once, over the board's map: Seln traces the Line — 'West of that, the inventory executes the hour any of us shows paper. Pending jurisdiction means armed. Nobody goes west.' Brom: 'Nobody wants to.' Karis: 'Nobody can. Different sentences.' Then the map turned east. Not revisited. ... 'Nobody goes west' — the reason the trap (Chapter 17) must come east; stated once here and not again."
+      },
+      "consequence": "The scene correctly stages and closes the Line exchange at the map, but the later log paragraph summarizes the same participants, exchange, and eastward map turn. The repetition defeats the packet's explicit once-and-put-away discipline and adds explanatory emphasis to a beat whose force depends on the group refusing to dwell on it.",
+      "repair_target": "Keep the asset-restriction material confined to its assigned map scene. Preserve the mid-chapter freedom pole and all other log functions without restating or summarizing the Line exchange.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "The Power Log substantially re-explains the board immediately after the mechanism has already been demonstrated through two slips and Pike's answers. The repetition remains in Cael's established synthesis register and the chapter is inside tolerance, so this is an audio-pacing/compression taste question rather than a failed gate.",
+    "'They had been going to it for three years and their feet knew where it was' can be heard as granting the current three unnamed crew members a shared three-year tenure, while the packet strictly establishes only Teague's crew at the top for three years. The collective reading is plausible, so this remains a continuity phrasing concern rather than a verified contradiction.",
+    "No fight occurs, as the packet requires. The terrain-load-bearing and 'X removed Y's ability to Z' tests are therefore not applicable; the silent mutual-read closer supplies rival pressure but should not be mistaken for combat choreography."
+  ],
+  "strengths": [
+    "Yes: worldbuilding is done through mechanism and use. Paper stock, brands, literacy, witness marks, two public readings, the stone replacing Pike's missing hand, five columns, the wall, and hold selection make the board feel like a working institution rather than an exposition topic.",
+    "The board-entry sequence is a memorable procedural set piece: a clean outcome and a partial failure pass through the same public machine, with the crew's rebuttal preserved but not allowed to erase the witnessed result. Terrain is not relevant, and there is no combat win-sentence to write, but the institutional choreography is specific and visual.",
+    "Pike's mandated Bronze/Copper line lands because the reader has already watched his arithmetic operate. Cael's recognition of Vell's doctrine follows from demonstrated practice and carries emotion through a turned ledger, a stone, and a remembered bound book.",
+    "The unit's placement is unusually honest and exact: bottom, four lines, unknown, cheap, taking refused work, with eleven lines to Teague. The chapter lets this be calibration rather than humiliation, strengthening both the visible and human progression tracks.",
+    "Teague's entrance efficiently starts the rival clock without violating the no-conversation boundary. Counting his people before the job, finding Seln on the second pass, and pricing Lira from her feet make him credibly competent before the final wall image states the distance.",
+    "The final beat differs cleanly from Chapter 1's log close. Teague turns back to his people, daylight physically occupies all eleven intervening lines, and the prose trusts the image without appending an explanation.",
+    "Companion differentiation remains sharp in a crowded institutional scene: Lira pushes directly for placement, Brom counts the gap, Karis records procedure and distinctions, and Seln states the operational fact that turns the map.",
+    "Production discipline is strong: the chapter is within length tolerance; metadata, summary-substitution, modern-register, feeling-declaration, and growth-declaration searches are clean; capped tics remain below limits; attribution survives audio; and every party injury and fragment reference reconciles with the prior chapter and frozen state."
+  ]
+}

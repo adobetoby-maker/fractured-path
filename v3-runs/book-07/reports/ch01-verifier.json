@@ -1,0 +1,34 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch01-verifier-r1",
+  "scene_id": "b7-ch01",
+  "editor_run_id": "b7-ch01-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch01-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch01-r1.md:33",
+        "v3-runs/book-07/drafts/ch01-r1.md:37",
+        "v3-runs/book-07/drafts/ch01-r1.md:61-63",
+        "v3-runs/book-07/drafts/ch01-r1.md:165",
+        "v3-runs/book-07/drafts/ch01-r1.md:243",
+        "v3-runs/book-07/state-b7-pre-ch01.md (companions table: four companions + Cael)",
+        "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md (Continuity Checkpoint seam note on Book 6's six)"
+      ],
+      "reason": "The draft counts six while the frozen state and the road blocking contain five people. The count entered the packet from Book 6's architecture, which itself carries a phantom sixth (flagged for Book 6's drafting team). Planning-layer decision recorded in the Book 7 architecture: five before Oryn. Orchestrator verified independently by reading the draft; the editor's evidence field was empty but the consequence text identified the exact defect."
+    },
+    {
+      "finding_id": "ed-b7-ch01-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch01-r1.md:93",
+        "v3-runs/book-07/drafts/ch01-r1.md:133",
+        "books/book-04-copper-crown/CHAPTER_ARCHITECTURE.md (Ch14 birthday: sixteen; Seln joins B4)",
+        "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md (Ch14 birthday: eighteen)"
+      ],
+      "reason": "Brom joined in Book 2 (Cael fifteen); Cael is eighteen: three years, not six. Seln joined in Book 4 (Cael sixteen): the five have shared rooms for two years, not four."
+    }
+  ]
+}

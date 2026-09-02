@@ -1,0 +1,151 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch04",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 4 card)",
+    "state": "state-b7-post-ch03 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine fragments + anomaly; party is FIVE. All four Chapter 3 injuries are OPEN at chapter start (Brom's forearm to the bone, bound; Lira's ankle turned and healing wrong; Karis's hands cut; Cael's calf bitten through) — no healer exists at Thornwater or Lowmarch.",
+      "Karis now knows (Chapter 3) that stillhounds hunt Path discharge and that water masks it. Nobody knows about shale-backs' flight response yet (Chapter 5).",
+      "In THIS chapter the phrase 'quiet ground' is heard for the FIRST time, from a carter's wife at Thornwater, as folklore: 'You mean the quiet ground? Everybody knows the quiet ground. Nobody goes in.' Nobody explains it; Karis writes it down and underlines 'everybody knows'. No one in the party has seen it, asks Pike about it, or investigates (Chapter 8). The words 'the Quiet', 'the Quieting', ruins, sigils failing, and survey stakes must not appear.",
+      "Hesk's first letter east arrives via the Lowmarch courier chain (monthly ferry to the Line). Its text is fixed (see must_include). No other letters.",
+      "Cael has never spoken to Teague; Teague does not appear in person (at most seen or referred to by Pike).",
+      "Oryn is unmet; no healer; no Tide."
+    ]
+  },
+  "purpose": "The stakes-and-standing chapter: the braided-track structure (one movement per companion, each independent want surfacing in a scene about THEM, not about Cael) on new terrain, with the ford's bill carried honestly into every movement, Hesk's first letter east, and the unit's price on the board moving for the first time. The chapter's argument is the charter's: everyone Cael came out here with is finding out what they are worth without a number on it.",
+  "scene_shape": {
+    "opening_state": "Thornwater, the days after the ford, then the road back to Lowmarch: four of five injured, no healer, the steading's woman's bindings, Brom's forearm bound and re-bound, Cael limping on the calf and cataloguing it, Karis's handwriting worse for a week (she notes it in the notebook itself), Lira's ankle healing wrong for want of a healer.",
+    "pov_goal": "To see, honestly, what each of them is worth out here without a number — and to write it down before it stops being simple.",
+    "opposition": "The absence of a healer (every injury is slower and worse than it should be); the board's arithmetic (one line up, eleven still to go); the temptation each companion feels to want the thing the system used to give them.",
+    "turn": "Four movements. LIRA: fought the ford without Wind and was fast; her want said aloud, to the fire, not to Cael: at Norhold she said 'I want to become something they haven't seen yet'; the Silver bracket was the ladder toward it and she walked out of the ladder; 'So what am I becoming, exactly, if nobody's measuring?' BROM: fought the ford without his Path and held a dog with his body and the river; asks Pike privately what the board pays a man with no Path at all; Pike: 'Same as anyone. What'd he do?'; Brom writes that down (he has done so for exactly two people in his life). KARIS: the three boxes open on a Thornwater table becoming a field library; the researcher starving for sources in a country with no archives — until a carter's wife, hearing her ask about the void roads, says: 'You mean the quiet ground? Everybody knows the quiet ground. Nobody goes in.' Karis writes it down and underlines 'everybody knows'. SELN: the first honest employment of his adult life and the discovery that he is good at it; one line to Cael at the board, unasked: 'I keep waiting for someone to ask for my report.'",
+    "choice": "Cael writes the mid-chapter Power Log entry (content fixed in must_include) — choosing to price his companions by what they did, the board's way, and to say he would rather be priced by the man who is better than him than by anyone who isn't.",
+    "outcome": "Hesk's letter arrives (text fixed). Pike moves the unit up one line in the ledger on the ford's outcome. One line. Teague's crew is still eleven lines above them.",
+    "closing_state": "The chapter ENDS ON DIALOGUE: Pike, at the board, entering the ford in front of them, moving the unit up one line, and — asked by nobody — 'Teague's still eleven up. He'll speak to you when you've cost him something. That's not rudeness. That's the ledger.'"
+  },
+  "obligations": {
+    "must_include": [
+      "Every Chapter 3 injury carried on the page in its owner's next appearance: Cael's calf (limp he catalogues, nobody mentions); Karis's cut hands (wrapped; handwriting visibly worse, noted in the notebook itself); Brom's forearm (bound and re-bound); Lira's ankle (healing wrong for want of a healer). None resolves.",
+      "Four companion movements, each a scene about that companion's own want (charter §7.4): Lira's line about becoming something with nobody measuring; Brom's private question to Pike and Pike's answer 'Same as anyone. What'd he do?' and Brom writing it down; Karis's field library and the carter's wife's 'quiet ground' line verbatim with Karis underlining 'everybody knows'; Seln's 'I keep waiting for someone to ask for my report.'",
+      "Hesk's letter, in full and verbatim: 'Past the Line. Your grandmother crossed it once, before you were born, on a trade run; she said the roads were honest and the food wasn't. Mind the roads. Send word when there's a roof. — H.' Delivered via the courier chain (monthly ferry to the Line); three weeks old.",
+      "The Power Log mid-chapter (not at the end): 'Everyone I came out here with is finding out what they're worth without a number on it. Lira's fast without Wind. Brom's a wall without Iron Skin. Karis found a rumor and underlined it. Seln keeps waiting to be debriefed. I'd rather be priced by the man who's better than me than by anyone who isn't.' (Adapt lightly to the drafted texture; keep the content.)",
+      "Pike moves the unit up one line on the ford's outcome; Teague's crew stays eleven lines above.",
+      "The chapter ENDS on Pike's dialogue line as given in closing_state (the previous chapter ended on a ledger line and a written sentence; this one ends on speech).",
+      "Cael's cataloguing outside the log at least once; rank's non-combat consequence visible (the board's pricing, the healer shortage as a rationing fact — cities ration healers by tier, which is why there is none here; state through use, not lecture).",
+      "Manuscript format: H1 '# Chapter 4 — What the Board Prices', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "'Quiet ground' as folklore-with-teeth, heard once, unexplained (Chapter 8 makes it a location).",
+      "The healer shortage as a Path-system deformation (charter §6.5) — Oryn's arrival in Chapter 6 pays it.",
+      "Lira's want (becoming something with no ladder) — answered across the book by the ford and the Quiet.",
+      "Brom writing Pike's answer down — the second time in his life."
+    ],
+    "payoffs": [
+      "Chapter 3's injuries priced in daily life.",
+      "Chapter 2's rival clock moves: one line."
+    ],
+    "prohibited_outcomes": [
+      "No healer, no Oryn, no Tide. No 'the Quiet'/'Quieting'/ruins/stakes; nobody investigates 'quiet ground' or asks Pike about it.",
+      "No fight; no fragment use (idle-state texture only).",
+      "No Teague dialogue; Teague's crew not on the page except as a ledger fact.",
+      "No injuries resolve; no new injuries.",
+      "No letters other than Hesk's; no Vell, Ephram, Vastin, watchers.",
+      "No new named people or places (the carter's wife is unnamed).",
+      "The chapter does not end on a log entry or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Thornwater's steading and the road back to Lowmarch in sensory detail; the field-library scene (three boxes becoming shelves on a table); Pike's manner; the courier's arrival; small texture for each movement.",
+      "Dialogue in established voices beyond the mandated lines.",
+      "Cael's interior cataloguing of injuries and pricing."
+    ],
+    "approval_required": [
+      "Any new named entity; any new fact about quiet ground beyond the carter's wife's three sentences; any new fact about the Compact or the Line."
+    ],
+    "forbidden": [
+      "Fragment use; a fight; healing; Part 2 knowledge; a log or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 3 as drafted — the immediate seam (the ford, the injuries)",
+      "path": "v3-runs/book-07/drafts/ch03.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch04.md",
+    "report_path": "v3-runs/book-07/reports/ch04-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch04-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch04-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch11",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 11 card)",
+    "state": "state-b7-post-ch10 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "combat",
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine + anomaly. Party SIX. Inside the Fallow Ring at dusk, ~140 m in, the light going. Known from Chapter 10: perfect circle, 200 m radius, sharp line; every Path dies inside; Oryn's hands don't work inside; the den is under the far lip; stillhounds hunt declarations (Ch3) and den here because prey can't declare (Ch10, Seln). Cael alone knows his fragments work inside; NOBODY else knows until they SEE it in this chapter.",
+      "The winning idea is Chapter 3's, inverted and taught there: the only declaration on this floor is Cael; stillhounds follow the loudest declaration; five practitioners get their Paths back at the stride outside the line; Karis's ignition-wall (Ch6) is a thing the hounds have never met. No other mechanism resolves the fight.",
+      "Shadow-adjacent may be used ONCE, inside, to reach Karis unseen by the pack, witnessed only by the circle and Oryn (no outside witness) — the seal's logic holds. Every other fragment may be deployed in the run to the line. Wind-adjacent, full and loud, is the declaration the pack follows.",
+      "Lira's ankle goes a THIRD time at the lip's edge in the first exchange (ford, ledge, lip). A hound bites through her forearm and does not let go; Brom's bolt kills it at four meters; she cannot burst it off. Oryn's Tide fails on the wound INSIDE (the bible's beat, staged at the worst moment); she binds with cloth and her knees: 'Move. I can't fix this here. Move.' OUTSIDE the line her Path returns at the stride and she mends the arm at the line by lamplight for an hour — the arm is SAVED, vessels and deep tear closed, and a mend of that depth bears no load for a season: Lira is one-armed by Oryn's order from here to first snow.",
+      "Costs at close: Karis's throat bruised, voice gone; Brom's bolt-hand cut open on the crossbow string; Seln unmarked; Cael spent to the ground (first full-suite deployment since the Daeva match, on ribs three weeks healed), calf reopened on the lip; Oryn drained by the mending.",
+      "Nobody theorizes why Cael's fragments work; nobody says 'Quieting'; the ring's floor is not damaged or explained."
+    ]
+  },
+  "purpose": "The fight inside the Quiet: the series' first choreography built on a boundary as terrain — a retreat with a geometry toward a line that turns Paths back on, past animals that live inside it because prey can't fight there — resolved by the ford's tactic inverted: Cael becomes the only declaration on the floor and leads the pack OUT across the line into five practitioners who just got their Paths back. Everyone sees what he did inside. Nobody says anything, because the priority is Lira's arm. Oryn's hands fail at the worst possible moment and return at the stride.",
+  "scene_shape": {
+    "opening_state": "Dusk, 140 m inside, the six of them at the ring; nine hounds come silent from the den under the far lip.",
+    "pov_goal": "Get six people to a line two hundred meters from anywhere, alive, on ground where only he works — without, until he must, using the one thing that will save them and end his silence.",
+    "opposition": "Nine stillhounds on their own floor; the cut-dog geometry; a healer with no hands; a line sixty, then forty, then twenty meters too far.",
+    "turn": "FIRST: the cut — the dog that takes the road is between them and the perimeter; Seln, Pathless, calls the lane that isn't cut. SECOND: Brom takes the rear with a carter's crossbow and his body — a big man with good footwork and a bolt holding a lip of fused stone; the pack hunts by sound now and the unit is quiet by four books of training. THIRD: Lira — ankle going a third time at the lip — runs the lip with a knife; a hound takes her forearm and holds; Brom's bolt through its eye at four meters; Oryn on her in a breath, both hands, the reading returning nothing in her hands, blood to the wrist, her Path a stride and a half of stone away: cloth and knees, 'Move. I can't fix this here. Move.' FOURTH — the turn: sixty meters from the line, Karis goes down under a hound, hands on its throat, no lattice; the pack converges on the noise.",
+    "choice": "Cael stops holding. Wind-adjacent, full, loud — the loudest thing in the Quiet — and he goes PAST the pack toward the line, the only declaration on the floor, moving, and every hound turns and follows the thing it hunts by, exactly as the ford taught, because they have never met prey inside the circle that could be loud. (Shadow-adjacent once, to reach Karis unseen first, if the choreography needs it.)",
+    "outcome": "FIFTH: he crosses the line at a run with nine hounds behind him and the unit already over — Lira dragged, Karis carried by Brom; the pack comes across the stone after the declaration into a place where its den advantage is a stride behind it and five practitioners have their Paths back at the stride; Karis, on her knees, voiceless, lights the lattice-line across the line's inside edge — a wall of ignition on the one meter of ground where the hounds have never needed to be careful. They break out through the scrub, not back into the ring. Two down to Brom's bolts; seven gone. Win: Cael took away the pack's ability to fight where its prey cannot, by being the one thing on the floor it could follow out. Costs ledgered outside the line; Oryn's Path back at the stride; the hour's mending at the line by lamplight; the arm saved and load-restricted for a season; Cael's Shadow use witnessed by the circle and Oryn only; everyone saw the seventh thing on the floor work and nobody says anything because the priority was Lira's arm.",
+    "closing_state": "The chapter ENDS ON DIALOGUE (the previous chapter ended on the log): Lira, on the road, the arm saved and slung and the ankle not, looking at the ring behind them and not at Cael: 'It worked in there.' A beat. 'Yours.' Cael: 'Yes.' Lira: 'Later.' Cael: 'Later.'"
+  },
+  "obligations": {
+    "must_include": [
+      "Five exchanges as staged, with the boundary as terrain: the lip, the den side, the lane, the line as objective; geography drawable at every pause; at least two beats caused by terrain (the lip of fused stone Brom holds; the line itself; the one meter inside the edge where Karis lights).",
+      "Stillhounds hunt by declaration and by sound; silent bodies nearly invisible to them; the unit quiet by training; the pack has never met prey inside that could be loud (all taught earlier; may be restated in Cael's cataloguing).",
+      "Lira's third ankle turn at the lip; the forearm bite; Brom's four-meter bolt; Oryn's failed reading inside with her two-sentence order verbatim; the binding with cloth and knees.",
+      "Karis down under a hound at sixty meters; Cael's Wind-adjacent declaration and the run PAST the pack to the line; the pack following the declaration out; five Paths returning at the stride; Karis's ignition-wall on the inside edge; the break; two dead, seven gone.",
+      "Costs outside the line as listed; Oryn's Path returning at the stride and the hour's mending at the line by lamplight; the arm's state DEFINED on the page (saved; vessels and deep tear closed; bears no load for a season; Oryn's order: not to hold, strike, or catch until she says; one-armed to first snow).",
+      "Cael's deployment inventory honest: Wind-adjacent full; Shadow-adjacent once inside (witnessed by circle and Oryn only); other fragments as the run requires; spent to the ground; first full-suite use since the Daeva match; calf reopened.",
+      "Everyone saw; nobody says anything; the priority was Lira's arm.",
+      "The chapter ENDS on the Lira/Cael exchange verbatim.",
+      "Manuscript format: H1 '# Chapter 11 — The Quiet', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Cael's fragments work inside the Quiet — now SEEN by five people (Ch12 silence; Ch16 disclosure).",
+      "Lira one-armed for the season (Ch14–24).",
+      "Oryn's Path returns at the stride (Ch19, Ch21).",
+      "'Later.' — Lira first (Ch16)."
+    ],
+    "payoffs": [
+      "Ch3's bait-with-one-declaration, inverted.",
+      "Ch6's ignition-wall.",
+      "Ch10's den, sun, and Oryn's hands."
+    ],
+    "prohibited_outcomes": [
+      "Nobody dies; nobody loses a limb; no injuries beyond those listed; no wolves/other fauna; the hounds do not speak, think, or carry a Path.",
+      "No fragment other than those listed resolves anything; no unexplained effect on the pack; the floor is not damaged.",
+      "No theory of why Cael's fragments work; nobody says 'Quieting'; no survey stake beat (Ch12).",
+      "No outside witnesses; no Teague; no letters; no Vastin.",
+      "The chapter does not end on a log entry or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Full choreography texture (dusk light on grey stone, the hounds' silence and grey, footing on the lip, the sound of a crossbow string, blood on stone, the line felt in the body when crossed); the mending by lamplight as sensation and cost; each companion's fight-style in character (Lira stripped to bone; Brom weight and bolt; Karis hands on a throat; Seln position; Oryn the healer reaching a patient).",
+      "Dialogue in established voices; Seln's calls in one flat sentence each.",
+      "Cael's cataloguing under pressure (claim/evidence/ruling in fragments)."
+    ],
+    "approval_required": [
+      "Any new named entity; any hound behavior beyond declaration/sound hunting, den defense, and animal adaptation; any new fragment mechanic; any change to the injury list."
+    ],
+    "forbidden": [
+      "Deaths; unexplained mechanisms; theory; disclosure; outside witnesses; a log or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 10 as drafted — the immediate seam (the den, the log)",
+      "path": "v3-runs/book-07/drafts/ch10.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch11.md",
+    "report_path": "v3-runs/book-07/reports/ch11-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch11-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch11-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

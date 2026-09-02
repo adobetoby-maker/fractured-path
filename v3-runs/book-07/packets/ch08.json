@@ -1,0 +1,148 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch08",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 8 card)",
+    "state": "state-b7-post-ch07 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine + anomaly; party FIVE (Oryn is north on her route; 'Thornwater in nine days'). Injuries: Cael's ribs and calf still knitting on their own (taped, improving; he can walk and work); everyone else mended.",
+      "The party knows: stillhounds hunt declarations; shale-backs flee them; 'quiet ground' as a rumor (Chapter 4: 'everybody knows... nobody goes in'). In THIS chapter Pike gives the folklore in full for the first time — everything a carter knows and nothing a researcher does: quiet ground is where the sigil goes to sleep; a handful of places along the void roads; carters walk around them; stillhounds live in them; nobody knows why and nobody has needed to because the rule is don't go in; he has walked past the Fallow Ring two hundred times and never stepped over the line; 'Thirty years on the roads and I've never met a practitioner who did it twice.' Asked what the line is: 'You'll know. Your Arbiter tells you. It stops.' NOTHING beyond that: no perimeter measurement, no fused stone, no survey stakes, no 'the Quieting' (Karis has not coined it), no theory.",
+      "The contract: a broker's posting, well priced, for recovery of 'surveyor's instruments abandoned at a site on the Fallow road' with a map reference that is quiet ground. Seln notices the contract's LANGUAGE is registry prose ('abandoned at a site') under a Lowmarch broker's seal — 'somebody wrote this who learned to write inside' — and says so; nobody knows more. Teague's crew turned the contract down (Pike says so unasked).",
+      "Teague does not appear in conversation. Oryn does not appear; the council notes the Fallow road runs through Thornwater on the ninth day — the day she said — and nobody says 'bring her'; Karis writes it down.",
+      "No letters, no Vastin, no watchers."
+    ]
+  },
+  "purpose": "Part 1's closing chapter: the book's freedom at full height (the ledger moved on the traverse, hold contracts beginning to come to them) and the contract that ends it — the recovery posting whose map reference makes Pike go still, the folklore of quiet ground given whole and institutional by the man who keeps the only honest record out here, a five-voice council that takes the job anyway, and the Part's summary log entry.",
+  "scene_shape": {
+    "opening_state": "Back at Lowmarch from Oxhollow. Pike's ledger entry for the traverse (mapped, delivered, cart lost, crew intact — he gives them the map and charges them the cart; Cael accepts it as fair). The unit's standing now real: hold contracts beginning to come to them instead of only to Teague's crew.",
+    "pov_goal": "Take the first artifact-recovery posting they qualify for — and understand why the best crew on the board would not.",
+    "opposition": "Pike's stillness at the map reference; the folklore's one rule (don't go in); a contract written in the wrong prose; and Karis, who would go alone if they didn't.",
+    "turn": "The posting: a broker's contract, well priced, for recovery of 'surveyor's instruments abandoned at a site on the Fallow road', map reference given. Pike reads it and goes still. He tells them what he knows — the folklore whole (see knowledge_boundary), ending with 'Your Arbiter tells you. It stops.' Karis's underlined rumor has just become a location.",
+    "choice": "The council at Lowmarch's inn, five voices: it pays BECAUSE nobody will take it; Teague's crew turned it down; the instruments are worth the contract; the site is two days east. Seln finds the first wrong thing — registry prose under a broker's seal — and it goes in the log without being understood. The route runs through Thornwater on the ninth day, the day the healer said; nobody says bring her; Karis writes it down. They take it: because it pays, because the freedom chapter taught them they can, and because Karis would go alone.",
+    "outcome": "Contract taken; two days east through Thornwater; Part 1 closes with the freedom intact and the first crack in it (the prose, the stillness, the rule).",
+    "closing_state": "The chapter ENDS ON THE LOG, Part 1's summary entry: 'Eight weeks. Seven contracts. Pike says there's ground out here where the Arbiter goes quiet, and nobody goes in twice. Karis has been waiting her whole life for a sentence like that. Seln says the contract was written by someone from inside. I say it pays. Two days east, through Thornwater, on the day the healer said. For eight weeks nothing out here has read me. I'd like to see what a place that reads nothing does with that.'"
+  },
+  "obligations": {
+    "must_include": [
+      "Pike's traverse entry (map delivered, cart charged) and Cael accepting it as fair; the standing shift (hold contracts coming to them) shown through the board, not asserted.",
+      "The recovery posting as an object (broker's seal, the phrase 'surveyor's instruments abandoned at a site on the Fallow road', a map reference).",
+      "Pike's stillness and the folklore given whole, in his register, with the three verbatim beats: 'I've walked past the Fallow Ring two hundred times. Never once stepped over the line. Thirty years on the roads and I've never met a practitioner who did it twice.'; Karis: 'What's the line?'; Pike: 'You'll know. Your Arbiter tells you. It stops.'",
+      "Seln's finding on the contract's language (registry prose under a broker's seal; 'somebody wrote this who learned to write inside') — logged, not understood; Pike saying unasked that Teague's crew turned it down.",
+      "The five-voice council with each voice in register; the Thornwater/ninth-day observation; nobody says 'bring her'; Karis writes it down; the decision taken for the three stated reasons.",
+      "The chapter ENDS on the Part 1 summary log entry as given (the previous chapter ended on an image).",
+      "Cael's cataloguing outside the log (the board's new postings; Pike's face going still; the map).",
+      "Manuscript format: H1 '# Chapter 8 — Quiet Ground', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Quiet ground as folklore-with-teeth (the sigil sleeps; carters walk around; stillhounds live in it; nobody goes in twice) — Chapter 9–10 measure it.",
+      "Registry prose under a broker's seal — the Compact's first reach on paper (Chapter 12, 16, 17).",
+      "'The Fallow Ring' as Pike's name for the place (descriptive site name).",
+      "Thornwater on the ninth day — Oryn joins the walk in Chapter 9."
+    ],
+    "payoffs": [
+      "Chapter 4's rumor becomes a location and a contract.",
+      "Chapter 5's freedom (paid to catalogue) ends on the first job Cael takes for a reason other than pay."
+    ],
+    "prohibited_outcomes": [
+      "Nobody goes to the site in this chapter; nobody measures, theorizes, or names 'the Quieting'; no fused stone, stakes, or ruin described beyond Pike's folklore.",
+      "No Oryn on the page; no Teague dialogue; no fight; no fragment use; no letters; no Vastin.",
+      "No new named people or places beyond 'the Fallow road' / 'the Fallow Ring' as Pike's terms.",
+      "The chapter does not end on dialogue or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Lowmarch in late summer (the meadow turning over, the board's new postings, the inn's council table); Pike's manner and one-armed economy; the posting's paper and seal as objects; the map.",
+      "Dialogue in established voices beyond the mandated lines; Seln's finding in his flat register.",
+      "Cael's interior cataloguing and the log."
+    ],
+    "approval_required": [
+      "Any new named entity; any fact about quiet ground beyond Pike's folklore; any fact about the broker or the poster."
+    ],
+    "forbidden": [
+      "Entering or seeing the site; measuring; theory; Oryn; fights; fragment use; a dialogue or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 7 as drafted — the immediate seam (Oryn's parting line, Teague's pricing)",
+      "path": "v3-runs/book-07/drafts/ch07.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch08.md",
+    "report_path": "v3-runs/book-07/reports/ch08-author-r1.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch08-editor-r1.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch08-verifier-r1.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
