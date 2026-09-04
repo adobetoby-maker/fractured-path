@@ -1,0 +1,203 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch14",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 14 card)",
+    "state": "state-b7-post-ch13 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen at open and turns NINETEEN on-page in this chapter (fourth staged birthday; the first outside any wall; Hesk's package does NOT arrive — the ferry is late; the absence sits at the table unremarked). TEN fragments + the anomaly. Party SIX at Thornwater.",
+      "Integration cost (B3 Ch14 constraint) paid on-page in a new register: the Tide-adjacent component LISTENS — for three days he perceives his own current at the edge of every thought, the nine other fragments audible as flows for the first time, 'a room he has lived in for eighteen years with the lights suddenly on'; Karis documents (voice hoarse): tenth acquisition, first non-combat, first clinical; recovery arithmetic holding; 'for now' entered.",
+      "THE DISCLOSURE TO ORYN happens here: the mechanism in full (integration, fragments, notices, the log) and the covenant's accounting (she did not consent because she could not; he chose it in writing in advance; here is the page). Her response is clinical, not moved. Fixed lines: 'So I couldn't read you because there was nothing in you shaped like a Path for the reading to find.' / 'I don't know. Maybe.' / 'I don't know either. I'm a healer, not a theorist. What I know is you've now got a piece of the thing I read with.' / 'Yes.' / (a healer's pause) 'Then use it on yourself first. Before anyone. I want to know what you find, and I want to be the one you tell.' — her consent after the fact, on her terms, with a condition; the first condition anyone has attached to the mechanism, and right to.",
+      "The circle who know the mechanism is now SIX: Cael, Lira, Brom, Karis, Seln, Oryn.",
+      "The birthday: Lira instigates one-armed; the six at a steading's common room with three kinds of food (Brom); Pike's ledger-copy of the Fallow Ring contract arrives by carter marked 'incomplete — instruments not recovered — crew returned'; the date written into the log in his own hand.",
+      "The anomaly: with a Tide-adjacent fragment in hand for the first time, the comparison DEEPENS it — the session-nine reading was not this; it predates any Tide source; the new fragment turned on himself finds something in the place session nine logged that is not the tenth fragment and not any of the nine. The standing three words ('Still open. Still real. Patience.') are RETIRED on the page and replaced; reason given. Nothing is explained; nothing is named; no theory.",
+      "Nobody says 'Quieting'; no maker; Vastin/Teague absent."
+    ]
+  },
+  "purpose": "REPAIR RUN (r4). Rebuild from drafts/ch14-r1.md byte-for-byte with the three repairs only; the built-to replacement now ends at location and movement ('and the fragments went round it.') with no temporal clause, per ED-B7CH14-005.",
+  "scene_shape": {
+    "opening_state": "Thornwater, the three days after the reading; the tenth fragment settling; Karis with the notebook and her hoarse voice.",
+    "pov_goal": "Pay the cost honestly, tell Oryn everything he owes her, and turn the reading on himself first, as she asked.",
+    "opposition": "The destabilization (listening, not pulling); the debt to a woman who came to help; the anomaly, now visible.",
+    "turn": "The cost paid and documented; the disclosure and Oryn's response (fixed lines); her condition accepted. The birthday staged against Thornwater's autumn: Lira one-armed and unstoppable; Brom's quiet competence; Oryn at the table like a woman who has sat at many tables and stayed at none; Pike's copy arriving marked 'incomplete — instruments not recovered — crew returned' (Cael frames it beside Gault's last panel note in his head); Hesk's package absent; nineteen, on the page, witnessed, the date in his own hand.",
+    "choice": "He turns the tenth fragment on himself first, before anyone — and writes what he finds only as location, not explanation: the anomaly is there, not a fragment, not the tenth, earlier than Oryn and Brom's read.",
+    "outcome": "The inventory in the satchel by firelight: ten confirmed (Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide) with notes current; the anomaly turned over with a Tide-adjacent fragment in hand for the first time; the three words retired and the reason given.",
+    "closing_state": "The chapter ENDS ON THE LOG (the previous chapter ended on dialogue): the inventory entry with: 'Still open. Still real. Now I can see it. That's worse. The tenth fragment lets me feel my own currents, and there's one in the place session nine logged, and it isn't the tenth, and it isn't any of the nine. It was there before Oryn. It was there before Brom's read caught it. I don't know what it is. I know where it is now. Patience is over; observation begins.' One log line for the old promises: 'Daeva's rematch, Reydan's answer — both ride east. Nineteen. Ten fragments. Hesk's package is on a ferry somewhere. The last one said mind the shape. I'm starting to.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The integration cost rendered over three days in the new register (listening; currents audible; the lit-room image), managed with the banked-recovery discipline; Karis's documentation and 'for now'.",
+      "The disclosure to Oryn in full (mechanism; the covenant's accounting; the page shown) and her response with the fixed lines verbatim, ending on her condition; the narration marking it as the first condition attached to the mechanism and right to.",
+      "The birthday scene as staged (Lira instigates; Brom's food; Oryn at the table; Pike's 'incomplete' copy; Hesk's package absent and not underlined; nineteen on the page; the date in his hand).",
+      "Cael's first self-reading, described ONLY as location and sensation (a place at the center that the nine — ten — go around; not a fragment; earlier than any Tide source) — no name, no theory, no 'still place' phrase yet (Ch22 names it), no 'primordial/before/source'.",
+      "The inventory with ten fragments listed with their sources; the three words retired on the page with the reason; the closing entry verbatim as in closing_state, ending on 'I'm starting to.'",
+      "Manuscript format: H1 '# Chapter 14 — Nineteen', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The anomaly located (Ch22's three readings; Ch24's ledger).",
+      "Oryn's condition: self first; ask first (the book's losable moral stake, Ch16/18/22).",
+      "Hesk's late package (Ch24: the straightedge).",
+      "'Mind the shape.'"
+    ],
+    "payoffs": [
+      "Ch13's covenant paid to Oryn in full.",
+      "The birthday tradition (B4/B5/B6 Ch14) honored outside a wall."
+    ],
+    "prohibited_outcomes": [
+      "No theory of the anomaly, the Quiet, or Cael's nature; no ontological claims by Oryn or anyone; no 'Quieting'.",
+      "No fight; no fragment use except the self-reading; no travel.",
+      "No letters arriving (the package is absent by design); no Teague, Vastin.",
+      "No new named entities; Thornwater's people unnamed.",
+      "The chapter does not end on dialogue or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means.",
+      "AUDIO (registry §8.1, peer review): do not voice 'Feryn' and 'Oryn' in the same sentence or the same read-aloud list run — they rhyme (FER-in / OR-in). In the fragment inventory, the Pressure-adjacent line may name its source as 'the Bronze from Ardenmere' or omit the name (the reader knows it); the Tide-adjacent line keeps 'Oryn'. Do not rename anyone."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Thornwater's autumn (harvest, cold mornings, the common room, three kinds of food); the listening register as sensation; Oryn's clinical manner; the birthday's small textures; Pike's copied slip as an object.",
+      "Dialogue in established voices beyond the mandated lines.",
+      "Cael's log entries (the cost entries, the inventory)."
+    ],
+    "approval_required": [
+      "Any new named entity; any fact about the anomaly beyond 'located, not a fragment, earlier'; any Tide fact beyond the taught readings."
+    ],
+    "forbidden": [
+      "Theory; ontology; fights; travel; a dialogue or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 13 as drafted — the immediate seam (the reading, the notice, 'twenty-one')",
+      "path": "v3-runs/book-07/drafts/ch13.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1 — the byte-identical base)",
+      "path": "v3-runs/book-07/drafts/ch14-r1.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "The rejected r3 (for the diff only)",
+      "path": "v3-runs/book-07/drafts/ch14-r3.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH14-001",
+      "severity": "HIGH",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "evidence": "No ask-first term set by Oryn or accepted by Cael anywhere in r1; the packet lists it as a Ch14 plant.",
+      "consequence": "The losable moral stake (Ch16/18/22) has no on-page terms.",
+      "repair_target": "Establish ask-first in Oryn's voice and Cael's acceptance outside the fixed exchange; carry into the log."
+    },
+    {
+      "id": "ED-B7CH14-002",
+      "severity": "MEDIUM",
+      "gate": "core.continuity_persistence",
+      "evidence": "Closing log: 'use it on myself first, before anyone; tell her what I find. Met tonight.' — Oryn asleep, nothing told.",
+      "consequence": "The ethical ledger is inaccurate where the chapter relies on it.",
+      "repair_target": "Split the condition's parts: done / accepted-untested / owed."
+    },
+    {
+      "id": "ED-B7CH14-003",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes",
+      "evidence": "Self-reading: 'went round it as if they had been built to'.",
+      "consequence": "Implied design/purpose in a chapter restricted to location and sensation.",
+      "repair_target": "Remove the built-to implication; keep location, movement, temporal comparison."
+    },
+    {
+      "id": "ED-B7CH14-004",
+      "severity": "MEDIUM",
+      "gate": "recheck.targeted_repair_diff",
+      "evidence": "r2 diff against r1: thirteen hunks outside the three repair targets.",
+      "consequence": "Unaudited prose drift; non-repair prose not certifiable as unchanged.",
+      "repair_target": "Restore every non-repair hunk to r1 byte-for-byte; keep only the three repairs; tighten inserted text for word count."
+    },
+    {
+      "id": "ED-B7CH14-005",
+      "severity": "HIGH",
+      "gate": "core.continuity_persistence",
+      "evidence": "r3: 'and had for longer than he had owned any' — fragments as subject.",
+      "consequence": "Implies fragment action before acquisition / an unauthorized chronology.",
+      "repair_target": "Location and movement only; established temporal facts stay in their existing sentences."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch14.md",
+    "report_path": "v3-runs/book-07/reports/ch14-author-r4.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch14-editor-r4.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch14-verifier-r4.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

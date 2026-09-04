@@ -1,0 +1,37 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch14-r2",
+  "scene_id": "b7-ch14",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch14.md",
+  "word_count": 5270,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH14-001 (HIGH): establish Oryn's ask-first term and Cael's acceptance outside the fixed exchange; carry into the log.",
+      "status": "MET",
+      "evidence": "Yard scene, second day, after 'It's just that I didn't know they were places.': Oryn — \"One more, while it's loud. When it's quiet enough to turn outward — and it will be; that's what it's for — you ask. Every time. Before your hand goes on anyone. I ask a dying man before I put my hands on him, and if he says no I sit with him and don't. You've got a piece of the thing I read with. It comes with that, or it doesn't come.\" / \"Yes,\" Cael said. / \"Say it whole.\" / \"I ask first. Every time.\" The fixed exchange in the back room is untouched and still ends on her condition. The log now carries the term (see 002)."
+    },
+    {
+      "obligation": "ED-B7CH14-002 (MEDIUM): keep self-first (done), ask-first (accepted, untested), and telling Oryn (owed) distinct in the log.",
+      "status": "MET",
+      "evidence": "Closing log: \"*The condition, in its parts. Oryn: use it on myself first, before anyone — done tonight. Ask, every time, before it goes on anyone else — said whole in the yard, and not yet tested, because I've not turned it on anyone. Tell her what I find — owed, not done; she's asleep, and it's hers in the morning, and it goes below as what it is and not what it means ...*\" 'Met tonight' removed."
+    },
+    {
+      "obligation": "ED-B7CH14-003 (HIGH): remove the built-to implication from the self-reading; keep location, movement, temporal comparison.",
+      "status": "MET",
+      "evidence": "Replaced with: \"and this was inside, and the fragments went round it, and had been going round it for longer than he had had any of them.\" grep 'built to' → 0. The river-bed image earlier in the section ('the way the currents in a river go round a thing on the bed that they have gone round for so long that the going-round is the river's shape and not the thing's') describes movement and duration only and is retained."
+    }
+  ],
+  "inventions": [
+    "Oryn's ask-first term in her clinical register (the dying man; 'It comes with that, or it doesn't come'), placed in the yard on the second day of the cost."
+  ],
+  "state_change_proposals": [
+    "Oryn's condition has THREE parts on the page: self first (done, 102nd night); ask first, every time, before the reading goes on anyone (said whole by Cael in the yard, 101st; untested at Ch14 close); tell Oryn what he found (owed at Ch14 close — not yet told).",
+    "The self-reading finding is logged as location/movement/duration only; no design language."
+  ],
+  "deviations": [
+    "Net +~60 words from the ask-first insert and the split condition paragraph, offset by trims inside the chapter (the instrument-down paragraph shortened; small clauses cut in the disclosure, the yard, Karis's scene, the birthday, and the Storm line of the inventory). Final 5270 words, within the band. No mandated line changed.",
+    "Repair applied by the author seat in the current session directly to the draft (r1 preserved as drafts/ch14-r1.md)."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch14-r4",
+  "scene_id": "b7-ch14",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch14.md",
+  "word_count": 5279,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH14-004 (MEDIUM): restore every non-repair hunk to r1 byte-for-byte; keep only the three repairs; tighten inserted text for word count.",
+      "status": "MET",
+      "evidence": "r4 generated programmatically from drafts/ch14-r1.md with exactly three string replacements; diff r1→r4: three hunks. Word count 5279."
+    },
+    {
+      "obligation": "ED-B7CH14-001 (HIGH): establish ask-first and Cael's acceptance outside the fixed exchange.",
+      "status": "MET",
+      "evidence": "Yard, second day, inserted after 'It's just that I didn't know they were places.': \"And when it turns outward, you ask. Every time. I ask the dying.\" / \"I ask first. Every time.\" (Oryn's line follows Cael's, so attribution is unambiguous; Ch16 restates the term in full per the arc.)"
+    },
+    {
+      "obligation": "ED-B7CH14-002 (MEDIUM): keep the condition's parts distinct in the log.",
+      "status": "MET",
+      "evidence": "\"*The condition, in parts. Self first: done. Ask first: said in the yard, untested. Tell her: owed. What I found goes below, as what it is and not what it means.*\""
+    },
+    {
+      "obligation": "ED-B7CH14-003 + ED-B7CH14-005: remove the built-to implication and any unauthorized chronology.",
+      "status": "MET",
+      "evidence": "\"and this was inside, and the fragments went round it.\" — sentence ends at location and movement; the paragraph's existing sentences carry the authorized temporal facts (before Oryn; before Brom's read caught it)."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [
+    "As in r2's report: Oryn's condition has three parts (self first — done 102nd; ask first — said in the yard 101st, untested; tell her — owed)."
+  ],
+  "deviations": [
+    "r2 and r3 preserved as drafts/ch14-r2.md and ch14-r3.md for the diffs; r4 differs from r1 in exactly three places."
+  ],
+  "blockers": []
+}

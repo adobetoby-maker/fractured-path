@@ -1,0 +1,82 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch14-r1",
+  "scene_id": "b7-ch14",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch14.md",
+  "word_count": 5270,
+  "obligations": [
+    {
+      "obligation": "must_include: The integration cost rendered over three days in the new register (listening; currents audible; the lit-room image), managed with the banked-recovery discipline; Karis's documentation and 'for now'.",
+      "status": "MET",
+      "evidence": "Cost onset at dusk of the 100th, in the loft: 'What arrived was not a pull. ... This did not want. It *listened*.' / 'He lay on his back on the sacks in the dark and heard himself.' The lit-room image: 'It was that it had always been there, and that he was standing in a room he had lived in for eighteen years with the lights suddenly on.' Currents audible one by one: 'Wind, first. ... Pressure under it, slower. Iron, deep and dense and very quiet, running like water under a floor. ... by the small hours he had nine, each with a sound that was not a sound'. Banked discipline: 'the circle told on the loft ladder before dark, in four sentences; nothing scheduled; water and the last of the bread within reach ... and Brom on the ladder's head with the lantern turned down to a thread, because it was his turn, and the rota had never once been discussed.' Second day: attention as the cost ('a hand that can hear every string in a room wants to go to each one, and the going was the cost'); Storm resettles once, heard from inside, closes on its own; the Wind economy's late floor. Karis, third day, hoarse: 'Tenth. ... First non-combat. First clinical.' / 'The arithmetic says two days to an idle state and it's been two and a half, and the half's the new register ... Holding. The curve holds.' / 'For now.' / 'I enter it because the model has no ceiling and a model with no ceiling is a model.'"
+    },
+    {
+      "obligation": "must_include: The disclosure to Oryn in full (mechanism; the covenant's accounting; the page shown) and her response with the fixed lines verbatim, ending on her condition; the narration marking it as the first condition attached to the mechanism and right to.",
+      "status": "MET",
+      "evidence": "Seams directly off Ch13's last line: 'He managed twenty-one lying on his left side on a plank table with the sun on the ceiling, and told her from the beginning'. Mechanism in full (Kindling, the eleven seconds, the notebook, the first sidestep, the first notice and its format, the count of nine and the sources by Path, three names given, the conditions, the model), then the act on her table and the notice said to her line by line. The page: 'There's a page. I wrote it last night, before, in the loft ...' / 'Get it.' — he fetches the leather book from the loft; she reads the covenant entry once and the counted parts twice, and 'read *the real one is that I don't know what she'd say*, and read on past that as if it were a wound she had already seen the extent of.' Fixed lines verbatim and in order: 'So I couldn't read you because there was nothing in you shaped like a Path for the reading to find.' / 'I don't know. Maybe.' / 'I don't know either. I'm a healer, not a theorist.' ... 'What I know is you've now got a piece of the thing I read with.' / 'Yes.' / (a healer's pause, described) 'Then use it on yourself first. Before anyone.' ... 'I want to know what you find, and I want to be the one you tell.' Narration marks it: 'nobody had ever attached a condition to it before. Not a price; the Compact priced it. A condition: a thing he would have to do first, and a person he would have to tell, both hers to set, and both right. ... it was the only one in the log that had ever come back with terms.' Cael accepts: 'Yes. First. And you.'"
+    },
+    {
+      "obligation": "must_include: The birthday scene as staged (Lira instigates; Brom's food; Oryn at the table; Pike's 'incomplete' copy; Hesk's package absent and not underlined; nineteen on the page; the date in his hand).",
+      "status": "MET",
+      "evidence": "'The birthday fell on the third day, and Lira instigated it, one-armed' — at the house door to the steading's woman: 'It's his birthday. Nineteen. We've got three days' marks and a healer and a mule, and I want your common room and whatever you'll sell us that isn't bread.' Brom's food, three kinds (a kid roasted whole, apples baked with honey, a cheese) 'from a hold that had three kinds of everything because it had a wall and a well and a woman who counted' — 'said, \"Three,\" and sat.' Oryn: 'sat at the table the way a woman sits who has sat at a great many tables and stayed at none of them.' The date in his hand, mid-meal: '*Hundred and second day past the Line. Nineteen. Written at Thornwater, in the steading's common room, autumn, the fire lit for us. Witnesses: four of my own, and a healer who's a stop.*' Pike's copy by carter, in Pike's register: '*Recovery, Fallow road, broker's posting. Taken. Witnessed. Completed: incomplete — instruments not recovered — crew returned. Six went in. Six came out. No price paid.*' — framed beside Gault's last note ('*the instruments will not see its like*'): 'one closed complete, and just ... one closed incomplete, and true'. The package absent, not underlined: 'There was nothing else in the carter's bag with his name on it. The ferry was a month and had been late ... He did not look at the door twice.'"
+    },
+    {
+      "obligation": "must_include: Cael's first self-reading, described ONLY as location and sensation (a place at the center that the nine — ten — go around; not a fragment; earlier than any Tide source) — no name, no theory, no 'still place' phrase yet, no 'primordial/before/source'.",
+      "status": "MET",
+      "evidence": "Night of the 102nd, alone, per Oryn's condition: 'went in, and went along.' Ten counted; no banks found — entered as a limit of the reading first ('the not-finding was a fact about the reading and not about the thing read, and he made himself write that down before he wrote anything else'). The place: 'It was there.' / 'It was not a current. ... everything else in him *went*, and this did not. It was not the tenth ... It was not any of the nine ... It was a place. Near the middle — under where her front hand had been ... and the ten flows went round it. Not through. Round, the way the currents in a river go round a thing on the bed'. Refusal to name: 'He did not name it. He did not have a name that was not a guess, and a guess was what the registry had done to him at fourteen.' Three non-guesses counted: before Oryn (session nine five years old); before Brom's read; not the Quiet ('the Quiet was outside him ... and this was inside'). grep: 'still place' 0; 'primordial' 0; 'source' appears only as fragment-source/'a patient's source' (not ontological); 'before' only in the mandated temporal sense."
+    },
+    {
+      "obligation": "must_include: The inventory with ten fragments listed with their sources; the three words retired on the page with the reason; the closing entry verbatim as in closing_state, ending on 'I'm starting to.'",
+      "status": "MET",
+      "evidence": "Closing log lists all ten with sources (Wind — Lira; Pressure — the Bronze from Ardenmere; Iron — Brom; Compression — Reydan; Ember — Karis; Shadow — source protected; Storm — Daeva; Anchor — unnamed; Blade — Ephram; Tide — Oryn, with the clinical field and the cost). The retirement with reason: 'The three words are retired. They were the right three for a thing I couldn't see and could only wait on ... I'm taking them out tonight for a reason, so here's the reason.' Then the mandated paragraph verbatim ('Still open. Still real. Now I can see it. That's worse. ... Patience is over; observation begins.') and the final line verbatim ('Daeva's rematch, Reydan's answer — both ride east. Nineteen. Ten fragments. Hesk's package is on a ferry somewhere. The last one said mind the shape. I'm starting to.'). File ends on that line."
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 14 — Nineteen', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; seven '---' breaks; last line is the closing log sentence; metadata grep 0."
+    },
+    {
+      "obligation": "plants: the anomaly located; Oryn's condition (self first; ask first); Hesk's late package; 'Mind the shape.'",
+      "status": "MET",
+      "evidence": "Anomaly located in the self-reading and the log ('I know where it is now'). Condition set by Oryn and accepted ('Yes. First. And you.') and met ('The condition ... Met tonight.'). Package absent at the table, 'on a ferry somewhere' in the log. 'The last one said mind the shape' — refers to the B6 Ch14 satchel note, the last package (the B7 Ch4 letter said 'mind the roads' — no contradiction: 'the last one' is the last package, and the log says 'Hesk's package' in the preceding sentence)."
+    },
+    {
+      "obligation": "payoffs: Ch13's covenant paid to Oryn in full; the birthday tradition (B4/B5/B6 Ch14) honored outside a wall.",
+      "status": "MET",
+      "evidence": "Covenant paid on the table and by the page ('It's yours to read. It says what I knew and what I didn't and why I didn't tell you before, and the last reason isn't a good one, and it's on the page with the good ones.'). Birthday: 'per the custom now four birthdays old and the first kept without an institution's wall round it'; the instrument put down for an hour 'which was the second time this year and the first time on ground no registry had drawn' (B6 Ch14 precedent)."
+    },
+    {
+      "obligation": "prohibited_outcomes: no theory/ontology; no 'Quieting'; no fight; no fragment use except the self-reading; no travel; no letters arriving; no Teague/Vastin; no new named entities; ending not dialogue/image; tic caps; no 'at the pitch'; Feryn and Oryn never voiced in one sentence or list run.",
+      "status": "MET",
+      "evidence": "grep -ci quieting 0 (a verb use 'quieting' was removed in the trim pass: 'putting to sleep'); 'Architect' 0; no maker/age claims — Oryn: 'I don't know either. I'm a healer, not a theorist.'; Karis's only claim is about instruments. No fight; fragment use = the self-reading only (Anchor 'can want' idle texture in the log). No travel (Thornwater throughout). Only Pike's ledger copy arrives — a ledger slip, not a letter; Hesk's package does not. Teague/Vastin absent. No new names (the woman, her husband, the boy, the carter unnamed). Ends on the log. Tic greps 0; one-word paragraphs 2 ('Partial.' / the fixed 'Yes.'); 'the way X' identical construction max 2; 'at the pitch' 0. 'Feryn' 0 in the chapter — the Pressure line reads 'the Bronze from Ardenmere'."
+    }
+  ],
+  "inventions": [
+    "Oryn's clinical question during the cost, 'Where is it loudest.' (aimed at a body; answered as a body) and 'Does it hurt in the right places?' reused from Ch7 with a new answer ('It's in the right places. It's just that I didn't know they were places.').",
+    "Brom's forge anecdote on the first night (his father hearing every hammer from the house; 'that was because she'd never once listened') — in his established register of weight-by-example (B6 Ch14 precedent: the dropped floor).",
+    "Karis's third-day observation, entered 'about the researcher and not about the subject': that Cael now has an instrument she will never have, and that she has noticed he could use it on her and is not asking.",
+    "Pike's copy wording ('Taken. Witnessed. Completed: incomplete — instruments not recovered — crew returned. Six went in. Six came out. No price paid.') in his Ch3 ledger register; Seln's reading of it: 'He's counted her. So has the broker.'",
+    "The birthday's textures: the steading's common room under the loft; a kid from the hold's pen; honeyed apples; a whole cheese; Lira paying one-handed; the fire lit for them and not for the hold; the day fixed as the hundred and second past the Line (third day after the reading).",
+    "Cael's self-reading posture (one hand on the sternum, the other under his back) and the river-bed image for the flows going round the place."
+  ],
+  "state_change_proposals": [
+    "Timeline: Ch14 spans the 100th (the disclosure on the table, morning; cost onset at dusk), the 101st (the worst of the listening; Storm resettled once, heard; Oryn's yard question), and the 102nd (Karis's documentation; the birthday; Pike's copy by carter; the self-reading at night; the inventory). Cael turns NINETEEN on the 102nd; every reference after the meal's middle reads nineteen.",
+    "Cael: TEN fragments; integration cost paid — the Tide-adjacent component listens (currents perceptible at the edge of thought; the other nine audible as flows); idle state reached by the third night ('it isn't quiet, it's just that I've stopped putting my hand to every string'). Storm resettled once (101st, the yard, closed on its own in a quarter of an hour). Anchor idle-wanted nothing new. No injuries open (ribs done; calf a seam). The anomaly LOCATED by the self-reading: a place near the middle that does not flow, that the ten flows go round; not a fragment, not the tenth, not any of the nine, before Oryn, before Brom's read, not the Quiet — logged as location, unnamed. The standing three words RETIRED on the page; the log now carries the four-sentence entry.",
+    "Oryn: KNOWS THE MECHANISM (told in full on the table on the 100th; read the covenant page). The circle who know is SIX. Her consent given after the fact with a condition: self first, and she is the one he tells. The condition has been met once (the self-reading, 102nd night); he has NOT yet told her what he found at Ch14 close (Ch22's second reading). She worked Thornwater's hurts on the 101st (a split thumb, a child's cough, the woman's knee) — route stops. She told the seven holds in order at the table.",
+    "Karis: voice back, hoarse and usable, by the 102nd. Documented the tenth; 'for now' entered; her observation that the subject now owns an instrument the researcher does not.",
+    "Lira: arm slung, unused; one-handed pouch and cheese; taped foot kept on the bench. Brom: string restriction expired (three days from the 97th); the mended hand set the board down. Seln: at the door end, two doors; left first.",
+    "Pike's ledger copy of the Fallow Ring contract is in Cael's satchel: incomplete; instruments not recovered; crew returned; six in, six out; no price paid. The completion report has therefore reached Lowmarch's ledger (and, per Ch12, the broker) by the 102nd.",
+    "Hesk's package has NOT arrived (ferry late); no letters arrived at Thornwater. Marks: one hundred and eight in hand; nothing owed; nothing earned.",
+    "Kept sentences: Oryn — 'Get it.' / 'Where is it loudest.' / 'A stop. Good. Write it down before it changes.'; Brom — 'Three.' / 'Nineteen.'; Seln — 'Six went in. Six came out. He's counted her. So has the broker.'; Karis — 'For now.' / 'You have an instrument now. It's not mine. It never will be. I'm entering that I know that.'; Lira — 'It's his birthday. Nineteen.'"
+  ],
+  "deviations": [
+    "Length: the first full pass came in at 5,636 words (over the 5,290 ceiling) and was trimmed inside the band by a line pass that cut connective tissue only — no beat, obligation, or mandated line removed. Final 5270 words.",
+    "The disclosure is staged ON the table in Ch13's back room, immediately after the previous chapter's last line, rather than in the 'three days after' the card's opening_state names — because Ch13's covenant fixed the timing ('On her table, before I'm off it') and the seam is the mandated 'twenty-one'. The three days of cost and the birthday follow it.",
+    "The fixed line 'Yes.' (after 'a piece of the thing I read with') is rendered bare; the first 'Yes.' in the chapter and the bare 'Karis.' carry attribution ('he said') to hold the one-word-paragraph cap at two.",
+    "Two references to the academy above Ostrand avoid the name 'Halcenvane' per the registry disposition (pending rename); 'Ostrand' used instead, as Ch6 did.",
+    "Oryn's 'Does it hurt in the right places?' is re-asked (Ch7 first asked it); the answer is new. Reported in case the editor reads a repeated question as a tic.",
+    "The birthday's 'first kept without an institution's wall round it' — Thornwater has a wall; the phrasing distinguishes institution walls from the steading's."
+  ],
+  "blockers": []
+}

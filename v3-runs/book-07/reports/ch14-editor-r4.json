@@ -1,0 +1,344 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch14-r4-editor",
+  "scene_id": "b7-ch14",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "recheck.ed-b7-ch14-001",
+      "state": "PASS",
+      "evidence": "RECHECKED and CLOSED. Oryn sets ask-first and Cael accepts it: 'And when it turns outward, you ask. Every time. I ask the dying.' / 'I ask first. Every time.'"
+    },
+    {
+      "gate": "recheck.ed-b7-ch14-002",
+      "state": "PASS",
+      "evidence": "RECHECKED and CLOSED. The ledger distinguishes completed, untested, and owed terms: 'The condition, in parts. Self first: done. Ask first: said in the yard, untested. Tell her: owed.'"
+    },
+    {
+      "gate": "recheck.ed-b7-ch14-003",
+      "state": "PASS",
+      "evidence": "RECHECKED and CLOSED. The prohibited design implication is gone; the sentence now ends on location and movement: 'And it was not the Quiet — the Quiet was outside him, a line on the ground that stopped Paths, and this was inside, and the fragments went round it.'"
+    },
+    {
+      "gate": "recheck.ed-b7-ch14-004",
+      "state": "PASS",
+      "evidence": "RECHECKED and CLOSED. A zero-context r1-to-current diff has exactly three authorized hunks: the ask-first exchange, the built-to replacement, and the condition-status ledger. No unrelated passage changed."
+    },
+    {
+      "gate": "recheck.ed-b7-ch14-005",
+      "state": "PASS",
+      "evidence": "RECHECKED and CLOSED. The verifier-prescribed repair appears exactly: 'and the fragments went round it.' The r3 clause 'and had for longer than he had owned any' is absent; the existing sentences retain only the authorized before-Oryn and before-Brom comparisons."
+    },
+    {
+      "gate": "recheck.recorded_strengths",
+      "state": "PASS",
+      "evidence": "All seven r3 strengths survive: mechanism-and-use worldbuilding; the bounded self-reading set piece; Oryn's clinical authority; the three-day attention cost; the work-built birthday; the exact audio-safe inventory/log close; and production, attribution, naming, and injury discipline. The sole r3-to-current change removes nine defective words from the anomaly paragraph and alters none of those passages."
+    },
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "Day 102, the age change from eighteen to nineteen, party count six, ten fragments plus a separate anomaly, injuries, recovery, marks, and knowledge scope reconcile with the running state and Chapter 13."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third remains inside Cael's counts, bodily perception, memory, and explicitly bounded inference; Oryn and Karis contribute observations through speech and work."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "The manuscript includes the full disclosure and fixed exchange; the three-day listening cost and lit-room image; Karis's tenth/first-noncombat/first-clinical arithmetic and 'For now'; self-first, ask-first, and tell-Oryn terms; the staged birthday; Pike's incomplete copy; the absent package; witnessed nineteen; the bounded self-reading; the ten-source inventory; retired words and reason; and both mandated closing log entries."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "No theory or ontology is offered; no fight, travel, outward fragment use, arriving letter or package, new named entity, Quieting, Teague, Vastin, modern idiom, dialogue/image ending, prohibited pitch phrase, or manuscript metadata appears. Pike's required ledger-copy slip arrives. 'Quiet' is used only to distinguish the internal location from the established external phenomenon."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The cost follows Chapter 13's Tide acquisition, established banked recovery manages it, and the self-reading uses the established self/contact component. The result locates rather than resolves the anomaly."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Promises, possessions, injuries, depletion, party size, fragment history, source protections, and the three condition states persist accurately. The repaired line makes no pre-acquisition claim about fragment action."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Cael pays the acquisition cost, expands the knowing circle to six, accepts Oryn's authority, turns nineteen outside an institution, locates the anomaly, and replaces patience with observation; emotion moves through procedure and objects."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose uses the series-specific cataloguing, procedural, object-emotion register without naming or detectably imitating an outside author."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the disclosure, currents, room, self-reading, and inventory. Oryn stays clinical, Brom speaks through weight and work, Karis through method, Lira through action, and Seln through accounting. The Power Log remains character-owned plain first person."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Thornwater is revealed through food, marks, wall, well, and room use; healing through hands, reserve, route, and consent; the board through Pike's copied completion process; progression through recovery banking, resettling, and idle-state practice."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new name, subsystem, or unauthorized fact is minted. The anomaly is only located and sensed: 'It was a place. Near the middle ... and the ten flows went round it.' It is not named or explained."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5: the birthday is the only scene with three or more speaking characters; every spoken paragraph is attributed or immediately anchored by the named speaker's action, so the longest unattributed run is 0. Logs and recited notice fields remain intelligible without typography."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Checked aloud against craft/NAME_REGISTRY.md: Cael, Lira, Brom, Karis, Seln, Oryn, Pike, Reydan, Daeva, Ephram, Hesk, Denvash, Ostrand, Greyvane, Thornwater, Lowmarch, Ardenmere, and Fallow road remain distinct at speed. Feryn is omitted, so Feryn/Oryn never share a sentence or inventory run. No reserved or new name appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Scope: v3-runs/book-07/drafts/ch14.md. Section 8.4 grep 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. Section 10 summary-substitution grep returns 0. wc -w returns 5,279, within 3,910–5,290. The H1, prose-only separators, and terminal prose line are correct."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive counts, Chapter 14 / Book 7 final drafts through Chapter 14: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/2; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Both book hits for 'There it was' are substrings, not the capped beat. Chapter 14 has 2 single-word paragraphs, 3 strict 'the way she/he/you [verb]' candidates with the only exact construction repeated twice, and 41 em dashes. Modern-register, summary-family, feeling-declaration, growth-declaration, metadata, and prohibited-pitch searches all return 0 for the chapter."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 13 ends on Oryn's spoken dialogue, 'I want to see if you can manage twenty-one.' Chapter 14 ends on Cael's written Power Log, 'I'm starting to.' The final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Against the base snapshot, running state, and Chapter 13, the inventory reconciles Wind/Lira, Pressure/the Bronze from Ardenmere, Iron/Brom, Compression/Reydan, Ember/Karis, Shadow/source protected, Storm/Daeva, Anchor/unnamed, Blade/Ephram, and Tide/Oryn; the anomaly remains separate. Lira's left arm remains slung and right foot taped; Brom's mended right hand works after restriction; Karis's bruising and hoarse voice persist; Cael's calf is acknowledged; Oryn's depletion and route debt remain visible."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The party and table count are six. Oryn learns the mechanism, notices, log, covenant, and permitted source identities, making the knowing circle Cael, Lira, Brom, Karis, Seln, and Oryn. No outsider learns it."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "Chapter 13 supplies the acquisition cause; Chapter 14 records the delta as the tenth fragment, Tide-adjacent, partial, Iron-equivalent, self/contact current-perception and architecture-reading, first clinical and first noncombat integration."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The cost lasts three staged days: involuntary listening, divided attention, Storm resettling, Wind's half-beat disruption, recovery time, and an idle state that manages rather than erases perception. Consent debt creates continuing relational terms."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress changes Oryn's knowledge and authority, Karis's relationship to her subject, Cael's ethical practice, the circle's size, and the anomaly inquiry."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "The self-reading uses only the previously displayed self/contact current-perception and architecture-reading components. It yields bounded observation, not escape or combat victory."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "No rival beat is assigned; Pike's ledger, the broker-report path, the courier chain, Thornwater's economy, and Oryn's seven-hold route continue independently of Cael."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The chapter moves through disclosure, recovery, consent terms, birthday ritual, institutional accounting, and private diagnosis. Its problem is attention and responsibility, not another combat escalation."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Failed readings and the Ring's costs produce banked recovery, full disclosure, self-first practice, ask-first practice, and a more disciplined observation ledger."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new System display renders. Cael recounts the Chapter 13 notice to Oryn and later writes his manual log."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "PASS",
+      "evidence": "The recounted notice fields and closing inventory match the approved ten-fragment state and keep the session-nine anomaly outside the count."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "PASS",
+      "evidence": "The notice is recited line by line, and the log uses speakable labels and sentences; meaning does not depend on brackets, italics, or layout."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "PASS",
+      "evidence": "Recounting the notice lets Oryn understand the taking and set terms. The closing inventory records cost, conditions, anomaly status, and retired language."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The anomaly's name, nature, source, purpose, and relation to later secrets remain withheld. The repaired sentence asserts only internal location and present movement."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "The self-reading combines no unestablished component; it turns the acquired perception/reading component on its explicitly approved self target."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "The Iron-equivalent Tide component is diagnostic, while Oryn's finite professional reserve changes care, schedule, route debt, and consent obligations across seven holds."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The self-reading traces to Chapter 13's 'Self and contact' field and Oryn's demonstrated method; it locates rather than solves the anomaly."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "The component is partial, perceptual, deliberate, contact-bound when outward, takes three days to settle, taxes attention, and has no combat effect."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named entity, faction, place, Path, or subsystem appears. Existing recovery, Tide reading, Thornwater, courier, ledger, birthday, and log mechanisms are extended."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: disclose the acquisition and pay its cost. Delivery: Oryn receives the mechanism and page, sets terms, the cost reaches an idle state, nineteen is witnessed, and the anomaly becomes locatable observation."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "Session nine, Brom's edge-read, Chapter 13's Tide method, and the self/contact field plant the bounded location reveal. The repaired prose adds no unplanted chronology or ontology."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The anomaly inquiry receives progress rather than an answer. The consent/moral thread receives self-first, ask-first, and tell-Oryn obligations with accurately distinct states."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Mechanics remain grounded in sacks, ladder, lantern, breath, breastbone, well rim, delayed footing, string/forge sound, hands, food, room positions, and river-current sensation."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "PASS",
+      "evidence": "The declared continuity-repair pass is isolated: r1-to-current has exactly three authorized repair hunks, and r3-to-current has only the verifier-prescribed deletion."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The disclosure room, loft, yard, birthday table, and self-reading posture are spatially legible."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. Noncombat cadence varies perceptual accumulation with clipped clinical and ledger findings."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants appear. Dialogue remains assignable by speaker strategy and register."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Lira's slung left arm and taped right foot, Brom's mended right hand, Karis's recovering throat and voice, Cael's calf, and Oryn's depletion recur or remain explicitly resolved."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Disclosure, recovery, clinical observation, birthday, copied verdict, self-reading, and inventory occur on-page. No assigned major beat is replaced by summary."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. In the noncombat set pieces, table, window, ladder, loft, well, common-room seating, carter delivery, and lantern perform causal or procedural work."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "The delta and bill are explicit: ten fragments, self/contact perception, three days of intrusive listening and attention cost, temporary framework disruption, and new relational conditions."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No major fight win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rival advancement is assigned to this rest chapter."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The capability changes who knows the mechanism, Oryn's authority, Karis's research relationship, the crew's ethical practice, and Pike's institutional count of six."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "PASS",
+      "evidence": "No new System box renders. The prior notice is owned and recited by Cael for disclosure; the Power Log is written by Cael for inventory and accountability."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Consent and institutional critique are dramatized through the advance page, Oryn reading it, her clinical terms, Cael accepting them, and Pike's concrete ledger process."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "PASS",
+      "evidence": "Dry humor about twenty-one minutes, lying down, food, and stops preserves character and yields to bodily, ethical, or ledger consequence."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The scheduled quiet chapter processes responsibility, absence, belonging, bodily change, and uncertainty through procedure and objects without deflection."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "Oryn's authority and trust are concrete and losable. The chapter plants all three trackable conditions: self first, ask first every time, and report the finding to Oryn."
+    }
+  ],
+  "findings": [],
+  "concerns": [
+    "Taste only, SURVIVED: the absent package is handled through nothing else in the bag, the late ferry, not looking at the door twice, and Lira doubling his cheese. This effective object-work may underline the absence more than 'sits at the table unremarked,' but no character remarks on it aloud.",
+    "Taste only, SURVIVED: 'thing with a rule in it' and instrument/count vocabulary recur closely. They remain coherent with Cael's established cognition, but a later line pass could test whether every recurrence adds a distinct turn.",
+    "Taste only, SURVIVED: 'The birthday fell on the third day ... and both were true at once, because both were' is more epigrammatic than the surrounding procedural voice and briefly foregrounds sentence design.",
+    "There is no fight, as the packet requires. Yes, the self-reading is a memorable noncombat set piece: the dark loft makes privacy and 'before anyone' load-bearing, five sleeping companions make the ethical boundary observable, and sternum/back hand placement reproduces Oryn's method. Win sentence: Cael removed the anomaly's ability to remain only an unlocated waiting problem by turning the Tide-adjacent reading on himself."
+  ],
+  "strengths": [
+    "SURVIVED — Yes, worldbuilding is done through mechanism and use: Thornwater's food and marks, Oryn's route and finite reserve, Pike's copied completion process, banked recovery, fragment resettling, and the practical consent ledger carry the world without dossier exposition.",
+    "SURVIVED — The self-reading remains a memorable noncombat set piece. Posture, darkness, sleeping witnesses, and the log make the procedure accountable; terrain and placement are load-bearing, and its result is deliberately bounded to location rather than explanation.",
+    "SURVIVED AND STRENGTHENED — Oryn receives real authority rather than serving as an approval reward. She reads the page, distinguishes observation from theory, sets self-first, ask-first, and tell-me terms, and remains clinically distinct from the established circle.",
+    "SURVIVED — The integration cost is legible without generic damage: intrusive current perception creates an attention bill, Storm resettles audibly, Wind's ground arrives late, and the idle state is learned as restraint rather than silence.",
+    "SURVIVED — The birthday builds found family through work: Lira practices one-handed payment, Brom obtains three foods without an audible order, Karis spends her returned voice, Seln reads the institutional consequence, and Oryn remains both at the table and independent through route accounting.",
+    "SURVIVED — The fragment inventory is exact and audio-safe. Ten sources reconcile with state, the Pressure line avoids the Feryn/Oryn rhyme, the anomaly remains uncounted, the three consent states are accurate, and the mandated final paragraphs close on the log after Chapter 13's dialogue ending.",
+    "SURVIVED — Production hygiene remains strong: 5,279 words is in range; metadata, summary-substitution, modern-register, feeling/growth, prohibited-pitch, and chapter-level anti-tic searches are clean; attribution survives the six-speaker scene; names pass the registry ear check; and injuries persist through posture and use."
+  ]
+}

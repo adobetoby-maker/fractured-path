@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch14-verifier-r2",
+  "scene_id": "b7-ch14",
+  "editor_run_id": "b7-ch14-r2-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch14-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch14-r1.md drafts/ch14.md (r2) → 16 hunks; only 3 correspond to the verified findings",
+        "packets/ch14-repair-r2.json purpose: 'Do not rewrite unrelated passages'"
+      ],
+      "reason": "The author seat trimmed unrelated paragraphs to offset the repair inserts. Repair: rebuild r3 from r1 byte-for-byte plus the three repair replacements only, with the inserted text tightened so the chapter stays within the band."
+    }
+  ]
+}
