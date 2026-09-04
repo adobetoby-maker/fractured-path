@@ -1,0 +1,73 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch16-r1",
+  "scene_id": "b7-ch16",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch16.md",
+  "word_count": 4664,
+  "obligations": [
+    {
+      "obligation": "must_include: The Lira scene at the wall with the fixed exchange verbatim.",
+      "status": "MET",
+      "evidence": "Thornwater's gate-walk at dusk, the 110th day; his order in full (the line; the ring; the den; the run; 'Mine's been dark since I was fourteen. Eleven seconds ... There was nothing for the line to turn off'; 'all of it worked ... and I don't know why'). Fixed, contiguous: 'You told me when you knew. You don't know. So you told me *that*. Keep doing it.' / 'It scares you.' / 'Out there I was the thing the system couldn't hold. In there I was the only thing that *worked*. I don't know which one's worse.' / 'The second one. You're allowed to say so.' Then 'The second one,' said back, and her hand against his boot."
+    },
+    {
+      "obligation": "must_include: The circle of six with the fact stated, the witnesses' accounts, Karis's findings on the table, Seln's and Oryn's reads verbatim, the four data points, Karis's decision line verbatim; no theory.",
+      "status": "MET",
+      "evidence": "Six catalogued at the common-room table; the fact said 'in the same order'; Brom (the lip), Karis (under a dog), Seln (the rut, 'I'd have done it with a lamp. You did it with a Path.'), Oryn (Lira's arm), Lira ('I've said mine'); Karis says the five findings and closes the book on the sixth; Seln verbatim: 'They know something turns Paths off. They *don't* know something doesn't turn off. Yet.'; Oryn verbatim: 'My hands stop at that line. Yours don't. I had my hands in you for twenty minutes and I can tell you what I didn't find, which is a Path. That's all I've got.' / 'I'm not going to guess past it.' The four on the carter's map: one site; 'a handful'; three circles; the contract written inside — 'None of them is a why. All of them are a where.' Karis verbatim: 'We find the others. All of them. And we find out whether they're the same.' Narration: 'not one of them putting a verb after it'."
+    },
+    {
+      "obligation": "must_include: The Vastin window: one paragraph, three sentences, limited third person, exactly the content in the knowledge boundary; unannotated; he recognizes nothing.",
+      "status": "MET",
+      "evidence": "One paragraph between '---' breaks; three sentences (counted programmatically): the courtesy copy forwarded through a provincial registry office 'that had no interest in any board east of the Line', marked *Fallow Ring: crew returned, instruments not recovered*; read twice, 'a broker's report from a town on no registry map, on his desk with no routing note and no requesting officer's name'; 'did not know why it had reached him, and filed that ... as the whole of what he knew about it'; 'returned the copy to its folder unannotated.' No index, no recognition, nothing written."
+    },
+    {
+      "obligation": "must_include: Oryn's condition restated with the fixed lines and Cael's log rule verbatim.",
+      "status": "MET",
+      "evidence": "At the well: 'You can read people now. At contact. Me, Karis, Seln, anyone whose wrist you're holding. I read people for a living and I ask first, every time, even when they're dying. You will too.' / 'Yes,' he said. / 'Say it in the log ... I've seen what the log does to you.' Written on the page: '*The reading turned outward. I ask first. Every time. If I ever don't, that's the day I became the instrument.*' plus a smaller note under it."
+    },
+    {
+      "obligation": "must_include: The chapter ENDS on the second-pole log entry verbatim as given.",
+      "status": "MET",
+      "evidence": "Last paragraph of the file: '*Nothing out here reads me. And at a line you can mark with a rock, every Path in this camp stops, and mine doesn't. Karis won't write her hypothesis. I won't write mine. We're going to find the other circles. Pike said nobody goes in twice. Tomorrow makes three.*'"
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 16 — Lira First', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; five '---' breaks; ends on the log's last line; metadata grep 0."
+    },
+    {
+      "obligation": "plants: the ask-first rule; the report reached a desk it shouldn't have; 'Tomorrow makes three'.",
+      "status": "MET",
+      "evidence": "All three on the page as quoted; Seln adds the clock ('The report's on a desk by now ... It's been wound.')."
+    },
+    {
+      "obligation": "prohibited_outcomes: no theory; Vastin recognizes/locates/writes nothing; no fight; no fragment use except the rule; no travel yet; no Teague/letters/new names; not a dialogue or image ending; tic caps; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "grep: Architect 0, Teague 0, letter 0; no new names (the bowman, the carter's fire, the woman unnamed). No fragment deployed; the tenth's wakefulness at contact is described as a temptation not acted on ('did not read anyone'). No travel (the walk to Lowmarch is tomorrow). Ends on the log (Ch15 ended on dialogue). Capped tics 0; one-word paragraphs 2; 'at the pitch' 0."
+    }
+  ],
+  "inventions": [
+    "The wall's view catalogued (the void road, stubble fields, a carter's fire a mile out); Lira's fighter's question ('Did it feel the same?') and 'It felt like a Third-day' / 'a Third-day in there and a Third-day out here' (calendar vocabulary per the registry).",
+    "Brom's ladder-foot count ('the only one who worked' in every room since the Ironyard; 'It's a count. You like counts.').",
+    "Karis's method for finding a handful ('One at a time, for money'); Seln's 'the clock's been wound'.",
+    "Oryn's departure staged as intention (north at first light; 'Don't go in without me ... somebody should be outside the line who can put an arm back on'); her hand on Seln's shoulder.",
+    "Oryn DEFERS the telling of the self-reading: 'Once is a morning. I don't take a finding off one reading ... Read it again. Twice more, at least, on different days ... Then tell me all of it at once, exactly' — keeping Ch14's 'owed' honest and reserving Ch22's exact telling; and her road rule ('Don't read anyone on the road to find out whether you can').",
+    "Cael's interior on the temptation (wrists a foot from his hand at the table; 'a reach that went *in*')."
+  ],
+  "state_change_proposals": [
+    "Timeline: the 110th day — dusk at the wall; the circle that night; the well after; Oryn leaves at first light of the 111th (off-page). The unit walks to Lowmarch from the 111th (two days) — Ch17 opens at Lowmarch.",
+    "Knowledge: Lira told first; the circle of SIX told (Oryn included by Cael's decision, no objection) that Cael's Arbiter has been dark since Kindling, nothing changed for him at the line, and everything worked inside; nobody has a theory; Karis's hypothesis unentered; Cael's 'mine' unwritten.",
+    "Decision: find the other circles, all of them, and find out whether they are the same; method — read Pike's board for the job that walks past a blank.",
+    "Oryn: three days north by Ch17; Thornwater on her route; she has set the terms for the self-reading debt — three readings on different days, then all of it at once; the ask-first rule is written in the log and a note under it.",
+    "Cael's log rule entered: 'The reading turned outward. I ask first. Every time. If I ever don't, that's the day I became the instrument.' — the losable stake's standing terms.",
+    "Kept sentences: Lira — the covenant line; 'It scares you.'; 'The second one. You're allowed to say so.'; 'Then it's a Third-day in there'; Brom — 'It's a count. You like counts.'; Seln — the verbatim read; 'It's been wound.'; Oryn — the verbatim read; 'Once is a morning.'; 'Don't go in without me.'; Karis — the decision line; 'That's how you find a handful. One at a time, for money.'"
+  ],
+  "deviations": [
+    "First pass came in at 3,417 words (under the floor); expanded from within the chapter's own beats to 4664 — the wall's catalogue and Lira's fighter's question, Lira's and Brom's contributions at the table, the map on the table and Seln's clock, Brom at the ladder, Cael's interior on the temptation, and the note under the rule. No mandated line changed.",
+    "Three mandated lines were first split by attribution and were made contiguous so that they grep verbatim.",
+    "Oryn defers the telling of the self-reading rather than receiving it: this keeps Ch14's 'owed' entry accurate and does not pre-pay Ch22's 'tells her, exactly, what he found'. Reported so the editor can rule if the arc intended the telling here.",
+    "The circle's witnesses are five (Lira adds 'I've said mine'); the card's 'four who saw' is honored as the four who speak at length."
+  ],
+  "blockers": []
+}

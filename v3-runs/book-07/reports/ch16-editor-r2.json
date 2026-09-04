@@ -1,0 +1,316 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch16-r2-editor",
+  "scene_id": "b7-ch16",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The repaired manuscript states day 110, age nineteen, six party members, 108 marks, and ten fragments. The three occurrences of the Ring interval now read 'fifteen days'; day 95 to day 110 is fifteen days. The westbound ferry now left eight days before day 110, after the day-99 return, and Oryn's day-104 eleven-day delay has accrued to seventeen days on day 110."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The main narration stays within Cael's witnessed experience, memory, practical inference, and log. The only departure is the authorized Vastin paragraph: three sentences limited to the report before him, his lack of knowledge, and his return of the unannotated copy."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "The wall disclosure includes the fixed covenant and fear exchange; Cael chooses the circle of six; the four witnesses, Karis's five findings, fixed Seln and Oryn reads, four search data points, and fixed Karis decision occur; the three-sentence Vastin window occurs; Oryn's fixed condition and exact ask-first log rule occur; and the chapter ends verbatim on the required second-pole log. The ask-first, misrouted-report, and 'Tomorrow makes three' plants land."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Scope searched: v3-runs/book-07/drafts/ch16.md. Searches return zero for Architect, [UNBOUND], primordial, maker, purpose, intelligence, Teague, letter/letters, 'at the pitch', and 'at that pitch'. Nobody theorizes the sites' maker, nature, purpose, or age; Vastin recognizes, locates, and writes nothing; no present fight, travel, or fragment use occurs; no new named entity appears; and the chapter ends on a log, not dialogue or an image."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The disclosures and search decision follow established observations. The repaired transmission line is causally possible: 'The ferry went west eight days ago, with Pike's copy in the sack' places departure on day 102, after the crew returned on day 99 and consistent with Pike's day-102 copy and Chapter 17's report timing."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Calendar, route cost, injuries, abilities, possessions, relationships, and promises persist. The Ring fact is fifteen days old; Oryn's delay is seventeen days; Lira remains one-armed with her foot managed; Brom's hand is mended; Karis's voice has returned; Seln carries the case; Cael's prior wounds remain resolved."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Cael moves from solitary fear and deferred disclosure to naming the worse fear, telling all six, accepting a consent rule, and committing the group to find every circle. Knowledge, relationship, obligation, moral risk, and strategic goal change."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose uses the series' established cataloguing, procedural emotion, dry dialogue, and diegetic-log register without naming or detectably imitating an influence author."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the wall view, table positions, witness accounts, temptation, and final inventory. Lira asks the fighter's cost question, Brom weighs rooms, Karis controls findings, Seln prices information, and Oryn sets clinical consent terms. The Power Log remains owned, plain first-person writing."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Worldbuilding arrives through the gate-walk and quiet-road practice, the healer's accruing route debt, Pike's board and pricing, the carter map, ferry/report chain, registry folders, and the practical consent procedure attached to contact reading."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No ontology, new name, or forbidden reveal appears. The repaired Vastin window retains only the approved uninterested registry office and absent routing note: 'forwarded through a registry office that had no interest in any board east of the Line' and 'on his desk with no routing note'. The unapproved 'provincial' and requesting-officer details are absent."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was rechecked throughout the six-person common-room scene. Every turn is named, tagged, fixed by a speaker action, or immediately anchored by the preceding named turn; no unattributed run exceeds four lines. Italics add emphasis or mark in-world writing but do not carry indispensable meaning alone."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every name was checked aloud against craft/NAME_REGISTRY.md: Cael, Lira, Brom, Karis, Seln, Oryn, Daeva, Pike, Vastin, Ardenmere, Greyvane, Ironyard, Ostrand, Thornwater, Lowmarch, Oxhollow, and the Fallow Ring are established or packet-approved. Oryn/Ostrand/Oxhollow, Karis/Kestrel, and Vastin/Vell remain distinct at audiobook speed; no reserved or new name appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. wc -w returns 4,665, within the 3,910-5,290 target. The required H1, prose-only format, scene breaks, and terminal prose line pass."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 16 / canonical Book 7 Chapters 1-16 counts: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/2; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Both book-level 'There it was' hits are substring false positives ('In there it was heresy'; 'Out there it was a flag'). Chapter 16 has 2 single-word dialogue paragraphs; the permissive 'the way' grep returns 5 raw hits, one a false positive ('the way of the thing'), leaving 4 distinct constructions used once each; and 8 em dashes. Chapter-level modern-register, summary, feeling/growth-declaration, metadata, and prohibited-pitch hits are all 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 15 ends on Karis's dialogue, 'That's different.' Chapter 16 ends on the required Power Log entry. The adjacent final-beat types differ: dialogue then log."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Against the base snapshot, running state, and Chapter 15 seam, Cael is correctly nineteen with ten confirmed fragments plus the distinct anomaly. No fragment is deployed; the tenth's alertness is temptation followed by non-use. Lira's left arm remains slung/load-restricted and her right foot is accommodated; Brom's mended hand and expired string restriction support the crossbow and lantern; Karis's voice remains recovered; Cael's ribs and calf remain resolved."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The party remains six. Cael explicitly includes Oryn; the four Ring witnesses give accounts, Lira confirms hers separately, and no outsider receives the mechanism or an explanation."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank, fragment, or capability advancement occurs."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "No new gain occurs, but the established reading's moral tradeoff becomes concrete: contact can expose another person's architecture, so Cael accepts an ask-first rule with a stated corruption threshold."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress changes trust, circle membership, consent practice, the party's shared strategic goal, and institutional attention rather than a stat."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No present conflict is resolved by a capability. The prior Ring use is witness testimony, and the new reading is deliberately not used."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "The broker/registry report moves independently onto Vastin's desk, Pike's board remains the party's search mechanism, Thornwater continues sleeping and working, and Oryn's route demands departure."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The chapter changes from Chapter 15's research method to disclosure, collective decision, institutional reaction, and consent under temptation."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The Ring's failure and injuries generate disclosure, a search for other sites, Oryn's insistence on repeat readings, and a standing ethical rule."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display renders; the italic text is Cael's in-world log."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display. The diegetic inventory correctly states nineteen and ten fragments."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears; all log content reads aloud as ordinary prose."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The log materially records the consent rule and second-pole commitment."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The party confines itself to observations and refuses the causal verb. Vastin recognizes nothing, and the maker, nature, purpose, age, and secret ontology remain withheld."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new combination or active fragment use occurs."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank-bearing interaction occurs; institutional consequence operates through reports, maps, boards, and routes."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "No extraordinary capability supplies a new solution. The search decision traces to the Ring, Pike's handful, three mapped circles, and the inside-written contract."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "No ability is introduced or used; the established contact reading receives its most important nonphysical limitation, consent."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named ability, faction, place, or subsystem appears. Existing report, route, map, log, and reading mechanisms are extended."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: Cael will tell Lira the fact he has carried and then tell the circle. Delivery: both disclosures, a collective search decision, an institutional plant, and an ask-first rule, ending on the required second pole."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The disclosure pays the stone, fight, 'Later,' 'unfiled,' and Chapter 15 findings. The report plant and consent rule advance future threads without revealing their payoffs."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The relationship debt closes through disclosure; the Quieting remains an inquiry receiving a search method rather than a false answer; the moral-cost thread receives a behavioral rule."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Long reflective and worldbuilding passages remain grounded in the gate-walk, stars, road, fire, table positions, hands, map, folder, well, cold, and log. Concrete mechanism and gesture outweigh abstract exposition."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This gate is per book; the full book-level revision-pass history is outside the supplied manuscript evidence. The visible r2 job is correctly limited to continuity repair."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No present fight occurs. The wall, common-room table, ladder, Vastin desk, and well are spatially legible."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. Noncombat cadence varies long catalogues with short admissions and fixed verdict lines."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants act. Dialogue is nevertheless distinguishable by fighter, weight, method, intelligence, and clinical registers."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every still-open injury from the immediate seam persists: Lira remains one-armed with the right foot managed, while the other party injuries are used consistently with their resolved or recovering states."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No present fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Every assigned choice, confrontation, disclosure, decision, moral condition, and institutional window occurs on the page. Summary is limited to previously witnessed facts and the final log's record."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The noncombat staging still uses the wall for side-by-side disclosure, the table for six evidentiary seats, and the well for the private consent covenant."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement delta occurs; behavioral progress and moral cost are legible instead."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No present major win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rival-motion beat or protagonist advancement is assigned; institutional motion is separately present through the report."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Progress is visible through Oryn's inclusion in the six, the group's unanimous search decision, a completed report reaching institutional altitude, and the ask-first rule becoming a logged obligation."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. The Power Log has an explicit writer, location, and reason for each entry."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional pressure is shown through the inside-written contract, maps and board, completion-report chain, absent routing note, and Vastin's receipt rather than through a speech about injustice."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Dry lines occur outside acute stakes and do not function as humor that erases consequence."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The wall exchange and well scene let Cael name fear, accept touch without deflection, examine temptation, and submit it to a rule."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "The reading's corruptible use is concrete at contact range; Oryn states consent as a standing condition, Cael agrees, writes the exact rule, and demonstrably does not read anyone."
+    }
+  ],
+  "findings": [],
+  "strengths": [
+    "All four verifier-confirmed repairs are present. ED-B7CH16-001: 'fifteen days, and a fact that had not got one sentence longer for being carried'; 'I've had fifteen days'; and 'which didn't get any longer for fifteen days of carrying it.' ED-B7CH16-002: 'The ferry went west eight days ago, with Pike's copy in the sack.' ED-B7CH16-003: 'Oxhollow's seventeen days late' and 'a route seventeen days late.' ED-B7CH16-004: 'forwarded through a registry office that had no interest in any board east of the Line' and 'on his desk with no routing note.'",
+    "A direct r1-to-r2 diff shows only the eight authorized textual replacements across the six affected lines: three duration replacements, the ferry replacement, two lateness replacements, and removal of the two unapproved Vastin routing details. No unrelated passage changed. Because the remaining text is identical, every recorded r1 strength survives; the repaired route and report mechanics strengthen two of them.",
+    "Yes: worldbuilding is done through mechanism and use. The gate-walk shows how Thornwater closes; the board and map turn work into a search method; Oryn's delay accumulates as route debt; the report climbs through forms and folders; and the new power's moral law becomes a consent procedure entered in the log.",
+    "There is no present fight, exactly as prohibited. The noncombat set pieces remain memorably choreographed and terrain is load-bearing: the wall permits side-by-side disclosure toward the road, six fixed seats turn the common-room table into an evidence circle, and the well isolates the consent covenant. Its win is writable in the requested form: Oryn removed Cael's ability to treat unnoticed contact-reading as harmless curiosity by binding it to an ask-first rule he must encounter with every inventory.",
+    "The recalled Ring set piece also survives clearly enough to preserve its tactical receipt: Cael removed the pack's ability to exploit Pathless prey inside the Quiet by becoming the only declaration it could follow across the line. The testimony preserves lane, direction, distance, cost, witness position, and the line as decisive terrain without restaging a prohibited fight.",
+    "The Lira scene pays six books of trust without turning into an affection declaration. Her covenant answer, fighter's cost question, and good hand against Cael's boot carry emotional movement through procedure, competence, and contact.",
+    "The circle differentiates all six by competence. Brom reports weight and cost, Karis controls evidence, Seln supplies the institutional clock, Oryn limits her clinical claim, and Lira confirms from closest range; unanimity emerges through distinct methods rather than matching speeches.",
+    "The temptation is concrete and morally losable. A wrist one foot from Cael's hand gives the risk a repeatable physical trigger, while 'the days I don't notice I've started' makes the rule protect against habit rather than melodramatic intent.",
+    "The required ending lands as changed pressure and differs from Chapter 15's dialogue close. It joins the freedom pole, the exception at the line, Karis's restraint, the search decision, and Pike's warning in one audio-safe log entry.",
+    "Production discipline survives repair: 4,665 words is within tolerance; section 8.4 metadata, section 10 summary, modern-register, feeling/growth, prohibited-pitch, and chapter tic searches are clean; dialogue attribution survives the six-speaker scene; every name passes the registry ear check; and injury/fragment state reconciles."
+  ],
+  "concerns": [
+    "Taste only: the five closing log paragraphs repeat nearly every emotional and strategic result immediately after the wall, table, and well have dramatized it. The fixed final paragraph is strong; a later compression pass could test how much preceding recap it needs to retain maximum force.",
+    "Taste only: Brom's ladder speech is affecting and voice-specific, but its claim that Cael was 'the only one who worked' in every major room risks generalizing the Ring's distinctive terror into a familiar pattern. A human may prefer either the comfort of that continuity or the sharper singularity of the Quieting.",
+    "Taste only: Oryn's repeat-reading condition productively protects Chapter 22 and fits her method, but it adds a second rule immediately after the ask-first covenant. The scene remains clear; audio performance should preserve which rule governs consent and which governs confidence in Cael's self-reading."
+  ]
+}

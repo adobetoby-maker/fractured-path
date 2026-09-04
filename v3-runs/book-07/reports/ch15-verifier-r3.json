@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch15-verifier-r3",
+  "scene_id": "b7-ch15",
+  "editor_run_id": "b7-ch15-r3-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch15-r3-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "shasum drafts/ch15.md == drafts/ch15-r2.md at review time",
+        "grep 'in Valdris' drafts/ch15.md → 2 (one legitimate: 'every practitioner in Valdris'; one the superlative)"
+      ],
+      "reason": "The r3 write did not persist. Re-applied and verified by hash for r4."
+    }
+  ]
+}

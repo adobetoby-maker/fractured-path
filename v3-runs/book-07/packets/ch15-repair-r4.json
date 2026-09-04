@@ -1,0 +1,211 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch15",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 15 card)",
+    "state": "state-b7-post-ch14 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten fragments + the located anomaly. Party SIX at Thornwater, a week of tables. Lira one-armed (slung, load-restricted); Karis's voice nearly back.",
+      "Karis's field report is the chapter's structure — five findings in her formal register. She COINS 'the Quieting' here (a process, not a place) and the book adopts it from this chapter on; before this line nobody has said the word.",
+      "Finding two (Book 9 plant, observed only): every Arbiter in the party went silent at the same line, same stride, same instant, same way — Wind, Iron Skin, Ember, Shadow, Tide, Iron R1 to Bronze — and Karis enters the sentence she does not know how to file: a personal spiritual entity should not fail like a piece of equipment on a circuit. NO explanation.",
+      "Finding three (Book 8 plant, as a LIMIT): she dates the fused stone against every masonry stratum in her three boxes (registry-era, standardization-era, pre-standardization, founding-era waystation stone from Prynn's archive) and reaches her method's limit: older than the registry; older than the standardization directive; older than the two-hundred-year modification and the sub-layer beneath it (Book 6's findings, which the circle knows); older, she says, using the word ONCE, than [UNBOUND] — 'older than the word they retired, and I can't say by how much. Entered as a limit, not a finding. We explained the middle of the story in Ostrand. This is before the beginning, and I don't have a ruler for it.' The word [UNBOUND] appears exactly once in the chapter and nowhere else in the book.",
+      "Finding four: the stakes, Seln's map blanks, the contract's registry prose — the Compact knows, measured, filed, drew maps with holes. Entered once; not pursued. Finding five: Cael's ten fragments work inside — she has the data; she writes the observation and STOPS at the interpretation: 'I have a hypothesis and I'm not entering it, because entering it would make it a finding, and it isn't one. It's a fear.'",
+      "Karis's closing dialogue (fixed): 'The circle's perfect. Perfect isn't natural. Somebody made a floor that turns Paths off. It's older than anything I can date. And it doesn't turn you off. Three facts. I'm not putting a verb between them.' Cael: 'You said you weren't entering the hypothesis.' Karis: 'I'm not. I'm saying it to you. That's different.' NOTHING beyond the three facts; no maker, no purpose, no 'Architect'.",
+      "Cael has still told nobody why he thinks it worked (Lira first, Chapter 16)."
+    ]
+  },
+  "purpose": "REPAIR RUN (r4). The r3 replacement did not persist on disk (the r3 file hashed identical to r2 at review); the same single replacement is re-applied and verified by hash before launch: 'oldest dressed stone in Valdris' → 'oldest dressed stone I have' in the weathering sentence. No other passage changes.",
+  "scene_shape": {
+    "opening_state": "Thornwater, a week of tables: the copied carvings, the paced perimeter, the stake's number, the three boxes open.",
+    "pov_goal": "Watch Karis do what she is for, and hold his own silence one more chapter.",
+    "opposition": "Her method's limits (no ruler for the floor's age); her fear (the fifth finding); his unfiled fact.",
+    "turn": "The five findings in order: the name; the failure mode (identical Arbiter failure — equipment on a circuit); the strata limit with [UNBOUND] once; the stakes; the thing she will not write.",
+    "choice": "Karis stops her pen at the interpretation and says the three facts aloud to Cael instead, refusing a verb between them.",
+    "outcome": "The Quieting named; the floor dated as 'older than everything'; the Compact's knowledge entered once; the hypothesis unentered; Cael's log (mid-scene): 'Karis dated the floor. Older than everything. She has a hypothesis she won't write down. I have four people who saw what I did inside, and one healer who felt what I'm made of, and I've told none of them why I think it worked. Lira first. Tomorrow. It's always been Lira first.'",
+    "closing_state": "The chapter ENDS ON DIALOGUE (the previous chapter ended on the log): Cael: 'You said you weren't entering the hypothesis.' Karis: 'I'm not. I'm saying it to you. That's different.'"
+  },
+  "obligations": {
+    "must_include": [
+      "Karis's five findings in her formal register, in order, each landing on a thread the reader carries: (1) the name 'the Quieting' coined with her reason (process, not place); (2) the identical Arbiter failure and her unfileable sentence; (3) the strata limit with the masonry strata named, [UNBOUND] used exactly once, and her 'middle of the story / before the beginning / no ruler' lines; (4) the stakes/map-blanks/registry-prose entered once; (5) the observation about Cael's fragments written, the interpretation stopped, with her 'It's a fear.' line verbatim.",
+      "The copied carvings as objects (lines in no alphabet she owns), the paced perimeter's arithmetic recalled, the stake's number.",
+      "Cael's log entry mid-scene (as given), before the closing exchange.",
+      "Karis's three-facts speech verbatim and the closing exchange verbatim; the chapter ENDS on 'That's different.'",
+      "Oryn present at Thornwater (working her route's backlog if she appears; at most a beat); Lira one-armed; Seln and Brom in register.",
+      "Manuscript format: H1 '# Chapter 15 — Strata', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "'The Quieting' as the book's term from here on.",
+      "Identical Arbiter failure (Book 9).",
+      "The floor older than every stratum including the retired word (Book 8).",
+      "Karis's unentered hypothesis (never entered in this book).",
+      "'Lira first. Tomorrow.' (Ch16)."
+    ],
+    "payoffs": [
+      "Ch10's measurements and carvings; Ch12's stakes and blanks; B3/B6's strata discipline recognized by the circle."
+    ],
+    "prohibited_outcomes": [
+      "No maker, purpose, intelligence, 'Architect', 'primordial', 'before the system' in anyone's mouth or narration; Karis states three facts and refuses a verb; [UNBOUND] appears once only.",
+      "No disclosure by Cael (Ch16); no fight; no fragment use; no travel.",
+      "No Teague, letters, Vastin (Ch16).",
+      "No new named entities.",
+      "The chapter does not end on a log entry or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The week of tables as texture (paper, cord, chalk, the boxes as shelves, Thornwater's autumn); Karis's method-register in full; the others' small beats; Oryn's route backlog as a glimpse.",
+      "Dialogue in established voices; Cael's interior cataloguing of Karis working."
+    ],
+    "approval_required": [
+      "Any new named entity; any stratum or dating fact beyond those listed; any additional [UNBOUND] use."
+    ],
+    "forbidden": [
+      "Theory/ontology; disclosure; fights; travel; a log or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 14 as drafted — the immediate seam (the birthday, the retired words)",
+      "path": "v3-runs/book-07/drafts/ch14.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r2)",
+      "path": "v3-runs/book-07/drafts/ch15-r2.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH15-001",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes",
+      "evidence": "A cord with a stake at one end does, and a wheel does, and a bowl does, and every one of those is a thing somebody made. That's still geometry.\n\nNobody dressed that floor. Nobody laid it. It was made ",
+      "consequence": "The packet approves 'Somebody made a floor' only inside the fixed final three-facts speech and requires no maker or theory beyond it. These earlier statements both posit somebody and infer an unknown ",
+      "repair_target": "Keep the early geometry and surface observations at the level of shape, tool marks, joins, and measurable weathering; reserve the only maker wording for the fixed closing speech and do not infer an alternate manufacture method."
+    },
+    {
+      "id": "ED-B7CH15-002",
+      "severity": "HIGH",
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "evidence": "The academy above Ostrand. Built, not converted; every course laid under the registry's own standard, the mortar mixed to its own directive. Fifty years, near enough, and I can show you the tool that ",
+      "consequence": "The packet authorizes the four strata and their required ordering, but explicitly reserves any additional stratum or dating fact for approval. The manuscript adds specific buildings, construction hist",
+      "repair_target": "Limit the on-page comparison to the packet-listed strata and already approved Book 6 facts, or obtain explicit approval for each added provenance/dating claim before advancement."
+    },
+    {
+      "id": "ED-B7CH15-003",
+      "severity": "MEDIUM",
+      "gate": "core.continuity_persistence",
+      "evidence": "I've had it since Oryn took her hands off you at the Ring and said *nothing in my hands* and you walked twenty meters in with the read running under your boots and told me it was dark before and dark ",
+      "consequence": "The remembered evidence combines two real Ring observations but assigns Oryn's quoted trial to Cael. Because the chapter's authority comes from exact field method, this makes Karis's culminating evide",
+      "repair_target": "Attribute 'nothing in my hands' to Oryn's line trial on Brom while keeping Cael's separate twenty-meter Iron-read trial and dark-Arbiter statement distinct."
+    },
+    {
+      "id": "ED-B7CH15-004",
+      "severity": "MEDIUM",
+      "gate": "author.13_injury_persistence",
+      "evidence": "She worked with her voice for the first time since the ring. It had come back, as Oryn said it would, in pieces, over days, and by the week's middle it was a low usable thing that went on her when she",
+      "consequence": "Chapter 15 opens the day after Chapter 14, where Karis already documents aloud and sustains a quarter-hour argument. Calling the new week her first voice work since the Ring resets a recovery beat the",
+      "repair_target": "Carry forward the already usable, hoarse voice and describe how Karis budgets or further recovers it during the report without calling this its first post-Ring use."
+    },
+    {
+      "id": "ED-B7CH15-005",
+      "severity": "LOW",
+      "gate": "authority.canon_timeline_state",
+      "evidence": "Wind. Iron Skin. Ember. Shadow. Tide. Iron rank one, Copper, no ranking, Bronze, Iron rank four. Five people, five Paths, five tiers, five histories of a thing that showed up at fourteen and has been ",
+      "consequence": "The list contains five people and five Paths, but only three named tiers—Iron, Copper, Bronze—with Iron repeated and Karis holding no ranking. The phrase 'five tiers' is an audible arithmetic error in",
+      "repair_target": "Describe the five formal standings without claiming they are five distinct tiers."
+    },
+    {
+      "id": "ED-B7CH15-006",
+      "severity": "MEDIUM",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "evidence": "The rubbings first, because they were the largest: eleven sheets, one per upright, charcoal on the registry's own paper turned to its blank side, each sheet the height of the stone it had been taken f",
+      "consequence": "The carvings are strongly realized as physical rubbings and a private tally, but a full-draft search for 'alphabet' returns zero and no equivalent statement says they are outside every alphabet Karis ",
+      "repair_target": "State in Karis's evidence register that the copied lines belong to no alphabet she owns, without interpreting or naming them."
+    },
+    {
+      "id": "ED-B7CH15-R2-001",
+      "severity": "HIGH",
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "evidence": "r2 weathering sentence: 'the oldest dressed stone in Valdris'.",
+      "consequence": "Unapproved world-canon superlative.",
+      "repair_target": "Personal ruler only: 'the oldest dressed stone I have'."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch15.md",
+    "report_path": "v3-runs/book-07/reports/ch15-author-r4.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch15-editor-r4.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch15-verifier-r4.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

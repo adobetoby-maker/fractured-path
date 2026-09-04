@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch15-verifier-r2",
+  "scene_id": "b7-ch15",
+  "editor_run_id": "b7-ch15-r2-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch15-r2-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch15-r2.md: 'the oldest dressed stone in Valdris' (weathering paragraph) — missed by the r2 pass",
+        "packets/ch15-repair-r2.json: 'oldest in Valdris' superlative named for removal"
+      ],
+      "reason": "The continent-wide superlative remains in the weathering sentence. Repair: 'the oldest dressed stone I have'."
+    }
+  ]
+}

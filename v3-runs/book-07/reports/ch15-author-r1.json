@@ -1,0 +1,76 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch15-r1",
+  "scene_id": "b7-ch15",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch15.md",
+  "word_count": 4843,
+  "obligations": [
+    {
+      "obligation": "must_include: Karis's five findings in her formal register, in order: (1) the name with her reason; (2) identical Arbiter failure and her unfileable sentence; (3) the strata limit with the masonry strata named, [UNBOUND] once, and her middle/beginning/ruler lines; (4) stakes/map-blanks/registry-prose entered once; (5) the observation about Cael's fragments written, the interpretation stopped, 'It's a fear.' verbatim.",
+      "status": "MET",
+      "evidence": "(1) 'It isn't a place. ... Something is *happening* to the ground, in a circle, at a fixed distance from a made floor, and it's the happening I need a word for, not the place' — she writes *the Quieting*: 'A process ... a thing that *happens*, not a thing that *is*'; adopted by the table and the road after. (2) Five sigils at five points; 'Every one of them went out at the same stride' ... 'A personal spiritual entity should not fail the way five looms fail when somebody shuts the sluice on the wheel that drives them.' / 'I don't know how to file that' — entered as observation, *identically* underlined, unexplained. (3) The four chips named and dated in order (registry-era: the academy above Ostrand; standardization-era: a records hall in Ardenmere; pre-standardization: Greyvane's old course under the converted waystation; founding-era: waystation stone from the wall Prynn's archive sat inside, four hundred years by its ledger) and the floor's rubbings set past the last of them; dressing and weathering as the two measures; then the limit verbatim: 'It's older, I'll say once and not again, than [UNBOUND] — older than the word they retired, and I can't say by how much. Entered as a limit, not a finding. We explained the middle of the story in Ostrand. This is before the beginning, and I don't have a ruler for it.' grep UNBOUND → 1. (4) Four sentences: the stake, the map, the contract; 'The Compact measured this. They paced the circle before I did ... and they filed it, somewhere none of us can reach. Entered once. As said.' / 'Anything else on this is a question and not a finding, and I'm not entering questions today.' (5) The observation written in the small hand (five Paths did not render; the sixth's fragments rendered, nine of nine, witnessed by five; Arbiter unchanged 'stated by him'); the pen held over the page; 'I have a hypothesis ... And I'm not entering it, because entering it would make it a finding, and it isn't one. It's a fear.' verbatim; 'The observation's entered. The interpretation's stopped. That's five.'"
+    },
+    {
+      "obligation": "must_include: The copied carvings as objects (lines in no alphabet she owns), the paced perimeter's arithmetic recalled, the stake's number.",
+      "status": "MET",
+      "evidence": "Eleven rubbings cut to the uprights' heights, 'a ring laid flat'; her tally of the kinds of line ('Every band is the same kind of line and never the same line') with a number she will not say until a second site; the perimeter page quoted ('sixty-two cords and twenty strides; twelve hundred and fifty-six and a piece; ten cords in from the stone to the middle; a circle'); 'The stake's number, thirty-one, copied under the registry's mark drawn from memory.'"
+    },
+    {
+      "obligation": "must_include: Cael's log entry mid-scene (as given), before the closing exchange.",
+      "status": "MET",
+      "evidence": "'*Hundred and ninth day. Thornwater, the common room, the tables cleared. ... Nineteen.*' followed by the mandated entry verbatim: '*Karis dated the floor. Older than everything. She has a hypothesis she won't write down. I have four people who saw what I did inside, and one healer who felt what I'm made of, and I've told none of them why I think it worked. Lira first. Tomorrow. It's always been Lira first.*' — before the closing exchange."
+    },
+    {
+      "obligation": "must_include: Karis's three-facts speech verbatim and the closing exchange verbatim; the chapter ENDS on 'That's different.'",
+      "status": "MET",
+      "evidence": "'The circle's perfect ... Perfect isn't natural. Somebody made a floor that turns Paths off. It's older than anything I can date. And it doesn't turn you off. Three facts. I'm not putting a verb between them.' / 'You said you weren't entering the hypothesis.' / 'I'm not,' Karis said. 'I'm saying it to you. That's different.' — last line of the file."
+    },
+    {
+      "obligation": "must_include: Oryn present at Thornwater (route backlog, at most a beat); Lira one-armed; Seln and Brom in register.",
+      "status": "MET",
+      "evidence": "Oryn at the house door on the 104th: 'I'm nine days late here and eleven at the next. Send me who's hurt.' — three hurts in the yard, one glance at the table, back to the wrist. Lira holding paper 'with the right and a stone from the yard', arm across her chest. Brom: 'Door.' / 'You could have said that with less.' / 'Say it with less.' Seln: the elbow moved before she finished reaching; 'Six.' / 'I'm not filing that either. I'm counting it.' / 'Good.'"
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 15 — Strata', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; seven '---' breaks; no bold or headers (the finding openers are plain sentences); ends on Karis's line; metadata grep 0."
+    },
+    {
+      "obligation": "plants: 'the Quieting' from here on; identical Arbiter failure (B9); the floor older than every stratum incl. the retired word (B8); Karis's unentered hypothesis; 'Lira first. Tomorrow.' (Ch16).",
+      "status": "MET",
+      "evidence": "All five on the page as quoted above; the made-shape pre-plant carried once more ('A circle is the shape you get when one thing is a fixed distance from another thing all the way round ... every one of those is a thing somebody made. That's still geometry.')."
+    },
+    {
+      "obligation": "prohibited_outcomes: no maker/purpose/intelligence/'Architect'/'primordial'/'before the system'; [UNBOUND] once; no disclosure; no fight; no fragment use; no travel; no Teague/letters/Vastin; no new named entities; not a log or image ending; tic caps; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "grep: Architect 0, primordial 0, 'before the system' 0, UNBOUND 1, 'at the pitch' 0, capped tics 0, one-word paragraphs 0. Karis walks from 'shape' to 'somebody' ONLY in the mandated closing speech ('Somebody made a floor') and explicitly refuses the step in the small hand. No disclosure: Cael's silence is stated and held ('unfiled, where it would keep'; the log's 'told none of them'). No fight, no fragment use, no travel (Thornwater throughout). No letters, Teague, Vastin. No new names (the woman, the boy, the bowman, the girl with the wrist unnamed; Prynn and Ardenmere are established). Ends on dialogue (Ch14 ended on the log)."
+    }
+  ],
+  "inventions": [
+    "The week's staging: Karis takes the common room on the 103rd in exchange for three days of paper for the hold's accounts; the hold eats in the yard; the grain carts filling the loft; ice on the trough.",
+    "The rubbings cut to the uprights' heights and laid 'tallest to shortest, a ring laid flat'; Karis's tally of the kinds of carved line and her refusal to state the number before a second site (a Ch20 set-up, not a finding).",
+    "Finding two's image for the failure: five looms stopping when the sluice is shut on the wheel that drives them — the card's 'equipment on a circuit' rendered in-world (the series' 'circuit' is the fight circuit; mills exist).",
+    "Seln's 'Six ... Five went out. I'm not filing that either. I'm counting it.' and Karis's struck-through six with the note 'one dark since fourteen; no change either side of the line; stated by him, not tested by me' — carrying only what Cael already said aloud at the stone (Ch9/Ch10).",
+    "The strata's physical method: dressing (tool stroke, angle, chatter) and weathering (edge-rounding on the carved lines against the founding stone's dressed edge); the knife test on the lip ('The knife marked. The floor didn't.').",
+    "Oryn's three hurts at Thornwater (rope-burn, a wrist set wrong in the spring, the bowman's shoulder) and her line at the door.",
+    "Cael's mirrored silence beside Karis's unentered hypothesis ('the third thing at the table nobody wrote down')."
+  ],
+  "state_change_proposals": [
+    "Timeline: Ch15 runs from the 103rd (Karis takes the room) to the 109th (the log; the closing exchange). Finding one said on the 105th; finding two over two days after; the strata and the stakes mid-week; the fifth on the 109th at dusk. 'Lira first. Tomorrow.' = the 110th (Ch16).",
+    "THE WORD: 'the Quieting' coined by Karis on the page (105th) and adopted; nobody in the party says 'quiet ground' of it again without hearing the correction.",
+    "Karis: voice nearly back by the 109th (goes on a word and returns); throat's yellow gone. Notebook holds: the five findings; *identically* underlined; the four strata named and dated; the floor entered past the founding stone as a limit; [UNBOUND] used once as a limit; the stakes entered once; the fifth observation entered, interpretation stopped ('It's a fear.'). She holds a private count of the kinds of carved line (number unstated). She has said the three facts aloud to Cael only.",
+    "Oryn: worked Thornwater's backlog in the yard (three mendings across the week: rope-burn, a re-set wrist, a shoulder) at her rate; 'nine days late here and eleven at the next' as of the 104th; did not come to the table.",
+    "Lira: arm slung, unused; reads the rubbings upside down; holds paper with a stone. Brom: string restriction expired; crossbow back on his belt. Seln: the case on his back; the door end; counted six sigils.",
+    "Cael: ten fragments; nothing used; no letters; marks one hundred and eight; silence held; the slip back in the satchel. Knowledge: Karis knows (and has said to him alone) the three facts; she has NOT said her hypothesis; nobody has said a maker.",
+    "Kept sentences: Karis — 'the Quieting' / 'identically' / 'A personal spiritual entity should not fail the way five looms fail when somebody shuts the sluice on the wheel that drives them.' / 'The knife marked. The floor didn't.' / 'Everything I can date, I've dated. The floor's under all of it. I don't know how far.' / 'It's just correct.' / the three facts; Lira — the clock line, said again; Brom — 'Door.'; Seln — 'I'm counting it.' / 'Good.'; Oryn — 'Send me who's hurt.'"
+  ],
+  "deviations": [
+    "Length: first pass came in at 3,909 words (one under the band's floor) and was expanded from within the chapter's own beats to 4843 — the carvings tally, Thornwater's autumn, the made-shape exchange, Lira's clock line re-entered, Cael's interior at the slip, and the mirrored-silence paragraph. No mandated line changed.",
+    "The finding openers were first drafted as bold headers (the B6 Ch16 precedent) and converted to plain prose sentences to meet the packet's 'prose only' format and audio-first rules.",
+    "The card's 'equipment on a circuit' is rendered as looms on a mill-wheel to avoid the series' fight-circuit sense of 'circuit'.",
+    "'Karis Dellenmoor' is spoken once by Karis of herself (the registry lists Dellenmoor as her surname); no new entity.",
+    "Karis's strata name the academy above Ostrand by place, not 'Halcenvane' (registry disposition pending)."
+  ],
+  "blockers": []
+}

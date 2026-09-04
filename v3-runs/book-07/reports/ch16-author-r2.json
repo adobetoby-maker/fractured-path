@@ -1,0 +1,38 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch16-r2",
+  "scene_id": "b7-ch16",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch16.md",
+  "word_count": 4665,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH16-001 (HIGH): reconcile the carrying duration to the day-95/day-110 calendar.",
+      "status": "MET",
+      "evidence": "'fifteen days, and a fact that had not got one sentence longer for being carried' / 'I've had fifteen days. I've got nothing I'd put in the log as a reason.' / log: 'which didn't get any longer for fifteen days of carrying it'. grep 'six weeks' → 0. Fixed lines untouched."
+    },
+    {
+      "obligation": "ED-B7CH16-002 (HIGH): remove the impossible ferry timing.",
+      "status": "MET",
+      "evidence": "Seln: 'The report's on a desk by now. The ferry went west eight days ago, with Pike's copy in the sack.' — day 102, after the crew's return on day 99 and Pike's entry; consistent with Ch14 (the copy by carter on the 102nd) and Ch17 ('the day after your report went west'). The Vastin window's route remains unexplained."
+    },
+    {
+      "obligation": "ED-B7CH16-003 (MEDIUM): Oryn's lateness accrued six further days.",
+      "status": "MET",
+      "evidence": "Oryn: 'Oxhollow's seventeen days late'; log note: 'a route seventeen days late'."
+    },
+    {
+      "obligation": "ED-B7CH16-004 (MEDIUM): remove unapproved routing specifics from the Vastin window.",
+      "status": "MET",
+      "evidence": "'forwarded through a registry office that had no interest in any board east of the Line' / 'on his desk with no routing note' — 'provincial' and the requesting-officer clause removed; still three sentences."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [
+    "Oryn's route lateness at Ch16 close: seventeen days at the next hold (Oxhollow) as of day 110. The westbound ferry carried Pike's Fallow report on about day 102."
+  ],
+  "deviations": [
+    "Eight exact replacements from r1 (three for the duration, one ferry, two lateness, two Vastin); diff r1→r2: see hunks in gates; no other passage changed; r1 preserved as drafts/ch16-r1.md."
+  ],
+  "blockers": []
+}

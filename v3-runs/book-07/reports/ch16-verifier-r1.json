@@ -1,0 +1,45 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch16-verifier-r1",
+  "scene_id": "b7-ch16",
+  "editor_run_id": "b7-ch16-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch16-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch16-r1.md: Thornwater's wall was timber on a stone footing, and the gate-walk ran along the inside of it at the height of a tall man's reach, and at du",
+        "STATE_RUNNING calendar (Ch9 day 95; Ch15 day 104/109; Ch16 day 110)"
+      ],
+      "reason": "Stone day 95 → disclosure day 110 = fifteen days; 'six weeks' three times in r1. Repair: fifteen days, every occurrence; fixed lines untouched."
+    },
+    {
+      "finding_id": "ed-b7-ch16-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch16-r1.md: \"The report's on a desk by now,\" Seln said. \"The ferry went a fortnight ago. Whoever wrote the slip has read that we came out, and is decidi",
+        "STATE_RUNNING calendar (Ch9 day 95; Ch15 day 104/109; Ch16 day 110)"
+      ],
+      "reason": "'The ferry went a fortnight ago' = day 96, before the crew returned (day 99). Repair: the westbound ferry left about eight days before day 110 (consistent with Ch17's 'the day after your report went west' and Ch14's copy by carter)."
+    },
+    {
+      "finding_id": "ed-b7-ch16-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch16-r1.md: \"Oxhollow's eleven days late and the old woman's knee doesn't care what's under a floor. I'll be on the road at first light and I'll be thre",
+        "STATE_RUNNING calendar (Ch9 day 95; Ch15 day 104/109; Ch16 day 110)"
+      ],
+      "reason": "Day 104: 'eleven at the next'; day 110 → seventeen. Repair in Oryn's line and the log."
+    },
+    {
+      "finding_id": "ed-b7-ch16-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch16-r1.md: Vastin received the broker's completion report as a courtesy copy, forwarded through a provincial registry office that had no interest in an",
+        "STATE_RUNNING calendar (Ch9 day 95; Ch15 day 104/109; Ch16 day 110)"
+      ],
+      "reason": "'provincial' and 'no requesting officer's name' are routing specifics beyond the packet's 'a registry office that should have no interest' / 'no routing note'. Repair: remove both."
+    }
+  ]
+}

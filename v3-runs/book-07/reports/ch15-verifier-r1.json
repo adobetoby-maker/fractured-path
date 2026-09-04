@@ -1,0 +1,63 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch15-verifier-r1",
+  "scene_id": "b7-ch15",
+  "editor_run_id": "b7-ch15-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch15-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch15-r1.md: A cord with a stake at one end does, and a wheel does, and a bowl does, and every one of those is a thing somebody made. That's still geometry.\n\nNobody dressed ",
+        "packets/ch15.json prohibited_outcomes / approval_required / knowledge_boundary"
+      ],
+      "reason": "Finding one ('every one of those is a thing somebody made') and finding three ('Nobody dressed that floor. Nobody laid it. It was made some other way') both posit a maker/manufacture before the fixed closing speech. Repair: keep the early observations at shape, stroke, join, weathering; reserve 'somebody made' for the fixed speech."
+    },
+    {
+      "finding_id": "ed-b7-ch15-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch15-r1.md: The academy above Ostrand. Built, not converted; every course laid under the registry's own standard, the mortar mixed to its own directive. Fifty years, near e",
+        "packets/ch15.json prohibited_outcomes / approval_required / knowledge_boundary"
+      ],
+      "reason": "The strata paragraph adds ages (fifty years), tool continuity, chisel chronology, mortar/watermark equivalence, and an 'oldest dressed stone in Valdris' superlative beyond the packet's four labels and B3/B6 facts (four hundred years for the waystation ledger; two hundred for the standardization era). Repair: strip to the four labels with only those two established ages; keep her dressing/weathering method as method, not as dated canon."
+    },
+    {
+      "finding_id": "ed-b7-ch15-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch15-r1.md: I've had it since Oryn took her hands off you at the Ring and said *nothing in my hands* and you walked twenty meters in with the read running under your boots ",
+        "packets/ch15.json prohibited_outcomes / approval_required / knowledge_boundary"
+      ],
+      "reason": "Finding five: 'since Oryn took her hands off you at the Ring and said *nothing in my hands*' — that line was said over Brom's forearm (Ch10). Repair: attribute correctly; keep Cael's twenty-meter trial and dark-Arbiter statement distinct."
+    },
+    {
+      "finding_id": "ed-b7-ch15-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch15-r1.md: She worked with her voice for the first time since the ring. It had come back, as Oryn said it would, in pieces, over days, and by the week's middle it was a lo",
+        "packets/ch15.json prohibited_outcomes / approval_required / knowledge_boundary"
+      ],
+      "reason": "'She worked with her voice for the first time since the ring' contradicts Ch14 (documentation aloud; the quarter-hour argument). Repair: carry the hoarse, usable voice forward and show budgeting."
+    },
+    {
+      "finding_id": "ed-b7-ch15-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch15-r1.md: Wind. Iron Skin. Ember. Shadow. Tide. Iron rank one, Copper, no ranking, Bronze, Iron rank four. Five people, five Paths, five tiers, five histories of a thing ",
+        "packets/ch15.json prohibited_outcomes / approval_required / knowledge_boundary"
+      ],
+      "reason": "'five tiers' — standings are Iron R1, Copper, no ranking, Bronze, Iron R4: not five distinct tiers. Repair: 'five standings'."
+    },
+    {
+      "finding_id": "ed-b7-ch15-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch15-r1.md: The rubbings first, because they were the largest: eleven sheets, one per upright, charcoal on the registry's own paper turned to its blank side, each sheet the",
+        "packets/ch15.json prohibited_outcomes / approval_required / knowledge_boundary"
+      ],
+      "reason": "grep alphabet → 0. Repair: Karis states the copied lines are in no alphabet she owns (Ch10's property), uninterpreted."
+    }
+  ]
+}

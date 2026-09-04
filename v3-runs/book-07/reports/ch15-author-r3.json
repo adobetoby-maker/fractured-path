@@ -1,0 +1,53 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch15-r3",
+  "scene_id": "b7-ch15",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch15.md",
+  "word_count": 4825,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH15-001 (HIGH): remove maker/manufacture wording before the fixed closing speech.",
+      "status": "MET",
+      "evidence": "Finding one now reads: 'A cord with a stake at one end does. That's still geometry. ... I'm not going to walk one step past *shape* in the small hand' (the 'every one of those is a thing somebody made' clause removed). Finding three now reads: 'No stroke, no join, no laid edge. I've no word for a stone with none of the three, and I'm not going to invent one.' ('Nobody dressed that floor. Nobody laid it. It was made some other way' removed). grep 'somebody made' before the closing speech → 0; the fixed speech unchanged."
+    },
+    {
+      "obligation": "ED-B7CH15-002 (HIGH): strip added strata/dating canon to the packet's four labels and established facts.",
+      "status": "MET",
+      "evidence": "Registry-era: 'The academy above Ostrand. Built under the registry's own standard, and the newest thing on this cloth.' (no age, no tool continuity). Standardization-era: 'A records hall's back wall, in Ardenmere. Two hundred years, near enough — the same era as the papers in a case Seln carries and hasn't opened; that's Ostrand's finding, not mine' (B6's two hundred years; mortar/watermark equivalence removed). Pre-standardization: 'Greyvane's old course, from the converted waystation, older than the registry's standard by the dressing on it' (chisel chronology removed). Founding-era: unchanged except the superlative is now personal only ('the oldest dressed stone I have ever had in my hand'). 'Fifty years' and 'oldest in Valdris' removed."
+    },
+    {
+      "obligation": "ED-B7CH15-003 (MEDIUM): attribute 'nothing in my hands' to Oryn's trial on Brom.",
+      "status": "MET",
+      "evidence": "'since Oryn took her hands off Brom's arm at the line and said *nothing in my hands*, and you walked twenty meters in with the read running under your boots and told me it was dark before and dark now.'"
+    },
+    {
+      "obligation": "ED-B7CH15-004 (MEDIUM): carry Karis's voice forward as hoarse and usable; no 'first time since the ring'.",
+      "status": "MET",
+      "evidence": "'She worked with the voice she had. It had come back ... hoarse and usable by the birthday, spent on a quarter of an hour's argument about apples that night — and she budgeted it now the way she budgeted paper'."
+    },
+    {
+      "obligation": "ED-B7CH15-005 (LOW): 'five tiers' → standings.",
+      "status": "MET",
+      "evidence": "'Five people, five Paths, five standings, five histories'."
+    },
+    {
+      "obligation": "ED-B7CH15-006 (MEDIUM): state the copied lines are in no alphabet she owns.",
+      "status": "MET",
+      "evidence": "Karis, fourth evening: 'They're in no alphabet I own, and I own more than the registry prints; I said so at the ring and I've had four days to be wrong about it and I'm not.'"
+    },
+    {
+      "obligation": "ED-B7CH15-R2-001 (HIGH): remove the Valdris-wide superlative from the weathering sentence.",
+      "status": "MET",
+      "evidence": "'the weather's had more time on it than it's had on the oldest dressed stone I have, and I can't tell you how much more, because my ruler stops at the founding stone and the lines are past the end of it.' grep 'in Valdris' → 0."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [
+    "Karis's strata as now on the page: four labels; only the founding stone's four hundred years (B3) and the standardization era's two hundred (B6) carry ages; the floor entered past the founding stone as a limit."
+  ],
+  "deviations": [
+    "r3 differs from r2 in one sentence; r2 preserved as drafts/ch15-r2.md."
+  ],
+  "blockers": []
+}

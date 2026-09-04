@@ -1,0 +1,446 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch15-r1-editor",
+  "scene_id": "b7-ch15",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The 103rd-109th-day timeline, age nineteen, party of six, 108 marks, ten-fragment current state, Lira's left-arm restriction, Brom's recovered hand, and Seln's carried case reconcile. Three local state claims do not: Karis is said to use her voice for the first time since the Ring despite speaking extensively in Chapter 14; Oryn's Ring reading is reassigned from Brom to Cael; and three represented tiers plus an unranked standing are called five tiers. See ed-b7-ch15-003 through ed-b7-ch15-005."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration stays inside Cael's cataloguing attention, witnessed dialogue, documents, and reasonable inference. Karis's conclusions are spoken as her method and explicitly stop at hypothesis."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "The five findings occur in order; the Quieting is coined; the perimeter arithmetic and stake number recur; [UNBOUND] appears once; the Compact evidence is entered once; the fifth interpretation stops on 'It's a fear'; the fixed log and closing dialogue are present. The required statement that the copied lines belong to no alphabet Karis owns is absent from the full draft; see ed-b7-ch15-006."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "FAIL",
+      "evidence": "Searches return 0 for Architect, primordial, before the system, purpose, intelligence, Teague, Vastin, at the pitch, and at that pitch; [UNBOUND] returns 1. There is no travel, fight, fragment use, disclosure by Cael, new named entity, log ending, or image ending. Outside the packet-fixed closing speech, however, the draft twice advances manufacture/maker language that the packet forbids; see ed-b7-ch15-001."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Each conclusion is staged through available objects and prior observations: cord and paced perimeter, five Arbiter failures, masonry samples, survey stake/map/contract, and witnessed fragment use. Karis refuses causal interpretation rather than manufacturing a resolution."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "FAIL",
+      "evidence": "Possessions and most injuries persist through use, but Karis's voice history and Oryn's Ring reading contradict the supplied immediate state; see ed-b7-ch15-003 and ed-b7-ch15-004."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The chapter changes language, knowledge, and obligation: the Quieting receives its name, its age reaches Karis's method limit, Compact knowledge is formally entered, Karis stops an interpretation, and Cael commits to tell Lira tomorrow."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose uses the series' established cataloguing, procedural, object-emotion register without naming or detectably imitating an influence author."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the flattened ring, tools, room, party labor, and final parallel. Karis argues through method, Lira through bodily trial, Brom through compression and weight, Seln through counts, and Oryn through route arithmetic. The log remains plain, owned first-person writing."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. The hold's economy appears through exchanged paper, displaced meals, grain filling the loft, and healer backlog; research appears through rubbings, cord, samples, tool marks, weathering, and filing discipline; Compact reach appears through stake, map, contract, and copy route."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "FAIL",
+      "evidence": "No new proper name appears, and the central ontology remains unspoken. The draft nevertheless asserts several precise provenance and dating facts beyond the packet-listed strata without an approval record, and adds manufacture language outside the fixed three-facts speech; see ed-b7-ch15-001 and ed-b7-ch15-002."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked across every multi-speaker finding scene. Every turn is named, tagged, or fixed by an immediate speaker action; no unattributed run exceeds four lines. Italics decorate documents and emphasis but do not carry indispensable meaning alone."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every proper name in the manuscript was checked by ear against craft/NAME_REGISTRY.md: Cael, Karis Dellenmoor, Lira, Brom, Seln, Oryn, Pike, Prynn, Thornwater, Ostrand, Ardenmere, Greyvane, Valdris, and the Ring are established or packet-approved uses. Karis/Kestrel, Oryn/Orvet/Ostrand, Pike/Fiske, and Thornwater/Withrow remain distinct at audiobook speed. No reserved or new name appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch15.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. wc -w returns 4,843, within the 3,910-5,290 target; H1, prose breaks, and terminal prose format pass."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 15 counts, followed by canonical Book 7 Chapters 1-15 raw totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/2; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Both book-level 'There it was' hits are substring false positives. Chapter 15 has 0 single-word paragraphs; four distinct 'the way X verbs' constructions, each used once; 21 em dashes. Chapter-level modern-register, summary, feeling/growth declaration, metadata, and 'at the pitch'/'at that pitch' hits are all 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 14 ends on a Power Log entry. Chapter 15 ends on Karis's dialogue, 'That's different.' The adjacent structural moves differ exactly as required."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "FAIL",
+      "evidence": "Cael remains at ten current fragments, with the Ring record correctly limited to the nine he owned there; no fragment is deployed. Lira's left arm remains unusable, Brom's hand works after restriction, and Karis's throat improves across the week. Karis's claimed first post-Ring voice use and the reassigned Tide reading conflict with the previous chapter/running state; see ed-b7-ch15-003 and ed-b7-ch15-004."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The party remains six at Thornwater. Four companions witnessed Cael's use inside, Oryn knows his mechanism but not the Ring fact, and no outsider learns why Cael thinks his fragments worked."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement occurs; the chapter analyzes established Ring evidence."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system gain or new use occurs. Existing bodily costs remain visible through Lira's arm and Karis's voice."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Inquiry progress changes shared vocabulary, Karis's archival record, the party's understanding of Compact knowledge, and Cael's next relational obligation rather than increasing a stat."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No capability resolves a present conflict. The prior Ring uses are recorded rather than repeated or extended."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "No rival beat is assigned. Thornwater continues harvesting around the research, Oryn's route lateness grows, and the Compact's prior survey/contract machinery remains consequential independent of Cael."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The chapter changes from Chapter 14's disclosure, integration, and self-reading to field-report method, dating limits, institutional evidence, and disciplined refusal to infer."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The Ring's failure and injuries generate formal comparison, route work, recorded limits, and Cael's decision to disclose to Lira next."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display renders. The italicized material is Karis's notes and Cael's Power Log."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values are displayed. The prose's rank comparison contains a counting defect handled in ed-b7-ch15-005."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears; the diegetic notes read aloud sensibly."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The Power Log changes the next-chapter obligation and therefore earns its place."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "FAIL",
+      "evidence": "Karis withholds her explicit hypothesis, but the earlier maker/manufacture language supplies an extra inference outside the packet-fixed three facts; see ed-b7-ch15-001."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new combination or fragment use occurs."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Rank appears only as comparative evidence for identical failure; the institutional consequences in this chapter operate through registry survey practice rather than a new rank-bearing interaction."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "No extraordinary capability solves the chapter. Every research conclusion traces to concrete prior measurements or objects."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No ability is introduced or used."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named entity, Path, faction, or subsystem appears. The chapter primarily extends existing Ring, registry, route, and archive mechanisms, though unapproved details inside the named strata are separately flagged."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: watch Karis convert a week of evidence into findings. Delivery: five ordered findings, a stopped interpretation, and a relational handoff to Cael."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The findings pay Chapter 10 measurements and carvings, Chapter 12 stakes and blanks, and Books 3/6 strata discipline. The chapter plants rather than resolves the Arbiter and age inquiries."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The Quieting, Arbiter failure, age, Compact record, and Cael exception remain inquiry threads receiving bounded progress, not false answers. Karis's fear remains unentered."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Long research passages stay anchored to cloth squares, stone faces, mortar, tool chatter, rounded edges, rubbings, hands, throat, table, window light, and lantern. Concrete method outweighs abstract explanation."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the first review of a fresh draft; per-book multi-pass history is outside manuscript evidence."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. Table positions and room use remain spatially clear."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. Noncombat cadence varies long procedural accumulation with short verdicts."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants appear. Dialogue remains assignable by strategy and register."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "FAIL",
+      "evidence": "Lira's left-arm restriction and Brom's hand state persist correctly, but Karis's voice-recovery narration contradicts her extensive Chapter 14 use; see ed-b7-ch15-004."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "The week is compressed between fully dramatized findings, while every assigned discovery, refusal, fixed log, and closing exchange occurs on the page."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The noncombat set piece nevertheless makes the common room, table, loft, weather, window, boxes, samples, and lantern causally useful."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement delta occurs. Inquiry progress and prior injury costs are legible."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No major win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rival motion beat is assigned to this chapter and the protagonist does not advance."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The party and Thornwater adopt Karis's new term, while the Compact's survey artifacts show institutional knowledge outside any stat display."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. Karis's notes and Cael's log have explicit in-world writers and triggers."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional concealment is shown through numbered iron, map blanks, registry prose, and an inaccessible filing chain rather than delivered as Cael editorializing about injustice."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The dry exchanges occur outside acute stakes and do not function as deflection from danger or grief."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Cael watches Karis stop, recognizes their distinct disciplines and his debt, writes Lira first, and does not deflect the emotional consequence."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "The chapter preserves Cael's disclosure debt and advances the fixed checkpoint 'Lira first. Tomorrow' without prematurely disclosing or using the new reading on anyone."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch15-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "premature-maker-and-manufacture-inference",
+      "gate": "obligations.prohibited_outcomes",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch15.md",
+        "line_start": 45,
+        "line_end": 91,
+        "quote": "A cord with a stake at one end does, and a wheel does, and a bowl does, and every one of those is a thing somebody made. That's still geometry.\n\nNobody dressed that floor. Nobody laid it. It was made some other way, and I don't have a word for the way, and I'm not going to invent one."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch15-editor-prompt-r1.md",
+        "line_start": 496,
+        "line_end": 530,
+        "quote": "NOTHING beyond the three facts; no maker, no purpose, no 'Architect'.\n\nNo maker, purpose, intelligence, 'Architect', 'primordial', 'before the system' in anyone's mouth or narration; Karis states three facts and refuses a verb; [UNBOUND] appears once only."
+      },
+      "consequence": "The packet approves 'Somebody made a floor' only inside the fixed final three-facts speech and requires no maker or theory beyond it. These earlier statements both posit somebody and infer an unknown manufacture method, giving the reader the prohibited interpretive step before Karis's staged refusal to connect the facts.",
+      "repair_target": "Keep the early geometry and surface observations at the level of shape, tool marks, joins, and measurable weathering; reserve the only maker wording for the fixed closing speech and do not infer an alternate manufacture method.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch15-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "unapproved-stratum-and-dating-canon",
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch15.md",
+        "line_start": 85,
+        "line_end": 91,
+        "quote": "The academy above Ostrand. Built, not converted; every course laid under the registry's own standard, the mortar mixed to its own directive. Fifty years, near enough, and I can show you the tool that dressed it, because the tool's still in use.\n\nA records hall's back wall, in Ardenmere. Two hundred years, near enough. Same era as the papers in a case Seln carries and hasn't opened, and I can put the mortar against the paper's watermark and get the same generation.\n\nGreyvane's old course, the one under the converted waystation's floor — older than the academy by a good deal, laid by people who dressed stone with a wider chisel than anyone's used since.\n\nWaystation stone, from the wall Prynn's archive sat inside. Four hundred years, by the archive's own ledger, which I read the entry in. It's the oldest dressed stone I have ever had in my hand and it is the floor of my ruler."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch15-editor-prompt-r1.md",
+        "line_start": 494,
+        "line_end": 545,
+        "quote": "she dates the fused stone against every masonry stratum in her three boxes (registry-era, standardization-era, pre-standardization, founding-era waystation stone from Prynn's archive)\n\nAny new named entity; any stratum or dating fact beyond those listed; any additional [UNBOUND] use."
+      },
+      "consequence": "The packet authorizes the four strata and their required ordering, but explicitly reserves any additional stratum or dating fact for approval. The manuscript adds specific buildings, construction histories, ages, tool continuity, chisel chronology, mortar/watermark equivalence, and an 'oldest dressed stone in Valdris' superlative with no recorded exception. Those claims silently become reusable canon if the chapter advances.",
+      "repair_target": "Limit the on-page comparison to the packet-listed strata and already approved Book 6 facts, or obtain explicit approval for each added provenance/dating claim before advancement.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch15-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "tide-reading-subject-continuity-error",
+      "gate": "core.continuity_persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch15.md",
+        "line_start": 135,
+        "line_end": 135,
+        "quote": "I've had it since Oryn took her hands off you at the Ring and said *nothing in my hands* and you walked twenty meters in with the read running under your boots and told me it was dark before and dark now."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/STATE_RUNNING.md",
+        "line_start": 132,
+        "line_end": 138,
+        "quote": "TIDE — Oryn's surface reading on Brom's forearm runs outside and stops at the stride inside; three trials; her two lines on record verbatim: 'Nothing. Not nothing in him. Nothing in my hands.' / 'A healer's hands stop working there.'\n\nShe did not read Cael this chapter; she read nobody inside."
+      },
+      "consequence": "The remembered evidence combines two real Ring observations but assigns Oryn's quoted trial to Cael. Because the chapter's authority comes from exact field method, this makes Karis's culminating evidence chain factually unreliable and contradicts the frozen reading count.",
+      "repair_target": "Attribute 'nothing in my hands' to Oryn's line trial on Brom while keeping Cael's separate twenty-meter Iron-read trial and dark-Arbiter statement distinct.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch15-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "voice-recovery-seam-contradiction",
+      "gate": "author.13_injury_persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch15.md",
+        "line_start": 11,
+        "line_end": 11,
+        "quote": "She worked with her voice for the first time since the ring. It had come back, as Oryn said it would, in pieces, over days, and by the week's middle it was a low usable thing that went on her when she pushed it and came back when she rested it, and she rested it by writing."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch14.md",
+        "line_start": 127,
+        "line_end": 179,
+        "quote": "Karis documented all of it, because that was her seat, and she did it on the afternoon of the third day in the loft, with the three boxes open round her and her voice back.\n\nKaris and Brom argued for a quarter of an hour, hoarse against deep, about whether an apple baked with honey in it was a thing the hold had *made* or a thing it had *had*, and Karis lost on the merits and said so."
+      },
+      "consequence": "Chapter 15 opens the day after Chapter 14, where Karis already documents aloud and sustains a quarter-hour argument. Calling the new week her first voice work since the Ring resets a recovery beat the reader just witnessed and makes the injury chronology visibly inconsistent.",
+      "repair_target": "Carry forward the already usable, hoarse voice and describe how Karis budgets or further recovers it during the report without calling this its first post-Ring use.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch15-005",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "rank-tier-counting-error",
+      "gate": "authority.canon_timeline_state",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch15.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "Wind. Iron Skin. Ember. Shadow. Tide. Iron rank one, Copper, no ranking, Bronze, Iron rank four. Five people, five Paths, five tiers, five histories of a thing that showed up at fourteen and has been each of ours since."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch15-editor-prompt-r1.md",
+        "line_start": 491,
+        "line_end": 493,
+        "quote": "every Arbiter in the party went silent at the same line, same stride, same instant, same way — Wind, Iron Skin, Ember, Shadow, Tide, Iron R1 to Bronze"
+      },
+      "consequence": "The list contains five people and five Paths, but only three named tiers—Iron, Copper, Bronze—with Iron repeated and Karis holding no ranking. The phrase 'five tiers' is an audible arithmetic error inside a passage whose persuasive force depends on exact classification.",
+      "repair_target": "Describe the five formal standings without claiming they are five distinct tiers.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch15-006",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "missing-required-carving-property",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch15.md",
+        "line_start": 7,
+        "line_end": 9,
+        "quote": "The rubbings first, because they were the largest: eleven sheets, one per upright, charcoal on the registry's own paper turned to its blank side, each sheet the height of the stone it had been taken from and cut to that height, so that the eleven lay on the table in the order the uprights stood and at their own sizes, tallest to shortest, a ring laid flat.\n\nEvery band is the same kind of line and never the same line, and I want to know how many kinds there are before I say anything about any of them."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch15-editor-prompt-r1.md",
+        "line_start": 511,
+        "line_end": 514,
+        "quote": "The copied carvings as objects (lines in no alphabet she owns), the paced perimeter's arithmetic recalled, the stake's number."
+      },
+      "consequence": "The carvings are strongly realized as physical rubbings and a private tally, but a full-draft search for 'alphabet' returns zero and no equivalent statement says they are outside every alphabet Karis owns. The chapter therefore omits one explicit property of the required Ch10 payoff and risks recoding unreadable writing as merely a taxonomy of line forms.",
+      "repair_target": "State in Karis's evidence register that the copied lines belong to no alphabet she owns, without interpreting or naming them.",
+      "confidence": "HIGH"
+    }
+  ],
+  "strengths": [
+    "Yes: worldbuilding is done through mechanism and use. Paper purchases access to the room, grain changes where the party sleeps, a healer's route becomes an audible backlog, research is physical comparison and filing discipline, and institutional concealment is embodied by numbered iron, map blanks, and registry prose.",
+    "There is no fight or combat set piece, exactly as prohibited, so the terrain and 'X removed Y's ability to Z' combat tests are not applicable. The research sequence is nevertheless a memorable procedural set piece: the table and samples are load-bearing, and Karis's bounded win is writable as 'Karis removed inference's ability to pass as evidence by stopping her pen before the verb.'",
+    "The five-finding architecture is lucid and cumulative. Each movement changes the kind of evidence—grammar, simultaneous failure, physical age, institutional record, then interpretation—and the repeated acts of laying out, writing, turning, and stopping give Karis a distinct professional action vocabulary.",
+    "Karis's fifth finding is especially strong character work. Holding the nib above the page makes methodological honesty physical, 'It's a fear' gives the refusal emotional cost, and Lira's 'Does it help?' / 'It's just correct' exchange preserves both voices without declaring affection.",
+    "Cael remains active in a chapter centered on someone else's competence: he learns Karis's reach order, supplies the slip, recognizes the difference between her rule and his debt, and converts that recognition into 'Lira first. Tomorrow.'",
+    "The fixed ending lands cleanly. The mid-scene log turns Chapter 16 into an obligation, the log is closed before the final speech, and the last dialogue differs from Chapter 14's log ending without an explanatory tail.",
+    "Production hygiene is strong: 4,843 words falls within tolerance; metadata, summary-substitution, modern-register, feeling/growth, pitch, and chapter-level anti-tic searches are clean; attribution survives all multi-speaker scenes; names pass the registry ear check; and [UNBOUND] appears exactly once."
+  ],
+  "concerns": [
+    "Taste only: the substituted loom-and-sluice image is vivid, audible, and more rooted in the hold's material world than 'equipment on a circuit.' The packet repeatedly specifies the equipment/circuit formulation but does not label that sentence verbatim as it does 'It's a fear' and the closing exchange; a human may want to decide whether preserving the exact cross-book plant outweighs the stronger in-world image.",
+    "Taste only: the strata movement is deliberately expansive and tactile, but its successive tool, mortar, paper, chisel, weathering, and ruler explanations make the third finding much longer than the other four. After the approval-required factual additions are resolved, a line pass could test whether every comparison is needed for the reader to accept the limit.",
+    "Taste only: 'the woman had said something ... and after that nobody touched a sheet' creates a pleasantly implied authority beat, but the unsaid sentence is unusually coy inside an otherwise exact chapter. It works as scale and social texture rather than a contract defect."
+  ]
+}
