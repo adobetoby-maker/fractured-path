@@ -1,0 +1,395 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch11-r1-editor",
+  "scene_id": "b7-ch11",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The chapter remains on the ninety-sixth day with Cael eighteen, the party of six at the Fallow Ring, 108 marks, nine confirmed fragments plus the standing anomaly, the two-hundred-meter boundary, and the exact Chapter 10 seam. No canon secret is disclosed or contradicted."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third remains inside Cael's practical catalogue: counts, distances, footing, sound, fragment cost, injury state, and the log. Stillhound behavior is limited to prior observation and immediate inference; no hidden source, purpose, intelligence, or theory enters narration."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "Every named beat, plant, payoff, injury, declaration, count, mend, and exact closing exchange appears. The required claim that geography remain drawable at every pause fails during the pivotal sixty-meter retreat: Brom is established at the rear, Cael leaves Karis at sixty meters and immediately Wind-bursts west, yet at twenty meters Brom is already beyond the line carrying Karis and Oryn has already moved Lira there. See ed-b7-ch11-001."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "No person dies or loses a limb; no unlisted injury, wolf, other fauna, speaking/thinking/Path-bearing hound, outside witness, Teague, letter, Vastin, survey-stake beat, maker theory, floor damage, modern idiom, feeling/growth declaration, terminal log/image, 'Quieting,' or 'at the pitch/at that pitch' appears. The only deaths are the packet-mandated two hounds."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "FAIL",
+      "evidence": "The macro resolution is earned by Chapter 3's declaration bait, Chapter 6's ignition wall, Chapter 10's sharp boundary, and established fragment costs. The local causality of the supporting retreat breaks at sixty meters because the wounded group reaches the line ahead of Cael without enough elapsed time or movement on the page. See ed-b7-ch11-001."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Cael's taped ribs and right calf, Lira's taped right ankle, Brom's healed forearm, Karis's prior recovered hands, Seln's unmarked state, Oryn's reserve, all possessions, all nine fragments, and the anomaly reconcile with Chapter 10 and the frozen state. Every new wound and cost is explicitly carried into the close."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The fight changes knowledge, secrecy pressure, capability visibility, injury state, healer reserve, and future combat constraints. Cael enters withholding an uninterpreted fact and exits with five witnesses and Lira's bounded promise of later; the group prioritizes her arm over disclosure."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose stays in the series' own catalogue, procedure, cost-ledger, object-emotion, and dry-dialogue register. No influence author is named or detectably imitated."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael counts floor, pack, distances, sounds, fragments, wounds, time, and open hounds; the Power Log remains plain first-person evidence. Brom works through weight and footing, Lira through stripped speed, Karis through lattice and writing, Seln through positional calls, and Oryn through clinical procedure."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Quiet ground is experienced through declarations failing or returning at one stride; stillhound ecology appears through den advantage, sound/declaration pursuit, and careless boundary crossings; healer scarcity becomes cloth, knees, an hour of reserve, and a seasonal load restriction. No dossier paragraph substitutes for use."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new named entity or capability is minted. Cael's fragments working inside are demonstrated to the five witnesses without theory; Shadow's non-attraction is filed as an observation he cannot explain. The floor remains unexplained and undamaged."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked across the lip, line, and multi-party aftermath. The longest unattributed run in a 3+ speaker scene is two lines, both fixed as Seln's by the preceding voice attribution and 'from further off'; all later speakers are tagged or fixed by adjacent action. Italics decorate Cael's owned log but do not carry meaning alone."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every manuscript proper name was checked by ear against craft/NAME_REGISTRY.md: Cael, Lira, Brom, Karis, Seln, Oryn, Daeva, Ephram, Reydan, Thornwater, and the descriptive Fallow Ring. No new name is introduced; the accepted Ephram/Edran and Reydan/Renn registry pairs do not co-occur here, and all names present remain distinct at audiobook speed."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch11.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0; the section 10 summary-substitution grep returns 0. The H1 is exact, there are eight '---' breaks, the file ends on prose, and wc -w returns 5,194 words, inside the 3,910-5,290 target range."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "FAIL",
+      "evidence": "Actual case-insensitive Chapter 11 counts, followed by Book 7 Chapters 1-11 totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/1; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Chapter 11 also has 1 raw and true 'the way X verbs' construction, 28 em dashes, 0 modern-register hits, 0 summary-substitution hits, 0 feeling declarations, 0 growth declarations, and 0 pitch-prohibition hits. It has 3 one-word paragraphs ('Yours.' / 'Later.' / 'Later.'), exceeding the per-chapter cap of 2. See ed-b7-ch11-002."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 10 ends on a first-person Power Log entry. Chapter 11 places its log before the end and closes on the required Lira/Cael dialogue exchange. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Fragment audit: Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, and Blade are all established; all nine are honestly inventoried, Shadow is used once, Anchor only perceives, the anomaly is not deployed, and no acquisition occurs. Injury audit against Chapter 10 and the running snapshot: Cael's ribs persist and right calf reopens; Lira's right ankle turns a third time and her new left-forearm bite is saved but load-restricted; Brom's new right-hand cut remains open; Karis's throat is bruised and voice gone; Seln remains unmarked; Oryn is drained. No state silently vanishes."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The party remains six. Exactly five people witness Cael's interior fragment use—Lira, Brom, Karis, Seln, and Oryn—and no outside observer is present. All five defer discussion until after Lira's arm, with only the mandated closing exchange addressing it."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "PASS",
+      "evidence": "Before the decisive declaration, the chapter establishes nine hounds, the cut road, the two-hundred-meter line, Oryn's dead hands, Lira's active hemorrhage, Karis under a hound, and the cost of ending Cael's silence."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "FAIL",
+      "evidence": "The lip, road, cord-lane, scrub, distances, stone, and ignition edge are clear until sixty meters. From there, Brom and Oryn transport Karis and Lira to the far side of the line faster than Cael's immediate two-burst run, despite Brom having been at the rear. The missing interval makes the critical movement impossible to sketch. See ed-b7-ch11-001."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "FAIL",
+      "evidence": "Individual contacts respect balance, reach, equipment, wounds, and established abilities. The group movement at sixty meters does not: a cut-handed Brom carrying Karis and Oryn supporting a bitten, bad-ankled Lira cannot cover sixty meters before Cael covers the same distance with two Wind bursts unless an unshown delay or route is supplied. See ed-b7-ch11-001."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "PASS",
+      "evidence": "Brom plants weight and uses the lip, Lira runs stripped to physical speed, Seln selects and calls lanes, Karis turns prepared lattice geometry into a wall, Oryn positions where injury will arrive, and Cael converts observation and the fragment suite into pursuit bait."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "PASS",
+      "evidence": "Cael decides to stop holding, passes the pack while declaring, maintains the only Path-discharge target on the floor, and pulls all eight surviving hounds across the line. Karis then closes their return route with the ignition wall, so the break and two-dead/seven-gone result are causally legible despite the supporting group-movement defect."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "PASS",
+      "evidence": "The fight exposes Cael's secret to five people, establishes the boundary's tactical inversion, changes Lira's season, exhausts Oryn, and opens a deferred disclosure between Cael and Lira."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "Cael is spent with ribs and calf recorded; Lira's arm and ankle are defined; Brom's hand, Karis's throat/voice, Oryn's reserve, Seln's unmarked report, open hound count, and lost/recovered box are all recorded for the next snapshot."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No rank or fragment advances. The knowledge and human deltas are exact: five people now know by sight that the suite works inside, and Cael's tactical competence is proven through a combination of already established components."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The win costs Cael the full suite and secrecy, Lira a season of arm use, Karis her voice, Brom his bolt hand, and Oryn her reserve."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress appears as changed trust, witnessed capability, team doctrine, a healer's order, and the promise of later—not as a rank increase."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "The victory uses Chapter 3's taught declaration bait, Chapter 6's ignition wall, Chapter 10's sharp boundary, and previously acquired fragments. No unestablished capability resolves the fight."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The chapter is a continuous survival fight with no rival or institutional scene; no rival advancement is assigned here. The registry stake and contract threads remain untouched as required."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The tactical problem differs from the ford and traverse: the party retreats across a capability boundary while only Cael can declare, using the pack's den advantage as the lever that leads it out."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The ford's bait tactic and cut-dog geometry are inverted under pressure; Chapter 6's terrain wall returns at a boundary; Cael's four-year secrecy discipline is spent only when the alternative is losing the group."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The Power Log is a physical document owned and written by Cael after an in-world trigger."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display; Cael's manual inventory correctly states nine confirmed fragments and one anomaly."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears; the italicized log remains fully speakable as prose."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The log consolidates witnessed deployment, cost, injuries, open hounds, and the win sentence for future continuity."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The cause of Cael's immunity, the Quiet's source and purpose, and every later term remain withheld. The log distinguishes observation from explanation."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "All suite components are established acquisitions. Wind supplies the pursuit target, Iron the footing read, the other declarations continuous discharge, Compression the priced contact, Shadow the permitted unseen approach, and Anchor perception of Karis's lattice."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Rank is not materially at issue in this boundary fight; Path loss and return, rather than tier, determine access to capability."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The resolution traces to Chapter 3's declaration-sense and pack geometry, Chapter 6's ignition line, Chapter 10's sharp boundary, and established fragment mechanics."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Every used ability carries established or immediate constraints: Wind's lock, Shadow's public seal, Compression's contact, Oryn's contact and reserve, and the boundary's absolute suppression of standard Paths."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The chapter introduces no new named element and extensively recombines existing terrain, stillhound rules, crossbow practice, fragments, and healing mechanics."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: get six people from the ring to the distant line against nine hounds on their floor. Delivery: all six cross, the pack loses its den advantage, Lira's arm is saved, and Cael's secrecy becomes witnessed debt."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "Every surprise and combination has a lower-chapter plant; Cael's interior function is a witnessed plant here rather than an explanation or final reveal."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The event thread closes with a new tactical status quo; the inquiry advances from private observation to witnessed fact without a false answer; the relationship thread moves to a deferred conversation."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "World-law explanation remains attached to white stone, grey scrub, hand-high lip, crossbow string, cloth, blood, rut, lantern, breath, and the stride where current resumes. Sensory and mechanical action outweigh abstraction."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the first cross-family review of a fresh draft; per-book revision-pass history is outside the manuscript evidence."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "FAIL",
+      "evidence": "Most terrain is exceptionally drawable, but the sixty-to-twenty-meter interval cannot be reconstructed without giving the supporting group impossible speed. See ed-b7-ch11-001."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "PASS",
+      "evidence": "The fight uses long accumulating runs for retreat and full-suite pressure, then short reversals—'Every head turned,' 'They broke,' and 'Not back.'—at decisive changes. The cadence is contrastive rather than uniformly fragmentary."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "PASS",
+      "evidence": "With names removed, the tactics remain reassignable: weight/bolt, stripped speed, positional calls, lattice geometry, clinical hands, and catalogue/fragment combination."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "PASS",
+      "evidence": "Survival, Lira's bleeding arm, Oryn's unavailable Path, Karis under the hound, the distant line, and Cael's silence all precede the decisive full declaration."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every previous open injury from the frozen Chapter 10 state recurs or remains resolved, and every new injury is bound, mended, restricted, or explicitly left for morning."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "PASS",
+      "evidence": "The core problem differs from the previous fight: not baiting a pack in water or escaping a herd, but crossing a line that restores five allies' Paths while the only working declaration draws the pack out behind it."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "The entire assigned fight, decision, mending, injury definition, log, and closing relationship beat occur in scene. No arc-major information is relegated to later report."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "PASS",
+      "evidence": "More than two beats are terrain-caused: the fused lip removes a hound's drive; the lip turns Lira's ankle and reopens Cael's calf; the cord-lane avoids the cut road; the sharp line restores five Paths; the inside meter holds Karis's wall and blocks retreat."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "No numerical advancement occurs. Human/tactical growth is legible in the doctrine-level inversion of the ford and is paid for with the full injury and secrecy ledger."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "PASS",
+      "evidence": "The major win is attributable to observation, geometry, silence training, and inversion of a known behavior rather than a displayed rank or superior damage number."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No named rival appears or is assigned an advancement beat in this continuous fight chapter."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Cael's invisible progression receives its strongest social echo yet: five companions witness a capability no tier or registry column can describe, and Lira names the fact at the close."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. Cael owns and writes the physical Power Log for an immediate continuity reason."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The chapter is not an institutional-critique scene; the Compact and its files remain offstage by packet requirement."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor is used to deflect danger, injury, or the disclosure cost."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The hour of mending, Cael's self-inventory, the log, and the Lira exchange process the fight without jokes or lampshading."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The outward-reading moral stake has not opened. The chapter advances the separate trust/secrecy pressure exactly at its assigned witnessed-use checkpoint."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch11-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "combat-movement-causality",
+      "gate": "combat.2_positions_and_movement_legible",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch11.md",
+        "line_start": 113,
+        "line_end": 149,
+        "quote": "He put Lira into Oryn's hands and let the box go off his back.\n\nShadow-adjacent. Once.\n\nHe had not used it on this side of the Line; he had held it through a country with a ledger and a ferry west, and there was no public here — four people who knew where it came from, a healer who had found nothing in him three times, and eight animals. He thinned. It was Seln's — the presence going out of him like a lamp turned down, the movement folded into the dark — and he crossed ten strides of grass through the middle of a pack turning to a woman's voice, and not one head turned to him. If it counted as a declaration, nothing on the floor came to it. He did not have a sentence for that either. He put it on the shelf.\n\nHe got the hound by the loose skin at the back of its neck and a hind leg and heaved.\n\nThe Iron read gave him the ground under his boots and he used all of it. The animal came off her chest with its jaws still working and its teeth coming off her throat, and he turned with it and threw it as far as a man throws a thing that weighs what he does, into the south scrub, and it landed and rolled and was up. Karis lay on her back with her mouth open, and no sound came out of it now.\n\nSeven heads in the scrub, and the one he had thrown, were turned to where the sound had been.\n\nHe knew what they followed. He had learned it on a river from the thing that did not happen: the loudest declaration, and absent one, the loudest sound, and absent that, whichever thing on the floor committed first. They had never met a thing on this floor that could declare. He had been the only thing on it that could since the stone, and had told nobody, and the sentence he owed them was sixty meters west and he was going to have to run it before he wrote it.\n\nHe stopped holding.\n\n---\n\nWind-adjacent, full.\n\nThe burst went through him as it had gone through Lira on the rim, the whole of it, the legs and the back and the breath — and did not land as nothing. It landed as twelve paces of grass in the time a breath takes, the scrub going flat and white either side of him with the wind of it, the loudest thing that had ever been inside this circle, on purpose, west, past the pack, along the lane toward a stone in a rut.\n\nEvery head turned.\n\nEight animals that had never in their lives sensed a declaration on this ground turned to it, all at once, as seven had turned on a river to a bead of white on a girl's fingers. Then he was in the landing lock — the fixed one-count, the beat he could not price a hit inside — and he heard the scrub come after him.\n\nWind was a burst and a lock and then a body running, and a body running was nearly nothing to them. So he did what he had not done since a matting floor against a Gold-tier woman: he spent everything, one after another, so that there was never a breath in which he was not the loudest thing on the floor.\n\nPressure-adjacent, because it was loud and he needed it for nothing else. Ember-adjacent, one point of ignition held out at arm's length as he ran, Karis's, a bead of white that lit the lane five paces round and made the scrub either side go still and then come on harder. Blade-adjacent, Ephram's, which had nothing to cut and rang anyway. Storm-adjacent, Daeva's, the pressure-differential seeded ahead of him along the lane so that the air went wrong for ten paces and every fragment in him that was not Storm rang with it as a struck pan rings. Anchor-adjacent, let off its hold, looking west. He ran through the middle of his own noise with the Iron read under his soles giving him every root and stone in the dark, and the calf hot, and the ribs stopping his breath at the tape on every stride, and behind him eight grey shapes came after the only declaration they had ever met on their floor.\n\nOne reached him in the second lock.\n\nA second burst at forty, and the hound came out of the south scrub inside it, low, at the leg, and he took it on the shoulder instead — Compression-adjacent, Reydan's, at contact, the force of the animal going into him and through him and out along his own frame into the ground — and it went over him and was up, and he was up, and it turned with the rest and came on.\n\nTwenty meters.\n\nThe stone in the rut ahead of him, two fists of it, dark against the grey; Seln a stride beyond it on the road, standing; Brom beyond Seln with Karis over his shoulder and the bow in his cut hand; Oryn and Lira on the road's far edge, Lira on her back, Oryn on her knees; the mule, hipshot, exactly where it had been left."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch11.md",
+        "line_start": 79,
+        "line_end": 79,
+        "quote": "The lane, then, in the order Seln had put them: Seln somewhere ahead in the scrub; Karis; Oryn; Lira on Cael's shoulder with the ankle going down wrong every second stride; Brom at the rear with the bow wound and his right hand held oddly on the stock. Cael had the middle box on his own back by then, because Brom needed both hands and Karis needed the box."
+      },
+      "consequence": "At sixty meters, Cael leaves Karis on the ground, immediately bursts west past the pack, and takes a second Wind burst at forty. Brom begins behind the formation and must first reach Karis, lift her with a cut hand, then carry her sixty meters; Oryn must move Lira the same distance on a bitten arm and failed ankle. Both are already beyond the line before the Wind-assisted Cael reaches twenty meters. The climactic retreat therefore contains an impossible speed/elapsed-time jump at the exact point the reader needs positions and cause to be clearest.",
+      "repair_target": "Make the supporting group's sixty-meter movement and Cael's pursuit route/timing causally legible while preserving the packet's required state that the whole unit is already over when he crosses, Karis is carried by Brom, Lira is moved by the group, and Cael leads the pack out.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch11-002",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "single-word-paragraph-cap",
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch11.md",
+        "line_start": 251,
+        "line_end": 261,
+        "quote": "\"It worked in there.\"\n\nA beat.\n\n\"Yours.\"\n\n\"Yes,\" Cael said.\n\n\"Later.\"\n\n\"Later.\""
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 348,
+        "line_end": 348,
+        "quote": "- Single-word paragraph for emphasis (\"He went.\") — cap at 2 per chapter."
+      },
+      "consequence": "The required closing exchange contains three one-word paragraphs—'Yours.' and two instances of 'Later.'—so the draft exceeds the binding per-chapter cap by one. No recorded exception authorizes the variance; repeated isolated landing beats slightly overstate an ending whose words are already strong.",
+      "repair_target": "Preserve every word and order of the packet's verbatim closing exchange while bringing the one-word-paragraph count to two or fewer through attribution or paragraphing that remains clear in audio.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Taste only / packet tension: the packet's opening_state says the party is approximately 140 meters inside, while Chapter 10's measured geometry places the ring's west lip roughly 187 meters inside and the must-include choreography requires Brom and Lira to fight on that lip. The draft sensibly privileges the measured lip and uses 140 meters as a retreat waypoint. Because the work order itself pulls in both directions and '~140' is not repeated in must_include, this is not raised as a defect; a human may wish to normalize the card later.",
+    "Taste only: the post-fight Power Log is useful continuity infrastructure, but it repeats the win mechanism, full fragment inventory, all six injury states, witness count, and priority after the prose has already rendered each clearly. At the upper end of the length band, a later compression pass could test how much of that recapitulation the chapter needs without weakening the required honest inventory.",
+    "Taste only: 'the loudest thing' and the explanation of declaration/sound priority recur several times across the run. The repetition is functional tactical tracking, not a capped tic, but the audio pass should preserve escalation so the mechanism does not feel re-explained after the reader already understands it."
+  ],
+  "strengths": [
+    "Yes: the worldbuilding is done through mechanism and use. Quiet ground is not explained in a lore block; it constrains declarations, a healer's hands, pack ecology, the unit's volume, the value of a crossbow, the exact position of a lattice, and the seasonal price of a mend. The world's rule is learned by what bodies and tools can or cannot do.",
+    "Yes: the set piece is memorable, and terrain is load-bearing well beyond the minimum. The hand-high fused lip removes a hound's drive and turns Lira's ankle; the cord-line supplies the uncut lane; scrub makes sound visible without making hounds visible; the distant stone is an objective; the sharp boundary restores five Paths; and the one meter inside it becomes Karis's ignition wall. The clean win sentence is: Cael removed the pack's ability to fight where its prey could not declare by becoming the one declaration it could follow out.",
+    "The core tactical inversion is excellent and fully earned. Chapter 3 taught declaration bait, loudest-target behavior, the cut dog, and pack commitment; Chapter 11 turns each fact over under a new constraint. 'The ford turned over: the declaration ran, and the killing was a line' is a precise receipt, not an after-the-fact excuse.",
+    "Brom's lip exchange is especially strong. The prose establishes balance before force—forefeet landing below expected hind-foot level—then lets a Pathless fighter win one beat with planted weight, good footwork, and a haft. It characterizes competence without smuggling Iron Skin back into the Quiet.",
+    "Oryn's failure and recovery land through procedure. The stopped count, blood to the wrist, cloth and knees, exact two-sentence order, resumed count at the stride, one-hour mend, vascular/deep-tear findings, and load prohibition make the cost legible in both medical and emotional registers.",
+    "Character tactics remain sharply differentiated under a shared survival problem: Seln calls geometry in flat fragments, Brom holds and bolts, Lira runs the style stripped to bone, Karis builds the wall voiceless, Oryn reaches the hurt, and Cael turns a catalogue of prior mechanisms into one decision.",
+    "The secret becomes relationship pressure without premature disclosure. All five witnesses are named by position, nobody theorizes, Lira's arm correctly outranks the revelation, and the final 'Later' exchange changes trust while deferring explanation to its assigned chapter.",
+    "The injury and fragment accounting are unusually disciplined. All nine fragments have established sources and uses; the anomaly is not promoted; Shadow's seal is honored; the full-suite bill is paid; every wound is side-specific and carried; two dead and seven open are recorded rather than rounded into victory.",
+    "Production is otherwise clean: 5,194 words is within tolerance; metadata, summary-substitution, modern-register, feeling/growth, pitch-prohibition, and named tic greps return zero for Chapter 11; Book 7 remains under every book-level phrase cap; names pass the registry ear check; attribution survives audio; and the dialogue ending differs structurally from Chapter 10's log ending."
+  ]
+}

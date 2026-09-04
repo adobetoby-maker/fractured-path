@@ -1,0 +1,178 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch12",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 12 card)",
+    "state": "state-b7-post-ch11 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is eighteen; nine + anomaly. Party SIX, camped at the stone outside the line for a night and a day; too spent to move Lira and Karis; Oryn too spent to mend anyone else until morning. Injuries per Chapter 11 (Lira: arm saved, slung, load-restricted for the season; ankle; Karis: throat, voiceless; Brom: bolt-hand; Cael: calf reopened, spent; Oryn: drained).",
+      "Oryn mends through the morning at her reserve's rate — Karis's throat (voice returns hoarse over days, not instantly), Brom's hand, Cael's calf — then sits against the survey stake and does her arithmetic aloud: three mendings in two days is the route's whole budget, and the route is eleven days north.",
+      "SELN'S MEMORY (the cache is NOT opened): the survey stake unlocks a drawer — the Compact's edge-territory maps he carried on three postings are drawn in the void style PAST the Line and have BLANKS: circles of nothing, unlabeled, at the spacing of a country's worth of quiet ground. He draws one from memory on Karis's carter-map over the Fallow Ring; it matches. 'They surveyed it. Five years ago by the stake, maybe six. They paced the circles and stamped the stakes and drew the maps with holes where the circles are. That's not ignorance. Ignorance doesn't stamp iron.' Finding, once, flat: the Compact knows what quiet ground does and has filed it somewhere they can't reach. NOTHING more (where, what, why — beyond the book). Then the contract re-read: written from inside, for a kit that was never here, by someone who wanted to know which crew would go in. 'We just told them. The report goes west on the next ferry. It'll say we came out.'",
+      "Cael's silence continues: five people saw his fragments work inside; he tells nobody why he thinks it happened because he doesn't know. Log entries across two nights (content fixed). He keeps it four more chapters.",
+      "Nobody says 'the Quieting'; nobody theorizes maker/age; Karis's dating is Chapter 15."
+    ]
+  },
+  "purpose": "REPAIR RUN. Apply the three verified findings to v3-runs/book-07/drafts/ch12-r1.md with minimal, localized changes and write the repaired manuscript to output.draft_path. (1) Put Seln's locked intelligence case physically on the page as present and unopened — one or two sentences in the possessions catalogue or beside the stake — without opening it, describing contents, or adding action. (2) Remove Seln's off-camp excursion (gone since first light, a mile north, the hounds' stopping place): keep Seln at the camp; he may read the ground at the camp's edge and the line's outside where it is visible from the stone, but adds no new hound finding and no travel; keep his stake-triggered memory, the map demonstration, and the contract re-read exactly. (3) In the second-night log, keep the two-night log track and the 'unfiled, not secret' entry but strip the restatement of the Compact finding (blanks, matching circle, survey age, stakes, ignorance line, inaccessible file) — the log may say Seln remembered something and that Cael entered nothing about it, no more. Do not rewrite unrelated passages. Keep wc -w ≤ 5,290.",
+  "scene_shape": {
+    "opening_state": "Dawn at the stone after the fight; the camp outside the line; the ring behind them.",
+    "pov_goal": "Keep everyone alive and still until they can move; understand what the stake means; decide what to do with the thing five people saw.",
+    "opposition": "Reserve arithmetic (Oryn's, the route's); the stake's implication; his own not-knowing.",
+    "turn": "Oryn's morning of mendings and her arithmetic aloud against the stake. Seln's drawer: the maps with blanks; the circle drawn from memory that matches; his three sentences on the stakes; the finding stated once; the contract re-read as a question and 'We just told them.'",
+    "choice": "Cael writes, across two nights, that he is not keeping it secret but keeping it UNFILED — 'Lira said later. Later is when I have a sentence.' — and does not invent a word for what he is at a camp with Lira's arm two hours old.",
+    "outcome": "The party can move on the second day; the report of the contract will go west and will say they came out.",
+    "closing_state": "The chapter ENDS ON AN IMAGE (the previous chapter ended on dialogue): the second dawn, Oryn at the line with the stone at her feet, stepping over it — one stride in, hands raised, nothing; one stride out, hands raised, the current back — four times, alone, while the camp sleeps, checking the rule the way Karis paced the circle; Cael awake, watching her do it, and not writing it down, because she would not want it written down yet."
+  },
+  "obligations": {
+    "must_include": [
+      "Oryn's mendings at reserve rate (throat, hand, calf) with the healing's cost visible; her arithmetic aloud (three in two days = the route's budget; eleven days north) while sitting against the survey stake.",
+      "Seln's memory beat: the Compact maps' blanks; the circle drawn from memory over the Fallow Ring that matches; his lines verbatim ('They surveyed it... Ignorance doesn't stamp iron.'); the finding stated once, flat (the Compact knows what quiet ground does and has filed it somewhere they can't reach); nothing pursued.",
+      "The contract re-read: registry prose, a kit that was never here, someone who wanted to know which crew would go in; Seln's 'We just told them. The report goes west on the next ferry. It'll say we came out.'",
+      "Cael's two-night log track with the 'unfiled, not secret' entry (content as in the card: 'I'm not keeping it secret. I'm keeping it unfiled. There's a difference. Lira said later. Later is when I have a sentence. The answer might be: because whatever I am isn't a Path... I don't have a word for what that makes me, and I'm not going to invent one at a camp with Lira's arm two hours old.').",
+      "Lira's arm state carried (slung, not used); Karis voiceless (writing to speak); the cache present and unopened.",
+      "The chapter ENDS on the image of Oryn testing the line four times at dawn, unwritten-down.",
+      "Manuscript format: H1 '# Chapter 12 — What Seln Remembers', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The Compact measured quiet ground and drew maps with holes (Book 8's suppressed records — proven to exist, not read).",
+      "The completion report going west (Ch16's courtesy copy; Ch17's trap).",
+      "Oryn checking the rule herself (her scientist's streak; Ch15–16)."
+    ],
+    "payoffs": [
+      "Ch10's stake; Ch8's registry prose; Ch11's 'Later.'"
+    ],
+    "prohibited_outcomes": [
+      "The cache is not opened or described; Seln remembers only maps and stakes.",
+      "No theory of who/why/how old; no 'Quieting'; no dating.",
+      "No disclosure by Cael; nobody asks him directly (Lira's 'later' holds).",
+      "No travel beyond the camp; no fight; no fragment use (idle texture only).",
+      "No new named entities; no Teague, letters, Vastin.",
+      "The chapter does not end on dialogue or a log entry.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Camp texture (cold, the stone, the stake as a backrest, rationing, the mule); the mendings as sensation and cost; Seln drawing on the carter-map; Karis communicating in writing; two nights compressed with the log.",
+      "Dialogue in established voices; Seln's professional register.",
+      "Cael's interior cataloguing and both log entries."
+    ],
+    "approval_required": [
+      "Any new named entity; any Compact fact beyond the maps' blanks and the stamped stakes; any injury change."
+    ],
+    "forbidden": [
+      "Opening the cache; theory; disclosure; travel; fights; a dialogue or log ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 11 as drafted — the immediate seam (the fight, the mending at the line, 'Later.')",
+      "path": "v3-runs/book-07/drafts/ch11.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch12-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH12-001",
+      "severity": "HIGH",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "evidence": "'cache' absent from the draft; possessions catalogue omits the locked case.",
+      "consequence": "Ch17–19's load-bearing possession has no continuity beat.",
+      "repair_target": "Place the locked case, present and unopened, on the page."
+    },
+    {
+      "id": "ED-B7CH12-002",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes",
+      "evidence": "r1 lines 125–129: Seln gone since first light, a mile north along the line, new hound finding.",
+      "consequence": "Travel beyond the camp; unassigned event.",
+      "repair_target": "Keep all action within the camp; no replacement excursion; no new hound finding."
+    },
+    {
+      "id": "ED-B7CH12-003",
+      "severity": "MEDIUM",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "evidence": "r1 line 153 (finding in scene) and line 221 (second-night log restates it in full).",
+      "consequence": "The single controlled advance is landed twice.",
+      "repair_target": "Second-night log must not restate the finding or its explanation."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch12.md",
+    "report_path": "v3-runs/book-07/reports/ch12-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch12-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch12-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch13-r1-editor",
+  "scene_id": "b7-ch13",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The party reaches Thornwater as six at the end of the second walking day; Cael is eighteen with 108 marks, nine confirmed fragments plus the anomaly at open, and ten plus the anomaly after the notice. Cael's ribs and calf resolve on the page, Lira's left arm remains slung, Karis's voice returns hoarse, and Oryn's reserve/route debt persists. Lira's taped right ankle and Brom's still-active three-day string restriction do not recur or resolve at their next appearance; see ed-b7-ch13-001."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third remains inside Cael's counts, body, practical attention, remembered fragment history, and private notice. Oryn reports only sensations available through her reading, repeatedly distinguishes feeling from meaning, and makes no factual ontological claim."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "The Oryn-less covenant council names sustained engagement, stakes, and earnest use; Karis's required real-not-fight sentence appears verbatim; the cost and after-the-fact disclosure are written in advance; the long reading is differentiated from the short reading and rendered over twenty minutes; Oryn's required failure-to-read lines are verbatim; Cael does not stop the reach; the full fixed notice appears; two firsts and the private unwritten third are counted; and the mandated closing exchange ends the file."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Oryn has not learned the mechanism when the chapter ends; nobody claims Cael lacks a container, is made of Tide, or predates anything; no fight, other fragment deployment, post-acquisition destabilization sequence, Quiet theory, Teague, letter, Vastin, new named entity, modern idiom, metadata, or prohibited pitch phrase appears. The last beat is dialogue, not a log or image."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The acquisition follows the previously taught covenant and reading mechanics: sustained close contact, real stakes, earnest use on Cael, prior witnessed components, and the newly load-bearing duration condition. The chapter argues the ethical cost before the act and visibly spends Oryn's reserve; no coincidence supplies or erases the result."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "FAIL",
+      "evidence": "Cael's wounds, Lira's arm, Karis's throat/voice, Oryn's depletion, the fragment inventory, money, party size, and knowledge boundaries persist correctly. The draft does not recur or close Lira's taped ankle or Brom's three-day bow-string restriction at their next appearance; see ed-b7-ch13-001."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Cael enters with an unperformed reading and an unpriced consent problem; he writes the price, chooses not to stop the reach, acquires a tenth fragment, recognizes the anomaly convergence without theorizing, and exits owing Oryn the full truth while she sets the terms of disclosure."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose stays in the series' own cataloguing, procedure, object-emotion, dry-dialogue, and cost-ledger register. No influence author is named or detectably imitated."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the returned steading, wounds, loft positions, room dimensions, light, elapsed reading, conditions, fragments, and notice fields. The advance Power Log uses his plain first-person register. Oryn remains clinical and directive, Lira asks the honest question, Brom prices the source cost, Karis files the model distinction, and Seln supplies the professional consent limit."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Tide practice is shown through hands, short versus long readings, reserve expenditure, sleep/food requirements, route debt, clinical speech, and inability to force Cael into known categories. The acquisition system is shown through a covenant, observed components, duration, a privately perceived notice, and changed ethical obligation rather than an explanatory dossier."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new named entity is introduced. The tenth fragment extends established Tide reading components and uses the packet-fixed notice. Oryn's inability to find banks remains an epistemic limit; the anomaly is noticed as a convergence and neither compared nor explained; the disclosure is deferred to Chapter 14."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked in the five-speaker loft council. The longest unattributed run is three lines (Cael, Lira, Cael at lines 63-67), below the maximum of four and fixed by the surrounding tagged turns. The two-person clinical scenes remain unambiguous. Italics and the fenced notice decorate information whose wording remains intelligible aloud."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every proper name in the manuscript was checked by ear against craft/NAME_REGISTRY.md: Cael, Lira, Oryn, Karis, Brom, Seln, Ephram, Ostrand, Oxhollow, Thornwater, and Ardenmere are established names, not reused entities. Oryn/Orvet/Ostrand differ in ending and cadence; Karis/Kestrel and Ephram/Edran are already accepted registry pairs; Thornwater is distinct from Withrow at audiobook speed. No reserved Boundary-universe name appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch13.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0, and the section 10 summary-substitution grep returns 0. The H1 is exact, the file ends on prose, and wc -w returns 5,169 words, inside the 3,910-5,290 range."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 13 counts, followed by Book 7 Chapters 1-13 raw line totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/2; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. The two book-level 'There it was' hits predate this chapter and remain under cap. Chapter 13 has one single-word paragraph ('Yes.'), below the cap; the maximum identical 'the way X verbs' construction is two ('the way she had'); em dashes 29; modern-register, summary-substitution, feeling/growth, and pitch-prohibition hits 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 12 ends on the observed dawn image of Oryn returning to lie beside Lira's arm. Chapter 13 ends on Oryn's spoken twenty-one-minute order. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "FAIL",
+      "evidence": "Fragment audit passes: Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, and Blade are the nine at open; the Tide-adjacent anomaly remains unconfirmed; the fixed notice adds a tenth Tide-adjacent fragment; no other fragment is deployed; the third count remains unwritten. Injury audit passes for Cael's ribs/calf, Lira's slung left arm, Karis's hoarse recovering voice, and Oryn's reserve, but fails for omitted Lira ankle and Brom string-restriction continuity; see ed-b7-ch13-001."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The party remains six. The circle council contains Cael, Lira, Brom, Karis, and Seln without Oryn; the deep reading contains only Cael and Oryn behind the shut door. At the close Oryn knows only that something changed and that Cael says he did it; she has not learned the mechanism, notice, inventory, log, or covenant."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs; the packet prohibits one. The clinical engagement's stakes are nevertheless established in the council and advance log before contact."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat movement occurs. The loft and back-room positions, table, door, window, hands, and sun-clock remain spatially legible for the noncombat set piece."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The clinical action respects contact range, two-hand placement, the still/whole condition, the twenty-minute duration, and Oryn's reserve cost."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight or combatants appear."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat decision occurs. Cael's noncombat pivotal choice not to stop the reach is explicit, available alternatives are named, and the notice/disclosure debt follow directly."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The clinical set piece changes capability, knowledge, trust debt, healer reserve, and the terms of disclosure."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new fight cost is created. The reading's reserve cost is shown, while the missing carried injury constraints are handled under continuity gates."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "The cause is intelligible: twenty minutes of Oryn's earnest Tide reading at contact, under real stakes, observed openly by Cael and completed by his directed reach. The delta is recorded in full: tenth confirmed fragment, Tide-adjacent, Iron-equivalent, sustained, partial, current-perception and architecture-reading, self and contact, clinical non-hostile engagement."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Oryn spends a mending's reserve after three recent mendings and an overdue route; Cael records in advance that she cannot consent to what she cannot know and accepts the risk of losing her care after disclosure. The current visibly thins and she leans on the table after the reading."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "The new fragment immediately changes Cael's ethical and relational position: he must disclose the mechanism, Oryn detects the change, and she controls the posture and duration of the coming conversation. The first noncombat fragment also reframes what advancement can be for."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "The integration mechanism, directed acquisition, earnest/non-hostile precedent, Tide surface/deep readings, contact, reserve, and need for long duration are all established before the notice. The fragment is acquired here but does not resolve an external conflict."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "No rival motion is assigned to this private acquisition chapter. Oryn's independent professional route and reserve remain active pressures rather than freezing to accommodate Cael."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The chapter changes from Chapters 10-12's boundary trials, fight, and institutional inference to a consent council and sustained clinical contact. The acquisition problem is ethical and diagnostic, not another combat escalation."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Four failed surface readings and the Ring's cost change behavior: Cael waits until whole, takes the covenant to the circle, writes desire and risk before the act, and promises full disclosure; Oryn runs the deeper method only after recovery and states the limits of every finding."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "PASS",
+      "evidence": "The fragment notice belongs to Cael and arrives at the in-world instant his directed reach completes while he is watching the sunlit wall. He explicitly reads it where his eyes already are."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "PASS",
+      "evidence": "The display matches the packet-fixed text exactly and changes the inventory from nine confirmed fragments plus anomaly to ten plus anomaly. Tide adjacency, sustained duration, partial integration, Iron equivalence, components, self/contact range, directed acquisition, and clinical non-hostile engagement all match approved state."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "PASS",
+      "evidence": "The notice consists of speakable labels and phrases with no symbol-dependent logic, table, or bare-number stat block. Its meaning survives removal of brackets and line layout."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "PASS",
+      "evidence": "The notice confirms the acquisition, supplies the first clinical field and first noncombat fragment, creates the private Tide/anomaly convergence, alerts Oryn through a felt change, and forces the closing disclosure. It cannot be cut without removing the chapter's assigned turn."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "Oryn cannot see the notice and has not learned the mechanism. Cael refuses to infer what the shared Tide-adjacent label means; nobody supplies ontology, the Quiet's source, or a container theory."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "The acquired components are the current-perception and architecture-reading functions Oryn performs on the page after earlier surface/deep-reading teaching. The system extends established acquisition grammar rather than combining an unshown component."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "The Tide practitioner's professional scarcity and finite reserve determine access to diagnosis and care, delay seven holds, and price a private reading. The new Iron-equivalent classification describes a noncombat diagnostic capability rather than damage."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The acquisition pays the B4 covenant, B6 directed/non-hostile precedent, Chapter 7's two readings, four failed surface readings, and the packet-established long-duration condition. The new fragment creates future options but does not solve a present external problem."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "The deep reading requires both hands, whole-current contact, a still uninjured patient, twenty minutes, and a mending's reserve. The tenth fragment is partial, contact-range, perceptual, and explicitly useless for moving Cael in a fight."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named entity, faction, location, Path, or subsystem is minted. Established Tide reading, fragment integration, covenant, Power Log, Thornwater, and party relationships are deepened and connected."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: return whole enough for the reading and determine how to act honestly under imperfect consent. Delivery: the price is written, the reading is run in full, the tenth fragment arrives, and Cael begins the owed disclosure under Oryn's terms."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The deep reading pays Chapter 7's taught distinction and four surface failures. The acquisition pays prior directed and earnest/non-hostile notices plus years of Tide-adjacent anomaly planting, while withholding the anomaly's explanation."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The reading inquiry receives the owed diagnostic result—an honest inability to read, not false ontology. The acquisition event establishes a new capability state. The consent/relationship thread advances into a disclosure obligation rather than pretending after-the-fact consent has already resolved."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "The long mechanics passages remain grounded in palm placement, sternum, spine, plank table, cold-without-temperature, currents lying along fragments, sunlight climbing the wall, breath, thinness, and hands leaving. Sensory and procedural material outweigh abstract exposition."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the first cross-family review of a fresh draft; per-book revision-pass history is outside manuscript evidence."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The noncombat set-piece geography is drawable: four-by-five room, east window, table under it, shut door, Cael left-side-down facing the window, Oryn's palms on sternum and spine, light climbing from wall to ceiling."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. The clinical sequence nevertheless varies medium procedure, long accumulating sensation, clipped findings, and the short reach/notice turn without uniform fragment dependence."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants appear. Dialogue remains assignable by professional strategy: Oryn orders and reports, Lira challenges the honest premise, Brom prices physical cost, Karis formalizes the model, and Seln distinguishes consent categories."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No first blow occurs. The clinical engagement's bodily, reserve, route, trust, and disclosure stakes are established before the reading."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "FAIL",
+      "evidence": "Cael's ribs and calf are explicitly examined and closed; Lira's arm and Karis's throat/voice recur. Lira's taped ankle and Brom's still-running string restriction neither recur nor resolve at their next appearance; see ed-b7-ch13-001."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "The covenant, advance log, twenty-minute reading, failure commentary, interior choice, notice, counts, and closing confrontation all occur on the page. Only the uneventful two-day return is compressed, which the charter permits."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. In the noncombat set piece, the shut door creates privacy, the table fixes contact posture, and the east-window light measures ten and twenty minutes; the room is mechanically used rather than decorative."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "The advancement delta and cost are both explicit: a tenth Tide-adjacent diagnostic fragment, Oryn's spent reserve and route debt, Cael's accepted risk to the relationship, and an immediate disclosure obligation."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No major fight win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rival appears or is assigned motion in this private acquisition chapter."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The progression changes conduct outside the notice: the circle audits the price, Oryn feels a change she cannot classify, Cael admits agency, and she dictates how the truth will be told. Tide scarcity and reserve also reshape noncombat access and time."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "PASS",
+      "evidence": "Cael owns the notice, perceives it at acquisition, reads it on the wall for an immediate in-world reason, and reacts by counting and disclosing."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "The moral critique of acquisition without prior informed consent is dramatized through a council, alternatives, written terms, deliberate choice, bodily contact, spent reserve, and an owed conversation—not delivered as an untested editorial speech."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "PASS",
+      "evidence": "The only dry closing humor is Oryn's twenty-one-minute order. It does not erase the ethical cost; it controls Cael's body and carries the disclosure directly into the next chapter."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The chapter is a scheduled quiet acquisition scene. Cael processes desire, fear, consent, bodily contact, and responsibility through the circle, the log, stillness, and choice without banter or emotional declaration."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "The concrete stake is Oryn's trust and future care: Cael records that uninformed acquisition may cost him her hands and route, chooses anyway, accepts authorship aloud, and begins the promised disclosure. The later outward-reading consent rule is planted without being prematurely resolved."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch13-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "injury-continuity-omission",
+      "gate": "core.continuity_persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch13.md",
+        "line_start": 5,
+        "line_end": 7,
+        "quote": "The wall, timber on a stone footing, the same. The bowman on the gate-walk, the same man, who looked down at six where he had seen six go out and called nothing, which was his whole vocabulary and was enough. The yard, the well, the grain loft with its ladder, the house with two chimneys and one of them smoking. The steading's woman at the house door with her arms folded, counting them as they came in the way he was counting her steading, and arriving at the same number, and looking at Lira's arm slung across her chest, and at Karis's throat, and at the mule with its three boxes, and saying, \"Six. Well,\" which was a ledger line.\n\nLira had walked the two days the way Oryn told her and not the way she walked, which was the first time in four years he had seen her take an order about her own body and keep it past the first mile. She stopped inside the gate and did not sit down until Oryn said she could."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch12.md",
+        "line_start": 219,
+        "line_end": 219,
+        "quote": "*Injuries, all six, after Oryn's morning. Lira: left arm slung, second day, not used for anything — she ate with the right and let me tape the ankle; Oryn says holding. Karis: throat mended, voice none; Oryn says days, and hoarse before it's anything. Brom: right hand closed, four lines across the pads, nothing on the string for three days. Me: right calf washed and bound, not mended; nothing under her hands, the fourth time; closing on its own, faster than it should. Ribs, tape twenty-one days. Oryn: three mendings in two days — the arm, the throat, the hand — and she says that's a route, and the route's eleven days north. Seln: nothing.*"
+      },
+      "consequence": "A full-draft exact search for 'ankle' returns zero, and every Brom appearance in Chapter 13 omits his hand and the three-day string restriction. Chapter 13 opens at the end of the two-day walk, while those constraints were still open at departure; the draft selectively carries Lira's arm, Karis's throat, and Cael's wounds but gives no recurrence or explicit resolution for Lira's taped right ankle or Brom's restricted bow hand at their next appearance. A careful reader or later action scene can therefore lose two pieces of recovery state.",
+      "repair_target": "Make Lira's taped ankle and Brom's still-active hand/string restriction recur or resolve on the page without changing the assigned acquisition scene, adding treatment, or altering any other injury state.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Taste only: the chapter uses inclusive calendar language for Cael's calf ('opened ... four days ago' / 'Closed. Four days') while the same night calls him three days off the Ring. The running-state chronology can support four named dates (96-99) but only about three elapsed days, so an audio listener may hear a one-day discrepancy; because the series often counts named days inclusively and the packet itself says three days off deployment, this is not promoted to a verified finding.",
+    "Taste only: the long reading names each of the nine fragments in sequence. The catalogue suits Cael and makes the full-architecture pass legible, but the Wind-through-Blade inventory slightly slows the clinical mystery before Oryn's fixed failure report; a later compression pass could test whether every named stop earns its audio time without removing the whole-of-him sensation.",
+    "Taste only: 'the ones she had touched settling differently' brushes close to the packet's prohibition on staging destabilization before Chapter 14. In context it describes the immediate tactile effect of Oryn's ongoing reading before acquisition, not the post-acquisition listening/destabilization sequence reserved for Chapter 14, so the stronger reading is compliant. Preserve that boundary in any revision."
+  ],
+  "strengths": [
+    "Yes: worldbuilding is done through mechanism and use. Thornwater is counted by returns, injuries change pace and posture, Tide medicine operates through hands, time, reserve, privacy, sleep, food, route debt, and professional limits, and the system's new clinical category emerges because it must classify an actual ethical/medical event.",
+    "There is no fight, exactly as prohibited, so no combat win sentence of the form 'X removed Y's ability to Z' applies. The deep-reading set piece is memorable and mechanically choreographed: the shut door makes consent/privacy pressure inescapable, sternum-and-spine contact fixes the geometry, the east-window light times the twenty minutes, Oryn's current moves fragment by fragment, and the turn occurs when Cael declines the available ways to stop it. Its outcome sentence is: Cael removes his own ability to pretend the acquisition was accidental by writing the price before contact and admitting afterward, 'No. I did.'",
+    "The covenant council earns the acquisition ethically without pretending to solve the ethics. Lira distinguishes reading from taking, Brom asks who bears the unpriced cost, Seln separates requested examination from informed consent, Karis extends earnest/non-hostile to real/non-fight, and Cael records both his best argument and his fear before choosing.",
+    "Oryn's failure to read is disciplined. She reports movement, uncertainty, missing edges, and inability to find banks; she never converts an instrument limit into an ontological claim. The fixed twenty-minute report therefore expands wonder while protecting the Book 8 reveal boundary.",
+    "The sensation of the reading is specific to both viewpoint and profession: cold without temperature, a hand learning a rope's lay, current going along rather than down, Shadow quieting under touch, and sunlight serving as clock. Cael remains a cataloguer even through unprecedented intimacy.",
+    "The notice is cleanly owned, triggered, state-consistent, and speakable. Its two public firsts—clinical engagement and a fragment that does nothing in a fight—advance visible progression and the book's human argument together; the private third count activates the five-year anomaly without explaining it.",
+    "The final exchange lands changed pressure rather than summary. Oryn detects the change, Cael accepts authorship, disclosure becomes unavoidable, and her dry twenty-one-minute order preserves clinical authority while carrying the ethical consequence into Chapter 14. It also differs cleanly from Chapter 12's image ending.",
+    "Production hygiene is strong: 5,169 words is within tolerance; section 8.4 metadata and summary greps are zero; every capped tic is zero in Chapter 13 and within the Book 7 cap; attribution survives audio; names are established and aurally distinct; the prohibited pitch and modern registers are absent; and all fixed dialogue and notice text is exact."
+  ]
+}

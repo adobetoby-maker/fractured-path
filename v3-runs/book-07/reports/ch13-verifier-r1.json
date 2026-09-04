@@ -1,0 +1,20 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch13-verifier-r1",
+  "scene_id": "b7-ch13",
+  "editor_run_id": "b7-ch13-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch13-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "grep -ci ankle v3-runs/book-07/drafts/ch13-r1.md → 0",
+        "grep -n Brom v3-runs/book-07/drafts/ch13-r1.md → lines 37, 51, 93, 95, 145: no hand, no string restriction",
+        "STATE_RUNNING After Chapter 12: Lira right ankle taped, unmended; Brom right hand mended 97th, 'nothing on the string for three days'; Ch13 opens on the 99th (restriction still active)",
+        "VOICE_CHARTER §4.3 / THE_AUTHOR §2.8 (injury persists at next appearance)"
+      ],
+      "reason": "Both states were open at departure from the stone and neither recurs nor resolves in Ch13. Repair belongs to the author seat: one clause each at the characters' first appearance (the gate for Lira's ankle; the loft for Brom's hand and the string restriction). No treatment added; the reading scene untouched."
+    }
+  ]
+}

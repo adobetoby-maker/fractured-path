@@ -1,0 +1,37 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch12-r2",
+  "scene_id": "b7-ch12",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch12.md",
+  "word_count": 5186,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH12-001 (HIGH, obligations.required_beats_plants_payoffs): place the locked cache on the page, present and unopened, without opening it, describing contents, advancing its thread, or adding action.",
+      "status": "MET",
+      "evidence": "Opening position catalogue, Seln's entry: \"Seln at the stone, standing, with his back to the camp, where he had stood since full dark, and the locked case on its strap across that back, where it rode on every road — the cache, shut, not once in two days off him.\" Second-night catalogue: \"Seln at the stone, facing the scrub, with the case on him, for the whole of the light and then the whole of the dark.\" grep -ci cache now returns 1 (was 0). The case is not opened, not described inside, and no action attaches to it."
+    },
+    {
+      "obligation": "ED-B7CH12-002 (HIGH, obligations.prohibited_outcomes): keep Seln and all chapter action within the camp; no replacement excursion; no new hound finding.",
+      "status": "MET",
+      "evidence": "r1 lines 123–129 (\"Seln came along the line from the north.\" / \"He had been gone since first light — north along the line's outside, where seven hounds had run in the dark\" / \"Seven went north ... a mile up where they stopped and stood a while\") replaced by: \"Seln came along the line from the stone.\" / \"He had not left it since full dark. At first light he had read the ground from where he stood — the line's outside, the scrub either side of the rut, as far as the stone let him see and no further — and now he came along the line toward the stake ...\" and the speech reduced to \"Karis's map,\" Seln said, to the stake, with no change at all in the voice. \"The carter's. Not the sheet.\" The mile-north excursion and the hound movement report are gone; no replacement finding was added. The stake is sixty meters along the line from the road (established in Ch10) and inside the camp's footprint as the chapter already used it for Oryn."
+    },
+    {
+      "obligation": "ED-B7CH12-003 (MEDIUM, obligations.required_beats_plants_payoffs): the second-night log must not restate the Compact finding or pursue its explanation; keep the in-scene finding and the two-night log track.",
+      "status": "MET",
+      "evidence": "The in-scene finding (Seln at the stake, the drawn circle, 'Ignorance doesn't stamp iron', the once-stated conclusion) is untouched. The second-night log's restating paragraph replaced by: \"*Seln remembered something today, against the stake. Karis has it in her margin, entered as said. I've entered nothing about it here, and I'm not going to. He said it once. That's its number.*\" The log now carries Cael's refusal to file it, not the substance. The rest of the two-night log track (his silence, 'unfiled not secret', Lira's 'later') is unchanged."
+    }
+  ],
+  "inventions": [
+    "The cache is given a physical position (a locked case on a strap across Seln's back, worn on every road, not off him in two days). No contents, no lock detail, no thread advance."
+  ],
+  "state_change_proposals": [
+    "Seln did not leave the camp during Ch12; the seven surviving hounds' movement after the fight is UNKNOWN in-story (the r1 'mile north, stopped and stood' finding is withdrawn and should not be carried in the state).",
+    "The cache rides on Seln's back as a locked case; present and unopened through Ch12."
+  ],
+  "deviations": [
+    "This report was written by the author seat in the current session from the repaired draft on disk (drafts/ch12.md, mtime 2026-09-01 23:55) after the original r2 run wrote the draft but terminated before writing its report. The repairs were verified line by line against drafts/ch12-r1.md: six changed lines total, all inside the three findings' spans. No passage outside the findings was touched. Net change: -61 words (5,247 → 5,186); the whole delta is the removed excursion sentence and the shortened second-night log paragraph, offset by the two cache clauses.",
+    "The chapter contains one instance of 'There it was' (VOICE_CHARTER §9 cap 3 per book) — present in r1 and passed by the editor; unchanged. Book-wide count to be confirmed at the book-scope tic census."
+  ],
+  "blockers": []
+}

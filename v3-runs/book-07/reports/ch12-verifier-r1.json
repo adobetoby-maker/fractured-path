@@ -1,0 +1,35 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch12-verifier-r1",
+  "scene_id": "b7-ch12",
+  "editor_run_id": "b7-ch12-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch12-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "grep -ci cache v3-runs/book-07/drafts/ch12-r1.md \u2192 0",
+        "packet must_include: 'the cache present and unopened'"
+      ],
+      "reason": "The locked case is absent from the possessions catalogue; the trap in Ch17\u201319 is built on it."
+    },
+    {
+      "finding_id": "ed-b7-ch12-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch12-r1.md:125-129 (Seln gone since first light a mile north along the line, tracking the seven)",
+        "packet prohibited_outcomes: 'No travel beyond the camp'"
+      ],
+      "reason": "An unassigned excursion and a new hound finding; the chapter's shape is the unit lying still."
+    },
+    {
+      "finding_id": "ed-b7-ch12-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch12-r1.md:153 (Seln's finding in scene) and :221 (the second-night log restating it in full)"
+      ],
+      "reason": "The single controlled advance is landed twice; the log should carry Cael's silence, not the finding's substance."
+    }
+  ]
+}

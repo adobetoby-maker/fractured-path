@@ -1,0 +1,24 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch13-r2",
+  "scene_id": "b7-ch13",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch13.md",
+  "word_count": 5223,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH13-001 (MEDIUM, core.continuity_persistence): make Lira's taped right ankle and Brom's mended right hand with its three-day string restriction recur or resolve on the page at first appearance, without treatment, without touching the acquisition scene or any other injury state.",
+      "status": "MET",
+      "evidence": "Lira, at the gate (first appearance): \"Lira had walked the two days the way Oryn told her and not the way she walked — the taped right ankle put down flat at every stride, as if it were somebody else's — which was the first time in four years he had seen her take an order about her own body and keep it past the first mile. She stopped inside the gate, the foot turned out, and did not sit down until Oryn said she could.\" Brom, in the loft (first appearance): \"Brom at the ladder's head, where he always sat when there was a ladder, with the crossbow across his knees and the right hand open on the stock, the four dark lines across the pads, the string untouched for two days because Oryn had said three.\" Both states recur as carried; neither is treated; the ankle stays taped and unmended, the hand stays mended with the restriction still running (ordered on the 97th; the loft scene is the 99th). grep -ci ankle now 1 (was 0). No other line of the draft changed (diff against ch13-r1.md: two lines)."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [
+    "Lira's right ankle: taped, unmended, walked on flat for two days to Thornwater (99th); still taped at Ch13 close.",
+    "Brom's right hand: mended (97th), four dark lines across the pads; string restriction still active on the 99th (day two of three); the crossbow is carried across his knees in the loft, not spanned."
+  ],
+  "deviations": [
+    "Repair applied by the author seat in the current session directly to the draft (two clauses; net +54 words, 5,169 → 5,223; ceiling 5,290). No passage outside the finding's two spans was touched."
+  ],
+  "blockers": []
+}

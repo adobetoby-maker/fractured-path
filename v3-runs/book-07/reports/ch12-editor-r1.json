@@ -1,0 +1,417 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch12-r1-editor",
+  "scene_id": "b7-ch12",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The chapter runs from the night of day ninety-six through dawn of day ninety-eight with Cael eighteen, six people still camped outside the line, 108 marks, nine confirmed fragments plus the anomaly, and the Chapter 11 injury state intact. The packet's request to mend Cael's calf conflicts with the already established higher-authority Tide rule that Oryn cannot mend what she cannot read; the draft correctly preserves that rule, attempts a fourth reading, and binds rather than mends the calf."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third remains inside Cael's practical catalogue of bodies, objects, counts, maps, wounds, fragments, supplies, and withheld words. Seln supplies his own professional memory; Cael does not narrate undisclosed file contents, maker, purpose, age, or source as fact."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "The mendings and reserve arithmetic, map blanks and matching circle, verbatim stake lines, contract re-read and westbound report, two-night unfiled log, injury states, silence, plants, payoffs, and four-crossing image all appear. Two explicit constraints fail: the cache is never made present on the page, and the Compact finding required once is restated in detail in the second-night log. See ed-b7-ch12-001 and ed-b7-ch12-003."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "FAIL",
+      "evidence": "The cache is not opened or described; no Quieting term, maker/source theory, artifact dating, disclosure, direct question to Cael, fight, fragment use, new named entity, Teague, letter, Vastin, dialogue/log ending, modern idiom, feeling/growth declaration, metadata, or prohibited pitch phrase appears. The categorical 'No travel beyond the camp' condition fails when Seln ranges a mile north before returning. See ed-b7-ch12-002."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Oryn's reserve rules cause the treatment order and visible depletion; the unreadable architecture causes Cael's calf to remain unmended; the stamped stake triggers Seln's map memory; the matching blank recasts the contract; Pike's established ledger and ferry chain carry the answer west. No coincidence erases a cost or supplies a solution."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "All injuries, fatigue, supplies, money, fragments, the anomaly, the mule, the crossbow, map, notebook, stake, stone, hounds, and party headcount persist or change explicitly. No prose says the cache was lost or opened, so its continuity is not contradicted; its defect is failure to satisfy the stronger explicit on-page must-include requirement."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The party becomes movable on the second day; Oryn spends the route's reserve and tests the line privately; Seln proves the Compact measured and filed quiet ground; the contract becomes a question already answered; Cael converts secrecy into an honestly bounded unfiled state while the unit keeps Lira's 'later.'"
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose remains in the series' own catalogue, procedure, object-emotion, dry-dialogue, and cost-ledger register. No influence author is named or detectably imitated."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues positions, wounds, time, reserve, maps, provisions, fragments, witnesses, and light. The two log entries use his plain first-person register. Oryn speaks in clinical counts and limits, Seln in flat professional findings, Karis through terse written questions, Brom through one-word work language, and Lira through oblique restraint."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Healing reserve appears through treatment order, greying skin, elapsed light, a failed read, route debt, food, and the holds left waiting. Compact knowledge appears through a punched stake, cartographic blanks, registry diction, broker paper, Pike's completion machinery, and a ferry copy rather than a dossier lecture."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new named entity or capability is minted. The Compact plant proves only measured blanks, stamped stakes, and an unreachable file; Seln refuses 'Where,' Cael refuses interpretation, the cache stays unopened, and the Quieting's source, maker, age, and purpose remain withheld."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked across the multi-party morning treatment and map/contract scenes. The longest unattributed run is two lines, with speaker identity fixed by the immediately preceding tag, action, or written-page handoff. Italics decorate owned log/map text but every passage remains intelligible aloud."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every manuscript name was checked by ear against craft/NAME_REGISTRY.md: Cael, Lira, Oryn, Karis, Brom, Seln, Ostrand, Pike, Thornwater, and the descriptive Fallow Ring. Compact and Registry are institutions, and Path/Anchor are system terms. No new name appears; the established Oryn/Orvet/Ostrand set remains distinguishable by ending and cadence, and the other names are distinct at audiobook speed."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch12.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0; the section 10 summary-substitution grep returns 0. The H1 is exact, section breaks are prose-safe, the file ends on prose, and wc -w returns 5,247 words, inside the 3,910-5,290 range."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 12 counts, followed by Book 7 Chapters 1-12 raw totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 1/2; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Both book-level 'There it was' hits are non-tic substrings ('Out there it was a flag'; 'In there it was heresy') and the raw count remains under cap. Chapter 12 has two one-word dialogue paragraphs ('Yes.' and 'Charcoal.'), at the cap; the maximum identical 'the way X verbs' construction is two ('the way Lira ...'); em dashes 22; modern-register, summary-substitution, feeling/growth, and pitch-prohibition hits 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 11 ends on dialogue ('Later.' / 'Later.'). Chapter 12 ends on an observed dawn image of Oryn testing the line and returning to lie beside Lira's arm; the adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Fragment audit against the base snapshot and Chapter 11: Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, and Blade remain nine confirmed fragments; the Tide-adjacent anomaly remains unconfirmed; no acquisition or deployment occurs; Anchor only idly wants the stake and is not given one. Injury audit: Lira's left forearm stays slung and unused and her right ankle is taped; Karis's throat is mended while her voice remains absent; Brom's right hand is mended with a three-day string restriction; Cael's right calf is washed and bound, not mended, and his three taped ribs still stop breath; Oryn remains drained; Seln remains unmarked."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The party remains six. Exactly five people retain witnessed knowledge of Cael's interior fragment use—Lira, Brom, Karis, Seln, and Oryn. Nobody asks him directly, no additional witness appears, and no disclosure occurs."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs; the packet prohibits one."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat movement occurs. Camp, road, stone, stake, line, and ring remain spatially legible for the noncombat work."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. Treatment and camp actions respect the established injuries, equipment, contact range, and Tide limitation."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat decision occurs. The noncombat decisions—Oryn rationing reserve, Seln stopping at the limit of knowledge, and Cael withholding filing—remain legible."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs; the chapter nevertheless changes institutional knowledge, travel readiness, healer reserve, and secrecy pressure."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new fight cost is created. Chapter 11's costs are fully carried and updated under continuity gates."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "PASS",
+      "evidence": "No rank or fragment advances. The knowledge delta is exact and caused: Seln's memory plus the matching map proves the Compact measured quiet ground, and the contract/report chain proves the crew has answered an institutional question."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The new knowledge arrives while Oryn's route reserve, food, time, Lira's mobility, and Cael's trust debt remain visibly priced. Oryn's three mendings consume the route's budget eleven days from its patients."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress appears as a crew keeping a promise, a healer preserving her own evidence, a professional refusing to pretend knowledge, and an institution preparing to receive a completion report—not as a stat change."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No major victory or capability-based resolution occurs."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "The Compact's earlier survey practice, broker contract, registry prose, Pike's ledger, and westbound ferry form an independently moving institutional chain. No rival beat is assigned to this camp chapter."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The chapter changes problem type from Chapter 11's boundary fight to reserve rationing, professional memory, institutional inference, and disciplined silence."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Chapter 11's wounds force stillness, rationed healing, one-handed practical trust, delayed movement, and Cael's refusal to prioritize naming himself over Lira's two-hour-old arm. The failed calf reading is recorded as a repeated finding, not wished away."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. Cael's physical Power Log is owned, written, and reread by him for immediate in-world reasons."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display; the manual inventory correctly records nine confirmed fragments and one anomaly."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears; the italicized physical log remains fully speakable."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The physical log changes the secrecy frame and records state, though one portion over-repeats the mandated Compact finding."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The cause of Cael's immunity, the Quiet's source and purpose, the file's contents and location, and every later term remain withheld consistently. Observation is not promoted into explanation."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fragment combination or capability use occurs."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Formal rank is not materially at issue; healer scarcity and route reserve, rather than tier, shape access to care."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No extraordinary capability resolves conflict. Oryn's ordinary Tide work follows previously established contact, reading, and reserve rules."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Tide's reserve, contact, read-before-mend rule, delayed voice recovery, and inability to mend Cael are all explicit; Anchor remains idle texture and is not deployed."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named element is introduced. Existing healing rules, maps, registry language, stake, contract board, ferry, injuries, fragments, and line mechanics are extended and connected."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: keep the injured camp alive and still while dealing honestly with what the stake and witnessed fragments mean. Delivery: the morning treatments and movement finding land, the Compact plant advances through Seln's memory, the report threat is named, and Cael chooses unfiled silence before Oryn independently tests the line."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The map finding pays Chapter 10's numbered registry stake, Chapter 9's contrasting maps, and Chapter 8's registry-form contract. The completion report pays the established Pike/ferry machine. The material remains a plant for later suppressed records, not a premature reveal."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The inquiry advances from stamped stake to proof of an unreachable file without pretending to answer where, what, or why; the event thread reaches a movable second-day camp; the relationship thread receives continued, bounded deferral rather than false resolution."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Long worldbuilding passages remain anchored to cold breath, grey skin, hands, a pan, bound wounds, iron against Oryn's head, charcoal, map paper, marker stone, bread, water, lantern oil, and the step over the line. Sensory/mechanical sentences are not outnumbered two to one by exposition."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the first cross-family review of a fresh draft; per-book revision-pass history is outside the manuscript evidence."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The noncombat geography of road, line, stone, stake, ring, camp, and map remains clear."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. The quiet chapter varies clipped findings, medium procedural sentences, and long accumulating catalogues without relying on uniform fragments."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants appear. Dialogue remains distinguishable by clinical arithmetic, professional refusal, written questions, terse labor speech, and Cael's catalogue."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No first blow occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every Chapter 11 wound and exhaustion state recurs at first light and is mended, restricted, bound, or left explicitly open. Side, function, and recovery time remain consistent."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Every assigned major beat—treatment, reserve arithmetic, map-memory demonstration, contract re-read, silence choice, and dawn test—occurs on the page. Only ordinary camp stillness is summarized."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The environment is nevertheless load-bearing in the noncombat set pieces: the stake triggers Seln's memory and supports Oryn's arithmetic; the line and stone generate her repeatable test."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "PASS",
+      "evidence": "No stat advancement occurs. Knowledge and behavioral movement are legible and paid through route reserve, physical stillness, institutional exposure, and trust deferred rather than declared."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No major win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No named rival appears or is assigned motion in this chapter."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The fragment event changes group behavior outside any stat system: five witnesses keep Lira's 'later,' Cael recognizes that restraint without sentimentalizing it, and Oryn separately tests the rule she watched him violate. No rank-bearing scene requires a tier consequence."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. Cael owns and writes the physical log for immediate continuity and self-classification reasons."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional pressure is dramatized through maps with holes, stamped iron, registry diction, a broker-priced contract, Pike's ledger, and a ferry-bound report. Cael does not substitute a speech declaring the Compact unjust."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor deflects injury, reserve debt, institutional threat, or disclosure pressure."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The entire chapter is a scheduled quiet scene. Cael processes through procedure, objects, two log entries, and a deliberate decision not to write Oryn's private test, without jokes or lampshading."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The outward-reading moral stake has not opened. The chapter advances the separate trust/secrecy pressure at its assigned silence checkpoint."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch12-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "missing-required-continuity-object",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch12.md",
+        "line_start": 3,
+        "line_end": 9,
+        "quote": "The light came onto the floor first, as it had the morning before, and he watched it come from the rut.\n\nPositions, catalogued at first grey, because he had been awake the whole of the dark and a count was what he had. Lira on her back on the road where Oryn had left her, the left arm bound across her chest from the shoulder, the right hand flat on the rut beside her, the taped foot turned out; she had not moved in the night. Oryn a stride beyond her, on her side now, the leather roll under her head and her hands tucked into the carter's coat. Karis against the middle box with the notebook shut on her knees, asleep sitting, charcoal still on her fingers and the dark going up both sides of her throat into the collar. Brom on the box with the crossbow across his thighs and the right hand wrapped in Oryn's linen, awake, looking not at the ring but at the scrub. Seln at the stone, standing, with his back to the camp, where he had stood since full dark.\n\nThe mule, hipshot, at the road's edge. The lantern out.\n\nOne dead hound in the rut against the stone, its forefeet across the line and the rest of it inside, the bolt standing out of its chest. The other was on the floor's west lip, two hundred meters back, and nobody was going to go and get that one."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch12-editor-prompt-r1.md",
+        "line_start": 514,
+        "line_end": 514,
+        "quote": "Lira's arm state carried (slung, not used); Karis voiceless (writing to speak); the cache present and unopened."
+      },
+      "consequence": "A full-draft exact search for 'cache' returns zero, and the opening position/possession catalogue accounts for Seln, the middle box, mule, roll, crossbow, notebook, and lantern without placing the locked intelligence cache anywhere. Absence does not prove it was lost, but it fails the packet's explicit requirement to make the carried, unopened object present, leaving the later trap's load-bearing possession without its assigned continuity beat.",
+      "repair_target": "Put the locked cache physically on the page as present and unopened without opening it, describing its contents, advancing its thread, or adding new action.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch12-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "prohibited-off-camp-travel",
+      "gate": "obligations.prohibited_outcomes",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch12.md",
+        "line_start": 123,
+        "line_end": 129,
+        "quote": "Seln came along the line from the north.\n\nHe had been gone since first light — north along the line's outside, where seven hounds had run in the dark — and he came back along it now with his knife put away and his eyes on the ground until the ground brought him to the stake. He stopped. He looked at Oryn against it, and at the flat top of it standing a finger over her hair, and at the number punched under the registry's mark, thirty-one.\n\nCael had never once learned Seln's face, and did not learn it now; but he saw something happen to it. It was not a change. It was the absence of one — the face going still in a way it had not been still a stride before, the stillness of a man at a shelf with his hand halfway to a book he had not remembered owning.\n\n\"Seven went north,\" Seln said, to the stake. \"Along the line. They didn't cross it. There's a place a mile up where they stopped and stood a while, all together, and went on. They've not come back.\" Then, with no change at all in the voice: \"Karis's map. The carter's. Not the sheet.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch12-editor-prompt-r1.md",
+        "line_start": 530,
+        "line_end": 530,
+        "quote": "No travel beyond the camp; no fight; no fragment use (idle texture only)."
+      },
+      "consequence": "Seln leaves the camp after first light, tracks the hounds a mile north, and returns with a new movement report. That is travel beyond the camp under the plain scope of the categorical prohibition, and it adds an unassigned off-camp scouting event to a chapter whose specified shape is the unit lying still at the stone.",
+      "repair_target": "Keep Seln and all chapter action within the camp while preserving the assigned stake-triggered memory, map demonstration, and unopened-cache state; do not add a replacement excursion or new hound finding.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch12-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "required-finding-repeated",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch12.md",
+        "line_start": 221,
+        "line_end": 221,
+        "quote": "*Seln remembered something today, against the stake, and I'm entering it once, as he said it, without a verb. The maps they carry past the Line have holes in them. Blanks, at the spacing of the carter's circles. He drew one from memory over the Fallow Ring and it lay on the carter's to a finger's width. Surveyed, five years ago by the stake, maybe six; the circles paced, the stakes stamped, the maps drawn with holes where the circles are. Not ignorance; ignorance doesn't stamp iron. They know what quiet ground does, and it's filed where we can't reach. Karis wrote WHERE and he said no; he carried the maps and never saw the file. Entered.*"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch12-editor-prompt-r1.md",
+        "line_start": 511,
+        "line_end": 511,
+        "quote": "Seln's memory beat: the Compact maps' blanks; the circle drawn from memory over the Fallow Ring that matches; his lines verbatim ('They surveyed it... Ignorance doesn't stamp iron.'); the finding stated once, flat (the Compact knows what quiet ground does and has filed it somewhere they can't reach); nothing pursued."
+      },
+      "consequence": "After Seln already states the finding flatly at lines 153-161, the second-night log repeats the map blanks, matching circle, survey age, paced circles, stamped stakes, ignorance line, Compact knowledge, inaccessible file, Karis's question, and Seln's limit. The chapter therefore lands the deliberately single plant twice and explains it again after the first scene has already made it clear, weakening the packet's controlled one-statement advance.",
+      "repair_target": "Keep the complete in-scene Seln finding and the required two-night log track, but prevent the second log from restating the Compact finding or pursuing its supporting explanation.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Authority tension, not a manuscript defect: the packet lists Cael's calf among Oryn's morning mendings, but Chapters 6-7 establish that she cannot mend what she cannot read, and Chapter 13 depends on her never having touched his architecture successfully. The draft correctly follows the higher-authority continuity rule and makes the three-mending arithmetic Lira's arm, Karis's throat, and Brom's hand. The packet should eventually be normalized so a later seat does not try to 'repair' the canon-consistent choice.",
+    "Taste only: the second-night log repeats much of the day's injury and institutional accounting after both have been rendered clearly in scene. Finding ed-b7-ch12-003 covers the contractually prohibited Compact-finding echo; beyond that verified issue, a later compression pass could test whether the remaining recap earns its audio length at the top of the target band.",
+    "Taste only: the final paragraph accumulates Oryn's third and fourth tests, her route history, eight crossings, Cael's filing restraint, the returning light, her walk back, and her position beside Lira in one long cadence. The image is strong and comprehensible, but its audio performance will need the internal turns voiced distinctly so the final act of lying beside Lira does not blur the assigned line-test image."
+  ],
+  "strengths": [
+    "Yes: the worldbuilding is done through mechanism and use. Tide healing is a sequence of hands, readings, elapsed light, visible reserve loss, route arithmetic, food, mule care, and untreated patients eleven days north. Compact reach is a punched stake, remembered map blanks, registry diction, broker pricing, Pike's ledger columns, and a ferry copy. The institutions and magic act on bodies, objects, access, and time.",
+    "There is no fight, exactly as prohibited, so a combat win sentence of the form 'X removed Y's ability to Z' is not applicable. The noncombat set pieces are nevertheless memorable and terrain-load-bearing: the survey stake serves as Oryn's physical backrest and the trigger for Seln's professional memory; the carter-map overlap makes the institutional discovery visible; the stone and sharp line make Oryn's four-trial dawn experiment reproducible. The clean mechanism sentence is: the line removes Oryn's ability to read or mend by stopping the current at one stride, and she verifies that removal four times.",
+    "The calf sequence protects reader trust under an internally conflicting work order. Oryn examines the actual wound, performs the fourth failed reading, states the invariant, and binds it instead of silently acquiring an exception. The result preserves both Tide's limitation and Chapter 13's premise while keeping Cael's injury active.",
+    "Oryn's reserve cost is unusually concrete. Karis's swallow changes, Brom keeps four dark finger lines, Oryn's face greys and sweats, she puts her head between her knees, the arm counts as one and the size of two, and the far end of her route lengthens where she cannot see it. Professional competence and independent want occupy the same arithmetic.",
+    "Seln's map demonstration is excellent object-based exposition. Covering the carter's bend with his palm, drawing the dashed road and circle from memory, then revealing a finger-width match turns suppressed institutional knowledge into a physical test rather than a speech. His refusal to invent the missing file preserves his professional voice and the reveal boundary.",
+    "The contract re-read renders institutional antagonism as a machine: insider vocabulary identifies authorship; false recovery pricing selects a crew; Pike records posting, taking, witnessing, and completion; the broker receives the copy; the ferry carries the answer west. The Compact never needs a present villain to exert pressure.",
+    "Found-family movement remains behavioral. Brom breaks Lira's bread without asking; Cael tapes her ankle; nobody forces the fragment conversation; Oryn objects that she is a stop; Cael declines to file her private dawn test. Affection and trust are carried through work, restraint, and ownership rather than declared feeling.",
+    "The closing image pays the packet cleanly. Oryn runs the count in her own raised hands, crosses in and out four times, turns three anecdotes into a finding, and Cael keeps the book shut because the evidence is hers. Chapter 11's dialogue close and Chapter 12's observed image are structurally distinct.",
+    "Production and continuity are otherwise disciplined: 5,247 words is within tolerance; metadata and summary greps are clean; every capped tic remains within limit; attribution survives audio; no modern register or prohibited pitch phrase appears; all names pass the registry ear check; nine fragments plus the anomaly remain exact; and every injury is side-specific and carried forward."
+  ]
+}

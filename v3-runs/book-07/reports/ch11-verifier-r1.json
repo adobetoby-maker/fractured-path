@@ -1,0 +1,26 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch11-verifier-r1",
+  "scene_id": "b7-ch11",
+  "editor_run_id": "b7-ch11-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch11-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch11-r1.md (the sixty-meter turn through the line crossing: Cael's two Wind bursts vs Brom lifting and carrying Karis sixty meters and Oryn moving Lira; the whole unit 'already over' when Cael reaches twenty meters)",
+        "charter \u00a72.1/\u00a74.1 (geography drawable; balance before force); combat gate 2"
+      ],
+      "reason": "The elapsed-time contradiction is real: the burdened group cannot cover sixty meters before a Wind-assisted runner covers forty. Repair belongs to the author seat (choreography): give the pack a reason to follow Cael on a longer line (he draws them on a curve, or doubles back through the ring's west lip, or holds them at the lip for a counted interval) so that the group's sixty meters, Brom's lift, and Oryn moving Lira are causally covered before he crosses; keep every packet-required state."
+    },
+    {
+      "finding_id": "ed-b7-ch11-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "v3-runs/book-07/drafts/ch11-r1.md closing exchange ('Yours.' / 'Later.' / 'Later.') = three one-word paragraphs; VOICE_CHARTER \u00a79 cap 2 per chapter"
+      ],
+      "reason": "Repair: keep every word and the order; attach 'Yours.' to its preceding beat with attribution (e.g. 'A beat, and then, still not looking at him: \"Yours.\"') so the count is two."
+    }
+  ]
+}
