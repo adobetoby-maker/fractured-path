@@ -1,0 +1,315 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch13",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 13 card — The Reader; Chapter 14 card (Dividers, REVISED — no birthday) as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–12' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen; day 291 (the morning after the cut) — the party down again by count (the clerk has looked at them twice; the team knows where they sleep; Seln changes the route); Cleon's week is at its sixth day; Karis 'three days from the thing'. Cash 136. Karis's hand bound; Brom's shoulder; Vastin spent, on the knee, down as a hand regardless.",
+      "ELEVEN fragments now (Iron-Wall-adjacent, Ch12: held; deployment none). The still place untouched. The reading (Tide) is the tenth.",
+      "RUNE (Ch11 stated): structure not meaning; made things only ('it doesn't work on a man'); costs the eyes an hour; useless in a fight. Cael WITNESSED it in Ch11 (the bones read on the Hall's fourth sheet and the board). In Ch13 Cleon runs it again on a carving-copy to show Karis 'instruction, not description' from inside — the demonstration; Cael at close range holding the lamp/the sheet.",
+      "THE COVENANT for non-hostile acquisition (B6 non-hostile / B7 clinical, 'ask first, every time' for READING A PERSON): here the fragment is of a technique on OBJECTS; Cael does not read Cleon; the ethics hold in a lighter form — Cael tells Cleon after, honestly ('honesty is the only strategy that survives'), and the telling is the covenant. Cleon is the first person to receive the news as EVIDENCE, not threat/asset/phenomenon; he stops at the Book 9 sentence ('That's—') and does not say it; he looks at Cael properly once, then deliberately back at the carvings; his warning is the fixed close.",
+      "THE NOTICE (locked irregular prose format, as Ch12's): Rune-adjacent; Cleon; partial; the second non-hostile engagement field ('inscriptive' — the series' term for this book, per the card: non-hostile → clinical → inscriptive); structure of made systems, not meaning; useless on the living; useless in a fight; tier equivalent unknown; deployment none. Its one load-bearing use is Ch22 (turned inward, against the rule) — NOT here; do not turn it on himself; do not turn it on the still place.",
+      "SEALED: no reveal (Ch15); no [UNBOUND] meaning; no Architect; the Book 9 sentence NOT said (Cleon stops); Cleon does not theorize the Fractured Path; nothing about the station.",
+      "The team from the cut: Seln has changed the route; the party goes up and down by the carts' street in daylight now, or another way — state it once; no second reach this chapter.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD."
+    ]
+  },
+  "purpose": "The Chapter 13 acquisition — the series' tradition, honored a sixth time: the Rune-adjacent fragment from Cleon (the twelfth), the second non-combat integration after Tide. Cleon runs his Rune reading on a carving-copy to demonstrate to Karis what 'instruction, not description' looks like from inside the Path; Cael, present as labour at close range, watches a technique on objects — and the integration comes, in the lightest covenant the series has used, because Cleon is a craftsman demonstrating a craft, not a person being read. Cael tells Cleon after, honestly, and Cleon receives it as EVIDENCE: 'You did what,' and then, slowly, 'That's not in the classification system. That's not supposed to be possible. That's—' and stops, because the sentence he almost said is Book 9's. The notice renders in full, locked format, the second non-hostile engagement field; its function and limit on the page before it is load-bearing: structure, not meaning; useless on the living, useless in a fight. Close on the fixed dialogue: Cleon's warning — 'If that fragment ever reads something for you that shouldn't be made and reads it anyway— Don't tell me. Don't tell anyone. Just remember I said it.'",
+  "scene_shape": {
+    "opening_state": "The morning after the cut: the party down by a different route (Seln's), Karis's hand bound, Vastin on the knee refusing to stay above; the chamber; Cleon with the sheets and the text, on the sixth day of his week, saying he will show her the thing from inside because she will need to have seen it to believe what he tells her on the seventh.",
+    "pov_goal": "Cael wants to hold the lamp and watch — and, under that, to know whether the thing he wanted against a post is a thing a man can honestly come to own by standing beside a craftsman for a minute; he finds out.",
+    "opposition": "His own wanting (he does not take by ambush; he has never taken a non-hostile fragment without the person knowing); Cleon's care (a man who knows what happens to things the Compact finds interesting); the Book 9 sentence at the edge of the room.",
+    "turn": "The demonstration — Cleon's Rune run on a carving-copy at close range, the bones read aloud, instruction shown from inside — and the fragment comes to Cael as the nine came and the two this year: learned by a body standing beside a thing long enough. He feels it come and does not use it.",
+    "choice": "He tells Cleon. After, at the table, plainly, in the register the series keeps for these: what he is, what just happened, that the man's craft is in him now in part, and that he will not use it on anything Cleon would not — because honesty is the only strategy that survives, and because a thing a man gave you by working in front of you is a thing you owe him the knowing of.",
+    "outcome": "Cleon receives it as evidence ('You did what'); reaches the Book 9 sentence and stops; looks at the boy once, properly, then deliberately back at the carvings; the notice renders when Cael attends to it; Cleon's warning.",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim and contiguous: Cleon, having heard what Cael is, looking at him properly for the first time — not at the carvings, at the boy — and then deliberately looking back at the carvings: \"I'm going to pretend you didn't tell me that,\" he said, \"for your sake, not mine. But I'll tell you one thing for free, since you can apparently take my whole trade by watching me work it for a minute.\" He set down his glass. \"Everything I read is made. Stone, ink, seal — somebody built it, so I can see how. If that fragment ever reads something for you that shouldn't be made and reads it anyway—\" He stopped. \"Don't tell me. Don't tell anyone. Just remember I said it.\" He went back to the carving. Cael did not tell anyone. He remembered. — the file ends on 'He remembered.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The demonstration at close range with Cael as labour (Continuity Rule 6, citing Ch11's witnessing and this scene): Cleon's Rune run on a carving-copy to show Karis instruction-not-description from inside; the bones read aloud; Cael holding the lamp/the sheet two feet away.",
+      "The integration staged in the lightest covenant: not taken by ambush; the fragment is of a technique on objects; Cael tells Cleon AFTER, honestly, in the series' register for these (as with Oryn in B7 Ch13's telling).",
+      "Cleon's reception as EVIDENCE: 'You did what,' — then slowly — 'That's not in the classification system. That's not supposed to be possible. That's—' and he stops; the sentence NOT said.",
+      "The fragment notice rendered in the locked prose format when he attends to it: Rune-adjacent; Cleon; partial; inscriptive (the second non-hostile field); structure of made systems, not meaning; useless on the living; useless in a fight; tier equivalent unknown; deployment none; Twelfth.",
+      "The limit on the page before anything is load-bearing (restated in Cael's own words or Cleon's): made things only; not a man; not meaning.",
+      "Cael does NOT use it on himself, on the still place, or on anything; he notes the wanting, again, and the rule Cleon has just given him.",
+      "The route changed after the cut (one line); Karis's bound hand; Vastin down regardless.",
+      "Close on the fixed dialogue VERBATIM and contiguous through 'He remembered.'",
+      "READER STANDARD checked."
+    ],
+    "plants": [
+      "The twelfth fragment (Rune) — Ch22's inward use against the rule; Cleon's warning is the plant for it.",
+      "'That's—' — the Book 9 sentence, unsaid.",
+      "Cleon 'a man who has learned what happens to things the Compact finds interesting' — Book 9's Compact fracture."
+    ],
+    "payoffs": [
+      "Ch7's 'I need an instrument for what doesn't move' — the instrument owned, and its rule ('made things only') owned with it.",
+      "Ch11's 'It doesn't work on a man' — carried into the notice."
+    ],
+    "prohibited_outcomes": [
+      "No reveal; no [UNBOUND]; no Architect; the Book 9 sentence not completed by anyone.",
+      "No Rune use on Cael or the still place; no reading of Cleon (Tide) — ask first, every time, and nobody asks.",
+      "No fight; no reach; no station.",
+      "No log closer (Ch12's); the closer is the fixed dialogue.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The new route to the archive; Cleon's demonstration on a chosen sheet (which floor; which run); his glass (the card gives him one — water or wine? the reader standard: water, or 'the cup'); Karis's reaction to seeing instruction from inside.",
+      "The notice's wording in the locked register."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any Rune mechanic beyond the reference and Ch11."
+    ],
+    "forbidden": [
+      "Any meaning read from the carvings; any Fractured Path theory from Cleon beyond the stopped sentence."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 12 (No Authority)",
+      "path": "v3-runs/book-08/drafts/ch12.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 11 (The Marks) — Rune's civil face and limit stated; Cael witnessing",
+      "path": "v3-runs/book-08/drafts/ch11.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 13 — the Tide acquisition: the covenant, the telling, the notice's format",
+      "path": "books/book-07-void-roads/chapters/chapter-13.md",
+      "required": true
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 14 card — Dividers (REVISED: no birthday; Hesk's dividers; the station's tripwire) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "CH13-001",
+      "severity": "BLOCKER",
+      "gate": "Craft Core — reader-trust invariant 2 (causal legibility); charter §10 (scene, not report)",
+      "evidence": "Vastin was on the landing when Cael came up to it with the lamp, after ... they went up the stair together ... and they went up. [93] Cael took the log out, before he went up the last flight ... [101] Cleon had a cup on the table. ... [107] He put the log in the satchel, and the satchel on his shoulder, and picked up the box ... [109] He carried the box up the stair behind the man's lamp",
+      "consequence": "The chapter's last three sections run out of sequence. Cael leaves the chamber, climbs the stair with Vastin to the last flight, renders the notice and CLOSES the log (l.97) — and the chapter then returns him to Cleon's table for the warning (ll.101-105), after which he puts the already-closed log back in the satchel (l.107) and climbs the same stair a second time (l.109). Two ascents, one descent; the log closed on the stair and pocketed in the chamber. A reader cannot place the fixed close in time, which is exactly the beat the chapter exists to land.",
+      "repair_target": "Restructure the tail: move the Cleon cup/warning section (ll.101-105) to sit immediately after l.87 (Cleon's looking-away) and before the Vastin/landing section (l.91), so the order is chamber → warning → stair → notice → close; or re-site the notice and the Vastin exchange after the warning. Lines 91-109."
+    },
+    {
+      "id": "CH13-002",
+      "severity": "HIGH",
+      "gate": "Scene packet obligations.must_include — \"Close on the fixed dialogue VERBATIM and contiguous through 'He remembered.'\"",
+      "evidence": "He went back to the carving.\\n\\nHe put the log in the satchel, and the satchel on his shoulder, and picked up the box, because the bell had gone ...\\n\\nCael did not tell anyone. He carried the box up the stair behind the man's lamp, at the pace the man went, which was slow, and at the top the tiers opened and the light on the crown was where it was and he did not look at it, and he had a twelfth thing and an instruction about it, and the instruction leaned. He remembered.",
+      "consequence": "The fixed close is verbatim but NOT contiguous. A 39-word paragraph is interpolated between 'He went back to the carving.' and 'Cael did not tell anyone.', and a 59-word clause between 'Cael did not tell anyone.' and 'He remembered.' The card's close is built as three short beats falling one after another; split across a paragraph break and a long subordinate run, the landing goes soft and the final two words stop reading as the answer to Cleon's 'Just remember I said it.' The file does end on 'He remembered.'",
+      "repair_target": "Delete or relocate l.107 and the interpolated clause in l.109 so the four fixed sentences run contiguously: 'Just remember I said it.' / 'He went back to the carving.' / 'Cael did not tell anyone. He remembered.' Any box-carrying material belongs before the warning, not inside the close. Lines 105-109."
+    },
+    {
+      "id": "CH13-003",
+      "severity": "HIGH",
+      "gate": "Craft Core — reader-trust invariant 3 (continuity persistence); authority ladder (arc/state over invention)",
+      "evidence": "The eleventh had been a plane held across a cut for him, and he had told the man on a step, in the only currency the man took, which was a ledger.",
+      "consequence": "Chapter 12 closes on Cael deliberately NOT telling Vastin about the eleventh fragment — it is the chapter's last withheld thing and a live open thread. Chapter 13 reports the opposite as settled fact, inside the very paragraph that argues the covenant has never once been broken ('Honesty was the only strategy that had ever survived ... and had not once found it wrong'). The contradiction erases an open debt AND removes the one exception that would give the chapter's covenant argument its tension.",
+      "repair_target": "Line 59 — rewrite the eleventh's entry to say what Ch12 shows: entered, not told; the debt outstanding. The paragraph is stronger with the exception in it (the twelfth is told because the eleventh is not yet)."
+    },
+    {
+      "id": "CH13-004",
+      "severity": "HIGH",
+      "gate": "LitRPG module editor gate 2 (values match the approved state snapshot); charter §5 (the system on the page)",
+      "evidence": "He let it stand, and did not look at the place in himself where the ten went round, and closed the log.",
+      "consequence": "'the ten' is the Book 7 count. Cael enters this chapter with ELEVEN (Ch12's Iron-Wall-adjacent is the eleventh) and leaves with twelve, and the same chapter says so twice (l.7 'eleven things in him now'; l.65 'Eleven pieces, before today'). The narrator whose defining habit is counting mis-counts his own fragments in the log paragraph — the one place the series never rounds.",
+      "repair_target": "Line 97 — 'the ten' to the correct count for the moment (eleven going round the still place, or twelve once the notice has rendered)."
+    },
+    {
+      "id": "CH13-005",
+      "severity": "HIGH",
+      "gate": "Authority ladder — approved state/arc (STATE_RUNNING, DECISIONS row: Ch11 covers the 285th-287th; Ch12 is the 290th); Craft Core invariant 3",
+      "evidence": "and had been told by this man, two days ago, that the instrument did not work on a man",
+      "consequence": "Chapter 13 is the two hundred and ninety-first day (l.3). Cleon states that limit in Ch11, on the day Ch11 dates as 'The two hundred and eighty-sixth day' (ch11.md l.7) and calls 'the third day' down (ch11.md l.9). That is five days back, not two. The 288th and 289th hold no Cleon scene in which it could have been repeated (Ch11 ends on the fourth day down; Ch12 is the 290th and is the ambush). A dated interval is the one thing this narrator is never wrong about, and the sentence it sits in is the chapter's ethical hinge.",
+      "repair_target": "Line 49 — correct the interval to match Ch11's dated day (five days ago / on the third day down), or drop the count and name the occasion."
+    },
+    {
+      "id": "CH13-006",
+      "severity": "MEDIUM",
+      "gate": "THE AUTHOR gate 4 (promise/payoff closure); scene packet next_card discipline ('do not pre-pay')",
+      "evidence": "\"Today I'll show you the inside of it,\" Cleon said, \"because tomorrow I'm going to tell you a thing you'll not believe from the outside, and I want you to have seen how I see before I tell you what I saw.\"",
+      "consequence": "Cleon dates his disclosure to 'tomorrow' — the 292nd, which is Chapter 14, a chapter whose card (packet l.2994) carries no Cleon scene at all; the disclosure the promise points at lands on the 293rd (Ch15, the reveal). Either Ch14 must be re-scoped to pay a promise it was not built for, or the reader watches a named, dated promise pass unhonoured. The line is repeated and hardened at l.33 ('tomorrow you'll need to have seen a thing lean').",
+      "repair_target": "Lines 19 and 33 — loosen the date ('when I've finished the week', 'in a day or two') so the promise can be paid in Ch15 without contradicting Ch14; or refer the question to the planning seat for a Ch14 Cleon beat."
+    },
+    {
+      "id": "CH13-007",
+      "severity": "MEDIUM",
+      "gate": "Charter §8.2 and §8.5 (audio-first); Craft Core invariant 7 (audio survival)",
+      "evidence": "He went back to the carving.\\n\\nHe put the log in the satchel, and the satchel on his shoulder, and picked up the box, because the bell had gone and a hand carries a box up at the bell whatever else he has carried down.",
+      "consequence": "The paragraph before it ends on Cleon as the sole 'He'. The next paragraph opens 'He put the log in the satchel' and means Cael. On the page a reader recovers it a clause later ('picked up the box'); read aloud, a listener has no way back and hears Cleon pocketing Cael's log. Cleon is a Deepstacks scholar who does not carry boxes; the mis-read is available for a full sentence.",
+      "repair_target": "Line 107 — name Cael, or fold the beat into a paragraph whose subject is already Cael. (If CH13-001 is repaired by moving the section, the collision may disappear with it.)"
+    },
+    {
+      "id": "CH13-008",
+      "severity": "MEDIUM",
+      "gate": "Craft Core — reader-trust invariant 3 (continuity persistence)",
+      "evidence": "He picked it up now. He drank. He set it down.",
+      "consequence": "The cup is set down twice, three sentences apart, without being picked up in between: l.101 'He set it down.' and then the fixed line's 'He set down the cup.' at l.103. The author's added preamble spends the very gesture the fixed line then performs, so the card's beat lands as a repeat rather than as the pause before the warning.",
+      "repair_target": "Line 101 — end the preamble on the drink (or on holding the cup), leaving the setting-down to the fixed line at l.103. Do not alter l.103."
+    },
+    {
+      "id": "CH13-009",
+      "severity": "MEDIUM",
+      "gate": "Charter §9 (anti-tic list — any repeated beat phrase >3 is a defect, including new phrases; the simile engine capped at 3 per chapter)",
+      "evidence": "he had worked it out from six days of watching Cael",
+      "consequence": "Counted over the whole draft: 'six days' appears six times (ll.15, 25, 45, 65, and twice at 69) and the 'as a man/woman [verb]' simile engine six times (l.31 'as a man's breath changes'; l.37 'as a man looks at somebody'; l.53 'as a man holds a thing'; l.77 'as a man looks at the thing'; l.87 'as a woman's hand coming off a page'; l.91 'as a man nods who has spent forty years'). The explicitly capped 'the way X [verb]' construction is clean (2 of 4), but the chapter substitutes an identical engine wearing a different coat, four instances of it carrying the same rhetorical move — an abstract ma",
+      "repair_target": "Vary or cut: reduce the 'as a man/woman [verb]' similes to three (keep l.37 and l.87, which do work the others repeat), and reduce 'six days' to two or three uses, letting the others take a different anchor."
+    },
+    {
+      "id": "CH13-010",
+      "severity": "MEDIUM",
+      "gate": "Charter §8 (audio-first shipping requirement); Craft Core invariant 7; Shared Positive Voice — sentence music",
+      "evidence": "Vastin was on the landing when Cael came up to it with the lamp, after, with the case at his feet and the stick, waiting, because a hand who could not carry a case up a stair alone on that knee had learned this week to wait ... and the man said, on the fourth flight, without looking round, \"You told him,\" and Cael said, \"I told him,\" and Vastin said, \"He looked away,\" and Cael said, \"Yes,\" and the man nodded, once, ... and they went up.",
+      "consequence": "One sentence of 155 words carrying a four-turn dialogue exchange with no paragraph break. The house voice earns its long accumulating sentences elsewhere in this chapter (median sentence is 7.5 words, so the contrast is real), but a narrator cannot voice four alternating speakers inside a single unbroken clause chain; aloud the exchange loses its turns and Vastin's two lines — the only place the Vastin thread advances — go by unheard. Companions: l.49 (131 words), l.11 (114), l.15 (109), l.97 (103).",
+      "repair_target": "Line 91 — break the four-turn exchange out of the sentence (a paragraph, or at minimum full stops between the turns); leave the surrounding accumulation intact."
+    },
+    {
+      "id": "CH13-011",
+      "severity": "MEDIUM",
+      "gate": "LitRPG module editor gates 2 and 3 (values match state; display understandable aloud); charter §5.2 (locked format)",
+      "evidence": "*Rune-adjacent. Cleon. Partial. Bronze. ... Tier equivalent unknown. Deployment: none. Twelfth.*",
+      "consequence": "Two problems in one slot. (a) The notice names a tier ('Bronze') in its fourth slot and then says 'Tier equivalent unknown' in the same block; read aloud a listener hears two answers to one question inside eight seconds. (b) The form does not match the notice it is declared to follow: the eleventh's fourth slot on disk reads 'Iron family' (ch12.md l.113) — a Path-family descriptor, not a tier — so the twelfth silently repurposes the slot. The reconciliation ruling makes Ch12's form Book 8's form.",
+      "repair_target": "Line 95 — put a Path-family descriptor in the fourth slot as Ch12 does ('Rune family'), or drop the slot; do not leave a tier word standing beside 'Tier equivalent unknown'."
+    },
+    {
+      "id": "CH13-012",
+      "severity": "LOW",
+      "gate": "Scene packet obligations.must_include — 'inscriptive (the second non-hostile field)'",
+      "evidence": "Engagement field: inscriptive — the third field that is not a fight, after clinical; the second that was given, not taken.",
+      "consequence": "The packet and the card both call inscriptive the SECOND non-hostile engagement field; the notice on the page calls it the third field that is not a fight. Both are arguable depending on whether B6's 'non-hostile' is counted as a field in its own right, but the log is the series' own ledger and a later chapter or the state file will inherit whichever number is written here.",
+      "repair_target": "Line 95 — reconcile with the packet ('the second non-hostile field') or send the count to the planning seat for a ruling before the notice is spliced into STATE_RUNNING."
+    },
+    {
+      "id": "CH13-013",
+      "severity": "LOW",
+      "gate": "Scene packet — fixed close VERBATIM",
+      "evidence": "If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — \" He stopped.",
+      "consequence": "An interrupted line is set with spaces around the dash, so the em dash reads as an aside rather than as speech cut off. Everywhere else in the chapter the cut-off is set the same loose way (l.79 'That's — '), so it is a house setting rather than a slip — but against a fixed line it is a deviation, and the two other fixed sentences are exact. Verified by exact string comparison: every other fixed sentence matches character for character; 'He set down his glass.' -> 'He set down the cup.' is covered by the packet's invention_budget (water/the cup, reader standard).",
+      "repair_target": "Line 103 — close the spacing on the two interruption dashes to match the card, or record the house setting as an accepted variance."
+    },
+    {
+      "id": "CH13-014",
+      "severity": "LOW",
+      "gate": "Scene packet closing_state (the look-away is the fixed close's staging)",
+      "evidence": "[87] Then, deliberately — Cael saw the deliberateness; it was the same as a woman's hand coming off a page — he looked back at the carvings.  ... [105] He went back to the carving.",
+      "consequence": "The packet gives the look-back once, as the close's own gesture. The draft spends it at l.87, glosses it at l.97 ('the looking-away was the covenant's other half'), then performs it again at l.105 as the fixed line. By the third time the gesture has been explained to the reader twice and can no longer carry the ending.",
+      "repair_target": "Lines 85-87 — let Cleon stop at 'I am going to be very careful indeed' without the look-back, so the fixed 'He went back to the carving.' is the first and only time he does it."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "EXC-B8-CH13-1",
+      "approver": "Planning rulings rows 16–21 (no mule; Cleon's tier by exception; Vastin's rounding; the chapter clock: Ch11 285th–287th, Ch12 290th, Ch13 291st).",
+      "scope": "Planning rulings rows 16–21 (no mule; Cleon's tier by exception; Vastin's rounding; the chapter clock: Ch11 285th–287th, Ch12 290th, Ch13 291st).",
+      "authority": "Planning rulings rows 16–21 (no mule; Cleon's tier by exception; Vastin's rounding; the chapter clock: Ch11 285th–287th, Ch12 290th, Ch13 291st).",
+      "reason": "Planning rulings rows 16–21 (no mule; Cleon's tier by exception; Vastin's rounding; the chapter clock: Ch11 285th–287th, Ch12 290th, Ch13 291st)."
+    },
+    {
+      "id": "EXC-B8-CH13-2",
+      "approver": "CLOSE ORDER (planning-approved variance): 'Just remember I said it.' / 'He went back to the carving.' run contiguous; the stair with Vastin, the acquisition notice and the log's close are staged AFTER the carving line and BEFORE the final fixed sentence 'Cael did not tell anyone. He remembered.', which ends the file. The notice must render after the warning; the file must end on the fixed sentence.",
+      "scope": "CLOSE ORDER (planning-approved variance): 'Just remember I said it.' / 'He went back to the carving.' run contiguous; the stair with Vastin, the acquisition notice and the log's close are staged AFTER the carving line and BEFORE the final fixed sentence 'Cael did not tell anyone. He remembered.', which ends the file. The notice must render after the warning; the file must end on the fixed sentence.",
+      "authority": "CLOSE ORDER (planning-approved variance): 'Just remember I said it.' / 'He went back to the carving.' run contiguous; the stair with Vastin, the acquisition notice and the log's close are staged AFTER the carving line and BEFORE the final fixed sentence 'Cael did not tell anyone. He remembered.', which ends the file. The notice must render after the warning; the file must end on the fixed sentence.",
+      "reason": "CLOSE ORDER (planning-approved variance): 'Just remember I said it.' / 'He went back to the carving.' run contiguous; the stair with Vastin, the acquisition notice and the log's close are staged AFTER the carving line and BEFORE the final fixed sentence 'Cael did not tell anyone. He remembered.', which ends the file. The notice must render after the warning; the file must end on the fixed sentence."
+    },
+    {
+      "id": "EXC-B8-CH13-3",
+      "approver": "'He set down the cup' for the card's 'glass' (packet invention budget); the interruption dash spacing is the house setting ('— \"').",
+      "scope": "'He set down the cup' for the card's 'glass' (packet invention budget); the interruption dash spacing is the house setting ('— \"').",
+      "authority": "'He set down the cup' for the card's 'glass' (packet invention budget); the interruption dash spacing is the house setting ('— \"').",
+      "reason": "'He set down the cup' for the card's 'glass' (packet invention budget); the interruption dash spacing is the house setting ('— \"')."
+    },
+    {
+      "id": "EXC-B8-CH13-4",
+      "approver": "Notice fourth slot 'Rune family' (as Ch12's 'Iron family'); engagement-field count 'the second field that is not a fight' per the packet.",
+      "scope": "Notice fourth slot 'Rune family' (as Ch12's 'Iron family'); engagement-field count 'the second field that is not a fight' per the packet.",
+      "authority": "Notice fourth slot 'Rune family' (as Ch12's 'Iron family'); engagement-field count 'the second field that is not a fight' per the packet.",
+      "reason": "Notice fourth slot 'Rune family' (as Ch12's 'Iron family'); engagement-field count 'the second field that is not a fight' per the packet."
+    }
+  ],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch13.md",
+    "report_path": "v3-runs/book-08/reports/ch13-author-r2.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch13-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch13-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
