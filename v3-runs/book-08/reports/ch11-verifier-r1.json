@@ -1,0 +1,108 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch11-verifier-r1",
+  "scene_id": "b8-ch11",
+  "editor_run_id": "b8-ch11-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-001: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-002: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-003: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-004: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-005: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-006: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-007: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-008",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-008: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-009",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-009: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-010",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-010: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-011",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-011: verified; repaired in r2 — see author r2 deviations."
+    }
+  ]
+}
