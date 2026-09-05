@@ -1,0 +1,294 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch14-r2-editor",
+  "scene_id": "b8-ch14",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "RECHECK — F-CH14-001 (capped phrase 'for the length of a breath', cap 0)",
+      "state": "PASS",
+      "evidence": "CLOSED. grep -in 'length of a breath|length of the breath|for the length of' ch14.md returns zero. All four sites now carry distinct measures: [91] 'it was not steady. For a count of one.'; [95] 'had felt a light four tiers up do a thing, once, briefly, because it had not done it for them'; [97] 'a light on a hill that was not steady for the space of a step, once, for him'; [101] 'he had wanted, in that count of one, to go up the stair and find out'. §9's replacement-tic rule also holds: the most-reused replacement is 'count of one' at 2 (91, 101), under the ≤3 cap, and its second use is a deliberate anchor back to the instant rather than a refrain. Line 105's pre-existing 'had cost him one breath at a stair's foot' is untouched from r1 and is not the capped construction."
+    },
+    {
+      "gate": "RECHECK — F-CH14-002 (parcel interval; continuity persistence; EXC-B8-CH14-2)",
+      "state": "PASS",
+      "evidence": "CLOSED and matches the ruling. [25] 'in two parcels a winter apart, the two halves of a single competence'; [53] 'who had sent the second half of a thing a winter after the first'. Verified against B7 Ch24's log ('Hundred and twenty-ninth day. Lowmarch, the lower inn, by the fire. First snow.') and STATE_RUNNING After Ch1 ('Lowmarch, winter's end (the 131st–270th)'): the straightedge landed at first snow, the dividers at the 292nd, and the Lowmarch winter lies between them. 163 days, one winter — 'a winter apart' is both the ruled wording and the literally true one."
+    },
+    {
+      "gate": "RECHECK — F-CH14-003 ('eight days inside'; planning ruling row 22 / EXC-B8-CH14-1)",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "Not repaired, and correctly not repaired. Ruling row 22: \"'inside' = inside the tiers, counted from the 284th (the first day up under Cleon's pass) to the 292nd = eight days. Arrival at the outer district was the 282nd.\" The three sites stand as drafted — [79] 'Eight days inside and I've not been within four tiers of either.'; [87] 'had kept the discipline through a bridge and a gate and eight days and a cut'; [105] 'it had been the other way round for eight days'. Line 87's ordering (bridge 282nd, gate 283rd–284th, then eight days) is consistent with the ruling rather than merely tolerated by it."
+    },
+    {
+      "gate": "RECHECK — F-CH14-004 (the reveal's distance; knowledge_boundary)",
+      "state": "PASS",
+      "evidence": "CLOSED. [9] 'because a woman a day from the thing she had hunted her whole life was not a woman you went to see about.' This is the 292nd; Karis reads the leaf on the 293rd (STATE_RUNNING, Ch15). 'A day from' is exact, and the sentence keeps its original function — the crew's decision not to check on her is still the characterization."
+    },
+    {
+      "gate": "RECHECK — F-CH14-005 (no theory of the light; invention_budget approval_required)",
+      "state": "PASS",
+      "evidence": "CLOSED. [91] now ends 'a pressure, small, the pressure of a thing turning. An instrument turning toward him.' The purpose clause 'the thing it was for' is gone; the packet's sanctioned image survives intact and Ch16's title is no longer pre-paid. Nothing else in the beat asserts cause: [95] 'he did not have anything else to make it into and was not going to invent one'; [97] files it 'under the unreadability that had followed him across a continent'."
+    },
+    {
+      "gate": "RECHECK — F-CH14-006 (repeated joke scaffold)",
+      "state": "PASS",
+      "evidence": "CLOSED against its own repair target, which offered 'price her in a unit that is not a writing unit'. [43] 'and it was, from Lira, a great deal' replaces 'a paragraph'; [33]'s 'and was, from Brom, an essay' is kept as instructed. The prose-unit gag is now a single instance, as it is in B7 Ch24 ('which was, from Karis, a whole sentence'). Residual sentence-shape echo raised as a concern, not a finding."
+    },
+    {
+      "gate": "RECHECK — F-CH14-007 (Vastin's line pre-empted by the narrator)",
+      "state": "PASS",
+      "evidence": "CLOSED, and repaired exactly as targeted. [51] 'ate the inn's mutton with the good manners of a man who had been served all his life and had never once been fed'; [63] '\"I have sat at a great many tables. I have never sat at one where the people who were not at it were counted.\"' The tables are now first heard from the man himself, and the narrated version ('served … never once been fed') says a different thing about him, so the two lines now compound instead of duplicating."
+    },
+    {
+      "gate": "RECHECK — F-CH14-008 (the closer explains itself; craft core endings)",
+      "state": "PASS",
+      "evidence": "CLOSED. [113] 'The light behind him, and the count in his head the whole way down, and he counted, and did not hurry, and the stair took him under.' The because-clause is cut; the file still ends on the image's last line, which is what the obligation permits."
+    },
+    {
+      "gate": "RECHECK — F-CH14-009 (binding cadence off-cycle)",
+      "state": "PASS",
+      "evidence": "CLOSED. [73] 'the shoulder carried, bound fresh two days back' — the 289th, on Oryn's four-day cadence from the 281st (285th, 289th, 293rd), and off the 291st, which is the day Karis's own hand was cut and bound."
+    },
+    {
+      "gate": "REPAIR DISCIPLINE — no unrelated passage rewritten (craft core, revision discipline)",
+      "state": "PASS",
+      "evidence": "git diff 54b239f..de726f4 on v3-runs/book-08/drafts/ch14.md shows eleven changed lines and nothing else: the nine repair targets, plus one addition at line 21 written against the r1 word-count concern. No paragraph outside the finding set was re-cadenced, re-imaged or trimmed."
+    },
+    {
+      "gate": "STRENGTHS PRESERVED (role contract — 'preserve strengths so a repair pass does not sand them away')",
+      "state": "PASS",
+      "evidence": "All eight r1 strengths survive verbatim or improved. The deniable plant (89–97) is intact and one degree cleaner after F-005. The promise's first cost (101) survives with the phrase swapped only. Seln's ledger (47) and the family's register (41–53) are untouched. The log's B7 Ch24 form (73–79) is untouched. Karis's absence-as-respect (9) survives the interval fix. The tool-taught-first sequence (21–27) is strengthened, not sanded — see strengths."
+    },
+    {
+      "gate": "READER STANDARD (Gate 27 — thirteen-year-old; outranks taste)",
+      "state": "PASS",
+      "evidence": "Banned-word grep over the full draft (damn|hell|bastard|bloody|crap|god|christ|curse|arse|piss|bugger and cognates) returns zero. No violence in the chapter at all; no gore; no sexual content or innuendo; the celebratory drink is 'water from the ring road's well' [41]. The one dangerous object is warned about plainly and without relish — 'mind the points; they'll go through a thumb as easy as a sheet' [31]. Moral content is carried by conduct rather than statement: a seat kept for the absent [43], a promise held when it costs [101], an outsider fed and not told he is being included [51]. The r2 repairs introduce no new language that touches this gate."
+    },
+    {
+      "gate": "TIC CAP — capped phrase 'for the length of a breath' (cap 0)",
+      "state": "PASS",
+      "evidence": "0 occurrences. Also 0 for 'length of the breath'."
+    },
+    {
+      "gate": "TIC CAP — §9 replacement-tic rule (a fresh repeated phrase is the same defect)",
+      "state": "PASS",
+      "evidence": "'a count of one' 2 (91, 101); 'the space of a step' 1 (97); 'once, briefly' 1 (95); 'one breath' 1 (105, pre-existing). Maximum 2, cap 3."
+    },
+    {
+      "gate": "TIC CAP — one-word paragraphs (cap 2)",
+      "state": "PASS",
+      "evidence": "1 — 'Dividers.' at line 19."
+    },
+    {
+      "gate": "TIC CAP — 'the way X [verb]' (cap 4)",
+      "state": "PASS",
+      "evidence": "3 — 'the way the crew marked things' [37], 'the way he did everything' [47], 'in the way the cord had been wrong in his hands' [91]. No two are the identical construction, which is what §9 actually caps."
+    },
+    {
+      "gate": "TIC CAP — 'upside down' (cap 0)",
+      "state": "PASS",
+      "evidence": "0. The packet's own trap at [33] is answered on the page: 'He read it twice. Not the wrong way round; the right way up, as it came.'"
+    },
+    {
+      "gate": "TIC CAP — 'at the pitch' (cap 0)",
+      "state": "PASS",
+      "evidence": "0."
+    },
+    {
+      "gate": "FORBIDDEN NAMES — Halcenvane / Velmere / Wray / Bracken",
+      "state": "PASS",
+      "evidence": "0 for all four (case-insensitive grep over the draft)."
+    },
+    {
+      "gate": "'four hundred years' — 0 outside a record's date",
+      "state": "PASS",
+      "evidence": "0 occurrences of 'four hundred'. The station's age is given as 'what it had been for longer than the walls' [99], which the author report records as the deliberate substitution."
+    },
+    {
+      "gate": "WORD BAND 3,910–5,290 (target 4,600 ±15%)",
+      "state": "PASS",
+      "evidence": "3,982 words (run diagnostics; wc -w agrees). Up 33 from r1's 3,949 — the r2 pass added before it cut, as recommended. Still near the floor; carried as a concern, not a finding."
+    },
+    {
+      "gate": "META-VOICE / authoring metadata (§8.4)",
+      "state": "PASS",
+      "evidence": "No chapter-number references, no word counts, no authorial asides, no scene labels in the prose."
+    },
+    {
+      "gate": "AUDIO SURVIVAL (§8.2, §8.3)",
+      "state": "PASS",
+      "evidence": "Italics carry only diegetic documents (the log at 73–79; Hesk's note at 31; the address at 7) and two thought-emphases ('*a second edge*' [21], '*wrong*' [91]); every one reads aloud as speech or as a read-out document. No meaning depends on typography. Invented nouns — Denvash, Treswick, the Deepstacks, dividers, straightedge — are all pronounceable and are introduced with their function attached."
+    },
+    {
+      "gate": "OBLIGATION — Hesk's letter and the DIVIDERS on the courier chain; only the dividers new; the straightedge companioned",
+      "state": "PASS",
+      "evidence": "The runner and the copper at the street door [3]; the courier chain named end to end [7]; the one-pull knot [7, 15]; the note in the dry hand [31]; the pairing stated once, now correctly dated [25]; the two brass things in one pocket [33, 111]."
+    },
+    {
+      "gate": "OBLIGATION — the family's register: a meal priced, a ledger closed, a seat kept; no declared sentiment; Vastin at the table",
+      "state": "PASS",
+      "evidence": "Brom's 'Four, for five, and the empty chair gets nothing because it doesn't eat' [41]; Lira's two cups at two empty places [43]; Seln's slip read out and burned — 'Closed' [47]; Vastin eating and not asking [51]; and the thesis stated once, flatly, after the evidence: 'Nobody said what the meal was for' [53]."
+    },
+    {
+      "gate": "OBLIGATION — Karis below with Cleon on his seventh day; absence as characterization",
+      "state": "PASS",
+      "evidence": "[9] 'Today he tells me' at the yard door, the bound hand, the flat under the other arm, 'had not come up at noon, and nobody had gone to see why'. She does not come up, and no word of what she has found reaches the page."
+    },
+    {
+      "gate": "OBLIGATION — the log's first entry written INSIDE WALLS; the inventory's form kept (twelve; the still place; the cash; the promise)",
+      "state": "PASS",
+      "evidence": "[71] 'He had never written one inside a wall … the first entry in the plain hand that had ever been made in a city'. The form is B7 Ch24's: day, place, count, money, bodies, things, the earned line [73–79]. Twelve fragments listed and counted [75]; 'The still place at the middle of them, not read, not touched'; 'A hundred and thirty in hand; the week paid to the day; nothing owed' [73], matching the packet's 136-minus-the-week and STATE_RUNNING's Ch14 row."
+    },
+    {
+      "gate": "OBLIGATION — Book-11 plant 3, third instance: deniable, felt not seen, nobody else, logged with the still place / the cord / the row",
+      "state": "PASS",
+      "evidence": "[91] 'a flicker that was not a flicker, because a flicker is a thing you see, and this was a thing he felt'; [95] 'Nobody, on a street with forty people on it, had felt a light four tiers up do a thing'; [97] the page with three entries and a fourth added — 'a still place a reading could not read; a cord that counted forty-one and a piece; a row of sheets that came out one short in his hands' — 'Deniable. Every one of the four was deniable.'; [99] he waits for a second occurrence before entering it as a pattern. Escalation kit → row → light is legible without being announced."
+    },
+    {
+      "gate": "OBLIGATION — the promise kept explicitly (not the steps, not the square; four tiers below)",
+      "state": "PASS",
+      "evidence": "[79] 'The promise stands. Not the steps. Not the square.'; [87] 'he stood at the stair's foot four tiers below the crown'; [97] 'and did not cross'; [101] 'He did not cross'; [105] 'Four tiers.' The square and the steps are named only as the places he is not."
+    },
+    {
+      "gate": "OBLIGATION — Cael NINETEEN; no birthday; no 'twenty'",
+      "state": "PASS",
+      "evidence": "[53] 'he was nineteen, and had been nineteen since a steading in the autumn, and the autumn was a long way off and would not find him here'; [109] 'Cael, nineteen'. 'birthday' 0; 'twenty' 0 as an age (only 'twenty-seven days' [13, 73])."
+    },
+    {
+      "gate": "OBLIGATION — close on the IMAGE; no log closer, no dialogue closer",
+      "state": "PASS",
+      "evidence": "The file's last three paragraphs [109–113] are the card's image: the ring road, the four tiers, the light, Cael turned toward the way down, the brass in his coat, and [113] 'The light behind him … and the stair took him under.' No log block and no spoken line after line 67."
+    },
+    {
+      "gate": "SCENE-CLOSER RULE (§9 — no two consecutive chapters end on the same structural move)",
+      "state": "PASS",
+      "evidence": "ch13.md closes on a two-sentence narrated withholding ('Cael did not tell anyone. He remembered.'); ch14 closes on an observed-from-distance image [109–113]. Different moves. The r1 concern that Ch13's closer type is ambiguous under §9's three named categories is carried forward for the planning seat — rulings 16–22 do not address it."
+    },
+    {
+      "gate": "PROHIBITED — no reveal, no Architect, no [UNBOUND], no Karis report",
+      "state": "PASS",
+      "evidence": "grep for 'architect|UNBOUND|quieting' returns zero. Karis is below for the whole chapter and says nothing on the page after 'Today he tells me' [9]."
+    },
+    {
+      "gate": "PROHIBITED — no crossing toward the station; no square; no steps",
+      "state": "PASS",
+      "evidence": "He stands at the first-tier gate at the district's edge [85, 87], four tiers below, and turns back along the ring road [105]. The station is only ever seen up the bluff, never approached."
+    },
+    {
+      "gate": "PROHIBITED — no theory of the light; invention budget (any statement of the light's cause requires approval)",
+      "state": "PASS",
+      "evidence": "Repaired at [91]; see the F-CH14-005 recheck row. The remaining causal-sounding phrase — 'the machine that made that light' [111] — is the packet's own closing_state wording and describes the station, not the light's behaviour toward Cael."
+    },
+    {
+      "gate": "PROHIBITED — no Rune or Tide turned on himself; the still place untouched",
+      "state": "PASS",
+      "evidence": "[75] 'The still place at the middle of them, not read, not touched, not the Quiet, not a fragment.' No fragment is used anywhere in the chapter; the twelve are inventoried, not deployed."
+    },
+    {
+      "gate": "CONTINUITY PERSISTENCE — timeline and elapsed intervals",
+      "state": "PASS",
+      "evidence": "All three r1 timeline defects resolved: the parcel interval is 'a winter' [25, 53] and verifiably so (129th → 292nd across the Lowmarch winter); the reveal is 'a day' out [9], matching Ch15 on the 293rd; the binding is 'two days back' [73], on Oryn's cadence. The 'eight days inside' count is carried under EXC-B8-CH14-1, recorded separately above."
+    },
+    {
+      "gate": "CONTINUITY PERSISTENCE — injuries, possessions, counts, money",
+      "state": "PASS",
+      "evidence": "Brom's foot and carried shoulder, Lira at twenty-seven days, Vastin's knee 'a month running', Karis's bound hand — all present and consistent with STATE_RUNNING Ch11–Ch13 [13, 51, 73]. Cash 136 → 130 for the week's inn matches the packet and the running ledger. Twelve fragments, correctly enumerated [75]. The mule on the page is Treswick's carter's [95, 99], per planning ruling 16; the crew's chair is 'a chair nobody sat in' [11], also per ruling 16."
+    },
+    {
+      "gate": "CONTINUITY PERSISTENCE — physical detail of the new object (the dividers' hinge)",
+      "state": "FAIL",
+      "evidence": "The sentence added at line 21 in this repair pass contradicts the object description it is appended to and the paragraph that follows it: the pin 'turned without a sound' [21] and the arms go apart 'without a sound, as a thing goes that has been made by a man who does not tolerate sound in a hinge' [23], but between them 'the pin made the small sound a pin makes that has been fitted by a man who fits pins for a living' [21]. See F-CH14-R2-001."
+    },
+    {
+      "gate": "POINT-OF-VIEW INTEGRITY",
+      "state": "PASS",
+      "evidence": "Everything is Cael's attention or Cael's inference, and inference is marked as inference: 'He was, Cael thought, very slightly less bad at being nobody' [51]; 'in two parcels a winter apart' is his own reading of Hesk's intent [25]; the light beat is explicitly what he did not see and did feel [91]. Karis's day below is reported only as what the crew can observe from the yard door."
+    },
+    {
+      "gate": "CONSEQUENTIAL SCENE (craft core invariant 5 — quietness is not stasis)",
+      "state": "PASS",
+      "evidence": "Four states change: capability/knowledge (a maker's second tool acquired and learned to use — 'not the measuring; the *carrying*' [27]); relationship (Vastin moved from tolerated to seated — 'the not-being-told was the invitation' [51], and his own line at [63]); obligation (the promise charged for the first time [101]); danger (plant 3's third and largest instance [91])."
+    },
+    {
+      "gate": "PROGRESSION MODULE — editor gates 1–7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement in the measuring system occurs: the fragment count is twelve at entry and twelve at exit [75], no tier, rank or permission changes, and no challenge is faced. Gates 1, 2, 4, 5 and 6 have no object in this chapter. The human track is served (a competence acquired and taught before it means anything; a value charged), which is why the module is inapplicable rather than failed."
+    },
+    {
+      "gate": "SCENE VS SUMMARY (§10) — no architecture-major beat summarized",
+      "state": "PASS",
+      "evidence": "grep for 'heard about it later|learned afterward|was told later|found out later' returns zero. The card's four major beats — the parcel, the marking, the log, the light — are all on the page in real time with geography."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-CH14-R2-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity — physical detail introduced by the repair pass",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); shared positive voice — figurative language / description as selection",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 21,
+        "line_end": 21,
+        "quote": "Two arms, the length of a hand, hinged at the top on a pin that turned without a sound … He opened them and closed them twice, and the pin made the small sound a pin makes that has been fitted by a man who fits pins for a living, and he put the points together and there was no light between them"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "He opened it. The arms went apart without a sound, as a thing goes that has been made by a man who does not tolerate sound in a hinge, and stopped where the wheel held them"
+      },
+      "consequence": "The sentence added by the r2 pass says the pin makes a sound; the clause ninety words earlier in the same paragraph says the pin turns without one, and the next paragraph makes soundlessness the maker's signature — 'a man who does not tolerate sound in a hinge'. Three assertions about one hinge in twelve lines, two of them absolute and one of them opposite. The charitable reading (that 'the small sound a pin makes' names a near-silent, characteristic click) is available, but it has to be supplied by the reader against two flat 'without a sound' statements, and it is supplied at exactly the wrong moment: this is the paragraph where the chapter establishes that Hesk's work is exact and that Cael's way of loving a thing is to check it. A narrator whose whole characterization is that he counts correctly cannot describe the same pin twice, incompatibly, inside one breath of prose. The added sentence is otherwise a good beat and pays off B7 Ch24's 'no light under the line' — the defect is one clause inside it, not the beat. Secondary: the clause also puts a third 'small sound' into a chapter that already ends on one ('brass against brass, making their small sound', line 111) and uses it at line 33, which is the phrase's third appearance in 3,982 words.",
+      "repair_target": "Line 21, the added sentence only. Cut or replace the pin-sound clause and keep everything else in it: the two opens, the points put together, 'there was no light between them', and 'an instrument that closes true is the first thing you check and the only thing you cannot fix.' The check can be carried by what he sees or feels rather than hears — the pin's evenness under the thumb, the arms coming back to the same width — which also preserves line 23's soundlessness as the maker's signature and removes the third 'small sound' at no cost.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH14-R2-002",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "line-level — sequencing and pronoun agreement introduced by the repair pass",
+      "gate": "Shared positive voice — sentence music; craft core, revision discipline (a repair should not create new friction)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 21,
+        "line_end": 21,
+        "quote": "He opened them and closed them twice, and the pin made the small sound"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "He opened it. The arms went apart without a sound"
+      },
+      "consequence": "Before the repair, line 21 ended on 'a boy who watched' and line 23's 'He opened it' was the first time the tool was opened — a clean turn from watching to holding, and the paragraph break carried it. The insertion now opens the dividers at the end of line 21 and opens them again at the start of line 23, and switches the object's pronoun from plural to singular across the break ('opened them and closed them twice' → 'He opened it'). The reader is briefly unsure whether line 23 is a second, slower opening or a restatement of the first, and the emphasis that 'He opened it' used to carry — first contact — is spent one sentence early. This is small and local, but it sits in the chapter's best sequence and it did not exist in r1.",
+      "repair_target": "Line 21's added sentence and line 23's opening. Either move the check after line 23's slow opening (so the order is: he opens it, the arms go apart, then he closes them on themselves and finds no light between the points), or drop 'He opened them and closed them twice' from line 21 and let 'and he put the points together and there was no light between them' be the check, which needs no opening to precede it.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "CARRIED FORWARD — WORD COUNT STILL NEAR THE FLOOR. 3,982 words, up 33 from r1 and 72 above the 3,910 floor, but 13.4% under the ~4,600 target. The r2 pass correctly added before it cut (the check at line 21) and the chapter earns its quiet, but there is no headroom left: if F-CH14-R2-001 and R2-002 are taken subtractively the draft loses ground again. Lira's seat-keeping at line 43 remains the thinnest of the four register-beats and is still the one the chapter most wants more of.",
+    "RESIDUAL FROM F-CH14-006 — THE SENTENCE SHAPE SURVIVED THE JOKE. 'which was the whole of Brom's opinion of Hesk and was, from Brom, an essay' [33] and 'that was the whole of what Lira had to say about who was not at the table, and it was, from Lira, a great deal' [43] still run the identical scaffold ten lines apart; only the unit changed. The finding is closed because the repair target explicitly sanctioned re-pricing her in a non-writing unit, and 'a great deal' does break the prose-unit gag. But the template is still audible, and if a later pass wants one more improvement in this chapter, this is the cheapest one: let Lira's two cups stand without any measuring clause at all.",
+    "THE DURATION IMAGES ARE NOW FOUR DIFFERENT ONES RATHER THAN ONE REPEATED. 'For a count of one' [91], 'once, briefly' [95], 'for the space of a step' [97], 'in that count of one' [101], and the pre-existing 'one breath' [105]. No cap is breached and the variation is the correct fix, but the beat is still measured five times in fifteen lines, and 'briefly' [95] is the one abstract measure among them in a voice that otherwise always names a unit. If anything is trimmed here, trim that adverb rather than any of the counted ones.",
+    "TWO SENSES OF 'INSIDE' SIX LINES APART IN ONE LOG ENTRY. The log opens 'Inside walls.' [73] — the writing custom's novelty, true from the 282nd — and closes 'Eight days inside' [79], which under planning ruling 22 means inside the tiers and counts from the 284th. Both are correct and the ruling governs, so this is not a finding. But they are the same word in one short diegetic document, in the series' most precision-minded register, and a reader who does the arithmetic on the first will get eleven and not eight. One word on line 79 ('Eight days up the tiers' / 'Eight days under a pass') would make the ruling legible on the page instead of only in the decisions file. For the planning seat, since ruling 22 also governs Ch15's 'watched him for eight days'.",
+    "STATE LEDGER STILL CARRIES THE PRE-REPAIR PHRASING. STATE_RUNNING's 'After Chapters 13–16' row records Ch14's plant as \"the station's light 'not steady' for a breath\". The draft no longer says that. Worth correcting when Ch14 is spliced so a later seat does not audit Ch15 or Ch22 against a phrase the chapter has stopped using.",
+    "AUTHOR REPORT DRIFT PERSISTS INTO r2 (report, not draft). ch14-author-r2.json still quotes the repaired-away text as its own obligation evidence — \"'it was not steady. For the length of a breath …'\" — still lists 'the district's beer' among the chapter's inventions when the draft serves 'water from the ring road's well' [41], and still records the closer as \"the file ends on 'The light behind him.'\" with evidence 'Final line.' when line 113 continues past that phrase. The deviations array is accurate; the obligations and inventions arrays are stale in the same three places flagged at r1. The draft is right in all three; the report should be corrected so a later seat does not audit against it.",
+    "CARRIED FORWARD — 'The note was three lines.' [29] introduces a note of five sentences and about fifty-seven words [31]. Unchanged from r1. Three physical lines is a stretch at nineteen words a line; widening the count or shortening the note's first two sentences would close it, and the note's last two sentences are the ones the chapter actually uses.",
+    "CARRIED FORWARD — THE MEAL'S FOUR MARKS ARE STILL NOT NETTED ON THE PAGE. Brom lays four marks down [41]; Seln reads 'a hundred and thirty in hand and nothing owed' at the same meal [47]; the log repeats 130 that afternoon [73]. 130 is what the packet instructed and what the running ledger holds, so nothing is contradicted — but a reader who has counted marks since Book 1 watches four leave the table and the total not move. One clause ('a hundred and thirty in hand after the meal') would close it.",
+    "CARRIED FORWARD — VASTIN'S MEASUREMENT STILL ECHOES CH13. Line 51's 'very slightly less bad at being nobody than he had been the day before' is unchanged and still repeats Ch13's 'being nobody a little better than the day before' one chapter later, minus the numbers that made the Ch13 version specific. Legitimate as a callback; as consecutive chapters it asserts what Ch13 counted.",
+    "CARRIED FORWARD — HOUSE SCAFFOLD DENSITY. 12 'which was', 27 'because', 35 'a thing', 5 'never once', 24 em dashes in 3,982 words. Nothing breaches a declared cap and all of it is the series' voice, but the chapter has no combat and one short exchange to break the cadence, and lines 21–33 still open four consecutive paragraphs on the same subject-verb-because shape. The repair pass did not worsen this; it did not improve it either.",
+    "FOR THE PLANNING SEAT — CH13'S CLOSER TYPE STILL WANTS A RULING. §9 forbids two consecutive chapters ending on the same structural move; ch13.md ends on 'Cael did not tell anyone. He remembered.', which sits between §9's 'single-line paragraph' and a narrated beat. Ch14 closes on an image, so the gate passes on any reading. Raised at r1, not addressed in rulings 16–22, and it will matter again at Ch15."
+  ],
+  "strengths": [
+    "THE REPAIR PASS DID NOT SAND ANYTHING. The r1→r2 diff touches eleven lines and every one of them is a finding target or the sanctioned addition. The deniable plant, Seln's ledger, the family's register, the log's B7 Ch24 form, Karis's absence and the closing image all survive untouched or improved. This is the discipline the craft core's revision rule asks for and it is worth recording, because a repair pass that stays inside its lines is the reason r2 has only two findings rather than a fresh crop.",
+    "THE CAPPED-PHRASE FIX MADE THE BEAT BETTER, NOT MERELY LEGAL. 'For a count of one' [91] is a measure this narrator would actually use — he counts — where 'for the length of a breath' was a measure anyone would use. 'The space of a step' [97] is the log's register rather than the narration's, which is right for a line that is being filed. And the callback at [101], 'he had wanted, in that count of one, to go up the stair', now anchors the wanting to the exact instant of the wrongness instead of restating its duration. The chapter's own instruments did the work, exactly as the finding proposed.",
+    "'AN INSTRUMENT TURNING TOWARD HIM' IS THE STRONGER SENTENCE. Cutting 'the thing it was for' does not just protect Ch15 and Ch16 — it restores the beat's whole logic. The paragraph's argument is that Cael cannot say what happened, and the appositive was the narrator saying it for him. Now the pressure is described and left undescribed in the same clause, and [95]'s 'he did not have anything else to make it into and was not going to invent one' lands as characterization rather than as a hedge against a claim the prose already made.",
+    "THE ADDED CHECK RHYMES WITH THE STRAIGHTEDGE'S OWN FIRST CHECK. Line 21's 'he put the points together and there was no light between them, and he entered that, because an instrument that closes true is the first thing you check and the only thing you cannot fix' answers B7 Ch24's 'he sighted along it against the fire and there was no light under the line'. Two parcels, two objects, the same test, the same result, and the boy performing on the second what he watched being true of the first — that is the pairing the packet asked for, made physical. (One clause inside this sentence is F-CH14-R2-001; the beat itself should survive the repair.)",
+    "VASTIN'S EXCHANGE NOW HAS SOMETHING TO DISCLOSE. With the narrator's tables removed at [51], 'I have sat at a great many tables. I have never sat at one where the people who were not at it were counted' [63] is the first the reader hears of it, and 'The Compact counts who is present. It is very good at that' becomes the admission it was written to be. The replacement narration — 'the good manners of a man who had been served all his life and had never once been fed' — is doing different work from the line, not the same work early, which is what the finding asked for and more than it asked for.",
+    "THE CLOSER STOPS WHERE IT SHOULD. 'The light behind him, and the count in his head the whole way down, and he counted, and did not hurry, and the stair took him under' [113]. Cutting the because-clause leaves the discipline dramatized at [99] and [101] and enacted here, and the last four verbs are all acts. The chapter now ends on the image the card specified without explaining the image.",
+    "THE PLANT'S CALIBRATION SURVIVES INTACT AND IS NOW THE CLEANEST IN THE BOOK. He is not looking at it [91]; the wrongness is felt rather than seen; forty people on the street feel nothing [95]; the narrator refuses to theorize [95]; he waits for a second occurrence before entering the first as a pattern [99]; and he files it with the cord and the row rather than apart from them [97]. Escalation kit → row → light is legible in the log's own three-then-four count without a word of authorial pointing. Any Ch15 or Ch22 pass must leave this alone.",
+    "THE PROMISE IS STILL CHARGED, AND THE INTERVAL FIX MADE THE CHARGE LEGIBLE. 'Here was the first afternoon on which the thing she had asked for had cost him anything' [101] is unchanged in substance, and with 'eight days' now ruled and 'a winter' now true, the reader can date the cost: eight days of not-looking, one afternoon of wanting, one refusal. A rule became a value in one sentence and no one made a speech about it.",
+    "KARIS'S ABSENCE READS BETTER AT ONE DAY THAN AT THREE. 'A woman a day from the thing she had hunted her whole life was not a woman you went to see about' [9] is a sharper version of the r1 sentence, not merely a corrected one — the crew's restraint costs more when the thing is tomorrow, and the two cups at [43] then read as a shared position held for one more night rather than a standing habit.",
+    "READER STANDARD IS STILL MET BY CONDUCT RATHER THAN BY OMISSION. No oath, no coarseness, no violence, water at a celebratory meal, and the chapter's one dangerous object warned about plainly. What a thirteen-year-old actually gets here is a seat kept for someone who is not there, a promise held when holding it costs something, and an outsider fed and not told he is being included — three acts of decency, none of them announced, none of them free."
+  ]
+}

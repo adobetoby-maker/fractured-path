@@ -4,7 +4,7 @@
   "scene_id": "b8-ch14",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch14.md",
-  "word_count": 3982,
+  "word_count": 3951,
   "obligations": [
     {
       "obligation": "Hesk's letter and the dividers on the courier chain; only the dividers new",
@@ -65,7 +65,8 @@
     "'four hundred' removed from the light's description ('for longer than the walls').",
     "Word count ~3,9xx after expansion.",
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence; no sexual content; conduct decent (a promise held at cost; a seat kept for the absent; an outsider fed).",
-    "r2 (repairs of r1): the three capped duration phrases replaced with distinct measures (a count of one; once, briefly; the space of a step); 'a winter apart' / 'a winter after the first' (the interval is 163 days on a continuous count); 'a day from the thing'; 'An instrument turning toward him' (no theory of the light); Lira priced in 'a great deal'; Vastin's manners without the tables; the closing because-clause cut; 'bound fresh two days back'; the dividers' closing-true sentence added. RULING (row 22): 'eight days inside' counts from the 284th — the first day up the tiers under a pass — to the 292nd; 'inside' means inside the tiers, not inside the first wall."
+    "r2 (repairs of r1): the three capped duration phrases replaced with distinct measures (a count of one; once, briefly; the space of a step); 'a winter apart' / 'a winter after the first' (the interval is 163 days on a continuous count); 'a day from the thing'; 'An instrument turning toward him' (no theory of the light); Lira priced in 'a great deal'; Vastin's manners without the tables; the closing because-clause cut; 'bound fresh two days back'; the dividers' closing-true sentence added. RULING (row 22): 'eight days inside' counts from the 284th — the first day up the tiers under a pass — to the 292nd; 'inside' means inside the tiers, not inside the first wall.",
+    "r3 (direct, after r2 PASS_WITH_FINDINGS 1 MEDIUM/1 LOW): the added sentence's pin-sound clause cut (the pin turns without a sound); the meal is well water; the file's last line is the stair sentence."
   ],
   "blockers": []
 }
