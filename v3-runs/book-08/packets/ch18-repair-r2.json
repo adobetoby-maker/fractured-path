@@ -1,0 +1,288 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch18",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 18 card — The Route North; at MILLRACE per arch review H03; Chapter 19 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–17' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen. Millrace the 298th evening (a day south of Lowmarch on the Stair road; the ford with the wheel; the ford-keeper with flour to the elbow; the lean-to that is Oryn's clinic when she is in it); departure dawn the 299th. Twelve fragments. Cash 127 → ~125 (the ford-keeper's night). Vastin's knee day 19 of a month; Brom's shoulder; Lira's arm two-handed a fortnight+; Karis's left hand bound (cut at the reach, the 290th).",
+      "ORYN: Tide Path healer; her circuit (seven holds north; Thornwater; the old woman up her ladder); her terms of service (B7: 'lie still when I say'; 'Route's whole. The knee held. Nobody died of three weeks. Spring: bring the map, and lie still when I say.'); she turned north at the fork on the 280th ('the day she has to'); she reads flow/current; the still place = nothing, everything around it; her three readings in the autumn and 'stop'. She does NOT know the leaf. She is NOT a recruit. She counts stops.",
+      "THE DEEP READING: Cael lying still on the lean-to's bench; her two fingers on the wrist then the flat hand on the ribs (the ribs 'quiet since the marsh'); the reading takes long; she comes out of it and says the fixed line. Cael, during it, turns the twelfth inward — PRIVATELY — and the still place reads to the Rune sense as something with a lean, a made shape, a stair rather than a river; he has no word; Cleon's warning ('If that fragment ever reads something for you that shouldn't be made … Don't tell me. Don't tell anyone'). He withholds; the two findings disagree; UNRESOLVED (Ch22).",
+      "THE LEAF: Oryn is offered the hearing (Karis or Lira) and DEFERS it to the road ('Tell me on the road, if there's road'); she is not told here. SECRET discipline: no Arbiter=apparatus; no Architect present/will; the still place never the Quiet.",
+      "TEAGUE'S CREW at Millrace with them (came down from Lowmarch the same day): the tall woman, the broad man, the young one, the healer of no Path (older woman, cloth bag) — the two healers look at each other once; that is the whole exchange. Teague's wrist wrapped.",
+      "THE ROUTE: from Millrace the bearing east — five days to the fourth site (the Span), past the Stair's bowl and the Hall's marsh — Ch19 opens AT the Span with the leg logged; the third-tier site past that. Karis's map with the straightedge's line; the blank sheet pinned.",
+      "Pike's board: not here. The faceless team: the feeling of being known (Ch17) carried, not staged.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0 (it was the log's); READER STANDARD."
+    ]
+  },
+  "purpose": "Oryn's return and choice — her independent want resolved for this stretch of road, not surrendered. At MILLRACE (the ford with the wheel; the lean-to clinic; the ford-keeper), the 298th evening: Oryn is there by her count, on her terms, and rejoins AS A STOP ON HER ROUTE — she has holds owed a visit; she will walk the bearing-work because it is on the way and because Cael's ribs are still owed a reading; she will turn north the day she has to — and the book makes her state it again so nobody can mistake her. The DEEP READING she has wanted since the autumn: Cael still and whole long enough, Oryn running the Tide reading (current; flow) and getting the still place as NOTHING with everything around it; her finding, unchanged and now certain (fixed line): 'There's a place in you I can't read because it isn't *flow*. I've spent my life reading flow. Whatever that is, it's not the kind of thing my Path was built for.' Privately, Cael has begun turning the twelfth (Rune-adjacent) inward and the still place reads DIFFERENTLY to that instrument — a structure, a lean, something MADE — and he does not tell Oryn (Cleon said tell no one; and he has no words); the two instruments' disagreement stays live and unresolved. She does not know how close she is to the whole reveal; the crew does not tell her the leaf (her choice to hear it or not can be offered and declined — 'Tell me on the road, if there's road'). Oryn reads Vastin's knee (day 19: it held in a cut; 'the month's the month'); Brom's shoulder; Lira's arm; Karis's hand. Teague's healer of no Path and Oryn: two healers, one of them a Path and one not, price each other in a look. Close on IMAGE (card, fixed shape): the two crews and the healer setting out east at dawn (299th), twelve on the road, two of whom will not fight (Oryn; Teague's healer), and a mule; the bearing marked on Karis's map with the straightedge's line; the Span five days out along the bearing, the Court beyond it (UNNAMED still — 'the third-tier site'); Oryn's kit on the mule beside Karis's boxes, a healer's route and a researcher's archive walking the same road for as long as the road runs the same way.",
+  "scene_shape": {
+    "opening_state": "Millrace at dusk on the 298th: the wheel heard before the roofs; the ford-keeper counting eleven and a mule; Oryn in the lean-to with a hold-woman's hand between her palms, not looking up, because a healer in the middle of a reading does not look up for a crew — and then looking up, once, and counting them, and finding six, and Vastin's stick.",
+    "pov_goal": "Cael wants her to have come on her terms and to say them again so that nobody at the ford — Teague least — can take her for a recruit; and he wants the reading, finally, because he has lain still for nobody and owes her that.",
+    "opposition": "Her route (holds owed a visit); Teague's crew's presence (a healer of no Path already in the party — does the bearing need her?); the reading itself (long; the still place); the twelfth turning inward and finding something it should not; the leaf, which she has not heard.",
+    "turn": "The deep reading: Oryn's Tide finding, stated as the fixed line; and — under it, unspoken — the twelfth's finding that the still place has a lean, a made shape. Two instruments, one place, two readings. He does not tell her.",
+    "choice": "He lies still when she says, the whole reading, and does not tell her what the other instrument found — because Cleon said, and because he has no words, and because a healer who has spent her life reading flow is owed her own finding whole and not a rival's laid over it.",
+    "outcome": "Oryn walks the bearing as a stop on her route; twelve at dawn; the knee 'the month's the month'; the two healers priced in a look; her finding certain and his withheld; the leaf deferred to the road.",
+    "closing_state": "IMAGE: the two crews and the healer setting out east at dawn on the 299th, twelve on the road, two of whom will not fight, and a mule; the bearing on Karis's map with the straightedge's line; the Span five days out past the Stair and the Hall and the fourth, and the third-tier site beyond it; Oryn's roll on the mule beside Karis's boxes, a healer's route and a researcher's archive walking the same road for as long as the road ran the same way. The file ends on the image — no log, no dialogue."
+  },
+  "obligations": {
+    "must_include": [
+      "Oryn at Millrace by her count, on her terms; the terms RESTATED aloud (holds owed a visit; she walks the bearing because it is on the way and the ribs are owed a reading; she turns north the day she has to) — so no one can mistake her for a recruit; Teague hears it.",
+      "The DEEP READING dramatized: Cael still and whole; the Tide reading (flow/current); the still place as nothing with everything around it; the FIXED LINE verbatim: 'There's a place in you I can't read because it isn't *flow*. I've spent my life reading flow. Whatever that is, it's not the kind of thing my Path was built for.'",
+      "Cael privately turning the twelfth inward during the reading; the still place reads differently to it (a lean; a made shape; a stair not a river); withheld (Cleon's warning; no words); the disagreement UNRESOLVED.",
+      "Oryn's readings of the others: Vastin's knee ('the month's the month'; it held in a cut); Brom's shoulder; Lira's arm; Karis's hand.",
+      "The two healers (Oryn; Teague's healer of no Path) price each other in a look — that is the whole exchange.",
+      "The leaf offered and DEFERRED by Oryn to the road; she is not told.",
+      "Dates and the count: 298th evening; 299th dawn; twelve on the road, two who will not fight, a mule; the Span five days out; the third-tier site beyond (unnamed).",
+      "Close on the IMAGE (fixed shape); file ends on it. READER STANDARD checked."
+    ],
+    "plants": [
+      "The twelfth's inward reading — Ch22 (Rune inward; no deflection).",
+      "Oryn's 'the day she has to' — Ch21 (the death; a healer's hands) and Ch24.",
+      "The Span five days out — Ch19.",
+      "Two healers, one of no Path — Ch21."
+    ],
+    "payoffs": [
+      "B7 Ch24: 'Spring: bring the map, and lie still when I say' — the map brought; he lies still.",
+      "B7's three readings and 'stop' — the deep reading done.",
+      "Ch5/Ch6: the fork; 'the day she has to' — she turned north and came back on her count."
+    ],
+    "prohibited_outcomes": [
+      "No leaf told to Oryn; no Architect; no Arbiter=apparatus; no still place = the Quiet.",
+      "No Span reached; no fragment integration; no reach; no death.",
+      "Oryn NOT a recruit; her want NOT surrendered.",
+      "No log/dialogue closer; the closer is the IMAGE.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Millrace's ford-keeper and lean-to as B7 Ch18 drew them; a hold-woman's hand under Oryn's palms; the reading's physical procedure (fingers; flat hand; time); Oryn's route north (holds, the old woman's ladder) in a sentence; the healers' look; the dawn departure order."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any word for what the twelfth finds beyond 'a lean', 'a made shape', 'a stair'."
+    ],
+    "forbidden": [
+      "Naming the Court; any theory of the still place; Oryn hearing the leaf."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 17 (The Straightedge)",
+      "path": "v3-runs/book-08/drafts/ch17.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 6 — the fork; Oryn's readings and terms; 'the day she has to'",
+      "path": "books/book-08-before-the-paths/chapters/chapter-06.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 13 — the twelfth (Rune-adjacent); Cleon's warning",
+      "path": "v3-runs/book-08/drafts/ch13.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 18 — Millrace; Oryn's terms set; the lean-to",
+      "path": "books/book-07-void-roads/chapters/chapter-18.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 24 — Oryn's four lines; the still place read three times; 'stop'",
+      "path": "books/book-07-void-roads/chapters/chapter-24.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 19 card — The Sunken Span (Force fragment) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "F-001",
+      "severity": "HIGH",
+      "gate": "Reader-trust invariant 3 (continuity persistence) / charter §4.3 (costs ledgered forward)",
+      "evidence": "Karis's hand. The bound one, the cut across the palm from a stave's edge in a cut, twelve days old, bound by Brom with thread and a strip of shirt and his teeth",
+      "consequence": "Three facts about a wound the reader watched happen six chapters ago are restated wrongly in one clause: the site (palm, not the back of the hand), the cause (a stave's edge, i.e. an enemy weapon, rather than a step's edge she fell against) and the age (twelve days; ch12.md line 129 dates it 'Two hundred and ninetieth day' and this chapter's dawn is the 299th, so eight days). The cause error is the costly one — it converts Karis, whose whole beat at the reach was that she went down against a wall and did not fight, into someone struck by a weapon, and it contradicts the arithmetic the book has",
+      "repair_target": "ch18.md lines 65 and 73 — restate as the back of the left hand, cut on a step's edge, eight days old; adjust line 73's 'twelve days' to match. Oryn's 'Don't write with it for a week' can stand either way but reads more precisely against a hand-back cut."
+    },
+    {
+      "id": "F-002",
+      "severity": "HIGH",
+      "gate": "Progression module editor gate 2 / voice charter §6.2 (every rule visibly costs)",
+      "evidence": "he turned the twelfth.",
+      "consequence": "The twelfth's one stated price is the eyes, and Ch13 did not merely state it, it dramatized it on the last flight of the stair ('the lamp in his hand went to a smear ... and he stopped, and stood'). Here the fragment is turned inward for the chapter's central private beat and nothing is paid: 'Up,' she said. He sat up. He picked up the log from the ground' (line 131), then he reads faces and walks out. In a series whose promise is that victories have receipts, the one instrument that found something new in this chapter is the only one that is not billed — and Oryn's Tide is billed twice in the",
+      "repair_target": "ch18.md between lines 125 and 133 — one clause paying the eyes in the dark of the lean-to (the cost is cheap to stage here precisely because the lantern is unlit, line 97, which also gives Cael a reason it is not visible to Oryn)."
+    },
+    {
+      "id": "F-003",
+      "severity": "HIGH",
+      "gate": "Authority ladder level 3 (arc commitments) over level 4 (scene packet)",
+      "evidence": "The bearing ran east from the ford, past the Stair's bowl and the Hall's marsh and the fourth site with the Compact's cordon round it, five days to a place on the map that was a name and a distance and nothing else yet, and past that, on the line, to a point in a straightedge's shadow",
+      "consequence": "The cards make the fourth site the five-day destination and Chapter 19 opens on it ('The fourth site entered — Book 7's cordoned, twice-radius site'). This sentence instead walks the crew past the fourth site as a waypoint and gives them a different, named place five days out, then a third thing beyond that. It also asserts that the destination 'was a name', which DECISIONS §'Facts Book 8 must not contradict' forbids for the fourth site ('unnamed in B7 — a thing nobody had a word for') and which the invention budget forbids for the terminus. Because this is the chapter's fixed closing image, t",
+      "repair_target": "ch18.md line 173 — drop the fourth site from the 'past' list and make the five-day destination the cordoned fourth site itself, unnamed; keep the point in the straightedge's shadow as the thing beyond. Planning to reconcile the packet knowledge_boundary line before the repair packet is compiled."
+    },
+    {
+      "id": "F-004",
+      "severity": "MEDIUM",
+      "gate": "Evidence rule: a count requires an actual count over the declared scope",
+      "evidence": "Lira's arm. Two fingers on the wrist, the flat hand on the forearm, the count: \"Fifteen days at the fork. It's had forty. It's an arm.\"",
+      "consequence": "The arm was released at Thornwater and Lira has been two-armed since the 266th (STATE_RUNNING, After Chapter 1). Ch12's log dates its own scene the 290th and the prose there counts the arm at twenty-five days. Millrace is the 298th — thirty-three days, not forty. The number is spoken by the one character in the book whose entire register is exact counting, eight pages after the reader was given twenty-five, so the count gains fifteen days in eight. It undercuts the thing the line exists to do, which is to show Oryn pricing precisely.",
+      "repair_target": "ch18.md line 59 — 'It's had thirty-three' (or a non-numeric formulation), preserving 'Fifteen days at the fork' and 'It's an arm.'"
+    },
+    {
+      "id": "F-005",
+      "severity": "MEDIUM",
+      "gate": "Packet prohibited_outcomes ('Oryn NOT a recruit; her want NOT surrendered') / charter §7.4",
+      "evidence": "and because she had come two days out of her route for it and was going to have it whole.",
+      "consequence": "Fifty-six lines after Oryn states, at length and for the third time in three sizes, that Millrace is on her route and that the two days east are on her way, the narration says she came two days out of her route for Cael's ribs. Millrace is her own stop (B7 ch18 sets her terms at this ford; the Ch18 card calls it 'Oryn's second spring stop'), so the clause is factually loose, and it concedes exactly the thing the chapter's central obligation exists to refuse: it makes a two-day sacrifice of her want for him. One clause quietly re-recruits her.",
+      "repair_target": "ch18.md line 95 — recast so the weight comes from her having held the appointment across a season rather than from a detour (e.g. that she had carried this reading on her route since the autumn and was going to have it whole)."
+    },
+    {
+      "id": "F-006",
+      "severity": "MEDIUM",
+      "gate": "Reader-trust invariant 3 (promises persist until changed on the page)",
+      "evidence": "She did the line. Five, then four, then the small ones, in the register, one hand each for the small ones and the current for none of them, because none needed it and she did not have it to spend",
+      "consequence": "Oryn made a dated promise at this exact ford, to a named-by-role patient, for this exact season: in the spring she would do the knee again. The chapter is her spring stop at Millrace, it opens on her working the line, and the promise is neither kept nor mentioned — while a different ladder-woman, Thornwater's (correctly carried from B7 ch24), is used at line 39 as the reason to go north. A reader who remembers B7 ch18 sees the healer keep an absent appointment and skip the present one, which is precisely the opposite of the chapter's argument about her. The fix is also a free strength: Millrac",
+      "repair_target": "ch18.md line 33 — name the Millrace knee inside the line-work (one clause: the knee done again as promised, the ladder order repeated and refused again), keeping the paragraph's compression."
+    },
+    {
+      "id": "F-007",
+      "severity": "MEDIUM",
+      "gate": "Reader-trust invariant 3 / charter §1 decision hierarchy (prose governs)",
+      "evidence": "But he heard Cleon, in the door with the key: *If that fragment ever reads something for you that shouldn't be made and reads it anyway.",
+      "consequence": "The warning was given in the Deepstacks chamber, at the table, after Cleon picked up and set down the clay cup (ch13.md line 91). 'In the door with the key' is a different scene entirely — Ch17's goodbye, four days later, where the line was 'Mind the stair. It leans.' Cael's memory is the book's most reliable instrument; when the cataloguer files a quotation to the wrong room, the reader loses the thing the voice is built on. It also flattens two distinct Cleon beats into one, and the chapter needs them distinct, since line 123's whole point is that the warning 'had been an instruction, and it",
+      "repair_target": "ch18.md line 123 — restore the setting to the chamber and the cup (or drop the setting clause entirely and let the quotation stand)."
+    },
+    {
+      "id": "F-008",
+      "severity": "LOW",
+      "gate": "Packet scene_shape closing_state / evidence rule: a count requires an actual count",
+      "evidence": "Twelve on the road, two of whom would not fight — a healer of Tide and a healer of no Path, on either end of a line of ten",
+      "consequence": "The repaired ch17 (on disk, per DECISIONS row 24) puts Karis on the wall's count precisely because 'a wall counts who walks a site and not who swings' — i.e. she is on the ten and she does not swing. The closing image then says only two of the twelve would not fight. Three do not: Oryn, Teague's healer, and Karis. It is a small number in the most re-read paragraph of the chapter, one chapter after the book took trouble to distinguish walking a site from fighting on it. Downgraded to LOW because the repaired ch17 no longer states outright that Karis 'doesn't fight' (the packet's stale copy of c",
+      "repair_target": "ch18.md line 171 — either recast to the wall-count distinction ch17 now uses (two who are not on the count) or absorb Karis explicitly. The closing image is a fixed shape, so planning should confirm the wording before the author touches it."
+    },
+    {
+      "id": "F-009",
+      "severity": "LOW",
+      "gate": "Voice charter §8.2 (a sentence must land identically read aloud)",
+      "evidence": "*If that fragment ever reads something for you that shouldn't be made and reads it anyway. Don't tell me. Don't tell anyone. Just remember I said it.*",
+      "consequence": "In Ch13 the conditional is deliberately unfinished — the dash and 'He stopped' are the beat: a careful man refusing to say the apodosis. Recalled here with a full stop, it becomes a headless conditional presented as a complete sentence, which reads as a typo on the page and, in narration, will be voiced as a flat declarative that has lost the refusal. The italic on '*made*' is also dropped, which is harmless inside a fully italicised recall.",
+      "repair_target": "ch18.md line 123 — restore the trailing dash so the recalled line stops where Cleon stopped it."
+    },
+    {
+      "id": "F-010",
+      "severity": "LOW",
+      "gate": "Voice charter §9 (anti-tic; a repeated beat phrase is a defect) / shared voice: 'Explaining subtext after the dialogue already conveyed it'",
+      "evidence": "\"Noted,\" Vastin said, and she looked at him. \"That's new.\"\n\n\"It's a useful word.\"\n\n\"It's his.\"",
+      "consequence": "'Noted' appears six times in the chapter and is remarked on four times in seventy-five lines ('That's new.' / 'It's a useful word.' / 'It's his.' / 'It's a good word.'). The first exchange is a genuine beat — Vastin taking Cael's word is real character movement and it earns its moment. The repetitions afterward turn the series' signature into a thing the book is admiring about itself, which is the one register this narrator does not use. Cutting the last one costs nothing and lets the first land harder.",
+      "repair_target": "ch18.md line 159 — replace or drop 'It's a good word,' keeping the exchange at lines 83-87 intact."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "EXC-B8-CH18-1",
+      "approver": "Planning rulings rows 16–24 (the mule is Oryn's, returned at Millrace; Vastin's rounding; the wall's count = the crew's six + Teague's four, healers off it).",
+      "scope": "Planning rulings rows 16–24 (the mule is Oryn's, returned at Millrace; Vastin's rounding; the wall's count = the crew's six + Teague's four, healers off it).",
+      "authority": "Planning rulings rows 16–24 (the mule is Oryn's, returned at Millrace; Vastin's rounding; the wall's count = the crew's six + Teague's four, healers off it).",
+      "reason": "Planning rulings rows 16–24 (the mule is Oryn's, returned at Millrace; Vastin's rounding; the wall's count = the crew's six + Teague's four, healers off it)."
+    },
+    {
+      "id": "EXC-B8-CH18-2",
+      "approver": "ROUTE (planning): the five-day destination from Millrace is the fourth site itself (the Span), past the Stair's bowl and the Hall's marsh; the third-tier point lies beyond. The packet's earlier 'five days to the Span, past the fourth' was wrong and is superseded.",
+      "scope": "ROUTE (planning): the five-day destination from Millrace is the fourth site itself (the Span), past the Stair's bowl and the Hall's marsh; the third-tier point lies beyond. The packet's earlier 'five days to the Span, past the fourth' was wrong and is superseded.",
+      "authority": "ROUTE (planning): the five-day destination from Millrace is the fourth site itself (the Span), past the Stair's bowl and the Hall's marsh; the third-tier point lies beyond. The packet's earlier 'five days to the Span, past the fourth' was wrong and is superseded.",
+      "reason": "ROUTE (planning): the five-day destination from Millrace is the fourth site itself (the Span), past the Stair's bowl and the Hall's marsh; the third-tier point lies beyond. The packet's earlier 'five days to the Span, past the fourth' was wrong and is superseded."
+    },
+    {
+      "id": "EXC-B8-CH18-3",
+      "approver": "SEVEN HOLDS: Oryn's route is seven stops; Millrace was her third in the autumn (B7 Ch18); 'seven holds north of here' means the route's seven, of which three are still owed this spring. Not a contradiction.",
+      "scope": "SEVEN HOLDS: Oryn's route is seven stops; Millrace was her third in the autumn (B7 Ch18); 'seven holds north of here' means the route's seven, of which three are still owed this spring. Not a contradiction.",
+      "authority": "SEVEN HOLDS: Oryn's route is seven stops; Millrace was her third in the autumn (B7 Ch18); 'seven holds north of here' means the route's seven, of which three are still owed this spring. Not a contradiction.",
+      "reason": "SEVEN HOLDS: Oryn's route is seven stops; Millrace was her third in the autumn (B7 Ch18); 'seven holds north of here' means the route's seven, of which three are still owed this spring. Not a contradiction."
+    }
+  ],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch18.md",
+    "report_path": "v3-runs/book-08/reports/ch18-author-r2.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch18-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch18-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
