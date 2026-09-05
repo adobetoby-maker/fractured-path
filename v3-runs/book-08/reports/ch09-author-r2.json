@@ -4,7 +4,7 @@
   "scene_id": "b8-ch09",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch09.md",
-  "word_count": 3938,
+  "word_count": 3969,
   "obligations": [
     {
       "obligation": "The provision worked as mechanism: Cleon at noon; the counter; the three columns; strata-talk; the count entered; the clerk's not-asking as the gap",
@@ -55,7 +55,8 @@
   "deviations": [
     "The mark on the iron door (recognized by Karis's hand going to the sheets) is a small plant toward Ch10–11; flagged as invention within budget.",
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence; no sexual content; conduct decent (a legal provision used honestly, its cost priced).",
-    "r2 (repairs of r1): Cleon's opening trimmed (appearance inventory; the bench; the recognition clause cut — Ch10 keeps the beat); meta-voice ×3 removed; the day named (the 284th); the second gate run in scene with Cleon walking them up and the keeper counting four; Seln accounted for (his own way up); the outer district inside the first wall; 'since the day they were both measured'; 'the Hall'; Lira's age dropped; 'five years'; the gate-keeper's simile replaced. NOT changed: 'Right.' (fixed card line); Ch9's close (Cleon pulls the iron to) — DECISIONS row 21 reconciles it with Ch10; 'forty years' — row 20 (Vastin's rounding)."
+    "r2 (repairs of r1): Cleon's opening trimmed (appearance inventory; the bench; the recognition clause cut — Ch10 keeps the beat); meta-voice ×3 removed; the day named (the 284th); the second gate run in scene with Cleon walking them up and the keeper counting four; Seln accounted for (his own way up); the outer district inside the first wall; 'since the day they were both measured'; 'the Hall'; Lira's age dropped; 'five years'; the gate-keeper's simile replaced. NOT changed: 'Right.' (fixed card line); Ch9's close (Cleon pulls the iron to) — DECISIONS row 21 reconciles it with Ch10; 'forty years' — row 20 (Vastin's rounding).",
+    "r3 (direct, after r2 PASS_WITH_FINDINGS 1 MEDIUM/2 LOW): Karis carries the cellar's lamp down (the party's light in Ch10); 'three tiers and two gates' stated once (the ring road is inside the first wall — up through the second and third gates to the crown); the ascent sentence split."
   ],
   "blockers": []
 }
