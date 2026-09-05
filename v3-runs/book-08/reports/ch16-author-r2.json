@@ -4,7 +4,7 @@
   "scene_id": "b8-ch16",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch16.md",
-  "word_count": 3950,
+  "word_count": 3961,
   "obligations": [
     {
       "obligation": "The no-deflection scene (Gate 25): the distinction held plainly in interior, not counted",
@@ -59,7 +59,8 @@
     "'Book 6' in the card's fixed line rendered as 'In Ostrand I learned it was corrupt' (authorized substitution); 'the grade' rendered as 'the marks, and the records to read them against' (authorized).",
     "'four hundred' ×3 (two in the fixed close; one in interior — the record's date).",
     "READER STANDARD (Gate 27): banned-word grep 0; no violence; no sexual content; conduct honest (Vastin's 'I would have' named as wrong, neither excused nor punished).",
-    "r2 (repairs of r1 STRUCTURAL_HOLD): the stair beat re-pitched (Lira heard the leaf in the chamber; the page is the thing she should read before anyone talks at her); Cleon's interior re-anchored as Cael's guess and his own table-said words; Vastin's fixed unit 'At a category. Which turned out to be a person. Who's sitting across the fire.' restored contiguous with the form-speech moved before it; the dividers beat moved ahead of the closing speech; 'Nobody said anything' reduced to one; 'Six of them round it'; Karis's eyes; Brom's ledger-line economy; the exchange closer varied. RULING (row 23): watching Cleon at the table counts from the 285th — nine days on the 293rd; Ch15's 'eight days' corrected to nine in place."
+    "r2 (repairs of r1 STRUCTURAL_HOLD): the stair beat re-pitched (Lira heard the leaf in the chamber; the page is the thing she should read before anyone talks at her); Cleon's interior re-anchored as Cael's guess and his own table-said words; Vastin's fixed unit 'At a category. Which turned out to be a person. Who's sitting across the fire.' restored contiguous with the form-speech moved before it; the dividers beat moved ahead of the closing speech; 'Nobody said anything' reduced to one; 'Six of them round it'; Karis's eyes; Brom's ledger-line economy; the exchange closer varied. RULING (row 23): watching Cleon at the table counts from the 285th — nine days on the 293rd; Ch15's 'eight days' corrected to nine in place.",
+    "r3 (direct, after r2 PASS_WITH_FINDINGS 1 MEDIUM): the silence marker at L31 varied; the book-level 'Nobody said anything' pass logged to LINE-EDIT-BACKLOG."
   ],
   "blockers": []
 }
