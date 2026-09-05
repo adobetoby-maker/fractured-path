@@ -1,0 +1,72 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch01-r1",
+  "scene_id": "b8-ch01",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch01.md",
+  "word_count": 5132,
+  "obligations": [
+    {
+      "obligation": "Log-voice skip movement, dated from the Line, FIVE wintering, ferry not run since the 130th, ledger to the mark from ninety-six",
+      "status": "MET",
+      "evidence": "Entries dated the 131st through the 264th; 'four a week for five, twenty for the five months … which leaves seventy-six'; fence forty paid → 'A hundred and sixteen in hand'; close 'A hundred and eighteen in hand'."
+    },
+    {
+      "obligation": "Age nineteen once; ten fragments + the still place in inventory words only",
+      "status": "MET",
+      "evidence": "'I am nineteen. Ten confirmed. The still place: not a fragment, not the Quiet, read three times, and not touched since a healer said stop.'"
+    },
+    {
+      "obligation": "The kit inventoried as Book 7 left it; the index as one unreadable designation; forty-one kinds kept separate",
+      "status": "MET",
+      "evidence": "Case, cord, stake thirty-two, mallet, field ledger with the radius line and 'a designation, in an index, that nobody at this table can read'. Forty-one kinds not mentioned (not needed)."
+    },
+    {
+      "obligation": "Book-11 plant 3: cord and both straightedges read a hair off only in Cael's hands; Karis's ruler sentence twice; logged, filed, wrong about what it is; no theory",
+      "status": "MET",
+      "evidence": "168th-day entry: forty-two strides for everyone, 'forty-one and a piece by mine'; the edges a hair short / a hair long; 'A measurement is a fact about a ruler … not about the hand that held it' said as a rule and 'not a rule the second time'; 'Claim: something. Evidence: a cord, two edges, a hair. Ruling: hold.'"
+    },
+    {
+      "obligation": "The promise kept as a SCENE at Thornwater: two days; Oryn's register; the arm RELEASED after five months; the ankle mended; the map read upside down; nothing about who or why",
+      "status": "MET",
+      "evidence": "'Five months and twenty days.' / 'That's a season. Take it off.'; 'It's an arm. Use it.'; 'Will you mend it.' / 'Lie still'; 'That's a line.' / 'I don't read maps. I read what walks in off them.'"
+    },
+    {
+      "obligation": "Oryn comes down to Lowmarch because Lowmarch and Millrace are her spring's first stops; nobody asks",
+      "status": "MET",
+      "evidence": "'Lowmarch is the first stop on my spring. Millrace is the second. I'd have been at Pike's plank in six days with or without a map. I'll be there in two. Get the mule.' / 'Nobody had asked her.'"
+    },
+    {
+      "obligation": "Karis's case for Treswick made plainly to six and NOT answered",
+      "status": "MET",
+      "evidence": "'It's west. Treswick …the Deepstacks…the old scholars' provision…There's a man there who is.' / 'Nobody answered.' Oryn's 'Inside walls.' exchange left open."
+    },
+    {
+      "obligation": "Pole one of the arc logged as relief that itches; 'no column' never used for the exclusion",
+      "status": "MET",
+      "evidence": "'No tier. No rank. No file I can see.' (131st); 'A country that does not read you is a country that does not answer, either' (six-at-table catalogue). 'Column' does not appear."
+    },
+    {
+      "obligation": "Close on the fixed log text verbatim; file ends on prose",
+      "status": "MET",
+      "evidence": "Final entry reproduces the card's text with 'an index she can't read'."
+    }
+  ],
+  "inventions": [
+    "Winter prices (meadow rate four a week; the mule's shed a mark a month; the rope-house roof seven) and the fence's forty-one posts — texture within the invention budget.",
+    "The old woman's rope-burned man at Thornwater's bench (unnamed); the boy at the well.",
+    "Treswick and the Deepstacks named by Karis at the table (architecture-approved NEW-CANON, first use on the page); the scholars' provision named; 'a man there who is' (Cleon not named)."
+  ],
+  "state_change_proposals": [
+    "Day-count: Thornwater walk 265th–266th; six at Lowmarch the 268th; closing log the 270th; ferry 'next week'.",
+    "Lira: arm RELEASED by Oryn (266th); ankle MENDED (266th); two-armed; crossbow on the inn wall since autumn.",
+    "Cash: 96 → 76 (board) → 116 (fence) → 118 (shed −5, rope-house +7). Pike's page: tenth line PAID under the five names; season line still blank.",
+    "Oryn with the crew at Lowmarch (spring stops: Lowmarch, then Millrace); she has NOT read Cael; Brom's shoulder noted by her, unread.",
+    "Anomaly logged: cord and straightedges read a hair off in Cael's hands only (168th)."
+  ],
+  "deviations": [
+    "The board's yard-pacing anomaly is staged in the log (the card places it in the log-voice movement) rather than as a separate scene.",
+    "Word count ~5,1xx — inside the +15% band."
+  ],
+  "blockers": []
+}

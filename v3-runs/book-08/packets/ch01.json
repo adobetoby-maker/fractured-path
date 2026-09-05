@@ -1,0 +1,186 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch01",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md, Chapter 1 card + its REVISED block of 2026-09-04, after the B7 reconciliation)",
+    "state": "state-b8-pre-ch01 (v3-runs/book-08/state-b8-pre-ch01.md)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is NINETEEN (turned on the page in B7 Ch14). He says so once. Twenty is Ch14 of this book and nowhere earlier.",
+      "Ten confirmed fragments (Wind, Pressure — 'the Bronze from Ardenmere' in any spoken run, never 'Feryn' in a list with Oryn —, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide). The still place is NOT a fragment and NOT the Quiet (his own log, B7 Ch14/22/24) and he does not touch it: 'read three times and not touched since, because a healer said stop'.",
+      "He knows: four sites on one line; the fourth four hundred meters to its middle and cordoned in numbered iron; 'Someone made this pattern' was said once and not answered. He does NOT theorize who or why. Nobody does.",
+      "The kit (B7 Ch20): a registry-stamped case with a pacing cord, an iron stake and mallet, a field ledger (a radius line in the Compact's hand; 'third site confirmed on bearing'; ONE designation in an index nobody can read). Karis's tally of forty-one KINDS of mark is hers, from the carvings — keep it separate from the index. Nobody knows the index is a grade.",
+      "He does not know the Compact suppressed anything; he does not know Vastin is out; no ferry has run since the 130th. The winter's news is nothing.",
+      "Money: ninety-six marks in hand at first snow; the axe-head fence (forty) held to the five for the winter and paid when the work is done; nothing owed; three hundred entered as 'taken; not paid'. Whatever the winter earns and spends is logged to the mark.",
+      "Lira's left forearm: slung under Oryn's season order since the Ring (B7 Ch11), five months by the thaw; the right ankle taped and unmended. Only Oryn's word releases the arm. Brom's right shoulder: mended twice ('not three times this season'), then BOUND by Teague's healer of no Path — the winter is the season's end; whether the shoulder is whole is Oryn's to say, on the page, if she reads it. Cael's ribs: quiet since the marsh.",
+      "Oryn is at Thornwater (two days from Lowmarch), on her route. Her letter is four lines plus one ('lie still when I say'). The crossbow is Lira's (since the Hall's causeway); Oryn has not asked for it.",
+      "Teague's crew (four, plus a healer of no Path; unnamed by design) winters at Lowmarch; Teague's term stands: 'Spring. Whatever's on that bearing. My crew comes.' / 'Noted.'",
+      "Hesk's package arrived on the last ferry (the straightedge from Denvash with its note); the replies west went out on the 130th. No courier since.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken' on the page. The academy is 'the academy above Ostrand'."
+    ]
+  },
+  "purpose": "Open Book 8 by staging the winter at Lowmarch as a HELD thing — five of them snowed in with a Compact survey kit on the table that reads everyone but Cael — and then keep the one promise Book 7 left open: the map carried two days to Thornwater in the thaw, Oryn's word on Lira's arm, and Oryn coming down to Lowmarch with them so the crew is six when the ice goes. Log the first pole of the book's arc (the system had no seat for me — no tier, no rank, no file I can see) as relief that has started to itch. Close on the log, west and inside for the first time since the academy above Ostrand.",
+  "scene_shape": {
+    "opening_state": "Log-voice opening movement — the series' skip technique (B4/B5/B6/B7 Ch1), in Cael's plain first-person log register (italic in-world writing), dated from the Line and inventoried: first snow to the ice going; the ferry not run since the hundred and thirtieth; five of them in the two inns; the winter's small work ledgered to the mark (the axe-head fence walked and finished; a roof; a well-house; what Pike's board posts when the roads are shut); the kit on the table the whole winter — its cord, its stake and mallet, its ledger with the one designation nobody can read — and the thing they found working it: the cord and both straightedges read true in every hand but his. Nineteen, and says so. Ten fragments, one still place, no file he can see. The freedom of Book 7 logged as the first pole of this book's arc — nobody deciding what he is — and, under it, the first itch: a winter is long, and a country that does not read you is also a country that does not answer.",
+    "pov_goal": "Cael wants the winter to end the way it began — five people, a board, no registry — and knows it will not, because Karis has a bearing and an archive west, and because a promise was made at a fork: 'Bring the map.'",
+    "opposition": "The road (ice on the river; the Thornwater road walkable before the ferry runs); the unreadability that has followed him into a brass edge; Karis's need pulling west toward walls and a registry; Lira's five months in a sling and what she will not say until a healer says the other word first.",
+    "turn": "The promise kept, as a scene: Cael and Lira walk the map two days to Thornwater while the ice holds. Oryn reads Lira's arm at the house door in the register she keeps for findings, says the word (released — 'a tape and a season' ends on the page), and, rested, mends the ankle she would not touch in Book 7. She reads the map upside down, the two straightedges on it, and says nothing about who or why. Then she does what her route lets her: Lowmarch and Millrace are her spring's first stops, so she walks down with them.",
+    "choice": "Cael does not ask her to come. He shows her the map because she said to bring it, and he tells her the one thing the winter found — the cord and the edges read a hair wrong only in his hands — because a healer who cannot read him is owed every instrument that cannot either. She does not read him; the deep reading waits for a day he is still and uninjured (Ch7). Ask first, every time — he does not ask; she does not offer.",
+    "outcome": "Six at Lowmarch, the ice going, the fence paid, the ledger honest. Lira with two arms and a foot that lands flat. Oryn's kit on the mule beside Karis's boxes. Karis's case for Treswick made to the five and the sixth at a table, plainly, in the order she has it — and not yet answered, because the ferry has not run and the answer is Ch2's.",
+    "closing_state": "LOG — the Power Log's winter's-last entry, the card's fixed text verbatim (with 'an index she can't read', not 'a grade'): 'The ferry runs when the ice goes. …West, and inside, for the first time since the academy above Ostrand — which is a sentence I did not think I'd write again.'"
+  },
+  "obligations": {
+    "must_include": [
+      "Open with the log-voice skip movement in Cael's first-person log register: the winter at Lowmarch dated and inventoried — the day-count from the Line stated (first snow the 129th; the ice going roughly five months on — state the day the log is written); FIVE wintering; the ferry not run since the hundred and thirtieth; the work ledgered to the mark from NINETY-SIX in hand (the fence's forty paid on completion; anything spent named).",
+      "Cael states his age — nineteen — once, on the page, and inventories ten confirmed fragments and the still place in the standing inventory words only (Pressure as 'the Bronze from Ardenmere' if spoken; the still place 'not a fragment, not the Quiet').",
+      "The kit on the table all winter, inventoried as Book 7 left it: cord, iron stake and mallet, field ledger (the radius line; 'third site confirmed on bearing'; ONE designation in an index nobody can read). Karis's forty-one kinds of mark are her own tally from the carvings, separate from the index.",
+      "The anomaly, first and quiet (Book-11 plant 3): the cord and both brass straightedges read true in every hand but Cael's — a hair off, every time, only his — found by working the kit to learn it; Karis's 'A measurement is a fact about a ruler, not about the hand that held it' (B7 Ch20) said once as the winter's joke and once not as a joke. Cael logs it as one more thing the instruments can't parse, notes it is the third instrument to do it, files it, and is wrong about what it is. Deniable. No theory.",
+      "The promise kept as a SCENE (charter §10): Cael and Lira walk the map to Thornwater — two days, the road stated as two days — in the thaw before the ferry runs; Oryn at the house door in the register she keeps for findings; she reads Lira's arm and says the word — RELEASED; five months under the order; 'a tape and a season' ends on the page; she mends the ankle now that she is rested; she reads the map upside down with both straightedges on it and says nothing about who or why.",
+      "Oryn comes down to Lowmarch with them because Lowmarch and Millrace are her spring circuit's first stops and 'bring the map' was her sentence — her route intact and hers; nobody asks her to come.",
+      "Karis's case for Treswick made plainly at a table to the six: the carvings are instructions in a language she cannot read; the index is a designation she cannot read; everything she needs is west, inside walls, in an archive nobody has opened since before the Compact — and the case is NOT answered in this chapter.",
+      "Log the first pole of the book's arc in the log's own words: the system had no seat for him — 'no tier, no rank, no file I can see' (B7 Ch1/Ch24) — as relief that has begun to itch. 'No column' is the board's praise, never the Compact's exclusion.",
+      "Close on the Power Log's winter's-last entry, the card's fixed text verbatim: \"The ferry runs when the ice goes. Karis has a bearing, an index she can't read, and a language she can't read, and she says the answers are in a border archive nobody's opened since before the Compact. I've spent five years staying out of registries because a registry is where they file you. She wants me to walk into the oldest one on the continent. The kit reads everyone but me. So does the world, mostly. Nineteen. Ice goes next week. West, and inside, for the first time since the academy above Ostrand — which is a sentence I did not think I'd write again.\" The file ends on the last line of prose."
+    ],
+    "plants": [
+      "Book-11 plant 3 (the anomalies clustering on Cael, first instance): the cord and the straightedges. Deniable; no explanation; nobody says 'instrument', 'error', or 'system' about him.",
+      "Pole one of the arc — exclusion — logged in the log's register, ready for Ch16's conversion.",
+      "Teague's crew wintering at Lowmarch and the spring term standing (one line; Teague not on the page unless a glance across a room).",
+      "The two straightedges on one map — Hesk's note remembered in one line ('true to a hair')."
+    ],
+    "payoffs": [
+      "'Find me at Thornwater.' / 'Bring the map.' (B7 Ch23) — paid: the map carried, the fork's fixed lines not repeated, only kept.",
+      "'Six, by letter.' (B7 Ch24) — paid in the body: six at a table before the ferry runs.",
+      "Lira's arm under Oryn's season order (B7 Ch11–24) — paid: the word said, the sling off, the ankle mended; Lira's silence on it ('would not say the word until a healer said the other word first') resolved by the healer saying it."
+    ],
+    "prohibited_outcomes": [
+      "No Vastin, no ferry landing, no records, no 'sub-layer', no Compact presence or news — Ch2/Ch3.",
+      "No fight, no injury, no fragment use, no declaration; no quiet ground entered or approached; no new site.",
+      "No deep reading of Cael (Ch7); no reading of anyone without asking; the still place not touched, not theorized, not called the Quiet.",
+      "No theory of who made the pattern or why; no 'Architect', 'primordial', 'reset', 'before the Paths' as a phrase; [UNBOUND] not used.",
+      "No 'sighting-glass', 'tally-rule', or any instrument Book 7 did not inventory in the kit; no 'grade' — nobody knows the index is a grade.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no 'Feryn' in a list run with Oryn; no modern idiom; no 'Tuesday'-class weekday names (the series uses First-day … Seventh-day style if any).",
+      "No one-word paragraphs beyond two; 'at the pitch' not used; 'the way X [verb]' ≤3; no chapter-count or volume references; no authoring metadata in the file."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Sensory detail of Lowmarch under snow (the two inns, the landing iced, the ford, the smith, Pike's board with winter postings), the Thornwater road in thaw, Thornwater's house door and yard.",
+      "The winter's small work — two or three contracts in summary with one concrete detail each and their prices to the mark.",
+      "Oryn's clinic at Thornwater in one or two lines of texture (the old woman with the knee, up her ladder).",
+      "Names: NONE new. Teague's crew stays unnamed. The fourth site stays unnamed ('the fourth', 'the thing nobody had a word for')."
+    ],
+    "forbidden": [
+      "Any new place, person, or fauna name.",
+      "Any Compact institution, official, or document not already on the page in Book 7.",
+      "Any mechanic of the Quieting, Tide, or the reading beyond what Book 7 established."
+    ],
+    "approval_required": [
+      "Any new named person, place, or fauna.",
+      "Any new Compact document, office, or official.",
+      "Any statement of the winter's day-count that would move Ch2's ferry off 'when the ice goes'."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "State snapshot pre-Chapter 1 (from Book 7's closed prose)",
+      "path": "v3-runs/book-08/state-b8-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 7 Chapter 24 (Lowmarch, first snow; the inventory; Oryn's letter; the map)",
+      "path": "books/book-07-void-roads/chapters/chapter-24.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 23 (the fork: 'Find me at Thornwater.' / 'Bring the map.')",
+      "path": "books/book-07-void-roads/chapters/chapter-23.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 1 — the log-voice skip precedent and the first 'no file I can see'",
+      "path": "books/book-07-void-roads/chapters/chapter-01.md",
+      "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 20 — the kit as inventoried; 'a measurement is a fact about a ruler'",
+      "path": "books/book-07-void-roads/chapters/chapter-20.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 2 card — No Sanction (Vastin arrives on the first ferry) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch01.md",
+    "report_path": "v3-runs/book-08/reports/ch01-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch01-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch01-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
