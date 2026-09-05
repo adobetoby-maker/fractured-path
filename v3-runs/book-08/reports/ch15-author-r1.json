@@ -1,0 +1,71 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch15-r1",
+  "scene_id": "b8-ch15",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch15.md",
+  "word_count": 4063,
+  "obligations": [
+    {
+      "obligation": "The primary source as an object; read with the carvings as key; document work",
+      "status": "MET",
+      "evidence": "The horn-coloured leaf, one of twelve in a bundle; the point-written hand; Cleon's twenty-two years; the floors as the letters and the word as the start; 'read three times before it is said once'."
+    },
+    {
+      "obligation": "The reveal delivered ONCE, aloud, in the record's voice; the designer as 'the Architect'; 'set the apparatus over all the land'; four hundred years as the record's date; the effaced name described",
+      "status": "MET",
+      "evidence": "The passage read aloud; 'the record's word for him is the one on Vastin's page — the Architect; it's a title, not a name; the name's gone'; 'about four hundred years ago, by the date at the leaf's head'; the scraped patch, the first upright stroke."
+    },
+    {
+      "obligation": "[UNBOUND] live as 'the un-bound'; Karis's finding: older; 'Older. Made. Us.'",
+      "status": "MET",
+      "evidence": "'It's not retired here. It's not a limit. It's a kind.' / 'Older. Made. Us.'"
+    },
+    {
+      "obligation": "Book-11 plant 1: 'did not die in the conventional sense' — marked, not read",
+      "status": "MET",
+      "evidence": "The second leaf with the thumb-sized hole: '— and of him it is said that he did not die in the way of men, but went into the ordering he had made, and is in it —' / 'I'm marking it. I'm not reading it.' / 'Marked.'"
+    },
+    {
+      "obligation": "The discipline staged: nobody says the live Arbiters are the apparatus; the fear not ratified; the Architect not present",
+      "status": "MET",
+      "evidence": "Vastin: 'And the mark that is given at the kindling —' / Karis: 'Is a thing a record says a man made four hundred years ago … I've two findings tonight, and they go on two pages, and I'm not drawing a line between them.' / 'Two pages.'"
+    },
+    {
+      "obligation": "Cleon silent; his decade visible",
+      "status": "MET",
+      "evidence": "'Lamp' and 'Marked' — his whole ledger for the day; 'being right was never going to have been the relief he had thought'."
+    },
+    {
+      "obligation": "Cael withheld; labour; no aloud connection",
+      "status": "MET",
+      "evidence": "'He did not catalogue himself.' … 'He had the sum … He did not do it. He held the lamp.'"
+    },
+    {
+      "obligation": "Close on the written document; the file ends on 'Older. Made. Us.'",
+      "status": "MET",
+      "evidence": "The copied passage with the gap described, then the three words."
+    },
+    {
+      "obligation": "READER STANDARD",
+      "status": "MET",
+      "evidence": "gates: banned words 0."
+    }
+  ],
+  "inventions": [
+    "The leaf's stuff ('not paper and not skin and had been both once'); the bundle of twelve; the antique passage's wording around the fixed close ('In the years of the unmaking … he made the measure, and the seat, and the tier, and the mark that is given at the kindling'); the chronicle leaf with a thumb-sized hole; Cleon's twenty-two years with the bundle.",
+    "Karis's eleven-word report on the stair."
+  ],
+  "state_change_proposals": [
+    "Day 293: THE REVEAL read aloud once in the chamber. The primary source: a leaf (one of twelve) in a hand older than the board; the passage: the un-bound in the years of the unmaking; one who set himself to the ordering and 'made the measure, and the seat, and the tier, and the mark that is given at the kindling … and set the apparatus over all the land'; the name scraped back to the fibre (four or five letters; the first stroke showing); 'that the un-bound should not come again, who had near unmade the world before the ordering of it'; dated by the leaf's head ~four hundred years. Karis: 'Older. Made. Us.' Copied into the field notebook with the gap drawn.",
+    "The chronicle leaf (Book-11 plant 1): 'he did not die in the way of men, but went into the ordering he had made, and is in it —' then a hole; MARKED, not read.",
+    "The discipline: Vastin reached for the mark at the kindling; Karis refused the line ('two pages'); Vastin: 'Two pages.' Cleon: 'Lamp.' 'Marked.' Cael withheld (the sum not done). Lira a half-stride nearer."
+  ],
+  "deviations": [
+    "'four hundred' appears twice (the record's date, as allowed).",
+    "Word count ~3,9xx after expansion.",
+    "READER STANDARD (Gate 27): banned-word grep 0; no violence; no sexual content; conduct decent.",
+    "r2 (direct, after r1 PASS_WITH_FINDINGS 7 MEDIUM/4 LOW): the chronicle gloss cut (the hole marked, not read); 'four hundred' now only in the record's voice; the fourth term of the sum cut; Karis's mark present-tense and non-anatomical ('yours, or mine'); the hour is the morning throughout; three readings carried through; the bundle thirty years; 'three hands'; Vastin's knee re-established once; the measuring clause cut; the two pages catalogued (expansion)."
+  ],
+  "blockers": []
+}
