@@ -1,0 +1,255 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch08",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 8 card — The Line at Treswick; Chapter 9 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–7' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen; the 282nd — the river crossed (a bridge or a ferry at the bluff's foot; state which), the outer gate entered. Six (five and Vastin); one mule; cash 138.",
+      "TRESWICK (PROVISIONAL, per the architecture reference): the last governed city on the frontier, old, walled, straddling the Registry Line; a Compact city — a registry office, an Arbiter station, tiered districts, city-access-by-rank; tolerates edge traffic because it lives on it (carters, brokers, unranked labour, the ferry trade). Three walls in tiers up a bluff; three gates; the outer (unranked) district at the foot; the registry office on the old town; the station on the crown with its pale light. Bible §City Access: Unranked / [SHATTERED] — unranked districts only; cannot legally enter the inner city.",
+      "THE DEEPSTACKS: the sub-foundation archive beneath the registry — pre-standardization records, uncatalogued, unstaffed, technically Compact property; access via the old scholars' provision (a registered historical-Path-studies practitioner plus up to four 'hands' on his roster, entered by COUNT not name or tier, under his pass and responsibility; the classification bar never consulted because the form has no column for hands; the exposure: an official asking a hand for paper). Ch8 GLIMPSES this machine through Seln's reconnaissance and Karis's knowledge of the provision; Ch9 works it. Cleon is NOT met in Ch8 (Ch10); the clerk is scouted, not handled.",
+      "The crew's standing: Lira Iron R1 formal (a pass to the second tier if she showed paper — she will not); Brom Copper (first tier); Karis unranked by choice (outer district; the provision is her way in); Seln Bronze, defected (a registry would know his name if it were said — it will not be); Vastin Silver with papers he will not show (he says so once; nobody asks why twice); Cael [SHATTERED] — outer district only; the asset-restriction pending jurisdiction — INSIDE the Line it has jurisdiction; he keeps his head down.",
+      "The promise: not the steps, not the square. The square is at the station's foot on the crown; the outer district does not touch it; he routes himself to keep it so, on the page.",
+      "Book-11 plant 3 carried: NOTHING faint happens at the station in Ch8 (Ch14). He does not look at the light more than the card requires.",
+      "SEALED: no Architect theory; no still-place theory; Cleon not met; the records not read further; no fight.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken' — 'the academy above Ostrand' for the academy; Ostrand may be named as a place; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' — do not use (book cap)."
+    ]
+  },
+  "purpose": "Part 1's close — arrival at Treswick and the return to institutional ground: the city from the road and then from inside its outer gate — the tiered bluff, the registry office, the district passes, the Arbiter station at the top with its pale light — rendered as MECHANISM. The tension is legal and bodily: Cael is [SHATTERED], asset-restricted, in a Compact city with a station four tiers up; he keeps to the outer district where the unranked are allowed; the crew's spread of standing (Lira Iron, Brom Copper, Karis unranked-by-choice, Seln Bronze-defected, Vastin a Silver with no papers he'll show) determines, for the first time in three books, who can go where. Seln's tradecraft begins: the way into the Deepstacks runs through the scholars' provision, through Cleon, through a registry clerk who must be handled and not alarmed. Cael keeps the promise on the page — routes his movements clear of the square and the steps, catalogues the city as lines he cannot cross, feels the walls as walls. Close on the fixed dialogue: 'That's us. That's the whole reason it's still buried. We're the first ones who are both.'",
+  "scene_shape": {
+    "opening_state": "The river at the bluff's foot at first light of the 282nd — the crossing (a stone bridge older than the walls, or the ferry: choose one and describe it as mechanism) — and the outer gate: a gate that shuts, with a man at it who does not ask for paper because the outer district is where paper is not asked for, and the six going in under it with a mule, Cael last, into the first place that measures that he has walked into on purpose in his life.",
+    "pov_goal": "Cael wants to be inside without being read — to catalogue the city as a set of lines he cannot cross and keep to his side of every one of them, and to keep a promise about a square.",
+    "opposition": "The city's machine (tiers, gates, passes, a registry office that sits on the old town like a lid, a station on the crown that reads); the crew's spread of standing; the asset-restriction with jurisdiction; the clerk who must not be alarmed; the light he does not look at.",
+    "turn": "Seln comes back from the tiers with the shape of the way in — the scholars' provision, the practitioner it runs through (Cleon, registered, in the old town), the clerk who keeps the provision's book and the form with no column for hands — and Karis knows the provision from the scholars' registers and says so; and Cael understands that the only legal way for him to reach the oldest record of what he is, is to be entered by COUNT as a hand carrying boxes — exactly what the city thinks he is worth.",
+    "choice": "Cael keeps the promise on the page: when the road up to the registry would take him through the square, he does not take it; he stays in the district where the unranked are allowed and waits, and catalogues the waiting as a thing he chose.",
+    "outcome": "The city anatomized as mechanism; the way in known and not yet worked; the walls felt as walls; Karis going in to find the clerk; Cael staying.",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim and contiguous: Cael: \"Last time we walked into a place like this, it took four years and a hearing to walk out.\" Karis: \"Last time we didn't know what we were looking for.\" Cael: \"Do we now?\" Karis, looking up the bluff: \"A name and a reason. Four hundred years old, under our feet, and nobody's read it because nobody's had a reason to look and a person who could read it in the same lifetime.\" A beat. \"That's us. That's the whole reason it's still buried. We're the first ones who are both.\" She goes in to find the clerk. Cael stays in the district where the unranked are allowed, and waits. The file ends on that (narration after her last line is permitted; no log)."
+  },
+  "obligations": {
+    "must_include": [
+      "The arrival dated (the 282nd) and the crossing described as mechanism; the outer gate and why it does not ask for paper.",
+      "Treswick anatomized as MECHANISM (charter §6.5, §3.7): the three tiers and their gates; the district passes rationed by rank; the registry office on the old town; the station on the crown with its pale light; the outer district's economy (carters, brokers, unranked labour, the ferry trade) — shown, not explained.",
+      "The crew's standing made concrete: who can go where and who will not show paper (Lira; Brom; Karis; Seln; Vastin — 'papers he will not show', once; Cael — outer district only).",
+      "The promise kept on the page: a route that avoids the square and the steps, chosen, catalogued as chosen.",
+      "Seln's reconnaissance of the way in (the provision; Cleon's name and standing; the clerk and the form) — reported to the crew in his register; Karis's knowledge of the provision from the scholars' registers; the working-party rule stated as the machine (registered practitioner + up to four hands by count; no column for hands; the exposure exact).",
+      "Cael's understanding of the irony stated in his register: entered by count, as labour, to reach the oldest record of what he is.",
+      "The walls felt as walls: the freedom of Book 7 behind him; 'back inside a place that measures' after nine months in a country that didn't.",
+      "Close on the fixed dialogue VERBATIM and contiguous; Karis goes in; Cael stays and waits; the file ends on prose (no log)."
+    ],
+    "plants": [
+      "The clerk (unnamed; the provision's book) — Ch9 handles him.",
+      "Cleon, registered, in the old town — Ch10 meets him.",
+      "The station as the instrument that reads — the promise; Ch14's tripwire.",
+      "Lira watching passes she will never hold — Ch9's want.",
+      "The asset-restriction with jurisdiction inside the Line — the Ch12 reach's legal ground."
+    ],
+    "payoffs": [
+      "'Karis has a bearing … she says the answers are in a border archive' (Ch1) — the archive reached, not entered.",
+      "'West, and inside, for the first time since the academy above Ostrand' — inside."
+    ],
+    "prohibited_outcomes": [
+      "No Deepstacks entered; no Cleon met; no clerk handled (scouted only); no records read; no Rune Path.",
+      "No station approached, no square entered, no steps; nothing faint at the station.",
+      "No fight, no injury, no fragment use, no reading; no Iron Wall.",
+      "No Architect theory; no still-place theory; no six-year arithmetic.",
+      "No log closer (Ch7's); the closer is the fixed dialogue.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The crossing (bridge or ferry); the outer gate and its keeper (unnamed); the outer district's streets, inns, brokers' yards, the ferry trade; the registry office's face on the old town; the tiers' gates and the passes as objects (a token, a stamped slip — one form); the station's light.",
+      "The clerk as scouted by Seln (unnamed; a description; the provision's book); Cleon's standing as Seln reports it (registered; thirty years; in the old town) — no meeting."
+    ],
+    "approval_required": [
+      "Any new named person or place beyond Treswick, the Deepstacks, Cleon.",
+      "Any city rule beyond the bible's §City Access and the architecture's provision."
+    ],
+    "forbidden": [
+      "Any explanation of the Quieting or the designer; any Rune mechanic."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 7 (The Reading, Inward)",
+      "path": "v3-runs/book-08/drafts/ch07.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 6 — Treswick from the rise; the promise; Oryn's pricing",
+      "path": "v3-runs/book-08/drafts/ch06.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 1 — Lowmarch's board as mechanism (the register for anatomizing an institution)",
+      "path": "books/book-07-void-roads/chapters/chapter-01.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 9 card — Inside Walls (the provision worked; Lira's want) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "F1",
+      "severity": "HIGH",
+      "gate": "Packet prohibited_outcomes — \"'upside down' 0\"; charter §9 book cap",
+      "evidence": "and Cael read her book upside down across the counter out of a habit he had thought a winter would cure, and it had not.",
+      "consequence": "The book's cap on the phrase is spent. STATE_RUNNING's After-Chapter-3 correction (packet L2896) records the position exactly — 'one use so far in B8 (ch01 Oryn reads the map), zero left in ch03' — and the packet carries it forward as a zero. The packet's exceptions array is empty (packet L602), so no approved variance covers this; the annotation at packet L2917 ('Chapter 8 has one more; the book cap is reached') is a post-draft note describing this draft, not a recorded exception. Under the packet's own terms the chapter cannot close with the phrase in it, and the series loses a rationed imag",
+      "repair_target": "ch08.md L27 — render the same beat (Cael reading the innkeeper's ledger across the counter out of an uncured habit) without the capped phrase. One clause; no other sentence in the paragraph need move."
+    },
+    {
+      "id": "F2",
+      "severity": "HIGH",
+      "gate": "Packet obligations.must_include[2] — the crew's standing made concrete",
+      "evidence": "Brom, nowhere, which meant the smith, because Brom priced a town by its smith.\n\nSeln, gone, as he went, which was not out of either door that anybody saw.",
+      "consequence": "The chapter's declared central mechanism arrives at four sixths. A term scan of the draft finds 'Copper' once (currency, L45, 'shod carters' mules for coppers') and 'Bronze' once (Cleon, L75); Brom's tier and the first-tier access it buys are never on the page, and Seln's standing — Bronze, defected, a name a registry would know — is never on the page in any form. A reader cannot answer the question the chapter is built to ask, 'who can go where', for two of the six. It also strands Ch9's beat, which turns on Seln being the one member deliberately kept off the count ('a count's a thing a clerk",
+      "repair_target": "ch08.md L37 and L39 — one clause each inside the existing going-out inventory: Brom's tier and what the first tier does and does not buy him at this gate; Seln's standing and the specific reason a registry counter is the one place he does not go. The paragraphs are already a standing-by-standing catalogue; the two additions belong in the slots that exist."
+    },
+    {
+      "id": "F3",
+      "severity": "MEDIUM",
+      "gate": "Packet prohibited_outcomes — 'no Rune Path'; invention_budget.allowed",
+      "evidence": "\"Cleon. Registered historical-Path practitioner, the only one west of the Line. Rune Path. Bronze. Sixties.\"",
+      "consequence": "The packet names Cleon's reportable standing exhaustively — registered, thirty years, in the old town — and lists 'no Rune Path' among the prohibited outcomes. The draft adds his Path and his tier. The fact itself is architecture-true (the Ch11 card, packet L1158-L1161, makes Cleon Rune and stages the Path's first showing there, 'shown here in its civil face ... before Ch13's integration'), so this is a scope breach rather than a contradiction, and no mechanic is shown. The cost is small but real: Ch11's first appearance of Cleon's Path stops being a first appearance, and the chapter spends a ",
+      "repair_target": "ch08.md L75 — cut 'Rune Path. Bronze.' from Seln's report, leaving the packet-sanctioned standing (registered historical-Path practitioner, only one west of the Line, sixties, thirty years, a house in the old town). If the planning layer would rather keep it, record an exception in the packet's exceptions array rather than leave the prohibited string unexplained."
+    },
+    {
+      "id": "F4",
+      "severity": "MEDIUM",
+      "gate": "Packet scene_shape.closing_state — 'the card's fixed close verbatim and contiguous'",
+      "evidence": "\"Do we now?\"\n\nKaris looked up the bluff. She looked at it as she looked at a page — the strata; the walls as layers; the registry on the old town on the quarry on the crown — and she did not look at the light either, and he saw her not look at it, and put that in the place where he kept the things that were true about her.\n\n\"A name and a reason,\" she said.",
+      "consequence": "The card's stage direction is four words, 'looking up the bluff'; the draft expands it to a 55-word paragraph carrying two further beats (Karis reading the bluff as strata, and Cael filing her refusal to look at the light). The packet permits narration after Karis's last line and specifies contiguity for the exchange itself; the interpolation puts a full paragraph of interiority into the three-beat question-and-answer the whole chapter walks toward, so the payoff line arrives after a pause the card did not build. The two beats are good and are not the problem — their position is.",
+      "repair_target": "ch08.md L111 — reduce to the card's direction (Karis looks up the bluff) and relocate the strata reading and the not-looking beat either before 'Do we now?' at L109 or into the permitted narration after L113, so that L109 → L113 run contiguous."
+    },
+    {
+      "id": "F5",
+      "severity": "MEDIUM",
+      "gate": "Craft Core reader-trust invariant 3 (continuity persistence); charter §3.1 (the cataloguing narrator)",
+      "evidence": "she stopped at the door and looked back at the long room, at the five of them and the mule's chair, and at Cael, who was sitting at the table with the log open and the pencil in his hand",
+      "consequence": "The party is six (L9). With Karis in the doorway, five remain — Cael, Lira, Brom, Seln, Vastin. The sentence names 'the five of them' and then names Cael separately, which totals six people in a room that holds five. In a book whose narrator's first competence is counting, and in the sentence that stages the chapter's parting, an off-by-one is the kind of error a close reader catches and a careless one feels. Separately, 'the mule's chair' has no antecedent anywhere in the chapter: the mule is last placed outside, at a trough by the gate (L21, L23), and nothing establishes a chair belonging to",
+      "repair_target": "ch08.md L99 — make the tally and the singling-out consistent (either four and Cael, or five with Cael named from inside the five), and either give 'the mule's chair' an antecedent earlier in the inn scene or replace it with an object the chapter has established."
+    },
+    {
+      "id": "F6",
+      "severity": "MEDIUM",
+      "gate": "Reader Standard §Gate (VOICE_CHARTER, packet L2189); Gate 27",
+      "evidence": "\"schema_version\": \"3.1\", \"run_id\": \"b8-ch08-r1\", \"scene_id\": \"b8-ch08\", \"status\": \"DONE\"",
+      "consequence": "The prose itself passes Gate 27 cleanly (see gate_results), so this is a paperwork defect rather than a reader-facing one — but the charter makes the attestation a condition of closing the chapter, not a formality, and the report's every other obligation is itemized. Read across the run, an unattested chapter is indistinguishable from an unchecked one, which is the failure mode the gate was written to prevent. The report's deviations array instead carries an unresolved self-note, 'Word count ~3,9xx after expansion — in band', which the editor had to resolve by counting.",
+      "repair_target": "v3-runs/book-08/reports/ch08-author-r1.json — add the reader-standard attestation the charter requires (banned-word grep result plus the four-part check) before the chapter is closed. No prose change."
+    },
+    {
+      "id": "F7",
+      "severity": "LOW",
+      "gate": "Packet obligations.must_include[1] — 'the district passes rationed by rank ... shown, not explained'",
+      "evidence": "a queue of people going through it who each did a thing with their hand as they went that he could not see from here and could guess. A pass.",
+      "consequence": "Every other piece of the city's machine is rendered as a thing with edges — the toll taken at the gate, the innkeeper's column-less book, the smith's two forges, the form with three columns. The pass, which the packet names twice and the invention budget offers as a concrete object, is the one part of the mechanism that stays a guess. The chapter's second-tier gate is therefore anatomized less than its registry counter, which inverts the emphasis: the pass is the object that decides who can go where, and it is the one the reader never sees.",
+      "repair_target": "ch08.md L19 or L45 — give the pass one concrete rendering within Cael's honest sightline. L45's smith 'walked between them by a pass' is the natural slot: the object can be seen at arm's length in the outer district without Cael crossing any line."
+    },
+    {
+      "id": "F8",
+      "severity": "MEDIUM",
+      "gate": "Packet context_files next_card — 'Chapter 9 card — Inside Walls (the provision worked; Lira's want) — do not pre-pay'",
+      "evidence": "and Cael understood that she was pricing herself as labour, on purpose, in a city that would have taken her paper and put her on the second tier by noon, and that she had decided which of the two things she was going to be here before anyone had asked her, and had decided it at the foot of a stair.",
+      "consequence": "The packet assigns Ch8 the plant — 'Lira watching passes she will never hold — Ch9's want' (packet L492) — and reserves the decision for Ch9, where it is her scene rather than Cael's reading of her. L35 delivers the plant exactly as commissioned (the paper in the coat, unshown, at the foot of the stair). L91 goes past it and states the decision as already made and already dated. Ch9's want-scene then has to re-earn a resolution the reader has been handed, and it has to do so through Lira's own attention after Cael has already narrated the conclusion.",
+      "repair_target": "ch08.md L91 — keep Lira's two spoken lines and Cael's noticing that she has priced herself; cut the interpretive clause that closes the question ('had decided which of the two things she was going to be here ... and had decided it at the foot of a stair'), leaving the decision live for Ch9."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "EXC-B8-CH08-1",
+      "approver": "Planning exception (DECISIONS row 17): Seln's report names Cleon's Path (Rune) and tier (Bronze) in Chapter 8 — kept; STATE_RUNNING and Chapters 9–13 depend on it.",
+      "scope": "Planning exception (DECISIONS row 17): Seln's report names Cleon's Path (Rune) and tier (Bronze) in Chapter 8 — kept; STATE_RUNNING and Chapters 9–13 depend on it.",
+      "authority": "Planning exception (DECISIONS row 17): Seln's report names Cleon's Path (Rune) and tier (Bronze) in Chapter 8 — kept; STATE_RUNNING and Chapters 9–13 depend on it.",
+      "reason": "Planning exception (DECISIONS row 17): Seln's report names Cleon's Path (Rune) and tier (Bronze) in Chapter 8 — kept; STATE_RUNNING and Chapters 9–13 depend on it."
+    },
+    {
+      "id": "EXC-B8-CH08-2",
+      "approver": "Planning ruling (DECISIONS row 16): the mule went north with Oryn on the 281st; the crew carries the boxes until Millrace (Ch18).",
+      "scope": "Planning ruling (DECISIONS row 16): the mule went north with Oryn on the 281st; the crew carries the boxes until Millrace (Ch18).",
+      "authority": "Planning ruling (DECISIONS row 16): the mule went north with Oryn on the 281st; the crew carries the boxes until Millrace (Ch18).",
+      "reason": "Planning ruling (DECISIONS row 16): the mule went north with Oryn on the 281st; the crew carries the boxes until Millrace (Ch18)."
+    }
+  ],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch08.md",
+    "report_path": "v3-runs/book-08/reports/ch08-author-r2.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch08-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch08-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

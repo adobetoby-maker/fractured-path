@@ -1,0 +1,346 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch08-r1-editor",
+  "scene_id": "b8-ch08",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Authority / canon consistency (Craft Core §Authority; UNIVERSE_BIBLE §City Access)",
+      "state": "PASS",
+      "evidence": "Bible §City Access ('Unranked / [SHATTERED] — Unranked Districts only; cannot legally enter inner city') is honored throughout: Cael never passes the first wall; the second and third gates are seen only from below (ch08.md L17-L19, L57-L61, L103). No SECRET disclosed ahead of its reveal book: no Architect theory, no still-place theory, no six-year arithmetic, no [UNBOUND]. The Fractured Path is referred to only as 'ten things in him' (L117)."
+    },
+    {
+      "gate": "POV integrity (Craft Core reader-trust invariant 1; packet pov.mode close third, Cael)",
+      "state": "PASS",
+      "evidence": "Every fact in the chapter is sourced to Cael's eye, an inference he marks as inference ('could not see from here and could guess', L19), or a report spoken to him in scene (Seln, L69-L79). Seln's off-page reconnaissance is delivered as speech, not as narration Cael could not hold."
+    },
+    {
+      "gate": "Packet obligations — must_include (packet L478-L487)",
+      "state": "FAIL",
+      "evidence": "Six of eight obligations delivered in full (arrival dated and crossing as mechanism; the outer gate's reason; the city as mechanism; the promise kept on the page; Seln's reconnaissance with the working-party rule and the exposure exact; the irony in Cael's register; the walls felt as walls; the fixed close). Obligation 3 ('The crew's standing made concrete: who can go where') is delivered for Lira, Karis, Vastin and Cael and NOT for Brom or Seln — see finding F2. Obligation 2's 'district passes rationed by rank' is rendered only as an unseen guess — see finding F7."
+    },
+    {
+      "gate": "Packet prohibited_outcomes (packet L499-L506)",
+      "state": "FAIL",
+      "evidence": "Held: no Deepstacks entered, no Cleon met, no clerk handled, no records read, no station approached, no square or steps entered, nothing faint at the station, no fight, no injury, no fragment use, no reading, no Iron Wall, no log closer. Breached on two listed items: \"'upside down' 0\" (one use, ch08.md L27 — finding F1) and 'no Rune Path' (ch08.md L75 — finding F3)."
+    },
+    {
+      "gate": "Fixed lines verbatim (packet scene_shape.closing_state L475; card L1128)",
+      "state": "PASS",
+      "evidence": "All five fixed lines verified by exact string comparison against the draft. Word-for-word diff of the card's fixed close against ch08.md L105-L113 returns zero substitutions, zero deletions and zero reorderings; the only insertions are the attribution tags 'Cael said' and 'she said', the card's own 'A beat.', the interpolated narration at L111 (finding F4) and the permitted trailing narration at L115-L117. No fixed-line misses."
+    },
+    {
+      "gate": "Fixed close contiguity (packet L475: 'the card's fixed close verbatim and contiguous'; 'narration after her last line is permitted')",
+      "state": "FAIL",
+      "evidence": "A 55-word narration paragraph sits between 'Do we now?' (L109) and 'A name and a reason,' (L113). See finding F4."
+    },
+    {
+      "gate": "Word band 3,910-5,290 (charter §10; packet output.target_words 4600 ±15%)",
+      "state": "PASS",
+      "evidence": "Counted three ways over v3-runs/book-08/drafts/ch08.md: whitespace tokens including the chapter heading = 3,912 (the measure the author report declares, and the measure under which ch06 = 4,021 and ch07 = 3,965); whitespace tokens excluding the heading = 3,904; alphanumeric tokens with em dashes treated as separators = 3,891. Passes by a 2-word margin on the inclusive measure and falls 6 words short on the body-only measure. Recorded as a concern, not a finding."
+    },
+    {
+      "gate": "Tic caps — one-word paragraphs ≤2 (charter §9)",
+      "state": "PASS",
+      "evidence": "Counted over all 54 body paragraphs of ch08.md: 0 single-word paragraphs."
+    },
+    {
+      "gate": "Tic caps — 'the way X [verb]' ≤4 (packet L464; charter §9 caps the identical construction at 3/chapter)",
+      "state": "PASS",
+      "evidence": "3 instances, each a different construction: L13 'the way a body braces for a step that is not there'; L51 'the way Karis would have paced a perimeter'; L75 'the clerk knows him the way a gate knows a cart'. Under both the packet cap (4) and the charter's identical-construction cap (3)."
+    },
+    {
+      "gate": "Tic caps — 'upside down' 0 (packet L464, L505; STATE_RUNNING After-Ch3 correction, packet L2896)",
+      "state": "FAIL",
+      "evidence": "1 instance at ch08.md L27. See finding F1."
+    },
+    {
+      "gate": "Tic caps — 'for the length of a breath' 0 / 'at the pitch' 0",
+      "state": "PASS",
+      "evidence": "Regex scan of the full draft returns 0 for both. The nearest neighbour, 'he sat with it for a breath because it was worth a breath' (L87), is not the capped string."
+    },
+    {
+      "gate": "Anti-tic list (charter §9 measured phrases)",
+      "state": "PASS",
+      "evidence": "Scan for 'jaw tightened', 'laughed once', 'without humor', 'stomach tightened', 'stomach dropped', 'There it was', 'That was true', 'Also true', 'sounded almost', 'held this', standalone '[Name] noticed.' and 'which was, in its own way' returns 0 across the draft."
+    },
+    {
+      "gate": "Forbidden names (packet L464, L505)",
+      "state": "PASS",
+      "evidence": "Case-insensitive scan for 'Halcenvane', 'Velmere', 'Wray', 'Bracken' returns 0. 'Ostrand' is used once (L53, 'a bluff above Ostrand'), which the packet permits."
+    },
+    {
+      "gate": "Meta-voice — no 'Book', 'chapter', 'series', 'charter' (packet L464, L505)",
+      "state": "PASS",
+      "evidence": "13 hits on the word class, all diegetic or structural: the file's own heading line (L1) and twelve uses of 'book' meaning an in-world ledger or register (the gate-keeper's book L11; the innkeeper's book L27; the provision's book L33, L71, L79; Book 7's Lowmarch ledger L53; 'a promise in a book' L117). No authorial or fourth-wall register anywhere."
+    },
+    {
+      "gate": "Gate 27 — Reader Standard (owner requirement; outranks taste)",
+      "state": "PASS",
+      "evidence": "Clean language: scan for profanity, oaths and their softer cousins (damn, hell, bastard, god, lord, christ, crap, bloody) returns 0; no crude slang; no blasphemy. Violence: none in the chapter — no fight, no injury inflicted, no gore. Sexual content: none; no innuendo. Moral goodness: the crew's plan uses a standing legal provision, stated as legal on the page ('There's one way in that's legal', L71); the exposure and who answers for it are named honestly ('the practitioner answers for having signed for him', L79); Vastin refuses the advantage his papers would buy ('I will not show them to a clerk in a city on the Line to save myself a stair', L41); Lira declines to trade her paper for a tier (L35, L91); Cael accepts a low valuation without self-pity and without contempt for the people who assign it (L89, L93). Cruelty is neither shown nor admired; no adult is mocked."
+    },
+    {
+      "gate": "Reader Standard §Gate — author report must state the standard was checked (charter, packet L2189)",
+      "state": "FAIL",
+      "evidence": "v3-runs/book-08/reports/ch08-author-r1.json carries no reader-standard attestation in any field. See finding F6."
+    },
+    {
+      "gate": "Continuity and count discipline (charter §3.1 the cataloguing narrator; Craft Core invariant 3)",
+      "state": "FAIL",
+      "evidence": "The party is established as six at L9. At L99, with Karis in the doorway, the room is given as 'the five of them and the mule's chair, and at Cael' — five plus Cael in a room that holds five — and 'the mule's chair' has no antecedent. See finding F5."
+    },
+    {
+      "gate": "Do-not-pre-pay the next card (packet context_files next_card, L595-L599; Ch9 card L1141)",
+      "state": "FAIL",
+      "evidence": "Lira's Ch9 want-scene ('she prices the ladder and declines it, in a place built entirely of ladders') is stated as decided at ch08.md L91. See finding F8."
+    },
+    {
+      "gate": "Invention budget (packet L508-L520)",
+      "state": "FAIL",
+      "evidence": "Within budget: the five-arch bridge and toll-house; the outer gate and its unnamed keeper; the ring road, brokers' yards, ferry landing, rope-walk, inns; the smith's two forges; the quarry under the registry; the clerk unnamed and described. Outside the 'Cleon's standing as Seln reports it (registered; thirty years; in the old town)' allowance: 'Rune Path. Bronze.' at L75 — finding F3. No new named person or place beyond Treswick, the Deepstacks and Cleon; no Quieting or designer explanation; no Rune mechanic shown."
+    },
+    {
+      "gate": "Book-11 plant 3 carried — nothing faint at the station; the light not looked at beyond the card (packet L462)",
+      "state": "PASS",
+      "evidence": "Nothing faint or anomalous occurs at or near the station. The light is registered four times and each is an act of refusal, not attention: 'a thing he was not looking at' (L19), 'He was not looking at it' (L21), 'the thing on the crown' (L53), 'he did not look at the light' and Karis 'did not look at the light either' (L103, L111). Consistent with Ch7's established discipline (packet L3360)."
+    },
+    {
+      "gate": "Scene-closer rule — no two consecutive chapters end on the same structural move (charter §9, §11.10)",
+      "state": "PASS",
+      "evidence": "Ch7 closes on a log entry (packet L3462-L3464). Ch8 closes on dialogue plus a single narration sentence (L113-L117), with no log — as the packet requires ('the file ends on prose (no log)')."
+    },
+    {
+      "gate": "Diegetic document register (charter §3.2)",
+      "state": "PASS",
+      "evidence": "The one in-world document, the log at L93, is italicized, first-person, plain, and contains nothing its writer could not know: 'Entered by count. That's the door.' / 'It's the right price. It's what I'm worth here. I'll carry the boxes.'"
+    },
+    {
+      "gate": "Audio survival (Craft Core invariant 7; charter §8.2, §8.5)",
+      "state": "PASS",
+      "evidence": "No meaning depends on typography; the italic log reads identically aloud. No system block in the chapter. Multi-party scene at L69-L91 has four speakers and no run of more than four unattributed lines: 'Count,' Karis said (L73); 'The clerk,' Cael said (L77); 'she said' (L83); 'Seln said' (L85), with Seln's long turns anchored by 'Seln looked at Karis' and 'Seln's voice did not change'."
+    },
+    {
+      "gate": "Scene vs summary (charter §10; Craft Core §Scene and summary)",
+      "state": "PASS",
+      "evidence": "Scan for 'heard about it later', 'learned afterward', 'was told later', 'found out later', 'by the time he heard' returns 0. Seln's reconnaissance is off-page by design (the packet assigns Ch8 the glimpse, Ch9 the work) and is delivered in scene as a spoken report."
+    },
+    {
+      "gate": "Terminal metadata (charter §8.4)",
+      "state": "PASS",
+      "evidence": "Scan for 'End of Chapter', 'approximately ... words', 'word count', 'DRAFT', 'TODO' returns 0. The file ends on prose at L117."
+    },
+    {
+      "gate": "Institutions rendered as machines (charter §3.7, §6.5)",
+      "state": "PASS",
+      "evidence": "The city is shown by its mechanism at every level: the toll taken at the gate not the bridge (L5); the gate-keeper who counts and writes and does not ask, and why (L11-L15); the innkeeper's book with no column for what they are (L27); the smith with two forges and one pass between them (L45); the registry road that must cross the square because the old town has one square (L57); the provision's form with three columns and no column for hands (L71-L79)."
+    },
+    {
+      "gate": "Progression module — editor gate 5 (rivals and institutions do not freeze)",
+      "state": "PASS",
+      "evidence": "The Compact's machine operates on its own terms and against the crew's interest without being addressed by them: the tiered smith, the rationed passes, the clerk's four-hundred-year-old form, the classification bar that is 'not consulted' only because the form has no column for it (L79)."
+    },
+    {
+      "gate": "Progression module — editor gates 1, 2, 3, 4, 6, 7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, no rank change, no fragment acquisition, no training, no challenge and no setback occurs in this chapter; the packet prohibits fragment use and reading outright (L502)."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F1",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "tic cap / prohibited outcome",
+      "gate": "Packet prohibited_outcomes — \"'upside down' 0\"; charter §9 book cap",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 27,
+        "line_end": 27,
+        "quote": "and Cael read her book upside down across the counter out of a habit he had thought a winter would cure, and it had not."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch08-editor-prompt-r1.md",
+        "line_start": 464,
+        "line_end": 505,
+        "quote": "'upside down' — do not use (book cap). ... No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice."
+      },
+      "consequence": "The book's cap on the phrase is spent. STATE_RUNNING's After-Chapter-3 correction (packet L2896) records the position exactly — 'one use so far in B8 (ch01 Oryn reads the map), zero left in ch03' — and the packet carries it forward as a zero. The packet's exceptions array is empty (packet L602), so no approved variance covers this; the annotation at packet L2917 ('Chapter 8 has one more; the book cap is reached') is a post-draft note describing this draft, not a recorded exception. Under the packet's own terms the chapter cannot close with the phrase in it, and the series loses a rationed image to a beat that does not need it.",
+      "repair_target": "ch08.md L27 — render the same beat (Cael reading the innkeeper's ledger across the counter out of an uncured habit) without the capped phrase. One clause; no other sentence in the paragraph need move.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F2",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "scene obligation",
+      "gate": "Packet obligations.must_include[2] — the crew's standing made concrete",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 37,
+        "line_end": 39,
+        "quote": "Brom, nowhere, which meant the smith, because Brom priced a town by its smith.\n\nSeln, gone, as he went, which was not out of either door that anybody saw."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch08-editor-prompt-r1.md",
+        "line_start": 467,
+        "line_end": 481,
+        "quote": "the crew's spread of standing (Lira Iron, Brom Copper, Karis unranked-by-choice, Seln Bronze-defected, Vastin a Silver with no papers he'll show) determines, for the first time in three books, who can go where. ... The crew's standing made concrete: who can go where and who will not show paper (Lira; Brom; Karis; Seln; Vastin — 'papers he will not show', once; Cael — outer district only)."
+      },
+      "consequence": "The chapter's declared central mechanism arrives at four sixths. A term scan of the draft finds 'Copper' once (currency, L45, 'shod carters' mules for coppers') and 'Bronze' once (Cleon, L75); Brom's tier and the first-tier access it buys are never on the page, and Seln's standing — Bronze, defected, a name a registry would know — is never on the page in any form. A reader cannot answer the question the chapter is built to ask, 'who can go where', for two of the six. It also strands Ch9's beat, which turns on Seln being the one member deliberately kept off the count ('a count's a thing a clerk remembers', packet L2929): that decision reads as tradecraft flavour rather than as a consequence, because the exposure it answers was never established here.",
+      "repair_target": "ch08.md L37 and L39 — one clause each inside the existing going-out inventory: Brom's tier and what the first tier does and does not buy him at this gate; Seln's standing and the specific reason a registry counter is the one place he does not go. The paragraphs are already a standing-by-standing catalogue; the two additions belong in the slots that exist.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F3",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "prohibited outcome / invention budget",
+      "gate": "Packet prohibited_outcomes — 'no Rune Path'; invention_budget.allowed",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 75,
+        "line_end": 75,
+        "quote": "\"Cleon. Registered historical-Path practitioner, the only one west of the Line. Rune Path. Bronze. Sixties.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch08-editor-prompt-r1.md",
+        "line_start": 500,
+        "line_end": 511,
+        "quote": "No Deepstacks entered; no Cleon met; no clerk handled (scouted only); no records read; no Rune Path. ... Cleon's standing as Seln reports it (registered; thirty years; in the old town) — no meeting."
+      },
+      "consequence": "The packet names Cleon's reportable standing exhaustively — registered, thirty years, in the old town — and lists 'no Rune Path' among the prohibited outcomes. The draft adds his Path and his tier. The fact itself is architecture-true (the Ch11 card, packet L1158-L1161, makes Cleon Rune and stages the Path's first showing there, 'shown here in its civil face ... before Ch13's integration'), so this is a scope breach rather than a contradiction, and no mechanic is shown. The cost is small but real: Ch11's first appearance of Cleon's Path stops being a first appearance, and the chapter spends a card-reserved detail three chapters early on a line that would work without it.",
+      "repair_target": "ch08.md L75 — cut 'Rune Path. Bronze.' from Seln's report, leaving the packet-sanctioned standing (registered historical-Path practitioner, only one west of the Line, sixties, thirty years, a house in the old town). If the planning layer would rather keep it, record an exception in the packet's exceptions array rather than leave the prohibited string unexplained.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F4",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "scene obligation / closer",
+      "gate": "Packet scene_shape.closing_state — 'the card's fixed close verbatim and contiguous'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 109,
+        "line_end": 113,
+        "quote": "\"Do we now?\"\n\nKaris looked up the bluff. She looked at it as she looked at a page — the strata; the walls as layers; the registry on the old town on the quarry on the crown — and she did not look at the light either, and he saw her not look at it, and put that in the place where he kept the things that were true about her.\n\n\"A name and a reason,\" she said."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch08-editor-prompt-r1.md",
+        "line_start": 475,
+        "line_end": 475,
+        "quote": "DIALOGUE — the card's fixed close verbatim and contiguous: ... Cael: \"Do we now?\" Karis, looking up the bluff: \"A name and a reason. ...\" ... The file ends on that (narration after her last line is permitted; no log)."
+      },
+      "consequence": "The card's stage direction is four words, 'looking up the bluff'; the draft expands it to a 55-word paragraph carrying two further beats (Karis reading the bluff as strata, and Cael filing her refusal to look at the light). The packet permits narration after Karis's last line and specifies contiguity for the exchange itself; the interpolation puts a full paragraph of interiority into the three-beat question-and-answer the whole chapter walks toward, so the payoff line arrives after a pause the card did not build. The two beats are good and are not the problem — their position is.",
+      "repair_target": "ch08.md L111 — reduce to the card's direction (Karis looks up the bluff) and relocate the strata reading and the not-looking beat either before 'Do we now?' at L109 or into the permitted narration after L113, so that L109 → L113 run contiguous.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F5",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity / internal count",
+      "gate": "Craft Core reader-trust invariant 3 (continuity persistence); charter §3.1 (the cataloguing narrator)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 99,
+        "line_end": 99,
+        "quote": "she stopped at the door and looked back at the long room, at the five of them and the mule's chair, and at Cael, who was sitting at the table with the log open and the pencil in his hand"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "Six of them on it, and the mule, in the order they walked. Seln first, over the hump ... Lira. Brom on the foot. Karis with the flat ... Cael. And Vastin, at the back again"
+      },
+      "consequence": "The party is six (L9). With Karis in the doorway, five remain — Cael, Lira, Brom, Seln, Vastin. The sentence names 'the five of them' and then names Cael separately, which totals six people in a room that holds five. In a book whose narrator's first competence is counting, and in the sentence that stages the chapter's parting, an off-by-one is the kind of error a close reader catches and a careless one feels. Separately, 'the mule's chair' has no antecedent anywhere in the chapter: the mule is last placed outside, at a trough by the gate (L21, L23), and nothing establishes a chair belonging to it in the inn's long room.",
+      "repair_target": "ch08.md L99 — make the tally and the singling-out consistent (either four and Cael, or five with Cael named from inside the five), and either give 'the mule's chair' an antecedent earlier in the inn scene or replace it with an object the chapter has established.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F6",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "process gate / reader standard",
+      "gate": "Reader Standard §Gate (VOICE_CHARTER, packet L2189); Gate 27",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/reports/ch08-author-r1.json",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "\"schema_version\": \"3.1\", \"run_id\": \"b8-ch08-r1\", \"scene_id\": \"b8-ch08\", \"status\": \"DONE\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch08-editor-prompt-r1.md",
+        "line_start": 2189,
+        "line_end": 2189,
+        "quote": "**Gate.** Before any chapter is closed, the loop's `gates` grep for the banned-word list must return zero, and the author report must state that the reader standard was checked. A chapter that fails this gate is not closed, whatever else it passes."
+      },
+      "consequence": "The prose itself passes Gate 27 cleanly (see gate_results), so this is a paperwork defect rather than a reader-facing one — but the charter makes the attestation a condition of closing the chapter, not a formality, and the report's every other obligation is itemized. Read across the run, an unattested chapter is indistinguishable from an unchecked one, which is the failure mode the gate was written to prevent. The report's deviations array instead carries an unresolved self-note, 'Word count ~3,9xx after expansion — in band', which the editor had to resolve by counting.",
+      "repair_target": "v3-runs/book-08/reports/ch08-author-r1.json — add the reader-standard attestation the charter requires (banned-word grep result plus the four-part check) before the chapter is closed. No prose change.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F7",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "scene obligation",
+      "gate": "Packet obligations.must_include[1] — 'the district passes rationed by rank ... shown, not explained'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 19,
+        "line_end": 19,
+        "quote": "a queue of people going through it who each did a thing with their hand as they went that he could not see from here and could guess. A pass."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch08-editor-prompt-r1.md",
+        "line_start": 480,
+        "line_end": 510,
+        "quote": "Treswick anatomized as MECHANISM (charter §6.5, §3.7): the three tiers and their gates; the district passes rationed by rank ... — shown, not explained. ... the tiers' gates and the passes as objects (a token, a stamped slip — one form)"
+      },
+      "consequence": "Every other piece of the city's machine is rendered as a thing with edges — the toll taken at the gate, the innkeeper's column-less book, the smith's two forges, the form with three columns. The pass, which the packet names twice and the invention budget offers as a concrete object, is the one part of the mechanism that stays a guess. The chapter's second-tier gate is therefore anatomized less than its registry counter, which inverts the emphasis: the pass is the object that decides who can go where, and it is the one the reader never sees.",
+      "repair_target": "ch08.md L19 or L45 — give the pass one concrete rendering within Cael's honest sightline. L45's smith 'walked between them by a pass' is the natural slot: the object can be seen at arm's length in the outer district without Cael crossing any line.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F8",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "next-card pre-payment",
+      "gate": "Packet context_files next_card — 'Chapter 9 card — Inside Walls (the provision worked; Lira's want) — do not pre-pay'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 91,
+        "line_end": 91,
+        "quote": "and Cael understood that she was pricing herself as labour, on purpose, in a city that would have taken her paper and put her on the second tier by noon, and that she had decided which of the two things she was going to be here before anyone had asked her, and had decided it at the foot of a stair."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch08-editor-prompt-r1.md",
+        "line_start": 1141,
+        "line_end": 1141,
+        "quote": "Lira's want-scene: back inside walls, she watches ranked practitioners cross the tiers on passes she'll never hold, and measures herself against the ladder she walked away from at Norhold. ... she prices the ladder and declines it, in a place built entirely of ladders, and writes nothing down because she is not the one who keeps a log. ... The scene is about her"
+      },
+      "consequence": "The packet assigns Ch8 the plant — 'Lira watching passes she will never hold — Ch9's want' (packet L492) — and reserves the decision for Ch9, where it is her scene rather than Cael's reading of her. L35 delivers the plant exactly as commissioned (the paper in the coat, unshown, at the foot of the stair). L91 goes past it and states the decision as already made and already dated. Ch9's want-scene then has to re-earn a resolution the reader has been handed, and it has to do so through Lira's own attention after Cael has already narrated the conclusion.",
+      "repair_target": "ch08.md L91 — keep Lira's two spoken lines and Cael's noticing that she has priced herself; cut the interpretive clause that closes the question ('had decided which of the two things she was going to be here ... and had decided it at the foot of a stair'), leaving the decision live for Ch9.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "Word band is passed by two words on the inclusive measure (3,912) and missed by six on the body-only measure (3,904, heading excluded). Any compression during repair drops the chapter out of band; the two obligation repairs in F2 and F7 should be additive rather than substitutional. For reference at the same measure: ch06 = 4,021, ch07 = 3,965, target 4,600.",
+    "The packet's must_include[6] wording ('after nine months in a country that didn't') and the Ch8 architecture card's wording ('after a year and a half in a country that didn't', packet L1126) disagree. The draft follows the packet — 'He had spent nine months in a country that did not read him' (L53) — which is also the figure the timeline supports (day 282 past the Line). This is correct in the prose; the stale figure is in the architecture card and should be corrected at the planning layer before Ch9 inherits it.",
+    "'A beat.' at L113 is reproduced from the card as prose. The card uses it as a direction to the author; on the page it reads as a stage instruction rather than narration, and it is the one place in the chapter where the register slips toward script. It survives being read aloud, so it is not an §8.2 failure, but it is worth a decision rather than an inheritance.",
+    "'He had lived at the foot of a city once, at fourteen, for a season' (L15) is personal history I could not verify against any document in this packet. Searched scope: the packet's canon, architecture, registry, state, Ch6, Ch7 and the Book 7 Ch1 reference; method: full-text term scan plus read. If it is new backstory rather than Books 1-3 material, charter §6.4 and §11.7 want it flagged and approved rather than minted in passing; if it is established, no action.",
+    "The station is rendered only as absence — 'a thing he was not looking at' (L19), 'the thing on the crown' (L53), 'the thing on it with its light' (L103). 'Arbiter' and 'pale' both return zero. This is the right reading of Book-11 plant 3 and of the promise, and the station's function is still delivered ('it read everyone who walked up its stairs', L53), so I am not raising it as an obligation miss. Flagging it only so a later repair pass does not 'fix' the avoidance into description.",
+    "The scaffold 'because a man who is going to keep to a place should ___' runs twice, at L17 ('know the shape of what he is keeping out of') and L49 ('walk its edges'). Under the charter §9 cap of three, and the repetition is arguably deliberate structure for the two halves of the same discipline — but a third use would breach, and the pair is close enough to read as a template if a reader notices the first.",
+    "Seln's plan requires the clerk to be 'handled so that he never thinks to ask' (L79). This is the chapter's only morally grey ground under Gate 27, and it currently reads clean: the provision is stated as legal, nobody is lied to on the page, and the person who would answer for it is named. Ch9 works this machine rather than glimpsing it, so the line between using a form as written and deceiving an official will have to be held explicitly there.",
+    "The author report's deviations array carries 'Word count ~3,9xx after expansion — in band' as an unresolved self-note. A declared count with its measurement method would have saved the editor seat a count and would have surfaced the two-word margin at drafting time."
+  ],
+  "strengths": [
+    "The city is delivered as mechanism at every level the packet asked for and in the register charter §3.7 names: the toll-house empty 'because the toll-house was for the road and the road's toll was taken at the gate' (L5); the gate-keeper who 'counted, and wrote, and did not ask' followed three strides later by why (L11-L15); the innkeeper's book with no column for what they are (L27); the smith with two forges, one pass and 'Same hands. Different price. He doesn't like it either.' (L45). This is Lowmarch's board rendered for a Compact city, and it holds.",
+    "The provision is stated as a machine and not as an explanation: three columns, a count and no column for hands, four hundred years unredrawn, and the exposure named exactly — 'If a clerk asks a hand for paper the bar applies and the practitioner answers for having signed for him' (L79). The reader can work the loophole themselves before Cael does, which is what makes L89 land.",
+    "The chapter's central irony arrives as Cael's own filing rather than as authorial comment: 'to be entered on a four-hundred-year-old form as a number ... which was the one thing a Compact city allowed an unranked body to be, and was exactly what the city, looking at him from the top of its stairs, thought he was worth' — and then the log takes it plainly, 'It's the right price. It's what I'm worth here. I'll carry the boxes.' (L89, L93). Emotion through procedure, per charter §3.3, without a declared feeling anywhere in the draft.",
+    "The promise is kept as geometry, not as sentiment: the road to the registry must cross the square because the old town has one square (L57), Cael could not climb the stair anyway, and the chapter still makes him refuse the way round the bluff and catalogue himself refusing it (L59). A promise tested where it would have cost nothing is a promise the reader can bank.",
+    "The mule at L23 — 'The city had a column for the mule. It was the same column it had for him' — is one exact image doing the work three comparisons would do worse, and it earns 'there was a lesson in that he did not want and was going to take anyway' rather than announcing it.",
+    "Vastin's single statement (L41) is placed and paid exactly as the packet asked: said once, unprompted, closed by Cael's refusal to answer it — 'he had said it once, and once was the number' (L43). The man's 'it is the first honest district I have stood in' does character work no explanation could.",
+    "The reversal at L53 is the chapter's real turn and it is earned by Book 7 rather than asserted: a country that did not read him was also a country that did not answer, and he 'found that he had missed it, and did not know what to do with having missed it, and wrote that down.' The walls are felt as walls without a sentence saying so.",
+    "The fixed close is word-for-word verbatim, the chapter ends on prose with no log, and the last line — 'at the foot of a stair, with a satchel on his shoulder and ten things in him and a promise in a book, and waited' — closes on changed pressure without explaining why it matters."
+  ]
+}

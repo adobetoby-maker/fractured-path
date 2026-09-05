@@ -1,0 +1,321 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch07-r1-editor",
+  "scene_id": "b8-ch07",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {"gate": "Craft Core — Authority and conflict handling (packet vs. prior closed prose + STATE_RUNNING)", "state": "FAIL", "evidence": "Ch07 line 9 puts a mule on the west road on the 281st. Ch06 (previous_scene, required) ends: 'She took the mule's rope. \"Millrace.\" Then she turned the mule's head north-west and went ... a woman and a mule and a roll, getting smaller.' STATE_RUNNING 'After Chapter 6': 'the mule a quarter-mile up the north track.' Ch04/Ch05 establish exactly one mule ('the seven of them and the mule'). See F-001."},
+    {"gate": "Craft Core — Reader-trust invariant 3 (continuity persistence)", "state": "FAIL", "evidence": "The self-reading's staged form is changed (line 23, hands on knees, 'nothing to put them on') against B7 Ch14 and Ch22 ('One hand on the sternum, the other under his back as far as it would go'); and four dated spans in the chapter (nine days, four days north, three times in a week, five times) do not reconcile with the dated logs. See F-002, F-003, F-004, F-005, F-006."},
+    {"gate": "Craft Core — Reader-trust invariant 1 (point-of-view integrity)", "state": "PASS", "evidence": "Narration stays inside Cael's attention and vocabulary throughout; the still place is reported as sensation only ('no flow, no change, no temperature', line 37); the one inference that exceeds knowledge is marked as inference ('the shape of a thing he did not want to have arrived at yet', line 61)."},
+    {"gate": "Craft Core — Reader-trust invariant 2 (causal legibility) and 4 (earned resolution)", "state": "PASS", "evidence": "The chapter's turn is produced by a tested procedure, not by luck: 'He tested it, because a finding that was not tested was a guess wearing a finding's coat ... and ran the reading a fifth time' (line 53). Nothing is resolved by an unestablished capability."},
+    {"gate": "Craft Core — Reader-trust invariant 5 (consequential scene)", "state": "PASS", "evidence": "Knowledge state changes (the instrument is wrong: line 55) and relationship state changes (line 101, 'It was not friendship ... It was the ground the thing grows in')."},
+    {"gate": "Craft Core — Reader-trust invariant 7 / Voice Charter §8 (audio survival)", "state": "PASS", "evidence": "No typography-dependent meaning; the log at lines 109-111 is plain first-person and reads aloud intact. Sentence profile (168 sentences, mean 23.5 words, 11 over 80) matches Ch06 (mean 23.8, 11 over 80) and B7 Ch22 (24.5, 10 over 80) — house voice, not drift."},
+    {"gate": "Packet obligations — must_include (all seven)", "state": "PASS", "evidence": "Day dated and placed (line 5 wayposts; line 109 'Two hundred and eighty-first day'); the reading as scene (lines 27-39); the Oryn distinction stated (line 21); the wrong-instrument suspicion (lines 45-55); the no-deflection passage (line 63); Cael/Vastin, instrument and error, one true thing each (lines 79, 89, 95, 101); close on the log (line 111)."},
+    {"gate": "Packet fixed line — closing LOG verbatim", "state": "PASS", "evidence": "Exact string comparison of the packet's closing_state text against draft line 111 returns True with zero deviation, including the em dash and the spelling 'color'. No other fixed line is specified in the packet; the Chapter 7 card's close-on-log text is the same string and also matches."},
+    {"gate": "Packet prohibited_outcomes — still place, station, fight, city, Architect, vote, B6 sentence, closer type", "state": "PASS", "evidence": "'structure' 0, 'instruction' 0, 'Architect' 0 (the single hit is 'architecture', line 47, which is B7's sanctioned register word), 'Iron Wall' 0, 'UNBOUND' 0, 'primordial' 0, 'before the Paths' 0. The still place is read around and not touched (line 37); no fragment notice; no fight; no injury; no city entered; no vote; the B6 sentence is not re-quoted; the closer is the log, rotating correctly off Ch06's image."},
+    {"gate": "Packet prohibited_outcomes — capped phrases 0", "state": "FAIL", "evidence": "Line 39: 'He held at the edge for the length of a slow breath'. The capped phrase 'for the length of a breath' is set to 0 for this chapter; the draft carries it with one word inserted. Voice Charter §9: 'Fixing a tic with a fresh repeated phrase is the same defect wearing a different coat.' See F-007."},
+    {"gate": "Tic caps — one-word paragraphs (cap 2)", "state": "PASS", "evidence": "Counted over all 51 prose paragraphs: 1 one-word paragraph — '\"Yes.\"' (line 81)."},
+    {"gate": "Tic caps — 'the way X [verb]' (cap 4)", "state": "PASS", "evidence": "3 instances, all distinct: 'the way water goes into a channel' (line 27), 'the way a river goes round a stone' (line 37), 'in the way a man knows the weather' (line 91). No verbatim repetition."},
+    {"gate": "Tic caps — 'upside down' 0, 'at the pitch' 0", "state": "PASS", "evidence": "grep -oic over ch07.md returns 0 for both."},
+    {"gate": "Forbidden names — Halcenvane, Velmere, Wray, Bracken", "state": "PASS", "evidence": "String count over the full draft: Halcenvane 0, Velmere 0, Wray 0, Bracken 0."},
+    {"gate": "Meta-voice — no 'Book', 'chapter', 'series', 'charter' in prose", "state": "PASS", "evidence": "Zero hits in prose. The only match is the structural title line 1, '# Chapter 7 — The Reading, Inward', which is the file's heading and not narration."},
+    {"gate": "Voice Charter §10 / packet word band 3,910-5,290", "state": "PASS", "evidence": "3,954 prose words excluding the heading and section rules (3,965 counting them). Inside the band by 44 words; 14.0% under the 4,600 target."},
+    {"gate": "Voice Charter §8.4 — no authoring metadata in the chapter file", "state": "PASS", "evidence": "grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns only the in-prose verb in line 97 ('watched him not draft anything'). No metadata footer."},
+    {"gate": "Voice Charter §9 — scene-closer rotation", "state": "PASS", "evidence": "Ch06 closed on an image (the fork at first light); Ch07 closes on the log (line 111). No immediate repeat."},
+    {"gate": "Voice Charter §3.1 (cataloguing narrator) and §3.2 (diegetic document)", "state": "PASS", "evidence": "Explicit catalogue at line 5 (the city by the wayposts) and line 9 (the crew on the road). The log (lines 109-111) is italic, first-person, plain-register, and contains nothing its in-world writer could not know."},
+    {"gate": "Voice Charter §3.3 / §7.2 — no feeling- or growth-declaration", "state": "PASS", "evidence": "grep for 'felt (sad|angry|afraid|happy|a wave of)' and 'realized how much he had (changed|grown)|was no longer the (boy|girl|person) who' returns zero. 'He was afraid of that' (line 63) is the packet-required Gate 25 statement, not a somatic shorthand."},
+    {"gate": "Voice Charter §3.8 — no modern idiom", "state": "PASS", "evidence": "grep for 'okay,? so|literally|basically|gonna|guys|whatever' returns zero."},
+    {"gate": "THE AUTHOR Gate 25 — scheduled quiet / processing without deflection", "state": "PASS", "evidence": "Line 63: 'He was afraid of that. He wrote it down, later, in the plain hand, because it was true ... At the post he sat with it ... and did not catalogue it, and did not turn it into a count, and let it be what it was.' The deflection instrument is named and refused on the page."},
+    {"gate": "THE AUTHOR Gate 27 — Reader Standard (thirteen-year-old reader)", "state": "PASS", "evidence": "Banned-word grep (damn/hell/bastard/crap/god/lord/jesus/christ/bloody/piss/arse/ass/shit/sucks/screw/freak) returns zero. No violence, no injury, no gore, no sexual content, no innuendo. Conduct is decent throughout: Cael keeps a healer's order (line 21), refuses to guess (line 61), and withholds forgiveness honestly rather than cheaply (line 91, 'He did not forgive it. He had not been asked to'). Vastin's confession names his own wrong as wrong ('That is a lie I wrote in my own hand', line 89). Content passes; the author report's required declaration is missing — see F-009."},
+    {"gate": "Module PROGRESSION — editor gates 1-7", "state": "PASS", "evidence": "No advancement occurs; the chapter's movement is human-track (Progression gate 3: progress changes something outside the measuring system). The setback — four readings spent on the wrong instrument — is metabolized into changed behaviour: 'he did not go back for a second look' (line 43) and the decision to hand the question to a stranger (line 61). Gate 7 satisfied."},
+    {"gate": "Module LITRPG — editor gates 1-7", "state": "NOT_APPLICABLE", "evidence": "No system display, notification, sheet or value appears in the chapter. The reading is rendered entirely as sensation per the packet's charter §5.1 instruction ('no stat block'); the fragment inventory is spoken in the log's words at line 29, not displayed."},
+    {"gate": "Packet invention_budget — 'no new institutional facts' in the exchanged true things", "state": "NEEDS_HUMAN_JUDGMENT", "evidence": "Vastin's confession (line 89) supplies an order to read Cael a second time, a falsified line in an official file, and an escalation ('I sent it up. I let it become a designation'). The author report flags this as invention within the budget; none of it is in the supplied canon, arc or state. It is also the chapter's strongest beat. Planning must approve or narrow it. See F-008."}
+  ],
+  "findings": [
+    {
+      "id": "F-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity/authority-conflict",
+      "gate": "Craft Core — Authority and conflict handling; Reader-trust invariant 3 (continuity persistence)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "Six of them on the road. The mule with Karis's boxes on it, and the place on the mule's other flank where a healer's kit had been for nine days and was not."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "She took the mule's rope. \"Millrace.\" / Then she turned the mule's head north-west and went, and did not look back ... a woman and a mule and a roll, getting smaller."
+      },
+      "consequence": "Ch06 ends at first light on the 281st with Oryn leading the crew's only mule north; STATE_RUNNING 'After Chapter 6' records 'the mule a quarter-mile up the north track', and Ch04/Ch05 establish one animal only ('the seven of them and the mule'; 'Seven people and an animal at a carter's halt'). Ch07 is the same day and puts that mule on the west road carrying Karis's boxes. A reader who has just watched the mule leave meets it again six hours later going the other way. Ch06 also shows Oryn's kit as a shoulder roll ('a woman and a mule and a roll'), so 'a healer's kit had been' on the mule's flank contradicts the same sentence. The error is not local: the packet's own knowledge_boundary asserts 'one mule ... Karis's boxes on the mule', and ch08.md already carries the mule eight times, while the Ch09 state entry has the boxes carried by four hands.",
+      "repair_target": "Adjudicate at planning, then repair in one direction. Either (a) Ch07 drops the mule and the boxes are carried — which is what the Ch09 'FOUR HANDS' entry already assumes — or (b) Ch06 and the Ch04/Ch05 one-animal count are amended to give the crew a second animal. Correct the packet's knowledge_boundary either way before Ch08 is rechecked.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity/mechanics",
+      "gate": "Craft Core — Reader-trust invariant 3 (continuity persistence); Packet knowledge_boundary (THE READING, B7 Ch13)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "Both hands. Not on anything — on himself there was nothing to put them on; he put them flat on his own knees, which was the form she had shown him, and let the tenth thing do what it did."
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-22.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "He went in as she went in. One hand on the sternum, the other under his back as far as it would go, which was not far; the attention arriving; going under the hand; going along."
+      },
+      "consequence": "Both staged self-readings in Book 7 put one hand on the sternum and one under the back, and Ch22 names that as Oryn's own form ('He went in as she went in'; Ch14: 'one hand flat on his sternum and the other under his back as far as it would go'). Ch07 asserts the opposite twice in one sentence — that there was nothing on himself to put hands on, and that knees were 'the form she had shown him'. It also weakens the chapter's own centre: Ch22 locates the still place 'near the middle — under where her front hand had been on a table', so the front hand's position is load-bearing for the going-around the chapter then stages at line 37. A reader coming from Book 7 hits a changed procedure at the exact moment the procedure is the subject.",
+      "repair_target": "Restore the established contact form at line 23 (sternum and under the back, seated against the post), and cut the claim that there was nothing on himself to put hands on. If a seated road-side variant is wanted, have Cael note the variance against the form Oryn showed him rather than assert knees as that form.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity/timeline",
+      "gate": "Craft Core — Reader-trust invariant 3; Voice Charter §3.1 (the cataloguing narrator's counts)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "the place on the mule's other flank where a healer's kit had been for nine days and was not"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/STATE_RUNNING.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "After Chapter 4 ... the border road; the cut below the shoulder hold (the 278th-279th) ... After Chapter 6 ... the fork-stone (the 280th evening-281st first light)"
+      },
+      "consequence": "Neither reading of the sentence survives the dated ledger. If the kit had been on the mule for nine days, the road began on the 278th and this is the 281st — four days. If the kit has been gone nine days, Oryn left at first light this same morning — hours. The narrator's defining competence is counting; a wrong span in the chapter's opening inventory is exactly the kind of number a returning reader checks against the log dates printed at the foot of every chapter.",
+      "repair_target": "Replace 'nine days' with the span the ledger supports (the road's four days), or recast the detail without a count. Resolve alongside F-001, since the sentence may not survive that repair at all.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity/timeline",
+      "gate": "Craft Core — Reader-trust invariant 3 (continuity persistence)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "and a healer four days north who had put her hands on him five times and got a floor"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/STATE_RUNNING.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "The fork at first light: the mule a quarter-mile up the north track; Cael turned at a quarter-mile ('He had done that once')."
+      },
+      "consequence": "Oryn turned north at first light on the 281st and the reading is run at the six-mile post the same day. She is at most a day up the track, not four days north. The packet's opening_state fixes this as 'the 281st: Oryn north at first light', so the phrase contradicts the chapter's own dating and the previous chapter's close.",
+      "repair_target": "State her distance in terms the day supports (a morning's walk north; a track she turned onto at first light), or convert the phrase to her destination rather than her position — 'a healer on a north circuit', 'a healer three weeks from Millrace'.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity/count",
+      "gate": "Craft Core — Reader-trust invariant 3; Packet payoffs (Oryn's 'lie still when I say' / 'stop')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 21,
+        "line_end": 21,
+        "quote": "She had said it at a marsh with her hands on him and her face the colour it went, and she had said it about the still place ... because she had watched him go at it three times in a week like a tongue at a tooth"
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-22.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "Second reading. The first was the sack at Thornwater. She said three, on different days, and then all of it at once. Before dawn makes three. ... She took her wrist back, not quickly, and looked at it, and then at him. \"Write it down and stop touching it. Things you keep touching don't heal.\""
+      },
+      "consequence": "Two errors in one sentence. (a) The three self-readings are dated in the logs as the hundred and second (Thornwater loft), the hundred and nineteenth (the marsh, night) and the hundred and twentieth (before dawn) — eighteen days, not a week. (b) The order was given with Cael's hand on Oryn's wrist, immediately after she withdrew it; 'with her hands on him' reverses the staging of the series' most-cited healer moment, and 'her face the colour it went' has no basis in the scene. The chapter leans its whole permission structure on remembering this moment accurately, so a reader who does remember it loses confidence at the point where the chapter most needs it.",
+      "repair_target": "Correct the span to the dated one (three readings across eighteen days, two of them consecutive) and restore the staging — his hand on her wrist, hers taken back, the order given after. Drop or re-source 'her face the colour it went'.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-006",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity/state",
+      "gate": "Craft Core — Reader-trust invariant 3 (continuity persistence)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "a healer four days north who had put her hands on him five times and got a floor"
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-22.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "\"Not me in you. You in me. I've had my hands in you twice and I've been told what you found in yourself once, by the log ...\""
+      },
+      "consequence": "Oryn's own count at the marsh is twice. Since then the Book 8 ledger has carried Cael as explicitly unread — 'CAEL — whole, UNREAD (the one thing I'm walking up that road owing)' at the Ch06 fork, with the Ch06 card stating 'the deep reading she has still never managed to run on him'. 'Five times and got a floor' both inflates her count and implies she has repeatedly reached the still place herself, which is the one thing the book has been withholding for the Millrace rendezvous. This is a separate defect from F-004 and survives any repair to the 'four days north' clause.",
+      "repair_target": "Bring the count back to what the ledger holds (twice, and what she got was told to her rather than found), and keep the deep reading unspent so the Millrace payoff is still owed.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-007",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "voice/tic-cap",
+      "gate": "Packet prohibited_outcomes (capped phrases 0); Voice Charter §9 — Anti-Tic List",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 39,
+        "line_end": 39,
+        "quote": "He held at the edge for the length of a slow breath, and then he took the hands off his knees, and the current went back into them"
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "Rule: any somatic/beat phrase appearing more than 3 times per book is a defect — including new phrases invented to replace an old one. Fixing a tic with a fresh repeated phrase is the same defect wearing a different coat; vary the replacement or cut the beat."
+      },
+      "consequence": "The packet sets 'for the length of a breath' at zero for this chapter and the POV knowledge_boundary repeats it ('capped phrases ... for the length of a breath — avoid'). The draft carries the phrase intact with 'slow' inserted, which is the charter's named evasion. It also sits on the chapter's most important beat — the hold at the edge of the still place — so the one moment the reader is meant to feel as unique arrives in the series' most worn measure of time.",
+      "repair_target": "Replace the measure at line 39 with something the scene owns — the river's sound below, a count he does not take, the post against his back — and keep the capped construction at zero.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-008",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "invention-budget/canon",
+      "gate": "Packet invention_budget ('no new institutional facts'); Craft Core — Creative latitude",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 89,
+        "line_end": 89,
+        "quote": "I declined to read you a second time, at a table, when I was ordered to. You know that. The file says I found the first reading sufficient. That is a lie I wrote in my own hand, and I have written very few."
+      },
+      "comparison_evidence": {
+        "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "the refused signature landing in the record as one procedural line — evaluation-protocol certification: declined by the evaluator of record; proceeding on the presiding seat's authority — the Archmarshal's withheld name a silence every registry-literate person on the continent will read."
+      },
+      "consequence": "The invention budget allows 'one true thing' each 'about being the instrument' with 'no new institutional facts'. This speech supplies three: a standing order to read Cael a second time, a falsified entry in an official file, and the escalation that 'let it become a designation'. It also collides with the one decline Book 6 put on the record, which is logged openly as a decline rather than papered over as sufficiency — a registry-literate reader will read the two as the same event and find them incompatible. Earlier in the same speech line 75 adds a fourth ('I know the name of the man who carried your satchel out of the residence, because I ordered it looked into'). This is the chapter's strongest beat and should not be cut on an editor's judgement alone.",
+      "repair_target": "Take to planning for an explicit exception, or narrow the confession to conduct and interior — that he would not be the man who decided what the first reading meant, and that he sent it up — without the falsified file line and the ordered inquiry. If the exception is granted, record which decline this is and how it sits beside Book 6's on-record refusal, so Ch08+ do not inherit an unresolved second version.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "process/gate-declaration",
+      "gate": "THE AUTHOR Gate 27 — Reader Standard (procedural half); Voice Charter Reader Standard",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/reports/ch07-author-r1.json",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "\"deviations\": [\"Vastin's confession about the declined reading is a new interior fact for him (consistent with B4/B6: he declined a second reading and 'sent it up'); flagged for the editor as invention within the budget's 'one true thing'.\"], \"blockers\": []"
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "Gate. Before any chapter is closed, the loop's gates grep for the banned-word list must return zero, and the author report must state that the reader standard was checked. A chapter that fails this gate is not closed, whatever else it passes."
+      },
+      "consequence": "The content half of Gate 27 passes on this seat's own check (banned-word grep zero; no gore, no sexual content, conduct decent). The declaration half does not: ch07-author-r1.json contains no statement that the reader standard was checked. The gate is written as binary and blocks closing, so the chapter cannot be closed on the record as it stands even though the prose is clean.",
+      "repair_target": "Author report to carry an explicit reader-standard line (grep result and a one-line conduct/violence/sexual-content confirmation) on the next revision.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-010",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity/referent-ambiguity",
+      "gate": "Craft Core — Reader-trust invariant 3; Voice Charter §8.2 (meaning must survive narration)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 11,
+        "line_end": 11,
+        "quote": "because Lira had a thing of her own about the tops of walls, and had had it since a hall at sixteen, and was still carrying it at nineteen on a kept road with two arms"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 31,
+        "line_end": 31,
+        "quote": "He had not run it since the marsh, and the marsh had been the day after a hall, with two of the ten spent to the frame and the ribs saying so"
+      },
+      "consequence": "The chapter uses the bare oblique 'a hall' twice for the Drowned Hall, roughly five months back (line 29, 'had been quiet since a hall'; line 31, 'the marsh had been the day after a hall'), and once at line 11 for an event three years back. On the page the third use reads as the same hall, which would make Lira sixteen five months ago and nineteen now; aloud, where the reader has no page to look back at, the collision is total. Lira's age is also not fixed anywhere in the supplied context, so 'nineteen' cannot be verified from the packet.",
+      "repair_target": "Distinguish the two halls at line 11 by giving Lira's the year, the place, or a different noun; and confirm Lira's age against the registry or Book 5-6 before the number is fixed in prose.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-011",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "prohibited-outcome/invention-budget",
+      "gate": "Packet prohibited_outcomes ('no station approached or looked at'); invention_budget approval_required ('Any statement about what the station does or would do')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 105,
+        "line_end": 105,
+        "quote": "with the city across the water close enough now to have a colour and the colour going out of it as the light went, and the light on its crown not going out, because it was not that kind of light"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/STATE_RUNNING.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "The rise: TRESWICK — a bluff with the river round its foot, three walls in tiers, three gates, a pale steady light on the crown; Cael did not look at it."
+      },
+      "consequence": "The clause asserts a property of the station's light — that it does not go out because of the kind of light it is — one sentence before line 107 states 'He did not look at it.' Ch06 establishes the light as 'pale steady', so the fact is close to canon, but the causal claim about its nature is a statement about the station that the invention budget puts behind approval, and it is made by a viewpoint that has just been told not to look. The chapter's own discipline (line 7, 'a thing you do not look at is a thing you are always aware of the location of') is a stronger and cheaper way to carry the same pressure.",
+      "repair_target": "Reduce to what peripheral awareness supports — the light still there when the colour has gone — and drop the explanation of what kind of light it is.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-012",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "production-hygiene/orthography",
+      "gate": "Voice Charter §8 (audio-first production hygiene); Packet fixed line",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 105,
+        "line_end": 111,
+        "quote": "close enough now to have a colour and the colour going out of it ... [line 111] Tomorrow. The walls are close enough now to have a color."
+      },
+      "comparison_evidence": {
+        "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+        "line_start": 1,
+        "line_end": 1,
+        "quote": "Close on (log): \"... Tomorrow. The walls are close enough now to have a color.\""
+      },
+      "consequence": "The series body spells the word 'colour' (Ch06 twice; the Book 7 chapters supplied here once), and this draft uses 'colour' at lines 5 and 105. The packet's fixed log text spells it 'color', six lines later, in a near-repeat of the same phrase. The author was right to reproduce the fixed line exactly; the clash is the packet's, and it will be visible to a copyeditor and to any reader who sees the two sentences together.",
+      "repair_target": "Planning decision, not an author repair: either amend the card's fixed text to 'colour' and reissue the packet, or record the American spelling as a deliberate feature of Cael's hand in the log. Do not let the author silently alter the fixed line.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Word count is 3,954 prose words (3,965 counting the heading and section rules) against a 4,600 target — inside the 3,910-5,290 band by 44 words, and 14.0% under target. The margin is thin enough that any compression during repair will drop the chapter out of band. The Vastin scene is the fullest movement; the road-down and the Lira beat (lines 3-13) are the thinnest and are where length could honestly be added if repairs cost words.",
+    "The packet's own knowledge_boundary is the probable source of F-001 ('one mule (Oryn's kit gone north with her; Karis's boxes on the mule)'). ch08.md already carries the mule eight times while the Ch09 state entry has the boxes going up the tiers in four hands. This needs a single planning ruling applied across Ch07-Ch08 rather than a per-chapter patch.",
+    "Line 29: 'Ember, small and hot and exact, Karis's, that he had never once used and could feel the whole length of.' This is an absolute claim across five books of deployment. The supplied context cannot verify it (B7 Ch14's log records 'Deployment notes current on all ten' without per-fragment history). The verifier should check the fragment deployment ledger before this stands.",
+    "Sentence profile is house voice, not drift — 168 sentences, mean 23.5 words, 11 over 80, against Ch06's mean 23.8 with 11 over 80 and B7 Ch22's 24.5 with 10 over 80. The one place it costs something is line 29, a 263-word paragraph naming all ten currents with no short-sentence relief anywhere in it; it is also the paragraph a narrator must carry in a single breath-managed take. Worth a compression pass at the line-edit stage, not a structural repair.",
+    "Small ordering wobble: line 5 catalogues the city forward to the three-mile post, then line 17 returns to the six-mile post for the reading. The section rule at line 15 covers it, but the reader briefly walks the same road twice.",
+    "Vastin's 'at fifty-one' (line 89) reads correctly against the state correction of 2026-09-05 (fifty-three now; fifty-one at B6 Ch14, ~sixteen months back), so it is not a defect here. Note separately that the Book 8 architecture's Chapter 10 card still says Cael 'watches a man learn it at fifty-one' in the present — that line is now stale and should be corrected in the arc document before Ch10 is drafted.",
+    "The chapter states at line 63 that Cael 'wrote it down, later, in the plain hand' — the fear — but the log at lines 109-111 is the packet's fixed text and does not contain a fear sentence, only 'Maybe I'm about to hand a stranger the one question I've never let anyone hold.' The intent is legible and the state ledger records it deliberately ('wrote that down later, not at the post'), but a reader may go looking for the written sentence and not find it. No repair proposed; flagged so a later chapter does not have to invent one.",
+    "Naming ear: the packet flags Cleon/Cael for audio confusion. Ch07 avoids the problem entirely by never naming Cleon ('a man across a river who, Karis said, read how things were built'). That is the right call here and worth preserving as long as the plant stays a need rather than a name."
+  ],
+  "strengths": [
+    "The ten currents at line 29 are named in the inventory's exact attribution scheme from B7 Ch14's log — Pressure as 'the Bronze from Ardenmere's', Ember as Karis's, Storm as Daeva's, Anchor left unnamed because its source was 'the hand with no face', Blade as Ephram's, Shadow carrying only 'the seal's whole logic' because the source is protected, and Tide with no description under it because 'you could not read the reader'. Nine sources, nine correct dispositions, and the one deliberate blank. This is the hardest continuity work in the chapter and it is exact.",
+    "The turn is earned by procedure rather than assertion. Line 53 runs a fifth reading purely as a test — 'because a finding that was not tested was a guess wearing a finding's coat' — and only then writes the conclusion at line 55. The chapter's whole discovery is therefore falsifiable on the page, which is the series' epistemic signature and the reason the reader believes it.",
+    "Line 49, 'He had been putting a cord on a stone and writing down no length' — one exact image that reorganises six months of the reader's understanding, built from the cord that is already Book-11 plant 3, and reused twice afterwards without being explained.",
+    "The Oryn distinction is argued before the hands move (lines 19-21), which converts a permission problem into character: 'the working-out was the part he owed her.' The chapter honours the healer's order by reasoning about it rather than by narrating around it.",
+    "Gate 25 is met without a hedge. Line 63 says the fear plainly and then names and refuses the deflection instrument in the same breath — 'and did not catalogue it, and did not turn it into a count, and let it be what it was'. The catalogue is the character's armour and the chapter takes it off on purpose.",
+    "The Vastin exchange gets its weight from what it withholds: 'You were the instrument. I was the error.' (line 79); Cael's refusal at line 91 — 'He did not forgive it. He had not been asked to' — and the observation that the not-asking is the only part a Compact officer would have got wrong; and line 101's flat refusal of the easy word, 'It was not friendship ... It was the ground the thing grows in.' The relationship plant for Book 9 is laid without a single sentimental sentence.",
+    "Line 7 turns the kept promise into a cost rather than a virtue — 'a thing you do not look at is a thing you are always aware of the location of' — and line 11 pays it off in Lira, who makes the same discipline unasked and says nothing, which is the found-family method the charter asks for (competence and friction, never affection declared).",
+    "The fixed log reproduces byte-for-byte, the closer type rotates correctly off Ch06's image, and the log's own ledger lines ('A hundred and thirty-eight in hand', 'Six; the sixth on a north road', 'Brom's foot walks') reconcile exactly with the state entries for Ch04 and Ch06.",
+    "Reader standard clean throughout: zero banned words, no violence, no injury, no gore, no sexual content, and conduct that is honest and restrained on both sides of the road's edge — including an antagonist-turned-ally who names his own wrong as wrong and is not let off for it."
+  ]
+}

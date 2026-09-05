@@ -1,0 +1,183 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch19",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 19 card — The Sunken Span, combat-primary; Chapter 20 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–18' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael nineteen. Millrace 299th → the Span 303rd/304th (five days; log the leg with dates; the Stair's bowl; the Hall's marsh; Oryn's holds' road ends day two — she keeps walking). Twelve and a mule; Vastin day 20–25 on the stick (stick NOT down; he can hold a wall rooted on a bad knee — Ch12 — at a cost); Karis's hand; Brom's shoulder; Lira two-armed. Cash ~125.",
+      "THE FOURTH SITE (B7 Ch23): seen from the crest at dusk; the circle 800 m across; the iron a hand's height out of the ground, registry-stamped, numbered THIRTY-FOUR, the stroke-and-bar beside the number, a PACE apart round the whole perimeter; the Quiet line where Lira's Arbiter went at ~190 paces below the crest; the shape 400 m in with its crown against the sky; nobody crossed (no healer within four days then). The KIT was five years by its scale (B7 Ch20); the CORDON is not dated except 'years, by the scale on the iron' (Seln's derivation from the rust/scale) — no five-to-six-years line.",
+      "NEW: the watch-post — timber, on the perimeter outside the iron, a shelter and a stack of Compact kit; a watch of six-to-eight, Compact-equipped (crossbows; a braced timber barricade across the approach where the crest's path comes down; a practitioner or two of low tier); they were ROUTED here after the completion report (Ch1–2's) — they expect practitioners walking the bearing; they do not expect twelve, or a Quiet-crossing crew. FACELESS remains: hoods, no names, no insignia beyond Compact kit. Seln reads the scale on the iron: 'Years. Not one winter.'",
+      "THE SPAN inside: a fused-stone arched bridge on piers over a dropped SINK (a sunken bowl; a drop); the perimeter twice the others'; carvings on the piers/spandrels of the same make as the four floors; the bearing through it and on. Inside the line Paths die at a stride (all but Cael's fragments — the fragments 'go on ringing' faint; his own Path is nothing anyway). Cael stands in the middle of the Span: nothing happens to him (as at the others) — SAVE the 'first one' feeling for Ch23/24.",
+      "DOCTRINE carried: nobody declares (Ch12); Vastin's wall rooted (there is no round); Brom's rock and back; Lira's speed and the flat of the blade; Seln from above/unseen; Oryn and the healer of no Path at the rear; Karis with the case out of the line; Teague reads the job off faces and moves people. Teague's crew: the tall woman (spear), the broad man (crossbow; the limp — HE takes the fall at the sink's edge), the young one, the healer.",
+      "FORCE seen Ch17 (the cart; the wrist). Here at close range: a palm through a braced barricade; the frame lined up; the barricade goes a body's length; the recoil visibly worse — the elbow; the shoulder; he wraps and goes on. Cael beside him through the whole exchange → THIRTEENTH: the notice in the log's register: 'Force-adjacent. Teague. Partial. Bronze. Impulse along the line of the frame at contact; needs a thing to push against; a body's length; the cost back along the same line. Engagement field: close; braced. Tier equivalent unknown. Deployment: none. Thirteenth.' The integration cost in B7's register: the fragment LISTENS (it rings; it wants using; the ribs say so).",
+      "Fixed log closer VERBATIM (card): 'Twelfth—no, count it again—thirteenth. Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force. Thirteen things that aren't a Path, and I got three of them in one city and one bridge. Rate's climbing and I'm writing that down because Hesk taught me to note the trend. The Span's the fourth site and the Compact fenced it, years ago by the scale on the iron, and left men on it. They knew. They've always known. The bearing runs through it and keeps going, oldest-last, and the oldest one's out there in the deep edge, quiet since they built the machine. One more site. I've wanted to stand in the middle of it since Karis said *someone made this.* Tomorrow I find out what standing in the middle of the first one feels like.' — NOTE 'one city and one bridge' (Treswick: eleven, twelve; the Span: thirteen); 'Pressure' in the list is the log's private name (the spoken inventory says 'the Bronze from Ardenmere' — this is the LOG, so 'Pressure' stands). 'Tomorrow' = the Court is a half-day+ on; Ch20 is the camp between; Ch21 the pass; 'tomorrow' is his intent, not the calendar — keep as fixed.",
+      "SEALED: no Architect; no Arbiter=apparatus; the still place never the Quiet; the Court unnamed ('the oldest one'). Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; READER STANDARD (violence with cost, no gore; the watch not killed; nobody admired for cruelty)."
+    ]
+  },
+  "purpose": "COMBAT-PRIMARY. The five-day leg from Millrace logged and dated in one movement (the Stair's bowl; the Hall's marsh; Oryn's two days of road and then the road not hers — she keeps walking; the feeling of being known). Then the fourth site — B7's cordoned, twice-radius site (a circle eight hundred metres across; the iron cordon registry-stamped, numbered thirty-four, the stroke-and-bar, a pace apart; the line ~190 paces below the crest; the shape 400 m in) — now with a COMPACT WATCH-POST on its perimeter: timber, occupied, routed here because the completion report said the crew was walking the bearing. The Span revealed on entry: an arched fused-stone bridge on piers over a dropped sink, the crown taller than a man (B7's dusk silhouette). THE FIGHT along a LINE: the sink on one side, the Quiet boundary on the other, the watch between. Four exchanges, terrain-caused: (1) the watch, Compact-equipped and expecting practitioners, holds the approach; ten have numbers, not ground. (2) TEAGUE'S FORCE at close range breaks a braced position — a shield-line/timber barricade — with Cael fighting beside him for the whole exchange → FRAGMENT THIRTEEN (Force-adjacent) acquired; the notice renders in full in the established register (adjacent; partial; the source; the field; limits: line of the frame, needs a thing to push against, RECOIL through the frame; tier equivalent unknown; deployment none; THIRTEENTH). (3) The Quiet boundary used DIFFERENTLY from B7: the crews HERD the watch toward the line — the watch will not step where their Paths die; the crews, who have crossed three times, step inside briefly and hold a wall the watch cannot cross — FAIRNESS: the crew gains nothing inside; their Paths die at the line exactly as the watch's would; the advantage is nerve and three prior crossings; the price is the seconds they stand inside with bodies and steel while the watch decides. (4) The watch breaks along the perimeter; the site entered; the carvings copied; the bearing confirmed through the Span and on. WIN-SENTENCE: the crews removed the watch's ability to hold the approach by making the only safe retreat a line the watch would not cross and the crews would. COSTS ledgered: Teague's recoil (the wrist and worse — the elbow, the shoulder along the line); a FALL taken by one of Teague's crew (by role — the broad man with the limp) at the sink's edge, mended by Oryn at a healer's price; Cael's currency plus the thirteenth's integration cost (the fragment LISTENS — B7's register). Close on the LOG with the fixed text.\n\nNo faces; no deaths; no gore; the watch are people doing a posting, not villains; the crews do not pursue. READER STANDARD.",
+  "scene_shape": {
+    "opening_state": "The five-day leg logged in one movement to the crest above the fourth at dusk on the 303rd: the circle below; the iron running away both ways a pace apart; and the thing that was not there in the autumn — a timber post on the perimeter with a fire in it, and a barricade across the path down, and hooded people at it who have been told what is coming and are wrong about how many.",
+    "pov_goal": "Cael wants the approach taken without anyone dead on either side and without a declaration; he wants to stand in the middle of the fourth; and, because the man is going to do it beside him, he wants to watch Force used at close range for a whole exchange and know what it costs.",
+    "opposition": "The watch, holding the only path down between the sink and the line; the line itself, where ten of twelve go dark at a stride; the sink's drop; the rival clock (Teague's field); Cael's own fragments wanting to be used.",
+    "turn": "Exchange 3: the crews step INSIDE the line — Paths gone, bodies and steel — and hold, and the watch will not follow, and the approach is no longer theirs.",
+    "choice": "Cael goes over the iron first, as the one it has never done anything to, and stands inside with nothing working for anyone but him — and does not use the fragments on people; he uses his body and the line; and he calls the others in by count, not by name, and they come.",
+    "outcome": "The watch breaks along the perimeter; the Span entered; the carvings copied; the bearing confirmed; Teague's recoil paid; the broad man's fall mended by Oryn at her price; the thirteenth acquired and listening.",
+    "closing_state": "LOG — the fixed text verbatim, on the Span's crown or at the fire below the crest, the file ending on it."
+  },
+  "obligations": {
+    "must_include": [
+      "The five-day leg DATED (Millrace 299th → crest 303rd); the Stair's bowl; the Hall's marsh; Oryn's road ending and her walking on; the feeling of being known.",
+      "The fourth site as B7 drew it (the iron: thirty-four; the stroke and bar; a pace apart; the line ~190 paces; the shape's crown) + the NEW watch-post staged as new; Seln: 'Years. Not one winter.' — no five-to-six-years dating.",
+      "FOUR EXCHANGES, terrain-caused: the watch holds the path; Teague's Force at close range breaks the barricade (Cael beside him the whole exchange) → THIRTEENTH notice in full; the crews herd the watch to the line and step INSIDE and hold — FAIRNESS stated on the page (nothing gained inside; Paths die exactly as the watch's would; nerve and three crossings; seconds with bodies and steel); the watch breaks; WIN-SENTENCE legible.",
+      "Nobody declares; nobody dead; no faces; the watch not pursued; violence with cost and without gore.",
+      "COSTS: Teague's recoil (wrist → elbow/shoulder along the line); the broad man's fall at the sink's edge mended by Oryn at her price (she pays in current; her hands); Brom/Lira/Vastin's costs carried; the thirteenth's integration cost (it LISTENS).",
+      "The Span entered: the fused arch on piers over the sink; carvings copied by Karis; Cael in the middle — nothing happens to him; the bearing through it and on.",
+      "Close on the LOG (fixed text verbatim). READER STANDARD."
+    ],
+    "plants": [
+      "The thirteenth listens; 'a thing to push against' — Ch21's rig stack.",
+      "The watch routed by the completion report — Ch20's records; Ch21's last reach.",
+      "The oldest one out there — Ch23.",
+      "Oryn's price paid on the broad man — Ch21 (the death her hands are on)."
+    ],
+    "payoffs": [
+      "B7 Ch23: the cordon crossed at last; 'they've been here more than once' — they left men on it.",
+      "Ch12: declaration-discipline; the wall's limit.",
+      "Ch17: Force priced before use."
+    ],
+    "prohibited_outcomes": [
+      "No deaths; no faces; no torture; no pursuit; no gore.",
+      "No Court reached or named; no Architect; no Arbiter=apparatus; no still place = Quiet; no 'first one' feeling (Ch23/24).",
+      "No re-run of B7's 'only Cael's Path works inside' as the tactic — the tactic is herding to the line and stepping inside; fairness stated.",
+      "No image/dialogue closer; the closer is the LOG verbatim.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The watch's number (six to eight), kit, barricade and shelter; their tier (low; one Bronze at most); the sink's drop and the path's geometry; the Span's carvings (same make); the exchanges' choreography; Oryn's price; the fire's position."
+    ],
+    "approval_required": [
+      "Any named person; any new Compact terminology."
+    ],
+    "forbidden": [
+      "Naming the Court; dating the cordon in years-numbers; any watch death; any face."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 18 (The Route North)",
+      "path": "v3-runs/book-08/drafts/ch18.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 12 — the reach in the cut: declaration-discipline; Vastin's wall; the eleventh's notice register",
+      "path": "v3-runs/book-08/drafts/ch12.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 17 — Force seen (the cart; the wrist); the contract",
+      "path": "v3-runs/book-08/drafts/ch17.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 23 — the fourth site from the crest; the iron cordon; the council",
+      "path": "books/book-07-void-roads/chapters/chapter-23.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 22 — the Drowned Hall's marsh; the fragment/still-place register",
+      "path": "books/book-07-void-roads/chapters/chapter-22.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 20 card — The Cordon (camp; the refusal staged) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch19.md",
+    "report_path": "v3-runs/book-08/reports/ch19-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch19-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch19-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
