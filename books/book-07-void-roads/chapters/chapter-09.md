@@ -8,9 +8,9 @@ Then Pike read the mail.
 
 The sack had come off the ferry at first light, tarred, lead-sealed at the neck with the waystation's mark, a month of the west in a bag, and he opened it with a knife and the one hand and read the names off the pieces aloud, at the same size as everything he read. Twenty-two pieces. The twenty-first and the twenty-second had Cael's name on them, and he knew both hands before the paper was in his.
 
-The first was a Blade cohort's hand from Halcenvane, the schooled square letters Rooke's yard put into people, with the extra stroke Ephram had always given the last letter of his name. The second was a ledger-keeper's. He had been reading that hand since he was fourteen, entered against his name in a column, and it had not changed: small, upright, forty years old, not one letter leaning.
+The first was a Blade cohort's hand from the academy above Ostrand, the schooled square letters Rooke's yard put into people, with the extra stroke Ephram had always given the last letter of his name. The second was a ledger-keeper's. He had been reading that hand since he was fourteen, entered against his name in a column, and it had not changed: small, upright, forty years old, not one letter leaning.
 
-He put both in the satchel against the leather book, unopened, because he did not read letters in front of a meadow. Then he put the strap over the shoulder that did not have tape under it, and the five of them went east off the landing, past the smith, past the ash and the ten paces on, and onto the road.
+He put both in the satchel against the leather book, unopened, because he did not read letters in front of a meadow. Then he put the strap over the shoulder that did not have tape under it, and at first light on the ninety-second the five of them went east off the landing, past the smith and the ash, and onto the road.
 
 ---
 

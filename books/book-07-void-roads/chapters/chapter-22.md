@@ -40,7 +40,7 @@ He knew what he could say, and he counted it, because counting was the thing he 
 
 He took his hands off himself, and felt the shape of the reading go, from his own side, and sat at the marsh's edge in the dark with the ten ringing faint in him and the still place at the middle of them not ringing at all, and wrote it by the fire's edge, in the plain hand, an hour later, when his hands had stopped being a healer's and had gone back to being his.
 
-*Hundred and nineteenth day, night. The Drowned Hall's marsh, at the stone. A hundred and eight in hand; nothing owed. Nineteen. Ten.*
+*Hundred and nineteenth day, night. The Drowned Hall's marsh, at the stone. A hundred and two in hand; nothing owed. Nineteen. Ten.*
 
 *Read myself. Ten currents, and I can't find the banks either — Oryn's right. And the anomaly's there. Not a fragment. Not a flow. A still place, and the rest of me has been going around it since before I knew it existed. It isn't the Quiet. The Quiet is outside me and turns Paths off. This is inside me and the Paths — the fragments — go around it like they were built to. I don't know what it is. I know it was there before Oryn, before Brom's read, before the ring. Session nine caught the edge of it. I'm not going to guess. Guessing is what the registry did to me. Observation, then the log, then patience.*
 

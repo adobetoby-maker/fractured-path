@@ -4,7 +4,7 @@ Lowmarch on the ninetieth day, from the shelf above the ford, catalogued because
 
 He counted it before he read it. The river was lower than it had been on the sixtieth, and the ford's poles stood a hand farther out of it; the rope ferry was on the near bank, loading; the smith was working, which mattered, because six marks of what was in the satchel belonged to him. The upper inn had smoke. The lower inn had none. The meadow: forty tents and carts where there had been thirty-one, the grass gone to seed and yellow at the edges, the summer's fires fewer and smaller, and of the thirty-one he could find six. The ash was there. The carter with two mules was not — a woman with a hand-cart of hides had the place — and Brom looked at that, and at the ten paces on, where nothing was, and walked to the ten paces on and put the boxes down, one, two, three, with the right arm doing its share for the first time since the ford. The healer had said a week; Brom had given it seven days to the hour, and picked up the middle box with both hands on the eighth morning, and said nothing about it, and nobody else had either.
 
-Six days from Oxhollow: a road, and a river, and a road, the ford knee-deep where Teague's crew had walked it quiet, and the five of them a day behind, walking it quiet after them, and not trying to catch them. Lira in two boots again: the right one a carter's, bought at Oxhollow's gate for two marks, a size wrong and packed with the healer's linen. The ankle under it taped every morning. The leg above it new, and aching the right amount, she said, when asked, which was once. Karis with the map and the book, the palms two pink lines each and the pen held as a pen. Seln ahead. And himself: the tape round his ribs where the breath stopped, twelve days old and hated by noon every day as she had said it would be; the calf bound in her cloth, and the count on it gone — past twenty on the flat it was a leg, and on the shelf's climb it had said nine, and it was the last thing on him that said anything.
+Six days from Oxhollow: a road, and a river, and a road, the ford knee-deep where Teague's crew had walked it quiet, and the five of them a day behind, walking it quiet after them, and not trying to catch them. Lira in two boots again: the right one a carter's, bought at Oxhollow's gate for two marks, a size wrong and packed with the healer's linen. The ankle under it taped every morning. The leg above it new, and aching the right amount, she said, when asked, which was once. Karis with the map and the book, the palms two pink lines each and the pen held as a pen. Seln ahead. And himself: the tape round his ribs where the breath stopped, nine days old and hated by noon every day as she had said it would be; the calf bound in her cloth, and the count on it gone — past twenty on the flat it was a leg, and on the shelf's climb it had said nine, and it was the last thing on him that said anything.
 
 Nine confirmed. One anomaly. No deployment since the ford. Eighteen.
 
@@ -214,7 +214,7 @@ Brom said, "Where does the Fallow road leave from."
 
 "Thornwater's east gate." Karis had the map out — Pike's, copied in the last of the light at the plank onto the back of her own sheet, the Fallow road drawn on with its days and its bend. "Two days from here to the steading. Two on from it to the rise. Four."
 
-"The ninety-first tomorrow," Brom said. "Thornwater the ninety-third."
+"We mark it tomorrow and walk the day after," Brom said. "Thornwater the ninety-third."
 
 Karis's pen stopped.
 

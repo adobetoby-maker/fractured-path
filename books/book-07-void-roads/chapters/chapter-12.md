@@ -216,7 +216,7 @@ He wrote the second night's entry with the lantern lit for the length of it, bec
 
 *Inventory. Nine confirmed, one anomaly. Nothing used. Ringing this morning, faint, all nine, where last night there was nothing; not held, not spent. Anchor wants the stake. It can want.*
 
-*Injuries, all six, after Oryn's morning. Lira: left arm slung, second day, not used for anything — she ate with the right and let me tape the ankle; Oryn says holding. Karis: throat mended, voice none; Oryn says days, and hoarse before it's anything. Brom: right hand closed, four lines across the pads, nothing on the string for three days. Me: right calf washed and bound, not mended; nothing under her hands, the fourth time; closing on its own, faster than it should. Ribs, tape twenty-one days. Oryn: three mendings in two days — the arm, the throat, the hand — and she says that's a route, and the route's eleven days north. Seln: nothing.*
+*Injuries, all six, after Oryn's morning. Lira: left arm slung, second day, not used for anything — she ate with the right and let me tape the ankle; Oryn says holding. Karis: throat mended, voice none; Oryn says days, and hoarse before it's anything. Brom: right hand closed, four lines across the pads, nothing on the string for three days. Me: right calf washed and bound, not mended; nothing under her hands, the fourth time; closing on its own, faster than it should. Ribs, tape nineteen days. Oryn: three mendings in two days — the arm, the throat, the hand — and she says that's a route, and the route's eleven days north. Seln: nothing.*
 
 *Seln remembered something today, against the stake. Karis has it in her margin, entered as said. I've entered nothing about it here, and I'm not going to. He said it once. That's its number.*
 

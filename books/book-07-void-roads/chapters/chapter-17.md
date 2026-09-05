@@ -50,7 +50,7 @@ He saw the seal before he saw the paper. Dark wax, a hook and a bar, in the corn
 
 Then the seal, and nothing else. No crew's mark. No HOLD. No name beside a word.
 
-"Same broker," Pike said, to the book. He had not been asked. "Same hand on it. Same kind of paper. Posted the day after the ferry came in — the day after your report went west, if you're counting, and I've watched that boy count since the first week, so I'd say he is." The pen went on. "That broker's had bales on my landing five years and never once posted a slip until the Fallow one. Now two. Nothing else in a year. Nothing else ever." He looked up, for the first time since they had come in. "I'd not take it. I said so to Teague when he read it, and he said he'd worked that out for himself, and put it back, and it's been on that nail nine days."
+"Same broker," Pike said, to the book. He had not been asked. "Same hand on it. Same kind of paper. Posted the day after the ferry went out — the day after your report went west, if you're counting, and I've watched that boy count since the first week, so I'd say he is." The pen went on. "That broker's had bales on my landing five years and never once posted a slip until the Fallow one. Now two. Nothing else in a year. Nothing else ever." He looked up, for the first time since they had come in. "I'd not take it. I said so to Teague when he read it, and he said he'd worked that out for himself, and put it back, and it's been on that nail nine days."
 
 Three hundred. The Fallow one had been a hundred, dry, and had been the best number on the board by forty. This was three times that, for a site one day south instead of four days east, and it hung on a nail where every crew on the wall had read it and put it back.
 
@@ -68,7 +68,7 @@ He said it to the plank, and then he took the slip out of Cael's hand, gently, a
 
 "Pike reads paper," said Pike, to the book.
 
-"Nothing else posted in a year. A broker doesn't post recovery contracts; he moves bales. He's posted two, both for instruments that were never at the site, both in prose he didn't write, both under his own seal, and the second the day after the first's report went west." The finger moved to the price. "Three hundred. Read it as a number and it's an incentive. Read it as a size and it's something else. A hundred was priced so that no crew who knew the road would take it, and one crew who didn't would. Three hundred is priced for *one* crew. The crew that went in once and came out. Nobody else on this wall will touch it at any price, and he knows that, because the report told him, and he's put a number on it that a crew of six with a mule and a hundred and eight in hand can't walk past. That's not a wage. That's a lure, cut to fit."
+"Nothing else posted in a year. A broker doesn't post recovery contracts; he moves bales. He's posted two, both for instruments that were never at the site, both in prose he didn't write, both under his own seal, and the second the day after the first's report went west." The finger moved to the price. "Three hundred. Read it as a number and it's an incentive. Read it as a size and it's something else. A hundred was priced so that no crew who knew the road would take it, and one crew who didn't would. Three hundred is priced for *one* crew. The crew that went in once and came out. Nobody else on this wall will touch it at any price, and he knows that, because the report told him, and he's put a number on it that a crew of six with a mule and a hundred and two in hand can't walk past. That's not a wage. That's a lure, cut to fit."
 
 Lira said, "And the site."
 
@@ -138,7 +138,7 @@ Everyone looked at him.
 
 He wrote it himself, at the table, in the plain hand, before the argument had finished being true, because a decision that was not written down at the table became, by morning, a thing that had always been obvious.
 
-*Hundred and twelfth day. Lowmarch, the board's room, the corner table. A hundred and eight in hand; nothing owed; nothing earned. Nineteen. Ten. Eleventh on the wall; Teague's ten up. Oryn on her route; Millrace tomorrow, by her count.*
+*Hundred and twelfth day. Lowmarch, the board's room, the corner table. A hundred and two in hand; nothing owed; nothing earned. Nineteen. Ten. Eleventh on the wall; Teague's ten up. Oryn on her route; Millrace tomorrow, by her count.*
 
 *Priced too well. Seln says it's for the case. I say the floor's for me and they don't know it. South, tomorrow. Lira's arm is two weeks old. Brom says doors open both ways. He's quoting Rooke. He's never quoted anyone.*
 

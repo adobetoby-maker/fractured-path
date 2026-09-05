@@ -14,9 +14,9 @@ Oryn said it for him, in the yard, before she went in to be fed.
 
 "Tape," she said.
 
-He got the shirt up. Twenty-three days of boiled linen round the ribs, hers, grey now, and she took the little knife from the leather roll and cut it at the back and unwound it, and the breath went all the way down for the first time since a shale-back's shoulder on a bench above a gorge. He let it go all the way down twice more, to be sure of the count, and she watched him do it.
+He got the shirt up. Twenty-one days of boiled linen round the ribs, hers, grey now, and she took the little knife from the leather roll and cut it at the back and unwound it, and the breath went all the way down for the first time since a shale-back's shoulder on a bench above a gorge. He let it go all the way down twice more, to be sure of the count, and she watched him do it.
 
-"Three ribs, left side, low." She had her palm flat where they had been, not reading; looking, with the hand. "Twenty-three days. A rib is six weeks. These are done." She took the hand away. "Leg."
+"Three ribs, left side, low." She had her palm flat where they had been, not reading; looking, with the hand. "Twenty-one days. A rib is six weeks. These are done." She took the hand away. "Leg."
 
 He got the trouser leg up and the binding off. The ford's line along the inside of the calf, opened on the rim's edge four days ago and washed and bound at the stone and not touched since, was a seam. Pink, closed its whole length, the black gone out of it. She put a thumb along it and pressed, and he did not move, and she pressed harder, and he did not move.
 

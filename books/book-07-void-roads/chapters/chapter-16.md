@@ -120,7 +120,7 @@ Brom said, "Yes," as a weight. Lira said, "Yes," to the fire. Seln said nothing,
 
 "Which first," Brom said.
 
-"Whichever the board prices." Karis rolled the map. "We've a hundred and eight in hand and nothing owed and a mule that eats. Pike's got sixteen slips on a plank and one of them will be near a circle, because the circles are on the roads and the roads are where the work is. We go back to Lowmarch and we read the board the way he reads it" — a nod at Cael — "and we take the job that walks us past a blank, and we pace it, and we enter it. That's how you find a handful. One at a time, for money."
+"Whichever the board prices." Karis rolled the map. "We've a hundred and two in hand and nothing owed and a mule that eats. Pike's got sixteen slips on a plank and one of them will be near a circle, because the circles are on the roads and the roads are where the work is. We go back to Lowmarch and we read the board the way he reads it" — a nod at Cael — "and we take the job that walks us past a blank, and we pace it, and we enter it. That's how you find a handful. One at a time, for money."
 
 Cael looked at Oryn.
 
@@ -196,7 +196,7 @@ She went in. He sat on the well's rim in the cold with the log open on his knee 
 
 He finished the entry by the last of the window's light, after the window went dark, by nothing, because he knew where the lines went.
 
-*Hundred and tenth day. Thornwater, the well. A hundred and eight in hand; nothing owed; nothing earned. Nineteen. Ten fragments. The tenth turned outward has a rule now, and the rule's above.*
+*Hundred and tenth day. Thornwater, the well. A hundred and two in hand; nothing owed; nothing earned. Nineteen. Ten fragments. The tenth turned outward has a rule now, and the rule's above.*
 
 *Told Lira. At the wall, at dusk, in the order I've had since the stone, which didn't get any longer for fifteen days of carrying it. She said the thing she said in Ardenmere, shorter. She said it scares me. She was right, and she said I'm allowed to say so, and I said so.*
 

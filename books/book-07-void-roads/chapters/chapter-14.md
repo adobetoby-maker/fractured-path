@@ -200,7 +200,7 @@ He took his hands off himself, and felt, from his own side, the shape of the rea
 
 He wrote the inventory by the last of the lantern's oil, which the woman had refilled without being asked, in the plain hand.
 
-*Hundred and second day, late. Thornwater, the loft. A hundred and eight in hand; nothing owed; nothing earned. Pike's copy in the satchel: six went in, six came out, no price paid. Nineteen.*
+*Hundred and second day, late. Thornwater, the loft. A hundred and two in hand; six to the hold for the room and the kid; nothing earned. Pike's copy in the satchel: six went in, six came out, no price paid. Nineteen.*
 
 *Inventory. Ten confirmed. Wind-adjacent — Lira. Pressure-adjacent — the Bronze from Ardenmere. Iron-adjacent — Brom. Compression-adjacent — Reydan. Ember-adjacent — Karis. Shadow-adjacent — source protected; the seal holds out here as it held inside; used once past the Line, on a floor, in front of the circle and nobody else. Storm-adjacent — Daeva; resettled once this week round the new neighbour, on the second morning, in the yard, and I heard it do it. Anchor-adjacent — unnamed; the hand with no face; it wanted the stake and it can want. Blade-adjacent — Ephram; the only non-hostile in the log until three days ago. Tide-adjacent — Oryn. Partial. Iron. Self and contact. Engagement: clinical. Does nothing in a fight, and is the first thing I've ever owned that lets me hear the other nine. Cost: three days of listening; the idle state learned by the third night, and it isn't quiet, it's just that I've stopped putting my hand to every string. Deployment notes current on all ten.*
 

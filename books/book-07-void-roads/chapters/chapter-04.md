@@ -106,7 +106,7 @@ Lira got the boot on. She did not ask it again. It was the ankle she rubbed, aft
 
 ---
 
-Lowmarch from the shelf above the ford, on the sixtieth day past the Line, catalogued because it had been ten days: the river lower again; the ferry on the far bank and not idle, the flat coming across with three men on it and a sack; the smith working; the upper inn with smoke; the meadow turned over another quarter. The ash still had the same carter under it with the same two mules. Brom looked at that, and at the ten paces on, and put nothing down, because he had nothing to put down. Seln took the boxes off the cart. The carters went on to the ferry with the grain and did not look back, and the five of them stood in the meadow with three boxes and the look of people who had walked somewhere and come back worse.
+Lowmarch from the shelf above the ford, on the sixtieth day past the Line, catalogued because it had been eight days: the river lower again; the ferry on the far bank and not idle, the flat coming across with three men on it and a sack; the smith working; the upper inn with smoke; the meadow turned over another quarter. The ash still had the same carter under it with the same two mules. Brom looked at that, and at the ten paces on, and put nothing down, because he had nothing to put down. Seln took the boxes off the cart. The carters went on to the ferry with the grain and did not look back, and the five of them stood in the meadow with three boxes and the look of people who had walked somewhere and come back worse.
 
 The board was under its roof by the landing, and Pike was under the roof with it, and looked at the five of them for the length of time it took to count five, and went back to the page.
 

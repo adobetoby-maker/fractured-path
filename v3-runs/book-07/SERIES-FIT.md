@@ -1,6 +1,6 @@
 # Book 7 — Void Roads — Series-fit memo
 
-> Built by ATLAS (Fantasy Author A seat, Fable) — 2026-09-04. Companion to POST-LOOP-PLAN.md Part D. Sections C–E are filled from the fresh-context audits in `audits/` once they land; A and B are written from the closed prose and the state ledger.
+> Built by ATLAS (Fantasy Author A seat, Fable) — 2026-09-04. Companion to POST-LOOP-PLAN.md Part D. All sections complete. A and B are written from the closed prose and the state ledger; C–E from the fresh-context audits in `audits/`.
 
 ## A. Seam Book 6 → Book 7 (what Book 6's prose must honor; verified against B6's drafted ch22–24 at commit e1ed0a5)
 
@@ -52,8 +52,23 @@ Book 7 opens on these facts as settled. If Book 6's prose moves on any of them, 
 
 **Delivered.** The freedom is built out of Pike's board rather than asserted (the board prices them; the holds price them; the price becomes the problem), then complicated in three registers: **metaphysical** (Ch09 L229, "Mine didn't go" at the stone; Ch16 L25–27), **moral** (Ch22 L101, Teague's wrist unread), and **institutional** (Ch19 L203; Ch24 L29–31, Pike leaving the line blank — "the first time it's been wrong about a crew by being too small"). The complication lands hardest at the plank in the snow. The internal arc's two poles are on the page: the first in the Ch2 log ("No instrument out here reads me"), the second written verbatim in the log at **Ch16 L209** — eight chapters earlier than the architecture places it — and restated in close narration over the map at Ch24 L143. Series-fit note for Book 8: the second pole is already *said*; Book 8 inherits it as a known fact, not a discovery.
 
-## E. Seams read, chapters 1→24
-_(from audits/seams-read.md — pending)_
+## E. Seams read, chapters 1→24 (audits/seams-read.md, fresh-context Opus read)
+
+**Clean:** fragment inventory 9→10 with the still place never counted; the audio rule holds (Feryn appears nowhere in Book 7; every list run says "the Bronze from Ardenmere"); wall positions (13th/12th/10th/11th/11th) and Teague's "eleven/nine/ten up" reconcile; Pike's lines 4→7→8→9; sheet counts 11+29+12=52; bolts 6→5→1 exact; three boxes throughout; no silent healing in any injury arc.
+
+**Found and repaired (2026-09-04, all applied as minimal exact-string edits):**
+- HIGH — the Lowmarch–Thornwater road is two days everywhere but ran three in Ch9, with Ch8 contradicting itself across two lines: Brom's line now "We mark it tomorrow and walk the day after"; Ch9 departs "at first light on the ninety-second". The 93rd stays the anchor.
+- Cael's rib clock ran two days fast from Ch12: tape nineteen days (Ch12), twenty-one days (Ch13 ×2), nine days old (Ch8).
+- Ch23's fork counted five people and two mules where four and one stood.
+- The cash ledger: "a hundred and eight in hand" now drops to a hundred and two at the Thornwater purchase (Ch14) and ninety-six at the inn (Ch24), carried through every intervening log.
+- Oryn's lateness at the fork and in her letter is now "three weeks", consistent with the nine days she spent past her Ch18 projection. (Her Ch12/Ch15 counts — "eleven days north" of the far end vs "nine days late here" at Thornwater — are left as two different stops on one route; accepted as spoken, not narrated.)
+- Ch17: "the day after the ferry went out" (the mail ferry is monthly; the inbound was the 91st).
+- Ch24: the sling is five weeks old, not six; the ribs get their closing line ("quiet again since the marsh"); "four weathers … the fifth".
+- Ch18: "listened to himself for three nights and read himself once" (the debt's three readings stay three).
+- Ch4: eight days, not ten. Ch1: they stayed six days (Ch2's forty-ninth stands).
+- Left as deliberate rounding (EXC-B7-001/002 govern): "Six weeks. Four contracts", "Twelve weeks. Seven contracts", "Lira's arm is two weeks old".
+
+**Running-state corrections:** Lira takes Oryn's crossbow at the Hall (Ch21), not at the fork — the state note was two chapters late; corrected below in STATE_RUNNING.
 
 ## F. Change log (bibles and planning layer, 2026-09-04)
 - `universe/STATE_LEDGER.md` — Book 7 close section appended (abilities to ten + the still place; rank; roster with Oryn; antagonists; world; minor names; open questions; note to the Book 6 team on the six-count seam). Header updated.

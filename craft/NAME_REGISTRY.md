@@ -333,3 +333,5 @@ Series-level names used in Book 7 and already carried (Cael, Lira, Brom, Karis, 
 | wold-wyrm | Fauna — the Hall's animal (carter name) | 1 / ch21–21 | WOLD-wurm — no W-onset fauna elsewhere; Wray/Withrow are persons |
 
 Dispositions: no renames required for Book 7. Audiobook read-through list (carried from LINE-EDIT-BACKLOG.md): Feryn/Oryn never in one list run; Oryn/Oxhollow/Ostrand O-onset stacking; Pike/Fiske.
+
+Rename dependency: Book 7 ch09 uses **Bracken** ×6 (Ephram's letter). When Book 4's rename executes, Book 7 ch09 takes the same new name in the same pass. Book 7 otherwise carries none of the rename-slated names (Velmere / Halcenvane / Wray: zero; verified 2026-09-04).

@@ -130,6 +130,6 @@ The bowl was in full sun. Four of Teague's crew on the rim, exactly where they h
 
 He wrote the log at the rim, at the stone, with the slack meter of scrub either side of it and the road going south out of the bowl toward a bearing nobody had drawn, and Karis beside him with the middle box open on the road and the straightedge already out of it, brass, folding, laid across the carter's map, not yet touching anything.
 
-*Hundred and fifteenth day. The Long Stair, the rim, at the stone. A hundred and eight in hand; nothing owed; three hundred entered as taken and never to be paid. Nineteen. Ten. Brom's shoulder mended and not used. Lira's arm closed and not used. Seln's got a ledger. Karis has twenty-nine sheets and a number, and the number is forty-one.*
+*Hundred and fifteenth day. The Long Stair, the rim, at the stone. A hundred and two in hand; nothing owed; three hundred entered as taken and never to be paid. Nineteen. Ten. Brom's shoulder mended and not used. Lira's arm closed and not used. Seln's got a ledger. Karis has twenty-nine sheets and a number, and the number is forty-one.*
 
 *Instruments recovered. The contract's paid, and the man who posted it is never going to see them, because Seln's keeping the ledger and I'm keeping the kit. Someone measured this place five years ago and wrote bearing and stopped. Karis has a straightedge. She's been waiting her whole life to use it. The Ring, the Stair, and whatever's on that bearing. Pike said a handful. We have two. The kit says three. We're going to go look.*

@@ -148,7 +148,7 @@ He sat at the table's end with his own book shut under his hand and catalogued t
 
 He wrote the log at the table while she cleared it, because she had said she wanted the room empty by the time the fire was lit and he had learned not to be one of the things on the table.
 
-*Hundred and ninth day. Thornwater, the common room, the tables cleared. A hundred and eight in hand; nothing owed; nothing earned. Nineteen.*
+*Hundred and ninth day. Thornwater, the common room, the tables cleared. A hundred and two in hand; nothing owed; nothing earned. Nineteen.*
 
 *Karis dated the floor. Older than everything. She has a hypothesis she won't write down. I have four people who saw what I did inside, and one healer who felt what I'm made of, and I've told none of them why I think it worked. Lira first. Tomorrow. It's always been Lira first.*
 

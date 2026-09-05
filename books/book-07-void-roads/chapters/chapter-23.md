@@ -34,13 +34,13 @@ The fork was on the second morning.
 
 It was a fork because Seln said it was: a place where the track they were on went on east and south along Karis's line, and a second track, older, went off north-west toward a gap in the hills that Oryn looked at once and did not look at again, because looking at a road you are about to take is not a thing a healer does in front of people.
 
-"Thornwater's that way," she said. "Four days, by that gap. I'm eleven days late there, and eleven days is eleven days, and there's an old woman at Thornwater whose knee I said I'd see, and I said it in the spring." She had the mule's rope in her hand and the roll on her back and her face square to the north-west track, which was how she stood at everything. "I've been a stop on my own route for nine days. I'm going back to being the route."
+"Thornwater's that way," she said. "Four days, by that gap. I'm three weeks late there, and three weeks is three weeks, and there's an old woman at Thornwater whose knee I said I'd see, and I said it in the spring." She had the mule's rope in her hand and the roll on her back and her face square to the north-west track, which was how she stood at everything. "I've been a stop on my own route for nine days. I'm going back to being the route."
 
 He walked her to the fork.
 
-Fifty paces, from where the five of them stood with the mules to where the two tracks parted at a stone that was only a stone, and he walked them beside her with his hands at his sides and did not say the thing he had had since the marsh, which was a sentence that asked her to stay, and which was a good sentence, and which he did not say, because the whole of her being with them at all had been built on a bank at Millrace out of the fact that nobody had asked her to come and nobody would ask her not to go. That was the condition. He had entered it at a ford in his own hand. A man who breaks the condition at the first fork it costs him has not understood the condition.
+Fifty paces, from where the four of them stood with the mule to where the two tracks parted at a stone that was only a stone, and he walked them beside her with his hands at his sides and did not say the thing he had had since the marsh, which was a sentence that asked her to stay, and which was a good sentence, and which he did not say, because the whole of her being with them at all had been built on a bank at Millrace out of the fact that nobody had asked her to come and nobody would ask her not to go. That was the condition. He had entered it at a ford in his own hand. A man who breaks the condition at the first fork it costs him has not understood the condition.
 
-She stopped at the stone. She looked at the five behind him, once, the way she looked at a line of patients at a table's end — a count, and a finding — and then at him.
+She stopped at the stone. She looked at the four behind him, once, the way she looked at a line of patients at a table's end — a count, and a finding — and then at him.
 
 "Find me at Thornwater," Oryn said.
 
@@ -48,7 +48,7 @@ It was the sentence she had said at Oxhollow's gate with the road calling her no
 
 "Bring the map," she said.
 
-Then she turned the mule's head north-west and went, and did not look back, because a healer walking her route does not look back at a crew walking off it, and he stood at the stone until the gap in the hills had her, and went back to the five.
+Then she turned the mule's head north-west and went, and did not look back, because a healer walking her route does not look back at a crew walking off it, and he stood at the stone until the gap in the hills had her, and went back to the four.
 
 Nobody said anything about it. Lira, one-armed, shifted the crossbow on its strap, and Brom picked up the mule's rope, and Karis looked at the straightedge in her hand, and Seln, ahead, had already gone on along the line, and Cael took the log out and wrote one line standing, at the fork, because the fork was where it had happened.
 
@@ -134,6 +134,6 @@ They camped on the crest with the fire small and the cordon below them in the da
 
 He wrote the log on the crest, by the small fire, in the plain hand, with the fourth circle below him in the dark, and read it back once, and found the one thing in it he had written without meaning to, and let it stand, because it was true.
 
-*Hundred and twenty-third day, the crest above the fourth. A hundred and eight in hand; nothing owed. Nineteen. Ten. Five of us; the sixth on her route.*
+*Hundred and twenty-third day, the crest above the fourth. A hundred and two in hand; nothing owed. Nineteen. Ten. Five of us; the sixth on her route.*
 
 *Four sites. One line. The last one's twice the size and the Compact fenced it. The bearing runs through it and keeps going. Karis says four points is an argument. I say it's a bearing — the kind their maps draw as nothing. Home is Lowmarch now. I just wrote that without noticing. Nineteen, ten fragments, a still place at the center of me, and a line on a map that somebody drew before there were maps. We're not done. We're oriented.*
