@@ -24,3 +24,8 @@ Correction (2026-09-04, after Ch3): the reconciliation audit's item 8 ('Thornwat
 
 | 14 | The deep-layer date (Ch5 hold) | Five years and a hundred-some days back — Cael's Kindling day at fourteen (he is nineteen). 'Six years' is the office's and the marshal's rounding. Ch3's closed gloss corrected to 'some months before he had begun staying out of files'. | Ch3, Ch5; plant ledger |
 | 15 | The fourth site's grade mark (Ch5 hold) | The SAME stroke-and-bar as the three (B7: the Stair's stake; the fourth's cordon); the fourth differs in size only; all four second-tier. The 'two strokes' invention withdrawn. | Ch5; Ch17/Ch20 |
+
+| 16 | The mule (Ch6 vs Ch7–17) | RULING: the mule went NORTH with Oryn on the 281st (Ch6, closed). The crew carries the boxes — Brom, Lira, Cael; the kit's case on Vastin — from the fork to Treswick and back to Millrace; Treswick's carter's mule at the trough carries Ch8's beat; the inn's chair is 'a chair nobody sat in'. Oryn brings the mule back to the bearing at Millrace (Ch18) and puts Karis's boxes on it herself. | Ch7, Ch8, Ch11, Ch14, Ch16, Ch17, Ch18 repaired 2026-09-05 |
+| 17 | Cleon's Path and tier in Seln's Ch8 report | EXCEPTION: kept ('Rune Path. Bronze.') — STATE_RUNNING and Ch9–13 depend on it; the packet's prohibition is overridden at planning. | Ch8 repair packet exceptions |
+| 18 | Vastin's confession (Ch7) | Narrowed to conduct and interior: 'I declined to read you a second time. You know that. What you do not know is why.' — no falsified file line, no ordered inquiry; consistent with B4/B6 (declined a second reading; sent it up). | Ch7 |
+| 19 | 'color' in Ch7's fixed log | The card's spelling stands in the log; narration uses 'colour'. Not an author alteration. | Ch7 |

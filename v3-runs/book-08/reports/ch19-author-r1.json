@@ -1,0 +1,76 @@
+{
+  "schema_version": "3.0",
+  "run_id": "b8-ch19-r1-author",
+  "scene_id": "b8-ch19",
+  "draft_path": "v3-runs/book-08/drafts/ch19.md",
+  "word_count": 5075,
+  "target_words": 4600,
+  "obligations": [
+    {
+      "item": "The five-day leg dated (299th–303rd); the Stair's bowl; the Hall's marsh; Oryn's road turning and her walking on; 'known'",
+      "status": "MET",
+      "evidence": "five dated entries; 'The road to Oryn's last three holds turned north off the bearing at a cairn … walked on east'; 'under each date, the same line … known'"
+    },
+    {
+      "item": "The fourth site as B7 drew it + the NEW watch-post; Seln: 'Years. Not one winter.'",
+      "status": "MET",
+      "evidence": "'Eight hundred metres across … the number on every stake and the small mark beside the number, the stroke and the bar' … 'A post. Timber …' … 'That iron's been in the ground years. Not one winter. The scale's through it.'"
+    },
+    {
+      "item": "Four exchanges, terrain-caused; Teague's Force at close range with Cael beside him → THIRTEENTH notice in full; herding to the line and stepping inside; FAIRNESS stated; the watch breaks; win-sentence",
+      "status": "MET",
+      "evidence": "'that was the first exchange, and the watch had it' … the barricade 'went, a body's length' … '*Force-adjacent. Teague. Partial. Bronze …* Thirteenth.' … 'Nothing was gained inside … exactly what the seven would be a stride past it' … 'By count … Over the iron' … 'The crews had removed the watch's ability to hold the approach …'"
+    },
+    {
+      "item": "Nobody declares; nobody dead; no faces; no pursuit; cost without gore",
+      "status": "MET",
+      "evidence": "'nobody answered it, because nobody declared' … 'Nobody dead. Nobody declared.' … 'nobody pursued them'"
+    },
+    {
+      "item": "Costs: Teague's recoil (wrist → elbow → shoulder); the broad man's fall mended at Oryn's price; the thirteenth listens",
+      "status": "MET",
+      "evidence": "'It clicked, and then the elbow did' … 'broken above the ankle … sat down on the slope, all at once, the colour gone out of her' … 'The thirteenth listened.'"
+    },
+    {
+      "item": "The Span entered; carvings copied; Cael in the middle, nothing happens; the bearing through",
+      "status": "MET",
+      "evidence": "'A span. A bridge — an arch, of the grey stone that had no seams' … 'The carvings were on the piers' … 'Nothing happened to him.' … 'Through'"
+    },
+    {
+      "item": "Close on the LOG, fixed text verbatim",
+      "status": "MET",
+      "evidence": "the closing paragraph"
+    }
+  ],
+  "plants": [
+    "The thirteenth listens for a thing to push against; the ribs know the cost — Ch21",
+    "'They've always known' — Ch20's records; Ch21",
+    "The oldest one out there — Ch23",
+    "The two healers' nod — Ch21"
+  ],
+  "payoffs": [
+    "B7 Ch23: the cordon crossed; a healer within reach this time",
+    "Ch12: declaration-discipline held by ten",
+    "Ch17: Force priced before use; the contract's 'whoever is nearest'"
+  ],
+  "names_minted": [],
+  "tic_census": {
+    "one_word_paragraphs": 1,
+    "the_way_x_verb": 2,
+    "upside_down": 0,
+    "four_hundred_years": 0
+  },
+  "state_change_proposals": [
+    "Dates: 299th–303rd the leg (the Stair's bowl 300th; Oryn's road turned at a cairn 301st — she walked on; the Hall's marsh 302nd; the crest 303rd); the fight and the Span the 304th. Cash 123.",
+    "THE WATCH-POST: timber hut, fire, a hide over kit, a two-timber barricade across the shelf; seven hooded, two crossbows, one low practitioner; expected six; broke east along the perimeter at eleven seconds; not pursued. Seln: the iron 'years, not one winter' (no number).",
+    "TERRAIN: the shelf a cart's width between the sink (a drop of three men's height onto loose stone) and the iron; the line a stride past the iron; 'There was no round.'",
+    "FRAGMENT THIRTEEN: Force-adjacent (Teague; partial; Bronze) — notice as logged; it LISTENS (wants a thing to push against; the ribs know the cost).",
+    "COSTS: Teague's wrist, elbow and shoulder along the line ('a third time on that arm and I'll set it in a splint'); the broad man's leg broken above the ankle at the sink's edge — set and knit by Oryn in one holding, bears in three days, limps worse; Oryn a quarter of an hour grey on the slope ('Nobody died of that'); the other healer NODDED (second exchange). Brom took two bolts on Iron (shoulder, forearm) — no wound entered beyond a bruise. Vastin over the iron on the knee (day 25).",
+    "Teague said 'Noted' twice (the crest; the arm). Karis: 'They knew.'",
+    "THE SPAN: an arch of seamless grey stone on two piers over the sink; the crown taller than a man; carvings on the piers' inner faces (same make), copied; the bearing 'Through' — the span's line and the sites' line the same; nothing happened to Cael on the crown; the mule stayed at the hut."
+  ],
+  "deviations": [
+    "'four hundred metres' appears (distance, B7's figure) — not 'four hundred years'.",
+    "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; violence with cost and without gore; no sexual content; the crew's conduct decent. The watch are people on a posting; nobody dies; nobody is pursued."
+  ]
+}
