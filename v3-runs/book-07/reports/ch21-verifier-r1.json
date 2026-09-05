@@ -1,0 +1,72 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch21-verifier-r1",
+  "scene_id": "b7-ch21",
+  "editor_run_id": "b7-ch21-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch21-r1-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch21-r1.md: They spent the afternoon outside the line on trials, and he wrote it as one, because Karis would, and because the six of them had walked int",
+        "packets/ch21.json (EXC-B7-005 added); STATE_RUNNING calendar"
+      ],
+      "reason": "Resolved at the planning layer by EXC-B7-005 (in the packet): the trials are run from the hall's outer coping inside the perimeter after a staged crossing on the causeway; camp back outside the line at dusk; onto the floor at first light."
+    },
+    {
+      "finding_id": "ed-b7-ch21-r1-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch21-r1.md: \"Something's been up the bank,\" Seln said. \"Something big enough to leave that, and it went back into the water, and it lives in the water, ",
+        "packets/ch21.json (EXC-B7-005 added); STATE_RUNNING calendar"
+      ],
+      "reason": "The churned mud is now heaved from under the water's edge ('It's never been out'); the water-bound rule is single and evidence-supported."
+    },
+    {
+      "finding_id": "ed-b7-ch21-r1-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch21-r1.md: Brom put his weight where he was told. He was on his feet in the shallows with Oryn's hands in his coat and the shoulder pouring, and he wen",
+        "packets/ch21.json (EXC-B7-005 added); STATE_RUNNING calendar"
+      ],
+      "reason": "The hall is twelve strides square; no wall more than six strides from the broken centre; the shooters at four meters and Brom's brace at two strides are now reconstructable; the stone trials at five strides."
+    },
+    {
+      "finding_id": "ed-b7-ch21-r1-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch21-r1.md: From the coping. Seln with his own bow, kneeling, at four meters, two bolts into the pale in the time it took the jaws to close twice. Lira ",
+        "packets/ch21.json (EXC-B7-005 added); STATE_RUNNING calendar"
+      ],
+      "reason": "Lira fires two pre-spanned bows (Oryn's, spanned by Seln at the stone; Brom's, left wound on the coping) — two hits; Seln fires, spans with the stirrup, fires — two hits; Cael holds the point through it; the later bolt in Oryn's bow is spanned again by Seln on the causeway."
+    },
+    {
+      "finding_id": "ed-b7-ch21-r1-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch21-r1.md: She had gone over the stone first, with Brom's coat in her fist, and had stopped, and checked her hands, and said \"Back,\" and had not said a",
+        "packets/ch21.json (EXC-B7-005 added); STATE_RUNNING calendar"
+      ],
+      "reason": "'five days before' (Ch19's mend on the 114th; the fight on the 119th)."
+    },
+    {
+      "finding_id": "ed-b7-ch21-r1-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch21-r1.md: Not on the track. On the marsh's dry edge, back to the stone, boots in the reeds, wet to the waist, hands in her lap, face grey, eyes on the",
+        "packets/ch21.json (EXC-B7-005 added); STATE_RUNNING calendar"
+      ],
+      "reason": "Reserve accounting matched to the single mending: 'an hour's mending on one shoulder for the second time in five days, on a morning that had already taken the rest of her in the water'."
+    },
+    {
+      "finding_id": "ed-b7-ch21-r1-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch21-r1.md: He saw it turn because he had the Iron read on the floor under the water and the floor told him where a thing the weight of a cart was pushi",
+        "packets/ch21.json (EXC-B7-005 added); STATE_RUNNING calendar"
+      ],
+      "reason": "The Iron read's cost entered in the self-catalogue ('the read at its dearest ... attention he had not had to spare')."
+    }
+  ]
+}

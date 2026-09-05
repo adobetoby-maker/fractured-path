@@ -311,3 +311,25 @@ aural-distinctness rule — do not pre-mint them here and let them go stale.
 | Name | Type | Chapters | Screening |
 |---|---|---|---|
 | Millrace | Place — ford settlement on the Stair road, one day south of Lowmarch; one of Oryn's seven route stops (EXC-B7-003) | 17 (Teague's line), 18+ | No M-/mill- proper noun in B1–B7 prose; MIL-race distinct by ear from Marlowe / Merrick / Marrow; no -water (Thornwater), -hold (Norhold), -mere, -vane suffix; O-onset stack (Oryn/Oxhollow/Ostrand) not added to. |
+
+### Book 7 census — names in drafted prose (2026-09-04, post-loop C.4)
+
+Series-level names used in Book 7 and already carried (Cael, Lira, Brom, Karis, Seln, Oryn, Hesk, Ternhall, Denvash, Ardenmere, Ostrand, Feryn, Reydan, Ephram, Vastin, Fiske, Daeva, Valdris) are not re-listed.
+
+| Name | Type | Chapters (count / span) | By-ear screening |
+|---|---|---|---|
+| Pike | Person — Lowmarch board-keeper | 17 / ch1–24 | Pike/Fiske — LOW (registry already lists); Pike/Pyke none |
+| Teague | Person — Lowmarch wall-captain / Compact reach | 11 / ch2–24 | TEEG — no T-onset long-E name in B1–B7; Teague/Keth distinct |
+| Lowmarch | Place — edge town, the board | 17 / ch1–24 | LOW-march — no L-onset place in B1–B6 (Lira is a person, two syllables, different vowel) |
+| Thornwater | Place — hold on Oryn's route | 22 / ch1–24 | THORN — Torvin is T-onset not TH; distinct |
+| Oxhollow | Place — hold; the gate | 9 / ch5–24 | OX-hollow — O-onset stacks with Oryn/Ostrand in spoken runs (audiobook read-through list) |
+| Millrace | Place — ford on the Stair road (EXC-B7-003) | 4 / ch17–24 | MIL — screened at minting |
+| Fallow Ring | Site 1 | 6 / ch8–19 | FAL-oh — Havel (HAV-el) distinct |
+| Long Stair | Site 2 | 3 / ch17–20 | plain words |
+| Drowned Hall | Site 3 | 2 / ch21–22 | plain words |
+| Quieting | Term — the dead-Path phenomenon | 1 / ch15–15 | KWY-eting — Quenna (KWEN-a) is a person, different vowel; LOW |
+| stillhound | Fauna | 5 / ch1–10 | compound of plain words |
+| shale-back | Fauna | 4 / ch5–13 | compound of plain words |
+| wold-wyrm | Fauna — the Hall's animal (carter name) | 1 / ch21–21 | WOLD-wurm — no W-onset fauna elsewhere; Wray/Withrow are persons |
+
+Dispositions: no renames required for Book 7. Audiobook read-through list (carried from LINE-EDIT-BACKLOG.md): Feryn/Oryn never in one list run; Oryn/Oxhollow/Ostrand O-onset stacking; Pike/Fiske.

@@ -1,0 +1,128 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch21-r3",
+  "scene_id": "b7-ch21",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch21.md",
+  "word_count": 5290,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH21-R2-001 (HIGH): Reconcile the chapter's crossbow inventory with the frozen state: either establish on the page where the secon",
+      "status": "MET",
+      "evidence": "Single weapon throughout: Oryn's crossbow (Brom's since the Ring), laid on the coping when Brom went down, taken up by Seln; four bolts from the sleeve; Lira fires twice with Seln spanning between (stirrup, foot, string) while Cael holds the point; Seln then keeps it for his two. Line 205 now 'spanned and loaded, because on the causeway she had asked Seln to'."
+    },
+    {
+      "obligation": "ED-B7CH21-R2-002 (MEDIUM): Place the bent bar once, consistently with the hundred-and-seventy-meter figure and the two-hundred-meter peri",
+      "status": "MET",
+      "evidence": "Bent bar placed once: at the hall's lip, read from the line at a hundred and seventy meters ('by more than a hand's height, or it would not have shown'); direction of bend given as Seln's reading. 'Ten paces past the stake' removed."
+    },
+    {
+      "obligation": "ED-B7CH21-R2-003 (LOW): Close the punctuation in Oryn's line so the naming clause ends cleanly before 'I've never seen it', without re",
+      "status": "MET",
+      "evidence": "'call it the wold-wyrm. I've never seen it.'"
+    },
+    {
+      "obligation": "ED-B7CH21-001 (BLOCKER): Resolve the packet's outside-line versus wall-top conflict explicitly, then stage every trial and boundary crossing at p",
+      "status": "MET",
+      "evidence": "Resolved at the planning layer by EXC-B7-005 (in the packet): the trials are run from the hall's outer coping inside the perimeter after a staged crossing on the causeway; camp back outside the line at dusk; onto the floor at first light."
+    },
+    {
+      "obligation": "ED-B7CH21-002 (HIGH): Keep the churned ground without attributing out-of-water travel to the wyrm, and preserve a single consistent, evidence-",
+      "status": "MET",
+      "evidence": "The churned mud is now heaved from under the water's edge ('It's never been out'); the water-bound rule is single and evidence-supported."
+    },
+    {
+      "obligation": "ED-B7CH21-003 (HIGH): Reconcile the hall dimensions, broken-center position, wyrm length, Brom's wall brace, and both shooters' contact range ",
+      "status": "MET",
+      "evidence": "The hall is twelve strides square; no wall more than six strides from the broken centre; the shooters at four meters and Brom's brace at two strides are now reconstructable; the stone trials at five strides."
+    },
+    {
+      "obligation": "ED-B7CH21-004 (HIGH): Stage a physically legible one-armed firing and reload solution, deliver two underside hits from each assigned shooter, ",
+      "status": "MET",
+      "evidence": "Lira fires two pre-spanned bows (Oryn's, spanned by Seln at the stone; Brom's, left wound on the coping) — two hits; Seln fires, spans with the stirrup, fires — two hits; Cael holds the point through it; the later bolt in Oryn's bow is spanned again by Seln on the causeway."
+    },
+    {
+      "obligation": "ED-B7CH21-005 (MEDIUM): Correct the elapsed-time reference to match the Chapter 19 mend, Chapter 20's dated day, the three-day journey, and the ",
+      "status": "MET",
+      "evidence": "'five days before' (Ch19's mend on the 114th; the fight on the 119th)."
+    },
+    {
+      "obligation": "ED-B7CH21-006 (MEDIUM): Make the stated reserve expenditure match the single staged mending, or stage and authorize any additional treatment bef",
+      "status": "MET",
+      "evidence": "Reserve accounting matched to the single mending: 'an hour's mending on one shoulder for the second time in five days, on a morning that had already taken the rest of her in the water'."
+    },
+    {
+      "obligation": "ED-B7CH21-007 (LOW): Name or show the Iron read's established per-chapter cost or attention constraint while preserving the fragment inventor",
+      "status": "MET",
+      "evidence": "The Iron read's cost entered in the self-catalogue ('the read at its dearest ... attention he had not had to spare')."
+    },
+    {
+      "obligation": "must_include: The wyrm taught from outside over an afternoon with ALL the listed trials.",
+      "status": "MET",
+      "evidence": "The surface moving wrong (a bulge 'as if the water had taken a breath'); the stake at the hall's lip bent 'from below'; Oryn's carters' word ('the wold-wyrm ... Big. Under. Comes up. Nobody's seen it whole'); first stone in the shallows — the water answers 'at the stone ... At the place the weight is'; second stone thrown to skip — the skips ignored, the settle answered at fourteen; Seln writes the rule on Karis's page in his own hand ('It's blind. It reads weight on the floor. It strikes where the weight is. And it strikes what *stays*'); Cael's trial from the coping, Karis timing: one Anchor-adjacent fixed point twenty paces out — 'a weight that did not sit on the floor but pressed on it and kept pressing' — the water answering at once and not stopping (forty, sixty); Karis: 'It reads that as the heaviest thing on the floor.' / Cael, releasing: 'It reads that as the thing that *stays*.'"
+    },
+    {
+      "obligation": "must_include: Lira/Karis exchange verbatim before entry.",
+      "status": "MET",
+      "evidence": "'We're going in without Paths to look at walls with a thing under the floor.' / 'Yes,' Karis said. / 'Just checking that's the plan.'"
+    },
+    {
+      "obligation": "must_include: Four exchanges as staged with the walls, water depths and broken center as terrain; ≥2 terrain-caused beats; geography drawable; the wyrm's shape in pieces until it surfaces at the point.",
+      "status": "MET",
+      "evidence": "First: the floor opens under Brom, who STOPPED to put Karis up the wall ('the heaviest thing in the hall, and he had settled'); a jaw and a mud-coloured length, no whole. Second: the walls — coping a boot wide as cover and trap; water a boot deep, deep at the broken centre where it turns; 'It can't leave the water. It can't reach a coping'; Karis copying from the wall under her boots ('I'm not getting another chance' / 'No, I can see that you're not' — one paragraph). Third: Brom's shoulder opens on the wet coping; he slips; Oryn into the shallows forward, skipping-stone; the first pass misses; the second turns toward where she is going. Fourth: Cael in, Compression at the broken edge taking the strike on himself ('it had struck a thing that stayed and had not moved it'); Anchor laid on the floor at the broken centre ('A thing that hunts what stays commits to the thing that stays hardest'); the wyrm whole for the first time, pale underside exposed; Brom's weight at the wall's foot; Seln two bolts, Lira two one-armed with Oryn's crossbow braced; the point released; it lets go and goes under. Terrain-caused: the coping's wet width (Brom slips); the broken centre's depth (where it turns; where the point is laid); the causeway as the only dry way in. Drawable: square forty strides, the doorway, the coping, the broken centre, positions named."
+    },
+    {
+      "obligation": "must_include: Oryn's entry as a healer reaching a patient; skipping-stone movement; the second pass imminent.",
+      "status": "MET",
+      "evidence": "'she was a healer who could not heal on this floor reaching a patient who was falling ... She did it as the thing that was nearest.' / 'she kept moving ... skipping, stride to stride, never the weight down long enough to be a weight'; 'The second pass turned ... to where she was *going*, because she was going to Brom, and Brom had stopped'."
+    },
+    {
+      "obligation": "must_include: Cael's turn with the fragments named; Brom's weight; Seln's and Lira's bolts; the wyrm not killed; the win legible.",
+      "status": "MET",
+      "evidence": "Compression ('Reydan's, at contact'); Anchor ('the binding from the Ostrand road ... laid now to stay'); 'Brom. Wall. Your weight. Now.'; four bolts into the pale; 'It did not die. He had not thought it would. Four bolts in a thing that size were four splinters'; the point released, 'the jaws closed on nothing ... let go of the place, and turned, and went down'. Win: Cael took away the wyrm's choice of target by giving the floor one point that never moved (the rule, taught cold, turned into the weapon)."
+    },
+    {
+      "obligation": "must_include: Costs outside the line; Oryn's register breaking with the fixed exchange; ENDS on 'Lie still. I want to read you.'",
+      "status": "MET",
+      "evidence": "Brom's shoulder mended a second time ('Twice. It'll hold twice. It will not hold three times this season'); Oryn drained, sitting at the marsh's edge 'for a long while'; Cael spent (Compression's bill in the ribs; Anchor held against biting — 'the whole of the rest'). Fixed: 'You went in the water.' / 'You went in for Brom.' / 'Brom's on my route.' / (a pause, the register left on the coping) 'So are you.' Last line contiguous: 'Lie still. I want to read you.'"
+    },
+    {
+      "obligation": "must_include: The tenth fragment used on no one.",
+      "status": "MET",
+      "evidence": "'The tenth fragment used on no one, because there had been no one to read and no reading that would have stopped a jaw.' grep Tide → 0 in the fight."
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 21 — The Drowned Hall', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; six '---' breaks; the four exchanges are plain numbered sentences (no bold); ends on Oryn's line; metadata 0."
+    },
+    {
+      "obligation": "plants: three sets of carvings and a straightedge; 'So are you.'",
+      "status": "MET",
+      "evidence": "Karis: 'Walls. I've the walls. Twelve sheets'; the straightedge in her coat from the rise; Oryn's line verbatim."
+    },
+    {
+      "obligation": "prohibited_outcomes: the wyrm not killed; nobody dies; injuries as listed; no tenth-fragment use; no reading of the wyrm; no untaught mechanism; no theory; no Path/mind; no Teague/letters/Vastin; no new names; not a log or image ending; tics; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "Not killed; nobody dies; injuries: Brom's shoulder reopened and mended (second time), Cael spent, Oryn drained. No Tide use; no reading; every mechanism taught in the afternoon (skips ignored; settle struck; the fixed point as weight that never stops arriving; Compression and Anchor from B2/B6). The wyrm is 'a thing of the floor and the water on the floor' — no mind. Teague 0; no letters. No new names ('wold-wyrm' is the packet's common-noun compound). Ends on dialogue (Ch20 ended on the log). Capped tics 0; one-word paragraphs 0; 'at the pitch' 0."
+    }
+  ],
+  "inventions": [
+    "The Hall's geography: roofless square forty strides on a side, walls to the shoulder, the spring's broken centre, a marsh ring, a causeway a stride wide as the only dry way in; stake thirty-three at the line, a bent bar at the lip.",
+    "The trials' textures (the breath-like bulge; the answer at eleven and fourteen; Seln writing in Karis's notebook in his own hand — 'which nobody did, and Karis let him'); Cael's first deliberate use of Anchor as a trial ('every other time it had been an idle want').",
+    "Brom putting Karis up with both shoulders before going sideways; Lira firing Oryn's crossbow one-armed braced on the coping and her knee ('badly was enough'); Oryn's 'Twice. It'll hold twice.'; Karis's one unshown word."
+  ],
+  "state_change_proposals": [
+    "Timeline: three days along the bearing (116th–118th); the Hall reached on the afternoon of the 118th; trials that afternoon; camp at the line; entry at first light on the 119th; the fight in the morning; Oryn's hour and the long sit outside the line; Ch22's rest begins the 119th.",
+    "THE DROWNED HALL (third site, on the kit's bearing at the carter's third blank): roofless walls to the shoulder, twelve strides square, carved floor to coping in the courses; a spring through the broken centre; water a boot deep, deep at the centre; a marsh ring the Quiet's radius; a causeway; stake THIRTY-THREE at the line (old, five winters, no second stake); a bar bent from below at the hall's lip; churned mud from the line to the water. The wold-wyrm: blind; reads weight on the floor; strikes what stays; water-bound; seen WHOLE once at the fixed point (a cart and a half; armored; pale underside); four bolts in it; alive, under the spring.",
+    "KARIS: twelve sheets of the Hall's walls (the third set); the straightedge carried; one word written unshown.",
+    "INJURIES: Brom's shoulder reopened on the wet coping and MENDED a second time ('will not hold three times this season'); Cael spent (Compression at contact against the wyrm — the ribs' bill; Anchor held against biting); Oryn drained, wet to the waist, register broken then restored; Lira unhurt (one-armed, fired Oryn's crossbow); Seln unmarked; Karis unmarked.",
+    "FRAGMENTS: Anchor-adjacent laid as a trial (twenty paces out, held a minute) and in the fight (the broken centre, held through four bolts); Compression-adjacent at contact against the wyrm; Iron read on the floor under water; nothing else; Tide unused.",
+    "ORYN: 'Brom's on my route. So are you.' — the route includes Cael by her word; 'Lie still. I want to read you.' — the second reading is Ch22's.",
+    "Kept sentences: Oryn — the carters' report; 'Twice. It'll hold twice.'; the fixed exchange; Seln — the rule in his own hand; 'as long as nobody's on the floor, it's a thing in a pond'; Karis — 'Then we make it come up where we can see it.' / 'I'm not getting another chance'; Lira — 'Just checking that's the plan.' / 'No, I can see that you're not.'; Brom — 'Walls.' / 'Arm.'"
+  ],
+  "deviations": [
+    "Targeted repair r2→r3: three flagged spans replaced (lines 21, 33, 169), plus four trims for the word band (lines 61, 157, 173, 205 — restatements the editor listed as taste concerns); r2 preserved at drafts/ch21-r2.md; byte-identical elsewhere."
+  ],
+  "blockers": []
+}

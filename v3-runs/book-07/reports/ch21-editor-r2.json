@@ -1,0 +1,424 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch21-r2-editor",
+  "scene_id": "b7-ch21",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.packet_coherence",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "EXC-B7-005 in the packet permits the afternoon's trials from the hall's OUTER coping inside the perimeter, with the crossing staged and camp back outside the line at dusk. The repaired draft stages exactly that scope: line 29 crosses at the stone in Seln's order with Oryn checking her hands ('Gone'), walks the one dry causeway to the hall's outer wall, runs every trial from its coping ('The wall was not the floor; they stood on stone the floor could not reach and did not once go through the doorway'), returns over the stone at dusk ('Back') and camps at the line; line 93 puts the party onto the floor only at first light. The exception's authority clause is also honored on the page: line 29 states nothing thrown from the line would reach the water, and line 7 gives the hall as twelve strides square. The r1 BLOCKER is resolved."
+    },
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "Line 5 gives three days along the kit's bearing from the Stair; line 185 now reads 'the mark she had made five days before', which reconciles Chapter 19's mend on the 114th with the fight on the 119th. Fragment count (ten), Cael at nineteen (line 191), the Quiet's radius, the single old stake numbered thirty-three (line 15) and the absence of a second stake all match the frozen state and Chapter 20's close."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Narration stays inside Cael's practical attention and never exceeds it: the wyrm is known only as jaw, mud-colour and length until it surfaces at the point (lines 109, 161); the second pass is perceived through the Iron read on the floor rather than sight (line 145); Oryn's motive is read as behaviour ('She did it as the thing that was nearest', line 135). No character theorizes a maker, a mind, or a purpose."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "Every must_include beat is present: the carters' word (line 33), the surface bulge (39), the settled stone answered at eleven (41), the skipped stone ignored and answered at fourteen (45), Seln's strike-what-stays rule entered in his own hand on Karis's page (47), Cael's Anchor trial with both fixed lines (57-69), the verbatim Lira/Karis exchange (87-91), four terrain-caused exchanges (107, 115, 125, 147), Oryn's skipping-stone entry and the imminent second pass (135-145), the turn with Compression and Anchor named (149-159), Brom's weight (165), four bolts (169), the wyrm alive (171-173), the costs outside the line (185-191), the fixed exchange (195-203) and the closing line (209). Plants: the third set of carvings ('Twelve sheets', 177) and the straightedge (3, 9); Oryn's 'So are you.' Payoffs: Chapter 20's bearing, the Ostrand-road binding, Reydan's Compression, Chapter 19's 'no column' (205)."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Repaired. The wyrm is water-bound throughout — line 19 now reads 'Something's moved that from underneath ... It's never been out', and line 117 keeps the rule single ('the whole of it was comes up; nothing said comes out'). It is not killed (171), nobody dies, injuries are confined to Brom's reopened shoulder, Cael spent and Oryn drained. Greps return zero for Teague, Vastin, Compact, Architect, letter, and for 'at the pitch'. No new named entity. The chapter ends on dialogue, not a log or an image."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The winning mechanism is taught cold in the afternoon and then used: settled weight is struck, skips are ignored, and a fixed point is weight that never stops arriving (41-69). The climax spends only those components plus Compression, and the release is now causally tied to the last bolt ('he had let it go the breath after Seln's second bolt', 173). No untaught capability decides anything."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "FAIL",
+      "evidence": "Injuries, promises and knowledge persist correctly — Lira one-armed on a taped foot (85, 123), Brom's mend reopening as Oryn said it would (127), Oryn's route language carried forward. Possessions do not: the chapter fields three crossbows (Seln's own, Oryn's, and a separate 'Brom's') where the frozen state records one. See finding ED-B7CH21-R2-001."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The scene changes danger, obligation and relationship: a third site entered and copied, a rule proved on an animal, Brom's second mending spent against a stated season limit, and Oryn's clinical register broken and deliberately resumed (201-207)."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose is the series' own cataloguing close third — counted stones, timed answers, ledger arithmetic. Nothing reads as an identifiable outside author's construction."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the site from the rise (7), the terrain as the fight (117) and himself afterward (191). Speakers stay separable by priority: Seln states rules, Karis takes sources, Brom prices weight, Lira answers the plan, Oryn speaks in patients and routes."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "The Quiet arrives as a marked stride and a healer's hands going out; the Compact's history is a scaled iron stake and a bar bent from below; road lore reaches the page through a patient whose leg was in the thing's mouth; the animal is learned by two stones and a held point rather than described."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "Repaired. No wyrm behaviour beyond blind, pressure-reading, strikes-what-stays and water-bound survives; line 117 states the water-bound limit as an inference from the roads' word, not as a new rule. No Quieting theory, no Architect, no [UNBOUND], no mind or Path assigned to the animal."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "FAIL",
+      "evidence": "Attribution itself is sound: no run of more than three unattributed lines in any multi-party exchange, and the closing four-line exchange is anchored at 193 and 201. But the repair pass left a punctuation artifact inside Oryn's spoken line at 33 ('call it the wold-wyrm,: I've never seen it'). See finding ED-B7CH21-R2-003."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Named entities are Cael, Lira, Brom, Karis, Seln, Oryn, Reydan, Ardenmere, Ostrand, the Stair, the Ring — all registry-cleared and unchanged. No new name is minted; the wold-wyrm is the packet's common-noun compound."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "5,288 words against a 4,600 target at 15 percent tolerance (3,910-5,290): inside the band. The section 8.4 metadata grep and the section 10 summary-family grep both return zero. H1 heading present, prose only, section breaks as '---', last line is prose."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "All named section 9 capped phrases return zero. Standalone '[Name] noticed.' zero; single-word paragraphs zero; banned modern registers zero; feeling- and growth-declaration greps zero; 'at the pitch'/'at that pitch' zero. The identical 'the way X [verb]' construction peaks at two, inside one deliberate parallel contrast at line 21. Em dashes 39 in 5,288 words (down from 43) — no charter cap, carried as a concern."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 20 closed on a log entry; Chapter 21 closes on dialogue at line 209. No adjacent repeat."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Ten fragments held; three used and all billed — Anchor-adjacent as trial and as the fixed point, Compression-adjacent at contact, the Iron-adjacent read under water (191). Shadow-adjacent unused, seal intact. The tenth is explicitly used on no one. Injuries match the packet exactly: Brom's shoulder reopened and mended a second time with the season limit stated, Cael spent, Oryn drained; Lira, Karis and Seln unmarked."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "Six on the page throughout, with no seventh witness inside or outside the line. No non-circle observer sees any fragment used."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "PASS",
+      "evidence": "The walls Karis needs, the season-limited shoulder, the one-armed shooter and the healer who cannot heal on this floor are all established before the first strike (77-93)."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "PASS",
+      "evidence": "Repaired. A twelve-stride square with a broken centre six strides from any wall, a boot-wide coping at shoulder height, water a boot deep except at the centre, and a one-stride causeway: every position in the fight can be placed on that map, including Brom's brace two strides from the wyrm's flank (165) and the shooters at four meters (169)."
+    },
+    {
+      "gate": "combat.3_balance_reach_injury_equipment_ability",
+      "state": "FAIL",
+      "evidence": "Reach and injury now reconcile — four meters is the honest distance in a twelve-stride hall, and Lira braces rather than holds. Equipment does not: the required four hits depend on Lira firing two pre-spanned bows, one of them 'Brom's' as an object distinct from 'Oryn's', where the state and Chapters 18-19 use those two names for the same weapon and give Seln a knife rather than a bow. See finding ED-B7CH21-R2-001."
+    },
+    {
+      "gate": "combat.4_distinguishable_character_tactics",
+      "state": "PASS",
+      "evidence": "Each fighter solves the floor in character: Brom by weight and wall knowledge, Seln by converting an observation into a rule and by a stirrup reload, Karis by copying the wall she is standing on, Lira by bracing what she cannot hold, Oryn by moving like the second stone, Cael by turning the taught rule into a target."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence",
+      "state": "PASS",
+      "evidence": "Repaired. The decision is legible and its consequence is timed: the point is held exactly as long as the shooters need and released the breath after the last bolt, which is what makes the animal disengage (169-173)."
+    },
+    {
+      "gate": "combat.6_non_damage_story_state_change",
+      "state": "PASS",
+      "evidence": "The fight changes standing and obligation, not health alone: the third carving set is in hand, the rule is proved on an animal, and Oryn's route is redefined aloud to include Cael."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "Repaired. Line 189 now bills only what was staged — 'an hour's mending on one shoulder for the second time in five days, on a morning that had already taken the rest of her in the water' — with no invented second treatment, and Oryn's required silence is preserved."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No acquisition or rank change occurs in this chapter."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Repaired. Line 191 now bills all three fragments used, including the Iron read — 'the read at its dearest, because a floor under water is twice the ground to feel and half the attention to feel it with — paid in the coin it always took, attention he had not had to spare' — consistent with the read being the cheapest thing he owns elsewhere."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "The change is social and practical rather than numeric: a healer states that her route now includes him."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "Compression-adjacent (B2) and Anchor-adjacent (B6 Ch13, restated as the Ostrand-road binding) both decide the fight, and the Anchor behaviour that matters was cold-tested that afternoon."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "No rival is frozen to accommodate the unit; Teague's crew is three days behind at the Stair and correctly absent."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The tactical problem — a blind pressure-hunter in water, on a floor where nothing works — differs from the ford, the Ring and the rim."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "Brom's reopened shoulder produces a stated season limit; the exhausted point-hold is entered as a new cost the ledger has never carried."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears in this chapter."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears in this chapter."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears in this chapter."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears in this chapter."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The Quieting's source, the carvings' meaning and the anomaly are all left untouched; nothing is rewritten for convenience."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "Compression then Anchor is a sequence of two established components, each of which has done independent work in earlier books; no new combination is minted."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Rank is not made relevant by this scene."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The resolving mechanism is taught in the same chapter, cold, with a counted result before anyone stands on the floor (41-71)."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Repaired. Anchor's cost is shown twice (held against biting, 'the whole of the rest'), Compression's bill lands in the ribs, and the Iron read's attention cost is now named at 191."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "One new site and one new animal against a page of extended existing elements — the bearing, the stakes, the carvings, two fragments, the route."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "The opening promise (the bearing's third site is where the line said) is paid: the site is entered, the walls are copied, the animal's rule is turned, and the route sentence lands."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "Every element of the climax is planted in the same chapter's afternoon or in prior books; nothing arrives unseeded."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The milieu thread opens at the line and closes outside it; the inquiry thread (is this the bearing's third site) is answered with a measurement and twelve sheets."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "The terrain paragraph at 117 is anchored to boot-depth water, wet stone and the width of a coping rather than to abstract rules."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Pass separation is a per-book process check, not observable in one chapter file."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "FAIL",
+      "evidence": "The fight is now drawable. The approach is not: the bent bar is placed both 'Ten paces past the stake' at the perimeter and 'at the hall's own lip', which the same chapter puts a hundred and seventy meters further in. See finding ED-B7CH21-R2-002."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "PASS",
+      "evidence": "Long comma-linked pressure sentences alternate with snap lines at every turn — 'It came up under him.' (103, 151), 'A thing that hunts what stays commits to the thing that stays hardest.' (159), 'It did not die.' (171)."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "PASS",
+      "evidence": "With names stripped, the beats remain reassignable by tactic: weight and wall, rule and reload, charcoal on a wall, a braced one-armed shot, a skipping healer, a declared fixed point."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "PASS",
+      "evidence": "The council at 77-91 establishes what the entry is for and what it costs before anything comes up under Brom."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Repaired. The elapsed-time reference now reads five days, matching Chapter 19's mend on the 114th and this fight on the 119th; Brom's mend reopens exactly as Oryn's Chapter 19 order predicted, and is mended a second time with a stated ceiling."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "PASS",
+      "evidence": "Stated in one sentence, the problem — a blind thing that strikes what stays, in water, with no Paths — differs from every previous fight in the book."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Nothing architecture-major is summarized; the afternoon's trials and the fight are both rendered in scene."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "PASS",
+      "evidence": "Well beyond the two-beat minimum: the causeway forces the approach, standing weight on the floor triggers the first strike, the wet boot-wide coping causes Brom's slip, the shallow water enables the skipping movement, and the broken centre's depth is where the animal turns and where the point is laid."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement occurs in this chapter."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No ladder or tournament round occurs in this chapter."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "PASS",
+      "evidence": "The win is a read and a rule, not a bigger number: the animal is defeated in its own arithmetic of weight."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rival appears in this chapter."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Progress is visible outside any measuring system in Oryn's route sentence and in the unit's silent acceptance at 205."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system box appears in this chapter."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional history is shown as an object acting on the ground — a stamped stake, a bar bent from below, a surveyor who wrote 'confirmed' and went home — not as speech."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "PASS",
+      "evidence": "The Karis/Lira exchange at 123 is funny 'for exactly the length of that exchange', and the sentence that ends it is Brom's shoulder opening."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Oryn's long silence at the marsh's edge and the four-line exchange that follows are the chapter's no-deflection beat."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "The reading's ask-first rule is re-armed rather than spent: 'The tenth fragment used on no one, because there had been no one to read' (191)."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ED-B7CH21-R2-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity_equipment",
+      "gate": "combat.3_balance_reach_injury_equipment_ability",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch21.md",
+        "line_start": 169,
+        "line_end": 169,
+        "quote": "Lira first, with both bows — Oryn's, which Seln had spanned for her at the stone that morning because she could not span a bow one-armed and had said so, and Brom's, which Brom had laid on the coping wound when he went down to give Karis a shoulder — braced one-armed against the coping and her knee and fired, badly, and at four meters into a thing the size of a cart badly was enough: one bolt into the pale, the bow dropped, the second bow up, the second bolt into the pale a hand from the first. Seln with his own, kneeling"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/STATE_RUNNING.md",
+        "line_start": 156,
+        "line_end": 156,
+        "quote": "Crossbow: Oryn's (carried two years), handed to Brom at the stone in Ch10's afternoon (off-page seam)."
+      },
+      "consequence": "The repair delivers the required four underside hits by fielding three crossbows — Seln's own, Oryn's, and a separate 'Brom's' — where the frozen state records exactly one in the unit's hands. 'Brom's bow' and 'Oryn's crossbow' are the same weapon in Chapter 18 ('Brom's bow') and Chapter 19 ('Brom, with the bow across his chest'), and Seln carries a knife on the Stair, not a bow. Read against that inventory, Lira has one bow rather than two, the second hit vanishes, and the four bolts the climax counts become three — which collapses the very obligation this repair was staged to satisfy. A reader tracking the crew's kit hits the contradiction inside the decisive exchange.",
+      "repair_target": "Reconcile the chapter's crossbow inventory with the frozen state: either establish on the page where the second and third bows came from, or stage Lira's two hits from the single recorded weapon (a reload she can perform one-armed, or a spanner working beside her) and give Seln a weapon the previous chapters have put in his hands.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ED-B7CH21-R2-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "geography",
+      "gate": "author.09_drawable_geography",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch21.md",
+        "line_start": 21,
+        "line_end": 21,
+        "quote": "Nobody asked why. Ten paces past the stake, at the hall's own lip where the wall's foot met the water, a second bar of iron stood out of the mud, and it was not straight. It was bent — the top of it a hand's height off true, and bent the way a nail bends when a thing under it pushes up, not the way a nail bends when a thing above it pushes down. Seln had seen it from the line. Seln had not gone to it."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch21.md",
+        "line_start": 29,
+        "line_end": 29,
+        "quote": "The trials could not be run from the line; it was a hundred and seventy meters out in the marsh and nothing a man could throw would reach the water from it."
+      },
+      "consequence": "The bent bar is fixed at two incompatible places. It is ten paces from a perimeter stake that line 15 puts 'in the reeds ten paces along the line', and it is simultaneously at the hall's lip, which line 29's repaired number puts a hundred and seventy meters further in and which line 13 frames as two hundred meters of marsh. The same paragraph then reports its inclination to a hand's height and the direction of the bend from a viewpoint that has not crossed the line. The repair sharpened the collision by putting an explicit distance on the page, and the bar is load-bearing evidence for the water-bound rule the fight depends on, so a reader who tries to place it loses confidence in the teaching sequence.",
+      "repair_target": "Place the bent bar once, consistently with the hundred-and-seventy-meter figure and the two-hundred-meter perimeter — either move the close observation to the causeway crossing later that afternoon, or drop the 'ten paces past the stake' locator and let Seln read it at distance in the terms distance allows.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ED-B7CH21-R2-003",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "production_hygiene",
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch21.md",
+        "line_start": 33,
+        "line_end": 33,
+        "quote": "call it the wold-wyrm,: I've never seen it. Nobody I've had my hands on has seen it whole."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch21-r1.md",
+        "line_start": 33,
+        "line_end": 33,
+        "quote": "call it the wold-wyrm, and they say it the way Pike says *the dogs*: as a fact about a road. I've never seen it."
+      },
+      "consequence": "The trim that removed the Pike clause left its colon attached to the surviving comma, so the wold-wyrm's only naming sentence in the book now carries a stray ',:' inside quoted dialogue. It is the animal's introduction, in a manuscript that goes to narration, and it is an artifact of this repair pass rather than anything in r1.",
+      "repair_target": "Close the punctuation in Oryn's line so the naming clause ends cleanly before 'I've never seen it', without restoring or replacing the trimmed comparison.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "The author report's deviation note says 'Eighteen localized replacements from r1', but the diff against ch21-r1.md shows thirty-seven changed paragraphs. Every one of them maps to a listed repair or to a compression trim, so nothing unrelated moved and no recorded strength was sanded away — but the report's own count understates the pass, which would matter if a later run trusted it as the change manifest instead of re-diffing.",
+    "Word count is 5,288 against a ceiling of 5,290 at the packet's fifteen percent tolerance. The chapter is inside the band by two words. Any future line-edit that adds rather than trims will push it out, and the repair pass net-added seven words while claiming to trim.",
+    "Taste only: 39 em dashes in 5,288 words is down from 43 but still the highest count of any drafted chapter in the book (Chapters 1-20 run between 5 and 34). No charter cap is violated and most marks carry Cael's catalogue syntax, so this is not a finding.",
+    "Taste only: the fixed-point idea is still restated after the cold trial has made it legible — 'heaviest thing on the floor', 'the thing that stays', 'a weight that never stopped arriving', 'commits to the thing that stays hardest'. The r2 trims reduced the density slightly; the payoff would land harder with one fewer restatement between line 149 and line 159.",
+    "Taste only: at line 205 the clause 'spanned again by Seln on the causeway because she had asked him to' takes a pronoun whose nearest antecedent is Oryn rather than Lira, and it arrives inside an already long sentence at the chapter's quietest moment.",
+    "Taste only: Karis's unshown one-word notebook entry survives the repair and still creates a small coy-information beat immediately after the much stronger explicit route exchange. It violates no obligation, so it stays in concerns."
+  ],
+  "strengths": [
+    "Yes: the worldbuilding is done through mechanism and use, and the repair strengthened it. The Quieting is a marked stride and a healer checking her hands; Compact history is a scaled stake and a bar bent from below; road lore reaches the page through a patient whose leg was in the animal's mouth; and the creature is learned by two stones, a count, and a held point rather than described. Nothing is explained that could be demonstrated.",
+    "Yes: the fight is memorably choreographed and terrain is load-bearing far past the two-beat minimum — and the twelve-stride repair made it drawable rather than merely vivid. The causeway forces the approach; standing weight triggers the first strike; the wet boot-wide coping causes Brom's slip; the shallows permit the skipping movement; the broken centre's depth is both where the animal turns and where the point is laid. The win is writable as: Cael removed the wyrm's ability to choose its target by giving the flooded floor one point that never moved.",
+    "The teaching sequence remains the chapter's best fairness work, and the relocation to the outer coping cost it nothing. Two stone behaviours isolate settled weight from sound and from motion; the Anchor trial then proves the exact interaction the climax needs, timed by a researcher who does not trust a count she did not make; and Karis's and Cael's fixed lines still distinguish two mental models of the same finding.",
+    "Oryn is still a healer in action rather than a fighter converted for a set piece. She enters the water because a patient is falling, takes the shortest line, applies the movement rule the afternoon taught, and pays the reserve cost outside the line. 'So are you' lands because the practical route has been her relationship vocabulary since Chapter 18.",
+    "The found-family division of competence survives the repair intact and should be protected in any further pass: Brom supplies weight and wall knowledge, Seln converts observation into a rule and then reloads under time, Karis copies because the evidence is the objective, Lira adapts one-armed, Oryn reaches the patient, Cael turns the rule. No two of them solve the floor the same way.",
+    "The packet's restraint holds everywhere it is tested: the wyrm is neither killed nor read, the tenth fragment is explicitly spent on no one, no mind or Path is assigned to the animal, no Quieting theory is approached, and the chapter trusts dialogue after Chapter 20's log.",
+    "The repairs are surgical and preserve voice. The water-bound rule now rests on a single piece of evidence read correctly ('There's no mark of anything on the top of the ridges but the weather'); the release of the fixed point is timed to the last bolt rather than to a bolt count; the Iron read's cost is entered in the same ledger register the book has used since Book 1; and the elapsed-time correction to five days reconciles cleanly with Chapter 19's mend and Chapter 20's dated day.",
+    "Production hygiene remains clean: metadata and summary-family greps return zero, every named section 9 tic returns zero, banned registers and feeling- and growth-declarations return zero, no single-word paragraphs, no new named entity, attribution survives audio, and the final beat type differs from Chapter 20's."
+  ]
+}

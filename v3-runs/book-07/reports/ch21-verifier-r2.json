@@ -1,0 +1,46 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch21-verifier-r2",
+  "scene_id": "b7-ch21",
+  "editor_run_id": "b7-ch21-r2-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ED-B7CH21-R2-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "STATE_RUNNING L156 (one crossbow: Oryn's → Brom at the Ring)",
+        "chapter-19.md L153/L175-181 (four rim crossbows left in the scrub; one broken by Seln; none taken)",
+        "chapter-18.md L81 ('Brom's bow')",
+        "drafts/ch21-r2.md L15/L21/L29 (stake ten paces along the line; hall 170 m out)"
+      ],
+      "reason": "Single weapon throughout: Oryn's crossbow (Brom's since the Ring), laid on the coping when Brom went down, taken up by Seln; four bolts from the sleeve; Lira fires twice with Seln spanning between (stirrup, foot, string) while Cael holds the point; Seln then keeps it for his two. Line 205 now 'spanned and loaded, because on the causeway she had asked Seln to'."
+    },
+    {
+      "finding_id": "ED-B7CH21-R2-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "STATE_RUNNING L156 (one crossbow: Oryn's → Brom at the Ring)",
+        "chapter-19.md L153/L175-181 (four rim crossbows left in the scrub; one broken by Seln; none taken)",
+        "chapter-18.md L81 ('Brom's bow')",
+        "drafts/ch21-r2.md L15/L21/L29 (stake ten paces along the line; hall 170 m out)"
+      ],
+      "reason": "Bent bar placed once: at the hall's lip, read from the line at a hundred and seventy meters ('by more than a hand's height, or it would not have shown'); direction of bend given as Seln's reading. 'Ten paces past the stake' removed."
+    },
+    {
+      "finding_id": "ED-B7CH21-R2-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "STATE_RUNNING L156 (one crossbow: Oryn's → Brom at the Ring)",
+        "chapter-19.md L153/L175-181 (four rim crossbows left in the scrub; one broken by Seln; none taken)",
+        "chapter-18.md L81 ('Brom's bow')",
+        "drafts/ch21-r2.md L15/L21/L29 (stake ten paces along the line; hall 170 m out)"
+      ],
+      "reason": "'call it the wold-wyrm. I've never seen it.'"
+    }
+  ],
+  "concerns_actioned": [
+    "Word band: r2 was 5,288; r3 trims three fixed-point restatements (lines 61/157/173) and line 205 so the repaired chapter stays at or under the 5,290 ceiling.",
+    "Line 205 antecedent: 'she had asked Seln to' now unambiguous."
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch21",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 21 card)",
+    "state": "state-b7-post-ch20 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + anomaly. Party SIX. Brom one-shouldered (mended twice? No: mended once at the Stair; it REOPENS here on the wall and is mended again outside the line); Lira one-armed. Three days along the kit's bearing; the carter's map's third circle exactly where the bearing said.",
+      "The site: a hall — walls of the grey stone to shoulder height, roofless, half-drowned by a spring that broke through the floor and made a shallow lake inside; the perimeter's two hundred meters holding a circle of marsh around it; one old stake at the line, the ground around it churned. Something large lives under the hall.",
+      "THE WOLD-WYRM taught before it is fought, from OUTSIDE the line over an afternoon (charter fairness law): the spring's surface moving wrong; a stake at the hall's lip bent from below; Oryn's carters' word for it; Karis's stone trials (a head-sized stone dropped in the shallows — the water answers AT the stone, not at the wall; a second, further — same); Seln's finding entered on Karis's page: blind; reads weight on the floor; strikes where the weight is; strikes WHAT STAYS (a stone that lands and settles is hit; a stone that skips is ignored). And Cael's trial, from the wall's top, Karis timing: an Anchor-adjacent fixed point laid on the flooded floor twenty paces out (the binding from the Ostrand road, which fixes a point AGAINST the surface it is laid on) — the water answers at the point and keeps answering after every stone has gone quiet, because a fixed point is weight that never stops arriving. Karis: 'It reads that as the heaviest thing on the floor.' Cael, releasing it: 'It reads that as the thing that stays.' The winning mechanism, cold-tested.",
+      "The fight in water in the Quiet: FIRST the wyrm comes up under Brom (heaviest; he STOPPED to give Karis a shoulder up the wall); its shape in pieces (blind, armored, jawed length). SECOND the walls as terrain (shoulder-high cover and trap; knee-deep water then deep at the broken center; the wyrm cannot leave the water and cannot see); Seln: 'It's blind. It reads the floor. Get OFF the floor.'; six on a wall-top; Karis copying carvings from the wall she stands on (funny for exactly one paragraph). THIRD the cost: Oryn into the water because Brom's shoulder opened and he is on the wrong wall and slipping — a healer who cannot heal here reaching a falling patient — and she keeps MOVING, skipping-stone, so the first pass misses; the second will not. FOURTH the turn: Cael into the water declaring — Compression-adjacent to take the first strike on himself instead of her; then Anchor-adjacent laid on the floor at the broken center, one fixed point of held pressure, the thing that stays hardest; the wyrm surfaces at it, whole for the first time in anyone's memory, jaws on stone that does not give; Brom from the wall puts his weight where Cael says; Seln and Lira (one-armed, a crossbow braced) put two bolts each into the pale underside the strike exposes, at contact range. It does not die; it lets go of a floor that stopped answering and goes under and does not come up. Win: Cael took away the wyrm's choice of target by giving the floor one point that never moved.",
+      "The TENTH fragment (Tide-adjacent) is NOT used in the fight, on the wyrm or anyone.",
+      "Costs outside the line: Brom's shoulder mended a second time; Oryn drained, silent a long while; Cael spent; the walls copied. Oryn's clinical register breaks for the first time: 'You went in the water.' 'You went in for Brom.' 'Brom's on my route.' A pause. 'So are you.'",
+      "No theory; no 'Architect'; the wyrm is an animal (no Path, no mind)."
+    ]
+  },
+  "purpose": "REPAIR RUN. Apply the seven verified findings to v3-runs/book-07/drafts/ch21-r1.md: (001) trials staged from the hall's outer coping inside the perimeter under EXC-B7-005, with the crossing, the dusk return and the first-light entry onto the floor staged; (002) the wyrm water-bound throughout (the mud heaved from beneath); (003) the hall twelve strides square; (004) two pre-spanned bows for Lira and a spanned second shot for Seln, four hits; (005) five days; (006) the reserve matched to one mending; (007) the Iron read billed. No other passage changes; wc within band.",
+  "scene_shape": {
+    "opening_state": "The Drowned Hall from the marsh at the line; the stake; the churned ground; the afternoon's trials from outside.",
+    "pov_goal": "Learn the thing under the floor before entering; copy the walls; keep six people alive on a flooded floor where only he works.",
+    "opposition": "A blind pressure-hunter in water; walls that are cover and trap; the healer's instinct to reach a falling patient.",
+    "turn": "The trials (stones; Seln's rule; Cael's Anchor point cold-tested). Lira's 'Just checking that's the plan.' exchange with Karis. The entry; the wyrm under Brom; the walls; Oryn into the water.",
+    "choice": "Cael into the water declaring; Compression for the first strike; the fixed point at the broken center.",
+    "outcome": "The wyrm whole at the point; Brom's weight; four bolts into the underside; it goes under; the unit leaves it; walls copied. Costs and Oryn's broken register outside the line.",
+    "closing_state": "The chapter ENDS ON DIALOGUE (the previous chapter ended on the log), Oryn's line: 'Lie still. I want to read you.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The wyrm taught from outside over an afternoon with ALL the listed trials (surface moving; bent stake; the carters' word via Oryn; two stone drops; Seln's strike-what-stays rule entered on Karis's page; Cael's Anchor point trial with Karis's and Cael's fixed lines).",
+      "Lira/Karis exchange verbatim before entry ('We're going in without Paths to look at walls with a thing under the floor.' / 'Yes.' / 'Just checking that's the plan.').",
+      "Four exchanges as staged with the walls, the water depths, and the broken center as terrain; at least two beats CAUSED by terrain; geography drawable; the wyrm's shape in pieces, never whole until it surfaces at the point.",
+      "Oryn's entry into the water staged as a healer reaching a patient, not heroism; her skipping-stone movement per the rule; the second pass imminent.",
+      "Cael's turn with the fragments named (Compression; Anchor at the center); Brom's weight; Seln's and Lira's bolts into the underside; the wyrm not killed; the win legible.",
+      "Costs outside the line (Brom's second mending; Oryn drained; Cael spent); Oryn's register breaking with the fixed exchange; the chapter ENDS on 'Lie still. I want to read you.'",
+      "The tenth fragment used on no one in this chapter.",
+      "Manuscript format: H1 '# Chapter 21 — The Drowned Hall', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "Three sets of carvings and a straightedge (Ch22–23).",
+      "Oryn: 'So are you.' (the route includes him; Ch23–24)."
+    ],
+    "payoffs": [
+      "Ch20's bearing; B6 Ch13's fixed-point binding; B2's Compression; Ch19's 'no column'."
+    ],
+    "prohibited_outcomes": [
+      "The wyrm is not killed; nobody dies; injuries only as listed.",
+      "No tenth-fragment use; no reading of the wyrm; no untaught mechanism decides anything.",
+      "No theory; the wyrm has no Path/mind.",
+      "No Teague (his crew stayed at the Stair/Oxhollow); no letters, Vastin.",
+      "No new named entities.",
+      "The chapter does not end on a log entry or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The marsh, the spring's water, the hall's walls and carvings, the wyrm's armor and pale underside, the sound of water answering a stone, lamplight, cold; each companion's fight-style; the funny paragraph.",
+      "Dialogue in established voices beyond the fixed lines (short).",
+      "Cael's cataloguing under pressure and in the trials."
+    ],
+    "approval_required": [
+      "Any new named entity; any wyrm behavior beyond blind/pressure/strikes-what-stays/water-bound; any new fragment mechanic; any injury change."
+    ],
+    "forbidden": [
+      "Killing the wyrm; tenth-fragment use; untaught mechanisms; theory; a log or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 20 as drafted — the immediate seam (the kit, the bearing)",
+      "path": "v3-runs/book-07/drafts/ch20.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch21-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH21-001",
+      "severity": "BLOCKER",
+      "gate": "authority.packet_coherence",
+      "evidence": "They spent the afternoon outside the line on trials, and he wrote it as one, because Karis would, and because the six of them had walked into two floors on folklore and a stake and had learned twice w",
+      "consequence": "The hall wall is at the center of a two-hundred-meter Quieting perimeter, so Cael and Karis cannot remain outside the line while standing on its coping. Brom and Lira also use the coping during the st",
+      "repair_target": "Resolve the packet's outside-line versus wall-top conflict explicitly, then stage every trial and boundary crossing at physically compatible locations without silently changing the two-hundred-meter perimeter or the required cold test."
+    },
+    {
+      "id": "ED-B7CH21-002",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes",
+      "evidence": "\"Something's been up the bank,\" Seln said. \"Something big enough to leave that, and it went back into the water, and it lives in the water, and the water's inside the line.\" He did not stand up. \"I do",
+      "consequence": "The draft first identifies a large water-dwelling creature as having traveled up the bank and returned to the water, then makes the opposite rule load-bearing in the fight. The packet permits only a w",
+      "repair_target": "Keep the churned ground without attributing out-of-water travel to the wyrm, and preserve a single consistent, evidence-supported water-bound rule before the wall refuge depends on it."
+    },
+    {
+      "id": "ED-B7CH21-003",
+      "severity": "HIGH",
+      "gate": "author.09_drawable_geography",
+      "evidence": "Brom put his weight where he was told. He was on his feet in the shallows with Oryn's hands in his coat and the shoulder pouring, and he went to the wall's foot beside the broken centre, where the wal",
+      "consequence": "A central breach in a forty-stride square is roughly twenty strides from a perimeter wall, but the climax places that wall two strides from the wyrm's pale side and both coping shooters four meters aw",
+      "repair_target": "Reconcile the hall dimensions, broken-center position, wyrm length, Brom's wall brace, and both shooters' contact range so the same map governs the whole fight."
+    },
+    {
+      "id": "ED-B7CH21-004",
+      "severity": "HIGH",
+      "gate": "combat.3_balance_reach_injury_equipment_ability",
+      "evidence": "From the coping. Seln with his own bow, kneeling, at four meters, two bolts into the pale in the time it took the jaws to close twice. Lira with Oryn's — the crossbow she did not know how to wind and ",
+      "consequence": "The packet requires four underside hits, but Lira's second bolt misses; the next paragraph nevertheless counts four bolts in the pale. The same sentence gives her two rapid shots from a crossbow she c",
+      "repair_target": "Stage a physically legible one-armed firing and reload solution, deliver two underside hits from each assigned shooter, and keep the later weapon state consistent with the bolts actually fired."
+    },
+    {
+      "id": "ED-B7CH21-005",
+      "severity": "MEDIUM",
+      "gate": "author.13_injury_persistence",
+      "evidence": "She had gone over the stone first, with Brom's coat in her fist, and had stopped, and checked her hands, and said \"Back,\" and had not said anything else, because Brom was on his knees on the track wit",
+      "consequence": "Oryn makes the first shoulder mark before Chapter 20; Chapter 20 then occupies the next day, Chapter 21 travels for three days, and the fight occurs after another overnight. 'Three days before' cannot",
+      "repair_target": "Correct the elapsed-time reference to match the Chapter 19 mend, Chapter 20's dated day, the three-day journey, and the dawn fight without changing the required second-mending count."
+    },
+    {
+      "id": "ED-B7CH21-006",
+      "severity": "MEDIUM",
+      "gate": "combat.7_persistent_costs_recorded",
+      "evidence": "Not on the track. On the marsh's dry edge, back to the stone, boots in the reeds, wet to the waist, hands in her lap, face grey, eyes on the hall, and she did not say anything for a long while, and no",
+      "consequence": "Only Brom receives a mending in this morning's staged aftermath; Oryn does not heal or read Cael before sitting down. The claim that two people consumed the route budget invents a second treatment and",
+      "repair_target": "Make the stated reserve expenditure match the single staged mending, or stage and authorize any additional treatment before counting it; preserve Oryn's required drained silence."
+    },
+    {
+      "id": "ED-B7CH21-007",
+      "severity": "LOW",
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "evidence": "He saw it turn because he had the Iron read on the floor under the water and the floor told him where a thing the weight of a cart was pushing on it: the length going past her under the water and comi",
+      "consequence": "The Iron read is active more than once and supplies crucial floor geography and warning of the second pass, but the chapter's cost ledger bills only Compression and Anchor. That makes a tactically dec",
+      "repair_target": "Name or show the Iron read's established per-chapter cost or attention constraint while preserving the fragment inventory and the two primary winning components."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "EXC-B7-005",
+      "approver": "author/orchestrator seat (planning layer, Fable) — owner-delegated loop authority; EXC-B7-001 precedent",
+      "scope": "Chapter 21: the afternoon's trials are run from the hall's OUTER coping, inside the Quieting's perimeter (the party crosses the line on the causeway, runs the trials, and camps back outside the line at dusk); the packet's 'from OUTSIDE the line' is read as 'off the flooded floor, outside the hall'",
+      "authority": "geometry established by the packet itself (a two-hundred-meter perimeter around a hall; the hall twelve strides square at its centre) — nothing thrown from the line can reach the water; charter §4.8 departed-and-returned",
+      "reason": "The packet requires both trials from outside the line and Cael's fixed-point trial from the wall's top, which cannot both hold at a 200 m radius. The cold test and the fairness law are preserved; the boundary crossings are staged (Oryn's hands at the stride, in and out); the danger is the floor, and nobody stands on it until first light."
+    }
+  ],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch21.md",
+    "report_path": "v3-runs/book-07/reports/ch21-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch21-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch21-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

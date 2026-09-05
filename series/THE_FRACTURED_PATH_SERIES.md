@@ -2,7 +2,7 @@
 
 **Canon status: LOCKED (arc structure); PROVISIONAL (per-book details)**
 **15 books, one protagonist, continuous series**
-**Protagonist:** Cael (Caelen) — ages 14 to 28 across the series
+**Protagonist:** Cael (Caelen) — ages 14 to ~27 across the series (**LOCKED to the drafted timeline, 2026-09-04:** fourteen at Book 1; eighteen on the page at Book 6 Ch14; nineteen on the page at Book 7 Ch14; one year per book thereafter — the arc bands below are rebased to this and prose is never retrofitted to the old bands)
 
 ---
 
@@ -57,7 +57,7 @@ The found family arc is the emotional spine. Cael does not become powerful and t
 ---
 
 # ARC 1 — THE FRACTURE
-**Books 1–3 | Ages 14–16 | Antagonist: Warden Coss and the machinery of expulsion**
+**Books 1–3 | Ages 14–16 (drafted) | Antagonist: Warden Coss and the machinery of expulsion**
 
 The arc that establishes everything: who Cael is, what the world thinks of him, and why he chooses to fight rather than disappear.
 
@@ -126,7 +126,7 @@ The arc that establishes everything: who Cael is, what the world thinks of him, 
 ---
 
 # ARC 2 — THE ACADEMY
-**Books 4–6 | Ages 17–19 | Antagonist: The Guilds Compact and Archmarshal Vastin**
+**Books 4–6 | Ages 16–18 (drafted: eighteen on the page at B6 Ch14; the pre-drafting band read 17–19) | Antagonist: The Guilds Compact and Archmarshal Vastin**
 
 The arc where the found family fully assembles and the institutional antagonist becomes undeniable.
 
@@ -193,7 +193,7 @@ Cael's fragment log now contains nine integrated abilities. He still doesn't hav
 ---
 
 # ARC 3 — THE WORLD
-**Books 7–9 | Ages 20–22 | Antagonist: The Quieting**
+**Books 7–9 | Ages 18–21 (drafted: B7 18→19 on the page; B8 planned 19→20; B9 20→21; the pre-drafting band read 20–22 — superseded) | Antagonist: The Quieting**
 
 The arc where the world gets larger and the true threat becomes visible.
 
@@ -212,6 +212,19 @@ The arc where the world gets larger and the true threat becomes visible.
 **Power development:** First integration of a non-combat ability — Oryn demonstrates a Tide Path diagnostic technique and Cael absorbs a fragment. He now has, in some partial form, the ability to perceive internal energy architecture. He uses it, quietly, to study his own.
 
 **Ending:** The companions locate three more Quieting sites. The sites are on an alignment — not random. Someone made this pattern.
+
+**As drafted (24 chapters closed 2026-09-04 — this block reconciles the entry above to the prose; the prose governs):**
+
+- **Roster:** FIVE cross the Line (Cael, Lira, Brom, Karis, Seln — Book 6's prose settled on five; "the sixth" was Seln's desk). Oryn walks with them from Thornwater as a stop on her route (Ch9), leaves after the Ring to make up her days (Ch16–17), and **joins on her own terms at Millrace (Ch18)** — a terms-of-service join, not a rescue; her route is intact and she is on it at book's end ("Find me at Thornwater." / "Bring the map." Ch23; "Six, by letter." Ch24).
+- **Calendar and age:** day 46 to day 130 past the Line. **Cael is eighteen at Ch1 and turns nineteen on the page (Ch14).** The Arc 3 band above (20–22) is now contradicted by drafted B6–B7 prose and Book 8 is being built on 19→20: **rebase the arc-wide age bands to the drafted timeline in the bible pass and mark the drafted timeline LOCKED; do not retrofit prose.**
+- **The Quieting — as staged:** four sites, not "one plus three": the Fallow Ring (Ch10–11), the Long Stair (Ch18–20), the Drowned Hall (Ch21–22), and a fourth sighted, paced from outside and NOT entered (Ch23) — twice the radius (400 m) and cordoned in Compact iron. Perimeter 200 m, sharp line, identical Arbiter failure, fused floors, carvings (52 sheets). Cael unaffected inside all three entered sites; five companions know; **the Compact does not.**
+- **Power development — as staged:** the Tide-adjacent fragment is acquired at the deep reading (Ch13), at Oryn's direction, cost written down in advance; the rule *ask first, every time*; he reads himself (Ch14, Ch22) and Oryn with consent (Ch22); the losable moral stake (reading Teague uninvited) is paid by not paying it. **The B2 Tide anomaly CONVERGES and is NOT resolved:** the tenth fragment locates a *still place* at the architecture's centre — not the Quieting, not a fragment, unexplained.
+- **The Compact reaches across the Line twice:** on paper (Ch8 — a recovery contract whose completion report told the poster which crew walks out of quiet ground) and in person (Ch17–19 — a nameless six on the Long Stair's rim with crossbows and an Anchor course, aimed at Seln's case and the boy; repelled; no faces; the Compact saw a declaration going out, nothing working inside). Vastin: one window, writing nothing (Ch16).
+- **Fragment count at close: ten.** Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide. **Trajectory flag:** twenty-two by Book 10 leaves twelve for Books 8–9 — Book 8's architecture must plan an accelerated rate and say so.
+- **Ending — as drafted:** the alignment is proved on a carter's map with two brass straightedges (Ternhall's and Hesk's gift) at Lowmarch in first snow; "Someone made this pattern." is asked once and not answered. Teague's spring term: "Whatever's on that bearing. My crew comes."
+- **What Book 8 inherits:** the fourth site (400 m, cordoned, unentered — the on-ramp); the Compact survey kit and its field ledger (a radius line in the Compact's own hand; an index of forty-one kinds; the stroke-and-bar mark); the still place; the reading turned outward (re-armed stake); Oryn's route and Lira's arm waiting on her word; Teague in spring; the Compact's demonstrated awareness of quiet ground (and its ignorance of the inside); Cael nineteen, ten fragments; letters west (Hesk, Vell).
+- **What Book 8 must not pre-pay:** Vastin's departure and classified-history material (not hinted in B7); the Architect's name; any maker for the pattern; the strata limit's meaning ([UNBOUND] used once, Ch15, as a stratum label only).
+- **Exceptions logged against the cards:** EXC-B7-001 (twelve weeks, Ch8 log), -002 (Lira's arm two weeks old, Ch17), -003 (Millrace re-siting, Ch17–19/23), -004 (the arrested stake, Ch20), -005 (trials from the Hall's outer coping, Ch21).
 
 ---
 
@@ -256,7 +269,7 @@ The arc where the world gets larger and the true threat becomes visible.
 ---
 
 # ARC 4 — THE STORM
-**Books 10–12 | Ages 23–25 | Antagonist: The Architect's preserved will**
+**Books 10–12 | Ages 21–24 (rebased to the drafted timeline: one year per book from B9's 21; the pre-drafting band read 23–25) | Antagonist: The Architect's preserved will**
 
 The arc where everything Cael has built is tested at the cost of something real.
 
@@ -313,7 +326,7 @@ This is the most honest disagreement the series has generated between members of
 ---
 
 # ARC 5 — THE RECKONING
-**Books 13–15 | Ages 26–28 | Antagonist: The Architect**
+**Books 13–15 | Ages 24–27 (rebased; the pre-drafting band read 26–28) | Antagonist: The Architect**
 
 The arc where Cael becomes able to do what only he can do, and then has to decide whether to do it.
 
