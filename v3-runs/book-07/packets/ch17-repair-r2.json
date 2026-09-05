@@ -3,7 +3,7 @@
   "scene_id": "b7-ch17",
   "project": "void-roads",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "continuity_repair",
   "revisions": {
     "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
     "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
@@ -28,7 +28,7 @@
       "No theory of the sites; no 'Architect'; the faceless faction stays faceless; no letters, no Vastin."
     ]
   },
-  "purpose": "Part 3 opens: back at Lowmarch with a standing the ledger cannot quite record, a second posting from the same broker priced as a lure, Seln's professional anatomy of a trap built on quiet ground, the book's second honest collision over walking away — lost by the leavers for the right reason — and the rival clock making a sound it has not made all book.",
+  "purpose": "REPAIR RUN. Apply the six verified findings to v3-runs/book-07/drafts/ch17-r1.md: (001, BLOCKER) resolved at the planning layer by EXC-B7-003 — Teague's fixed line now reads 'My crew's at Millrace in two days'; Oryn's position re-stated as on her route with Millrace ford (Stair road) due by the next dusk; (002) Pike's entry dated eleven days ago off a carter's word; (003) 'five at this table and one on a road north'; (004) 'And if the face is armed'; (005) the three-days-north count removed (see 001); (006) Lira's taped foot at the arrival and the council. No other passage changes.",
   "scene_shape": {
     "opening_state": "Lowmarch, first cold. Pike's Fallow Ring entry; Teague standing; the unit's standing after the Ring. Oryn three days north.",
     "pov_goal": "Read the contract the way Seln reads it, decide whether to walk into a trap on purpose, and say aloud to the whole table the sentence he has never said.",
@@ -134,9 +134,70 @@
       "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
       "path": "craft/THE_AUTHOR.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch17-r1.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Conflict notice and resolution (EXC-B7-003)",
+      "path": "v3-runs/book-07/CONFLICT-B7-CH18.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH17-001",
+      "severity": "BLOCKER",
+      "gate": "authority.canon_timeline_state",
+      "evidence": "Teague looked at him a moment longer. Behind him the tall woman with the spear had not moved, and the broad man with the crossbow had shifted his weight off the limp, and the young one at the table's ",
+      "consequence": "All four members of Teague's crew are visibly in Lowmarch, but the established Lowmarch-Oxhollow road takes six days and the fixed dialogue places that same crew at Oxhollow in two. The next chapter d",
+      "repair_target": "Resolve Lowmarch/Oxhollow/Long Stair geography and travel time at the planning layer, then preserve or formally revise the fixed Teague line under an explicit exception."
+    },
+    {
+      "id": "ED-B7CH17-002",
+      "severity": "HIGH",
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "evidence": "Five of them, on the hundred and twelfth day past the Line, with a mule and three boxes and a girl with her arm across her chest, coming down into a town that had priced them at the bottom of a wall a",
+      "consequence": "A fortnight before day 112 is day 98, when the crew was still at the Fallow Ring camp and had not yet begun the two-day return to Thornwater. Pike therefore cannot already have entered a completed out",
+      "repair_target": "Reconcile the age of Pike's completion entry with the day-98 departure, day-99 Thornwater return, and day-112 Lowmarch arrival without disturbing the required completed-line wording."
+    },
+    {
+      "id": "ED-B7CH17-003",
+      "severity": "HIGH",
+      "gate": "state.party_headcount_and_witness_scope",
+      "evidence": "They don't know what the floor does to me because *nothing* does anything to me on that floor, and there's no report on any desk in Valdris that says so, because the only six people who've seen it are",
+      "consequence": "The six firsthand witnesses are Cael plus five companions, but Oryn is absent north, so only five of those witnesses can be at this table. The contradiction lands inside the central decision speech an",
+      "repair_target": "Keep the six-person witness scope and Oryn's absence distinct when Cael states who knows and who is physically at the table."
+    },
+    {
+      "id": "ED-B7CH17-004",
+      "severity": "HIGH",
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "evidence": "\"And if the face has a crossbow,\" Lira said.",
+      "consequence": "The chapter is allowed to infer waiting people and no more; it instead names the exact ranged weapon the Chapter 19 trap is designed around. Even as a hypothetical, this narrows the future reveal to i",
+      "repair_target": "Limit the council's threat inference to sent or waiting people unless an explicit approval is recorded for the crossbow detail."
+    },
+    {
+      "id": "ED-B7CH17-005",
+      "severity": "MEDIUM",
+      "gate": "authority.canon_timeline_state",
+      "evidence": "Five of them, on the hundred and twelfth day past the Line, with a mule and three boxes and a girl with her arm across her chest, coming down into a town that had priced them at the bottom of a wall a",
+      "consequence": "The chapter explicitly frames 'three days' as Cael's elapsed-day count, then dates departure to first light on day 111 and arrival to day 112. At most two named travel days have occurred. The packet r",
+      "repair_target": "Reconcile the day-111 departure and day-112 Lowmarch arrival with the packet-required three-days-north state, removing or changing only non-fixed calendar detail unless planning approves a different chronology."
+    },
+    {
+      "id": "ED-B7CH17-006",
+      "severity": "MEDIUM",
+      "gate": "author.13_injury_persistence",
+      "evidence": "Five of them, on the hundred and twelfth day past the Line, with a mule and three boxes and a girl with her arm across her chest, coming down into a town that had priced them at the bottom of a wall a",
+      "consequence": "A full-draft search for 'ankle|taped|tape|foot|boot' returns zero. Lira's right ankle remained taped and was still being elevated in the supplied state/immediate seam; after a two-day walk and through",
+      "repair_target": "Recur the taped right ankle or altered gait at Lira's next physical beat, or explicitly resolve it before the Lowmarch arrival if the calendar supports resolution."
+    }
+  ],
   "exceptions": [
     {
       "id": "EXC-B7-002",
@@ -155,9 +216,9 @@
   ],
   "output": {
     "draft_path": "v3-runs/book-07/drafts/ch17.md",
-    "report_path": "v3-runs/book-07/reports/ch17-author-r1.json",
-    "editor_report_path": "v3-runs/book-07/reports/ch17-editor-r1.json",
-    "verifier_report_path": "v3-runs/book-07/reports/ch17-verifier-r1.json",
+    "report_path": "v3-runs/book-07/reports/ch17-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch17-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch17-verifier-r2.json",
     "target_words": 4600,
     "tolerance_percent": 15
   }

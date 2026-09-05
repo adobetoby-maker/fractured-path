@@ -1,0 +1,82 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch17-r1",
+  "scene_id": "b7-ch17",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch17.md",
+  "word_count": 4126,
+  "obligations": [
+    {
+      "obligation": "must_include: Pike's 'incomplete — instruments not recovered — crew returned' line costing a line and buying the unrecorded thing; Teague standing when they come in; the standing shown, not asserted.",
+      "status": "MET",
+      "evidence": "Pike reads the eighth line aloud ('*Completed: incomplete — instruments not recovered — crew returned. Six went in. Six came out. No price paid.*'), turns the ledger, 'Costs you a line ... Eleventh. Teague's ten up.' Then, across the plank: 'I've never once had a crew on my sheet that did ... the only thing in my book that's got room for that is the outcome column, and the outcome column says *incomplete*.' The room's silence catalogued (the hide-woman, the crew of three, the carters, the boy) as 'the room's whole verdict'; the wall rewritten and re-pinned with the five eleventh. Teague: 'stood up when the five of them came in ... and did not sit down again until they had crossed to the plank, and it was not a greeting.'"
+    },
+    {
+      "obligation": "must_include: The second posting as an object; Pike's 'posted nothing else in a year' unasked.",
+      "status": "MET",
+      "evidence": "On the wall between door and plank: the hook-and-bar seal, thin broker's stock, the clerk's hand; text: '*Recovery. Surveyor's instruments abandoned at a site on the Stair road. South of Lowmarch; the first day; where the road drops off the ridge and the ground opens. Three hundred marks (three hundred).*' Pike, unasked, to the book: 'Same broker ... Posted the day after the ferry came in — the day after your report went west ... never once posted a slip until the Fallow one. Now two. Nothing else in a year. Nothing else ever.' Teague read it and put it back; 'on that nail nine days'."
+    },
+    {
+      "obligation": "must_include: Seln's anatomy with the fixed lines verbatim; Karis's 'They don't know about Cael.'",
+      "status": "MET",
+      "evidence": "Registry prose; the same clerk; nothing else posted; the price as a lure 'cut to fit'; the site chosen ('He knows the floor. He stamped the stakes ... six practitioners walk in and five bodies and one anomaly walk on'). Then contiguous: 'This isn't a contract. It's a pre-restriction inventory. They've mapped what we do inside, and they've priced a floor where we can't do it.' / Karis: 'They don't know about Cael.' / Seln: 'They don't need to. ... They want the case. The boy's the price of the case.'"
+    },
+    {
+      "obligation": "must_include: The council with each position in register; Seln's 'People have faces. Six years I've wanted a face.'; Cael's decision line verbatim.",
+      "status": "MET",
+      "evidence": "Lira: 'Walk away ... I've got one arm ... There's no rule that says the site has to be on somebody else's slip.' Brom: 'Three hundred's a number a man doesn't reach for. My father said that about a horse once.' Karis: 'I don't care who posted it. I care that it's a site ... I would go alone.' Seln: 'Take it. ... A trap you've read is the only instrument you'll ever have for reading the hand behind it ... They'll send people ... People have faces. Six years I've wanted a face.' Cael, to the whole table, verbatim: 'Inside the circle, I'm the only one who works. They chose a floor that makes the rest of you helpless. They don't know it doesn't do anything to me.' — then the reasoning (the site, the instrument, the trap, and the assumption 'they can't know is wrong, and I can'). Lira: 'I want it entered that I said walk away. I was right. We're going anyway.'"
+    },
+    {
+      "obligation": "must_include: The mid-scene log entry as given (with Brom quoting Rooke).",
+      "status": "MET",
+      "evidence": "Brom at the table: 'Doors open both ways ... Rooke said it. On a stair, once, to a cohort' — 'I don't like it. I'm in.' Log: '*Priced too well. Seln says it's for the case. I say the floor's for me and they don't know it. South, tomorrow. Lira's arm is two weeks old. Brom says doors open both ways. He's quoting Rooke. He's never quoted anyone.*' — 'two weeks' per exception EXC-B7-002 in the packet; every other word verbatim."
+    },
+    {
+      "obligation": "must_include: Teague's door exchange verbatim; the chapter ENDS on 'Noted.'",
+      "status": "MET",
+      "evidence": "'You're taking the Stair contract.' / 'Yes,' Cael said. / 'It's a bad contract.' / 'Yes.' / 'My crew's at Oxhollow in two days. If you're late back, we'll come look.' — 'He had never once said the word to anyone eleven lines up, or ten. He said it now.' / '\"Noted.\"' — last line of the file."
+    },
+    {
+      "obligation": "must_include: Oryn's absence accounted for; Lira's arm carried.",
+      "status": "MET",
+      "evidence": "'Oryn was three days north ... gone out of Thornwater's gate at first light on the hundred and eleventh'; the log: 'Oryn three days north.' Lira: 'a girl with her arm across her chest'; 'I've got one arm'; the log's 'two weeks old'."
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 17 — Priced Too Well', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; six '---' breaks; ends on 'Noted.'; metadata 0."
+    },
+    {
+      "obligation": "plants: the trap's design as inference only; Teague's 'we'll come look'; the case as the target.",
+      "status": "MET",
+      "evidence": "Seln: 'They'll send people' — nothing of the trap's mechanics beyond that; Teague's term verbatim; 'They want the case. The boy's the price of the case.'"
+    },
+    {
+      "obligation": "prohibited_outcomes: no travel to the Stair; no fight; no fragment use; Oryn absent; no theory/'Architect'; faction unnamed; broker unnamed; no letters/Vastin; no new names; not a log or image ending; tics; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "Lowmarch throughout; south 'tomorrow'. No fight; no fragment use. Oryn off-page. Architect 0; no theory (Seln's anatomy is institutional inference only). The broker is 'the landing broker'; the faction 'people I can't see'. No letters/Vastin. No new names (the hide-woman, the crew of three, the carters, the boy unnamed). Ends on dialogue (Ch16 ended on the log). 'at the pitch' 0 (two instances removed in the fix pass — 'in the voice he used for a price' / 'in the voice that carried under the roof'). One-word paragraphs 2 (the fixed 'Yes.' and 'Noted.')."
+    }
+  ],
+  "inventions": [
+    "Lowmarch in first cold catalogued from the rise; Oryn's departure at first light on the 111th (off-page, reported).",
+    "Pike's speech across the plank ('I've kept this wall thirty years ... I'm telling you what the wall can't say') and the wall rewritten with the five eleventh; the room's silent verdict itemized.",
+    "The second slip's site line ('South of Lowmarch; the first day; where the road drops off the ridge and the ground opens') and price ('Three hundred marks (three hundred)'); posted the day after the ferry; nine days on the nail.",
+    "Brom's horse line; Lira's 'entered that I said walk away'; Karis's 'one number is a count and two is a fact'; Seln's 'I'm not going to make it twice.'",
+    "Teague's crew's three small movements behind him at the door; the 'stride and a half' distance noted as shared with Oryn."
+  ],
+  "state_change_proposals": [
+    "Timeline: Lowmarch on the hundred and twelfth day (two days from Thornwater); council that evening; the Stair contract marked HOLD at the plank the same evening; south on the 113th. Oryn left Thornwater north at first light on the 111th; 'three days north' by Ch17.",
+    "Ledger: eighth completed line under the five names (the Fallow Ring, incomplete, no price paid); wall rewritten — the five ELEVENTH of thirteen (down one), a crew of three twelfth, the mule-named crew thirteenth, Teague first; Pike's spoken count: 'Teague's ten up.' Marks unchanged: one hundred and eight in hand; nothing owed.",
+    "The second posting: same broker (hook-and-bar seal), same clerk's hand, 'the Stair road', a day south, three hundred marks; posted the day after the ferry carried the Fallow report west; nine days on the nail; Teague read it and refused it; TAKEN by the five (HOLD + five names). Pike's on-record view: 'I'd not take it.' Pike: the broker has posted nothing else in a year / ever.",
+    "Seln's anatomy on the page (fixed lines verbatim); the council's positions; Cael's decision line said to the whole table; Brom quoted Rooke ('doors open both ways') — the first person he has ever quoted.",
+    "Teague's term on record verbatim; 'Noted.' said. Rival clock: Teague ten up; he spoke at the door for the first time in the book.",
+    "Kept sentences: Pike — 'Costs you a line.' / 'Eleventh. Teague's ten up.' / 'I'm telling you what the wall can't say' / 'Nothing else in a year. Nothing else ever.' / 'I'd not take it.'; Seln — the fixed lines; 'That's not a wage. That's a lure, cut to fit.'; 'I'm not going to make it twice.'; Brom — 'Three hundred's a number a man doesn't reach for.' / 'I don't like it. I'm in.'; Lira — 'I was right. We're going anyway.'; Karis — 'I would go alone.'; Teague — the four lines."
+  ],
+  "deviations": [
+    "EXC-B7-002 (in the packet): the log's 'Lira's arm is two weeks old' replaces the card's 'a week old' per the drafted calendar; every other word verbatim.",
+    "Teague's standing on the wall is 'ten up' on the drafted ledger (nine up at Ch8, plus the line the Ring cost); the card's 'eleven lines up' is honored in the narration as 'eleven lines up, or ten'.",
+    "First pass came in at 3,840 words (under the floor) and was expanded by two paragraphs (the room's pieces; the wall rewritten) to 4126.",
+    "The mandated Seln line was made one contiguous quotation so that it greps verbatim."
+  ],
+  "blockers": []
+}

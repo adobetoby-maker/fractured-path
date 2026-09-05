@@ -305,3 +305,9 @@ never ad hoc: books 2-4 renames (Velmere, Halcenvane, Wray, Bracken) happen
 before Book 2's audio begins; book-1 items (Corvane, Voss) ride the eventual
 ch1-3 re-record. New names are chosen at execution time against this registry's
 aural-distinctness rule — do not pre-mint them here and let them go stale.
+
+## Book 7 — minted during drafting (2026-09-04)
+
+| Name | Type | Chapters | Screening |
+|---|---|---|---|
+| Millrace | Place — ford settlement on the Stair road, one day south of Lowmarch; one of Oryn's seven route stops (EXC-B7-003) | 17 (Teague's line), 18+ | No M-/mill- proper noun in B1–B7 prose; MIL-race distinct by ear from Marlowe / Merrick / Marrow; no -water (Thornwater), -hold (Norhold), -mere, -vane suffix; O-onset stack (Oryn/Oxhollow/Ostrand) not added to. |

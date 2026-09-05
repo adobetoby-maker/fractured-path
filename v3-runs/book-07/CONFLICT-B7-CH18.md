@@ -27,3 +27,6 @@ Choose A, B, or another route. If A: approve minting one place name (or instruct
 
 ## Editor confirmation (Sol, Ch17 r1, 2026-09-04)
 Chapter 17 returned STRUCTURAL_HOLD with a BLOCKER on exactly this point (ed-b7-ch17-001): "the established Lowmarch–Oxhollow road takes six days and the fixed dialogue places that same crew at Oxhollow in two ... cannot be safely repaired at manuscript level without a planning-layer route decision or approved exception." Chapter 17's other five findings (002–006) are repaired in drafts/ch17.md (r2 draft; r1 preserved). Chapter 17 will be relaunched to the editor once the route is decided and the Teague line is settled under an exception.
+
+## RESOLVED — 2026-09-04, owner chose A
+Millrace minted and screened; EXC-B7-003 recorded in the Ch17 and Ch18 packets; cards Ch17/Ch18 and the naming checkpoint annotated; registry appended; Ch17 repaired (Teague's line; Oryn's position; the log) for its r2 review; Ch18 drafting proceeds at Millrace.

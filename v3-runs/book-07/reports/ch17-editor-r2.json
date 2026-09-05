@@ -1,0 +1,315 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch17-r2-editor",
+  "scene_id": "b7-ch17",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The day-112 arrival, day-111 departures, five bodies at Lowmarch, Oryn's route, and Millrace rendezvous reconcile under EXC-B7-003. The repaired text says: 'Oryn was on her route'; 'the one after Thornwater was a ford called Millrace, on the Stair road, a day south of Lowmarch; by her count she would be at its table by tomorrow's dusk'; and 'My crew's at Millrace in two days.' Pike's entry is now causally dated: 'he had entered it eleven days ago off a carter's word from Thornwater.'"
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration remains within Cael's observation, memory, documents, and attributed inference. The new route information is owned by his memory: 'He had the seven stops in the order she had said them at a table.'"
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "Pike's incomplete line, the room's verdict, Teague standing, the physical posting, Pike's broker history, Seln's fixed anatomy, all council positions, Cael's fixed decision, the excepted two-week log, Brom quoting Rooke, HOLD, and the Millrace-adjusted door exchange all occur. The manuscript ends on 'Noted.'"
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "No travel to the Stair, fight, fragment use, site theory, Architect, named faction, named broker, correspondence, Vastin, unapproved name, modern idiom, feeling/growth declaration, metadata, pitch phrase, log ending, or image ending appears. The repaired threat inference is limited to: 'And if the face is armed.'"
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The completion entry follows the return: 'he had entered it eleven days ago off a carter's word from Thornwater.' The decision is earned from the real site, Seln's readable lure, Karis's intent, and Cael's established quiet-ground immunity."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Age nineteen, ten fragments, 108 marks, five-person Lowmarch party, Seln's case, Karis's recovering voice, Lira's slung arm and taped right foot, Oryn's absence, witness scope, ledger position, and route geography persist correctly."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The five move from returned-but-unpriceable standing through a divided council to deliberately taking a known trap; reputation, danger, obligation, rival relationship, and strategy change."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter uses the established cataloguing, procedural emotion, dry dialogue, and document-weight voice without naming or detectably imitating an influence author."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues Lowmarch, the room, paper, wall, standing, and Teague's posture. Pike prices, Lira protects, Brom weighs, Karis measures, Seln inventories, and Teague states terms; ledger, posting, and log remain owned in-world documents."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. First cold changes ferry freight, canvas, grass, smoke, and doors; reputation operates through outcome columns, wall position, and room behavior; institutional pursuit operates through wax, paper stock, clerkly prose, report timing, and lure-sized price."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "Millrace is explicitly approved and screened under EXC-B7-003. No other new named entity or ontology appears, and the future crossbow trap is no longer disclosed: 'And if the face is armed.'"
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was rechecked in every multi-party sequence. Turns are named, action-anchored, or immediately resolved by context; no run exceeds four unattributed lines. Italics decorate emphasis and documents without carrying indispensable meaning alone."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every manuscript name was checked by ear against craft/NAME_REGISTRY.md: Cael, Lira, Brom, Karis, Seln, Oryn, Pike, Teague, Rooke, Lowmarch, Thornwater, Millrace, Fallow Ring, Long Stair/Stair road, Concourse, and Valdris. Established pairs remain distinct; approved MIL-race remains distinct from Marlowe, Merrick, and Marrow."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch17.md. The section 8.4 search for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returned 0; the section 10 summary-substitution search returned 0. wc -w returned 4,224, within 3,910-5,290. H1, prose-only body, scene breaks, and terminal prose pass."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 17 counts / raw Book 7 ch01-ch17 line-hit counts: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/2; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; standalone '[Name] noticed.' 0/0; which was, in its own way 0/0. Both book-level 'There it was' hits are substring false positives ('Out here it was' and 'In there it was'). Chapter 17 has 0 single-word paragraphs, three distinct 'the way he [verb]' constructions used once each, and 12 em dashes. Chapter counts for modern register, summary family, feeling declaration, growth declaration, metadata, and 'at the pitch'/'at that pitch' are 0. The book-level pitch count is 10 and Chapter 17 adds none."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 16 ends on a Power Log entry. Chapter 17 ends on dialogue: 'Noted.' The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Cael remains nineteen with ten confirmed fragments plus the located anomaly; no fragment is used or advanced. Against the snapshot and Chapter 16: Cael has no open injury; Brom's hand is mended; Karis's voice is 'nearly whole'; Seln is uninjured and carries the case; Oryn is absent on route; Lira's season-restricted arm remains across her chest and her right-foot injury now recurs as 'a taped right foot she put down flat at every stride' and 'the taped foot up on the bench.'"
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The manuscript keeps five people physically at Lowmarch, Oryn absent, and six firsthand witnesses: 'the only six people who've seen it are five at this table and one on a road north.'"
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank, fragment, or capability advancement occurs."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "No new gain occurs. The strategic advantage carries a known trap, Lira's unusable arm and taped foot, Seln's targeted case, and waiting people."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Pike's wall moves the unit down while the room and Teague move them up; the council chooses together and the rival captain commits his crew to look."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No capability is used. The decision relies on Cael's already witnessed and disclosed ability to function in quiet ground."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "The broker posts after the report, every other crew refuses, Pike reprices the unit, and Teague reads the decision and commits independent movement toward Millrace."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The chapter changes from Chapter 16's disclosure and consent work to public standing, contract forensics, divided strategy, and rival recognition."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The incomplete outcome produces new public standing, reveals how the unseen hand prices the unit, and changes their response from accidental entry to a deliberate counter-trap."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display renders; italicized text is ledger, posting, or Power Log material."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display. The diegetic inventory correctly gives nineteen, ten, 108 marks, and eleventh place."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears; every in-world document reads aloud as ordinary prose."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. Ledger, posting, and log each materially change standing, interpretation, or commitment."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The faction, site ontology, and Cael's immunity remain withheld from outsiders; the waiting team's future weapon is no longer specified."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combination or fragment use occurs."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank-bearing interaction occurs; Lowmarch standing is deliberately outcome-based rather than tier-based."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The decision traces to established quiet-ground immunity, mapped circles, the first contract/report, Karis's need for a second site, and Seln's paper-reading craft."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No ability is introduced or used."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "Millrace is an approved route repair. Existing board, report, quiet-ground, case, map, and rival mechanisms are extended; no unapproved subsystem or faction is added."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: Lowmarch will price what the Ring changed. Delivery: the ledger loses a line, the room and rival confer unrecordable standing, the trap is anatomized and taken, and Teague commits to look."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "Contract, report, case target, Cael's advantage, Pike's ledger, and Teague's rival movement all pay established plants. No future crossbow detail is disclosed."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "Standing receives a social payoff, the faceless-hand inquiry receives a readable trap rather than an identity, and the site inquiry receives a location rather than an explanation."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Long institutional and strategic passages stay grounded in cold, river, canvas, smoke, doors, plank, paper, wax, stone, map, wall, and bodies around tables; concrete mechanism outweighs abstract exposition."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "PASS",
+      "evidence": "This declared continuity-repair pass changes only verified continuity/reveal defects and EXC-B7-003 route consequences. The exact r1-to-r2 diff contains no opportunistic voice, density, or line revision."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The plank, wall, tables, doors, and speaker movement are legible."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. Noncombat cadence varies catalogue sentences with short ledger, council, and rival verdicts."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants act. Dialogue remains assignable by speaker strategy and register."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Lira's season-long arm restriction remains visible, and the repaired manuscript carries the right ankle twice: 'a taped right foot she put down flat at every stride' and 'the taped foot up on the bench where the two days had put it.' No other open injury from Chapter 16 requires recurrence."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Public repricing, contract reading, Seln's anatomy, four-position council, Cael's choice, log, and Teague exchange all occur in scene. No assigned meaning is displaced into summary."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. The noncombat set piece nevertheless makes plank, wall, posting nail, corner table, best table, doors, draught, and public room causally useful."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement delta occurs; social standing and strategic choice move instead."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No present major fight win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague stands before the ledger changes, has independently rejected the contract, reads the council from across the room, and commits his crew to Millrace and a rescue clock."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The unit's progress is legible outside any stat system: the wall moves them down, the room updates upward, and the first-ranked captain offers practical backing."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. Diegetic written material has clear writers, readers, and scene reasons."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional reach is dramatized through a broker's seal, registry syntax, report timing, targeted pricing, and Seln's case rather than protagonist editorial alone."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor is deployed to deflect the chapter's stakes. Brom's horse line is dry characterization inside his risk calculation, not a stakes-erasing joke."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Cael listens through all four positions, states the immunity plainly, and accepts Teague's changed term without deflection."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The ask-first reading stake is not a Chapter 17 checkpoint and Cael performs no reading."
+    }
+  ],
+  "findings": [],
+  "strengths": [
+    "All six verifier-confirmed r1 findings are repaired with exact manuscript evidence: 001 — 'My crew's at Millrace in two days' plus 'Oryn was on her route' and Millrace due by tomorrow's dusk under EXC-B7-003; 002 — 'he had entered it eleven days ago off a carter's word from Thornwater'; 003 — 'the only six people who've seen it are five at this table and one on a road north'; 004 — 'And if the face is armed'; 005 — the false three-days-elapsed count is removed in favor of the approved route/destination; 006 — 'a taped right foot she put down flat at every stride' and 'the taped foot up on the bench.'",
+    "No unrelated passage changed. The r1-to-r2 diff consists only of the six finding repairs and the EXC-B7-003 Millrace/Oryn-route consequences; every untouched passage is byte-for-byte preserved.",
+    "Every recorded r1 strength survives. Worldbuilding is still done through mechanism and use: first cold changes freight, canvas, grass, smoke, and doors; reputation is a ledger that can move down while a room moves up; pursuit arrives through seal, paper, clerkly syntax, report flow, and price.",
+    "There is no fight, as prohibited. The board-room sequence remains a memorable noncombat set piece whose terrain is load-bearing: plank and ledger create the official loss, wall and room create the unofficial gain, corner table contains the private collision, and best table makes Teague's rival position visible. Its win is writable as: Cael removes the trap-makers' ability to rely on quiet ground as total disarmament by naming the capability they cannot know survives it.",
+    "The standing change remains shown rather than asserted: Pike moves them down, the room refuses to look, and Teague stands before the book speaks; the three measures disagree productively.",
+    "Seln's contract anatomy remains strong professional characterization: diction, duplicated price, broker history, timing, target, and incentive size accumulate into a lure without becoming a generic villain briefing.",
+    "The council retains distinct strategies: Lira protects the unit, Brom prices winter, Karis makes refusal impossible by committing to the site, Seln values a visible hand over safety, and Cael lets every argument be priced before deciding.",
+    "The ending remains concise changed pressure. Teague converts rivalry into obligation, Cael's 'Noted.' lands cleanly, and the dialogue close differs from Chapter 16's log close.",
+    "Production discipline remains strong: 4,224 words is in tolerance; metadata, summary-substitution, modern-register, feeling/growth, and prohibited-pitch checks are clean; attribution survives audio; and all names pass the registry ear check."
+  ],
+  "concerns": [
+    "Taste only: 'it was the second honest collision of the year, and the leavers lost it, and lost it for the right reason' announces the council's outcome and interpretation before the scene earns them. A later line pass could test whether the staged voices land harder without the advance ruling.",
+    "Taste only: the paragraph after Teague's offer explains that it is neither kindness nor offer but a term, then explains its cost and register. The exchange already carries much of that subtext; audio may make the interpretive paragraph feel more repetitive than it reads silently.",
+    "Taste only: Oryn's route independence is materially clearer after the repair, but 'the crew had not needed her to' still frames the separation briefly through the unit's need. The more interesting uncertainty—whether she is theirs, and whether she has chosen them—remains comparatively faint."
+  ]
+}

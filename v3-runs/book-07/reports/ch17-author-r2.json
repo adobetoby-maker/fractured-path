@@ -1,0 +1,50 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch17-r2",
+  "scene_id": "b7-ch17",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch17.md",
+  "word_count": 4224,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH17-001 (BLOCKER): resolve the Lowmarch/Oxhollow/Stair geography at the planning layer; preserve or formally revise the fixed Teague line under an exception.",
+      "status": "MET",
+      "evidence": "Owner chose resolution A (EXC-B7-003, in the packet): the rendezvous is MILLRACE, a ford on the Stair road a day south of Lowmarch and one of Oryn's seven stops. Teague: \"My crew's at Millrace in two days,\" Teague said. \"If you're late back, we'll come look.\" Oryn's position: 'Oryn was on her route ... the one after Thornwater was a ford called Millrace, on the Stair road, a day south of Lowmarch; by her count she would be at its table by tomorrow's dusk'. Log: 'Oryn on her route; Millrace tomorrow, by her count.' Oxhollow (six days north-west) untouched."
+    },
+    {
+      "obligation": "ED-B7CH17-002 (HIGH): reconcile the age of Pike's completion entry.",
+      "status": "MET",
+      "evidence": "'he had entered it eleven days ago off a carter's word from Thornwater, and this was the after' (day 101, after the day-99 return)."
+    },
+    {
+      "obligation": "ED-B7CH17-003 (HIGH): keep the six-witness scope and Oryn's absence distinct.",
+      "status": "MET",
+      "evidence": "'the only six people who've seen it are five at this table and one on a road north.'"
+    },
+    {
+      "obligation": "ED-B7CH17-004 (HIGH): no crossbow inference in the council.",
+      "status": "MET",
+      "evidence": "'And if the face is armed,' Lira said. — the council infers only that people will be sent."
+    },
+    {
+      "obligation": "ED-B7CH17-005 (MEDIUM): reconcile Oryn's 'three days north' with the calendar.",
+      "status": "MET",
+      "evidence": "The elapsed-day framing is removed; her position is stated as route and destination (Millrace by the next dusk) under EXC-B7-003."
+    },
+    {
+      "obligation": "ED-B7CH17-006 (MEDIUM): carry Lira's taped ankle.",
+      "status": "MET",
+      "evidence": "Arrival: 'a taped right foot she put down flat at every stride'; council: 'the taped foot up on the bench where the two days had put it'."
+    }
+  ],
+  "inventions": [
+    "Millrace named on the page for the first time (Teague's line; Cael's recollection of Oryn's seven stops in order)."
+  ],
+  "state_change_proposals": [
+    "Millrace: a ford settlement on the Stair road, a day south of Lowmarch; one of Oryn's seven stops, the one after Thornwater on her circuit; Oryn due there on the 113th; Teague's crew there 'in two days'. Oryn's road out of Thornwater goes north and bends."
+  ],
+  "deviations": [
+    "Nine hunks against r1: six for findings 002–006 (applied before the route decision) and three for the resolution (Oryn's paragraph; Teague's line; the log line). r1 preserved as drafts/ch17-r1.md; the pre-resolution r2 draft as drafts/ch17-r2pre.md."
+  ],
+  "blockers": []
+}
