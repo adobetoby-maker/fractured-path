@@ -1,0 +1,219 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch13-r2-editor",
+  "scene_id": "b8-ch13",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Blocker recheck — CH13-001 tail sequence (one continuous close; no second climb; no reopened log)",
+      "state": "PASS",
+      "evidence": "Repaired. The tail now runs as one unbroken sequence: chamber (l.87 'He looked at the boy a moment longer, and did not say it.') -> the cup (l.89 'He picked it up now, and drank.') -> the warning (l.91) -> l.93 'He went back to the carving.' -> section break -> the stair with Vastin (ll.97-107 'and they went up.') -> the notice (ll.109-111 'Cael took the log out, before he went up the last flight ... and it rendered.') -> the log closed (l.113 '... and closed the log.') -> the eyes' cost (l.115 'The eyes paid on the last flight.') -> l.117 'Cael did not tell anyone. He remembered.' One descent, one ascent: 'and they went up' (l.107) and 'when the smear went back to a lamp they went up' (l.115) are the same climb, separated by the pause on the flight. The log is opened once (l.109) and closed once (l.113) and is never reopened or pocketed afterwards. The r1 paragraph that carried the second ascent ('He put the log in the satchel ... picked up the box') is deleted; grep for 'satchel' after l.93 returns zero."
+    },
+    {
+      "gate": "Approved close order — EXC-B8-CH13-2",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "The planning variance is honoured exactly. Required order: chamber -> the cup -> the warning -> 'He went back to the carving.' -> the stair with Vastin -> the acquisition notice -> the log closed -> the eyes' cost -> 'Cael did not tell anyone. He remembered.' ending the file. Delivered order, by line: 87-89 (chamber, cup) / 91 (warning, ending 'Just remember I said it.') / 93 ('He went back to the carving.') / 97-107 (Vastin, the stair) / 111 (the notice) / 113 ('closed the log') / 115 (the eyes paid) / 117 ('Cael did not tell anyone. He remembered.'), which is the last line of the file (wc -l 117). The notice renders after the warning; the file ends on the fixed sentence."
+    },
+    {
+      "gate": "Authority ladder — canon, arc, state, packet",
+      "state": "FAIL",
+      "evidence": "Three of the four r1 conflicts are closed. CH13-003 closed: l.59 now reads 'he had not told the man on a step ... that debt stood, and the twelfth was told because the eleventh was not yet' — Ch12's withheld thing is restored and the covenant paragraph gains the exception that gives it tension. CH13-004 closed: l.113 now reads 'the place in himself where the eleven went round' ('the ten' gone; 'eleven' is one of the two values the r1 repair target authorised). CH13-005 closed: l.49 now reads 'had been told by this man, on the third day down' against ch11.md l.3 'By the third day down he had learned the lamp.' and ch11.md l.7 'The two hundred and eighty-sixth day.' — the interval is no longer stated in days and matches Ch11's own naming of the occasion. One residue remains: CH13-016, l.59's 'the entry was not yet made' against ch12.md l.125 'he said, \"It's entered,\" and took the log out, on the step, and wrote it'."
+    },
+    {
+      "gate": "Craft Core invariant 3 — continuity persistence (staging and placement)",
+      "state": "FAIL",
+      "evidence": "CH13-015. The resequenced tail places Cael on the stair from l.97 ('Vastin was on the landing when Cael came up to it') through l.115 ('The eyes paid on the last flight'), and l.109 pins the log to that climb ('before he went up the last flight'). l.113 then locates the same act in the chamber: 'He read it once, in the plain hand, in a chamber under a city, with a man across the table.' The clause was true of the r1 staging and was carried across the move unchanged."
+    },
+    {
+      "gate": "Reveal schedule / SECRET discipline (CANON_RULES)",
+      "state": "PASS",
+      "evidence": "grep over the repaired draft for 'unbound|architect|primordial|before the paths|apparatus' returns 0; 'station|arbiter' returns 0. The Book 9 sentence is reached and refused, unchanged from r1: l.79 'That's not in the classification system. That's not *supposed* to be possible. That's — ' / l.81 'He stopped.' / l.85 'No. I'll not say that one. Not down here. Not to you.' Nobody completes it. Cleon theorises nothing about the Fractured Path."
+    },
+    {
+      "gate": "Packet obligations.must_include (9 items)",
+      "state": "PASS",
+      "evidence": "9 of 9 met, against 8 of 9 at r1. (1) demonstration at close range with Cael as labour — ll.25-33, lamp two feet from the sheet, the bones read aloud. (2) lightest covenant, told after — ll.57-65. (3) reception as evidence — l.71 'You did what.' / ll.79-81. (4) notice in locked prose — l.111. (5) limit before load-bearing — l.49 'the instrument did not work on a man'; l.111 'Made things only. Not a river. Not a man.' (6) no use on himself or the still place — l.49, l.113. (7) route changed / bound hand / Vastin down — ll.3, 7. (8) close on the fixed dialogue verbatim, contiguous through 'He remembered.' — now met as staged by EXC-B8-CH13-2; the r1 interpolations (the 39-word satchel paragraph and the 59-word carrying clause) are both deleted. (9) reader standard — see Gate 27."
+    },
+    {
+      "gate": "Prohibited outcomes (5 items)",
+      "state": "PASS",
+      "evidence": "No reveal, no [UNBOUND], no Architect (grep 0); the Book 9 sentence stopped (l.81); no Rune use on Cael or the still place (l.49 'there was one place in him he was not going to turn it'; l.113 'did not look at the place in himself'); no reading of Cleon; no fight, no reach, no station (grep 0); the closer is the fixed dialogue and not a log — the log renders and closes at ll.111-113 and the file's last line is l.117 'Cael did not tell anyone. He remembered.', which is the card's sentence, not Ch12's log-entry move; forbidden names 0; 'upside down' 0; capped phrases 0; one-word paragraphs 1 ('\"Yes.\"', l.105, dialogue) against a cap of 2; 'the way X [verb]' 3 against a cap of 4."
+    },
+    {
+      "gate": "Fixed lines — exact string comparison",
+      "state": "PASS",
+      "evidence": "Every fixed sentence of the card's close is present verbatim and unchanged by the repair: l.91 'I'm going to pretend you didn't tell me that,' ... 'since you can apparently take my whole trade by watching me work it for a minute.' ... 'Everything I read is *made*. Stone, ink, seal — somebody built it, so I can see how.' ... 'Don't tell me. Don't tell anyone. Just remember I said it.'; l.93 'He went back to the carving.'; l.117 'Cael did not tell anyone. He remembered.' The two r1 variances are now recorded exceptions under EXC-B8-CH13-3: 'He set down his glass.' -> 'He set down the cup.' (invention budget) and the loose interruption dash 'reads it anyway — \"' (house setting). CH13-013 closed by exception."
+    },
+    {
+      "gate": "Fixed close contiguity",
+      "state": "PASS",
+      "evidence": "'Just remember I said it.' (end of l.91) and 'He went back to the carving.' (l.93) are adjacent paragraphs with nothing between them. 'Cael did not tell anyone. He remembered.' (l.117) is a single unbroken two-sentence paragraph — the r1 59-word interpolated clause between the two sentences is gone — and is the last line of the file. The material staged between l.93 and l.117 is the stair, notice and log sanctioned by EXC-B8-CH13-2. CH13-002 closed."
+    },
+    {
+      "gate": "Causality and earned resolution",
+      "state": "PASS",
+      "evidence": "The blocker is cleared (see gate 1). The integration itself is unchanged and still earned: Cael stands beside a craft for six days and takes nothing by ambush (Continuity Rule 6, satisfied by Ch11's witnessed use plus this demonstration), and the acquisition is caused by the demonstration's last beat (l.45 'in the breath after it stopped, the row on the sheet ... *leaned*'). The repair also pays a cost the r1 draft promised and never spent: l.111 'Costs the eyes, after' is now discharged at l.115 'the lamp in his hand went to a smear, and the stair's edge to a darker smear, and the landing above to nothing he could put a step on'."
+    },
+    {
+      "gate": "Point-of-view integrity (Cael, close third)",
+      "state": "PASS",
+      "evidence": "No narration exceeds Cael's position; inference stays marked as inference ('Cael thought', 'Cael understood', 'he had decided, Cael thought'). Vastin's ll.99-103 'You told him.' / 'He looked away.' remain knowledge of events he did not witness (he leaves at l.63), but they are framed as a career interrogator's probes that Cael confirms, and l.107 glosses them as such: 'as a man nods who has spent forty years watching people be told things and knows what a careful man's looking-away is worth.' Carried as a concern, as at r1, not as a finding."
+    },
+    {
+      "gate": "Word band 3,910–5,290 (target 4,600 ±15%)",
+      "state": "PASS",
+      "evidence": "3,995 words (deterministic diagnostics: word_count=3995, WITHIN_TARGET). The r1 concern that the cuts would push the chapter under the floor is resolved: the deletions cost about 100 words and the eye-cost expansion at l.115 returned more, so the chapter sits 85 above the floor against 41 at r1."
+    },
+    {
+      "gate": "Tic caps (packet knowledge_boundary)",
+      "state": "PASS",
+      "evidence": "Counted over the repaired draft: one-word paragraphs 1 (cap 2); 'the way X [verb]' 3 (cap 4: l.3 'the way everyone could see', l.47 'The way a floor leans', l.77 'the way he had looked at Karis'); 'upside down' 0; the §9 capped-phrase list ('jaw tightened', 'laughed once', 'without humor', 'stomach tightened/dropped', 'There it was', 'That was true', 'Also true', 'sounded almost', 'held this', 'which was, in its own way') 0."
+    },
+    {
+      "gate": "Charter §9 anti-tic (replacement tics)",
+      "state": "FAIL",
+      "evidence": "CH13-009 carried forward unrepaired. The 'as a man/woman [verb]' simile engine is 5 (ll.31, 37, 53, 77, 107) against r1's 6 — the reduction is the single instance deleted incidentally by the CH13-014 repair at l.87, not a pass over the engine — and the charter caps an identical construction at 3 per chapter. 'six days' is unchanged at 6 (ll.15, 25, 45, 65, and twice in l.69). The author's r2 report does not list this finding among its repairs."
+    },
+    {
+      "gate": "Charter §9 scene-closer rule (no two consecutive chapters on the same move)",
+      "state": "PASS",
+      "evidence": "Ch12 ends on a log entry (ch12.md ll.129-131, the italic *Two hundred and ninetieth day* block and *Eleventh.*). Ch13 ends on l.117 'Cael did not tell anyone. He remembered.' — a two-sentence plain-prose beat answering a line of dialogue. Different structural move. The notice and log close now sit closer to the end than at r1 but are separated from the final beat by the eye-cost paragraph, and the final beat is not a log."
+    },
+    {
+      "gate": "Forbidden names",
+      "state": "PASS",
+      "evidence": "grep for 'halcenvane|velmere|wray|bracken' returns 0."
+    },
+    {
+      "gate": "'four hundred years' (0 outside a record's date)",
+      "state": "PASS",
+      "evidence": "grep for 'four hundred' returns 0."
+    },
+    {
+      "gate": "Meta-voice / §8.4 terminal metadata",
+      "state": "PASS",
+      "evidence": "grep for 'end of chapter|word count|[POV|chapter ends' returns 0. No meta-voice."
+    },
+    {
+      "gate": "Charter §10 scene vs summary",
+      "state": "PASS",
+      "evidence": "grep for 'heard about it later|learned afterward|was told later|found out later|by the time he heard' returns 0. Both architecture-major beats — the demonstration and the telling — are dramatised on the page (ll.19-39; ll.57-93). l.53's day-summary compresses only repetition and carries no new plot or world rule."
+    },
+    {
+      "gate": "Charter §8 audio-first",
+      "state": "PASS",
+      "evidence": "Both r1 audio failures are repaired. CH13-007 closed: the paragraph whose 'He' collided with Cleon is deleted; the section after 'He went back to the carving.' now opens on a named subject, l.97 'Vastin was on the landing when Cael came up to it'. CH13-010 closed: l.97 is now a single 93-word sentence carrying no dialogue, and the four turns are broken out as separate paragraphs (ll.99, 101, 103, 105) with the nod at l.107 — down from one 155-word sentence carrying a four-turn exchange. Vastin's two lines now stand where a narrator can voice them."
+    },
+    {
+      "gate": "LitRPG module — editor gates 1-7 (notice format, values, reads aloud)",
+      "state": "PASS",
+      "evidence": "CH13-011 closed: l.111's fourth slot now reads 'Rune family', matching the eleventh's form on disk (ch12.md l.113 'Iron-Wall-adjacent. Vastin. Partial. Iron family.'); the 'Bronze' that stood beside 'Tier equivalent unknown' is gone, so the block no longer gives two answers to one question. CH13-012 closed: the field count now reads 'the second field that is not a fight, after clinical; given, not taken', matching the packet and EXC-B8-CH13-4. The block is anchored to a perceiver in a scene with a reason to look (l.109) and carries all ten required slots: Rune-adjacent / Cleon / Partial / Rune family / structure not meaning / made things only / not a man / costs the eyes / no use in a fight / tier equivalent unknown / deployment none / Twelfth."
+    },
+    {
+      "gate": "Progression module — editor gates 1-7",
+      "state": "PASS",
+      "evidence": "Advancement has an intelligible cause and a recorded delta (ll.43-47 and the notice at l.111); the cost the system promises is now visibly paid (l.115); progress changes something outside the measuring system (Cleon's changed relation to the boy — l.91 'I'm going to pretend you didn't tell me that ... for your sake, not mine'; Vastin's ll.99-107); no unestablished capability resolves anything — the fragment is deliberately not used (l.49); institutions keep moving (the clerk's third not-asking, ll.9-11); the setback of the cut is metabolised as a changed route (ll.3-5)."
+    },
+    {
+      "gate": "Gate 27 — Reader Standard (thirteen-year-old)",
+      "state": "PASS",
+      "evidence": "Banned-word grep over the repaired draft returns 0 (profanity, oaths including 'damn'/'hell', crude slang, blasphemy; 'god' 0). No sexual content. No violence on the page in this chapter and no gore; the previous day's cut is referred to only through its costs (a bound hand, a shoulder used wrong, a knee). Conduct is the standard's own model: Cael tells the truth at his own expense to a man who could destroy him (l.65), declines to use what he has just gained (l.49), and pays a debt of knowledge before he takes a use. Wrong is named as wrong; nothing cruel is rewarded. Cleon's cup is water (l.89). Unchanged from r1 and unaffected by the repair."
+    },
+    {
+      "gate": "EXC-B8-CH13-1 / -3 / -4 (planning rulings rows 16-21; cup and dash; notice slot and field count)",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "Recorded variances applied and honoured: the chapter clock (Ch11 285th-287th, Ch12 290th, Ch13 291st) governs the CH13-005 repair; 'the cup' for the card's 'glass' and the loose interruption dash stand as approved house settings (closing CH13-013); 'Rune family' and 'the second field that is not a fight' stand as approved (closing CH13-011 and CH13-012)."
+    },
+    {
+      "gate": "Regression check — untouched passages and recorded strengths",
+      "state": "PASS",
+      "evidence": "Paragraph-level diff of the repaired draft against the r1 draft (54b239f -> 8fab31e) shows six changed regions, every one of them a named repair target: l.19 and l.33 (CH13-006), l.49 (CH13-005), l.59 (CH13-003), l.87 (CH13-014), and the resequenced tail ll.87-117 (CH13-001/002/004/007/008/010/011/012). Word-level diff of the four in-place paragraphs shows only the repair words changed. No unrelated passage was rewritten. All eight r1 strengths survive verbatim: the record-sits/instruction-leans exposition and 'This is a stair' (ll.27, 33); the acquisition carried on Cleon's breath rather than his eyes (l.31); 'He knew the moment this time' and the floor-leaning paragraph (ll.43-47); Karis's own finding (l.37); the refusal at l.49; 'No. I'll not say that one.' (l.85); the look-away read as 'the covenant's other half' (l.113, preserved as r1 asked); the clerk's arithmetic of not-asking (ll.9-11). The stair image at l.27 still pays off in the actual stair, which the repair has strengthened by moving the climb next to the close."
+    }
+  ],
+  "findings": [
+    {
+      "id": "CH13-009",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "voice/tic density",
+      "gate": "Charter §9 (anti-tic list — any repeated beat phrase >3 is a defect, including new phrases invented to replace an old one; the simile engine capped at 3 per chapter)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch13.md",
+        "line_start": 15,
+        "line_end": 107,
+        "quote": "he had worked it out from six days of watching Cael [15] / he had held it there for six days [25] / which Cael had looked at for six days as forty-one kinds of mark [45] / the first time, he thought, in six days that the man had looked at his face [65] / a boy who had stood at his shoulder for six days holding a light, and had been, the whole six days, a thing the classification had no column for [69] || as a man's breath changes on a stair [31] / as a man looks at somebody who has just said a thing he has waited thirty years for [37] / as a man holds a thing he has used wrong [53] / the way he had looked at Karis ... as a man looks at the thing that proves the shape he has been right about [77] / as a man nods who has spent forty years watching people be told things [107]"
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 314,
+        "line_end": 345,
+        "quote": "Rule: any somatic/beat phrase appearing more than 3 times per book is a defect — including new phrases invented to replace an old one. Fixing a tic with a fresh repeated phrase is the same defect wearing a different coat; vary the replacement or cut the beat. ... \"the way you/he/she [verb]...\" as a simile engine — cap the *identical* construction at 3 per chapter"
+      },
+      "consequence": "Carried forward from r1 unrepaired. Counted over the repaired draft: 'six days' is 6, unchanged from r1 (identical lines, and twice inside l.69); the 'as a man/woman [verb]' simile engine is 5 against r1's 6, and the single reduction is the instance at the old l.87 that the CH13-014 repair deleted incidentally, not a pass over the engine. Five instances of one construction in a 3,995-word chapter, four of them making the same rhetorical move (an abstract man invoked to certify a gesture), is the watermark the charter caps at three; the repeated 'for six days' tenure clause is a second one. The author's r2 report lists no repair against this finding. Because the notice, the warning and the close all sit in the last quarter, l.107's 'as a man nods' is the last simile a listener hears before the ending, which is where the pattern is least affordable.",
+      "repair_target": "Lines 15-107. Reduce the 'as a man/woman [verb]' engine to three — l.37 and l.77 do work the others repeat, and l.107 is the one that costs most where it sits — and reduce 'six days' to two or three uses, starting with the doubling inside l.69. Do not touch ll.31 or 47, which the r1 strengths record.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "CH13-015",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity/staging",
+      "gate": "Craft Core — reader-trust invariant 3 (continuity persistence); Charter §8 (audio-first)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch13.md",
+        "line_start": 109,
+        "line_end": 115,
+        "quote": "Cael took the log out, before he went up the last flight, because a thing that has come should be entered where it came ... He read it once, in the plain hand, in a chamber under a city, with a man across the table who had just given him a thing by working in front of him and had then, deliberately, looked away from him ... He let it stand, and did not look at the place in himself where the eleven went round, and closed the log. // The eyes paid on the last flight."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch13.md",
+        "line_start": 93,
+        "line_end": 107,
+        "quote": "He went back to the carving. ... Vastin was on the landing when Cael came up to it with the lamp, after ... and Cael took the case's other strap without a word and they went up the stair together ... The man said, on the fourth flight, without looking round: \"You told him.\" ... and they went up."
+      },
+      "consequence": "The approved resequencing moved the notice and the log's close out of the chamber and onto the stair, but the paragraph that carries them still locates the act in the chamber. Cael has left Cleon at l.93, taken the case with Vastin at l.97, climbed to the fourth flight by l.99, and takes the log out at l.109 'before he went up the last flight' — and l.113 then reads the entry 'in a chamber under a city, with a man across the table'. On the page a careful reader may recover it as a description of where the fragment came from; read aloud a listener has just been placed on a stair with Vastin two paragraphs running and hears the boy put back at Cleon's table. It is the one seam left by the move, and it sits in the paragraph immediately before the close.",
+      "repair_target": "Line 113 — re-point the locative to the stair, or convert it to the past ('in the plain hand, on a stair, for a man who had just given him a thing by working in front of him'). Do not touch the look-away gloss that follows it; the r1 strengths record it and it is doing the ending's ethical work.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "CH13-016",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Authority ladder — approved prior chapter over invention; Craft Core reader-trust invariant 3",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch13.md",
+        "line_start": 59,
+        "line_end": 59,
+        "quote": "The eleventh had been a plane held across a cut for him, and he had not told the man on a step, because the only currency the man took was a ledger and the entry was not yet made; that debt stood, and the twelfth was told because the eleventh was not yet."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 125,
+        "line_end": 125,
+        "quote": "Cael did not say anything for a while. Then he said, \"It's entered,\" and took the log out, on the step, and wrote it, and did not tell the man what else he had entered, because a fragment is a thing you own and a thing a man gave you is a thing you owe."
+      },
+      "consequence": "The CH13-003 repair is correct in its load — the eleventh is now entered-not-told and the debt stands, which is what Ch12 shows — but the rationale clause it arrives with reads against Ch12's own words. Ch12 ends on Cael making the ledger entry Vastin asked for, on the step, in front of him: 'It's entered.' Ch13 says 'the only currency the man took was a ledger and the entry was not yet made.' A reader coming straight off Ch12's last page has that sentence in the ear. The referent is arguably a different entry — the one that would record the telling — but nothing on the page distinguishes them, and this is the paragraph the chapter uses to argue its covenant has never been broken, so the reader is already reading it closely.",
+      "repair_target": "Line 59 — name which entry is missing ('the entry that would have said what else he took was not yet made'), or drop the ledger clause and let 'that debt stood' carry it. Do not disturb the clause the repair added at the end of the sentence; it is what closes CH13-003.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "The 140-word sentence at l.115 ('Cleon had said they would ... and when the smear went back to a lamp they went up') is now the longest in the chapter, ahead of l.49's 133 and l.11's 114, and it is the last paragraph before the fixed close. It carries no dialogue turns and it is the house voice's earned accumulating mode doing real work — it is the cost the notice promised and the r1 concern asked for — so I am not raising it. Flagged because the ear reaches the ending having just carried the notice, the log's close and this; if a later compression pass wants one break, it belongs after 'and it was his now:'.",
+    "CH13-004's repaired value at l.113 is 'the eleven', taken after the notice for the twelfth has rendered two paragraphs above. The r1 repair target authorised either value, and 'the eleven' is defensible (the twelfth is on the page, not yet gone round) — but STATE_RUNNING will inherit whichever number is written here, so the splice should record the reading deliberately rather than by transcription.",
+    "CH13-006's repair loosens Cleon's promise to 'when I've finished the week' (l.19) and 'in a day or two ... at the week's end' (l.33), which is exactly what the r1 repair target asked for and lets Ch15 pay it. Note that l.21 still fixes the demonstration on 'the sixth day of his week', so 'the week's end' reads at first pass as the 292nd — Ch14, which carries no Cleon scene. 'in a day or two' rescues it. If the planning seat wants the promise unambiguous, the cheapest fix is to drop 'at the week's end' from l.33 and leave 'in a day or two' to carry the date alone.",
+    "Vastin's 'You told him.' and 'He looked away.' (ll.99-103) still name two things he did not witness — he takes the case and goes at l.63, before the telling. The r1 draft wrapped the inference framing around the exchange; the CH13-010 repair correctly broke the turns out, which pushes the framing ('as a man nods who has spent forty years watching people be told things') to l.107, four short paragraphs after the first claim. It still lands, and Cael's confirmations make the lines read as probes. One clause on l.99 would close it for free if that line is touched again.",
+    "The handcart at l.3 is no longer contradicted — the paragraph in which Cael carried a box up the stair by hand is deleted — but it is still a prop introduced for one line and never seen again at the yard door. Ch14/Ch16/Ch17 will inherit the question of whether it is still borrowed.",
+    "'six days' as the lamp count (ll.25, 65, 69) indexes off Cleon's week, while Vastin's 'six days of watching Cael' (l.15) and the lamp-reach tally at l.53 ('four, on the fourth day; two, today') index off Vastin's own tenure, and Vastin came down as a hand on the 284th, which makes the 291st his eighth day. Unchanged from r1. Whatever repair takes CH13-009 should put every count on one clock rather than only thinning the phrase.",
+    "The r1 concern that the notice promised a cost the chapter never paid is resolved and is now one of the chapter's better beats: l.115 spends the eyes on the last flight, in the dark, with Vastin declining to offer a hand. Record it as a strength before any compression pass reads it as expansion padding and takes it back out."
+  ],
+  "strengths": [
+    "The repair is surgical. Six changed regions, every one a named repair target, no unrelated passage rewritten, and all eight recorded r1 strengths intact — the record-sits/instruction-leans exposition (l.27), the acquisition carried on Cleon's breath (l.31), 'He knew the moment this time' and the floor-leaning paragraph (ll.43-47), Karis's own finding (l.37), the refusal at l.49, 'No. I'll not say that one.' (l.85), the look-away read as the covenant's other half (l.113), and the clerk's arithmetic (ll.9-11).",
+    "The resequenced tail is better than a repair. Moving the climb between the warning and the close puts the chapter's stair image — planted at l.27 ('you can feel the order as you can feel which way a stair goes in the dark by where the treads are') and called at l.33 ('This is a stair') — inside a literal dark stair the boy cannot see the treads of. The blocker's fix produced the chapter's best structural rhyme.",
+    "The eye-cost at l.115 is the single most valuable thing the repair added: the notice's 'Costs the eyes, after' is discharged within twenty lines, in the dark, on a stair, with Vastin 'a step above him' who 'said nothing, and waited, and did not offer a hand, because the man had learned in a week what a hand was worth to a boy on a stair.' It pays a system promise and advances the Vastin thread in the same breath, and it does it without a word of comment.",
+    "Breaking the four turns out (ll.99-107) is the right repair and not merely a formatting one. 'You told him.' / 'I told him.' / 'He looked away.' / 'Yes.' as four bare paragraphs on a stair is the whole Vastin relationship in eleven words, and it now reads aloud as four voices instead of one clause chain.",
+    "l.87's replacement — 'He looked at the boy a moment longer, and did not say it.' — is a better line than the gesture it removed. The look-back is now spent once, at the fixed 'He went back to the carving.', exactly as the card stages it, and the restraint at l.87 makes the later gesture land as a decision rather than a repetition.",
+    "l.89's cup preamble now ends on 'He picked it up now, and drank.', which leaves the setting-down to the fixed line and restores the pause the card built. Thirty years of a clay cup, never once drunk from while he reads, and he drinks now — the gesture tells the reader what the boy's sentence cost the man before Cleon says a word about it.",
+    "l.59's restored exception is the strongest single sentence the repair produced: 'that debt stood, and the twelfth was told because the eleventh was not yet.' The covenant paragraph no longer claims a perfect record; it claims a man paying one debt because another is open, which is a harder and truer thing and it costs the author nothing to say."
+  ]
+}
