@@ -1,0 +1,68 @@
+{
+  "schema_version": "3.0",
+  "run_id": "b8-ch24-r1-author",
+  "scene_id": "b8-ch24",
+  "draft_path": "v3-runs/book-08/drafts/ch24.md",
+  "word_count": 3823,
+  "target_words": 4600,
+  "obligations": [
+    {
+      "item": "The crossing stride-counted (506); the twelfth on the FLOOR at a hundred strides — the same reading as the still place; the eyes paid",
+      "status": "MET",
+      "evidence": "'Five hundred and six to the middle.' … 'He turned the twelfth on the floor.' … 'Not like the still place's reading; the *same* reading, in the same grammar' … 'The eyes went.'"
+    },
+    {
+      "item": "The centre: nothing to feel; not 'his works' — nothing to work against; delivered as understanding; 'Not the Quiet' said again and standing; 'Not a fragment'; what he adds — 'The same kind of made'; belonging; not coincidence; no word",
+      "status": "MET",
+      "evidence": "'There was no edge.' … 'It was a seam. And there was no seam here' … 'Not the Quiet.' / 'Not a fragment.' / 'The same kind of made.' … 'the name was that he fit' … 'It was not an accident.' … 'he was not going to say the third sentence'"
+    },
+    {
+      "item": "The return; Oryn's reading at the line — the same finding; he tells no one what the centre felt like",
+      "status": "MET",
+      "evidence": "'The same finding.' / 'Nothing.' / 'Everything, round it.' … 'I'll tell you on the road. If there's road.' … 'He told nobody what the centre had felt like.'"
+    },
+    {
+      "item": "The ledger: thirteen by name; the still place read by two instruments and understood by neither; Hesk's letter (short) given to Teague; Teague west past the stone ('Next spring.' / 'Noted.'); Oryn north on her mule on her terms; Vastin unadmitted; Seln's count",
+      "status": "MET",
+      "evidence": "the log's inventory; the letter; 'Spring's over.' / 'Noted.' / 'Next spring.' … 'The day I have to.' / 'Noted.' / 'Everybody says that.' … 'Six. Six and no mule.' … 'unadmitted, an ally who had not asked, and did not ask now'"
+    },
+    {
+      "item": "Close on the fixed closing prose with 'the whole year'; file ends on 'That was as far as he could say.'",
+      "status": "MET",
+      "evidence": "the last paragraph"
+    }
+  ],
+  "plants": [
+    "'a third sentence past it, waiting' — Book 9",
+    "The floor and the still place one reading — Book 9's tomb",
+    "Vastin unadmitted; 'the asking … on a road' — Book 9's opening",
+    "Teague 'Next spring … My crew comes.' — Book 9+",
+    "Oryn 'Spring. Bring the map. Lie still when I say.' — Book 9",
+    "The letter to Hesk ('both edges agreed') — Book 9"
+  ],
+  "payoffs": [
+    "B7's anomaly → no edge at the first one",
+    "Ch16's 'I happened anyway' / 'I want to stand in the middle of it' → stood; belonging",
+    "Ch22's prediction → 'Nothing. Entered.'",
+    "Ch23's 'Same as you' → not answered; Oryn's reading the minute after",
+    "Ch17's log → the first one stood in"
+  ],
+  "names_minted": [],
+  "tic_census": {
+    "one_word_paragraphs": "see gate",
+    "the_way_x_verb": "see gate",
+    "upside_down": 0,
+    "four_hundred_years": "1 (the fixed closing prose)"
+  },
+  "state_change_proposals": [
+    "The 307th dusk: THE CENTRE — 506 strides; the floor unchanged to the middle; the twelfth on the floor at 100 strides (the same reading as the still place: still, set, rows leaning both ways — 'a shape'; an instruction with no language); the eyes paid; at the centre NOTHING — no edge; 'the edge is where a made thing meets a thing that was not made … It was a seam. And there was no seam here'; said aloud: 'Not the Quiet.' (stands) 'Not a fragment.' (stands) 'The same kind of made.' (added; kind unnamed); no exclusion, no prevention, no wall; 'he fit'; not an accident; the third sentence not said.",
+    "At the line: Oryn read him the minute after, in front of ten — 'The same finding.' / 'Nothing.' / 'Everything, round it.' — she did not repeat 'Same as you'. Lira: 'Well?' / 'I'll tell you on the road. If there's road.' / 'Right.' He told nobody the centre.",
+    "THE LEDGER (the 307th night, the rim): thirteen named (the log's names); the still place read by the tenth (nothing) and the twelfth (a shape), understood by neither; 'Not the Quiet. Not a fragment. The same kind of made.' Cash 123. Letter to Hesk (four lines: 'Your grandmother's line was already drawn. I followed it to the end; both edges agreed. Mind the shape, you said. I'm minding it. — C.') given to Teague for the west.",
+    "The 308th dawn: TEAGUE west with his three past the stone — 'Spring's over.' / 'Noted.' / 'Next spring … Whatever's on the next line. My crew comes.' / 'Noted.' (the alliance real, grieving, available; he was 'wrong about the more' and did not say so). ORYN north on her mule with her roll (Karis's boxes off it): 'The day I have to.' / 'Noted.' / 'Everybody says that.' … 'Spring. Bring the map. Lie still when I say.' SIX and no mule: Lira (third box), Brom (first box; forearm), Karis (case; six circles; nothing past the sixth), Seln ('Six. Six and no mule. Nothing behind. Nothing beside.' — no 'nothing ahead'), VASTIN day 29, sigil lit outside the stumps, UNADMITTED and not asking. 'West.' / 'West.'",
+    "BOOK 8 CLOSE: the fixed closing prose ('the whole year')."
+  ],
+  "deviations": [
+    "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence; no sexual content; conduct decent (the rival captain's term kept; the healer's terms kept; the ally unadmitted and unpressed).",
+    "'four hundred years' appears once in the fixed closing prose and once in the centre passage ('a man had built four hundred years ago') — the second is the leaf's date in Cael's understanding; if the editor rules it a second instance, replace with 'a long time ago'."
+  ]
+}
