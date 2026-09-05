@@ -38,7 +38,7 @@ She could not lift the bundles, so she pointed, and Seln lifted, and by noon the
 
 "You've got the woman's," Lira said, from the bench by the door, the stick across her knees. "Dusk. Out of the water. River's their colour. That's three lines."
 
-"That's lore. It's good lore. It kept us alive. It's under a slip." Karis nodded down the plank at a bundle at the far end, thin, one page. "That's the shelf. One page, dictated, in his hand. There's no *record* out here. There are people who know things and a road, and the people get on the road and go, and what they know goes with them." She said it without heat, at the pitch she used for a finding. "I'm a researcher in a country that keeps nothing. I'd like to write that down, and I can't hold the pen."
+"That's lore. It's good lore. It kept us alive. It's under a slip." Karis nodded down the plank at a bundle at the far end, thin, one page. "That's the shelf. One page, dictated, in his hand. There's no *record* out here. There are people who know things and a road, and the people get on the road and go, and what they know goes with them." She said it without heat, as she said a finding. "I'm a researcher in a country that keeps nothing. I'd like to write that down, and I can't hold the pen."
 
 She asked everyone anyway.
 
@@ -122,7 +122,7 @@ He had watched Seln read rooms for four years. He had not watched him read a boa
 
 Seln put a finger on the well slip and moved it a quarter-inch on the plank, which was how he took a job.
 
-Then he said, not looking round, at the pitch of the road:
+Then he said, not looking round, level as the road:
 
 "I keep waiting for someone to ask for my report."
 
@@ -148,7 +148,7 @@ Cael was at the plank's far end with the fourteen slips and did not move, becaus
 
 Pike finished the line.
 
-"Same as anyone," he said, at the pitch he said a price. "What'd he do?"
+"Same as anyone," he said, as he said a price. "What'd he do?"
 
 Brom did not answer that, because it had not been a question to him; it had been the answer. He stood a moment with the arm against his chest. Then he put the good hand out, palm up, across the plank — not to Pike — and said, "Pencil," to the far end, and Cael put his own in it.
 
@@ -170,7 +170,7 @@ The ferry came in at the fourth hour after noon, with the sack.
 
 Canvas, tarred, sealed at the neck with the Line's waystation mark in lead: mail, once a month, carried to the Line by the ferry and back with whatever had come the other way. The boy brought it up from the landing on his shoulder and set it on the plank's end, and Pike cut the lead with the pen-knife and turned the sack out and sorted, aloud, by name, because the board was where the names were.
 
-Nineteen pieces. Eleven for carters, by the holds' brands. Four for crews. Three for the inns. And one more, and Pike read the name on its face at the pitch of a price and held it out across the plank without looking at who took it.
+Nineteen pieces. Eleven for carters, by the holds' brands. Four for crews. Three for the inns. And one more, and Pike read the name on its face as he read a price and held it out across the plank without looking at who took it.
 
 "Cael."
 
@@ -210,7 +210,7 @@ Pike carried the book up from the landing under his arm and set it on the table 
 
 He did not read it. He had read it. He counted it, from where he sat, to be sure it was still thirteen lines, and it was, and the last line was still five names in a row.
 
-Pike opened the book. He turned the pages back to a place a week old and put two fingers on a line and read it aloud, at the pitch, to the room — not to them, to the room, which was the procedure — and the room listened, because the room always listened to this part.
+Pike opened the book. He turned the pages back to a place a week old and put two fingers on a line and read it aloud, evenly, to the room — not to them, to the room, which was the procedure — and the room listened, because the room always listened to this part.
 
 "Stillhound pack, Thornwater ford: cleared. Five confirmed. Crew of five, four injured, none lost. Price paid."
 

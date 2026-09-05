@@ -2,9 +2,9 @@
 
 Thornwater's gate came up out of the road at the end of the second day, and he counted the steading as he came through it, because he had counted it going out and wanted to know what five days had done to it.
 
-The wall, timber on a stone footing, the same. The bowman on the gate-walk, the same man, who looked down at six where he had seen six go out and called nothing, which was his whole vocabulary and was enough. The yard, the well, the grain loft with its ladder, the house with two chimneys and one of them smoking. The steading's woman at the house door with her arms folded, counting them as they came in the way he was counting her steading, and arriving at the same number, and looking at Lira's arm slung across her chest, and at Karis's throat, and at the mule with its three boxes, and saying, "Six. Well," which was a ledger line.
+The wall, timber on a stone footing, the same. The bowman on the gate-walk, the same man, who looked down at six where he had seen six go out and called nothing, which was his whole vocabulary and was enough. The yard, the well, the grain loft with its ladder, the house with two chimneys and one of them smoking. The steading's woman at the house door with her arms folded, counting them as they came in while he counted her steading, and arriving at the same number, and looking at Lira's arm slung across her chest, and at Karis's throat, and at the mule with its three boxes, and saying, "Six. Well," which was a ledger line.
 
-Lira had walked the two days the way Oryn told her and not the way she walked — the taped right ankle put down flat at every stride, as if it were somebody else's — which was the first time in four years he had seen her take an order about her own body and keep it past the first mile. She stopped inside the gate, the foot turned out, and did not sit down until Oryn said she could.
+Lira had walked the two days as Oryn had told her to and not as Lira walked — the taped right ankle put down flat at every stride, as if it were somebody else's — which was the first time in four years he had seen her take an order about her own body and keep it past the first mile. She stopped inside the gate, the foot turned out, and did not sit down until Oryn said she could.
 
 He had walked the two days on the calf at nine on the rises and no count on the flat by the second noon, and had known by the second noon what that meant and had not said it.
 
@@ -20,7 +20,7 @@ He got the shirt up. Twenty-three days of boiled linen round the ribs, hers, gre
 
 He got the trouser leg up and the binding off. The ford's line along the inside of the calf, opened on the rim's edge four days ago and washed and bound at the stone and not touched since, was a seam. Pink, closed its whole length, the black gone out of it. She put a thumb along it and pressed, and he did not move, and she pressed harder, and he did not move.
 
-"Closed. Four days." She said it as she said everything: to the thing in front of her, without a verdict attached. "That should be a fortnight. I've said so four times and I'll not say it a fifth; it's on the page." She let the leg go and stood up, and looked at him the way she had looked at the stone at the line, which was as at a thing that had a rule in it she had not been told. "Still and whole. Near enough that I'll say it. Tomorrow, after I've eaten and slept under a roof, which I've not done since this one. The long one."
+"Closed. Four days." She said it as she said everything: to the thing in front of her, without a verdict attached. "That should be a fortnight. I've said so four times and I'll not say it a fifth; it's on the page." She let the leg go and stood up, and gave him the look she had given the stone at the line: the look for a thing with a rule in it she had not been told. "Still and whole. Near enough that I'll say it. Tomorrow, after I've eaten and slept under a roof, which I've not done since this one. The long one."
 
 "Yes," he said.
 
@@ -134,7 +134,7 @@ He catalogued it from the door, because she had said he would lie still and he w
 
 She shut it.
 
-"Shirt off. On your side, facing the window. Left side down." She had eaten and slept, and it showed the way it showed on her — not in the face, which was the same square weathered face, but in the hands, which were steady and warm when she put one on his shoulder to turn him. "Your left hand under the blanket. Your right arm along your side, not on it. There." She moved the arm a finger's width. "You're going to want to breathe like a man being examined. Don't. Breathe like a man asleep."
+"Shirt off. On your side, facing the window. Left side down." She had eaten and slept, and it showed where it showed on her — not in the face, which was the same square weathered face, but in the hands, which were steady and warm when she put one on his shoulder to turn him. "Your left hand under the blanket. Your right arm along your side, not on it. There." She moved the arm a finger's width. "You're going to want to breathe like a man being examined. Don't. Breathe like a man asleep."
 
 He lay on his side on a plank table in a steading's back room with the sun on the wall in front of him, eighteen years old, nine fragments and one anomaly, and did what he was told.
 
@@ -142,7 +142,7 @@ Her hand came onto his sternum. Flat, the palm over the breastbone, the fingers 
 
 "Count of ten," she said. "You know this part."
 
-He knew this part. He had watched it from outside on Lira's leg and Brom's arm and Karis's throat, and felt it from inside four times: her attention arriving, going down, going to the place, and not finding it. It went down now. He felt it go the way he had felt it at Oxhollow's table — a pressure that was not a pressure, a hand that was not the hand, going under the hand — and felt it reach the place where on Brom it found *Iron Skin* and on Karis it found *Ember*, and find what it had found four times.
+He knew this part. He had watched it from outside on Lira's leg and Brom's arm and Karis's throat, and felt it from inside four times: her attention arriving, going down, going to the place, and not finding it. It went down now. He felt it go, as at Oxhollow's table — a pressure that was not a pressure, a hand that was not the hand, going under the hand — and felt it reach the place where on Brom it found *Iron Skin* and on Karis it found *Ember*, and find what it had found four times.
 
 Ten, by her count.
 
@@ -158,7 +158,7 @@ It came in under the front hand first. Not cold. The idea of cold, without the t
 
 Nothing in him had been touched from outside before. He had been read from outside by instruments — assessors, panels, a sigil that had gone dark at eleven seconds and stayed dark — and none of them had come in. They had stood at the door. This came through it, and went along the first thing it found, which was Wind, faint, still ringing from the second morning, and he felt the current lie along Wind's whole length as a hand lies along a rope to learn its lay, and go on.
 
-He could feel her deciding. That was the other thing. Her attention had a texture, and the texture was *patient*, and the patience had a count in it — he could feel her keeping time, the way she kept everything, so that the twenty minutes would be twenty and not nineteen said as twenty.
+He could feel her deciding. That was the other thing. Her attention had a texture, and the texture was *patient*, and the patience had a count in it — he could feel her keeping time — she kept everything — so that the twenty minutes would be twenty and not nineteen said as twenty.
 
 "I'm in," she said. Low, level, to the room. "Past the hurt-layer. There's a lot of you. I'd not expected that; the short one made you feel thin."
 
@@ -166,7 +166,7 @@ The current went from Wind to Pressure, and along Pressure, and he understood th
 
 "Movement. I'll say what I feel and not what it means, because I don't know what it means and I'll not learn it by saying." Her front hand shifted a finger's width, as it had on the calf at the stone, looking for a bank a finger over. "Movement, going. Not one. I'm on one and I've lost it, and I'm on — another. Or the same one round a corner. I can't tell yet."
 
-Iron. Compression. The current lay along each of them, in turn, unhurried, and he felt the ones it had not reached yet ring faintly at the edges of where it was, the way strings ring on a bench when one is struck, and felt her attention go toward the ringing and stop, and go back.
+Iron. Compression. The current lay along each of them, in turn, unhurried, and he felt the ones it had not reached yet ring faintly at the edges of where it was, strings on a bench when one is struck, and felt her attention go toward the ringing and stop, and go back.
 
 "Everyone I've ever had my hands in, this is the part where I know." She said it as a finding about herself. "Iron Skin, you feel the banks first — dense, walled, everything held. Ember, the banks are a fire's, hot at the edge. Wind you barely feel the banks at all, the water's too fast. But there's always a bank. It's how you know which river." A pause, long, her current going along Ember and stopping at the ignition point and lying there as if it had found a stone in a bed. "I can't find one here. I keep putting my hand where the bank ought to be and there's more water."
 
@@ -190,7 +190,7 @@ Anchor, which since the Ostrand road had wanted doorways, wanted nothing under h
 
 The sun was at the top of the wall, going onto the ceiling. Twenty, by the wall.
 
-She said it then, all of it, in the order she had found it, the way Seln gave a report.
+She said it then, all of it, in the order she had found it, like one of Seln's reports.
 
 "I can feel that there's movement. More than one. I can't count them — I can't find where one stops. There's no channel. Everyone has a channel; I feel the banks and I know the Path. I can't find the banks in you. I've looked for twenty minutes. It isn't that you're broken. It's that I can't find anything shaped like the thing I read."
 

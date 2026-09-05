@@ -48,7 +48,7 @@ Cael put that beside the sentence it referred to, in the place he kept such thin
 
 The mechanism came to the board while they stood there, in the shape of a woman off the north road with a slip in her hand.
 
-She was a crew's captain; he had her catalogued as one before she reached the plank, by the way three people behind her stopped when she stopped. Thirties, a bill-hook scar across one palm, mud to the knee. She did not say anything. She put the slip on the plank under the stone's edge, and Pike drew it out, and read it silently first, and then turned it to the light and looked at the corner, where a hold's brand had been burned into the paper and a mark had been made across the brand in charcoal.
+She was a crew's captain; he had her catalogued as one before she reached the plank: three people behind her stopped when she stopped. Thirties, a bill-hook scar across one palm, mud to the knee. She did not say anything. She put the slip on the plank under the stone's edge, and Pike drew it out, and read it silently first, and then turned it to the light and looked at the corner, where a hold's brand had been burned into the paper and a mark had been made across the brand in charcoal.
 
 "Witness is the hold," Pike said. To her, not to the five of them, but at a pitch that carried under the roof, which Cael understood a moment later was itself part of the procedure.
 
@@ -76,7 +76,7 @@ Pike read it aloud, at the same pitch as the first, not one degree softer. "Reco
 
 "Paid three."
 
-"Paid three." He wrote. Cael watched the columns take that too, and the fourth column take the whole of it — *eleven lost to the water* — in the same ink, at the same size, as *delivered, no loss*. When it was written Pike read it back, aloud, word for word, under the roof, to the meadow, and the man stood and listened to his own line the way the woman had, and did not nod.
+"Paid three." He wrote. Cael watched the columns take that too, and the fourth column take the whole of it — *eleven lost to the water* — in the same ink, at the same size, as *delivered, no loss*. When it was written Pike read it back, aloud, word for word, under the roof, to the meadow, and the man stood and listened to his own line as the woman had, and did not nod.
 
 "The bank went," he said.
 
@@ -184,7 +184,7 @@ The lower inn had a common room with a door to the landing and a door to the roa
 
 Cael catalogued the room from the road door, because that was where they came in.
 
-Long, low, six tables. Fire at the far end, the best table beside it — four chairs, empty, and empty in the way of a table that had been kept, with a jug already on it. Two tables of carters near the road door, loud. A crew of three at the middle table, the north-road woman among them, drinking with their backs to the room. The captain who had lost eleven bales was not in the room. Pike's table by the fire, the ledger on it under its stone, Pike behind it with a bowl. And on the wall between the fire and the door, on the long side, at head height, pinned at four corners with wooden pegs: one sheet.
+Long, low, six tables. Fire at the far end, the best table beside it — four chairs, empty, and empty as a kept table is empty, with a jug already on it. Two tables of carters near the road door, loud. A crew of three at the middle table, the north-road woman among them, drinking with their backs to the room. The captain who had lost eleven bales was not in the room. Pike's table by the fire, the ledger on it under its stone, Pike behind it with a bowl. And on the wall between the fire and the door, on the long side, at head height, pinned at four corners with wooden pegs: one sheet.
 
 He counted before he read, because counting was faster and he wanted the number first. Thirteen lines.
 

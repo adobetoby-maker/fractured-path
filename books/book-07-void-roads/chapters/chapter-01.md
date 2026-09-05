@@ -8,7 +8,7 @@
 
 *Inventory, because I do one at the start of anything. I am eighteen. Nine confirmed: Wind, Pressure, Iron, Compression, Ember, Storm, Anchor, Blade, and Shadow, which costs from waking whether I use it or not and drifted twice today on a road with nobody on it. Deployment since the Line: none. One anomaly. Session nine. Still open. Still real. Patience.*
 
-*No tier. No rank. No enrollment. And — I checked this morning from the top of the shelf, both directions, the way I have checked every morning for four years — no file I can see.*
+*No tier. No rank. No enrollment. And — I checked this morning from the top of the shelf, both directions, every morning for four years now — no file I can see.*
 
 *Fourth day. A ford.*
 
@@ -26,15 +26,15 @@
 
 *A river, wide and brown, with a ford marked by poles and a rope ferry for the deep part. Two inns, priced for people with more coin than we have. A smith, working. No wall. A meadow above the ford full of carts and tents, which is where anyone who is not a carter sleeps, and where we are. The ferryman told Brom that half the faces in the meadow will be gone by the month's end and the other half will be new. Nobody here has been here long enough to be anybody.*
 
-*The board is under a roof on four posts by the ferry landing: planks nailed to the posts at head height, slips of paper pinned to the planks. I read it the way I read the Cinder House board at fourteen, which is to say all of it, twice, and then sorted.*
+*The board is under a roof on four posts by the ferry landing: planks nailed to the posts at head height, slips of paper pinned to the planks. I read it like the Cinder House board at fourteen: all of it, twice, and then sorted.*
 
 *Fourteen postings. Six escorts. Three clearances — two fence-lines, one ford. Two recoveries — a cart in a wash, a load off a bank. Three hold contracts, priced high, with a word on each in the board-keeper's hand: HOLD, meaning a crew is on it. Every slip prices the job. Not one slip prices the crew. There is no line on any of them for what a crew has to be — no "Iron or above," no "certified," nothing — and I looked for it the way you look for a stair in the dark, with a foot, because every board I have ever read had it.*
 
 *Sorted by what each would cost the five of us: the escorts cost time. The fence-lines cost Brom's back. The wash costs rope and Lira. The ford clearance I can't price, because I don't know what is in the ford.*
 
-*Pike keeps the board. Sixties. One arm — the left sleeve pinned flat by someone who has done it every morning for years and stopped thinking about it. He sits the way Force practitioners sit when they have stopped using it, weight all the way down. He said "Copper, Force, thirty years on the roads" in the same breath as his name, as a man says his trade, and did not ask ours. He asked what we could do. Lira said "Walk, carry, climb, fight," and he said "In that order?" and she said "Depends on the day," and he wrote something down.*
+*Pike keeps the board. Sixties. One arm — the left sleeve pinned flat by someone who has done it every morning for years and stopped thinking about it. He sits like a Force practitioner who has stopped using it, weight all the way down. He said "Copper, Force, thirty years on the roads" in the same breath as his name, as a man says his trade, and did not ask ours. He asked what we could do. Lira said "Walk, carry, climb, fight," and he said "In that order?" and she said "Depends on the day," and he wrote something down.*
 
-*He opened a heading for us. Five names down the margin of a fresh page, in his hand, spelled the way we said them. Five columns ruled beside the names: Job. Hirer. Witness. Outcome. Price. I read it upside down, because I read everything upside down, and then read it again to be sure I had not missed the column every ledger I have ever been entered in has had, the one that says what you are. I had not missed it. The page does not have it.*
+*He opened a heading for us. Five names down the margin of a fresh page, in his hand, spelled as we say them. Five columns ruled beside the names: Job. Hirer. Witness. Outcome. Price. I read it upside down, because I read everything upside down, and then read it again to be sure I had not missed the column every ledger I have ever been entered in has had, the one that says what you are. I had not missed it. The page does not have it.*
 
 *Fourteenth day.*
 
@@ -206,7 +206,7 @@ The carter looked at her. He was not unkind about it. He was a man being asked, 
 
 "It's a stillhound. You shut up. It went home." He took up the slack in the rein. "Twenty years. That's all I've got, and I've had it a while."
 
-He went in. Karis stood at the gate for a moment with the word, holding it the way she held a line copied out of a charter she could not yet read, and then she followed the cart, and the gate-woman looked at Cael, last through, with the lantern up.
+He went in. Karis stood at the gate for a moment with the word, holding it as she held a line copied out of a charter she could not yet read, and then she followed the cart, and the gate-woman looked at Cael, last through, with the lantern up.
 
 "You're paper," she said.
 
@@ -242,6 +242,6 @@ That was the whole of it. Cael read it three times and copied it into the log ve
 
 *Lira could have cleared it and said so once. Brom held a mule. Karis looked and did not light. Seln said five sentences in a mile and none of them was a reason. Five people held everything they own for a mile of road in the dark, and nobody had to be told twice, and that is the finding of the six weeks: we are a unit in a country that has never seen one.*
 
-*Hesk's satchel is on my knee. It has been through a ford and two carts and a wash and it sits flat, the way he made it to. He said mind the shape. The shape out here is a road, and a board, and one line in a book, and I can see all of it.*
+*Hesk's satchel is on my knee. It has been through a ford and two carts and a wash and it sits flat, which is what he made it to do. He said mind the shape. The shape out here is a road, and a board, and one line in a book, and I can see all of it.*
 
 *Note the date. Season's open, and for once it isn't theirs.*

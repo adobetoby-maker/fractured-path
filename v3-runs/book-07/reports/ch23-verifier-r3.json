@@ -1,0 +1,33 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch23-verifier-r3",
+  "scene_id": "b7-ch23",
+  "editor_run_id": "b7-ch23-r3-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B7-CH23-012",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r3.md lines 79/131/133 against the council at 105–129"
+      ],
+      "reason": "The two stale gestures dropped; the paragraph runs from the honest count into Lira shifting the crossbow. MEDIUM/LOW; repaired directly and closed without a further paid recheck per the Ch02 precedent."
+    },
+    {
+      "finding_id": "F-B7-CH23-013",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r3.md lines 79/131/133 against the council at 105–129"
+      ],
+      "reason": "'looked back up the slope at the others'. MEDIUM/LOW; repaired directly and closed without a further paid recheck per the Ch02 precedent."
+    },
+    {
+      "finding_id": "F-B7-CH23-014",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r3.md lines 79/131/133 against the council at 105–129"
+      ],
+      "reason": "'the shape four hundred meters in past the iron, in a quiet that none of them had a word for' (traverse idiom, as line 119). MEDIUM/LOW; repaired directly and closed without a further paid recheck per the Ch02 precedent."
+    }
+  ]
+}

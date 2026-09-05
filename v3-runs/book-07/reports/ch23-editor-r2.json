@@ -1,0 +1,226 @@
+{
+ "schema_version": "3.1",
+ "run_id": "b7-ch23-r2-editor",
+ "scene_id": "b7-ch23",
+ "verdict": "PASS_WITH_FINDINGS",
+ "gate_results": [
+  {
+   "gate": "Recheck — the eight verified findings of ch23-editor-r1",
+   "state": "PASS",
+   "evidence": "All eight are repaired at the flagged spans and the repairs hold on their own evidence. 001: the pacing is restaged outside the boundary in Ch10's own method — 'Lira on the line with her Arbiter gone, and coming back at a half-stride's stray, and calling it; Karis a stride outside her with her own sigil present, laying the cord end over end along the line westward from the stone; Brom setting a stone at the end of each ... and nobody's boot a hair nearer the shape than the line was' (ch23.md:83), against chapter-10.md:13's 'Lira inside. One stride inside and no more ... Karis on the line, a stride outside Lira, with her own sigil present, laying the cord end over end along the ground and counting cords'. 002: the four-hundred figure now comes out of curvature — 'it bent the same every cord, the way the Ring's did. Half as much. At the Ring, twenty cords was a third of the way round it. This is twenty, and it's a sixth ... Half the bend is twice the round. Four hundred.' (ch23.md:85). Checked: the Ring's circumference is 62 cords and 20 strides (chapter-10.md:51), so twenty cords is 0.32 of it — a third; a 400 m radius runs 2,513 m, 125.7 cords, so twenty cords is 0.159 — a sixth; and 20 m of arc turns 5.7 degrees on a 200 m radius against 2.9 on a 400 m radius, which is the halved per-cord bend she reports. 003: 'eleven days ago' (ch23.md:17) against the Thornwater circle on the 110th (STATE_RUNNING.md:208) and this scene on the 121st. 004: 'as she had walked since the Ring' (ch23.md:27) — converted to an event reference that cannot drift. 005: 'five weeks ago' (ch23.md:47) against Oxhollow's gate on the 84th (STATE_RUNNING.md:80) and the fork on the 122nd — 38 days; and 'the same sentence in the same voice', which no longer claims wording the Chapter 7 page does not support. 006: 'fifty-two sheets' (ch23.md:133) against 11+29+12 as inventoried at ch22.md:3. 007: 'the ribs that had paid for the Hall saying so at every halt now that the cold had them, and a healer's two days on them gone to four' (ch23.md:27), against ch21.md:191 and Oryn's order at ch22.md:3 ('Oryn had said *two days* to Brom's shoulder and to Cael's ribs'). 008: 'the mule's hooves' (ch23.md:61), singular after the fork."
+  },
+  {
+   "gate": "Repair discipline — diff containment (r1 → r2)",
+   "state": "PASS",
+   "evidence": "diff -u drafts/ch23-r1.md drafts/ch23.md returns twelve changed lines and nothing else: 7, 15, 17, 27, 37, 47, 61, 83, 85, 87, 91/93, 133. Eight carry the eight findings; four carry the four concerns the author report and the verifier both declare actioned ('Two days' to 'Three days, or near it' at 15; 'a fortnight' to 'nine days' at 37; 'the kit's radius for all of them' to 'the kit's radius for the Stair agrees with mine' at 7; 'she was afraid' to 'the register was the one she kept for findings she was afraid of' at 85). Lines 87 and 93 are the direct consequences of the restaging at 83 ('with Brom and Lira ... along the line'; 'while Karis paced it the other way'), which finding 001 required. No unflagged span moved; no opportunistic rewriting."
+  },
+  {
+   "gate": "Authority — packet prohibited_outcomes",
+   "state": "PASS",
+   "evidence": "The first prohibited outcome now holds on the page: the measurement is taken from outside — 'nobody's boot a hair nearer the shape than the line was' (ch23.md:83) — and 'Nobody crossed the line.' (ch23.md:129) is no longer contradicted by the party's own feet. No Path is tested at the site; no fragment is used ('ten things held to nothing', ch23.md:27). Architect 0, Quieting 0, Teague 0, Vastin 0, 'letter' 0, [UNBOUND] 0 by grep. No theory of maker, purpose or age; no claim the sites read or measure anyone. No fight. Oryn does not stay. No new named entity — the site stays 'the fourth'. 'at the pitch'/'at that pitch' 0 in chapter and 10 book-to-date, unchanged. The chapter ends on the log, not on dialogue or an image."
+  },
+  {
+   "gate": "Authority — canon and SECRET discipline (CANON_RULES reveal schedule)",
+   "state": "PASS",
+   "evidence": "No SECRET discharged. Karis's method register is intact and now more explicit about its own limit: 'the kit's radius for the Stair agrees with mine' (ch23.md:7) claims only what the Stair's field ledger records (STATE_RUNNING, after Ch20: 'a radius of two hundred meters in the Compact's own hand'). 'Nobody has said a word about who or why and nobody's going to. I've a line. It's a fact about a straightedge.' (ch23.md:15). The structure stays a shape — 'and the dusk took the rest, and he did not guess at the rest' (ch23.md:75). The still place is carried as location, not explanation (ch23.md:27, 139)."
+  },
+  {
+   "gate": "Continuity persistence — calendar and elapsed intervals (state-b7-post-ch22)",
+   "state": "PASS",
+   "evidence": "All four intervals now reconcile with the chapter's own datelines ('Hundred and twenty-second day, the fork', ch23.md:55; 'Hundred and twenty-third day, the crest above the fourth', ch23.md:137) and with STATE_RUNNING. Thornwater council 110th to the 121st = eleven days (ch23.md:17). Oxhollow's gate 84th to the 122nd = 38 days, given as five weeks (ch23.md:47). Millrace 113th to the 122nd = nine days, given as nine (ch23.md:37). Lira's sling is now an event reference to the Ring, 96th (ch23.md:27). No stated interval in the chapter is now longer than the drafted count."
+  },
+  {
+   "gate": "Continuity persistence — object and possession counts",
+   "state": "PASS",
+   "evidence": "'fifty-two sheets of copied walls' (ch23.md:133) matches the Ring's eleven, the Stair's twenty-nine and the Hall's twelve as inventoried at ch22.md:3 and in the state block after Ch22. Mule count is now correct across the fork: plural before it ('the mules' breath went up white', ch23.md:23; 'the five of them stood with the mules', ch23.md:41), singular after ('Brom picked up the mule's rope', ch23.md:53; 'the sound the frost made under the mule's hooves', ch23.md:61)."
+  },
+  {
+   "gate": "Continuity persistence — injuries carried forward (charter 4.3; THE AUTHOR 2.8 / gate 13)",
+   "state": "PASS",
+   "evidence": "Cael's bill is now carried in the halt-catalogue in the established register and without a feeling-declaration: 'the ribs that had paid for the Hall saying so at every halt now that the cold had them, and a healer's two days on them gone to four' (ch23.md:27) — which pays ch21.md:191 ('the bill for holding was in the ribs') and Oryn's two-day order at ch22.md:3, and reads against the cold the chapter has already built. Brom's shoulder is carried three times (ch23.md:27, 29, 113); Lira's arm and taped foot at ch23.md:27, 53, 79."
+  },
+  {
+   "gate": "Causal legibility — the council's premise",
+   "state": "PASS",
+   "evidence": "The premise is restored. Nobody has been inside, so 'nobody knew what a circle twice the size did to the four — whether it was the same dark at twice the distance, or a different thing' (ch23.md:107) stands, and Cael's mandated line 'Not without knowing what a circle twice the size does to the four of you' (ch23.md:123) refuses knowledge the chapter has genuinely not handed them. Karis's own limit is stated as method — 'I've paced twenty cords of it ... I know the line's where Lira said, and that's all I know, and I'm not going to know more from a crest' (ch23.md:111) — and the chapter's honest tally at ch23.md:131, 'three floors entered, one paced from outside', is now literally true. (One residual phrasing friction at 111 is recorded in concerns, not raised as a finding: the Ch10 line-trace the r1 repair target prescribed necessarily shows an Arbiter going out at this line.)"
+  },
+  {
+   "gate": "Measurement arithmetic — the fourth site's radius",
+   "state": "FAIL",
+   "evidence": "The derivation is now sound and checkable (see the recheck gate), but the figure is contradicted twelve lines later: 'a cordon of iron round a circle four hundred meters across' (ch23.md:107). Four hundred is the radius — 'Four hundred. Near enough. Twice the radius.' (ch23.md:85) — so the circle is eight hundred meters across. The same sentence is the one that carries the site's scale into the council. See finding F-B7-CH23-010."
+  },
+  {
+   "gate": "Causal legibility — the restaged pacing against the cordon",
+   "state": "FAIL",
+   "evidence": "The restaging moves Karis, Lira and Brom four hundred meters westward along the perimeter (ch23.md:83) in the same quarter-hour in which Seln, ten paces east along the same perimeter, finds the boundary marked in iron 'a pace apart, a pace, a pace, running away along the perimeter's curve east into the dusk as far as the eye went and west along it the other way as far as the eye went, so that the line Lira had called with her Arbiter was drawn on the ground in iron' (ch23.md:95). Three of the five therefore walk the length of a staked fence without registering it, while a fourth discovers it ten paces off as a beat. See finding F-B7-CH23-009. A second consequence of the same restaging — 'the count said aloud at each and Cael writing it from the crest' (ch23.md:83), with Karis up to four hundred meters along a line a hundred and ninety paces below him — is finding F-B7-CH23-011."
+  },
+  {
+   "gate": "Assigned obligations — must_include (8 items)",
+   "state": "PASS",
+   "evidence": "All eight still land, and none was damaged by the repair. Karis's finding with the straightedge and the kit's bearing, and both fixed lines (ch23.md:7-15: 'it touches all three without a hair of daylight'; 'Three points make a line. Four make an argument.'). The walk staged in scene at halts, coldest and last (ch23.md:21-29, 59-65). Oryn at the fork with her reason, the fifty paces, the un-asked sentence and both fixed lines, five after (ch23.md:35-55). The fourth site from the ridge at dusk — the pacing to four hundred, the structure as a shape only, the line of stakes, Seln's fixed line (ch23.md:71-99). The council of five voices and one silence, the three decision lines verbatim, nobody crossing (ch23.md:105-129). The mandated log verbatim to 'We're oriented.' (ch23.md:139). Lira one-armed and Brom's shoulder carried (ch23.md:27, 113). Format: H1, prose only, '---' breaks, ends on the last line of prose."
+  },
+  {
+   "gate": "Assigned obligations — plants and payoffs",
+   "state": "PASS",
+   "evidence": "Plants: the fourth site at twice the radius, cordoned, not entered (ch23.md:85, 95, 129); 'Home is Lowmarch now. I just wrote that without noticing.' (ch23.md:139); 'Bring the map,' she said. (ch23.md:49). Payoffs: Ch20's bearing at ch23.md:11 ('He wrote *third site confirmed on bearing* and stopped'); Ch22's stopped pencil paid by the finding scene that opens the chapter (ch23.md:3-7); Ch18's 'she'll turn north the day she has to and I won't ask her not to' paid at ch23.md:39-51."
+  },
+  {
+   "gate": "Point-of-view integrity and knowledge boundary",
+   "state": "PASS",
+   "evidence": "Close third on Cael throughout; the r1 concern about standing outside him is actioned — 'because it was dark and the register was the one she kept for findings she was afraid of' (ch23.md:85) now reads as Cael's catalogue of an observable register established at ch23.md:3, not as Karis's interior stated as fact. Off-page material stays off: Teague's crew, letters, Vastin, the Compact's intent, Oryn's road beyond the gap."
+  },
+  {
+   "gate": "Consequential scene — state change and scene turn",
+   "state": "PASS",
+   "evidence": "Knowledge (a fourth site on the line, twice the radius, cordoned), relationship (Oryn back on her route on her own terms), obligation (turn for Lowmarch, spring) and self-concept ('Home is Lowmarch now') all move. The turn is the decision to stop, spoken (ch23.md:123-127)."
+  },
+  {
+   "gate": "Progression module gates 1-7",
+   "state": "NOT_APPLICABLE",
+   "evidence": "No advancement, acquisition or training. Ten fragments unchanged and unused (ch23.md:27). Gate 5 is satisfied incidentally by the cordon — institutional motion the protagonist did not cause (ch23.md:95-99)."
+  },
+  {
+   "gate": "LitRPG module gates 1-7",
+   "state": "NOT_APPLICABLE",
+   "evidence": "No system display, notice, sheet or value renders. The only diegetic documents are Cael's log entries (ch23.md:55, 65, 137-139), in the established first-person plain register with datelines and inventory."
+  },
+  {
+   "gate": "Voice charter 8.4 — terminal metadata grep",
+   "state": "PASS",
+   "evidence": "grep -nE 'End of Chapter|approximately.*words|word count|DRAFT|TODO' on ch23.md returns zero. The file ends on the log's last line, 'We're oriented.'"
+  },
+  {
+   "gate": "Voice charter 9 — tic caps (per chapter and book-to-date)",
+   "state": "PASS",
+   "evidence": "In-chapter: 'jaw tightened' 0, 'laughed once' 0, 'without humour/humor' 0, 'stomach tightened' 0, 'stomach dropped' 0, 'That was true' 0, 'Also true' 0, 'sounded almost' 0, 'held this' 0, 'which was, in its own way' 0, 'at the pitch'/'at that pitch' 0, banned modern registers 0, summary family 0, standalone '[Name] noticed.' 0, feeling-declaration grep 0, growth-declaration grep 0. Single-word paragraphs 1 ('Larger.', ch23.md:71) against a cap of 2. Identical 'the way X [verb]' construction: 'the way she looked' 1, 'the way he would' 1, 'the way round it' 1 — no repeat, against a cap of 3. Em dashes 22 in 4,212 words. Book-to-date across ch01-ch24: 'at the pitch' 10 (unchanged; the packet's ban honored), 'That was true' 1, 'there it was' 3 — all three the same false positives r1 identified, including this chapter's lower-case mid-clause use at ch23.md:15. The two repaired lines add no new repeated construction; 'with her own sigil present' at ch23.md:83 is a deliberate procedural echo of chapter-10.md:13, named in the sentence itself ('which was what she had done at the Ring') and therefore a motif under §8.2.3, not a tic."
+  },
+  {
+   "gate": "Voice charter 9 — scene-closer rule",
+   "state": "PASS",
+   "evidence": "Chapter 22 closed on an image ('Then the sound of the pencil stopping.', ch22.md:139); Chapter 23 closes on a log entry (ch23.md:139). No adjacent repeat, and it matches the architecture's assigned Ch22 image / Ch23 log. Unchanged by the repair."
+  },
+  {
+   "gate": "Voice charter 8.5 — dialogue attribution runs",
+   "state": "PASS",
+   "evidence": "The only 3+ speaker scene is the council (ch23.md:105-127): Lira, Karis, Brom and Seln are each attributed in their own sentence, Cael's decision is introduced by 'He said it' (ch23.md:121), and the longest unattributed run is one line (ch23.md:127). The repaired pacing paragraph adds no dialogue; Karis's speech at ch23.md:85 is a single attributed block."
+  },
+  {
+   "gate": "Voice charter 8.1 / NAME_REGISTRY — aural distinctness and new canon",
+   "state": "PASS",
+   "evidence": "No new named entity minted; the fourth site stays unnamed. Names used: Cael, Lira, Brom, Karis, Seln, Oryn, Thornwater, Lowmarch, Millrace (ch23.md:41), Oxhollow (ch23.md:47), Compact (ch23.md:139). The Oryn/Oxhollow co-occurrence is exercised once, two lines apart, and holds by ear (OR-in against OX-hollow). The repair introduces no proper noun."
+  },
+  {
+   "gate": "Voice charter 8.2/8.3 — audio survival",
+   "state": "PASS",
+   "evidence": "No meaning carried by typography. Italics mark in-world log text and two emphases ('*On* them', ch23.md:7; 'Had *marked* one.', ch23.md:95) that survive as stress. The new arithmetic is fully spoken and speakable — 'twenty cords', 'a third of the way round it', 'a sixth', 'Half the bend is twice the round', 'Four hundred' — with no symbol, table or formula. No system block."
+  },
+  {
+   "gate": "Voice charter 10 — scene vs summary and density",
+   "state": "PASS",
+   "evidence": "4,212 words (wc -w) against a target of 4,600 at 15 percent tolerance (3,910-5,290) — WITHIN_TARGET, and 97 words up on r1. No 'heard about it later' family hits. Every architecture-major beat is on the page in scene: the finding, the walk's halts, the fork, the sighting, the pacing, the stakes, the council."
+  },
+  {
+   "gate": "Anti-pastiche (craft core 6; charter 2)",
+   "state": "PASS",
+   "evidence": "No passage invites a named-author attribution. The repaired passages stay inside the series' own cataloguing close third and its established instruments — cord, stone, straightedge, ledger, log."
+  },
+  {
+   "gate": "Combat gates (charter 4; THE AUTHOR 9.9-9.16)",
+   "state": "NOT_APPLICABLE",
+   "evidence": "No fight in this chapter, per the packet's prohibited outcomes."
+  },
+  {
+   "gate": "Invention budget",
+   "state": "PASS",
+   "evidence": "The repair invents nothing outside the allowed band. The restaged pacing reuses Ch10's established procedure; the curvature arithmetic derives from figures already on the page (chapter-10.md:51, 55); the ribs line reuses ch21.md:191 and ch22.md:3. No fact about the fourth site beyond radius, shape-against-sky and cordon; no Compact fact beyond 'more than once'."
+  }
+ ],
+ "findings": [
+  {
+   "id": "F-B7-CH23-009",
+   "status": "PROPOSED",
+   "severity": "HIGH",
+   "category": "causal-legibility",
+   "gate": "Craft core: causal legibility; charter 4.1 (the sequence must be drawable and coherent from the text alone)",
+   "draft_evidence": {
+    "path": "v3-runs/book-07/drafts/ch23.md",
+    "line_start": 83,
+    "line_end": 83,
+    "quote": "Karis a stride outside her with her own sigil present, laying the cord end over end along the line westward from the stone; Brom setting a stone at the end of each, the count said aloud at each and Cael writing it from the crest; and nobody's boot a hair nearer the shape than the line was, until the light went off the shape at the middle and Karis stopped with the twentieth cord's last knot in her hand"
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-07/drafts/ch23.md",
+    "line_start": 95,
+    "line_end": 95,
+    "quote": "set not a stride apart as at the Stair but close, a pace apart, a pace, a pace, running away along the perimeter's curve east into the dusk as far as the eye went and west along it the other way as far as the eye went, so that the line Lira had called with her Arbiter was drawn on the ground in iron"
+   },
+   "consequence": "The restaging fixed the BLOCKER and put a new one in its place at the level of the sequence. Karis's twenty cords run four hundred meters WEST along the perimeter, and the very next scene establishes that the perimeter is fenced in numbered iron a pace apart running west 'as far as the eye went' — so Karis, Lira and Brom lay cord, stray in and out, and set marker stones along four hundred meters of a staked line, for a quarter of an hour, without one of them registering the iron. Seln meanwhile finds it ten paces to the east and the chapter gives it a section break and a discovery beat ('Seln had found the stakes.', line 91), which the reader has just watched three other people walk through. It also strands the method: Lira is stepping in and out of the dark to locate a boundary that is physically marked on the ground beside her, and Karis is following her rather than the stakes. In r1 this could not arise, because Karis paced inward and away from the perimeter; the direction change introduced it. The count itself survives — the arithmetic is sound — but the staging that produces it does not.",
+   "repair_target": "Sequence the two discoveries so they do not overlap in space. Either (a) let Seln's stakes be found first and have Karis pace the cord along them — which costs nothing, keeps Lira's 'Gone' at line 81 as the thing that told them where to start, and makes the cordon's scale land as she walks four hundred meters of it; or (b) hold the cordon's visible run to the east of the stone in this light, so that the west arm is dark and unwalked, and drop 'and west along it the other way as far as the eye went' at line 95; or (c) have the pacing paragraph register the iron as it is passed and let Seln's section read the stakes rather than find them. Whichever is taken, lines 91-101 (the discovery, the count of forty, and Seln's fixed line) and line 83's 'nobody's boot a hair nearer the shape than the line was' must survive.",
+   "confidence": "HIGH"
+  },
+  {
+   "id": "F-B7-CH23-010",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "continuity-detail",
+   "gate": "Craft core: causal legibility; charter 3.1 (the cataloguing narrator's counts must hold)",
+   "draft_evidence": {
+    "path": "v3-runs/book-07/drafts/ch23.md",
+    "line_start": 107,
+    "line_end": 107,
+    "quote": "The five of them stood on the crest above a cordon of iron round a circle four hundred meters across with a shape at its middle that the dark had"
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-07/drafts/ch23.md",
+    "line_start": 85,
+    "line_end": 85,
+    "quote": "\"Half the bend is twice the round. Four hundred. Near enough. Twice the radius. The same shape, at twice the size, round a thing I can't see.\""
+   },
+   "consequence": "Four hundred is the RADIUS — Karis says so in the same breath she says the number, and the packet and the architecture both carry it as radius ('a circle of the same perfect shape at twice the radius'). A circle of four hundred meters radius is eight hundred meters across. The narration at line 107 states it as the diameter, which halves the site back to the Ring's size at the exact moment the council is weighing 'twice the size', and it is the sentence that carries the scale into the decision. The chapter's two other uses of the figure are correct as distances from the line to the middle ('across four hundred meters of dark', line 119; 'the shape at the middle of four hundred meters of quiet', line 133), which makes line 107 the odd one and the only one that reads as a dimension of the circle itself. The defect is inherited from r1 rather than introduced by the repair, but it sits inside the arithmetic F-B7-CH23-002 was raised to make come out right, and it survives the repair unchanged.",
+   "repair_target": "At line 107, either 'a circle eight hundred meters across', or restate as a radius in the chapter's own idiom — 'a cordon of iron round four hundred meters of dark' / 'round a circle four hundred meters from its line to its middle'. Karis's line 85 and the council's 'twice the size' at lines 109 and 123 stay untouched.",
+   "confidence": "HIGH"
+  },
+  {
+   "id": "F-B7-CH23-011",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "causal-legibility",
+   "gate": "Craft core: causal legibility; charter 4.1 (positions and distances must hold); charter 3.1",
+   "draft_evidence": {
+    "path": "v3-runs/book-07/drafts/ch23.md",
+    "line_start": 83,
+    "line_end": 83,
+    "quote": "Brom setting a stone at the end of each, the count said aloud at each and Cael writing it from the crest"
+   },
+   "comparison_evidence": {
+    "path": "books/book-07-void-roads/chapters/chapter-10.md",
+    "line_start": 13,
+    "line_end": 13,
+    "quote": "Cael at Karis's shoulder with the book open, writing the counts as she said them, because his hand was the faster and hers would be full."
+   },
+   "consequence": "The repair moved Cael to the crest to keep him outside the line, but the crest is a hundred and ninety paces above the boundary (line 81) and Karis walks four hundred meters away along it — so by the twentieth cord she is calling numbers to a man roughly half a kilometre off, at dusk, on ground the party crosses under an etiquette of walking quiet. At the Ring the same procedure put Cael at Karis's shoulder for exactly this reason. Nothing in the chapter bridges the distance: there is no relay, no shout marked as a shout, and the sentence reads as though he is within speaking range. Since the counts Cael writes are the chapter's central fact, the one link in the chain that is not physically drawable is the link that carries the finding.",
+   "repair_target": "Put Cael where Ch10 puts him — outside the line at Karis's shoulder, which costs nothing since Karis herself is a stride outside it and 'nobody's boot a hair nearer the shape than the line was' still holds — or name the relay on the page (Brom calling each count up the slope, or Cael taking the counts from Karis's own coiled cord and knots when she comes back up at line 87). If Cael stays on the crest, the counting he does from there should be the visible kind he already does at line 81 ('by Cael's count from the crest') and at line 101, not the audible kind.",
+   "confidence": "MEDIUM"
+  }
+ ],
+ "concerns": [
+  "The r1 repair target for finding 001 asked that 'the chapter's own comparison to the Ring (\"At the Ring I was on the floor at ten\") must survive the change'. It does not survive verbatim; it is replaced by a different Ring comparison — 'At the Ring, twenty cords was a third of the way round it' (line 85). Recorded rather than raised, because the replacement does the same work and does it better: the old comparison was a memory of walking in, which the restaging forbids, and the new one is the same instrument (the cord, the Ring, a ratio) measured against a figure that is on the page at chapter-10.md:51. The substitution is the right call; it is noted so the planning layer knows the original sentence is gone.",
+  "'I don't know what it does to a Path at the line' (line 111) sits slightly over its evidence now. Lira has spent twenty cords stepping half a stride in and half a stride out with her Arbiter going and coming (line 83), so the party does know one thing about the line's effect: it is the same sharp transition as the other three sites. The sentence that follows concedes exactly this ('I know the line's where Lira said'), and the r1 repair target itself prescribed Ch10's cord-and-count, which cannot be run without an Arbiter going out at the boundary — so this is the prescribed method's own residue, not a defect the author introduced. If a later pass opens line 111, 'I don't know what it does to a Path past the line' would close it at no cost.",
+  "Karis's 'Two days' became 'Three days, or near it' (line 15), which is right against the chapter's own datelines — the finding is delivered on the morning of the 121st and the ridge is reached at dusk on the 123rd — but it now differs from the packet's must_include parenthetical ('the fourth circle on it two days away'), the Chapter 23 architecture card ('the carter's map's fourth circle sits on it, two days away'), and the provisional state block ('the carter's fourth circle on it two days off'). Reader consequence is nil and internal consistency is improved, so this is a planning-layer note rather than a finding: the arc card and the state block should be updated to three days, since the 123rd is load-bearing downstream (the Ch24 state block dates Lowmarch as 'six days from the fourth site', the 129th).",
+  "The pacing still runs twenty cords — four hundred meters of cord laid end over end, with a stray-and-call at each stretch and a marker stone set at each cord — inside 'a quarter of an hour of light' (line 83). At the Ring the same crew took from first light to past noon for sixty-two cords. The rate here is roughly eight times faster. It is inherited from r1 unchanged and the chapter openly frames it as what could be done under a clock, so no finding is raised; but if F-B7-CH23-009 opens this paragraph anyway, giving the light a little more room, or letting the count be fewer cords carried further by the bend, would cost nothing.",
+  "Word count is 4,212 against a 4,600 target — inside tolerance, up 97 words on r1, still 388 short. The r1 report flagged the same gap and named the road's halts and Cael's own bill as the two places that would take length without inventing anything; the bill has now been taken (line 27) and the halts have not. If a third pass opens the chapter, the halts remain the honest place to spend.",
+  "The author report at reports/ch23-author-r2.json carries stale evidence strings in three of its must_include entries — it still quotes 'Two days', 'I've been a stop on my own route for a fortnight', 'the same words in the same order', and 'twenty cords in toward the middle with Brom marking' as the delivered text, all of which the r2 draft no longer contains. The draft is what was reviewed and the draft is correct; the report's obligation-evidence block was not refreshed after the concern edits. Worth fixing before the report is used as a navigation aid for Ch24.",
+  "First snow is on the ridge (line 61) while Oryn's season order on Lira's arm runs to 'first snow, near enough' and Oryn is four days north-west. The chapter still does not touch it, which remains correct — the order is hers to lift and she is not there — but Chapter 24 will need to settle it. Carried forward from r1 unchanged."
+ ],
+ "strengths": [
+  "The curvature repair is better than the thing it replaced. Karis reaches four hundred meters without taking a step toward the middle, and she reaches it by the one property of a circle she has already proved she measures — 'It bent left the same amount every cord. Every one.' at chapter-10.md:55. 'Half the bend is twice the round' is a researcher's sentence, derivable by the reader, checkable against the page, and spoken in eight words. The chapter's central number is now produced by the instrument the chapter is about.",
+  "The restaged procedure is Ch10's, quoted in structure rather than paraphrased: Lira on the line with her Arbiter gone and coming back at a stray, Karis a stride outside her with her own sigil present, Brom marking at each cord. The sentence names the borrowing itself — 'which was what she had done at the Ring' — which converts what could have read as repetition into the party's doctrine, and makes 'nobody's boot a hair nearer the shape than the line was' the plainest possible statement of the thing the packet was protecting.",
+  "'three floors entered, one paced from outside' (line 131) was the truest sentence in r1 and the staging did not support it. It does now. The chapter's self-audit and the chapter's events have been brought into the same room, which is the whole point of the repair.",
+  "The calendar repairs are done in the register rather than by patching numbers. 'as she had walked since the Ring' (line 27) converts a driftable interval into an event reference that cannot go wrong again; 'the same sentence in the same voice' (line 47) keeps the inversion of 'Find me at Thornwater' — the chapter's cleanest emotional move — while dropping the only claim the Chapter 7 page could not carry.",
+  "Cael's bill lands exactly where the finding asked and pays three things at once: 'the ribs that had paid for the Hall saying so at every halt now that the cold had them, and a healer's two days on them gone to four' (line 27). It is an injury carried, an order overrun, and the cold made personal, inside one clause of a catalogue that was already about what each of the six is carrying — and it puts Cael in his own list, which the r1 version conspicuously did not.",
+  "The concern edits were taken honestly and narrowly. 'the kit's radius for the Stair agrees with mine' (line 7) reduces Karis's claim to exactly what the Stair's field ledger records; 'the register was the one she kept for findings she was afraid of' (line 85) moves an interior fact back inside Cael's observation and echoes the chapter's own first sentence; 'nine days' (line 37) is Oryn's own arithmetic off Millrace. None of them enlarged the scope.",
+  "The cordon still does its work untouched: Seln with nothing to rub because there is too much of it, the numbers all thirty-four with the stroke-and-bar mark carried forward from the Stair, and the change of verb — 'had not measured a circle. Had *marked* one.' Then the fixed line lands on ground the paragraph has already built, and Cael's count stops before the stakes do.",
+  "Production hygiene is clean and unchanged by the repair: zero terminal metadata, zero capped tics, 'at the pitch' held at the book's cap of ten, one single-word paragraph against a cap of two, no repeated 'the way X' construction, the scene-closer alternating correctly off Chapter 22's image, and the mandated closing log reproduced verbatim to the last word.",
+  "Diff discipline is exemplary. Twelve lines moved, every one of them traceable to a verified finding, a declared concern, or the direct consequence of the restaging the BLOCKER required. Nothing else in the chapter was touched — no opportunistic tightening, no drift into the passages the repair walked past."
+ ]
+}

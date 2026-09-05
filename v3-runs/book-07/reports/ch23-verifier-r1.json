@@ -1,0 +1,103 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch23-verifier-r1",
+  "scene_id": "b7-ch23",
+  "editor_run_id": "b7-ch23-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B7-CH23-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r1.md at the quoted span",
+        "chapter-10.md lines 13/51/55 (cord-along-the-line method; 62 cords + 20 strides = 1,256 m)",
+        "STATE_RUNNING calendar (Thornwater 110th; Ring 96th; Oxhollow 84th; Millrace 113th; fork 122nd)",
+        "sheet counts 11+29+12=52"
+      ],
+      "reason": "Restaged as Ch10's method: Lira on the line calling gone/back, Karis a stride outside laying twenty cords westward ALONG the line from the stone, Brom marking, Cael counting from the crest; 'nobody's boot a hair nearer the shape than the line was'. Nobody crosses."
+    },
+    {
+      "finding_id": "F-B7-CH23-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r1.md at the quoted span",
+        "chapter-10.md lines 13/51/55 (cord-along-the-line method; 62 cords + 20 strides = 1,256 m)",
+        "STATE_RUNNING calendar (Thornwater 110th; Ring 96th; Oxhollow 84th; Millrace 113th; fork 122nd)",
+        "sheet counts 11+29+12=52"
+      ],
+      "reason": "Arithmetic now from curvature: the line bent the same every cord and half what the Ring's did; twenty cords was a third of the way round the Ring and a sixth here; 'Half the bend is twice the round. Four hundred. Near enough. Twice the radius.'"
+    },
+    {
+      "finding_id": "F-B7-CH23-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r1.md at the quoted span",
+        "chapter-10.md lines 13/51/55 (cord-along-the-line method; 62 cords + 20 strides = 1,256 m)",
+        "STATE_RUNNING calendar (Thornwater 110th; Ring 96th; Oxhollow 84th; Millrace 113th; fork 122nd)",
+        "sheet counts 11+29+12=52"
+      ],
+      "reason": "'eleven days ago'."
+    },
+    {
+      "finding_id": "F-B7-CH23-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r1.md at the quoted span",
+        "chapter-10.md lines 13/51/55 (cord-along-the-line method; 62 cords + 20 strides = 1,256 m)",
+        "STATE_RUNNING calendar (Thornwater 110th; Ring 96th; Oxhollow 84th; Millrace 113th; fork 122nd)",
+        "sheet counts 11+29+12=52"
+      ],
+      "reason": "'as she had walked since the Ring'."
+    },
+    {
+      "finding_id": "F-B7-CH23-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r1.md at the quoted span",
+        "chapter-10.md lines 13/51/55 (cord-along-the-line method; 62 cords + 20 strides = 1,256 m)",
+        "STATE_RUNNING calendar (Thornwater 110th; Ring 96th; Oxhollow 84th; Millrace 113th; fork 122nd)",
+        "sheet counts 11+29+12=52"
+      ],
+      "reason": "'five weeks ago'; 'the same sentence in the same voice' (fixed lines untouched)."
+    },
+    {
+      "finding_id": "F-B7-CH23-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r1.md at the quoted span",
+        "chapter-10.md lines 13/51/55 (cord-along-the-line method; 62 cords + 20 strides = 1,256 m)",
+        "STATE_RUNNING calendar (Thornwater 110th; Ring 96th; Oxhollow 84th; Millrace 113th; fork 122nd)",
+        "sheet counts 11+29+12=52"
+      ],
+      "reason": "'fifty-two sheets'."
+    },
+    {
+      "finding_id": "F-B7-CH23-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r1.md at the quoted span",
+        "chapter-10.md lines 13/51/55 (cord-along-the-line method; 62 cords + 20 strides = 1,256 m)",
+        "STATE_RUNNING calendar (Thornwater 110th; Ring 96th; Oxhollow 84th; Millrace 113th; fork 122nd)",
+        "sheet counts 11+29+12=52"
+      ],
+      "reason": "Halt catalogue: 'the ribs that had paid for the Hall saying so at every halt now that the cold had them, and a healer's two days on them gone to four'."
+    },
+    {
+      "finding_id": "F-B7-CH23-008",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r1.md at the quoted span",
+        "chapter-10.md lines 13/51/55 (cord-along-the-line method; 62 cords + 20 strides = 1,256 m)",
+        "STATE_RUNNING calendar (Thornwater 110th; Ring 96th; Oxhollow 84th; Millrace 113th; fork 122nd)",
+        "sheet counts 11+29+12=52"
+      ],
+      "reason": "'the mule's hooves'."
+    }
+  ],
+  "concerns_actioned": [
+    "Karis's 'Two days' → 'Three days, or near it'",
+    "Oryn's 'a fortnight' → 'nine days'",
+    "'the kit's radius for all of them' → 'the kit's radius for the Stair agrees with mine'",
+    "'she was afraid' → 'the register was the one she kept for findings she was afraid of' (inference, not interior)"
+  ]
+}

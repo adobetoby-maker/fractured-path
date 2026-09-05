@@ -36,11 +36,21 @@ Book 7 opens on these facts as settled. If Book 6's prose moves on any of them, 
 
 **Exceptions Book 8 should know about (prose governs):** EXC-B7-001 twelve weeks (Ch8 log); -002 Lira's arm two weeks old (Ch17); -003 Millrace (a ford one day south of Lowmarch on the Stair road; one of Oryn's seven stops); -004 the arrested stake (Ch20); -005 trials from the Hall's outer coping (Ch21).
 
-## C. Reveal-schedule audit
-_(from audits/secrets-plants-arc.md — pending)_
+## C. Reveal-schedule audit (audits/secrets-plants-arc.md, fresh-context Opus read of all 24 chapters)
+
+**SECRET discipline — 5 SEALED / 0 LEAK.** Every CANON_RULES secret with a reveal book after 7 (B8 predates-the-system; B9 Arbiter-as-infrastructure; B11 the will hunting Cael; B13 primordial; B13–14 motivation) is sealed, as are both Quieting-source secrets in the universe bible. Token scans: `UNBOUND` exactly once (Ch15 L95, Karis's stratum limit); `Architect` zero; `primordial` zero; `reset` never in a systemic sense. No character theorizes a purpose, an intelligence, or why the Fractured Path works inside quiet ground — the refusal is staged four times (Ch15 L135–139; Ch16 L101, L103, L209).
+
+**Borderline, resolved as sealed:** four sentences attribute *indefinite* agency — "A circle is a made shape" (Ch10 L55); "Somebody made a floor that turns Paths off" (Ch15 L159); "Someone made this pattern" (Ch24 L127); "a line … somebody drew before there was a registry" (Ch24 L133). This is the register the series bible mandates for the ending and carries no identity or intent. It does contradict the architecture card's own wording that "no character theorizes a maker" — the card should read "no character theorizes WHO or WHY" (annotated in the checkpoint pass).
+
+**Planting minimums — met.**
+- Book 8 reveal (min 2 from Book 5): **5 plants present** — Ch15 L95 (the [UNBOUND] strata limit), Ch15 L85, Ch15 L87, Ch22 L39 / Ch24 L69, Ch24 L143.
+- Book 9 reveal (min 2 from Book 6): **2 primary + 4 supporting** — Ch15 L65 ("five looms … sluice"), Ch11 L249 (the dark-Arbiter log line); supported by Ch09 L211–217, Ch10 L93, Ch15 L73–77, Ch08 L121.
+- Book 11 (not required of Book 7): one claimed pre-plant present; two more unclaimed at Ch23 L85 and L99 (the cordon, "they've been here more than once").
+- **Ledger corrections owed to the architecture's Clue / Plant Ledger:** L35(b) cites Ch22 for the dark-Arbiter plant — Ch22 contains no Arbiter at all (the plant is Ch11 L249); L36's "verified at three sites" is weaker than claimed — the Ring is paced, the Stair's 200 m is corroborated by the kit ledger and the wall-line rather than paced, the Hall is never measured (Ch21 L23, "with the cord in her hand and not laid"); L36 mis-cites Ch15 for a sentence that originates at Ch10 L55. Book 8's architect should read the plants from the prose citations above, not the cards.
 
 ## D. Arc 3 promise audit
-_(from audits/secrets-plants-arc.md — pending)_
+
+**Delivered.** The freedom is built out of Pike's board rather than asserted (the board prices them; the holds price them; the price becomes the problem), then complicated in three registers: **metaphysical** (Ch09 L229, "Mine didn't go" at the stone; Ch16 L25–27), **moral** (Ch22 L101, Teague's wrist unread), and **institutional** (Ch19 L203; Ch24 L29–31, Pike leaving the line blank — "the first time it's been wrong about a crew by being too small"). The complication lands hardest at the plank in the snow. The internal arc's two poles are on the page: the first in the Ch2 log ("No instrument out here reads me"), the second written verbatim in the log at **Ch16 L209** — eight chapters earlier than the architecture places it — and restated in close narration over the map at Ch24 L143. Series-fit note for Book 8: the second pole is already *said*; Book 8 inherits it as a known fact, not a discovery.
 
 ## E. Seams read, chapters 1→24
 _(from audits/seams-read.md — pending)_
@@ -50,4 +60,4 @@ _(from audits/seams-read.md — pending)_
 - `universe/UNIVERSE_BIBLE.md` — The Quieting: "Observable mechanics — PROVISIONAL" subsection; new PROVISIONAL sections: Tide Path; The Edge Territories; Edge Fauna. SECRET blocks untouched.
 - `series/THE_FRACTURED_PATH_SERIES.md` — Book 7 entry: "As drafted" reconciliation block; age bands rebased arc-wide to the drafted timeline with a LOCKED note (B1–3 14–16; B4–6 16–18; B7–9 18–21; B10–12 21–24; B13–15 24–27).
 - `craft/NAME_REGISTRY.md` — Book 7 census table with by-ear screening; no renames.
-- `books/book-07-void-roads/CHAPTER_ARCHITECTURE.md` — EXC-B7-001..005 annotated on their cards; Continuity Checkpoint boxes ticked by the fresh-context audit (see audits/checkpoints.md).
+- `books/book-07-void-roads/CHAPTER_ARCHITECTURE.md` — EXC-B7-001..005 annotated on their cards; 27 checkpoint boxes graded against prose by a fresh-context audit (audits/checkpoints.md): 23 MET, 1 MET-BY-EXCEPTION, 3 PARTIAL where the card is stale against the prose (L37: the Ch8 kit was 'never here' per Ch12; Vell has two letter beats; L429: the ankle was never mended — Ch6 mended the tibia; L432: the Tide *stall* is defined in the reference section but never appears in prose — Books 8–15 may use it, Book 7 did not); 17 departed-and-returned chapter-attribution deviations logged per charter §4.8; plant-ledger citation corrections appended at L30/35/36.

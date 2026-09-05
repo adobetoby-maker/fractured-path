@@ -2,7 +2,7 @@
 
 The best table was empty when they came in off the meadow at first light on the second morning after the wall, and Cael counted the room before he counted anything else and found that Teague's crew had gone out by the landing door at the previous dawn, onto the autumn road, a day and a night ahead of anyone already. Sixty marks and fed. Three days out along it before they turned, and three back: a week before anyone would see that table filled.
 
-The Thornwater carter came down the road at midmorning with the mule and no load, which was wrong, because the carter never came to Lowmarch empty. He said it to Pike at the plank, at the pitch he said everything, with the five of them ten paces off and plainly meant to hear.
+The Thornwater carter came down the road at midmorning with the mule and no load, which was wrong, because the carter never came to Lowmarch empty. He said it to Pike at the plank, in the flat voice he kept for everything, with the five of them ten paces off and plainly meant to hear.
 
 "Ford's had a third."
 
@@ -14,7 +14,7 @@ Pike put the pen down. "When."
 
 "The hold's naming whoever's standing at the board."
 
-Pike drew the ford's slip out from under the stone — good square paper, the brand in the corner, forty marks in a steady hand, HOLD, and the name beside the word — and looked at the name for the length of a breath, and drew one line through it, not two, and wrote beneath it in the margin, smaller, the five of them. He read it aloud, at the pitch, so the landing had it.
+Pike drew the ford's slip out from under the stone — good square paper, the brand in the corner, forty marks in a steady hand, HOLD, and the name beside the word — and looked at the name for the length of a breath, and drew one line through it, not two, and wrote beneath it in the margin, smaller, the five of them. He read it aloud, no louder than a price, so the landing had it.
 
 "Clearance. Thornwater ford. Stillhound pack. Forty marks, the hold feeds. Crew—" and he read the five names, and stopped.
 

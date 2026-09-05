@@ -1,0 +1,219 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch23",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 22 card)",
+    "state": "state-b7-post-ch21 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + the located still place. Party SIX leaving the marsh; FIVE after Oryn turns north at the fork for Thornwater (eleven days late is eleven days; the old woman's knee is on her circuit); Cael walks her to the fork and does not ask her to stay — that is the condition of her being with them at all. 'Find me at Thornwater,' she says, the same sentence as the first time, meaning the opposite. 'Bring the map.' Teague's crew has gone back to Oxhollow (not on the page).",
+      "Karis's finding at the marsh, in the formal register she reserves for findings she is afraid of: the Ring, the Stair, and the Hall are on a LINE — three centers, a straightedge, and the kit's bearing running through all three to the stride; the line runs on east and south, and the carter's map's fourth circle sits on it, two days away. 'Three points make a line. Four make an argument.' No maker, no purpose, no age beyond 'older than any registry' (Ch15).",
+      "The fourth site from a ridge at dusk: LARGER. The perimeter, paced by Karis in the last light with Brom marking, is not two hundred meters — it is FOUR hundred. A circle of the same perfect shape at twice the radius, around a structure seen only as a shape against the sky (a mound, or a hall, or a floor with something standing on it, grey stone); on the near slope, not one stake but a LINE of them — iron, numbered, close-set, running away into the dusk both ways. The Compact did not survey this one; it FENCED it. Seln: 'That's not a survey. That's a cordon. They've been here more than once.' NOBODY CROSSES THE LINE. The council of five voices and one silence (Cael's — the only one of them the fourth site would let in): 'Not without her. Not without knowing what a circle twice the size does to the four of you. And not without the map finished.' Karis: 'It's finished. It's a line.' Cael: 'Then it's a line that points somewhere. We go home and find out where.'",
+      "Cael's fragments are NOT tested at the fourth site (nobody crosses). Arc language ceiling: the sites STOP Paths and do not stop his; nobody says they read or measure anyone.",
+      "'Home is Lowmarch now' appears in the log unnoticed by him."
+    ]
+  },
+  "purpose": "Targeted repair of Chapter 23 (r1 → r2) against the eight verified editor findings of reports/ch23-editor-r1.json. Only the flagged spans change; the draft is byte-identical elsewhere.",
+  "scene_shape": {
+    "opening_state": "The marsh, morning; Karis's finding delivered; the map with three marks and a straightedge.",
+    "pov_goal": "Follow the line to the fourth circle; look; decide honestly whether to go in.",
+    "opposition": "Oryn's route (she must turn north); high autumn emptying the roads; a circle twice the size; a cordon; his own silence at the council.",
+    "turn": "The finding; the walk (the book's last freedom chapter and its coldest — high autumn, the void roads emptying for winter, six on a bearing nobody drew for them, Cael cataloguing a country he has come to love with a straightedge's worth of dread in his pocket); the fork and Oryn's departure (fixed lines); five on the bearing; the ridge at dusk; the pacing to four hundred; the line of stakes; Seln's 'cordon' line.",
+    "choice": "The decision to stop — Cael's, spoken: not without her; not without knowing what twice the size does to the four of them; not without the map finished. Karis's 'It's a line.' His 'Then it's a line that points somewhere. We go home and find out where.'",
+    "outcome": "Nobody crosses. Five turn for Lowmarch.",
+    "closing_state": "The chapter ENDS ON THE LOG (the previous chapter ended on an image), on the ridge: 'Four sites. One line. The last one's twice the size and the Compact fenced it. The bearing runs through it and keeps going. Karis says four points is an argument. I say it's a bearing — the kind their maps draw as nothing. Home is Lowmarch now. I just wrote that without noticing. Nineteen, ten fragments, a still place at the center of me, and a line on a map that somebody drew before there were maps. We're not done. We're oriented.'"
+  },
+  "obligations": {
+    "must_include": [
+      "Karis's finding with the straightedge and the kit's bearing (three centers on a line to the stride; the fourth circle on it two days away); her two fixed lines ('Three points make a line. Four make an argument.').",
+      "The walk as the last freedom chapter and the coldest (high autumn; roads emptying; cataloguing with dread), rendered in scene at halts, not summary only.",
+      "Oryn at the fork: her reason (eleven days; the knee); Cael walking her to the fork and NOT asking; her two fixed lines ('Find me at Thornwater.' / 'Bring the map.'); five on the bearing after.",
+      "The fourth site from the ridge at dusk: the pacing to four hundred meters (procedure as in Ch10, compressed); the structure as a shape only; the LINE of stakes; Seln's fixed line ('That's not a survey. That's a cordon. They've been here more than once.').",
+      "The council of five voices and one silence, Cael's decision lines verbatim, Karis's reply, Cael's reply; nobody crosses.",
+      "The chapter ENDS on the log entry verbatim as given (ending 'We're oriented.').",
+      "Lira one-armed carried; Brom's shoulder carried.",
+      "Manuscript format: H1 '# Chapter 23 — Bearing', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The fourth site (Book 8's on-ramp): twice the radius; cordoned; not entered.",
+      "'Home is Lowmarch now.'",
+      "'Bring the map.' (Ch24 letter)."
+    ],
+    "payoffs": [
+      "Ch20's bearing; Ch22's pencil stopping; Ch18's 'she'll turn north the day she has to and I won't ask her not to.'"
+    ],
+    "prohibited_outcomes": [
+      "Nobody crosses the fourth site's line; no Path is tested there; nothing about the fourth site's effect is known.",
+      "No theory of maker/purpose; no 'Architect'; no claim the sites read/measure anyone.",
+      "No fight; no fragment use; Oryn does not stay.",
+      "No Teague on the page; no letters (Ch24), no Vastin.",
+      "No new named entities (the fourth site unnamed).",
+      "The chapter does not end on dialogue or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "High-autumn road texture (frost, empty carts, the void roads' first snow-smell); the fork; the ridge; the fourth site as a shape against the sky; the cordon's stakes as objects; the pacing compressed.",
+      "Dialogue in established voices beyond the fixed lines.",
+      "Cael's cataloguing and the closing log."
+    ],
+    "approval_required": [
+      "Any new named entity; any fact about the fourth site beyond radius, shape-against-sky, cordon; any Compact fact beyond 'more than once'."
+    ],
+    "forbidden": [
+      "Crossing; testing; theory; Oryn staying; fights; a dialogue or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 21 as drafted — the immediate seam (the Hall, 'Lie still.')",
+      "path": "v3-runs/book-07/drafts/ch21.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch23-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "F-B7-CH23-001",
+      "severity": "BLOCKER",
+      "gate": "Authority — packet prohibited_outcomes / craft core: continuity and causal legibility",
+      "evidence": "did what could be done: a cord laid from the stone toward the shape at the middle, and another, and another, Brom setting a stone at the end of each, the count said aloud at each and Cael writing it, ",
+      "consequence": "Karis and Brom spend a quarter of an hour four hundred meters inside the cordon, marking stones as they go — the narration states the direction plainly at line 93 ('Karis paced in from it') and line 8",
+      "repair_target": "Restage the pacing so the measurement is taken from outside the boundary — for example along the perimeter arc as in Ch10's cord-and-count, or by sighting and triangulation from the crest and the line — so that the four-hundred figure is reached without any of the five stepping past Lira's marked stride. The chapter's own comparison to the Ring ('At the Ring I was on the floor at ten') must survive the change, and lines 93, 107, 111, 123 and 129 must remain true afterward."
+    },
+    {
+      "id": "F-B7-CH23-002",
+      "severity": "HIGH",
+      "gate": "Craft core: causal legibility; charter 3.1 (the cataloguing narrator's counts must hold)",
+      "evidence": "\"Twenty,\" she said, to the cord. \"Twenty cords from the line toward the middle, and I'm not at the middle. At the Ring I was on the floor at ten. This is twenty, and the shape's as far again.\" She coi",
+      "consequence": "A cord is twenty meters (Ch10: sixty-two cords of twenty meters plus twenty strides for a two-hundred-meter radius), so twenty cords is four hundred meters. Karis states in the same breath that she ha",
+      "repair_target": "Make the method produce four hundred. Either the count reaches the perimeter's far side or a sighted centre at twenty cords, or the arithmetic is completed from a partial arc as at the Ring; the packet's figure ('it is FOUR hundred', 'twice the radius') and Karis's Ring comparison both have to come out right in the same speech. Repair jointly with F-B7-CH23-001, which changes where she can stand."
+    },
+    {
+      "id": "F-B7-CH23-003",
+      "severity": "MEDIUM",
+      "gate": "Craft core: continuity persistence (frozen state, drafted calendar)",
+      "evidence": "because the council had been held at a table at Thornwater six weeks ago and had ended *we find the others, all of them*, and this was the fourth of them",
+      "consequence": "The Thornwater circle where Karis said 'We find the others' is the night of the hundred and tenth day. This scene is the morning of the hundred and twenty-first (the chapter's own datelines put the fo",
+      "repair_target": "Replace 'six weeks ago' with the true interval (about a fortnight / eleven days) at line 17, or drop the interval and name the place and the sentence only."
+    },
+    {
+      "id": "F-B7-CH23-004",
+      "severity": "MEDIUM",
+      "gate": "Craft core: continuity persistence; charter 4.3 (injury state carried with its true age)",
+      "evidence": "Lira, one-armed, on the taped foot, walking as she had walked for six weeks — the arm across her chest, the good hand free, the stride not one hair shorter for it",
+      "consequence": "Lira's forearm was bitten and mended at the line on the ninety-sixth day and slung from that night; Chapter 17's log dates it 'two weeks old' on the hundred and twelfth. On the hundred and twenty-seco",
+      "repair_target": "Correct the interval at line 27 to the drafted count (about four weeks / since the Ring), or convert it to an event reference ('as she had walked since the Ring') that cannot drift."
+    },
+    {
+      "id": "F-B7-CH23-005",
+      "severity": "MEDIUM",
+      "gate": "Craft core: continuity persistence; charter 3.5 (kept sentences quoted accurately)",
+      "evidence": "It was the sentence she had said at Oxhollow's gate with the road calling her north, eleven weeks ago, to a boy with three ribs taped, and it had meant *I want to read you when you're not broken*. She",
+      "consequence": "Two claims in one sentence fail against the page. (a) Oxhollow's gate is the eighty-fourth day past the Line (STATE_RUNNING.md:80) and this fork is the hundred and twenty-second — thirty-eight days, f",
+      "repair_target": "Correct the interval to the drafted count (about five weeks / since Oxhollow), and soften 'the same words in the same order' to something the Chapter 7 page supports ('the same request', 'the sentence she had given him at Oxhollow's gate'). The packet's fixed lines 'Find me at Thornwater.' and 'Bring the map.' stay untouched; only the narration's claim about them changes. Note for the planning layer: the packet's own framing ('the same sentence as the first time') is the source of (b)."
+    },
+    {
+      "id": "F-B7-CH23-006",
+      "severity": "MEDIUM",
+      "gate": "Craft core: continuity persistence; charter 3.1 (the narrator's counts are load-bearing)",
+      "evidence": "in the morning they would turn for Lowmarch, five, with a kit and a ledger and thirty-two sheets of copied walls and a straightedge and a map with four circles on it and a line through all four.",
+      "consequence": "Eleven plus twenty-nine plus twelve is fifty-two, and the same three numbers are given again in the previous chapter's first sentence ('twelve sheets uncompared to the twenty-nine and the eleven', ch2",
+      "repair_target": "Set the count to fifty-two at line 133, or name the sites rather than the total."
+    },
+    {
+      "id": "F-B7-CH23-007",
+      "severity": "MEDIUM",
+      "gate": "Charter 4.3 / THE AUTHOR 2.8 (gate 13): injury persistence",
+      "evidence": "And himself, with ten things held to nothing and a still place at the middle of them that he did not touch, because a healer had said *stop touching it* and a man who had been told that by the only pe",
+      "consequence": "Cael took the wyrm's strike on himself at the Hall and paid for it in the ribs ('the bill for holding was in the ribs, which had said nothing for a month and said something now', ch21.md:191); Oryn pu",
+      "repair_target": "Carry the ribs once in the halt-catalogue at line 27 or at the first night's fire (line 29) in the established register — a count of what the cold does to them, or Oryn's eye on him as it is on Brom's shoulder — and, if they are meant to be closing, say so once."
+    },
+    {
+      "id": "F-B7-CH23-008",
+      "severity": "LOW",
+      "gate": "Craft core: continuity persistence (possessions)",
+      "evidence": "The scrub gone brown. The sound the frost made under the mules' hooves.",
+      "consequence": "The party walked south from Millrace with two mules, one of them Oryn's; she takes hers north at the fork and the very next scene's singular 'the mule's rope' (line 53) is correct. Eight lines later t",
+      "repair_target": "Singular at line 61 ('the mule's hooves'), or attribute the plural to the earlier six-person stretch."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch23.md",
+    "report_path": "v3-runs/book-07/reports/ch23-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch23-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch23-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

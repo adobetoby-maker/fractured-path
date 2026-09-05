@@ -12,7 +12,7 @@ He did not go down. He stood with his left foot forward and his right hand still
 
 ---
 
-The geometry arrived whole, the way geometry did, in the length of the breath it took Brom to say the word.
+The geometry arrived whole — it always did — in the length of the breath it took Brom to say the word.
 
 A bowl of dead Path, forty meters deep from the line they had just crossed. A rim round it at the height of a wall, where Paths worked. Six figures on the rim — he counted them as he had counted hounds, without seeing one clearly: two on the south lip above the road's far cut, two on the east above the scrub, one west, one on the north rim above the stone they had crossed, all of them in road grey with hoods up, all of them with the long shape of a crossbow held the same way, all of them still. They had let six people walk in and six Paths die at the stride, and waited until the six were forty meters from any line, and put one bolt into the largest of them from a hundred and twenty meters of ground where their own Paths ran, and had not needed to be careful, because on this floor nobody could answer.
 
@@ -36,7 +36,7 @@ Not for the line. She had heard *closed*, and she had heard *rim*, and she had b
 
 Brom went with the bolt in him, at a run, because Brom could run with a bolt in him and had never once been asked to prove it. Karis with the cord. Oryn a stride behind Lira the whole way, where the hurt would arrive. Seln on the outside, between the rim and the rest, not because it helped and not because it did not. Himself last, the ten held to nothing, the Iron read giving him the ground and the Anchor perception giving him the rim's lattice at his back, and neither of them a thing anyone on the rim could see.
 
-The floor's lip. The white going off it as the morning came onto it. Lira over the lip and across the floor and down into the square hole at its middle without breaking stride, the way she had gone down every ladder for two weeks — one hand — and gone.
+The floor's lip. The white going off it as the morning came onto it. Lira over the lip and across the floor and down into the square hole at its middle without breaking stride, one-handed, as on every ladder for two weeks, and gone.
 
 Then the rest of them, and the bolts coming down onto fused stone behind them and skipping, because a bolt that lands on that floor does not stick.
 
@@ -162,7 +162,7 @@ He watched her face do it. He had watched it four times now — the count starti
 
 Brom sat on the road.
 
-She took the bolt out. She did it the way she did everything, in the register, aloud: the head first, cut from the shaft with the roll's knife; then the shaft drawn back through the way it had come, in one pull, with her other hand flat on the shoulder and the count already running under it; and then both hands on the place, front and back, and the count going past ten and on, and her face going grey by lantern the way it had gone grey on a road at the Fallow Ring's line, and the sweat standing on it in the cold. It was an hour. Karis timed it on the ridge's dark and wrote the time. When she took her hands off, the shoulder was a shoulder with a mark on it front and back, and Brom moved the arm, once, and said, "Arm," and Oryn said, "Don't," and he didn't.
+She took the bolt out. She did it as she did everything, in the register, aloud: the head first, cut from the shaft with the roll's knife; then the shaft drawn back through the way it had come, in one pull, with her other hand flat on the shoulder and the count already running under it; and then both hands on the place, front and back, and the count going past ten and on, and her face going grey by lantern the way it had gone grey on a road at the Fallow Ring's line, and the sweat standing on it in the cold. It was an hour. Karis timed it on the ridge's dark and wrote the time. When she took her hands off, the shoulder was a shoulder with a mark on it front and back, and Brom moved the arm, once, and said, "Arm," and Oryn said, "Don't," and he didn't.
 
 Then Lira's forearm, second, with what she had left, which was less. She unwound the dark linen and looked at the mend where it had opened along its old line, a finger's length, and closed it — smaller work, and she said so: "Smaller. It tore where it was thinnest. That's what a mend does when it's asked to hold a stair." Both hands. A quarter of an hour. Then the sling again, higher, and the order restated, in the same breath, in the same register: "It held a stair. It's not going to hold anything else this season."
 

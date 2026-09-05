@@ -14,11 +14,11 @@ It took an hour. He had given it a quarter of an hour on the sack; he gave it an
 
 He went in as she went in. One hand on the sternum, the other under his back as far as it would go, which was not far; the attention arriving; going under the hand; going along. And the currents came up out of the general flow one at a time as they had come up on a loft's sacks, and he did not name them, because naming them was a thing he did with the part of him that catalogued, and he had brought that part to the marsh's edge and told it, for an hour, to be still.
 
-Ten. He felt them as flows: the quick one near the surface; the slow one under it; the deep one running like water under a floor; the one that drew in when it was touched; the loud one, quiet now, settled; the one that wanted doorways and had wanted nothing since a rim; the two he had spent in a hall that morning and that rang faint and sore, the way strings ring after a hand has been hard on them; the ninth, whose edge he could not find; and the tenth, which was what he was feeling with, and which he could feel now that he was using it, as a man feels his own eye when he shuts the other.
+Ten. He felt them as flows: the quick one near the surface; the slow one under it; the deep one running like water under a floor; the one that drew in when it was touched; the loud one, quiet now, settled; the one that wanted doorways and had wanted nothing since a rim; the two he had spent in a hall that morning and that rang faint and sore, strings that had had a hard hand on them; the ninth, whose edge he could not find; and the tenth, which was what he was feeling with, and which he could feel now that he was using it, as a man feels his own eye when he shuts the other.
 
 He could not find the banks.
 
-He went looking for them, because the second reading was for looking. He went along the quick one and tried to find where it stopped and the slow one began, and there was no stopping; there was the quick one, and then there was the slow one, and the place between them was not a place. He went along the deep one and tried to find the floor it ran under, and there was no floor; there was more of it. He went round the whole of himself for the better part of the hour the way Oryn had gone round him on a table, patiently, keeping time, and at the end of it he had what she had had: ten movements, no channel, no edge to any of them.
+He went looking for them, because the second reading was for looking. He went along the quick one and tried to find where it stopped and the slow one began, and there was no stopping; there was the quick one, and then there was the slow one, and the place between them was not a place. He went along the deep one and tried to find the floor it ran under, and there was no floor; there was more of it. He went round the whole of himself for the better part of the hour as Oryn had gone round him on a table, patiently, keeping time, and at the end of it he had what she had had: ten movements, no channel, no edge to any of them.
 
 He made himself hold the finding at its right size, because holding a finding at its right size was the whole of the discipline and he had learned it from a woman thirty strides back along the track with a straightedge she had not laid along anything for four days. *I cannot find the banks.* Not *there are no banks.* The reading was hers and it was three weeks his, and a reading that could not find a thing was a reading with a limit in it, and the limit was the reading's and not the architecture's, and a man who wrote the second when he had only proved the first was doing to himself what a registry had done to him at fourteen.
 
@@ -86,13 +86,13 @@ He came as he came to every table, at the pace of a man going to a place he knew
 
 He sat down next to him.
 
-Not across the fire. Beside him, on the track's dry edge, with his shoulder a foot from Cael's shoulder and his hands loose on his knees and his eyes on the marsh, the way Brom had sat down beside a boy he had just beaten and said *I want to know how you did that thing in the third exchange*. It was the oldest posture Cael had a name for, and it had made a family once, and he did not have a column for it now either, and let it stand.
+Not across the fire. Beside him, on the track's dry edge, with his shoulder a foot from Cael's shoulder and his hands loose on his knees and his eyes on the marsh, exactly as Brom had sat down beside a boy he had just beaten and said *I want to know how you did that thing in the third exchange*. It was the oldest posture Cael had a name for, and it had made a family once, and he did not have a column for it now either, and let it stand.
 
 They sat for a while. The marsh did what marshes do at the end of an afternoon, which is go gold and then go grey.
 
 "I read the ground at the Stair," Teague said. "I read the rim. I've read the board for three years and I've read every crew that's come up it. I can't read this." He did not look at him. "What are you."
 
-It was not the board's question. The board asked what you had *done*. This was the other question, the one every instrument on the continent had asked and had not been able to answer and had filed instead, and here it was, on a marsh, from a man with no seal, asked plainly, the way a man asks a thing he actually wants to know.
+It was not the board's question. The board asked what you had *done*. This was the other question, the one every instrument on the continent had asked and had not been able to answer and had filed instead, and here it was, on a marsh, from a man with no seal, asked plainly, like a man who actually wanted to know the answer.
 
 And Teague's wrist was a foot from his hand.
 

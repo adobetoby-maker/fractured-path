@@ -1,0 +1,121 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch23-r2",
+  "scene_id": "b7-ch23",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch23.md",
+  "word_count": 4212,
+  "obligations": [
+    {
+      "obligation": "F-B7-CH23-001 (BLOCKER): Restage the pacing so the measurement is taken from outside the boundary — for example along the perimeter arc",
+      "status": "MET",
+      "evidence": "Restaged as Ch10's method: Lira on the line calling gone/back, Karis a stride outside laying twenty cords westward ALONG the line from the stone, Brom marking, Cael counting from the crest; 'nobody's boot a hair nearer the shape than the line was'. Nobody crosses."
+    },
+    {
+      "obligation": "F-B7-CH23-002 (HIGH): Make the method produce four hundred. Either the count reaches the perimeter's far side or a sighted centre at",
+      "status": "MET",
+      "evidence": "Arithmetic now from curvature: the line bent the same every cord and half what the Ring's did; twenty cords was a third of the way round the Ring and a sixth here; 'Half the bend is twice the round. Four hundred. Near enough. Twice the radius.'"
+    },
+    {
+      "obligation": "F-B7-CH23-003 (MEDIUM): Replace 'six weeks ago' with the true interval (about a fortnight / eleven days) at line 17, or drop the inter",
+      "status": "MET",
+      "evidence": "'eleven days ago'."
+    },
+    {
+      "obligation": "F-B7-CH23-004 (MEDIUM): Correct the interval at line 27 to the drafted count (about four weeks / since the Ring), or convert it to an ",
+      "status": "MET",
+      "evidence": "'as she had walked since the Ring'."
+    },
+    {
+      "obligation": "F-B7-CH23-005 (MEDIUM): Correct the interval to the drafted count (about five weeks / since Oxhollow), and soften 'the same words in t",
+      "status": "MET",
+      "evidence": "'five weeks ago'; 'the same sentence in the same voice' (fixed lines untouched)."
+    },
+    {
+      "obligation": "F-B7-CH23-006 (MEDIUM): Set the count to fifty-two at line 133, or name the sites rather than the total.",
+      "status": "MET",
+      "evidence": "'fifty-two sheets'."
+    },
+    {
+      "obligation": "F-B7-CH23-007 (MEDIUM): Carry the ribs once in the halt-catalogue at line 27 or at the first night's fire (line 29) in the established",
+      "status": "MET",
+      "evidence": "Halt catalogue: 'the ribs that had paid for the Hall saying so at every halt now that the cold had them, and a healer's two days on them gone to four'."
+    },
+    {
+      "obligation": "F-B7-CH23-008 (LOW): Singular at line 61 ('the mule's hooves'), or attribute the plural to the earlier six-person stretch.",
+      "status": "MET",
+      "evidence": "'the mule's hooves'."
+    },
+    {
+      "obligation": "must_include: Karis's finding with the straightedge and the kit's bearing (three centres on a line to the stride; the fourth circle two days away); her two fixed lines.",
+      "status": "MET",
+      "evidence": "At the far fire in the morning, 'in the register she kept for findings she was afraid of': the three centres placed to a stride; 'a brass edge, and it touches all three without a hair of daylight ... it does not stop touching all three'; the kit's bearing taken off the first two sites runs along the same edge; 'Three points make a line. Four make an argument.'; the carter's fourth circle at the map's lower corner on the line, 'Two days'; 'It's a fact about a straightedge.' No maker, purpose or age."
+    },
+    {
+      "obligation": "must_include: The walk as the last freedom chapter and the coldest, in scene at halts.",
+      "status": "MET",
+      "evidence": "Frost that rings under a boot; one hide-cart in two days and the lifted hand 'a paragraph'; holds shut early; smoke going up straight; the six catalogued at the halts (Lira with Oryn's crossbow on her back; Brom with the kit and box on one shoulder; Karis with the straightedge open; Seln ahead; Oryn's hand out of the coat; the still place untouched); the ridge with snow in its north folds 'as if somebody had drawn white lines on it with a rule'; Seln's hourly 'Nothing'; the noon log's four words: '*I love this country.*' beside the dread."
+    },
+    {
+      "obligation": "must_include: Oryn at the fork: her reason; Cael walking her to the fork and NOT asking; her two fixed lines; five on the bearing after.",
+      "status": "MET",
+      "evidence": "'Thornwater's that way. Four days, by that gap. I'm eleven days late there, and eleven days is eleven days, and there's an old woman at Thornwater whose knee I said I'd see'; 'I've been a stop on my own route for a fortnight. I'm going back to being the route.' Fifty paces to the stone 'and did not say the thing he had had since the marsh ... A man who breaks the condition at the first fork it costs him has not understood the condition.' 'Find me at Thornwater,' Oryn said. — 'the same words in the same order and it meant the opposite'; 'Bring the map,' she said. Then the log line at the fork: 'Oryn north. On her terms. I didn't ask. Five on the bearing.'"
+    },
+    {
+      "obligation": "must_include: The fourth site from the ridge at dusk: the pacing to four hundred (compressed); the structure as a shape only; the LINE of stakes; Seln's fixed line.",
+      "status": "MET",
+      "evidence": "'Larger.' — a valley's head; a shape at the middle 'A mound, or a hall, or a floor with something on it that was taller than a man ... and the dusk took the rest, and he did not guess at the rest'. Lira's 'Gone' at a hundred and ninety paces; Karis's compressed pacing: twenty cords in toward the middle with Brom marking and the shape 'as far again' — 'Four hundred. Near enough. Twice the radius. The same shape, at twice the size, round a thing I can't see.' The stakes: iron, numbered thirty-four with the stroke-and-bar mark, a pace apart, running both ways into the dusk — 'had not measured a circle. Had *marked* one.' Contiguous: 'That's not a survey. That's a cordon. They've been here more than once.'"
+    },
+    {
+      "obligation": "must_include: The council of five voices and one silence; Cael's decision lines verbatim; Karis's reply; Cael's reply; nobody crosses.",
+      "status": "MET",
+      "evidence": "Lira: 'Twice the size. Is it twice the *anything else*?'; Karis: 'I don't know ... I'm not going to know more from a crest.'; Brom: 'The shoulder's mended twice.'; Seln: 'A cordon's a thing you put round a place you mean to come back to.'; the silence named ('And Oryn was four days north-west, with a route. That was the silence.'). Verbatim: 'Not without her. Not without knowing what a circle twice the size does to the four of you. And not without the map finished.' / 'It's finished,' Karis said. 'It's a line.' / 'Then it's a line that points somewhere. We go home and find out where.' / 'Nobody crossed the line.'"
+    },
+    {
+      "obligation": "must_include: The chapter ENDS on the log entry verbatim as given (ending 'We're oriented.').",
+      "status": "MET",
+      "evidence": "Last paragraph is the mandated entry verbatim, preceded by a dateline line; 'Home is Lowmarch now. I just wrote that without noticing.' — the narration marks that he found the line on reading back and let it stand."
+    },
+    {
+      "obligation": "must_include: Lira one-armed carried; Brom's shoulder carried.",
+      "status": "MET",
+      "evidence": "'Lira, one-armed, on the taped foot ... the arm across her chest'; Brom 'with the kit on his good shoulder and the middle box on the same one and the other carried still and forward'; 'The shoulder's mended twice.'"
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 23 — Bearing', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; six '---' breaks; ends on the log; metadata 0."
+    },
+    {
+      "obligation": "plants: the fourth site (twice the radius; cordoned; not entered); 'Home is Lowmarch now.'; 'Bring the map.'",
+      "status": "MET",
+      "evidence": "All three on the page as quoted."
+    },
+    {
+      "obligation": "prohibited_outcomes: nobody crosses; no Path tested; nothing known of the fourth site's effect; no theory/'Architect'; no reading/measuring claims; no fight/fragment use; Oryn does not stay; no Teague/letters/Vastin; no new names; not a dialogue or image ending; tics; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "Nobody crosses; Karis: 'I don't know what it does to a Path at the middle. I don't know what it does to a Path at the line.' Architect 0; the shape unguessed; 'a fact about a straightedge'. No fight; no fragment use ('ten things held to nothing'). Oryn goes north. Teague 0; no letters. The fourth site unnamed ('the fourth'). Ends on the log (Ch22 ended on an image). Capped tics 0; one-word paragraphs 1; 'at the pitch' 0."
+    }
+  ],
+  "inventions": [
+    "Karis delivering the finding standing over the box and making the five come to it; 'I'm not asking; I'm telling you where I'll be.' / Oryn: 'That's a healer's sentence.' / 'I know whose it is.'",
+    "The road's textures (the hide-cart and its carter's lifted hand; snow in the ridge's north folds; Seln's hourly 'Nothing'); the noon log's four words.",
+    "The fork as a stone where two tracks part; Oryn's 'I'm going back to being the route.'; the fifty paces walked beside her.",
+    "The fourth site as the head of a valley; Lira's 'Gone' at a hundred and ninety paces; the pacing compressed to twenty cords inward; stakes numbered thirty-four a pace apart; Cael counting forty and the dusk stopping him.",
+    "Council lines in register (Lira's 'twice the anything else'; Brom's 'The shoulder's mended twice.'; Seln's 'A cordon's a thing you put round a place you mean to come back to.').",
+    "The first night's halt in the lee of a ruined hold wall ('Twice.' / 'Twice.' / 'And not three.'); Brom's 'And she said not three.' at the council; the crest's catalogue after 'Nobody crossed the line.'"
+  ],
+  "state_change_proposals": [
+    "Timeline: the 121st (Karis's finding at the marsh; the walk begins), the 122nd (the fork in the morning — Oryn north-west toward Thornwater, four days by the gap; five on the bearing), the 123rd (the ridge at dusk; the fourth site; the cordon; the council; camp on the crest; the log). Turn for Lowmarch on the 124th.",
+    "THE LINE: the Ring, the Stair and the Hall's centres on one straightedge to the stride; the kit's bearing the same line; the carter's fourth circle on it.",
+    "ORYN: turned north-west at the fork on the 122nd for Thornwater ('Find me at Thornwater.' / 'Bring the map.'); Cael did not ask her to stay; Lira has Oryn's crossbow. Party FIVE.",
+    "THE FOURTH SITE: the head of a valley two days south-east of the Hall; the line called by Lira at ~a hundred and ninety paces down the slope; perimeter FOUR HUNDRED meters (twenty cords from the line toward the middle, the shape 'as far again'); the structure a standing shape against the sky, unidentified (mound, hall, or a floor with something taller than a man on it); a CORDON of stakes numbered thirty-four with the stroke-and-bar mark, a pace apart, both ways into the dark (forty counted); Seln's line verbatim. NOT crossed; no Path tested; nothing known of its effect; unnamed.",
+    "Decision: 'Not without her. Not without knowing what a circle twice the size does to the four of you. And not without the map finished.' — home to Lowmarch to find out where the line points.",
+    "'Home is Lowmarch now' written and let stand. Marks one hundred and eight; nothing owed. No fragment use; no letters.",
+    "Kept sentences: Karis — the two fixed lines; 'It's a fact about a straightedge.'; 'Four hundred. Near enough. Twice the radius.'; 'It's finished. It's a line.'; Oryn — 'I'm going back to being the route.'; the two fixed lines; Seln — the fixed line; 'A cordon's a thing you put round a place you mean to come back to.'; Lira — 'Is it twice the *anything else*?'; Brom — 'The shoulder's mended twice.'; Cael — the decision lines; '*I love this country.*'"
+  ],
+  "deviations": [
+    "Targeted repair r1→r2: eleven exact-string replacements at the flagged spans plus four editor concerns actioned; r1 preserved at drafts/ch23-r1.md; byte-identical elsewhere."
+  ],
+  "blockers": []
+}

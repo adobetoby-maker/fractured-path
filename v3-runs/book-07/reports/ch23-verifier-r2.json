@@ -1,0 +1,39 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch23-verifier-r2",
+  "scene_id": "b7-ch23",
+  "editor_run_id": "b7-ch23-r2-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B7-CH23-009",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r2.md lines 83/87/91/93/95/107",
+        "chapter-10.md line 13 (Cael at Karis's shoulder for the count)"
+      ],
+      "reason": "The iron is registered during the pacing itself: from the first cord on, a stake a pace apart beside Lira's boots the whole way, unspoken until the count is done; the party returns 'beside the iron'; Seln's beat is now the READING of the stakes ('Seln had read the stakes'), ten paces east, not a discovery nobody else could have missed."
+    },
+    {
+      "finding_id": "F-B7-CH23-010",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r2.md lines 83/87/91/93/95/107",
+        "chapter-10.md line 13 (Cael at Karis's shoulder for the count)"
+      ],
+      "reason": "'a circle eight hundred meters across' (four hundred is the radius)."
+    },
+    {
+      "finding_id": "F-B7-CH23-011",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch23-r2.md lines 83/87/91/93/95/107",
+        "chapter-10.md line 13 (Cael at Karis's shoulder for the count)"
+      ],
+      "reason": "'Cael at her shoulder writing it' (Ch10's position); the four come back along the line together."
+    }
+  ],
+  "concerns_actioned": [
+    "'Three days, or near it' is correct to the datelines (121st→123rd); the packet/card/provisional-state 'two days' is annotated in STATE_RUNNING as superseded by prose."
+  ]
+}

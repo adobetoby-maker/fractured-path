@@ -1,0 +1,226 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch23-r3-editor",
+  "scene_id": "b7-ch23",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Recheck — the three verified findings of ch23-editor-r2 (009, 010, 011)",
+      "state": "PASS",
+      "evidence": "All three are repaired at the flagged spans and each repair holds on its own evidence. 009 (the stake fence against the pacing): the repair took option (c) of the repair target — the iron is now registered as it is passed, 'And from the first cord on, a bar of iron a hand's height out of the frost beside Lira's boots, and another a pace past it, and another, the whole way, which nobody spoke of until the count was done, because a count was a count and Karis was saying it' (ch23.md:83) — and Seln's section is converted from a find to a reading: 'Seln had read the stakes.' (ch23.md:91, was 'had found'), with the direction made explicit, 'He had gone along the line the other way while Karis paced it, east along the slope' (ch23.md:93) against Karis's cords laid 'westward from the stone' (ch23.md:83). The protected material survives untouched: 'nobody's boot a hair nearer the shape than the line was' (ch23.md:83), the stake description and 'Had *marked* one.' (ch23.md:95), Cael's count of forty (ch23.md:101), and Seln's fixed line verbatim, 'That's not a survey. That's a cordon. They've been here more than once.' (ch23.md:99). The overlap the finding named is gone: the party no longer walks four hundred meters of staked iron without seeing it, and Seln no longer discovers ten paces east what four people have just walked past twenty times. 010 (radius stated as diameter): 'a cordon of iron round a circle eight hundred meters across' (ch23.md:107) — the first of the two options in the repair target, taken exactly. Karis's line is untouched, 'Four hundred. Near enough. Twice the radius.' (ch23.md:85), as are the council's 'twice the size' at ch23.md:109 and ch23.md:123. Checked: a 400 m radius is 800 m across, and the Ring's 200 m radius (chapter-10.md:55) makes 'twice the radius' correct in both sentences. 011 (Cael's position during the pacing): 'the count said aloud at each and Cael at her shoulder writing it' (ch23.md:83) against chapter-10.md:13, 'Cael at Karis's shoulder with the book open, writing the counts as she said them, because his hand was the faster and hers would be full.' The audible count now has a hearer beside the speaker; the hundred-and-ninety-pace gap between the crest and Karis is gone."
+    },
+    {
+      "gate": "Repair discipline — diff containment (r2 → r3)",
+      "state": "PASS",
+      "evidence": "diff drafts/ch23-r2.md drafts/ch23.md returns exactly five changed lines and nothing else: 83, 87, 91, 93, 107 — the five the packet's purpose statement names ('Only the flagged spans change; byte-identical elsewhere'). Line counts are identical at 139. 83 and 91 carry findings 009 and 011; 107 carries 010; 87 and 93 are the direct consequences of 009's restaging (the return path and Seln's direction). Word count moves 4,212 → 4,264, a net addition of fifty-two words, all of it the iron-registering clause at 83. No opportunistic rewriting anywhere in the chapter."
+    },
+    {
+      "gate": "Causal legibility — the discovery/reading sequence after the restaging",
+      "state": "FAIL",
+      "evidence": "The sequence reads coherently from ch23.md:75 through ch23.md:101. Lira walks the near slope and calls the line at a hundred and ninety paces (79, 81); Karis paces twenty cords west along it with Lira on the line, Brom marking and Cael at her shoulder, and the iron is registered from the first cord (83); she gives the four-hundred finding (85); the four walk back east along the line to Seln (87), who has been ten paces the other way reading what they have all been walking past (91, 93). That chain is drawable. The break is downstream: after the council closes on the crest, ch23.md:131 still runs the pre-repair gesture ledger — 'Karis coiled the cord. Seln came back up the slope from the stakes with nothing in his hands.' — which puts Seln below the crest arriving after he has already spoken in the council at ch23.md:115, and coils a cord Karis already coiled at ch23.md:85. See F-B7-CH23-012."
+    },
+    {
+      "gate": "Continuity persistence — party positions and counts on the crest",
+      "state": "FAIL",
+      "evidence": "The 'five of them' at ch23.md:107 is correct: the pacing party has come back along the line (87) and joined Seln (93), and the ascent to the crest falls across the section break at ch23.md:103, which is ordinary narrative economy and is corroborated on the far side by 'Brom put the kit down on the crest and sat on it' (131) and 'They camped on the crest' (133). The count that does not hold is earlier: at ch23.md:79, with Karis already 'off the ridge's crest with the cord' (77) and Lira walking down the slope beside her, Lira 'looked back up at the five of them on the crest' — three people are on the crest at that moment (Cael, Brom, Seln), not five. See F-B7-CH23-013."
+    },
+    {
+      "gate": "Measurement arithmetic — the radius idiom after the 010 repair",
+      "state": "FAIL",
+      "evidence": "Two of the three post-repair distance statements are right. ch23.md:107 now reads 'a circle eight hundred meters across'; ch23.md:119 reads 'across four hundred meters of dark', which is a traverse from the line to the middle and is the radius correctly used. ch23.md:133 was left as 'the shape at the middle of four hundred meters of quiet', where 'at the middle of' names the full extent rather than the traverse, and now stands eleven lines after a sentence that gives the full extent as eight hundred. See F-B7-CH23-014."
+    },
+    {
+      "gate": "Authority — packet prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Nobody crosses ('Nobody crossed the line.', ch23.md:129) and nothing is learned about the site's effect (Karis: 'I don't know what it does to a Path at the middle. I don't know what it does to a Path at the line.', ch23.md:111). No Path or fragment is used ('ten things held to nothing', ch23.md:27). No theory of maker, purpose or age; the shape is refused ('he did not guess at the rest', ch23.md:75). grep -ci returns 0 for Architect, Teague, Vastin, letter and Quieting. No fight. Oryn goes north at the fork and does not stay (ch23.md:69). The fourth site is left unnamed ('the fourth'). The chapter ends on the log entry, not on dialogue or an image (ch23.md:139). 'at the pitch' / 'at that pitch' return 0."
+    },
+    {
+      "gate": "Authority — canon and SECRET discipline (CANON_RULES reveal schedule)",
+      "state": "PASS",
+      "evidence": "No SECRET is approached. The Quieting's source is untouched — nobody says maker, purpose, or intelligence; the strongest sentence on the page is Karis's 'It's a fact about a straightedge' (ch23.md:15) and Seln's 'A cordon's a thing you put round a place you mean to come back to' (ch23.md:115), which is a fact about the Compact's behaviour, not about the site. The Fractured Path's nature is named only as shape carried forward ('a still place at the center of me', ch23.md:139), consistent with Ch22's discipline. The Compact advance is the one the architecture allots to this chapter — the cordon proves they have been here more than once and nothing else. [UNBOUND] does not appear; the word Architect does not appear."
+    },
+    {
+      "gate": "Continuity persistence — calendar and elapsed intervals (state-b7-post-ch22)",
+      "state": "PASS",
+      "evidence": "Unchanged from r2 and still correct against the running state. The Thornwater circle closed on the 110th (STATE_RUNNING.md, After Chapter 16) and the finding is delivered on the 121st — 'eleven days ago' (ch23.md:17). Oxhollow's gate was the 84th and the fork is the 122nd, 38 days — 'five weeks ago' (ch23.md:47). Oryn joined at Millrace on the 113th and the fork is the 122nd — 'I've been a stop on my own route for nine days' (ch23.md:37). Thornwater's next visit was eleven days late at Ch18 — 'I'm eleven days late there' (ch23.md:37). The datelines read the 122nd at the fork (ch23.md:53) and the 123rd on the crest (ch23.md:137)."
+    },
+    {
+      "gate": "Continuity persistence — object and possession counts",
+      "state": "PASS",
+      "evidence": "Unchanged from r2 and reconciled. 'fifty-two sheets of copied walls' (ch23.md:133) against eleven rubbings at the Ring, twenty-nine at the Stair and twelve at the Hall. 'A hundred and eight in hand; nothing owed' (ch23.md:137) against the Ch20 state block. Oryn's crossbow is on Lira's strap (ch23.md:27, 51, 131) per the Ch21 crossbow correction. Brom carries the kit and the middle box on the good shoulder (ch23.md:27); Seln carries the case and the kit's ledger (ch23.md:27); Karis carries the map and the open straightedge (ch23.md:27). 'forty stakes and more' (ch23.md:133) matches Cael's count at ch23.md:101 and Seln's at ch23.md:115."
+    },
+    {
+      "gate": "Continuity persistence — injuries carried forward (charter 4.3; THE AUTHOR 2.8 / gate 13)",
+      "state": "PASS",
+      "evidence": "Lira is one-armed on the taped foot at every appearance (ch23.md:27, 79, 131) under Oryn's season order. Brom's twice-mended shoulder is carried in the halt catalogue and named at the council — 'The shoulder's mended twice' / 'And she said not three' (ch23.md:113) — against Oryn's Ch21 order. Cael's ribs are carried at the halts, 'the ribs that had paid for the Hall saying so at every halt now that the cold had them' (ch23.md:27). No injury vanishes and none is healed off-page; Oryn leaves at the fork and no mending occurs after it."
+    },
+    {
+      "gate": "Causal legibility — the council's premise",
+      "state": "PASS",
+      "evidence": "The premise holds and the repairs did not disturb it. The stop is caused by three things the chapter has established in scene: the healer is four days north-west with a route (ch23.md:117, following the fork at 61-69); the circle is twice the radius and nobody knows what that does to the four (Karis at ch23.md:111); and the cordon says the Compact returns (Seln at ch23.md:115). Cael's silence is named as what it is — he is the only one the site would let in (ch23.md:105, 119) — and his three sentences answer the three causes in order (ch23.md:123). Karis's reply and Cael's reply are verbatim (ch23.md:125, 127), and 'Nobody crossed the line.' (129) is the outcome the packet requires."
+    },
+    {
+      "gate": "Assigned obligations — must_include (8 items)",
+      "state": "PASS",
+      "evidence": "All eight survive the repair untouched except where the repair improved them. Karis's finding with the straightedge and the kit's bearing, three centres to the stride, the fourth circle on the line, and both fixed lines (ch23.md:9-17). The walk as the coldest freedom chapter, rendered at halts rather than in summary (ch23.md:21-31, 41-47). Oryn at the fork: her reason, Cael walking her there and not asking, both fixed lines, five on the bearing after (ch23.md:35-53). The fourth site from the ridge at dusk: the compressed pacing to four hundred (83-85), the structure as a shape only (75), the line of stakes (95), Seln's fixed line (99). The council of five voices and one silence with the decision lines verbatim (105-129). The chapter ends on the mandated log entry verbatim (139). Lira one-armed and Brom's shoulder carried (27, 113). Format: H1 'Chapter 23 — Bearing', prose only, six '---' breaks, ends on the last line of prose."
+    },
+    {
+      "gate": "Assigned obligations — plants and payoffs",
+      "state": "PASS",
+      "evidence": "Plants: the fourth site as Book 8's on-ramp — twice the radius, cordoned, not entered (ch23.md:85, 95, 129); 'Home is Lowmarch now. I just wrote that without noticing.' (139), with the narration marking the unnoticing at 135; 'Bring the map,' she said. (49) for the Ch24 letter. Payoffs: Ch20's bearing is walked and confirmed (13, 71); Ch22's stopped pencil resolves into the finding at the far fire (5-17); Ch18's 'she'll turn north the day she has to and I won't ask her not to' is paid in full at the fork, with the reason stated as the condition rather than as sentiment (43)."
+    },
+    {
+      "gate": "Point-of-view integrity and knowledge boundary",
+      "state": "PASS",
+      "evidence": "Close third on Cael throughout; nothing is narrated that he cannot perceive. The repair's new clause at ch23.md:83 is inside his sightline — he is at Karis's shoulder, a stride outside Lira, and the iron is 'beside Lira's boots'. Seln's reading (91-99) is delivered when the party reaches him, not reported from a distance. The shape is refused rather than described (75). Nothing is claimed about the site reading or measuring anyone, per the arc language ceiling."
+    },
+    {
+      "gate": "Consequential scene — state change and scene turn",
+      "state": "PASS",
+      "evidence": "Four states change: knowledge (a fourth site, on the line, at twice the radius, cordoned), relationship (Oryn returns to the route on her own terms and the condition is honoured), goal (turn for Lowmarch to find where the line points), and self-concept ('Home is Lowmarch now'). The turn is the decision to stop, taken in scene by the one person the site would admit."
+    },
+    {
+      "gate": "Progression module gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, no acquisition, no training and no rival motion in this chapter; the packet assigns none. Fragment count is stated as inventory only ('Ten.', ch23.md:137)."
+    },
+    {
+      "gate": "LitRPG module gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display, notice, sheet or value renders in this chapter. The only system-adjacent facts are Arbiters going dark at a boundary, which is world mechanism rather than a display."
+    },
+    {
+      "gate": "Voice charter 8.4 — terminal metadata grep",
+      "state": "PASS",
+      "evidence": "grep -nE 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns zero. The file ends on the log's last line, 'We're oriented.'"
+    },
+    {
+      "gate": "Voice charter 9 — tic caps (per chapter and book-to-date)",
+      "state": "PASS",
+      "evidence": "All capped phrases return zero for this chapter: 'jaw tightened', 'laughed once', 'without humor', 'stomach tightened', 'stomach dropped', 'That was true', 'Also true', 'sounded almost', 'held this', 'which was, in its own way'. 'There it was' returns one grep hit, at ch23.md:15, inside a mid-sentence narrative aside ('and there it was, at the map's lower corner') rather than as the capped standalone beat — the same false positive class the Ch12 ledger records. Banned modern registers return zero; the 'heard about it later' family returns zero; feeling- and growth-declaration greps return zero; standalone '[Name] noticed.' returns zero. Single-word paragraphs: one ('Larger.', ch23.md:73), against a cap of two. The identical 'the way X [verb]' construction appears at most once in any form. Em dashes: 22 in 4,264 words, in line with the book's range. The repair added no capped phrase."
+    },
+    {
+      "gate": "Voice charter 9 — scene-closer rule",
+      "state": "PASS",
+      "evidence": "Chapter 23 closes on a log entry (ch23.md:137-139). Chapter 22 closed on an image (Karis at the far fire and the sound of a pencil stopping), per the Ch22 state block. No adjacent repeat, and the architecture's assigned closer for Ch23 is the log."
+    },
+    {
+      "gate": "Voice charter 8.5 — dialogue attribution runs",
+      "state": "PASS",
+      "evidence": "The two multi-party scenes hold. At the marsh (ch23.md:9-19) Karis speaks in attributed blocks with one exchange at 19 ('That's a healer's sentence,' Oryn said ... and Karis said). At the council (109-127) every speaker is attributed on their line — Lira, Karis, Brom, Seln — and the closing three-line exchange runs Cael / 'It's finished,' Karis said / Cael, which is a two-speaker run with the middle line tagged. No run of more than four unattributed lines anywhere."
+    },
+    {
+      "gate": "Voice charter 8.1 / NAME_REGISTRY — aural distinctness and new canon",
+      "state": "PASS",
+      "evidence": "No new named entity is minted. The fourth site is left unnamed by design, per the packet's forbidden list and the architecture's naming checkpoint. Names used are Cael, Lira, Brom, Karis, Seln, Oryn, Thornwater, Lowmarch, Millrace, the Ring, the Stair, the Hall — all carried and all already screened in the Book 7 census. No [NEW-CANON] noun appears."
+    },
+    {
+      "gate": "Voice charter 8.2/8.3 — audio survival",
+      "state": "PASS",
+      "evidence": "No meaning rests on typography. The three italicised spans are in-world writing — the fork log (ch23.md:53), the noon log's four words (ch23.md:67), the closing entry (137-139) — plus emphasis on 'gone', 'On', 'marked' and 'anything else', each of which survives a plain reading because the surrounding clause carries the contrast. No system block, no table, no bracketed field. The numbers spoken aloud ('Twenty', 'Four hundred', 'eight hundred meters across', 'forty stakes') are all speakable phrases."
+    },
+    {
+      "gate": "Voice charter 10 — scene vs summary and density",
+      "state": "PASS",
+      "evidence": "4,264 words against the run's declared band of 3,910-5,290 (target 4,600, tolerance 15 per cent) — inside the band and 1,026 words under the ceiling. No architecture-major beat is summarised: the finding, the fork, the sighting, the pacing, the stakes and the council are all in scene. The two-and-a-half days of walking are compressed at halts, which is the permitted use, and the packet asks for exactly that ('rendered in scene at halts, not summary only')."
+    },
+    {
+      "gate": "Anti-pastiche (craft core 6; charter 2)",
+      "state": "PASS",
+      "evidence": "No passage reads as any named author's protected expression. The register is the book's own — the cataloguing narrator, the procedural finding, the fixed lines. Nothing imitates a living author's rhythm or scene construction."
+    },
+    {
+      "gate": "Combat gates (charter 4; THE AUTHOR 9.9-9.16)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat in this chapter; the packet forbids a fight."
+    },
+    {
+      "gate": "Invention budget",
+      "state": "PASS",
+      "evidence": "Everything invented sits inside the allowed list. Road texture (frost that rings, the hide-cart and its lifted hand, gates shut early, snow in the ridge's north folds); the fork as a stone where two tracks part; the ridge and the valley's head; the shape against the sky, refused; the cordon's stakes as objects; the pacing compressed. Dialogue beyond the fixed lines stays in established voices. The repair's one new clause invents nothing beyond the stakes already licensed as objects. Nothing in the approval_required list is touched: no new named entity, no fact about the fourth site beyond radius, shape-against-sky and cordon, no Compact fact beyond 'more than once'."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B7-CH23-012",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core: causal legibility; charter 4.1 (positions must hold and the sequence must be drawable from the text alone)",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch23.md",
+        "line_start": 131,
+        "line_end": 131,
+        "quote": "Karis coiled the cord. Seln came back up the slope from the stakes with nothing in his hands."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch23.md",
+        "line_start": 107,
+        "line_end": 107,
+        "quote": "The five of them stood on the crest above a cordon of iron round a circle eight hundred meters across"
+      },
+      "consequence": "The post-council gesture ledger at line 131 is the only span in the chapter that still runs on the pre-repair staging, and it now contradicts the council twice over. Seln is on the crest for the council — line 105 says everyone on the crest knew whose the silence was, line 107 counts five of them there, and line 115 gives Seln a speech in it — and then, after the decision is taken and 'Nobody crossed the line' has landed, he 'came back up the slope from the stakes', arriving at a place he has already spoken from. In the same sentence run Karis coils a cord she coiled at line 85. This was byte-identical in r2 and the r2 report did not raise it, so it is not introduced by this repair; but r2's line 87 sent the pacing party up the slope and left Seln alone below, which gave the beat somewhere to stand, and r3's line 87 now sends the four along the line to Seln instead, so the last staging that supported line 131 is gone. A reader following the chapter's own geography — which this chapter asks them to do more than any other in the book — hits it at the point the chapter is asking them to feel the stop.",
+      "repair_target": "At line 131, retire the two stale gestures and keep the paragraph's real work, which is the honest count ('three floors entered, one paced from outside') and the four small closing postures. Either drop 'Karis coiled the cord. Seln came back up the slope from the stakes with nothing in his hands.' and let the paragraph run from the count into Lira shifting the crossbow, or replace them with crest-side beats — Karis putting the coiled cord away, Seln standing at the crest's edge looking down the stake-line into the dark with nothing in his hands. Do not move the council: lines 105, 107, 115 and 119 place it on the crest and are load-bearing for the silence. The ascent itself does not need staging; the section break at line 103 carries it, and lines 131 and 133 confirm the crest on the far side.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B7-CH23-013",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity",
+      "gate": "Charter 3.1 (the cataloguing narrator's counts must hold); craft core: causal legibility",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch23.md",
+        "line_start": 79,
+        "line_end": 79,
+        "quote": "she stopped, and looked back up at the five of them on the crest, and said nothing, and went on."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch23.md",
+        "line_start": 77,
+        "line_end": 77,
+        "quote": "\"Line,\" Karis said, and it was not a question, and she was already off the ridge's crest with the cord."
+      },
+      "consequence": "The party is five. At this moment two of them are on the slope — Karis, who is off the crest with the cord at line 77, and Lira, who is doing the looking — so three are on the crest: Cael, Brom and Seln. 'The five of them on the crest' is short by the two people the sentence is about. The chapter uses 'the five of them' elsewhere as a floating name for the crew (lines 7, 107, 119) and it works in those places because the whole crew is where the sentence puts it; here the group label is doing double duty as a position, and the position is wrong. In a chapter whose subject is a count taken carefully in bad light, a miscount two lines before the pacing costs more than its size. Pre-existing in r2 and outside the repair's scope; raised now because the recheck's positional pass reached it.",
+      "repair_target": "At line 79, name the three who are actually up there or drop the number: 'looked back up at the three of them on the crest' is exact, and 'looked back up the slope at the others' costs nothing and cannot drift. Leave 'the five of them' at lines 107 and 119, where the whole crew is on the crest and the label is correct.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B7-CH23-014",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity",
+      "gate": "Charter 3.1 (the cataloguing narrator's counts must hold); craft core: causal legibility",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch23.md",
+        "line_start": 133,
+        "line_end": 133,
+        "quote": "the shape at the middle of four hundred meters of quiet that none of them had a word for"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch23.md",
+        "line_start": 107,
+        "line_end": 107,
+        "quote": "a cordon of iron round a circle eight hundred meters across with a shape at its middle that the dark had"
+      },
+      "consequence": "Finding 010's repair fixed the one sentence it named and left the chapter carrying both idioms. Line 119's 'across four hundred meters of dark' is correct — that is the traverse from the line to the middle, and it is the distance Cael would walk. Line 133's 'at the middle of four hundred meters of quiet' is the other construction: 'at the middle of X' names the whole extent, and the whole extent is now eight hundred, said in those words eleven lines earlier. The two sentences are close enough together, and the chapter's arithmetic is load-bearing enough, that a reader who took line 107's number will stop at line 133. This is the same defect class 010 named, in the sentence 010 did not reach.",
+      "repair_target": "At line 133, restate as the traverse rather than the extent, in the idiom line 119 already uses: 'the shape four hundred meters in past the iron', or 'the shape at the middle of it', which inherits the circle from the cordon named in the same clause. Do not change line 119, which is correct as written, and do not reopen Karis's 'Four hundred. Near enough. Twice the radius.' at line 85.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "The pronoun at line 83 is resolvable but not free. 'Karis a stride outside her ... and Cael at her shoulder writing it' puts two women in the clause run, and the second 'her' has to reach past Brom to find Karis. Context settles it — the count being written is the one Karis is saying aloud, and Ch10 puts Cael at Karis's shoulder for exactly that reason — but the sentence is read aloud in a scene where the difference between Karis's shoulder and Lira's is the difference between outside the line and on it, which is the thing finding 011 was protecting. 'Cael at Karis's shoulder writing it' costs one word and removes the reach. Recorded rather than raised because the repair target's own wording named Karis and the surrounding clause supplies her.",
+    "The 009 repair has one cost it does not spend a beat on. Once the iron is registered from the first cord, Lira is walking a boundary that somebody has already drawn on the ground a pace at a time, and the chapter has her keep calling it with her Arbiter for twenty cords without anyone remarking the redundancy. The prose supplies a reason for the silence — 'which nobody spoke of until the count was done, because a count was a count and Karis was saying it' — and it is the right reason for these people, and Karis measuring the line herself rather than trusting another surveyor's markers is her method as the book has established it. But the finding that lands at line 95, that the iron sits exactly where the Arbiter-line is, is now a confirmation the reader has been holding for two paragraphs rather than a discovery. That is a fair trade for the defect it removed; it is noted so a later pass knows the beat's weight moved.",
+    "Carried forward from r2 and still open at the planning layer: Karis's 'Three days, or near it' at line 15 is right against the chapter's own datelines — the finding on the morning of the 121st, the ridge at dusk on the 123rd — and still differs from the packet's must_include parenthetical, the POV knowledge boundary, and the provisional Ch23 state block, all of which say two days. Reader consequence remains nil. The arc card and the state block should be brought to three, since the 123rd is load-bearing for Ch24's 'six days from the fourth site'.",
+    "Also carried forward from r2 and unrepaired, correctly: Karis's 'I don't know what it does to a Path at the line' at line 111 still sits slightly over its evidence, since Lira has spent twenty cords stepping half a stride in and out with her Arbiter going and coming. The next clause concedes it ('I know the line's where Lira said'), and the prescribed pacing method cannot be run without producing exactly that knowledge, so this is method residue rather than an author defect. If a later pass opens line 111 for any reason, 'past the line' closes it at no cost.",
+    "The chapter sits at 4,264 words against a 4,600 target — inside the band, and a thousand words under the 5,290 ceiling that Ch21 is pinned to. If the repairs above are taken, all three have headroom to be made by addition rather than substitution, which is the cheaper way to keep the fork and the council at their current weight."
+  ],
+  "strengths": [
+    "The 009 repair took the third and cheapest of the three options and it was the right one. Option (a) would have restaged Seln's discovery ahead of Lira's line-call and cost the chapter its opening move; option (b) would have darkened half the cordon to hide it. Option (c) leaves every existing beat where it is and adds one clause, and the clause is in the chapter's own register: the iron arrives as a thing four people walk past twenty times and do not mention, 'because a count was a count and Karis was saying it'. That is a truer sentence about these characters than a discovery beat would have been, and it makes the cordon's scale land through the boots rather than through an announcement.",
+    "One word carries the whole restaging. 'Seln had found the stakes' becoming 'Seln had read the stakes' converts the section from a discovery nobody else could have missed into the professional supplying what the others could see but not price — the number, the stamp, the stroke-and-bar mark, the spacing, and the distinction between measuring a circle and marking one. Seln's fixed line lands harder for arriving as a reading, because 'That's not a survey' is now a correction of what everyone present already assumed they were looking at.",
+    "Line 87 quietly repairs a contradiction the r2 report did not flag. In r2, Karis 'came back up the slope' with Brom and Lira and the very next section had Seln 'on one knee in the frost when they came to him' — two directions in two lines. r3's 'They came back along the line in the dark, the four of them, with the stones marked behind them beside the iron' resolves the movement, gathers the four into one body, and puts the iron in the return sentence where it does a second turn of work. The repair was scoped to 009 and cleared a defect adjacent to it.",
+    "The 011 repair took the first option and left line 81 alone, which is the correct reading of the finding. Cael counts Lira's paces from the crest at line 81 because that count is visible and taken from above, and writes Karis's cords at her shoulder at line 83 because that count is audible and taken at her elbow — two different counts, two different instruments, two different positions, exactly as chapter-10.md:13 stages it. A less careful repair would have moved him once and broken the other.",
+    "The 010 repair is one word and stops there. 'four hundred meters across' becoming 'eight hundred meters across' fixes the arithmetic without touching Karis's radius idiom at line 85 or either 'twice the size' in the council, which is what the repair target asked for and what keeps the chapter's central number in the mouth of the person who measured it.",
+    "Diff containment is exact: five lines, 4,212 to 4,264 words, no drift into any unflagged span. Three repair cycles into this chapter, the fork, the council, the fixed lines and the closing log are still the sentences they were when they passed, which is the whole point of a targeted repair."
+  ]
+}

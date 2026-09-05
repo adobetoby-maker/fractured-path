@@ -6,7 +6,7 @@ Fourteen. A certification office in Denvash, a sigil that lit and went dark for 
 
 She did not interrupt. She stood with her hands flat on the table's edge either side of his shoulder, leaning on them, and looked at the wall where the sun had been, and listened the way she had read: without a verdict attached, going along it.
 
-"On your table," he said, "the conditions came together. I felt them come together, and I felt it start, and I could have stopped it, and I didn't. I reached. On purpose. The notice came while your hands were still on me." He said the notice to her, line by line, the way it had stood on the wall. "*Clinical.* It's never said that before. It's never said anything that wasn't a fight, or the next thing to one."
+"On your table," he said, "the conditions came together. I felt them come together, and I felt it start, and I could have stopped it, and I didn't. I reached. On purpose. The notice came while your hands were still on me." He said the notice to her, line by line: the exact wording that had stood on the wall. "*Clinical.* It's never said that before. It's never said anything that wasn't a fight, or the next thing to one."
 
 "Tide-adjacent," Oryn said. It was the first thing she had said in twenty-one minutes, and it was a word she was trying for weight.
 
@@ -26,7 +26,7 @@ He went up the loft ladder and came down it with the leather book, and she had n
 
 He stood, and did not know where to put his hands, and put them at his sides, which was where she kept hers.
 
-She read it the way she read Karis's turned notebook: once, the whole of it, and then the parts that had a count in them a second time. *Sustained. Stakes. Earnest.* Her lips moved on the conditions. They did not move on the price. She read *she can't consent to what she can't know about* and stopped there for the length of one of her breaths, and read on, and read *the real one is that I don't know what she'd say*, and read on past that as if it were a wound she had already seen the extent of. Then *I want it. Write that too.* Then the last line. Then she closed the book on the pencil and held it shut on her knee with both hands, as she had held the arm.
+She read it as she read Karis's turned notebook: once, the whole of it, and then the parts that had a count in them a second time. *Sustained. Stakes. Earnest.* Her lips moved on the conditions. They did not move on the price. She read *she can't consent to what she can't know about* and stopped there for the length of one of her breaths, and read on, and read *the real one is that I don't know what she'd say*, and read on past that as if it were a wound she had already seen the extent of. Then *I want it. Write that too.* Then the last line. Then she closed the book on the pencil and held it shut on her knee with both hands, as she had held the arm.
 
 "So I couldn't read you because there was nothing in you shaped like a Path for the reading to find."
 
@@ -62,7 +62,7 @@ Not with the ears. With the thing the tenth fragment had brought in from her han
 
 Then the others came up out of it, one at a time, as the night went on, and that was the part he had not been ready for.
 
-Wind, first. Not the framework, not the thing he deployed — the *flow* of it, the current that had been ringing faint since the Ring's second morning, audible now as a thing that ran, and ran a particular way, quick, and near the surface, so that he could have said where in himself it lay the way Oryn had said it from outside: *the water's too fast*. Pressure under it, slower. Iron, deep and dense and very quiet, running like water under a floor. He lay and listened to each of them come up out of the general flow and be itself, and by the small hours he had nine, each with a sound that was not a sound, told apart as he told the five people in this loft apart by their breathing.
+Wind, first. Not the framework, not the thing he deployed — the *flow* of it, the current that had been ringing faint since the Ring's second morning, audible now as a thing that ran, and ran a particular way, quick, and near the surface, so that he could have said where in himself it lay as Oryn had said it from outside: *the water's too fast*. Pressure under it, slower. Iron, deep and dense and very quiet, running like water under a floor. He lay and listened to each of them come up out of the general flow and be itself, and by the small hours he had nine, each with a sound that was not a sound, told apart as he told the five people in this loft apart by their breathing.
 
 He said so to Brom, once, because Brom had asked him to say when it was bad, and this was not bad and he wanted that entered too.
 
@@ -184,7 +184,7 @@ Ten. He counted them because he counted things, and it came out ten: the nine he
 
 Then he went to the place session nine had logged.
 
-He knew where it was. He had known for five years, in the way a man knows where a step on a stair is uneven: a place in himself that Brom's Iron read had caught the edge of once on a floor in Ardenmere, with no Tide practitioner in the city, at no stakes, and had never caught again. He had been round it a thousand times since without seeing it, as he had been round every current in him for eighteen years without hearing one. He went to it now with the new thing, slowly, the way she had gone along the ninth, and found it.
+He knew where it was. He had known for five years, like a man knowing where a step on a stair is uneven: a place in himself that Brom's Iron read had caught the edge of once on a floor in Ardenmere, with no Tide practitioner in the city, at no stakes, and had never caught again. He had been round it a thousand times since without seeing it, as he had been round every current in him for eighteen years without hearing one. He went to it now with the new thing, slowly, the way she had gone along the ninth, and found it.
 
 It was there.
 
