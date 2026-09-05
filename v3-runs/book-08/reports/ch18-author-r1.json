@@ -1,0 +1,82 @@
+{
+  "schema_version": "3.0",
+  "run_id": "b8-ch18-r1-author",
+  "scene_id": "b8-ch18",
+  "draft_path": "v3-runs/book-08/drafts/ch18.md",
+  "word_count": 4892,
+  "target_words": 4600,
+  "obligations": [
+    {
+      "item": "Oryn at Millrace by her count; terms restated aloud so no one mistakes her for a recruit; Teague hears it",
+      "status": "MET",
+      "evidence": "'I'm on my route … I'm not a recruit. I've never been one. I'm a stop on my own route … the day I have to turn north I'll turn north' — said past the six to the road where Teague stands; 'Sixth chair. On my terms. Which are the only kind.'"
+    },
+    {
+      "item": "The deep reading dramatized; Tide as current that runs TO things and goes round; the fixed line verbatim",
+      "status": "MET",
+      "evidence": "'Cael. Bench. Lie still when I say.' … the going-round felt from his side … 'There's a place in you I can't read because it isn't *flow*. I've spent my life reading flow. Whatever that is, it's not the kind of thing my Path was built for.'"
+    },
+    {
+      "item": "The twelfth turned inward privately; the still place reads as still and then as SET, a made thing's inside, a lean; withheld; unresolved",
+      "status": "MET",
+      "evidence": "'It did not read as nothing. It read as *still* … the still place leaned … had the inside of a made thing, and would not tell him what it was made for' … 'He did not tell her.' … 'Two instruments, one place, two findings that did not agree'"
+    },
+    {
+      "item": "Oryn's readings of the others: Brom's shoulder; Lira's arm; Karis's hand; Vastin's knee ('the month's the month'; it held in a cut)",
+      "status": "MET",
+      "evidence": "'She was right. It wanted leaving alone' / 'It's an arm.' / 'Who sewed this.' / 'It held in a cut … The month's the month. Eleven more days on the stick'"
+    },
+    {
+      "item": "The two healers price each other in a look — the whole exchange",
+      "status": "MET",
+      "evidence": "'neither of them nodded, and neither of them looked away first … that was the whole of the exchange between the two healers on the bearing, then or after'"
+    },
+    {
+      "item": "The leaf offered and deferred to the road; Oryn not told",
+      "status": "MET",
+      "evidence": "Lira: 'There's a thing we read in Treswick' / Oryn: 'Then it's not mine … Tell me on the road, if there's road. Not at my table.'"
+    },
+    {
+      "item": "Dates and count: 298th evening; 299th dawn; twelve, two who will not fight, a mule; the Span five days; the third-tier site beyond, unnamed",
+      "status": "MET",
+      "evidence": "'They went at dawn on the two hundred and ninety-ninth' … 'Twelve on the road, two of whom would not fight' … 'five days to a place on the map that was a name and a distance and nothing else yet, and past that, on the line, to a point in a straightedge's shadow'"
+    },
+    {
+      "item": "Close on the IMAGE; file ends on it; reader standard",
+      "status": "MET",
+      "evidence": "last paragraph: the twelve going east into the light, the wheel, the ford-keeper counting them out; banned-word grep 0"
+    }
+  ],
+  "plants": [
+    "The twelfth's inward reading: the still place 'set', 'the inside of a made thing' — Ch22",
+    "Oryn: 'one of them's not for fighting and I don't know what it's for and I'll not ask' — Ch22",
+    "Two healers on either end of a line of ten — Ch21",
+    "Karis writing with the bound hand against orders — line-edit continuity",
+    "'the day I have to turn north' — Ch24"
+  ],
+  "payoffs": [
+    "B7 Ch24 'Spring: bring the map, and lie still when I say' — the map on the table; he lies still, the long one",
+    "B7 Ch22's three readings — the deep reading done; the finding certain",
+    "Ch6's fork and terms — she came back on her count"
+  ],
+  "names_minted": [],
+  "tic_census": {
+    "one_word_paragraphs": "see gate",
+    "the_way_x_verb": "see gate",
+    "upside_down": 0,
+    "four_hundred_years": 0
+  },
+  "state_change_proposals": [
+    "Millrace the 298th evening; departure dawn the 299th; twelve and a mule; cash ~125 (the ford-keeper's night).",
+    "ORYN'S TERMS restated at Millrace: three holds north still owed (four walked since the fork); the old woman at Thornwater; 'a stop on my own route'; she walks east two days on her way and further for the ribs and for the cost of two Quiet places; turns north the day she has to; nobody asks her not to. Teague heard it.",
+    "THE DEEP READING (Oryn, Tide, the long one, at Millrace's bench): the still place unchanged since the autumn; nothing for a healer to read; everything round it; she can now read all TWELVE currents to the bank; she knows one of the two new ones is 'not for fighting' and will not ask. Her finding certain (fixed line).",
+    "CAEL'S PRIVATE FINDING (the twelfth turned inward, unbidden): the still place reads STILL, then SET — 'the inside of a made thing' — a lean with no bearer/borne; no word; withheld from Oryn (Cleon's warning; no guess; her finding is hers). UNRESOLVED; two instruments disagree.",
+    "Injuries: Brom's shoulder 'a shoulder' (carry with the other another month); Lira's arm 'an arm' (forty days); Karis's hand rebound with linen ('It'll leave a line'; a week off writing — not obeyed); Vastin's knee held in the cut — 'the month's the month', eleven more days on the stick (day 20 on the road). Vastin uses 'Noted' ('It's his.').",
+    "Oryn poured the pan out; she has NOT heard the leaf ('Tell me on the road, if there's road. Not at my table.').",
+    "The map: the straightedge's pencil line drawn from the fourth circle out onto the blank sheet to the divider's point and past it. Oryn's roll on the mule beside Karis's boxes.",
+    "The two healers: one look; complete."
+  ],
+  "deviations": [
+    "Closer is the image as carded; no log this chapter."
+  ]
+}
