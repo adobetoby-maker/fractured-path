@@ -1,0 +1,85 @@
+{
+  "schema_version": "3.0",
+  "run_id": "b8-ch17-r2",
+  "scene_id": "b8-ch17",
+  "draft_path": "v3-runs/book-08/drafts/ch17.md",
+  "word_count": 5397,
+  "target_words": 4600,
+  "obligations": [
+    {
+      "item": "Departure dated (295th); Cleon's goodbye in his register; the light not looked at; the road east dated by halts — spring 295th, fork/shoulder hold/cut 296th, Lowmarch dusk 297th",
+      "status": "MET",
+      "evidence": "'They left Treswick by the grey bridge on the morning of the two hundred and ninety-fifth day' … 'Work. Not a finding.' … 'He did not look at the crown.' … 'Lowmarch, at dusk on the two hundred and ninety-seventh, three days from the bridge'"
+    },
+    {
+      "item": "The grade cracked as document work; three marks; age by first sheet; second-tier the four (61/94/138/206); third-tier one on the bearing past the fourth; oldest-last; observational",
+      "status": "MET",
+      "evidence": "'A mark is a grade … The one on a sheet says how old the thing is.' … 'Sixty-one. Ninety-four. A hundred and thirty-eight. Two hundred and six.' … 'It's observation. I'm telling you what the paper says. Not what it means.'"
+    },
+    {
+      "item": "Teague's rendezvous per the spring term; contract priced honestly (better field captain; rival clock; contract not friendship); ten on a wall's count; healer of no Path",
+      "status": "MET",
+      "evidence": "'Spring.' / 'Noted.' … 'Contract. Not more than that.' … 'Teague was the better field captain … It had not got smaller.'"
+    },
+    {
+      "item": "Force Path shown once on Teague with recoil visible (wrist clicks) before Ch19",
+      "status": "MET",
+      "evidence": "the cart in the meadow: 'a body's length' … 'shook the wrist, once, and Cael, at the door, heard it click' … 'Don't put it in front of anything that needs it done twice.'"
+    },
+    {
+      "item": "Pike's board enters the return as what got done; nothing of the leaf said at the plank or to Teague",
+      "status": "MET",
+      "evidence": "'A survey read. There's a bearing. We're walking it.' → 'Treswick. Survey read. Bearing.'; the season line dated"
+    },
+    {
+      "item": "Injuries carried: Vastin's knee (day 16–17 of the month; stood on it in the cut); Lira two-armed; Brom's shoulder; Karis's bound hand",
+      "status": "MET",
+      "evidence": "'sixteen days of a month gone on it' … 'the bound left hand holding the notebook because it could hold that' … 'the other shoulder carried, still and slightly forward'"
+    },
+    {
+      "item": "Close on the LOG with the fixed text and the authorized grandmother correction",
+      "status": "MET",
+      "evidence": "log closer verbatim; 'because my grandmother said a man who catalogues everything eventually needs to draw a line through it. Turns out she was right about the line.'"
+    },
+    {
+      "item": "Reader standard",
+      "status": "MET",
+      "evidence": "banned-word grep 0; no gore; the contract honest; no sexual content"
+    }
+  ],
+  "plants": [
+    "Third-tier site past the fourth on the line (the Court, unnamed) — Ch20/23",
+    "Force's one line and one cost — Ch19/Ch21",
+    "Teague's crew as a unit (the jug moved) — Ch21",
+    "'It hasn't changed' / 'quiet since there was paper' — Ch23",
+    "Cleon's 'Mind the stair. It leans.' — Ch22 (Rune inward)",
+    "The feeling of being known — Ch21's last reach"
+  ],
+  "payoffs": [
+    "Ch5 'I can't read either one' — read against the index and the list of parts",
+    "B7 Ch24 spring term kept verbatim",
+    "Hesk's two tools used together on a map; the grandmother's saying attributed per B7 Ch24"
+  ],
+  "names_minted": [],
+  "tic_census": {
+    "one_word_paragraphs": 0,
+    "the_way_x_verb": "see gate output",
+    "upside_down": 0,
+    "four_hundred_years": "1 (the fixed log only)"
+  },
+  "state_change_proposals": [
+    "Dates: Treswick left 295th; spring 295th; shoulder hold/cut 296th (Vastin stood on the knee, day 17); Lowmarch 297th dusk; the grade cracked 298th morning; Millrace tonight (298th).",
+    "Cash 127.",
+    "THE GRADE (provisional canon): marks are grades by documented AGE (first sheet); first-tier (stroke alone) — box ruled, never used; second-tier (stroke and bar) 'stable across generations' — Ring 61, Stair 94, Hall 138, fourth 206 years on the sheet; third-tier (stroke and two bars) 'stable across centuries' — one sheet, a copy of a copy, on the bearing past the fourth (a day or two by the office's distance from a hold); oldest-last along the line into the deep edge. Observational only.",
+    "Cleon's list of parts: names the mark at the kindling and the mark on a sheet in the same line as the same kind of thing ('A mark is a grade').",
+    "Pike: season line opened and dated on the 297th; the crew's line 'Treswick. Survey read. Bearing.' price and outcome blank; Cael no longer reads pages the other way.",
+    "Contract: ten on a wall's count (six less Karis + Teague's four; healers not counted); shares by count; field Teague's; reading Karis's; on the site whoever is nearest.",
+    "FORCE (reference, seen): impulse along the line of the frame at contact; needs ground to push against; a body's length; recoil back along the same line — Teague's wrist clicks; the young one carries the cloth.",
+    "Vastin said 'Noted' for the first time."
+  ],
+  "deviations": [
+    "The cart demonstration and the factor's exchange are invented within budget. The fixed closer's 'he said' → 'my grandmother said' and 'he was right' → 'she was right' per the packet's authorized correction (B7 Ch24).",
+    "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence (a cart righted); no sexual content; conduct decent (the contract priced honestly; nothing of the leaf told outside the crew).",
+    "r2 (repairs of r1): Teague is NOT in the back room for the marks and the leaf-list — he comes to the door when the dividers come out and hears only the dates, the order and the bearing; the wall's count defined — ten = the crew's six (Karis on it: a wall counts who walks a site) + Teague's four; healers off the count; first-tier's meaning given as the form's ruled box for a recent site (none exists); third-tier 'the setting' per the form's head; Brom's foot closed (kept dry; no longer mentioned); the silence beat varied."
+  ]
+}

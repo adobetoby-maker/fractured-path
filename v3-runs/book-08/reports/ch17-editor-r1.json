@@ -1,0 +1,368 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch17-r1-editor",
+  "scene_id": "b8-ch17",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The 295th-298th chronology, nineteen-year age, twelve-fragment inventory, 127 marks, no-mule ruling, possessions, and major injury states reconcile with the packet and prior state. The central contract count does not: 'you six less your researcher ... and my four' totals nine on the wall, not ten. See F-B8-CH17-002."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration stays within Cael's observation, memory, documents, and visibly framed inference. The watched-road material is explicitly a feeling rather than a fact: 'It was not the feeling of being followed. It was the feeling of being *known*' (line 41)."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "Departure, Cleon's goodbye, dated road halts, the cut, Pike's plank, spring rendezvous, honest rival pricing, Force and recoil, second- and third-tier meanings, oldest-last bearing, the two edges and dividers, injuries named by the packet, and the fixed log all appear. The taxonomy never states the required first-tier meaning 'recent', and never explicitly ties the third-tier record to deployment; see F-B8-CH17-003."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "FAIL",
+      "evidence": "The Court is unnamed; Oryn and Millrace remain offstage; no Span, reach, Force integration, Architect, Arbiter-apparatus claim, still place, banned name, modern idiom, meta-voice, image/dialogue closer, or reader-standard breach appears. But Teague stands at the grade table while Karis discloses what Cleon's copied leaf-list says about the kindling mark; see F-B8-CH17-001."
+    },
+    {
+      "gate": "core.causal_legibility",
+      "state": "FAIL",
+      "evidence": "The grade is causally developed from records, index, list, map, dividers, and straightedges, and the Force demonstration is physically legible. The contract's own arithmetic is not: its components yield nine wall-counted practitioners while the prose twice calls the total ten; see F-B8-CH17-002."
+    },
+    {
+      "gate": "core.earned_resolution",
+      "state": "PASS",
+      "evidence": "The taxonomy pays Ch5's unread marks and B7's alignment with tools and records already established. Force solves only a stuck cart in a deliberate civil demonstration, and its line, range, support requirement, and recoil are shown in the same movement rather than used as an unearned escape."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "FAIL",
+      "evidence": "Vastin's knee advances from day sixteen to seventeen; Brom's shoulder, Karis's hand, Lira's two-arm state, Teague's crew, the mule's absence, cash, fragments, and documents persist. Brom's still-managed puncture wound is present in the prior chapter but receives no recurrence or explicit resolution across this three-day walking chapter; see F-B8-CH17-004."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The group moves from departure and an unread designation to an age taxonomy, a located third-tier destination, a priced joint force, observed Force mechanics, and a committed route toward Millrace. Cael also accepts Teague's superior field command without softening the ledger."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter uses the series' own cataloguing, procedural emotion, object-weight, and dry dialogue without naming or detectably imitating an influence author."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the bridge, road, plank, cart, Force line, table, dates, cash, fragments, and alignment. Cleon speaks through work, Pike through the board, Teague through field prices, Karis through evidentiary limits, and Vastin through learned restraint; the log remains a plain first-person in-world document."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Border surveillance is felt through a factor's ledger and prior questions; reputation changes through Pike's blanks and season line; command is allocated through a contract; Force is taught by freeing a cart; and historical taxonomy emerges by physically aligning office sheets, dividers, marks, and two straightedges."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "FAIL",
+      "evidence": "No new name or unapproved tier meaning is minted, and the Court remains unnamed. Reveal scope fails because Teague hears copied leaf content beyond the permitted bearing and site ages; see F-B8-CH17-001."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Checked aloud against craft/NAME_REGISTRY.md: Cael, Cleon, Karis, Brom, Lira, Seln, Vastin, Oryn, Pike, Teague, Treswick, Lowmarch, Millrace, Ternhall, Denvash, Ring, Stair, and Hall are established or packet-approved. Cael/Cleon (KAYL/KLEE-on) and Teague/Ternhall (TEEG/TERN-hall) remain distinct at speed; no new or reserved name appears."
+    },
+    {
+      "gate": "audio.typography_and_system_text_survival",
+      "state": "PASS",
+      "evidence": "Italics decorate emphasis and documents but do not carry indispensable distinctions alone. No system block or fragment notice renders. The grade names, marks, directions, counts, and final log remain intelligible when spoken."
+    },
+    {
+      "gate": "audio.dialogue_attribution",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked in the Cleon goodbye, factor yard, Pike/Teague plank, Force aftermath, and seven-person grade-room scene. The longest run in a 3+ speaker scene is one unattributed dialogue turn; every other turn is tagged or anchored by immediate speaker action. No run exceeds four."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-08/drafts/ch17.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. wc -w returns 5,238 including the H1 and 5,232 for the body, within the 3,910-5,290 tolerance band."
+    },
+    {
+      "gate": "production.anti_tic_counts",
+      "state": "FAIL",
+      "evidence": "Actual case-insensitive counts are reported as Chapter 17 / Chapters 1-17 / all 24 existing draft files: jaw tightened 0/0/0; laughed once 0/0/0; without humor 0/0/0; stomach tightened 0/0/0; stomach dropped 0/0/0; There it was 0/0/0; That was true 0/2/2; Also true 0/0/0; sounded almost 0/0/0; held this 0/0/0; which was, in its own way, 0/0/0; standalone '[Name] noticed.' 0/0/0. Chapter-level supplemental counts: one-word paragraphs 2 ('Noted.', line 51; 'And.', line 63), exactly at cap; broad 'the way X' constructions 2, under cap 4; 'upside down' 0; 'for the length of a breath' 0; 'at the pitch' 0. An unlisted beat phrase, 'Nobody said anything', is 1/9/13 and therefore breaches the charter's general three-per-book law; see F-B8-CH17-005."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 16 ends on dialogue ('I want to stand in the middle of it.'). Chapter 17 ends on a Power Log entry. The adjacent final-beat types differ, and nothing follows the fixed log."
+    },
+    {
+      "gate": "reader_standard",
+      "state": "PASS",
+      "evidence": "The banned-word grep returns zero. There is no gore, sexual content, innuendo, cruelty-as-spectacle, or profanity. The chapter prices honesty, restraint, work, care, and earned authority through conduct rather than praise."
+    },
+    {
+      "gate": "state.fragment_inventory",
+      "state": "PASS",
+      "evidence": "The opening and closing both carry twelve, matching Chapter 16 and STATE_RUNNING after the Rune-adjacent acquisition. No fragment is added, used, or integrated; Force is only witnessed for Chapter 19. The still place is correctly not invoked."
+    },
+    {
+      "gate": "state.injury_inventory",
+      "state": "FAIL",
+      "evidence": "Carried correctly: Vastin's right knee (day 16 at departure, day 17 at the cut), Brom's shoulder, Karis's bound hand, Lira's released arm, and Teague's established wrist/crew limp. Brom's punctured foot was still managed in Ch14 and physically marked in Ch16, but a full-draft search for Brom with foot/boot/tooth/binding in Ch17 returns zero; see F-B8-CH17-004."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement occurs. The fragment count remains twelve and Teague's Force is observed, not integrated."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Force's recoil is immediate and specific: Teague's wrist clicks, the cloth is ready, and he warns against a second required use. The joint expedition also costs command autonomy and shares."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "The chapter's progress changes route, command, trust, secrecy, obligation, and the size of the field unit, not merely a displayed number."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No major victory occurs. Teague's established Force Path handles a low-stakes cart demonstration after its support line, range, and recoil are made visible."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague has wintered on his own clock, kept the spring term, states command terms, demonstrates his Path, and remains the better field captain. Pike opens the season by his board's rule, and the Compact records continue to disclose an institutional history independent of Cael."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "Chapter 16's emotional acceptance gives way to dated travel, contract negotiation, civil capability demonstration, and document-driven taxonomy. The problem is not a numeric escalation of a prior scene."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The prior cut changes Vastin's behavior: he tests the knee slowly, puts the stick back down, and later adopts Cael's 'Noted.' Teague's recoil history produces a practiced wrap and a tactical warning."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The grade solution traces to Ch5's marks and records, B7's aligned sites and two edges, Cleon's copied list, and the packet-approved dividers. The capability demonstration resolves only the cart and states the governing mechanism in the same scene."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Force is bounded on first full demonstration: bodily line only, contact/body-length range, a required object and ground to push against, and recoil through the same frame."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named person, place, Path, faction, or subsystem is introduced. Existing records, board, Force, instruments, crew, and sites are extended."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: leave Treswick with an honest count and return to the bearing. Delivery: Lowmarch receives the return, Teague's contract is made, Force is priced, the grade is cracked, and the log commits the line to its end."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The age taxonomy pays the known marks, dates, kit index, alignment, copied list, and straightedges. The third-tier site is located from an existing office bearing and distance rather than coincidence."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The grade inquiry receives an answer bounded as observation; the spring-term promise receives a contract; the departure milieu leaves Treswick and reaches Lowmarch; the rival thread advances as command tension rather than friendship."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "The long grade explanation remains attached to fingers, paper, ruled boxes, map circles, dates, divider points, brass edges, shadows, hands, and the table. Concrete mechanism outweighs abstract exposition."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is a first review of a fresh draft; per-book revision-pass history is not established by the manuscript."
+    },
+    {
+      "gate": "author.09_to_16_combat_gates",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The cart demonstration is a civil set piece rather than combat, so drawable combat geography, combat tempo, masked fighter style, pre-blow stakes, tactical escalation, and a combat win-sentence do not govern it."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank or fragment delta occurs. Force's cost is visible, but the scene does not claim growth."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No major fight win occurs in this chapter."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague arrives through his own kept promise, retains superior field command, has a crew with practiced recoil procedure, and moves from wintering rival to contracted captain without becoming a friend."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Progress appears socially in Pike's open columns, the started season, Teague's stated command, shares, Karis's protected research share, and the rival clock."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box renders. The records, board entry, and final log each have an explicit in-world owner and reason for being read or written."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutions are shown acting through registry forms, grade boxes, copied hands, stamps, board columns, season rules, and shares rather than through a free-standing speech about injustice."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The animal looking back at the moved cart and Vastin's 'Two words' exchange are dry character beats, not humor used under stakes to erase consequence."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Part 3's designated no-deflection checkpoint is Chapter 22, not Chapter 17. Cael nevertheless prices Teague and the contract without deflection."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The consent/moral-cost thread is not at an assigned checkpoint and no contact reading or integration occurs."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B8-CH17-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "prohibited disclosure / leaf content told to Teague",
+      "gate": "obligations.prohibited_outcomes",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch17.md",
+        "line_start": 135,
+        "line_end": 143,
+        "quote": "Six at the table, and Teague at the door, standing, because he had said he did not read and had come anyway.\n\n\"The marks,\" Karis said.\n\nShe said it to the sheets, with her bound hand flat on the first row and her good hand on the one page that had ridden on top of the case since the spring, the citation, a title and a place, and then she began, and he had the whole of it in the log by the end and could not afterward have said in what order she had said it, because she had said it in the order the sheets came, and the office had not known what it was filing.\n\nThe four sites the crew had walked had the same mark by the stamp, the stroke and the bar, the fourth's twice the size; he had that from the spring, and had not had what it meant, and neither had she, and she had carried the not-knowing for eighteen days without pretending it was anything else. There were two other marks. On the sheets for the sites nobody had heard named, in the same corner: a stroke alone, on none of them — she turned the whole cover through and there was not one — but the form had a box ruled for it, empty, and a form does not rule a box for a thing that does not exist. And a stroke and *two* bars, on one sheet. One. She put her finger above it, not on it.\n\n\"Three marks. One's never used, but the form's built for it. One's on our four. One's on this.\" The finger did not move. \"The kit's index grades its stakes — first, second, third. I've had that since the Ring and not known what to do with it. The dead man graded his own work.\" The good hand went to the ledger, to a column he had looked at forty times and taken for a tally. \"And Cleon's list names the mark at the kindling and the mark on a sheet in the same line, as the same kind of thing. A mark is a grade. The one they give a boy at fourteen says what he's *for*.\" Her voice did not change on that; he noted that it did not. \"The one on a sheet says how *old* the thing is.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch17-editor-prompt-r1.md",
+        "line_start": 464,
+        "line_end": 464,
+        "quote": "SEALED: the reveal is the crew's; at Pike's plank and to Teague, nothing of the leaf beyond 'a survey read and a bearing'; Teague hears the bearing and the sites' ages (the contract's terms), not the Architect; no Arbiter=apparatus; no still place."
+      },
+      "consequence": "Teague is explicitly present for Karis's whole derivation and hears her identify Cleon's copied list as the source connecting the kindling mark to the site mark. That is leaf content, not merely the permitted bearing and site ages. The breach gives a rival access to part of the crew's sealed historical method and directly contradicts both the knowledge boundary and prohibited-outcome clause.",
+      "repair_target": "Keep Teague's knowledge to the bearing, age classes, site order, and contract terms; preserve the copied leaf-list as crew-only method evidence.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH17-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "count / central contract arithmetic",
+      "gate": "authority.canon_timeline_state",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch17.md",
+        "line_start": 87,
+        "line_end": 87,
+        "quote": "\"Ten of us on a wall's count. That's you six less your researcher, who doesn't fight and doesn't have to, and my four. Healers don't go on a wall's count and mine won't thank you for putting her on it.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch17-editor-prompt-r1.md",
+        "line_start": 460,
+        "line_end": 462,
+        "quote": "TEAGUE: rival captain; Force Path, Bronze by a registry he stopped reporting to; his crew four (the tall woman with the spear; the broad man with the crossbow and the limp; the young one) plus the healer of no Path — unnamed by design; wintered at Lowmarch; 'Spring. Whatever's on that bearing. My crew comes.' / 'Noted.' (B7 Ch24). FORCE PATH (reference): impulse through the frame at contact or a body's length; civil face labour; limits — line-of-body only; needs something to push against; RECOIL through the practitioner's frame (Teague at forty has a wrist that clicks). SHOW it once on the page here (a cart, a log, a demonstration in the yard) with the recoil visible, before Ch19's integration.\n\nPike: the board; the sheet; the season line still blank; the five (six? Oryn north) eleventh; the crew's return entered as it happened ('Treswick. The archive read.' — the board writes what gets done; what the crew SAYS at the plank about the archive: nothing of the leaf; 'a survey read' at most).\n\nOryn is NOT here (Millrace, Ch18); Lira two-armed; Brom's shoulder; Vastin's knee (a month running from the 279th; nearly up); Karis's hand; the mule."
+      },
+      "consequence": "The stated components are six present travelers minus Karis, plus Teague's four practitioners: 6 - 1 + 4 = 9. The healer is separately excluded and Oryn is absent. The draft repeats 'Ten on a wall's count' at line 103, so the error governs shares, field strength, and the chapter's central contract rather than reading as a single verbal slip. Ten practitioners are present only if Karis is included; ten wall-counted fighters are not.",
+      "repair_target": "Reconcile the total, the definition of wall count, and the contract's share count while preserving the fixed closing log's accurate broader statement that there are ten practitioners now.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH17-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "missing required taxonomy meaning",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch17.md",
+        "line_start": 141,
+        "line_end": 149,
+        "quote": "The four sites the crew had walked had the same mark by the stamp, the stroke and the bar, the fourth's twice the size; he had that from the spring, and had not had what it meant, and neither had she, and she had carried the not-knowing for eighteen days without pretending it was anything else. There were two other marks. On the sheets for the sites nobody had heard named, in the same corner: a stroke alone, on none of them — she turned the whole cover through and there was not one — but the form had a box ruled for it, empty, and a form does not rule a box for a thing that does not exist. And a stroke and *two* bars, on one sheet. One. She put her finger above it, not on it.\n\n\"Three marks. One's never used, but the form's built for it. One's on our four. One's on this.\" The finger did not move. \"The kit's index grades its stakes — first, second, third. I've had that since the Ring and not known what to do with it. The dead man graded his own work.\" The good hand went to the ledger, to a column he had looked at forty times and taken for a tally. \"And Cleon's list names the mark at the kindling and the mark on a sheet in the same line, as the same kind of thing. A mark is a grade. The one they give a boy at fourteen says what he's *for*.\" Her voice did not change on that; he noted that it did not. \"The one on a sheet says how *old* the thing is.\"\n\nShe laid it out with the dividers, and he watched a woman do with two brass legs what a whole office had not done with a building.\n\nNot old by the stone. Old by the *paper*. The records dated each site by its first sheet — the first time a stake had been stamped, the first time anybody with a pen had walked to it and written it down — and she read the dates off in the order the rows came, and set the dividers on the map at each circle as she read.\n\nThe Ring: sixty-one years on the sheet. The Stair: ninety-four. The Hall: a hundred and thirty-eight. The fourth: two hundred and six, in a hand that formed its letters as hands had formed them before the current office's clerks were taught. All four second-tier. *Stable across generations* — the form's own words, in the box beside the mark, which he had read at the spring and taken for a clerk's habit, and which was the whole of the classification: a site walked to and found the same by more than one generation of pen."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch17-editor-prompt-r1.md",
+        "line_start": 481,
+        "line_end": 481,
+        "quote": "THE GRADE CRACKED as document work at Lowmarch's table: the records' marks are grades by documented age; first-tier recent (none found); second-tier generations-stable (the four, the same mark); third-tier centuries-stable (one in the records, on the bearing past the fourth, documented back to the deployment); the bearing ascends in age oldest-last. Observational; someone graded and ordered them; not why. The two straightedges and the dividers on the map."
+      },
+      "consequence": "A full-draft search for the standalone word 'recent' and for 'first-tier' returns zero. The prose establishes an unused first mark and explicitly defines the second and third grades, but the required first-tier meaning is absent. It also dates the third tier to the first office sheet rather than explicitly giving the packet's deployment anchor. The reader therefore receives only two of the three promised definitions in the taxonomy-cracking scene.",
+      "repair_target": "Make the required first-tier meaning and the third-tier deployment anchor legible within Karis's observational limits, without adding a first-tier site or a theory of purpose.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH17-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "injury persistence / Brom's foot",
+      "gate": "core.continuity_persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch17.md",
+        "line_start": 5,
+        "line_end": 7,
+        "quote": "Karis first, with the case under her arm and the copies inside it — the leaf's front and back, the gap drawn where the gap was, and the list of parts, which had taken the whole of the day before and had been finished at the bell with Cleon's finger on the last line — and the ledger inside her coat, and the notebook in the bound left hand because it could hold that. Brom with the kit and the first box on the good shoulder and the other shoulder carried, still and slightly forward, in the set it had kept since a hall in the autumn. Lira with the third box and two arms to carry it. Seln at the back with the cache and his eyes on the gate behind them, counting who came out of it. Vastin with the stick, and the right knee bound under the trouser, and sixteen days of a month gone on it, and the weight going onto it a little more each morning than the morning before, which Oryn was not there to forbid. And himself, with the middle box, and the straightedge inside his coat and the dividers beside it, and twelve things held to nothing, and a page copied from a leaf that said what he was, folded flat against the log where the letters went.\n\nSix, and no mule; the mule was north with a healer, and the boxes were on their backs as they had been on this bridge the other way, on the two hundred and eighty-second."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 13,
+        "line_end": 13,
+        "quote": "Brom on the shed's step with the foot out."
+      },
+      "consequence": "The previous chapter still marks Brom's foot physically, and Ch14's injury inventory says 'Brom's foot walks' rather than closing the puncture wound. Chapter 17 inventories Brom at departure, walks him and a box for three days, and revisits the cut where the tooth went through his boot, yet a full search of the draft finds no Brom-foot/boot/tooth/binding recurrence and no explicit resolution. In an injury-accounting series, the wound disappears at the exact travel beat most likely to expose it.",
+      "repair_target": "Recur or explicitly close Brom's foot state during the departure inventory, road leg, or cut passage, consistent with the prior keep-it-dry instruction and elapsed healing time.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH17-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "repetition / unlisted beat-phrase tic",
+      "gate": "production.anti_tic_counts",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch17.md",
+        "line_start": 163,
+        "line_end": 163,
+        "quote": "Nobody said anything. He had had the row since she said the Ring's number and saw the order it would make, and had held it, as he held the twelve, to nothing, until she said it aloud, because a count that is said aloud is a different count from one that is held."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch17-editor-prompt-r1.md",
+        "line_start": 2099,
+        "line_end": 2103,
+        "quote": "These phrases reached watermark density in a sibling universe's books. They are capped here before they take root. **Rule: any somatic/beat phrase appearing more than 3 times per book is a defect** — including new phrases invented to replace an old one. Fixing a tic with a fresh repeated phrase is the same defect wearing a different coat; vary the replacement or cut the beat."
+      },
+      "consequence": "A case-insensitive literal count over v3-runs/book-08/drafts/ch01.md through ch17.md returns nine instances of 'Nobody said anything'; the current chapter contributes one. Counting all 24 existing draft files returns thirteen. The phrase repeatedly performs the same silence-after-revelation beat and is already three times the allowed book total by this chapter, so its use here reads as a house watermark rather than a fresh silence.",
+      "repair_target": "Remove or vary this chapter's silence beat; schedule the remaining book-level excess for the line pass rather than substituting a single new repeated formula.",
+      "confidence": "HIGH"
+    }
+  ],
+  "strengths": [
+    "Yes: the worldbuilding is done through mechanism and use. Pike's board turns a return into a line with deliberately open price and outcome columns; Teague's authority becomes shares and field jurisdiction; Force becomes heel-to-palm alignment, a hub-deep rut, firm ground, a body's length, and a clicking wrist; the grade becomes a physical operation with records, ruled boxes, dividers, dates, and brass edges.",
+    "There is no fight, appropriately. The Force demonstration is nevertheless a memorable set piece because terrain is load-bearing: the wheel is hub-deep in soft spring ground, Teague must root on firm ground, the cart moves only along his frame's line, and recoil returns through the same wrist. Its functional win sentence is: Teague removed the cart's inability to clear the rut by routing impulse from firm ground through his aligned frame into the tail-board. The wrist click receipts the win immediately.",
+    "The grade-reading is the chapter's stronger noncombat set piece. The divider point landing inside the straightedge's shadow turns an abstract archive finding into a visible, audible click of certainty, while Karis's 'That's all they say' discipline protects the mystery from explanatory sprawl.",
+    "Teague remains a rival rather than being softened into a convenient ally. 'Field's mine. ... The reading's hers,' the moved jug, the waiting cloth, and Cael's admission that the gap has not closed all preserve independent competence and a live clock.",
+    "The road reversal carries emotional consequence through objects and procedures: the unlooked-at crown, five bridge piers, Cleon's locked door, Vastin standing once where his plane stood, and the absent mule all make departure feel changed without naming a feeling.",
+    "The final log matches the packet's fixed text with the authorized grandmother correction and ends the file cleanly. It converts the document discovery into changed pressure and differs from Chapter 16's dialogue close."
+  ],
+  "concerns": [
+    "Taste only: line 165 moves from the supported finding — the records' first-sheet dates increase eastward — to 'the paper had been laid down in the order the stone had been.' The packet requires the conclusion that somebody ordered the sites, so this is not filed as a defect, but the causal 'because' sounds more certain than the surviving documents can independently prove and slightly undercuts Karis's immediate insistence on observation rather than meaning.",
+    "Taste only: the chapter is 5,232 body words, just 58 below the upper tolerance boundary. The contract-pricing paragraph at line 101 and the Force interpretation at lines 119-127 each restate subtext the actions already carry. A later compression pass could test those passages carefully without touching the fixed log, the contract's distinct voices, or the cart's physical receipts.",
+    "Taste only: 'He had meant the other thing, and Cael had taken it as the other thing' explains Cleon's 'Mind the stair. It leans.' immediately after the oblique line lands. The goodbye may carry more of Cleon's register if a later line pass trusts the literal stair and Cael's 'Noted.' to hold the second meaning on their own."
+  ]
+}

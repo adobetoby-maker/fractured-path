@@ -1,0 +1,237 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch17",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 17 card — The Straightedge; Part 3 opens; Chapter 18 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–16' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen. Departure from Treswick on the 294th or 295th (Cleon's 'list of parts' work a day more; Karis copies what she needs; the leaf stays with Cleon); the border road east three days (the cut passed; the shoulder hold; the spring) to Lowmarch on ~the 297th–298th; Lowmarch's board; Teague's crew; then the Stair road a day south to Millrace (Ch18 is AT Millrace). Twelve fragments. Cash 130 minus the road.",
+      "THE GRADE (taxonomy, PROVISIONAL — cracked HERE): the same stroke-and-bar mark on the four known sites is the SECOND-TIER mark; the records carry other marks on other sheets (sites the crew never found) — Karis reads the Compact's grading against the kit's index and the leaf's 'list of parts' (copied from Cleon's leaf: the apparatus's parts named, and among them the ordering of the sites by age? — keep it to: the records grade sites by documented AGE and stability; first-tier recent (NONE found; the mark exists in the records for none of the four); second-tier generations-stable (the four); third-tier centuries-stable, documented back to the deployment — one such site is in the records, on the bearing, past the fourth). The bearing ascends in age oldest-last into the deep edge. She says what the records say; not why.",
+      "THE COURT is not named yet (Ch20/Ch23 name it); here it is 'a third-tier site on the bearing, past the fourth, in the records, quiet for centuries'.",
+      "TEAGUE: rival captain; Force Path, Bronze by a registry he stopped reporting to; his crew four (the tall woman with the spear; the broad man with the crossbow and the limp; the young one) plus the healer of no Path — unnamed by design; wintered at Lowmarch; 'Spring. Whatever's on that bearing. My crew comes.' / 'Noted.' (B7 Ch24). FORCE PATH (reference): impulse through the frame at contact or a body's length; civil face labour; limits — line-of-body only; needs something to push against; RECOIL through the practitioner's frame (Teague at forty has a wrist that clicks). SHOW it once on the page here (a cart, a log, a demonstration in the yard) with the recoil visible, before Ch19's integration.",
+      "Pike: the board; the sheet; the season line still blank; the five (six? Oryn north) eleventh; the crew's return entered as it happened ('Treswick. The archive read.' — the board writes what gets done; what the crew SAYS at the plank about the archive: nothing of the leaf; 'a survey read' at most).",
+      "Oryn is NOT here (Millrace, Ch18); Lira two-armed; Brom's shoulder; Vastin's knee (a month running from the 279th; nearly up); Karis's hand; the mule.",
+      "The faceless team: behind them in Treswick; they know the crew's movements; the road east watched? (Ch21's last reach is on the road to the Court — do not stage a reach here; a watched feeling at most.)",
+      "SEALED: the reveal is the crew's; at Pike's plank and to Teague, nothing of the leaf beyond 'a survey read and a bearing'; Teague hears the bearing and the sites' ages (the contract's terms), not the Architect; no Arbiter=apparatus; no still place.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD."
+    ]
+  },
+  "purpose": "Part 3 opens on decode and departure: the crew leaves Treswick (the archive read; the station and the faceless team behind them) and turns back east — the leg DATED in the log the series uses for skips: Treswick to Lowmarch three days; Lowmarch to Millrace a day south on the Stair road. On the road and at Lowmarch's table Karis, with the two straightedges and the dividers and the records and the kit's ledger on one table, cracks the GRADE: sites classed by documented AGE — first-tier recent (none found), second-tier generations-stable (Ring, Stair, Hall, the fourth — all with the same mark), third-tier centuries-stable (documented back to the deployment); and the bearing, run through the grade, ascends in age along its length, oldest at the far end, into the deep edge. Observational only: someone graded and ordered them long ago; not why. Teague's crew rendezvous at Lowmarch per the spring term: ten practitioners plus a healer of no Path — the strongest independent force the edge has carried; priced honestly (Teague the better field captain; the rival clock; a contract, not a friendship); Force Path shown on Teague (with its recoil-cost) before Ch19. Close on the log with the card's fixed text, with the one authorized correction: the straightedge line was Cael's GRANDMOTHER's (B7 Ch24: 'Your grandmother said a man who catalogues everything eventually needs to draw a line through it'), not Hesk's.",
+  "scene_shape": {
+    "opening_state": "Treswick's bridge at first light on the departure day, the city behind them with its light on the crown (not looked at), Cleon at the iron door the evening before with the leaf on his shelf and the crew's copies in Karis's flat — his goodbye in his register (work, not a finding); the border road east, dated by the wayposts counting up toward Lowmarch.",
+    "pov_goal": "Cael wants the road to be a road and the count to be honest — the days, the miles, the money — and to watch a woman crack a grade with two brass edges and a pair of dividers on a table, which is the thing the tools were for.",
+    "opposition": "The road (three days; the cut; the shoulder hold's factor asking after the pack); the grade itself; Teague's rival clock; the price of ten practitioners walking into the deep edge; the sense of being known.",
+    "turn": "At Lowmarch's table (the lower inn; the back room where the sheets breathed all winter) Karis lays the records, the kit's ledger, the leaf's copied list, the map, the two straightedges and the dividers, and cracks it: the marks are grades by AGE; the four are second-tier; the records hold a third-tier site on the bearing past the fourth; the bearing ascends in age oldest-last into the deep edge. Then Teague at the plank: 'Spring.' The contract priced.",
+    "choice": "Cael says nothing of the leaf at the plank or to Teague — 'a survey read, and a bearing' — because the leaf is the crew's and a rival's contract is a contract; and he takes Teague's crew's price honestly, including that Teague is the better field captain and the ledger says so.",
+    "outcome": "Two crews and a healer of no Path, twelve counting the crew's six with Oryn to come at Millrace, on one bearing; the taxonomy known; the oldest site last; Force shown; the road south to Millrace tomorrow.",
+    "closing_state": "LOG — the card's fixed text with the one authorized correction (the grandmother): \"Karis cracked the grade. The sites are ranked by age and the bearing runs oldest-last — somebody laid them out in order, and the order runs into the deep edge, toward the first one they ever made. Second-tier's the fourth site, the one the Compact fenced. Third-tier's out past it, on the line, quiet for centuries. Teague's crew came for spring like he said — ten of us now, and he's still better at this than I am, and the ledger still says so. Two crews, one bearing, and a straightedge my guardian sent me because my grandmother said a man who catalogues everything eventually needs to draw a line through it. Turns out she was right about the line. Turns out the line was already drawn four hundred years ago. We're just the first to follow it to the end.\" The file ends on it."
+  },
+  "obligations": {
+    "must_include": [
+      "Departure from Treswick dated; Cleon's goodbye in his register (the leaf stays; the copies go; 'work, not a finding'); the light not looked at; the road east DATED by the wayposts and the halts — three days to Lowmarch; the cut passed; the shoulder hold's factor.",
+      "THE GRADE CRACKED as document work at Lowmarch's table: the records' marks are grades by documented age; first-tier recent (none found); second-tier generations-stable (the four, the same mark); third-tier centuries-stable (one in the records, on the bearing past the fourth, documented back to the deployment); the bearing ascends in age oldest-last. Observational; someone graded and ordered them; not why. The two straightedges and the dividers on the map.",
+      "Teague's rendezvous per the spring term; the contract priced honestly (Teague the better field captain; the rival clock; a contract not a friendship); the crews' count; the healer of no Path.",
+      "FORCE PATH shown on Teague once with its recoil visible (a wrist that clicks) — before Ch19.",
+      "Pike's board entering the return as what got done; nothing of the leaf said at the plank or to Teague.",
+      "Vastin's month on the knee nearly up; Lira's arm; Brom's shoulder; Karis's hand — carried.",
+      "Close on the LOG with the fixed text and the authorized grandmother correction; the file ends on it.",
+      "READER STANDARD checked."
+    ],
+    "plants": [
+      "The third-tier site on the bearing (the Court, unnamed) — Ch20/23.",
+      "Force's recoil — Ch19's integration; Ch21's exchanges.",
+      "Teague's crew as a unit — Ch21's death.",
+      "Millrace tomorrow — Ch18's rendezvous with Oryn."
+    ],
+    "payoffs": [
+      "Ch5's 'I can't read either one' — read.",
+      "B7 Ch24's spring term — kept.",
+      "Hesk's two tools — used on a map together."
+    ],
+    "prohibited_outcomes": [
+      "No leaf content told to Pike or Teague; no Architect; no Arbiter=apparatus; no still place.",
+      "No Oryn (Ch18); no Millrace reached; no Span; no reach.",
+      "No Force integration (Ch19).",
+      "No image/dialogue closer; the closer is the LOG.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The road east's halts and their dates; the factor's question about the pack; Lowmarch in spring (the meadow full; the board's sheet); Teague's demonstration of Force (a cart, a stone) and his wrist; the contract's terms (shares by count; who leads in the field).",
+      "The records' other marks (first-tier; third-tier) as Karis reads them — no site placed except the third-tier one on the bearing past the fourth."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any tier meaning beyond age/stability."
+    ],
+    "forbidden": [
+      "Any naming of the Court; any theory of who graded them or why."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 16 (What It Was For)",
+      "path": "v3-runs/book-08/drafts/ch16.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 5 — the grade seen and unread; the records' form",
+      "path": "v3-runs/book-08/drafts/ch05.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 24 — Pike's plank; Teague's term; Hesk's note ('Your grandmother said…'); the map with two straightedges",
+      "path": "books/book-07-void-roads/chapters/chapter-24.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 17 — Teague's crew at Lowmarch; his register",
+      "path": "books/book-07-void-roads/chapters/chapter-17.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 18 card — The Route North (Millrace; Oryn's rejoin; the deep reading) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "F-B8-CH17-001",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes",
+      "evidence": "Six at the table, and Teague at the door, standing, because he had said he did not read and had come anyway.\n\n\"The marks,\" Karis said.\n\nShe said it to the sheets, with her bound hand flat on the first row and her good hand on the one page that had ridden on top of the case since the spring, the citation, a title and a place, and then she began, and he had the whole of it in the log by the end and could not afterward have said in what order she had said it, because she had said it in the order the sheets came, and the office had not known what it was filing.\n\nThe four sites the crew had walked ",
+      "consequence": "Teague is explicitly present for Karis's whole derivation and hears her identify Cleon's copied list as the source connecting the kindling mark to the site mark. That is leaf content, not merely the permitted bearing and site ages. The breach gives a rival access to part of the crew's sealed historical method and directly contradicts both the knowledge boundary and prohibited-outcome clause.",
+      "repair_target": "Keep Teague's knowledge to the bearing, age classes, site order, and contract terms; preserve the copied leaf-list as crew-only method evidence."
+    },
+    {
+      "id": "F-B8-CH17-002",
+      "severity": "HIGH",
+      "gate": "authority.canon_timeline_state",
+      "evidence": "\"Ten of us on a wall's count. That's you six less your researcher, who doesn't fight and doesn't have to, and my four. Healers don't go on a wall's count and mine won't thank you for putting her on it.\"",
+      "consequence": "The stated components are six present travelers minus Karis, plus Teague's four practitioners: 6 - 1 + 4 = 9. The healer is separately excluded and Oryn is absent. The draft repeats 'Ten on a wall's count' at line 103, so the error governs shares, field strength, and the chapter's central contract rather than reading as a single verbal slip. Ten practitioners are present only if Karis is included; ten wall-counted fighters are not.",
+      "repair_target": "Reconcile the total, the definition of wall count, and the contract's share count while preserving the fixed closing log's accurate broader statement that there are ten practitioners now."
+    },
+    {
+      "id": "F-B8-CH17-003",
+      "severity": "MEDIUM",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "evidence": "The four sites the crew had walked had the same mark by the stamp, the stroke and the bar, the fourth's twice the size; he had that from the spring, and had not had what it meant, and neither had she, and she had carried the not-knowing for eighteen days without pretending it was anything else. There were two other marks. On the sheets for the sites nobody had heard named, in the same corner: a stroke alone, on none of them — she turned the whole cover through and there was not one — but the form had a box ruled for it, empty, and a form does not rule a box for a thing that does not exist. And",
+      "consequence": "A full-draft search for the standalone word 'recent' and for 'first-tier' returns zero. The prose establishes an unused first mark and explicitly defines the second and third grades, but the required first-tier meaning is absent. It also dates the third tier to the first office sheet rather than explicitly giving the packet's deployment anchor. The reader therefore receives only two of the three promised definitions in the taxonomy-cracking scene.",
+      "repair_target": "Make the required first-tier meaning and the third-tier deployment anchor legible within Karis's observational limits, without adding a first-tier site or a theory of purpose."
+    },
+    {
+      "id": "F-B8-CH17-004",
+      "severity": "MEDIUM",
+      "gate": "core.continuity_persistence",
+      "evidence": "Karis first, with the case under her arm and the copies inside it — the leaf's front and back, the gap drawn where the gap was, and the list of parts, which had taken the whole of the day before and had been finished at the bell with Cleon's finger on the last line — and the ledger inside her coat, and the notebook in the bound left hand because it could hold that. Brom with the kit and the first box on the good shoulder and the other shoulder carried, still and slightly forward, in the set it had kept since a hall in the autumn. Lira with the third box and two arms to carry it. Seln at the ba",
+      "consequence": "The previous chapter still marks Brom's foot physically, and Ch14's injury inventory says 'Brom's foot walks' rather than closing the puncture wound. Chapter 17 inventories Brom at departure, walks him and a box for three days, and revisits the cut where the tooth went through his boot, yet a full search of the draft finds no Brom-foot/boot/tooth/binding recurrence and no explicit resolution. In an injury-accounting series, the wound disappears at the exact travel beat most likely to expose it.",
+      "repair_target": "Recur or explicitly close Brom's foot state during the departure inventory, road leg, or cut passage, consistent with the prior keep-it-dry instruction and elapsed healing time."
+    },
+    {
+      "id": "F-B8-CH17-005",
+      "severity": "MEDIUM",
+      "gate": "production.anti_tic_counts",
+      "evidence": "Nobody said anything. He had had the row since she said the Ring's number and saw the order it would make, and had held it, as he held the twelve, to nothing, until she said it aloud, because a count that is said aloud is a different count from one that is held.",
+      "consequence": "A case-insensitive literal count over v3-runs/book-08/drafts/ch01.md through ch17.md returns nine instances of 'Nobody said anything'; the current chapter contributes one. Counting all 24 existing draft files returns thirteen. The phrase repeatedly performs the same silence-after-revelation beat and is already three times the allowed book total by this chapter, so its use here reads as a house watermark rather than a fresh silence.",
+      "repair_target": "Remove or vary this chapter's silence beat; schedule the remaining book-level excess for the line pass rather than substituting a single new repeated formula."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "EXC-B8-CH17-1",
+      "approver": "Planning rulings rows 16–23 (the mule north with Oryn — the crew has none until Millrace; Vastin's rounding; the chapter clock).",
+      "scope": "Planning rulings rows 16–23 (the mule north with Oryn — the crew has none until Millrace; Vastin's rounding; the chapter clock).",
+      "authority": "Planning rulings rows 16–23 (the mule north with Oryn — the crew has none until Millrace; Vastin's rounding; the chapter clock).",
+      "reason": "Planning rulings rows 16–23 (the mule north with Oryn — the crew has none until Millrace; Vastin's rounding; the chapter clock)."
+    },
+    {
+      "id": "EXC-B8-CH17-2",
+      "approver": "THE WALL'S COUNT (planning ruling, row 24): ten = the crew's six, Karis included (a wall counts who walks a site), plus Teague's four (Teague and three); healers are not on the count. The fixed log's 'ten of us now' is this count.",
+      "scope": "THE WALL'S COUNT (planning ruling, row 24): ten = the crew's six, Karis included (a wall counts who walks a site), plus Teague's four (Teague and three); healers are not on the count. The fixed log's 'ten of us now' is this count.",
+      "authority": "THE WALL'S COUNT (planning ruling, row 24): ten = the crew's six, Karis included (a wall counts who walks a site), plus Teague's four (Teague and three); healers are not on the count. The fixed log's 'ten of us now' is this count.",
+      "reason": "THE WALL'S COUNT (planning ruling, row 24): ten = the crew's six, Karis included (a wall counts who walks a site), plus Teague's four (Teague and three); healers are not on the count. The fixed log's 'ten of us now' is this count."
+    }
+  ],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch17.md",
+    "report_path": "v3-runs/book-08/reports/ch17-author-r2.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch17-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch17-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
