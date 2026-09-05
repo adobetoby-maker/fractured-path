@@ -1,0 +1,362 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch14-r1-editor",
+  "scene_id": "b8-ch14",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "READER STANDARD (Gate 27 — thirteen-year-old; outranks taste)",
+      "state": "PASS",
+      "evidence": "grep over the full draft for profanity/oaths (damn, hell, bastard, curse, devil, blasphemy) returns 0. No sexual content, no innuendo, no romance. No violence in the chapter at all; the only bodily risk is stated plainly and without relish ('mind the points; they'll go through a thumb as easy as a sheet', line 31). The meal is 'mutton and bread and water from the ring road's well' (line 41) — no drink. Moral conduct is the chapter's subject: a promise kept at cost (line 101), a seat kept for the absent (line 43), an outsider fed without being told he is being included (line 51)."
+    },
+    {
+      "gate": "TIC CAP — capped phrase 'for the length of a breath' (cap 0)",
+      "state": "FAIL",
+      "evidence": "3 exact occurrences (lines 91, 95, 97) plus 1 near-variant 'for the length of the breath' (line 101). Cap is 0. See F-CH14-001."
+    },
+    {
+      "gate": "TIC CAP — one-word paragraphs (cap 2)",
+      "state": "PASS",
+      "evidence": "awk 'NF==1' over the draft returns exactly 1: line 19, 'Dividers.'"
+    },
+    {
+      "gate": "TIC CAP — 'the way X [verb]' (cap 4)",
+      "state": "PASS",
+      "evidence": "3 occurrences, all different constructions: line 37 'the way the crew marked things'; line 47 'the way he did everything'; line 91 'in the way the cord had been wrong in his hands'. No verbatim repeat."
+    },
+    {
+      "gate": "TIC CAP — 'upside down' (cap 0)",
+      "state": "PASS",
+      "evidence": "grep -i 'upside down' returns 0. The scene_shape's own warning is honoured at line 33: 'Not the wrong way round; the right way up, as it came.'"
+    },
+    {
+      "gate": "TIC CAP — 'at the pitch' (cap 0)",
+      "state": "PASS",
+      "evidence": "grep -i 'at the pitch' returns 0."
+    },
+    {
+      "gate": "FORBIDDEN NAMES — Halcenvane / Velmere / Wray / Bracken",
+      "state": "PASS",
+      "evidence": "grep -iE 'Halcenvane|Velmere|Wray|Bracken' over the draft returns 0."
+    },
+    {
+      "gate": "'four hundred years' — 0 outside a record's date",
+      "state": "PASS",
+      "evidence": "grep -i 'four hundred years' returns 0. The station's age is carried as 'longer than the walls' (line 99) and 'older than the light' (line 111), which is the correct pre-Ch15 register."
+    },
+    {
+      "gate": "WORD BAND 3,910–5,290 (target 4,600 ±15%)",
+      "state": "PASS",
+      "evidence": "3,949 words excluding the chapter heading (3,954 counting it, matching the author report). In band by 39 words at the floor; see concerns."
+    },
+    {
+      "gate": "META-VOICE / authoring metadata (§8.4)",
+      "state": "PASS",
+      "evidence": "grep -E 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. No address to the reader, no chapter/scene/story self-reference in the prose."
+    },
+    {
+      "gate": "AUDIO SURVIVAL (§8.2, §8.3)",
+      "state": "PASS",
+      "evidence": "Two italic documents — Hesk's note (line 31) and the log (lines 73–79) — are each introduced in prose before they run ('The note was three lines.'; 'He wrote this one at the long table'), so both land read aloud. No brackets, tables, stat blocks or typography-only meaning."
+    },
+    {
+      "gate": "OBLIGATION — Hesk's letter and the DIVIDERS on the courier chain; only the dividers new; the straightedge companioned",
+      "state": "PASS",
+      "evidence": "Line 3 the runner and the copper paid; line 7 the oilcloth, the one-pull knot, the dry square hand and the courier chain named ferry-to-broker's-runner; line 21 the dividers described as an instrument-maker's second tool; line 31 the note; line 33 'the pocket where the straightedge was'. Only the dividers are new."
+    },
+    {
+      "gate": "OBLIGATION — the family's register: a meal priced, a ledger closed, a seat kept; no declared sentiment; Vastin at the table",
+      "state": "PASS",
+      "evidence": "Line 41 'Four, for five, and the empty chair gets nothing because it doesn't eat'; line 43 Karis's cup at Karis's place and a second cup for Oryn; line 47 Seln's slip read out and torn and burned, 'Closed'; line 49–51 Vastin at the table for a thing that was not work. Line 53: 'Nobody said what the meal was for.'"
+    },
+    {
+      "gate": "OBLIGATION — Karis below with Cleon on his seventh day; absence as characterization",
+      "state": "PASS",
+      "evidence": "Line 9: 'Today he tells me' at the yard door; 'had not come up at noon, and nobody had gone to see why, because a woman three days from the thing she had hunted her whole life was not a woman you went to see about.' She never returns to the page and reports nothing. Cleon's week began in Ch10 (the 284th–285th, 'Give me a week'), and Ch13 is 'the sixth day of his week' (the 291st), so the 292nd is the seventh — arithmetic holds."
+    },
+    {
+      "gate": "OBLIGATION — the log's first entry written INSIDE WALLS; the inventory's form kept (twelve; the still place; the cash; the promise)",
+      "state": "PASS",
+      "evidence": "Lines 69–79. The form matches B7 Ch24's inventory (day, place, count, money, bodies, things, the one line the year earned). All four required contents present: 'Twelve. Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide; Iron Wall, from a plane in a cut; Rune, from a lamp' (line 75) — twelve exactly, matching Ch7's ten currents plus Ch12's eleventh and Ch13's twelfth; 'The still place … not read, not touched'; 'A hundred and thirty in hand'; 'The promise stands.'"
+    },
+    {
+      "gate": "OBLIGATION — Book-11 plant 3, third instance: deniable, felt not seen, nobody else, logged with the still place / the cord / the row",
+      "state": "PASS",
+      "evidence": "Line 91 the light 'was not steady'; 'a thing he felt' not saw. Line 95 'Nobody, on a street with forty people on it, had felt' it. Line 97 files it as a fourth entry beside 'a still place a reading could not read; a cord that counted forty-one and a piece; a row of sheets that came out one short in his hands' — exactly the packet's three companions (Ch1's cord, Ch5's row, the still place). 'Deniable. Every one of the four was deniable.' No cause is named."
+    },
+    {
+      "gate": "OBLIGATION — the promise kept explicitly (not the steps, not the square; four tiers below)",
+      "state": "PASS",
+      "evidence": "Line 79: 'The promise stands. Not the steps. Not the square.' — exact string match against Ch6's written term (ch06.md line 63: 'inside Treswick I do not go near the station. Not the steps. Not the square.'). Line 87 'four tiers below the crown'; line 97 'and did not cross'; line 101 the promise costs him something for the first time."
+    },
+    {
+      "gate": "OBLIGATION — Cael NINETEEN; no birthday; no 'twenty'",
+      "state": "PASS",
+      "evidence": "Line 53: 'he was nineteen, and had been nineteen since a steading in the autumn, and the autumn was a long way off and would not find him here' — the revision's disclaimer written into the prose. Line 111 'Cael, nineteen'. grep for 'birthday' and 'twenty' returns 0."
+    },
+    {
+      "gate": "OBLIGATION — close on the IMAGE; no log closer, no dialogue closer",
+      "state": "PASS",
+      "evidence": "Lines 109–113 are the card's image (the outer district after the meal, the tiers counted up, the light on the crown, the turn down into the hole). The log sits mid-chapter (lines 73–79) and the only dialogue closes at line 67, well before. Closer type differs from Ch13's, satisfying §9's no-consecutive-repeat rule. The final clause is longer than the card's line — see F-CH14-008."
+    },
+    {
+      "gate": "PROHIBITED — no reveal, no Architect, no [UNBOUND], no Karis report",
+      "state": "PASS",
+      "evidence": "grep for 'Architect', 'UNBOUND', 'un-bound' returns 0. Karis is off-page from line 9 onward and reports nothing; the closing image leaves her still reading below."
+    },
+    {
+      "gate": "PROHIBITED — no crossing toward the station; no square; no steps",
+      "state": "PASS",
+      "evidence": "Line 97 'and did not cross'; line 101 'He did not cross.'; line 103 'He turned his back on it.' grep for 'square' and 'steps' in the station sense returns only the log's promise line (line 79). His standing point is the district's edge, named exactly as the packet requires at line 85: 'the first wall's inner face and the stair's foot and the first-tier gate'. His sightline to the second gate at the stair's head is established by Ch9 (ch09.md line 21: the bench at the stair's foot, 'and watched the second gate do the thing it did')."
+    },
+    {
+      "gate": "PROHIBITED — no theory of the light; invention budget (any statement of the light's cause requires approval)",
+      "state": "FAIL",
+      "evidence": "Line 91 closes the beat with a flat appositive, 'An instrument turning toward the thing it was for.' The packet sanctions 'a pressure like an instrument turning toward him'; the added purpose clause asserts what the station is for. See F-CH14-005."
+    },
+    {
+      "gate": "PROHIBITED — no Rune or Tide turned on himself; the still place untouched",
+      "state": "PASS",
+      "evidence": "Line 75: 'The still place at the middle of them, not read, not touched, not the Quiet, not a fragment.' The twelfth is never turned inward; at the light he uses no fragment at all — the anomaly happens to him, he does not read it."
+    },
+    {
+      "gate": "CONTINUITY PERSISTENCE — timeline and elapsed intervals",
+      "state": "FAIL",
+      "evidence": "Three separate interval errors against on-page dates: the parcel gap (F-CH14-002), the days inside walls (F-CH14-003), and the distance to the reveal (F-CH14-004)."
+    },
+    {
+      "gate": "CONTINUITY PERSISTENCE — injuries, possessions, counts",
+      "state": "PASS",
+      "evidence": "Lira 'twenty-seven days' (lines 13, 73) reconciles exactly with Ch12's 'twenty-five days' on the 290th and with the release at Thornwater on the 265th–266th. Karis's bound left hand and the flat under the other arm (line 9) match Ch13. Vastin on the knee with the stick, a month running (lines 13, 73) matches Ch4/Ch5. Brom's foot and the carried/bound shoulder match Ch12 and Ch13. Cash 130 matches the ledger's Ch14 row and the packet's '136 minus the week's inn'. One low-confidence exception at F-CH14-009."
+    },
+    {
+      "gate": "POINT-OF-VIEW INTEGRITY",
+      "state": "PASS",
+      "evidence": "Everything on the page is Cael's perception or his stated inference. The light beat is scrupulous about this: line 91 'He would have said, after, if anyone had asked him — nobody did — that he had not seen it. That was true.' Line 95 'he stood and let that be a fact and did not make it into anything else, because he did not have anything else to make it into and was not going to invent one.' Vastin's Archmarshal history at line 51 is knowledge Cael holds from Ch10."
+    },
+    {
+      "gate": "CONSEQUENTIAL SCENE (craft core invariant 5 — quietness is not stasis)",
+      "state": "PASS",
+      "evidence": "Three states change: capability/possession (the dividers, and the discipline of carrying a length; lines 21–27), knowledge (the fourth entry on the anomaly page; line 97), and self-concept (the promise costs him for the first time and holds; line 101). The chapter also converts Vastin from tolerated to seated (line 51)."
+    },
+    {
+      "gate": "PROGRESSION MODULE — editor gates 1–7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, no fragment acquisition, no rank event, no combat in the chapter. Gate 5 (institutions do not freeze) is incidentally served — the registry, the gate coats and the queue all operate independently of the party. Charter Gate 25 (scheduled quiet: the protagonist processing without deflection) is satisfied in full by lines 89–105."
+    },
+    {
+      "gate": "SCENE VS SUMMARY (§10) — no architecture-major beat summarized",
+      "state": "PASS",
+      "evidence": "grep for 'heard about it later|learned afterward|was told later|found out later' returns 0. Both major beats — the parcel and the light — are staged in real time."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-CH14-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "voice / tic cap",
+      "gate": "VOICE_CHARTER §9 anti-tic list; packet prohibited_outcomes 'capped phrases 0'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 91,
+        "line_end": 101,
+        "quote": "it was not steady. For the length of a breath. Not brighter, not dimmer; *wrong* … [95] had felt a light four tiers up do a thing for the length of a breath, because it had not done it for them … [97] a light on a hill that was not steady for the length of a breath, once, for him … [101] he had wanted, for the length of the breath, to go up the stair and find out"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch14-editor-prompt-r1.md",
+        "line_start": 463,
+        "line_end": 463,
+        "quote": "no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD."
+      },
+      "consequence": "The one phrase the run caps at zero is the phrase the chapter's climactic beat is built on, and it is repeated three times inside seven paragraphs (lines 91, 95, 97) with a fourth near-variant at 101. On the page the repetition reads as a refrain rather than a measurement, which is the exact watermark density §9 exists to prevent; worse, it lands on the book's most important deniable plant, so the beat the reader is meant to half-miss is instead underlined four times.",
+      "repair_target": "Lines 91, 95, 97 and 101. Keep at most one duration image and make each of the other three do different work — the chapter already owns better instruments for this (a count, a step, the wheel's quarter-turn). Note that any single replacement phrase reused three times is the same defect wearing a different coat (§9).",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH14-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity / timeline",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); authority ladder level 2 (approved canon at input_commit)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 25,
+        "line_end": 53,
+        "quote": "understood that Hesk had sent him, across a continent, in two parcels a year apart, the two halves of a single competence, in the order a maker teaches them: first the straight, then the measured. … [53] and for a man on a bench a continent away who had sent the second half of a thing a year after the first"
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-24.md",
+        "line_start": 63,
+        "line_end": 63,
+        "quote": "*Hundred and twenty-ninth day. Lowmarch, the lower inn, by the fire. First snow. The ferry's last run tomorrow. Ninety-six in hand; six to the inn for the back room; nothing owed; nothing earned since the Ring, and three hundred entered as taken and never to be paid. Nineteen.*"
+      },
+      "consequence": "The straightedge arrived on the 129th day past the Line (B7 Ch24, the log entry above, the same continuous count B8 Ch1 opens with at 'Hundred and thirty-first day past the Line'). This chapter is the 292nd. The interval is 163 days — five and a half months, not a year. The claim is made twice and flatly, in the voice of a narrator whose entire characterization is exact counting, in a chapter whose subject is measuring how far one thing is from another. A reader who has been trained by eight books to track the day-number in every log entry is the reader most likely to catch it, and the error lands on the chapter's central emotional beat.",
+      "repair_target": "Lines 25 and 53. Replace 'a year apart' / 'a year after the first' with the true interval (a winter, or 'a hundred and sixty-three days', or 'the winter between them') — the winter framing is already load-bearing in the book and costs nothing.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH14-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity / timeline",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 79,
+        "line_end": 87,
+        "quote": "*The promise stands. Not the steps. Not the square. Eight days inside and I've not been within four tiers of either.* … [87] and had kept the discipline through a bridge and a gate and eight days and a cut … as he had let it be for eight days"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "Five arches, at first light on the two hundred and eighty-second day, with the water high and brown under them and the road going over the crown of the middle one in a hump that a cart had to take slowly"
+      },
+      "consequence": "They crossed the bridge into Treswick on the 282nd; this is the 292nd. Inclusive of both, that is eleven days inside walls; ten days elapsed. 'Eight days' is short by two to three under any counting convention, and it is stated three times, once inside the diegetic log where the series' precision is a character trait. The same number recurs in ch15 ('watched him for eight days'), so a book-wide ruling may be wanted rather than a local patch.",
+      "repair_target": "Line 79 (the log) first, then lines 87 and 105. Either correct to ten/eleven, or have the planning seat rule on what 'inside' counts from and apply the same number across ch12, ch14 and ch15.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH14-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity / timeline",
+      "gate": "Scene packet knowledge_boundary (the reveal is Ch15, tomorrow or that evening)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "and had not come up at noon, and nobody had gone to see why, because a woman three days from the thing she had hunted her whole life was not a woman you went to see about."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "The two hundred and ninety-third day. The chamber under the registry. The lamp that was always lit and the one he held, and the four hands at the rock wall with the boxes, and Cleon in his chair with both hands flat on nothing, and Karis at the table with a thing in front of her that had not been on the table before."
+      },
+      "consequence": "Karis finds the leaf on the 293rd — the next day. 'Three days from' puts the reveal two days further out than it is, and the reader carries that expectation straight into Ch15, which then arrives early. The phrase is inherited verbatim from the Ch14 card's pre-revision text ('she is three days from the thing she has hunted her whole life'), so this may be a card defect the draft faithfully reproduced rather than an authoring slip — but the packet's knowledge_boundary is the later authority and it says tomorrow.",
+      "repair_target": "Line 9. 'a day from' / 'a woman that close to the thing she had hunted her whole life'. Flag the card text to the planning seat so the stale interval does not propagate.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH14-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "prohibited outcome / invention budget",
+      "gate": "Packet prohibited_outcomes ('no theory of the light'); invention_budget approval_required ('Any statement of the light's cause')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 91,
+        "line_end": 91,
+        "quote": "a pressure, small, the pressure of a thing turning. An instrument turning toward the thing it was for."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch14-editor-prompt-r1.md",
+        "line_start": 461,
+        "line_end": 461,
+        "quote": "its pale light does the faint wrong thing — a flicker, a pressure like an instrument turning toward him — nobody else triggers it; he does not cross; he does not look long … NOTHING on the page says it is a will, a waking, a search."
+      },
+      "consequence": "The packet's sanctioned image is 'an instrument turning toward him'. The draft keeps that and then adds a purpose clause — 'the thing it was for' — which asserts, in the narrator's own voice and outside any hedge, that the station has a purpose and that Cael is it. That is a statement about the light's cause, which the invention budget places behind approval, and it pre-pays the exact proposition Ch15 discovers and Ch16 is titled after ('What It Was For'). Everything else in the beat is scrupulously deniable; this one fragment is not, and because it is the last sentence of the paragraph it carries the most weight.",
+      "repair_target": "Line 91. Cut the appositive or return it to the packet's wording — 'An instrument turning toward him' preserves the whole image and none of the claim.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH14-006",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "repetition / sentence scaffold",
+      "gate": "Shared positive voice — common failure modes ('repeated sentence scaffolds that make scenes feel generated')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 33,
+        "line_end": 43,
+        "quote": "which was the whole of Brom's opinion of Hesk and was, from Brom, an essay … [43] and that was the whole of what Lira had to say about who was not at the table, and it was, from Lira, a paragraph."
+      },
+      "comparison_evidence": null,
+      "consequence": "The same joke in the same shape twice — 'the whole of X's [opinion/say] … and was, from X, a [prose unit]' — five paragraphs apart. The first is excellent; the second turns it into a formula and tells the reader the chapter has a device rather than a voice. The series already owns a precedent for the gag in a single instance (B7 Ch24: 'which was, from Karis, a whole sentence'), which is why the doubling reads as template.",
+      "repair_target": "Line 43. Keep line 33's 'essay'; let Lira's two cups stand without the measuring joke, or price her in a unit that is not a writing unit.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH14-007",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "dialogue / pre-empted line",
+      "gate": "Shared positive voice — dialogue and subtext; 'explaining subtext after the dialogue already conveyed it'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 51,
+        "line_end": 63,
+        "quote": "and ate the inn's mutton with the good manners of a man who had eaten at a great many tables and had never once sat at one where nobody was in charge of it … [63] \"I have sat at a great many tables. I have never sat at one where the people who were not at it were counted.\""
+      },
+      "comparison_evidence": null,
+      "consequence": "Vastin's one spoken line in the chapter — and the only dialogue beat the packet asks for — arrives having already been said by the narrator twelve lines earlier, in nearly the same words and the same structure ('a great many tables' + 'never once/never … at one where'). The man's admission lands as a restatement instead of a disclosure, which costs the chapter's single exchange most of its force.",
+      "repair_target": "Line 51. Narrate the manners without the tables ('the good manners of a man who had been served all his life and had never once been fed'), and let line 63 be where 'a great many tables' is first heard.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH14-008",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "ending / closer",
+      "gate": "Craft core — endings ('do not append a summary explaining why the ending matters'); packet obligation (the file ends on the image's last line)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 113,
+        "line_end": 113,
+        "quote": "The light behind him, and the count in his head the whole way down, because a thing that has done something once should be walked away from at a counted pace and not a hurried one, and he counted, and did not hurry, and the stair took him under."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch14-editor-prompt-r1.md",
+        "line_start": 474,
+        "line_end": 474,
+        "quote": "The straightedge and the dividers in his coat. The light behind him. The file ends on the image."
+      },
+      "consequence": "The image itself is delivered and delivered well; the obligation permits the image's last line rather than the card's exact sentence, so this is not a gate failure. But the final clause explains the discipline it is dramatizing — 'because a thing that has done something once should be walked away from at a counted pace' — which is the one move the endings rule forbids, and the explanation arrives after the chapter has already shown him doing exactly that at lines 99 and 101. The card's version lands harder because it stops.",
+      "repair_target": "Line 113. Cut the because-clause and keep the act: the count, the not-hurrying, the stair taking him under.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH14-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity / injury schedule",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence — costs persist until changed on the page)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 73,
+        "line_end": 73,
+        "quote": "Brom's foot walks; the shoulder carried, bound fresh yesterday; the good one used wrong in a cut and told him so."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch14-editor-prompt-r1.md",
+        "line_start": 2911,
+        "line_end": 2911,
+        "quote": "PRICED: Brom — bind fresh every fourth day (Karis's thread), never use the shoulder inside ('You say it's a boot')"
+      },
+      "consequence": "Oryn's order at the fork (the 281st) sets a four-day cadence, which falls on the 285th, 289th and 293rd. 'Bound fresh yesterday' puts it on the 291st, off-cycle by two days, and on a day when Karis — whose thread the binding uses — had a cut left hand bound the evening before. The detail is otherwise exactly the kind of ledgered cost the log exists to carry, so the off-cycle date is the only thing wrong with it. Low confidence: no chapter has ever put a binding day on the page inside Treswick, so the cadence may have been reset off-page.",
+      "repair_target": "Line 73. 'bound fresh two days back' puts it on the 289th and on the cadence; or drop the date and keep 'bound'.",
+      "confidence": "LOW"
+    }
+  ],
+  "concerns": [
+    "WORD COUNT AT THE FLOOR. 3,949 words — in band, but 39 words above the 3,910 floor and 14.1% under the ~4,600 target. The chapter earns its quiet, but two of its obligations are served in a single paragraph each (Seln's ledger at line 47 runs long and well; Lira's seat-keeping at line 43 is one sentence and a joke), and the repairs above are all subtractive. If F-CH14-006, F-CH14-007 and F-CH14-008 are taken as written, the draft will fall under the floor. Recommend the repair pass add before it cuts — Lira's cups are the thinnest of the four register-beats and the one the chapter most wants.",
+    "'The note was three lines.' (line 29) introduces a note of five sentences and roughly fifty-seven words (line 31). Three physical lines is a stretch at nineteen words a line. Either widen the count or shorten the note; the note's last two sentences are the ones the chapter actually uses.",
+    "THE MEAL'S FOUR MARKS ARE NOT NETTED. Brom lays four marks on the table (line 41) and, at the same meal, Seln reads out 'a hundred and thirty in hand and nothing owed' (line 47), which the log then repeats that afternoon (line 73). 130 is exactly what the packet instructed (136 minus the week's inn) and matches the running ledger's Ch14 row, so there is no contract violated — but a reader who has watched this series count every mark since Book 1 will see four marks leave the table and the total not move. One clause ('a hundred and thirty in hand after the meal') would close it.",
+    "VASTIN'S MEASUREMENT ECHOES CH13 CLOSELY. Line 51's 'very slightly less bad at being nobody than he had been the day before' repeats Ch13's 'being nobody a little better than the day before' (ch13.md line 53) one chapter later, minus the counting that made the Ch13 version specific. As a callback it is legitimate; as consecutive chapters it reads as the same observation twice. Ch13's version earned it with a number (four on the fourth day; two, today) — this one asserts it.",
+    "DENSITY OF THE HOUSE SCAFFOLDS. 12 'which was', 27 'because', 36 'a thing', 5 'never once', 24 em dashes in 3,949 words. All of it is the series' voice and none of it breaches a declared cap, but the chapter sits at the top of the range with no combat or dialogue to break the cadence, and the accumulation is most noticeable across lines 21–33 where four consecutive paragraphs open on the same subject-verb-because shape.",
+    "AUTHOR REPORT DRIFT (report, not draft). ch14-author-r1.json lists 'the district's beer' among the chapter's inventions; the draft serves 'water from the ring road's well' (line 41), which is the reader-standard-correct choice. The report's closer evidence ('the file ends on \"The light behind him.\"' — 'Final line.') also does not match line 113. The draft is right and the report is stale in both places; worth correcting so a later seat does not audit against the report.",
+    "CH13'S CLOSER TYPE, FOR THE PLANNING SEAT. §9 forbids two consecutive chapters ending on the same structural move. Ch14 must close on the image and does. Ch13's card designates dialogue, but ch13.md ends four paragraphs past its last spoken line on a narrated image ('He carried the box up the stair behind the man's lamp … He remembered.'). Not a Ch14 defect and not raised as a finding, but if Ch13's closer is read as an image the §9 check needs a ruling rather than an assumption."
+  ],
+  "strengths": [
+    "THE PLANT IS EXACTLY AS DENIABLE AS IT WAS COMMISSIONED TO BE. Lines 89–97 are the best-calibrated version of this beat in the book so far: he is not looking at it when it happens; the wrongness is felt rather than seen ('a flicker that was not a flicker, because a flicker is a thing you see'); forty people on the street feel nothing; and the narrator explicitly refuses to build a theory — 'he did not have anything else to make it into and was not going to invent one.' Then he waits for a second occurrence before entering it as a pattern (line 99), which is characterization doing the deniability work rather than authorial withholding. Any repair pass must not sand this down.",
+    "THE PROMISE IS CHARGED FOR THE FIRST TIME. Ch6 wrote the term; this chapter makes it cost — 'here was the first afternoon on which the thing she had asked for had cost him anything — he had wanted, for the length of the breath, to go up the stair and find out — and he had not gone, because it was written' (line 101). That is the difference between a rule and a value, and it is paid in one sentence without a speech.",
+    "THE TOOL IS TAUGHT BEFORE IT MEANS ANYTHING. The wheel, the quarter-turn, the points walked along the table's edge, eleven of Hesk's first marks (lines 21–27) — the dividers are made physically legible first, so that 'not the measuring; the *carrying*' lands as a competence Cael has just acquired rather than a metaphor handed to him. The pairing with the straightedge — 'first the straight, then the measured' — is the correct payoff shape for B7 Ch24's package.",
+    "THE FAMILY'S REGISTER IS ALL ACTS AND NO SENTIMENT. Brom's four marks and the joke about the chair, Lira's two cups at two empty places, Seln's slip torn and burned with one word, Vastin simply eating. 'Nobody said what the meal was for' (line 53) is the whole thesis of the chapter's middle and it is stated once, flatly, after the evidence rather than before it.",
+    "SELN'S LEDGER IS THE BEST NEW OBJECT IN THE CHAPTER. Line 47 — a strip of paper two fingers wide, soft at the folds, 'in a hand so small that it was not a hand so much as a habit' — pays off a year of a character who keeps things, gives the crew's whole winter as an inventory read aloud, and then destroys it. 'Which was how Seln said a season was done, and he had not done it since a marsh' does more relationship work than a page of dialogue would.",
+    "KARIS'S ABSENCE IS WRITTEN AS RESPECT, NOT NEGLECT. 'A woman three days from the thing she had hunted her whole life was not a woman you went to see about' (line 9) — the crew's decision not to check on her is the characterization, and the two cups later make it a shared position rather than an individual thought.",
+    "THE LOG KEEPS B7 CH24'S FORM WHILE MARKING WHAT IS NEW. Same order (day, place, count, money, bodies, things, the earned line), same plain first-person register, and the one novelty — 'Inside walls.' — placed as a two-word sentence in the third position where the reader cannot miss it. 'I'll enter that as a rule and see what it's worth' (line 77) is exactly how this narrator receives a gift.",
+    "READER STANDARD IS MET WITHOUT VISIBLE EFFORT. No oath, no coarseness, no violence, no drink at a celebratory meal, and the one dangerous object in the chapter is described with a plain warning and no relish. The moral content is carried by conduct — a seat kept, a promise held at cost, an outsider fed and not told he is being included — which is the standard's actual requirement rather than its floor."
+  ]
+}

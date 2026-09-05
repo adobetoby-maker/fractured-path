@@ -1,0 +1,261 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch14",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 14 card — Dividers, REVISED: no birthday; Chapter 15 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–13' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is NINETEEN throughout; no birthday, no 'twenty', no age reference except nineteen if any. Day 292 (Cleon's seventh day — Karis below with him from the registry's opening; the reveal is Ch15, tomorrow or that evening — do NOT stage it; Karis may come up late saying nothing yet). Twelve fragments (Iron Wall, Rune); the still place untouched; cash 136 minus the week's inn (state the sum).",
+      "HESK: the instrument-maker at Denvash (B1–B7); his package in B7 Ch24 (the straightedge, with a note: 'true to a hair'); the courier chain runs west→east via the Line and now into Treswick's outer district (the ferry trade; brokers' runners) — a letter and a small parcel reach the crew at the inn or the ring road by a runner; Hesk's 'dry hand'. The letter's content: lines and the measuring of them; nothing about the Compact, the Quieting, or Vastin (Hesk does not know Vastin is out); one line for Vell ('the session still stands' echoed?) optional.",
+      "THE DIVIDERS: brass, a hinge, two points; an instrument-maker's second tool; companioned to the two straightedges (Ternhall's; Hesk's). Cael's reaction in the series' register: small, procedural, emotion through objects.",
+      "THE FOUND FAMILY'S MARKING: a meal at the inn (Brom prices it; Lira, Seln, Vastin present; Karis below), a ledger closed (the winter's fence? the log's inventory), a seat kept (Karis's; Oryn's). No 'birthday'. Vastin at a crew's table for a thing that is not work — one beat.",
+      "BOOK-11 PLANT 3 (third instance, escalating; deniable): the tier-gate at the district's edge (the second gate at the stair's head? NO — the outer district's edge is the FIRST wall's inner face and the first-tier gate; the station is four tiers up on the crown and visible from the ring road at the district's edge). Cael goes to the district's edge (why: the runner with the package comes to the tier-gate's post; or the log custom wants the view). As he passes within sight of the station, its pale light does the faint wrong thing — a flicker, a pressure like an instrument turning toward him — nobody else triggers it; he does not cross; he does not look long; he logs it with the still place and the kit and the row's count as 'one more thing the machines do wrong around me'. NOTHING on the page says it is a will, a waking, a search. The promise (not the steps, not the square) is KEPT — he is nowhere near either.",
+      "SEALED: no reveal; no Architect; no [UNBOUND]; the still place not touched (no Rune on himself — Ch22); Cleon's warning remembered, not repeated.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD."
+    ]
+  },
+  "purpose": "The last quiet chapter before the reveal — REVISED: no birthday (Cael is nineteen throughout; twenty is Book 9's autumn). Hesk's letter and gift arrive on the courier chain: a set of DIVIDERS to companion the straightedge that arrived in Book 7 (only the dividers are new), an instrument-maker's second tool for a boy who catalogues, and a note in Hesk's dry hand about lines and the measuring of them. The crew marks it as the found family marks things — a meal, a ledger closed, a seat kept — not sentiment declared; Karis is below in the stacks on Cleon's seventh day and misses most of it, her absence characterization not neglect. The written-log custom rendered as the log's first entry written inside walls. Book-11 plant 3 (third instance, escalating): keeping Oryn's promise, Cael passes within sight of the Arbiter station four tiers up at the district's edge, and the station's sigil-light does something — a flicker, a wrongness, faint enough to deny, that no one else triggers and that he feels more than sees, a pressure like an instrument turning toward him. He does not cross. He logs it as one more thing the machines do wrong around him. NOTHING says what it is. Close on the image: the tier-gate, the light four tiers up, Cael keeping the promise, turning his back on it to go down into the hole where the machine that made that light cannot reach; the straightedge and the dividers in his coat; the light behind him.",
+  "scene_shape": {
+    "opening_state": "The 292nd: Karis gone up to the counter at the registry's opening and down with Cleon for his seventh day, alone with him by her own asking; the four hands and Seln above, in the outer district, with a day nobody has given them; a runner at the inn's street door with a parcel and a letter that have come along the Line and across a river by the ferry trade, addressed in a dry hand.",
+    "pov_goal": "Cael wants the day to be a day — the first inside walls in five years that is not about being read — and to open a package from the one man who has ever made him an instrument as if he were a person who used instruments.",
+    "opposition": "The city (a station four tiers up; a clerk who has not asked three things; a team that knows where they sleep); Karis's absence; the thing the light does.",
+    "turn": "The package: the dividers, the note about lines and the measuring of them; Cael reading it once, upside down — NO ('upside down' is capped: he reads it as it comes) — and the crew's marking of it in the register the family uses: a meal, a seat kept, Brom's price, Vastin at a table for a thing that is not work. Then the walk to the district's edge and the light's faint wrongness.",
+    "choice": "He keeps the promise on the page — nowhere near the steps or the square — and does not cross to the light, and does not look long, and files the wrongness with the other things the machines do around him, and turns his back on it to go down.",
+    "outcome": "The dividers and the straightedge in his coat; the log's first entry written inside walls (the custom kept without the occasion); the light behind him; Karis still below.",
+    "closing_state": "IMAGE — the card's close (revised): the outer district after the meal, the tier-gate at the district's edge, the Arbiter station's pale light at the top of the bluff four tiers above where Cael is allowed to stand — and Cael, nineteen, keeping a healer's promise, not crossing, watching the light do the small wrong thing it does only for him, and turning his back on it to go down into the hole under the city where the machine that made that light cannot reach, because everything down there is older than the light. The straightedge and the dividers in his coat. The light behind him. The file ends on the image."
+  },
+  "obligations": {
+    "must_include": [
+      "Hesk's letter and the DIVIDERS arriving on the courier chain (a runner; the ferry trade); the note in Hesk's dry hand about lines and the measuring of them; only the dividers new; the straightedge companioned.",
+      "The crew's marking in the family's register: a meal (priced), a ledger closed, a seat kept (Karis's; Oryn's); no declared sentiment; Vastin at the table for a thing that is not work.",
+      "Karis below with Cleon on his seventh day — her absence as characterization; she comes up late (if at all) and says nothing of what she has found.",
+      "The written-log custom rendered as the log's first entry written INSIDE WALLS — not a birthday entry; the inventory's form kept (twelve; the still place; the cash; the promise).",
+      "Book-11 plant 3, third instance: within sight of the station from the district's edge, the light's faint wrongness — a flicker, a pressure like an instrument turning toward him — nobody else triggers it; he does not cross; logged with the still place, the kit's cord, the row's count as 'one more thing the machines do wrong around me'; deniable; nothing on the page says what it is.",
+      "The promise kept explicitly: not the steps, not the square — he is at the district's edge, four tiers below, and says so.",
+      "Cael NINETEEN; no birthday; no 'twenty'.",
+      "Close on the IMAGE (the card's, revised); the file ends on 'The light behind him.' or the image's last line; no log closer, no dialogue closer.",
+      "READER STANDARD checked."
+    ],
+    "plants": [
+      "Plant 3 escalated (kit → row → light); Ch22's fourth instance.",
+      "The dividers — Ch17's map work (Karis with the straightedge and the dividers).",
+      "Hesk's letter — Ch24's second."
+    ],
+    "payoffs": [
+      "B7 Ch24's package ('true to a hair') — the second tool.",
+      "Ch6's promise — kept in sight of the thing it was about."
+    ],
+    "prohibited_outcomes": [
+      "No birthday; no 'twenty'; no age drift.",
+      "No reveal; no Karis report; no Architect; no [UNBOUND].",
+      "No crossing toward the station; no square; no steps; no theory of the light.",
+      "No Rune or Tide on himself; the still place untouched.",
+      "No log closer (Ch12/13's texture); no dialogue closer (Ch13's); the closer is the image.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The runner and the parcel's wrapping; the dividers' make; Hesk's note's wording (dry; about lines); the meal (what Brom prices); the inn's long room.",
+      "The walk to the district's edge and what the light does — within 'faint enough to deny'."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any statement of the light's cause."
+    ],
+    "forbidden": [
+      "Any birthday; any Architect/will language; any reveal content."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 13 (The Reader)",
+      "path": "v3-runs/book-08/drafts/ch13.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 24 — Hesk's package and note; the inventory's form; the family's register for small leavings",
+      "path": "books/book-07-void-roads/chapters/chapter-24.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 1 — the anomaly's first instance (the cord and the straightedges)",
+      "path": "v3-runs/book-08/drafts/ch01.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 15 card — Before the Paths (the reveal) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "F-CH14-001",
+      "severity": "HIGH",
+      "gate": "VOICE_CHARTER §9 anti-tic list; packet prohibited_outcomes 'capped phrases 0'",
+      "evidence": "it was not steady. For the length of a breath. Not brighter, not dimmer; *wrong* … [95] had felt a light four tiers up do a thing for the length of a breath, because it had not done it for them … [97] a light on a hill that was not steady for the length of a breath, once, for him … [101] he had wanted, for the length of the breath, to go up the stair and find out",
+      "consequence": "The one phrase the run caps at zero is the phrase the chapter's climactic beat is built on, and it is repeated three times inside seven paragraphs (lines 91, 95, 97) with a fourth near-variant at 101. On the page the repetition reads as a refrain rather than a measurement, which is the exact watermark density §9 exists to prevent; worse, it lands on the book's most important deniable plant, so the beat the reader is meant to half-miss is instead underlined four times.",
+      "repair_target": "Lines 91, 95, 97 and 101. Keep at most one duration image and make each of the other three do different work — the chapter already owns better instruments for this (a count, a step, the wheel's quarter-turn). Note that any single replacement phrase reused three times is the same defect wearing a different coat (§9)."
+    },
+    {
+      "id": "F-CH14-002",
+      "severity": "HIGH",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); authority ladder level 2 (approved canon at input_commit)",
+      "evidence": "understood that Hesk had sent him, across a continent, in two parcels a year apart, the two halves of a single competence, in the order a maker teaches them: first the straight, then the measured. … [53] and for a man on a bench a continent away who had sent the second half of a thing a year after the first",
+      "consequence": "The straightedge arrived on the 129th day past the Line (B7 Ch24, the log entry above, the same continuous count B8 Ch1 opens with at 'Hundred and thirty-first day past the Line'). This chapter is the 292nd. The interval is 163 days — five and a half months, not a year. The claim is made twice and flatly, in the voice of a narrator whose entire characterization is exact counting, in a chapter whose subject is measuring how far one thing is from another. A reader who has been trained by eight books to track the day-number in every log entry is the reader most likely to catch it, and the error l",
+      "repair_target": "Lines 25 and 53. Replace 'a year apart' / 'a year after the first' with the true interval (a winter, or 'a hundred and sixty-three days', or 'the winter between them') — the winter framing is already load-bearing in the book and costs nothing."
+    },
+    {
+      "id": "F-CH14-003",
+      "severity": "MEDIUM",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence)",
+      "evidence": "*The promise stands. Not the steps. Not the square. Eight days inside and I've not been within four tiers of either.* … [87] and had kept the discipline through a bridge and a gate and eight days and a cut … as he had let it be for eight days",
+      "consequence": "They crossed the bridge into Treswick on the 282nd; this is the 292nd. Inclusive of both, that is eleven days inside walls; ten days elapsed. 'Eight days' is short by two to three under any counting convention, and it is stated three times, once inside the diegetic log where the series' precision is a character trait. The same number recurs in ch15 ('watched him for eight days'), so a book-wide ruling may be wanted rather than a local patch.",
+      "repair_target": "Line 79 (the log) first, then lines 87 and 105. Either correct to ten/eleven, or have the planning seat rule on what 'inside' counts from and apply the same number across ch12, ch14 and ch15."
+    },
+    {
+      "id": "F-CH14-004",
+      "severity": "MEDIUM",
+      "gate": "Scene packet knowledge_boundary (the reveal is Ch15, tomorrow or that evening)",
+      "evidence": "and had not come up at noon, and nobody had gone to see why, because a woman three days from the thing she had hunted her whole life was not a woman you went to see about.",
+      "consequence": "Karis finds the leaf on the 293rd — the next day. 'Three days from' puts the reveal two days further out than it is, and the reader carries that expectation straight into Ch15, which then arrives early. The phrase is inherited verbatim from the Ch14 card's pre-revision text ('she is three days from the thing she has hunted her whole life'), so this may be a card defect the draft faithfully reproduced rather than an authoring slip — but the packet's knowledge_boundary is the later authority and it says tomorrow.",
+      "repair_target": "Line 9. 'a day from' / 'a woman that close to the thing she had hunted her whole life'. Flag the card text to the planning seat so the stale interval does not propagate."
+    },
+    {
+      "id": "F-CH14-005",
+      "severity": "MEDIUM",
+      "gate": "Packet prohibited_outcomes ('no theory of the light'); invention_budget approval_required ('Any statement of the light's cause')",
+      "evidence": "a pressure, small, the pressure of a thing turning. An instrument turning toward the thing it was for.",
+      "consequence": "The packet's sanctioned image is 'an instrument turning toward him'. The draft keeps that and then adds a purpose clause — 'the thing it was for' — which asserts, in the narrator's own voice and outside any hedge, that the station has a purpose and that Cael is it. That is a statement about the light's cause, which the invention budget places behind approval, and it pre-pays the exact proposition Ch15 discovers and Ch16 is titled after ('What It Was For'). Everything else in the beat is scrupulously deniable; this one fragment is not, and because it is the last sentence of the paragraph it car",
+      "repair_target": "Line 91. Cut the appositive or return it to the packet's wording — 'An instrument turning toward him' preserves the whole image and none of the claim."
+    },
+    {
+      "id": "F-CH14-006",
+      "severity": "LOW",
+      "gate": "Shared positive voice — common failure modes ('repeated sentence scaffolds that make scenes feel generated')",
+      "evidence": "which was the whole of Brom's opinion of Hesk and was, from Brom, an essay … [43] and that was the whole of what Lira had to say about who was not at the table, and it was, from Lira, a paragraph.",
+      "consequence": "The same joke in the same shape twice — 'the whole of X's [opinion/say] … and was, from X, a [prose unit]' — five paragraphs apart. The first is excellent; the second turns it into a formula and tells the reader the chapter has a device rather than a voice. The series already owns a precedent for the gag in a single instance (B7 Ch24: 'which was, from Karis, a whole sentence'), which is why the doubling reads as template.",
+      "repair_target": "Line 43. Keep line 33's 'essay'; let Lira's two cups stand without the measuring joke, or price her in a unit that is not a writing unit."
+    },
+    {
+      "id": "F-CH14-007",
+      "severity": "LOW",
+      "gate": "Shared positive voice — dialogue and subtext; 'explaining subtext after the dialogue already conveyed it'",
+      "evidence": "and ate the inn's mutton with the good manners of a man who had eaten at a great many tables and had never once sat at one where nobody was in charge of it … [63] \"I have sat at a great many tables. I have never sat at one where the people who were not at it were counted.\"",
+      "consequence": "Vastin's one spoken line in the chapter — and the only dialogue beat the packet asks for — arrives having already been said by the narrator twelve lines earlier, in nearly the same words and the same structure ('a great many tables' + 'never once/never … at one where'). The man's admission lands as a restatement instead of a disclosure, which costs the chapter's single exchange most of its force.",
+      "repair_target": "Line 51. Narrate the manners without the tables ('the good manners of a man who had been served all his life and had never once been fed'), and let line 63 be where 'a great many tables' is first heard."
+    },
+    {
+      "id": "F-CH14-008",
+      "severity": "LOW",
+      "gate": "Craft core — endings ('do not append a summary explaining why the ending matters'); packet obligation (the file ends on the image's last line)",
+      "evidence": "The light behind him, and the count in his head the whole way down, because a thing that has done something once should be walked away from at a counted pace and not a hurried one, and he counted, and did not hurry, and the stair took him under.",
+      "consequence": "The image itself is delivered and delivered well; the obligation permits the image's last line rather than the card's exact sentence, so this is not a gate failure. But the final clause explains the discipline it is dramatizing — 'because a thing that has done something once should be walked away from at a counted pace' — which is the one move the endings rule forbids, and the explanation arrives after the chapter has already shown him doing exactly that at lines 99 and 101. The card's version lands harder because it stops.",
+      "repair_target": "Line 113. Cut the because-clause and keep the act: the count, the not-hurrying, the stair taking him under."
+    },
+    {
+      "id": "F-CH14-009",
+      "severity": "LOW",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence — costs persist until changed on the page)",
+      "evidence": "Brom's foot walks; the shoulder carried, bound fresh yesterday; the good one used wrong in a cut and told him so.",
+      "consequence": "Oryn's order at the fork (the 281st) sets a four-day cadence, which falls on the 285th, 289th and 293rd. 'Bound fresh yesterday' puts it on the 291st, off-cycle by two days, and on a day when Karis — whose thread the binding uses — had a cut left hand bound the evening before. The detail is otherwise exactly the kind of ledgered cost the log exists to carry, so the off-cycle date is the only thing wrong with it. Low confidence: no chapter has ever put a binding day on the page inside Treswick, so the cadence may have been reset off-page.",
+      "repair_target": "Line 73. 'bound fresh two days back' puts it on the 289th and on the cadence; or drop the date and keep 'bound'."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "EXC-B8-CH14-1",
+      "approver": "Planning rulings rows 16–22 (no mule; Cleon's tier; Vastin's rounding; the chapter clock; 'eight days inside' counts from the 284th, the first day up the tiers under a pass — inside the tiers).",
+      "scope": "Planning rulings rows 16–22 (no mule; Cleon's tier; Vastin's rounding; the chapter clock; 'eight days inside' counts from the 284th, the first day up the tiers under a pass — inside the tiers).",
+      "authority": "Planning rulings rows 16–22 (no mule; Cleon's tier; Vastin's rounding; the chapter clock; 'eight days inside' counts from the 284th, the first day up the tiers under a pass — inside the tiers).",
+      "reason": "Planning rulings rows 16–22 (no mule; Cleon's tier; Vastin's rounding; the chapter clock; 'eight days inside' counts from the 284th, the first day up the tiers under a pass — inside the tiers)."
+    },
+    {
+      "id": "EXC-B8-CH14-2",
+      "approver": "The parcel interval is 'a winter' (163 days on the continuous count); the card's 'a year' is superseded.",
+      "scope": "The parcel interval is 'a winter' (163 days on the continuous count); the card's 'a year' is superseded.",
+      "authority": "The parcel interval is 'a winter' (163 days on the continuous count); the card's 'a year' is superseded.",
+      "reason": "The parcel interval is 'a winter' (163 days on the continuous count); the card's 'a year' is superseded."
+    }
+  ],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch14.md",
+    "report_path": "v3-runs/book-08/reports/ch14-author-r2.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch14-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch14-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

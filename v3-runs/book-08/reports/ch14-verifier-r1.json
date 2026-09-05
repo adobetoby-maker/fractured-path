@@ -1,0 +1,90 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch14-verifier-r1",
+  "scene_id": "b8-ch14",
+  "editor_run_id": "b8-ch14-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-CH14-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-001: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-CH14-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-002: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-CH14-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-003: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-CH14-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-004: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-CH14-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-005: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-CH14-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-006: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-CH14-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-007: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-CH14-008",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-008: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    },
+    {
+      "finding_id": "F-CH14-009",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-CH14-009: verified; repaired in r2 or ruled (row 22) — see author r2 deviations."
+    }
+  ]
+}
