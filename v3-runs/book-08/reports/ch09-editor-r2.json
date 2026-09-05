@@ -1,0 +1,299 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch09-r2-editor",
+  "scene_id": "b8-ch09",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "RECHECK F-001 — Cleon's recognition of the carvings pre-paid (packet prohibited_outcomes; Ch10's beat)",
+      "state": "PASS",
+      "evidence": "REPAIRED. The recognition clause is gone. ch09.md L15 now reads in full: '\"Fifty-two sheets.\" He turned round then. He looked at her — not at Cael, not at anyone else on the ring road; at her, at the flat under her arm, at her hands. \"I eat at noon,\" Cleon said.' grep -c 'being proved right|the look of a person who has been right' over ch09.md returns 0. The physical tell survives untouched at L9 ('a step late, with the foot still going') and is read as behaviour, not as interior significance, at L19: 'He stopped a step late. That's the whole finding. A man who stops a step late has been waiting for the question.' The beat now lands only in ch10.md L45 ('Being right for thirty years alone is a thing a man can carry. Being believed — '). No replacement interior reading of his face was substituted, as the repair target required."
+    },
+    {
+      "gate": "RECHECK F-002 — Cleon's opening over-budget; Ch10's 'the whole of how he was introduced' contradicted",
+      "state": "PASS",
+      "evidence": "REPAIRED on both counts. (a) The opening movement L3–L21 is now 557 words, down from 793 — a 30% cut — and 14.2% of the chapter's 3,932 prose words, down from 20.2%. The appearance inventory at L5 is compressed from four clauses to one and stays inside invention_budget.allowed ('Cleon's appearance and manner in the two brief beats (sixties; hands; the habit of reading while eating)'): 'sixties, grey, a coat worn past noticing, and old ink in the creases of the right hand, which Cael, at the stair's foot with the log open, catalogued before the face, because the hands were the thing.' The afternoon-bench expansion at L21 is cut to one sentence. (b) The contradiction is resolved on the Ch10 side as well: ch10.md L17 now reads 'That was the truest thing about the man, and the first:' — the claim that Ch10's opening was 'the whole of how he was introduced' is gone. Residual noted in concerns: the recovered words went to the ascent, not to the city anatomy."
+    },
+    {
+      "gate": "RECHECK F-003 — Cleon at the iron door (Ch9 close vs Ch10 open)",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "CLOSED BY RULING, not by restaging. EXC-B8-CH09-3 / DECISIONS row 21: 'Both stand: Cleon pulls the iron to behind the last hand (Ch9); on the landing inside he takes his own lamp and goes ahead down the middle gallery while the hands get the boxes off the landing, and is at the table with his line found when they arrive (Ch10 r2).' ch09.md L103 is unchanged and correct under the ruling: 'and Cleon, behind him, pulled the iron to, and the tiers closed, and the dark opened.' Ch10 has been restaged to match: ch10.md L19 'He had gone ahead down the middle gallery with his own lamp while the hands got the boxes off the landing', and L11 no longer asserts a light 'that had not come with them' but 'a light at the end of it that had gone ahead of them'. The seam reconciles. One physical consequence of the new arrangement is unpaid — see F-014."
+    },
+    {
+      "gate": "RECHECK F-004 — meta-voice, three instances (Book 8 Drafting Constraints; packet prohibited_outcomes)",
+      "state": "PASS",
+      "evidence": "REPAIRED, all three, exactly as targeted. grep -io 'chapter[a-z]*|volume[a-z]*|fourth wall' over ch09.md returns one hit: the file's own title heading at L1. L27 now reads 'He catalogued the machine because he was going to be a number in it, and a man should know the form he is entered on.' L67 now reads 'as the day's finding'. L77 now reads in full: 'She looked at it. He watched her look. He did not say anything, because it was hers.' — the packet's craft vocabulary is gone and the sentence is stronger for stopping where it stops."
+    },
+    {
+      "gate": "RECHECK F-005 — both days stated (packet pov.knowledge_boundary)",
+      "state": "PASS",
+      "evidence": "REPAIRED in one clause, no other line touched. L25: 'The provision was worked on the two hundred and eighty-fourth, at the registry's opening, because Cleon said it would be, and Cleon, it turned out, was a man who said a thing once.' Both days are now named in the narrator's dating register — L3 'at noon on the two hundred and eighty-third day' and L25 — matching STATE_RUNNING's 'After Chapter 9 … (the 283rd–284th)' and anchoring Ch10's 284th–285th span."
+    },
+    {
+      "gate": "RECHECK F-006 — age spine (Cael nineteen; Norhold; the five-year span)",
+      "state": "PASS",
+      "evidence": "REPAIRED by the safer of the two options offered. 'at sixteen' is dropped entirely rather than moved: L75 now reads 'At Norhold there had been a ladder and she had walked away from it with him, with her whole life on the rungs above her'. grep -c 'at sixteen' returns 0. The span is corrected at L81: 'He had watched Lira look at a ladder for five years'; grep -c 'four years' returns 0. Both now reconcile with the book header ('Cael's age: NINETEEN throughout'), with DECISIONS row 14 (Kindling at fourteen, nineteen now), and with the new L37 sentence's fourteen/seventeen/nineteen ladder."
+    },
+    {
+      "gate": "RECHECK F-007 — the outer district's containment inside the first wall (continuity with ch08)",
+      "state": "PASS",
+      "evidence": "REPAIRED. L71 now reads: 'and the first wall at the bottom, and inside it, between it and the second, the outer district spread along the bluff's foot like a thing that had been unloaded there'. This matches ch08.md L15 exactly — 'the ring road, and the streets going off it into the space between the first wall and the second' — so the one paragraph in the book that shows the whole city at once now builds the same map Ch12's alley fight will use."
+    },
+    {
+      "gate": "RECHECK F-008 — the tier gates staged, the pass accounted for, Seln accounted for",
+      "state": "PASS",
+      "evidence": "REPAIRED in substance. L31 now stages the second gate as a rendered beat: 'Cleon had walked them up himself, ahead, with the pass in his hand and not shown, until the second gate, where a party was behind it and the keeper in the coloured coat held out a hand for it; and the keeper read it, and looked past it at the four of them with the boxes, and counted heads with the pen's end — four — and wrote the number, and waved them through without looking at a face'. The mechanism's open question is answered plainly (Cleon walked them up, carrying his own pass), and the change in the keeper's behaviour is motivated rather than merely asserted — L17 has the same keeper not reading the pass at all when Cleon comes alone, and L31 has him hold out a hand for it the day Cleon brings a party. Seln is accounted for in one clause, as required: 'who had not been on the stair, and had gone up by a way of his own an hour before, and was in the lanes when the four came out of the third gate'. Residual on the sentence's construction only — see F-008R."
+    },
+    {
+      "gate": "RECHECK F-009 — 'three tiers' against two gate crossings",
+      "state": "FAIL",
+      "evidence": "NOT REPAIRED and NOT RULED ON. The three instances stand verbatim: L35 'had carried it up three tiers on the knee without a word'; L37 'said nothing about the three tiers he had carried it up on a foot with a tooth-hole in it'; L75 'up three tiers of the most measured city on the Line'. The author report's r2 deviations block lists eleven repairs and three declines and does not name F-009 in either list; no exception in the packet covers it. The r2 ascent restaging makes the crossings more explicit rather than less — second gate, then 'the keeper at the third gate the same', then 'on the third tier's stair' — so the text now says plainly that two gates are crossed and the third tier reached. See F-009 carried forward."
+    },
+    {
+      "gate": "RECHECK F-010 — Ch8's simile reassigned to the gate-keeper",
+      "state": "PASS",
+      "evidence": "REPAIRED with the gate-keeper's own trade, as the repair target proposed. L17 now reads: 'on his pass, which he did not show, because the keeper at the second gate had read it every noon for thirty years and had stopped.' grep -c 'the way a gate knows a cart' over ch09.md returns 0; the line stays Seln's in ch08.md L75. The chapter's 'the way X [verb]' count drops from 3 to 2 (L57 'the way a smith watches another smith'; L99 'the way a thing turns that has been turned every day for thirty years by one hand'), and the replacement does new work: it plants the keeper's thirty-year habit that L31 then breaks."
+    },
+    {
+      "gate": "RECHECK F-011 — two indefinite 'halls' in one sentence (audio survival)",
+      "state": "PASS",
+      "evidence": "REPAIRED with both halves of the proposed fix. L75 opens 'because he had known her since the day they were both measured' (grep -c 'since a hall' returns 0), and the Book 7 site takes the definite article: 'and had fought a ford without declaring and the Hall one-armed and had been fast anyway'. Read aloud, the two referents are now sorted by the article and by the phrase, not by the page."
+    },
+    {
+      "gate": "RECHECK F-012 — Lira speaks twice where the packet allows one",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "DECLINED BY RULING. EXC-B8-CH09-4: \"'Right.' is a fixed card line and stands (F-012 declined).\" L87 is unchanged: '\"Right.\" She shifted the box on her two arms, and came across the yard, and went past him down the stair into the dark'. Authority level 1 (recorded human decision) governs over the packet's must_include line. Not carried forward."
+    },
+    {
+      "gate": "RECHECK F-013 — author report must attest the reader standard was checked (Gate 27)",
+      "state": "PASS",
+      "evidence": "REPAIRED. ch09-author-r2.json L57 now carries the attestation: 'READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence; no sexual content; conduct decent (a legal provision used honestly, its cost priced).' grep -ci 'reader' over the report returns 1 where r1 returned 0. The charter's closing condition — 'the author report must state that the reader standard was checked' — is met, and the chapter is now closable on the record."
+    },
+    {
+      "gate": "Exception EXC-B8-CH09-1 — no mule in Treswick (planning ruling 16)",
+      "state": "PASS",
+      "evidence": "grep -in 'mule' over ch09.md returns 0 across all 103 lines. The boxes are carried by hand and each is assigned: L33 'Cael, with the middle box. Brom, with the first box on the good shoulder … Lira, with the third box, on two arms'; L35 Vastin 'had picked up the kit's case, which was the fourth box'. The seam behind it is now clean too — ch08.md's only mule references are the generic city traffic at L15 and the carter's mule at the trough (L21, L23), which ruling 16 explicitly preserves as Ch8's beat, and 'the mule's chair' is gone. The r1 concern on ch08 is withdrawn."
+    },
+    {
+      "gate": "Exception EXC-B8-CH09-2 — Vastin's 'forty years' (planning ruling 20)",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "Correctly left alone. L57 stands: 'A man who had stood in front of clerks for forty years on the far side of the counter did not hold his breath at one'. Ruling 20 records it as Vastin's own rounding (service from fourteen; thirty-nine years at fifty-three) and directs 'No prose change; do not repair per chapter.' The r1 concern is withdrawn as a per-chapter matter."
+    },
+    {
+      "gate": "Reader Standard (Gate 27) — clean language",
+      "state": "PASS",
+      "evidence": "grep -inE '\\b(damn|damned|hell|God|bloody|bastard|crap|curse[ds]?|swore|swearing|devil)\\b' over all 103 lines of the repaired draft returns 0. No profanity, oath, blasphemy, obscenity or crude slang anywhere in the 3,932 prose words. The two new passages introduced by the repair (the ascent at L31, the fourteen/seventeen/nineteen sentence at L37) are clean."
+    },
+    {
+      "gate": "Reader Standard (Gate 27) — violence, sexual content, moral goodness",
+      "state": "PASS",
+      "evidence": "No violence, no wounds described, no gore, no death, no sexual content or innuendo anywhere in the chapter. Standing injuries appear only as carried cost, never dwelt on: L33 'the bound shoulder carried, still and forward, exactly as a healer had priced it'; L37 'a foot with a tooth-hole in it'; and the r2 addition at L31 prices the same shoulder with compassion rather than spectacle — 'a look that priced a man who carried a box on one side of himself and knew why'. Morally the chapter is sound and, after the repair, stronger: the party's advantage comes from an unrepealed legal provision used honestly (nobody lies to the clerk; L51 he simply is not asked), the promise to a healer is kept at a stated cost (L31 'the not-setting-foot had cost the four of them a longer walk with boxes'), and the adults in it — Cleon, Vastin, the young clerk — are treated with respect rather than mockery. Suitable for a thirteen-year-old reader."
+    },
+    {
+      "gate": "Reader Standard (Gate 27) — attestation present in the author report",
+      "state": "PASS",
+      "evidence": "ch09-author-r2.json L57 states the standard was checked and what was checked. See RECHECK F-013."
+    },
+    {
+      "gate": "Word band (3,910–5,290; target 4,600 ±15%)",
+      "state": "PASS",
+      "evidence": "3,932 prose words (L3–L103; wc -w over the whole file = 3,938, matching the run diagnostics' word_count=3938 / WITHIN_TARGET). Inside the band by 22 words. Net change from r1 is −6 words: the 236-word cut at L5/L15/L21 was redistributed into the staged ascent at L31 (+95) and the new closing sentences at L37 (+80), plus the smaller line repairs. PASS, but the chapter still sits 14.5% under target with 1,352 words of unused headroom — see concerns."
+    },
+    {
+      "gate": "Tic cap — one-word paragraphs ≤2 per chapter (charter §9)",
+      "state": "PASS",
+      "evidence": "Exactly 1, unchanged by the repair: L85 '\"Four.\"' Counted by scanning every non-heading, non-separator line for a single whitespace-delimited token."
+    },
+    {
+      "gate": "Tic cap — 'the way X [verb]' ≤4 per chapter (charter §9)",
+      "state": "PASS",
+      "evidence": "Now exactly 2, down from 3: L57 'the way a smith watches another smith'; L99 'the way a thing turns that has been turned every day for thirty years by one hand'. The borrowed Ch8 figure at L17 was replaced, freeing a slot rather than filling one."
+    },
+    {
+      "gate": "Tic caps — capped somatic/beat phrases 0; 'upside down' 0; 'four hundred years' 0",
+      "state": "PASS",
+      "evidence": "All twelve capped phrases return 0 ('jaw tightened', 'laughed once', 'without humor/humour', 'stomach tightened', 'stomach dropped', 'There it was', 'That was true', 'Also true', 'sounded almost', 'held this', 'which was, in its own way', standalone '[Name] noticed.'). 'upside down' 0, 'for the length of a breath' 0, 'at the pitch' 0, 'four hundred years' 0. Nearest non-matching neighbours unchanged: L47 'for half a breath', L43 'for the length of time it takes a careful man to stop being careful'."
+    },
+    {
+      "gate": "Forbidden names — Halcenvane, Velmere, Wray, Bracken (packet prohibited_outcomes; DECISIONS row 9)",
+      "state": "PASS",
+      "evidence": "grep -inE 'Halcenvane|Velmere|Wray|Bracken' over ch09.md returns 0. The academy is referred to only as 'the academy above Ostrand' (L75), per the ruling."
+    },
+    {
+      "gate": "No meta-voice (Book 8 Drafting Constraints; packet prohibited_outcomes)",
+      "state": "PASS",
+      "evidence": "Clean after repair. See RECHECK F-004. The only occurrence of 'chapter' in the file is the L1 title heading, which is not narration."
+    },
+    {
+      "gate": "Prohibited outcomes — no records read, no [UNBOUND], no Architect, no Rune mechanic, no fight, no reach, no station scene, no square",
+      "state": "PASS",
+      "evidence": "grep -inE 'UNBOUND|Architect|Rune|Arbiter|station' over the repaired draft returns 0. No record is opened or read; the word is kept at one remove at L7 ('a word from a stratum older than the standardization'); the cut mark on the iron door at L95 is seen and left unread, with Karis's recognition carried only by her hand going to the sheets. No Rune reading is performed. No combat, no reach, no faceless team. The station appears once, unnamed and overhead only, at L103: 'the thing on the crown that read bodies'. The square is named only as a place Cael does not stand on — L31 'He had not set foot on the square. He noted it.' and L103 'the square he had not set foot on'."
+    },
+    {
+      "gate": "Prohibited outcome — no Vastin reflex or credential offered (held for Ch10)",
+      "state": "PASS",
+      "evidence": "Unchanged and still correct. Vastin consents once and stays silent: L35 'had said, \"Yes,\" in the ledger voice, before anyone could ask it aloud'; L57 'Vastin had breathed normally throughout.' The reflex is deferred as a plant, not teased: L35 'and that he was going to find out at a counter, and that the finding out was not this morning's.' It runs in Ch10, not here."
+    },
+    {
+      "gate": "Scene-closer rule — the closer is the image; no log closer, no dialogue closer; differs from Ch8's and Ch10's",
+      "state": "PASS",
+      "evidence": "The file ends at L103 on the image, with no log entry and no dialogue after it: 'and Cleon, behind him, pulled the iron to, and the tiers closed, and the dark opened.' Ch8 closes on a quiet coda of Cael waiting ('He stayed in the district where the unranked were allowed … and waited.'); Ch10 closes on a log. No two consecutive chapters share the structural move."
+    },
+    {
+      "gate": "Obligation 1 — the provision worked as mechanism (counter, three columns, strata-talk, count entered, the not-asking, the exposure felt)",
+      "state": "PASS",
+      "evidence": "Untouched by the repair and intact. L41 'a form in front of him with three columns on it that he had never once filled'; L51 the audible strata-talk coming through the door; L47 the count made with the pen, 'one two three four', and 'the place where the form did not have a column'; L49 'He did not ask.'; L51 'he wrote four in the third column'. The exposure is felt at L55 (Lira's held breath) and named at L59: 'The bar had not been lifted. It had not been consulted.'"
+    },
+    {
+      "gate": "Obligation 2 — the tier gates passed by count under Cleon's pass, the keepers counting heads",
+      "state": "PASS",
+      "evidence": "Now met. See RECHECK F-008. Both papers stay unshown as required: Lira's at L55 ('the paper in her coat that would have made the whole of the morning unnecessary for her and had stayed in her coat') and L75 ('she could have been on the second tier by noon on the paper in her coat'); Vastin's is never produced."
+    },
+    {
+      "gate": "Obligation 3 — the square avoided by a route; Cael's feet never on it; the chapter says so",
+      "state": "PASS",
+      "evidence": "L31, strengthened by the r2 clarification of Seln's separate ascent: 'Seln — who had not been on the stair, and had gone up by a way of his own an hour before, and was in the lanes when the four came out of the third gate — walking them ahead of the four as if he had been born in them, left and left and left again, keeping the square on the far side of a row of houses the whole way, so that Cael saw it only as light between buildings and never as a place his feet were on'. The cost is stated, not the virtue."
+    },
+    {
+      "gate": "Obligation 4 — Cael entered as labour with a box; the irony carried, not restated at length",
+      "state": "PASS",
+      "evidence": "Carried in four touches now rather than three, the new one being the r2 addition at L37: 'He had wanted, at fourteen, to be looked at by it and passed. He had wanted, at seventeen, to be looked at by it and refused to its face. He stood in a lane at nineteen with a box on his shoulder and was not looked at by it at all, by a rule, on purpose, and the rule was the only door in the city that had ever opened for him, and he entered that, and did not know yet which column it went in.' Three sentences, no lecture, and the last clause turns the form's own vocabulary back on him. Still inside 'not restated at length'."
+    },
+    {
+      "gate": "Obligation 5 — Lira's want-scene, hers alone; prices the ladder, no pull, writes nothing",
+      "state": "PASS",
+      "evidence": "Intact and improved by the F-004 cut at L77 and the F-011 fix at L75. The machine seen whole from above (L71), the Norhold and Ostrand history (L75), the paper she declines to use (L75), the payoff on behaviour (L79 'And he saw it not pull.'; L81 'the weight did not go forward'), and the refusal to record it (L87 'did not write anything down, because she was not the one who kept the log'). Cael's one intrusion is now a single clause — 'He did not say anything, because it was hers.' — and the scene is more hers than it was in r1."
+    },
+    {
+      "gate": "Obligation 6 — Cleon brief and professional; his recognition of the carvings not staged",
+      "state": "PASS",
+      "evidence": "Now met. See RECHECK F-001 and F-002. He appears in three short beats — the stair and the terms (L5–L17), the pass at the gates (L31), the key at the door (L99) — and is never read from the inside."
+    },
+    {
+      "gate": "Obligation 7 — close on the image; the file ends on the image; no log, no dialogue closer",
+      "state": "PASS",
+      "evidence": "Unchanged and preserved through the repair pass: L95 the door 'older than the registry and older than the Compact and older, Cleon said, holding the lamp to it, than the walls, because the walls were built of what had been quarried from behind it'; L97 'at the one level of the city where rank had run out, because the stone was older than rank and had never been told about it'; L103 the last clause. Every element the card names is on the page."
+    },
+    {
+      "gate": "Progression module — editor gates 1, 2, 3, 4, 6 (advancement events)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, integration, fragment notice, tier change, training beat or measured gain occurs anywhere in the repaired chapter; there is no advancement event for these gates to score."
+    },
+    {
+      "gate": "Progression module — editor gate 5 (rivals and institutions do not freeze to accommodate the protagonist)",
+      "state": "PASS",
+      "evidence": "The institution is at its most alert here, not its most convenient. The clerk is 'young and careful' and comes within a breath of asking (L47 'the place where the form did not have a column, and the thing a careful man does at that place, which is to ask'); the gate keeper who has not read Cleon's pass in thirty years holds out a hand for it the day a party is behind him (L17 vs L31); the third gate's keeper stops on Brom's shoulder. The party gets through on an unrepealed rule and a researcher who will not stop talking, not on institutional inattention arranged for them."
+    },
+    {
+      "gate": "Progression module — editor gate 7 (setbacks generate changed behaviour or understanding)",
+      "state": "PASS",
+      "evidence": "Both human-track movements are behavioural, not declared. Lira's is the refusal itself (L81 'the weight did not go forward'), measured against five years of the opposite. Cael's is the reversal of what he wants from being looked at, staged as a three-age progression at L37 and metabolised into a question he does not answer ('did not know yet which column it went in') rather than a resolution."
+    },
+    {
+      "gate": "Continuity with the previous chapter (ch08.md) — city geography, the provision, the crew's standing",
+      "state": "PASS",
+      "evidence": "The one break is repaired (see RECHECK F-007) and nothing else diverged. The provision's rule is used exactly as Seln reported it in ch08.md L37 ('three columns on it — the practitioner's name, his registration, and the count of hands'; 'up to four, entered by the practitioner and answered for by him'), and Ch9 adds no change to it, so invention_budget.approval_required is not touched. Karis's Ch8 line 'Four hands' and Lira's 'I've two' are both paid on the page (L33, L83). The queue lengths seen from above at L71 match ch08.md L11's view from below."
+    },
+    {
+      "gate": "Continuity with the following drafted chapter (ch10.md r2) — the landing arrangement and its physical requirements",
+      "state": "FAIL",
+      "evidence": "The ruling's arrangement now reconciles at the level of who is where — ch10.md L19 'He had gone ahead down the middle gallery with his own lamp while the hands got the boxes off the landing' matches ch09.md L103 exactly. But the restaging requires two lights on the landing and Ch9 supplies one. Ch9 has a single lamp throughout, Cleon's (L67, L99); Ch10 L11 and L17 have the party carrying 'the lamp' down the gallery while Cleon's is the light ahead. Ch9's inventory of every hand through the door (L101) gives nobody a light. See F-014."
+    },
+    {
+      "gate": "Audio survival (charter §8.2, §8.3, §8.5) and §8.4 metadata",
+      "state": "PASS",
+      "evidence": "No typography-dependent meaning: all eleven italic spans are quoted writing or quoted speech and read identically aloud (the two log entries at L19 and L87, the remembered lines at L35, L37, L75, the counted 'four' at L31/L47/L51, the form's word 'count' at L47, 'That's the door' at L61). No System block, no ASCII, no stat block. §8.5: the only multi-line exchanges are two-handers (L11–L15 Cleon/Karis; L83–L87 Lira/Cael), so the 3+-speaker rule does not bite. §8.4: the file ends on prose at L103 with no authoring metadata. The F-011 repair removes the chapter's one genuine listening hazard. One sentence-length hazard remains — see F-008R."
+    },
+    {
+      "gate": "POV integrity — close third on Cael; knowledge boundary",
+      "state": "PASS",
+      "evidence": "Held through the repair, including in the new material. The staged ascent at L31 is all things Cael is present for and can see (the keeper's held-out hand, the pen's end, the wave-through), and the one interpretive move is marked as pricing rather than fact ('a look that priced a man who carried a box on one side of himself and knew why'). The counter is still correctly held at one remove because he is in the lane (L41 'Not the words. The shape of them'; L43 'wanted, Cael thought — he could hear it in the pauses'). Vastin's interior stays withheld (L35 'did not know what the man was thinking'), and the F-001 cut removes the one place the narration read a man's interior beyond what Cael could know."
+    },
+    {
+      "gate": "Revision discipline (craft core) — targeted repair did not opportunistically rewrite unrelated passages",
+      "state": "PASS",
+      "evidence": "The r1→r2 diff (commit ab67d12) touches nine lines, all of them named repair targets — L5, L15, L17, L21, L25, L27, L31, L37, L67, L71, L75, L77, L81 — with no line inserted or deleted; the file is line-stable at 103 lines, so r1 line references still resolve. Every passage the r1 report recorded as a strength is byte-identical: the clerk's not-asking (L45–L51), the payoff of Ch8's log (L59–L61), the three held breaths (L53–L57), Vastin's consent (L35), and the closing image (L91–L103). The one addition beyond a strict repair — the three sentences appended at L37 — is inside the obligation it serves and is noted in concerns."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-014",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity / possessions",
+      "gate": "Craft core — continuity persistence (possessions persist until changed on the page); DECISIONS row 21 as staged in ch10.md r2",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch09.md",
+        "line_start": 101,
+        "line_end": 103,
+        "quote": "Brom went in with the first box, ducking under the lintel because the door had been cut for men who were shorter than the men the Compact bred. Vastin with the fourth, on the knee, without a word, and did not duck … Karis with the flat and her hand still on it. Lira with the third, on two arms, past him, and down."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch10.md",
+        "line_start": 11,
+        "line_end": 17,
+        "quote": "The lamp went on into the middle gallery, and there was a light at the end of it that had gone ahead of them. … they came down the middle gallery with the lamp and the boxes, five people and the sound of five people in a place that had not heard five people in longer than the walls had stood"
+      },
+      "consequence": "Ruling 21 splits Cleon off from the party on the landing, which means the party needs a light of its own from the moment he walks away with his. Ch9 never gives them one. There is exactly one lamp in the whole chapter and it is Cleon's: L67 'Cleon was on the stair with a lamp', L99 'the lamp went in ahead of him'. L101 then inventories what every hand is carrying through the door — box, box, flat, box — and no one has a light; L103 puts Cael through with 'the middle box on his shoulder and the satchel under it'. Ch10 opens with the party holding 'the lamp' while a second light waits ahead, and L19 calls Cleon's 'his own lamp', so two are required. As drafted, five people walk a pre-Compact gallery in the dark and arrive lit. This is small but it lands on the exact hinge the ruling was written to protect, and it is the last thing a reader sees in one chapter and the first thing in the next.",
+      "repair_target": "ch09.md L67, L95 or L99 — one clause giving the party its own light before Cleon takes his ahead: the registry's cellar keeps a lamp at the stair head, or Cleon lights a second off his at the landing and gives it to Karis with the key already in the lock. Ch9 is the cheaper side because Ch10's landing arrangement is fixed by ruling 21. Do not change who pulls the iron to (EXC-B8-CH09-3) and do not touch the last sentence.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity / geography",
+      "gate": "Craft core — causal legibility (geography preserved); carried open from r1, neither repaired nor ruled on",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch09.md",
+        "line_start": 35,
+        "line_end": 37,
+        "quote": "had carried it up three tiers on the knee without a word … and said nothing about the three tiers he had carried it up on a foot with a tooth-hole in it"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch09.md",
+        "line_start": 31,
+        "line_end": 31,
+        "quote": "until the second gate, where a party was behind it and the keeper in the coloured coat held out a hand for it … the keeper at the third gate the same … and found, on the third tier's stair with the box on his shoulder, that it was a different weight from the other"
+      },
+      "consequence": "The r2 restaging sharpened the arithmetic instead of settling it. The chapter now says plainly that two gates are crossed — the second and the third — and that the party arrives on the third tier, and it still says three times that the boxes were carried 'up three tiers' (L35, L37, L75). A reader counting gates alongside the narrator who counts things for a living lands one climb short of the figure he gives, three times, in the movement where the count is the whole point. The number is unsettled at book level rather than only here: ch10.md L63 places the same city 'four tiers up' from the Deepstacks, and STATE_RUNNING's 'After Chapter 9' entry records 'Up three tiers by count', so whichever way this is settled it has to be settled in one pass across the three documents.",
+      "repair_target": "ch09.md L35, L37, L75 — make the phrasing count the climbs rather than the levels ('up two gates', or 'up through the city's three tiers' so the preposition does the work), or leave the number and add the missing crossing. Reconcile in the same pass with the Treswick reference section, STATE_RUNNING's Ch9 entry, and ch10.md L63 before changing any of them; this is a planning-level count, not a line fix.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-008R",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "voice / sentence music; audio",
+      "gate": "Shared positive voice — sentence music ('Use varied cadence'); charter §8 audio-first; residual of F-008, whose repair target asked for the ascent to be split out of the summary sentence",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch09.md",
+        "line_start": 31,
+        "line_end": 31,
+        "quote": "He had come up the bluff by the tier gates under a pass that was not his, as a number. Cleon had walked them up himself, ahead, with the pass in his hand and not shown, until the second gate, where a party was behind it and the keeper in the coloured coat held out a hand for it; and the keeper read it, and looked past it at the four of them with the boxes, and counted heads with the pen's end — four — and wrote the number, and waved them through without looking at a face"
+      },
+      "comparison_evidence": null,
+      "consequence": "F-008 asked for the ascent to be split out of the summary sentence and staged. It was staged but not split: the sentence beginning 'Cleon had walked them up himself' now runs 344 words to a single full stop, up from roughly 250 in r1, and carries the second gate, the third gate, Cael's five-year reversal, the old town's streets, Seln's separate route, the square avoided and the price of avoiding it. Counted by splitting L31 on sentence-final stops: four sentences of 8, 3, 20 and 344 words. Read aloud — which is how this series ships — that is close to two minutes of narration without a place to breathe, at the point where the listener most needs to hold a sequence of physical events in order. It is also the one axis on which the repair moved backwards, and it is why the staged gate reads as recovered summary rather than as the scene the packet asked for.",
+      "repair_target": "ch09.md L31 — two full stops, no new words. One after 'waved them through without looking at a face' (closing the second gate as its own beat), one after 'and not a lighter one' (closing the third gate and Cael's reversal), leaving Seln's route and the square as the paragraph's third movement. The clauses are already in the right order; only the punctuation is doing too much work.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Density, and where the recovered words went. The chapter is 3,932 prose words — 22 above the floor, 14.5% under the 4,600 target, with 1,352 words of unused headroom. The F-002 cut recovered 236 words and the repair spent them on the ascent (L31) and on Cael's three-age sentence (L37), which is the right order of priority. But the trim at L21 removed one of only two passages that did what the card names first — 'Treswick anatomized from inside': the bench at the stair's foot with the three walks Cael catalogues ('a stair-walk, a pass-walk, the walk of a body that had never been asked at a gate'). That was a directed cut and I directed it, so it is not a regression; but the net effect is that the city is now anatomized in one place only, L71's view from the registry yard. If planning wants any of the headroom spent, the city is where it should go, and the stair-walk catalogue is the thing to bring back at a third of its old length.",
+    "The lamp fix and the tier count are both cross-document, not per-chapter. F-014 and F-009 each touch ch09.md, ch10.md and STATE_RUNNING's 'After Chapter 9' entry. Repairing them one file at a time is how the Cleon-at-the-door seam happened in the first place. Recommend they go to planning together as one reconciliation, in the manner of rulings 20 and 21, rather than to a Ch9 repair packet on their own.",
+    "'He had wanted, at seventeen, to be looked at by it and refused to its face' (L37) is correct and should not be 'corrected'. The age attaches to the wanting, not to the outcome — the parallel with 'He had wanted, at fourteen, to be looked at by it and passed' settles the grammar — and at seventeen Cael was inside Book 6's challenge proceedings wanting exactly that. The ruling that actually refused him landed at eighteen (B6 Ch18, after the Ch14 birthday), so a later reader checking dates against events rather than against wants may flag this. Recording it so a future pass does not repair a line that is already right.",
+    "Karis is not placed in the 284th's ascent. L31 stages the second gate with 'the four of them with the boxes' counted, and L39 has her already at the counter with Cleon; the chapter never says whether she walked up with them that morning or stayed up from the day before. Nothing contradicts — the gate rule counts hands, and ch10.md L17's 'five people' coming down the gallery confirms she is with the party by the time they descend — but the r2 staging made the gate concrete enough that a reader may now ask. One clause at L31 would close it; it is not a defect and I am not raising it as one.",
+    "'A careful man' as a refrain, unchanged from r1. Eight instances ('careful man' ×7, 'careful young man' ×1) across L41–L59, roughly 600 words. It is doing real work — the clerk's care is the exposure and the machine's gap at once — but at eight it has stopped characterising him and started announcing the theme. Below every charter cap, so taste, not a finding. Two cuts would sharpen it, and the line pass is where they belong.",
+    "'\"Noted,\" Karis said' (L17) still sits close to modern register, and ch10.md L47 now gives the same word to her again in the same position ('\"Noted,\" Karis said, and sat down'). Across a chapter break that is a verbal tic forming rather than a character signature. Flagged for the line pass across both chapters, not for a repair packet.",
+    "The counter is still staged at one remove, from the lane, and that is still the right call. Cael cannot be at that counter; the POV holds; the clerk stepping into the yard door to make the count with his pen puts the actual turn inside Cael's sight. Recorded a second time so no repair pass 'improves' it by moving the camera indoors."
+  ],
+  "strengths": [
+    "Every strength recorded in r1 survived the repair byte-for-byte. The clerk's not-asking (L45–L51) — the pen making the count 'one two three four', the eye stopping half a breath on Brom's shoulder 'because a careful man's eye goes to the thing that is carried wrong', the trouble arriving on his face, and Karis's voice coming through the door mid-argument and deciding it for him — is untouched. So is the payoff of Ch8's log at L59–L61 ('The bar had not been lifted. It had not been consulted.' … '*That's the door*, he had written. It was. It was a young man wanting an hour to end.'), the three held breaths at L53–L57, Vastin's one-word consent at L35, and the whole closing movement L91–L103. The repair pass was surgical: nine lines edited, none inserted, none deleted.",
+    "The F-010 replacement is better than what it replaced, which is rare in a repair. 'the keeper at the second gate had read it every noon for thirty years and had stopped' (L17) gives back a borrowed figure to Ch8 and plants a habit that L31 then breaks on purpose: the same keeper holds out a hand for the pass the one morning Cleon has a party behind him. A thirty-year routine and its single exception, set up and paid three paragraphs apart, doing the mechanism's work without a word of explanation.",
+    "The staged second gate (L31) answers the mechanism's own question instead of asserting it. 'Cleon had walked them up himself, ahead, with the pass in his hand and not shown' settles how a practitioner's pass travels without the practitioner — it doesn't; he carries it — and the keeper's sequence (holds out a hand, reads, looks past it, counts heads with the pen's end, writes the number, waves them through without looking at a face) is the count-rule working on bodies, which is what obligation 2 was for. The added half-line on the third gate's keeper, 'a look that priced a man who carried a box on one side of himself and knew why', prices Brom's injury with respect rather than spectacle and belongs to the reader standard as much as to the craft.",
+    "The three sentences added at L37 earn their place. 'He had wanted, at fourteen, to be looked at by it and passed. He had wanted, at seventeen, to be looked at by it and refused to its face. He stood in a lane at nineteen with a box on his shoulder and was not looked at by it at all, by a rule, on purpose' — a five-year arc in three clauses, ending on the form's own vocabulary turned back on him ('and he entered that, and did not know yet which column it went in'). It carries the chapter's irony without restating it and leaves a question open instead of closing one.",
+    "Cutting the recognition clause at L15 improved the sentence it was in. '\"Fifty-two sheets.\" He turned round then. He looked at her — not at Cael, not at anyone else on the ring road; at her, at the flat under her arm, at her hands. \"I eat at noon,\" Cleon said.' The look is now three named objects and a refusal to look at anything else, and the terms land straight off it. The man is read entirely from outside, which is what the packet asked for and also the better writing.",
+    "Lira's scene is more hers after the repair than before it. Removing the explanatory clause at L77 leaves 'She looked at it. He watched her look. He did not say anything, because it was hers.' — three sentences, the last of which is the whole rule of the scene, unexplained. The want then lands on behaviour at L79–L81 ('And he saw it not pull' … 'the weight did not go forward'), measured against the five years the corrected number now makes true, and she writes nothing down.",
+    "The reader standard is met without softening anything. A chapter about a nineteen-year-old being counted as labour by a system that would refuse him by name contains no profanity, no violence, no gore and no sexual content, and its moral weight comes from what people pay rather than from what they say: a promise kept at the cost of a longer walk with boxes, a Silver-tier man carrying a case up three tiers on a bad knee and saying 'Yes' before he can be asked, a young clerk who nearly does the careful thing and is not despised for failing to. This is the standard being served by the writing rather than survived by it."
+  ]
+}
