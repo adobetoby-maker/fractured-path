@@ -1,0 +1,403 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch01-r1-editor",
+  "scene_id": "b8-ch01",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Authority — canon and SECRET discipline (CANON_RULES reveal schedule; the Book 9 / 11 / 13 seals)",
+      "state": "PASS",
+      "evidence": "Nothing in the reveal table is touched. Greps over the draft return zero for 'Architect', 'primordial', 'UNBOUND', 'sub-layer', 'before the Paths', and 'Vastin'. The single 'Quiet' is the permitted disclaimer, 'The still place: not a fragment, not the Quiet' (ch01.md:7), which is Cael's own B7 Ch14/22/24 formula and not a theory. The single 'reset' is Brom resetting fence posts (ch01.md:21). 'Someone made this pattern' is not repeated and no maker, purpose, or age is proposed: Oryn is explicitly staged NOT theorizing — 'he watched her not say the thing that anyone would have said' (ch01.md:141) — and Karis's case stops at what the paper says, 'she could not read a word of the language they commanded in' (ch01.md:187). The word 'grade' returns zero occurrences; Karis says only 'she did not know what the index was, only that it was one' (ch01.md:187), so the Ch17/Ch20 decode is unspent."
+    },
+    {
+      "gate": "Authority — packet prohibited_outcomes (7 clauses)",
+      "state": "PASS",
+      "evidence": "Clause by clause. No Vastin, no ferry landing, no records, no 'sub-layer', no Compact presence or news — the ferry has not run at the file's last line and the winter's news is nothing. No fight, no injury, no fragment use, no declaration; no quiet ground entered or approached; no new site — the only sites on the page are the four already on the carter's map. No deep reading of Cael: Oryn defers it in terms, 'I'll read you properly when you've slept a week and the ferry's run and you're not standing in my yard with a road on you' (ch01.md:155); no one is read without asking — Lira is made to ask ('Ask me.' / 'Will you mend it.', ch01.md:113-121) and Cael declines to take a reading he was not invited to take, 'because a thing he had learned from her in the autumn was that there were readings a man did not take just because he could' (ch01.md:123). The still place is not touched, not theorized, not called the Quiet. No theory of who or why; no banned nouns. No 'sighting-glass' or 'tally-rule' (zero occurrences) and no instrument outside B7's inventory; no 'grade'. No 'Halcenvane', 'Velmere', 'Wray', 'Bracken', 'Feryn' (all zero); the fixed text carries 'the academy above Ostrand'. No modern idiom (grep for okay/literally/basically/gonna returns zero) and no weekday names. One-word paragraphs: one ('\"Yes.\"', ch01.md:145) against a cap of two; 'at the pitch' zero."
+    },
+    {
+      "gate": "Authority — arc: architecture Ch1 card and its REVISED block (B7 reconciliation decisions 1-10)",
+      "state": "PASS",
+      "evidence": "REVISED (1) five wintering — the log says so and holds it, 'the five of us have a room with a floor and a fire and a door that shuts' (ch01.md:13), 'four a week for five' (ch01.md:13), 'Pike's five' (ch01.md:21). (2) the promise kept as a scene at Thornwater, two days, the word said, the ankle mended, the map read upside down, Oryn walking down because her circuit starts here — all present (ch01.md:57-171). (3) the anomaly rebuilt on the cord, the stake and mallet, the field ledger and the two straightedges, with no sighting-glass and no tally-rule (ch01.md:33, 39-45). (4) one designation, index unreadable, no grade (ch01.md:33, 187) — the anchoring of that designation is F-B8-CH01-004 below, not the index's readability. (5) cash opens at ninety-six and the fence's forty is paid in the winter frame (ch01.md:7, 21-23). (6) the crossbow is with Lira (ch01.md:181). (7) 'the academy above Ostrand' (ch01.md:211). DECISIONS row 1 and row 2 are both paid in the body. Oryn reading upside down is canon, not a transfer of Cael's habit: chapter-23.md:13 'Oryn looked at the map upside down, as she read everything' and chapter-16.md:175."
+    },
+    {
+      "gate": "Continuity persistence — the cash ledger against state-b8-pre-ch01 (96 -> 76 -> 116 -> 118)",
+      "state": "FAIL",
+      "evidence": "The four totals are individually correct and reconcile: ninety-six in hand at open matches the state snapshot's close figure; 96 - 20 = 'which leaves seventy-six' (ch01.md:13); 76 + 40 = 'A hundred and sixteen in hand. Fence: paid.' (ch01.md:23); 116 + 7 (rope-house) - 5 (mule's shed, a mark a month for five months) = 'a hundred and eighteen in hand' (ch01.md:181) and 'A hundred and eighteen in hand' (ch01.md:209). Two defects sit inside that arithmetic: the quoted board rate does not produce the total it is said to produce (F-B8-CH01-002) and the six marks named for the back room on the 131st never appear in any of the four totals (F-B8-CH01-005). The chapter's own contract is 'the winter's small work ledgered to the mark', so both are live."
+    },
+    {
+      "gate": "Continuity persistence — party positions and who travelled to Thornwater",
+      "state": "FAIL",
+      "evidence": "The chapter establishes twice, unambiguously, that two people made the Thornwater walk: 'They went up on the two hundred and sixty-fifth day, the two of them' (ch01.md:57) and the steading's woman 'counting them as they came in, and arriving at two' (ch01.md:73). Brom is named among those who stayed at Lowmarch in the same sentence as the departure ('Brom said, \"Bring her back\"', ch01.md:57). The six-at-table catalogue then places Oryn's look at Brom's shoulder in Thornwater's yard (ch01.md:181). See F-B8-CH01-001."
+    },
+    {
+      "gate": "Continuity persistence — the recovered Compact kit as B7 Ch20 inventoried",
+      "state": "FAIL",
+      "evidence": "Correct and load-bearing: the case road-made and registry-stamped; 'The stake — thirty-two, by its number — with its point still bright from the twice it was driven at nothing. The mallet.' (ch01.md:33) against chapter-20.md:49; the field ledger in the surveyor's square hand with the radius line, and no pen anywhere in the inventory (chapter-20.md:53, 'he put the pen down and left the book open', 'and no pen'). Two object facts do not hold: the cord's knotting (F-B8-CH01-003) and what the single designation designates (F-B8-CH01-004)."
+    },
+    {
+      "gate": "Continuity persistence — injuries carried forward (charter 4.3; state-b8-pre-ch01 roster)",
+      "state": "PASS",
+      "evidence": "Lira: left forearm slung under Oryn's season order since the Ring, released on the page after five months, 'It's an arm. Use it. It'll be slow for a month and it'll ache in the wet for a year and then it won't. Don't fall on it.' (ch01.md:105); the two finger-length scars are placed on the correct day, 'where a hound's teeth had gone in on the ninety-sixth day and a healer had spent an hour at a line to make them come out' (ch01.md:97), matching state-b8-pre-ch01's fixed date and 'saved by an hour's mending at the line'. Right ankle taped and unmended through the winter, then mended, with the walked-on deformation shown first, 'the ankle under the tape the shape it had been since the traverse — turned out, a little, from a winter of standing on it' (ch01.md:59). Brom: 'the shoulder bound and carried and not yet read' (ch01.md:209), matching chapter-24.md:9, 'the healer of no Path at Teague's fire had said it wanted binding and not hands, and it had been bound' — the binding is inherited correctly and 'not three times this season' is not violated because nothing reopens it. Cael's ribs quiet since the marsh, confirmed by eye and not by hands (ch01.md:155)."
+    },
+    {
+      "gate": "Continuity persistence — calendar and elapsed intervals against the day-count from the Line",
+      "state": "PASS",
+      "evidence": "Every log entry is dated from the Line and the sequence is monotonic: 131st, 133rd, 140th, 161st, 168th, 230th, 264th, then the walk on the 265th, six at Lowmarch on the 268th, the closing entry on the 270th. The last ferry resolves to the 130th by 'The ferry went west yesterday' in the 131st-day entry (ch01.md:5), matching state-b8-pre-ch01's 'the ferry's last run on the 130th'. The series' month resolves to thirty days and holds across two independent checks: Lira's 'Five months and twenty days' (ch01.md:89) is exactly 170 days after the bite on the 96th, with the two-day road from the 265th landing them on the 266th; and 'a mark a month' for the mule's shed (ch01.md:13) settles at 'the mule's shed paid, five' (ch01.md:181) for the five months paid in front. The ferryman's forecast holds on the same month: 'a road by the month's end' against 'Hundred and sixty-first day. The river is a road.' (ch01.md:49), thirty days on. Thornwater at two days from Lowmarch matches DECISIONS-B7-RECONCILIATION's fixed list."
+    },
+    {
+      "gate": "Continuity persistence — objects and possessions",
+      "state": "PASS",
+      "evidence": "The crossbow is Oryn's and Lira has it and Oryn has not asked for it — 'Oryn's crossbow on the wall behind her where she had hung it in the autumn and had not been asked for it' (ch01.md:181), matching state-b8-pre-ch01's 'ONE crossbow (Oryn's, carried by Lira since the Hall)' and 'Oryn had not asked for it.' Two straightedges, correctly sourced: 'the two brass edges laid along it, Ternhall's and Denvash's, brass on brass, touching' (ch01.md:139), against chapter-24.md:119. Three copies in oilcloth, the kit's ledger, the map, both edges, the case, the three boxes under the bed, one mule (ch01.md:13, 181). Karis holds the archive and Seln holds the case, as at B7's close."
+    },
+    {
+      "gate": "Assigned obligations — must_include items 1, 3, 4, 5, 6, 7, 8, 9",
+      "state": "PASS",
+      "evidence": "1: the log-voice skip movement, dated and inventoried, five wintering, the ferry not run, the work ledgered from ninety-six (the ledger's two internal defects are findings 002 and 005; the movement itself is delivered). 3: the kit on the table all winter (ch01.md:29-33), with the two object defects at findings 003 and 004; Karis's forty-one kinds correctly kept off the page so the index stays separate. 4: the anomaly first and quiet — the yard at forty-two strides for four people and 'forty-one and a piece by mine. Twice. Three times.' (ch01.md:39), the edges 'a hair short' and 'a hair long' only in his hands (ch01.md:41), Karis's ruler sentence said twice with the second saying changed (ch01.md:43), logged as 'the third instrument this winter that reads everyone but me' with 'Claim: something. Evidence: a cord, two edges, a hair. Ruling: hold.' (ch01.md:45), deniable and untheorized. 5: the promise kept as a scene, the road stated as two days, the register kept for findings, RELEASED, five months under the order, 'a tape and a season' ended on the page (ch01.md:111), the ankle mended now she is rested, the map read upside down with both edges on it and nothing said about who or why. 6: 'Lowmarch is the first stop on my spring. Millrace is the second... Get the mule.' and 'Nobody had asked her.' (ch01.md:169-171). 7: Karis's case made plainly to six, in her order, and 'Nobody answered.' (ch01.md:191). 8: 'No tier. No rank. No file I can see.' (ch01.md:9) as the pole, and the itch under it, 'A country that does not read you is a country that does not answer, either' (ch01.md:183); 'no column' is never used for the exclusion (the one 'column' is Karis on instructions, ch01.md:187). 9: verified byte-exact below."
+    },
+    {
+      "gate": "Assigned obligations — must_include item 2 (age stated once; ten fragments and the still place in inventory words)",
+      "state": "FAIL",
+      "evidence": "The inventory half is exactly right: 'I am nineteen. Ten confirmed. The still place: not a fragment, not the Quiet, read three times, and not touched since a healer said stop.' (ch01.md:7) — count only, so no spoken run can put 'Feryn' beside Oryn, and the still place carries its two disclaimers. The 'once' half does not hold: nineteen is stated four times (ch01.md:7, 183, 209, 211). See F-B8-CH01-008."
+    },
+    {
+      "gate": "Closing text — the card's fixed log verbatim; the file ends on the last line of prose",
+      "state": "PASS",
+      "evidence": "Programmatic diff of ch01.md's final line, stripped of its italic markers, against the packet's fixed text (packets/ch01-editor-prompt-r1.md:524) returns an exact match, including 'an index she can't read' and 'the academy above Ostrand'. The file's last byte is that line; charter 8.4's terminal-metadata grep returns zero."
+    },
+    {
+      "gate": "Assigned obligations — plants (4 items)",
+      "state": "FAIL",
+      "evidence": "Plant 1 (Book-11 plant 3, the anomalies clustering on Cael, first instance) is delivered and correctly deniable. Plant 2 (pole one of the arc, logged in the log's register, ready for Ch16's conversion) is delivered at ch01.md:9 and 183. Plant 3 (Teague's crew wintering at Lowmarch AND the spring term standing) is half delivered — see F-B8-CH01-006. Plant 4 (the two straightedges on one map, with Hesk's note remembered in one line) is delivered as to the edges and not as to the note — see F-B8-CH01-009."
+    },
+    {
+      "gate": "Assigned obligations — payoffs (3 items)",
+      "state": "PASS",
+      "evidence": "'Find me at Thornwater.' / 'Bring the map.' (chapter-23.md:45, 49) is paid without repeating the fixed lines: 'You brought the map.' / 'You said to.' / 'I did.' (ch01.md:79-83). 'Six, by letter.' (chapter-24.md:113) is paid in the body — 'Six at Lowmarch on the two hundred and sixty-eighth day' (ch01.md:179) and the six-count catalogue at the table (ch01.md:181-183). Lira's arm is paid in full, including the silence B7 set up: chapter-24.md:9, 'had not once said the word ankle, and would not until a healer said the other word first', is answered by the healer saying it first and Lira then asking, 'Will you mend it.' (ch01.md:121)."
+    },
+    {
+      "gate": "Point-of-view integrity and knowledge boundary",
+      "state": "PASS",
+      "evidence": "Close third on Cael throughout, with the log in his own first-person register and nothing in it he could not know. He does not learn what the index is, does not learn the Compact suppressed anything, does not learn Vastin is out, and gets no news at all — 'no courier since' is honored by the ferry never running. The one place the narration reaches past him is marked as inference, not fact: 'It was the kind of nothing that a healer says when a patient she cannot read is about to walk toward the one place... and has not decided what she would say if he did. Cael saw it. He did not answer it.' (ch01.md:193). Cleon is not named — 'There's a man there who is.' (ch01.md:189) — so Ch5's 'Who's Cleon?' survives intact."
+    },
+    {
+      "gate": "Consequential scene — state change and the assigned turn",
+      "state": "PASS",
+      "evidence": "Five state changes land on the page: Lira released and two-armed; Lira's ankle mended; the roster at six; the ledger moved 96 -> 118 with nothing owed; and the anomaly entered in the log for the first time. The assigned turn — the promise kept, in scene, with geography and cost — is written as a scene, not summarized: charter 10's grep set ('heard about it later', 'learned afterward', 'was told later', 'found out later') returns zero."
+    },
+    {
+      "gate": "Causal legibility — the chapter's own sequence",
+      "state": "PASS",
+      "evidence": "The walk is caused by a debt the log states before it is paid ('there is a thing I owe north before I owe anyone anything west, and it is two days up a road, and it is a map', ch01.md:53). Oryn's coming down is caused by her route's own arithmetic, not by a request. Karis's case is timed by the count ('because there were six, and she had been waiting for six', ch01.md:185). The release is staged so that the order comes off by the hand it was laid on: Oryn waits rather than untying the sling, and the text says why (ch01.md:101)."
+    },
+    {
+      "gate": "Progression module gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement event, integration, rival contest, training gain, or setback occurs in this chapter; the packet forbids fragment use and declarations. The module's human track is nonetheless honored in the material the chapter does carry — Lira's five months of restriction ending, Brom's shoulder still carried, Oryn's route as an independent want that costs her nothing to keep and the crew something to accommodate."
+    },
+    {
+      "gate": "LitRPG module gates 1-7",
+      "state": "PASS",
+      "evidence": "No Arbiter, declaration, or fragment notice renders, which is correct for a chapter that forbids fragment use. The only diegetic system-adjacent text is the Power Log, which has an owner and an in-world trigger (Cael writes his year-end and season inventories; charter 3.2), whose values match the state snapshot (ten confirmed, one still place, nineteen, ninety-six at open), and which reads aloud as prose with no stat blocks, tables, or typography-dependent meaning (gate 3, charter 8.3). Hidden information stays hidden consistently: the index is not readable in this chapter and is not rewritten to become readable."
+    },
+    {
+      "gate": "Voice charter 8.4 — terminal metadata grep",
+      "state": "PASS",
+      "evidence": "grep -n 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over ch01.md returns zero. The file's final line is the fixed log text."
+    },
+    {
+      "gate": "Voice charter 9 — tic caps (chapter-level)",
+      "state": "FAIL",
+      "evidence": "The measured tic set returns zero across the board: 'jaw tightened' 0, 'laughed once' 0, 'without humor' 0, 'stomach tightened/dropped' 0, 'There it was' 0, 'That was true'/'Also true' 0, 'sounded almost' 0, 'held this' 0, 'which was, in its own way' 0, standalone '[Name] noticed.' 0. Single-word paragraphs: 1, against the cap of 2. The one breach is the 'the way X [verb]' construction at four instances against the packet's cap of three — see F-B8-CH01-007."
+    },
+    {
+      "gate": "Voice charter 9 — scene-closer rule (against the preceding chapter)",
+      "state": "PASS",
+      "evidence": "The preceding chapter in reading order, Book 7 Ch24, closes on a narrated summary paragraph in close third — 'Nothing out here had read him... Someone had made the pattern. That was as far as anyone could say.' (chapter-24.md, final paragraph) — not on a log entry, a single-line paragraph, or an observed-from-distance image. Book 8 Ch1 closes on a log entry. The two structural moves differ. Ch2's card closes on dialogue and Ch3's on an image, so the book's opening run does not repeat."
+    },
+    {
+      "gate": "Voice charter 8.5 — dialogue attribution runs",
+      "state": "PASS",
+      "evidence": "The two three-plus-speaker scenes were counted. Thornwater's yard (Cael, Lira, Oryn): longest unattributed run is two ('There isn't another thing.' and, later, 'Will you mend it.'). The Lowmarch table (Karis, Oryn, Cael): longest unattributed run is three ('Inside walls.' / 'With a station in them.' / 'At the top of the town. He doesn't go near it.', ch01.md:195-199), with the speaker recoverable from the alternation and from Oryn's named line opening it. Both are inside the cap of four."
+    },
+    {
+      "gate": "Voice charter 8.1 / NAME_REGISTRY — aural distinctness and rename-slated names",
+      "state": "PASS",
+      "evidence": "No new person or fauna name is minted. Rename-slated names return zero: Halcenvane 0, Velmere 0, Wray 0, Bracken 0. Feryn returns 0, so the audiobook read-through rule 'Feryn/Oryn never in one list run' cannot be breached; the fragment inventory is a count, not a run of names. The O-onset stack is not deepened: Ostrand appears once, inside the fixed closing text, and Oxhollow not at all. Place names on the page are Lowmarch, Thornwater, Millrace, Norhold, Ternhall, Denvash, Treswick, Ostrand — all carried or architecture-approved, with the one invention-budget question at F-B8-CH01-010."
+    },
+    {
+      "gate": "Voice charter 8.2 / 8.3 — audio survival",
+      "state": "PASS",
+      "evidence": "Strip the italics and every log entry still reads as an in-world document with its own register; the date lines are speakable ('Hundred and thirty-third day'), the money is spoken in words, and no meaning rests on formatting. The one italicised word inside narration, 'because a man does not write index in his own field book for his own convenience' (ch01.md:187), is emphasis a narrator can carry and does not carry meaning alone. No brackets, no stat blocks, no ASCII."
+    },
+    {
+      "gate": "Voice charter 10 — scene vs summary and density",
+      "state": "PASS",
+      "evidence": "5,132 words against a 4,600 target: +11.6%, inside the +/-15% band (3,910-5,290). The architecture-major beat — the promise kept — is written in scene with geography (the ford at the bend, the yard, the bench, the table) and cost (Oryn on her heels in the mud, 'her face the colour it went'). Summary is used only where the packet's invention budget permits it: the winter's contracts, two of them, each with one concrete detail and a price to the mark."
+    },
+    {
+      "gate": "Voice charter 3.1-3.8 — house voice",
+      "state": "PASS",
+      "evidence": "3.1 the cataloguing narrator: at least four explicit catalogues (the opening inventory, Pike's winter board, the kit, the six at the table). 3.2 diegetic documents in a plain first-person register carrying plot and character. 3.3 emotion through procedure and objects: the release is carried by a knot undone one-handed, a boot, a grey tape spiral, and a rise onto the ball of a foot; grep for 'felt (sad|angry|afraid|happy|a wave of)' returns zero. 3.5 third-party ledger verdicts: Pike writes PAID and the five names and leaves the season line blank. 3.7 institutions as machines: the board's eleven slips, the meadow rate, the factor's own book. 3.8 dry oblique dialogue; modern-register grep returns zero. 7.2 growth-declaration grep returns zero."
+    },
+    {
+      "gate": "Anti-pastiche (craft core 6; charter 2)",
+      "state": "PASS",
+      "evidence": "No passage reads as a named author's signature construction. The chapter's mannerisms are the series' own, established across Books 1-7: the cataloguing inventory, the log's Claim/Evidence/Ruling shorthand, the reading-upside-down habit, the etiquette glosses ('which is the whole of the etiquette between crews in a town with one street')."
+    },
+    {
+      "gate": "Combat gates (charter 4; THE AUTHOR 9.9-9.16)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet forbids any fight, injury, fragment use, or declaration; none occurs."
+    },
+    {
+      "gate": "Invention budget",
+      "state": "FAIL",
+      "evidence": "Allowed inventions are used and stay inside their lines: Lowmarch under snow (the two inns, the iced landing, the ferryman's shed, Pike's winter board), the Thornwater road in thaw, Thornwater's yard and house door, two winter contracts with prices to the mark, and Oryn's clinic in one line of texture (the rope-burned man on the bench). Teague's crew stays unnamed; the fourth site stays unnamed ('the fourth circle, the big one', ch01.md:143). No new person or fauna name. One new place name is minted on the page beyond what the chapter's obligations require — see F-B8-CH01-009."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B8-CH01-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity",
+      "gate": "Craft core: continuity persistence (positions persist until changed on the page); charter 3.1 (the cataloguing narrator's counts must hold)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 181,
+        "line_end": 181,
+        "quote": "Brom with the pouch — a hundred and eighteen in hand, the mule's shed paid, five, and the ferryman's rope-house roof done for seven in the last week of the ice — and his right shoulder carried as it had been carried since the binding, still and forward, which Oryn had looked at once across the yard at Thornwater and had said nothing about, which meant she would."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "They went up on the two hundred and sixty-fifth day, the two of them, because the map was the five's and the promise was his and Lira's arm was hers, and Karis said, \"Bring it back,\" meaning the map, and Brom said, \"Bring her back,\" meaning nothing he would say twice, and Seln said nothing and put two days' bread in Cael's pack without being asked."
+      },
+      "consequence": "Brom is placed in Thornwater's yard by a chapter that has already put him at Lowmarch twice, in terms, and that has made the two-person count a load-bearing detail. Line 57 sends exactly two people up the road and gives Brom a farewell line as one of the four who stay; line 73 has the steading's woman counting the arrivals 'and arriving at two'. The reader has been asked to hold that count for a hundred and twenty lines and is then told that Oryn looked at Brom's shoulder across a yard he was never in. It also spends a beat the book needs later: Oryn's first look at the bound shoulder, and the 'which meant she would' that arms it, should happen at the Lowmarch table on the 268th where she and Brom are in the same room for the first time since the fork — which is the only place in the chapter it can happen.",
+      "repair_target": "Line 181 only. Move the look to where the six actually meet: replace 'across the yard at Thornwater' with the Lowmarch table — e.g. 'which Oryn had looked at once, from her end of the table, and had said nothing about, which meant she would.' Keep 'since the binding' (it is correctly inherited from chapter-24.md:9), keep the 'still and forward' carriage, and keep 'which meant she would', which is the sentence's real work and sets up Ch6. Do not add Brom to the Thornwater walk: the two-count is fixed at ch01.md:57 and 73 and is quoted by the closing log's roster.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH01-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "arithmetic",
+      "gate": "Packet obligations.must_include[0] — 'the work ledgered to the mark from NINETY-SIX in hand'; charter 3.1 (the counts must hold)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 13,
+        "line_end": 13,
+        "quote": "\"Meadow rate is four a week for a crew that's on my sheet,\" and the woman who keeps the lower inn said, \"Pike,\" and Pike said, \"Eleventh,\" and that was the price: four a week for five, twenty for the five months, paid in front, which leaves seventy-six."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 13,
+        "line_end": 13,
+        "quote": "and the mule is in the ferryman's shed for a mark a month that he has not asked for and will."
+      },
+      "consequence": "The rate and the total are quoted in one breath and are out by a factor of about four. At four marks a week the five months the same sentence names cost roughly eighty-four, not twenty; twenty is exactly four a month for five months, and the chapter's own second price — the mule's shed at 'a mark a month', settled later at 'the mule's shed paid, five' (ch01.md:181) — confirms the five-month frame and the thirty-day month the rest of the chapter runs on. The running total is built on the twenty and is right at every step (96 - 20 = 76; +40 = 116; +7 - 5 = 118), so the defect is the unit word, not the ledger; but this is the chapter's first money statement, in a chapter whose whole credibility device is money stated to the mark, and it is the one line that invites the reader to multiply. It also makes the favour illegible: against the inn's posted 'a mark a head a week' (five a week for the crew), four a week is barely a discount, whereas four a month is the kind of price a board-keeper's word buys.",
+      "repair_target": "Line 13 only, and the unit word only. Change Pike's quoted rate and its echo from a week to a month — 'Meadow rate is four a month for a crew that's on my sheet' and 'four a month for five, twenty for the five months, paid in front, which leaves seventy-six' — which leaves the total, the seventy-six, and every downstream figure untouched, and sharpens the contrast with the upper inn's 'a mark a head a week' in the preceding clause. Do not change 'twenty' or 'seventy-six': the state ledger and finding 005 both hang off them.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH01-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core: authority ladder — approved canon at the packet's declared revision (Book 7's closed prose governs the recovered kit)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 33,
+        "line_end": 33,
+        "quote": "The pacing cord with its knots at a stride, twenty strides to a cord, and the cord's end-loops worn to the shine that a thing gets when one pair of hands has used it for a season."
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-20.md",
+        "line_start": 47,
+        "line_end": 47,
+        "quote": "A pacing cord, laid out. Knotted at the fives, as Karis's was, because there was one way to knot a pacing cord and the registry had taught it to her before it had taught it to anyone with a stake"
+      },
+      "consequence": "Book 7 Ch20 fixes the cord's knotting twice — 'Knotted at the fives' when it is found (chapter-20.md:47) and 'the cord coiled at the fives' when Karis packs it (chapter-20.md:121) — and makes the knotting a point about the registry's single taught method, which is the reason Karis can use a dead surveyor's cord at all. The draft re-knots it at every stride. The object is on the table for the whole chapter and is the instrument the anomaly is proved on, so the detail is not decorative: a reader who came off Ch20 four chapters ago is being shown a different cord, and the winter's yard-pacing scene (ch01.md:39) is built on counting strides against it. 'twenty strides to a cord' is separately correct and matches the Ring's pacing.",
+      "repair_target": "Line 33, the cord clause only. Restore the canon knotting — 'The pacing cord, knotted at the fives, twenty strides to a cord, and the cord's end-loops worn to the shine...' — and leave the end-loops observation, which is the sentence's own good work and is new. Nothing else in the paragraph needs to move.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH01-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core: authority ladder — approved canon (Book 7 Ch20's field ledger); packet obligations.must_include[2] ('ONE designation in an index nobody can read')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 33,
+        "line_end": 33,
+        "quote": "The field ledger, in the surveyor's square hand, with the radius line in it, and the line under that, and the one entry that says what the third site is: a designation, in an index, that nobody at this table can read."
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-20.md",
+        "line_start": 71,
+        "line_end": 71,
+        "quote": "\"A designation.\" The finger over a line near the page's top, where a group of the cipher's marks stood apart from the columns, with a stroke and a bar beside them — the mark on the second stake. \"The site's got a name in something. Not a word; an entry. It's in an index."
+      },
+      "consequence": "Book 7 makes the ledger's two facts distinct and the distinction is the whole of the surveyor's story. The designation is written 'near the page's top' and belongs to the site he was standing in — the Long Stair, the second site, and Karis says so on the same page: 'He says third. This is the second. The Ring's the first, by his stakes — thirty-one there, thirty-two here. He'd found a third.' (chapter-20.md:81). The words 'third site confirmed on bearing' are the ledger's unfinished last line, the sentence he broke off mid-word before he put the pen down and went up forty steps (chapter-20.md:75). The draft merges them: it makes the one designation an entry that 'says what the third site is', and Karis repeats the merge at the table — 'The kit's ledger carried one entry for the third site that was not a measurement: a designation, in an index' (ch01.md:187). Two costs. The interrupted last line, which is what makes the surveyor's disappearance legible and which the reader was given as an image, disappears from the inventory. And the index is anchored to the wrong site going into Ch17/Ch20, where it is decoded against Vastin's records into the site taxonomy — a designation for a site the surveyor never reached would not survive that decode.",
+      "repair_target": "Lines 33 and 187, restoring B7's two-fact structure without adding length. At 33: keep the radius line, then the designation as this site's — 'a designation, in an index, that nobody at this table can read' — and then the ledger's last line as its own item, unfinished: 'and, under it, the line he did not finish, third site confirmed on bearing.' At 187, adjust Karis's clause to match: the one entry that is not a measurement is a designation for the site he surveyed, and the last line names a third site on a bearing. Do not add any reading of the index; Karis must still not know what it is in (finding-free at ch01.md:187 as written on that point).",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH01-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "arithmetic",
+      "gate": "Packet obligations.must_include[0] — 'the work ledgered to the mark from NINETY-SIX in hand (… anything spent named)'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 7,
+        "line_end": 7,
+        "quote": "Ninety-six in hand, with the inn's six for the back room where the sheets are already out of it. Nothing owed."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 13,
+        "line_end": 13,
+        "quote": "twenty for the five months, paid in front, which leaves seventy-six. Brom paid it out of the pouch and counted it twice and the woman counted it once, and the five of us have a room with a floor and a fire and a door that shuts, and Karis has the back room for the sheets"
+      },
+      "consequence": "Six marks for the back room are named on the 131st and then never appear in any of the chapter's four totals. The 133rd-day entry takes ninety-six down by twenty and states the remainder as seventy-six, so the six is not inside the twenty; and the same entry grants Karis the back room as part of the inn deal with no separate price, so it is not paid there either. If the six is already deducted from the ninety-six, as 'already out of it' most naturally reads, then the opening figure contradicts state-b8-pre-ch01's 'ninety-six marks in hand at close' and the 133rd's subtraction double-counts it. Either way the ledger has an unreconciled line in the one chapter that promises none, and the closing entry's 'Nothing owed' (ch01.md:209) rests on it. The ambiguity is compounded because the sentence can be read two ways at speed, which is itself a problem in an audiobook-first series.",
+      "repair_target": "Line 7, and only if the human ruling is that ninety-six is gross. Two clean options. (a) Fold the back room into the winter deal and drop the clause: 'Ninety-six in hand. Nothing owed.' — the back room is then covered by the twenty at line 13, where Karis is already given it without a stated price. (b) Keep the six as a real, separate charge and make it land in the arithmetic: state it as owed rather than out ('Ninety-six in hand, and the inn will want six for the back room where the sheets go'), then pay it at line 13 and carry seventy through instead of seventy-six — which requires re-running 70 + 40 = 110 and 110 + 7 - 5 = 112 at lines 23, 181 and 209 and re-issuing the state-ledger figures. Option (a) is the cheaper repair and the one that preserves the 96/76/116/118 chain the state snapshot and the author report both carry.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH01-006",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "plant",
+      "gate": "Packet obligations.plants[2] — 'Teague's crew wintering at Lowmarch and the spring term standing (one line; Teague not on the page unless a glance across a room)'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 15,
+        "line_end": 15,
+        "quote": "Teague's crew have the upper inn. Four of them and the healer of no Path, at the table by the window, with the winter road's pay on it. Teague looked across the yard at the five of us going in under our own roof and lifted his chin a finger's width, which is the whole of the etiquette between crews in a town with one street, and is, in that town, a sentence."
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-24.md",
+        "line_start": 43,
+        "line_end": 43,
+        "quote": "Teague said: \"Spring. Whatever's on that bearing. My crew comes.\""
+      },
+      "consequence": "Half the plant is delivered and the better half is missing. The wintering is on the page, correctly staged, with Teague held to a glance and his crew unnamed; the standing term is not, anywhere — searched scope: the whole of ch01.md, greps for 'spring', 'term', 'bearing', 'comes', and every Teague mention (lines 15, 21). The term is the one thing about Teague that this book needs the reader carrying: his crew rendezvouses and works the bearing alongside the companions across Ch17-21, and the Force-adjacent fragment is integrated from him at Ch19. It was set at Book 7's close and a whole winter now passes between its statement and its use with nothing to keep it alive. The fence beat is the natural carrier and is already half-built — the crew finishes the posts Teague's crew set and stopped setting, and Seln resets two of his that were a hand off true, which is a whole relationship rendered in an object; a clause on the term would sit there without adding a scene.",
+      "repair_target": "One line, at 15 or 21. Preferred at 21, attached to the posts already on the page: after 'and that is the kind of thing that goes in a ledger nobody reads', a clause in the log's register that the term stands — e.g. that Teague has not said the word spring since the plank in the snow and has not needed to, because his crew is wintering forty feet up the street and everyone knows what they are wintering for. Do not put Teague on the page beyond the existing glance, do not name any of his four, and do not restate his fixed sentence verbatim.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH01-007",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "voice",
+      "gate": "Packet obligations.prohibited_outcomes[6] — \"'the way X [verb]' ≤3\"; charter 9 (the cataloguing narrator's gravity wells)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 155,
+        "line_end": 155,
+        "quote": "Oryn looked at him, then — at him, the way she had looked at Lira: the face, the stance, the ribs under the coat, in that order."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch01-editor-prompt-r1.md",
+        "line_start": 544,
+        "line_end": 544,
+        "quote": "No one-word paragraphs beyond two; 'at the pitch' not used; 'the way X [verb]' ≤3; no chapter-count or volume references; no authoring metadata in the file."
+      },
+      "consequence": "Four instances against a cap of three: 'the way it was done at the Ring' (39), 'the way a thing comes down that has been held up' (95), 'the way she had looked at Lira' (155), 'the way a ledger's columns command' (187). The construction is house voice and none of the four is a verbatim repeat of another — the charter's own wording caps the identical construction at three per chapter, so on the charter alone this would pass — but the packet sets a flat cap and the packet outranks the craft module on the authority ladder. The reader-facing cost is small and cumulative: the simile engine is the one place this narrator's prose can start to sound generated, and Ch1 sets the book's baseline for a twenty-four-chapter run.",
+      "repair_target": "Retire one, and 155 is the cheapest because its work is done by the colon that follows it. 'Oryn looked at him, then — at him, as she had looked at Lira: the face, the stance, the ribs under the coat, in that order.' Leave 95 and 187 alone; both are doing real work (95 is the release's central image, 187 is Karis's distinction between a record and an instruction). Note for the book-level pass: the running count for Book 8 starts at three after this repair.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH01-008",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "voice",
+      "gate": "Packet obligations.must_include[1] and pov.knowledge_boundary[0] — 'Cael states his age — nineteen — once, on the page' / 'He says so once.'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 209,
+        "line_end": 209,
+        "quote": "*A hundred and eighteen in hand. Fence paid. Rope-house paid. Mule's shed paid. Nothing owed. Lira: two arms. A foot that's hers. Brom: the shoulder bound and carried and not yet read. Karis: three copies, one ledger, one map, two edges. Seln: the case. Oryn: her route, two stops of it here. Me: nineteen; ten; the still place; a cord that reads everyone else.*"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 7,
+        "line_end": 7,
+        "quote": "Inventory, because I do one at the start of anything, and a winter is a thing. I am nineteen. Ten confirmed."
+      },
+      "consequence": "Nineteen is stated four times — ch01.md:7 ('I am nineteen'), 183 ('And himself. Nineteen. Ten.'), 209 ('Me: nineteen; ten') and 211 (the card's fixed 'Nineteen.'). The packet asks for once and the fixed closing text supplies one of the four, so the two the chapter can spend are 183 and 209. The sharpest cost is at 209-211, where the roster line and the fixed text sit three lines apart and say nineteen and ten twice over in the same entry, so the fixed sentence — which is the book's opening statement of the arc's first pole and is meant to land bare — arrives as a repeat of the line above it. There is no continuity risk (every reference reads nineteen, and twenty appears nowhere), which is why this is LOW.",
+      "repair_target": "Line 209 only, which is the one instance that is both author-added and adjacent to the fixed text. Drop the age and the count from the roster line and let the fixed text carry them: 'Me: the still place; a cord that reads everyone else.' Line 183's 'And himself. Nineteen. Ten.' is the catalogue's own rhythm and may stand if the human wants two. Do not touch line 7 (the inventory's statement) or line 211 (fixed, verbatim).",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH01-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "invention-budget",
+      "gate": "Packet invention_budget — allowed[3] 'Names: NONE new'; forbidden[0] 'Any new place, person, or fauna name'; approval_required[0]",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 189,
+        "line_end": 189,
+        "quote": "There's a registry office on the old town, and under the old town there's an archive that was there before the Compact was — the Deepstacks, the scholars call it, when they call it anything — records nobody converted because nobody was ordered to and nobody needed to."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch01-editor-prompt-r1.md",
+        "line_start": 522,
+        "line_end": 522,
+        "quote": "Karis's case for Treswick made plainly at a table to the six: the carvings are instructions in a language she cannot read; the index is a designation she cannot read; everything she needs is west, inside walls, in an archive nobody has opened since before the Compact — and the case is NOT answered in this chapter."
+      },
+      "consequence": "Two new place names reach the page: Treswick and the Deepstacks. Treswick is named in the obligation itself ('Karis's case for Treswick') and is therefore sanctioned. The Deepstacks is not — the obligation says only 'an archive', and the invention budget forbids any new place name and says 'Names: NONE new' in the same breath. It is architecture-approved NEW-CANON for the book, so a human may well accept it, which is why this is LOW and not higher. The cost is a small pre-payment: the architecture gives the archive's name, the scholars' provision, and the specialist to Ch5's closing exchange ('The archive under it. Cleon.'), and Ch1 now spends two of those three. The third — Cleon — is correctly withheld, and that restraint is what makes the other two visible.",
+      "repair_target": "Either (a) a human EXCEPTION on the invention budget, recording that Treswick and the Deepstacks are architecture-approved NEW-CANON released at Ch1, or (b) line 189: hold the name to Ch5 and let Karis describe the thing — 'under the old town there's an archive that was there before the Compact was, and the scholars have a word for it — records nobody converted...'. Do not remove the old scholars' provision, which the case needs to explain why she cannot get in, and do not name Cleon.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH01-010",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "plant",
+      "gate": "Packet obligations.plants[3] — 'The two straightedges on one map — Hesk's note remembered in one line (‘true to a hair’)'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 41,
+        "line_end": 41,
+        "quote": "Then the straightedges. Karis laid the Ternhall edge along the map's bearing and it touched four. I laid it, and it touched three and the fourth by a hair short — a hair — and Lira laid it and it touched four, and I laid Hesk's edge and it was a hair long."
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-24.md",
+        "line_start": 87,
+        "line_end": 87,
+        "quote": "*Nineteen. I'm told it's late; the ferry's fault, not mine. Your grandmother said a man who catalogues everything eventually needs to draw a line through it. This one's true to a hair. Mind the shape. — H.*"
+      },
+      "consequence": "The plant's substance is delivered — both edges are on one map at ch01.md:41 and 139, sourced and named — and the anomaly is measured in hairs, which is a real echo of Hesk's phrase. But the note itself is never recalled, so the echo only fires for a reader who is holding chapter-24.md:87 in mind, and the irony the plant is built on is invisible: the instrument-maker who guaranteed the edge true to a hair has sent Cael the one object that reads a hair wrong in his hands. Searched scope: the whole of ch01.md; greps for 'Hesk', 'note', 'true', 'Denvash' return the edge and its provenance and no reference to the note or its wording.",
+      "repair_target": "One clause at 41 or 139, in the log's register, recalling the note rather than quoting the letter — e.g. at 41, after 'and I laid Hesk's edge and it was a hair long', something to the effect that the man who cut the marks on it had written that it was true to a hair, and that he had been right, and that the hair was mine. Do not reproduce the note's other sentences; Hesk is off-page until Ch14.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Packet-internal tension for the human to rule on, not a defect in the draft: obligations.plants[0] says the anomaly must be staged so that 'nobody says ‘instrument’, ‘error’, or ‘system’ about him', while obligations.must_include[3] requires Cael to log it as 'one more thing the instruments can't parse' and to note 'it is the third instrument to do it'. The draft follows must_include, and the word 'instrument' appears four times inside Cael's own log (ch01.md:45). Read as the more specific instruction governing the more general, which is the right resolution; but the Book-11 plant's language rule should be restated for Ch5, Ch14 and Ch22 so the recurrences do not inherit an ambiguity.",
+    "The REVISED block's clause 'Cael's ribs: quiet since the marsh; she reads the surface and finds them healed — the deep reading waits (Ch7)' is not paid as a surface reading. Oryn assesses him by eye and defers all contact: 'You're whole,' she said. 'I can see it from here.' (ch01.md:155). This is the safer choice against the packet's own prohibition on reading anyone without asking, and it keeps 'ask first, every time' clean in both directions — but the arc note asked for hands on ribs, and a human should confirm which the book wants before Ch7 is packeted.",
+    "obligations.must_include[3] frames Karis's ruler sentence as 'the winter's joke and once not as a joke'. The draft renders the doubling as rule and not-rule: 'She said it as she had said it at the Stair, as a rule, and then she looked at the cord in my hand for a while, and said it again, and it was not a rule the second time.' (ch01.md:43). The structural work — said twice, changed by nothing but her looking at the cord — is delivered and is arguably truer to Karis, who does not joke; recording the register change so the arc can accept or reject it.",
+    "The 129th (first snow) and the 130th (the ferry's last run) are never stated as numbers, though must_include[0] names both. Both are recoverable in one step from the opening date and 'The ferry went west yesterday' (ch01.md:3-5), and every entry is dated from the Line, so the day-count obligation is substantively met. Flagged only because a later continuity pass working from Book 8 alone has to do the subtraction.",
+    "'the third instrument this winter that reads everyone but me, if you count Oryn's hands as an instrument, and I do' (ch01.md:45). Oryn's hands read him in the autumn (B7 Ch13/14/22), not this winter; the qualifier makes the count of three work, but 'this winter' pulls the hands into a season they were not in. A four-word fix if the line-edit pass agrees.",
+    "Book 7 Ch24 has both edges touching 'the three centres without a hair of daylight and the fourth as near as the sheet allowed' (chapter-24.md:119), because the fourth circle is the carter's drawing, not a paced centre. The draft flattens this to 'it touched four' (ch01.md:41) and 'they do not stop touching all four' (ch01.md:35). Not a contradiction — the anomaly still reads — but the fourth circle's approximate status quietly hardens, and Ch19 enters that site on the strength of it.",
+    "'because' appears 38 times in 5,132 words. This is the cataloguing narrator's own subordination engine and it is doing real work in most instances, but the density is at the top of the series' range and Ch1 sets the book's baseline; worth measuring against B7's per-chapter figure in the line-edit pass rather than cutting by instinct.",
+    "Density is 5,132 words against 4,600 (+11.6%), inside the +/-15% band but using most of its upward room in the book's first chapter. Nothing to repair here; noted so the book-level average is watched from Ch2 rather than from Ch12."
+  ],
+  "strengths": [
+    "The fixed closing text is byte-exact. A programmatic diff of the file's last line against the card returns an exact match, 'an index she can't read' included, and the file's last byte is that line. Do not let any repair pass touch line 211.",
+    "The chapter's hardest number is exactly right. Lira's 'Five months and twenty days.' (ch01.md:89) is 170 days after the bite on the 96th, which the draft itself re-states on the page ('where a hound's teeth had gone in on the ninety-sixth day', ch01.md:97), and which lands on the 266th given the departure on the 265th and the two-day road. It also silently fixes the series' month at thirty days and then holds that month across the ferryman's forecast and the mule's shed. This is the single most checkable thing in the chapter and it survives checking.",
+    "The release is staged as Lira's act, not the healer's, and the text says why: Oryn waits instead of reaching, 'because then it would have been the healer's and not the woman's' (ch01.md:101), and the sling comes off by a knot Lira learned to undo one-handed because she had had to. Five months of Book 7 restriction are paid in a gesture rather than a speech.",
+    "'Ask first, every time' is honored in both directions and dramatized as restraint on the protagonist's side. Oryn makes Lira ask ('Ask me.' / 'Will you mend it.'), and Cael declines a reading he could have taken: 'Cael did not count it. He wanted to and did not, because she had not asked him to' (ch01.md:123). The rule the tenth fragment came with is shown costing him something in the one chapter where nothing else costs anyone anything.",
+    "The Book-11 anomaly plant is exactly as deniable as it needs to be. Four people pace forty-two and he paces forty-one and a piece, three times, with the same cord and the same stones; the log files it in its own shorthand — 'Claim: something. Evidence: a cord, two edges, a hair. Ruling: hold.' (ch01.md:45) — attributes it to the unreadability he has carried since fourteen, and closes with 'Nobody at the table said that. Nobody said anything, and we went in to the fire, and the yard stayed forty-two strides for everyone else.' No theory, no gloss, and a protagonist confidently wrong in a way the reader cannot yet name.",
+    "Karis's ruler sentence is delivered twice and the second delivery is changed by nothing except where she is looking: 'and then she looked at the cord in my hand for a while, and said it again, and it was not a rule the second time' (ch01.md:43). The winter's turn is made without a single word of explanation.",
+    "Oryn's coming down is her route's arithmetic and not a favour, and the chapter refuses to soften it: 'I'd have been at Pike's plank in six days with or without a map. I'll be there in two. Get the mule.' followed by 'Nobody had asked her. He noted that — he noted everything — and put it in the place where he kept the things that were true about her' (ch01.md:169-171). The sixth chair is filled without anyone asking for it, which is the only way B7 said it could be.",
+    "The Tide cost is visible and specific: Oryn 'sitting back on her heels in the mud with her face the colour it went' (ch01.md:125), after a mending she refused in Book 7 for want of reserve and takes now because she has had a winter. The refusal and the acceptance are given the same reason, stated by her: 'I said that on a road with a man's shoulder to mend and a bank to sleep on. I've had a winter.' (ch01.md:115).",
+    "The chapter refuses to pre-pay Ch2 at the exact point it would be easiest. Karis's case is made in full, plainly, in her own order, and then: 'Nobody answered.' (ch01.md:191). Oryn's objection is left as a silence the narration explicitly declines to resolve — 'It was hers, and she would say it when she said it, and the ferry had not run' (ch01.md:193).",
+    "Ch5's seam is protected with one clause: 'There's a man there who is.' (ch01.md:189). Cleon is not named, so Cael's 'Who's Cleon?' four chapters on still lands as a first hearing.",
+    "The winter is rendered as an economy rather than a mood — eleven slips where there were forty, a meadow rate bought with a board-keeper's word, forty-one posts, two of Teague's a hand off true and reset without comment, a factor's own book, and Pike writing PAID under a season line he is deliberately leaving blank. Charter 3.7 in practice."
+  ]
+}

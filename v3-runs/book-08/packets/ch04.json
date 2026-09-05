@@ -1,0 +1,183 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch04",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 4 card — The Border Road, combat-primary; Chapter 5 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–3' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "combat",
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten fragments; the still place untouched. Days: Ch3 closed on the evening of the 277th; the contract is taken the next morning (278th) and the crew leaves Lowmarch that day or the next — state the days; the border road runs three days from Lowmarch to Treswick; the fight is on the first or second day out (Ch5 halts on the road; 'a day and a half' to Treswick at Ch5's close).",
+      "Seven on the road: the six plus Vastin (heard, not admitted; walking with them because the road is the same road; he has not asked and nobody has answered). Oryn walks west with them — her fork north is Ch6; she is present at this fight and NEVER fights (she positions where the casualties will be). One mule (Oryn's kit and Karis's boxes on it); the records in Karis's keeping; the crossbow with Lira.",
+      "Stillhounds as B7 established (Ch3, Ch10–11): grey, low, silent; they hunt Path DISCHARGE; nearly blind to a body not using one; they follow the first mover, not a leader; water hides them; a still body is nearly nothing to them and a declaration is everything; they turn to the loudest one, all at once. The crew's doctrine: fight silent, bait loud; Brom learned at the ford that Iron Skin is a declaration and fights with a stone and his shoulder; Lira runs without Wind; Seln is where he is; Cael moves first.",
+      "Iron Wall Path (first SHOWN on the page here; canon from the bible; mechanics PROVISIONAL per the architecture reference): Vastin, Silver-tier — a braced plane, a held line, ground that does not give; the declaration ROOTS the practitioner and everything behind him; it cannot be carried on the advance; a rooted man cannot chase; it protects what is behind it and nothing else. Its LIMIT must be shown on the page in this fight BEFORE Cael needs it (Ch12): the wall works, and it makes him the loudest thing in the defile, and he cannot move. Cael does NOT integrate Iron Wall here (Ch12).",
+      "Cael's burst (Wind-adjacent) is the loud thing he can be on purpose; his frameworks knock together after; ribs quiet since the marsh. He does not use Anchor, Shadow, or the reading here; the still place is not touched.",
+      "Lira is two-armed, twelve or thirteen days released, the arm slow; the ankle mended and 'listening'. Brom's shoulder bound and unread — carried. A hound's tooth through Brom's boot is the card's ledgered cost; Vastin 'spent to the floor by a single rooted declaration held too long'.",
+      "No quiet ground exists west of the Line; the sink is a frozen sink; nobody's Arbiter goes dark; nobody says 'quiet'.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; Pressure = 'the Bronze from Ardenmere' if inventoried aloud; no modern idiom; no meta-voice."
+    ]
+  },
+  "purpose": "The road west and the book's first full fight. The decision west is STAGED, not summarized: a clearance posting on Pike's board — a hold on the border road has lost carters to a stillhound pack in a frozen sink — is taken because it pays and the road west has to be walked anyway, and taking it is the crew saying west without saying it. Then the fight, terrain first: a defile with a frozen runnel, scree walls, the pack denning in the sink's lee where the border traffic declares at the ice (no quiet ground — none exists west of the Line). Vastin in a fight for the first time: Iron Wall declared across the road's mouth — a rooted plane — which WORKS and costs exactly what it costs: every hound turns to the loudest thing, which is now him, and he cannot move. The crew adapts around the wall; Cael takes the geometry as at the Thornwater ford — one open burst AWAY from the wall, moving first — but the terminal beat is the WALL, not Seln's blade: the break is turned back into the rooted thing, which becomes the thing the pack breaks on. Close on the log with the card's fixed text.",
+  "scene_shape": {
+    "opening_state": "Pike's plank the morning after the handover: a slip a hold on the border road posted at the thaw — carters lost to a pack in a cut of the road three days' walk west, a clearance, priced; Brom prices it; the six look at the slip and at each other and at the brown coat at the door end, and Karis says 'Ours' before Brom can, and that is the decision west made in the only way this crew makes decisions it does not want to make aloud. Pike writes HOLD and the five names, and then, because the board writes what it sees, a sixth line under them for the healer who is a stop on her own route, and does not write a seventh.",
+    "pov_goal": "Cael wants the road west to be a road — ruts, a cart's width — and the fight to be the kind the crew knows how to fight; he gets the second and not the first, because the road is maintained and measured and the man walking it beside him has never once fought as one piece of anything.",
+    "opposition": "The pack (seven to nine hounds) in a frozen sink where the border traffic declares at the ice; the defile — a cut with a frozen runnel down its middle and scree walls too steep to climb fast; Vastin's reflex, which is to be the immovable centre; the crew's doctrine, which has no place for an immovable centre.",
+    "turn": "The pack breaks from the sink; Vastin declares Iron Wall across the road's mouth — a rooted plane that the hounds cannot cross — and it works, and every hound in the defile turns to the loudest thing in it, which is now the rooted man, who cannot move. The crew adapts around the wall as it adapts around everything: Brom silent at Vastin's flank taking what the wall turns; Lira running the scree above, two-armed; Seln gone from every sightline.",
+    "choice": "Cael takes the geometry the way he learned at the Thornwater ford — one open burst AWAY from the wall, moving first, so the pack breaks toward him — and then does the new thing: turns the break back INTO the wall, so that the rooted thing the pack could not move is the thing it breaks on. Not Seln's blade; the wall. Seln finishes in the runnel after the wall has done the breaking.",
+    "outcome": "The pack broken on a plane it could not cross; steel in the runnel; costs ledgered forward — a hound's tooth through Brom's boot; Vastin spent to the floor by one rooted declaration held too long; Cael's burst paid in the usual currency (breath; the frameworks knocking; a day). Oryn at the casualties with her hands. Vastin's lesson said once, on the ground: out here the wall holds the line and someone else has to be the reason the enemy wants the line.",
+    "closing_state": "LOG — the card's fixed text verbatim: \"Vastin fought. He rooted the road and nearly got eaten for it — a wall's no good if you're the only thing making noise behind it. He knows fields. He doesn't know packs. He'll learn or he won't. Watched an Iron Wall go up two feet from me. Filed it. Note the day: an Archmarshal took a wound out here and there was no one to report it to. He looked almost free. Almost.\" The file ends on the log's last line."
+  },
+  "obligations": {
+    "must_include": [
+      "The decision west STAGED at Pike's plank as a clearance contract taken ('Ours'), dated; the hold, the pack, the cut named by the slip; Brom's price; Pike's sixth line for the healer.",
+      "Geography drawable before the first exchange (charter §4.1): the cut in the border road — the frozen runnel down its centre, the scree walls too steep to climb fast, the sink fifty meters off the road in the cut's lee where the ice is and the border traffic declares; where each of the seven stands when the pack breaks.",
+      "Four exchanges, each changing position/information/resource/injury (§4.2): (1) the crew walks the defile silent; the hounds break from the sink; Vastin declares IRON WALL across the road's mouth — a braced plane — it holds; every hound turns to him; he cannot move (the limit SHOWN); (2) the crew adapts around the wall — Brom silent at the flank with stone and shoulder, Lira on the scree two-armed, Seln gone; (3) Cael moves first — one open burst AWAY from the wall — the pack breaks toward him; he turns the break back INTO the wall; the wall is what the pack breaks on; (4) finished in the runnel with steel — Seln's, Brom's, Lira's — after the breaking.",
+      "Iron Wall's mechanics stated on the page before they matter (§6.1): a plane, rooted, cannot be carried on the advance, protects what is behind it and nothing else; a rooted man cannot chase.",
+      "Win-sentence in the log or in the body, in the series' form: Cael removed the pack's ability to converge on Vastin by becoming the louder target and turning the break back into the wall — the rooted thing the pack could not move became the thing it broke on.",
+      "Vastin's lesson (§4.5), one sentence, said once: out here the wall holds the line and someone else has to be the reason the enemy wants the line.",
+      "Costs ledgered forward (§4.3): Brom — a hound's tooth through the boot; Vastin — spent to the floor by one rooted declaration held too long; Cael — the burst's bill (breath; frameworks knocking; a day). Oryn's hands on the wounded, never in the fight.",
+      "Close on the log with the card's fixed text VERBATIM; the file ends on it."
+    ],
+    "plants": [
+      "Iron Wall's limit (a rooted man cannot chase; the wall protects only what is behind it) — taught here, paid Ch12.",
+      "Vastin 'looked almost free. Almost.' — his arc's first notch.",
+      "The border road as a MAINTAINED road (milestones, a kept surface, a hold's factor who posts to Pike) — the seam between the edge and the governed side, three days to a city on the Line.",
+      "Oryn positions where the casualties will be and does not fight — the rule carried; her fork is next (Ch6)."
+    ],
+    "payoffs": [
+      "Book 7's declaration-discipline paid as doctrine the crew owns; the ford's lesson (first mover) reused and EXTENDED, not repeated: the new element (a rooted ally as the noise source) resolves the fight it created.",
+      "Pike's sixth line: 'Six, by letter' made ink."
+    ],
+    "prohibited_outcomes": [
+      "No quiet ground, no Arbiter going dark, no 'quiet' anywhere west of the Line.",
+      "No integration of Iron Wall (Ch12); no fragment notice; no reading; no Anchor or Shadow used.",
+      "No 'Seln took the dog' as the terminal beat (B7 Ch3 spent it); the wall is what the pack breaks on.",
+      "No records read on the page (Ch5); no 'Cleon' (Ch5); no Treswick reached; no fork for Oryn (Ch6).",
+      "Oryn never declares, never fights; the healer of no Path is not present (Teague's crew stays at Lowmarch).",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; capped phrases 0; the closer is the LOG (Ch3 closed on an image)."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The border road's texture (a kept surface, milestones or wayposts, a hold's gate, the first carts of the season); the cut, the runnel, the scree, the sink's ice; the pack's count (seven to nine) and behaviour within B7's mechanic.",
+      "The hold's factor or gate-keeper, unnamed; the slip's wording."
+    ],
+    "approval_required": [
+      "Any new named person or place (the hold may be named-by-role: 'the hold at the cut').",
+      "Any Iron Wall mechanic beyond the reference paragraph."
+    ],
+    "forbidden": [
+      "Any site, perimeter, or Quieting west of the Line.",
+      "Any theory about the records, the citation, or the six years."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 3 (Six Years)",
+      "path": "v3-runs/book-08/drafts/ch03.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapters 1–2 (the winter; Vastin's arrival)",
+      "path": "v3-runs/book-08/drafts/ch02.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 3 — the Thornwater ford fight: stillhound doctrine, the first-mover lesson, the log's form",
+      "path": "books/book-07-void-roads/chapters/chapter-03.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 11 — the pack inside the Ring; Lira's arm",
+      "path": "books/book-07-void-roads/chapters/chapter-11.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 5 card — What the Records Say (the halt; Cleon named) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch04.md",
+    "report_path": "v3-runs/book-08/reports/ch04-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch04-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch04-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

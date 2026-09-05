@@ -1,0 +1,180 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch07",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 7 card — The Reading, Inward; Part 1's scheduled no-deflection scene; Chapter 8 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–6' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen. The 281st: Oryn north at first light; the rise; Treswick sighted (three walls, three gates, the station's light on the crown — he did not look). This chapter is the same day's road down to the river and the last camp short of the outer gate; Treswick 'tomorrow'.",
+      "Six on the road (five and Vastin), one mule (Oryn's kit gone north with her; Karis's boxes on the mule). No healer. Brom's foot and shoulder as Oryn priced them; Lira's arm fifteen days; Vastin's knee.",
+      "THE READING (Tide-adjacent, tenth fragment, B7 Ch13): contact, both hands, the healer's current run through the architecture — 'listening with my hands to how you're built'; two modes (surface: seconds; deep: minutes, still and uninjured); on himself he has run it three times (B7 Ch14, Ch22, Ch24) and 'not touched since a healer said stop' — Oryn's order at the marsh. Running it now is a choice against that order? NO: Oryn's 'stop touching it' was about the still place; the reading of his currents is his to run; the still place he reads AROUND and does not touch. Stage the distinction.",
+      "What the reading returns (B7): ten currents he can name — Wind, Pressure ('the Bronze from Ardenmere' in any spoken run), Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, and Tide as the instrument itself; the still place at the middle: 'Doesn't flow. Doesn't change. Everything goes around it. Not the Quiet. Not a fragment. Older than the log.' He does NOT theorize it; he may suspect the instrument.",
+      "Book-11 plant 3 carried (not advanced): the cord and the straightedges read a hair off in his hands; the station is a thing that reads; the promise stands; NOTHING faint happens here (Ch14).",
+      "Vastin: no rank between them; Cael 'the case-file', Vastin 'the instrument' — the man who signed the assignments; the B6 sentence not repeated; Iron Wall shown at the cut; 'draft nothing' learned; the knee. He does not ask to join; no vote.",
+      "SEALED: no 'Architect' theory; no 'structure' as a word for the still place yet (Cleon's Rune sense is Ch13); he may say he needs 'an instrument for what doesn't move' (fixed log). [UNBOUND], 'primordial', 'before the Paths': never.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; capped phrases ('upside down' book-capped — ONE use left in B8; avoid; 'for the length of a breath' — avoid)."
+    ]
+  },
+  "purpose": "The self-study chapter and Part 1's scheduled no-deflection scene: on the road's last approach to Treswick, Cael runs the Tide reading on himself and the book stages what he finds as sensation and shape, never explanation — nine fragments as currents he can name; the tenth as the instrument itself; the still place as a place where nothing flows and everything goes around, returning the same nothing it always has. New: he begins to suspect the reading is the WRONG instrument for the still place — a technique built to feel current can only report current absent — and he has no other instrument, and is a day from a man who reads structure. Relationship work: Cael and Vastin walking, the enforcer and the case-file, two men who spent their lives being the thing an institution could not classify, no rank between them for the first time; not friendship; the ground it grows in. Close on the log with the card's fixed text (with 'Tomorrow.' for the day-count).",
+  "scene_shape": {
+    "opening_state": "The road down off the rise toward the river and the bluff, the city growing all day at the end of it; the crew walking in the order it walks; Vastin at the back and then, because the road is wide and kept and there is nowhere else to be, beside Cael.",
+    "pov_goal": "Cael wants to know what he is carrying into a city that reads bodies — to have read himself, properly, before an instrument does — and to do it without touching the thing a healer told him not to touch.",
+    "opposition": "The reading's own nature (it feels current; the still place has none); the order at the marsh; the walls ahead; a man beside him who once filed him and now has no file to put him in.",
+    "turn": "The reading, run at the last halt with his back to a waypost and the river below: the ten currents named as sensation and shape; the still place read AROUND — the going-around felt — and the new thing: the suspicion that the instrument is wrong, that a stillness cannot be measured by a thing that only feels movement, and that what the still place is, is not a matter of flow at all.",
+    "choice": "He does not touch it. He stops at the edge of it as he stopped at a page on a table, and lets the reading return the nothing it returns, and writes down that the instrument is wrong and that he needs another, and does not guess what it is — and then, walking, tells Vastin one true thing about himself that no file ever held, because the man has no file to put it in.",
+    "outcome": "The two men walking with no rank between them: the case-file and the instrument, each the thing the Compact could not classify — one its error, one its tool; not friendship; ground. Treswick's walls close enough to have a colour. Camp short of the gate.",
+    "closing_state": "LOG — the card's fixed text verbatim: \"Ran the reading on myself again. Same nothing at the center. I think the reading can't do it — you can't measure a stillness with a thing that only feels movement. I need an instrument for what doesn't move. Karis says there's a man in Treswick who reads how things are built. Maybe that's the instrument. Maybe I'm about to hand a stranger the one question I've never let anyone hold. Tomorrow. The walls are close enough now to have a color.\" The file ends on it."
+  },
+  "obligations": {
+    "must_include": [
+      "The day dated (the 281st) and placed (the rise → the river → the last camp short of Treswick's outer gate, the city closer all day).",
+      "The reading run on himself as a scene, staged as sensation and shape (charter §5.1: the system on the page only when he attends to it; no stat block): the currents named one by one in the inventory's words; Tide as the instrument; the still place read AROUND, the going-around felt, the nothing returned.",
+      "The distinction with Oryn's order at the marsh stated: 'stop touching it' was the still place; he reads his currents and does not touch it.",
+      "The new suspicion in his own register: the reading is the wrong instrument — it feels current; the still place has none; 'you can't measure a stillness with a thing that only feels movement' — and that he has no other instrument and is a day from a man who reads how things are built (Karis's word for Cleon).",
+      "The no-deflection scene (THE_AUTHOR Gate 25): Cael processing — the walls ahead, the instrument that reads bodies, the promise, the cord — without deflecting into a catalogue; at least one passage where he says what he is afraid of, plainly, to himself or to Vastin.",
+      "Cael and Vastin walking: the enforcer and the case-file; no rank between them; each the thing the institution could not classify (its instrument; its error) — said or shown; NOT friendship; one true thing exchanged.",
+      "Close on the log with the fixed text VERBATIM (as given, 'Tomorrow.'); the file ends on it."
+    ],
+    "plants": [
+      "The need for an instrument that reads structure (Ch13's Rune acquisition) — planted as need, not named.",
+      "Vastin/Cael ground for Book 9's vote — planted as two men walking, nothing more.",
+      "The station as the instrument that reads bodies — the promise carried; nothing faint yet (Ch14)."
+    ],
+    "payoffs": [
+      "B7's self-readings (Ch14/22/24) — carried forward and turned: the same nothing, now suspected of being the instrument's nothing.",
+      "Oryn's 'lie still when I say' / 'stop' — honored by reading around, not through."
+    ],
+    "prohibited_outcomes": [
+      "No touching the still place; no theory of what it is; no 'structure', 'made', 'instruction' as words for it (Ch22); no 'Quiet' connection.",
+      "No fragment notice; no fight; no injury; no city entered; no station approached or looked at.",
+      "No 'Architect'; no six-year arithmetic on the page; no Iron Wall declared.",
+      "No vote, no request to join; the B6 sentence not re-quoted.",
+      "No image closer (Ch6's), no dialogue closer (Ch5's); the closer is the LOG, verbatim.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; capped phrases 0; no meta-voice."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The road down to the river; wayposts; the last camp; Treswick's colour at dusk (grey, ochre, whatever the stone is — one colour).",
+      "Cael's sensations in the reading — shape, temperature, flow — within B7's register ('following his architecture the way water follows a channel'; 'strings ring on a bench').",
+      "One true thing Cael tells Vastin (his choice) and one Vastin tells him (about being the instrument) — no new institutional facts."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any statement about what the station does or would do."
+    ],
+    "forbidden": [
+      "Any explanation of the still place; any Rune mechanic; any Architect theory."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 6 (Oryn's Terms)",
+      "path": "v3-runs/book-08/drafts/ch06.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 14 — the first self-reading (the still place located)",
+      "path": "books/book-07-void-roads/chapters/chapter-14.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 22 — the second self-reading ('It isn't the Quiet')",
+      "path": "books/book-07-void-roads/chapters/chapter-22.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 13 — the deep reading taught; the register for the reading's sensations",
+      "path": "books/book-07-void-roads/chapters/chapter-13.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 8 card — The Line at Treswick (arrival; the outer district; the clerk) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch07.md",
+    "report_path": "v3-runs/book-08/reports/ch07-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch07-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch07-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

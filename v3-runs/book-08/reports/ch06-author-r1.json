@@ -1,0 +1,65 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch06-r1",
+  "scene_id": "b8-ch06",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch06.md",
+  "word_count": 4024,
+  "obligations": [
+    {
+      "obligation": "The fork dated and drawn; camp at the fork",
+      "status": "MET",
+      "evidence": "'a squared post of grey rock … on the evening of the two hundred and eightieth day'; west over a rise; north-west to a gap; 'They camped at the stone.'"
+    },
+    {
+      "obligation": "Oryn's want in a scene about HER; the city that rationed her; 'leaving and routing are different verbs'; nobody tries",
+      "status": "MET",
+      "evidence": "'I'm not an archive person.' … 'Bronze and above first … I left.' … 'Leaving and routing are different verbs. I'm doing the second.' / 'Nobody's going to try.'"
+    },
+    {
+      "obligation": "The fixed term verbatim; Cael writes it in the log on the page and reads it back",
+      "status": "MET",
+      "evidence": "'You go inside, you don't go near the station. Not the steps, not the square. You promise me in that log of yours, because I've seen what the log does to you.' — the log entry written in italics and read back; 'That'll do.'"
+    },
+    {
+      "obligation": "The cost of no healer priced; Brom's shoulder; Treswick's healers by rank; 'I'll read it at Millrace'",
+      "status": "MET",
+      "evidence": "Oryn's pricing round the fire: 'not three times this season … no healer inside that gate who'll put hands on a Copper's shoulder'; 'Bind it fresh every fourth day'; 'Millrace … I'll read the shoulder there and the knee there and I'll read you there'."
+    },
+    {
+      "obligation": "Her grievance: an unreadable patient toward an instrument that reads bodies",
+      "status": "MET",
+      "evidence": "'You do not walk a body you can't read toward the one instrument on the continent that reads bodies.'"
+    },
+    {
+      "obligation": "Nobody asks her; the condition named",
+      "status": "MET",
+      "evidence": "'That was correct. It was the condition.'; 'the condition was the condition and he had entered it in his own hand on a bank at Millrace'."
+    },
+    {
+      "obligation": "Vastin outside the circle; one beat of him watching",
+      "status": "MET",
+      "evidence": "'a thing no unit of the Compact's had ever done … discipline or its absence, and … too honest to guess'; priced at the fire 'in the same breath as a Copper's shoulder'."
+    },
+    {
+      "obligation": "Close on the fixed image; Cael not looking at the station's light",
+      "status": "MET",
+      "evidence": "The mule at a quarter-mile; Treswick's three walls and the light on the crown; 'He did not look at it.' — the file ends on 'and it could.'"
+    }
+  ],
+  "inventions": [
+    "The fork-stone's two marks; Oryn's year inside walls ('you'll not be wasted on the yard, girl'; the yard septic under the window) — no city named; Seln's 'Three weeks' arrangement.",
+    "Oryn's new line for the archive: 'Bring me whatever walks out of that archive with you. All of it.' (B7's fixed fork lines not re-said; the first is referred to as 'the other sentence')."
+  ],
+  "state_change_proposals": [
+    "Day 280 evening (the fork; the camp) → 281 first light (Oryn north; the rise; Treswick sighted). Oryn's route: five holds left; three weeks to a month; rendezvous MILLRACE ('I'll read you there, on a table, properly').",
+    "The PROMISE in the log (the 280th's page): inside Treswick, not the steps, not the square — read back to her; said twice at the fork.",
+    "Oryn's instructions: Brom — bind fresh every fourth day (Karis's thread), never use the shoulder inside; Lira — the arm fifteen days, stop when it tells her twice; Vastin — carry the knee to Millrace. She has NOT read Cael ('the one thing I'm walking up that road owing').",
+    "Treswick from the rise: a bluff, three walls in tiers, three gates, the station's pale light on the crown; Cael did not look."
+  ],
+  "deviations": [
+    "Oryn's line 'Bring me whatever walks out of that archive with you' replaces the card's rhyme of 'Bring the map' (prohibited verbatim by the packet).",
+    "Word count ~4,0xx after expansion — in band."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,284 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch02",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 2 card — No Sanction; Chapter 3 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen. Ten fragments; the still place untouched. Day-count: the closing log of Ch1 was the 270th; 'ice goes next week' — the ferry's first run lands in this chapter, on or about the 275th–278th (state the day).",
+      "Six at Lowmarch: Lira two-armed and on her own foot since the 266th (slow for a month; the arm aches in the wet); Brom's shoulder bound, carried still and forward, unread by Oryn; Karis with the kit, its ledger, the three copies, the map and both straightedges; Seln with the case; Oryn on her spring's first stop (Lowmarch), Millrace next; the crossbow on the inn wall.",
+      "Cash: a hundred and eighteen in hand; nothing owed. Pike's page: ten completed lines under the five names; the season line blank; the five eleventh on the wall sheet. Teague's crew at the upper inn, its spring term standing.",
+      "Karis's case for Treswick (the Deepstacks; the old scholars' provision; 'a man there who is') was made and not answered. Nobody has decided west.",
+      "VASTIN as Cael knows him: Archmarshal, the Compact's senior enforcement officer, Silver-tier, Iron Wall Path (the bible's canon; the Path has never been SHOWN on the page — do not stage it here); fifties; the inspection of Books 4–5; the direct antagonist of Book 6; at Book 6's close he said the one sentence the series holds for him — 'I knew the system was imperfect. I didn't know it was designed to be.' — and did NOT switch sides: no alliance, no files, no walkout. Book 7 gave Cael NO news of him. Cael does not know he resigned or walked; the distinction is Vastin's to make on the page, and the chapter lets it not matter.",
+      "What Vastin says he found (stated, not paid out): a NAME in the Compact's classified history, and a LOCKED LAYER — the sub-layer Karis has carried since Book 6 and named aloud in Book 7 ('under every station on the continent'). His NEW claims: no living official can reach it, and the trail on the name dead-ends in a pre-Compact archive at Treswick. He does not hand over records, does not say 'Architect', does not say 'six years'. Karis hears 'sub-layer' as a woman who has carried it for a book, not as news.",
+      "Vastin has no rank he can invoke; a name is not a demonstration out here; the board priced him at nothing; the broker who brought him east did it for coin. He has NOT asked to join and will not (Book 9). The 3–2 vote is NOT staged, hinted, or scheduled.",
+      "The Compact's asset-restriction on Cael is pending jurisdiction and unexecutable beyond the Line (B6 close) — Vastin may say so in one line if asked; he is not here to execute anything.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken', 'Feryn' (with Oryn in a list). No 'Architect', 'primordial', 'reset', '[UNBOUND]'. Lira has watched Cael measured by men in grey since Norhold and is the last to sit down.",
+      "Pike's ferry: the season's first mail comes in with it and the ferry turns back west with the first outbound sack the same day."
+    ]
+  },
+  "purpose": "Targeted repair of Book 8 Chapter 2 (r1 → r2) against the twelve verified findings of reports/ch02-editor-r1.json. Only the flagged spans change; byte-identical elsewhere.",
+  "scene_shape": {
+    "opening_state": "The ice gone; the ferryman's ropes rigged; the meadow filling; the first ferry of the year sighted from the landing at first light with the Line's lead on its sack — and one passenger standing at the bow who is not a carter and not a broker's man and is looking at the landing the way a man looks at a place he has read about in files. Cael on the landing because he catalogues arrivals; Seln beside him because Seln reads faces off boats.",
+    "pov_goal": "Cael wants the first ferry to be mail and hides and nothing else; he gets the last man on the continent he expected, and wants, then, to know what the man is FOR before he lets him near the table.",
+    "opposition": "Vastin himself — alone, in traveling clothes with no grey, a pack and a stick, the walk of a man who has come the hard way; the board's indifference to him (Pike prices him at nothing, aloud); Lira's refusal to sit; the crew's memory of three books of inspection; Oryn, who has never seen him and reads him as a body (a man in his fifties who has walked further than he should on a knee that says so).",
+    "turn": "Seln, in the inn's doorway, says the true thing at an angle — 'You came through the board.' / 'I came through the board.' / 'Then you already know it doesn't care who you were.' / 'I'm learning.' — and Vastin sits at a table where nobody has offered him a chair and states why he came: a name and a locked layer, found in the classified history before he left, which no one inside will pursue and which he cannot pursue from inside, and the only people on the continent who would do anything but bury it are the ones the Compact spent four years trying to file. He does not open his pack.",
+    "choice": "The crew decides to hear him out — not to trust him — as a decision taken at a table in the order the series takes them: Karis first (she wants the name and says so); Brom (prices what he can demonstrate: 'He walked here. Alone. In spring mud.'); Seln (reads him and says the thing about the board); Oryn (a finding, not a vote: 'That knee's carried him three hundred miles and he hasn't asked me for anything'); Cael last, and what he says is not yes — it is the question Karis asks, handed to her. Lira is the last to sit down, and sits.",
+    "outcome": "Vastin heard, not admitted; his pack unopened (Ch3); a chair at the table that nobody offered and nobody took away; Pike's ferry turning back west with the season's first mail. Cael's log NOT written here (the closer is dialogue).",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim: Karis asks plainly why he brought this to them and not to a council or a court; Vastin: 'Because a council would file it, and I spent forty years being the man they sent to make sure the filing held. I know exactly how deep a thing has to be buried before no one goes looking. This is deeper than that.' A pause. 'I helped bury smaller things. I'd like to dig one up before I'm done.' Nobody answers. The ferry, behind him, turns back west with the season's first mail. The file ends on the last line of prose (which may be the narration of the ferry, after his last line)."
+  },
+  "obligations": {
+    "must_include": [
+      "The ferry's first run of the year lands as a scene at the landing, dated (state the day past the Line); the Line's lead on the sack; the season's first mail in; the ferry turns back west the same day with the first outbound sack.",
+      "Vastin's arrival as Cael sees it before he knows who it is: a man alone, traveling clothes, no grey, a pack and a stick, the walk of the hard way east — recognized by the walk or the face, and catalogued as what he IS now, not what he was.",
+      "The board prices him at nothing, aloud, on the page: Pike, at the plank, asked what a name is worth, says the thing the board says ('What'd he do?' / a line only for what a man has done out here). Vastin stands for it.",
+      "Seln in the doorway — the fixed exchange verbatim and contiguous: \"You came through the board.\" / \"I came through the board.\" / \"Then you already know it doesn't care who you were.\" / \"I'm learning.\"",
+      "Vastin states why he came — a name and a locked layer he found in the classified history before he left; that no one inside will pursue it and he cannot from inside; that the only people who would do anything but bury it are the ones the Compact spent four years trying to file — and does NOT open his pack, hand over records, name the Architect, or say six years.",
+      "Karis hears 'a locked layer' as the sub-layer she has carried since Book 6 and named at a table in Book 7 — her reaction is a researcher's ('Under every station. I said so at a table in the autumn.'), not surprise.",
+      "Vastin's want (charter §7.4) in a beat that is about HIM: the man who has never brought a problem to a table without owning the response, with nothing behind him but the choice — a name and a rank that buy nothing; a chair nobody offers.",
+      "Lira, who has watched Cael measured by men in grey since Norhold, is the last to sit down — and sits.",
+      "Oryn's first sight of him is a healer's finding (the knee; the miles), one or two lines; she does not touch him; she does not vote.",
+      "Close on the card's fixed dialogue VERBATIM and contiguous (Karis's plain question; Vastin's 'Because a council would file it…' through 'I'd like to dig one up before I'm done.'), then 'Nobody answers.' rendered as narration, then the ferry turning back west with the season's first mail as the last line."
+    ],
+    "plants": [
+      "Vastin's 'a name and a locked layer' — the name is Ch3's (the Architect citation) and Ch15's; the locked layer is the sub-layer's administrative inaccessibility (Ch3) — plant only, no payout.",
+      "Treswick named by Vastin as where the name's trail dead-ends — converging with Karis's west (Ch1) without either of them saying so.",
+      "Vastin's knee (Oryn's finding) — a body that will hold a line and cannot chase (Iron Wall's limit, taught Ch4, paid Ch12) — one physical detail only, no Path named.",
+      "The asset-restriction, pending and unexecutable beyond the Line, in one line if the crew asks what follows him — a standing threat for any return west (Ch8–9)."
+    ],
+    "payoffs": [
+      "Book 6's 'I knew the system was imperfect. I didn't know it was designed to be.' — carried, not repeated verbatim; Cael may remember it in one line.",
+      "Book 7's freedom (no registry, no file) — tested by the arrival of the man who kept the file; the board's indifference to him is the freedom's proof."
+    ],
+    "prohibited_outcomes": [
+      "No records handed over; no case opened; no 'Architect', no 'six years', no 'sub-layer log', no Compact suppression policy stated (Ch3).",
+      "No vote to admit him; no request to travel with them; no hint of Book 9's 3–2.",
+      "No Iron Wall declaration or description of Vastin's Path on the page (first shown Ch4).",
+      "No fight, no injury, no fragment use; no reading of Vastin (ask first — nobody asks).",
+      "No decision that the crew goes west; Karis's case stays unanswered.",
+      "No log entry as the closer (Ch1 closed on the log); the closer is dialogue + the ferry line.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤3; no 'at the pitch'; no chapter/volume references; no authoring metadata."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The ferry's landing in spring (the sack, the ferryman and his boy, hides and mail, the meadow's new tents); Vastin's traveling kit (pack, stick, boots); the broker who brought him east referred to and unnamed.",
+      "Pike's pricing of him — one exchange at the plank.",
+      "The inn's long room at midday with strangers in it."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any statement of what the Compact knows about the crew beyond B7 (they walked out declaring; nothing about the inside)."
+    ],
+    "forbidden": [
+      "Any Compact document, office, or official not already on the page in Books 4–7.",
+      "Any mechanic of Iron Wall, the reading, or the Quieting beyond what is established."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "State snapshot pre-Chapter 1 (from Book 7's closed prose)",
+      "path": "v3-runs/book-08/state-b8-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 1 (Winter's End)",
+      "path": "v3-runs/book-08/drafts/ch01.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 24 (Lowmarch, first snow; the last ferry; the plank; the inventory)",
+      "path": "books/book-07-void-roads/chapters/chapter-24.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 3 card — Six Years (the handover) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-08/drafts/ch02-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "F-B8-CH02-001",
+      "severity": "HIGH",
+      "gate": "Architecture §Drafting Constraints — 'No meta-voice: no volume numbers, no chapter-count references, no fourth-wall address inside chapters/*.md'; packet prohibited_outcomes 'no chapter/volume references'",
+      "evidence": "\"Under every station on the continent,\" Karis said. \"I said so at a table in the autumn.\" Her voice did not change. \"That's not news, Marshal. That's a thing I've carried since the Compact's Hand, and",
+      "consequence": "Karis dates her own knowledge by the title of Book 6. 'The Compact's Hand', capitalised, appears nowhere in the drafted prose of Books 1-7 — grep -rn \"Compact's Hand\" books/book-0*/chapters/*.md retur",
+      "repair_target": "Date the knowledge by an event or a place rather than by the volume. The chapter already supplies two usable anchors in the same sentence — 'a table in the autumn' and 'Thornwater with the ring flat on the table' — and Book 6's own prose supplies more (the records hall, the proceedings, the term at Ostrand). One option: 'That's a thing I've carried since Ostrand, and said aloud at Thornwater with the ring flat on the table.' Do not touch the rest of the line; 'Under every station on the continent. I said so at a table in the autumn.' and 'Say the part that's new.' are the obligation and are correct."
+    },
+    {
+      "id": "F-B8-CH02-002",
+      "severity": "HIGH",
+      "gate": "Craft core reader-trust invariant 2 (causal legibility) and invariant 3 (continuity persistence); packet must_include item 8 (Lira last to sit down — and sits)",
+      "evidence": "Six of them and the mule's empty chair, which was what they called the seventh chair at any table, and a man in a brown coat standing at the end of it with his pack on the floor and his stick against ",
+      "consequence": "The movement opens by counting six at the table and then spends forty lines contradicting the count. The very next paragraph puts Seln in the doorway, 'on the room side of it, with one shoulder on the",
+      "repair_target": "Rewrite :79 so it counts the room rather than the chairs — the six of them in the long room, the table, the mule's chair, and the man standing at the end of it — leaving who is seated to the paragraphs that actually seat them. Then let :123 stay exactly as written, since it is the one span that states the order correctly. If the tableau is wanted, an alternative is to move :79's count after :91 so that Seln's sitting closes it. Do not restage Seln's doorway (:81-:91) or Lira's refusal at the fire (:73) — both are load-bearing and correct."
+    },
+    {
+      "id": "F-B8-CH02-003",
+      "severity": "HIGH",
+      "gate": "Craft core: story authority (approved canon over scene packet); charter §1 Decision Hierarchy — drafted prose governs",
+      "evidence": "He had it. He had had it since the landing. He remembered a table in a residence room on a bluff above Ostrand, and the man in front of him now in grey, and a sentence, said once, after the longest si",
+      "consequence": "The series' keystone conversation is relocated. Book 6's drafted prose puts it in a leasehold building four streets back from the registry seat in Ostrand — chosen by Seln for its sightlines, its two ",
+      "repair_target": "Replace the location with Book 6's: a borrowed office in Ostrand, four streets back from the registry seat, a room with nothing of anyone's in it. The rest of the paragraph is accurate to Book 6 and should be left alone — the plain greys, the longest silence, 'No alliance, no files, no hand across the table' all match chapter-17.md."
+    },
+    {
+      "id": "F-B8-CH02-004",
+      "severity": "MEDIUM",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); charter §1 (drafted prose governs)",
+      "evidence": "Cael knew the stance before he knew the face. He had stood in front of that stance in a hall at fifteen, and at a table at seventeen, and at the top of a bluff at eighteen with a satchel on his back a",
+      "consequence": "Two of the three entries in the ledger are wrong, in the chapter's second paragraph, in a sentence whose whole rhetorical claim is that Cael has counted these encounters precisely. Vastin does not app",
+      "repair_target": "Reduce the ledger to the encounters that exist and place them correctly: a hall at sixteen (Book 4's inspection), a table at seventeen (Norhold's borrowed office), a room in Ostrand at eighteen (the cache). If the three-beat cadence matters more than the third entry, drop the bluff clause and keep 'with a satchel on his back and nothing anywhere deciding what he was' attached to the Ostrand table, where it is still true."
+    },
+    {
+      "id": "F-B8-CH02-005",
+      "severity": "MEDIUM",
+      "gate": "Craft core reader-trust invariant 3; UNIVERSE_BIBLE §Archmarshal Vastin, as settled by Book 6's drafted prose",
+      "evidence": "Fifty-six, or near it. The hair gone from iron to something with less iron in it. A traveling coat, brown, road-made, the kind a carter's factor wears, with the elbows already through and the hem cut ",
+      "consequence": "Cael himself put Vastin at fifty-one, aloud, in the council before the cache meeting — and he was eighteen when he said it (book-06/chapter-14.md:119). He is nineteen and a hundred and seventy-five da",
+      "repair_target": "'Fifty-three, or near it.' The rest of the catalogue — the hair, the coat, the boots, the mended strap, the knee — is exact and should not be touched. If the intent is that the winter and the three hundred miles have aged him past his years, say that instead of moving the number: the estimate can run high and be corrected by the sentence rather than by the arithmetic."
+    },
+    {
+      "id": "F-B8-CH02-006",
+      "severity": "MEDIUM",
+      "gate": "Packet prohibited_outcomes — 'no request to travel with them; no hint of Book 9's 3-2'; architecture header — 'no seventh chair opens this book'",
+      "evidence": "Six of them and the mule's empty chair, which was what they called the seventh chair at any table, and a man in a brown coat standing at the end of it with his pack on the floor and his stick against ",
+      "consequence": "The chapter names a seventh chair and then, fourteen lines later, puts Vastin in the one chair at the table with nothing in front of it. 'The seventh chair' is the architecture's own phrase for the th",
+      "repair_target": "Keep the chair beat and drop the ordinal. The mule's empty chair is a good running joke and can stay as the mule's chair; cutting 'which was what they called the seventh chair at any table' costs the paragraph nothing. Separately, at :93, either leave the chair unspecified ('He sat at the end of the table') or make it plainly not the mule's, so the two spans stop pointing at each other. This repair overlaps finding 002's rewrite of the same line; take them together."
+    },
+    {
+      "id": "F-B8-CH02-007",
+      "severity": "MEDIUM",
+      "gate": "Scene packet invention_budget.forbidden — 'Any Compact document, office, or official not already on the page in Books 4-7'; craft core §Creative latitude",
+      "evidence": "Vastin looked at her for the length of a breath, and Cael watched a man revise an estimate. \"No living official can reach it,\" he said. \"That is the part that is new. Not *will not*. *Cannot.* There i",
+      "consequence": "The three sentences after 'a wall' mint a Compact document that has never been on the page and an official the Compact disposed of for trying the sub-layer — a new record, a new person (unnamed but sp",
+      "repair_target": "Either cut the three sentences and let the wall image close the speech — 'nobody files a complaint about a wall' is a stronger last line than what follows it — or keep them and escalate: the author report declares the new record and the disposed official as an approval_required invention, and the planning layer enters them in the plant ledger before Ch3 is packeted. Do not keep them undeclared."
+    },
+    {
+      "id": "F-B8-CH02-008",
+      "severity": "MEDIUM",
+      "gate": "Packet pov.knowledge_boundary — 'Vastin has no rank he can invoke'; charter §3.8 (dry, oblique, honest dialogue) and NAME_REGISTRY rule 4 (role-titles)",
+      "evidence": "\"Under every station on the continent,\" Karis said. \"I said so at a table in the autumn.\" Her voice did not change. \"That's not news, Marshal. That's a thing I've carried since the Compact's Hand, and",
+      "consequence": "The chapter goes out of its way to strip the title at the landing — Cael offers 'Archmarshal', Vastin corrects it like a ledger entry, and the correction is one of the chapter's best small moves. Seve",
+      "repair_target": "If the needle is intended, mark it with the lightest possible touch — a clause on Vastin's non-response, or Karis's own awareness of what she is doing — so the choice is on the page rather than in the drafting intent. If it is not intended, use the name he offered ('That's not news, Vastin'), which is sharper than the title anyway, because using the name he asked for while telling him he has brought nothing is the colder move. Either way, avoid the bare 'Marshal' unless the series intends to establish it as a form."
+    },
+    {
+      "id": "F-B8-CH02-009",
+      "severity": "LOW",
+      "gate": "Packet prohibited_outcomes — \"'the way X [verb]' ≤3\"; charter §9 (capped phrases)",
+      "evidence": "and she had sat at the far end, as far from the brown coat as the table allowed, with her two arms on the wood, and she asked it flat, the way she asked the honest question.",
+      "consequence": "Four instances of the simile engine against a stated cap of three: :5 'the way a man looks at a place he has read about in a file', :7 'the way it learns a stair', :119 'the way a man watches a thing ",
+      "repair_target": "Cut or recast one, and if only one goes it should be :119 or :5 so the near-identical pair is broken rather than the two distinct uses. :119 is the more expendable of the two — the paragraph around it already carries the observation without the simile ('It was not a small thing to watch') — and :5's image is doing real work, since it is the first thing that tells the reader who is standing at the bow."
+    },
+    {
+      "id": "F-B8-CH02-010",
+      "severity": "LOW",
+      "gate": "Charter §8.1 audio standard applied to the crew count the book is tracking; craft core reader-trust invariant 3",
+      "evidence": "Cael had not said anything. He had not said anything since the plank, and the five of them had let him not say it, because the man at the end of the table had come to speak to six and had spoken to fi",
+      "consequence": "'The five' does three jobs in one chapter. At :27 it means the crew as Pike's sheet names them, which is defensible but arrives with no cue. At :35 it is Vastin's stale count, corrected on the page ('",
+      "repair_target": "Fix :27 and leave the other two, since :35's stale five is deliberate and correct and :141's arithmetic is the point of the sentence. At :27, 'for any of them' or 'for the crew' removes the collision at no cost. If :141 is also to be eased, name Cael rather than counting him: 'had come to speak to six and had spoken to five, and the one he had not spoken to was the one the whole of it was about'."
+    },
+    {
+      "id": "F-B8-CH02-011",
+      "severity": "LOW",
+      "gate": "Packet prohibited_outcomes — 'No vote to admit him … no hint of Book 9's 3-2'",
+      "evidence": "Brom spoke before she could. Brom priced things, and he had been pricing this one since the landing, and he said it to the table and not to the man, because that was how a price was said. \"He walked h",
+      "consequence": "No vote is taken and the prose is careful to say so, but it says so in voting vocabulary, twice, at the table where Book 9 stages the 3-2 that admits him. 'That was Brom's whole vote' and 'Karis did n",
+      "repair_target": "Keep the beats and change the noun. Brom's is a price, not a vote, and the paragraph says so twice already ('Brom priced things', 'that was how a price was said'), so 'And that was the whole of Brom's price' finishes it in the chapter's own idiom. At :103, 'Karis did not price him' or simply 'Karis wanted the name, which was a different thing' removes the second instance without losing the distinction the sentence is drawing."
+    },
+    {
+      "id": "F-B8-CH02-012",
+      "severity": "LOW",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); charter §3.7 (institutions rendered as machines — the board and the inns price precisely)",
+      "evidence": "\"Then he's nothing yet.\" Pike wrote a line in the book, which was not a line about Vastin, and blotted it. \"Meadow's free. Upper inn's full — Teague's crew has it — and the lower's a mark a night for ",
+      "consequence": "Seven days separate the two prices and neither of them is reconciled on the page. Pike named a meadow rate in Ch1 — four a month for a crew on his sheet — and here says the meadow is free; and the low",
+      "repair_target": "Decide which chapter is right and let Pike say why in his own register — he prices aloud for the room, so 'Meadow's free till the tents fill' or 'a mark a night in the season' costs one clause and converts the discrepancy into the board doing what the board does. If Ch1 moves instead, the meadow rate there should stop being a rate. Also worth passing to the coordinator: STATE_RUNNING records the winter board as 'four a week' where ch01.md:13 says 'four a month' — the ledger and the prose disagree independently of this chapter."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch02.md",
+    "report_path": "v3-runs/book-08/reports/ch02-author-r2.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch02-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch02-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

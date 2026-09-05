@@ -3,7 +3,7 @@
   "scene_id": "b8-ch01",
   "project": "before-the-paths",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "continuity_repair",
   "revisions": {
     "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
     "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
@@ -32,7 +32,7 @@
       "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken' on the page. The academy is 'the academy above Ostrand'."
     ]
   },
-  "purpose": "Open Book 8 by staging the winter at Lowmarch as a HELD thing — five of them snowed in with a Compact survey kit on the table that reads everyone but Cael — and then keep the one promise Book 7 left open: the map carried two days to Thornwater in the thaw, Oryn's word on Lira's arm, and Oryn coming down to Lowmarch with them so the crew is six when the ice goes. Log the first pole of the book's arc (the system had no seat for me — no tier, no rank, no file I can see) as relief that has started to itch. Close on the log, west and inside for the first time since the academy above Ostrand.",
+  "purpose": "Targeted repair of Book 8 Chapter 1 (r2 → r3) against the verified findings of reports/ch01-editor-r2.json (two HIGH: the ledger entry's site at line 187; 'Pike wrote Noted'). Only the flagged spans change.",
   "scene_shape": {
     "opening_state": "Log-voice opening movement — the series' skip technique (B4/B5/B6/B7 Ch1), in Cael's plain first-person log register (italic in-world writing), dated from the Line and inventoried: first snow to the ice going; the ferry not run since the hundred and thirtieth; five of them in the two inns; the winter's small work ledgered to the mark (the axe-head fence walked and finished; a roof; a well-house; what Pike's board posts when the roads are shut); the kit on the table the whole winter — its cord, its stake and mallet, its ledger with the one designation nobody can read — and the thing they found working it: the cord and both straightedges read true in every hand but his. Nineteen, and says so. Ten fragments, one still place, no file he can see. The freedom of Book 7 logged as the first pole of this book's arc — nobody deciding what he is — and, under it, the first itch: a winter is long, and a country that does not read you is also a country that does not answer.",
     "pov_goal": "Cael wants the winter to end the way it began — five people, a board, no registry — and knows it will not, because Karis has a bearing and an archive west, and because a promise was made at a fork: 'Bring the map.'",
@@ -171,9 +171,64 @@
       "label": "Chapter 2 card — No Sanction (Vastin arrives on the first ferry) — do not pre-pay",
       "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
       "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r2)",
+      "path": "v3-runs/book-08/drafts/ch01-r2.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "F-B8-CH01-004",
+      "severity": "HIGH",
+      "gate": "Craft core: authority ladder — approved canon (Book 7 Ch20's field ledger); packet obligations.must_include[2] ('ONE designation in an index nobody can read'); carried from r1, repaired at one of its two named lines",
+      "evidence": "The kit's ledger carried one entry for the third site that was not a measurement: a designation, in an index, in the surveyor's own hand, and she did not know what the index was, only that it was one,",
+      "consequence": "The r1 repair target named lines 33 (actually 31; the r1 report's citation was two lines high) and 187. Only 31 was repaired, and repairing it in isolation converted a consistent canon error into an o",
+      "repair_target": "Line 187 only; line 31 is now correct and must not move. Bring Karis's clause into agreement with the inventory and with B7: the one entry that is not a measurement is a designation for the site the surveyor was standing in, and the ledger's unfinished last line is the one that names a third site on a bearing — e.g. 'The kit's ledger carried one entry that was not a measurement: a designation for the site he was standing in, in an index, in the surveyor's own hand'. Keep the rest of the sentence intact — she must still not know what the index is in, and 'because a man does not write index in his own field book for his own convenience' is the clause that earns the case. Do not add any reading of the index and do not let the third site's mention drift out of the unfinished-line register."
+    },
+    {
+      "id": "F-B8-CH01-011",
+      "severity": "HIGH",
+      "gate": "Craft core: authority ladder — approved canon at the packet's declared revision (Book 7's closed prose); charter 3.2 (a diegetic document may not carry what its in-world writer would not write); DECISIONS-B7-RECONCILIATION.md, facts Book 8 must not contradict",
+      "evidence": "His term stands: spring, whatever's on that bearing, his crew comes. He said it at the plank and Pike wrote Noted, and a thing Pike writes is a thing.",
+      "consequence": "The F-006 repair delivers the missing plant and pays for it with a new contradiction against the scene it is remembering. Two facts are wrong in one clause. The word was Cael's, not Pike's — chapter-2",
+      "repair_target": "Line 15 only, the second sentence only. Keep 'His term stands: spring, whatever's on that bearing, his crew comes' — the plant is delivered and the indirect register is right. Replace the attribution with what Book 7 actually staged: the term said at the plank in the snow and answered in one word, the answer Cael's own — e.g. 'He said it at the plank in the snow and I said the one word back, and neither of us has said it since, because his crew is wintering forty feet up the street and everyone knows what they are wintering for.' Do not put Teague on the page beyond the existing glance, do not name any of his four, and do not give Pike a line, a pen, or an entry: the blank season line is the point."
+    },
+    {
+      "id": "F-B8-CH01-007",
+      "severity": "LOW",
+      "gate": "Packet obligations.prohibited_outcomes[6] — \"'the way X [verb]' ≤3\"; charter 9 (the cataloguing narrator's gravity wells); carried from r1 unrepaired",
+      "evidence": "Oryn looked at him, then — at him, the way she had looked at Lira: the face, the stance, the ribs under the coat, in that order.",
+      "consequence": "Unrepaired. The count is still four against a cap of three — ch01.md:39, 95, 155, 187 — and line 155 is byte-identical to r1, so the finding's named span was never touched. The author report and the r",
+      "repair_target": "As r1: retire one, and 155 is still the cheapest because the colon that follows it does the work. 'Oryn looked at him, then — at him, as she had looked at Lira: the face, the stance, the ribs under the coat, in that order.' Leave 39, 95 and 187 alone. If the human would rather retire a different instance, 39 is the next cheapest; 95 and 187 are both load-bearing images. Whichever is taken, correct the ledger so the Book 8 running count starts at three."
+    },
+    {
+      "id": "F-B8-CH01-009",
+      "severity": "LOW",
+      "gate": "Packet invention_budget — allowed[3] 'Names: NONE new'; forbidden[0] 'Any new place, person, or fauna name'; approval_required[0]; carried from r1, neither exit taken",
+      "evidence": "There's a registry office on the old town, and under the old town there's an archive that was there before the Compact was — the Deepstacks, the scholars call it, when they call it anything — records ",
+      "consequence": "Line 189 is byte-identical to r1 and the packet's exceptions array is still empty, so nothing has changed on either side of the finding. The author report closes it by argument — that the packet's no-",
+      "repair_target": "Unchanged from r1, and the human should pick one and record it in the packet's exceptions array so the next run is not asked the same question. Either (a) an EXCEPTION on the invention budget recording that Treswick and the Deepstacks are architecture-approved NEW-CANON released at Ch1 — in which case Ch5's card should be annotated so 'The archive under it' is written as a second hearing — or (b) line 189: hold the name and let Karis describe the thing, 'under the old town there's an archive that was there before the Compact was, and the scholars have a word for it — records nobody converted...'. Do not remove the old scholars' provision and do not name Cleon."
+    },
+    {
+      "id": "F-B8-CH01-012",
+      "severity": "LOW",
+      "gate": "Charter 8 (audio-first: the sentence must land when spoken); charter 3.1 (the cataloguing narrator's counts must be sayable as well as true); introduced by the F-005 repair",
+      "evidence": "Ninety-six in hand — the inn's six for the back room where the sheets are came out of the hundred and two before the snow, and is not coming out again.",
+      "consequence": "The arithmetic the finding asked for is now exactly right and canon-sourced — 102 minus the inn's six is the ninety-six Book 7 closes on, so the opening figure is net, nothing is double-counted, and t",
+      "repair_target": "Line 7 only, and the one clause only; keep the sourcing to the hundred and two, which is the part that closes the finding. Close the relative clause before the verb arrives — e.g. 'Ninety-six in hand. The inn's six for the back room came out of the hundred and two before the snow and is not coming out again.' — or drop the relative clause entirely, since the sheets are already given the back room at line 13. Do not restate the six anywhere downstream; the totals are correct and must not move."
+    },
+    {
+      "id": "F-B8-CH01-013",
+      "severity": "LOW",
+      "gate": "Craft core: revision discipline ('An author may repair verified findings, but does not opportunistically rewrite unrelated passages during a targeted repair'); packet purpose ('Only the flagged spans change; byte-identical elsewhere')",
+      "evidence": "and the posts Teague's crew had set in the autumn standing in a line to where they had stopped, and Brom read the line like a wall, and said, \"Straight,\" and we set the rest.",
+      "consequence": "Line 21 was not a flagged span. It was named in the r1 report only as the preferred location for F-006's one added line, and the author placed that line at 15 instead — then edited 21 anyway, on a dif",
+      "repair_target": "Human ruling, not a drafting decision, and either way it is one line. Either restore the r1 string at line 21 — 'and Brom read the line as he reads a wall' — or keep the improvement and record it explicitly in the author report's deviations as an out-of-scope line edit accepted on review, so the r1 -> r2 diff and the repair ledger agree. Nothing else in the file needs to move; the other ten replacements are all inside flagged spans and the remainder is byte-identical."
+    }
+  ],
   "exceptions": [
     {
       "id": "EXC-B8-001",
@@ -185,9 +240,9 @@
   ],
   "output": {
     "draft_path": "v3-runs/book-08/drafts/ch01.md",
-    "report_path": "v3-runs/book-08/reports/ch01-author.json",
-    "editor_report_path": "v3-runs/book-08/reports/ch01-editor.json",
-    "verifier_report_path": "v3-runs/book-08/reports/ch01-verifier.json",
+    "report_path": "v3-runs/book-08/reports/ch01-author-r3.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch01-editor-r3.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch01-verifier-r3.json",
     "target_words": 4600,
     "tolerance_percent": 15
   }

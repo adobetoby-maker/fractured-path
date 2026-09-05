@@ -1,0 +1,64 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch03-r1",
+  "scene_id": "b8-ch03",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch03.md",
+  "word_count": 4304,
+  "obligations": [
+    {
+      "obligation": "Three objects in Vastin's order, physical: the records (six years, suppressed); the copied page (a title and a place, nothing else); the deep-layer log line with the redaction",
+      "status": "MET",
+      "evidence": "'a courier's flat … the sheets lay flat in the order somebody had put them in'; 'four lines, in a square hand, folded twice, a word and a place'; 'a bar of ink the width of a thumb, laid on with a brush'."
+    },
+    {
+      "obligation": "The Compact measured, mapped and hid it; 'more than four'; identical failure logged in every year",
+      "status": "MET",
+      "evidence": "'They wrote it the same way six years ago that they wrote it last summer. Nobody in six years has put a second word in that column.' / 'More than four … Places we didn't find.' No new site named."
+    },
+    {
+      "obligation": "Karis opens the records like bread — staged as method",
+      "status": "MET",
+      "evidence": "'She opened the Compact's six years the way a starving person opens bread — not fast; completely — and the sorting was the eating: sheet by sheet, by site and then by year'."
+    },
+    {
+      "obligation": "Seln does the arithmetic in silence; Cael sees and does not know",
+      "status": "MET",
+      "evidence": "'Seln had gone still … had heard a date and a word and had gone still … and he did not say the answer.' / 'Cael did not know what it was.'"
+    },
+    {
+      "obligation": "Vastin's want — nothing to do; Karis owns the response",
+      "status": "MET",
+      "evidence": "'Then there was nothing for the man to do.' section; 'watched her take it the way a man watches a thing he used to do being done by somebody else'."
+    },
+    {
+      "obligation": "Cael's hand near the page, not on it — in the body",
+      "status": "MET",
+      "evidence": "'a hand's width, a little less — and did not close it'; Lira's look; 'the page stayed where it was'."
+    },
+    {
+      "obligation": "'Architect' as the record's word, read aloud once; never read in any stratum; no theory",
+      "status": "MET",
+      "evidence": "'—by the design of the Architect, whose apparatus this is, as the lower archive at Treswick holds in full—' / 'It's a word I have never read in any stratum … It's a title, not a name'."
+    },
+    {
+      "obligation": "The two roads in the closing image; close on the image",
+      "status": "MET",
+      "evidence": "Final two paragraphs: void roads east under last frost; the maintained road west, three days, to a city on the Line."
+    }
+  ],
+  "inventions": [
+    "The courier's flat (oilcloth over pasteboard) as the records' form; the office's 'anomaly' column with its three-letter abbreviation; the technician's ruled sheet and the brush-laid redaction bar.",
+    "The citation's wording — 'by the design of the Architect, whose apparatus this is, as the lower archive at Treswick holds in full' — as a clerk's citation line, deliberately without 'built', 'deployed', or a date."
+  ],
+  "state_change_proposals": [
+    "Day 277, evening: the handover. The records (six years of survey abstracts, more than four sites — count unstated) are on Karis's table; the completion report from the Stair is among them ('It went into this').",
+    "The citation page — a title ('the Architect') and a place (Treswick's lower archive) — set apart; untouched by Cael.",
+    "The deep-layer log line copied into Karis's notebook with its date (six years back) and the bar; 'not read'.",
+    "Seln's silent sum noted by Cael, unexplained. Vastin sent to bed by Karis and Oryn."
+  ],
+  "deviations": [
+    "The word 'apparatus' appears in the citation (the card's Ch15 language has 'designed and deployed'; here only 'by the design of' and 'whose apparatus this is' — no 'built', 'deployed', 'four hundred years')."
+  ],
+  "blockers": []
+}

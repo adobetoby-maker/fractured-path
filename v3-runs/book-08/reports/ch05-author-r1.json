@@ -1,0 +1,60 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch05-r1",
+  "scene_id": "b8-ch05",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch05.md",
+  "word_count": 4011,
+  "obligations": [
+    {
+      "obligation": "The halt dated and placed; three readers, three ways",
+      "status": "MET",
+      "evidence": "'a spring a mile past the shoulder hold on the morning of the two hundred and eightieth day'; 'Karis read it for the pattern … Seln read it for what was not in it … Vastin read it for what it meant that the Compact had done it at all'."
+    },
+    {
+      "obligation": "Six years of surveys with instruments and stakes, as document work",
+      "status": "MET",
+      "evidence": "The Stair abstract five years back ('cord, stakes, mallet; perimeter paced twice; stakes set at the fives'); the Ring; the Hall from the marsh side."
+    },
+    {
+      "obligation": "The grade: the records' per-site mark = the kit's index; the fourth's mark differs; Karis says only what she sees",
+      "status": "MET",
+      "evidence": "'Three strokes and a bar … The fourth. Two strokes and a bar. Different.' / 'I can see it orders them. I can't see what it orders them by.' / 'Two copies of one ignorance.'"
+    },
+    {
+      "obligation": "The margin note quoted once; entered as unfilable; the loop NOT closed",
+      "status": "MET",
+      "evidence": "'Behaves as device. Cannot be.' / Karis stops at 'the way a hundred lamps go out when —' and says the ruler line; 'an observation I can't file'."
+    },
+    {
+      "obligation": "Seln sets the sheet before Cael without a word; Cael does the sum and does not log it",
+      "status": "MET",
+      "evidence": "'It was on the slab in front of him. Not in a row' … 'Six years back. Not near enough. Exactly.' … 'Cael did not write it down.' … 'the first thing he had ever owned that he had not written down'."
+    },
+    {
+      "obligation": "Vastin's three drafted orders and the fixed exchange verbatim",
+      "status": "MET",
+      "evidence": "Directive ('File under—. Classification—. Refer to—.'), classification ('It's a shelf-mark'), escalation ('This has to go up'); 'You keep drafting orders.' / 'Habit.' / 'Out here the habit's the tell. Draft nothing. Just look.'"
+    },
+    {
+      "obligation": "Cleon named; the fixed closing dialogue verbatim; the file ends on it",
+      "status": "MET",
+      "evidence": "Final exchange reproduces the card's text; ends on 'which I'm more afraid of.'"
+    }
+  ],
+  "inventions": [
+    "The spring halt (stone-lined, a trough, a slab); the office's remark column and its one filled entry in a dead hand; the survey abstracts' instrument notes ('cord, stakes, mallet; perimeter paced twice').",
+    "Vastin's 'up' as Cael grew up under it (he said 'up' about Cael at seventeen)."
+  ],
+  "state_change_proposals": [
+    "Day 280, the halt a mile past the shoulder hold; a day and a half to Treswick; the fork north a day on.",
+    "The GRADE seen: three strokes and a bar on the Ring/Stair/Hall sheets; two strokes and a bar on the fourth's; unread. The dead surveyor's remark 'Behaves as device. Cannot be.' entered by Karis as unfilable.",
+    "Cael has done the six-year arithmetic privately (his Kindling day) and NOT logged it; the sheet back in the second row; a thing between him and Seln unsaid.",
+    "Seln taught Vastin 'Draft nothing. Just look.' Oryn looked once at the fork and said nothing."
+  ],
+  "deviations": [
+    "Cael performs the six-year arithmetic in his head and connects the date to his own Kindling day privately — the card's 'reads and does not log the arithmetic of' is honored; nothing is said or written; flag if the editor reads it as disclosing the Book-11 plant.",
+    "Word count ~4,1xx after expansion — inside the band."
+  ],
+  "blockers": []
+}

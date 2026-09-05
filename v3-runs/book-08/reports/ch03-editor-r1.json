@@ -1,0 +1,298 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch03-r1-editor",
+  "scene_id": "b8-ch03",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Authority — packet prohibited_outcomes, literal prohibitions (no 'designed and deployed'; no [UNBOUND]; no 'four hundred years'; no 'primordial'; no 'before the Paths' as a phrase)",
+      "state": "PASS",
+      "evidence": "grep -niE 'UNBOUND|primordial|before the Paths|four hundred|deployed|recurrence|terminal|circuit|infrastructure' v3-runs/book-08/drafts/ch03.md returns zero across all 153 lines. The chapter never states that the Architect built the Arbiter system or the sites, never dates him, and never uses the Ch15 verb pair."
+    },
+    {
+      "gate": "Authority — the citation's declared scope (packet purpose, must_include #2, closing_state: 'a title and a place and nothing else')",
+      "state": "FAIL",
+      "evidence": "The quoted citation at line 69 carries a design-attribution and an apparatus ('by the design of the Architect, whose apparatus this is'), while lines 77, 83 and 149 assert three times that the page holds a title, a place, and nothing else. See F-B8-CH03-001. The author report declares this under 'deviations'."
+    },
+    {
+      "gate": "Authority — CANON_RULES reveal schedule; later SECRETs sealed (Arbiter=live infrastructure Bk9; will active/hunting Bk11; non-malevolent motive Bk13-14; Fractured Path primordial Bk13; Quieting source Bk10-11)",
+      "state": "PASS",
+      "evidence": "No character connects the citation to the sigils people carry, to the Quieting's cause, to the sites' maker, or to the still place. Karis stops at 'It's a title, not a name' (line 77) and refuses interpretation. Vastin states only 'Something in the layer nobody can reach began to run six years ago' (line 101) and volunteers that he does not know what it correlates with."
+    },
+    {
+      "gate": "Authority — prohibited outcome: no one connects the six-year log to Cael aloud or in the log; Cael does not do the arithmetic on the page",
+      "state": "PASS",
+      "evidence": "Line 113: 'Cael did not know what it was.' Line 115: 'He did not know the sum.' No character says 'Cael' and 'six years' in one sentence; the chapter contains no Power Log entry at all."
+    },
+    {
+      "gate": "Authority — prohibited outcomes: no decision to go west stated; no vote on Vastin; no Iron Wall shown or named",
+      "state": "PASS",
+      "evidence": "grep 'Iron Wall|Iron Skin|vote|join' returns zero. 'west' occurs three times (lines 45, 151, 153), each as direction or destination, never as a decision. Line 147: 'Nobody said *west*. Nobody had to.' The map stays in Karis's coat (lines 5, 81)."
+    },
+    {
+      "gate": "Authority — prohibited outcomes: no new site named or located from the records; no first-tier site produced",
+      "state": "PASS",
+      "evidence": "Line 41: 'More than four,' she said. She did not say how many more... 'And the rest are theirs. Places we didn't find. Some of them are on the bearing and some of them aren't and I'm not going to say which tonight.' No taxonomy, no grade, no new proper noun."
+    },
+    {
+      "gate": "Authority — prohibited outcomes: no fight, no injury, no fragment use, no reading",
+      "state": "PASS",
+      "evidence": "No combat, no declaration, no fragment notice, no Tide reading anywhere in the 153 lines. The only physical business is paper, a lamp, a stick and a knee."
+    },
+    {
+      "gate": "Obligation — the three objects handed over as physical things with weight, in Vastin's stated order",
+      "state": "PASS",
+      "evidence": "Order announced at line 13 and kept: records (lines 21-51, 'a courier's flat... oilcloth over pasteboard, tied at both ends'), the page (lines 53-87, 'a single sheet, folded twice... four lines on it'), the technician's sheet (lines 89-119, 'a bar of ink the width of a thumb, laid on with a brush'). Line 57 earns the order structurally: 'the records were a stack; this was a page; a stack could be sorted and a page could only be read.'"
+    },
+    {
+      "gate": "Obligation — the Compact measured, mapped and hid it; six years; suppression proven in paper",
+      "state": "PASS",
+      "evidence": "Line 45: 'For six years... They measured it. They mapped it. They wrote *total* in a column every summer and filed it and put a shelf-mark on the file.' Line 27 dates the stack. Pays Book 7's 'the Compact already knows' plant in the currency the packet asks for."
+    },
+    {
+      "gate": "Obligation — Book-9 plant (c): the identical Arbiter failure logged by the Compact at every site, and Karis enters it as an observation she still cannot file",
+      "state": "FAIL",
+      "evidence": "The fact lands (lines 29-31, 'Total. At the line. Every one. The same distance, the same instant... Nobody in six years has put a second word in that column'), but the filing beat named in must_include does not: line 33 is 'Karis did not answer that. She had begun to sort.' The notebook is opened only for object three (line 119). See F-B8-CH03-004."
+    },
+    {
+      "gate": "Obligation — Karis opens the records 'the way a starving person opens bread', staged as her method (sorted by site and year; citation set apart; log entry copied with its number)",
+      "state": "PASS",
+      "evidence": "Line 35 stages the simile as procedure, not decoration: 'not fast; *completely* — and the sorting was the eating: sheet by sheet, by site and then by year within site... the pencil never once picked up, because the sorting was a thing she did with her hands and the writing was a thing she did after.' Six rows result (line 37); the citation is set apart at the bare end (line 57); the line is copied with its date and bar and 'not read' beneath (line 119)."
+    },
+    {
+      "gate": "Obligation / plant — Book-11 plant 2 originates here and stays deniable; Vastin cannot connect it; Seln's silence is the plant",
+      "state": "PASS",
+      "evidence": "Line 101: 'I do not know, and I am not going to pretend to this table that I know.' Lines 109-115 stage Seln's stillness against two prior instances and stop at 'he did not say it' / 'Cael did not know what it was.' Nobody on the page states the connection. One added beat pushes the deniability harder than the packet's staging — see concerns."
+    },
+    {
+      "gate": "Obligation — Vastin's want (charter §7.4): the vertigo of a man with nothing to do; Karis owns the response; he watches her",
+      "state": "PASS",
+      "evidence": "Lines 121-127: 'Then there was nothing for the man to do... the part that came next did not come.' 'watched her take it the way a man watches a thing he used to do being done by somebody else, and did not reach for it, and Cael saw the not-reaching cost him, and saw him pay it.' Closed physically at line 133 by Oryn's 'Go and lie down, and don't take the stairs fast.'"
+    },
+    {
+      "gate": "Obligation — Cael's hand near the citation page and not on it; the choice stated in the body, not the log",
+      "state": "PASS",
+      "evidence": "Line 85: 'He noted the distance — a hand's width, a little less — and did not close it.' Held through lines 137-143 (Lira's two-line exchange) and to the final image at 149-153. No log entry anywhere; the choice is entirely in the body."
+    },
+    {
+      "gate": "Obligation — 'Architect' as the record's word: read aloud once; a word Karis has never read in any stratum; nobody theorizes past the page",
+      "state": "PASS",
+      "evidence": "Read aloud once at line 69 and never again except as a bare naming at line 73. Line 77: 'It's a word I have never read in any stratum... It's a title, not a name — the record says *the*... That's all the page says. That's all I'm going to say it says.' No character offers who, why, or when."
+    },
+    {
+      "gate": "Obligation — the two roads outside the window in the closing image (void roads east under last frost; the maintained road west)",
+      "state": "PASS",
+      "evidence": "Line 151 delivers both, with distance and function ('three days of it, laid and kept and measured by people who measured things'), and roots them in what Cael cannot see but knows: 'He could not see them. He knew where they were.'"
+    },
+    {
+      "gate": "Obligation / charter §9 closer rule — close on the IMAGE; no log-entry closer (Ch1), no dialogue closer (Ch2)",
+      "state": "PASS",
+      "evidence": "The chapter ends on narration of the lamp, the rows, the page and the roads (lines 149-153). Sequence Ch1 log · Ch2 dialogue · Ch3 image matches the Continuity Checkpoint's planned 24-closer sequence with no adjacent repeat. (The final clause is a separate defect — see F-B8-CH03-002 — but the closer type is correct.)"
+    },
+    {
+      "gate": "Payoff — 'Someone made this pattern' (B7 Ch24) is NOT answered; the citation is a title, not an answer",
+      "state": "PASS",
+      "evidence": "The question is never restated and never resolved. Karis's response to the page is a finding about her own reading history, not about the pattern; the sites' maker is not raised in the room."
+    },
+    {
+      "gate": "POV — knowledge boundary and viewpoint integrity (Cael nineteen; day 277 stated; six plus Vastin; Vastin heard, not admitted)",
+      "state": "PASS",
+      "evidence": "Line 5 dates it: 'on the evening of the two hundred and seventy-seventh day.' Line 7: 'Six of them, and the man in the brown coat, and the pack.' Narration stays inside Cael's practical attention throughout (the count, the form of a ledger, the distance from a hand to a page) and never reports a fact he cannot perceive."
+    },
+    {
+      "gate": "Continuity — the Stair completion report (a crew of six walked out); Oryn present at the Stair",
+      "state": "PASS",
+      "evidence": "Line 47: 'It says exactly what a crew of six walked out of quiet ground with, and where, and who, and it does not say what worked inside, because the man who wrote it did not know.' Matches B7 Ch20 ('Six over, in the order Seln gave, and Oryn checked her hands at the stride') and preserves the state-ledger constraint that the Compact's knowledge of what works inside remains zero."
+    },
+    {
+      "gate": "Continuity — the kit's ledger form, the 52 sheets, the map in Karis's coat, the room shut, Teague and Pike absent",
+      "state": "PASS",
+      "evidence": "Line 5: 'The sheets were on the shelf tonight, in their oilcloth, all fifty-two. The kit was on the shelf beside them with its lid down. The map was in Karis's coat... the door shut.' Line 27 derives the abstracts' form from the kit's ledger and explains the difference ('the kit's ledger had been one man's field book and these were the office's fair copies'), which is what lets Cael and Karis read these where the cipher field book needed Seln. No Teague, no Pike on the page."
+    },
+    {
+      "gate": "Continuity — the six-year interval against Cael's own count on the page",
+      "state": "FAIL",
+      "evidence": "Line 83 gives 'he had spent five years and a continent staying out of files'; line 99 gives 'Six years back. Near enough six.' The plant Book 11 detonates depends on the reader equating the second with Cael's Kindling. See F-B8-CH03-003."
+    },
+    {
+      "gate": "Charter §9 anti-tic — per-chapter caps (one-word paragraphs ≤2; identical 'the way X [verb]' construction ≤3, packet cap ≤4)",
+      "state": "PASS",
+      "evidence": "Zero single-word paragraphs (awk 'NF==1' returns none; shortest paragraph is two words). 'the way' occurs 3 times (lines 35, 111, 127), each a different construction and none repeated verbatim. No capped phrase from the charter's measured list appears at all: jaw tightened 0, laughed once 0, without humor 0, stomach tightened/dropped 0, 'There it was' 0, 'That was true'/'Also true' 0, 'sounded almost' 0, 'held this' 0, '[Name] noticed.' 0."
+    },
+    {
+      "gate": "Charter §9 anti-tic / §11 gate 2 — book-level phrase caps ('for the book so far', ≤3 per book)",
+      "state": "FAIL",
+      "evidence": "'upside down' — Ch1 3, Ch2 0, Ch3 4 = 7 for the book so far, with three different characters performing the trick inside this chapter alone (lines 27, 35, 67). 'for the length of a breath' — Ch1 1, Ch2 1, Ch3 2 = 4 for the book so far. Both exceed the ≤3-per-book cap at chapter 3 of 24. See F-B8-CH03-005."
+    },
+    {
+      "gate": "Charter §9 / anti-self-repetition — the chapter does not spend a line the architecture has reserved for a later chapter",
+      "state": "FAIL",
+      "evidence": "Line 153 closes on 'because some findings you carry out of a room before you say them', which is the Ch24 card's scripted closing formulation. See F-B8-CH03-002."
+    },
+    {
+      "gate": "Charter §8 audio-first — no typography-dependent meaning (§8.2); in-world document text reads aloud (§8.3); ≤4 unattributed lines in a 3+-speaker scene (§8.5); no terminal metadata (§8.4)",
+      "state": "PASS",
+      "evidence": "The redaction is described, not rendered: 'a bar of ink the width of a thumb, laid on with a brush, black, straight, and old enough that the black had gone brown at its edges' (line 95) — it survives narration intact. The citation's opening and closing dashes are glossed in dialogue ('It is a reference — a line in a longer record', line 59), so the fragment reads aloud as a fragment. Longest unattributed dialogue run is one line (line 79, Vastin, unambiguous because line 77 ends 'She looked at Vastin'). grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns zero."
+    },
+    {
+      "gate": "Charter §10 scene-not-summary and density",
+      "state": "PASS",
+      "evidence": "The handover is written in scene, in real time, with geography (table, lamp, door end, bare end, window) and cost. grep for 'heard about it later|learned afterward|was told later|found out later' returns zero. 4,304 words against a 4,600 target with ±15% tolerance (3,910-5,290) — in band."
+    },
+    {
+      "gate": "Charter §3.1 / §3.3 — the cataloguing narrator; emotion through procedure and objects",
+      "state": "PASS",
+      "evidence": "Opens on the catalogue and motivates it: 'He catalogued the room before the pack was opened, because the pack was going to change the room and he wanted the count from before' (line 3). grep for 'felt (sad|angry|afraid|happy|a wave of)|he felt|she felt' returns zero. Every emotional movement in the chapter is carried by a hand's distance, a lamp moved twice, a pencil not picked up, or a knee under a table."
+    },
+    {
+      "gate": "Registry / naming (craft/NAME_REGISTRY.md) — no rename-slated names, no unapproved new proper nouns",
+      "state": "PASS",
+      "evidence": "grep -niE 'Halcenvane|Velmere|Wray|Bracken' returns zero. Proper nouns used are all pre-existing: Treswick, Thornwater, the Ring, the Stair, the Hall, the Line, Lowmarch's inn. No new person, place, or Compact office is minted; the invention stays inside the budget (the courier's flat, the 'anomaly' column, the technician's ruling, the brush-laid bar)."
+    },
+    {
+      "gate": "Craft core — consequential scene: at least one story state changes",
+      "state": "PASS",
+      "evidence": "Knowledge (the six-year suppression, the citation, the sub-layer sequence), possession (the records and the page are on Karis's table), obligation (Karis's three questions for the morning) and relationship (Vastin's standing at the table) all move. State change is recorded in STATE_RUNNING 'After Chapter 3'."
+    },
+    {
+      "gate": "Module — Progression (author guidance and editor gates 1-4, 6-7)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, no fragment integration, no rank change, no training, no setback in this chapter; the packet forbids fragment use and reading. The module's gates governing advancement cause, cost, and repeated-challenge variety do not bite here."
+    },
+    {
+      "gate": "Module — Progression, editor gate 5 (rivals and institutions do not freeze to accommodate the protagonist)",
+      "state": "PASS",
+      "evidence": "The Compact is shown to have been working the whole time the crew was not: six years of surveys in more hands than one, an office column entered every summer, a shelf-mark, a completion report filed west, and a redaction laid on the day the line was written. The institution is the most active party in the chapter and none of its motion is for the protagonist's benefit."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B8-CH03-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "authority / secret discipline",
+      "gate": "Packet purpose, obligations.must_include #2 and scene_shape.closing_state — the copied page is 'a title and a place and nothing else'; packet prohibited_outcomes — 'designed and deployed' language belongs to Ch15's primary source",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch03.md",
+        "line_start": 69,
+        "line_end": 69,
+        "quote": "\"*—by the design of the Architect, whose apparatus this is, as the lower archive at Treswick holds in full—*\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch03.md",
+        "line_start": 149,
+        "line_end": 149,
+        "quote": "the one page lay folded open on its own — four lines, a title, a place, and nothing else"
+      },
+      "consequence": "The page is asserted to hold a title and a place and nothing else three times — by Karis at line 77 ('That's all the page says. That's all I'm going to say it says'), by Cael at line 83 ('a word and a place'), and by the closing image at line 149 — but the line the reader has actually heard also carries a design-attribution and an apparatus. Two costs follow. The smaller and more certain one is internal: the chapter's own summary of its central object is falsified by the object, and a reader who is being trained by this series to trust Karis's refusals will notice that this refusal skips the loaded noun she did not comment on. She catches 'the' and says why it matters; she says nothing at all about 'apparatus', which is the word in the line that makes a claim about the world. The larger and less certain one is scheduling: 'design' and 'apparatus' are both keywords of the Ch15 reveal ('set the apparatus over all the land'), so the title-chapter's sentence arrives in Ch3 in reduced form, and the reveal has less to deliver. It does not cross the literal prohibition — there is no 'deployed', no date, no naming of the Arbiter system, no claim about the sites — and the packet's own knowledge_boundary permits the Architect to be established as 'a designer of the classification apparatus... ONLY to the extent the citation says', which is why this is MEDIUM and not higher. The author report declares it under 'deviations', so it is a known choice rather than an oversight.",
+      "repair_target": "Either bring the quoted line back inside the claim the chapter makes about it — a citation that carries the title and the archive and no predicate about what was designed — or stop asserting 'nothing else' at lines 77, 83 and 149 and let Karis register the second word she cannot place, in the same refusing register she uses for the first. Do not do both halves at once: if the line keeps 'apparatus', Karis must be seen not-filing it, and if she keeps her three-times 'nothing else', the line must earn it.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH03-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "craft / repetition and pre-payment",
+      "gate": "Charter §9 (anti-tic, no self-repetition); packet next_card discipline — do not pre-pay a later chapter",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch03.md",
+        "line_start": 153,
+        "line_end": 153,
+        "quote": "and did not write anything down himself, because it was not his to write yet, and because some findings you carry out of a room before you say them."
+      },
+      "comparison_evidence": {
+        "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+        "line_start": 385,
+        "line_end": 385,
+        "quote": "and does not tell them what the center felt like, because there are no words that would not be Book 9's, and because some findings you carry out before you say them."
+      },
+      "consequence": "The clause the chapter ends on is the Ch24 card's scripted closing formulation, near-verbatim, spent twenty-one chapters early on a smaller occasion. When Ch24 reaches the Court's centre and Cael walks back across the floor without telling anyone what he felt, the sentence that is meant to land the book will be a phrase the reader last heard in an inn's back room over a stack of survey abstracts. The cost is not to this chapter, which the clause serves well; it is to the ending, which loses its only unrepeated formulation of the book's governing discipline. A secondary cost is local: the clause is also a gloss appended after the image has finished — the lamp, the rows, the page, the two roads — and charter §Endings asks the chapter to trust the final beat rather than explain why it matters.",
+      "repair_target": "Cut the final 'and because...' clause and let line 153 end on 'because it was not his to write yet', or end on the image itself. Either way, reserve the 'carry it out before you say it' formulation for Ch24; if the chapter wants the thought here, it needs a different sentence for it.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH03-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity / plant integrity",
+      "gate": "Craft core — continuity persistence and causal legibility; packet plants — 'Book-11 plant 2 ORIGINATES here — deniable; the reader can date it'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch03.md",
+        "line_start": 99,
+        "line_end": 99,
+        "quote": "She gave the date. It was a Compact date, a registry year and a day in it, and the room did the arithmetic without being asked to... Six years back. Near enough six."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch03.md",
+        "line_start": 83,
+        "line_end": 83,
+        "quote": "and he had spent five years and a continent staying out of files"
+      },
+      "consequence": "Sixteen lines apart, in the chapter titled Six Years, the reader is given five and six as counts of Cael's own interval since the system marked him, and the chapter reconciles neither. The plant's whole design is that the reader — not the room — does the sum: six years ago Cael Kindled and the Arbiter system threw the flag nobody could interpret. But the only elapsed figure the chapter attaches to Cael is five, said in his own narration, and it is reinforced by Ch1's log ('I've spent five years staying out of registries'). Nineteen minus fourteen is five. The date that would let a reader check is withheld ('She gave the date' — and the reader does not get it), so the reader is left holding six against five with no instrument. A reader who counts, in a series that has trained him to count, either does not make the connection or makes it and distrusts it; Seln's silence then reads as unexplained rather than as the answer. The hedge 'Near enough six' is honest to the fiction but works against the plant: it tells the reader the number is soft at exactly the moment the number has to be load-bearing. Note that the interval is genuinely recoverable — Cael turned nineteen on day 102 past the Line and this is day 277, so a Kindling late in his fourteenth year is close to six — but nothing on the page does that work, and the planning layer's assertion that Cael Kindled six years ago has not been reconciled with the drafted prose's 'five'.",
+      "repair_target": "Give the reader the instrument without giving the room the sum: either put the actual Compact date on the page so the arithmetic is the reader's to do, or have Cael's line 83 name what his five years counts from (the hearing, the expulsion, the bluff) so it stops reading as a competing measurement of the same interval. The planning seat should also settle whether Cael's Kindling is five or six years before day 277 and record it, since Ch5 carries this plant again and Ch14 and Ch22 escalate it.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH03-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "obligation / plant staging",
+      "gate": "Packet obligations.must_include — 'the identical Arbiter failure logged at every one — Karis enters that as an observation she still cannot file (Book 9 plant c, carried)'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch03.md",
+        "line_start": 33,
+        "line_end": 33,
+        "quote": "Karis did not answer that. She had begun to sort."
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-15.md",
+        "line_start": 69,
+        "line_end": 69,
+        "quote": "\"I don't know how to file that,\" Karis said... \"So it goes in as an observation. The five went out identically. Identically is the word. I've underlined it and I'm not going to explain it, because I can't.\""
+      },
+      "consequence": "The fact the plant needs is present and well placed — the Compact logged the same total failure at every site in every year for six years and never found a second word for it (lines 29-31) — but the staging the obligation names is not. Karis says the finding aloud and then turns to the sorting; the notebook is not opened for it, nothing is entered, and the phrase that carries the plant forward ('an observation I can't file') never appears. The consequence is a carry problem rather than a reader problem: Book 9's tomb pays a line Karis has been visibly unable to file since B7 Ch15, and Ch20's staged refusal ('she files it, still, as an observation she cannot explain') is built on a chain of entries. This chapter is the link where the Compact's own six years of the same failure joins that chain, and it joins it as speech only. It also costs the chapter a symmetry it otherwise has: the third object gets the full filing ritual (copied, the bar drawn, 'not read' beneath, line 119) and the first object gets none, which makes the notebook look like a device for redactions rather than her method.",
+      "repair_target": "Add one short beat inside the sort — Karis entering the anomaly column as an observation she cannot file, in the B7 Ch15 register, without explaining it. Two or three sentences at line 33 will do it, and it costs nothing structurally because the notebook is already established as the instrument she uses after her hands are done.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH03-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "voice / anti-tic",
+      "gate": "Charter §9 (any somatic or beat phrase appearing more than 3 times per book is a defect) and §11 gate 2 ('§9 tic greps all ≤ cap for the book so far'); pen-name voice — secondary characters must not acquire the protagonist's habits",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch03.md",
+        "line_start": 27,
+        "line_end": 27,
+        "quote": "he read them upside down, across the table, because he read everything upside down"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch03.md",
+        "line_start": 67,
+        "line_end": 67,
+        "quote": "She read it once, to herself, upside down first, because she had learned that from a boy who did it"
+      },
+      "consequence": "Measured over the book so far: 'upside down' appears 3 times in Ch1, 0 in Ch2 and 4 in Ch3 — seven against a cap of three per book, at chapter 3 of 24, with four uses inside this chapter alone (lines 27 twice, 35, 67). 'for the length of a breath' stands at 4 for the book (Ch1 1, Ch2 1, Ch3 lines 41 and 111). The count is the smaller half of the problem. The larger half is that reading upside down has now been performed in this book by Cael, by Oryn (Ch1, 'I don't read maps. I read what walks in off them' follows her reading the map upside down), by Seln (line 35) and by Karis (line 67, explicitly borrowed from Cael) — four of the seven people in the room share one piece of business, and line 67 makes the borrowing explicit, which converts a character trait into a house mannerism. On the page it reads as charm; in narration, over an audiobook, it reads as the same beat four times in one scene, and it dissolves exactly the differentiation the chapter otherwise achieves in the same paragraph, where each companion is characterised by what they watch.",
+      "repair_target": "Keep at most one instance in this chapter. Line 27's doubling inside a single sentence is the cheapest cut; line 67 is the one to keep only if Karis's borrowing is doing deliberate relationship work, and if it is kept, Seln at line 35 should read at speed by some other means. Track both phrases forward — Ch4 already adds a fifth 'upside down' and a fifth 'for the length of a breath' to the book.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Seln's glance at Cael (line 111: 'and then — for the length of a breath, no longer — at Cael, and then at the window, and he did not say it') is one beat past the packet's staging, which asks only that Seln go still and that Cael see him not say it. The packet's contract is honoured — nobody says the connection, and line 113 states plainly that Cael does not know what it is — so this is not a finding. But it puts strain on the one place the chapter cannot afford strain: a man goes still at a six-year-old date and a redacted classification event and then looks at the most-filed person at the table, and the cataloguing narrator, who records that he saw it, records no thought about being looked at. The plant survives either way; removing the glance removes the strain and costs nothing, because the stillness typed against its two precedents is already doing the work.",
+    "'She gave the date' (line 99) withholds from the reader the one datum that would let the reader perform the arithmetic the plant is designed around. The elision is defensible as prose economy and it keeps the room from stating a Compact year the reader would have to convert, but it is worth weighing against F-B8-CH03-003: the chapter asks the reader to date the sequence and then declines to supply the date.",
+    "'the room did the arithmetic without being asked to' (line 99) is the closest the chapter comes to the prohibited outcome, and it clears — the arithmetic named is date-to-elapsed-years, not sequence-to-Cael, and 'the room' is doing conversion, not inference. Flagged only so a repair pass does not accidentally widen it.",
+    "Book-9 plant (a) asks for Vastin's Ch2 phrasing to be carried ('there is no key'). The substance is carried at line 101 ('the layer nobody can reach'), which is the right instinct — repeating the exact phrase one chapter later would be its own tic — but the plant ledger's wording should be updated to record that the carry is by substance, so a later reader of the ledger does not go looking for the phrase.",
+    "Karis is described at line 35 as never once picking up the pencil during the sort, and at line 91 she 'found it without looking for it. She had laid it; she knew where every sheet on the table was.' The second sentence earns the first, which is good, but a reader may want the moment she registered the technician's ruling as not-a-survey while she was laying it — one clause during the sort would close the small gap between 'she did not read while sorting' and 'she knew exactly which sheet he meant'.",
+    "The page is 'four lines, in a square hand' (lines 55, 83, 149) and the reader hears one sentence. The reconciliation is available — a single citation line written across four ruled lines — and Vastin's 'I did not copy the rest of the line' (line 63) points at it, but nothing on the page states it, and 'four lines' invites the reader to wonder what the other three said."
+  ],
+  "strengths": [
+    "The handover's order is made load-bearing rather than described. Line 13 announces it, line 57 explains why it is the shape it is ('the records were a stack; this was a page; a stack could be sorted and a page could only be read'), and the chapter keeps to it under pressure — the third object has been on the table since the first row went down (line 91) and Vastin waits for Karis to finish sorting before naming it. This is the packet's 'the order is the last authority he has' turned into structure instead of a stated theme, and a repair pass should not disturb it.",
+    "The sort at line 35 does six characterisations in one paragraph, each by attention: Brom moves the lamp without being asked, Lira watches Cael because that is where Lira looks when a Compact hand is on a table, Oryn goes knee-hands-sheets-knee, Seln reads at the speed the sheets are laid, Karis's hands work and her pencil waits. This is the pen-name voice's 'attention reveals character' at full strength and it carries the chapter's quietest stretch without a line of dialogue.",
+    "Vastin's want is paid without a speech (lines 121-133). 'Then there was nothing for the man to do' is the whole diagnosis; 'the part that came next did not come' is the whole feeling; the not-reaching is seen, priced and paid on the page; and the beat is closed by a healer's instruction about a staircase rather than by anyone naming what has happened to him. Charter §7.4 satisfied in a scene that is genuinely about him while remaining in Cael's viewpoint.",
+    "Cael's hand is measured, not described — 'a hand's width, a little less' (line 85) — held unmoved through the chapter's largest disclosure and the man's departure, and closed out by four words from Lira and three from Cael (lines 137-143). The choice the packet asked to be stated in the body is stated as a distance, which is the series' own idiom for feeling.",
+    "The refusal discipline holds at every object. 'More than four... I'm not going to say which tonight, because I'll say it wrong, and a wrong site is worse than no site' (line 41); 'That's all the page says. That's all I'm going to say it says' (line 77); the copied line with 'not read' beneath the drawn bar (line 119). Three different kinds of not-knowing, entered three different ways, none of them the same sentence.",
+    "The redaction is built for narration: 'a bar of ink the width of a thumb, laid on with a brush, black, straight, and old enough that the black had gone brown at its edges' (line 95), then Vastin's forensics on when it was laid and by whom (line 101). Charter §8.2 is satisfied by description rather than by typography, and the description is also the characterisation of the office that laid it.",
+    "The chapter carries no Power Log entry at all and motivates the absence on its last line ('it was not his to write yet'). After Ch1 closed on the log, this is the right structural answer to the closer rule and it makes Cael's withholding a choice the reader watches him make rather than a formatting decision.",
+    "Seln's stillness is typed against its own precedents rather than given a somatic tell — 'The one Cael had seen twice in his life: once at a plank... and once on a rim in the dark with four crossbows in the scrub and no faces' (line 111). The series' anti-tic problem is solved here by memory instead of by body, which is a technique worth keeping."
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch06",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 6 card — Oryn's Terms; Chapter 7 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–5' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen; the 280th's halt behind them; the fork reached that evening or the next morning (281st) a day short of Treswick; Treswick visible from the rise beyond the fork: walls stacked up a bluff in tiers, an Arbiter station's pale sigil-light at the top if you know to look.",
+      "Oryn's route: seven holds; Lowmarch and Millrace were her spring's first two stops; the north track from this fork leads to the rest (Thornwater, Oxhollow among them — she may name one or two; no new hold names). She has said nothing about the fork until now; nobody has asked (the condition, written on a bank at Millrace, B7 Ch18).",
+      "Oryn's history as the architecture gives it: certified at a city academy; gone within a year because the city rationed her (Tide healers assigned by rank of patient, Bronze and above first) — she may say this in her own blunt register; no academy or city NAMED.",
+      "Her terms of service (B7 Ch18): 'lie still when I say'; ask first, every time (the reading's rule, hers and his). Her professional grievance: a patient she cannot read walking toward an Arbiter station — the one place a healer's instinct says to keep an unreadable body from. She has NOT read Cael deep since B7 (surface only; 'I'll read you properly when you've slept a week and the ferry's run'); Ch7 is his self-reading, not hers.",
+      "The station: Treswick has an Arbiter station at the top of the tiers; the crew has not stood near one since the academy above Ostrand; Cael's [SHATTERED] classification bars him from the inner districts (city-access-by-rank, bible); he does not know Treswick's rules yet beyond that.",
+      "Injuries: Brom's foot bound ('It'll walk'), shoulder carried and unread; Vastin spent yesterday, walking; Lira two arms; Cael's frameworks settled. Cash 138.",
+      "The Book-11 tripwire: the promise WRITTEN in the log — Ch14 pays it; nothing faint happens here.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; Pressure = 'the Bronze from Ardenmere' if inventoried."
+    ]
+  },
+  "purpose": "Oryn's chapter — her independent want on the page in a scene about HER: the border road forks a day short of Treswick, west to the archive and north to the seven holds on her route, the spring circuit already late. She is not an archive person and says so; she healed Bronzes with bruises in a city once and left; Treswick is a city with a district pass rationed by rank and the thought turns her stomach; her route is the only thing she owns and it does not run west. The choice staged as hers: she will run the north circuit while they go inside; she will not be talked into a city; she is not leaving the crew, because leaving and routing are different verbs. The counterweight: a patient she cannot read walking toward an Arbiter station — she extracts the term (her covenant): 'You go inside, you don't go near the station. Not the steps, not the square. You promise me in that log of yours, because I've seen what the log does to you.' Cael writes it. The cost of no healer priced. Close on the image: the fork at first light, Oryn's mule a quarter-mile up the north road, the crew turned west toward Treswick's tiers and the station's pale light, Cael not looking at it.",
+  "scene_shape": {
+    "opening_state": "The fork, reached at dusk on the 280th: the border road going on west over a rise; an older track going north-west toward a gap in the hills — the same shape as Book 7's fork and the same woman standing square to it. Camp at the fork because nobody will say the word before dark.",
+    "pov_goal": "Cael wants her to come inside and knows he cannot ask, because the whole of her being with them was built on a bank out of nobody asking; he wants, failing that, to keep whatever she needs him to keep.",
+    "opposition": "The city itself (a district pass rationed by rank; a station; healers assigned by tier — the machine that rationed her once); her route, late; the crew's need for a healer inside walls; her need for a patient she cannot read to stay away from the one place she cannot follow him.",
+    "turn": "Oryn says it, at the fire, plainly, as a finding about herself and not as a complaint: she is not an archive person; she healed Bronzes with bruises in a city once and left; she will not be talked into a city; she will run the north circuit while they go inside; leaving and routing are different verbs and she needs them to understand that she is doing the second. Then the term.",
+    "choice": "Cael takes the term — 'You go inside, you don't go near the station. Not the steps, not the square. You promise me in that log of yours, because I've seen what the log does to you.' — and writes it, in the log, in front of her, in the plain hand, and reads it back once, and that is the covenant kept in the only form she will take it in. He does not ask her to come.",
+    "outcome": "The cost of no healer priced on the page — Brom's shoulder, carried, not mended, and what an alley would cost with nobody's hands in it; Treswick's healers rationed by rank; Oryn's 'bind it; don't let him lie about it; I'll read it at Millrace' — and the crew turned west with the thing they cannot replace walking north.",
+    "closing_state": "IMAGE — the card's close: the fork at first light — Oryn's mule already a quarter-mile up the north road, small against the thaw, the image Book 7's fork gave, deliberately rhymed; and the crew turned west toward the bluff of Treswick just visible on the horizon, walls stacked up a hill in tiers, an Arbiter station's pale sigil-light findable at the top if you knew to look, and Cael not looking at it, keeping the promise a half-day before he made it. The file ends on the image."
+  },
+  "obligations": {
+    "must_include": [
+      "The fork dated and drawn (west over a rise to Treswick; north-west to a gap and her seven holds); camp at the fork.",
+      "Oryn's want in a scene about HER (charter §7.4): the route as the only thing she owns; the city that rationed her once, in her own words; 'leaving and routing are different verbs'; she will not be talked into a city and nobody tries.",
+      "The term, fixed line verbatim: \"You go inside, you don't go near the station. Not the steps, not the square. You promise me in that log of yours, because I've seen what the log does to you.\" — and Cael WRITES it in the log, on the page, in the plain hand, and reads it back once.",
+      "The cost of no healer priced: Brom's shoulder (carried; 'it will not hold three times this season' remembered by someone; bound, not mended); Treswick's healers rationed by rank; Oryn's instructions for the inside; 'I'll read it at Millrace' or the equivalent — a rendezvous on her route, NOT a date she cannot keep (Millrace is a day south of Lowmarch on the Stair road; the crew's road back east passes it).",
+      "Oryn's professional grievance stated: a patient she cannot read walking toward an Arbiter station.",
+      "Nobody asks her to come; the condition from Millrace named or remembered once.",
+      "Vastin present and outside the circle of it — the seventh at a six's fire; one beat of him watching a crew do a thing a Compact unit never did (let a member walk).",
+      "Close on the fixed IMAGE: the mule a quarter-mile up the north road at first light; Treswick's tiers and the station's pale light on the horizon; Cael not looking at it, keeping the promise a half-day before he made it. The file ends on the image; no log closer (Ch4's), no dialogue closer (Ch5's)."
+    ],
+    "plants": [
+      "The promise in the log — Book-11 plant 3's tripwire (Ch14).",
+      "Millrace as the rejoin point on the road east (Ch18).",
+      "Treswick's rules glimpsed from outside (tiers, a pass, a station) — Ch8/9's machine.",
+      "Lira's look at a city of ladders (Ch9's want) — one glance, no speech."
+    ],
+    "payoffs": [
+      "B7 Ch18's terms of service — restated by her, kept by him, in the only currency she takes (written).",
+      "B7 Ch23's fork — rhymed by the image, not repeated by the lines ('Find me at Thornwater' is NOT re-said; her line here is her own)."
+    ],
+    "prohibited_outcomes": [
+      "No reading of Cael (surface or deep); no fight; no fragment use.",
+      "No Treswick entered; no Cleon met; no station approached.",
+      "Oryn's fixed B7 lines not re-quoted; no 'Find me at Thornwater'; no 'Bring the map'.",
+      "No theory about the records, the citation, the six years; the still place untouched.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; capped phrases 0; no meta-voice; the closer is the IMAGE."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The fork's ground (a stone, a track, the gap); the camp; Treswick's silhouette from the rise (tiers, walls, the station's light).",
+      "Oryn's account of the city that rationed her — one or two concrete details (a ward, a ledger of patients by tier), no names.",
+      "Her instructions for Brom's shoulder and for the alley they have not had yet — practical, brief."
+    ],
+    "approval_required": [
+      "Any new named hold, city, or person."
+    ],
+    "forbidden": [
+      "Any Tide mechanic beyond B7's; any statement of what the station would do to Cael (nobody knows)."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 5 (What the Records Say)",
+      "path": "v3-runs/book-08/drafts/ch05.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 1 (Winter's End) — Oryn at Thornwater; her release of Lira; 'I read what walks in off them'",
+      "path": "v3-runs/book-08/drafts/ch01.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 18 — Millrace: Oryn's terms of service, set on a bank",
+      "path": "books/book-07-void-roads/chapters/chapter-18.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 23 — the fork ('Find me at Thornwater' / 'Bring the map') — rhyme, do not repeat",
+      "path": "books/book-07-void-roads/chapters/chapter-23.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 7 card — The Reading, Inward (no-deflection scene) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch06.md",
+    "report_path": "v3-runs/book-08/reports/ch06-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch06-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch06-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

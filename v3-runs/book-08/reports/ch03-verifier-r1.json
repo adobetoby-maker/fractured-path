@@ -1,0 +1,54 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch03-verifier-r1",
+  "scene_id": "b8-ch03",
+  "editor_run_id": "b8-ch03-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH03-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch03-r1.md at the quoted span",
+        "book-level phrase census across drafts/ch01–03"
+      ],
+      "reason": "Citation now a title and a place only: '—of the Architect: see the lower archive at Treswick, which holds it in full—'. All MEDIUM; repaired directly and closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH03-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch03-r1.md at the quoted span",
+        "book-level phrase census across drafts/ch01–03"
+      ],
+      "reason": "Closer rewritten: 'a thing that was not yet his was a thing he could still refuse'. All MEDIUM; repaired directly and closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH03-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch03-r1.md at the quoted span",
+        "book-level phrase census across drafts/ch01–03"
+      ],
+      "reason": "'Six years back. Near enough six — a year before he had begun staying out of files, which he noted, and did not follow.' All MEDIUM; repaired directly and closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH03-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch03-r1.md at the quoted span",
+        "book-level phrase census across drafts/ch01–03"
+      ],
+      "reason": "Karis writes the identical failure on 'the page she kept for observations she could not file' — the second entry; the first a ring at Thornwater. All MEDIUM; repaired directly and closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH03-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch03-r1.md at the quoted span",
+        "book-level phrase census across drafts/ch01–03"
+      ],
+      "reason": "'upside down' 4→1 in this chapter; 'for the length of a breath' 2→0. All MEDIUM; repaired directly and closed without a further paid recheck per the loop precedent."
+    }
+  ]
+}

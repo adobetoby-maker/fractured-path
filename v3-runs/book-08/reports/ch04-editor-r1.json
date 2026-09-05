@@ -1,0 +1,419 @@
+{
+ "schema_version": "3.1",
+ "run_id": "b8-ch04-r1-editor",
+ "scene_id": "b8-ch04",
+ "verdict": "PASS_WITH_FINDINGS",
+ "gate_results": [
+  {
+   "gate": "Authority — packet prohibited_outcomes (8 items)",
+   "state": "PASS",
+   "evidence": "All eight hold on grep and read. (1) No quiet ground, no Arbiter going dark, no 'quiet' west of the Line: `grep -inE \"quiet ground|Arbiter|Quieting|went dark|sigil\"` over ch04.md returns zero; the word 'quiet' appears only as the established state-phrase for Cael's ribs ('the ribs, which had been quiet since the marsh and were quiet still', ch04.md:149; 'the ribs quiet', ch04.md:177), which is Ch1's own wording (STATE_RUNNING, After Chapter 1: 'CAEL: ... the ribs ... quiet since the marsh'). The sink is a frozen sink and is named as one ('a hollow in the rock ... floored with ice', ch04.md:47); the hounds are fed by border traffic declaring at the ice, per the factor (ch04.md:37). (2) No integration of Iron Wall: the wall is witnessed and filed and nothing more ('Watched an Iron Wall go up two feet from me. Filed it.', ch04.md:179); no fragment notice appears anywhere in the file; no reading ('He did not read it. He had not been asked to.', ch04.md:149); no Anchor and no Shadow — the only fragment spent is the Wind-adjacent burst (ch04.md:117). (3) 'Seln took the dog' is not re-run: the terminal beat is the plane ('The rooted thing they could not move was the thing they broke on.', ch04.md:125), the six go into it and down 'in a heap of grey against a wall of nothing' (ch04.md:127), and Seln arrives after — 'Seln was in the heap.' (ch04.md:129) — with Brom, Lira and Cael, 'and it was not a fight then; it was the runnel, and steel' (ch04.md:131). (4) No records read on the page (they are carried in oilcloth under Karis's arm, ch04.md:27, 171); no 'Cleon' (grep: zero); Treswick is named once as a destination not reached (ch04.md:11); Oryn's fork is referenced as a day ahead and is not staged ('her road went north from the fork a day on', ch04.md:27). (5) Oryn never declares and never fights: she takes the position where the casualties will be before the first exchange (ch04.md:73), arrives when the wall comes off (ch04.md:137), and the log's own entry is 'Oryn, nothing; she was where she said she'd be.' (ch04.md:177). Teague and his crew do not appear (grep: zero). (6) 'Halcenvane', 'Velmere', 'Wray', 'Bracken': zero; no modern idiom (`grep -inE \"okay|literally|basically|gonna\"`: zero); one single-word paragraph against a cap of 2 ('Nothing.', ch04.md:83); three instances of the 'the way X [verb]' construction against a cap of 4 (ch04.md:25, 85 twice); every enumerated capped phrase at zero; the closer is the log, not an image."
+  },
+  {
+   "gate": "Authority — canon and SECRET discipline (CANON_RULES reveal schedule; UNIVERSE_BIBLE)",
+   "state": "PASS",
+   "evidence": "Nothing in the chapter discloses a scheduled secret. The Architect is not mentioned; the records are carried unopened; no character theorises the citation, the sub-layer, the six years, or the still place. The still place is registered as unchanged and untouched and is not interpreted ('The still place at the middle of them, untouched, unmoved, going around nothing.', ch04.md:149). Iron Wall is shown for the first time within the Bible's own description of the Path (§Archmarshal Vastin: 'Silver-tier, Iron Wall Path — exceptional defense') and adds no mechanic beyond the architecture's reference paragraph — a braced plane, rooted, held by the practitioner, cannot be carried, and worth what stands behind it. Stillhound behaviour is drawn from the Bible's Edge Fauna entry and Book 7's prose. The one canon-adjacent overreach is a date, not a secret, and is filed separately (F-B8-CH04-006)."
+  },
+  {
+   "gate": "Continuity persistence — calendar, cash, possessions, counts",
+   "state": "PASS",
+   "evidence": "Every countable in the chapter reconciles. Calendar: Ch3 closed on the evening of the 277th (STATE_RUNNING, After Chapter 3); the slip is taken 'on the morning of the two hundred and seventy-eighth day' (ch04.md:3); the first day is road (ch04.md:31); the log is dated 'Two hundred and seventy-ninth day' (ch04.md:175) — one day out, one day to the cut, matching the slip's 'two days west' (ch04.md:5). Cash: STATE_RUNNING carries 118 after Ch1; the slip pays twenty (ch04.md:5) and the log reads 'the hold's twenty ... A hundred and thirty-eight in hand. Nothing owed.' (ch04.md:175) — 118 + 20 = 138. Pack arithmetic: the factor gives 'Seven. Eight.' (ch04.md:41); eight come up (ch04.md:85); eight strike the plane twice with none killed ('went down' and 'went over', ch04.md:91, 101); Brom kills one (ch04.md:105) and Lira one (ch04.md:107), leaving the stated 'Six on the ice' (ch04.md:111), confirmed at 'All six' (ch04.md:117) and 'all six' (ch04.md:127); three break for the sink (ch04.md:133), which Seln counts ('Three.', ch04.md:147); the log's total is 'Five. Three into the sink.' (ch04.md:175) — 5 killed + 3 fled = 8. Party: seven on the road, six on Pike's sheet plus a sixth line for the healer and no seventh (ch04.md:15, 19). Lira: 'thirteen days released' (ch04.md:27) against a release on the 266th (STATE_RUNNING) — inclusive count, and within the packet's stated band of twelve or thirteen. The crossbow stays with Lira by omission (it is not used and not carried into the cut). Objects: the records in Karis's keeping (ch04.md:27, 171), one mule with Oryn's kit (ch04.md:27, 73)."
+  },
+  {
+   "gate": "Continuity persistence — injuries and conditions carried forward (charter §4.3; THE AUTHOR 2.8 / gate 13)",
+   "state": "FAIL",
+   "evidence": "Carried well in four places and broken in two. Carried: Brom's shoulder is bound, carried, used for nothing, and looked at by Oryn without comment for the second time — 'the shoulder: carried through the whole of it, still and forward, and not once used, and Cael saw Oryn look at it while her hands were on the foot and say nothing, again, which was twice' (ch04.md:143), against STATE_RUNNING's 'BROM: shoulder bound-and-carried ... Oryn looked at it once and said nothing — unread, hers to read'; Lira's two arms are shown as capability, not announced (ch04.md:107, 133, 145); Cael's ribs are registered as still quiet (ch04.md:149, 177); the new cost, Brom's foot, is bound on the page and entered in the log (ch04.md:143, 177). Broken: (a) the log states Vastin's condition and then contradicts it two lines later — see F-B8-CH04-001; (b) Vastin's knee, established on the landing in Ch2 and tracked by Oryn across two chapters, goes unregistered through a rooted declaration held to collapse, a fall onto both knees on stone, and Oryn's own examination — see F-B8-CH04-007."
+  },
+  {
+   "gate": "Continuity — Book 7 fauna doctrine (stillhound mechanics as B7 Ch3 and Ch10–11 establish them)",
+   "state": "FAIL",
+   "evidence": "Four of five carry exactly. Hunt by discharge and near-blind otherwise: stated by Cael as a finding, correctly sourced to Karis at the ford — 'They hunt discharge. A Path is a shout. A still body is nearly nothing to them and a declaration is everything, and they turn to the loudest one, all of them, at once, and they follow whoever moves first' (ch04.md:61). Turn to the loudest, all at once: ch04.md:85, 117. Follow the first mover: ch04.md:113, 115, and the reuse is extended rather than repeated — Cael goes silent after the burst, which is B7 Ch11's own rule about a spent burst ('a body running was nearly nothing to them', chapter-11.md:139) turned into a tactic. The citation 'the way the ford had taught him and the Ring had taught him twice' (ch04.md:85) checks out: B7 Ch11 turns the whole pack to a declaration twice (chapter-11.md:137 and 173). The break: the chapter asserts a flat negative about the animals that the designated doctrine chapter asserts flatly in the positive — see F-B8-CH04-004."
+  },
+  {
+   "gate": "Combat — charter §4.1 / THE AUTHOR gate 9: geography drawable at every paused point",
+   "state": "FAIL",
+   "evidence": "The cut is fully drawable before the first exchange and the chapter does the work twice — once as terrain ('a hundred strides of it, falling toward the west ... a runnel — the winter's runoff, frozen, a ribbon of grey ice a stride wide ... scree, on both sides, steep, loose ... and on the north side, halfway along ... the sink', ch04.md:47) and once as a drawn diagram in the POV's own hand ('a line, the cut; a ribbon down the line, the ice; the sink a bowl off the line's side, fifty meters below and north; the scree the line's two banks', ch04.md:49) — followed by every position assigned aloud (ch04.md:57, 69) and re-catalogued as taken (ch04.md:81). The wall's placement is legible: it goes up 'two feet from Brom's back' (ch04.md:89) with Vastin a stride behind Brom (ch04.md:81), which puts the plane east of Brom and the pack, and Karis, Oryn and the mule behind it at the cut's east end — so the thing the wall actually protects is drawable without being stated. The one span that does not hold is the plane's lateral extent, which is asserted as total and then breached twice — see F-B8-CH04-005."
+  },
+  {
+   "gate": "Combat — charter §4.2: four exchanges, each changing position, information, resource or injury",
+   "state": "PASS",
+   "evidence": "Four, delineated by paragraph breaks and each carrying a change. (1) ch04.md:85–101 — the pack breaks from the sink onto the ice; Vastin declares; the plane holds; every head turns to him; he cannot move. Change: position (eight animals off the sink and onto the road), information (Iron Wall's limit, delivered as two numbered facts — 'He catalogued that first, because it was the first fact' at 91 and 'That was the second fact and it came a breath after the first' at 95), resource (Vastin, committed and unable to withdraw). (2) ch04.md:103–111 — Brom takes one with the rock and no Path, Lira takes one from the scree, Seln is nowhere. Change: injury (two hounds dead), resource (the pack down to six, stated at 111), information (the crew's doctrine works against a rooted ally's noise). (3) ch04.md:115–127 — the burst away from the wall, the silence on the scree, the overshoot, the turn back, the fourth impact. Change: position (the whole pack moved twice the length of the cut and back), information (the mechanism that wins), injury (the heap). (4) ch04.md:129–133 — the runnel, four people, steel. Change: injury (three dead, three fled), resource (the pack broken). No exchange changes nothing."
+  },
+  {
+   "gate": "Combat — charter §4.4 / THE AUTHOR: the win is expressible as X removed Y's ability to Z",
+   "state": "PASS",
+   "evidence": "The sentence is writable from the prose without inference: Cael removed the pack's ability to converge on the rooted man by becoming the louder target and then ceasing to be loud, so that the only remaining loud thing in the cut was the plane the pack could not cross — and the pack's own speed on ice carried it back into it. Every clause has a span. The bait: 'Wind, open, the burst — the loudest thing he could be on purpose — twenty strides down the road from the plane, AWAY from it' (ch04.md:117). The stop: 'he went sideways off the road onto the south scree, three strides up it, and *stopped*, and went still, and was nothing' (ch04.md:119). The mechanism, taught before it is used: 'it went to the loudest thing until the loudest thing stopped being loud or stopped being there' (ch04.md:101), paid at 'Because the wall was still the loudest thing in the cut. It had never stopped being. The boy had been louder for three breaths and had gone quiet, and a stillhound did not remember three breaths' (ch04.md:123). The terminal image is the card's own: 'The rooted thing they could not move was the thing they broke on.' (ch04.md:125). The gate passes; the packet's separate requirement that the removal-form sentence itself appear on the page is a different matter and is filed at F-B8-CH04-009."
+  },
+  {
+   "gate": "Combat — charter §4.3 / §4.7 / §6.2: abilities within their canon cost and limit; costs shown",
+   "state": "FAIL",
+   "evidence": "Iron Wall's cost is shown and priced twice — on the page as it is held ('his face gone the colour a face goes when a man is holding a thing up', ch04.md:95; 'the man holding it going the colour of the ice', ch04.md:111) and after ('like a man who has been holding a thing up and has been told he can stop, both knees, and then a hand', ch04.md:137; Oryn's 'You're spent to the floor', ch04.md:161). Brom's cost is a deliberate non-use, correctly sourced ('Silent. No Path. He had learned that at a ford in the autumn — that Iron Skin was a shout', ch04.md:105). The Wind-adjacent burst's bill is carried in three of its four established components. The fourth — the landing lock, which Book 7 renders in both stillhound fights and itemises in the ford log — is absent from the page and from the ledger at the one beat where it would have cost him: see F-B8-CH04-002."
+  },
+  {
+   "gate": "Combat — THE AUTHOR gate 16: environmental utilization, ≥2 beats causally dependent on terrain",
+   "state": "PASS",
+   "evidence": "Four beats, none deletable. (1) The ice divides the combatants before a blow is struck and the division is stated as doctrine — 'They can run on it. We can't.' (ch04.md:55) — and enforced in the plan, 'We don't run on it. Nobody's on the ice.' (ch04.md:57). (2) The scree's specific property, that it can be climbed but not fast ('the kind of slope a body could go up on hands and feet and could not go up fast', ch04.md:47), is what makes Lira's descent possible and her withdrawal safe ('Not running — the scree would not let her run — but fast', ch04.md:107) and what makes Cael's three-stride step off the road a place he can reach and stop on (ch04.md:119). (3) The winning beat is caused by the ice and the road's westward fall together: six animals at speed on frozen runoff cannot stop where the shout stopped, and 'did what ice and a stopped shout made them do, which was to go on past the place where he had been, down the road, and turn' (ch04.md:119) — and they return uphill 'at the speed of ice and a slope and a shout behind them' (ch04.md:127), which is why the fourth impact breaks them where the first three did not. (4) The sink is the den, the reason the pack is there at all (ch04.md:37, 47), and the retreat that ends the fight (ch04.md:133, 147). Remove the ice and beat 3 does not exist."
+  },
+  {
+   "gate": "Combat — THE AUTHOR gates 10–12, 14: tempo, masked-name distinctness, stakes before the blow, tactical escalation",
+   "state": "PASS",
+   "evidence": "Stakes: three carters dead since the thaw, stated by the man who lost them and priced in the voice of a man counting money (ch04.md:35, 37), on top of the road itself being the chapter's larger stake (ch04.md:11). Tempo: the long-versus-short contrast pairs sit at the two turning points — the accumulating single sentence of the burst (ch04.md:117) against 'He moved first.' (ch04.md:115), and the long fourth impact (ch04.md:127) against 'The rooted thing they could not move was the thing they broke on.' (ch04.md:125) and 'Back toward the wall.' (ch04.md:121). Masked names: with names stripped, every beat is reassignable — the man who solves problems with a found rock and no declaration; the woman who cannot run on scree and is fast anyway and checks her left hand afterward; the man who is never in a sightline and reports a count; the boy who spends the only loud thing he has and then subtracts himself; the man who becomes a fixed plane and cannot leave it. Escalation: the core tactical problem in one sentence — 'the noise you must protect is an ally who cannot stop making it and cannot move' — differs from Book 7's ford ('the noise is a person you chose to make loud, and you can move') and from the Ring ('you are the only thing on the floor that can be loud at all')."
+  },
+  {
+   "gate": "Causal legibility — the fight's trigger",
+   "state": "FAIL",
+   "evidence": "Everything after the pack leaves the sink is caused. The pack's leaving the sink is not. The chapter states, twelve lines before the walk-in, that a still body is nearly nothing to these animals and that a Path is what draws them (ch04.md:61); the factor's own account attributes every previous kill to a declaration on the ice (ch04.md:37); the crew then executes the doctrine exactly, and the prose spends a paragraph proving the silence held (ch04.md:79) — and eight hounds come up anyway, with nothing on the page for them to have come to. See F-B8-CH04-003."
+  },
+  {
+   "gate": "World discipline — charter §6.1: limitation introduced with or before the capability (Iron Wall, for the Ch12 payoff)",
+   "state": "PASS",
+   "evidence": "Iron Wall's first on-page use and its limit arrive in the same beat, and the limit is given the greater share of the space. Rooted: 'he was rooted: a plane across a road is a plane that is *held*, and the holding is the man, and the man is the plane's foot, and a foot does not walk' (ch04.md:95). Cannot chase: 'Vastin, behind them, still holding a wall that nothing was hitting, could not follow' (ch04.md:117), pre-registered as 'a rooted man who could not chase' (ch04.md:113) and said aloud from the slope by Lira — 'He's standing there and he can't move.' (ch04.md:99). Protects only what is behind it: delivered by contrast rather than assertion — 'in a field, with a line of Compact steel behind it, that was the whole of the craft. There was no line of steel behind it. There was Brom, with a rock, and a boy on a road, and a woman on a slope' (ch04.md:95–97) — and then stated flat by the professional who has just measured him: 'Here, a wall with nothing behind it is a man alone in a road being loud.' (ch04.md:161). All three limits are on the page before Cael's tactic depends on them at ch04.md:115, and none is spent as explanation after the fact. This is the plant Ch12 needs and it is laid clean."
+  },
+  {
+   "gate": "Point-of-view integrity and knowledge boundary (craft core reader-trust invariant 1)",
+   "state": "FAIL",
+   "evidence": "The close third holds for the length of the fight: Seln's position is withheld until Cael reconstructs it afterward and the reconstruction is marked as such ('Cael understood it afterward, drawing it', ch04.md:131); the wall is described as a nineteen-year-old with no Iron Wall vocabulary would describe it ('not a thing he could see, exactly; a *plane*, a place where the air had been told it was stone, and had believed it', ch04.md:89); Oryn's finding is delivered through her hands and her sentences, not through narration that knows her diagnosis. Three spans exceed what the viewpoint holds: an uncited four-hundred-year date on the road (F-B8-CH04-006), a count the counting narrator gets wrong against his own page (F-B8-CH04-011), and a sentence rendered in full in the POV's head over an explicit statement that he does not have it (F-B8-CH04-010)."
+  },
+  {
+   "gate": "Consequential scene — state change and scene turn",
+   "state": "PASS",
+   "evidence": "Five states move. Goal: the decision west is taken without the word — 'nobody at the plank had said *Treswick* aloud since a page had been set on a table's bare end, and nobody was going to say it now, because saying it was a decision and taking a slip was a job' (ch04.md:11), closed by 'Ours' twice (ch04.md:13, 15). Relationship: Vastin moves from a man at a door end who is not on the sheet (ch04.md:19) to a man on the road who has been told what he is for and has agreed out loud ('You do now.' / 'Yes.', ch04.md:167–169). Knowledge: Cael has seen Iron Wall used and filed it, which is the Ch12 fragment's witnessed-use citation banked in advance. Capability: the ford's first-mover lesson is extended into a two-part tactic that the ford could not contain. Obligation: Pike's sixth line makes 'Six, by letter' ink (ch04.md:15, 17). The turn is the one the card specifies and it lands in the body, not the ledger."
+  },
+  {
+   "gate": "Assigned obligations — must_include (8 items)",
+   "state": "FAIL",
+   "evidence": "Six of eight met in full, one met in part, one met in substance but not in form. Met: the decision staged at the plank and dated, with Brom's price, Karis's 'Ours' ahead of him, and Pike's sixth line and no seventh (ch04.md:3–19); geography drawable before the first exchange (ch04.md:47–49, 57, 81); four exchanges each changing state (ch04.md:85–133); Iron Wall's mechanics on the page before they matter (ch04.md:95, 113, 117, 161); costs ledgered forward, with Oryn's hands on the wounded and never in the fight (ch04.md:73, 137, 143–149, 177); the card's fixed log text reproduced verbatim with the file ending on it (ch04.md:179, verified character-for-character against the card at CHAPTER_ARCHITECTURE.md:151, and the file's last byte is the closing italic marker and a newline). Partly met: Vastin's lesson, which the card requires said once and which lands twice — F-B8-CH04-010. Met in substance, not in the required form: the win-sentence — F-B8-CH04-009."
+  },
+  {
+   "gate": "Assigned obligations — plants and payoffs",
+   "state": "PASS",
+   "evidence": "All four plants and both payoffs are on the page. Iron Wall's limit taught for Ch12: see the §6.1 gate. Vastin's first notch, carried by the fixed log ('He looked almost free. Almost.', ch04.md:179) and earned in the body by a Silver-tier officer who is not on the board's sheet (ch04.md:19) and who ends the chapter sitting on a road being told what he is for. The border road as a maintained road: 'a surface, laid and mended, with the winter's ruts filled in with broken stone by somebody paid to fill them; a waypost every mile, a squared timber with a mark cut in it, the marks counting down toward the Line; a ditch on the uphill side that somebody had cleared of last year's leaves' (ch04.md:25), with the hold's factor posting to Pike carried by the slip itself (ch04.md:5) — and the seam read by the POV as threat rather than comfort, 'a country that measured its roads' (ch04.md:25). Oryn positions where the casualties will be and does not fight (ch04.md:73, 137). Payoffs: Book 7's declaration-discipline owned as doctrine and extended rather than repeated (ch04.md:61, 105, 113, 119); Pike's sixth line made ink (ch04.md:15, 17)."
+  },
+  {
+   "gate": "Progression module gates 1–7",
+   "state": "NOT_APPLICABLE",
+   "evidence": "No advancement, tier change, rank change or training beat is assigned to this chapter and none is taken. No fragment is integrated (Iron Wall is Ch12) and no rival appears (Teague's crew is at Lowmarch by the packet's own prohibition). Gate 6 — repeated challenges must differ in tactical, emotional or social problem — is the one gate that bites and it is satisfied under the combat-escalation gate above: the third stillhound engagement of the series poses a problem neither of the first two contained, an ally whose defence is itself the noise."
+  },
+  {
+   "gate": "LitRPG module gates 1–7",
+   "state": "NOT_APPLICABLE",
+   "evidence": "No system display, declaration block or fragment notice appears in the chapter, correctly — the packet forbids a fragment notice here. Gate 7, rank with non-combat consequence, is the one that applies and it is paid without a display: a Silver-tier Archmarshal walks at the back of the column 'where a man walks who has not been told where to walk' (ch04.md:27), is not written on the board's sheet (ch04.md:15, 19), and takes his fighting position from a nineteen-year-old with no tier at all ('Where do you want me.', ch04.md:67)."
+  },
+  {
+   "gate": "Voice charter §8.4 — terminal metadata",
+   "state": "PASS",
+   "evidence": "`grep -nE \"End of Chapter|approximately.*words|word count|DRAFT|TODO\" v3-runs/book-08/drafts/ch04.md` returns zero. The file's final line is the log's last line and the final bytes are 'Almost.*' plus a newline; there is no trailing rule, note or count."
+  },
+  {
+   "gate": "Voice charter §9 — enumerated tic caps (per chapter and book-to-date)",
+   "state": "PASS",
+   "evidence": "Counted over ch04.md. Single-word paragraphs, cap 2: one — 'Nothing.' (ch04.md:83). The 'the way X [verb]' construction, cap 4: three — 'the way the void roads were not' (25), 'the way water comes up out of a hole' and 'the way the ford had taught him' (85). Every enumerated capped phrase returns zero: 'jaw tightened', 'laughed once', 'without humor', 'stomach tightened', 'stomach dropped', 'There it was', 'That was true', 'Also true', 'sounded almost', 'held this', 'which was, in its own way'. Standalone '[Name] noticed.': zero. Feeling-declaration greps (§3.3) and growth-declaration greps (§7.2): zero. Book-to-date across ch01–ch04 the enumerated caps remain at zero."
+  },
+  {
+   "gate": "Voice charter §9 — cataloguing-narrator gravity wells (the drafting constraints' named watch)",
+   "state": "FAIL",
+   "evidence": "The house verb has become a scaffold. 'He catalogued [X] because [Y]' runs four times in one chapter — ch04.md:23, 79, 91, 141 — three of them opening a section, and the immediately previous chapter opens on the same construction. See F-B8-CH04-008. The count is otherwise clean: a fifth instance at ch04.md:45 varies the shape and does no harm."
+  },
+  {
+   "gate": "Voice charter §9 — scene-closer rule (no two consecutive chapters on the same structural move)",
+   "state": "PASS",
+   "evidence": "Ch3 closes on an image — the six rows, the page apart on the bare end of the table, and the two roads out of the window (ch03.md:3500–3502), recorded in STATE_RUNNING as 'Close: IMAGE'. Ch4 closes on the log (ch04.md:175–179). Different families, and both match the architecture's planned sequence (Ch3 image · Ch4 log · Ch5 dialogue)."
+  },
+  {
+   "gate": "Voice charter §8.5 — dialogue attribution runs in 3+-speaker scenes",
+   "state": "PASS",
+   "evidence": "Two multi-party scenes. The plank (ch04.md:7–15): Lira, Brom, Karis and Pike, every line attributed or carried by an action beat; longest unattributed run, one. The cut's lip (ch04.md:51–71): Lira, Brom, Cael and Vastin; the longest unattributed run is four — 'I'm listening.' (59), Cael's doctrine paragraph (61), 'You're telling me not to fight.' (63), 'I'm telling you how this crew fights.' (65) — which sits at the cap and not past it, and is then broken by an action beat, 'Vastin looked at the cut for a while.' (67). The two speakers alternate strictly and each is characterised by register, so the run survives narration."
+  },
+  {
+   "gate": "Voice charter §8.1 / NAME_REGISTRY — aural distinctness, rename-slated names, new canon nouns",
+   "state": "PASS",
+   "evidence": "No new personal name and no new place name is minted. The hold is named by role throughout, which the invention budget permits — 'The shoulder hold was a hold on a shoulder above the road' (ch04.md:35) — and its keeper is 'the factor' and nothing else (ch04.md:35, 175). `grep -inE \"Halcenvane|Velmere|Wray|Bracken\"` returns zero, as does Cleon and Teague. Iron Skin and Iron Wall are spelled in full at all three occurrences and neither is ever abbreviated to 'Iron' — the registry's standing rule for the Brom/Vastin distinction by ear (ch04.md:89, 105, 179). No RESERVED Boundary-universe name appears."
+  },
+  {
+   "gate": "Voice charter §8.2 / §8.3 — audio survival",
+   "state": "PASS",
+   "evidence": "No meaning in the chapter depends on typography. The two italic spans are the diegetic slip (ch04.md:5) and the log (ch04.md:175–179), both of which are announced by their own prose context and read aloud as what they are; the single word set in capitals, 'AWAY' (ch04.md:117), carries stress and not sense, and the sentence lands identically unstressed. There is no system block, no bracketed field, no stat line and no table. The word 'plane' is load-bearing and is glossed on first use for the ear ('a place where the air had been told it was stone', ch04.md:89) so that a listener does not hear the flying kind."
+  },
+  {
+   "gate": "Voice charter §10 — scene versus summary, and density",
+   "state": "PASS",
+   "evidence": "Every architecture-major beat is in scene: the plank, the reconnaissance, the four exchanges, the aftermath and Oryn's verdict. `grep -inE \"heard about it later|learned afterward|was told later|found out later|by the time he heard\"` returns zero. The one compression covers travel without incident and is a single clause — 'The first day was road and nothing else, and he wrote it as that at the halt, and slept, and the second day was the cut.' (ch04.md:31) — which the card does not mark major. Density: 4,607 words against a target of 4,600 with a 15% tolerance (3,910–5,290). Within band by seven words."
+  },
+  {
+   "gate": "Voice charter §3.5 / §3.8 — third-party verdicts, dry oblique dialogue, no modern idiom, no meta-voice",
+   "state": "PASS",
+   "evidence": "Three observer verdicts land after the fight and each is specific to the observer's competence: Oryn's, which is a clinician's and a rule ('You're spent to the floor. Not hurt. Spent. ... Don't do that again. Not here.', ch04.md:161); Seln's, which is a professional's distinction between empty and safe ('tell the factor the sink's clear, and tell him it's clear because it's empty, not because it's safe.', ch04.md:147); and the factor's, reported as a transaction in the log ('who paid what the slip said and wrote it in a book of his own and did not ask for a name', ch04.md:175). The dialogue holds the series' angle throughout — 'It's a boot.' / 'It's a foot.' (ch04.md:143); 'I can be still. It's the one thing I've been trained to.' (ch04.md:71). No modern idiom on grep; no volume, chapter or structure reference anywhere in the file."
+  },
+  {
+   "gate": "Anti-pastiche (craft core invariant 6; charter §2)",
+   "state": "PASS",
+   "evidence": "Nothing in the chapter reads as a named author's protected expression. The prose is the series' own accumulating-clause register carried forward from ch01–ch03 and from Book 7's fight chapters, and the one place where a borrowed cadence would be easiest — the log — reproduces text the planning layer fixed in advance."
+  },
+  {
+   "gate": "Invention budget",
+   "state": "PASS",
+   "evidence": "Everything invented sits inside the allowed column. The road's texture, the wayposts, the kept surface and the cleared ditch (ch04.md:25); the cut, the runnel, the scree and the sink's ice (ch04.md:47); the pack at eight, inside the permitted seven-to-nine band and inside Book 7's mechanic (ch04.md:41, 85). The hold is named by role and its factor is unnamed, exactly as the approval_required column requires; the slip's wording is the author's and is permitted (ch04.md:5). Nothing forbidden is touched: no site, perimeter or Quieting west of the Line, and no theory about the records, the citation or the six years. No Iron Wall mechanic beyond the architecture's reference paragraph is introduced — the one place the prose extends the Path is the lateral question raised at F-B8-CH04-005, which is an unstated gap rather than a new mechanic."
+  }
+ ],
+ "findings": [
+  {
+   "id": "F-B8-CH04-001",
+   "status": "PROPOSED",
+   "severity": "HIGH",
+   "category": "continuity",
+   "gate": "Continuity persistence — injuries and conditions carried forward (charter §4.3); craft core invariant 3",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 179,
+    "line_end": 179,
+    "quote": "Note the day: an Archmarshal took a wound out here and there was no one to report it to."
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 177,
+    "line_end": 177,
+    "quote": "Vastin, spent to the floor. Not hurt. Spent."
+   },
+   "consequence": "The log contradicts itself across two lines, at the chapter's final beat, where the reader's attention is highest and where this series has trained the reader to read the ledger as the accurate one. The injuries entry states Vastin's condition twice in three words to make sure it cannot be misread — 'Not hurt. Spent.' — and the next paragraph says an Archmarshal took a wound. The body backs the injuries entry and not the closing paragraph: Oryn examines him, takes his pulse, and delivers the same verdict in the same words ('You're spent to the floor. Not hurt. Spent.', ch04.md:161), and nothing anywhere in the fight opens Vastin's skin. 'Took a wound' can be read as ledger idiom for took damage, but the log has just spent a clause forbidding that reading. Note the origin: the closing paragraph is the card's fixed text, which the packet requires verbatim, and the same card's aftermath line specifies 'Vastin spent to the floor by a single rooted declaration held too long' (CHAPTER_ARCHITECTURE.md:151) — the contradiction is present in the card and the draft has inherited it, then sharpened it by adding an explicit negation two lines above.",
+   "repair_target": "The fixed text is packet-mandated and must not be touched by the author. Repair the author's own spans instead, at ch04.md:177 and ch04.md:161, so that the log's injuries entry and Oryn's verdict stop asserting a flat negative the closing paragraph then reverses — record the condition without the words 'Not hurt' (spent, emptied, paid to the floor), and let 'took a wound' stand as the log's idiom for what a rooted declaration held past its length cost him. If the planning layer would rather the closing text change, that is a card-level exception and belongs to the lead, not to a repair pass.",
+   "confidence": "HIGH"
+  },
+  {
+   "id": "F-B8-CH04-002",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "craft",
+   "gate": "Combat — charter §4.3 (costs conserved), §4.7 (no spectator-proof physics), §6.2 (every rule visibly costs)",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 119,
+    "line_end": 119,
+    "quote": "He let them come. Ten strides. Eight. And then he did the thing the ford had not taught him, because the ford had not had a wall in it: he went sideways off the road onto the south scree, three strides up it, and *stopped*, and went still, and was nothing"
+   },
+   "comparison_evidence": {
+    "path": "books/book-07-void-roads/chapters/chapter-03.md",
+    "line_start": 197,
+    "line_end": 197,
+    "quote": "The burst put him down on the shingle with the landing beat locked — the fixed one-count lock — and in the lock a hound came off the bar's near end through the shallows at him, the one Lira had cut, and reached him."
+   },
+   "consequence": "The Wind-adjacent burst carries a fixed, named mechanical cost in both of Book 7's stillhound fights, and in both it is a tactical liability rather than a footnote: the ford puts a hound inside the lock and makes Cael kill it from there (chapter-03.md:197), the Ring names it 'the beat he could not price a hit inside' (chapter-11.md:137), and the ford's log itemises it in the bill — 'breath, a locked landing beat with a dog in it, and the frameworks knocking together for what will be a day' (chapter-03.md:245). Here the burst runs twenty strides down an icy road with six animals turning onto him, and the beat where the lock would fall is written as choice — 'He let them come' — after which he executes a sideways move up a scree slope that the lock, as Book 7 defines it, would forbid. The log's bill then lists three of the four components and drops the fourth (ch04.md:177). The reader who has watched the lock cost him twice will read its absence at the decisive beat as the fight being made easier than the rules allow; and the chapter loses the one moment of real exposure in Cael's own tactic. The packet's cost list ('breath; frameworks knocking; a day') is not exhaustive and does not override Book 7's closed prose.",
+   "repair_target": "At ch04.md:119, restore the lock as a cost rather than a pause — the one count is what the hounds are closing across, and Cael moves out of it, not through it — and at ch04.md:177 return it to the burst's bill so the ledger matches the ford's form. This should cost a clause each and nothing structural: the tactic already works with the lock in it, because the six are ten strides out when it falls.",
+   "confidence": "HIGH"
+  },
+  {
+   "id": "F-B8-CH04-003",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "causality",
+   "gate": "Craft core invariant 2 (causal legibility); charter §4.7; Bible §Edge Fauna",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 85,
+    "line_end": 85,
+    "quote": "Then the pack came up out of the sink the way water comes up out of a hole, all at once and without a sound, grey and low, over the road's north edge and onto the ice, eight of them"
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 61,
+    "line_end": 61,
+    "quote": "\"They hunt discharge. A Path is a shout. A still body is nearly nothing to them and a declaration is everything, and they turn to the loudest one, all of them, at once, and they follow whoever moves first.\""
+   },
+   "consequence": "The chapter states the mechanic as a finding twelve lines before the walk-in, has the factor confirm it from three dead carters ('Carters declare, on the ice. You know that? ... that's what they come for.', ch04.md:37), builds the entire plan on it, and then spends a full paragraph proving the silence held — no boot on the ice, no loud breath, the scree ticking once under Lira and then not (ch04.md:79). Eight hounds come up anyway, into a cut containing nothing they can sense, and no one on the page registers that this should not have happened. Cael is a narrator who filed exactly this class of observation at the ford ('Item, Cael thought. Every dog turns to a declaration.'), and his silence here is the tell. The effect is that the doctrine the chapter has just taught buys the crew nothing, which undercuts both the fight's premise and Book 7's mechanic at the moment it should be paying. Cael's plan at ch04.md:57 does anticipate them coming up — 'so that when they come up they've a choice between the thing on the road that's moving and the thing on the road that isn't' — which shows the crew expects it, but no line anywhere accounts for why a discharge-hunting pack breaks on a party that has made no discharge.",
+   "repair_target": "One clause, at ch04.md:37 or ch04.md:61 or in the walk-in at ch04.md:79–83, that reconciles the two: either the factor's account extends the mechanic (a den beside a road learns to come up at whatever crosses it, and finds a declaration most of the time), or Cael marks the exception as an item he does not have a place for, which is his established behaviour with an unexplained animal fact. The fight itself needs no restaging — only the trigger needs a cause.",
+   "confidence": "MEDIUM"
+  },
+  {
+   "id": "F-B8-CH04-004",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "continuity",
+   "gate": "Authority ladder — Book 7's closed prose governs inherited fauna behaviour; craft core invariant 3",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 101,
+    "line_end": 101,
+    "quote": "They did not learn; a stillhound did not learn; it went to the loudest thing until the loudest thing stopped being loud or stopped being there"
+   },
+   "comparison_evidence": {
+    "path": "books/book-07-void-roads/chapters/chapter-03.md",
+    "line_start": 161,
+    "line_end": 161,
+    "quote": "Then they did the thing Cael had been told animals did and had never watched one do, which was learn."
+   },
+   "consequence": "The same viewpoint character, about the same species, in the fight the packet designates as this chapter's doctrine reference, makes the opposite categorical claim — and Book 7 stages it as a discovery worth a line of its own, the thing he had been told animals did and had never watched one do. A reader carrying that sentence hits a flat negative in Cael's voice a book later. The claims can be reconciled in substance (at the ford the pack learned to stop testing silent bodies and go to the noise; here it keeps going to the noise, which is the same behaviour), but the draft does not reconcile them — it asserts the general rule instead of the local one, and asserts it twice in one clause for emphasis.",
+   "repair_target": "At ch04.md:101, narrow the claim to what the beat actually shows: the pack does not stop, because nothing about the wall has stopped being loud. The paragraph's real content — that a stillhound goes to the loudest thing until it stops being loud or stops being there — is intact and is the mechanism the chapter's win depends on; only the generalisation about learning needs to go, or to be written as the ford's lesson holding rather than reversing.",
+   "confidence": "HIGH"
+  },
+  {
+   "id": "F-B8-CH04-005",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "craft",
+   "gate": "Charter §4.1 (geography drawable) / THE AUTHOR gate 9; §6.1 (a capability's stated limit governs its use)",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 105,
+    "line_end": 105,
+    "quote": "he went in now at the wall's south end where the plane met the scree, with the rock, at the hound that came round the plane's edge on the stone"
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 91,
+    "line_end": 91,
+    "quote": "eight stillhounds hit a plane of nothing at a run, on ice, and stopped as if they had hit the cut's own rock, and the two in front went down and the six behind went over them, and the plane did not give a hair. A wall. Ground that did not give."
+   },
+   "consequence": "The plane is established as spanning 'across the road, wall to wall, the width of the cut' (ch04.md:89) and as absolute — 'nothing on the road was going past it' (ch04.md:91) — and the whole tactical value of the fight's ending depends on the reader believing it. Two hounds then get past it, at ch04.md:105 and again at ch04.md:107 ('the hound that had followed Brom's round the plane's edge'), by a route the prose names but never explains: 'round the plane's edge on the stone', at the south end 'where the plane met the scree'. It is reconstructable — the plane covers the road and not the loose slope above it, so an animal willing to leave the road can round it — but the reader is asked to build that themselves against a sentence that has just told them it is impossible. In a chapter whose climax is 'the rooted thing they could not move was the thing they broke on', the wall leaking twice without comment costs the climax some of its force. The second occurrence also has a syntax problem: 'the hound that had followed Brom's round the plane's edge' asks the reader to supply an elided noun after 'Brom's'.",
+   "repair_target": "Either qualify the assertion at ch04.md:89–91 (the plane holds the road and the road's width, and the scree above it is not road), or make the two rounding hounds cost something to round it — the loose slope is already established as ground nothing can take fast (ch04.md:47), which is exactly why Brom and Lira can reach them in time. Recast the clause at ch04.md:107 so 'Brom's' is not doing possessive work across an elision.",
+   "confidence": "HIGH"
+  },
+  {
+   "id": "F-B8-CH04-006",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "pov-knowledge",
+   "gate": "Craft core invariant 1 (POV integrity — inference must read as inference); charter §6.3 / reveal discipline",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 27,
+    "line_end": 27,
+    "quote": "looking at the ground ahead as if a line were drawn on it, which, on this road, there was: somebody had drawn it four hundred years ago and somebody else had been mending it since."
+   },
+   "comparison_evidence": {
+    "path": "books/book-07-void-roads/chapters/chapter-11.md",
+    "line_start": 31,
+    "line_end": 31,
+    "quote": "That was the cruelty of the thing and its gift, and he had known both since a river"
+   },
+   "consequence": "Two problems in one clause. First, the narration states a specific age for the border road as fact, in a close third that is otherwise scrupulous about marking what Cael knows against what he is guessing — the same paragraph runs on his observation of ruts, wayposts and a cleared ditch, none of which dates anything, and no character in the book has dated this road or any road. Stated rather than inferred, it reads as the author speaking over the boy. Second, the number is the one the book's reveal turns on: the architecture's Ch15 delivery is the Architect as a designer working 'roughly four hundred years before the present' (CHAPTER_ARCHITECTURE.md:43), and Ch17's and Ch23's logs both use the phrase as the reveal's echo. Spending 'four hundred years ago' in Chapter 4, uncited, on a road, dulls the figure eleven chapters before it is earned, and invites a reader to connect the road to the apparatus, which is a connection the book has not made and does not intend here.",
+   "repair_target": "At ch04.md:27, either drop the date and keep the observation that carries the plant — the road is old, laid by people who measure, and has been maintained by somebody ever since, which is the seam the card actually asks for — or mark it as Cael's guess in his own register, in which case use a figure that is not the reveal's.",
+   "confidence": "MEDIUM"
+  },
+  {
+   "id": "F-B8-CH04-007",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "continuity",
+   "gate": "Craft core invariant 3 (continuity persistence); charter §4.3; THE AUTHOR gate 13",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 161,
+    "line_end": 161,
+    "quote": "Oryn put two fingers on the inside of his wrist, which was the one thing she did to everyone and the only thing she had ever done to him, and held them there, and took them away. \"You're spent to the floor. Not hurt. Spent.\""
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-08/drafts/ch02.md",
+    "line_start": 129,
+    "line_end": 129,
+    "quote": "Oryn said, then, to nobody, in the voice for a finding: \"That knee's carried him three hundred miles and he hasn't asked me for anything.\""
+   },
+   "consequence": "Vastin's knee is established on the landing in Ch2 as a tracked physical fact — the walk that gives it away, Pike reading it, Oryn naming it aloud as a finding — and Ch3 keeps her on it under the table ('Oryn, across from Vastin, watched the man's knee under the table', ch03.md:3384; STATE_RUNNING, After Chapter 2: 'Oryn's finding: the knee; \"I still haven't asked.\"'). In this chapter the man roots himself for the length of eight animals' worth of assault, goes down on the stone 'both knees, and then a hand' (ch04.md:137), and cannot stand at the end ('did not stand, because his legs had not agreed to it yet', ch04.md:169) — and the healer who has been counting that knee for two chapters examines him, takes his pulse, and returns a verdict of 'Not hurt' without registering it. The thread does not contradict itself; it goes silent at precisely the beat it was planted for, and the reader who has been tracking it with her notices the omission. It also weakens F-B8-CH04-001, because the knee is the obvious in-body referent that would let the closing log's 'took a wound' stand.",
+   "repair_target": "At ch04.md:159–161 or ch04.md:169, give Oryn the knee in one clause — she has been waiting to be asked since Ch2 and a man who has just knelt on stone under load is a professional's opening. This is the cheapest available fix for the log's contradiction as well: what the Archmarshal took out here, with nobody to report it to, becomes a thing with a location.",
+   "confidence": "MEDIUM"
+  },
+  {
+   "id": "F-B8-CH04-008",
+   "status": "PROPOSED",
+   "severity": "MEDIUM",
+   "category": "voice",
+   "gate": "Voice charter §9 (capped repetition, including new phrases; the cataloguing-narrator gravity wells); Shared Positive Voice — repeated sentence scaffolds",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 79,
+    "line_end": 79,
+    "quote": "He catalogued the silence because it was a thing he had learned to catalogue on the void roads and had thought he would not need on a kept one."
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 141,
+    "line_end": 141,
+    "quote": "He catalogued the costs while she worked, because the costs were the ledger and the ledger was his."
+   },
+   "consequence": "'He catalogued [X] because [Y]' runs four times in this chapter — ch04.md:23, 79, 91, 141 — and three of the four open a section, so the reader meets the same sentence shape at the top of the road, the top of the walk-in, and the top of the aftermath. The previous chapter opens on the fifth instance of the same construction ('He catalogued the room before the pack was opened, because the pack was going to change the room', ch03.md:3352) and carries a sixth. The charter's rule is ≤3 per book for any repeated beat phrase, explicitly including phrases minted to replace an older one, and the book's own drafting constraints name the cataloguing-narrator gravity wells as the thing to watch. The trait itself is load-bearing and must be preserved — it is §3.1 and the reason the voice works — but at four identical scaffolds in 4,600 words it stops reading as a habit of mind and starts reading as a section-transition device, which is exactly the 'repeated sentence scaffolds that make scenes feel generated' failure mode.",
+   "repair_target": "Keep all four acts of cataloguing and vary at least two of the four openings so the construction is not the section marker. The chapter already contains the alternatives in its own register — a count arriving before its reason (ch04.md:45), a fact numbered rather than announced (ch04.md:91 and 95 do this well) — and the fix should not remove a single itemised observation.",
+   "confidence": "HIGH"
+  },
+  {
+   "id": "F-B8-CH04-009",
+   "status": "PROPOSED",
+   "severity": "LOW",
+   "category": "obligation",
+   "gate": "Packet obligations.must_include item 5 — the win-sentence in the log or the body, in the series' form",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 125,
+    "line_end": 125,
+    "quote": "The rooted thing they could not move was the thing they broke on."
+   },
+   "comparison_evidence": {
+    "path": "books/book-07-void-roads/chapters/chapter-03.md",
+    "line_start": 251,
+    "line_end": 251,
+    "quote": "*One sentence: we took away the pack's first mover by being it, and Seln took the dog.*"
+   },
+   "consequence": "The packet requires the win-sentence on the page in the series' removal form — 'Cael removed the pack's ability to converge on Vastin by becoming the louder target and turning the break back into the wall'. What is on the page is the card's trailing image clause, delivered near-verbatim and delivered well, but not the removal clause; and the log, which is where Book 7's ford fight put the sentence and labelled it ('One sentence:'), carries none, because the card's fixed text has no room for one. The charter gate itself passes — the win is causally legible and the editor can write the sentence — so the reader consequence is small: what is lost is the series' own habit of stating, once, in the ledger voice, what was taken away from whom. Three fights in a row have done it; this one does not.",
+   "repair_target": "The fixed log text is closed, so the sentence belongs in the body, at or just after ch04.md:125, in the removal form and in one line — what the pack could no longer do, and by what act it stopped being able to do it. Do not restate the mechanism, which is already fully rendered at ch04.md:119–123.",
+   "confidence": "MEDIUM"
+  },
+  {
+   "id": "F-B8-CH04-010",
+   "status": "PROPOSED",
+   "severity": "LOW",
+   "category": "obligation",
+   "gate": "Packet obligations.must_include item 6 — Vastin's lesson, one sentence, said once (charter §4.5)",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 113,
+    "line_end": 113,
+    "quote": "*Out here the wall holds the line, and someone else has to be the reason the enemy wants the line.* He did not have the sentence yet. He had the shape of it."
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 165,
+    "line_end": 165,
+    "quote": "\"The wall held the line,\" he said. Not to Oryn. To the road. \"And someone else had to be the reason they wanted the line.\""
+   },
+   "consequence": "The card specifies the lesson said once, and the chapter prints it twice: once in full in Cael's head fifty lines before Vastin can have it, and once in Vastin's mouth where it belongs. The disclaimer attached to the first — 'He did not have the sentence yet. He had the shape of it.' — asks the reader to un-read a sentence they have just read, which is also a small breach of viewpoint discipline: if the character does not have the words, the narration should not supply them in full. The cost is to the second instance, which should be the moment a man who has commanded fields for forty years finds the sentence for what just happened to him, and which arrives as a repetition. Cael's paragraph does not need the sentence to do its work; the two clauses after it ('a rooted man who could not chase and a pack that would go at him until he fell') already carry the shape.",
+   "repair_target": "At ch04.md:113, cut the italic sentence and keep the shape — the rooted man, the pack, the road, and the ford's lesson — so that ch04.md:165 is the sentence's only appearance and lands as Vastin's own arithmetic.",
+   "confidence": "MEDIUM"
+  },
+  {
+   "id": "F-B8-CH04-011",
+   "status": "PROPOSED",
+   "severity": "LOW",
+   "category": "continuity",
+   "gate": "Charter §3.1 — the cataloguing narrator counts, and his counts are checkable against his own page",
+   "draft_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 19,
+    "line_end": 19,
+    "quote": "the man in the brown coat had watched the six of them read a slip and take it in four words"
+   },
+   "comparison_evidence": {
+    "path": "v3-runs/book-08/drafts/ch04.md",
+    "line_start": 9,
+    "line_end": 9,
+    "quote": "\"It's a road.\" Brom was still looking at the price. \"It's the road.\""
+   },
+   "consequence": "The decision runs to ten spoken words across ch04.md:7–15 — 'Border road' (two), 'It's a road. It's the road.' (six), and 'Ours' twice (two). The narrator who opens Book 8 by counting a room before it changes, and who counts strides, hounds, marks and days accurately everywhere else in this chapter, is off by six on a number he states. It is a small thing and most readers will take 'four words' as a figure of speech, but this narrator's counts are the series' proof of his competence, and a reader who checks — which this book trains readers to do — finds the page disagreeing with him. If the intent is that only the taking counted and not the pricing, the sentence does not say so.",
+   "repair_target": "At ch04.md:19, either make the count right against the page or scope it to what Vastin actually watched being decided — the two 'Ours' — so the number is checkable. Do not remove the observation: Vastin measuring the crew by how few words a decision costs them is the beat.",
+   "confidence": "HIGH"
+  }
+ ],
+ "concerns": [
+  "'The loudest thing' runs nine times in the roughly forty lines of the fight (ch04.md:85, 87, 95 twice, 101 twice, 117, 123 twice), on top of five instances of the same phrase in the Thornwater ford chapter. It is world-mechanic vocabulary rather than a somatic tic, so the charter's ≤3 cap does not strictly govern it, and the repetition is doing real work — the phrase is the pack's whole decision procedure and the chapter's win turns on which thing owns it at a given instant. Recorded rather than raised because the density is highest exactly where the mechanism is being taught (95, 101) and again where it is being spent (123), which is defensible design; but at nine it is close to becoming the series' next watermark, and the book-level count should be watched from here.",
+  "Brom's ledgered injury never appears in an exchange. The tooth through the boot is first seen in the aftermath, with a retroactive causal note attached — 'not deep — the hound had been dying when it bit' (ch04.md:143). The moment it must have happened is placeable (the hound Brom puts the rock into at the wall's south end, ch04.md:105) and the series has precedent for a wound discovered late in a POV who did not feel it (chapter-03.md, the calf), so no contract is violated and §4.3 is satisfied by the ledger. But this is the only human wound the fight produces, and rendering it nowhere leaves the four exchanges changing position, information and resource without ever changing a body — which is a thinner fight than the beat-by-beat structure suggests.",
+  "The clearance pays twenty (ch04.md:5) where Book 7's Thornwater ford — a comparable pack, priced by Pike for four people who had done a ford — paid forty (chapter-03.md). Brom reads the price twice (ch04.md:5) and the narration attaches no judgement to the second reading, so a reader who remembers the ford is left to decide whether the difference is a hold that pays badly, a crew that is now six and cheaper per head, or an oversight. The card's own logic for taking the job — it pays, and the road has to be walked anyway — would land harder if the price were visibly poor and taken anyway.",
+  "Forward continuity, for the state ledger rather than for repair: the crew is two days west of Lowmarch at the chapter's close (ch04.md:3, 175) on a road the chapter itself calls 'three days to the Line and the city on it' (ch04.md:11), which leaves roughly one day to Treswick. The Ch5 card closes on Karis saying 'A day and a half.' The half-day is recoverable — the fight happens partway through the second day, and Ch5's halt costs time — but it should be settled deliberately in Ch5 rather than absorbed, and the running state should carry the distance remaining, not just the day count.",
+  "Five one-line paragraphs land inside the fight and its approach (ch04.md:83, 103, 115, 121, 151). Only one is a single word, so the charter's cap of two is not touched, and each of the five is placed at a genuine hinge. Recorded because the shared-voice floor warns against manufacturing intensity with repeated one-line paragraphs, and five in a chapter is the highest density in Book 8 so far; if Ch12 uses the same rhythm at the same rate, the move stops being a hinge and becomes the register.",
+  "Vastin agrees to an instruction he then breaks. Cael places him and says 'And still.' and Vastin answers 'I can be still. It's the one thing I've been trained to.' (ch04.md:69–71); the first thing he does under contact is declare. Nobody says so afterward — Oryn gives him a professional prohibition and Cael gives him a use, and the broken instruction is left on the floor. This is very likely deliberate and it is the better choice, because the crew does not run on rebuke; flagged only so the human read confirms it, since a reader may expect Cael, who set the position, to register that the man did the opposite of what he was placed to do."
+ ],
+ "strengths": [
+  "The ending does exactly what the arch review's M03 revision asked for and does it as physics rather than as an announcement. The wall is established as the loudest thing in the cut (ch04.md:87), the mechanism that will decide the fight is stated before it is used ('it went to the loudest thing until the loudest thing stopped being loud or stopped being there', ch04.md:101), Cael becomes louder and then subtracts himself (ch04.md:117–119), the ice carries six animals past a shout that has stopped, and they turn back to the only loud thing left. 'Because the wall was still the loudest thing in the cut. It had never stopped being.' (ch04.md:123). The pack is broken by a plane, in a heap, before Seln is anywhere in the frame (ch04.md:127–129) — and Book 7's 'Seln took the dog' is not merely avoided but structurally displaced, because the man who took the dog is now the fourth thing to arrive. Do not let a compression pass shorten 119–127; the beat needs all four of its stages.",
+  "Iron Wall is taught as a limit wearing a victory. The chapter gives the reader the Path's power first, in one hard fact ('eight stillhounds hit a plane of nothing at a run, on ice, and stopped as if they had hit the cut's own rock ... and the plane did not give a hair', ch04.md:91), and then the bill in the next breath, numbered as the second fact ('And the man who had drawn it could not move.', ch04.md:93). The distinction from Brom is drawn in one clause a reader will keep — 'Brom was a man made harder; this was a *line*, drawn across a road' (ch04.md:91) — which is also the audio-safe separation the registry asked for. This is a clean plant for Ch12 and it costs the chapter nothing to carry.",
+  "The crew's competence is shown as memory rather than as skill. Brom's silence is explicitly the ford's lesson still held ('He had learned that at a ford in the autumn — that Iron Skin was a shout, that every head turned when he went hard — and had never once forgotten it', ch04.md:105); Lira's two arms are demonstrated and never announced, and the announcement is left to her own hand afterward ('opening and closing the left hand and looking at it, and she caught him looking, and stopped', ch04.md:145); Oryn's position is taken before the fight and read by Cael as a professional's arithmetic ('Cael saw her arrive at the place where the casualties would be', ch04.md:73), and paid without a line of explanation when she is already moving as the wall comes off (ch04.md:137). Four characters carry four books of accumulated behaviour in about fifteen lines.",
+  "The decision west is made without the word and the chapter knows exactly why. 'Nobody at the plank had said *Treswick* aloud since a page had been set on a table's bare end, and nobody was going to say it now, because saying it was a decision and taking a slip was a job.' (ch04.md:11). Karis takes it one beat ahead of the man whose job it is to price things, and Brom's agreement is the price said out loud (ch04.md:13–15). This is the series' method — a choice enacted through procedure — and it converts a planning-document beat into character.",
+  "Pike's sixth line is the best piece of institutional writing in the chapter: 'because the board wrote what it saw and Pike had seen a healer's roll come through his door on the two hundred and sixty-eighth day and had not seen it go, he wrote a sixth line under the five, shorter, and did not write a seventh.' (ch04.md:15). Book 7's 'Six, by letter' becomes ink; Oryn's standing as a stop on her own route is preserved in the shape of the entry rather than in a sentence about it; and Vastin's exclusion is delivered by the same stroke of the pen that includes her. Three continuity obligations paid by one clerk not writing something.",
+  "Vastin's setup and payoff are held forty lines apart and neither is underlined. 'I can be still. It's the one thing I've been trained to.' (ch04.md:71) against a man who becomes, on contact, the noisiest object in the defile and cannot leave it. The closing exchange keeps the same restraint — 'I have never once in forty years needed someone else to be the reason.' / 'You do now.' / 'Yes.' (ch04.md:165–169) — and Oryn's prohibition is delivered as a clinician's rule with a location in it ('In a field, whatever you like. Here, a wall with nothing behind it is a man alone in a road being loud.', ch04.md:161). The chapter earns the fixed log's 'He looked almost free. Almost.' without ever reaching for it.",
+  "Every number in the chapter reconciles, which in this series is craft and not bookkeeping. Eight up from the sink, two killed in the adaptation beat, six at the plane through two more impacts, five confirmed and three back into the hole; the log's 'Five. Three into the sink.' (ch04.md:175); Seln's independent count of the three (ch04.md:147); and the cash carried straight from the running state, 118 plus the hold's twenty, logged as 'A hundred and thirty-eight in hand. Nothing owed.' A reader keeping the sheet the charter says they should be able to keep will find it balances."
+ ]
+}

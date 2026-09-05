@@ -1,0 +1,117 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch02-verifier-r1",
+  "scene_id": "b8-ch02",
+  "editor_run_id": "b8-ch02-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH02-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "'since Ostrand' — dated by the place, not the volume."
+    },
+    {
+      "finding_id": "F-B8-CH02-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "The tableau counts the room, not the chairs; Vastin 'sat at the table's end'; the seating order at :123 untouched."
+    },
+    {
+      "finding_id": "F-B8-CH02-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "'a borrowed office in Ostrand, four streets back from the registry seat, a room with nothing of anyone's in it' (B6 Ch17)."
+    },
+    {
+      "finding_id": "F-B8-CH02-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "'a hall at sixteen … a table at seventeen … a borrowed room at eighteen'; Lira's 'a hall at sixteen'."
+    },
+    {
+      "finding_id": "F-B8-CH02-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "'Fifty-three, or near it, and the winter and three hundred miles had put more on him than the two years since a room in Ostrand had.'"
+    },
+    {
+      "finding_id": "F-B8-CH02-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "'the seventh chair' cut; the mule's chair stays as the joke; Vastin's chair unspecified."
+    },
+    {
+      "finding_id": "F-B8-CH02-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "The three minted sentences cut; the speech ends on 'nobody files a complaint about a wall'."
+    },
+    {
+      "finding_id": "F-B8-CH02-008",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "'That's not news, Vastin' — the name he offered."
+    },
+    {
+      "finding_id": "F-B8-CH02-009",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "':119' simile recast with 'as' (the way X count now 3)."
+    },
+    {
+      "finding_id": "F-B8-CH02-010",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "':27' → 'for the crew'."
+    },
+    {
+      "finding_id": "F-B8-CH02-011",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "'the whole of Brom's price'; 'Karis did not vote' cut."
+    },
+    {
+      "finding_id": "F-B8-CH02-012",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch02-r1.md at the quoted span; diff r1→r2 confirms each replacement landed",
+        "B6 Ch14/Ch17; B4 Ch17"
+      ],
+      "reason": "Pike: 'Meadow's free till the tents fill'; 'a mark a night in the season'."
+    }
+  ]
+}

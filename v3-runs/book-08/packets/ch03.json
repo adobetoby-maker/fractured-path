@@ -1,0 +1,185 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch03",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 3 card — Six Years; Chapter 4 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1' and 'After Chapter 2' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen. Day 277 (the ferry) at Ch2's close; this chapter is the same evening or the next day — state it. Six at Lowmarch plus Vastin at the lower inn paying his own way; heard, not admitted; his pack unopened at Ch2's close.",
+      "What Cael knows from Ch2: Vastin is out (resigned or walked); a name (a citation to a designer no living official could identify) whose trail dead-ends at Treswick's pre-Compact archive; the sub-layer is one no living official CAN reach (Karis supplied its existence; Vastin the inaccessibility); nothing follows Vastin; the restriction stops at the river.",
+      "The Quieting as the crew knows it (B7): four sites on one line; 200 m radius at three, 400 at the fourth; the sharp line; identical Arbiter failure; fused floors; carvings (52 sheets); the Compact surveyed it (the kit, stakes, the cordon); 'Someone made this pattern' asked once, unanswered. The crew does NOT know the Compact has records going back six years, or that it suppressed them.",
+      "Cael Kindled [SHATTERED] about six years ago (Book 1; he was fourteen; the Arbiter system threw a flag nobody in the Compact could interpret — the Level 4 watch, B2). Cael does NOT connect the six-year log to himself on the page; he notes the number and notes Seln's silence. Seln, who spent fifteen years inside, does the arithmetic and does not say it. No one says 'Cael' and 'six years' in one sentence.",
+      "'The Architect': in Ch3 the copied citation names the designer by the record's own word for him — a TITLE, not a name: 'the Architect'. This is the first time the word is on any page of the series. Cael hears it as a word in a Compact record. NOBODY theorizes who or what; nobody links it to the Quieting's cause, the still place, or the sites' maker; Karis says only that it is a word she has never read in any stratum. The Architect is established as HISTORICAL (a designer of the classification apparatus, centuries ago) ONLY to the extent the citation says — 'designed and deployed' language belongs to Ch15's primary source; here the citation is a reference, a place, and a title.",
+      "SEALED: nothing about the Architect being alive, active, a will, a reset, hunting anyone; nothing about the Fractured Path predating the system (Ch15); nothing about Arbiters as infrastructure. [UNBOUND] is NOT used. 'primordial', 'before the Paths' as a phrase: not used.",
+      "Vastin's Path (Iron Wall) is not shown or named (Ch4). He does not ask to join; no vote.",
+      "Cash a hundred and eighteen; Lira two-armed; Brom's shoulder bound and unread; Oryn present (Lowmarch is her spring's first stop; Millrace next; she has said nothing about west); the crossbow on the inn wall; Teague's crew at the upper inn.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; 'the academy above Ostrand' if the academy is needed. No modern idiom; no meta-voice."
+    ]
+  },
+  "purpose": "The handover, as three physical objects with weight: the Compact's complete Quieting records, suppressed for six years; the copied citation to a designer — the record's word for whom is 'the Architect', a title and not a name; and, in the suppressed records, a deep-layer log showing that something in the Arbiter protocol's sub-layer initiated roughly six years ago and has run as an unreadable sequence since, correlated with a redacted classification event. Vastin cannot connect it to anyone; Seln does the arithmetic in silence and the book lets his silence be the plant. Vastin's want: he sets the problem down and has nothing to do with it; Karis owns the response and he watches her. Close on the image of the open case, the one page set apart, Cael's hand not touching it, and the two roads outside the window.",
+  "scene_shape": {
+    "opening_state": "The evening of the ferry (or the next), the inn's back room, the long table cleared, the lamp lit, the door shut — the six of them and the man with the pack, which is on the table now and still shut. Vastin opens it in the order he has decided on, because a man who has filed things for forty years hands them over in an order, and the order is the last authority he has.",
+    "pov_goal": "Cael wants to see what the Compact has been holding — and to watch the six of them receive it — without touching any of it, because a thing the Compact wrote about him is a thing he has spent five years staying away from.",
+    "opposition": "The objects themselves — a case of six years' files nobody at the table has time to read, a single copied page with a word on it, a log entry with a number in it; Karis's hunger, which is faster than the handover; Seln's silence; Vastin's own vertigo at having nothing to do next; the two roads outside the window.",
+    "turn": "The third object — the deep-layer log entry in the suppressed records: something in the sub-layer INITIATED roughly six years ago and has been running as a sequence no technician can read or halt, correlated in the file with a classification event the record redacts and no official will name. Vastin says he could not get past the redaction and does not know what the event was. Seln, at the door end, goes still in the particular way, and says nothing, and Cael sees him not say it, and does not know what it is Seln is not saying, and writes down that he saw it.",
+    "choice": "Cael does not touch the citation page. It lies apart from the case, a title and a place and nothing else, and his hand is near it and not on it, because a man who has been filed knows the weight of a page, and because Karis has already put her hand flat on the sheet beside it and the response is hers.",
+    "outcome": "Karis owns the response — the records opened 'the way a starving person opens bread', sorted by site and year on the table in the order she has them, the citation set apart, the log entry copied into her notebook with the number; Vastin watching her do the thing he used to do; Oryn watching Vastin's knee under the table; Lira watching Cael's hand. Nobody decides west aloud, and everyone at the table knows the maintained road runs that way.",
+    "closing_state": "IMAGE — the card's close: the case of records open on the inn table by lamplight, six years of a continent's hidden weather in it, the one page set slightly apart — the citation, a title and a place and nothing else — and Cael's hand not quite touching it; and outside the window the void roads under their last frost running east into the dark toward the sites, and the one maintained road running west, toward Treswick and the archive. The file ends on the image, not on a log entry."
+  },
+  "obligations": {
+    "must_include": [
+      "The three objects handed over as physical things with weight, in Vastin's order: (1) a case of the Compact's Quieting records — six years of them — suppressed; (2) a single copied page: the citation to the designer, the record's word for him 'the Architect', and a place (Treswick's pre-Compact archive) and nothing else; (3) within the records, the deep-layer log entry: something in the sub-layer initiated roughly six years ago, running since as an unreadable sequence, correlated with a REDACTED classification event.",
+      "The Compact measured, mapped and hid the phenomenon: the records show surveys, radii, stakes, sites the crew never found (in summary, by Karis, as she sorts — no new site named or placed; 'more than four' is enough), and the identical Arbiter failure logged at every one — Karis enters that as an observation she still cannot file (Book 9 plant c, carried).",
+      "Karis opens the records 'the way a starving person opens bread' — staged as her method: sorted by site and year on the table, the citation set apart, the log entry copied with its number.",
+      "Vastin cannot connect the six-year log to anyone (the redaction beat him); SELN does the arithmetic in silence — staged as Cael seeing Seln go still and say nothing, and writing that down without knowing what it was. Nobody says the connection.",
+      "Vastin's want (charter §7.4): the vertigo of a man who has brought a problem to a table and has nothing to DO with it — no team, no warrant, no next order; Karis owns the response now; he watches her.",
+      "Cael's hand near the citation page and not on it — the choice stated in the body, not the log.",
+      "The word 'Architect' appears as the record's word: Karis reads it aloud once and says it is a word she has never read in any stratum; no one theorizes past the page.",
+      "The two roads outside the window in the closing image: void roads east under last frost, the maintained road west.",
+      "Close on the IMAGE (the card's) — the file ends on the last line of prose, no log entry."
+    ],
+    "plants": [
+      "Book-11 plant 2 (the six-year sequence) ORIGINATES here — deniable; the reader can date it; nobody on the page does.",
+      "Book-9 plant (a) extended: the sub-layer's inaccessibility as a constructed layer (Vastin's phrasing from Ch2 carried: 'there is no key').",
+      "Book-9 plant (c): the identical Arbiter failure logged by the Compact at every site, unexplained in their own records.",
+      "The citation's dead-end at Treswick — converging with Karis's west; still unsaid as a decision.",
+      "Teague not present; Pike not present; the room shut."
+    ],
+    "payoffs": [
+      "Book 7's 'the Compact already knows' — paid in paper: they knew for six years and hid it.",
+      "'Someone made this pattern' (B7 Ch24) — NOT answered; the citation is a title, not an answer, and the chapter refuses to make it one."
+    ],
+    "prohibited_outcomes": [
+      "No 'designed and deployed' language; no statement that the Architect built the Arbiter system or the sites; no 'four hundred years' (Ch15); no [UNBOUND]; no 'primordial'; no 'before the Paths' as a phrase.",
+      "No one connects the six-year log to Cael aloud or in the log; Cael does not do the arithmetic on the page.",
+      "No decision to go west stated; no vote on Vastin; no Iron Wall shown or named.",
+      "No new site named or located from the records; no first-tier site produced.",
+      "No fight, no injury, no fragment use, no reading.",
+      "No log-entry closer (Ch1 closed on the log); no dialogue closer (Ch2); the closer is the image.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; no capped phrases; no meta-voice."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The case itself (road-made or Compact-made; how he carried it out); the files' physical form (survey sheets, radii in surveyors' hands, stake-lists, the registry's stamps); the copied citation page in Vastin's own hand; the log entry's form (a technician's line, a redaction's black bar described so it lands read aloud).",
+      "The inn's back room by lamplight; the window; the last frost."
+    ],
+    "approval_required": [
+      "Any new named person, place, or Compact office.",
+      "Any site the records name beyond 'more than four' in summary."
+    ],
+    "forbidden": [
+      "Any explanation of the Quieting's cause; any theory of the designer's identity, nature, or intent.",
+      "Any mechanic of the sub-layer beyond 'no key', 'initiated', 'running', 'redacted'."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 2 (No Sanction)",
+      "path": "v3-runs/book-08/drafts/ch02.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 1 (Winter's End) — the winter frame; the kit; the anomaly",
+      "path": "v3-runs/book-08/drafts/ch01.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 15 — Karis names the sub-layer aloud; the strata finding; [UNBOUND]'s single use",
+      "path": "books/book-07-void-roads/chapters/chapter-15.md",
+      "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 20 — the kit recovered; the Compact's radius line; the index",
+      "path": "books/book-07-void-roads/chapters/chapter-20.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 4 card — The Border Road (combat; Iron Wall first shown) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch03.md",
+    "report_path": "v3-runs/book-08/reports/ch03-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch03-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch03-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

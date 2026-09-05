@@ -1,0 +1,109 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch01-verifier-r1",
+  "scene_id": "b8-ch01",
+  "editor_run_id": "b8-ch01-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH01-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "Brom's shoulder now looked at by Oryn 'across the inn's table that night' — she and Brom were never in one yard at Thornwater."
+    },
+    {
+      "finding_id": "F-B8-CH01-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "'four a month for the five of us, twenty for the five months' (and Pike's line 'four a month'); totals unchanged."
+    },
+    {
+      "finding_id": "F-B8-CH01-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "'The pacing cord, knotted at the fives, twenty strides to a cord'."
+    },
+    {
+      "finding_id": "F-B8-CH01-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "The ledger entry now 'says what the Stair is — a designation, in an index … — and under it the line that stops: third site confirmed on bearing.'"
+    },
+    {
+      "finding_id": "F-B8-CH01-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "'the inn's six … came out of the hundred and two before the snow, and is not coming out again' — the six predates the ninety-six (B7 Ch24: 'Ninety-six in hand; six to the inn')."
+    },
+    {
+      "finding_id": "F-B8-CH01-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "Teague's term added to the 133rd-day entry: 'spring, whatever's on that bearing, his crew comes … Pike wrote Noted'."
+    },
+    {
+      "finding_id": "F-B8-CH01-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "LOW — actioned where cheap: 'the way X' trimmed to 3; 'nineteen' reduced to two occurrences (the inventory and the fixed closing log); Hesk's 'true to a hair' recalled at the straightedge beat. 'The Deepstacks' stands: architecture-approved NEW-CANON, first named by Karis (the packet's 'no new names' governs inventions, not planning-approved canon)."
+    },
+    {
+      "finding_id": "F-B8-CH01-008",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "LOW — actioned where cheap: 'the way X' trimmed to 3; 'nineteen' reduced to two occurrences (the inventory and the fixed closing log); Hesk's 'true to a hair' recalled at the straightedge beat. 'The Deepstacks' stands: architecture-approved NEW-CANON, first named by Karis (the packet's 'no new names' governs inventions, not planning-approved canon)."
+    },
+    {
+      "finding_id": "F-B8-CH01-009",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "LOW — actioned where cheap: 'the way X' trimmed to 3; 'nineteen' reduced to two occurrences (the inventory and the fixed closing log); Hesk's 'true to a hair' recalled at the straightedge beat. 'The Deepstacks' stands: architecture-approved NEW-CANON, first named by Karis (the packet's 'no new names' governs inventions, not planning-approved canon)."
+    },
+    {
+      "finding_id": "F-B8-CH01-010",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch01-r1.md at the quoted span",
+        "B7 Ch20 (cord knotted at the fives; the index entry names the second site; 'third site confirmed on bearing' the unfinished last line)",
+        "B7 Ch24 (ninety-six after the inn's six; Teague's term)"
+      ],
+      "reason": "LOW — actioned where cheap: 'the way X' trimmed to 3; 'nineteen' reduced to two occurrences (the inventory and the fixed closing log); Hesk's 'true to a hair' recalled at the straightedge beat. 'The Deepstacks' stands: architecture-approved NEW-CANON, first named by Karis (the packet's 'no new names' governs inventions, not planning-approved canon)."
+    }
+  ]
+}

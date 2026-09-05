@@ -1,0 +1,434 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch02-r1-editor",
+  "scene_id": "b8-ch02",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Authority — canon vs the drafted prose of Books 4-6 (craft core: authority ladder; charter §1)",
+      "state": "FAIL",
+      "evidence": "Three spans conflict with frozen prose. (a) ch02.md:143 puts Book 6's keystone sentence at 'a table in a residence room on a bluff above Ostrand'; book-06/chapter-17.md:41 places that meeting at 'Neutral ground in Ostrand: a records administrator's office on the third floor of a leasehold building four streets back from the registry seat' — a room chosen by Seln precisely because it held no version of any of them. (b) ch02.md:7 lists Cael's prior encounters with Vastin as 'a hall at fifteen, and at a table at seventeen, and at the top of a bluff at eighteen'; Vastin first appears to Cael in Book 4 after the sixteenth birthday (book-04/chapter-14.md:269, 'He was sixteen'; Vastin enters at chapter-17.md:147), the table at seventeen is correct (book-05/chapter-23.md:45), and there is no bluff encounter at eighteen — Vastin's only in-person Book 6 scene is chapter-17 (Cael eighteen since chapter-14.md:119) and his last Book 6 appearance is at his own desk (chapter-22.md:93). (c) ch02.md:23 estimates 'Fifty-six, or near it' against Cael's own 'He's fifty-one years old' at book-06/chapter-17.md:11, roughly two years earlier. Findings 003, 004, 005."
+    },
+    {
+      "gate": "Authority — packet prohibited_outcomes (no vote; no request to join; no hint of Book 9's 3-2)",
+      "state": "FAIL",
+      "evidence": "No vote is taken, no request to travel is made, and the pack stays shut ('He did not open the pack.', ch02.md:99) — those hold. Two vocabulary spans do not: ch02.md:79 names 'the seventh chair' at the table Vastin is then seated at (ch02.md:93, 'the chair that had nothing in front of it'), which is the architecture's own phrase for what Book 9 opens ('no seventh chair opens this book'); and ch02.md:101/103 run the decision on voting vocabulary ('that was Brom's whole vote'; 'Karis did not vote'). Findings 006, 011."
+    },
+    {
+      "gate": "Authority — invention budget (allowed / approval_required / forbidden)",
+      "state": "FAIL",
+      "evidence": "The allowed list is used well and stays inside itself: the ferry's landing, the ferryman and his boy, hides and mail, the meadow's tents, Vastin's pack-stick-boots kit, the broker referred to and unnamed, Pike's one exchange at the plank, the inn's long room with strangers in it. One span exceeds it: ch02.md:109 mints a Compact record that has never been on the page — 'I found the record of the last man who tried … and the Compact filed him' — against forbidden 'Any Compact document, office, or official not already on the page in Books 4-7', and the author report declares it neither as an invention nor as a state change. Finding 007."
+    },
+    {
+      "gate": "Authority — SECRET discipline and the reveal schedule (CANON_RULES §Reveal Schedule; architecture §SECRET discipline)",
+      "state": "PASS",
+      "evidence": "'Architect' does not appear (grep, 0 hits); the citation is staged as 'a designer, a single individual, that the record does not identify and the Compact has never identified' (ch02.md:113). 'six years' does not appear (grep, 0 hits) — the six-year sub-layer log is held for Ch3. '[UNBOUND]', 'primordial' and 'reset' do not appear. The sub-layer is presented only as existing, old, and administratively unreachable (ch02.md:105, 109); nothing connects it to the sigils people carry, nothing says anything is active, and no Arbiter speaks. The Quieting is not theorised. Book 9's admission is not staged (see the prohibited_outcomes gate for the two vocabulary spans that graze it)."
+    },
+    {
+      "gate": "Continuity persistence — calendar and elapsed intervals (state-b8-pre-ch01; STATE_RUNNING 'After Chapter 1')",
+      "state": "PASS",
+      "evidence": "'the two hundred and seventy-seventh day past the Line' (ch02.md:3) sits inside the packet's 275th-278th window and seven days past Ch1's closing log ('Two hundred and seventieth day … Ice goes next week', ch01.md, closing log), consistent with Ch1's 264th entry where the ferryman 'says a week, and has said a week for a week'. Lira's 'eleven days' of two arms (ch02.md:73) reconciles exactly: released at Thornwater on the 266th (STATE_RUNNING), 277 - 266 = 11. Pike's board carries 'Fourteen slips' (ch02.md:43, 55) against Ch1's 'fourteen slips where there had been eleven'. Teague's crew is at the upper inn (ch02.md:55, 59), its spring term standing."
+    },
+    {
+      "gate": "Continuity persistence — Lowmarch prices and the board's own arithmetic (charter §3.7)",
+      "state": "FAIL",
+      "evidence": "ch02.md:55 gives 'Meadow's free' and 'the lower's a mark a night for a man alone' seven days after ch01.md:13 gives 'The upper inn wants a mark a head a week and the lower inn wants the same' and Pike's 'Meadow rate is four a month for a crew that's on my sheet'. The meadow is priced in one chapter and free in the next, and the lower inn's list rate for one man moves from a mark a week to a mark a night with nothing on the page pricing the change. Finding 012. (Noted separately: STATE_RUNNING records the winter board as 'four a week' where ch01.md:13 says 'four a month' — a ledger-to-prose mismatch outside this chapter.)"
+    },
+    {
+      "gate": "Continuity persistence — positions, counts and the seating of the long-table scene (craft core: causal legibility; charter §4.1's drawability standard applied to a static scene)",
+      "state": "FAIL",
+      "evidence": "ch02.md:79 opens the movement on 'Six of them and the mule's empty chair' at the table; ch02.md:81, the next paragraph, has 'Seln was in the doorway', and he does not sit until ch02.md:91. Vastin sits at ch02.md:93 with Oryn already 'across from him', and ch02.md:123 then says Lira 'had sat down last — after Seln, after Oryn, after Brom, who had sat when Vastin sat'. The opening count is contradicted twice inside the same scene, and the contradiction lands on the chapter's own seating obligation. Finding 002."
+    },
+    {
+      "gate": "Continuity persistence — objects, cash and possessions carried from Ch1",
+      "state": "PASS",
+      "evidence": "Nothing in the chapter spends, moves or contradicts a carried object. The map is where Ch1 left it and is named as still held ('she did not look at the map, which was in her coat', ch02.md:115); Karis has the notebook and pencil (ch02.md:111, 147); the case is not opened. Cash is untouched — the only money on the page is Vastin's own 'a copper and a half' (ch02.md:57), which does not enter the crew's ledger. The crossbow on the inn wall and the hundred and eighteen in hand are not referenced, which is permitted; neither is contradicted."
+    },
+    {
+      "gate": "Point-of-view integrity and the packet knowledge_boundary (craft core: reader-trust invariant 1)",
+      "state": "PASS",
+      "evidence": "Everything rendered is Cael's to perceive or infer, and the inferences read as inferences: 'Fifty-six, or near it' is hedged, 'Cael knew the stance before he knew the face' is a read, 'Cael saw him count, and saw him arrive at the number' is observation. Vastin's status is left exactly where the packet puts it — 'I resigned, or I walked out, and I have spent a winter deciding which and have decided that the distinction is one only the Compact would care about' (ch02.md:95) — so Cael never learns which, and the chapter lets it not matter. No fragment is used; nobody reads Vastin; Oryn's 'Then I still haven't asked' (ch02.md:133) pays the standing rule from the person who wrote it. (Concern recorded on the sourcing of Vastin's knowledge of the Stair, ch02.md:139.)"
+    },
+    {
+      "gate": "Assigned obligations — must_include, all ten items",
+      "state": "PASS",
+      "evidence": "1 ferry as scene, dated, Line's lead, mail in, sack west same day: ch02.md:3, 27, 43, 155. 2 arrival catalogued as what he IS: ch02.md:23, 25 ('No grey. No seal. No clerk behind him with a book.'). 3 the board prices him at nothing aloud and he stands for it: ch02.md:51-57. 4 Seln's doorway exchange: ch02.md:83-89. 5 why he came, pack unopened, no records, no Architect, no six years: ch02.md:95-113. 6 Karis hears the layer as hers: ch02.md:107. 7 Vastin's want in a beat about him: ch02.md:117-119. 8 Lira last to sit and sits: ch02.md:73, 123 (delivered; see finding 002 and the concern on its staging). 9 Oryn's finding, no touch, no vote: ch02.md:93, 127-135. 10 fixed close, 'Nobody answers' as narration, ferry last: ch02.md:149-155."
+    },
+    {
+      "gate": "Assigned obligations — the three fixed-line blocks, verbatim and contiguous",
+      "state": "PASS",
+      "evidence": "Seln's four lines are the card's words in the card's order, in four consecutive paragraphs with no narration between them (ch02.md:83, 85, 87, 89), the last carrying a bare 'Vastin said'. Karis's plain question is the card's paraphrase licence used exactly (ch02.md:149). Vastin's closing speech is verbatim through both halves (ch02.md:151), with the card's own 'A pause' rendered as two clauses of narration between them. 'Nobody answered him.' stands alone as narration (ch02.md:153) and the ferry is the last line of prose (ch02.md:155), with no metadata after it."
+    },
+    {
+      "gate": "Assigned obligations — plants (four), planted only",
+      "state": "PASS",
+      "evidence": "'A name. And a locked layer.' (ch02.md:99) planted and not paid. Treswick named by Vastin as where the trail dead-ends (ch02.md:113) and converged with Karis's west without either of them saying so — 'she did not say west, and the whole table heard her not say it' (ch02.md:115). The knee is one physical detail, taken twice as a body and never as a Path (ch02.md:23, 127). The asset-restriction is given when the crew asks what follows him (ch02.md:139), pending and stopping at a river."
+    },
+    {
+      "gate": "Assigned obligations — payoffs (two)",
+      "state": "PASS",
+      "evidence": "Book 6's sentence is carried and not repeated as dialogue: it appears once, in italic memory, inside Cael's recall (ch02.md:143), with 'And then nothing. No alliance, no files, no hand across the table' after it — which is the Book 6 constraint restated correctly. Book 7's freedom is tested and proved by the board's indifference: 'Then he's nothing yet' (ch02.md:55) prices an Archmarshal by the same rule that priced the crew."
+    },
+    {
+      "gate": "Consequential scene — state change and the scene's turn (craft core: reader-trust invariant 5)",
+      "state": "PASS",
+      "evidence": "Knowledge changes (a name, a locked layer, the layer's inaccessibility, Treswick), relationship changes (a man heard and not admitted, a chair nobody offered and nobody took away), and the crew's standing question changes shape — Karis's west, unanswered since Ch1, acquires a second reason she refuses to say aloud. The turn is Seln's doorway exchange and it is placed where the packet puts it, before Vastin sits."
+    },
+    {
+      "gate": "Progression module — editor gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, no integration, no fragment notice, no training, no setback. Gate 5 (rivals and institutions do not freeze) is the only one with purchase and it holds: Teague's crew comes down for the ferry and reads the stranger's hands on its own account (ch02.md:59), and Pike's board runs its own procedure without reference to the crew."
+    },
+    {
+      "gate": "Combat gates (charter §4; THE AUTHOR §9.9-9.16)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat, no injury taken, no ability used. The chapter is dialogue and arrival, as the card specifies."
+    },
+    {
+      "gate": "Voice charter §8.4 — terminal metadata",
+      "state": "PASS",
+      "evidence": "grep -niE 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over ch02.md returns zero. The file's last line is prose (ch02.md:155)."
+    },
+    {
+      "gate": "Voice charter §9 / packet prohibited_outcomes — tic caps",
+      "state": "FAIL",
+      "evidence": "'the way X [verb]' as a simile engine returns four in the chapter — ch02.md:5 'the way a man looks at a place he has read about in a file', :7 'the way it learns a stair', :119 'the way a man watches a thing he used to do', :123 'the way she asked the honest question' — against the packet's stated cap of three ('the way X [verb]' ≤3). Finding 009. Everything else is clean: one-word paragraphs 2 (ch02.md:11, 33) against a cap of 2, and both are dialogue rather than emphasis fragments; the charter's ten named phrases all return 0; standalone '[Name] noticed.' returns 0; 'which was, in its own way' returns 0."
+    },
+    {
+      "gate": "Voice charter §9 — scene-closer rule",
+      "state": "PASS",
+      "evidence": "Ch1 closes on the log; Ch2 closes on the card's fixed dialogue followed by one line of narration (ch02.md:151-155). No log entry appears anywhere in the chapter. The architecture's planned sequence (Ch1 log · Ch2 dialogue · Ch3 image) is honoured and no two consecutive closers share a structural move."
+    },
+    {
+      "gate": "Voice charter §8.5 — dialogue attribution runs in a 3+-speaker scene",
+      "state": "PASS",
+      "evidence": "Longest unattributed run is three (ch02.md:129, 131, 133), inside a cap of four, and it opens off an attributed line ('Oryn said, then, to nobody, in the voice for a finding', ch02.md:127) and closes on an attributed nod (ch02.md:135). The other runs are two (ch02.md:85-87, 69-71). Recorded as a concern rather than a finding: the 129-133 alternation starts on the speaker who was not just attributed."
+    },
+    {
+      "gate": "Voice charter §8.1 / NAME_REGISTRY — aural distinctness, no new canon nouns, no rename-slated names",
+      "state": "PASS",
+      "evidence": "No new named person or place is minted; the broker is referred to and unnamed (ch02.md:45, by implication), Teague's crew stays named-by-role (ch02.md:59), the ferryman's boy and the woman at the inn stay unnamed. grep for 'Halcenvane', 'Velmere', 'Wray', 'Bracken', 'Feryn' over ch02.md returns zero; Ostrand is used where the registry requires it (ch02.md:143). Treswick is spoken once by Vastin (ch02.md:113), already approved at the planning layer. No Path is named."
+    },
+    {
+      "gate": "Voice charter §8.2 / §8.3 — audio survival",
+      "state": "PASS",
+      "evidence": "No system text, no brackets, no stat block, no typography-carried meaning in the narration; the one italic span is a remembered sentence that reads identically aloud (ch02.md:143). The single typography dependency in the chapter is the capital in 'the Compact's Hand' (ch02.md:107), which is raised under the meta-voice gate rather than here because the defect survives the reading rather than being created by it."
+    },
+    {
+      "gate": "Architecture — no meta-voice (no volume, chapter-count, or fourth-wall reference inside chapter prose)",
+      "state": "FAIL",
+      "evidence": "Karis dates her own knowledge by the title of Book 6: 'That's a thing I've carried since the Compact's Hand' (ch02.md:107). The capitalised phrase appears nowhere in the drafted prose of Books 1-7 (grep -rn \"Compact's Hand\" books/book-0*/chapters/*.md returns zero); the in-world phrase established at book-06/chapter-03.md:25 is lower-case and is a metaphor for an instrument's closing line, not a nameable period. Finding 001."
+    },
+    {
+      "gate": "Voice charter §10 — scene vs summary, and density",
+      "state": "PASS",
+      "evidence": "Every architecture-major beat is on the page in real time: the landing, the plank, the doorway, the table, the close. The summary greps ('heard about it later', 'learned afterward', 'was told later', 'found out later', 'by the time he heard') return zero. Word count 3,982 against a band of 3,910-5,290 — inside, 72 words above the floor, and the author report declares the position. Recorded as a concern: one obligation beat (Lira crossing to the table) is carried in past perfect rather than staged."
+    },
+    {
+      "gate": "Voice charter §3.8 / §7.2 — register, growth, and banned modern idiom",
+      "state": "PASS",
+      "evidence": "grep for 'okay,? so|literally|basically|gonna' returns zero; grep for the feeling-declaration and growth-declaration patterns returns zero. The dialogue is oblique and each speaker keeps their own strategy — Brom prices, Karis sources, Seln reads, Oryn finds, Lira asks flat, Pike writes. Nobody acquires Cael's cadence."
+    },
+    {
+      "gate": "Voice charter §7.4 — the independent want, staged in a scene about him",
+      "state": "PASS",
+      "evidence": "Vastin's want is delivered as an absence rather than a speech: 'And Vastin, having said it, had nothing.' (ch02.md:117), and the paragraph after it (ch02.md:119) itemises exactly what is missing — the team, the warrant, the order given, the response owned — and hands the response to Karis on the page. Oryn's route, Lira's history with men in grey, Brom's pricing and Seln's fifteen years all surface as their own, not as reactions to Cael."
+    },
+    {
+      "gate": "Canon and register — forms of address and rank (packet: 'Vastin has no rank he can invoke')",
+      "state": "FAIL",
+      "evidence": "Vastin refuses the title on the page — 'Archmarshal.' / 'No.' … 'Not that. Not for some months. Vastin will do' (ch02.md:33-35) — and Karis then addresses him as 'Marshal' (ch02.md:107). 'Marshal' is not an established form anywhere in the series; the canon title is Archmarshal. Nothing in the surrounding narration marks the usage as a deliberate needle, so it reads either as rank granted back to him at the table or as a slip. Finding 008."
+    },
+    {
+      "gate": "Clarity — referential precision on the crew's count (charter §8.1's audio standard applied to a number the book is tracking)",
+      "state": "FAIL",
+      "evidence": "'the five' carries three different referents inside one chapter: the crew as Pike's sheet names them (ch02.md:27, 'none of it, he already knew, for the five'), Vastin's stale count corrected on the page (ch02.md:35, \"I'd like to speak to the five of you. Six\"), and the crew minus Cael (ch02.md:141, 'the five of them had let him not say it … had come to speak to six and had spoken to five'). Finding 010."
+    },
+    {
+      "gate": "Anti-pastiche (craft core invariant 6; charter §2)",
+      "state": "PASS",
+      "evidence": "Nothing in the chapter reads as any identifiable author's protected expression. The register is the series' own — the cataloguing narrator, procedure carrying emotion, the plank and the board as institutional machinery — and the prose is built from this book's established objects rather than from imported cadence."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B8-CH02-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "meta-voice",
+      "gate": "Architecture §Drafting Constraints — 'No meta-voice: no volume numbers, no chapter-count references, no fourth-wall address inside chapters/*.md'; packet prohibited_outcomes 'no chapter/volume references'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 107,
+        "line_end": 107,
+        "quote": "\"Under every station on the continent,\" Karis said. \"I said so at a table in the autumn.\" Her voice did not change. \"That's not news, Marshal. That's a thing I've carried since the Compact's Hand, and said aloud at Thornwater with the ring flat on the table. Say the part that's new.\""
+      },
+      "comparison_evidence": {
+        "path": "books/book-06-the-compacts-hand/chapters/chapter-03.md",
+        "line_start": 25,
+        "line_end": 25,
+        "quote": "*They've filed the face out of it,* the log got that night. *Vastin had a face. They all had faces. The presiding seat of the proceedings that decide whether I have a name has declined, by procedure, to have one. Note the grammar. The Compact's hand — the closing line on every instrument — has always been a metaphor. They're making it a person. Or unmaking one.*"
+      },
+      "consequence": "Karis dates her own knowledge by the title of Book 6. 'The Compact's Hand', capitalised, appears nowhere in the drafted prose of Books 1-7 — grep -rn \"Compact's Hand\" books/book-0*/chapters/*.md returns zero across all 96 chapters — and the only in-world use of the phrase is lower-case and explicitly a metaphor for the closing line on an instrument, not a period a person could have carried something 'since'. A reader holding the volume titled The Compact's Hand hears a character name it; a listener, who gets no capital, hears a phrase with no verb under it and has to guess at the era being pointed to. Either way the sentence stops being Karis's and becomes the series', which is the one thing the drafting constraint exists to prevent, and it happens in the chapter's single most load-bearing line of Karis's characterisation — the moment she establishes that Vastin has brought her nothing she did not already hold.",
+      "repair_target": "Date the knowledge by an event or a place rather than by the volume. The chapter already supplies two usable anchors in the same sentence — 'a table in the autumn' and 'Thornwater with the ring flat on the table' — and Book 6's own prose supplies more (the records hall, the proceedings, the term at Ostrand). One option: 'That's a thing I've carried since Ostrand, and said aloud at Thornwater with the ring flat on the table.' Do not touch the rest of the line; 'Under every station on the continent. I said so at a table in the autumn.' and 'Say the part that's new.' are the obligation and are correct.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH02-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity",
+      "gate": "Craft core reader-trust invariant 2 (causal legibility) and invariant 3 (continuity persistence); packet must_include item 8 (Lira last to sit down — and sits)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 79,
+        "line_end": 79,
+        "quote": "Six of them and the mule's empty chair, which was what they called the seventh chair at any table, and a man in a brown coat standing at the end of it with his pack on the floor and his stick against the table's edge, waiting to be told to sit, in a room where nobody had ever told anybody to sit."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 123,
+        "line_end": 123,
+        "quote": "It was the first thing she had said. She had sat down last — after Seln, after Oryn, after Brom, who had sat when Vastin sat because Brom sat when a man he was going to have to price sat — and she had sat at the far end, as far from the brown coat as the table allowed, with her two arms on the wood, and she asked it flat, the way she asked the honest question."
+      },
+      "consequence": "The movement opens by counting six at the table and then spends forty lines contradicting the count. The very next paragraph puts Seln in the doorway, 'on the room side of it, with one shoulder on the frame' (:81), and he does not sit until :91. Vastin sits at :93 and Oryn is already 'across from him' in that sentence. Then :123 states the seating order outright — Seln, Oryn, Brom, Lira, with Brom sitting when Vastin sat — which places at least four of the six out of their chairs at the moment :79 counts all six into them. The damage is not decorative: the chapter's assigned obligation is that Lira is the last to sit down, so the seating order is the beat, and a reader who tracks it (this series trains them to) finds the tableau at the top of the scene has already spent it. The mule's-chair sentence is also the only place a seventh chair is named, which finding 006 takes up separately.",
+      "repair_target": "Rewrite :79 so it counts the room rather than the chairs — the six of them in the long room, the table, the mule's chair, and the man standing at the end of it — leaving who is seated to the paragraphs that actually seat them. Then let :123 stay exactly as written, since it is the one span that states the order correctly. If the tableau is wanted, an alternative is to move :79's count after :91 so that Seln's sitting closes it. Do not restage Seln's doorway (:81-:91) or Lira's refusal at the fire (:73) — both are load-bearing and correct.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH02-003",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "canon",
+      "gate": "Craft core: story authority (approved canon over scene packet); charter §1 Decision Hierarchy — drafted prose governs",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 143,
+        "line_end": 143,
+        "quote": "He had it. He had had it since the landing. He remembered a table in a residence room on a bluff above Ostrand, and the man in front of him now in grey, and a sentence, said once, after the longest silence he had ever sat through: *I knew the system was imperfect. I didn't know it was designed to be.*"
+      },
+      "comparison_evidence": {
+        "path": "books/book-06-the-compacts-hand/chapters/chapter-17.md",
+        "line_start": 41,
+        "line_end": 41,
+        "quote": "Neutral ground in Ostrand: a records administrator's office on the third floor of a leasehold building four streets back from the registry seat, a room he had, decades ago and in another life, had reason to know the sightlines of. Two ways out. A stair and a service stair. A window that gave onto a courtyard with one gate. The office's own occupant away for the term, the lease held by a name that was a name and nothing else, the key produced from a pocket without comment."
+      },
+      "consequence": "The series' keystone conversation is relocated. Book 6's drafted prose puts it in a leasehold building four streets back from the registry seat in Ostrand — chosen by Seln for its sightlines, its two exits, and because, as chapter-17.md:63 has it, 'It was a room with no version of any of them in it, which was exactly why Seln had chosen it'. 'A residence room on a bluff above Ostrand' is Cael's own room at the academy: Book 7's chapter-24 uses that exact phrase for where Hesk's satchel came from. Putting Vastin's sentence there undoes the tradecraft the whole Book 6 chapter is built on — a serving Archmarshal walking up the academy's bluff road to a respondent's residence is the one thing Seln's mechanics existed to prevent — and it is a memory the reader has already read, so the mismatch is checkable rather than merely wrong. The same error is carried at :7 ('at the top of a bluff at eighteen'), which finding 004 takes up.",
+      "repair_target": "Replace the location with Book 6's: a borrowed office in Ostrand, four streets back from the registry seat, a room with nothing of anyone's in it. The rest of the paragraph is accurate to Book 6 and should be left alone — the plain greys, the longest silence, 'No alliance, no files, no hand across the table' all match chapter-17.md.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH02-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); charter §1 (drafted prose governs)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 7,
+        "line_end": 7,
+        "quote": "Cael knew the stance before he knew the face. He had stood in front of that stance in a hall at fifteen, and at a table at seventeen, and at the top of a bluff at eighteen with a satchel on his back and nothing anywhere deciding what he was, and a body learns a stance the way it learns a stair."
+      },
+      "comparison_evidence": {
+        "path": "books/book-04-copper-crown/chapters/chapter-14.md",
+        "line_start": 269,
+        "line_end": 269,
+        "quote": "It was, Cael thought, sitting with his back to the wall and the good lamp making the table look like somewhere people lived, the first time in his life that a date with his name on it had been marked by anybody outside a house in Denvash. He was sixteen. He had been sixteen since the morning, and had not known it mattered until three people had made it matter, and he did not have anywhere in the ledger to put what that was worth."
+      },
+      "consequence": "Two of the three entries in the ledger are wrong, in the chapter's second paragraph, in a sentence whose whole rhetorical claim is that Cael has counted these encounters precisely. Vastin does not appear in Book 4 before chapter-17 (chapter-17.md:147, 'Vastin came at the second exchange and left in the fourth'), and Cael has been sixteen since chapter-14 — so the first encounter is at sixteen, not fifteen, and there is no encounter at fifteen anywhere in the drafted books. 'A table at seventeen' is correct and should be protected: book-05/chapter-23.md:45 gives the borrowed tournament administration room, 'a table, four chairs'. 'The top of a bluff at eighteen' has no referent — Vastin's only in-person Book 6 scene is chapter-17, which is in Ostrand and after Cael's eighteenth (book-06/chapter-14.md:119), and his last Book 6 appearance is alone at his own desk (chapter-22.md:93). The line therefore both invents an encounter and repeats finding 003's relocation.",
+      "repair_target": "Reduce the ledger to the encounters that exist and place them correctly: a hall at sixteen (Book 4's inspection), a table at seventeen (Norhold's borrowed office), a room in Ostrand at eighteen (the cache). If the three-beat cadence matters more than the third entry, drop the bluff clause and keep 'with a satchel on his back and nothing anywhere deciding what he was' attached to the Ostrand table, where it is still true.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH02-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "canon",
+      "gate": "Craft core reader-trust invariant 3; UNIVERSE_BIBLE §Archmarshal Vastin, as settled by Book 6's drafted prose",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "Fifty-six, or near it. The hair gone from iron to something with less iron in it. A traveling coat, brown, road-made, the kind a carter's factor wears, with the elbows already through and the hem cut short for mud."
+      },
+      "comparison_evidence": {
+        "path": "books/book-06-the-compacts-hand/chapters/chapter-17.md",
+        "line_start": 11,
+        "line_end": 11,
+        "quote": "Cael's was the one he had been carrying since the second night and had not said. \"The worst version is that he does exactly what we hope. He refuses to report it, he refuses to sign, he takes himself out of the machine — and we've done that to him. He's fifty-one years old. Thirty of them are in the thing we're about to show him the maintenance records of. We're not asking him to help us. We're asking him to find out that his whole life was an instrument's, and then we're going to walk away east and leave him standing in it.\""
+      },
+      "consequence": "Cael himself put Vastin at fifty-one, aloud, in the council before the cache meeting — and he was eighteen when he said it (book-06/chapter-14.md:119). He is nineteen and a hundred and seventy-five days here, so roughly two years have passed and Vastin should be about fifty-three. 'Fifty-six, or near it' is three to four years high, and it is the first number in the chapter's arrival catalogue, in a voice whose entire authority is that its counts are right. The hedge absorbs one year, not four. The bible's 'Age 51 at Book 4' is looser still and is marked PROVISIONAL, but Book 6's prose is drafted and governs.",
+      "repair_target": "'Fifty-three, or near it.' The rest of the catalogue — the hair, the coat, the boots, the mended strap, the knee — is exact and should not be touched. If the intent is that the winter and the three hundred miles have aged him past his years, say that instead of moving the number: the estimate can run high and be corrected by the sentence rather than by the arithmetic.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH02-006",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "authority",
+      "gate": "Packet prohibited_outcomes — 'no request to travel with them; no hint of Book 9's 3-2'; architecture header — 'no seventh chair opens this book'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 79,
+        "line_end": 79,
+        "quote": "Six of them and the mule's empty chair, which was what they called the seventh chair at any table, and a man in a brown coat standing at the end of it with his pack on the floor and his stick against the table's edge, waiting to be told to sit, in a room where nobody had ever told anybody to sit."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 93,
+        "line_end": 93,
+        "quote": "Vastin sat. Nobody had told him to. He sat at the end of the table in the chair that had nothing in front of it, and put his hands flat on the wood, and Cael saw Oryn, across from him, look at the hands, and then at the knee under the table, and then at the face — the count, and the finding — and say nothing, because the finding was hers and she had not been asked for it."
+      },
+      "consequence": "The chapter names a seventh chair and then, fourteen lines later, puts Vastin in the one chair at the table with nothing in front of it. 'The seventh chair' is the architecture's own phrase for the thing Book 9 opens and Book 8 is forbidden to open, hint at, or schedule, and the packet's outcome asks only for 'a chair at the table that nobody offered and nobody took away' — a chair, not the chair, and specifically not a numbered seat in a crew whose count is the book's running arithmetic. A reader who has watched this series count chairs since Book 6's 'the sixth is Seln's desk' will read the mule's chair as reserved and Vastin as seated in it, which is precisely the anticipation the seam note forbids.",
+      "repair_target": "Keep the chair beat and drop the ordinal. The mule's empty chair is a good running joke and can stay as the mule's chair; cutting 'which was what they called the seventh chair at any table' costs the paragraph nothing. Separately, at :93, either leave the chair unspecified ('He sat at the end of the table') or make it plainly not the mule's, so the two spans stop pointing at each other. This repair overlaps finding 002's rewrite of the same line; take them together.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH02-007",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "invention-budget",
+      "gate": "Scene packet invention_budget.forbidden — 'Any Compact document, office, or official not already on the page in Books 4-7'; craft core §Creative latitude",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 109,
+        "line_end": 109,
+        "quote": "Vastin looked at her for the length of a breath, and Cael watched a man revise an estimate. \"No living official can reach it,\" he said. \"That is the part that is new. Not *will not*. *Cannot.* There is no key. There has been no key in living memory, and the Compact has stopped noticing that there is no key, because a thing you cannot open becomes, after a century or two, a wall, and nobody files a complaint about a wall. I found the record of the last man who tried. It is a very old record. He did not succeed and he did not say what he saw, and the Compact filed him.\""
+      },
+      "comparison_evidence": null,
+      "consequence": "The three sentences after 'a wall' mint a Compact document that has never been on the page and an official the Compact disposed of for trying the sub-layer — a new record, a new person (unnamed but specific), and a new institutional fact, none of which the invention budget allows and none of which the author report declares under inventions or state_change_proposals. It is a good line and that is the risk: it opens a thread ('the last man who tried', 'he did not say what he saw') that Books 9 and 15 will either have to answer or leave visibly dangling, and it does so without the planning layer ever seeing it. Everything before it in the same speech is inside budget, because the classified history Vastin read is the card's own material; the record of the last man is a second document underneath it.",
+      "repair_target": "Either cut the three sentences and let the wall image close the speech — 'nobody files a complaint about a wall' is a stronger last line than what follows it — or keep them and escalate: the author report declares the new record and the disposed official as an approval_required invention, and the planning layer enters them in the plant ledger before Ch3 is packeted. Do not keep them undeclared.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH02-008",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "canon",
+      "gate": "Packet pov.knowledge_boundary — 'Vastin has no rank he can invoke'; charter §3.8 (dry, oblique, honest dialogue) and NAME_REGISTRY rule 4 (role-titles)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 107,
+        "line_end": 107,
+        "quote": "\"Under every station on the continent,\" Karis said. \"I said so at a table in the autumn.\" Her voice did not change. \"That's not news, Marshal. That's a thing I've carried since the Compact's Hand, and said aloud at Thornwater with the ring flat on the table. Say the part that's new.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 35,
+        "line_end": 35,
+        "quote": "\"No.\" He said it without weight, as a correction to a ledger. \"Not that. Not for some months. Vastin will do; it did for my father.\""
+      },
+      "consequence": "The chapter goes out of its way to strip the title at the landing — Cael offers 'Archmarshal', Vastin corrects it like a ledger entry, and the correction is one of the chapter's best small moves. Seventy lines later Karis hands a rank back to him, and the page does not say whether that is a needle or a courtesy. Read as a needle it is excellent and in character: she is telling a man who has brought her nothing that he is still the office. Read straight, it is the crew granting the standing the packet says he cannot invoke, six lines after he declined it. Nothing in the narration chooses. The second problem is smaller and separate: 'Marshal' is not a form the series has ever used — the canon title is Archmarshal — so a listener hears either a new rank or a slip, and the registry's role-title rule does not cover a truncation of an existing one.",
+      "repair_target": "If the needle is intended, mark it with the lightest possible touch — a clause on Vastin's non-response, or Karis's own awareness of what she is doing — so the choice is on the page rather than in the drafting intent. If it is not intended, use the name he offered ('That's not news, Vastin'), which is sharper than the title anyway, because using the name he asked for while telling him he has brought nothing is the colder move. Either way, avoid the bare 'Marshal' unless the series intends to establish it as a form.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH02-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "voice-tics",
+      "gate": "Packet prohibited_outcomes — \"'the way X [verb]' ≤3\"; charter §9 (capped phrases)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 123,
+        "line_end": 123,
+        "quote": "and she had sat at the far end, as far from the brown coat as the table allowed, with her two arms on the wood, and she asked it flat, the way she asked the honest question."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "And one passenger, at the bow, standing, with a pack at his feet and a stick in his hand, who was not a carter and not a broker's man and was looking at the landing the way a man looks at a place he has read about in a file."
+      },
+      "consequence": "Four instances of the simile engine against a stated cap of three: :5 'the way a man looks at a place he has read about in a file', :7 'the way it learns a stair', :119 'the way a man watches a thing he used to do being done by somebody else', :123 'the way she asked the honest question'. ('the way out' at :99 is not the construction and is not counted.) Two of the four are the near-identical 'the way a man [perception verb] a [thing] he...' shape, at :5 and :119, which is the pairing the charter's own wording targets — it caps 'the identical construction' and protects the pattern as house voice. Recorded as LOW rather than higher because Ch1's r1 draft returns the same count of four, so this is a book-level density question for the coordinator rather than a Ch2-only defect; but the packet's number is three and the chapter is at four.",
+      "repair_target": "Cut or recast one, and if only one goes it should be :119 or :5 so the near-identical pair is broken rather than the two distinct uses. :119 is the more expendable of the two — the paragraph around it already carries the observation without the simile ('It was not a small thing to watch') — and :5's image is doing real work, since it is the first thing that tells the reader who is standing at the bow.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH02-010",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "clarity",
+      "gate": "Charter §8.1 audio standard applied to the crew count the book is tracking; craft core reader-trust invariant 3",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 141,
+        "line_end": 141,
+        "quote": "Cael had not said anything. He had not said anything since the plank, and the five of them had let him not say it, because the man at the end of the table had come to speak to six and had spoken to five, and the sixth was the one the whole of it was about, and everyone at the table knew that the sixth would say what he said when he had it."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 27,
+        "line_end": 27,
+        "quote": "The sack went up the landing ahead of him. Cael catalogued it going, because a sack was the only thing the Line sent that could not be argued with: the lead, the ferryman's knot under it, the weight of it on the boy's shoulder — a winter's worth of what the west had to say, and none of it, he already knew, for the five."
+      },
+      "consequence": "'The five' does three jobs in one chapter. At :27 it means the crew as Pike's sheet names them, which is defensible but arrives with no cue. At :35 it is Vastin's stale count, corrected on the page ('I'd like to speak to the five of you. Six'), which teaches the reader that five is now the wrong number. At :141 it means the crew minus Cael, and the same sentence uses 'six' and 'the sixth' for two further referents in eleven words. Ch1 closed on 'Six of us' in the log, so the reader arrives holding six; the chapter then spends 'five' three ways without ever fixing one. On a page this is friction; read aloud, where the reader cannot glance back, :141's four numbers in one sentence are close to unparseable.",
+      "repair_target": "Fix :27 and leave the other two, since :35's stale five is deliberate and correct and :141's arithmetic is the point of the sentence. At :27, 'for any of them' or 'for the crew' removes the collision at no cost. If :141 is also to be eased, name Cael rather than counting him: 'had come to speak to six and had spoken to five, and the one he had not spoken to was the one the whole of it was about'.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH02-011",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "authority",
+      "gate": "Packet prohibited_outcomes — 'No vote to admit him … no hint of Book 9's 3-2'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 101,
+        "line_end": 101,
+        "quote": "Brom spoke before she could. Brom priced things, and he had been pricing this one since the landing, and he said it to the table and not to the man, because that was how a price was said. \"He walked here. Alone. In spring mud, on that knee, with a pack he mended himself.\" He looked at the boots once more. \"Three hundred miles is a demonstration. Out here that's the only kind there is.\" And that was Brom's whole vote, and it was, from Brom, an argument for hearing a man out and not one hair past it."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 103,
+        "line_end": 103,
+        "quote": "Karis did not vote. Karis wanted the name and said so, which was a different thing. \"I want the name,\" she said. \"I've wanted a name since a table at Thornwater with a ring on it. I'll hear the layer first because you said it first and because I think I know it. Say the layer.\""
+      },
+      "consequence": "No vote is taken and the prose is careful to say so, but it says so in voting vocabulary, twice, at the table where Book 9 stages the 3-2 that admits him. 'That was Brom's whole vote' and 'Karis did not vote' together install the frame the chapter is forbidden to install: a reader is invited to start counting hands, and the packet's own note that Oryn's finding is 'a finding, not a vote' shows the planning layer was already alert to the risk. Held at LOW because the denial is explicit both times and no count is ever given.",
+      "repair_target": "Keep the beats and change the noun. Brom's is a price, not a vote, and the paragraph says so twice already ('Brom priced things', 'that was how a price was said'), so 'And that was the whole of Brom's price' finishes it in the chapter's own idiom. At :103, 'Karis did not price him' or simply 'Karis wanted the name, which was a different thing' removes the second instance without losing the distinction the sentence is drawing.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH02-012",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); charter §3.7 (institutions rendered as machines — the board and the inns price precisely)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 55,
+        "line_end": 55,
+        "quote": "\"Then he's nothing yet.\" Pike wrote a line in the book, which was not a line about Vastin, and blotted it. \"Meadow's free. Upper inn's full — Teague's crew has it — and the lower's a mark a night for a man alone, and the board's a plank; anyone can stand at it. It doesn't ask. It writes what gets done.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 13,
+        "line_end": 13,
+        "quote": "*The two inns have priced the winter. The upper inn wants a mark a head a week and the lower inn wants the same, and Pike, who keeps the board's room at the lower inn and has chosen the smoke over the cold, said to the book without looking up, \"Meadow rate is four a month for a crew that's on my sheet,\" and the woman who keeps the lower inn said, \"Pike,\" and Pike said, \"Eleventh,\" and that was the price: four a month for the five of us, twenty for the five months, paid in front, which leaves seventy-six."
+      },
+      "consequence": "Seven days separate the two prices and neither of them is reconciled on the page. Pike named a meadow rate in Ch1 — four a month for a crew on his sheet — and here says the meadow is free; and the lower inn's list price moves from a mark a head a week to a mark a night for a single man, a sevenfold rise, in a book whose reader has just been handed a five-month ledger to the mark. The seasonal reading is available (the meadow is filling, there are three tents on it and strangers coming off the ferry) and would settle both numbers in a clause, but nothing says it, so the two chapters simply disagree. Held at LOW because Ch1 is itself an r1 draft still under review and either side can move.",
+      "repair_target": "Decide which chapter is right and let Pike say why in his own register — he prices aloud for the room, so 'Meadow's free till the tents fill' or 'a mark a night in the season' costs one clause and converts the discrepancy into the board doing what the board does. If Ch1 moves instead, the meadow rate there should stop being a rate. Also worth passing to the coordinator: STATE_RUNNING records the winter board as 'four a week' where ch01.md:13 says 'four a month' — the ledger and the prose disagree independently of this chapter.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "The fixed exchange's own phrase is spent twelve lines before the exchange. At :71 Cael says 'He came through the board' and Lira answers 'I heard', and at :83 Seln says 'You came through the board' as the chapter's turn. The earlier use is not wrong — it is how the news would travel — but it means the turn's first four words arrive already heard, and the packet marks this exchange as the scene's turn. If :71 can carry the information another way ('He's been to the plank'), the doorway lines land clean.",
+    "Lira's obligation is delivered but not staged. Her refusal is staged and is one of the chapter's best beats — ':73, she puts the bucket down inside the door, does not go to the table, goes to the fire and puts wood on it that it did not need, and stands with her back to the room and her two arms folded, which was a thing she had been able to do for eleven days and was still doing on purpose'. The crossing itself, the part the card asks for ('and sits'), happens off-beat and is reported in past perfect at :123. Recorded rather than raised because the past-perfect placement does real work — the reader learns she sat last at the moment she finally speaks — but the repair for finding 002 touches the same scene and should not be allowed to sand :73 away, and the coordinator may want the crossing on the page.",
+    "Vastin's knowledge of the Stair reach is unsourced. At :139 he says 'What followed you to the Stair in the autumn is another matter, and it is not mine, and I do not know whose it is' — which is correct to Book 6's faceless-faction discipline and is a good payoff of his Book 5 warning, but the page never says how a man who resigned some months ago and walked here alone knows the crew was reached at the Long Stair specifically. The chapter supplies a usable answer in its own material (he came through the board and the courier chain; Teague's crew wintered at Lowmarch and was on the rim); one clause would close it.",
+    "'Three hundred miles' runs four times — :23 ('had done three hundred miles since'), :95 ('I have had three hundred miles to be aware of it'), :101 ('Three hundred miles is a demonstration'), :127 ('That knee's carried him three hundred miles'). Each use belongs to a different speaker doing a different job — Cael catalogues it, Vastin owns it, Brom prices it, Oryn finds it — which is a motif and not a tic under charter §8.2.3, and it is the chapter's best piece of structural work. But §8.2.3 protects repetition whose job is 'recorded in the arc document BEFORE the third use', and this one is not recorded anywhere, and the phrase now has zero book-level headroom. Worth entering in the plant ledger as a named motif rather than leaving it to be counted as a tic in Ch4.",
+    "The table's decision runs in a different order from the packet's scene_shape.choice, which specifies 'Karis first … Brom … Seln … Oryn … Cael last'. The draft runs Seln (in the doorway, before anyone sits), Brom, Karis, Oryn, Lira, Cael. The inversion is knowing — ':101, Brom spoke before she could' — and Karis still asks the chapter's substantive first question and the closing one, and Cael is still last. Recorded rather than raised because scene_shape is shape and not obligation, and the packet's must_include list fixes no order; the coordinator may still want the card's order restored.",
+    "Karis's line 'Under every station on the continent. I said so at a table in the autumn.' is scheduled in both the Ch2 card and the Ch3 card, and Ch2 has now spent it verbatim (:107). Ch3's staging note asks that Karis supply the sub-layer's existence from her own mouth before Vastin speaks; that beat is now half-spent, and Ch3 must not repeat the sentence. Flagged for the Ch3 packeting seat, not against this draft.",
+    "':7, A man built to hold a line' sits at the edge of the prohibition on showing or describing Vastin's Path. It reads as a body — feet apart, weight down, hands still — and names nothing, so it passes; but the Iron Wall reference defines the Path as 'a braced plane, a held line, ground that does not give', and the phrase is close enough that the Ch4 seat, where Iron Wall is first declared, should be aware the image has already been used.",
+    "Three consecutive unattributed lines at :129-:133 sit inside the §8.5 cap of four, but the alternation opens on the speaker who was not just attributed — Oryn is tagged at :127, then Vastin speaks unattributed. Content resolves it ('I didn't know you were a healer' can only be his), and :135 re-anchors. Recorded because the chapter has five speakers in the room and this is its only unattributed run of three.",
+    "Word count is 3,982 against a band of 3,910-5,290 — inside, but seventy-two words above the floor and six hundred below target. The author report declares the position honestly ('the card's ~4,600 not reached without padding the arrival'). Any repair that cuts rather than adds — findings 006, 009, 011 all cut — narrows the margin further; the repairs that add (002's restaging, 008's clause, the concerns above) should be taken first if the coordinator wants headroom."
+  ],
+  "strengths": [
+    "The three fixed blocks are all clean, and the doorway exchange is better than its card. Lines :83-:89 run as four consecutive paragraphs with no narration between them and no padding inside them, and the two paragraphs that frame them do the card's work without explaining it — ':81, with one shoulder on the frame, and he looked at Vastin for a while, and Vastin let him, because a man who has been read by clerks for forty years knows when he is being read by something better', then ':91, Seln came in and sat down at the door end, and that was the whole of what those two had ever said to each other, and it was, Cael thought, more than most men managed in a life'. Whatever else is repaired, this run should not be reopened.",
+    "The board prices him at nothing without ever raising its voice. ':51-:55' runs the whole obligation through procedure: Pike asks 'What'd he do?' to the book rather than to the man, Vastin answers 'Nothing. Out here. Nothing yet', and the ruling comes back as a tariff — 'Then he's nothing yet' — followed immediately by prices and the plank's rule. The near-recognition is withheld exactly right: 'for a breath Cael thought he had seen something — the name, or the stance, or forty years of a thing coming off a boat — and then Pike said, \"You'll want to eat. Door end,\" and went back to the mail.' That is charter §3.7 and the payoff of Book 7's freedom in one exchange.",
+    "Vastin's want is delivered as an absence rather than a speech, which is the hardest version and the right one. ':117, And Vastin, having said it, had nothing.' Then :119 itemises what is missing — the team, the warrant, the order given, the response owned before the problem was fully spoken — and hands the response to Karis on the page, with Cael watching him watch her: 'He watched her the way a man watches a thing he used to do being done by somebody else.' Charter §7.4 asks for a scene about him and this is one, inside a scene that is nominally about the crew.",
+    "Karis's case is kept unanswered by an act rather than an omission. ':115, Karis's pencil had stopped. She did not look at Cael, and she did not look at the map, which was in her coat, and she did not say *west*, and the whole table heard her not say it.' The packet forbids a decision to go west; the draft converts the prohibition into the chapter's quietest pressure, and it converges Vastin's Treswick with Ch1's west without either of them naming the convergence, which is exactly what the plant asks for.",
+    "The ask-first rule is paid by the person who wrote it, without a hand touching him. Oryn's finding is one line ':127' and the exchange after it is three, and the last of them — 'Then I still haven't asked' — is Vastin, not Oryn, which puts the series' standing rule in the mouth of the man it is being applied to. She does not touch him, does not vote, and 'nodded, once, as if a thing had been entered' keeps her in her own register.",
+    "The arrival catalogue does the card's hardest instruction — catalogue what he IS, not what he was — in negative space. ':25, No grey. No seal. No clerk behind him with a book. No two men in road-colour a pace back and a pace to either side.' Four absences, each of which the reader has seen present across three books, and the ferryman's boy who does not look round at him because 'to the boy he was a man who had paid his passage, and that was all a man was on a ferry'.",
+    "The chapter's arithmetic checks out where it counts. Day 277 is seven days past Ch1's closing log and inside the packet's window; Lira's 'eleven days' of two arms reconciles exactly to the 266th release; the board carries the fourteen slips Ch1 left it; Teague's crew is where the winter frame put it. The one place the counting fails is the seating (finding 002), which is worth saying because the rest of the chapter earns the reader's trust in its numbers first."
+  ]
+}

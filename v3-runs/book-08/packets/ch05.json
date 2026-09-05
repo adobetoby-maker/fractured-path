@@ -1,0 +1,184 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch05",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 5 card — What the Records Say; Chapter 6 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–4' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen; day 280 (the day after the cut) — a halt at the shoulder hold or on the road beyond it; Treswick a day and a half on at the chapter's close; the fork north (Oryn's) is between here and Treswick (Ch6, next morning).",
+      "Seven on the road: Vastin spent yesterday (recovering; walking slow); Brom's foot bound; Cael's frameworks knocking for the day; Oryn present, saying nothing about the fork; the records in Karis's oilcloth; the map in her coat; both straightedges; the kit on Brom.",
+      "What was handed over (Ch3): six years of survey abstracts (more than four sites; the Ring, Stair, Hall, fourth among them; the rest theirs — some on the bearing, some not — NOT named or placed in this chapter beyond 'more than four' unless Karis states a count she has now checked, and if she does it is her count, hedged); the office's 'anomaly' column with one abbreviation; the citation page ('the Architect', Treswick's lower archive); the technician's sheet with the six-year deep-layer line and the brush-laid redaction. Seln did a sum at it and did not say it.",
+      "The GRADE (taxonomy's first appearance, PROVISIONAL): the records carry a notation per site that Karis recognizes as the SAME notation as the kit's index designation — a grading — and still cannot read; she may say what she can see (that it orders the sites; that the fourth's mark differs from the three; that the Compact's own hand uses it as if it were a tier) but NOT what the tiers are or mean (Ch17/Ch20).",
+      "The margin note (Book-9 plant c, extended): a long-gone Compact surveyor's hand in a margin, in effect 'behaves as a device, cannot be a device' — quoted as the surveyor wrote it, once; Karis enters it as an observation she cannot file; NOBODY says the Arbiter IS a device, a terminal, a circuit, infrastructure; nobody connects it to the citation; Karis's discipline line may be used to stop the sentence.",
+      "The deep-layer log: Seln sets the sheet in front of Cael without a word; Cael reads the date; the reader can do the arithmetic; Cael does NOT log it, does not say 'six years ago I', does not connect it on the page — the narration says he did not write the arithmetic down 'where a log can be read'.",
+      "SEALED: no 'designed/deployed/four hundred years'; no [UNBOUND]; no theory of who or why; the still place not touched.",
+      "Vastin: no Path shown here; recovering; his want beat is the drafting-orders reflex; Seln teaches him 'Draft nothing. Just look.' — the first thing Seln has taught anyone.",
+      "CLEON is named here for the first time, by Karis, from the scholars' registers she has read: 'The only historical-Path practitioner registered west of the Line.' Cael has not heard the name. Treswick's archive: Karis may call it the Deepstacks (she did in Ch1).",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice."
+    ]
+  },
+  "purpose": "The reading chapter — a halt on the border road with the flat of records open, worked three ways: Karis for the pattern, Seln for what the Compact omitted, Vastin for what the Compact's procedure means. What they find: six years of surveys with instruments and stakes; the records GRADE the sites by a notation Karis recognizes as the kit's index and still cannot read; every survey logs the identical Arbiter failure with a long-gone surveyor's margin note that reads, in effect, 'behaves as a device, cannot be a device'; and the deep-layer log, which Seln — who knows where a file hides the thing it is really about — sets in front of Cael without a word, and Cael reads, and does not log the arithmetic of. Vastin keeps drafting orders in his mouth and each dies; Seln: 'You keep drafting orders.' / 'Habit.' / 'Out here the habit's the tell. Draft nothing. Just look.' Close on dialogue: Karis naming Cleon and Treswick — 'A day and a half' — and the fear she does not know which side of.",
+  "scene_shape": {
+    "opening_state": "The halt — the morning after the cut, at the shoulder hold's gate or a mile beyond it where the road widens at a spring, the flat open on a stone with the sheets weighted against the wind; Karis, Seln and Vastin working it three ways while Brom rests the foot, Lira keeps the road, Oryn watches Vastin not sit down, and Cael catalogues the three readers because three ways of reading one file is a thing he has never seen.",
+    "pov_goal": "Cael wants the records to say what the Compact knows so that he can stop guessing what it knows; they say more than that, and the one line that says the most is set in front of him without a word.",
+    "opposition": "The records' own method (six years of a procedure that measured everything and asked nothing); the grade nobody can read; Vastin's reflex; Seln's silence; the map in Karis's coat.",
+    "turn": "Three findings in order: (1) the surveys' instruments and stakes — six years of measured perimeters; (2) the GRADE — the notation on every survey is the kit's index, and the fourth site carries a different mark from the three, and Karis cannot read either; (3) the margin note in a dead surveyor's hand — 'behaves as a device; cannot be a device' — and then Seln, without a word, sets the technician's sheet in front of Cael.",
+    "choice": "Cael reads the date and does the arithmetic and does not write it down where a log can be read; he puts the sheet back in the row it came from, in its place, and Seln watches him do it and says nothing, and the two of them have a thing between them that neither has said.",
+    "outcome": "Karis owns the response: everything she cannot read points at one place; Vastin's drafted orders die three times; Seln teaches him; the fork north is tomorrow and Oryn has not said a word about it.",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim: Karis: 'Six years. They measured all of it. They graded it — the sites are ranked by something, and it's the same something in the kit, and I can't read either one.' (she looks at the citation) 'Everything I can't read points at the same place.' Vastin: 'Treswick.' Karis: 'The archive under it. Cleon.' Cael: 'Who's Cleon?' Karis: 'The only historical-Path practitioner registered west of the Line. If the language is anywhere, it's under his hands. A day and a half.' She closes the case. 'And then I find out whether I've been right for five years or wrong for five years, and I don't know which I'm more afraid of.' The file ends on that line."
+  },
+  "obligations": {
+    "must_include": [
+      "The halt dated (the 280th), placed on the border road a day and a half short of Treswick; the flat open; the three readers and their three ways named on the page (pattern / omission / procedure).",
+      "The Compact surveyed with instruments and stakes for six years — shown in the records as diegetic document work (charter §3.2): radii, stake counts, surveyors' hands, dates.",
+      "The GRADE: Karis recognizes the records' per-site notation as the kit's index designation; she cannot read it; the fourth site's mark differs; she says only what she can see.",
+      "The margin note quoted once in the surveyor's words ('behaves as a device, cannot be a device' or the draft's equivalent); Karis enters it as an observation she cannot file; the sentence that would close the loop is NOT said (use her discipline line if anyone reaches for it).",
+      "Seln sets the deep-layer sheet in front of Cael without a word; Cael reads it and does not log the arithmetic; the narration says so in the series' oblique register.",
+      "Vastin's drafted orders dying in his mouth (three times, each a different Compact response — directive, classification, escalation) and the fixed exchange verbatim and contiguous: \"You keep drafting orders.\" / \"Habit.\" / \"Out here the habit's the tell. Draft nothing. Just look.\"",
+      "Cleon named by Karis for the first time; Cael asks 'Who's Cleon?'; the fixed closing dialogue verbatim and contiguous through 'which I'm more afraid of.'; the file ends there."
+    ],
+    "plants": [
+      "Book-9 plant (c) extended: the identical failure + the surveyor's margin note, cross-referenced against the crew's own three crossings.",
+      "Book-11 plant 2 deepened: the six-year sheet in Cael's hands; unlogged.",
+      "The taxonomy's first appearance (the grade); the fourth site's different mark.",
+      "Cleon; the Deepstacks; 'a day and a half'.",
+      "Oryn's silence about the fork (Ch6)."
+    ],
+    "payoffs": [
+      "Seln's silence at the handover (Ch3) — paid by the sheet set before Cael, still without a word.",
+      "B7's 'a measurement is a fact about a ruler' — reused as the discipline that stops the Book 9 sentence."
+    ],
+    "prohibited_outcomes": [
+      "No fight, no injury, no fragment use, no reading; the still place untouched.",
+      "No site named or placed beyond what B7 gave; no first-tier site; no tier meanings.",
+      "No 'device'/'terminal'/'circuit'/'infrastructure' as anyone's conclusion — only the dead surveyor's margin words, quoted.",
+      "No 'designed', 'deployed', 'four hundred years', [UNBOUND], 'primordial'.",
+      "No 'six years ago' in Cael's mouth or log connected to himself; nobody says the arithmetic.",
+      "No fork; Oryn does not announce anything (Ch6); no Treswick reached.",
+      "No log closer (Ch4 closed on the log); the closer is dialogue.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; capped phrases 0; no meta-voice."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The halt's ground (a spring, a stone, the wind); the surveyors' hands and habits; the margin note's exact wording (must keep the sense 'behaves as a device, cannot be a device'); the office's abbreviations.",
+      "Vastin's three drafted orders (a directive's opening words; a classification's; an escalation's) — as things that die in his mouth."
+    ],
+    "approval_required": [
+      "Any new named person or place beyond Cleon (named by the card).",
+      "Any count of sites Karis has now checked (if given, hedged as hers)."
+    ],
+    "forbidden": [
+      "Any meaning for the grade's tiers; any theory of the Quieting's cause or the designer."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 4 (The Border Road)",
+      "path": "v3-runs/book-08/drafts/ch04.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 3 (Six Years) — the handover as drafted: the flat, the page, the technician's sheet",
+      "path": "v3-runs/book-08/drafts/ch03.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 20 — the kit; the index; 'a measurement is a fact about a ruler'",
+      "path": "books/book-07-void-roads/chapters/chapter-20.md",
+      "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 15 — Karis's strata method; the sub-layer named",
+      "path": "books/book-07-void-roads/chapters/chapter-15.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 6 card — Oryn's Terms (the fork) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch05.md",
+    "report_path": "v3-runs/book-08/reports/ch05-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch05-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch05-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

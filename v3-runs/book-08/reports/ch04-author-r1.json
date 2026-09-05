@@ -1,0 +1,53 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch04-r1",
+  "scene_id": "b8-ch04",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch04.md",
+  "word_count": 4607,
+  "obligations": [
+    {
+      "obligation": "The decision west staged as a contract taken at Pike's plank, dated; Brom's price; Pike's sixth line",
+      "status": "MET",
+      "evidence": "278th; the slip; 'Ours,' Karis said, before Brom could; 'he wrote a sixth line under the five, shorter, and did not write a seventh.'"
+    },
+    {
+      "obligation": "Geography drawable before the first exchange",
+      "status": "MET",
+      "evidence": "The cut catalogued from the shoulder's lip: a hundred strides, the frozen runnel a stride wide, scree both sides, the sink fifty meters below and north; positions set in dialogue."
+    },
+    {
+      "obligation": "Four exchanges; Iron Wall shown and its limit shown before Ch12",
+      "status": "MET",
+      "evidence": "(1) the pack up out of the sink; the wall across the road; 'It held'; 'the man who had drawn it could not move'; (2) Brom silent with the rock, Lira down the scree, Seln nowhere; (3) Cael's burst AWAY from the wall, then still on the scree; the six turn back — 'The rooted thing they could not move was the thing they broke on'; (4) the runnel and steel after the heap."
+    },
+    {
+      "obligation": "Win-sentence and Vastin's lesson said once",
+      "status": "MET",
+      "evidence": "'The wall held the line … And someone else had to be the reason they wanted the line.' / 'I have never once in forty years needed someone else to be the reason.' / 'You do now.'"
+    },
+    {
+      "obligation": "Costs ledgered forward; Oryn's hands, never in the fight",
+      "status": "MET",
+      "evidence": "Brom's boot and foot; Vastin 'spent to the floor'; the burst's bill; the log's injury list for all seven; Oryn at the cut's east end until the wall came off."
+    },
+    {
+      "obligation": "Close on the log with the card's fixed text verbatim",
+      "status": "MET",
+      "evidence": "Final paragraph reproduces the card text exactly; the file ends on 'Almost.'"
+    }
+  ],
+  "inventions": [
+    "'The shoulder hold' (named by role); its factor; the wayposts on the kept road; the pack of eight; the slip's price (twenty).",
+    "Oryn's two fingers on Vastin's wrist; her line 'a wall with nothing behind it is a man alone in a road being loud'."
+  ],
+  "state_change_proposals": [
+    "Days 278 (the slip; departure) and 279 (the cut; the fight; the log). Cash 118 → 138 (the hold's twenty). Pike's sheet: HOLD, five names, a sixth line for the healer; Vastin not on the sheet.",
+    "Injuries: Brom right foot (tooth through the boot), bound; shoulder carried, unread twice; Vastin spent, not hurt; Cael's burst bill; five hounds dead, three into the sink.",
+    "Iron Wall SHOWN: a plane across the road, rooted, held 'until it was done'; the limit taught."
+  ],
+  "deviations": [
+    "'quiet' appears as an adjective for Cael's ribs (the established state phrase) — never 'quiet ground' or 'the Quiet'."
+  ],
+  "blockers": []
+}
