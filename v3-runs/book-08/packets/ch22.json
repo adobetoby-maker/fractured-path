@@ -1,0 +1,185 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch22",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 22 card — The Still Place, Gate 25 no-deflection; Chapter 23 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–21' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael nineteen; thirteen fragments; the RIBS say their one thing (the thirteenth's recoil); the tenth (Tide-adjacent) is his reading instrument; the twelfth (Rune-adjacent) reads MADE things — 'structure, not meaning'; 'not a river, not a man'; costs the eyes after (an hour of the unfocused place). The 306th evening/night, the plain's edge; the site a half-day east in the haze; the 307th is Ch23.",
+      "THE BURIAL: Teague's crew buries its own under stone at the pass's east mouth (the west is closed); the six carry stone at Teague's leave; nobody says anything the boy's crew has not said; the broad man on his stick; the tall woman; the healer of no Path. Oryn stands where she stood. The mule: Lira and Seln round by the ridge path, back by dusk with the mule and the boxes.",
+      "ORYN reads the ribs: two fingers, the flat hand; 'That's a line. That's not yours.' / 'It's mine now.' / 'Then it costs what his costs. Lie still when I say.' — she sets no term tonight; the term is the site. She does not read the still place tonight; she read it at a ford and the finding stands.",
+      "THE INWARD READING (the twelfth, deliberate): sitting against the mule's pack or a stone, awake, the fire low; he turns it — the lean, the unfocused place — inward, toward the place the tenth goes round. What returns: STILL (as before); then SET (as on a bench); then — deeper, held longer — a SHAPE: bones; a floor with nothing built on it; rows with no bearers; 'an instruction with no language'; the inside of a made thing with the lean of the floors. He does not name it. He does not say 'made' of himself; the narration does not either — the closest permitted: 'the same kind of thing, to that instrument, as the sites were to Cleon's.' Cost: the eyes, an hour, the fire a smear.",
+      "CLEON'S WARNING verbatim (Ch13): 'If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — ' … 'Don't tell me. Don't tell anyone. Just remember I said it.' He remembers it and tells no one.",
+      "ARBITER: dark since Kindling (fourteen); unchanged; he checks it as one checks a lamp one knows is out; nothing for the Quiet to take.",
+      "THE INSTRUMENTS (Book-11 plant 3): Karis's tallies at the Span came a sheet short in his hands again (she looked at his hands, once); the cord reads a hair long in his hands and true in hers; the brass edges — both — a hair off in his hands (as at Lowmarch, Ch1, and worse now — he has the Lowmarch number in the log and compares); the trend increasing; 'a fact he could not source'. He does NOT connect it to the site's nearness in words; the narration may place the two facts beside each other and stop.",
+      "Fixed LOG (card) with the single amendment 'the whole book' → 'the whole year': 'Turned the Rune fragment on myself. Cleon said don't. The reading only ever told me the still place was nothing — no flow, no current, a hole where a man should have a middle. The Rune sense says it's not a hole. It says it's *built like something* — like one of those floors with nothing standing on it. Same shape to that fragment as the sites are to Cleon's. I'm not going to write what that might mean, because I don't know, and because the last time I wrote something true in this log a healer made me swear an oath about it. The instruments read wronger for me than they did at Lowmarch. The trend's climbing. My Arbiter's still dark—nothing in me to go quiet, same as always. Tomorrow, the oldest one. I've spent the whole year wanting to stand in the middle of it. I think part of me already knows what I'm going to feel. Nothing. I think I'm going to feel nothing, and I think that's going to be the loudest thing that's ever happened to me.' — 'Rune fragment' is the log's private naming (allowed in the log); 'a healer made me swear an oath' = Oryn's 'stop' / the term — keep verbatim.",
+      "SEALED: no still place = Quiet; no Architect will/presence; no 'primordial/before/source'; no character says 'made' of him; the Court unnamed ('the oldest one'). Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice in prose; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; READER STANDARD."
+    ]
+  },
+  "purpose": "NON-COMBAT, interiority-carried — Part 3's scheduled NO-DEFLECTION scene (Gate 25). The 306th, evening and night: camp on the plain's edge below the pass's east mouth, the site a half-day on in the haze; the fight behind them; the young one buried under stone at the pass's mouth by his crew (Teague's; the six carry stone at his leave, and say nothing); the mule and Karis's boxes recovered — Lira and Seln went round by the ridge path the team used and brought it by dusk (one paragraph; resolves the west-mouth fall). Costs carried: Cael's RIBS (the thirteenth's recoil; Oryn reads them — 'That's new. That's a line.' — and says lie still, and he does not, yet); Brom's forearm; the broad man's shoulder; Vastin day 27 (Karis's hand on his shoulder in the stream-bed — not mentioned by either); Teague's grief carried in his register (he counts his people and comes up one short and does not say the number). THE SELF-STUDY CLIMAX: Cael, unable to sleep, does the thing Cleon warned against (Ch13) — turns the twelfth (Rune-adjacent) inward, DELIBERATELY this time (Ch18 it turned unbidden; now he chooses), on his own architecture. The Tide reading (Oryn's; his own tenth) always returned the still place as NOTHING, flow-absent. The Rune sense returns STRUCTURE: not injury, not a fragment, not flow — a shape with BONES; 'a floor with nothing built on it'; 'an instruction with no language'; the same KIND of thing to that instrument as the sites are to Cleon's — rendered as sensation and shape and NEVER as explanation. No character says 'primordial', 'before', 'source', or 'made' about him. He does not conclude what he is. He remembers Cleon's warning verbatim and understands it just did that, and tells no one, exactly as instructed. BOOK-9 PLANT d: he checks his Arbiter — dark since Kindling — unchanged; nothing in him for the Quiet to silence because the Arbiter never lit anything. BOOK-11 PLANT 3 (final escalation): the tallies Karis took near him at the Span drifted (a sheet short again; she looked at his hands); he re-checks the kit's instruments in his own hands — the cord, the two brass edges — and they read wrong for him and only him, MORE wrong than at Lowmarch (Ch1) — he logs the TREND as Hesk taught him, and the trend is increasing, a fact he cannot source; NOTHING says why. Close on the fixed LOG verbatim (the card's text) — with the ONE authorized amendment: the card's 'I've spent the whole book wanting' is META-VOICE — RENDER as 'I've spent the whole year wanting'; everything else verbatim. The file ends on the log.",
+  "scene_shape": {
+    "opening_state": "The east mouth of the pass at evening on the 306th: stone carried onto a boy by his crew, the six at Teague's leave carrying too; the mule brought round by the ridge; the camp on the plain's edge with the haze thinning and a shape in it, low, a half-day off, that nobody looks at long.",
+    "pov_goal": "Cael wants to know what the thing at the middle of him is before he stands in the middle of the oldest one, because he has just watched a line drawn in something worse than ink and he will not walk to its end not knowing; and he knows the only instrument he has left to ask is the one he was told not to use.",
+    "opposition": "Cleon's warning; the ribs; Oryn's term; the eyes' cost; the instruments reading wrong in his hands; his own rule (observation, then the log, then patience) against the wanting.",
+    "turn": "The twelfth returns a SHAPE — bones; a floor with nothing built on it — and he understands that the thing Cleon warned about has just happened, and that he is not going to say it.",
+    "choice": "He records what the instrument returned, exactly, and does not write what it might mean; he tells no one — not Lira, who is awake and first; not Oryn, whose finding is hers; — and checks the Arbiter and the instruments and logs the trend, because a cataloguer who has found a thing he cannot file files the things beside it.",
+    "outcome": "The still place read twice by two instruments and returning two things; the Arbiter dark; the instruments wronger; the trend climbing; tomorrow the oldest one; the prediction of nothing.",
+    "closing_state": "LOG — the fixed text with the one amendment; the file ends on it."
+  },
+  "obligations": {
+    "must_include": [
+      "The burial at the east mouth in Teague's register; the six carrying stone at his leave; Oryn where she stood; the mule and boxes recovered by the ridge path (one paragraph).",
+      "Oryn reads the ribs ('That's a line. That's not yours.' / 'It's mine now.' / 'Then it costs what his costs.'); no term set tonight.",
+      "THE INWARD READING dramatized as sensation and shape only: still → set → bones / a floor with nothing built on it / an instruction with no language; 'the same kind of thing, to that instrument, as the sites were to Cleon's'; the eyes' cost; NO explanation; nobody says 'made' of him; he tells no one.",
+      "Cleon's warning verbatim, remembered; 'it just did'.",
+      "Book-9 plant d: the Arbiter checked — dark, unchanged, nothing to silence.",
+      "Book-11 plant 3: the Span's tally drift recalled; the cord and both brass edges re-checked in his hands — wronger than Lowmarch (the Ch1 number compared); the trend logged as climbing; unsourced; nothing says why.",
+      "Costs carried: the ribs; Brom's forearm; the broad man's shoulder; Vastin day 27; Teague one short and not saying the number.",
+      "Close on the fixed LOG with 'the whole year'; file ends on it. READER STANDARD."
+    ],
+    "plants": [
+      "The shape with bones — Ch24 (the centre; 'Not the Quiet' stands)",
+      "The trend climbing — Book 11",
+      "The Arbiter dark — Book 9",
+      "Teague one short — Ch24"
+    ],
+    "payoffs": [
+      "Ch13's warning → the thing it warned of",
+      "Ch18's unbidden turn → the deliberate one",
+      "Ch1's Lowmarch instrument number → compared",
+      "Ch5/Ch19's tally drift → named as a trend"
+    ],
+    "prohibited_outcomes": [
+      "No explanation of what he is; no 'primordial', 'before', 'source'; nobody says 'made' of him; no still place = Quiet; no Architect will.",
+      "No fight; no reach; the site not reached.",
+      "No image/dialogue closer; the closer is the LOG.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; no meta-voice in prose ('the whole year' in the log); READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The burial's form (stone; no words beyond the crew's); the ridge path; the camp's ground; Oryn's reading of the ribs; the sensations of the inward reading within the card's images; the instrument checks' numbers (a hair; the Lowmarch comparison)."
+    ],
+    "approval_required": [
+      "Any new image for the still place beyond bones / floor / instruction-without-language / the inside of a made thing."
+    ],
+    "forbidden": [
+      "Any conclusion about what Cael is; any name for the site; any speech by Cael or anyone naming him 'made'."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 21 (The Last Reach)",
+      "path": "v3-runs/book-08/drafts/ch21.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 13 — the twelfth; Cleon's inside ('a stair'); the warning verbatim",
+      "path": "v3-runs/book-08/drafts/ch13.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 18 — the deep reading; the unbidden inward turn ('set')",
+      "path": "v3-runs/book-08/drafts/ch18.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 1 — the instruments a hair off in his hands at Lowmarch (the number)",
+      "path": "books/book-08-before-the-paths/chapters/chapter-01.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 22 — the self-reading; 'Not the Quiet'; the log's register",
+      "path": "books/book-07-void-roads/chapters/chapter-22.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 23 card — The First Quiet (the threshold) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch22.md",
+    "report_path": "v3-runs/book-08/reports/ch22-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch22-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch22-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

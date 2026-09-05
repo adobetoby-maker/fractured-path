@@ -1,0 +1,178 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch24",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 24 card — The Center; no next_card — the book's last chapter)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–23' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael nineteen; thirteen; the ribs; the twelfth's finding (Ch22) private; the turning (Ch23). Dusk the 307th → the centre → back to the line by dark; the night at the rim; dawn the 308th: partings. Eleven and a mule. Cash 123. Costs: Brom's forearm; the broad man's shoulder/leg; Teague's arm; Vastin day 28/29; Karis's hand; Oryn (no reading of Cael tonight? — she may read him at the line when he comes out: she said she would not read him again 'till you've stood where you're going' — she reads him; the finding: 'the same finding' — nothing; everything round it — UNCHANGED; she says so; that is the point).",
+      "THE CROSSING: five hundred and six strides to the centre (the radius by the cord, halved); the floor seamless, grey, level, with the last light along it; the stumps behind shrinking; the eleven at the rim; the thirteen ringing faint as at every rim; the turning turning with him; at a hundred strides the twelfth on the floor (the eyes' cost — he pays it and walks on half-blind to the middle, which is permitted and priced).",
+      "THE CENTRE: NOTHING — no mark on the floor, no ring, no seat; the middle of a made floor; he stands; the fragments ring; and the thing he has felt at every rim — the difference, the anomaly, 'mine works and theirs died' — is NOT THERE. Not because his works. Because there is nothing to work against. He revises his own sentence aloud or in the log: 'Not the Quiet.' (stands) + 'Not a fragment.' (stands) + what he adds: 'The same kind of made.' He does not say what kind. NO 'recurrence', 'pattern' beyond the closing line's own words, 'primordial', 'before', 'source'; the closing line's 'Someone had made the pattern. He was, he was beginning to understand, the pattern.' is FIXED and stands as the card's prose.",
+      "WHAT HE FEELS: nothing at all; belonging; at home; no exclusion, no prevention, no wall — delivered as understanding. He understands it is not coincidence. He does not have the word.",
+      "RETURN: back across the floor by the count; the eleven; Oryn reads him at the line (two fingers; the flat hand): 'The same finding.' / 'Nothing.' / 'Everything, round it.' — she does not say 'Same as you' again; Lira first: 'Well?' / 'I'll tell you on the road. If there's road.' (her own line given back — allowed; or Oryn's). He tells NO ONE what the centre felt like.",
+      "THE LEDGER (brief): the log's inventory of thirteen by name (the log's private names — 'Pressure' stands in the log); the still place 'read by two instruments and understood by neither'; the letter to Hesk written at the fire and given to Teague for the west ('Nineteen. The line was already drawn. I followed it to the end. Tell Lira's family I said so. — C.' — SHORT; in Cael's plain hand; not longer than Hesk's own notes); Teague's crew turns back at dawn toward Lowmarch past the stone; the contract: 'Spring's over.' / 'Noted.' / 'Next spring.' / 'Noted.'; Oryn north at dawn on her mule with her roll ('The day I have to.'); Vastin stays with the five and does not ask and is not asked ('unadmitted'); Karis; Brom; Seln's count at dawn: 'Six. Six and no mule. Nothing behind.'",
+      "Fixed CLOSING PROSE (card) with 'the whole year' for 'the whole book': 'He had spent the whole year learning that the world was built to prevent him — four hundred years of tiers and registries and a machine that lit for everyone but him, all of it laid down so that what he was would never come again. And at the center of the first place they ever made, the oldest silence on the continent, the one built before there was a word for it, he had felt no exclusion and no prevention and no wall. He had felt at home. He did not have a word for that yet. But he knew, now, walking back out across a floor older than the system that had expelled him, that it was not an accident — that the place built to end him was the one place he fit — and that the difference between *the system was built to exclude me* and *the system was built to prevent me* had a third sentence past it, waiting, that he was not ready to write. Someone had made the pattern. He was, he was beginning to understand, the pattern. That was as far as he could say.' — 'four hundred years' appears ONCE here (fixed); 'center' spelling fixed. The file ends on 'That was as far as he could say.' — the closing prose is the LAST paragraph; the ledger/partings come BEFORE it (the closing line is retrospective — 'walking back out' — render it as the book's last paragraph regardless of the dawn partings preceding it, as the series' Ch24 register does).",
+      "SEALED: no 'recurrence'; no Architect will/presence/reset; no still place = Quiet ('Not the Quiet' stands, said again); the court unnamed. Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice ('the whole year'); one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' ONCE (fixed); READER STANDARD."
+    ]
+  },
+  "purpose": "THE ENDING — the bible's Book 8 close delivered, and the seam into Book 9. (Arch review M13 material: the physical business of the crossing, STRIDE-COUNTED; the Rune reading run on the FLOOR ITSELF before the centre; the revision of Cael's own sentence — 'Not the Quiet' STANDS; the return to five faces and one healer; the ledger of the book.) Cael walks to the centre of the court alone at dusk on the 307th: the stride count across the seamless floor (five hundred and six to the middle by the cord's half); the thirteen ringing as at every rim; the thing that turned at the line turning with him; at a hundred strides in he stops and turns the twelfth (Rune) on the FLOOR under his boots, deliberately, as Cleon read a board — and the floor reads as the still place read: still; set; bones; rows with no bearer; an instruction with no language; the same grammar; and he stands with a made thing under his feet and a made thing under his ribs and the twelfth returning one reading for both. At the CENTRE: at every prior site his fragments worked where others' died — a difference he had to think about. Here there is NO DIFFERENCE TO FEEL: his Path does not register that there is a Quieting at all — not 'his works and theirs doesn't' — there is nothing here to work against; the phenomenon is absent to him — delivered as UNDERSTANDING, not stated theory: between a made thing and a made thing there is no edge to feel. NOT 'the still place is the Quieting': he has written 'Not the Quiet' three times and the book does not unwrite it — STAGE the beat as Cael consciously revising his own sentence on the floor: 'Not the Quiet' stands; what he ADDS is that the floor and he are the same kind of made. He stands where the language was first written and feels the one thing the whole machine was built to prevent, which is NOTHING AT ALL, which is BELONGING, at the exact centre of the exact place designed to make certain he could never exist. He understands it is not coincidence. He does NOT have the word for what he is (Book 9's 'I am a recurrence' is withheld with total discipline). He walks back out across the floor to the eleven — five faces and one healer, and Teague's three, and Vastin — and does not tell them what the centre felt like (no words that would not be Book 9's; some findings you carry out before you say them); what he says at the line is small and true ('Nothing.' / Oryn: 'That's a finding.' / 'It's the same finding.'). THE LEDGER of the book, brief, in the series' Ch24 register: the Power Log inventory — thirteen confirmed (Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force); the anomaly a located, deepened, unresolved still place (now read by two instruments and understood by neither); Hesk's letter ANSWERED west — written at the fire and given to Teague, whose crew turns back toward Lowmarch at dawn past the stone at the pass (the alliance real, grieving, available; 'Spring's over.' / 'Noted.' / 'Next spring.' / 'Noted.'); Oryn's mule already angling north toward the route she never gave up — she goes at dawn, on her terms, with Karis's boxes off it and her roll on it ('The day I have to.' / 'Noted.' / 'Everybody says that.'); Vastin unadmitted, an ally who has not asked, and does not ask (Book 9's opening move left where the seam needs it); Karis with the case; Lira first; Brom; Seln's count. Close on the CLOSING PROSE LINE (fixed, card) with the ONE authorized amendment 'the whole book' → 'the whole year'; everything else verbatim; the file ends on 'That was as far as he could say.'",
+  "scene_shape": {
+    "opening_state": "Dusk on the 307th; Cael a stride inside the line with the straightedge in his hand and the eleven behind him; the floor a stone's throw to the middle by the eye and five hundred and six strides by the cord; the light along the floor; the turning turning.",
+    "pov_goal": "He wants to stand in the middle of it and feel what the oldest one does to him, and to enter it exactly, and to know, before he walks back, whether the thing at the middle of him is the case the machine could not parse or the reason it was built — and he already suspects the answer is a third thing, and wants to be honest about that.",
+    "opposition": "The floor's size; the eyes' cost; the wanting; his own three-times-written sentence; the eleven at the rim who will ask; the words that are not his yet.",
+    "turn": "At the centre: no difference to feel — not his Path working; nothing to work against — and the understanding that the floor and he are the same kind of made; belonging at the exact centre of the place built to prevent him.",
+    "choice": "He revises his own sentence honestly ('Not the Quiet' stands; he adds one line) and does not write the third sentence; he walks back out and tells no one what it felt like, and gives the small true things (the finding unchanged; the letter; the count) instead.",
+    "outcome": "The book's ledger closed: thirteen; the still place read twice and understood by neither; Hesk answered; Teague west; Oryn north; Vastin unadmitted; the five and a healer's empty chair; the seam.",
+    "closing_state": "The fixed closing prose, last paragraph, ending 'That was as far as he could say.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The crossing stride-counted; the twelfth run on the FLOOR at a hundred strides (the floor reads as the still place read; the eyes' cost paid).",
+      "The centre: NOTHING to feel; not 'his works' — nothing to work against; delivered as understanding; 'Not the Quiet' STANDS and is said again; what he ADDS: the same kind of made; belonging; he understands it is not coincidence; he does not have the word.",
+      "The return; Oryn's reading at the line — the same finding; he tells no one what the centre felt like.",
+      "The ledger: thirteen by name in the log; the still place read by two instruments and understood by neither; Hesk's letter (short) given to Teague for the west; Teague's crew back toward Lowmarch past the stone ('Next spring.' / 'Noted.'); Oryn north on her mule at dawn on her terms; Vastin unadmitted and not asking; Seln's dawn count.",
+      "Close on the fixed closing prose with 'the whole year'; the file ends on 'That was as far as he could say.' READER STANDARD."
+    ],
+    "plants": [
+      "'a third sentence past it, waiting' — Book 9",
+      "The floor and the still place one reading — Book 9's tomb",
+      "Vastin unadmitted — Book 9's opening",
+      "Teague 'Next spring' — Book 9+",
+      "Oryn's route — Book 9",
+      "The letter to Hesk — Book 9"
+    ],
+    "payoffs": [
+      "B7's 'mine works where theirs died' → no difference at the first one",
+      "Ch16's pole two ('I happened anyway') → belonging",
+      "Ch22's prediction ('Nothing … the loudest thing') → paid exactly",
+      "Ch23's 'Same as you' → not answered, carried",
+      "Ch17's log 'the first one they ever made' → stood in"
+    ],
+    "prohibited_outcomes": [
+      "No 'recurrence'; no explanation of what he is; no Architect will; 'the still place is the Quiet' NEVER; the court unnamed.",
+      "He tells no one what the centre felt like.",
+      "No log/dialogue/image closer; the closer is the fixed closing PROSE.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' once (fixed); no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The crossing's sensations within the card's images; the centre's look (nothing); the return; the night at the rim; the partings' small speech in each register; the letter's short text; the dawn order."
+    ],
+    "approval_required": [
+      "Any word for what he is beyond the fixed closing line's 'the pattern'."
+    ],
+    "forbidden": [
+      "'recurrence'; naming the court; unwriting 'Not the Quiet'; telling the crew the centre."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 23 (The First Quiet)",
+      "path": "v3-runs/book-08/drafts/ch23.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 22 — the inward reading; the log's register",
+      "path": "v3-runs/book-08/drafts/ch22.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 16 — pole two ('I happened anyway'); 'I want to stand in the middle of it'",
+      "path": "v3-runs/book-08/drafts/ch16.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 24 — the series' Ch24 register (the ledger; Hesk's note; the partings)",
+      "path": "books/book-07-void-roads/chapters/chapter-24.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 22 — 'Not the Quiet' written",
+      "path": "books/book-07-void-roads/chapters/chapter-22.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch24.md",
+    "report_path": "v3-runs/book-08/reports/ch24-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch24-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch24-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
