@@ -4,7 +4,7 @@
   "scene_id": "b8-ch10",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch10.md",
-  "word_count": 3935,
+  "word_count": 3921,
   "obligations": [
     {
       "obligation": "The Deepstacks as a place; the bell; the days",
@@ -60,7 +60,8 @@
     "Cleon's 'piece of that … ten years' is drawn from the Ch11 card's 'I've had a piece of it for a decade' — introduced a chapter early as a line, not a reading.",
     "Word count ~3,98x — in band.",
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence; no sexual content; conduct decent.",
-    "r2 (repairs of r1): Cleon goes ahead down the gallery with his own lamp (Ch9's close honoured); five walk the gallery; Ch11's fixed inventory (the ten-year piece; the stone; the sleeplessness) removed from Cleon's Ch10 speech; 'the morning's cost'; 'introduced' recast; 'Centuries of a country's paper' (the architecture's 'four centuries' overridden by planning — the number is not Cael's to reach); Karis says the retired word on the page ('Older than [UNBOUND]'); Cleon reads the sheet alone (the shelf kept for Ch11); 'a lifetime in offices' / 'in his life' (the 'forty years' arithmetic flagged to planning); 'metres'; 'in the log, in the plain hand'."
+    "r2 (repairs of r1): Cleon goes ahead down the gallery with his own lamp (Ch9's close honoured); five walk the gallery; Ch11's fixed inventory (the ten-year piece; the stone; the sleeplessness) removed from Cleon's Ch10 speech; 'the morning's cost'; 'introduced' recast; 'Centuries of a country's paper' (the architecture's 'four centuries' overridden by planning — the number is not Cael's to reach); Karis says the retired word on the page ('Older than [UNBOUND]'); Cleon reads the sheet alone (the shelf kept for Ch11); 'a lifetime in offices' / 'in his life' (the 'forty years' arithmetic flagged to planning); 'metres'; 'in the log, in the plain hand'.",
+    "r3 (direct, after r2 PASS_WITH_FINDINGS 1 MEDIUM/3 LOW): 'Three floors of it' cut from Cleon's Ch10 speech; the gallery light is Cleon's own gone ahead; 'and Cael would not have had it another way' cut."
   ],
   "blockers": []
 }

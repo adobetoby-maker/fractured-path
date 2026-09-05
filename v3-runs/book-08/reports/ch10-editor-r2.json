@@ -1,0 +1,292 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch10-r2-editor",
+  "scene_id": "b8-ch10",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "RECHECK F-01 — continuity persistence (Cleon's position vs Ch9's close)",
+      "state": "PASS",
+      "evidence": "REPAIRED. l.19 now reads 'He had gone ahead down the middle gallery with his own lamp while the hands got the boxes off the landing, and had been at the table long enough to find his line before they reached it.' 'by an hour' and 'Seln had said he would' are gone (grep 'by an hour' and 'Seln had said' over ch10.md: 0 hits). This follows Ch9 l.103 ('and Cleon, behind him, pulled the iron to') — he comes in last, shuts the door, then walks ahead while the hands shoulder the boxes. The key problem is dissolved: he never precedes the party through a door only he can unlock. Residual at l.11 filed as F-12."
+    },
+    {
+      "gate": "RECHECK F-02 — count over the declared scope",
+      "state": "PASS",
+      "evidence": "REPAIRED. l.17: 'five people and the sound of five people in a place that had not heard five people in longer than the walls had stood'. Count over the declared scope: four hands (Cael, Brom, Lira, Vastin) plus Karis = five below ground; Seln above (l.71, l.113 'Four hands; Seln above'); Cleon ahead at the table (l.19) and not in the walking party. l.27 'the four hands stood with the boxes against the chamber's wall' is consistent. grep 'six people' over ch10.md: 0 hits. Repaired coherently with F-01."
+    },
+    {
+      "gate": "RECHECK F-03 — Ch11 fixed closer not pre-paid",
+      "state": "PASS",
+      "evidence": "REPAIRED. The four pre-paid clauses are gone from l.41/45: grep over ch10.md for 'ten years', 'a decade', 'slept', 'the stone to put beside' returns 0. l.41 now withholds rather than spends: '\"I know that hand.\" He did not say from where.' l.45 keeps only the chapter's own beat: 'I had thought it would be a relief. It's not. It's the end of being able to be wrong.' Ch11 l.21 ('I've read this board for ten years and I've never once had a second thing with the same structure to put beside it') and Ch11 l.125's closer now arrive unspent. One residual echo ('Three floors of it' / 'You walked in with three floors') filed as F-13."
+    },
+    {
+      "gate": "RECHECK F-04 — meta-voice ('the chapter's cost')",
+      "state": "PASS",
+      "evidence": "REPAIRED. l.69: 'He catalogued it because it was the morning's cost and the cost was not his, and a man who keeps a ledger keeps other people's costs in it too.' grep -i \"chapter's cost\" over ch10.md: 0 hits. The unit of publication is gone from the narration; the sentence now names the thing itself and reads aloud inside the viewpoint."
+    },
+    {
+      "gate": "RECHECK F-05 — meta-voice ('how he was introduced')",
+      "state": "PASS",
+      "evidence": "REPAIRED in the term flagged. l.17 now opens 'That was the truest thing about the man and the first, and Cael would not have had it another way:'. The word 'introduced' is gone (grep: 0 hits) and the sentence's primary reading is now Cael's judgement of the man. A weaker presentation-order reading survives in 'and the first, and Cael would not have had it another way' — filed at LOW as F-14 rather than held open, since the meta noun that carried the defect has been removed."
+    },
+    {
+      "gate": "RECHECK F-06 — the archive's age (four centuries)",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "REPAIRED under EXC-B8-CH10-2. l.7: 'Centuries of a country's paper, if it was paper, in scripts that were not the Compact's and had not been anyone's for longer than the Compact had had a name'. grep -Ei 'four centuries|four hundred' over ch10.md: 0 hits. The Ch10 architecture card's 'four centuries' is overridden by the recorded planning ruling; the number stays with the Ch15 leaf, and the age Cael states is one he can reach."
+    },
+    {
+      "gate": "RECHECK F-07 — the word from the stratum said once, on the page",
+      "state": "PASS",
+      "evidence": "REPAIRED. l.37: 'Karis said it. \"Older than [UNBOUND],\" she said, as she had said it at a table in the autumn, once, as a stratum's limit and not as a meaning'. This is B7 Ch15's own formula ('It's older, I'll say once and not again, than [UNBOUND] — older than the word they retired'), so the turn is now rendered rather than reported. Count: 'UNBOUND' occurs exactly once in ch10.md. No gloss, no meaning, no 'before the Paths', no Architect — the seal holds."
+    },
+    {
+      "gate": "RECHECK F-08 — no matched text (Ch11's staged pairing)",
+      "state": "PASS",
+      "evidence": "REPAIRED. l.61: 'Cleon had drawn the Hall's fourth sheet toward him and was reading it alone'. The second bound text and the confirming nod are gone (grep 'nodding' / 'a bound thing open beside it': 0 hits). The licensed glimpse survives intact — 'it was on the mark's *bones* — on which of the lines that made it were holding the others up' — and the new clause 'a man who has been reading alone for thirty years does not say the thing until the thing is checked' converts the cut into a plant for Ch11's shelf."
+    },
+    {
+      "gate": "RECHECK F-09 — Vastin's career length vs age fifty-three",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "REPAIRED under EXC-B8-CH10-3. l.59: 'a man who has spent a lifetime in offices reading what other men filed'. l.77: 'who had never once in his life been on the near side of one with a pen stopped on him — did the thing a lifetime had built him to do'. grep 'forty years' over ch10.md: 0 hits. l.107 still carries 'a fifty-three-year-old man', so the age is on the page without an arithmetic partner. The series-level 'forty years' in Ch2/3/4 and in the Ch12 card's fixed log remains open at planning, per the exception."
+    },
+    {
+      "gate": "RECHECK F-10 — house orthography (metres)",
+      "state": "PASS",
+      "evidence": "REPAIRED. l.33: '\"Three floors. Two hundred metres each, to the line. A fourth we didn't go in.\"' grep -Ei '\\bmeters?\\b' over ch10.md: 0 hits. Consistent with l.7's 'a leather that had been a colour once'."
+    },
+    {
+      "gate": "RECHECK F-11 — 'the fixed hand' (audio survival)",
+      "state": "PASS",
+      "evidence": "REPAIRED. l.57: 'He wrote that down, later, in the log, in the plain hand, at the length it deserved, which was one line'. grep 'fixed hand' over ch10.md: 0 hits. 'In the log, in the plain hand' has its antecedent inside the clause and voices cleanly; 'plain' is also the pov contract's own word for the Power Log's register."
+    },
+    {
+      "gate": "REGRESSION — recorded strengths survived",
+      "state": "PASS",
+      "evidence": "All nine r1 strengths verified present and unaltered at the same lines (the repair was in-place; the file is still 115 lines): l.3 the inverted dark/lamp opening; l.7 the catalogue of record-forms and 'kept because a decision had never been made about them ... under a building whose whole purpose was to decide'; l.9 'a place where nothing had been decided'; l.27 Karis laying the fifty-two sheets in the order of the floors; l.45 'I had thought it would be a relief. It's not. It's the end of being able to be wrong.'; l.55 'Not would not. *Could* not.'; l.77–97 the lane, the three counts, Seln's not-saying, 'Don't be sorry. Be nobody.'; l.107–109 'it was not his to hand'; the verbatim log ending the file. Nothing was sanded away."
+    },
+    {
+      "gate": "REGRESSION — no unrelated passage rewritten",
+      "state": "PASS",
+      "evidence": "Word count moved 3,977 → 3,935 (-42), consistent with eleven targeted repairs of which four were net cuts (the ten-year inventory, the second text and the nod, 'by an hour', 'four'). Line count unchanged at 115; every r1 strength quote still matches at its original line number; no new scene, speech or paragraph appears. Revision discipline (Craft Core) held."
+    },
+    {
+      "gate": "Review order 1 — Authority: canon, timeline, state, viewpoint knowledge",
+      "state": "PASS",
+      "evidence": "Day 284 (l.9 'in nineteen years'; the first descent) into the 285th (l.71 'the two hundred and eighty-fifth morning'; l.113 'Two hundred and eighty-fifth day'). Cash 136 (l.113 'A hundred and thirty-six in hand; the inn paid to the week'). Four hands and Seln above (l.71, l.113) matches STATE_RUNNING l.68's count discipline. Vastin fifty-three (l.107). Fifty-two sheets in 11/29/12 (l.27). No mule; the boxes are carried by hand throughout (l.51, l.101) per EXC-B8-CH10-1. The Ch9→Ch10 seam is now clean (see F-01 recheck)."
+    },
+    {
+      "gate": "Review order 2 — Assigned obligations: must_include (7 items)",
+      "state": "PASS",
+      "evidence": "(1) the place: l.5 galleries/cut-marks/pinned timber, l.7 rolls, boards, bound leaves, hammered metal, a squared stone, a bundle of sticks 'that was ... the pattern itself', l.9 the smell, l.17 the always-lit lamp, l.63 the bell. (2) Cleon through his work, already reading: l.15–19. (3) Karis's want: l.27 the sheets in the order of the floors, l.37 the word once, l.39–45 recognition and the price of being believed, 'Give me a week.' (4) Vastin's hard scene: l.79 the reflex, l.91 the three counts, l.83 Seln walking it back, l.93 the cost. (5) the fellow-feeling filed: l.107–109. (6) unfiled felt before the log: l.55. (7) the fixed log verbatim, file ends on it."
+    },
+    {
+      "gate": "Review order 2 — Prohibited outcomes",
+      "state": "PASS",
+      "evidence": "No reading of the carvings as instructions (l.61 is bones only, and Cleon says nothing). No matched text (F-08 repaired). No [UNBOUND] meaning (l.37 is a stratum limit). No Architect, no still place, no six-year arithmetic, no fight, no reach, no station beyond the log's fixed 'a promise to keep about a station upstairs'. Vastin shows no papers (l.79 offers the name only). Seln is not on the count (l.71, l.113). Closer is the log, not an image or dialogue. Forbidden names grep (Halcenvane|Velmere|Wray|Bracken): 0. 'four hundred years': 0."
+    },
+    {
+      "gate": "Fixed line — closing log verbatim",
+      "state": "PASS",
+      "evidence": "Programmatic comparison of ch10.md's final paragraph against scene_shape.closing_state's quoted text returns MATCH, character for character, including the em dash and '[SHATTERED]'. The file ends on 'I can wait.'"
+    },
+    {
+      "gate": "Word band (3,910–5,290; target 4,600 ±15%)",
+      "state": "PASS",
+      "evidence": "3,935 words (run diagnostics: word_target_state=WITHIN_TARGET). In band, but 25 words above the floor after the repair removed 42 — see concerns."
+    },
+    {
+      "gate": "Tic caps (packet + Voice Charter §9)",
+      "state": "PASS",
+      "evidence": "Actual counts over ch10.md: one-word paragraphs 0 (cap 2); 'the way X [verb]' 2 — l.59 'the way she watched', l.61 'the way he knew' (cap 4, and no identical construction repeated); 'upside down' 0; capped phrases ('jaw tightened', 'laughed once', 'without humor', 'stomach tightened', 'stomach dropped', 'There it was', 'That was true', 'Also true', 'sounded almost', 'held this', 'which was, in its own way') all 0."
+    },
+    {
+      "gate": "Meta-voice",
+      "state": "PASS",
+      "evidence": "Was FAIL at r1 on two counts (F-04, F-05). A grep of ch10.md for chapter|scene|reader|narrat|the page|the story|the book, excluding the title line, returns three hits and all three are diegetic: l.19 'to throw light where a reader wanted it' (a person at a table), l.21 'Then to the end of the page' (a physical page), l.71 'a keeper had a book, and the book wanted the count' (the keeper's ledger). No craft noun survives in the narration. The residual presentation-order reading at l.17 is filed at LOW (F-14) rather than as a gate failure, because the meta noun is gone and a diegetic reading is available."
+    },
+    {
+      "gate": "Reader-trust invariant 1 — POV integrity",
+      "state": "PASS",
+      "evidence": "Was FAIL at r1 on the four-centuries dating. l.7 now gives 'Centuries ... for longer than the Compact had had a name', which is an age a nineteen-year-old cataloguer can reach from what is in front of him. l.19's 'a hand Cael knew from a ledger in a coat' and l.61's 'Cael could not have said how he knew that' are both marked as inference. Cleon's interiority is never entered; l.39 reads his face, not his mind."
+    },
+    {
+      "gate": "Reader-trust invariant 3 — continuity persistence",
+      "state": "PASS",
+      "evidence": "Was FAIL at r1. Injuries and states persist: Brom's shoulder (l.59 'with the shoulder still and forward and the foot out'), Vastin's knee and stick (l.59, l.73, l.101 'going down slowly, on the knee'), Lira's two arms (l.59). Possessions persist: the middle box and satchel (l.51, l.101), the kit's case with Vastin (l.53, l.73, l.93), Cleon's key and the iron door's mark (l.101)."
+    },
+    {
+      "gate": "Reader-trust invariant 5 — consequential scene",
+      "state": "PASS",
+      "evidence": "Four states change: the archive work begins under a one-week clock (l.45); the party becomes one a careful clerk has looked at twice (l.73, l.83); Vastin's proudest reflex becomes a liability he has no replacement for (l.93 'not a tool any more but a blade with no handle'); Cael's self-concept moves (l.55 'the first place inside a wall he had ever stood where nobody could file him')."
+    },
+    {
+      "gate": "Reader-trust invariant 7 — audio survival",
+      "state": "PASS",
+      "evidence": "F-11's opaque 'the fixed hand' is gone. '[UNBOUND]' at l.37 voices as 'older than unbound' and is glossed in the same sentence as 'the old word, the retired one', which is §8.2's own standard. The log at l.113–115 is speakable prose with no stat block or bare-number field. No meaning rests on italics."
+    },
+    {
+      "gate": "Voice Charter §8.4 — no authoring metadata in the chapter file",
+      "state": "PASS",
+      "evidence": "grep -E 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over ch10.md returns 0 hits; the file's last line is the log."
+    },
+    {
+      "gate": "Voice Charter §8.5 — dialogue attribution survives audio",
+      "state": "PASS",
+      "evidence": "Three-speaker lane scene (l.79–97): every line is attributed or beat-anchored — 'he said' (l.79), Seln's speech carried inside 'he said, over the man's sentence and through it, to the clerk' (l.83), the clerk's 'and said, \"Down. Out by the bell,\"' (l.83), 'he said. To the lane.' (l.95), '\"Don't be sorry,\" Seln said' (l.97). Longest unattributed run: 0. The two-speaker table scene (l.31–47) alternates with beats."
+    },
+    {
+      "gate": "Voice Charter §9 — scene-closer rule",
+      "state": "PASS",
+      "evidence": "Ch9 closes on an observed image ('the tiers closed, and the dark opened'); Ch10 closes on the log; Ch11 closes on dialogue. No immediate repeat."
+    },
+    {
+      "gate": "Voice Charter §10 — scene vs summary",
+      "state": "PASS",
+      "evidence": "grep -E 'heard about it later|learned afterward|was told later|found out later|by the time he heard' returns 0 hits. Both architecture-major beats are on the page in real time with geography: the table (l.27–47) and the lane (l.71–97). The only compression is l.63 (the day's end) and l.55's 'over the first hour', neither of which displaces a promised moment."
+    },
+    {
+      "gate": "Module: progression — editor gates 1–7",
+      "state": "PASS",
+      "evidence": "No rank or fragment moves in this chapter, so gates 1, 2 and 4 have nothing to measure and nothing is claimed. Gate 3 (progress changes something outside the measuring system): rank changes access downward — 'the rank was nothing at this level; the level had no column for it, and a rank that the form has no column for is a noise' (l.91). Gate 5 (institutions do not freeze): the clerk acts on his own care and stops his pen (l.73). Gate 7 (setbacks metabolized): l.93–97, Vastin named the problem and is given a direction ('Be nobody') without the arrival."
+    },
+    {
+      "gate": "THE AUTHOR — combat gates 9–16",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight in the chapter; the packet seals one ('no fight'). Gate 15 (compression scope) is covered under Voice Charter §10 above and passes."
+    },
+    {
+      "gate": "THE AUTHOR — gate 7 (sensory-vs-expository ratio in worldbuilding >150 words)",
+      "state": "PASS",
+      "evidence": "l.5 and l.7 run ~430 words of worldbuilding and are carried by sensory particulars — cut-marks, timber 'grey with age and dry as bone', ties 'gone to dust', 'a leather that had been a colour once', a bundle of sticks that is the pattern — with a single expository clause at the end of l.7. Sensory outnumbers expository well clear of the 2:1 fail line."
+    },
+    {
+      "gate": "THE AUTHOR — gate 23 (dramatized critique) and gate 25 (scheduled quiet)",
+      "state": "PASS",
+      "evidence": "Gate 23: the institution acts on a person on the page — the count entered each morning, the pen stopping on the fourth man (l.71–73) — rather than being criticised in a speech. Gate 25: l.55 is a full processing beat with no joke and no deflection."
+    },
+    {
+      "gate": "Gate 27 — Reader Standard (thirteen-year-old)",
+      "state": "PASS",
+      "evidence": "Banned-word grep over ch10.md (damn|damned|hell|god|gods|christ|jesus|bloody|bastard|piss|arse|ass|crap|shit) returns 0 hits. No sexual content, no innuendo, no romance. No violence and no gore anywhere in the chapter; the only physical cost is a knee that hurts from standing (l.73). Conduct: Cael keeps a confidence he could have spent (l.107 'it was not his to hand'), Vastin apologises in plain words (l.95), Seln's cover story is named on the page as what it is — 'a lie about a carter' (l.91) — rather than admired. Adults are not mocked; Cleon's thirty years are treated with respect (l.59). Wrong is named as wrong; nothing cruel is rewarded."
+    },
+    {
+      "gate": "Voice Charter §11 line 8 — State Ledger reconciled",
+      "state": "FAIL",
+      "evidence": "STATE_RUNNING.md l.76 ('After Chapter 10') still records Cleon's cut line as canon: \"Cleon: 'I have a piece of that. I've had it ten years.'\" That sentence no longer exists in ch10.md (grep 'ten years': 0 hits). The ledger and the repaired draft now disagree on what Ch10 spent. Filed as F-15."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-12",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity — residual of the F-01 repair",
+      "gate": "Craft Core — Reader-trust invariant 3 (continuity persistence); r1 F-01 repair_target (which named line 11)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch10.md",
+        "line_start": 11,
+        "line_end": 11,
+        "quote": "The lamp went on into the middle gallery, and there was a second light at the end of it that had not come with them."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch09.md",
+        "line_start": 103,
+        "line_end": 103,
+        "quote": "and Cleon, behind him, pulled the iron to, and the tiers closed, and the dark opened."
+      },
+      "consequence": "Under the r1 staging Cleon had been below for an hour, so his lamp genuinely had not come with them and line 11 was clean. The repair correctly moved him into the party at the door — Ch9 has him enter last and shut the iron behind Cael — and then sends him ahead with his own lamp (l.19). His lamp therefore did come with them, and the only light at the gallery's end that did not is the always-lit table lamp introduced eight lines later (l.17). A reader arriving at l.11 has no way to know that yet and will most naturally read the second light as Cleon's, which l.19 then contradicts. The line 11 clause named in the r1 repair_target was left unedited.",
+      "repair_target": "ch10.md line 11 — make the light the one that was already burning rather than one that did not travel ('a second light at the end of it that had been burning before they came', or 'a light at the end of it that nobody had carried down'). Do not restore the hour.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-13",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "pre-payment — residual of the F-03 repair",
+      "gate": "Scene packet — next_card 'Chapter 11 card ... do not pre-pay'; Craft Core authority ladder 3 (arc commitments)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch10.md",
+        "line_start": 41,
+        "line_end": 41,
+        "quote": "\"I know that hand.\" He did not say from where. \"You've brought it in off the ground. Three floors of it. Do you know what that is, to a man who's been sitting in a hole for thirty years being tolerated?\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 125,
+        "line_end": 125,
+        "quote": "\"In thirty years I never had the stone to match the text. You walked in with three floors.\" A beat. \"I don't think you're going to like what you've found, Karis. I've had a piece of it for a decade and I've never once slept well since.\""
+      },
+      "consequence": "Three of F-03's four pre-paid clauses are cleanly gone and the fourth (the sleeplessness) has been converted into a plant — 'you'll not sleep either' at l.45 — which Ch11 then explains. What survives is the fourth clause of the Ch11 closer's structure: Cleon crediting Karis with having brought him three floors, in the same speaker's voice, one chapter early and with the same shape. Ch11's 'You walked in with three floors' is fixed card text and cannot be moved, so on the page it will read as the same man making the same remark twice inside four days, which blunts the closer the card exists to protect. This is the smaller half of a HIGH finding, not a new defect, and it is the last piece of Ch11 still sitting in Ch10.",
+      "repair_target": "ch10.md line 41 — keep 'I know that hand.' and the withholding, and let Cleon name what is in front of him without crediting the delivery ('You've brought it in off the ground' → 'It's off the ground' / 'This came off a floor'), leaving 'You walked in with three floors' to Ch11. The word 'three floors' itself is Karis's at l.31–33 and can stay there.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-14",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "meta-voice — residual of the F-05 repair",
+      "gate": "Scene packet — prohibited_outcomes 'no meta-voice'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch10.md",
+        "line_start": 17,
+        "line_end": 17,
+        "quote": "That was the truest thing about the man and the first, and Cael would not have had it another way: they came down the middle gallery with the lamp and the boxes, five people"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/STATE_RUNNING.md",
+        "line_start": 68,
+        "line_end": 68,
+        "quote": "CLEON met at noon on the 283rd at the stair's foot: 'Off floors.' / 'Fifty-two sheets.' / his terms ('sit across from me and not talk until I've finished the page'). He stopped a step late."
+      },
+      "consequence": "The word 'introduced' is gone, which removes the defect's carrier. But 'and the first' still asserts a first-ness with no in-story referent — Cael met Cleon at noon on the 283rd, two days earlier, and this is not the first thing he has learned about him — and 'Cael would not have had it another way' still reads most easily as approval of an order of presentation rather than of a man. The colon then attaches the clause to the party's arrival, which is not what the clause is about, so the sentence is also harder to voice than it was. Low, because a diegetic reading (the first true thing the man showed anyone) is available and the meta noun is gone.",
+      "repair_target": "ch10.md line 17 — drop the ordering and the endorsement: 'That was the truest thing about the man, and Cael did not need a second.' Then let the colon do its work on what follows, or break the sentence.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-15",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "state ledger vs repaired draft",
+      "gate": "Voice Charter §11 line 8 (State Ledger reconciled); Craft Core — Revision discipline",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch10.md",
+        "line_start": 41,
+        "line_end": 45,
+        "quote": "\"I know that hand.\" He did not say from where. [...] Give me a week. Give me a week with these and the text and I'll tell you what you've got."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/STATE_RUNNING.md",
+        "line_start": 76,
+        "line_end": 76,
+        "quote": "The quarry's galleries; the record forms; the lamp always lit; CLEON already reading. The sheets laid out (11/29/12); the word said once; Cleon: 'I have a piece of that. I've had it ten years.' / 'Being believed … is the end of being able to be wrong.' / 'Give me a week.' Karis in the second chair."
+      },
+      "consequence": "The 'After Chapter 10' ledger entry still records the ten-year piece as spent on the 284th. The repair removed it from the draft, and Ch11 (already drafted, l.21 and l.125) is the chapter that now spends it. Any later seat reading the ledger rather than the prose — a Ch12+ packet compiler, a continuity sweep, a splice — will believe Ch10 established a possession the chapter no longer contains, which is exactly the class of drift F-01 and F-03 came from. The ledger also still says 'draft r1 with editor'.",
+      "repair_target": "STATE_RUNNING.md line 75–76 — update the 'After Chapter 10' entry to the r2 prose: replace the ten-year quote with 'Cleon: \"I know that hand.\" (from where, unsaid — Ch11)', note 'Older than [UNBOUND]' as the word said on the page, 'Centuries' not four, 'a lifetime in offices', five walking the gallery with Cleon ahead, and mark the entry r2. Not the author's job at the prose seat; route to the state-ledger step.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "3,935 words sits 25 above the band floor (3,910), down from 3,977 at r1 because four of the eleven repairs were net cuts. Any further trim fails the density gate. If F-12/F-13/F-14 are repaired, repair by substitution rather than deletion; the two unentered galleries named at l.5 remain the chapter's unspent asset if room is needed.",
+    "l.45 'Give me a week with these and the text' names a text Cleon has without describing it, and 'And then you'll not sleep either' presupposes his own sleeplessness. Both now function as plants that Ch11 pays (l.21, l.125) rather than as pre-payment, which is the right side of the line — but they are the boundary, and a further Ch10 pass should not add a third such hint.",
+    "l.19 'bound leaves in one hand, a hand Cael knew from a ledger in a coat' — carried over from r1 unrepaired (it was a concern, not a finding). The referent is still ambiguous: Karis's hand from her ledger, or Cleon's, seen where? One more word would settle it.",
+    "l.39 'For the length of a man deciding whether...' — the 'for the length of' scaffold is live for a second season. The exact capped phrase returns zero, but §9 warns specifically about a fresh repeated phrase replacing an old one.",
+    "l.83 is still a single ~180-word sentence carrying Seln's speech, the clerk's speech and the clerk's decision. It remains the chapter's best-built sentence and its hardest to narrate; a read-aloud pass should confirm it survives before the chapter is closed.",
+    "The author report (ch10-author-r2.json) is stale against its own repaired draft: obligations[1] still quotes 'That was the whole of how he was introduced', and inventions[1] and deviations[0] still claim Cleon's ten-year piece as delivered. The report is a navigation aid and not evidence, so nothing is filed against it, but a reader of the report alone would mis-describe the chapter.",
+    "The meta-voice pattern F-04/F-05 named is two chapters old — Ch9 l.67 carries 'That was the thing he catalogued, afterward, as the chapter's finding' and was passed at its own gate. Ch10 is now clean; Ch9 is not. This wants a decision above the chapter level: a sweep, or a recorded exception.",
+    "Karis still has four short speeches in the chapter the packet calls her want 'fully served'; the staging at l.27 carries her, and F-07's repair now gives her the chapter's turn in her own mouth, which improves this. Recorded as watched, not as a defect."
+  ],
+  "strengths": [
+    "l.3 'The dark did not give the lamp back, and then it did, a little at a time, in the order the lamp asked for it.' — inverts Ch9's closing image and makes the chapter open as a continuation rather than a restart. Survived the repair pass untouched. Preserve.",
+    "l.7's catalogue of record-forms by shape — rolls, boards, bound leaves, a hammered metal sheet, a squared stone, a bundle of sticks that is itself the pattern — does the worldbuilding through the one instrument the viewpoint owns, and 'kept because a decision had never been made about them, in a hole, in the dark, under a building whose whole purpose was to decide' is the book's argument in one clause. The r2 change of 'Four centuries' to 'Centuries' cost the sentence nothing.",
+    "l.9 the smell rendered as 'a place where nothing had been decided' — the packet asked for the smell of centuries and got it as character rather than atmosphere.",
+    "l.27 Karis laying the fifty-two sheets: no dialogue, the order of the floors, the lamp moved once. The turn's setup staged in objects, which is the series' method at its best.",
+    "l.37 (NEW at r2) '\"Older than [UNBOUND],\" she said' — the F-07 repair puts the chapter's declared turn on the page in B7 Ch15's own formula, said once, with the seal intact, and the surrounding narration ('the old word, the retired one') keeps it intelligible aloud without glossing it. The beat is now performed rather than reported. Preserve exactly; do not add a second use.",
+    "l.41 (NEW at r2) '\"I know that hand.\" He did not say from where.' — the F-03 repair converts a spent inventory into a withholding, and the withholding is more characterful than what it replaced: a careful man who does not say the thing until the thing is checked. This is the model for how the remaining F-13 residual should be handled.",
+    "l.45 'I had thought it would be a relief. It's not. It's the end of being able to be wrong.' — exactly the card's 'hoped for and dreaded', found as a sentence rather than described as a feeling.",
+    "l.55 the unfiled paragraph, and 'Not would not. *Could* not.' — the must_include felt on the page before the log states it, with the reason built into the physical fact rather than asserted.",
+    "l.61 (IMPROVED at r2) the bones sentences with the second text and the nod removed, closing on 'a man who has been reading alone for thirty years does not say the thing until the thing is checked' — the licensed glimpse of Rune's civil face is intact and the cut has been turned into a plant for Ch11's shelf. A stronger paragraph after the repair than before it.",
+    "l.77–97 the lane: the three counts land in the order the card names, Seln's silence is the cost ('the not-saying was the worst thing Cael had ever seen Seln do to a man, because Seln said a thing once and this was the once and he was not spending it'), and 'Don't be sorry. Be nobody.' gives Vastin a road without giving him the arrival.",
+    "l.107–109 Cael keeps the one thing he could offer and the narration says why — 'it was not his to hand; the man would learn it or he would not, and the learning was the man's' — which is the fellow-feeling filed rather than felt at the reader.",
+    "The closing log is verbatim against the card, character for character, and the file ends on it."
+  ]
+}
