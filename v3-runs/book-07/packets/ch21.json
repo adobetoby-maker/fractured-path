@@ -138,7 +138,15 @@
     }
   ],
   "verified_findings": [],
-  "exceptions": [],
+  "exceptions": [
+    {
+      "id": "EXC-B7-005",
+      "approver": "author/orchestrator seat (planning layer, Fable) — owner-delegated loop authority; EXC-B7-001 precedent",
+      "scope": "Chapter 21: the afternoon's trials are run from the hall's OUTER coping, inside the Quieting's perimeter (the party crosses the line on the causeway, runs the trials, and camps back outside the line at dusk); the packet's 'from OUTSIDE the line' is read as 'off the flooded floor, outside the hall'",
+      "authority": "geometry established by the packet itself (a two-hundred-meter perimeter around a hall; the hall twelve strides square at its centre) — nothing thrown from the line can reach the water; charter §4.8 departed-and-returned",
+      "reason": "The packet requires both trials from outside the line and Cael's fixed-point trial from the wall's top, which cannot both hold at a 200 m radius. The cold test and the fairness law are preserved; the boundary crossings are staged (Oryn's hands at the stride, in and out); the danger is the floor, and nobody stands on it until first light."
+    }
+  ],
   "output": {
     "draft_path": "v3-runs/book-07/drafts/ch21.md",
     "report_path": "v3-runs/book-07/reports/ch21-author-r1.json",
