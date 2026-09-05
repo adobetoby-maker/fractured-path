@@ -4,7 +4,7 @@
   "scene_id": "b8-ch12",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch12.md",
-  "word_count": 4564,
+  "word_count": 4625,
   "obligations": [
     {
       "obligation": "Geography drawable before the first exchange",
@@ -61,7 +61,8 @@
     "No Anchor course laid in the alley (the packet allowed one); the sixth man's signalling role serves the coordination beat instead.",
     "Word count ~4,4xx — in band.",
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; a fight with cost and without gore (a shallow hand cut; a knee); nobody killed or hit twice; the two beaten men let go; no sexual content.",
-    "r2 (repairs of r1): the team is SIX (four above: three on the first flight and the fourth — the signaller — on the landing; two below); Cael at the plane's foot on the second flight's last step, two feet below it (one distance held); the capped phrases replaced with distinct measures; the faction's limit entered as a finding after Seln; the notice's fourth slot 'Iron family'; the two below given their reason (Brom and the boy on the protected side); 'the ten'; Karis's hand as inference from Oryn's pricing. Notice format: italic prose per the packet (planning holds it — B7's fenced block is the log's older form)."
+    "r2 (repairs of r1): the team is SIX (four above: three on the first flight and the fourth — the signaller — on the landing; two below); Cael at the plane's foot on the second flight's last step, two feet below it (one distance held); the capped phrases replaced with distinct measures; the faction's limit entered as a finding after Seln; the notice's fourth slot 'Iron family'; the two below given their reason (Brom and the boy on the protected side); 'the ten'; Karis's hand as inference from Oryn's pricing. Notice format: italic prose per the packet (planning holds it — B7's fenced block is the log's older form).",
+    "r3 (direct, after r2 PASS_WITH_FINDINGS 2 HIGH carry-back/1 LOW): Cael's move to the second flight's top staged after Vastin's plane goes up; 'three of the four at the top came down'; 'the four of them were four shapes'; 'counted as a fighter'. Verified by grep; closed."
   ],
   "blockers": []
 }

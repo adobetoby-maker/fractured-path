@@ -1,0 +1,346 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch12-r2-editor",
+  "scene_id": "b8-ch12",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Recheck — repair discipline (craft core §Revision discipline): only verified findings repaired, no opportunistic rewriting",
+      "state": "PASS",
+      "evidence": "Diffed the r1 draft (commit 4079c84) against the repaired draft (ea8757f) over drafts/ch12.md: eleven changed paragraphs and one inserted paragraph, every one of them inside an r1 finding's declared repair target (L27, L43, L65, L71, L79, L85, L91, L99 new, L103, L105, L109, L111, L127). Zero changes outside the finding set; no paragraph reordered, deleted or merged; the four scene breaks, the dialogue block (L115-123) and the closing log are byte-identical to r1."
+    },
+    {
+      "gate": "Recheck — r1 F-001 (team count) closed?",
+      "state": "FAIL",
+      "evidence": "PARTIAL. The seventh body is gone and the arithmetic now closes in five of the six cited places: L65 rewritten to 'Three of the four above the plane had come down onto the first flight. The fourth had not.'; L71 'And the three at the plane'; L79 'The three at the plane went back up'; 'the sixth man's cord' -> 'the fourth man's cord'; the log at L127 now reads 'one of the six on the landing to say when'. But the repair was not carried back to L27, which still has all four of the top group coming down and striking the plane, and not carried forward to L79's 'the six of them were six shapes on a landing'. See findings F-201 and F-203."
+    },
+    {
+      "gate": "Recheck — r1 F-002 (two feet / Cael's station) closed?",
+      "state": "FAIL",
+      "evidence": "PARTIAL. One distance is now used in all four places: L27 'from two feet below it, looking up'; L85 'who was two feet below him ... went up the two feet'; L105 'He had stood two feet from it' and 'had watched, from two feet'. The packet's staging condition (two feet, a counted minute, notice after) is on the page. The position that would make two feet true is not: L105 relocates Cael to 'the second flight's last step' while L11, L25 and L55 keep him on the third flight for the whole fight, and no movement is staged between them. See finding F-200."
+    },
+    {
+      "gate": "Recheck — r1 F-003 (capped phrase 'for the length of a breath' = 0) closed?",
+      "state": "PASS",
+      "evidence": "CLOSED. grep -io 'the length of a breath' over the draft returns 0. L71 now reads 'and were, for a count of three, six people who did not know what to do' and L79 'had understood, in the time it takes a man to draw one'. The two replacements are different measures from each other, as the repair target required."
+    },
+    {
+      "gate": "Recheck — r1 F-004 (the faction's knowledge in Cael's register) closed?",
+      "state": "PASS",
+      "evidence": "CLOSED. A new paragraph at L99, sited exactly where the repair target asked (after Seln's assessment, before 'And Vastin.'), and in Cael's cataloguing register rather than dialogue: 'Cael entered the limit under it, as a finding and not an aside: the six now held the inn, the hour and the route, and what they had seen was a plane and a rock in an alley; what they had *not* seen was what a Path did inside quiet ground'. All three parts of the obligation are now present — what they hold, what they do not, and that they saw an alley — and the last clause ('a team that built for a declaration in a cut would build for something else at a line, and he did not know what') plants Ch21 without pre-paying it."
+    },
+    {
+      "gate": "Recheck — r1 F-005 (notice tier field) closed?",
+      "state": "PASS",
+      "evidence": "CLOSED. L111's fourth slot reads 'Iron family' and the notice still ends 'Tier equivalent unknown'; the field can no longer be read as the tier answered twice, and it no longer contradicts 'a Silver-tier plane' at L85. The ordinal gloss is also correct against state: the running state's Ch7 reading lists the ten currents in order (Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide), so 'Distinct from the third — Iron-adjacent, the bed' names Brom's Iron fragment by its true ordinal and by the state document's own gloss ('Iron the bed')."
+    },
+    {
+      "gate": "Recheck — r1 F-006 (win-sentence: Cael AND Brom are the reason) closed?",
+      "state": "PASS",
+      "evidence": "CLOSED at the line the repair target named. L43 now reads 'They had a crossbow at the top for the loud one and two staves at the bottom for the rest — for the big one who had righted a cart in a yard where anyone could watch, and for the boy from the report, both of them on the wall's protected side'. This supplies the two from below with the motive the r1 draft lacked, pairs Brom with Cael as the cost of ignoring the plane, and is anchored in prior prose: ch11.md's 'A broker's cart ... he did it without a Path ... with the good shoulder and his back'."
+    },
+    {
+      "gate": "Recheck — r1 F-007 ('for/in the length of a [X]' scaffold) closed?",
+      "state": "PASS",
+      "evidence": "CLOSED, and further than asked. grep -io '\\(for\\|in\\) the length of a [a-z]*' over the whole draft returns 0 occurrences, down from five. L85's doubled use is replaced by a contrast of real durations ('for a minute and some is not a plane held across a road for the seconds a charge takes'), L103 by 'while the man's breath came back', L105 by 'for the whole of it'."
+    },
+    {
+      "gate": "Recheck — r1 F-008 ('the nine' with no antecedent) closed?",
+      "state": "PASS",
+      "evidence": "CLOSED. L109 now reads 'the thing had gone into him the way the ten had gone in', matching the book's stated inventory ('ten things in him', L11; 'all ten going round', ch07.md) and the 'Eleventh' at the end of the notice and the log."
+    },
+    {
+      "gate": "Recheck — r1 F-009 (Oryn's rule reported instead of inferred) closed?",
+      "state": "PASS",
+      "evidence": "CLOSED, in the exact form the repair target proposed. L91 now reads 'No healer inside the gate would put hands on an unranked woman's hand: Oryn had priced a Copper's shoulder at a fire, and a hand with no column at all was the same arithmetic, further down'. The colon makes the sentence Cael's extension of Oryn's pricing rather than a quotation of something she said, and the harder version ('further down') is now on the page."
+    },
+    {
+      "gate": "Recheck — recorded r1 strengths survived the repair",
+      "state": "PASS",
+      "evidence": "All seven r1 strengths verified intact in the repaired file: the Ch4-to-Ch12 argument ('On a road the ground had said go round. Here the ground said there is no round.', L27) and its mechanism (L31) untouched; Seln's beat and the cache reveal (L61-73) changed only in the count words, with 'Nobody died. Nobody was cut. The signal stopped.' and 'they had never once looked up' intact; the reader-standard conduct (L47, L51, L79) untouched; the crew's cost vocabulary (L91-95) untouched except the F-009 clause, which sharpens it; Vastin's aftermath speech (L117-121) byte-identical; the closing refusal (L123) byte-identical; and mechanical hygiene improved rather than degraded (see the §9 and §10 gates)."
+    },
+    {
+      "gate": "Authority — canon reveal schedule (no SECRET disclosed early)",
+      "state": "PASS",
+      "evidence": "Re-run on the repaired draft: grep -ioE 'Architect|Arbiter|\\bstation\\b|\\bsquare\\b|\\bclerk\\b|\\bregistry\\b' returns zero hits across all 129 lines. No archive content is spoken to anyone; the Deepstacks material is referred to only as 'the boxes' and 'the cache'. The new L99 discusses what the faction does NOT know about quiet ground and discloses nothing about it to the reader that Book 8 has not already established."
+    },
+    {
+      "gate": "Authority — exception EXC-B8-CH12-1 (planning rulings rows 16-21)",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "Row 16 (no mule in Treswick): grep -ci mule returns 0; the boxes are carried by hand and the kit's case is Vastin's (L11). Row 17 (Cleon's Path/tier): Cleon does not appear. Row 20 (Vastin's 'forty years' is his own rounding at fifty-three, no per-chapter repair): L121 'in forty years' and the fixed log's 'forty years' stand unrepaired, as the ruling requires. Rows 18, 19, 21 do not govern this chapter. None of the r2 repairs touched a ruling-governed line."
+    },
+    {
+      "gate": "Authority — exception EXC-B8-CH12-2 (notice format: italic prose is Book 8's log form)",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "The r1 seat left this NEEDS_HUMAN_JUDGMENT; the r2 packet carries the planning ruling that the italic-prose acquisition notice is Book 8's log form across Ch12/13/19 and that the fenced block is not required. L111 is italic prose in the log's register with no header and no stat block, which is the approved form. The r1 concern is therefore withdrawn as a defect and retained only as a series-level note."
+    },
+    {
+      "gate": "Reader Standard (Gate 27) — clean language, moral goodness, violence with cost, no gore, no sexual content",
+      "state": "PASS",
+      "evidence": "grep -icE '\\bdamn|\\bhell\\b|\\bhells\\b|\\bbastard|\\bcrap|\\bbloody|\\bgod\\b|\\bchrist|\\bdevil|\\bcurse|\\bswore' returns 0 on the repaired draft. No sexual content. Violence carries cost and no gore: the worst injury described is 'a cut, on the back of the left hand, shallow' (L91) and a knee that goes under a man (L85); the one bleeding image is measured, not dwelt on ('bleeding as a shallow cut on a hand bleeds, which is more than it should'). The crew kills nobody, hits nobody twice ('He did not hit the man again. He had not needed to.', L47; 'Nobody hit twice.', L53), puts a knife into a stave's shaft rather than a man (L51), removes a signaller with a cord ('Nobody died. Nobody was cut.', L69), and lets two beaten men walk out untouched (L79). 'None taken. No faces. Nobody dead.' (L81). The repaired lines add nothing to the violence; L43's new clause is motive, not injury."
+    },
+    {
+      "gate": "Packet — closing log verbatim and the file ends on it",
+      "state": "PASS",
+      "evidence": "Character-for-character comparison of L129 (stripped of its italic markers) against the card's fixed text at packet L475/L1271: exact match, 437 characters including the em dash and every apostrophe. The file's last content line is that log and nothing follows it. L127's ledger line was edited by the repair ('a sixth on the landing' -> 'one of the six on the landing to say when') but L127 is not fixed text; the fixed paragraph is L129 and it is untouched."
+    },
+    {
+      "gate": "Packet — prohibited outcomes: capped phrases 0",
+      "state": "PASS",
+      "evidence": "'for the length of a breath' 0; 'in the length of a breath' 0; the whole 'for/in the length of a [X]' family 0; 'upside down' 0; 'at the pitch' 0; forbidden names (Halcenvane|Velmere|Wray|Bracken) 0; one-word paragraphs 0; 'the way X [verb]' 2 of a permitted 4, both at L109."
+    },
+    {
+      "gate": "Packet — obligations: geography drawable before the first exchange",
+      "state": "FAIL",
+      "evidence": "The horizontal plan remains exemplary and unaltered (L5: twenty-two steps in five flights, a stride and a half wide, sheer three-man walls with no doors, the landing above, the inn's yard gate below; L11 places all five of the party plus the six). The vertical still fails at the decisive position, and now fails differently than it did in r1: the repair fixed the number and moved Cael in one sentence without moving him in the three sentences that place him. See finding F-200."
+    },
+    {
+      "gate": "Packet — obligations: four exchanges, each changing something, >=2 terrain-caused",
+      "state": "PASS",
+      "evidence": "Four exchanges, delineated by scene breaks and named in-text: (1) the plane wall to wall, the crossbow spent into it (L23-31, terrain-caused); (2) 'That was the second thing' — the staves meet Brom's rock and back and Lira's drop, and both men are down and disarmed (L41-57, terrain-caused: 'the one direction the walls do not close: down'); (3) 'That was the third thing' — the cord from the roof takes the coordination and the cache is revealed to have been overhead (L61-73); (4) 'The fourth thing was that they left' (L77-81). Position, information, resource and injury each change at least once, and the repair did not disturb the structure."
+    },
+    {
+      "gate": "Packet — obligations: the win-sentence on the page in the removal form",
+      "state": "PASS",
+      "evidence": "Both halves are now present. Removal one: 'There was no flank. There was no scree for a hound to take slow ... every other way to the party was round by the ring road and up through the yard gate, which was a hundred strides and a minute' (L31). Removal two, previously delivered for Cael alone, now names the pair as the cost: L43's 'for the big one who had righted a cart in a yard where anyone could watch, and for the boy from the report, both of them on the wall's protected side', paid off at L55 ('the wanting was the cost of the plane, and he was the cost') and at L57 ('Someone else has to be the reason ... He was it.')."
+    },
+    {
+      "gate": "Packet — obligations: integration staged per Continuity Rule 6 (a full minute, two feet, notice after)",
+      "state": "PASS",
+      "evidence": "The minute is counted in character ('a minute; he had counted it, because he counted things, and it had been a minute and some', L105); the two feet is now single-valued across L27, L85 and L105; the fragment lands during the fight but is not attended to until after ('he had felt it go and had not looked at it, because he was being the reason and the reason does not look away. He looked now.', L109), and the notice renders at L111 in the approved prose form with holding named against hardening. The residual geography defect is logged under the drawability gate as F-200; the obligation's three staged elements are on the page."
+    },
+    {
+      "gate": "Packet — obligations: costs ledgered forward",
+      "state": "PASS",
+      "evidence": "Unchanged by the repair and still complete: Vastin 'spent past a road' with the Ch4 knee recurring on the eleventh day (L85; day 290 against the border-road cut on the 279th, and the state file's Ch4 correction fixes the wound as the knee); Karis's shallow left-hand cut bound with thread, a shirt strip, a good hand and teeth (L91); Brom's bound shoulder carried and the good one used wrong (L93); Lira's twenty-five days (L95); Seln's cord deliberately left findable (L97). All five recur in the log at L127."
+    },
+    {
+      "gate": "Packet — obligations: the faction's knowledge stated in Cael's register",
+      "state": "PASS",
+      "evidence": "Delivered by the new L99. Scope searched: every occurrence of 'quiet ground', 'the Quiet' and 'declaring' in the repaired draft (L11, L43, L55, L99). L11/L43/L55 remain the team's belief about the crew; L99 is now the limit of that belief, entered by Cael as a finding, and it matches planning ruling row 10 ('the Compact knows the crew walked out declaring, not what works inside') and the card's 'it saw a fight in an alley; it did not see quiet ground'."
+    },
+    {
+      "gate": "Packet — prohibited outcomes: no killing, no faces, no names, none taken, no Iron Wall use, log closer",
+      "state": "PASS",
+      "evidence": "'None taken. No faces. Nobody dead.' (L81); no team member is named or facially described anywhere in 129 lines; Cael does not use the fragment ('He read it once and let it stand and did not use it. There was nothing to use it on; the cut was empty.', L113); no Rune integration; no burst, station or square; the chapter closes on the log, not an image or dialogue, and Ch11 closed on dialogue."
+    },
+    {
+      "gate": "Charter §4.2 — exchange structure and cadence contrast",
+      "state": "PASS",
+      "evidence": "The hinges still land as short paragraphs against long ones: 'Nobody declared.' (L45), 'Lira told him.' (L49), 'Seln removed it.' (L67), 'And he had it.' (L107), 'And Vastin.' (L101). The inserted L99 is a single long sentence placed between Seln's dialogue and 'And Vastin.', which is the quietest seam in the aftermath and the one place a finding-shaped paragraph does not break a beat."
+    },
+    {
+      "gate": "Charter §4.3 — momentum and cost conserved",
+      "state": "PASS",
+      "evidence": "Fatigue now discriminates rather than repeats: 'a Silver-tier plane held across a cut for a minute and some is not a plane held across a road for the seconds a charge takes' (L85) states the cost difference in durations instead of the r1 scaffold. Prior injuries persist unhealed throughout: Brom's bound shoulder carried and unused, Lira's arm at twenty-five days, Vastin's Ch4 knee."
+    },
+    {
+      "gate": "Charter §4.4 — the winner removes the loser's options",
+      "state": "PASS",
+      "evidence": "Writable from the text and now correctly attributed on both sides: Vastin removes the flank (L31); Seln removes the coordination (L69-71, 'a signal is a coordination, and a coordination is a thing you can remove'); and the pair on the protected side removes the option of ignoring the plane (L43 + L55)."
+    },
+    {
+      "gate": "Charter §4.5 — losses teach; Ch4's lesson paid",
+      "state": "PASS",
+      "evidence": "'*Someone else has to be the reason.* He had the sentence now. He had had it since a road. He was it.' (L57), against ch04.md's rooted man who could not chase. The new half is stated as new at L31 ('He saw the other half now, in a cut, which the road had not shown him: that in a corridor with sheer walls, a wall that cannot move does not need to')."
+    },
+    {
+      "gate": "Charter §5.1 — system text anchored to a perceiving character",
+      "state": "PASS",
+      "evidence": "'he put his attention where the thing was, the way he had been taught to on a table, and it rendered.' (L109) precedes the notice at L111, and the reading is acknowledged after ('He read it once and let it stand', L113). Nothing renders during the fight."
+    },
+    {
+      "gate": "Charter §5.2 — fragment notice format",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "Covered by EXC-B8-CH12-2. The italic-prose form at L111 is Book 8's log form by planning ruling; B7 Ch13's fenced block is the older form and is not required here."
+    },
+    {
+      "gate": "Charter §5.3 / Continuity Rule 6 — integration cites witnessed use of the component",
+      "state": "PASS",
+      "evidence": "Iron Wall's prior witnessed use is cited at L25 ('Cael had seen it done once, on a road, across a cut with ice in it, and had learned then what a wall was and what it cost'), and the component is watched at length in this chapter before the fragment lands (L23-31, L105). The notice names the source ('Vastin') and the family, and distinguishes it from the third fragment."
+    },
+    {
+      "gate": "Charter §5.5 / LitRPG gate 2 — values match the approved state snapshot",
+      "state": "PASS",
+      "evidence": "The tier collision is gone ('Iron family' + 'Tier equivalent unknown', L111). Inventory reconciles: 'ten things in him' (L11), 'the way the ten had gone in' (L109), 'Eleventh' (L111 and L129). Cash reconciles: 'A hundred and thirty-six in hand' (L127) against the state file's 'Cash 136'. The ordinal gloss 'the third — Iron-adjacent, the bed' matches the state file's Ch7 reading list, in which Iron is third and glossed 'the bed'."
+    },
+    {
+      "gate": "Charter §8.2 / §8.3 — audio survival; system text reads aloud",
+      "state": "PASS",
+      "evidence": "The notice at L111 is speakable end to end, with no bare numerals, tables or punctuation-dependent meaning, and its one shorthand is glossed inside the block. The two new measures also survive aloud: 'for a count of three' (L71) and 'in the time it takes a man to draw one' (L79), the second at a slight cost in antecedent clarity that is logged in concerns rather than as a defect. Stripping the italics from L127/L129 loses nothing; both announce themselves as written record at L123."
+    },
+    {
+      "gate": "Charter §8.4 — no authoring metadata in the chapter file",
+      "state": "PASS",
+      "evidence": "grep -cE 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over drafts/ch12.md returns 0. The repair introduced no editorial marker, no bracketed note and no changelog line."
+    },
+    {
+      "gate": "Charter §8.5 — dialogue attribution survives audio",
+      "state": "PASS",
+      "evidence": "Untouched by the repair and still clean: Karis at L91, Brom at L93, Seln at L97, and the Cael/Vastin two-hander at L115-121 with named tags at each turn. The inserted L99 contains no dialogue and does not sit between a speech and its tag."
+    },
+    {
+      "gate": "Charter §9 — tic caps and anti-tic list",
+      "state": "PASS",
+      "evidence": "The r1 FAIL is cleared. Zero-cap phrase 'for the length of a breath': 0 (was 1 verbatim + 1 near-variant). The 'for/in the length of a [X]' scaffold: 0 (was 5). 'the way X [verb]': 2 of 4. One-word paragraphs: 0 of 2. 'upside down': 0. 'at the pitch': 0. Forbidden names: 0. The two replacement measures are distinct from each other and neither is repeated."
+    },
+    {
+      "gate": "Charter §9 — scene-closer rule",
+      "state": "PASS",
+      "evidence": "ch11.md ends on Cleon's dialogue; ch12.md ends on the fixed log (L129). No two consecutive chapters end on the same move, and the packet's prohibition on an image or dialogue closer holds."
+    },
+    {
+      "gate": "Charter §10 — density (word band 3,910-5,290)",
+      "state": "PASS",
+      "evidence": "Run diagnostics report 4,564; my own count excluding the H1 and the four separators is 4,552, against a target of 4,600 +/-15% = 3,910-5,290. The repair added a net ~157 words (the L99 paragraph plus the L43 clause), moving the draft closer to target than r1's 4,395. No promised dramatic beat is summarised; Seln's off-POV beat is explicitly reconstructed on the page."
+    },
+    {
+      "gate": "Craft core — point-of-view integrity",
+      "state": "PASS",
+      "evidence": "The one unwitnessed beat is still framed as reconstruction ('Cael did not see it. He saw the result ... and drew the rest afterward', L63; 'he had been there, Cael worked out later', L69), and Cael's ignorance is preserved ('a word Cael did not catch and did not need to', L65). The new L99 is explicitly Cael's own inference and is marked as one ('Cael entered the limit under it, as a finding and not an aside ... and he did not know what'), so it reads as inference rather than fact."
+    },
+    {
+      "gate": "Craft core — continuity persistence and count integrity (the cataloguing narrator, §3.1)",
+      "state": "FAIL",
+      "evidence": "The total is now six everywhere it is stated, and the log at L127 agrees. But the chapter's own catalogue is contradicted twice inside the repaired area: L27 still has all four of the top group coming down and striking the plane while L65 now says only three did; and L65's account of what Cael miscounted ('the one he had counted as a stave') contradicts the catalogue he actually made at L11 ('A crossbow above. Staves below.'). See findings F-201 and F-203."
+    },
+    {
+      "gate": "Combat module gate 1 — stakes precede the decisive exchange",
+      "state": "PASS",
+      "evidence": "L11 lays out the trap's logic before a blow lands, unchanged: 'a burst that would have been the loudest thing in the cut and would have brought a bolt down it from the top in the beat after, which was, he understood, what the crossbow was for: they had come for practitioners.'"
+    },
+    {
+      "gate": "Combat module gate 2 — positions and movement legible",
+      "state": "FAIL",
+      "evidence": "Two provable position defects remain after the repair: Cael is placed on two different flights for the same stretch of the same fight (F-200), and the top group's strength on the first flight is stated as four at L27 and three at L65 (F-201). A third, softer instance carried over from r1 and untouched: Lira is placed on the second flight at L11 and 'came off the second flight's edge onto the man's shoulders from above' (L51) onto a man engaged on the fourth flight, which is a two-flight drop."
+    },
+    {
+      "gate": "Combat module gate 3 — actions respect balance, reach, injury, equipment, established ability",
+      "state": "PASS",
+      "evidence": "Brom's healer's order is quoted and kept ('did not go hard, because a healer had said not a door, not a box, not a man', L47), he uses the good shoulder from the wrong side and pays for it (L93), and the Iron Skin restraint cites its established cause ('he had learned at a ford that Iron Skin was a shout'). Vastin cannot move while rooted (L29-31), per the Ch4 reference. The repair changed none of this."
+    },
+    {
+      "gate": "Combat module gate 4 — named combatants use distinguishable tactics",
+      "state": "PASS",
+      "evidence": "Five different solutions to one corridor, unaltered: Vastin roots and cannot move; Brom uses mass, a loose rock and his back, then stands on the stave rather than strike again; Lira uses the only open direction, down; Seln works a roof and a cord and is never seen; Cael's contribution is stillness, which the chapter argues for explicitly."
+    },
+    {
+      "gate": "Combat module gate 5 — the pivotal decision and its consequence are causally legible",
+      "state": "PASS",
+      "evidence": "The removal chain is stated before it is used and survived the recount: the group is waiting on a signal to go round by the ring road (L71); the signaller is on the landing (L65); the cord ties his signalling arm to the rail (L69); therefore they 'did not get the word' and stall (L71). No spectacle hides the cause."
+    },
+    {
+      "gate": "Combat module gate 6 — the fight changes a non-damage story state",
+      "state": "PASS",
+      "evidence": "Four now: the eleventh fragment (L109-111); the faction's certainty of the crew's movements (L97); the limit of that certainty, newly entered (L99); and Vastin's standing with the crew, said aloud for the first time ('I put the wall in front of it anyway. I'd like that entered somewhere, since I'm not the one who keeps the ledger any more.', L121)."
+    },
+    {
+      "gate": "Combat module gate 7 — persistent costs recorded for the next state snapshot",
+      "state": "PASS",
+      "evidence": "The log at L127 is state-snapshot shaped and matches the running state's provisional 'After Chapter 12' COSTS row: Karis's left hand, Brom's shoulder carried and the good one used wrong, Lira nothing with two arms, Seln nothing and a cord on a rail, Vastin spent past a road with the knee again, and 'A hundred and thirty-six in hand'."
+    },
+    {
+      "gate": "Progression module gates 1-7",
+      "state": "PASS",
+      "evidence": "Cause and delta are intelligible and recorded (a counted minute at the plane's foot, then a notice with an ordinal, L105-111); the cost is the stillness that produced it; no victory depends on the new capability, which is explicitly not used (L113); the antagonist faction acts independently and will keep acting ('They'll go to ground and think', L97; 'would build for something else at a line', L99); the challenge differs tactically from Ch4's road (a corridor that rewards the wall); and the Ch4 setback is metabolised into the thing Cael does on purpose (L55-57)."
+    },
+    {
+      "gate": "LitRPG module gates 1, 3, 4, 5",
+      "state": "PASS",
+      "evidence": "Owner and trigger at L109; reads aloud at L111; the notice changes the scene by producing the chapter's closing problem ('a fragment is a thing you own and a thing a man gave you is a thing you owe', L123); tier equivalent is withheld as it has been withheld all series, and is now withheld cleanly."
+    },
+    {
+      "gate": "LitRPG module gates 6, 7 — combinations from established components; rank has non-combat consequences",
+      "state": "PASS",
+      "evidence": "No combination is attempted. Rank still bites outside combat, and after the F-009 repair it bites as Cael's own arithmetic rather than a quotation: 'No healer inside the gate would put hands on an unranked woman's hand: Oryn had priced a Copper's shoulder at a fire, and a hand with no column at all was the same arithmetic, further down' (L91)."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-200",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity / staging",
+      "gate": "Charter §4.1 (geography drawable); combat module gate 2; recheck of r1 F-002",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 105,
+        "line_end": 105,
+        "quote": "He had stood on the second flight's last step, at the plane's foot, for the whole of it — a minute; he had counted it"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 55,
+        "line_end": 55,
+        "quote": "he had stayed on the third flight, at the plane's foot, beside the man who could not move, with the knife out and the satchel under his arm and his back to Karis against the wall, and had been the reason."
+      },
+      "consequence": "The r2 repair fixed the number and left the body where it was. 'Two feet' is now consistent (L27, L85, L105), but the chapter places Cael on the third flight three times and on the second flight's last step once, for the same stretch of the same fight, with no movement staged between them: L11 puts him 'on the third flight beside Karis'; L25 has Vastin go 'past Lira and Brom and Karis and Cael on the third flight' on his way up; L55 says he 'had stayed on the third flight, at the plane's foot ... and had been the reason'; L105 says he 'had stood on the second flight's last step, at the plane's foot, for the whole of it'. Both of the last two claim the whole duration and both claim 'at the plane's foot', so they cannot both be true. The geometry does not rescue either: L27 sets the plane's foot at 'the second flight's top step', which is a full flight above the second flight's LAST step, so on the page 'two feet' is asserted at L27 while Cael is still on the third flight and is asserted again at L105 from a step roughly four treads below the plane. This is a chapter that teaches the reader to count flights — the word 'flight' appears twenty-eight times — and then contradicts itself about where its viewpoint character's feet were during the beat the chapter exists to deliver.",
+      "repair_target": "L11 or L15-L25 — stage the move once, in one clause, when the boxes go down and Vastin goes up (Cael comes up behind him to the second flight's last step, at the plane's foot); then L55 'he had stayed on the third flight' must become the second flight to match L105, and L27's 'the second flight's top step' should be reconciled with 'the second flight's last step' so the plane's foot and Cael's step are the same two feet apart in both descriptions. Do not change the three 'two feet' mentions; they are correct and are the packet's condition.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-201",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity / count integrity",
+      "gate": "Craft core — continuity persistence; charter §3.1 (the cataloguing narrator); recheck of r1 F-001",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 65,
+        "line_end": 65,
+        "quote": "Three of the four above the plane had come down onto the first flight. The fourth had not. He was on the landing at the cut's head, in the shadow where the stair came down, standing where a man stands who is not going to fight"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 27,
+        "line_end": 27,
+        "quote": "The four at the top came down the first flight at a run and hit the plane as eight hounds had hit it, and did not go over each other, because they were men and men do not; they went into a thing that was not there and stopped as i"
+      },
+      "consequence": "The recount is right in the aggregate and was not carried back one screen. L27 has all four of the top group come down the first flight at a run and strike the plane, hard enough that the narrator notes they 'did not go over each other'; L65 then states that only three came down onto the first flight and that the fourth 'had not' — he was on the landing from the start, 'standing where a man stands who is not going to fight'. Those are not a belief corrected by a later fact, which is what the rewritten L65 is designed to be; they are two incompatible accounts of who ran at the wall. The same carry failure lands again at L79: 'the six of them were six shapes on a landing' is said of a landing holding three men who have just gone back up plus the signaller whose cord one of them cuts — four bodies, not six — and the sentence that follows it, 'a landing in a city has three ways off it and they took all three', is contradicted in the next clause, where the remaining two get up from the steps and leave by the inn's yard gate instead. A reader who accepted the r1 draft's 'four and two' arithmetic is being asked to accept a different arithmetic in three places and the old one in two.",
+      "repair_target": "L27 — 'The four at the top came down' becomes three, with the crossbow among them (the bolt at L27 must still be spent by one of the three), leaving the fourth on the landing where L65 needs him. L79 — 'the six of them were six shapes on a landing' becomes four, or the sentence widens honestly to cover the two on the steps ('the four on the landing and the two on the steps, and then none of them'), and 'they took all three' is limited to the ones who actually left by the landing. L31 and L55's 'the four above the plane' can stand, since the landing is above the plane, but check them against whatever wording L27 takes.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-202",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity / narrator reliability",
+      "gate": "Charter §3.1 (the cataloguing narrator); craft core reader-trust invariant 1",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 65,
+        "line_end": 65,
+        "quote": "was the one he had counted as a stave. He spoke. He said one word up the cut, from the landing, to the crossbow, a word Cael did not catch"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 11,
+        "line_end": 11,
+        "quote": "Six of them. A crossbow above. Staves below. Twenty-two steps, sheer walls, dusk."
+      },
+      "consequence": "The repaired sentence turns Cael's error from a miscount into a misreading of purpose, which is the right move, but it attributes to him a count he did not make. His catalogue at L11 assigns weapons by end — 'A crossbow above. Staves below.' — and the only description of the top four at L9 is four hoods, one of them with 'a thing at his shoulder that was a crossbow'. No stave is ever counted above the plane. So 'the one he had counted as a stave' asks the reader to check back against a catalogue that says the opposite, in the one paragraph whose entire job is to make the narrator's counting trustworthy. Scope searched: every occurrence of 'stave' and 'staves' in the draft — L9, L11, L43, L47, L51, L53, L65, L79, L81, L93, L97, L127 — and every one of them except the disputed clause at L65 is the two men from the yard gate or their dropped weapons.",
+      "repair_target": "L65 — 'the one he had counted as a stave' becomes the thing the catalogue actually holds: a hood, a hand, a body, another of the four. 'The one he had counted as a fourth hood' or 'as another pair of hands' both keep the sentence's shape and stop contradicting L11.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "The measure that replaced 'in the length of a breath' at L79 — 'had understood, in the time it takes a man to draw one' — has no antecedent for 'one' in its sentence. The nearest candidate nouns in the list that precedes it are 'a knife in a stave' and 'a boy standing still'; the intended noun is almost certainly a breath, which does not appear. A reader may land on 'draw a knife', which is coherent and even in register, so this is not a proven defect and is not filed as a finding — but on audio the listener has nothing to reach for. Naming the thing drawn costs two words.",
+    "Carried over from r1 and untouched by the repair, and now slightly more crowded: Lira is placed on the second flight at L11 and 'came off the second flight's edge onto the man's shoulders from above' at L51, onto a man engaged on the fourth flight — a two-flight drop of roughly eight treads. With Cael's r2 relocation, the second flight now nominally holds Vastin at its top step, Cael at its last step, and Lira at its edge, in a cut a stride and a half wide. Whatever repair F-200 takes should re-check Lira's launching point in the same pass.",
+    "The running state file's provisional 'After Chapter 12' row still quotes the r1 notice ('Iron-Wall-adjacent. Vastin. Partial. Iron. Held.') and still describes the team as 'four above with a crossbow; two below with staves; a sixth on the landing' — the seven-body reading the repair removed. This is a state-document lag, not a draft defect, but it will re-inject the old arithmetic into the next packet if it is not updated when Ch12 is spliced.",
+    "L73's 'the four had come for it' now sits oddly against the recount: all six came for the cache, and after L65 'the four' is the top group including a man who never came down. The line still reads, since the four above the plane are the ones who were physically over the roof, but if L27 is re-counted per F-201 the phrase is worth a second look in the same pass.",
+    "Carried from r1: the packet's opposition includes 'one Anchor course laid across the alley's bottom step — allowed once' and the draft uses none, substituting a spoken signal and Seln's cord. The author declares the deviation and reserves the course for Ch21. The substitution is cleaner dramatically, but it leaves the faceless faction showing no practitioner capability at all in its first appearance inside a city, which is a planning question before Ch21 asks the reader to fear them again.",
+    "Carried from r1: paragraph length is very long even for this voice — L79 runs 240 words, L25 228, L47 209 — and the repair added the chapter's longest single sentence at L99. The chapter uses short paragraphs well at its hinges, so the tools are there; a line pass could take one more of them in the middle of exchanges two and four.",
+    "Carried from r1: 'he had walked the alley eleven times' (L3) against 'had been right for eight days' (L5). Reconcilable, unfixed by any state document, and deliberately count-shaped, which invites the reader to check it.",
+    "Carried from r1, and now the only reason to keep the r1 §5.2 note alive at all: with EXC-B8-CH12-2 recorded, Book 8's prose notice is approved and Book 8 is internally coherent, but B7 Ch13 and the Universe Bible still render the fenced 'FRAGMENT ACQUIRED' block. The series is not coherent with itself. Somebody above this seat should decide whether B7 gets retro-fitted or the divergence is logged as intentional before Book 8 closes.",
+    "Carried from r1 and still true: Vastin's Ch10 reflex — the name, the title, the rank — is paid off silently. He holds a wall for a party and never says who he is, and Seln's 'Be nobody' is never quoted at him. The r2 repair left it alone. Keep leaving it alone."
+  ],
+  "strengths": [
+    "The repair was surgical. Diffed against r1, exactly eleven paragraphs changed and one was inserted, and every edit sits inside a declared repair target. Nothing was tidied in passing, no paragraph was reordered or merged, and the dialogue block, the four scene breaks and the fixed closing log are byte-identical to the version the r1 seat passed. This is the discipline the craft core asks for in a targeted repair job and it made the recheck cheap.",
+    "The new L99 is the best of the repairs and does more than the obligation required. 'Cael entered the limit under it, as a finding and not an aside' puts the faction's ignorance in the narrator's own filing vocabulary rather than in dialogue, sets what they hold against what they do not, and closes on a forward-looking unknown — 'a team that built for a declaration in a cut would build for something else at a line, and he did not know what' — which plants Ch21 without pre-paying a word of it.",
+    "L43's added clause fixes two things with one hand. 'for the big one who had righted a cart in a yard where anyone could watch, and for the boy from the report, both of them on the wall's protected side' supplies the motive the two from below never had in r1, pairs Brom with Cael so the card's win-sentence is delivered whole, and does it by reaching back to a scene the reader watched in Ch11 rather than by asserting a reason.",
+    "The notice at L111 is now the cleanest fragment record in the book. 'Iron family' removes the tier collision, 'Distinct from the third — Iron-adjacent, the bed; this is not the bed hardened, this is a line drawn on it and kept' names holding against hardening in the log's own register, and the ordinal is checkable against the state file's list of the ten currents, where Iron is third and glossed exactly that way.",
+    "The tic repairs replaced a scaffold with instruments rather than with synonyms. 'for a count of three' is a cataloguer's measure, 'for the seconds a charge takes' is a soldier's, and 'while the man's breath came back' is a bedside one; the family that ran five times in r1 now runs zero times, and no replacement is used twice.",
+    "The r1 strengths all survived: 'On a road the ground had said go round. Here the ground said there is no round.' (L27); Seln's whole beat with 'Nobody died. Nobody was cut. The signal stopped.' and the cache overhead the whole time (L69-73); Brom standing on the stave instead of hitting a man twice and Lira choosing the shaft over the man (L47, L51); the crew's costs priced in their own vocabulary — 'The sheets are dry', 'Cart was heavier' (L91-95); Vastin asking to be entered in a ledger he no longer keeps (L121); and Cael declining to name the debt on a step (L123).",
+    "Mechanical hygiene improved rather than degraded under repair: capped phrases 0, the 'length of a [X]' family 0 (was 5), one-word paragraphs 0, 'the way X [verb]' 2 of 4, forbidden names 0, banned language 0, word count 4,564 and now closer to the 4,600 target than r1's 4,395, and the fixed log still matching the card character for character."
+  ]
+}
