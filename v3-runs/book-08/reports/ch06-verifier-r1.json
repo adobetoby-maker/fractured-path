@@ -1,0 +1,90 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch06-verifier-r1",
+  "scene_id": "b8-ch06",
+  "editor_run_id": "b8-ch06-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH06-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "Oryn's instruction now stands on Ch4's fact: 'That knee's bound, and I bound it, and a month's running on it from the cut … I'll read it there, properly, with the month up.'"
+    },
+    {
+      "finding_id": "F-B8-CH06-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "'the five' fixed as Brom, Lira, Karis, Seln, Vastin ('in the count now whether he had asked to be or not')."
+    },
+    {
+      "finding_id": "F-B8-CH06-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "Her baseline recast to his ordinary body: 'I know your ribs and your breath and your colour and how those ten things of yours sit after a burst'."
+    },
+    {
+      "finding_id": "F-B8-CH06-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "The file now ends on the image: 'and he did not look at the light on the crown of the hill.'"
+    },
+    {
+      "finding_id": "F-B8-CH06-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "'half a year, near enough'."
+    },
+    {
+      "finding_id": "F-B8-CH06-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "Lira's age cut."
+    },
+    {
+      "finding_id": "F-B8-CH06-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "'four times … nothing three times and the fourth time a thing I still can't name, and then a cord told me the same' — every item recoverable (B7 Ch6/7/7 nothing; Ch13 the deep reading; Ch1 the cord)."
+    },
+    {
+      "finding_id": "F-B8-CH06-008",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "'at a fork above Millrace'."
+    },
+    {
+      "finding_id": "F-B8-CH06-009",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "'a day's walk west of the spring … the halt had run into the afternoon' — reconciles Ch5's 'a day on'."
+    }
+  ]
+}

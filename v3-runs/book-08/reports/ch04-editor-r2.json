@@ -1,0 +1,16 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch04-r2-editor",
+  "scene_id": "b8-ch04",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Recheck — skeleton pending",
+      "state": "NEEDS_HUMAN_JUDGMENT",
+      "evidence": "Placeholder; recheck in progress."
+    }
+  ],
+  "findings": [],
+  "concerns": [],
+  "strengths": []
+}

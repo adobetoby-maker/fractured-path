@@ -1,0 +1,180 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch15",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 15 card — Before the Paths, the REVEAL; Chapter 16 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–14' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen. Day 292 evening → 293 (Cleon's seventh day and the morning after): Karis has been below with Cleon; she comes up at the bell of the 292nd or Cael goes down on the 293rd — stage the reveal IN THE CHAMBER with Cael present as labour (the lamp), Cleon at the table, the crew at the wall; the series' discoveries are on paper, by the researcher, said once.",
+      "THE PRIMARY SOURCE (PROVISIONAL, this chapter defines it): a pre-Compact document in the Deepstacks — its physical form (a bound leaf? a board? choose; described so it lands read aloud) — in a script Cleon can half read and Karis has now, with the carvings as the key (the instruction-structure Cleon read; the strata's lean), read; it uses the word the Compact retired — [UNBOUND] — as a live term; it names the designer by the record's word 'the Architect' (the citation's title, Ch3) and says he DESIGNED AND DEPLOYED the classification apparatus ('set the apparatus over all the land') roughly four hundred years before the present (the number is allowed HERE, once or twice, as the record's date); and where his name stood the surface is EFFACED — scraped back to the fibre, four or five letters' worth, the first stroke of the first letter showing — deliberately or by time, unknowable. The intent survives and is read aloud ONCE: 'the system exists to prevent the reemergence of [UNBOUND] potential, which nearly destroyed the continent before the system's deployment' — rendered in the record's own antique voice in the fixed close ('that the un-bound should not come again, who had near unmade the world before the ordering of it').",
+      "WHAT IT MEANS ON THE PAGE (the reveal): the Fractured Path is not broken, not new, not an error; it is older than the system built to end it. Karis may say that much — 'Older. Made. Us.' — and no more; she does not theorize past the page.",
+      "DISCIPLINE (SEALED): (1) the record is a historical CLAIM — no one says the live Arbiters ARE that apparatus (Book 9); if anyone reaches for it, the refusal is staged (Karis's ruler line; Cleon's care); (2) the Architect's fear is REPORTED, not ratified — nobody says he was right or wrong; (3) the Architect is dead/historical — 'did not die in the conventional sense' is a SECONDARY source's obscure phrase (Book-11 plant 1), marked by Karis without a reading; no 'will', 'active', 'hunting', 'reset', 'preserved'; (4) no 'primordial'; (5) the still place is NOT mentioned; Cael does not connect the record to himself ALOUD — Ch16 is where he takes it; here he hears it, and the book withholds his interior beyond the cataloguer's register (he may note that a word for what he is has been read aloud in a hole under a city and that he did not move).",
+      "CLEON: has had 'a piece of this for a decade' — the board; watches Karis get the whole and says nothing, because there is nothing to say the record does not; his warning (Ch13) stands.",
+      "Vastin: present as a hand; his reaction is Ch16's (the aimed edifice); here he hears it and is still.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD."
+    ]
+  },
+  "purpose": "The title-chapter and the book's LOCKED reveal (CANON_RULES: the Fractured Path predates the classification system), delivered as the series stages its discoveries — on paper, by the researcher, the sentence said once. Karis finds the primary source: a pre-Compact document in the Deepstacks, matched against the carvings Cleon read as instructions, that names the Architect — the record's own word — as a historical individual who designed and deployed the classification apparatus roughly four hundred years before the present. The record is damaged: where the name should be, the surface is effaced; Karis can see the shape of a name and cannot read a letter. What survives is the intent, read aloud once: the system exists to prevent the reemergence of [UNBOUND] potential, which nearly destroyed the continent before the system's deployment. [UNBOUND] is a live historical term in a source older than the word the Compact retired: the Fractured Path is older than the system built to end it. Discipline: a four-hundred-year-old claim about history; it does NOT confirm live Arbiters are that apparatus (Book 9); does NOT endorse the Architect's fear (Books 13–14); does NOT say the Architect is present or active (Book 11). Book-11 plant 1 originates: a damaged secondary source says the Architect 'did not die in the conventional sense' — obscure, possibly metaphor; Karis marks it and offers no reading. Close on the written document: the passage in Karis's copying hand, the effaced name described, and under it her three words: 'Older. Made. Us.'",
+  "scene_shape": {
+    "opening_state": "The chamber on the morning of the 293rd (or the evening of the 292nd — state it): Karis at the table since the registry's opening with the primary source before her — found on the seventh day among the things Cleon pulled from the galleries thirty years ago and had never been able to read whole — the board beside it, the fifty-two sheets beyond, the notebook, the pencil; Cleon in his chair with his hands flat on nothing; the four hands and Seln (above? no — Seln is not on the count; he is above) at the wall; Cael with the lamp.",
+    "pov_goal": "Cael wants to hold the lamp still while a woman reads a thing aloud once, and to hear it as the cataloguer hears things, and not to move.",
+    "opposition": "The record's damage (the effaced name; the antique script); the four sentences nobody may say; Cleon's decade of bad sleep; the thing the reveal is about, standing at the table with a lamp.",
+    "turn": "Karis reads the passage aloud, once, in the size for a finding: the apparatus set over all the land by the designer the record calls the Architect; the un-bound who had near unmade the world before the ordering of it; the purpose — that they should not come again. Then the name: the scraped place; the first stroke of the first letter; nothing. Then the secondary source: 'did not die in the conventional sense' — marked, not read.",
+    "choice": "Cael holds the lamp still. He does not say the word the record says. He does not look at the place in himself. He catalogues the room — Karis's hand, Cleon's, Brom's face, Lira's, Vastin's stillness — and does not catalogue himself, because the one thing the reveal is about is standing at the table's corner and the book withholds him until Ch16.",
+    "outcome": "The reveal delivered and disciplined: older; made; us. Karis's three words under her copy. Cleon silent. The name effaced. The secondary passage marked.",
+    "closing_state": "WRITTEN DOCUMENT — the card's close: the passage in Karis's copying hand in the field notebook, the effaced name described so it lands read aloud — *'and the'* — then the gap: a name's length of the page scraped back to the fibre, four or five letters' worth, the first stroke of the first letter still showing — *'set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it'* — and beneath it, in Karis's own hand, three words and no verb between them: *'Older. Made. Us.'* The file ends on those three words."
+  },
+  "obligations": {
+    "must_include": [
+      "The primary source found and described as an object (its form; the script; its age's evidence) and read WITH the carvings as the key — the instruction-structure and the lean — as document work on the page (charter §3.2).",
+      "The reveal delivered ONCE, aloud, by Karis, in the record's own antique voice; the designer named by the record's word 'the Architect'; 'designed and deployed' / 'set the apparatus over all the land'; 'roughly four hundred years' as the record's date; the effaced name described (the scraped place; the first stroke of the first letter).",
+      "[UNBOUND] as a live term in the record — 'the un-bound' — read aloud; Karis's finding in her words: older than the system built to end it; 'Older. Made. Us.'",
+      "Book-11 plant 1: the secondary source's 'did not die in the conventional sense' — antique, hedged, possibly metaphor; Karis marks it and offers no reading; nobody glosses it.",
+      "The DISCIPLINE staged: nobody says the live Arbiters are the apparatus (if reached for, refused — Karis's ruler line or Cleon's 'I'll not say that one'); nobody says the Architect was right; nobody says he is present; 'the record says' / 'the record claims' as the register.",
+      "Cleon watching her get the whole of it and saying nothing; his decade of bad sleep visible.",
+      "Cael present as labour, still, withheld — the cataloguer's register on the room, not on himself; no aloud connection to himself (Ch16).",
+      "Close on the written document VERBATIM (the passage; the described gap; 'Older. Made. Us.'); the file ends on the three words.",
+      "READER STANDARD checked."
+    ],
+    "plants": [
+      "Book-11 plant 1 (did not die in the conventional sense).",
+      "Book-9 seed (a made apparatus with a designer) — historical, unconnected to the sigils.",
+      "Book-13/14 pre-plant: the record's fear reported straight, not ratified.",
+      "The effaced name — the permanent mystery-texture."
+    ],
+    "payoffs": [
+      "B3's confiscated record / B6's strata / B7 Ch15's [UNBOUND] limit — consumed: the word live in a source older than the retirement.",
+      "Ch3's citation ('—of the Architect: see the lower archive at Treswick—') — the archive holds it in full.",
+      "Cleon's 'I don't think you're going to like what you've found' (Ch11)."
+    ],
+    "prohibited_outcomes": [
+      "No 'the Arbiters are terminals/infrastructure/the apparatus'; no ratifying the Architect's fear; no 'will', 'active', 'hunting', 'reset', 'preserved', 'primordial'.",
+      "No still place; no Cael connecting aloud; no fragment use; no reading; no Rune on himself.",
+      "No fight; no reach; no station.",
+      "No image/dialogue/log closer; the closer is the WRITTEN DOCUMENT (the passage + 'Older. Made. Us.').",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The primary source's physical form and script (described); the secondary chronicle's form; the passage's antique wording (must contain the fixed close's words); Karis's method of reading with the carvings as key (the lean; the bearers matched to the text's bearers).",
+      "The chamber on the seventh day; Cleon's silence."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any content of the record beyond the passage, the name's absence, and the secondary line."
+    ],
+    "forbidden": [
+      "Any theory past the page; any connection to the live sigils, the still place, or the Quieting's cause; any statement that the Architect is present."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 14 (Dividers)",
+      "path": "v3-runs/book-08/drafts/ch14.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapters 11 and 13 — the carvings as instructions; the lean; Cleon's board",
+      "path": "v3-runs/book-08/drafts/ch13.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 3 — the citation page ('—of the Architect: see the lower archive at Treswick—')",
+      "path": "books/book-08-before-the-paths/chapters/chapter-03.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 15 — the strata; [UNBOUND] as a limit (the one use)",
+      "path": "books/book-07-void-roads/chapters/chapter-15.md",
+      "required": true
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 16 card — What It Was For (pole two; Lira first; Vastin's line) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch15.md",
+    "report_path": "v3-runs/book-08/reports/ch15-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch15-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch15-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

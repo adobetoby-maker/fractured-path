@@ -1,0 +1,65 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch12-r1",
+  "scene_id": "b8-ch12",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch12.md",
+  "word_count": 4407,
+  "obligations": [
+    {
+      "obligation": "Geography drawable before the first exchange",
+      "status": "MET",
+      "evidence": "The stepped cut: twenty-two steps in five flights, a stride and a half wide, sheer three-man walls, the landing above, the inn's yard gate below; each person's flight named; six placed."
+    },
+    {
+      "obligation": "Four exchanges, ≥2 terrain-caused; the corridor rewards the wall; Ch4's lesson paid; the team meets people; Seln removes coordination; the team breaks",
+      "status": "MET",
+      "evidence": "(1) the plane across the cut, wall to wall — 'there is no round'; the crossbow spent into it; (2) staves meet Brom's rock and back and Lira's drop with no room; Cael still at the plane's foot — 'He was it.'; (3) the cord from the roof round the sixth man's arm and the rail — the signal stopped; the cache on the roof; (4) the decision to leave; none taken; no faces."
+    },
+    {
+      "obligation": "Win-sentence in the removal form",
+      "status": "MET",
+      "evidence": "Rendered as staged: the wall 'no flank'; 'the wanting was the cost of the plane, and he was the cost' — the card's sentence in the body's terms."
+    },
+    {
+      "obligation": "The integration per Continuity Rule 6; the notice after, in the locked prose format",
+      "status": "MET",
+      "evidence": "'a minute and some … at two feet'; 'Iron-Wall-adjacent. Vastin. Partial. Iron. Held. A plane, not a body … Engagement field: defensive; rooted. Tier equivalent unknown. Deployment: none. Eleventh.'"
+    },
+    {
+      "obligation": "Costs ledgered; no healer's cost priced",
+      "status": "MET",
+      "evidence": "Karis's hand bound 'with Karis's thread and a strip off his own shirt … with his good hand and his teeth, badly'; Brom's shoulder carried, the good one used wrong; Vastin 'spent past a road; the knee again'."
+    },
+    {
+      "obligation": "The faction's knowledge stated",
+      "status": "MET",
+      "evidence": "Seln: 'They know where we sleep now … They came for a declaration. They got a wall and a rock. They don't know what to make of that, and they'll want to.'"
+    },
+    {
+      "obligation": "Close on the fixed log verbatim",
+      "status": "MET",
+      "evidence": "The final paragraph reproduces the card's text; the file ends on 'I wrote it down anyway.'"
+    },
+    {
+      "obligation": "READER STANDARD: no killing by the crew; no gore",
+      "status": "MET",
+      "evidence": "'Nobody hit twice.'; Lira's knife into the stave's shaft, not the man; 'Nobody died. Nobody was cut.'; the two allowed to walk away; banned words 0."
+    }
+  ],
+  "inventions": [
+    "The cut's dimensions; the sixth man on the landing as the signaller; Seln's roof and the weighted cord; the team's kit (a crossbow, staves, hoods) — no Anchor course used (kept in reserve for Ch21).",
+    "The notice's wording."
+  ],
+  "state_change_proposals": [
+    "Day 290, dusk: the reach in the cut; six faceless; none taken, nobody dead; the cache kept (on a roof); the team knows where the crew sleeps and that a wall met them; they did not see quiet ground.",
+    "FRAGMENT ELEVEN: Iron-Wall-adjacent (Vastin; partial; held/defensive; rooted; tier unknown; deployment none). Cash 136.",
+    "Injuries: Karis left hand cut, bound (thread + shirt); Brom's good shoulder used wrong, the bound one carried; Vastin spent worse than the road, the knee again; Lira nothing (twenty-five days). No healer.",
+    "Vastin: 'I put the wall in front of it anyway. I'd like that entered.' — entered."
+  ],
+  "deviations": [
+    "No Anchor course laid in the alley (the packet allowed one); the sixth man's signalling role serves the coordination beat instead.",
+    "Word count ~4,4xx — in band."
+  ],
+  "blockers": []
+}

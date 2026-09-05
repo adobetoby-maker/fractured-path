@@ -1,0 +1,108 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch05-verifier-r1",
+  "scene_id": "b8-ch05",
+  "editor_run_id": "b8-ch05-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH05-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "'Five years back, and a hundred and some days. Not six. Six was the marshal's rounding' — his Kindling day at fourteen; nineteen holds."
+    },
+    {
+      "finding_id": "F-B8-CH05-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "PLANNING DECISION 15: the same stroke-and-bar on all four; the fourth differs in size only."
+    },
+    {
+      "finding_id": "F-B8-CH05-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "'the stroke and the bar' restored throughout."
+    },
+    {
+      "finding_id": "F-B8-CH05-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "'the flat case they had come in'; 'She closed the case' closes it."
+    },
+    {
+      "finding_id": "F-B8-CH05-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "'set iron the whole way round'."
+    },
+    {
+      "finding_id": "F-B8-CH05-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "'upside down' 0; 'the length of a breath' 0."
+    },
+    {
+      "finding_id": "F-B8-CH05-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "'his whole life before … the Line's for nine months'."
+    },
+    {
+      "finding_id": "F-B8-CH05-008",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "Plant 3 as a record anomaly (the second row a sheet short in Cael's hands)."
+    },
+    {
+      "finding_id": "F-B8-CH05-009",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "Ch4's 'a day on' dropped; Ch5's stands."
+    },
+    {
+      "finding_id": "F-B8-CH05-010",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "'the wind was at their backs'; 'held it to the light'."
+    },
+    {
+      "finding_id": "F-B8-CH05-011",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch05-r1.md at the quoted span; diff r1→r2",
+        "B7 Ch20/Ch23 (the stroke and the bar); the drafted timeline; the Ch20 card's taxonomy"
+      ],
+      "reason": "'File under—. Refer to—.'"
+    }
+  ]
+}

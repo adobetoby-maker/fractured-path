@@ -1,0 +1,65 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch11-r1",
+  "scene_id": "b8-ch11",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch11.md",
+  "word_count": 3920,
+  "obligations": [
+    {
+      "obligation": "Rune shown in its civil face with Cael present as labour; the LIMIT verbatim",
+      "status": "MET",
+      "evidence": "The bearer / carried / ornament demonstration on the Hall's fourth sheet and the board with Cael holding the lamp; 'I can tell you these are orders. I can't tell you what they order. For that you need the language, and the language is in the text, not the stone. That's her work, not mine.'; 'It doesn't work on a river, and it doesn't work on a man'."
+    },
+    {
+      "obligation": "The finding: instructions, not decoration; the decade-old fragment matched",
+      "status": "MET",
+      "evidence": "'They're orders.' / 'This is an order too. Same make.'; 'Same bearers in the same places' across three floors."
+    },
+    {
+      "obligation": "Brom's want-scene: a clean ranked offer declined by a box; the fixed exchange",
+      "status": "MET",
+      "evidence": "The cart righted with his back (no Path); the factor's offer (a guard's post, a wage, a second-tier pass); 'I'll think on it' and the box picked up; 'You think Karis is right? …' / 'I think we're about to find out.' / 'Good. I'd hate to have turned down a real job for a wrong hunch.'"
+    },
+    {
+      "obligation": "Seln's scene about him: the cache; the tiers at night; decided nothing; seen by nobody; lets Cael see",
+      "status": "MET",
+      "evidence": "'Seln walked the tiers that night.' … 'I looked at it.' … 'Seln looked at it. Decided nothing.'"
+    },
+    {
+      "obligation": "Cael's understanding of Rune's limit as it bears on him — noted, not said",
+      "status": "MET",
+      "evidence": "'He noted that he had wanted it to … a thing which read only what had been built could not be turned on a person'."
+    },
+    {
+      "obligation": "Vastin being nobody badly — one beat",
+      "status": "MET",
+      "evidence": "'How long did it take you.' / 'I was fourteen. I'm nineteen. I'm not there yet either.'"
+    },
+    {
+      "obligation": "Close on the fixed dialogue verbatim",
+      "status": "MET",
+      "evidence": "Cleon's speech reproduced through 'slept well since.'; the file ends there."
+    },
+    {
+      "obligation": "READER STANDARD checked",
+      "status": "MET",
+      "evidence": "gates: banned words 0; conduct honest; no gore; no sexual content."
+    }
+  ],
+  "inventions": [
+    "Cleon's board (a forearm-long piece of unknown wood, lines cut with something finer than a chisel); his demonstration vocabulary (bearer / carried / ornament); 'It costs me my eyes for an hour after'.",
+    "The broker's cart in the drain; the factor's offer terms; Seln's route guessed, not shown ('the rails ended where the walls began')."
+  ],
+  "state_change_proposals": [
+    "Days 286–289 in the chamber: the carvings established as INSTRUCTIONS (structure, not meaning); Cleon's decade-old board matched to the Hall's fourth sheet; 'Same make' across three floors. Rune's limits stated on the page (structure not meaning; made things only; not a man; costs the eyes an hour; useless in a fight). Cael WITNESSED the work at arm's length (Continuity Rule 6 for Ch13).",
+    "Brom declined a guard's post + second-tier pass (the factor at the broker's yard) by picking up the box; righted a cart with his back, no Path (the shoulder unused).",
+    "Seln walked the tiers at night with the cache; looked at the registry's door and the station's light; decided nothing; 'I looked at it.' Lira awake, silent.",
+    "Vastin: 'How long did it take you.' — learning to be nobody, badly."
+  ],
+  "deviations": [
+    "Karis's 'Same make, all three?' exchange added within Cleon's demonstration (expansion for the band); Lira's silence added to Seln's scene.",
+    "Word count ~3,9xx — at the floor."
+  ],
+  "blockers": []
+}

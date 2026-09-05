@@ -2,15 +2,373 @@
   "schema_version": "3.1",
   "run_id": "b8-ch06-r1-editor",
   "scene_id": "b8-ch06",
-  "verdict": "STRUCTURAL_HOLD",
+  "verdict": "PASS_WITH_FINDINGS",
   "gate_results": [
     {
-      "gate": "SKELETON — review in progress",
-      "state": "NEEDS_HUMAN_JUDGMENT",
-      "evidence": "Placeholder written at the start of the editor pass so partial work survives an interruption. If this row is still present, the pass did not complete."
+      "gate": "Authority — packet prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "All eight prohibitions hold. No reading of Cael, surface or deep — she says the opposite twice, 'I'll not read you at a fork with a city in front of you and a man's shoulder in the fire' (ch06.md:89). No fight, no fragment use, no Treswick entered, no Cleon, no station approached — the city is seen once from a rise (ch06.md:117-129) and the crew stops at the top. Oryn's fixed B7 lines are not re-quoted: grep -noiE 'Find me at Thornwater|Bring the map|Six, by letter' over the draft returns zero, and the prohibition is converted into a beat, 'She did not say the other sentence. She had said it at a fork once and it had meant a thing, and it did not need saying at this one' (ch06.md:91). Her closing line is her own — 'Bring me whatever walks out of that archive with you. All of it.' (ch06.md:89). No theory about the records, the citation or the six years is offered by anyone; the still place is not touched, named, or read. grep -noiE 'Halcenvane|Velmere|Wray|Bracken' returns zero. No modern idiom found on a read-through. No meta-voice: no volume or chapter references, no fourth-wall address; the log entry at ch06.md:63 is diegetic first person and does not editorialize. One-word paragraphs: exactly 2 ('\"Routing.\"' ch06.md:37; 'Treswick.' ch06.md:119) against the packet's cap of 2 and charter 9's cap of 2 per chapter — at cap, not over. 'the way X [verb]' as a simile engine: 2 ('the way she put it on a table', ch06.md:55; 'the way she stood up from everything', ch06.md:89) against the packet's cap of 4. Capped charter-9 phrases: 'jaw tightened', 'laughed once', 'without humor', 'stomach tightened', 'stomach dropped', 'There it was', 'That was true', 'Also true', 'sounded almost', 'held this', 'which was, in its own way', and standalone '[Name] noticed.' — all return 0. 'upside down' returns 0, so the book-level cap (reached at Ch1 and Ch8 per STATE_RUNNING) is not exceeded here."
+    },
+    {
+      "gate": "Authority — canon and SECRET discipline (CANON_RULES reveal schedule)",
+      "state": "PASS",
+      "evidence": "No later secret is disclosed. The station is described only as an instrument that reads practitioners — 'it's the thing that reads a practitioner. It's the instrument' (ch06.md:51) — which is the Bible's public face (advancement evaluation by a registered Arbiter station); nothing on the page connects it to the Architect, to a sub-layer, or to live infrastructure (Book 9 sealed). The packet's forbidden item, 'any statement of what the station would do to Cael (nobody knows)', is not merely avoided but made the point of the speech: 'Not because I know what it'd do. Because I don't. I don't know what it'd do to you and I don't know what you'd do to it' (ch06.md:51). No Tide mechanic beyond Book 7's: contact range, reserve spent at the rate of the damage ('I've not the reserve for a knee tonight', ch06.md:81), and the standing inability to read him. The Architect, the Quieting, the six-year sequence and the bearing are all absent. Book-11 plant 3's tripwire is set exactly as the card asks — the promise is WRITTEN (ch06.md:63) and nothing faint happens here. See F-B8-CH06-007 for the one place where an image reserved for Ch22 may have leaked forward."
+    },
+    {
+      "gate": "Authority — Book 7's closed prose governs over cards and packet (CHAPTER_ARCHITECTURE header)",
+      "state": "FAIL",
+      "evidence": "One item. The draft places the writing of Oryn's condition on the bank at Millrace (ch06.md:99); Book 7 Ch18 places the speaking there and the writing an hour further on, at the fork above Millrace, and says so in terms — 'He did not write it at the ford. He wrote it an hour up the road, at the fork above Millrace' (chapter-18.md:75), with the log entry itself reading 'Hundred and thirteenth day, the fork above Millrace' (chapter-18.md:77). See F-B8-CH06-008. The packet's own knowledge_boundary carries the same error ('the condition, written on a bank at Millrace (B7 Ch18)'), so the author followed the work order; the architecture header settles the precedence."
+    },
+    {
+      "gate": "Assigned obligations — must_include, item 1 (the fork dated and drawn; camp at the fork)",
+      "state": "PASS",
+      "evidence": "Dated and drawn: 'a squared post of grey rock at the road's edge on the evening of the two hundred and eightieth day' (ch06.md:5), the west road 'on west over a long rise', the north-west track 'off the kept surface and onto ruts, toward a gap in the hills' (ch06.md:5), and the camp taken at the stone — 'They camped at the stone. Nobody said the word before dark' (ch06.md:7). The stone is given two counted faces, one toward the Line and one 'toward nothing the Compact had ever measured', which is the chapter's argument in an object. One distance inside this obligation does not hold — see F-B8-CH06-009."
+    },
+    {
+      "gate": "Assigned obligations — must_include, item 2 (Oryn's want in a scene about HER; charter 7.4)",
+      "state": "PASS",
+      "evidence": "The scene is hers from ch06.md:17 to ch06.md:91 and Cael is an addressee, not a subject, throughout it. The route as the only thing she owns: 'That's the route. It's the only thing I own. It doesn't run west' (ch06.md:21), and the lateness is priced in bodies rather than days — 'a knee that's gone another fortnight without being looked at, and a birth that happened without me, and a man with a wrist set wrong who's been told I'd see it' (ch06.md:21). The city that rationed her is in her own blunt register with no city named and no academy named: 'the walls had a ledger, and the ledger had a column for the patient's tier, and I was assigned by the column. Bronze and above first... I spent a year mending Bronzes with bruises while the yard went septic under the window, and I left' (ch06.md:25). 'Leaving and routing are different verbs. I'm doing the second' (ch06.md:33). Nobody tries to talk her into a city: her request, 'I'd take it as a courtesy if nobody tried' (ch06.md:25), is answered by Cael in four words (ch06.md:27) and by nobody else, and the rest of the chapter honors it."
+    },
+    {
+      "gate": "Assigned obligations — must_include, item 3 (the fixed term verbatim; Cael WRITES it and reads it back)",
+      "state": "PASS",
+      "evidence": "Verbatim, character for character against the packet: 'You go inside, you don't go near the station. Not the steps, not the square. You promise me in that log of yours, because I've seen what the log does to you.' (ch06.md:55). The writing happens on the page and in front of her — 'He took the log out of the satchel.' (ch06.md:59), then the form itemized, 'Hesk's satchel, the flap, the log in the pocket built for it, the plain hand' (ch06.md:61), then the entry rendered in the log's own register (ch06.md:63): 'Her term, given at the fire, taken in the log because that's the form she'll take it in: inside Treswick I do not go near the station. Not the steps. Not the square.' Read back once, aloud, and received: 'she nodded, once, as if a thing had been entered, and said, \"That'll do\"' (ch06.md:65). The distinction the packet wanted is drawn explicitly — 'not a promise, which was a thing a man said and could unsay; a line in a book, which was a thing a man wrote and could be read back to' (ch06.md:65)."
+    },
+    {
+      "gate": "Assigned obligations — must_include, item 4 (the cost of no healer priced)",
+      "state": "FAIL",
+      "evidence": "Three of four elements land. Brom's shoulder is carried, bound, not mended, and the 'not three times this season' limit is remembered by Oryn herself: 'That shoulder's been mended twice and I said not three times this season, and the season's over and the shoulder doesn't know it. It's bound, and it's held under the binding' (ch06.md:73), with the instruction and the consumable named — 'Bind it fresh every fourth day; Karis has thread' (ch06.md:73). Treswick's healers rationed by rank: 'there's no healer inside that gate who'll put hands on a Copper's shoulder, because inside that gate there's a column, and you're at the bottom of it. You'll be a man with a shoulder that's gone, in a city, until you're out of it' (ch06.md:73). The rendezvous is on her route and is a place, not a date she cannot keep: 'Millrace. That's the second stop on my spring and it's a day south of Lowmarch on the Stair road, and it's the road you'll take east when you're done inside... I'll be there in three weeks or a month. I'll read the shoulder there and the knee there' (ch06.md:89), which matches the packet's own geography and the DECISIONS list ('Millrace a day south of Lowmarch on the Stair road'). The fourth element fails: the one wound Oryn herself bound two days ago is handed back to its owner as an old complaint she has never been asked about. See F-B8-CH06-001."
+    },
+    {
+      "gate": "Assigned obligations — must_include, item 5 (Oryn's professional grievance stated)",
+      "state": "PASS",
+      "evidence": "Stated as a rule of her trade rather than as worry: 'You do not walk a body you can't read toward the one instrument on the continent that reads bodies... a healer who doesn't know what a thing will do keeps her patient away from the thing. That's the whole of medicine. That's the rule under all the other rules.' (ch06.md:51). The register is right — she names it a rule 'a healer learns before she learns to set a bone', and the speech is introduced as the one thing she is afraid of ('the register she kept for a finding she was afraid of, which he had heard three times in his life', ch06.md:49), which keeps it a professional finding rather than a plea."
+    },
+    {
+      "gate": "Assigned obligations — must_include, item 6 (nobody asks her to come; the condition named or remembered once)",
+      "state": "PASS",
+      "evidence": "Nobody asks, and the not-asking is registered twice as an active discipline rather than an absence: 'Nobody said anything. That was correct. It was the condition.' (ch06.md:23), and at the ruts, the sentence he still has and still does not say (ch06.md:99). Cael's own account of why is the chapter's spine — 'the condition was the condition' — and his refusal is not framed as restraint he is owed credit for. The condition's origin is named once, at ch06.md:99; its location is wrong (F-B8-CH06-008), not its substance."
+    },
+    {
+      "gate": "Assigned obligations — must_include, item 7 (Vastin present and outside the circle; one beat of him watching)",
+      "state": "PASS",
+      "evidence": "The beat is delivered whole at ch06.md:43 and is the chapter's best use of him: 'a thing no unit of the Compact's had ever done in his forty years of commanding units, which was to sit at a fire and let a member of it stand up and walk north because she had said she would, without an order, without a warrant, without a word from anyone that she should or should not; and Cael saw that the man could not have said, if asked, whether what he was watching was discipline or its absence, and that he was too honest to guess.' It is extended once, correctly, when Oryn prices him in the same round as a Copper's shoulder and a girl's arm and he finds he can carry it (ch06.md:83), and once more at the departure where he watches the watchers (ch06.md:111). He does not ask to join and nobody votes; Book 9's beat is untouched."
+    },
+    {
+      "gate": "Assigned obligations — must_include, item 8 (close on the fixed IMAGE; the file ends on the image)",
+      "state": "FAIL",
+      "evidence": "The image's components are all present — the mule at a quarter-mile ('He turned, at a quarter-mile, while she was still a shape against the thaw', ch06.md:113), Treswick's tiers ('three of them, one above the other, stacked up the bluff's flank in tiers', ch06.md:121), the station's light on the crown described so it survives aloud ('A light with no smoke over it and no colour in it, pale, steady, the size of a coin at this distance', ch06.md:125), and Cael not looking at it ('He did not look at it.', ch06.md:127). The closer type is right for the adjacency rule (Ch5 dialogue, Ch6 image). But the file does not end on the image; it ends on a gloss that explains and then grades it. See F-B8-CH06-004."
+    },
+    {
+      "gate": "Assigned obligations — plants (4) and payoffs (2)",
+      "state": "PASS",
+      "evidence": "Plant 1, the promise in the log as Book-11 plant 3's tripwire: written (ch06.md:63) and said twice at the fork ('a thing said twice at a fork is a thing that walks', ch06.md:107), which is exactly the kind of double-anchoring Ch14 needs to fire against. Plant 2, Millrace as the rejoin point on the road east: ch06.md:89. Plant 3, Treswick's rules glimpsed from outside: a bluff, three walls, three gates, 'A road going up through the tiers by gates' (ch06.md:121) and the pass named earlier from inside her mouth — 'a square with a pass in my hand that says what rank I'm let to bleed on' (ch06.md:25) — so the machine is legible before Ch8 without being explained. Plant 4, Lira's look at a city of ladders, one glance, no speech: she looks (ch06.md:31), she says nothing (the paragraph ends 'She did not say any of that. She turned the cup.'), and she looks once more at the walls with 'a face he knew' (ch06.md:129). Payoff 1, B7 Ch18's terms of service restated by her and kept by him in written currency: ch06.md:57 names the two things she has ever asked, and ch06.md:63 pays them. Payoff 2, B7 Ch23's fork rhymed by the image and not repeated by the lines: the fixed lines are absent and 'She did not say the other sentence' (ch06.md:91) does the work. See concerns for the density of the B7 echo in the narration."
+    },
+    {
+      "gate": "Causal legibility — the turn and the choice",
+      "state": "PASS",
+      "evidence": "The turn is caused by what the chapter has established and not by a convenience. She sits square to the fire with her hands flat on her knees, which the narrator has already told us is the tell for a finding (ch06.md:11), she burns the fire down to working red first (ch06.md:13), and the finding is made about herself because 'it was about herself, which was the only kind she made in front of people' (ch06.md:19). The term follows from the grievance and the grievance follows from her trade. Cael's choice is caused by the same ladder: he takes the term in writing because writing is the only currency she takes, and the text says why in her terms, not his ('I'm going to ask you for it in the only form I'll take it in', ch06.md:55). Nothing in the scene is resolved by coincidence and nothing is resolved by anyone changing their mind."
+    },
+    {
+      "gate": "Consequential scene — state change and emotional movement",
+      "state": "PASS",
+      "evidence": "Five story states change: the roster (six on the road becomes five and one on a route, with the rejoin fixed at a place rather than a date), obligation (a written term binding Cael inside Treswick, with a tripwire Ch14 will strike), capability (the crew loses its healer for three weeks to a month and is told exactly what it may not spend), knowledge (Oryn's history and the reason she cannot be talked into a city are now on the page and cannot be un-known by the crew or the reader), and relationship (she says, in front of five people, that she is not leaving, and makes them file the verb). Entering condition: a fork nobody will name before dark. Exiting condition: the word said, the term written, and a man walking west deliberately not looking at a light. The exit is quieter than the entrance and different, which is what the shared voice asks for."
+    },
+    {
+      "gate": "Point-of-view integrity and knowledge boundary",
+      "state": "FAIL",
+      "evidence": "Close third on Cael holds throughout; the narration stays inside his cataloguing habit and never reports what he could not perceive. Oryn's interior is always inferred from posture, register or her own speech ('which was how she sat at everything, and which meant — he had learned this at a marsh — that she was about to say a finding', ch06.md:11), and Vastin's understanding at ch06.md:43 is explicitly framed as Cael seeing him understand, with the limit of the inference stated ('could not have said, if asked'). Two knowledge-boundary items fail: Lira's age at ch06.md:31 (F-B8-CH06-006) and the length of Cael's acquaintance with Oryn at ch06.md:57 (F-B8-CH06-005). One further item is stated as fact by a character who has just said the opposite (F-B8-CH06-003)."
+    },
+    {
+      "gate": "Continuity persistence — injuries and costs carried forward (charter 4.3)",
+      "state": "FAIL",
+      "evidence": "Brom's foot carries correctly from Ch4's tooth-through-the-boot and Ch5's 'It'll walk' — 'Brom with the boot off again and the foot up, saying nothing about it' (ch06.md:11), 'The foot walks. It'll walk to a city and it'll walk in one. Keep it dry' (ch06.md:81). Brom's shoulder carries correctly (bound, unread, mended twice, not three times this season). Lira carries correctly: two arms, the arm at fifteen days counted inclusively from her release at Thornwater on the 266th, 'slow for a month' preserved from Ch1's 'It'll be slow for a month' (ch06.md:81), and the wordless yes of opening and closing the left hand. Cael carries correctly: whole, ribs quiet, frameworks settled, unread. Vastin does not. See F-B8-CH06-001."
+    },
+    {
+      "gate": "Continuity persistence — the cataloguing narrator's counts (charter 3.1)",
+      "state": "FAIL",
+      "evidence": "The opening count is right — 'Seven of them and the mule' (ch06.md:11), enumerated as Brom, Lira, Karis, Seln, Vastin, Oryn and the narrator. The fire scene fixes 'the five' as everyone but Oryn and Cael, twice (ch06.md:51, ch06.md:57). The departure sequence then uses the same article for two other sets and produces a party that will not add up. See F-B8-CH06-002."
+    },
+    {
+      "gate": "Continuity persistence — calendar, geography and elapsed intervals",
+      "state": "FAIL",
+      "evidence": "Correct: the fork on the evening of the 280th with first light on the 281st; Millrace a day south of Lowmarch on the Stair road (ch06.md:89), matching DECISIONS-B7-RECONCILIATION's fact list; Lowmarch first and Millrace second on her spring, matching STATE_RUNNING's 'Lowmarch first stop of her spring, Millrace second'; seven holds with two done and five left (ch06.md:21, ch06.md:33), matching the Bible's 'Oryn's: seven stops'; three weeks to a month for five holds, with Seln's 'Three weeks' set against it as a private clock (ch06.md:41). Incorrect: the interval since Oryn joined (F-B8-CH06-005) and the distance from Ch5's spring to the stone (F-B8-CH06-009)."
+    },
+    {
+      "gate": "Continuity persistence — objects and possessions",
+      "state": "PASS",
+      "evidence": "Hesk's satchel and the log in its built pocket (ch06.md:61) carry from the series; the plain hand is the log's established register. Karis's flat with the citation page on top where she can reach it (ch06.md:11, ch06.md:111) carries directly from Ch5's close, where she tied the rows 'with the one page — the citation, a title and a place — on top, where she could reach it' (ch05.md:125). Karis's thread (ch06.md:73) is the consumable the Ch6 card assigns to the alley in Ch12. The mule, Oryn's roll, her leather roll's strap, and Vastin's ash stick all carry. Cash is not mentioned, which is correct — 138 stands from Ch4 and nothing is spent at a camp."
+    },
+    {
+      "gate": "Character and voice — differentiation and the found family (charter 7.3)",
+      "state": "PASS",
+      "evidence": "Every speaker answers in his or her own currency and nobody acquires Cael's cadence. Brom pays in one word said as a price ('\"Routing,\" Brom said, from the foot. He said it as a man says a price he has agreed to.', ch06.md:35) and defends himself in four ('I don't lie', ch06.md:75) and is beaten by five ('You say *it's a boot*.', ch06.md:77). Karis files it ('\"Noted,\" said Karis, and wrote it.', ch06.md:39). Seln measures the absence in the only unit he has and gets it back at the same size (ch06.md:41). Lira answers with a hand. Oryn's register is consistent with B7 Ch18's — flat imperatives, findings offered as facts about herself, and instructions with the patient's likely disobedience already priced in ('Don't let him lie about it... because he will', ch06.md:73). The one direct affection-statement rule is not stretched: nobody says anything warm out loud, and the warmest line in the chapter is 'which is the only reason I like you' (ch06.md:81), which is an insult on its face."
+    },
+    {
+      "gate": "Progression module gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, no integration, no fragment notice, no measurable gain and no rival movement occurs. The module's human-track concern is served incidentally — the crew's competence is shown by what it is told to stop doing — but there is nothing here for gates 1-7 to score."
+    },
+    {
+      "gate": "Combat gates (charter 4; THE AUTHOR 9.9-9.16)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat. Packet prohibits it and none occurs."
+    },
+    {
+      "gate": "Voice charter 8.4 — terminal metadata",
+      "state": "PASS",
+      "evidence": "grep -nE 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over the draft returns zero. The file ends on prose."
+    },
+    {
+      "gate": "Voice charter 9 — tic caps and the scene-closer rule",
+      "state": "PASS",
+      "evidence": "Per-chapter caps measured over the draft: one-word paragraphs 2 of 2; 'the way X [verb]' 2 of 3 (charter) and 2 of 4 (packet); every book-capped somatic phrase 0; 'upside down' 0, so the book cap reached at Ch1/Ch8 is not exceeded. Charter 7.2 growth-declaration grep returns zero. Closer adjacency: Ch5 closed on dialogue (Karis's 'I don't know which I'm more afraid of'); Ch6 closes on image; Ch7's card is a log closer. No adjacent repeat. The quality of the image closer is a separate defect (F-B8-CH06-004), not a rule breach. One house construction runs hot without breaching a cap — 'which was' appears 13 times in roughly 4,000 words, clustered in the fire scene; recorded as a concern."
+    },
+    {
+      "gate": "Voice charter 8.5 / 8.1 / 8.2 / 8.3 — audio survival",
+      "state": "PASS",
+      "evidence": "8.5: the fire scene carries five speakers and the longest unattributed run is three lines (ch06.md:85-89, Oryn's 'And Cael.' / Cael's 'I'm whole.' / Oryn's 'You're whole...'), where the alternation and the content make the speaker unambiguous aloud. 8.1: no new name is minted; Treswick and Millrace are the only proper nouns doing work in the chapter and are distinct by ear from each other and from Thornwater and Lowmarch; the Cael/Cleon collision flagged in the architecture is not exercised here because Cleon does not appear. 8.2: nothing depends on typography — the log entry at ch06.md:63 is italicized but reads identically as speech, and the packet's requirement that Cael read it back aloud is what protects it. 8.3: no system text, no declarations, no stat blocks."
+    },
+    {
+      "gate": "Voice charter 10 — scene vs summary and density",
+      "state": "PASS",
+      "evidence": "Every architecture-major beat is in scene: the finding, the term, the writing, the pricing round, and the departure all happen in real time with geography and cost. grep for 'heard about it later|learned afterward|was told later|found out later|by the time he heard' returns zero. Density: 4,024 words counted over the file, roughly 4,014 excluding the heading and the five section rules, against a 4,600 target with a 15 percent tolerance — a band of 3,910 to 5,290. Inside the band by about 104 words. Recorded as a concern rather than a defect: this is the thinnest chapter of the book so far and the thinnest part of it is the pricing round, where Seln and Karis each receive a single clause."
+    },
+    {
+      "gate": "Reader Standard — written for a thirteen-year-old (VOICE_CHARTER, new section 2026-09-05; THE_AUTHOR Gate 27)",
+      "state": "PASS",
+      "evidence": "Clean language: a banned-word grep over the draft for profanity, obscenity, crude slang and oath-usages (including damn, hell, bastard, and the softer cousins) returns zero, and no character is described as swearing or cursing. Contempt is carried by plain words instead — the city's condescension is quoted as 'you'll not be wasted on the yard, girl' (ch06.md:25), which is uglier than an oath and cleaner. Moral goodness: the chapter's whole action is restraint that costs something — Cael has a sentence that would probably work and does not say it, twice (ch06.md:99), and the text does not congratulate him for it; Oryn refuses to be flattered out of an obligation to five holds she has never met on the page; Brom accepts an instruction that will cost him inside walls; nobody is mocked and Vastin, the only adult with a ruined career in the circle, is priced at the same rate as everyone else and the narration says so (ch06.md:83). Wrong is named as wrong on the page rather than implied: the ledger with a column for the patient's tier is described doing its work and killing people in a yard under a window, and the woman who walked out of it is the moral center of the scene. Violence: none in the chapter; the injuries carried are described functionally, without gore or lingering — 'It's bound, and it's held under the binding' (ch06.md:73). Sexual content: none, and no innuendo; the closest thing to intimacy is a woman with her hands flat on her knees saying she will read a patient on a table. Note for the loop: the copy of craft/VOICE_CHARTER.md compiled into this run's prompt predates the Reader Standard section, so the author drafted without the gate in front of them; the draft passes it on its own merits, and the compiler should be re-run before Ch7."
+    },
+    {
+      "gate": "Anti-pastiche (craft core 6; charter 2)",
+      "state": "PASS",
+      "evidence": "No living author's distinctive wording, rhythm, characters or recognizable scene construction is imitated. The chapter's mannerisms are the series' own — the cataloguing inventory of a camp, the log in italics, the finding-as-diagnosis, the priced round — and they are traceable to Books 1 through 7 rather than to an outside voice."
+    },
+    {
+      "gate": "Invention budget",
+      "state": "PASS",
+      "evidence": "Inside the allowance on every item. Allowed and used: the fork's ground (the four-hundred-year-old squared post with a counted west face and a smooth north face, the ruts, the gap with the last light in it, ch06.md:5); the camp; Treswick's silhouette from the rise (the bluff, the river round its foot, three walls in tiers, three gates, the light on the crown, ch06.md:121-125). Allowed and used: Oryn's account of the city, at exactly the two concrete details the budget permits — the ward with the septic yard under the window, and the ledger with a column for the patient's tier — with no city and no academy named (ch06.md:25). Allowed and used: her instructions for the shoulder and for the alley they have not had yet, practical and brief (ch06.md:73). Approval-required items: none taken — no new hold, city or person is named anywhere in the chapter. Forbidden items: none taken."
     }
   ],
-  "findings": [],
-  "concerns": [],
-  "strengths": []
+  "findings": [
+    {
+      "id": "F-B8-CH06-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity",
+      "gate": "Craft core: continuity persistence (injuries and costs persist until changed on the page); charter 4.3 (costs ledgered forward); packet obligations.must_include item 4 (the cost of no healer priced)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 81,
+        "line_end": 81,
+        "quote": "\"Vastin.\" She looked at him. \"That knee's carried you three hundred miles and you've not asked me. Don't start now; I've not the reserve for a knee tonight and I'd rather you carried it to Millrace and asked me there. It'll carry. It'll hurt. Those are different things and you know the difference better than anyone at this fire.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04.md",
+        "line_start": 161,
+        "line_end": 177,
+        "quote": "\"You're spent to the floor. And the knee's gone - not broken; gone the way a knee goes that's been asked to be a wall's foot on stone for as long as that was. That's the wound, and it's a real one, and it'll be a real one for a month.\" (ch04.md:161) ... and Cael's log at ch04.md:177: \"Vastin, spent to the floor, and the knee - the wall's foot, on stone, for as long as it took - gone under him; Oryn bound it and said a month. That's the wound.\""
+      },
+      "consequence": "Two days ago, on the 279th, Oryn examined this knee unasked, diagnosed it, bound it, and priced it at a month; Cael entered all three facts in his own log as the chapter's headline cost. Here, on the 280th, she tells its owner he has never asked her about it and declines to look. A reader who has just read Chapter 4 sees the book's most carefully ledgered wound reversed off the page, by the person who bound it, in the chapter whose stated job is to price what the crew loses when its healer walks north - so the one open wound in the party is the only one left unpriced. The line also reproduces Chapter 2's beat almost word for word ('That knee's carried him three hundred miles and he hasn't asked me for anything', ch02.md:127), which was true then and is not true now, so it reads as a repeat rather than a return.",
+      "repair_target": "Rewrite Oryn's instruction to Vastin at ch06.md:81 so it stands on Chapter 4's fact: the knee is bound, she bound it, and a month is running from the 279th - which lands the rebinding and the reading inside the Millrace window she is already naming three lines later, so the geometry improves rather than costs. Her instruction becomes what a bound knee may and may not do on a road and inside a tiered city (stairs, rooting it, when to rebind, who rebinds it if Karis has the thread), and what she will do to it at Millrace. Cut 'you've not asked me' and 'asked me there' entirely; the not-asking beat belongs to Chapter 2 and has been spent. Preserve the last sentence of the speech verbatim - 'It'll carry. It'll hurt. Those are different things and you know the difference better than anyone at this fire' - which is the best line in the round and works better against a wound she has already handled. Separately, and outside the prose: STATE_RUNNING's 'After Chapter 4' COSTS row records 'Vastin spent to the floor, not hurt' and does not mention the knee, the binding or the month, so the state file supplied to this run contradicts ch04.md. Correct that row in the same pass or the error will recur at Ch7 and Ch12.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH06-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Charter 3.1 (the cataloguing narrator's counts must hold); craft core: causal legibility",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 101,
+        "line_end": 113,
+        "quote": "\"She looked back at the five, once - the count, and the finding - and at the man on the road side with the stick, who was not in the count and was not out of it, and then at Cael.\" (ch06.md:101) ... \"The five of them stood at the road's edge and watched... And Vastin, a pace back, looking at the five of them watching\" (ch06.md:111) ... \"He turned, at a quarter-mile... and went back to the five, because the road west was there and the six of them - five, and one on a road - had a rise to go over.\" (ch06.md:113)"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 11,
+        "line_end": 57,
+        "quote": "\"Seven of them and the mule\" (ch06.md:11), enumerated as Brom, Lira, Karis, Seln, Vastin, Oryn and Cael; and the fire scene fixing the referent twice - \"the five of them let her, because it was hers\" (ch06.md:51) and \"she had said it in front of five people so that it would be in five ledgers and not one\" (ch06.md:57), which can only be Brom, Lira, Karis, Seln and Vastin."
+      },
+      "consequence": "'The five' names three different sets inside thirteen lines. At ch06.md:51 and ch06.md:57 it is everyone but Oryn and Cael, and it must include Vastin for the count of five to work. At ch06.md:101 Vastin is expressly excluded ('who was not in the count') and Cael is named separately, which leaves four people standing where the text says five. At ch06.md:111 Vastin is again excluded, so the five must now include Cael - and two lines later at ch06.md:113 Cael 'went back to the five', which requires the opposite. The same line then says 'the six of them - five, and one on a road - had a rise to go over', but the party that goes over the rise is six and is enumerated as six at ch06.md:117 and ch06.md:129 (Cael, Lira, Brom, Karis, Seln, Vastin) with Oryn not among them. The defect is not decorative: this narrator's defining habit is counting, the chapter opens by counting the camp correctly, and the sequence where the counting breaks is the departure it exists to make exact.",
+      "repair_target": "Fix one referent for 'the five' and hold it through the departure. The cleanest set is the one the fire scene already established - Brom, Lira, Karis, Seln, Vastin - because it is on the page twice before the departure begins. Then: at ch06.md:101 she looks back at the five and then at Cael, and the 'not in the count' clause about Vastin is cut or moved to where it does not contradict it; at ch06.md:111 the paragraph enumerates four and needs its fifth named or its article changed; at ch06.md:113 'went back to the five' becomes 'went back to them' or names them, and 'the six of them - five, and one on a road -' is rewritten so the number that goes west matches the six enumerated at ch06.md:117 and ch06.md:129. Alternatively make Vastin's exclusion the point and use 'the four and the man on the road side' consistently. Either resolution works; the requirement is that a reader counting with Cael arrives at the same number he does.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH06-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core: continuity persistence and earned resolution; UNIVERSE_BIBLE Tide Path (a Tide practitioner cannot read what she cannot read); packet knowledge_boundary (she has not read Cael deep since B7)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 89,
+        "line_end": 89,
+        "quote": "\"I'll read the shoulder there and the knee there and I'll read you there, on a table, properly, the whole of it, when you're still, and if there's anything in you that a station's put there I'll know, because I know what's in you now to the hair, and a hair's the thing I read.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 51,
+        "line_end": 51,
+        "quote": "\"I have had my hands on you five times and got nothing three times and a floor the fourth and a cord the fifth, and I don't know what you are\" - Oryn, thirty-eight lines earlier in the same chapter, at ch06.md:51."
+      },
+      "consequence": "She says she does not know what he is, and then says she knows what is in him to the hair. The second claim also does work the series has not paid for: it promises that a healer who has never once read this patient will be able to detect, by comparison against a baseline she does not have, whatever an Arbiter station might leave in him - which is a Book-11-adjacent detection capability arriving eleven chapters early in a subordinate clause, and which undercuts the exact canon limit the whole speech at ch06.md:51 is built on. It also weakens the scene: the reason the term matters is that she cannot follow him inside and cannot read what comes out.",
+      "repair_target": "Recast the clause so the baseline is his ordinary body, not his architecture - she knows his ribs, his breath, his colour, how his frameworks sit after a burst, because those are the things five surface readings and a year of walking do give a healer. Then the Millrace reading is a first attempt at the thing she has never managed, made under the only conditions that permit it (still, whole, on a table), rather than a comparison against a known interior. Keep 'a hair's the thing I read' if it is attached to the ordinary body; cut 'because I know what's in you now to the hair' as written. Do not add any statement of what a station could leave in him - the packet forbids it and the speech at ch06.md:51 is already the better version of that refusal.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH06-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "obligation",
+      "gate": "Packet obligations.must_include item 8 and scene_shape.closing_state (the file ends on the image); shared positive voice, Endings (do not append a summary explaining why the ending matters)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 127,
+        "line_end": 129,
+        "quote": "\"He did not look at it.\" (ch06.md:127) - then the final paragraph at ch06.md:129 ends: \"...and he did not look at the light on the crown of the hill, because it was written, and because she had said it twice, and because he had a half-day of road in which to find out whether a thing a man wrote in a book at a fire could be kept by the man in the morning, and this was the first half-hour of it, and it could.\""
+      },
+      "comparison_evidence": {
+        "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+        "line_start": 173,
+        "line_end": 173,
+        "quote": "\"Close on (image): the fork at first light - Oryn's mule already a quarter-mile up the north road, small against the thaw... and Cael not looking at it, keeping the promise a half-day before he made it.\" - the Chapter 6 card; and the packet's must_include, \"The file ends on the image; no log closer (Ch4's), no dialogue closer (Ch5's).\""
+      },
+      "consequence": "The chapter's strongest beat is already on the page, alone, in five words, at ch06.md:127. The last paragraph then restates the not-looking, gives three reasons for it, converts the image into a question ('to find out whether a thing a man wrote in a book at a fire could be kept'), and answers its own question in the last three words. What was an image becomes a verdict, and the pressure the fork was built to leave standing is discharged inside the same sentence that raises it. It is also the one place in the chapter where the narration explains a thing the action has already carried - the reader watched him write it, watched her say it twice, and watched him not look - so the gloss subtracts.",
+      "repair_target": "End the file on the image. The minimum repair is to cut the last two clauses of ch06.md:129 from 'and this was the first half-hour of it' onward, so the sentence closes on the unanswered version. The stronger repair is to end the paragraph at the catalogue of who is looking at what and let ch06.md:127 stand as the last thing Cael does, moving nothing else; the card's beat - keeping the promise before there is anything to keep it against - is fully carried by the enumeration plus 'He did not look at it.' Do not add a log entry or a line of dialogue; the closer must remain an image for the Ch5-Ch6-Ch7 adjacency sequence.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH06-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core: continuity persistence (elapsed intervals); charter 3.1 (the cataloguing narrator's counts)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "\"He had known her a year, near enough, and she had asked him for two things in it - to lie still, and to ask first - and she had never once asked him for a thing that was not about the body in front of her\""
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-06.md",
+        "line_start": 123,
+        "line_end": 123,
+        "quote": "Book 7 Chapter 6 - Oryn's first appearance in the series - is dated 'the seventy-eighth day'; Book 7 Chapter 18, where she joins on her terms at Millrace, closes on Cael's log entry 'Hundred and thirteenth day, the fork above Millrace' (chapter-18.md:77). This chapter is the two hundred and eightieth day (ch06.md:5), and Book 8 continues Book 7's count without a reset (STATE_RUNNING logs the 131st through the 270th for Chapter 1)."
+      },
+      "consequence": "Two hundred and two days from her first appearance, one hundred and sixty-seven from the bank at Millrace: six and a half months and five and a half months. 'A year, near enough' overstates it by roughly half, and it does so in the sentence whose whole purpose is to weigh how little she has ever asked of him - where the true number is the more impressive one. A reader tracking the day-count, which this book invites on nearly every page and which this chapter opens with, will catch it.",
+      "repair_target": "Replace with the interval the count supports. 'Half a year' or 'since the eightieth day' or 'five months' all work and all sharpen the sentence; if a single word is wanted, the season-based idiom the series already uses elsewhere ('a summer and an autumn and a winter') is available and is more in the log's register than 'a year, near enough'. Change nothing else in the sentence - the two things and the never-once are correct against B7 Ch18.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH06-006",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core: continuity persistence; CHAPTER_ARCHITECTURE Continuity Checkpoint (age handled deliberately, no silent drift)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 31,
+        "line_end": 31,
+        "quote": "\"because Lira had walked away from a column once, and had not been fast enough to walk away from what it had made of her, and was still, at nineteen, on a road, finding out what she was without one.\""
+      },
+      "comparison_evidence": {
+        "path": "books/book-01-the-shattered/chapters/chapter-15.md",
+        "line_start": 73,
+        "line_end": 73,
+        "quote": "Book 1 Chapter 15 places Lira a year ahead of Cael - \"she was fifteen and self-taught in her own right\" - in the same stretch of Book 1 in which Cael is \"fourteen years old\" (book-01 chapter-08.md:229). Cael is nineteen here (CHAPTER_ARCHITECTURE header: \"Cael's age: NINETEEN throughout\"; STATE_RUNNING, After Chapter 1: \"CAEL: nineteen\")."
+      },
+      "consequence": "The chapter hands Lira Cael's own number. On Book 1's arithmetic she is twenty. The architecture makes age the single most closely watched continuity item in this book - it carries a REVISED block that moved a birthday out of Ch14 specifically to stop age drift, and an OPEN item flagging the series bible's age band as unreconciled - so a companion's age asserted in passing, with no on-page basis and no staged birthday behind it, is exactly the drift that block exists to prevent. It also reads, at speed, as if the narrator has attached his own age to her.",
+      "repair_target": "Cut the age. The sentence loses nothing: 'and was still, on a road, finding out what she was without one' carries the whole of it, and the paragraph is already long. If a number is wanted for the contrast with the ladder, make it twenty and check it against Book 1's arithmetic first; do not stage a birthday for her here, and do not resolve the question by making them the same age, which would need the series bible and would not belong in this chapter.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH06-007",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "causality",
+      "gate": "Craft core: causal legibility and earned resolution; CHAPTER_ARCHITECTURE plant ledger (the still-place-as-fused-floor resonance is Ch22's and is felt, never explained)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 51,
+        "line_end": 51,
+        "quote": "\"and I have had my hands on you five times and got nothing three times and a floor the fourth and a cord the fifth, and I don't know what you are\""
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-07.md",
+        "line_start": 201,
+        "line_end": 201,
+        "quote": "Book 7 Chapter 7's log fixes the first three: \"Oryn read me three times and got nothing three times and wants a fourth.\" Nothing in Book 7 or in Book 8's drafted chapters attaches 'a floor' to her fourth reading, and the fifth - the surface reading at Thornwater in Ch1 - found his ribs healed, not 'a cord' (the cord is an instrument anomaly Cael reported to her, per STATE_RUNNING: \"Told to Oryn at Thornwater; she: 'I don't know what that is.'\"). Against this, the architecture reserves the floor image: \"the Rune sense finds the 'still place' at his center reading not as injury and not as a fragment but as structure - a shape like an instruction with no language, or one of the fused-stone floors with no superstructure on it\" (Ch22)."
+      },
+      "consequence": "Two of the five items in the most precise speech in the chapter point at nothing the reader has. The list is built to be checkable - the narrator's whole register invites the reader to check it - and three items check out while two do not, which makes the speech feel exact and leave the reader behind. Worse, 'a floor' is the specific image the architecture holds back for the Ch22 Rune reading of the still place and its rhyme with the Court; heard from Oryn's mouth at a fire in Ch6 it either pre-pays that resonance from the wrong instrument and the wrong character, or means something else entirely and cannot be told apart from the version that does.",
+      "repair_target": "Make both items recoverable, or cut them. The fourth is available and is better than 'a floor': it is the reading in Book 7 Ch13-14 that gave him the tenth fragment - the one where she reached for a Path and found, in her own words there, that there was nothing in him shaped like a Path for the reading to find. The fifth is available too: the surface reading at Thornwater in Ch1, which found the ribs healed and told her nothing about the rest. If the cord anomaly is wanted in the speech it belongs as a separate clause about what his hands do to instruments, not as something she read in him. Whatever replaces 'a floor' must not be a flat, level, seamless or stone-adjacent image; Ch22 needs that ground clear.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH06-008",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity",
+      "gate": "Craft core: authority ladder (approved canon over packet); CHAPTER_ARCHITECTURE header (where a card and Book 7's prose differ, the prose governs)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 99,
+        "line_end": 99,
+        "quote": "\"because the condition was the condition and he had entered it in his own hand on a bank at Millrace and again last night at a fire\""
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-18.md",
+        "line_start": 75,
+        "line_end": 77,
+        "quote": "\"He did not write it at the ford. He wrote it an hour up the road, at the fork above Millrace where her route's road went on west along the ridge toward the fourth hold and the Stair road turned south off it\" - and the entry itself: \"Hundred and thirteenth day, the fork above Millrace. Oryn came. On her terms. She'll turn north the day she has to and I won't ask her not to.\""
+      },
+      "consequence": "The bank at Millrace is where she stated her terms; the fork above Millrace, an hour further on, is where he wrote them down, and Book 7 makes the distinction deliberately and at length. Relocating the writing to the bank costs the chapter the rhyme it is otherwise built on - he first entered the condition at a fork, standing at a stone, with her mule's head being turned; he does it again here at a fork, at a stone, with her mule's rope in her hand. The chapter is already reaching for that echo at ch06.md:97 ('the second fork of his life that he had stood at with her') and this line quietly cancels the strongest half of it.",
+      "repair_target": "Change 'on a bank at Millrace' to the fork above Millrace, or to 'at a fork above Millrace', which restores Book 7's fact and lets the sentence's own argument about second forks land. Note that the packet's knowledge_boundary carries the error ('the condition, written on a bank at Millrace (B7 Ch18)') and that Ch5 already reproduced it (ch05.md:121, 'the condition had been written in his own hand on a bank at Millrace'), so correct the packet and STATE_RUNNING in the same pass and flag Ch5 for the same one-phrase fix while it is still open.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH06-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity",
+      "gate": "Craft core: continuity persistence (locations and elapsed time); charter 4.1 by extension (the ground must be drawable from the text)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "\"a squared post of grey rock at the road's edge on the evening of the two hundred and eightieth day, a mile past the spring's rise\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch05.md",
+        "line_start": 3,
+        "line_end": 121,
+        "quote": "Chapter 5 opens at that spring on the same day's morning - \"They read it at a spring a mile past the shoulder hold on the morning of the two hundred and eightieth day\" (ch05.md:3) - and places the fork a full day beyond it: \"and then at the road's fork - a day on, past the rise, where a track went north to seven holds that owed her a visit\" (ch05.md:121)."
+      },
+      "consequence": "As written the crew covers one mile between a morning halt and dusk. Chapter 5 says the fork is a day on; Chapter 6 says it is a mile on and reached the same evening. Neither chapter states that the halt at the spring ran into the afternoon, so a reader tracking the day - and this book counts its days on the page - gets a party that walked a mile in ten hours, in a chapter that opens by measuring the stone's faces.",
+      "repair_target": "Two clean options. Either drop 'a mile past the spring's rise' from ch06.md:5 for a distance that fits a day's walk west of the spring and leaves Ch5's 'a day on' intact, or keep the mile and buy the time explicitly - one clause at ch06.md:5 or in the camp paragraph saying the halt at the spring held them until the light was going. The first is preferable: the stone's distance from the spring does no work in the chapter, and the day's length does.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "The 'fifty paces' paragraph at ch06.md:99 reproduces the sentence architecture and much of the wording of Book 7 Ch23's equivalent paragraph (chapter-23.md:41: 'Fifty paces, from where the four of them stood with the mule to where the two tracks parted at a stone that was only a stone, and he walked them beside her... which was a sentence that asked her to stay, and which was a good sentence, and which he did not say... A man who breaks the condition at the first fork it costs him has not understood the condition.'). The packet asks for the fork to be 'rhymed by the image, not repeated by the lines', and this is nearer reprise than rhyme. Against that: the variations are deliberate and load-bearing ('still a sentence', 'and again last night at a fire', 'at the second fork it costs him has not understood the condition any better than a man who breaks it at the first'), and the result is the best single sentence in the chapter. Recorded for the human seat rather than raised as a defect - if it is trimmed, trim the shared clauses and keep the second-fork clause, which is the new thing.",
+    "ch06.md:9 reports both of Book 7's prohibited fork lines in fulfilment form inside one sentence: 'He had brought the map. He had found her at Thornwater.' Neither is quoted, the prohibition's letter holds, and the beat has a real job - showing the first fork paid in full before the second is entered, which is what earns 'She did not say the other sentence' at ch06.md:91. But a listener hears both sentences at the second fork, which is close to what the prohibition exists to prevent, and the chapter says the same thing better forty lines later. Worth the human seat's ear; not a defect on the packet's wording.",
+    "Oryn's closing line, 'Bring me whatever walks out of that archive with you. All of it.' (ch06.md:89), is her own and is not 'Bring the map' - but it opens on the same imperative verb, in the same structural position (her last words to him at a fork), addressed to the same man about the same kind of object. Whether that is the intended rhyme or an accidental echo is a taste call for the human seat. The author report names it as a deliberate substitution.",
+    "'which was' appears 13 times in roughly 4,000 words, clustered in the fire scene (ch06.md:11, 19, 31, 41, 51, 65, 73, 81, 83, 91, 97, 111, 129). It is not a charter-capped phrase and it is genuine house voice - the cataloguing narrator's hinge - but this is the top of the series' range, and in three places it stacks two to a sentence. A compression pass could take four of them out without touching a comma of the dialogue.",
+    "Lira's glance at ch06.md:31 comes with a three-clause interior summary that states her Ch9 want in advance ('finding out what she was without one', against Book 7 Ch4's 'So what am I becoming, exactly, if nobody's measuring?'). The plant asks for 'one glance, no speech'; the no-speech holds and the narration is Cael's inference, so this is not a breach. But it is more of Ch9's material than the plant asks for, and Ch9's want-scene will have to find a new way to say the thing this paragraph has already said.",
+    "Word count 4,024 over the file, roughly 4,014 excluding the heading and the five section rules, against a 4,600 target - inside the tolerance band by about 104 words and the lightest chapter of the book so far. The thinnest place is the pricing round at ch06.md:81, where Seln and Karis each get a single clause; Karis in particular is given an instruction ('sleep') and no reaction at all, in a chapter where every other person at the fire answers in their own currency.",
+    "The copy of craft/VOICE_CHARTER.md compiled into this run's prompt predates the Reader Standard section recorded 2026-09-05, and THE_AUTHOR's Gate 27 is likewise absent from the compiled charter text. The author therefore drafted without the gate in front of them. The draft passes it cleanly on its own merits (see the gate row), but the compiler should be re-run before the Ch7 packet so the standard is in the prompt rather than only in the repository.",
+    "Oryn's 'it reads everyone who walks up its steps' (ch06.md:51) is a stronger claim about Arbiter stations than the Bible makes - the Bible has stations perform formal advancement evaluation, not blanket reading of passers-by. It is dialogue, framed as what a woman certified under one believes she knows, and it usefully confines the danger to the steps, which is exactly what the term she extracts covers. Flagged only so the Ch14 plant, where the station does something faint at a distance to a man who does not cross to it, is written knowing this line is on the page."
+  ],
+  "strengths": [
+    "The fixed term is verbatim and is set where it can carry: it arrives at the end of a speech that has already earned it, and it is immediately reframed by her as a request in a specific currency - 'I'm going to ask you for it in the only form I'll take it in' (ch06.md:55) - so the writing that follows is her design, not his gesture. Protect the wording exactly on any repair pass.",
+    "The covenant's form is made physical and then made permanent, in the series' own procedural register: the satchel, the flap, the pocket built for the log, the plain hand (ch06.md:61); the entry itself in the log's voice (ch06.md:63); the reading back 'at the size he read a thing that was going to be kept' and her one nod and 'That'll do' (ch06.md:65); and the distinction the whole chapter turns on - 'not a promise, which was a thing a man said and could unsay; a line in a book, which was a thing a man wrote and could be read back to' (ch06.md:65). This is the packet's obligation over-delivered.",
+    "'Leaving and routing are different verbs. I'm doing the second' (ch06.md:33) is priced rather than admired: it is followed by her demand that the fire file it correctly, answered by Brom in one word said 'as a man says a price he has agreed to' (ch06.md:35), then by Karis writing it down (ch06.md:39), then by Seln buying three weeks of it at the same size he sold it (ch06.md:41). Four characters each pay for the same sentence in their own currency inside seven lines.",
+    "Oryn's account of the city is exactly two concrete details and no abstraction - 'the walls had a ledger, and the ledger had a column for the patient's tier, and I was assigned by the column' and 'I spent a year mending Bronzes with bruises while the yard went septic under the window' (ch06.md:25) - with the institution's own voice quoted once, 'you'll not be wasted on the yard, girl', which does more damage to it than any argument would. No city named, no academy named, inside the invention budget, and it is the moral center of the chapter.",
+    "'She did not say the other sentence. She had said it at a fork once and it had meant a thing, and it did not need saying at this one, and everyone at the fire heard her not say it' (ch06.md:91) converts a packet prohibition into the best small beat in the chapter, and does it in a way only a reader of Book 7 will feel and a new reader will not trip over.",
+    "Vastin's beat at ch06.md:43 does the whole of the card's requirement in one sentence and stops - a Compact unit never let a member walk, he cannot tell whether he is watching discipline or its absence, 'and he was too honest to guess'. It is paid off twice without repetition: priced at the fire in the same breath as a Copper's shoulder (ch06.md:83), and at the departure watching the watchers and finding 'a thing that was not in his catalogue' (ch06.md:111).",
+    "The station speech refuses the one thing the packet forbids and makes the refusal the argument: 'Not because I know what it'd do. Because I don't' (ch06.md:51). Uncertainty is the reason for the term rather than an evasion of it, which is also the only way this promise can still be live and unexplained when Ch14 strikes it.",
+    "'He did not look at it.' (ch06.md:127), standing alone after the light on the crown has been described precisely enough to survive being read aloud, is the chapter's landing. It should end the file (see F-B8-CH06-004) and should not be touched otherwise.",
+    "Reader Standard: the chapter meets it without appearing to try. Clean throughout on the word list; the restraint that drives the plot costs somebody something on every page and is never congratulated; wrong is named as wrong by showing an institution doing it rather than by anyone denouncing it; the adult with the ruined career is treated with exact respect; no violence, no gore, no innuendo."
+  ]
 }

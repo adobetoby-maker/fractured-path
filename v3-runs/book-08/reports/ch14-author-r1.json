@@ -1,0 +1,69 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch14-r1",
+  "scene_id": "b8-ch14",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch14.md",
+  "word_count": 3521,
+  "obligations": [
+    {
+      "obligation": "Hesk's letter and the dividers on the courier chain; only the dividers new",
+      "status": "MET",
+      "evidence": "The runner; the oilcloth and the one-pull knot; 'A rule says a line is true. A divider says how far, and carries it. You've the first. Here's the second'."
+    },
+    {
+      "obligation": "The family's marking: a meal priced, a ledger closed, seats kept; Vastin at the table",
+      "status": "MET",
+      "evidence": "'Four, for five'; Karis's cup and Oryn's cup at two empty places; Seln's slip in the fire ('Closed'); Vastin 'at a crew's long table for a thing that was not work'."
+    },
+    {
+      "obligation": "Karis below with Cleon on the seventh day; her absence as characterization",
+      "status": "MET",
+      "evidence": "'Today he tells me' at the yard door; 'nobody had gone to see why'."
+    },
+    {
+      "obligation": "The log's first entry inside walls, the custom without the occasion",
+      "status": "MET",
+      "evidence": "'He wrote the log inside walls … the first entry in the plain hand that had ever been made in a city'; the inventory's form (twelve; the still place; a hundred and thirty; the promise)."
+    },
+    {
+      "obligation": "Plant 3, third instance: the light's faint wrongness; deniable; logged with the others; not crossed",
+      "status": "MET",
+      "evidence": "'it was not steady. For the length of a breath … a pressure, small, the pressure of a thing turning'; 'Nobody, on a street with forty people on it, had felt' it; the page with four entries; 'He did not cross.'"
+    },
+    {
+      "obligation": "The promise kept explicitly",
+      "status": "MET",
+      "evidence": "'four tiers below the crown'; 'Not the steps. Not the square. Eight days inside and I've not been within four tiers of either.'"
+    },
+    {
+      "obligation": "Nineteen; no birthday",
+      "status": "MET",
+      "evidence": "'he was nineteen, and had been nineteen since a steading in the autumn'; the word 'birthday' does not appear."
+    },
+    {
+      "obligation": "Close on the image; the file ends on 'The light behind him.'",
+      "status": "MET",
+      "evidence": "Final line."
+    },
+    {
+      "obligation": "READER STANDARD",
+      "status": "MET",
+      "evidence": "gates: banned words 0."
+    }
+  ],
+  "inventions": [
+    "Hesk's address ('the boy with the log, at the edge, wherever the edge is this season'); the dividers' wheel; the table eleven of Hesk's first marks long; the meal (mutton, bread, the district's beer); Seln's slip in the fire.",
+    "Cash 130 (the week's inn paid to the day)."
+  ],
+  "state_change_proposals": [
+    "Day 292: Hesk's dividers received (with the straightedge in Cael's coat; 'Lines are for finding out how far a thing is from another thing. Everything is.'); the meal (four marks); cash 130; Karis below with Cleon on the seventh day, not up by afternoon.",
+    "PLANT 3, third instance: the station's light 'not steady' for a breath, felt as a pressure, only for him; logged as the fourth entry on the page of things the instruments do wrong around him; he did not cross; the promise held at its first cost.",
+    "The log's first entry inside walls. Lira twenty-seven days; Brom's shoulder bound fresh; Vastin's knee a month running; Seln's ledger closed."
+  ],
+  "deviations": [
+    "'four hundred' removed from the light's description ('for longer than the walls').",
+    "Word count ~3,9xx after expansion."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,182 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch12",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 12 card — No Authority, combat-primary; Chapter 13 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–11' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "combat",
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen; day 290 (the archive week's end approaching; Cleon's 'give me a week' is nearly up), dusk, coming up from the archive with the boxes — WHERE: the archive's iron door is under the registry on the crown; the party comes up the cellar stair into the registry's yard and down the tiers by count each evening; the card places the fight 'between the Deepstacks gate and the inn' in the OUTER district — resolve: the team waits in the outer district's stepped alley that the party takes from the first-tier stair down to the ring road (the lane Seln chose), a choke between the stair's foot and the inn's yard; the 'archive gate' of the card read as the first-tier gate at the stair's foot (the way down from the tiers). State the geography drawably.",
+      "THE TEAM (the faceless faction, B7 Ch19): nameless, road grey or now city-coloured, hooded, faces never seen, equipped for practitioners (crossbows? in a city — knives, staves, weighted cords; state it), a second Anchor hand among them possibly (a course laid in an alley — allowed once, no faces); they know quiet ground exists and which crew walks out of it declaring; they do NOT know what works inside; they want Seln's cache and the archive unread. No official, no registry record; off the books. NONE taken; NO faces; NO names.",
+      "IRON WALL (Ch4 shown): a rooted plane; cannot chase; protects only what is behind; in a corridor it cannot be flanked (the lesson pays). Vastin roots the alley's narrow with the party BEHIND him (the gate side? NO — the party must be on the wall's protected side with the way to the inn open behind them, or the wall traps them; resolve: Vastin roots the choke ABOVE the party so the team on the stair side cannot come down; the party's way out is the ring road behind them; the team's second element tries the lane from below and meets Brom and Lira and Cael — the wall cannot be flanked because the alley's walls are sheer, so the team must come THROUGH the wall or round by the ring road, and coming round costs them the coordination Seln removes).",
+      "THE INTEGRATION (charter §5.3; Continuity Rule 6): Cael beside the rooted man for a full minute under threat, watching Iron Wall from two feet; the fragment integrates — Iron-Wall-adjacent, distinct from Brom's Iron-adjacent (holding vs hardening); partial; tier equivalent unknown; the notice renders AFTER, when he attends to it, in the LOCKED irregular format (see B7's notices: 'Tide-adjacent — Oryn; partial; Iron; self and contact…' — a fragment notice is prose in the log's register, no stat block); its first use, if any, is a breath's holding beside Vastin's plane — or NO use this chapter (safer: integrate, notice, no use). The engagement field: 'held' / 'defensive'.",
+      "DISCIPLINE: fight without declaring where possible — the team expects declarations; Cael's burst NOT used (the promise? no — the station is not near); Lira runs nowhere (no room); Brom's shoulder NOT used (Oryn's order) — he fights with the good arm and the rock/his back and pays for it; Karis takes a shallow cut; Seln's sightline work; the cache kept.",
+      "COSTS ledgered: Vastin spent worse than Ch4 (a Silver-tier rooted declaration held a full minute; the knee); Karis a shallow cut (arm or hand; bound by Brom's hands and Karis's thread — the priced cost of no healer); Brom's shoulder carried through it; the party unbroken; the gate held.",
+      "SEALED: no Architect; no reveal; the archive's contents not discussed with the team; no Rune integration (Ch13). The team is not the Compact's registry; the clerk is not involved.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD (Gate 27): violence with cost and fear, no gore, no relish; nobody killed by the crew (the team breaks; 'none taken')."
+    ]
+  },
+  "purpose": "The faceless faction's reach across the Line and inside a city's walls, and Vastin's fight, from which Cael integrates the Iron-Wall-adjacent fragment (the eleventh). The team that tracked the crew west (the completion report told the poster which crew walks quiet ground) moves to stop the archive being read — not through the registry (a record) but quietly, in the outer district, off the books, aimed at the working party and at Seln's cache. Terrain first: a stepped alley at dusk between the archive's gate and the inn — narrow, walled, a single choke where the stair from the archive level meets the district lane; no room to run, the worst ground for Lira and the best for Iron Wall. Four exchanges: the team takes the choke to trap the party against the gate; Vastin roots it — and this time the corridor REWARDS the wall (it cannot be flanked) and Ch4's lesson pays because Cael and Brom are the reason the team wants the line; the team came equipped for declarations and meets people (the Book 7 discipline); Seln removes their coordination from a sightline nobody covered; the cache stays unopened and untaken; the team breaks and melts into the district, faceless, unnamed. Cael, beside the rooted man for a full minute under real threat, integrates the fragment; the notice renders after in the locked irregular format — holding, where Brom's is hardening. Close on the log with the fixed text.",
+  "scene_shape": {
+    "opening_state": "Dusk on the 290th: the four hands and Karis coming down the first-tier stair by count with the boxes, Seln ahead as he always is; the stepped alley from the stair's foot to the ring road — a choke: walls sheer both sides, steps, a single width; the inn's yard at its bottom; and the alley's top, where the stair meets it, already held by four hooded figures who are not carters, and its bottom, where two more have come round by the ring road.",
+    "pov_goal": "Cael wants the party through the alley to the inn with the boxes and the cache; he wants nobody to declare; he gets a wall instead, in the one place a wall is right.",
+    "opposition": "Six faceless practitioners equipped for practitioners (weighted cords, staves, knives; a crossbow at the top; one Anchor course laid across the alley's bottom step — allowed once); the alley itself; the boxes; Brom's shoulder; no healer.",
+    "turn": "Vastin roots the alley above the party — a held plane across the choke's narrow, the stair side sealed — and the corridor rewards it: nothing comes down; the four at the top cannot flank sheer walls; and this time Cael and Brom are the reason the two at the bottom want the line, drawing the attack onto the wall's protected side instead of past it. The team came ready for declarations and meets people: Brom with a rock and his back, Lira with a knife in a space with no room, Cael silent at the plane's edge — and Seln, from a roof or a doorway nobody covered, removes the man who was coordinating the six (a cord, a fall, a signal cut — not a killing).",
+    "choice": "Cael stands beside the rooted man for a full minute, two feet from a Silver-tier plane under a crossbow, and holds — not a Path; his ground — and the fragment comes; he does not use it; he keeps the man's flank with a knife and a body while the man cannot move, which is the Ch4 lesson turned into the thing he does.",
+    "outcome": "The team breaks and melts into the district — faceless, none taken, none named; the cache unopened and untaken; the gate held; the crew's movements known to them now for certain; what works inside the Quiet still unknown to them (they saw an alley). Vastin spent worse than Ch4; Karis cut; the notice renders when he attends to it.",
+    "closing_state": "LOG — the card's fixed text verbatim: \"Eleventh. Iron Wall, from Vastin, in an alley, while he held a line for us with nothing behind him but the decision to. It's not Brom's — Brom gets harder, this holds. I've spent five years learning to give ground and disappear. Now I've got the opposite in me, from the man who spent forty years being the wall they put in front of people like me. He held it for us instead. I don't have a word for what that is. I wrote it down anyway.\" The file ends on it."
+  },
+  "obligations": {
+    "must_include": [
+      "Geography drawable before the first exchange (charter §4.1): the stair's foot, the stepped alley, its width, its sheer walls, the inn's yard at the bottom, the ring road; where the six are and where the five and Seln are.",
+      "Four exchanges (§4.2), each changing position/information/resource/injury, with ≥2 terrain-caused beats: (1) the choke taken from both ends; Vastin roots the plane ACROSS the alley above the party — nothing comes down; (2) the team's second element comes at the wall's protected side from below expecting declarations and meets people — Brom's rock and back, Lira's knife in no room, Cael silent; Cael and Brom are the reason they want the line (Ch4's lesson paid); (3) Seln removes the team's coordination from a sightline nobody covered — not a kill; the cache stays on his back, unopened, untaken; (4) the team breaks and melts into the district; none taken; no faces.",
+      "The win-sentence on the page in the removal form (the card's): Vastin removed the team's ability to flank by turning a corridor into a wall, and Cael and Brom removed their ability to ignore it by being the cost of not.",
+      "The INTEGRATION staged per Continuity Rule 6: Cael beside the plane a full minute under real threat; the notice rendered AFTER, when he attends to it, in the locked irregular prose-notice format: Iron-Wall-adjacent; from Vastin; partial; holding, not hardening; tier equivalent unknown; engagement field held/defensive — no stat block.",
+      "Costs ledgered forward (§4.3): Vastin spent worse than Ch4, the knee; Karis a shallow cut, bound by Brom's hands and Karis's thread (no healer — the priced cost); Brom's shoulder carried, unused, and what that cost him; Lira's arm's twenty-five days.",
+      "The faction's knowledge stated in Cael's register: they know the crew's movements now; they do not know what works inside the Quiet; they saw an alley.",
+      "Close on the fixed log VERBATIM; the file ends on it.",
+      "READER STANDARD: violence with cost and fear, no gore or relish; the crew kills nobody; the team's fallen are hurt, not slaughtered; nothing lingered on."
+    ],
+    "plants": [
+      "The eleventh fragment — holding — Ch21's wall for the crew; Book 9's ledger.",
+      "The faction's certainty of the crew's movements — Ch21's last reach on the road.",
+      "The cache still targeted — kept.",
+      "The station: not touched; the promise stands (the fight is in the outer district)."
+    ],
+    "payoffs": [
+      "Ch4's lesson (the wall holds the line; someone else is the reason) — paid in a corridor.",
+      "'Be nobody' (Ch10) — Vastin helps by holding, not by naming."
+    ],
+    "prohibited_outcomes": [
+      "No killing by the crew; no gore; no faces seen; no names; no one taken; no registry or clerk involvement.",
+      "No Rune integration (Ch13); no Iron Wall USE by Cael beyond integration (a breath's holding at most, or none).",
+      "No burst near the station; no square; no station.",
+      "No Architect; no archive content told to anyone.",
+      "No image or dialogue closer; the LOG is the closer (Ch11 closed on dialogue).",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The alley (steps, walls, a drain, a doorway, a roof Seln can use); the team's kit in a city (cords, staves, knives, one crossbow); an Anchor course laid across a step (once).",
+      "The notice's prose in the log's register."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any Iron Wall mechanic beyond the reference."
+    ],
+    "forbidden": [
+      "Any explanation of who sent the team beyond 'the faceless faction'; any face; any archive content."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 11 (The Marks)",
+      "path": "v3-runs/book-08/drafts/ch11.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 4 — Iron Wall shown; the lesson; the doctrine",
+      "path": "v3-runs/book-08/drafts/ch04.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 19 — the faceless team on the Stair's rim; the fragment-notice register (the Daeva suite; Anchor unbinding)",
+      "path": "books/book-07-void-roads/chapters/chapter-19.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 13 — the Tide acquisition notice as rendered (the locked irregular format)",
+      "path": "books/book-07-void-roads/chapters/chapter-13.md",
+      "required": true
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 13 card — The Reader (Rune integrated from Cleon) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch12.md",
+    "report_path": "v3-runs/book-08/reports/ch12-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch12-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch12-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

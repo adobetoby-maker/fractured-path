@@ -1,0 +1,174 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch13",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 13 card — The Reader; Chapter 14 card (Dividers, REVISED — no birthday) as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–12' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen; day 291 (the morning after the cut) — the party down again by count (the clerk has looked at them twice; the team knows where they sleep; Seln changes the route); Cleon's week is at its sixth day; Karis 'three days from the thing'. Cash 136. Karis's hand bound; Brom's shoulder; Vastin spent, on the knee, down as a hand regardless.",
+      "ELEVEN fragments now (Iron-Wall-adjacent, Ch12: held; deployment none). The still place untouched. The reading (Tide) is the tenth.",
+      "RUNE (Ch11 stated): structure not meaning; made things only ('it doesn't work on a man'); costs the eyes an hour; useless in a fight. Cael WITNESSED it in Ch11 (the bones read on the Hall's fourth sheet and the board). In Ch13 Cleon runs it again on a carving-copy to show Karis 'instruction, not description' from inside — the demonstration; Cael at close range holding the lamp/the sheet.",
+      "THE COVENANT for non-hostile acquisition (B6 non-hostile / B7 clinical, 'ask first, every time' for READING A PERSON): here the fragment is of a technique on OBJECTS; Cael does not read Cleon; the ethics hold in a lighter form — Cael tells Cleon after, honestly ('honesty is the only strategy that survives'), and the telling is the covenant. Cleon is the first person to receive the news as EVIDENCE, not threat/asset/phenomenon; he stops at the Book 9 sentence ('That's—') and does not say it; he looks at Cael properly once, then deliberately back at the carvings; his warning is the fixed close.",
+      "THE NOTICE (locked irregular prose format, as Ch12's): Rune-adjacent; Cleon; partial; the second non-hostile engagement field ('inscriptive' — the series' term for this book, per the card: non-hostile → clinical → inscriptive); structure of made systems, not meaning; useless on the living; useless in a fight; tier equivalent unknown; deployment none. Its one load-bearing use is Ch22 (turned inward, against the rule) — NOT here; do not turn it on himself; do not turn it on the still place.",
+      "SEALED: no reveal (Ch15); no [UNBOUND] meaning; no Architect; the Book 9 sentence NOT said (Cleon stops); Cleon does not theorize the Fractured Path; nothing about the station.",
+      "The team from the cut: Seln has changed the route; the party goes up and down by the carts' street in daylight now, or another way — state it once; no second reach this chapter.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD."
+    ]
+  },
+  "purpose": "The Chapter 13 acquisition — the series' tradition, honored a sixth time: the Rune-adjacent fragment from Cleon (the twelfth), the second non-combat integration after Tide. Cleon runs his Rune reading on a carving-copy to demonstrate to Karis what 'instruction, not description' looks like from inside the Path; Cael, present as labour at close range, watches a technique on objects — and the integration comes, in the lightest covenant the series has used, because Cleon is a craftsman demonstrating a craft, not a person being read. Cael tells Cleon after, honestly, and Cleon receives it as EVIDENCE: 'You did what,' and then, slowly, 'That's not in the classification system. That's not supposed to be possible. That's—' and stops, because the sentence he almost said is Book 9's. The notice renders in full, locked format, the second non-hostile engagement field; its function and limit on the page before it is load-bearing: structure, not meaning; useless on the living, useless in a fight. Close on the fixed dialogue: Cleon's warning — 'If that fragment ever reads something for you that shouldn't be made and reads it anyway— Don't tell me. Don't tell anyone. Just remember I said it.'",
+  "scene_shape": {
+    "opening_state": "The morning after the cut: the party down by a different route (Seln's), Karis's hand bound, Vastin on the knee refusing to stay above; the chamber; Cleon with the sheets and the text, on the sixth day of his week, saying he will show her the thing from inside because she will need to have seen it to believe what he tells her on the seventh.",
+    "pov_goal": "Cael wants to hold the lamp and watch — and, under that, to know whether the thing he wanted against a post is a thing a man can honestly come to own by standing beside a craftsman for a minute; he finds out.",
+    "opposition": "His own wanting (he does not take by ambush; he has never taken a non-hostile fragment without the person knowing); Cleon's care (a man who knows what happens to things the Compact finds interesting); the Book 9 sentence at the edge of the room.",
+    "turn": "The demonstration — Cleon's Rune run on a carving-copy at close range, the bones read aloud, instruction shown from inside — and the fragment comes to Cael as the nine came and the two this year: learned by a body standing beside a thing long enough. He feels it come and does not use it.",
+    "choice": "He tells Cleon. After, at the table, plainly, in the register the series keeps for these: what he is, what just happened, that the man's craft is in him now in part, and that he will not use it on anything Cleon would not — because honesty is the only strategy that survives, and because a thing a man gave you by working in front of you is a thing you owe him the knowing of.",
+    "outcome": "Cleon receives it as evidence ('You did what'); reaches the Book 9 sentence and stops; looks at the boy once, properly, then deliberately back at the carvings; the notice renders when Cael attends to it; Cleon's warning.",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim and contiguous: Cleon, having heard what Cael is, looking at him properly for the first time — not at the carvings, at the boy — and then deliberately looking back at the carvings: \"I'm going to pretend you didn't tell me that,\" he said, \"for your sake, not mine. But I'll tell you one thing for free, since you can apparently take my whole trade by watching me work it for a minute.\" He set down his glass. \"Everything I read is made. Stone, ink, seal — somebody built it, so I can see how. If that fragment ever reads something for you that shouldn't be made and reads it anyway—\" He stopped. \"Don't tell me. Don't tell anyone. Just remember I said it.\" He went back to the carving. Cael did not tell anyone. He remembered. — the file ends on 'He remembered.'"
+  },
+  "obligations": {
+    "must_include": [
+      "The demonstration at close range with Cael as labour (Continuity Rule 6, citing Ch11's witnessing and this scene): Cleon's Rune run on a carving-copy to show Karis instruction-not-description from inside; the bones read aloud; Cael holding the lamp/the sheet two feet away.",
+      "The integration staged in the lightest covenant: not taken by ambush; the fragment is of a technique on objects; Cael tells Cleon AFTER, honestly, in the series' register for these (as with Oryn in B7 Ch13's telling).",
+      "Cleon's reception as EVIDENCE: 'You did what,' — then slowly — 'That's not in the classification system. That's not supposed to be possible. That's—' and he stops; the sentence NOT said.",
+      "The fragment notice rendered in the locked prose format when he attends to it: Rune-adjacent; Cleon; partial; inscriptive (the second non-hostile field); structure of made systems, not meaning; useless on the living; useless in a fight; tier equivalent unknown; deployment none; Twelfth.",
+      "The limit on the page before anything is load-bearing (restated in Cael's own words or Cleon's): made things only; not a man; not meaning.",
+      "Cael does NOT use it on himself, on the still place, or on anything; he notes the wanting, again, and the rule Cleon has just given him.",
+      "The route changed after the cut (one line); Karis's bound hand; Vastin down regardless.",
+      "Close on the fixed dialogue VERBATIM and contiguous through 'He remembered.'",
+      "READER STANDARD checked."
+    ],
+    "plants": [
+      "The twelfth fragment (Rune) — Ch22's inward use against the rule; Cleon's warning is the plant for it.",
+      "'That's—' — the Book 9 sentence, unsaid.",
+      "Cleon 'a man who has learned what happens to things the Compact finds interesting' — Book 9's Compact fracture."
+    ],
+    "payoffs": [
+      "Ch7's 'I need an instrument for what doesn't move' — the instrument owned, and its rule ('made things only') owned with it.",
+      "Ch11's 'It doesn't work on a man' — carried into the notice."
+    ],
+    "prohibited_outcomes": [
+      "No reveal; no [UNBOUND]; no Architect; the Book 9 sentence not completed by anyone.",
+      "No Rune use on Cael or the still place; no reading of Cleon (Tide) — ask first, every time, and nobody asks.",
+      "No fight; no reach; no station.",
+      "No log closer (Ch12's); the closer is the fixed dialogue.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The new route to the archive; Cleon's demonstration on a chosen sheet (which floor; which run); his glass (the card gives him one — water or wine? the reader standard: water, or 'the cup'); Karis's reaction to seeing instruction from inside.",
+      "The notice's wording in the locked register."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any Rune mechanic beyond the reference and Ch11."
+    ],
+    "forbidden": [
+      "Any meaning read from the carvings; any Fractured Path theory from Cleon beyond the stopped sentence."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 12 (No Authority)",
+      "path": "v3-runs/book-08/drafts/ch12.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 11 (The Marks) — Rune's civil face and limit stated; Cael witnessing",
+      "path": "v3-runs/book-08/drafts/ch11.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 13 — the Tide acquisition: the covenant, the telling, the notice's format",
+      "path": "books/book-07-void-roads/chapters/chapter-13.md",
+      "required": true
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 14 card — Dividers (REVISED: no birthday; Hesk's dividers; the station's tripwire) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch13.md",
+    "report_path": "v3-runs/book-08/reports/ch13-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch13-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch13-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

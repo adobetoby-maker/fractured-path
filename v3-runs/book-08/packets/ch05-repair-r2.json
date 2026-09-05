@@ -1,0 +1,279 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch05",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 5 card — What the Records Say; Chapter 6 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–4' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen; day 280 (the day after the cut) — a halt at the shoulder hold or on the road beyond it; Treswick a day and a half on at the chapter's close; the fork north (Oryn's) is between here and Treswick (Ch6, next morning).",
+      "Seven on the road: Vastin spent yesterday (recovering; walking slow); Brom's foot bound; Cael's frameworks knocking for the day; Oryn present, saying nothing about the fork; the records in Karis's oilcloth; the map in her coat; both straightedges; the kit on Brom.",
+      "What was handed over (Ch3): six years of survey abstracts (more than four sites; the Ring, Stair, Hall, fourth among them; the rest theirs — some on the bearing, some not — NOT named or placed in this chapter beyond 'more than four' unless Karis states a count she has now checked, and if she does it is her count, hedged); the office's 'anomaly' column with one abbreviation; the citation page ('the Architect', Treswick's lower archive); the technician's sheet with the six-year deep-layer line and the brush-laid redaction. Seln did a sum at it and did not say it.",
+      "The GRADE (taxonomy's first appearance, PROVISIONAL): the records carry a notation per site that Karis recognizes as the SAME notation as the kit's index designation — a grading — and still cannot read; she may say what she can see (that it orders the sites; that the fourth's mark differs from the three; that the Compact's own hand uses it as if it were a tier) but NOT what the tiers are or mean (Ch17/Ch20).",
+      "The margin note (Book-9 plant c, extended): a long-gone Compact surveyor's hand in a margin, in effect 'behaves as a device, cannot be a device' — quoted as the surveyor wrote it, once; Karis enters it as an observation she cannot file; NOBODY says the Arbiter IS a device, a terminal, a circuit, infrastructure; nobody connects it to the citation; Karis's discipline line may be used to stop the sentence.",
+      "The deep-layer log: Seln sets the sheet in front of Cael without a word; Cael reads the date; the reader can do the arithmetic; Cael does NOT log it, does not say 'six years ago I', does not connect it on the page — the narration says he did not write the arithmetic down 'where a log can be read'.",
+      "SEALED: no 'designed/deployed/four hundred years'; no [UNBOUND]; no theory of who or why; the still place not touched.",
+      "Vastin: no Path shown here; recovering; his want beat is the drafting-orders reflex; Seln teaches him 'Draft nothing. Just look.' — the first thing Seln has taught anyone.",
+      "CLEON is named here for the first time, by Karis, from the scholars' registers she has read: 'The only historical-Path practitioner registered west of the Line.' Cael has not heard the name. Treswick's archive: Karis may call it the Deepstacks (she did in Ch1).",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice."
+    ]
+  },
+  "purpose": "Targeted repair of Book 8 Chapter 5 (r1 → r2) against the eleven verified findings of reports/ch05-editor-r1.json, incl. two planning decisions (DECISIONS rows 14–15). Only the flagged spans change.",
+  "scene_shape": {
+    "opening_state": "The halt — the morning after the cut, at the shoulder hold's gate or a mile beyond it where the road widens at a spring, the flat open on a stone with the sheets weighted against the wind; Karis, Seln and Vastin working it three ways while Brom rests the foot, Lira keeps the road, Oryn watches Vastin not sit down, and Cael catalogues the three readers because three ways of reading one file is a thing he has never seen.",
+    "pov_goal": "Cael wants the records to say what the Compact knows so that he can stop guessing what it knows; they say more than that, and the one line that says the most is set in front of him without a word.",
+    "opposition": "The records' own method (six years of a procedure that measured everything and asked nothing); the grade nobody can read; Vastin's reflex; Seln's silence; the map in Karis's coat.",
+    "turn": "Three findings in order: (1) the surveys' instruments and stakes — six years of measured perimeters; (2) the GRADE — the notation on every survey is the kit's index, and the fourth site carries a different mark from the three, and Karis cannot read either; (3) the margin note in a dead surveyor's hand — 'behaves as a device; cannot be a device' — and then Seln, without a word, sets the technician's sheet in front of Cael.",
+    "choice": "Cael reads the date and does the arithmetic and does not write it down where a log can be read; he puts the sheet back in the row it came from, in its place, and Seln watches him do it and says nothing, and the two of them have a thing between them that neither has said.",
+    "outcome": "Karis owns the response: everything she cannot read points at one place; Vastin's drafted orders die three times; Seln teaches him; the fork north is tomorrow and Oryn has not said a word about it.",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim: Karis: 'Six years. They measured all of it. They graded it — the sites are ranked by something, and it's the same something in the kit, and I can't read either one.' (she looks at the citation) 'Everything I can't read points at the same place.' Vastin: 'Treswick.' Karis: 'The archive under it. Cleon.' Cael: 'Who's Cleon?' Karis: 'The only historical-Path practitioner registered west of the Line. If the language is anywhere, it's under his hands. A day and a half.' She closes the case. 'And then I find out whether I've been right for five years or wrong for five years, and I don't know which I'm more afraid of.' The file ends on that line."
+  },
+  "obligations": {
+    "must_include": [
+      "The halt dated (the 280th), placed on the border road a day and a half short of Treswick; the flat open; the three readers and their three ways named on the page (pattern / omission / procedure).",
+      "The Compact surveyed with instruments and stakes for six years — shown in the records as diegetic document work (charter §3.2): radii, stake counts, surveyors' hands, dates.",
+      "The GRADE: Karis recognizes the records' per-site notation as the kit's index designation; she cannot read it; the fourth site's mark differs; she says only what she can see.",
+      "The margin note quoted once in the surveyor's words ('behaves as a device, cannot be a device' or the draft's equivalent); Karis enters it as an observation she cannot file; the sentence that would close the loop is NOT said (use her discipline line if anyone reaches for it).",
+      "Seln sets the deep-layer sheet in front of Cael without a word; Cael reads it and does not log the arithmetic; the narration says so in the series' oblique register.",
+      "Vastin's drafted orders dying in his mouth (three times, each a different Compact response — directive, classification, escalation) and the fixed exchange verbatim and contiguous: \"You keep drafting orders.\" / \"Habit.\" / \"Out here the habit's the tell. Draft nothing. Just look.\"",
+      "Cleon named by Karis for the first time; Cael asks 'Who's Cleon?'; the fixed closing dialogue verbatim and contiguous through 'which I'm more afraid of.'; the file ends there."
+    ],
+    "plants": [
+      "Book-9 plant (c) extended: the identical failure + the surveyor's margin note, cross-referenced against the crew's own three crossings.",
+      "Book-11 plant 2 deepened: the six-year sheet in Cael's hands; unlogged.",
+      "The taxonomy's first appearance (the grade); the fourth site's different mark.",
+      "Cleon; the Deepstacks; 'a day and a half'.",
+      "Oryn's silence about the fork (Ch6)."
+    ],
+    "payoffs": [
+      "Seln's silence at the handover (Ch3) — paid by the sheet set before Cael, still without a word.",
+      "B7's 'a measurement is a fact about a ruler' — reused as the discipline that stops the Book 9 sentence."
+    ],
+    "prohibited_outcomes": [
+      "No fight, no injury, no fragment use, no reading; the still place untouched.",
+      "No site named or placed beyond what B7 gave; no first-tier site; no tier meanings.",
+      "No 'device'/'terminal'/'circuit'/'infrastructure' as anyone's conclusion — only the dead surveyor's margin words, quoted.",
+      "No 'designed', 'deployed', 'four hundred years', [UNBOUND], 'primordial'.",
+      "No 'six years ago' in Cael's mouth or log connected to himself; nobody says the arithmetic.",
+      "No fork; Oryn does not announce anything (Ch6); no Treswick reached.",
+      "No log closer (Ch4 closed on the log); the closer is dialogue.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; capped phrases 0; no meta-voice."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The halt's ground (a spring, a stone, the wind); the surveyors' hands and habits; the margin note's exact wording (must keep the sense 'behaves as a device, cannot be a device'); the office's abbreviations.",
+      "Vastin's three drafted orders (a directive's opening words; a classification's; an escalation's) — as things that die in his mouth."
+    ],
+    "approval_required": [
+      "Any new named person or place beyond Cleon (named by the card).",
+      "Any count of sites Karis has now checked (if given, hedged as hers)."
+    ],
+    "forbidden": [
+      "Any meaning for the grade's tiers; any theory of the Quieting's cause or the designer."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 4 (The Border Road)",
+      "path": "v3-runs/book-08/drafts/ch04.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 3 (Six Years) — the handover as drafted: the flat, the page, the technician's sheet",
+      "path": "v3-runs/book-08/drafts/ch03.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 20 — the kit; the index; 'a measurement is a fact about a ruler'",
+      "path": "books/book-07-void-roads/chapters/chapter-20.md",
+      "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 15 — Karis's strata method; the sub-layer named",
+      "path": "books/book-07-void-roads/chapters/chapter-15.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 6 card — Oryn's Terms (the fork) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-08/drafts/ch05-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "F-B8-CH05-001",
+      "severity": "BLOCKER",
+      "gate": "Authority — arc: Book-11 plant 2; architecture age rule ('Cael's age: NINETEEN throughout ... No silent drift: every age reference in this book reads nineteen'); craft core invariant 3 (continuity persistence)",
+      "evidence": "Six years back. Not near enough. Exactly.\n\nA day he knew. A day he had a page for, in a log that was in Hesk's satchel on the ground by his boot, in the plain hand, the first entry in it that was not ",
+      "consequence": "The two sentences together assert that the technician's date falls exactly six years back AND that the day it names is a day Cael logged at fourteen. Those cannot both be true of a nineteen-year-old. ",
+      "repair_target": "This needs a planning decision before the author touches L87-L91, because the underlying seam is architecture-vs-prose, not authorial. Route (a) — keep the age rule and Ch3's reading: the date stays six years back and remains a year short of Cael's day, and L89 loses 'Not near enough. Exactly.' in favour of the near-miss Ch3 already established; the beat then turns on the near-coincidence and on Seln having set it in front of him, which is enough to carry 'a thing between the two of them', and L91's 'written at fourteen' is cut or re-dated. Route (b) — make the coincidence exact: that requires the plant ledger's 'six years ago Cael Kindled' to be re-stated as five, Ch3's L99 gloss to be re-cut, and every 'six years' in Ch1-Ch5 and in the records themselves to move to five, which is a book-wide change and is not this chapter's to make. Either way, L87's 'fourteen years' must be resolved with it (see F-B8-CH05-007). Do not repair by softening 'Exactly' alone while leaving 'written at fourteen' standing — that leaves the same twenty-year-old on the page."
+    },
+    {
+      "id": "F-B8-CH05-002",
+      "severity": "BLOCKER",
+      "gate": "Authority — arc: the Quieting site taxonomy (ARCH: Ring, Stair, Hall and the cordoned fourth site are ALL second-tier); Book 7 closed prose governs where a card differs",
+      "evidence": "Her finger stopped over the fourth row. \"The fourth. Two strokes and a bar. Different.\"",
+      "consequence": "The chapter's second finding — the one Karis calls a grade and the one the book's title-chapter payoff depends on — rests on the fourth site's mark being different from the other three. The book's own",
+      "repair_target": "Escalate to the planning layer rather than repairing in prose. The cheapest fix that keeps everything the chapter does well: let the mark be the SAME on all four — which is itself a finding, and a better one for this chapter, because it says the office graded the cordoned fourth exactly as it graded the three it left alone, and Karis still cannot read what the grade means. Rows five and six (the sites the crew has never found) are where a differing mark can live without touching B7 or the taxonomy, and Karis's refusal to say what is on them (L59) is already staged to hold it. If the planning layer wants the fourth to differ, the taxonomy at ARCH L89, the Ch20 card at ARCH L306, and B7 Ch23's stake description all have to be reconciled first and the decision recorded; that is not an author repair. Whichever route is taken, L61, L63 and L67 move with L59."
+    },
+    {
+      "id": "F-B8-CH05-003",
+      "severity": "HIGH",
+      "gate": "Authority — Book 7 closed prose governs (the kit's index designation and the stakes' small mark)",
+      "evidence": "\"Here.\" Her finger above a sheet in the first row — the Ring — not on it. \"Top corner, by the stamp. A mark. Three strokes and a bar.\"",
+      "consequence": "Karis identifies the sheet-corner mark as the kit's ledger designation — 'It's the kit's mark ... The same strokes' (L59). Book 7 renders that designation three separate times, always the same way and",
+      "repair_target": "Bring the rendering back to B7's: the mark is 'the stroke and the bar'. If the grade needs to be visibly countable so that a difference can exist somewhere in the file, the countable element should be something B7 did not fix — the stamp's ruling, the bar's position, a second small mark beside the first — rather than re-counting the strokes B7 already rendered. Coordinate with F-B8-CH05-002; if that finding resolves toward one mark for all four sites, this one collapses into it."
+    },
+    {
+      "id": "F-B8-CH05-004",
+      "severity": "MEDIUM",
+      "gate": "Craft core: continuity persistence (possessions and positions hold); charter §4.1 (the sequence must be drawable from the text alone)",
+      "evidence": "\"The only historical-Path practitioner registered west of the Line. If the language is anywhere, it's under his hands. A day and a half.\" She closed the case.",
+      "consequence": "The card's fixed close carries the stage direction 'She closes the case', and the draft reproduces it — but by the time the line arrives the records are already tied at both ends and under her arm, an",
+      "repair_target": "Three routes, cheapest first. (a) Call the records' container a case throughout the chapter — it is a courier's flat, and a flat can be a flat case — and move the closing of it from L123-L125 to L135, leaving only the standing-up and the citation-on-top at L125; the fixed line then does the work it was written to do. (b) Keep 'Karis tied the flat' at L123 but leave one end untied for the citation and let 'She closed the case' at L135 be the second end going home. (c) If the flat must stay tied at L123, give her the notebook to close instead — but that changes the card's words and needs an exception, so prefer (a) or (b). Do not simply delete the direction; it is inside the verbatim close."
+    },
+    {
+      "id": "F-B8-CH05-005",
+      "severity": "MEDIUM",
+      "gate": "Authority — Book 7 closed prose governs; craft core invariant 3 (continuity persistence)",
+      "evidence": "Twice. He paced a floor in a bowl twice, five years ago, and set iron at every fifth stride, and wrote it in a form.",
+      "consequence": "Karis is glossing the office form's 'stakes set at the fives' for the table, and the gloss she gives — iron at every fifth stride — contradicts the only description of that stake line the series has p",
+      "repair_target": "Cut the conversion. The form's own phrase, 'stakes set at the fives', is already in the italic quotation and does not need glossing — Karis can land the point with 'and set iron the whole way round, and wrote it in a form', which keeps the paragraph's argument (they measured properly and shelved it) without contradicting B7. If a spacing must be spoken, it is 'a stride apart', matching B7 Ch23. Check that 'at the fives' elsewhere in the book is not being read as strides either — the pacing cord is knotted at the fives (B7 Ch20 L47) and the units are cords, not strides."
+    },
+    {
+      "id": "F-B8-CH05-006",
+      "severity": "MEDIUM",
+      "gate": "Packet prohibited_outcomes ('capped phrases 0'); charter §9 (any capped beat phrase >3 per book is a defect)",
+      "evidence": "he stood at the slab's end with his shoulder to the wind and read the sheets where they lay, upside down or sideways as they came",
+      "consequence": "The packet sets capped phrases at 0 for this chapter and the state ledger records that the 'upside down' budget was already declared spent, with the remaining instance reserved for Chapter 8. Counted ",
+      "repair_target": "Three cuts, all local and none touching a fixed line. L11: 'upside down or sideways as they came' → 'whichever way they lay' or simply 'as they came'. L31: 'It took her the length of a breath' → give the interval in the chapter's own objects (the wind on the sheets, the spring's noise, her hand reaching the row's end) or cut the clause — the dash-list that follows already supplies the pause. L117: 'Vastin looked at him for the length of a breath' → 'Vastin looked at him' or a physical beat (the stick, the trough). Re-run the two counts over the chapter after repair; both must return 0."
+    },
+    {
+      "id": "F-B8-CH05-007",
+      "severity": "MEDIUM",
+      "gate": "Craft core invariant 3 (continuity persistence); architecture age rule (nineteen throughout)",
+      "evidence": "It was a Compact date, a registry year and a day in it, and he had lived by the Compact's count for fourteen years before he had lived by the Line's for nine months, and a date was a date.",
+      "consequence": "This sentence is Ch3's, rewritten from the room to Cael alone, and the rewrite introduces a number the original deliberately avoided. Cael is nineteen and has been on the Line's count for nine months,",
+      "repair_target": "Restore Ch3's construction, which was right: he had lived by the Compact's count his whole life before the Line's nine months. If a number is wanted for the cataloguer's register, the safe one is the one Ch1 already published — five years of staying out of registries — and it should not be attached to the Compact's calendar, which he never stopped using. Repair this in the same pass as F-B8-CH05-001 so the paragraph reconciles as a unit."
+    },
+    {
+      "id": "F-B8-CH05-008",
+      "severity": "MEDIUM",
+      "gate": "Authority — arc: Clue/Plant Ledger, Book-11 plant 3 ('the anomalies clustering on Cael (Ch1, Ch5, Ch14, Ch22)')",
+      "evidence": "Brom on the slab's end with the boot off and the foot up on the kit's case, saying nothing about it, which said everything.",
+      "consequence": "The plant ledger names Chapter 5 as one of the four chapters that carry Book 11's third plant, and specifies for Ch1/Ch5 that the kit's instruments read clean for everyone and wrong in Cael's hands. S",
+      "repair_target": "A planning call on whether Ch5 still carries plant 3, then one of two cheap moves if it does. (a) A record anomaly rather than an instrument one, which suits a reading chapter: Karis's count of a row comes out one short in Cael's hands and right in hers, and she re-counts and says nothing — four lines, attributable in-world to a wind-blown slab. (b) Put the kit to brief work: Brom's foot comes off the case, the cord comes out to settle a radius against the sheet, and it measures a hair long only when Cael holds it, which is the winter's joke from Ch1 arriving on the road and no longer funny. Do NOT achieve it by ambiguating the sheet that appears in front of Cael at L79 — that beat belongs to Seln and reads correctly as his; making it uncanny would cost the chapter its best payoff. If the planning layer instead reassigns plant 3's second instance to another chapter, record the reassignment in the ledger so the count still reconciles."
+    },
+    {
+      "id": "F-B8-CH05-009",
+      "severity": "LOW",
+      "gate": "Craft core invariant 3 (continuity persistence); charter §6 (world discipline)",
+      "evidence": "and then at the road's fork — a day on, past the rise, where a track went north to seven holds that owed her a visit — and did not look at it long",
+      "consequence": "Ch4 places the fork 'a day on' at the departure from Lowmarch on the 278th. The crew then walks a full day (ch04.md L31, 'The first day was road and nothing else'), works the cut below the shoulder ho",
+      "repair_target": "Leave L121 as it stands — it is the figure Ch6 needs. Fix the estimate at ch04.md L27 instead: either drop the distance from that sentence entirely ('her road went north from the fork, seven holds on it') or give it as three days from the ford, which reconciles the 278th with a fork reached at first light on the 281st. Flag it to the Ch4 recheck rather than repairing Ch5."
+    },
+    {
+      "id": "F-B8-CH05-010",
+      "severity": "LOW",
+      "gate": "Charter §6 (world discipline; established geography holds); craft core invariant 3",
+      "evidence": "because the road widened there to let carts pass and the ground was dry and the wind was off the water",
+      "consequence": "Twice the chapter puts water in the landscape that the road does not have: 'the wind was off the water' (L3) and 'held it to the light off the water' (L31). Ch4 establishes that the border road leaves",
+      "repair_target": "Two small substitutions. L3: give the wind its real source on a shoulder road — off the scrub, down off the hold, out of the west — or simply 'the wind was at their backs'. L31: 'held it to the light' is enough, or 'held it to the light off the trough', which keeps the halt's own furniture and is the kind of exactness the narrator is otherwise good for. If a river IS meant to be in view from the shoulder, it needs establishing in Ch4 rather than assuming here."
+    },
+    {
+      "id": "F-B8-CH05-011",
+      "severity": "LOW",
+      "gate": "Packet obligation ('Vastin's drafted orders dying in his mouth (three times, each a different Compact response — directive, classification, escalation)')",
+      "evidence": "a directive. *File under—. Classification—. Refer to—.* The shape of an office's answer to a thing it could not answer, forty years deep in him",
+      "consequence": "The obligation asks for three reflexes that are each a different Compact response, and Seln's tally at L111 names them as three distinct kinds and invites the reader to check the count against the pag",
+      "repair_target": "Narrow the first sample to a directive only — 'File under—. Refer to—.' or a single opening clause of an order — so that 'Classification—' is still unspent when Vastin reaches for it at L65 and 'up' is still unspent at L107. One word cut and one substituted; nothing else in the passage moves, and Seln's tally then verifies against the page."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch05.md",
+    "report_path": "v3-runs/book-08/reports/ch05-author-r2.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch05-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch05-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

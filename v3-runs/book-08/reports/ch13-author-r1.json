@@ -1,0 +1,69 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch13-r1",
+  "scene_id": "b8-ch13",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch13.md",
+  "word_count": 3892,
+  "obligations": [
+    {
+      "obligation": "The demonstration at close range with Cael as labour (Rule 6; Ch11 + this)",
+      "status": "MET",
+      "evidence": "Cleon's 'inside' reading — 'An instruction leans' — on the Hall's ninth sheet's fourth row; Cael two feet away with the lamp; the breath at each bearer."
+    },
+    {
+      "obligation": "The integration in the lightest covenant; not by ambush; Cael tells Cleon after, honestly",
+      "status": "MET",
+      "evidence": "'He knew the moment this time … the row … leaned'; 'you tell the man'; the telling at the bell in the order he had it."
+    },
+    {
+      "obligation": "Cleon receives it as EVIDENCE; 'You did what'; the Book 9 sentence stopped",
+      "status": "MET",
+      "evidence": "'That's not in the classification system. That's not supposed to be possible. That's —' / 'No. I'll not say that one. Not down here. Not to you.'"
+    },
+    {
+      "obligation": "The notice in the locked prose format",
+      "status": "MET",
+      "evidence": "'Rune-adjacent. Cleon. Partial. Bronze. A made thing's lean … Structure, not meaning … Made things only. Not a river. Not a man … Engagement field: inscriptive … Deployment: none. Twelfth.'"
+    },
+    {
+      "obligation": "The limit before anything load-bearing",
+      "status": "MET",
+      "evidence": "Ch11's limit carried; the notice's 'Not a man'; 'a thing that had come to him from a man working in front of him was a thing he owed the man the knowing of before he owed himself the using'."
+    },
+    {
+      "obligation": "No use on himself or the still place",
+      "status": "MET",
+      "evidence": "'did not look at the place in himself where the ten went round'; 'there was one place in him he was not going to turn it'."
+    },
+    {
+      "obligation": "The route changed; Karis's hand; Vastin down regardless; Lira told first",
+      "status": "MET",
+      "evidence": "The carts' street and the handcart; the clerk's third not-asking; 'He told Lira first … Twelfth. His. Lean.'"
+    },
+    {
+      "obligation": "Close on the fixed dialogue verbatim through 'He remembered.'",
+      "status": "MET",
+      "evidence": "Cleon's warning reproduced; 'Cael did not tell anyone. He remembered.' ends the file."
+    },
+    {
+      "obligation": "READER STANDARD",
+      "status": "MET",
+      "evidence": "gates: banned words 0; Cleon's cup is water; conduct honest."
+    }
+  ],
+  "inventions": [
+    "Cleon's 'lean' as the inside of the Path (record sits / instruction leans; 'This is a stair'); Karis's 'the strata lean too'; the handcart borrowed for a copper and a look; the clerk's third not-asking.",
+    "Vastin waiting on the landing for the case's other strap; 'You told him.' / 'He looked away.'"
+  ],
+  "state_change_proposals": [
+    "Day 291: route changed to the carts' street by day; FRAGMENT TWELVE — Rune-adjacent (Cleon; partial; inscriptive; structure not meaning; made things only; not a man; costs the eyes; no use in a fight; deployment none). Told Lira first, then Cleon at the bell; Cleon stopped at the Book 9 sentence and looked away deliberately; his warning given and remembered.",
+    "Karis saw a made thing lean and connected it to the strata; Cleon's seventh day is tomorrow ('a thing you'll not believe from the outside').",
+    "The clerk has now not asked three things."
+  ],
+  "deviations": [
+    "Word count ~3,9xx — at the floor after two expansions.",
+    "Cleon's cup is water (reader standard) — the card's 'glass' rendered as a clay cup."
+  ],
+  "blockers": []
+}
