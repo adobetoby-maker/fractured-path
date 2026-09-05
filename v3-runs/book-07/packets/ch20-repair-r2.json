@@ -3,7 +3,7 @@
   "scene_id": "b7-ch20",
   "project": "void-roads",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "continuity_repair",
   "revisions": {
     "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
     "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
@@ -26,7 +26,7 @@
       "Nobody knows what the site designation index is; nobody theorizes."
     ]
   },
-  "purpose": "The artifact chapter: the recovery contract paid in the wrong currency — a registry survey kit abandoned mid-use five years ago, its field ledger's last line an unfinished bearing — and Karis's six hours with the chamber's walls, advancing the sites' meaning by exactly one notch: forty-one shared characters, and a line that recurs at the perimeter's radius, entered as a measurement and not a maker.",
+  "purpose": "REPAIR RUN. Apply the five verified findings to v3-runs/book-07/drafts/ch20-r1.md as localized replacements: no fragment use (the Iron read removed); no index theory from Seln; Teague's crew on the rim throughout; the stake state under EXC-B7-004; Cael's rim exhaustion carried into the morning. No other passage changes.",
   "scene_shape": {
     "opening_state": "Morning at the Long Stair, the trap gone, Teague's crew on the rim; the six back down the stair with lamps because Karis will not leave a chamber she has seen the walls of.",
     "pov_goal": "Catalogue the chamber; recover what the contract wanted; read what its owner left.",
@@ -130,9 +130,56 @@
       "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
       "path": "craft/THE_AUTHOR.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch20-r1.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH20-001",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes",
+      "evidence": "he stood under it and put his palm flat on the ceiling and let the Iron read run on the stone above his hand, privately, a man touching a ceiling, and it gave him one piece of stone from his palm to t",
+      "consequence": "The Iron-adjacent read is one of Cael's confirmed fragments, so calling it private or non-declarative does not make it non-use. This directly breaks a packet prohibition and also lets an ability certi",
+      "repair_target": "Remove every fragment deployment from Chapter 20 while preserving the chamber catalogue, authorized measurements, and Cael's close-third attention through ordinary observation."
+    },
+    {
+      "id": "ED-B7CH20-002",
+      "severity": "HIGH",
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "evidence": "I carried maps with holes in them. I never saw an index. This is what the holes are filed under, somewhere I've never been.",
+      "consequence": "Seln turns the Book 8 plant from an unexplained designation/index into a definite filing relationship with the Compact's map holes. The assertion is not marked as speculation and advances hidden insti",
+      "repair_target": "Keep the existence of the designation and unknown index, but remove any claim or theory about what the index files, means, or connects to beyond the fixed ledger text."
+    },
+    {
+      "id": "ED-B7CH20-003",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes",
+      "evidence": "refused help twice more on the way, once from Cael and once from the young one at the top, who had come down four steps to see and had put a hand out and had it looked at.",
+      "consequence": "The unnamed young crewmember leaves the rim and descends into the Stair, crossing the packet's explicit spatial boundary for the rival crew. That turns their distant, unasked perimeter service into di",
+      "repair_target": "Keep every member of Teague's crew on the rim for the entire chapter; preserve Brom's one-shouldered carry and refusals without bringing a rival crewmember down the stair."
+    },
+    {
+      "id": "ED-B7CH20-004",
+      "severity": "MEDIUM",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "evidence": "A stake. Iron, the twin of the two on the perimeter, numbered — thirty-two, and the small mark, the stroke and the bar — lying on its side at the cord's near end with its point bright.",
+      "consequence": "The fixed half-driven artifact is changed into a loose stake beside evidence of a failed attempt. The surrounding case, cord, and ledger still prove interruption, but this specific required state no l",
+      "repair_target": "Restore the packet-fixed half-driven stake state, or obtain an explicit packet exception if the fused-floor continuity makes that state impossible; preserve the other mid-use evidence and add no explanation of the site's maker or purpose."
+    },
+    {
+      "id": "ED-B7CH20-005",
+      "severity": "MEDIUM",
+      "gate": "core.continuity_persistence",
+      "evidence": "Nineteen. Ten. Brom's shoulder mended and not used. Lira's arm closed and not used. Seln's got a ledger. Karis has twenty-nine sheets and a number, and the number is forty-one.",
+      "consequence": "Chapter 20 is Cael's next appearance and opens the following morning, yet neither the narration nor the otherwise explicit injury-and-state log acknowledges or resolves the full-suite exhaustion invoi",
+      "repair_target": "Carry Cael's established exhaustion into the morning and the day's work, or explicitly close it with an earned recovery interval consistent with prior integration/deployment costs; keep the packet's no-fragment-use rule intact."
+    }
+  ],
   "exceptions": [
     {
       "id": "EXC-B7-004",
@@ -144,9 +191,9 @@
   ],
   "output": {
     "draft_path": "v3-runs/book-07/drafts/ch20.md",
-    "report_path": "v3-runs/book-07/reports/ch20-author-r1.json",
-    "editor_report_path": "v3-runs/book-07/reports/ch20-editor-r1.json",
-    "verifier_report_path": "v3-runs/book-07/reports/ch20-verifier-r1.json",
+    "report_path": "v3-runs/book-07/reports/ch20-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch20-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch20-verifier-r2.json",
     "target_words": 4600,
     "tolerance_percent": 15
   }

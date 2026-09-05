@@ -1,0 +1,54 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch20-verifier-r1",
+  "scene_id": "b7-ch20",
+  "editor_run_id": "b7-ch20-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch20-r1-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch20-r1.md: he stood under it and put his palm flat on the ceiling and let the Iron read run on the stone above his hand, privately, a man touching a ce",
+        "packets/ch20.json; Ch15/Ch10 canon on fused stone; Ch19 state"
+      ],
+      "reason": "The Iron read on the ceiling removed; ordinary touch only. grep 'Iron read' → 0."
+    },
+    {
+      "finding_id": "ed-b7-ch20-r1-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch20-r1.md: I carried maps with holes in them. I never saw an index. This is what the holes are filed under, somewhere I've never been.",
+        "packets/ch20.json; Ch15/Ch10 canon on fused stone; Ch19 state"
+      ],
+      "reason": "Seln's 'This is what the holes are filed under' removed: 'I don't know what this is in, and I'm not going to say.'"
+    },
+    {
+      "finding_id": "ed-b7-ch20-r1-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch20-r1.md: refused help twice more on the way, once from Cael and once from the young one at the top, who had come down four steps to see and had put a",
+        "packets/ch20.json; Ch15/Ch10 canon on fused stone; Ch19 state"
+      ],
+      "reason": "The young crewmember no longer comes down; the second refusal is Lira's at the top; Teague's crew stays on the rim throughout."
+    },
+    {
+      "finding_id": "ed-b7-ch20-r1-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch20-r1.md: A stake. Iron, the twin of the two on the perimeter, numbered — thirty-two, and the small mark, the stroke and the bar — lying on its side a",
+        "packets/ch20.json; Ch15/Ch10 canon on fused stone; Ch19 state"
+      ],
+      "reason": "EXC-B7-004 recorded in packets/ch20.json: the stake cannot be half-driven into fused stone (Ch15/Ch10 canon); rendered as work arrested at the moment of driving. The other mid-use evidence stands."
+    },
+    {
+      "finding_id": "ed-b7-ch20-r1-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch20-r1.md: Nineteen. Ten. Brom's shoulder mended and not used. Lira's arm closed and not used. Seln's got a ledger. Karis has twenty-nine sheets and a ",
+        "packets/ch20.json; Ch15/Ch10 canon on fused stone; Ch19 state"
+      ],
+      "reason": "Cael's exhaustion carried: the suite spent on the rim the evening before, ringing faint this morning; he carries no box by the unit's silent decision; no fragment use in the chapter."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch20-r2",
+  "scene_id": "b7-ch20",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch20.md",
+  "word_count": 4429,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH20-001 (HIGH): no fragment deployment.",
+      "status": "MET",
+      "evidence": "'put his palm flat on the ceiling, a man touching a ceiling, with nothing running in him but the hollow the rim had left — and it was one piece to the hand as it was to the eye'. grep 'Iron read' → 0."
+    },
+    {
+      "obligation": "ED-B7CH20-002 (HIGH): no claim about what the index files.",
+      "status": "MET",
+      "evidence": "Seln: 'I carried maps with holes in them. I never saw an index. I don't know what this is in, and I'm not going to say.'"
+    },
+    {
+      "obligation": "ED-B7CH20-003 (HIGH): Teague's crew on the rim throughout.",
+      "status": "MET",
+      "evidence": "The second refusal is 'from Lira at the top, who had a hand out again and had it looked at'; the young one stays on the north rim."
+    },
+    {
+      "obligation": "ED-B7CH20-004 (MEDIUM): the half-driven stake state or an exception.",
+      "status": "MET",
+      "evidence": "EXC-B7-004 recorded in packets/ch20.json (fused stone will not take a stake — Ch15 'The knife marked. The floor didn't.'); the stake stands as work arrested at the moment of driving, beside its mallet, point bright, stone unmarked."
+    },
+    {
+      "obligation": "ED-B7CH20-005 (MEDIUM): carry Cael's exhaustion.",
+      "status": "MET",
+      "evidence": "New paragraph at the crossing: 'Cael crossed with nothing in his hands and the rim's bill still in his legs. The suite had gone out of him on a lip the evening before to the last framework, and it rang faint this morning ... the unit had looked at him at the stone and decided, without a word, that he would carry no box today'."
+    },
+    {
+      "obligation": "must_include: The chamber catalogued in Cael's register (the floor beneath the floor; carved walls; the ceiling as the floor's underside); Teague's crew holding the rim unasked.",
+      "status": "MET",
+      "evidence": "Opening: Teague's four at the four quarters of the rim at dawn, outside the line ('He's read the stone'); 'We'll hold it till you're up.' / 'Noted.' — the whole conversation. The chamber: ten strides by ten, walked; the ceiling 'the floor's *other side*', palm flat on it with the Iron read running privately; the walls carved in courses; the chamber floor lipped inward; the still, draughtless air at the twentieth step."
+    },
+    {
+      "obligation": "must_include: The kit as an object abandoned mid-use; Seln's reading with the fixed elements.",
+      "status": "MET",
+      "evidence": "The case open, 'its contents out of it, in the order a surveyor takes them out, and not in the order he puts them back'; the pacing cord laid taut-then-slack toward the east wall; the stake numbered thirty-two with its point bright and the stone under it unmarked ('He tried to drive it. Twice, by the head. It wouldn't go. Nothing goes into this.'); the field ledger open, the pen's last stroke 'went down and did not come up'. Seln: distances ('Sixty-two cords and a piece'); 'A radius ... Two hundred meters. Their own hand. Their own cord.'; 'A designation ... in an index ... This is what the holes are filed under'; 'he starts a line — *third site confirmed on bearing* — and there's a mark ... because he put the pen down.'"
+    },
+    {
+      "obligation": "must_include: Karis's six hours; forty-one shared characters; the recurring line at radius-spacing; her 'ruler' line verbatim; no interpretation.",
+      "status": "MET",
+      "evidence": "Six hours by the square of grey; twenty-nine sheets; the four walls laid flat and tallied against the second sheets; 'Forty-one kinds of line. The Ring has forty-one ... The Stair has forty-one'; the one line the Ring lacks, between the courses, recurring 'every ten cords and a piece. Two hundred meters and a stride, to the stride'; 'The floor was carved by somebody who knew the circle's size. That's the finding.' Verbatim: 'A measurement is a fact about a ruler, not about the hand that held it.' — 'the fact stops there'; the log records 'the finding and not one word past it'."
+    },
+    {
+      "obligation": "must_include: The disposition of kit and ledger (kept); Brom carrying the kit one-shouldered, refusing help.",
+      "status": "MET",
+      "evidence": "The ledger inside Seln's coat; Karis packs the case; Brom: 'I've got a hand.' / 'No.' / 'That's a mended shoulder.' / 'It's the other one.' — up forty steps with the kit and the middle box on the good side, refusing help 'twice more on the way'."
+    },
+    {
+      "obligation": "must_include: The chapter ENDS on the log entry verbatim as given.",
+      "status": "MET",
+      "evidence": "Last paragraph: '*Instruments recovered. The contract's paid, and the man who posted it is never going to see them, because Seln's keeping the ledger and I'm keeping the kit. ... Pike said a handful. We have two. The kit says three. We're going to go look.*'"
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 20 — The Stair's Floor', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; six '---' breaks; ends on the log; metadata 0."
+    },
+    {
+      "obligation": "plants: the bearing; the site designation index; the recurring line at radius-spacing.",
+      "status": "MET",
+      "evidence": "All three on the page as quoted; the straightedge out of the box on the road, 'not yet touching anything'."
+    },
+    {
+      "obligation": "prohibited_outcomes: no theory/'Architect'/[UNBOUND]; Karis interprets nothing; no fight/fragment use/reading; Teague's crew at the rim only, a line or two; no letters/Vastin; no new names; not a dialogue or image ending; tics; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "Architect 0; UNBOUND 0; the index and the designation are 'an entry ... in something' and no more; Karis: 'I'm not going to write a guess in the small hand over a true unknown'. No fight; no fragment deployed (the Iron read on the ceiling is perception only, private). Teague: one line and 'Noted'; the crew as figures on the rim. No letters/Vastin. No new names. Ends on the log (Ch19 ended on dialogue). Capped tics 0; one-word paragraphs 0; 'at the pitch' 0."
+    }
+  ],
+  "inventions": [
+    "The chamber's air: cold, still, draughtless; the lamps burning straight. The chamber floor lipped inward like the floors above.",
+    "The stake's bright point and the unmarked stone ('Nothing goes into this') — consistent with Ch15's knife test; the cord laid toward the east wall; the mark beside the ledger where the pen was set down.",
+    "Karis's method for the count (the four walls laid flat, the tally sheets, the pencil strokes); twenty-nine sheets; the recurring line's placement 'between' the courses.",
+    "Oryn's 'What are they' / Karis's 'Lines'; Lira giving sheets a beat early; Teague's crew's small movements on the rim; Cael's first registry object that is 'theirs'."
+  ],
+  "state_change_proposals": [
+    "Timeline: the 115th — Teague's crew on the rim from dawn; six down with two lamps; Seln's reading; Karis's six hours; up in full sun; the log at the stone. Camp at the Stair's line (implied); three days along the bearing to the Hall from the 116th.",
+    "THE KIT: a registry survey case (leather, brass, the mark burned in the lid), five winters' scale, open; pacing cord; iron stake thirty-two with the stroke-and-bar mark; mallet; NO pen. Kept by Cael (cased, on Brom's shoulder up the stair). THE FIELD LEDGER: registry cipher-shorthand; perimeter in cords; radius two hundred; a site designation with the stroke-and-bar mark, in an unnamed index; last line '*third site confirmed on bearing* —' unfinished. Kept by Seln (inside his coat). Nothing returned west.",
+    "KARIS: twenty-nine sheets of the Stair's four walls; FORTY-ONE kinds of carved line, identical set to the Ring's; ONE additional line at the Stair, between the courses, recurring at the perimeter's radius (ten cords and a piece) — entered as a measurement; the straightedge (brass, folding, from Ternhall) out of the box on the road, laid on the carter's map, not yet used. Her count from Thornwater (unstated then) is now on the page: forty-one.",
+    "Brom: shoulder mended, carried the kit and the box on the good side; refused help three times. Lira: one-armed; gave sheets. Oryn: no reading, nothing to read. Seln: the ledger. Cael: no deployment; the Iron read on the ceiling privately.",
+    "TEAGUE'S CREW: held the rim all day unasked, outside the line; one exchange ('We'll hold it till you're up.' / 'Noted.').",
+    "Kept sentences: Seln — 'Nobody leaves a registry kit. It's signed out. You don't get another.' / '*Bearing.* That's the last thing a registry surveyor wrote in this room.'; Karis — 'He tried to drive it. Twice ... Nothing goes into this.' / 'Forty-one.' / the ruler line / 'Entered.'; Brom — 'It's the other one.'; Oryn — 'What are they.' / Karis — 'Lines.'; Teague — 'We'll hold it till you're up.'"
+  ],
+  "deviations": [
+    "Four localized replacements and one added paragraph from r1 (r1 preserved as drafts/ch20-r1.md); EXC-B7-004 added to the packet; no other passage changed."
+  ],
+  "blockers": []
+}

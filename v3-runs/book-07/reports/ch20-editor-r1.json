@@ -1,0 +1,425 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch20-r1-editor",
+  "scene_id": "b7-ch20",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The 115th day, age nineteen, party of six, 108 marks, ten confirmed fragments plus the separate anomaly, the Long Stair location, and the kit/ledger disposition reconcile. Brom's mended right shoulder and Lira's season-restricted arm persist. Cael's immediately preceding exhaustion does not: Chapter 19 closes with him 'Spent' after the suite empties on top of insufficient rest, while Chapter 20 gives him no recovery state and runs the Iron read the next morning (ed-b7-ch20-r1-005)."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration stays inside Cael's witnessed experience, established memories, object knowledge, and explicitly attributed specialist conclusions. Seln owns registry procedure and cipher; Karis owns measurement and comparison."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "Teague's unasked watch, the chamber catalogue, open case, laid cord, ledger, two-hundred-meter radius, unfinished bearing, six-hour copying, forty-one shared characters, recurring radius line, ruler sentence, retained kit/ledger, Brom's carry, and exact terminal log are present. The fixed half-driven stake is absent and replaced by a loose stake whose attempted driving failed (ed-b7-ch20-r1-004)."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "FAIL",
+      "evidence": "Searches return 0 for Architect, [UNBOUND], Vastin, letters, 'at the pitch', 'at that pitch', fights, modern-register patterns, feeling/growth declarations, and metadata. Karis does not theorize a maker or purpose, and the chapter ends on the required log. Two explicit prohibitions fail: Cael deploys the Iron read (ed-b7-ch20-r1-001), and Teague's young crewmember descends four stair steps rather than remaining at the rim (ed-b7-ch20-r1-003)."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The authorized findings arise visibly from cord, stakes, ledger, copied walls, tally sheets, and repeated measurements. The chapter creates a route obligation rather than resolving the sites' maker or purpose."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "FAIL",
+      "evidence": "Brom carries his mended right shoulder still and forward and loads only the good side; Lira remains one-armed and keeps the taped foot flat; the party, possessions, date, and knowledge otherwise persist. Cael's Chapter 19 full-suite exhaustion is neither recurred nor explicitly resolved at his next appearance (ed-b7-ch20-r1-005)."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The recovery contract yields its instruments in the wrong currency, the Compact's measurements become primary evidence, the sites gain a third point and bearing, Karis converts two sites into a controlled comparison, and the party chooses to follow the route."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose uses the series' established catalogue, procedure, ledger, object-emotion, and dry-dialogue modes without naming or detectably imitating an influence author."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael inventories space and labor; Seln reads institutional artifacts in a flat inventory register; Karis counts, compares, and bounds claims; Oryn asks once in clinical terms; Lira anticipates the next sheet; Brom carries and refuses. The final first-person log remains plain and useful."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Survey practice is shown through case order, cord knots, stake, mallet, sign-out consequences, cipher, knife-flat page turning, index marks, wall rubbings, tally sheets, lamp oil, packing order, and custody choices. The chapter explains institutions by making characters use their tools."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "FAIL",
+      "evidence": "No new named entity, maker, purpose, or age theory appears. However, Seln converts the unexplained index into a definite filing mechanism for the map holes—'This is what the holes are filed under'—despite the packet's explicit boundary that nobody knows what the index is and nobody theorizes (ed-b7-ch20-r1-002)."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked manually across the rim, kit, ledger, finding, and carry movements. Every speaker change is named or tagged in its sentence; the longest contextually unattributed run is 0 lines, below the cap of four. Italics add emphasis but carry no meaning unavailable aloud."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every proper name was checked by ear against craft/NAME_REGISTRY.md: Cael, Lira, Brom, Karis, Seln, Oryn, Teague, Pike, Lowmarch, Thornwater, Ternhall, the Ring, and the Long Stair. All are established; no reserved name appears. Teague/TEEG remains distinct from Talis, Tamsin, Torvin, and Ternhall; Pike remains distinct from Prynn, Pellin, Petra, and Fiske."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch20.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. wc -w returns 4,299, inside the 3,910-5,290 tolerance. The exact H1, prose-only body, six scene breaks, and terminal prose line pass."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 20 counts / canonical Book 7 Chapters 1-20 totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/2; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Both book-level 'There it was' matches are substring false positives: Chapter 2 'In there it was' and Chapter 12 'Out there it was.' Chapter 20 has 0 single-word paragraphs; the maximum identical 'the way X verb' construction is 2 ('the way a man carries'); em dashes total 84. Modern-register, summary-family, feeling-declaration, growth-declaration, and metadata searches return 0. 'At the pitch'/'at that pitch' is 0 in Chapter 20; the inherited canonical Book 7 total remains 10/0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 19 ends on Teague's dialogue: 'You're something the board doesn't have a column for.' Chapter 20 ends on the required written Power Log. Dialogue and log are different adjacent final-beat types."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "FAIL",
+      "evidence": "Audit against the base snapshot, running state, packet, and Chapter 19: Cael remains at ten confirmed fragments plus the separate anomaly and acquires nothing; Brom's right shoulder is mended/sore and unused while his good left side carries; Lira's mended arm remains closed, slung, and unused, and her taped foot recurs; Karis, Seln, and Oryn receive no injury. The audit fails because the forbidden Iron-adjacent read is actively run and Cael's Chapter 19 exhaustion does not persist (ed-b7-ch20-r1-001, ed-b7-ch20-r1-005)."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The party remains six throughout. Teague's crew remains four and unnamed except for Teague; it witnesses only the recovery and carry from outside the site, and no new person learns the fragment mechanism."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank, fragment, ability, or system value advances."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "FAIL",
+      "evidence": "The chapter uses the Iron read but names no present cost, and the larger full-suite cost established the prior night has vanished instead of being carried (ed-b7-ch20-r1-005)."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "The material discovery changes custody, trust, route, and Karis's research program rather than increasing a stat. Teague's crew also converts rivalry into practical cover."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No major victory is decided by a capability. The Iron read is established but prohibited by this packet; it is not the source of Karis's comparative finding."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague and his four act independently by holding the rim all day, while the abandoned kit and ledger preserve prior Compact survey work as an institutional action with its own purpose still withheld."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "Chapter 19's escape from a rim trap becomes a research-and-custody problem: preserve a perimeter, read tools, copy walls, compare evidence, and choose what not to return."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The trap produces Teague's protective watch, disciplined site entry, one-shouldered labor, refusal to return the recovered evidence, and the decision to follow the bearing."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display renders; the physical Power Log has an explicit writer, place, and trigger."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display. The log's 'Nineteen. Ten.' matches age and confirmed-fragment count, with the anomaly still separate."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears; written counts and the log read aloud as ordinary prose."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The physical log records custody and commits the next route."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "FAIL",
+      "evidence": "Maker, purpose, age, [UNBOUND], and Architect information remain withheld. The site-designation index does not: Seln asserts that it is where the Compact files the map holes, contrary to the packet's required unknown (ed-b7-ch20-r1-002)."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "No combination or new integration occurs. The established Iron read appears alone, though its use is separately prohibited by the packet."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Rank is not a scene variable; the registry's ownership and sign-out procedure, rather than tier, governs the kit."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The recovery and comparison trace to established registry tradecraft, Karis's cord-and-copy method, the Ring sheets, and physical artifacts. No extraordinary capability resolves the chapter's promised turn."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "No new named capability is introduced. The Iron read's mechanics are established in prior books; its appearance here violates a packet prohibition, not the capability's known definition."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The draft extends the Long Stair, Compact survey kit, registry procedure, Quieting measurements, copied carvings, Teague rivalry, and found-family labor. It introduces no new named person, place, faction, ability, or subsystem."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: return beneath a guarded rim and catalogue the chamber. Closing delivery: recover the kit, read its unfinished bearing, establish forty-one shared characters and the radius line, retain the evidence, and commit to the third site."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "FAIL",
+      "evidence": "The authorized bearing, forty-one-character comparison, and radius-line finding are planted by the prior sites and survey evidence. The definite assertion that the unexplained index files the map holes is an unapproved explanatory step the packet expressly withholds (ed-b7-ch20-r1-002)."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The recovery event closes with possession, the site inquiry advances with evidence rather than an answer, the rival relationship pays through action, and the bearing opens the next inquiry without resolving it."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Sustained worldbuilding is grounded in cold dry air, straight lamp flames, leather, brass, scale, bright iron, knife-flat page turns, charcoal, sheets, oil, straps, stone, and bodily work. Concrete and procedural sentences outweigh abstract exposition."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the first review of a fresh draft, not a revision pass."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The bowl, four rim quarters, road cuts, central floor, forty-step stair, and ten-by-ten chamber are nevertheless drawable."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. The noncombat movement varies long catalogue sentences with short object headings and finding beats."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants act. Character work remains assignable through Seln's inventories, Karis's bounded findings, Oryn's clinical question, Lira's anticipation, and Brom's refusal."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "FAIL",
+      "evidence": "Brom's mended shoulder and Lira's arm/foot recur correctly. Cael's explicitly ledgered Chapter 19 exhaustion does not recur or close at his next appearance, and he instead runs a fragment the next morning (ed-b7-ch20-r1-005)."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "The rim watch, chamber catalogue, mid-use kit, Seln's reading, bearing reaction, six hours of copying, forty-one tally, radius-line finding, packing, carry, custody choice, and exact log all occur on the page. Repetition within the six hours is compressed only after representative work is dramatized."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. As noncombat staging, the rim supplies safety, the stair controls access and light, the chamber's four walls become the archive, and wall spacing plus perimeter radius produces the discovery."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement delta occurs."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague's crew independently arrives, reads the stone, takes four rim quarters, and holds them all day without being asked or seeking ledger credit."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The party's changed standing is visible outside any stat system when the top rival crew guards them, while the final custody decision transfers institutional tools into personal responsibility."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. The field ledger, notebook sheets, and Power Log all have in-world owners and use moments."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Registry control is dramatized through counters, seals, sign-out scarcity, cipher, inaccessible indices, map holes, broker custody, and the decision not to return the kit rather than through a speech about injustice."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Dry exchanges do not function as humor under acute stakes and do not erase injury, institutional threat, or research discipline."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Cael watches the group work, lets Karis and Seln own their disciplines, records the finding without deflection, and receives Teague's practical trust without turning it into banter."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "No person is read. Cael's ask-first condition remains intact, Oryn explicitly does not read anyone inside the Quiet, and the chapter's custody choice keeps power tied to responsibility rather than convenience."
+    }
+  ],
+  "strengths": [
+    "The chapter fulfills the central artifact promise with unusually tactile evidence. Open case, laid cord, bright iron, missing pen, knife-flat page turns, twenty-nine wall sheets, and repeated measurements make the discovery feel earned rather than announced.",
+    "Yes: worldbuilding is done through mechanism and use. Registry power appears through case custody, sign-out consequences, cipher access, index assumptions, stamped iron, map blanks, and who keeps which object; research appears through lamps, charcoal, paper supply, tallying, comparison, and bounded claims.",
+    "There is no fight, exactly as the packet requires. The research sequence is nevertheless a memorable noncombat set piece with load-bearing terrain: the four chamber walls must be copied and flattened, the stair controls daylight and duration, the lamps meter work, and the perimeter radius becomes legible inside the carving. Its win sentence is: Karis removed the carvings' ability to hide repetition in architecture by flattening the walls and comparing every line against the Ring.",
+    "Karis's method is excellent character action. She withholds forty-one until a second site exists, distinguishes a count from a fact, and stops the claim at measurement; 'a measurement is a fact about a ruler, not about the hand that held it' cleanly advances the mystery by one authorized notch.",
+    "The six-hour compression preserves individual competence: Lira anticipates sheets, Brom manages lamp and loads around the bad shoulder, Seln rereads without contaminating pages, Oryn watches a rule-bound practice, and Cael turns the labor into a unit portrait without declaring affection.",
+    "Teague's unasked rim watch pays the rival thread through action. Four positions, one practical line, and no request for recognition make his changed estimate of the crew visible without softening his established reserve.",
+    "The exact terminal log lands with changed pressure and audio clarity. It pays the contract, fixes custody, repeats the bearing once, converts Pike's handful into two-versus-three arithmetic, and commits Chapter 21 without appending explanation.",
+    "Production is otherwise clean: 4,299 words is within tolerance; all named section 9 tics are below cap; Chapter 20 adds no pitch-family use; metadata, summary-substitution, modern-register, feeling/growth, and reserved-name searches are clean; attribution survives audio; names pass the registry ear check; and the log close differs from Chapter 19's dialogue close."
+  ],
+  "concerns": [
+    "Taste only: 84 em dashes in 4,299 words is conspicuous. No numeric em-dash cap is violated, and many marks serve the cataloguing syntax, but the density can make observation, qualification, and revelation arrive in the same rhythmic wrapper.",
+    "Taste/continuity only: 'when the man who hired it was the man who had built the trap on the rim' states a single-agent identity more firmly than the visible evidence establishes; prior chapters establish the same broker and likely institutional hand, not necessarily one literal man doing both. The packet does not clearly forbid this inference, so it remains a concern rather than a finding.",
+    "Taste only: 'because the object was more interesting than the feeling' explains Cael's emotional method after the registry-object contrast has already enacted it. The concrete counter, seal, case, and ownership details are strong enough to carry the beat without help, but no binding gate requires that compression."
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch20-r1-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "prohibited-fragment-use",
+      "gate": "obligations.prohibited_outcomes",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch20.md",
+        "line_start": 27,
+        "line_end": 27,
+        "quote": "he stood under it and put his palm flat on the ceiling and let the Iron read run on the stone above his hand, privately, a man touching a ceiling, and it gave him one piece of stone from his palm to the bowl's lip forty steps up and two hundred meters out"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch20-editor-prompt-r1.md",
+        "line_start": 527,
+        "line_end": 527,
+        "quote": "No fight; no fragment use; no reading of Teague or anyone."
+      },
+      "consequence": "The Iron-adjacent read is one of Cael's confirmed fragments, so calling it private or non-declarative does not make it non-use. This directly breaks a packet prohibition and also lets an ability certify chamber geometry in a chapter assigned to physical cataloguing and Karis's measurement.",
+      "repair_target": "Remove every fragment deployment from Chapter 20 while preserving the chamber catalogue, authorized measurements, and Cael's close-third attention through ordinary observation.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch20-r1-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "knowledge-boundary-index-theory",
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch20.md",
+        "line_start": 69,
+        "line_end": 69,
+        "quote": "I carried maps with holes in them. I never saw an index. This is what the holes are filed under, somewhere I've never been."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch20-editor-prompt-r1.md",
+        "line_start": 495,
+        "line_end": 495,
+        "quote": "Nobody knows what the site designation index is; nobody theorizes."
+      },
+      "consequence": "Seln turns the Book 8 plant from an unexplained designation/index into a definite filing relationship with the Compact's map holes. The assertion is not marked as speculation and advances hidden institutional knowledge beyond the one-notch discovery authorized for this chapter.",
+      "repair_target": "Keep the existence of the designation and unknown index, but remove any claim or theory about what the index files, means, or connects to beyond the fixed ledger text.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch20-r1-003",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "prohibited-rim-departure",
+      "gate": "obligations.prohibited_outcomes",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch20.md",
+        "line_start": 123,
+        "line_end": 123,
+        "quote": "refused help twice more on the way, once from Cael and once from the young one at the top, who had come down four steps to see and had put a hand out and had it looked at."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch20-editor-prompt-r1.md",
+        "line_start": 528,
+        "line_end": 528,
+        "quote": "Teague's crew at the rim only; no conversation beyond a line or two; no letters, Vastin."
+      },
+      "consequence": "The unnamed young crewmember leaves the rim and descends into the Stair, crossing the packet's explicit spatial boundary for the rival crew. That turns their distant, unasked perimeter service into direct participation in the recovery movement.",
+      "repair_target": "Keep every member of Teague's crew on the rim for the entire chapter; preserve Brom's one-shouldered carry and refusals without bringing a rival crewmember down the stair.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch20-r1-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "missing-fixed-artifact-state",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch20.md",
+        "line_start": 47,
+        "line_end": 47,
+        "quote": "A stake. Iron, the twin of the two on the perimeter, numbered — thirty-two, and the small mark, the stroke and the bar — lying on its side at the cord's near end with its point bright."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch20-editor-prompt-r1.md",
+        "line_start": 511,
+        "line_end": 511,
+        "quote": "The kit as an object abandoned mid-use (cord laid out; stake half-driven; field ledger open; the hand that stopped mid-line)"
+      },
+      "consequence": "The fixed half-driven artifact is changed into a loose stake beside evidence of a failed attempt. The surrounding case, cord, and ledger still prove interruption, but this specific required state no longer appears and the visual changes from work arrested mid-action to work that could not begin at that point.",
+      "repair_target": "Restore the packet-fixed half-driven stake state, or obtain an explicit packet exception if the fused-floor continuity makes that state impossible; preserve the other mid-use evidence and add no explanation of the site's maker or purpose.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch20-r1-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "exhaustion-continuity",
+      "gate": "core.continuity_persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch20.md",
+        "line_start": 131,
+        "line_end": 131,
+        "quote": "Nineteen. Ten. Brom's shoulder mended and not used. Lira's arm closed and not used. Seln's got a ledger. Karis has twenty-nine sheets and a number, and the number is forty-one."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch19.md",
+        "line_start": 171,
+        "line_end": 171,
+        "quote": "Spent. The suite gone out of him on the rim as it had gone out on a floor against a Gold, on top of a week's rest that was not rest enough for it, the bill entered at the usual rate plus the rim's"
+      },
+      "consequence": "Chapter 20 is Cael's next appearance and opens the following morning, yet neither the narration nor the otherwise explicit injury-and-state log acknowledges or resolves the full-suite exhaustion invoiced the prior night. Running the Iron read compounds the impression that the cost vanished between chapters.",
+      "repair_target": "Carry Cael's established exhaustion into the morning and the day's work, or explicitly close it with an earned recovery interval consistent with prior integration/deployment costs; keep the packet's no-fragment-use rule intact.",
+      "confidence": "HIGH"
+    }
+  ]
+}
