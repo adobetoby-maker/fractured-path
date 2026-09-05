@@ -2,15 +2,357 @@
   "schema_version": "3.1",
   "run_id": "b8-ch05-r2-editor",
   "scene_id": "b8-ch05",
-  "verdict": "STRUCTURAL_HOLD",
+  "verdict": "PASS_WITH_FINDINGS",
   "gate_results": [
     {
-      "gate": "SKELETON — recheck in progress",
-      "state": "NEEDS_HUMAN_JUDGMENT",
-      "evidence": "Placeholder written at the start of the r2 recheck; to be replaced."
+      "gate": "RECHECK — F-B8-CH05-001 (BLOCKER): the deep-layer date reconciled with the nineteen-throughout age rule",
+      "state": "PASS",
+      "evidence": "L91 now reads 'Five years back, and a hundred and some days. Not six. Six was the marshal's rounding and the office's, and a marshal rounds; a cataloguer does not.' L93's 'written at fourteen' now reconciles: nineteen minus fourteen is five, and day 280 minus the hundred-and-second day (B7 Ch14, his nineteenth) is a hundred and seventy-eight — 'a hundred and some days'. Matches DECISIONS row 14 verbatim in substance ('Five years and a hundred-some days back — Cael's Kindling day at fourteen ... six years is the office's and the marshal's rounding'). The office's 'six years' survives untouched in Karis's mouth (L19, L129) and on the file, which is what row 14 asks for. Blocker resolved."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-002 (BLOCKER): the fourth site's grade mark against the Book 8 taxonomy and B7's closed prose",
+      "state": "PASS",
+      "evidence": "L61 now: 'The fourth. The stroke and the bar. The same. Twice the size and the same mark.' L63/L65 turn Brom's beat and Karis's response over ('The fourth's the same.'), and L65 rebuilds the argument on the same-mark reading: 'I don't know if the same mark means the same kind or only that the office had one mark.' The 'two strokes' invention is gone from the chapter (grep 'two strokes' → 0). Matches DECISIONS row 15 ('The SAME stroke-and-bar as the three ... all four second-tier. The two strokes invention withdrawn') and no longer contradicts ARCH's taxonomy (Ring, Stair, Hall and the cordoned fourth all second-tier). Blocker resolved."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-003 (HIGH): the mark's rendering against Book 7's closed prose",
+      "state": "PASS",
+      "evidence": "Every rendering in the chapter is now B7's. L61: 'A mark. The stroke and the bar.' ... 'The Stair — the stroke and the bar. The Hall — the stroke and the bar.' ... 'The same stroke and the same bar.' L65: 'The stroke and the bar, on every one of them, on the stake at the Stair and the iron at the fourth's line.' B7 Ch20 renders it twice as 'the small mark, the stroke and the bar' (the numbered stake) and 'with a stroke and a bar beside them — the mark on the second stake' (the ledger designation). Counted over the chapter: 'strokes and a bar' → 0; 'the stroke and the bar' → 4. No re-counting of strokes B7 already fixed."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-004 (MEDIUM): 'She closed the case' has something left to close",
+      "state": "PASS",
+      "evidence": "Route (a) taken. L125-L127: 'Karis gathered the flat case they had come in. / She put the rows back in it in their order, with the one page — the citation, a title and a place — on top, where she could reach it without opening anything ... and she stood up from the slab with the case under her arm.' The tying at both ends is gone. The case is now packed but open with the citation uppermost, which is what makes L129's 'She looked at the citation' work, and L137's fixed 'She closed the case.' is the last physical act of the chapter. The container is called 'flat case' once and 'the case' twice thereafter, so the fixed line's noun has an antecedent."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-005 (MEDIUM): the stake-spacing gloss against B7 Ch23",
+      "state": "PASS",
+      "evidence": "L19: 'He paced a floor in a bowl twice, five years ago, and set iron the whole way round, and wrote it in a form.' The 'iron at every fifth stride' conversion is cut exactly as the repair target specified; the form's own italic phrase '*stakes set at the fives*' is left standing unglossed, and 'the fives' is not re-read as strides anywhere in the chapter (grep 'stride' in this movement → 0)."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-006 (MEDIUM): capped phrases at zero for this chapter",
+      "state": "PASS",
+      "evidence": "Counted over v3-runs/book-08/drafts/ch05.md: 'upside down' → 0 (was 1 at L11); 'the length of a breath' → 0 (was 2, at L31 and L117). L11 now 'read the sheets where they lay, as they came'; L33 'It took her the time the wind takes to lift a sheet's corner and let it fall'; L119 'Vastin looked at him a moment'. Neither substitution is itself a repeated construction in the chapter. Packet prohibition 'capped phrases 0' satisfied."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-007 (MEDIUM): 'fourteen years' on the Compact's calendar",
+      "state": "PASS",
+      "evidence": "L89 now: 'he had lived by the Compact's count his whole life before he had lived by the Line's for nine months, and a date was a date.' Ch3's construction restored; no number is attached to a calendar he never stopped using; and the paragraph reconciles as a unit with L91 and L93, as the repair target required."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-008 (MEDIUM): Book-11 plant 3 present at its assigned chapter",
+      "state": "PASS",
+      "evidence": "New paragraph at L25 delivers repair route (a) — a record anomaly rather than an instrument one: 'the row came out a sheet short with his three in his hands and a sheet right when he set them down ... and looked at his hands, once, and said nothing, and went on.' It is deniable in-world (a wind-blown slab), attributable to Cael's hands only, and does not touch the L81 sheet-before-Cael beat, which the repair target forbade ambiguating. Matches the planning record in STATE_RUNNING ('Plant 3 in Ch5: the second row counts a sheet short in Cael's hands'). See F-B8-CH05-013 for a defect inside the new paragraph."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-009 (LOW): the fork's distance, correctly left in Ch5 and fixed in Ch4",
+      "state": "PASS",
+      "evidence": "L123 is unchanged ('a day on'), as directed. ch04.md L27 now reads 'her road went north from a fork on the far side of the shoulder hold, seven holds on it' — the distance dropped. ch06.md L5 independently confirms the figure Ch5 needed: the fork stone is reached 'on the evening of the two hundred and eightieth day, a day's walk west of the spring where the records had been read that morning'. See F-B8-CH05-015 for a separate, newly checkable defect in the same clause."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-010 (LOW): water in a landscape that has none",
+      "state": "PASS",
+      "evidence": "L3 'the wind was off the water' → 'the wind was at their backs'; L33 'held it to the light off the water' → 'held it to the light'. Grep over the chapter for 'the water' → 0. The halt's own furniture (spring, trough, slab, wind) now carries both beats."
+    },
+    {
+      "gate": "RECHECK — F-B8-CH05-011 (LOW): Vastin's three reflexes each a distinct Compact response, verifiable against Seln's tally",
+      "state": "PASS",
+      "evidence": "L51 narrowed to 'a directive. *File under—. Refer to—.*'; L67 spends the second ('the second thing had come up in his mouth — a classification'); L109 spends the third ('This has to go up'), with L69 'Two,' Seln said' marking the count on the page. Seln's tally at L113 — 'Directive, classification, escalation. I've been counting. Three.' — now verifies against three distinct reflexes with nothing pre-spent."
+    },
+    {
+      "gate": "Fixed text — the Seln/Vastin exchange verbatim and contiguous",
+      "state": "PASS",
+      "evidence": "L113-L117 reproduce the card exactly: '\"You keep drafting orders.\" / \"Habit.\" / \"Out here the habit's the tell.\" Seln said it flat, a thing he had learned at a price. \"Draft nothing. Just look.\"' Only the attribution beat sits inside the third line, as at r1. String-matched against the card."
+    },
+    {
+      "gate": "Fixed text — the closing dialogue verbatim and contiguous; the file ends on it",
+      "state": "PASS",
+      "evidence": "L129-L137 string-match the card at every unit: 'Six years,' / 'Everything I can't read points at the same place.' / 'Treswick,' / 'The archive under it. Cleon.' / 'Who's Cleon?' / 'The only historical-Path practitioner registered west of the Line ... A day and a half.' / 'She closed the case.' / 'And then I find out whether I've been right for five years or wrong for five years, and I don't know which I'm more afraid of.' The last line of the file is that line; no metadata footer (§8.4 grep → 0)."
+    },
+    {
+      "gate": "Authority — canon revision canon-b8-v1 (reveal schedule; Arbiter/Quieting sections)",
+      "state": "PASS",
+      "evidence": "No Book-9 sentence is said. 'device' appears twice (L37, L41) and both are the dead surveyor's quoted margin words; no 'terminal', 'circuit', 'infrastructure', 'designed', 'deployed', 'four hundred years', '[UNBOUND]' or 'primordial' anywhere (grep → 0 for each). Karis's own sentence is stopped mid-clause at L41 ('the way a hundred lamps go out when — ') and killed with the ruler line at L45."
+    },
+    {
+      "gate": "Authority — arc: Book-9 plant (c) extended (identical failure + the surveyor's margin note, cross-referenced against the crew's own crossings)",
+      "state": "PASS",
+      "evidence": "L31 gives the identical failure across the file ('Same distance. Same instant. Every sheet.') tied to what the crew read at the inn; L37 quotes the margin note once, at the size of a finding; L49 enters it as 'an observation I can't file'. Unchanged from r1 and still correct."
+    },
+    {
+      "gate": "Authority — payoff: B7's 'a measurement is a fact about a ruler' as the discipline that stops the Book 9 sentence",
+      "state": "PASS",
+      "evidence": "L45 verbatim against B7 Ch20 ('A measurement is a fact about a ruler, not about the hand that held it'), deployed at exactly the point where Karis's sentence would close the loop; L47-L49 make it a rule she reaches for, not a tic."
+    },
+    {
+      "gate": "Authority — arc: Book-11 plant 2 (the six-year deep-layer sheet in Cael's hands, unlogged)",
+      "state": "PASS",
+      "evidence": "Was FAIL at r1. L81-L103 unchanged in structure and now arithmetically sound: the sheet arrives without a hand, Cael reads the date, does the sum at L91, does not open the log (L99), and puts the sheet back 'in the second row, at its end, where it had come from'. L103 keeps the unsaid thing between him and Seln."
+    },
+    {
+      "gate": "Authority — arc: Book-11 plant 3 (anomalies clustering on Cael) at its assigned chapter",
+      "state": "PASS",
+      "evidence": "Was FAIL at r1. Now present at L25 as the sanctioned record-anomaly variant. Escalation across the book is thin (Ch1 was three instruments and a repeated result; Ch5 is one miscount) — logged as a concern for the ARCH ledger, not as a defect in the chapter."
+    },
+    {
+      "gate": "Authority — arc: the taxonomy's first appearance (the grade) against the Book 8 site taxonomy and B7's closed prose",
+      "state": "PASS",
+      "evidence": "Was FAIL at r1. All four sites now carry one mark; the fourth's difference is size, not notation; no tier is named or given a meaning; rows five and six are explicitly left unread at L61 ('she did not say what was on them, because she had not checked'). The invention budget's 'forbidden: any meaning for the grade's tiers' is respected."
+    },
+    {
+      "gate": "Authority — state: continuity with Chapter 4 (day, injuries, cash, order of march)",
+      "state": "FAIL",
+      "evidence": "Day, order of march, Brom's bound foot and Vastin's spentness all reconcile with ch04.md. Vastin's wound does not: ch04.md L161 and L177 (both new at Ch4's own r2) give him a bound right knee that Oryn names 'the wound' and prices at a month, and Ch5 — his next appearance, the following morning, with that healer on the bank — never carries it. See F-B8-CH05-012."
+    },
+    {
+      "gate": "Authority — POV knowledge boundary (Cael, close third, day 280)",
+      "state": "PASS",
+      "evidence": "Nothing enters the narration that Cael cannot see or infer. He reads the three readers (L11-L13), reads the date and does his own arithmetic (L87-L93), and the one interpretive leap — L111's 'up' — is grounded in his own history under the word. No site is named or placed beyond B7; no count of sites is asserted; Cleon lands as a name he has never heard (L135)."
+    },
+    {
+      "gate": "Obligation 1 — the halt dated and placed; three readers, three ways named on the page",
+      "state": "PASS",
+      "evidence": "L3 dates and places it ('a spring a mile past the shoulder hold on the morning of the two hundred and eightieth day'); L11 names pattern / omission / procedure in that order and attributes each."
+    },
+    {
+      "gate": "Obligation 2 — six years of instrument-and-stake survey rendered as diegetic document work (charter §3.2)",
+      "state": "PASS",
+      "evidence": "L19 works entirely off the office's form — radius, stake count, the instrument column, three sites at three dates, three hands — with the form's own phrases italicised and Karis glossing only what she can. L31 adds the fifth and sixth columns. No narration does the office's work for it."
+    },
+    {
+      "gate": "Obligation 2b — the instruments consistent with B7 Ch20's recovered kit (cord, stakes, mallet, ledger; no sighting-glass, no level)",
+      "state": "PASS",
+      "evidence": "L19's inventory is '*cord, stakes, mallet*' and nothing else; the radius is two hundred, matching B7 Ch20's 'Sixty-two cords and a piece ... Two hundred meters'. No instrument outside DECISIONS row 8's list appears."
+    },
+    {
+      "gate": "Obligation 3 — the GRADE: recognized as the kit's index, unread, only what she can see is said",
+      "state": "PASS",
+      "evidence": "L61: 'It's the kit's mark. The designation in the field ledger — the entry I couldn't read, in the index I don't know — it's this.' Then the refusal: 'I can see it's a rank. I can't see what it ranks them by ... the next thing I'd say would be a guess wearing a finding's coat.' L65 closes on 'Two copies of one ignorance.'"
+    },
+    {
+      "gate": "Obligation 4 — the margin note quoted in the surveyor's words; entered as an unfilable observation; the closing sentence not said",
+      "state": "PASS",
+      "evidence": "Quoted once at L37 and re-quoted only as Karis reads her own reading back at L41; entered at L49 as 'an observation I can't file'; nobody says the Arbiter is a device. Karis's aborted clause at L41 is the only reach and it is stopped by the discipline line."
+    },
+    {
+      "gate": "Obligation 5 — Seln sets the sheet without a word; Cael reads it and does not log the arithmetic",
+      "state": "PASS",
+      "evidence": "L81 ('there was no hand near it and Seln was at the slab's other end'), L95 ('had said nothing, and was not going to'), L97 ('Cael did not write it down'), L99 ('there were things a man did not write where a log could be read'). The narration states the not-writing in the series' oblique register, as the packet requires."
+    },
+    {
+      "gate": "Obligation 6 — Vastin's three drafted orders, each a different Compact response, and the fixed exchange verbatim and contiguous",
+      "state": "PASS",
+      "evidence": "See the F-B8-CH05-011 and fixed-text rows above. The three are distinct on the page and Seln's tally verifies against them."
+    },
+    {
+      "gate": "Obligation 7 — Cleon named by Karis for the first time; Cael asks; the fixed closing dialogue verbatim; the file ends there",
+      "state": "PASS",
+      "evidence": "L133 names him; L135 has Cael's question with the one permitted beat of interiority; L137 is the file's last line."
+    },
+    {
+      "gate": "Prohibited outcomes — no fight, no injury, no fragment use, no reading, the still place untouched",
+      "state": "PASS",
+      "evidence": "No declaration, no fragment notice, no reading run, no blow. The still place is not named or approached. Grep for 'fragment', 'still place', 'declaration' → 0."
+    },
+    {
+      "gate": "Prohibited outcomes — no fork taken, Oryn announces nothing, Treswick not reached",
+      "state": "PASS",
+      "evidence": "L123: Oryn 'looked at the road west, and then at the road's fork ... and did not look at it long', and says nothing all chapter. The road west ends at a rise with a city behind it (L127); nobody arrives."
+    },
+    {
+      "gate": "Prohibited outcomes — no log closer; the closer is dialogue (charter §9 scene-closer rule)",
+      "state": "PASS",
+      "evidence": "The log is on Cael's knee at L81 and stays unopened (L99). The chapter closes on Karis's fixed line at L137. Ch4 closed on the log; Ch5 closes on dialogue; Ch6 closes on image. No consecutive repeat."
+    },
+    {
+      "gate": "Prohibited outcomes — capped phrases at zero for this chapter (charter §9; the book-level caps)",
+      "state": "PASS",
+      "evidence": "Was FAIL at r1. Both capped phrases now return 0 over the chapter. Book-level counts are a separate matter and are logged as concerns."
+    },
+    {
+      "gate": "Anti-tics — one-word paragraphs (cap 2/chapter) and 'the way X [verb]' (cap 4)",
+      "state": "PASS",
+      "evidence": "One-word paragraphs: 2 ('\"What?\"' at L71, '\"Habit.\"' at L115 — the second is fixed text), exactly at cap. 'the way X [verb]': 2 ('the way a hundred lamps go out', 'the way he looked at him in a doorway'), against a cap of 4. A repair-introduced line-level echo is logged at F-B8-CH05-014."
+    },
+    {
+      "gate": "Audio survival (charter §8.2, §8.5)",
+      "state": "PASS",
+      "evidence": "Italics carry no meaning that the words do not: the margin note, the form's phrases and Vastin's fragments all read as speech or quotation. No unattributed run exceeds one line in any three-speaker passage (L69-L73; L129-L137). The mark is now described as 'the stroke and the bar', which voices cleanly."
+    },
+    {
+      "gate": "Names — registry and rename dispositions",
+      "state": "PASS",
+      "evidence": "Cleon is the only new name and is card-authorised. 'Halcenvane', 'Velmere', 'Wray', 'Bracken' → 0. No reserved-list name appears. Cleon reads clean by ear against Coss, Seln, Karis, Teague and Pike."
+    },
+    {
+      "gate": "Meta-voice and production hygiene",
+      "state": "PASS",
+      "evidence": "§8.4 grep ('End of Chapter', 'approximately.*words', 'word count', 'DRAFT', 'TODO') returns zero. No volume or chapter-count reference; no modern idiom (grep 'okay', 'literally', 'basically', 'gonna' → 0)."
+    },
+    {
+      "gate": "Voice charter §3 — what already works (the cataloguing narrator; emotion through procedure and objects)",
+      "state": "PASS",
+      "evidence": "L7 and L15 are catalogue passages of the kind §3.1 requires; the chapter's emotional turn is carried entirely by a sheet being picked up and put back in a row (L99) and by a stick moved a hand's width (L119). No feeling-declaration pattern present."
+    },
+    {
+      "gate": "Module: progression — advancement has an intelligible cause and a recorded delta; growth changes something outside the measuring system",
+      "state": "PASS",
+      "evidence": "No visible-track advancement, correctly. The human-track delta is explicit and behavioural: 'the first thing he had ever owned that he had not written down, and he found that he could carry it' (L103) — a choice the Ch1 cataloguer, who logged the cord anomaly the same day he noticed it, would not have made."
+    },
+    {
+      "gate": "Module: progression — institutions and rivals do not freeze; setbacks are metabolized",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rival, no institutional actor and no setback in scene; the Compact appears only as six years of its own paper."
+    },
+    {
+      "gate": "Emotional movement and scene consequence (craft core invariant 5)",
+      "state": "PASS",
+      "evidence": "Entering condition: Cael wants the records to say what the Compact knows. Exiting condition: he holds a private fact he has chosen not to file, and a wordless understanding with Seln. Knowledge, relationship and self-concept all move; the destination changes from 'west' to 'the archive under Treswick, and Cleon'."
+    },
+    {
+      "gate": "READER STANDARD (craft/VOICE_CHARTER.md §Reader Standard; THE_AUTHOR.md Gate 27)",
+      "state": "PASS",
+      "evidence": "Banned-word grep over the chapter returns zero for profanity, obscenity, crude slang and blasphemy (damn / hell / bastard / bloody / christ / god / jesus / crap / arse / ass and cousins). No violence of any kind in scene; no gore; no death. No sexual content, no innuendo, no romance. Conduct: Seln corrects Vastin 'not unkindly' (L113) and teaches rather than humiliates; Karis refuses to guess past her evidence (L61, L65) and names the limit as the limit; Cael's one act of concealment is restraint on his own behalf, not deception of the table, and it costs him the ease of writing. Cruelty is neither present nor rewarded. Written for a thirteen-year-old: passes. The report-attestation half of the gate's procedure is not met — see concerns."
+    },
+    {
+      "gate": "Word band (target 4,600, ±15%)",
+      "state": "PASS",
+      "evidence": "4,173 words (run diagnostics report 4,169) against a band of 3,910-5,290. Within, and 162 words up on r1's 4,011 — the net of one added paragraph and eleven local substitutions."
+    },
+    {
+      "gate": "Run hygiene — author report r2 describes the draft it shipped",
+      "state": "FAIL",
+      "evidence": "Four of the report's evidence strings and one state_change_proposal quote r1 text that no longer exists in the draft, including the withdrawn 'two strokes and a bar on the fourth's'. See F-B8-CH05-014."
     }
   ],
-  "findings": [],
-  "concerns": [],
-  "strengths": []
+  "findings": [
+    {
+      "id": "F-B8-CH05-012",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity — injury persistence",
+      "gate": "Charter §4.3 (costs persist across scenes and reconcile to the ledger); THE_AUTHOR Gate 13 (every injury or exhaustion state recurs or is explicitly resolved at the character's next appearance); craft core invariant 3",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch05.md",
+        "line_start": 3,
+        "line_end": 7,
+        "quote": "Oryn on the bank above the spring with her roll beside her and her hands on her knees, watching a man with a stick not sit down. Vastin standing, because he had been told he was spent and did not yet believe it, with the stick planted and his weight on it and his face the colour it had been on the road's stone, a day paler."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04.md",
+        "line_start": 161,
+        "line_end": 177,
+        "quote": "And the knee's gone — not broken; gone the way a knee goes that's been asked to be a wall's foot on stone for as long as that was. That's the wound, and it's a real one, and it'll be a real one for a month. [...] Vastin, spent to the floor, and the knee — the wall's foot, on stone, for as long as it took — gone under him; Oryn bound it and said a month. That's the wound."
+      },
+      "consequence": "Chapter 4's own repair pass gave Vastin a bound right knee, named by the healer as 'the wound', priced at a month, and entered in the log Cael closed the chapter on. Chapter 5 is the next morning and his next appearance, and the wound is not on the page: he is 'spent', his 'legs wanted more than that', and he carries the ash stick he has carried since he came off the ferry in Chapter 2 — so nothing in the chapter distinguishes a man who is tired from a man who was bound yesterday. The absence is loudest where the healer is: Oryn comes down off the bank at L15 to look at Brom's foot unasked, puts two fingers on the binding, says 'It'll walk', and goes back up without a glance at the knee she bound the day before. A reader coming straight off Chapter 4's injury ledger will register the knee as having quietly healed overnight, which is the exact failure §4.3 exists to prevent; Chapter 6 then reintroduces it as live ('I'll read the shoulder there and the knee there', ch06.md L89), so Chapter 5 is the one gap in the chain.",
+      "repair_target": "One clause, in any of three places, all outside fixed text. Cheapest: L7, 'watching a man with a bound knee and a stick not sit down' — which also sharpens why he will not sit. Or L3, 'Vastin's legs wanted more than that' → 'Vastin's knee wanted more than that'. Best of the three, because it pays Oryn's presence rather than merely stating the fact: extend L15's descent so that on her way back up she looks at the knee without being asked and says nothing about it, or says the healer's one word — which costs four words, keeps her silence about paper intact, and lets Vastin's refusal to sit at L119 land as a cost rather than a posture. Do not add a second injury beat for Brom's shoulder; Ch4 discharged that one and Ch6 carries it.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH05-013",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "internal arithmetic — the repair paragraph counts itself wrong",
+      "gate": "Craft core: causal legibility; charter §3.1 (the cataloguing narrator counts things and the counts hold); the packet's own plant-3 obligation, which is a beat about a count",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch05.md",
+        "line_start": 25,
+        "line_end": 25,
+        "quote": "She counted the second row twice, because she had handed Cael its last three sheets to hold flat against the wind while she weighted the others, and the row came out a sheet short with his three in his hands and a sheet right when he set them down, and she counted it a third time with the sheets on the stone and got the right number, and looked at his hands, once, and said nothing, and went on."
+      },
+      "comparison_evidence": null,
+      "consequence": "The sentence opens by asserting two counts and then narrates three: the short count with the sheets in Cael's hands, the right count when he sets them down, and 'she counted it a third time'. The paragraph is the chapter's newly inserted Book-11 plant, and the whole of its evidential force depends on a reader trusting a tally — in a chapter whose narrator is defined by being 'a man who could not not count' and whose central beat is a man doing arithmetic correctly where an office rounded. A careful reader who checks the count, which this paragraph explicitly invites, finds the narration miscounting in the act of reporting a miscount. That undercuts the plant rather than planting it, and it is the one paragraph in the chapter with no r1 version to fall back on.",
+      "repair_target": "One word. Either 'She counted the second row twice' → 'She counted the second row three times' (which also front-loads the oddity and is truer to Karis, who re-checks), or 'She counted the second row again' with 'a third time' left standing, or drop 'and she counted it a third time with the sheets on the stone and got the right number' and let the second count be the confirming one. Prefer the first: the escalating tally is the tell, and Karis counting a row three times is characterisation Book 7 already established. While the paragraph is open, resolve the two secondary snags in it noted in concerns — 'a sheet right' as a parallel to 'a sheet short', and 'while she weighted the others', which reopens a weighting L11 has already completed.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH05-014",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "run hygiene — the author report describes a draft that no longer exists",
+      "gate": "Craft core: revision discipline (the editor rechecks the result; the state ledger is fed from the report); the packet's own repair contract for F-B8-CH05-002 and DECISIONS row 15",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch05.md",
+        "line_start": 61,
+        "line_end": 61,
+        "quote": "\"Here.\" Her finger above a sheet in the first row — the Ring — not on it. \"Top corner, by the stamp. A mark. The stroke and the bar.\" [...] \"The fourth. The stroke and the bar. The same. Twice the size and the same mark.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/reports/ch05-author-r2.json",
+        "line_start": 77,
+        "line_end": 106,
+        "quote": "\"evidence\": \"'Three strokes and a bar … The fourth. Two strokes and a bar. Different.' [...] \"The GRADE seen: three strokes and a bar on the Ring/Stair/Hall sheets; two strokes and a bar on the fourth's; unread.\""
+      },
+      "consequence": "The r2 author report's obligation evidence for the grade, for the deep-layer sheet ('Six years back. Not near enough. Exactly.') and for Vastin's three orders ('File under—. Classification—. Refer to—.') all quote r1 strings that the repair deleted, and its second state_change_proposal proposes to write 'three strokes and a bar ... two strokes and a bar on the fourth's' into the running state. That is the precise invention DECISIONS row 15 withdrew and BLOCKER F-B8-CH05-002 was raised to remove. If the proposal is applied as written, the withdrawn taxonomy re-enters the ledger from which Ch17 and Ch20 will decode the grade, and the blocker is reopened downstream without anyone touching the prose. STATE_RUNNING's 2026-09-05 correction line already carries the right fact, so the ledger is currently safe — but the report and the draft disagree on the chapter's single most consequential detail, and the report is what the next seat reads first.",
+      "repair_target": "Do not touch the draft. Re-cut the r2 author report's stale strings to the shipped text: the grade evidence to 'the stroke and the bar' on all four with the fourth twice the size; the deep-layer evidence to 'Five years back, and a hundred and some days. Not six.'; the Vastin evidence to 'File under—. Refer to—.'; and replace state_change_proposal 2 with the same-mark-on-all-four statement plus 'all four second-tier', matching DECISIONS row 15 and the correction already appended to STATE_RUNNING. Add the reader-standard attestation the charter's Gate clause requires while the file is open. Confirm before splicing that no other Book 8 artefact carries 'two strokes'.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH05-015",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "geography — the rise on the wrong side of the fork",
+      "gate": "Charter §6 (world discipline; established geography holds); charter §4.1's drawability standard applied to the road; craft core invariant 3",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch05.md",
+        "line_start": 123,
+        "line_end": 127,
+        "quote": "and then at the road's fork — a day on, past the rise, where a track went north to seven holds that owed her a visit — and did not look at it long [...] and the road going west past the spring toward a rise that had, on the far side of it, a city she had never seen"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "a squared post of grey rock at the road's edge on the evening of the two hundred and eightieth day, a day's walk west of the spring where the records had been read that morning [...] The road went on west over a long rise with the sun going down behind it. The track went north-west, off the kept surface and onto ruts"
+      },
+      "consequence": "L123 puts the fork beyond the rise; L127, four lines later, puts the city beyond the rise; and Chapter 6 puts the rise beyond the fork ('The road went on west over a long rise'), with Treswick beyond that again and reached on the 282nd. Read straight, Chapter 5 seats the fork and the city on the same far side of one rise, which would put Oryn's turning within sight of the walls — the opposite of the arrangement Chapter 6 builds its whole fork-stone scene on, and the opposite of what Chapter 7's countdown of wayposts needs. 'the rise' at L123 is also its first appearance in the chapter and carries a definite article with nothing behind it, so a listener has no way to attach it. The distance in the same clause is correct and must stay; it is only the ordering that is wrong.",
+      "repair_target": "Cut two words. L123: 'the road's fork — a day on, past the rise, where a track went north' → 'the road's fork — a day on, where a track went north'. The distance, which Chapter 6 depends on, is untouched, and L127's rise then stands alone as the one rise in the chapter with the city behind it. If a landmark is wanted in the clause, use the one Chapter 6 actually gives the fork — the gap in the hills that has the last light in it — rather than a rise. Do not repair this in Chapter 6; that chapter's geography is the drawable one."
+    ,
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH05-016",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "line level — a repair-introduced echo and a circular clause",
+      "gate": "Charter §9 (a beat phrase repeated is a defect, including a fresh phrase introduced by a repair); shared positive voice, common failure modes (repeated sentence scaffolds)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch05.md",
+        "line_start": 25,
+        "line_end": 25,
+        "quote": "He noted it. He had a page for that now, and it was getting to be a page."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch05.md",
+        "line_start": 49,
+        "line_end": 49,
+        "quote": "I'm entering it as what it is: an observation I can't file. I've a page for those. It's getting long."
+      },
+      "consequence": "The repair's closing clause is circular on its face — he had a page for it, and it was getting to be a page — so the sentence's own image cancels; a listener gets 'page' twice in nine words with no change of sense between them. It also pre-empts Karis's line twenty-four lines later, which is the chapter's established version of the move and lands better ('I've a page for those. It's getting long.'), so the new sentence spends the effect before the character whose habit it is arrives to use it. With L93's 'A day he had a page for', the chapter now runs three instances of 'a page for', which is the whole book's §9 budget spent in one chapter; ch14.md carries a fourth. Localized, but the friction sits in the last line of the paragraph that carries the chapter's new plant, where the reader should be looking at Cael's hands.",
+      "repair_target": "Rewrite the second clause off the word 'page'. 'He noted it. He had somewhere to put that now, and the somewhere was filling' keeps the accumulation without the echo; simpler still, cut to 'He noted it, and did not say so', which also matches Karis's silence in the same sentence and leaves L49 the only page line in that movement. Then re-run 'a page for' over the chapter — target two, not three — and over the book, where four exceeds §9's cap of three and wants a pass at ch14.md rather than here."
+    ,
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "The r1 blockers are both closed and neither repair cost the chapter anything: the same-mark reading at L61-L65 is a stronger finding than the differing mark was, because it makes the office's indifference the point ('I don't know if the same mark means the same kind or only that the office had one mark'), and the five-years-and-a-hundred-some-days line at L91 gives Cael a reason to be exact that is also characterisation ('a marshal rounds; a cataloguer does not'). Preserve both formulations in any later pass.",
+    "L61's 'Twice the size and the same mark' can be read as the mark being twice the size or the site being twice the size. Brom's next line ('four hundred meters to its middle') and Karis's later 'why a thing twice the size gets the same mark' both resolve it to the site, so the chapter is consistent — but a listener meets the ambiguous version first, and DECISIONS row 15's phrase 'the fourth differs in size only' can be read either way too. Worth one clarifying word at L61 ('The fourth. The stroke and the bar. The same mark on a site twice the size.') and, more usefully, worth pinning the referent in the DECISIONS row before Ch17 and Ch20 decode the grade against it.",
+    "Two secondary snags inside the new L25 paragraph, best fixed in the same pass as F-B8-CH05-013: 'the row came out a sheet short with his three in his hands and a sheet right when he set them down' uses 'a sheet right' as a parallel to 'a sheet short', which is not a construction English supports and stumbles read aloud; and 'while she weighted the others' reopens a weighting L11 has already reported as complete ('weighted at the corners with stones from the trough'), so the sheets are being laid out twice.",
+    "Book-level capped-phrase counts, outside this chapter's scope but now inaccurate in the ledger: STATE_RUNNING's Ch1 closing note records one use of 'upside down' in Ch1 and one reserved for Ch8, and says the book cap is reached. Counted over the drafted files, ch01.md carries two in a single sentence at L141 and ch04.md and ch14.md carry one each, so the book stands at five or six against a cap of three. Ch5 is clean (zero) and is not the problem; the Ch1/Ch4/Ch14 counts want a book-level pass and a corrected ledger line.",
+    "THE_AUTHOR Gate 27 and the charter's Reader Standard both require that the author report state the reader standard was checked before a chapter is closed. reports/ch05-author-r2.json contains no such attestation and has no field carrying one. The chapter's content passes the gate on inspection, so this is a loop-procedure gap rather than a prose defect, but the gate as written is not satisfied until the attestation exists. Folded into F-B8-CH05-014's repair target so it can be closed in one edit.",
+    "The plant ledger at CHAPTER_ARCHITECTURE still specifies Book-11 plant 3 for Ch1 and Ch5 as 'the recovered survey kit's instruments return clean readings for everyone and errors or nulls in his hands'. Ch5 now delivers a record anomaly instead, which the r1 repair target sanctioned and STATE_RUNNING records. Amend the ledger line so the plant reconciles at the Continuity Checkpoint, and note while doing so that the escalation across the book currently reads flat — Ch1 is three instruments repeating a result, Ch5 is one miscount — where the ledger promises anomalies that 'increase across the book'. Ch14 and Ch22 carry the escalation, so this is a sequencing note, not a defect.",
+    "'A day and a half' at L137 is fixed text and correctly reproduced, and the packet asserts the same figure, so Ch5 is compliant. It does not reconcile with the drafted downstream: the fork stone is the evening of the 280th (ch06.md), the last waypost short of the river is the 281st, and the outer district is the 282nd — two days' walking from this halt, not a day and a half. Flag to the Ch6-Ch8 reconciliation rather than to this chapter.",
+    "Vastin's 'forty years' (L51, L111) against the fifty-three the Ch2 correction fixed him at implies a career begun at thirteen. The phrase is card-fixed at Ch2's close and unchanged since r1, so it is not this chapter's to move, but it is the same class of seam as the one just repaired at L91 and is worth a decision at the planning layer before Book 9 stages his arc.",
+    "The container's noun now varies across three consecutive chapters: ch04.md L27 has 'the records flat in their oilcloth', ch05.md L125 has 'the flat case they had come in' and then 'the case' twice, and ch06.md L11 returns to 'the flat under her arm'. The F-B8-CH05-004 repair required the shift and 'flat case' bridges it honestly, so nothing here is wrong; but the oilcloth has disappeared without being opened, and 'the case' shares a scene with 'the kit's case' under Brom's foot at L7. One mention of the oilcloth coming off at the top of the halt would close both, cheaply.",
+    "The chapter labels its findings 'The grade second' (L57) and 'The third thing' (L77) while delivering instruments, the margin note, the grade and then the sheet — so the margin note, which the card lists as the third finding, arrives inside the first movement. The internal enumeration is self-consistent and the obligations do not fix an order, so this is not a defect; recording it only so a later pass does not 'correct' the numbering into a contradiction."
+  ],
+  "strengths": [
+    "The two blocker repairs are surgical and additive rather than defensive. L91's 'Six was the marshal's rounding and the office's, and a marshal rounds; a cataloguer does not' converts a continuity fix into the clearest single statement of what Cael is that the chapter contains, and it does it in the same breath as the arithmetic the packet forbids him to say out loud.",
+    "The same-mark resolution at L61-L65 is the better finding, exactly as the r1 repair target predicted. 'I don't know if the same mark means the same kind or only that the office had one mark' and 'I can't see why a thing twice the size gets the same mark' leave Karis with a sharper unanswerable than the differing mark ever gave her, and 'Two copies of one ignorance' survives intact on top of it.",
+    "The discipline around the Book 9 sentence is unchanged and still the best thing in the chapter: Karis's clause dying mid-image at L41 ('the way a hundred lamps go out when — '), the ruler line reached for as a tool rather than recited at L45, and Vastin's 'You've said that before' / 'I say it when I need it' at L47-L49, which makes the discipline cost something to use.",
+    "L99's sentence — the sum done twice more, the log unopened, the sheet put back 'with its head turned like the row's other heads, so that it lay in the file as if it had never been out of it' — pays Seln's Ch3 silence in physical action and nothing else, and L103's 'the first thing he had ever owned that he had not written down, and he found that he could carry it' is the chapter's progression delta stated once and then dropped.",
+    "Seln's teaching beat holds its shape through three separate substitutions. 'Two,' Seln said, to nobody' at L69 is the whole tally mechanism installed in four words, and 'Escalate it ... That's the word. Directive, classification, escalation. I've been counting. Three.' now verifies against the page instead of asking the reader to take it on trust.",
+    "L111 does real work with one preposition: Vastin's 'up' unpacked through Cael's own history under it — 'He had said *up* about Cael once, at seventeen, in a room with a table, and the thing had gone up, and had come back down as a designation' — so the man's third reflex indicts him without anyone at the spring saying so.",
+    "The eleven local substitutions are genuinely local. 'the time the wind takes to lift a sheet's corner and let it fall' at L33 replaces a capped phrase with the halt's own furniture and improves the interval; 'the wind was at their backs' at L3 is plainer than what it replaced; and no fixed line, no obligation beat and no strength identified at r1 was disturbed to make room for any of them."
+  ]
 }
