@@ -1,0 +1,45 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch24-verifier-r1",
+  "scene_id": "b7-ch24",
+  "editor_run_id": "b7-ch24-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch24-r1.md at the quoted span",
+        "STATE_RUNNING (Pike's page seven lines at the 90th; three boxes since Ch06; Ch23 fourth-circle precision)"
+      ],
+      "reason": "'the traverse, the Ring, and the Stair' (nine lines: seven at the 90th + Ring + Stair; the Hall was never a board matter). MEDIUM/LOW count corrections; repaired directly and closed without a further paid recheck per the Ch02 precedent."
+    },
+    {
+      "finding_id": "F-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch24-r1.md at the quoted span",
+        "STATE_RUNNING (Pike's page seven lines at the 90th; three boxes since Ch06; Ch23 fourth-circle precision)"
+      ],
+      "reason": "'three boxes'. MEDIUM/LOW count corrections; repaired directly and closed without a further paid recheck per the Ch02 precedent."
+    },
+    {
+      "finding_id": "F-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch24-r1.md at the quoted span",
+        "STATE_RUNNING (Pike's page seven lines at the 90th; three boxes since Ch06; Ch23 fourth-circle precision)"
+      ],
+      "reason": "'three of the centres marked to a stride ... and the fourth as the carter had drawn it, near enough'; Denvash's edge 'touched the three centres without a hair of daylight and the fourth as near as the sheet allowed'. MEDIUM/LOW count corrections; repaired directly and closed without a further paid recheck per the Ch02 precedent."
+    },
+    {
+      "finding_id": "F-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch24-r1.md at the quoted span",
+        "STATE_RUNNING (Pike's page seven lines at the 90th; three boxes since Ch06; Ch23 fourth-circle precision)"
+      ],
+      "reason": "'have used it twice this year, once each way.' MEDIUM/LOW count corrections; repaired directly and closed without a further paid recheck per the Ch02 precedent."
+    }
+  ]
+}

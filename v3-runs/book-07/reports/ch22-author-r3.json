@@ -1,0 +1,93 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch22-r3",
+  "scene_id": "b7-ch22",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch22.md",
+  "word_count": 4017,
+  "obligations": [
+    {
+      "obligation": "ed-b7-ch22-r2-001 (MEDIUM): Correct the interval to the number the draft's own dateline and the state ledger produce (four to fi",
+      "status": "MET",
+      "evidence": "'on a rim five days ago' (114th → 119th)."
+    },
+    {
+      "obligation": "ed-b7-ch22-r2-002 (MEDIUM): Replace 'ten weeks' with the interval the state ledger produces from the eightieth day to the hundre",
+      "status": "MET",
+      "evidence": "'she was six weeks, near enough' (80th → 119th = 39 days)."
+    },
+    {
+      "obligation": "ed-b7-ch22-r2-003 (MEDIUM): Bring both intervals onto the draft's own calendar: the straightedge idle since the Stair's rim on t",
+      "status": "MET",
+      "evidence": "'three weeks his' (acquired the 100th; consistent with the Teague scene) and 'for four days' (the Stair's rim, the 115th)."
+    },
+    {
+      "obligation": "ED-B7CH22-001 (HIGH): Stage the second reading on Oryn, performed by Cael with her explicit consent and at her direction, while preserving his",
+      "status": "MET",
+      "evidence": "The second reading is now Cael reading Oryn at her direction with explicit consent ('Well?' / 'May I read you?' / 'Yes ...'), surface then a minute of the long one at her count, while he tells her exactly; her fixed lines unchanged; the ask/yes entered."
+    },
+    {
+      "obligation": "ED-B7CH22-002 (HIGH): Make the two marsh self-readings, the noon telling/consented Oryn reading, Teague's afternoon arrival, and the dated log",
+      "status": "MET",
+      "evidence": "The third self-reading is before dawn on the 120th (a different calendar day); the telling at noon on the 120th follows all three; the logs read 'Before dawn makes three' and 'Third reading done, before dawn'."
+    },
+    {
+      "obligation": "ED-B7CH22-003 (HIGH): Preserve the far-fire image and pencil stop while removing every claim that the straightedge has never been opened or la",
+      "status": "MET",
+      "evidence": "All 'unopened / first time' claims removed; the straightedge 'laid along a continent for the first time at the Stair's rim' and laid again across the map now."
+    },
+    {
+      "obligation": "must_include: The self-reading as sensation and shape over an hour, no jokes/deflection; the stillness in the place session nine logged; no name, no theory; the log entry verbatim (with 'can't find the banks either — Oryn's right' framing the limit).",
+      "status": "MET",
+      "evidence": "An hour at the marsh's edge, the cataloguing part 'told, for an hour, to be still'; ten flows described without names; the banks sought and not found, held at its right size ('*I cannot find the banks.* Not *there are no banks.* ... the limit was the reading's and not the architecture's'); the eleventh thing: 'It was not a current ... a *stillness*. A thing that did not flow and was not nothing, and the ten currents went round it' — the river-stone image as Cael's own; 'He did not name it.' The three countable facts (before Oryn; before Brom's read; before the ring; not the Quiet). Log verbatim with the packet's adjusted opening: '*Read myself. Ten currents, and I can't find the banks either — Oryn's right. And the anomaly's there. Not a fragment. Not a flow. A still place ... Observation, then the log, then patience.*' A second night's reading logged as 'the same'."
+    },
+    {
+      "obligation": "must_include: The reading on Oryn with consent at her direction; his exact telling; her fixed lines verbatim ending 'Things you keep touching don't heal.'; he writes it down.",
+      "status": "MET",
+      "evidence": "Oryn reads HIM at noon on the track at her order ('Down. On your side.'), the deep reading, while he tells her 'All of it, exactly, as it was written and not as it would have been better said' — the three counted facts and where a guess would begin; her current stops a hand's breadth from the place. Contiguous: 'A still place that everything goes around. I've never felt that in anyone.' / 'Is it wrong?' / 'I don't know what right would look like in you. Nobody does. That's not a comfort; it's a finding.' / 'Write it down and stop touching it. Things you keep touching don't heal.' He writes it, her sentence entered as said, while she reads upside down."
+    },
+    {
+      "obligation": "must_include: Teague at the fire (sitting down next to him — the series' oldest posture), his crew's healer-of-no-Path; the plain question; the refusal as the choice not to run even the surface reading; the fixed exchange verbatim; the log rule verbatim.",
+      "status": "MET",
+      "evidence": "The fifth with a bag 'the shape of Oryn's roll and was not leather' binding Brom's shoulder with Oryn ('Then it wants binding, not hands'). Teague sits down beside him — 'the way Brom had sat down beside a boy he had just beaten and said *I want to know how you did that thing in the third exchange*'. 'What are you.' The wrist a foot from his hand; what the short one would give (Force, Bronze — 'which he already had from a doorway') and what the long one could; 'He did not put his hand on the wrist. He did not run the short one ... He did not run the long one'; the question instead ('Why did you stop reporting?'). Fixed: 'You didn't answer.' / 'I don't have one. Neither does the board. You said so.' / 'I did.' / 'The board's going to need a new column.' Log verbatim: 'I could have read him. I asked instead. The day I stop asking is the day I'm the registry. Write it down. Again. Every time.'"
+    },
+    {
+      "obligation": "must_include: Karis at the far fire, silent, with the straightedge; ENDS on the pencil stopping.",
+      "status": "MET",
+      "evidence": "Karis thirty strides back with the three copies (eleven, twenty-nine, twelve), the kit's ledger, the map with three circles and a fourth, the straightedge opened for the first time; two days without speaking; the pencil's sound catalogued; last line: 'Then the sound of the pencil stopping.'"
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 22 — What the Reading Finds', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; four '---' breaks; ends on the image; metadata 0."
+    },
+    {
+      "obligation": "plants: the still place; 'a new column'; the pencil stopping.",
+      "status": "MET",
+      "evidence": "All three on the page as quoted."
+    },
+    {
+      "obligation": "prohibited_outcomes: no name/theory for the still place; no primordial/source/before/predates; not-finding of banks a limit; no reading of Teague; Teague learns nothing; no fight/travel/other fragment use; no letters/Vastin; crew unnamed; not a dialogue or log ending; tics; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "grep primordial 0, source 0, predate 0; 'before' used only in the mandated temporal sense (before Oryn / Brom's read / the ring). The limit framed explicitly. Teague not read (neither count); he learns nothing (a question answered with a question). No fight; two days at the marsh; only the two self-readings and Oryn's reading. No letters; the fifth crewmember unnamed. Ends on an image (Ch21 ended on dialogue). Capped tics 0; one-word paragraphs 1; 'at the pitch' 0."
+    }
+  ],
+  "inventions": [
+    "The camp's two fires; Lira keeping the bolt in the bow; Brom's 'Twice.'; Seln's blanket over Karis's shoulders.",
+    "A second self-reading on the second night logged as 'the same' — meeting Oryn's Ch16 terms (three readings on different days: the sack, the 119th, the 120th) before the telling at noon on the 120th.",
+    "Teague's crew's healer-of-no-Path as an older woman with a cloth bag; her exchange with Oryn ('Twice?' / 'Twice.' / 'Then it wants binding, not hands').",
+    "Cael's question to Teague ('Why did you stop reporting?') and Teague's answer ('I'd sooner be worth what I did than what they wrote')."
+  ],
+  "state_change_proposals": [
+    "Timeline: the 119th (rest; the first marsh self-reading at night; the log) and the 120th (the second self-reading — three in all — noted 'the same'; Oryn's deep reading of Cael at noon, the telling, her finding; Teague's crew in the afternoon; the fire; the log; Karis's pencil stopping at night).",
+    "THE STILL PLACE, located and described three times (the sack; two nights at the marsh): not a current; not empty; a stillness near the middle under where her front hand lies; the ten go round it; before Oryn, before Brom's read, before the ring; not the Quiet — unnamed, untheorized. Oryn's finding entered: 'A still place that everything goes around.' Oryn's Ch16 terms met; the debt paid.",
+    "THE ASK-FIRST RULE paid at Teague's fire: neither reading run; a question asked instead; the log rule restated.",
+    "Teague's crew at the marsh from the 120th with their healer-of-no-Path; Brom's shoulder bound (not mended a third time — 'it wants binding, not hands'); Teague: 'The board's going to need a new column.' Teague knows nothing of the mechanism.",
+    "Karis: two days silent; the straightedge opened for the first time across the carter's map on the evening of the 120th; the pencil stopped (the finding is Ch23's).",
+    "Kept sentences: Oryn — the fixed finding lines; Teague — 'I'd sooner be worth what I did than what they wrote.' / 'The board's going to need a new column.'; Brom — 'Twice.'; the healer-of-no-Path — 'Then it wants binding, not hands.'"
+  ],
+  "deviations": [
+    "Four exact interval corrections from r2 (r2 preserved as drafts/ch22-r2.md); closed without a further editor recheck (all findings MEDIUM, arithmetic only)."
+  ],
+  "blockers": []
+}

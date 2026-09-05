@@ -1,0 +1,176 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch22",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 22 card)",
+    "state": "state-b7-post-ch21 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + anomaly. Party SIX at the Drowned Hall's marsh for two days' rest while Karis works; Teague's crew arrives at the marsh with their crew's healer-of-no-Path (an unnamed member who binds wounds) to help with the wounded — Teague sits down next to Cael at the fire (the series' oldest posture).",
+      "THREE READINGS. FIRST, on himself, alone, at night — described ONLY as shape and sensation, never explanation: ten currents; he cannot find the banks either, cannot find where one flow stops and the next begins, and the not-finding is a LIMIT of the reading (his and hers), not a fact about the architecture; and the eleventh thing, the place session nine logged five years ago on a training floor in Ardenmere with no Tide practitioner in the city: not a current — a STILLNESS, something at the center that does not flow and is not empty, that the ten currents move AROUND the way water moves around a stone it has always known was there. He does not name it; he does not theorize. The log entry is fixed (must_include). LOCKED: the anomaly deepened, located, unexplained; nothing approaches 'primordial', 'source', 'before'.",
+      "SECOND, on Oryn, with her consent, at her direction: he tells her exactly what he found; her answer: 'A still place that everything goes around. I've never felt that in anyone.' / 'Is it wrong?' / 'I don't know what right would look like in you. Nobody does. That's not a comfort; it's a finding. Write it down and stop touching it. Things you keep touching don't heal.'",
+      "THIRD, REFUSED — the losable stake paid: Teague at the fire asks plainly what the board cannot: what are you. Cael has the reading; Teague's wrist is a foot from his hand; he could know — not in a second; in the minutes the deep reading takes, with Teague still and willing, which Teague is not and has not been asked to be — what a Bronze Force practitioner who stopped reporting six years ago is built like and whether the not-reporting left a mark; the surface reading, a hand on the wrist, would give him Teague's Path and nothing more; even that he does not take. He asks Teague a question instead. Teague: 'You didn't answer.' 'I don't have one. Neither does the board. You said so.' 'I did.' A beat. 'The board's going to need a new column.' The log: 'I could have read him. I asked instead. The day I stop asking is the day I'm the registry. Write it down. Again. Every time.'",
+      "Karis at the far fire with three copies, the kit's ledger, and a straightedge, not speaking for the second day.",
+      "This is the book's scheduled no-deflection quiet chapter (charter Gate 25): no jokes in the self-reading."
+    ]
+  },
+  "purpose": "REPAIR RUN. Apply the three verified findings to v3-runs/book-07/drafts/ch22-r1.md: the second reading performed by Cael on Oryn with explicit consent at her direction while he tells her exactly (her fixed lines kept); the third self-reading before dawn on the 120th so all three precede the noon telling; the straightedge's prior use at the Stair's rim preserved (no 'unopened / first time'). No other passage changes.",
+  "scene_shape": {
+    "opening_state": "Two days' rest at the marsh; Karis at the far fire with the straightedge; Teague's crew arriving with help for the wounded.",
+    "pov_goal": "Do what Oryn asked: read himself first, tell her, and read no one who did not ask.",
+    "opposition": "The thing at the center of him; the temptation of a wrist a foot away; the wish for an answer to 'what are you.'",
+    "turn": "The self-reading at night (sensation; the stillness); the fixed log entry. The second reading on Oryn and her finding. Teague at the fire.",
+    "choice": "He does not read Teague; he asks a question instead.",
+    "outcome": "'The board's going to need a new column.'; the log rule restated; the sound of Karis's pencil stopping.",
+    "closing_state": "The chapter ENDS ON AN IMAGE (the previous chapter ended on dialogue): Karis, at the far fire, with the three copies and the kit's ledger and a straightedge, not speaking to anyone for the second day, and the sound — Cael catalogues it — of a pencil stopping."
+  },
+  "obligations": {
+    "must_include": [
+      "The self-reading rendered as sensation and shape over an hour, no jokes, no deflection; the stillness found in the place session nine logged; no name, no theory; the log entry verbatim: 'Read myself. Ten currents, no banks — Oryn's right. And the anomaly's there. Not a fragment. Not a flow. A still place, and the rest of me has been going around it since before I knew it existed. It isn't the Quiet. The Quiet is outside me and turns Paths off. This is inside me and the Paths — the fragments — go around it like they were built to. I don't know what it is. I know it was there before Oryn, before Brom's read, before the ring. Session nine caught the edge of it. I'm not going to guess. Guessing is what the registry did to me. Observation, then the log, then patience.' (Note: 'no banks — Oryn's right' must be framed in the entry or its surrounding prose as the reading's limit — 'can't find' — per the knowledge boundary; adjust minimally if needed: e.g., 'Ten currents, and I can't find the banks either — Oryn's right.')",
+      "The reading on Oryn with consent at her direction; his exact telling; her fixed lines verbatim ending 'Things you keep touching don't heal.'; he writes it down.",
+      "Teague at the fire (sitting down next to him — the series' oldest posture), his crew's healer-of-no-Path helping the wounded; the plain question; the refusal staged as the choice not to run even the surface reading; the fixed exchange verbatim; the log rule verbatim.",
+      "Karis at the far fire, silent, with the straightedge; the chapter ENDS on the pencil stopping.",
+      "Manuscript format: H1 '# Chapter 22 — What the Reading Finds', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The still place (Ch24's ledger; later books).",
+      "'A new column' (Ch24).",
+      "The pencil stopping (Ch23's finding)."
+    ],
+    "payoffs": [
+      "Ch14's condition (self first) and Ch16's rule (ask first) paid in one chapter; Ch19's 'no column'."
+    ],
+    "prohibited_outcomes": [
+      "No name or theory for the still place; no 'primordial/source/before/predates'; the not-finding of banks is a limit, not a fact.",
+      "No reading of Teague, surface or deep; Teague learns nothing of the mechanism.",
+      "No fight; no travel; no other fragment use.",
+      "No letters, Vastin; Teague's crew members unnamed.",
+      "The chapter does not end on dialogue or a log entry.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The marsh at night; the fire; Teague's crew as four bodies; Oryn's manner; the self-reading as interior sensation (cold that isn't cold, currents as flows, the stone in the river image as Cael's own).",
+      "Dialogue in established voices beyond the fixed lines (short).",
+      "The log entries."
+    ],
+    "approval_required": [
+      "Any new named entity; any fact about the still place beyond location/shape; any Tide mechanic beyond the taught readings."
+    ],
+    "forbidden": [
+      "Theory; reading Teague; fights; a dialogue or log ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 21 as drafted — the immediate seam (the Hall, 'Lie still.')",
+      "path": "v3-runs/book-07/drafts/ch21.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch22-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH22-001",
+      "severity": "HIGH",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "evidence": "Oryn read him on the second day, at noon, on the track, because she had said *lie still* at a marsh's edge with her hands back and had meant it as a healer's order and not as a figure of speech, and b",
+      "consequence": "The chapter reverses the required subject and object: Oryn performs a long reading on Cael, while Cael never performs the assigned second reading on Oryn with her consent. That leaves the packet's thr",
+      "repair_target": "Stage the second reading on Oryn, performed by Cael with her explicit consent and at her direction, while preserving his exact telling, her fixed response, and the ask-first rule; do not add theory or read Teague."
+    },
+    {
+      "id": "ED-B7CH22-002",
+      "severity": "HIGH",
+      "gate": "authority.canon_timeline_state",
+      "evidence": "He read himself again the next night, at the same place, for the same hour, and it was the same, and he wrote *the same* and the date and nothing else, because a finding that has not changed does not ",
+      "consequence": "The first marsh reading is explicitly logged on the 119th night, so 'the next night' is the 120th night. Oryn's reading is then placed at noon on the second day and Teague arrives that afternoon, yet ",
+      "repair_target": "Make the two marsh self-readings, the noon telling/consented Oryn reading, Teague's afternoon arrival, and the dated logs occupy one possible chronological order in which all three self-readings precede the telling."
+    },
+    {
+      "id": "ED-B7CH22-003",
+      "severity": "HIGH",
+      "gate": "core.continuity_persistence",
+      "evidence": "She was at the far fire, thirty strides back along the track, where she had been since the walls, with the three copies laid out on the box's lid in the order of the sites — the Ring's eleven sheets, ",
+      "consequence": "The straightedge is the focal instrument in both chapter seams. Chapter 21 explicitly says Karis used it on the carter's map at the Stair to set the bearing, while Chapter 22 says it is unopened in th",
+      "repair_target": "Preserve the far-fire image and pencil stop while removing every claim that the straightedge has never been opened or laid along the continent; keep its established prior use at the Stair's rim intact."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch22.md",
+    "report_path": "v3-runs/book-07/reports/ch22-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch22-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch22-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

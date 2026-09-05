@@ -1,0 +1,135 @@
+# Chapter 22 — What the Reading Finds
+
+Two days at the marsh, because Karis would not leave twelve sheets uncompared to the twenty-nine and the eleven, and because Oryn had said *two days* to Brom's shoulder and to Cael's ribs and to her own hands, in that order, and nobody had argued with the order.
+
+He catalogued the camp on the first evening because it was a camp and not a line, and the difference was worth a count. The track's dry end, with the stone in its rut and the marsh going out from it to a hall he did not look at more than once an hour. Two fires: theirs, at the stone, and Karis's, thirty strides back along the track where the ground was flattest, with the three copies laid out on the middle box's lid — the Ring's eleven rubbings, the Stair's twenty-nine, the Hall's twelve — and the kit's ledger open beside them, and the brass straightedge on the ledger, laid down for the first time since the Stair's rim. She had not spoken since the walls. She had eaten what Brom put beside her and had not looked at it, and once, when Seln went along the track to put a blanket over her shoulders because the marsh's cold came up at dusk, she had let him, without turning, which from Karis was a whole ledger of thanks. Lira, one-armed, sat at the near fire with Oryn's crossbow across her knees and did not take the bolt out of it, because a bolt in a bow was a thing she had learned the weight of in a hall and was not ready to put down; she had said nothing since the coping except 'Yes,' to the road, when Oryn restated the season's order, and she said nothing now, and he let her have the nothing, because she had earned it one-armed at four meters. Brom lay on his back with the shoulder still and his eyes open, and when Cael passed him with the water he said, 'Twice,' as a weight, and Cael said, 'Twice,' and that was the shoulder entered between them. Seln sat with his back to the mule's leg, facing the marsh, and the case on his shoulders. Oryn slept, which she did not do in front of people, and which she did now, on her side by the fire with her hands under her cheek, for four hours, and nobody moved her.
+
+He had a debt, and the terms of it, and the night to pay the first instalment.
+
+---
+
+He read himself at the marsh's edge, past the fires' light, with his back to the stone, because Oryn had said *alone* and *at night* and *first*, and the first of the three had been paid on a grain sack at Thornwater and this was the second.
+
+It took an hour. He had given it a quarter of an hour on the sack; he gave it an hour here, because the second reading was for the thing itself and not for the count.
+
+He went in as she went in. One hand on the sternum, the other under his back as far as it would go, which was not far; the attention arriving; going under the hand; going along. And the currents came up out of the general flow one at a time as they had come up on a loft's sacks, and he did not name them, because naming them was a thing he did with the part of him that catalogued, and he had brought that part to the marsh's edge and told it, for an hour, to be still.
+
+Ten. He felt them as flows: the quick one near the surface; the slow one under it; the deep one running like water under a floor; the one that drew in when it was touched; the loud one, quiet now, settled; the one that wanted doorways and had wanted nothing since a rim; the two he had spent in a hall that morning and that rang faint and sore, the way strings ring after a hand has been hard on them; the ninth, whose edge he could not find; and the tenth, which was what he was feeling with, and which he could feel now that he was using it, as a man feels his own eye when he shuts the other.
+
+He could not find the banks.
+
+He went looking for them, because the second reading was for looking. He went along the quick one and tried to find where it stopped and the slow one began, and there was no stopping; there was the quick one, and then there was the slow one, and the place between them was not a place. He went along the deep one and tried to find the floor it ran under, and there was no floor; there was more of it. He went round the whole of himself for the better part of the hour the way Oryn had gone round him on a table, patiently, keeping time, and at the end of it he had what she had had: ten movements, no channel, no edge to any of them.
+
+He made himself hold the finding at its right size, because holding a finding at its right size was the whole of the discipline and he had learned it from a woman thirty strides back along the track with a straightedge she had not laid along anything for four days. *I cannot find the banks.* Not *there are no banks.* The reading was hers and it was three weeks his, and a reading that could not find a thing was a reading with a limit in it, and the limit was the reading's and not the architecture's, and a man who wrote the second when he had only proved the first was doing to himself what a registry had done to him at fourteen.
+
+Then the eleventh thing.
+
+He knew where it was. He had known since a training floor in Ardenmere five years ago, when a man's Iron read had caught the edge of something in him at no stakes, in a sparring session with a number on it, and had never caught it again; and he had gone to it on a grain sack a fortnight ago and had found it, and had not stayed. He stayed now.
+
+It was not a current.
+
+That was the first thing and the plainest, and he held it there for a long time before he let himself go past it. Everything else in him *went*. The ten flowed; they had directions, even if he could not find their edges; they ran, and the running was what he felt them by. This did not run. It was not a movement. It was the absence of one, in a place — and the place was near the middle, under where her front hand had been on a table, where everything was *nearer* — and it was not empty. He had felt empty. He had felt the hollow a spent framework left, ten times over, on a rim five days ago; that was empty, and this was not that. This was a *stillness*. A thing that did not flow and was not nothing, and the ten currents went round it.
+
+He stayed with the going-round, because it was the thing he could describe without describing anything else.
+
+They did not go through it. They did not stop at it, or pool, or eddy, or bank. They went *round*, every one of the ten, in their own directions, at their own speeds, the way water goes round a stone in a riverbed — not a stone that has fallen in, that the water is still learning; a stone the river has gone round for so long that the going-round is the river's shape and not the stone's, so that if you took the stone out the river would go on bending where it had bent, for a while, until it forgot. He had felt that once, on the sack. He felt it now for an hour, and it did not change, and the ten did not change round it, and the thing at the middle did not do anything at all, because doing was not what it was.
+
+He did not name it. He had no name that was not a guess, and he had said to a healer in a yard that he would not guess, and the saying was on a page.
+
+He knew what he could say, and he counted it, because counting was the thing he had brought back to the marsh's edge at the end of the hour and let out of its stillness. It had been there before Oryn; session nine was five years old and she was six weeks, near enough. It had been there before Brom's read caught it, because a read catches what is already there. It had been there before the ring; he had walked into a floor where every Path in the party died and it had not done anything, because it did not do anything, and he had not felt it then because he had not had a way to feel it, and now he did, and it was the same. And it was not the Quiet. The Quiet was outside him — a line on the ground, two hundred meters from a floor, that stopped Paths at a stride — and this was inside him, and it stopped nothing; the fragments went round it as if they had always gone round it, which, as far back as he could feel, they had.
+
+He took his hands off himself, and felt the shape of the reading go, from his own side, and sat at the marsh's edge in the dark with the ten ringing faint in him and the still place at the middle of them not ringing at all, and wrote it by the fire's edge, in the plain hand, an hour later, when his hands had stopped being a healer's and had gone back to being his.
+
+*Hundred and nineteenth day, night. The Drowned Hall's marsh, at the stone. A hundred and eight in hand; nothing owed. Nineteen. Ten.*
+
+*Read myself. Ten currents, and I can't find the banks either — Oryn's right. And the anomaly's there. Not a fragment. Not a flow. A still place, and the rest of me has been going around it since before I knew it existed. It isn't the Quiet. The Quiet is outside me and turns Paths off. This is inside me and the Paths — the fragments — go around it like they were built to. I don't know what it is. I know it was there before Oryn, before Brom's read, before the ring. Session nine caught the edge of it. I'm not going to guess. Guessing is what the registry did to me. Observation, then the log, then patience.*
+
+*Second reading. The first was the sack at Thornwater. She said three, on different days, and then all of it at once. Before dawn makes three. Then I tell her.*
+
+He read himself again before dawn, on the hundred and twentieth, at the same place, for the same hour — a different day by the calendar, which was the term she had set, and he did not shave it — and it was the same, and he wrote *the same* and the date and nothing else, because a finding that has not changed does not need a second description, only a second date.
+
+---
+
+He read Oryn on the second day, at noon, on the track, because she had said *lie still* at a marsh's edge with her hands back and had meant it as a healer's order, and then, in the morning, had changed the order, because a healer changes an order when the finding changes.
+
+"Not me in you," she said. "You in me. I've had my hands in you twice and I've been told what you found in yourself once, by the log, upside down, at a table, when you didn't mean me to read it. That's not the debt. The debt's you telling me, exactly, and I want to hear it said with your hand on me, so that I can feel whether the thing telling it is steady." She sat down on the track's dry edge with the stone at her back and held out the right wrist, the coat's cuff pushed back, and did not put it in his hand. "Well?"
+
+"May I read you?"
+
+"Yes. Surface, then a minute of the long one, at my count and not yours, and you talk while you're in. Put your hand on it."
+
+He put his hand on her wrist, and went down at ten and found Tide there, as he had found it on a ridge road, and went on past the count into the long one at her count, along the one channel with its banks and its current that ran to things, for the minute she gave him, and while he was in it, he told her.
+
+He told her. All of it, exactly, as it was written and not as it would have been better said: ten currents and no banks he could find, and the not-finding a limit; the eleventh thing at the middle under her front hand; not a current; not empty; a stillness; the ten going round it the way a river goes round a stone it has always known was there; before her, before Brom's read, before the ring; not the Quiet. He did not say *what it was*. He said what it was *like*, and where, and when, and he said the three things he could count, and then he stopped, because he had reached the end of what a reading had found and the beginning of what a guess would have said.
+
+He kept his hand on her wrist for a while after he had finished, because she had not taken it back, and her current under his hand did what it always did, which was arrive, steadily, without a check in it, and he understood that she had been feeling him through his own hand the whole time he talked, the way a healer feels a man's pulse while he tells her where it hurts.
+
+Oryn said: "A still place that everything goes around. I've never felt that in anyone."
+
+"Is it wrong?"
+
+"I don't know what right would look like in you. Nobody does. That's not a comfort; it's a finding." She took her wrist back, not quickly, and looked at it, and then at him. "Write it down and stop touching it. Things you keep touching don't heal."
+
+He wrote it down.
+
+He wrote it at the track's edge with the book on his knee while she watched, upside down, as she read everything of his, and he wrote her sentence under his finding in the small hand, entered as said, and put the pencil in the spine, and closed the book, and she nodded once, and got up, and went to see about Brom's shoulder, because the debt was paid and a healer does not stand over a paid debt. He entered under it, smaller, that he had asked and she had said yes, in that order, which was the order.
+
+---
+
+Teague's crew came along the track in the afternoon of the second day, four of them and a fifth, and the fifth was the reason.
+
+He catalogued them from the fire because it was the fourth time he had catalogued them and the first time they had come to *him*: the tall woman with the spear, the broad man with the crossbow and the limp, the young one at the mule's head, Teague — and a fifth, a woman he had not seen before, older than any of them, with a bag on a strap across her chest that was the shape of Oryn's roll and was not leather. Teague's crew had a healer. Not a Tide practitioner; a woman who bound wounds, who had, by the look of her hands, bound a great many, and who went past the fire without a word to where Brom lay and knelt beside him and looked at the shoulder with the look Oryn gave a thing with a rule in it, and said, to Oryn, who had come to stand a stride and a half off, "Twice?" and Oryn said, "Twice," and the woman said, "Then it wants binding, not hands," and Oryn said, "Yes," and the two of them bound it between them, without a Path between them, as two carters mend a wheel.
+
+Teague came to the fire.
+
+He came as he came to every table, at the pace of a man going to a place he knew, and he stopped a stride and a half off, which was three people's distance now and he was one of them, and then he did the thing that no captain eleven lines up had done all year, and that Cael had watched one other man do once, on a circuit's floor in Ardenmere, after a bout, before they were friends.
+
+He sat down next to him.
+
+Not across the fire. Beside him, on the track's dry edge, with his shoulder a foot from Cael's shoulder and his hands loose on his knees and his eyes on the marsh, the way Brom had sat down beside a boy he had just beaten and said *I want to know how you did that thing in the third exchange*. It was the oldest posture Cael had a name for, and it had made a family once, and he did not have a column for it now either, and let it stand.
+
+They sat for a while. The marsh did what marshes do at the end of an afternoon, which is go gold and then go grey.
+
+"I read the ground at the Stair," Teague said. "I read the rim. I've read the board for three years and I've read every crew that's come up it. I can't read this." He did not look at him. "What are you."
+
+It was not the board's question. The board asked what you had *done*. This was the other question, the one every instrument on the continent had asked and had not been able to answer and had filed instead, and here it was, on a marsh, from a man with no seal, asked plainly, the way a man asks a thing he actually wants to know.
+
+And Teague's wrist was a foot from his hand.
+
+He catalogued that, because it was the whole of the chapter and he knew it while it was happening. The right wrist, on the right knee, the coat's cuff back from it, a foot from his own right hand on the track between them. He had the reading. He had had it awake at contact range for three weeks and had put it on one person who had asked him to and on himself, and he knew exactly what a hand on that wrist would give him: at ten, the Path — Force, Bronze, which he already had from a doorway — and nothing more. And past ten, if the man were still and willing, which he was not and had not been asked to be, in the minutes the long one took: what a Force practitioner was built like who had stopped writing to the registry six years ago and whom the registry had stopped asking; whether the not-reporting had left a mark in him the way a resigned ranking had left a mark in Karis, or a Compact left in form had left one in Seln; what the top of a wall was made of, from inside. He could know. Not everything. Enough.
+
+He did not put his hand on the wrist.
+
+He did not run the short one, which would have cost the man nothing and told him nothing he did not know. He did not run the long one, which the man had not consented to, and which he would not have been able to run without the man's stillness, and which the man would have given him, he thought, if he had asked — and he did not ask, because asking Teague to be read was a thing Teague had not come to the fire for, and a man who asks for a reading in answer to a question has answered the question with an instrument. He kept his hand on the track. It was the hardest still he had kept since a table at Thornwater, and it lasted the length of a breath, and it was not close.
+
+He asked a question instead.
+
+"Why did you stop reporting?"
+
+Teague looked at him then. It was the first time the man had looked at him for a reason that was not pricing.
+
+"Because the board pays the same whether I do or don't," Teague said, "and the registry doesn't, and I'd sooner be worth what I did than what they wrote." He looked back at the marsh. "That's not an answer to mine."
+
+"No."
+
+"You didn't answer."
+
+Cael said: "I don't have one. Neither does the board. You said so."
+
+"I did." A beat. The marsh went the last of the way to grey. "The board's going to need a new column."
+
+He sat with that, beside a man who had come to look and had stayed to hold a rim and had walked three days along a bearing with a healer of no Path to bind a shoulder he had not been asked to bind, and who had asked the question and been given a question back and had let it stand, and he wrote the log that night with the whole of it in front of him and the whole of it small.
+
+*Hundred and twentieth day. The marsh, the near fire. Teague sat down next to me. Asked what I am. I could have read him. I asked instead. The day I stop asking is the day I'm the registry. Write it down. Again. Every time.*
+
+*Third reading done, before dawn. Told Oryn, at noon, all of it, exactly, with my hand on her wrist and her leave to have it there. She said: a still place that everything goes around, and she's never felt it in anyone, and that's a finding and not a comfort, and write it down and stop touching it. Written. Not touched since. It's there. It'll be there. Observation continues; the pencil doesn't have to.*
+
+---
+
+Karis had not spoken for two days.
+
+She was at the far fire, thirty strides back along the track, where she had been since the walls, with the three copies laid out on the box's lid in the order of the sites — the Ring's eleven sheets, the Stair's twenty-nine, the Hall's twelve — and the kit's ledger open beside them at the page with the unfinished line, and the carter's map under the ledger with three circles on it and a fourth, and the brass straightedge, which she had carried out of Ternhall and had laid along a continent for the first time at the Stair's rim, across the map again now, at dusk, without hurry, and moved, a hair, and laid again, and she had not spoken.
+
+He catalogued the sound of her from the near fire, because there was nothing else to catalogue: the pencil, going, on the map's margin, in the small hand — a number, and a number, and a number, and the scratch of the straightedge's edge being moved and set — for the whole of the evening, past the point where Lira put the fire up and Brom slept and Oryn sat with her hands in her lap and Seln stopped watching the marsh and watched Karis instead.
+
+Then the sound of the pencil stopping.

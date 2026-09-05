@@ -1,0 +1,33 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch22-verifier-r2",
+  "scene_id": "b7-ch22",
+  "editor_run_id": "b7-ch22-r2-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch22-r2-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "STATE_RUNNING calendar (rim 114th; Oryn arrived 80th; Tide acquired 100th; straightedge at the Stair's rim 115th; entry dated 119th)"
+      ],
+      "reason": "'on a rim five days ago' (114th → 119th). All three MEDIUM and arithmetic; repaired directly by the author/orchestrator seat and closed without a further paid recheck per the completion loop's blocker/high rule (Ch02 precedent)."
+    },
+    {
+      "finding_id": "ed-b7-ch22-r2-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "STATE_RUNNING calendar (rim 114th; Oryn arrived 80th; Tide acquired 100th; straightedge at the Stair's rim 115th; entry dated 119th)"
+      ],
+      "reason": "'she was six weeks, near enough' (80th → 119th = 39 days). All three MEDIUM and arithmetic; repaired directly by the author/orchestrator seat and closed without a further paid recheck per the completion loop's blocker/high rule (Ch02 precedent)."
+    },
+    {
+      "finding_id": "ed-b7-ch22-r2-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "STATE_RUNNING calendar (rim 114th; Oryn arrived 80th; Tide acquired 100th; straightedge at the Stair's rim 115th; entry dated 119th)"
+      ],
+      "reason": "'three weeks his' (acquired the 100th; consistent with the Teague scene) and 'for four days' (the Stair's rim, the 115th). All three MEDIUM and arithmetic; repaired directly by the author/orchestrator seat and closed without a further paid recheck per the completion loop's blocker/high rule (Ch02 precedent)."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch24-r1-editor",
+  "scene_id": "b7-ch24",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "packet.must_include",
+      "state": "PASS",
+      "evidence": "All seven must_include items verified against the draft: Pike's season entry read aloud verbatim (L17) and his refusal to number with the fixed line (L29) plus 'He did not enter a line number.' (L31); Teague's term verbatim (L43) and 'Noted,' Cael said. (L47); the inventory with all ten sources and the tenth carrying 'the only one whose engagement field says clinical' (L65-67); the still-place entry verbatim (L69); the Reydan/Daeva line verbatim (L71); Hesk's package as a folding brass straightedge (L83) and the note verbatim (L87); Cael's reply verbatim (L93); a composed letter to Vell (L97); Oryn's letter verbatim (L107); 'Six, by letter.' (L109); the closing window with Karis's single sentence (L127), 'Nobody answered. Nobody said who, or why, or how old.' (L129) and 'for four seconds, by his count' (L129); the last lines (L133-141) and the final paragraph (L143) character-for-character as fixed by the packet; Lira one-armed at the fire with the order still standing (L7, L113, L135); five at the table (L121); Oryn absent in person. Format: H1 '# Chapter 24 — Alignment', prose only, seven '---' breaks, file ends on 'That was as far as anyone could say.'"
+    },
+    {
+      "gate": "packet.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Greps over the draft return zero for 'Architect', 'Vastin', 'UNBOUND', 'Quieting', and 'Feryn' (the Pressure source is rendered 'the Bronze from Ardenmere' at L67, exactly the registry §8.1 audio remedy the packet names; Oryn and Feryn therefore never share a sentence or a list run). No theory, maker, purpose, or age claim beyond 'older than any registry' (L143) and 'Older than the log.' (L69); nobody answers Karis (L129). The fourth site is credited with no tested effect — 'a fourth had been paced from outside and not crossed' (L143) and Cael only notes the cordon on the sheet (L129). No fight, no fragment use ('ten things held to nothing', L9), no travel on the page; Vastin absent; no new named entities (full capitalized-token sweep returns only names already on the registry or in Book 7's minted table: Millrace, Lowmarch, Thornwater, Ternhall, Denvash, Ardenmere, Greyvane, Oxhollow). The chapter ends on the mandated final paragraph, not on dialogue or a log entry."
+    },
+    {
+      "gate": "packet.plants_and_payoffs",
+      "state": "PASS",
+      "evidence": "Plants: spring named three ways (Teague's term L43; Oryn's 'Spring: bring the map' L107; Brom's 'Spring.' L137); the still place carried forward as a location with 'Observation continues.' (L69); the second ledger-keeper who stopped numbering him planted in the Vell letter — 'this week he stopped numbering me' (L97). Payoffs: Ch14's late package paid at L83-87 with 'Mind the shape.' answered at L93; Ch19/22's 'no column' paid at L29-31 with Cael filing it beside the two earlier ledger-keepers (L33)."
+    },
+    {
+      "gate": "craft-core.pov_integrity",
+      "state": "PASS",
+      "evidence": "Close third on Cael throughout; every observation is his or is reported to him. The room's verdict is rendered as what he can see and hear ('one of them said, to the other ... \"Eleventh,\" and the other said, \"Aye,\" and neither of them meant the number', L35); Teague's crew healer's judgement is given as a look Brom reads, not as her interior (L49); Seln's unspoken reaction is explicitly left unread — 'Cael saw the look and did not have a column for it either' (L51)."
+    },
+    {
+      "gate": "craft-core.continuity_persistence",
+      "state": "FAIL",
+      "evidence": "Three possessions/measurement facts do not survive from the closed prior chapters and the state snapshot: the crew's box count drops from three to two (L7 against ch17.md L7 and STATE_RUNNING.md L137 with no loss recorded on any page since); Pike's ledger is said to carry the Drowned Hall among its last three completed lines (L23) when the Hall was never posted, taken, witnessed, or paid, and the arithmetic of STATE_RUNNING.md L100/L218 puts the traverse, the Ring and the Stair in those three places; and all four circle centres are marked 'to a stride' (L119) when ch23.md L7/L15 restricts that precision to three and leaves the fourth explicitly at 'near enough ... I'll know when I've paced it.' See findings F-001, F-002, F-003."
+    },
+    {
+      "gate": "craft-core.causal_legibility",
+      "state": "PASS",
+      "evidence": "Every movement in the chapter is caused by something already on the page: the ice closes the ferry, so the mail and the package arrive now or not until thaw (L5, L77); Pike's refusal to number follows from Teague's Ch19 sentence, which is quoted as its cause (L29); the winter contract exists because Teague's crew left the axe-head fence unfinished when the Stair took them south (L57); Oryn fills the sixth chair by post because her route, not the crew, governs her (L107-113)."
+    },
+    {
+      "gate": "craft-core.consequential_scene",
+      "state": "PASS",
+      "evidence": "State changes recorded on the page: the ledger's verdict changes character (a line entered with the number withheld, L25-31); the crew's standing acquires a term from the rival captain for spring (L43-47); the season's work gains a winter job (L57); the fragment ledger closes the year at ten with the anomaly reclassified as a location (L65-69); the sixth chair is filled by letter (L109-113); and the alignment is stated as fact for the first time in front of all five (L123-127)."
+    },
+    {
+      "gate": "craft-core.audio_survival",
+      "state": "PASS",
+      "evidence": "Read aloud, nothing depends on typography. The log and letters are italicised in-world text but each is introduced by a spoken or physical frame ('He read it twice.', L89; 'and then aloud, to the four of them', L105) and each reads as plain first-person prose. The inventory is a spoken-shaped list with no bare stat fields — 'Tide-adjacent — Oryn; partial; Iron; self and contact' (L67) survives narration. Names in play (Pike, Teague, Karis, Lira, Brom, Seln, Hesk, Vell) carry no rhyme or shared onset pair in this chapter; the packet's Feryn/Oryn rule is honoured by omission."
+    },
+    {
+      "gate": "craft-core.anti_pastiche",
+      "state": "PASS",
+      "evidence": "No passage reads as an imitation of a specific author's protected expression. The chapter's mannerisms are the series' own established ones (the cataloguing opener, the ledger register, the log's plain hand), continuous with ch17.md L7 and ch23.md L27 rather than imported."
+    },
+    {
+      "gate": "voice-charter.3.2_diegetic_documents",
+      "state": "FAIL",
+      "evidence": "The Power Log's Anchor-adjacent entry states a count its own clause contradicts: 'opened a door on a rim and held a floor in a hall, and I own a piece of the craft the system uses to hold people and have used it twice this year to unhold them' (L67). One of the two named uses — the fixed point laid at the Drowned Hall's broken centre — was a hold, not an unholding (STATE_RUNNING.md L260). Charter §3.2 holds diegetic documents to the accuracy their in-world writer would keep, and this writer is the series' counter. See finding F-004."
+    },
+    {
+      "gate": "voice-charter.8.4_metadata",
+      "state": "PASS",
+      "evidence": "grep -n \"End of Chapter\\|approximately.*words\\|word count\\|DRAFT\\|TODO\" over v3-runs/book-07/drafts/ch24.md returns 0 lines. The file's last line is prose."
+    },
+    {
+      "gate": "voice-charter.8.5_attribution",
+      "state": "PASS",
+      "evidence": "Longest unattributed run in any multi-party scene is one line. The plank scene attributes every turn (Pike 'said, to the sheet' L29; 'Cael said' L21, L47; the two carters attributed to each other L35). The closing four-voice exchange tags each speaker (Cael L133; 'Lira, one-armed, feeding the fire' L135; 'Brom' L137; 'Karis, writing' L139)."
+    },
+    {
+      "gate": "voice-charter.9_tic_caps",
+      "state": "PASS",
+      "evidence": "Counts over the draft: 'jaw tightened' 0, 'laughed once' 0, 'without humor' 0, 'stomach tightened/dropped' 0, 'There it was' 0, 'Also true' 0, 'sounded almost' 0, 'held this' 0, 'which was, in its own way' 0, 'at the pitch'/'at that pitch' 0, standalone '[Name] noticed.' 0, modern registers (okay/literally/basically/gonna) 0, 'heard about it later' family 0, feeling- and growth-declaration greps 0, single-word paragraphs 0. The one 'that was true' hit (L23, 'the small hand Pike used for a thing that was true and was not going to change') is not the capped beat-closer form; the book-wide count for the capped form remains 0. Repeated identical constructions sit at, not over, the per-chapter cap of 3: 'the way a ...' 3, 'at the size a ...' 3. Em dashes 38 in 4,048 words."
+    },
+    {
+      "gate": "voice-charter.9_scene_closer",
+      "state": "PASS",
+      "evidence": "Chapter 23 closes on a log entry (ch23.md L111-113, '... We're not done. We're oriented.'). Chapter 24 closes on closing narration (L143, 'That was as far as anyone could say.'). The final beat types differ, as the packet's closing_state requires."
+    },
+    {
+      "gate": "voice-charter.10_density",
+      "state": "PASS",
+      "evidence": "wc -w returns 4,048 words against a target of 4,600 with 15% tolerance (floor 3,910). No architecture-major beat is summarised: the ledger's saying, the term, the inventory, the package, the letters, and the map are each rendered in scene. The six-day walk from the fourth site, which the packet does not designate as a beat, is the only compression (L9)."
+    },
+    {
+      "gate": "registry.name_screening",
+      "state": "PASS",
+      "evidence": "Every capitalized token in the draft resolves to an entity already on craft/NAME_REGISTRY.md or in its Book 7 minted table: Cael, Lira, Brom, Karis, Seln, Oryn, Pike, Teague, Hesk, Vell, Reydan, Daeva, Ephram; Lowmarch, Thornwater, Millrace, Oxhollow, Ternhall, Denvash, Ardenmere, Greyvane. No new personal or place name is minted. Read aloud, the chapter's active speakers (PIKE, TEEG, KAR-is, LEE-ra, BROM, SELN) share no onset-plus-stress pattern; the registry's Fiske/Pike ear flag is inert here because Fiske does not appear."
+    },
+    {
+      "gate": "state.fragment_and_injury_reconciliation",
+      "state": "PASS",
+      "evidence": "The inventory's ten fragments and their sources match state-b7-pre-ch01.md's table plus the Ch13 Tide acquisition exactly, in order, with the tenth's 'clinical' engagement field and 'self and contact' range preserved (L67); the anomaly is carried as one item, not an eleventh (L69). Injuries carry forward correctly: Lira's forearm still slung under Oryn's season order at first snow with the release withheld (L7, L9, L113); the taped right ankle still taped and unmended (L9); Brom's twice-mended shoulder bound rather than mended at Teague's fire and carried 'still, and slightly forward' as in ch23.md L27 (L9); Cael carries no open injury, correct after the ribs and calf closed at Ch13. Marks reconcile: 'A hundred and eight in hand; nothing owed' (L63) matches STATE_RUNNING.md L255."
+    },
+    {
+      "gate": "module.progression",
+      "state": "PASS",
+      "evidence": "No advancement is claimed in this chapter, so no delta needs a cause. Progress registers outside the measuring system exactly as the module's gate 3 asks: the ledger declines to price the crew ('First time it's been wrong about a crew by being too small', L29) and the rival keeps advancing on his own clock by setting a term rather than an offer (L43-45). Costs remain visible — the Stair's three hundred stands 'taken; not paid' (L23) and Lira is still one-armed."
+    },
+    {
+      "gate": "module.litrpg",
+      "state": "PASS",
+      "evidence": "No system display renders in this chapter; the only ledger of capability is the Power Log inventory, which has an owner, an in-world trigger (the year's closing inventory, written by lamp with the four of them sitting still for it, L59-61), and reads aloud without typography. Values match the approved snapshot (see state.fragment_and_injury_reconciliation). Hidden information stays hidden: the still place is located and left unnamed and untheorised (L69)."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "craft-core.continuity_persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch24.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "nine completed lines under the five names, the last three of them the Ring, the Stair, and the Hall, in Pike's hand, each with its outcome and its price"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/STATE_RUNNING.md",
+        "line_start": 218,
+        "line_end": 218,
+        "quote": "eighth completed line under the five names (the Fallow Ring: incomplete; no price paid)"
+      },
+      "consequence": "The count and the naming cannot both be true. Pike's page held seven completed lines at the ninetieth day (STATE_RUNNING.md L100), the Fallow Ring made eight, and the Long Stair made nine — so the last three lines are the traverse, the Ring and the Stair. The Drowned Hall was never a board matter: no posting, no hirer, no witness, no marks, which is the whole of Pike's stated rule ('No mark, no line', STATE_RUNNING.md L18). A reader keeping the ledger — and this book has taught them to — either finds a tenth line that is not there or finds the traverse quietly deleted from the page that has carried it since Chapter 8.",
+      "repair_target": "Name the last three lines correctly (the traverse, the Ring, the Stair) or drop the naming and keep the count; if the Hall is to appear on Pike's page at all, it needs a stated basis other than a completed contract.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "craft-core.continuity_persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch24.md",
+        "line_start": 7,
+        "line_end": 7,
+        "quote": "with a mule and two boxes and a survey kit and a girl with her arm across her chest"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch17.md",
+        "line_start": 7,
+        "line_end": 7,
+        "quote": "with a mule and three boxes and a girl with her arm across her chest"
+      },
+      "consequence": "The identical arrival formula counted three boxes at Lowmarch in Chapter 17, and the field archive has been three boxes since Chapter 6, with two on the mule and the middle one on Brom (STATE_RUNNING.md L137). No box is lost on any page between. The chapter otherwise tracks its counts to the item — one mule because Oryn took hers at the fork — so the missing box reads as an error in exactly the register the reader has been trained to check, and it silently retires the load Brom went back into a herd for.",
+      "repair_target": "Restore the count to three boxes in the landing inventory, or account on the page for where the third has gone.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "craft-core.continuity_persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch24.md",
+        "line_start": 119,
+        "line_end": 119,
+        "quote": "the four circles on it — the Ring, the Stair, the Hall, the fourth — and each circle's centre marked to a stride in her small hand"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch23.md",
+        "line_start": 15,
+        "line_end": 15,
+        "quote": "On the line, near enough, and near enough is what the carter drew, and I'll know when I've paced it."
+      },
+      "consequence": "Karis's precision is the book's honesty instrument, and Chapter 23 fences it deliberately: three centres to a stride, the fourth 'near enough' on a carter's careless blank, its perimeter paced twenty cords inward and abandoned short of the middle at 'Four hundred. Near enough.' Marking all four centres to a stride, and then having both straightedges touch all four 'without a hair of daylight', converts an estimate into a measurement and hands the closing tableau a certainty the researcher has refused to claim. It also spends, for nothing, the very restraint that makes 'Someone made this pattern.' land as a finding rather than a flourish.",
+      "repair_target": "Keep the fourth circle at the precision Chapter 23 left it — three centres to a stride, the fourth as the carter drew it — and let the straightedge touch three exactly and the fourth as near as the sheet allows.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-004",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "diegetic-document-accuracy",
+      "gate": "voice-charter.3.2_diegetic_documents",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch24.md",
+        "line_start": 67,
+        "line_end": 67,
+        "quote": "opened a door on a rim and held a floor in a hall, and I own a piece of the craft the system uses to hold people and have used it twice this year to unhold them"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/STATE_RUNNING.md",
+        "line_start": 260,
+        "line_end": 260,
+        "quote": "Anchor laid on the floor at the broken centre; the wyrm surfaced whole on the point"
+      },
+      "consequence": "The entry names its own two uses and then miscounts them: the rim's unbinding was an unholding, the Hall's fixed point was a hold laid to take a blind animal's attention. In a log the series treats as the most reliable document on the page, and kept by the character whose first competence is counting, a wrong count is the kind of slip that costs the log its authority — the more so in the inventory that closes the year.",
+      "repair_target": "Correct the count in the Anchor-adjacent entry (once, at the rim) or reword so the two uses are not both claimed as unholdings.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "Two folding brass straightedges, described in nearly the same terms, lie on the same map at the same moment (L119). Hesk's gift is the chapter's most loaded object and the one the packet's ending is built on; laying it beside an instrument that already does the same job, and having it confirm a line Karis's edge had already drawn, spends some of its force. The beat survives — Cael says nothing and Karis's single glance answers — but the gift reads slightly as a duplicate rather than as the tool the letter promised.",
+    "The upside-down-reading habit is explained twice in identical terms, at L23 ('because he read everything upside down and had never once stopped') and again at L105 ('because he read everything upside down'). Chapter 23 also gives the same trait to Oryn as her characterising habit (ch23.md L11, 'as she read everything'). Nothing is contradicted, but a signature is being spent three times in two chapters and once inside one.",
+    "The chapter sits at 4,048 words against a 4,600 target — inside tolerance, but at the low end, and the author report records a first pass at 2,768 words expanded from within. The expansion shows in a few places as accumulation rather than movement: the landing catalogue (L5, L9) and the winter's-contract paragraph (L57) each run long without changing pressure. The last chapter of a book can afford stillness; it is worth checking that these two passages are stillness rather than filler.",
+    "The identical constructions 'the way a ...' and 'at the size a ...' each appear exactly three times, at the charter's per-chapter cap and not over it. Both are house voice, but they cluster in the same two paragraphs (L35, L45, L49), which makes the cadence audible as a device on a read-aloud pass.",
+    "Seln's handing of the kit's ledger to Karis is reported rather than staged ('the ledger inside her coat where Seln had let her carry it for the last two days', L9), and the author report flags it as an invention against Chapter 20's disposition. It does not contradict anything — the ledger stays with the crew, and Seln's later look at his empty coat (L57) carries it — but it is a transfer of the book's most contested object made off-page, and a later book may want the moment.",
+    "'nothing earned since the Ring' (L63) is true but imprecise: the last earning was the traverse's seventy marks at Oxhollow, before the Ring. The sentence does not claim otherwise, so it is not a defect, only a soft edge in a ledger that is elsewhere exact."
+  ],
+  "strengths": [
+    "The worldbuilding is done entirely through mechanism and use, and it should not be sanded in repair. The board is shown working, not described: a line read aloud before it is entered because the procedure requires it, the pen held over the wall sheet and then put down, the sheet re-pinned unchanged, the room that had been not-looking stopping its pretence (L13-31). The courier chain is a machine with a failure mode — the tarred sack, the Line's lead broken with the knife Pike keeps for the pen, each name said aloud at the size a price is said 'so that the room could hear who had been written to and who had not' (L77) — and the ice closing the ferry is what makes the package's six weeks late matter. Rank and standing register as access and price, never as narration.",
+    "The chapter's set piece is a table, and it is choreographed with the same discipline the book gives its fights. The map scene has drawable geography and a clock: the lamp at the table's corner, the fire down to a working red, the snow on the window, five bodies round a sheet nobody called them to, and then the shot the packet asks for — 'The lamp's light lay along the brass and the brass laid its shadow along the line, a hair's width, the length of the map, and the five of them looked at the shadow for four seconds, by his count' (L129). Each of the five looks at a different thing, in character (Lira the line, Brom the brass, Seln the map's edge, Cael the cordoned fourth), and the beat closes on a hand laid flat rather than on a sentence. The ledger scene at the plank is choreographed the same way, on one prop: a pen that is raised and not used.",
+    "Pike's refusal is the year's verdict and it is delivered as procedure rather than as tribute. He reads the line, says 'That's said.', declines the number, and leaves the crew eleventh on a sheet he has just declared wrong — and Cael files it against the two ledger-keepers already on his shelf (L33). The third-party verdict lands without anyone praising anyone, which is the series' hardest register and the one most easily lost in a repair pass.",
+    "Restraint at the ending is exact. Karis's sentence is said once, in the small voice, and answered by nobody; the four seconds are counted; the evening closes on a gesture. No character reaches for a why, and the final paragraph holds the evidence ceiling the packet set — three floors, a fourth paced from outside, nobody alive knows why.",
+    "Oryn is absent and fully present. Four lines of her letter are read, then read a fourth time and unpacked clause by clause against what each cost her (L111), so the sixth chair is filled by post without the chapter once asking her to be a companion instead of a healer on a route. 'She'll say when' (L113) keeps Lira's arm, her order, and her authority all live in three words.",
+    "The letters differentiate their recipients by register: Hesk gets a reply built out of his own last sentence, Vell gets the one fact a ledger-keeper would want about another ledger-keeper (L93, L97). Neither explains itself, and both do characterisation the narration would have done worse."
+  ]
+}

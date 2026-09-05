@@ -1,0 +1,395 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch22-r2-editor",
+  "scene_id": "b7-ch22",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "repair.verified_findings_closed",
+      "state": "PASS",
+      "evidence": "ED-B7CH22-001 (reading direction) repaired: the second reading is now Cael on Oryn at her direction and with explicit consent — 'She sat down on the track's dry edge with the stone at her back and held out the right wrist ... \"Well?\"' / '\"May I read you?\"' / '\"Yes. Surface, then a minute of the long one, at my count and not yours, and you talk while you're in. Put your hand on it.\"' (lines 55-59), executed at line 61 ('He put his hand on her wrist, and went down at ten and found Tide there'), with the ask/consent order entered in the log at line 69 ('He entered under it, smaller, that he had asked and she had said yes, in that order, which was the order.'). Her fixed lines survive verbatim (lines 65-67). ED-B7CH22-002 (timeline) repaired: line 47 now reads 'Before dawn makes three' and line 49 'He read himself again before dawn, on the hundred and twentieth, at the same place, for the same hour — a different day by the calendar, which was the term she had set, and he did not shave it'; the telling is at noon of the second day (line 53) and Teague arrives 'in the afternoon of the second day' (line 71), so all three self-readings precede the telling. ED-B7CH22-003 (straightedge) repaired: every 'unopened / never once had a continent to lay along / first time' claim is gone; line 5 now reads 'the brass straightedge on the ledger, laid down for the first time since the Stair's rim' and line 131 'which she had carried out of Ternhall and had laid along a continent for the first time at the Stair's rim, across the map again now', which agrees with ch21.md line 5 ('set on the carter's map with the brass straightedge at the Stair's rim')."
+    },
+    {
+      "gate": "repair.scope_containment_and_strength_preservation",
+      "state": "PASS",
+      "evidence": "diff -u drafts/ch22-r1.md drafts/ch22.md returns exactly five hunks and eight replaced spans, all inside the three repair targets (camp straightedge clause; self-reading straightedge clause; the third-reading date pair; the whole Oryn-reading movement; the third-reading log line; the far-fire straightedge clause). No other passage changed; the Teague movement, the self-reading body, the log entries and the closing image are byte-identical. All eight r1 strengths survive on the page: the Teague fire scene (lines 71-121), '*I cannot find the banks.* Not *there are no banks.*' (line 23), Lira one-armed (line 5), Brom's 'Twice' plus binding rather than a third mend (lines 5 and 73), Oryn's four-hour sleep (line 5), the unnamed healer-of-no-Path (line 73), the pencil-stop close (line 135), and the production greps below. One partial erosion is recorded in concerns: r1's rib line ('Ribs are ribs. They've had a bill and they're paying it') was carried by the deleted Oryn speech, leaving only one rib reference (line 3)."
+    },
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The repaired calendar is now self-consistent at the chapter's spine (119th night / before dawn on the 120th / noon on the 120th / Teague that afternoon / the 120th log), but three elapsed-interval counts inside the self-reading do not reconcile with it. STATE_RUNNING.md line 239 dates the Long Stair rim to the 114th and line 249 the Stair's floor to the 115th; ch21.md line 7 puts the Hall three days beyond, so the draft's own '*Hundred and nineteenth day, night*' (line 43) is four to five days after the rim, not the 'two days ago' at line 31. STATE_RUNNING.md line 64 puts Oryn's arrival on the eightieth day, thirty-nine days (five and a half weeks) before the 119th, not the 'ten weeks' at line 39. The draft itself gives the tenth fragment's age twice and differently: 'ten days his' (line 23) against 'for three weeks' (line 99). See findings 001-003."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "Close third on Cael throughout. Every claim about another interior is marked as inference or is spoken aloud: 'he understood that she had been feeling him through his own hand the whole time he talked' (line 63) is Cael's inference from contact; Teague's motive is given only in Teague's own words (line 111); the healer-of-no-Path is read entirely from her hands and her one sentence (line 73). Nothing in the self-reading exceeds what the tenth fragment can perceive — the eleventh thing is location, absence of movement, and the currents' behaviour around it, with no source or age asserted."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "All four must_includes land. Self-reading as sensation over an hour with no joke and no theory (lines 15-41), the stillness located in the place session nine logged (lines 27-35), 'He did not name it' (line 37), and the mandated log verbatim with the packet's sanctioned banks framing at line 45. The reading on Oryn with consent at her direction plus his exact telling and her fixed lines ending 'Things you keep touching don't heal.' (lines 55-67), written down (line 69). Teague at the fire in the series' oldest posture (line 79), his crew's healer-of-no-Path (line 73), the plain question (line 93), the refusal staged as declining even the surface reading (lines 101-105), the fixed exchange (lines 113-121) and the log rule verbatim (line 123). Karis silent at the far fire with the straightedge, and the chapter ends on the pencil stopping (lines 129-135). Plants present: the still place, 'The board's going to need a new column' (line 121), the pencil stopping (line 135). Payoffs present: Ch14's self-first condition and Ch16's ask-first rule paid in one chapter."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "grep -i over the draft: primordial 0, source 0, predate 0, Quieting 0, Vastin 0, letter 0, 'at the pitch' / 'at that pitch' 0; the only Architect-family hit is 'architecture' (line 23) and the only Compact hit is 'a Compact left in form had left one in Seln' (line 99), which is Seln's established status, not the institution acting. 'before' appears only in the mandated temporal sense (before Oryn / before Brom's read / before the ring) and in 'before dawn'. The still place is never named or theorised; the banks are held as a limit ('*I cannot find the banks.* Not *there are no banks.*', line 23). Teague is not read at either depth (lines 101-105) and learns nothing of the mechanism. No fight, no travel, no other fragment use. Teague's crew members and their healer are unnamed. The chapter ends on an image, not on dialogue or a log entry."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The chapter's one turn is a refusal, and its causes are all on the page before it: the ask-first rule written at the well in Ch16, the lean-to refusal and the consented road reading in Ch18, and, in this chapter, the exact ledger of what each depth of reading would return (line 99). The refusal is then given a mechanism-free reason in Cael's own terms — 'a man who asks for a reading in answer to a question has answered the question with an instrument' (line 105). The Oryn reading resolves nothing; it discharges a debt whose terms were set in Ch16."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "The straightedge contradiction is closed (see repair gate). Injuries persist correctly against STATE_RUNNING: Lira 'one-armed' with the crossbow and the season order restated (line 5); Brom's shoulder explicitly at 'Twice' (line 5) and treated by binding rather than a prohibited third mend — 'Then it wants binding, not hands' (line 73), which honours Oryn's Ch21 order; Oryn drained and asleep four hours (line 5); Cael's ribs under a two-day order (line 3). Possessions carried: Oryn's crossbow on Lira, the case on Seln, the kit's ledger and the three copies at the far fire, marks 'A hundred and eight in hand; nothing owed' (line 43)."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Entering condition: a debt owed under Oryn's terms and an anomaly located but not described. Pressure: the third reading's term, the telling, and a wrist a foot away. Exit: the still place described, witnessed and entered by a second observer ('A still place that everything goes around. I've never felt that in anyone.', line 65); the ask-first stake paid in behaviour at Teague's fire; Teague's verdict that the board needs a new column; and Karis's pencil stopping. Knowledge, relationship and obligation all move."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "No passage reads as a named author's protected expression. The chapter's figures are drawn from the viewpoint's own materials — a river and a stone in a riverbed, strings after a hard hand, two carters mending a wheel, a healer feeling a pulse — and the register is the series' own catalogue-and-ledger voice."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues four times (the camp, line 5; the ten flows, line 21; Teague's crew, line 73; the wrist's exact geometry, line 99; the sound of Karis working, line 133). The two log entries keep the plain first-person register and contain nothing their writer could not know. Speakers stay differentiated: Oryn issues orders and findings in clauses ('Not me in you. You in me.'), Teague prices in flat declaratives, Brom speaks one word, Karis says nothing at all for two days."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. The Tide reading is shown only through use and its rules: hand placement, the count of ten for the surface depth, the minute of the long one bounded 'at my count and not yours' (line 59), contact range, and the requirement that the subject be still and willing (line 99). The registry appears as an economic fact — 'the board pays the same whether I do or don't, and the registry doesn't' (line 111). Research appears as objects and labour: eleven, twenty-nine and twelve sheets, the kit's ledger open at the unfinished line, the map, the straightedge moved a hair and laid again, and the sound of a pencil. No passage explains a system to the reader."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new named entity is minted; the fifth of Teague's crew stays a role. The Book 13 secret is protected — the still place is given location, shape and behaviour only, with the three countable facts and an explicit refusal to guess (lines 37-41). The Book 8 and Book 9 material is untouched: no maker, no age, no purpose, no Compact activity beyond Seln's existing status."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5: the only three-party exchange is the healer-of-no-Path beat at line 73, where every line is attributed inline ('said, to Oryn' / 'Oryn said' / 'the woman said' / 'Oryn said'). The Teague exchange is two-party with a longest unattributed run of two ('No.' / 'You didn't answer.', lines 115-117) before 'Cael said:' returns. Section 8.2: the italics carry emphasis only — '*I cannot find the banks.* Not *there are no banks.*' reads identically aloud because the contrast is in the words; the log entries are speakable prose with no tables, symbols or layout dependence."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Proper nouns in the chapter: Cael, Lira, Brom, Karis, Seln, Oryn, Teague, Thornwater, Ternhall, Ardenmere, plus the descriptive site names (Ring, Stair, Hall) and system words (Tide, Iron, Force, Bronze, Path). All are registry entries in good standing; nothing on the RESERVED list appears; no new name is minted. Read aloud, the one adjacency worth watching is Ternhall against Thornwater, which co-occur here for the first time; it is logged in concerns rather than as a defect, since the registry rates neither as a collision and the two differ in vowel and second element."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns zero. Section 10 grep for 'heard about it later|learned afterward|was told later|found out later|by the time he heard' returns zero. One H1, four '---' breaks, no other headings, and the file's last line is prose (line 135). Word count 4,015 against the packet's 3,910-5,290 tolerance band: WITHIN_TARGET."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Section 9 counts over drafts/ch22.md, all zero: 'jaw tightened' 0, 'laughed once' 0, 'without humor' 0, 'stomach tightened' 0, 'stomach dropped' 0, 'There it was' 0, 'That was true' 0, 'Also true' 0, 'sounded almost' 0, 'held this' 0, 'which was, in its own way' 0. Standalone '[Name] noticed.' 0. Banned modern registers (okay / literally / basically / gonna) 0. Feeling-declaration and growth-declaration greps 0. Identical 'the way X [verb]' construction: maximum 1 (seven distinct instances, no repeat). Single-word paragraphs: 1 ('No.'), under the cap of 2. Em dashes 21 in 4,015 words. 'at the pitch' / 'at that pitch' 0, so the book's cap is not touched."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 21 closes on dialogue ('Lie still. I want to read you.'). Chapter 22 closes on an observed image and sound — 'Then the sound of the pencil stopping.' (line 135). The two final beat types differ, and the architecture's assignment for Ch22 (image) is honoured."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Ten confirmed fragments plus the anomaly, matching the state after Ch13. The chapter counts ten flows at line 21 and the log dateline reads 'Nineteen. Ten.' (line 43). The anomaly is described as 'the eleventh thing' but explicitly 'Not a fragment. Not a flow.' (line 45), so it is not entered as an eleventh integration. Marks 108 in hand, nothing owed. Injuries reconcile as listed under core.continuity_persistence; no injury is silently healed and no new one is taken."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "Party six on the page (Cael, Lira, Brom, Karis, Seln, Oryn), joined in the afternoon by Teague's crew of four and one healer. The circle who know the mechanism stays six: the reading on Oryn happens at noon, before Teague's crew arrives, and Teague is told nothing. Shadow-adjacent is not used, so the public seal is untouched. No fragment is deployed in front of any non-circle witness."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No acquisition, rank change or measurable gain occurs in this chapter."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The r1 failure is cleared. The reading's constraints are now enforced rather than asserted: contact range only, the surface count of ten against 'the minutes the long one took', the subject's stillness and willingness as a precondition (line 99), and the duration explicitly rationed by the person being read — 'at my count and not yours' and 'for the minute she gave him' (lines 59-61). No mending is spent by a drained healer to make the scene work. The absence of a per-use bill on Cael's own hour is recorded in concerns."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "The chapter's movement is entirely outside the system: a rival captain crosses the room to sit beside him and says the ledger cannot price him (line 121), and a healer enters a finding about him that no instrument on the continent has produced (line 65)."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "Nothing is resolved by capability. The chapter's decisive act is the withholding of one — 'He did not put his hand on the wrist.' (line 101)."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague's crew moves on its own schedule: it comes three days along the bearing unasked, brings its own healer, and treats Brom before any conversation happens (line 73). The board is present as an institution through Teague's pricing and through the column it does not have."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The third reading is not a repetition of the first two: the first two are self-directed and private, the third is offered to him by a subject and declined. The tactical problem — a willing subject, a wrist within reach, and a question that only the instrument could answer — has not appeared before."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The Hall's costs are metabolised into behaviour rather than restated: Brom's twice-mended shoulder produces a binding instead of a third mend, Lira keeps a bolt in the bow, and Cael's inability to find the banks is converted into an explicit epistemic rule (line 23) rather than into a conclusion."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display, notice or sheet appears in this chapter."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The withholding is consistent in both directions. Cael withholds nothing he owes Oryn and tells her 'All of it, exactly, as it was written and not as it would have been better said' (line 63); he withholds the mechanism from Teague, and the narration withholds any account of what the still place is, stopping at 'the end of what a reading had found and the beginning of what a guess would have said' (line 63)."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "No combination is used. The tenth fragment's two depths were both taught in Ch7 and demonstrated in Ch13 and Ch18; the surface-then-a-minute pattern used at line 61 repeats Ch18's consented road reading exactly ('as he had found it on a ridge road')."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "Rank appears only in its non-combat consequences: what a Bronze who stopped reporting is worth to a registry versus to a board (line 111), and a ledger whose columns cannot hold a practitioner (line 121)."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "Every capability used is traceable: the surface and deep readings to Ch7's teaching and Ch13's demonstration; the consented reading of another person to Ch18; the self-reading to Ch14's condition and Ch16's terms. No new mechanism resolves anything."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "The reading's limits are restated at both of its uses in this chapter: contact only, stillness and willingness required for the long one, minutes rather than seconds, and a duration set by the subject (lines 59, 61, 99)."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "One new element (Teague's crew's healer-of-no-Path, unnamed and role-defined) against many extended ones: the board, the ledger, the route, the two reading depths, the ask-first rule, the still place, the straightedge, the three sets of copies."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "The r1 failure is cleared. Ch21's closing promise ('Lie still. I want to read you.') is answered rather than dropped: Oryn changes the order on the page and states what she gets instead — 'I want to hear it said with your hand on me, so that I can feel whether the thing telling it is steady' (line 55) — and the chapter shows her taking that reading through the contact (line 63). Ch16's three-readings-then-tell-me-at-once term is paid in full, and Ch14's self-first condition is discharged."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The still place is not a reveal; it is the located form of the Book 2 session-nine anomaly, planted in Ch14 as a place that does not flow and given shape here. Teague's 'new column' is planted by his Ch19 line about the board having no column. The pencil stopping is a plant for Ch23, not a payoff here."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The Character thread (Cael's ask-first stake) closes its checkpoint with a behavioural resolution. The Inquiry thread (what the reading finds) is deliberately left open and is explicitly marked as open — 'Observation continues; the pencil doesn't have to.' (line 125). No thread is closed with the wrong payoff type."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "The chapter's longest non-dialogue passages are sensory: the ten flows at line 21, the going-round at line 35, the wrist's geometry at line 99, the pencil and straightedge at line 133. Exposition appears only inside Cael's own counting, and even there it is anchored to felt objects (a grain sack, a table, a rim, a ring)."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Per-book gate; this run is a single declared continuity-repair pass and the diff confirms it did not also do voice or density work."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat in this chapter. Non-combat geography is nevertheless drawable: two fires thirty strides apart on a track's dry end, the stone in the rut, the marsh beyond."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat scene to profile."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat beats to reassign. Dialogue-level distinctness is covered under voice.cataloguing_documents_character_differentiation."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat in this chapter."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every open injury from Ch21 recurs at its next appearance: Brom's shoulder ('Twice,' line 5; bound rather than mended, line 73), Lira's arm and the season order (line 5), Oryn's depletion (line 5), Cael's ribs under a two-day order (line 3). The rib reference is now single rather than doubled after the repair, which is noted in concerns but still satisfies persistence."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Nothing the packet designates major is summarised. All three readings, the telling, the refusal and the closing image are rendered in scene; the only compressed passage is the second self-reading, which is compressed precisely because the finding did not change and the chapter says so (line 49)."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat beats to attribute to terrain."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement occurs."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No round or duel structure in this chapter."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Per-arc gate; no contest occurs here."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague's crew acts independently and off its own information — it walks the bearing, arrives with a healer, treats a man it was not asked to treat, and its captain revises his standing verdict on the crew's classification (line 121)."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "The chapter's progress marker is entirely social: the man eleven lines above them on the wall sits down beside Cael in the series' oldest posture (line 79) and states that the ledger's columns are insufficient (line 121). No number moves."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system box appears."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "The registry is criticised only through action and price, never through speech about injustice: Teague's reason for not reporting is an arithmetic ('the board pays the same whether I do or don't, and the registry doesn't', line 111), and Cael's own rule is expressed as a refusal to act rather than as an argument."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the book's scheduled no-deflection quiet chapter; there is no humour to price. Verified by reading the self-reading movement (lines 15-49), which contains no joke or lampshade."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The charter's scheduled quiet is delivered as the chapter's whole first movement: an hour of processing without deflection, with the cataloguing habit explicitly told 'for an hour, to be still' (line 19), and no joke anywhere in the reading or the telling."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "The stake is advanced in behaviour, not in monologue: the exact value of both reading depths on Teague is priced (line 99), the hand stays on the track (lines 101-105), and the log records the rule as conduct rather than sentiment — 'I could have read him. I asked instead. The day I stop asking is the day I'm the registry.' (line 123)."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch22-r2-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "elapsed-interval-contradiction",
+      "gate": "authority.canon_timeline_state",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch22.md",
+        "line_start": 31,
+        "line_end": 31,
+        "quote": "He had felt empty. He had felt the hollow a spent framework left, ten times over, on a rim two days ago; that was empty, and this was not that."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/STATE_RUNNING.md",
+        "line_start": 239,
+        "line_end": 249,
+        "quote": "## After Chapter 19 (CLOSED — PASS r2; 5,289 words; spliced 2026-09-04) — the Long Stair, the trap (the 114th)"
+      },
+      "consequence": "The only rim in the sequence is the Long Stair's, where the Daeva suite was spent and STATE_RUNNING records Cael 'all ten hollow' — the trap on the 114th, the chamber day on the 115th. Chapter 21 then puts the Drowned Hall three days further along the bearing, and this passage is written on the night the draft itself dates as the hundred and nineteenth (line 43). The rim is therefore four to five days behind, not two. A reader who has been given a dated log on the page in every chapter of this book is being asked to hold two incompatible intervals in the same paragraph, and the repair run's whole subject was making this chapter's calendar hold.",
+      "repair_target": "Correct the interval to the number the draft's own dateline and the state ledger produce (four to five days, or an unnumbered reference to the rim) without moving the 119th/120th dating that the third-reading repair now depends on.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch22-r2-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "elapsed-interval-contradiction",
+      "gate": "authority.canon_timeline_state",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch22.md",
+        "line_start": 39,
+        "line_end": 39,
+        "quote": "It had been there before Oryn; session nine was five years old and she was ten weeks."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/STATE_RUNNING.md",
+        "line_start": 64,
+        "line_end": 64,
+        "quote": "- Timeline: the ledge collapses at first light on the SEVENTY-EIGHTH day past the Line; the party waits in the fin's lee through the seventy-eighth and seventy-ninth; Oryn arrives on the morning of the EIGHTIETH day (the second day after the collapse); the log's one line is dated the eightieth day."
+      },
+      "consequence": "Oryn walked up the road on the eightieth day past the Line; the entry is written on the hundred and nineteenth. That is thirty-nine days — five and a half weeks — not ten. The sentence is the chapter's central act of counting, set deliberately against 'five years old', and it is the counting protagonist's own arithmetic; a reader tracking the day-numbered log entries the book has printed since Chapter 1 will find the one number in the sentence that can be checked is nearly double.",
+      "repair_target": "Replace 'ten weeks' with the interval the state ledger produces from the eightieth day to the hundred and nineteenth, or with an unnumbered comparison that keeps the five-years-against-weeks contrast intact.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch22-r2-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "elapsed-interval-contradiction",
+      "gate": "authority.canon_timeline_state",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch22.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "he had learned it from a woman thirty strides back along the track with a straightedge she had not laid along anything for two days. *I cannot find the banks.* Not *there are no banks.* The reading was hers and it was ten days his,"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/drafts/ch22.md",
+        "line_start": 99,
+        "line_end": 99,
+        "quote": "He had the reading. He had had it awake at contact range for three weeks and had put it on one person who had asked him to and on himself,"
+      },
+      "consequence": "Two counts in one line fail against the chapter's own dating. The straightedge was last laid along the carter's map at the Stair's rim (ch21.md line 5, and repaired into this draft at line 131), which the state ledger dates to the hundred and fifteenth; on the hundred and nineteenth that is four days idle, not two — and this clause is one of the eight spans the repair rewrote, so the corrected sentence has carried in a new wrong interval. Separately, the tenth fragment is given two different ages inside one chapter: 'ten days his' here against 'for three weeks' at line 99, the latter of which is the one that matches the hundredth-day acquisition. A reader who noticed the instrument's age in the Teague scene will find it contradicted in the self-reading forty lines earlier.",
+      "repair_target": "Bring both intervals onto the draft's own calendar: the straightedge idle since the Stair's rim on the hundred and fifteenth, and the reading's age stated once, consistently with the 'three weeks' at line 99 and the hundredth-day acquisition.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Injury specificity lost in the repair, not a defect: r1 carried Cael's Hall bill twice, once in the opening order and once in Oryn's deleted speech ('Ribs are ribs. They've had a bill and they're paying it'). The speech had to go with the reading's reversal, and the ribs now appear exactly once, at line 3, as one of three things Oryn said two days to. Persistence holds, but the wound has stopped costing anything the reader can feel. A four-word restoration somewhere in the Teague movement would put it back without touching the repaired scenes.",
+    "Judgment call for a human, not filed as a finding: Oryn's stated reason for the inversion — 'I want to hear it said with your hand on me, so that I can feel whether the thing telling it is steady' (line 55), paid off at line 63 as her feeling him through his own hand — is a Tide capability the taught readings do not quite cover. Ch7 defines both depths as the healer's hands on the patient and her current run through him; here she is the one being touched and reads through it. It is consistent with the contact-range rule and it resolves nothing, so the packet's approval_required clause on 'any Tide mechanic beyond the taught readings' may or may not bite. It is worth an owner's yes or no before Ch23 leans on it.",
+    "No bill is shown for Cael's own use of the reading. Three uses in this chapter — two hours alone and a minute on Oryn's wrist — and the only after-state is 'when his hands had stopped being a healer's and had gone back to being his' (line 41). Section 6.2's cost vocabulary includes attention budget, and Ch21 priced the Iron read in exactly that currency; an hour of the tenth fragment costing nothing at all is the one place in the chapter where the series' bill-for-everything discipline is quieter than usual. The constraints are all present, so this is calibration rather than a violated contract.",
+    "Ear check, watch rather than fix: Ternhall and Thornwater co-occur in this chapter for the first time (lines 131 and 3/47). The registry rates neither as a collision and the vowels and second elements differ, but they share the T-r-n skeleton and Ternhall has not been said aloud since Book 3. If a narrator stumbles, Ternhall is the cheaper side.",
+    "Forward risk outside this chapter's scope: Karis's brass folding straightedge is now firmly established as hers, carried out of Ternhall and used at the Stair's rim (line 131). The Chapter 24 card gives Hesk's late birthday package as 'instrument-maker's work, a straightedge, brass, folding'. Two brass folding straightedges on one inn table will read as a duplication rather than a gift; the collision should be resolved at the architecture layer before Ch24 drafts.",
+    "Taste only, carried from r1 and unchanged: the river-and-stone image and the instrument-limit distinction are stated in the narration, restated in the telling to Oryn, and restated again in the log. The repetition is motivated by the no-deflection brief and by Cael's method, and the third statement is the shortest, but the middle of the movement still reads more confirmatory than exploratory."
+  ],
+  "strengths": [
+    "The repair improves the scene it was asked only to correct. Inverting the reading turns a passive examination into a transaction with three moving parts — she sets the terms, he asks, she answers, and she gets her own reading of him through the contact anyway. 'Not me in you. You in me' is a better first line for the movement than the one it replaced, and 'at my count and not yours' keeps the rationing of a healer's reserve visible without spending any.",
+    "Consent is rendered as procedure rather than sentiment, and the procedure is recorded. The wrist held out and not put in his hand, the question asked before the touch, and the log entry made 'smaller, that he had asked and she had said yes, in that order, which was the order' (line 69) make the ask-first rule an act with paperwork. This is the same discipline the series uses for the Power Log and it is exactly the right place for it.",
+    "The Teague fire scene survives the repair untouched and remains the chapter's strongest movement. The one-foot wrist distance, the itemised ledger of what each depth would return, the hand that stays on the track, and the human question offered in place of the instrument make the moral stake behavioural. The fixed log line then records conduct instead of congratulating it.",
+    "The reveal boundary is protected with unusual explicitness. '*I cannot find the banks.* Not *there are no banks.*' separates the instrument's limit from a fact about the architecture in nine words, and the still place stays shape, location and behaviour — never source, never age, never name — with the refusal to guess stated as method rather than as restraint.",
+    "Yes, the worldbuilding is done through mechanism and use. Nothing is explained: the two reading depths appear as hand placement, a count of ten, a rationed minute, and the requirement that a subject be still and willing; the board and the registry appear as two prices for the same man's work; research appears as eleven, twenty-nine and twelve sheets, a ledger open at an unfinished line, a straightedge moved a hair, and the sound of a pencil.",
+    "There is no fight, as the packet requires, and the set piece is nevertheless choreographed and memorable: a fire, two men side by side, and a wrist twelve inches from a hand that could answer the question being asked. Its win sentence is writable — Cael removed the reading's ability to turn Teague into an answer by keeping his hand on the track and asking instead — which is more than most fights in this book manage in a paragraph.",
+    "The injury and possession seam is handled with economy. Brom's shoulder is at 'Twice', which is the exact number Oryn's Ch21 order allows, and the visiting healer's 'Then it wants binding, not hands' converts that order into an action performed by a stranger who has never heard it. Lira keeps the bolt in the bow. Oryn sleeps four hours in front of people for the first time.",
+    "The close earns its place as an image. Distance, a second fire, a number and a number and a number, the scratch of an edge being set — and then the absence of the sound. Chapter 23's finding gets its pressure without a word of explanation, and the beat type differs cleanly from Chapter 21's dialogue close.",
+    "Production is clean and the repair did not disturb it. 4,015 words inside the 3,910-5,290 band; every Section 9 capped phrase at zero; no pitch-family use added to the book's exhausted cap; metadata, summary-substitution, modern-register, feeling-declaration and growth-declaration greps all zero; one single-word paragraph against a cap of two; attribution survives audio in the one three-party exchange; and the diff against r1 is confined to the three repair targets."
+  ]
+}

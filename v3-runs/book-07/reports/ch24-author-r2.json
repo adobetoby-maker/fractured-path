@@ -1,0 +1,91 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch24-r2",
+  "scene_id": "b7-ch24",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch24.md",
+  "word_count": 4069,
+  "obligations": [
+    {
+      "obligation": "F-001 (MEDIUM): Name the last three lines correctly (the traverse, the Ring, the Stair) or drop the naming and keep the count;",
+      "status": "MET",
+      "evidence": "'the traverse, the Ring, and the Stair' (nine lines: seven at the 90th + Ring + Stair; the Hall was never a board matter)."
+    },
+    {
+      "obligation": "F-002 (MEDIUM): Restore the count to three boxes in the landing inventory, or account on the page for where the third has gone",
+      "status": "MET",
+      "evidence": "'three boxes'."
+    },
+    {
+      "obligation": "F-003 (MEDIUM): Keep the fourth circle at the precision Chapter 23 left it — three centres to a stride, the fourth as the cart",
+      "status": "MET",
+      "evidence": "'three of the centres marked to a stride ... and the fourth as the carter had drawn it, near enough'; Denvash's edge 'touched the three centres without a hair of daylight and the fourth as near as the sheet allowed'."
+    },
+    {
+      "obligation": "F-004 (LOW): Correct the count in the Anchor-adjacent entry (once, at the rim) or reword so the two uses are not both claim",
+      "status": "MET",
+      "evidence": "'have used it twice this year, once each way.'"
+    },
+    {
+      "obligation": "must_include: Pike's season entry read aloud verbatim and his refusal to number with his fixed line; Teague's term verbatim and Cael's 'Noted.'",
+      "status": "MET",
+      "evidence": "'*Crew of six. Ford cleared, traverse mapped, Ring entered, Stair entered and instruments recovered, Hall entered. No losses. Returned every time.*' / 'That's said.' Pike, to the sheet, contiguous: 'Teague says you need a column I don't have. I've kept this ledger thirty years. First time it's been wrong about a crew by being too small.' — 'He did not enter a line number.' Teague, contiguous: 'Spring. Whatever's on that bearing. My crew comes.' — 'It was not an offer. It was a term' / 'Noted,' Cael said."
+    },
+    {
+      "obligation": "must_include: The inventory complete with all ten sources and the tenth's 'clinical' field; the still place entry verbatim; the Reydan/Daeva line verbatim.",
+      "status": "MET",
+      "evidence": "Ten listed (Wind — Lira; Pressure — the Bronze from Ardenmere; Iron — Brom; Compression — Reydan; Ember — Karis; Shadow — Seln; Storm — Daeva; Anchor — unnamed; Blade — Ephram; Tide — Oryn ... 'the only one whose engagement field says clinical'); '*One anomaly. Session nine. Tide-adjacent. Not an entry any more; a location. The still place. Read three times. Doesn't flow. Doesn't change. Everything goes around it. Not the Quiet. Not a fragment. Older than the log. Observation continues.*'; '*Reydan will get his answer. Daeva will get her rematch. Both are going to need a map.*'"
+    },
+    {
+      "obligation": "must_include: Hesk's package and note verbatim; Cael's reply verbatim; a letter to Vell; Oryn's letter verbatim; 'Six, by letter.'",
+      "status": "MET",
+      "evidence": "The folding brass straightedge (three sections, two pins, calibrated in Hesk's struck marks; sighted true against the fire); note verbatim ('*Nineteen. I'm told it's late; the ferry's fault, not mine. ... Mind the shape. — H.*'); Cael's reply verbatim ('*Nineteen, past the Line, and there's a roof. It's an inn. The shape you said to mind is a line, and I've got the tool for it now. — C.*'); the Vell letter composed ('There's a second ledger on the continent with my name in it ... this week he stopped numbering me ... There are two now. The session still stands. — C.'); Oryn's by carter, verbatim ('*Route's whole. The knee held. Nobody died of eleven days. Spring: bring the map, and lie still when I say. — O.*'); 'Six, by letter.'"
+    },
+    {
+      "obligation": "must_include: The closing window on the map with Karis's single sentence verbatim and nothing further; four seconds; closes.",
+      "status": "MET",
+      "evidence": "The map on the inn's table with the four circles' centres marked, the kit's bearing in pencil, the Ternhall straightedge along it and Hesk's beside it touching all four; 'The sites were on an alignment. Not random.'; 'Someone made this pattern.' — 'Nobody answered. Nobody said who, or why, or how old.' — the shadow along the line 'for four seconds, by his count', 'and the evening closed.'"
+    },
+    {
+      "obligation": "must_include: The last lines verbatim and the final paragraph verbatim; the file ends on 'That was as far as anyone could say.'",
+      "status": "MET",
+      "evidence": "Both blocks verbatim from the packet; last line of the file as required."
+    },
+    {
+      "obligation": "must_include: Lira one-armed at the fire (first snow; the order holds); five at the table; Oryn absent in person.",
+      "status": "MET",
+      "evidence": "'a healer had said she would say when, and had not yet said'; 'Lira, one-armed, feeding the fire'; 'She'll say when'; five at the plank and the fire; Oryn by letter only."
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 24 — Alignment', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; seven '---' breaks; ends on the final paragraph; metadata 0."
+    },
+    {
+      "obligation": "plants: spring (the bearing, Teague's crew, Oryn's map); the still place; a second ledger-keeper who stopped numbering him.",
+      "status": "MET",
+      "evidence": "All on the page: Teague's term; Oryn's 'Spring: bring the map'; the still place entry; the Vell letter's 'he stopped numbering me'."
+    },
+    {
+      "obligation": "prohibited_outcomes: no theory/maker/purpose/age beyond 'older than any registry'/'Architect'; nobody answers Karis; no reads/measures claim; no 'left a road'; the fourth site credited with no tested effect; no fight/fragment use/travel; Oryn absent; Vastin absent; no new names; ends on the final paragraph; tics; no 'at the pitch'; Feryn and Oryn never in one list run.",
+      "status": "MET",
+      "evidence": "Architect 0; Vastin 0; Feryn 0 ('the Bronze from Ardenmere'); the fourth site 'paced from outside and not crossed'; no fight, no fragment use, no travel; no new names (the hide-woman, the crew of three, the carters, the ferryman and boy, the healer of no Path unnamed). Ends on the mandated paragraph. Capped tics 0; one-word paragraphs 0; 'at the pitch' 0."
+    }
+  ],
+  "inventions": [
+    "Lowmarch in first snow (skin ice; the last crate under snow; the road door shut for the smoke); the five catalogued at the landing; Pike's ledger page (nine lines; 'three hundred; taken; not paid'); the room's silent verdict ('Eleventh.' / 'Aye.').",
+    "The winter's contract: the axe-head hold's long fence, forty, HOLD from Teague to the five ('Ours'); Karis renting the inn's back room; Seln having given the ledger to Karis on the road (carried inside her coat).",
+    "Hesk's satchel described a year on; the ferryman's sorting ritual (nine pieces); the Vell letter's text; Cael's fourth reading of Oryn's four lines; Hesk's straightedge laid beside Ternhall's on the map, both touching all four centres."
+  ],
+  "state_change_proposals": [
+    "Timeline: the 129th day past the Line — first snow at Lowmarch; the ferry's last run the next morning (the 130th); Oryn's letter by carter the morning after. Winter at Lowmarch: the fence contract (forty) held by the five; Karis in the inn's back room with thirty-two sheets, the ledger, two straightedges and the map.",
+    "LEDGER: Pike's season line entered; NO line number — the five stay eleventh on a sheet Pike has declared 'wrong ... by being too small'; nine completed lines; the Stair's three hundred entered 'taken; not paid'. TEAGUE: 'Spring. Whatever's on that bearing. My crew comes.' — 'Noted.' Teague's crew (four plus the healer of no Path) winters at Lowmarch.",
+    "INVENTORY at book close: ten confirmed (as listed) + the still place as a location, read three times. Marks: one hundred and eight in hand; nothing owed. HESK'S STRAIGHTEDGE (brass, folding, calibrated) received; letters west to Hesk and Vell on the last ferry; Oryn's letter received — the sixth chair filled by post; Lira's arm still under Oryn's order at first snow ('she'll say when').",
+    "THE MAP: four circles, centres marked; the bearing; two straightedges along it, both touching all four; Karis: 'Someone made this pattern.' — unanswered. Book 8 inherits: the fourth site (twice the radius; cordoned; unentered); the kit and its ledger (with Karis); the index designation; the forty-one kinds and the radius line; the still place; Oryn's route and spring terms; Teague's spring term; the Compact's demonstrated awareness of quiet ground and of a crew that walks out of it declaring.",
+    "Kept sentences: Pike — the season line; the column line; 'That's said.'; Teague — the term; Hesk — the note; Oryn — the letter; Karis — 'Someone made this pattern.'; the closing lines."
+  ],
+  "deviations": [
+    "Five exact-string count corrections r1→r2 (r1 preserved at drafts/ch24-r1.md); closed without a further editor recheck (all findings MEDIUM/LOW)."
+  ],
+  "blockers": []
+}
