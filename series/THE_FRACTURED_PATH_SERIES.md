@@ -2,7 +2,7 @@
 
 **Canon status: LOCKED (arc structure); PROVISIONAL (per-book details)**
 **15 books, one protagonist, continuous series**
-**Protagonist:** Cael (Caelen) — ages 14 to ~27 across the series (**LOCKED to the drafted timeline, 2026-09-04:** fourteen at Book 1; eighteen on the page at Book 6 Ch14; nineteen on the page at Book 7 Ch14; one year per book thereafter — the arc bands below are rebased to this and prose is never retrofitted to the old bands)
+**Protagonist:** Cael (Caelen) — ages 14 to ~27 across the series (**LOCKED to the drafted timeline, 2026-09-04:** fourteen at Book 1; eighteen on the page at Book 6 Ch14; nineteen on the page at Book 7 Ch14; one birthday per autumn thereafter (a book that does not cross an autumn stages no birthday — Book 8) — the arc bands below are rebased to this and prose is never retrofitted to the old bands)
 
 ---
 
@@ -193,7 +193,7 @@ Cael's fragment log now contains nine integrated abilities. He still doesn't hav
 ---
 
 # ARC 3 — THE WORLD
-**Books 7–9 | Ages 18–21 (drafted: B7 18→19 on the page; B8 planned 19→20; B9 20→21; the pre-drafting band read 20–22 — superseded) | Antagonist: The Quieting**
+**Books 7–9 | Ages 18–20 (drafted: B7 18→19 on the page, in autumn; B8 nineteen throughout — it runs winter's end to summer; B9 19→20 in autumn; the pre-drafting band read 20–22 — superseded) | Antagonist: The Quieting**
 
 The arc where the world gets larger and the true threat becomes visible.
 

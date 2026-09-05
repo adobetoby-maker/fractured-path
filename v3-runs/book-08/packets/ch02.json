@@ -1,0 +1,181 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch02",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 2 card — No Sanction; Chapter 3 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen. Ten fragments; the still place untouched. Day-count: the closing log of Ch1 was the 270th; 'ice goes next week' — the ferry's first run lands in this chapter, on or about the 275th–278th (state the day).",
+      "Six at Lowmarch: Lira two-armed and on her own foot since the 266th (slow for a month; the arm aches in the wet); Brom's shoulder bound, carried still and forward, unread by Oryn; Karis with the kit, its ledger, the three copies, the map and both straightedges; Seln with the case; Oryn on her spring's first stop (Lowmarch), Millrace next; the crossbow on the inn wall.",
+      "Cash: a hundred and eighteen in hand; nothing owed. Pike's page: ten completed lines under the five names; the season line blank; the five eleventh on the wall sheet. Teague's crew at the upper inn, its spring term standing.",
+      "Karis's case for Treswick (the Deepstacks; the old scholars' provision; 'a man there who is') was made and not answered. Nobody has decided west.",
+      "VASTIN as Cael knows him: Archmarshal, the Compact's senior enforcement officer, Silver-tier, Iron Wall Path (the bible's canon; the Path has never been SHOWN on the page — do not stage it here); fifties; the inspection of Books 4–5; the direct antagonist of Book 6; at Book 6's close he said the one sentence the series holds for him — 'I knew the system was imperfect. I didn't know it was designed to be.' — and did NOT switch sides: no alliance, no files, no walkout. Book 7 gave Cael NO news of him. Cael does not know he resigned or walked; the distinction is Vastin's to make on the page, and the chapter lets it not matter.",
+      "What Vastin says he found (stated, not paid out): a NAME in the Compact's classified history, and a LOCKED LAYER — the sub-layer Karis has carried since Book 6 and named aloud in Book 7 ('under every station on the continent'). His NEW claims: no living official can reach it, and the trail on the name dead-ends in a pre-Compact archive at Treswick. He does not hand over records, does not say 'Architect', does not say 'six years'. Karis hears 'sub-layer' as a woman who has carried it for a book, not as news.",
+      "Vastin has no rank he can invoke; a name is not a demonstration out here; the board priced him at nothing; the broker who brought him east did it for coin. He has NOT asked to join and will not (Book 9). The 3–2 vote is NOT staged, hinted, or scheduled.",
+      "The Compact's asset-restriction on Cael is pending jurisdiction and unexecutable beyond the Line (B6 close) — Vastin may say so in one line if asked; he is not here to execute anything.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken', 'Feryn' (with Oryn in a list). No 'Architect', 'primordial', 'reset', '[UNBOUND]'. Lira has watched Cael measured by men in grey since Norhold and is the last to sit down.",
+      "Pike's ferry: the season's first mail comes in with it and the ferry turns back west with the first outbound sack the same day."
+    ]
+  },
+  "purpose": "Stage Vastin's arrival at Lowmarch as a scene — the man who inspected Cael for three books stepping off the season's first ferry in traveling clothes with no Compact grey, alone, having come east through the board and the courier chain and a broker who priced him at nothing — and the crew's wary re-appraisal of an inspection turned supplicant. He states why he came (a name and a locked layer he cannot pursue from inside) and does NOT hand over anything (Ch3). Close on his dialogue: the man who helped bury things asking to dig one up.",
+  "scene_shape": {
+    "opening_state": "The ice gone; the ferryman's ropes rigged; the meadow filling; the first ferry of the year sighted from the landing at first light with the Line's lead on its sack — and one passenger standing at the bow who is not a carter and not a broker's man and is looking at the landing the way a man looks at a place he has read about in files. Cael on the landing because he catalogues arrivals; Seln beside him because Seln reads faces off boats.",
+    "pov_goal": "Cael wants the first ferry to be mail and hides and nothing else; he gets the last man on the continent he expected, and wants, then, to know what the man is FOR before he lets him near the table.",
+    "opposition": "Vastin himself — alone, in traveling clothes with no grey, a pack and a stick, the walk of a man who has come the hard way; the board's indifference to him (Pike prices him at nothing, aloud); Lira's refusal to sit; the crew's memory of three books of inspection; Oryn, who has never seen him and reads him as a body (a man in his fifties who has walked further than he should on a knee that says so).",
+    "turn": "Seln, in the inn's doorway, says the true thing at an angle — 'You came through the board.' / 'I came through the board.' / 'Then you already know it doesn't care who you were.' / 'I'm learning.' — and Vastin sits at a table where nobody has offered him a chair and states why he came: a name and a locked layer, found in the classified history before he left, which no one inside will pursue and which he cannot pursue from inside, and the only people on the continent who would do anything but bury it are the ones the Compact spent four years trying to file. He does not open his pack.",
+    "choice": "The crew decides to hear him out — not to trust him — as a decision taken at a table in the order the series takes them: Karis first (she wants the name and says so); Brom (prices what he can demonstrate: 'He walked here. Alone. In spring mud.'); Seln (reads him and says the thing about the board); Oryn (a finding, not a vote: 'That knee's carried him three hundred miles and he hasn't asked me for anything'); Cael last, and what he says is not yes — it is the question Karis asks, handed to her. Lira is the last to sit down, and sits.",
+    "outcome": "Vastin heard, not admitted; his pack unopened (Ch3); a chair at the table that nobody offered and nobody took away; Pike's ferry turning back west with the season's first mail. Cael's log NOT written here (the closer is dialogue).",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim: Karis asks plainly why he brought this to them and not to a council or a court; Vastin: 'Because a council would file it, and I spent forty years being the man they sent to make sure the filing held. I know exactly how deep a thing has to be buried before no one goes looking. This is deeper than that.' A pause. 'I helped bury smaller things. I'd like to dig one up before I'm done.' Nobody answers. The ferry, behind him, turns back west with the season's first mail. The file ends on the last line of prose (which may be the narration of the ferry, after his last line)."
+  },
+  "obligations": {
+    "must_include": [
+      "The ferry's first run of the year lands as a scene at the landing, dated (state the day past the Line); the Line's lead on the sack; the season's first mail in; the ferry turns back west the same day with the first outbound sack.",
+      "Vastin's arrival as Cael sees it before he knows who it is: a man alone, traveling clothes, no grey, a pack and a stick, the walk of the hard way east — recognized by the walk or the face, and catalogued as what he IS now, not what he was.",
+      "The board prices him at nothing, aloud, on the page: Pike, at the plank, asked what a name is worth, says the thing the board says ('What'd he do?' / a line only for what a man has done out here). Vastin stands for it.",
+      "Seln in the doorway — the fixed exchange verbatim and contiguous: \"You came through the board.\" / \"I came through the board.\" / \"Then you already know it doesn't care who you were.\" / \"I'm learning.\"",
+      "Vastin states why he came — a name and a locked layer he found in the classified history before he left; that no one inside will pursue it and he cannot from inside; that the only people who would do anything but bury it are the ones the Compact spent four years trying to file — and does NOT open his pack, hand over records, name the Architect, or say six years.",
+      "Karis hears 'a locked layer' as the sub-layer she has carried since Book 6 and named at a table in Book 7 — her reaction is a researcher's ('Under every station. I said so at a table in the autumn.'), not surprise.",
+      "Vastin's want (charter §7.4) in a beat that is about HIM: the man who has never brought a problem to a table without owning the response, with nothing behind him but the choice — a name and a rank that buy nothing; a chair nobody offers.",
+      "Lira, who has watched Cael measured by men in grey since Norhold, is the last to sit down — and sits.",
+      "Oryn's first sight of him is a healer's finding (the knee; the miles), one or two lines; she does not touch him; she does not vote.",
+      "Close on the card's fixed dialogue VERBATIM and contiguous (Karis's plain question; Vastin's 'Because a council would file it…' through 'I'd like to dig one up before I'm done.'), then 'Nobody answers.' rendered as narration, then the ferry turning back west with the season's first mail as the last line."
+    ],
+    "plants": [
+      "Vastin's 'a name and a locked layer' — the name is Ch3's (the Architect citation) and Ch15's; the locked layer is the sub-layer's administrative inaccessibility (Ch3) — plant only, no payout.",
+      "Treswick named by Vastin as where the name's trail dead-ends — converging with Karis's west (Ch1) without either of them saying so.",
+      "Vastin's knee (Oryn's finding) — a body that will hold a line and cannot chase (Iron Wall's limit, taught Ch4, paid Ch12) — one physical detail only, no Path named.",
+      "The asset-restriction, pending and unexecutable beyond the Line, in one line if the crew asks what follows him — a standing threat for any return west (Ch8–9)."
+    ],
+    "payoffs": [
+      "Book 6's 'I knew the system was imperfect. I didn't know it was designed to be.' — carried, not repeated verbatim; Cael may remember it in one line.",
+      "Book 7's freedom (no registry, no file) — tested by the arrival of the man who kept the file; the board's indifference to him is the freedom's proof."
+    ],
+    "prohibited_outcomes": [
+      "No records handed over; no case opened; no 'Architect', no 'six years', no 'sub-layer log', no Compact suppression policy stated (Ch3).",
+      "No vote to admit him; no request to travel with them; no hint of Book 9's 3–2.",
+      "No Iron Wall declaration or description of Vastin's Path on the page (first shown Ch4).",
+      "No fight, no injury, no fragment use; no reading of Vastin (ask first — nobody asks).",
+      "No decision that the crew goes west; Karis's case stays unanswered.",
+      "No log entry as the closer (Ch1 closed on the log); the closer is dialogue + the ferry line.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤3; no 'at the pitch'; no chapter/volume references; no authoring metadata."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The ferry's landing in spring (the sack, the ferryman and his boy, hides and mail, the meadow's new tents); Vastin's traveling kit (pack, stick, boots); the broker who brought him east referred to and unnamed.",
+      "Pike's pricing of him — one exchange at the plank.",
+      "The inn's long room at midday with strangers in it."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any statement of what the Compact knows about the crew beyond B7 (they walked out declaring; nothing about the inside)."
+    ],
+    "forbidden": [
+      "Any Compact document, office, or official not already on the page in Books 4–7.",
+      "Any mechanic of Iron Wall, the reading, or the Quieting beyond what is established."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "State snapshot pre-Chapter 1 (from Book 7's closed prose)",
+      "path": "v3-runs/book-08/state-b8-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 1 (Winter's End)",
+      "path": "v3-runs/book-08/drafts/ch01.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 24 (Lowmarch, first snow; the last ferry; the plank; the inventory)",
+      "path": "books/book-07-void-roads/chapters/chapter-24.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 3 card — Six Years (the handover) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch02.md",
+    "report_path": "v3-runs/book-08/reports/ch02-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch02-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch02-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
