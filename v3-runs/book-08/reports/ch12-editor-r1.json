@@ -1,0 +1,410 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch12-r1-editor",
+  "scene_id": "b8-ch12",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Authority — canon reveal schedule (no SECRET disclosed early)",
+      "state": "PASS",
+      "evidence": "Searched the full draft (127 lines) for 'Architect', 'Arbiter', 'station', 'square', 'registry', 'clerk': zero hits. The Quieting is referenced only as the crew's own experience ('a crew that walked out of quiet ground declaring', L11/L43; 'the one who had walked out of the Quiet declaring', L55). No archive content is spoken to anyone. Prohibited-outcome list ('No Architect; no archive content told to anyone') satisfied."
+    },
+    {
+      "gate": "Authority — planning rulings DECISIONS-B7-RECONCILIATION rows 16-21",
+      "state": "PASS",
+      "evidence": "Row 16 (no mule in Treswick): grep -ci mule on the draft returns 0; the boxes are carried by hand ('four hands with four boxes', L9) and the kit's case is Vastin's (L11), matching Ch9's 'the kit's case, which was the fourth box'. Row 17 (Cleon's Path/tier by exception): Cleon does not appear. Row 20 (Vastin's 'forty years' is his own rounding at fifty-three): L119 'in forty years' and the fixed log's 'forty years' stand un-repaired per the ruling. Treswick geography: the route runs from the first-tier stair's landing at the first wall's foot down to the ring road and the inn's yard (L5) — entirely inside the first wall, no gate crossed, no tier count asserted."
+    },
+    {
+      "gate": "Reader Standard (Gate 27) — clean language, moral goodness, violence with cost, no gore, no sexual content",
+      "state": "PASS",
+      "evidence": "Banned-word grep (damn|hell|bastard|crap|bloody|god|christ|devil|curse|swore) returns 0. No sexual content. The crew kills nobody and hits nobody twice: 'He did not hit the man again. He had not needed to.' (L47); 'Nobody hit twice. Nobody declared.' (L53); Lira's knife is put into the stave's shaft, not the man (L51); 'Nobody died. Nobody was cut. The signal stopped.' (L69); 'neither of them touched a man who was walking away' (L79). Only wound description in the chapter is 'bleeding as a shallow cut on a hand bleeds, which is more than it should' (L91) — cost without gore. Fear and cost are carried (Vastin down on both knees and a hand, L85)."
+    },
+    {
+      "gate": "Packet — fixed line verbatim (closing log) and file ends on it",
+      "state": "PASS",
+      "evidence": "Exact string comparison of L127 against the card's fixed text (packet L1258 / L4467) returns an exact match, character for character including the em dash and all apostrophes. The file has 127 content lines and one trailing newline; nothing follows the log."
+    },
+    {
+      "gate": "Packet — prohibited outcomes (capped phrases 0)",
+      "state": "FAIL",
+      "evidence": "'for the length of a breath' is capped at 0 by the packet (L539, L579). It appears verbatim at L71: 'and were, for the length of a breath, six people who did not know what to do.' The near-variant 'in the length of a breath' appears at L79. See finding F-003."
+    },
+    {
+      "gate": "Packet — obligations: the faction's knowledge stated in Cael's register",
+      "state": "FAIL",
+      "evidence": "The obligation (packet L559) has three parts: they know the crew's movements; they do not know what works inside the Quiet; they saw an alley. Only the first is on the page, and in Seln's dialogue rather than Cael's register (L97). Searched every occurrence of 'quiet ground' / 'the Quiet' / 'inside' in the draft — L11, L43, L55 — all three describe the team's belief that the crew declares on the way OUT; none states the team's continuing ignorance of what works inside, and 'they saw an alley' has no equivalent. See finding F-004."
+    },
+    {
+      "gate": "Packet — obligations: the win-sentence on the page in the removal form",
+      "state": "FAIL",
+      "evidence": "The first clause is fully delivered ('There was no flank. There was no scree for a hound to take slow.' L31). The second clause — 'Cael and Brom removed their ability to ignore it by being the cost of not' — is delivered for Cael only ('the wanting was the cost of the plane, and he was the cost', L55). Brom appears only as a defender in exchange 2 (L47) and is never rendered as a reason the team wants the line. See finding F-006."
+    },
+    {
+      "gate": "Packet — obligations: integration staged per Continuity Rule 6 (a full minute, two feet, notice after)",
+      "state": "FAIL",
+      "evidence": "The minute is delivered and counted ('a minute; he had counted it, because he counted things, and it had been a minute and some', L103) and the notice renders after, when he attends to it (L107-109). The two-feet staging required by the packet (L535) and the card (L1256) is contradicted by the chapter's own geometry — L27 'from six feet below it, looking up' and L85 'six feet below him ... went up the six feet'. See finding F-002."
+    },
+    {
+      "gate": "Packet — obligations: costs ledgered forward",
+      "state": "PASS",
+      "evidence": "All five ledgered costs appear after the fight in the same chapter and again in the log: Vastin 'the knee that had gone under him on a road eleven days ago went under him again on a step' (L85; day 290 minus the border-road cut on the 279th = eleven, matching STATE_RUNNING's 'After Chapter 4'); Karis 'a cut, on the back of the left hand, shallow ... Brom bound it ... with Karis's thread and a strip off his own shirt ... with his good hand and his teeth, badly' (L91); Brom 'the shoulder, carried through the whole of it, still and forward, not used' (L93); Lira 'Two arms, twenty-five days' (L95); and the whole set restated in the log (L125)."
+    },
+    {
+      "gate": "Packet — prohibited outcomes: no killing, no faces, no names, none taken, no crew Iron Wall use, log closer",
+      "state": "PASS",
+      "evidence": "'None taken. No faces. Nobody dead.' (L81). No team member is named or described facially. Cael does not use the new fragment: 'He read it once and let it stand and did not use it. There was nothing to use it on; the cut was empty.' (L111). The chapter closes on the log, not an image or dialogue (L125-127), and Ch11 closed on dialogue — charter §9's closer rule is satisfied."
+    },
+    {
+      "gate": "Charter §4.1 — geography drawable",
+      "state": "FAIL",
+      "evidence": "The horizontal plan is exemplary and drawable (L5: twenty-two steps in five flights, a stride and a half wide, sheer three-man walls with no doors, landing above, inn's yard gate below; L11 places all five plus the six). The vertical fails at the chapter's most important position: the plane is set 'from the second flight's top step' with Vastin on the second flight (L25/L27), Cael is on the third flight (L11, L55), and the draft simultaneously calls that six feet (L27, L85) and two feet (L103). See finding F-002."
+    },
+    {
+      "gate": "Charter §4.2 — exchange structure (four exchanges, each changing something, ≥2 terrain-caused)",
+      "state": "PASS",
+      "evidence": "Four exchanges are explicitly delineated by scene breaks and named in-text: (1) the plane across the cut, wall to wall — the crossbow spent into it, position and resource changed (L23-31); (2) 'That was the second thing' — the staves meet Brom's rock and Lira's drop; two of the six are down, information changed ('did not know what to hit', L47) (L41-57); (3) 'That was the third thing' — the cord takes the signaller; coordination removed (L61-73); (4) 'The fourth thing was that they left' (L77-81). Terrain causes exchanges 1 and 2 directly ('This was a stride and a half of stone between two walls three men high with no door in either', L25; 'That was the cut's whole price for her: a woman who was fast had a stride and a half of stone and nowhere to run in it', L51)."
+    },
+    {
+      "gate": "Charter §4.3 — momentum and cost conserved",
+      "state": "PASS",
+      "evidence": "Fatigue accumulates and is paid after: 'a Silver-tier plane held across a cut for the length of a fight is not a plane held across a road for the length of a charge' (L85). Prior injuries persist unhealed: Brom's bound shoulder is carried and unused throughout; Lira's released arm is at twenty-five days; Vastin's knee from Ch4 recurs. Nothing vanishes by the aftermath section."
+    },
+    {
+      "gate": "Charter §4.4 — the winner removes the loser's options (sentence writable)",
+      "state": "PASS",
+      "evidence": "The sentence is writable from the text: Vastin removed the four's ability to flank by turning a corridor into a wall ('There was no flank ... every other way to the party was round by the ring road and up through the yard gate, which was a hundred strides and a minute', L31), and Seln removed the six's ability to coordinate the go-round ('the four ... who had been waiting for the word that told them when to go round by the ring road ... did not get the word', L71). Causality is legible without spectacle."
+    },
+    {
+      "gate": "Charter §4.5 — losses teach; Ch4's lesson paid",
+      "state": "PASS",
+      "evidence": "Ch4's lesson is quoted and enacted: 'Someone else has to be the reason.' He had the sentence now. He had had it since a road. He was it.' (L57), against ch04.md L113's 'a rooted man who could not chase ... a lesson from a ford: they follow whoever moves first.' The new half is stated as new: 'He saw the other half now, in a cut, which the road had not shown him: that in a corridor with sheer walls, a wall that cannot move does not need to.' (L31)."
+    },
+    {
+      "gate": "Charter §5.1 — system text anchored to a perceiving character",
+      "state": "PASS",
+      "evidence": "'he put his attention where the thing was, the way he had been taught to on a table, and it rendered.' (L107) immediately precedes the notice at L109, and the reading is acknowledged after ('He read it once and let it stand', L111). The notice renders after the fight, not during."
+    },
+    {
+      "gate": "Charter §5.2 — fragment notice format matches the Bible exemplar",
+      "state": "NEEDS_HUMAN_JUDGMENT",
+      "evidence": "The Bible exemplar and B7 Ch13 render fragment notices as a fenced block with the header 'FRAGMENT ACQUIRED', a bracketed name, and labelled fields (packet L230-236: 'FRAGMENT ACQUIRED / [unnamed] — Tide-adjacent. Duration: sustained. Integration: partial. / Tier equivalent: Iron. ...'). The draft renders italic prose with no header, no bracketed name, and two fields not in the exemplar ('Engagement field', 'Deployment') (L109). The packet itself directs exactly this ('a fragment notice is prose in the log's register, no stat block', L535), and ch13.md L95 and ch19.md L67 follow the same prose convention — so the book is internally consistent and the author complied with the work order. The divergence from the B7 exemplar is a planning-layer decision, not an author defect; it needs a human ruling before the book closes. Charter §8.3 is better served by the prose form, which is a point in its favour."
+    },
+    {
+      "gate": "Charter §5.3 / Continuity Rule 6 — integration cites witnessed use of the component",
+      "state": "PASS",
+      "evidence": "Iron Wall's earlier witnessed use is cited in-text: 'Cael had seen it done once, on a road, across a cut with ice in it, and had learned then what a wall was and what it cost' (L25), which is ch04.md's border-road cut. The component is witnessed at length in this chapter before the fragment lands (L23-31, L103)."
+    },
+    {
+      "gate": "Charter §5.5 / LitRPG gate 2 — values match the state snapshot; the reader could keep a character sheet",
+      "state": "FAIL",
+      "evidence": "Cash reconciles ('A hundred and thirty-six in hand', L125, against STATE_RUNNING's 'Cash 136' after Ch10) and the fragment ordinal is right ('ten things in him', L11; 'Eleventh', L109). But the notice's fourth field reads 'Iron' at L109 while the same notice ends 'Tier equivalent unknown', and the man the fragment came from is Silver-tier in this chapter's own prose (L85). See finding F-005."
+    },
+    {
+      "gate": "Charter §8.2 / §8.3 — audio survival; system text reads aloud",
+      "state": "PASS",
+      "evidence": "The notice at L109 is speakable prose end to end, with no bare numbers, tables or punctuation-dependent meaning, and its one shorthand is glossed inside the block ('Distinct from the third — Iron-adjacent, the bed'). Stripping the italics from L125/L127 loses no meaning; both read as a written log because they say so ('took the log out, on the step, and wrote it', L121)."
+    },
+    {
+      "gate": "Charter §8.4 — no authoring metadata in the chapter file",
+      "state": "PASS",
+      "evidence": "grep -cE 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over drafts/ch12.md returns 0."
+    },
+    {
+      "gate": "Charter §8.5 — dialogue attribution survives audio",
+      "state": "PASS",
+      "evidence": "The aftermath scene runs five potential speakers (Karis, Brom, Lira, Seln, Vastin, Cael). Every spoken line is attributed at or within its paragraph: Karis 'said, \"The sheets are dry\"' (L91); Brom 'said, \"Cart was heavier\"' (L93); Seln 'came up the steps and looked at the two staves and the bolt and said' (L97); the Cael/Vastin exchange at L113-121 is a two-hander with named tags. No run of unattributed lines exceeds four."
+    },
+    {
+      "gate": "Charter §9 — tic caps (one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; 'at the pitch' 0)",
+      "state": "FAIL",
+      "evidence": "One-word paragraphs: 0 (the only single-token lines are the four '---' scene breaks) — under cap. 'the way X [verb]': 2 (both at L107) — under cap of 4. 'upside down': 0. 'at the pitch': 0. 'four hundred': 0. Forbidden names (Halcenvane|Velmere|Wray|Bracken): 0. The failure is the zero-cap phrase 'for the length of a breath' at L71 (F-003) and the five-fold 'for/in the length of a [X]' scaffold at L71, L79, L85 twice, L101, L103 (F-007)."
+    },
+    {
+      "gate": "Charter §9 — scene-closer rule (no two consecutive chapters end on the same move)",
+      "state": "PASS",
+      "evidence": "ch11.md ends on Cleon's dialogue ('I've had a piece of it for a decade and I've never once slept well since'); ch12.md ends on the log (L127). The packet's prohibition on an image or dialogue closer is honoured."
+    },
+    {
+      "gate": "Charter §10 — density (word band 3,910-5,290)",
+      "state": "PASS",
+      "evidence": "Prose word count excluding the H1 and the four '---' separators: 4,395. Whole file: 4,407. Target 4,600 ±15% = 3,910-5,290. In band, 205 words under target. No architecture-major beat is summarised: grep for 'heard about it later|learned afterward|was told later|found out later' returns 0, and Seln's off-POV beat is explicitly reconstructed on the page ('Cael did not see it. He saw the result ... and drew the rest afterward', L63)."
+    },
+    {
+      "gate": "Craft core — point-of-view integrity",
+      "state": "PASS",
+      "evidence": "The one beat Cael cannot witness is framed as reconstruction, not fact: 'He was on the roof of the house on the cut's east side — he had been there, Cael worked out later, since the party had come down the first flight' (L69). Cael's ignorance is preserved elsewhere ('a word Cael did not catch and did not need to', L65)."
+    },
+    {
+      "gate": "Craft core — continuity persistence and count integrity (the cataloguing narrator, §3.1)",
+      "state": "FAIL",
+      "evidence": "The chapter opens on an explicit catalogue ('He catalogued it because a fight is drawn before it is fought. Six of them.', L11) and closes on a second one (L89-97) — the §3.1 requirement is met in form. The count itself does not hold: the draft states the team is six, adds a seventh, calls him the sixth, and then reports six. See finding F-001."
+    },
+    {
+      "gate": "Combat module gate 1 — stakes precede the decisive exchange",
+      "state": "PASS",
+      "evidence": "L11 lays out the trap's logic before a blow lands: 'a burst that would have been the loudest thing in the cut and would have brought a bolt down it from the top in the beat after, which was, he understood, what the crossbow was for: they had come for practitioners.'"
+    },
+    {
+      "gate": "Combat module gate 2 — positions and movement legible",
+      "state": "FAIL",
+      "evidence": "Horizontal placement is exact throughout; the vertical relation of Cael to the plane is not (F-002). A second, softer instance: Lira is placed on the second flight at L11 and Vastin then goes up past her to the second flight to set the plane at its top step (L25), yet she 'came off the second flight's edge onto the man's shoulders from above' onto a man who is engaged at the fourth flight (L51) — two flights below her."
+    },
+    {
+      "gate": "Combat module gate 3 — actions respect balance, reach, injury, equipment, established ability",
+      "state": "PASS",
+      "evidence": "Brom's healer's order is quoted and kept: 'did not go hard, because a healer had said not a door, not a box, not a man' (L47) matches ch06.md L73 verbatim, and he uses the good shoulder from the wrong side and pays for it (L93). The Iron Skin restraint cites its established cause ('he had learned at a ford that Iron Skin was a shout', L47; ch04.md L105). Vastin cannot move while rooted (L29), per Ch4."
+    },
+    {
+      "gate": "Combat module gate 4 — named combatants use distinguishable tactics",
+      "state": "PASS",
+      "evidence": "Four different solutions to one corridor: Vastin roots and cannot move; Brom uses mass, a loose rock and his back and then stands on the stave rather than strike again (L47); Lira, denied the one thing she has, uses the only open direction ('the one direction the walls do not close: down', L51); Seln works a roof and a cord and is never seen (L69). Cael's contribution is stillness, which is his established discipline."
+    },
+    {
+      "gate": "Combat module gate 5 — the pivotal decision and its consequence are causally legible",
+      "state": "PASS",
+      "evidence": "The removal chain is explicit and each link is stated before it is used: the four are waiting on a signal to go round by the ring road (L71); the signaller is on the landing (L65); the cord ties his signalling arm to the rail (L69); therefore 'did not get the word, and stood at a plane ... six people who did not know what to do' (L71). No spectacle hides the cause."
+    },
+    {
+      "gate": "Combat module gate 6 — the fight changes a non-damage story state",
+      "state": "PASS",
+      "evidence": "Three: the eleventh fragment (L107-109); the faction's certainty of the crew's movements ('They know where we sleep now. They knew before, but now they know we know.', L97); and Vastin's standing with the crew, said out loud for the first time ('I have never once put it in front of anyone the Compact would have restricted ... I put the wall in front of it anyway. I'd like that entered somewhere', L119)."
+    },
+    {
+      "gate": "Combat module gate 7 — persistent costs recorded for the next state snapshot",
+      "state": "PASS",
+      "evidence": "The log at L125 is a state-snapshot-shaped record: 'Karis, left hand, a cut, bound with thread and a shirt. Brom, the shoulder carried; the good one used wrong. Lira, nothing, two arms. Seln, nothing; a cord on a rail. Vastin, spent past a road; the knee again.' It matches STATE_RUNNING's provisional 'After Chapter 12' COSTS row."
+    },
+    {
+      "gate": "Progression module gates 1-7 — cause, cost, non-system change, no unestablished capability, rivals live, differentiated challenge, setbacks metabolised",
+      "state": "PASS",
+      "evidence": "The advancement has an intelligible cause and a recorded delta (a minute at two feet, then the notice with an ordinal, L103-109); its cost is the standing still that produced it ('he was being the reason and the reason does not look away', L107); no victory depends on it, since it is not used (L111); the antagonist faction acts independently and continues to ('They'll go to ground and think', L97); and the setback of Ch4 is metabolised into a different tactical problem in a corridor rather than repeated on a road (L31)."
+    },
+    {
+      "gate": "LitRPG module gates 1, 3, 4, 5 — owner and trigger, aloud, changes the scene, hidden information withheld",
+      "state": "PASS",
+      "evidence": "Owner and trigger at L107; reads aloud at L109; the notice changes the scene by producing the chapter's closing problem ('a fragment is a thing you own and a thing a man gave you is a thing you owe, and he did not yet have a word for the distance between those two', L121); tier equivalent is withheld as it has been withheld all series."
+    },
+    {
+      "gate": "LitRPG module gate 6 / 7 — combinations from established components; rank has non-combat consequences",
+      "state": "PASS",
+      "evidence": "No combination is attempted. Rank bites outside combat in the aftermath: 'No healer inside the gate would put hands on an unranked woman's hand' (L91) prices Karis's cut in standing rather than damage, which is the chapter's one institutional consequence."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity / count integrity",
+      "gate": "Craft core — continuity persistence; charter §3.1 (the cataloguing narrator); packet scene_shape.turn",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 65,
+        "line_end": 65,
+        "quote": "The four above the plane had a fifth. Not on the steps; on the landing at the cut's head ... and Cael had counted six and had had six, four and two, and had been wrong by one, because the sixth had been the one you do not count until he speaks."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 125,
+        "line_end": 125,
+        "quote": "Six of them, faceless, hooded, a crossbow and staves; a sixth on the landing to say when."
+      },
+      "consequence": "The arithmetic does not close. Four at the top (L9) plus two at the bottom (L9) is six; adding a fifth above who is not on the steps makes seven, which the draft itself concedes ('had been wrong by one') and then never carries: the new man is labelled 'the sixth' (L65, L79), the team is 'six people' at L71 and 'six hoods' at L81, and the log records 'Six of them ... a sixth on the landing' (L125). L79 compounds it — 'the six of them were six shapes on a landing' — while the other two are still on the steps below and only get up in the following clause, so five people are counted as six. The packet's own staging makes the coordinator one of the six ('removes the man who was coordinating the six', packet L547). This is the one error this narrator cannot afford: counting is his first competence, established in the chapter's second sentence ('a cataloguer walks a thing eleven times so that he has it on the twelfth', L3), and a reader who counts along — which the book trains them to do — is left holding seven while the log says six.",
+      "repair_target": "L65, L71, L79, L81, L125 — pick one arithmetic and hold it. Cheapest repair: make the signaller one of the four already counted (three came down onto the first flight, the fourth stayed on the landing to say when), which keeps the total at six, keeps 'the sixth' honest as a label, keeps L125 as written, and preserves the beat that Cael miscounted what each of them was for rather than how many there were. If the seventh is wanted, L71, L79, L81 and L125 must all be re-counted and 'the sixth' renamed.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "geography / packet obligation",
+      "gate": "Charter §4.1 (geography drawable); combat module gate 2; packet obligation 'watching Iron Wall from two feet'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 103,
+        "line_end": 103,
+        "quote": "He had stood two feet from it. That was the fact. He had stood on the third flight at the plane's foot for the length of a fight ... and had watched, from two feet, a Silver-tier Iron Wall held across a corridor by a man who could not move and would not stop"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 27,
+        "line_end": 27,
+        "quote": "and it was, Cael saw — from six feet below it, looking up — the first thing he had ever watched Iron Wall do that the ground did not argue with."
+      },
+      "consequence": "The chapter fixes Cael's distance from the plane three times and gets two different numbers. The plane is set 'from the second flight's top step' with Vastin on the second flight (L25); Cael is on the third flight (L11, L55); L27 measures that as six feet below the plane; L85 measures the same gap again — 'Cael, who was six feet below him ... went up the six feet and sat down on the step beside him' — and then L103 twice calls it two feet. Two feet is not a decorative number: it is the staging condition the packet (L535) and the card (L1256) impose on the integration, so the beat the whole chapter is built to deliver rests on the one measurement the chapter contradicts. A reader drawing the fight, which charter §4.1 requires them to be able to do, hits it at the climax.",
+      "repair_target": "L27, L85, L103 — one distance, used three times. Either move Cael up to the plane's foot on the second flight when the boxes go down (which makes 'at the plane's foot' literal and lets L85 read 'two feet below him'), or keep him on the third flight and change L103's 'two feet' to the distance the chapter has already established — but the second option needs the packet's two-feet condition released at the planning layer first.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-003",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "voice / capped phrase",
+      "gate": "Charter §9 anti-tic list; packet prohibited_outcomes ('capped phrases 0')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 71,
+        "line_end": 71,
+        "quote": "and stood at a plane with their hoods up and a crossbow they had spent and a leader who had gone quiet, and were, for the length of a breath, six people who did not know what to do."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch12-editor-prompt-r1.md",
+        "line_start": 579,
+        "line_end": 579,
+        "quote": "no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+      },
+      "consequence": "'for the length of a breath' carries a hard cap of zero in this packet, stated twice (L539 and L579), because the phrase has already reached watermark density in the series — B7 Ch13 uses it too (packet L248). One verbatim use survives at L71, and the near-variant 'in the length of a breath' at L79 sits eight lines away, so the two land inside the same movement and a listener hears the repetition as a tic rather than a measure. This is an explicit packet prohibition, not a matter of taste.",
+      "repair_target": "L71 and L79 — replace both with different measures of the same short interval, and make them different from each other (the chapter already owns better instruments: a count, a step, a breath drawn, the time a man takes to work at a cord).",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-004",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "packet obligation / series thread",
+      "gate": "Packet obligations.must_include — 'The faction's knowledge stated in Cael's register'",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 97,
+        "line_end": 97,
+        "quote": "\"They'll go to ground and think. They know where we sleep now. They knew before, but now they know we know.\" ... \"They came for a declaration. They got a wall and a rock. They don't know what to make of that, and they'll want to.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch12-editor-prompt-r1.md",
+        "line_start": 559,
+        "line_end": 559,
+        "quote": "The faction's knowledge stated in Cael's register: they know the crew's movements now; they do not know what works inside the Quiet; they saw an alley."
+      },
+      "consequence": "One of the obligation's three parts is on the page, and it is in Seln's mouth rather than in Cael's cataloguing register. The two missing parts are the ones that carry forward: the card's whole point about this fight is that 'its knowledge of what works inside the Quiet still zero ... it saw a fight in an alley; it did not see quiet ground' (packet L1254). Scope searched: every occurrence of 'quiet ground' and 'the Quiet' in the draft — L11, L43, L55 — and all three describe what the team believes about the crew walking OUT declaring, which is the team's knowledge, not the limit of it. Nothing anywhere states that the encounter taught them nothing about the inside. Without it the chapter reads as a straightforward repelled ambush and the series' central asymmetry — the Compact's ignorance of the one thing that matters — is not banked where the architecture banks it, which weakens Ch21's last reach on the road.",
+      "repair_target": "The aftermath movement, L97-103 — add one sentence in Cael's register after Seln's assessment, entering the limit as a finding, not an aside: what the six now hold (the inn, the hour, the route) set against what they still do not (what happens to a Path inside quiet ground), and that what they saw tonight was an alley.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "system values / character sheet",
+      "gate": "Charter §5.5; LitRPG module gate 2 (values match the approved state snapshot)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 109,
+        "line_end": 109,
+        "quote": "Iron-Wall-adjacent. Vastin. Partial. Iron. Held. A plane, not a body: the ground told not to give. ... Engagement field: defensive; rooted. Tier equivalent unknown. Deployment: none. Eleventh."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch13.md",
+        "line_start": 95,
+        "line_end": 95,
+        "quote": "Rune-adjacent. Cleon. Partial. Bronze."
+      },
+      "consequence": "The fourth slot of this book's notice format carries a tier: ch13.md L95 gives 'Bronze' for Cleon, ch19.md L67 gives 'Bronze' for Teague, and B7 Ch13's exemplar labels the field outright ('Tier equivalent: Iron', packet L232). Read that way, L109 declares 'Iron' and then, eleven words later, 'Tier equivalent unknown' — the same field answered twice, incompatibly, inside one four-line notice. Read the other way, as the source's tier, it is simply wrong: Vastin's plane is 'a Silver-tier plane' in this chapter's own prose (L85) and 'a Silver-tier rooted declaration' in the packet. The only reading that saves it is 'Iron' as a Path family, which neither sibling notice supports. A reader keeping the sheet the series invites them to keep (§5.5) cannot record this fragment's tier, and the packet's own list of required notice fields (L557) does not include a fourth-slot tier at all.",
+      "repair_target": "L109 — drop the fourth slot, or replace 'Iron' with the family marker made explicit ('Iron family') so it cannot be read as the tier field that the notice then declares unknown. The packet requires only: Iron-Wall-adjacent; from Vastin; partial; holding not hardening; tier equivalent unknown; engagement field held/defensive.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-006",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "packet obligation / structure",
+      "gate": "Packet obligations.must_include — win-sentence on the page; exchange 2 ('Cael and Brom are the reason they want the line')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 55,
+        "line_end": 55,
+        "quote": "and every one of the four wanted through that plane worse than they wanted anything, because he was on the other side of it, and the wanting was the cost of the plane, and he was the cost."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch12-editor-prompt-r1.md",
+        "line_start": 555,
+        "line_end": 555,
+        "quote": "the team's second element comes at the wall's protected side from below expecting declarations and meets people — Brom's rock and back, Lira's knife in no room, Cael silent; Cael and Brom are the reason they want the line (Ch4's lesson paid)"
+      },
+      "consequence": "The win-sentence's second clause is a pair — 'Cael and Brom removed their ability to ignore it' — and only Cael is delivered. Brom's whole function in exchange 2 is defensive: he meets a stave, puts a man into the wall, stands on the stave and does not hit him again (L47). Nowhere is he a reason the two from below come up, and the two from below in fact come up before Cael's stillness is described, so the draft supplies no motive for that half of the attack at all — they simply arrive. Ch4's lesson, which the chapter is built to pay, was learned by two men on that road (Cael on the scree and Brom silent with a rock at the plane's south end, ch04.md L105-119); paying it with one of them halves the payoff and leaves exchange 2's causality thinner than exchanges 1 and 3, which are exact.",
+      "repair_target": "L43-47 — one clause giving the two from below their reason: the big one who righted a broker's cart in a yard where anyone could watch, and the boy from the report, both on the wall's protected side. It also fixes the missing motive for their approach.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-007",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "voice / repeated scaffold",
+      "gate": "Charter §9 (any repeated beat phrase, including a newly invented one, is capped)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 85,
+        "line_end": 85,
+        "quote": "a Silver-tier plane held across a cut for the length of a fight is not a plane held across a road for the length of a charge"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 101,
+        "line_end": 103,
+        "quote": "because he had sat beside it for the length of the man's breath coming back. ... He had stood on the third flight at the plane's foot for the length of a fight"
+      },
+      "consequence": "Counted over the whole draft, 'for/in the length of a [X]' runs five times — L71, L79, L85 (twice in one clause), L101, L103 — in a 4,395-word chapter. Charter §9's rule is explicit that fixing a tic with a fresh repeated phrase is the same defect in a different coat, and the cap is three per book, not per chapter. Four of the five sit in the chapter's last third, so they cluster where the prose is meant to slow and land; on audio the construction starts to announce itself as the narrator's measuring habit rather than a measure.",
+      "repair_target": "L79, L85, L101 — vary three of the five. L85's doubled use inside one comparison is the loudest and should go first; the chapter already has a better instrument for duration in Cael's literal count.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-008",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity / count",
+      "gate": "Charter §5.5 (fragment inventory legible); §8.2 (meaning survives aloud)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 107,
+        "line_end": 107,
+        "quote": "the thing had gone into him the way the nine had gone in — not taken; *learned*, at two feet, by a body that learned the shape of a thing by standing beside it long enough"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 37,
+        "line_end": 37,
+        "quote": "the current went along the ten and came to the place where the ten bent, and he felt them bend — Wind going round it, Iron going round it, all ten going round a thing"
+      },
+      "consequence": "The book counts Cael's fragments as ten and says so repeatedly — 'the ten frameworks knocking together in him' (ch04.md L149), 'all ten going round' (ch07.md L37), 'ten things in him' in this chapter's own L11. 'The nine' arrives at the chapter's most important moment with no antecedent and no gloss. It is probably deliberate — the nine taken in the field, as against the tenth, Tide, which came clinically on a table — but that distinction is nowhere on the page, and the appositive that follows ('not taken; learned') actually describes Tide's acquisition better than it describes the nine that came out of fights. A listener, who cannot glance back, is left doing arithmetic during the integration.",
+      "repair_target": "L107 — either restore 'the ten', or keep 'the nine' and name what excludes the tenth in the same clause (the one that came on a table under a healer's hands).",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "attribution / POV",
+      "gate": "Craft core reader-trust invariant 1 (inference must read as inference)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch12.md",
+        "line_start": 91,
+        "line_end": 91,
+        "quote": "No healer inside the gate would put hands on an unranked woman's hand. Oryn had said so, at a fire, and had been right, and the cost of it was a strip of shirt and Brom's teeth"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch06.md",
+        "line_start": 73,
+        "line_end": 73,
+        "quote": "If you use it and it goes, there's no healer inside that gate who'll put hands on a Copper's shoulder, because inside that gate there's a column, and you're at the bottom of it."
+      },
+      "consequence": "Oryn priced a Copper's shoulder, not an unranked woman's hand. The extension is sound — Karis is unranked by choice and stands below the column's bottom rung — but the draft reports it as something Oryn said rather than something Cael has worked out from what she said, which is the one move this narrator is not supposed to make. It also quietly wastes the sharper version: Oryn's rule applied to someone she was not talking about is a harder fact than Oryn's rule quoted.",
+      "repair_target": "L91 — one clause turning the report into the inference it is ('Oryn had priced a Copper's shoulder at a fire; a hand with no column at all was the same arithmetic, further down').",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "Fragment-notice format is a planning question, not an author defect, and needs a human ruling before Book 8 closes. B7 Ch13 and the Universe Bible render notices as a fenced block with a 'FRAGMENT ACQUIRED' header, a bracketed name and labelled fields; this packet instructs italic prose with no stat block (L535), and ch12/ch13/ch19 all follow the prose form consistently. The book is internally coherent and the series is not. Charter §5.2 calls format canon; charter §8.3 prefers the prose. Somebody above this seat should decide which, and whether B7's block gets retro-fitted or B8's prose gets an exception logged.",
+    "The packet's opposition includes 'one Anchor course laid across the alley's bottom step — allowed once' and the draft uses none, substituting a spoken signal and Seln's cord. The author declares the deviation. Nothing in must_include requires the course and the substitution is cleaner (it gives Seln a physical object to remove rather than a magical one), but it does mean this chapter shows the faceless faction with no practitioner capability at all — six people with staves, knives and a crossbow — which makes them read as hired muscle rather than the team from B7 Ch19 that laid an Anchor lattice across a perimeter. Worth a planning glance before Ch21 asks the reader to fear them again.",
+    "The generalising aphorism scaffold 'because a [noun] [verb]s' runs seven times (L11, L51, L63, L69, L79, L97, L121), plus close cousins at L17 ('because a party that put its boxes down was a party that...'), L27 ('because they were men and men do not') and L69 ('because nobody in a city looks up'). This is house voice and mostly earns itself, but at ten instances in 4,395 words it starts to read as a generator rather than a habit of mind. Not a contract violation; flagged so a line pass can thin two or three of the weaker ones.",
+    "Paragraph length is very long even for this voice — L79 runs 236 words, L25 228, L47 209, L5 203, L27 203 — and four of those five are inside the fight. Charter §Sentence music asks for cadence contrast and the combat module names 'sudden stopping' as an available register. The chapter does use short paragraphs well at its hinges (L45 'Nobody declared.', L67 'Seln removed it.', L99 'And Vastin.'), so the tools are there; the middle of each exchange could take one more of them.",
+    "'he had walked the alley eleven times' (L3) sits against 'had been right for eight days' (L5). Eight days of one descent each evening does not obviously produce eleven walks; two directions a day produces sixteen. It is reconcilable (the archive week did not start on the first day in the city) and no state document fixes the number, so this is not a finding — but the sentence draws attention to the count deliberately, which invites the reader to check it.",
+    "Vastin's Ch10 reflex — the name, the title, the rank — is paid off silently and beautifully here: he holds a wall for a party and never says a word about who he is, and Seln's 'Be nobody' is never quoted at him. Preserve this. A repair pass tempted to make the payoff explicit would kill it."
+  ],
+  "strengths": [
+    "The corridor genuinely rewards the wall, and the draft proves it rather than asserting it: 'On a road the ground had said *go round*. Here the ground said *there is no round*.' (L27) is the whole Ch4-to-Ch12 argument in eleven words, and it is followed by the mechanism — sheer walls, no scree, and 'every other way to the party was round by the ring road and up through the yard gate, which was a hundred strides and a minute' (L31). The reader can check the arithmetic of the win, which is the series' contract.",
+    "Seln's beat is the best-constructed thing in the chapter. It is set up before it is used ('Seln was not anywhere. Good.', L13), reconstructed honestly rather than witnessed ('Cael did not see it. He saw the result ... and drew the rest afterward', L63), and its removal is a cord round an arm rather than a body — 'Nobody died. Nobody was cut. The signal stopped.' (L69). The cache reveal lands on the same move: 'The cache was on the roof. It had been on the roof the whole time, on a man's back, unopened, and the four had come for it, and it had been above them, and they had never once looked up.' (L73). Three obligations paid by one image.",
+    "The crew's conduct under the reader standard is not merely compliant, it is characterising. Brom stands on a stave instead of hitting a man twice (L47); Lira puts a knife into a shaft and the flat across a knee, and Cael watches her choose it ('the knife did not go into him — Cael saw that, and saw her choose it', L51); and the two beaten men are allowed to walk out through the party's own side 'because the party let them, because Brom stood on the stave and Lira stood on the step and neither of them touched a man who was walking away' (L79). Mercy is shown as competence, which is exactly the register the standard asks for.",
+    "The costs are priced in the crew's own vocabulary rather than narrated. Karis's whole report on her cut is 'The sheets are dry' (L91); Brom's is 'Cart was heavier' (L93); Lira's is a hand opening and closing and letting herself be caught looking (L95). Brom binding a hand badly 'with his good hand and his teeth ... like a man who has watched a healer do it a hundred times and has never once been the hands' is the no-healer decision from Ch6 paid in full, concretely, without anyone mentioning the decision.",
+    "Vastin's aftermath speech earns the chapter's title without touching it. 'There was nothing behind it. I have never once in my life held a line with nothing behind it' and 'I know what you are, on the paper. I have read the paper more times than any man alive. I put the wall in front of it anyway. I'd like that entered somewhere, since I'm not the one who keeps the ledger any more.' (L115, L119) is a man with no authority asking to be entered in someone else's record — the exact inversion the book is built on, said obliquely, with the thematic statement left off the page.",
+    "The closing move refuses the easy landing: Cael writes it down and does not tell Vastin what else he entered, 'because a fragment is a thing you own and a thing a man gave you is a thing you owe, and he did not yet have a word for the distance between those two, and was not going to make one up on a step' (L121). It sets the debt live for Book 9 and hands the fixed log a reason to exist rather than a summary to repeat.",
+    "Mechanical hygiene is clean: word count 4,395 in a 3,910-5,290 band; the fixed closing log matches the card character for character; zero one-word paragraphs; 'the way X [verb]' at 2 of 4; 'upside down', 'at the pitch', 'four hundred' and all four forbidden names at zero; no authoring metadata; no mule; no station, square, clerk or registry."
+  ]
+}

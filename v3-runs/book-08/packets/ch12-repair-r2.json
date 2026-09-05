@@ -1,0 +1,268 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch12",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 12 card — No Authority, combat-primary; Chapter 13 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–11' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen; day 290 (the archive week's end approaching; Cleon's 'give me a week' is nearly up), dusk, coming up from the archive with the boxes — WHERE: the archive's iron door is under the registry on the crown; the party comes up the cellar stair into the registry's yard and down the tiers by count each evening; the card places the fight 'between the Deepstacks gate and the inn' in the OUTER district — resolve: the team waits in the outer district's stepped alley that the party takes from the first-tier stair down to the ring road (the lane Seln chose), a choke between the stair's foot and the inn's yard; the 'archive gate' of the card read as the first-tier gate at the stair's foot (the way down from the tiers). State the geography drawably.",
+      "THE TEAM (the faceless faction, B7 Ch19): nameless, road grey or now city-coloured, hooded, faces never seen, equipped for practitioners (crossbows? in a city — knives, staves, weighted cords; state it), a second Anchor hand among them possibly (a course laid in an alley — allowed once, no faces); they know quiet ground exists and which crew walks out of it declaring; they do NOT know what works inside; they want Seln's cache and the archive unread. No official, no registry record; off the books. NONE taken; NO faces; NO names.",
+      "IRON WALL (Ch4 shown): a rooted plane; cannot chase; protects only what is behind; in a corridor it cannot be flanked (the lesson pays). Vastin roots the alley's narrow with the party BEHIND him (the gate side? NO — the party must be on the wall's protected side with the way to the inn open behind them, or the wall traps them; resolve: Vastin roots the choke ABOVE the party so the team on the stair side cannot come down; the party's way out is the ring road behind them; the team's second element tries the lane from below and meets Brom and Lira and Cael — the wall cannot be flanked because the alley's walls are sheer, so the team must come THROUGH the wall or round by the ring road, and coming round costs them the coordination Seln removes).",
+      "THE INTEGRATION (charter §5.3; Continuity Rule 6): Cael beside the rooted man for a full minute under threat, watching Iron Wall from two feet; the fragment integrates — Iron-Wall-adjacent, distinct from Brom's Iron-adjacent (holding vs hardening); partial; tier equivalent unknown; the notice renders AFTER, when he attends to it, in the LOCKED irregular format (see B7's notices: 'Tide-adjacent — Oryn; partial; Iron; self and contact…' — a fragment notice is prose in the log's register, no stat block); its first use, if any, is a breath's holding beside Vastin's plane — or NO use this chapter (safer: integrate, notice, no use). The engagement field: 'held' / 'defensive'.",
+      "DISCIPLINE: fight without declaring where possible — the team expects declarations; Cael's burst NOT used (the promise? no — the station is not near); Lira runs nowhere (no room); Brom's shoulder NOT used (Oryn's order) — he fights with the good arm and the rock/his back and pays for it; Karis takes a shallow cut; Seln's sightline work; the cache kept.",
+      "COSTS ledgered: Vastin spent worse than Ch4 (a Silver-tier rooted declaration held a full minute; the knee); Karis a shallow cut (arm or hand; bound by Brom's hands and Karis's thread — the priced cost of no healer); Brom's shoulder carried through it; the party unbroken; the gate held.",
+      "SEALED: no Architect; no reveal; the archive's contents not discussed with the team; no Rune integration (Ch13). The team is not the Compact's registry; the clerk is not involved.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD (Gate 27): violence with cost and fear, no gore, no relish; nobody killed by the crew (the team breaks; 'none taken')."
+    ]
+  },
+  "purpose": "The faceless faction's reach across the Line and inside a city's walls, and Vastin's fight, from which Cael integrates the Iron-Wall-adjacent fragment (the eleventh). The team that tracked the crew west (the completion report told the poster which crew walks quiet ground) moves to stop the archive being read — not through the registry (a record) but quietly, in the outer district, off the books, aimed at the working party and at Seln's cache. Terrain first: a stepped alley at dusk between the archive's gate and the inn — narrow, walled, a single choke where the stair from the archive level meets the district lane; no room to run, the worst ground for Lira and the best for Iron Wall. Four exchanges: the team takes the choke to trap the party against the gate; Vastin roots it — and this time the corridor REWARDS the wall (it cannot be flanked) and Ch4's lesson pays because Cael and Brom are the reason the team wants the line; the team came equipped for declarations and meets people (the Book 7 discipline); Seln removes their coordination from a sightline nobody covered; the cache stays unopened and untaken; the team breaks and melts into the district, faceless, unnamed. Cael, beside the rooted man for a full minute under real threat, integrates the fragment; the notice renders after in the locked irregular format — holding, where Brom's is hardening. Close on the log with the fixed text.",
+  "scene_shape": {
+    "opening_state": "Dusk on the 290th: the four hands and Karis coming down the first-tier stair by count with the boxes, Seln ahead as he always is; the stepped alley from the stair's foot to the ring road — a choke: walls sheer both sides, steps, a single width; the inn's yard at its bottom; and the alley's top, where the stair meets it, already held by four hooded figures who are not carters, and its bottom, where two more have come round by the ring road.",
+    "pov_goal": "Cael wants the party through the alley to the inn with the boxes and the cache; he wants nobody to declare; he gets a wall instead, in the one place a wall is right.",
+    "opposition": "Six faceless practitioners equipped for practitioners (weighted cords, staves, knives; a crossbow at the top; one Anchor course laid across the alley's bottom step — allowed once); the alley itself; the boxes; Brom's shoulder; no healer.",
+    "turn": "Vastin roots the alley above the party — a held plane across the choke's narrow, the stair side sealed — and the corridor rewards it: nothing comes down; the four at the top cannot flank sheer walls; and this time Cael and Brom are the reason the two at the bottom want the line, drawing the attack onto the wall's protected side instead of past it. The team came ready for declarations and meets people: Brom with a rock and his back, Lira with a knife in a space with no room, Cael silent at the plane's edge — and Seln, from a roof or a doorway nobody covered, removes the man who was coordinating the six (a cord, a fall, a signal cut — not a killing).",
+    "choice": "Cael stands beside the rooted man for a full minute, two feet from a Silver-tier plane under a crossbow, and holds — not a Path; his ground — and the fragment comes; he does not use it; he keeps the man's flank with a knife and a body while the man cannot move, which is the Ch4 lesson turned into the thing he does.",
+    "outcome": "The team breaks and melts into the district — faceless, none taken, none named; the cache unopened and untaken; the gate held; the crew's movements known to them now for certain; what works inside the Quiet still unknown to them (they saw an alley). Vastin spent worse than Ch4; Karis cut; the notice renders when he attends to it.",
+    "closing_state": "LOG — the card's fixed text verbatim: \"Eleventh. Iron Wall, from Vastin, in an alley, while he held a line for us with nothing behind him but the decision to. It's not Brom's — Brom gets harder, this holds. I've spent five years learning to give ground and disappear. Now I've got the opposite in me, from the man who spent forty years being the wall they put in front of people like me. He held it for us instead. I don't have a word for what that is. I wrote it down anyway.\" The file ends on it."
+  },
+  "obligations": {
+    "must_include": [
+      "Geography drawable before the first exchange (charter §4.1): the stair's foot, the stepped alley, its width, its sheer walls, the inn's yard at the bottom, the ring road; where the six are and where the five and Seln are.",
+      "Four exchanges (§4.2), each changing position/information/resource/injury, with ≥2 terrain-caused beats: (1) the choke taken from both ends; Vastin roots the plane ACROSS the alley above the party — nothing comes down; (2) the team's second element comes at the wall's protected side from below expecting declarations and meets people — Brom's rock and back, Lira's knife in no room, Cael silent; Cael and Brom are the reason they want the line (Ch4's lesson paid); (3) Seln removes the team's coordination from a sightline nobody covered — not a kill; the cache stays on his back, unopened, untaken; (4) the team breaks and melts into the district; none taken; no faces.",
+      "The win-sentence on the page in the removal form (the card's): Vastin removed the team's ability to flank by turning a corridor into a wall, and Cael and Brom removed their ability to ignore it by being the cost of not.",
+      "The INTEGRATION staged per Continuity Rule 6: Cael beside the plane a full minute under real threat; the notice rendered AFTER, when he attends to it, in the locked irregular prose-notice format: Iron-Wall-adjacent; from Vastin; partial; holding, not hardening; tier equivalent unknown; engagement field held/defensive — no stat block.",
+      "Costs ledgered forward (§4.3): Vastin spent worse than Ch4, the knee; Karis a shallow cut, bound by Brom's hands and Karis's thread (no healer — the priced cost); Brom's shoulder carried, unused, and what that cost him; Lira's arm's twenty-five days.",
+      "The faction's knowledge stated in Cael's register: they know the crew's movements now; they do not know what works inside the Quiet; they saw an alley.",
+      "Close on the fixed log VERBATIM; the file ends on it.",
+      "READER STANDARD: violence with cost and fear, no gore or relish; the crew kills nobody; the team's fallen are hurt, not slaughtered; nothing lingered on."
+    ],
+    "plants": [
+      "The eleventh fragment — holding — Ch21's wall for the crew; Book 9's ledger.",
+      "The faction's certainty of the crew's movements — Ch21's last reach on the road.",
+      "The cache still targeted — kept.",
+      "The station: not touched; the promise stands (the fight is in the outer district)."
+    ],
+    "payoffs": [
+      "Ch4's lesson (the wall holds the line; someone else is the reason) — paid in a corridor.",
+      "'Be nobody' (Ch10) — Vastin helps by holding, not by naming."
+    ],
+    "prohibited_outcomes": [
+      "No killing by the crew; no gore; no faces seen; no names; no one taken; no registry or clerk involvement.",
+      "No Rune integration (Ch13); no Iron Wall USE by Cael beyond integration (a breath's holding at most, or none).",
+      "No burst near the station; no square; no station.",
+      "No Architect; no archive content told to anyone.",
+      "No image or dialogue closer; the LOG is the closer (Ch11 closed on dialogue).",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The alley (steps, walls, a drain, a doorway, a roof Seln can use); the team's kit in a city (cords, staves, knives, one crossbow); an Anchor course laid across a step (once).",
+      "The notice's prose in the log's register."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any Iron Wall mechanic beyond the reference."
+    ],
+    "forbidden": [
+      "Any explanation of who sent the team beyond 'the faceless faction'; any face; any archive content."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 11 (The Marks)",
+      "path": "v3-runs/book-08/drafts/ch11.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 4 — Iron Wall shown; the lesson; the doctrine",
+      "path": "v3-runs/book-08/drafts/ch04.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 19 — the faceless team on the Stair's rim; the fragment-notice register (the Daeva suite; Anchor unbinding)",
+      "path": "books/book-07-void-roads/chapters/chapter-19.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 13 — the Tide acquisition notice as rendered (the locked irregular format)",
+      "path": "books/book-07-void-roads/chapters/chapter-13.md",
+      "required": true
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 13 card — The Reader (Rune integrated from Cleon) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "F-001",
+      "severity": "HIGH",
+      "gate": "Craft core — continuity persistence; charter §3.1 (the cataloguing narrator); packet scene_shape.turn",
+      "evidence": "The four above the plane had a fifth. Not on the steps; on the landing at the cut's head ... and Cael had counted six and had had six, four and two, and had been wrong by one, because the sixth had been the one you do not count until he speaks.",
+      "consequence": "The arithmetic does not close. Four at the top (L9) plus two at the bottom (L9) is six; adding a fifth above who is not on the steps makes seven, which the draft itself concedes ('had been wrong by one') and then never carries: the new man is labelled 'the sixth' (L65, L79), the team is 'six people' at L71 and 'six hoods' at L81, and the log records 'Six of them ... a sixth on the landing' (L125). L79 compounds it — 'the six of them were six shapes on a landing' — while the other two are still on the steps below and only get up in the following clause, so five people are counted as six. The pa",
+      "repair_target": "L65, L71, L79, L81, L125 — pick one arithmetic and hold it. Cheapest repair: make the signaller one of the four already counted (three came down onto the first flight, the fourth stayed on the landing to say when), which keeps the total at six, keeps 'the sixth' honest as a label, keeps L125 as written, and preserves the beat that Cael miscounted what each of them was for rather than how many there were. If the seventh is wanted, L71, L79, L81 and L125 must all be re-counted and 'the sixth' renamed."
+    },
+    {
+      "id": "F-002",
+      "severity": "HIGH",
+      "gate": "Charter §4.1 (geography drawable); combat module gate 2; packet obligation 'watching Iron Wall from two feet'",
+      "evidence": "He had stood two feet from it. That was the fact. He had stood on the third flight at the plane's foot for the length of a fight ... and had watched, from two feet, a Silver-tier Iron Wall held across a corridor by a man who could not move and would not stop",
+      "consequence": "The chapter fixes Cael's distance from the plane three times and gets two different numbers. The plane is set 'from the second flight's top step' with Vastin on the second flight (L25); Cael is on the third flight (L11, L55); L27 measures that as six feet below the plane; L85 measures the same gap again — 'Cael, who was six feet below him ... went up the six feet and sat down on the step beside him' — and then L103 twice calls it two feet. Two feet is not a decorative number: it is the staging condition the packet (L535) and the card (L1256) impose on the integration, so the beat the whole cha",
+      "repair_target": "L27, L85, L103 — one distance, used three times. Either move Cael up to the plane's foot on the second flight when the boxes go down (which makes 'at the plane's foot' literal and lets L85 read 'two feet below him'), or keep him on the third flight and change L103's 'two feet' to the distance the chapter has already established — but the second option needs the packet's two-feet condition released at the planning layer first."
+    },
+    {
+      "id": "F-003",
+      "severity": "HIGH",
+      "gate": "Charter §9 anti-tic list; packet prohibited_outcomes ('capped phrases 0')",
+      "evidence": "and stood at a plane with their hoods up and a crossbow they had spent and a leader who had gone quiet, and were, for the length of a breath, six people who did not know what to do.",
+      "consequence": "'for the length of a breath' carries a hard cap of zero in this packet, stated twice (L539 and L579), because the phrase has already reached watermark density in the series — B7 Ch13 uses it too (packet L248). One verbatim use survives at L71, and the near-variant 'in the length of a breath' at L79 sits eight lines away, so the two land inside the same movement and a listener hears the repetition as a tic rather than a measure. This is an explicit packet prohibition, not a matter of taste.",
+      "repair_target": "L71 and L79 — replace both with different measures of the same short interval, and make them different from each other (the chapter already owns better instruments: a count, a step, a breath drawn, the time a man takes to work at a cord)."
+    },
+    {
+      "id": "F-004",
+      "severity": "HIGH",
+      "gate": "Packet obligations.must_include — 'The faction's knowledge stated in Cael's register'",
+      "evidence": "\"They'll go to ground and think. They know where we sleep now. They knew before, but now they know we know.\" ... \"They came for a declaration. They got a wall and a rock. They don't know what to make of that, and they'll want to.\"",
+      "consequence": "One of the obligation's three parts is on the page, and it is in Seln's mouth rather than in Cael's cataloguing register. The two missing parts are the ones that carry forward: the card's whole point about this fight is that 'its knowledge of what works inside the Quiet still zero ... it saw a fight in an alley; it did not see quiet ground' (packet L1254). Scope searched: every occurrence of 'quiet ground' and 'the Quiet' in the draft — L11, L43, L55 — and all three describe what the team believes about the crew walking OUT declaring, which is the team's knowledge, not the limit of it. Nothing",
+      "repair_target": "The aftermath movement, L97-103 — add one sentence in Cael's register after Seln's assessment, entering the limit as a finding, not an aside: what the six now hold (the inn, the hour, the route) set against what they still do not (what happens to a Path inside quiet ground), and that what they saw tonight was an alley."
+    },
+    {
+      "id": "F-005",
+      "severity": "MEDIUM",
+      "gate": "Charter §5.5; LitRPG module gate 2 (values match the approved state snapshot)",
+      "evidence": "Iron-Wall-adjacent. Vastin. Partial. Iron. Held. A plane, not a body: the ground told not to give. ... Engagement field: defensive; rooted. Tier equivalent unknown. Deployment: none. Eleventh.",
+      "consequence": "The fourth slot of this book's notice format carries a tier: ch13.md L95 gives 'Bronze' for Cleon, ch19.md L67 gives 'Bronze' for Teague, and B7 Ch13's exemplar labels the field outright ('Tier equivalent: Iron', packet L232). Read that way, L109 declares 'Iron' and then, eleven words later, 'Tier equivalent unknown' — the same field answered twice, incompatibly, inside one four-line notice. Read the other way, as the source's tier, it is simply wrong: Vastin's plane is 'a Silver-tier plane' in this chapter's own prose (L85) and 'a Silver-tier rooted declaration' in the packet. The only readin",
+      "repair_target": "L109 — drop the fourth slot, or replace 'Iron' with the family marker made explicit ('Iron family') so it cannot be read as the tier field that the notice then declares unknown. The packet requires only: Iron-Wall-adjacent; from Vastin; partial; holding not hardening; tier equivalent unknown; engagement field held/defensive."
+    },
+    {
+      "id": "F-006",
+      "severity": "MEDIUM",
+      "gate": "Packet obligations.must_include — win-sentence on the page; exchange 2 ('Cael and Brom are the reason they want the line')",
+      "evidence": "and every one of the four wanted through that plane worse than they wanted anything, because he was on the other side of it, and the wanting was the cost of the plane, and he was the cost.",
+      "consequence": "The win-sentence's second clause is a pair — 'Cael and Brom removed their ability to ignore it' — and only Cael is delivered. Brom's whole function in exchange 2 is defensive: he meets a stave, puts a man into the wall, stands on the stave and does not hit him again (L47). Nowhere is he a reason the two from below come up, and the two from below in fact come up before Cael's stillness is described, so the draft supplies no motive for that half of the attack at all — they simply arrive. Ch4's lesson, which the chapter is built to pay, was learned by two men on that road (Cael on the scree and B",
+      "repair_target": "L43-47 — one clause giving the two from below their reason: the big one who righted a broker's cart in a yard where anyone could watch, and the boy from the report, both on the wall's protected side. It also fixes the missing motive for their approach."
+    },
+    {
+      "id": "F-007",
+      "severity": "MEDIUM",
+      "gate": "Charter §9 (any repeated beat phrase, including a newly invented one, is capped)",
+      "evidence": "a Silver-tier plane held across a cut for the length of a fight is not a plane held across a road for the length of a charge",
+      "consequence": "Counted over the whole draft, 'for/in the length of a [X]' runs five times — L71, L79, L85 (twice in one clause), L101, L103 — in a 4,395-word chapter. Charter §9's rule is explicit that fixing a tic with a fresh repeated phrase is the same defect in a different coat, and the cap is three per book, not per chapter. Four of the five sit in the chapter's last third, so they cluster where the prose is meant to slow and land; on audio the construction starts to announce itself as the narrator's measuring habit rather than a measure.",
+      "repair_target": "L79, L85, L101 — vary three of the five. L85's doubled use inside one comparison is the loudest and should go first; the chapter already has a better instrument for duration in Cael's literal count."
+    },
+    {
+      "id": "F-008",
+      "severity": "LOW",
+      "gate": "Charter §5.5 (fragment inventory legible); §8.2 (meaning survives aloud)",
+      "evidence": "the thing had gone into him the way the nine had gone in — not taken; *learned*, at two feet, by a body that learned the shape of a thing by standing beside it long enough",
+      "consequence": "The book counts Cael's fragments as ten and says so repeatedly — 'the ten frameworks knocking together in him' (ch04.md L149), 'all ten going round' (ch07.md L37), 'ten things in him' in this chapter's own L11. 'The nine' arrives at the chapter's most important moment with no antecedent and no gloss. It is probably deliberate — the nine taken in the field, as against the tenth, Tide, which came clinically on a table — but that distinction is nowhere on the page, and the appositive that follows ('not taken; learned') actually describes Tide's acquisition better than it describes the nine that c",
+      "repair_target": "L107 — either restore 'the ten', or keep 'the nine' and name what excludes the tenth in the same clause (the one that came on a table under a healer's hands)."
+    },
+    {
+      "id": "F-009",
+      "severity": "LOW",
+      "gate": "Craft core reader-trust invariant 1 (inference must read as inference)",
+      "evidence": "No healer inside the gate would put hands on an unranked woman's hand. Oryn had said so, at a fire, and had been right, and the cost of it was a strip of shirt and Brom's teeth",
+      "consequence": "Oryn priced a Copper's shoulder, not an unranked woman's hand. The extension is sound — Karis is unranked by choice and stands below the column's bottom rung — but the draft reports it as something Oryn said rather than something Cael has worked out from what she said, which is the one move this narrator is not supposed to make. It also quietly wastes the sharper version: Oryn's rule applied to someone she was not talking about is a harder fact than Oryn's rule quoted.",
+      "repair_target": "L91 — one clause turning the report into the inference it is ('Oryn had priced a Copper's shoulder at a fire; a hand with no column at all was the same arithmetic, further down')."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "EXC-B8-CH12-1",
+      "approver": "Planning rulings rows 16–21 (no mule; Vastin's rounding; etc.).",
+      "scope": "Planning rulings rows 16–21 (no mule; Vastin's rounding; etc.).",
+      "authority": "Planning rulings rows 16–21 (no mule; Vastin's rounding; etc.).",
+      "reason": "Planning rulings rows 16–21 (no mule; Vastin's rounding; etc.)."
+    },
+    {
+      "id": "EXC-B8-CH12-2",
+      "approver": "Notice format: the italic-prose acquisition notice is Book 8's log form (Ch12/13/19 consistent); the fenced block is not required. Planning ruling.",
+      "scope": "Notice format: the italic-prose acquisition notice is Book 8's log form (Ch12/13/19 consistent); the fenced block is not required. Planning ruling.",
+      "authority": "Notice format: the italic-prose acquisition notice is Book 8's log form (Ch12/13/19 consistent); the fenced block is not required. Planning ruling.",
+      "reason": "Notice format: the italic-prose acquisition notice is Book 8's log form (Ch12/13/19 consistent); the fenced block is not required. Planning ruling."
+    }
+  ],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch12.md",
+    "report_path": "v3-runs/book-08/reports/ch12-author-r2.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch12-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch12-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}
