@@ -1,0 +1,108 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch10-verifier-r1",
+  "scene_id": "b8-ch10",
+  "editor_run_id": "b8-ch10-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-01",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-01: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-02",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-02: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-03",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-03: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-04",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-04: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-05",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-05: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-06",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-06: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-07",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-07: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-08",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-08: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-09",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-09: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-10",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-10: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    },
+    {
+      "finding_id": "F-11",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "F-11: verified against Ch9/Ch11 and the running state; repaired in r2 (see author r2 deviations)."
+    }
+  ]
+}
