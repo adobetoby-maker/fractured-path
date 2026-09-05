@@ -1,0 +1,119 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch04-verifier-r1",
+  "scene_id": "b8-ch04",
+  "editor_run_id": "b8-ch04-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH04-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "Vastin's wound is the knee — Oryn: 'the knee's gone … That's the wound, and it's a real one'; the log's injuries entry: 'the knee … gone under him; Oryn bound it and said a month. That's the wound.' 'Not hurt' removed from both spans; the fixed text untouched."
+    },
+    {
+      "finding_id": "F-B8-CH04-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "The lock restored as a cost: 'The lock was on him — the beat after a burst that he could not price a hit inside … he went sideways off the road, out of the lock and not through it'; the log's bill carries 'a locked landing beat with nothing in it this time'."
+    },
+    {
+      "finding_id": "F-B8-CH04-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "The factor's account extends the mechanic: 'a den beside a road learns the road — lately they come up at whatever crosses'."
+    },
+    {
+      "finding_id": "F-B8-CH04-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "'They did not stop, because nothing about the wall had stopped being loud'."
+    },
+    {
+      "finding_id": "F-B8-CH04-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "The plane 'the road's width; the scree above it was not road'; the rounding hound 'slow, the loose slope taking its feet at every step'."
+    },
+    {
+      "finding_id": "F-B8-CH04-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "'a long time ago, with instruments' — no date."
+    },
+    {
+      "finding_id": "F-B8-CH04-007",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "The knee given to Oryn (see 001)."
+    },
+    {
+      "finding_id": "F-B8-CH04-008",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "Two of the four section openings recast (the silence; the costs)."
+    },
+    {
+      "finding_id": "F-B8-CH04-009",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "Removal-form win-sentence added after the image: 'he took away the pack's ability to converge on the rooted man by being louder than the wall for three breaths and then not'."
+    },
+    {
+      "finding_id": "F-B8-CH04-010",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "The italic pre-statement cut; Vastin's mouth is the sentence's only appearance."
+    },
+    {
+      "finding_id": "F-B8-CH04-011",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch04-r1.md at the quoted span; diff r1→r2 confirms each replacement",
+        "B7 Ch3/Ch11 (the lock as the burst's cost; the pack learning)",
+        "Ch2/Ch3 (Vastin's knee tracked)"
+      ],
+      "reason": "'two words, both of them Ours'."
+    }
+  ]
+}

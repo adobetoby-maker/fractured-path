@@ -1,0 +1,171 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch09",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 9 card — Inside Walls; Chapter 10 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–8' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom.",
+    "knowledge_boundary": [
+      "Cael is nineteen; the 283rd (Karis went up at the registry's opening) into the 284th if the provision takes a day; state the days. Cash 136 (two nights paid). Six; one mule stabled at the inn.",
+      "THE MECHANISM (architecture, Ch9 card): the scholars' provision admits a registered historical-Path-studies practitioner and up to four hands on his roster, entered by COUNT at the registry's counter on a form with three columns (name, registration, count of hands); the classification bar is never consulted because the form has no column for it; the exposure: an official asking a hand for paper. Cleon signs. Karis stands at the counter with him as the working researcher and talks strata until the clerk wants them gone. The pass is gated to the archive levels only — the party goes DOWN from a cellar door in the registry, which is on the old town on the crown; getting the hands UP to the registry is part of the machine (a working party under a practitioner's pass passes the tier gates as his hands — by count — the same rule; stage it as the gates' keepers reading the pass and counting heads). The route from the second gate to the registry crosses the SQUARE — CAEL'S PROMISE: not the square, not the steps. Resolve on the page: the working party is admitted by the registry's cellar/yard entrance from a lane BEHIND the office, not across the square (Seln's route), or the boxes go up by the carters' way; Cael's feet never touch the square and the chapter says so.",
+      "Cleon: sixties, Rune Path, Bronze-tier, registered; thirty years in the Deepstacks; eats at noon alone at a tavern on the third tier and reads. Ch9 may show him at the counter and at the door as a professional signing for a party; his character introduction 'through his work, mid-sentence, already reading' is Ch10 — do not stage his recognition of the carvings or [UNBOUND] here (Ch10). He does not examine Cael (Cael is beneath his notice; it is the carvings he reads).",
+      "The four hands: Cael, Brom (box; the shoulder NOT used — the boot; Oryn's order), Lira (two arms; she chooses to be a hand), and Seln or Vastin — choose and state (Seln's tradecraft wants him outside the count; Vastin's papers stay unshown; a Silver entered as a hand is Book 9's kind of irony — the card's Ch10 has Vastin's reflex at the admission; so Vastin may be a hand here). Karis is the working researcher, not a hand.",
+      "Lira: Wind Path, Iron R1 formal (circuit paper in her coat, unshown); Norhold's ladder walked away from; the academy above Ostrand; the ford without declaring; one-armed at the Hall; 'what am I becoming if nobody's measuring' (B7). Her Treswick answer: no pull to climb. She writes nothing down.",
+      "The station: at the crown, its square at its foot; the promise stands; nothing faint happens (Ch14).",
+      "SEALED: no reading of records; no Architect; no still place; no fight; no Iron Wall; no six-year arithmetic.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0 (book cap reached); capped phrases 0."
+    ]
+  },
+  "purpose": "The city chapter — Treswick anatomized from inside, and Lira's independent want on the page. The way into the Deepstacks worked as MECHANISM, the series' way: Karis attaches to Cleon (met at his noon table on the third tier — briefly; his full introduction is Ch10) as a working researcher; the clerk is handled at the counter with strata-talk until he wants them gone; the count entered — four hands — on a form with no column for tier; the pass gated to the archive levels only. Cael goes in as labour, a box on his shoulder. Lira's want-scene: back inside walls she watches ranked practitioners cross the tiers on passes she will never hold, measures herself against the ladder she walked away from at Norhold, and feels, for the first time, no pull to climb it — she prices the ladder and declines it in a place built of ladders, and writes nothing down because she is not the one who keeps a log. Close on the image: the Deepstacks' old iron door in the pre-Compact foundation below every tier, the registered party admitted, Cael among them with a box, the door closing on the tiered city and opening on a dark that predates all of it.",
+  "scene_shape": {
+    "opening_state": "Karis at the foot of the stair at noon on the 283rd, waiting for a man in his sixties to come down to eat; the five at the inn; Lira on the ring road watching the second gate's queue do the thing with its hands.",
+    "pov_goal": "Cael wants to be counted and go down — to be labour on a form, exactly, and nothing else — without a foot on the square; and to watch Lira find out what she is in a city of ladders, because he cannot ask her.",
+    "opposition": "The machine: the clerk's care; the tier gates; the square between the second gate and the registry's door; the exposure of a hand asked for paper; Vastin's reflex (held for Ch10); Lira's paper in her coat.",
+    "turn": "The counter: Karis and Cleon at the registry's provision-book, strata-talk until the careful young clerk wants them gone; the form's three columns; the count entered — four — and the clerk looking at the hands in the yard and not asking, because the form has no column for it and because the researcher is still talking. Then the gates, by count. Then the lane behind the office, not the square.",
+    "choice": "Cael takes the box. He is counted as one of four, by a clerk who does not look at his face, and he keeps his face where the clerk is not looking, and goes up the tiers as a number under another man's pass, and does not set foot on the square, by a route Seln found and the party takes without a word, and catalogues the whole of it as the right price.",
+    "outcome": "The party admitted to the archive levels; Lira's want priced and declined in a scene that is hers (the tiers, the passes, the ladder, no pull); the door.",
+    "closing_state": "IMAGE — the card's close: the Deepstacks' gate at the base of the bluff — an old iron door in the pre-Compact foundation, below the registry office, below every tier, at the one level of the city where rank has run out because the stone is older than rank; the registered party admitted; Cael among them with a box on his shoulder; and the door closing on the tiered city above and opening on a dark that predates all of it. The file ends on the image."
+  },
+  "obligations": {
+    "must_include": [
+      "The provision WORKED as mechanism on the page: Cleon met at his noon table and asked (by Karis, in her register — the carvings named as what she carries, not shown to him yet); the counter; the form's three columns; the strata-talk; the count entered (four); the clerk's not-asking staged as the machine's gap, with the exposure felt.",
+      "The tier gates passed by count under Cleon's pass — the keepers counting heads; Lira's paper unshown; Vastin's unshown.",
+      "The square avoided by a route (a lane behind the office; the carters' way) — Cael's feet never on it; the chapter says so in his register; the promise kept.",
+      "Cael entered as labour with a box on his shoulder — the irony carried, not restated at length.",
+      "LIRA'S WANT-SCENE (charter §7.4), about her and no one else: the tiers, the passes she will never hold, the ladder at Norhold and the academy above Ostrand, the Hall one-armed, the ford without declaring; she prices the ladder in a city of ladders and feels no pull; she says one thing to Cael at most and writes nothing down.",
+      "Cleon as a professional signing for a party — brief; his recognition of the carvings NOT staged (Ch10).",
+      "Close on the IMAGE (the old iron door in the pre-Compact foundation; the party admitted; the box; the door closing on the tiers and opening on the dark). The file ends on the image; no log; no dialogue closer."
+    ],
+    "plants": [
+      "The clerk's care (a hand nearly asked for paper — the exposure felt) — Ch12's reach into the city has an institutional door.",
+      "Cleon's table; his 'reads how things are built' (Karis's word) — Ch10.",
+      "Vastin as a hand under another man's pass — his reflex at the admission is Ch10's beat: do NOT stage the reflex here; let him hold.",
+      "The dark below — Ch10's Deepstacks."
+    ],
+    "payoffs": [
+      "'Entered by count. That's the door.' (Ch8's log) — paid.",
+      "Lira's 'what am I becoming if nobody's measuring' (B7) — answered in a city of ladders: no pull to climb."
+    ],
+    "prohibited_outcomes": [
+      "No records read; no Cleon reading the carvings; no [UNBOUND]; no Architect; no Rune mechanic shown (Ch10–13).",
+      "No Vastin reflex/credential offered (Ch10); no fight; no reach; no station; no square.",
+      "No log closer (Ch7), no dialogue closer (Ch8); the closer is the image.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The tavern on the third tier; the registry's counter and the provision's book; the form; the clerk's manner (unnamed); the tier gates' keepers; the lane behind the office; the registry's cellar stair; the iron door.",
+      "Cleon's appearance and manner in the two brief beats (sixties; hands; the habit of reading while eating)."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any change to the provision's rule as the architecture states it."
+    ],
+    "forbidden": [
+      "Any Deepstacks content; any explanation of the Quieting or the designer."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 8 (The Line at Treswick)",
+      "path": "v3-runs/book-08/drafts/ch08.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 4 — Lira's want surfaced ('what am I becoming if nobody's measuring')",
+      "path": "books/book-07-void-roads/chapters/chapter-04.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 3 — the ford without declaring",
+      "path": "books/book-07-void-roads/chapters/chapter-03.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 10 card — The Deepstacks (Cleon through his work; Vastin's reflex) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch09.md",
+    "report_path": "v3-runs/book-08/reports/ch09-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch09-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch09-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch08-r1",
+  "scene_id": "b8-ch08",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch08.md",
+  "word_count": 3912,
+  "obligations": [
+    {
+      "obligation": "Arrival dated; the crossing as mechanism; the outer gate that does not ask",
+      "status": "MET",
+      "evidence": "'Five arches, at first light on the two hundred and eighty-second day'; the toll-house; 'a man in a coat that was not grey … counted, and wrote, and did not ask' — and why."
+    },
+    {
+      "obligation": "Treswick as mechanism: tiers, gates, passes, the registry on the old town, the station, the outer district's economy",
+      "status": "MET",
+      "evidence": "The second and third gates with their queues and passes; the outer district catalogued (brokers' yards, ferry landing, smith, rope-walk); 'It was where the city put you'; the road to the registry through the square."
+    },
+    {
+      "obligation": "The crew's standing concrete; Vastin's 'papers I will not show' once",
+      "status": "MET",
+      "evidence": "Karis unranked by choice; Lira's paper unshown at the stair; Brom's smith by the tier; Seln 'gone'; Vastin: 'I have papers I will not show. I want that said once'; Cael outer district."
+    },
+    {
+      "obligation": "The promise kept on the page — route avoiding the square, chosen",
+      "status": "MET",
+      "evidence": "'The road up to the registry went through the square' … 'the promise held … did not try the other way round the bluff … which he catalogued himself not trying'."
+    },
+    {
+      "obligation": "Seln's reconnaissance: the provision, Cleon, the clerk, the form by count; the exposure exact",
+      "status": "MET",
+      "evidence": "Seln's report: the quarry under the registry; 'three columns … the count of hands'; 'The bar on the boy isn't lifted by the provision; it's not consulted'; Cleon — Rune, Bronze, sixties, thirty years; the clerk young and careful."
+    },
+    {
+      "obligation": "The irony in Cael's register",
+      "status": "MET",
+      "evidence": "'to be entered on a four-hundred-year-old form as a number … exactly what the city, looking at him from the top of its stairs, thought he was worth'; the log: 'It's the right price.'"
+    },
+    {
+      "obligation": "The walls felt as walls",
+      "status": "MET",
+      "evidence": "'felt the walls as walls, which was a thing he had not felt since a bluff above Ostrand, and found that he had missed it'."
+    },
+    {
+      "obligation": "Close on the fixed dialogue verbatim; Karis goes in; Cael stays",
+      "status": "MET",
+      "evidence": "The exchange reproduced through 'We're the first ones who are both.'; 'She went to find the clerk.'; the last line: Cael waiting."
+    }
+  ],
+  "inventions": [
+    "The five-arch bridge older than the walls; the toll-house; the outer gate's keeper; the inn with two doors (a mark a night for six); the stair cut in the bluff; the smith's two forges by tier; the quarry under the registry as the Deepstacks' physical origin (consistent with 'the bluff's foundations').",
+    "Cleon's noon table on the third tier (Seln's scouting); the clerk 'young, careful'."
+  ],
+  "state_change_proposals": [
+    "Day 282: Treswick entered by the bridge and the outer gate; rooms on the ring road (two nights paid: cash 138 → 136); Vastin's papers stated and unshown; Lira's paper unshown; Brom's foot re-bound at the smith.",
+    "The way in scouted (not worked): the provision; Cleon (Rune, Bronze, sixties; a house in the old town; noon at a tavern on the third tier); the clerk; the form by count (up to four hands); the exposure exact. Karis went up the morning of the 283rd to find the clerk.",
+    "The promise kept: the registry road runs through the square; Cael stayed at the stair's foot.",
+    "Lira priced herself as a hand ('Four hands. I've two.')."
+  ],
+  "deviations": [
+    "'four hundred years old' appears twice: once in the card's fixed dialogue and once as the form's age in Cael's register (Seln's 'nobody has ever redrawn it') — the number is card-sanctioned in this chapter.",
+    "Word count ~3,9xx after expansion — in band."
+  ],
+  "blockers": []
+}

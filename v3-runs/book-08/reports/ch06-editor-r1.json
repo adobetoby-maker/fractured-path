@@ -1,0 +1,16 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch06-r1-editor",
+  "scene_id": "b8-ch06",
+  "verdict": "STRUCTURAL_HOLD",
+  "gate_results": [
+    {
+      "gate": "SKELETON — review in progress",
+      "state": "NEEDS_HUMAN_JUDGMENT",
+      "evidence": "Placeholder written at the start of the editor pass so partial work survives an interruption. If this row is still present, the pass did not complete."
+    }
+  ],
+  "findings": [],
+  "concerns": [],
+  "strengths": []
+}

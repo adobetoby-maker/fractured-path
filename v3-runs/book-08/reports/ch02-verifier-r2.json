@@ -1,0 +1,36 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch02-verifier-r2",
+  "scene_id": "b8-ch02",
+  "editor_run_id": "b8-ch02-r2-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH02-013",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch02-r2.md → drafts/ch02.md (two lines)",
+        "B4 Ch17 (Lira at the wing gate); the drafted timeline (the Ostrand room ≤ ~16 months back)"
+      ],
+      "reason": "':23' now 'the winter and the road … the months since a room in Ostrand' — no interval number, and 'three hundred miles' back to four uses. MEDIUM/LOW; repaired directly and closed without a further paid recheck."
+    },
+    {
+      "finding_id": "F-B8-CH02-014",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch02-r2.md → drafts/ch02.md (two lines)",
+        "B4 Ch17 (Lira at the wing gate); the drafted timeline (the Ostrand room ≤ ~16 months back)"
+      ],
+      "reason": "':65' — Lira 'at a wing gate at sixteen while a marshal was inside reading a page' (B4's inspection: she was at the wing gate, not in the room). MEDIUM/LOW; repaired directly and closed without a further paid recheck."
+    },
+    {
+      "finding_id": "F-B8-CH02-015",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch02-r2.md → drafts/ch02.md (two lines)",
+        "B4 Ch17 (Lira at the wing gate); the drafted timeline (the Ostrand room ≤ ~16 months back)"
+      ],
+      "reason": "':23' now 'the winter and the road … the months since a room in Ostrand' — no interval number, and 'three hundred miles' back to four uses. MEDIUM/LOW; repaired directly and closed without a further paid recheck."
+    }
+  ]
+}

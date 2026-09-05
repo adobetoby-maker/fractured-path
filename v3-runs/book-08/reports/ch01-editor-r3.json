@@ -5,12 +5,240 @@
   "verdict": "PASS_WITH_FINDINGS",
   "gate_results": [
     {
-      "gate": "PENDING",
-      "state": "NEEDS_HUMAN_JUDGMENT",
-      "evidence": "Recheck in progress — skeleton written early per interruption-survival protocol."
+      "gate": "Authority — canon and SECRET discipline (CANON_RULES reveal schedule; the Book 9 / 11 / 13 seals)",
+      "state": "PASS",
+      "evidence": "Unchanged by the four replacements and re-run over the whole file. No 'Architect', 'primordial', 'reset', 'before the Paths', '[UNBOUND]' or 'grade' anywhere (grep returns one hit for 'reset', at ch01.md:21, 'and Brom reset them', a verb about fence posts). Karis's case at ch01.md:187-189 still says only that the carvings are instructions in a language she cannot read and the index is a designation she cannot read; nobody theorizes a maker. Book-11 plant 3 stays deniable at ch01.md:39-45: 'Claim: something. Evidence: a cord, two edges, a hair. Ruling: hold.'"
+    },
+    {
+      "gate": "Authority — packet prohibited_outcomes (7 clauses)",
+      "state": "PASS",
+      "evidence": "Clause-by-clause over the r3 file. (1) No Vastin, no ferry landing, no records, no sub-layer, no Compact presence — grep for 'Vastin' returns zero. (2) No fight, no injury, no fragment use, no site. (3) No deep reading — ch01.md:155, 'I'll read you properly when you've slept a week'; the still place named and not touched at ch01.md:7 and 183. (4) No theory of who or why. (5) No instrument outside B7's inventory; ch01.md:31 lists case, cord, stake thirty-two, mallet, field ledger only. (6) No banned names; no modern idiom. (7) Zero one-word paragraphs (regex over all 212 lines); 'the way X [verb]' now 3; no chapter-count reference; no metadata."
+    },
+    {
+      "gate": "Authority — arc: architecture Ch1 card and its REVISED block (B7 reconciliation decisions 1-10)",
+      "state": "PASS",
+      "evidence": "The r2 FAIL is cleared. REVISED item (4), 'the kit's ledger carries ONE designation in an index nobody can read', is now consistent at both of its named lines: ch01.md:31 'the one entry that says what the Stair is — a designation, in an index, that nobody at this table can read — and under it the line that stops: third site confirmed on bearing' and ch01.md:187 'one entry for the Stair that was not a measurement — and under it a line that stopped, third site confirmed on bearing — a designation, in an index, in the surveyor's own hand'. Decision 1 (the promise kept; six at Lowmarch), decision 2 (arm released, ankle mended), decision 5 (cash), decision 8 (the plant rebuilt on cord, stake, ledger and the two straightedges) all unchanged and intact."
+    },
+    {
+      "gate": "Continuity persistence — the cash ledger against state-b8-pre-ch01 (96 -> 76 -> 116 -> 118)",
+      "state": "PASS",
+      "evidence": "ch01.md:7 'Ninety-six in hand. The inn's six, for the back room where the sheets are, came out of the hundred and two before the snow' — the F-012 recast keeps the canon sourcing exactly (B7 Ch23's log carries 'A hundred and two in hand'; B7 Ch24's carries 'Ninety-six in hand; six to the inn'), so the opening figure is net and nothing is double-counted. Downstream untouched and still arithmetically true: 'twenty for the five months, paid in front, which leaves seventy-six' (13); 'A hundred and sixteen in hand. Fence: paid.' (23); 'a hundred and eighteen in hand, the mule's shed paid, five, and the ferryman's rope-house roof done for seven' (181); 'A hundred and eighteen in hand.' (209)."
+    },
+    {
+      "gate": "Continuity persistence — party positions and who travelled to Thornwater",
+      "state": "PASS",
+      "evidence": "Byte-identical to r2 outside the four spans. Five wintering (13); two walk north on the 265th (57); Oryn at Thornwater on her route (75-77); six at Lowmarch on the 268th (177) with the sixth arriving at the plank on her own legs; 'Nobody had asked her.' (173)."
+    },
+    {
+      "gate": "Continuity persistence — the recovered Compact kit as B7 Ch20 inventoried",
+      "state": "PASS",
+      "evidence": "The r2 FAIL is cleared at the only line that carried it. B7 Ch20:71 has Seln read the designation as belonging to the room they are standing in — 'The site's got a name in something. Not a word; an entry. It's in an index.' — the Stair, the surveyor's stake thirty-two; and B7 Ch20:75 has the unfinished last line, 'third site confirmed on bearing'. ch01.md:187 now carries both in that relation, and agrees with ch01.md:31 on which is which. The kit's contents at 31 remain B7's exactly: case, cord knotted at the fives, stake thirty-two, mallet, field ledger, no pen. Karis's forty-one kinds are not mentioned, so no bleed between the tally and the index."
+    },
+    {
+      "gate": "Continuity persistence — injuries carried forward (charter 4.3; state-b8-pre-ch01 roster)",
+      "state": "PASS",
+      "evidence": "Unchanged. Lira's arm under the season order to ch01.md:103 ('It's an arm. Use it.'); the ankle unmended until 121-129; Brom's shoulder 'carried as it had been carried since the binding, still and forward' (181), read once by Oryn and not spoken about; Cael's ribs quiet ('You're whole,' 155)."
+    },
+    {
+      "gate": "Continuity persistence — calendar and elapsed intervals against the day-count from the Line",
+      "state": "PASS",
+      "evidence": "Unchanged. Entries run the 131st to the 270th; the ferry's last run was the 130th (B7 Ch24) and ch01.md:5 dates the log the day after it. 'Five months and twenty days' (85) against the bite on the ninety-sixth day gives the 266th, which is the day the two of them are at Thornwater (57, 265th out, one night, the yard on the 266th). Six at Lowmarch on the 268th; Thornwater is two days from Lowmarch, per DECISIONS-B7-RECONCILIATION."
+    },
+    {
+      "gate": "Continuity persistence — objects and possessions",
+      "state": "PASS",
+      "evidence": "Unchanged. The two straightedges, Ternhall's and Denvash's (41, 139, 181); Hesk's note remembered once, 'true to a hair, and it was, in every hand but mine' (41); the crossbow Lira's and hung on the inn wall, never asked for (181); three copies in oilcloth, one ledger, one map (181, 209); the mule (171, 181)."
+    },
+    {
+      "gate": "Assigned obligations — must_include items 1, 3, 4, 5, 6, 7, 8, 9",
+      "state": "PASS",
+      "evidence": "All eight re-verified over the r3 file. Item 3 is the one that moved and it now reads as B7 left it (ch01.md:31 and 187). Item 7's case is made to the six and not answered — 'Nobody answered.' (191) — and the chapter closes with the ferry still not run. Item 8's pole one is logged in the log's own words at 9 and 183, and 'column' does not appear in the file."
+    },
+    {
+      "gate": "Assigned obligations — must_include item 2 (age stated once; ten fragments and the still place in inventory words)",
+      "state": "PASS",
+      "evidence": "ch01.md:7 'I am nineteen. Ten confirmed. The still place: not a fragment, not the Quiet, read three times, and not touched since a healer said stop.' Nineteen appears once in the body and once inside the fixed closing text, as the card requires. 'Twenty' does not appear."
+    },
+    {
+      "gate": "Closing text — the card's fixed log verbatim; the file ends on the last line of prose",
+      "state": "PASS",
+      "evidence": "Byte-compared against the Ch1 card's quoted text: 565 bytes, equal, 'an index she can't read' included, at ch01.md:211. The file's last non-empty line is 211 and carries a single trailing newline; charter 8.4 grep ('End of Chapter|approximately.*words|word count|DRAFT|TODO') returns zero. Third pass in a row untouched."
+    },
+    {
+      "gate": "Assigned obligations — plants (4 items)",
+      "state": "PASS",
+      "evidence": "Plant 1 (Book-11 plant 3) at 39-45, deniable, no theory, and the F-007 recast at 39 changed 'the way it was done at the Ring' to 'as it was done at the Ring' without touching the count, the cord or the stone. Plant 2 (pole one) at 9 and 183. Plant 3 (Teague wintering and the spring term) at 15 — the term is delivered in one sentence in the log's indirect register and Teague stays off the page beyond the chin-lift; see F-B8-CH01-014 for the attribution. Plant 4 (two straightedges, Hesk's note) at 41."
+    },
+    {
+      "gate": "Assigned obligations — payoffs (3 items)",
+      "state": "PASS",
+      "evidence": "'Bring the map' paid as a scene at 73-141 without repeating the fork's fixed lines; 'Six, by letter' paid in the body at 177-181; Lira's arm paid at 103 with the word said by the healer first, and the ankle at 121-129."
+    },
+    {
+      "gate": "Point-of-view integrity and knowledge boundary (packet pov.knowledge_boundary, 11 clauses)",
+      "state": "PASS",
+      "evidence": "Nothing Cael cannot know is in the file. He does not know the Compact suppressed anything, does not know Vastin is out, does not learn the index is a grade, and does not theorize the pattern. Karis's case at 187-189 stays inside what B7 Ch20 gave her. The defect at line 15 is a register break inside a diegetic document, not a knowledge leak; it is gated under charter 3.2 below."
+    },
+    {
+      "gate": "Voice charter 3.2 — diegetic documents carry their own plain first-person register (craft core reader-trust invariant 1)",
+      "state": "FAIL",
+      "evidence": "ch01.md:15, inside an italic log paragraph that is first person throughout ('the five of us going in under our own roof'), the writer of the log refers to himself in the third person: 'He said it at the plank and Cael said Noted'. Every other log paragraph in the chapter says 'I' (7, 9, 21, 33, 41, 45, 53) and the same is true of the B7 Ch1 precedent (chapter-01.md:9). Charter 3.2: 'log/letter/ledger text is italicized in-world writing with its own plain, first-person register'. See F-B8-CH01-014."
+    },
+    {
+      "gate": "Continuity persistence — Pike, the pen and the blank season line at the plank (B7 Ch24)",
+      "state": "FAIL",
+      "evidence": "ch01.md:15 places Pike's pen-down as the answer to Teague's term. B7 Ch24:31 puts it before Teague arrives ('He put the pen down. He did not enter a line number.') and Ch24:39 says Teague 'came to the plank while Pike was still standing back from the sheet'. The F-011 repair_target named this exact hazard: 'do not give Pike a line, a pen, or an entry: the blank season line is the point.' See F-B8-CH01-015."
+    },
+    {
+      "gate": "Consequential scene — state change and the assigned turn",
+      "state": "PASS",
+      "evidence": "Unchanged. The turn happens in scene: the arm released (103), the ankle mended (121-129), the map read upside down (141-147), the sixth chair filled in the body (177). Cash, roster and injury state all move on the page."
+    },
+    {
+      "gate": "Causal legibility — the chapter's own sequence",
+      "state": "PASS",
+      "evidence": "Unchanged and still legible: the winter's work funds the winter; the ice going opens the Thornwater road before the ferry; the road being walkable is why the promise can be kept now; Oryn's own route, not a request, is why she comes down."
+    },
+    {
+      "gate": "Progression module gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, integration or rank event in the chapter. Ten fragments in, ten out."
+    },
+    {
+      "gate": "LitRPG module gates 1-7",
+      "state": "PASS",
+      "evidence": "No system display renders. The nearest thing to one is the log's own claim/evidence/ruling form at 45, which has an owner, an in-world trigger, reads aloud as prose, and changes the scene by being filed rather than answered."
+    },
+    {
+      "gate": "Voice charter 8.4 — terminal metadata grep",
+      "state": "PASS",
+      "evidence": "grep -n 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over ch01.md returns zero; exit 1."
+    },
+    {
+      "gate": "Voice charter 9 — tic caps (chapter-level)",
+      "state": "PASS",
+      "evidence": "The r2 FAIL is cleared. grep -on 'the way [a-z]*' now returns three hits — 95, 155, 187 — against a cap of three; line 39's instance was retired to 'as it was done at the Ring'. 'which was, in its own way' returns zero. Zero single-word paragraphs against a cap of two."
+    },
+    {
+      "gate": "Voice charter 9 — scene-closer rule (against the preceding chapter)",
+      "state": "PASS",
+      "evidence": "Ch1 closes on a log entry (211). The preceding chapter in reading order is B7 Ch24, which closes on an observed-from-distance prose image ('Someone had made the pattern. That was as far as anyone could say.'). No adjacent repeat; the architecture's planned sequence has Ch2 closing on dialogue."
+    },
+    {
+      "gate": "Voice charter 8.5 — dialogue attribution runs",
+      "state": "PASS",
+      "evidence": "The two multi-party scenes re-counted. The yard (77-135) never runs more than three unattributed lines; the table (143-201) is two-party throughout with named beats at 147, 155, 167, 171 and 193."
+    },
+    {
+      "gate": "Voice charter 8.1 / NAME_REGISTRY — aural distinctness and rename-slated names",
+      "state": "PASS",
+      "evidence": "The four replaced lines mint nothing. grep for Halcenvane, Velmere, Wray, Bracken and Feryn returns zero. Named on the page: Cael, Lira, Brom, Karis, Seln, Oryn, Pike, Teague, Hesk, Treswick, Lowmarch, Thornwater, Millrace, Ternhall, Denvash, Ostrand, the Deepstacks — all registry-cleared."
+    },
+    {
+      "gate": "Voice charter 8.2 / 8.3 — audio survival",
+      "state": "PASS",
+      "evidence": "The r2 FAIL is cleared at its named line. ch01.md:7 now closes the relative clause before the verb — 'The inn's six, for the back room where the sheets are, came out of the hundred and two before the snow, and is not coming out again' — so the subject and its verb are not separated by a garden path. Nothing in the chapter's meaning depends on the italics: the log paragraphs are dated and self-announcing ('Inventory, because I do one at the start of anything'). The one sentence that does not survive narration cleanly is 15, and it fails on person rather than on typography; gated above under 3.2."
+    },
+    {
+      "gate": "Voice charter 10 — scene vs summary and density",
+      "state": "PASS",
+      "evidence": "5,230 words (5,224 excluding the chapter heading) against a target of 4,600 and a tolerance of 15 per cent — band 3,910 to 5,290, so sixty words under the ceiling. Up 41 words from r2's 5,189, all of it in the four replacements. The assigned major beats are in scene; grep for 'heard about it later|learned afterward|was told later|found out later' returns zero."
+    },
+    {
+      "gate": "Voice charter 3.1, 3.3-3.8 — house voice",
+      "state": "PASS",
+      "evidence": "The cataloguing narrator is present and load-bearing (39, 45, 179-183). Emotion runs on procedure and objects (the sling falling into the lap at 93; the foot put down twice at 129). Dialogue stays dry and oblique ('Route's whole,' 135). No feeling-declaration patterns; no modern idiom; no growth declaration."
+    },
+    {
+      "gate": "Anti-pastiche (craft core 6; charter 2)",
+      "state": "PASS",
+      "evidence": "No passage reads as a named author's protected expression. The four replacements are in the series' own established registers — the log's inventory cadence at 7 and 15, Karis's ledger-clause at 187."
+    },
+    {
+      "gate": "Combat gates (charter 4; THE AUTHOR 9.9-9.16)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat in the chapter."
+    },
+    {
+      "gate": "Invention budget",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "The r2 FAIL is cleared by record rather than by prose. EXC-B8-001 is now present in the packet's exceptions array — approver 'planning seat (Fable)', scope 'Chapter 1: Karis names the Deepstacks at the table', authority 'CHAPTER_ARCHITECTURE.md reference section, approved NEW-CANON at the planning layer'. That matches the architecture, which flags both Treswick and the Deepstacks as [NEW-CANON] PROVISIONAL approved at the planning layer. Line 189 is unchanged and Cleon is still unnamed ('There's a man there who is')."
+    },
+    {
+      "gate": "Recheck — targeted-repair scope: the r2 -> r3 diff against the packet's flagged spans",
+      "state": "PASS",
+      "evidence": "Line-by-line comparison of drafts/ch01-r2.md and drafts/ch01.md: both 212 lines; exactly four differ — 7, 15, 39, 187; the other 208 are byte-identical. Every one of the four is a span the r2 report flagged (7 = F-012, 15 = F-011, 39 = F-007's named second-cheapest instance, 187 = F-004). No out-of-scope edit this round, which is the first clean scope pass of the loop."
+    },
+    {
+      "gate": "Recheck — disposition of the six r2 verified findings",
+      "state": "FAIL",
+      "evidence": "Five closed: F-004 (187 now agrees with 31 and with B7 Ch20:71/75), F-007 (count now three), F-009 (EXC-B8-001 recorded), F-012 (the clause no longer garden-paths), F-013 (acknowledged in the author report, though in the obligations array rather than in deviations). F-011's canon contradiction is genuinely gone — Pike writes nothing, the blank line stands, the word is Cael's — but the repair introduced a new HIGH at the same line by putting Cael in the third person inside his own log, and a LOW by giving Pike a pen at the wrong moment. Second consecutive round in which a repair closed its named defect and opened one at the same span (r2: F-005 -> F-012; r3: F-011 -> F-014)."
     }
   ],
-  "findings": [],
-  "concerns": [],
-  "strengths": []
+  "findings": [
+    {
+      "id": "F-B8-CH01-014",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "pov-register",
+      "gate": "Voice charter 3.2 (a diegetic document is italicized in-world writing with its own plain, first-person register); craft core reader-trust invariant 1 (point-of-view integrity); packet pov.mode ('diegetic documents in italics with their own plain first-person register (the Power Log)'); introduced by the F-B8-CH01-011 repair, whose repair_target specified the first person",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 15,
+        "line_end": 15,
+        "quote": "He said it at the plank and Cael said Noted, and Pike put his pen down and wrote nothing under the blank season line, which was a thing Pike did on purpose, and a thing Pike does on purpose is a thing."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "*No tier. No rank. No file I can see. I checked from the landing this morning, both directions, out of habit, and there was snow both directions, and a ferryman with his ropes.*"
+      },
+      "consequence": "Line 15 is inside an italic log paragraph whose own sentences are first person ('Teague looked across the yard at the five of us going in under our own roof'), and it is the only place in the chapter, or in the B7 precedent, where the writer of the log names himself in the third person. Read aloud - which is the shipping condition - a listener hears the log's 'I' for eight paragraphs and then hears 'Cael said Noted', and the cheapest available inference is that somebody else is writing this entry. The r2 repair_target said what the sentence needed and gave the wording: 'the answer Cael's own - e.g. He said it at the plank in the snow and I said the one word back'. The canon fact was taken and the person was not: B7 Ch24:47 is close-third narration, where 'Cael said' is correct, and the clause has been lifted out of that register into a document that cannot carry it. The chapter's whole opening movement is the log; a register break in it is a break in the instrument the book has chosen to tell its winter with.",
+      "repair_target": "Line 15 only, and only the clause 'and Cael said Noted'. Put it in the log's person: 'He said it at the plank and I said the one word back' or 'He said it at the plank and I said Noted'. Everything else in the sentence is right and must not move - 'His term stands: spring, whatever's on that bearing, his crew comes' delivers the plant, Teague stays off the page beyond the chin-lift, none of his four is named, and Pike writes nothing under the blank season line. Do not restate the term, do not add a second Teague beat, and do not touch the paragraph's opening or its closing clause beyond what F-B8-CH01-015 asks for.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH01-015",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity",
+      "gate": "Craft core: authority ladder - approved canon at the packet's declared revision (Book 7's closed prose, B7 Ch24:25/31/39); the F-B8-CH01-011 repair_target ('do not give Pike a line, a pen, or an entry: the blank season line is the point')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch01.md",
+        "line_start": 15,
+        "line_end": 15,
+        "quote": "and Pike put his pen down and wrote nothing under the blank season line, which was a thing Pike did on purpose"
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-24.md",
+        "line_start": 39,
+        "line_end": 39,
+        "quote": "Teague wintered at Lowmarch, as Teague's crew wintered every year, at the best table, with the jug, and he came to the plank while Pike was still standing back from the sheet, because a captain who has set a term does not wait for a better moment to say it."
+      },
+      "consequence": "In Book 7 the pen goes down before Teague reaches the plank and for a different reason: Ch24:25 'Pike did not write a number', Ch24:31 'He put the pen down. He did not enter a line number', then Ch24:39 has Teague arrive while Pike is already standing back from the pinned sheet. The r3 clause reverses that, so a reader who remembers the scene sees Pike either put the pen down twice or put it down in answer to a term that was said after he had finished. The facts are individually true and the order is not, and the r2 repair_target had already named the hazard and asked for Pike to be kept out of the sentence entirely, precisely because the blank line does its work by being untouched rather than by being re-earned in front of Teague. Low rather than medium because the log is a compressed memory of an afternoon and the two beats are minutes apart, but it is a contradiction against the scene the log is remembering and it was avoidable.",
+      "repair_target": "Line 15 only, and only the Pike clause. Either cut Pike from the sentence and let the blank line stand on its own - 'and neither of us has said it since, because his crew is wintering forty feet up the street and everyone knows what they are wintering for' - or, if Pike is to stay, put him where B7 had him: the pen already down and the season line already blank when the term was said, not going down in answer to it. Do not give Pike a line, an entry, or a spoken word; do not add a second Pike beat anywhere else in the chapter; leave line 23's account of the blank season line exactly as it stands.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "The author report closes F-011 as MET with the evidence line \"'Cael said Noted, and Pike put his pen down and wrote nothing under the blank season line' - B7 Ch24:31/47 honored.\" The two B7 lines cited are the right lines and the facts taken from them are right; what the check did not test is whether the sentence could be spoken by the document it was put into. This is the second consecutive round in which a repair closed the contradiction it was aimed at and opened a fresh one inside the same replaced string (r2: the F-005 money repair produced the F-012 garden path; r3: the F-011 attribution repair produced F-014 and F-015). A one-line register test on every replacement that lands inside an italic log paragraph - does this sentence say 'I' where the log says 'I'? - would have caught both.",
+    "Line 187's repair is correct and is harder to hear than line 31's. Line 31 gives the designation first and the stopped line after it; line 187 opens the entry, interrupts for eleven words of em-dashed parenthesis ('and under it a line that stopped, third site confirmed on bearing'), and only then delivers the appositive 'a designation, in an index, in the surveyor's own hand'. Both sentences are true and they agree, which is what the finding required; only one of them lands on a single hearing. Not a defect against any contract - the clause is Karis reporting a document, and the shape is the series' own - but if a line-edit pass touches this paragraph, this is the sentence in it.",
+    "F-013 was answered in the author report's obligations array - 'The out-of-span line-21 recast (like a wall) stands as a tic trim' - rather than in deviations, which is where the r2 repair_target asked for it ('record it explicitly in the author report's deviations as an out-of-scope line edit accepted on review'). The record now exists and names the line, so the substance is met. The deviations entry still reads 'byte-identical elsewhere', which is exactly true of r2 to r3 and is not true of r1 to r2, so a reader of the deviations array alone still cannot reconstruct the loop's full diff.",
+    "F-009's exception was taken at exit (a) but the rider attached to it was not. The r2 target said that if the Deepstacks were released at Ch1 by exception, 'Ch5's card should be annotated so The archive under it is written as a second hearing'. The Ch5 card carried in this packet still reads 'Karis: The archive under it. Cleon.' with no annotation, so the first-naming beat is now scheduled twice. Architecture-side, not draft-side, and outside this chapter's scope - but it will arrive as a Ch5 finding if nobody moves it before that packet compiles.",
+    "Line 15 now carries three instances of 'thing' in one sentence where r2 carried two ('which was a thing Pike did on purpose, and a thing Pike does on purpose is a thing'), against fourteen in the chapter. 'A thing' is house voice and is not a capped phrase under charter 9, so this is not a finding. It is worth saying that the r3 clause is weaker than the one it replaced: r2's 'a thing Pike writes is a thing' turned on the act that defines Pike, and 'a thing Pike does on purpose is a thing' has had the defining verb taken out of it and is left as a tautology. If line 15 is opened again for F-014, the cheapest good outcome is to let the blank line be the thing and drop the closing clause.",
+    "ch01.md:181's 'her route in her head, two stops of it here and one a day south' reads on a first hearing as three stops, against ch01.md:171's 'Lowmarch is the first stop on my spring. Millrace is the second' and against the state file's 'Millrace a day south of Lowmarch'. It parses correctly on a second hearing, as 'two stops of it: here, and one a day south'. Pre-existing, unchanged since r1 and passed by two editor rounds, so it is not raised as a new defect - flagged here because Oryn's route is a Ch6 and Ch18 obligation and the stop-count will be checked against this line.",
+    "Density is 5,230 words against a 4,600 target, plus 13.7 per cent, sixty words under the 5,290 ceiling and up 41 words on r2. Both open repairs are replacements and one of them (F-015's cheapest exit) removes text, so the band holds with no drafting care required. It is worth saying explicitly that Chapter 1 has now spent the whole of its tolerance: there is no room in this chapter for another added clause, and Ch2 should not inherit the habit.",
+    "The three surviving 'the way X [verb]' instances sit exactly at the charter 9 cap with no headroom, and the r2 target's second instruction - 'correct the ledger so the Book 8 running count starts at three' - has no addressee. There is no running tic ledger in v3-runs/book-08/ for the next chapter's packet to read (STATE_RUNNING.md carries story state, not phrase counts), and THE AUTHOR 7.1.5 expects the state ledger to hold 'the phrase-frequency counts for tic enforcement'. Charter 9 caps this construction per chapter, so Ch2 starts at zero and nothing is currently wrong; the gap is that nobody is counting across the book."
+  ],
+  "strengths": [
+    "F-004 is closed against the primary source rather than against the packet's paraphrase of it. B7 Ch20:71 has Seln read the designation as belonging to the room the surveyor was standing in - 'The site's got a name in something. Not a word; an entry. It's in an index' - and Ch20:75 has the sentence he never finished, 'third site confirmed on bearing'. Line 187 now carries both, in that relation, and says the same thing line 31 says in the same order of parts. The two spans that disagreed for two rounds now agree, and they agree with Book 7.",
+    "The fixed closing text survived a third pass byte-identical - 565 bytes, compared character by character against the Ch1 card, 'an index she can't read' included - and the file still ends on the last line of prose with a single trailing newline and a zero-hit metadata grep. Three rounds of repair have gone past this paragraph without touching it, which is the discipline the fixed-text obligation exists to test.",
+    "The targeted-repair scope is clean for the first time in the loop. Both files are 212 lines; exactly four differ; all four are spans the r2 report flagged; 208 lines are byte-identical. r1 to r2 carried eleven replacements and one out-of-scope line edit that became F-013. r3 carries none. Whatever else this round did, it demonstrated that the harness can hit a named span and stop.",
+    "F-007 was closed at the cheaper of the two lines the finding permitted, and the recast improves the sentence rather than merely satisfying the count. Line 39's clause was already a list of parts - 'the cord, the count, the stone at each end, as it was done at the Ring' - and 'as' reads faster in a run of nouns than 'the way' did. The three load-bearing images at 95, 155 and 187 are untouched, which is what the finding asked for.",
+    "F-012's repair does exactly what the finding asked and nothing else. 'Ninety-six in hand. The inn's six, for the back room where the sheets are, came out of the hundred and two before the snow, and is not coming out again' keeps the canon sourcing that closed the finding (B7 Ch23's hundred and two to B7 Ch24's ninety-six) and closes the relative clause before the verb arrives, so the sentence lands spoken. The totals downstream did not move, which was the other half of the instruction.",
+    "The canon half of F-011 is genuinely fixed, and it is fixed in the register the plant needed. Pike writes nothing; the blank season line is preserved as the point rather than filled in; the word is Cael's, as B7 Ch24:47 has it; Teague stays off the page beyond the existing chin-lift; none of his four is named. The plant is delivered in one sentence in the log's indirect voice, at the size the packet specified. Only the pronoun and the pen's timing are wrong, and both are inside one clause.",
+    "Everything the earlier rounds protected is still standing, verified line by line rather than assumed from the diff: the money true at every step (96, 76, 116, 118) and sourced to Book 7 rather than asserted; 'Five months and twenty days' against the bite on the ninety-sixth day; Hesk's note firing the plant in one clause at 41 ('true to a hair, and it was, in every hand but mine'); Oryn's first look at Brom's bound shoulder landing at the Lowmarch table; and 'Me: ten; the still place; a cord that reads everyone else' at 209 handing the age forward to the fixed closing sentence instead of restating it.",
+    "EXC-B8-001 is drawn correctly and narrowly. It records the Deepstacks as planning-approved NEW-CANON rather than as a drafting invention, cites the architecture's own reference section as its authority, and scopes itself to Karis's line at the table - so line 189 did not have to be rewritten, the old scholars' provision survives intact, and Cleon is still not named ('There's a man there who is'). An exception that leaves the prose alone and moves the record is the right shape for this class of finding."
+  ]
 }

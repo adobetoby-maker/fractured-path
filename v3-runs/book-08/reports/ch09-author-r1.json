@@ -1,0 +1,59 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch09-r1",
+  "scene_id": "b8-ch09",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch09.md",
+  "word_count": 3944,
+  "obligations": [
+    {
+      "obligation": "The provision worked as mechanism: Cleon at noon; the counter; the three columns; strata-talk; the count entered; the clerk's not-asking as the gap",
+      "status": "MET",
+      "evidence": "'I eat at noon. I read while I eat … Those are the terms.'; the clerk in the yard door counting 'one two three four'; 'the place where the form did not have a column'; 'he wrote four in the third column'."
+    },
+    {
+      "obligation": "The tier gates by count under Cleon's pass; papers unshown",
+      "status": "MET",
+      "evidence": "'the keeper at the second gate reading Cleon's pass and counting heads, four'; Lira's paper in her coat; Vastin's 'Yes' to being a hand."
+    },
+    {
+      "obligation": "The square avoided by a route; Cael's feet never on it; said in his register",
+      "status": "MET",
+      "evidence": "'Seln … keeping the square on the far side of a row of houses the whole way, so that Cael saw it only as light between buildings and never as a place his feet were on'."
+    },
+    {
+      "obligation": "Cael as labour with a box; the irony carried",
+      "status": "MET",
+      "evidence": "'as a number, as a hand, as the one thing the city thought he was worth'."
+    },
+    {
+      "obligation": "Lira's want-scene, hers alone: the tiers, the passes, the ladder, no pull; writes nothing",
+      "status": "MET",
+      "evidence": "The registry's yard: the whole machine from above; 'And he saw it not pull.'; 'Four hands.' / 'Four.' / 'Right.'; 'did not write anything down, because she was not the one who kept the log'."
+    },
+    {
+      "obligation": "Cleon brief and professional; recognition not staged",
+      "status": "MET",
+      "evidence": "The stair; the terms; the key at the door — no reading of the carvings."
+    },
+    {
+      "obligation": "Close on the image (the iron door; the party admitted; the box; the door closing on the tiers)",
+      "status": "MET",
+      "evidence": "'and Cleon, behind him, pulled the iron to, and the tiers closed, and the dark opened.'"
+    }
+  ],
+  "inventions": [
+    "The bench at the stair's foot for waiting boys; the 'stair-walk'; the registry's carters' door on the lane; the quarrymen's marks; the mark cut in the iron door at eye height (unread — Karis's hand goes to the sheets).",
+    "Cleon's terms ('You may sit across from me and not talk until I've finished the page I'm on')."
+  ],
+  "state_change_proposals": [
+    "Day 283: Cleon met at noon (his terms); Karis went up on his pass. Day 284: the provision worked at the registry's opening — 'four' entered; the party (Cael, Brom, Lira, Vastin as hands; Karis as researcher; Seln NOT on the count) up three tiers by count; the square never touched; the cellar stair; the iron door. 'Out by the bell.'",
+    "Lira priced the ladder from the top and it did not pull; she carries a box on two arms; her paper unshown.",
+    "Vastin consented to be entered as a hand ('Yes') and carried the kit's case up three tiers on the knee; his reflex NOT yet triggered (Ch10).",
+    "The iron door carries a cut mark Karis recognized from the sheets (unread)."
+  ],
+  "deviations": [
+    "The mark on the iron door (recognized by Karis's hand going to the sheets) is a small plant toward Ch10–11; flagged as invention within budget."
+  ],
+  "blockers": []
+}

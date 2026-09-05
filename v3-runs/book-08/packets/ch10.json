@@ -1,0 +1,173 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch10",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 10 card — The Deepstacks; Chapter 11 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–9' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen. Day 284 (the first descent) through 285 (the second morning's re-admission, where Vastin's reflex lands); Karis says 'give her a week'. Cash 136 (the inn); the party out by the bell each day.",
+      "THE DEEPSTACKS (PROVISIONAL, architecture reference): the old quarry under the registry, its galleries shelved; records from before the standardization directive in scripts and formats the Compact never converted; kept because nobody ordered them destroyed; unstaffed, uncatalogued. Cleon's thirty years of work in them (his own notes, his own order). No Compact clerk has ever come down the stair.",
+      "CLEON (reference): sixties; Rune Path, Bronze; registered historical-Path-studies practitioner; thirty years reconstructing pre-classification Path-craft; the Compact tolerates it as antiquarianism and funds none of it; wants the work FINISHED and BELIEVED; never examines Cael (it is the carvings he reads; Cael is beneath his notice — which is why Cael can be in the room). Rune Path's civil face may be GLIMPSED as work (a man 'seeing the bones' of a text — which mark bears load) but its mechanics and limits are stated in Ch11; do not have him read the carvings as instructions yet (Ch11) — Ch10 is the recognition of the sheets and the word, not the reading.",
+      "[UNBOUND]: Karis has held the word since Book 6 (the confiscated record) and used it once in B7 (Ch15) as a stratum limit. In Ch10 she may SAY the word to Cleon once, as the word from the stratum — and Cleon's recognition of it is the beat; NOBODY says what it means; no 'before the Paths', no 'primordial', no Architect theory (Ch15).",
+      "VASTIN'S REFLEX (the card): at the re-admission he offers a name/rank/credential to the clerk (or the yard-door keeper) — it lands wrong: the clerk does not know the name; the rank means nothing at this level; the invocation is a danger; Seln walks it back on the page (his tradecraft); the party is not refused but is now a party a careful clerk has looked at twice. Vastin's papers stay UNSHOWN (he offers the name, not the paper). Cost visible.",
+      "SEALED: no reading of the carvings' content; no Architect; no still place; no six-year arithmetic; no fight; no reach yet (Ch12); no Rune integration (Ch13).",
+      "Lira as a hand (two arms); Brom as a hand (shoulder carried); Seln OUTSIDE the count — he comes down the stair? NO: Seln is not on the form; he stays above, in the city (Ch11's scene about him); in Ch10 he is at the yard door when Vastin's reflex lands, because he walks the party to the door each morning.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; the closer is the LOG (Ch9 closed on an image)."
+    ]
+  },
+  "purpose": "The archive, and Cleon — Karis's want fully served, and Vastin's want paid in a single hard scene. The Deepstacks below: uncatalogued pre-Compact stacks in the old quarry, scripts the standardization never converted, the smell of centuries. Cleon introduced through his work, mid-sentence, already reading: a man who has waited thirty years for the right question, and Karis brings it — three sets of carvings off fused-stone floors and the word she has held since Book 6 — and the recognition on his face is the thing he has hoped for and dreaded. Vastin's hard scene: at the daily re-admission (the party must be out by the bell and come down again), he reaches by reflex for authority — a name, a rank, a credential — to smooth the door, and it lands wrong: the clerk does not know the name; the rank means nothing at this level; a former Archmarshal invoking the Compact inside a Compact city is a DANGER to a party trying not to be noticed; Seln walks it back. It costs Vastin something visible: the reflex he is proudest of is a liability, the only way he helps is by being no one, and he does not yet know how. Cael, who has been no one his whole life, watches a man learn it at fifty-three and files the fellow-feeling. Close on the log with the card's fixed text.",
+  "scene_shape": {
+    "opening_state": "The dark past the iron door, and the lamp finding it: galleries cut in the quarry's rock, shelved floor to roof with things that are not books as the Compact makes books — rolls, boards, bound leaves in scripts nobody above has read for centuries — and, mid-sentence, at a table under the one lamp that is always lit, Cleon, already reading, who has come down ahead of them and has not looked up.",
+    "pov_goal": "Cael wants to carry the box, set it down, and watch — to be labour with nothing to do but watch the two people who can read this room begin — and to be unfiled for the first time inside walls.",
+    "opposition": "The archive itself (four centuries of unread paper; no catalogue; Cleon's order, which is his alone); Cleon's dread of being believed; Vastin's reflex at the door; the bell.",
+    "turn": "Karis lays the fifty-two sheets on Cleon's table, three sets, in the order of the floors, and says the word from the stratum once, and Cleon's face does the thing the card names — hoped for and dreaded — and he says what thirty years cost and what being believed costs, and asks for a week.",
+    "choice": "At the second morning's door, Vastin reaches for the name — and Seln walks it back, and Vastin lets him, and stands in a lane as no one, and Cael watches him learn it and does not say that he has been learning it since he was fourteen; he files it.",
+    "outcome": "The work begun; the party a thing the clerk has looked at twice; Vastin's cost visible; Cael unfiled under a city.",
+    "closing_state": "LOG — the card's fixed text verbatim: \"Karis has been looking for this room her whole life. Cleon's been sitting in it for thirty years waiting for her. Vastin tried to open a door with his rank and nearly closed all of them — an Archmarshal's worth nothing here, which he's taking about as well as I took [SHATTERED]. Down here the stone's older than the Compact, so the Compact doesn't reach. First place inside walls I've ever stood where nobody can file me, and it's a hole under a city, and it's because everything down here is older than the machine that files. Karis says give her a week. I've got a box to carry and a promise to keep about a station upstairs. I can wait.\" The file ends on it."
+  },
+  "obligations": {
+    "must_include": [
+      "The Deepstacks rendered as a place: the quarry's galleries, the shelving, the forms of the records (not Compact books), the smell of centuries, the one lamp; the day-count and the bell.",
+      "Cleon introduced THROUGH HIS WORK, mid-sentence, already reading — no limited-third window; his thirty years present in the room's order.",
+      "Karis's want served: the sheets laid out in the order of the floors; the word from the stratum said once; Cleon's recognition — hoped for and dreaded — staged on his face and in what he says about being believed after thirty years (not relief).",
+      "Vastin's hard scene at the re-admission: the reflex (a name, a rank, a credential offered); it lands wrong on three counts (unknown; worthless at this level; dangerous); Seln walks it back on the page; the cost visible on Vastin; 'the only way he helps is by being no one, and he does not yet know how'.",
+      "Cael watching a man learn to be no one at fifty-three and filing the fellow-feeling — in his register, not stated as sympathy.",
+      "Cael unfiled: 'Down here the stone's older than the Compact, so the Compact doesn't reach' — felt on the page before the log says it.",
+      "Close on the fixed log VERBATIM; the file ends on it."
+    ],
+    "plants": [
+      "Cleon's Rune work glimpsed (a man who sees which mark in a line bears load) — Ch11 states it.",
+      "The clerk's second look — Ch12's reach has a door.",
+      "'Give her a week' — the archive act's clock.",
+      "The mark on the iron door and its kin on the sheets — Ch11."
+    ],
+    "payoffs": [
+      "'That's the door' (Ch8) — through it.",
+      "Vastin's 'I'm learning' (Ch2) — the lesson's price paid."
+    ],
+    "prohibited_outcomes": [
+      "No reading of the carvings as instructions (Ch11); no matched text; no [UNBOUND] meaning; no Architect; no 'four hundred years' outside the fixed log if the log has none (it does not — avoid the number).",
+      "No Rune mechanic stated; no integration; no fight; no reach; no station.",
+      "No papers shown by Vastin; no Seln on the count.",
+      "No image closer (Ch9), no dialogue closer (Ch8); the closer is the fixed log.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The galleries, the shelving, the record forms (rolls, boards, bound leaves), the scripts' look (described, not rendered), the lamp, Cleon's table and his thirty years of notes.",
+      "Cleon's manner at work; his sentences about being believed.",
+      "The re-admission's staging: the yard door; the clerk or the keeper; the name Vastin offers (his own; no rank-title beyond 'Archmarshal', which he says and Seln stops)."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any content of any Deepstacks record beyond its form."
+    ],
+    "forbidden": [
+      "Any explanation of the carvings, the Quieting, the designer; any Rune mechanic."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 9 (Inside Walls)",
+      "path": "v3-runs/book-08/drafts/ch09.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 5 — Karis's 'right for five years or wrong for five years'; Vastin's drafted orders",
+      "path": "v3-runs/book-08/drafts/ch05.md",
+      "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 15 — the strata method; [UNBOUND] as a stratum limit (the one use)",
+      "path": "books/book-07-void-roads/chapters/chapter-15.md",
+      "required": true
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 11 card — The Marks (the carvings as instructions; Rune's civil face and limit; Brom's want; Seln's scene) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch10.md",
+    "report_path": "v3-runs/book-08/reports/ch10-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch10-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch10-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

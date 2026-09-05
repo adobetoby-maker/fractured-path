@@ -1,0 +1,175 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch11",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 11 card — The Marks; carries Seln's want-scene per arch review H05; Chapter 12 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–10' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen; days 286–288 (the archive week's middle); the party down each day by count, out by the bell; the clerk has looked at them twice; cash 136.",
+      "RUNE PATH (reference, PROVISIONAL; stated in THIS chapter before Ch13): inscription architecture — the perception of how a MADE system is put together: which mark bears load and which is ornament; whether a sequence RECORDS (describes) or INSTRUCTS (commands); where a constructed pattern would fail. Civil face: authentication and restoration. Technique: contact or close attention to an inscribed surface — Cleon's 'seeing the bones of a thing'. LIMITS (charter §6.1, stated by Cleon on the page): reads STRUCTURE, not MEANING — it can say a passage is an instruction and cannot say what it instructs; works on MADE systems only (inscriptions, worked stone, constructed patterns), never on living architecture; costs attention and time, not reserve; useless in a fight. Cael WITNESSES the work at close range as labour (he holds sheets, moves the lamp) — Continuity Rule 6 for Ch13.",
+      "THE FINDING (before the reveal): the carvings on the three floors are NOT decorative and NOT commemorative — they are structured like instructions, the working notation of a made system; Karis has the strata and the stakes-and-alignment; Cleon has the scripts and thirty years; between them they establish the instruction-structure and NOT its content. Cleon's decade-old 'piece': a Deepstacks text fragment in an unconverted hand whose structure matches a carving's — matched now for the first time.",
+      "SEALED: no [UNBOUND] content; no 'Architect' beyond the citation's word (do not use it here); no 'built the system'; the reveal (the Fractured Path predates the system; the designer; 'four hundred years') is Ch15; 'built the same way twice' is the card's fixed line and refers to the SITES (the floors) — nothing about Paths or Arbiters; no still place; no six years.",
+      "BROM'S WANT: a Treswick merchant (unnamed; a broker's factor in the outer district) sees Iron Skin work — where? Brom does not declare inside walls by Oryn's order (the shoulder) — so the merchant sees the man's size and a load carried, or an old circuit reputation? Stage it as: the merchant sees Brom carry (a mule's load, a cart righted by hand, no Path) and knows a Copper's paper when he sees a man who has it, and offers a guard's post — a wage, a tier that matters here, a pass to the second tier — the life his family wanted, clean. He declines by going back down the hole with a box. One exchange with Cael later: 'You think Karis is right? That it's all built on something?' / 'I think we're about to find out.' / 'Good. I'd hate to have turned down a real job for a wrong hunch.' (fixed).",
+      "SELN'S SCENE (about him, nobody else; Cael's POV must witness it or its edges): the cache (B4–7: intelligence carried, unopened, targeted once at the Stair, kept); Treswick the first governed city since he defected; the registry up the hill would pay for its contents; he walks the tiers alone at night — HOW, with no pass? The unranked district's edges; the stairs at night unwatched; his tradecraft — and comes back down having decided nothing, seen by nobody, and lets Cael see that. No dialogue needed beyond a line.",
+      "Vastin down in the stacks as a hand, being nobody, badly; Lira a hand; the promise stands; nothing at the station.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD (Gate 27)."
+    ]
+  },
+  "purpose": "The scholarship chapter — the carvings become instructions — with three wants served: Karis's (the work), Brom's (a clean ranked job offered and declined by going back down the hole), and Seln's OWN scene (Treswick is the first governed city he has stood in since he defected; the cache on his back; a registry up the hill that would pay for its contents in a currency he no longer takes; he walks the tiers alone at night, reads the station's light from the unranked district, comes back down having decided nothing and having been seen by nobody, and lets Cael see that he has decided nothing). Cleon's Rune Path shown in its civil face and its LIMIT stated by him plainly before Ch13's integration: 'I can tell you these are orders. I can't tell you what they order. For that you need the language, and the language is in the text, not the stone. That's her work, not mine.' Cael is IN the stacks as labour and witnesses the Rune work (Continuity Rule 6). Close on the fixed dialogue: 'This is the documentation of something. Somebody wrote these down so the thing could be built the same way twice … I don't think you're going to like what you've found, Karis.'",
+  "scene_shape": {
+    "opening_state": "The third and fourth days down: Cleon and Karis at the table with the three sets and the text he has kept for a decade, working a mark at a time; Cael holding sheets and moving the lamp; Brom and Lira with nothing to carry until the bell; Vastin on the knee, learning to be nobody.",
+    "pov_goal": "Cael wants to watch the instrument that reads how things are built, at arm's length, on the carvings — not on himself — and to learn its limit before he wants it.",
+    "opposition": "The carvings' language (unreadable); Rune's own limit (structure, not meaning); the bell; a merchant's clean offer to Brom; the cache on Seln's back in a city with a registry.",
+    "turn": "Cleon's demonstration on a sheet, with the text beside it: the bones of a carving read aloud as structure — 'this mark bears the others; this one's ornament; this run commands, it doesn't describe' — and the limit said plainly: he can tell they are orders and cannot tell what they order. Then the match: his decade-old fragment's structure and the Hall's fourth sheet, the same bones.",
+    "choice": "Cael does not ask Cleon to read him. He watches an instrument for made things and understands, against the rock, that a thing which reads only what was built cannot be turned on a man — and notes that he wanted it to be, and does not say so.",
+    "outcome": "The carvings established as instructions; Brom's offer declined by a box; Seln's night walk decided nothing; Cleon's last words.",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim and contiguous: Cleon, late, over a carving-copy and a matched fragment: \"You've been reading the strata. Old, older, oldest — I know, I read your face, you've dated these past anything the Compact admits.\" (he taps the text) \"Here's what the strata can't tell you. These aren't the ruins of something. This is the documentation of something. Somebody wrote these down so the thing could be built the same way twice.\" (he sits back) \"In thirty years I never had the stone to match the text. You walked in with three floors.\" A beat. \"I don't think you're going to like what you've found, Karis. I've had a piece of it for a decade and I've never once slept well since.\" The file ends on that line."
+  },
+  "obligations": {
+    "must_include": [
+      "Cleon's Rune work SHOWN in its civil face on a carving-copy with Cael present as labour (holding the sheet / the lamp) — the bones read aloud as structure; and the LIMIT stated by Cleon verbatim: \"I can tell you these are orders. I can't tell you what they order. For that you need the language, and the language is in the text, not the stone. That's her work, not mine.\"",
+      "The finding established before the reveal: the carvings are not decorative and not commemorative; they are structured like instructions, the working notation of a made system; Cleon's decade-old text fragment matched to a carving for the first time.",
+      "BROM'S WANT-SCENE: a clean ranked offer (a guard's post, a wage, a tier) from a Treswick merchant who saw him carry, declined by going back down with a box — no speech; and the fixed exchange with Cael verbatim: \"You think Karis is right? That it's all built on something?\" / \"I think we're about to find out.\" / \"Good. I'd hate to have turned down a real job for a wrong hunch.\"",
+      "SELN'S SCENE, about him: the cache; the registry that would buy it; the tiers walked alone at night by his craft; the station's light read from below; back before dawn having decided nothing and seen by nobody; he lets Cael see he has decided nothing (a look, or one line).",
+      "Cael's understanding of Rune's limit as it bears on him (a thing that reads only what was built) — noted, not said; no request to be read.",
+      "Vastin as a hand, being nobody badly, one beat.",
+      "Close on the fixed dialogue VERBATIM and contiguous; the file ends on 'slept well since.'",
+      "READER STANDARD checked (banned words 0; conduct; no gore; no sexual content)."
+    ],
+    "plants": [
+      "Rune witnessed (Continuity Rule 6) — Ch13's integration cites this chapter and Ch13.",
+      "'Built the same way twice' — the sites as documented, made things (the reveal's ground; not the reveal).",
+      "Seln's undecided cache — Ch12's reach targets it.",
+      "Brom's declined tier — Book 9's found-family ledger.",
+      "Cael's wish for an instrument that reads made things turned on himself — Ch22."
+    ],
+    "payoffs": [
+      "Ch7's 'I need an instrument for what doesn't move' — the instrument seen, and its limit (made things only) seen with it.",
+      "B7's 'a measurement is a fact about a ruler' — Cleon's version: structure, not meaning."
+    ],
+    "prohibited_outcomes": [
+      "No reading of what the carvings SAY; no [UNBOUND] meaning; no Architect; no 'four hundred years'; no 'the system was built' — the fixed line's 'the thing' is the floors.",
+      "No Rune integration; no reading of Cael by Cleon; no still place.",
+      "No fight (Ch12); no reach; no station; no square.",
+      "No log closer (Ch10's); the closer is the fixed dialogue.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Cleon's demonstration (which mark bears load; ornament vs command) in his own words; his decade-old fragment's physical form (a bound leaf? a board?) and its unconverted hand — described, not rendered.",
+      "The merchant/factor (unnamed) and the offer's terms (a guard's post at a broker's yard; a wage; a second-tier pass).",
+      "Seln's night route (the stairs unwatched at night; the walls' foot; a roof) — no gate passed by paper."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any content of the carvings or the fragment beyond structure."
+    ],
+    "forbidden": [
+      "Any meaning read from the carvings; any statement connecting the floors to Paths, Arbiters, or the Quieting's cause."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 10 (The Deepstacks)",
+      "path": "v3-runs/book-08/drafts/ch10.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 15 — Karis's strata method and the [UNBOUND] limit (do not advance)",
+      "path": "books/book-07-void-roads/chapters/chapter-15.md",
+      "required": false
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 17 — Seln's cache targeted; his professional memory",
+      "path": "books/book-07-void-roads/chapters/chapter-17.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 12 card — No Authority (the reach in the alley; Iron Wall integrated) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch11.md",
+    "report_path": "v3-runs/book-08/reports/ch11-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch11-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch11-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

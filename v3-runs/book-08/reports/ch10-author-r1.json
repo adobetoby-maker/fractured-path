@@ -1,0 +1,64 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch10-r1",
+  "scene_id": "b8-ch10",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch10.md",
+  "word_count": 3979,
+  "obligations": [
+    {
+      "obligation": "The Deepstacks as a place; the bell; the days",
+      "status": "MET",
+      "evidence": "The quarry's galleries, the pinned timber, rolls/boards/bound leaves/a metal sheet/a bundle of sticks; 'the smell of a thing that has been left alone'; the bell four tiers up; days 284–285."
+    },
+    {
+      "obligation": "Cleon through his work, mid-sentence, already reading",
+      "status": "MET",
+      "evidence": "'Cleon was already reading. That was the whole of how he was introduced' — the finger on the line; the thirty years of his own hand on new shelving."
+    },
+    {
+      "obligation": "Karis's want served; the word said once; Cleon's recognition hoped-for-and-dreaded; being believed not a relief",
+      "status": "MET",
+      "evidence": "The sheets laid in the order of the floors; 'And the word.' / 'Karis said it … once'; 'Being believed — … It's the end of being able to be wrong.' / 'Give me a week.'"
+    },
+    {
+      "obligation": "Vastin's hard scene: the reflex at the re-admission; lands wrong three ways; Seln walks it back; cost visible",
+      "status": "MET",
+      "evidence": "'Vastin. Archmarshal, Compact enforcement. You'll find the name is —' / Seln: 'He's the carter's man…the title's a joke he tells'; 'a blade with no handle'; 'I'm sorry.' / 'Don't be sorry. Be nobody.'"
+    },
+    {
+      "obligation": "Cael watching a man learn to be no one; the fellow-feeling filed",
+      "status": "MET",
+      "evidence": "The landing: 'the nearest thing on the continent to an expert in the exact thing a fifty-three-year-old man was standing behind him failing to do, and he did not say so'; 'He filed the fellow-feeling'."
+    },
+    {
+      "obligation": "Cael unfiled under the city — felt before the log says it",
+      "status": "MET",
+      "evidence": "'the first place inside a wall he had ever stood where nobody could file him. Not would not. Could not.'"
+    },
+    {
+      "obligation": "Close on the fixed log verbatim",
+      "status": "MET",
+      "evidence": "The final paragraph reproduces the card's text; the file ends on 'I can wait.'"
+    },
+    {
+      "obligation": "READER STANDARD (Gate 27) checked",
+      "status": "MET",
+      "evidence": "loop.sh gates: banned words 0; conduct honest and restrained; no gore; no sexual content."
+    }
+  ],
+  "inventions": [
+    "The quarrymen's galleries and marks; the record forms; Cleon's chair with its thirty-year cushion, the second lamp on a bracket, his new shelving in his own hand; the second chair brought down that morning.",
+    "Cleon's 'piece of that' — a text on his shelf in an unreadable hand he has had ten years (the card: 'I've had a piece of it for a decade'); the re-admission each morning at the yard door as the form's daily count."
+  ],
+  "state_change_proposals": [
+    "Day 284: the first descent; the sheets laid out (11/29/12) on Cleon's table; the word said once; 'Give me a week.' Day 285: the re-admission — Vastin's reflex ('Archmarshal, Compact enforcement') walked back by Seln ('the carter's man … a factor once, up west'); the clerk wrote four; the party is now a party the clerk has looked at twice. Cash 136 ('the inn paid to the week').",
+    "Cleon glimpsed reading the bones of a mark against a text's bones (Rune's civil face; not stated).",
+    "Vastin's cost: the reflex is a liability; 'Be nobody'; not yet able."
+  ],
+  "deviations": [
+    "Cleon's 'piece of that … ten years' is drawn from the Ch11 card's 'I've had a piece of it for a decade' — introduced a chapter early as a line, not a reading.",
+    "Word count ~3,98x — in band."
+  ],
+  "blockers": []
+}

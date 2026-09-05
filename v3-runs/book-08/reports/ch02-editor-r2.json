@@ -1,0 +1,253 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch02-r2-editor",
+  "scene_id": "b8-ch02",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Recheck — repair scope (packet purpose: 'Only the flagged spans change; byte-identical elsewhere')",
+      "state": "PASS",
+      "evidence": "A line-by-line diff of drafts/ch02-r1.md against drafts/ch02.md returns exactly thirteen changed lines and no others: 7, 23, 27, 55, 65, 79, 93, 101, 103, 107, 109, 119, 143. Both files carry 155 lines and identical paragraph structure, so every change is an in-line replacement inside a flagged span; no paragraph was added, split, merged or moved. The author report's deviation line ('thirteen exact-string replacements; r1 preserved at drafts/ch02-r1.md; byte-identical elsewhere') is confirmed against the files rather than accepted from the report. Every one of the thirteen maps to a repair_target: :7 and :65 to 004, :23 to 005, :27 to 010, :55 to 012, :79 to 002+006, :93 to 006, :101 and :103 to 011, :107 to 001+008, :109 to 007, :119 to 009, :143 to 003."
+    },
+    {
+      "gate": "Recheck — the twelve r1 findings, each landed at its repair_target",
+      "state": "PASS",
+      "evidence": "001: :107 now reads 'a thing I've carried since Ostrand' — the volume title is gone and grep for \"Compact's Hand\" over the draft returns zero. 002: :79 counts the room ('The six of them in the long room, and the table, and the mule's empty chair'), and :123's seating order is byte-identical to r1. 003: :143 reads 'a table in a borrowed office in Ostrand, four streets back from the registry seat, a room with nothing of anyone's in it', matching book-06 chapter-17.md:41 ('a leasehold building four streets back from the registry seat') and :63. 004: :7's ledger is 'a hall at sixteen … a table at seventeen … in a borrowed room at eighteen'. 005: ':23' opens 'Fifty-three, or near it'. 006: grep for 'seventh' returns only ':3, two hundred and seventy-seventh day'; grep for 'chair' returns only :79's mule's chair; :93 is 'He sat at the table's end'. 007: :109 ends on 'nobody files a complaint about a wall' and the three minted sentences are gone. 008: :107 reads 'That's not news, Vastin'. 009: the 'the way X [verb]' simile engine returns three (:5, :7, :123); :119 is recast as 'as a man watches'. 010: :27 reads 'for the crew'; :35 and :141 are untouched, as the repair_target directed. 011: grep for 'vote' over the draft returns zero — :101 is 'the whole of Brom's price' and :103's 'Karis did not vote.' is cut. 012: :55 reads 'Meadow's free till the tents fill' and 'a mark a night in the season'. All twelve are REPAIRED. Two of the repairs carry new defects with them (findings 013 and 014) and one costs tic headroom (finding 015); those are raised separately and none of them reopens a closed finding."
+    },
+    {
+      "gate": "Authority — canon vs the drafted prose of Books 4-6 (craft core: authority ladder; charter §1)",
+      "state": "FAIL",
+      "evidence": "The two relocations 003 and 004 flagged are repaired and check out against source. But two spans the repair rewrote now assert things Books 4-6 contradict. :23's added clause dates the Ostrand meeting at 'the two years since a room in Ostrand had' when the drafted timeline caps the interval below seventeen months (finding 013). :65's fifteen→sixteen moves Lira's ledger onto Book 4's inspection, where book-04 chapter-21.md:47 has her at the wing gate and chapter-22.md:39/:71 has her in the common room, and where Vastin conspicuously reads nothing (chapter-21.md:77, chapter-22.md:205) — finding 014. Both are checkable against drafted prose, which governs."
+    },
+    {
+      "gate": "Authority — packet prohibited_outcomes (no vote; no request to join; no hint of Book 9's 3-2)",
+      "state": "PASS",
+      "evidence": "grep -onE '\\bvote[sd]?\\b' over the draft returns zero, against two in r1. :101 is 'And that was the whole of Brom's price'; :103 opens 'Karis wanted the name and said so, which was a different thing' with the voting sentence cut. grep for 'seventh' returns one hit and it is the day-count at :3. No character asks to travel with the crew; no admission is proposed; the pack stays closed (:99, 'He did not open the pack'); the chapter still ends with him heard and unadmitted."
+    },
+    {
+      "gate": "Authority — invention budget (allowed / approval_required / forbidden)",
+      "state": "PASS",
+      "evidence": "The three sentences that minted a Compact record and a disposed official are cut; :109 now ends 'nobody files a complaint about a wall.' Nothing else in the thirteen replacements introduces a Compact document, office or official. The one thing the repair adds — :23's 'a room in Ostrand' — is a place already on the page in Books 4-6 and now correctly cited at :143, so it is not a new named place."
+    },
+    {
+      "gate": "Authority — SECRET discipline and the reveal schedule (CANON_RULES §Reveal Schedule; architecture §SECRET discipline)",
+      "state": "PASS",
+      "evidence": "grep -oniE 'architect|primordial|unbound|reset|iron wall|six years' over the draft returns zero. Vastin's material stays at 'A name. And a locked layer.' (:99); the citation is 'a designer, a single individual, that the record does not identify' (:113); Treswick is named as the trail's dead end and nothing more. The r1 cut at :109 removed material, not disclosure, so the seal is if anything tighter than r1's."
+    },
+    {
+      "gate": "Continuity persistence — calendar and elapsed intervals (state-b8-pre-ch01; STATE_RUNNING 'After Chapter 1')",
+      "state": "FAIL",
+      "evidence": "The day-count is still exact: :3 is the two hundred and seventy-seventh day past the Line, seven days past Ch1's closing log on the 270th and inside the packet's 275th-278th window; :73's 'eleven days' of two arms reconciles to the 266th release. The failure is new and is at :23: 'the two years since a room in Ostrand had'. Book 6's Ostrand meeting is chapter-17, after Cael's eighteenth birthday at chapter-14.md:119; his nineteenth falls on the 102nd day past the Line (state-b8-pre-ch01.md:3), which fixes the Line crossing at 263 days after that birthday; this chapter is day 277. The interval is therefore at most 540 days even if Ch17 sat on the birthday itself, and about 480 given chapter-16.md:139's 'the petition was four months old'. Finding 013."
+    },
+    {
+      "gate": "Continuity persistence — Lowmarch prices and the board's own arithmetic (charter §3.7)",
+      "state": "PASS",
+      "evidence": "Pike now prices with a condition attached in his own register: ':55, Meadow's free till the tents fill … and the lower's a mark a night in the season for a man alone.' The lower inn reconciles cleanly — ch01.md:13 has 'a mark a head a week' in winter, and a mark a night is the season rate for a man alone. The meadow reconciles by construction rather than by arithmetic: ch01's 'Meadow rate is four a month for a crew that's on my sheet' is a tariff Pike applies to a crew's winter lodging, and 'free till the tents fill' is what the ground itself costs before the season arrives. Taken as the repair_target asked ('let Pike say why in his own register'). The residual softness is recorded as a concern, not a finding."
+    },
+    {
+      "gate": "Continuity persistence — positions, counts and the seating of the long-table scene (craft core: causal legibility; invariant 3)",
+      "state": "PASS",
+      "evidence": "The tableau at :79 now counts the room and not the chairs — 'The six of them in the long room, and the table, and the mule's empty chair … and a man in a brown coat standing at the end of it' — so nothing is seated before the paragraphs that seat them. Seln's doorway (:81-:91) and Lira's refusal at the fire (:73) are byte-identical to r1, as the repair_target required. :93 is 'He sat at the table's end', which removes the collision with the mule's chair. :123 still states the order correctly (Seln, Oryn, Brom, then Lira last, at the far end). The added aside 'the joke of every table they had sat at since a marsh' is consistent with ch01.md's 'the first table there had been six at since a marsh'."
+    },
+    {
+      "gate": "Continuity persistence — objects, cash and possessions carried from Ch1",
+      "state": "PASS",
+      "evidence": "None of the thirteen replacements touches an object, a sum or a possession. The map is still in Karis's coat (:115), the pack is still closed (:99), Vastin still pays his own way in coppers (:57), and no cash figure is stated in the chapter at all."
+    },
+    {
+      "gate": "Point-of-view integrity and the packet knowledge_boundary (craft core: reader-trust invariant 1)",
+      "state": "PASS",
+      "evidence": "The repairs keep every claim inside what Cael can know or infer. :143's Ostrand office is a room he was in; :23's age estimate is explicitly an estimate ('or near it'); :113's citation is reported as Vastin's words. The one span that reaches past Cael's own experience is :65, which narrates Lira's history — raised as finding 014 on continuity grounds rather than POV, since Cael would in fact know where Lira was standing."
+    },
+    {
+      "gate": "Assigned obligations — must_include, all ten items",
+      "state": "PASS",
+      "evidence": "The ferry lands dated at :3 and turns back west with the season's first sack at :155. Vastin is catalogued as what he is before who he was (:23-:25, the four absences). The board prices him at nothing aloud (:51-:55). Seln's doorway exchange is verbatim (:83-:89). He states why he came without opening the pack (:99, :113). Karis hears the layer as a woman who has carried it (:107). His want is staged as an absence (:117-:119). Lira sits last (:123). Oryn's finding is one line and she does not touch him (:127). The close is the card's fixed dialogue, then 'Nobody answered him.', then the ferry (:149-:155). Of these, only the Karis line (:107) and the tableau feeding :123 were touched, and both still deliver."
+    },
+    {
+      "gate": "Assigned obligations — the three fixed-line blocks, verbatim and contiguous",
+      "state": "PASS",
+      "evidence": "None of the thirteen changed lines falls inside a fixed block. Seln's four lines stand at :83, :85, :87, :89 as four consecutive paragraphs with no narration between them. Pike's exchange is intact — ':51, \"What'd he do?\" Pike said. Not to Vastin. To the book.' / ':53, \"Nothing,\" Vastin said. \"Out here. Nothing yet.\"' / ':55, \"Then he's nothing yet.\"' — the :55 replacement falls after the fixed clause, inside Pike's tariff. The close runs Karis's plain question (:149), Vastin's speech verbatim through both halves (:151), 'Nobody answered him.' alone (:153) and the ferry as the last line of prose (:155)."
+    },
+    {
+      "gate": "Assigned obligations — plants (four), planted only",
+      "state": "PASS",
+      "evidence": "The name and the locked layer are stated and not paid (:99, :109, :113). Treswick is named by Vastin as the dead end (:113) and Karis does not say west (:115). The knee is Oryn's one-line finding (:127) with no Path named. The asset-restriction is one line (:139). :109's cut removed a sentence of Compact history, not a plant."
+    },
+    {
+      "gate": "Assigned obligations — payoffs (two)",
+      "state": "PASS",
+      "evidence": "Book 6's sentence is remembered once, in italics, at :143, and the repair corrected only the room it was said in. The board's indifference as the proof of Book 7's freedom runs at :51-:55 and survives the price change."
+    },
+    {
+      "gate": "Consequential scene — state change and the scene's turn (craft core: reader-trust invariant 5)",
+      "state": "PASS",
+      "evidence": "Unchanged by the repair: the crew's knowledge state changes (the sub-layer's inaccessibility, the citation, Treswick), the relationship state changes (a man heard, not admitted, at a table nobody offered him), and the turn still lands in Seln's doorway."
+    },
+    {
+      "gate": "Progression module — editor gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, no integration, no fragment notice, no training beat in this chapter, and the repair added none."
+    },
+    {
+      "gate": "Combat gates (charter §4; THE AUTHOR §9.9-9.16)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat. The packet forbids a fight, an injury and any fragment use, and the draft contains none."
+    },
+    {
+      "gate": "Voice charter §8.4 — terminal metadata",
+      "state": "PASS",
+      "evidence": "grep -n 'End of Chapter\\|approximately.*words\\|word count\\|DRAFT\\|TODO' returns zero. The file's last line is the ferry (:155)."
+    },
+    {
+      "gate": "Voice charter §9 / packet prohibited_outcomes — tic caps",
+      "state": "FAIL",
+      "evidence": "The finding-009 cap is now met: 'the way X [verb]' as a simile engine returns three (:5 'the way a man looks at a place he has read about in a file', :7 'the way it learns a stair', :123 'the way she asked the honest question'), and :119 is 'as a man watches'. The fourth 'the way' at :99 is the literal 'on the way out'. One-word paragraphs remain two (:11, :33) against a cap of two; the charter's ten named phrases and 'which was, in its own way' all return zero. The new failure is 'three hundred miles', which the repair took from four to five by adding a second use inside :23's own sentence. Finding 015."
+    },
+    {
+      "gate": "Voice charter §9 — scene-closer rule",
+      "state": "PASS",
+      "evidence": "Ch1 closes on the log; Ch2 still closes on the card's fixed dialogue plus one line of narration (:151-:155). No log entry appears anywhere in the chapter. The architecture's Ch1 log / Ch2 dialogue / Ch3 image sequence is honoured."
+    },
+    {
+      "gate": "Voice charter §8.5 — dialogue attribution runs in a 3+-speaker scene",
+      "state": "PASS",
+      "evidence": "Unchanged from r1. The longest unattributed run is three (:129, :131, :133), inside a cap of four, opening off an attributed line at :127 and re-anchored at :135. The other runs are two."
+    },
+    {
+      "gate": "Voice charter §8.1 / NAME_REGISTRY — aural distinctness, no new canon nouns, no rename-slated names",
+      "state": "PASS",
+      "evidence": "grep -oniE 'halcenvane|velmere|wray|bracken|feryn' returns zero. The repair introduces no name that is not already on the page: Ostrand (Books 4-6), Thornwater and Norhold (Books 5-7), Vastin. 'Vastin' replacing 'Marshal' at :107 uses the form he offered himself at :33."
+    },
+    {
+      "gate": "Voice charter §8.2 / §8.3 — audio survival",
+      "state": "PASS",
+      "evidence": "No system block in the chapter. The only italics are Vastin's stressed 'will not' / 'Cannot' at :109 and Cael's remembered sentence at :143, both of which read aloud without describing punctuation. :107's 'since Ostrand' is aurally clean where 'since the Compact's Hand' was not — a listener gets a place, not an uncapitalised title."
+    },
+    {
+      "gate": "Architecture — no meta-voice (no volume, chapter-count, or fourth-wall reference inside chapter prose)",
+      "state": "PASS",
+      "evidence": "grep -oniE \"compact's hand|\\\\bvolume\\\\b|\\\\bbook (one|two|three|four|five|six|seven|eight|nine)\\\\b\" over the draft returns zero. The only 'Chapter' token is the file's own title at :1. Karis now dates her knowledge by a place."
+    },
+    {
+      "gate": "Voice charter §10 — scene vs summary, and density",
+      "state": "PASS",
+      "evidence": "word_count 3976 against a band of 3910-5290; the deterministic diagnostics report WITHIN_TARGET. The repair is net six words down from r1's 3982 — the :109 and :103 cuts nearly offset by :23's and :79's additions — leaving sixty-six words of margin above the floor. Every architecture-major beat is still in scene; grep for 'heard about it later|learned afterward|was told later|found out later' returns zero."
+    },
+    {
+      "gate": "Voice charter §3.8 / §7.2 — register, growth, and banned modern idiom",
+      "state": "PASS",
+      "evidence": "grep -oniE 'okay,? so|literally|basically|gonna' returns zero; the feeling-declaration and growth-declaration greps return zero. The two replacements that most risked register — :101's 'the whole of Brom's price' and :107's 'That's not news, Vastin' — both land inside the chapter's own idiom, and the second is colder than the title it replaced, which is what the repair_target predicted."
+    },
+    {
+      "gate": "Voice charter §7.4 — the independent want, staged in a scene about him",
+      "state": "PASS",
+      "evidence": "':117, And Vastin, having said it, had nothing.' and the :119 paragraph are intact apart from the four-word simile recast, which does not touch the beat. The want still lands as an absence rather than a speech."
+    },
+    {
+      "gate": "Canon and register — forms of address and rank (packet: 'Vastin has no rank he can invoke')",
+      "state": "PASS",
+      "evidence": "The bare 'Marshal' is gone. :107 uses the name he corrected the chapter into at :33 ('Not that. Not for some months. Vastin will do'), so the landing's best small move is now honoured rather than undercut twelve lines later. No other rank-form is used of him after :33."
+    },
+    {
+      "gate": "Clarity — referential precision on the crew's count (charter §8.1's audio standard applied to a number the book tracks)",
+      "state": "PASS",
+      "evidence": "':27' now reads 'none of it, he already knew, for the crew', which removes the uncued collision. The two deliberate uses stand as the repair_target directed: :35's stale five, corrected on the page by Vastin himself ('Six,' he said), and :141's arithmetic, where the count is the point of the sentence."
+    },
+    {
+      "gate": "Anti-pastiche (craft core invariant 6; charter §2)",
+      "state": "PASS",
+      "evidence": "Nothing in the thirteen replacements reaches for a borrowed cadence. The largest addition — :23's aging clause and :79's parenthetical — both stay inside the series' own catalogue-and-aside grammar."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B8-CH02-013",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); charter §1 (drafted prose governs) — introduced by the repair to finding 005",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "Fifty-three, or near it, and the winter and three hundred miles had put more on him than the two years since a room in Ostrand had."
+      },
+      "comparison_evidence": {
+        "path": "books/book-06-the-compacts-hand/chapters/chapter-14.md",
+        "line_start": 119,
+        "line_end": 119,
+        "quote": "He was eighteen, witnessed — the date written into the log in his own hand at the table, per the custom now three birthdays old, the smallest of the three and, though only the term suspected it, the last that would ever be kept inside an institution's walls: *Eighteen. Written at Halcenvane, in the residence common room, third month of the winter term, ninth day. Witnesses: four of my own and a cohort captain who thinks he's here for cake.*"
+      },
+      "consequence": "The number in the sentence is now right and the interval in the same sentence is not. The room in Ostrand is book-06 chapter-17, which falls after Cael's eighteenth birthday at chapter-14.md:119. His nineteenth is on the hundred and second day past the Line (state-b8-pre-ch01.md:3), which fixes the crossing at two hundred and sixty-three days after that birthday, and this chapter is the two hundred and seventy-seventh day. The interval from Ostrand to this landing is therefore at most five hundred and forty days — seventeen and a half months — and that is the ceiling reached only if the cache meeting sat on the birthday itself. book-06 chapter-16.md:139 dates the analysis at 'the petition was four months old' against chapter-14's 'third month of the winter term, ninth day', which puts the real figure near four hundred and eighty days, about sixteen months. 'Two years' is unreachable under the drafted timeline. The damage is that it lands in the arrival catalogue, in the one voice in the series whose authority is that its counts are right, in the same sentence the repair was fixing an arithmetic error in — so a reader who checks the first number and finds it corrected now checks the second and finds it wrong. The r1 report's own consequence text for finding 005 asserts 'roughly two years have passed', so the author imported the figure in good faith; the coordinator should treat this as a correction to the r1 report as much as to the draft.",
+      "repair_target": "Drop the interval or make it true. The clause does its work without a number — 'and the winter and three hundred miles had put more on him than the years since Ostrand had' — and if a figure is wanted, 'the year and a half' or 'the sixteen months' both fit the drafted timeline. Do not touch 'Fifty-three, or near it', which is correct, or the rest of the catalogue, which finding 005 protected. Note that the same edit is the cheapest place to fix finding 015 as well, since removing 'three hundred miles' from this clause returns the phrase to four.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH02-014",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); charter §1 (drafted prose governs) — introduced by the parallel repair to finding 004",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 65,
+        "line_end": 65,
+        "quote": "She had watched Cael measured by men in grey since Norhold. She had stood in a hall at sixteen while a marshal read a page about him, and at a table at seventeen while the same man declined to read one, and she had a face for men in grey that she had never once had to use on a man out of it, and she used it now, on a brown coat, and it did not fit, and she stood in the door with the bucket and let it not fit."
+      },
+      "comparison_evidence": {
+        "path": "books/book-04-copper-crown/chapters/chapter-21.md",
+        "line_start": 47,
+        "line_end": 47,
+        "quote": "Lira was at the wing gate at the third bell, standing with her weight off the leading hip in a way she plainly believed nobody could see."
+      },
+      "consequence": "In r1 this clause read 'a hall at fifteen', which pointed at nothing and was merely vague. The repair moved it to sixteen for consistency with the ledger at :7, which anchors it on Book 4's inspection — and Book 4's inspection is drafted, so the claim is now checkable and fails twice. Lira is not in either room. At the demonstration hall she is at the wing gate before it and gone when Cael goes in (chapter-21.md:47, and the room's occupants are itemised at :77-:79: counsel, Ilsev, Havel, Gault, the two instructors, the clerk, Vastin). At the east-room inspection she is on the bench in the common room beforehand (chapter-22.md:39, :71) and asks 'That's it?' afterwards (:279); the room is twelve feet by fourteen with five chairs and Cael counts four occupied as he enters (:77-:79). Nor does Vastin read a page in either: 'with nothing on his lap and nothing in his hands and no case anywhere near him' (chapter-21.md:77) and 'Vastin had written none of it down, because there was nothing on the table in front of him and there never had been' (chapter-22.md:205) — the empty hands are Book 4's deliberate motif for him, and the sentence spends it backwards. The second half fails the same way: book-05 chapter-23.md:45 puts the table at seventeen in a borrowed tournament administration room where Vastin stands at the window 'no aides, no case, no papers of any kind' and the scene runs on 'neither man', with Lira in the council before it and after it, not in it. The paragraph also argues with its own first sentence, which says she has watched this 'since Norhold' — Book 5's venue, after Book 4's inspection.",
+      "repair_target": "Give Lira the encounters she actually had, or stop placing her in rooms. The paragraph's real claim — that she has a face for men in grey and it does not fit a brown coat — needs no ledger at all, and cutting from 'She had stood' to 'declined to read one' leaves 'She had watched Cael measured by men in grey since Norhold, and she had a face for men in grey…' standing clean and true. If the two-beat cadence is wanted, place her where the prose puts her: 'She had waited at a wing gate at sixteen while he was measured, and outside a room at seventeen while he was not.' Do not touch :7, which finding 004 repaired correctly, and do not touch :73, which is the load-bearing beat of the paragraph that follows.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH02-015",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "voice-tics",
+      "gate": "Voice charter §9 (any repeated beat phrase capped) and §8.2.3 (a tic is not a motif — the repetition's job must be recorded before the third use)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "Fifty-three, or near it, and the winter and three hundred miles had put more on him than the two years since a room in Ostrand had. The hair gone from iron to something with less iron in it. A traveling coat, brown, road-made, the kind a carter's factor wears, with the elbows already through and the hem cut short for mud. Boots that had been good boots a long way west of here and had done three hundred miles since."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch02-r1.md",
+        "line_start": 23,
+        "line_end": 23,
+        "quote": "Fifty-six, or near it. The hair gone from iron to something with less iron in it. A traveling coat, brown, road-made, the kind a carter's factor wears, with the elbows already through and the hem cut short for mud. Boots that had been good boots a long way west of here and had done three hundred miles since."
+      },
+      "consequence": "'Three hundred miles' ran four times in r1 — :23, :95, :101, :127 — and the r1 report recorded it as a concern rather than a finding on the §8.2.3 motif defence: each use belonged to a different speaker doing a different job, Cael cataloguing, Vastin owning, Brom pricing, Oryn finding. The repair adds a fifth, and the fifth breaks the defence, because it is the same narrator using the phrase twice inside one paragraph — once in the added clause and once thirty words later in 'had done three hundred miles since'. Two uses in one paragraph is verbatim repetition, not a motif with four owners, and §8.2.3 protects only repetition whose job is named in the arc document before the third use, which this one is not. The phrase also had zero book-level headroom before the repair; Ch4 walks the border road and will want it.",
+      "repair_target": "Cut the phrase from the added clause, not from the boots. 'and the winter and the road had put more on him' keeps the sentence's work and returns the chapter to four, which restores the r1 position exactly. If the coordinator wants the motif protected properly rather than trimmed, enter it in the Book 8 plant ledger as a named motif with its job stated — Cael catalogues it, Vastin owns it, Brom prices it, Oryn finds it — before Ch4 is packeted, and the count stops being a tic question. Do not touch :95, :101 or :127; those three are the motif.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "':7, in a borrowed room at eighteen with nothing anywhere deciding what he was'. The r1 repair_target explicitly blessed keeping this clause on the Ostrand table ('where it is still true'), and the phrase is the series' shorthand for having no bin rather than for having no proceedings, so it is recorded here rather than raised. But book-06 chapter-17 sits between the cache and the ruling, with a live classification challenge whose whole subject is deciding what he is, and the sentence's nearest relative in the drafted prose is Book 6's closing line, which places it after the Line: 'for the first time in seven years, nothing anywhere was deciding what he was, except him'. If the coordinator wants the clause airtight, it belongs on the crossing, not on the office.",
+    "The meadow price is reconciled by construction rather than by arithmetic. ch01.md:13 has Pike naming 'Meadow rate is four a month for a crew that's on my sheet' as the tariff he knocks a winter's lodging down to; :55 now has him saying the meadow is free till the tents fill. The two can be held together — a rate that exists for a crew on the sheet, and ground that costs nothing before the season arrives — but a listener hears 'meadow rate: four a month' in one chapter and 'meadow's free' in the next, seven days apart, and has to do the reconciling. One clause in Ch3 or Ch4 from Pike would close it for good. Separately and still open from r1: STATE_RUNNING records the winter board as 'four a week' where ch01.md:13 says 'four a month', and the ledger's own 'twenty for five months' only works at four a month. The prose is right and the ledger is wrong; this is the coordinator's to fix and is not a defect in either chapter.",
+    "The author report's obligation evidence is stale in three places and quotes r1 text against r2 obligations — 'Fifty-six, or near it' at the arrival-catalogue obligation and 'That's not news, Marshal' at the Karis obligation. The report is a navigation aid and never evidence, so this is not raised against the draft, but a coordinator reading the report rather than the diff would conclude two repairs had not landed when in fact both did.",
+    "STATE_RUNNING's 'After Chapter 2' block needs three corrections after this repair, none of which the draft can make: it records Vastin as 'Fifty-six or near it' (now fifty-three), and it records 'the record of the last man who tried, very old, filed' as a claim on record, which is the material finding 007 removed from :109 and which no longer exists on the page. The Vastin claims list should carry two items now, not three.",
+    "':71, He came through the board' still spends the fixed exchange's own phrase twelve lines before Seln says it at :83. Carried unchanged from r1 and recorded again for the same reason: the turn's first four words arrive already heard, and one substitution at :71 would let the doorway lines land clean.",
+    "Lira's crossing is still delivered in past perfect at :123 rather than staged. The repair to finding 002 correctly left :73 alone, so the refusal at the fire survives intact, but the card's 'and sits' still happens off-beat. Recorded, as in r1, because the past-perfect placement does real work.",
+    "Vastin's knowledge of the Stair reach is still unsourced at :139. Carried from r1; the chapter supplies a usable answer in its own material and one clause would close it.",
+    "The table's decision still runs Seln, Brom, Karis, Oryn, Lira, Cael against the packet scene_shape's 'Karis first … Cael last'. Carried from r1; scene_shape is shape and not obligation, and Cael is still last.",
+    "Karis's 'Under every station on the continent. I said so at a table in the autumn.' is spent verbatim at :107 and is scheduled again in the Ch3 card. Flagged for the Ch3 packeting seat, not against this draft. The Ch3 card's staging note — Karis supplies the sub-layer from her own mouth before Vastin speaks — is now half-spent, and STATE_RUNNING's Ch3 block already records the sentence as used there too.",
+    "':7, A man built to hold a line' still sits near the prohibition on describing Vastin's Path. Carried from r1: it names nothing and passes, but the Ch4 seat, where Iron Wall is first declared, should know the image is already spent.",
+    "Word count is 3,976 against a floor of 3,910 — sixty-six words of margin, six words tighter than r1. Findings 013 and 015 both repair by cutting. If the coordinator wants headroom before Ch3, the concerns above that add (the :71 substitution, a clause sourcing Vastin's Stair knowledge, staging Lira's crossing) are the places to take it."
+  ],
+  "strengths": [
+    "The repair is exactly as advertised and the diff proves it. Thirteen changed lines out of a hundred and fifty-five, identical paragraph structure, no reflow, no opportunistic rewriting anywhere in the chapter — this is the revision discipline the craft core asks for, and it is what made a real recheck cheap. Every one of the twelve findings landed at its stated repair_target rather than near it.",
+    "Three of the repairs are better than the lines they replaced. ':107, That's not news, Vastin' is colder than 'Marshal' because it uses the name he asked for while telling him he has brought nothing. ':109' ending on 'nobody files a complaint about a wall' is a stronger last line than the three sentences that followed it. ':101, And that was the whole of Brom's price' finishes the paragraph in the idiom the paragraph already established twice. None of these reads like a patch.",
+    "The two hardest repairs — the ones that could have sanded away good work — did not. ':79' now counts the room instead of the chairs and keeps the mule's chair as the joke, and it does it while leaving Seln's doorway run (:81-:91) and Lira's refusal at the fire (:73) byte-identical. The r1 report named both as load-bearing and asked that they not be reopened, and they were not.",
+    "':143' is now correct to Book 6 down to the sightline logic. 'A borrowed office in Ostrand, four streets back from the registry seat, a room with nothing of anyone's in it' matches chapter-17.md:41's leasehold building and :63's 'a room with no version of any of them in it', and it restores the tradecraft the whole Book 6 chapter was built on. The series' keystone conversation is back where it happened.",
+    "The chapter's whole tic profile is now inside its caps except for the one phrase the repair itself pushed over: 'the way X [verb]' is three, one-word paragraphs are two, the charter's ten named phrases are zero, 'which was, in its own way' is zero, and the terminal-metadata grep is zero. The three fixed blocks are untouched and the closer sequence is intact.",
+    "The board scene survived being priced twice. ':51-:55' still runs the whole obligation through procedure — the question asked to the book and not the man, the tariff as the ruling, the near-recognition withheld — and the two new clauses are Pike's own register rather than an editor's reconciliation stapled on.",
+    "Vastin's want, the arrival catalogue's negative space, Karis's not-saying west, and the ask-first payoff in Vastin's mouth are all exactly as r1 left them. The repair pass did not touch a single one of the chapter's best paragraphs, which is the whole point of a targeted repair and is not the usual outcome."
+  ]
+}

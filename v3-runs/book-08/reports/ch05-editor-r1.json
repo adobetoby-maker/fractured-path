@@ -1,0 +1,16 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch05-r1-editor",
+  "scene_id": "b8-ch05",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "IN PROGRESS — review underway",
+      "state": "NEEDS_HUMAN_JUDGMENT",
+      "evidence": "Skeleton written early per run instruction so partial work survives interruption. Review of v3-runs/book-08/drafts/ch05.md against the Ch5 card, the plant ledger, the voice charter and Ch3/Ch4 is in progress; this file will be replaced with the completed verdict."
+    }
+  ],
+  "findings": [],
+  "concerns": [],
+  "strengths": []
+}

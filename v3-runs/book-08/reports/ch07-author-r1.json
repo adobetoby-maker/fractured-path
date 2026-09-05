@@ -1,0 +1,59 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch07-r1",
+  "scene_id": "b8-ch07",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch07.md",
+  "word_count": 3966,
+  "obligations": [
+    {
+      "obligation": "The day dated and placed; the city closer all day",
+      "status": "MET",
+      "evidence": "The wayposts (nine, six, three miles); the colour of the walls at three; the last post short of the river; the 281st in the log."
+    },
+    {
+      "obligation": "The reading as sensation and shape; the ten named; Tide the instrument; the still place read AROUND",
+      "status": "MET",
+      "evidence": "The ten in the inventory's words ('the Bronze from Ardenmere'); 'you could not read the reader'; 'He read around it … He stopped at the bend.'"
+    },
+    {
+      "obligation": "The distinction with Oryn's order stated",
+      "status": "MET",
+      "evidence": "'She had not said do not read yourself. The reading was his … He would read around. He would not touch the thing she had told him not to touch.'"
+    },
+    {
+      "obligation": "The suspicion: the wrong instrument",
+      "status": "MET",
+      "evidence": "'He had been putting a cord on a stone and writing down no length.' / 'You cannot measure a stillness with a thing that only feels movement.' / the fifth reading as a test."
+    },
+    {
+      "obligation": "No-deflection scene (Gate 25)",
+      "status": "MET",
+      "evidence": "'He was afraid of that … a nineteen-year-old with ten things and a hole in the middle of them that he had been measuring with the wrong tool' — not catalogued, not counted; and the exchange with Vastin."
+    },
+    {
+      "obligation": "Cael and Vastin walking; instrument and error; one true thing each; not friendship",
+      "status": "MET",
+      "evidence": "'You were the instrument. I was the error.' / Vastin's confession of the declined second reading; Cael's 'I've been putting a cord on a stone'; 'It was not friendship … It was the ground the thing grows in.'"
+    },
+    {
+      "obligation": "Close on the fixed log verbatim",
+      "status": "MET",
+      "evidence": "The final paragraph reproduces the card's text; the file ends on it."
+    }
+  ],
+  "inventions": [
+    "The wall's colour (ochre); the wayposts' mile counts; Vastin's account of declining the second reading at Norhold ('a lie I wrote in my own hand') — a new fact about Vastin's interior, no new institutional fact.",
+    "Lira's walk beside him and her own not-looking at the tops of walls."
+  ],
+  "state_change_proposals": [
+    "Day 281: the last post short of the river; camp; Treswick 'tomorrow'. Cash 138.",
+    "Cael's finding: the reading is the wrong instrument for the still place (five readings; 'a cord on a stone'); he needs an instrument for what doesn't move; Karis's word 'how things are built' noted.",
+    "Vastin's confession: he declined the second reading at Norhold because he would not be the man who decided what the first meant; 'I let a boy carry my not-deciding across a continent as a piece of paper.' Cael did not forgive; was not asked to.",
+    "Cael told Vastin the one thing nobody holds: the instrument's nothing. No rank between them."
+  ],
+  "deviations": [
+    "Vastin's confession about the declined reading is a new interior fact for him (consistent with B4/B6: he declined a second reading and 'sent it up'); flagged for the editor as invention within the budget's 'one true thing'."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch01-verifier-r3",
+  "scene_id": "b8-ch01",
+  "editor_run_id": "b8-ch01-r3-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH01-014",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch01-r3.md → drafts/ch01.md: one line changed (15)",
+        "grep of every italic log line for third-person self-reference: none"
+      ],
+      "reason": "Line 15 now first-person: 'I said the one word back, and the season line above our names stayed blank, which was a thing Pike had done on purpose' — no pen, no third-person self-reference. One-clause repair of a defect the r2 repair introduced; the loop's three paid rounds are spent; verified by diff and closed by the planning seat (recorded in STATE_RUNNING)."
+    },
+    {
+      "finding_id": "F-B8-CH01-015",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch01-r3.md → drafts/ch01.md: one line changed (15)",
+        "grep of every italic log line for third-person self-reference: none"
+      ],
+      "reason": "Line 15 now first-person: 'I said the one word back, and the season line above our names stayed blank, which was a thing Pike had done on purpose' — no pen, no third-person self-reference. One-clause repair of a defect the r2 repair introduced; the loop's three paid rounds are spent; verified by diff and closed by the planning seat (recorded in STATE_RUNNING)."
+    }
+  ]
+}

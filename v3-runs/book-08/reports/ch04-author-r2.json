@@ -1,0 +1,109 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch04-r2",
+  "scene_id": "b8-ch04",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch04.md",
+  "word_count": 4823,
+  "obligations": [
+    {
+      "obligation": "F-B8-CH04-001 (HIGH): The fixed text is packet-mandated and must not be touched by the author. Repair the author's own spans instead",
+      "status": "MET",
+      "evidence": "Vastin's wound is the knee — Oryn: 'the knee's gone … That's the wound, and it's a real one'; the log's injuries entry: 'the knee … gone under him; Oryn bound it and said a month. That's the wound.' 'Not hurt' removed from both spans; the fixed text untouched."
+    },
+    {
+      "obligation": "F-B8-CH04-002 (MEDIUM): At ch04.md:119, restore the lock as a cost rather than a pause — the one count is what the hounds are closing ",
+      "status": "MET",
+      "evidence": "The lock restored as a cost: 'The lock was on him — the beat after a burst that he could not price a hit inside … he went sideways off the road, out of the lock and not through it'; the log's bill carries 'a locked landing beat with nothing in it this time'."
+    },
+    {
+      "obligation": "F-B8-CH04-003 (MEDIUM): One clause, at ch04.md:37 or ch04.md:61 or in the walk-in at ch04.md:79–83, that reconciles the two: either th",
+      "status": "MET",
+      "evidence": "The factor's account extends the mechanic: 'a den beside a road learns the road — lately they come up at whatever crosses'."
+    },
+    {
+      "obligation": "F-B8-CH04-004 (MEDIUM): At ch04.md:101, narrow the claim to what the beat actually shows: the pack does not stop, because nothing abou",
+      "status": "MET",
+      "evidence": "'They did not stop, because nothing about the wall had stopped being loud'."
+    },
+    {
+      "obligation": "F-B8-CH04-005 (MEDIUM): Either qualify the assertion at ch04.md:89–91 (the plane holds the road and the road's width, and the scree ab",
+      "status": "MET",
+      "evidence": "The plane 'the road's width; the scree above it was not road'; the rounding hound 'slow, the loose slope taking its feet at every step'."
+    },
+    {
+      "obligation": "F-B8-CH04-006 (MEDIUM): At ch04.md:27, either drop the date and keep the observation that carries the plant — the road is old, laid by",
+      "status": "MET",
+      "evidence": "'a long time ago, with instruments' — no date."
+    },
+    {
+      "obligation": "F-B8-CH04-007 (MEDIUM): At ch04.md:159–161 or ch04.md:169, give Oryn the knee in one clause — she has been waiting to be asked since C",
+      "status": "MET",
+      "evidence": "The knee given to Oryn (see 001)."
+    },
+    {
+      "obligation": "F-B8-CH04-008 (MEDIUM): Keep all four acts of cataloguing and vary at least two of the four openings so the construction is not the se",
+      "status": "MET",
+      "evidence": "Two of the four section openings recast (the silence; the costs)."
+    },
+    {
+      "obligation": "F-B8-CH04-009 (LOW): The fixed log text is closed, so the sentence belongs in the body, at or just after ch04.md:125, in the remova",
+      "status": "MET",
+      "evidence": "Removal-form win-sentence added after the image: 'he took away the pack's ability to converge on the rooted man by being louder than the wall for three breaths and then not'."
+    },
+    {
+      "obligation": "F-B8-CH04-010 (LOW): At ch04.md:113, cut the italic sentence and keep the shape — the rooted man, the pack, the road, and the ford'",
+      "status": "MET",
+      "evidence": "The italic pre-statement cut; Vastin's mouth is the sentence's only appearance."
+    },
+    {
+      "obligation": "F-B8-CH04-011 (LOW): At ch04.md:19, either make the count right against the page or scope it to what Vastin actually watched being ",
+      "status": "MET",
+      "evidence": "'two words, both of them Ours'."
+    },
+    {
+      "obligation": "The decision west staged as a contract taken at Pike's plank, dated; Brom's price; Pike's sixth line",
+      "status": "MET",
+      "evidence": "278th; the slip; 'Ours,' Karis said, before Brom could; 'he wrote a sixth line under the five, shorter, and did not write a seventh.'"
+    },
+    {
+      "obligation": "Geography drawable before the first exchange",
+      "status": "MET",
+      "evidence": "The cut catalogued from the shoulder's lip: a hundred strides, the frozen runnel a stride wide, scree both sides, the sink fifty meters below and north; positions set in dialogue."
+    },
+    {
+      "obligation": "Four exchanges; Iron Wall shown and its limit shown before Ch12",
+      "status": "MET",
+      "evidence": "(1) the pack up out of the sink; the wall across the road; 'It held'; 'the man who had drawn it could not move'; (2) Brom silent with the rock, Lira down the scree, Seln nowhere; (3) Cael's burst AWAY from the wall, then still on the scree; the six turn back — 'The rooted thing they could not move was the thing they broke on'; (4) the runnel and steel after the heap."
+    },
+    {
+      "obligation": "Win-sentence and Vastin's lesson said once",
+      "status": "MET",
+      "evidence": "'The wall held the line … And someone else had to be the reason they wanted the line.' / 'I have never once in forty years needed someone else to be the reason.' / 'You do now.'"
+    },
+    {
+      "obligation": "Costs ledgered forward; Oryn's hands, never in the fight",
+      "status": "MET",
+      "evidence": "Brom's boot and foot; Vastin 'spent to the floor'; the burst's bill; the log's injury list for all seven; Oryn at the cut's east end until the wall came off."
+    },
+    {
+      "obligation": "Close on the log with the card's fixed text verbatim",
+      "status": "MET",
+      "evidence": "Final paragraph reproduces the card text exactly; the file ends on 'Almost.'"
+    }
+  ],
+  "inventions": [
+    "'The shoulder hold' (named by role); its factor; the wayposts on the kept road; the pack of eight; the slip's price (twenty).",
+    "Oryn's two fingers on Vastin's wrist; her line 'a wall with nothing behind it is a man alone in a road being loud'."
+  ],
+  "state_change_proposals": [
+    "Days 278 (the slip; departure) and 279 (the cut; the fight; the log). Cash 118 → 138 (the hold's twenty). Pike's sheet: HOLD, five names, a sixth line for the healer; Vastin not on the sheet.",
+    "Injuries: Brom right foot (tooth through the boot), bound; shoulder carried, unread twice; Vastin spent, not hurt; Cael's burst bill; five hounds dead, three into the sink.",
+    "Iron Wall SHOWN: a plane across the road, rooted, held 'until it was done'; the limit taught.",
+    "VASTIN'S WOUND: the right knee — gone under him from being the wall's foot on stone; bound by Oryn; 'a month'. (The knee tracked since Ch2 is now the injury the fixed log names.)"
+  ],
+  "deviations": [
+    "Targeted repair r1→r2: fourteen exact-string replacements; r1 at drafts/ch04-r1.md; the fixed log text byte-identical."
+  ],
+  "blockers": []
+}

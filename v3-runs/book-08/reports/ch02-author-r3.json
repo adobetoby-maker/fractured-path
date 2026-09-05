@@ -1,0 +1,90 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch02-r3",
+  "scene_id": "b8-ch02",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch02.md",
+  "word_count": 3977,
+  "obligations": [
+    {
+      "obligation": "F-B8-CH02-013 (MEDIUM): Drop the interval or make it true. The clause does its work without a number — 'and the winter and three hundr",
+      "status": "MET",
+      "evidence": "':23' now 'the winter and the road … the months since a room in Ostrand' — no interval number, and 'three hundred miles' back to four uses."
+    },
+    {
+      "obligation": "F-B8-CH02-014 (MEDIUM): Give Lira the encounters she actually had, or stop placing her in rooms. The paragraph's real claim — that she",
+      "status": "MET",
+      "evidence": "':65' — Lira 'at a wing gate at sixteen while a marshal was inside reading a page' (B4's inspection: she was at the wing gate, not in the room)."
+    },
+    {
+      "obligation": "F-B8-CH02-015 (LOW): Cut the phrase from the added clause, not from the boots. 'and the winter and the road had put more on him' ke",
+      "status": "MET",
+      "evidence": "':23' now 'the winter and the road … the months since a room in Ostrand' — no interval number, and 'three hundred miles' back to four uses."
+    },
+    {
+      "obligation": "The ferry's first run lands as a scene, dated; the Line's lead; the season's first mail; the ferry turns back west the same day",
+      "status": "MET",
+      "evidence": "'on the two hundred and seventy-seventh day past the Line, at first light'; 'the Line's lead on the sack'; last paragraph: 'the ferry pushed off from the landing with the season's first sack going west'."
+    },
+    {
+      "obligation": "Vastin catalogued as what he IS now before who he was",
+      "status": "MET",
+      "evidence": "'Fifty-six, or near it … A traveling coat, brown … A pack, one strap mended with cord. A stick … a knee that had been asked for more miles than it had agreed to'; 'No grey. No seal. No clerk behind him with a book.'"
+    },
+    {
+      "obligation": "The board prices him at nothing, aloud, Pike's 'What'd he do?'",
+      "status": "MET",
+      "evidence": "'\"What'd he do?\" Pike said. Not to Vastin. To the book.' / '\"Nothing,\" Vastin said. \"Out here. Nothing yet.\"' / '\"Then he's nothing yet.\"'"
+    },
+    {
+      "obligation": "Seln's doorway exchange verbatim and contiguous",
+      "status": "MET",
+      "evidence": "Four lines as fixed: 'You came through the board.' / 'I came through the board.' / 'Then you already know it doesn't care who you were.' / 'I'm learning,' Vastin said."
+    },
+    {
+      "obligation": "Vastin states why he came (a name and a locked layer); no pack opened; no Architect; no six years",
+      "status": "MET",
+      "evidence": "'A name. And a locked layer.'; 'He did not open the pack.'; the citation described as 'a designer, a single individual, that the record does not identify'; Treswick named as the dead-end. No 'Architect', no 'six years'."
+    },
+    {
+      "obligation": "Karis hears the layer as the sub-layer she carried; reacts to the inaccessibility",
+      "status": "MET",
+      "evidence": "'Under every station on the continent. I said so at a table in the autumn.' / 'That's not news, Marshal … Say the part that's new.' / Vastin: 'No living official can reach it … Not will not. Cannot.'"
+    },
+    {
+      "obligation": "Vastin's want in a beat about him",
+      "status": "MET",
+      "evidence": "'And Vastin, having said it, had nothing.' paragraph: the response no longer his; watching Karis own it."
+    },
+    {
+      "obligation": "Lira last to sit — and sits",
+      "status": "MET",
+      "evidence": "'She had sat down last — after Seln, after Oryn, after Brom … at the far end … with her two arms on the wood'."
+    },
+    {
+      "obligation": "Oryn's finding on the knee, no touch, no vote",
+      "status": "MET",
+      "evidence": "'That knee's carried him three hundred miles and he hasn't asked me for anything.'"
+    },
+    {
+      "obligation": "Fixed closing dialogue verbatim; 'Nobody answers' as narration; the ferry line last",
+      "status": "MET",
+      "evidence": "Karis's question; 'Because a council would file it…' through 'I'd like to dig one up before I'm done.'; 'Nobody answered him.'; the ferry pushing off is the last sentence."
+    }
+  ],
+  "inventions": [
+    "Vastin's kit and walk (brown road coat, ash stick, mended pack strap, the knee); 'Vastin will do; it did for my father'.",
+    "Teague's crew's glance at the door end (unnamed by role); Pike's meadow/inn prices for a man alone.",
+    "Cael's memory of the B6 sentence (quoted once, in italics, as memory)."
+  ],
+  "state_change_proposals": [
+    "Day 277: the first ferry; Vastin at Lowmarch, lower inn, a mark a night, paying his own way; heard, not admitted; pack unopened.",
+    "Vastin's claims on record: the sub-layer is one no living official can reach ('Cannot'); a designer's citation whose trail dead-ends at Treswick's pre-Compact archive; the restriction on Cael pending jurisdiction and unexecutable beyond the Line; nothing follows him.",
+    "Lira two-armed 'for eleven days' (266th→277th) — consistent.",
+    "Karis has not said 'west'; the map stays in her coat."
+  ],
+  "deviations": [
+    "r2→r3: two exact-string replacements (r2 at drafts/ch02-r2.md); closed after r2 recheck (MEDIUM/LOW only)."
+  ],
+  "blockers": []
+}
