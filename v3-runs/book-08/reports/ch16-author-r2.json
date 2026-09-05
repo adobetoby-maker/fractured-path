@@ -1,0 +1,65 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch16-r2",
+  "scene_id": "b8-ch16",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-08/drafts/ch16.md",
+  "word_count": 3950,
+  "obligations": [
+    {
+      "obligation": "The no-deflection scene (Gate 25): the distinction held plainly in interior, not counted",
+      "status": "MET",
+      "evidence": "'He took it now. He did not catalogue it.' … 'The leaf said the door was him.' … 'He was the reason the machine had been built to parse.' … 'He did not put it beside the still place, or the cord … because those were entries and this was not an entry; this was the page the entries were written on.'"
+    },
+    {
+      "obligation": "Lira first, varied; her fixed line verbatim",
+      "status": "MET",
+      "evidence": "The notebook handed over, read twice, handed back; 'So the whole time they weren't afraid you'd break something. They were afraid you'd exist.'"
+    },
+    {
+      "obligation": "The circle in register; Vastin's fixed line with the in-world substitution",
+      "status": "MET",
+      "evidence": "Brom: 'the whole sheet was drawn so there couldn't be one'; Seln: 'Now I know what the office is for'; Karis: 'Two pages'; Vastin: 'I believed it was imperfect. … In Ostrand I learned it was corrupt. … Now you're telling me it was aimed.' / 'At a category. Which turned out to be a person. Who's sitting across the fire.'"
+    },
+    {
+      "obligation": "Excluded vs prevented held precise; filed as data",
+      "status": "MET",
+      "evidence": "'A thing that is excluded is a thing the makers forgot to make room for. A thing that is prevented is a thing the makers built the whole house to keep from being born in it.'; the one sentence at the close."
+    },
+    {
+      "obligation": "Cleon's decade present — at the fire once",
+      "status": "MET",
+      "evidence": "'Cleon had come up.' … 'a man who has carried a thing alone for a decade wants, once, to see it carried, and then he can go back down.'"
+    },
+    {
+      "obligation": "The fixed closing dialogue verbatim with the authorized substitutions; ends on 'I want to stand in the middle of it.'",
+      "status": "MET",
+      "evidence": "Final exchange; 'Karis has a bearing and the marks, and the records to read them against.'"
+    },
+    {
+      "obligation": "Discipline: no Arbiter=apparatus; no Architect present; two pages stand; the still place not connected",
+      "status": "MET",
+      "evidence": "Karis: 'I'm not drawing a line'; Vastin's 'aimed' is the apparatus's purpose; Cael does not set the leaf beside the still place."
+    },
+    {
+      "obligation": "READER STANDARD",
+      "status": "MET",
+      "evidence": "gates: banned words 0."
+    }
+  ],
+  "inventions": [
+    "The yard's brazier and the broker's broken crate; Cleon coming up once; Lira's exchange with Vastin ('You signed the mark at kindlings.' / 'His?' / 'No … I would have.'); Cael standing to take it.",
+    "'a difference filed' as the family's register for a thing being taken."
+  ],
+  "state_change_proposals": [
+    "Day 293 evening: POLE TWO taken at the yard's brazier — 'It didn't forget. It was built so there'd be no room … I happened anyway.' Lira first: 'They were afraid you'd exist.' Brom: the bad sheet; Seln: keeps the cache 'a while longer', knowing now what the office is for; Karis: two pages, asleep on a bucket; Cleon came up once, went back down ('Tomorrow the rest of the leaf. The list of parts. It's work, not a finding'); Vastin: imperfect → corrupt (Ostrand) → aimed; 'I would have' (signed the mark).",
+    "Next: the oldest site; the bearing; the marks and the records to read them against (Ch17)."
+  ],
+  "deviations": [
+    "'Book 6' in the card's fixed line rendered as 'In Ostrand I learned it was corrupt' (authorized substitution); 'the grade' rendered as 'the marks, and the records to read them against' (authorized).",
+    "'four hundred' ×3 (two in the fixed close; one in interior — the record's date).",
+    "READER STANDARD (Gate 27): banned-word grep 0; no violence; no sexual content; conduct honest (Vastin's 'I would have' named as wrong, neither excused nor punished).",
+    "r2 (repairs of r1 STRUCTURAL_HOLD): the stair beat re-pitched (Lira heard the leaf in the chamber; the page is the thing she should read before anyone talks at her); Cleon's interior re-anchored as Cael's guess and his own table-said words; Vastin's fixed unit 'At a category. Which turned out to be a person. Who's sitting across the fire.' restored contiguous with the form-speech moved before it; the dividers beat moved ahead of the closing speech; 'Nobody said anything' reduced to one; 'Six of them round it'; Karis's eyes; Brom's ledger-line economy; the exchange closer varied. RULING (row 23): watching Cleon at the table counts from the 285th — nine days on the 293rd; Ch15's 'eight days' corrected to nine in place."
+  ],
+  "blockers": []
+}

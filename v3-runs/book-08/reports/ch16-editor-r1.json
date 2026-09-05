@@ -1,0 +1,363 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch16-r1-editor",
+  "scene_id": "b8-ch16",
+  "verdict": "STRUCTURAL_HOLD",
+  "gate_results": [
+    {
+      "gate": "AUTHORITY — continuity with the previous chapter (Craft Core §Authority; reader-trust invariant 3)",
+      "state": "FAIL",
+      "evidence": "Ch16 stages Lira as not having heard the reveal ('He told Lira the only thing that was his to tell, which was that there was a thing, and that it was on a page', line 5). Ch15 puts her in the chamber through the whole reading ('Lira, standing, with her two hands at her sides, not looking at the leaf. Looking at Cael. She had been looking at Cael since the word *kindling* and had not stopped' — ch15.md line 49). See F01."
+    },
+    {
+      "gate": "POV integrity (Craft Core reader-trust invariant 1 — inference must read as inference)",
+      "state": "FAIL",
+      "evidence": "Line 55 anchors once ('Cael, who had watched him for nine days, saw that…') then runs ~200 words of Cleon's interior, history and future as flat fact: 'He was thinking about the yard…', 'He had not slept well for ten years. He was not going to sleep well tonight.' See F03."
+    },
+    {
+      "gate": "COUNT INTEGRITY (the cataloguing narrator's own arithmetic)",
+      "state": "FAIL",
+      "evidence": "Two defects: 'nine days' watching Cleon (lines 17, 55) against Ch15's 'eight days' on the same day, the 293rd (ch15.md line 91); and 'Six people round it and the seventh not there' (line 13) heading an enumeration that names seven bodies in the yard. See F02, F07."
+    },
+    {
+      "gate": "PACKET — fixed lines verbatim (Lira; Vastin; the close)",
+      "state": "FAIL",
+      "evidence": "Exact-string check: Lira's line HIT; 'I believed it was imperfect.' HIT; 'I learned it was corrupt.' HIT; 'Now you're telling me it was *aimed*.' HIT; 'For five years I thought the system forgot to make room for me,' HIT; 'It didn't forget. It was *built* so there'd be no room. Four hundred years of a whole world, so that I wouldn't happen.' HIT; 'He turned it over once.' HIT; 'I happened anyway.' HIT; 'Lira, across the fire: \"Yeah.\" A beat. \"Now what.\"' HIT; 'Now we find out how old the oldest one is.' HIT; 'Karis has a bearing and the marks, and the records to read them against. There's a site at the end of the line that's been quiet since they built the machine.' HIT; 'He looked at the straightedge in his hands.' HIT; 'I want to stand in the middle of it.' HIT and file-final. MISS as a contiguous unit: 'At a category. Which turned out to be a person. Who's sitting across the fire.' — split by ~130 words (line 71). See F04, F08."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — anti-tic list (≤3 per book for any beat phrase)",
+      "state": "FAIL",
+      "evidence": "'Nobody said anything' — 2 in this chapter (lines 31, 69), 14 across the 24 drafted chapters; 'That was correct' — 4 book-wide, one of them here (line 69), one in Ch15 (ch15.md line 17). Both exceed the ≤3-per-book cap. See F05."
+    },
+    {
+      "gate": "PACKET — must_include obligations (no-deflection scene; Lira first varied; the circle in register; Cleon's decade; excluded-vs-prevented; the fixed close)",
+      "state": "PASS",
+      "evidence": "Gate 25 movement at lines 87–111 ('He took it now. He did not catalogue it.' / 'He did not turn it into a count.' / 'this was the page the entries were written on'); Lira reads and hands back (19–37); Brom prices (45), Seln one decision (47), Karis two pages and exhaustion (49–51), Vastin's three-step (67–71); Cleon at the fire once and gone (15, 53–59); the distinction stated plainly (101, 103, 105); the file ends on 'I want to stand in the middle of it.'"
+    },
+    {
+      "gate": "PACKET — prohibited outcomes (no volume reference/meta-voice; no declared change; no grade cracked; no departure; no image or log closer)",
+      "state": "PASS",
+      "evidence": "grep for volume references and meta-voice: zero (the only 'Chapter' string is the title line). 'Book 6' rendered as 'In Ostrand I learned it was corrupt' (line 67) — the authorized substitution. Growth-declaration grep ('was no longer the boy who', 'he had changed'): zero. 'the grade' rendered as 'the marks, and the records to read them against' (line 119). No taxonomy cracked, no departure staged (Cleon: 'Tomorrow the rest of the leaf', line 59). Closer is dialogue, not image or log."
+    },
+    {
+      "gate": "SECRET DISCIPLINE (no Arbiter=apparatus; no Architect present/will/reset; the still place never the Quiet; two pages stand)",
+      "state": "PASS",
+      "evidence": "grep counts in ch16.md: 'Arbiter' 0, 'Architect' 0, 'reset' 0, 'primordial' 0, 'the Quiet' 0. 'still place' appears once (line 107) and only as an explicit NON-connection: 'He did not put it beside the still place… because those were entries and this was not an entry'. Karis holds the line: 'I'm not drawing a line' (line 51). See concerns for two items planning should eye."
+    },
+    {
+      "gate": "GATE 27 — READER STANDARD (thirteen-year-old reader)",
+      "state": "PASS",
+      "evidence": "Banned-word grep (damn/hell/bastard/bloody/crap/oaths/crude slang/profanity) returns zero. No sexual content; no violence in the chapter at all. Conduct is honest and restrained throughout; Vastin names his own worst fact before he is asked ('I would have.', line 79) and is not let off ('Yes… You would have.', line 81); wrong is named as wrong; nobody is mocked."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — declared caps (one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; 'for the length of a breath' 0; 'at the pitch' 0)",
+      "state": "PASS",
+      "evidence": "One-word paragraphs: 1 ('\"His?\"', line 77). 'the way X [verb]': 4 — lines 7, 13, 27, 55 (at cap, no headroom). 'upside down' 0; 'for the length of a breath' 0; 'at the pitch' 0."
+    },
+    {
+      "gate": "NAME REGISTRY — forbidden names",
+      "state": "PASS",
+      "evidence": "grep -iE 'halcenvane|velmere|wray|bracken' over ch16.md returns zero."
+    },
+    {
+      "gate": "VOICE CHARTER §10 — density (target 4,600 ±15% = 3,910–5,290)",
+      "state": "PASS",
+      "evidence": "wc -w ch16.md = 3,929 (3,921 excluding the H1). In band by 19 words. See concerns."
+    },
+    {
+      "gate": "VOICE CHARTER §8 — audio survival (§8.2 typography, §8.3 system text, §8.4 metadata, §8.5 attribution)",
+      "state": "PASS",
+      "evidence": "No system/fragment blocks in the chapter. Italics are emphasis only ('*exist*', '*built*', '*aimed*') and every sentence lands stripped of formatting. Metadata grep ('End of Chapter', 'approximately … words', word count) returns zero — the only 'draft' hit is the verb in 'He did not draft anything' (line 83). Longest unattributed run is 3 (lines 75–79)."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — scene-closer rule (no two consecutive chapters end on the same move)",
+      "state": "PASS",
+      "evidence": "Ch15 closes on the copied document (the passage and 'Older. Made. Us.'); Ch16 closes on dialogue ('I want to stand in the middle of it.')."
+    },
+    {
+      "gate": "VOICE CHARTER §7.2 — growth behavioral, not declared",
+      "state": "PASS",
+      "evidence": "One sentence of filing, and it is the packet's fixed close (line 115). Interior is framed as filing, not change: 'the having was not a change; he did not permit himself a change declared at a fire, only a difference filed' (line 113)."
+    },
+    {
+      "gate": "THE AUTHOR Gate 25 — scheduled quiet (protagonist processing without deflection)",
+      "state": "PASS",
+      "evidence": "Lines 87–111 carry the movement with no joke, no lampshade and no count: 'He took it now. He did not catalogue it.' (89); 'He sat with that. He did not turn it into a count.' (107)."
+    },
+    {
+      "gate": "THE AUTHOR Gate 23 — dramatized critique (institution acts on someone, not protagonist speech alone)",
+      "state": "PASS",
+      "evidence": "The institution is in the yard and answers for itself: 'I have signed the mark at more kindlings than I could count' (line 71); 'His?' / 'No. I read it, after. I did not sign it.' / 'I would have.' (lines 77–79)."
+    },
+    {
+      "gate": "MODULE — progression (editor gates 1–7)",
+      "state": "PASS",
+      "evidence": "No visible-track advancement is claimed. The human-track delta is the chapter's whole business (pole one → pole two) and its cause is on the page (the leaf, read in Ch15). Setback metabolized into changed behaviour: the destination named ('a site at the end of the line', line 119). Institutions do not freeze — Cleon acts on his own clock and leaves; Vastin's forty years are re-priced against him."
+    },
+    {
+      "gate": "PLANNING RULING 16 — no mule in Treswick; the inn's shed empty",
+      "state": "PASS",
+      "evidence": "'The inn's yard, walled on three sides, a shed on the fourth, empty.' (line 13). No mule anywhere in the chapter."
+    },
+    {
+      "gate": "PLANNING RULING — the chapter clock (Ch15 and Ch16 are the 293rd)",
+      "state": "PASS",
+      "evidence": "'The two hundred and ninety-third day, at the bell.' (line 7)."
+    },
+    {
+      "gate": "PLANNING RULING — 'four hundred years' once here as the leaf's date in Cael's reflection",
+      "state": "PASS",
+      "evidence": "Two instances only: line 101 ('four hundred years of a whole continent's ordering') — the permitted reflection instance — and line 115, which is inside the packet's mandatory fixed close and cannot be removed."
+    },
+    {
+      "gate": "PLANNING RULING 20 — Vastin's 'forty years' is his own rounding, not a finding",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "'it had taken me forty years to arrive at' (line 67) and 'I have administered that apparatus for forty years' (line 71). Recorded, not filed as a defect, per DECISIONS-B7-RECONCILIATION.md row 20."
+    },
+    {
+      "gate": "VOICE CHARTER §4 / THE AUTHOR combat gates 9–16",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat in the chapter."
+    },
+    {
+      "gate": "VOICE CHARTER §5 / THE AUTHOR gate 22 — system blocks, fragment notices, box ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fragment notice or system block renders in this chapter; the only fragment reference is the count ('twelve pieces of a craft', line 55)."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "status": "PROPOSED",
+      "severity": "BLOCKER",
+      "category": "continuity / authority conflict with the previous chapter",
+      "gate": "AUTHORITY — continuity with the previous chapter (Craft Core §Authority ladder; reader-trust invariant 3)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "He told Lira the only thing that was his to tell, which was that there was a thing, and that it was on a page, and that she should read the page before anyone said anything to her about it, and she said, \"Now?\" and he said, \"At the fire,\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 49,
+        "line_end": 49,
+        "quote": "Lira, standing, with her two hands at her sides, not looking at the leaf. Looking at Cael. She had been looking at Cael since the word *kindling* and had not stopped, and he did not look back, because if he looked back he would have to have a face, and he did not have one yet."
+      },
+      "consequence": "Lira was in the chamber for the whole of Karis's reading in Ch15 — she is one of the six below and heard the passage said aloud. Ch16 opens by having Cael inform her that a thing exists and is on a page, which a reader coming straight from Ch15 will read as the book losing track of who was in the room for its central reveal. The defect is also internal: the same paragraph says the passage 'was not going to be said again by anyone who had heard it… and the five of them had agreed', a count that only works if Lira is among the five who heard, and line 9 marks Seln out as the one who 'had been above and had not heard the leaf' — which is only a distinction if everyone else, Lira included, did hear it. The Lira-first ritual does not need the false premise: she heard it read and has never seen it written, and the three words under the passage were written, not spoken (ch15.md line 101), so handing her the page is still new.",
+      "repair_target": "Line 5 (and check line 19's staging). Re-pitch the stair beat from 'there is a thing you don't know about' to 'the thing you heard is on a page now, and I want you to read it before anybody talks at you about it' — keeping 'He told Lira on the stair', 'Now?' / 'At the fire', and the whole of the yard beat untouched.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F02",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity / count",
+      "gate": "COUNT INTEGRITY (the cataloguing narrator's own arithmetic)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 17,
+        "line_end": 17,
+        "quote": "The man had never once, in nine days, left his table before the bell, and had never once come up the stair with the party"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 91,
+        "line_end": 91,
+        "quote": "and Cael, who had watched him for eight days, saw that the man was not looking at the scraped place."
+      },
+      "consequence": "Ch15 and Ch16 are the same day — the 293rd, per the planning ruling and line 7 — and give Cael two different counts for the same span of watching Cleon: eight days in the morning, nine in the evening. The draft repeats 'nine days' twice (lines 17 and 55), so it is not a slip of one word. In a book whose narrator counts for a living, and whose reader has been taught to trust the counts, a same-day disagreement is the kind of thing that is noticed. Related ruling: DECISIONS row 22 fixes 'eight days inside' as the 284th-to-292nd count, which would make the 293rd the ninth — so the two chapters may both be defensible under different scopes, but they cannot both stand unreconciled on the page.",
+      "repair_target": "Lines 17 and 55 — or Ch15 line 89. Planning should state the scope once (from the 283rd stair-foot meeting, or from the 284th first day at the table) and both chapters should count from it.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F03",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "viewpoint",
+      "gate": "POV integrity (Craft Core reader-trust invariant 1)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 55,
+        "line_end": 55,
+        "quote": "He had thought about the leaf for a decade and had done all the thinking a decade allowed. He was thinking about the yard: six people and an empty shed and a cup on a wall for somebody who was not there … He had not slept well for ten years. He was not going to sleep well tonight."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 91,
+        "line_end": 91,
+        "quote": "And his face was the face of a man who has been right for thirty years and has just found out, at a table, in a hole, with five strangers, that being right was never going to have been the relief he had thought"
+      },
+      "consequence": "The paragraph anchors its inference once — 'Cael, who had watched him for nine days, saw that the man was not thinking about the leaf' — and then runs roughly two hundred words of Cleon's interior, his decade, and his coming night as flat narrated fact, including a prediction about a sleep that has not happened. Ch15 does the same move and keeps the hedge visible ('the face of a man who…'), which is the series' register. Here the hedge drops, and Cael acquires knowledge the close third cannot hold: a reader who has been trained by fifteen chapters to read this narrator's guesses as guesses will read this stretch as authorial omniscience, and the effect is that Cleon stops being a man Cael is watching and becomes a man the book is explaining.",
+      "repair_target": "Line 55 — re-anchor once in the middle of the run (Cael's read, Cael's guess) and convert the two flat future/interior assertions back to the Ch15 register.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F04",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "packet fixed line",
+      "gate": "PACKET — fixed lines verbatim",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 71,
+        "line_end": 71,
+        "quote": "\"At a category.\" He said the word carefully, as a man says a word from a form. \"That is what the leaf says. I heard it read. The un-bound. A kind. … It was never for measuring. It was for *preventing*. And the category — \" He looked, then, for the first time since the fire was lit, at Cael. \"Which turned out to be a person. Who's sitting across the fire.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch16-editor-prompt-r1.md",
+        "line_start": 473,
+        "line_end": 473,
+        "quote": "Vastin's line ('aimed … at a category. Which turned out to be a person. Who's sitting across the fire')"
+      },
+      "consequence": "The packet gives Vastin's second fixed unit as one closed quotation — 'At a category. Which turned out to be a person. Who's sitting across the fire.' — in the purpose, the scene_shape turn, the obligations and the chapter card, all four times without an ellipsis (unlike the first unit, which the packet itself renders with '…' and therefore licenses breaking). The draft splits it across roughly a hundred and thirty words of new material, so the card's three-beat drop — category, person, that person, there — arrives as two separate movements with a fresh subject ('And the category — ') re-opening the sentence in between. The interpolated material is good, but the fixed line is fixed because the beat is the payoff, and the author report does not declare this as a deviation.",
+      "repair_target": "Line 71 — restore 'At a category. Which turned out to be a person. Who's sitting across the fire.' as one contiguous turn and relocate the interposed 'That is what the leaf says … It was for preventing' material before it.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F05",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "repetition / tic cap",
+      "gate": "VOICE CHARTER §9 — anti-tic list (any beat phrase >3 per book is a defect)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 69,
+        "line_end": 69,
+        "quote": "Nobody said anything. That was correct. The man was not done."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 17,
+        "line_end": 17,
+        "quote": "Nobody said anything. That was correct."
+      },
+      "consequence": "Counted over the twenty-four drafted chapter files: 'Nobody said anything' appears 14 times against the charter's ≤3-per-book cap, and 'That was correct' 4 times. This chapter contributes two of the first (lines 31 and 69) and one of the second (line 69), and the immediately preceding chapter used the same two-sentence pair verbatim. Placed as it is here — once after Lira's fixed line and once inside Vastin's speech — the phrase is doing the same silence-marking job twice in one chapter, and a listener coming off Ch15 hears the identical cadence a third time within two chapters. The charter names this pattern precisely: a beat phrase that has become a watermark.",
+      "repair_target": "Lines 31 and 69 — vary or cut one of the two in this chapter; the book-level count needs a pass of its own at planning, since this chapter is not where the tic originated.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F06",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "internal inconsistency",
+      "gate": "Continuity persistence (Craft Core reader-trust invariant 3)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 49,
+        "line_end": 51,
+        "quote": "the saying was the last thing she did that day with her eyes open … She said it with her eyes shut, from the bucket, with her hand on the notebook … She opened her eyes and looked at Cael, once, across the brazier."
+      },
+      "comparison_evidence": null,
+      "consequence": "Three consecutive claims that cannot all be true: the saying is announced as her last act with her eyes open, then performed with her eyes shut, then followed by her opening them. The intended meaning is legible — this is the last of her the day gets — but the sentence as written is contradicted twice within eighty words by the paragraph immediately after it, which is a stumble in the one place in the chapter where Karis's exhaustion is being carefully priced.",
+      "repair_target": "Line 49 — re-word 'the last thing she did that day with her eyes open' (e.g. the last thing she did that day before she was done) so it survives lines 51's staging.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F07",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "count / clarity",
+      "gate": "COUNT INTEGRITY (the cataloguing narrator's own arithmetic)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 13,
+        "line_end": 13,
+        "quote": "Six people round it and the seventh not there, on a north road, with a cup that Lira had brought out from the long table and set on the wall at the far end where a healer sat when she sat."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 13,
+        "line_end": 17,
+        "quote": "Karis on an upturned bucket … Brom on the shed's step with the foot out. Seln at the yard gate … Vastin on the wall, on the knee, with the stick across his knees. And Cleon. / Cleon had come up."
+      },
+      "consequence": "The chapter is consistent in its own head — 'six' means the crew, Oryn is the absent seventh, and Cleon is deliberately outside the family's count (line 55 has Cleon counting the same six without himself; line 91 has 'the five of them' after he has gone). But the sentence that establishes the yard puts 'Six people round it' at the head of an enumeration that then names seven bodies standing round the brazier, Cael and Lira included. A reader who counts — and this narrator has spent fifteen chapters teaching them to — arrives at seven and has to work out that the count was of the crew and not of the yard. One clause fixes it without losing the 'And Cleon.' beat, which is doing real work.",
+      "repair_target": "Line 13 — make the count explicitly the crew's ('Six of them round it, and the seventh not there…') so the arrival at 'And Cleon.' reads as the addition it is.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F08",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "packet fixed line",
+      "gate": "PACKET — fixed lines verbatim (the closing dialogue)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 119,
+        "line_end": 119,
+        "quote": "\"Now we find out how old the oldest one is.\" He took the straightedge out of his coat, and the dividers came with it, and he put the dividers back and kept the edge. \"Karis has a bearing and the marks, and the records to read them against.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch16-editor-prompt-r1.md",
+        "line_start": 476,
+        "line_end": 476,
+        "quote": "Cael: 'Now we find out how old the oldest one is. Karis has a bearing and the marks, and the records to read them against. There's a site at the end of the line that's been quiet since they built the machine.' He looked at the straightedge in his hands. 'I want to stand in the middle of it.'"
+      },
+      "consequence": "Every word of the fixed close is present and the file ends on the required line, but Cael's last speech — given in the packet's closing_state as one unbroken turn with a single stage beat at its end — is opened up after its first sentence for new business with the dividers. The business is characterful and it re-earns 'He looked at the straightedge in his hands' honestly; the cost is that the close's one designed pause moves from where the card put it, and the chapter's final turn now has two stage directions inside it instead of one. Lower severity than F04 because the packet's own closing_state renders the attribution ('he said, to the fire, not to anyone') loosely and the draft relocates that to line 113 without loss.",
+      "repair_target": "Line 119 — move the dividers beat ahead of 'Now we find out how old the oldest one is.' and let the speech run to 'built the machine' unbroken.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F09",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "repetition / scaffold",
+      "gate": "VOICE CHARTER §9 — repeated construction (a fresh phrase repeated is the same defect in a different coat)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 45,
+        "line_end": 45,
+        "quote": "in the fewest words a thing could be said in, which was how Brom said a thing that had cost him money"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "He had told him in the fewest words a thing could be told in, walking, at the handcart's tail"
+      },
+      "consequence": "The identical frame — 'in the fewest words a thing could be told/said in' — is used twice inside one chapter, thirty-six lines apart, to characterise two different men's economy. It appears nowhere else in the twenty-four drafted chapters, so it is not house voice; it is a phrase the chapter invented and then reused, which flattens the distinction it is trying to draw between how Cael reports to Seln and how Brom prices bad news.",
+      "repair_target": "Line 45 — recast Brom's economy in ledger terms of its own and leave the phrase to line 9.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F10",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "repetition / scaffold",
+      "gate": "VOICE CHARTER §9 — repeated sentence scaffolds; Shared Positive Voice §Common failure modes",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 39,
+        "line_end": 39,
+        "quote": "That was the whole of Lira's part, and it was, from Lira, the whole of the thing."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "and that was the whole of the exchange and was, Cael thought, the first time in thirty years anybody had told the man that a thing he had done was good"
+      },
+      "consequence": "'the whole of X' closes three beats in the circle movement (twice inside line 39's single sentence, again at line 57) and is joined at line 59 by 'the man's whole ledger for the night'. Five instances of the frame in the chapter; 118 across the drafted book. It is the voice's own gravity well rather than an imported tic, but used as a section-closer three times in fourteen lines it starts to announce section-ends rather than land them, and the strongest of the three (line 39, on Lira) loses force by being the first of a set.",
+      "repair_target": "Line 57 — vary the closer for Brom and Cleon's exchange and let line 39 keep the frame.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "Density: 3,929 words against a 4,600 target — inside the ±15% band by nineteen words. It is the book's second pole and Part 2's close, and it is the thinnest chapter the band will accept. Any repair that cuts more than it adds pushes it out.",
+    "Vastin identifies the record's apparatus with the machinery he administered — 'The whole of the apparatus — the measure, the seat, the tier, the mark — set over all the land … I have administered that apparatus for forty years' (line 71) — which is the exact reach Karis cut off in Ch15 ('It doesn't say what the thing he made has to do with yours, or with mine, or with the thing on a station's roof four tiers up', ch15.md line 85). The chapter card authorises it ('the thing he spent forty years upholding was built for a reason he never knew'), no Arbiter or sigil is named, and the two pages are separately restated by Karis at line 51, so this is not filed as a defect. But the discipline is now carried entirely by a woman who falls asleep four paragraphs later, and nobody holds the line after she does. Worth planning's eye before Ch17.",
+    "Karis's second page is figured as 'A dead surveyor says a hundred lamps go out on one wire' (line 51). Book 7's prose already shows every Arbiter in a party failing identically at the same stride, so the observation is hers to make; 'on one wire' adds a shared-substrate inference to it, from the character whose whole method is not to infer, in a chapter whose invention budget forbids 'any theory past the page'. She disowns it in the same breath ('I'm not drawing a line'). Flagging rather than filing, because the line is good and the call is planning's, not mine.",
+    "Seln's 'I'd wondered, for four years, what I was keeping it from' (line 47) is a duration I cannot check against anything in this packet — the cache's provenance sits in Book 4. Recommend the verifier price it against the series ledger.",
+    "Line 13's 'has found that her legs have opinions' is the one phrase in the chapter that sits near the modern-idiom line the pov contract draws. It is funny and it is Karis-shaped; it is also the sort of construction that reads contemporary aloud. Taste, not contract.",
+    "Paragraph rhythm in the closing movement runs 62 / 9 / 164 / 12 / 189 / 6 / 7 / 135 / 10 / 11 / 135 / 21 / 149 words — five short standalone declaratives (lines 93, 97, 99, 103, 105) inside thirteen paragraphs. It works here, because the distinction being held is genuinely a set of flat facts and the long paragraphs between them carry the weight. It is one iteration away from the pattern the Shared Positive Voice names ('manufacture intensity with repeated one-line paragraphs'), and a repair pass adding another should be resisted.",
+    "'the way X [verb]' sits exactly at its cap of 4 (lines 7, 13, 27, 55). Any repair that reaches for the construction breaks the cap."
+  ],
+  "strengths": [
+    "The no-deflection movement (lines 87–111) is the best work in the chapter and the reason the chapter exists. 'He took it now. He did not catalogue it.' / 'He did not put it beside the still place, or the cord, or the light on a hill, or the row that came out short, because those were entries and this was not an entry; this was the page the entries were written on.' The cataloguer's refusal to catalogue is dramatised as an act, not announced as a state — Gate 25 paid in full. Do not sand this.",
+    "The excluded/prevented distinction is held on the page without blurring and without a speech: 'A thing that is excluded is a thing the makers forgot to make room for. A thing that is prevented is a thing the makers built the whole house to keep from being born in it.' (line 101), then 'He was not the case the machine could not parse. He was the reason the machine had been built to parse.' (lines 103–105).",
+    "Lira's two lines to Vastin — 'You signed the mark at kindlings.' / 'His?' / and the acceptance of 'I would have.' (lines 73–81) — are the hardest thing in the chapter and the most morally exact. Vastin says the worst true thing about himself before he is asked; Lira neither forgives nor punishes him for it; the narration prices it in the crew's own ledger terms. This is the reader-standard rule about wrong being named as wrong, done without a sermon.",
+    "Each companion answers in their own instrument and nobody borrows Cael's cadence: Brom prices it as a bad sheet he has already turned down work over; Seln makes the nearest thing to a decision he has ever made aloud and it is about what the office is for; Karis gives two pages and refuses the line while falling asleep on a bucket. Charter §7.3 and the voice's differentiation rule both hold.",
+    "Cleon's whole arc for the night is four words at line 59 — 'lamp, marked, work, gone' — and the Brom exchange that precedes it ('You came up.' / 'I came up.' / 'Good.') is the chapter's quietest and best-earned beat.",
+    "The yard is furnished with things that carry story rather than set dressing: the empty shed (the mule ruling honoured on the page), the cup Lira sets on the wall for a healer who is not there, the broker's broken crate burning on the brazier, Karis's bound hand flat on the shut notebook.",
+    "The fixed close lands intact and the file ends on 'I want to stand in the middle of it.' — the Ch24 plant set without any hedging or explanation after it."
+  ]
+}
