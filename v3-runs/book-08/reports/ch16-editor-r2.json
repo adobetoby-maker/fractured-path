@@ -1,0 +1,213 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch16-r2-editor",
+  "scene_id": "b8-ch16",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "RECHECK — F01 (Lira heard the reveal in Chapter 15)",
+      "state": "PASS",
+      "evidence": "CLOSED. The stair beat now says exactly what is new to Lira: 'He told Lira the only thing that was his to tell, which was that the thing she had heard read was on a page now, in Karis's hand, and that she should read the page before anybody talked at her about it'. This agrees with Chapter 15's evidence that she heard the leaf read and preserves 'He told Lira on the stair' and 'Now?' / 'At the fire'."
+    },
+    {
+      "gate": "RECHECK — F02 (nine-day count for watching Cleon)",
+      "state": "PASS",
+      "evidence": "CLOSED by planning ruling 23 and matching prose. Chapter 16 retains 'The man had never once, in nine days, left his table before the bell' and 'Cael, who had watched him for nine days'; current Chapter 15 now reads 'Cael, who had watched him for nine days, saw that the man was not looking at the scraped place.' The count is the 285th through the 293rd inclusive."
+    },
+    {
+      "gate": "RECHECK — F03 (Cleon's interior must remain Cael's inference)",
+      "state": "PASS",
+      "evidence": "CLOSED. The paragraph now keeps the hedge visible throughout: 'Cael, who had watched him for nine days, guessed that the man was not thinking about the leaf'; 'He was thinking, Cael guessed, about the yard'; and 'He had said, at a table, that he had not slept well for ten years, and Cael did not think tonight was going to be the exception.'"
+    },
+    {
+      "gate": "RECHECK — F04 (Vastin's fixed category line contiguous)",
+      "state": "PASS",
+      "evidence": "CLOSED. The fixed unit is now one uninterrupted quotation: 'At a category. Which turned out to be a person. Who's sitting across the fire.' The form-and-apparatus material precedes it."
+    },
+    {
+      "gate": "RECHECK — F05 (duplicated silence cadence in this chapter)",
+      "state": "PASS",
+      "evidence": "CLOSED against the verified local repair target. The second 'Nobody said anything. That was correct. The man was not done.' has become 'The man was not done, and the fire knew it, and nobody spoke into the gap.' Chapter 16 now has one 'Nobody said anything' and zero 'That was correct', versus two and one in r1. The separately rerun book-level anti-tic gate still fails and is recorded below as F-CH16-R2-001."
+    },
+    {
+      "gate": "RECHECK — F06 (Karis's eyes / exhaustion sequence)",
+      "state": "PASS",
+      "evidence": "CLOSED. The contradictory claim is gone: 'the saying was the last thing she did that day before she was done'. This survives the following exact staging: 'She said it with her eyes shut' and 'She opened her eyes and looked at Cael'."
+    },
+    {
+      "gate": "RECHECK — F07 (yard count clarity)",
+      "state": "PASS",
+      "evidence": "CLOSED exactly as targeted: 'Six of them round it, and the seventh not there, on a north road'. 'And Cleon. / Cleon had come up.' remains the deliberate addition outside the established circle count."
+    },
+    {
+      "gate": "RECHECK — F08 (fixed closing speech uninterrupted)",
+      "state": "PASS",
+      "evidence": "CLOSED. The object business now precedes the speech: 'He took the straightedge out of his coat, and the dividers came with it, and he put the dividers back and kept the edge.' The fixed turn then runs without interruption from 'Now we find out how old the oldest one is' through 'since they built the machine', followed only by 'He looked at the straightedge in his hands.'"
+    },
+    {
+      "gate": "RECHECK — F09 (repeated 'fewest words' scaffold)",
+      "state": "PASS",
+      "evidence": "CLOSED. Brom's sentence now uses his own ledger register: 'at the length of a ledger line, which was how Brom said a thing that had cost him money and would cost him more.' The 'fewest words' construction remains only in Seln's street report."
+    },
+    {
+      "gate": "RECHECK — F10 (repeated 'whole of' exchange closer)",
+      "state": "PASS",
+      "evidence": "CLOSED against its repair target. The Cleon/Brom beat now reads 'and that was the exchange, all of it, and it was, Cael thought, the first time in thirty years anybody had told the man that a thing he had done was good'. Lira's stronger 'whole of Lira's part' closer remains untouched."
+    },
+    {
+      "gate": "REPAIR DISCIPLINE — no unrelated Chapter 16 passage changed",
+      "state": "PASS",
+      "evidence": "The full r1-manuscript-to-current-draft diff contains nine changed Chapter 16 paragraphs and nothing else: line 5 (F01), line 13 (F07), line 45 (F09), line 49 (F06), line 55 (F03), line 57 (F10), line 69 (F05), line 71 (F04), and line 119 (F08). F02 was resolved in the comparison chapter under planning ruling 23. No unassigned Chapter 16 paragraph was rewritten, cut, added, re-imaged, or re-cadenced."
+    },
+    {
+      "gate": "STRENGTHS PRESERVED — all seven r1 strengths survived",
+      "state": "PASS",
+      "evidence": "All seven recorded strengths survive. The no-deflection core remains 'He took it now. He did not catalogue it' and 'this was the page the entries were written on'; excluded/prevented remains exact; Lira/Vastin's 'His?' / 'I would have' exchange is untouched; every companion's distinctive response survives; Cleon's 'lamp, marked, work, gone' inventory survives; the empty shed, absent healer's cup, broken crate and bound hand survive; and the file still ends on 'I want to stand in the middle of it.'"
+    },
+    {
+      "gate": "AUTHORITY / CONTINUITY — canon, timeline, knowledge and state",
+      "state": "PASS",
+      "evidence": "Day 293 at the bell is explicit; Lira's and Seln's knowledge now differs correctly; Cleon's nine-day span matches Chapter 15 and ruling 23; cash remains 130 because no transaction occurs; the leaf remains below on Cleon's shelf; no authority-layer fact is contradicted."
+    },
+    {
+      "gate": "PACKET OBLIGATIONS — no-deflection scene, Lira first, circle, pole two and fixed close",
+      "state": "PASS",
+      "evidence": "The promised turn occurs in scene. Lira receives, reads twice and hands back the copied passage before saying 'So the whole time they weren't afraid you'd break something. They were afraid you'd *exist*.' Brom prices; Seln keeps the cache; Karis keeps two pages; Cleon comes up once; Vastin delivers imperfect / corrupt / aimed; Cael holds omission versus intention without counting and says 'I happened anyway.' The final line is 'I want to stand in the middle of it.'"
+    },
+    {
+      "gate": "PACKET PROHIBITED OUTCOMES / SECRET DISCIPLINE",
+      "state": "PASS",
+      "evidence": "Case-insensitive draft grep returns zero for 'Book 6', volume references in prose, Halcenvane, Velmere, Wray, Bracken, Arbiter, Architect, reset, primordial and grade. No grade is cracked, no crew departure occurs, no present Architect or Arbiter=apparatus claim appears, and no declared-growth formula appears. The only 'still place' use is an explicit refusal to connect it: 'He did not put it beside the still place, or the cord, or the light on a hill, or the row that came out short'. Karis says 'I'm not drawing a line.' The closer is dialogue, not image or log."
+    },
+    {
+      "gate": "CAUSAL LEGIBILITY / EARNED RESOLUTION",
+      "state": "PASS",
+      "evidence": "The Chapter 15 leaf and the copied passage cause every response and Cael's choice; no coincidence or new capability resolves the pressure. The chapter's outcome is earned by the prior reveal, the Lira-first ritual, the circle's independent readings and Cael's final filing of the distinction."
+    },
+    {
+      "gate": "THE AUTHOR — world-law gates 1–8",
+      "state": "PASS",
+      "evidence": "Gates 1–3 are not triggered by a capability solution or new named system element. Gate 4 passes: the opening promise is that Cael will take the reveal in the family's order, and the close delivers pole two plus a destination. Gate 5 passes on the Chapter 15 reveal and the cited earlier poles/plants. Gate 6 closes the character-turn with the matching character payoff. Gate 7 is not triggered by a 150-word expository worldbuilding block; the world is rendered through used mechanisms and objects. Gate 8 is satisfied for this run by the declared continuity-repair pass and the repair-only diff."
+    },
+    {
+      "gate": "THE AUTHOR / VOICE CHARTER — combat gates",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight, training exchange or physical action set piece occurs. Drawable geography, tempo-to-climax, masked fighting style, stakes-before-blow, injury-from-combat, tactical escalation, compression weight and terrain-caused combat beats have no combat object here. No win-sentence can or should be written for this chapter."
+    },
+    {
+      "gate": "SELECTED PROGRESSION MODULE — editor gates 1–7",
+      "state": "PASS",
+      "evidence": "No tier, rank, fragment or measurable-system advancement is claimed, so visible-delta and capability-victory gates are not triggered. Human progress is legible and caused: the Chapter 15 finding changes Cael's understanding from omission to intention and changes his next destination. The cost is visible in the circle's exhaustion, Vastin's forty-year accounting and Cael's refusal to deflect. Institutions and Cleon continue acting on their own clocks; no rival freezes; the setback produces the stated next action."
+    },
+    {
+      "gate": "THE AUTHOR — system/voice gates 22–26",
+      "state": "PASS",
+      "evidence": "Gate 22 is not triggered because no system/status box renders. Gate 23 passes through used institutional machinery rather than a critique speech: the clerk's count, the bad sheet, the cache and Vastin's signed kindlings. Gate 24 is not triggered by humor under active stakes; the one wry legs line does not erase consequence. Gate 25 is paid in full by 'He took it now. He did not catalogue it' through 'He did not turn it into a count.' Gate 26 is not scheduled for a separate moral-stake delta here; Vastin's admission nevertheless leaves moral residue rather than granting absolution."
+    },
+    {
+      "gate": "VOICE CHARTER §8.4 — authoring metadata grep",
+      "state": "PASS",
+      "evidence": "The exact grep 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over v3-runs/book-08/drafts/ch16.md returns zero. The manuscript file ends on story dialogue, with no diagnostic or production footer."
+    },
+    {
+      "gate": "VOICE CHARTER §8.5 — dialogue attribution in a 3+ speaker scene",
+      "state": "PASS",
+      "evidence": "Manual attribution check over the yard scene finds a maximum run of three unattributed spoken lines: 'I did.' / 'His?' / 'No. I read it, after. I did not sign it.' Speaker order remains unambiguous from the attributed Lira/Vastin exchange around the run, below the cap of four. All other multi-speaker transitions are attributed by name, action or position."
+    },
+    {
+      "gate": "VOICE CHARTER §8.2–8.3 — audio survival and system text",
+      "state": "PASS",
+      "evidence": "No system block appears. Italics provide emphasis only in 'exist', 'for', 'aimed', 'preventing', 'built', 'excluded' and 'waiting'; stripping them does not remove meaning. The copied passage is described and paraphrased in speakable prose, and the final dialogue remains intelligible aloud."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — required tic greps over canonical Book 8 drafts",
+      "state": "FAIL",
+      "evidence": "Declared scope: v3-runs/book-08/drafts/ch01.md through ch24.md, excluding r1/r2 snapshots. Actual case-insensitive occurrence counts: jaw tightened 0; laughed once 0; without humor 0; stomach tightened 0; stomach dropped 0; There it was 0; That was true 2; Also true 0; sounded almost 0; held this 0; standalone '[Name] noticed.' 0; which was, in its own way 0. Additional carried beats: That was correct 3; Nobody said anything 13. The final count breaches the book cap of 3. See F-CH16-R2-001."
+    },
+    {
+      "gate": "PACKET TIC CAPS — Chapter 16",
+      "state": "PASS",
+      "evidence": "One-word paragraphs: 1 ('His?'), cap 2. 'the way X [verb]' constructions: 4 (lines 7, 13, 27, 55), packet cap 4. 'upside down': 0. 'for the length of a breath': 0. 'at the pitch': 0. 'which was, in its own way': 0. No capped replacement phrase was introduced by the r2 repair."
+    },
+    {
+      "gate": "VOICE CHARTER §10 — scene versus summary and word band",
+      "state": "PASS",
+      "evidence": "The summary grep for 'heard about it later|learned afterward|was told later|found out later|by the time he heard' returns zero. Every major beat is dramatized in the yard. wc -w returns 3,950, inside the 3,910–5,290 band for a 4,600-word target."
+    },
+    {
+      "gate": "FRAGMENT INVENTORY — state snapshot and previous chapter",
+      "state": "PASS",
+      "evidence": "Chapter 16's 'a boy with twelve pieces of a craft' matches Chapter 15's 'a boy at a table's corner with twelve pieces of the measure in him', Chapter 14's explicit inventory ('Twelve. Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide; Iron Wall ... Rune ...'), Chapter 13's Rune notice ending 'Twelfth', and STATE_RUNNING's Fragment Eleven / Fragment Twelve entries. The still place remains explicitly uncounted and unconnected. No fragment is used or acquired in this chapter."
+    },
+    {
+      "gate": "INJURY PERSISTENCE — state snapshot and previous chapter",
+      "state": "PASS",
+      "evidence": "Every injury carried into the scene persists correctly: Karis has 'her bound hand' and keeps it on the notebook, matching Chapter 15 and STATE_RUNNING's left-hand cut; Brom remains 'with the foot out', matching Chapter 15 and the bound right-foot wound, while no shoulder exertion contradicts the carried shoulder; Vastin sits 'on the knee, with the stick across his knees', matching Chapter 15's weight off the bound knee and the one-month ruling; Lira has 'her two hands at her sides', matching the released arm and mended ankle. No new injury or healing occurs."
+    },
+    {
+      "gate": "NAME REGISTRY §8.1 — every proper name checked by ear",
+      "state": "PASS",
+      "evidence": "Personal/place names in the draft: Cael (KAYL), Cleon (KLEE-on), Karis (KAIR-iss), Lira (LEER-a), Brom, Seln, Vastin and Ostrand. Cleon/Cael share consonant material but not stressed vowel or syllable count and remain distinct at speed; Cleon/Seln differ in onset, vowel and cadence. The remaining names are mutually distinct and match existing entities. No reserved Boundary name and none of Halcenvane, Velmere, Wray or Bracken appears. No new name is minted."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — final beat differs from previous chapter",
+      "state": "PASS",
+      "evidence": "Chapter 15 closes on copied written text, '*Older. Made. Us.*' Chapter 16 closes on spoken dialogue, 'I want to stand in the middle of it.' Text/document and dialogue are different structural moves, with no adjacent repeat."
+    },
+    {
+      "gate": "ANTI-PASTICHE / POV / VOICE",
+      "state": "PASS",
+      "evidence": "The prose remains in Cael's close-third practical attention, and all non-Cael interior claims are explicitly guessed. The cataloguing voice, object-borne emotion, dry differentiated dialogue and procedural worldbuilding remain series-specific; no passage evokes a named influence or borrows recognizable protected expression."
+    },
+    {
+      "gate": "READER STANDARD — Gate 27",
+      "state": "PASS",
+      "evidence": "Banned-register grep over the draft (including damn, hell, bastard, bloody, crap, okay, literally, basically and gonna) returns zero. There is no violence, gore, sexual content or innuendo. Conduct is honest, restrained and morally legible: Vastin admits 'I would have'; Lira answers 'You would have' without cruelty or false absolution; the circle protects Karis's exhaustion and keeps a place for the absent healer."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-CH16-R2-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "repetition / book-level tic cap",
+      "gate": "VOICE CHARTER §9 — any somatic/beat phrase appearing more than 3 times per book is a defect",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch16.md",
+        "line_start": 31,
+        "line_end": 31,
+        "quote": "Nobody said anything."
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 313,
+        "line_end": 317,
+        "quote": "Rule: any somatic/beat phrase appearing more than 3 times per book is a defect — including new phrases invented to replace an old one."
+      },
+      "consequence": "The exact phrase 'Nobody said anything' occurs 13 times across the declared canonical scope, ch01.md through ch24.md, against the ≤3-per-book cap. The r2 repair correctly removed this chapter's second use and removed its adjacent 'That was correct', bringing that latter phrase to the cap of 3 book-wide; however, this surviving line still participates in a beat phrase more than four times over the limit. At the reveal's emotional hinge, a listener hears a cadence already used in Chapters 1, 2, 3, 5, 6, 8, 15, 19, 20, 21 and 22 rather than silence shaped specifically for Lira's line. This is a book-level gate failure, not a claim that Chapter 16 originated the tic.",
+      "repair_target": "Run the required book-level anti-tic pass and reduce the exact phrase to no more than three occurrences across ch01.md–ch24.md. For this chapter's contribution, vary or cut line 31 without adding another repeated silence marker and without changing Lira's fixed line, Cael's 'Yes', or the surrounding no-deflection rhythm.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Density remains close to the floor: 3,950 words, only 40 above the 3,910 lower bound and 14.1% below the 4,600 target. The chapter earns its quiet and all promised action is in scene, so this is taste/headroom rather than a defect; any later cut should be netted against an addition.",
+    "Vastin's 'The whole of the apparatus — the measure, the seat, the tier, the mark — set over all the land ... I have administered that apparatus for forty years' presses close to the connection Karis refused in Chapter 15 ('It doesn't say what the thing he made has to do with yours, or with mine, or with the thing on a station's roof'). The packet authorizes Vastin's aimed-purpose beat, no live Arbiter is named, and Karis repeats 'I'm not drawing a line', so this is not a finding. Planning should keep the two-page discipline explicit in Chapter 17.",
+    "Karis says 'A dead surveyor says a hundred lamps go out on one wire' and immediately says 'I'm not drawing a line.' Identical failure is established evidence, but 'one wire' is a shared-substrate inference spoken by the character whose rule is not to infer. It is a strong image and does not explicitly identify live Arbiters with the historical apparatus; it remains a planning/taste concern under the packet's ban on theory past the page.",
+    "Seln's 'I'd wondered, for four years, what I was keeping it from' is plausible against his series span but the exact duration is not independently fixed by a dated comparison passage in this packet. It does not contradict the supplied state, so it remains a continuity watch item rather than a finding.",
+    "'has found that her legs have opinions' is the chapter's only phrase near the no-modern-idiom boundary. It is dry and Karis-shaped, but its contemporary personification is audible in an otherwise older register. Taste only.",
+    "The closing interior deliberately uses five short standalone declaratives among longer paragraphs ('The leaf did not say that'; 'The leaf said the door was him'; the two parse sentences). The contrast works because each line sharpens omission versus intention; another repair should not add more isolated declarations.",
+    "The packet-specific 'the way X [verb]' pattern sits exactly at its cap of four, at lines 7, 13, 27 and 55. The four verbs/functions differ, so the charter's identical-construction rule is not breached, but there is no headroom.",
+    "Fight/set-piece check: there is no fight or physical action set piece in this chapter. Terrain-load-bearing choreography and the 'X removed Y's ability to Z' win test are therefore not applicable. The yard circle is a memorable emotional staging mechanism, not a combat win and should not be forced into that formula."
+  ],
+  "strengths": [
+    "All seven strengths recorded at r1 survived the targeted repair. The no-deflection movement remains the chapter's load-bearing success: 'He took it now. He did not catalogue it.' and 'He did not put it beside the still place, or the cord, or the light on a hill, or the row that came out short, because those were entries and this was not an entry; this was the page the entries were written on.' The cataloguer's refusal to catalogue is still an enacted choice.",
+    "The exclusion/prevention distinction remains exact and unblurred: 'A thing that is excluded is a thing the makers forgot to make room for. A thing that is prevented is a thing the makers built the whole house to keep from being born in it.' It is sharpened by the paired declaratives 'He was not the case the machine could not parse. / He was the reason the machine had been built to parse.'",
+    "Lira and Vastin's moral exchange is untouched and still exact: 'You signed the mark at kindlings.' / 'His?' / 'No. I read it, after. I did not sign it.' / 'I would have.' / 'You would have.' Vastin names the wrong without excuse; Lira neither forgives it nor turns cruelty into virtue.",
+    "The circle remains differentiated by mechanism: Brom uses a sheet and price, Seln uses an office and the cache, Karis uses two pages and a refused line, Cleon uses presence and four ledger words, and Vastin uses a forty-year institutional sum. No secondary character borrows Cael's cadence.",
+    "Cleon's compact arc survives the scaffold repair: 'You came up.' / 'I came up.' / 'Good.' and then 'lamp, marked, work, gone'. The revised 'that was the exchange, all of it' removes the repeated closer without sanding the kindness or the man's inability to answer it.",
+    "The yard's objects continue to carry relationship and state: 'a shed on the fourth, empty'; the cup 'where a healer sat when she sat'; 'a broker's broken crate' burning; Karis's 'bound hand' on the notebook; Vastin's stick across his knees. These are not decorative inventory; they price absence, injury, labor and belonging.",
+    "The fixed close is stronger after the staging repair because the straightedge and dividers are settled before Cael speaks. The destination now arrives as one uninterrupted decision and the file stops exactly on 'I want to stand in the middle of it.'",
+    "Worldbuilding is done through mechanism and use. The system appears as a clerk counting four, a sheet designed without a column, a registry that would buy Seln's cache, marks Vastin signed at kindlings, gates and tiers Cael remembers, and a straightedge used to turn history into a road. The chapter explains purpose only after those mechanisms have acted on bodies, access, work and conscience.",
+    "The scene's non-combat set-piece quality comes from ritualized geography rather than spectacle: Lira across the brazier, Brom on the shed step, Seln facing the road, Karis asleep on the bucket, Vastin on the wall and Cleon briefly at the edge. Each position determines how that person takes the news, making the yard load-bearing for the emotional choreography even though the combat win formula is correctly not applicable."
+  ]
+}
