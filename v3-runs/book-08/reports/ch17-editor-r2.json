@@ -1,0 +1,350 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch17-r2-editor",
+  "scene_id": "b8-ch17",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "recheck.F-B8-CH17-001",
+      "state": "PASS",
+      "evidence": "The verified disclosure defect is repaired. The manuscript now keeps the copied leaf-list inside the closed crew-only room: 'Six at the table. Teague was not; he had said he did not read and had meant it, and was at the plank with his three, and the door was shut.' Teague enters only after the leaf-based derivation, when Karis reaches for the dividers: 'The door opened while she reached for the dividers, and Teague was in it'. From that point he hears the permitted dates, age classes, location, and oldest-last bearing, not Cleon's list content."
+    },
+    {
+      "gate": "recheck.F-B8-CH17-002",
+      "state": "PASS",
+      "evidence": "The verified arithmetic defect is repaired under EXC-B8-CH17-2. Teague now says: 'Ten of us on a wall's count. Your six and my four. Your researcher's on it, because a wall counts who walks a site and not who swings, and she's the one who found the site. Healers don't go on a wall's count — yours is on a north road and mine won't thank you for putting her on it.' Six plus four is ten; Karis is explicitly included; both healers are explicitly excluded."
+    },
+    {
+      "gate": "recheck.F-B8-CH17-003",
+      "state": "PASS",
+      "evidence": "The missing taxonomy meanings are now legible within Karis's observational limits. First grade: 'a box ruled for a site that's recent, a life or less on paper, and the office never had one to put in it.' Third grade: 'Stable across centuries. Documented back to the first sheet the office ever kept — before the current office, before the one before it; the form's own head calls that the setting, and doesn't say of what.' The later log supplies the approved four-hundred-year scale without theorizing who or why."
+    },
+    {
+      "gate": "recheck.F-B8-CH17-004",
+      "state": "PASS",
+      "evidence": "Brom's punctured-foot state is explicitly recurred and narratively closed in the departure inventory: 'on a foot that had walked to a city and in one and out of it and had been kept dry, as a healer had said, and had stopped being a thing he mentioned.' This is consistent with the prior keep-it-dry instruction, the foot still being held out in Chapter 16, and the elapsed travel/healing time."
+    },
+    {
+      "gate": "recheck.F-B8-CH17-005",
+      "state": "PASS",
+      "evidence": "The chapter's overused silence formula is removed. The repaired exact sentence is: 'The table was quiet.' Literal case-insensitive count for 'Nobody said anything' is now Chapter 17: 0; Chapters 1–17: 8; all 24 extant Book 8 drafts: 20. The verified scene-level repair is complete; the inherited book-level excess remains a later line-pass concern."
+    },
+    {
+      "gate": "recheck.repair_scope",
+      "state": "FAIL",
+      "evidence": "A unified diff against the pre-repair manuscript embedded in ch17-editor-prompt-r1.md shows the five targeted repairs plus three unrelated deletions: the explanation after Cleon's 'Mind the stair'; the paragraph beginning 'Ten on a wall's count. It was the largest figure'; and the Force-cost paragraph beginning 'Cael did not enter it as a weakness'. The last becomes only 'Cael entered the line...' in the current draft. See F-B8-CH17-R2-001."
+    },
+    {
+      "gate": "recheck.prior_strengths",
+      "state": "PASS",
+      "evidence": "All six strengths recorded in ch17-editor-r1.json survive substantively: worldbuilding still operates through board, contract, cart, and records; the Force set piece retains terrain, mechanism, range, and recoil; the divider-point grade reveal remains physical; Teague remains a live rival clock; the return road still carries emotional consequence through objects and procedure; and the exact fixed log remains the final beat."
+    },
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "Departure on the 295th, the spring that evening, shoulder hold and cut on the 296th, Lowmarch on the 297th, and the grade reading on the 298th reconcile with the packet and prior state. Cael is nineteen with twelve fragments and 127 in hand. The no-mule state, Oryn's offstage Millrace position, Pike's board, the ten-person wall count, and the chapter's possession inventory all reconcile with the repair packet and its exceptions."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration remains within Cael's observations, records, memories, and explicitly bounded inference. The road pressure is framed as feeling rather than asserted surveillance: 'It was not the feeling of being followed. It was the feeling of being known'."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "The draft contains the dated departure, Cleon's goodbye, unlooked-at crown, three-day road and named halts, Pike's entry, Teague's spring contract, ten-person count plus healer, Force with recoil, all three age grades, oldest-last bearing, two straightedges and dividers, injury recurrences, the Ch5/B7/Hesk payoffs, and the exact fixed log. The Court, Force integration, Teague-unit, and Millrace plants remain correctly prospective."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Full-draft literal searches return zero for Architect, apparatus, still place, Court, Span, standalone reach, Force integration, Halcenvane, Velmere, Wray, Bracken, upside down, and [NEW-CANON]. Oryn and Millrace are mentioned only as offstage/future locations required by the packet; neither appears or is reached. Teague is excluded while the leaf-list is discussed. The file closes on the required log, not dialogue or image."
+    },
+    {
+      "gate": "core.causal_legibility",
+      "state": "PASS",
+      "evidence": "The grade follows causally from marks, index, copied list, first sheets, map, dividers, and straightedges. The contract arithmetic is now explicit and correct. The Force demonstration shows support, alignment, contact, direction, range, displacement, and recoil in causal order."
+    },
+    {
+      "gate": "core.earned_resolution",
+      "state": "PASS",
+      "evidence": "The taxonomy pays previously established marks, records, alignment, and instruments. Teague's already established Force Path resolves only a stuck-cart demonstration, with its constraints and cost shown in the same action; no unestablished capability resolves major conflict."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Possessions, promises, locations, relationships, money, and knowledge persist. The leaf stays with Cleon while copies travel; the cache, kit, boxes, edges, dividers, ledger, and log remain accounted for. All injury states are reconciled under state.injury_inventory."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The chapter moves the party from Treswick to Lowmarch, converts an unread designation into an age taxonomy and destination, prices a joint expedition and field authority, makes Force's cost usable knowledge, starts Pike's season, and has Cael accept Teague's continuing superiority without softening the ledger."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter uses the series' own cataloguing, procedural emotion, document weight, and oblique dialogue. No influence author is named or detectably imitated."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues the bridge, travelers, halts, plank, cart, Force line, archive table, dates, money, and fragments. Cleon speaks through work, Pike through recorded outcomes, Teague through field price, Karis through evidentiary limits, and Vastin through learned restraint. The closing log remains plain first-person in-world writing."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Institutional standing appears through Pike's open columns and season rule; authority through shares and field jurisdiction; Force through a hub-deep cart, firm footing, heel-to-palm alignment, a body's-length displacement, and wrist recoil; historical taxonomy through sheets, ruled boxes, stamps, dates, dividers, and brass edges."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No unapproved named entity or capability is introduced. 'a life or less on paper' remains an age expression consistent with the architecture's approved first-tier 'recent, within decades' meaning and does not add the withheld size/instability behavior. The Court stays unnamed, the taxonomy stays observational, and later-book secrets remain sealed."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Checked against craft/NAME_REGISTRY.md by ear: Cael, Cleon, Karis, Brom, Lira, Seln, Vastin, Oryn, Pike, Teague, Treswick, Lowmarch, Millrace, Ternhall, Denvash, Ring, Stair, and Hall are established or packet-carried. Cael/Cleon (KAYL/KLEE-on), Karis/Cael, Teague/Ternhall (TEEG/TERN-hall), and Lira/Lowmarch remain distinct in onset, vowel, stress, or syllable count at narration speed. No new or reserved name appears; Path and role terms are registry-exempt."
+    },
+    {
+      "gate": "audio.typography_and_system_text_survival",
+      "state": "PASS",
+      "evidence": "Italics add emphasis or mark documents but do not carry indispensable distinctions. Marks, grade meanings, counts, directions, and the log remain intelligible aloud. No System block renders in this chapter."
+    },
+    {
+      "gate": "audio.dialogue_attribution",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked in the factor yard, Pike/Teague plank, cart aftermath, and multi-speaker grade room. Speakers are tagged or anchored by immediate action and established alternation. The closing Teague/Karis exchange reaches four alternating unattributed turns at most, never more than the permitted four."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Section 8.4 grep 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. Section 10 summary-substitution grep returns 0. Modern-register and feeling/growth-declaration greps return 0. wc -w returns 5,275 including the H1 and 5,269 for the body, within the 3,910–5,290 tolerance band."
+    },
+    {
+      "gate": "production.anti_tic_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive counts are Chapter 17 / Chapters 1–17 / all 24 extant Book 8 drafts: jaw tightened 0/0/0; laughed once 0/0/0; without humor 0/0/0; stomach tightened 0/0/0; stomach dropped 0/0/0; There it was 0/0/0; That was true 0/2/2; Also true 0/0/0; sounded almost 0/0/0; held this 0/0/0; which was, in its own way 0/0/0; at the pitch 0/0/0; standalone '[Name] noticed.' 0/0/0. Chapter-level supplemental counts: one-word dialogue paragraphs 2 ('Noted.' and 'And.'), at cap; broad 'the way' constructions 2, under the per-chapter cap; upside down 0; for the length of a breath 0. 'Nobody said anything' is 0/8/20: this chapter no longer contributes, so verified F-B8-CH17-005 is repaired, while the inherited book-level debt remains recorded in concerns."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 16 ends on dialogue: 'I want to stand in the middle of it.' Chapter 17 ends on the italicized Power Log. The adjacent final-beat types differ, the fixed closing text matches the packet exactly, and nothing follows it."
+    },
+    {
+      "gate": "reader_standard",
+      "state": "PASS",
+      "evidence": "The required banned-word grep returns 0. There is no profanity, crude slang, blasphemy, sexual content, gore, or cruelty-as-spectacle. The chapter rewards honesty, restraint, competence, care, and earned authority through conduct and visible cost."
+    },
+    {
+      "gate": "state.fragment_inventory",
+      "state": "PASS",
+      "evidence": "The departure inventory says 'twelve things held to nothing'; the reveal silence says 'as he held the twelve'; and the log says 'Twelve.' This matches Chapter 16 and STATE_RUNNING's post-Ch13 Rune-adjacent twelfth fragment. No fragment is added, used, or integrated; Force is witnessed only."
+    },
+    {
+      "gate": "state.injury_inventory",
+      "state": "PASS",
+      "evidence": "Against Chapter 16 and STATE_RUNNING: Karis's left hand remains bound and carries only the notebook; Brom's shoulder remains carried and is observed by Teague's healer; Brom's punctured foot is recurred as kept dry and closed after walking into and out of Treswick; Lira has two arms and switches the box to the other; Vastin's right knee is bound, day sixteen at departure and day seventeen at the cut, with the stick retained; Teague's wrist recoil and his crewman's limp recur. No open injury silently vanishes."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement occurs. Cael remains at twelve fragments, and Teague's Force is observed rather than integrated."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Force's wrist recoil, practiced wrap, and warning against a second required use make its cost visible. The joint expedition also costs Cael field authority and everyone a defined share."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Progress changes route, secrecy, command, trust, obligation, institutional record, and the size of the expedition rather than only a number."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "No major victory occurs. Established Force resolves a civil demonstration only, after its physical limits and recoil are made visible."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Teague has wintered on his own clock, kept the spring term, retains field command, and arrives with a crew that has its own practiced recoil protocol. Pike starts the season under the board's rule, and the Compact's old forms continue to disclose information independent of Cael."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "Chapter 16's emotional reckoning gives way to dated travel, contract negotiation, civil capability demonstration, and document-driven taxonomy. The problem differs tactically, emotionally, and socially rather than merely scaling a prior challenge."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The cut changes Vastin's conduct: he tests the knee slowly, replaces the stick, and later adopts Cael's 'Noted.' Teague's accumulated recoil history produces the ready cloth and a tactical rule about repeated use."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The grade solution traces to Chapter 5's records and marks, Book 7's aligned sites and two edges, Cleon's copied list, and Hesk's dividers. The cart demonstration uses an established Path and resolves no story-major danger."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Force is bounded by bodily line, contact/body-length range, required support and ground, lateral incapacity, and recoil through the same frame."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named person, place, Path, faction, or subsystem is introduced. Existing records, marks, board, Force, instruments, crews, and sites are extended."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: leave Treswick with an honest count and walk back toward the bearing. Delivery: Lowmarch records the return, Teague's contract is priced, Force is understood, the grade is cracked, and the log commits the expedition to the line's end."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The taxonomy pays earlier marks, dates, kit index, alignment, list, dividers, and straightedges. The third-tier site is placed from an existing office bearing and distance, not coincidence."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The grade inquiry receives a bounded answer; the spring-term promise receives a contract; the Treswick milieu closes through departure; and the rival thread advances through command tension rather than friendship."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "The long taxonomy passage stays attached to hands, paper, stamps, ruled boxes, dates, map circles, dividers, brass edges, light, and shadow. Concrete mechanism prevents the exposition from becoming abstract dossier transfer."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "FAIL",
+      "evidence": "This was a declared continuity-repair pass for five verified findings, but the exact r1-to-r2 manuscript diff also performs unrelated compression in three passages. One removes the explicit Force weakness-versus-price evaluation. See F-B8-CH17-R2-001."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The cart demonstration's geography is nevertheless fully drawable."
+    },
+    {
+      "gate": "author.10_combat_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat scene occurs."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. Teague's civil demonstration remains identifiable through aligned stance, deliberate restraint, and practiced recoil handling."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every carried injury is recurred or closed; see state.injury_inventory."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight is escalated."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "Three days of uneventful road are compressed, while the required departure, cut return, plank contract, Force demonstration, and grade discovery occur on page. No major assigned turn is reported secondhand."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. As a noncombat set piece, the cart demonstration still makes soft spring ground, the hub-deep rut, firm footing, the traces, and the tail-board mechanically load-bearing."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank or fragment delta occurs. Force's cost is visible, but the scene claims no advancement."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No major fight win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague advances on his own kept promise, retains superior field command, brings a practiced crew, and moves from wintering rival to contracted captain without becoming a friend."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Progress appears socially in Pike's open columns and season date, the contract's shares, Teague's authority, Karis's protected research share, and the still-running wall ranking."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System/status box renders. The board, records, and final log each have a clear in-world owner and reason for being read or written."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutions act through registry forms, stamps, copied hands, board columns, season rules, access, and shares; no free-standing speech substitutes for mechanism."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The beast looking back at the moved cart and Vastin's two-word exchange are dry character texture, not humor used to erase stakes or consequence."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Part 3's designated no-deflection checkpoint is Chapter 22. This chapter nevertheless gives Cael an undeflected reckoning with Teague's superior field command."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The moral-cost thread is not at an assigned checkpoint, and no contact reading or integration occurs."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B8-CH17-R2-001",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "revision-scope drift / unrelated compression",
+      "gate": "author.08_revision_pass_separation",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch17.md",
+        "line_start": 125,
+        "line_end": 125,
+        "quote": "Cael entered the line, from the heel to the palm, and the fact that everything the man had went out along it and everything he paid came back along it, because there was a place ahead on a bearing where a thing with one line and one cost might matter, and he did not know yet how."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch17-editor-prompt-r1.md",
+        "line_start": 4614,
+        "line_end": 4614,
+        "quote": "Cael did not enter it as a weakness, because it was not one. It was a price, and a man who paid a price that visibly and wrapped it that fast had priced it a long time ago and decided. But he entered the line, from the heel to the palm, and the fact that everything the man had went out along it and everything he paid came back along it, because there was a place ahead on a bearing where a thing with one line and one cost might matter, and he did not know yet how, and had a page for that."
+      },
+      "consequence": "The continuity-repair pass deleted the explicit distinction between weakness and price even though none of the five verified findings targeted this passage. The exact diff also removes two other unrelated passages. This prevents confirmation that only authorized repair text changed and combines continuity repair with an unreviewed compression pass. The surviving cart mechanics still preserve the prior set-piece strength, but this local thematic cost framing is thinner.",
+      "repair_target": "Restore the unrelated deletion, or move all three collateral trims into a separately authorized compression pass with its own review; keep the continuity-repair diff limited to the five verified findings.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Deferred production concern, not a new Chapter 17 defect: the literal phrase 'Nobody said anything' is now 0 in Chapter 17 but remains 8 across Chapters 1–17 and 20 across all 24 extant drafts, above the charter's three-per-book cap. The verified finding's repair target explicitly placed the remaining excess in the later line pass.",
+    "Taste only: 'the form's own head calls that the setting, and doesn't say of what' is slightly opaque on a first audio pass. The surrounding first-sheet language and the fixed four-hundred-year log make the deployment-age anchor sufficiently legible, so this does not rise to a finding.",
+    "Taste only: at 5,275 words the chapter is fifteen words below the upper tolerance boundary. Its accumulation sentences are dense for audio, but the density remains controlled by Cael's catalogue logic and the major beats are fully dramatized."
+  ],
+  "strengths": [
+    "Prior strength survived: the worldbuilding is done through mechanism and use. Pike's open price/outcome columns make reputation and uncertainty procedural; Teague's authority becomes shares and field jurisdiction; Force becomes support, alignment, range, displacement, and recoil; and the grade becomes a physical operation with sheets, boxes, stamps, dates, dividers, and two brass edges.",
+    "Prior strength survived: there is no fight, appropriately, but the Force demonstration is a memorable set piece with load-bearing terrain. The wheel is hub-deep in soft spring ground; Teague roots on firm ground; the cart moves only along his frame's line; the beast must step to keep the traces; and recoil returns through the wrist. Functional win sentence: Teague removed the cart's inability to clear the rut by routing impulse from firm ground through his aligned frame into the tail-board.",
+    "Prior strength survived: the grade reading remains the chapter's strongest noncombat set piece. The divider point arriving inside the straightedge's shadow makes archival inference visible, while Karis's 'That's all they say' discipline preserves wonder and reveal boundaries.",
+    "Prior strength survived: Teague remains a rival rather than a softened convenience. 'Field's mine. ... The reading's hers,' the moved jug, the ready cloth, and Cael's admission that the gap has not closed preserve independent competence and the rival clock.",
+    "Prior strength survived: the road reversal carries emotion through procedure and objects—the unlooked-at crown, five bridge piers, Cleon's iron door, Vastin standing where his wall stood, the counted halts, and the absent mule—without declaring the feeling.",
+    "Prior strength survived: the exact fixed log with the authorized grandmother correction remains the file's final text. It turns the document discovery into changed pressure and differs cleanly from Chapter 16's dialogue close."
+  ]
+}

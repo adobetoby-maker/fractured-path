@@ -1,0 +1,187 @@
+# Chapter 17 — The Straightedge
+
+They left Treswick by the grey bridge on the morning of the two hundred and ninety-fifth day, and he catalogued the six of them on it, because a bridge was a halt in the way a landing was, and because the last time he had counted them on it they had been walking the other way.
+
+Karis first, with the case under her arm and the copies inside it — the leaf's front and back, the gap drawn where the gap was, and the list of parts, which had taken the whole of the day before and had been finished at the bell with Cleon's finger on the last line — and the ledger inside her coat, and the notebook in the bound left hand because it could hold that. Brom with the kit and the first box on the good shoulder and the other shoulder carried, still and slightly forward, in the set it had kept since a hall in the autumn, on a foot that had walked to a city and in one and out of it and had been kept dry, as a healer had said, and had stopped being a thing he mentioned. Lira with the third box and two arms to carry it. Seln at the back with the cache and his eyes on the gate behind them, counting who came out of it. Vastin with the stick, and the right knee bound under the trouser, and sixteen days of a month gone on it, and the weight going onto it a little more each morning than the morning before, which Oryn was not there to forbid. And himself, with the middle box, and the straightedge inside his coat and the dividers beside it, and twelve things held to nothing, and a page copied from a leaf that said what he was, folded flat against the log where the letters went.
+
+Six, and no mule; the mule was north with a healer, and the boxes were on their backs as they had been on this bridge the other way, on the two hundred and eighty-second.
+
+He did not look at the crown. He had made the promise at the stair's foot thirteen days before and had kept it at one cost, on the night the light had turned, and he kept it on the bridge, which was the last place it could be broken, with the light steady and pale behind him and nobody to see him not look. He counted the piers instead. Five. He had the count from the other direction, and it agreed.
+
+Cleon had come to the iron door the evening before, at the bell, and had said goodbye in his register, which was the only one he had.
+
+"The list's copied. Your hand's better than mine on the fourth line; I've said so on the sheet." He had stood in the door with the key in his hand and the lamp behind him and the dark of the quarry behind the lamp, and had not come out onto the step, because the step was the street's. He had looked at Karis, because it was Karis he was saying it to. "Work. Not a finding. I'll not have it called a finding while I'm alive to object."
+
+"Work," Karis had said.
+
+"Good." And then, to Cael, a step late, as he did everything: "Mind the stair. It leans."
+
+He had said it as a man says a thing about a stair, and Cael had said "Noted," and the door had shut on its pins and the lock had gone over. A man who had spent thirty years down a stair did not come up it to watch a crew leave. He had come up it once, to a yard, and once, from him, was a great deal.
+
+The outer gate counted them out, six, and did not ask for paper, and they were on the border road with the sun in their faces, walking east, and he entered the date, because the leg was going to be dated, every day of it, and the dating was his.
+
+---
+
+The road east was the road west read the other way, and he read it.
+
+The spring, on the evening of the two hundred and ninety-fifth: the stone-lined trough and the flat slab where the records had been laid out in rows with the wind at their backs. The wind was in their faces now. Nobody laid anything out. Beyond the spring the road went up over the long rise, and on the near side of the rise was the fork where a track went north to seven holds, and Karis at the trough did not look at it, because it was not her track. He looked at it for her. A day south of the last of the seven was a ford called Millrace, on the Stair road, and by a count he had kept since a bank in the autumn Oryn would be at Millrace's table on the two hundred and ninety-eighth, and so would they, and the count was the same for everyone, and he had not said so to anyone, and did not now.
+
+They passed the fork the next morning without stopping, because Karis did not stop, and a road she was going to take was east and that one was not.
+
+The shoulder hold, at noon on the two hundred and ninety-sixth: the factor in the yard with the same ledger, who looked at the six of them and at the boxes on their backs and at the pack that was not three hills behind them, and asked, in the register a factor uses for a price, where the pack had gone.
+
+"Back east," Brom said. "A fortnight since."
+
+"I'd heard." The factor wrote something. "There's a crew that wintered at Lowmarch was asking after you. Big man. Reads the whole yard before he speaks."
+
+"He's expected," Cael said.
+
+"He said that." The factor closed the ledger. "He said you'd say that."
+
+They paid for water and did not stop the night, because the days were long now, and because the road, since the bridge, had had a feeling in it. Nobody was behind them; he had Seln's count on it at every halt, and the count was six and nothing else on the road for a mile either way. It was not the feeling of being followed. It was the feeling of being *known*: of walking a road that somebody had already read, a day ahead of you, off a sheet. He entered it, under the observation he could not file, and walked.
+
+The cut, that afternoon, going the other way. He had not seen it walking west, because it had been behind them by then and a man does not turn round on a road with a pack on it. He saw it now for a mile before they reached it: the road going between two shoulders of rock where it narrowed to a cart's width, and the scree below, and the stone floor where a plane had stood from wall to wall for as long as it had taken a knee to go under a man.
+
+There was nothing on the stone. He had not expected anything; a wall of that kind was a thing held, and when it was let go there was road. But he stopped at the place, and so did Vastin, a stride behind him, and stood on it, and looked at the walls on either side, which were the same walls, and at the scree, which was not road and never had been, and said, "Here," and Cael said it back.
+
+Vastin put the weight on the knee. He did it slowly, as a man does who has been told a month and is on the seventeenth day of it, and it held, and he stood a moment with the stick off the ground, which was the first time since the cut, and then put the stick down again, because Oryn was not there and he was not going to be the one to tell her he had done it.
+
+"Two words," he said. "Both of them ours."
+
+"Noted."
+
+Lira, on the far side, keeping the road, looked at the two of them come out of the cut with the same look she had given the stone the first time, and put the box on the other arm.
+
+Lowmarch, at dusk on the two hundred and ninety-seventh, three days from the bridge, by the wayposts and by his count, which agreed. The meadow with the tents not yet in it and the grass up. The landing, with the ferry at it and no ice on the river and the ferryman's ropes wet. The inn's two doors, and the best table through the road door, where a crew that had been top of a wall for three years wintered every year with the jug, and was at it now, four and a fifth, and the big man at the head of it, who had read the whole road door before the six of them came through it and was not looking at them, as a captain does not look at a thing he has already read.
+
+---
+
+Pike was at the plank. He had the book open and the wall sheet pinned by the road door where it went, and he did not look up when they came in, because he had counted the boots on the step and had the count from that, and he said, to the book, "Treswick," in the voice he used for a price.
+
+"Treswick," Cael said.
+
+"And."
+
+He had thought about it for three days, and he had the sentence, and he said it at the size a line was said, no larger, because it was going to be written and a thing that was written was read.
+
+"A survey read. There's a bearing. We're walking it."
+
+Pike wrote what had been said and not a word more, because that was what the book was for, and Cael read the line across the plank the right way up — he had read every page of his life the other way round until a woman's book at a counter in Treswick, and had stopped somewhere on that city's stair without deciding to — and it said *Treswick. Survey read. Bearing.* with a blank in the price column, because there was no price, and a blank in the outcome column, because there was no outcome yet, and Pike left both open, which he did not do, and put the pen down.
+
+"The season line's still empty. It starts when a crew goes out, and none has." He looked at the six of them once, the whole of them at once, as he had on the day he had said the ledger was too small. "You're going out."
+
+"We're going out."
+
+"Then the season's started." He wrote the date, and looked at it a moment as if it were a price, and then said, not to the book, "He's been at that table since the ice. Go and let him say it."
+
+Teague was already up.
+
+He came to the plank as he had come to it in the snow, before the room had decided what the term was; and the tall woman with the spear at the table behind him did not turn round, and the broad man with the crossbow shifted his weight off the limp and did not turn round either, and the young one at the table's end put down what he was eating and looked, because he was young and had not yet learned not to, and the fifth — the older woman with the cloth bag — looked at Brom's shoulder across the room, once, and went back to her cup.
+
+"Spring," Teague said.
+
+"Noted," Cael said.
+
+That was the whole of the term, restated, and neither of them made it larger. Teague put a hand flat on the plank's edge, the wrist of it thick and the fingers square, a labourer's hand on a captain, and said the rest, which was the part with a price in it.
+
+"Ten of us on a wall's count. Your six and my four. Your researcher's on it, because a wall counts who walks a site and not who swings, and she's the one who found the site. Healers don't go on a wall's count — yours is on a north road and mine won't thank you for putting her on it." He did not look round at her. "Shares by count, whichever way the site pays, and I'll not argue the researcher's share, because I've read her map and she's the reason there's a site. Field's mine. I've had a crew at the top of that sheet three years and you've had one eleventh, and the wall's the wall, and I'll not pretend otherwise to be polite. The reading's hers." A tilt of the head toward Karis, who had not stopped at the plank and was already at the back room's door with the case. "I don't read. If she says a thing's old, I'll take it that it's old, and I'll walk to it, and my crew walks where I do."
+
+"And on the site."
+
+"On the site it's whoever's nearest the thing that wants doing. You know that. You did it at a hall with two of yours down, and I read it off your face at a marsh before you'd priced it yourself." He looked at the six of them in order, the way he read a job. "I'm not here because I like you. I'm here because there's a thing on that bearing thirteen crews have walked past for thirty years and one crew went and looked, and I'd sooner be at the front of that than read about it on a wall. Contract. Not more than that. I'll not have it called more."
+
+"Contract," Cael said.
+
+"Good." And then, because the room wanted it: "The wall's still the wall."
+
+"It is."
+
+Teague went back to his table, and the tall woman moved the jug a hand's width to make room for his elbow without looking at him, which was the whole of a crew, and Cael stood at the plank and priced it honestly, because the ledger was going to be his and the ledger did not take a price that had been softened at a plank.
+
+Teague was the better field captain. He had been for three years and he was now, and the difference had not closed in a winter, and the thing was not courage and was not Path and was not luck. It was that he read a job off the faces of the people who were going to do it before they had done it, and moved them to where the job was going to be, and did not say so. It had not got smaller. The rival clock still ran — in the young one's look, and in Seln's look at the man's back, and in the sheet on the wall with Teague's four at the top and the five names eleventh — and it would run along the whole of the bearing, and he did not enter it as a fault, because a clock was not a fault. It was a count. And it was a contract: a man who had walked three days along a bearing in the autumn with a healer of no Path to bind a rival's shoulder, and had set a term in the snow and wintered keeping it, and had now stated it again at the size he had stated it before, was not a friend, and had said so, and was owed the honesty of being taken at his word. Cael took him at it.
+
+---
+
+The cart was in the meadow the next morning, before the table, and he catalogued it because it was the first time he had seen the thing done.
+
+A carter's cart, loaded, off the landing with a hide-load for the holds east, with the near wheel down to the hub in the soft ground at the meadow's edge where the ice had gone into the grass and not out of it. Two of Teague's at the wheel — the broad man with the limp and the young one — with their shoulders to it, and the wheel not coming, because a wheel down to its hub in spring ground does not come for two men's shoulders; and Teague coming across the grass from the landing without hurrying, and putting the two of them aside with a hand each, not roughly, and standing at the cart's tail.
+
+He did not set his shoulder to it. He put one palm flat on the tail-board at the height of his own chest, and set his feet, and Cael, at the inn's door with the log, saw the feet: square, a stride apart, the whole of the man lined up from the heels through the hips through the shoulder to the flat of the hand, as if somebody had run a straightedge down him and found no daylight. And the cart went.
+
+Not far. A body's length, which was the length of the man from heel to palm; it came up out of the rut and forward a stride and a half onto firm ground and stopped, and the carter's beast, which had not been asked, took a step to keep the traces from going slack and looked round at the cart as an animal looks at a thing that has done what it was not built to do.
+
+Teague stood a moment with the hand still out. Then he took it back, and shook the wrist, once, and Cael heard it click.
+
+It was not loud. It was the sound a knee makes on a stair, a small dry sound in a wrist that was forty years old and had been putting a cart's weight through itself for twenty of them. The young one had a cloth out of his coat before the sound had finished, and Teague took it without looking and wrapped the wrist, twice round, tight, and tied it off with his teeth and the other hand, and gave the cloth back, and the whole of it had been done by two people who had done it a great many times and did not discuss it.
+
+Force. He had the card for it from a marsh and the thing itself now, and they agreed. Not a Path a man carried in his body, as Iron went, or set in front of it, as a wall. A Path that went *through* him: impulse, at the moment of contact, along the line of the frame from the ground to the hand, and nothing to the side of the line, and nothing at a distance, and nothing at all without a thing to push against. And the cost came back along the same line it had gone out on. The wrist clicked because the wrist was where the line came out, and the man had a boy with a cloth, and that was the whole of Force at Bronze in one cart in one meadow.
+
+"You'll have seen that," Teague said, coming past the door. He did not stop.
+
+"I've seen it."
+
+"Then you know what it costs. Don't put it in front of anything that needs doing twice." And he was through the road door and at his table with the wrist under it, where nobody had to look at it, and the tall woman had moved the jug again.
+
+Cael entered the line, from the heel to the palm, and the fact that everything the man had went out along it and everything he paid came back along it, because there was a place ahead on a bearing where a thing with one line and one cost might matter, and he did not know yet how.
+
+---
+
+Karis cracked the grade in the back room of the lower inn, on the morning of the two hundred and ninety-eighth, at the table where the sheets had breathed all winter, and he was in the room for it because she had said, at the door, "Bring the edge," and he had.
+
+He catalogued the table before she started, because she was going to change it. The carter's sheet, with its four circles and the bearing drawn through them in pencil and running on off the paper's edge, and a second sheet pinned to that edge, blank, cut in the winter for the bearing to run onto. The kit's ledger, open at the index. The Compact's records in their rows — the three rows from a spring, and the sheets that had been under the same cover that day and had not been laid out, because there had been no row for them: sites nobody at that spring had heard named, filed with the others because an office files what it has. The list of parts, copied, in her hand and his. The dividers, closed. And the two straightedges, brass on brass, lying along the bearing as they had lain since a landing in the snow.
+
+Six at the table. Teague was not; he had said he did not read and had meant it, and was at the plank with his three, and the door was shut.
+
+"The marks," Karis said.
+
+She said it to the sheets, with her bound hand flat on the first row and her good hand on the one page that had ridden on top of the case since the spring, the citation, a title and a place, and then she began, and he had the whole of it in the log by the end and could not afterward have said in what order she had said it, because she had said it in the order the sheets came, and the office had not known what it was filing.
+
+The four sites the crew had walked had the same mark by the stamp, the stroke and the bar, the fourth's twice the size; he had that from the spring, and had not had what it meant, and neither had she, and she had carried the not-knowing for eighteen days without pretending it was anything else. There were two other marks. On the sheets for the sites nobody had heard named, in the same corner: a stroke alone, on none of them — she turned the whole cover through and there was not one — but the form had a box ruled for it, empty, and a form does not rule a box for a thing that does not exist. And a stroke and *two* bars, on one sheet. One. She put her finger above it, not on it.
+
+"Three marks. One's never used, but the form's built for it — a box ruled for a site that's recent, a life or less on paper, and the office never had one to put in it. One's on our four. One's on this." The finger did not move. "The kit's index grades its stakes — first, second, third. I've had that since the Ring and not known what to do with it. The dead man graded his own work." The good hand went to the ledger, to a column he had looked at forty times and taken for a tally. "And Cleon's list names the mark at the kindling and the mark on a sheet in the same line, as the same kind of thing. A mark is a grade. The one they give a boy at fourteen says what he's *for*." Her voice did not change on that; he noted that it did not. "The one on a sheet says how *old* the thing is."
+
+The door opened while she reached for the dividers, and Teague was in it — he had come across the room when the case came off the table, because a thing being measured was a thing a captain could watch without reading it — and he stood there, and did not sit, and she did not stop.
+
+She laid it out with the dividers, and he watched a woman do with two brass legs what a whole office had not done with a building.
+
+Not old by the stone. Old by the *paper*. The records dated each site by its first sheet — the first time a stake had been stamped, the first time anybody with a pen had walked to it and written it down — and she read the dates off in the order the rows came, and set the dividers on the map at each circle as she read.
+
+The Ring: sixty-one years on the sheet. The Stair: ninety-four. The Hall: a hundred and thirty-eight. The fourth: two hundred and six, in a hand that formed its letters as hands had formed them before the current office's clerks were taught. All four second-tier. *Stable across generations* — the form's own words, in the box beside the mark, which he had read at the spring and taken for a clerk's habit, and which was the whole of the classification: a site walked to and found the same by more than one generation of pen.
+
+And the one with the stroke and two bars. It was not on the carter's sheet, because the carter had not known it; it was on the office's, with a bearing and a distance from a hold that was on the carter's sheet, and she walked the dividers across from the hold at the office's distance on the office's bearing, and the point came down on the blank sheet past the fourth circle, on the line.
+
+On the line. Not near it. The brass edge from Ternhall lay along the bearing and the divider's point stood in its shadow without a hair of daylight between, and she did not say anything about that, and neither did he, and Brom, across the table, let a breath out through his nose, which from Brom was a sentence.
+
+"Third-tier," Karis said. "*Stable across centuries.* Documented back to the first sheet the office ever kept — before the current office, before the one before it; the form's own head calls that the setting, and doesn't say of what. The sheet's a copy of a copy, and says so, and the hand that made the first one is a hand nobody at that registry could read, and they filed it anyway because it had a stamp." The finger, above the point. "It's been quiet since there was paper to say so. Nobody's walked to it in the records. It hasn't changed."
+
+"How far," Lira said.
+
+"Past the fourth. A day, maybe two, by the office's distance from that hold. I'll pace it." She closed the dividers, and then did the thing he had not seen coming, though he had the numbers in his head and should have: she laid the four dates out along the edge from Denvash with her finger, one at each circle, from the west end of the line to the east, and said them again in that order.
+
+"Sixty-one. Ninety-four. A hundred and thirty-eight. Two hundred and six." The finger went on, to the point on the blank sheet. "And this one, back to the first sheet, and past it."
+
+The table was quiet. He had had the row since she said the Ring's number and saw the order it would make, and had held it, as he held the twelve, to nothing, until she said it aloud, because a count that is said aloud is a different count from one that is held.
+
+It was not a line of sites. It was a line of *ages*. It ran from the youngest at the west end to the oldest at the east, and it did not skip and did not double back, and the office's dates were the dates of paper and not of stone, and it still held, because the paper had been laid down in the order the stone had been, by pens that had found what there was to find when they first walked out to look.
+
+"Somebody laid them down in order," Karis said, flatly, as she said everything she was sure of, and then she said the rest, which mattered more to her than the finding, because she had been a year at the Stair's foot learning that it did. "That's what the sheets say. They say somebody graded these, a long time ago, and the grade runs oldest-last along the line, into the deep edge. That's *all* they say. They don't say who. They don't say why. They don't say what a grade is for, or what the oldest one is, or whether anything's still doing anything out there, and I'll not have anyone at this table say it for them." She looked at Vastin, because Vastin was the one at the table who would. "It's observation. I'm telling you what the paper says. Not what it means."
+
+"Noted," Vastin said, from the stick, and it was the first time Cael had heard him use the word, and he entered it.
+
+Teague, at the door, who did not read, said: "Oldest last."
+
+"Oldest last."
+
+"Then that's where we're going." He said it as a man says where the job is. "Past the fourth. On the line." He looked at Karis once, as he had looked at her map across a plank. "You'll pace it."
+
+"I'll pace it."
+
+"Good." He went out, and the tall woman in the passage behind him, who had not been in the room and had heard all of it, had the jug.
+
+Karis put her hand flat on the sheet, and the reading closed.
+
+He stayed when the others went, because the edge from Denvash was still on the map and he had been asked to bring it and had not been told to take it away. He sighted along it against the window, and there was no light under the line, as there had not been against a fire in the snow, and he folded it into the length of his palm and put it inside his coat where it went. Then he opened the log on the table where the map had been, because that was where a thing went when he had read it, and wrote.
+
+*Two hundred and ninety-eighth day. Lowmarch, the back room. A hundred and twenty-seven in hand; nothing owed; nothing earned. Nineteen. Twelve. Eleventh on the wall; Teague's four at the top. Millrace tonight, by the count; Oryn there by hers.*
+
+*Karis cracked the grade. The sites are ranked by age and the bearing runs oldest-last — somebody laid them out in order, and the order runs into the deep edge, toward the first one they ever made. Second-tier's the fourth site, the one the Compact fenced. Third-tier's out past it, on the line, quiet for centuries. Teague's crew came for spring like he said — ten of us now, and he's still better at this than I am, and the ledger still says so. Two crews, one bearing, and a straightedge my guardian sent me because my grandmother said a man who catalogues everything eventually needs to draw a line through it. Turns out she was right about the line. Turns out the line was already drawn four hundred years ago. We're just the first to follow it to the end.*
