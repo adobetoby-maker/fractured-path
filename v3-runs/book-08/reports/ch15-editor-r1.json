@@ -1,0 +1,496 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch15-r1-editor",
+  "scene_id": "b8-ch15",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "AUTHORITY — planning rulings that post-date the packet (DECISIONS-B7-RECONCILIATION rows 16-22)",
+      "state": "PASS",
+      "evidence": "Row 16 (no mule in Treswick): grep 'mule' over ch15.md returns 0. Row 20 (Vastin fifty-three; 'forty years' is his own rounding, not a finding): 'forty years of practice at not letting a face decide' [53] and 'the first time in forty years' [87] recorded and NOT raised as findings per the standing ruling. Row 21 (Cleon at the iron door) not engaged this chapter. Row 22 ('eight days inside' counted from the 284th): the chapter does not use the phrase; its 'watched him for eight days' [89] is Cleon's week, which Ch13 dates ('the sixth day of his week', the 291st) and Ch14 dates ('the seventh day of the week he had asked for', the 292nd), making the 293rd the eighth — arithmetic consistent."
+    },
+    {
+      "gate": "AUTHORITY — CANON_RULES reveal schedule: Book 8's LOCKED reveal delivered",
+      "state": "PASS",
+      "evidence": "'the Fractured Path predates the classification system | Book 8' is delivered on the page: the record's date at the leaf's head, the designer named by the record's word, the un-bound as a live term, and Karis's 'It's not retired here. It's not a limit. It's a kind.' [37]. No earlier-than-schedule secret disclosed."
+    },
+    {
+      "gate": "SECRET DISCIPLINE — Book 9 (Arbiters ARE the apparatus) sealed",
+      "state": "PASS",
+      "evidence": "Vastin reaches for it ('And the mark that is given at the kindling — ' [83]) and Karis refuses on the page: 'It doesn't say what the thing he made has to do with the thing on your arm … and I'm not going to say it either' / 'A measurement is a fact about a ruler. Not about the hand that held it.' [85]. 'Two pages,' and did not finish the sentence [87]. No 'terminal', 'circuit', or 'infrastructure' anywhere in the file."
+    },
+    {
+      "gate": "SECRET DISCIPLINE — Book 11 (the Architect's will active/hunting) sealed",
+      "state": "PASS",
+      "evidence": "grep over ch15.md returns 0 for 'preserved', 'primordial', 'reset', 'hunting', and 'active'. The only 'will' occurrences are ordinary future/modal ('nobody ever will' [15]). The chronicle's claim is left inside the record and inside a hole."
+    },
+    {
+      "gate": "SECRET DISCIPLINE — Book 13-14 (the Architect's motivation) sealed; the record's fear REPORTED not ratified",
+      "state": "PASS",
+      "evidence": "Every statement of the rationale is attributed: 'that's the record's phrase; I've read it four times and it says what it says' [27]; 'That's what the record says' [85]. No character or narrator says the Architect was right, wrong, sympathetic, or mistaken."
+    },
+    {
+      "gate": "SECRET DISCIPLINE — the chronicle leaf: the hole MARKED, the second page held",
+      "state": "PASS",
+      "evidence": "'And there's the hole. Whatever came after is in it is a thumb's width of nothing.' … 'I'm marking it. I'm not reading it. I've written it down as it stands, with the hole drawn as a hole, and I've written nothing under it' [71]; 'Marked,' Cleon [73]; 'Marked,' Karis, 'and wrote nothing' [75]; the two findings held on two pages with no line drawn between them [85]."
+    },
+    {
+      "gate": "OBLIGATION — Book-11 plant 1 present AND unglossed",
+      "state": "FAIL",
+      "evidence": "The plant is present and marked, but Karis supplies an explicit deflationary reading before marking it — 'That's the kind of thing an old chronicle says about a founder. Every old chronicle I've ever read says a thing like it about somebody.' [71]. See F-CH15-001."
+    },
+    {
+      "gate": "PROHIBITED — no still place",
+      "state": "FAIL",
+      "evidence": "'a boy at a table's corner with twelve pieces of the measure in him and a place in the middle that no measure read' [59] names the still place by description; cf. Ch14's log, 'The still place at the middle of them, not read, not touched'. See F-CH15-003."
+    },
+    {
+      "gate": "'four hundred years' — permitted in THIS chapter ONLY as the record's date",
+      "state": "FAIL",
+      "evidence": "Three occurrences. Two are correctly attributed to the record [37, 85]. The third is narration asserting the leaf's age as fact — 'hearing a four-hundred-year-old leaf say what the line had been drawn for' [53]. The packet allows the number 'once or twice, as the record's date'. See F-CH15-002."
+    },
+    {
+      "gate": "OBLIGATION — the primary source found and described as an object, read WITH the carvings as key",
+      "state": "PASS",
+      "evidence": "The full object paragraph [9]: the stuff ('not paper and not skin and had been … both once'), the point-written hand, the one face that takes a mark, the twelve-leaf bundle, and the descent of hands — 'the board's hand had learned from it as a child's hand learns from a master's — the same lean; the same bearers'. The key is named: 'with the board and the Hall's fourth sheet as the key' [15]; 'the floors had given the language its letters and the word had given it a place to start' [19]."
+    },
+    {
+      "gate": "OBLIGATION — the reveal delivered ONCE, aloud, by Karis, in the record's antique voice",
+      "state": "PASS",
+      "evidence": "One continuous reading [27-31], broken only at the scrape; then one paraphrase explicitly framed as such — 'I'll say what it says, once, in my own words, and then I've said it' [37]. Read-back forbidden by the reader herself [15] and honoured [99]."
+    },
+    {
+      "gate": "OBLIGATION — the effaced name described (the scraped place; the first stroke of the first letter)",
+      "state": "PASS",
+      "evidence": "'a patch the width of four or five of the runs' letters … the face taken off, back to the fibre, by a blade, or by a thumb over a very long time, and at the patch's left edge, still there, the first stroke of the first mark that had stood in it, a single upright line' [13]; and the unknowability preserved — 'I can't tell and Cleon can't tell and nobody ever will' [15]."
+    },
+    {
+      "gate": "OBLIGATION — [UNBOUND] live as 'the un-bound'; 'Older. Made. Us.'",
+      "state": "PASS",
+      "evidence": "'the un-bound' occurs 6 times, all inside or about the record; 'That's the word from the confiscated record. That's the word I've carried since a stratum. It's not retired here.' [37] consumes B3 / B6 / B7-Ch15's limit. 'Older,' she said. 'Made. Us.' [41]."
+    },
+    {
+      "gate": "OBLIGATION — Cleon watching her get the whole of it and saying nothing; the decade of bad sleep visible",
+      "state": "PASS",
+      "evidence": "Two words in the chapter — 'Lamp' [21] and 'Marked' [73] — and 'that was his whole ledger for the day … the face of a man who has been right for thirty years and has just found out … that being right was never going to have been the relief he had thought' [89]. Pays Ch11's 'I've never once slept well since.'"
+    },
+    {
+      "gate": "OBLIGATION — Cael present as labour, withheld; no aloud connection to himself",
+      "state": "PASS",
+      "evidence": "'He did not catalogue himself.' [57]; 'He had the sum. A cataloguer could not not have it. He did not do it. He held the lamp' [59]. He says nothing in the chapter at all. Ch16's taking is not performed."
+    },
+    {
+      "gate": "OBLIGATION — close on the WRITTEN DOCUMENT verbatim; the file ends on the three words",
+      "state": "PASS",
+      "evidence": "Exact string comparison against the packet's closing_state: 'then the gap: a name's length of the page scraped back to the fibre, four or five letters' worth, the first stroke of the first letter still showing' — 1 exact match [101]; 'set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it' — exact [101]; 'and the' as the leading fragment — present [101]; 'Older. Made. Us.' — final line of the file [103]. Only variance is single-to-double quotation marks, which the packet renders in its own quoting convention. No image, dialogue, or log closer follows."
+    },
+    {
+      "gate": "FIXED LINE — the record's fixed close read aloud",
+      "state": "PASS",
+      "evidence": "'that the un-bound should not come again, who had near unmade the world before the ordering of it' appears exactly twice — once in the reading [31], once in the copy [101] — character-for-character against the packet's knowledge_boundary text."
+    },
+    {
+      "gate": "PROHIBITED — no fight; no reach; no station scene; no fragment use; no reading; no Rune on himself",
+      "state": "PASS",
+      "evidence": "No action beat in the file. The station appears only as a noun inside Karis's refusal ('the thing on a station's roof four tiers up' [85]). Cael uses nothing; the twelfth thing is not turned on the leaf or on anyone."
+    },
+    {
+      "gate": "PROHIBITED — no Ch16 pre-payment",
+      "state": "FAIL",
+      "evidence": "Vastin's Ch16 line is correctly withheld ('Two pages,' and did not finish the sentence [87]), but the narration states his realization for him: 'hearing a four-hundred-year-old leaf say what the line had been drawn for' [53] — the substance of Ch16's title and its Vastin beat. See F-CH15-011."
+    },
+    {
+      "gate": "FORBIDDEN NAMES — Halcenvane / Velmere / Wray / Bracken",
+      "state": "PASS",
+      "evidence": "grep -in over ch15.md: 0 hits for all four."
+    },
+    {
+      "gate": "WORD BAND 3,910-5,290 (target 4,600 +/-15%)",
+      "state": "PASS",
+      "evidence": "3,989 words including the title line; 3,982 excluding it; 3,977 excluding the title and the four '---' separators. Above the floor by 67-79 words on the counting the author reports. See concerns — there is almost no headroom for subtractive repair."
+    },
+    {
+      "gate": "TIC CAP — one-word paragraphs (cap 2)",
+      "state": "PASS",
+      "evidence": "awk 'NF==1' over non-separator, non-heading lines returns 0. Shortest paragraphs are three words ('She stopped reading.' [33]; 'She sat back.' [39]; 'Vastin spoke once.' [79]; '*Older. Made. Us.*' [103])."
+    },
+    {
+      "gate": "TIC CAP — 'the way X [verb]' (cap 4)",
+      "state": "PASS",
+      "evidence": "1 qualifying use: 'the way she wrote every finding she did not yet dare to interpret' [99]. 'the way of men' [71] has no verb; 'a third of the way down' [11] is not the construction."
+    },
+    {
+      "gate": "TIC CAP — 'upside down' (cap 0)",
+      "state": "PASS",
+      "evidence": "grep -in 'upside down': 0."
+    },
+    {
+      "gate": "TIC CAP — 'for the length of a breath' (cap 0)",
+      "state": "PASS",
+      "evidence": "grep -in: 0. Ch14 used it once and it is correctly absent here."
+    },
+    {
+      "gate": "TIC CAP — 'at the pitch' (cap 0)",
+      "state": "PASS",
+      "evidence": "grep -in: 0."
+    },
+    {
+      "gate": "TIC CAP — charter section 9 baseline list",
+      "state": "PASS",
+      "evidence": "'jaw tightened' 0, 'laughed once' 0, 'without humor' 0, 'stomach tightened/dropped' 0, 'There it was' 0, 'That was true' 0, 'Also true' 0, 'sounded almost' 0, 'held this' 0, 'which was, in its own way' 0."
+    },
+    {
+      "gate": "TIC CAP — charter section 9 replacement-tic rule (a fresh repeated phrase is the same defect)",
+      "state": "FAIL",
+      "evidence": "The 'was, from X, a [prose unit]' scaffold the Ch14 r2 editor left standing as an open concern recurs here with the identical unit: ch14.md 'was, from Lira, a great deal' [43] -> ch15.md 'was, from him, a great deal' [87], plus the same gag in a second dress at [19]. 'the whole of' runs 7 times in 3,989 words. See F-CH15-007."
+    },
+    {
+      "gate": "AUDIO SURVIVAL (charter sections 8.2, 8.3)",
+      "state": "PASS",
+      "evidence": "The closer is built so the typography carries nothing: the gap is described in prose ('then the gap: a name's length of the page scraped back to the fibre …' [101]) rather than shown as whitespace, so the effacement lands read aloud. No brackets, no system block, no stat fields. One local ambiguity is filed as F-CH15-010."
+    },
+    {
+      "gate": "AUTHORING METADATA (charter section 8.4)",
+      "state": "PASS",
+      "evidence": "grep -n 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over ch15.md: 0 hits. The file ends on the last line of prose."
+    },
+    {
+      "gate": "META-VOICE",
+      "state": "PASS",
+      "evidence": "No commentary about the book, the chapter, the reader, or the act of narration. The retrospective move at [3] ('which was, Cael understood afterward, the whole of what the man had left to give') is the established series construction — cf. ch14.md [line 'He would have said, after, if anyone had asked him — nobody did — that he had not seen it']. 'so it's in the book' [63] is Karis's field notebook, in-world."
+    },
+    {
+      "gate": "SCENE-CLOSER RULE (charter section 9 — consecutive chapters differ in structural move)",
+      "state": "PASS",
+      "evidence": "Ch14 closes on an observed-from-distance image ('The light behind him.'). Ch15 closes on a written document. Different moves."
+    },
+    {
+      "gate": "SCENE VS SUMMARY (charter section 10)",
+      "state": "PASS",
+      "evidence": "grep for 'heard about it later|learned afterward|was told later|found out later|by the time he heard': 0. The architecture-major beat (the reading) is on the page in real time; only the how-she-found-it is compressed, and the card assigns the finding to the seventh day off-page by design."
+    },
+    {
+      "gate": "READER STANDARD (Gate 27 — thirteen-year-old; outranks taste)",
+      "state": "PASS",
+      "evidence": "Banned-word grep (damn, hell, bastard, oaths, crude slang) returns 0. No violence, no gore, no sexual content, no innuendo. Moral register is intact and load-bearing: Karis refuses to guess a line she cannot see [85]; Cleon declines to say what the record does not; Cael keeps a discipline that costs him ('being it was the hardest thing he had done in a city' [59]). Adults are treated with seriousness; Vastin's courtesy is honoured rather than mocked [87]."
+    },
+    {
+      "gate": "POINT-OF-VIEW INTEGRITY (craft core invariant 1)",
+      "state": "PASS",
+      "evidence": "Everything is Cael's attention or Cael's inference, and inference is marked as such ('something under the respect that Cael did not have a name for and would have called, in anyone else, fear, and would not call that in Brom' [49]). Karis's method reaches him by report ('she had told him on the stair going down that morning, in eleven words' [19]) rather than by narrator privilege."
+    },
+    {
+      "gate": "CONTINUITY PERSISTENCE — injuries, possessions, counts (craft core invariant 3)",
+      "state": "PASS",
+      "evidence": "Karis's bound left hand carried from Ch12 [15, 'her bound hand flat on the table']. Brom on the first box with the tooth-cut foot out, per Ch9/Ch4 [49]. Lira two-armed since Ch1 and shifting off the mended ankle [49, 55]. Vastin's knee from Ch12 [51]. Fifty-two sheets [97] per Ch9. Twelve fragments [59] matches Ch14's log ('Twelve. Wind, Pressure, Iron … Iron Wall … Rune'). Cleon's ten-year board [3, 49] per Ch10/Ch11; thirty years down the stair [89] per Ch8."
+    },
+    {
+      "gate": "CONTINUITY PERSISTENCE — timeline and time of day",
+      "state": "FAIL",
+      "evidence": "The day is stated ('The two hundred and ninety-third day.' [5]) but the time of day the packet asked to be stated is not, and the chapter carries both registers: 'I read it again this morning, and I'm going to read it aloud now' [15] against 'I've two findings tonight' [85]. See F-CH15-005."
+    },
+    {
+      "gate": "CONTINUITY PERSISTENCE — companion standing (Karis's sigil)",
+      "state": "FAIL",
+      "evidence": "'the thing on your arm, or the thing that was on mine' [85] puts Karis's Kindling mark in the past tense; B7 Ch15 counts hers live among five ('Five sigils … Wind. Iron Skin. Ember. Shadow. Tide. Iron rank one, Copper, no ranking, Bronze, Iron rank four'). See F-CH15-004."
+    },
+    {
+      "gate": "CAUSAL LEGIBILITY / EARNED RESOLUTION (craft core invariants 2, 4)",
+      "state": "PASS",
+      "evidence": "The find is caused by things the reader has watched: Cleon's twenty-two years with an unreadable bundle, the three floors of carvings copied in Book 7, the word Karis has carried since a stratum, and Cleon's Ch13 demonstration of the lean. Nothing arrives by coincidence and nothing is solved by capability."
+    },
+    {
+      "gate": "CONSEQUENTIAL SCENE (craft core invariant 5)",
+      "state": "PASS",
+      "evidence": "Knowledge changes for six people; Vastin's relation to his own forty years changes at a table [87]; Cleon's thirty years are believed by somebody else for the first time [89]; the book's central question is answered and re-aimed. Quiet, not static."
+    },
+    {
+      "gate": "PROGRESSION MODULE — editor gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, fragment, tier, or capability delta occurs in this chapter; the twelfth integration closed in Ch13 and is only referenced [59]. Rivals and institutions are not frozen — the Compact's line is present in the room in the person of Vastin."
+    },
+    {
+      "gate": "INVENTION BUDGET",
+      "state": "PASS",
+      "evidence": "Inventions stay inside the allowed list: the leaf's physical form and script, the bundle of twelve, the chronicle's form and hole, the antique wording around the fixed close, and the method (board plus Hall's fourth sheet as key). No new named person or place. No content of the record beyond the passage, the name's absence, and the secondary line — the 'list of the measure's parts' is explicitly withheld unread [37], which is the correct handling."
+    },
+    {
+      "gate": "REPAIR DISCIPLINE / job declaration",
+      "state": "PASS",
+      "evidence": "Declared job is 'draft'; the file is a first draft and no prior verified findings existed to respect (packet verified_findings: [])."
+    },
+    {
+      "gate": "STRENGTHS PRESERVED (role contract)",
+      "state": "PASS",
+      "evidence": "Ten strengths recorded below, three of them naming specific lines a subtractive repair pass must not touch."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-CH15-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "plant integrity — the Book-11 plant is glossed before it is marked",
+      "gate": "Scene packet obligations.must_include ('Karis marks it and offers no reading; nobody glosses it'); CHAPTER_ARCHITECTURE Book-11 plant 1 ('the book offers no gloss'); CANON_RULES planting requirements (Book 11, minimum three plants, originating in Book 8)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 71,
+        "line_end": 71,
+        "quote": "\"That's the kind of thing an old chronicle says about a founder. Every old chronicle I've ever read says a thing like it about somebody. *He did not die; he went into the mountain; he is in the river.* It's what a hand does at the end of a great man's life when it doesn't want to write *and then he died*.\" She took her finger back. \"I'm marking it. I'm not reading it."
+      },
+      "comparison_evidence": {
+        "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+        "line_start": 55,
+        "line_end": 55,
+        "quote": "*(1)* **\"Did not die in the conventional sense\" (Ch15):** a damaged *secondary* source in the Deepstacks says the Architect did not die in the ordinary way. The language is obscure — antique, hedged, possibly metaphorical. Karis marks the passage and does not theorize it; the book offers no gloss."
+      },
+      "consequence": "Karis supplies a complete deflationary reading — chronicle convention, a hand avoiding 'and then he died' — and only then says she is not reading it, which makes the disclaimer describe something the speech has already done. Two costs. First, the plant is discounted at the moment of planting: the reader is handed the innocent explanation with a named genre precedent and three examples, so the line arrives in Book 11 pre-defused rather than pre-loaded, and the packet's own note on why it works ('in-world it reads as the kind of reverent ambiguity old chronicles use for founders') is a reason for the reader to arrive there unaided, not a speech for Karis. Second, it is out of character against her own discipline three paragraphs later — 'I'm not drawing a line between them, because I can't see the line and I'm not going to guess one' [85] — where she refuses to interpret a thing she cannot rule on. Here she rules, then says she has not.",
+      "repair_target": "Cut the comparative gloss at [71] — the chronicle-convention sentence, the three examples, and the 'what a hand does' explanation — and let the marking stand on its own: the run, the hole, 'I'm marking it. I'm not reading it,' the condition for un-marking it ('until somebody hands me a second source'), and Cleon's 'Marked.' If a reason for the mark is wanted, it should be a reason about the damage (two-thirds of a leaf, a thumb's width of nothing) rather than about what old chronicles usually mean.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH15-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "reveal discipline — the record's date narrated as established fact",
+      "gate": "Scene packet pov.knowledge_boundary ('roughly four hundred years before the present (the number is allowed HERE, once or twice, as the record's date)'); craft core reader-trust invariant 1 (inference must read as inference)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 53,
+        "line_end": 53,
+        "quote": "The Compact's own held line, standing in a hole under a Compact registry, hearing a four-hundred-year-old leaf say what the line had been drawn for."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch15-editor-prompt-r1.md",
+        "line_start": 458,
+        "line_end": 458,
+        "quote": "says he DESIGNED AND DEPLOYED the classification apparatus ('set the apparatus over all the land') roughly four hundred years before the present (the number is allowed HERE, once or twice, as the record's date)"
+      },
+      "consequence": "Three uses, not one or two, and the third changes register: [37] and [85] are both correctly the record's claim ('by the date at the leaf's head'; 'a thing a record says'), but [53] is the narrator dating the object. The chapter's whole discipline is that everything is a claim on a page — Karis says it four times in four ways — and one compound adjective in the narration quietly converts the leaf's self-reported date into the book's own measurement. It is also the one place a reader could later cite as the series having asserted the four-hundred-year figure rather than reported it, which is exactly the seam Books 9 and 13-14 need to keep loose.",
+      "repair_target": "At [53], drop the dating from the narration: 'hearing a leaf older than the Compact say what the line had been drawn for' or 'hearing a leaf say what the line had been drawn for'. The number is already twice on the page in the only voice entitled to it.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH15-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "prohibited outcome — the still place named by description",
+      "gate": "Scene packet obligations.prohibited_outcomes ('No still place'); pov.knowledge_boundary DISCIPLINE (SEALED) item 5 ('the still place is NOT mentioned')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 59,
+        "line_end": 59,
+        "quote": "and he did not do the arithmetic that the leaf invited — a kind, before the measure; a thing that walked in the land; a boy at a table's corner with twelve pieces of the measure in him and a place in the middle that no measure read. He had the sum."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 75,
+        "line_end": 75,
+        "quote": "*Twelve. Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide; Iron Wall, from a plane in a cut; Rune, from a lamp. The still place at the middle of them, not read, not touched, not the Quiet, not a fragment."
+      },
+      "consequence": "'a place in the middle that no measure read' is the still place under a paraphrase — the previous chapter's log uses the same two coordinates, 'at the middle of them' and 'not read'. The packet seals it for this chapter and permits Cael only to note that a word for what he is was read aloud and that he did not move. The clause also does the thing the sentence disclaims: the three terms of the sum are set out for the reader in order, so the arithmetic is performed on the page and then declared undone, which spends a measure of Ch16's turn while formally withholding it. The paragraph is otherwise the best withholding in the chapter and should not be rewritten — only this one item removed from the list.",
+      "repair_target": "At [59], cut the fourth term so the invited sum stops at what the packet permits: '… a boy at a table's corner with twelve pieces of the measure in him.' The withheld thing then stays withheld and 'He had the sum' still lands, because the reader supplies the term the narration refuses to.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH15-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity — Karis's Kindling mark put in the past tense",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); authority ladder level 2 (approved canon at the packet's declared canon revision)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 85,
+        "line_end": 85,
+        "quote": "It doesn't say what the thing he made has to do with the thing on your arm, or the thing that was on mine, or the thing on a station's roof four tiers up, and I'm not going to say it either"
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-15.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "\"Five sigils.\" Her hand went to five points on the table, one for each. \"Wind. Iron Skin. Ember. Shadow. Tide. Iron rank one, Copper, no ranking, Bronze, Iron rank four. Five people, five Paths, five standings, five histories of a thing that showed up at fourteen and has been each of ours since.\""
+      },
+      "consequence": "Two problems in one clause. (a) Tense: 'the thing that was on mine' reads as Karis's Arbiter being gone. B7 Ch15 counts hers live and present-tense among five — Ember, no ranking — and 'has been each of ours since'; Book 8's own standing note is that Karis is unranked *by choice*, which is a registration state, not a removal. A reader who has just been asked to remember B7 Ch15 (this chapter's stated payoff source) is exactly the reader who will notice. (b) Placement: 'the thing on your arm' locates an Arbiter as an object visible on a limb, where the bible's only description is 'a small glowing sigil that only the Kindling person can see and hear'. If the mark given at kindling is a separate visible thing from the sigil, this chapter is the first place the series says so, and that is new canon inside a sealed reveal chapter.",
+      "repair_target": "Make the parallel present-tense and non-anatomical — e.g. 'what the thing he made has to do with yours, or with mine, or with the thing on a station's roof four tiers up'. If the past tense is deliberate (a mark struck when Karis went unranked), it needs a planning ruling and a plant earlier than this chapter, not a subordinate clause inside the reveal.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH15-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity — the hour of the scene is unstated and internally contradicted",
+      "gate": "Scene packet scene_shape.opening_state ('The chamber on the morning of the 293rd (or the evening of the 292nd — state it)'); craft core reader-trust invariant 3",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 85,
+        "line_end": 85,
+        "quote": "I've two findings tonight, and they go on two pages, and I'm not drawing a line between them, because I can't see the line and I'm not going to guess one."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 15,
+        "line_end": 15,
+        "quote": "I read it yesterday, with the board and the Hall's fourth sheet as the key, and I read it again this morning, and I'm going to read it aloud now, once, because that's how a finding's said"
+      },
+      "consequence": "The packet asked for the hour to be stated and it is not: [5] gives the day only. The chapter then runs both hours at once. Karis places the reading immediately after a re-read 'this morning' and says 'now' [15]; the narration puts the crew coming down 'in the morning' [19] and Karis choosing her word 'on the stair that morning' [43]; Cleon's two words are 'his whole ledger for the day' [89]; and there is no marked passage of hours anywhere between [21] and [93] — 'eventually' [63] is the only bridge. Against all of that, 'tonight' places the same continuous scene after dark. In a windowless chamber the reader has no other clock than these words, so the contradiction is the only time signal available and it points two ways.",
+      "repair_target": "State the hour once at [5] and make [85] agree with it. If the scene is the morning of the 293rd (which [15], [19], [43] and the packet's preferred staging all support), change 'tonight' to 'today' or 'this morning'. If the intended staging is the day's end, [15] and [19] need the corresponding adjustment instead.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH15-006",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "internal inconsistency — the chapter's governing aphorism gives two different counts",
+      "gate": "Craft core reader-trust invariant 3 (continuity persistence); shared positive voice — repeated sentence scaffolds",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 3,
+        "line_end": 3,
+        "quote": "because a thing found on paper is a thing you read twice before you say it once, and she had read it twice by lamplight in a hole under a city"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 19,
+        "line_end": 19,
+        "quote": "and they had both gone up to the bell and come down again in the morning to read it twice more, because a thing found on paper is read three times before it is said once. That was the method."
+      },
+      "consequence": "The same maxim, in the same clause shape, is stated with two different numbers sixteen lines apart, and the second one calls itself 'the method'. The counts underneath it also disagree: [19] gives one reading on the seventh day plus 'twice more' in the morning (three), while Karis's own account gives 'yesterday' plus 'again this morning' (two) [15], and [3] says flatly 'she had read it twice'. This is the chapter's opening image and its statement of Karis's discipline, so the arithmetic is load-bearing rather than decorative — the whole first paragraph exists to say that the delay from the seventh day to the eighth was the method working.",
+      "repair_target": "Pick one number and carry it through [3], [15] and [19]. Three is the stronger choice because it justifies the overnight delay the chapter opens on: [3] becomes 'read three times before you say it once' and 'she had read it twice by lamplight' becomes the count of the night's readings only, with the third being the morning re-read; [15] then reads 'I read it yesterday … and I read it twice again this morning.'",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH15-007",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "voice — the measuring-in-prose-units scaffold repeats across consecutive chapters with the identical unit",
+      "gate": "Voice charter section 9 (anti-tic law: 'Fixing a tic with a fresh repeated phrase is the same defect wearing a different coat'); shared positive voice — 'repeated sentence scaffolds that make scenes feel generated'; carried concern from the Ch14 r2 editor report",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 87,
+        "line_end": 87,
+        "quote": "Then he inclined his head, a finger's width, the Compact courtesy that was, from him, a great deal, and said, \"Two pages,\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch14.md",
+        "line_start": 43,
+        "line_end": 43,
+        "quote": "and that was the whole of what Lira had to say about who was not at the table, and it was, from Lira, a great deal"
+      },
+      "consequence": "The Ch14 r2 report closed its version of this finding with an explicit standing note that 'the template is still audible' and that the cheapest remaining improvement was to let a gesture stand without any measuring clause. The next chapter uses the same scaffold with the same unit — 'a great deal' — one chapter later, alongside a second instance of the same gag in a different dress at [19] ('eleven words from Karis on a stair was a report'). Three instances of 'was, from X, a [unit]' now stand across two consecutive chapters (ch14 [33] 'an essay', ch14 [43] and ch15 [87] both 'a great deal'), which is the charter's own definition of a replacement tic taking root. Compounding it, 'the whole of' runs seven times in 3,989 words here against six in Ch14 and four in Ch13. In an audiobook these land as a house verbal signature applied to every character in turn, which flattens exactly the differentiation the scaffold is meant to create.",
+      "repair_target": "At [87], cut the measuring clause and let the gesture price itself: 'Then he inclined his head, a finger's width — the Compact courtesy — and said, \"Two pages,\"'. The chapter has already taught the reader what a finger's width costs this man. Separately, thin 'the whole of' from seven to three or four, keeping [3] and [31] where the phrase is doing real work.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-CH15-008",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "packet fidelity — the bundle's provenance interval differs from the work order",
+      "gate": "Craft core authority ladder level 4 (the current scene packet); scene packet scene_shape.opening_state",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 19,
+        "line_end": 19,
+        "quote": "Cleon had pulled it from the galleries twenty-two years ago — a bundle of leaves in a script he could read the bones of and not the words — and had set it on his own shelf in his own order and had read it, alone, for two decades … It had taken thirty years and a year and a week"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch15-editor-prompt-r1.md",
+        "line_start": 468,
+        "line_end": 468,
+        "quote": "found on the seventh day among the things Cleon pulled from the galleries thirty years ago and had never been able to read whole"
+      },
+      "consequence": "The packet specifies thirty years; the draft says twenty-two. Nothing in canon is contradicted — Cleon has thirty years down the stair (Ch8) and ten years with the board (Ch10), so twenty-two sits inside both. But the same paragraph then closes on 'thirty years and a year and a week', where the thirty is his career and not the bundle, eleven lines after the reader has been told the bundle is twenty-two. Two spans of similar size, one paragraph apart, in a paragraph whose job is to make the arithmetic of a thirty-year wait legible.",
+      "repair_target": "Either move the bundle to thirty years to match the packet and let the closing sentence be exact, or keep twenty-two and make the closing sentence name its parts ('It had taken a man's thirty years and a woman's one and a week'). The second preserves the better line; the first preserves the work order. Author's choice, but the two numbers should not sit unmarked in one paragraph.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH15-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "blocking — the establishing inventory puts Cael at the wall and at the table at once",
+      "gate": "Craft core reader-trust invariant 2 (causal legibility / preserved geography); shared positive voice — action and geography",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "The chamber under the registry. The lamp that was always lit and the one he held, and the four hands at the rock wall with the boxes, and Cleon in his chair with both hands flat on nothing, and Karis at the table with a thing in front of her that had not been on the table before."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 49,
+        "line_end": 49,
+        "quote": "Brom, on the first box, with the foot out, looking at the leaf as he looked at a wall somebody else had priced"
+      },
+      "consequence": "'The four hands' is the party's registered count and Cael is one of the four, so the establishing sentence places all four at the rock wall while Cael is at the table's corner holding the lamp — a position [55] and [59] then depend on ('the table's corner where he stood'). The room catalogue at [49]-[51] confirms only three are at the wall. This is the chapter's one geographical sentence and it is where a listener builds the room, so the correction has to happen there rather than by inference later.",
+      "repair_target": "Split the count at [5]: 'and three of the four hands at the rock wall with the boxes' or 'and the others at the rock wall with the boxes'. The registered 'four' can stay if it is attached to the clerk's form rather than to the wall.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH15-010",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "audio survival — 'on the knee' reads as kneeling when the same sentence says he stood",
+      "gate": "Voice charter section 8.2 (a sentence must land identically when read aloud); craft core reader-trust invariant 7 (audio survival)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 81,
+        "line_end": 81,
+        "quote": "he said it from where he stood, on the knee, beside the case, to the leaf and not to anyone, in the ledger voice"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 51,
+        "line_end": 51,
+        "quote": "And Vastin, on the knee, beside the case, still."
+      },
+      "consequence": "'On the knee' is the book's shorthand for Vastin carrying his weight on the bound knee, and it is legible in Ch12 and Ch14 where the surrounding sentence establishes the injury. Here it appears twice with no re-establishing clause, and the second occurrence pairs it with 'from where he stood', so a listener hears a man standing and kneeling in the same breath. The chapter never mentions the knee as a wound, so an audiobook listener joining at this chapter has nothing to reconstruct it from.",
+      "repair_target": "Re-establish the injury once, at [51], and let [81] run clean: 'And Vastin, beside the case, his weight off the bound knee, still.' Then [81] can simply be 'he said it from where he stood, beside the case'.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-CH15-011",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "pre-payment — the narration states Ch16's realization for Vastin",
+      "gate": "Scene packet context_files next_card ('Chapter 16 card — What It Was For (pole two; Lira first; Vastin's line) — do not pre-pay'); craft core, arc commitments",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch15.md",
+        "line_start": 53,
+        "line_end": 53,
+        "quote": "The Compact's own held line, standing in a hole under a Compact registry, hearing a four-hundred-year-old leaf say what the line had been drawn for."
+      },
+      "comparison_evidence": {
+        "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+        "line_start": 289,
+        "line_end": 289,
+        "quote": "Vastin's line, quiet, the antagonist-with-working-logic gate paying off (charter §7.5): \"I believed it was imperfect. Book 6 I learned it was corrupt. Now you're telling me it was *aimed*.\""
+      },
+      "consequence": "The chapter withholds Vastin's line correctly at the level of dialogue — he starts a sentence and does not finish it, and 'Two pages' is the whole of what he gets [83, 87]. But the narration has already said the content: 'what the line had been drawn for' is Ch16's title and its Vastin beat in eight words, and it arrives as Cael's flat observation rather than as anyone's discovery. The cost is small in this chapter and larger in the next, where the line has to land as the man's own arrival at something.",
+      "repair_target": "Keep the observation on Vastin's body rather than his conclusion: 'The Compact's own held line, standing in a hole under a Compact registry, hearing a leaf read.' The stillness paragraph around it already carries everything the reader needs and gives Ch16 the sentence to spend.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "WORD COUNT AT THE FLOOR AGAIN, AND THIS IS THE TITLE CHAPTER. 3,989 words on the author's count, 3,977 excluding the heading and separators — 67 to 79 words above the 3,910 floor and 13.3% under the ~4,600 target. Six of the eleven findings are subtractive (F-001 cuts a gloss, F-002 a compound adjective, F-003 a clause, F-007 a clause, F-011 a phrase), so a straight repair pass lands under the floor. This is the second chapter running at the floor (Ch14 closed at 3,982). The chapter that has the most room to grow without touching what works is the room catalogue at [49]: Brom gets one clause and a withheld noun, and the thing 'Cael did not have a name for' is the chapter's one unexplored reaction in a room where everyone else's is placed.",
+    "THE Ch20 REFUSAL IS SPENT HERE ALMOST VERBATIM. The architecture stages the Book-9 refusal at Ch20 as Vastin starting the forbidden sentence ('If a man designed the apparatus, then the sigils—'), Karis stopping him with 'A measurement is a fact about a ruler, not about the hand that held it', and the two findings entered on two separate pages with no line drawn. This chapter runs that exact sequence — the reach [83], the ruler line [85], 'two pages' [85, 87] — under packet sanction ('if anyone reaches for it, the refusal is staged'). It is correct here and it means Ch20 cannot use the same three moves. The Ch20 card should be flagged now, while there is still time to give that scene a different shape, rather than after it drafts.",
+    "'THE SEAT' IS A NEW SYSTEM NOUN INSIDE A SEALED RECORD. The record's list of parts — 'the measure, and the seat, and the tier, and the mark that is given at the kindling' [27] — introduces 'the seat', which has no referent anywhere in the bible's Path System section (measure, tier and kindling-mark all map cleanly). Inside a deliberately half-legible antique document this is good craft and the chapter is right to leave it unread ('a list of the measure's parts … I've the shape of it and not the words yet' [37]). Flagging it so it is a deliberate opacity in the plant ledger rather than an accident a later book has to answer for: charter section 11 line 7 wants new canon nouns approved, and this one will be quoted back at the series.",
+    "THE TWO 'EIGHT DAYS' ARE DIFFERENT EIGHTS. Ch14's log says 'Eight days inside' on the 292nd, counted from the 284th per planning row 22. Ch15 says Cael 'had watched him for eight days' [89] on the 293rd, counted over Cleon's week (Ch13 = the sixth day = the 291st; Ch14 = the seventh = the 292nd; so the 293rd is the eighth). Both are internally right and neither is a finding. But two adjacent chapters now say 'eight days' about two different spans a day apart, and the running state should record which clock each one runs on before a later pass 'corrects' one of them into agreement with the other.",
+    "VASTIN'S 'FORTY YEARS' IS NARRATION HERE, NOT SPEECH. Planning row 20 rules that forty years is Vastin's own rounding on thirty-nine and that no chapter should repair it. Both uses in this chapter are the narrator's, not his — 'has forty years of practice at not letting a face decide' [53] and 'the first time in forty years the man had done that' [87]. Not raised as a finding, per the standing instruction and because the narration is Cael's close third repeating a figure he has heard the man use. Recorded so the series pass can decide whether the rounding motif is allowed to migrate from the character's mouth into the book's voice.",
+    "SELN IS ABSENT WITHOUT A LINE. The packet places him above and off the count, which is right, and the chapter's room catalogue [49]-[51] correctly omits him. But Ch14 had him at the long table tearing a slip into a fire, and this chapter never accounts for him, so a reader tracking six people has five in a room and no note. One clause anywhere in [5] or [19] would close it — and would cost words the chapter can afford to spend.",
+    "'AND WROTE NOTHING' SITS AGAINST 'I'VE WRITTEN IT DOWN AS IT STANDS'. Karis says she has already entered the chronicle run with the hole drawn [71]; four lines later she says 'Marked' 'and wrote nothing' [75]; and the room catalogue says she is 'not writing, because the thing was said and the writing was after' [49]. All three are reconcilable — the chronicle note was made before the scene, and 'wrote nothing' means she added no interpretation — but three statements about her pencil in twenty-six lines pull slightly against each other, and 'wrote nothing' is doing rhetorical rather than physical work.",
+    "THE CHAPTER'S SENTENCE MUSIC IS ALL ONE GEAR. The accumulating 'and … and … and' period is the house voice and it is deployed well here, but this chapter has no short paragraphs to break it except four three-word beats, and the three longest sentences ([9], [19], [59]) run 200, 250 and 230 words within fifty lines of each other. Charter guidance wants long sentences to accumulate pressure by contrast. The reading itself [27]-[31] is the natural place for the contrast because the record's voice is a different instrument, and it currently sits at a similar length and cadence to the narration around it.",
+    "'THAT WAS CORRECT.' [17] IS ONE LETTER FROM A CAPPED TIC. Charter section 9 caps 'That was true. / Also true.' triads and explicitly counts fresh phrases invented to replace an old one. One use is well inside cap and the beat earns itself here. Recorded only so the book-level count is watched: if it recurs twice more before Ch24 it is the same defect in a new coat.",
+    "THE REVEAL'S DELIVERY VENUE DIFFERS FROM CANON_RULES' STATED METHOD. The reveal schedule says Book 8's secret is revealed by 'Ancient records in edge-territory ruins'; the architecture deliberately relocates it to the Deepstacks under Treswick and states that it honours both the series bible and CANON_RULES because the corroborating evidence is the three sets of edge-territory carvings. The chapter executes the architecture's version faithfully ([15], [19], [37]). No finding — the architecture is the higher authority and it addressed this explicitly. Recorded so the CANON_RULES row can be updated at the bible pass rather than read as an unmet condition."
+  ],
+  "strengths": [
+    "THE EFFACEMENT IS THE BEST OBJECT THE BOOK HAS MADE. The scraped place is described three times and gains something each time — first as a physical fact seen from the lamp's distance ('as a table goes rough where a knife has been dragged across the grain' [13]), then as an unanswerable question with both answers held open ('Whether a man did it with a knife the day after it was written or a thousand thumbs did it over the years going to that one place on the page to touch it' [15]), then as a thing reproduced rather than summarized in Karis's copy ('She did not leave a gap on her page and she did not write a word in it; she drew the patch' [97]). The thousand-thumbs alternative is the invention that makes the mystery permanent instead of merely withheld, because it is the reading in which nobody suppressed anything and the name is gone anyway. Do not touch any of the three.",
+    "THE READING IS STAGED AS LABOUR, NOT AS CEREMONY. The chapter's whole delivery mechanism is one boy's hand: 'Lamp,' Cleon said, which was the first thing he had said, and Cael moved the light a hand to the left of the leaf, and held it [21]. Everything the reader learns arrives through a light somebody is holding steady, and the held light is also the character's only available action. That is the series' method working at full strength and it is why the chapter can withhold Cael entirely without going inert.",
+    "'HE DID NOT CATALOGUE HIMSELF.' [57] IS THE CHAPTER'S SPINE AND IT IS FOUR WORDS LONG. After fifty lines of a narrator who catalogues compulsively, the refusal is stated in the shortest paragraph in the file and needs no gloss. The paragraph that follows earns the withholding by making it cost something ('being it was the hardest thing he had done in a city, and that it was not going to hold past this room, and that it did not have to' [59]) — which is the packet's Ch16 handoff paid in advance without spending Ch16's scene.",
+    "KARIS'S DISCIPLINE IS DRAMATIZED AS A COST, NOT ASSERTED AS A TRAIT. She refuses the line she most wants to draw, to a man's face, in the moment she has been proved right after years: 'I've a leaf and a board and a floor, and a leaf and a board and a floor are facts about a leaf and a board and a floor' [85]. The ruler line lands because it is aimed at herself as much as at Vastin, and because she has already told the room she wants the finding to be 'the record's and not mine' [15]. This is the reveal's whole safety mechanism and it is character rather than machinery.",
+    "CLEON'S TWO WORDS. 'Lamp' [21] and 'Marked' [73] are his entire dialogue, and the second is placed so it reads as a decade of private argument finally seconded: 'He said it as a man says a thing he has said to himself for ten years about the same run of marks, and had wanted, for ten years, to hear somebody else say' [73]. The Ch11 promise ('I don't think you're going to like what you've found') is paid at [89] without anyone naming it — 'being right was never going to have been the relief he had thought, and that he had known that, and had gone on anyway, and would.'",
+    "THE ROOM CATALOGUE AT [49] DOES SIX CHARACTERIZATIONS IN ONE PARAGRAPH WITHOUT A SINGLE STATED EMOTION. Karis's face, Cleon's cushion, Brom's priced wall and the unnamed thing under it, Lira looking at Cael since the word kindling, and Cael refusing to look back 'because if he looked back he would have to have a face, and he did not have one yet'. Lira's whole reaction to the reveal is that she is looking at him, and that is exactly right for the character and exactly enough for the chapter.",
+    "THE RECORD SOUNDS OLDER THAN THE BOOK. The antique passage earns its authority through construction rather than diction: fixed line lengths, a margin held, a professional hand ('every line was the same height and every run started at the same margin, and a hand that does that is a hand that has been paid to' [9]), and a cadence in the passage itself — 'and the cities of the east were emptied and the cities of the west were emptied and the rivers ran wrong' [27] — that reads aloud as liturgy without becoming pastiche. Karis's aside inside the reading ('that's the record's phrase; I've read it four times and it says what it says') keeps the register honest.",
+    "THE CLOSER IS BUILT FOR THE NARRATOR'S MOUTH. Charter section 8.2's hardest case is a page whose meaning is an absence, and the close solves it by describing the gap in prose instead of showing it as whitespace [101], so the effacement survives an audiobook intact. 'Older. Made. Us.' works twice — spoken at [41] as the thing she says to the leaf and not to anyone, written at [103] as the file's last line — and the second is not a repetition because the chapter has established that a thing written is not a thing said [99].",
+    "THE DISCIPLINE IS DRAMATIZED RATHER THAN OBSERVED. Every one of the four sentences nobody may say is reached for by a character with a real reason to say it and stopped by a character with a real reason to stop: Vastin reaches for the mark at the kindling and Karis stops him; Cael has the sum and does not do it; Cleon has ten years of a private conclusion and says two words. The seal holds because of what people want, not because the chapter avoided the subject.",
+    "LIRA'S HALF-STRIDE [55] IS THE CHAPTER'S QUIETEST GOOD DECISION. She shifts her weight off the mended ankle — 'a thing she did before a floor and had done, he thought, without knowing she had' — and the shift puts her half a stride nearer the table's corner where Cael is standing, and she stops there, 'and he did not look at her, and she did not need him to.' It carries the Ch1 mending, her fighter's tell, and the found-family beat in one movement, and it sets up Ch16's 'Lira first' without spending a word of it."
+  ]
+}
