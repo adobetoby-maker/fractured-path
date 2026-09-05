@@ -4,7 +4,7 @@
   "scene_id": "b8-ch13",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch13.md",
-  "word_count": 3995,
+  "word_count": 4000,
   "obligations": [
     {
       "obligation": "The demonstration at close range with Cael as labour (Rule 6; Ch11 + this)",
@@ -65,7 +65,8 @@
     "Word count ~3,9xx — at the floor after two expansions.",
     "Cleon's cup is water (reader standard) — the card's 'glass' rendered as a clay cup.",
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence on the page; no sexual content; conduct decent (Cael tells the truth at his own expense; Cleon's cup is water; the sense is not turned on anyone).",
-    "r2 (repairs of r1 STRUCTURAL_HOLD): the tail RESEQUENCED — chamber (Cleon stops; 'did not say it') → the cup (ends on the drink) → the warning (fixed) → 'He went back to the carving.' (fixed) → the stair with Vastin (the four turns broken out) → the notice ('Rune family'; 'the second field that is not a fight') → the log closed ('the eleven went round') → the eyes' cost paid on the last flight (expansion) → 'Cael did not tell anyone. He remembered.' (the file ends on it). The eleventh entered-not-told (the debt to Vastin stands); 'on the third day down'; Cleon's 'tomorrow' loosened to the week's end; the box/satchel line cut. EXCEPTION requested: the stair and notice sit between the carving line and the closing sentence, because the notice must render after the warning and the file must end on the fixed sentence."
+    "r2 (repairs of r1 STRUCTURAL_HOLD): the tail RESEQUENCED — chamber (Cleon stops; 'did not say it') → the cup (ends on the drink) → the warning (fixed) → 'He went back to the carving.' (fixed) → the stair with Vastin (the four turns broken out) → the notice ('Rune family'; 'the second field that is not a fight') → the log closed ('the eleven went round') → the eyes' cost paid on the last flight (expansion) → 'Cael did not tell anyone. He remembered.' (the file ends on it). The eleventh entered-not-told (the debt to Vastin stands); 'on the third day down'; Cleon's 'tomorrow' loosened to the week's end; the box/satchel line cut. EXCEPTION requested: the stair and notice sit between the carving line and the closing sentence, because the notice must render after the warning and the file must end on the fixed sentence.",
+    "r3 (direct, after r2 PASS_WITH_FINDINGS 3 MEDIUM): the eleventh 'entered and not told'; the log read on the stair, not in the chamber; 'six days' reduced to three."
   ],
   "blockers": []
 }
