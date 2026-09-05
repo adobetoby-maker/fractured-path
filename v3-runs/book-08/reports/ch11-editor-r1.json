@@ -1,0 +1,408 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch11-r1-editor",
+  "scene_id": "b8-ch11",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "Authority — planning rulings 16-21 (DECISIONS-B7-RECONCILIATION.md)",
+      "state": "PASS",
+      "evidence": "Row 16 (no mule in Treswick): grep -in 'mule' over ch11.md returns 0; the yard beat runs on 'A broker's cart' (L59) and closes 'with a carter watching' (L63), exactly the permitted staging; the boxes are carried by hand throughout (L59 'the first box on the good shoulder', L65 'the middle box'). Row 17 (Cleon's Path/tier known by exception): L39 'which is why I'm Bronze at sixty' — consistent with ch08.md L75 'Rune Path. Bronze. Sixties.' and with the architecture Reference ('Sixties. Rune Path, Bronze-tier'). Row 20 (Vastin's 'forty years' is his own rounding, not a finding): L109 'He had stood at the head of things for forty years' — recorded, not repaired, per the ruling's 'No prose change; do not repair per chapter'. Row 21 (Cleon at the iron door) not engaged by this chapter."
+    },
+    {
+      "gate": "Authority — Ch10 closed as 'I know that hand.'; the ten-year piece, the board and the sleeplessness land HERE for the first time",
+      "state": "PASS",
+      "evidence": "ch10.md L41 carries only 'I know that hand.' plus 'I have a piece of that. I've had it ten years.' as the state row records; the physical board, the match to the Hall's fourth sheet, and the sleeplessness are new on this page: L7 'the thing Cleon had kept on the shelf behind him for ten years'; L9 'A board. Not a leaf'; L21 'I've read this board for ten years … and now I have, and it's a floor'; L125 'I've had a piece of it for a decade and I've never once slept well since.' No duplication of Ch10's beat."
+    },
+    {
+      "gate": "Prohibited outcomes — sealed content (no carving MEANING, no [UNBOUND], no Architect, no 'four hundred years', no 'built the system', no still place, no six years)",
+      "state": "PASS",
+      "evidence": "greps over ch11.md: 'UNBOUND' 0, 'Architect' 0, 'four hundred years' 0, 'built the system' 0, 'still place' 0, 'six years' 0, 'Quieting' 0. No content is read from the carvings anywhere: Cleon's ceiling is held at L35 'I can tell you these are orders. I can't tell you what they order' and L39 'I cannot tell you one word it says'. The fixed close's referent stays the floors, anchored by L43 'Somebody cut three floors … in the same hand' and L21 'and it's a floor.' Cael's interior is referred to only obliquely (L49 'the thing in the middle of him that did not flow'), never by the sealed term."
+    },
+    {
+      "gate": "Prohibited outcomes — no Rune integration; no reading of Cael by Cleon; no fight/reach/station/square scene; no log closer",
+      "state": "PASS",
+      "evidence": "No fragment notice and no integration language anywhere ('fragment' 0 hits). Cleon never touches or examines Cael; Cael explicitly does not ask (L49-51 'the man had just answered it without being asked' / 'He did not say any of it'). No violence in the chapter. The station and the square appear only as unvisited referents inside Cael's inference (L89 'past three gates and a square'; L99 'the station's pale light'), which must_include #4 itself requires; no scene is set at either. The file closes on dialogue (L125), not on a log — and so differs from Ch10's log closer, satisfying Voice Charter §11.10."
+    },
+    {
+      "gate": "Obligation 1 — Rune shown in its civil face with Cael as labour; the LIMIT verbatim",
+      "state": "PASS",
+      "evidence": "Exact-string comparison: the limit at L35 matches the packet's fixed text character for character — 'I can tell you these are orders. I can't tell you what they order. For that you need the language, and the language is in the text, not the stone. That's her work, not mine.' The bones are read aloud as structure at L17 ('That's a bearer. Cut it and this whole row's nothing … is carried … Ornament. Nothing.') and L21 ('Same bones. The same three kinds in the same order'). Cael is present as labour throughout and holding the light at the moment of the reading (L23 'Cael held the lamp a hand to the left of the board and did not move it'; L47 'Cael held the lamp still'), which satisfies Continuity Rule 6 for Ch13's citation."
+    },
+    {
+      "gate": "Obligation 2 — the finding before the reveal (instructions, not decoration); the decade-old fragment matched for the first time",
+      "state": "PASS",
+      "evidence": "L31 'A made thing's either a record or an instruction … These command. All fifty-two … They're not the marks somebody cuts to say we were here, and they're not the marks somebody cuts to make a floor handsome. They're orders.' The first-time match is explicit at L21 'I've never once had a second thing with the same structure to put beside it, and now I have, and it's a floor.' Sheet arithmetic checks: Ring eleven + Stair twenty-nine + Hall twelve = fifty-two (L7), matching ch10.md L27's 'Fifty-two sheets, in three sets … the Ring at the left end, eleven; the Stair in the middle, twenty-nine; the Hall at the right, twelve'."
+    },
+    {
+      "gate": "Obligation 3 — Brom's want-scene (offer, decline by the box, fixed exchange)",
+      "state": "FAIL",
+      "evidence": "The offer's terms and the decline are present in substance (L63 'A guard's post … A wage … A pass'; L69 'Then he picked up the first box'), and the exchange's words are present (L75/L77/L79). But the beat the card designates a scene is delivered in retrospective pluperfect report, opened by L57 'He catalogued it afterward, from what Brom told him and what he saw' — the exact pattern Voice Charter §10 bans for architecture-major beats. See F-001. The fixed line is additionally split by an inserted action beat at L79 — see F-008."
+    },
+    {
+      "gate": "Obligation 4 — Seln's scene (cache, tiers by his craft, station's light read from below, decided nothing, seen by nobody, lets Cael see)",
+      "state": "FAIL",
+      "evidence": "Delivered in substance: the cache and its four years (L89), the night walk (L85), 'seen by nobody' and the return before light (L95, L99), and the disclosure to Cael in one line (L97 'I looked at it.'), with Lira's silence as the crew's half of it (L103). Two defects: the station's light is read from beside it on the crown, not from below as must_include #4 specifies (L99 'the station's pale light forty feet from him') — F-004; and the passage asserts unwitnessed specifics as fact from Cael's bunk — F-003. The craft of the ascent is declined rather than staged (L93 'was not a thing Cael asked … He had a guess and he kept it'), which is defensible POV but leaves the invention budget's licensed material ('the stairs unwatched at night; the walls' foot; a roof') unspent in a chapter sitting at the word floor."
+    },
+    {
+      "gate": "Obligation 5 — Cael's understanding of Rune's limit as it bears on him, noted and not said",
+      "state": "PASS",
+      "evidence": "L49 'It doesn't work on a man. He had it … the man had just answered it without being asked' and L51 'He noted that he had wanted it to … and that he was not going to, and that a thing which read only what had been built could not be turned on a person … He did not say any of it.' No request to be read is made anywhere; the plant for Ch22 is set as a wish recorded and withheld."
+    },
+    {
+      "gate": "Obligation 6 — Vastin as a hand, being nobody badly, one beat",
+      "state": "PASS",
+      "evidence": "L109 'the not-doing sat on him like a coat cut for a bigger man … when Cleon turned his head for the lamp, Vastin's hand moved before Cael's did, every time, and stopped, because the lamp was Cael's, and the stopping was the whole of his week.' The single exchange at L111-L119 ('How long did it take you.' / 'I was fourteen. I'm nineteen … I'm not there yet either.') matches the state row and keeps Cael at nineteen per planning row 12."
+    },
+    {
+      "gate": "Obligation 7 — the fixed close verbatim and contiguous; the file ends on 'slept well since.'",
+      "state": "PASS",
+      "evidence": "Exact-string comparison of all four segments against the card returns FOUND for each, in order, inside a single contiguous paragraph at L125; the stage directions match the card's ('He tapped the board.' for 'He taps the text.' — the board IS the decade-old text fragment per the invention budget's licensed form; 'He sat back.'; 'A beat.'). The file's final characters are '…never once slept well since.\"' with no trailing matter; the §8.4 metadata grep returns zero."
+    },
+    {
+      "gate": "Obligation 8 / Gate 27 — Reader Standard (thirteen-year-old): clean language",
+      "state": "PASS",
+      "evidence": "grep -inE '\\b(damn|damned|hell|God|bloody|bastard|curse[ds]?|blast|christ|devil)\\b' over ch11.md returns zero. No profanity, oath, obscenity, crude slang or blasphemy anywhere in the 3,907 prose words. The author report carries the required attestation ('READER STANDARD checked' — MET), so the Ch09 failure mode does not recur."
+    },
+    {
+      "gate": "Gate 27 — Reader Standard: violence, gore, sexual content, moral goodness",
+      "state": "PASS",
+      "evidence": "No violence and no wounds described; existing injuries appear only as carried cost (L59 'on a foot with a tooth-hole in it'; 'the good shoulder'). No sexual content or innuendo. Moral content is sound and is the chapter's whole argument: Brom declines a clean, better-paid life by picking up a box (L69-L71); Cael wants an instrument turned on himself, is told it cannot be, and neither lies about the wanting nor acts on it (L51); Seln's not-deciding is kept for him by the crew without pressure (L103); Vastin is treated with respect while he is bad at being nobody (L107-L119) — adults are not mocked. Nobody is cruel and no cruelty is rewarded."
+    },
+    {
+      "gate": "Voice Charter §9 / packet — tic caps",
+      "state": "FAIL",
+      "evidence": "'for the length of a breath': 1 (cap 0) — L51. See F-002. All other caps pass: one-word paragraphs 1 (cap 2) — L115 '\"Yes.\"', counted by scanning every non-heading, non-separator line for len(split())==1; 'the way X [verb]' 0 (cap 4) — 'the way' returns zero hits in the file; 'upside down' 0; 'at the pitch' 0; 'four hundred years' 0. Charter §9's twelve capped somatic/beat phrases ('jaw tightened', 'laughed once', 'without humor/humour', 'stomach tightened', 'stomach dropped', 'There it was', 'That was true', 'Also true', 'sounded almost', 'held this', 'which was, in its own way', standalone '[Name] noticed.') all return 0."
+    },
+    {
+      "gate": "Forbidden names (Halcenvane, Velmere, Wray, Bracken) and no new named person or place",
+      "state": "PASS",
+      "evidence": "All four return zero hits. No new proper noun enters the chapter: the merchant is 'The broker's factor' (L61) and the onlooker 'a carter' (L63), both unnamed as the invention budget requires; no approval-required naming occurred, so §11.7's [NEW-CANON] flag is not triggered."
+    },
+    {
+      "gate": "Meta-voice and modern idiom",
+      "state": "PASS",
+      "evidence": "No narrator address, no reference to the book, chapter, story or reader as artefacts; the single 'reader' at L5 ('where the light had to be for the reader') is diegetic and means Cleon at the table. Modern-idiom scan (okay/guys/weird/cool/basically/literally/process/impact/focus/access/input/feedback/leverage/prioriti) returns zero. Register holds the series' cataloguing third throughout."
+    },
+    {
+      "gate": "Audio survival (§8.2, §8.3, §8.5)",
+      "state": "PASS",
+      "evidence": "No System block in the chapter, so §8.3 does not bite. Italics are emphatic only and every line survives stripping — 'This saw design' (L25), 'It doesn't work on a man.' (L49), 'Brom was offered the life. He picked up the box.' (L71), 'so the thing could be built the same way twice' (L125) all read identically aloud. §8.5: the one multi-party scene (Cleon/Karis, L13-L45) attributes every speech turn; longest unattributed run is 1."
+    },
+    {
+      "gate": "Voice Charter §10 / Craft Core — scene vs. summary and density",
+      "state": "FAIL",
+      "evidence": "Roughly half the chapter's 3,907 prose words are narrated report rather than staged scene: the opening (L3-L9, ~600 words) is retrospective setup; Brom's want-beat (L57-L71, ~800 words) is pluperfect report opened by the §10-banned construction; Seln's beat (L87-L103, ~700 words) is inference from a bunk. Only the Cleon demonstration (L13-L51), the stair exchange (L73-L81), the Vastin beat (L107-L119) and the close (L123-L125) are on the page in real time. The chapter simultaneously lands at the band floor — see F-001 and F-009."
+    },
+    {
+      "gate": "Word band (3,910–5,290; target 4,600 ±15%)",
+      "state": "FAIL",
+      "evidence": "3,907 prose words by the method used on Ch09/Ch10 (title line and the six '---' separators excluded); wc -w over the whole file = 3,918. Three words under the floor, 15.1% under target, and the author report concedes it ('Word count ~3,9xx — at the floor'). See F-009."
+    },
+    {
+      "gate": "POV integrity (Craft Core reader-trust invariant 1)",
+      "state": "FAIL",
+      "evidence": "L99 renders unwitnessed detail as possessed knowledge — 'he lay in the dark and had, from a man who said a thing once, the whole of the thing: that Seln had stood at night on the crown of a hill … with the cache on his back and the station's pale light forty feet from him' — where the only datum Cael has is four words spoken in a dark room. The chapter elsewhere models the correct handling perfectly (L93 'He had a guess and he kept it'), which makes the lapse visible. See F-003."
+    },
+    {
+      "gate": "Continuity — chapter clock and prior-chapter distances",
+      "state": "FAIL",
+      "evidence": "Three slips. (a) L25 'against a post two days from here' — the last post short of the river is the 281st (ch07.md L109) and the bridge is crossed 'at first light on the two hundred and eighty-second day' (ch08.md L5): one day's walk, five days elapsed; neither reading is two. (b) L89 'it had walked, three days ago, into the first governed city' — entry was the 282nd, the scene is the night of the 286th/287th: four or five days. (c) The packet declares 'days 286–288' but the draft's internal clock runs the third day down (L7, the 286th) and the fourth (L111, L123) only. See F-006, F-007, F-011."
+    },
+    {
+      "gate": "Continuity — injuries, possessions, counts persist",
+      "state": "PASS",
+      "evidence": "Brom's bound shoulder and punctured foot both carried (L59), matching ch09.md L33/L37. Box assignments hold across chapters: Brom the first box, Cael the middle box, Vastin the kit's case (L59, L65, L23 vs ch09.md L33). Cleon's cushioned chair and Karis's uncushioned second chair (L7) match ch10.md L19. Seln's cache at four years (L89) matches ch16's 'I'd wondered, for four years, what I was keeping it from.' Cael nineteen (L117). The lamp always lit plus the one he holds (L7) matches Ch10's chamber."
+    },
+    {
+      "gate": "Module: progression — editor gate 1 (advancement has intelligible cause and recorded delta)",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No integration, no tier movement and no fragment acquisition occurs; the packet reserves Rune's integration for Ch13 and the chapter honors that. The only delta is knowledge, and it is recorded on the page in Karis's notebook in Cleon's words (L37)."
+    },
+    {
+      "gate": "Module: progression — editor gate 2 (cost or tradeoff visible when the system promises one)",
+      "state": "FAIL",
+      "evidence": "Rune's costs are stated cleanly by its practitioner (L39 'It costs me my eyes for an hour after and nothing else … It's no use to anyone in a fight'). But Brom rights a loaded cart onto its wheels alone (L59 'Alone.'), with a bound shoulder under a healer's standing order and a punctured foot, and the chapter ledgers no cost for it at all — he is carrying a box up a yard within the same beat. Charter §2.8 (Injury Persists) and progression gate 2 both bite. See F-005."
+    },
+    {
+      "gate": "Module: progression — editor gate 3 (progress changes something outside the measuring system)",
+      "state": "PASS",
+      "evidence": "The chapter's whole movement is outside the ladder: Brom refuses a tier that would raise him inside it (L63 'Respectable. Ranked.' / L69 'Then he picked up the first box'), and Cael learns the shape of an instrument by learning what it cannot do to him (L51). Cael's standing with Cleon changes materially and is measured in labour, not rank (L5 'Cleon had stopped saying \"Lamp\" and had started simply turning his head')."
+    },
+    {
+      "gate": "Module: progression — editor gates 4, 6, 7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No victory, no repeated challenge and no setback occurs in the chapter; there is no combat and nothing is resolved by capability."
+    },
+    {
+      "gate": "Module: progression — editor gate 5 (rivals and institutions do not freeze)",
+      "state": "NEEDS_HUMAN_JUDGMENT",
+      "evidence": "Four days pass in a Compact city with zero antagonist pressure on the page, immediately before Ch12's six-person reach that has 'tracked the crew west'. The knowledge boundary licenses the quiet ('nothing at the station'), and the clerk's two looks are carried in the packet's state rather than restated here, so this may be deliberate load-shedding into Ch12 rather than a frozen institution. Flagged for the human seat, not converted into a defect."
+    },
+    {
+      "gate": "Anti-pastiche and invention budget",
+      "state": "PASS",
+      "evidence": "Inventions stay inside the allowed list: Cleon's demonstration vocabulary (bearer / carried / ornament, L17-L21) and his fragment's physical form as a board (L9) are both explicitly licensed; the factor and the offer's terms are licensed (L61-L63); Seln's route is declined rather than invented (L93). Nothing approval-required is taken: no new named person or place, and no content of the carvings or the fragment beyond structure. No influence-author resemblance flag."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "scene-vs-summary / failed scene obligation",
+      "gate": "Voice Charter §10; Craft Core 'Scene and summary'; packet obligations.must_include #3",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 57,
+        "line_end": 63,
+        "quote": "He catalogued it afterward, from what Brom told him and what he saw, because it was Brom's and Brom told it in the fewest words a thing could be told in, and the fewest words were the whole of it. … A broker's cart had come into the ring road's yard at the inn's back, and had come through the yard's gate too fast … The broker's factor had watched him do it. … and had said so, and had made the offer at once, because a broker who sees a thing worth having does not wait."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch11-editor-prompt-r1.md",
+        "line_start": 2132,
+        "line_end": 2133,
+        "quote": "**\"X heard about it later\" is banned as a substitute for dramatizing any scene the chapter architecture designates as major.**"
+      },
+      "consequence": "The chapter's second designated want-scene never happens on the page. The card calls it 'a scene about him' and the packet calls it 'BROM'S WANT-SCENE'; the reader instead receives ~800 words of pluperfect report in which the cart is righted, the factor watches, prices, and makes the offer, all offstage, with a single line of direct speech ('I'll think on it'). The one moment the book exists to dramatize — a big, injured, decent man being handed the exact life his family wanted and choosing a box instead — is narrated rather than watched, and its charge is spent on Cael's summarizing rather than on Brom's face. The §10 note is explicit that this pattern is what drove a sibling book to 43% of target density, and this chapter is simultaneously at the band floor (F-009), so the two defects are the same defect seen twice.",
+      "repair_target": "Stage the yard in real time from Cael's arrival: put Cael in the yard before the offer rather than 'at the end' (L65), and render the factor's offer as spoken dialogue with the terms named aloud, Brom's silence as the answer, and the box lifted while the factor is still talking. Keep L71's summarizing couplet ('Brom was offered the life. He picked up the box.') as the log line after the scene, not as its substitute. Retiring the pluperfect here recovers most of the words F-009 needs.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "tic cap breach / prohibited outcome",
+      "gate": "Voice Charter §9; packet obligations.prohibited_outcomes ('capped phrases 0')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 51,
+        "line_end": 51,
+        "quote": "and that he had, for the length of a breath, been sorry, and that the sorriness was a thing he did not have a column for"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch11-editor-prompt-r1.md",
+        "line_start": 504,
+        "line_end": 504,
+        "quote": "no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; no meta-voice; READER STANDARD."
+      },
+      "consequence": "A phrase the packet caps at zero appears once, and it appears in the chapter's most load-bearing interior paragraph — the one place a repeated series tic is most likely to be noticed and remembered. The cap exists because this construction reached watermark density in a sibling universe; the adjacent chapter already runs its cousin ('For the length of a man deciding whether…', ch10.md L39), so the family is accreting across consecutive chapters even though each individual chapter passes.",
+      "repair_target": "Cut or replace the four words at L51. The sentence loses nothing: 'and that he had been sorry, and that the sorriness was a thing he did not have a column for' carries the same beat. Do not substitute a fresh repeated duration formula — §9 treats a replacement tic as the same defect.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "point-of-view integrity",
+      "gate": "Craft Core reader-trust invariant 1 (POV integrity)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 99,
+        "line_end": 99,
+        "quote": "He lay in the dark and had, from a man who said a thing once, the whole of the thing: that Seln had stood at night on the crown of a hill above the oldest registry on the Line, with the cache on his back and the station's pale light forty feet from him, and had looked at the door his old trade would have walked through, and had decided nothing, and had come back down, seen by nobody"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 93,
+        "line_end": 93,
+        "quote": "How he went up three tiers at night with no pass was not a thing Cael asked, then or after. He had a guess. … He had a guess and he kept it, because a guess about Seln was a thing you kept."
+      },
+      "consequence": "Cael's only datum is four words spoken in a dark room; the sentence nonetheless hands him a measured distance ('forty feet'), a light's quality ('pale'), a specific vantage ('the crown of a hill'), a door, and the fact that nobody saw. Presented as 'the whole of the thing' rather than as inference, this is the narrator's knowledge wearing the viewpoint's clothes — and it is conspicuous precisely because L93, six lines earlier, models the disciplined handling of the same material. A reader who has been taught by this book that Cael writes down only what he can verify will feel the seam.",
+      "repair_target": "Re-cast L99 as inference in Cael's own idiom: keep 'decided nothing', 'came back down' and 'seen by nobody' as what the one line proves, and demote the physical staging ('forty feet', 'the crown', 'the station's pale light') to what Cael supposes — the same move L93 already makes. Alternatively give Cael a witnessed anchor (grit on a boot, the cold on Seln's coat) so the supposition has a foot on the ground.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "failed scene obligation (detail)",
+      "gate": "packet obligations.must_include #4 (Seln's scene)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 99,
+        "line_end": 99,
+        "quote": "that Seln had stood at night on the crown of a hill above the oldest registry on the Line, with the cache on his back and the station's pale light forty feet from him"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch11-editor-prompt-r1.md",
+        "line_start": 482,
+        "line_end": 482,
+        "quote": "SELN'S SCENE, about him: the cache; the registry that would buy it; the tiers walked alone at night by his craft; the station's light read from below; back before dawn having decided nothing and seen by nobody"
+      },
+      "consequence": "The packet's image is a man beneath the thing, reading its light from the unranked district — the geometry that carries the chapter's argument about who stands where in a tiered city, and that keeps an Arbiter station at the safe distance the party's whole Treswick discipline depends on (Cael has not set foot on the square; the station is a thing to be walked wide of). Standing Seln on the crown at forty feet inverts it: it puts him level with the station, spends the walk's tension on proximity instead of on the reading, and quietly makes his night riskier than the packet designed it to be.",
+      "repair_target": "Move the reading of the station's light to below the walls — the unranked district, the stairs' foot, a roof — so that Seln reads the light up rather than standing beside it. The registry's door he 'would have walked through' can stay as the thing he has located from underneath. Reworking this alongside F-003 lets one revision serve both.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-005",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "injury persistence / uncosted feat",
+      "gate": "Charter §2.8 (Injury Persists); progression module editor gate 2",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 59,
+        "line_end": 59,
+        "quote": "had set the box down, and put his shoulder to the cart's bed, and put it back on its wheels. Alone. Without a Path, because a healer had said not a door, not a box, not a man, and Brom kept a price; with the good shoulder and his back and his legs, which was enough, because Brom had been big before he was anything else."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch09.md",
+        "line_start": 37,
+        "line_end": 37,
+        "quote": "Brom set his box down in the lane, carefully, on the good side, and stood with his hand on it and his shoulder still and forward, and said nothing about the three tiers and two gates he had carried it up on a foot with a tooth-hole in it, because he had said *it's a boot* once and had been told what that was worth."
+      },
+      "consequence": "A man with a bound shoulder under a healer's standing order and a punctured foot rights a loaded cart by hand, alone, and pays nothing — no shake, no stagger, no favouring, and he is carrying a box up the yard inside the same beat. The book's own economy is exact about this cost everywhere else (Ch09 makes a point of what he does not say about three tiers on that foot; Ch12's state has the good shoulder used wrong and ledgered). Leaving the feat free undercuts the very discipline the scene is meant to honour — that Brom keeps the healer's price — and hands the reader a strongman moment in a series that does not do those.",
+      "repair_target": "Ledger the cost in one or two clauses at L59 or in Cael's observation at L65: the good shoulder paid for it, the foot took the brace, and Brom sets the box on the other side afterward. Ch12 opens with 'the good shoulder used wrong', so a debt entered here is paid there rather than invented there.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-006",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity — distance/time",
+      "gate": "Craft Core reader-trust invariant 3 (continuity persistence)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 25,
+        "line_end": 25,
+        "quote": "He had wanted, against a post two days from here, an instrument for what did not move."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "Five arches, at first light on the two hundred and eighty-second day, with the water high and brown under them and the road going over the crown of the middle one in a hump that a cart had to take slowly"
+      },
+      "consequence": "The post is neither two days' walk nor two days back. Ch07 dates it the 281st ('Two hundred and eighty-first day. The last post short of the river.') and Ch08 has the party crossing the bridge into Treswick at first light on the 282nd — one day's travel — while the chamber scene is the 286th, five days later. Whichever way a reader takes 'two days from here', the arithmetic of a book that dates every leg in its logs fails, and it fails on the sentence that carries Ch7's payoff.",
+      "repair_target": "Replace 'two days from here' with a formulation that survives both readings — 'against a post across the river', 'against a post on the road in', or a corrected count ('five days back'). The payoff needs the post identified, not measured.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-007",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity — elapsed days",
+      "gate": "Craft Core reader-trust invariant 3 (continuity persistence)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 89,
+        "line_end": 89,
+        "quote": "and it had walked, three days ago, into the first governed city Seln had stood in since he had walked out of one with it"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "Five arches, at first light on the two hundred and eighty-second day"
+      },
+      "consequence": "Treswick was entered on the 282nd; the night walk follows the third day down (L7, the 286th) and precedes the fourth (L111), so four to five days have passed, not three. Small, but the series stakes its credibility on counted days and this narrator is the one who counts them.",
+      "repair_target": "Correct to 'four days ago' (or drop the count and write 'this week') at L89, reconciled against whatever day the night walk is fixed to when F-011 is resolved.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-008",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "fixed line integrity",
+      "gate": "packet obligations.must_include #3 (fixed exchange verbatim)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 79,
+        "line_end": 79,
+        "quote": "\"Good.\" Brom shifted the box. \"I'd hate to have turned down a real job for a wrong hunch.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch11-editor-prompt-r1.md",
+        "line_start": 481,
+        "line_end": 481,
+        "quote": "\"Good. I'd hate to have turned down a real job for a wrong hunch.\""
+      },
+      "consequence": "Exact-string comparison of the four fixed lines returns FOUND for three and MISSING for this one: the words are all present and in order, but an action beat is inserted mid-line, so the fixed unit is not reproduced. The reader consequence is small — the beat is well judged — but the packet's fixed lines are the one thing the seat is not licensed to reshape, and letting a split pass here weakens the rule for the fixed close.",
+      "repair_target": "Either restore the line unbroken at L79 and move 'Brom shifted the box.' before or after it, or record the split as an approved variance in the run's exception log so the next exact-string check does not re-open it.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-009",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "density / word band",
+      "gate": "Voice Charter §10 density check; packet output.target_words 4600 ±15%",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 3,
+        "line_end": 125,
+        "quote": "By the third day down he had learned the lamp. … I've had a piece of it for a decade and I've never once slept well since."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch11-editor-prompt-r1.md",
+        "line_start": 608,
+        "line_end": 609,
+        "quote": "\"target_words\": 4600,\n    \"tolerance_percent\": 15"
+      },
+      "consequence": "3,907 prose words counted by the method used on Ch09 and Ch10 (title line and the six rule separators excluded) — three words under the 3,910 floor, 15.1% under target; whole-file wc -w is 3,918, eight words over. The shortfall is trivial in itself and would not be worth a finding alone, but it sits on top of F-001: the chapter is at the floor precisely because the beat that should have been staged was reported instead, so the count is the symptom and the summary is the cause. The author report concedes the position ('Word count ~3,9xx — at the floor').",
+      "repair_target": "Do not pad. Recover the words by staging the yard (F-001) and, if more is wanted, by spending the invention budget's licensed material on Seln's route (the stairs unwatched at night; the walls' foot; a roof) while repairing F-003/F-004. Either route lands the chapter comfortably inside the band.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-010",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "internal coherence",
+      "gate": "Craft Core reader-trust invariant 2 (causal legibility)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "and on the face, cut in with something finer than a chisel, lines. Not letters. He knew the Compact's letters and had seen four scripts that were not the Compact's on the shelves in three days, and these were none of the five"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 39,
+        "line_end": 39,
+        "quote": "I've had this board ten years and I can tell you every bone in it and I cannot tell you one word it says, because it doesn't say words to me. It says *load*. The words are in the text, in a hand I can half read, and the text's your work"
+      },
+      "consequence": "The board is flatly declared 'Not letters' in Cael's catalogue and is then, thirty lines later, a text 'in a hand I can half read' whose words are Karis's work — and the fixed close names it 'the text' Cleon never had the stone to match. The intended reading (Cael does not recognize a script that Cleon partly does) is available but is not signalled, so a careful reader is left holding two incompatible descriptions of the one object the chapter's finding rests on.",
+      "repair_target": "Soften L9 to Cael's fallibility rather than a verdict — 'Not letters he knew' / 'Not letters, so far as he could tell' — or have Cleon at L39 name the gap explicitly ('It's a hand. You wouldn't know it; I half do'). One clause anywhere in the chapter closes it.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-011",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "packet scope — declared day span",
+      "gate": "packet pov.knowledge_boundary ('days 286–288')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch11.md",
+        "line_start": 123,
+        "line_end": 123,
+        "quote": "Late on the fourth day, with the bell an hour off and the lamp low, Cleon put the Hall's fourth sheet beside the board for the last time that day"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch11-editor-prompt-r1.md",
+        "line_start": 457,
+        "line_end": 457,
+        "quote": "Cael is nineteen; days 286–288 (the archive week's middle); the party down each day by count, out by the bell; the clerk has looked at them twice; cash 136."
+      },
+      "consequence": "The chapter's clock runs the third day down (L7, the 286th) and the fourth (L111, L123) — two days where the packet declares three, and where the STATE_RUNNING row written for this chapter claims the 286th–289th. Cleon's 'Give me a week' from Ch10 therefore advances by two days in the chapter that exists to spend that week, and the running state and the prose will disagree on the date Ch12 opens from (the 290th).",
+      "repair_target": "Either carry the chapter to the fifth day down (the 288th) — the Seln night and the Vastin beat are both undated and could sit there — or reconcile the packet's span and the STATE_RUNNING row down to the 286th–287th before Ch12 is packeted, so the 290th still lands where Ch12's log says it does.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "Forward risk for Ch13, not a defect here: the Ch13 card also stages 'Cleon runs his Rune reading on a carving-copy to demonstrate to Karis what instruction, not description looks like — seeing the bones — and Cael, present as labor, watches a Path he has never seen used.' This chapter delivers that demonstration in full, plus the complete limit set (structure not meaning; made things only; not a man; the eyes for an hour; useless in a fight). Ch11's packet assigns all of it here and Ch13's integration is meant to cite this chapter, so nothing is pre-paid — but the Ch13 seat now has to find a different demonstration, or the second one will read as a repeat. Worth flagging in the Ch13 packet.",
+    "The fixed limit line assigns the language to Karis ('That's her work, not mine'), while the architecture Reference assigns Cleon 'the scripts' and Karis 'the strata'. The draft extends the assignment at L39 ('the text's your work, and I've been waiting thirty years for someone to walk in and do it'), which is faithful to the fixed line but widens the tension. It is reconciled locally by 'a hand I can half read'. Not a finding — the tension is inherited from the packet — but the division of labour between the two of them should be settled before Ch15, where the reveal depends on who reads what.",
+    "Cleon's 'Somebody cut three floors two days' walk apart' (L43) is a character's approximation, but the architecture's Ch17 leg has Millrace to the fourth site at five days with the Stair's bowl and the Hall's marsh both inside it (Hall to fourth being three of the five), which puts the Stair and the Hall closer to a day apart than two. Insufficient evidence to file — the Fallow Ring's spacing is not in this packet — but worth a check against Book 7's prose before the chapter closes.",
+    "'For the length of…' as a duration formula is accreting across consecutive chapters even where each individual chapter passes its cap: ch10.md L39 'For the length of a man deciding whether…' and this chapter's L51 'for the length of a breath' (F-002). §9's rule about replacement tics applies to the family, not just the capped string. Worth a book-level count at the next audit.",
+    "'Forty-one kinds of mark in three strata' (L17, L19) is a new count entering the record. It is structural rather than content, so it is inside the invention budget, but it is now load-bearing for Ch15's cross-reference and should be written into STATE_RUNNING rather than left in prose only.",
+    "The chapter's opening 600 words (L3–L9) are retrospective setup in the same register as the Brom and Seln reports. Even after F-001 is repaired, three of the chapter's five movements will still open in the pluperfect. Not a contract breach, but the chapter's rhythm would gain from at least one of them starting in the present of the scene."
+  ],
+  "strengths": [
+    "The Cleon demonstration (L13–L45) is the chapter working at full strength and must survive any repair intact: the bones read aloud on a real object with Cael's hands in the frame, Karis's flat 'No. I see forty-one kinds of mark in three strata. I don't see which ones hold', and the limit delivered as a professional's refusal to be over-claimed for — 'I want it in your book in my words so nobody can say I claimed past it' — which is the single most efficient piece of world-law hygiene in the book so far.",
+    "Cael's handling of his own want (L49–L51) is exactly the series' method: the answer arrives before the question is asked, the wanting is recorded rather than acted on, the sorriness is filed as a thing without a column, and the beat closes on him moving the lamp. It plants Ch22 without spending a word on foreshadowing.",
+    "The lamp as the chapter's whole apprenticeship (L5) — the light a hand to the left, moved before she reaches, the sheet held flat at two corners — earns 'he did not mind being a thing a man turned his head for' honestly, and then pays it twice: as Vastin's failure (L109, the hand that moves first and stops) and as the chapter's last gesture.",
+    "Vastin's beat is the most economical characterization in the chapter: 'the not-doing sat on him like a coat cut for a bigger man', the officer's watching, and 'I was fourteen. I'm nineteen … I'm not there yet either' — four days of a man's humiliation carried without a scrap of pity or mockery, which is precisely what Gate 27's 'adults are not mocked' asks for.",
+    "Lira's silence (L103) — 'a crew that keeps a man's not-deciding for him without once asking him to decide' — is the found-family thesis stated once and never explained. Preserve it verbatim.",
+    "The fixed close lands clean and contiguous, the board's ten years and the sleeplessness arrive here for the first time exactly as the planning ruling requires, and the file ends on 'slept well since.' with no trailing matter."
+  ]
+}
