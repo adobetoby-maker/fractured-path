@@ -1,0 +1,176 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch23",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 23 card — The First Quiet; Chapter 24 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–22' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael nineteen; thirteen; the ribs (a line); the twelfth's finding withheld; the Arbiter dark; the instruments wronger; the trend up. The 307th: a half-day across the plain; the court reached by early afternoon; the pacing to dusk; the crossing decided at the line — the CENTRE is Ch24. Eleven and a mule. Costs: Brom's forearm; the broad man's shoulder and leg (day three — bears today); Teague's arm; Vastin day 28 (walks with the stick; the month two days off); Karis's hand. Cash 123.",
+      "THE COURT (description, not name): a wide, level, seamless fused-stone floor, grey, with UPRIGHTS round its edge weathered to stumps (knee-high to waist-high), the surrounding rock worn DOWN to meet the floor's level — older than anything; the perimeter a thousand metres across (two and a half times the Ring's four hundred; the fourth's was eight hundred); the boundary sharp; the circle perfect; the stumps carry carvings — the same notation, and by the strata the FIRST instance (the cuts weathered deeper; the layer under them older than any floor's); the leaf's chronicle says the others were made after ('copies'). The bearing ENDS here — the straightedge's line runs to the centre and the far side has nothing on it ('the end of the line').",
+      "THE LINE: everyone's sigil goes dark at the stride, identically (Book-9 plant c one last time — Karis notes it, does not explain it); the twelve's fragments in Cael go on ringing (as at every site); Oryn's hands useless inside a stride; Teague's Force a hand; Brom's Iron soft; Lira's speed a woman's; Vastin's wall does not come. The SIX REACTIONS, one each, in the catalogue register: LIRA — looks at the whole circle as at the top of a wall and does not look away this time; BROM — prices the stumps by hand and says 'Older than the walls. Older than anything I've priced'; KARIS — the cord, the count, the strata; 'It's the first one'; SELN — the count; where the edge goes; 'Nothing behind. Nothing beside. Nothing ahead but that.'; VASTIN — at the line with the stick, the sigil on his hand dark, and says the one sentence a man says who has enforced a line for forty years and is standing at the first one; ORYN — a stride in, hands useless, a stride back: 'Nothing. Everything, round it. Same as you.' (she says it as a finding about the place, not about him — do NOT let her join them; she says 'Same as you' and stops, and the book does not have anyone answer it).",
+      "TEAGUE'S CREW: the grief carried — the tall woman at the line with the spear grounded; the broad man on the stick; the older woman; Teague reading his people and coming to the gap; he does not go over the line ('My crew's stood at four of these. It's stood at enough.') — he keeps the contract's field and does not enter.",
+      "CAEL at the line: the thing he predicted BEGINS — not the fragments persisting (B7's) but something under it, in the ribs and under the ribs, at the still place, a — do NOT describe it beyond 'begin'; 'a thing turning toward him, or him toward it'; save the centre. His Path 'did not die. It also did not notice it should have' — fixed narration.",
+      "THE LOG'S DATED ENTRY (M13): a short dated entry inside the chapter (not the closer) — the 307th, the court, the radius, the count — the closer is the DIALOGUE.",
+      "SEALED: no Architect will/presence/reset; no still place = Quiet; no 'primordial'; no one names the site beyond 'the court' as description and 'the oldest one'; 'the first one they made' is Cael's fixed line (allowed). Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; READER STANDARD."
+    ]
+  },
+  "purpose": "The approach to the oldest site — reached, its age proven, the threshold HELD before the centre (arch review M13: the larger perimeter paced ALONG the line from outside as at the fourth; its radius stated; the crew's six reactions at the line, one each, in the series' catalogue; Teague's crew's grief carried; the log's dated entry). The 307th: a half-day across the plain on the bearing to the terminus — a wide, level, seamless fused-stone COURT (the crew may now call it 'the court' as a description — a court is what it is; it is not a name), its uprights weathered to stumps, the surrounding rock worn down to meet the floor; visibly the oldest thing any of them has stood near; documented (the records + the Deepstacks' leaf) as stable for centuries, back to the first sheet. Karis paces the perimeter ALONG the line from outside with the cord and the straightedge and the kit (as at the fourth): the boundary sharp, the circle perfect, LARGER (state the radius — e.g. a thousand metres across, two and a half times the Ring) and OLDER; the carvings on the stumps copied — the same notation, the FIRST instance by the strata, as if this floor is where the language the other sites repeat was first written down (Cleon's parting insight paid: the others are copies; this is nearer an original — Karis says so as a finding about strata, not about meaning). THE THRESHOLD: the whole company at the sharp line; everyone's Arbiter goes dark at the boundary, identically, as at every site (Book-9 plant c, one last time); everyone's Path dies; Oryn steps in a stride and her hands go useless and she steps back and says so; Teague steps in with the other hand and it is a hand; the SIX REACTIONS at the line, one each (Lira; Brom; Karis; Seln; Vastin; Oryn) in the series' catalogue register; Teague's crew's grief carried (the tall woman; the broad man on his stick; Teague reading his people and coming to the gap). Cael at the line feels the thing he predicted BEGIN — not his fragments working where others' die (B7's effect) but something new and deeper he does not have confirmed until the centre — the book SAVES the centre for Ch24 and ends on the crossing decided but not yet made: the whole company at the oldest silence, Cael about to walk to the middle alone. Close on the fixed DIALOGUE verbatim: Lira: 'Every other one, yours worked and ours died.' Cael: 'Yes.' Lira: 'You think this one's different.' Cael, at the line, the straightedge in his hand: 'I think this one's the first one they made. I think if any place on the continent is going to tell me what I am, it's the one they built to make sure I'd never be.' He stepped over the line. His Path did not die. It also did not *notice* it should have. 'Wait here,' he said, and did not look back, and walked toward the center of the oldest quiet, alone. — the file ends on 'alone.'",
+  "scene_shape": {
+    "opening_state": "Dawn the 307th on the plain's edge; the haze gone with the night; the thing visible at last across the plain: low, grey, wide, with stumps round it like teeth worn to the gum; a half-day's walk on a line two brass edges agree on; eleven and a mule; nobody says anything until Karis says the radius from the first rise, by eye, and is right.",
+    "pov_goal": "Cael wants the age proven by the instruments before he trusts it with his feet; wants the line paced and the six at it, each in their own register, so that the count is honest before he leaves it; and wants to walk to the middle alone, because it is the first one and the thing at the middle of him is the thing he is walking to find out about.",
+    "opposition": "The size of it; the sigils going dark identically one last time; Oryn's hands; Teague's crew's grief at a line their dead did not reach; the thing beginning in him at the line; the six's reactions, each of which is a reason.",
+    "turn": "The strata: Karis says it is the first one — the language written here and repeated elsewhere; and at the line, Cael's Path does not die and does not notice it should have, and the thing begins.",
+    "choice": "He steps over alone, and says 'Wait here', and does not look back — because the centre is his to stand in and the eleven's to watch, and because a thing that has been waiting four hundred metres in, or a thousand, for a kind, should be met by the kind and not by a crew.",
+    "outcome": "The crossing decided and begun; the eleven at the line; the centre a stone's throw off across the seamless floor; the chapter ends on 'alone.'",
+    "closing_state": "DIALOGUE (fixed) at the boundary; the file ends on '… walked toward the center of the oldest quiet, alone.' — keep the card's 'center' spelling as fixed."
+  },
+  "obligations": {
+    "must_include": [
+      "The half-day approach dated (the 307th); the court seen and described; the radius stated (a thousand metres); the stumps; the rock worn down to the floor; the bearing ENDING here.",
+      "Karis paces the perimeter ALONG the line from outside with the cord and the straightedge and the kit; the boundary sharp; the circle perfect; LARGER and OLDER; the carvings on the stumps copied — the same notation, the FIRST instance by the strata; 'the others are copies' as a strata finding; the log's dated entry inside the chapter.",
+      "Everyone's sigil dark at the line identically (Book-9 plant c, last time); everyone's Path dies; Oryn a stride in and back ('Nothing. Everything, round it. Same as you.' — unanswered); Teague's other hand a hand; Teague's crew's grief carried; Teague does not enter.",
+      "THE SIX REACTIONS at the line, one each, in the catalogue register (Lira; Brom; Karis; Seln; Vastin; Oryn).",
+      "Cael at the line: the thing BEGINS (not described past 'begin'); 'His Path did not die. It also did not *notice* it should have.'",
+      "Close on the fixed DIALOGUE verbatim; 'Wait here'; 'alone.' last word. READER STANDARD."
+    ],
+    "plants": [
+      "The thing beginning — Ch24",
+      "'the one they built to make sure I'd never be' — Ch24",
+      "The first instance by the strata — Book 9 (the tomb)",
+      "Oryn's 'Same as you' unanswered — Ch24"
+    ],
+    "payoffs": [
+      "B7 Ch23's council at a line → this time he goes over",
+      "Ch17's 'oldest last' → the end of the line",
+      "Ch20's 'as old as the record' → proven by strata",
+      "Ch22's prediction → begun"
+    ],
+    "prohibited_outcomes": [
+      "The centre NOT reached (Ch24); nothing described at the centre; no Architect; no still place = Quiet; no explanation of what begins.",
+      "Nobody but Cael crosses beyond a stride; Teague does not enter; no fight; no reach.",
+      "No log/image closer; the closer is the fixed DIALOGUE ending 'alone.'",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The plain's ground; the court's exact look (stumps' height, the floor's colour and level, the worn rock); the pacing's numbers; each of the six reactions in their registers; Teague's line at the boundary; the dated log entry's wording."
+    ],
+    "approval_required": [
+      "Any name for the site beyond 'the court' as description.",
+      "Any description of what begins in Cael beyond 'begin' / 'turning toward'."
+    ],
+    "forbidden": [
+      "The centre; the Architect's will; any explanation; Oryn's 'Same as you' answered."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 22 (The Still Place)",
+      "path": "v3-runs/book-08/drafts/ch22.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 19 — the fourth site paced/entered; the line by count; the fragments ringing inside",
+      "path": "v3-runs/book-08/drafts/ch19.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 15 — the leaf; the chronicle ('copies'); the strata",
+      "path": "v3-runs/book-08/drafts/ch15.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 7 Chapter 23 — the council at the fourth's line; Lira's 'it worked in there — yours'",
+      "path": "books/book-07-void-roads/chapters/chapter-23.md",
+      "required": true
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 24 card — The Center — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch23.md",
+    "report_path": "v3-runs/book-08/reports/ch23-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch23-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch23-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "3.0",
+  "run_id": "b8-ch22-r1-author",
+  "scene_id": "b8-ch22",
+  "draft_path": "v3-runs/book-08/drafts/ch22.md",
+  "word_count": 3971,
+  "target_words": 4600,
+  "obligations": [
+    {
+      "item": "The burial at the east mouth in Teague's register; the six at his leave; Oryn where she stood; the mule recovered by the ridge path",
+      "status": "MET",
+      "evidence": "'Carry, if you're carrying' … 'Oryn stood where she had stood. Three strides.' … 'Lira and Seln went back for the mule … came back by dusk'"
+    },
+    {
+      "item": "Oryn reads the ribs; the three lines; no term tonight",
+      "status": "MET",
+      "evidence": "'That's a line. That's not yours.' / 'It's mine now.' / 'Then it costs what his costs.' … 'I'm not saying it tonight.'"
+    },
+    {
+      "item": "The inward reading as sensation and shape only; still → set → bones / a floor with nothing built on it / an instruction with no language; 'the same kind of thing, to that instrument, as the sites were to Cleon's'; the eyes' cost; no explanation; nobody says 'made' of him; he tells no one",
+      "status": "MET",
+      "evidence": "'Bones.' … 'A floor with nothing built on it.' … 'An instruction with no language.' … 'He did not name it.' … 'Not Lira … Not Oryn … Not Karis … Nobody.'"
+    },
+    {
+      "item": "Cleon's warning verbatim; 'it just did'",
+      "status": "MET",
+      "evidence": "'*If that fragment ever reads something for you that shouldn't be made and reads it anyway. Don't tell me. Don't tell anyone. Just remember I said it.*' … 'and it had, and he had felt it read'"
+    },
+    {
+      "item": "Book-9 plant d: the Arbiter dark, unchanged",
+      "status": "MET",
+      "evidence": "'It was dark. It had always been dark … Nothing in him for the Quiet to take.'"
+    },
+    {
+      "item": "Book-11 plant 3: the Span's tally drift recalled; the cord and both edges re-checked — wronger than Lowmarch; the trend climbing; unsourced",
+      "status": "MET",
+      "evidence": "the Lowmarch numbers quoted from the log; 'Nineteen and a piece' three times; 'a hair and a half, two, where at Lowmarch there had been one'; 'They went up.' … 'could not source it, and did not try'"
+    },
+    {
+      "item": "Costs carried; Teague one short and not saying the number",
+      "status": "MET",
+      "evidence": "'counting his people, and coming up one short, and not saying the number'"
+    },
+    {
+      "item": "Close on the fixed LOG with 'the whole year'; file ends on it",
+      "status": "MET",
+      "evidence": "the closing log paragraph"
+    }
+  ],
+  "plants": [
+    "The shape with bones; 'a floor with nothing built on it' — Ch24",
+    "The trend climbing — Book 11",
+    "The Arbiter dark — Book 9",
+    "Teague one short — Ch24",
+    "Lira 'first with this too, one day' — Book 9+"
+  ],
+  "payoffs": [
+    "Ch13's warning → kept",
+    "Ch18's 'set' → read further with leave",
+    "Ch1's Lowmarch numbers → compared",
+    "Ch20's refusal → Cael's own six-word sentence refused"
+  ],
+  "names_minted": [],
+  "tic_census": {
+    "one_word_paragraphs": 1,
+    "the_way_x_verb": "see gate",
+    "upside_down": 0,
+    "four_hundred_years": 0
+  },
+  "state_change_proposals": [
+    "The 306th evening: the young one buried under stone at the pass's EAST mouth by his crew (the six carried at Teague's leave: 'Carry, if you're carrying'); nobody said the name; Oryn three strides off, kit closed. The MULE and boxes recovered by Lira and Seln via the ridge path by dusk. Count: eleven and a mule.",
+    "Camp on the plain's edge below the east mouth; the site a half-day east in the haze. ORYN on the ribs: 'That's a line. That's not yours.' / 'It's mine now.' / 'Then it costs what his costs.' — the line stops in the ribs every time; no term set tonight ('tomorrow's a site'); she will not read him again till he has stood where he is going. Karis writing with the bound hand ('Yes'). Vastin day 27, on the ground. Teague one short, not saying the number.",
+    "THE INWARD READING (deliberate; the twelfth): still → set → BONES; 'a floor with nothing built on it'; 'an instruction with no language'; rows that lean with the floors' lean; 'the same kind of thing, to that instrument, as the sites were to Cleon's' (the only finding entered). Cost: the eyes, an hour. He told NO ONE (Lira 'first with this too, one day'; Oryn's finding is hers; Karis would have made a third page). Cleon's warning kept.",
+    "ARBITER: dark since the kindling at fourteen; unchanged; dated.",
+    "INSTRUMENTS (Book-11 plant 3): the cord — twenty strides / nineteen and a piece / nineteen and a piece (a whole stride short; a piece at Lowmarch); the Ternhall edge misses the fourth and fifth circles by a hair and a half to two (a hair at Lowmarch); Hesk's edge longer than on the landing. TREND: UP. Unsourced. The two facts placed side by side ('the instruments read wronger; the oldest one is a half-day east') and no line drawn.",
+    "Close: the fixed LOG ('the whole year'). Cash 123. Next: Ch23 dialogue (the threshold)."
+  ],
+  "deviations": [
+    "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; a burial without gore; no sexual content; conduct decent (the six carry stone at the rival crew's leave).",
+    "The card's 'the whole book' rendered 'the whole year' (meta-voice) per the packet's authorized amendment."
+  ]
+}
