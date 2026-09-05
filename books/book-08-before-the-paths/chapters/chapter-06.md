@@ -2,7 +2,7 @@
 
 The fork was a stone.
 
-It was a stone because Seln said it was, and because the border road's makers had set one there four hundred years ago to say so: a squared post of grey rock at the road's edge on the evening of the two hundred and eightieth day, a day's walk west of the spring where the records had been read that morning, with a mark cut in its west face that counted down toward the Line and a second mark, older and worn nearly smooth, cut in its north face, that counted toward nothing the Compact had ever measured. The road went on west over a long rise with the sun going down behind it. The track went north-west, off the kept surface and onto ruts, toward a gap in the hills that had the last light in it, and Oryn looked at the gap once as they came up to the stone, and did not look at it again, and Cael, who had watched her not look at a road before, at another fork, in another season, catalogued the not-looking and let it be.
+It was a stone because Seln said it was, and because the border road's makers had set one there, before the walls, to say so: a squared post of grey rock at the road's edge on the evening of the two hundred and eightieth day, a day's walk west of the spring where the records had been read that morning, with a mark cut in its west face that counted down toward the Line and a second mark, older and worn nearly smooth, cut in its north face, that counted toward nothing the Compact had ever measured. The road went on west over a long rise with the sun going down behind it. The track went north-west, off the kept surface and onto ruts, toward a gap in the hills that had the last light in it, and Oryn looked at the gap once as they came up to the stone, and did not look at it again, and Cael, who had watched her not look at a road before, at another fork, in another season, catalogued the not-looking and let it be.
 
 They camped at the stone. Nobody said the word before dark. Nobody was going to.
 
@@ -94,7 +94,7 @@ She did not say the other sentence. She had said it at a fork once and it had me
 
 The stone at first light.
 
-He catalogued it because it was the second fork of his life that he had stood at with her, and the first one he had written down had been a stone that was only a stone, and this one had four hundred years of a road's count cut into it and it was only a stone too.
+He catalogued it because it was the second fork of his life that he had stood at with her, and the first one he had written down had been a stone that was only a stone, and this one had a road's whole count cut into it and it was only a stone too.
 
 Fifty paces, from where the six of them stood with the mule to where the track left the kept surface, and he walked them beside her, and did not say the thing he had had since the marsh, which was still a sentence that asked her to stay, and which was still a good sentence, and which he did not say, because the condition was the condition and he had entered it in his own hand at a fork above Millrace and again last night at a fire, and a man who breaks a condition at the second fork it costs him has not understood the condition any better than a man who breaks it at the first.
 
