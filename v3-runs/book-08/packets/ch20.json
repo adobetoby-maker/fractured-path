@@ -1,0 +1,177 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch20",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 20 card — The Cordon; Chapter 21 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–19' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael nineteen; thirteen fragments (the thirteenth listens). The 305th: camp on the bearing east of the Span's far rim — a dry country rising toward a line of hills with a pass in it (the defile of Ch21, seen, not entered); the third-tier point beyond the hills by the office's distance. Twelve and a mule. Cash 123. The broad man carried/on a stick, day one of three; Teague's arm in Oryn's wrapping; Vastin day 26 of the month; Karis's hand; Brom's bruises.",
+      "THE RECORDS + INDEX + CARVINGS on one blanket: the Span's carvings (same make; more rows; the fourth floor's sheet count now complete); the Compact's six-year records (the Arbiter-failure entries at each perimeter — every practitioner's sigil going at the same stride, identically, whatever the Path, whatever the tier; the six-year sub-layer sequence; the suppression order and its provenance — two hands, one ordering the burial, one objecting in writing); the kit's index (the dead man's grades). Karis reconciles them; the third-tier point fixed at the divider's distance from the hold on the office's bearing, and the straightedge's line touches it dead-on.",
+      "THE LEAF'S WORDS the crew may use: 'one who … made the measure, and the seat, and the tier, and the mark that is given at the kindling … and set the apparatus over all the land' (Ch15); 'the apparatus' is the leaf's word; 'the Architect' is the record's TITLE for the maker (Karis, Ch15: 'a title, not a name; the name's gone') and may be spoken as such; 'the machine' is Cael's log word. SEALED: no Arbiter=apparatus said; no 'terminal/circuit/infrastructure'; no still place = Quiet; the Court UNNAMED ('the third-tier site', 'the oldest one'). Ch5 already staged Karis STOPPING her own lamps sentence with the ruler line; Ch20 is the progression — she FINISHES the lamps sentence this time, as a finding, and it is VASTIN who reaches for the join and is stopped.",
+      "THE REFUSAL: Vastin — 'If a man designed the apparatus, then the sigils—' / Karis — 'A measurement is a fact about a ruler, not about the hand that held it.' Two pages; no line drawn; Cael logs that it was not drawn.",
+      "Book-11: the six-year sub-layer + graded/ordered/stable → 'recent administration' = the Compact (the crew's reading); no reach for the sub-layer's own agency; Cael's private knowledge that the deep-layer date is his Kindling day stays private (Ch5's row; not said).",
+      "Vastin's crack line verbatim; he does not pursue.",
+      "Fixed DIALOGUE close (card) with the authorized substitution: Karis: 'It's here. Third-tier, documented four hundred years back — as old as the record, as old as the one who made it, as old as the machine. The first one they made, or near it.' Cael: 'And it's on the line.' Karis: 'It's the *end* of the line. Oldest-last. Everything before it was practice, or maintenance, or—I don't have the word. This is the one that's been quiet since before quiet had a name.' She looked at him. 'You still want to stand in the middle of it.' Cael: 'More than I've wanted anything since I was fourteen.' Karis: 'Why.' Cael: 'Because every other site, my Path worked while everyone's died. I want to know what the *oldest* one does to me. I think it's going to tell me something the records can't.' He was right. He did not yet know how right. — NOTE: 'four hundred years' appears ONCE here as the record's date in Karis's mouth (authorized by the card); nowhere else. 'my Path worked' — Cael's own word for the fragments' persistence at the line (his Path is nothing; the fragments go on) — keep verbatim; he means the thirteen.",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4 (the lamps line uses 'the way' twice — fixed text; count it and keep other uses to ≤2); 'upside down' 0; capped phrases 0; READER STANDARD."
+    ]
+  },
+  "purpose": "QUIET, decode-and-implication (charter §3.6) — the last breath before the terminus. Camp on the bearing between the Span and the third-tier site (the 305th, a half-day+ east of the Span; the pass of Ch21 ahead; the site beyond it). The Span's carvings added to the set; the records, the kit's index and the four sites' data reconciled; the third-tier site's position FIXED on the map at the divider's point (setup Ch23). THREE PLANTS: (a) Book-9 plant c extended — with four sites' Arbiter-failure observations in hand (the crew's own from B7 plus the Compact's six-year records), Karis states the finding she has circled since the autumn: every Arbiter, every Path, every person fails IDENTICALLY at every perimeter — 'the way a hundred lamps fail when one wire's cut, not the way a hundred souls fall silent' — and a personal spiritual entity does not have a wire; filed as an observation she cannot explain. THE REFUSAL STAGED: Vastin starts the sentence that would close the loop ('If a man designed the apparatus, then the sigils—') and Karis STOPS him with her discipline line, 'A measurement is a fact about a ruler, not about the hand that held it,' and enters the two findings on two separate pages and does not draw a line between them; Cael sees the line not drawn and logs that it was not. Nobody says 'terminal', 'circuit', or 'infrastructure'. (b) Book-11 plant 2 referenced: the six-year sub-layer looked at once more beside 'graded, ordered, documented as stable' → someone was administering this recently enough to keep records; the crew reads that as THE COMPACT (correct as far as it goes) and does not reach for the sub-layer's own agency. (c) Compact-fracture pre-echo: Vastin reads the suppression order's provenance — suppressed by PART of the Compact over a FILED OBJECTION by another part, six years ago: 'Somebody wanted this buried. Somebody else put it in writing that it shouldn't be. That's not a monolith. That's a crack.' He does not pursue it. Also carried: the broad man's leg (day 1 of three); Teague's arm; Oryn's terms (her two days of road are past — she is walking on); the feeling of being known; the watch that went east (where did they go? — nobody knows; Seln's count at the halts). Close on the fixed DIALOGUE (Karis and Cael over the map) — with the fixed exchange VERBATIM — 'the Architect' is the record's title for the maker, which Karis herself gave the crew in Chapter 15 ('The record's word for him is the one on Vastin's page — the Architect; it's a title, not a name'), so it stands and the closing narration 'He was right. He did not yet know how right.' — RENDER as the card's last line in the narrator's voice (it is the card's fixed close; keep as prose, not log).",
+  "scene_shape": {
+    "opening_state": "The 305th, a camp on the bearing east of the Span, in dry rising country with the hills ahead and a pass in them that Seln has looked at and not liked; the blanket with everything on it; Karis reconciling; the broad man on a stick; Teague's arm; the watch gone east and not seen since.",
+    "pov_goal": "Cael wants the map to say where the oldest one is, to the pace, before he walks to it; and he wants to watch Karis not draw a line she could draw, because that is the discipline the whole year has been built on and he needs to see it hold at its hardest.",
+    "opposition": "The findings themselves, which want joining; Vastin, who has forty years of joining findings into orders; the pass ahead; the watch's whereabouts; Oryn's two days of road behind her.",
+    "turn": "Karis's lamps-on-one-wire finding said aloud; Vastin's sentence begun; Karis's ruler line; the two pages; the line not drawn.",
+    "choice": "Cael does not say what he knows about the deep-layer date, and does not join the two pages himself in the log; he enters that the line was not drawn, and why, and lets the observation stand un-joined.",
+    "outcome": "The third-tier point fixed on the map at the divider's distance; the crack noted and not pried; the crew reads 'recent administration' as the Compact; tomorrow the pass.",
+    "closing_state": "DIALOGUE (fixed) over the reconciled map, ending 'He was right. He did not yet know how right.' — the file ends on that line."
+  },
+  "obligations": {
+    "must_include": [
+      "The camp and the blanket: the Span's carvings added; records, index and the four sites reconciled; the third-tier point FIXED at the divider's distance on the office's bearing — the straightedge's line touching it dead-on.",
+      "Karis's Book-9 finding aloud: identical failure at every perimeter — 'the way a hundred lamps fail when one wire's cut, not the way a hundred souls fall silent' — a personal spiritual entity has no wire; filed as unexplained.",
+      "THE REFUSAL staged verbatim: Vastin 'If a man designed the apparatus, then the sigils—' / Karis 'A measurement is a fact about a ruler, not about the hand that held it.' — two pages; no line; Cael logs that it was not drawn.",
+      "Book-11 reference: the six-year sub-layer beside graded/ordered/stable → 'someone was still administering this' → the crew reads it as the Compact; no reach further.",
+      "Vastin's provenance reading and the crack line verbatim; not pursued.",
+      "Costs carried (the broad man day one; Teague's arm; Vastin day 26; Karis's hand); Oryn past her two days, walking on; the watch gone east; the feeling of being known.",
+      "Close on the fixed DIALOGUE verbatim ('as old as the Architect' stands — the record's title, given by Karis in Ch15); last line 'He was right. He did not yet know how right.'; READER STANDARD."
+    ],
+    "plants": [
+      "Lamps on one wire — Book 9's tomb.",
+      "The crack in the Compact — Book 9.",
+      "'Recent administration' read as the Compact — Book 11.",
+      "'What the oldest one does to me' — Ch23/24.",
+      "The pass ahead, not liked by Seln — Ch21."
+    ],
+    "payoffs": [
+      "Ch5's unread grade and Ch17's cracked grade → the point fixed.",
+      "B7's four sites' data → reconciled.",
+      "Ch15's leaf word 'apparatus' → spoken by Vastin and stopped."
+    ],
+    "prohibited_outcomes": [
+      "No 'terminal', 'circuit', 'infrastructure'; no Arbiter=apparatus joined on the page; no still place = Quiet; the Court not named; 'the Architect' only as the record's title (no will, presence, reset).",
+      "No fight; no reach; no death; the pass not entered.",
+      "No log/image closer; the closer is the fixed DIALOGUE.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4 incl. the fixed line's two; 'upside down' 0; capped phrases 0; 'four hundred years' once only (the fixed line); no meta-voice; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The camp's ground; the hills and the pass seen from a distance; the records' entries' form (columns; the sigil-failure rows; the two hands on the suppression order); the Span's carving rows; Oryn's evening work on the broad man; the healers; small talk at the fire in the crew's registers."
+    ],
+    "approval_required": [
+      "Any named person; any Compact office named beyond 'part of the Compact'."
+    ],
+    "forbidden": [
+      "Naming the Court; joining the findings; theorizing the sub-layer; any name for the maker (the title 'the Architect' only)."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 19 (The Sunken Span)",
+      "path": "v3-runs/book-08/drafts/ch19.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 15 — the leaf's words (the maker; 'the apparatus')",
+      "path": "v3-runs/book-08/drafts/ch15.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 17 — the grade cracked; the third-tier point",
+      "path": "v3-runs/book-08/drafts/ch17.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 5 — the records' form; the six-year sub-layer; Vastin's three reaches",
+      "path": "books/book-08-before-the-paths/chapters/chapter-05.md",
+      "required": true
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 21 card — The Last Reach (the pass) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch20.md",
+    "report_path": "v3-runs/book-08/reports/ch20-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch20-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch20-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

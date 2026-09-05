@@ -1,0 +1,79 @@
+{
+  "schema_version": "3.0",
+  "run_id": "b8-ch20-r1-author",
+  "scene_id": "b8-ch20",
+  "draft_path": "v3-runs/book-08/drafts/ch20.md",
+  "word_count": 3969,
+  "target_words": 4600,
+  "obligations": [
+    {
+      "item": "The camp and the blanket; the Span's carvings added (rows lean along the bearing); records/index/walls reconciled; the third-tier point FIXED (a thumbnail circle) at the divider's distance on the office's bearing; the straightedge touching it",
+      "status": "MET",
+      "evidence": "'She put the point there, this time, with the pencil, and drew a circle round it the size of her thumbnail' … 'the edge touched the fifth circle as it touched the other four, without a hair of daylight'"
+    },
+    {
+      "item": "Karis's Book-9 finding aloud; the lamps line verbatim; 'spiritual entity' has no wire; filed as unexplained",
+      "status": "MET",
+      "evidence": "'They fail the way a hundred lamps fail when one wire's cut. Not the way a hundred souls fall silent.' … 'a person's *spiritual entity* … doesn't have a *wire*' … 'an observation I can't explain'"
+    },
+    {
+      "item": "THE REFUSAL staged verbatim; two pages; no line; Cael logs that it was not drawn (and does not draw it himself — the deep-layer date kept private)",
+      "status": "MET",
+      "evidence": "'If a man designed the apparatus, then the sigils — ' / 'A measurement is a fact about a ruler … Not about the hand that held it.' … 'Two findings. Two pages.' … 'He did not draw it either.' … 'three things not done at one fire'"
+    },
+    {
+      "item": "Book-11 reference: six-year sub-layer beside graded/ordered/stable → recent administration → the Compact",
+      "status": "MET",
+      "evidence": "'Somebody was administering this … recently enough to keep records … The Compact. That's who keeps records.'"
+    },
+    {
+      "item": "Vastin's provenance reading and the crack line verbatim; not pursued",
+      "status": "MET",
+      "evidence": "the directive and the objection in two hands through the paper; 'Somebody wanted this buried. Somebody else put it in writing that it shouldn't be. That's not a monolith. That's a crack.' … 'He did not pry it.'"
+    },
+    {
+      "item": "Costs carried; Oryn walking on past her road; the watch gone east; Seln on the pass; the feeling of being known",
+      "status": "MET",
+      "evidence": "the broad man day one of three; Teague's arm; Vastin day 26; 'Seven came off it at the east end and went up … ahead of us' … 'I've looked at it and I don't like it'"
+    },
+    {
+      "item": "Close on the fixed DIALOGUE verbatim; last line 'He was right. He did not yet know how right.'",
+      "status": "MET",
+      "evidence": "the closing exchange; the file ends on the line"
+    }
+  ],
+  "plants": [
+    "Lamps on one wire (Book 9)",
+    "The crack: two seals Vastin could name and does not (Book 9)",
+    "'Recent administration' = the Compact (Book 11)",
+    "The rows lean along the bearing — 'whoever cut them knew where the next one was' (Ch23)",
+    "The pass; the watch ahead (Ch21)",
+    "The third healers' exchange: hands in each other's work (Ch21)"
+  ],
+  "payoffs": [
+    "Ch5's stopped sentence → finished as a finding; the ruler line now used on Vastin",
+    "Ch17's point → fixed twice from two sources",
+    "Ch15's 'apparatus' and 'the Architect' → spoken and not joined"
+  ],
+  "names_minted": [],
+  "tic_census": {
+    "one_word_paragraphs": "see gate",
+    "the_way_x_verb": "see gate (incl. the fixed line's two)",
+    "upside_down": 0,
+    "four_hundred_years": "1 (the fixed line)"
+  },
+  "state_change_proposals": [
+    "The 305th: camp on a shale step east of the Span's far rim; the hills with a square notch (the pass) ahead; the third-tier point a day or two beyond by the office's distance. Cash 123.",
+    "THE POINT FIXED: a thumbnail circle past the hills on the line, from two sources (the office's distance/bearing from a hold; the dead man's grade; the walls' lean) — Karis will pace it standing on it.",
+    "The Span's carvings: more rows than any floor; the rows LEAN along the bearing, east ('Whoever cut them knew where the next one was' / Vastin: 'Or where the last one was') — undecided which way is first.",
+    "KARIS'S FINDING (Book-9 plant c, stated): identical failure at every perimeter — the lamps line; 'spiritual entity' (the office's phrase) has no wire; filed as unexplained. THE REFUSAL: Vastin's sentence stopped by the ruler line; two pages, no line; Cael logged the not-drawing and did not lay his own deep-layer count beside them ('three things not done at one fire'). Vastin: 'Noted' (third).",
+    "THE CRACK: a directive at the file's head (six years back; the office's ruling hand; 'Findings under the fifth column to be held. Not for onward transmission. Not for citation. Not for the seat.'; a seal) with a filed OBJECTION on its back in a second hand and a second seal ('the holding of a finding is not the finding's disproof. Refer to the seat.'). Vastin's crack line verbatim; he could name two seals and did not. Karis: 'recent administration' = the Compact; Vastin: 'Yes. Part of it.'",
+    "Two sticks at the fire (Vastin's second cut for the broad man). The broad man said 'Aye' to Oryn (his first word to the six). The healers' THIRD exchange: the other bound Oryn's work at her leave. Oryn to Teague: 'Lead from the front of it with the other hand.' / 'Noted.' / 'I'm going to have to find another word.'",
+    "SELN on the pass: 'a place I'd put seven people if I had seven and knew twelve were coming … They learned the barricade.' The watch went up onto the ground ahead. Count at every halt: twelve and a mule, nothing behind or beside.",
+    "Close: the fixed dialogue over the map; 'as old as the Architect' (the record's title) spoken by Karis."
+  ],
+  "deviations": [
+    "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence in this chapter; no sexual content; conduct decent.",
+    "'four hundred years' appears once, in Karis's fixed line, as the record's date."
+  ]
+}

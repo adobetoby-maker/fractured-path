@@ -4,7 +4,7 @@
   "scene_id": "b8-ch07",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch07.md",
-  "word_count": 3985,
+  "word_count": 4005,
   "obligations": [
     {
       "obligation": "The day dated and placed; the city closer all day",
@@ -55,7 +55,8 @@
   "deviations": [
     "Vastin's confession about the declined reading is a new interior fact for him (consistent with B4/B6: he declined a second reading and 'sent it up'); flagged for the editor as invention within the budget's 'one true thing'.",
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; violence with cost and without gore; no sexual content; the crew's conduct decent.",
-    "r2 (repairs of r1 HIGH/MEDIUM/LOW): the mule is NORTH with Oryn from the 281st — the crew carries the boxes (three backs + the case on Vastin) until Millrace (planning ruling, DECISIONS row 16); the reading's form restored (sternum/under the back against the post); spans corrected (three readings in eighteen days, two running; her hands in him twice; a north track since first light); the capped variant removed; Vastin's confession narrowed to conduct and interior (no falsified file line, no ordered inquiry); 'a training hall'; the light left unexplained. The log's 'color' is the card's fixed spelling (row 19)."
+    "r2 (repairs of r1 HIGH/MEDIUM/LOW): the mule is NORTH with Oryn from the 281st — the crew carries the boxes (three backs + the case on Vastin) until Millrace (planning ruling, DECISIONS row 16); the reading's form restored (sternum/under the back against the post); spans corrected (three readings in eighteen days, two running; her hands in him twice; a north track since first light); the capped variant removed; Vastin's confession narrowed to conduct and interior (no falsified file line, no ordered inquiry); 'a training hall'; the light left unexplained. The log's 'color' is the card's fixed spelling (row 19).",
+    "r3 (direct): the fifth reading and the hands-off line now use the sternum/back form; Brom's box on the GOOD shoulder (the bound one carried); 'because it was in the file' replaces the ordered inquiry. Closed after r2 (2 HIGH mechanical, verified by grep; 1 LOW) — planning judgment, no third paid round."
   ],
   "blockers": []
 }
