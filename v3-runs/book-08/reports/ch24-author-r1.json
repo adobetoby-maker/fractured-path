@@ -3,7 +3,7 @@
   "run_id": "b8-ch24-r1-author",
   "scene_id": "b8-ch24",
   "draft_path": "v3-runs/book-08/drafts/ch24.md",
-  "word_count": 3823,
+  "word_count": 3968,
   "target_words": 4600,
   "obligations": [
     {
@@ -63,6 +63,6 @@
   ],
   "deviations": [
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence; no sexual content; conduct decent (the rival captain's term kept; the healer's terms kept; the ally unadmitted and unpressed).",
-    "'four hundred years' appears once in the fixed closing prose and once in the centre passage ('a man had built four hundred years ago') — the second is the leaf's date in Cael's understanding; if the editor rules it a second instance, replace with 'a long time ago'."
+    "'four hundred years' appears once, in the fixed closing prose."
   ]
 }
