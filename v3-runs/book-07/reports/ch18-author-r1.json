@@ -1,0 +1,81 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch18-r1",
+  "scene_id": "b7-ch18",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch18.md",
+  "word_count": 4107,
+  "obligations": [
+    {
+      "obligation": "must_include: The clinic scene as HER scene (three serious hurts and a dozen small; reserve spent in her arithmetic; the clinical register); Cael asking to read and being refused; the refusal honored.",
+      "status": "MET",
+      "evidence": "Millrace's lean-to (the ford-keeper's drying shed; plank table; the roll in her order); the carter's crushed hand ('Don't lift with it for a week. You will. Don't.'), the child's fever ('That's the chest. It's not in the chest yet'), the old woman's knee (knelt; 'It'll hold to the spring'); then a dozen small with one hand each and no current. Cael asks properly ('The boy's wrist. May I put a hand on it while you do?'); Oryn: 'No. ... You asked. That's the rule and you kept it. The answer's no. Next.' He steps back and files it as the rule's first entry."
+    },
+    {
+      "obligation": "must_include: Her weighing aloud (four considerations) and the fixed exchange verbatim; her choice as a healer's (word sent up the route; south as a stop); her terms-of-service line verbatim.",
+      "status": "MET",
+      "evidence": "Four fingers: seven holds owe/owed; a floor where her Path dies (eight crossings alone); the unreadable patient going in first; the fourth hold two days later and 'somebody at one of them might die of a fortnight'. Fixed: 'You're asking me to break the route.' / 'I'm not asking. I'm telling you where we'll be.' / 'That's worse. That's a healer's sentence.' Her choice: 'I'm not going to join your crew ... Here's what I'm going to do' — a note on the ford-keeper's paper to a carter going north; 'I've not left the route. I've sent word up it ... And you're a stop on it. From here. Not the other way round.' Verbatim: 'You're on the route now. Which means when I say lie still, you lie still, and when I say I can't help you, you believe me.'"
+    },
+    {
+      "obligation": "must_include: The reading taught on Oryn at her direction with explicit consent; Cael's description; her reaction; the log recording that he asked and she said yes.",
+      "status": "MET",
+      "evidence": "On the ridge road: 'It's my wrist. I'm the one saying yes ... I'm the one who's answering. Put your hand on it. Surface first. Count of ten.' The surface reading finds Tide at ten ('I've never had anything be *there* at ten'); a minute of the long one at her limit; Cael: 'Banks. One channel. A current that runs to things. It doesn't go round anything. It goes *at* what it touches. ... You're built to arrive.' Oryn stops walking; 'the way a patient looks at a diagnosis that is correct: ... *placed*'; 'Yes. That's what I am.' / 'You asked at the lean-to. I said no. I said yes on the road. Both go in the book, in that order' — 'Both,' Cael said, and they went in, at the next halt, in that order."
+    },
+    {
+      "obligation": "must_include: The mid-scene log line at the fork (as given).",
+      "status": "MET",
+      "evidence": "'*Hundred and thirteenth day, Millrace, the ford. Oryn came. On her terms. She'll turn north the day she has to and I won't ask her not to.*' — written at the ford while she loads the mule (the fork under EXC-B7-003 is Millrace's ford, where the route and the Stair road part)."
+    },
+    {
+      "obligation": "must_include: The Stair sighted from the ridge at dusk: the line marked; a stair descending from a floor with no ring; TWO stakes; Seln's line verbatim.",
+      "status": "MET",
+      "evidence": "The road drops off the ridge; the bowl; Lira calls 'Gone'/'Back' at forty paces and Karis sets a stone ('Two hundred. I'll pace it in the morning.'); the floor 'bare as a plate', 'No ring', a square-edged hole and a stair going down, three steps in the light; Karis: 'Different superstructure. Second site. Entered.' Nobody crosses. Seln finds two stakes a stride apart on the line, both thirty-two, one scaled five winters, one 'a skin and not a crust' with a small extra mark; contiguous: 'Newer. This one's been re-surveyed.'"
+    },
+    {
+      "obligation": "must_include: The chapter ENDS on the two-stakes image with Seln's thumb.",
+      "status": "MET",
+      "evidence": "Last sentence: '... Seln on one knee between two bars of iron a stride apart on a circle two hundred meters from a stair that went down into the ground, one bar weathered five years and one weathered fewer, reading the difference between them with the flat of his thumb.'"
+    },
+    {
+      "obligation": "must_include: Lira's arm carried; six on the road from Millrace.",
+      "status": "MET",
+      "evidence": "'Lira, on the bank ... with her arm across her chest'; 'one-armed, on the taped foot'; 'Six on the Stair road, then, in the early afternoon, with two mules and three boxes and Brom's bow'."
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 18 — Oryn's Choice', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; four '---' breaks; ends on the image; metadata 0."
+    },
+    {
+      "obligation": "plants: two stakes re-surveyed; Oryn's route breakable only on her terms; the reading taught.",
+      "status": "MET",
+      "evidence": "All three on the page as quoted; the second stake's extra small mark (a stroke and a bar) is noted as an object and not interpreted."
+    },
+    {
+      "obligation": "prohibited_outcomes: Oryn does not 'join'; no crossing; no fight/trap/crossbows/rim; no fragment use but the consented reading; no theory; no Teague on the page; no letters/Vastin; no new names; not a dialogue or log ending; tics; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "Oryn: 'I'm not going to join your crew' — the language thereafter is route/stop/terms and Cael notes she 'had not once used the word *join*'. Nobody crosses the line ('Morning,' Oryn says). No fight, no trap, nobody on the rim; 'crossbow' 0 (Brom's weapon is 'the bow'). Fragment use: the consented reading on Oryn only. No theory (the extra mark is described, not read). Teague 0 on the page ('a crew coming to look if they were late'). No letters/Vastin. No new names beyond Millrace (EXC-B7-003; the ford-keeper, miller, carter, patients unnamed). Ends on an image (Ch17 ended on dialogue). Capped tics 0 ('there it was' removed); one-word paragraphs 2 (the fixed 'No.' and 'Yes.'); 'at the pitch' 0."
+    }
+  ],
+  "inventions": [
+    "Millrace as a place (EXC-B7-003): a millrace cut in stone where two streams meet, a wheel, eleven roofs, a low stockade, a ford over gravel; the lean-to clinic doubling as the ford-keeper's drying shed; the ford-keeper's 'Five off the ridge'.",
+    "Oryn's three mendings rendered with their orders; her note on the ford-keeper's paper carried north by a carter; Karis's aside that Oryn never runs the long reading on carters ('She was curious about you').",
+    "The reading lesson's structure (surface at ten, then a minute of the long one at her limit); the two-answers-in-order lesson; Lira/Brom: 'He asked twice and got one.' / 'That's the rate.'",
+    "The Stair's bowl: wider and shallower than the Ring's; the road crossing the bowl's floor; the floor bare; a square-edged hole; three steps lit; the second stake's small extra mark (a stroke and a bar), uninterpreted."
+  ],
+  "state_change_proposals": [
+    "Timeline: the 113th — Lowmarch to Millrace by midday (half a day; the Stair road climbs the ridge); the clinic; Oryn's choice; the Stair road along the shoulder; the ridge at dusk; the line marked; two stakes. Camp at the line (implied; Oryn: 'Morning').",
+    "ORYN: joined nothing; the crew is a STOP on her route between the third hold (Millrace) and the fourth; word sent up the route by carter (late, why, where to send); terms of service stated; her mule with them. Party SIX.",
+    "The ask-first rule's first two entries: asked at the lean-to and REFUSED ('No ... Next.'), honored; asked/told on the road and GRANTED — both entered in that order. Cael's first reading of another person: Oryn — banks, one channel, a current that runs to things; 'built to arrive'; she: 'That's what I am.'",
+    "THE LONG STAIR (second site): a bowl below the ridge's south face; a bare fused-stone floor, lipped, no ring; a square hole at the middle with a stair going down (three steps lit, the rest dark); perimeter two hundred by Lira's call (to be paced); the road crosses the bowl. TWO survey stakes a stride apart on the line, both numbered thirty-two, one five winters weathered, one 'a skin not a crust' with an additional small punched mark (a stroke and a bar); Seln: 'Newer. This one's been re-surveyed.' Nobody has crossed.",
+    "Route order confirmed on the page: Oxhollow (1), Thornwater (2), Millrace (3), the fourth four days on.",
+    "Kept sentences: Oryn — the fixed exchange; the terms line; 'It's the only kind there is.'; 'That's what I am.'; 'Morning.'; Karis — 'She was curious about you. Enter that somewhere. I'm not going to.'; 'Second site. Entered.'; Lira — 'He asked twice and got one.'; Brom — 'That's the rate.'; Seln — the fixed line."
+  ],
+  "deviations": [
+    "EXC-B7-003 applied: the chapter is set at Millrace, not Oxhollow; Oxhollow is named once as the first stop of the route.",
+    "Route arithmetic: Oryn's 'Thornwater's next visit is eleven days late' in the card is rendered as the fourth hold (the one after Millrace) going 'another two days late on top of the four', since on the drafted calendar she has just left Thornwater.",
+    "The log line is written at the ford (the fork of the route and the Stair road) rather than at a road fork hours after, since the road out of Millrace does not fork again before the ridge.",
+    "First pass came in at 3,830 words (under the floor) and was expanded from the clinic scene to 4107."
+  ],
+  "blockers": []
+}

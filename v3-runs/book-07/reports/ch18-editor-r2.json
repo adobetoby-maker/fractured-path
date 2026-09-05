@@ -1,0 +1,324 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch18-r2-editor",
+  "scene_id": "b7-ch18",
+  "verdict": "PASS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "Day 113, Millrace, age nineteen, five arrivals becoming six south of the fork, ten confirmed fragments plus the anomaly, the Long Stair, and the route calendar reconcile with the packet, the post-Chapter-17 state, and EXC-B7-003. The repaired clinic has fifteen patients, and the consented road reading occurs on the same day as the refused clinic request."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration remains inside Cael's observation, established memory, documents, and explicitly framed inference. Oryn owns the medical and route arithmetic; Karis owns the measured boundary; Seln owns the physical re-survey finding."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "All five verified repairs are present in exact manuscript text. ED-B7CH18-001: \"Thornwater's next visit is eleven days late... somebody at Thornwater might die of eleven days\" and \"eleven days at Thornwater, and the rest after it.\" ED-B7CH18-002: \"May I read you?\" / \"Yes. That's the answer, and I'm the one giving it\" and later \"You asked on the road. I said yes.\" ED-B7CH18-003: \"Fifteen people, when he had counted them — sixteen, with a mother who was carrying her patient and was not one — and by the time he had they were thirteen\" plus \"doing fifteen in a row.\" ED-B7CH18-004: \"I'm not going to be anybody's sixth\" preserves route/stop/terms framing without Oryn saying join. ED-B7CH18-005: \"He wrote it an hour up the road, at the fork above Millrace\" followed by \"Hundred and thirteenth day, the fork above Millrace. Oryn came. On her terms. She'll turn north the day she has to and I won't ask her not to.\" The clinic, refusal honored, fixed exchange, courier note, terms-of-service line, reading architecture and diagnosis, six-person road, Lira's arm, marked line, bare floor, stair, two stakes, Seln's fixed line, and terminal image all remain present."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Oryn never says she joins; the crew is a stop on her route. Nobody crosses the Stair's line; no fight, trap, crossbow action, rim observer, Teague, Vastin, personal letter, new named entity, or theory appears. The only fragment use is the consented reading on Oryn. The chapter ends on an image, contains no modern register, metadata, feeling/growth declaration, or pitch-family phrase, and does not disclose a forbidden secret."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Oryn's choice follows the visible clinic cost, her four spoken considerations, the known failure of Tide inside quiet ground, Cael's unreadability, and an actual carter-note mechanism. The reading uses the established Tide-adjacent contact component under Oryn's instruction and consent. The differing rust and duplicate number support, without overproving, Seln's re-survey conclusion."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Lira's unusable arm and taped right foot persist; Cael remains nineteen with ten fragments plus the separate anomaly; the five become six only after Oryn's route decision. No prior injury, possession, knowledge boundary, or calendar fact silently changes."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The crew becomes a stop on Oryn's route under her terms, Cael passes both halves of the ask-first test and performs his first consented outward reading, the roster becomes six on the road, and the second survey stake proves a later institutional return."
+    },
+    {
+      "gate": "revision.targeted_repair_minimality",
+      "state": "PASS",
+      "evidence": "A zero-context full diff of ch18-r1.md against ch18.md shows changes only at r1 lines 19, 23, 29, 53, 63, 67, 75, 77, 81, 83, 85, 87, and 107. Every change belongs to one of the five verified repair targets: patient arithmetic, Thornwater's eleven-day cost, prohibited join wording, fork/log staging, or matched ask-and-yes consent. No unrelated passage changed."
+    },
+    {
+      "gate": "revision.recorded_strength_preservation",
+      "state": "PASS",
+      "evidence": "Every r1 strength survives: mechanism-and-use worldbuilding; the route-choice noncombat set piece; the intact refused-and-honored clinic request; reserve shown through treatment and posture; the banks/channel/current diagnosis ending in \"You're built to arrive\"; the untouched two-stakes survey sequence ending on Seln's thumb; and clean names, prohibited-outcome discipline, closer variety, length, and greps."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter uses the series' established catalogue, procedure, cost-ledger, object-emotion, and dry-dialogue modes without naming or detectably imitating an influence author."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael catalogues Millrace, the clinic, route choice, architecture, bowl, stair, and stakes; his log remains plain first person. Oryn diagnoses and prices service, Karis records and measures, Seln reads roads and iron, Lira audits consent, and Brom answers in his compressed rate register."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Millrace is built through the working wheel, ford, flour, drying shed, clinic table, patient queue, reserve triage, route timing, carter note, and fork. Quiet ground and Compact surveying are shown through a marked boundary, stopped Arbiter, matched stone, stamped iron, numbering, and weathering rather than abstract explanation."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "Millrace is approved and screened under EXC-B7-003; the fork is a permitted route detail. Patients, ford-keeper, miller, and carter remain unnamed. The second stake advances the approved Compact-returned plant while withholding faction, purpose, site interior, maker, and theory."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked manually in every multi-party movement: arrival, clinic, route choice, road lesson, and perimeter. The longest contextually unattributed run is one line, below the cap of four; speaker strategy remains distinct. Italics decorate the log and emphasis, but the wording carries the same meaning aloud."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every manuscript name was checked by ear against craft/NAME_REGISTRY.md: Cael, Oryn, Karis, Lira, Brom, Seln, Pike, Lowmarch, Thornwater, Oxhollow, Millrace, Fallow Ring, and Stair/Long Stair. All are established or explicitly approved; MIL-race remains distinct from Marlowe, Merrick, and Marrow, and no reserved name or new collision appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Declared scope: v3-runs/book-07/drafts/ch18.md. The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0; the section 10 summary-substitution grep returns 0. wc -w returns 4,228, inside the 3,910-5,290 tolerance. The exact H1, prose-only body, four scene breaks, and final prose line pass."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 18 counts / Book 7 Chapters 1-18 totals: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/2; That was true 0/0; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Both book-level 'There it was' matches are substring false positives in Chapter 12 ('Out there it was' and 'In there it was'). Chapter 18 has 2 single-word dialogue paragraphs, 2 identical 'the way she stood' constructions, and 28 em dashes. Chapter counts for modern register, summary family, feeling declaration, growth declaration, metadata, and 'at the pitch'/'at that pitch' are 0. The inherited Book 7 pitch-family total is 10 and Chapter 18 adds none."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 17 ends on dialogue, \"Noted.\" Chapter 18 ends on the observed image of Seln's thumb reading different weathering on two stakes. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Audit against the base snapshot, running state through Chapter 17, and Chapter 17 itself: Cael has ten confirmed fragments after the Chapter 13 Tide acquisition plus the separate located Tide-adjacent anomaly; no acquisition, rank delta, new field, or unestablished ability appears. Only the established Tide reading is used, at contact and by consent. Lira's left arm remains load-restricted/one-armed at the bank, road lesson, boundary, and close; her taped right foot recurs at the boundary. Cael has no open injury; Brom's hand, Karis's throat/voice, Seln, and Oryn receive no new injury."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "Five arrive from Lowmarch while Oryn is already at Millrace. After her choice, the manuscript says \"Six on the Stair road\" and closes with all six at the perimeter. The road reading is witnessed only by the established companions."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank, fragment, or capability advances; the chapter teaches and ethically applies an established fragment."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The long reading is limited to one minute to preserve Oryn's reserve, and her decision visibly risks making Thornwater's next visit eleven days late, with possible death as the stated price."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Cael's restraint alters a patient interaction; his explicit request changes the ethical status of the lesson; Oryn's terms alter the party relationship; and his reading gives Oryn a correct professional diagnosis rather than a numerical gain."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "The only capability used is the Tide-adjacent reading acquired in Chapter 13 and constrained in Chapters 14-16. It resolves no external conflict and operates at Oryn's direction."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "Oryn's route and patients continue independently of the crew; the carter network propagates consequences; Teague's rescue clock remains active off page; and the newer stake proves the surveying institution returned on its own schedule."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "The chapter shifts from Chapter 17's public pricing and council decision to triage, consent, service terms, instruction, and survey evidence."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The Fallow Ring's failure of Oryn's Path changes her route decision; Cael's earlier ethical debt produces a refused request honored and a separate granted request; and the first survey stake makes the second legible as a return visit."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display renders; the physical Power Log has an explicit writer, place, and trigger."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system values display; narrative fragment references remain consistent with ten confirmed fragments plus the anomaly."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears; the log and spoken counts read aloud as ordinary prose."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears. The log records Oryn's terms and future departure condition and is causally relevant."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "No cause, maker, intelligence, faction identity, purpose, or Stair interior is disclosed. The re-survey inference rests only on duplicate numbered stakes and different weathering."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "No new combination occurs. The contact reading uses the established Tide-adjacent architecture-reading component within its known range and Oryn's lesson constraints."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "PASS",
+      "evidence": "Oryn's statement that inside healers were reading Bronzes connects rank to allocation of medical attention; the Millrace clinic demonstrates the resulting edge-territory scarcity."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The reading traces to Chapters 13-16, route communication uses the established carter network, and the second-stake conclusion traces to the first survey stake plus Seln's tradecraft."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "The reading remains contact-bound, distinguishes surface from long use, is time-limited, requires consent here, and stops before Oryn spends a mending's worth of reserve."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The approved Millrace and fork details extend existing route, ford, healer, courier, road, Quieting, and registry-survey mechanisms. No unapproved named ability, faction, person, or subsystem is added."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: find Oryn inside the route she owns and tell her where the crew will be. Delivery: she makes the crew a route stop on stated terms, authorizes Cael's outward lesson, and reaches a second site showing later survey work."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "Oryn's reserve and route, Cael's unreadability and ask-first rule, the acquired reading, carter maps, and the original registry stake all precede the present payoffs. The second stake advances rather than resolves the Compact-knows plant."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "Oryn's character thread receives a service-bound choice rather than surrender; the moral thread receives both refusal and consent; the site inquiry receives stronger evidence rather than a premature answer."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "World information is grounded in wheel noise, cold, flour, hands, grey water, breath, road grade, scrub, stone, rust scale, and punched iron. Concrete and procedural sentences outweigh abstract exposition in every sustained worldbuilding passage."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "PASS",
+      "evidence": "This run is explicitly a continuity-repair pass. The complete diff confines all edits to the five verifier-confirmed defects and shows no opportunistic voice, compression, or line revision outside those repair zones."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The ford, clinic, route fork, ridge shoulder, bowl, perimeter, central stair, and paired stakes are nevertheless spatially legible."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. Noncombat cadence varies long catalogues with short clinical rulings and ends on a sustained visual sentence."
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combatants act. Dialogue remains reassignable through Oryn's clinical terms, Karis's entries, Lira's social audit, Brom's rate language, and Seln's evidence reading."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Lira's season-restricted left arm recurs at the clinic, during the road lesson, at the line, and in the closing image; her taped right foot recurs during the line test. No other open injury from the Chapter 17 seam silently disappears."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "The three serious treatments, ask/refusal, four-part weighing, fixed exchange, route note and choice, terms line, matched ask/yes lesson, fork log, line marking, Stair sighting, and paired-stake finding all occur in scene. Only the twelve small cases receive proportionate summary after representative examples."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs. As noncombat staging, the ford enables triage and courier choice, the fork makes Oryn's southward choice physical, the road enables the consent lesson, and ridge, bowl, line, light, and rust make the site evidence usable."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement delta occurs; the chapter demonstrates ethical and practical use of an existing capability."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight win occurs."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague remains off page as required, but the independently scheduled rescue clock persists as \"a crew coming to look if they were late\"; no rival is frozen to accommodate Cael."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Progress is visible outside any stat system through Oryn accepting the crew as a route stop, Lira naming the sixth chair, Cael honoring refusal, and Oryn receiving a diagnosis no colleague has been available to give her."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system/status box appears. The in-world log has a clear writer, moment, and reason."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Healer scarcity and rank-shaped allocation are dramatized through Millrace's line, three costly treatments, reserve triage, delayed route visits, and the lack of another reader rather than supplied only as commentary."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Dry exchanges about ladders and rates do not deflect or erase the clinic, consent, route, or survey stakes."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "Cael accepts refusal without argument, watches Oryn choose without pressing, and describes what he reads without jokes or lampshading."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "The checkpoint is now fully behavioral and witnessed: \"May I read you?\" / \"Yes. That's the answer, and I'm the one giving it.\" The earlier patient refusal remains honored, and Oryn explicitly records both outcomes in order."
+    }
+  ],
+  "findings": [],
+  "concerns": [
+    "Taste only: the paragraph beginning 'He catalogued, because it was what he did' explains the terms-of-service distinction after Oryn's note and dialogue have already dramatized it. The repair correctly left this unrelated passage intact; a later dedicated line pass could test whether the objects can carry more of the conclusion.",
+    "Taste/continuity only: 'Brom stood with the two mules' ropes in his good hand' can make his already healed hand sound injured again, while later 'Brom's bow' blurs his established crossbow. Neither phrase establishes a renewed wound or prohibited crossbow action strongly enough for a finding, and both survived unchanged from r1.",
+    "Taste only: the dozen small cases are compressed into a representative list. The repaired fifteen-patient arithmetic is reconcilable, but the boy's wrist appearing early in that list before 'He asked at the eighth' may require a slight performance pause so the list is not heard as strict case order. This remains below finding threshold."
+  ],
+  "strengths": [
+    "All five verifier-confirmed findings are repaired by localized changes, and a full diff proves no unrelated passage changed. The exact repair receipts are: Thornwater's eleven-day cost; 'May I read you?' / 'Yes'; fifteen patients with the carrying mother excluded; 'I'm not going to be anybody's sixth'; and the fixed log at 'the fork above Millrace.'",
+    "Every strength recorded in the r1 editor report survives. The refusal remains excellent practical trust: Oryn protects the boy from becoming a demonstration, Cael steps back without argument, and Lira's silence supplies the third-party verdict.",
+    "Yes: worldbuilding is done through mechanism and use. Millrace works as wheel, ford, mill, drying shed, clinic, triage queue, route stop, carter network, and fork; healer scarcity is felt through reserve expenditure and delayed care. The Quieting and Compact history arrive as boundary behavior, stamped objects, duplicate numbering, and different rust depths.",
+    "There is no fight, as prohibited, so no combat win sentence is required. The chapter does contain a memorable noncombat set piece with load-bearing terrain: clinic table and ford establish Oryn's work, the fork makes her choice physical, the road enables consented instruction, and ridge/bowl/light/rust turn the Stair into evidence. Its win sentence is: Oryn removed the crew's ability to absorb her into their contract by making the crew a stop on her route.",
+    "Oryn's reserve remains visible through three different treatments, water, posture, the stool, and refusal to spend current on small hurts. Her clinical voice stays blunt and individually useful to each patient.",
+    "The reading image remains clear and character-bearing: banks, one channel, and a current directed toward contact produce 'You're built to arrive,' a diagnosis rather than theory, and give Oryn the rare experience of being read correctly.",
+    "The final survey sequence is untouched and controlled. Bare floor, square stair, boundary stone, paired registry stamps, duplicate thirty-two, different rust depths, and Seln's thumb advance the Compact plant without crossing the line or explaining the site.",
+    "Production remains clean: 4,228 words is within tolerance; all §9 named phrases remain under cap; Chapter 18 adds no pitch-family use; metadata, summary-substitution, modern-register, feeling/growth, and prohibited-name greps are clean; attribution survives audio; names pass the registry ear check; and the image close differs from Chapter 17's dialogue close."
+  ]
+}

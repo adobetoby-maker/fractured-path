@@ -1,0 +1,54 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch18-verifier-r1",
+  "scene_id": "b7-ch18",
+  "editor_run_id": "b7-ch18-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch18-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch18-r1.md: \"Seven holds owe me and I owe them. That's the route. I'm at the third, and the fourth is four days on, and it's late already, because I sat",
+        "packets/ch18.json (EXC-B7-003); STATE_RUNNING calendar"
+      ],
+      "reason": "Fourth consideration restored to the packet's cost: Thornwater's next visit eleven days late, somebody there; the route note names it; the Millrace old woman no longer tied to 'the seventh'."
+    },
+    {
+      "finding_id": "ed-b7-ch18-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch18-r1.md: She taught him on the road, because she had said she would when the debt was three readings deep and he had one, and because, she said, walk",
+        "packets/ch18.json (EXC-B7-003); STATE_RUNNING calendar"
+      ],
+      "reason": "Cael now asks ('May I read you?') and Oryn grants at her direction; 'same day as the lean-to and a different question'; the lesson line reads asked/no, asked/yes."
+    },
+    {
+      "finding_id": "ed-b7-ch18-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch18-r1.md: The lean-to was Millrace's clinic when she was in it and the ford-keeper's drying shed when she was not, and it smelled of both. He catalogu",
+        "packets/ch18.json (EXC-B7-003); STATE_RUNNING calendar"
+      ],
+      "reason": "Fifteen patients counted (a carrying mother separately), thirteen after two, fifteen in a row; the eighth case is the boy's wrist."
+    },
+    {
+      "finding_id": "ed-b7-ch18-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch18-r1.md: \"Here's what I'm not going to do,\" she said. \"I'm not going to join your crew. I've told you that at three tables and I'll tell you at this ",
+        "packets/ch18.json (EXC-B7-003); STATE_RUNNING calendar"
+      ],
+      "reason": "'I'm not going to join your crew' → 'I'm not going to be anybody's sixth'; the later catalogue is literally true."
+    },
+    {
+      "finding_id": "ed-b7-ch18-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch18-r1.md: He catalogued, because it was what he did, that no companion in four years had come on their own terms of service, because none of them had ",
+        "packets/ch18.json (EXC-B7-003); STATE_RUNNING calendar"
+      ],
+      "reason": "The log is staged at a fork above Millrace (her route's road west along the ridge; the Stair road south), an hour after the ford and hours before the ridge; the exact sentence kept."
+    }
+  ]
+}

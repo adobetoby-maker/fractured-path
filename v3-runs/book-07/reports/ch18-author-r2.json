@@ -1,0 +1,45 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch18-r2",
+  "scene_id": "b7-ch18",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch18.md",
+  "word_count": 4228,
+  "obligations": [
+    {
+      "obligation": "ED-B7CH18-001 (HIGH): restore the Thornwater / eleven-day / somebody-there cost.",
+      "status": "MET",
+      "evidence": "Oryn's fourth: 'And if I go with you, Thornwater's next visit is eleven days late. The circuit's twenty days round ... somebody at Thornwater might die of eleven days.' The route note: 'It says I'm late, and how late — eleven days at Thornwater, and the rest after it — and why'. The Millrace old woman is 'Millrace's, with the ladder in the story before Oryn had asked for it'."
+    },
+    {
+      "obligation": "ED-B7CH18-002 (HIGH): Cael asks; Oryn grants at her direction; same day.",
+      "status": "MET",
+      "evidence": "She holds out the wrist and does not put it in his hand: 'Well?' / 'May I read you?' / 'Yes. That's the answer, and I'm the one giving it ... it's the same day as the lean-to and a different question, and that the rule held both times.' Lesson line: 'You asked at the lean-to. I said no. You asked on the road. I said yes. Both go in the book, in that order.'"
+    },
+    {
+      "obligation": "ED-B7CH18-003 (MEDIUM): reconcile the clinic counts.",
+      "status": "MET",
+      "evidence": "'Fifteen people, when he had counted them — sixteen, with a mother who was carrying her patient and was not one — and by the time he had they were thirteen'; 'doing fifteen in a row'; three serious, a dozen small; 'He asked at the eighth.'"
+    },
+    {
+      "obligation": "ED-B7CH18-004 (MEDIUM): no 'join' framing from Oryn.",
+      "status": "MET",
+      "evidence": "'I'm not going to be anybody's sixth.' — grep 'join your crew' → 0; the catalogue's 'had not once used the word *join*' is now literally true."
+    },
+    {
+      "obligation": "ED-B7CH18-005 (HIGH): the fixed log at an actual route fork hours before the ridge.",
+      "status": "MET",
+      "evidence": "'He wrote it an hour up the road, at the fork above Millrace where her route's road went on west along the ridge toward the fourth hold and the Stair road turned south off it' — Oryn turning her mule's head south; the log's dateline '*the fork above Millrace*'; the exact sentence kept; the ridge is reached at dusk, hours later."
+    }
+  ],
+  "inventions": [
+    "The fork above Millrace: her route's road west along the ridge; the Stair road south; Seln stops at forks."
+  ],
+  "state_change_proposals": [
+    "Oryn's route cost stated: Thornwater's next visit eleven days late (twenty-day circuit); the carter's note names it. The fork above Millrace is where the route and the Stair road part. Clinic: fifteen patients on the 113th (three serious: a carter's crushed hand, a child's fever, an old woman's knee; twelve small)."
+  ],
+  "deviations": [
+    "Ten localized replacements from r1 (r1 preserved as drafts/ch18-r1.md); net +~60 words; no mandated line changed."
+  ],
+  "blockers": []
+}
