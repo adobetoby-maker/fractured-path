@@ -1,0 +1,82 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch19-r1",
+  "scene_id": "b7-ch19",
+  "status": "DONE",
+  "draft_path": "v3-runs/book-07/drafts/ch19.md",
+  "word_count": 5277,
+  "obligations": [
+    {
+      "obligation": "must_include: The trap's design legible through the fight (rim, crossbows, lattice at the line, the floor as disarmament) with the Compact's knowledge of quiet ground as premise, stated in one line.",
+      "status": "MET",
+      "evidence": "The geometry paragraph after the first bolt ('A bowl of dead Path ... A rim round it at the height of a wall, where Paths worked. Six figures ... They had let six people walk in and six Paths die at the stride'); Seln: 'The line.' — the Anchor course seen 'blooming, along the perimeter's inside edge'; Cael: 'They've closed it. Anchor. We can't go back through the stone.' Premise in one line, in the chamber: 'They planned for the line. Not for us. For the line. They read the report, and they know what this floor does, and they built the whole thing on it ... It's got one thing wrong in it.' / 'It thinks the floor did the same thing to all six of us.'"
+    },
+    {
+      "obligation": "must_include: Five exchanges as staged; the stair and chamber as terrain with ≥2 beats CAUSED by it; geography drawable.",
+      "status": "MET",
+      "evidence": "FIRST: the bolt through Brom's shoulder at forty meters; the rim counted (two south, two east, one west, one north above the stone); the lattice read at the line. SECOND: Lira runs DOWN for the stair (the only cover), a bolt skipping off fused stone ahead of her; the unit follows; forty steps; the chamber under the floor; the doorway. THIRD: the stalemate — Seln: 'They can shoot the bowl. They can't shoot the stair. There's no angle. To come down it they have to come in, and if they come in they're what we are'; the rim holds and waits (a bolt sent down the flight stops at the thirty-first step); Oryn's diagnosis. FOURTH: Cael up the stair alone with Shadow-adjacent; across floor and scrub unseen; the lattice unbound at the stone; stepping over declaring. FIFTH: the rim breaks; crossbows left. Terrain-caused beats: bolts skip off the fused floor (no cover on the plate) → the hole is the only cover; the stair's angle denies the rim a shot and forces them into the Quiet to come down; the chamber's ceiling is the floor; the lattice's fixed points close the road's meter of scrub. Drawable: bowl, rim positions, the road's cut and stone, forty meters to the first bolt, the floor at the middle, the hole and forty steps, the chamber ten by ten."
+    },
+    {
+      "obligation": "must_include: Oryn's mundane diagnosis inside with her fixed lines; her Path back at the stride outside and Brom mended; Lira's mend reopened on the stair and closed outside with the fixed order line.",
+      "status": "MET",
+      "evidence": "Inside, by lantern, two fingers on head and fletching, contiguous: 'I can see what's wrong. I can't feel it and I can't touch it. Tape it. Leave the bolt.' — 'the bolt's the plug'. Lira's sling dark at the forearm where she caught herself on the stair's wall ('That's what I said it would do'). Outside: Oryn over the stone first — 'There. Back.' / 'The clock started again. Brom. Sit.' — the bolt cut and drawn, an hour's mending, Karis timing it; then Lira's mend closed ('Smaller. It tore where it was thinnest') and the order verbatim: 'It held a stair. It's not going to hold anything else this season.'"
+    },
+    {
+      "obligation": "must_include: Cael's approach with Shadow-adjacent explicitly named as the one fragment used on the way up; unattributability stated; the lattice unbound (Anchor-adjacent, as on the Ostrand road); stepping OUT already declaring; the Daeva suite named on the rim.",
+      "status": "MET",
+      "evidence": "'He went up the forty steps with the ten held to nothing but one, and the one was Seln's. Shadow-adjacent.' The rim 'scanning a bowl for the one thing they were sure could not happen in it'; 'a loudness whose whole grammar was silence, and the rim did not have a form for it'; 'The rim could not carry what it never perceived, and the fragment's whole function was that it was not perceived.' The unbinding: 'He put the Anchor-adjacent on it ... found the knot ... and let it go, the way the woman on the Ostrand road had let go of a spent position ... The course went slack.' Then: 'Then he stepped over the stone, declaring.' / 'Wind, first, because Wind was the shout ... Storm with it. Daeva's ... Compression at contact, Reydan's ... Ember, Karis's, one point of white' — on the rim, at contact with one bowman."
+    },
+    {
+      "obligation": "must_include: The team breaks professionally; nobody taken; crossbows left; no faces; the second Anchor specialist noted as a different hand.",
+      "status": "MET",
+      "evidence": "'no last exchange, no rearguard, no second shot ... a losing engagement by definition'; six shapes go over the rim in road grey, hoods up; 'He had been at contact with one of them and had not seen a face.' 'They left the crossbows. Four of them.' Nobody taken; nobody dies (the one bowman goes 'backward off the rim's lip onto the slope, on his feet'). The specialist: 'not the woman on the Ostrand road; he had felt her points from inside and these were not her hand; the same craft, a different weight in the laying, a different spacing'."
+    },
+    {
+      "obligation": "must_include: Seln angry (first time); the nameless-account log line verbatim.",
+      "status": "MET",
+      "evidence": "Seln comes down off the rim with an unmarked crossbow: 'No faces.' — 'it was not an inventory' — and breaks its stock across the stone in the rut and stands over the pieces; 'a man who had wanted a face for six years and had been given four crossbows and six hoods was owed one broken stock in a road'. Log verbatim: '*Second nameless team. Same hand. I own a piece of the first one and I used it on the second. The account's still unpayable. It's getting longer.*'"
+    },
+    {
+      "obligation": "must_include: Teague's crew on the ridge; the exchange verbatim; Teague does not ask how; Cael files it beside Umber's unscorable; the chapter ENDS on Teague's sentence.",
+      "status": "MET",
+      "evidence": "'Teague's crew came over the ridge at full dark ... They had come to look, as promised'; the ground read; 'You walked out of the Quiet declaring.' / 'Yes.' / 'He did not ask how.' Cael files it 'beside a line an adjudication office had once written about him at Norhold, in a hand called Umber's, which had found him *unscorable*'; last line, contiguous: 'Then you're not on the board anymore. You're something the board doesn't have a column for.'"
+    },
+    {
+      "obligation": "must_include: Manuscript format: H1 '# Chapter 19 — The Long Stair', prose only, '---' breaks, ends on the last line of prose.",
+      "status": "MET",
+      "evidence": "H1 present; nine '---' breaks; ends on Teague's sentence; metadata 0."
+    },
+    {
+      "obligation": "plants: the chamber's carved walls and the kit (glimpse only); two nameless teams, same hand; Teague's 'no column'.",
+      "status": "MET",
+      "evidence": "The chamber: walls carved floor to ceiling in the lines; 'At the chamber's middle, shapes: something cased, something laid out on the stone in a line, a cord. Nobody went to look.' The log line; Teague's sentence."
+    },
+    {
+      "obligation": "prohibited_outcomes: nobody dies/taken; no faces/names; the case untouched; the rim does not see Cael declare inside; Shadow never attributable; the tenth fragment not used; Oryn does not read or mend inside; no theory; the kit unread; no letters/Vastin; not a log or image ending; tics; no 'at the pitch'.",
+      "status": "MET",
+      "evidence": "No deaths or captures; hoods throughout; the broker and team unnamed; the case rides on Seln's back and is not touched. The only declaration the rim perceives is on the rim ('found one *outside* it, on their own ground'); Shadow inside is 'a loudness whose whole grammar was silence' and never perceived. Tide-adjacent: 0 uses in the fight (grep in the ascent/rim span → 0). Oryn inside: eyes and fingers only ('That's the whole of what I can do in here'). No theory; the kit glimpsed as shapes. No letters/Vastin. Ends on dialogue (Ch18 ended on an image). Capped tics 0; one-word paragraphs 1; 'at the pitch' 0; 'the way X' identical construction ≤3."
+    }
+  ],
+  "inventions": [
+    "The rim's positions (two south, two east, one west, one north above the stone) and the bolts' behaviour on fused stone (they skip, not stick — the floor is no cover); a bolt sent down the stair for the sound of it; the chamber ten strides square with the floor as its ceiling.",
+    "Oryn's bolt procedure outside (head cut, shaft drawn back, the plug), and inside 'the bolt's the plug'; her 'Ask first' / 'I'm saying the rule out loud so it's been said on this floor too' before he goes up.",
+    "The one bowman removed from the plan at contact and sent off the lip on his feet; four crossbows left, unmarked; the west bowman's one-second look back, hood up, unreadable.",
+    "Seln's broken stock; Teague's crew reading the ground with a lantern low; Cael's reflection that Umber and Teague 'said the same thing in two countries, and that only one of them had come out to look'."
+  ],
+  "state_change_proposals": [
+    "Timeline: the 114th — crossing at the stone in the morning; the bolt at forty meters; the stair and chamber; the stalemate through the afternoon; Cael up at dusk; the rim broken at dusk; the crew out at dark; Oryn's hour on Brom and a quarter on Lira at the stone; Teague's crew arrives at full dark. Camp at the stone (implied).",
+    "INJURIES: Brom — crossbow bolt through the right shoulder high above the collarbone (front to back); bolt cut and drawn OUTSIDE the line by Oryn; MENDED (an hour); marks front and back; 'Don't' (no use yet). Lira — the forearm mend REOPENED a finger's length where she caught herself on the stair wall; closed outside by Oryn (a quarter of an hour, 'smaller'); sling higher; the order restated ('It held a stair ...'); ankle taped, unchanged. Cael — the Daeva suite spent on the rim (Wind, Storm, Compression, Ember) on top of a week's rest; ten gone to nothing; calf and ribs silent. Seln — unmarked; ANGRY (the broken stock). Karis — unmarked; timed the hour. Oryn — drained (an hour and a quarter of mending after a day with no Path).",
+    "FRAGMENTS: Shadow-adjacent used once INSIDE (the ascent and the crossing of the bowl), witnessed by the circle only; the rim never perceived it — the seal holds. Anchor-adjacent used inside to UNBIND the rim's lattice at the stone (the second specialist's hand, 'a different weight in the laying'). The Daeva suite declared OUTSIDE on the rim at contact — the only declaration the rim saw. Tide-adjacent unused. The rim's knowledge: a practitioner walked out of quiet ground declaring; they did not see him declare inside.",
+    "THE TRAP as it ran: six hooded practitioners in road grey on the rim with crossbows; an Anchor course closing the road's meter at the stone; one bolt; a stalemate the rim intended to win by waiting; broken by the unbinding and the rim-side declaration; four crossbows left (one broken by Seln); nobody taken; no faces; the case untouched. The Compact's knowledge at close: the crew walked out of quiet ground declaring; NOT that anything works inside.",
+    "THE LONG STAIR: forty steps down from a square hole in a bare floor to a chamber ten strides square under the floor, walls carved floor to ceiling; at its middle, cased shapes and a laid-out line and a cord (unread; Ch20). The rim's lattice unbound; the line is a stone in a rut again.",
+    "TEAGUE'S CREW at the Stair from full dark, holding the rim; Teague's verdict verbatim; he did not ask how and did not learn the mechanism. Rival clock: 'not on the board anymore'.",
+    "Kept sentences: Seln — 'Ridge.' / 'The line.' / 'They can shoot the bowl. They can't shoot the stair.' / 'No faces.'; Oryn — the fixed diagnosis; 'the bolt's the plug'; 'I came south for exactly this. Enter that.'; 'Ask first.'; 'The clock started again.'; the order; Brom — 'Ridge.' / 'Through.' / 'Say it with less.' / 'Tape.' / 'Arm.'; Lira — 'Later.'; Cael — 'It thinks the floor did the same thing to all six of us.'; Teague — the two fixed lines."
+  ],
+  "deviations": [
+    "First pass came in at 5,523 words and was trimmed inside the band by a line pass on catalogue and connective prose only (no beat, obligation, or mandated line removed). Final 5277.",
+    "Two mandated lines (Oryn's diagnosis; Teague's closing sentence) were first split by attribution and made contiguous.",
+    "Oryn's unnamed remark 'Ask first' before the ascent is an invention in her register (the rule said aloud on the floor), not a reading.",
+    "The one bowman Cael meets at contact is put off the rim's lip 'on his feet' and not pursued — no death, no capture, per the packet; reported so the editor can judge the removal beat as 'X removed Y's ability to Z' (Cael removed the rim's ability to hold the bowl by unbinding its only controlled exit and attacking from the side its design said was impossible)."
+  ],
+  "blockers": []
+}

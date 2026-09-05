@@ -1,0 +1,176 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b7-ch19",
+  "project": "void-roads",
+  "pen_name": "fantasy-author-a",
+  "job": "continuity_repair",
+  "revisions": {
+    "input_commit": "6debf2acf9ad367f7b5cc076452505cf944f45fc",
+    "canon": "canon-b7-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md at input_commit)",
+    "arc": "arc-b7-v2 (books/book-07-void-roads/CHAPTER_ARCHITECTURE.md, editor PASS r4, Chapter 19 card)",
+    "state": "state-b7-post-ch18 (v3-runs/book-07/STATE_RUNNING.md + base snapshot)",
+    "registry": "registry-2026-08-30 (craft/NAME_REGISTRY.md incl. dispositions)"
+  },
+  "modules": [
+    "progression",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense, Cael",
+    "knowledge_boundary": [
+      "Cael is nineteen; ten + anomaly. Party SIX (Oryn present). Lira one-armed (the mend a week and more old; it REOPENS in this chapter where she catches herself on the stair — exactly what Oryn said it would do if it held anything — and is closed again OUTSIDE the line afterward, smaller work, with her order restated: 'It held a stair. It's not going to hold anything else this season.').",
+      "THE TRAP: six nameless practitioners in road gear, no seals, NOT inside the circle — at the perimeter, on the ridge, in the scrub, with crossbows — because the Compact has read what quiet ground does: let the crew walk in, let their Paths die, take them at range from ground where the bowmen's Paths still work. Anchor lattices laid at the perimeter's edge by a specialist who is NOT Book 6's woman (a different hand, the same craft) to hold the line closed behind the crew. Custody, industrialized, with a floor that does the disarming. The team never sees Cael declare INSIDE; they see him declare on the RIM, in the Daeva suite (Wind, Storm, Compression, Ember — all public since B5). They leave the crossbows. Nobody is taken. They have no faces (hoods, road gear).",
+      "The Long Stair as terrain: a bowl of dead Path forty meters across the floor; a descending flight of fused stone, forty steps, into a chamber below the floor (walls carved in the lines Karis cannot read; the ceiling is the floor's underside) — cover the crossbows cannot reach, a doorway five people with no Paths can hold against six people with Paths who ALSO have no Paths the moment they come down. The bowmen can shoot the bowl; they cannot shoot the stair; to come down they must walk into the Quiet themselves — so they hold the rim and wait.",
+      "Oryn inside: NO reading (Tide is a stride and forty steps away); a lamp, eleven years of eyes, two fingers finding the bolt's head and exit — 'I can see what's wrong. I can't feel it and I can't touch it. Tape it. Leave the bolt.' She mends Brom OUTSIDE the line an hour later (her Path returning at the stride: 'the clock started again').",
+      "CAEL'S TURN: alone up the stair into the bowl with the suite held to nothing but Shadow-adjacent — presence thinned to nothing, movement folded into the bowl's dusk — the fragment whose public seal the book keeps and keeps here by its whole function: the rim scans for declarations that cannot exist inside the line, and the one that does exist is the one whose craft is not being seen; they never perceive him; what is never perceived cannot be attributed. He reaches the perimeter's lattice and UNBINDS it from inside (Anchor-adjacent, as in B6 Ch13), then at the line, one stride from the rim, steps OUT of the Quiet already declaring — the Daeva suite on the rim at contact against a team that planned for a boy with no Path walking out of a place with no Paths. They break (a specialist's lattice gone, geometry gone, an unclassifiable practitioner doing Gold-tier architecture on their rim) and are gone with a professionalism that is its own signature. Win: Cael removed the rim's ability to hold the dead-Path bowl by unbinding its only controlled exit and attacking from the impossible side.",
+      "Costs: Brom's shoulder (bolt through; mended outside the line); Lira's mend reopened, closed outside; Cael's suite spent on top of a week's rest; Seln unmarked and ANGRY — the first time the series shows it — because the team had no faces. Log line for the LOCKED thread: 'Second nameless team. Same hand. I own a piece of the first one and I used it on the second. The account's still unpayable. It's getting longer.'",
+      "Teague's crew on the ridge at dusk, come to look as promised, arriving to find crossbows, an unbound lattice, and a crew of six alive; Teague reading the ground, then Cael: 'You walked out of the Quiet declaring.' 'Yes.' He does not ask how. 'Then you're not on the board anymore. You're something the board doesn't have a column for.' Cael files it beside Umber's 'unscorable'. Teague does NOT learn the mechanism or see anything inside.",
+      "No theory; no 'Architect'; no faces; nobody dies."
+    ]
+  },
+  "purpose": "REPAIR RUN. Apply the two verified findings to v3-runs/book-07/drafts/ch19-r1.md as localized replacements: Shadow-adjacent the only active fragment on the ascent and crossing (Anchor released at the perimeter for the unbinding only); Oryn's inside diagnosis by lamp, eyes and fingers with no count. No other passage changes.",
+  "scene_shape": {
+    "opening_state": "Morning; the six cross the Stair's line together (Oryn checks her hands at the stride, as before); forty meters in, the first bolt takes Brom high in the shoulder from the ridge.",
+    "pov_goal": "Get five people with no Paths out of a bowl ringed by six people with Paths and crossbows — using the one thing on this floor that works, without letting the rim see it work inside.",
+    "opposition": "Six bowmen on the rim; an Anchor lattice closing the line behind them; a bolt in Brom; a stalemate that costs the rim nothing.",
+    "turn": "FIRST: the bolt; the geometry understood in a breath; Seln's read of the lattice blooming at the line (they cannot go back the way they came). SECOND: Lira runs — down the stair, the only cover — and the unit follows; the chamber as terrain. THIRD: the stalemate; the rim holds and waits; Oryn's mundane diagnosis and order.",
+    "choice": "FOURTH: Cael goes up the stair alone, with Shadow-adjacent only, unseen; unbinds the lattice from inside; steps out declaring.",
+    "outcome": "FIFTH: the rim breaks; nobody taken; crossbows left. Costs ledgered outside the line: Brom's shoulder mended at the stride's return; Lira's mend closed and her order restated; Cael spent; Seln angry and faceless-handed; the log line for the nameless account. Then Teague's crew on the ridge and the exchange.",
+    "closing_state": "The chapter ENDS ON DIALOGUE (the previous chapter ended on an image): Teague: 'Then you're not on the board anymore. You're something the board doesn't have a column for.' — with Cael filing it beside Umber's unscorable as the last narrated beat, and the chapter ending on the sentence, not on the log."
+  },
+  "obligations": {
+    "must_include": [
+      "The trap's design legible to the reader through the fight (rim, crossbows, lattice at the line, the floor as disarmament) with the Compact's knowledge of quiet ground as its premise (stated by Seln or Cael in one line).",
+      "Five exchanges as staged; the stair and chamber as terrain with at least two beats CAUSED by it (the stair as cover from the rim; the doorway held; the need for the rim to enter the Quiet to come down); geography drawable.",
+      "Oryn's mundane diagnosis inside with her fixed lines; her Path back at the stride outside and Brom mended; Lira's mend reopened on the stair and closed outside with the fixed order line.",
+      "Cael's approach with Shadow-adjacent EXPLICITLY named as the one fragment used on the way up, and the unattributability stated (they never perceive him); the unbinding of the lattice (Anchor-adjacent, as on the Ostrand road); stepping OUT already declaring; the Daeva suite named (Wind, Storm, Compression, Ember) on the rim.",
+      "The team breaks professionally; nobody taken; crossbows left; no faces (hoods, road gear); the second Anchor specialist noted as a different hand.",
+      "Seln angry (first time); the nameless-account log line verbatim.",
+      "Teague's crew on the ridge; the exchange verbatim; Teague does not ask how; Cael files it beside Umber's unscorable.",
+      "The chapter ENDS on Teague's sentence (dialogue).",
+      "Manuscript format: H1 '# Chapter 19 — The Long Stair', prose only, '---' breaks, ends on the last line of prose."
+    ],
+    "plants": [
+      "The chamber's carved walls and the kit within (Ch20 — do not enter the kit here beyond a glimpse).",
+      "Two nameless teams, same hand (open thread).",
+      "Teague: 'no column' (Ch24: Pike stops numbering)."
+    ],
+    "payoffs": [
+      "Ch17's Seln inference (they will send people); Ch18's two stakes; B6 Ch13's Anchor unbinding; B5's Daeva suite; Ch16's report on a desk it shouldn't reach."
+    ],
+    "prohibited_outcomes": [
+      "Nobody dies; nobody is taken; no faces; no names for the team or the broker; the case is not touched.",
+      "The rim does NOT see Cael declare inside; the only witnessed declaration is on the rim; Shadow-adjacent is never attributable.",
+      "The tenth fragment (Tide-adjacent) is NOT used in the fight.",
+      "Oryn does not read or mend inside the line.",
+      "No theory of the sites; the kit's contents are not read (Ch20).",
+      "No letters, Vastin.",
+      "The chapter does not end on a log entry or an image.",
+      "No modern idiom; no feeling/growth declarations; tic caps; no metadata.",
+      "Do not use the phrase 'at the pitch' (or 'at that pitch') — it is at the book's cap already (10 uses in Chapters 1–4). Vary attribution registers with other means."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Full choreography texture (the bowl's dusk, bolts on stone, the stair's forty steps, lamplight on carvings, the doorway, the rim's silhouettes, the lattice's fixed points blooming and unbinding, the return of Paths at the stride); each companion's fight-style in character; Oryn as a healer with eyes.",
+      "Dialogue in established voices beyond the fixed lines (short, under pressure).",
+      "Cael's cataloguing under pressure; his interior on the way up (brief)."
+    ],
+    "approval_required": [
+      "Any new named entity; any new fragment mechanic; any change to the injury list; any fact about the team beyond road gear, hoods, crossbows, a second Anchor specialist, professionalism."
+    ],
+    "forbidden": [
+      "Deaths; captures; faces/names; tenth-fragment combat use; witnessed inside-declaration; theory; a log or image ending; metadata."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible (SECRET markers = forbidden knowledge for characters)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 7 chapter architecture — Chapter 2 card is the work order; reference section defines Lowmarch, the board, Pike, Teague",
+      "path": "books/book-07-void-roads/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Running state after Chapter 1 (append-only) — read with the base snapshot",
+      "path": "v3-runs/book-07/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Base state snapshot pre-Book 7 — abilities table, companions, open threads",
+      "path": "v3-runs/book-07/state-b7-pre-ch01.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry — rules, reserved names, collisions, dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Chapter 18 as drafted — the immediate seam (Oryn's terms, the two stakes)",
+      "path": "v3-runs/book-07/drafts/ch18.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (clean-room craft charter: world-law, combat, progression, system/voice pillars; the 26 gates the editor runs). Owner-requested; binding on craft where it does not conflict with the v3 role contract, canon, or the packet.",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE DRAFT UNDER REPAIR (r1)",
+      "path": "v3-runs/book-07/drafts/ch19-r1.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "ED-B7CH19-001",
+      "severity": "HIGH",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "evidence": "He went up the forty steps with the ten held to nothing but one, and the one was Seln's.\n\nShadow-adjacent. He let it off its hold at the tenth step, where the square of grey was still small, and felt ",
+      "consequence": "The prose says the ten are held to one, but Anchor perception and the Iron read are both active across the approach before Anchor is deliberately released to unbind the course. This fails the packet's",
+      "repair_target": "Keep Shadow-adjacent as the only active fragment during the ascent and bowl crossing, reserving Anchor-adjacent for the lattice unbinding at the perimeter, while preserving the unseen approach, established geography, and rim-side Daeva suite."
+    },
+    {
+      "id": "ED-B7CH19-002",
+      "severity": "HIGH",
+      "gate": "obligations.prohibited_outcomes",
+      "evidence": "She took it from Karis without asking, because Karis had the notebook and Oryn had the hands, and she knelt beside Brom with the light held close and did the thing he had watched her do on a mountain ",
+      "consequence": "Chapter 18 explicitly teaches 'Surface first. Count of ten'; here Oryn places both hands around the hurt, runs that count, and receives nothing before switching to sight and fingers. Even though the a",
+      "repair_target": "Preserve the lamp, eleven years of clinical observation, two-finger localization, fixed diagnosis, taping, and outside mending, but remove the inside count-of-ten/surface-reading procedure."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-07/drafts/ch19.md",
+    "report_path": "v3-runs/book-07/reports/ch19-author-r2.json",
+    "editor_report_path": "v3-runs/book-07/reports/ch19-editor-r2.json",
+    "verifier_report_path": "v3-runs/book-07/reports/ch19-verifier-r2.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch19-r1-editor",
+  "scene_id": "b7-ch19",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The 114th-day timeline, Long Stair location, party of six, Cael at nineteen with ten fragments plus the anomaly, the established Quieting boundary, and the entering injury states reconcile with the packet, running state, base snapshot, and Chapter 18."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration remains close third in Cael's past-tense cataloguing register. Opponent design and intent are presented as Cael's tactical reconstruction from the visible rim, bolts, lattice, and prior report rather than as access to an enemy viewpoint."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "The five staged movements, chamber/kit glimpse, second nameless-team line, Teague exchange, and required ending are present. The mandated Shadow-only approach is not: Anchor perception and the Iron read are active before Cael reaches and unbinds the lattice; see ed-b7-ch19-001."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "FAIL",
+      "evidence": "Deaths, captures, faces, team/broker names, case contact, Tide-adjacent use, witnessed inside declaration, theory, kit inspection, letters, Vastin, metadata, modern idiom, and a log/image ending are absent. Oryn nevertheless performs the established count-of-ten surface-reading procedure inside the line; see ed-b7-ch19-002."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The stair creates cover, the doorway creates the stalemate, the rim's Anchor course closes the known exit, Shadow gets Cael unseen to the course, prior Anchor work permits the unbinding, and the established public suite breaks the operation from the side its design excluded."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Lira enters one-armed with the right foot taped, reopens the existing left-forearm mend by catching herself on the stair, and is reclosed outside. Brom's new right-shoulder bolt persists through the stalemate and is removed and mended only after the boundary crossing. Cael's suite cost and Oryn's depletion remain on the page after the fight."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The crew survives the second off-channel action, Seln's six-year faceless grievance becomes anger for the first time, the Compact's controlled exit is defeated, and Teague removes Cael from the board's existing category."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "No passage produced a specific-author resemblance concern; the chapter stays in the series' own cataloguing, procedural, ledger-minded voice."
+    },
+    {
+      "gate": "voice.cataloguing_documents_character_differentiation",
+      "state": "PASS",
+      "evidence": "Cael explicitly catalogues crossing, geometry, chamber, stalemate, fragments, costs, and Teague's verdict. The log is diegetic and limited to what Cael knows. Lira chooses motion, Brom compresses speech, Karis records, Oryn diagnoses, and Seln inventories until anger breaks the register."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. The Quieting, Anchor craft, healer limitation, deniable-operation doctrine, board reputation, and Compact knowledge appear through what they permit, prevent, cost, or force during the trap rather than through detached exposition."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new proper noun, capability, Path rule, faction identity, site theory, or early SECRET disclosure is introduced. The chamber contents remain shapes only, and the second specialist remains a different unnamed hand using established craft."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Manual audit of every scene with three or more possible speakers found a maximum unattributed run of one line (Cael's reply at draft line 89), below the cap of four. Speaker identity and system/action meaning do not depend on typography."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Read aloud against craft/NAME_REGISTRY.md: Cael, Seln, Oryn, Karis, Lira, Brom, Daeva, Reydan, Ostrand, Teague, Norhold, Umber, and Valdris remain aurally distinguishable in context. Fallow Ring and Long Stair are established descriptive sites. No new named entity is minted and no reserved or disposition-pending name appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "The section 8.4 grep over v3-runs/book-07/drafts/ch19.md for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returned zero. The section 10 summary grep returned zero. wc -w returned 5277, within the packet range 3910-5290."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Chapter 19 counts: jaw tightened 0; laughed once 0; without humor 0; stomach tightened 0; stomach dropped 0; There it was 0; That was true 0; Also true 0; sounded almost 0; held this 0; which was, in its own way 0; standalone '[Name] noticed.' 0; single-word emphasis paragraphs 0; 'at the pitch'/'at that pitch' 0; banned modern registers 0; feeling/growth declarations 0. 'The way' simile scaffolds total 8, with maximum identical pronoun/scaffold construction 2, under the per-chapter cap of 3. Book-to-date final-draft grep through Chapter 19 is 0 for every listed book tic except 'There it was' at 2; 'at the pitch' is 10 and Chapter 19 adds none."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 18 ends on an observed image of Seln reading the two stakes with his thumb. Chapter 19 ends on Teague's spoken sentence, so the structural move differs."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "FAIL",
+      "evidence": "All fragment names are established, Tide-adjacent is unused, and every injury reconciles. Deployment accounting contradicts the stated Shadow-only approach: the narration says the ten are held to one while also running Iron and Anchor before the lattice unbinding; see ed-b7-ch19-001."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The party remains six. The five companions stay below the stair during Cael's hidden transit; the rim never perceives Shadow or an inside declaration, sees only the rim-side suite, and Teague arrives afterward and does not learn the mechanism."
+    },
+    {
+      "gate": "combat.1_stakes_precede_decisive_exchange",
+      "state": "PASS",
+      "evidence": "Before Cael's ascent, Brom is bolted, Lira's mend is open, Paths and healing are unavailable, the exit is latticed shut, and the rim can wait without cost."
+    },
+    {
+      "gate": "combat.2_positions_and_movement_legible",
+      "state": "PASS",
+      "evidence": "The bowl, road cut, marked line, six rim positions, floor, central stair, forty steps, chamber doorway, and Cael's 120-meter return route are drawable; distances update at the floor, scrub, twenty meters, ten meters, and the final stride."
+    },
+    {
+      "gate": "combat.3_actions_respect_balance_reach_injury_equipment_ability",
+      "state": "PASS",
+      "evidence": "Lira's one-arm/taped-foot condition causes the reopened mend; Brom runs and descends with the bolt protected; the narrow stair controls engagement; Oryn uses mundane stabilization inside; Cael uses reach and contact effects at their established ranges and pays the suite cost."
+    },
+    {
+      "gate": "combat.4_distinguishable_combatant_tactics",
+      "state": "PASS",
+      "evidence": "Lira immediately finds movement and cover, Brom endures and holds the doorway, Seln guards the outside angle and reads doctrine, Karis records while withholding attention from the walls, Oryn triages, and Cael solves the architecture."
+    },
+    {
+      "gate": "combat.5_pivotal_decision_and_consequence_legible",
+      "state": "PASS",
+      "evidence": "Cael chooses the invisible route, releases the course's cornerstone, and attacks at contact from the impossible side. The plan loses its controlled exit and informational premise, so the professional team breaks."
+    },
+    {
+      "gate": "combat.6_non_damage_state_change",
+      "state": "PASS",
+      "evidence": "Beyond wounds, the fight changes Compact knowledge, Seln's emotional state, the nameless-account thread, Teague's assessment, and Cael's place on the board."
+    },
+    {
+      "gate": "combat.7_persistent_costs_recorded",
+      "state": "PASS",
+      "evidence": "Brom retains marks and a movement prohibition after the hour-long mend; Lira is reslung under the season-long order; Oryn is visibly drained; Cael is spent with all ten hollow; Seln's anger persists into Teague's arrival."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank, tier, fragment acquisition, or new capability advances in this chapter."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Cael's established suite empties all ten frameworks on top of insufficient rest; Oryn spends an hour and a quarter of reserve; bodily injuries and treatment restrictions remain visible."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measuring_system",
+      "state": "PASS",
+      "evidence": "Cael's growth is socially legible through survival, the broken trap, Seln's reaction, and Teague's judgment that the board lacks a column for him."
+    },
+    {
+      "gate": "progression.4_no_unestablished_capability_decides_major_victory",
+      "state": "PASS",
+      "evidence": "Shadow concealment, Anchor unbinding, and the Wind/Storm/Compression/Ember suite are all established and explicitly tied to prior sources or public use."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_continue_acting",
+      "state": "PASS",
+      "evidence": "The Compact-adjacent team has adapted to the Fallow report and industrialized the Quieting into a trap; Teague keeps his promise and independently reads the aftermath."
+    },
+    {
+      "gate": "progression.6_repeated_challenges_differ",
+      "state": "PASS",
+      "evidence": "This reverses Chapter 11's animal pursuit: informed human opponents exploit the boundary, range, waiting, and a controlled exit, requiring stealth and unbinding rather than a declaration used as bait."
+    },
+    {
+      "gate": "progression.7_setbacks_change_behavior_or_understanding",
+      "state": "PASS",
+      "evidence": "The trap converts prior Quieting knowledge and the earlier Anchor encounter into a new doctrine: hide the one functioning fragment, remove the controlled exit, and declare only after crossing."
+    },
+    {
+      "gate": "litrpg.1_display_owner_and_trigger",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.2_display_values_match_state",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.3_display_audio_survival",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.4_display_changes_scene_or_can_be_cut",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display appears."
+    },
+    {
+      "gate": "litrpg.5_hidden_information_consistently_withheld",
+      "state": "PASS",
+      "evidence": "The team, broker, specialist, Compact channel, site theory, kit contents, and Cael's true architecture remain withheld without retroactive alteration."
+    },
+    {
+      "gate": "litrpg.6_combinations_established_or_excepted",
+      "state": "PASS",
+      "evidence": "The rim-side Daeva suite uses established Wind, Storm, Compression, and Ember components, and Anchor unbinding repeats the Book 6 road mechanism."
+    },
+    {
+      "gate": "litrpg.7_rank_has_noncombat_consequences",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank-bearing noncombat transaction is at issue; the relevant social measure is Pike's board rather than formal tier."
+    },
+    {
+      "gate": "author.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The manuscript cites Seln as Shadow source, the Ostrand road as the Anchor-unbinding precedent, and four books of public floors for the recognizable rim-side suite."
+    },
+    {
+      "gate": "author.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "The Quiet removes standard Paths; Shadow carries exposure risk; Anchor depends on fixed points; Wind announces and locks movement; the combined suite has a visible depletion bill."
+    },
+    {
+      "gate": "author.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "The chapter introduces no new named system, faction, capability, creature, place, or character and instead extends established Quieting, Anchor, board, healing, and fragment mechanics."
+    },
+    {
+      "gate": "author.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Opening promise: survive a prepared ranged trap inside dead Path. Delivery: the crew survives by overturning its geometry, and the chapter closes on the social consequence of that victory."
+    },
+    {
+      "gate": "author.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The Fallow report, Chapter 17 lure analysis, Chapter 18 stakes, Book 6 Anchor unbinding, and the established public suite all precede their payoffs here."
+    },
+    {
+      "gate": "author.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The event thread opened by the trap reaches a new status quo rather than a false inquiry answer; the faction and account remain open while Teague's rival/board thread advances socially."
+    },
+    {
+      "gate": "author.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Long worldbuilding passages remain grounded in bolts skipping on fused stone, dusk and scrub, carved walls, lantern work, fixed points, hands, wounds, and the road. Mechanism is carried by physical use."
+    },
+    {
+      "gate": "author.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Per-book revision-log gate; this is a first review of a fresh chapter draft."
+    },
+    {
+      "gate": "author.09_drawable_geography",
+      "state": "PASS",
+      "evidence": "The fight can be sketched continuously from marked perimeter to road cut, bowl, floor, stair, chamber, return route, north rim contact, and retreat directions."
+    },
+    {
+      "gate": "author.10_prose_tempo",
+      "state": "PASS",
+      "evidence": "The stealth transit sustains longer accumulation; the rim contact compresses into rapid component beats; the explicit turning point pairs the long suite sentence with the isolated 'The rim broke.'"
+    },
+    {
+      "gate": "author.11_masked_name_distinctness",
+      "state": "PASS",
+      "evidence": "Without names, the runner, enduring doorway-holder, covert professional, recorder, clinician, and architecture-solving cataloguer remain assignable by tactic and diction."
+    },
+    {
+      "gate": "author.12_stakes_before_blow",
+      "state": "PASS",
+      "evidence": "Custody, the case, six lives, an open shoulder wound, a reopened mend, and unavailable healing are established before the decisive rim exchange."
+    },
+    {
+      "gate": "author.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every entering and acquired injury either remains visible or is explicitly treated outside the boundary, with aftercare restrictions shown after treatment."
+    },
+    {
+      "gate": "author.14_tactical_escalation",
+      "state": "PASS",
+      "evidence": "Core problem differs from Chapter 11: informed ranged practitioners use dead Path and an Anchor-closed exit against the crew, rather than declaration-hunting animals being drawn out of their den."
+    },
+    {
+      "gate": "author.15_compression_scope",
+      "state": "PASS",
+      "evidence": "All arc-major beats are dramatized. The afternoon stalemate alone is compressed, after its rules, costs, and tactical meaning are established in scene."
+    },
+    {
+      "gate": "author.16_environmental_utilization",
+      "state": "PASS",
+      "evidence": "More than two beats depend causally on terrain: the exposed bowl enables bolts; fused stone makes bolts skip; the stair removes the firing angle; the narrow doorway can be held; entering pursuers would lose Paths; the perimeter enables the controlled exit and impossible-side attack."
+    },
+    {
+      "gate": "author.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new advancement delta occurs; use of existing growth carries a clear cost but does not change rank or inventory."
+    },
+    {
+      "gate": "author.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round or ladder duel occurs."
+    },
+    {
+      "gate": "author.19_skill_beats_number",
+      "state": "PASS",
+      "evidence": "The major win is driven by unmeasured tactical architecture and asymmetric boundary use rather than a higher visible rank."
+    },
+    {
+      "gate": "author.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague's crew does not wait off-page for Cael's story; it moves from Millrace and arrives at full dark exactly as promised, then independently prices the result."
+    },
+    {
+      "gate": "author.21_social_echo",
+      "state": "PASS",
+      "evidence": "Teague's final verdict makes Cael's progress legible outside any system display: the board itself no longer has a column capable of holding him."
+    },
+    {
+      "gate": "author.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system or status box appears."
+    },
+    {
+      "gate": "author.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional critique is embodied by an engineered custody trap whose floor disarms, lattice closes, and faceless team waits; it is not delivered only as Cael's opinion."
+    },
+    {
+      "gate": "author.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor is deployed under stakes."
+    },
+    {
+      "gate": "author.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The afternoon stalemate and post-fight accounting let Cael process the design, Shadow's exposure cost, injuries, and Seln's anger without joke or lampshade."
+    },
+    {
+      "gate": "author.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "The ask-first rule is explicitly restated before the ascent; Cael distinguishes combat perception from reading and records afterward that he read no one."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b7-ch19-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "required-shadow-only-approach",
+      "gate": "obligations.required_beats_plants_payoffs",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch19.md",
+        "line_start": 121,
+        "line_end": 135,
+        "quote": "He went up the forty steps with the ten held to nothing but one, and the one was Seln's.\n\nShadow-adjacent. He let it off its hold at the tenth step, where the square of grey was still small, and felt it come up the way it always came up: the presence going out of him like a lamp turned down, the movement folded into whatever the light was doing, the thing that made a man a place where nobody's eye stopped. It ran inside the line exactly as it ran outside it, as everything he owned had run on a floor two days east, and he catalogued that once more, going up, as a fact and not a reason.\n\nAt the top of the stair he stopped with his head below the floor's level and looked at the bowl.\n\nDusk. The light going off the rim and the rim's figures gone to shapes against a sky the colour of the floor. Six. He counted them again, from the hole, because a count is a count: two south, two east, one west, one north above the stone, all still, all the same shape, all of them scanning a bowl for the one thing they were sure could not happen in it. A hundred and twenty meters of scrub and fused stone between him and the stone in the road's cut, and the lattice's fixed points along the line either side of it, blooming in the Anchor-adjacent perception like lamps he could see and nobody else could.\n\nHe came up out of the hole and walked across the floor.\n\nNot fast. Fast was a shape. He walked as Seln walked, as a man walks who is not there — the presence thinned to nothing, every step folded into the dusk, the Iron read under his soles giving him the floor and the lip and the scrub without a sound in any of it. Forty meters of floor. The lip. Sixty meters of scrub, knee-high, grey in the failing light, with six crossbows above it that were looking for a shout and did not have one to look at. Nobody on the rim moved. He was the loudest thing in the bowl and it was a loudness whose whole grammar was silence, and the rim did not have a form for it, because the rim had been told that inside the line there was nothing to hear and had believed it, and was, on that one point, exactly right about every practitioner in Valdris but one.\n\nTwenty meters from the stone. Ten. He could see the lattice's nearest point now with the perception, a stride inside the line, the cornerstone of the course that shut the road, and he knew its weight as he knew a floor's: a fixed point laid by a specialist, on the rim's side of the shutting, from ground where her craft worked, holding a meter of dead-Path scrub closed against people who could not have opened it if they had known it was there.\n\nHe could open it. He had opened one from inside on a road. He put the Anchor-adjacent on it — the second thing, let off its hold, still nothing anyone could see, a perception turning into a hand — and found the knot where the point was bound to the ground, and let it go, the way the woman on the Ostrand road had let go of a spent position, not broken, not overwhelmed, simply *released* by something standing inside it that had no business knowing where the knot was."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch19-editor-prompt-r1.md",
+        "line_start": 536,
+        "line_end": 548,
+        "quote": "CAEL'S TURN: alone up the stair into the bowl with the suite held to nothing but Shadow-adjacent — presence thinned to nothing, movement folded into the bowl's dusk — the fragment whose public seal the book keeps and keeps here by its whole function: the rim scans for declarations that cannot exist inside the line, and the one that does exist is the one whose craft is not being seen; they never perceive him; what is never perceived cannot be attributed. He reaches the perimeter's lattice and UNBINDS it from inside (Anchor-adjacent, as in B6 Ch13), then at the line, one stride from the rim, steps OUT of the Quiet already declaring — the Daeva suite on the rim at contact against a team that planned for a boy with no Path walking out of a place with no Paths.\n\nFOURTH: Cael goes up the stair alone, with Shadow-adjacent only, unseen; unbinds the lattice from inside; steps out declaring."
+      },
+      "consequence": "The prose says the ten are held to one, but Anchor perception and the Iron read are both active across the approach before Anchor is deliberately released to unbind the course. This fails the packet's explicit one-fragment/Shadow-only choreography and makes the reader's fragment-use ledger contradict the sentence that announces it at the pivotal stealth beat.",
+      "repair_target": "Keep Shadow-adjacent as the only active fragment during the ascent and bowl crossing, reserving Anchor-adjacent for the lattice unbinding at the perimeter, while preserving the unseen approach, established geography, and rim-side Daeva suite.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b7-ch19-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "prohibited-inside-reading",
+      "gate": "obligations.prohibited_outcomes",
+      "draft_evidence": {
+        "path": "v3-runs/book-07/drafts/ch19.md",
+        "line_start": 65,
+        "line_end": 69,
+        "quote": "She took it from Karis without asking, because Karis had the notebook and Oryn had the hands, and she knelt beside Brom with the light held close and did the thing he had watched her do on a mountain and at a table and at a stone and had never once seen her do without a Path: she *looked*.\n\nBoth hands, either side of the bolt, not on it. The count went to ten and it was ten of nothing, and her face did what it did at the stride, the count stopping, and she did not stop with it. She put two fingers behind the shoulder, on the fletching, and two in front, on the head, and closed her eyes, and moved the fingers a hair, and opened them.\n\nShe said: \"I can see what's wrong. I can't feel it and I can't touch it. Tape it. Leave the bolt.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-07/packets/ch19-editor-prompt-r1.md",
+        "line_start": 535,
+        "line_end": 535,
+        "quote": "Oryn inside: NO reading (Tide is a stride and forty steps away); a lamp, eleven years of eyes, two fingers finding the bolt's head and exit — 'I can see what's wrong. I can't feel it and I can't touch it. Tape it. Leave the bolt.' She mends Brom OUTSIDE the line an hour later (her Path returning at the stride: 'the clock started again')."
+      },
+      "consequence": "Chapter 18 explicitly teaches 'Surface first. Count of ten'; here Oryn places both hands around the hurt, runs that count, and receives nothing before switching to sight and fingers. Even though the attempt cannot return a Path reading, the draft stages the prohibited reading procedure inside the Quiet instead of the packet's eyes-only diagnosis.",
+      "repair_target": "Preserve the lamp, eleven years of clinical observation, two-finger localization, fixed diagnosis, taping, and outside mending, but remove the inside count-of-ten/surface-reading procedure.",
+      "confidence": "HIGH"
+    }
+  ],
+  "strengths": [
+    "Worldbuilding is done through mechanism and use. The Quieting becomes a disarming floor, the Anchor course becomes a controlled exit, the board becomes a social measuring device, and healer scarcity becomes a lamp-and-fingers problem before any concept is explained abstractly.",
+    "The set piece is memorable and terrain is load-bearing well beyond the two-beat minimum: the bowl enables ranged custody, fused stone rejects bolts, the stair removes the firing angle, the doorway reverses numerical pressure, and the perimeter makes the unbinding possible. The win is writable as: Cael removed the rim's ability to hold the dead-Path bowl by unbinding its only controlled exit and attacking from the impossible side.",
+    "Oryn's fixed diagnosis and the outside treatment sequence protect her professional identity: she remains a healer with observation, procedure, limits, reserve, and orders rather than becoming a combatant. Finding 002 targets only the prohibited reading ritual, not this successful core.",
+    "Seln's first anger is enacted rather than named. 'No faces,' the unmarked crossbow, one broken stock, and the silence afterward pay the six-year grievance without giving the faction an identity the chapter must withhold.",
+    "The final exchange supplies an observer verdict specific to Teague's competence, advances rival and progression pressure without a stat display, and lands on dialogue after Chapter 18's image ending."
+  ],
+  "concerns": [
+    "Taste only: the Shadow/unattributability logic is explained in several consecutive passes before and during the ascent (the two assumptions, the sealed fragment, the spoken plan, and the dusk crossing). After the fragment-use defect is repaired, a later compression pass could test whether every restatement is still earning tension.",
+    "Taste only: 'the way' appears eight times as a simile/comparison scaffold, including three appearances in the bolt-removal paragraph. No identical construction exceeds the binding cap (maximum 2), but the local concentration is audible.",
+    "The line 'They had let six people walk in and six Paths die at the stride' can be heard either as the rim's mistaken model or as narration contradicting Cael's functioning fragments. The surrounding trap analysis makes the intended reading recoverable, so this remains a clarity/taste concern rather than a proposed finding."
+  ]
+}

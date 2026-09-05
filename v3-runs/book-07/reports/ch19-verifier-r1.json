@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b7-ch19-verifier-r1",
+  "scene_id": "b7-ch19",
+  "editor_run_id": "b7-ch19-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b7-ch19-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch19-r1.md: He went up the forty steps with the ten held to nothing but one, and the one was Seln's.\n\nShadow-adjacent. He let it off its hold at the ten",
+        "packets/ch19.json knowledge_boundary / prohibited_outcomes"
+      ],
+      "reason": "The ascent and bowl crossing now run on Shadow-adjacent alone; the Iron read and Anchor perception are removed from the approach; Anchor-adjacent is released at ten meters from the stone for the unbinding only."
+    },
+    {
+      "finding_id": "ed-b7-ch19-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch19-r1.md: She took it from Karis without asking, because Karis had the notebook and Oryn had the hands, and she knelt beside Brom with the light held ",
+        "packets/ch19.json knowledge_boundary / prohibited_outcomes"
+      ],
+      "reason": "The inside count-of-ten removed; Oryn does not put her hands on the wound; lamp, looking, two fingers, the fixed diagnosis, tape."
+    }
+  ]
+}
