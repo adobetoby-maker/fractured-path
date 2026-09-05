@@ -4,7 +4,7 @@
   "scene_id": "b8-ch06",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch06.md",
-  "word_count": 4049,
+  "word_count": 4021,
   "obligations": [
     {
       "obligation": "F-B8-CH06-001 (HIGH): Rewrite Oryn's instruction to Vastin at ch06.md:81 so it stands on Chapter 4's fact: the knee is bound, she bo",
@@ -105,5 +105,8 @@
   "deviations": [
     "Targeted repair r1→r2: nine exact-string replacements (r1 at drafts/ch06-r1.md)."
   ],
-  "blockers": []
+  "blockers": [],
+  "notes": [
+    "r3 (direct repair of r2 MEDIUM/LOW): counts reconciled (Vastin the fifth at 101/111); 'halt into the afternoon' cut; Oryn's 'It'll carry. It'll hurt.' restored; the asking gloss cut."
+  ]
 }

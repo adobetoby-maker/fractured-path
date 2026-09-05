@@ -4,7 +4,7 @@
   "scene_id": "b8-ch05",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch05.md",
-  "word_count": 4169,
+  "word_count": 4198,
   "obligations": [
     {
       "obligation": "F-B8-CH05-001 (BLOCKER): This needs a planning decision before the author touches L87-L91, because the underlying seam is architecture-",
@@ -74,7 +74,7 @@
     {
       "obligation": "The grade: the records' per-site mark = the kit's index; the fourth's mark differs; Karis says only what she sees",
       "status": "MET",
-      "evidence": "'Three strokes and a bar … The fourth. Two strokes and a bar. Different.' / 'I can see it orders them. I can't see what it orders them by.' / 'Two copies of one ignorance.'"
+      "evidence": "'The stroke and the bar … The fourth. The stroke and the bar. The same. Twice the size and the same mark.' / 'I can see it orders them. I can't see what it orders them by.' / 'Two copies of one ignorance.'"
     },
     {
       "obligation": "The margin note quoted once; entered as unfilable; the loop NOT closed",
@@ -84,12 +84,12 @@
     {
       "obligation": "Seln sets the sheet before Cael without a word; Cael does the sum and does not log it",
       "status": "MET",
-      "evidence": "'It was on the slab in front of him. Not in a row' … 'Six years back. Not near enough. Exactly.' … 'Cael did not write it down.' … 'the first thing he had ever owned that he had not written down'."
+      "evidence": "'It was on the slab in front of him. Not in a row' … 'five years and a hundred-some days back — the Kindling day; 'six' is the office's rounding' … 'Cael did not write it down.' … 'the first thing he had ever owned that he had not written down'."
     },
     {
       "obligation": "Vastin's three drafted orders and the fixed exchange verbatim",
       "status": "MET",
-      "evidence": "Directive ('File under—. Classification—. Refer to—.'), classification ('It's a shelf-mark'), escalation ('This has to go up'); 'You keep drafting orders.' / 'Habit.' / 'Out here the habit's the tell. Draft nothing. Just look.'"
+      "evidence": "Directive ('the three reaches (a shelf-mark; the second; the third) — walked back each time'), classification ('It's a shelf-mark'), escalation ('This has to go up'); 'You keep drafting orders.' / 'Habit.' / 'Out here the habit's the tell. Draft nothing. Just look.'"
     },
     {
       "obligation": "Cleon named; the fixed closing dialogue verbatim; the file ends on it",
@@ -103,12 +103,15 @@
   ],
   "state_change_proposals": [
     "Day 280, the halt a mile past the shoulder hold; a day and a half to Treswick; the fork north a day on.",
-    "The GRADE seen: three strokes and a bar on the Ring/Stair/Hall sheets; two strokes and a bar on the fourth's; unread. The dead surveyor's remark 'Behaves as device. Cannot be.' entered by Karis as unfilable.",
+    "The GRADE seen: the same stroke-and-bar mark on all four sheets (the fourth's twice the size); unread. The dead surveyor's remark 'Behaves as device. Cannot be.' entered by Karis as unfilable.",
     "Cael has done the six-year arithmetic privately (his Kindling day) and NOT logged it; the sheet back in the second row; a thing between him and Seln unsaid.",
     "Seln taught Vastin 'Draft nothing. Just look.' Oryn looked once at the fork and said nothing."
   ],
   "deviations": [
     "Targeted repair r1→r2 (r1 at drafts/ch05-r1.md); planning decisions in DECISIONS rows 14–15."
   ],
-  "blockers": []
+  "blockers": [],
+  "notes": [
+    "r3 (direct repair of r2 MEDIUM/LOW): knee named at the spring (bound; a month; first day); the count paragraph counts three; 'a page for' echo removed; the fork is this side of the long rise; report evidence resynced to the repaired draft."
+  ]
 }
