@@ -1,0 +1,175 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch21",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 21 card — The Last Reach, combat-primary; Chapter 22 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–20' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael nineteen; thirteen fragments; the thirteenth listening since the Span (a thing to push against; the ribs know the cost). The 306th: the pass, a half-day+ short of the third-tier point; the site a half-day beyond the pass. Twelve and a mule (the mule at the pass's mouth with Karis and the case? — Karis goes in with the crew behind the wall; the mule left). The broad man day two of three on a stick (hit in the second volley — a bolt in the shoulder; lives). Teague's arm: leads with the other hand. Vastin day 27; the knee; ROOTED — cannot move once the wall is up (Ch12's law; there is no round). Oryn and the healer of no Path at the rear behind the wall.",
+      "IRON WALL (Vastin, Ch12 law): a plane, rooted, wall to wall; nothing gets through; nothing behind it can go round; the wall cannot move; a man who steps out from behind it is outside it. The young one had not been taught it (Teague's crew fights in the open; the wall is the six's doctrine).",
+      "FORCE (the thirteenth, Cael's first use): impulse along the line of his own frame at contact; needs a thing to push against — the rig's second stack (stone stacked on a shelf, braced by timber) from BELOW, his palm on the brace, his feet on the scree; a body's length; the RECOIL back along the line through the ribs (the ribs 'quiet since the marsh' — they are not after). He does not use it on a person.",
+      "SELN: the cache; the climb up the swept scree unseen; on the shelf behind the crossbows — a weighted cord, not a knife; he takes the high ground and the crossbows' angle; nobody killed by him.",
+      "THE TEAM: hoods; Compact kit; crossbows (three?); the rig; they hold the shelf; they break along the ridge east when the shelf is lost; none taken; no faces; the poster still unnamed and unlocated (Book 9+).",
+      "THE DEATH: the young one — 'the young one' by role (unnamed by design); Teague's crew's youngest, the pack too big for him (Ch18); the cloth for Teague's wrist (Ch17); he steps out to drag the broad man; a bolt through the chest at the wall's edge; Oryn's hands on him in the stream-bed; he dies; the first death her hands have been on in this series; she does not pretend; her kit closed after. Teague kneels by him as he counts his people (B7: from the best table, reading faces in order). Teague's lesson sentence verbatim. Brom's forearm (a bolt; through-and-through? — a bolt in the forearm, bound); the broad man's shoulder.",
+      "SEALED: no still place = Quiet; no Architect will; the Court unnamed. Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; READER STANDARD (the death priced; no gore; the crew kills no one)."
+    ]
+  },
+  "purpose": "COMBAT-PRIMARY — the faceless faction's final reach, on the bearing short of the third-tier site, and the book's one death. The 306th: the pass — a dry defile a hundred strides long, its floor a stream-bed of loose stone, its WEST wall a scree slope up to a shelf where the team has rigged a rockfall (a dead pine wedged over a stacked shelf of stone, roped, one cut from coming down), its EAST wall sheer. No Quiet ground (charter §9 — no fourth run of the Quiet tactics). The team: the seven from the shelf plus whoever they met — a prepared force smaller than twelve, on the high ground, faceless (hoods; Compact kit; no names). FOUR EXCHANGES, terrain-caused at ≥2 beats: (1) the crew walks in silent (declaration-discipline carried); crossbows open from the shelf; VASTIN declares Iron Wall across the defile's mouth and the twelve go to ground behind it; the bolts skip off the plane; first cost — BROM'S FOREARM, a bolt before the wall was up. (2) TERRAIN: the rig — the pine cut, the shelf comes down the scree onto the wall; the wall HOLDS it (what a wall is for) and cannot move (its limit); the fall closes the defile's mouth BEHIND them — the crew is now inside the pass with the team above and the only way out forward, under the shelf. (3) TERRAIN; THE DEATH: SELN goes up the scree the rockfall has just swept — the one slope the rig ruled out because the rig was its purpose — unseen; while he climbs, TEAGUE'S YOUNG ONE steps out from the wall to drag the broad man (hit in the second volley) back behind it, and the third volley takes him through the chest at the wall's edge — the cost of leaving the plane, Iron Wall's limit paid by the one man who had not been taught it; Oryn is already moving and Vastin cannot; the young one dies in the stream-bed with Oryn's hands on him — the first death her hands have been on. No gore: a bolt, a breath, the hands, the stillness. (4) Seln on the shelf behind the crossbows; CAEL, with the thirteenth (Force-adjacent) integrated and listening, breaks the rig's SECOND stack from below — a thing to push against; the recoil through his ribs, which say so; the team's high ground is Seln's; Teague's Force (the other hand — Oryn's order) and Lira's speed take the shelf's stair; the team breaks along the ridge, faceless, none taken, none killed by the crew. WIN-SENTENCE: Seln removed the team's ability to hold the high ground by climbing the slope its own rig had swept clean, and the wall bought him the climb. LESSON (Teague's, one sentence, carried to Ch24): 'a wall keeps everyone behind it, and one of mine wasn't.' The loss lands on TEAGUE, not Cael; the found family witnesses. Close on IMAGE: the pass after; the team gone; Teague kneeling by his own dead in the way Cael has watched him count his people since a board; Oryn standing back with her kit closed — she cannot heal the dead and does not pretend to; Cael at the mouth of the pass looking east where the site waits a half-day on, understanding that wanting to stand in the middle of the oldest quiet has cost someone else's crew a life, and that the line he is following was drawn in something worse than ink. READER STANDARD: one death, priced, no gore, no cruelty admired; the crew does not kill.",
+  "scene_shape": {
+    "opening_state": "Dawn the 306th at the pass's mouth: Seln back from looking at it nearer and liking it less ('They're on the shelf. There's a tree that shouldn't be where it is.'); the choice to go through anyway because the site is beyond and the pass is the bearing and there is no round; the order of march; the wall's doctrine said once to Teague's four — and the young one, who nods as the young do.",
+    "pov_goal": "Cael wants twelve through a hundred strides of stone without a declaration and without anyone dead, as at the Span; he has done it three times this year and believes, at the mouth, that it can be done a fourth.",
+    "opposition": "The high ground; the rig; the crossbows' angle; the wall's limit; the young one's not knowing; Cael's thirteenth wanting a thing to push against.",
+    "turn": "Exchange three: the rockfall swept the scree and gave Seln the climb; the young one stepped out from the plane and the third volley took him; the wall's limit paid by the one who had not been taught it.",
+    "choice": "Cael goes up the scree under the second stack and puts his palm on the brace and pushes — the thirteenth's first use, on stone and never on a person — and pays the recoil in his ribs, because Seln is on the shelf alone and the stack above him is the team's last hold.",
+    "outcome": "The shelf taken; the team gone along the ridge, faceless; none taken; one of Teague's dead; the broad man and Brom hit and living; Cael's ribs; the pass open east.",
+    "closing_state": "IMAGE: the pass after — Teague kneeling by his own dead; Oryn standing back, kit closed; Cael at the east mouth looking toward the site a half-day on, and the understanding. The file ends on the image."
+  },
+  "obligations": {
+    "must_include": [
+      "The pass drawn before it is fought: a hundred strides; the stream-bed floor of loose stone; the west scree up to the shelf; the rig (a dead pine wedged over a stacked shelf of stone, roped); the east wall sheer. Seln's warning.",
+      "FOUR EXCHANGES as carded, terrain-caused at (2) and (3): silent entry; crossbows; Vastin's wall across the mouth; Brom's forearm; the pine cut; the shelf down the scree onto the wall — the wall HOLDS and cannot move; the mouth closed behind; Seln up the swept scree; the young one steps out to drag the broad man and is hit; dies with Oryn's hands on him; Seln on the shelf; Cael breaks the second stack from below with the thirteenth (recoil in the ribs); Teague's Force (other hand) and Lira's speed take the stair; the team breaks along the ridge; none taken.",
+      "WIN-SENTENCE legible; TEAGUE'S LESSON verbatim: 'a wall keeps everyone behind it, and one of mine wasn't.'",
+      "The death priced without gore; Oryn does not pretend; the first death her hands have been on; the loss lands on Teague; the found family witnesses.",
+      "Costs ledgered: Brom's forearm; the broad man's shoulder; Cael's ribs (the thirteenth's recoil); Vastin spent to the ground; the young one dead.",
+      "Close on the IMAGE as carded; file ends on it. READER STANDARD."
+    ],
+    "plants": [
+      "Cael's ribs after Force — Ch22 (the still place; no deflection)",
+      "Teague's lesson — Ch24",
+      "'drawn in something worse than ink' — Ch23/24",
+      "The team unlocated — Book 9"
+    ],
+    "payoffs": [
+      "Ch12's wall and its limit (no round; the plane; outside it is outside)",
+      "Ch19's thirteenth listening → used on stone",
+      "Ch18's two healers → one death, one healer's hands",
+      "Ch17's 'Don't put it in front of anything that needs doing twice' → Teague's other hand"
+    ],
+    "prohibited_outcomes": [
+      "No Quiet ground; no fourth run of the Quiet tactics.",
+      "The crew kills no one; no faces; no torture; no pursuit beyond the ridge.",
+      "No log/dialogue closer; the closer is the IMAGE.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; 'four hundred years' 0; no meta-voice; READER STANDARD — the death without gore."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The pass's exact geometry; the team's number (nine to eleven) and kit; the rig's second stack; the bolts' count; Seln's cord; Oryn's words at the death (few); Teague's kneeling; the mule's place."
+    ],
+    "approval_required": [
+      "Any named person; any name for the young one (NONE — by design)."
+    ],
+    "forbidden": [
+      "Naming the Court; a face on the team; a kill by the crew; gore."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 20 (The Cordon)",
+      "path": "v3-runs/book-08/drafts/ch20.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 12 — Iron Wall's law (the plane; rooted; no round; outside it is outside)",
+      "path": "v3-runs/book-08/drafts/ch12.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 19 — the Span fight; the thirteenth acquired; Teague's crew by role",
+      "path": "v3-runs/book-08/drafts/ch19.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 18 — Oryn's terms; the young one's pack; the healers",
+      "path": "v3-runs/book-08/drafts/ch18.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 22 card — The Still Place (no-deflection; Rune inward) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch21.md",
+    "report_path": "v3-runs/book-08/reports/ch21-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch21-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch21-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

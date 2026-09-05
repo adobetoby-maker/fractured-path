@@ -1,0 +1,268 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch08-r2-editor",
+  "scene_id": "b8-ch08",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "RECHECK F1 (HIGH, r1) — packet prohibited_outcomes \"'upside down' 0\"; charter §9 book cap",
+      "state": "PASS",
+      "evidence": "CLOSED. Repaired at ch08.md L27: 'and Cael read her book across the counter, the wrong way round, out of a habit he had thought a winter would cure, and it had not.' Case-insensitive scan of the full draft for 'upside' returns 0. The beat survives intact — the reading-across-the-counter habit and the winter that did not cure it are both still on the page — and the rationed phrase is returned to the book. Repair is one clause, inside the sentence the finding named; no other sentence in the paragraph moved."
+    },
+    {
+      "gate": "RECHECK F2 (HIGH, r1) — packet obligations.must_include[2], the crew's standing made concrete",
+      "state": "PASS",
+      "evidence": "CLOSED. Both missing sixths are now on the page, in the going-out inventory's existing slots. Brom, ch08.md L37: 'Copper, on paper, which at this gate bought him the outer district and a price for iron and nothing up a stair, and he had not asked for a stair.' Seln, ch08.md L39: 'a man with no standing a registry could write down and a name a Compact counter might, which made a registry counter the one place in a city he did not go, on principle and on a count.' The chapter's central question — who can go where — is now answerable for all six: Lira (L35), Brom (L37), Karis (L33), Seln (L39), Vastin (L41), Cael (L15, L51, L59). Seln's tier is still not printed, correctly: the packet's knowledge_boundary says a registry would know his name 'if it were said — it will not be', and the clause delivers the function without the name. 'on a count' additionally seats Ch9's beat (STATE_RUNNING After-Ch9: 'Seln NOT on the count') without pre-paying it."
+    },
+    {
+      "gate": "RECHECK F3 (MEDIUM, r1) — packet prohibited_outcomes 'no Rune Path'; invention_budget",
+      "state": "EXCEPTION_APPROVED",
+      "evidence": "CLOSED BY EXCEPTION, not by repair. ch08.md L75 still reads 'Cleon. Registered historical-Path practitioner, the only one west of the Line. Rune Path. Bronze. Sixties.' The r2 packet now carries EXC-B8-CH08-1 (packet L668-L674) recording DECISIONS row 17: 'Cleon's Path and tier in Seln's Ch8 report — EXCEPTION: kept ... STATE_RUNNING and Ch9-13 depend on it; the packet's prohibition is overridden at planning.' Confirmed downstream-dependent: STATE_RUNNING After-Ch8 (packet L3008) already records 'CLEON — Rune, Bronze, sixties'. Under Craft Core §Authority the recorded human/planning decision outranks the packet, so the string stands and the r1 finding is withdrawn. No mechanic is shown; 'Rune' appears once in the chapter and nothing is explained."
+    },
+    {
+      "gate": "RECHECK F4 (MEDIUM, r1) — packet scene_shape.closing_state, fixed close verbatim and contiguous",
+      "state": "PASS",
+      "evidence": "CLOSED. The 55-word interpolation is gone; ch08.md L111 is now the card's own stage direction rendered as narration: 'Karis looked up the bluff.' Block read L109-L113: L109 '\"Do we now?\"' / L111 'Karis looked up the bluff.' / L113 '\"A name and a reason,\" she said. \"Four hundred years old ... We're the first ones who are both.\"' The three-beat exchange now runs contiguous exactly as the card stages it ('Karis, looking up the bluff:'). Note the two interpolated beats were CUT rather than relocated — see concerns; the contract only required contiguity, so the gate passes either way."
+    },
+    {
+      "gate": "RECHECK F5 (MEDIUM, r1) — count discipline at the parting; 'the mule's chair' antecedent",
+      "state": "PASS",
+      "evidence": "CLOSED on both halves. ch08.md L99 now reads 'she stopped at the door and looked back at the long room, at the four of them, and at Cael'. Karis in the doorway leaves five behind: Lira, Brom, Seln, Vastin (four) plus Cael, named separately. The arithmetic is now correct against the party of six established at L9. 'The mule's chair' is removed outright; no unantecedented object remains in the inn scene. (DECISIONS row 16 offered 'a chair nobody sat in' as the replacement; the author cut instead, which is within the r1 repair target's 'or replace it with an object the chapter has established'.)"
+    },
+    {
+      "gate": "RECHECK F6 (MEDIUM, r1) — Reader Standard §Gate: the author report must state the standard was checked",
+      "state": "PASS",
+      "evidence": "CLOSED. v3-runs/book-08/reports/ch08-author-r2.json deviations[2]: 'READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; violence with cost and without gore; no sexual content; the crew's conduct decent.' The four-part check and the grep result are both stated, which is what the charter's Reader Standard §Gate requires ('the author report must state that the reader standard was checked'). Independently re-run at the editor seat — see the Gate 27 row."
+    },
+    {
+      "gate": "RECHECK F7 (LOW, r1) — packet obligations.must_include[1], 'the district passes rationed by rank ... shown, not explained'",
+      "state": "PASS",
+      "evidence": "CLOSED at the slot the r1 repair target named. ch08.md L45: 'and the same man worked both, and walked between them by a pass — a stamped tin on a cord, Brom said, shown at the stair's foot and not taken off.' The pass is now an object with edges, seen at arm's length in the outer district, reported by the man who saw it, without Cael crossing any line. L19's honest guess ('A pass.') is left standing, which is correct — the guess from below and the object at the smith's now do different jobs."
+    },
+    {
+      "gate": "RECHECK F8 (MEDIUM, r1) — packet context_files next_card, 'do not pre-pay' Ch9's Lira want",
+      "state": "PASS",
+      "evidence": "CLOSED. ch08.md L91 now ends: '...in a city that would have taken her paper and put her on the second tier by noon, and did not know yet which of the two things she was going to be here, and neither did she.' The interpretive clause that closed the question ('had decided which of the two things ... at the foot of a stair') is gone. The plant survives in full — 'Four hands,' / 'I've two,' and Cael's reading that she is pricing herself as labour — and the decision is left live for Ch9's want-scene, which the Ch9 card assigns to her own attention ('she prices the ladder and declines it', packet L1218). See finding N2 for a syntax snag the new clause introduces."
+    },
+    {
+      "gate": "Regression sweep — no unrelated passage moved during the targeted repair (Craft Core §Revision discipline)",
+      "state": "PASS",
+      "evidence": "Diffed the r1 blob against the repaired draft (git 2332384 vs its parent, path v3-runs/book-08/drafts/ch08.md): 9 changed lines, every one at a repair target named in an r1 finding or in DECISIONS row 16 — L9, L11-adjacent L21, L27 (F1), L37/L39 (F2), L45 (F7), L75 (the 'four hundred years old' de-duplication in Seln's report), L91 (F8), L99 (F5), L111 (F4). No other sentence in the chapter changed. Word count moved 3,912 → 3,931 (additive, as the r1 concern asked). One repair-target line was MISSED — L11 — see finding N1."
+    },
+    {
+      "gate": "Recorded strengths survive the repair (Role Contract §Evidence rules — 'preserve strengths explicitly')",
+      "state": "PASS",
+      "evidence": "All eight r1 strengths verified intact on the repaired draft. (1) City as mechanism — L5 toll-house, L11 'counted, and wrote, and did not ask', L27 the book with no column, L45 'Same hands. Different price. He doesn't like it either.' unchanged and now stronger by the pass. (2) The provision as machine — L69-L79 untouched; the exposure sentence verbatim. (3) The irony as Cael's own filing — L89, L93 untouched. (4) The promise as geometry — L55-L59 untouched. (5) The mule image — L23 untouched ('The city had a column for the mule. It was the same column it had for him'), and now correctly anchored to the carter's mule introduced at L21 — though L11 undercuts the anchor, see N1. (6) Vastin's single statement — L41, L43 untouched. (7) The Book-7 reversal — L53 untouched. (8) The close — fixed lines verbatim, no log, last line L117 untouched."
+    },
+    {
+      "gate": "Authority / canon consistency (Craft Core §Authority; UNIVERSE_BIBLE §City Access)",
+      "state": "PASS",
+      "evidence": "Bible §City Access ('Unranked / [SHATTERED] — unranked districts only; cannot legally enter inner city') holds throughout: Cael never passes the first wall; the second and third gates are seen only from below (L19, L57, L103). No SECRET disclosed ahead of schedule — no Architect theory, no still-place theory, no six-year arithmetic, no [UNBOUND]; the Fractured Path appears only as 'ten things in him' (L117). The two repair clauses add no canon: Brom's Copper and Seln's unwritable standing are both packet knowledge_boundary facts."
+    },
+    {
+      "gate": "Continuity persistence — the mule (Craft Core invariant 3; DECISIONS row 16 / packet EXC-B8-CH08-2; ch07.md L9)",
+      "state": "FAIL",
+      "evidence": "The r2 pass removed the crew's mule from L9, L21, L27 and L99 and left it at L11: 'who looked at the six of them and the mule as they came under the arch, and counted, and wrote, and did not ask.' The crew has no mule. See finding N1."
+    },
+    {
+      "gate": "POV integrity (Craft Core invariant 1; packet pov.mode close third, Cael)",
+      "state": "PASS",
+      "evidence": "Every fact remains sourced to Cael's eye, an inference he marks as inference ('could not see from here and could guess', L19), or a report spoken to him in scene (L69-L79). The two added clauses are Cael's own reckoning of standing, in his register. L91's 'and neither did she' sits inside a 'Cael understood that ...' frame and therefore reads as his inference rather than access to Lira's interior — but the sentence's syntax makes that frame hard to hold; see finding N2."
+    },
+    {
+      "gate": "Packet obligations — must_include (packet L478-L487)",
+      "state": "PASS",
+      "evidence": "All eight now delivered. (1) Dated arrival and the crossing as mechanism — L5. (2) The city as mechanism, tiers/gates/passes/registry/station/outer economy — L15, L19, L45, L57, and the pass now an object (L45). (3) The crew's standing concrete for all six — L15, L33, L35, L37, L39, L41. (4) The promise kept and catalogued as chosen — L59. (5) Seln's reconnaissance with the working-party rule and the exposure exact — L69-L79. (6) The irony in Cael's register — L89, L93. (7) The walls felt as walls — L53. (8) The fixed close verbatim, Karis in, Cael staying, ending on prose — L105-L117."
+    },
+    {
+      "gate": "Packet prohibited_outcomes (packet L499-L506)",
+      "state": "PASS",
+      "evidence": "Held on every item: no Deepstacks entered, no Cleon met, no clerk handled, no records read, no station approached, no square or steps entered, nothing faint at the station, no fight, no injury, no fragment use, no reading, no Iron Wall, no Architect or still-place theory, no six-year arithmetic, no log closer. The two r1 breaches are resolved: 'upside down' now 0 by repair; 'no Rune Path' overridden by the recorded planning exception EXC-B8-CH08-1."
+    },
+    {
+      "gate": "Fixed lines verbatim (packet scene_shape.closing_state L475; card L1211)",
+      "state": "PASS",
+      "evidence": "Exact string comparison of the card's five fixed lines against ch08.md L105-L113 returns zero substitutions, deletions or reorderings. The only insertions are the permitted attribution tags ('Cael said', 'she said'), the card's own 'A beat.', the card's own stage direction rendered as L111, and the permitted trailing narration at L115-L117."
+    },
+    {
+      "gate": "Fixed close contiguity (packet L475)",
+      "state": "PASS",
+      "evidence": "L109 → L111 (the card's direction, four words as prose) → L113. Nothing else stands between the question and its answer. See RECHECK F4."
+    },
+    {
+      "gate": "Word band 3,910-5,290 (charter §10; packet output.target_words 4600 ±15%)",
+      "state": "PASS",
+      "evidence": "Counted two ways over the repaired draft: whitespace tokens including the chapter heading = 3,931 (the measure the author report declares, and the run diagnostics: word_count=3931, WITHIN_TARGET); body only, heading excluded = 3,923. Both clear the floor, which the r1 draft did not do on the body-only measure (3,904). The r1 concern is discharged: the repairs were additive, +19 words."
+    },
+    {
+      "gate": "Tic caps — one-word paragraphs ≤2 (charter §9)",
+      "state": "PASS",
+      "evidence": "Counted over all 59 non-blank lines of ch08.md: 0 single-word paragraphs."
+    },
+    {
+      "gate": "Tic caps — 'the way X [verb]' ≤4 (packet L464; charter §9 caps the identical construction at 3/chapter)",
+      "state": "PASS",
+      "evidence": "3 instances, unchanged by the repair and each a different construction: L13 'the way a body braces for a step that is not there'; L51 'the way Karis would have paced a perimeter'; L75 'the clerk knows him the way a gate knows a cart'. Under both caps."
+    },
+    {
+      "gate": "Tic caps — 'upside down' 0 (packet L464, L505; STATE_RUNNING After-Ch3 correction, packet L2896)",
+      "state": "PASS",
+      "evidence": "Case-insensitive scan of the full draft returns 0. The book's single remaining use stays in Ch1 (Oryn reads the map), and the cap is no longer spent by this chapter."
+    },
+    {
+      "gate": "Tic caps — 'for the length of a breath' 0 / 'at the pitch' 0",
+      "state": "PASS",
+      "evidence": "Regex scan returns 0 for both. The nearest neighbour, 'he sat with it for a breath because it was worth a breath' (L87), is not the capped string."
+    },
+    {
+      "gate": "Anti-tic list (charter §9 measured phrases)",
+      "state": "PASS",
+      "evidence": "Scan for 'jaw tightened', 'laughed once', 'without humor/humour', 'stomach tightened', 'stomach dropped', 'There it was', 'That was true', 'Also true', 'sounded almost', 'held this', 'which was, in its own way' and standalone '[Name] noticed.' returns 0 across the draft, including the four repaired lines."
+    },
+    {
+      "gate": "Forbidden names (packet L464, L505)",
+      "state": "PASS",
+      "evidence": "Case-insensitive scan for 'Halcenvane', 'Velmere', 'Wray', 'Bracken' returns 0. 'Ostrand' once (L53), which the packet permits."
+    },
+    {
+      "gate": "Meta-voice (packet L464, L505; charter §8.4)",
+      "state": "PASS",
+      "evidence": "Scan for 'chapter', 'series', 'charter', 'volume' returns one hit: the file's own heading line (L1). Every use of 'book' in the body is diegetic — the gate-keeper's book (L11), the innkeeper's book (L27), the provision's book (L71), Karis's registers (L33), the promise 'in a book' (L117)."
+    },
+    {
+      "gate": "Gate 27 — Reader Standard, prose (owner requirement, recorded 2026-09-05; outranks taste)",
+      "state": "PASS",
+      "evidence": "Re-run at the editor seat on the repaired draft. Language: scan for profanity, oaths and blasphemy including 'damn', 'hell', 'bastard', 'crap', 'god', 'christ' returns 0; no crude or bodily slang; anger and fear are carried by procedure and refusal ('he had said it once, and once was the number', L43). Moral goodness: the chapter's conduct is honest — Vastin refuses to buy a stair with papers he will not show (L41); Lira declines the tier her paper would buy (L35); Cael keeps a promise that costs him the registry road (L59) and accepts being priced as labour without self-pity (L93). The one grey edge, Seln's 'the clerk has to be handled so that he never thinks to ask' (L79), is a plan to use a legal form as written, stated openly to the people it implicates, with the man who answers for it named. Violence: none — no fight, no injury, no gore. Sexual content: none; warmth is loyalty and shared cost. Suitable for a thirteen-year-old reader as written."
+    },
+    {
+      "gate": "Reader Standard §Gate — the author report states the standard was checked (charter, packet L2270)",
+      "state": "PASS",
+      "evidence": "ch08-author-r2.json deviations[2] carries the attestation with the grep result and the four-part check. See RECHECK F6."
+    },
+    {
+      "gate": "Do-not-pre-pay the next card (packet context_files next_card L594-L599; Ch9 card L1216-L1220)",
+      "state": "PASS",
+      "evidence": "Ch9's assigned beats are all still unspent. Lira's decision is left open at L91. The provision is scouted, not worked; the clerk is described, not met; Cleon is reported, not seen; the iron door does not appear. Karis 'went to find the clerk' (L115) and the file ends before she reaches him."
+    },
+    {
+      "gate": "Invention budget (packet L508-L520)",
+      "state": "PASS",
+      "evidence": "Within budget: the five-arch bridge and toll-house; the unnamed gate-keeper; the ring road, brokers' yards, ferry landing, rope-walk, inns; the smith's two forges and the stamped-tin pass (explicitly offered by the budget as 'the passes as objects (a token, a stamped slip — one form)'); the quarry under the registry; the clerk unnamed and described. The one item outside the literal allowance, 'Rune Path. Bronze.' (L75), is now covered by EXC-B8-CH08-1. No new named person or place beyond Treswick, the Deepstacks and Cleon; no Quieting or designer explanation; no Rune mechanic."
+    },
+    {
+      "gate": "Book-11 plant 3 carried — nothing faint at the station; the light not looked at beyond the card (packet L462)",
+      "state": "PASS",
+      "evidence": "Nothing faint or anomalous occurs at or near the station. The light is registered three times and each is refusal, not attention: 'a thing he was not looking at' (L19), 'He was not looking at it' (L21), 'and he did not look at the light' (L103). The r2 cut at L111 removed Karis's parallel not-looking, which reduces the count and does not weaken the plant — Cael's refusal is the one the tripwire needs."
+    },
+    {
+      "gate": "Scene-closer rule — no two consecutive chapters end on the same structural move (charter §9, §11.10)",
+      "state": "PASS",
+      "evidence": "Ch7 closes on a log entry ('...The walls are close enough now to have a color.'). Ch8 closes on dialogue plus a single narration sentence (L113-L117), with no log, as the packet requires."
+    },
+    {
+      "gate": "Diegetic document register (charter §3.2)",
+      "state": "PASS",
+      "evidence": "The one in-world document, the log at L93, is italicised, first-person, plain, and contains nothing its writer could not know: 'Entered by count. That's the door.' / 'It's the right price. It's what I'm worth here. I'll carry the boxes.' Unchanged by the repair."
+    },
+    {
+      "gate": "Audio survival (Craft Core invariant 7; charter §8.2, §8.5)",
+      "state": "PASS",
+      "evidence": "No meaning depends on typography; the italic log reads identically aloud. No system block. The four-speaker scene at L69-L91 keeps its anchors ('Count,' Karis said; 'The clerk,' Cael said; 'she said'; 'Seln said'). The two repaired clauses survive being read aloud, though L39's elliptical 'a name a Compact counter might' requires the listener to supply the verb — flagged in concerns, not as a defect."
+    },
+    {
+      "gate": "Scene vs summary (charter §10)",
+      "state": "PASS",
+      "evidence": "Scan for 'heard about it later', 'learned afterward', 'was told later', 'found out later', 'by the time he heard' returns 0. Seln's reconnaissance is off-page by design (Ch8 glimpses, Ch9 works) and is delivered in scene as a spoken report."
+    },
+    {
+      "gate": "Terminal metadata (charter §8.4)",
+      "state": "PASS",
+      "evidence": "Scan for 'End of Chapter', 'word count', 'approximately ... words', 'TODO', 'DRAFT' returns 0. The file ends on prose at L117."
+    },
+    {
+      "gate": "Institutions rendered as machines (charter §3.7, §6.5)",
+      "state": "PASS",
+      "evidence": "Strengthened by the repair rather than weakened. The toll taken at the gate and not the bridge (L5); the gate-keeper who counts and writes and does not ask, and why (L11-L15); the innkeeper's book with no column (L27); the smith with two forges, one stamped tin on a cord, and 'Same hands. Different price.' (L45); the registry road that must cross the square because the old town has one square (L57); the provision's three columns and the column that does not exist (L71-L79). Brom's new clause adds the mechanism's price list ('a price for iron and nothing up a stair')."
+    },
+    {
+      "gate": "Progression module — editor gate 5 (rivals and institutions do not freeze)",
+      "state": "PASS",
+      "evidence": "The Compact's machine runs on its own terms and against the crew's interest without being addressed by them: the tiered smith, the rationed passes, the four-hundred-year-old form, and the classification bar that is 'not consulted' only because the form has no column for it (L79)."
+    },
+    {
+      "gate": "Progression module — editor gates 1, 2, 3, 4, 6, 7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, rank change, fragment acquisition, training, challenge or setback occurs; the packet prohibits fragment use and reading outright (packet L502)."
+    },
+    {
+      "gate": "Line-level clarity of the r2 repairs (Shared Positive Voice §Sentence music; charter §3.1)",
+      "state": "FAIL",
+      "evidence": "One of the four repaired sentences introduces a garden-path reading at the exact clause Ch9 inherits. ch08.md L91. See finding N2. The other three repaired clauses (L37, L39, L45) read cleanly on first pass, with the reservation noted in concerns about L39's ellipsis."
+    }
+  ],
+  "findings": [
+    {
+      "id": "N1",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity",
+      "gate": "Craft Core reader-trust invariant 3 (continuity persistence); DECISIONS row 16, carried into the packet as EXC-B8-CH08-2",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 11,
+        "line_end": 11,
+        "quote": "a man in a coat that was not grey sitting on a stool inside the leaves with a book on his knee, who looked at the six of them and the mule as they came under the arch, and counted, and wrote, and did not ask."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch07.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "Six of them on the road, and no mule, because the mule had gone north that morning with a healer's roll on it, and Karis's boxes were on three backs — Brom's, Lira's, his own — and the kit's case on Vastin's"
+      },
+      "consequence": "The crew has no mule. Ch6 closed on Oryn taking it north-west at the fork-stone ('She took the mule's rope. \"Millrace.\"'); Ch7's opening sentence states the new arrangement in as many words; and the r2 packet carries the ruling as an approved exception — EXC-B8-CH08-2, 'the mule went north with Oryn on the 281st; the crew carries the boxes until Millrace (Ch18)' — with DECISIONS row 16 specifying the replacement this chapter is to use: 'Treswick's carter's mule at the trough carries Ch8's beat.' The r2 pass applied that ruling at four of the five places the animal appeared (L9 now 'with the boxes on their backs'; L21 now 'a carter's mule at a trough by the gate'; L27 now 'counted six people and wrote six'; L99 now 'at the four of them') and missed this one. What survives is the worst of the five to keep: it is the crew's own entry under the arch, in the sentence where the city's gate-keeper counts them, so the reader is told the party is six-and-a-mule by the one official who counts — one paragraph after the previous chapter said the mule was gone, and two paragraphs before the same animal is reintroduced as a stranger's at a trough. It also breaks the strength the ruling was protecting: the L23 mule image ('The city had a column for the mule. It was the same column it had for him') only lands if that mule belongs to a carter, and L11 tells the reader it belongs to Cael. Finally, the author report's r2 deviations claim 'no mule in Treswick (planning ruling, row 16) — the carter's mule at the trough carries the beat', which the page does not yet support.",
+      "repair_target": "ch08.md L11 — cut 'and the mule' from the gate-keeper's sentence, leaving 'who looked at the six of them as they came under the arch, and counted, and wrote, and did not ask.' One phrase; nothing else in the paragraph moves, and the count at the gate then agrees with the innkeeper's count at L27 and the boxes at L9.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "N2",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "line",
+      "gate": "Shared Positive Voice §Sentence music; charter §3.1 (the cataloguing narrator's clarity); introduced by the F8 repair",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch08.md",
+        "line_start": 91,
+        "line_end": 91,
+        "quote": "and Cael understood that she was pricing herself as labour, on purpose, in a city that would have taken her paper and put her on the second tier by noon, and did not know yet which of the two things she was going to be here, and neither did she."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/reports/ch08-editor-r1.json",
+        "line_start": 322,
+        "line_end": 322,
+        "quote": "ch08.md L91 — keep Lira's two spoken lines and Cael's noticing that she has priced herself; cut the interpretive clause that closes the question ('had decided which of the two things she was going to be here ... and had decided it at the foot of a stair'), leaving the decision live for Ch9."
+      },
+      "consequence": "The repair is right in substance — the decision is now open, which is what Ch9's want-scene needs — but the new clause is a garden path. 'Cael understood that she was pricing herself ... and did not know yet' offers 'she' as the nearest subject inside the that-clause, and a reader who takes it (most will, since the whole sentence has been about her) then hits 'and neither did she' as a contradiction and has to reparse with Cael as the subject of 'did not know'. The stumble lands on the one sentence in the chapter that Ch9 inherits, and it is a stumble a careful reader hits on first pass, not a real ambiguity of fact.",
+      "repair_target": "ch08.md L91 — break the subject chain so 'did not know' cannot attach to Lira. E.g. end Cael's reading at 'by noon', then a separate clause naming him: '...put her on the second tier by noon. Which of the two things she was going to be here he did not know, and neither, he thought, did she.' Same content, same openness, one subject per clause.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "The F4 repair CUT the two interpolated beats rather than relocating them, which the r1 repair target offered as the alternative ('relocate ... either before \"Do we now?\" at L109 or into the permitted narration after L113'). Lost: Karis reading the bluff as strata ('the registry on the old town on the quarry on the crown' — a useful last restatement of the geography the whole chapter has built), and Cael filing her refusal to look at the light. Both are recoverable elsewhere if the planning layer wants them: her strata habit still survives at L9 and L33 ('because a gate was a stratum'), and Cael's own refusal at L103. Contiguity is what the contract required and contiguity is what it now has; recording the loss so a later pass does not think the beats were never written.",
+    "L39's added clause is elliptical to the ear: 'a man with no standing a registry could write down and a name a Compact counter might' requires the listener to carry 'write down' across to 'might'. It survives being read aloud and the following clause makes the practical consequence unmistakable ('which made a registry counter the one place in a city he did not go'), so it is not an §8.2 failure — but Seln's standing is the one crew fact the chapter now delivers entirely by implication, and the audio pass should decide whether it wants a verb there.",
+    "The chapter's tier vocabulary and the packet's do not obviously agree. The packet's knowledge_boundary lists 'Brom Copper (first tier)' alongside 'Karis unranked by choice (outer district)', while the draft renders Copper as buying 'the outer district and a price for iron and nothing up a stair' (L37) and reserves 'the second tier' for the district above the first wall. The draft's reading is the one STATE_RUNNING's After-Ch9 entry supports (Brom goes up by count, not by tier), so I am not raising it as a contradiction — but the numbering should be pinned in the reference before Ch9's counter scene is rechecked, or the two documents will disagree in the same paragraph.",
+    "'A beat.' at L113 is still reproduced from the card as prose. Carried from r1: it is a direction to the author that reads on the page as a stage instruction, and it is the one place in the chapter where the register slips toward script. It survives being read aloud, so it is not an §8.2 failure, but it deserves a decision rather than an inheritance.",
+    "'He had lived at the foot of a city once, at fourteen, for a season' (L15) remains unverified. Searched scope: the packet's canon, architecture, DECISIONS, registry, STATE_RUNNING, Ch6, Ch7 and the Book 7 Ch1 reference; method: full-text term scan plus read. If this is new backstory rather than Books 1-3 material, charter §6.4/§11.7 want it flagged and approved rather than minted in passing. Unchanged by the repair, so unchanged as a question.",
+    "L9's 'with the boxes on their backs' is collective where the narrator is usually exact: per ch07.md L9 the boxes are on Brom's, Lira's and Cael's backs with the kit's case on Vastin's, and the same sentence individuates Karis 'with the flat'. No reader will mis-count, but STATE_RUNNING's After-Ch9 entry ledgers the boxes person by person, and a cataloguing narrator who says 'their' where he elsewhere says whose is slightly out of register.",
+    "The scaffold 'because a man who is going to keep to a place should ___' still runs twice (L17, L49), under the charter §9 cap of three. Unchanged by the repair. A third use in Ch9 would breach.",
+    "The author report's deviations array still carries 'Word count ~3,9xx after expansion — in band' as an unresolved self-note, now redundant with the precise word_count field (3931) and the run diagnostics. More materially, the same array asserts 'no mule in Treswick', which finding N1 shows is not yet true on the page; an attestation that outruns the draft is the failure mode the recheck exists to catch."
+  ],
+  "strengths": [
+    "The repair discipline is close to exemplary in scope: nine changed lines, every one at a named repair target, no opportunistic rewriting anywhere else in a 3,900-word chapter, and the changes are additive (+19 words) exactly as the r1 word-band concern asked. All eight recorded strengths verify intact.",
+    "F2's repair is better than the finding asked for. 'Copper, on paper, which at this gate bought him the outer district and a price for iron and nothing up a stair, and he had not asked for a stair' (L37) does three jobs in one clause — Brom's tier, what the tier buys, and the man's indifference to what it doesn't — and it lands in the going-out inventory's own cadence rather than sitting on top of it.",
+    "'on principle and on a count' (L39) is a quiet, exact piece of forward work: it seats Ch9's beat (Seln deliberately kept off the count) inside a sentence about why he avoids counters, without pre-paying anything Ch9 has to earn.",
+    "The pass finally has edges — 'a stamped tin on a cord, Brom said, shown at the stair's foot and not taken off' (L45). 'Not taken off' is the detail that makes the object a mechanism rather than a prop: the man who crosses the line wears the line.",
+    "Cutting the interpolation restored the close's rhythm. 'Do we now?' / 'Karis looked up the bluff.' / 'A name and a reason' now lands as a three-beat exchange with a held look in the middle, which is what the card designed; the payoff line no longer arrives after a paragraph of interiority the reader has to walk back out of.",
+    "The F1 repair kept the beat and spent nothing: 'read her book across the counter, the wrong way round, out of a habit he had thought a winter would cure, and it had not' is, if anything, more physical than the capped phrase it replaces — 'the wrong way round' is the reader's own body at a counter.",
+    "The chapter still passes Gate 27 on its own terms rather than by omission: the moral weight sits in what four people decline to use (Vastin's papers, Lira's paper, Cael's road round the bluff, Karis's refusal to hurry the provision), and the book lets each refusal cost something."
+  ]
+}

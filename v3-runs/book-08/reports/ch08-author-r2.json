@@ -4,7 +4,7 @@
   "scene_id": "b8-ch08",
   "status": "DONE",
   "draft_path": "v3-runs/book-08/drafts/ch08.md",
-  "word_count": 3931,
+  "word_count": 3930,
   "obligations": [
     {
       "obligation": "Arrival dated; the crossing as mechanism; the outer gate that does not ask",
@@ -61,7 +61,8 @@
     "'four hundred years old' appears twice: once in the card's fixed dialogue and once as the form's age in Cael's register (Seln's 'nobody has ever redrawn it') — the number is card-sanctioned in this chapter.",
     "Word count ~3,9xx after expansion — in band.",
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; violence with cost and without gore; no sexual content; the crew's conduct decent.",
-    "r2 (repairs of r1 HIGH/MEDIUM/LOW): no mule in Treswick (planning ruling, row 16) — the carter's mule at the trough carries the beat; 'upside down' removed; Brom's and Seln's standings added to the going-out inventory; 'The form's older than anyone who's used it'; Cleon's Path and tier KEPT by planning exception (row 17: the running state and Ch9–13 depend on it); the pass rendered at the smith (a stamped tin on a cord); Lira's decision left live; the count at the door made four and Cael; the strata beat cut so the fixed close runs contiguous."
+    "r2 (repairs of r1 HIGH/MEDIUM/LOW): no mule in Treswick (planning ruling, row 16) — the carter's mule at the trough carries the beat; 'upside down' removed; Brom's and Seln's standings added to the going-out inventory; 'The form's older than anyone who's used it'; Cleon's Path and tier KEPT by planning exception (row 17: the running state and Ch9–13 depend on it); the pass rendered at the smith (a stamped tin on a cord); Lira's decision left live; the count at the door made four and Cael; the strata beat cut so the fixed close runs contiguous.",
+    "r3 (direct): the gate-keeper's count made 'the six of them and the boxes on their backs'; L91 clause simplified. Closed after r2 (1 HIGH = one phrase missed under the mule ruling, verified by grep; 1 LOW) — planning judgment, no third paid round."
   ],
   "blockers": []
 }
