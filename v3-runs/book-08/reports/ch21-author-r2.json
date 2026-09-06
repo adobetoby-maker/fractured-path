@@ -1,0 +1,76 @@
+{
+  "schema_version": "3.0",
+  "run_id": "b8-ch21-r2",
+  "scene_id": "b8-ch21",
+  "draft_path": "v3-runs/book-08/drafts/ch21.md",
+  "word_count": 4587,
+  "target_words": 4600,
+  "obligations": [
+    {
+      "item": "The pass drawn before it is fought; Seln's warning ('There's a tree that shouldn't be where it is.')",
+      "status": "MET",
+      "evidence": "'A hundred strides. The floor a stream-bed … The west wall a scree slope, the shelf two-thirds up it with the rig on its lip … The east wall sheer.'"
+    },
+    {
+      "item": "Four exchanges as carded, terrain-caused at (2) and (3): silent entry; crossbows; the wall; Brom's forearm; the pine cut and the shelf down onto the wall — held, cannot move, the mouth closed behind; Seln up the swept scree; the young one steps out for the broad man and is hit; dies with Oryn's hands on him; Seln on the shelf; Cael breaks the second stack with the thirteenth (ribs); Teague's other hand and Lira take the stair; the team breaks along the ridge; none taken",
+      "status": "MET",
+      "evidence": "'Wall.' … 'It came down onto the wall … the fall went down the plane's face and off its lower edge and piled — behind them.' … 'The fall had swept it … Seln was on it.' … 'The sixth volley took him through the chest.' … 'he pushed. The brace went a body's length' … 'The team broke. Along the ridge, east'"
+    },
+    {
+      "item": "Win-sentence legible; Teague's lesson verbatim",
+      "status": "MET",
+      "evidence": "'Seln had removed the team's ability to hold the high ground by climbing the slope its own rig had swept clean, and the wall had bought him the climb.' … 'A wall keeps everyone behind it. And one of mine wasn't.'"
+    },
+    {
+      "item": "The death priced without gore; Oryn does not pretend; the first death her hands have been on; the loss lands on Teague; the found family witnesses; the crew kills no one",
+      "status": "MET",
+      "evidence": "'she took her hands off, and put them on her own knees, and did not say anything, because there was nothing to say that a healer says' … 'Teague, in the stream-bed, on his knees by his own dead.' … 'the butt and not the point, because nobody on the crew had been told to kill and nobody did'"
+    },
+    {
+      "item": "Costs ledgered: Brom's forearm; the broad man's shoulder; Cael's ribs; Vastin down; the young one dead",
+      "status": "MET",
+      "evidence": "'the bolt came out backward … the arm was bound' … 'The bolt took him in the shoulder, high' … 'stopping … in the ribs' … 'Vastin let the wall go … and went down with it'"
+    },
+    {
+      "item": "Close on the IMAGE as carded; file ends on it",
+      "status": "MET",
+      "evidence": "the last three paragraphs: the far mouth, the haze, the line 'drawn in' not ink"
+    }
+  ],
+  "plants": [
+    "Cael's ribs after Force — Ch22",
+    "Teague's lesson — Ch24",
+    "'drawn in something worse than ink' — Ch23/24",
+    "The team on the ridge, unlocated — Book 9",
+    "Karis's hand on Vastin's shoulder — Ch24",
+    "The broad man said the boy's name; Cael did not enter it — the log's one refusal"
+  ],
+  "payoffs": [
+    "Ch12's wall and its limit paid by the one not taught it",
+    "Ch19's thirteenth listening → used on stone, never on a person",
+    "Ch18's two healers → the first death under Oryn's hands",
+    "Ch17's 'Don't put it in front of anything that needs doing twice' → the other hand"
+  ],
+  "names_minted": [],
+  "tic_census": {
+    "one_word_paragraphs": 0,
+    "the_way_x_verb": 4,
+    "upside_down": 0,
+    "four_hundred_years": 0
+  },
+  "state_change_proposals": [
+    "The 306th: THE PASS — a hundred strides; stream-bed floor; west scree to a shelf two-thirds up (the rig: a dead pine over a stacked shelf, roped; a SECOND stack at the far end); east wall sheer. The team: nine seen (more unseen); three crossbows; hoods; Compact kit. Broke along the ridge EAST over the far mouth; none taken; no faces; unlocated.",
+    "EXCHANGES: (1) silent entry; first volley at twenty strides; Vastin's plane at a SLANT facing the shelf, scree to rock; bolts skip; Brom's forearm (first volley, before the wall; the bolt drawn backward; bound before the third volley). (2) the pine cut at the fourth volley; the fall down the plane's face piled BEHIND — the west mouth closed (stone to a man's height, the pine on top); 'Held.' / 'Held.' (3) the swept scree; Seln up it unseen; the wall buying the climb; the broad man hit in the shoulder at the plane's foot-line (fifth volley), down outside it; THE YOUNG ONE stepped one stride out to drag him back and the sixth volley took him through the chest; Oryn's hands on him; nothing done; the broad man said his name (Cael did not enter it). (4) Seln over the lip at the seventh volley with the weighted cord; Cael up the bare scree — the THIRTEENTH's first use: palm on the second stack's brace, the line found ('his — not Teague's'), the stack sent ALONG the shelf; the RECOIL stopped in the RIBS (the marsh's ribs), 'once, plainly'; Teague up the stair LEFT-HANDED (a stave and its man a body's length back); the tall woman's spear reversed; Lira on the shelf with the flat; the team broke; Seln let the corded man go.",
+    "COSTS: the young one DEAD; Brom's forearm (through; bound); the broad man's shoulder (a bolt; bound by the other healer); Cael's RIBS (the thirteenth's recoil; 'the ribs wanted him to walk and not to bend'); Vastin spent to the stream-bed (day 27) — Karis sat beside him with her bound hand on his shoulder (unprecedented); Oryn's hands came off a person with nothing done, the first time.",
+    "TEAGUE'S LESSON verbatim (to the stone): 'A wall keeps everyone behind it. And one of mine wasn't.' He knelt by his dead as he reads a job. Oryn stood three strides back, kit closed, did not look away.",
+    "The doctrine said once to Teague's four at the fire; the young one 'nodded as the young nod' — Cael's entry, reread that night 'the heaviest line on the page'. The tall woman's first words to the six: 'And then?'",
+    "Cael at the far mouth: the site a half-day across a hazed plain; 'what it was drawn in was not ink and never had been'; 'he did not want it to be'. The west mouth is CLOSED — the crew goes on east; the mule was tied at the west mouth: RECOVERED? — must be resolved in Ch22 (the mule and Karis's boxes were at the west mouth outside the fall; Seln/Lira go round by the ridge to bring it; or the fall is climbed). NOTE for the Ch22 packet.",
+    "Cash 123. Next: Ch22 log (the still place; Rune inward)."
+  ],
+  "deviations": [
+    "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; one death, priced, without gore (a bolt, the hands, the stillness); the crew kills no one and pursues no one; no sexual content.",
+    "The mule tied at the west mouth is on the far side of the fall at the chapter's end — Ch22 must show it recovered (a line: the ridge path the team used; Lira and Seln bring it round by dusk).",
+    "READER STANDARD (Gate 27): banned-word grep 0; one death, priced, without gore; the crew kills no one; no sexual content.",
+    "r2 (repairs of r1): the plane's ONE position fixed — a lean-to slant, high edge against the west wall at the scree's foot ahead of the crew, low edge on the stream-bed at their backs at the mouth; the fall runs down the slant from high edge to low and piles under the low edge, closing the mouth without moving the plane or passing through the crew; the broad man hit at the slant's high edge (the strip the shelf can see); Teague's lesson as one sentence. VOLLEY COUNT: the draft numbers seven volleys (Brom the first; the plane the second; the pine the fourth; the broad man the fifth; the young one the sixth; Seln over the lip at the seventh) — planning authorizes the expanded count (exception); the card's 'second/third' are exchange numbers, not volleys."
+  ]
+}
