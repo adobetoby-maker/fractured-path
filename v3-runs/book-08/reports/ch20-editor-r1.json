@@ -1,0 +1,12 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch20-r1-editor",
+  "scene_id": "b8-ch20",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {"gate": "PLACEHOLDER", "state": "NEEDS_HUMAN_JUDGMENT", "evidence": "skeleton"}
+  ],
+  "findings": [],
+  "concerns": [],
+  "strengths": []
+}
