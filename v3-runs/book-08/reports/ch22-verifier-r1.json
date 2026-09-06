@@ -1,0 +1,54 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch22-verifier-r1",
+  "scene_id": "b8-ch22",
+  "editor_run_id": "b8-ch22-r1-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "ed-b8-ch22-r1-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "ed-b8-ch22-r1-001: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "ed-b8-ch22-r1-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "ed-b8-ch22-r1-002: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "ed-b8-ch22-r1-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "ed-b8-ch22-r1-003: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "ed-b8-ch22-r1-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "ed-b8-ch22-r1-004: verified; repaired in r2 — see author r2 deviations."
+    },
+    {
+      "finding_id": "ed-b8-ch22-r1-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "drafts/ch06-r1.md at the quoted span; diff r1→r2",
+        "Ch4 r2 (the knee bound, a month); B7 Ch18 (the bank; the fork above Millrace); the day-count"
+      ],
+      "reason": "ed-b8-ch22-r1-005: verified; repaired in r2 — see author r2 deviations."
+    }
+  ]
+}
