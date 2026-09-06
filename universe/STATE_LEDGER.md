@@ -256,3 +256,84 @@ Source of truth for this section: `books/book-07-void-roads/chapters/` as splice
 ## Note to the Book 6 team — the six-count seam
 
 Book 6's cards counted six travelers from Ch8 onward; Book 6's drafted prose (verified at commit e1ed0a5) settled on FIVE crossing the Line (Cael, Lira, Brom, Karis, Seln; "the sixth" is Seln's desk). Book 7's prose is built on five entering and six after Oryn. If Book 6's prose is ever revised to six, Book 7 Ch1's counts and this ledger must be re-verified.
+
+---
+
+## Cael — Ability State (Book 8 close, 2026-09-05)
+
+| # | Fragment | Source | Acquired | Status at B8 close |
+|---|---|---|---|---|
+| 1–10 | as at Book 7 close | | | Integrated; the tenth (Tide-adjacent) is his reading instrument — used on himself at a post (B8 Ch7) and turned inward |
+| 11 | **Iron-Wall-adjacent** (partial; Iron family; a plane held, not a body hardened) | **Vastin** | **B8 Ch12** — the cut in Treswick | Entered, not told (the debt to Vastin stands); engagement field defensive/rooted; deployment none |
+| 12 | **Rune-adjacent** (partial; Rune family; a made thing's lean — structure, not meaning; made things only; costs the eyes) | **Cleon** | **B8 Ch13** — the board, from two feet | Told to Cleon (his warning stands); turned inward unbidden (Ch18) then deliberately (Ch22): the still place reads as *set* — bones, a floor with nothing built on it, an instruction with no language — "the same kind of thing, to that instrument, as the sites"; told to NO ONE |
+| 13 | **Force-adjacent** (partial; Bronze; impulse along the line of the frame; needs a thing to push against; recoil back along the line) | **Teague** | **B8 Ch19** — the Span's barricade | First use on stone at the pass (Ch21); the recoil stops in the RIBS ("That's a line. That's not yours." / "It's mine now."); never on a person |
+| — | **The still place** (NOT a fragment; NOT counted) | — | Read by TWO instruments | Tide (Oryn's deep reading at Millrace, Ch18, and the minute after the centre, Ch24): nothing, everything round it — UNCHANGED, certain. Rune (Ch22): a shape with bones; a floor with nothing built on it. At the Court's centre: NO EDGE — "Not the Quiet. Not a fragment. The same kind of made." Understood by neither instrument. Book 9's word ("recurrence") withheld. |
+
+**The Arbiter:** dark since the kindling at fourteen; checked Ch22; unchanged; nothing in him for the Quiet to take.
+**The instruments (Book 11 plant 3):** the cord and both straightedges read wrong in his hands and only his — a hair at Lowmarch (B8 Ch1); a stride short and "a hair and a half, two" at the plain's edge (Ch22); the TREND UP; unsourced; the two facts placed beside each other and no line drawn.
+**Trajectory:** thirteen at nineteen; "three of them in one city and one bridge — rate's climbing" (the log, Ch19).
+
+## Cael — Rank State (Book 8 close)
+
+| Book end | Functional equivalent | What the system sees |
+|---|---|---|
+| Book 8 | Ten on a wall's count with Teague's four; the man who crossed the oldest line alone and came back with the same finding | [SHATTERED]; the completion report (B8 Ch1–2) named the crew; the faceless faction reached three times (the cut, Ch12; the Span's watch, Ch19; the pass, Ch21) and broke each time — unlocated, unnamed |
+
+## Companion Roster (Book 8 close)
+
+| Character | Path / tier | Status at B8 close | Joined |
+|---|---|---|---|
+| Lira | Wind Path, Iron R1 | Two-armed from the fork (Ch6); the circuit paper in her coat unshown; looked at the whole ladder from the top and it did not pull (Ch9); "Right." at the oldest line (Ch23); first with the leaf (Ch16) and owed the centre "on the road, if there's road" (Ch24) | B1 |
+| Brom | Iron Skin, Copper | Declined a broker's guard post and pass by picking up a box (Ch11); the bound shoulder; a bolt through the forearm at the pass (Ch21); a week of colours from the Span (Ch19); "Aye" | B2 |
+| Karis | Ember, unranked by choice | Read the leaf; cracked the grade; fixed the fifth circle; the lamps finding on one page and the leaf on another, no line between; the left hand cut at the reach (the back of the hand, a step's edge, Ch12), rebound by Oryn; writes with it anyway; "It's the first one." | B3 |
+| Seln | Shadow, Bronze | The cache carried and kept (looked at the registry's light from a roof below the walls, decided nothing, told Cael — Ch11); the weighted cord (Ch12; Ch21); climbed the swept scree (Ch21); "Six. Six and no mule." | B4–5 |
+| Oryn | Tide, Iron R4 | Turned north at the fork with the mule (Ch6); rejoined at Millrace AS A STOP ON HER ROUTE (Ch18) — three holds still owed; the deep reading; asks every time; her hands on the first death (Ch21); read Cael the minute after the centre — the same finding; turned north on her mule at dawn on the 308th ("The day I have to." / "Spring. Bring the map. Lie still when I say."). Has NOT heard the leaf ("Tell me on the road, if there's road. Not at my table.") | B7 (terms) |
+| **Vastin** | Iron Wall, Silver (papers unshown) | Fifty-three; walked with the five from Lowmarch's rise (Ch3) — "I have papers I will not show. I want that said once"; the wall in the cut (Ch12) and across the pass's mouth (Ch21); the knee (bound the 279th; the month kept — "Thirty's the month"); "Noted" learned; the sentence stopped at the fire (Ch20); "I never once asked who drew it. This is where they drew it." (Ch23); **UNADMITTED — an ally who has not asked and is not asked** (Book 9's opening) | B8 (walking, not admitted) |
+
+**Rival (not roster):** Teague and his crew — the tall woman (spear), the broad man (crossbow; the limp; the leg broken at the Span, knit), the healer of no Path (the older woman with the cloth bag); **the young one DEAD at the pass (Ch21), buried under stone at its east mouth, unnamed (his name said once by the broad man; Cael did not enter it)**. The contract kept to its last line; Teague did not enter the Court; west at dawn on the 308th carrying Cael's letter to Hesk; "Next spring."
+**Cleon** (not roster): stays in the Deepstacks with the leaf and the board — "Work. Not a finding."
+
+## Antagonist State (Book 8 close)
+
+| Antagonist | Status | Notes |
+|---|---|---|
+| The Quieting | FIVE sites on one bearing, ages ascending east; the fifth (the Court) the oldest and the end of the line; the taxonomy (three tiers by documented age) decoded; the identical-failure finding stated as "lamps on one wire" and filed unexplained | No maker's will theorized; the leaf gives a maker's TITLE and purpose (prevention of the un-bound), not a mechanism |
+| The Guilds Compact (faceless faction) | Three reaches: the cut (six; a declaration expected; none taken), the Span's watch-post (seven; broke east), the pass (nine+; the rig; the young one killed; broke along the ridge) — unnamed, unlocated | Knows the crew, the bearing, and that the crew crosses quiet ground; the directive and the objection (Ch20) = Book 9's crack |
+| Archmarshal Vastin | Walking with the five; unadmitted | See roster |
+| The Architect | A TITLE on a leaf; a purpose; a scraped name; "went into the ordering he had made, and is in it —" MARKED | SECRET intact: no presence, will or reset on the page |
+
+## World State (Book 8 close)
+
+| Element | Status |
+|---|---|
+| The calendar | Book 8 runs the 264th (Lowmarch, winter's end) to the 308th (dawn at the Court's rim); Cael nineteen throughout (no birthday) |
+| Treswick | The oldest registry on the Line; the Deepstacks under it; Cleon; the provision used once; the crew "known" by the station's reading and the completion report |
+| Lowmarch | The board's season line opened the 297th with "Treswick. Survey read. Bearing." (price and outcome blank) |
+| The mule | Went north with Oryn (281st); returned at Millrace (298th); went north again with her (308th) |
+| Letters | Hesk's dividers received (Ch14) — "Lines are for finding out how far a thing is from another thing. Everything is."; Cael's four-line reply west with Teague (Ch24) |
+| Cash | 123 marks in hand at close |
+
+## Minor Named Characters — Book 8
+
+| Name | Role | Chapters | Disposition |
+|---|---|---|---|
+| Cleon | Rune Bronze; the Deepstacks' reader; the leaf's keeper | 8–17 | Available; stays under Treswick with the work |
+| The clerk (unnamed) | The registry's yard-door counter; "four" | 9–10 | Do not name |
+| The factor at the shoulder hold; the broker's factor in Treswick | Road/yard functionaries | 5, 11, 17 | Unnamed |
+| Teague's crew | As Book 7; the young one dead (Ch21) | 17–24 | Keep unnamed |
+| The watch (seven); the team (nine+) | Compact, faceless | 19, 21 | No faces; do not name |
+| Hesk's grandmother | Off-page; the straightedge saying is hers (B7 Ch24) | 17 | — |
+
+**Places minted:** Treswick (the tiered city on the bluff; the grey bridge), the Deepstacks (the quarry archive), the shoulder hold, the cut (the reach), the Sunken Span (the fourth site, now entered), the pass (the defile), the court (DESCRIPTION, not a name — Book 9 may name it). See `craft/NAME_REGISTRY.md` — Book 8 census.
+
+## Open Questions (Book 8 close)
+
+- **The third sentence** — "the system was built to exclude me / to prevent me" has a third past it that Cael is not ready to write (the fixed close). Book 9's tomb supplies the word.
+- **Two instruments, one place** — Tide says nothing; Rune says a shape with bones; the Court's centre says no edge. "The same kind of made." Nobody else knows the Rune finding (Cleon's warning kept).
+- **The instruments read wronger** — the trend up; the oldest site a half-day east when it was measured; unsourced (Book 11).
+- **The crack** — a directive and a filed objection, two seals Vastin could name and did not (Book 9).
+- **Vastin unadmitted** — "the asking … on a road, if there's road."
+- **Oryn's route** — three holds owed; "Spring. Bring the map. Lie still when I say."; she has not heard the leaf.
+- **Teague** — "Next spring. Whatever's on the next line."; one of four dead; the alliance real.
+- **The Court unnamed** — "the court" as description only; the stratum under the floor; the first cut (Book 9's tomb is "in the deepest edge territory").
+- **Carried, untouched:** Vastin's "forty years" (his rounding; row 20); the completion report's author; Hesk's full history; the [UNBOUND] word used in Ch10 once in B7 Ch15's formula; the young one's name (said once, never entered).
