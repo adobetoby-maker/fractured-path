@@ -1,0 +1,238 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch19-r1-editor",
+  "scene_id": "b8-ch19",
+  "verdict": "STRUCTURAL_HOLD",
+  "gate_results": [
+    {
+      "gate": "AUTHORITY — canon / timeline / frozen state",
+      "state": "FAIL",
+      "evidence": "The chapter otherwise preserves the 299th–304th frame, Cael at nineteen, cash at 123 from the prior ~125, and the fourth site's inherited measurements. One route interval fails: ch19.md line 5 dates the Hall's marsh to the 302nd and the crest to the 303rd, while closed B7 ch23 line 15 puts the fourth site 'Three days, or near it' beyond the Hall. See F-003."
+    },
+    {
+      "gate": "PACKET OBLIGATIONS — must_include / scene turn / outcome",
+      "state": "FAIL",
+      "evidence": "Most assigned beats are present: five dated entries and 'known' (lines 3–7); the B7 cordon plus the new seven-person post (lines 11–31); Force through the barricade and fragment thirteen (lines 55–69); explicit inside-the-line fairness (lines 77–101); the fall and both healing costs (lines 107–121); the Span, carvings, bearing and unchanged center response (lines 125–139); and the verbatim fixed log (line 145). The central turn does not enact the assigned herding/option-removal causality, and the ten-person roster is not physically staged. See F-001 and F-002."
+    },
+    {
+      "gate": "PROHIBITED OUTCOMES",
+      "state": "PASS",
+      "evidence": "Case-insensitive searches found no Architect, Court, Halcenvane, Velmere, Wray, Bracken, 'upside down', or 'four hundred years'. The watch remain hooded and unnamed; nobody is killed, tortured, pursued, or described with gore. No one reaches or names the Court, equates Arbiter with apparatus, equates the still place with the Quiet, or receives the reserved 'first one' feeling. The file ends on the required log, not dialogue or image."
+    },
+    {
+      "gate": "PLANTS AND PAYOFFS",
+      "state": "PASS",
+      "evidence": "The cordon is crossed after B7 ch23's refusal; Ch12's declaration discipline is used; Ch17's Force mechanism and wrist price are paid at closer range. The thirteenth 'listened' for something to push against (line 139), the watch expected a crew because someone had a sheet (lines 7 and 21), the oldest site remains ahead (line 145), and Oryn's expenditure on the broad man is explicit (lines 117–119). The exact completion-report link stays inferential; recorded under concerns rather than manufactured into a defect."
+    },
+    {
+      "gate": "CAUSAL LEGIBILITY / EARNED RESOLUTION",
+      "state": "FAIL",
+      "evidence": "Lines 103–105 say the watch safely withdraws east along the shelf, then claim its only safe retreat was the Quiet line. Because the watch is never herded toward that line and retains the eastward route it uses, the written win-sentence does not follow from the staged action. See F-001."
+    },
+    {
+      "gate": "COMBAT §4.1 / unified gates 9 and 16 — drawable geography and terrain use",
+      "state": "FAIL",
+      "evidence": "The shelf, sink, barricade, iron and Quiet boundary are sharply drawable at the crest (line 31), and at least three beats are terrain-caused: the cart-width approach nullifies numbers, the barricade gives Force a brace, and loose stone causes the fall. But line 47 places only seven fighters on the shelf, Seln elsewhere, and Karis plus the young one on the crest; lines 53 and 73 then assert ten on the approach without moving the missing three. The decisive line's orientation also does not account for the watch's eastward exit. See F-001 and F-002."
+    },
+    {
+      "gate": "COMBAT §4.2 — exchanges change state",
+      "state": "PASS",
+      "evidence": "Four distinct exchanges are legible in intent and result: bolts prove the post owns the ground (lines 49–53); Force removes the barricade and produces the thirteenth (lines 55–69); the Quiet crossing tests nerve (lines 73–105); the watch breaks and the fall is discovered and treated (lines 103–121). The third exchange's causal geometry fails separately under F-001."
+    },
+    {
+      "gate": "COMBAT §4.4 — winner removes the loser's option",
+      "state": "FAIL",
+      "evidence": "A sentence in the required form appears at line 105, but it is not supported by the preceding action: the watch withdraws east along the shelf rather than being forced toward or across the Quiet line. Literal presence of the formula does not satisfy the option-removal gate. See F-001."
+    },
+    {
+      "gate": "COMBAT §4.3 / §6.2 — cost accounting and injury persistence",
+      "state": "FAIL",
+      "evidence": "Teague's wrist-to-elbow-to-shoulder recoil, Oryn's depleted current, the broad man's worsened limp, Vastin's stick and knee, Karis's bound hand, Lira's restored two arms, and Cael's listening integration all persist. Brom invokes Iron twice under bolts (lines 51 and 57) without any named or shown bill after the fight; the final injury log omits him. The post-fall movement also leaves unclear whether the broad man is made to walk on a leg that 'will bear in three days. Not before.' See F-002 and F-004."
+    },
+    {
+      "gate": "PROGRESSION MODULE — advancement cause, delta, cost and prior establishment",
+      "state": "PASS",
+      "evidence": "Cael begins with twelve, watches Teague's already-established Ch17 Force use for the whole close-range exchange (lines 57–65), receives a full Force-adjacent notice naming source, partial integration, Bronze source, mechanism, range, limits, recoil, field, unknown tier and no deployment (line 67), then records thirteen and the correct thirteen-item inventory (lines 143–145). Teague's bodily cost is visible immediately and the fragment's integration cost is that it listens and wants use (line 139)."
+    },
+    {
+      "gate": "SYSTEM TEXT — ownership, format and audio survival",
+      "state": "PASS",
+      "evidence": "The notice is anchored to Cael's deliberate close observation within two sentences (lines 63–67), follows the established irregular prose-register used by the eleventh and twelfth, and is speakable without reading punctuation or layout. No Arbiter dialogue is introduced."
+    },
+    {
+      "gate": "FRAGMENT INVENTORY AND INJURY RECONCILIATION",
+      "state": "FAIL",
+      "evidence": "Fragment reconciliation passes exactly: twelve entering, Force as thirteenth, thirteen named in the fixed order. Entering injuries also match the prior snapshot: Teague's wrist wrapped; Vastin on day 20–25 of the stick; Karis's hand bound; Brom's other shoulder still bound; Lira two-armed; the broad man's limp; Cael's ribs quiet. The failures are localized to Brom's two unbilled Iron impacts and the impossible/ambiguous noon party count around the broad man's new non-weight-bearing leg. See F-002 and F-004."
+    },
+    {
+      "gate": "VOICE CHARTER §3 / §7 — Cael voice, emotional movement, character conduct",
+      "state": "PASS",
+      "evidence": "The cataloguing narrator governs the leg, tactical drawing, seconds inside the line, injuries, site and log. Emotion moves through procedures and choices: Oryn walks past her route, Cael refuses to use fragments on people, Teague does not abandon the live tactical line while Oryn is already moving, and mercy is expressed by no deaths and no pursuit. Dialogue remains dry and speaker-specific."
+    },
+    {
+      "gate": "WORLD DISCIPLINE — mechanism, use, limits and approved nouns",
+      "state": "PASS",
+      "evidence": "Worldbuilding is done through mechanism and use: scale dates the old cordon, the post's fire and seating reveal its deployment assumptions, rank determines likely watch tier, the barricade makes Force useful, the Quiet line changes behavior, Tide healing spends current, and the fused Span carries the bearing and carvings. Sunken Span and its described post are planning-approved; no unapproved named person or Compact term is minted."
+    },
+    {
+      "gate": "VOICE CHARTER §8.1 / NAME REGISTRY — aural distinctness",
+      "state": "PASS",
+      "evidence": "By-ear check of every proper name in the manuscript: Cael, Karis, Oryn, Seln, Teague, Brom, Lira, Vastin and Hesk are existing registered names and remain distinguishable at speed (KAYL/KAR-iss, OR-in/SELL-in/TEEG/BROM/LEER-a/VAS-tin/HESK). Sunken Span is the approved descriptive site name and is distinct from Fallow Ring, Long Stair, Drowned Hall and the reserved Court. Path labels and titles are registry-exempt. No reserved or rename-slated name appears."
+    },
+    {
+      "gate": "VOICE CHARTER §8.2–§8.3 — typography-independent audio",
+      "state": "PASS",
+      "evidence": "Italics mark dates, emphasis, the notice and log, but the words retain their meaning when formatting is stripped. The fragment notice reads as connected prose rather than a symbol-dependent stat block."
+    },
+    {
+      "gate": "VOICE CHARTER §8.4 — terminal metadata grep",
+      "state": "PASS",
+      "evidence": "grep -n 'End of Chapter|approximately.*words|word count|DRAFT|TODO' v3-runs/book-08/drafts/ch19.md returned zero lines."
+    },
+    {
+      "gate": "VOICE CHARTER §8.5 — dialogue attribution",
+      "state": "PASS",
+      "evidence": "Manual audit of every quoted line in the four-speaker crest scene and the later multi-party exchanges found a longest unattributed run of two lines (lines 35 and 37), below the maximum of four. Speaker turns remain recoverable in audio."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — measured tic counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive counts over ch19.md: 'jaw tightened' 0; 'laughed once' 0; 'without humor' 0; 'stomach tightened' 0; 'stomach dropped' 0; 'There it was' 0; 'That was true' 0; 'Also true' 0; 'sounded almost' 0; 'held this' 0; standalone '[Name] noticed.' 0; 'which was, in its own way' 0. One-word paragraphs = 1 ('No.', line 35; cap 2). Raw 'the way' hits = 1 (line 31, 'by the way one of the seven stood'); qualifying 'the way [pronoun/name] [verb]' simile-engine hits = 0 (packet cap 4). 'upside down' 0; 'for the length of a breath' 0; 'at the pitch' 0; 'four hundred years' 0. The author report's claim of two 'the_way_x_verb' instances is not reproduced by the draft."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — scene-closer variety",
+      "state": "PASS",
+      "evidence": "The supplied previous chapter closes on an observed departure image; ch19 closes on the fixed Power Log. Image -> text/log is a different structural move, matching the planned closer sequence."
+    },
+    {
+      "gate": "VOICE CHARTER §10 — scene vs summary and density",
+      "state": "PASS",
+      "evidence": "The five-day travel is permissible compression; every major beat at the post, fight, fall, healing, site entry and bearing confirmation occurs in scene. The banned-summary grep ('heard about it later|learned afterward|was told later|found out later|by the time he heard') returned zero. wc -w = 5,075 including the heading (5,070 excluding it), inside the 3,910–5,290 band."
+    },
+    {
+      "gate": "POV INTEGRITY",
+      "state": "PASS",
+      "evidence": "All knowledge is observed by Cael or explicitly inferred from bodies, equipment, terrain and precedent. Other interiors are marked as his readings ('Cael thought', line 91) or withheld. The one retroactive fall is limited to what he heard while looking elsewhere (lines 107–109)."
+    },
+    {
+      "gate": "READER STANDARD — Gate 27",
+      "state": "PASS",
+      "evidence": "Banned-word/modern-register grep (damn|hell|god|lord|christ|curse|bloody|blast|devil|bastard|okay|literally|basically|gonna) returned zero. There is no sexual content. Violence is non-gory, medically and tactically consequential, and explicitly restrained; the watch are treated as people on a posting, the crew refuses death and pursuit, and nobody admires cruelty. The author report also explicitly attests this check."
+    },
+    {
+      "gate": "ANTI-PASTICHE",
+      "state": "PASS",
+      "evidence": "No passage resembles an identifiable protected authorial expression. The counting, filing, long syntactic accumulation and plain log are continuous with this series' own established cataloguing register."
+    },
+    {
+      "gate": "UNIFIED GATES NOT TRIGGERED — tournament, training, comedy, rank advancement, per-arc bookkeeping",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no tournament round, ladder duel, training gain, rank change, comedy-under-stakes beat, thread closure of a mismatched type, or per-book revision-pass decision in this chapter. Rival motion is nevertheless present through Teague's field command and Force demonstration."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B8-CH19-001",
+      "status": "PROPOSED",
+      "severity": "BLOCKER",
+      "category": "combat causality — assigned turn and win mechanism",
+      "gate": "Reader-trust invariant 2 / charter §4.4 / unified gate 4",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch19.md",
+        "line_start": 103,
+        "line_end": 103,
+        "quote": "The watch went east. Along the shelf, past the fire, in order, with the crossbows last and spanned and the empty-handed man last of all, walking backward the length of the hut before he turned"
+      },
+      "comparison_evidence": {
+        "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+        "line_start": 326,
+        "line_end": 326,
+        "quote": "the crews *herding the watch toward the line* — the watch will not step into ground where their own Paths die, and the crews who have walked into quiet ground three times and come out `[B7-OK]` will, briefly, which gives them a wall the watch cannot cross"
+      },
+      "consequence": "The scene says the watch has only one safe retreat, the Quiet line, but stages a different safe retreat and has the watch take it: east along the shelf. The crews never herd the watch toward the boundary; they step sideways off the approach into quiet ground while the watch keeps the shelf. That leaves the watch's ability to hold the approach intact, so its decision to abandon the post is not caused by the tactic and the required sentence at line 105 is an assertion about a fight other than the one on the page. Because this is the combat-primary chapter's assigned turn and resolution, the scene cannot safely advance on the current causality.",
+      "repair_target": "Lines 73–105 — restage the third exchange's positions and movement so the crews actually narrow the watch toward the Quiet boundary, the boundary becomes the watch's only remaining safe route/option, and the watch's break follows from losing the approach. Preserve the explicit fairness paragraph, the eleven-second nerve price, no declarations, no pursuit, and the watch's humane treatment.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH19-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity — roster count and injury persistence",
+      "gate": "Reader-trust invariant 3 / charter §4.1 / decisions ruling 24",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch19.md",
+        "line_start": 125,
+        "line_end": 125,
+        "quote": "They went in at noon. Ten, and the healer of no Path, and Oryn, and Karis with the case, and the young one with the box; and the mule stayed at the hut with the fire, because a mule does not care about iron and would not have gone over it for anyone."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+        "line_start": 36,
+        "line_end": 36,
+        "quote": "ten = the crew's six (Karis included — a wall counts who walks a site, not who swings) + Teague's four (Teague and three). Healers are not on the count. Ch19's crossing by count must show the same ten (Karis crosses; the young one stays with the healers? — NO: the young one is on the count; the healers and the mule stay)."
+      },
+      "consequence": "Karis and the young one are already two of the ruled ten, so 'Ten, and ... Karis ... and the young one' counts fourteen people in a twelve-person party. The same roster also breaks during the fight: line 47 puts only seven fighters on the shelf, Seln off it, and Karis plus the young one on the crest; line 53 calls all ten advancing, line 69 still leaves the young one on the crest, and line 73 has ten through the barricade without moving the missing three. Finally, the broad man belongs to the ruled ten but line 117 says his leg cannot bear for three days, so the noon count makes it unclear whether he is forced to walk on it or has been silently replaced. A listener cannot reconstruct who crosses, fights, falls, stays, or enters the site.",
+      "repair_target": "Lines 47–73, 81–93 and 125 — stage the movement of all ten named-by-role participants, explicitly include Karis and the young one in the wall count, keep both healers and the mule off that count, and state who remains with the broad man after Oryn rules the leg non-weight-bearing. Reconcile every subsequent site-entry number to twelve total people.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH19-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity — route timing",
+      "gate": "Reader-trust invariant 3 / authority ladder (closed B7 prose over current draft)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch19.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "*Three hundred and second.* The Hall's marsh; the stone at its edge where he had read himself twice by a fire in the autumn; past it, on the bearing, into ground none of the six had walked and Teague's four had walked once, in the autumn, carrying a healer to a rival's shoulder. *Three hundred and third.* The crest."
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-23.md",
+        "line_start": 15,
+        "line_end": 15,
+        "quote": "sits on it. Three days, or near it. On the line, near enough, and near enough is what the carter drew, and I'll know when I've paced it."
+      },
+      "consequence": "The dated log now places the fourth site's crest one day after the Hall, while the closed prior book gives that same leg as three days or near it and then dramatizes a first night, a second-morning fork, and another day and a half. The Book 8 architecture repeats 'B7: Hall→fourth three days.' This chapter's overall five-day Millrace-to-crest obligation can still stand, but its internal date placement contradicts the established road the reader has already walked.",
+      "repair_target": "Line 5's internal itinerary — keep departure on the 299th and the crest on the 303rd, but date the Hall passage early enough to preserve the established approximately three-day Hall-to-fourth leg; reconcile the Stair and Oryn-route entries around it without expanding the permitted travel summary into a new scene.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH19-004",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "combat cost — unbilled Path use",
+      "gate": "Voice charter §6.2 / §4.3",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch19.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "Brom, at Teague's right hand now and half a pace ahead, took one on the forearm as a man takes a thing he has decided to take"
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 204,
+        "line_end": 208,
+        "quote": "**6.2 — Every rule visibly costs.** Magic, rank, and institutional privilege all price in: access, fatigue, money, standing, time. Check: any use of Path ability in a scene must name or show its cost at least once per chapter per ability (breath, strain, depletion, attention budget — the drafted books' existing vocabulary)."
+      },
+      "consequence": "Brom hardens for one bolt at line 51 and physically takes another at line 57, but lines 69–145 never name strain, bruising, reserve, altered movement, or another bill from those uses. The fixed injury log records the broad man, Teague and Oryn but not Brom. The author report calls the result a bruise, which confirms the intended cost but cannot supply evidence missing from the manuscript. This also weakens the required carry of Brom's already-bound opposite shoulder: the reader gets the impact but no post-fight state.",
+      "repair_target": "The immediate aftermath or the pre-fixed injury log at line 143 — show and carry one concrete bill from Brom's two Iron uses/bolt impacts while keeping the existing bound shoulder distinct. Do not alter the fixed final log paragraph at line 145.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "TASTE — The exact completion-report mechanism remains one inference short of explicit. Lines 7 and 21 establish that someone with a sheet knew the route and told the post to expect six, which may be enough for a close reader; the card specifically says the watch was routed after the completion report. I would preserve the obliqueness unless the next chapter depends on readers naming that paper trail before its records scene.",
+    "TASTE — The narration sometimes explains a successful effect immediately after landing it ('a fight is drawn before it is fought'; 'a fight that can be said in one sentence is a fight that was won by a decision'). This is native to Cael's filing voice and not a tic-cap violation, but the causal repair should avoid adding more self-commentary around the turn.",
+    "SET-PIECE ANSWER — The barricade exchange is memorable: the cart-width shelf makes the brace unavoidable, the heel-to-palm frame makes Force visual, and the recoil climbs wrist to elbow to shoulder. The larger fight is not yet fully successful as choreography because the decisive terrain logic does not support the written win; F-001 is a contract defect, not merely taste.",
+    "The chapter is 5,070 body words, 220 below the 5,290 ceiling. Structural repair has room, but added staging should replace contradictory count/route clauses rather than accrete explanation."
+  ],
+  "strengths": [
+    "WORLDBUILDING ANSWER — Yes: the chapter reveals the world through mechanism and use. Rust scale distinguishes old cordon from seasonal hut; fire seating exposes the watch's expected six; low tier is inferred from posting economics; the Quiet boundary changes courage and tactics; Tide healing spends the healer; carvings sit where a person under the Span would use them. There is almost no detachable lore paragraph.",
+    "The close-range Force acquisition is the chapter's best passage. Lines 57–69 reprise Ch17's planted feet, frame, contact, body's-length limit and wrist recoil, then escalate the price to elbow and shoulder. Cael is beside Teague for the whole exchange, so the thirteenth is earned rather than bestowed.",
+    "The fight's ethical frame is unusually clean without becoming soft: 'They're seven people on a posting'; 'Nobody declares. Nobody dies'; the watch's decision is called right; nobody pursues. Violence has medical and tactical consequence without gore, and mercy reads as competence.",
+    "The fairness paragraph at lines 77–97 protects the Quiet tactic from becoming a hidden superpower. Brom, Lira, Vastin and Teague each lose the named thing their Path supplies; the only advantage claimed is three prior crossings and the willingness to pay eleven seconds as bodies and steel.",
+    "Oryn's treatment scene preserves her independent competence and cost. The broad man's worsened limp, her quarter-hour depletion, the other healer's nod, and her refusal to let Teague hide behind 'Contract' all change relationships while staying in procedural language.",
+    "The Span reveal is disciplined: arch, piers, sink, inner-face carvings and bearing are discovered by walking and measuring; nothing new happens to Cael at the center; the reserved first-site feeling and every later reveal remain sealed.",
+    "The fixed closing log is verbatim, audio-legible, and performs several jobs at once: correct thirteen-item inventory, accelerated acquisition trend, Compact-knowledge payoff, oldest-last direction, and desire for the next site. It follows ch18's image closer with a distinct text/log beat."
+  ]
+}
