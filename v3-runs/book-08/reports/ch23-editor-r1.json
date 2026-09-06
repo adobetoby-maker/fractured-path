@@ -1,0 +1,239 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch23-r1-editor",
+  "scene_id": "b8-ch23",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "AUTHORITY — canon / timeline / frozen state",
+      "state": "FAIL",
+      "evidence": "The 307th, eleven and a mule, cash 123, Cael at nineteen with thirteen fragments plus the uncounted still place, and the approach from the Chapter 22 camp all match the packet and frozen state. The Court's ordinal does not: lines 57 and 63 make it the sixth site, while the architecture and running state establish four earlier sites and the Court as the fifth; see F-B8-CH23-001."
+    },
+    {
+      "gate": "PACKET OBLIGATIONS — must_include / scene turn / outcome",
+      "state": "FAIL",
+      "evidence": "The half-day approach, worn plain, seamless court, stumps, sharp boundary, larger scale, strata finding, copied notation, ended bearing, dated interior log, six reactions, grief, Cael's crossing, fixed narration, fixed dialogue, 'Wait here,' and final 'alone.' are present. The perimeter count does not support the stated diameter (F-B8-CH23-002), the beginning is described past the allowed boundary (F-B8-CH23-003), and Teague's required other-hand/Force-loss test is absent (F-B8-CH23-004)."
+    },
+    {
+      "gate": "PROHIBITED OUTCOMES",
+      "state": "FAIL",
+      "evidence": "Case-insensitive searches returned zero hits for Halcenvane, Velmere, Wray, Bracken, 'upside down', 'four hundred years', 'primordial', 'Architect', 'reset', 'terminal', and 'infrastructure'. No fight occurs; nobody reaches the centre; Teague does not enter; nobody but Cael crosses beyond one stride; Oryn's 'Same as you' receives no spoken answer; the still place is not equated with the Quiet; and the file closes on the fixed dialogue/prose ending. However, line 101 explains and analogizes what begins beyond the packet's permitted 'begin'/'turning toward' limit; see F-B8-CH23-003."
+    },
+    {
+      "gate": "PLANTS, PAYOFFS, AND REVEAL DISCIPLINE",
+      "state": "FAIL",
+      "evidence": "The council-at-a-line, oldest-last, age-by-strata, Ch22 prediction, first-cut, 'Same as you', and prevention-language threads are all present at the assigned altitude. The centre and later Architect revelations remain sealed. The new turning plant is nevertheless over-specified with exclusions and a lodestone model, reducing information reserved for Chapter 24; see F-B8-CH23-003."
+    },
+    {
+      "gate": "CAUSAL LEGIBILITY / EARNED RESOLUTION",
+      "state": "FAIL",
+      "evidence": "Karis's older-cut and underlying-stratum observations causally support her limited finding that this is the first instance, and the prior council, accumulated evidence, ended bearing, and capability asymmetry earn Cael's choice to cross alone. The measurement procedure itself is not causally legible: a twenty-metre cord cannot close a 1,012-metre-diameter circle in twenty-eight lengths; see F-B8-CH23-002."
+    },
+    {
+      "gate": "PROGRESSION MODULE — advancement cause, delta, cost, rivals and setbacks",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new rank, tier, fragment, combination, or training delta occurs. Human-track movement remains visible: Teague metabolizes the prior chapter's death by keeping his remaining crew outside, while Cael converts a book-long stated intention into the restrained choice to cross alone."
+    },
+    {
+      "gate": "FRAGMENT INVENTORY AND INJURY RECONCILIATION",
+      "state": "PASS",
+      "evidence": "The frozen snapshot enters with thirteen confirmed fragments (Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force) plus the uncounted still place. Lines 21, 63, and 101 preserve the count at thirteen and use no unacquired capability. Injury audit against Chapter 21, Chapter 22, and STATE_RUNNING: Cael's ribs remain a line; Brom's forearm remains bound and his other side carries; the broad man's day-three leg bears and limps worse; Vastin uses the stick on day 28; and Karis's hand remains bound. The broad man's shoulder and Teague's wrapped arm are not named, but neither is healed or subjected to an incompatible action. Teague's omitted other-hand Path test is separately an obligation failure under F-B8-CH23-004."
+    },
+    {
+      "gate": "VOICE CHARTER §3 / §7 — Cael voice, emotional movement, character conduct",
+      "state": "PASS",
+      "evidence": "Cael catalogues the approach, eleven-person roster, perimeter procedure, six reactions, costs, and decision. Emotion is carried through stones, a grounded spear, a closed hand, the empty place in Teague's old crew-order, the cord, and what Cael does or declines to enter. Dialogue strategies remain distinct and restrained."
+    },
+    {
+      "gate": "WORLD DISCIPLINE — mechanism, use, limits and approved nouns",
+      "state": "PASS",
+      "evidence": "Worldbuilding is enacted through use: the cord and straightedge establish scale, the sigils locate the boundary, cut depth and strata establish relative age, the map establishes the bearing's terminus, and each profession reads the court through its own practice. The numerical execution of the cord measurement fails separately under F-B8-CH23-002. No unapproved new canon noun or named entity is minted."
+    },
+    {
+      "gate": "VOICE CHARTER §8.1 / NAME REGISTRY — aural distinctness",
+      "state": "PASS",
+      "evidence": "By-ear review covered every personal and place name in the draft: Cael, Karis, Ternhall, Brom, Lira, Seln, Vastin, Oryn, Teague, Denvash, Treswick, Ring, Stair, Hall, and Span. All are existing registered or planning-approved names. Potential fast-read clusters remain distinct: Cael/Karis (KAYL/KAR-iss), Teague/Ternhall/Treswick (TEEG/TERN-hall/TREZ-wick), Seln/Span (SELL-in/SPAN), and Denvash/Vastin (DEN-vash/VAS-tin). 'The court' is used descriptively, not minted as a proper name, and no reserved or rename-slated name appears."
+    },
+    {
+      "gate": "VOICE CHARTER §8.2–§8.3 — typography-independent audio",
+      "state": "PASS",
+      "evidence": "The italicized Power Log entry has an intelligible plain first-person register, and emphasis on 'whole', 'cuts', 'turned', and 'notice' decorates meaning without carrying it alone. There is no System box, symbol-dependent joke, table, or unspeakable status layout."
+    },
+    {
+      "gate": "VOICE CHARTER §8.4 — terminal metadata grep",
+      "state": "PASS",
+      "evidence": "rg -n -i 'End of Chapter|approximately.*words|word count|DRAFT|TODO' v3-runs/book-08/drafts/ch23.md returned zero lines."
+    },
+    {
+      "gate": "VOICE CHARTER §8.5 — dialogue attribution",
+      "state": "PASS",
+      "evidence": "Manual audit of every multi-party passage found no run above four unattributed dialogue lines. The longest run is the final three-line Lira/Cael/Lira exchange (lines 105–109), anchored by line 103 and followed by Cael's attributed reply; all other exchanges are tagged or limited to two lines."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — measured tic counts",
+      "state": "FAIL",
+      "evidence": "Actual case-insensitive Chapter 23 occurrence counts: 'jaw tightened' 0; 'laughed once' 0; 'without humor' 0; 'stomach tightened' 0; 'stomach dropped' 0; 'There it was' 0; 'That was true' 0; 'Also true' 0; 'sounded almost' 0; 'held this' 0; standalone '[Name] noticed.' 0; 'which was, in its own way' 0. One-word paragraphs = 2 ('Deeper.', line 47; 'Yes.', line 107), at cap. 'the way X [verb]' = 1, under the packet cap of 4; 'upside down' 0; 'four hundred years' 0; multiword all-caps phrases 0. Book-so-far Chapter 1–23 counts for the listed §9 book phrases are 'That was true' 2 and 0 for every other listed phrase and standalone noticed. The broader replacement-phrase audit finds 12 instances of 'Nobody [else] said anything' across Chapter 1–23, with the current chapter adding one; see F-B8-CH23-005."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — scene-closer variety",
+      "state": "PASS",
+      "evidence": "Chapter 22 closes on an italicized Power Log entry. Chapter 23 closes on the fixed Lira/Cael dialogue followed by the short crossing narration ending in 'alone.' Log/text -> dialogue/prose is a different structural move."
+    },
+    {
+      "gate": "VOICE CHARTER §10 — scene vs summary and density",
+      "state": "PASS",
+      "evidence": "The banned-summary search ('heard about it later|learned afterward|was told later|found out later|by the time he heard') returned zero. The approach, perimeter pacing, strata finding, six reactions, threshold test, choice, and crossing are dramatized in scene. wc -w = 4,283 including the heading, within the allowed 3,910–5,290 range for a 4,600-word target."
+    },
+    {
+      "gate": "COMBAT / SET-PIECE GATES",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and none occurs, so literal combat geography, exchange tempo, combat cost, and a combat win-sentence are not applicable. The perimeter survey functions as a non-combat procedural set piece and is assessed under strengths; its arithmetic defect is F-B8-CH23-002."
+    },
+    {
+      "gate": "POV INTEGRITY",
+      "state": "PASS",
+      "evidence": "All facts arrive through Cael's observation, prior experience, the instruments, or explicitly limited character findings. Karis confines her conclusion to rock and cuts, Oryn's statement remains unanswered, and Cael treats the turning as uncertain rather than claiming sealed knowledge."
+    },
+    {
+      "gate": "READER STANDARD — Gate 27",
+      "state": "PASS",
+      "evidence": "The banned-word/modern-register search (damn|hell|god|lord|christ|curse|bloody|blast|devil|bastard|okay|literally|basically|gonna) returned zero. There is no sexual content, gore, profanity, crude slang, oath, or modern idiom. Conduct is loyal and restrained: Teague protects his remaining crew, uncertainty is recorded honestly, grief is carried without spectacle, and Cael assumes the risk alone."
+    },
+    {
+      "gate": "ANTI-PASTICHE",
+      "state": "PASS",
+      "evidence": "No passage suggests imitation of identifiable protected expression. Counting, filing, instrument logic, procedural metaphors, accumulative syntax, and dry dialogue remain continuous with the series' documented cataloguing voice."
+    },
+    {
+      "gate": "UNIFIED GATES NOT TRIGGERED — tournament, training, boxes, comedy, per-arc bookkeeping",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no tournament round, ladder duel, training sequence, System/status box, humor-under-stakes turn, rank-bearing public scene, or per-book revision-pass decision in this chapter."
+    }
+  ],
+  "findings": [
+    {
+      "id": "F-B8-CH23-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "continuity — site ordinal",
+      "gate": "Reader-trust invariant 3 / authority ladder (arc and frozen state)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch23.md",
+        "line_start": 57,
+        "line_end": 63,
+        "quote": "The line ran from the west, through five circles, to this one, and through it, to the middle — and stopped. She laid the edge past the middle and there was nothing on the far side of the sixth circle for it to touch: no seventh; no distance on any sheet; nothing in the index; nothing on the plain, which went on east, level, worn, empty, to a horizon that had nothing on it. Oldest-last. The end of the line.\n\n*Three hundred and seventh day. The court — the sixth, and the last; the end of the line. A thousand and twelve across by the cord; sharp; perfect; oldest by the strata; the marks the first cut. Eleven and a mule at the line. A hundred and twenty-three in hand. Nineteen. Thirteen. Nothing past it.*"
+      },
+      "comparison_evidence": {
+        "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+        "line_start": 436,
+        "line_end": 436,
+        "quote": "Four Quieting sites on an alignment (Ring, Stair, Hall entered; cordoned fourth at twice the radius, not entered) — Book 8 enters the fourth (Ch19) and locates a fifth, the third-tier Court (Ch23–24)."
+      },
+      "consequence": "The chapter promotes the Court from the established fifth site to a nonexistent sixth and invents an extra prior circle on the bearing. Because the ordinal is repeated in both the evidentiary narration and the dated log, the error corrupts the series' site inventory and the chapter's central claim that the count is honest before Cael crosses.",
+      "repair_target": "Lines 57 and 63 only — reconcile every site/circle ordinal with the established four prior sites and the Court as the fifth, while preserving that it is the last and the bearing ends there.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH23-002",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "causality — perimeter and distance arithmetic",
+      "gate": "Voice charter §3.1 / causal legibility / assigned measurement obligation",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch23.md",
+        "line_start": 43,
+        "line_end": 63,
+        "quote": "And it was larger, and it was older, and she had the first from the cord — \"A thousand and twelve. Across. Call it a thousand\" — and the second from the stumps.\n\nThat was the last thing the pacing found, and it found it at the far side, at the twenty-eighth cord, when the circle was closed and Karis laid the straightedge along the map's line for the last time on this side of anything.\n\n*Three hundred and seventh day. The court — the sixth, and the last; the end of the line. A thousand and twelve across by the cord; sharp; perfect; oldest by the strata; the marks the first cut. Eleven and a mule at the line. A hundred and twenty-three in hand. Nineteen. Thirteen. Nothing past it.*"
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-10.md",
+        "line_start": 7,
+        "line_end": 55,
+        "quote": "\"Twenty meters,\" she said, to him, because he was the one looking. \"Knotted at the fives. I checked it against the rule at Lowmarch.\"\n\n\"Sixty-two cords and twenty strides,\" she said. \"Twelve hundred and fifty-six meters, and a piece.\"\n\n\"A circle whose edge is two hundred meters from its middle goes round in twelve hundred and fifty-seven, near enough. I make it twelve hundred and fifty-six and a piece, with a stride's slop in the piece.\""
+      },
+      "consequence": "The established cord is twenty metres. Twenty-eight cords therefore pace only 560 metres of circumference, while a circle 1,012 metres across requires roughly 3,179 metres, or about 159 cords. The same spatial scale also makes the centre roughly 506 metres from the boundary, contradicting the manuscript's two descriptions of it as 'a stone's throw off' (lines 29 and 111). The chapter's proof-of-size set piece fails on the very arithmetic Cael and Karis treat as authoritative.",
+      "repair_target": "The perimeter count in line 57 and the centre-distance language in lines 29 and 111 — make both consistent with the retained 1,012-metre diameter and the established twenty-metre cord, without changing the fixed closing dialogue/prose.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH23-003",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "reveal discipline — prohibited explanation",
+      "gate": "Packet prohibited outcomes / invention budget",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch23.md",
+        "line_start": 101,
+        "line_end": 101,
+        "quote": "It did not hurt. It did not flow. It was not a thing the tenth could have read or the twelfth, because it was not a reading; it was the thing before a reading, the thing a needle does when it has been lying still on a table and a lodestone comes into the room. He held the straightedge and did not move and did not enter it, because it had not finished beginning, and a cataloguer does not enter a thing that has not finished."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch23-editor-prompt-r1.md",
+        "line_start": 461,
+        "line_end": 461,
+        "quote": "CAEL at the line: the thing he predicted BEGINS — not the fragments persisting (B7's) but something under it, in the ribs and under the ribs, at the still place, a — do NOT describe it beyond 'begin'; 'a thing turning toward him, or him toward it'; save the centre."
+      },
+      "consequence": "After delivering the allowed turning, the manuscript defines the phenomenon by exclusions, places it outside both the tenth and twelfth fragments' readings, calls it 'the thing before a reading,' and supplies a lodestone mechanism-image. This exceeds the approval boundary and partially explains a plant whose confirmation and meaning are reserved for Chapter 24.",
+      "repair_target": "Line 101 after 'Toward him, or him toward it' — retain only the permitted beginning/turning and Cael's uncertainty, removing mechanism, diagnostic exclusions, and explanatory analogy beyond that boundary.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH23-004",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "packet obligation — missing threshold test",
+      "gate": "Assigned obligations / continuity persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch23.md",
+        "line_start": 95,
+        "line_end": 97,
+        "quote": "Teague did not go in.\n\nHe stood a stride back from the line with his three — the tall woman with the spear grounded and lifted, the broad man on his stick with the leg that bore today, the older woman with the cloth bag — and read his people in the old order, face after face, and came to the gap, and went past it, and looked at the floor, and said, at the size he said a term: \"My crew's stood at four of these. It's stood at enough.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch23-editor-prompt-r1.md",
+        "line_start": 480,
+        "line_end": 480,
+        "quote": "Everyone's sigil dark at the line identically (Book-9 plant c, last time); everyone's Path dies; Oryn a stride in and back ('Nothing. Everything, round it. Same as you.' — unanswered); Teague's other hand a hand; Teague's crew's grief carried; Teague does not enter."
+      },
+      "consequence": "A full-manuscript search finds no Force test and no use of Teague's other hand at the boundary. The draft correctly keeps Teague himself outside and carries his crew's grief, but it omits the assigned concrete proof that his Force is gone and the uninjured hand is only a hand; it also leaves his wrapped-arm state unexpressed in an otherwise explicit threshold catalogue.",
+      "repair_target": "Teague's threshold beat at lines 95–97 — add the required other-hand/Force-loss demonstration while preserving that Teague does not enter, his remaining crew stays out, and his fixed sentence remains intact.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH23-005",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "voice — book-level beat-phrase repetition",
+      "gate": "Voice charter §9 anti-tic law",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch23.md",
+        "line_start": 9,
+        "line_end": 9,
+        "quote": "Nobody else said anything, and they went down onto the plain, eleven and a mule, in the order the plain took them, which was any order, because there was nothing on it to draw for."
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 313,
+        "line_end": 317,
+        "quote": "Rule: any somatic/beat phrase appearing more than 3 times per book is a defect — including new phrases invented to replace an old one. Fixing a tic with a fresh repeated phrase is the same defect wearing a different coat; vary the replacement or cut the beat."
+      },
+      "consequence": "A case-insensitive search for 'Nobody (else )?said anything' across the primary Chapter 1–23 draft files returns 12 occurrences; this line is the current chapter's instance. The inserted 'else' does not change the repeated silence beat, and the book-level count is four times the charter cap.",
+      "repair_target": "Line 9 only — preserve the silent departure and eleven-and-a-mule count without another instance of the over-cap 'Nobody [else] said anything' scaffold.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "TASTE — Oryn's required 'Same as you' receives no spoken answer, so the literal prohibition is honored. The following paragraph nevertheless explains the silence at length ('he did not know what she meant ... did not want to, yet'), which softens the intended unanswered shock. This is not a verified breach because no answer or interpretation is supplied, but a later line pass could test whether the silence carries more weight without the after-explanation.",
+    "TASTE — The repeated 'a thing ... is a thing ...', 'as a man ...', and 'he entered' scaffolds belong to Cael's catalogue voice and often work beautifully here, but their density is close to saturation. Preserve the register; only test the explanatory afterbeats that restate an already legible image.",
+    "INJURY CHECK — The broad man's shoulder and Teague's wrapped arm are not named in Chapter 23, though both persist in the frozen state and were carried in Chapter 22. Neither silently heals or performs an impossible action here, so this is not a finding. Any repair to Teague's threshold beat must keep his injured arm idle and use the other hand as the packet specifies."
+  ],
+  "strengths": [
+    "WORLDBUILDING ANSWER — Yes. The worldbuilding is overwhelmingly done through mechanism and use: the plain's erosion is read by boots and hands; the perimeter exists through cord, stride, stone, and sigil; relative age emerges from cut depth and strata; and the bearing ends because map, straightedge, index, and empty ground agree. The arithmetic finding should be repaired precisely because this procedural method is load-bearing and worth protecting.",
+    "SET-PIECE ANSWER — There is no fight by packet design. The perimeter survey is a memorable non-combat set piece with terrain and tools doing causal work. Its win is writable as: Karis removed the Court's ability to pass as another copy by using the deeper cuts and underlying stratum to prove the other sites repeat this one. The six-person threshold catalogue then converts that proof into six distinct human costs.",
+    "The six reactions are sharply individualized without losing the catalogue form: Lira faces the whole scale, Brom prices durability, Karis limits herself to rock, Seln inventories absent exits, Vastin recognizes the first institutional line, and Oryn tests with her hands. These are high-value beats a repair should preserve intact.",
+    "Teague's refusal is morally and emotionally strong. He reads the gap in his crew, keeps the contract's field, and declines to spend the remaining three on Cael's private crossing; grief changes behavior without becoming a speech about grief.",
+    "The chapter earns Cael's choice to cross alone through accumulated evidence rather than bravado. His restraint, the healer's useless hands, the ended bearing, and the prior council all make the final decision causally and morally legible.",
+    "The fixed ending lands. Lira reopens the Ring question, Cael states the book's prevention premise, and 'Wait here' turns a year of collective investigation into a solitary cost without invalidating the crew's work.",
+    "The final beat type correctly varies from the previous chapter: Chapter 22 ends in a Power Log, while Chapter 23 ends in dialogue and crossing narration. The prose also fully preserves the thirteen-year-old reader standard."
+  ]
+}
