@@ -28,7 +28,7 @@ Teague looked at it a while longer. Then he said, to Cael and to nobody: "Drawn?
 
 "Drawn," Cael said, and drew it, because a fight is drawn before it is fought, and because a captain who did not read had asked the one on the crest who did.
 
-The shelf. A cart's width, with the sink on its left hand — a drop of three men's height onto loose stone — and the iron on its right, and a stride beyond the iron the line, where ten of the twelve on this crest would go dark. The post across the shelf. The barricade across the shelf's narrowest place, with the hut behind it and the fire behind that. Seven. Two crossbows. A practitioner among them, by the way one of the seven stood at the barricade's end with his hands empty and his weight set, and low, by the fact that he was here; nobody posted a Silver to a hut. Nobody could go round. There was no round. Sink, or line.
+The shelf. A cart's width, with the sink on its left hand — a drop of three men's height onto loose stone — and the iron on its right, and a stride beyond the iron the line, where ten of the twelve on this crest would go dark. The post across the shelf. The barricade across the shelf's narrowest place, with the hut behind it and the fire behind that. Seven. Two crossbows. A practitioner among them, by the way one stood at the barricade's end with his hands empty and his weight set, and low, because nobody posted a Silver to a hut. Nobody could go round. There was no round. Sink, or line.
 
 "They've the ground," Teague said. "We've the numbers, and numbers don't count on a cart's width."
 
@@ -114,7 +114,7 @@ The crews had removed the watch's ability to hold the approach by making the onl
 
 The broad man went over the sink's edge at the fourth second.
 
-Cael had not seen it; he had been counting, and looking at the watch. He heard it — a foot on the lip, the limp set wrong on loose ground at the shelf's edge where the line had ended at the sink, on a leg that did not walk well — and the man was gone, over, onto the slope three men's height down, and the loose stone went with him, and Teague, on the shelf a stride from him with the wrapped wrist at his side, did not turn round, because his crew was not the thing on the shelf that wanted doing, and the tall woman did not either, and Cael entered that as the hardest thing he had watched a captain do all year, and the most correct.
+Cael had not seen it; he had been counting, and looking at the watch. He heard it — a foot on the lip, the limp set wrong on loose ground at the shelf's edge where the line had ended at the sink, on a leg that did not walk well — and the man was gone, over, onto the slope three men's height down, and the loose stone went with him, and Teague, on the shelf a stride from him with the wrapped wrist at his side, did not turn round, because his crew was not the thing on the shelf that wanted doing, and the tall woman did not either, and Cael entered that as the hardest thing he had watched a captain do, and the most correct.
 
 Oryn was already coming down the path.
 
