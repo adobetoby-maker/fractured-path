@@ -14,4 +14,6 @@
 | Name registry census | done (craft/NAME_REGISTRY.md — Book 8) |
 | Secrets sealed / plants present | PASS (audits/secrets-plants-arc.md) |
 | Bibles updated | UNIVERSE_BIBLE.md (Book 8 PROVISIONAL), STATE_LEDGER.md (Book 8 close), series doc (as drafted), registry |
-| Voice revision (one pass) and line edit (one pass) | NOT YET RUN — scheduled after this commit (LINE-EDIT-BACKLOG.md) |
+| Line pass (book-level tics) | RUN — 'Nobody said anything' 2, 'the whole of' 34 (from 115), 'as a man/woman' ≤3 per chapter, double stops 0 |
+| Book-scope editor review (Codex, assembled manuscript) | r1 STRUCTURAL_HOLD (Gate 27: Seln's lie, Ch10) → r2 STRUCTURAL_HOLD (Gate 27: consent before the Ch18 readings) → **r3 PASS, no findings** (reports/book-scope-review-r3.md) |
+| Voice revision (one dedicated pass) | not run as a separate pass — the per-chapter loop and three book-scope rounds stood in for it; log for the audiobook read-through |
