@@ -335,3 +335,29 @@ Series-level names used in Book 7 and already carried (Cael, Lira, Brom, Karis, 
 Dispositions: no renames required for Book 7. Audiobook read-through list (carried from LINE-EDIT-BACKLOG.md): Feryn/Oryn never in one list run; Oryn/Oxhollow/Ostrand O-onset stacking; Pike/Fiske.
 
 Rename dependency: Book 7 ch09 uses **Bracken** ×6 (Ephram's letter). When Book 4's rename executes, Book 7 ch09 takes the same new name in the same pass. Book 7 otherwise carries none of the rename-slated names (Velmere / Halcenvane / Wray: zero; verified 2026-09-04).
+
+## Book 8 — minted during drafting (2026-09-05)
+
+| Name | Type | Chapters | Screening |
+|---|---|---|---|
+| Treswick | Place — the oldest registry on the Line; tiered city on a bluff over a river; the grey bridge | 1–23 | TRES-wick — no T-onset place with -ick in B1–B7 (Thornwater is TH; Ternhall is TERN-hall, different second syllable); Treswick/Ternhall distinct by ear in a list run — keep them out of one spoken inventory |
+| Cleon | Person — Rune Bronze; the Deepstacks' reader; sixties | 5–24 (on the page 8–17) | KLEE-on — no K/C-hard-onset two-syllable person in B1–B7 (Cael is KAYL, one syllable; Coss is KOSS); Cleon/Cael share an onset consonant — the prose never puts them in one spoken run; audiobook list |
+| The Deepstacks | Place — the quarry archive under Treswick's registry (planning-approved EXC-B8-001) | 1–17 | plain compound |
+| The Sunken Span | Site 4 (Book 7's fourth site, now entered) | 19–24 | plain words |
+| the court | Site 5 — DESCRIPTION, not a name ("the court", "the oldest one") | 20–24 | plain word; Book 9 may name it |
+| the shoulder hold; the cut; the pass; the pinch | Road features (lowercase, descriptive) | 4–5, 12, 17, 19, 21–22 | plain words |
+
+### Book 8 census — names in closed prose (2026-09-05, post-loop C.4)
+
+Series-level names carried (Cael, Lira, Brom, Karis, Seln, Oryn, Hesk, Vastin, Ternhall, Denvash, Ardenmere, Ostrand, Norhold, Feryn as "the Bronze from Ardenmere", Daeva, Reydan, Ephram, Valdris) and Book 7's (Pike, Teague, Lowmarch, Thornwater, Oxhollow, Millrace, the Fallow Ring, the Long Stair, the Drowned Hall, the Quieting, stillhound, shale-back, wold-wyrm) are not re-listed.
+
+| Name | Chapters (span) | By-ear note |
+|---|---|---|
+| Treswick | 15 chapters / 1–23 | screened above |
+| Cleon | 14 / 5–24 | screened above; never in a spoken list with Cael |
+| Deepstacks | 3 / 1–10 | — |
+| Sunken Span / the Span | 6 / 19–24 | Span/Stair both S-onset site names — the prose says "the Stair's bowl" and "the Span" in separate clauses; audiobook list |
+| Millrace | 6 / 1–18 | — |
+| Teague | 10 / 1–24 | — |
+
+Dispositions: no renames required for Book 8. Forbidden/rename-slated names (Halcenvane, Velmere, Wray, Bracken): zero in Book 8 prose (verified by grep 2026-09-05). Audiobook read-through additions: Cleon/Cael onset; Span/Stair; Treswick/Ternhall.
