@@ -36,7 +36,7 @@ She read it aloud once, at the size of a finding.
 
 "*Behaves as device. Cannot be.*"
 
-Nobody answered..
+Nobody answered.
 
 "That's the whole of the remark," Karis said. "Four words. He wrote *behaves as device* and then he wrote *cannot be*, and he didn't cross either out, and he filed it, and nobody in the office wrote anything in that column again for the rest of the file." She looked at the four words for a while. "He saw what we saw. Every sigil, every Path, every person, going out at a line at the same stride and the same instant, the way a hundred lamps go out when — " and she stopped.
 

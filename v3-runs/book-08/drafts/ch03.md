@@ -56,7 +56,7 @@ Vastin took it from inside his coat, not from the flat, because it had never bee
 
 He set it apart. He set it on the table's bare end, past the sixth row, and did not slide it toward Karis, and did not look at Cael, and Cael understood that the setting-apart was part of the order the man had decided on the road: the records were a stack; this was a page; a stack could be sorted and a page could only be read.
 
-"I copied it from a record older than the section it was filed in," Vastin said. "The classified history is not one history. It is an office's habit, kept for a long time, of putting a thing on a shelf it does not want read, and the shelf is older than the office. The oldest things on it are not Compact records at all. They are what the Compact found when it built the office, and did not throw away, because throwing a thing away is a decision and filing it is not. This was on the oldest shelf. It is a reference — a line in a longer record, citing another record that the Compact does not hold — and it is the only line in the whole of the classified history that names a designer."
+"I copied it from a record older than the section it was filed in," Vastin said. "The classified history is not one history. It is an office's habit, kept for a long time, of putting a thing on a shelf it does not want read, and the shelf is older than the office. The oldest things on it are not Compact records at all. They are what the Compact found when it built the office, and did not throw away, because throwing a thing away is a decision and filing it is not. This was on the oldest shelf. It is a reference — a line in a longer record, citing another record that the Compact does not hold — and it is the only line in all the classified history that names a designer."
 
 "Names," Karis said.
 
@@ -72,7 +72,7 @@ She stopped. She read it again, to herself. Then she put the page back where he 
 
 "The Architect," she said.
 
-Nobody said anything.
+Nobody answered it.
 
 "It's a word I have never read in any stratum." She said it as a finding about herself, which was the only kind she would make about that word tonight. "Not in the confiscated record. Not under the Line. Not in anything I copied at three floors. It's a title, not a name — the record says *the*, and a record that says *the* is a record whose readers already knew who it meant. That's all the page says. That's all I'm going to say it says." She looked at Vastin. "Treswick's lower archive. You said Treswick on the landing."
 
@@ -134,7 +134,7 @@ Vastin looked at her. Then he looked at Oryn, across from him, who had not moved
 
 Lira looked at Cael's hand.
 
-It was still on the table. It was still a hand's width from the page. He had not moved it in the whole of the last thing and the whole of the man's leaving, and Lira had watched it not move as she had watched it not move at a table at seventeen with a man in grey across from it, and she looked at it now, and then at him, and did not say anything, and did not need to.
+It was still on the table. It was still a hand's width from the page. He had not moved it in all the last thing and all the man's leaving, and Lira had watched it not move as she had watched it not move at a table at seventeen with a man in grey across from it, and she looked at it now, and then at him, and did not say anything, and did not need to.
 
 "I know," he said.
 

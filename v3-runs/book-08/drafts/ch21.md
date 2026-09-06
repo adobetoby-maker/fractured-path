@@ -70,7 +70,7 @@ Seln was on it.
 
 He was a third of the way up before Cael found him, because a man who has spent fifteen years not being where he is looked for does not become easy to find on a bare slope; he was flat to it, moving when the dust moved and still when it did not, with the cache on his back and nothing in his hands, on the one slope in the pass the team had ruled out because the team had built it to be ruled out, and he was going up it at the speed of a man who has looked at a thing since noon the day before and decided.
 
-The wall was buying him the climb. Cael understood it as he watched: every bolt that came down onto the plane was a bolt that was not looking at the scree; every second Vastin held was a second the shelf spent on the thing in front of it; and Vastin, at the plane's foot, spent past the road and past the cut, was holding the whole of the team's attention on a slant of nothing so that one man could go up a slope behind it, and did not know he was doing it, and would have done it anyway.
+The wall was buying him the climb. Cael understood it as he watched: every bolt that came down onto the plane was a bolt that was not looking at the scree; every second Vastin held was a second the shelf spent on the thing in front of it; and Vastin, at the plane's foot, spent past the road and past the cut, was holding all the team's attention on a slant of nothing so that one man could go up a slope behind it, and did not know he was doing it, and would have done it anyway.
 
 The broad man was hit in the fifth volley.
 
