@@ -1,0 +1,329 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch24-r2-editor",
+  "scene_id": "b8-ch24",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "recheck.ed-b8-ch24-r1-001",
+      "state": "PASS",
+      "evidence": "REPAIRED. The current manuscript establishes consent immediately before the Tide reading: \"she said, \\\"May I?\\\" and he said, \\\"Yes,\\\" and she put two fingers on his wrist and the flat hand on the ribs and went in\" (line 73). The required immediate reading and its physical form survive."
+    },
+    {
+      "gate": "recheck.ed-b8-ch24-r1-002",
+      "state": "PASS",
+      "evidence": "REPAIRED. The pre-closer use of 'pattern' is gone; the revised manuscript reads: \"He stood a while longer, because a thing that has happened once should be given the chance to happen again, and it went on being nothing, steadily, as a level floor goes on being level\" (line 67). Case-insensitive whole-word search finds 'pattern' exactly twice, both in the fixed final paragraph. Four pre-closer uses of ordinary temporal 'before' remain, permitted by EXC-B8-CH24-2."
+    },
+    {
+      "gate": "recheck.ed-b8-ch24-r1-003",
+      "state": "PASS",
+      "evidence": "REPAIRED. The current letter includes the required outward-facing payoff and remains shorter than Hesk's four-line note: \"*Nineteen. Your grandmother's line was already drawn. I followed it to the end; both edges agreed. Tell Lira's family I said so. Mind the shape, you said. I'm minding it. — C.*\" (line 105). It is given to Teague for the west at line 107."
+    },
+    {
+      "gate": "recheck.ed-b8-ch24-r1-004",
+      "state": "PASS",
+      "evidence": "REPAIRED. Vastin is now included without being folded into the five: \"the five, and the man on the stick who walked with them and had not asked to, and the three and the healer and the mule\" (line 93). With Cael giving the count, this accounts for the eleven people and mule while preserving Vastin's unadmitted status."
+    },
+    {
+      "gate": "recheck.ed-b8-ch24-r1-005",
+      "state": "PASS",
+      "evidence": "REPAIRED. The common-tool and intentional-next-fit assertions are removed. The repaired inference stops at the instrument's bounded reading: \"And there was no seam here, because whatever was under his boots and whatever was under his ribs read, to the one instrument that could read them both, as the same kind of thing, and between the same kind of thing and the same kind of thing there is nothing to feel.\" (line 43). It does not name what kind."
+    },
+    {
+      "gate": "recheck.revision_scope_and_strength_preservation",
+      "state": "PASS",
+      "evidence": "A full diff of the pre-repair manuscript embedded in ch24-editor-prompt-r1.md against drafts/ch24.md shows eight sentence substitutions only: two temporal 'before' edits plus the line-67 sealed-word edit for r1-002; the line-43 bounded-inference repair for r1-005; the line-73 consent repair for r1-001; the line-93 headcount repair for r1-004; the line-105 letter repair for r1-003; and the line-131 correction to five circles under EXC-B8-CH24-1. No unrelated passage changed. Every recorded R1 strength survives: the measured crossing, mechanism-through-use, the staged absence, the three spoken revisions, independent partings, and the fixed retrospective closer."
+    },
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The 307th dusk to 308th dawn, Cael's age nineteen, cash 123, thirteen fragments, 506-stride radius, consent covenant, party departures, and injury states reconcile. The remaining failure is line 93: \"Karis wrote the strides down and drew the sixth circle's centre on the map from them\" contradicts Chapter 23's established fifth and last circle and Chapter 24 line 131's corrected \"five circles ... nothing past the fifth\" (ed-b8-ch24-r2-001)."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The chapter stays in Cael's close third. Other minds are presented through his inference, speech, posture, tools, and procedure; no sealed identity word, Architect agency, or private knowledge is stated as narrator fact."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "PASS",
+      "evidence": "The manuscript includes the 506-stride crossing, the hundred-stride floor reading, the eye cost, nothing at the centre, the no-edge understanding, all three spoken revisions, belonging, return reading with consent, secrecy, the thirteen-name log, Hesk's required family message, Teague west, Oryn north, Vastin unadmitted, Seln's count, and the fixed final paragraph."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Search returns 0 for recurrence, primordial, source, Halcenvane, Velmere, Wray, Bracken, upside down, Architect will/presence/reset language, and still-place-equals-Quiet language. 'Pattern' occurs only twice in the fixed closer. The court receives no proper name, Cael tells nobody what the centre felt like, and the file ends on the fixed prose sentence \"That was as far as he could say.\""
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "The twelfth's made-structure domain, bearer/borne grammar, and eye cost were taught earlier and are restated before use. The current line 43 limits the conclusion to the floor and inner structure reading as the same kind to that instrument, making the no-edge experience causal without asserting maker, source, or intentional fit."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "FAIL",
+      "evidence": "Possessions, wounds, party membership, dates, cash, and fragment count otherwise persist. The map state does not: line 93 calls the Court's centre the sixth circle, while Chapter 23 lines 57 and 63 establish it as the fifth and last and current line 131 says the map has five circles (ed-b8-ch24-r2-001)."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "Cael moves from predicted instrument test to an embodied experience of fit, revises his record without overclaiming, withholds what is not ready to be said, closes the year's ledger, and leaves each road relationship in a changed state."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose uses the series' own cataloguing, procedural, object-weighted register and contains no named influence or recognizable borrowed expression."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. The Court is disclosed through cord division, stride count, worn seamless stone, Rune rows and lean, loss of sight, boundary behavior, healer contact, documents, boxes, route choices, and the mule. Worldbuilding is performed by instruments and use, not a dossier."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new named entity or capability is minted. The repaired explanation remains at \"the same kind of thing\" to one instrument; 'Not the Quiet' and 'Not a fragment' stand; the forbidden identity word and Architect agency remain withheld."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Voice Charter §8.5 was checked scene by scene. The return exchange re-anchors Oryn, Cael, and Lira before drift; Teague's and Oryn's dawn exchanges are separate two-speaker runs; the final exchange names Cael and Brom. No 3+ speaker scene contains more than four unattributed lines; the longest run is one. Italics add emphasis, but every log, letter, and finding remains intelligible aloud."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every personal and place name in the manuscript was checked by ear against craft/NAME_REGISTRY.md and the Book 8 architecture approval: Cael, Cleon, Denvash, Karis, Lira, Oryn, Teague, Hesk, Brom, Seln, Vastin, Span, Stair, and Ring. All are established or planning-approved; no reserved name appears. KAYL/CLEE-on remain distinguishable but deserve narrator attention."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "Voice Charter §8.4 grep over ch24.md for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The §10 summary-substitution grep returns 0. wc -w returns 3,986, within the 3,910-5,290 tolerance for a 4,600-word target."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 24 / Book 8 Chapters 1-24 §9 counts: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/0; That was true 0/2; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Chapter 24 has 2 one-word paragraphs (\"Nothing.\" twice), 0 'the way X [verb]' constructions, 0 upside down, 0 capped-uppercase phrases, and 1 'four hundred years' occurrence in the fixed closer. Modern-register, feeling-declaration, growth-declaration, metadata, summary-substitution, and Reader Standard banned-word greps return 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 23 closes on a dialogue-led threshold beat: \"Wait here,\" followed by Cael walking in alone. Chapter 24 closes on the fixed retrospective prose paragraph. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "The fragment inventory matches the state snapshot and previous chapter exactly: Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force; thirteen total; the still place remains an uncounted anomaly. Against STATE_RUNNING and Chapters 22-23: Cael's ribs continue to speak and the Rune cost takes his eyes; Brom's forearm is bound; Teague uses the good hand; the broad man remains on the leg that bears; Karis's hand is bound; Vastin is on the stick at day 29; Lira has two arms. The broad man's shoulder is not mentioned, but he performs no incompatible action and it was explicitly carried in Chapter 22, so omission alone does not prove silent healing."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tier, rank, fragment, or capability advancement occurs; the scene applies and interprets the established twelfth fragment."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The Rune reading costs Cael his sight, and he walks the remaining distance half-blind while it returns. The thirteenth's prior recoil remains present in his ribs."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measurement",
+      "state": "PASS",
+      "evidence": "The gain is epistemic, moral, and relational: Cael experiences belonging, refuses to overstate the finding, answers Hesk, receives Lira's restraint, and leaves Teague, Oryn, and Vastin with changed contracts and routes."
+    },
+    {
+      "gate": "progression.4_no_unestablished_major_victory_capability",
+      "state": "PASS",
+      "evidence": "The Rune mechanism, made-things limit, structural grammar, and eye cost were established before the floor reading; no new capability supplies escape or victory."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_keep_moving",
+      "state": "PASS",
+      "evidence": "Teague keeps independent captaincy, grief, injury state, and the westward choice; Vastin remains deliberately unadmitted rather than being absorbed for Cael's convenience."
+    },
+    {
+      "gate": "progression.6_repeated_challenge_variety",
+      "state": "PASS",
+      "evidence": "Chapter 23's perimeter survey becomes a solitary distance, vision, interpretation, honesty, secrecy, and parting problem. The Rune sense is applied outward to the floor rather than repeating the prior inward reading."
+    },
+    {
+      "gate": "progression.7_setback_metabolized",
+      "state": "PASS",
+      "evidence": "The pass death remains active through Teague's missing fourth, the crew's spacing, the westward turn, and the altered spring contract; wonder does not erase grief or cost."
+    },
+    {
+      "gate": "THE_AUTHOR.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The twelfth's unfocused gaze, lean, bearer/borne structure, made-object domain, and eye cost are all taught before the floor reading resolves the immediate inquiry."
+    },
+    {
+      "gate": "THE_AUTHOR.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Rune reads made structure rather than meaning and costs the eyes; Tide reports current and absence rather than identity. Neither yields the withheld word."
+    },
+    {
+      "gate": "THE_AUTHOR.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named element appears. The chapter extends established fragments, site mechanics, instruments, documents, routes, injuries, and relationships."
+    },
+    {
+      "gate": "THE_AUTHOR.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "The opening promises an exact crossing and measurement; the chapter pays it through the floor reading, centre experience, return finding, ledger, letter, partings, and closing understanding."
+    },
+    {
+      "gate": "THE_AUTHOR.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The same-reading payoff is planted by the Rune demonstrations and Chapter 22's inward reading; the repaired passage no longer adds an unplanted common-tool or intentional-fit origin claim."
+    },
+    {
+      "gate": "THE_AUTHOR.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The Court inquiry receives its bounded answer; Cael's identity inquiry remains open; the exclusion/prevention character thread closes in belonging; Teague, Oryn, and Vastin remain open at the intended seam."
+    },
+    {
+      "gate": "THE_AUTHOR.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Interpretation remains grounded in floor, stumps, shadow, strides, eye smear, warmth, draught, ribs, hands, maps, paper, boxes, and mule. No worldbuilding passage over 150 words reaches a 2:1 expository-to-sensory ratio."
+    },
+    {
+      "gate": "THE_AUTHOR.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This per-book revision-log gate cannot be adjudicated as a Chapter 24 manuscript defect; the targeted R2 repair itself is separately audited above."
+    },
+    {
+      "gate": "THE_AUTHOR.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The non-combat set piece is nevertheless drawable: 1,012 strides across, 506 to centre, stumps at the rim, eleven outside, the hundred-stride reading point, and a counted return."
+    },
+    {
+      "gate": "THE_AUTHOR.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. The set piece still uses cadence contrast at \"A hundred,\" \"Nothing,\" \"There was no edge,\" and the three spoken revisions."
+    },
+    {
+      "gate": "THE_AUTHOR.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There are no combatant action profiles to test. Dialogue strategies remain distinct: Oryn gives findings and terms, Lira presses obliquely, Teague contracts, Seln counts, and Brom answers physically."
+    },
+    {
+      "gate": "THE_AUTHOR.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No blow or fight occurs. The crossing's epistemic and physical stakes are established before Cael turns the twelfth."
+    },
+    {
+      "gate": "THE_AUTHOR.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every action is compatible with the open injuries: Cael's ribs, Brom's bound forearm, Teague's injured arm, the broad man's leg and shoulder, Karis's bound hand, and Vastin's knee/stick. Nothing declares or demonstrates a silent healing."
+    },
+    {
+      "gate": "THE_AUTHOR.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "THE_AUTHOR.15_compression_scope",
+      "state": "PASS",
+      "evidence": "All architecture-major beats occur in scene: crossing, Rune reading, centre turn, consented return reading, secrecy, ledger, letter, contract, route departure, ally seam, and final count. Only uneventful travel is compressed."
+    },
+    {
+      "gate": "THE_AUTHOR.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat scene occurs. As a non-combat set piece, the Court's size, seamless floor, absent mark, stumps, light, and distance mechanically cause the counting, Rune use, sight loss, isolation, and return."
+    },
+    {
+      "gate": "THE_AUTHOR.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement delta occurs. The epistemic gain is legible and its Rune cost is shown."
+    },
+    {
+      "gate": "THE_AUTHOR.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no tournament round or ladder duel."
+    },
+    {
+      "gate": "THE_AUTHOR.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no fight or numerical opponent."
+    },
+    {
+      "gate": "THE_AUTHOR.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague's crew leaves under its own captain's decision, carrying its grief, injuries, contract, and future schedule."
+    },
+    {
+      "gate": "THE_AUTHOR.21_social_echo",
+      "state": "PASS",
+      "evidence": "Progress changes routes, contracts, trust, silence, and who walks together; the social movement is legible without a stat display."
+    },
+    {
+      "gate": "THE_AUTHOR.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System or status box appears. The Power Log and letter are diegetic documents explicitly written by Cael."
+    },
+    {
+      "gate": "THE_AUTHOR.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional critique appears through lit and dark sigils, old floor, registry history, rank boundaries, Vastin's unadmitted status, and road choices rather than a speech explaining injustice."
+    },
+    {
+      "gate": "THE_AUTHOR.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Dry exchanges occur, but no joke is used under the crossing, death, injury, or parting stakes."
+    },
+    {
+      "gate": "THE_AUTHOR.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The solitary centre movement processes the book's core wound and belonging without comedy, lampshading, or emotional declaration."
+    },
+    {
+      "gate": "THE_AUTHOR.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "Cael protects honesty by stopping at the instrument's finding, Oryn asks before reading, Teague protects his surviving crew by turning west, Oryn keeps her route, and Vastin is not granted membership without asking."
+    },
+    {
+      "gate": "THE_AUTHOR.27_reader_standard",
+      "state": "PASS",
+      "evidence": "The loop's whole-word banned-language grep returns 0; modern-register grep returns 0; there is no sexual content or violence in this chapter. Conduct is honest, loyal, restrained, and caring: Oryn asks and Cael consents; Cael does not overclaim; Teague's grief and autonomy are honored; Oryn and Vastin are not pressed into the crew. The author report explicitly attests the Reader Standard check."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b8-ch24-r2-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity — Court ordinal / map inventory",
+      "gate": "Craft Core continuity persistence / Scene Packet state / Voice Charter §3.1 and §5.5",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch24.md",
+        "line_start": 93,
+        "line_end": 93,
+        "quote": "Karis wrote the strides down and drew the sixth circle's centre on the map from them, a dot inside the thumbnail, and looked at the dot, and at him, and did not ask, because she had measured one end and he had stood on the other and she knew what standing was and was not."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch23.md",
+        "line_start": 57,
+        "line_end": 57,
+        "quote": "The line ran from the west, through four circles, to this one, the fifth, and through it, to the middle — and stopped. She laid the edge past the middle and there was nothing on the far side of the fifth circle for it to touch: no sixth; no distance on any sheet; nothing in the index; nothing on the plain, which went on east, level, worn, empty, to a horizon that had nothing on it. Oldest-last. The end of the line."
+      },
+      "consequence": "The chapter momentarily creates a sixth site at the exact map-marking beat, contradicting the previous chapter's explicit 'fifth, and the last' finding, EXC-B8-CH24-1, and this chapter's own later inventory of five circles. Because counting and map precision are Cael and Karis's defining competencies and the nonexistence of a sixth is the bearing's payoff, a careful reader is likely to catch the contradiction.",
+      "repair_target": "Line 93 only: make the ordinal agree with the established fifth and last circle while preserving the centre-dot action and the surrounding count.",
+      "confidence": "HIGH"
+    }
+  ],
+  "strengths": [
+    "The repair is controlled. The complete pre-repair/current diff contains only the five verified repair targets, the temporal-word thinning tied to r1-002, and the repair packet's explicit fifth-circle exception; no unrelated passage changed. All six R1 recorded strengths survive.",
+    "Each verified defect is closed in prose: consent is explicit (\"May I?\" / \"Yes\"); the extra 'pattern' is removed; Hesk's letter now says \"Tell Lira's family I said so\"; Vastin is present in the fire inventory as \"the man on the stick\"; and the reveal stops at \"the same kind of thing\" to one instrument.",
+    "The crossing remains a memorable non-combat set piece. The 1,012-stride diameter, hundred-stride reading point, lost vision, seamless floor, shrinking stumps, and counted return make terrain load-bearing rather than decorative. There is no fight in Chapter 24, so a combat win sentence of the form 'X removed Y's ability to Z' is not applicable; the book's last fight and its win sentence belong to Chapter 21, not this scene.",
+    "Worldbuilding is done through mechanism and use. Rune reads rows, bearer and borne, lean, grammar, and shape; Tide reads current around absence; Quieting behavior is separated through what does and does not register; the cash-and-fragment ledger, letter, contracts, boxes, hands, and mule show the world working without dossier exposition.",
+    "The central absence still lands with receipts: four prior floors establish the on/off edge; the Court removes the edge itself; \"Nothing.\" and \"There was no edge.\" fall within the measured emphasis cap and turn absence into an event.",
+    "The explicit revision sequence — \"Not the Quiet,\" \"Not a fragment,\" \"The same kind of made\" — protects earlier findings while producing the chapter's true turn. The R2 cut keeps that disciplined core from being outrun by an origin theory.",
+    "The partings preserve independent agency. Teague owns the westward contract and grief, Oryn owns the northward route and her terms, and Vastin remains an ally without silent admission. Seln's count and Brom's physical answer retain distinct character strategies.",
+    "The fixed final prose is unchanged, remains the last paragraph, contains the authorized \"whole year\" and single \"four hundred years,\" uses the fixed 'center' spelling, and ends exactly on \"That was as far as he could say.\" Its retrospective-prose beat differs from Chapter 23's dialogue-led threshold close."
+  ],
+  "concerns": [
+    "Taste: even after the verified origin overreach is removed, the centre explanation repeats the insight through edge, room, seam, cut stones, fit, exclusion, prevention, and coincidence. A later compression pass might trust the three spoken revisions sooner; this is taste, not a violated gate.",
+    "Taste/audio: the chapter's many 'a man who...' and 'a thing that...' constructions make separate emotional movements share one syntactic cadence. No measured tic exceeds its cap, so this remains a voice-density concern rather than a finding.",
+    "Injury watch: the broad man's shoulder is not surfaced in Chapter 24, although the leg remains load-limited and no action contradicts the shoulder wound. Chapter 22 explicitly carries the shoulder and Chapter 23 does not heal it, so the omission is not enough for a finding; preserve it in the next appearance until resolved.",
+    "Name/audio watch: Cleon and Cael are approved and remain distinguishable by ear (CLEE-on / KAYL), but they share an initial consonant and occur together in technical recollection. Narration should keep the vowel and syllable contrast sharp.",
+    "The author report's deviations list duplicates the Reader Standard attestation and its state proposal still describes the superseded longer Hesk letter wording. Neither changes the manuscript evidence or creates a prose defect, but the downstream state splice should take facts from the accepted manuscript rather than that stale report wording."
+  ]
+}
