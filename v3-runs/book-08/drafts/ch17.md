@@ -112,7 +112,7 @@ Not far. A body's length, which was the length of the man from heel to palm; it 
 
 Teague stood a moment with the hand still out. Then he took it back, and shook the wrist, once, and Cael heard it click.
 
-It was not loud. It was the sound a knee makes on a stair, a small dry sound in a wrist that was forty years old and had been putting a cart's weight through itself for twenty of them. The young one had a cloth out of his coat before the sound had finished, and Teague took it without looking and wrapped the wrist, twice round, tight, and tied it off with his teeth and the other hand, and gave the cloth back, and the whole of it had been done by two people who had done it a great many times and did not discuss it.
+It was not loud. It was the sound a knee makes on a stair, a small dry sound in a wrist that was forty years old and had been putting a cart's weight through itself for twenty of them. The young one had a cloth out of his coat before the sound had finished, and Teague took it without looking and wrapped the wrist, twice round, tight, and tied it off with his teeth and the other hand, and gave the cloth back, and all of it had been done by two people who had done it a great many times and did not discuss it.
 
 Force. He had the card for it from a marsh and the thing itself now, and they agreed. Not a Path a man carried in his body, as Iron went, or set in front of it, as a wall. A Path that went *through* him: impulse, at the moment of contact, along the line of the frame from the ground to the hand, and nothing to the side of the line, and nothing at a distance, and nothing at all without a thing to push against. And the cost came back along the same line it had gone out on. The wrist clicked because the wrist was where the line came out, and the man had a boy with a cloth, and that was the whole of Force at Bronze in one cart in one meadow.
 
@@ -134,7 +134,7 @@ Six at the table. Teague was not; he had said he did not read and had meant it, 
 
 "The marks," Karis said.
 
-She said it to the sheets, with her bound hand flat on the first row and her good hand on the one page that had ridden on top of the case since the spring, the citation, a title and a place, and then she began, and he had the whole of it in the log by the end and could not afterward have said in what order she had said it, because she had said it in the order the sheets came, and the office had not known what it was filing.
+She said it to the sheets, with her bound hand flat on the first row and her good hand on the one page that had ridden on top of the case since the spring, the citation, a title and a place, and then she began, and he had all of it in the log by the end and could not afterward have said in what order she had said it, because she had said it in the order the sheets came, and the office had not known what it was filing.
 
 The four sites the crew had walked had the same mark by the stamp, the stroke and the bar, the fourth's twice the size; he had that from the spring, and had not had what it meant, and neither had she, and she had carried the not-knowing for eighteen days without pretending it was anything else. There were two other marks. On the sheets for the sites nobody had heard named, in the same corner: a stroke alone, on none of them — she turned the whole cover through and there was not one — but the form had a box ruled for it, empty, and a form does not rule a box for a thing that does not exist. And a stroke and *two* bars, on one sheet. One. She put her finger above it, not on it.
 

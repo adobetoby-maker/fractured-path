@@ -78,7 +78,7 @@ He was at the plane's high edge, where the slant met the scree's foot — under 
 
 The young one went to him.
 
-He did not think. Cael entered that, honestly, because it was the whole of what happened and the whole of why: the young one did not think, because the broad man was down and the broad man was his crew and a man of his crew was on the ground outside a thing he had been told about at a fire that morning in a doctrine that was not his crew's, and he had nodded with his whole head, and the nod had not gone into the rest of him. He went out from behind the plane — a stride, one, into the outside — and got the broad man under the arms, and pulled, and the broad man came, backward, a stride, toward the line, and the young one was at the plane's edge with his back to the shelf and the broad man's weight in his hands.
+He did not think. Cael entered that, honestly, because it was all that happened and the whole of why: the young one did not think, because the broad man was down and the broad man was his crew and a man of his crew was on the ground outside a thing he had been told about at a fire that morning in a doctrine that was not his crew's, and he had nodded with his whole head, and the nod had not gone into the rest of him. He went out from behind the plane — a stride, one, into the outside — and got the broad man under the arms, and pulled, and the broad man came, backward, a stride, toward the line, and the young one was at the plane's edge with his back to the shelf and the broad man's weight in his hands.
 
 The sixth volley took him through the chest.
 
@@ -146,7 +146,7 @@ That was the lesson. It was the captain's, and he had priced it, and he was goin
 
 He stood at the far mouth of the pass with the ribs saying their one thing and looked east.
 
-The ground went down from the mouth in long steps to a plain, and across the plain, a half-day by the office's distance, at the end of a line that two brass edges agreed on and a dead man's grade and an office's date and a wall's lean, the thing he had wanted since he was fourteen. He could not see it. There was a haze on the plain where the morning had not burned off yet, and the thing was in the haze, quiet, as it had been quiet since there was paper to say so, and it did not know he was coming, because it was a made thing and made things do not know.
+The ground went down from the mouth in long steps to a plain, and across the plain, a half-day by the office's distance, at the end of a line that two brass edges agreed on and a dead man's grade and an office's date and a wall's lean, the thing he had wanted since a woman said, on a landing in the snow, *someone made this*. He could not see it. There was a haze on the plain where the morning had not burned off yet, and the thing was in the haze, quiet, as it had been quiet since there was paper to say so, and it did not know he was coming, because it was a made thing and made things do not know.
 
 He had wanted to stand in the middle of it. He had said so at a fire, and at a table, and on a bridge, and to a woman over a map the night before, and he had been honest every time, and it had cost a boy with a pack too big for him, who had nodded with his whole head, a stride outside a wall, in a stream-bed, on the three hundred and sixth day, at the end of a line that somebody had drawn a long time ago through five made things and a great many people who had not been asked.
 

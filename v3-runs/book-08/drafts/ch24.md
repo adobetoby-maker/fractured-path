@@ -18,7 +18,7 @@ Not on himself. On the floor: on the thing under his boots, as Cleon had turned 
 
 Still. Set. The rows — there were rows; the floor had them, under the wearing, in the grain of the stone if stone had grain, bearers and borne, leaning, from the rim toward the middle and from the middle toward the rim, a lean that went both ways and was therefore not a direction but a *shape*. An instruction with no language. The same reading. Not like the still place's reading; the *same* reading, in the same grammar, returned by the same instrument, for a thing under his feet and a thing under his ribs, and he stood a hundred strides in with one Path built for made things telling him that the two made things it could reach from where he stood were the same kind, and could not tell him what kind, and did not have to.
 
-The eyes went. He had known they would. The floor became a smear and the light on it a longer smear and the middle, four hundred strides on, a place he could not see and could count to, and he counted to it, half-blind, because that was permitted and had been priced, and a man does not stop walking to a thing because he cannot see it when he has known where it was since he was fourteen.
+The eyes went. He had known they would. The floor became a smear and the light on it a longer smear and the middle, four hundred strides on, a place he could not see and could count to, and he counted to it, half-blind, because that was permitted and had been priced, and a man does not stop walking to a thing because he cannot see it when he has known where it was since a woman put a divider's point in a straightedge's shadow.
 
 Two hundred. Three. The needle facing. Four.
 
@@ -86,7 +86,7 @@ Lira was first. She had been first since a hall and she was first at a line at t
 
 "I'll tell you on the road," he said. "If there's road."
 
-She looked at him a moment. It was her own line, or a healer's, and she knew it, and took it, because it was the kind of answer she gave and she could hardly refuse it from him. "Right," she said, and that was the whole of what she asked, and it was, from Lira, an act of the same discipline a woman had shown over a map, and he entered it as one.
+She looked at him a moment. It was her own line, or a healer's, and she knew it, and took it, because it was the kind of answer she gave and she could hardly refuse it from him. "Right," she said, and that was all that she asked, and it was, from Lira, an act of the same discipline a woman had shown over a map, and he entered it as one.
 
 He told nobody what the centre had felt like. Not at the line, not at the fire that night at the rim, not in the morning. There were no words for it that were his; the nearest ones were a leaf's and a board's and a healer's, and the true one was somewhere past a third sentence he had not written, and a man who has been given an instruction by someone who knew what they were instructing keeps it — and some findings you carry out of a place before you say them, because the saying is a thing that happens on a road, if there is road, and not at a rim, and not to a crew who have stood at a line with their hands dark for the length of a man's walk and are owed a count before they are owed a conclusion.
 
@@ -114,7 +114,7 @@ Teague took it with the good hand and put it in his coat without reading the out
 
 "Next spring." It was not an offer. It was a term, stated once, at a rim, by a man who kept his own ledger and had put a line in it in a stream-bed and was going to walk back past the stone that line was under, and who had said at a plank that it was a contract and not more than that and had been wrong about the *more*, and knew it, and was not going to say so, because a captain does not. "Whatever's on the next line. My crew comes."
 
-"Noted," Cael said, and it was the whole of it, and it was enough, and Teague turned his three west, past the pass and the stone and the Span and the marsh and the bowl, toward a plank where a man kept a wall, and the alliance went with him, real, and grieving, and there.
+"Noted," Cael said, and it was all of it, and it was enough, and Teague turned his three west, past the pass and the stone and the Span and the marsh and the bowl, toward a plank where a man kept a wall, and the alliance went with him, real, and grieving, and there.
 
 Oryn's mule was already facing north.
 

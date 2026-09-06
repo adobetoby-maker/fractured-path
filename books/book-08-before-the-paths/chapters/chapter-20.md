@@ -70,7 +70,7 @@ She said it over him, not loud, in the small voice, and he stopped, because it w
 
 Vastin looked at her a long moment. Then he said, "Noted," and it was the third time, and he meant it as she meant her rule.
 
-Cael entered it. He entered the finding, in her words, because they were exact. And under it he entered the thing that had not been done: that a line had been reached for by a man with forty years of reaching, and not drawn by a woman with one, and that the not-drawing was the whole of what the year had been for, and that he had watched it hold at the hardest place it had yet been asked to, and it had held.
+Cael entered it. He entered the finding, in her words, because they were exact. And under it he entered the thing that had not been done: that a line had been reached for by a man with forty years of reaching, and not drawn by a woman with one, and that the not-drawing was all that the year had been for, and that he had watched it hold at the hardest place it had yet been asked to, and it had held.
 
 He did not draw it either.
 
@@ -94,11 +94,11 @@ He did not point. He had learned that from Seln, in a fortnight, and Cael entere
 
 Nobody asked him what part. He did not say. He had been forty years in the thing and had two seals in his head that he could have named, and he did not name them, and Cael watched him not do it and understood that it was not discretion. It was that the man did not yet know what he would do with the names if he said them, and had learned, in a fortnight, at a table and a counter and a cut, not to say a thing he did not know what to do with.
 
-"Six years," Karis said. She had the deep-layer sheet under her hand, the one from the spring with the office's *six years* on it in the office's rounding, and she looked at it beside the directive and beside the index, and did the thing she did, which was to say what the papers said and not one word past it. "Six years back, somebody measured all of it, and graded it, and ordered the grades to be held. Somebody was administering this — the sites, the marks, the whole of it — recently enough to keep records, and to fight over the records, and to seal the fight. Documented as *stable*. Somebody's still writing that word down." She looked at the fire. "The Compact. That's who keeps records. That's who has a ruling hand and a seat and a seal. I'm not going to say *someone else*, because I've no sheet for someone else, and I've a whole file for them."
+"Six years," Karis said. She had the deep-layer sheet under her hand, the one from the spring with the office's *six years* on it in the office's rounding, and she looked at it beside the directive and beside the index, and did the thing she did, which was to say what the papers said and not one word past it. "Six years back, somebody measured all of it, and graded it, and ordered the grades to be held. Somebody was administering this — the sites, the marks, all of it — recently enough to keep records, and to fight over the records, and to seal the fight. Documented as *stable*. Somebody's still writing that word down." She looked at the fire. "The Compact. That's who keeps records. That's who has a ruling hand and a seat and a seal. I'm not going to say *someone else*, because I've no sheet for someone else, and I've a whole file for them."
 
 "The Compact," Vastin said. He said it as a man says his own name in a room where it is no longer his. "Yes. Part of it."
 
-That was the whole of what he said about the crack. He did not pry it. He put the sheet back in its row, the order side up, and closed the row, and sat back on the shale with the stick across his knees, and Cael saw him decide, as he had seen him decide at the back of a column and at a plank and at a stake, and the decision was not to decide, and it was the right one, and it was entered.
+That was all that he said about the crack. He did not pry it. He put the sheet back in its row, the order side up, and closed the row, and sat back on the shale with the stick across his knees, and Cael saw him decide, as he had seen him decide at the back of a column and at a plank and at a stake, and the decision was not to decide, and it was the right one, and it was entered.
 
 ---
 

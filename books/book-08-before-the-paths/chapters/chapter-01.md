@@ -50,7 +50,7 @@
 
 *The ice is going. The ferryman has his ropes out on the landing, coiled, not rigged, and says a week, and has said a week for a week. The Thornwater road is open — a carter came down it yesterday with the first hides of the year and said the ford at the bend is running high and clear and a man can walk it if he does not mind his knees.*
 
-*Karis has said her sentence about west. She has been saying it since the fence, in pieces, and she said the whole of it last night, and I have not answered it, because there is a thing I owe north before I owe anyone anything west, and it is two days up a road, and it is a map.*
+*Karis has said her sentence about west. She has been saying it since the fence, in pieces, and she said all of it last night, and I have not answered it, because there is a thing I owe north before I owe anyone anything west, and it is two days up a road, and it is a map.*
 
 ---
 
@@ -96,7 +96,7 @@ The arm came down. Not fast. It came down the way a thing comes down that has be
 
 "Move it," Oryn said.
 
-She moved it. The fingers, then the wrist, then the elbow, then the whole of it, out to the side, up, across her body to the other shoulder; and the forearm under the sleeve had two scars on it the length of a finger, one on each side, where a hound's teeth had gone in on the ninety-sixth day and a healer had spent an hour at a line to make them come out, and the scars were white, and the arm moved.
+She moved it. The fingers, then the wrist, then the elbow, then all of it, out to the side, up, across her body to the other shoulder; and the forearm under the sleeve had two scars on it the length of a finger, one on each side, where a hound's teeth had gone in on the ninety-sixth day and a healer had spent an hour at a line to make them come out, and the scars were white, and the arm moved.
 
 "Grip," Oryn said.
 

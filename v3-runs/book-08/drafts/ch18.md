@@ -60,7 +60,7 @@ Lira's arm. Two fingers on the wrist, the flat hand on the forearm, the count: "
 
 "Once," Lira said.
 
-"Once is once more than I priced." That was the whole of it, and Lira took it as praise, because from Oryn it was.
+"Once is once more than I priced." That was all of it, and Lira took it as praise, because from Oryn it was.
 
 Karis's hand. The bound one, the cut across the back of the left hand from a step's edge in a cut, eight days old, bound by Brom with thread and a strip of shirt and his teeth, and Oryn unbound it and looked at it a long time in the going light and said, "Who sewed this."
 
@@ -104,7 +104,7 @@ He did not count it. He had decided not to before she put the hand down, because
 
 Going round. He felt her do it. Her current, which ran to things — that was Tide; a current that ran *to* whatever was hurt, and arrived, and did the work — ran down through the twelve to the middle, to the place, and did not arrive. It went round. As the twelve went round. As everything went round, and had, as far back as he could feel, and he felt her feel it, from his own side: the current bending where the bed bent, and the bed bending because of a stone that the river had gone round for so long that the going-round was the river's shape, and the stone at the middle not doing anything, because doing was not what it was.
 
-She stayed there. A long time. He felt her try — not push; she did not push; a healer who had spent her life reading current did not push a current at a thing that was not one — but *stay*, at the edge of it, with the whole of what she was held still at the bank of a thing that had no bank, and read it as nothing, and read the everything around it, and read the nothing again, and it was the same.
+She stayed there. A long time. He felt her try — not push; she did not push; a healer who had spent her life reading current did not push a current at a thing that was not one — but *stay*, at the edge of it, with all that she was held still at the bank of a thing that had no bank, and read it as nothing, and read the everything around it, and read the nothing again, and it was the same.
 
 And while she stayed there, because he was lying still and had nothing to do with his hands or his count or his eyes, and because a man who owns twelve things and has been told to lie still with them does not stop owning them, he turned the twelfth.
 

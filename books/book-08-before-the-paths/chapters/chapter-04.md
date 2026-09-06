@@ -140,7 +140,7 @@ Not down. *Off.* The plane stopped being stone and was air, and the man who had 
 
 The costs, while she worked, because the costs were the ledger and the ledger was his.
 
-Brom: a hound's tooth through the boot, the right one, through the leather and into the foot above the small toes, not deep — the hound had been dying when it bit — and Brom sitting on the stone with the boot off and the foot in Oryn's hands saying, "It's a boot," in the voice he used for a thing that had cost him money, and Oryn saying, "It's a foot," and binding it. The shoulder: carried through the whole of it, still and forward, and not once used, and Cael saw Oryn look at it while her hands were on the foot and say nothing, again, which was twice.
+Brom: a hound's tooth through the boot, the right one, through the leather and into the foot above the small toes, not deep — the hound had been dying when it bit — and Brom sitting on the stone with the boot off and the foot in Oryn's hands saying, "It's a boot," in the voice he used for a thing that had cost him money, and Oryn saying, "It's a foot," and binding it. The shoulder: carried through all of it, still and forward, and not once used, and Cael saw Oryn look at it while her hands were on the foot and say nothing, again, which was twice.
 
 Lira: nothing. Two arms. She had used both. She was standing at the cut's south wall opening and closing the left hand and looking at it, and she caught him looking, and stopped.
 
