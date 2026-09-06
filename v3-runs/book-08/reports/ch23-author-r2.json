@@ -3,7 +3,7 @@
   "run_id": "b8-ch23-r2",
   "scene_id": "b8-ch23",
   "draft_path": "v3-runs/book-08/drafts/ch23.md",
-  "word_count": 4313,
+  "word_count": 4317,
   "target_words": 4600,
   "obligations": [
     {
@@ -67,6 +67,7 @@
   "deviations": [
     "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence; no sexual content; conduct decent (the rival captain keeps his crew out; the healer says her finding once).",
     "READER STANDARD (Gate 27): banned-word grep 0; no violence; no sexual content; conduct decent.",
-    "r2 (repairs of r1): the court is the FIFTH circle (Ring, Stair, Hall, the fourth, the court) — 'no sixth'; the cord count reconciled to the 1,012-metre diameter and the twenty-metre cord (a hundred and fifty-nine cords; perfect at the twentieth and the eightieth); the centre five hundred strides off (not a stone's throw); the turning left as beginning only (mechanism and analogy cut); Teague's other hand shown a stride inside and back before his sentence; the silence scaffold varied."
+    "r2 (repairs of r1): the court is the FIFTH circle (Ring, Stair, Hall, the fourth, the court) — 'no sixth'; the cord count reconciled to the 1,012-metre diameter and the twenty-metre cord (a hundred and fifty-nine cords; perfect at the twentieth and the eightieth); the centre five hundred strides off (not a stone's throw); the turning left as beginning only (mechanism and analogy cut); Teague's other hand shown a stride inside and back before his sentence; the silence scaffold varied.",
+    "r3 (direct, after Codex r2 PASS_WITH_FINDINGS 1 MEDIUM): Teague steps back over the line between the stumps (no iron at the Court)."
   ]
 }
