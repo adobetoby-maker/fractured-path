@@ -88,7 +88,7 @@ Seln was in the doorway. He had come to the doorway and stopped there, on the ro
 
 "I'm learning," Vastin said.
 
-Seln came in and sat down at the door end, and that was the whole of what those two had ever said to each other, and it was, Cael thought, more than most men managed in a life.
+Seln came in and sat down at the door end, and that was all that those two had ever said to each other, and it was, Cael thought, more than most men managed in a life.
 
 Vastin sat. Nobody had told him to. He sat at the table's end, and put his hands flat on the wood, and Cael saw Oryn, across from him, look at the hands, and then at the knee under the table, and then at the face — the count, and the finding — and say nothing, because the finding was hers and she had not been asked for it.
 
@@ -138,7 +138,7 @@ Oryn looked at him a moment longer, and nodded, once, as if a thing had been ent
 
 "Nothing that can cross the Line." He said it as fact, in the ledger voice, the one thing at the table he was still certain of. "The restriction on him is pending jurisdiction. There is no jurisdiction here. There is no one behind me and no one after me, and if there were, they would not be after me — I am a man who resigned, and men who resign are filed, not followed. What follows this boy is a piece of paper that stops at a river." A pause. "What followed you to the Stair in the autumn is another matter, and it is not mine, and I do not know whose it is, and I would give a great deal to."
 
-Cael had not said anything. He had not said anything since the plank, and the five of them had let him not say it, because the man at the end of the table had come to speak to six and had spoken to five, and the sixth was the one the whole of it was about, and everyone at the table knew that the sixth would say what he said when he had it.
+Cael had not said anything. He had not said anything since the plank, and the five of them had let him not say it, because the man at the end of the table had come to speak to six and had spoken to five, and the sixth was the one all of it was about, and everyone at the table knew that the sixth would say what he said when he had it.
 
 He had it. He had had it since the landing. He remembered a table in a borrowed office in Ostrand, four streets back from the registry seat, a room with nothing of anyone's in it, and the man in front of him now in grey, and a sentence, said once, after the longest silence he had ever sat through: *I knew the system was imperfect. I didn't know it was designed to be.* And then nothing. No alliance, no files, no hand across the table. The man had said the sentence and gone back inside and stayed there, and Cael had carried the sentence across the Line in Hesk's satchel as the only true thing the Compact had ever handed him, and had never once expected to hear the voice that said it again.
 

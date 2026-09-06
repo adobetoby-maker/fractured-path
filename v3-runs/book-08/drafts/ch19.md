@@ -10,7 +10,7 @@ He entered, under each date, the same line, because it was true under each: *kno
 
 The crest at dusk on the three hundred and third, and the thing below it, and he catalogued both, because one of them had not been there in the autumn.
 
-The circle first, as it had been. Eight hundred metres across by Karis's cords, twice the others; the ground dropping away inside it on the north side into a sink, a bowl where the earth had gone down and stayed down, and at the middle, four hundred metres in past the iron, the shape against the last of the sky — not a mound, not a hall; a curve, with a crown taller than a man, and dark under it where the sky came through. The iron round the whole of it, a hand's height out of the ground, a pace apart, the number and the stroke-and-bar on every stake, and the line Lira had called in the autumn a hundred and ninety paces below the crest, where it had been.
+The circle first, as it had been. Eight hundred metres across by Karis's cords, twice the others; the ground dropping away inside it on the north side into a sink, a bowl where the earth had gone down and stayed down, and at the middle, four hundred metres in past the iron, the shape against the last of the sky — not a mound, not a hall; a curve, with a crown taller than a man, and dark under it where the sky came through. The iron round all of it, a hand's height out of the ground, a pace apart, the number and the stroke-and-bar on every stake, and the line Lira had called in the autumn a hundred and ninety paces below the crest, where it had been.
 
 And then the thing that had not been there.
 

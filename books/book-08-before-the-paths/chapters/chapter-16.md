@@ -98,7 +98,7 @@ The leaf did not say that.
 
 The leaf said the door was him.
 
-Not shut on him. *Built* — the whole of it, the measure and the seat and the tier and the mark at the kindling, every gate on every tier of every city, every hall he had stood in at fifteen and seventeen, every page a marshal had read and declined to read, four hundred years of a whole continent's ordering — built, the leaf said, and set over all the land, for one reason, and the reason was written once and the writer had cared about nothing else being remembered: that a kind should not come again. Not *excluded*. A thing that is excluded is a thing the makers forgot to make room for. A thing that is *prevented* is a thing the makers built the whole house to keep from being born in it.
+Not shut on him. *Built* — all of it, the measure and the seat and the tier and the mark at the kindling, every gate on every tier of every city, every hall he had stood in at fifteen and seventeen, every page a marshal had read and declined to read, a whole continent's ordering, older than any wall on it — built, the leaf said, and set over all the land, for one reason, and the reason was written once and the writer had cared about nothing else being remembered: that a kind should not come again. Not *excluded*. A thing that is excluded is a thing the makers forgot to make room for. A thing that is *prevented* is a thing the makers built the whole house to keep from being born in it.
 
 He was not the case the machine could not parse.
 
@@ -106,7 +106,7 @@ He was the reason the machine had been built to parse.
 
 He sat with that. He did not turn it into a count. He did not put it beside the still place, or the cord, or the light on a hill, or the row that came out short, because those were entries and this was not an entry; this was the page the entries were written on. Five years. He had thought, for five years, that the system had forgotten him. It had not forgotten him. It had been *waiting* for him, since before the walls, with every door shut, and he had walked up to the first one at fourteen and it had done exactly what it was built to do, and had called that a fault, and had filed him, and he had carried the filing across a continent thinking it was an accident.
 
-It was not an accident. That was the whole of it. It was the most deliberate thing anyone had ever done.
+It was not an accident. That was all of it. It was the most deliberate thing anyone had ever done.
 
 He looked at the fire. He thought of a landing in the snow with a ferryman's ropes on it, and a man who had stopped numbering him because the number had got too small, and a woman on a north road who had said she did not know what he was, and a healer's two fingers on a wrist, and a clerk's pen going across four faces at the speed of four boxes, and he found that every one of them was still true, and that none of them was any smaller for the leaf, and that the leaf had made them, if anything, a thing worth having in a way they had not been before, because a man who is prevented and happens anyway has a different ledger from a man who is merely forgotten, and the entries on it are the same and the sum is not.
 

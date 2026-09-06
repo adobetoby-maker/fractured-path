@@ -62,7 +62,7 @@ He went back along the ring road to the inn, by the smith, where Brom was, past 
 
 ---
 
-Seln came back at dusk, by the yard door, and had the whole of it.
+Seln came back at dusk, by the yard door, and had all of it.
 
 He gave it at the long table as he gave a report — in the voice for an inventory, standing, without notes, in the order the thing was shaped and not the order he had found it — and Cael wrote it down as it came, because Seln said a thing once.
 
@@ -84,7 +84,7 @@ Nothing was said to it.. Karis had the notebook open and had not written in it, 
 
 "Four," Seln said. "By count."
 
-Cael understood it then, the whole of it, in the order Seln had shaped it, and he sat with it for a breath because it was worth a breath.
+Cael understood it then, all of it, in the order Seln had shaped it, and he sat with it for a breath because it was worth a breath.
 
 The only legal way for him to reach the oldest record of what he was, was to be entered on a four-hundred-year-old form as a number. Not a name. Not a tier. A *hand* — an unranked body carrying a box down a stair for a registered man, which was the one thing a Compact city allowed an unranked body to be, and was exactly what the city, looking at him from the top of its stairs, thought he was worth. He would go down into the quarry under the registry as labour. He would carry Karis's boxes. He would be counted, once, at a counter, by a careful young clerk who would not ask, and the count would be *four*, and one of the four would be the thing the whole building on top of the quarry had been built to keep out, and the building would not know, because its form had no column for that.
 
@@ -110,7 +110,7 @@ They stood at the foot of the stair. The stair went up the bluff to the second g
 
 Karis looked up the bluff.
 
-"A name and a reason," she said. "Four hundred years old, under our feet, and nobody's read it because nobody's had a reason to look and a person who could read it in the same lifetime." A beat. "That's us. That's the whole reason it's still buried. We're the first ones who are both."
+"A name and a reason," she said. "Older than the walls, under our feet, and nobody's read it because nobody's had a reason to look and a person who could read it in the same lifetime." A beat. "That's us. That's the whole reason it's still buried. We're the first ones who are both."
 
 She went to find the clerk.
 

@@ -58,7 +58,7 @@ He remembered it. He sat against the pack and remembered it as exactly as he cou
 
 Then he turned the twelfth.
 
-Not by itself, this time. He turned it, as Cleon turned it, with the eyes going to the unfocused place between a thing and himself, which in the dark against a pack was nowhere, and was easy; and with the lean found — the direction a maker puts in a thing; which mark bears, which is borne — and held; and he turned it inward, the whole of it, toward the middle, toward the place under where a healer's front hand had lain on a table in the autumn, the place the current went round, and let it look.
+Not by itself, this time. He turned it, as Cleon turned it, with the eyes going to the unfocused place between a thing and himself, which in the dark against a pack was nowhere, and was easy; and with the lean found — the direction a maker puts in a thing; which mark bears, which is borne — and held; and he turned it inward, all of it, toward the middle, toward the place under where a healer's front hand had lain on a table in the autumn, the place the current went round, and let it look.
 
 It looked.
 
@@ -74,7 +74,7 @@ That was the first word, and it was not a word he chose; it was the word the sha
 
 A floor with nothing built on it.
 
-That was the second thing, and it came as the first had, as the nearest shape: a floor. Seamless. Level. Cut to bear a thing that was not on it — the rows all going somewhere and the somewhere empty; the bearers with nothing borne; the whole of it *ready*, as the Ring had been ready and the Stair had been ready and the Span had been, for four hundred metres of quiet round a made thing, ready for a thing that had not come or had gone. An instruction with no language. He had watched Cleon say that a row was an instruction and that he could not say what it instructed; this was that, and it was inside him, under the ribs that a healer had been reading since a marsh, and it instructed nothing he could read, and it *leaned*.
+That was the second thing, and it came as the first had, as the nearest shape: a floor. Seamless. Level. Cut to bear a thing that was not on it — the rows all going somewhere and the somewhere empty; the bearers with nothing borne; all of it *ready*, as the Ring had been ready and the Stair had been ready and the Span had been, for four hundred metres of quiet round a made thing, ready for a thing that had not come or had gone. An instruction with no language. He had watched Cleon say that a row was an instruction and that he could not say what it instructed; this was that, and it was inside him, under the ribs that a healer had been reading since a marsh, and it instructed nothing he could read, and it *leaned*.
 
 He did not name it.
 
@@ -82,7 +82,7 @@ He held it as long as he could, which was not long — the eyes were paying alre
 
 Then he thought one thing, because it was the only thing that was a finding and not a guess, and he entered it exactly: *the same kind of thing, to that instrument, as the sites were to Cleon's.*
 
-Not the same thing. He had no instrument that could say that and no leave to guess it. The same *kind*. A made thing's inside, read by a Path built for made things, returning what that Path returned when it was turned on a floor: a lean, a structure, a readiness, an instruction it could not read. Cleon had turned his on a chamber's worth of floors and a leaf and a board and had come up with *this is a stair* and had never once said what the stair was for. Cael had turned his on the one place in himself that nothing else could read and had come up with the same grammar, and he sat with that and did not turn it into a sentence, because the sentence was six words long and he had watched a woman refuse a six-word sentence at a fire the night before and had entered the refusal as the whole of what a year had been for.
+Not the same thing. He had no instrument that could say that and no leave to guess it. The same *kind*. A made thing's inside, read by a Path built for made things, returning what that Path returned when it was turned on a floor: a lean, a structure, a readiness, an instruction it could not read. Cleon had turned his on a chamber's worth of floors and a leaf and a board and had come up with *this is a stair* and had never once said what the stair was for. Cael had turned his on the one place in himself that nothing else could read and had come up with the same grammar, and he sat with that and did not turn it into a sentence, because the sentence was six words long and he had watched a woman refuse a six-word sentence at a fire the night before and had entered the refusal as all that a year had been for.
 
 He understood what had just happened. He did not need it explained. A man at a table with a cup had said *if it ever reads something for you that shouldn't be made and reads it anyway*, and it had, and he had felt it read, and the reading was on the page now in the only words he was going to allow it, and the man had said *don't tell anyone*, and he was not going to.
 
