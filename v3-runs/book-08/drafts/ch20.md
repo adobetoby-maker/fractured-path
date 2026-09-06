@@ -36,7 +36,7 @@ She put the point there, this time, with the pencil, and drew a circle round it 
 
 "There," she said. "Fixed. Past the hills. On the office's distance and the office's bearing and the dead man's grade and the walls' lean, and I'll pace it when I'm standing on it and not before." She put the pencil down. "That's what I've got."
 
-No one took it up.. Teague, across the fire, who did not read, had watched the whole hour as he watched a job, and looked at the circle now as he had looked at a stake, and said nothing, because the reading was hers and he had said so at a plank.
+No one took it up. Teague, across the fire, who did not read, had watched the whole hour as he watched a job, and looked at the circle now as he had looked at a stake, and said nothing, because the reading was hers and he had said so at a plank.
 
 "Now the other thing," Karis said.
 

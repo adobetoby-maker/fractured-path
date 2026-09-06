@@ -5,3 +5,4 @@
 - Book-level anti-tic pass (from Ch16 r2 / Ch17 r1 editors): 'Nobody said anything' ≤3 across ch01–ch24 (currently ~14); 'That was correct' (4); 'the whole of' thinning; 'as a man/woman [verb]' ≤3 per chapter. Do at the line pass, not per chapter.
 - 2026-09-05 census pass 2: 'for the length of a breath' removed from closed Ch1 (×2), Ch2 (×1), Ch4 (×2) in place with varied measures; Ch21's 'the way' hits are 'all the way down' / 'the way out' — not the tic; 'Nobody said anything' ×10 book-wide remains for the line pass.
 - Line pass 1 (2026-09-05): 'Nobody said anything' reduced from 10 to 3 across the closed chapters (varied closers); chapters are canonical, drafts mirrored.
+- Book-scope r2 repairs (2026-09-05): Oryn asks each patient and Cael before every Ch18 reading; 'Nobody said anything' to 2; double stops normalized; 'the whole of' thinned again (60→~35).

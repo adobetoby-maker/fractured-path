@@ -1,6 +1,6 @@
 # Chapter 12 — No Authority
 
-The alley had steps in it, and that was the whole of the geography, and he had it before the first man moved because he had walked the alley eleven times with a box on his shoulder and a cataloguer walks a thing eleven times so that he has it on the twelfth.
+The alley had steps in it, and that was all the geography, and he had it before the first man moved because he had walked the alley eleven times with a box on his shoulder and a cataloguer walks a thing eleven times so that he has it on the twelfth.
 
 The first tier's stair came down off the bluff to a landing at the first wall's foot, and from the landing the route to the ring road was not the wide street the carts used but a cut between two rows of houses that Seln had found on the second day and used since, because a working party that went home by the carts' street was a working party that could be counted going home. The cut was stepped — twenty-two steps, in five flights, each flight a stride and a half wide and walled on both sides by the backs of houses with no doors in them, three men high, sheer — and it fell from the landing to the inn's yard gate in a straight line that a man at the top could see the bottom of, and a man at the bottom could see the top of, and nobody in between could see anything but wall. A choke. He had thought that on the second day, and had said it to Seln, and Seln had said, "Yes. That's why. Nobody holds a choke they can't get out of, so nobody holds this one," and had been right for eight days.
 
@@ -40,7 +40,7 @@ The two from the yard gate came up the fifth flight.
 
 ---
 
-That was the second thing, and it was the thing a road had taught the crew and the team had not learned, and it was the whole of the difference.
+That was the second thing, and it was the thing a road had taught the crew and the team had not learned, and it was all the difference.
 
 They came up with staves, two of them, hooded, fast, into the fourth flight where Vastin had been and was not, and they came up ready for what they had been told to be ready for, which was a declaration: a burst, a hardening, a lattice, a thing that would tell them where to swing and how hard. They had built a trap for a crew that walked out of quiet ground declaring. They had a crossbow at the top for the loud one and two staves at the bottom for the rest — for the big one who had righted a cart in a yard where anyone could watch, and for the boy from the report, both of them on the wall's protected side — and the whole of their plan was that a practitioner, cornered, declares, and a declaration is a place to hit.
 
