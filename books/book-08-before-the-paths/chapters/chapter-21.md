@@ -8,7 +8,7 @@ Seln came back from the pass at first light on the three hundred and sixth and s
 
 "A fall. One cut and the shelf comes down the scree onto the floor, and the floor's a stream-bed a hundred strides long with a wall on the east side you'd need a ladder for. I counted nine on the shelf and there'll be more I didn't. Three crossbows that I saw." He looked at the notch, then, in the growing light, black and square. "It's the bearing. There's no round. I've looked for a round since noon yesterday and there isn't one, and I'd tell you if there was."
 
-Nobody said anything for a while. The fire went on.
+Nobody spoke for a while. The fire went on.
 
 "Then it's through," Teague said.
 
