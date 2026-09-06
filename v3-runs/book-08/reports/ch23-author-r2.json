@@ -1,0 +1,72 @@
+{
+  "schema_version": "3.0",
+  "run_id": "b8-ch23-r2",
+  "scene_id": "b8-ch23",
+  "draft_path": "v3-runs/book-08/drafts/ch23.md",
+  "word_count": 4313,
+  "target_words": 4600,
+  "obligations": [
+    {
+      "item": "The half-day approach dated; the court seen and described; the radius stated; the stumps; the rock worn down to the floor; the bearing ending here",
+      "status": "MET",
+      "evidence": "'A thousand … Across. Two and a half of the Ring.' … 'It's been worn to the floor. The whole plain.' … 'A thousand and twelve.' … 'The bearing ended.'"
+    },
+    {
+      "item": "Karis paces ALONG the line from outside (cord, stride, stone; Lira calling); sharp; perfect; larger; older by the strata; the cuts deeper; the stratum under the floor; 'the others are copies' as a rock finding; the dated log entry inside the chapter",
+      "status": "MET",
+      "evidence": "'Deeper.' … 'That's under all of it … This is the first one.' … 'That's a finding about rock. It's not a finding about anything else.' … the italic dated entry at the mule"
+    },
+    {
+      "item": "Every sigil dark at the line identically (last time); Oryn a stride in and back — 'Nothing. Everything, round it. Same as you.' unanswered; Teague's crew's grief carried; Teague does not enter",
+      "status": "MET",
+      "evidence": "'A hundred lamps. He did not say the rest of it and neither did she' … 'Nobody answered that.' … 'My crew's stood at four of these. It's stood at enough.'"
+    },
+    {
+      "item": "The six reactions, one each (Lira; Brom; Karis; Seln; Vastin; Oryn)",
+      "status": "MET",
+      "evidence": "'Right.' / 'Older than the walls …' / 'It's the first one' / 'Nothing ahead but that.' / 'I never once asked who drew it … This is where they drew it.' / 'Same as you.'"
+    },
+    {
+      "item": "The thing begins at the line, not described past 'turned'; the fixed narration",
+      "status": "MET",
+      "evidence": "'under the ribs, at the place, something *turned*' … 'His Path did not die. It also did not *notice* it should have.'"
+    },
+    {
+      "item": "Close on the fixed dialogue verbatim; 'alone.' last word",
+      "status": "MET",
+      "evidence": "the closing exchange; the file ends on 'alone.'"
+    }
+  ],
+  "plants": [
+    "The turning — Ch24",
+    "'the one they built to make sure I'd never be' — Ch24",
+    "The stratum under the floor; the first cut — Book 9 (the tomb)",
+    "Oryn's 'Same as you' unanswered — Ch24",
+    "Vastin: 'This is where they drew it.' — Book 9"
+  ],
+  "payoffs": [
+    "B7 Ch23's council → he goes over",
+    "Ch17's 'oldest last' → the end of the line, nothing past it",
+    "Ch20's 'as old as the record' → proven by strata",
+    "Ch22's prediction → begun",
+    "Lira's Ring line → repeated at the last line"
+  ],
+  "names_minted": [],
+  "tic_census": {
+    "one_word_paragraphs": "see gate",
+    "the_way_x_verb": "see gate",
+    "upside_down": 0,
+    "four_hundred_years": 0
+  },
+  "state_change_proposals": [
+    "The 307th: the court reached across the plain (the plain's rock WORN DOWN to the floor's level from a mile out); a level seamless grey floor ~1,000 m across (1,012 by the cord); UPRIGHTS weathered to stumps (knee to waist), marks on their inner faces — the same notation, the cuts worn deeper at the bottom; a STRATUM in the plain's rock a hair below the stumps' base under everything — the floor cut to sit on it; 'the first one' by the strata; 'the others are copies' (a finding about rock). NOTHING on the floor. The bearing ENDS at the centre — nothing past it on paper or ground.",
+    "Paced along the line from outside: sharp, perfect (twenty-eight cords); Lira calling. Seln: no ground to use; 'Nothing behind. Nothing beside. Nothing ahead but that.'",
+    "At the line at dusk: every sigil dark at the stride identically (Karis drew nothing). LIRA looked at the whole of it and did not look away — 'Right.' BROM priced the stump ('Older than anything I've priced'); sat at his ease. KARIS: 'It's the first one.' VASTIN (day 28): 'I stood at a line for forty years, and told people which side of it they were. I never once asked who drew it. This is where they drew it.' ORYN a stride in, hands gone, a stride back: 'Nothing. Everything, round it. Same as you.' — UNANSWERED. TEAGUE did not enter: 'My crew's stood at four of these. It's stood at enough … Field's mine. This isn't field.'",
+    "CAEL at the line: the straightedge from Denvash out; the thirteen ringing; under the ribs, at the place, something TURNED (toward him or him toward it; 'a needle … when a lodestone comes into the room'); not entered — 'it had not finished beginning'. Lira's Ring line repeated; the fixed exchange; he stepped over; 'Wait here'; walked to the centre alone. Cash 123. Eleven and a mule at the line. Next: Ch24 (the centre; closing prose)."
+  ],
+  "deviations": [
+    "READER STANDARD (Gate 27): banned-word grep 0; no profanity or oaths; no violence; no sexual content; conduct decent (the rival captain keeps his crew out; the healer says her finding once).",
+    "READER STANDARD (Gate 27): banned-word grep 0; no violence; no sexual content; conduct decent.",
+    "r2 (repairs of r1): the court is the FIFTH circle (Ring, Stair, Hall, the fourth, the court) — 'no sixth'; the cord count reconciled to the 1,012-metre diameter and the twenty-metre cord (a hundred and fifty-nine cords; perfect at the twentieth and the eightieth); the centre five hundred strides off (not a stone's throw); the turning left as beginning only (mechanism and analogy cut); Teague's other hand shown a stride inside and back before his sentence; the silence scaffold varied."
+  ]
+}

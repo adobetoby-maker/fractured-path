@@ -1,0 +1,301 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch22-r2-editor",
+  "scene_id": "b8-ch22",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "FAIL",
+      "evidence": "The 306th night, east-mouth burial, blocked west mouth, half-day distance, cash 123, thirteen fragments, living count of eleven, mule recovery, and all carried injuries reconcile with the packet, STATE_RUNNING, and Chapter 21. The repaired recollection at line 53 now correctly places Cleon 'at a table under a city, with a cup of water in his hand,' but line 87 still calls the same speaker and warning 'A man in a door,' contradicting Chapter 13's table/cup staging (ed-b8-ch22-r2-001)."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration remains in Cael's close third. Teague's grief is inferred through count, posture, order, and omission; Oryn's work and Lira's wakefulness are witnessed; the inward result is explicitly bounded as a finding rather than promoted to omniscient explanation."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "The burial, six carrying at Teague's leave, one-paragraph mule recovery, consented rib reading and fixed lines, deliberate inward turn, still/set/bones/floor/instruction sequence, eye cost, secrecy, dark Arbiter, Span tally, cord and both edges, increasing unsourced trend, injury ledger, and fixed closing log are present. The warning's words and interrupted dash are restored at line 55, but the later 'A man in a door' recollection leaves the Chapter 13 memory internally inconsistent (ed-b8-ch22-r2-001)."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "No fight occurs; the site is not reached or named; the Court is not prepaid; no Architect presence, will, reset, or active maker is asserted; the still place is not equated with the Quiet; Cael does not conclude what he is; no character calls him made. Halcenvane, Velmere, Wray, Bracken, primordial, upside down, and four hundred years return 0. Generic temporal 'before' and 'source it' occur only in ordinary senses, never as the prohibited identity/source claim. The file ends on the authorized log."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "PASS",
+      "evidence": "Cael's choice follows from tomorrow's crossing, the boy's death, the tenth's repeated null reading, the twelfth's Chapter 13 mechanism, Chapter 18's unbidden inward turn, and Cleon's warning. The twelfth returns bounded structure and charges the established eye cost; it does not solve Cael's identity or conveniently erase a conflict."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "FAIL",
+      "evidence": "Headcount, name knowledge, possessions, fragment count, and injuries now persist correctly. One scene-memory contradiction remains: the warning is correctly recalled at a table at line 53 but attributed to 'A man in a door' at line 87, while Chapter 13 stages it at Cleon's table after he sets down his cup (ed-b8-ch22-r2-001)."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The chapter changes human, epistemic, and behavioral state: the dead crew member is buried and the count falls; Cael deliberately crosses Cleon's line, learns that the still place has structure, chooses secrecy, verifies the Arbiter's unchanged darkness, and establishes a rising instrument trend before tomorrow."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The prose uses the series' established cataloguing close third, procedural grief, measurement, limitation-first magic, and oblique dialogue. No influence author is named or recognizably imitated."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Tide and Rune are differentiated by use: current goes around the still place, while Rune finds bearer, borne, lean, rows, and structure at an eye cost. The Arbiter is checked like an unlit lamp; cord and brass edges turn the anomaly into repeatable measurement; the burial custom emerges through leave, carried stone, silence, and ownership rather than exposition."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new person, place, Path, institution, capability, or creature is minted. Cleon and Rune are planning-approved; all other names and mechanisms are established. The result remains 'the same kind of thing, to that instrument, as the sites were to Cleon's,' not a named identity, origin, purpose, or source."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked manually. The sustained Cael/Oryn exchange has a longest unattributed run of two lines; the embedded Oryn/Karis exchange is explicitly attributed; no 3+ speaker scene contains more than four unattributed lines. Italics supply emphasis, but all findings and the log remain intelligible when formatting is stripped."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every manuscript name was checked by ear against craft/NAME_REGISTRY.md and the Book 8 architecture's approved naming screen: Cael, Teague, Oryn, Brom, Lira, Karis, Vastin, Seln, Cleon, Lowmarch, Ternhall, Hesk, and Denvash. None is reserved or reused for a different entity. KAYL/CLEE-on remain distinct in vowel, syllable count, and stress; no live-scene name pair shares a confusable first syllable or rhyme. Ring, Stair, Span, Quiet, Arbiter, Rune, Tide, and Force are established site/common/system terms outside personal-name collision rules."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "The section 8.4 grep over ch22.md for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. wc -w returns 4,013, within the 3,910-5,290 tolerance band for the 4,600-word target."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive counts for Chapter 22 / Book 8 current chapter files 1-22 are: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/0; That was true 0/2; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Chapter 22 has 1 one-word paragraph ('Bones.'), 0 capped 'the way you/he/she [verb]' constructions, 0 upside down, and 0 four hundred years. Modern-register, feeling-declaration, growth-declaration, capped-uppercase-phrase, and loop Reader Standard banned-word greps each return 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 21 closes on a long observed-from-distance landscape/aftermath interpretation ending 'he did not want it to be.' Chapter 22 closes on the fixed first-person log ending 'the loudest thing that's ever happened to me.' The adjacent final-beat types differ: image/interpretation versus diegetic log."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Against STATE_RUNNING and Chapter 21, Cael remains at thirteen fragments and acquires none; the tenth reads current, the twelfth reads made structure, and the thirteenth's recoil persists in his ribs. Every injury persists: Teague's arm is wrapped and held aside; the broad man remains on his stick and his shoulder is read; Brom's forearm remains bound and is treated; Cael's ribs hurt and are read; Vastin cannot stand and remains on day 27; Karis uses one hand and has it rebound; the young one remains dead and is buried."
+    },
+    {
+      "gate": "state.party_headcount_and_name_knowledge",
+      "state": "PASS",
+      "evidence": "The repaired night count is exact: 'nine people asleep or pretending, and Lira awake' plus awake Cael equals eleven living people. The burial now says 'the six had heard it once' and would not repeat or ask the name again, consistent with Chapter 21 and the closing log's 'whose name I was told.' The mule is additional, not included in the eleven."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No rank, tier, fragment, or capability advancement occurs. Cael deliberately applies an existing twelfth fragment and gains information, not a new power."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "The Rune reading visibly costs focus and sight: 'the fire across the camp had gone to a smear,' and the eyes recover over roughly an hour. The Force-line recoil also remains in the ribs."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measurement",
+      "state": "PASS",
+      "evidence": "The progress is epistemic and behavioral: Cael chooses the forbidden self-study, refuses to turn the result into an identity sentence, tells no one, and carries a changed expectation into tomorrow."
+    },
+    {
+      "gate": "progression.4_no_unestablished_major_victory_capability",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no fight or major victory. The twelfth's non-combat operation, limitation, and cost were established in Chapter 13, and its inward response was planted in Chapter 18."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_keep_moving",
+      "state": "PASS",
+      "evidence": "Teague's crew owns the burial, loses one member, carries its injuries, and changes its count. It is not frozen as scenery or made subordinate to Cael's grief; the Compact is absent rather than paused for his convenience."
+    },
+    {
+      "gate": "progression.6_repeated_challenge_variety",
+      "state": "PASS",
+      "evidence": "Chapter 21's prepared-choke fight becomes a consent, grief, secrecy, self-study, and measurement scene. Chapter 18's unbidden glimpse becomes a deliberate sustained reading with deeper information and an explicit price."
+    },
+    {
+      "gate": "progression.7_setback_metabolized",
+      "state": "PASS",
+      "evidence": "The death changes conduct and understanding through burial, the reversed count, Teague's visible gap, Cael's recognition of the line's human cost, and his decision to examine himself before continuing. It is not repeated suffering without consequence."
+    },
+    {
+      "gate": "THE_AUTHOR.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The inward reading uses the previously taught unfocused gaze, lean, bearer/borne distinction, made-system limitation, and eye cost from Chapter 13; Chapter 18 supplies the earlier unbidden inward 'set' result."
+    },
+    {
+      "gate": "THE_AUTHOR.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Rune remains structure-not-meaning, ordinarily made-things-only, and costly to the eyes. Tide remains flow-only. Neither supplies motive, source, purpose, or identity."
+    },
+    {
+      "gate": "THE_AUTHOR.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No new named canon element appears. Existing fragments, instruments, site images, injuries, locations, crew practices, and terms are extended."
+    },
+    {
+      "gate": "THE_AUTHOR.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "The chapter promises to carry the death and ask the last available instrument before tomorrow. It pays this through burial, the structural finding, secrecy, Arbiter check, increased instrument drift, and the fixed prediction in the final log."
+    },
+    {
+      "gate": "THE_AUTHOR.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "Chapter 13 plants the twelfth, its mechanism, limits, warning, and eye cost; Chapter 18 plants its unbidden inward turn and 'set'; Chapter 1 supplies the Lowmarch instrument numbers; the Span tally precedes the trend; the Arbiter's darkness is longstanding."
+    },
+    {
+      "gate": "THE_AUTHOR.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The self-inquiry gains a bounded answer without identity closure; the death becomes changed crew state; the instrument anomaly becomes a logged trend rather than a solved causal theory."
+    },
+    {
+      "gate": "THE_AUTHOR.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "Technical passages are grounded in fingers on ribs, fire smear, eyes, rows and lean, pacing, cord, brass, daylight under an edge, and writing in darkness. Mechanism remains embodied rather than becoming a dossier."
+    },
+    {
+      "gate": "THE_AUTHOR.08_revision_pass_separation",
+      "state": "PASS",
+      "evidence": "A direct diff against the pre-repair manuscript shows exactly five substantive hunks: consent, name knowledge, mule paragraph joining, headcount, and the warning setting/punctuation. No unrelated passage changed. One old downstream doorway reference was not changed, producing ed-b8-ch22-r2-001, but there is no opportunistic rewrite."
+    },
+    {
+      "gate": "THE_AUTHOR.09_drawable_geography",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs. The east-mouth burial, ridge route around the blocked west mouth, camp below the pass, fire, and half-day eastern sightline are nevertheless spatially drawable."
+    },
+    {
+      "gate": "THE_AUTHOR.10_prose_tempo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat climax occurs. The non-combat discovery does use controlled cadence contrast, including one permitted single-word paragraph, 'Bones.'"
+    },
+    {
+      "gate": "THE_AUTHOR.11_masked_name_distinctness",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There are no combatant action profiles to test in this non-combat chapter. Dialogue voices remain separable through healer, cataloguer, and researcher priorities."
+    },
+    {
+      "gate": "THE_AUTHOR.12_stakes_before_blow",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no blow or fight. The risk, warning, eye cost, and reason for the self-reading are established before Cael turns the twelfth."
+    },
+    {
+      "gate": "THE_AUTHOR.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Every open injury from Chapter 21 and STATE_RUNNING is directly named or behaviorally carried, treated consistently, and not silently healed."
+    },
+    {
+      "gate": "THE_AUTHOR.14_tactical_escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight occurs."
+    },
+    {
+      "gate": "THE_AUTHOR.15_compression_scope",
+      "state": "PASS",
+      "evidence": "All major meaning-bearing beats occur on the page. The packet-designated logistical mule recovery is now correctly compressed into one paragraph, while burial, reading, secrecy, measurement, and logging remain dramatized."
+    },
+    {
+      "gate": "THE_AUTHOR.16_environmental_utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat scene occurs. In the non-combat set piece, the pass's blocked mouths and available stream-bed stone causally determine burial place, route, labor, and count."
+    },
+    {
+      "gate": "THE_AUTHOR.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement delta occurs. The knowledge gain is still legible, behaviorally consequential, and visibly costed."
+    },
+    {
+      "gate": "THE_AUTHOR.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is not a tournament round or ladder duel."
+    },
+    {
+      "gate": "THE_AUTHOR.19_skill_beats_number",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no numerical opponent or major win in this chapter."
+    },
+    {
+      "gate": "THE_AUTHOR.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague's crew remains an independent rival unit: it owns the burial order, absorbs the loss, tends its own count, and does not become an accessory to Cael's scene."
+    },
+    {
+      "gate": "THE_AUTHOR.21_social_echo",
+      "state": "PASS",
+      "evidence": "Outside any stat sheet, Oryn recognizes the new Force-line recoil in Cael's ribs, Teague's crew visibly becomes one short, and Cael changes what he is willing to examine and withhold."
+    },
+    {
+      "gate": "THE_AUTHOR.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System/status box appears. The final Power Log is a diegetic document written and owned by Cael."
+    },
+    {
+      "gate": "THE_AUTHOR.23_dramatized_critique",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The chapter is not an institutional-critique scene."
+    },
+    {
+      "gate": "THE_AUTHOR.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor or deflection is deployed under the chapter's grief and self-study."
+    },
+    {
+      "gate": "THE_AUTHOR.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "This is the assigned no-deflection chapter: burial, loss, consented care, forbidden self-study, secrecy, measurement, and prediction are processed without joke, banter, or lampshade."
+    },
+    {
+      "gate": "THE_AUTHOR.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "Cael's pursuit has a concrete moral cost: another captain's dead young crew member, a diminished count, and a line Cael still elects to follow. The six respect ownership of grief, carry only at leave, and do not claim the name."
+    },
+    {
+      "gate": "THE_AUTHOR.27_reader_standard",
+      "state": "PASS",
+      "evidence": "The loop's whole-word banned-language grep returns 0, as do modern-register and feeling/growth declaration greps. There is no sexual content, innuendo, gore, or glamorous cruelty. Death is grieved; injuries are functional and treated; loyalty, restraint, consent, honesty, and care cost effort. The repaired manuscript explicitly has Oryn ask 'Ribs. May I?' and Cael answer 'Yes' before the reading. The author report explicitly records the Reader Standard check."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b8-ch22-r2-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity and packet fidelity — Cleon's warning setting",
+      "gate": "Packet must_include: Cleon's warning remembered / Craft Core continuity persistence",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch22.md",
+        "line_start": 87,
+        "line_end": 87,
+        "quote": "He understood what had just happened. He did not need it explained. A man in a door had said *if it ever reads something for you that shouldn't be made and reads it anyway*, and it had, and he had felt it read, and the reading was on the page now in the only words he was going to allow it, and the man had said *don't tell anyone*, and he was not going to."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch13.md",
+        "line_start": 89,
+        "line_end": 91,
+        "quote": "Cleon had a cup on the table. He had had it there all week — water, from the spring at the gallery's head, in a clay cup that had been a cup for thirty years — and he had not once, in Cael's seeing, drunk from it while he read, because a man who reads with his whole attention does not have a hand to spare for a cup. He picked it up now, and drank.\n\n\"I'm going to pretend you didn't tell me that,\" he said, \"for your sake, not mine. But I'll tell you one thing for free, since you can apparently take my whole trade by watching me work it for a minute.\" He set down the cup. \"Everything I read is *made*. Stone, ink, seal — somebody built it, so I can see how. If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — \" He stopped. \"Don't tell me. Don't tell anyone. Just remember I said it.\""
+      },
+      "consequence": "The targeted repair correctly restores the first recollection to Cleon's table and cup at manuscript lines 53-55, but this second reference still relocates the same warning to a doorway. A careful reader can hit the contradiction inside Chapter 22 itself, and it leaves verified finding ed-b8-ch22-r1-003 only partially repaired despite the warning's wording and dash now being correct.",
+      "repair_target": "Line 87 only: make the speaker reference consistent with Chapter 13 and the repaired line 53 table/cup memory while preserving the exact warning fragment, Cael's understanding, and his choice to tell no one. Do not revise surrounding prose.",
+      "confidence": "HIGH"
+    }
+  ],
+  "strengths": [
+    "All six strengths recorded in r1 survive the targeted repair, and the direct pre/post diff confirms no unrelated manuscript passage changed. The five substantive diff hunks are confined to the five verified repair areas; the burial, self-study, instrument ritual, injury ledger, and fixed log outside those hunks are byte-for-byte unchanged.",
+    "The burial remains emotionally exact and worth protecting: 'The six carried at his leave,' the broad man's one-handed stones, Oryn's 'Three strides,' the heard-but-unrepeated name, and Teague's missing count make grief procedural and physical without gore or consolation. The name-knowledge repair strengthens rather than sands away that effect.",
+    "Worldbuilding is done through mechanism and use. Tide returns absent current; Rune returns bearer, borne, lean, rows, and structure; the Arbiter is checked like a lamp; cord and two brass edges produce repeated anomalous measurements. The consent covenant is also shown in use — 'Ribs. May I?' / 'Yes' — rather than left as a bible abstraction.",
+    "There is intentionally no fight, so a combat win sentence of the form 'X removed Y's ability to Z' is not applicable. The chapter's non-combat set pieces are nonetheless memorable and terrain-dependent: the pass's blocked mouths choose the burial side, injuries determine how stone can be carried, the ridge path makes mule recovery possible, firelight and darkness price the Rune reading, and paced ground makes the instrument drift suspenseful.",
+    "The self-study climax keeps its receipts and its discipline: the tenth and twelfth remain distinct instruments; Chapter 18's still/set result becomes a deliberate deeper choice; 'Bones.', 'A floor with nothing built on it.', and 'An instruction with no language.' arrive in the assigned order; the eyes pay; Cael refuses the identity sentence and tells no one.",
+    "The fragment and injury ledger remains exceptionally controlled. Thirteen stays thirteen; the thirteenth's recoil remains in the ribs; Teague's arm, Brom's forearm, the broad man's leg and shoulder, Vastin's day-27 knee, Karis's bound hand, and the young one's death all persist exactly from Chapter 21 and STATE_RUNNING.",
+    "The fixed final log survives verbatim with the authorized 'whole year' amendment and still ends the file. Its prediction of nothing converts the inward structural discovery and rising trend into pressure for Chapter 23 without reaching or naming the site early."
+  ],
+  "concerns": [
+    "Taste: after the permitted finding lands at line 83 — 'the same kind of thing, to that instrument, as the sites were to Cleon's' — lines 85-87 explain the inference again through 'A made thing's inside' and 'He understood what had just happened.' This remains short of the prohibited reveal, but a human reader may find the first exact sentence stronger without the repeated gloss.",
+    "Taste: the repaired consent sentence adds the explicit maxim 'because a healer asks every time or she is not one.' It cleanly protects canon and Gate 27, but it states the ethic more directly than the chapter usually states character; a human ear should decide whether that emphasis is desirable. This is taste, not a contract defect.",
+    "Taste/audio watch: the chapter leans heavily on the house scaffolds 'a man who...', 'a thing that...', and 'because...'. No measured phrase crosses a cap and the construction belongs to Cael's voice, but distinct emotional and technical beats sometimes arrive in the same syntax. Cleon/Cael remain aurally distinct, though a narrator should keep KLEE-on and KAYL sharp in their dense technical passages."
+  ]
+}
