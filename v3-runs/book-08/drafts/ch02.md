@@ -106,7 +106,7 @@ Karis wanted the name and said so, which was a different thing. "I want the name
 
 "Under every station on the continent," Karis said. "I said so at a table in the autumn." Her voice did not change. "That's not news, Vastin. That's a thing I've carried since Ostrand, and said aloud at Thornwater with the ring flat on the table. Say the part that's new."
 
-Vastin looked at her for the length of a breath, and Cael watched a man revise an estimate. "No living official can reach it," he said. "That is the part that is new. Not *will not*. *Cannot.* There is no key. There has been no key in living memory, and the Compact has stopped noticing that there is no key, because a thing you cannot open becomes, after a century or two, a wall, and nobody files a complaint about a wall."
+Vastin looked at her for the space of a step, and Cael watched a man revise an estimate. "No living official can reach it," he said. "That is the part that is new. Not *will not*. *Cannot.* There is no key. There has been no key in living memory, and the Compact has stopped noticing that there is no key, because a thing you cannot open becomes, after a century or two, a wall, and nobody files a complaint about a wall."
 
 Karis wrote. She had the notebook open before he finished the second sentence and she wrote as she wrote at a source, without looking down, and when she stopped she said, "And the name."
 

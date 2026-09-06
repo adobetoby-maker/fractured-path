@@ -56,7 +56,7 @@
 
 They went up on the two hundred and sixty-fifth day, the two of them, because the map was the five's and the promise was his and Lira's arm was hers, and Karis said, "Bring it back," meaning the map, and Brom said, "Bring her back," meaning nothing he would say twice, and Seln said nothing and put two days' bread in Cael's pack without being asked.
 
-The road in thaw was a different road. He catalogued it because he had catalogued it in three weathers and this was the fourth: the ruts full of brown water and the water full of sky; the scrub coming up green under the dead brown, an inch, like a thing that had been told to wait and had waited; the ford at the bend running fast and knee-high and cold enough to take the feeling out of a foot in the length of a breath, so that they crossed it fast and sat on the far bank and rubbed their feet until they came back. Lira, beside him on the bank, with the sling gone the colour of the road and her right foot out of its boot, the tape on it grey and the ankle under the tape the shape it had been since the traverse — turned out, a little, from a winter of standing on it so that it did not say anything.
+The road in thaw was a different road. He catalogued it because he had catalogued it in three weathers and this was the fourth: the ruts full of brown water and the water full of sky; the scrub coming up green under the dead brown, an inch, like a thing that had been told to wait and had waited; the ford at the bend running fast and knee-high and cold enough to take the feeling out of a foot in a moment, so that they crossed it fast and sat on the far bank and rubbed their feet until they came back. Lira, beside him on the bank, with the sling gone the colour of the road and her right foot out of its boot, the tape on it grey and the ankle under the tape the shape it had been since the traverse — turned out, a little, from a winter of standing on it so that it did not say anything.
 
 She had not said the word for five months. He had counted. She had walked six days from the fourth site on it and two days up this road on it and had said *foot* and *boot* and *tape* and had not said the other, because a healer had said she would say when, and Lira, who took orders from nobody, had taken that one and kept it past the first mile and past the winter.
 
@@ -78,7 +78,7 @@ She had a man on a bench with his shirt off and a rope-burn across his shoulders
 
 "You said to," he said.
 
-"I did." She put the cloth down. "Sit her on the bench. Him, off it." The man got off the bench with his shirt in his hand and went, and Lira sat, and Oryn came and stood in front of her, and did not touch her, and looked at the arm across her chest for the length of a breath, and then at Lira's face, which had gone still in the particular way it went still before a bout.
+"I did." She put the cloth down. "Sit her on the bench. Him, off it." The man got off the bench with his shirt in his hand and went, and Lira sat, and Oryn came and stood in front of her, and did not touch her, and looked at the arm across her chest for a count of one, and then at Lira's face, which had gone still in the particular way it went still before a bout.
 
 "Five months," Oryn said.
 
