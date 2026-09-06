@@ -124,13 +124,13 @@ Because the wall was still the loudest thing in the cut. It had never stopped be
 
 The rooted thing they could not move was the thing they broke on. He had taken away the pack's ability to converge on the rooted man by being louder than the wall for three breaths and then not.
 
-They hit the plane a fourth time, all six, at the speed of ice and a slope and a shout behind them, and the plane held, because that was what it did, and the six stillhounds who hit it at that speed did not go over each other this time; they went into it, and down, on the ice, in a heap of grey against a wall of nothing, and for the length of a breath there was no pack in the cut. There was a heap.
+They hit the plane a fourth time, all six, at the speed of ice and a slope and a shout behind them, and the plane held, because that was what it did, and the six stillhounds who hit it at that speed did not go over each other this time; they went into it, and down, on the ice, in a heap of grey against a wall of nothing, and for a count of one there was no pack in the cut. There was a heap.
 
 Seln was in the heap.
 
 He had been on the north scree, above the sink, the whole time — Cael understood it afterward, drawing it — a body on a slope not using anything, ten strides above the plane's north end, and he had come down the scree onto the road in the breath after the heap, and was in it, with the knife, in the runnel, on the ice, where the pack was, doing the thing he did without a sound. Brom came in from the south end with the rock. Lira came down the scree a second time. Cael came up the road from the west with the knife into the back of the heap, and it was not a fight then; it was the runnel, and steel, and four people who did not declare, and a wall.
 
-It took the length of a slow breath. When it was done there was ice with grey on it, and three hounds going back over the road's north edge into the sink at a run because a pack that has lost five is not a pack, and Brom on the stone with the rock, and Lira on the scree with one hand on the slope and the other in the air where she had put it to keep her balance and had not needed to, looking at the hand.
+It took a moment. When it was done there was ice with grey on it, and three hounds going back over the road's north edge into the sink at a run because a pack that has lost five is not a pack, and Brom on the stone with the rock, and Lira on the scree with one hand on the slope and the other in the air where she had put it to keep her balance and had not needed to, looking at the hand.
 
 And the wall came down.
 
