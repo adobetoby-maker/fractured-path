@@ -1,0 +1,344 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch21-r1-editor",
+  "scene_id": "b8-ch21",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "authority.canon_timeline_state",
+      "state": "PASS",
+      "evidence": "The 306th, twelve people plus the mule, thirteen fragments, Vastin's day 27 and rooted limit, Teague's disabled arm and other-hand lead, the broad man's day-two stick, Karis's bound hand, and all post-fight costs reconcile against STATE_RUNNING and Chapters 19-20. No protected secret is disclosed."
+    },
+    {
+      "gate": "authority.point_of_view_integrity",
+      "state": "PASS",
+      "evidence": "The narration stays in Cael's witnessed close third. Other minds are visible conduct or marked inference; no identity, face, faction poster, Court name, or Architect activity enters as fact."
+    },
+    {
+      "gate": "obligations.required_beats_plants_payoffs",
+      "state": "FAIL",
+      "evidence": "The pass, rig, four exchanges, death, Force use, retreat, costs, win-sentence, and closing image are present. The fixed volley order is changed (ed-b8-ch21-r1-002), and Teague's required verbatim one-sentence lesson is split and repunctuated (ed-b8-ch21-r1-003)."
+    },
+    {
+      "gate": "obligations.prohibited_outcomes",
+      "state": "PASS",
+      "evidence": "Searches over ch21.md return 0 for Quieting/quiet ground, Court, Architect, Halcenvane, Velmere, Wray, Bracken, upside down, and four hundred years. No face is shown, no one is tortured or pursued, the crew kills nobody, the young one remains unnamed on the page, and the file closes on the aftermath image rather than dialogue or a log block."
+    },
+    {
+      "gate": "core.causal_legibility_and_earned_resolution",
+      "state": "FAIL",
+      "evidence": "Established capabilities earn the win, but the wall occupies incompatible positions and the rockfall crosses an unaccounted twenty strides to seal the entrance (ed-b8-ch21-r1-001)."
+    },
+    {
+      "gate": "core.continuity_persistence",
+      "state": "PASS",
+      "evidence": "Teague uses only the other hand; the broad man remains on a stick before taking the shoulder bolt; Vastin uses the stick, remains rooted, and collapses; Karis's hand remains bound. New costs recur after the fight: Brom's forearm, the broad man's shoulder, Cael's ribs, Vastin's exhaustion, and the death."
+    },
+    {
+      "gate": "core.consequential_scene_and_emotional_movement",
+      "state": "PASS",
+      "evidence": "The faction loses the pass, Cael deploys Force for the first time, Teague loses one of his people, Oryn meets the first death shown under her hands, and Cael's desire for the terminus acquires a human price."
+    },
+    {
+      "gate": "voice.anti_pastiche",
+      "state": "PASS",
+      "evidence": "The chapter uses the series' cataloguing, procedural emotion, cost accounting, and oblique dialogue without naming or recognizably imitating an influence author."
+    },
+    {
+      "gate": "voice.worldbuilding_through_mechanism_and_use",
+      "state": "PASS",
+      "evidence": "Yes. Iron Wall is taught, loaded by bolts and a rockfall, and shown failing only at its boundary; Force is understood through frame, contact, distance, and recoil; healing is shown through rolls, hands, reserve, binding, and death's limit."
+    },
+    {
+      "gate": "voice.new_canon_and_reveal_discipline",
+      "state": "PASS",
+      "evidence": "No new named person, place, Path, capability, history, or identity is minted. The second stack and rig geometry are allowed invention, and Chapter 22's still-place finding is not pre-paid."
+    },
+    {
+      "gate": "audio.dialogue_attribution_and_typography_survival",
+      "state": "PASS",
+      "evidence": "Section 8.5 was checked manually across the opening council, combat calls, and aftermath. No multi-party scene has more than four unattributed dialogue lines; the longest run is two ('Held' / 'Held'). Italics add emphasis only, and there is no System block."
+    },
+    {
+      "gate": "audio.names_by_ear",
+      "state": "PASS",
+      "evidence": "Every proper name was checked by ear against craft/NAME_REGISTRY.md: Cael, Seln, Brom, Teague, Vastin, Lira, Karis, Oryn, and Compact are established and distinct in context. No new or reserved-name collision appears."
+    },
+    {
+      "gate": "production.metadata_summary_and_length",
+      "state": "PASS",
+      "evidence": "The section 8.4 grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' returns 0. The section 10 summary-substitution grep returns 0. wc -w returns 4,504, inside the 3,910-5,290 band."
+    },
+    {
+      "gate": "production.anti_tic_and_banned_register_counts",
+      "state": "PASS",
+      "evidence": "Actual case-insensitive Chapter 21 / Book 8 Chapters 1-21 counts: jaw tightened 0/0; laughed once 0/0; without humor 0/0; stomach tightened 0/0; stomach dropped 0/0; There it was 0/0; That was true 0/2; Also true 0/0; sounded almost 0/0; held this 0/0; which was, in its own way 0/0; standalone '[Name] noticed.' 0/0. Chapter 21 has 0 one-word paragraphs, 4 'the way X [verb]' constructions (packet cap 4), 0 upside down, and 0 four hundred years. Modern-register, feeling-declaration, growth-declaration, and Reader Standard banned-word searches return 0."
+    },
+    {
+      "gate": "production.chapter_closer_variety",
+      "state": "PASS",
+      "evidence": "Chapter 20 ends on dialogue plus a knowledge teaser; Chapter 21 ends on an observed aftermath/landscape image carrying Cael's changed understanding. The adjacent final-beat types differ."
+    },
+    {
+      "gate": "state.fragment_inventory_and_injuries",
+      "state": "PASS",
+      "evidence": "Cael remains at thirteen confirmed fragments plus the separate still-place anomaly; no acquisition occurs. Force-adjacent was acquired in Chapter 19 and is used on stone with established contact/frame/body's-length limits and recoil. Open injuries carried are Teague's arm, the broad man's leg, Vastin's knee, and Karis's hand; new ledger items are Brom's forearm, the broad man's shoulder, Cael's ribs, Vastin's exhaustion, and the young one's death."
+    },
+    {
+      "gate": "state.party_headcount_and_witness_scope",
+      "state": "PASS",
+      "evidence": "The floor group is eleven because Seln is off-route; Seln makes twelve total, and the mule remains outside. Only this group witnesses the Force deployment, and no new person is told the integration mechanism."
+    },
+    {
+      "gate": "progression.1_advancement_cause_and_delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement or acquisition occurs; the thirteenth was acquired and recorded in Chapter 19."
+    },
+    {
+      "gate": "progression.2_cost_or_tradeoff_visible",
+      "state": "PASS",
+      "evidence": "Force moves the brace a body's length and returns recoil through Cael's frame into his ribs; Iron Wall roots and exhausts Vastin; Lira's speed and Teague's other-hand use remain bounded by prior costs."
+    },
+    {
+      "gate": "progression.3_progress_changes_outside_measurement",
+      "state": "PASS",
+      "evidence": "Cael's fragment changes a tactical option and leaves injury and moral consequence rather than a rank display; Teague's alliance and doctrine change through loss."
+    },
+    {
+      "gate": "progression.4_no_unestablished_major_victory_capability",
+      "state": "PASS",
+      "evidence": "Iron Wall was established in Chapters 4 and 12, Force in Chapters 17 and 19, Seln's cord in Chapter 12, and Lira's speed throughout the series."
+    },
+    {
+      "gate": "progression.5_rivals_and_institutions_keep_moving",
+      "state": "PASS",
+      "evidence": "Teague adapts to his injured arm and loses a crew member. The faction has reinforced from seven to nine, prepared a new terrain solution, and preserves itself by retreating."
+    },
+    {
+      "gate": "progression.6_repeated_challenge_variety",
+      "state": "PASS",
+      "evidence": "This fight replaces Chapter 19's Quiet-boundary herding with a rockfall choke, rooted wall, swept-scree flank, and shelf stair."
+    },
+    {
+      "gate": "progression.7_setback_metabolized",
+      "state": "PASS",
+      "evidence": "The death produces Teague's lesson and changes Cael's understanding of the line he has chosen to follow; it is not damage alone."
+    },
+    {
+      "gate": "THE_AUTHOR.01_solution_traceability",
+      "state": "PASS",
+      "evidence": "The win uses established Iron Wall, Force, speed, stealth, and the cord; no new rule is created at resolution."
+    },
+    {
+      "gate": "THE_AUTHOR.02_constraint_tagging",
+      "state": "PASS",
+      "evidence": "Wall is rooted and exhausting; Force needs frame, ground, contact, and recoil; Iron Skin does not cover Brom's exposed cuff."
+    },
+    {
+      "gate": "THE_AUTHOR.03_new_vs_existing_ratio",
+      "state": "PASS",
+      "evidence": "No named canon element is added; established abilities, crews, injuries, bearing, and faction are extended."
+    },
+    {
+      "gate": "THE_AUTHOR.04_promise_payoff_closure",
+      "state": "PASS",
+      "evidence": "Passage without declaration is won; the failed no-death term becomes the central paid consequence rather than an abandoned promise."
+    },
+    {
+      "gate": "THE_AUTHOR.05_foreshadow_before_reveal",
+      "state": "PASS",
+      "evidence": "The rig is drawn before it falls, the slope is visible before Seln appears, the second stack precedes Cael's push, and all capability components were established."
+    },
+    {
+      "gate": "THE_AUTHOR.06_thread_type_match",
+      "state": "PASS",
+      "evidence": "The faction remains an external mystery, the capability thread pays by deployment, and the emotional debt opens as Teague's grief and lesson."
+    },
+    {
+      "gate": "THE_AUTHOR.07_sensory_vs_expository_ratio",
+      "state": "PASS",
+      "evidence": "World information is embedded in wet boots, stone, rope, dust, bolt sound, hands, breath, and footing; no long passage is exposition-dominant at 2:1."
+    },
+    {
+      "gate": "THE_AUTHOR.08_revision_pass_separation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is the first review of a fresh draft; the per-book revision-log gate cannot be adjudicated as a chapter defect."
+    },
+    {
+      "gate": "THE_AUTHOR.09_drawable_geography",
+      "state": "FAIL",
+      "evidence": "The pass and shelf are drawable, but the wall cannot be placed consistently relative to party, mouth, and rockfall; see ed-b8-ch21-r1-001."
+    },
+    {
+      "gate": "THE_AUTHOR.10_prose_tempo",
+      "state": "PASS",
+      "evidence": "Long accumulation contracts into impact beats ('It came down onto the wall.'; 'Seln was on it.'; 'The team broke.'), providing clear cadence contrast."
+    },
+    {
+      "gate": "THE_AUTHOR.11_masked_name_distinctness",
+      "state": "PASS",
+      "evidence": "Without names, the wall-holder, infiltrator, cataloguer, off-hand captain, speed fighter, Iron defender, researcher, and healers remain distinct by action."
+    },
+    {
+      "gate": "THE_AUTHOR.12_stakes_before_blow",
+      "state": "PASS",
+      "evidence": "Before the first bolt, the reader has the bearing, rockfall, no-round constraint, wall doctrine, twelve-person objective, and Cael's desire to reach the site alive."
+    },
+    {
+      "gate": "THE_AUTHOR.13_injury_persistence",
+      "state": "PASS",
+      "evidence": "Prior injuries constrain the fight and every new material injury or exhaustion state reappears in the aftermath."
+    },
+    {
+      "gate": "THE_AUTHOR.14_tactical_escalation",
+      "state": "PASS",
+      "evidence": "The harder problem is terrain and options, not a larger number: wall, height, rig, and retreat path form the choke."
+    },
+    {
+      "gate": "THE_AUTHOR.15_compression_scope",
+      "state": "PASS",
+      "evidence": "All major beats occur in real time; no choice, death, reversal, or cost is summarized off-page."
+    },
+    {
+      "gate": "THE_AUTHOR.16_environmental_utilization",
+      "state": "PASS",
+      "evidence": "Crossbow height, rockfall, swept-scree ascent, and stair/ridge retreat all causally depend on terrain."
+    },
+    {
+      "gate": "THE_AUTHOR.17_growth_legibility_and_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no new advancement; the first deployment of an existing fragment is nevertheless legible and costed."
+    },
+    {
+      "gate": "THE_AUTHOR.18_information_per_round",
+      "state": "NOT_APPLICABLE",
+      "evidence": "This is not a tournament round or ladder duel."
+    },
+    {
+      "gate": "THE_AUTHOR.19_skill_beats_number",
+      "state": "PASS",
+      "evidence": "The decisive axis is Seln's ground-reading and stealth, supported by the wall's attention draw, not a higher stat."
+    },
+    {
+      "gate": "THE_AUTHOR.20_rival_motion",
+      "state": "PASS",
+      "evidence": "Teague succeeds left-handed, pays a death, and leaves with a lesson advancing his crew's doctrine."
+    },
+    {
+      "gate": "THE_AUTHOR.21_social_echo",
+      "state": "PASS",
+      "evidence": "Cael's capability affects the shelf fight, while Karis's touch on Vastin and the witnessing of Teague's grief register consequence outside a sheet."
+    },
+    {
+      "gate": "THE_AUTHOR.22_box_ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System/status box appears."
+    },
+    {
+      "gate": "THE_AUTHOR.23_dramatized_critique",
+      "state": "PASS",
+      "evidence": "Institutional force is embodied as trained people, prepared terrain, suppressed identity, and lethal action rather than a speech about injustice."
+    },
+    {
+      "gate": "THE_AUTHOR.24_comedy_cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No humor is deployed under the chapter's stakes."
+    },
+    {
+      "gate": "THE_AUTHOR.25_scheduled_quiet",
+      "state": "PASS",
+      "evidence": "The aftermath gives Cael, Teague, and Oryn sustained processing without jokes or deflection."
+    },
+    {
+      "gate": "THE_AUTHOR.26_losable_moral_stake",
+      "state": "PASS",
+      "evidence": "Cael's pursuit costs another captain a young crew member; the scene neither excuses the cost nor abandons responsibility."
+    },
+    {
+      "gate": "THE_AUTHOR.27_reader_standard",
+      "state": "PASS",
+      "evidence": "Banned-word grep returns 0; no sexual content appears. The death is shown without gore; mercy is operational through spear butt, blade flat, release, and no pursuit; the dead is grieved."
+    }
+  ],
+  "findings": [
+    {
+      "id": "ed-b8-ch21-r1-001",
+      "status": "PROPOSED",
+      "severity": "HIGH",
+      "category": "combat — contradictory geography and causality",
+      "gate": "THE_AUTHOR Gate 9 / voice charter §4.1 / reader-trust invariant 2",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch21.md",
+        "line_start": 41,
+        "line_end": 41,
+        "quote": "Vastin planted the stick, and set the bad knee, and put the wall up across the mouth of the pass behind them and across the floor in front — not a wall; a *plane*, as at a cut, from the west scree to the east rock, a thing the eye did not see and the body knew, and he set it at a slant, facing the shelf, because a plane that faces the thing that shoots at it is a plane and a plane that does not is a line on the ground. The second volley hit it. Cael heard the bolts go off it — a flat sound, like stones on ice — and skip up the east wall and fall in the stream-bed, spent, and the eleven were behind it, on the floor, down, with the loose stone under their hands and the shelf above them and nothing coming through."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch21-editor-prompt-r1.md",
+        "line_start": 466,
+        "line_end": 466,
+        "quote": "VASTIN declares Iron Wall across the defile's mouth and the twelve go to ground behind it; the bolts skip off the plane"
+      },
+      "consequence": "The floor group is twenty strides inside. The wall is then both across the entrance behind them and across the floor in front, while all eleven are behind it and protected from fire ahead. Stone striking that plane next appears twenty strides back across the entrance. Because the death depends on which side is safe, this is material rather than cosmetic orientation friction.",
+      "repair_target": "Lines 35-57: establish one exact cross-pass position for the rooted plane relative to the eleven, then give the fall a continuous route from shelf to plane to entrance pile without moving the plane or passing the crew through it.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b8-ch21-r1-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "packet fidelity — fixed volley sequence",
+      "gate": "Authority ladder level 4 / assigned four-exchange obligation",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch21.md",
+        "line_start": 75,
+        "line_end": 75,
+        "quote": "The broad man was hit in the fifth volley."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch21-editor-prompt-r1.md",
+        "line_start": 466,
+        "line_end": 466,
+        "quote": "the broad man (hit in the second volley) back behind it, and the third volley takes him through the chest at the wall's edge"
+      },
+      "consequence": "The packet fixes the paired second/third-volley causality. The draft inserts three additional volleys and calls the hits fifth/sixth while the author report claims the carded sequence was met. The outcome works, but the factual tactical count no longer matches the work order.",
+      "repair_target": "Lines 45-83: reconcile the numbered volleys to the second/third sequence, or obtain an explicit packet/state ruling authorizing the expanded count.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ed-b8-ch21-r1-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "packet fidelity — verbatim fixed line",
+      "gate": "Packet must_include: Teague's lesson verbatim and in one sentence",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch21.md",
+        "line_start": 143,
+        "line_end": 143,
+        "quote": "\"A wall keeps everyone behind it. And one of mine wasn't.\""
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/packets/ch21-editor-prompt-r1.md",
+        "line_start": 480,
+        "line_end": 480,
+        "quote": "TEAGUE'S LESSON verbatim: 'a wall keeps everyone behind it, and one of mine wasn't.'"
+      },
+      "consequence": "The required lesson is explicitly one sentence and verbatim because it carries to Chapter 24. The draft turns it into two sentences. Its meaning survives, but the fixed-line obligation and future quotation source do not.",
+      "repair_target": "Line 143: restore the packet's exact one-sentence lesson.",
+      "confidence": "HIGH"
+    }
+  ],
+  "strengths": [
+    "The death is priced with restraint: 'Oryn's hands on the boy's chest' moves to hands on her own knees and then the closed kit. The scene refuses gore, false hope, or a consoling speech, and lets Teague's kneeling carry the loss.",
+    "The set piece is memorable despite the wall-position defect. Terrain is load-bearing: height creates the crossbow advantage, the rig becomes the wall's load, the rockfall sweeps open the route it meant to deny, and the stair becomes finishing access. The win is writable in the required form: Seln removed the team's ability to hold the high ground by climbing the slope its own rig had swept clean, while Vastin's wall removed their ability to notice or shoot that climb.",
+    "Worldbuilding is done through mechanism and use. Iron Wall's nature appears through stopped bolts, redirected stone, Vastin's rooted body, the safety line, and the paid limit. Force appears as stance, contact, displacement, and recoil.",
+    "Cael's first Force deployment has receipts: prior observation is recalled, the usable line is found, displacement stays within a body's length, the ability is used on stone, and recoil returns to the vulnerable ribs.",
+    "Mercy is choreographed rather than announced: the spear is reversed, Lira uses the blade's flat, Seln releases the corded fighter, and nobody pursues the retreat.",
+    "The aftermath catalogue carries injury, grief, watch duty, healing limit, destination, and moral cost without introducing Chapter 22's answer."
+  ],
+  "concerns": [
+    "Taste: the narration sometimes explains a beat immediately after the image lands ('That was the thing about a wall'; 'That was the lesson'; 'that was a healer's whole verdict'). This is house register and breaches no measured cap, but the death is strongest where objects and silence are trusted without a gloss.",
+    "Taste: the final paragraph keeps the required image and understanding, but also adds the decision to continue, a future log entry, and a truth-value judgment in one long sentence. The card supports those ideas; a human ear should decide whether the visible line or its complete interpretation is the stronger final pressure.",
+    "Continuity watch for Chapter 22: the west entrance is blocked and the mule with Karis's boxes remains outside. This is not a Chapter 21 defect because the packet deliberately leaves the mule at the mouth, but recovery must occur before the party relies on the boxes."
+  ]
+}

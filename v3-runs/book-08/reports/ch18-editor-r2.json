@@ -1,0 +1,362 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch18-r2-editor",
+  "scene_id": "b8-ch18",
+  "verdict": "PASS_WITH_FINDINGS",
+  "gate_results": [
+    {
+      "gate": "REPAIR SCOPE — no unrelated manuscript changes",
+      "state": "PASS",
+      "evidence": "The committed manuscript diff `git diff 8912df2^ 8912df2 -- v3-runs/book-08/drafts/ch18.md` contains nine localized hunks, all at the ten verified repair targets: the Millrace knee promise; Lira's count; Karis's wound facts and repeated age; Oryn's route sentence; Cleon's remembered setting and punctuation; the Rune cost; the final Noted remark; the wall-count clause; and the route closer. No other manuscript passage changed."
+    },
+    {
+      "gate": "RECHECK F-001 — Karis injury continuity",
+      "state": "PASS",
+      "evidence": "Repaired at line 65: `Karis's hand. The bound one, the cut across the back of the left hand from a step's edge in a cut, eight days old`; the repeated age is also repaired at line 73: `Karis, who had been writing with it for eight days`. These match ch12's back-of-left-hand, step-edge wound on the 290th."
+    },
+    {
+      "gate": "RECHECK F-002 — Rune-adjacent cost",
+      "state": "PASS",
+      "evidence": "Repaired at line 125: `The eyes were paying already, in the dark, which was the one place they could pay unseen: the lean-to's open side gone to a smear`. The established `Costs the eyes, after` bill from ch13 is now visible in the scene."
+    },
+    {
+      "gate": "RECHECK F-003 — route into Chapter 19",
+      "state": "PASS",
+      "evidence": "Repaired at line 175: `past the Stair's bowl and the Hall's marsh, five days to the fourth site with the Compact's cordon round it, which none of them had crossed, and past that, on the line, to a point in a straightedge's shadow`. The fourth site is now the five-day destination and remains unentered; the third-tier point stays beyond it."
+    },
+    {
+      "gate": "RECHECK F-004 — Lira injury count",
+      "state": "PASS",
+      "evidence": "Repaired at line 59: `Fifteen days at the fork. It's had thirty-three. It's an arm.` This carries ch12's twenty-five-day count on the 290th forward eight days to the 298th."
+    },
+    {
+      "gate": "RECHECK F-005 — Oryn's independent route",
+      "state": "PASS",
+      "evidence": "Repaired at line 95: `because she had carried this reading on her route since the autumn and was going to have it whole.` The narration no longer says she left her route for Cael."
+    },
+    {
+      "gate": "RECHECK F-006 — Millrace spring promise",
+      "state": "PASS",
+      "evidence": "Repaired at line 33: `the old woman's knee among them, done again as she had said at this ford in the autumn she would, the ladder order repeated and, by the woman's face, refused again`. This pays B7 ch18's spring promise at the same ford."
+    },
+    {
+      "gate": "RECHECK F-007 — Cleon memory location",
+      "state": "PASS",
+      "evidence": "Repaired at line 123: `But he heard Cleon, at a table with a cup`. This restores the ch13 chamber-table setting and no longer merges the warning with Cleon's later doorway goodbye."
+    },
+    {
+      "gate": "RECHECK F-008 — non-fighter count versus wall count",
+      "state": "FAIL",
+      "evidence": "The suffix is revised at line 173 to `on either end of the ten the wall counted`, but the sentence still asserts `Twelve on the road, two of whom would not fight`. Chapter 17 line 87 explicitly distinguishes Karis's inclusion on the wall count from swinging: `Your researcher's on it, because a wall counts who walks a site and not who swings`. The verified literal count therefore remains unrepaired."
+    },
+    {
+      "gate": "RECHECK F-009 — Cleon warning's audible stop",
+      "state": "PASS",
+      "evidence": "Repaired at line 123: `If that fragment ever reads something for you that shouldn't be made and reads it anyway — Don't tell me.` The dash restores Cleon's deliberate unfinished conditional from ch13 and survives audio."
+    },
+    {
+      "gate": "RECHECK F-010 — repeated Noted commentary",
+      "state": "PASS",
+      "evidence": "The targeted line is replaced at line 161: `It's the word,` rather than the prior `It's a good word,`. The earlier, load-bearing Vastin exchange at lines 83–87 remains unchanged. The residual echo is retained below as taste, not a second defect."
+    },
+    {
+      "gate": "CORE invariant 1 — point-of-view integrity",
+      "state": "PASS",
+      "evidence": "Close third stays with Cael. Other minds are observations or explicit inference (`It was, Cael thought`, line 29); even Oryn's deep reading is perceived `from his own side` (line 105)."
+    },
+    {
+      "gate": "CORE invariant 2 — causal legibility",
+      "state": "PASS",
+      "evidence": "Oryn's route arithmetic causes her bounded choice; her Tide method causes the flow/no-flow finding; the twelfth's established made-structure sense causes the rival reading; Cleon's warning and Cael's refusal to guess cause the withholding."
+    },
+    {
+      "gate": "CORE invariant 3 — continuity persistence",
+      "state": "FAIL",
+      "evidence": "Fragment count and all bodily injuries reconcile, but the verified closing count still says only two will not fight while Chapter 17's wall-count distinction includes Karis even though she does not swing. See proposed finding R2-F-001."
+    },
+    {
+      "gate": "CORE invariant 4 — earned resolution",
+      "state": "PASS",
+      "evidence": "No extraordinary capability supplies an unearned escape. Tide and Rune-adjacent perception extend previously demonstrated mechanisms, and both costs are visible."
+    },
+    {
+      "gate": "CORE invariant 5 — consequential scene",
+      "state": "PASS",
+      "evidence": "Oryn's relationship to the bearing is fixed on her own terms; the long-promised deep reading is completed; two instruments now disagree about the still place; the party departs with twelve and the mule."
+    },
+    {
+      "gate": "CORE invariant 6 — anti-pastiche",
+      "state": "PASS",
+      "evidence": "No passage presents recognizable borrowed expression. The itemizing, comma-linked narration is the series' established cataloguing mechanism rather than an influence imitation."
+    },
+    {
+      "gate": "CORE invariant 7 — audio survival",
+      "state": "PASS",
+      "evidence": "Meaning survives stripped italics; there is no layout-dependent System display; all proper names are distinct by ear; and the longest run of dialogue-only, unattributed paragraphs in a 3+ speaker scene is three (lines 67, 69, 71), below the cap of four."
+    },
+    {
+      "gate": "PACKET — must_include obligations",
+      "state": "PASS",
+      "evidence": "All eight required shapes appear: Oryn restates her route and non-recruit terms with Teague hearing (lines 37–51); the deep reading and fixed line occur (93–141); the twelfth turns inward and is withheld (109–145); Brom, Lira, Karis, and Vastin are read (57–87); the healers exchange one look (21); the leaf is offered and deferred (149–157); dawn is the 299th with twelve and a mule (165–175); and the file ends on the required image (177). The preceding ch17 log dates Millrace that night to the 298th."
+    },
+    {
+      "gate": "PACKET — plants and payoffs",
+      "state": "PASS",
+      "evidence": "The inward Rune reading plants Ch22 (109–125); `the day I have to turn north` plants Ch21/24 (39); two healers travel on the bearing (173). The map is brought and Cael lies still as promised (93–137); B7's three preliminary readings culminate in the deep reading; Ch6's fork terms return intact."
+    },
+    {
+      "gate": "PACKET — prohibited outcomes",
+      "state": "PASS",
+      "evidence": "Searches return zero for `Architect`, `Arbiter`, `apparatus`, `Quieting`, `Court`, and `Span`; Oryn hears no leaf text; no site is reached; no fragment integrates; no hostile reach or death occurs; Oryn remains a route-owner rather than a recruit; and the closer is image, not dialogue or log. `reach` has one ordinary verb hit at line 97 (`where he could reach it`), not the prohibited event."
+    },
+    {
+      "gate": "PACKET — names, invention budget, and by-ear registry check",
+      "state": "PASS",
+      "evidence": "No new personal or place name is minted. Every proper name used is registered or already canonical: Cael, Oryn, Lira, Brom, Karis, Seln, Vastin, Teague, Cleon; Millrace, Lowmarch, Thornwater, Treswick, Denvash, the Stair, and the Hall. Read by ear, Cael/Cleon remain distinct (KAYL/CLEE-on), as do Seln/Seven, Teague/Tide, Oryn/Lira, and the rest. Forbidden Halcenvane, Velmere, Wray, and Bracken each count zero."
+    },
+    {
+      "gate": "PACKET / state — fragment inventory",
+      "state": "PASS",
+      "evidence": "The pre-chapter state is twelve fragments: line 99 corrects remembered `ten` to `twelve`; line 109 turns `the twelfth`; line 141 says Oryn can read `all twelve`; line 171 carries `twelve things`. No acquisition or integration occurs. Rune remains made-structure only and pays its eye cost at line 125."
+    },
+    {
+      "gate": "PACKET / state — injury census",
+      "state": "PASS",
+      "evidence": "Every carried injury matches the pre-ch18 snapshot and ch17: Brom's shoulder is still carried and is read (57, 169); Lira's arm is two-handed at thirty-three days (59, 169); Karis's back-of-left-hand step cut is eight days old, rebound, and still used (65–73, 169); Vastin's knee is day nineteen at the table and day twenty at departure, with the stick (75–87, 169); Teague's wrist remains wrapped after the cart demonstration (169); his broad man's limp persists (169); and Cael's ribs remain quiet since the marsh (97). The hold-woman's stiff hand is scene-local and resolved on the page (11–15)."
+    },
+    {
+      "gate": "VOICE CHARTER §8.1 — aural name distinctness",
+      "state": "PASS",
+      "evidence": "Registry-by-ear audit completed for every name in the chapter; there are no new names and no same-scene onset/rhyme collision likely to confuse an audiobook listener."
+    },
+    {
+      "gate": "VOICE CHARTER §8.2–8.3 — typography and System audio",
+      "state": "PASS",
+      "evidence": "Italics add emphasis but carry no exclusive information (`flow`, `still`, `set`, `lean`). There is no System block in this chapter."
+    },
+    {
+      "gate": "VOICE CHARTER §8.4 — authoring metadata grep",
+      "state": "PASS",
+      "evidence": "Case-insensitive grep over ch18.md for `End of Chapter|approximately.*words|word count|DRAFT|TODO` returns zero lines."
+    },
+    {
+      "gate": "VOICE CHARTER §8.5 — dialogue attribution",
+      "state": "PASS",
+      "evidence": "All 3+ speaker scenes were checked. The maximum dialogue-only unattributed run is three paragraphs (lines 67/69/71: Karis/Oryn/Karis), within the maximum of four; all other such runs are one."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — required tic greps",
+      "state": "PASS",
+      "evidence": "Chapter 18 counts: `jaw tightened` 0; `laughed once` 0; `without humor` 0; `stomach tightened` 0; `stomach dropped` 0; `There it was` 0; `That was true` 0; `Also true` 0; `sounded almost` 0; `held this` 0; standalone `[Name] noticed.` 0; `which was, in its own way` 0. Across all 24 current Book 8 draft files, the same grep-as-line-count census is 0 for every listed tic except `That was true` = 2, still below the per-book cap of 3. Chapter-only gravity wells: one-word paragraphs 1 (`\"Brom.\"`, line 67; cap 2); `the way you/he/she [verb]` 0; generic `the way` 1 but not the capped construction; `upside down` 0; `four hundred years` 0; `for the length of a breath` 0; `at the pitch` 0."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — consecutive closer type",
+      "state": "PASS",
+      "evidence": "Chapter 17 ends on a first-person log entry (lines 185–187); Chapter 18 ends on an observed departure image (line 177). The structural moves differ."
+    },
+    {
+      "gate": "VOICE CHARTER §10 — scene versus summary and density",
+      "state": "PASS",
+      "evidence": "The required terms, medical readings, deep reading, leaf deferral, and departure are dramatized. The major-beat grep `heard about it later|learned afterward|was told later|found out later|by the time he heard` returns zero. Deterministic split count is 5,005 words, inside 3,910–5,290."
+    },
+    {
+      "gate": "VOICE CHARTER §11.4 — fight geography, win sentence, and costs",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Chapter 18 has no fight. Its central set piece is the deep diagnostic reading, not combat."
+    },
+    {
+      "gate": "VOICE CHARTER §11.5 — System blocks",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System declaration or fragment-notice block renders."
+    },
+    {
+      "gate": "VOICE CHARTER §11.6–7 — reveal plants and new canon",
+      "state": "PASS",
+      "evidence": "The inward Rune result extends Ch13's planted made-structure/lean mechanism and creates trouble rather than resolving conflict. No new canon noun is introduced."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 1 — solution traceability",
+      "state": "PASS",
+      "evidence": "Oryn's successful hand treatment and diagnostic reading use Tide mechanics established in Book 7 and the Universe Bible; the Rune sense is taught in ch13 before its inward result here."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 2 — constraint tagging",
+      "state": "PASS",
+      "evidence": "Tide is contact-bound and reserve-costed; Rune reads structure rather than meaning, not living things by its known rule, and costs the eyes. The apparent exception creates the chapter's unresolved problem and its eye cost is shown."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 3 — new versus existing elements",
+      "state": "PASS",
+      "evidence": "No new named element appears; the chapter deepens Oryn's route, Tide, Rune-adjacent perception, Millrace, and the bearing."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 4 — promise/payoff closure",
+      "state": "PASS",
+      "evidence": "Opening promise: Oryn is at the unchanged ford and must count the changed company. Closing delivery: her terms and finding are fixed, and the changed company departs as twelve with her route beside the archive."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 5 — foreshadow before reveal",
+      "state": "PASS",
+      "evidence": "The twelfth's lean, made-structure scope, and Cleon's warning are all on the page in ch13 before the inward reading. The finding remains unresolved rather than over-revealed."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 6 — thread-type match",
+      "state": "PASS",
+      "evidence": "Oryn's character thread closes this stretch with continuation of her own route, not surrender; the inquiry thread pays the promised deep reading with a definite Tide finding while deliberately carrying the instrument disagreement forward."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 7 — sensory/expository worldbuilding ratio",
+      "state": "PASS",
+      "evidence": "The sustained worldbuilding is embodied in hands, wrist-count, current, bench, fading light, wheel, riverbed, and eye-smear. Mechanism and sensation dominate abstract explanation."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 8 — revision-pass separation",
+      "state": "PASS",
+      "evidence": "This r2 commit is a declared targeted repair pass and its manuscript diff is confined to the verified findings; it does not combine a general voice or density rewrite."
+    },
+    {
+      "gate": "THE_AUTHOR Gates 9–12 — combat geography, tempo, distinctness, stakes",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat occurs."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 13 — injury persistence",
+      "state": "PASS",
+      "evidence": "All seven carried bodily states from ch17 are present or explicitly assessed; none silently vanishes. See the injury-census gate."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 14 — tactical escalation",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No fight."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 15 — compression scope",
+      "state": "PASS",
+      "evidence": "The line of minor patients is appropriately compressed after one hand is dramatized; the promised terms, companion readings, deep reading, disclosure choice, and departure occur in scene."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 16 — environmental utilization",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No combat. The non-combat set piece nevertheless uses the dark lean-to mechanically to conceal the Rune eye-cost and the ford's current to make Tide legible."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 17 — growth legibility and cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement or new fragment acquisition occurs; use-costs are separately paid and logged."
+    },
+    {
+      "gate": "THE_AUTHOR Gates 18–21 — tournament, skill win, rival motion, social echo",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No tournament round, major win, or rank-bearing advancement occurs in this chapter. Teague and his crew remain independently present and moving, so the scene does not freeze the rival clock."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 22 — box ownership",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No System/status box appears."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 23 — dramatized institutional critique",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The chapter is not an institutional-critique scene."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 24 — comedy cost",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is dry character exchange but no humor deployed to deflect active stakes."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 25 — scheduled quiet",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The Part 3 scheduled no-deflection checkpoint is Chapter 22, not Chapter 18. This chapter still gives the reading and withholding full uncomic weight."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 26 — losable moral stake",
+      "state": "NOT_APPLICABLE",
+      "evidence": "Chapter 18 is not an arc-document moral-cost checkpoint. Cael nevertheless records the cost and reasons of withholding without declaring himself absolved."
+    },
+    {
+      "gate": "THE_AUTHOR Gate 27 — reader standard",
+      "state": "PASS",
+      "evidence": "Whole-word counts are zero for damn, hell, god, lord, christ, curse, bloody, blast, devil, and bastard. There is no obscenity, sexual content, innuendo, gore, or glamorous cruelty. The chapter centers care, kept promises, restraint, honest accounting, and respect for Oryn's autonomy. The author report explicitly states the reader-standard check."
+    },
+    {
+      "gate": "PROGRESSION module gate 1 — advancement cause and delta",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement occurs."
+    },
+    {
+      "gate": "PROGRESSION module gate 2 — cost or tradeoff",
+      "state": "PASS",
+      "evidence": "The twelfth's eyes cost is paid at line 125. Oryn conserves Tide reserve through the minor line (33) and visibly comes up slowly from the long reading (127–129)."
+    },
+    {
+      "gate": "PROGRESSION module gate 3 — change outside measurement",
+      "state": "PASS",
+      "evidence": "Human-track progress is visible without a stat delta: Vastin accepts Oryn's order without walking it back (29), and Oryn joins the bearing only under her stated route terms (39–51)."
+    },
+    {
+      "gate": "PROGRESSION module gate 4 — established capability in major victory",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No major victory occurs."
+    },
+    {
+      "gate": "PROGRESSION module gate 5 — rivals and institutions remain active",
+      "state": "PASS",
+      "evidence": "Teague arrives with his own crew, captaincy, healer, and terms; he hears Oryn without claiming her and leads the departure order."
+    },
+    {
+      "gate": "PROGRESSION module gate 6 — repeated challenge variation",
+      "state": "PASS",
+      "evidence": "The fourth reading is not a repeat of the three brief autumn readings: it is the promised long diagnostic, and the newly available Rune-adjacent instrument creates the disagreement."
+    },
+    {
+      "gate": "PROGRESSION module gate 7 — setbacks metabolized",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No new setback arc is staged; carried injuries are assessed rather than used as repetitive suffering."
+    }
+  ],
+  "findings": [
+    {
+      "id": "R2-F-001",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "repair completeness — count continuity",
+      "gate": "Recheck of verified F-008 / CORE continuity persistence / evidence rule for counts",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch18.md",
+        "line_start": 173,
+        "line_end": 173,
+        "quote": "Twelve on the road, two of whom would not fight — a healer of Tide and a healer of no Path, on either end of the ten the wall counted, walking the same bearing for reasons that were their own"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/reports/ch18-editor-r1.json",
+        "line_start": 292,
+        "line_end": 292,
+        "quote": "ch18.md line 171 — either recast to the wall-count distinction ch17 now uses (two who are not on the count) or absorb Karis explicitly. The closing image is a fixed shape, so planning should confirm the wording before the author touches it."
+      },
+      "consequence": "The repair changes `a line of ten` to `the ten the wall counted`, but it leaves the verified false proposition untouched: only two of the twelve would not fight. The wall-count distinction is precisely that Karis belongs to the ten because walking the site counts even when she does not swing. The revised suffix explains why a non-swinging researcher belongs to the operational ten; it does not turn her into a fighter or make the literal number two accurate. This is localized, but it sits in the fixed closing image and is the one verified r1 finding not actually closed by the r2 wording.",
+      "repair_target": "Line 173 only: make the number describe wall-count participation rather than who will fight, or otherwise account for Karis without changing the surrounding departure image.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "Taste — causal-conjunction density remains high: `because` appears 53 times in 5,005 whitespace-counted words (10.6 per thousand), versus ch13 9.2, ch16 8.1, ch17 8.3, and ch15 7.9. This is house voice, but at this density its scaffold becomes audible.",
+    "Taste — the leaf offer remains at the outer edge of deferral: `It's a leaf. Older than the board. It says what the thing was built for.` gives Oryn the artifact's age and subject before she declines. It does not disclose the leaf's text or breach the prohibited outcome.",
+    "Taste — Oryn says Cael's owed rib reading is one reason she will walk beyond the two shared road-days, but completes that reading the same evening. Her other stated reason — ten people entering two Path-stopping places — carries the onward choice, so this is mild causal looseness rather than a failed obligation.",
+    "Taste / forward debt — the withholding ledger does not explicitly weigh Oryn's earlier `stop` instruction, and Cael withholds the inward result from Lira despite the established `Lira first` practice. Both debts remain available for the scheduled Chapter 22 payoff; neither is falsely closed here.",
+    "Taste — `It's the word` at line 161 still comments on `Noted` shortly after Cael's narration says `because it was the word` at line 139. The r1 target was technically replaced, and the earlier Vastin beat remains the meaningful one, but the echo is still noticeable.",
+    "Planning exception observed — `Seven holds north of here` remains geographically loose against B7's Millrace-as-third wording, but EXC-B8-CH18-3 explicitly approves reading it as the seven-stop route with three still owed; this is not a manuscript finding."
+  ],
+  "strengths": [
+    "All eight strengths recorded in r1 survive the scoped repair. The fixed line remains verbatim at line 137 and still lands after the deep reading in near-dark, with Oryn looking at Cael rather than the ford.",
+    "The deep reading remains the chapter's strongest set piece: `Her current ... ran down through the twelve to the middle, to the place, and did not arrive. It went round.` It is staged from inside the patient, and the revision improves it by making the unlit lean-to mechanically load-bearing: the darkness lets the eye-cost be paid unseen. The wheel, ford, riverbed, bench, fading light, and healer's touch all do work rather than decorate.",
+    "Worldbuilding is done through mechanism and use. Tide becomes legible through fingers, current, reserve, contact, going-round, and recovery; Oryn's route becomes legible through patients, promises, ladder orders, elapsed days, and who may claim her time. There is no detachable lore lecture.",
+    "Oryn's full terms remain concrete and bounded at lines 37–51: seven route stops, four walked, three owed, two shared road-days, the day she turns north, and an explicit refusal of recruitment aimed past the six at Teague. Her independent want survives intact.",
+    "The two healers still price one another in a single look at line 21, with no explanatory dialogue; the passage preserves the r1 strength's restraint exactly.",
+    "Vastin's quiet human-track progression survives untouched: he accepts an order from Oryn and stands (line 29), then uses Cael's `Noted` at line 83. Progress is behavioral rather than announced.",
+    "The mule ruling remains clean and invisible: the crew arrives without it because it has been Oryn's since the fork (line 5), and it departs carrying her roll beside Karis's boxes (line 173).",
+    "The withholding paragraph at line 145 remains intact and remains the best moral-accounting passage: Cleon's warning, Cael's refusal to guess, respect for Oryn's complete finding, and the unresolved two-instrument disagreement all coexist without excusing the debt.",
+    "Tic discipline, reader-standard cleanliness, and closer variety all survive: one one-word paragraph, zero chapter hits for the listed §9 tics, zero banned words, and an image closer after Chapter 17's log.",
+    "There is no fight in Chapter 18, so the fight win-sentence test is not applicable. The diagnostic set piece is nevertheless memorable and causally choreographed; its outcome can be stated with the same clarity: Oryn's Tide removed her ability to explain the center by reaching a place where flow could only go around, while Cael's Rune-adjacent sense exposed the rival made-structure reading at the cost of his eyes."
+  ]
+}
