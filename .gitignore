@@ -1,2 +1,6 @@
 v3-runs/book-07/reports/*.stdout.log
 v3-runs/book-07/reports/*.lastmsg.md
+v3-runs/book-07/reports/*.pid
+v3-runs/book-08/reports/*.stdout.log
+v3-runs/book-08/reports/*.lastmsg.md
+v3-runs/book-08/reports/*.pid

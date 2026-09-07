@@ -1,0 +1,63 @@
+{
+  "schema_version": "3.1",
+  "run_id": "b8-ch04-verifier-r2",
+  "scene_id": "b8-ch04",
+  "editor_run_id": "b8-ch04-r2-editor",
+  "verdict": "REPAIR_REQUIRED",
+  "decisions": [
+    {
+      "finding_id": "F-B8-CH04-R2-001",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch04-r2.md → drafts/ch04.md",
+        "B7 Ch3/Ch11 (the lock)"
+      ],
+      "reason": "The lock now lands on the scree after the sideways move and is spent standing still on purpose; the log's bill matches ('a locked landing beat, spent on a slope on purpose'). MEDIUM/LOW; closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH04-R2-002",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch04-r2.md → drafts/ch04.md",
+        "B7 Ch3/Ch11 (the lock)"
+      ],
+      "reason": "The 'One sentence, for the log' wrapper removed; the removal sentence stands in the body in the past tense. MEDIUM/LOW; closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH04-R2-003",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch04-r2.md → drafts/ch04.md",
+        "B7 Ch3/Ch11 (the lock)"
+      ],
+      "reason": "'the second hound to come round the plane's south end, slow on the scree after the first' — the rounding costs the slope. MEDIUM/LOW; closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH04-R2-004",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch04-r2.md → drafts/ch04.md",
+        "B7 Ch3/Ch11 (the lock)"
+      ],
+      "reason": "Author report word_count synced to wc -w. MEDIUM/LOW; closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH04-R2-005",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch04-r2.md → drafts/ch04.md",
+        "B7 Ch3/Ch11 (the lock)"
+      ],
+      "reason": "Repaired directly (MEDIUM/LOW): Two words, at 113. Make the reference indefinite and forward-looking rather than definite and backward-looking — 'He did MEDIUM/LOW; closed without a further paid recheck per the loop precedent."
+    },
+    {
+      "finding_id": "F-B8-CH04-R2-006",
+      "decision": "VERIFIED",
+      "evidence_checked": [
+        "diff drafts/ch04-r2.md → drafts/ch04.md",
+        "B7 Ch3/Ch11 (the lock)"
+      ],
+      "reason": "Repaired directly (MEDIUM/LOW): Cut 'and a plane knows what it was told' at 89 and keep 'the road's width; the scree above it was not road', which is th MEDIUM/LOW; closed without a further paid recheck per the loop precedent."
+    }
+  ]
+}

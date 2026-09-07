@@ -1,0 +1,174 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "b8-ch16",
+  "project": "before-the-paths",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "252a71a6afef1f385be39a9ad08e83e538788247",
+    "canon": "canon-b8-v1 (universe/CANON_RULES.md + universe/UNIVERSE_BIBLE.md incl. the Book 7 PROVISIONAL sections, at input_commit)",
+    "arc": "arc-b8-v1r (Chapter 16 card — What It Was For; Part 2's no-deflection scene; Chapter 17 card as next_card)",
+    "state": "state-b8-pre-ch01 + STATE_RUNNING 'After Chapter 1–15' (provisional)",
+    "registry": "registry-2026-09-04 (craft/NAME_REGISTRY.md incl. the Book 7 census and dispositions)"
+  },
+  "modules": [
+    "progression"
+  ],
+  "pov": {
+    "character": "Cael",
+    "mode": "close third, past tense — the series' established voice: the cataloguing narrator (counts things, names places precisely), diegetic documents in italics with their own plain first-person register (the Power Log), emotion through procedure and objects, dry oblique dialogue, PG-13, no modern idiom. READER STANDARD: written for a thirteen-year-old — clean language (no profanity, crude slang or oaths), moral goodness (honest, courageous, loyal, restrained conduct; wrong named as wrong; cruelty never rewarded), violence with cost and no gore, no sexual content.",
+    "knowledge_boundary": [
+      "Cael is nineteen. Day 293 evening (up from the chamber at the bell; the inn's long room or the yard; a fire — the inn's hearth, or the yard's brazier) into the 294th. Twelve fragments; the still place untouched. Cash 130.",
+      "THE REVEAL as read (Ch15): the apparatus (measure, seat, tier, the mark at the kindling) made by one the record calls the Architect ~four hundred years ago and set over the land so the un-bound should not come again; the name effaced; 'Older. Made. Us.'; the chronicle's 'did not die in the way of men … is in it' MARKED, unread. Karis's two pages, no line drawn.",
+      "VASTIN'S FIXED LINE contains the phrase 'Book 6 I learned it was corrupt' — a META-VOICE hazard: the fixed line is the card's; render it as 'At Ostrand I learned it was corrupt' or 'In the autumn I learned' — the packet AUTHORIZES replacing 'Book 6' with the in-world referent (a borrowed office in Ostrand; the cache) because 'Book 6' cannot appear on the page. Otherwise verbatim: 'I believed it was imperfect. … Now you're telling me it was aimed.' / 'At a category. Which turned out to be a person. Who's sitting across the fire.'",
+      "THE POLES: pole one (Ch1–2, the log): 'no tier, no rank, no file I can see' — the system had no seat for him: exclusion. Pole two (this chapter): prevented — the door IS him. The distinction precise: excluded means they had no place for you; prevented means you were the reason they built the place. Filed as data, not declared as change (charter §7.2): the one sentence of interior permitted is the fixed close.",
+      "LIRA FIRST, varied: no explanation; the copied passage handed over; she reads it and hands it back; her line verbatim: 'So the whole time they weren't afraid you'd break something. They were afraid you'd exist.'",
+      "The circle: Karis's exhaustion (a year and a week; the hand); Cleon's decade (he is NOT at the fire — he stays below/at his house; or is he? The card says 'Cleon's decade of bad sleep' in the circle — Cleon may sit at the fire once, the only time he leaves his table for them; choose and state); Brom; Seln (the cache; he heard it from Cael, not below); Vastin.",
+      "DISCIPLINE (SEALED): nobody says the live Arbiters are the apparatus; nobody says the Architect is present; Vastin's 'aimed' is about the edifice's PURPOSE (the record's), not the sigils; 'the mark at the kindling' may be named as the record's item without connecting it to the live mark — Karis's two pages stand. No 'reset', 'will', 'primordial'. The still place NOT connected aloud.",
+      "The closing line's 'a site at the end of the line that's been quiet since they built the machine' — Karis has a bearing and 'the grade'?? — the GRADE is cracked in Ch17 (the taxonomy), not yet; the fixed close says 'Karis has a bearing and the grade' — render as 'Karis has a bearing and the mark' or keep 'the grade' as the thing she is about to crack ('and the grade to crack') — packet authorizes 'Karis has a bearing and the marks, and the records to read them against' to avoid pre-paying Ch17; the rest verbatim: 'There's a site at the end of the line that's been quiet since they built the machine.' / 'I want to stand in the middle of it.'",
+      "Never 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; no meta-voice ('Book 6' replaced); one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD."
+    ]
+  },
+  "purpose": "The internal arc lands — pole two — Part 2's close and its scheduled no-deflection scene. The reveal has been found; this chapter is Cael TAKING it, which the series separates from finding: a choice and the filing of a difference, never a declared change. He came inside believing the system had no place for him — an omission. The record turns it: the door is him; the whole edifice was built for the single purpose of ensuring what he is would never occur again. Not excluded. Prevented. Lira first, per the ritual, varied: he does not explain; he hands her Karis's copied passage and she reads it and hands it back and says the one true thing — 'So the whole time they weren't afraid you'd break something. They were afraid you'd exist.' Then the circle; Karis's exhaustion; Cleon's decade; Vastin's line: 'I believed it was imperfect. Book 6 I learned it was corrupt. Now you're telling me it was aimed.' / 'At a category. Which turned out to be a person. Who's sitting across the fire.' Close on the fixed dialogue: 'For five years I thought the system forgot to make room for me … It didn't forget. It was built so there'd be no room … I happened anyway.' / 'Yeah. Now what.' / 'Now we find out how old the oldest one is … I want to stand in the middle of it.'",
+  "scene_shape": {
+    "opening_state": "Up from the chamber at the bell of the 293rd with the copied passage in Karis's notebook and the leaf left below on Cleon's shelf; the carts' street; the inn; the yard's brazier lit because the crew lights a fire when a thing has to be said and the inn's hearth is a public one; six at it (Cleon comes up once, or does not — state); Seln, who was above, told by Cael on the street in the fewest words.",
+    "pov_goal": "Cael wants to take the thing — not to be told it; to take it — and to do it in the order the family takes things: Lira first, then the circle, then the one sentence, and no more.",
+    "opposition": "The distinction itself (omission vs intention; it wants to blur, and the book refuses); Karis's exhaustion; Vastin's forty years; his own five years of 'no file I can see', which was a relief and is now a different sentence.",
+    "turn": "Lira reads the copied passage and hands it back: 'So the whole time they weren't afraid you'd break something. They were afraid you'd exist.' — and the circle: Brom's price; Seln's silence; Karis's two pages; Vastin's line ('aimed … at a category. Which turned out to be a person. Who's sitting across the fire').",
+    "choice": "Cael files the difference as data, aloud, once — the fixed close — and does not declare a change; he turns it over once; 'I happened anyway.'",
+    "outcome": "Pole two landed; the bearing named as the road; the oldest site as the destination; the straightedge in his hands.",
+    "closing_state": "DIALOGUE — the card's fixed close verbatim (with the authorized in-world substitutions): 'For five years I thought the system forgot to make room for me,' he said, to the fire, not to anyone. 'It didn't forget. It was built so there'd be no room. Four hundred years of a whole world, so that I wouldn't happen.' He turned it over once. 'I happened anyway.' Lira, across the fire: 'Yeah.' A beat. 'Now what.' Cael: 'Now we find out how old the oldest one is. Karis has a bearing and the marks, and the records to read them against. There's a site at the end of the line that's been quiet since they built the machine.' He looked at the straightedge in his hands. 'I want to stand in the middle of it.' The file ends on that line."
+  },
+  "obligations": {
+    "must_include": [
+      "The no-deflection scene (Gate 25): Cael processing the reveal without a catalogue standing between him and it — at least one passage where he holds the distinction plainly (omission vs intention) in his own interior and does not turn it into a count.",
+      "Lira first, varied: the copied passage handed over, read, handed back; her fixed line verbatim.",
+      "The circle: each companion's response in their register (Brom prices; Seln says one thing or nothing; Karis two pages and exhaustion; Vastin's fixed line with the in-world substitution for 'Book 6').",
+      "The distinction held precise on the page: excluded (no place) vs prevented (the reason for the place); filed as data.",
+      "Cleon's decade of bad sleep present — at the fire (once) or reported from below — one beat.",
+      "The fixed closing dialogue verbatim with the two authorized substitutions ('the marks, and the records to read them against' for 'the grade'; no 'Book 6'); the file ends on 'I want to stand in the middle of it.'",
+      "DISCIPLINE: no Arbiter=apparatus; no present Architect; the still place not connected; two pages stand.",
+      "READER STANDARD checked."
+    ],
+    "plants": [
+      "'I want to stand in the middle of it' — Ch24.",
+      "Vastin's 'aimed' — Book 9's vote ground.",
+      "The bearing east as the road — Ch17."
+    ],
+    "payoffs": [
+      "Pole one (Ch1's 'no file I can see') → pole two.",
+      "B6's 'I knew the system was imperfect. I didn't know it was designed to be.' — Vastin's three-step ('imperfect; corrupt; aimed')."
+    ],
+    "prohibited_outcomes": [
+      "No 'Book 6' or any volume reference on the page; no meta-voice.",
+      "No declared change ('he was no longer the boy who…'); the one sentence of interior is the fixed close.",
+      "No Arbiter=apparatus; no Architect present; no 'reset'/'will'/'primordial'; the still place not connected.",
+      "No grade cracked (Ch17); no departure (Ch17).",
+      "No image or log closer; the closer is the fixed dialogue.",
+      "No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'; no modern idiom; one-word paragraphs ≤2; 'the way X [verb]' ≤4; 'upside down' 0; capped phrases 0; READER STANDARD."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "The yard's brazier; the inn's night; the copied passage's handling; Karis asleep at a table; Cleon at the fire once (his first time above ground with them) or his absence explained.",
+      "Brom's price for the news; Seln's one line."
+    ],
+    "approval_required": [
+      "Any new named person or place.",
+      "Any restatement of the record beyond Ch15's."
+    ],
+    "forbidden": [
+      "Any theory past the page; any connection to the live sigils or the still place."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Canon status rules and reveal schedule",
+      "path": "universe/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible incl. Book 7's PROVISIONAL sections (Quieting mechanics, Tide Path, Edge Territories, Fauna)",
+      "path": "universe/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book 8 chapter architecture (revised 2026-09-04 against Book 7's closed prose) — Chapter 1 card and REVISED block; Reference section; Continuity Checkpoint",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Planning decisions taken at the B7 reconciliation gate",
+      "path": "v3-runs/book-08/DECISIONS-B7-RECONCILIATION.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Name registry incl. Book 7 census and rename dispositions",
+      "path": "craft/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Series voice charter — binding on expression; tic caps; audio-first rules; scene-closer rule",
+      "path": "craft/VOICE_CHARTER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "THE AUTHOR — Charter v2 (the 41 principles and 26 gates)",
+      "path": "craft/THE_AUTHOR.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "STATE_RUNNING — 'After Chapter 1' (provisional)",
+      "path": "v3-runs/book-08/STATE_RUNNING.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 6 chapter architecture — Vastin's Ch17 beat and the book's close (his one sentence; no alliance; asset-restriction pending)",
+      "path": "books/book-06-the-compacts-hand/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    },
+    {
+      "kind": "previous_scene",
+      "label": "PREVIOUS CHAPTER — Book 8 Chapter 15 (Before the Paths)",
+      "path": "v3-runs/book-08/drafts/ch15.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 1 (Winter's End) — pole one in the log",
+      "path": "books/book-08-before-the-paths/chapters/chapter-01.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Book 8 Chapter 2 (No Sanction) — Vastin's arrival; the B6 sentence remembered",
+      "path": "books/book-08-before-the-paths/chapters/chapter-02.md",
+      "required": false
+    },
+    {
+      "kind": "next_card",
+      "label": "Chapter 17 card — The Straightedge (the grade cracked; departure; Teague) — do not pre-pay",
+      "path": "books/book-08-before-the-paths/CHAPTER_ARCHITECTURE.md",
+      "required": false
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "v3-runs/book-08/drafts/ch16.md",
+    "report_path": "v3-runs/book-08/reports/ch16-author.json",
+    "editor_report_path": "v3-runs/book-08/reports/ch16-editor.json",
+    "verifier_report_path": "v3-runs/book-08/reports/ch16-verifier.json",
+    "target_words": 4600,
+    "tolerance_percent": 15
+  }
+}

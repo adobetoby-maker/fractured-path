@@ -4,9 +4,192 @@
   "scene_id": "b8-ch20",
   "verdict": "PASS_WITH_FINDINGS",
   "gate_results": [
-    {"gate": "PLACEHOLDER", "state": "NEEDS_HUMAN_JUDGMENT", "evidence": "skeleton"}
+    {
+      "gate": "AUTHORITY — canon / timeline / frozen state",
+      "state": "FAIL",
+      "evidence": "The 305th, party of twelve plus the mule, Span half a day behind, third-tier point beyond the hills, Vastin day 26, and all stated injuries otherwise match the packet and frozen state. Oryn's elapsed route count does not match the previous chapter's dated itinerary; see F-B8-CH20-001. The opening also calls the half-day-distant Span outside a day's walk; see F-B8-CH20-002."
+    },
+    {
+      "gate": "PACKET OBLIGATIONS — must_include / scene turn / outcome",
+      "state": "PASS",
+      "evidence": "The blanket carries the Span copies, records, index, dividers and straightedges (lines 9–15); the records and four known sites reconcile and the third-tier point is fixed twice (lines 31–39); Karis states the lamps finding and its unexplained spiritual-entity problem (lines 45–61); Vastin's join is stopped, the findings go on two pages, and Cael records the line not drawn (lines 63–77); the two-hand suppression provenance, crack line, and Compact-only reading are staged and not pursued (lines 81–101); injuries, the eastbound watch, Seln's halt counts, and the feeling of being known persist (lines 105–121); and the chapter ends on the assigned fixed exchange and final prose line (lines 125–143)."
+    },
+    {
+      "gate": "PROHIBITED OUTCOMES",
+      "state": "PASS",
+      "evidence": "Case-insensitive searches returned zero hits for 'terminal', 'circuit', 'infrastructure', Halcenvane, Velmere, Wray, Bracken, and 'upside down'. The Court is not named; nobody equates the still place with the Quiet, gives the Architect will/presence/reset, enters the pass, reaches the site, fights, or dies. The Arbiter/apparatus join is explicitly refused rather than stated. The closer is dialogue plus the fixed narration, not a log or image."
+    },
+    {
+      "gate": "PLANTS, PAYOFFS, AND REVEAL DISCIPLINE",
+      "state": "PASS",
+      "evidence": "The chapter extends the planted identical-failure observation without disclosing Book 9's explanation, reads recent administration as the Compact without granting the sub-layer agency, and exposes the Compact crack through two seals without opening the faction. Ch5's stopped lamps sentence, Ch15's leaf/apparatus language, Ch17's grade and point, and Ch19's Span data all receive their assigned payoffs."
+    },
+    {
+      "gate": "CAUSAL LEGIBILITY / EARNED RESOLUTION",
+      "state": "PASS",
+      "evidence": "The point becomes drawable only after independent office distance, bearing, grade, wall-lean, radius and stake-count evidence agrees (lines 31–37). Karis's refusal follows from the ruler discipline established in Ch5 and Ch15, while Vastin's file-reading competence produces the provenance finding. No coincidence or new capability resolves the scene."
+    },
+    {
+      "gate": "PROGRESSION MODULE — advancement cause, delta, cost, rivals and setbacks",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no rank, tier, fragment, training, combination, duel, or measurable advancement delta in this quiet research chapter. Human-track movement is nevertheless visible: Vastin applies Seln's lesson by not pointing and by declining to turn the crack into an order; Cael practices Karis's evidentiary restraint on his private count."
+    },
+    {
+      "gate": "FRAGMENT INVENTORY AND INJURY RECONCILIATION",
+      "state": "PASS",
+      "evidence": "The frozen snapshot enters Chapter 20 with thirteen fragments (Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force) plus the uncounted still place. The chapter uses and adds none, and states no conflicting count. Injury audit against the snapshot and previous chapter passes: the broad man's leg is day one of three and is treated again; Teague's arm remains wrapped and idle; Karis's hand remains bound; Vastin is correctly on day 26; Brom carries two bolt bruises; Oryn again pays visible Tide depletion. Oryn's route-day arithmetic fails separately under F-B8-CH20-001, not as an injury defect."
+    },
+    {
+      "gate": "VOICE CHARTER §3 / §7 — Cael voice, emotional movement, character conduct",
+      "state": "PASS",
+      "evidence": "Cael catalogues terrain, twelve people, injuries, the blanket, columns, pauses and omissions. Emotion travels through objects and procedure: separate pages, an undrawn line, a stick silently shared, one healer binding another's work, and Karis asking for the number beneath Cael's desire. Dialogue strategies remain distinct and dry."
+    },
+    {
+      "gate": "WORLD DISCIPLINE — mechanism, use, limits and approved nouns",
+      "state": "PASS",
+      "evidence": "Institutional and magical worldbuilding is enacted through use: rows and columns preserve office behavior, seals reveal opposed Compact hands, index marks and dividers fix geography, the lamps analogy stays an unexplained measurement, and healer practice carries bodily cost. No unapproved canon noun or named entity is minted."
+    },
+    {
+      "gate": "VOICE CHARTER §8.1 / NAME REGISTRY — aural distinctness",
+      "state": "PASS",
+      "evidence": "By-ear review covered every proper name in the draft: Cael, Karis, Vastin, Seln, Lira, Brom, Oryn, Teague, Cleon, Denvash, Lowmarch, Thornwater, Ring, Hall and Span. All are existing registered or planning-approved names and remain distinct at speed; Cleon/Cael (KLEE-on/KAYL), Karis/Cael (KAR-iss/KAYL), and Denvash/Vastin (DEN-vash/VAS-tin) are separable. Architect is a title and Compact an institution. No rename-slated or reserved name appears."
+    },
+    {
+      "gate": "VOICE CHARTER §8.2–§8.3 — typography-independent audio",
+      "state": "PASS",
+      "evidence": "Italics provide emphasis and identify quoted record language, but the words remain intelligible with formatting stripped. There is no System block, symbol-dependent joke, table, or stat layout in the manuscript."
+    },
+    {
+      "gate": "VOICE CHARTER §8.4 — terminal metadata grep",
+      "state": "PASS",
+      "evidence": "grep -nEi 'End of Chapter|approximately.*words|word count|DRAFT|TODO' v3-runs/book-08/drafts/ch20.md returned zero lines."
+    },
+    {
+      "gate": "VOICE CHARTER §8.5 — dialogue attribution",
+      "state": "PASS",
+      "evidence": "Manual audit of all multi-party fire scenes found no run above four unattributed lines; the longest recoverable run is two, with speaker continuity established in surrounding prose. The five-line alternating close is a two-speaker scene and remains unambiguous in audio."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — measured tic counts",
+      "state": "FAIL",
+      "evidence": "Actual case-insensitive counts over ch20.md: 'jaw tightened' 0; 'laughed once' 0; 'without humor' 0; 'stomach tightened' 0; 'stomach dropped' 0; 'There it was' 0; 'That was true' 0; 'Also true' 0; 'sounded almost' 0; 'held this' 0; standalone '[Name] noticed.' 0; 'which was, in its own way' 0. One-word paragraphs = 2 ('Here.', line 85; 'Why.', line 137), at cap. Raw 'the way' hits = 4 (lines 55 twice, 59, 139), at the packet cap and including the required lamps pair. 'upside down' 0; 'four hundred years' 1; 'for the length of a breath' 0; 'at the pitch' 0. Book-so-far ch01–ch20 counts for the listed §9 phrases are 2 for 'That was true' and 0 for every other listed phrase and standalone noticed. The broader §9 replacement-phrase audit finds 'Nobody said anything' once in ch20 and 9 times across ch01–ch20, above the per-book cap of 3; see F-B8-CH20-003."
+    },
+    {
+      "gate": "VOICE CHARTER §9 — scene-closer variety",
+      "state": "PASS",
+      "evidence": "The supplied Chapter 19 closes on a two-paragraph Power Log. Chapter 20 closes on Karis/Cael dialogue followed by the fixed two-sentence narrator coda. Log -> dialogue/prose is a different structural beat."
+    },
+    {
+      "gate": "VOICE CHARTER §10 — scene vs summary and density",
+      "state": "PASS",
+      "evidence": "Every assigned major beat occurs in scene at the fire and blanket. The banned-summary grep ('heard about it later|learned afterward|was told later|found out later|by the time he heard') returned zero. wc -w = 3,969 including the heading, within the permitted 3,910–5,290 range for a 4,600-word target."
+    },
+    {
+      "gate": "COMBAT / SET-PIECE GATES",
+      "state": "NOT_APPLICABLE",
+      "evidence": "The packet prohibits a fight and none occurs, so drawable combat geography, exchange tempo, tactical escalation, combat cost and the literal combat win-sentence are not applicable. The non-combat evidence set piece succeeds and is evaluated under strengths."
+    },
+    {
+      "gate": "POV INTEGRITY",
+      "state": "PASS",
+      "evidence": "All facts reach the page through Cael's observation, prior knowledge, records read aloud, or clearly character-shaped inference. His private recognition of the deep-layer date remains interior and unspoken; no sealed planning knowledge enters narration as fact."
+    },
+    {
+      "gate": "READER STANDARD — Gate 27",
+      "state": "PASS",
+      "evidence": "The banned-word/modern-register grep (damn|hell|god|lord|christ|curse|bloody|blast|devil|bastard|okay|literally|basically|gonna) returned zero. There is no sexual content and no violence in this chapter. Conduct is honest, restrained and caring: inference is deliberately not promoted to fact, injuries remain attended, and uncertainty is not used to justify cruelty."
+    },
+    {
+      "gate": "ANTI-PASTICHE",
+      "state": "PASS",
+      "evidence": "No passage suggests imitation of identifiable protected expression. The counting, filing, procedural metaphors, dry dialogue and long accumulative sentences are continuous with this series' documented cataloguing voice."
+    },
+    {
+      "gate": "UNIFIED GATES NOT TRIGGERED — tournament, training, boxes, comedy, per-arc bookkeeping",
+      "state": "NOT_APPLICABLE",
+      "evidence": "There is no tournament round, ladder duel, training sequence, System/status box, comedy-under-stakes turn, rank-bearing public scene, or per-book revision-pass decision in this chapter."
+    }
   ],
-  "findings": [],
-  "concerns": [],
-  "strengths": []
+  "findings": [
+    {
+      "id": "F-B8-CH20-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "continuity — route timing",
+      "gate": "Reader-trust invariant 3 / authority ladder (frozen state and previous chapter)",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch20.md",
+        "line_start": 7,
+        "line_end": 7,
+        "quote": "Oryn, two days past the end of the road that had been hers and one day into the road that was not, walking as she walked, on her terms, which she had not restated, because she had said them at a ford and once at a ford was a term."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/STATE_RUNNING.md",
+        "line_start": 125,
+        "line_end": 125,
+        "quote": "301st Oryn's road turned north at a cairn — she walked on east; 302nd the Hall's marsh; 303rd the crest."
+      },
+      "consequence": "Chapter 20 is dated the 305th. Under the frozen itinerary, Oryn passed the route turn on the 301st, so she is more than two days beyond the road's end and cannot simultaneously be only one day into the road that was not hers. The exact elapsed counts conflict with each other and with the dated state, in a chapter whose voice treats day counts as reliable evidence.",
+      "repair_target": "Line 7's elapsed-route wording only — preserve that Oryn's two promised days are past, she continues east on her own terms, and she has not surrendered the northbound route, without retaining a false day count.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH20-002",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "continuity — local geography",
+      "gate": "Reader-trust invariant 3 / voice charter §3.1 cataloguing precision",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch20.md",
+        "line_start": 3,
+        "line_end": 3,
+        "quote": "The camp on the three hundred and fifth was the first one on the bearing that had no site in sight of it, and he catalogued that first, because it was the first time since a ford that he had lain down with nothing made within a day's walk, and the country had a different sound."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch20.md",
+        "line_start": 5,
+        "line_end": 5,
+        "quote": "The Span's far rim was behind them by half a day"
+      },
+      "consequence": "The Span is an explicitly made site and is only half a day's walk behind the camp, so 'nothing made within a day's walk' is false as soon as the next paragraph establishes distance. Line 121 repeats the same claim. The intended distinction—no site visible and no nearby current settlement—remains clear, but the literal wording jars against Cael's defining precision.",
+      "repair_target": "Lines 3 and 121 — retain the new acoustic isolation and the fact that no site is in sight, while making the radius claim consistent with the Span half a day behind.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH20-003",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "voice — book-level beat-phrase repetition",
+      "gate": "Voice charter §9 anti-tic law",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch20.md",
+        "line_start": 39,
+        "line_end": 39,
+        "quote": "Nobody said anything."
+      },
+      "comparison_evidence": {
+        "path": "craft/VOICE_CHARTER.md",
+        "line_start": 313,
+        "line_end": 317,
+        "quote": "Rule: any somatic/beat phrase appearing more than 3 times per book is a defect — including new phrases invented to replace an old one."
+      },
+      "consequence": "This is the ninth case-insensitive occurrence of the same beat phrase in the primary Chapter 1–20 draft files. The line also repeats the silence inside the same sentence ('said nothing'), so the ninth use no longer earns distinct emphasis and reinforces a book-level cadence tic beyond the charter's cap.",
+      "repair_target": "Line 39 only — preserve Teague's silent, job-like response to the fixed point without adding another instance of the already over-cap book-level beat phrase.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concerns": [
+    "TASTE — The repeated 'a thing ... is a thing ...' and 'he entered' scaffolds are native to Cael and do real thematic work here, but their density is near saturation across lines 31–121. A later line pass could test whether every explanatory afterbeat is needed; this does not violate a measured cap and should not be flattened wholesale.",
+    "TASTE — The chapter sits only 59 words above the lower density bound (3,969 against 3,910). It nevertheless dramatizes every promised turn rather than summarizing it, so the number is not itself a defect; any repair should stay local rather than padding the scene.",
+    "SET-PIECE ANSWER — There is no fight by design. The blanket reconciliation is a memorable procedural set piece: its physical terrain—rows, columns, weights, two pages and an undrawn gutter—is load-bearing. Its non-combat win can be written as: Karis removed Vastin's ability to turn two observations into an order by invoking the ruler rule and physically separating the findings."
+  ],
+  "strengths": [
+    "WORLDBUILDING ANSWER — Yes. Worldbuilding is consistently done through mechanism and use: the office exists as columns, ruling hands, seals, provenance and suppression procedure; the taxonomy exists as marks, distances, dividers and corroborated dates; the Path mystery exists as repeated measured failure rather than a lore lecture.",
+    "The chapter pays a long evidentiary arc without spending the Book 9 reveal. Karis finally says the lamps finding, Vastin starts the forbidden join, and the two-page refusal turns epistemic discipline into action rather than cautionary exposition.",
+    "Cael's choice not to add his private date is the chapter's human progression. He applies Karis's standard at the moment it would be easiest to use secret knowledge as certainty, showing restraint behaviorally and preserving the knowledge boundary.",
+    "The Compact fracture arrives through paper mechanics rather than a villain speech: two hands, two equally authoritative seals, an order on one face and an objection on the other. Vastin's refusal to name or exploit the factions keeps the pre-echo at the correct altitude.",
+    "The injury inventory is economical and relational. Two sticks, Teague's idle hand, Karis's bound hand, Brom's hidden bruises, Oryn's grey depletion, and the older healer binding at Oryn's leave carry costs forward while advancing trust.",
+    "The fixed close earns its desire statement. The map is physically reconciled before Cael says what he wants, Karis asks 'Why' in her measurement register, and the final narrator line changes pressure without explaining the coming payoff.",
+    "The chapter fully preserves the reader standard: careful truth-telling, restraint and care carry the drama; there is no profanity, cruelty, gore, sexual content or cynical modern register."
+  ]
 }

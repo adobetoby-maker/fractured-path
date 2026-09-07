@@ -5,12 +5,354 @@
   "verdict": "PASS_WITH_FINDINGS",
   "gate_results": [
     {
-      "gate": "Recheck — skeleton pending",
-      "state": "NEEDS_HUMAN_JUDGMENT",
-      "evidence": "Placeholder; recheck in progress."
+      "gate": "Recheck — the eleven verified findings, repaired at the flagged spans",
+      "state": "FAIL",
+      "evidence": "Diffed drafts/ch04-r1.md against drafts/ch04.md directly rather than trusting the verifier. Fourteen one-for-one line replacements, no insertions or deletions, 180 lines in both files. Nine findings fully repaired and confirmed by diff: F-001 ('Not hurt' gone from both spans; the knee named at 161 and 177), F-003 (the factor's clause at 37), F-004 ('They did not stop, because nothing about the wall had stopped being loud', 101), F-006 ('a long time ago, with instruments' — the four-hundred-year date gone, 27), F-007 (Oryn gives the knee at 161), F-008 (two of four 'He catalogued X because Y' openings recast, 79 and 141, all four acts of cataloguing kept), F-009 (a removal-form win-sentence added at 125), F-010 (the italic pre-statement cut at 113; 165 is the sentence's only appearance), F-011 ('two words, both of them *Ours*' at 19, now checkable against 13 and 15). TWO are not clean: F-002's repair asserts the lock and then contradicts itself between body (119) and log (177), and F-005's third instructed span — the 'Brom's' elision the repair_target named at ch04.md:107 — is unchanged. See findings R2-001 and R2-003."
+    },
+    {
+      "gate": "Recheck — repair scope: only the flagged spans changed",
+      "state": "PASS",
+      "evidence": "Fourteen changed lines: 19, 25, 27, 37, 79, 89, 101, 105, 113, 119, 125, 141, 161, 177. Thirteen map to a verified finding. One is unflagged — line 25, 'a road the way the void roads were not' -> 'a road as the void roads were not' — a §9 simile-engine trim, within the two allowed. No unrelated passage was opportunistically rewritten; the repair came in under its trim budget (one used of two)."
+    },
+    {
+      "gate": "Recheck — the seven recorded strengths survive",
+      "state": "PASS",
+      "evidence": "S1 (the ending as physics): 87, 117, 123, 127-129 untouched; the mechanism sentence at 101 survives the F-004 narrowing intact ('a stillhound went to the loudest thing until the loudest thing stopped being loud or stopped being there'); 119 was lengthened, not shortened. S2 (Iron Wall as limit wearing a victory): 91 and 93 untouched verbatim. S3 (competence as memory): 105 keeps 'He had learned that at a ford in the autumn ... and had never once forgotten it'; 73, 137, 145 untouched. S4, S5 (the decision without the word; Pike's sixth line): 11, 13, 15 untouched. S6 (Vastin held forty lines apart): 71, 165-169 untouched; 161 keeps Oryn's prohibition verbatim. S7 (every number reconciles): 147, 175 untouched, and F-011's repair strengthens it. One caveat, raised as finding R2-002: the new gloss at 125 interposes between S1's stage three (123) and stage four (127)."
+    },
+    {
+      "gate": "Recheck — the card's fixed closing log, byte-exact and untouched",
+      "state": "PASS",
+      "evidence": "Compared programmatically against the packet's scene_shape.closing_state and against r1. 369 characters, byte-identical to both; line 179 is not in the diff. The file still ends on 'He looked almost free. Almost.'"
+    },
+    {
+      "gate": "Recheck — word band",
+      "state": "PASS",
+      "evidence": "4,821 words. Packet target 4,600 at 15 percent tolerance -> 3,910-5,290. WITHIN_TARGET, and 469 under the 5,290 ceiling. r1 was 4,607; the repair added 214 words."
+    },
+    {
+      "gate": "Authority — packet prohibited_outcomes (8 items)",
+      "state": "PASS",
+      "evidence": "Re-run against r2. No quiet ground, no Arbiter, no Quieting sense of 'quiet' (six ordinary uses: 123, 149 x3, 165, 177). No Iron Wall integration, no fragment notice, no reading, no Anchor or Shadow (only lowercase physical 'shadow' at 47 and 79). Seln is the fourth thing to arrive, not the terminal beat. No records read, no 'Cleon', Treswick not reached (named twice at 11 only as the word nobody says aloud), no fork for Oryn. Oryn never declares and never fights. No 'Halcenvane', 'Velmere', 'Wray', 'Bracken'. Modern-idiom grep zero. One-word paragraphs: 1 (cap 2). 'the way X [verb]': 3 (cap 4). The closer is the log."
+    },
+    {
+      "gate": "Authority — canon and SECRET discipline (CANON_RULES reveal schedule; UNIVERSE_BIBLE)",
+      "state": "PASS",
+      "evidence": "No changed span touches the reveal schedule. F-006's repair removes the only date the chapter asserted about the road, which was the span closest to a reveal figure: 'somebody had drawn it a long time ago, with instruments, and somebody else had been mending it since' (27)."
+    },
+    {
+      "gate": "Continuity persistence — calendar, cash, possessions, counts",
+      "state": "PASS",
+      "evidence": "Unchanged spans. 278th (slip, departure), first day road, second day the cut, log dated the 279th. Cash 118 + the hold's twenty = 'A hundred and thirty-eight in hand' (175). Eight hounds up from the sink; one to Brom (105), one to Lira (107), 'Six on the ice' (111), five confirmed and three back into the sink (133, 147, 175). Reconciles."
+    },
+    {
+      "gate": "Continuity persistence — injuries and conditions carried forward (charter §4.3; THE AUTHOR 2.8 / gate 13)",
+      "state": "PASS",
+      "evidence": "The r1 FAIL is cleared. 'Not hurt' is gone from both author-owned spans. Oryn at 161: 'And the knee's gone — not broken; gone the way a knee goes that's been asked to be a wall's foot on stone for as long as that was. That's the wound, and it's a real one, and it'll be a real one for a month.' The log at 177: 'Vastin, spent to the floor, and the knee — the wall's foot, on stone, for as long as it took — gone under him; Oryn bound it and said a month. That's the wound.' The fixed line 'an Archmarshal took a wound out here' now has a referent, and the wound has a location, a mechanism and a duration."
+    },
+    {
+      "gate": "Continuity — Book 7 fauna doctrine (stillhound mechanics as B7 Ch3 and Ch10-11 establish them)",
+      "state": "PASS",
+      "evidence": "The r1 FAIL is cleared. The categorical claim is gone: 'They did not stop, because nothing about the wall had stopped being loud; a stillhound went to the loudest thing until the loudest thing stopped being loud or stopped being there' (101). This is the ford's lesson holding, not reversing, and it coheres with the factor's new clause at 37 ('a den beside a road learns the road'), which no longer sits against a narrator denying that stillhounds learn."
+    },
+    {
+      "gate": "Combat — charter §4.1 / THE AUTHOR gate 9: geography drawable at every paused point",
+      "state": "PASS",
+      "evidence": "The r1 FAIL is cleared on both substantive counts. The plane is scoped: 'across the road, wall to wall, the width of the cut — the road's width; the scree above it was not road' (89), which reconciles with 'nothing on the road was going past it' (91) and with the two hounds that round it by leaving the road. And rounding now costs: 'the hound that came round the plane's edge by the scree, slow, the loose slope taking its feet at every step' (105), which uses the slope established at 47 as ground nothing can take fast and is what makes Brom's and Lira's interceptions physically available."
+    },
+    {
+      "gate": "Combat — charter §4.2: four exchanges, each changing position, information, resource or injury",
+      "state": "PASS",
+      "evidence": "Structurally unchanged from r1. (1) 85-99 the pack up, the wall across, the limit shown; (2) 101-109 the crew adapts around it; (3) 113-125 Cael moves first, then subtracts himself; (4) 127-137 the heap, the runnel, steel, the wall coming off."
+    },
+    {
+      "gate": "Combat — charter §4.4 / THE AUTHOR: the win is expressible as X removed Y's ability to Z",
+      "state": "PASS",
+      "evidence": "Writable and now written: 'he took away the pack's ability to converge on the rooted man by being louder than the wall for three breaths and then not, so that the wall was what they had left to go at' (125). The packet's must_include item 5 is satisfied. The manner of delivery is a separate defect — see finding R2-002."
+    },
+    {
+      "gate": "Combat — charter §4.3 / §4.7 / §6.2: abilities within their canon cost and limit; costs shown",
+      "state": "FAIL",
+      "evidence": "The r1 FAIL is only half cleared. The lock is now named and is back in the log's bill in B7's own form. But as staged it is asserted rather than paid, and the body and the log disagree about whether it landed. See finding R2-001. Iron Wall's own cost is fully paid and is the chapter's best accounting: rooted (95), cannot follow (117), off (135), spent to the floor and the knee (161, 177)."
+    },
+    {
+      "gate": "Combat — THE AUTHOR gate 16: environmental utilization, >=2 beats causally dependent on terrain",
+      "state": "PASS",
+      "evidence": "Strengthened by the F-005 repair. The ice carries the six past a shout that has stopped (119-123); the loose scree takes the rounding hound's feet at every step (105) and will not let Lira run (107); the runnel is where the finish happens (131)."
+    },
+    {
+      "gate": "Combat — THE AUTHOR gates 10-12, 14: tempo, masked-name distinctness, stakes before the blow, tactical escalation",
+      "state": "PASS",
+      "evidence": "Unchanged. Stakes set at the shoulder hold (35-43) and in the positioning dialogue (57-73) before the first exchange."
+    },
+    {
+      "gate": "Causal legibility — the fight's trigger",
+      "state": "PASS",
+      "evidence": "The r1 FAIL is cleared by one clause in the factor's mouth, in his own register: 'And a den beside a road learns the road — lately they come up at whatever crosses, and most of what crosses declares.' (37). The crew walks in silent and the pack comes up anyway (85) without contradicting B7's 'nearly blind to a body not using one' — surfacing is not seeing — and the fight needed no restaging."
+    },
+    {
+      "gate": "World discipline — charter §6.1: limitation introduced with or before the capability (Iron Wall, for the Ch12 payoff)",
+      "state": "PASS",
+      "evidence": "'a plane across a road is a plane that is *held*, and the holding is the man, and the man is the plane's foot, and a foot does not walk' (95); 'in a field, with a line of Compact steel behind it, that was the whole of the craft' / 'There was no line of steel behind it.' (95, 97); 'could not follow' (117). Power at 91, bill at 93. The F-005 repair adds the plane's spatial limit at 89. Clean plant for Ch12."
+    },
+    {
+      "gate": "World discipline — charter §6.4: no silently minted canon",
+      "state": "PASS",
+      "evidence": "The repair introduces no new noun requiring a Bible entry. The hold stays named-by-role, the factor stays unnamed, matching invention_budget.allowed."
+    },
+    {
+      "gate": "Point-of-view integrity and knowledge boundary (craft core reader-trust invariant 1)",
+      "state": "PASS",
+      "evidence": "The r1 FAIL is cleared: the asserted four-hundred-year age of the road is gone and what remains carries the seam the card asked for without a date. One light residue in the same repair family is raised at LOW — see finding R2-005 — but it is a figure of speech in the narrator's register, not a knowledge claim, and does not re-open the gate."
+    },
+    {
+      "gate": "Consequential scene — state change and scene turn",
+      "state": "PASS",
+      "evidence": "Unchanged, and improved. The chapter now exits with a tracked physical fact changed as well as a relationship: Vastin's knee is a month's injury, which is what the fixed log's 'took a wound' has been asserting since r1."
+    },
+    {
+      "gate": "Assigned obligations — must_include (8 items)",
+      "state": "PASS",
+      "evidence": "The r1 FAIL is cleared. Item 5 (the removal-form win-sentence) is on the page at 125; item 6 (Vastin's lesson, said once) now appears only at 165. The other six were already met and are untouched."
+    },
+    {
+      "gate": "Assigned obligations — plants and payoffs",
+      "state": "PASS",
+      "evidence": "Iron Wall's limit taught for Ch12; 'He looked almost free. Almost.' intact in the fixed log; the border road as a maintained road survives F-006's repair; Oryn positions and does not fight. Pike's sixth line untouched. The knee repair additionally pays a plant laid in Ch2 and held through Ch3 — see strengths."
+    },
+    {
+      "gate": "Progression module gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No advancement, tier change or recorded delta in this scene; the still place is untouched and no fragment notice fires."
+    },
+    {
+      "gate": "LitRPG module gates 1-7",
+      "state": "NOT_APPLICABLE",
+      "evidence": "No system display in the chapter. The Power Log is handled under §3.2 and §8.3."
+    },
+    {
+      "gate": "Voice charter §8.4 — terminal metadata",
+      "state": "PASS",
+      "evidence": "grep for 'End of Chapter|approximately.*words|word count|DRAFT|TODO' over drafts/ch04.md returns 0. The file ends on the log's last line."
+    },
+    {
+      "gate": "Voice charter §9 — enumerated tic caps (per chapter and book-to-date)",
+      "state": "PASS",
+      "evidence": "All ten enumerated phrases return 0 in r2, unchanged from r1. Standalone '[Name] noticed.' returns 0. One-word paragraphs: 1 (cap 2). 'which was, in its own way': 0. 'the way X [verb]': 3 (cap 4) — the F-007 repair added one ('gone the way a knee goes', 161) and the line-25 trim removed one, so the count is flat at r1's 3, and all three are different constructions, so verbatim repetition is 1 each."
+    },
+    {
+      "gate": "Voice charter §9 — cataloguing-narrator gravity wells (the drafting constraints' named watch)",
+      "state": "PASS",
+      "evidence": "The r1 FAIL is cleared. 'He catalogued [X] because [Y]' now runs twice, not four times: 23 and 91. The two section openings named in the repair_target are recast — 'The silence was a thing he had learned on the void roads ... and he counted it now as he counted anything he needed' (79) and 'The costs, while she worked, because the costs were the ledger and the ledger was his' (141) — and every act of cataloguing is preserved, including the itemised bill at 149."
+    },
+    {
+      "gate": "Voice charter §9 — scene-closer rule (no two consecutive chapters on the same structural move)",
+      "state": "PASS",
+      "evidence": "Ch3 closes on an observed-from-distance image ('He looked at the roads he could not see, east and west, and at the page he had not touched'). Ch4 closes on the fixed log entry. Different structural moves."
+    },
+    {
+      "gate": "Voice charter §8.5 — dialogue attribution runs in 3+-speaker scenes",
+      "state": "PASS",
+      "evidence": "Counted over both multi-party scenes. Longest unattributed run is 2 (63 and 65, in a two-hander inside the six-speaker staging scene). Cap is 4."
+    },
+    {
+      "gate": "Voice charter §8.1 / NAME_REGISTRY — aural distinctness, rename-slated names, new canon nouns",
+      "state": "PASS",
+      "evidence": "Capitalised-token sweep over r2 returns no name absent from the registry and no name minted by the repair: Brom, Lira, Cael, Oryn, Vastin, Seln, Karis, Pike, Treswick, the Line, the Compact, the Ring, Archmarshal, Iron Skin, Iron Wall, Wind, Path. Read aloud, no pair collides at speed. None of the reserved or rename-slated names appears."
+    },
+    {
+      "gate": "Voice charter §8.2 / §8.3 — audio survival",
+      "state": "FAIL",
+      "evidence": "Two costs, both in changed or instructed spans. The 'Brom's' elision at 107 that F-005's repair_target named was left unchanged and is now harder to hear, not easier, because 105 has just foregrounded rounding as an event — see finding R2-003. And the F-005 insertion at 89 puts a third nested aside into an already twice-interrupted sentence — see finding R2-006. Everything else voices cleanly, including '*Ours*' at 19, which survives having its italics stripped."
+    },
+    {
+      "gate": "Voice charter §3.1 / §3.2 — the narrator's counts and stated intentions checkable against his own page; diegetic documents",
+      "state": "FAIL",
+      "evidence": "§3.1 is repaired at 19: 'two words, both of them *Ours*' is now checkable against 13 and 15, where the word is said twice. But the F-009 repair introduces the opposite defect at 125 — the narration announces a sentence 'for the log' and the chapter's fixed log does not contain it, in a series that has used that exact formula twice, both times inside the log. See finding R2-002."
+    },
+    {
+      "gate": "Voice charter §10 — scene versus summary, and density",
+      "state": "PASS",
+      "evidence": "Unchanged. The assigned turns all happen in scene; the summary grep returns 0."
+    },
+    {
+      "gate": "Voice charter §3.5 / §3.8 — third-party verdicts, dry oblique dialogue, no modern idiom, no meta-voice",
+      "state": "PASS",
+      "evidence": "Oryn's verdict is specific to her competence and is now longer and better ('gone the way a knee goes that's been asked to be a wall's foot on stone'); Seln's is specific to his ('clear because it's empty, not because it's safe'). Modern-idiom grep 0. The one seam that reads as authorial framing is at 125 and is filed under §3.1/§3.2 rather than here."
+    },
+    {
+      "gate": "Anti-pastiche (craft core invariant 6; charter §2)",
+      "state": "PASS",
+      "evidence": "No influence-author resemblance flag in any changed span."
+    },
+    {
+      "gate": "Invention budget",
+      "state": "PASS",
+      "evidence": "The repair invents nothing outside allowed: the factor's extended account of the den (his wording, an allowed item), the plane's spatial scope (within the reference paragraph), the knee's mechanism (a tracked condition, not a new one). No new named person or place; no Iron Wall mechanic beyond the reference paragraph."
+    },
+    {
+      "gate": "READER STANDARD — VOICE_CHARTER 'Reader Standard' section; THE AUTHOR Gate 27 (owner requirement, 2026-09-05)",
+      "state": "PASS",
+      "evidence": "Binary gate, run in full on r2. Clean language: the loop's banned-word grep ('damn|damned|hell|bastard|bitch|shit|fuck|piss|arse|ass|crap|bloody|goddamn|christ|whore|slut|cock|bugger|sod', word-bounded, case-insensitive) returns 0. Conduct: Cael sets the positions, warns the newcomer plainly ('Do you understand what I'm telling you?', 61) and then takes the loud and dangerous role himself; Brom prices the job aloud; Karis commits the crew before the man whose job it is; Oryn takes the casualty ground and never fights; Seln reports the sink honestly against his own crew's interest ('tell him it's clear because it's empty, not because it's safe', 147). Wrong is named as wrong without rebuke or mockery — 'Don't do that again. Not here.' (161) — and Vastin, an adult of fifty-three, is given his failure with dignity and answers it himself ('I know fields. I don't know packs.', 169). Violence: cost and fear throughout, no gore anywhere. The killings are one clause each and turn away immediately — 'put the rock into it, and the hound went down' (105); 'took the hound ... from above, with the knife' (107); 'it was not a fight then; it was the runnel, and steel' (131). The aftermath is the most explicit passage and is clinical, not lingering: 'a tooth through the boot, the right one, through the leather and into the foot above the small toes, not deep' (143). No human death; three animals are allowed to escape and the escape is noted as a fact, not a failure. Sexual content: none, and no innuendo. Nothing in any of the fourteen changed lines moves any of these."
+    },
+    {
+      "gate": "Run hygiene — author report and state ledger reconciliation",
+      "state": "FAIL",
+      "evidence": "The state ledger is correct: STATE_RUNNING carries an explicit append-only correction ('CORRECTION to After Chapter 4 (r2, 2026-09-05): VASTIN'S WOUND is the right KNEE ... The COSTS row's not hurt is superseded'), which is this ledger's established pattern. The author report's declared word_count does not match the draft and aborts the compiler — see finding R2-004; the compiled editor prompt for this run, packets/ch04-editor-prompt-r2.md, is 0 bytes as a direct result. The report's state_change_proposals also carries a stale 'Vastin spent, not hurt' against its own later item, recorded in concerns rather than raised because the ledger has already superseded it."
     }
   ],
-  "findings": [],
-  "concerns": [],
-  "strengths": []
+  "findings": [
+    {
+      "id": "F-B8-CH04-R2-001",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "Combat physics and ledger accuracy",
+      "gate": "Charter §4.7 (no spectator-proof physics), §4.3 (costs conserved), §6.2 (every rule visibly costs); craft core authority ladder (Book 7's closed prose governs the burst's cost); charter §3.2 (a document entry may not say what the page contradicts) — partial repair of F-B8-CH04-002",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04.md",
+        "line_start": 119,
+        "line_end": 119,
+        "quote": "He let them come. Ten strides. Eight. The lock was on him — the beat after a burst that he could not price a hit inside, the one the ford had put a hound into — and the six were closing across it, and he did the thing the ford had not taught him, because the ford had not had a wall in it: he went sideways off the road, out of the lock and not through it, onto the south scree, three strides up it, and *stopped*"
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-03.md",
+        "line_start": 197,
+        "line_end": 197,
+        "quote": "The burst put him down on the shingle with the landing beat locked — the fixed one-count lock — and in the lock a hound came off the bar's near end through the shallows at him, the one Lira had cut, and reached him. He killed it — the knife down through the back of its neck, twice, as it hit him — and it went down across his legs in the water, and he stood up out of the lock and looked at the bar."
+      },
+      "consequence": "F-002 asked for the lock restored as a cost rather than a pause. It is named, and it is back in the log's bill in Book 7's own form, which is the right instinct. But the beat as written does not pay it, and it contradicts itself four lines from the chapter's end. Two problems. (a) Physics: in both of Book 7's stillhound fights the lock is not a pause a body walks out of sideways — the burst PUTS HIM DOWN ('put him down on the shingle', chapter-03.md:197; 'Then he was in the landing lock — the fixed one-count, the beat he could not price a hit inside', chapter-11.md:137) and he STANDS UP out of it. In r2 he never lands. He is upright on the road counting strides, the lock is declared to be on him, and he then covers ground laterally and climbs three strides of a slope the chapter itself established as 'the kind of slope a body could go up on hands and feet and could not go up fast' (ch04.md:47). 'out of the lock and not through it' asserts the exit rather than showing it; the cost is invoiced and then waived inside the same sentence, which is exactly the erosion §4.7 exists to stop and exactly what the r1 finding was raised over. (b) The ledger disagrees with the body. Line 119 says the lock was already on him; line 177 says he got clear before it arrived — 'a locked landing beat with nothing in it this time because I'd left the road before it landed'. Both cannot be true, and in this series the log is the instrument the reader is trained to trust, which is the same reasoning that made F-001 a HIGH. A reader who has read the ford will stop here.",
+      "repair_target": "One clause in each of the two spans, and they must agree. The cheapest version that satisfies both Book 7 and the tactic: let the burst land him — that is what the burst does — and let the landing be the thing that takes him off the road, so that the one count is spent on the scree rather than on the ice, where a stopped body is nothing and a body on the road is on the pack's line. That keeps 'he went sideways off the road' as the tactic and makes the lock the reason it works rather than an obstacle the sentence talks its way around. Then bring 177 into line: 'a locked landing beat with nothing in it this time, because I spent it off the road' rather than 'because I'd left the road before it landed'. Do not restage the beat; the six are ten strides out when the lock falls, which is the whole margin the tactic needs.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH04-R2-002",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "Narratorial frame and diegetic-document checkability",
+      "gate": "Charter §3.1 (the narrator's claims are checkable against his own page), §3.2 (diegetic documents carry weight and are not impersonated by narration); packet pov.knowledge_boundary ('no meta-voice'); Shared Positive Voice — do not append a summary explaining the ending; F-B8-CH04-009's own repair_target ('Do not restate the mechanism')",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04.md",
+        "line_start": 125,
+        "line_end": 125,
+        "quote": "The rooted thing they could not move was the thing they broke on. One sentence, for the log: he took away the pack's ability to converge on the rooted man by being louder than the wall for three breaths and then not, so that the wall was what they had left to go at."
+      },
+      "comparison_evidence": {
+        "path": "books/book-07-void-roads/chapters/chapter-03.md",
+        "line_start": 251,
+        "line_end": 251,
+        "quote": "And the seam: they follow whoever moves first. Not a leader. A first mover. So I moved first, away from Karis, and every one of them turned, and Seln was behind the big one when it turned. One sentence: we took away the pack's first mover by being it, and Seln took the dog."
+      },
+      "consequence": "The win-sentence itself is right and the obligation is met; the problem is the wrapper. 'One sentence' is not a neutral phrase in this series — it is a LOG formula, used twice, both times inside the italic first-person ledger and both times in the removal form: 'One sentence: we took away the pack's first mover by being it' (B7 chapter-03.md:251) and 'One sentence, because the ledger wants one: they live in there because nothing that walks in can fight' (B7 chapter-11.md:247). Line 125 lifts that formula out of the log, puts it in third-person narration in the middle of a live fight, and points it at a log that cannot contain it, because this chapter's log is the card's fixed text and is closed. So the narration promises the reader a ledger line and the ledger at 175-179 never delivers it. That is the same defect F-011 was raised over — a stated count or intention that does not survive checking against the narrator's own page — arriving by way of the repair for a different finding. Three further costs travel with it. It reads as an authorial seam in a close third that has been scrupulous for 124 lines. It restates the mechanism the F-009 repair_target explicitly said not to restate: 'by being louder than the wall for three breaths and then not' is line 123's 'The boy had been louder for three breaths and had gone quiet' said again. And it interposes a retrospective gloss between stage three and stage four of the beat the r1 report asked to be left whole ('Do not let a compression pass shorten 119-127; the beat needs all four of its stages') — the image lands at 125's first sentence and the gloss immediately explains it, which is the one thing the shared voice floor names as a failure of endings.",
+      "repair_target": "Keep the sentence; cut the frame and the restatement. Deleting the four words 'One sentence, for the log:' and the clause that repeats 123 leaves the removal form standing on its own as narration — what the pack could no longer do and by what act — which is what the packet asked for and what §4.4 tests. If the ledger register is wanted, the alternative is to move it out of the fight entirely, into the cataloguing section after the wall comes off, where Cael is already writing the ledger; it does not belong between the turn and the impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH04-R2-003",
+      "status": "PROPOSED",
+      "severity": "MEDIUM",
+      "category": "Audio survival and syntactic clarity",
+      "gate": "Charter §8.2 and §8.3 (meaning survives narration; no typography- or eye-dependent parsing); §4.1 (positions legible) — the third instructed span of F-B8-CH04-005, unrepaired",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04.md",
+        "line_start": 107,
+        "line_end": 107,
+        "quote": "Lira came down the scree. Not running — the scree would not let her run — but fast, her own fast, the one without Wind, on her own foot, on two arms, and she took the hound that had followed Brom's round the plane's edge, from above, with the knife, and went back up the scree before the next one had finished turning, and was not there."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04-r1.md",
+        "line_start": 107,
+        "line_end": 107,
+        "quote": "Lira came down the scree. Not running — the scree would not let her run — but fast, her own fast, the one without Wind, on her own foot, on two arms, and she took the hound that had followed Brom's round the plane's edge, from above, with the knife, and went back up the scree before the next one had finished turning, and was not there."
+      },
+      "consequence": "F-005's repair_target named three spans and the author repaired two. Its last sentence — 'Recast the clause at ch04.md:107 so Brom's is not doing possessive work across an elision' — was not acted on; the line is byte-identical to r1, which the diff confirms. The intended reading is 'the hound that had followed Brom's [hound] round the plane's edge', with the noun elided. On the page that costs a re-read. Read aloud, which is how this series ships, it is worse: a listener hears 'followed Brom's round the plane's edge' and parses 'Brom's round' as a noun phrase — Brom's circuit, Brom's turn — and loses the hound entirely, which loses the second kill and with it the arithmetic that gets the pack from eight to six before line 111 says 'Six on the ice'. The F-005 repair at 105 makes this measurably likelier rather than less: it has just spent a clause foregrounding rounding as an event with a duration ('came round the plane's edge by the scree, slow, the loose slope taking its feet at every step'), so 'round' is primed as a noun two lines later.",
+      "repair_target": "One clause, at 107, naming the antecedent instead of eliding it: 'the hound that had followed the first one round the plane's edge', or 'the second hound round the plane's edge'. This does not touch Lira's beat, her two arms, or her exit, all of which the r1 report recorded as a strength.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH04-R2-004",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "Run hygiene — report contract",
+      "gate": "Author-report contract enforced by scripts/build_prompt.py (report word_count must equal the draft's); harness integrity",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/reports/ch04-author-r2.json",
+        "line_start": 7,
+        "line_end": 7,
+        "quote": "\"word_count\": 4823,"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04.md",
+        "line_start": 1,
+        "line_end": 180,
+        "quote": "# Chapter 4 — The Border Road [whole file: 4,821 words by the compiler's own measure, len(text.strip().split())]"
+      },
+      "consequence": "No reader consequence; a hard run consequence. The compiler validates the author report's declared word_count against the draft and raises on mismatch, and it raises before it writes anything, so the run's compiled editor prompt at packets/ch04-editor-prompt-r2.md is 0 bytes on disk. This recheck had to be performed against a locally rebuilt prompt. Any downstream seat that trusts the packet directory rather than rebuilding will silently receive an empty contract. The declared figure is also the one the verifier and the state ledger will quote for the chapter, so a two-word error propagates into the book's word accounting.",
+      "repair_target": "Set word_count to 4821 in reports/ch04-author-r2.json and re-run scripts/build_prompt.py editor --packet packets/ch04-repair-r2.json --root . so that packets/ch04-editor-prompt-r2.md is non-empty. No prose change.",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "F-B8-CH04-R2-005",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "Reference and antecedent",
+      "gate": "Craft core invariant 1 (narration stays inside what the viewpoint has); charter §3.1 — introduced by the F-B8-CH04-010 repair",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04.md",
+        "line_start": 113,
+        "line_end": 113,
+        "quote": "He did not have the sentence yet. He had the shape of it: a rooted man who could not chase and a pack that would go at him until he fell, and a road, and a lesson from a ford: they follow whoever moves first."
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04-r1.md",
+        "line_start": 113,
+        "line_end": 113,
+        "quote": "*Out here the wall holds the line, and someone else has to be the reason the enemy wants the line.* He did not have the sentence yet. He had the shape of it."
+      },
+      "consequence": "The italic pre-statement is correctly gone and 165 is now the sentence's only appearance, which is what F-010 asked for. But the disclaimer that used to follow it was left standing, and it no longer has anything to refer to. 'He did not have the sentence yet' opens the paragraph with a definite article pointing at a noun the reader has never seen; the referent does not arrive for another fifty-two lines, in Vastin's mouth. Two small costs. A reader stalls at a pivot beat — this is the paragraph immediately before 'He moved first' — trying to recover which sentence is meant. And the residue still performs a softened version of the thing the finding removed: it tells the reader in advance that a formulable sentence exists and is coming, which pre-loads Vastin's line at 165 rather than letting it land as his own arithmetic.",
+      "repair_target": "Two words, at 113. Make the reference indefinite and forward-looking rather than definite and backward-looking — 'He did not have a sentence for it yet. He had the shape:' — or drop the first sentence altogether and open on the shape, which is where the paragraph's content actually is. Do not restore the italic and do not add anything at 165.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "F-B8-CH04-R2-006",
+      "status": "PROPOSED",
+      "severity": "LOW",
+      "category": "Line-level redundancy and audio legibility",
+      "gate": "Charter §8.2 / §8.3 (survives narration); Shared Positive Voice — one exact image over stacked comparisons — introduced by the F-B8-CH04-005 repair",
+      "draft_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04.md",
+        "line_start": 89,
+        "line_end": 89,
+        "quote": "It went up now, two feet from Brom's back, across the road, wall to wall, the width of the cut — the road's width; the scree above it was not road, and a plane knows what it was told — not a thing he could see, exactly; a *plane*, a place where the air had been told it was stone, and had believed it —"
+      },
+      "comparison_evidence": {
+        "path": "v3-runs/book-08/drafts/ch04-r1.md",
+        "line_start": 89,
+        "line_end": 89,
+        "quote": "It went up now, two feet from Brom's back, across the road, wall to wall, the width of the cut — not a thing he could see, exactly; a *plane*, a place where the air had been told it was stone, and had believed it —"
+      },
+      "consequence": "The scoping clause is the right repair and it clears the F-005 geometry problem; the trailing half of it is not carrying its weight. Two costs, both small and both fixable by cutting eight words. First, redundancy at close range: 'a plane knows what it was told' is the same figure as 'the air had been told it was stone, and had believed it', which arrives four words later and is the better version — it is concrete, it is the one the chapter keeps, and it is the one a reader will remember. Stating the figure and then immediately restating it stronger spends the image twice. Second, audio: the sentence already carried one em-dash interruption and a semicolon before the repair; it now carries two interruptions nested around a semicolon, and a listener meeting 'wall to wall, the width of the cut — the road's width; the scree above it was not road, and a plane knows what it was told — not a thing he could see, exactly' has to hold the main clause across two suspensions to reach 'a plane'. The load-bearing content of the insertion is the first eight words; the rest is what makes it hard to hear.",
+      "repair_target": "Cut 'and a plane knows what it was told' at 89 and keep 'the road's width; the scree above it was not road', which is the whole of what F-005 needed and is the phrasing the recheck brief names. The following image then lands once, cleanly, and the sentence is back to one suspension.",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concerns": [
+    "Carried from r1 and still standing, all in unchanged spans: 'the loudest thing' still runs nine times inside roughly forty lines of fight (85, 87, 95 x2, 101 x2, 117, 123 x2), on top of five instances in the Thornwater ford chapter. The count did not move in the repair; the new material at 125 uses 'louder' rather than the full phrase, which is the right instinct. Still world-mechanic vocabulary rather than a somatic tic, still doing real work, still worth a book-level count from here.",
+    "Carried from r1: Brom's ledgered injury never appears in an exchange. The tooth through the boot is first seen in the aftermath at 143 with its causal note attached retroactively. The F-005 repair at 105 places the moment more precisely than r1 did — the hound Brom puts the rock into is now the one that has come round slowly on the loose slope, which is exactly where a dying animal gets a foot — so the retrospective read is easier to make, but the fight still changes no body on the page.",
+    "Carried from r1: the clearance pays twenty (5) where Book 7's comparable ford paid forty, and the narration attaches no judgement to Brom reading the price twice. Unchanged by the repair.",
+    "Carried from r1: the crew is two days west on a road the chapter calls three days to the Line (11), leaving about one day to Treswick against the Ch5 card's 'A day and a half.' Unchanged; still for Ch5 to settle deliberately rather than absorb.",
+    "Carried from r1: five one-line paragraphs inside the fight and its approach (83, 103, 115, 121, 151), of which one is a single word. The charter's cap of two single-word paragraphs is not touched and every one of the five sits at a hinge. Unchanged by the repair; still the highest density in Book 8 so far.",
+    "Carried from r1: Vastin agrees to 'And still' at 69-71 and the first thing he does under contact is declare, and nobody says so afterward. The knee repair at 161 arguably improves this — Oryn's verdict now has a physical finding in it rather than only a prohibition — but the broken instruction is still left on the floor deliberately, and the human read should confirm that is the intent.",
+    "The author report's state_change_proposals still carries 'Vastin spent, not hurt' in its injuries item while its own later item names the knee as the wound. Recorded rather than raised as a finding because STATE_RUNNING has already superseded it in the ledger's established append-only form ('CORRECTION to After Chapter 4 (r2, 2026-09-05): VASTIN'S WOUND is the right KNEE ... The COSTS row's not hurt is superseded'), so the state layer is reconciled and the stale line is inert. Flagged only so that a later pass reading the report as a summary does not carry the wrong half forward.",
+    "The knee has no side on the page. Ch2 established it precisely — 'the left leg taking the weight and the right coming after it a half-count late, a knee that had been asked for more miles than it had agreed to and had kept the account' (drafts/ch02.md:23) — and both the author report and the ledger correction say the RIGHT knee. The draft says only 'the knee' at 161 and 177. Not a contradiction, and Oryn does not explain herself, which is in character. But this is the counting narrator's own ledger entry, it names Brom's foot as 'the right one' three paragraphs earlier, and the side costs one word.",
+    "Two small line-level residues in changed spans, below the threshold for findings. At 79 the recast opener turns on 'need' twice in one sentence ('had thought he would not need on a kept one, and he counted it now as he counted anything he needed'). At 161 Oryn's 'a wall's foot on stone' echoes the narrator's own figure from 95 ('the man is the plane's foot, and a foot does not walk') — defensible as a healer arriving independently at the obvious image, and the echo is 66 lines apart, but the shared voice floor warns against secondary characters acquiring the narration's cadence.",
+    "Repair scope came in under budget rather than over: one §9 simile-engine trim was used of the two allowed (line 25, 'a road the way the void roads were not' to 'a road as the void roads were not'), and it was necessary, because the F-007 knee clause introduced a new 'the way a knee goes' at 161 and the trim is what holds the chapter's count flat at three."
+  ],
+  "strengths": [
+    "All seven strengths recorded at r1 survive the repair, verified line by line against the diff rather than against the reports. The two that were most at risk both came through: the mechanism sentence at 101 kept its whole second half through F-004's narrowing, so the rule the chapter's win depends on is still stated before it is used; and 119 was lengthened rather than shortened, so the four stages of the ending beat at 119-127 are intact. 91, 93, 71, 165-169, 11-15, 147 and 175 are untouched verbatim.",
+    "The knee repair does more than clear the contradiction it was raised for — it pays a plant that has been running for two chapters and closes a hole nobody had filed. Oryn has been looking at that knee since the landing: 'look at the hands, and then at the knee under the table, and then at the face — the count, and the finding — and say nothing, because the finding was hers and she had not been asked for it' (drafts/ch02.md:93), then 'That knee's carried him three hundred miles and he hasn't asked me for anything' (ch02.md:127), then through the whole records scene ('Oryn, across from Vastin, watched the man's knee under the table, and then his hands, and then the sheets, and then the knee again', drafts/ch03.md:35). At ch04.md:161 she is finally asked, by a man on the ground, and she answers with the finding she has been holding — and she still does not explain that she has been holding it, which is the character. It also retro-fits the running ledger downstream, where Ch5 already prices 'Vastin — carry the knee to Millrace' and a later chapter already says 'the knee again': under r1's 'Not hurt' neither had an antecedent. Do not let a compression pass shorten 161; the clause 'gone the way a knee goes that's been asked to be a wall's foot on stone' is what gives the fixed log's 'took a wound' a mechanism.",
+    "The trigger repair is a model of the cheapest correct fix. One clause, in the factor's mouth, in the register of a man counting what the winter has cost him: 'And a den beside a road learns the road — lately they come up at whatever crosses, and most of what crosses declares.' (ch04.md:37). It reconciles Book 7's mechanic with a pack that comes up at a silent crew without contradicting either, it does it as commerce rather than as natural history, it needed no restaging of the walk-in at 79-85, and it now agrees with the narrowed claim at 101 instead of sitting against it. The two repairs were written by different findings and land as one idea.",
+    "The rounding cost at 105 turns an assertion into terrain. 'the hound that came round the plane's edge by the scree, slow, the loose slope taking its feet at every step' spends nothing new — the slope was established at 47 as 'the kind of slope a body could go up on hands and feet and could not go up fast' — and it buys two things at once: the plane's absoluteness at 91 stops being overstated, and Brom's and Lira's interceptions become physically available rather than merely fast. This is the environmental-utilization gate being satisfied by a repair rather than by design, which is rarer.",
+    "F-011's fix improved the chapter's best structural habit rather than patching around it. 'take it in two words, both of them *Ours*' (19) is now checkable against 13 and 15, where the word is said exactly twice, and it is better than a corrected number would have been: it scopes Vastin's observation to the decision rather than the discussion, which is what he was actually measuring, and it makes the crew's method — a decision costing two words, said twice, by two people — the thing he files. It also survives having its italics stripped, which §8.2 requires.",
+    "The log's burst bill now mirrors Book 7's form deliberately rather than accidentally. 'Bill: breath, a locked landing beat with a dog in it, and the frameworks knocking together for what will be a day' (chapter-03.md:245) becomes 'the burst — breath, the frameworks for a day, a locked landing beat with nothing in it this time ... the ribs quiet' (ch04.md:177). Same ledger, same order, same idiom, with the difference stated as a difference. The internal contradiction raised at R2-001 is in the causal clause only; the form itself should be kept exactly as it is when that clause is fixed.",
+    "The chapter passes the Reader Standard without having had to be softened for it, which is the test that matters. The violence is entirely animal, it is one clause per killing, and the prose turns away the instant the outcome is legible; the single most explicit line in the chapter is a bound foot. The moral content is carried by conduct rather than by statement — Cael assigns himself the loud and dangerous position after warning everyone else off it, Seln reports the sink honestly against his own crew's interest, Oryn holds a finding for two chapters until she is asked, and a man of fifty-three is allowed to fail publicly and answer for it in his own words without being mocked or rebuked. Nothing had to be added to satisfy the gate and nothing in the fourteen changed lines moves it."
+  ]
 }

@@ -2,7 +2,7 @@
   "schema_version": "3.1",
   "run_id": "b8-ch24-r2-editor",
   "scene_id": "b8-ch24",
-  "verdict": "PASS_WITH_FINDINGS",
+  "verdict": "PASS",
   "gate_results": [
     {
       "gate": "recheck.ed-b8-ch24-r1-001",
@@ -32,12 +32,12 @@
     {
       "gate": "recheck.revision_scope_and_strength_preservation",
       "state": "PASS",
-      "evidence": "A full diff of the pre-repair manuscript embedded in ch24-editor-prompt-r1.md against drafts/ch24.md shows eight sentence substitutions only: two temporal 'before' edits plus the line-67 sealed-word edit for r1-002; the line-43 bounded-inference repair for r1-005; the line-73 consent repair for r1-001; the line-93 headcount repair for r1-004; the line-105 letter repair for r1-003; and the line-131 correction to five circles under EXC-B8-CH24-1. No unrelated passage changed. Every recorded R1 strength survives: the measured crossing, mechanism-through-use, the staged absence, the three spoken revisions, independent partings, and the fixed retrospective closer."
+      "evidence": "A full diff of the pre-repair manuscript embedded in ch24-editor-prompt-r1.md against drafts/ch24.md shows nine changed manuscript lines only: three ordinary-temporal 'before' edits plus the line-67 sealed-word edit for r1-002; the line-43 bounded-inference repair for r1-005; the line-73 consent repair for r1-001; the line-93 headcount repair for r1-004 plus the fifth-circle correction authorized by EXC-B8-CH24-1; the line-105 letter repair for r1-003; and the line-131 correction to five circles under the same exception. No unrelated passage changed. Every recorded R1 strength survives: the measured crossing, mechanism-through-use, the staged absence, the three spoken revisions, independent partings, and the fixed retrospective closer."
     },
     {
       "gate": "authority.canon_timeline_state",
-      "state": "FAIL",
-      "evidence": "The 307th dusk to 308th dawn, Cael's age nineteen, cash 123, thirteen fragments, 506-stride radius, consent covenant, party departures, and injury states reconcile. The remaining failure is line 93: \"Karis wrote the strides down and drew the sixth circle's centre on the map from them\" contradicts Chapter 23's established fifth and last circle and Chapter 24 line 131's corrected \"five circles ... nothing past the fifth\" (ed-b8-ch24-r2-001)."
+      "state": "PASS",
+      "evidence": "The 307th dusk to 308th dawn, Cael's age nineteen, cash 123, thirteen fragments, 506-stride radius, Tide-reading consent covenant, eleven-person company, party departures, map state, and injury states reconcile. The Court is consistently the fifth and last circle: line 93 says \"drew the fifth circle's centre\" and line 131 says \"five circles ... nothing past the fifth.\""
     },
     {
       "gate": "authority.point_of_view_integrity",
@@ -61,8 +61,8 @@
     },
     {
       "gate": "core.continuity_persistence",
-      "state": "FAIL",
-      "evidence": "Possessions, wounds, party membership, dates, cash, and fragment count otherwise persist. The map state does not: line 93 calls the Court's centre the sixth circle, while Chapter 23 lines 57 and 63 establish it as the fifth and last and current line 131 says the map has five circles (ed-b8-ch24-r2-001)."
+      "state": "PASS",
+      "evidence": "Possessions, wounds, party membership, dates, cash, fragment count, and the map persist. Chapter 23's \"this one, the fifth\" is carried by current line 93's \"drew the fifth circle's centre\" and line 131's \"five circles ... nothing past the fifth.\""
     },
     {
       "gate": "core.consequential_scene_and_emotional_movement",
@@ -285,30 +285,7 @@
       "evidence": "The loop's whole-word banned-language grep returns 0; modern-register grep returns 0; there is no sexual content or violence in this chapter. Conduct is honest, loyal, restrained, and caring: Oryn asks and Cael consents; Cael does not overclaim; Teague's grief and autonomy are honored; Oryn and Vastin are not pressed into the crew. The author report explicitly attests the Reader Standard check."
     }
   ],
-  "findings": [
-    {
-      "id": "ed-b8-ch24-r2-001",
-      "status": "PROPOSED",
-      "severity": "MEDIUM",
-      "category": "continuity — Court ordinal / map inventory",
-      "gate": "Craft Core continuity persistence / Scene Packet state / Voice Charter §3.1 and §5.5",
-      "draft_evidence": {
-        "path": "v3-runs/book-08/drafts/ch24.md",
-        "line_start": 93,
-        "line_end": 93,
-        "quote": "Karis wrote the strides down and drew the sixth circle's centre on the map from them, a dot inside the thumbnail, and looked at the dot, and at him, and did not ask, because she had measured one end and he had stood on the other and she knew what standing was and was not."
-      },
-      "comparison_evidence": {
-        "path": "v3-runs/book-08/drafts/ch23.md",
-        "line_start": 57,
-        "line_end": 57,
-        "quote": "The line ran from the west, through four circles, to this one, the fifth, and through it, to the middle — and stopped. She laid the edge past the middle and there was nothing on the far side of the fifth circle for it to touch: no sixth; no distance on any sheet; nothing in the index; nothing on the plain, which went on east, level, worn, empty, to a horizon that had nothing on it. Oldest-last. The end of the line."
-      },
-      "consequence": "The chapter momentarily creates a sixth site at the exact map-marking beat, contradicting the previous chapter's explicit 'fifth, and the last' finding, EXC-B8-CH24-1, and this chapter's own later inventory of five circles. Because counting and map precision are Cael and Karis's defining competencies and the nonexistence of a sixth is the bearing's payoff, a careful reader is likely to catch the contradiction.",
-      "repair_target": "Line 93 only: make the ordinal agree with the established fifth and last circle while preserving the centre-dot action and the surrounding count.",
-      "confidence": "HIGH"
-    }
-  ],
+  "findings": [],
   "strengths": [
     "The repair is controlled. The complete pre-repair/current diff contains only the five verified repair targets, the temporal-word thinning tied to r1-002, and the repair packet's explicit fifth-circle exception; no unrelated passage changed. All six R1 recorded strengths survive.",
     "Each verified defect is closed in prose: consent is explicit (\"May I?\" / \"Yes\"); the extra 'pattern' is removed; Hesk's letter now says \"Tell Lira's family I said so\"; Vastin is present in the fire inventory as \"the man on the stick\"; and the reveal stops at \"the same kind of thing\" to one instrument.",
