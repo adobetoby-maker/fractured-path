@@ -166,7 +166,7 @@ They walked back to the boarding house together once the evening crowd had thinn
 
 "No. I don't have a controlled way to push it past what a real fight already gives me, and I'm not going to manufacture a Bronze-tier opponent just to finish a column."
 
-Lira considered this, something more serious settling under her usual directness. "Can I ask you something that isn't about the testing."
+Lira considered this, something more serious settling under her usual directness. "Can I ask you something that isn't about the testing?"
 
 "Always."
 
@@ -178,7 +178,7 @@ Cael thought about this honestly, the way he thought about most things she asked
 
 "I am glad you know." He said it plainly, without performance, because it was simply true and hedging it would have cost more than it earned. "I don't think I'd trust the fragments as much as I do if I'd had to build my understanding of them entirely alone. Some of what I know about them, I know because you told me what you saw from the outside, watching me use them. I don't have that view of myself. You do."
 
-It was more than politeness. The landing beat — the locked half-breath at the end of every Wind-adjacent burst — he hadn't found that himself. Lira had, watching from three paces away in the fourth week of the winter testing, and had described it to him in the flat, useful language of a training partner rather than the careful language of a friend: *you stop being a person for a half-second at the end of it, you're just a thing that landed, and if I were fighting you for real that's when I'd hit you.* He'd written the sentence into the log nearly verbatim. Half of what the log knew about him, it knew through her eyes.
+It was more than politeness. The landing beat — the locked half-breath at the end of every Wind-adjacent burst — he hadn't found that himself. Lira had, watching from three paces away in the fourth week of the winter testing, and had described it to him in the flat, useful language of a training partner rather than the careful language of a friend: *You stop being a person for a half-second at the end of it. You're just a thing that landed, and if I were fighting you for real, that's when I'd hit you.* He'd written the sentence into the log nearly verbatim. Half of what the log knew about him, it knew through her eyes.
 
 Lira studied him for a moment, something warmer than her usual directness showing through. "That's the nicest thing you've said about the notebook all year."
 

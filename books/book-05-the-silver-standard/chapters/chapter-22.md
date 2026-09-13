@@ -32,7 +32,7 @@ The second argued preservation: rate it under protest and refer. "A number with 
 
 The third argued honestly, and worst, and the minute preserved the exchange entire because the clerk who kept it understood what she was keeping. "Rate it," the third panelist said, "because the alternative is the sentence none of us wants to write: *the fairest instrument on the continent, pointed at the cycle's defining performance, returned nothing.* Say that sentence aloud and listen to it. The tables have held for three hundred years. Three centuries of academies, bettors, families, registries — all of them trusting one mark because it always answers. Write a number — any defensible number — and the tables hold tomorrow. Write a blank, and every man with a grievance against a rating for the next hundred years cites this night. We are not protecting ourselves. We are protecting the mark's *answer-ability*, which is the mark."
 
-"No," said Umber, "you are protecting its infallibility, which was never the mark," — and then he heard the rest of the arguments out anyway, to the third bell, because the mark deserved every argument.
+"No," said Umber, "you are protecting its infallibility, which was never the mark" — and then he heard the rest of the arguments out anyway, to the third bell, because the mark deserved every argument.
 
 And when the arguments were spent he ruled, and the clerk's minute kept the ruling whole:
 

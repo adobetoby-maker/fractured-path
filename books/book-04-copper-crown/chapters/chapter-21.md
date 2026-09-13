@@ -54,7 +54,7 @@ She did not wish him luck. She had never wished anybody luck in the three years 
 
 "Say it if it goes."
 
-"If it goes past thin I stop the trial. Out loud. I say I need an interval and I take it and I let them write down that I took it." He shifted the coat on his shoulder. "A logged interval is a line in a record. A drift is evidence."
+"If it goes past thin, I stop the trial. Out loud. I say I need an interval and I take it and I let them write down that I took it." He shifted the coat on his shoulder. "A logged interval is a line in a record. A drift is evidence."
 
 "Right." She looked at him for a second longer. "Go and be measured. You've done the hard part for four weeks and nobody's going to clap for it."
 
@@ -94,7 +94,7 @@ Counsel inclined her head about half an inch. Nobody else moved.
 
 "Enrollee." Gault turned a page. "You know the format. The baseline's trials, in the baseline's order, questions between them, everything logged including the questions and the interval. Three points of procedure, and I will say them again, because I said them once in this room five months ago and a thing said once is a thing somebody can claim was never said.
 
-"One. If at any moment you cannot do a thing, say so, and we will record that you could not, and it will be true and it will not count against you. Two. I measure consistency, not maximum. Three." He looked up. "This session measures against the baseline you set in this room in the first month of term. It does not measure against anybody's expectation, anybody's transcript, or anything said in a corridor. If you have come here to be impressive you have come to the wrong wing."
+"One. If at any moment you cannot do a thing, say so, and we will record that you could not, and it will be true and it will not count against you. Two. I measure consistency, not maximum. Three." He looked up. "This session measures against the baseline you set in this room in the first month of term. It does not measure against anybody's expectation, anybody's transcript, or anything said in a corridor. If you have come here to be impressive, you have come to the wrong wing."
 
 "Understood, Magister."
 
@@ -308,7 +308,7 @@ The Mire Path instructor was out of her chair before the frame had finished ring
 
 "Struck."
 
-"Enrollee." Gault had not raised his voice and had not stood up. "Are you injured."
+"Enrollee." Gault had not raised his voice and had not stood up. "Are you injured?"
 
 Cael was standing on a hip that had taken the entire account for the day and the day after in one instalment, and the answer was going to be visible by evening whatever he said now, so he said the true one.
 

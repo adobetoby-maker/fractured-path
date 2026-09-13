@@ -112,7 +112,7 @@ Cael thought about this the way he thought about everything worth thinking about
 
 "Who else is entering, that I could watch fight in the meantime?"
 
-Lira blinked, then laughed — a short, surprised sound, more delighted than mocking. "That's it? That's your whole response to 'do you want to fight a Bronze-tier professional in three weeks'? Not 'am I ready,' not 'is this too soon' — just, who can I study first?"
+Lira blinked, then laughed — a short, surprised sound, more delighted than mocking. "That's it? That's your whole response to 'do you want to fight a Bronze-tier professional in three weeks?' Not 'am I ready,' not 'is this too soon' — just, 'who can I study first?'"
 
 "Is that not the correct question?"
 

@@ -182,7 +182,7 @@ They left it there.
 
 The costs, outside the line, on the track's dry end, with Oryn's hands back at the stride.
 
-She had gone over the stone first, with Brom's coat in her fist, and had stopped, and checked her hands, and said "Back," because Brom was on his knees on the track with his shoulder open front and back along the mark she had made five days before, and she had both hands on it at once. An hour. Karis timed it. It was the second time she had mended that shoulder, and she said so, once, to the shoulder — "Twice. It'll hold twice. It will not hold three times this season, so don't ask it to." — and Brom said, "Arm," and she said, "No," and he didn't.
+She had gone over the stone first, with Brom's coat in her fist, and had stopped, and checked her hands, and said "Back," because Brom was on his knees on the track with his shoulder open front and back along the mark she had made five days before, and she had both hands on it at once. An hour. Karis timed it. It was the second time she had mended that shoulder, and she said so, once, to the shoulder — "Twice. It'll hold twice. It will not hold three times this season, so don't ask it to" — and Brom said, "Arm," and she said, "No," and he didn't.
 
 Then she sat down.
 

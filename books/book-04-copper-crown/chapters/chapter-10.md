@@ -276,7 +276,7 @@ Then the entry.
 
 *She is going to win the crown. I predicted that in the first week and I have not seen anything since to change it. And on the morning after the final the sheet in Bracken's office is going to say Copper next to her name, exactly as it says today, exactly as it said the day she arrived, and everything she paid in the third exchange today will have bought a circlet of hammered metal and a line on a plate with a hundred and thirty-one years of other people's names on it.*
 
-*Fiske has been at the top of that column for two years and has worked out what it's worth, and told her, and the sentence was: it's the looking that matters, the crown's just how you force it.*
+*Fiske has been at the top of that column for two years and has worked out what it's worth, and told her, and the sentence was: "It's the looking that matters, the crown's just how you force it."*
 
 *So the crown isn't the object. The crown is a lever. You put a public, witnessed, undeniable result on a board in front of an institution that has never had a reason to spend an afternoon on you, and you make the reason. That's what the whole season is. That's what the whole season has been since the eleventh morning when I stood on the north stair and watched her look at a word she can't fight.*
 

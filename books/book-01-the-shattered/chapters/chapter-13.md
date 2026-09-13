@@ -96,7 +96,7 @@ The report would, within the week, land on a desk considerably above his own, at
 
 ---
 
-Cael found the summons that night, propped against his cot by Torvin, who delivered it with a single unceremonious sentence — "Compact left this. Didn't like the look of it" — and then went back downstairs without further comment, leaving Cael alone with the sealed document and the specific quality of silence that settles over a room when everyone else in it is already asleep.
+Cael found the summons that night, propped against his cot by Torvin, who delivered it with a single unceremonious sentence — "Compact left this. Didn't like the look of it." — and then went back downstairs without further comment, leaving Cael alone with the sealed document and the specific quality of silence that settles over a room when everyone else in it is already asleep.
 
 Cael read it once, standing, in the lamplight of the shared room, the other four cots occupied by their usual sleepers who paid him no attention.
 

@@ -2,7 +2,7 @@
 
 The fire-watch posted its closure list in the covered walk every morning at the first bell, on a quarter-sheet of the cheapest paper the academy bought, and as far as Cael could establish in three months of looking, nobody in the building read it but him.
 
-It was not a document with any information in it. It was an accounting of lamp oil. Halcenvane burned oil in every hall it kept open past the last bell, and the fire-watch — two men and a boy, working a circuit of the bluff from the residence quadrangles out to the assessment wing and back — logged each building's closing hour so that the bursar could argue with the chandler about the invoice at the end of every month. Hall three, last bell. Lecture complex, last bell. Library, second hour, which was the librarians and always had been. Records hall, closed at last bell.
+It was not a document with any information in it. It was an accounting of lamp oil. Halcenvane burned oil in every hall it kept open past the last bell, and the fire-watch — two men and a boy, working a circuit of the bluff from the residence quadrangles out to the assessment wing and back — logged each building's closing hour so that the bursar could argue with the chandler about the invoice at the end of every month. Hall three, last bell. Lecture complex, last bell. Library, second hour, which was the librarians' and always had been. Records hall, closed at last bell.
 
 He read it every morning because Crown season had filled the bluff with people who did not live on it.
 
@@ -24,7 +24,7 @@ She read the two quarter-sheets — he had taken them off the board, which was t
 
 "Behind what?"
 
-"Bracken flagged it yesterday morning." She pushed her chair back. "I was going to tell you at supper, and now I don't have to feel clever about it, so thank you for that. The hall's inner door has a lock that logs — it's a Compact-standard fitting, it's in every chartered records office on the continent, and it stamps a plate every time the bolt throws. Bracken reads the plate on Fifth-days because reading it more often than that would suggest he expected something. He read it early this week because the fire-watch list was odd." She glanced at him. "He reads the fire-watch list too."
+"Bracken flagged it yesterday morning." She pushed her chair back. "I was going to tell you at supper, and now I don't have to feel clever about it, so thank you for that. The hall's inner door has a lock that logs — it's a Compact-standard fitting; it's in every chartered records office on the continent, and it stamps a plate every time the bolt throws. Bracken reads the plate on Fifth-days because reading it more often than that would suggest he expected something. He read it early this week because the fire-watch list was odd." She glanced at him. "He reads the fire-watch list too."
 
 "Good," said Cael, meaning it entirely. "What did the plate say?"
 
@@ -32,7 +32,7 @@ She read the two quarter-sheets — he had taken them off the board, which was t
 
 He sat down on the carrel's other stool without being asked.
 
-"Which section of enrollment."
+"Which section of enrollment?"
 
 "The provision files." She had her hands flat on the table, and she kept them there, which he had come to recognize as Karis holding still on purpose. "Eleven of them, going back nineteen years. Nine are dead-file. The two live ones are a Silver-tier woman on a medical provision, and yours."
 

@@ -100,6 +100,6 @@ She copied it into the field notebook, in her own hand — the small square hand
 
 And under the passage, when the copy was done and checked against the leaf twice, she wrote three words, in her own hand, smaller, the way she wrote every finding she did not yet dare to interpret, and Cael read them by the lamp he was holding, and did not read them aloud, because she had asked that nobody say it back to her, and a thing written was not a thing said.
 
-*"and the"* — then the gap: a name's length of the page scraped back to the fibre, four or five letters' worth, the first stroke of the first letter still showing — *"set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it"*
+*"and the"* — then the gap: a name's length of the page scraped back to the fibre, four or five letters' worth, the first stroke of the first letter still showing — *"set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it."*
 
 *Older. Made. Us.*

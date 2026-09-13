@@ -196,7 +196,7 @@ Eleven days. Two men. Four-hour changes. Not one additional body at the landing,
 
 "So nothing went up," said Lira.
 
-"Something went up. He filed *something* — a man in that office who filed nothing for a fortnight would be a man with a hole in his product, and he's not stupid." Cael turned the copy of his floor allocation over on the table and looked at the two dates and the two sets of initials. "Whatever went up didn't have the afternoon in it. That's the only reading the ground supports. Eleven days, no change, no bodies. He watched me stop a jammed seventh-setting release with a forearm and put it in the floor, and the apparatus that has spent two years and I don't want to know how much money watching me did not so much as add a man to a ferry landing."
+"Something went up. He filed *something* — a man in that office who filed nothing for a fortnight would be a man with a hole in his product, and he's not stupid." Cael turned the copy of his floor allocation over on the table and looked at the two dates and the two sets of initials. "Whatever went up didn't have the afternoon in it. That's the only reading the ground supports. Eleven days, no change, no bodies. He watched me stop a jammed seventh-setting release with a forearm and put it in the floor, and the apparatus that has spent two years and — I don't want to know how much — money watching me did not so much as add a man to a ferry landing."
 
 Karis had stopped writing.
 

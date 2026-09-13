@@ -24,7 +24,7 @@ He spent the early afternoon rereading his own notes on Brom one final time, les
 
 The Ironyard's main floor was fuller than Cael had seen it in months by the time Vell called the bout to order.
 
-Word had been moving through the district for two weeks — Brom's reputation traveling ahead of him the way real reputations did, mouth to mouth rather than posted on any board, and "the unranked practitioner fighting above his circuit rating" had by now become exactly the kind of story that drew a crowd on its own merits, independent of who was actually fighting. People who never usually bothered with anything below a Bronze-tier exhibition had shown up tonight. Cael counted at least a dozen faces he didn't recognize from his usual circuit crowd, standing three deep along the warehouse's far wall, and understood, filing the count alongside everything else the room offered, that some of them had likely come from outside Ardenmere entirely.
+Word had been moving through the district for two weeks — Brom's reputation traveling ahead of him the way real reputations did, mouth to mouth rather than posted on any board — and "the unranked practitioner fighting above his circuit rating" had by now become exactly the kind of story that drew a crowd on its own merits, independent of who was actually fighting. People who never usually bothered with anything below a Bronze-tier exhibition had shown up tonight. Cael counted at least a dozen faces he didn't recognize from his usual circuit crowd, standing three deep along the warehouse's far wall, and understood, filing the count alongside everything else the room offered, that some of them had likely come from outside Ardenmere entirely.
 
 The lamps had been trimmed brighter than usual, throwing hard shadows across the packed dirt and giving the whole main floor a close, expectant quality that Cael felt settle into his chest before he'd even finished his own warm-up. The warm-up itself he kept deliberately ordinary — the same sequence he ran before every bout, joints first, then legs, then three unassisted practice bursts to confirm the step was resident — because a changed ritual on a big night was its own kind of tell, and he had no intention of showing this crowd anything before the ledger required it. Lira stood near the edge, arms crossed, watching the crowd fill in with the same tactical attention she brought to an opponent's opening stance — reading the room the way she read a fight, because a room this size changed the fight itself, whether either combatant wanted it to or not.
 
@@ -224,7 +224,7 @@ Cael considered this seriously, as he considered most of Brom's questions. "You 
 
 "That's useful to know."
 
-"I assumed you'd think so." Something almost like amusement crossed his face. "You're already planning the next one, aren't you. Before the bruises have even finished forming."
+"I assumed you'd think so." Something almost like amusement crossed his face. "You're already planning the next one, aren't you? Before the bruises have even finished forming."
 
 "Would you rather I didn't?"
 

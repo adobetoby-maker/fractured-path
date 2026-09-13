@@ -76,7 +76,9 @@ Ilsev found him before she left, her expression back to its composed neutrality,
 
 Cael considered the question honestly. "I had a summons before this one. A district-level compliance meeting, with Warden Coss. I found a procedural gap that bought me six weeks. I spent most of those six weeks reading, because reading was the only tool I had that nobody could take away from me." He paused. "And I've spent the last several months learning to read people the way I read regulations. Watching for the tell before the strike. I think the two things ended up teaching each other."
 
-"That's a genuinely unusual education," Ilsev said, "and an effective one, from what I've seen of it today." She made a small note in her own file, unhurried, and then set the pen down entirely, the gesture of someone shifting from official business into something more personal. "What should I expect, while the legal review is pending?"
+"That's a genuinely unusual education," Ilsev said, "and an effective one, from what I've seen of it today." She made a small note in her own file, unhurried, and then set the pen down entirely, the gesture of someone shifting from official business into something more personal.
+
+"What should I expect, while the legal review is pending?"
 
 "Nothing, officially. You're not required to appear anywhere, not required to change anything about your circumstances, not subject to any compliance action until the review concludes." She said this plainly, the recitation of someone who'd delivered the same reassurance to other subjects before, though something in her tone suggested she understood it would land differently on him than it usually did. "The review itself moves through regional legal counsel — they'll examine the regulation's language, likely consult the historical case files on the four prior [SHATTERED] classifications for precedent, though I'll tell you honestly that precedent won't help them much. None of those four cases produced anything resembling a legal determination. They produced outcomes, and outcomes aren't the same thing as reasoning anyone can build on."
 

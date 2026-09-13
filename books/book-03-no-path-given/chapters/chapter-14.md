@@ -76,7 +76,7 @@ Now she sat down across from him, folded her hands on the empty table where the 
 
 He nodded.
 
-"I designed that session as an experiment. I told you that going in — I want to be the first documented source, if it works the documentation matters, if it doesn't that matters more — and I meant every word of it when I said it. I've spent eight months treating you as the most important open question in the field I care about, and I was proud of that, and I still am." She was watching her own hands rather than him, which was new; Karis, in his experience, watched everything except her own hands. "What I didn't account for is what it would feel like to *be the data*. To have something of mine — a piece of the thing I trained twelve years to be able to do — sitting inside someone else now, permanently, because I consented to a session and the session worked exactly the way I'd hoped it would."
+"I designed that session as an experiment. I told you that going in — ‘I want to be the first documented source, if it works the documentation matters, if it doesn't that matters more’ — and I meant every word of it when I said it. I've spent eight months treating you as the most important open question in the field I care about, and I was proud of that, and I still am." She was watching her own hands rather than him, which was new; Karis, in his experience, watched everything except her own hands. "What I didn't account for is what it would feel like to *be the data*. To have something of mine — a piece of the thing I trained twelve years to be able to do — sitting inside someone else now, permanently, because I consented to a session and the session worked exactly the way I'd hoped it would."
 
 "Karis—"
 

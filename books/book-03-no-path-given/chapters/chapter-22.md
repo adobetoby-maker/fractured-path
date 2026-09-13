@@ -84,7 +84,7 @@ He let the silence hold a moment. The next part was the part he had drafted elev
 
 He picked up the challenge document — Coss's own filing, the paper that had started the three weeks — and read from it, one line, the line every version of the argument had always been going to end on.
 
-"The Compact's challenge describes my status in its own words: *no recognized Path designation given.* " He set it down. "I'm asking the panel to hold them to that. No path given — no classification held. No classification held — no authority attached. Their rules were never built to contain me. They said so themselves, in the first document of this proceeding, in their own hand. They cannot use rules that don't contain me to remove me from somewhere I am legitimately trying to be."
+"The Compact's challenge describes my status in its own words: *no recognized Path designation given.*" He set it down. "I'm asking the panel to hold them to that. No path given — no classification held. No classification held — no authority attached. Their rules were never built to contain me. They said so themselves, in the first document of this proceeding, in their own hand. They cannot use rules that don't contain me to remove me from somewhere I am legitimately trying to be."
 
 He sat down.
 

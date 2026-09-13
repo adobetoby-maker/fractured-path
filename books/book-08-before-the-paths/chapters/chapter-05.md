@@ -74,7 +74,7 @@ Karis found it because she was looking for it, and she had been looking for it s
 
 ---
 
-The third thing, Seln found, because Seln was the one who knew where a file hid the thing it was really about.
+The third thing Seln found, because Seln was the one who knew where a file hid the thing it was really about.
 
 He had said nothing while Karis worked the rows, and had said his one thing about the empty column, and had gone back to reading the file sideways from the slab's end with his shoulder to the wind, and Cael, who had stopped watching him because watching Seln was a thing you did when you did not trust him, did not see him move. He saw the sheet.
 

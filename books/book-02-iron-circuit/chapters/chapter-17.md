@@ -34,9 +34,9 @@ Dace came to the alcove entrance at the quarter-hour. He didn't come in. He stoo
 
 "He's watched you fight four times that I know of." Dace's voice carried no warning in it, only inventory. "I'd assume more that I don't know of."
 
-"I would too," Cael said, and Dace almost smiled, and left.
+"I would too," Cael said, and Dace almost smiled and left.
 
-He walked out to the floor at Vell's signal and the sound of the room changed the way water changes when a current moves through it — not louder, exactly. Redirected. Keth was already at his mark, and Cael took the walk as a last chance to look at him with ordinary eyes, before the work started. Twenty-eight years old and built the way the Blade Path built its serious practitioners, which was to say not dramatically: lean through the shoulders, weight carried low, a practice blade of guild pattern held in the relaxed grip of a man who had earned the relaxation. Everything about Keth's body was information Cael already had. Four months of it. The most detailed entries the observation notebook held, and every one of them ending in the same fraction-of-a-second seam.
+He walked out to the floor at Vell's signal and the sound of the room changed the way water changes when a current moves through it — not louder, exactly. Redirected. Keth was already at his mark, and Cael took the walk as a last chance to look at him with ordinary eyes before the work started. Twenty-eight years old and built the way the Blade Path built its serious practitioners, which was to say, not dramatically: lean through the shoulders, weight carried low, a practice blade of guild pattern held in the relaxed grip of a man who had earned the relaxation. Everything about Keth's body was information Cael already had. Four months of it. The most detailed entries the observation notebook held, and every one of them ending in the same fraction-of-a-second seam.
 
 Vell stood. She did not raise her voice much. She never needed to.
 
@@ -118,7 +118,7 @@ His strike took Keth at the shoulder joint of his blade arm, inside the locked a
 
 Keth hit the stone, rolled with it like the professional he was, and did not try to rise into a position the bout no longer contained. He lay flat a moment, looking at the ceiling. Then he raised one hand, palm open.
 
-"Done," Keth said, to Vell.
+"Done," Keth said to Vell.
 
 "Match," Vell said, and the room came apart.
 

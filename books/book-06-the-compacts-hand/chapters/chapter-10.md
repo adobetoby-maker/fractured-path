@@ -116,7 +116,7 @@ The demand was lawful. Bracken would confirm it by letter within the week — a 
 
 Lira watched it from the floor's edge, taping for the third bout, and Cael, at the rail, charted what she watched: her academy's colors getting quieter in the hall, in real time — the confluence's regard for Halcenvane's Silver entrant, sixty seconds earlier the warmest thing in the building, adjusting itself around the sight of a registry officer serving the delegation paper. Not hostility. *Caution.* The hall recalculating what it cost to be seen cheering for the respondent's people.
 
-He could count it. That was the part he wrote down and disliked writing. The east gallery's second and third rows had come to their feet for her second exchange; at the third bout's call they applauded the Halcenvane third-year seated, at half length, in the manner of a room being correct. A steward who had spent the morning finding the delegation chairs found them nothing in the afternoon. Two of the four correspondents' boards left the hall behind the officer.
+He could count it. That was the part he wrote down and disliked writing. The east gallery's second and third rows had come to their feet for her second exchange; at the third bout's call they applauded the Halcenvane third-year, seated, at half length, in the manner of a room being correct. A steward who had spent the morning finding the delegation chairs found them nothing in the afternoon. Two of the four correspondents' boards left the hall behind the officer.
 
 "They served it *here*," she said, at the rail, afterward, in the voice that had once discovered an institution was small and now discovered one was patient. "Not at the bluff. Not at Ostrand. Here, in the middle of my bracket, in front of the river."
 
