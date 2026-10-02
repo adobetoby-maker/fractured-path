@@ -139,3 +139,39 @@ Repair r1 changes that alter state or canon:
 - Pending owner approval: Joren's declaration [Rooted Stance]; Garrik a widower.
 
 Movement 1 CLOSED 2026-10-01 after repair r2 (recheck line fixes; source reuse rewritten — 0 unprotected runs). No state change from r2 except: "two mornings ago" (Ch4); Hesk pushes the preserves across (Ch5, consistent with the Ch6 letter); Cael's first-night rule is the waystation's barred door, not Ardenmere's gate (Ch5). Final: 6 chapters, 29,467 words (tool); sentence mean 13.73, ≤5w 30.7%, ≥40w 2.1%, 982 words/scene, FK 4.74.
+
+## After Movement 2 (chapters 7–13; repair r1 applied 2026-10-01; recheck pending)
+
+
+**Calendar.** Day 4 (Sunday) dusk: arrival. Day 5: the district. Day 6 (Tuesday): Lira; Hesk's Tuesday at the hall. Day 7: the Cinder House morning and the two watched bouts. Day 8 (Thursday): Vell's table in the morning, Renn after the lamps; the walk home. Autumn. Cael fourteen. The letter to Hesk was posted on day 5 (west bag), arrival about day 12. Hesk's reply sits unsealed on his kitchen table.
+
+**Bodies.** Cael: a flat-blade bruise across the meat of the left shoulder (stiff, "heavier tomorrow"); a deep hot band on the right ribs from under the arm to the bottom of the chest (breathing negotiable; nothing grated, so probably not broken); a long dirt-crusted scrape down the outside of the left forearm, wrist to elbow, origin unknown to him; his fist stings from Renn's forearm. Legs recovered from the road. Lira advises cold from the yard pump. Hesk: unchanged; the guild review is open.
+
+**Knowledge.**
+- Cael knows: the district's layout (residential core, river workshops, the yards to the north, the other market to the south, the carriers' hut at the fish steps, the core-gate booth on the lower bridge). Unranked people are turned back at the bridge; Copper passes to the outer ring; guild coats go higher. He knows the board's code (ratings in registry form, "Cu 5, Stone"), the circuit's rules (Ledger-keeper, Vell's word, exchanges, conceding, reporting to the table, no-kill as a social fact, ratings that are Vell's opinion with a memory, unrated, vouches, Marrow's shaved book), the Ash Path fighter story, and the vouch's cost (Torvin: a loan; Yeni: Lira's four-month name; Lira's own account). He knows Lira's academy story, the skipped middle, "the gap", Wind at Copper ("slightly more negotiable"), and that she lost to Renn's figure in her second month. Renn's machine: front-foot probes high then across, the heel settle before the true strike, the shoulder roll before a change of plan, the sweep kept for readers, the serious weight, the no-probe figure. Lira has now told him how the herding figure works.
+- Cael does not know: what happened in the third exchange (unexamined); what Vell wrote; that his name is not in the ledger; the fragment mechanism; anything of Hesk's week.
+- Others: Lira knows the word [SHATTERED] and that he has "a classification the registry doesn't have a category for", and she holds "tonight's answer" open. Vell knows "nothing to register" and has written eight extra lines plus a private note; she has not asked what he is. Renn knows the figure missed and wants "the second look". Yeni and Torvin know he is fighting and that Lira vouched. Nobody in Ardenmere but Lira has heard the word.
+- Hesk knows (by day 6): Ressa, Joren, Garrik and the woman in the knitted hat are all asking after Cael. He has no letter yet.
+
+**Resources.** Hesk's pouch, less one week at Torvin's, a waystation night, the nut boy's week (one small coin returned "for not haggling"), the carrier fee and a little food. Counted twice and logged in the back of the notebook. Paid at Torvin's to day 11. The current notebook holds the first Ardenmere entry, the nut boy's market map, the board decoded, the Lira entry with the protected line, *the cart written as bare fact* (back pages: "I told the carter I heard it coming. I don't think I did."), six pages on the two watched bouts, the rules list, Marrow's numbers, and the vouch entry. The leather book and the bracket are in his coat. His bag strap is mended by Yeni, who is owed a favour of her choosing. Letter to Hesk posted.
+
+**Fragments & progression.** None. Arbiter not consulted (dark since the word; no attempt staged — the courtyard is M3's). Circuit: **unrated, 0–1** (loss to Renn, Cu3 Blade, fourth exchange, by the flat, called). A return bout with Renn is requested at a month, "inclined to give it". **Instance count:** none logged. The Renn third exchange is filed "whole and unexamined", and the cart sits beside it uncounted ("he did not let himself count them, because counting them would have been the first step toward a word"). M3's sparring plant can be "first instance" as planned.
+
+**Relationships.**
+- Lira: has vouched (first vouch in four months; her name is on it). She coached him through two days and a roof. She knows the word, has a standing open question ("tonight's answer"), and lives down a lane off the well corner. She expects him "at the yard".
+- Vell: has his terms in his own words, "nothing to register", a long entry and a private note: *Lasted four. Book said one. Match him with care. Not soft. Against people who'll teach him something.*
+- Renn: respect and a booking.
+- Marrow: lost money on the over; he has not noticed Cael counting his slate (Lira warned him).
+- Yeni: owed a favour. Torvin: rent paid; spoke more than usual. The nut boy and his sister: friendly suppliers. The old yard-owner: an open invitation. The information seller: seen, not used.
+- Hesk (cutaway): has kept his promise to tell things as they come (the review is in his unsent letter), while Cael has still left the cart out of his. Joren: reads the note flat-footed and asks to be told he is "working on it". Garrik: will not take the washer out. Ressa: "That one was his."
+
+**Open threads.** "Tonight's answer" (Lira); the third exchange (unexamined) and the cart (written, uncounted); the Renn return at a month (M6); Yeni's favour; the old man's yard time; the information seller (M4/M5 option); Hesk's guild review (pending — keep it so); Hesk's letter and its first arrival; Marrow's grudge potential; the over/under he lost.
+
+
+Repair r1 changes that alter state or canon:
+- Ch11 night: Cael rereads his rise entry and recalls Hesk's "Don't let anyone see you move", and weighs both against his plan to last and watch. Ch13: three people saw him move tonight (no "being seen" wording).
+- Ch12: the old man in the yard asks "Tonight?" and tells Cael to watch Renn's feet, not his own.
+- Vell's cutaway reads "Marrow's slate said one"; Lira's academy has no year counts; Lira's lodging unspecified.
+- Accepted rulings: Cael is NOT in Vell's ledger until Darrow; the cart is written as bare fact, uncounted; Renn's third exchange is unexamined; "Secondweek" (First–Fourthweek) is vocabulary.
+
+Movement 2 CLOSED 2026-10-01 after repair r1 and six recheck line fixes (coordinator-applied, exact strings from recheck-r1.md): Ch13 "three people who knew what they were looking at had watched him move tonight" (Renn, Vell, Lira — sixty were at the rope); "Bruises healed. What he had bought with them would not."; injuries walking home: shoulder stiff, forearm stinging, ribs a hot band; Vell opens the ledger once she has the yard to herself. Ch10 Cael's Ardenmere morning is "the next morning". Ch9 paragraph join. Final: 7 chapters, ~36.9k words; overlap 0; gates 0.

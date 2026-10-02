@@ -38,3 +38,8 @@ The wager conversations' shape; the two weeks' training scenes; Coss's second vi
 ## Where we leave pressure
 
 A known boy in a district that would notice his absence, a flag he does not know about, a stranger he cannot name, and a sentence he wrote as a fence around what he doesn't understand. Book 2 opens a year on, at the Ironyard, with both fragments being tested properly — leave room for that.
+
+## Coordinator note (Movement 2 review, 2026-10-01)
+
+- Vell knows him only as "Just Cael" (Movement 2). Unless STATE_LEDGER shows it has already happened, she must learn "Hesk-ward" in
+  Movements 5–9, on the page, before Darrow's ledger line names "Cael Hesk-ward".

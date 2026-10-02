@@ -39,3 +39,17 @@ The order of the three losses and the morning sessions; which loss gets the most
 ## Where we leave pressure
 
 The first night he sleeps without being the only one who knows the whole shape of what he is. The next movement brings a silver pin into the market.
+
+## Coordinator notes from drafting (Movement 2 review, 2026-10-01)
+
+- **Uncounted stones.** Movement 2 now has the cart written in the notebook as bare fact,
+  uncounted, and Renn's third exchange filed whole and unexamined. So this movement's
+  sparring incident is the first *counted* instance, and it must read as a conscious choice
+  to start counting — Cael knows there are things he has not counted.
+- **Vell's ledger.** Cael's name stays out of Vell's ledger until Darrow. Firm the custom here
+  or in Movement 4 so his namelessness holds through Dessa, assessed-Copper and Renn II —
+  for example, a name enters the ledger only when a bout is booked against it or backed on
+  a marquee night.
+- **Vocabulary.** "Secondweek" is in use (with the source's Thirdweek/Fourthweek); First–
+  Fourthweek are edition vocabulary.
+- **Lira's lodging** stays unspecified until Movements 5–6, where her own room is a change.

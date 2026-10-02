@@ -39,3 +39,8 @@ Which bouts are scenes and which are brisk; how the six weeks' time is felt; Ren
 ## Where we leave pressure
 
 A designation where there was only a dark place, a word he has not said to Lira, and a senior evaluation coming. The next movement opens with two weeks of theory he cannot keep to himself much longer.
+
+## Coordinator note (Movement 2 review, 2026-10-01)
+
+- Vell knows him only as "Just Cael" (Movement 2). Unless STATE_LEDGER shows it has already happened, she must learn "Hesk-ward" in
+  Movements 5–9, on the page, before Darrow's ledger line names "Cael Hesk-ward".

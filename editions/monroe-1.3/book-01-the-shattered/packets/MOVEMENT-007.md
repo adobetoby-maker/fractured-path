@@ -39,3 +39,8 @@ The Kestrel days; the telling scene's setting; Corvane's lesson; the interim bou
 ## Where we leave pressure
 
 Two doors where there was one, ribs and forearm paying, and a senior evaluator's summons on its way. The next movement is procedure again — sharper.
+
+## Coordinator note (Movement 2 review, 2026-10-01)
+
+- Vell knows him only as "Just Cael" (Movement 2). Unless STATE_LEDGER shows it has already happened, she must learn "Hesk-ward" in
+  Movements 5–9, on the page, before Darrow's ledger line names "Cael Hesk-ward".

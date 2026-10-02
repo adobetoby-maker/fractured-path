@@ -39,3 +39,10 @@ The shape of the shadowing; how the information seller is used (or not); Dessa's
 ## Where we leave pressure
 
 A first win, a promise made on a step, and — unseen by Cael — a Compact field agent arriving in Ardenmere with a file that is too thin.
+
+## Coordinator notes from drafting (Movement 2 review, 2026-10-01)
+
+- **The honest sort.** When Cael finally sorts what has happened to him, the list must include
+  all four: the cart (Movement 1), Renn's third exchange (Movement 2), the sparring incident
+  (Movement 3, the first he counted) and Dessa.
+- **Vell's ledger custom** (see Movement 3 note) must still hold: no name in the ledger before Darrow.

@@ -40,3 +40,8 @@ Ilsev's and Cael's exchange beyond the protected beats; Dessa II; how the quiet 
 ## Where we leave pressure
 
 A decision taken plainly, a pressure that has stopped being procedural, and a boy who has run out of ways to be safe by being quiet. The next movement makes him loud.
+
+## Coordinator note (Movement 2 review, 2026-10-01)
+
+- Vell knows him only as "Just Cael" (Movement 2). Unless STATE_LEDGER shows it has already happened, she must learn "Hesk-ward" in
+  Movements 5–9, on the page, before Darrow's ledger line names "Cael Hesk-ward".
