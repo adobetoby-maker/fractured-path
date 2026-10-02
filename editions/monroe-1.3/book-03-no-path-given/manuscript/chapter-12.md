@@ -36,81 +36,79 @@ For a moment the two of them looked at each other across the table, the assessor
 
 ---
 
-Lira came to the first session, unannounced, which Cael suspected was half her reason for coming. The clause worked. Here it was, working.
+Karis laid two pens side by side on the boards next to her stool, nibs pointing the same way, in case one of them failed her. The stool was not hers. She had borrowed it from the lecture wing, because section four had none, and she had set it on the far side of the chalk, as far from Cael as the section allowed. Her notebook lay open on her knee. Quenna stood at the chalk with her slate, as she stood at every one of his hours.
 
-She arrived after the bell had stopped ringing, took a place at the rail of section four with her arms folded, and said nothing to anyone. Karis looked up from her stool when Lira came in, nodded once, and changed absolutely nothing about how she sat or held her notebook or where she looked. Cael understood that this was the correct answer, and possibly the only one Lira would have accepted.
+The bell finished ringing. A moment later Lira came in.
 
-Quenna stood at the chalk with her slate, as she always did. Karis sat on the far side of the section on a stool she had borrowed from the lecture wing, with her notebook open on her knee and two pens laid side by side on the boards beside her, in case one failed.
+Nobody had told her the time. Nobody had needed to; the second clause said she could come to any session without a word of warning, and Cael suspected that trying the clause out was half of why she had come to this one. At the rail she folded her arms and settled in, and said nothing to anybody.
 
-"Framework," said Cael. "Three passes."
+Karis lifted her eyes, gave Lira a single nod, and went back to her page. She did not sit straighter. She did not shift her notebook or change where she was looking. Cael watched her not change, and thought it was the right answer, and very likely the only one Lira would have let pass.
 
-He ran the evasion framework, the Wind-adjacent patterns that had carried him through every bout he had fought since Lira taught them to him in Ardenmere, without either of them knowing what she was teaching. He knew them so deeply by now that he hardly had to think his way through them. He ran the whole sequence three times.
+"Framework," he said. "Three passes."
 
-The first pass was slow, the joints loose and every transition exaggerated, so that the shape underneath stood out the way a skeleton stands out from a drawing of a body. The second was the working pass, the speed he had used against Reydan and a dozen circuit fighters before him, fast enough that someone without training would see only movement and no method in it at all. The third was slow again, at Quenna's request from the chalk, so that the same structure could be watched at two speeds and compared for what changed and what did not.
+It was the evasion framework, the Wind-adjacent pattern Lira had put into him in Ardenmere when neither of them knew what she was teaching or what he was learning. By now it lived somewhere underneath thought. He ran it three times through.
 
-Karis wrote throughout.
+He took the first pass slowly, with loose joints and every change of direction drawn out, so that the bones of it showed through the way a sketch shows through paint. He took the second at working speed, the speed that had carried him through Reydan and the dozen circuit fighters before Reydan, fast enough that an untrained eye would have seen motion and no plan at all. From the chalk, Quenna asked for the third to be slow again. That way the same structure could be laid beside itself at two speeds, and anyone watching could see what changed and what held.
 
-He learned something about her method from the sound alone. While he moved, her pen moved with him in long runs that never broke, and when he stopped it stopped, every time, and lay still on the page until he started again. She was not describing what he did, he realized; anyone with eyes could describe it. She was tracking something that ran on, something that only existed while the framework was live, and when the framework stopped there was nothing left to track.
+Karis wrote the whole time.
 
-She did not ask him to repeat anything. She did not interrupt to clarify. Once or twice he saw her pen lift and hover over the page, as if a question had arrived, and then come down again without her saying a word, as if she had answered it herself.
+He could hear how she worked even with his back to her. Her pen ran in long unbroken strokes while he moved, and the instant he stopped, it stopped too, and lay quiet on the paper until he went again. She was not describing him. Anyone with eyes could have described him. She was following something that only ran while the framework ran, and when the framework halted there was nothing left for the pen to follow.
 
-She simply watched, with the whole of her attention, the way he had once watched eleven Paths from the edges of floors he was not allowed onto, and covered page after page with things he could not read from where he stood and did not try to.
+She never asked for a movement again. She never broke in to check a detail. Twice he saw the pen come up off the page and hang, as if a question had landed on it, and then settle back without a sound, as if she had answered it on her own.
 
-There was something almost restful in it. Nobody was judging him. She did not seem to care whether his footwork was beautiful or whether his framework belonged to any Path on any chart. She was not deciding what he was for, or whether he should be allowed to stay, or what to write in a box. She was simply recording him, all of him, as information worth the trouble of getting exactly right.
+There was something close to rest in being watched like that. No one was marking him. Whether his feet were pretty, whether the pattern belonged on any Path's chart, whether he ought to be allowed to stay, what word went in which box: none of it seemed to concern her at all. She was taking all of him down as if every piece were worth the work of getting it exactly so.
 
-Twenty minutes in, he caught himself adjusting.
+About twenty minutes into the hour, he caught himself.
 
-It was a small thing. He had come out of a turn a fraction squarer than he needed to, holding the line of his shoulders a moment longer than the movement required, so that the shape of it would read cleanly from the stool. He was not performing. It was not the old circuit urge to make a crowd lean forward. It was something else, and it took him the rest of the pass to put a name to it.
+He had come out of a turn a hair squarer than the turn needed, and kept his shoulders set on their line a beat too long, so that the shape would read cleanly from where she sat. It was not the circuit itch to make a crowd lean in. It took him the rest of the pass to find what it was instead.
 
-He wanted her to see it correctly. He did not want to impress her. He wanted to be understood right, for once, by someone who was actually trying.
+He wanted her to see it right. Impressing her had nothing to do with it. For once in his life someone was really trying to understand him, and he wanted the understanding to be correct.
 
-He made himself stop doing it on the third pass, because it was not honest data if he shaped it for the page. But he wrote it down that night as its own small finding. *I wanted her to get it right. Not to be impressed. To have it understood. Those aren't the same, and I couldn't explain why to anyone who hasn't been misread for years.*
+On the third pass he made himself quit it, because shaping the movement for her page would make the page worth less. That night it went into the binder as a finding of its own. *I wanted her to get it right. Not to be impressed. To have it understood. Those aren't the same, and I couldn't explain why to anyone who hasn't been misread for years.*
 
-When the third pass was done, he stood still in the middle of section four with his breath coming a little faster than he liked, and Karis closed her notebook and capped her pen. The cap went on with a small, definite click, and he had already learned that the click meant she had finished a thought completely rather than merely paused it.
+He finished the third pass and stood still in the middle of the section, breathing a little faster than he liked. Karis shut her notebook and put the cap on her pen. It went on with a small, firm click, and he had already learned what the click meant: a thought finished all the way, not just set down.
 
-"May I ask one question?"
+"One question, if I may."
 
 "That's the arrangement."
 
-She looked up at him. "When you use it, does it feel borrowed?"
+She looked up at him from the stool. "Does it feel borrowed, when you use it?"
 
-He stood there with his breathing still not quite settled and understood at once that this was not a casual question.
+His breath had not settled, and for a moment he simply stood there with the question. It had not been asked lightly. He could tell that at once.
 
-Lira had watched him run this framework hundreds of times and had never once asked what it was like from the inside. Brom, who read him by feel better than anybody living, had never put a question in that shape, as if the movement itself might carry some memory of where it had come from, and might feel, in the doing, like a thing that had belonged to somebody else first.
+In all the hundreds of times Lira had watched the framework, she had never wondered aloud what it was like to be inside it. Brom read him through the skin better than anyone alive, and even Brom had never come at it from that side, never suggested that a movement might carry a memory of its owner, or that doing it might feel like wearing someone else's coat. Quenna's questions, for all her years of studying what he was, always had answers a person could watch. This one had no outside at all. Only one person could ever stand where its answer was. Karis had walked straight up to that door on her very first afternoon and tapped on it, politely.
 
-Even Quenna, whose whole profession was the study of what he was, asked only questions with answers you could see. This one had no answer anyone could see. It could only be answered from one place in the world, the inside of him, where nobody else could ever stand, and Karis had walked straight up to that place on her first afternoon and knocked politely on the door.
+And she was nearer than she knew. Every fragment in the binder had a name written beside it, and the first of those names belonged to the girl at the rail with her arms folded.
 
-And it was nearer to the truth than she could know. The binder had a name beside every fragment it held, and the first of those names was standing at the rail with her arms folded, listening.
-
-He did not look at Lira. He kept his eyes on the girl on the stool, and he did not reach for an answer, because he did not have one, and he had learned a long time ago not to make one up just to fill a silence that was uncomfortable to stand in.
+He did not look toward the rail. He kept his eyes on Karis, and he did not reach for an answer, because he had none, and he had learned long ago not to build one just to get out of an awkward silence.
 
 "I don't know," he said.
 
-It was true. He knew as he said it that it was not the last time he would think about the question.
+That was true. He already suspected he would be turning the question over for a long time.
 
-Karis nodded. She did not seem disappointed; she looked like someone who had expected exactly this result and was entering it as data. She did not write anything down. She did not need to. She stood, picked up the borrowed stool, thanked Quenna, nodded to Lira at the rail on her way out, and left the question behind her in section four as if she had planted something and was content to let it come up on its own schedule.
+Karis nodded. If she was disappointed, it did not show; she looked like a person who had predicted this result and was logging it. She wrote nothing. There was nothing to write. She got up, folded the borrowed stool under her arm, thanked Quenna, gave Lira a nod at the rail on her way past, and went out, and the question stayed behind in section four like a seed she was content to leave in the ground.
 
-Quenna made one note on her slate, signed the session record, tore off the strip and handed it to him without comment.
+Quenna made a single mark on her slate, signed the record, tore the strip off and held it out to him without a word.
 
-Lira caught him up in the corridor outside the hall and fell into step beside him as she had on more walks home from more fight-halls than either of them could count. She had heard the question; the rail was close enough. She did not ask what his answer had been, because she had heard that too. She asked the other thing, the thing that cut past the philosophy to whatever was underneath it.
+Lira was waiting in the corridor. She fell in beside him, matching his step, as she had on the way home from more fight-halls than he could have counted. She had heard the question from the rail, and she had heard the answer, so she asked about neither. She went underneath them, to whatever they were sitting on.
 
-"You went somewhere when she asked that," she said. "Behind your eyes. Somewhere I couldn't follow." She did not make it sound like blame. She made it sound like news. "Tell me when you're home again."
+"Something happened when she asked you that," she said. "You went off somewhere behind your eyes, and I couldn't come." There was no blame in it. She said it the way she would have said it had started raining. "Tell me when you're back."
 
-"I'm home."
+"I'm back."
 
-"Mm." She let it go, which was its own kind of gift, and they walked the length of the yard in silence while the light went long across the chalk.
+"Mm." She let it go, and he knew that was a gift too. They crossed the yard without talking while the light stretched out long over the chalk.
 
-At the door of the residence wing she stopped with her hand on the frame and did not look at him.
+At the residence wing door she stopped with a hand on the frame, and kept her eyes on the wood.
 
-"For what it's worth," she said, "it doesn't look borrowed. From outside. I've watched you run that framework since before either of us knew what it was, and for a long time now it hasn't looked like anything in the world except yours." She went in first and left him alone in the doorway with it, and he suspected she had meant to do that too.
+"For what it's worth," she said, "from outside it doesn't look borrowed. I've watched you run that thing since before either of us knew what it was, and for a long while now it's looked like it was never anybody's but yours." Then she was inside, and he was alone on the step with it, which he guessed was also on purpose.
 
-He wrote it up that night, the only entry from the whole day that mattered.
+It was the only thing from the whole day worth writing, and he wrote it.
 
 *Does it feel borrowed? Don't know. Lira: it doesn't look it. How a thing looks and how it feels are two different readings, and I'm leaning on hers because I haven't got mine.*
 
-Underneath, smaller:
+Below it, smaller:
 
-*I'll know one day, whether I want to or not.*
+*Someday I'll find out. Wanting to won't come into it.*
 
 ---
 

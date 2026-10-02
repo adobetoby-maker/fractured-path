@@ -240,7 +240,7 @@ Brom was staring at the board with an expression Cael had never seen on him, a f
 
 ---
 
-He found Lira again at the notice board that afternoon, standing in front of the training-floor roster with her arms crossed, reading it for longer than reading it could possibly take. He knew what she was looking at before he reached her. Her name was on the roster, and beside it, in the clerk's small hand, sat the same raised dot that was stamped on her tag, the provisional marker, which appeared beside her name and three others, Gerda's among them, and beside no one else on the whole board.
+He found Lira again at the notice board that afternoon, arms crossed before the roster for the training floor, reading it for longer than reading it could possibly take. He knew what she was looking at before he reached her. Her name was on the roster, and beside it, in the clerk's small hand, sat the same raised dot that was stamped on her tag, the provisional marker, which appeared beside her name and three others, Gerda's among them, and beside no one else on the whole board.
 
 "Before you say anything," she said without turning, "I know it's a clerk's mark. I know it only means somebody checks my results before they count. I've read the rule. Twice."
 
@@ -260,10 +260,10 @@ She left after that, toward the yard and the floor and the work she trusted more
 
 The notice was under his own door when he came back from supper, a single folded sheet slid in flat across the boards with no envelope and no seal, delivered with exactly the ceremony of a laundry list. He unfolded it standing in the doorway with one hand still on the latch.
 
-*Demonstration Assessment. Unclassified Observer Track. First sitting. Training hall, first bell, the eighth day. Closed session. The candidate will demonstrate at his own election.*
+*Demonstration Assessment. Unclassified Observer Track. First sitting. Training hall, first bell, the eighth day. Closed session. Demonstration at the candidate's own election.*
 
 He read it twice. He had seen the date on the public board already, and had known it was coming, but there was a difference between a line on a board in the hall and a sheet of paper on his own floor with his own name at the top, and the difference went through him like cold water. The post had gone down the hill yesterday, and the brown envelope with it, in the same bag as his letter to Hesk. It was somewhere on a road now, getting farther away every hour, toward a desk he would never see. This sheet was the other half of the same thing. Not the signature, not the category, not the hollow circle — all of that only held a door open. This was the first time anyone would walk through the door and look at what was on the other side. It would be written down, and he could no longer be sure that anything written down about him would stay inside this building.
 
-He had four days to decide what to show them.
+Four mornings, then, to choose what they would see.
 
 He closed the door, sat on the bed, and opened the binder to a clean page.

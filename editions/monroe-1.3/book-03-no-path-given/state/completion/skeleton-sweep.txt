@@ -1,0 +1,1380 @@
+== book-03-no-path-given M1 (ch1–8)
+chapter-01.md	sentences=160	skeleton=3%	close=14%
+  scene 1	n=38	skeleton=0%	close=5%
+  scene 2	n=27	skeleton=4%	close=15%
+  scene 3	n=55	skeleton=0%	close=5%
+  scene 4	n=40	skeleton=10%	close=32%
+    [s2 0.57] MS: Iron-adjacent was third, and Brom's: a pressure-read along the skin that told him where a person's weight was about to go.
+              SRC: And the Iron-adjacent surface read — Brom's gift, quieter, a pressure-sense at the skin that told him where an opponent's weight was about to go a half-beat before it went there.
+    [s4 0.53] MS: A hill town showed itself in pieces: slate roofs, smoke from cooking fires, and somewhere below them a mill wheel turning slowly with a deep wooden groan they heard long before they saw it.
+              SRC: A hill town resolved out of the slope above them piece by piece: slate roofs, smoke from midday cooking fires, a mill wheel turning somewhere out of sight with a slow wooden complaint they could hear before they could place it.
+    [s4 0.61] MS: Above the town the road forked, one branch bending down toward the roofs and the other climbing on.
+              SRC: Lira asked, when the road forked — one branch bending toward the huddle of roofs, the other continuing up.
+    [s4 0.71] MS: Brom looked at the wall for a long moment.
+              SRC: He looked at the sentence for a moment.
+    [s4 0.75] MS: Cael stood at the booth a half-second longer than the moment needed.
+              SRC: Cael stood there a half-second longer than the moment required.
+chapter-02.md	sentences=189	skeleton=8%	close=25%
+  scene 1	n=24	skeleton=0%	close=4%
+  scene 2	n=33	skeleton=9%	close=27%
+  scene 3	n=68	skeleton=12%	close=28%
+  scene 4	n=34	skeleton=9%	close=38%
+  scene 5	n=30	skeleton=3%	close=17%
+    [s2 0.57] MS: Cael was close enough to see the heading without meaning to.
+              SRC: Cael, standing close enough to see without meaning to intrude, caught the heading: *Acknowledgment of Prior Standing.
+    [s2 0.50] MS: "I want a place here more than I want to win an argument on paper about something that happened when I was fourteen.
+              SRC: "I decided I wanted to be enrolled here today more than I wanted to be right on paper about something that happened two years ago.
+    [s2 1.00] MS: "I thought it would feel like losing again.
+              SRC: I thought it would feel like losing again."
+    [s3 0.51] MS: The square of light moved off the back wall and onto the floor, slid toward the desk legs, and thinned.
+              SRC: The window's light moved from the back wall to the floor and started to thin.
+    [s3 0.50] MS: The category granted them lecture attendance, supervised training and academic standing, but not a Path, a tier, a rank, or an Arbiter-issued record of any kind.
+              SRC: It granted training-floor access, lecture attendance, and academic standing, without conferring any Path classification, tier ranking, or Arbiter-issued record.
+    [s3 0.95] MS: It isn't anything the schedule accounts for at all."
+              SRC: It isn't, strictly, anything the schedule accounts for at all.
+    [s3 0.54] MS: "It's an accurate use of the words, and every word on that page will hold up exactly as written.
+              SRC: What it says is defensible — the words on this page will hold up to scrutiny exactly as written.
+    [s3 0.70] MS: Every month you are simply here, doing well, on the record, it gets harder for anyone to argue that you shouldn't be."
+              SRC: The longer you're simply *here*, doing well, on the record, the harder it becomes for anyone to argue you shouldn't be."
+    [s3 0.67] MS: He looked down at the form for a long time.
+              SRC: He looked at the sentence for a moment.
+    [s3 0.86] MS: He was fairly sure it was the only door open.
+              SRC: He was fairly certain it was the only door currently open.
+    [s3 0.50] MS: Nobody at the desk said anything about the distance between the words and the truth.
+              SRC: Nobody at the table said anything about the gap between the words and the truth, because everybody at the table already knew it was there, and naming it again wouldn't have made the form any more honest.
+    [s4 0.50] MS: Lira and Brom were on a low wall outside the intake building in the last of the light, sitting a little apart, and the gap between them was exactly his width.
+              SRC: He found Lira and Brom outside the intake building, sitting on a low wall in the last of the afternoon light.
+    [s4 0.74] MS: "For what it's worth," said Brom, "the form isn't the interesting part."
+              SRC: "For what it's worth," Brom said, "I don't think the form is the interesting part."
+    [s4 1.00] MS: The word is doing a lot of work.*
+              SRC: The word is doing a lot of work.*
+    [s5 0.66] MS: The room was narrow and whitewashed, with a bed, a desk, a shelf and a single window that looked out on the training yard's wall, which was blank and grey and asked nothing of anybody.
+              SRC: His own room was narrow, whitewashed, furnished with a bed, a desk, a shelf, and a window that looked at the training yard's wall — which suited him, since a wall asked nothing and told nothing.
+chapter-03.md	sentences=171	skeleton=9%	close=24%
+  scene 1	n=39	skeleton=0%	close=10%
+  scene 2	n=70	skeleton=17%	close=31%  <-- over 15%
+  scene 3	n=29	skeleton=0%	close=21%
+  scene 4	n=33	skeleton=12%	close=27%
+    [s2 0.50] MS: He looked at Cael for a long moment, and it was not the look Cael knew from assessors and officials, the one that held him up against a box and saw that he did not fit it.
+              SRC: It was not the assessing look Cael had grown used to from Arbiters and assessors and Compact officials, the look that measured him against a category and found the fit wanting.
+    [s2 0.74] MS: He leaned back, and the chair took his weight with the worn creak of furniture that had been sat in exactly this way for many years.
+              SRC: He leaned back, and the chair took the shift in weight with the worn, accustomed give of furniture that had been sat in this exact way for a very long time.
+    [s2 0.57] MS: "Eleven years I ran a mid-tier academy.
+              SRC: "I ran a mid-tier academy for eleven years before I came here.
+    [s2 0.59] MS: "Overturned," Naveth said with quiet satisfaction, "because someone here believed the paperwork was wrong before the registry did.
+              SRC: Disputed classifications that got overturned, eventually, because somebody here believed the paperwork was wrong before the registry admitted it.
+    [s2 1.00] MS: "Every student in this building is someone's clerical error, Cael.
+              SRC: "Every student in this building is someone's clerical error, Cael.
+    [s2 1.00] MS: You're simply the largest one we've ever had the nerve to sign for."
+              SRC: You're simply the largest one we've ever had the nerve to sign for."
+    [s2 0.74] MS: The certification office had been kind on the day of his Kindling, gentle-voiced and apologetic about the classification even while they stamped it, and that kindness had lasted precisely as long as the appointment and not an hour longer.
+              SRC: But the certification office in Denvash had been kind, in its way, the day of his Kindling — gentle-voiced, careful with the paperwork, apologetic about the classification even as they processed it — and that kindness had lasted exactly as long as the encounter itself and not one hour longer.
+    [s2 1.00] MS: "What happens if I stop being a good bet?"
+              SRC: "What happens if I stop being a good bet?"
+    [s2 0.61] MS: We bet on the ones the system prices wrong, and we accept going in that some of those bets won't pay.
+              SRC: We accept, going in, that some of those bets don't pay off.
+    [s2 0.61] MS: Something shifted in Naveth's face, not a smile but the look of a man watching a question land exactly where it was meant to.
+              SRC: Something shifted in Naveth's face — not quite a smile, but the acknowledgment of a question landing where questions were supposed to land.
+    [s2 0.54] MS: If this goes badly, it goes badly for you first, then for her, then for me.
+              SRC: If this goes badly, it goes badly for her before it goes badly for me, and it goes badly for you before either of us.
+    [s2 0.83] MS: He meant it more than the two words could carry.
+              SRC: "Thank you," he said, and meant it more than the two words could carry.
+    [s4 0.51] MS: She held the door open at a precise angle, open enough to be polite and not open enough to suggest that anybody should come in.
+              SRC: Open enough to be polite to a touring student, not open enough to suggest anyone should feel invited to wander in unescorted.
+    [s4 0.58] MS: He noticed most deliberate things people did without announcing them as deliberate.
+              SRC: Cael noted the angle the way he noted most small deliberate choices people made without announcing them as deliberate.
+    [s4 0.51] MS: The air that came through was cooler than the corridor's and smelled of paper and old glue and stone.
+              SRC: The air that reached him through the gap was cooler than the corridor's, and carried paper and binding-glue and stone, a smell he recognized from Vell's archive in Ardenmere the way a person recognizes a voice before a face.
+    [s4 0.64] MS: The assessment calendar hung on a board in the main hall by the entrance, public, unglassed, there for anyone to read.
+              SRC: The main hall carried the assessment calendar on a board by the entrance, public, unglassed, available to anyone who cared to read it.
+chapter-04.md	sentences=157	skeleton=4%	close=16%
+  scene 1	n=76	skeleton=3%	close=9%
+  scene 2	n=33	skeleton=3%	close=18%
+  scene 3	n=16	skeleton=0%	close=6%
+  scene 4	n=32	skeleton=12%	close=34%
+    [s1 0.51] MS: He found Brom on the defensive-branch floor, and he could tell how the afternoon had gone before he was close enough to see Brom at all.
+              SRC: He found Brom on the defensive-branch floor an hour later, and the scene he walked into told him everything about how the day had gone for at least one of them.
+    [s1 0.53] MS: She was taking him apart into the pieces that were structure and the pieces that were habit.
+              SRC: She was testing which parts of him were structure and which were habit.
+    [s2 0.62] MS: Brom made the low sound in his chest that did him for a laugh, and then winced and pressed his side.
+              SRC: Brom made the low sound that served him for a laugh.
+    [s4 0.51] MS: I spent two years past where the ceiling's supposed to be, on my own, with nobody telling me there was a ceiling there, and I kept getting better at the form.
+              SRC: I know it's not true, because I spent two years past where the wall's supposed to be, and I kept getting better at the form precisely because nobody ever told me there was a wall there to stop at."
+    [s4 0.55] MS: It was exactly the kind of confident claim a boy with no formal training might make about doctrine written by people with far more learning than he had, the kind that usually fell apart at the first serious question.
+              SRC: It was, on its face, exactly the confident claim a fifteen-year-old with limited formal training might make about a body of doctrine developed by people far more credentialed than himself — the sort of overconfidence that usually collapsed under its first real scrutiny.
+    [s4 0.55] MS: It was also, he suspected, true, because Brom's evidence was his own body: two years of improvement the theory said should not have happened, made by someone who had never been given a reason to believe it couldn't.
+              SRC: It was also, on reflection, almost certainly correct, because Brom's evidence for it was his own two years of exactly the unsupervised, wall-ignorant improvement the theory claimed shouldn't have been possible, achieved by someone who had never once been told he was supposed to stop.
+    [s4 0.74] MS: He said it without heat; the old grievance had worn smooth with distance.
+              SRC: Brom said it without heat, the old grievance long since worn smooth by distance.
+chapter-05.md	sentences=215	skeleton=3%	close=11%
+  scene 1	n=92	skeleton=2%	close=9%
+  scene 2	n=34	skeleton=0%	close=6%
+  scene 3	n=60	skeleton=2%	close=7%
+  scene 4	n=29	skeleton=10%	close=31%
+    [s1 0.51] MS: Cael wrote in two columns, the way he had started doing in Ardenmere without ever quite deciding to, what was being taught on the left and what the teaching assumed on the right.
+              SRC: He sat in the back rows by preference and took notes in two columns without deciding to: what was being taught, and what the teaching assumed.
+    [s1 0.50] MS: I just wanted to know where it went."
+              SRC: I just needed the floor to see it."
+    [s3 0.59] MS: She didn't say which, and I didn't ask."
+              SRC: She didn't elaborate, and he didn't ask her to.
+    [s4 1.00] MS: The candidate will demonstrate at his own election.*
+              SRC: The candidate will demonstrate at his own election.
+    [s4 0.56] MS: This sheet was the other half of the same thing.
+              SRC: That's the other half of the model, Cael.
+    [s4 0.95] MS: He had four days to decide what to show them.
+              SRC: He had four days to decide what to show.
+chapter-06.md	sentences=204	skeleton=4%	close=14%
+  scene 1	n=48	skeleton=10%	close=17%
+  scene 2	n=41	skeleton=5%	close=12%
+  scene 3	n=25	skeleton=0%	close=4%
+  scene 4	n=38	skeleton=0%	close=11%
+  scene 5	n=52	skeleton=2%	close=19%
+    [s1 0.56] MS: Nowhere does the provision ask you to name a Path."
+              SRC: You are not required to name a Path."
+    [s1 0.71] MS: If there was any irony in that, she did not spend breath on it.
+              SRC: If there was irony in it, she declined to spend any breath on it.
+    [s1 0.93] MS: "Those three words are the whole law of the morning, so attend to them.
+              SRC: Those three words are the entire law of the morning, so attend to them.
+    [s1 0.65] MS: *Consistent* means the panel sees it more than once, with the same structure and the same result; once is an accident, twice is a pattern.
+              SRC: *Consistent* — the panel sees it more than once, same structure, same result.
+    [s1 0.52] MS: *Observable* means it happens in the room, at a scale a person holding a slate can see and write down, nothing internal, nothing they have to take your word for.
+              SRC: *Observable* — it happens in the room, at demonstration scale, visible to a person with a slate.
+    [s2 0.54] MS: He had shown it on the Ardenmere circuit a hundred times in front of crowds and judges and at least one man from the Compact, and it was not a secret anymore.
+              SRC: Both had been shown, in cruder forms, on the Ardenmere circuit, in front of judges and crowds and at least one Compact-adjacent official.
+    [s2 0.61] MS: Iron-adjacent, Brom's gift: a pressure-sense along the skin that told him where a body's weight was about to go, at contact and out to a few paces.
+              SRC: And the Iron-adjacent surface read — Brom's gift, quieter, a pressure-sense at the skin that told him where an opponent's weight was about to go a half-beat before it went there.
+    [s5 0.59] MS: Do the last part with your eyes closed."
+              SRC: Do it with your eyes closed at the end."
+chapter-07.md	sentences=169	skeleton=7%	close=21%
+  scene 1	n=27	skeleton=4%	close=22%
+  scene 2	n=39	skeleton=0%	close=5%
+  scene 3	n=50	skeleton=10%	close=22%
+  scene 4	n=21	skeleton=24%	close=48%  <-- over 15%
+  scene 5	n=32	skeleton=3%	close=22%
+    [s1 0.50] MS: She said it the way a clerk says *next*, and he suspected she had practiced that.
+              SRC: She said it plainly, the way she said most things that mattered.
+    [s3 0.52] MS: Then, because the room ran on exactness and he wanted his own words in the record to be exact: "It has limits.
+              SRC: "It scales," Cael said, and then, because precision was the register the room ran on and he wanted the record to hold precision under his name: "Within limits.
+    [s3 0.89] MS: Faster opponents give me less body to read.
+              SRC: Faster opponents give me less body to read, not more.
+    [s3 0.62] MS: Cael looked at him for a long moment.
+              SRC: He looked at the sentence for a moment.
+    [s3 0.52] MS: "Assessment satisfied," said Quenna, and set down her pen.
+              SRC: "Assessment satisfied," Quenna said, and set down her pen, and for a moment the room simply held the quiet of something concluded.
+    [s3 0.50] MS: The rotating seat rose, gathered his slate, and left without another word.
+              SRC: The rotating faculty seat left without further comment.
+    [s4 0.75] MS: "I want you to understand what today was, though, before you let your shoulders down."
+              SRC: "I want you to understand what today actually was, though, before you let yourself relax about it."
+    [s4 0.72] MS: It tells the file that a candidate exists under this provision who can demonstrate consistent, observable practice exactly as the language requires, with nothing in it a hostile reader can seize on.
+              SRC: It tells the file that an unclassified observer exists who can demonstrate consistent, observable practice, exactly as the provision requires, with no irregularities a hostile reader could seize on.
+    [s4 0.60] MS: She did not explain, and he did not ask her to.
+              SRC: She didn't elaborate, and he didn't ask her to.
+    [s4 0.54] MS: He stayed on a few minutes in the empty hall, with nobody in it now but himself and the chairs, and let the morning drain slowly out of his shoulders.
+              SRC: He stayed in the hall a few minutes after she'd gone, alone with the swept floor and the three empty chairs, letting the morning drain out of his shoulders.
+    [s4 0.92] MS: Everything else that had happened here existed only on paper now, in a file, in a building full of files.
+              SRC: Everything else that had happened here now existed only on paper, in a file, in a building of files.
+    [s5 0.62] MS: Lira looked at him for a long moment.
+              SRC: He looked at the sentence for a moment.
+chapter-08.md	sentences=230	skeleton=3%	close=12%
+  scene 1	n=35	skeleton=6%	close=14%
+  scene 2	n=27	skeleton=0%	close=22%
+  scene 3	n=17	skeleton=0%	close=0%
+  scene 4	n=26	skeleton=0%	close=0%
+  scene 5	n=51	skeleton=2%	close=6%
+  scene 6	n=33	skeleton=9%	close=21%
+  scene 7	n=41	skeleton=2%	close=15%
+    [s1 0.59] MS: By the time he crossed the yard that afternoon, the rumors had found a face to hang themselves on, and it was his.
+              SRC: By the time he reached the yard that afternoon, the speculation had gathered enough shape to have a name attached to it, and the name was, predictably, his.
+    [s1 0.53] MS: Edran said it to the yard in general, in a clear, level voice that carried without being raised, but his eyes stayed on Cael the whole time, and Cael stopped walking.
+              SRC: "Observers don't demonstrate," Edran said, to the yard generally, though his eyes stayed on Cael the whole time.
+    [s5 0.64] MS: The first exchange went the way a procedural bout was supposed to go.
+              SRC: The opening exchange went the way procedural matches were supposed to go, careful and testing.
+    [s6 0.62] MS: I wanted the floor to have seen it.
+              SRC: I just needed the floor to see it."
+    [s6 0.59] MS: "I wanted them to watch it not matter.
+              SRC: "I wanted the room to see it didn't matter.
+    [s6 0.53] MS: Brom made the low sound in his chest.
+              SRC: Brom made the low sound that served him for a laugh.
+    [s7 0.71] MS: He wrote it slowly, in the careful hand he saved for entries he meant to reread.
+              SRC: He wrote the correction in his careful hand, the one he saved for entries he expected to reread.
+TOTAL	sentences=1495	skeleton=5%	close=17%
+== book-03-no-path-given M2 (ch9–16)
+chapter-09.md	sentences=199	skeleton=2%	close=13%
+  scene 1	n=43	skeleton=0%	close=2%
+  scene 2	n=32	skeleton=3%	close=16%
+  scene 3	n=23	skeleton=9%	close=39%
+  scene 4	n=39	skeleton=3%	close=13%
+  scene 5	n=52	skeleton=0%	close=6%
+  scene 6	n=10	skeleton=0%	close=20%
+    [s2 0.60] MS: She had kept two since the winter she turned eleven.
+              SRC: She kept two notebooks, and had since she was eleven.
+    [s3 0.81] MS: It took her three weeks to find a real thread behind Marlowe's joke and four months to stop finding contradictions along it.
+              SRC: It took her three weeks to find the first real thread and four months to stop finding contradictions in it.
+    [s3 0.54] MS: She made a page titled, with a restraint she considered a professional duty, *Candidate explanations*.
+              SRC: She built a page she titled, with the restraint she considered a methodological obligation, *Candidate explanations*, and spent a winter killing its entries one by one.
+    [s4 0.61] MS: Her parents were harder, because their worry was about her and not her prospects, and she had no arithmetic that answered it.
+              SRC: Her parents had been gentler and more worried, and harder, because their worry was about her rather than her prospects, and had no arithmetic she could refute.
+chapter-10.md	sentences=177	skeleton=23%	close=41%
+  scene 1	n=58	skeleton=17%	close=43%  <-- over 15%
+  scene 2	n=14	skeleton=50%	close=71%  <-- over 15%
+  scene 3	n=52	skeleton=8%	close=19%
+  scene 4	n=29	skeleton=38%	close=55%  <-- over 15%
+  scene 5	n=24	skeleton=33%	close=50%  <-- over 15%
+    [s1 0.67] MS: "I've spent eight months rebuilding your circuit record from other people's accounts, and almost none of the accounts agree with each other about anything except the outline.
+              SRC: "I've spent eight months reconstructing what I could of your circuit record from secondhand accounts, none of which agreed with each other on anything except the outline.
+    [s1 0.53] MS: With your permission, on terms that you set, and you would read every word I wrote about you before it existed anywhere but my own hand.
+              SRC: With your consent, on terms you set, and you see everything I write about you before anyone else does.
+    [s1 0.82] MS: I'm not asking you to explain yourself today.
+              SRC: "I'm not asking you to explain yourself right now.
+    [s1 0.57] MS: I'm not asking you to explain anything, ever, that you'd rather keep.
+              SRC: "I'm not asking you to explain yourself right now.
+    [s1 0.88] MS: He looked at her for a long moment.
+              SRC: Cael looked at her for a long moment.
+    [s1 0.57] MS: I expect to earn it the way I'd earn any conclusion, from small claims first, where you can check them.
+              SRC: I expect to have to earn it, the way I'd earn any other conclusion — by being right about small things first, consistently, until being right about small things becomes evidence you can use.
+    [s1 0.61] MS: She had offered him a method, told him plainly how the method could fail, and promised what she would do when it did.
+              SRC: She'd offered him a method, and an explicit account of how the method could fail, and an explicit promise about what she'd do when it did.
+    [s1 0.67] MS: She answered at once, which told him she had designed it long before she walked in.
+              SRC: She answered at once, which told him she'd already designed it.
+    [s1 0.50] MS: It has to be built in, a right you hold and not a kindness I offer, because consent you can't take back isn't consent.
+              SRC: That has to be structural, not polite — a right you hold, not a courtesy I extend.
+    [s1 0.73] MS: I think that should count for something before you decide."
+              SRC: I thought that ought to count for something, even before you decide."
+    [s2 0.62] MS: There was a careful answer available, and it would have been the sensible one.
+              SRC: There was a version of caution available to him here, and it would have been the reasonable version.
+    [s2 0.68] MS: He had learned over a long time that people who wanted to study him seldom wanted exactly what they said, and that the space between a stated purpose and its eventual use was where he usually got hurt.
+              SRC: Two years of institutional attention had taught him that people who wanted to study him rarely wanted what they said they wanted, and that the space between a stated intention and its eventual use was exactly where he tended to get hurt.
+    [s2 0.62] MS: But beside the caution sat another fact, and he made himself hold both rather than let the louder one win by being louder.
+              SRC: But there was another fact sitting next to the caution, and he made himself hold both of them at once rather than let the louder one win by default: she had asked.
+    [s2 0.52] MS: Every eye that had ever studied him had done it as procedure, something done to him under cover of a rule that never stopped to wonder whether he would have agreed.
+              SRC: Every institutional eye that had ever turned toward him had turned there as a matter of process, a thing done *to* him under the cover of procedure that never once paused to check whether he'd have said yes if given the choice.
+    [s2 0.67] MS: He did not know yet whether that made her someone to trust.
+              SRC: He didn't know yet whether that made her trustworthy.
+    [s2 0.76] MS: He knew it made her unlike anyone else who had ever wanted to know what he was, and in his experience a difference that large was worth studying before deciding what to do with it.
+              SRC: He knew it made her different from everyone else who'd ever wanted to know what he was, and difference, in his experience, was worth taking seriously before deciding what to do with it.
+    [s2 0.65] MS: So he did what he always did when he needed to understand a thing before committing to it.
+              SRC: So he did the thing he did with everything he needed to understand before committing to: he watched her.
+    [s3 0.73] MS: He had not hidden, and she was, by her own account, someone who noticed things for a living.
+              SRC: Of course she saw him; he hadn't hidden, and she was, by her own account, a person who noticed things for a living.
+    [s3 0.67] MS: *She knows people change when they're watched,* he wrote that night.
+              SRC: *She knows being watched changes people,* he wrote that night.
+    [s3 0.78] MS: The two more said it was not a performance.
+              SRC: The two more sessions said it wasn't a performance.
+    [s3 0.72] MS: Nobody held themselves that steady for four afternoons running for the benefit of one boy at the edge of a section.
+              SRC: Nobody held a register that steady for four mornings for the benefit of one boy at a rail.
+    [s4 0.82] MS: Lira thought about it for longer than he expected.
+              SRC: Lira considered it for longer than he expected.
+    [s4 0.56] MS: "Everybody who's ever wanted anything from you wanted it without asking.
+              SRC: "I think," she said finally, "that everyone who's ever wanted something from you has wanted it without asking, and she asked.
+    [s4 0.57] MS: Lira pulled one knee up and wrapped both arms around it, settling in, as she did when a talk had run past the length she had planned for it.
+              SRC: Lira drew one knee up onto the wall and wrapped her arms around it, settling in the way she did when a conversation had turned out to be longer than the evening had promised.
+    [s4 0.86] MS: From everything you've said, she's straighter about what she wants than anyone who's ever come at you.
+              SRC: From everything you've said, she's more honest about what she wants than anybody who's ever come at you.
+    [s4 0.86] MS: Every bad thing that ever happened to you began as something somebody wrote down."
+              SRC: Every bad thing that's ever happened to you started as something somebody wrote down.
+    [s4 0.67] MS: I'm only warning you it's there, so that when I pull faces about her later you'll know which bit of me is pulling them."
+              SRC: I'm just telling you the scar's there, so when I make faces about this later, you'll know which part of me is making them."
+    [s4 0.86] MS: "If you do it, do it the way she offered.
+              SRC: "If you do this — do it the way she offered it.
+    [s4 0.55] MS: Because one day somebody will want to study you who won't bother asking, and on that day you'll want to be able to hold up a page and say, *this is what asking looks like.*"
+              SRC: Because the next person who wants to study you won't ask, and when that day comes, you'll want to be able to point at a piece of paper that shows what asking looks like."
+    [s4 0.74] MS: He sat with that longer than with anything else anyone had said to him that week.
+              SRC: He sat with that longer than anything else said that day.
+    [s4 0.67] MS: "Sit with it," she said, and bumped his shoulder with hers, the old easy knock from more walls than either of them could count.
+              SRC: "Sit with it," she said again, and bumped his shoulder with hers, the old easy gesture from a hundred walls in two other cities.
+    [s4 0.71] MS: "You're good at holding a thing until you know what you actually think about it, instead of what you're meant to think.
+              SRC: "You're good at sitting with things until you actually know what you think about them, instead of just what you're supposed to think."
+    [s5 0.68] MS: Brom's view arrived the next morning, unannounced, between spoonfuls, in the voice of a man who had been thinking about it all night and saw no reason to say so.
+              SRC: Brom's contribution arrived unprompted, at breakfast the next morning, delivered between mouthfuls with the timing of a man who had been thinking all night and saw no reason to announce the fact.
+    [s5 0.88] MS: "She watched my floor block two days ago.
+              SRC: "She watched my floor session two days ago.
+    [s5 0.55] MS: She asked where I'd learned to hold back the second half."
+              SRC: Afterward she asked me one question about my force-redirect — where I'd learned to delay the second commitment.
+    [s5 0.50] MS: It took me two years on my own to understand there even was a second half to ask about."
+              SRC: It took me two years to figure out it was even a question.
+    [s5 0.64] MS: Walked away from a better school to ask me a question.
+              SRC: *Ember Path, Iron 3, walked away from a better school to look at me.
+    [s5 0.53] MS: A question was something you could stand inside and answer.
+              SRC: A question was a thing you could participate in.
+    [s5 0.69] MS: Everyone since who had surprised him into trusting them, Hesk and Lira and Vell and Brom, and Quenna in her cold, careful way, had done something like the same thing: they had refused to take the verdict as proved.
+              SRC: Every person since who had surprised him into trusting them — Hesk, Lira, Vell, Brom, Quenna in her cold-ledger way — had done some version of the same thing, which was to treat the verdict as unproven.
+    [s5 0.86] MS: This girl had gone one step further than any of them.
+              SRC: Karis had gone one step further than any of them.
+chapter-11.md	sentences=208	skeleton=29%	close=43%
+  scene 1	n=14	skeleton=43%	close=71%  <-- over 15%
+  scene 2	n=43	skeleton=49%	close=63%  <-- over 15%
+  scene 3	n=38	skeleton=34%	close=47%  <-- over 15%
+  scene 4	n=45	skeleton=33%	close=49%  <-- over 15%
+  scene 5	n=68	skeleton=7%	close=19%
+    [s1 0.78] MS: It had felt like a habit forming in the way his habits usually formed, quietly and by repetition, until one morning he looked up and saw the shape of it and understood it had been there for months.
+              SRC: It had felt like a habit forming the way habits usually formed for him — quietly, through repetition, until one day he noticed the shape of it and realized it had been there for months.
+    [s1 0.69] MS: "Before you decide, I'd like to put it to the people you'd ask anyway.
+              SRC: "Before you answer me," she said, "I'd like to put the question to the people you'd consult anyway.
+    [s1 0.74] MS: She shifted the strap of her bag on her shoulder, which was the first unnecessary movement he had ever seen her make.
+              SRC: She adjusted the strap of her bag, the first unnecessary movement he'd ever seen her make.
+    [s1 0.81] MS: "All of them, together, in one room, where they can object to me directly instead of to your account of me.
+              SRC: All of them, in one room, where they can object to my face instead of to your account of my face.
+    [s1 0.65] MS: He said yes before he had worked out why it mattered so much that she had asked to do it that way.
+              SRC: He said yes before he'd fully worked out why it mattered so much that she'd asked at all.
+    [s1 0.52] MS: That night he added a line to a much longer entry: *She could have kept pressing me on my own.
+              SRC: He wrote it in the log that night, a small addition to a much larger entry: *She could have pressed me alone.
+    [s2 0.58] MS: Two second-years were playing tiles by the fire with the careful deafness of people who knew that not listening was the stable's most respected rule.
+              SRC: The evening crowd had thinned; a pair of second-years played tiles by the fire with the studied deafness of students who understood that not listening was the common room's most enforceable law.
+    [s2 0.55] MS: Lira arrived second and dropped into the seat directly across from the empty chair, before the person who would sit in it had even come in, and said nothing at all, which was its own kind of remark.
+              SRC: Lira came in second, dropped into the seat across from Karis's empty chair before Karis had even arrived, and said nothing, which was a statement in itself.
+    [s2 1.00] MS: "I want to hear her say it herself."
+              SRC: "I want to hear her say it herself."
+    [s2 0.58] MS: "He asked why he should trust me, and I told him he shouldn't yet, that trust was something I'd have to earn like any other result.
+              SRC: "He asked me why he should trust me, and I told him trust was a finding, not a premise.
+    [s2 0.61] MS: But on the way here I realized it isn't only his to weigh.
+              SRC: But I understand that isn't only his decision to weigh.
+    [s2 0.57] MS: She turned to Lira first, on purpose, and then to Brom.
+              SRC: She looked at Lira first, deliberately, and then at Brom.
+    [s2 0.67] MS: Brom had been turning a stub of chalk over in his fingers without seeming to know it.
+              SRC: Brom, who had been turning a training-hall chalk stub over in his fingers without seeming to notice he was doing it, set it down.
+    [s2 0.72] MS: "I've been trying to work Cael out by instinct for most of a year.
+              SRC: "I've been trying to solve him by instinct for a year.
+    [s2 0.79] MS: He nodded once at Karis, a strangely formal gesture from someone who rarely bothered with formality.
+              SRC: He nodded once at Karis, an oddly formal gesture from a boy who rarely bothered with formality.
+    [s2 0.82] MS: I'd like to see what a method finds that instinct missed.
+              SRC: I want to see what a method finds that instinct missed.
+    [s2 0.51] MS: She said it evenly, with no heat in it at all, and that made it land harder than shouting would have.
+              SRC: She said it evenly, without heat, which somehow made it land harder than if she'd raised her voice.
+    [s2 0.69] MS: She turned in her seat to face Karis directly, not hostile and not performing anything for the room, simply giving the moment her whole attention because she had decided it had earned that much.
+              SRC: Cael watched her turn to face Karis directly — not hostile, not performing anything for the room, just giving the moment the full weight of her attention because she'd decided it deserved that much.
+    [s2 0.65] MS: "I want to say one thing first, and plainly, so it doesn't get lost," she said.
+              SRC: "I want to say that plainly, so it doesn't get lost in whatever comes next.
+    [s2 0.59] MS: I've watched you in the yard and on the floor for a week, and you work like someone who actually wants to know what the answer is, not someone who's already picked it and is hunting for evidence to fit.
+              SRC: I've watched you in the archive for two weeks — you work like someone who actually cares what the answer turns out to be, not someone who already decided what the answer should be and is hunting for evidence to match it.
+    [s2 0.61] MS: She stopped, choosing the next part with care, and Cael watched her choose it.
+              SRC: She paused, choosing the next part with visible care.
+    [s2 0.73] MS: I even think your reasons are good ones.
+              SRC: I understand why you want it — I even think your reasons are good ones.
+    [s2 0.65] MS: But I've watched a lot of people look closely at Cael, and each of them was collecting evidence for something.
+              SRC: "But I've watched a lot of institutions look closely at Cael.
+    [s2 0.50] MS: All of them were putting a case together.
+              SRC: Every one of them was building a case.
+    [s2 0.82] MS: "Wanting data still means wanting something *from* him.
+              SRC: But wanting data is still wanting something *from* him.
+    [s2 0.76] MS: And I've spent a long time being one of the people who stand between him and everybody who wants something from him.
+              SRC: And I've spent a year and a half being one of the people standing between him and everyone who wants something from him.
+    [s2 0.77] MS: So forgive me if I'm slow to hand a stranger a seat at this particular table."
+              SRC: Forgive me if I'm slow to hand a new person a seat at that table."
+    [s3 0.50] MS: "I've wanted data about him since a lecturer told a joke in a hall at Ternhall late last winter, and I haven't stopped wanting it for one day since.
+              SRC: I've wanted data about him since I first heard the rumor in Ternhall's east lecture hall, eight months ago, and I have not stopped wanting it since.
+    [s3 0.60] MS: You'd see through the pretending inside half a sentence, and I don't believe it would win me anything worth having.
+              SRC: I'm not going to sit at this table and pretend otherwise, because I think you'd see through the pretending in about half a sentence, and because I don't actually believe pretending would earn me anything worth having.
+    [s3 0.64] MS: "But I'm not asking to be given what you three have.
+              SRC: "But I'm not asking you to accept that I already have what you have.
+    [s3 0.63] MS: To earn it, on whatever terms you think are fair, and to lose it the day I stop deserving it."
+              SRC: On whatever terms you decide are fair, and revoked the moment I stop deserving them."
+    [s3 0.74] MS: Lira was quiet for what felt to Cael like a very long time.
+              SRC: Lira sat with that for what felt, to Cael, like a genuinely long time.
+    [s3 0.50] MS: Tonight he had sat quiet while the people who loved him argued over his safety across the table, trusting the argument to end somewhere he could stand.
+              SRC: This one had sat still and let the people who loved him argue about his safety in front of him, because he trusted the argument to come out somewhere he could live with.
+    [s3 1.00] MS: Lira had watched him learn to do that.
+              SRC: Lira had watched him learn to do that.
+    [s3 0.74] MS: She had been most of the reason he had learned it.
+              SRC: She'd been most of the reason he had.
+    [s3 0.76] MS: From Lira, Cael understood, that was as near to yes as the evening was going to get.
+              SRC: Coming from Lira, Cael understood, this was as close to a yes as the moment was ever going to get.
+    [s3 0.64] MS: She's spent five years learning to ask a question the right way.
+              SRC: She's spent five years learning how to ask questions properly.
+    [s3 0.81] MS: "If there are answers, I'd rather we found them ourselves, on purpose, with terms, at a table like this one, before somebody else finds them in a room I'm not allowed into."
+              SRC: If there are answers, I'd rather we found them on purpose, with terms, at a table like this — before somebody else finds them without asking.
+    [s3 0.51] MS: He watched Lira hear the only argument that could actually move her.
+              SRC: He looked at Lira as he said the last part, and watched her hear the argument that would actually move her: not curiosity.
+    [s3 0.57] MS: "Now that," she said slowly, "is a reason I can't argue with."
+              SRC: "That," Lira said quietly, "is the first reason anyone's given tonight that I can't argue with."
+    [s4 0.69] MS: He wrote *strange, not bad* in the binder's margin while Brom and Karis argued about the wording of something, and left it at that.
+              SRC: He wrote *strange, not bad* in the margin of his notebook while Brom and Lira argued a clause with Karis, and left it at that.
+    [s4 0.67] MS: The first real disagreement was over the binder.
+              SRC: The first real disagreement came over the Power Log itself.
+    [s4 0.62] MS: Karis raised it herself, plainly and without apology, as if she had worked out that hiding how badly she wanted it would cost her trust she needed for everything else.
+              SRC: Karis raised it plainly, without apology, because she had apparently decided that pretending not to want the thing she wanted most would only cost her credibility she needed for everything else.
+    [s4 0.69] MS: "I'd be a poor researcher if I didn't ask why, once, so that I know the shape of the boundary and not just where it is."
+              SRC: I'd be a poor researcher if I didn't at least ask why, once, so I understand the boundary instead of just obeying it."
+    [s4 0.53] MS: "It's the three of us being honest with each other at a time when nobody else would be.
+              SRC: "It's the two of us telling each other the truth when nobody else was going to.
+    [s4 0.78] MS: You don't get to read how we got here."
+              SRC: You don't get to read how it got written."
+    [s4 0.50] MS: Karis considered this with the same unblinking attention he had seen her give a timing that came out wrong.
+              SRC: Karis considered this with the same unblinking attention she gave a difficult passage in an old text.
+    [s4 0.70] MS: The middle clauses went faster, in the rhythm an argument finds once everyone has worked out what they are actually protecting.
+              SRC: The middle clauses went faster, in the rhythm negotiations found once everyone had established what they were actually protecting.
+    [s4 0.65] MS: Cael raised the clause nobody else had thought of, because a long time of watching institutions had taught him where arrangements actually broke.
+              SRC: Cael himself raised the one nobody had thought of, because a year and a half of watching institutions had taught him where arrangements actually failed: not at the signing, at the ending.
+    [s4 0.87] MS: "If it stops," he said, "whichever of us stops it, what happens to the notes?"
+              SRC: "If it ends," he said, "whichever of us ends it — what happens to the notes?
+    [s4 0.83] MS: Karis thought about it longer than she had thought about anything else that hour, and the honest cost of the answer was on her face before she gave it.
+              SRC: The table went quiet while Karis thought about it, longer than she'd thought about anything else that hour, because the honest cost of the answer was visible on her face before she gave it.
+    [s4 0.78] MS: If I walk away, I walk away from the results as well.
+              SRC: If I walk away, I walk away from the data too.
+    [s4 0.76] MS: That's the only version where your word to end it means anything.
+              SRC: That's the only version where your veto means anything.
+    [s4 0.64] MS: Cael watched her hand slow on the last words, a researcher signing away her own findings before she had any, and understood that the cost of the whole arrangement was being paid up front, in the open, where all of them could see it.
+              SRC: She wrote the clause herself, and Cael watched her hand slow slightly on the words, a researcher signing away the right to her own findings, and understood he was watching the price of the arrangement being paid in advance, where everyone could see it.
+    [s4 0.58] MS: Then she read the whole page aloud twice, the second time more slowly than the first, the way Cael imagined she read her own results before trusting them.
+              SRC: Karis read the terms twice, out loud, the second time slower than the first, the way Cael imagined she checked her own research notes for errors before committing to a conclusion.
+    [s5 0.62] MS: She pushed the stack a little toward the centre of the table.
+              SRC: She pushed the stack slightly toward the center of the table, an offering rather than a demand.
+    [s5 0.80] MS: It seemed dishonest to keep the door the other way locked.
+              SRC: It seemed dishonest to keep the reverse door locked.
+    [s5 0.95] MS: You should be able to study the person who's studying you.
+              SRC: "You should be able to study the person studying you.
+    [s5 0.74] MS: Then Lira reached out and took a volume from the middle of the stack rather than the top, a small choice Cael suspected was entirely deliberate, and opened it somewhere near the middle.
+              SRC: Then Lira reached out, took the second notebook from the stack rather than the first — a small randomization Cael suspected was deliberate — and opened it somewhere in the middle.
+    [s5 0.62] MS: He wrote it in the binder that night under the heading he had kept since his second day at Greyvane, *things that changed that I want to remember changed.*
+              SRC: He wrote it down that night, in the log, under the heading he'd kept since Greyvane's second day: things that were changing that he wanted to remember had changed.
+chapter-12.md	sentences=168	skeleton=11%	close=26%
+  scene 1	n=23	skeleton=0%	close=9%
+  scene 2	n=58	skeleton=31%	close=55%  <-- over 15%
+  scene 3	n=43	skeleton=0%	close=12%
+  scene 4	n=44	skeleton=2%	close=9%
+    [s2 0.64] MS: She arrived after the bell had stopped ringing, took a place at the rail of section four with her arms folded, and said nothing to anyone.
+              SRC: She took a place at the section's rail with her arms folded, said nothing to anyone, and stayed the full hour.
+    [s2 0.54] MS: Cael understood that this was the correct answer, and possibly the only one Lira would have accepted.
+              SRC: Karis acknowledged her presence with a nod and adjusted absolutely nothing about her own conduct, which was, Cael understood, the correct response and possibly the only one Lira would have accepted.
+    [s2 0.57] MS: She did not ask him to repeat anything.
+              SRC: She didn't ask him to repeat anything, though he half expected her to.
+    [s2 0.67] MS: She was simply recording him, all of him, as information worth the trouble of getting exactly right.
+              SRC: Treating the whole of him as information worth the trouble of getting right.
+    [s2 0.89] MS: "When you use it, does it feel borrowed?"
+              SRC: "When you use it," she said, "does it feel borrowed?"
+    [s2 0.63] MS: He stood there with his breathing still not quite settled and understood at once that this was not a casual question.
+              SRC: Cael stood there, breathing still slightly elevated from the drill, and understood immediately that this was not a casual question.
+    [s2 0.82] MS: Lira had watched him run this framework hundreds of times and had never once asked what it was like from the inside.
+              SRC: Lira had watched him run this same framework a hundred times and never once asked what it felt like from the inside.
+    [s2 0.60] MS: Brom, who read him by feel better than anybody living, had never put a question in that shape, as if the movement itself might carry some memory of where it had come from, and might feel, in the doing, like a thing that had belonged to somebody else first.
+              SRC: Brom, who studied him by instinct more thoroughly than anyone alive, had never phrased the question this way — as though the movement itself might carry the memory of where it came from, might feel, in the doing of it, like something that belonged first to someone else.
+    [s2 0.68] MS: Even Quenna, whose whole profession was the study of what he was, asked only questions with answers you could see.
+              SRC: Even Quenna, whose whole professional attention was aimed at what he was, asked only questions with observable answers.
+    [s2 0.75] MS: It could only be answered from one place in the world, the inside of him, where nobody else could ever stand, and Karis had walked straight up to that place on her first afternoon and knocked politely on the door.
+              SRC: It could only be answered from the one vantage point in the world that nobody else could occupy, and Karis had walked straight to that vantage point on her first session and knocked, politely, on the door.
+    [s2 0.51] MS: He knew as he said it that it was not the last time he would think about the question.
+              SRC: "I don't know," he said, finally, which was true, and which was also, he understood even as he said it, not going to be the last time he thought about the question.
+    [s2 0.57] MS: Lira caught him up in the corridor outside the hall and fell into step beside him as she had on more walks home from more fight-halls than either of them could count.
+              SRC: Lira caught up with him in the corridor outside the hall, falling into step the way she had on a hundred walks home from a hundred venues.
+    [s2 0.84] MS: She had heard the question; the rail was close enough.
+              SRC: She'd heard the question — the rail was close enough.
+    [s2 0.81] MS: She asked the other thing, the thing that cut past the philosophy to whatever was underneath it.
+              SRC: She asked the other thing, the Lira thing, the thing that cut past the philosophy to the load underneath it.
+    [s2 0.50] MS: She did not make it sound like blame.
+              SRC: This did not sound like any of those.
+    [s2 0.54] MS: I've watched you run that framework since before either of us knew what it was, and for a long time now it hasn't looked like anything in the world except yours.
+              SRC: A year and a half I've watched you run that framework, and for at least a year of it, it's looked like nothing in the world but yours.
+    [s2 0.75] MS: He wrote it up that night, the only entry from the whole day that mattered.
+              SRC: He wrote it in the log that night, the only entry that mattered from the whole day.
+    [s2 0.67] MS: *I'll know one day, whether I want to or not.*
+              SRC: *I'm going to know eventually, whether I want to or not.*
+    [s4 0.62] MS: "He looked at me for a long time.
+              SRC: Cael looked at her for a long moment.
+chapter-13.md	sentences=244	skeleton=15%	close=30%
+  scene 1	n=13	skeleton=0%	close=15%
+  scene 2	n=28	skeleton=18%	close=46%  <-- over 15%
+  scene 3	n=32	skeleton=9%	close=31%
+  scene 4	n=98	skeleton=8%	close=17%
+  scene 5	n=73	skeleton=27%	close=41%  <-- over 15%
+    [s2 0.52] MS: Coss read the notice three times before he let himself close the folder.
+              SRC: Coss read the notification twice before he closed the file.
+    [s2 0.66] MS: He had learned, over a monitoring assignment that had produced almost nothing worth reporting, to be careful about the space between what a piece of paper said and what he might want it to say.
+              SRC: He had learned, across a year and a half of a monitoring assignment that had produced almost nothing in the way of actionable events, to be careful about the difference between what a piece of information meant and what he wanted it to mean.
+    [s2 0.50] MS: He looked at the bar for a while.
+              SRC: Cael looked at her for a long moment.
+    [s2 0.59] MS: He thought, before he wrote a word, about what the file had cost him so far.
+              SRC: He thought, before he drafted anything, about the year and a half the file had already cost him.
+    [s2 0.73] MS: The boy had simply, for a long time, done nothing that crossed the line.
+              SRC: The boy had simply, for a year and a half, done nothing that crossed the threshold.
+    [s3 0.56] MS: It had not climbed a ladder at all.
+              SRC: It had not felt like a decision at the time.
+    [s3 0.61] MS: He allowed himself a single unprofessional minute over that.
+              SRC: He allowed himself one unprofessional minute over that fact before he put it away.
+    [s3 0.71] MS: From where he stood, that was either a compliment or a use, and a long career had taught him that from below the two looked the same.
+              SRC: That was either a compliment or a use, and long experience had taught Coss that from below, the two were indistinguishable.
+    [s4 0.52] MS: In a long career he had never once found that travelling with the sun already up improved anything about the travelling.
+              SRC: He left before dawn, which was his own habit rather than any requirement of the assignment — he had never once, in a long career, found that traveling with the sun already up improved anything about the traveling.
+    [s4 0.55] MS: The route ran first to the regional office, where any assignment to a chartered academy had to begin with a formal briefing and a challenge packet, and neither had been prepared.
+              SRC: The route ran first to the regional Compact office, where a field commission's assignment to an active academy required a formal briefing and a challenge packet, neither of which existed yet; from there, whenever the packet was ready, on to Greyvane itself.
+    [s4 0.76] MS: He did not have a date for that second road.
+              SRC: He did not yet have a date for the second leg.
+    [s4 0.63] MS: A challenge filed early on paperwork that was not yet sound was worse than a challenge filed late, and he meant this one to be sound in every joint.
+              SRC: He had learned not to want one before the first leg was finished — a challenge filed too early, on paperwork not yet airtight, was worse than a challenge filed late, and he intended this one to be airtight.
+    [s4 0.57] MS: It had been very early, and he had judged it wrongly, and he still thought about it more often than the job required.
+              SRC: He had been surprised exactly once in this career, early, by a case he had misjudged badly enough that he still thought about it more than the job strictly required.
+    [s4 0.50] MS: All that the boy had done since that afternoon could be found folded inside it.
+              SRC: Everything the boy had done since was in it.
+    [s4 0.96] MS: Frightened, controlled it well, and better at both halves every year.
+              SRC: Frightened, controlled it well, and getting better at both halves every year.
+    [s4 0.53] MS: He did not feel sorry for the boy.
+              SRC: He did not yet have a date for the second leg.
+    [s5 0.54] MS: The records request reached Naveth's desk in the fourth week, by the standard channel, under a standard header that told the provost nothing except that somebody at the Compact had begun to pay attention.
+              SRC: The records request reached Naveth's desk four days later, by the standard channel, with the standard header that told him nothing beyond the fact that someone at the Compact had started paying attention to a file he'd hoped might stay quiet a while longer.
+    [s5 0.54] MS: "Enrollment documentation, complete," Naveth read aloud, running one long finger down the items.
+              SRC: "Enrollment documentation," Naveth said, mostly to himself, running a finger down the list.
+    [s5 0.59] MS: Quick is the only thing that would worry me."
+              SRC: Thorough is not the same as fast, and fast is the only thing that would actually worry me."
+    [s5 0.59] MS: Every item on it was, strictly speaking, something the academy was bound by its charter to produce, and none of it was phrased with any urgency at all.
+              SRC: Every item on it was, strictly, something the academy was obligated to produce.
+    [s5 0.53] MS: Naveth seemed to think it was more informative than urgency would have been.
+              SRC: None of it was framed with urgency of any kind, which Naveth evidently found more informative than urgency would have been.
+    [s5 0.66] MS: He recognized the shape of it, the longer he looked, because it was the shape of the thing he had spent his whole life learning to do with his body.
+              SRC: He recognized the shape of it, the longer he watched, because it was the shape of everything else he'd spent a year and a half learning to do.
+    [s5 0.86] MS: Vell had taught him to read a fight for its gaps before he ever threw a strike.
+              SRC: Vell's circuit had taught him to read a fight for its seams before he ever threw a strike.
+    [s5 0.53] MS: Naveth raised his eyes, and his long face softened for a moment into something close to fondness, the look of a man being recognized at last for a skill he had polished in obscurity for decades.
+              SRC: Naveth looked up, and for a moment something almost fond crossed his face — the look, Cael thought, of a man being recognized for a skill he'd spent decades refining in relative obscurity.
+    [s5 0.58] MS: Re-certification candidates whose old schools drag their feet over a file.
+              SRC: Re-certification candidates whose prior academies drag their feet on releasing files.
+    [s5 0.65] MS: Larger academies that dislike losing a student to a place with worse floors and a better idea.
+              SRC: Enrollment challenges from institutions that don't like losing a student to a place with worse facilities and a better philosophy.
+    [s5 0.67] MS: "I've been walking slowly in front of the Compact since before you Kindled.
+              SRC: "I have been slow-walking the Compact since before you Kindled.
+    [s5 0.61] MS: You happen to be the first case important enough to need all of it at once."
+              SRC: It is, without exaggeration, the single most-practiced skill on this campus, and you happen to be the first case in a decade important enough to justify using all of it at once."
+    [s5 0.69] MS: In my experience it has never once made a determined opponent go away.
+              SRC: It has never once, in my experience, made a determined adversary go away.
+    [s5 0.72] MS: "What it does is turn their timetable into yours, which is worth more than it sounds.
+              SRC: "What it does is convert their timeline into your timeline, which is worth more than it sounds like it's worth.
+    [s5 0.50] MS: A hurried defence loses to a patient prosecution nearly every time.
+              SRC: A rushed defense loses to a patient prosecution nine times out of ten.
+    [s5 0.87] MS: The Compact has more patience than any single office inside it.
+              SRC: The Compact has more institutional patience than any single office within it.
+    [s5 0.67] MS: But offices are made of people, and people get moved to other posts, and lose interest, and retire, and get promoted to somewhere the file stops mattering.
+              SRC: But institutions are made of people who get reassigned, lose interest, retire, get promoted somewhere the file stops mattering to them.
+    [s5 0.64] MS: "If the person handling this on their side is a person and not simply a process, that's better news for us than it sounds.
+              SRC: If whoever's handling this on their end is a person rather than a process, that's actually good news for us.
+    [s5 0.54] MS: "I'm hoping," said Naveth, "that whoever it is has been at this long enough to tell a quarrel worth pressing from one better left to go cold.
+              SRC: "I'm hoping," Naveth said, "that whoever it is has been doing this long enough to know the difference between a fight worth finishing and a fight worth letting cool.
+    [s5 0.78] MS: Most people who last a long time on a quiet file come to have opinions about which is which.
+              SRC: Most people who last this long on a quiet monitoring file develop opinions about which is which.
+chapter-14.md	sentences=207	skeleton=12%	close=23%
+  scene 1	n=35	skeleton=0%	close=6%
+  scene 2	n=43	skeleton=26%	close=49%  <-- over 15%
+  scene 3	n=34	skeleton=0%	close=3%
+  scene 4	n=70	skeleton=11%	close=21%
+  scene 5	n=25	skeleton=24%	close=32%  <-- over 15%
+    [s2 0.50] MS: Cael understood without either of them saying it that this was an answer of its own.
+              SRC: Brom noticed differently, said less about it, and simply started walking with him more often between buildings, which Cael understood, without either of them naming it, as an answer of its own.
+    [s2 0.74] MS: Quenna found him in the archive on the third day and sat down across the long table without being asked, as she always did when she had come to say something and saw no reason to keep him waiting for it.
+              SRC: Quenna found him in the archive on the fourth day and sat across the table without being asked, the way she did when she had something to say and no interest in making him wait for it.
+    [s2 0.89] MS: You'll need it later, and it doesn't come back as fast as you'd like."
+              SRC: You'll need it later, and it doesn't replenish as fast as you'd like."
+    [s2 0.67] MS: He wrote the advice in the margin before he lost it, under a heading that was slowly becoming a whole section of the binder: things Quenna told him that sounded like management at the time and turned out afterward to be true.
+              SRC: He wrote that down too, that night, under a heading that was slowly becoming its own section of the notebook: things Quenna had told him that sounded like management and turned out, later, to be true.
+    [s2 0.62] MS: She did not ask him what was wrong.
+              SRC: She didn't ask him what his answer was.
+    [s2 0.61] MS: When she spoke at last, it was not about the request.
+              SRC: When she finally spoke, it wasn't about the records request at all.
+    [s2 0.67] MS: Your handwriting gets smaller when you're counting dangers instead of findings."
+              SRC: Your handwriting gets smaller when you're inventorying a threat instead of a finding."
+    [s2 1.00] MS: "I hadn't noticed that about my own handwriting."
+              SRC: "I hadn't noticed that about my own handwriting."
+    [s2 0.84] MS: "For what it's worth, as a matter of research, this is a good problem to have.
+              SRC: "For what it's worth, from a research standpoint, this is a good problem to have.
+    [s2 0.52] MS: An institution asking formally for your records is a data point.
+              SRC: An institution taking your file seriously enough to request formal documentation is itself a data point.
+    [s2 0.74] MS: She looked at him then, and something in her face softened the clinical edge of what she had just said.
+              SRC: She finally looked over, and something in her expression softened the clinical edge of what she'd just said.
+    [s4 0.74] MS: She looked at him over her spectacles for a long moment.
+              SRC: Cael looked at her for a long moment.
+    [s4 0.50] MS: The request itself was marked as a standard monitoring matter, and the key had a code for that.
+              SRC: The request itself was logged as standard monitoring-tier compliance.
+    [s4 0.50] MS: He would not spend archive hours chasing it.
+              SRC: I wouldn't spend the archive time chasing it."
+    [s4 0.71] MS: "I don't know the format," she said at last.
+              SRC: "I don't recognize the format," she said finally.
+    [s4 0.59] MS: The Compact changes its internal codes more often than it changes anything a student would ever see, and most of the changes never reach any key I'm allowed to hold.
+              SRC: "Which isn't unusual on its own — the Compact revises its internal coding conventions more often than it revises anything a student would ever see, and half the revisions never make it into any key I have access to.
+    [s4 0.55] MS: "If it were something made for your file in particular, I'd expect it to match the kind of record it travels with.
+              SRC: "If it were something built around your file in particular, I'd expect it to correspond to something in the provision file, since that's the record type it's riding alongside.
+    [s4 0.52] MS: "Or it means something that neither of us has the reference to read.
+              SRC: That's either meaningless, or it's meaningful in a way neither of us has the reference material to see.
+    [s4 0.80] MS: Writing it down because writing things down is cheaper than being wrong about which ones mattered.*
+              SRC: Noting it because noting things is cheaper than being wrong about which ones mattered.*
+    [s5 0.78] MS: "They've known my name ever since Denvash," he said, mostly to himself.
+              SRC: "They've had my name since Denvash," he said, half to himself.
+    [s5 0.85] MS: He sat with the question before he answered, because it deserved that.
+              SRC: He sat with the question before he answered it, because it deserved the sitting.
+    [s5 0.86] MS: This is the first place I've ever stood that belongs to an institution they can make demands of.
+              SRC: This is the first place I've stood that belongs to an institution the Compact can actually make demands of.
+    [s5 0.62] MS: I've just finally stood somewhere with a door they're allowed to knock on."
+              SRC: It's that I finally stood somewhere they had a door to knock on."
+    [s5 0.60] MS: Brom shrugged, carefully, the small economical movement Cael had learned meant the sentence underneath it had been considered for a long time.
+              SRC: Brom shrugged, the small economical motion Cael had learned meant the sentence underneath was more considered than the shrug let on.
+    [s5 1.00] MS: What's changed is that where I am now has walls they think they own.*
+              SRC: What's changed is that where I am now has walls they think they own.*
+chapter-15.md	sentences=185	skeleton=0%	close=9%
+  scene 1	n=39	skeleton=0%	close=10%
+  scene 2	n=25	skeleton=0%	close=16%
+  scene 3	n=21	skeleton=0%	close=5%
+  scene 4	n=31	skeleton=0%	close=0%
+  scene 5	n=29	skeleton=0%	close=10%
+  scene 6	n=28	skeleton=0%	close=18%
+  scene 7	n=12	skeleton=0%	close=0%
+chapter-16.md	sentences=167	skeleton=0%	close=9%
+  scene 1	n=67	skeleton=0%	close=10%
+  scene 2	n=25	skeleton=0%	close=16%
+  scene 3	n=18	skeleton=0%	close=6%
+  scene 4	n=16	skeleton=0%	close=0%
+  scene 5	n=41	skeleton=0%	close=7%
+TOTAL	sentences=1555	skeleton=12%	close=25%
+== book-03-no-path-given M3 (ch17–23)
+chapter-17.md	sentences=216	skeleton=4%	close=11%
+  scene 1	n=29	skeleton=0%	close=7%
+  scene 2	n=89	skeleton=8%	close=19%
+  scene 3	n=27	skeleton=4%	close=7%
+  scene 4	n=21	skeleton=0%	close=0%
+  scene 5	n=50	skeleton=0%	close=6%
+    [s2 0.68] MS: Logged as this month's demonstration assessment under the provision, in the provision's own language: consistent, observable practice.
+              SRC: Full faculty supervision, open to the student body, formally logged as this month's demonstration assessment under the observer provision's own language — *consistent, observable practice.
+    [s2 0.69] MS: "We answer the question it asked, in front of everybody who's asking.
+              SRC: We're answering the actual question it asked, in front of everyone who's asking it."
+    [s2 0.70] MS: He's earned the right to be the one who finds out."
+              SRC: He gets to be the one who finds out."
+    [s2 0.70] MS: It's whether you find it before he finishes the conversation."
+              SRC: The question is whether you can find it before he ends the conversation."
+    [s2 0.55] MS: In eight days most of this school will stand around that ring and watch you fight, and everything you show them will go into the assessment record with two hundred witnesses beside it.
+              SRC: Every student in this academy is about to watch you fight, and everything you show them enters the assessment record with a hundred witnesses attached.
+    [s2 1.00] MS: If Edran beats you, we have a problem.
+              SRC: If Edran beats you, we have a problem.
+    [s2 0.90] MS: "It's the only way I know how to win anymore."
+              SRC: It's the only kind I know how to win anymore."
+    [s3 0.56] MS: *Answer to the Petition of Standing filed by Edran, Glass Path, Iron Rank Two.
+              SRC: *Petition of Student Standing, filed by Edran, Glass Path, Iron-tier Rank 2, regarding training-floor access granted to Unclassified Observer C.
+chapter-18.md	sentences=205	skeleton=1%	close=6%
+  scene 1	n=32	skeleton=3%	close=3%
+  scene 2	n=51	skeleton=2%	close=2%
+  scene 3	n=33	skeleton=0%	close=6%
+  scene 4	n=66	skeleton=2%	close=9%
+  scene 5	n=23	skeleton=0%	close=9%
+    [s1 0.75] MS: I think this is what a question looks like when a school decides to ask it out loud, instead of letting it go round behind my back.*
+              SRC: This is what a question looks like when an institution decides to ask it out loud instead of behind your back.*
+    [s2 0.55] MS: The first three days taught him the Path before they taught him anything about the man.
+              SRC: He gave the study the full treatment he'd given Feryn's Pressure Path and Reydan's Compression architecture, and the first three days taught him the shape of the discipline before they taught him anything useful about the man practicing it.
+    [s4 0.60] MS: He found it the way he had found every seam that mattered, not by watching for a mistake, because Edran almost never made one, but by watching for the place where the precision itself cost something.
+              SRC: It took four more days to find the seam, and he found it the way he'd found Keth's, and Darrow Innes's, and Reydan's before it — not by watching for a mistake, because Edran made almost none, but by watching for the place where precision itself created a cost.
+chapter-19.md	sentences=235	skeleton=1%	close=6%
+  scene 1	n=38	skeleton=3%	close=3%
+  scene 2	n=37	skeleton=0%	close=8%
+  scene 3	n=78	skeleton=0%	close=5%
+  scene 4	n=46	skeleton=2%	close=7%
+  scene 5	n=36	skeleton=3%	close=6%
+    [s1 0.67] MS: He made himself stop counting faces somewhere past fifty, and breathed.
+              SRC: He made himself stop counting faces somewhere around forty and just breathe instead.
+    [s4 0.50] MS: Most fighters, watching their best sequence fail against a gap they had not known they carried, would have needed a moment.
+              SRC: Most opponents, having just watched their strongest sequence fail against a seam they hadn't known they carried, spent a moment absorbing that before deciding what came next.
+    [s5 0.50] MS: It broke into the enormous, churning noise of two hundred people who all needed to say something to the person beside them at once.
+              SRC: Then the quiet broke — not into cheering, Greyvane wasn't a cheering sort of crowd, but into the sudden, total churn of eighty people all needing to say something to the person next to them at once.
+chapter-20.md	sentences=211	skeleton=4%	close=12%
+  scene 1	n=51	skeleton=6%	close=14%
+  scene 2	n=54	skeleton=9%	close=24%
+  scene 3	n=26	skeleton=0%	close=0%
+  scene 4	n=47	skeleton=2%	close=11%
+  scene 5	n=33	skeleton=0%	close=3%
+    [s1 0.59] MS: Edran turned back to Cael and looked at him across the two paces of swept earth with the flat, plain honesty of someone reading a finding off a page rather than conceding a fight.
+              SRC: Edran stood, and looked at him, and said, with the flat honesty of someone reporting a finding rather than conceding a fight: "Whatever you are, it's real.
+    [s1 0.88] MS: Cael understood that clearly, standing in the cold with his own breath still coming hard.
+              SRC: Cael understood that clearly, standing there in the quiet aftermath with his own breath still coming hard.
+    [s1 0.80] MS: It was something narrower than friendship and in its own way just as valuable.
+              SRC: Something else — narrower, and in its own way just as valuable.
+    [s2 0.50] MS: She always did, after fights; it was one of the few things in his life that had stopped needing verification.
+              SRC: Lira and Brom found him before he found them — they always did, after fights; it was one of the constants he'd stopped bothering to write down because it had stopped needing verification.
+    [s2 0.73] MS: And you gave it to him at your full attention, every bit of it, which he'll know when he goes over it tonight.
+              SRC: And you gave it to him at full attention, which he'll know, when he thinks about it later.
+    [s2 0.82] MS: On the floor, in public, in his own words, for the record.
+              SRC: "Withdraw-on-the-floor, in public, in his own words.
+    [s2 0.94] MS: That cost him more than losing the bout did.
+              SRC: That cost him more than the bout did.
+    [s2 0.84] MS: He let the sentence stand on its own for a moment, giving it the weight he plainly thought it deserved.
+              SRC: He let the sentence stand alone for a moment, giving it the weight he clearly thought it deserved.
+    [s4 0.82] MS: On the floor, in public, for the record, in his own words.
+              SRC: "Withdraw-on-the-floor, in public, in his own words.
+chapter-21.md	sentences=198	skeleton=5%	close=15%
+  scene 1	n=18	skeleton=0%	close=0%
+  scene 2	n=77	skeleton=4%	close=9%
+  scene 3	n=24	skeleton=4%	close=8%
+  scene 4	n=42	skeleton=2%	close=12%
+  scene 5	n=37	skeleton=14%	close=43%
+    [s2 0.67] MS: The work itself was plainer than anyone watching from the rail would have guessed.
+              SRC: The sessions themselves were plainer than anyone watching from outside would have guessed.
+    [s2 0.67] MS: He ran the Wind-adjacent framework at half speed while Karis timed his recovery between passes against a mark on her page, and at the working speed while she timed it again.
+              SRC: He ran the Wind-adjacent evasion framework at half intensity while she timed his recovery intervals against a mark on her page.
+    [s2 0.63] MS: Karis had written him down and then asked him whether she had written him down right, as if the gap between what she had heard and what he had meant were a thing worth chasing down to the last word.
+              SRC: Karis transcribed him, and then asked whether the transcription was accurate, as if the difference between what she'd heard and what he'd meant were a quantity worth chasing down to the last decimal.
+    [s3 0.74] MS: Lira was in the corner of the bench with her boots off and one foot tucked under her, reading a thick brown book on defensive theory that Wray had lent her, with the expression of somebody auditing an opponent rather than studying a subject.
+              SRC: Lira was reading in the corner chair, boots off, one foot tucked under her, working through a defensive-theory text Wray had loaned her with the expression of someone auditing an opponent rather than studying a subject.
+    [s4 0.51] MS: She paused, and he knew from the pause that she had arrived at the part that mattered most.
+              SRC: She paused, the way she did when she was about to say the part that mattered most.
+    [s5 0.65] MS: He was aware of Brom's spoon resting against the rim of his bowl at an angle that would have let it slide in and drown if Brom had been paying attention to anything but Karis.
+              SRC: He was aware, distantly, of the coals ticking in the grate, of Brom's spoon resting against the rim of the bowl at an angle that would have slid it in and drowned it if Brom had been paying attention to anything except Karis, of Lira's finger still holding her page in a book she was no longer reading.
+    [s5 0.90] MS: That was the thing he kept coming back to in the long seconds while nobody spoke.
+              SRC: That was the thing he kept returning to, in the long seconds while nobody spoke.
+    [s5 0.60] MS: "I didn't want you to work out the shape of it from what I do and don't ask.
+              SRC: I just thought you should hear the shape of it from me directly, rather than piece it together from what I do and don't ask."
+    [s5 0.50] MS: She studied Karis across the bench for a long moment with an expression Cael could not wholly read, some column being added up behind her eyes.
+              SRC: Lira looked up from her book then, at last, and studied Karis across the room for a moment with an expression Cael couldn't fully parse — some measurement being taken, some column being totted up.
+    [s5 0.70] MS: Whatever the total was, she did not say it aloud.
+              SRC: Whatever the total came to, she didn't say it aloud.
+chapter-22.md	sentences=169	skeleton=12%	close=24%
+  scene 1	n=24	skeleton=8%	close=25%
+  scene 2	n=25	skeleton=24%	close=40%  <-- over 15%
+  scene 3	n=47	skeleton=0%	close=6%
+  scene 4	n=27	skeleton=0%	close=0%
+  scene 5	n=46	skeleton=26%	close=46%  <-- over 15%
+    [s1 0.50] MS: The fragment had arrived after months of sparring with her every morning in Ardenmere, before either of them had money for anything better, months in which he had watched her move with the whole of his attention, because his attention was the only thing he had that she did not.
+              SRC: Lira's Wind — arrived after months of sparring, months of watching her move with his whole attention because his whole attention was the only advantage he had.
+    [s1 0.54] MS: Its notice had come at the top of the hardest fight of his life, against an opponent he had watched more closely than any opponent before, in the third exchange, when he had nearly lost and had reached for something with every scrap of attention he had left.
+              SRC: Reydan — at the crest of the hardest fight of his life, against the opponent he had watched more closely than any before.
+    [s2 0.51] MS: From the first nameless thing that had moved him the way Lira moved, in a sparring circle in Ardenmere, through every notice since, they had come on their own schedule, without being asked, like weather.
+              SRC: That was the fact he had built his entire relationship to his own ability around, from the first unnamed thing that had let him move like Lira in a training yard through every acquisition since: they came on their own schedule, unbidden, like weather.
+    [s2 0.53] MS: It was what let him think of himself as somebody things happened to and not somebody who did things, and that difference had mattered enormously to a boy who had been handed his classification at fourteen by people who never once asked what he thought he was.
+              SRC: The not-choosing had been, he realized now, load-bearing in a way he'd never examined — it was the thing that let him think of himself as someone things happened to rather than someone who did things, a distinction that mattered enormously to a boy who had spent a year and a half being handed classifications by people who'd never once asked his opinion about what he actually was.
+    [s2 0.51] MS: Everything in his file agreed on that grammar, and so did everything in the Compact's patient, faraway ledger of his life: Cael, the object, and the world, the subject.
+              SRC: Everything in his file, everything in his history, everything in the Compact's patient distant ledger of his existence agreed on the grammar of it: Cael, object.
+    [s2 0.72] MS: He had hated that grammar, and he had leaned on it anyway, his whole life, because its other side had never once occurred to him.
+              SRC: He had hated that grammar for a year and a half and leaned on it anyway, because its alternative had never once occurred to him.
+    [s2 0.76] MS: If it could be aimed, the not-choosing had been a story he told himself.
+              SRC: If it could be directed, the not-choosing was a story he'd told himself.
+    [s2 0.55] MS: Something in him had looked at people, and kept looking, and taken, working below the level where he could watch it work, taking from the people he cared about most in the world without his knowing or theirs, on a schedule he had told himself for years that nobody had any say in.
+              SRC: It had been something closer to appetite, operating below the threshold where he could see it working, taking from the people he loved most in the world without his conscious knowledge or their conscious consent, on a schedule he'd told himself, for a year and a half, that neither he nor anyone else had any say in.
+    [s5 0.59] MS: Brom found people the way weather finds valleys, without any intention he would admit to, entirely reliably, and once he had arrived he settled.
+              SRC: Brom found people the way weather systems found valleys — without apparent intention, reliably, and with a settling quality once arrived.
+    [s5 0.70] MS: That was Brom's method, so far as he would admit to having one: he let the quiet make the opening argument.
+              SRC: That was Brom's method, insofar as Brom admitted to having one: he let the silence do the opening argument.
+    [s5 0.63] MS: "Two days after Karis says it might be aimable.
+              SRC: "The morning after Karis says the thing might be aimable.
+    [s5 0.64] MS: "I can't tell anymore what I'm doing when I watch.
+              SRC: "I don't know what I'm doing when I watch anymore," Cael said.
+    [s5 0.74] MS: Brom considered that with the thoroughness he gave everything, and Cael could feel him turning it over the way he would turn an opponent's stance to find where the weight really sat.
+              SRC: Brom considered that with the thoroughness he gave everything, turning it the way he'd turn an opponent's stance, looking for where the weight actually sat.
+    [s5 0.83] MS: "First month we trained, in Ardenmere, you watched me like a ledger.
+              SRC: "First month we trained," he said, "you watched me like a ledger.
+    [s5 0.54] MS: Everybody who's ever stood across a circle from you knows.
+              SRC: Everyone who's ever stood across from you knows it — it's the least hidden thing about you.
+    [s5 0.76] MS: "You think the watching changed what it was because she gave it a name on Wednesday?"
+              SRC: You think the watching changed its nature because she gave it a name?"
+    [s5 0.75] MS: "I think it might always have been something I didn't know about."
+              SRC: "I think it might have had a nature I didn't know about."
+    [s5 0.82] MS: Brom was quiet for another bout's worth of the floor below.
+              SRC: Brom was quiet for another exchange's worth of the bout below.
+    [s5 0.73] MS: "When Wray corrects my footwork, she isn't stealing my balance."
+              SRC: "When Wray corrects my footwork," he said, "he's not stealing my balance.
+    [s5 0.53] MS: And the worst version isn't the only one that fits.
+              SRC: I'm saying you've been assuming the worst grammar available since last night, and the worst grammar isn't the only one that fits the facts.
+chapter-23.md	sentences=168	skeleton=14%	close=29%
+  scene 1	n=72	skeleton=32%	close=62%  <-- over 15%
+  scene 2	n=21	skeleton=0%	close=10%
+  scene 3	n=21	skeleton=0%	close=5%
+  scene 4	n=25	skeleton=0%	close=4%
+  scene 5	n=29	skeleton=0%	close=0%
+    [s1 0.67] MS: "I think I might have taken from you," he said.
+              SRC: "I might have been taking from you on purpose," he said.
+    [s1 0.79] MS: If she's right, then what happened with your framework, in Ardenmere, in the mornings, wasn't something that happened near me.
+              SRC: If she's right, then what happened with your Wind-adjacent framework wasn't something that just happened near me.
+    [s1 0.54] MS: He made himself wait for it with his hands flat on the cold stone, because hurrying her through this would have been its own small taking, one more thing had from her unasked, and he meant to be finished with those, or wanted to mean it.
+              SRC: She looked out at the dark shape of the training yard, the way she did when she was actually thinking rather than performing having thought, and Cael made himself wait for it, hands flat on the cold stone of the wall, because rushing her through this would have been its own small theft — one more thing taken without asking, and he was done with those, or wanted to be.
+    [s1 0.59] MS: "You told me what you knew," Lira said at last, "when you knew it."
+              SRC: "You told me what you knew, when you knew it," she said finally, steady, no give in it at all.
+    [s1 0.74] MS: You told me the day you were sure there was something to tell.
+              SRC: "You told me in Ardenmere, the moment you understood there was something to tell.
+    [s1 0.59] MS: "I can't forgive you for something you didn't know you were doing, Cael.
+              SRC: There's nothing to forgive in a thing you didn't know you were doing, Cael.
+    [s1 0.51] MS: She bumped her shoulder against his, the old worn knock from more walls than either of them could count.
+              SRC: She bumped her shoulder against his, the old familiar gesture, worn smooth by a year and a season of use.
+    [s1 0.91] MS: "You want to know what would cost you with me?
+              SRC: "You want to know what would actually cost you something with me?
+    [s1 0.55] MS: You're sitting on a frozen wall telling me before you even know it's true."
+              SRC: You're not doing it now, sitting here telling me before you've even confirmed it's true.
+    [s1 0.80] MS: "So stop apologizing for something you haven't done yet, and go and find out whether it's real."
+              SRC: "So stop apologizing for a thing you haven't done yet, and go figure out whether it's even real."
+    [s1 0.80] MS: "I'm afraid of most of what's coming for you, if you want the whole ledger.
+              SRC: "I'm afraid of most of what's ahead of you, if you want the full ledger.
+    [s1 0.78] MS: I'm afraid of the Compact the day it stops being patient.
+              SRC: I'm afraid of what the Compact does when it stops being patient.
+    [s1 0.59] MS: "I'm afraid of the bill, every time the thing in you comes out bigger than anybody measured it last.
+              SRC: I'm afraid of what it costs you every time the thing in you turns out to be bigger than the last measurement said it was.
+    [s1 0.84] MS: "If there's a handle, better your hand than nobody's.
+              SRC: If it has a handle, better your hand than nobody's.
+    [s1 0.55] MS: "Better my hand than nobody's," he said after her, slowly, testing how much it would hold.
+              SRC: "Better my hand than nobody's," he repeated, slowly, trying the weight of it.
+    [s1 0.94] MS: "That's what her hypothesis means, if it's true.
+              SRC: "That's what her hypothesis actually means, if it's true.
+    [s1 0.58] MS: It was the covenant from Ardenmere, made over again under a load it had never been meant to carry, and it had held anyway, because things that had been built properly the first time tended to hold when the weight went up.
+              SRC: It was the covenant from a year and a season ago, renewed under a heavier load than it had carried the first time, and it held anyway, the way things that were built correctly the first time tended to hold when the load increased.
+    [s1 0.55] MS: He stayed on the wall long after she had gone in, while the cold came through his coat and the lamps of the town went out below him one and then another, each one a household closing its accounts for the day.
+              SRC: He sat on the wall a while after she'd gone in, letting the cold work through his coat, watching the last lamps go out down the hill one by one, each small extinguishing a household closing its ledger on the day.
+    [s1 0.75] MS: The world was full of people keeping accounts.
+              SRC: The world was full of keepers of accounts.
+    [s1 0.69] MS: He had been one himself his whole life, and he had never once audited the account that mattered most, the one written into his own architecture, in handwriting he was only now beginning to think might be his own.
+              SRC: He'd been one his whole life without ever once auditing the account that mattered most, the one written in his own architecture, in a hand he was only now learning might be his.
+    [s1 1.00] MS: *If it can be directed, I have to learn to direct it.
+              SRC: *If it can be directed, I have to learn to direct it.
+    [s1 1.00] MS: Not-knowing is the version that eventually gets someone killed.*
+              SRC: Not-knowing is the version that eventually gets someone killed.*
+    [s1 0.50] MS: He read it back once by the light from the residence wing's one lit window, and understood as he closed the binder that the fear underneath the sentence had never really been about power.
+              SRC: He read the sentence back once, and understood, closing the log, that the fear underneath it wasn't really about power at all.
+TOTAL	sentences=1402	skeleton=5%	close=14%
+== book-03-no-path-given M4 (ch24–31)
+chapter-24.md	sentences=189	skeleton=4%	close=17%
+  scene 1	n=22	skeleton=0%	close=9%
+  scene 2	n=38	skeleton=5%	close=16%
+  scene 3	n=27	skeleton=4%	close=26%
+  scene 4	n=47	skeleton=6%	close=15%
+  scene 5	n=33	skeleton=0%	close=9%
+  scene 6	n=22	skeleton=9%	close=32%
+    [s2 0.91] MS: The envelope was already on the table when she came in.
+              SRC: The envelope was already on the table when they came in.
+    [s2 0.59] MS: "You're entitled to read it before the panel does.
+              SRC: You're entitled to review it before we begin.
+    [s3 0.54] MS: She had braced for a lot of things over two years of not reading it, and she had braced well, the way she braced for a bout against somebody bigger.
+              SRC: She had braced for a great many versions of this document, over two years of not reading it.
+    [s4 0.52] MS: Every night, with myself, about what I did wrong and what I ought to have said and whether I had it coming.
+              SRC: "Two years of every conversation I've had with myself about what I did wrong, what I should have said differently, whether I deserved it — organized around four paragraphs and a room that wasn't even a hearing.
+    [s4 0.60] MS: Lira laughed then, once, a short ugly sound with nothing behind it.
+              SRC: Lira laughed, once, a short and humorless sound.
+    [s4 0.88] MS: "I don't know whether that's better or worse."
+              SRC: "I don't know if that's better or worse."
+    [s6 0.62] MS: He sat back down at the desk and looked at the clean page for a long time.
+              SRC: He looked at the sentence for a long time.
+    [s6 0.53] MS: He read it back and added a line underneath.
+              SRC: He read it back, added nothing, and closed the notebook.
+chapter-25.md	sentences=192	skeleton=7%	close=16%
+  scene 1	n=59	skeleton=7%	close=19%
+  scene 2	n=32	skeleton=12%	close=22%
+  scene 3	n=53	skeleton=2%	close=8%
+  scene 4	n=48	skeleton=8%	close=19%
+    [s1 1.00] MS: "I want to offer myself as a source."
+              SRC: "I want to offer myself as a source.
+    [s1 0.90] MS: If it can't, we'll know that too, and it will still be worth knowing."
+              SRC: If it can't, we'll have learned that too, and it will still be worth knowing."
+    [s1 0.72] MS: That may be the only clean version of this anybody will ever be able to run.
+              SRC: That might be the only ethically clean version of this experiment anyone is ever going to be able to run."
+    [s1 0.50] MS: "And if it doesn't, we've closed a door, and I'll know where the wall is.
+              SRC: "And if it doesn't work, we've eliminated a variable, and I'd still rather know than not know.
+    [s2 0.50] MS: When he had finished she was quiet for a long time.
+              SRC: He looked at the sentence for a long time.
+    [s2 0.64] MS: "I told you on this wall to go and find out whether it was real.
+              SRC: "I told you to go figure out whether it's real.
+    [s2 0.75] MS: This is what finding out looks like, when somebody walks up and hands you the honest way to do it with both hands.
+              SRC: This is what figuring out looks like when someone hands you the honest way to do it.
+    [s2 0.59] MS: She knows what she's offering better than any of us ever did.
+              SRC: She knows what she's volunteering for better than any of us did — that's the entire difference, and it's not a small one.
+    [s3 0.50] MS: Karis did not move for a long moment.
+              SRC: Lira looked at him for a long moment.
+    [s4 0.52] MS: And underneath the watching, for the first time in his life on purpose, he reached.
+              SRC: And underneath the watching, he reached for it.
+    [s4 0.76] MS: "Nothing," he said at the end, more to the floor than to her.
+              SRC: "Nothing," he said, at the end of it, more to his own notebook than to her.
+    [s4 0.60] MS: "We now know that demonstration intensity, sustained observation at nine paces, and deliberate intent on your part are not, together, sufficient.
+              SRC: "We now know demonstration-intensity declaration, sustained visual observation, and directed intent are not, on their own, sufficient conditions.
+    [s4 0.89] MS: "It feels like nothing because you were hoping.
+              SRC: "It feels like nothing because you were hoping for something.
+chapter-26.md	sentences=229	skeleton=4%	close=13%
+  scene 1	n=30	skeleton=0%	close=7%
+  scene 2	n=70	skeleton=0%	close=6%
+  scene 3	n=25	skeleton=12%	close=12%
+  scene 4	n=57	skeleton=2%	close=12%
+  scene 5	n=47	skeleton=11%	close=30%
+    [s3 0.50] MS: Cael heard it, and then heard it again in his own head, to be sure of the words, and then a third time, because he could not stop.
+              SRC: He read it twice, to be sure of the words, and then looked at the words a third time anyway.
+    [s3 0.63] MS: That was the thing he knew better than almost anybody alive.
+              SRC: He knew that better than almost anyone alive.
+    [s3 0.63] MS: His whole life at Greyvane stood on that one fact.
+              SRC: His whole life at Greyvane was balanced on it.
+    [s4 0.75] MS: Brom looked at her for a long moment.
+              SRC: Lira looked at him for a long moment.
+    [s5 0.54] MS: "The records know what happened here," she said, slowly, as if she were testing the weight of each word before she put her own on it.
+              SRC: "The records know what happened here," she said, testing the words.
+    [s5 0.76] MS: For the day it stops being me proving something to some office, and starts being some office admitting something to me."
+              SRC: "For the day it stops being about me proving something to an institution, and starts being about an institution finally admitting something to me."
+    [s5 0.53] MS: Just the sort of thing you hit if you get good enough to hit it."
+              SRC: Just an ordinary wall, the sort training runs into eventually if you get good enough.
+    [s5 0.51] MS: Lira reached over and knocked her shoulder against his, and winced because it was the bruised one, and did it again with the other on principle, and Brom made the low sound in his chest that did him for a laugh.
+              SRC: Lira reached over and knocked her shoulder against Brom's, once, the way she did when words weren't going to improve on the gesture — then winced, because it was the bruised shoulder, and did it again anyway with the other one, on principle, which got the closest thing to a smile out of Brom the afternoon had produced.
+    [s5 0.77] MS: He wrote it that night in the binder, in the plain hand he kept for evenings that changed the shape of things.
+              SRC: Cael wrote it down that night, in the log, in the plain evening entry he kept for the days that changed the shape of things.
+chapter-27.md	sentences=200	skeleton=1%	close=6%
+  scene 1	n=80	skeleton=1%	close=5%
+  scene 2	n=44	skeleton=0%	close=7%
+  scene 3	n=30	skeleton=0%	close=3%
+  scene 4	n=24	skeleton=0%	close=4%
+  scene 5	n=22	skeleton=5%	close=9%
+    [s1 0.67] MS: The procedure had done exactly what it was written to do.
+              SRC: This place had done exactly what it promised to do.
+    [s5 0.70] MS: Prynn looked at her over the spectacles for a long moment.
+              SRC: Lira looked at the envelope for a long moment.
+chapter-28.md	sentences=185	skeleton=1%	close=6%
+  scene 1	n=45	skeleton=0%	close=4%
+  scene 2	n=41	skeleton=0%	close=0%
+  scene 3	n=30	skeleton=0%	close=7%
+  scene 4	n=46	skeleton=0%	close=9%
+  scene 5	n=23	skeleton=4%	close=13%
+    [s5 0.64] MS: Under her hand even his nothing was worth getting exactly right.
+              SRC: Under her instruments, even his nothing was worth writing down accurately.
+chapter-29.md	sentences=176	skeleton=2%	close=9%
+  scene 1	n=48	skeleton=4%	close=15%
+  scene 2	n=24	skeleton=0%	close=0%
+  scene 3	n=17	skeleton=0%	close=0%
+  scene 4	n=39	skeleton=0%	close=10%
+  scene 5	n=31	skeleton=3%	close=13%
+  scene 6	n=17	skeleton=0%	close=6%
+    [s1 0.67] MS: He sat looking at it for a long time.
+              SRC: He looked at the sentence for a long time.
+    [s1 0.52] MS: He read it back, and it had the feel of a true thing.
+              SRC: He read it back, added nothing, and closed the notebook.
+    [s5 0.59] MS: I don't know whether that's good arithmetic or bad."
+              SRC: "I don't know if that's better or worse."
+chapter-30.md	sentences=201	skeleton=4%	close=12%
+  scene 1	n=70	skeleton=1%	close=9%
+  scene 2	n=21	skeleton=0%	close=10%
+  scene 3	n=76	skeleton=9%	close=18%
+  scene 4	n=15	skeleton=7%	close=13%
+  scene 5	n=19	skeleton=0%	close=5%
+    [s1 0.50] MS: He read it back, and then he added the line Lira had asked for.
+              SRC: He read it back, added nothing, and closed the notebook.
+    [s3 1.00] MS: "Tell me everything you remember about the conditions."
+              SRC: "Tell me everything you remember about the conditions."
+    [s3 0.50] MS: Every answer built the same picture his notes had always built, a working afternoon like a hundred others with one second in the middle of it that did not belong.
+              SRC: He answered everything, and the answers built exactly the picture his notes had always built: a day distinguished by nothing except the one indistinguishable second at the middle of it.
+    [s3 0.57] MS: It was the frown of somebody whose model has just been handed a stone it has no pocket for.
+              SRC: She said it without heat, the frustration of someone whose model had just been handed a data point it had no room for.
+    [s3 0.74] MS: "I have one category in this whole notebook that gets that mark," she said.
+              SRC: "I have exactly one category in this entire notebook that gets this mark.
+    [s3 0.75] MS: It's a fact I don't understand, written down as a fact I don't understand, instead of squeezed into some explanation that would comfort me and teach me nothing.
+              SRC: It's a fact I don't understand yet, filed honestly as a fact I don't understand yet, instead of forced into an explanation that would make me feel better and teach me nothing true."
+    [s3 0.73] MS: He looked at the mark for a long time across the scrubbed floor.
+              SRC: He looked at the sentence for a long time.
+    [s3 0.50] MS: He had carried session nine since the road the way a person carries a stone in a boot that nobody else can see, a weight nobody else would credit because it was a weight with no shape.
+              SRC: He had carried session nine for months the way you carried a stone whose weight nobody else would credit.
+    [s4 0.81] MS: She marked it real, unexplained, keep, and it's the only entry in her notebook with that mark.*
+              SRC: Karis marked it "real, unexplained, keep" — the only entry in her notebook with that classification.
+chapter-31.md	sentences=184	skeleton=1%	close=8%
+  scene 1	n=65	skeleton=2%	close=2%
+  scene 2	n=65	skeleton=2%	close=15%
+  scene 3	n=34	skeleton=0%	close=0%
+  scene 4	n=20	skeleton=0%	close=15%
+    [s1 0.75] MS: She looked at it for a long moment.
+              SRC: Lira looked at him for a long moment.
+    [s2 0.83] MS: Something else closes it, and whatever it is, it isn't in this room.
+              SRC: Something else closes it, and it isn't present in this room."
+TOTAL	sentences=1556	skeleton=3%	close=11%
+== book-03-no-path-given M5 (ch32–39)
+chapter-32.md	sentences=210	skeleton=4%	close=12%
+  scene 1	n=25	skeleton=0%	close=8%
+  scene 2	n=50	skeleton=8%	close=18%
+  scene 3	n=26	skeleton=8%	close=23%
+  scene 4	n=69	skeleton=3%	close=7%
+  scene 5	n=40	skeleton=2%	close=10%
+    [s2 0.52] MS: "The panel would like a look at the observer against an Iron-tier opponent at full intensity."
+              SRC: The panel would see an observer tested against Iron-tier.
+    [s2 0.57] MS: She had never seen the binder or heard the word *acquisition* from anybody.
+              SRC: She had never been told the word *acquisition*.
+    [s2 0.59] MS: Quenna slid the sheet across the desk to her.
+              SRC: Quenna slid a single sheet across the table.
+    [s2 1.00] MS: I want to be the first documented source.
+              SRC: *I want to be the first documented source.
+    [s3 0.50] MS: You've watched me at demonstration intensity for three weeks in a room.
+              SRC: He had watched her run drills at demonstration intensity for six weeks.
+    [s3 0.53] MS: He looked at her for a long moment in the cold.
+              SRC: He looked at the sentence a long time.
+    [s4 0.88] MS: "She writes a better waiver than Fenmark ever wrote an expulsion," she said.
+              SRC: "She writes a better waiver than Fenmark writes an expulsion," she said.
+    [s4 0.89] MS: "I don't know whether to be impressed or frightened."
+              SRC: "I don't know whether to be impressed or worried."
+    [s5 0.62] MS: Cael watched him go and thought it was exactly what Edran had promised on the exhibition floor, a witness, and that it had begun to run in both directions.
+              SRC: It was, Cael thought, exactly what Edran had promised on the exhibition floor — witness — running now in both directions.
+chapter-33.md	sentences=196	skeleton=2%	close=11%
+  scene 1	n=99	skeleton=0%	close=6%
+  scene 2	n=41	skeleton=2%	close=10%
+  scene 3	n=31	skeleton=6%	close=23%
+  scene 4	n=11	skeleton=0%	close=18%
+  scene 5	n=14	skeleton=0%	close=21%
+    [s2 0.71] MS: Hobb looked at the floor for a long time.
+              SRC: He looked at the sentence a long time.
+    [s3 0.88] MS: She turns the floor into an argument, and then she wins the argument.
+              SRC: *She converts the floor into an argument, and then wins the argument.
+    [s3 0.53] MS: She's proudest of the joins, so the joins are where she's drilled the most answers.
+              SRC: The connections are the trap she's proudest of, which means they're the trap she's drilled the most answers for."
+chapter-34.md	sentences=183	skeleton=2%	close=11%
+  scene 1	n=28	skeleton=0%	close=4%
+  scene 2	n=20	skeleton=0%	close=10%
+  scene 3	n=21	skeleton=0%	close=0%
+  scene 4	n=43	skeleton=0%	close=9%
+  scene 5	n=38	skeleton=0%	close=5%
+  scene 6	n=33	skeleton=12%	close=33%
+    [s6 0.78] MS: "Vell taught you one opponent at a time.
+              SRC: "Vell taught you against one opponent's rhythm at a time.
+    [s6 0.52] MS: Lira got up, slowly, and held out a hand, which he did not need and took anyway.
+              SRC: She got up, offered him a hand he mostly didn't need but took anyway.
+    [s6 0.84] MS: I've just never once seen you get there against something with this many pieces before you've even—"
+              SRC: I've just never seen you get there against something with this many moving pieces before you've even acquired anything from it."
+    [s6 0.64] MS: It sat at every meal anyway, like a fifth chair pulled up to the table that nobody looked at.
+              SRC: It sat at every meal like a fifth chair.
+chapter-35.md	sentences=167	skeleton=7%	close=21%
+  scene 1	n=42	skeleton=5%	close=17%
+  scene 2	n=17	skeleton=12%	close=18%
+  scene 3	n=47	skeleton=0%	close=11%
+  scene 4	n=61	skeleton=11%	close=33%
+    [s1 0.56] MS: The panel would see the observer tested against Iron-tier at full intensity, and the four of them would see something else.
+              SRC: The panel would see an observer tested against Iron-tier.
+    [s1 0.52] MS: The sheet on the board would satisfy both and tell neither everything, and Quenna had signed it, and every word on it was true.
+              SRC: The document would satisfy both audiences and inform neither of them fully, and Quenna would sign it, and it would be true.
+    [s2 0.59] MS: He knew her ignition to a quarter of a second and she knew his recovery to a count.
+              SRC: He knew her ignition latency to a quarter-second.
+    [s2 0.52] MS: Tomorrow both notebooks would be set against each other at full intensity, on a public floor, in front of a panel, in a contest that nobody had ever written down before.
+              SRC: Tomorrow the two notebooks would be set against each other at match intensity, in front of a panel, on a public floor, and whatever else happened, the documentation would be unprecedented.
+    [s4 0.75] MS: She sat down across from him and folded her hands on the table where the notebook should have been.
+              SRC: Now she sat down across from him, folded her hands on the empty table where the notebook should have been, and looked at the space it should have occupied.
+    [s4 0.70] MS: "I want to say something to you that I can't write down and give to anybody.
+              SRC: "I wanted to say something to you that I couldn't write down and give to Quenna's file, because it isn't research.
+    [s4 0.84] MS: "That's the first coaching you've ever given me."
+              SRC: "That's the first coaching you've ever given me," he said finally.
+    [s4 0.73] MS: But I do know how you teach somebody to quit watching themselves long enough to fight.
+              SRC: But I know how to teach someone to stop watching themselves fight long enough to actually fight.
+    [s4 0.58] MS: They'd be very surprised to hear what I was using it for."
+              SRC: That much, Ternhall did teach me, even if they'd be appalled to learn what I was using it for."
+    [s4 0.79] MS: She went out before he could ask her what she meant by the last part, which he suspected she had intended: it was a sentence built to be carried into sleep unfinished, so that it would still be sitting there in the morning when the panel called his name.
+              SRC: She left before he could ask her what she meant by that last part, which he suspected was deliberate — a sentence built to be carried into sleep unresolved, so it would still be sitting there, unfinished, when the panel called his name in the morning.
+    [s4 0.50] MS: The reading room ticked and settled round him as old buildings do at night, the stone of the waystation letting the day's small warmth go out of it a little at a time.
+              SRC: The reading room ticked and settled around him the way old buildings did at night, four hundred years of waystation stone letting go of the day's heat.
+chapter-36.md	sentences=302	skeleton=7%	close=25%
+  scene 1	n=37	skeleton=8%	close=19%
+  scene 2	n=221	skeleton=6%	close=20%
+  scene 3	n=44	skeleton=14%	close=52%
+    [s1 0.53] MS: What was left was a match, against the best-trained fighter he had ever faced, and by every honest reckoning he was going to lose it.
+              SRC: There was a match against the best formally trained opponent he had ever faced, and he was, by every sober accounting, likely to lose it, and his entire job was to make losing it as expensive as possible.
+    [s1 0.52] MS: At the gate from the main hall, where the noise of the crowd came through the old timber like surf on a shingle beach, Lira stopped.
+              SRC: At the hall doors, where the noise of the gathering gallery came through the wood like surf, Lira finally delivered the whole of her tactical counsel: "Feet first.
+    [s1 0.52] MS: Brom considered the gate, and then Cael, and then the gate again.
+              SRC: Brom considered the door, then Cael, then produced his own: "She's proud of the geometry.
+    [s2 0.73] MS: She came out of her mark already in the middle of her argument.
+              SRC: She came out of her mark already mid-argument.
+    [s2 0.59] MS: At the rail, Lira had both hands flat on the wood and her face had not changed at all, which was how he knew how bad it was.
+              SRC: At the rail, Lira's expression had not changed, which was how he knew it was bad.
+    [s2 0.60] MS: It was beautiful, if you were in a position to see it as a whole, and he was not.
+              SRC: She came to finish it, and the finishing was beautiful, if you were in a position to appreciate it, which he was not, because he was inside it.
+    [s2 0.58] MS: It was the deep silence he knew from the circuit, the silence of a crowd that has forgotten it is a crowd, three hundred people breathing quietly round a single moving problem.
+              SRC: The gallery had gone entirely silent by then, the deep bout-silence he knew from the circuit, a hundred people breathing quietly around a single moving problem.
+    [s2 0.51] MS: But the framework was answering slower with every call, every slip coming a hair later than the one before it, and Karis did with that what she did with any reading that would not hold still.
+              SRC: But the framework was answering slower with every call on it, each redirect arriving a shaved fraction later than the last, and Karis was doing what Karis did with data: compensating.
+    [s2 0.58] MS: She stopped laying where he was and began laying where his lateness would put him.
+              SRC: She started aiming where his lateness would put him.
+    [s2 0.59] MS: The points came in pairs now, two at a time, faster than the read could price them.
+              SRC: The points went down in pairs now, faster than the surface read could price them, her whole first-exchange patience converted into closing speed.
+    [s2 0.70] MS: He knew her as he knew his own handwriting.
+              SRC: He knew her architecture the way he knew his own notebook.
+    [s2 0.71] MS: It was not a decision the way decisions usually came to him, weighed and turned over and written down afterward in the square hand.
+              SRC: It was not a decision in the way decisions usually felt to him — weighed, considered, written down afterward in careful handwriting.
+    [s2 0.89] MS: The yard did not know what it was watching.
+              SRC: The gallery did not know what it was watching.
+    [s2 0.61] MS: Lira had both hands locked on the rail.
+              SRC: At the far end of the rail, Lira had both hands locked on the wood.
+    [s2 0.82] MS: Brom had not moved at all, but Brom's stillness came in grades, and this was the deepest one Cael had ever seen.
+              SRC: Brom had not moved at all, but Brom's stillness had grades, and this was the deepest one.
+    [s2 0.72] MS: Nobody in the yard seemed to care about the ruling at all.
+              SRC: Nobody in the room seemed to care about the ruling in the slightest.
+    [s3 0.63] MS: His hands were shaking by the time it came.
+              SRC: Cael's hands were shaking by the time the notice arrived.
+    [s3 0.87] MS: Every notice he had ever received had stopped at the note.
+              SRC: Every notice he had ever received had ended at the note line.
+    [s3 0.61] MS: Every fragment before this one had come on a timetable he had mistaken for the sky, because he had never in his life tried to take hold of the handle.
+              SRC: Every fragment before this one had simply arrived on a schedule he'd mistaken for weather, because he had never once, in a year and a half, tried to reach for the handle.
+    [s3 0.70] MS: Karis dropped down onto the earth beside him, still breathing hard, still lit up with the charged, trembling stillness of somebody whose whole life's question had just answered itself in front of a panel.
+              SRC: Karis dropped down beside him, still catching her breath, still radiating the charged electric stillness of a person whose life's central question had just answered itself in front of a faculty panel.
+    [s3 0.64] MS: There did not seem to be a sentence made for it.
+              SRC: There didn't seem to be a sentence built for exactly this.
+    [s3 0.88] MS: "It has a field for that," said Cael.
+              SRC: "It has a field for that," Cael agreed.
+chapter-37.md	sentences=214	skeleton=12%	close=22%
+  scene 1	n=21	skeleton=0%	close=0%
+  scene 2	n=47	skeleton=0%	close=6%
+  scene 3	n=37	skeleton=30%	close=41%  <-- over 15%
+  scene 4	n=59	skeleton=19%	close=39%  <-- over 15%
+  scene 5	n=18	skeleton=22%	close=33%  <-- over 15%
+  scene 6	n=32	skeleton=0%	close=3%
+    [s3 0.58] MS: Her voice was pitched for two people, though the yard was empty.
+              SRC: She said it at the end, racking the practice batons, her back to him, voice pitched for two people only even though the yard was empty.
+    [s3 0.74] MS: "Since Ardenmere I've seen that framework miss exactly never.
+              SRC: In eighteen months I've seen that framework miss exactly never.
+    [s3 0.50] MS: It's the only one I've got for anything this morning."
+              SRC: It's also the only answer I have for anything today."
+    [s3 0.64] MS: Not with me, not with Brom, not for any panel, until that thing's answered clean three straight days.
+              SRC: Not with me, not with anyone, not for any panel.
+    [s3 0.55] MS: If Quenna puts anything on the calendar, you tell her you need the days.
+              SRC: If Quenna schedules something, you tell her you need the days, and if you won't tell her, I will.
+    [s3 0.50] MS: "Yesterday you learned you can reach inside yourself halfway through a fight.
+              SRC: "You spent yesterday finding out you can reach into yourself mid-fight.
+    [s3 0.52] MS: You don't get to spend this morning acting as if that cost nothing.
+              SRC: You don't get to spend today pretending that came free.
+    [s3 0.63] MS: Something eased in her face, about the width of a finger.
+              SRC: Something eased in her face, a quarter-inch.
+    [s3 0.96] MS: "That's the one part of all this I never have to check."
+              SRC: "That's the one part of this I never have to check."
+    [s3 0.54] MS: He wrote it at the desk by the window before the second bell, dated and timed, with the care he gave anything that mattered.
+              SRC: He'd written it down before breakfast, dated, timed, with the care he gave every entry that mattered.
+    [s3 0.55] MS: Lira's rule: no full intensity until three clean days running.*
+              SRC: "No full-intensity anything until it's answered clean for three straight days.
+    [s4 0.53] MS: "I want you to know I'm not asking.
+              SRC: I want you to know that I'm not asking, and that not asking is currently the hardest thing I have ever done.
+    [s4 1.00] MS: *Atypical adaptive response, consistent with previously documented irregular architecture.
+              SRC: *Atypical adaptive response, consistent with previously documented irregular architecture.
+    [s4 0.82] MS: *Atypical adaptive response* could have described a clever feint.
+              SRC: *Atypical adaptive response* could describe a clever feint.
+    [s4 0.72] MS: *Consistent with previously documented irregular architecture* tied it back to every sitting before it, so that yesterday was not a new thing at all but a footnote to four old ones.
+              SRC: *Consistent with previously documented irregular architecture* chained it backward to every prior assessment, so that yesterday became not a new fact but a footnote to old ones.
+    [s4 0.60] MS: That tells you how much nobody in that yard wanted to be the person who asked."
+              SRC: The rotating seat didn't ask a single question, which tells you how little anyone in that room wanted to be the person who asked."
+    [s4 0.67] MS: "I'm not going to ask you what happened in the third exchange," she said.
+              SRC: "I don't need to know what happened in the third exchange," she said.
+    [s4 1.00] MS: "What I need to know — not for the file, for me — is whether you can *not* do it.
+              SRC: "What I need to know — not for the file, for me — is whether you can *not* do it.
+    [s4 1.00] MS: In front of people who wish you harm."
+              SRC: In front of people who wish you harm.
+    [s4 0.59] MS: It went into him like a stone dropped down a well he had not known was so deep.
+              SRC: The question landed like a stone dropped into a well he hadn't known was that deep.
+    [s4 0.77] MS: He said the true thing instead, because she had earned the true thing, and because lying to Quenna would have been a different kind of mistake from lying to almost anyone else.
+              SRC: He said, instead, the true thing, because she'd earned the true thing and because lying to Quenna felt like a different category of mistake than lying to almost anyone else.
+    [s4 0.57] MS: It was something harder and plainer, the respect of a person who would rather be handed an honest problem than a comfortable lie for the file.
+              SRC: Something in her face registered the answer — not approval exactly, but a grim species of respect, the acknowledgment of a person who would rather have an honest problem than a comfortable lie on file.
+    [s5 0.53] MS: The four older ones sat in him like tools in a roll he had carried for years, each distinct and quiet until called, each so wholly his that he no longer noticed where it joined him.
+              SRC: The four older fragments sat in him like tools in a familiar roll — distinct, inert until called, wholly his in the way a thing becomes yours after enough use that you stop noticing the seam where it joined you.
+    [s5 0.52] MS: And there was something in the warmth that he knew, because he had spent six weeks learning it: a precision, a patience, small commitments kept exactly.
+              SRC: Not hot, not active, nothing the panel's instruments or anyone's eyes would ever register — just faintly, persistently warm, the way a stone holds the afternoon into the evening, and there was a signature in the warmth that he recognized, because he had spent six weeks learning to recognize it: precision, patience, small commitments immaculately kept.
+    [s5 0.60] MS: It was partial and rough and torn at the edges by his clumsy taking, and still, unmistakably, it carried something of the person it had come from, as a page of handwriting carries the whole hand that wrote it.
+              SRC: Partial and crude and torn at the edges by the taking, and even so, unmistakably, it carried the discipline of the person it had come from, twelve years of Ternhall training folded into a single ignition-point the way a handwriting carries a whole hand.
+    [s5 0.58] MS: He had carried the oldest of the four since Ardenmere, and he had never once felt a person in any of them, or he had never let himself look.
+              SRC: He had taken pieces of four people before this and never once felt the person in the piece — or never let himself look.
+chapter-38.md	sentences=204	skeleton=7%	close=20%
+  scene 1	n=31	skeleton=0%	close=6%
+  scene 2	n=77	skeleton=0%	close=10%
+  scene 3	n=32	skeleton=3%	close=16%
+  scene 4	n=36	skeleton=36%	close=64%  <-- over 15%
+  scene 5	n=28	skeleton=4%	close=7%
+    [s3 0.56] MS: Since the third exchange I have not once felt like the thing being tested.
+              SRC: I have not, since the third exchange, felt like the experiment.
+    [s4 0.51] MS: She said it with the flat certainty of somebody who had once spent two days doing exactly that, over four paragraphs from Fenmark, and he did not ask how she knew.
+              SRC: Lira, asked whether she'd seen her, had said "she's writing something she doesn't want witnessed," with the confidence of a woman who had spent two days doing exactly that herself once, over four paragraphs from Fenmark.
+    [s4 0.52] MS: Karis came down the long room and sat across from him without a notebook, and folded her hands on the table where it should have been and looked at the empty place for a moment before she looked at him.
+              SRC: Now she sat down across from him, folded her hands on the empty table where the notebook should have been, and looked at the space it should have occupied.
+    [s4 0.68] MS: She was looking at her own hands now, and not at him, which was new; Karis watched everything in the world except her own hands.
+              SRC: She was watching her own hands rather than him, which was new; Karis, in his experience, watched everything except her own hands.
+    [s4 0.53] MS: The rest I've written, because I couldn't say it without it coming out sounding like something it isn't."
+              SRC: It's just true, and I've been carrying it alone for two days because I didn't know how to say it without it sounding like something it isn't."
+    [s4 0.65] MS: She reached into her coat and took out a single folded page and held it out across the table.
+              SRC: She reached into her coat and handed him a single folded page.
+    [s4 0.50] MS: It was not the two pages of data he might have expected from her but one paragraph, in her small upright hand.
+              SRC: Not the two pages of data he'd expected — a single paragraph, in her small, exact hand, that he understood, reading it, she'd rewritten more than once.
+    [s4 0.50] MS: The careful steadiness she wore over everything was gone from her face entirely, and what was underneath looked, on Karis, almost unbearably like nerve.
+              SRC: He looked up, and found her watching him now, the notebook-open steadiness gone from her entirely, replaced by something that looked, on Karis, almost unbearably like nerve.
+    [s4 0.95] MS: "You're asking to be one of us," he said.
+              SRC: "You're asking to actually be one of us," he said.
+    [s4 0.50] MS: "I'm asking," she said, "because asking is the only way I know, and I've never needed it before.
+              SRC: "I'm asking," she said, "because I don't know how else to ask it, and I've never had to ask before — at Ternhall, belonging was a ranking.
+    [s4 0.50] MS: I was in because my name was high enough on a board.
+              SRC: I was simply *in*, because I was good enough to be in.
+    [s4 0.66] MS: The first sheet that had ever passed between them, in the stable in the fourth week, had been armour, seven clauses and a word that could end everything, drawn up by four wary people against the chance of harm.
+              SRC: The first document between them had been armor: clauses and boundaries and a word that could end everything, drafted by four wary people against the possibility of harm.
+    [s4 0.51] MS: This was the other thing: one paragraph, no clauses, no way out written into it anywhere, asking for the one thing no clause could ever get anybody.
+              SRC: One paragraph, no clauses, no exit provision, asking for the single thing no document could secure.
+    [s4 0.67] MS: "It isn't only mine to answer," he said.
+              SRC: "The answer isn't only mine to give," he said, honestly.
+    [s5 0.58] MS: It was not refusal, and not quite welcome either, not yet; it was the sound of a line moving, an inch, the way lines moved when they moved for real reasons and not because somebody had declared that they had.
+              SRC: The sound of a line moving, an inch at a time, the way lines actually moved when they moved for real reasons instead of declared ones.
+chapter-39.md	sentences=165	skeleton=8%	close=18%
+  scene 1	n=34	skeleton=32%	close=56%  <-- over 15%
+  scene 2	n=28	skeleton=0%	close=0%
+  scene 3	n=52	skeleton=2%	close=10%
+  scene 4	n=35	skeleton=3%	close=9%
+  scene 5	n=16	skeleton=0%	close=12%
+    [s1 0.56] MS: Three people had spent the last two days telling him what the match had cost, each in their own language.
+              SRC: Three people had spent today telling him, each in their own dialect, what yesterday had cost.
+    [s1 0.57] MS: She had gone hunting in herself for two days for a cost, as carefully as she hunted for a fault in a table, and had found in its place something she wanted more of, which was its own kind of dizziness, because it meant that whatever was in him did not only take; it joined, in both directions, in ways none of them had a word for yet.
+              SRC: Karis's dialect was the strangest and the kindest: a cost she had audited in herself for two days and found transmuted into something she wanted more of, which was its own vertigo, because it meant the mechanism didn't only take — it bound, in both directions, in ways none of them had language for yet.
+    [s1 0.55] MS: And his own language was the oldest he had, the binder's: two misfires, dated and timed, the thing in him handing him a bill in half-seconds of nothing for something he had done without ever being shown the price.
+              SRC: And his own dialect was the oldest one he had, the notebook dialect, misfires dated and timed: the architecture itself, presenting an invoice written in half-second absences, for an action he had taken without ever seeing a price list.
+    [s1 0.67] MS: He made himself write it out in columns, because columns kept a frightened mind honest better than sentences did, and sentences let you lean.
+              SRC: He made himself write out what he actually knew, in columns, because columns disciplined a frightened mind better than prose did.
+    [s1 0.64] MS: Then he took up the pen again and wrote the sentence that had been gathering in him since the frozen ground of the formal yard, because plain was the only way he knew to hold something this size.
+              SRC: Then he got out the Power Log and wrote the sentence that had been assembling all day, because plain was the only way he knew how to hold something this large.
+    [s1 1.00] MS: *I need to understand what I'm actually doing before it gets someone killed.*
+              SRC: *I need to understand what I'm actually doing before it gets someone killed.*
+    [s1 0.57] MS: When he spoke at last it was not about the misfires, or Quenna's question, or the soft-cornered page in the back pocket of the binder.
+              SRC: When he finally spoke, it wasn't about the misfires, or Quenna's question, or the page folded in Cael's pocket that he hadn't yet decided how to answer.
+    [s1 0.80] MS: "Back in Ardenmere," said Brom, "I told you one day you'd get to pick the word for what you are.
+              SRC: "Back in Ardenmere," Brom said, "I told you that someday you'd get to choose the word for what you are.
+    [s1 0.70] MS: It felt like the first honest weight he had ever put a real number on, and it was lighter, somehow, for being honest, than a comfortable vagueness would have been.
+              SRC: It felt like the first honest weight he'd ever put a real number on, and it felt, somehow, better for being honest than it would have felt to leave it vague and comfortable.
+    [s1 0.66] MS: On Thursday he had learned that he could reach, and since then he had learned what reaching cost, and on whom the cost could fall, and that the slow dated unglamorous counting of it was the only way of carrying this that he could live inside.
+              SRC: Today he had learned what reaching cost, and who the cost could land on, and that the learning itself — the slow, dated, timed, unglamorous accounting of it — was the only version of this power that he could live inside.
+    [s1 1.00] MS: "It's a heavier word than I expected," he said.
+              SRC: "It's a heavier word than I expected," he said.
+    [s3 0.50] MS: He looked at the linen on Cael's arm.
+              SRC: He looked at the sentence a long time.
+    [s4 0.56] MS: *She has asked to be one of us.
+              SRC: "You're asking to actually be one of us," he said.
+TOTAL	sentences=1641	skeleton=6%	close=18%
+== book-03-no-path-given M6 (ch40–46)
+chapter-40.md	sentences=198	skeleton=1%	close=8%
+  scene 1	n=31	skeleton=0%	close=0%
+  scene 2	n=58	skeleton=0%	close=10%
+  scene 3	n=40	skeleton=0%	close=10%
+  scene 4	n=37	skeleton=0%	close=5%
+  scene 5	n=32	skeleton=3%	close=12%
+    [s5 0.57] MS: He looked at that for a long time.
+              SRC: He sat with that for a long time before he wrote it down.
+chapter-41.md	sentences=241	skeleton=0%	close=10%
+  scene 1	n=25	skeleton=0%	close=12%
+  scene 2	n=33	skeleton=0%	close=12%
+  scene 3	n=44	skeleton=0%	close=11%
+  scene 4	n=20	skeleton=0%	close=15%
+  scene 5	n=39	skeleton=0%	close=8%
+  scene 6	n=41	skeleton=0%	close=10%
+  scene 7	n=39	skeleton=0%	close=5%
+chapter-42.md	sentences=200	skeleton=8%	close=28%
+  scene 1	n=25	skeleton=12%	close=32%
+  scene 2	n=23	skeleton=4%	close=26%
+  scene 3	n=112	skeleton=6%	close=29%
+  scene 4	n=28	skeleton=14%	close=32%
+  scene 5	n=12	skeleton=0%	close=0%
+    [s1 0.56] MS: The gate clerk had never seen the seal before, and she did not know what to do with her face.
+              SRC: The gate clerk had never seen the credentials before, and it showed.
+    [s1 0.56] MS: Cael did not need to see the second paper.
+              SRC: Cael didn't need to see the second paper to know who was standing at the gate.
+    [s1 0.53] MS: There was no version of what had just happened that needed the notebook to make it real.
+              SRC: There wasn't time, and there wasn't a version of this that needed the notebook to be real.
+    [s2 0.62] MS: "Whatever it is," she said, "the shelves will still be here."
+              SRC: Prynn watched him go, not unkindly, and said only: "Whatever it is, the shelves will still be here.
+    [s3 0.51] MS: "Two days in a borrowed office and a good many questions, and I asked them as gently as they would go."
+              SRC: A market square, and a great many questions I asked as gently as the questions could be asked."
+    [s3 0.53] MS: "You've come a long way from your district."
+              SRC: "You're a long way from a district record office," Cael said.
+    [s3 0.88] MS: "'Warden' was never a town title," said Coss.
+              SRC: "'Warden' was never a town title," Coss said.
+    [s3 0.84] MS: A chartered academy that knowingly holds an invalid enrollment exposes its own charter to review.
+              SRC: "And a Compact-chartered academy that knowingly harbors an invalid enrollment exposes its charter to review.
+    [s3 0.59] MS: Children your registry filed wrongly and we caught.
+              SRC: Children your own registry misfiled and this academy caught.
+    [s3 0.64] MS: The magistrate's office fixes the interval, not I, and I'd not ask to.
+              SRC: The magistrate's office sets the interval; I don't control it, and I wouldn't ask to.
+    [s3 0.90] MS: "After that," said Quenna, "the job is to be right."
+              SRC: "After that," Quenna said, "the job is to be right.
+    [s4 0.62] MS: "Not at Coss; he isn't worth the fuel.
+              SRC: Not at him — he's not worth the fuel.
+    [s4 0.55] MS: Aim it at whatever hired a decent man and got that out of him.
+              SRC: At a machine that can hire a decent man and get *this* out of him.
+    [s4 0.53] MS: Then today one man walks up the hill with one card and says the paperwork won't hold you.
+              SRC: Tonight a man with a card says the paperwork can't hold you.
+    [s4 0.63] MS: "Personally, I think the paperwork ought to be more worried than you are."
+              SRC: Personally," and the word carried its full Brom-weight of understatement, "I think the paperwork should be more worried than you are."
+chapter-43.md	sentences=183	skeleton=5%	close=22%
+  scene 1	n=37	skeleton=3%	close=24%
+  scene 2	n=31	skeleton=10%	close=23%
+  scene 3	n=37	skeleton=0%	close=11%
+  scene 4	n=37	skeleton=5%	close=24%
+  scene 5	n=41	skeleton=7%	close=29%
+    [s1 0.59] MS: Something came into Prynn's face that was not surprise.
+              SRC: Something shifted in Prynn's face — not surprise, exactly.
+    [s2 0.53] MS: There were something over two hundred students at Greyvane, and by his own careful count every one of them knew that in three weeks a magistrate of the Compact would sit in their assembly room and rule on whether the observer could stay.
+              SRC: The academy had two hundred students, and by Cael's own conservative count, all two hundred of them now knew that in three weeks a Compact magistrate was going to sit in their lecture hall and decide whether the observer was allowed to exist here.
+    [s2 0.52] MS: He sat back in the cold and looked at that for a long time.
+              SRC: He sat with that for a long time before he wrote it down.
+    [s2 0.56] MS: He wanted to have tried hard to prove himself wrong before he allowed himself to be right.
+              SRC: He wanted to be wrong about it first, thoroughly, before he let himself be right.
+    [s4 0.63] MS: We go to the Compact ourselves and concede the error, and Cael's standing goes back to whatever the provision actually covers, which is nothing.
+              SRC: We approach the Compact before the hearing, concede the category error, and quietly revise Cael's standing to something the provision's language actually covers — which, honestly, is nothing.
+    [s4 1.00] MS: "This is your enrollment, not mine to trade.
+              SRC: "This is your enrollment, not mine to trade.
+    [s5 0.53] MS: I'd like to say it before I lose my nerve."
+              SRC: Nobody's said it yet because it sounds insane, and I want to say it anyway before I lose my nerve."
+    [s5 0.50] MS: "I'll study it the way I study anybody I have to fight.
+              SRC: "I'm going to study it the way I study opponents," Cael said.
+    [s5 0.51] MS: Whatever he found in his own arithmetic came out the same as the first time, and Cael thought that was the whole of him: an academy built out of picking up the bets other people put down.
+              SRC: Whatever the recalculation returned, it returned the same answer as the first time, because that was the whole of who Naveth was: a man who had built an institution out of doubling the bets other people folded.
+chapter-44.md	sentences=211	skeleton=7%	close=24%
+  scene 1	n=38	skeleton=11%	close=29%
+  scene 2	n=68	skeleton=6%	close=28%
+  scene 3	n=44	skeleton=11%	close=23%
+  scene 4	n=32	skeleton=3%	close=31%
+  scene 5	n=29	skeleton=3%	close=3%
+    [s1 0.56] MS: Lose yourself in the reading and I won't care how fine the argument is.
+              SRC: If you lose that somewhere in three weeks of reading, I don't care how good the argument is.
+    [s1 0.56] MS: You'll have lost the part I care about first."
+              SRC: You'll have already lost the part that matters more."
+    [s1 0.56] MS: "She's spent most of her life waiting for somebody who reads her shelves instead of asking her what's on them."
+              SRC: "She's been waiting sixty years for a student who reads the shelves instead of asking her to summarize them."
+    [s1 0.51] MS: "Whatever's left of you," she said, "will still beat most people on a floor on their best day.
+              SRC: "Whatever's left of you," Lira agreed, "is still going to be better on a floor than most people at their best.
+    [s2 0.60] MS: He looked from the card to her, and felt a door come open onto a discipline he recognized.
+              SRC: Cael looked at the card, and then at her, with the sensation of watching a door open onto a discipline he recognized.
+    [s2 0.62] MS: "Then you can read law already," said Prynn, dry as the shelves.
+              SRC: "Then you already know how to read law," Prynn said, dry as her shelves.
+    [s2 0.62] MS: "All my years at that desk," she said, "and the first honest drawing of the code anybody's ever shown me is a fight chart."
+              SRC: "Sixty years," she said, "and the first accurate picture of the registry code I've ever seen drawn is a fight chart."
+    [s2 0.50] MS: Her face had a light in it he had seen only twice: in this archive on the day she first asked his leave for anything, and in the formal yard with her lattice smoking round her feet.
+              SRC: There was a light in her he had seen exactly twice before — once in the archive on the day she introduced herself, once on the training hall floor with a wrecked lattice smoking behind her.
+    [s3 0.59] MS: "Every ranked fighter knows that, and every courtroom in the country, and you've had it from me for nothing."
+              SRC: "That's the actual secret of every ranked fighter and every courtroom on the continent, and you got it from me for free."
+    [s3 0.50] MS: I lost you somewhere round the second bell."
+              SRC: I lock the doors at the second bell.
+    [s3 1.00] MS: Four hundred pages, no tells, no third exchange.*
+              SRC: Four hundred pages, no tells, no third exchange.*
+    [s3 0.61] MS: Then, because it was true, and writing down true things was the only method he had ever entirely trusted, he wrote what came after it.
+              SRC: He looked at the sentence a moment, and then, because it was true and because writing true things down was the only method he had ever fully trusted, added the rest.
+    [s3 0.50] MS: There are four of us now at the end of the table.*
+              SRC: Ink at the far end of the table, never near the bindings.
+    [s4 0.56] MS: "As I'd study anybody I had to fight."
+              SRC: "The way I'd study anyone I was going to fight."
+    [s5 0.50] MS: He looked at the last line for a while.
+              SRC: He looked at the last line, and then, in the interest of accuracy, amended it:
+chapter-45.md	sentences=235	skeleton=5%	close=18%
+  scene 1	n=33	skeleton=6%	close=18%
+  scene 2	n=19	skeleton=11%	close=21%
+  scene 3	n=28	skeleton=7%	close=39%
+  scene 4	n=45	skeleton=9%	close=20%
+  scene 5	n=16	skeleton=0%	close=19%
+  scene 6	n=94	skeleton=1%	close=11%
+    [s1 0.57] MS: However generously anybody read it, the provision had been written for the untested, and he had been tested, and no amount of its history could change what its words said or what its first drafter had meant by them.
+              SRC: However generously the provision was read, it had been written for the unkindled, and he was not unkindled, and no amount of history changed what the words said.
+    [s1 0.54] MS: It was the same correction Lira had driven into him in a cold yard in Ardenmere, a lifetime ago, in other words: *quit watching your own feet.
+              SRC: It was the same correction Lira had beaten into him a year and a half ago, on a training floor, in a different language: *stop watching your own feet.*
+    [s2 1.00] MS: *Classification, for all purposes under this charter and its subordinate provisions, shall mean designation under the Schedule of Recognized Paths and Standings, as amended.*
+              SRC: *Classification, for all purposes under this charter and its subordinate provisions, shall mean designation under the Schedule of Recognized Paths and Standings, as amended.
+    [s2 0.64] MS: That was why the schedule carried no scars: nobody had ever gone at it.
+              SRC: That was why the schedule had no scars.
+    [s3 0.56] MS: Every provisional category the Compact had tried before it made up its mind: Dual-Registered, Contested-Standing, Interim-Assessed, and half a dozen more that came and went as the Compact's idea of a Path kept changing under it, slowly and clumsily.
+              SRC: Every provisional category the Compact had ever tentatively recognized before deciding whether to keep it — Contested-Standing, Interim-Assessed, Dual-Registered, half a dozen others that had come and gone across four centuries as the Compact's understanding of what a Path even was kept slowly, awkwardly revising itself.
+    [s3 0.52] MS: There had to be a page he had missed, in this building or in a records hall three districts away: an amendment, an annex, an order somewhere that made the flag lawful.
+              SRC: Somewhere in this building, or in some Compact records hall three districts away, there had to be the page he'd missed — the amendment, the annex, the enabling order that made the flag legal.
+    [s4 0.50] MS: "Sixty years I've kept these shelves," said Prynn.
+              SRC: "Sixty years I've kept these shelves," she said, finally, dry as the dust she was famous for tolerating without complaint.
+    [s4 1.00] MS: "You're the first person to read the code the way it's written instead of the way it's enforced."
+              SRC: "You're the first person to read the code the way it's written instead of the way it's enforced."
+    [s4 0.54] MS: It has to be mine, or it isn't a reading."
+              SRC: It has to come from me, or it reads as a trick instead of a reading."
+    [s4 0.53] MS: "If it's going to be your own voice, you'd better know every case they'll throw back at it."
+              SRC: If you're going to say it yourself, you had better know every case they'll say back."
+    [s6 0.50] MS: He looked at the floor of the passage.
+              SRC: She looked at him over the top of the volume, reassessing something.
+chapter-46.md	sentences=260	skeleton=3%	close=16%
+  scene 1	n=35	skeleton=0%	close=9%
+  scene 2	n=61	skeleton=7%	close=16%
+  scene 3	n=71	skeleton=0%	close=7%
+  scene 4	n=20	skeleton=0%	close=15%
+  scene 5	n=43	skeleton=5%	close=30%
+  scene 6	n=15	skeleton=0%	close=13%
+  scene 7	n=15	skeleton=7%	close=40%
+    [s2 0.64] MS: "You've got ink on your nose, and your shoulders are round your ears again."
+              SRC: You have ink on your face and your shoulders are up around your ears."
+    [s2 0.64] MS: "A week ago I told a whole room I'd keep you a fighter.
+              SRC: "Ten days ago I told the table I'd keep you a fighter.
+    [s2 0.50] MS: She was not training him for anything, and neither of them pretended otherwise.
+              SRC: She wasn't training him for anything and they both knew it.
+    [s2 0.53] MS: By the third sequence he could feel what eight days at a table had quietly taken: a stiffness all down his back, a tenth of a beat missing from his pivot, his eyes wanting to settle on one thing instead of softening to hold the whole floor.
+              SRC: She was doing maintenance, on something neither of them named, and by the third sequence he could feel exactly how much the week had taken and hidden the taking of: the stiffness across his back, the tenth-of-a-beat lag in his pivot, the way his eyes kept wanting to fix on a point instead of soften to the whole floor.
+    [s5 0.80] MS: *I'm not going to argue my enrollment is valid.
+              SRC: *I am not going to argue that my enrollment is valid.
+    [s5 0.63] MS: He picked the pen up again and went on.
+              SRC: Then he picked the pen back up, and kept writing.
+    [s7 0.51] MS: He read the last line, and then, for the sake of accuracy, he put the pen back to the page.
+              SRC: He looked at the last line, and then, in the interest of accuracy, amended it:
+TOTAL	sentences=1528	skeleton=4%	close=18%

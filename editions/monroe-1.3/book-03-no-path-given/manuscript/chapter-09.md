@@ -94,7 +94,7 @@ Karis did not write that person's name in either notebook. She had found, quite 
 
 ---
 
-It took her three weeks to find a real thread behind Marlowe's joke and four months to stop finding contradictions along it.
+Finding a real thread behind Marlowe's joke took her three weeks; following it until the contradictions ran out took four months.
 
 She ranked her sources by their distance from the event. Anyone who had stood at a rail came first, then anyone who had talked to someone at a rail, then taverns, and lecturers last. She tagged every claim with who had made it and what they had gained by making it. A cousin of her mother's who traded wool through Ardenmere sent three paragraphs of carters' gossip, which she ranked third and kept.
 

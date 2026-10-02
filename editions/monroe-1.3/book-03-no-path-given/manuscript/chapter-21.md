@@ -30,7 +30,7 @@ That Tuesday, before he began, Karis did something she had not done before. She 
 
 Nobody mentioned it, not Karis, not Quenna, not him. It simply cut the section in two, his side for the work and hers for the watching, and from that afternoon on nobody crossed it, not even Quenna, who stood on Karis's side of it at the chalk with her slate as if she had always stood exactly there. He did not ask about the line, because he thought he understood it. Clause four said he could refuse a session and clause seven said either of them could end the whole arrangement with a word, but neither clause said anything about the plain physical space of a room. The line did. It said *this much is yours*, in chalk, without anybody having to make a speech.
 
-The work itself was plainer than anyone watching from the rail would have guessed. He ran the Wind-adjacent framework at half speed while Karis timed his recovery between passes against a mark on her page, and at the working speed while she timed it again. He ran Lira's circuits and the slow shoulder work for the Reydan joint and the breathing Wray had given him for the ribs, and she wrote down all of it, the ribs included, as if a boy breathing carefully were as much a capability as anything else in the room.
+Anyone at the rail would have expected more than there was. The work was plain. Half speed through the Wind-adjacent framework, with Karis counting the breaths between passes against a mark on her page; then working speed, and the count again. He ran Lira's circuits and the slow shoulder work for the Reydan joint and the breathing Wray had given him for the ribs, and she wrote down all of it, the ribs included, as if a boy breathing carefully were as much a capability as anything else in the room.
 
 The ribs showed in her numbers before they showed anywhere else. His recovery between passes at the working speed had been three counts at every session before the exhibition and was four now, and the framework's lead, the quarter of a breath she had measured in the fourth week, had not moved at all. She wrote both down side by side and read them back to him: *Recovery slower by one count. Lead unchanged. Probable cause: ribs, right side, exhibition.* "The framework doesn't seem to mind the ribs," she said. "You do." He thought that was exactly right, and said so, and she wrote that down too.
 
@@ -64,7 +64,7 @@ She read every word he had said through each of the three cloths, in his own ord
 
 He stood by the post and stared at her.
 
-The Compact had put him through its assessments, the circuit had given him a rating, a certification clerk had stamped a word on him, and a panel of three had written him down twice in closed halls and once in an open yard. He had never once seen what any of them wrote until afterward, or been asked whether it was right. Karis had written him down and then asked him whether she had written him down right, as if the gap between what she had heard and what he had meant were a thing worth chasing down to the last word. It was. He had always thought so. Nobody holding a notebook had ever thought so too, until her.
+The Compact had put him through its assessments, the circuit had given him a rating, a certification clerk had stamped a word on him, and a panel of three had written him down twice in closed halls and once in an open yard. He had never once seen what any of them wrote until afterward, or been asked whether it was right. Karis wrote him down, and then she asked him if she had got him right. To her, any distance at all between what she had heard and what he had meant was worth running down to the last word. It was. He had always thought so. Nobody holding a notebook had ever thought so too, until her.
 
 "That's what I said," he managed.
 
@@ -136,7 +136,7 @@ He looked at it, and then added the honest part.
 
 The next evening, Wednesday, Brom gave back volume six.
 
-He did it in the stable after supper, at the scarred table under the bricked-up hay door, where the four of them had begun to sit without anybody arranging it. The fire was down to coals, and the kitchen had produced barley for the third night running, and Brom, who had called it honest food on the second night, was still defending it against everybody, Lira most of all. Lira was in the corner of the bench with her boots off and one foot tucked under her, reading a thick brown book on defensive theory that Wray had lent her, with the expression of somebody auditing an opponent rather than studying a subject. Cael had the binder open in front of him and was not writing in it, and Karis sat at the end of the table with her own notebook, her pen moving in short runs and stopping.
+He did it in the stable after supper, at the scarred table under the bricked-up hay door, where the four of them had begun to sit without anybody arranging it. The fire was down to coals, and the kitchen had produced barley for the third night running, and Brom, who had called it honest food on the second night, was still defending it against everybody, Lira most of all. Lira had the corner of the bench, boots off and a foot folded under her, and a thick brown book of Wray's on defensive theory open on her knee. She read it the way she would have read an opponent, looking for the bill, not the lesson. Cael had the binder open in front of him and was not writing in it, and Karis sat at the end of the table with her own notebook, her pen moving in short runs and stopping.
 
 Brom set the notebook down in front of her, squared to the table's edge.
 
@@ -214,40 +214,40 @@ Brom had gone very still on the end of the bench.
 
 She drew a breath.
 
-"So here's the hypothesis. Two capabilities, each carrying the signature of a person you've watched very closely, for a long time, at close range. Both of them started by the same act, which is watching. Whatever it is you do, the watching seems to come first. It's upstream of everything else." She paused, and he knew from the pause that she had arrived at the part that mattered most. "And if watching is what goes in, then it's a thing you choose. You choose where to look. You choose how long. So in principle, whatever comes out of the other end ought to be directable. You ought to be able to aim it. Not only receive it."
+"So here's the hypothesis. Two capabilities, each carrying the signature of a person you've watched very closely, for a long time, at close range. Both of them started by the same act, which is watching. Whatever it is you do, the watching seems to come first. It's upstream of everything else." There was a pause. He knew what it meant: the part that mattered most was next. "And if watching is what goes in, then it's a thing you choose. You choose where to look. You choose how long. So in principle, whatever comes out of the other end ought to be directable. You ought to be able to aim it. Not only receive it."
 
 The room went still. It had nothing to do with the barley going cold or the fire needing tending; it was the stillness of a floor in a house when something heavy has been set down on it, and everybody standing on it waits to hear whether it will hold.
 
 ---
 
-Cael held the sentence still and let it sit, as he did with anything that moved a thing he had believed was nailed down. From a long way off he was aware of the coals ticking in the grate. He was aware of Brom's spoon resting against the rim of his bowl at an angle that would have let it slide in and drown if Brom had been paying attention to anything but Karis. He was aware of Lira's finger still holding a page she was no longer reading. Most of all he felt how large the thing was that she had just said, and how strange it was to hear it from somebody standing outside him.
+What came first was relief, and it embarrassed him a little to notice it.
 
-Karis had never seen the binder. That was the thing he kept coming back to in the long seconds while nobody spoke. She did not know about Feryn, or the Pressure-adjacent redirect he had banked for a year. She did not know about Reydan, or the Compression fragment in his chest that had woken that month and been given no road. She did not know the four names written beside the four sections at the front of the binder, or the notices copied out underneath them word for word. She had only what she could see from outside, timings and recovery intervals and the read through three grades of cloth, a drop of the hip and a wait and a quarter of a breath, the traces his capabilities left in the world where anyone could watch them. Out of nothing but that, inside terms that shut her away from every fact that would have helped, she had drawn the shape of a question the three of them had been walking round for a long time and never once said plainly.
+Someone else could see it. Whatever it was, it was solid enough to show from outside. For years he had been his own only instrument, the one gauge anywhere that could take his measure, and somewhere along the way he had stopped feeling how lonely that was, as a person stops feeling a pack he has never once taken off. And now a girl had studied the outside of him for a month and said at a scarred table in a stable, plainly, *this is its shape*, and the shape she drew was one he had half known all along.
 
-It should have frightened him, and some of it did. If a clever enough person could read him from the outside, then one day somebody he had never agreed to would read him the same way. But that was the second thing he felt, not the first.
+Nobody at the table moved. In the grate the coals ticked as they cooled. Brom's spoon had come to rest against the rim of his bowl at a tilt that would have tipped it in, if Brom had been minding anything but Karis. In the corner, Lira's finger still marked a page she had stopped reading.
 
-The first thing he felt, before the fear had time to arrive, was relief.
+Karis had never seen the binder. Cael kept coming back to that through the long quiet. She knew nothing of Feryn, or of the redirect he had kept banked and unused for a year. She knew nothing of Reydan, or of the Compression fragment that had stirred in his chest this month for a shell on his guard and been refused a road. The four names at the front of the binder, the notices copied out beneath them word for word: none of it had reached her. All she had were the marks his abilities left on the world where anyone could watch: timings and recovery counts, a read through three thicknesses of cloth, a dropped hip and a wait and a quarter of a breath. From that and nothing else, inside terms written to keep her away from every fact that would have helped, she had drawn the outline of the question the three of them had been circling for a long time and never once spoken.
 
-Somebody else could see it. It was solid enough to be seen from outside. For so long he had been the only one able to measure himself that he had forgotten how lonely it was, the way a person stops noticing a weight he has never once set down. Now somebody had looked at the outside of him for a month and said, plainly, at a scarred table in a stable, *this is the shape of it*, and the shape she had said was the shape he had half known.
+The fear came after the relief, and it was reasonable fear. If a clever enough person could read him from outside, then one day someone he had never agreed to would read him the same way. He let it sit down beside the relief, and let them both stay.
 
-Then the dread came in behind the relief and sat down next to it, and he let them both stay.
-
-Brom spoke first, softly. It was not quite a joke.
+Brom was the first to speak, and he spoke softly. It was not quite a joke.
 
 "Told you she had a method."
 
-"It isn't proof." Karis said it at once, before anybody could make it bigger than it was. "It's a hypothesis. Three pieces of support, all from outside. I'd want controlled conditions to test it properly. You might never want it tested. That's yours to decide, all of it, not mine." She looked at Cael. "I didn't want you to work out the shape of it from what I do and don't ask. I wanted you to hear it from me, straight, in a room with the people you'd tell anyway."
+"It isn't proof." Karis got that in quickly, before anyone at the table could inflate it. "It's a hypothesis with three supports, every one of them from outside. I'd want controlled conditions before I believed it properly. You might never want it tested at all, and that's yours to say. All of it is yours." She looked at Cael. "I just didn't want you working out the shape from which questions I ask and which I don't. You should have it from me, plainly, in a room with the people you'd have told anyway."
 
-Only then did Lira raise her eyes from the book. She studied Karis across the bench for a long moment with an expression Cael could not wholly read, some column being added up behind her eyes. Whatever the total was, she did not say it aloud. She nodded, once, and looked back down at the page she had not been reading, and Cael, who had watched Lira make up her mind about people for a long time, was fairly sure he had just watched her do it again.
+Lira lifted her eyes from the page at last. She looked down the bench at Karis with an expression Cael could not quite read; somewhere behind it a sum was being done. She did not announce the total. She nodded, once, and went back to the page she had not been reading. Cael had watched Lira make up her mind about people for a long time, and he would have bet that he had just seen it happen once more.
 
 "Thank you," he said to Karis.
 
-He meant it more than the two words could carry. She seemed to know it, because she dipped her head with the small precise nod she gave a result when it came in, and asked for nothing else.
+The two words were too small, and they were all he had. She seemed to understand that. She gave him the short, exact nod she gave a result when it came in, and asked for nothing more.
 
-He said nothing more that evening. He sat at the scarred table with the binder open in front of him and the pen beside it and wrote nothing, while Brom finished his barley and the fire burned down to nothing. The others went up to the residence wing one by one in their usual order. Brom went first, with his number sheet folded in his coat and a hand on Cael's shoulder in passing. Karis went next, with her notebooks, pausing at the stable door to look back once and say nothing. Lira went last; she put her book under her arm and stood and stopped beside him, and laid her hand flat on his shoulder for a moment, the light pressure that meant *later, if you want*.
+That was the last thing he said that evening. He sat at the scarred table with the binder open and the pen beside it, and wrote nothing, while Brom finished his barley and the coals went dark. The others went up one at a time in their usual order. Brom went first, his number sheet folded in his coat, his hand resting a moment on Cael's shoulder as he passed. Karis followed with her notebooks, and at the stable door she looked back once and said nothing. Lira went last. She tucked her book under her arm, stopped beside him, and put her hand flat on his shoulder.
 
-Then he was alone in the long room with the coals.
+"Later," she said quietly, "if you want."
 
-As a research question it was simple. Under a room he had always trusted, a floor had given way, and he could feel all of himself shifting down onto the new hollow, timber after timber, and before he showed the damage to anybody he wanted to know how far it went.
+Up in the residence wing a door closed, and after a while another. Then he was alone in the long room with the dying fire.
+
+Put as a research question, it was simple. A floor he had trusted his whole life had dropped away under a room, and he could feel every part of himself settling down into the new hollow, beam by beam. Before he showed the damage to anyone, he wanted to know how far down it went.
 
 Even them. Even her.

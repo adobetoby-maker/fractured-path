@@ -48,7 +48,7 @@ Lira, at the end of the bench, had watched the whole thing with her chin on her 
 
 He wrote it down that night, because it had taken him three days to find the shape and he did not want to lose it.
 
-*Sport. That's how they're taking it, not as a verdict. I keep bracing for the dread, and every time it's a boy wanting to know whether I'll fight close or at range instead. I think this is what a question looks like when a school decides to ask it out loud, instead of letting it go round behind my back.*
+*Sport. That's how they're taking it, not as a verdict. I keep bracing for the dread, and every time it's a boy wanting to know whether I'll fight close or at range instead. So this is a school asking its question out loud, I think, instead of passing it round behind me.*
 
 He read it over and added one more line.
 
@@ -188,7 +188,7 @@ She went off toward the lecture wing before he could answer. He stood in front o
 
 He found the seam on the fourth morning.
 
-He found it the way he had found every seam that mattered, not by watching for a mistake, because Edran almost never made one, but by watching for the place where the precision itself cost something. It took him a long time to see, because it lived in a gap so small that only the shape of the whole sequence showed it.
+He found it the way he had found every seam that mattered, not by waiting for a mistake, since Edran hardly ever made one, but by looking for the place where the precision itself charged a price. It took him a long time to see, because it lived in a gap so small that only the shape of the whole sequence showed it.
 
 Edran ran a set of four. The shell on his left forearm and the edge on his right were both up before he moved, waiting like a held breath. The first two went one after the other, the shell bursting on an imagined blow and the edge sweeping through an imagined strike, so fast that the two seemed to be one long motion. Cael had watched that a hundred times now and it never stopped being beautiful.
 

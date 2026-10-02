@@ -2,7 +2,7 @@
 
 He worked on the question all through breakfast, because it was not a hard question to ask but it was a hard one to ask well. He had learned that the first shape a question took was usually the shape that made it easiest to answer badly.
 
-*Why did you take me?* was too small. It invited a small answer, a kindness or a shrug, the sort of thing that wears off in a hard season. *What do you get out of this?* sounded too sharp for a first meeting with the man who ran the building he slept in. He tried four more versions in the margin of the binder while Lira stole the crust off his bread and Brom ate his porridge with slow, serious attention, and every one of them leaned too far toward himself.
+*Why did you take me?* was the wrong size: too small. It invited a small answer, a kindness or a shrug, the sort of thing that wears off in a hard season. *What do you get out of this?* sounded too sharp for a first meeting with the man who ran the building he slept in. He tried four more versions in the margin of the binder while Lira stole the crust off his bread and Brom ate his porridge with slow, serious attention, and every one of them leaned too far toward himself.
 
 He found it on the walk across the yard.
 
@@ -44,107 +44,97 @@ At the end the tracks were read out, standard and re-certification and transfer,
 
 ---
 
-Provost Naveth kept his office at the top of the old building, up a narrow stair worn into a dip at the center of every step. The door stood open, and Cael knocked on the frame anyway.
+The stair to the provost's office climbed the inside of the old building in a tight square, and every step had been worn hollow in the middle by people going up to be told things. Cael counted thirty-one of them. At the top the door was already open. He knocked on the frame anyway, because an open door was not the same thing as an invitation, and he had learned the difference in other buildings.
 
-"Come. Sit. The chair is for whoever comes in, and this morning that's you."
+"Come in. Sit. There's one chair, and it belongs to whoever's standing in the doorway."
 
-The office was small and very orderly: one desk with nothing on it but a blotter, a pen, and three letters squared to the corner; two chairs, one on each side and no third, which meant a man who rarely saw people in groups; and behind the desk a tall window that faced the yard where students trained, with its back to the approach. Cael noted the window before he noted the man, because it told him which way the man paid attention.
+The first thing Cael saw was the window. It was tall and narrow and took up most of the wall behind the desk, and it looked down on the training yard, so that a man sitting here kept his back to the door and his face to the students. Cael noted that before he noted the man. A room would tell you where its owner's attention went, if you let it.
 
-Naveth was in his sixties, lean and grey, with a long face that had been weathered by some larger place before it came here. His hands rested flat on the blotter. He did not stand.
+The rest was plain. There was a desk with a blotter, a pen and three letters squared against one corner, and a single chair across from it. A man who kept only one visitor's chair did his talking one person at a time. Along the wall to the left ran a shelf of thin brown books, all of a size and all the same tired colour.
 
-"You're the observer."
+Naveth sat with both hands flat on the blotter. He was past sixty, long in the face and lean everywhere else, grey at the temples and grey through the rest, and his skin had the weathering of somebody who had spent years under a bigger sky than this hill's. He did not get up.
 
-"Cael."
+"You're my observer."
 
-"I know your name. I signed the acceptance." He gestured at the chair again, and Cael sat. "You've come up those stairs carrying a question the way a boy carries a full bucket. Set it down before you spill it."
+"Cael, sir."
 
-Cael asked it. "Why did this academy take the risk?"
+"I know. My signature's on your acceptance, under Quenna's." He tipped his head at the chair, and Cael sat. "Most new students climb those stairs wanting to be told they're welcome. You've climbed them with a question. I can see it on you. Ask it before it goes stale."
 
-Naveth did not answer right away. He looked at Cael for a long moment, and it was not the look Cael knew from assessors and officials, the one that held him up against a box and saw that he did not fit it. It was closer to the look a joiner gives a beam before he lets it carry a floor.
+"Why did this academy take the risk?"
 
-"That's a better question than most people bring me. Most ask why I took them. You've asked about the institution, which tells me you want to know whether I'm a gambler or a fool."
+Naveth didn't answer. He studied Cael instead, and it was a different kind of study from the one Cael was used to. Arbiters and clerks and Compact men had all looked at him as though he were something to be fitted into a box, and every one of them had found that he would not fit. This was more like the look a joiner gives a beam he is about to trust with a floor: where will it bend, and how much will it take.
 
-"I didn't say that."
+"Most of them ask why I took *them*," Naveth said at last. "You asked about the academy. So you've already wondered whether you've fallen in with a gambler or a fool, and you were too polite to say so."
 
-"You were too careful to say it. It's still the right thing to wonder." He leaned back, and the chair took his weight with the worn creak of furniture that had been sat in exactly this way for many years. "I'll tell you where I come from, and then I'll show you something, and then you can decide which I am."
+"I wasn't going to say either."
 
-He talked the way some men walked, steadily, never in a hurry, always certain of the next step.
+"No. But it's the right thing to wonder, and I'd think less of you if you hadn't." He turned in his chair, ran a finger along the brown books without looking at them until it stopped on one, drew it out, and laid it open on the blotter facing Cael. "Before I explain anything, read me an entry. Any entry."
 
-"Eleven years I ran a mid-tier academy. A good one. Silver prospects every few years, Iron-tier graduates who went on to Bronze within a decade. And every year two or three of my best would leave for somewhere bigger. We hadn't failed them; we'd done the job too well, and when you do it well at that level somebody larger notices and makes a better offer. I became very good at raising things for other people to keep."
+The page was ruled in columns: a name, a year, the tier and rank a student came in with, and the tier and rank they left with. Under each entry someone with small, tidy handwriting had added a line.
 
-"So you came here."
+"Copper Rank Two at intake," Cael read. "Kindled at sixteen. Left at Bronze Rank Three. Twenty-four."
 
-"Not at once. Then ten years elsewhere, which I won't inflict on you. A fair part of them I called being between posts, when the true name for it was not knowing what I wanted to build." There was no polish on it; it had not been told so often that its edges had worn smooth. "But yes, eventually here. It was the better part of a year before I understood why a small place suited me as no large one ever had."
+"Kindled two years after everyone else. The large schools won't look twice at a late Kindler; they assume something went wrong inside. Something went right, as it turned out. It only went right slowly. Another."
 
-He raised one finger.
+Cael's finger moved down the column. "Classification disputed at intake. Re-evaluated in the fourth year. Stone Path changed to Anchor Path."
 
-"This academy will never win a student the system has priced right. A Silver-tier prospect with a clean file and a good family is going to a school with better floors and better placement. That door is closed to us, and it always will be."
+"Four years to put that right. Somebody in this building was sure the registry had made a mistake, and stayed sure until the registry agreed." Naveth said it quietly, with the satisfaction of a man touching a scar that had healed well. "She teaches on the coast now. Another."
 
-A second finger.
+"Re-certification candidate. Expelled from—" There was a school's name in the column, and Cael stopped short of it; it was not his to say aloud. "Copper Rank Nine coming in. Iron Rank Four going out."
 
-"So we go looking for the ones it has priced wrong."
+"Her old instructors wrote her up as a discipline problem. What she was, was a girl with a temper and a better eye than theirs." Naveth closed the book and kept his hand on its cover. "That shelf holds sixty years of those."
 
-He turned in his chair, reached behind him without looking, and took down one of a long row of thin brown books from the shelf, each the width of two fingers and all of them the same dull colour. He laid it on the blotter and opened it toward Cael.
+Then he raised one finger.
 
-"Our alumni record. Read me one."
+"Here's what I learned before I ever saw this hill. Before this I kept a mid-tier academy, eleven years of it, and it was a good school. Every few years we turned out a Silver prospect, and our Iron graduates went on to Bronze. And every year the best two or three would leave us for somewhere larger, because we had taught them so well that a larger school noticed and made them a better offer. I got very skilled at growing things for other people to keep."
 
-Cael leaned forward. The page was ruled into columns — a name, a year, a tier and rank at intake, a tier and rank at leaving — with a short line in a small, neat hand beneath each entry.
+"So you came here instead."
 
-"Copper Rank Two at intake. Kindled at sixteen."
+"Eventually. In between there was a decade I won't bore you with. I told people I was between posts. I was really between ideas." He said it without any shine on it, the way a man reports weather that has already passed. "Once I was here, most of a year went by before I saw what this small place gave me that the big ones never had."
 
-"Late. Two years late. Nobody at the bigger schools would look at a sixteen-year-old Kindler; they assume something's wrong. Go on."
+A second finger joined the first.
 
-"Bronze Rank Three at twenty-four."
+"A school this size will never get a student the system has priced correctly. Give a girl a clean file, a Silver forecast and a good family, and she goes where the floors are better and the placements are surer. That door is shut to us and always will be. So we hunt the other way, among the ones it has priced wrong. Late Kindlers. Disputed files. Re-certification cases the big schools won't touch because they're a nuisance to process." He tapped the brown cover once. "A clerical error costs almost nothing to take on, and a great deal to have been wrong about. This school has lived for sixty years in the space between those two prices."
 
-"Bronze, on a schedule nobody predicted. Next."
-
-Cael ran his finger down. "Classification disputed at intake. Re-evaluated in fourth year. Changed from Stone Path to Anchor Path."
-
-"Overturned," Naveth said with quiet satisfaction, "because someone here believed the paperwork was wrong before the registry did. It took four years. She teaches at a coastal school now. Next."
-
-"Re-certification candidate. Expelled from—" A school's name was written there, and Cael stopped before reading it out, because it wasn't his business. "Copper Rank Nine at intake. Iron Rank Four at leaving."
-
-"Someone thought she was a discipline problem. She was a girl with a temper and a better eye than her instructors." Naveth closed the book gently. "There are sixty years of these on that shelf. Late Kindlers. Disputed classifications. Re-certification cases no one else would take, because they're a nuisance to process. A clerical error is the cheapest thing in Valdris to take on and the most expensive thing to have been wrong about, and this place has lived sixty years on the difference."
-
-He set his hands flat on the closed book.
+He set both hands flat again.
 
 "Every student in this building is someone's clerical error, Cael. You're simply the largest one we've ever had the nerve to sign for."
 
-It was not warmth, and Cael, sitting in the plain chair, understood that very clearly. He could have wanted it to be warmth, could have wanted an old provost moved by a boy's bad luck, and there had been a time after Denvash when he had wanted exactly that, and it had always ended the same way. The certification office had been kind on the day of his Kindling, gentle-voiced and apologetic about the classification even while they stamped it, and that kindness had lasted precisely as long as the appointment and not an hour longer. This was a man opening a book of numbers and saying, *here is why you are worth it to us*, and it was more reassuring than warmth would have been. Kindness was a loan anyone could call in without warning. An incentive was a contract with its terms written down: you could read it, and you could see when it ran out.
+Cael sat in the plain chair and understood exactly what he had been given, and what he had not. It was not warmth. In the first months after Denvash he had wanted warmth badly, had wanted some grown person to be moved by a boy's bad luck, and it had gone the same way every time. On the day of his Kindling the certification office had been gentle with him. The clerk had lowered her voice. She had apologized for the classification while her other hand stamped it. Then the appointment ended, and the gentleness ended with it, on the step outside, at the exact moment the door shut. Naveth was offering something else. He had opened a book of numbers and shown Cael why he was worth having, and that steadied Cael more than kindness would have. Anybody could call kindness back without warning. An incentive came with its terms written down, and you could read the terms, and you could see from a long way off when they were going to run out.
 
-He had one more question, and he asked it quickly, so that he could not lose his nerve.
+There was one more thing, and he put it quickly, while his nerve still held.
 
-"What happens if I stop being a good bet?"
+"And when I stop paying off?"
 
-Naveth nodded slowly, as if Cael had passed something.
+Naveth nodded, slowly, the way an examiner nods when a candidate finds the question under the question.
 
-"Then we're wrong, and we live through it. We have before. Some of the people in those books didn't go anywhere, and a few washed out in a season. We adjust the ledger and keep going." He tapped the book. "That's the other half of the model. We bet on the ones the system prices wrong, and we accept going in that some of those bets won't pay. The ones that fail don't sink us."
+"Then I was wrong, and the school lives through it. It has before. Plenty of names in those books went nowhere much. A few washed out before the first frost." His palm rested on the cover. "That's the half people forget. We take the students other schools priced wrong, knowing from the start that some of those bets won't come in. The losses don't sink us."
 
-"And the ones that pay?"
+"And the ones that come in?"
 
-"Those carry us."
+"They're what keep the roof on."
 
-Cael thought about that, and then asked the question underneath it. "Where does Quenna sit? In the ledger."
+Cael turned that over and found another question under it. "Where's Quenna in the ledger?"
 
-Something shifted in Naveth's face, not a smile but the look of a man watching a question land exactly where it was meant to.
+Naveth's face did not quite smile. It looked, rather, like the face of a man who has watched an arrow go where he aimed it.
 
-"Quenna is the one who priced you."
+"Quenna priced you."
 
 Cael waited.
 
-"She sat in that chair with your file in her lap and an argument already written, and she put her own name on the desk as surety." Naveth's palm pressed lightly on the blotter, as if the name were still lying there. "She has been putting it down for difficult cases since before I came to this office. On the merits, I have never once seen her wrong."
+"She sat in that chair with your file on her knee and her argument already written out, and she put her own name on this desk as surety." Naveth pressed his palm to the blotter, lightly, as if the name might still be lying there. "She's done that for hard cases since before this was my office. On the merits of a student, I have never once seen her wrong."
 
-He paused, and Cael could see him deciding whether to say the rest, and then he said it.
+He stopped. Cael watched him weigh whether to say the rest, and watched him decide.
 
-"What she has misjudged, now and then, is the bill for being right. You should know that. If this goes badly, it goes badly for you first, then for her, then for me. That's the order of the ledger." He met Cael's eyes. "Better you hear it in this chair than add it up alone one night and wonder who kept it from you."
+"Where she has been wrong, now and then, is in the bill for being right. You ought to know how that bill gets paid, so I'll tell you. If this goes badly, it lands on you first. Then on her. Then on me. That's the order of the ledger." He looked straight at Cael. "Better you get it from this chair today than sit up some night doing the sum yourself and wondering who kept it from you."
 
-Cael sat very still. He had known it already, in a way. Quenna had walked into the Ironyard and watched for months before she said a word. She had built her offer like an argument because she knew that one day it would have to survive an argument; he had seen her stake and had never let himself add it up. Now somebody had added it up for him, out loud, in a plain office with a window that faced the yard.
+Cael kept very still. Some part of him had known. Quenna had come to the Ironyard and watched him for months without saying a word. She had built her offer like a legal argument, because she knew that one day someone would argue against it. He had seen her stake, and he had never let himself sit down and total it. Now someone had totalled it for him, out loud, in a bare office with its window turned to the yard.
 
-"Thank you."
+"Thank you," he said.
 
-It came out smaller than he meant. He meant it more than the two words could carry.
+The words came out smaller than what stood behind them. Two words could not hold it, and he let them go anyway.
 
-"Thank me with your assessments." Naveth got to his feet, and that, it seemed, was the end of it; there was no ceremony, only a man with other work waiting. "Come back when you have a question that earns the stairs. I suspect you'll know which ones do."
+"Thank me with your assessments." Naveth was already rising, and that seemed to be the end; there was no handshake and no speech, only a busy man with letters waiting. "Come back when you've got a question worth thirty-one stairs. I suspect you'll know which ones are."
 
 ---
 
@@ -166,7 +156,7 @@ A boy beside Cael frowned. "What's the difference?"
 
 "Everywhere else puts the Copper students in one room and the Iron students in another. Here all the movement Paths share a floor, Wind and Current and Storm, and all the hardening Paths share another, Stone and Iron Skin and Shield and Anchor. A Copper Rank One and an Iron Rank Seven of the same family sit through the same lecture. You learn the family first, and then your place in it."
 
-Cael wrote that down twice, in two different places, because it seemed important twice. Every academy he had read about sorted by tier, because tier was the axis institutions ranked people on, the number on a file that decided which doors a person could go through. Sorting by family meant that this place cared more about what a student could come to understand than about where he currently stood on the ladder. He thought it was Naveth's ledger again, written into a building.
+Cael wrote that down twice, in two different places, because it seemed important twice. Every other academy he had ever read about sorted its students by tier. Tier was what institutions ranked people by, the number on a file that decided which doors a person could go through. Sorting by family meant that this place cared more about what a student could come to understand than about where he currently stood on the ladder. He thought it was Naveth's ledger again, written into a building.
 
 Students crossed the paths between the buildings as they walked, in loose, sure lines, never looking up to check the way, and a boy about Cael's age jogged past toward the lecture wing because a bell had just told him to. Cael watched him go with a feeling he had not expected, which was envy, not of the boy but of the bell. He had been his own clock and his own clerk and his own bell for a long time now, training blocks and circuit dates and recovery days built out of nothing but discipline, with nobody waiting for him to arrive and nobody who would have noticed if he were late, and only now, watching someone else's bell do that work, did he feel how tiring it had been.
 
@@ -182,13 +172,13 @@ Cael stood at the edge of it longer than the others and tried to picture himself
 
 The archive was the oldest thing on the grounds. It sat at the end of a short passage off the main hall, behind a door darker than any other he had seen here, iron-banded and heavy, set into a frame whose stones had been cut by different hands, in a different century, from the walls on either side of it.
 
-An old woman stood in the doorway. She was in her seventies, small and very straight, with grey hair pinned flat and a pair of reading spectacles hanging on a cord at her neck. She held the door open at a precise angle, open enough to be polite and not open enough to suggest that anybody should come in. Cael noticed the angle. He noticed most deliberate things people did without announcing them as deliberate.
+An old woman stood in the doorway. She was in her seventies, small and very straight, with grey hair pinned flat and a pair of reading spectacles hanging on a cord at her neck. The door stood at a careful angle in her hand, wide enough for courtesy and too narrow for anyone to mistake it for a welcome. Cael marked the angle. People made small choices on purpose all day long and never said so, and he had a habit of catching them.
 
 "Prynn," said the clerk. "Archivist."
 
 "Waystation records," Prynn said, before anyone could ask, in the dry, exact voice of someone who had said it many times to students who never came back. "From before this was a school. The academy kept the room when it took the building, and nobody has ever been brave enough to throw anything away."
 
-Through the narrow gap behind her Cael glimpsed shelving that ran back much further than the passage suggested the building could hold, aisles one person wide and every inch of them used. The air that came through was cooler than the corridor's and smelled of paper and old glue and stone. He knew that smell; it was Vell's archive in Ardenmere, and he recognized it the way you recognize a voice before you see the face.
+Through the narrow gap behind her Cael glimpsed shelving that ran back much further than the passage suggested the building could hold, aisles one person wide and every inch of them used. A cooler air leaked out past her, carrying paper, old glue and stone. He knew that smell; it was Vell's archive in Ardenmere, and he recognized it the way you recognize a voice before you see the face.
 
 Prynn looked at him — not at the group, at him — with a frank, weighing look like the one Naveth had given him across the desk. Naveth had been weighing a risk. She seemed to be weighing whether he could read.
 
@@ -200,7 +190,7 @@ The others were already following the clerk away. Cael hesitated. "Why?"
 
 She did not shut the door on him. She simply waited, holding it at its exact angle, until he understood that the conversation was over and walked away, and when he glanced back from the end of the passage she was still watching him go.
 
-The assessment calendar hung on a board in the main hall by the entrance, public, unglassed, there for anyone to read. He had walked past it twice that morning without stopping, and on the way back from the archive he stopped. It was ruled into weeks, each with a column of entries in a clerk's small even hand — standings bouts, re-certification reviews, a lecture on declaration theory open to all years, a visiting instructor from somewhere north — and his name was in the second column, at the height of his eye.
+Anyone coming in by the main hall's entrance walked past the assessment calendar, pinned to an open board with no glass over it. He had walked past it twice that morning without stopping, and on the way back from the archive he stopped. It was ruled into weeks, each with a column of entries in a clerk's small even hand — standings bouts, re-certification reviews, a lecture on declaration theory open to all years, a visiting instructor from somewhere north — and his name was in the second column, at the height of his eye.
 
 *Demonstration Assessment, Unclassified Observer Track. Training hall, first bell. Eighth day.* And beneath it, in the same hand: *Monthly thereafter.*
 

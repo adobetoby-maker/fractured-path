@@ -1,6 +1,6 @@
 # Chapter 4 — One Condition at a Time
 
-He found Brom on the defensive-branch floor, and he could tell how the afternoon had gone before he was close enough to see Brom at all.
+Brom was on the defensive-branch floor. Cael could tell how his afternoon had gone before he was near enough to see him.
 
 There was a crowd. It was not a large one, perhaps a dozen students strung along the chalk boundary of the far section, but it had the particular stillness of people who had stumbled onto something worth watching rather than come on purpose. Nobody was talking, and two of them had set their bags down, which meant they had stopped meaning to leave. Cael found a place at the end of the line and looked over a shoulder.
 
@@ -84,7 +84,7 @@ She studied him. "Full," she said to the broad student. "Commit everything."
 
 The broad student came in with a committed strike, the whole of his weight behind it, a fence post of an arm driving straight at Brom's centre. Brom took it, and gave, and turned it, and this time the turn was clean. The force came around in a short hard arc and went back into the boy along a line he had not braced for, and his planted feet came unplanted for the first time all afternoon. He went sideways a full step and then another, arms flung wide for balance, and ended up on the far side of the chalk with a startled expression on his patient face.
 
-The crowd made a sound that was not quite a cheer, more a collective breath let out at once. Wray did not make a sound at all. She wrote on her slate.
+The crowd let its breath out all together, which was not a cheer but was close to one. Wray did not make a sound at all. She wrote on her slate.
 
 ---
 
@@ -204,13 +204,13 @@ Lira raised her eyebrows. "The other half of a lecture you've attended once is w
 
 "And you think that's wrong."
 
-"I know it's wrong. I spent two years past where the ceiling's supposed to be, on my own, with nobody telling me there was a ceiling there, and I kept getting better at the form." He leaned forward. "Every month. Not in great jumps. In small ones. Steadily."
+"I know it's wrong. I spent two years past where the ceiling's supposed to be, on my own, with nobody telling me there was a ceiling there, and my form went on improving the whole time." He leaned forward. "Every month. Not in great jumps. In small ones. Steadily."
 
 "Then either the lecture's wrong," said Lira, "or you're a freak. Pick one."
 
 "Or there are enough freaks that the rule's no use to anyone." Brom's voice had the intensity he usually saved for a fight. "The curve isn't measuring bodies. It's measuring people who were told where to stop and stopped there. It isn't a limit in the body. It's a limit in the belief."
 
-Cael turned that over. It was exactly the kind of confident claim a boy with no formal training might make about doctrine written by people with far more learning than he had, the kind that usually fell apart at the first serious question. It was also, he suspected, true, because Brom's evidence was his own body: two years of improvement the theory said should not have happened, made by someone who had never been given a reason to believe it couldn't.
+Cael turned that over. Untrained boys said confident things about doctrine all the time, doctrine built by scholars with shelves of learning behind them, and most of those confident things died at the first hard question. This one might not. Brom wasn't arguing from a book. He was arguing from two years of his own body getting better past the point where the theory said it should have stopped, and nobody had ever told him to stop, so he hadn't.
 
 "You should tell Wray."
 
@@ -230,6 +230,6 @@ Lira put down her bread. "She said she'd *rewrite the lecture*?"
 
 "Velmere's instructors didn't," said Lira. It was not quite a question.
 
-"Velmere's instructors wanted to be obeyed." He said it without heat; the old grievance had worn smooth with distance. "Wray wants somebody to test her. That's a different animal entirely."
+"Velmere's instructors wanted to be obeyed." Two years of road had taken the edge off that grudge, and he spoke of it the way a man mentions bad weather in another country. "Wray wants somebody to test her. That's a different animal entirely."
 
 He went back to his barley, and Cael watched him eat and thought about what two days had done: a tag that had not needed a question, a teacher who had found a weakness and offered to mend it, and a lecture hall full of people who had names for the things Brom had learned by falling over, one of whom was willing to rewrite her own lecture if a Copper-tier boy from nowhere could beat her on a chalk floor. He thought that Brom had been waiting for this place his whole life without knowing it existed. He did not say it, because Brom would have been embarrassed and because it was not his to say, and he did not write it down that night either, though he started to. He found that what he wanted to remember was the look on Brom's face across the barley, and that no line in the binder would hold it better than he already did.

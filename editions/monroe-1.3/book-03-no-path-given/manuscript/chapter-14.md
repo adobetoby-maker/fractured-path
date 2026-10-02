@@ -42,57 +42,57 @@ She nodded once. "Good." She did not ask anything else, and they walked to the l
 
 ---
 
-The days after the request arrived passed, on the surface, as Greyvane's days always passed. There were lectures and floor blocks and bells, barley at the seventh and lamps at the eighth, and the ordinary rhythm of an institution that had absorbed far stranger interruptions than one records request in its sixty years.
+That week his handwriting shrank, a little each day, and he did not notice.
 
-The rumor market had largely moved on. The current scandal involved a third-year and the disappearance of the kitchen's honey, and Lira reported on it every morning with the grave delight of a historian.
+He noticed other things. Greyvane's days went on as they always had, as if one sealed sheet on the provost's blotter were nothing to a school that had sat through sixty years of stranger mornings. The bells rang. There were lectures at the second and third, floors at the fifth and sixth, barley at the seventh and lamps at the eighth. The rumour market had found fresher meat: somebody in the third year was making the kitchen's honey disappear, and Lira brought the latest on it to breakfast every morning, as solemn and as pleased as a chronicler of wars.
 
-Underneath, something had changed, and Cael noticed it in himself the way he would have noticed it in an opponent.
+What had changed was under all that, and he caught it in himself the way he would have caught it across a ring in someone else.
 
-That week the binder took more pages from him than any week since he had come through the gate. He wrote about everything and nothing, the bells and the weather and the width of the stair, and about halfway through the week he understood that he was doing it the way a person in an unfamiliar house at night counts every sound he can hear so as not to think about the one he cannot.
+The binder was eating pages. He filled more of them that week than in any week since the gate: the bells, the weather, how many paces wide the stair was, the colour of the light on the archive door, the number of steps from his room to the stable. Somewhere around the middle of the week he saw what he was doing. It was what a person does alone at night in a house he doesn't know, listing every creak he can hear so that he won't have to think about the one he can't.
 
-Twice Lira wanted to know if he was sleeping, and both times he could truthfully say yes. Brom asked nothing at all, and simply began walking with him between buildings, falling into step outside the lecture wing or the stable as if by accident. Cael understood without either of them saying it that this was an answer of its own.
+Twice in those days Lira wanted to know how he was sleeping. Well enough, he told her both times, and it was true. Brom asked nothing. Brom simply started turning up beside him between buildings, outside the lecture wing or the stable door, as though by chance, and walking wherever Cael was walking, and neither of them mentioned it, and Cael took it as the answer it was.
 
-Quenna found him in the archive on the third day and sat down across the long table without being asked, as she always did when she had come to say something and saw no reason to keep him waiting for it.
+On the third day Quenna came into the archive, crossed to his end of the long table, and sat down opposite him without asking, which was her way when she had come with something to say and saw no point in delay.
 
-"You're behaving as if the hearing's already been called."
+"You're acting as if the hearing's been called."
 
-"Isn't it coming?"
+"Hasn't it? Or won't it be?"
 
-"Possibly. Not yet." She set her folder on the table and did not open it. "Right now it's a records request. Records requests arrive constantly. Most of them turn into nothing at all, and I've watched a good number of them do it in this building." She studied him for a moment. "I certified my entries yesterday, by the way. Slowly, in my best hand. The white-haired man from the first sitting is still in the north. Naveth is enjoying himself more than he would want you to know."
+"It might. It hasn't." She put her folder down and left it shut. "What you have is a records request. They come in all the time, and most of them come to nothing. I've watched plenty come to nothing in this building." She looked at him a moment longer. "I certified my lines yesterday, by the by. Slowly. My best hand. The white-haired man from your first sitting is still up north, and Naveth is enjoying this rather more than he'd like you to see."
 
-"I'm not worried about the copying."
+"It isn't the copying I'm worried about."
 
-"I know you're not. You're worried about the reading." She leaned back. "Worry, by all means. Just don't pay for the worry before the bill comes. You'll need it later, and it doesn't come back as fast as you'd like."
+"No. It's whoever does the reading." She sat back. "Worry, then. Only don't spend it before you've been sent the bill. You'll want it later, and it's slow to come back."
 
-She went out. He wrote the advice in the margin before he lost it, under a heading that was slowly becoming a whole section of the binder: things Quenna told him that sounded like management at the time and turned out afterward to be true.
+When she had gone he wrote it in the margin quickly, before it could slip. There was a heading for such things by now, grown long enough to be a section: Quenna's remarks that sounded like managing him and later proved true.
 
-Quenna had been gone perhaps an hour when Karis came into the same corner of the archive. She did not sit across the table from him. She took the bench beside him, turned her own notebook to a fresh page, and did not say a word.
+Perhaps an hour after Quenna left, Karis came into the same corner. She did not take the seat across the table. She sat down on the bench next to him, opened her notebook at a clean page, and said nothing whatever.
 
-She worked. He could hear her pen going in its long, even passages, and the small pause and click when she capped it and uncapped it again, and the turning of a page. She did not look at what he was writing. She did not ask him what was wrong.
+Then she worked. He could hear her pen running its long even lines, and the small pause and click of the cap coming off and going back on, and pages turning. She did not glance at his page. What was wrong was apparently none of her business until he made it so.
 
-For something like twenty minutes the two of them sat side by side at Prynn's long table, in the cold, paper-smelling quiet, and wrote. The companionable weight of it did more for him than Quenna's advice or his own frantic pages had managed. He noticed his shoulders come down. He had not known they were up.
+They sat like that at Prynn's long table for twenty minutes or so, side by side in the cold air that smelled of paper, both of them writing. It did more for him than Quenna's advice or his own anxious pages had done. At some point his shoulders came down, and he had not even known they were raised.
 
-When she spoke at last, it was not about the request.
+When Karis finally spoke, it was about something else entirely.
 
-"You're making the wrong kind of list." She kept her eyes on her own page. "I can see it from here. Your handwriting gets smaller when you're counting dangers instead of findings."
+"That's the wrong sort of list." She did not look up. "I can tell from here. When you're counting threats, your writing gets smaller. When you're counting findings, it doesn't."
 
-He looked down at his page. It was true. The letters had shrunk across the week like a man drawing in his elbows on a crowded bench.
+He looked at his page. She was right. Over the week the letters had pulled themselves in, like a man tucking his elbows in on a crowded bench.
 
-"I hadn't noticed that about my own handwriting."
+"I never knew my writing did that."
 
-"I have a page on it." She turned her notebook a little toward him, and he saw at the top of a sheet, in her small upright hand, *Handwriting, size of, under load*, and a column of dates. "Clause six. You're entitled to read it."
+"I've got a page on it." She angled her notebook toward him. At the top of a sheet, in her small upright hand, he read *Handwriting, size of, under load*, and under it a column of dates. "Clause six. You can read it."
 
-He read it. It was accurate, and dry, and contained no theory at all, only observations: the size of his letters on the day of the table, on the day of the first session, on each day since the request. The last three entries were each a little smaller than the one before. At the bottom she had written, *Cause unknown. Probable.* He laughed, which surprised him, and pushed the notebook back to her.
+He read it. It was exact and dry and held no theory, only measurements: how big his letters had been the day of the table, the day of the first session, and every day since the request. Each of the last three was a little smaller than the one before. At the foot she had written *Cause unknown. Probable.* He laughed out loud, which surprised him, and slid the notebook back.
 
-"Is there anything you don't keep a page on?"
+"Is there anything you don't have a page on?"
 
-"Very little." She uncapped her pen again. "For what it's worth, as a matter of research, this is a good problem to have. An institution asking formally for your records is a data point. It means you matter enough now to have a procedure. Most people never do."
+"Not much." She took the cap off her pen again. "If it helps, this is a good problem, scientifically speaking. An institution formally requesting your records is a result in itself. It means you matter enough now to have a procedure. Most people never do."
 
-"That's a strange sort of comfort."
+"That's an odd thing to be comforted by."
 
-"It's the only sort I really have." She looked at him then, and something in her face softened the clinical edge of what she had just said. "I don't do reassurance well. I do documentation."
+"It's the only kind of comfort I'm any good at." She looked at him properly then, and her face took some of the sharpness out of what she had said. "I'm bad at reassurance. What I can do is documentation."
 
-She went back to her page. He went back to his, and after a while he noticed that his letters had grown again, a little, back toward their usual size.
+She went back to her page, and he to his. After a while he saw that his letters had grown again, a little, back toward their proper size.
 
 ---
 
@@ -162,7 +162,7 @@ Halfway through he read *the panel's finding shall be entered*, and she stopped 
 
 He looked at the book. "The panel's finding shall be entered in the candidate's record."
 
-She looked at him over her spectacles for a long moment. "You read *shall*."
+Her eyes came up over the spectacles and stayed on him. "You read *shall*."
 
 "It says *shall*."
 
@@ -218,54 +218,54 @@ The transmittal had a small ruled box near the top marked *Requester's routing a
 
 Cael had seen codes in that shape before, on a handful of official papers over the last year, and he knew what they were for. They told an office how urgently to treat a thing. The Compact's cover sheet, which Naveth had let him copy, carried a printed key at its foot listing the priority tiers in use, each with its code and a word or two of meaning.
 
-He laid the transmittal beside his copy of the key and went down the list. The request itself was marked as a standard monitoring matter, and the key had a code for that. The code in the routing box was not that code. It was not any of the codes. It was formatted like them, the same length and the same slash, and it did not correspond to a single line in the key.
+He laid the transmittal beside his copy of the key and went down the list. On the cover sheet, the request was marked as ordinary monitoring business, and ordinary monitoring business had its own line in the key. The code in the routing box was not that code. It was not any of the codes. It was formatted like them, the same length and the same slash, and it did not correspond to a single line in the key.
 
-He showed it to Naveth on the stair the next morning. The provost gave it perhaps ten seconds, turned the page sideways once, and handed it back. Registry systems made noise, he said, old ones worst of all: retired categories, sub-processes nobody had closed, some clerk's slip thirty years ago copied forward ever since. He would not spend archive hours chasing it.
+He showed it to Naveth on the stair the next morning. The provost looked at it for about ten seconds, tilted the sheet once to the side, and gave it back. Registry systems made noise, he said, old ones worst of all: retired categories, sub-processes nobody had closed, some clerk's slip thirty years ago copied forward ever since. Chasing it through the archive was not worth an hour, in his view.
 
 Cael went to Prynn that afternoon anyway, because Prynn's whole working life was built around noticing things that did not fit their own filing, and a second opinion cost him nothing but a cup of terrible tea.
 
 She held the transmittal out at the full length of her arm, which was how she held anything she meant to read properly, and she looked at the routing box for a good deal longer than Naveth had.
 
-"I don't know the format," she said at last. "That isn't unusual by itself. The Compact changes its internal codes more often than it changes anything a student would ever see, and most of the changes never reach any key I'm allowed to hold." She laid the page on the desk between them and put one finger beside the box, not on it, as if the ink might be wet. "If it were something made for your file in particular, I'd expect it to match the kind of record it travels with. Provision files have their own codes. I've seen those. This isn't one."
+"I've not seen that shape of code," she said finally. "Which proves very little. The Compact rewrites its codes for its own clerks every few years, far oftener than anything a student sees, and the new keys mostly never come down as far as me." She laid the page on the desk between them and put one finger beside the box, not on it, as if the ink might be wet. "Provision files carry codes of their own. I know those. Had this been cut for your file, I'd expect one of them, and it isn't."
 
 "So it means nothing."
 
-"Or it means something that neither of us has the reference to read." She said it exactly, with no weight added and none taken away, the way she said everything. She handed the page back. "Keep the page. Don't build anything on it."
+"Or it means a great deal, in a book neither of us is allowed to open." She said it exactly, with no weight added and none taken away, the way she said everything. She handed the page back. "Keep the page. Don't build anything on it."
 
 He kept the page. He built nothing on it. He gave it one line in the back pages of the binder, with no theory attached.
 
-*Routing code on the transmittal matches no tier in their own key. Naveth says noise. Prynn says keep the page. Writing it down because writing things down is cheaper than being wrong about which ones mattered.*
+*Routing code on the transmittal matches no tier in their own key. Naveth says noise. Prynn says keep the page. Writing it down because a line in the binder costs less than guessing wrong later about which things mattered.*
 
 Then he put the whole conversation in the back section with the rest of the things that were probably nothing. He reminded himself, not quite convinced, that *probably nothing* and *nothing* were not the same, and that the gap between them was worth keeping in mind even when there was nothing to be done about it.
 
 ---
 
-That evening the three of them took the wall outside the residence wing again, and while the sky over the hill town went from gold to grey he thought about the bundle.
+The sky over the hill town went from gold to grey while the three of them sat on the wall outside the residence wing, and Cael spent most of it thinking about a satchel.
 
-It would be on a road by now, wrapped in oiled cloth, in a courier's bag. It would reach a desk somewhere, and somebody would cut the string, and read Wray's six words and Quenna's two, and the rotating seat's long careful paragraph about an anticipation that thinned against faster opponents.
+By now the bundle would be on the road in the courier's bag, wrapped in its oiled cloth. In a day or two it would come to rest on a desk. A knife would go through the string. Someone would read the six words Wray had given the second sitting and the two Quenna had given both, and the rotating seat's long, careful paragraph about an anticipation that grew thinner as opponents grew quicker.
 
-"They've known my name ever since Denvash," he said, mostly to himself. "Every single day. Nothing about that changed this month."
+"My name went into their books in Denvash," he said, not really to anyone. "They've had it every day since. That part's no different this month."
 
-"So what did change?" asked Lira.
+"Then what is?" said Lira.
 
-He sat with the question before he answered, because it deserved that.
+It was a fair question, so he gave it time.
 
-"Where I am," he said. "Denvash never had walls round it that belonged to anybody but Denvash. The circuit was open ground; nobody owned it, not really, not in a way that let them knock. This is the first place I've ever stood that belongs to an institution they can make demands of. They didn't find me. They always knew where I was. I've just finally stood somewhere with a door they're allowed to knock on."
+"The ground I'm standing on. Denvash's walls were Denvash's; nobody else had a key. The circuit wasn't anyone's at all, not so they could come and rap on it. Greyvane's different. It answers to them. They can tell it what to do, and it has to listen." He watched the town. "They never lost me. They knew where I was the whole time. All I've done is stand somewhere with a door they're allowed to knock on."
 
-Brom had been quiet, watching the last colour go out of the sky with the patience he gave most things now. He spoke without turning his head.
+Brom had been watching the colour leave the sky, with the slow patience he gave most things now. When he spoke he did not turn his head.
 
-"When I was small, my family had a steward who handled the debts. The ones owed to us, I mean." He considered the hill town's first lamps. "He used to say that a man who sends a letter before he sends a cart expects to be paid in the end, and wants to be paid without trouble. He said the ones who worried him were the ones who sent the cart first."
+"When I was little, my family kept a steward for the debts. The ones people owed us." He seemed to be counting the first lamps below. "He used to say that a man who writes before he sends the cart means to be paid in the end, and means to be paid quietly. The ones to fear, he said, were the ones whose cart came first."
 
-"Which is this?" asked Lira.
+"And this one?" said Lira.
 
-"A letter." Brom shrugged, carefully, the small economical movement Cael had learned meant the sentence underneath it had been considered for a long time. "Somebody who writes for paper first wants it done by the book. That means there's a book. And Cael reads books."
+"Wrote." Brom lifted his shoulders the smallest amount, the spare little shrug that Cael had learned meant the words under it had been a long time in the making. "If you write for papers first, you want it done according to the book. So there's a book. And Cael reads books."
 
-Lira snorted, and then laughed, and bumped Brom's knee with hers. "That's the most comforting thing you've ever said, and it was about debt collection."
+Lira snorted, then laughed outright, and knocked Brom's knee with hers. "That's the most comforting thing you've ever said, and it was about collecting debts."
 
-"Velmere was very good at debt collection," said Brom, without rancour. "It's one of the few things I learned there that I still use."
+"Velmere was very good at collecting debts," Brom said, without any bitterness. "It's one of the few things I learned there that I still use."
 
-Cael laughed too, and sat between them in the dusk for a long while without speaking. Then he got the binder out, while there was still enough light to see by, and wrote the entry slowly, in the square hand he kept for things that would last. A thing that was going to stay written deserved to be written exactly, even when exactness made it no easier to read.
+Cael laughed with them, and then sat between them in the dusk for a long time without talking. Before the light was gone he took the binder out and wrote, slowly, in the square hand he saved for what had to last. A thing that would stay written ought to be written exactly, even when being exact did not make it any easier to read.
 
 *They know where I am. They always knew where I was. What's changed is that where I am now has walls they think they own.*
 
-He closed the binder. Below them, in the hill town, the lamps came on one by one along the single street worth walking. Somewhere beyond the town a courier's horse was carrying three certified signatures and two sittings' worth of records down a road Cael would never see the end of, toward a desk he would never sit at, to be read by someone who had asked.
+He shut the binder. Down in the town the lamps were coming on, one after another, along the one street worth walking. Somewhere past the last of them a courier's horse was carrying three certified signatures and two sittings' worth of record down a road whose end Cael would never see, toward a desk where he would never sit, for a reader who had asked.

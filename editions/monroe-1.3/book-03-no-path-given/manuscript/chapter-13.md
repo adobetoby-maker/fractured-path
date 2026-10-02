@@ -16,37 +16,35 @@ Then a person looked at it, and it moved from the bottom of a long pile to the t
 
 ---
 
-Coss read the notice three times before he let himself close the folder.
+The folder lay shut under Coss's flat hands. He had read what was in it three times before he let himself close it: once for what it said, once for how it said it, and once more from the beginning, slowly, as though the name in it were new to him. A monitoring assignment that turns up next to nothing, season after season, teaches a man to keep a careful distance between the words on a page and the words he would like to find there.
 
-He had learned, over a monitoring assignment that had produced almost nothing worth reporting, to be careful about the space between what a piece of paper said and what he might want it to say. So he read it once for the facts and once for the language and a third time from the top, slowly, as if he had never seen the subject's name before.
+*Notice of index correspondence. Subject: Cael. Event: enrollment, chartered institution. Institution: Greyvane Academy. Category of enrollment: unclassified observer, demonstration provision. Notation entered.*
 
-*Notice of index correspondence. Subject: Cael. Event: enrollment, chartered institution. Institution: Greyvane Academy. Category of enrollment: unclassified observer, demonstration provision. Notation entered.* Beneath that was a line he had never seen on a notice of this kind: *Acknowledgment returned to originating institution, Received for Notation*, and a reference number, and a date that was already three days old.
+Under that came a line he had never met on a notice of this kind. *Acknowledgment returned to originating institution, Received for Notation.* After it, a reference number, and a date already three days stale.
 
-So the academy had a card. Somewhere up a hill he had never visited, someone was holding a grey card with a purple stamp on it, and believing, quite correctly, that a clerk had filed a sheet.
+So there was a card. Up some hill he had never climbed, a person was holding a small grey card with a purple stamp across its corner and believing, rightly, that a clerk somewhere had filed a sheet.
 
-Below the reference number was the field that always came last on any notice to do with this file, and it was the one he had stopped expecting to read. Where the supervisory designation should have been there was a short ruled bar, as neat as a line drawn under a sum, and beneath it, in small type, *Field restricted. Recipient clearance insufficient.*
+The last field was the one that always came last on this file, and he had long since stopped expecting to be able to read it. In the place where a supervisory designation belonged there was a short ruled bar, tidy as the line under a column of figures. Small type beneath it said: *Field restricted. Recipient clearance insufficient.*
 
-He looked at the bar for a while. He had seen it on every notice for this file since the first. Once he had written upward about it, in the plainest language the form allowed, asking only what it was, so that he could do his work properly. He had not asked to be given more authority, or a larger budget, or anything that could be mistaken for ambition. He had asked what was on his own file.
+The bar had been on every notice since the first. Once, early on, he had sent a note up the chain about it, worded as plainly as the form permitted. He had not asked for more authority, or more money, or anything a reader could take for ambition. He had asked what was written on his own file, so that he could do his work properly. Nothing had come back down. He had let one season pass, and another, and then he had folded the silence away in the drawer where he kept whatever the work produced that no form had a place for, and carried on.
 
-No answer had come back. He had waited a season, and then another, and then had put the silence away in the drawer he kept for whatever the work produced that the forms had no place for, and gone on.
+The district office was narrow, with one window on an alley, and he had worked from it for longer than he cared to count.
 
-He closed the folder and sat with his hands flat on it in the narrow district office he had worked from for more years than he cared to add up.
+What had changed was not a matter of feeling. It was a matter of jurisdiction, and he made himself put it to himself in those words, because they were the words his reports would need.
 
-What had changed was not personal. It was a matter of jurisdiction, and he made himself think it in those terms, because they were the terms he would have to write in.
+A boy with a strange word in his registry entry, living quietly in some unranked district or fighting on an open circuit that no one held a charter for, was a thing to be watched. Coss could watch him, and report, and do nothing else. For a long while he had done exactly that and nothing else, and done it honestly.
 
-A boy with an odd word on his registry file, living quietly in an unranked district or fighting on an open circuit that belonged to nobody, was a matter for watching. Coss could watch him and report on him, and do nothing else, and he had done nothing else, honestly, for a long time.
+Put the same boy's name on the roll of an academy chartered by the Compact, and he was something different. The day that line went into the regional book, the boy had stepped off ground where a Warden could only look, onto ground where a Warden's writ could bite.
 
-The same boy, enrolled by name at an academy that held a charter from the Compact, was something else. On the day that line went into the regional book, he had walked out of a place where a Warden could only watch and into one where a Warden's writ had teeth.
+Before writing a single word, Coss counted what the file had cost him already.
 
-He thought, before he wrote a word, about what the file had cost him so far.
+It had cost him a long string of quarterly reports that were really one report, its three sentences dressed in fresh clothes each time. Subject remains outside any chartered institution. Subject has generated no formal complaint. Office recommends continued monitoring at the present level.
 
-It had cost him season after season of reports that were really one report, its three sentences dressed differently each time. The subject remained outside any chartered institution. The subject had generated no formal complaint. The office recommended continued monitoring at the current level.
+It had cost him a superior who scarcely ever wrote. Coss had learned early not to mistake that silence for neglect. The Compact did not hand its slow assignments to officers it meant to check on every week. It handed them to the ones it trusted to tell an empty season from a quiet one, and to say which it had been without decoration.
 
-It had cost him a superior who almost never wrote, and he had learned young not to take that for neglect. The Compact did not staff its patient assignments with officers it meant to check on every week. It gave them to officers it trusted to tell an empty season from a quiet one, and to report which it was without dressing it up.
+He had said which, every time. Whatever else the file came to, he would stand behind that part of his record in front of anyone. He had never once swelled a report to keep the assignment breathing, and never once trimmed one to let it die. The boy had simply gone on, month after month, not crossing the threshold.
 
-He had reported which, every time. Whatever else came of the file, that much of his record he would defend to anyone. He had never once made a report sound larger to keep the assignment alive, and never once made one sound smaller to let it close. The boy had simply, for a long time, done nothing that crossed the line.
-
-Now he had. Not by fighting anyone. By signing a form.
+Now he had crossed it. He had not done it with his fists. He had done it with a pen, on a form.
 
 ---
 
@@ -58,11 +56,11 @@ He read the approval standing at the window of the district office with his coat
 
 A request of that kind usually took a week to come back and often three, climbing a ladder of desks that each had to initial it. This one had come back faster than the evening coach could reach the regional town and return. It had not climbed a ladder at all. It had gone to one desk, somewhere above his, and the person at that desk had been waiting for it.
 
-He allowed himself a single unprofessional minute over that.
+For one minute he let himself feel about it as a private man would.
 
-The file was live at a level he could not see. It had been live there for some time, perhaps from the beginning, and in all the seasons of his quarterly reports nobody at that level had ever sent so much as a clarifying question back down.
+Somewhere above his sight, the file was alive. It had been alive up there for some time, perhaps from the beginning, and in all the seasons of his quarterly reports nobody at that height had ever sent so much as a clarifying question back down.
 
-Someone had been happy to leave the file in his hands alone, for the plain reason that he handled it well. From where he stood, that was either a compliment or a use, and a long career had taught him that from below the two looked the same.
+Someone had been happy to leave the file in his hands alone, for the plain reason that he handled it well. It might have been praise. It might have been convenience. A long career had taught him that, looking up from underneath, there was no telling which.
 
 He thought of the ruled bar on every notice, and of his one plain question about it. Whoever had approved his request in less than a day could read what was under the bar. He still could not.
 
@@ -78,15 +76,15 @@ It came to him flatly, as most facts about himself came to him, that it was the 
 
 He had packed then in a Denvash lodging with the thin file open on the bed beside the bag, for a journey across to a district of Ardenmere where a boy he had never seen was living on Unranked access. He had expected a week's errand. He had come back with a summons stamped closed-pending, a page of notes in his own hand, and a file he had not known, at the time, he would be carrying for years.
 
-Since then the file had asked nothing of him but reading and writing. Tonight it asked for a bag on the floor of a room he had lived in for longer than any assignment should keep a man in one place. It asked for a document case lying open beside the bag with nothing in it yet. The case would hold the challenge. He had not drafted the challenge. He knew already, in its outline, that he was going to.
+Since then the file had asked nothing of him but reading and writing. Tonight it wanted a packed bag set down on the floorboards of a room he had lived in for longer than any assignment should keep a man in one place. It asked for a document case lying open beside the bag with nothing in it yet. The case would hold the challenge. He had not drafted the challenge. He knew already, in its outline, that he was going to.
 
 ---
 
-He left before dawn. Nothing in the assignment required it; it was his own habit. In a long career he had never once found that travelling with the sun already up improved anything about the travelling. He had found many times that the first hours of a road were the only quiet ones it had.
+He left before dawn. Nothing in the assignment required it; it was his own habit. Setting out after sunrise had never, in all his years, made a journey any better. He had found many times that the first hours of a road were the only quiet ones it had.
 
-The route ran first to the regional office, where any assignment to a chartered academy had to begin with a formal briefing and a challenge packet, and neither had been prepared. After that, when the packet was ready and not before, it would run on to the academy itself.
+First came the regional office. No officer on assignment could go near an academy holding a charter until he had sat through a formal briefing and been handed a challenge packet, and nobody had prepared either one. After that, when the packet was ready and not before, it would run on to the academy itself.
 
-He did not have a date for that second road. He had learned not to want one until the first road was finished. A challenge filed early on paperwork that was not yet sound was worse than a challenge filed late, and he meant this one to be sound in every joint.
+No date had been set for the second road yet. He had learned not to want one until the first road was finished. File too early, on paper that still had a weak joint in it, and you did more harm than by filing late. This challenge would have no weak joints.
 
 The coach was half empty and cold. He sat by the window with the file on his knees and read it again from the first page, which was his custom whenever a case was worth the travelling.
 
@@ -94,7 +92,7 @@ He did it in the hope that a file read fresh would yield some detail that a file
 
 What the reading actually did, he understood well before the regional town came in sight, had less to do with the file than with himself. It was a way of arriving already settled, so certain of every fact he carried that whatever happened when he finally reached the boy's gate, nothing he learned there would take him unawares.
 
-Only once in his career had a case taken him unawares. It had been very early, and he had judged it wrongly, and he still thought about it more often than the job required. The long re-reading had begun after that case, and he had never once regretted the hours it cost.
+Only once in his career had a case taken him unawares. He had misjudged that one, near the start, and it still came back to him more often than the work had any need of. The long re-reading had begun after that case, and he had never once regretted the hours it cost.
 
 The file was thick. It held the quarterly reports, all of them, in his own hand, each one a little shorter than the last, as if the sentences had grown tired of being said.
 
@@ -130,7 +128,7 @@ Most of it was the form. Name, date of summons, the reference, the designation i
 
 He had written the last part against the form's convention. Assessorial style discouraged anything that sounded like a description of character, and a senior officer had once told him, mildly, that *frightened* was a word for novels.
 
-Coss had never once considered striking it. In all the time since, it had been the single most accurate sentence in the file. All that the boy had done since that afternoon could be found folded inside it. Frightened, controlled it well, and better at both halves every year.
+Coss had never once considered striking it. In all the time since, it had been the single most accurate sentence in the file. All that the boy had done since that afternoon could be found folded inside it. The years since had only sharpened both halves of it, the fear and the hold he kept on it.
 
 He remembered the afternoon more clearly than he would have chosen to. He remembered the cramped office he had borrowed for two days, and the boy coming in on time with a folded document in his hand, and sitting with his hands pressed together on his knees so tightly that the knuckles had gone pale.
 
@@ -154,7 +152,7 @@ He thought, too, of the bar on the notice, and of the desk above his where someb
 
 Before he put the file away, he took a clean sheet from the document case and tried the first line of the challenge. He had found that the first line of a thing told him more about its difficulty than a week of thinking about it.
 
-*The respondent is enrolled at Greyvane Academy under the category of unclassified observer, a category reserved by its own terms for candidates who have not yet undergone formal Kindling assessment.*
+*The respondent is enrolled at Greyvane Academy as an unclassified observer, a category its own gloss limits to candidates yet to undergo formal Kindling assessment.*
 
 That was true. He wrote the next line.
 
@@ -182,84 +180,80 @@ Coss did not yet know what his challenge would say. He knew exactly whom it woul
 
 ---
 
-The records request reached Naveth's desk in the fourth week, by the standard channel, under a standard header that told the provost nothing except that somebody at the Compact had begun to pay attention.
+The request came up the hill in the fourth week, by the ordinary channel, under the ordinary printed header. That header told a provost nothing at all, except that someone at the Compact had begun to pay attention.
 
-Cael knew because Naveth sent for him. A junior clerk found him in the stable after the midday meal and said the provost would like a word, in the tone of someone who had been told to make it sound less important than it was. Cael climbed the worn stair to the top of the old building with his stomach doing something it had not done since the morning of his first assessment.
+Naveth sent for him. The clerk who found Cael in the stable after the midday meal said that the provost would like a word, and said it lightly, in the voice of a person who has been told to make a thing sound smaller than it is. Cael climbed the thirty-one hollowed steps with his stomach doing what it had last done on the morning of his first sitting.
 
-The door stood open. Cael had learned to read that. When Naveth wanted a conversation private he shut the door on it, and when he did not mind who heard, he left it wide, and this was evidently one he did not mind.
+The door at the top was wide open. He had learned what that meant. A conversation Naveth wanted kept went on behind a shut door; one he did not care who overheard went on behind an open one.
 
-"Sit. You'll want to see this, and I'd rather you saw it in that chair than heard about it on the stairs."
+"In. Sit. Better you see this from the chair than hear about it on the stair."
 
-He turned a single sheet around on the blotter. It was printed on heavy paper, with a seal at the top and a list down the middle.
+The sheet he turned round on the blotter was heavy, sealed at the head, with a list running down its middle.
 
-"Enrollment documentation, complete," Naveth read aloud, running one long finger down the items. "Citation of the provision. Assessment records to date, with assessors' names." He looked up. "They're being careful. Careful isn't quick. Quick is the only thing that would worry me."
+"Enrollment documentation, complete." Naveth's long finger travelled down the column. "Citation of the provision. Assessment records to date, with assessors' names." He lifted his eyes. "Careful. That's what they're being. Careful is slow. If they'd been in a hurry, I'd be worried."
 
-Cael read the list over the provost's hand. It was long. Every item on it was, strictly speaking, something the academy was bound by its charter to produce, and none of it was phrased with any urgency at all. He could not tell whether that was reassuring. Naveth seemed to think it was more informative than urgency would have been.
+Cael read the items again over the provost's knuckles. There were a good many, and the charter obliged the academy to produce every one of them on request. Not a single line was urgent. Cael could not decide whether that was a comfort. Naveth plainly thought it told him more than urgency would have.
 
-"You're going to comply," Cael said. It was not quite a question.
+"So you'll hand it over."
 
-"I'm going to give them every single thing the regulation says I must, and I'm going to give it at the last moment the regulation allows." Naveth set the request aside and reached into a drawer for a pad of blank requisition slips. "There's a way of obeying that looks from a distance like dragging your feet, and that the code, read word by word, can't tell apart from care. I've spent a long career learning the difference. The difference is patience."
+"All of it. Every last thing the regulation says I owe." Naveth set the sheet to one side. "On the last day the regulation lets me. Seven days from receipt is what a chartered school is given, and they'll have it on the seventh, inside the final hour that still counts as the seventh, and not one word of it will be wrong."
 
-He began to work as he talked, and Cael watched him do it.
+"How much longer could you stretch it, if you tried?"
 
-He took the request apart. Each item on the Compact's list became a separate slip, and each slip was addressed to the office that had made the original document. The enrollment form had been made at the intake desk, so its copy had to be certified by the intake clerk, and the certification countersigned by the clerk's supervisor. The supervisor kept countersigning hours on two afternoons a week and no others.
-
-The provision's citation had to be copied from the bound statute book, not from any loose sheet. The bound statute book lived in the archive, and Prynn certified archive copies on the second and fourth afternoons, by lamplight, in her own hand, and had never once in her life been hurried.
-
-The assessment records belonged to the panel, and each assessor had to certify his or her own entries. The white-haired man who had sat the rotating chair at the first sitting was away in the north until the end of the week. When every slip had come back certified and countersigned, the whole bundle had to be assembled, checked against the request line by line, and sealed in the presence of two officers of the academy.
-
-"How long does the regulation give us?" Cael asked.
-
-"Seven days from receipt, for a chartered institution, to produce what it's asked for." Naveth wrote a date on the last slip and underlined it. "We'll produce it on the seventh, in the last hour that's still the seventh. Every word of it will be correct."
-
-"How long could you make it take, if you wanted?"
-
-"Exactly that long. Not one hour longer." Naveth almost smiled. "I didn't write these rules, Cael. I've just never seen why I should hurry through them faster than they require."
-
-Cael watched him for a while. The pad of slips grew into a small orderly stack, each one perfectly legal, each one sending a single piece of the request on a slow, honest walk round the building. He recognized the shape of it, the longer he looked, because it was the shape of the thing he had spent his whole life learning to do with his body.
-
-Vell had taught him to read a fight for its gaps before he ever threw a strike. Naveth read a regulation like that, looking past what it forbade to the honest gap between what it required and what it only permitted. He lived in that gap with the calm of a man who had learned long ago that it was roomier than most people believed.
-
-"You've done this before," he said.
-
-Naveth raised his eyes, and his long face softened for a moment into something close to fondness, the look of a man being recognized at last for a skill he had polished in obscurity for decades.
-
-"This academy's whole way of admitting students makes paperwork disputes, lad. Late Kindlers whose families quarrel with the station. Re-certification candidates whose old schools drag their feet over a file. Larger academies that dislike losing a student to a place with worse floors and a better idea." He set his pen down. "I've been walking slowly in front of the Compact since before you Kindled. It's the most practised skill on these grounds. You happen to be the first case important enough to need all of it at once."
+"Not an hour. That's the point." His mouth nearly moved. "I didn't make these rules. I simply can't see why I should run through them faster than they ask me to."
 
 "Does it work?"
 
-"It buys time. In my experience it has never once made a determined opponent go away." He picked the pen up again. "What it does is turn their timetable into yours, which is worth more than it sounds. A hurried defence loses to a patient prosecution nearly every time. Patience against patience is at least a fair contest."
+"It buys time. I've never yet seen it make a determined opponent give up and go home." Naveth took a pad of blank requisition slips from a drawer and squared it. "What it does is take their timetable away from them and hand it to us. That's worth more than it sounds. Rush a defence against a patient prosecutor and you lose nearly every time. When both sides can wait, the fight's at least even."
 
-"And if they're patient too?"
+"And if they're patient as well?"
 
-Naveth paused over the slips. For a moment the easy authority he had carried through the whole conversation went out of him, and what was left underneath it was plain honesty, which Cael trusted more.
+The provost's hand stopped over the pad. For a moment the comfortable authority went out of him, and what was under it was simply a man being straight with a boy, which Cael trusted more.
 
-"Then it's a matter of whose time runs out first, and I won't pretend to know which. The Compact has more patience than any single office inside it. But offices are made of people, and people get moved to other posts, and lose interest, and retire, and get promoted to somewhere the file stops mattering." He tapped the request. "If the person handling this on their side is a person and not simply a process, that's better news for us than it sounds. Processes never get tired. People do."
+"Then it comes down to whose patience gives out first, and I won't pretend I know. The Compact as a whole can wait longer than any one office in it. But offices are people. People get posted somewhere else. They get bored. They retire. They get promoted to a desk where the file stops mattering to them." He touched the request with one finger. "Suppose a person is carrying this at their end, and not just a procedure. I'd count that good news. Procedures don't tire. People do."
 
-"You're hoping for a person."
+"You're hoping it's a person."
 
-"I'm hoping," said Naveth, "that whoever it is has been at this long enough to tell a quarrel worth pressing from one better left to go cold. Most people who last a long time on a quiet file come to have opinions about which is which." He squared the stack of slips against the edge of the blotter. "We'll find out whether this one does. Go to your lectures. Pass your assessment tomorrow. That's still your whole part, and it's still the part that matters most."
+"I'm hoping it's somebody who's been at it long enough to know which quarrels are worth finishing and which are better left to cool. A man who lasts years on a quiet file usually forms a view on that." He uncapped his pen. "We'll see whether this one has."
 
-Cael went down the worn stair slowly, one hand on the cold wall. At the bottom he stopped and stood for a moment in the passage with the request's careful list running through his head, *assessment records to date, with assessors' names*. He understood that tomorrow's sitting would be the first one he had ever walked into knowing for certain that somebody far away had already asked to read it.
+Then he took the request apart, and Cael sat and watched it happen.
 
-Karis was crossing the yard when he came out of the old building, with her notebook under her arm and her borrowed stool in the other hand, on her way back to the lecture wing to return it. She looked at his face once and changed direction.
+Each line on the Compact's list turned into its own slip, and each slip went to whichever office had made the thing in the first place. The enrollment form had come from the intake desk. So the copy needed the intake clerk's certificate, and that certificate needed the countersignature of the clerk's supervisor, who countersigned on two afternoons of the week and on no others. The citation could only be copied from the bound statute book, never from a loose sheet. The bound book lived in the archive, and archive copies were certified by Prynn, on the second and fourth afternoons, by lamplight, in her own hand, at a pace no one alive had ever managed to hurry. The assessment records belonged to the panel, and every assessor had to certify his or her own lines. The white-haired man who had held the rotating seat at Cael's first sitting was away in the north until the week's end. Only when every slip had come home certified would the bundle be put together, checked against the request line by line, and sealed with two officers of the academy looking on.
+
+The little stack of slips grew, each one perfectly lawful, each one sending a piece of the request on a slow and honest walk round the building. The longer Cael watched it grow, the more familiar it looked. It was the thing he had spent his life learning to do with his body.
+
+Before he ever let a strike go, he looked for where a fight was thin; Vell's yard had drilled that into him. Naveth looked at a regulation that way. He was not interested in what it forbade. He was interested in the honest space between what it demanded and what it merely allowed, and he lived in that space as calmly as a man in his own house, because he had learned long ago that it had more rooms than most people thought.
+
+"You've done this before," Cael said.
+
+Naveth looked up, and his long weathered face warmed for a moment toward fondness. It was the look of a craftsman whose best work has gone unremarked for most of a lifetime, hearing someone remark on it at last.
+
+"The way this school takes its students breeds paper quarrels, lad. Families of late Kindlers who argue with the station. Old schools that sit on a re-certification candidate's file. And the big schools, which take it badly when a student chooses poorer floors here for the sake of a better idea." He laid down his pen. "Since before your Kindling I've been dawdling, lawfully, in front of the Compact. It's the skill this place has practised hardest. Yours is merely the first case big enough to call on all of it together."
+
+He squared the slips against the blotter's edge.
+
+"Go to your lectures. Pass your sitting tomorrow. That's still all you have to do, and it's still the part that counts most."
+
+Cael went down the stair slowly, one palm on the cold wall. At the foot he stopped in the passage while the list went on reciting itself in his head, *assessment records to date, with assessors' names*, and he understood that tomorrow, for the first time, he would walk into a sitting knowing for certain that someone a long way off had already asked to read it.
+
+Karis was crossing the yard as he came out, her notebook under one arm and the borrowed stool in her other hand, taking it back to the lecture wing. She glanced at his face once and turned toward him.
 
 "Something's happened."
 
-He told her. It did not occur to him until afterward that he had not decided to; it was simply the next thing he did. He told her what the request asked for and how Naveth meant to answer it, and the seven days, and the last legal hour.
+He told her. Only later did he notice that he had never decided to; it was simply the next thing he did. He told her what the request wanted and how Naveth meant to meet it, the seven days and the final lawful hour.
 
-She listened without interrupting, and when he had finished she was quiet for a moment.
+She heard him out in silence, and stayed quiet for a moment after.
 
-"May I note it?" she said. "That an institution has formally asked for your records. Only the fact and the date. Nothing about what's in them."
+"May I write it down?" she said. "Only that an institution has asked for your records, and the date. Nothing about what's in them."
 
-"Why?"
+"What for?"
 
-"Because it's an event that happened to you, and it'll change what I see in the sessions whether I note it or not. You'll be different for the next fortnight. Anyone would." She shifted the stool in her hand. "If I don't write down why, I'll be tempted to explain it some other way later, and the other way will be wrong."
+"Because it happened to you, and it'll change what I see in the sessions whether I write it or not. You'll move differently for a fortnight. Anybody would." She shifted her grip on the stool. "If I don't put down the real reason, I'll be tempted later to put down some other reason, and the other one will be wrong."
 
-He thought about the sixth clause, and the struck line with the correction beside it, and the honest care in the question.
+He thought of the sixth clause, and of a struck-through line on her page with its correction written in beside it, and of the plain care in the way she had asked.
 
-"Note it," he said.
+"Write it," he said.
 
-She nodded, and did not open the notebook there in the yard, where anyone might see. She only said, "Thank you. I'll show you the line," and went on toward the lecture wing with the stool.
+She nodded. She did not open the notebook there in the open yard, where anyone could see. She only said, "Thank you. I'll show you the line," and went on toward the lecture wing, holding the stool a little away from her side.
 
-He watched her go across the yard with the stool held out a little from her side, and found that the list in his head had grown quieter. It had not gone. It had only, for the first time since the provost turned the sheet round on the blotter, stopped being something he was carrying alone.
+He watched her go, and noticed that the list in his head had gone quieter. It was still there. But for the first time since the provost turned the sheet round on the blotter, he was not carrying it alone.

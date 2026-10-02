@@ -14,7 +14,7 @@ He was not alone. Three or four students were nearby, doing other things very sl
 
 "Observers don't demonstrate."
 
-Edran said it to the yard in general, in a clear, level voice that carried without being raised, but his eyes stayed on Cael the whole time, and Cael stopped walking.
+Edran said it to the yard in general, in a clear, level voice that carried without being raised, but he never once took his eyes off Cael, and Cael stopped walking.
 
 "That's not what the category is for. I've read the provision. I've sat beside observers in lectures since my first year. Observers watch. They take notes. They don't get a panel and a closed hall and a training partner at first bell." He tilted his head very slightly. "So either the faculty spent a morning watching you do nothing, which I don't believe, or somebody wrote a form that says one thing and means another."
 
@@ -40,7 +40,7 @@ Edran looked at him for a long moment, weighing it as Cael had watched him weigh
 
 "Yes."
 
-Edran nodded once, slowly, as if filing something away for later, and turned and walked off toward the training hall without another word. The boy with the boot went after him, and the others drifted apart, already talking. Cael stayed where he was by the north gate, his own shadow stretched long beside him on the packed earth, and understood that the question had not been answered. It had only been put down, carefully, where both of them could see it.
+Edran nodded once, slowly, as if filing something away for later, and left for the training hall without saying anything else. The boy with the boot went after him, and the others drifted apart, already talking. Cael stayed where he was by the north gate, his own shadow stretched long beside him on the packed earth, and understood that the question had not been answered. It had only been put down, carefully, where both of them could see it.
 
 ---
 
@@ -276,7 +276,7 @@ He stopped there for a while.
 
 He had walked through the gate two weeks ago thinking of the observer category the way everyone did, as a patch over a hole in the rules, bars with a hinge on them, something to put up with until somebody could argue him into a better one. He had thought the narrowness was the whole of it and that his work at Greyvane would be pushing at the bars. It was not the whole of it. The category had shut him out of every open bout on the grounds; it had refused him a partner, in writing; it had put him in a room full of thirteen-year-olds and at the far end of every desk. And because it had shut him out of everything, it had left him standing at the edge of everything with nothing to do but look. He had never had so much to look at in his life.
 
-He wrote it slowly, in the careful hand he saved for entries he meant to reread.
+He took his time over it, using the slow square hand that meant he expected to come back to the page.
 
 *Greyvane, end of week two. Eleven Paths seen closer than the circuit ever let me. They built the observer track to hold me still.*
 

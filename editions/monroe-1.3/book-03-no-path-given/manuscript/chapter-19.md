@@ -8,7 +8,7 @@ It was cold. The first frost had come in the night at last, and the packed earth
 
 He stopped at the edge of the ring and let himself take the crowd in one piece at a time, because the alternative was to take it all at once.
 
-The three chairs stood at the north end with their chalk ticks and the little table and its inkwell. Quenna sat in the middle with the assessment ledger open. Wray sat on her left in the brown coat, upright and still. The rotating seat this month was the lean old instructor who took the heat Paths, the one with scorched cuffs, who had watched Karis lay six practice points on her second afternoon at Greyvane and said only *Ternhall*. He had a slate on his knee and a pen held loosely, and he was looking at the crowd with the mild, appraising interest of a man who had seen a great many crowds and expected to be mildly disappointed in this one.
+The three chairs stood at the north end with their chalk ticks and the little table and its inkwell. Quenna sat in the middle with the assessment ledger open. Wray sat on her left in the brown coat, upright and still. The rotating seat this month was the lean old instructor who took the heat Paths, the one with scorched cuffs, who had watched Karis lay six practice points on her second afternoon at Greyvane and said only *Ternhall*. He had a slate on his knee and a pen held loosely, and he was looking at the crowd with the mild, appraising interest of someone who had sat before plenty of crowds and expected this one to disappoint him a little.
 
 Lira and Brom were at the front of the rail on the open side, near the south mark, where they had plainly been since before the frost lifted. Lira had her arms folded and her chin up. Brom stood beside her with his feet planted and his hands clasped behind his back, as he had stood at the rail of section four for his witness session, like a man attending something he had been told was important and meant to take seriously.
 
@@ -16,7 +16,7 @@ Karis was three places along from them with her notebook already open and her pe
 
 Hobb was at the far corner of the rail, alone, with his hands in his pockets. Gerda was near the gate with her arms folded and her patched coat buttoned to the chin. And on the front bench, squeezed between two first-years who were both taller than her, sat Oona, with her slate on her knees and both hands pressed flat on top of it.
 
-He made himself stop counting faces somewhere past fifty, and breathed.
+Past fifty faces he made himself quit counting and simply breathe.
 
 Then he did the thing he had come to do, before anything moved, because that was the rule.
 
@@ -42,7 +42,7 @@ Cael took the south mark. Eight paces of swept earth lay between them, and the c
 
 "I know. I watched."
 
-Edran's mouth moved, very slightly. It might have been the beginning of a smile, if he had allowed it to go on.
+Edran's mouth moved, very slightly. Allowed to continue, it could have become a smile.
 
 Wray rose from her chair, came to the edge of the ring, and raised one finger.
 
@@ -194,7 +194,7 @@ A second-year leaned down from the bench above her. Lira knew him: one of the cr
 
 The second-year straightened up and went pink, and the girls on either side of him laughed, and Lira grinned for the first time since the frost.
 
-In the middle of the ring, Wray had come forward to look at the cut. She looked at it the way she looked at everything, as a measurement, and then asked Cael something too quietly to carry. Cael shook his head. Wray looked at him a moment longer, then stepped back to the edge of the ring and wrote on her slate, and Lira understood that she had asked whether he wanted it bound before the third and he had said no.
+In the middle of the ring, Wray had come forward to look at the cut. She took it in as she took in everything, as a measurement, and then asked Cael something too quietly to carry. Cael shook his head. Wray looked at him a moment longer, then stepped back to the edge of the ring and wrote on her slate, and Lira understood that she had asked whether he wanted it bound before the third and he had said no.
 
 Of course he had. He wanted the arm where he could feel it.
 

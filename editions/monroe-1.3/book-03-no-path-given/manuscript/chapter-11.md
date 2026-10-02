@@ -1,172 +1,166 @@
 # Chapter 11 — Terms
 
-Somewhere in the last year he had stopped deciding things alone, and he could not have said on which day. There had been no moment of choosing. It had felt like a habit forming in the way his habits usually formed, quietly and by repetition, until one morning he looked up and saw the shape of it and understood it had been there for months.
+She had chosen her spot on the lecture wing's stair with some care. It was the landing, not a step, and she stood off to one side of it, so that Cael could climb up to her or walk on past without either of them having to pretend anything. He took in the placing before he took in her face, and it confirmed what he had begun to suspect, that very little about Karis Dellenmoor happened by chance.
 
-Karis seemed to understand this about him before he had said a word of it.
+"I haven't come for an answer," she said. "I'd like to change what I asked you, if you'll allow it."
 
-She was waiting on the landing of the lecture wing's stair the next morning, not on the step he would have to pass, and not in the corridor where he would have had to stop or walk around her, but on the landing itself, to one side, where he could come up to her or go by as he liked. He noticed the placing. He was beginning to suspect that very little about her was accidental.
+"Into what?"
 
-"I'm not here for an answer," she said. "I'd like to change the question, if you'll let me."
+"Into something your people get a say in." The strap of her bag slid on her shoulder, and she hitched it back up. It was the first movement he had ever seen her make that served no purpose. "You'll talk to them anyway. Let them talk to me. Put me in front of them together. Let them find fault with me directly, not with your version of me. You'd tell it fairly. Fair still isn't the original." Her eyes met his. "Turn me down on the primary evidence, if you're going to."
 
-"Change it how?"
+He said yes on the spot, and only afterwards, climbing the rest of the stair, did he see why it had mattered so much that she put it like that.
 
-"Before you decide, I'd like to put it to the people you'd ask anyway." She shifted the strap of her bag on her shoulder, which was the first unnecessary movement he had ever seen her make. "All of them, together, in one room, where they can object to me directly instead of to your account of me. Your account would be fair. I'm sure of that. It still wouldn't be me." She met his eyes. "If the answer's no, I'd like it to be no on the primary evidence."
+At some point in the past year he had given up making decisions by himself. He could not have named the day, because nothing had been chosen; it had grown the way his habits grew, out of repetition and without fuss, until one morning he caught sight of its outline and found it had been standing there for months. Karis had been at Greyvane a little over a fortnight, and nobody had told her any of this, but she had seen it anyway.
 
-He said yes before he had worked out why it mattered so much that she had asked to do it that way. It did matter. That night he added a line to a much longer entry: *She could have kept pressing me on my own. She asked for the table instead. She knows we have a table, though nobody told her.*
+That night the binder got one more line at the foot of a long entry: *She could have worked on me alone. She asked for the table instead. She knows we have a table, though nobody told her.*
 
 ---
 
-The table was the last trestle at the far end of the stable, under the outline of the old bricked-up hay door, and it had plainly hosted every private conversation Greyvane's students had needed to have for a very long time. Its edges were cut and scored with initials and dates going back decades, some of them so old the letters had worn to soft grooves, layer on layer of other people's alliances.
+"Don't say I'm braced," Lira said, before he could. "I'm informed. There's a difference."
 
-By the end of supper the long room had mostly emptied. Two second-years were playing tiles by the fire with the careful deafness of people who knew that not listening was the stable's most respected rule.
+She had taken the seat across from the empty one, and she had taken it early, before the person meant to sit there had so much as come through the door. She sat with her arms folded on the wood and said nothing else, and the nothing was louder than most speeches. Brom had come in ahead of her and settled in the corner, where the wall would be at his back, a circuit habit of the kind a fighter picks up in rooms full of strangers, and Cael doubted Brom knew he had it.
 
-Brom arrived first and took the seat in the corner where the wall would be behind him, a habit from the circuit Cael doubted he had ever noticed in himself. Lira arrived second and dropped into the seat directly across from the empty chair, before the person who would sit in it had even come in, and said nothing at all, which was its own kind of remark.
+The table was the last trestle at the far end of the stable, under the outline of an old hay door that somebody had bricked up long ago. Generations of Greyvane students had held their private councils at it. Its edges were cut with initials and dates, years deep, some so old the letters had worn into soft grooves, one alliance carved over another. By the end of supper the long room had emptied of everyone but two second-years at tiles by the fire, who had perfected the art of hearing nothing, which in the stable counted as the first courtesy.
 
-"You're braced," said Cael.
+"You've had a day," Cael said to Lira.
 
-"I'm informed." Lira folded her arms on the table. "Brom told me what she asked you on the stairs. I've had a whole day to think."
+"A whole one. I've used all of it." She looked at the empty place. "She gets to speak before I do. Don't call that generous; my mind's made up already. I just want it from her own mouth."
 
-"And?"
+Karis came in on the half-bell exactly, with a folder under one arm. Cael was learning what nerves looked like on her, and they did not look like fidgeting. She simply ran a little higher than usual, as a string does when someone has given the peg an extra half turn, and after she sat down she squared the folder's corner to the table's edge twice, as though the first time had not held.
 
-"And I'm going to hear her out first. That's kinder than it sounds, because I've already made up my mind." She looked at the empty chair. "I want to hear her say it herself."
+She did not ease into it.
 
-Karis came in on the half-bell, precisely, with a folder under one arm. Cael was beginning to recognize her version of nervousness. It was not fidgeting. She did not look anxious. She was simply keyed a little higher than usual, like a string tuned half a turn tighter, and she squared the corner of the folder against the table's edge twice after she sat down, as if the first time had not taken.
+"I've asked Cael if I can study him. He wanted to know why he should trust me, and I said he shouldn't, not yet, that he'd have to check me the way you'd check anything." She laid her hands on the folder. "I still believe that, but walking over here it came to me that the weighing isn't only his." Her eyes went to Lira before they went to Brom, and that was on purpose. "Winning him alone, and finding out afterwards that I'd only got a third of what I needed, would be worse than this. So I'm saying it to all three of you."
 
-"I've asked Cael whether I may study him," she said, without any warm-up at all. "He asked why he should trust me, and I told him he shouldn't yet, that trust was something I'd have to earn like any other result. I still think so. But on the way here I realized it isn't only his to weigh." She turned to Lira first, on purpose, and then to Brom. "Better to say it to all three of you now than to win him over alone and learn later that I'd earned only a third of what I needed."
+Brom had been rolling a stub of chalk between his fingers without, apparently, noticing it was there. He set it down.
 
-Brom had been turning a stub of chalk over in his fingers without seeming to know it. He put it down.
+"I'm for it."
 
-"I'm in favor."
+There was no pause before it, because he had not done his weighing at the table; he had done it somewhere else, at length.
 
-He said it flatly, at once, with no sign of having weighed it at the table, which told Cael he had weighed it a great deal elsewhere.
+"Most of a year I've been trying to understand Cael by feel. See what he does. Guess how it works. Get hit when the guess is wrong, and guess again. That's how I learned everything I know, and it's slow. Velmere never taught me to think through a problem. It taught me to stand there until the problem got tired." Then Brom, who never stood on ceremony, dipped his head to Karis as solemnly as a clerk sealing a deed. "She's got a real method. Records, and checking. I want to know what that turns up that feeling around in the dark didn't." He stopped, and then added, "And she asked me the right thing about my own work. No one else here has. I hadn't asked it either."
 
-"I've been trying to work Cael out by instinct for most of a year. Watch what he does, guess why it works, fix the guess when it's wrong. That's how I've learned everything I know. Velmere never taught me to think a problem through. It taught me to outlast one, until outlasting things began to pass for skill." He nodded once at Karis, a strangely formal gesture from someone who rarely bothered with formality. "She has a method. A real one, built on records and checking instead of guessing and getting hit. I'd like to see what a method finds that instinct missed." He paused. "And she asked me the right question about my own work. Nobody else here has, including me."
+"That's exactly what worries me," said Lira.
 
-"That," said Lira, "is exactly the trouble."
+Her voice was level and cool, and that made it carry further than anger would have. She shifted on the bench until she was square to Karis, not as a hostile turn and not as a show for the table, but because she had decided the moment deserved her whole attention and meant to give it all.
 
-She said it evenly, with no heat in it at all, and that made it land harder than shouting would have. She turned in her seat to face Karis directly, not hostile and not performing anything for the room, simply giving the moment her whole attention because she had decided it had earned that much.
-
-"I want to say one thing first, and plainly, so it doesn't get lost," she said. "I'm not against you. I've watched you in the yard and on the floor for a week, and you work like someone who actually wants to know what the answer is, not someone who's already picked it and is hunting for evidence to fit. You'd be surprised how seldom people who study things manage that." She stopped, choosing the next part with care, and Cael watched her choose it.
+"Let me say this first, so it doesn't get buried: I'm not against you. I've watched you a week now, in the yard and on the floor, and you work like a person who actually wants to find out what's true, not a person who's picked an answer already and is out collecting proof for it. Plenty of people who call themselves scholars can't manage it." She paused there, and Cael watched her choose what came next.
 
 "You want data."
 
-Karis did not move.
+Karis didn't move.
 
-"I understand why. I even think your reasons are good ones. But I've watched a lot of people look closely at Cael, and each of them was collecting evidence for something. The certification office in Denvash. The officials who followed him round Ardenmere and wrote reports he never got to read. The registry, which had his name before he'd finished being fourteen. They all called it observing him. All of them were putting a case together." She did not look away from Karis. "Wanting data still means wanting something *from* him. And I've spent a long time being one of the people who stand between him and everybody who wants something from him. So forgive me if I'm slow to hand a stranger a seat at this particular table."
+"I know why, and I'd guess the reasons behind it are good. But Cael's had a lot of close looking in his life, and every bit of it was somebody collecting. The certification office in Denvash. The men who trailed after him in Ardenmere writing reports he never saw. The registry, which had his name down before he'd finished being fourteen. Observation, they all called it. What they were doing was building a case." She held Karis's eyes. "And data is still something you'd be getting *from* him. And for a long time now I've been one of the people who stand between him and the ones who want things. So you'll forgive me for being slow to pull out a chair for somebody new."
 
-The two second-years by the fire had stopped pretending to play tiles. Neither of them looked over.
+Over by the fire, the tile players had stopped pretending to play. Neither of them turned round.
 
 "We're a family," said Lira.
 
 ---
 
-Cael watched Karis take it. He had seen enough of her by now to know how she handled a hard result. She did not flinch, and she did not hurry to make it softer. She turned it over the way he had watched her turn over a late point that hissed under someone's heel, checking it from every side before she decided what it meant.
+Karis took it the way Cael had seen her take a point that came up late under somebody's heel. She did not wince, and she did not rush to soften it; she looked at it from each side in turn before she decided what it meant.
 
-"Yes," she said at last. "You're right. I want data."
+"Yes," she said. "That's true. I want data."
 
-She did not hedge it, or try to shrink it.
+She let it stand there, unpadded.
 
-"I've wanted data about him since a lecturer told a joke in a hall at Ternhall late last winter, and I haven't stopped wanting it for one day since. I won't sit here and pretend I don't. You'd see through the pretending inside half a sentence, and I don't believe it would win me anything worth having." She drew a breath. "But I'm not asking to be given what you three have. I know I haven't got it. I haven't stood in a ring for any of you. Nobody at this table owes me anything." Her eyes went, briefly, to Cael, and to the binder lying shut by his elbow, and back. "I've seen him write in that binder at the rail every day for a week, and I've seen the way the two of you look at it when he does. I don't know what's in it. I don't need to know to understand that it's the nearest thing to what you are to each other."
+"I've wanted it since late last winter, when a lecturer at Ternhall made a joke about a boy on the Ardenmere circuit, and there hasn't been a day since that I stopped. If I sat here and told you otherwise, you'd hear the lie before I'd finished the sentence, and I don't think a lie would buy me anything I'd want to keep." She took a breath. "What the three of you have, I'm not asking for. I know I haven't got it; I've never stood in a ring for any of you, and nobody here owes me a thing."
 
-Lira's arms had tightened slightly where they were folded. She did not unfold them.
+Her glance went to Cael for a moment, then to the binder shut beside his elbow, and came away again.
 
-"So what I'm asking for is the chance to get from the first of those to the second," Karis said. "Not to be handed it. To earn it, on whatever terms you think are fair, and to lose it the day I stop deserving it."
+"I've seen him writing in that at the rail every day for a week, and I've seen how you two look at it while he does. I don't know what's in it, and I don't need to know. It's plain enough that whatever you are to each other, that's where it's kept." Lira's folded arms drew a fraction tighter. They stayed folded. "So what I'm after is a way from where I am to where you are. Not as a gift, but as a road: you set the terms, I walk it, and the day I stop deserving to be on it, I'm off."
 
-Lira was quiet for what felt to Cael like a very long time.
+The silence went on until Cael could hear the fire settling in the grate.
 
-He watched her weigh it. He had seen her weigh opponents across a chalk ring, measuring their feet and their hips and the set of their shoulders, and this was the same look turned on something harder to measure. She set Karis's offer against a long time of earned wariness and let it sit there under the weight. It held. He saw the moment she found that it held, and that she did not entirely like finding it.
+He knew the look she was giving it, because he had seen her give it to opponents across a chalk ring, reading their feet and hips and the set of their shoulders, and now she was turning it on something with no feet at all. She laid the offer down against everything the last years had taught her about people with notebooks, and leaned on it, and it held. Cael saw the moment she felt it hold. He saw, too, that she was not altogether glad to feel it.
 
-Before she answered, she looked at him.
+Then, before she said anything, she looked at him.
 
-It was not for permission. He understood that much at once. She was looking for something in his face, and she wanted to see it before she put her vote behind it. He had not said a single word since Karis sat down, and as Lira's eyes searched his he understood that his silence had been its own kind of answer.
+It wasn't a request for permission; he understood that much straight away. She was searching his face for something, and she meant to find it before she put her name behind any answer. He had not opened his mouth since Karis sat down, and under her eyes he realized that the not speaking had been an answer of its own.
 
-A year ago he would have been running this conversation. He would have been steering it and guarding its exits, saying the careful thing a half-beat before anyone else could say the dangerous one. Tonight he had sat quiet while the people who loved him argued over his safety across the table, trusting the argument to end somewhere he could stand. Lira had watched him learn to do that. She had been most of the reason he had learned it.
+Once he would have run this whole evening, steering it and watching its doors and getting the safe sentence out a half-beat before anybody could say the dangerous one. This evening he had kept his hands in his lap. People who cared what became of him had fought over his safety across the scarred wood, and he had let them, trusting them to land it somewhere he could stand. It was a thing he had learned, and Lira had been there for the learning of it; if he was honest, most of the teaching had been hers.
 
-Whatever she was looking for, she found it.
+Whatever she had been looking for, she found it, and he saw her find it.
 
-"Terms," she said, turning back to Karis. "Proper ones, on paper. I don't want a handshake and a warm feeling."
+"For the record," Cael said, and all three heads turned, because it was the first thing he had said, "I'm not just allowing this. I want it."
 
-From Lira, Cael understood, that was as near to yes as the evening was going to get.
+He had three different kinds of surprise in front of him, and he kept going before his nerve could cool.
 
-"For the record," he said, and three faces turned toward him, because it was the first time he had spoken, "I want this. Not only allow it. Want it."
+"What I am is a puzzle I've been working at alone. I've got one example to study, and nobody ever showed me how studying's done. Asking questions properly is the thing she's trained at, five years of it. And one day somebody's going to try to find out what I am without asking me at all." He was looking at Lira now. "Whatever there is to find, let the finding happen here, among us, on purpose, written down. Before it gets found in some room they won't let me into."
 
-He had their surprise, three different kinds of it, and he went on before he lost his nerve.
+He watched it reach her. Curiosity would never have moved Lira an inch, but this was defence, and defence she understood in her bones.
 
-"I've been trying to work out what I am for a long time, with one example to study and no idea how studying is done. She's spent five years learning to ask a question the right way. Sooner or later, somebody is going to try to find out what I am without asking me first." He looked at Lira as he said it. "If there are answers, I'd rather we found them ourselves, on purpose, with terms, at a table like this one, before somebody else finds them in a room I'm not allowed into."
+"Well," she said slowly. "That's a reason I can't argue with." She turned back to Karis. "Terms, then. Real ones, written down. I don't want a handshake and a warm feeling."
 
-He watched Lira hear the only argument that could actually move her. It was not curiosity. It was defense.
-
-"Now that," she said slowly, "is a reason I can't argue with."
+Cael knew Lira. Nobody would get a yes out of her plainer than that, not that night.
 
 ---
 
-The terms took most of an hour, and Cael found, halfway through, that he was doing something he almost never did in a conversation about himself. He was mostly listening.
+"Numbers," Lira said, when Karis took out her paper. "Every clause gets a number."
 
-He let the negotiation go on around him as if he were a piece of ground four people were surveying, and it felt strange in a way he did not yet have a word for. He wrote *strange, not bad* in the binder's margin while Brom and Karis argued about the wording of something, and left it at that.
+"Any particular reason?"
 
-Karis had brought paper. Lira insisted on numbers.
+"People obey things that have numbers. Things without numbers, they discuss."
 
-"Things with numbers on them get obeyed," she said. "Things without numbers get discussed."
-
-"Is there going to be a clause about barley?" Brom asked.
+Brom leaned in. "Will there be a clause about barley?"
 
 "No."
 
-"I'd feel safer with a clause about barley."
+"I'd sleep better with a clause about barley."
 
 "Brom."
 
-"I'm only saying," said Brom, and subsided, looking pleased with himself.
+"I'm only raising it," said Brom, and sat back, looking pleased.
 
-The first real disagreement was over the binder. Karis raised it herself, plainly and without apology, as if she had worked out that hiding how badly she wanted it would cost her trust she needed for everything else.
+It took the better part of an hour, and somewhere around the middle of it Cael noticed that he was doing a thing he almost never did when the talk was about himself. He was listening. Four people were walking the boundaries of him like surveyors pacing out a field, arguing over where to drive the stakes, and he let them, though he had no name yet for the feeling it gave him. While Brom and Karis wrangled over a phrase, he wrote *strange, not bad* in the binder's margin and left it there.
 
-"I understand that it isn't on the table," she said. "I'd be a poor researcher if I didn't ask why, once, so that I know the shape of the boundary and not just where it is."
+The binder was the first real fight, and Karis was the one who started it. She came at it head on. Apparently she had calculated that hiding how much she wanted it would spend trust she could not afford to lose, so she did not hide it, and she did not apologise either.
 
-"To us it isn't research," said Lira. "It's the three of us being honest with each other at a time when nobody else would be. Study what he does, if he lets you. You don't get to read how we got here."
+"The binder's out. I understand that," she said. "Let me ask the reason once, though. Otherwise I'm only obeying a fence, and I'd like to see its shape."
 
-Karis considered this with the same unblinking attention he had seen her give a timing that came out wrong. Then she nodded.
+"Because it isn't research," said Lira. "Not to us. Back when nobody else would tell us the truth, the three of us told it to each other, and that's what's in there. You can study what he does, if he lets you. How we got here isn't yours to read."
 
-"That's a fair answer. I withdraw the question. I won't ask it again."
+Karis gave that the same flat, unblinking attention Cael had watched her give a timing that came out wrong. Then she nodded.
 
-She wrote at the top of the page, in a small upright hand, *1. The binder is not part of this arrangement, and will not be asked for.* She signed the clause with her initials beside it, which nobody had asked her to do. Cael noticed, then and more than once in the weeks that followed, the held stillness that came over her whenever the binder was mentioned in passing, like a person deliberately not turning her head toward a sound.
+"That's fair. I take the question back, and I won't ask it again."
 
-The middle clauses went faster, in the rhythm an argument finds once everyone has worked out what they are actually protecting. Lira wanted a witness clause, so that any one of the three of them might turn up at any session without giving notice. Karis agreed before Lira had finished saying it.
+At the head of the sheet, in her small upright hand, she wrote: *1. The binder is not part of this arrangement, and will not be asked for.* Beside it she put her initials, though nobody had asked her to. Cael saw then, and on other days through the weeks that followed, a particular stillness come over her whenever someone mentioned the binder in passing. It was the stillness of a person keeping her head from turning toward a noise.
 
-"Observed observers behave better," she said. "I intend to be very well behaved."
+After that the clauses came quicker. Everyone had found out by then what they were really guarding, and an argument moves differently once it knows that. Lira wanted any one of the three of them to be free to walk into any session unannounced, and Karis said yes before Lira had finished the sentence.
 
-Lira looked faintly put out at being agreed with so quickly, and wrote *2* with unnecessary force.
+"People who know they're being watched behave better," she said. "I mean to behave extremely well."
 
-Cael raised the clause nobody else had thought of, because a long time of watching institutions had taught him where arrangements actually broke. They did not break at the signing. They broke at the end.
+Lira looked faintly cheated at being agreed with so fast, and wrote the *2* hard enough to dent the paper.
 
-"If it stops," he said, "whichever of us stops it, what happens to the notes?"
+The third clause was Cael's, and nobody else had seen it coming, because only a long time of watching institutions teaches a person that agreements seldom fail on the day they are made and nearly always fail on the day they are over.
 
-The table went quiet. Karis thought about it longer than she had thought about anything else that hour, and the honest cost of the answer was on her face before she gave it.
+"Say it stops," he said. "Doesn't matter which of us stops it. Where do the notes go?"
 
-"They stay with you," she said finally. "Every copy. If I walk away, I walk away from the results as well. That's the only version where your word to end it means anything." She wrote the clause herself. Cael watched her hand slow on the last words, a researcher signing away her own findings before she had any, and understood that the cost of the whole arrangement was being paid up front, in the open, where all of them could see it.
+The table went quiet. Karis sat with it longer than she had sat with anything else that hour, and before she spoke he could see in her face what the honest answer was going to cost her.
 
-Brom's contribution was smaller and, in its own way, sharper. Karis's draft gave Cael the right to end the whole arrangement. It said nothing about a single afternoon.
+"To you," she said. "All of them. Every copy. My findings go where my notes go, and my notes stay with you. Any other way, your saying stop would be worth nothing." She wrote it down herself. Cael watched the nib slow on the final words as she gave away results she did not even have yet, and understood that the whole price of the arrangement was being paid before anything had been bought, and in front of everyone, so that nobody could claim afterwards not to have seen.
 
-"He should be able to say not today," Brom said, "without it meaning not ever."
+Brom's clause was short, and it cut cleanly. As Karis had drafted it, Cael could end the arrangement. Nothing in it covered a single afternoon.
 
-Karis looked at the draft, looked at Brom, and reached for the pen, and Brom put his hand flat over the paper.
+"He ought to be able to say *not today*," Brom said, "and have it mean not today. Not *never*."
 
-"I'll write it."
+Karis glanced at the draft and then at Brom and reached for the pen, and Brom laid his big hand flat over the page.
 
-He wrote it in large square letters that took up three lines where Karis's small hand would have taken one: *4. He can say no to any one session without saying no to all of them. No reasons.* Then he pushed the page back, and nobody argued, least of all Karis, who read it twice and said, "That's better than mine."
+"Mine. I'll write it."
 
-The fifth clause came from Lira and the sixth from Karis, and they fit together. Lira wanted nothing written that said *how*. Karis said she could only ever write what she could see from outside anyway, and Lira said in that case it would cost her nothing to promise it.
+He wrote it in square capitals so large that it filled three lines where her hand would have used one: *4. He can say no to any one session without saying no to all of them. No reasons.* Then he pushed the paper back across. Nobody argued, Karis least of all. She read it twice and said, "Yours is better than mine would have been."
 
-"It costs me speculation," said Karis. "I'm extremely fond of speculation."
+Five and six fitted together like the two leaves of a hinge. Lira wanted nothing written that said *how*. Karis pointed out that from outside she could never see how anyway, so the promise would cost her nothing, and then corrected herself.
 
-"Speculate in your head."
+"It costs me speculation. I'm very attached to speculation."
 
-"I do that as well." Karis wrote: *5. No written speculation on how any capability arose. Only what can be observed from outside.* And under it, without being asked, *6. Everything written about him, he reads first, before it exists anywhere else, and keeps a copy.* She looked up. "That one isn't a concession. It's what every institution that ever studied him owed him and never gave."
+"Do it in your head."
 
-The seventh clause was the one she had offered in the archive, and she wrote it in exactly the words she had used there: either party could end the arrangement with a single word, with no reason given and no penalty attached.
+"I do it there as well." She wrote: *5. No written speculation on how any capability arose. Only what can be observed from outside.* Under it, without anybody asking, she added *6. Everything written about him, he reads first, before it exists anywhere else, and keeps a copy.* She looked up. "That isn't me giving ground. That's what everyone who ever studied him owed him and never paid."
 
-Then she read the whole page aloud twice, the second time more slowly than the first, the way Cael imagined she read her own results before trusting them.
+The seventh was the one she had offered in the archive, set down word for word as she had said it there: either of them could end it with a single word, give no reason, and suffer no penalty.
 
-She signed at the bottom in a firm, even hand that looked older than sixteen. Cael signed beneath her. Lira and Brom signed beneath him, as witnesses, Lira in a quick slanting scrawl and Brom in his large square capitals, and for a moment the four names sat together at the bottom of the page in four different hands.
+Then she read the whole page out, start to finish, and then again more slowly, the way Cael supposed she went back over a result before she let herself believe it. She signed at the foot in a firm, level hand that looked older than sixteen. Cael signed under her. Lira and Brom signed under him as witnesses, Lira in a quick leaning scrawl and Brom in his square capitals, and for a moment the four names lay together at the bottom of the sheet in four different hands.
 
 ---
 
@@ -174,9 +168,9 @@ Karis did not put her pen away. Instead she opened the folder she had carried in
 
 "What's this?" said Lira.
 
-"The second notebook." Karis untied the first bundle. There were eleven volumes altogether, all the same plain size, their corners soft from handling and their spines cracked open at the places that had been returned to most. "Five years of it. Every theory I've had about how Paths work, every one that turned out wrong, and every place where I still might be wrong now." She pushed the stack a little toward the centre of the table. "You've agreed to let me study him. It seemed dishonest to keep the door the other way locked. You should be able to study the person who's studying you. I'd want that, if I were sitting where you are."
+"The second notebook." Karis untied the first bundle. There were eleven volumes altogether, all the same plain size, their corners soft from handling and their spines cracked open at the places that had been returned to most. "Five years of it. Every theory I've had about how Paths work, every one that turned out wrong, and every place where I still might be wrong now." With two fingers she slid the bundles toward the middle, between all four of them. "You've agreed to let me study him. A door that only opens one way isn't honest. If I'm studying him, you three get to study me. I'd want that, if I were sitting where you are."
 
-For a moment nobody moved. Then Lira reached out and took a volume from the middle of the stack rather than the top, a small choice Cael suspected was entirely deliberate, and opened it somewhere near the middle. She read a page in silence and turned it, then read another.
+For a moment nobody moved. Lira was the first to reach. She passed over the top volume and drew one out of the middle of the pile, which Cael guessed was no accident, and let it fall open where it liked. She read a page in silence and turned it, then read another.
 
 "How old were you here?"
 
@@ -211,7 +205,7 @@ A declaration was a receipt. It told the person who held it exactly what they ha
 
 He had always thought of that as the worse arrangement. Looking at the card, he was no longer entirely sure. A receipt also told you exactly where you stopped.
 
-Lira lifted her eyes from the card to Karis and held them there, and Cael knew the look; he had seen it on her just twice before, once across a fire on the Ardenmere road and once on a training floor in the rain. It was a change of mind, made in public, and refusing to hide.
+Lira lifted her eyes from the card to Karis and held them there, and Cael knew the look; he had seen it on her just twice before, once across a campfire on the road out of Ardenmere, and once on a rain-wet training floor. It was a change of mind, made in public, and refusing to hide.
 
 "All right," she said.
 
@@ -247,6 +241,6 @@ Brom looked at the struck paragraph and said nothing. Then he closed the book ve
 
 "Yes," he said. "She does."
 
-He wrote it in the binder that night under the heading he had kept since his second day at Greyvane, *things that changed that I want to remember changed.*
+The binder had a heading he had started on his second day at Greyvane and added to ever since: *Changed. Remember that it changed.* That night's entry went under it.
 
 *Terms signed, seven clauses, four names. Brom wanted a clause about barley and did not get one. She gave us eleven notebooks of being wrong in her own handwriting, and then she wrote out a declaration and showed it to us without being asked. I have never seen one in the hand of the person it belongs to. I didn't know you could be outnumbered by trust. Apparently you can.*

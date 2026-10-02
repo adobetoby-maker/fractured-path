@@ -1,84 +1,84 @@
 # Chapter 23 — Better Your Hand
 
-She was already on the wall.
+The frost had come back after sunset, and the yard crunched under his boots all the way across. Looking for her would have been wasted effort, since there was only one wall at Greyvane that was theirs.
 
-He saw her from the residence wing door, a dark shape against the darker yard, sitting where they always sat on the low stone wall with her heels against it and her coat pulled round her. She was not reading, or doing anything at all; she was looking out at the training yard with her chin on her knees, and she did not turn her head when the door opened, though she must have heard it. So Brom had said something, or she had counted the days since Wednesday herself and worked out that tonight was the night. Nobody alive read him better, and she had watched him carry this for two days without once asking him to put it down.
+She was on it already, a darker shape against the dark, heels hooked against the stone and her coat wrapped close, chin resting on her knees. She had no book and was doing nothing at all except looking out over the training yard, and she did not turn when the residence wing door banged shut behind him, though she could not have missed the sound. Either Brom had said something, or she had counted the days since Wednesday on her own and decided that this was the night. Nobody alive could read him better, and for two days she had watched him carry it without once asking him to put it down.
 
-The night was clear and very cold. The frost had come back after sunset and the top of the wall was rough with it under his hand when he sat. Below the academy the hill town's lamps were scattered down the slope like coals shaken out of a grate, with the valley black beyond them all the way to the far hills and the stars out over the training yard, more of them than Ardenmere had ever let him see.
+The sky was clear and bitterly cold. When he sat, the top of the wall was gritty with rime under his palm. Below the academy the town's lamps lay scattered down the slope like embers knocked out of a grate, and past them the valley ran black to the far hills, and overhead there were more stars than Ardenmere's smoke had ever allowed him.
 
-He sat down beside her. He did not soften it first; with her, softening had never been honest.
+He did not ease into it, because easing in had never been honest with her.
 
-"I think I might have taken from you," he said. "On purpose. Only I didn't know it was on purpose."
+"Some of what I've got, I think I took from you," he said. "Meaning to, somewhere. Only I didn't know I meant it."
 
-Lira did not move.
+Lira stayed exactly as she was.
 
-"Karis thinks it can be aimed. If she's right, then what happened with your framework, in Ardenmere, in the mornings, wasn't something that happened near me. It was something I did." He made himself keep going, all the way to the end. "To you. And I never asked, because I didn't know I was a thing that could have."
+"Karis thinks it can be pointed. Aimed. Those mornings in Ardenmere, then. Your framework. If she's right, I didn't just happen to be standing close by when it came. I did it." He made himself go on to the end. "To you. Nobody asked you first, least of all me. I didn't know there was any asking to do."
 
-Lira did not answer at once. She looked out at the dark yard, the way she did when she was really thinking and not performing having thought. He made himself wait for it with his hands flat on the cold stone, because hurrying her through this would have been its own small taking, one more thing had from her unasked, and he meant to be finished with those, or wanted to mean it. The frost crept into his palms. Down the hill a dog barked twice and stopped.
+She did not answer straight away. Her eyes stayed on the yard, which was how she looked when she was truly thinking, and not just wearing the face of someone who had thought. He waited with both hands flat on the frozen stone, because to hurry her through this would have been one more small taking, one more thing had from her without asking, and he meant to be done with those for good. Or he wanted to mean it. The cold worked into his palms. Somewhere down the hill a dog barked twice and gave up.
 
-"You told me what you knew," Lira said at last, "when you knew it."
+"Every time you knew something," Lira said finally, "you told me, the same day."
 
-Her voice was steady, with no give in it anywhere.
+There was nothing soft in her voice, and nothing shaky either.
 
-"In Ardenmere, you sat with it two weeks on your own, and then you told me. You didn't wait for me to catch you. You didn't wait until it was useful. You told me the day you were sure there was something to tell." She did not look at him. "You've told me every one since, the day it came. In your own handwriting. In a binder you put in my hands because you wanted me to read it. I never once made you."
+"In Ardenmere you carried it two weeks by yourself, and then you came and told me. You didn't wait to be found out. You didn't wait until telling me would get you something. The day you were sure there was a thing to tell, I had it." She still did not look at him. "Every one since, too, the day it came. You wrote them out yourself and put the binder in my hands because you wanted me reading it. I've never once had to make you."
 
-"That's not—"
+"That isn't—"
 
-"I'm not finished." She turned her head then and looked at him properly, and in the starlight her face was very clear. "Say the thing in you was pointed at me, somehow, where you couldn't see it and I couldn't feel it. That doesn't touch a word of what I just said. Go on as you have. When you know something, tell me." She looked back at the yard. "I can't forgive you for something you didn't know you were doing, Cael. There's nothing there to forgive. There's only what you do with it now that you know."
+"I'm not done." Now she did turn, and in the starlight her face was very plain. "Say the thing in you was aimed at me somehow, somewhere neither of us could see or feel it. It doesn't change one word of what I just said. Keep on as you have been, and when you find something out, tell me." She looked back at the yard. "You can't be forgiven for something you never knew you were doing, Cael. It isn't the kind of thing forgiving is for. All that's left is what you do now you know."
 
-"That's generous."
+"That's kind of you."
 
-"It isn't generous. It's arithmetic." She bumped her shoulder against his, the old worn knock from more walls than either of them could count. "You want to know what would cost you with me? Really cost? Knowing, and keeping it from me. That's the day I'd stop believing the binder." She let that sit in the cold. "You've never done it. You aren't doing it tonight. You're sitting on a frozen wall telling me before you even know it's true."
+"It's not kind. It's sums." She knocked her shoulder into his. "Shall I tell you what *would* cost you? With me? The real price? Finding a thing out and keeping it back. The binder would be done for me, that day." The words hung in the frost. "You've never once done it. You aren't doing it now. You're sat on a frozen wall telling me before you even know it's so."
 
 He looked down at his hands.
 
-"So stop apologizing for something you haven't done yet, and go and find out whether it's real."
+"Stop apologising in advance, and go and find out if it's even true."
 
-They sat for a while without speaking. Somewhere in the town below a door opened and shut, a tiny sound from far off with somebody's whole life on the other side of it that he would never know, and a lamp went out on the street worth walking, and then another on the street worth avoiding.
+For a while neither of them said anything. Down in the town a door opened and closed, a faint sound, far off, with somebody's whole life behind it that he would never know, and a lamp went out on the street worth walking, and then one on the street worth avoiding.
 
-"You're not afraid of it," he said. It was not quite a question.
+"It doesn't frighten you," he said, not quite making it a question.
 
-"I didn't say that."
+"I never said that."
 
-She was still looking at the yard.
+Her eyes were still on the yard.
 
-"I'm afraid of most of what's coming for you, if you want the whole ledger. I'm afraid of the Compact the day it stops being patient. I'm afraid of that request, and whoever sent it, and whatever they make of three people's handwriting saying you're satisfactory." She drew her knees up tighter. "I'm afraid of the bill, every time the thing in you comes out bigger than anybody measured it last. I've read what half a push costs, and I saw you the morning after. I can count."
+"Most of what's on its way to you frightens me, if you want me to go down the whole list. The Compact, the morning it runs out of patience. That request, and whoever wrote it, and whatever they make of three people's handwriting calling you satisfactory." She pulled her knees in tighter. "It keeps coming out bigger than anyone last measured it, the thing in you, and every time there's a bill. That frightens me. I read what the half push cost you. I saw you the next morning. I can add."
 
-She breathed out, white, into the dark.
+Her breath went out white into the dark.
 
-"But I'm not afraid of *you*. So a girl with lovely handwriting thinks there may be a handle on it. That isn't going to make me start being afraid of you." She turned her head and looked at him again. "If there's a handle, better your hand than nobody's. That's all I think about it."
+"But you don't frighten me. Some girl with beautiful handwriting thinks there might be a handle on it, and that isn't going to start me being frightened of *you*." She turned to him again. "If there's a handle on it, fine. Better your hand than nobody's. That's all of it, from me."
 
-"Better my hand than nobody's," he said after her, slowly, testing how much it would hold.
+"Better my hand than nobody's." He said it slowly, the way he would set his weight on a plank he wasn't sure of.
 
-"Somebody's steering," said Lira.
+"Somebody's been steering," Lira said.
 
-She said it plainly, the way she said the score at the end of a bout.
+She said it as flatly as she called the score at the end of a bout.
 
-"That's what her hypothesis means, if it's true. Somebody's been steering this whole time. In Ardenmere, in the mornings, with me. With Brom. With all of them." She did not soften it. "What's left to decide is whether the steering stays with the part of you that never asks."
+"If Karis is right, that's what it comes to. All this time there's been a hand on the reins. In Ardenmere, in the mornings, with me. With Brom. With every one of them." She did not soften a word. "What's left to settle is who holds them from here. The part of you that never asks, or the rest of you."
 
-He sat with that. The cold had gone right through his coat now and into his ribs, into the line across his right side, and he let it.
+He sat with it while the cold came right through his coat and into his ribs, along the sore line down his right side, and he let it.
 
-"I don't know how to steer it. I've never once tried. I don't even know what trying would be."
+"I don't know how to steer it. I've never even tried, and I don't know what trying would be."
 
-"No. You don't." Lira unfolded herself off the wall and stood on the frosted gravel in front of him with her hands in her coat pockets, looking down. "So learn it, Cael. You were going to anyway. Not understanding something has never once made you leave it alone. It's the most reliable fact about you." The corner of her mouth moved. "And I've been keeping records on you longer than she has."
+"No. You don't." She swung herself down off the wall and stood on the frosted gravel in front of him, hands deep in her coat pockets, looking down. "So learn it, Cael. You'd have done it anyway. You've never in your life let a thing alone just because you didn't understand it. That's the surest fact there is about you." One corner of her mouth moved. "And I've been keeping notes on you a lot longer than she has."
 
-He looked up at her.
+He looked up.
 
-"In Ardenmere, the first time, when you didn't know what you were doing with me, I told you to tell me when you were sure. Do you remember?"
+"The first time, in Ardenmere, when you didn't know what you were doing with me, I told you to come and tell me once you were sure. Remember?"
 
 "I remember."
 
-"That's still the rule." She took one hand out of her pocket and put it on his shoulder for a moment, light and brief. "Tell me when you're sure. About any of it. And when you're not sure, tell me that." She took the hand back. "Same rule. Heavier load. It'll hold."
+"That's still the rule." She took a hand from her pocket and rested it on his shoulder, briefly, lightly. "When you're sure of anything, tell me. When you're not sure, tell me that instead." She took the hand away. "Same rule. Heavier load. It'll hold."
 
-She went in. He heard the residence wing door open and shut behind her and did not turn to watch her go; he sat on the wall in the cold and understood that the thing she had just done had been done once before, a long time ago and much lighter. It was the covenant from Ardenmere, made over again under a load it had never been meant to carry, and it had held anyway, because things that had been built properly the first time tended to hold when the weight went up.
+Then she went in, and he heard the door open and close behind her and did not turn round. He sat on in the cold and understood what she had just done, which she had done once before, long ago, under far less weight. It was the promise they had made in Ardenmere, made again now to bear a load it had never been built for, and it held, because a thing put together right the first time generally does hold when more is piled on.
 
-He stayed on the wall long after she had gone in, while the cold came through his coat and the lamps of the town went out below him one and then another, each one a household closing its accounts for the day. Behind him in the residence wing Karis was probably still up, adding a line to a page called *Not asked*. In a city three days to the west a woman kept a ledger of every bout ever fought on her floor, so that the truth about people would be stored somewhere against the winter. Further off, in Denvash, a man kept a workshop, and had once stood beside a boy with a hand on his shoulder on the worst morning of his life. The world was full of people keeping accounts. He had been one himself his whole life, and he had never once audited the account that mattered most, the one written into his own architecture, in handwriting he was only now beginning to think might be his own.
+He stayed out there long after the door had shut. The cold settled into his coat, and below him the lamps of the town winked out one by one, each of them a house totting up its day and closing the book. In the residence wing behind him Karis was very likely still awake, adding a half-question to the page she called *Not asked*. Three days west, a woman kept a ledger of every bout her floor had ever seen, so that the truth about people would be stored somewhere against hard winters. Further still, in Denvash, a man kept a workshop, and had once stood beside a boy with a hand on his shoulder on the worst morning of the boy's life. Everywhere he looked there was somebody keeping a record, and he had kept one himself for as long as he could remember. And in all that time he had never once gone over the one record that mattered most, the one written into the build of him, in a hand he was only now starting to suspect was his own.
 
-He took the binder out of his coat. He could barely see the page, but he wrote anyway, slowly, in the square hand he saved for lines he meant to keep believing after he had started to doubt them.
+He took the binder out of his coat. He could hardly see the page, but he wrote anyway, slowly, in the square hand he saved for lines he would want to go on believing once he had started to doubt them.
 
 *If it can be directed, I have to learn to direct it. Not to have more. To stop not-knowing what I'm doing. Not-knowing is the version that eventually gets someone killed.*
 
-He read it back once by the light from the residence wing's one lit window, and understood as he closed the binder that the fear underneath the sentence had never really been about power. It was about whoever stood near enough to him to be used up by it, whether he had ever meant to use them or not. He thought of Lira on the frozen wall telling him the arithmetic came out clean, Brom with his column of numbers in his coat, defending barley, Karis with her chalk line and her page of half-questions. He thought of Edran, even, with his thin third structure, and of Hobb, who had stood in front of him twice and hit exactly as hard as he was asked. They were close, and he had been watching all of them. It was their account too, as much as his, and always had been, and the only honest payment he could make on it was to learn to read it.
+He read it over once by the light of the single lit window in the residence wing. Shutting the binder, he understood that what lay under that sentence had never really been fear of power. It was fear for the people around him, anyone in reach of the cost, whether he meant them to pay it or not. He thought of Lira on the frozen wall, telling him the sums came out clean. He thought of Brom with his column of numbers in his coat, still standing up for barley, and of Karis with her chalk line and her page of half-questions. He thought even of Edran, with his thin third structure, and of Hobb, who had stood in front of him twice and hit exactly as hard as he had been told to. They were all close, and he had been watching every one of them. It was their account too, every bit as much, and always had been, and the only honest payment he could make on it was to learn to read it.
 
 ---
 

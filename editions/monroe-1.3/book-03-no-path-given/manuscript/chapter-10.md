@@ -1,96 +1,96 @@
 # Chapter 10 — A Finding, Not a Premise
 
-"I am," said Cael.
+"I am."
 
-"Karis Dellenmoor. Ember Path, Iron Rank Three. Until last week, Ternhall." She said the rank the way some people show a pass at a gate, not to impress anyone but because it was the quickest way through. Then, without changing her voice at all: "I came to Greyvane because you did."
+He put the statute book down while he said it, square to the table's edge, and laid Prynn's brass weight across the open page so it would keep her place. He did it slowly, because he wanted the moment, and because he suspected the old woman at the high desk was watching what he did with her books more closely than she was watching the stranger.
 
-He set the statute book down on the table, square to the edge, with Prynn's weight beside it. He did it slowly, because he wanted a moment, and because he had a feeling Prynn was watching how he treated her books.
+"Karis Dellenmoor," the girl said. "Ember Path. Iron Rank Three. Ternhall, until a week ago."
 
-"Because of me."
+She gave the rank the way a traveller shows a pass at a toll gate, not to impress the man in the booth but because it was the quickest way through. Her voice did not change for the next part.
 
-"I've spent eight months rebuilding your circuit record from other people's accounts, and almost none of the accounts agree with each other about anything except the outline." She had clearly said this to herself many times; it came out smooth, with the drama worn off it like the shine off a coin. "I'd like to study what you are. Properly, on the record, as a formal piece of research. With your permission, on terms that you set, and you would read every word I wrote about you before it existed anywhere but my own hand. I'm not asking you to explain yourself today. I'm not asking you to explain anything, ever, that you'd rather keep. I'm asking whether you'll let me ask."
+"I came here because you did."
 
-He looked at her for a long moment.
+"Because of me," Cael said.
 
-He had been looked at all his life. That was the plain truth of it, and he had written it in the binder more than once in more than one form.
+"Because of your record. What there is of it." She did not sit. "For eight months I've been putting your circuit record back together out of other people's stories. Men who stood at a rail once. My mother's cousin, who trades wool through Ardenmere. A girl who saw one bout and told it to three people three different ways. They agree on the outline, and on almost nothing else." She had told herself this often enough that the drama had been rubbed off it, like the shine off a coin carried in a pocket. "I'd like to study you. Formally, as research. You'd set the terms. Nothing happens without your permission. Every line I write, you read before another soul does."
 
-An Arbiter had looked at him at fourteen and produced a word in brackets. A certification clerk had looked at the word and apologized and stamped it anyway. A man in a market square had looked at him with careful questions, and a patient official whose name he knew had looked at him for a long time afterward, in reports Cael would never be shown. Even the people who loved him had looked closely, Hesk across a workbench and Lira across a sparring circle, close enough to see what did not fit before he had words for it himself.
+He waited.
 
-Being watched was the most constant thing in his life. He could not remember a season without it.
+"I'm not asking you to explain yourself. Not today, and not ever, about anything you'd rather keep." She stood very still, with both hands empty at her sides. "I'm asking whether you'll let me ask."
 
-Nobody had ever asked.
-
-Not one of them had stopped before the looking and wanted to know whether he would agree to it. The Arbiter had not asked, and neither had the clerk.
-
-The patient official had held a file on him as a matter already decided since before they ever met, and Cael doubted it had once occurred to the man that the file's subject might have an opinion about being in it. Whenever anyone had studied him hard, it had been because some office told them to.
+There were a great many things he could have said to that. The one that came out was the oldest.
 
 "Why should I trust you?"
 
-She did not answer at once. He watched her actually consider it, which was not the same as appearing to; he saw her take his question and hold her own answer up against it, the way a carpenter holds a board against a frame before cutting, and only then speak.
+She did not answer quickly, and he watched her think about it, which was different from looking as if she were thinking. She took his question and held her own answer up against it, the way a joiner offers a board to a frame before marking the cut, and only when it fitted did she speak.
 
-"You shouldn't. Not yet." She said it without any apology in it. "Trust is a finding, not a premise. Nobody ought to begin with it just because someone asked politely. I expect to earn it the way I'd earn any conclusion, from small claims first, where you can check them. I'll be right about little things, again and again, until being right about little things is evidence you can use." She paused. "And when I'm wrong, I'll show you the page where I was wrong. A hidden mistake spoils everything that's built on top of it. An admitted one only spoils itself."
+"You shouldn't. Not yet." There was no apology in it at all. "Trust is a finding, not a premise. Nobody should start from it because somebody asked nicely. If I get it, I'll get it the way I'd reach any conclusion: by being checked, on small things first. I'll say something you can test, and you'll test it, and I'll be right, and then I'll do it again. Pile up enough of those and they turn into evidence, something you can lean on when the questions get bigger." She paused. "And when I'm wrong, I'll show you the page where I went wrong. Hide one mistake and you poison everything stacked on top of it. Admit it, and the damage stays where it is."
 
-He sat with that.
+Cael found that he was sitting back.
 
-It was a good answer, and it was good in a way he had not expected. It did not try to comfort him, though it did, a little, in a dry way. It was good because it told the truth about how the thing was built.
-
-She had not offered him certainty. She had offered him a method, told him plainly how the method could fail, and promised what she would do when it did. It reminded him of Quenna on his first afternoon, laying the truth on the desk with the hard edges still on it.
+It was a good answer, and not for the reason he would have expected a good answer to be good. It did not try to make him feel better; it told him how the thing would be built, where it might crack, and what she would do when it did. Quenna had talked to him like that on his first afternoon, setting hard facts on the desk without sanding the corners off.
 
 "I haven't said yes."
 
 "No. I'd think less of you if you had."
 
-"What would it look like?" He wanted it in practice, because how a thing worked had always mattered to him more than what it was called, and so far she had only told him what it was called. "An ordinary day of it. If I agreed."
+"Then tell me what it looks like." He meant the working of it. Names for things had never interested him as much as how the things ran. "A day of it. If I said yes."
 
-"Duller than you're imagining." She answered at once, which told him she had designed it long before she walked in. "Sessions, scheduled when you choose and not otherwise. I watch. I write. I don't touch you, I don't test you, and I never ask you to do anything you haven't already chosen to show. Afterward I may ask questions, and you can refuse any one of them or all of them, without a reason. I write up what I saw. You read it before anyone else does, and you keep a copy of everything, so that if a page of it ever turns up somewhere you didn't send it, you'll have the proof in your own room."
+"Dull." She answered at once, and from the speed of it he guessed she had built the day long before she came through the door. "Sessions when you choose to have them, and never otherwise. I watch and I write. I don't touch you, and I don't test you. I never ask you to show anything you haven't already decided to show. Afterwards I might ask questions, and you can refuse one, or all, and owe me no reason. You read what I wrote before anybody else does, and you keep a copy of every page. Then if a page ever turns up somewhere you didn't send it, the proof is sitting in your own room."
 
-"And if I want to stop?"
+"And when I want to stop?"
 
-"Then it stops. Any day, with one word, and you owe nobody an explanation." She leaned on the last part, very slightly. "That isn't a courtesy. It has to be built in, a right you hold and not a kindness I offer, because consent you can't take back isn't consent. And research done without consent is contaminated. Everything it touches is suspect afterward." She lifted one shoulder. "I have no use for contaminated data. I'd rather have none."
+"Then we stop, any day, with one word, and you explain nothing to anybody." She leaned on that, very slightly. "That's not me being polite. It has to be part of the frame, a right that belongs to you, not a favour from me. If you can't take consent back, it was never consent. And research done without it is spoiled. Every result it touches is suspect afterwards." One shoulder lifted. "I've no use for spoiled data. I'd rather have nothing."
 
-Nobody had ever offered to protect him on the grounds that it kept the measurements clean. He found, sitting there with the statute book squared beside his hand, that he trusted it more than he would have trusted kindness, because kindness could change its mind on a bad day, and a method could not change without saying so.
+Nobody had ever offered to protect him for the sake of keeping their numbers clean. He turned the idea over with the statute book under his hand, and discovered that he believed it more than he would have believed kindness. Kindness could change its mind on a bad morning. A method had to announce it first.
 
-Prynn arrived beside the table with a cup on a saucer, set it at Cael's elbow well away from the statutes, and looked at Karis.
+Prynn came down from her stool with a cup on a saucer, set it by Cael's elbow, well clear of the statutes, and turned her spectacles on Karis.
 
 "No drinks in the reading room."
 
-Karis glanced at the cup. "He has tea."
+Karis looked at the cup. "He has tea."
 
-"He's been here before," said Prynn, and went back to her high stool.
+"He's been here before," said Prynn, and went back up to her stool.
 
-Karis watched her go, and something passed over her face that might have become a smile if she had let it travel further. "Noted," she said quietly, as if entering it somewhere.
+Karis watched her climb, and something crossed her face that would have been a smile if she had let it go any further. "Noted," she said quietly, the way someone makes an entry.
 
-She did not stay. She told him she was not expecting an answer that day, or that week, and that she would rather he took a month than gave her a quick one he later regretted. At the end she looked down once at the statute book, open to the provision, and then back at him.
+She did not stay long after that. She did not expect an answer today, she said, or this week, and she would rather he took a month than gave her a fast answer he came to regret. On her way past she glanced down once at the statute book, lying open at the provision, and then back up at him.
 
-"Most people at this school have been looking at you for three weeks and talking about you for two," she said. "As far as I can tell, not one of them has asked you anything. I wanted the question to exist, out loud, whatever you decide. I think that should count for something before you decide."
+"Half this school has spent three weeks looking at you and two talking about you," she said. "As far as I can tell, not one of them has asked you anything. Whatever you decide, I wanted the question said out loud at least once, by somebody. Let it count, whichever way you go."
 
-Then she nodded to him, and nodded to Prynn on the way past, and went out.
+She nodded to him, nodded to Prynn at the door, and was gone.
+
+He sat with one hand flat on the open page.
+
+He had been looked at for as long as he could remember. An Arbiter had looked at him at fourteen and handed down a word in brackets. A clerk had looked at the word, said she was sorry, and stamped it. A man in a market square had looked at him through a long list of careful questions, and an official whose name Cael knew had gone on looking afterwards, in reports Cael would never be allowed to read. Even the people who loved him had looked hard, Hesk across a workbench and Lira across a sparring circle, close enough to see what didn't fit before he had any words for it; and yet not one of them had stopped at the edge of the looking and asked whether he minded.
 
 ---
 
-Prynn waited until the door had shut.
+Prynn let the door settle in its frame before she spoke.
 
-"She looked at the shelves on the way in."
+"She looked at the shelves when she came in."
 
-Cael turned on the bench. "Is that good?"
+Cael turned round on the bench. "Does that count for something?"
 
-"Most of them look at you." Prynn turned a page in her ledger. "Drink your tea."
+"The rest look at you." Prynn wet a finger and turned a leaf of her ledger. "Your tea's going cold."
 
-He drank it. It was as bad as it had been the first time, strong enough to stand a spoon in and stewed since dawn, and he finished every drop and carried the cup back to her desk, and then he walked out across the yard with no particular place to go.
+It had been stewing since dawn and was strong enough to hold a spoon upright, exactly as bad as the first cup she had ever given him. He drank all of it, took the empty cup back to her desk, and went out into the yard with nowhere in particular to be.
 
-He did that when he needed his feet to move faster than his thoughts, and he walked the long way round the training hall twice before he noticed he was doing it.
+His feet carried him round the training hall, and round it again, before he noticed what they were doing, because he walked like that whenever his thinking needed to be outpaced.
 
-There was a careful answer available, and it would have been the sensible one. He had learned over a long time that people who wanted to study him seldom wanted exactly what they said, and that the space between a stated purpose and its eventual use was where he usually got hurt.
+The sensible answer was no, or not yet, and he knew exactly where that answer came from. People who wished to study him had seldom wanted only what they said they wanted, and between the purpose a person stated and the use the work was put to later there lay a stretch of ground where he had always been hurt. She would write; she had said so as though it were the least worrying part of the offer. But paper travelled. Three weeks ago a brown envelope with his name in it had gone down this hill, and a grey card had come back up, and somewhere between the two a person he would never meet had read a line about him.
 
-She would write things down. She had said so herself, plainly, as if it were the least alarming part of the offer. Written things travelled. A brown envelope had gone down this hill three weeks ago with his name inside it, and a grey card had come back, and he did not know who had read the line in between.
+That was one fact, and he made himself set the other beside it and keep both in view, instead of letting the louder one win simply for being louder.
 
-But beside the caution sat another fact, and he made himself hold both rather than let the louder one win by being louder. She had asked.
+She had asked.
 
-Every eye that had ever studied him had done it as procedure, something done to him under cover of a rule that never stopped to wonder whether he would have agreed. She had walked into an archive and made the choice plain and handed him the refusal before she had written a single line. She had even told him how she expected to fail.
+Every eye that had ever been turned on him had been turned there by procedure, by some rule that never paused to wonder whether he would say yes. She had walked into an archive, laid the choice out in plain words, and handed him the refusal before she had written a single line. She had even told him how she expected to go wrong.
 
-He did not know yet whether that made her someone to trust. He knew it made her unlike anyone else who had ever wanted to know what he was, and in his experience a difference that large was worth studying before deciding what to do with it.
+Trustworthy was a separate question, and an open one. What it did make her was new. Nobody who had come wanting to know what he was had ever gone about it like this, and when a thing was that new, he liked to look at it for a long while before he touched it.
 
-So he did what he always did when he needed to understand a thing before committing to it. He watched her.
+So he went back to his oldest habit, the one he trusted more than any decision.
+
+He watched her.
 
 ---
 
@@ -114,7 +114,7 @@ Before every point she laid, her off hand went still. It was not much, a quarter
 
 On the second afternoon she saw him.
 
-Of course she saw him. He had not hidden, and she was, by her own account, someone who noticed things for a living. Between one drill and the next her eyes came up and found him at the edge of the section with the binder open, and rested on him for perhaps a breath, and went back to the boards.
+Of course she saw him. Noticing was her trade, by her own account, and he had made no effort to hide. Between one drill and the next her eyes came up and found him at the edge of the section with the binder open, and rested on him for perhaps a breath, and went back to the boards.
 
 Then she did nothing differently. That was the part he wrote twice.
 
@@ -122,9 +122,9 @@ Edran had sharpened when he found an audience at the rail; Cael had watched him 
 
 Karis did not. She did not angle her best work toward the edge of the section or lay her points a fraction cleaner. She did not even stop laying the late one that had hissed under the Current girl's heel the day before; she laid it late again, on purpose this time, and wrote the result down. At the end of the hour she packed her notebook, nodded in his direction once in a way that acknowledged he was there and offered him nothing to look at, and left.
 
-*She knows people change when they're watched,* he wrote that night. *She seems to have trained it out of herself, which would mean she decided at some point that clean results were worth more than looking well, and then trained herself until it was so.* He looked at the entry. It was the kindest thing he had written about a stranger in a long time, and the log was the one place he never let himself be generous without checking, so he added the balancing line beneath it. *Or she's very good at performing not performing. Two more.*
+That night the binder got a long entry. *An audience changes how people move, and she knows it,* it began. *She seems to have trained it out of herself, which would mean she decided at some point that clean results were worth more than looking well, and then trained herself until it was so.* He looked at the entry. It was the kindest thing he had written about a stranger in a long time, and the log was the one place he never let himself be generous without checking, so he added the balancing line beneath it. *Or she's very good at performing not performing. Two more.*
 
-The two more said it was not a performance. Nobody held themselves that steady for four afternoons running for the benefit of one boy at the edge of a section. On the fourth afternoon she did not look at him at all, and he understood that she had simply stopped needing to.
+It wasn't a performance; the next two settled that. No one keeps that kind of evenness up for four days in a row just to impress a boy standing at the edge of the chalk. On the fourth afternoon she did not look at him at all, and he understood that she had simply stopped needing to.
 
 At the bottom of a fresh page, under the heading he had been keeping for a week, he wrote the line he had been circling.
 
@@ -158,66 +158,64 @@ She went out. Cael stood with the strip in his hand and understood that she had 
 
 ---
 
-He told Lira on the wall outside the residence wing, the evening after the fourth session, because that was where he told her things.
+Lira let him tell all of it, from the statute book to Prynn's tea, without saying a word. That was rare enough that he knew she was taking it seriously.
 
-He told her the whole archive conversation nearly word for word. He had got into the habit of doing that with the things that mattered before he had finished deciding what he thought of them, as if saying them aloud to Lira were a way of reading them back.
+They were on the wall outside the residence wing, where he told her things, on the evening after Karis's fourth session. He had given her the archive conversation nearly whole. It had become a habit of his, with anything that mattered, to say it aloud to Lira before he had finished deciding what he thought of it, as though hearing it in the open air were a way of reading it back. She sat with her chin on her knees and her eyes on the dark yard the whole time.
 
-She listened with her chin on her knees and her eyes on the dark yard, and she did not interrupt once, which was rare enough to tell him she was taking it seriously.
+"Well," he said, when there was nothing left.
 
-"Well," he said at the end.
+The yard went on being dark for a long while before she answered.
 
-Lira thought about it for longer than he expected.
-
-"She asked." She turned the words over as if testing their weight. "Everybody who's ever wanted anything from you wanted it without asking. She asked. That isn't nothing." A pause. "It isn't everything, either."
+"She asked." Lira said the two words slowly, as if weighing them on her palm. "Everyone else who wanted anything from you just took it. She asked first. That isn't nothing." She let a moment go by. "It isn't everything either."
 
 "No."
 
-"You don't have to decide tonight. She told you that herself, apparently."
+"And you've got time. She said so herself."
 
-"She said she'd rather I took a month."
+"A month, she said. Longer if I liked."
 
-"Then take a month." Lira pulled one knee up and wrapped both arms around it, settling in, as she did when a talk had run past the length she had planned for it. "Here's what catches on me, since you'll hear it from me sooner or later. It isn't her. From everything you've said, she's straighter about what she wants than anyone who's ever come at you. It's the category." She was looking out at the yard, not at him. "People who put you on paper. Every bad thing that ever happened to you began as something somebody wrote down."
+"Take the month." Lira hooked an arm round one knee and drew it up and leaned on it, as she always did when a talk was going to run longer than she had meant it to. "I'll tell you what snags on me, because you'll get it out of me sooner or later anyway. It isn't her. Going by everything you've told me, she's laid out what she wants more plainly than any of the others ever did. It's the kind of thing she wants to do." She kept her eyes on the yard. "Put you on paper. Every bad turn your life ever took started out as ink."
 
-He did not answer, because there was no answer to that; it was simply true.
+He had nothing to say to that, because it was true, and true things did not need answering.
 
-"I know about writing things down," Lira went on, more quietly. "There's a file on me in a box at the intake desk. Fenmark's file. I've never read it. Not once. But I know who wrote it, and I know not one of them ever asked me a single question before they did. They watched me for a year and wrote what they decided they'd seen, and then a clerk read it aloud to me in a room, and that was what I was." She breathed out. "So when somebody says *I'd like to study you*, my shoulders go up before I can stop them. I'm not arguing. That's the scar, and I can tell a scar from an argument. I'm only warning you it's there, so that when I pull faces about her later you'll know which bit of me is pulling them."
+"I know a bit about being written down." Her voice dropped. "Fenmark kept a file on me. It's sitting in a box at the intake desk right now, and I've never once opened it. I know who wrote it, though. And I know that not one of them ever asked me a single thing first. They watched me for a year and wrote down what they'd decided they saw, and then a clerk stood in a room and read it to me, and that was who I was." She let out a breath. "So somebody says *I'd like to study you*, and up go my shoulders before I can stop them. That isn't me arguing with her. It's a scar, and I know a scar from an argument. I'm pointing at it so you know it's there. Later on, when my face does something about her, you'll know where it's coming from."
 
-"All right," he said, and meant it in the full weight the binder gave the words.
+"All right," he said, with all the weight the binder had taught him to put into those two words.
 
-"And Cael." She waited until he turned to look at her. "If you do it, do it the way she offered. Terms. Written down. Real ones. Not because I think she'll cheat you. Because one day somebody will want to study you who won't bother asking, and on that day you'll want to be able to hold up a page and say, *this is what asking looks like.*"
+"And Cael." She waited until he looked round. "Yes or no is yours. But a yes should come in the shape she offered. Terms, on paper, real ones. Not because I think she'd cheat you. Because one of these days someone's going to want to study you who won't trouble to ask. On that day you'll want a sheet of paper you can hold up, and say, *Here. This is what asking looks like.*"
 
-He sat with that longer than with anything else anyone had said to him that week. It was so like Lira to take a question about one person and turn it, in a single evening, into a question about every day after.
+Of everything said to him that week, that was the line he carried furthest. It was so like Lira, to take a question about one girl and turn it, between supper and the lamps, into a question about every day that came after.
 
-"Sit with it," she said, and bumped his shoulder with hers, the old easy knock from more walls than either of them could count. "You're good at holding a thing until you know what you actually think about it, instead of what you're meant to think. Go and be good at it."
+"Sit with it," she said, and knocked her shoulder against his, which was as close as Lira ever came to a blessing. "You're good at that. Keeping hold of a thing till you find your own opinion of it, instead of the one you've been handed. Go and be good at it."
 
 ---
 
-Brom's view arrived the next morning, unannounced, between spoonfuls, in the voice of a man who had been thinking about it all night and saw no reason to say so.
+Brom kept his own view to himself all night and set it down at breakfast between two spoonfuls of porridge, with no introduction, like a man who had finished thinking and saw no reason to mention that he had started.
 
-"The Ternhall transfer."
+"The Ternhall transfer watched my floor block."
 
-Cael looked up from his bread. Lira, who had stolen the other half of it, looked up too.
+Cael looked up from his bread. So did Lira, who had already taken half of it.
 
-"She watched my floor block two days ago. The whole hour, with a notebook, sitting on the bench at the end of the section like it was a lecture." Brom did not look up from his bowl. "Afterward she came over and asked me one question. Just one. She asked where I'd learned to hold back the second half."
+"Two days ago. All of it, start to finish. She sat on the bench at the end of the section with a notebook, like it was a lecture." Brom kept his eyes on his bowl. "After, she came over and asked me one thing. Just the one. Where I learned to hold the second half back."
 
-"The second half of what?" said Lira.
+"Second half of what?" said Lira.
 
-"The turn." Now Brom did look up, and there was something careful in his face, as if he were handling an object he had not expected anyone to pick up. "When I take a strike, there are two parts. I give, and then I turn it. The giving is the first commitment. The turn is the second. I wait on the second, longer than anybody teaches, because if I turn too soon the other fellow feels it and takes his weight back." He set the spoon down. "Nobody's ever asked me that. Wray found the waiting, the first day. She never asked about the second half. It took me two years on my own to understand there even was a second half to ask about."
+"The turn." He looked up now, and his face had gone careful, like someone holding a thing he hadn't expected anyone else to notice. "Somebody hits me and there are two parts. First I give. Then I turn it. The give's my first commitment and the turn's my second, and I wait on the turn longer than anybody teaches, because if I turn early the other fellow feels it coming and pulls his weight back." He put his spoon down. "Nobody ever asked me that. Wray saw the waiting the first day, but she never asked about the turn. I was two years on my own before I even knew there was a question in it."
 
 "What did you tell her?" Cael asked.
 
-"The truth. That I learned it by getting hit a great deal in Velmere by people who were paid to make me give up, and I didn't want to give them the satisfaction of feeling me turn." He picked the spoon up again. "She wrote that down. All of it. Then she thanked me and went away." He ate a mouthful, thoughtfully. "It was the right question. When you weigh her up, put that in the scales."
+"The truth. Velmere. A lot of people being paid to hit me until I quit, and me not wanting to give them the satisfaction of feeling me turn." He took the spoon back up. "She wrote every word of it down. Then she said thank you and left." He ate, slowly. "Right question, that. When you're weighing her up, put that in the scales."
 
 Cael put it in the scales.
 
-That night he sat on his bed by the low lamp and wrote it up in the binder, slowly, in the square hand he saved for entries he meant to keep.
+That night, by the low lamp, he sat on the bed with the binder on his knees and wrote it in the square hand he kept for things he meant to keep.
 
-*Ember, Iron 3, Ternhall. Walked away from a better school to ask me a question. She is the first person who has ever asked before looking.*
+*Karis Dellenmoor, Ember, Iron 3, late of Ternhall. Left a better school to come and ask me a question. First person who ever asked before looking.*
 
-He read it back. A verdict, he thought, was something that happened to a person. It arrived sealed, and the most you could do with it was survive it. A question was something you could stand inside and answer.
+He read it over. Verdicts came down on people; they arrived sealed, and all you could do about one was outlast it. A question was different, because you could walk around inside a question, and you could answer it.
 
-He had been a verdict since he was fourteen: a word in brackets, four known cases, a file closed before it was opened. Everyone since who had surprised him into trusting them, Hesk and Lira and Vell and Brom, and Quenna in her cold, careful way, had done something like the same thing: they had refused to take the verdict as proved. This girl had gone one step further than any of them. She had treated it as unasked.
+He had been a verdict since the age of fourteen: a word in brackets, four cases before his, a file shut before anyone had opened it. Look at the ones he had come to trust in spite of himself: Hesk and Lira, Vell and Brom, and Quenna in her cool, exact way. Each of them, in some fashion, had refused to take the verdict as settled. The girl from Ternhall had gone past refusing. To her it was a question, and nobody had asked it yet.
 
-He did not know yet what that was worth to him. He wrote a second line under the first, smaller, because it was the honest one.
+He did not know yet what that was worth. Under the first lines, smaller, because it was the honest part, he added another.
 
 *Weighing it.*

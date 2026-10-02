@@ -73,3 +73,9 @@ Out of this recheck's scope; spanning movements or belonging to the ledger.
 - **Book-level sums.** POV by word count (Cael about 78.5% of M8; cutaways about 8,070 against about 10,000) for the planner's book total. Progression vocabulary far under plan across M7–M8 (the system is the code; reported, not forced). Length: the book's total against its band after M8 lost ~1,400 words.
 - **Carried from M7's ledger.** Book 4 bible-pass flags: B4 ch18 "of the preceding year"; B4 "in the second hour of a review" against the three-day courier.
 - **Housekeeping.** The movement's `metrics.txt`, `source-overlap.summary` and `AUTHORSHIP.md` predate r1 and should be regenerated or annotated at close.
+
+## Carried in from Step 1 lanes (for Step 2)
+- ch21: Brom says Karis told him to bring the notebook back "at the end of the month" — ch11 never says so (one clause in ch11 s5 closes it).
+- ch29 quotes "like a hand looks at bread" as written in the binder; in ch22 it is only a thought (a log line in ch22/23 closes it).
+- Lane A new details: the provost's stair has thirty-one steps; Karis's mother's wool-trading cousin named as a source (ch10); Lira says "Later, if you want" aloud (ch21).
+- Lane B: 14 chapters under the 13 mean floor (dialogue-heavy), incl. ch37 12.0, ch39 11.45 — reader-facing or meter only?

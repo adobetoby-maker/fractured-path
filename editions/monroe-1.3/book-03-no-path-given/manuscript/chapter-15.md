@@ -110,7 +110,7 @@ Hobb turned his head and looked at him with the same patient, unhurried attentio
 
 "I owe you thanks," Cael said. "For the first sitting, and the second. You hit me as hard as you were asked, every time, and not once harder, and you never tried to make it about you. It was exactly what I needed on both mornings." He held the look. "I wanted to say it to you and not to Wray."
 
-Hobb was quiet for long enough that Cael began to wonder whether he had made a mistake. Then he looked away, out at the ring, where the chalk had been freshly laid that morning.
+Hobb said nothing for so long that Cael started to think he had made a mistake. Then he looked away, out at the ring, where the chalk had been freshly laid that morning.
 
 "Most people thank Wray."
 

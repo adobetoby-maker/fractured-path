@@ -2,17 +2,17 @@
 
 He took the binder up to his room that night and read it from the back to the front.
 
-He had not done that since the road. He read it often, but always forward, from the newest page he needed back to the first heading of the section it belonged to. Tonight he sat on the narrow bed with the lamp turned up higher than the oil allowance strictly permitted, opened it at the very last page, and turned the pages backward, one at a time, all the way to the beginning. The Greyvane pages went first, the eleven Paths and the line at the bottom of each one, the board and the tags and the refusal, the ribs and the post and the cloth. Then the road, and then Ardenmere, a great thick block of it, the circuit and the Ironyard and Vell's ledger copied out in his own hand. Then, at last, came the oldest pages of all, in the too-careful lettering of a boy who had been trying to make a notebook look official because something official had just spat him out.
+He had not done that since the road. He read it often, but always forward, from the newest page he needed back to the first heading of the section it belonged to. Tonight he sat on the narrow bed with the lamp turned up higher than the oil allowance strictly permitted, opened it at the very last page, and turned the pages backward, one at a time, all the way to the beginning. The Greyvane pages went first, the eleven Paths and the line at the bottom of each one, the board and the tags and the refusal, the ribs and the post and the cloth. Then the road, and then Ardenmere, a great thick block of it, the circuit and the Ironyard and Vell's ledger copied out in his own hand. Then, at last, came the oldest pages of all, in the too-careful lettering of a boy who wanted his notebook to look official, since something official had just spat him out.
 
 He knew every page, because he had written every one, but he had never once read them in this direction, looking for this one thing, and he found it on every page he looked at.
 
-Wind-adjacent was first, and Lira's. The fragment had arrived after months of sparring with her every morning in Ardenmere, before either of them had money for anything better, months in which he had watched her move with the whole of his attention, because his attention was the only thing he had that she did not. He had written at the time, under Integration, that he did not know where it had come from. Reading it now from the back he could see exactly where it had come from: a hundred mornings of watching one person turn out of a strike.
+Wind-adjacent was first, and Lira's. Before that fragment came there had been months of morning sparring in Ardenmere, back when neither of them could pay for better, and through all of them he had given her the whole of his attention, because attention was the one thing he had more of than she did. He had written at the time, under Integration, that he did not know where it had come from. Reading it now from the back he could see exactly where it had come from: a hundred mornings of watching one person turn out of a strike.
 
 Pressure-adjacent was second, and Feryn's. He had studied Feryn for six days before the bout, mapped him, filled pages with him, gone to sleep thinking about the way his hands moved and woken up thinking about it, and he had lost anyway, fairly, and afterward the redirect had been in him.
 
 Iron-adjacent was third, and Brom's, and it had come after weeks of sessions in which learning how Brom's body read force had been, in plain fact, the thing they were there to do. Watching Brom had been the assignment.
 
-Compression-adjacent was fourth, and Reydan's. Its notice had come at the top of the hardest fight of his life, against an opponent he had watched more closely than any opponent before, in the third exchange, when he had nearly lost and had reached for something with every scrap of attention he had left.
+Compression-adjacent was fourth, and Reydan's. The hardest fight of his life had produced that notice, in the third exchange, with defeat close enough to touch: an opponent he had studied more closely than any before, and every last scrap of his attention thrown at something he could not name.
 
 Under every one of the four, in the column headed Integration, he had written the same word, *partial*, and under every one the Cost column had grown longer over the months than the Benefit. Wind was nearly whole by now and had cost him only fatigue. Iron was short-ranged and thin against speed. Pressure had three clean uses mapped and a shoulder to pay for each. Compression was a quarter on a good night and a half once, at double the price. Four fragments, four tolls, and four names.
 
@@ -22,27 +22,25 @@ He sat with the binder open on his knees and the lamp hissing and the pattern ly
 
 ---
 
-Fragments came. Everything else he believed about himself stood on that.
+The lamp had burned down past the mark the oil allowance permitted, and the question in front of him would not burn down with it. If it had never been weather, what had it been?
 
-From the first nameless thing that had moved him the way Lira moved, in a sparring circle in Ardenmere, through every notice since, they had come on their own schedule, without being asked, like weather. He did not choose rain or decide which storms crossed which stretch of sky; a sensible person learned the shape of the weather after it had come, wrote it down, and made what use of it he could. He had written that, or something like it, more than once, and he had said it to Karis's question in section four. *Does it feel borrowed? I don't know.*
+For as long as he had had fragments at all, he had believed one thing about them before anything else: they came. The first nameless one, which had let him move as Lira moved in a sparring circle in Ardenmere, had come that way, and so had every notice after it. They arrived when they arrived. Nobody sent for them. A person did not pick his rain, or decide which storms would cross his piece of sky. He learned the shape of a storm once it had passed, wrote it down, and made what use he could of the wet. Cael had put it in the binder in those words or close to them more than once. He had as good as said it to Karis in section four. *Does it feel borrowed? I don't know.*
 
-He had never examined why it mattered so much to him that the fragments were weather. He examined it now, sitting up on the bed with the lamp burning down, and found that the not-choosing had been holding up a great deal more of him than he had known. It was what let him think of himself as somebody things happened to and not somebody who did things, and that difference had mattered enormously to a boy who had been handed his classification at fourteen by people who never once asked what he thought he was.
+Why it had mattered so much that they were weather, he had never asked himself. He asked now, sitting up against the wall with the binder on his knees. The answer was that a great deal of him had been resting on it. Not choosing let him be a person things happened to, rather than a person who did things. To a boy who had been given his classification at fourteen by people who never once asked what he thought he was, that had been worth more than he knew.
 
-*Shattered* was a thing done to him. The registry was a thing done to him. The four other cases, all gone within weeks, were things that had been done to four other people and might one day be done to him, and the fragments, in the same grammar, were things that had happened to him. Everything in his file agreed on that grammar, and so did everything in the Compact's patient, faraway ledger of his life: Cael, the object, and the world, the subject. Things arrived, and he was where they arrived. He had hated that grammar, and he had leaned on it anyway, his whole life, because its other side had never once occurred to him.
+*Shattered* had been done to him. So had the registry. The four cases before his, all gone inside a few weeks, had been done to four other people and might some day be done to him. Put the fragments into that same grammar and they too had simply happened to him. Every page in his file spoke in that grammar. So did the Compact's long, patient, distant account of his life. The world did things; Cael had them done to him. He had hated it, and he had rested his whole weight on it anyway, because it had never crossed his mind that the sentence could be turned round.
 
-If it could be aimed, the not-choosing had been a story he told himself.
+Aim it, and the whole business of not choosing turned into a tale he had told himself.
 
-And if it had never been weather at all, then what had it been?
+He made himself follow that to its end. A thought abandoned halfway was the most dangerous kind he knew.
 
-He made himself think it all the way to the end, because a thought stopped halfway was the most dangerous kind there was.
+Then it had been closer to hunger. Call it appetite. Something in him had looked at people, and kept on looking, and taken, deep below the place where he could see it working. It had taken from the people he loved best, without his knowledge and without theirs, on a timetable he had spent years swearing nobody controlled. Lira, in those Ardenmere mornings, never dreaming that the boy across the circle was doing anything but learning to fight. Brom, holding out his arm to be read because Cael had asked him to. Feryn, who had beaten him fair and owed him nothing at all. Reydan, who had stood across from him in front of six hundred people and fought him straight.
 
-It had been something nearer appetite. Something in him had looked at people, and kept looking, and taken, working below the level where he could watch it work, taking from the people he cared about most in the world without his knowing or theirs, on a schedule he had told himself for years that nobody had any say in. Lira, in the mornings in Ardenmere, with no idea that the boy across the sparring circle was doing anything but learning to fight. Brom, in his own sparring circle, offering his arm to be read because Cael had asked. Feryn, who had beaten him fairly and owed him nothing. Reydan, who had stood across from him in front of six hundred people and fought him honestly.
+Cael did not move.
 
-He sat very still on the bed.
+So nothing had been happening to him. All along it had been his own doing, and he had never once known. That did not make it gentler. It made it harder, the way a careless habit you never caught yourself in is harder to forgive than an accident no one could have prevented.
 
-So things had not been happening to him. He had been doing them, all along, it seemed, and never known. Not knowing did not soften it. It made it worse, the way a bad habit you never noticed is harder to forgive yourself for than an accident nobody could have stopped.
-
-He did not sleep until the lamp had burned itself out. When he did, he dreamed of nothing he could remember, and woke with his right side aching and the binder still open on the blanket beside him, the last page he had looked at being the first one he had ever written.
+He did not sleep until the lamp gave out. When he did, it was dreamless, or nothing he could keep, and he woke with his right side aching and the binder still lying open on the blanket. The last page he had looked at was the very first he had ever written.
 
 ---
 
@@ -72,7 +70,7 @@ He went to the stable and sat at the scarred table and did not open the binder, 
 
 Oona found him there at the sixth.
 
-She came down the long room with her slate under her arm and a rolled sheet of paper in her other hand, and stopped at the end of the table and did not sit down until he looked up. That was new; in the first week she would have sat and started talking.
+She came down the long room with her slate under her arm and a rolled sheet of paper in her other hand, and halted at the table's end, and stayed standing until he looked up. That was new; in the first week she would have sat and started talking.
 
 "I'm learning the chart. For winter. The whole column. My mother says if I know all the Paths before my Arbiter comes, I won't be surprised whatever it says." She unrolled the paper on the table. It was a careful copy of the taxonomy chart from the lecture room in her own hand, the families in neat capitals and the tiers along the top in coloured chalk that had smudged. "Will you ask me them? Brom said you know them all. He said you've got a page for eleven."
 
@@ -158,50 +156,52 @@ That was where Brom found him.
 
 ---
 
-Brom found people the way weather finds valleys, without any intention he would admit to, entirely reliably, and once he had arrived he settled. He came off the defensive floor still in his training things, with chalk to the elbows and his number sheet sticking out of his coat pocket, and took the stretch of rail beside Cael without asking. He did not say anything. He leaned his forearms on the wood and watched the floor below in what anybody passing would have taken for comfortable silence for the length of two whole bouts. That was Brom's method, so far as he would admit to having one: he let the quiet make the opening argument.
+"A quarter of an hour on your hands," Brom said. "Before that, the Glass pair. Before that, Gerda."
 
-"You've been looking at your hands," he said at last, "for about a quarter of an hour. Before that, the Glass pair. Before that, Gerda." He did not look round. "Two days after Karis says it might be aimable. I can count too."
+He had come up off the defensive floor still in his training clothes, chalked to the elbows, his number sheet poking out of his coat pocket, and he had taken the length of rail next to Cael's without a word. Then he had leaned his forearms on it and watched two whole bouts go by below, so that anyone passing would have thought the two of them were simply enjoying the quiet together. That was as close to a method as Brom would own up to. He let silence open the case for him, and spoke when it had finished.
 
-"I can't tell anymore what I'm doing when I watch." Cael said it to his hands. "That's the true answer. Maybe I never could."
+"Karis says it might be aimable, and two days later you can't look up." He kept his eyes on the floor. "I can count as well."
 
-Brom considered that with the thoroughness he gave everything, and Cael could feel him turning it over the way he would turn an opponent's stance to find where the weight really sat.
+"When I watch now, I can't tell what I'm doing." Cael said it to his own knuckles. "That's the honest answer. Maybe I never knew."
 
-"First month we trained, in Ardenmere, you watched me like a ledger. I knew it. Everybody who's ever stood across a circle from you knows. You hide that worse than anything." He shifted his forearms on the rail. "You think the watching changed what it was because she gave it a name on Wednesday?"
+Brom took that and went over it slowly, the way he took everything. Cael could almost feel him walk round it, as he would walk round a stance to find which foot the weight was really on.
 
-"I think it might always have been something I didn't know about."
+"You watched me like a man doing accounts. Ardenmere, that first month. I knew it. Anyone who's ever faced you in a circle knows it. It's the worst-kept secret you've got." He moved his arms on the rail. "And because she put a name to it on Wednesday, you think it's turned into a different thing?"
+
+"Maybe it was a different thing all along, and I just never knew."
 
 "Mm."
 
-Brom was quiet for another bout's worth of the floor below. The Storm pair finished and bowed and stepped out of their ring, and the smell of rain went with them.
+He said nothing for another bout. Below them the Storm pair finished, bowed, and stepped out of their chalk, and the smell of rain went out with them.
 
-"When Wray corrects my footwork, she isn't stealing my balance."
+"Wray doesn't steal my balance," Brom said, "when she fixes my feet."
 
-Cael turned his head.
+Cael turned to look at him.
 
-"She stands two paces off and watches me for an hour, closer than anybody's watched me in my life. Closer than you did, the first month. She finds where my weight goes before I've finished putting it there. Then she says *there*, and I fall over, and I get up, and I'm better." He was looking at the floor, not at Cael. "From the outside, that's the same as what you do. The same behaviour. Somebody watching somebody else so hard they learn the other one's body better than he knows it himself."
+"She stands two paces off and watches me for an hour. Nobody in my life has watched me closer. Closer than you did that first month. She knows where my weight's going before I've finished sending it there. Then she says *there*, and down I go, and I get up, and I'm better than I was." His gaze stayed on the floor. "From outside, it's what you do. The same thing exactly. One person watching another so hard he ends up knowing the other's body better than its owner does."
 
-"It isn't the same."
+"It's not the same."
 
-"No. It isn't." Brom straightened up off the rail, slowly, rolling a shoulder that had taken something on the defensive floor that morning. "The difference is what she means by it. That's all the difference there is. And what you mean by it is the one part of the whole business that's yours to decide."
+"No, it's not." Brom pushed himself upright off the rail, slowly, working a shoulder that had taken a knock on the defensive floor that morning. "What she means by it, that's what's different. That's the whole of the difference. And what you mean by it is the one bit of all this that's yours to choose."
 
-He caught Cael's face, and shrugged, a small careful movement.
+He saw Cael's face and gave the small careful shrug.
 
-"I'm not saying it's simple. I'm saying you've been sitting with the worst possible version since Wednesday night. And the worst version isn't the only one that fits." He turned to go. "She said *aimable*. She didn't say *hungry*. You supplied that part yourself."
+"I'm not telling you it's simple. What I'm telling you is that since Wednesday night you've only let yourself have the ugliest reading, and there's more than one that fits." He turned to go. "*Aimable* was her word. *Hungry* was never hers. You supplied that part yourself."
 
-He went off along the rail toward the residence wing with his number sheet sticking out of his pocket and his chalked hands swinging. Cael watched him go and thought that it had been entirely Brom: he had arrived, said a handful of sentences that rearranged a problem from the bottom up, and left before anybody could argue with him.
+Off he went along the rail toward the residence wing, number sheet sticking out of his pocket, chalky hands swinging at his sides. Cael watched him go and thought that nobody but Brom could have done it quite like that: turn up, say a handful of sentences that set a problem on a new foundation, and be gone before anyone had a chance to argue.
 
 *You supplied that part yourself.*
 
-Cael took the binder out from under his arm, opened it on the rail and wrote the sentence down exactly as Brom had said it, because it was true and he had not seen it. That was what the binder was for: the distance between a thing being true and his seeing it.
+He opened the binder on the rail and wrote the sentence down exactly, word for word, because it was true and he had not seen it. That was what the binder was for. It lived in the gap between a thing being true and his noticing.
 
-It did not close the question. He knew that before he had finished writing. Brom had made it as narrow as it honestly was, and honestly it was still wide, wide enough to hold four fragments taken from four people who had never once been asked: Lira, Feryn, Brom, Reydan. Whatever he had meant by it, and he had meant nothing, because he had not known, the four of them were still on the four pages at the front of the binder with their names beside them. Intent was the whole difference, and Brom was right about that, but intent could only start from now. It could not reach backward into a sparring circle in Ardenmere and tell a boy watching a girl turn out of a strike that he ought to stop and ask her first.
+The question was not closed, and he knew it before the ink was dry. Brom had cut it down to its honest size, and its honest size was still large. It was large enough to hold four fragments from four people, and not one of them had been asked: Lira, Feryn, Brom, Reydan. Whatever he had meant, and he had meant nothing at all because he had not known, their four names were still written at the front of the binder beside four sections. Brom was right that intent made all the difference. But intent could only begin now. It could not walk back into a sparring circle in Ardenmere and tell a boy watching a girl turn out of a strike to stop and ask her first.
 
-He carried the narrowed thing through the fifth bell and the sixth, and through supper, where he ate without tasting the barley and Brom did not look at him once, on purpose. He carried it up the stairs to the residence wing and back down them again, until he stood in the passage at the bottom with his hand on the cold wall.
+He carried the smaller, heavier thing through the fifth bell and the sixth, and through supper, where the barley had no taste and Brom took care not to look at him once. He carried it up the stairs to the residence wing and down again, and stopped in the passage at the bottom with one hand flat on the cold wall.
 
-Lira had not asked him anything in two days. She had put her hand on his shoulder on Wednesday night in the stable and said *later, if you want*, and then left him alone with it. She had not knocked on his door or caught him in the corridor, and she had sat across from him at supper twice and talked to Brom about the honey thief and Wray's book and the rude baker without once looking at him as if she were waiting.
+Two days, and Lira had asked him nothing. On Wednesday night in the stable she had laid her hand on his shoulder and said *later, if you want*, and after that she had left him alone. She had not come to his door. She had not stopped him in a corridor. Twice at supper she had sat across from him and talked with Brom about the honey thief and Wray's book and the rude baker, and never once looked at him the way a person looks while waiting.
 
-She was waiting. He knew it the way he knew the bells.
+She was waiting all the same. He knew it as surely as he knew the bells.
 
-There was one person in the world this belonged to before it belonged to anybody else. It belonged to her more than to Brom, because hers had been the first name at the front of the binder, and more than to Karis, who had only seen the outside of it, and more than to him, perhaps. He had learned, over a long time of turning toward hard things rather than away, that a weight carried alone only grew heavier for whoever was there when he finally put it down.
+Of everyone in the world, this was hers first. It was hers before it was Brom's, because her name was the first one at the front of the binder. It was hers before it was Karis's, because Karis had only ever seen the outside of it. It was perhaps hers even before it was his. Over a long time of turning toward hard things instead of away from them, he had learned that a load carried alone only gets heavier for whoever happens to be standing there when it is finally set down.
 
-He went out through the residence wing door into the cold.
+He pushed open the residence wing door and went out into the cold.

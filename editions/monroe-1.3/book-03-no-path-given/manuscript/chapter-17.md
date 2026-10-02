@@ -106,11 +106,11 @@ Cael did not need to read it again; he had it by heart. *That the candidate be a
 
 She held up one hand, palm out, and laid the plan on it one piece at a time.
 
-"An exhibition bout, held in the formal yard, under standings rules, with the full faculty seats present and the school free to watch. Logged as this month's demonstration assessment under the provision, in the provision's own language: consistent, observable practice. We don't grant his petition and we don't refuse it." She closed the hand. "We answer the question it asked, in front of everybody who's asking." She opened the hand again, as if there were one more piece on it. "It isn't a standings bout. It carries no rank and no tier, and it can't move him or you a single line on the board. A demonstration assessment says one of two things, satisfied or not, and that is all it will say. But it will say it in front of the whole school."
+"An exhibition bout, held in the formal yard, under standings rules, with the full faculty seats present and the school free to watch. Consistent, observable practice: the provision's own three words, and the bout goes into the record under them as this month's sitting. We don't grant his petition and we don't refuse it." She closed the hand. "The petition asked a question. We let the whole school watch it answered." She opened the hand again, as if there were one more piece on it. "It isn't a standings bout. It carries no rank and no tier, and it can't move him or you a single line on the board. A demonstration assessment says one of two things, satisfied or not, and that is all it will say. But it will say it in front of the whole school."
 
 "Against Edran," said Naveth. It was not really a question; he had heard this on the stair.
 
-"Against Edran. He filed it. He's earned the right to be the one who finds out."
+"Against Edran. He filed it. If anyone is going to find out, it should be the boy who asked."
 
 Cael sat with it.
 
@@ -126,7 +126,7 @@ He did what he always did with a plan that was not his own, which was to walk ar
 
 She held his eyes.
 
-"I've watched Edran train since he came here at fifteen. He has a seam, as everyone does. The question isn't whether it's there. It's whether you find it before he finishes the conversation."
+"I've watched Edran train since he came here at fifteen. He has a seam, as everyone does. The question isn't whether it's there. What I don't know is whether you'll find it before he's said everything he came to say."
 
 Cael looked down at his hands. He thought of the board in the main hall with its three pages pinned in a row, and of Oona's face working through *Then he's asking the wrong question*. He remembered his own answer to her, that it was a fair question with one fact wrong in the middle of it. A fair question deserved to be answered where it had been asked. Edran had asked in the yard, and then in ink, and answering him now in a closed hall with three people and a slate would only be one more door shut in his face.
 
@@ -148,7 +148,7 @@ Naveth reached for a blank posting form from the drawer of his desk, then stoppe
 
 He looked at Cael as he had on the first morning, with the joiner's look that decided whether a beam would carry a floor.
 
-"You understand what Quenna has turned this into. In eight days most of this school will stand around that ring and watch you fight, and everything you show them will go into the assessment record with two hundred witnesses beside it. If Edran beats you, we have a problem." He paused. "If you beat him by too much, I'm not sure the problem we'd have instead is any smaller."
+"You understand what Quenna has turned this into. Eight days from now most of this school will be round that ring watching you, and whatever you show them goes into the assessment record with two hundred witnesses to it. Lose to Edran and we're in difficulty." He paused. "If you beat him by too much, I'm not sure the problem we'd have instead is any smaller."
 
 Cael said nothing. He had been thinking the same thing since the word *public*, and he had been waiting to see whether anyone else would say it aloud.
 
@@ -158,7 +158,7 @@ Cael said nothing. He had been thinking the same thing since the word *public*, 
 
 Then, because the man had shut his door to say it and had earned more than two words, Cael said the rest.
 
-"It's what I've been doing since Ardenmere. Every bout on the circuit, I had to win in front of people without showing them more than they'd already seen. Winning at a chosen size." He looked at the copied petition on the blotter. "It's the only way I know how to win anymore."
+"It's what I've been doing since Ardenmere. Every bout on the circuit, I had to win in front of people without showing them more than they'd already seen. Winning at a chosen size." He looked at the copied petition on the blotter. "I've forgotten how to win any other way."
 
 Naveth looked at him for a long moment, and something moved in the old weathered face that Cael could not read. Then he uncapped his pen.
 
@@ -242,7 +242,7 @@ For a moment Cael thought she was going to throw the bread at him. Then somethin
 
 "Not even the read." He turned his bowl a quarter-turn on the table. "The Iron-adjacent read is on the record twice already, so it's safe. But a fight won with one fragment is smaller on paper than a fight won with two."
 
-Lira looked at him for a long moment, and then she gave him the single nod she gave an opponent who had done something she would have done herself.
+Lira considered him in silence, and then gave him the single nod she gave an opponent who had done something she would have done herself.
 
 "Good." She pushed the larger half of the bread across to him. "Eat. You've got eight days of being looked at, and you can't do it hungry."
 

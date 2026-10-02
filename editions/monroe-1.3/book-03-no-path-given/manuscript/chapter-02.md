@@ -78,7 +78,7 @@ At last the clerk set a single sheet on the desk and turned it to face her.
 
 She nodded once.
 
-Cael was close enough to see the heading without meaning to. *Acknowledgment of Prior Standing.* The clerk read it in a flat, even voice: that Fenmark Academy had ended her enrollment; that the record of that ending was to stand as written; that her candidacy for re-certification at Greyvane was granted on the understanding that she accepted that record as accurate and did not dispute it as a condition of entry.
+From where he stood, Cael could read the heading whether he wanted to or not. *Acknowledgment of Prior Standing.* The clerk read it in a flat, even voice: that Fenmark Academy had ended her enrollment; that the record of that ending was to stand as written; that her candidacy for re-certification at Greyvane was granted on the understanding that she accepted that record as accurate and did not dispute it as a condition of entry.
 
 "Do you understand the clause?"
 
@@ -104,13 +104,13 @@ The clerk blotted the signature, put the sheet in the file and the file in the b
 
 "You could have."
 
-"I know." She breathed out. "I could have marked it and fought about it later. I could have stood there and told that nice man exactly why Fenmark was wrong; I've had the speech ready for two years." She turned her head and looked at him. "I want a place here more than I want to win an argument on paper about something that happened when I was fourteen. That's new, for me. Wanting the one thing more than the other."
+"I know." She breathed out. "I could have marked it and fought about it later. I could have stood there and told that nice man exactly why Fenmark was wrong; I've had the speech ready for two years." She turned her head and looked at him. "I'd rather have a bed in this place than be proved right on paper about what Fenmark did to me at fourteen. That's new, for me. Wanting the one thing more than the other."
 
 "How does it feel?"
 
 She was quiet a long time.
 
-"I thought it would feel like losing again. Like that day, standing in a room while somebody reads you what you are." She looked down at her hands. "It doesn't. It feels like setting a pack down at the end of a road. I didn't know how much it weighed until it was on the ground."
+"I was ready for it to be Fenmark all over again. That day, standing in a room while somebody reads you what you are." She looked down at her hands. "It doesn't. It feels like setting a pack down at the end of a road. I didn't know how much it weighed until it was on the ground."
 
 Then she stood up abruptly, the way she did when a feeling threatened to become a conversation.
 
@@ -136,7 +136,7 @@ The afternoon went in pieces. Papers came to the desk in twos and threes: a lett
 
 Twice she excused herself and went through the side door, and through it, faintly, he heard her voice and another voice, low and patient, going back and forth. The words did not carry, but the tone did, and it was the tone of two people trying very hard to fit a large thing through a small opening without breaking either.
 
-A boy from the kitchen brought tea on a tray. Cael thanked him, held the cup in both hands, and forgot to drink it. The square of light moved off the back wall and onto the floor, slid toward the desk legs, and thinned. The other clerks finished their days; the man with the half-moon spectacles nodded to Quenna on his way out, and the young woman who had enrolled Brom gave Cael a look he read easily as *better you than me*. The bench emptied. Somebody, somewhere, lit a lamp.
+A boy from the kitchen brought tea on a tray. Cael thanked him, held the cup in both hands, and forgot to drink it. The patch of sun from the window crept down the back wall, crossed the floorboards toward the desk legs, and went thin. The other clerks finished their days; the man with the half-moon spectacles nodded to Quenna on his way out, and the young woman who had enrolled Brom gave Cael a look he read easily as *better you than me*. The bench emptied. Somebody, somewhere, lit a lamp.
 
 He did not mind, and that surprised him. He had imagined this afternoon a dozen times on the road, and in every version he had been angry by now, or frightened, or both, and instead, watching Quenna come back from her second argument with a fresh sheet in her hand and her mouth set, he understood that what he was looking at was not a wall and not someone trying to keep him out but a building straining, in good faith, to find words for him. He had been described in bad faith before, in Denvash and in a market square and in a hundred small moments on the circuit before Vell's ledger gave people something better to go on. Good faith was slower. It was worth a whole afternoon.
 
@@ -148,7 +148,7 @@ The box said *unclassified observer.*
 
 He read it.
 
-Beneath the category, in smaller type, a printed note explained what the category was. It was reserved for any prospective practitioner who *has not yet undergone formal Kindling assessment*. Such students were usually children whose families had asked for early schooling before their certification appointments. The category granted them lecture attendance, supervised training and academic standing, but not a Path, a tier, a rank, or an Arbiter-issued record of any kind.
+Beneath the category, in smaller type, a printed note explained what the category was. It was reserved for any prospective practitioner who *has not yet undergone formal Kindling assessment*. Such students were usually children whose families had asked for early schooling before their certification appointments. A Path, a tier, a rank, any record from an Arbiter: the category conferred none of those. What it did confer was a seat in lectures, training under supervision, and academic standing.
 
 He read the category line again.
 
@@ -166,7 +166,7 @@ The tea was colder when he looked at it again. He did not reach for it this time
 
 "Then this is wrong."
 
-"There's a record with a classification on it that the Compact's own schedule doesn't define." She said it evenly, without softening it; she had never softened anything she'd said to him. "This category exists for anyone without a standard classification issued by an Arbiter. A child who hasn't Kindled has no standard classification. Neither do you. Yours isn't standard. It isn't anything the schedule accounts for at all."
+"There's a record, and the classification on it is one the Compact's own schedule never defines." She said it evenly, without softening it; she had never softened anything she'd said to him. "This category exists for anyone without a standard classification issued by an Arbiter. A child who hasn't Kindled has no standard classification. Neither do you. Yours isn't standard. The schedule has no line for what yours is."
 
 "So you found a gap."
 
@@ -174,7 +174,7 @@ The tea was colder when he looked at it again. He did not reach for it this time
 
 He looked at the line again. "It says something that isn't true. In ink."
 
-"It's an accurate use of the words, and every word on that page will hold up exactly as written. That matters; that's what protects you." She leaned forward slightly. "What holds up less well is the purpose. The people who drafted the provision were thinking of twelve-year-olds whose parents wanted them to sit in on lectures. They were not thinking of you. Someday someone will read this form more carefully than a clerk does, and they will ask about the purpose."
+"Every word on that page is used correctly, and it will bear any reading anyone cares to give it. That matters; that's what protects you." She leaned forward slightly. "What holds up less well is the purpose. The people who drafted the provision were thinking of twelve-year-olds whose parents wanted them to sit in on lectures. They were not thinking of you. Someday someone will read this form more carefully than a clerk does, and they will ask about the purpose."
 
 "So someone will come and read it properly."
 
@@ -184,17 +184,17 @@ She did not hesitate over it, and he was grateful.
 
 "And then?"
 
-"Then we need to be established fact before they get here." She laid one finger on the seal. "A student with a monthly assessment record. Public, dated, signed by the people who watched. Every month you are simply here, doing well, on the record, it gets harder for anyone to argue that you shouldn't be."
+"Then we need to be established fact before they get here." She laid one finger on the seal. "A student with a monthly assessment record. Public, dated, signed by the people who watched. Each month you spend here, passing, in ink, makes the case against you a little harder to make."
 
 "And if they argue anyway?"
 
 "Then they'll have to argue their way past a stack of dated pages first. I've backed worse odds than these, Cael. I don't back anything I expect to lose."
 
-He looked down at the form for a long time. He thought of the four other people the registry had ever written his word against, four cases, all of them gone within weeks, whose names he did not know and whose number he had carried since he was fourteen the way he carried his own heartbeat. This form would not make him a fifth. It would make him something else, not a known problem with a file but an error the registry had never been asked to hold. It was a strange kind of progress. He was not sure it was better. He was fairly sure it was the only door open.
+His eyes stayed on the form. He thought of the four other people the registry had ever written his word against, four cases, all of them gone within weeks, whose names he did not know and whose number he had carried since he was fourteen the way he carried his own heartbeat. This form would not make him a fifth. It would make him something else, not a known problem with a file but an error the registry had never been asked to hold. Progress, of an odd sort. He was not sure it was better. As far as he could see, no other door stood open.
 
 He picked up the pen and signed in the careful hand he used for the Power Log, the slow, square hand he had learned to keep for anything he meant to stand behind.
 
-The ink dried. Nobody at the desk said anything about the distance between the words and the truth. Quenna knew it, he knew it, the empty room seemed to know it, and saying it aloud would not have made the page more honest.
+The ink dried. Neither of them mentioned how far the words sat from the truth. Quenna knew it, he knew it, the empty room seemed to know it, and saying it aloud would not have made the page more honest.
 
 Then Quenna did something he had not expected. She lifted the signed form, and he saw that it was three sheets, not one, pressed together with a thin layer of copying paper between them. She separated them with practiced fingers. The top sheet went into her folder. The second she slid across to him. The third had a line printed across its head that the others did not — *Registry Copy, for Notation* — and she initialed it in the margin, folded it twice, and put it into a long brown envelope already addressed in a clerk's hand to the regional registry office.
 
@@ -218,7 +218,7 @@ He turned it over. The back was blank.
 
 ---
 
-Lira and Brom were on a low wall outside the intake building in the last of the light, sitting a little apart, and the gap between them was exactly his width. He saw it from twenty paces off and it did something to his chest. They had sat on walls like this in more towns than he could count, and he had never once had to ask where to sit.
+Lira and Brom had claimed the low wall beside the intake door, and they had left a space between them that was exactly his width, with the evening's last light lying along the stones. He saw it from twenty paces off and it did something to his chest. They had sat on walls like this in more towns than he could count, and he had never once had to ask where to sit.
 
 He sat.
 
@@ -238,7 +238,7 @@ Cael gave it an honest answer, because an honest answer was the only kind he tru
 
 "Two pages," said Lira. "Possibly three."
 
-"For what it's worth," said Brom, "the form isn't the interesting part."
+"The form's not what interests me," said Brom, "for whatever that's worth."
 
 "What is?"
 
@@ -286,7 +286,7 @@ Brom stood in front of his own door a moment before opening it, read his name on
 
 ---
 
-The room was narrow and whitewashed, with a bed, a desk, a shelf and a single window that looked out on the training yard's wall, which was blank and grey and asked nothing of anybody. Cael set his pack down, sat on the bed, and listened: feet on a stair, a latch somewhere, voices through the wall too faint for words, a door closing, water moving in a pipe. In a week he would know which latch was which and whose feet those were. He had done it in Ardenmere, and at Hesk's long before that, without ever thinking of it as work. Tonight he knew none of them. Tonight they were only the sounds of a place that had decided to have him.
+Bed, desk, shelf: the room held those and very little else, between whitewashed walls, and its one window showed him the blank grey side of the training yard's wall, which asked nothing of anybody. Cael set his pack down, sat on the bed, and listened: feet on a stair, a latch somewhere, voices through the wall too faint for words, a door closing, water moving in a pipe. In a week he would know which latch was which and whose feet those were. He had done it in Ardenmere, and at Hesk's long before that, without ever thinking of it as work. Tonight he knew none of them. Tonight they were only the sounds of a place that had decided to have him.
 
 He lit the lamp and took out a sheet of paper. He had made a promise in a boarding house in Ardenmere with Hesk's letter open beside him — *I'll write when I arrive* — and he had arrived, and that was all there was to it.
 

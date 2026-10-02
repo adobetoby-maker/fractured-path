@@ -287,17 +287,17 @@ She waited, and Brom waited, and below them the mill wheel groaned. He tried to 
 
 "I like that it's small."
 
-Brom looked at the wall for a long moment. "It's the size it is. It isn't pretending. That's rarer than big."
+Brom kept his eyes on the wall while they climbed another twenty paces. "It's the size it is. It isn't pretending. That's rarer than big."
 
 They walked the last quarter-mile together, and at the gate the clerk had a list.
 
-She was a woman of about forty with ink on the first two fingers of her right hand and the patient face of someone who copied things all day. She did not get up. She ran a finger down the page in front of her, stopped, and read the names back without looking at them.
+She was a woman of about forty with ink stains on two fingers of her writing hand and the patient face of someone who copied things all day. She did not get up. She ran a finger down the page in front of her, stopped, and read the names back without looking at them.
 
 "Brom, standard. Lira, re-certification. And Cael, on the observer track." Then she did look up, at each of them in turn, as if fitting faces to the ink. "The three of you are on my list. Go past the yard. The first door is intake, and they know you're coming."
 
 That was all she said, and it was enough.
 
-Cael stood at the booth a half-second longer than the moment needed. He knew it was a small thing. Every institution in the world kept lists; Denvash had kept one, the certification office had written his name on a schedule before he'd ever asked to be written down. The Compact had him in a registry that ran the length of the continent. But those had all been the same kind of list, a door opening because a rule said it had to, and this was a different kind. Someone in this building had looked at his name weeks ago and decided it belonged on the far side of the gate, and had written it down in ink before he arrived, trusting that he would come.
+Cael lingered at the booth for a breath after there was any reason to. It was a small thing, and he knew it. Every institution in the world kept lists; Denvash had kept one, the certification office had written his name on a schedule before he'd ever asked to be written down. The Compact had him in a registry that ran the length of the continent. But those had all been the same kind of list, a door opening because a rule said it had to, and this was a different kind. Someone in this building had looked at his name weeks ago and decided it belonged on the far side of the gate, and had written it down in ink before he arrived, trusting that he would come.
 
 Most of his life he had been handled as paperwork, walking into rooms where he had to prove he existed before anyone would hand him a chair.
 

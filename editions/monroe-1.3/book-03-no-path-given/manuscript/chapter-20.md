@@ -24,7 +24,7 @@ Quenna wrote it down. Cael could hear the pen in the silence, every stroke of it
 
 Edran did not offer his hand. He did not smile, or sit down on the bench beside Cael, or ask how any of it had worked. He nodded once to Cael, the slow, deliberate nod he had given at the north gate and at the rail and at the end of every question he had ever set down, and then walked out of the ring by the north side and across the yard toward the gate. The Edge floor students on the benches stood up to let him pass, and did not follow him.
 
-It was not friendship. Cael understood that clearly, standing in the cold with his own breath still coming hard. It was something narrower than friendship and in its own way just as valuable. A student of full standing, Iron Rank Two, first on the standings for most of three years, had stood across a chalk ring from him in front of the whole school. Then he had said aloud, for the record, that the thing the observer category had no word for was something real. Nobody had told him to. He had filed the question himself, and now he had answered it himself, in the same daylight.
+It was not friendship, and Cael, still blowing hard in the cold, knew that very clearly. It was a narrower thing. In its own way it was worth as much. A student of full standing, Iron Rank Two, first on the standings for most of three years, had stood across a chalk ring from him in front of the whole school. Then he had said aloud, for the record, that the thing the observer category had no word for was something real. Nobody had told him to. He had filed the question himself, and now he had answered it himself, in the same daylight.
 
 It was a witness.
 
@@ -66,9 +66,9 @@ Cael looked across the yard at Karis, and Karis looked back and did not look awa
 
 ---
 
-Lira got to him first. She always did, after fights; it was one of the few things in his life that had stopped needing verification.
+Lira got to him first. After a fight she always did. It was among the few things in his life he no longer needed to check.
 
-She came straight across the ring without waiting for the chalk to be cleared and looked him over with the two-second inventory she had given him after every bout since Ardenmere. Eyes first, then the forearm, which she took by the wrist and turned to the light without asking, then the line across his coat on the right side, low on the ribs, where the half-made edge had raked him. She put two fingers flat against it, quite gently, and he flinched before he could stop himself.
+She came straight across the ring without waiting for the chalk to be cleared and ran her eyes over him in the quick two-second count she had taken of him after every bout since Ardenmere. Eyes first, then the forearm, which she took by the wrist and turned to the light without asking, then the line across his coat on the right side, low on the ribs, where the half-made edge had raked him. She put two fingers flat against it, quite gently, and he flinched before he could stop himself.
 
 "Bruised. Not cracked. You'd have made a different noise." She let go. "The arm's nothing. It'll sting for a week and you'll pick at it."
 
@@ -78,7 +78,7 @@ She came straight across the ring without waiting for the chalk to be cleared an
 
 "He asked for it."
 
-"He earned it. That isn't the same thing. And you gave it to him at your full attention, every bit of it, which he'll know when he goes over it tonight. That was the right coin. Exactly the right one." Her eyes went to the north gate, where Edran had gone. "And he withdrew. On the floor, in public, in his own words, for the record. That cost him more than losing the bout did. Remember it about him."
+"He earned it. That isn't the same thing. You paid him with all your attention, every scrap of it, and tonight when he goes back over the bout he'll know that. That was the right coin. Exactly the right one." Her eyes went to the north gate, where Edran had gone. "And he withdrew, standing in the ring with the whole school watching, in words he chose himself, every one of them written down. Losing cost him less than that did. Remember it about him."
 
 "I'll remember."
 
@@ -86,7 +86,7 @@ Brom had come up behind her while she talked, at his own pace, and stood with hi
 
 "Fourth exchange. He narrowed the gap in the middle of the fight."
 
-He let the sentence stand on its own for a moment, giving it the weight he plainly thought it deserved.
+He gave the sentence a moment to itself, as though it were heavy enough to need one.
 
 "He moved the third to the other arm, between your third and your fourth, in about the time it takes to walk back to a mark. I've known people train for years and never once change a thing like that during a bout." Brom looked at Cael steadily. "You beat a very good one today. When you write it up, write that down as well. Not just the seam you found in him. Him."
 
@@ -228,7 +228,7 @@ He wrote the day up that night in the narrow room with the window open an inch, 
 
 *Cost: a graze on the left forearm, second exchange, taken on purpose to see the gap from inside. Lira says I paid for something I already owned. She's right. A rake across the right ribs in the fourth, from a third structure called early on the other arm. Two days, says Wray.*
 
-*Edran withdrew. On the floor, in public, for the record, in his own words. Whatever you are, it's real. Not friendship. A witness. I don't know yet what that's worth.*
+*Edran withdrew. He did it in the ring, in front of everyone, in words of his own, and they're in the record now. Whatever you are, it's real. Not friendship. A witness. I don't know yet what that's worth.*
 
 He stopped there, remembered Brom, and turned back to the Glass page. Under the line he had written in his second week, *Glass believes you can afford to break if you break first and on purpose*, he had left a question with a space beneath it, *And what does he believe?*, and the space had been empty for a month. He wrote in it now.
 

@@ -80,7 +80,7 @@ Cael had prepared for many questions and not for that one, and he was glad, beca
 
 "It changes."
 
-Then, because the room ran on exactness and he wanted his own words in the record to be exact: "It has limits. It reads the opponent's body. Faster opponents give me less body to read. Their weight shifts later, and for less time, and the faster they get, the less there is to go on. I haven't found where it stops working. I know which direction that is."
+Then, because the room ran on exactness and he wanted his own words in the record to be exact: "It has limits. It reads the opponent's body. The quicker someone is, the less of his body I have to read from. Their weight shifts later, and for less time, and the faster they get, the less there is to go on. I haven't found where it stops working. I know which direction that is."
 
 The rotating seat wrote for a long time, and when he finally looked up he looked faintly, modestly pleased, like a man who has been handed exactly the right tool without having to describe it twice. Cael understood why after a moment. He had handed the man an edge, and an edge could be measured, and a thing that could be measured sounded studied rather than boasted about; boasting was exactly what got underlined later, by people under lamps.
 
@@ -114,7 +114,7 @@ Cael stepped back to his mark. "That's the demonstration."
 
 The panel withdrew to the end of the hall farthest from him and stood close together by the wall with their slates, speaking too low for him to follow. He read what he could anyway, because he could not help it. Wray spoke first and briefly and then folded her arms. The rotating seat spoke longer and used his hands, sketching something in the air with one finger that might have been a curve. Quenna said almost nothing; she listened with her pen still, and twice she nodded before the speaker had finished, and he guessed from that that her mind had been made up for some time.
 
-The partner stood easy in the ring throughout. He did not sit, though nothing stopped him, and he did not wander or stretch or look over at the panel. He simply stood where he had been told to stand, feet planted and hands loose, showing not the slightest interest in the verdict, and waited to be told he could go. Cael looked at him for a long moment. He had watched this boy put Brom on one knee on their second day here, and now had been hit by him himself, once, on the forearm, and he still did not know his name. Brom had said that not asking had started to feel like a rule. Cael did not think asking would spoil anything. He thought the boy had probably stood in for other people's tests so often that nobody had thought to ask him anything at all, and that was not a rule. It was only a habit everyone had fallen into without noticing. He decided, standing there, that he would learn the boy's name before the month was out, and find a proper moment to thank him — for the patience, for the honest strikes, for being exactly as useful as he was asked to be on a morning when being interesting was the most dangerous thing in the room. He did not say any of this. He put it away somewhere he would not lose it.
+The partner stood easy in the ring throughout. He did not sit, though nothing stopped him, and he did not wander or stretch or look over at the panel. He simply stood where he had been told to stand, feet planted and hands loose, showing not the slightest interest in the verdict, and waited to be told he could go. Cael's eyes rested on him. He had watched this boy put Brom on one knee on their second day here, and now had been hit by him himself, once, on the forearm, and he still did not know his name. Brom had said that not asking had started to feel like a rule. Cael did not think asking would spoil anything. He thought the boy had probably stood in for other people's tests so often that nobody had thought to ask him anything at all, and that was not a rule. It was only a habit everyone had fallen into without noticing. He decided, standing there, that he would learn the boy's name before the month was out, and find a proper moment to thank him — for the patience, for the honest strikes, for being exactly as useful as he was asked to be on a morning when being interesting was the most dangerous thing in the room. He did not say any of this. He put it away somewhere he would not lose it.
 
 The panel returned to their chairs. Quenna made a note on her slate and glanced to her left, and Wray spoke without any change in her voice, as if she were reading a measurement off a gauge.
 
@@ -128,37 +128,39 @@ Nobody moved. The hall had the stillness of a sum that has come out right and ne
 
 Cael stood in the swept ring and waited to feel something enormous. For four days he had built this morning in his head into a far larger and more dangerous room than the one he was standing in, and now that it was over the room felt almost small — not unimportant, but small: three chairs, a ring of chalk, a few sentences in ink. The distance between the room he had feared and the room he got seemed like a lesson worth keeping.
 
-The rotating seat rose, gathered his slate, and left without another word. Wray stood, looked at Cael for a moment, and nodded once, the same nod he had seen her give Brom, which meant that something had held when she leaned on it. Then she went to the partner, spoke a word, and walked out with him a step behind her.
+The rotating seat was the first to go, slate under his arm, with nothing more to say. Wray stood, looked at Cael for a moment, and nodded once, the same nod he had seen her give Brom, which meant that something had held when she leaned on it. Then she went to the partner, spoke a word, and walked out with him a step behind her.
 
 The door closed. Quenna stayed.
 
 ---
 
-"That satisfies today."
+Quenna laid her slate on the little table and turned it over, so that the writing faced the wood. The tap of it was the only sound in the hall.
 
-She had put the slate face down on the little table, and her voice had left the formal register entirely. It was lower and more direct, the voice she used, he was learning, for things she did not want written down anywhere.
+"That satisfies today," she said.
 
-"I want you to understand what today was, though, before you let your shoulders down."
+It was not the voice she had used for the record. The record voice was flat and slow and built for clerks. This one sat lower and came at him more directly, and Cael had begun to notice that she kept it for things she wanted left off every page.
 
-He nodded and waited.
+"Before your shoulders come down, hear what today was."
 
-"Today proves you're real." She folded her hands on the table. "That's all it does. It establishes the first line of the record. It tells the file that a candidate exists under this provision who can demonstrate consistent, observable practice exactly as the language requires, with nothing in it a hostile reader can seize on. That was today's work, and it's done, and it was done well."
+He nodded, and stayed on his mark.
 
-He waited. He could hear that she was not finished.
+"Today proves you're real." She folded her hands. "Nothing more than that. It's the first line in your record. From this morning on, the file holds a candidate under this provision who did what the provision asks, in the provision's own terms, and gave a hostile reader nothing to take hold of. That was the whole task. You did it, and you did it well."
 
-"The assessments that matter come later. They're the ones that will be read by someone who wants you gone. Today we were writing the file. One day someone else will be reading it, someone who isn't sitting in one of these chairs, and every line we write from now on has to be ready for that person."
+He could hear that she had more.
 
-He thought of the patient figure he had built under a lamp, at the far end of the road the brown envelope had gone down. He thought of the road he had not taken in the third pass, and of how close it had been.
+"The sittings that matter are later ones. Those are the ones a person will read who wants you gone. This morning we were the writers. One day the reader will be somebody who has never sat in any of these chairs, and every line we put down from here on has to stand up in front of that somebody."
+
+Cael thought of the reader he had imagined under lamplight, a patient shape at the bottom of the hill road where the brown envelope had gone. He thought of the third pass, and the road he had refused to open, and how near it had been.
 
 "I'll be ready."
 
-"I know you will." She stood and picked up her slate. "You being ready has never been what keeps me up."
+"I know." She stood and took up the slate, still face down. "You being ready has never been what keeps me up."
 
-She did not explain, and he did not ask her to. Hesk did that, and Vell did it; some things were handed over to be held, not opened. She left.
+She gave no reason, and he did not ask for one. Hesk had handed him sentences like that, and so had Vell; some things were meant to be carried shut. Her footsteps went away along the hall, and the door closed after them.
 
-He stayed on a few minutes in the empty hall, with nobody in it now but himself and the chairs, and let the morning drain slowly out of his shoulders. His left forearm ached where the strike had landed, and when he looked down he saw the first faint colour of the bruise coming up along the outer edge, dull red going toward blue: a bruise for a road he had not taken, which was the kind of cost the log had a column for. The ring at the centre of the floor still held the morning in its chalk, scuffs where his feet had moved, two deeper marks where the partner had planted his heels, a smear where Cael had sunk under the last strike of the first pass, and by the fifth bell a broom would have taken all of it. Everything else that had happened here existed only on paper now, in a file, in a building full of files. He had spent the morning being written down, and he had chosen every word they were allowed to write — two things shown, two held back, one never even approached — and it had gone well, and he meant it to keep going well.
+He did not leave at once. The quiet a panel left behind it was its own particular quiet, and he let it work on him until his shoulders came down by themselves. His left forearm had begun to throb where the third pass had caught it, and along the outer edge the bruise was rising already, dull red with blue underneath. He had paid for a road he never took, and the log had a column for exactly that kind of price. In the chalk ring the morning was still written out: the scuffs his own feet had made, two deep marks where the partner's heels had dug in, a smear where he had dropped low under the last strike of the first pass. Somebody with a broom would take all of it before the fifth bell. After that, the only place the morning would exist was a folder on a shelf in a school that ran on paper. They had written him down for an hour, and every word they had been allowed to write was a word he had chosen: two things shown, two held back, and one never reached for at all. It had gone well. He meant to keep it going well.
 
-Before he left, he crouched by the ring and pressed two fingers into the smear where he had sunk under that strike, as a person touches the doorframe of a house they are leaving. Then he stood and went to find the others.
+On his way out he crouched at the ring's edge and set two fingers in the smear, the way someone leaving a house touches the doorframe. Then he got up and went to find the others.
 
 ---
 
@@ -218,6 +220,6 @@ He thought of the road opening in his chest, and three pens.
 
 "I took it instead of something else."
 
-Lira looked at him for a long moment. Then she nodded slowly, as she did when an opponent did something she would have done herself, and pushed the rest of the bread back across the table to him.
+Lira studied him without a word. Then she nodded slowly, as she did when an opponent did something she would have done herself, and pushed the rest of the bread back across the table to him.
 
 "Eat. You've earned the crust."
