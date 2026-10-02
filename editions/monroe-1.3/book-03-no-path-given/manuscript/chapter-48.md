@@ -2,7 +2,7 @@
 
 The records officer came to the archive at the second bell on the Tuesday, and he knocked.
 
-Nobody knocked on the archive door. People pushed it, or leaned on it, or stood in front of it until Prynn looked up and decided whether to let them in. Cael was at the far end of the long table with a volume of the enforcement digests open in front of him, reading every hearing in it that had Ilsev's name in the margin, because Prynn had told him to look at something else for a morning and this was the nearest thing to something else he could bear. He looked up at the knock. So did Prynn, from the high stool, and her pen stopped.
+Nobody knocked on the archive door. People pushed it, or leaned on it, or stood in front of it until Prynn looked up and decided whether to let them in. Cael was at the far end of the long table with a volume of the enforcement digests open in front of him, reading every hearing in it that had Ilsev's name in the margin. Prynn had told him to look at something else for a morning and this was the nearest thing to something else he could bear. He looked up at the knock, and so did Prynn from the high stool, and her pen stopped.
 
 "Come," she said.
 
@@ -12,7 +12,7 @@ The man who came in was in his forties and soft-spoken, with very clean cuffs an
 
 "Procedure generally does," said Prynn.
 
-She took the paper and unfolded it on her desk, and read it, and the records officer waited with his hands folded on his wallet and did not look at anything in particular. Cael watched her read. She read it once fast, the way she read a slip to see what shelf it wanted. Then she read it again slowly, with her finger moving down the margin. Then she turned back to the first page and read it a third time, and at the third reading something happened to her mouth that Cael had not seen happen before. It went thin and straight and stayed that way.
+She took the paper and unfolded it on her desk, and read it, and the records officer waited with his hands folded on his wallet and did not look at anything in particular. Cael watched her read it once fast, the way she read a slip to see what shelf it wanted, and then again slowly, with her finger moving down the margin. Then she turned back to the first page and read it a third time, and at the third reading something happened to her mouth that Cael had not seen happen before. It went thin and straight, and it stayed that way.
 
 "Three pages," she said, without looking up.
 
@@ -50,9 +50,9 @@ Prynn sat for a long time on the high stool without moving.
 
 "I don't want anybody to. That's not the same as not needing a second pair of eyes." She held it out at arm's length, and he came and took it, and read it standing at her desk while she looked at the shelves.
 
-It was plain, as the whole code was plain once you knew where to stand. An inventory under the article on proceedings. The academy's records relevant to the challenge: the enrollment documentation, the provision's certified copies, the assessment records, the correspondence. All of that he had expected, and Naveth's counsel had expected, and none of it was more than Coss already held. Then, at the foot of the second page, a single line under a heading that said *General*, and on the third page a list that went on for twenty lines, in a clerk's hand, and every line of it was a shelf he had walked past every day since the autumn.
+It was plain, as the whole code was plain once you knew where to stand: an inventory under the article on proceedings, of the academy's records relevant to the challenge, which were the enrollment documentation, the provision's certified copies, the assessment records, the correspondence. All of that he had expected, and Naveth's counsel had expected, and none of it was more than Coss already held. Then, at the foot of the second page, a single line under a heading that said *General*, and on the third page a list that went on for twenty lines, in a clerk's hand, and every line of it was a shelf he had walked past every day since the autumn.
 
-He gave it back to her. He did not know what to say. She did not seem to want him to say anything.
+He gave it back to her without knowing what to say, and she did not seem to want him to say anything.
 
 "The fifth bell," she said. "Sit at the far end and keep your mouth shut. I'd like a witness. I'd like it to be somebody who reads."
 
@@ -60,11 +60,11 @@ He gave it back to her. He did not know what to say. She did not seem to want hi
 
 The records officer came back at the fifth bell with a bound volume under his arm and the wallet on top of it, and Prynn had the long table cleared from end to end.
 
-She had laid out the enforcement volume open at the chapter on proceedings, with three slips of paper marking three places. Beside it was the charter's cross-index, and beside that her own concordance, the hand-ruled card older than Cael's parents. She sat on the near side of the table with her back very straight. The records officer sat across from her with his own copy open, and Cael sat at the far end with his hands flat and his mouth shut, as he had been told.
+She had laid out the enforcement volume open at the chapter on proceedings, with three slips of paper marking three places. Beside it was the charter's cross-index, and beside that her own concordance, the hand-ruled card older than Cael's parents. She sat on the near side of the table with her back very straight, the records officer sat across from her with his own copy open, and Cael sat at the far end with his hands flat and his mouth shut, as he had been told.
 
 "The first article," said Prynn.
 
-She did not read it out. She knew it. She put her finger on it and said it, while the records officer followed in his own copy with his lips not moving at all.
+She did not read it out, because she knew it; she put her finger on it and said it, while the records officer followed in his own copy without a sound.
 
 "*Upon a challenge filed and pending, the officer of record may cause to be inventoried such records of the respondent institution as are relevant to the matter challenged.*" She lifted her finger. "*Relevant to the matter challenged.* The matter challenged is the enrollment of one student under one provision of the charter. The provision was written in the lifetime of my own teacher's teacher. The waystation's traveller registers were closed and shelved before the provision existed, and before the charter existed, and before the academy existed. Nothing written in them can be relevant to a provision that was not there to be written about."
 
@@ -76,9 +76,9 @@ Cael heard the four words at the end, and saw Prynn hear them, and saw her go on
 
 "Agreed that they predate it." He turned two pages in his copy and laid his finger flat. "The charter's cross-index, Archivist, under *holdings*. *The holdings of an institution are all papers kept by it, by whatever hand made.*" He looked up. "I'm afraid the cross-index doesn't care who made them."
 
-Prynn did not look at the cross-index. She knew what it said. She had shown Cael that same entry herself, in the second week of the three, as an example of a definition that had been written to close a door.
+Prynn did not look at the cross-index, because she knew what it said. She had shown Cael that same entry herself, in the second week of the three, as an example of a definition that had been written to close a door.
 
-"No," she said. "It doesn't. I'll let that one go." She moved her finger. "The second sentence of the article. *And may remove under seal, for the duration of the proceedings, any record so inventoried.*" She tapped the words. "*For the duration.* The proceedings end. When they end, the seal ends. Whatever goes down that hill comes back up it."
+"No," she said. "It doesn't. I'll let that one go." She moved her finger down the page to the next line. "The second sentence of the article. *And may remove under seal, for the duration of the proceedings, any record so inventoried.*" She tapped the words. "*For the duration.* The proceedings end. When they end, the seal ends. Whatever goes down that hill comes back up it."
 
 "That's my reading as well," said the records officer, and Cael thought he meant it. "The removal is for the duration. When the matter's concluded, the holdings are returned under the same seal, to the same keeper. I'd enter that on the inventory myself, if you'd like it entered."
 
@@ -86,7 +86,7 @@ Prynn did not look at the cross-index. She knew what it said. She had shown Cael
 
 "Then it will be." He made a note in the margin of his own copy in a small neat hand.
 
-Prynn sat back. Cael had watched enough bouts to know what she was doing. She had taken the two exchanges she could not win and spent them on purpose, to see how the other fighter moved, and to make him show his guard. Now she leaned in again, and he knew this was the one she had come for.
+Prynn sat back, and Cael, who had watched enough bouts to know what he was looking at, understood what she was doing. She had taken the two exchanges she could not win and spent them on purpose, to see how the other fighter moved and to make him show his guard. Now she leaned in again, and he knew this was the one she had come for.
 
 "The third slip," she said. "The amendment to the article."
 
@@ -102,11 +102,11 @@ She read this one aloud, slowly, because it was newer than the others and she wo
 
 "Because nobody ever thought a toll book worth the ink."
 
-"Very likely, Archivist. That's usually why." He turned the copy back. "But the amendment doesn't ask why. It asks whether. The founding stock has no current registry designation, so it's unclassified, and because it's unclassified it's relevant. The amendment doesn't need the first article's *relevant* to hold. It supplies its own."
+"Very likely, Archivist. That's usually why." He turned the copy back round to face himself. "But the amendment doesn't ask why. It asks whether. The founding stock has no current registry designation, so it's unclassified, and because it's unclassified it's relevant. The amendment doesn't need the first article's *relevant* to hold. It supplies its own."
 
 Prynn sat quite still.
 
-Cael, at the far end of the table, sat quite still too. He had read that amendment himself in the second week, going through the proceedings chapter in enactment order. He had copied it into the observation notebook as one more scar and gone on, because it had nothing to do with him. He looked at it now, upside down, in Prynn's volume. It was a short sentence, and it was flat and clean, with nothing in it to pull on.
+Cael, at the far end of the table, sat quite still too. He had read that amendment himself in the second week, going through the proceedings chapter in enactment order, and had copied it into the observation notebook as one more scar and gone on, because it had nothing to do with him. He looked at it now, upside down in Prynn's volume, a short sentence, flat and clean, with nothing in it to pull on.
 
 *Unclassified.*
 
@@ -114,15 +114,15 @@ Cael, at the far end of the table, sat quite still too. He had read that amendme
 
 She said it quietly, to the table, not to either of them.
 
-"Somebody sat where I'm sitting," she said. "Once. Some keeper somewhere, with some old shelf, and the first article open, and *relevant to the matter* under her finger. And she won. She took that word and wrung it until it gave, and the clerks went home with empty boxes. And the next year, or the year after, a man in a drafting office read the digest of what she'd done, and sat down, and wrote this." She touched the amendment, very lightly. "It's a scar. I taught a boy that at this table, a long time ago. A patch sits exactly where somebody once broke through." Her mouth moved. "I'd give a great deal to know who she was."
+"Somebody sat where I'm sitting," she said. "Once. Some keeper somewhere, with some old shelf, and the first article open, and *relevant to the matter* under her finger. And she won. She took that word and wrung it until it gave, and the clerks went home with empty boxes. And the next year, or the year after, a man in a drafting office read the digest of what she'd done, and sat down, and wrote this." She touched the amendment, very lightly. "It's a scar. I taught a boy that at this table, a long time ago. A patch sits exactly where somebody once broke through." Her mouth moved, though nothing came of it. "I'd give a great deal to know who she was."
 
-The records officer said nothing. He had the grace to look at his hands.
+The records officer said nothing, and had the grace to look at his hands.
 
 "I've lost," said Prynn. "I'll say so, so nobody has to wait for it. The first article I could have had and the cross-index I couldn't, and the amendment takes the whole floor out from under both. One word does it." She closed the enforcement volume, carefully, with both hands. "Now. The inventory."
 
 "Archivist?"
 
-"*May cause to be inventoried.* An inventory is a list. A list is made by somebody, and a list made by somebody is signed by the somebody who made it." She folded her hands on the shut volume. "Your clerks will box my shelves. Very well. Each box will be entered on the inventory as it's filled. Each entry will give the count of volumes in that box and the shelf mark of every one of them. Each entry will be signed by the clerk who filled the box, in my presence, at my door, before that box crosses my threshold." She looked at him. "Not at the end of the day. Not in a fair copy afterward. One line, one box, one signature, at the door."
+"*May cause to be inventoried.* An inventory is a list. A list is made by somebody, and a list made by somebody is signed by the somebody who made it." She folded her hands on the shut volume. "Your clerks will box my shelves. Very well. Each box will be entered on the inventory as it's filled. Each entry will give the count of volumes in that box and the shelf mark of every one of them. Each entry will be signed by the clerk who filled the box, in my presence, at my door, before that box crosses my threshold." She looked at him across the shut volume. "Not at the end of the day. Not in a fair copy afterward. One line, one box, one signature, at the door."
 
 The records officer looked at her for a long moment.
 
@@ -140,23 +140,23 @@ The records officer looked down the long table at Cael, and Cael looked back at 
 
 Prynn did not get down off the near chair at once.
 
-The light was going in the three high windows, and she sat in the last of it with her hands on the shut volume, looking down the long room toward the back, where the founding stock stood in its narrow cases against the old grey wall. Cael did not move from the far end. He had been a witness for an hour, and he did not know how to stop being one.
+The light was going in the three high windows, and she sat in the last of it with her hands on the shut volume, looking down the long room toward the back, where the founding stock stood in its narrow cases against the old grey wall. Cael did not move from the far end, because he had been a witness for an hour and did not know how to stop being one.
 
 "You read that amendment," she said, without turning round. "In the second week. I watched you copy it."
 
 "I copied it as a scar. I didn't think it was anything to do with me."
 
-"It isn't." Now she turned. "That's what I can't get past. It's the one sentence in that whole volume that is nothing whatever to do with you, and it's the one that's beaten me." She looked at him over her spectacles, and her face was very tired and quite dry. "You found your seam because their code forgot to write a word. I've lost my shelves because it didn't forget one. The same building, the same week, the same four hundred pages."
+"It isn't." Now she turned. "That's what I can't get past. It's the one sentence in that whole volume that is nothing whatever to do with you, and it's the one that's beaten me." She looked at him over her spectacles, and her face was very tired and quite dry. "You found your seam in what their code left out. I've lost my shelves to what it put in. The same building, the same week, the same four hundred pages."
 
-He did not say anything. There was nothing in him that was big enough.
+He did not say anything, because there was nothing in him that was big enough.
 
-"Their code never got round to the word that would have handed them you," said Prynn. "It took very good care over the one that hands them my shelves." She took her hands off the volume. "I'd laugh, if I'd anybody to laugh with who'd been alive long enough to see the joke."
+"Their code forgot to write the word that gives them you," said Prynn. "It remembered to write the word that takes my shelves." She took her hands off the volume. "I'd laugh, if I'd anybody to laugh with who'd been alive long enough to see the joke."
 
 "Let me help."
 
 "With what?" She got down off the chair, slowly, one hand on the table's edge. "You can't stop a seizure with a deposition. You've one of those tomorrow, as I recall, and you'll want to come out of it with your hands as empty as you took them in." She went to the high desk and set the enforcement volume on it, square to the edge. "The girl's on those shelves. Go and tell her what's coming before the clerks come up the hill and tell her themselves. Thursday morning, at the front of the stock, and they'll box as they go. She'll want every hour she's got. Tell her I said so."
 
-He went to the door. At the door he stopped and looked back. Prynn was standing at the high desk with her hand flat on the volume, looking at nothing, in the last of the light.
+He went to the door, and at the door he stopped and looked back. Prynn was standing at the high desk with her hand flat on the volume, looking at nothing, in the last of the light.
 
 "The signatures," he said. "A line per box. That was the one you came for."
 
@@ -170,7 +170,7 @@ Lira had the ring drawn when he came out, and she took one look at him across th
 
 Brom sat down on the edge of the pump trough with the flour sack between his boots and did not argue.
 
-She came at him from the first count, faster than she usually began, and he met her, and for a while it was good, the old forms coming up out of him one after another. Then somewhere in the third sequence he turned her too hard. It was not a turn at all, really. He put his hand on her shoulder with more in it than the form wanted and shoved, and she went two steps back and stopped, and stood looking at him in the cold with her breath going up.
+She came at him from the first count, faster than she usually began, and he met her, and for a while it was good, the old forms coming up out of him one after another. Then somewhere in the third sequence he turned her too hard. It was not really a turn at all: he put his hand on her shoulder with more in it than the form wanted and shoved, and she went two steps back and stopped, and stood looking at him in the cold with her breath going up.
 
 "That one was for somebody," she said.
 
@@ -178,7 +178,7 @@ She came at him from the first count, faster than she usually began, and he met 
 
 "I don't want sorry. I want to know who." She did not come in again. "It wasn't me. I can tell when it's me."
 
-He stood in the ring with his hands at his sides and told her. He told her about the knock, and the man with the clean cuffs, and the long table cleared from end to end. He told her about Prynn with her finger on the first article and her face going thin, and the records officer agreeing with the first half of everything. He told her about the amendment, one flat sentence, and the one word in it, and Prynn sitting in the last of the light with her hand on the shut volume.
+He stood in the ring with his hands at his sides and told her about the knock, and the man with the clean cuffs, and the long table cleared from end to end. He told her about Prynn with her finger on the first article and her face going thin, and the records officer agreeing with the first half of everything. He told her about the amendment, one flat sentence, and the one word in it, and Prynn sitting in the last of the light with her hand on the shut volume.
 
 "She lost to a word," said Lira.
 
@@ -192,47 +192,49 @@ Lira walked a slow half-circle round him, along the inside of the chalk, the way
 
 "I know you didn't. That's why I'm saying it out loud, so you'll hear it." She stopped in front of him. "Listen. She lost to a word. On Monday you're going to stand up and win with one. Their own word, out of their own book, that they never got round to writing down properly." She tapped his breastbone with two fingers, at half speed, and this time he let her. "That's the only way to hit a word. With another one. In the right place. You don't do it out here, on me, at dusk."
 
-He looked at her for a moment.
+He looked at her for a moment in the cold, with the white of their two breaths going up between them.
 
 "When did you get so wise?" he said.
 
 "I've always been this wise. You've only just started having time to notice." She stepped back and set her feet. "Again. From the third sequence. And this time turn me as if I'm a person and not a clause."
 
-He turned her as if she were a person. Brom, on the edge of the trough, began to throw.
+He turned her as if she were a person, and Brom, on the edge of the trough, began to throw.
+
+---
 
 Karis already knew.
 
-He found her at the scarred table at supper with the flat box beside her bowl and a copy of the notice in front of her, which Lira had taken off the main board with the tacks still in it and would put back before the eighth bell. Lira and Brom sat on either side of her. Nobody was eating very much.
+He found her at the scarred table at supper with the flat box beside her bowl and a copy of the notice in front of her. Lira had taken it off the main board with the tacks still in it, and would put it back before the eighth bell. Lira and Brom sat on either side of her, and nobody was eating very much.
 
-"Thursday," said Karis, before he had sat down. "From the front. And box as they catalogue." She did not look up from the paper. "The traveller registers are at the back, against the wall. I've three cases of them left. If they start at the front and work at the speed a clerk works, I've until Saturday. Perhaps Friday night."
+"Thursday," said Karis, before he had sat down. "From the front. And box as they catalogue." She did not look up from the paper, though her finger had stopped moving on it. "The traveller registers are at the back, against the wall. I've three cases of them left. If they start at the front and work at the speed a clerk works, I've until Saturday. Perhaps Friday night."
 
 "Prynn says she wants you to have every hour."
 
 "I'll take every hour." She folded the notice along its crease. "That isn't what I'm thinking about."
 
-Lira had slid the larger half of her bread down the table to her. Karis had not touched it.
+Lira had pushed her own cup of tea down the table to her, and Karis had not touched it.
 
 "I'm thinking about the general clause," said Karis. She put her finger on the line. "*Any holding of the respondent institution.* And the cross-index says a holding is any paper the institution keeps, by whatever hand made." She looked up then, and her face was doing the careful thing it did before she said something about a timing she would rather not have seen. "I carry my satchel to the founding shelves every morning. I set it on the end of the reading shelf in the third case. My notebooks are in it. My ledger is in it. It sits on Prynn's shelf, in Prynn's archive, all day, for anybody to see."
 
-Nobody said anything.
+Nobody said anything, and across the stable somebody laughed at the tiles and was hushed.
 
 "A clerk with a list and a box, working along a shelf," said Karis, "does not stop and ask whose book a book is. That's not what clerks are for. I've been a clerk, in my way. I know." She laid her palm flat on the box. "I'm not saying they'd take it. I'm saying the general clause was written so that nobody would have to ask, and that I've spent two weeks leaving my ledger on a shelf the general clause covers, and I didn't think about it once until Lira brought this to the table."
 
 "Then don't take it down there," said Brom. "Leave it in your room. In the box with the lock."
 
-"I could." Karis looked at him. "And then on Monday a magistrate asks for every paper bearing on the respondent's capabilities, and somebody on that bench knows I sat a match with him, and knows I took notes, because everybody knows I take notes. And my room is in the residence wing of a chartered academy." She was quiet for a moment. "I don't think it will happen. I think it's possible. Those aren't the same, and I've spent my whole life refusing to treat them as if they were."
+"I could." Karis looked at him. "And then on Monday a magistrate asks for every paper bearing on the respondent's capabilities, and somebody on that bench knows I sat a match with him, and knows I took notes, because everybody knows I take notes. And my room is in the residence wing of a chartered academy." She was quiet for a moment, turning the folded notice over in her fingers. "I don't think it will happen. I think it's possible. Those aren't the same, and I've spent my whole life refusing to treat them as if they were."
 
-Cael understood then what she meant, and why she had not touched the bread.
+Cael understood then what she meant, and why the tea had gone cold in front of her.
 
 "The supplementary entry," he said.
 
-"The supplementary entry." She said it very evenly. "*Source: K.* On the same page as *acquisition, directed.* In my hand, in a book that isn't the binder. The second terms say nothing about how it works goes in any record anybody outside the four of us can read. That page has been a broken clause since the night I wrote it. I knew it was, and I kept it, because it was true." She looked at the notice. "It's still true. It's also the only page anywhere outside the binder that says that word next to my name."
+"The supplementary entry." She said it very evenly. "*Source: K.* On the same page as *acquisition, directed.* In my hand, in a book that isn't the binder. The second terms say nothing about how it works goes in any record anybody outside the four of us can read. That page has been a broken clause since the night I wrote it. I knew it was, and I kept it, because it was true." She looked down at the notice under her hand. "It's still true. It's also the only page anywhere outside the binder that says that word next to my name."
 
 Lira said, "Burn it."
 
 She said it at once, flatly, the way she would have said *duck*.
 
-Karis turned and looked at her, and Cael saw something go between them that he did not have a page for.
+Karis turned and looked at her, and Cael saw something go between the two of them that he did not have a page for in any notebook he owned.
 
 "No," said Karis.
 
@@ -240,15 +242,15 @@ Karis turned and looked at her, and Cael saw something go between them that he d
 
 "It's one true page." Karis's voice did not rise. "I don't burn true things. Not because somebody might read them. If I start burning what's true whenever it's inconvenient to have it lying about, I'll be a different kind of researcher by the end of the term, and I don't want to find out what kind." She put both hands flat on the table. "True things don't get burned. They get kept. By the right person, somewhere nobody else can open."
 
-She bent and unbuckled her satchel and took out the ledger. It was a plain brown book, worn soft at the corners. She opened it at the back, past the twenty-two sessions and the ruled line and *We are missing a condition*, past the barley clause, to a page in her own small upright hand. Cael did not need to read it. He knew it by heart.
+She bent and unbuckled her satchel and took out the ledger, a plain brown book worn soft at the corners. She opened it at the back, past the twenty-two sessions and the ruled line and *We are missing a condition*, past the barley clause, to a page in her own small upright hand. Cael did not need to read it, because he knew it by heart.
 
 Then she took a penknife from her coat pocket and opened it.
 
 Brom started to say something, and stopped.
 
-Karis laid the ledger flat and ran the little blade down the page close against the binding. She did it slowly and very straight, with the blade held almost flat, as if she had done it before and had decided then how it ought to be done. The page came away in her hand clean. A narrow stub of paper stood where it had been, no wider than a fingernail.
+Karis laid the ledger flat and ran the little blade down the page close against the binding, slowly and very straight, with the blade held almost flat, as if she had done it before and had decided then how it ought to be done. The page came away in her hand clean, and a narrow stub of paper stood where it had been, no wider than a fingernail.
 
-She closed the knife and put it away. She uncapped her pen. On the stub, and on the top of the next page where there was room, she wrote one line in her smallest hand, and then turned the ledger round so that all three of them could read it.
+She closed the knife and put it away, and uncapped her pen. At the top of the next page, hard against the stub, she wrote one line in her smallest hand, and then turned the ledger round so that all three of them could read it.
 
 *One supplementary entry removed to the subject's keeping by agreement of the four. Week twenty-one. K.*
 
@@ -256,35 +258,35 @@ She closed the knife and put it away. She uncapped her pen. On the stub, and on 
 
 She held the loose page out across the table to Cael.
 
-"The first terms," she said. "If it ends, the notes stay with you. Every copy. And you read everything first and keep it. I'm not ending anything. I'm only using the clause the way it was built to be used." Her hand was quite steady. "The binder's the one place none of us has ever let a record reach. It can go there. Behind my consent, if you like. They'll be good company."
+"The first terms," she said. "If it ends, the notes stay with you. Every copy. And you read everything first and keep it. I'm not ending anything. I'm only using the clause the way it was built to be used." Her hand, holding it out to him, was quite steady. "The binder's the one place none of us has ever let a record reach. It can go there. Behind my consent, if you like. They'll be good company."
 
-He took it. It weighed nothing at all.
+He took it, and it weighed nothing at all.
 
-"Clause two," said Brom slowly. He had his number sheet half out of his coat, as if he meant to write something on it, and then he put it back. "Second terms. Nothing about how it works in any record anybody outside the four can read." He looked at the stub in the ledger. "It's satisfied now. It wasn't before."
+"Clause two," said Brom slowly. He had his number sheet half out of his coat, as if he meant to write something on it, and then he put it back. "Second terms. Nothing about how it works in any record anybody outside the four can read." He looked at the narrow stub where the page had been. "It's satisfied now. It wasn't before."
 
 "I know," said Karis. "I'm sorry it took a notice from the Compact to make me do it."
 
-Lira had not said anything since *No*. She was looking at Karis, and her face had gone from the flat look of somebody saying *duck* to something else, slowly.
+Lira had not said anything since *No*. She was looking at Karis, and her face had gone, slowly, from the flat look of somebody saying *duck* to something else.
 
 "You'd rather keep it than be safe," said Lira.
 
 "I'd rather it was kept than gone. Those are different." Karis put the ledger back in the satchel and buckled it. "And now it's both."
 
-Lira was quiet a moment longer. Then she reached across, took back the larger half of the bread, tore it in two again, and gave Karis the larger half of that.
+Lira was quiet a moment longer, and then she reached across, picked up Karis's spoon from beside the untouched bowl, and put it into her hand, and closed Karis's fingers round it with her own.
 
 "Eat," she said. "You've been arguing with a clause for an hour and you haven't touched your barley, and Brom's watching it."
 
 "I'm always watching it," said Brom.
 
-Karis looked at the bread in her hand, and then she ate it.
+Karis looked at the spoon in her hand for a moment, and then she ate.
 
 ---
 
-He put the page in the binder that night, in the back pocket, behind Karis's consent and in front of her soft-cornered paragraph. He did not read it again before he did. He had read it on the Sunday it was written. It said what it had said then.
+He put the page in the binder that night, in the back pocket, behind Karis's consent and in front of her soft-cornered paragraph. He did not read it again before he did, because he had read it on the Sunday it was written and it said what it had said then.
 
 Then he went down to the archive, because Karis would be there with the schedule, and he did not want her reading it alone tonight.
 
-She was there. She had volume five open and her pen capped beside it, and Prynn was at the high desk with her lamp, writing slowly in a book Cael had not seen her use before, a tall narrow one with a marbled cover. He sat down across from Karis and did not open anything. She did not look up. After a long time she turned back a page, and read it again, and went on.
+She was there, with volume five open and her pen capped beside it, and Prynn was at the high desk with her lamp, writing slowly in a book Cael had not seen her use before, a tall narrow one with a marbled cover. He sat down across from Karis and did not open anything, and she did not look up. After a long time she turned back a page, and read it again, and went on.
 
 At the end of the hour she closed volume five and set it on four.
 
@@ -292,13 +294,13 @@ At the end of the hour she closed volume five and set it on four.
 
 "I didn't ask."
 
-"You never do. It's very loud." She stood and picked up the flat box. At the end of the table she stopped, with the lamp in her hand, and did not turn round. "Thank you for taking it."
+"You never do. It's very loud." She stood and picked up the flat box, and at the end of the table she stopped, with the lamp in her hand, and did not turn round. "Thank you for taking it."
 
 "Thank you for giving it to me."
 
 "That isn't the same thing as I said." Now she looked back, and her face in the lamplight was tired and plain and not careful at all. "You'll understand the difference on Monday. Prynn says everybody's going to understand everything on Monday. I think she's being optimistic."
 
-She went out. Prynn went on writing in the marbled book and did not look up.
+She went out, and Prynn went on writing in the marbled book and did not look up.
 
 He wrote it at his desk, briefly, because there was a first bell in the morning and he had been told, twice, to sleep before it.
 

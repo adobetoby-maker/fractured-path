@@ -2,11 +2,11 @@
 
 They told Lira and Brom at breakfast, at the end of the scarred table, under the outline of the old hay door, with their heads close and their voices down.
 
-It did not take long. Cael had thought on the stair that it would take a long time, and it did not, because there was not very much to tell. There was a register, and a clerk who crossed his sevens. There was a line in an assessor's words, and a line in a later hand over it. There was the old line in the observation notebook, copied in Vell's archive in a hand that sloped. There was the same word in both. Karis told the part about the register and he told the part about the notebook, and neither of them said what it meant, because neither of them knew.
+It did not take long. Cael had thought on the stair that it would take a long time, and it did not, because there was not very much to tell. There was a register and a clerk who crossed his sevens, a line in an assessor's words with a line in a later hand over it, and the old line in the observation notebook, copied in Vell's archive in a hand that sloped, with the same word in both. Karis told the part about the register and he told the part about the notebook, and neither of them said what it meant, because neither of them knew.
 
-He opened the observation notebook and turned it round on the table so that the two of them could see the box with the lines in it. Lira read it upside down, as she read everything, without turning it. Brom read it the right way up, slowly, with one big finger hovering a hair above the page, the way Karis's paper knife had hovered.
+He opened the observation notebook and turned it round on the table so that the two of them could see the box with the lines in it, and Lira read it upside down, as she read everything, without turning it. Brom read it the right way up, slowly, with one big finger hovering a hair above the page, the way Karis's paper knife had hovered.
 
-Nobody said anything for a while. Across the stable the second-years were arguing about tiles.
+Nobody said anything for a while, and across the stable the second-years were arguing about tiles.
 
 "Oh," said Brom at last.
 
@@ -26,9 +26,9 @@ He sat back and looked at the notebook from a little further off, as if the dist
 
 Brom thought about that with his whole face, as he thought about a weight he was going to have to lift.
 
-"A thing you've got," he said slowly, "and won't use, because using it would make the other man stronger." He nodded once. "That's a fighter's thing. I know that one. You don't throw the strike that opens your own guard, however good it is." He picked up his spoon. "I don't like it. I think you're right. Eat your barley."
+"A thing you've got," he said slowly, "and won't use, because using it would make the other man stronger." He nodded once. "That's a fighter's thing. I know that one. You don't throw the strike that opens your own guard, however good it is." He picked up his spoon again and looked into his bowl. "I don't like it. I think you're right. Eat your barley."
 
-Lira had not said anything. She was still looking at the place on the table where the notebook had been, as if the lines had stayed on the wood.
+Lira had not said anything, but was still looking at the place on the table where the notebook had been, as if the lines had stayed on the wood.
 
 "Good," she said.
 
@@ -36,11 +36,11 @@ They all looked at her.
 
 "Good that you're not using it." She raised her eyes. "Not because of the argument. I don't understand the argument well enough to have a view on it, and Karis does, and she's sitting there looking like somebody who's lost one and agreed with it, so I'll take her word." She took his bread, tore it, and gave him back the larger half without looking at it. "Good because it's yours. It's the first thing anybody's ever found about you that wasn't somebody else's word for you. I don't want it going into that room and getting a magistrate's handwriting on it."
 
-He did not know what to say. He looked at the bread.
+He did not know what to say, so he looked at the bread.
 
 "Does it frighten you?" said Lira, more quietly.
 
-He thought about it properly.
+He thought about it properly, as he had promised Oona once that he always would.
 
 "A little," he said. "Mostly it's too big to be frightened of. It's like being frightened of the hill."
 
@@ -50,17 +50,17 @@ He thought about it properly.
 
 Karis built the bench that night.
 
-She built it in the stable, after the second-years had been driven off to the residence wing at the eighth bell by somebody's older sister, on the long trestle nearest the fire, out of books. She had brought them up from the archive in two armfuls with Prynn's leave: volumes of the enforcement digests, three of the charter, the thick taped concordance, and the schedule's index volume for the top. She laid them in a row along the trestle's far edge and then a second row on top, squared, with their spines all facing outward, until there was a low dark wall of books along the table with a gap in the middle the width of a person.
+She built it in the stable, after the second-years had been driven off to the residence wing at the eighth bell by somebody's older sister, on the long trestle nearest the fire, out of books. She had brought them up from the archive in two armfuls with Prynn's leave: volumes of the enforcement digests, three of the charter, and the schedule's index volume for the top, with Prynn's hand-ruled concordance card, folded, tucked inside the index's cover. She laid them in a row along the trestle's far edge and then a second row on top, squared, with their spines all facing outward, until there was a low dark wall of books along the table with a gap in the middle the width of a person.
 
-She sat down behind the gap. She put her two hands flat on the books on either side of her, and looked at him over the top, and her face went perfectly blank.
+She sat down behind the gap with her hands on the books on either side of her, and looked at him over the top, and her face went perfectly blank.
 
-Brom, coming in from the hatch with four cups of tea held together in his two hands, stopped in the doorway. He looked round the room quite seriously, the way a man looks round a yard for somebody who ought not to be in it.
+Brom, coming in from the hatch with four cups of tea held together in his two hands, stopped in the doorway and looked round the room quite seriously, the way a man looks round a yard for somebody who ought not to be in it.
 
 "It's only me," said Karis, without moving her face.
 
 "I know," said Brom. "That's what's worrying."
 
-She had gone to Prynn on the Friday afternoon, she explained, while the clerks were on the toll books, and asked for every hearing in the enforcement digests where the magistrate's name in the margin was Yorlan. There had been fourteen. Prynn had brought them down without a word and gone back to her stool. Karis had read all fourteen, and copied out, word for word, every sentence Yorlan had said at the opening of each sitting, and then laid the fourteen openings side by side and found that they were the same. Not nearly the same. Word for word the same, fourteen times, across eleven years, in nine districts.
+She had gone to Prynn on the Friday afternoon, she explained, while the clerks were on the toll books, and asked for every hearing in the enforcement digests where the magistrate's name in the margin was Yorlan. There had been fourteen, and Prynn had brought them down without a word and gone back to her stool. Karis had read all fourteen, and copied out, word for word, every sentence Yorlan had said at the opening of each sitting, and then laid the fourteen openings side by side and found that they were the same. Not nearly the same. Word for word the same, fourteen times, across eleven years, in nine districts.
 
 "He doesn't vary," she said. "Not a syllable. He opens a sitting as if he were reading it off a card he keeps in his sleeve, and I think he probably is." She held up her own card, which she had written that afternoon in her small closed hand. "So I've written the card."
 
@@ -70,7 +70,7 @@ She had gone to Prynn on the Friday afternoon, she explained, while the clerks w
 
 Cael stood up.
 
-She said it all in a voice he had never heard her use. It was not her voice at all. It was flat and colourless and unhurried, with every word given exactly the same weight as the word before it, so that nothing in it was louder than anything else. It was the voice of somebody to whom the words had long ago stopped meaning anything except that they were the right ones.
+She said it all in a voice he had never heard her use, which was not her voice at all: flat and colourless and unhurried, with every word given exactly the same weight as the word before it, so that nothing in it was louder than anything else. It was the voice of somebody to whom the words had long ago stopped meaning anything except that they were the right ones.
 
 "This tribunal sits under the charter, in public, and on the record. The matter is named in the notice. The parties are named in the notice. The panel will hear the challenge first, and the answer after. The panel will hear what is put to it and no more. The panel will not hear argument for which it has not been shown the ground. The respondent will state his name."
 
@@ -82,7 +82,7 @@ Brom set the four cups down on the end of the trestle very carefully, one at a t
 
 He sat.
 
-"He says *the panel notes it* after everything," said Karis, in her own voice, though her face stayed blank. "In fourteen hearings he never once said *I*. Not once. When he rules, it's *the panel rules*. When he's surprised, and I think he was surprised twice in fourteen hearings, it's *the panel will hear that again*." She turned a page of the concordance without looking at it. "Now. The definitions clause. Cite it."
+"He says *the panel notes it* after everything," said Karis, in her own voice, though her face stayed blank. "In fourteen hearings he never once said *I*. Not once. When he rules, it's *the panel rules*. When he's surprised, and I think he was surprised twice in fourteen hearings, it's *the panel will hear that again*." She unfolded the concordance card and laid it flat without looking at it. "Now. The definitions clause. Cite it."
 
 "The charter's first article after the preamble. *Classification, for all purposes under this charter and its subordinate provisions, shall mean designation under the Schedule of Recognized Paths and Standings, as amended.*"
 
@@ -98,17 +98,17 @@ He got up and came to the bench of books and drew the first volume of the charte
 
 "The panel notes it." She looked at the line. "Again. Slower. You said *shall mean* as if it were any two words. It isn't any two words. It's the two words your whole case stands on. Let the panel hear you know that."
 
-He said it again, slower. He let *shall mean* sit in the room a moment by itself before he went on.
+He said it again, slower, and let *shall mean* sit in the room a moment by itself before he went on.
 
 "Better," said Karis, and made a small mark on her card with a flourish no magistrate in the history of the charter would ever have permitted himself.
 
-They went on until the fire was low. She made him cite the clause four times, and point every time. She made him read out the five places in the schedule, and then the sixth, the refused categories bound at the back of the seventh volume, which he had not counted separately until she did. She made him say the concession, the first sentence of the whole argument, eleven times, until it came out of him flat and plain and short, with nothing on it at all, the way Yorlan would say it if Yorlan ever had to concede anything. At the eleventh she said *the panel notes it* and stopped.
+They went on until the fire was low, and she made him cite the clause four times, and point every time. She made him read out the five places in the schedule, and then the sixth, the refused categories bound at the back of the seventh volume, which he had not counted separately until she did. She made him say the concession, the first sentence of the whole argument, eleven times, until it came out of him flat and plain and short, with nothing on it at all, the way Yorlan would say it if Yorlan ever had to concede anything. At the eleventh she said *the panel notes it* and stopped.
 
-"That's enough for tonight," she said, in her own voice. Her face came back all at once, and she put both hands over it, and laughed into them. "I've never been so tired. Being a magistrate is exhausting. I don't know how he does it."
+"That's enough for tonight," she said, in her own voice. Her face came back all at once, and her shoulders came down, and she laughed at the rafters. "I've never been so tired. Being a magistrate is exhausting. I don't know how he does it."
 
 "He doesn't do anything," said Lira. "That's how. You said so."
 
-"That's harder than doing things," said Karis through her fingers. "I'm finding."
+"That's harder than doing things," said Karis. "I'm finding."
 
 ---
 
@@ -162,6 +162,28 @@ She did not open the book again all day, so far as he saw, and he did not ask he
 
 ---
 
+He took the provision's boxes back down to the archive in the middle of the afternoon, with the enforcement digests he had kept at his elbow for three weeks. He did it because he would not need them again and it seemed wrong to keep them from her on that day of all days.
+
+The back of the founding stock was bare now, all nine cases, the dust standing in pale oblongs on every shelf as far as the old grey wall. He had known it would be, and knowing did not stop it catching in his throat.
+
+Prynn was on her high stool behind the desk with the marbled book shut beside her and her own ledger open. She watched him come in with the first armful and set it down on the end of her desk, and go back, and come in with the second and set that down too. Then she got off the stool and went through the volumes one at a time, holding each slip up against its spine and reading them both, and saying *hm*, and laying the slip on the desk. She did it slowly, because he had never once seen her do anything to a book quickly, least of all this afternoon.
+
+At the last she squared the pile of slips against the edge of the desk.
+
+"Every one," she said. "In the same state it went out. Two of them in better." She looked at him over her spectacles. "You read the provision's boxes in their order and put them back in their order. Nobody does that."
+
+"You told me to."
+
+"I tell everybody to." She laid her hand on the top volume of the pile, and then, instead of picking it up, she took her hand away again and turned back to her stool. "You know where they live now. Put them back yourself."
+
+He stood still.
+
+In sixty years, he thought, she had very likely never said that to anybody. Readers took books down with a slip in the gap, and Prynn put them back, and that was the archive and always had been. He picked up the digests and carried them down the long room to the fourth shelf of the second case, and found each gap by its slip, and slid each volume home with its spine exactly in line with its neighbours. Then he took the provision's boxes to their own shelf, in their order, and stood back and looked at them. Three cases beyond, the founding shelves stood empty to the wall.
+
+When he came back up the room Prynn was writing in her ledger, and did not look up. He thought that her mouth had moved at one corner, and he could not have sworn to it.
+
+---
+
 The courier came back up the hill a little after the fifth bell, on a lathered horse, two days before Havel had expected him.
 
 Havel signed for the satchel at the guest stair and carried it up to the assessors' room himself. He did not hand it to the aide, who offered, or to the records officer, who did not, and he did not hurry on the stair, and he noticed himself not hurrying. He laid it on the long table and opened the day-book and entered it, as the rule required, before he opened it. Correspondence in. Delegation's courier, up. The date and the hour. Then he unbuckled the satchel, and took out the four papers in it, and entered each one in its turn.
@@ -198,59 +220,57 @@ He wrote the last three words and blotted them.
 
 "Yes, Assessor."
 
-She did not go back up the table. She stood at his shoulder a moment longer, and he thought, for the length of a breath, that she was going to ask him after all. She had not asked on Wednesday. She had seen his name on the visit record and said *hm* and gone back to her bundle. He had spent three days waiting for the rest of the question, and it had not come, and he had begun to understand that it was not going to. She did not ask questions she could not do anything with the answer to. That was procedure, and procedure was the whole of her, and she had never once, in any digest he had ever read, pretended it was not.
+She did not go back up the table. She stood at his shoulder a moment longer, and he thought, for the length of a breath, that she was going to ask him after all. She had not asked on Wednesday. She had seen his name on the visit record and said *hm* and gone back to her bundle. He had spent three days waiting for the rest of the question, and it had not come, and he had begun to understand that it was not going to. She did not ask questions she could not do anything with the answer to. That was procedure. She had built her whole name out of it, one digest at a time, and had never asked anybody to give her credit for anything else.
 
 She took the registry's sheet back from the corner of his day-book. She did not take it up the table. She stood where she was, at his shoulder, in the lamplight, and looked at it.
 
 And she read the designation a third time.
 
-Havel saw her do it. He did not see the words; he saw her eyes go to the one line and stop there, and her lips move, very slightly, over it. It was not a check. She had checked it already, twice, and entered it, and referred it, and there was nothing left in it for a check to find. She read it the way a person reads a sentence a third time in a language they know perfectly well, in case the third reading will make it stop being wrong.
+Havel saw her do it. He did not see the words; he saw her eyes go to the one line and stop there, and her lips move, very slightly, over it. It was not a check. She had checked it already, twice, and entered it, and referred it, and there was nothing left in it for a check to find. She looked at it the way Havel had once seen a carter look at a wheel that had come off his cart on a straight dry road, with nothing anywhere to have struck it. The carter had not been looking to learn how it happened. He had looked because the wheel was still lying there.
 
-It did not stop being wrong. He saw that too. She folded the sheet along its crease and put it in her case and went back up the long table to her own end, and sat, and untied the next bundle, and began to read it from the top.
+Looking did not change it. He saw that too. She folded the sheet along its crease and put it in her case and went back up the long table to her own end, and sat, and untied the next bundle, and began to read it from the top.
 
 Havel sat with the day-book open in front of him and his hand flat beside it.
 
 There were three people in the whole of the service, so far as he knew, who had ever looked at that line in that file and asked where it came from. The first had been himself, in a third-row desk by a window, with a manual open. He had been told in four lines to follow procedure and file his reports. The second, he thought, had been the Warden. Havel had never been told so, and could not have proved it. But the four lines had come back within the same afternoon, from a man who did not as a rule hurry anything, and a man who closed a question that fast had usually asked it himself first. And the third was a senior assessor with a clearance two grades above his own, who had asked it on the record, in the proper form, and been answered. The answer was nothing.
 
-She had referred it. It would go up the chain on Monday's courier. He had been in the service long enough to know what happened to things that went up the chain marked *administrative irregularity*. They went up, and nothing came down.
+She had referred it, and it would go up the chain on Monday's courier. He had been in the service long enough to know what happened to things that went up the chain marked *administrative irregularity*. They went up, and nothing came down.
 
-He did not say anything. There was nobody in the room to say it to who did not already know it, and it was not a recording officer's place to say things, and he had learned that the hard way, with four lines in a supervising contact's hand.
+He did not say anything, because there was nobody in the room to say it to who did not already know it. It was not a recording officer's place to say things, and he had learned that the hard way, with four lines in a supervising contact's hand.
 
 ---
 
 He wrote the third entry that night, in the room he had been given at the end of the guest wing, by a candle, sitting on the edge of a narrow bed with the little notebook on his knee.
 
-He read the first two before he wrote it. He did not need to. He read them anyway, slowly, in order, as the assessor read bundles. A market. A marker. *Noted.* A manual. Four lines. *Asked. Told to stop. Stopped.*
+He read the first two before he wrote it, though he did not need to, slowly and in order, as the assessor read bundles: a market, a marker, *Noted*; a manual, four lines, *Asked. Told to stop. Stopped.*
 
 Then he dated the third, the day and the month and the year, and wrote it in the same dry hand as the others, because the same hand was the point.
 
-*Greyvane, the delegation. The senior evaluation seat found the designation in the routing history of the autumn records request. Stated authority two grades too low to have made it. Designation predates the subject file. She queried its origin on the record. The registry returned: systemic protocol, registry sub-layer; no originating authority of record. She referred it, administrative irregularity. She read the designation a third time after she had referred it.*
+*Greyvane, the delegation. The senior evaluation seat found the designation in the routing history of the autumn records request. The request's own authority sits two grades below what the designation needs. Designation predates the subject file. She queried its origin on the record. The registry returned: systemic protocol, registry sub-layer; no originating authority of record. She referred it, administrative irregularity. She read the designation a third time after she had referred it.*
 
-He stopped there. Then he added one more line, because it was the only thing in the entry that was different from the other two, and he wanted it written down by somebody.
+He stopped there, and then added one more line, because it was the only thing in the entry that was different from the other two and he wanted it written down by somebody.
 
 *Not only me this time.*
 
-He looked at it for a long time by the candle.
+The candle guttered while he sat looking at it.
 
-He did not know what he was building. He knew that he was building something, one dry dated line at a time, and that he could not have said what it was for. He knew that he had never yet written an entry that he could have shown to anybody without being asked what he meant by it, and that he could not have answered. He knew that a senior assessor with a reputation built entirely on the registry's own text had looked at a line the text could not account for and done exactly what he had done, which was nothing, correctly.
+He did not know what he was building. He knew that he was building something, one dry dated line at a time, and that he could not have said what it was for. He knew that he had never yet written an entry that he could have shown to anybody without being asked what he meant by it, and that he could not have answered. And he knew he had just watched the one person in the delegation most faithful to the registry's text meet a line that text could not explain, and do with it what he himself had once done: nothing, done correctly.
 
 He closed the notebook and put it in the inside pocket of his coat, where it lived, and pinched out the candle.
 
-He did not show it to anyone. He did not tell anyone that it existed. The next morning he sat at the recording case in the assessors' room with the brass glass on its side and read the deposition's fair copy through once more from the beginning. At the nine dashes after the single word he stopped, as he had stopped every time, and sat looking at them, and did not know why.
+Nobody saw it, and he told nobody it was there. The next morning he sat at the recording case in the assessors' room with the brass glass on its side and read the deposition's fair copy through once more from the beginning. At the nine dashes after the single word he stopped, as he had stopped every time, and sat looking at them, and did not know why.
 
 ---
 
 Brom was Coss that night, and it was not funny.
 
-It had been funny on the Friday, a little, when he had tried it for the first time and got it wrong. He had stood up and done Coss's voice, and Lira had laughed so hard she had to put her head on the trestle. Brom had sat down again flushed along the jaw and said that he had not been doing a voice, he had been doing a man, and he would get it right if they let him think about it for a day.
+It had been funny on the Friday, a little, when he had tried it for the first time and got it wrong by standing up and doing Coss's voice, and Lira had laughed so hard she had to put her head on the trestle. Brom had sat down again flushed along the jaw and said that he had not been doing a voice, he had been doing a man, and he would get it right if they let him think about it for a day.
 
-He had thought about it for a day.
-
-He did not do the voice on the Saturday. He did not do anything that anybody could have pointed to and called an imitation. He came to the trestle where Karis had rebuilt her bench of books, and sat down at the end of it across from Cael, and put his two big hands on the wood in front of him, folded, and was still. That was all. He sat the way Coss sat, as if there were nowhere else he needed to be and nothing that could hurry him. He waited before he spoke exactly as long as Coss waited, which was a little longer than anybody else would have. And when he spoke he gave every word the same patient weight, so that none of them sounded like a point being scored.
+He had thought about it for a day, and on the Saturday he did not do the voice, or anything else that anybody could have pointed to and called an imitation. He came to the trestle where Karis had rebuilt her bench of books, and sat down at the end of it across from Cael, and folded his two big hands on the wood in front of him, and was still. That was all. He sat the way Coss sat, as if there were nowhere else he needed to be and nothing that could hurry him. He waited before he spoke exactly as long as Coss waited, which was a little longer than anybody else would have. And when he spoke he gave every word the same patient weight, so that none of them sounded like a point being scored.
 
 "You concede the enrollment is invalid," said Brom. "Then what's left for this panel to hear?"
 
-Cael felt his stomach go tight, and was ashamed of it, and could not stop it. Across the room, by the fire, Lira had taken her boots down off the bench.
+Cael felt his stomach go tight, and was ashamed of it, and could not stop it, and across the room by the fire Lira had taken her boots down off the bench.
 
 "Jurisdiction," said Cael. "The challenge takes for granted that the Compact can void an enrollment held by somebody under its classification. I'm saying it can't void anything held by somebody its classification doesn't reach."
 
@@ -260,19 +280,19 @@ Cael felt his stomach go tight, and was ashamed of it, and could not stop it. Ac
 
 Brom was silent for a long moment, in the way Coss was silent.
 
-Then he leaned forward. It was only a little, the width of a hand. Cael had never seen Coss do it, and knew at once that Coss would, and that this was something Brom had found by himself, from wherever in him he kept his feel for where a man was about to put his weight.
+Then he leaned forward, only a little, the width of a hand. Cael had never seen Coss do it, and knew at once that Coss would, and that this was something Brom had found by himself, from wherever in him he kept his feel for where a man was about to put his weight.
 
 "Then nothing has you in it," said Brom.
 
 The room went quiet.
 
-"That's what you're asking three officers of the Compact to write down and sign," said Brom, in the same patient voice. "That there is a person the law can't reach. No obligations. No oversight. Nobody to answer to if you hurt somebody. Nobody to go to if somebody gets hurt." He did not move his hands. "You're asking a magistrate to put his name to a hole in the world. Why would he."
+"That's what you're asking three officers of the Compact to write down and sign," said Brom, in the same patient voice. "That there is a person the law can't reach. No obligations. No oversight. Nobody to answer to if you hurt somebody. Nobody to go to if somebody gets hurt." He did not move his folded hands on the wood. "You're asking a magistrate to put his name to a hole in the world. What would make him?"
 
 Nobody said anything.
 
-Cael sat and looked at Brom across the trestle. It was not a legal question. It was not an objection anybody would ever stand up and make in those words. It was the fear that would be sitting in all three chairs on Monday whether anybody said it or not, and Brom had found it and put it on the table in front of him. Cael understood, sitting there, that if he did not answer it tonight he would answer it badly on Monday, in front of the only people whose answer mattered.
+Cael sat and looked at Brom across the trestle. It was not a legal question, nor an objection anybody would ever stand up and make in those words. It was the fear that would be sitting in all three chairs on Monday whether anybody said it or not, and Brom had found it and put it on the table in front of him. Cael understood, sitting there, that if he did not answer it tonight he would answer it badly on Monday, in front of the only people whose answer mattered.
 
-He took his time. The rehearsal was for exactly this.
+He took his time, because the rehearsal was for exactly this.
 
 "Because I'm not asking him to make it," he said slowly.
 
@@ -286,11 +306,11 @@ Brom did not move.
 
 The fire ticked.
 
-Brom held Coss's stillness for a breath longer. Then he let it go, all at once, and was Brom again, broad and tired and flushed along the jaw. He unfolded his hands and put them flat on the trestle.
+Brom held Coss's stillness for a breath longer, and then he let it go all at once and was Brom again, broad and tired and flushed along the jaw, unfolding his hands on the trestle.
 
 "That's the one," he said. "That answer. If anybody in that room asks why they ought to sign their names to it, that's what you tell them." He looked down at his own hands. "I didn't like doing that."
 
-"You did it very well," said Karis, behind her bench of books. She was not in Yorlan's voice. She was not in any voice Cael had heard her use. "It was unnerving. I'd like you never to do it again."
+"You did it very well," said Karis, behind her bench of books, in no voice Cael had heard her use, not Yorlan's and not quite her own. "It was unnerving. I'd like you never to do it again."
 
 "I'll have to do it again tomorrow."
 
@@ -300,10 +320,38 @@ Lira had come over from the fire. She stood behind Brom and put her hand on his 
 
 "Where did you get the leaning?" she said.
 
-"I don't know." Brom considered it. "I watched him at the sixth sitting, by the wall, with his pen. He never leaned once. But I could see where he would, if he ever needed to. Where his weight would go." He shrugged. "It's only weight. Everybody's got to put it somewhere."
+"I don't know." Brom considered it. "I watched him at the sixth sitting, by the wall, with his pen. He never leaned once. But I could see where he would, if he ever needed to. Where his weight would go." He shrugged, a little embarrassed. "It's only weight. Everybody's got to put it somewhere."
 
-Karis had picked up her card again and was writing on it. She wrote for some time.
+Karis had picked up her card again and was writing on it, for some time, and when she looked up her face had gone blank again.
 
-"Again," she said at last, in Yorlan's flat voice. "From the concession. The panel will hear it all again."
+"One thing more," she said, in Yorlan's flat voice. "The panel could find that a word treated as a classification by every office in the Compact, for generations, has become one by that treatment, whether or not anybody wrote it in a schedule. Long and general practice is how most law begins. The respondent will answer."
 
-They heard it all again. They heard it twice more, until the fire was down to red, and on the last time through Brom leaned forward at exactly the same place and said *a hole in the world* in exactly the same patient voice, and Cael's stomach did not go tight at all.
+Cael answered at once, and it came out of him hot.
+
+"But that's the whole wrong of it. They've been walking people out of their lives under that word for generations, and not one of them was ever given a hearing, and now you'd tell me that because they did it so often, it was lawful all along—"
+
+"The panel will not hear that," said Karis, without any change at all. "The panel is not asked whether a thing is fair. It is asked whether it is written. The respondent will answer the objection."
+
+He stood with his mouth open on the next word and nothing behind it.
+
+"Custom can be wrong," he tried.
+
+"So can a schedule," said Karis. "The panel notes it. The respondent has not answered."
+
+Nobody helped him. Lira had her chin on her knees, and Brom had his hands folded again, and the fire ticked. Cael stood in front of the bench of books and felt, for the first time in three weeks, the whole argument go soft under him at one place, like a board that gives when you put your weight on the wrong end of it.
+
+It was Brom who spoke at last, quietly, in his own voice, not Coss's.
+
+"When Wray finds a gap between what I do and what I say I do," he said, "she doesn't let the doing win. She makes me say the new thing out loud, and then I have to do that." He looked at the fire while he said it. "What does their code do, when what they do and what they've written come apart?"
+
+Cael looked at him, and then he thought of Prynn on the first full morning, with a strip of blank paper held out between two fingers, and of a hand-ruled card older than his parents. He thought of a sentence she had given the taxonomy master at the same table, a long time ago.
+
+"It amends," he said slowly. "Every time they found the practice and the pages had come apart, they didn't trust the practice. They went back and wrote it into the pages. That's what an amendment is." He looked at Karis. "If doing it long enough made it law, they'd never have needed to write a single one."
+
+"How many times?" said Karis, still flat.
+
+"I don't know."
+
+"The panel will want to know." She held out the concordance card across the bench of books, folded. "Find out. Tonight."
+
+He took it. Then she said, "Again. From the concession. The panel will hear it all again," and they heard it all again. They went through it twice more, until the fire was down to red. On the last time through Brom leaned forward at exactly the same place and said *a hole in the world* in exactly the same patient voice, and Cael's stomach did not go tight at all.

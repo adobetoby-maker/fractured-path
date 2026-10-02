@@ -2,9 +2,9 @@
 
 He had drawn the ring himself, because he was early and Lira was not, and because his hands wanted something to do that was not holding nothing.
 
-It was a chalk circle on the frozen earth by the pump, eight long paces across, the way she always drew it, and he had walked its edge twice to check it and was walking it a third time when he heard somebody come out of the old building behind him. He knew the step. He did not turn round. He went on along the chalk at the same pace, and the step came down the yard toward the gate, and then slowed, and then changed its line, and came instead along the outside of the ring a few paces off from him, keeping pace with him as if the two of them had arranged to walk the same way.
+It was a chalk circle on the frozen earth by the pump, eight long paces across, the way she always drew it, and he had walked its edge twice to check it and was walking it a third time when he heard somebody come out of the old building behind him. He knew the step, and did not turn round, but went on along the chalk at the same pace. The step came down the yard toward the gate, and then slowed, and then changed its line. It came instead along the outside of the ring a few paces off from him, keeping pace with him as if the two of them had arranged to walk the same way.
 
-The last of the light was going. The sky over the wall had gone the colour of a cooling iron, and the yard was empty except for the two of them and the pump.
+The last of the light was going, and the sky over the wall had gone the colour of a cooling iron, and the yard was empty except for the two of them and the pump.
 
 "Three weeks in the archive," said Coss. "You're going to argue the code."
 
@@ -14,11 +14,11 @@ He did not say it as a question, and he did not say it as a man who expected an 
 
 "I'm reading."
 
-They walked. Coss kept his few paces off, outside the chalk, his hands behind his back. Cael kept to the line.
+They walked, Coss keeping his few paces off outside the chalk with his hands behind his back, and Cael keeping to the line.
 
-"Your counsel has spent three weeks fighting my timetable," said Coss, "and fighting it well. The provost has written me eleven letters about the order in which documents are to be produced, every one of them correct. And you have not been in any of it. You haven't sat in on counsel. You haven't been seen with witnesses. Your friend with the barley has been round the whole school asking people what they saw, and not once asking them to say anything kind." He walked a few paces. "You've been in the archive. Every day. Late. The lamp's still burning when I go down the hill, and it's still burning when the draper locks her shutters, because I can see it from my window." He looked at the gate. "A boy who meant to argue that the enrollment was fair would be finding people to say how good he is. A boy who meant to beg would be writing letters. You've been reading the code. Somebody who reads the code for three weeks has found something in the code, or thinks he has."
+"Your counsel has spent three weeks fighting my timetable," said Coss, "and fighting it well. The provost has written me eleven letters about the order in which documents are to be produced, every one of them correct. And you have not been in any of it. You haven't sat in on counsel. You haven't been seen with witnesses. Your friend with the barley has been round the whole school asking people what they saw, and not once asking them to say anything kind." He walked a few paces in silence, his hands behind his back. "You've been in the archive. Every day. Late. The lamp's still burning when I go down the hill, and it's still burning when the draper locks her shutters, because I can see it from my window." He looked at the gate. "A boy who meant to argue that the enrollment was fair would be finding people to say how good he is. A boy who meant to beg would be writing letters. You've been reading the code. Somebody who reads the code for three weeks has found something in the code, or thinks he has."
 
-Cael said nothing. There was nothing to say that would not give Coss more than the silence did, and the silence was already giving him enough.
+Cael said nothing, because there was nothing to say that would not give Coss more than the silence did, and the silence was already giving him enough.
 
 "Don't tell me," said Coss. "You'd be a fool to, and you've never been one in front of me yet." He was quiet for a few paces. "But I'll tell you how this side of the table works, since you've never had anybody standing on it who'd say. The archivist keeps a lending book. Every volume that leaves a shelf, a slip, and every slip, a line in the book, with the date. I've seen it on her desk. Under the charter's procedure for a challenge filed and pending, I could have that book brought down to my room over the draper's tomorrow morning, and read your three weeks off it shelf by shelf, in the order you pulled them. I'd know by supper what you were going to say on Monday."
 
@@ -26,7 +26,7 @@ Cael said nothing. There was nothing to say that would not give Coss more than t
 
 "I haven't. I won't." Coss stopped walking.
 
-Cael stopped too. He had not meant to. The conversation had a weight that pulled at his feet, and he found himself standing on the chalk with the man a few paces off outside it, the two of them facing each other across the line in the last grey light.
+Cael stopped too, though he had not meant to. The conversation had a weight that pulled at his feet, and he found himself standing on the chalk with the man a few paces off outside it, the two of them facing each other across the line in the last grey light.
 
 "Do you know why?" said Coss.
 
@@ -36,19 +36,19 @@ He thought about it, because he had been asked, and because the man in front of 
 
 Coss looked at him for a long moment.
 
-"I've written about you every quarter for two years," he said at last, "and you've read me better than most of the people I write for." He shook his head once, slowly, the way a man shakes his head who has measured something twice and got the same figure. "But no. That's not the reason. The reason is that it would be a cheat. A legal one, and I'd be within my rights, and it would still be a cheat. The challenge is good. I built it to be good. A good case ought to be met by whatever the other side has actually got, in the room, on the day. Not by something I took off a shelf when the other side wasn't looking." He was quiet. "If you'd stood behind my door with a glass to the wood for three weeks, I'd think less of you. I'd like not to give you the same reason."
+"I've written about you every quarter for two years," he said at last, "and you've read me better than most of the people I write for." He shook his head once, slowly, the way a man shakes his head who has measured something twice and got the same figure. "But no. That's not the reason. The reason is that it would be a cheat. A legal one, and I'd be within my rights, and it would still be a cheat. The challenge is good. I built it to be good. A good case ought to be met by whatever the other side has actually got, in the room, on the day. Not by something I took off a shelf when the other side wasn't looking." He was quiet for a few paces after that. "If you'd stood behind my door with a glass to the wood for three weeks, I'd think less of you. I'd like not to give you the same reason."
 
-The light was nearly gone. In the town below the first lamps were coming on.
+The light was nearly gone, and in the town below the first lamps were coming on.
 
 "For what it's worth," said Coss, "I hope the argument's a good one. Whatever it is." He settled his coat on his shoulders. "I've seen this provision put under strain three times, and every time the people who stood up for it stood up with feeling. Feeling and delay. I've never once seen anybody stand up for it with a reading." He began to walk again, toward the gate. Then, over his shoulder, as plainly as the hour: "Five days."
 
-He went out at the gate. Cael heard him say good night to the clerk in the booth, and the clerk say good night back, and his steps going away down the cart road toward the town. Then there was nothing but the pump dripping and the cold.
+He went out at the gate, and Cael heard him say good night to the clerk in the booth, and the clerk say good night back, and his steps going away down the cart road toward the town. Then there was nothing but the pump dripping and the cold.
 
 He stood on the chalk a long while.
 
-He had wanted, all his life, for the people who meant to end him to fight him fairly. He had wanted it from Reydan on the main floor, and from the market, and from every desk he had ever sat across. He had wanted it so much and so long that he had stopped expecting to get it. And now he had it, whole and unasked for, from the one man whose whole work it had been to carry him toward a courier's door. He did not know what to do with that. He stood with it in the dark until his feet were cold through his boots.
+He had wanted, all his life, for the people who meant to end him to fight him fairly. He had wanted it from Reydan on the main floor, and from the market, and from every desk he had ever sat across, and he had wanted it so much and so long that he had stopped expecting to get it. Now he had it, whole and unasked for, from the one man whose whole work it had been to carry him toward a courier's door. He did not know what to do with that, so he stood with it in the dark until his feet were cold through his boots.
 
-Lira found him there. She came round the corner of the stable at a run, with Brom behind her carrying the flour sack of pea bags, and she stopped dead at the edge of the ring when she saw his face.
+Lira found him there, coming round the corner of the stable at a run, with Brom behind her carrying the flour sack of pea bags, and she stopped dead at the edge of the ring when she saw his face.
 
 "Who was it?" she said.
 
@@ -56,7 +56,7 @@ Lira found him there. She came round the corner of the stable at a run, with Bro
 
 "What did he want?"
 
-Cael thought about it.
+Cael thought about it, because it deserved an exact answer.
 
 "To tell me he wasn't going to cheat," he said.
 
@@ -72,7 +72,7 @@ Lira looked at him for a long time across the chalk, with her breath going up wh
 
 Karis closed the last fascicle of the schedule a little after the eighth bell.
 
-She did it the way she did everything at the end, slowly, squaring the thin taped amendment against the edge of the table and laying it on top of the seventh volume. Then she put both hands flat on the pile and sat for a while without saying anything, and Cael, across the table from her with nothing open in front of him for the third night running, did not say anything either. Prynn's lamp burned at the high desk. Prynn was writing in the marbled book again. She did not look up.
+She did it the way she did everything at the end, slowly, squaring the thin taped amendment against the edge of the table and laying it on top of the seventh volume. Then she rested both hands on the pile and sat for a while without saying anything, and Cael, across the table from her with nothing open in front of him for the third night running, did not say anything either. Prynn's lamp burned at the high desk, where Prynn was writing in the marbled book again and did not look up.
 
 "I've finished," said Karis.
 
@@ -86,21 +86,21 @@ She looked at him across the lamp, and her face was very tired and very level, a
 
 "It isn't there," she said.
 
-He had known she would say it. He had known for five days that she would, and he had told himself every night that knowing was the same as hearing it. It was not. Something in his chest moved that he had not known was standing up.
+He had known for five days that she would say it, and he had told himself every night that knowing was the same as hearing it. It was not. Hearing it was like a weight being set down on the table between them, and he felt the table take it.
 
 "Tell me how," he said. "The whole of it. As if I hadn't read it."
 
 "You haven't. Not the way I did." She took her hands off the pile. "I read it from the first page as if I'd never heard of you, the way I said I would. I didn't look for your word. If I'd looked for it, I'd have read with it in my head, and seen it in places it wasn't. I read every name the schedule gives and asked of each one, *what is this, and where does it live*. I wrote nothing down while I read, so I wouldn't start a list I could lean on. Then, when I'd finished every volume and every fascicle, I sat down and made my list from memory, and checked the list against the shelves afterward."
 
-She held up her hand and counted on it.
+She held up her hand and counted on it, one finger at a time, the way Lira counted the rumor market.
 
 "The enumeration. The provisional annex. The appendix of disputed standings. The amendment schedules, every one, with the struck categories kept in them. The record of the categories proposed and refused, which the schedule keeps as carefully as the rest." She paused with five fingers up. "And the definitions cross-index at the back of the charter, which isn't in the schedule, but which the schedule points to, so I went there too." She folded the hand. "Everything the Compact has ever put a formal name to lives in one of those six. Some in two. Nothing lives anywhere else. Your word isn't in any of them."
 
 "Six," said Cael slowly. "I counted five. I had the refused ones as part of the amendments."
 
-"They're bound separately. In the seventh volume, at the back, after the index." She looked at him. "It doesn't matter. It's not in the sixth either. But it means we didn't read the same way, which is the only thing that makes it worth anything that we both read it." She was quiet for a moment. "If we'd read the same way, I'd only be you again, a week later."
+"They're bound separately. In the seventh volume, at the back, after the index." She looked across the lamp at him. "It doesn't matter. It's not in the sixth either. But it means we didn't read the same way, which is the only thing that makes it worth anything that we both read it." She was quiet for a moment. "If we'd read the same way, I'd only be you again, a week later."
 
-He sat with that. The lamp ticked.
+He sat with that while the lamp ticked.
 
 "So now it isn't my reading," he said.
 
@@ -112,9 +112,9 @@ He sat with that. The lamp ticked.
 
 "I remember everything you say. It's very inconvenient."
 
-She laughed, short and tired, and then put her hand over her mouth and looked at Prynn. Prynn did not look up from the marbled book.
+She laughed, short and tired, and looked guiltily at the high desk, but Prynn did not look up from the marbled book.
 
-"Thursday," said Karis, more quietly. "Tomorrow the clerks start at the front of the founding stock. I've three cases of the traveller registers left, at the back, against the wall. I'd like to read as many of them as I can before they're string and wax." She began to gather her things. "That isn't your search. I know it isn't. The hearing can't use any of it. You needn't say it."
+"Thursday," said Karis, more quietly. "Tomorrow the clerks start at the front of the founding stock. I've three cases of the traveller registers left, at the back, against the wall. I'd like to read as many of them as I can before they're string and wax." She began to gather her things, the flat box first. "That isn't your search, I know. None of it's for Monday. You needn't say it."
 
 "I wasn't going to."
 
@@ -180,7 +180,7 @@ Then, eleven days later, in a weather log of all places, she had found the overl
 
 The weather log's long nineteen-year hand had been kept into the house's last years, after the guild road had gone quiet and the house was keeping fewer books than it used to. On the last page of the last weather log, under the last day's weather, that clerk had written a line about the house being given over, its books and stones and all, to the people who meant to make a school of it. The line was dated twice. Once it gave the house's own year, and once a year in a reckoning Karis could count back from, because the archive's oldest accession register used it too, on its very first page, in Prynn's predecessor's predecessor's hand. Prynn's register ran unbroken from that page to last week.
 
-So the yearbooks gave her the house's years, all of them, unbroken from the first. The weather log tied the house's last year to the accession register, and the accession register ran on to now. She had worked it twice, once forward and once back. She had made Prynn check the register's count without telling her why, and Prynn had checked it and said nothing.
+So the count went in three steps, and she could say them in order. First, the yearbooks counted the house's own years, unbroken, from the first year to the last. Next, the weather log's last line gave that last year in both reckonings at once. Then the accession register counted on from that same year, in the newer reckoning, all the way to this week. She had worked it twice, once forward and once back. She had made Prynn check the register's count without telling her why, and Prynn had checked it and said nothing.
 
 She took a fresh card from her pocket now, and a pencil, and at the front of the founding stock, with the clerks folding boxes two cases away, she wrote it.
 

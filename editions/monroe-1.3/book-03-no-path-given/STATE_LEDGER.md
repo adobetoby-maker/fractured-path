@@ -905,3 +905,144 @@ Movement 5 CLOSED 2026-10-02 after repair r1 and three recheck line fixes (ch32 
 - New minor canon (r2): the division plan is written on Karis's ruled page, *Dusk. The yard. Every day.* above every row; Prynn's rules are a card on his inkwell ("three high" broken by Prynn herself); the four files in ch46 are four numbered lines with day counts 9, 6, 11, 4, unnamed; the fourth's eleven words counted, not quoted.
 - Packet line restored exactly: "This is your enrollment, not mine to trade." (protected-patterns). Kept as altered: "Where do you keep the Compact's code?" / "The registry code."; *I'm not going to argue my enrollment is valid.*
 - Prynn's protected line now attributed "said Prynn" after the first fragment.
+
+
+## After Movement 7 (chapters 47–53; repair r1 applied 2026-10-02; recheck pending)
+
+**Coordinator rulings and r1 changes (these override anything below):**
+- Courier calendar is edition canon: Ilsev's query down Wednesday evening; return Saturday after the fifth bell; referral up Monday. Havel sees the designation by name in the Compact's routing papers; Greyvane's copy shows only a code. Cael knows nothing of the query.
+- Yorlan's opening formula is binding verbatim for M8 (see packets/MOVEMENT-008.md coordinator notes); "the panel notes it", never "I".
+- Deposition record (ch49) exactly as listed in the M8 packet notes; "Four weeks" = week 16 → week 20; nine dashes after "No".
+- Box seven: fifty-three boxes, four hundred and some volumes; crosshatched register in box seven (nine volumes); "Count. Marks. Sign."; per-box signed line; return entered "for the duration, under the same seal, to the same keeper".
+- Karis has NEVER seen the binder: she hands Cael the loose conclusion sheet; he files it in the back pocket himself (F5). Her cut-out ledger page: neutral line at the top of the next page, against the stub.
+- Brom's floor conversation was "that same night" (B2 ch11); his page says "I won that bout" and records the third exchange.
+- Prynn's two-beat line restored exactly in ch48 (protected pattern).
+- r1 schedule: the custom objection's bad answer is on the page at the end of Saturday's rehearsal (ch52); Brom asks what the code does when practice and pages come apart → "It amends."; Karis hands him the concordance CARD ("Find out. Tonight."); he counts the forty-one amendments by candle Saturday night (ch53 opens on it). Prynn's "You know where they live now. Put them back yourself." is now Saturday afternoon after the cart (ch52); on the eve he shelves the charter himself unprompted. Eve gifts: Brom midday, Karis afternoon, Lira at dusk (her slip delivered on the eve — nothing held for M8).
+- Coss at the gate: "Assessor Havel… Recording officer now, I see."
+- Progression vocabulary ~6/10k with legal register, ~3 without (plan ~35 — §8.1 measurement conflict, reported not forced).
+- Book 4 bible-pass flags: B4 ch18 "of the preceding year"; B4 "in the second hour of a review" vs the three-day courier.
+
+**Author's end-state (as drafted; read through the rulings above):**
+
+
+**Calendar.** Sunday night of week 21, the eve of the first sitting (Monday wk22, first bell, assembly room).
+- Mon: the delegation arrives at the third bell; Quenna's rules at the seventh.
+- Tue: the inventory notice; Prynn's contest at the fifth bell; dusk; Karis's ledger page.
+- Wed: the deposition at the first bell; Havel B in the afternoon; the query goes down with the evening courier; Coss at the ring at dusk; Karis finishes the schedule.
+- Thu: the clerks begin at the front of the founding stock; the Karis cutaway; the witness list posted; **the find** that night.
+- Fri: Lira and Brom told; the clerks on the toll books; rehearsal 1.
+- Sat: **the traveller run boxed** (two mornings after the find) and the cart leaves; the courier returns early (a little after the fifth bell); Havel C; rehearsal 2.
+- Sun: the last pass; Brom's page; the archive; Lira; log.
+
+**Cael's body.** No new injury.
+- The left forearm burn is still healing. It is not mentioned as used.
+- Archive stiffness: the pivot was "a hair late all week" and came on time at Sunday dusk.
+- Right shoulder: unchanged.
+- Ember: not used this movement.
+
+**Abilities.** No fragment was used or tested. The progression register is deliberately absent; see §7. The Tide anomaly is unchanged and unmentioned.
+
+**Record exposure.**
+- **Deposition (Coss's, recorded by Havel; read into the hearing).** Cael conceded on the record, in one word, that he did not understand the category to describe him when he signed. Reason given: "the door the provision had, and I wanted to go to school." He also gave the following:
+  - his registry name and number;
+  - "Three" readings of the category line;
+  - the ignition "four weeks" before D6;
+  - no classification vocabulary.
+
+  No mechanism, acquisition or origin was asked or given. Quenna attended without voice.
+- **Witness list (posted Thursday):** Edran and Hobb for the respondent, through the academy's counsel, first sitting, second hour. For the challenge: "none. The challenge rests on documents."
+- **The inventory:** fifty-three boxes, each with a signed line at Prynn's door giving the count and the shelf marks. The records officer entered "returned for the duration, under the same seal, to the same keeper."
+- **Karis's ledger:** no longer carries "acquisition, directed". The supplementary page is in the binder's back pocket. A stub line remains (§3).
+
+**Knowledge.**
+- **Cael:**
+  - the waystation entry and its annotation (P12);
+  - Karis's independent absence result (six places);
+  - Coss will not use the lending book;
+  - the witness list.
+
+  He knows nothing of Ilsev's query.
+- **Karis:**
+  - the entry (two copies, in her first and second notebooks; the second carried inside her coat);
+  - the founding date (about four hundred years by the house's own count);
+  - she has finished the schedule;
+  - she has never seen the binder. She handed Cael the loose second copy of her conclusion page ("Put it with the others. I'd rather not know where that is."), and he filed it in the back pocket himself (F5).
+- **Lira and Brom:** told of the entry at Friday breakfast and shown the notebook box.
+- **Prynn:** not told of the find. She saw the traveller run go out and wrote one dated line in the marbled restoration ledger, its content unseen. "Whatever's been read can't be unread by a cart."
+- **Ilsev:** queried, returned and referred (P16). She asked Havel nothing.
+- **Havel:**
+  - he has a third entry;
+  - he infers, privately and unconfirmed, that Coss asked about the designation once himself;
+  - he tells nobody.
+- **Coss:** has the deposition "No" and "four weeks". He knows Cael has been in the archive. He does not know the argument.
+- **Yorlan:** knows the respondent will speak for himself.
+
+**Relationships.**
+- Karis and Lira: Lira gave Karis the larger half of the larger half.
+- Coss and Cael: Coss chose not to cheat ("I'd like not to give you the same reason"), and Cael believes him.
+- Prynn and Cael: she let him shelve the code himself.
+- Brom: his page is in Cael's coat, and he wants it back if they win.
+- Lira's records-line slip is now in Cael's coat.
+- Edran has kept his promise about the third ("four in four").
+- Oona checked the witness spelling. She will sit on the gallery front bench, left, by the aisle; Lira will be on the bench behind her.
+
+**Supporting-cast decisions.**
+- Prynn: contests, loses, wins signed lines; hands back the shelving.
+- Karis:
+  - the second-reader rule;
+  - she removes the ledger page rather than burning it;
+  - two copies of the entry;
+  - she accepts the decline;
+  - she plays the magistrate;
+  - she writes the conclusion.
+- Lira: empties his pockets; the corrective at dusk; the slip; no drill on the eve.
+- Brom: "less than Hobb"; plays Coss and invents the lean; the page.
+- Quenna: attends without voice; "You didn't reach."
+- Coss: refuses the lending book; "Five days."
+- Ilsev: queries and refers; asks Havel nothing.
+- Havel: says nothing; writes the third entry.
+- Yorlan: two questions.
+- Oona: checks the spelling; "I don't gasp."
+- Gerda: the spelling rule (via Oona); the procedure nod.
+- Hobb: "Second hour… Say what I saw."
+- Edran: fact only; the third held.
+
+**Letters.** None this movement. Hesk's P19 reply and the Vell letter remain for M8.
+
+### New canon minted in prose (flag for ledger and owner)
+
+- **Deposition procedure.** A deponent may be attended by one person, behind him, without voice (the D6 observer procedure applied the other way). The deposition was held in the small lecture room at the end of the lecture wing, under the taxonomy chart.
+- **The recorder's case.** A sloped box with a ruled roll on two spindles, a pen rack, ink, a pounce pot, and a brass quarter-hour sand-glass. Recorders mark silences with a dash per count; there were nine after "No". A fair copy is made the same day. The recording officer keeps the delegation's day-book of correspondence out and in.
+- **The inventory articles (as Prynn and the officer read them):**
+  - First article: "*Upon a challenge filed and pending, the officer of record may cause to be inventoried such records of the respondent institution as are relevant to the matter challenged.*" Its second sentence: "*…and may remove under seal, for the duration of the proceedings, any record so inventoried.*"
+  - The charter cross-index under *holdings*: "*The holdings of an institution are all papers kept by it, by whatever hand made.*"
+  - The amendment: "*For the purposes of this article, any holding of the respondent institution not entered under a current registry designation shall be deemed unclassified; and every unclassified holding shall be deemed relevant to the matter challenged.*"
+  - "Current registry designation" means the registry's catalogue standard, applied to a chartered institution's holdings at each standardization. The founding stock never received it.
+- **The seizure.** Two clerks. Front to back over Thursday to Saturday. Fifty-three boxes, "four hundred and some volumes". Each box is signed at Prynn's door: count, marks, the clerk's signature, then "Counted at the door" and the date in Prynn's hand. A town carrier's cart takes them down the hill; where they are held is unstated. The crosshatched register went in **box seven** of the traveller run, nine volumes. *Plant for M8:* Prynn's per-box counts are what make the later gap provable.
+- **Prynn's marbled book** (tall, narrow): her restoration ledger. One dated line is written on Saturday, content unseen.
+- **Karis's ledger stub:** "*One supplementary entry removed to the subject's keeping by agreement of the four. Week twenty-one. K.*" The page is in the binder's back pocket, behind her consent and in front of her paragraph.
+- **Karis's cards and the founding stock:**
+  - The founding stock is nine narrow cases against the old wall.
+  - The cards are draper's pasteboard, palm-sized. Shelf mark top left; run top right; clerk across the middle; the house's year at the foot, with her pencil conversion. A corner dot means read, a ring means carded, a ring with a stroke means come back.
+  - The runs are: yearbooks (one per year of the house, numbered from the first); toll books; provisioning accounts; a weather log (nineteen years in one hand); traveller registers.
+  - The clerks' epithets: Long Tails; the Blotter; Small Hand; the third clerk, with crosshatched sevens. The third clerk's years are when the house began keeping an assessor and writing sentences.
+- **The founding entry and its dating.** Yearbook one, first page: "The stones of the house laid on the road, and the roof raised. The gate hung. The first fire lit… the first traveller lodged, a carter with two horses bound east", dated "the first year of the house". The dating chain runs from the yearbooks' own count, through the last weather log's double-dated line on the house being given over to the school, to the archive's oldest accession register (which Prynn checked), to now: about four hundred years. This matches B7 ch15 ("four hundred years, by the archive's own ledger, which I read the entry in"). No date is put on the UNBOUND entry beyond "the third clerk's years". The annotation is only "a later hand".
+- **Karis's schedule result.** She counts six places where a category can live: the refused categories are bound separately at the back of the seventh volume, after the index. The schedule is seven volumes plus taped fascicles. Cael counted five. Both found nothing.
+- **Yorlan's formula,** as Karis rebuilt it from fourteen digested hearings over eleven years in nine districts: "*This tribunal sits under the charter, in public, and on the record. The matter is named in the notice. The parties are named in the notice. The panel will hear the challenge first, and the answer after. The panel will hear what is put to it and no more. The panel will not hear argument for which it has not been shown the ground. The respondent will state his name.*" Also: "The panel notes it"; he never says "I". **Flag for M8:** this is a rehearsal reconstruction; M8 may use it or not.
+- **Coss and Prynn's lending book.** Under the charter procedure he says he could have it brought to him; he refuses. The provost has written him eleven letters on document order. From his window he can see the archive lamp.
+- **Brom's page.** Dated the night after the Ardenmere bout. It contains:
+  - the third exchange counted out, including his read "went to where he was and found the floor";
+  - his own errors;
+  - the fourth exchange in one line ("that's how I won the bout");
+  - Vell's "ATYPICAL MOVEMENT, THIRD EXCHANGE";
+  - the protected line, signed *Brom*.
+
+  It has lived in every coat since.
+- **Lira's slip:** the records line in her pencil, kept behind the Fenmark sheet since week 9, now given to Cael.
+- **The witness-list text** (Thursday; quoted in ch51).
+- **Small details:**
+  - Edran's third: four in four.
+  - Hobb confirms "two b's".
+  - Havel has met Coss once in a regional corridor; he was promoted "in the summer".
+  - The delegation lodges in the guest wing and works in the assessors' room.
+  - The courier came back two days early.

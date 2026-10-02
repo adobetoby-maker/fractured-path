@@ -6,15 +6,15 @@ Cael had come down to the stable on the Sunday morning with his eyes still half 
 
 "Custom," said Brom, in Coss's patient voice.
 
-"Isn't code," said Cael, into the barley.
+"Is not code," said Cael, into the barley.
 
-He heard himself say it. He looked up. Lira, beside him, had his bread in one hand and had stopped tearing it, and Karis, at the fourth bowl, had her cup lifted and was not drinking from it.
+He heard himself say it, and looked up. Lira, beside him, had stopped with her spoon in the air, and Karis, at the fourth bowl, had her cup lifted and was not drinking from it.
 
 "Again," said Karis.
 
 "Custom," said Brom.
 
-"Isn't code." He put the spoon down. "If it were, there'd be no need for a schedule at all. The Compact could point at whatever it's always done and call that the law, and save itself the ink. It doesn't. It writes things down. It's written things into the schedule forty-one times, every time doing something wasn't enough and it needed the words to say so." He was wide awake now, and found that he had not needed to be. "Forty-one amendments. Forty-one times it chose the text over its own habits. Not once did it write my word in. And there's a chair on that panel whose whole work is telling the written code apart from the one people carry round in their heads. If the panel rules on what's always been done, it isn't ruling on the law. It's telling the room it couldn't find any."
+"Is not code." He put the spoon down. "If it were, there'd be no need for a schedule at all. The Compact could point at whatever it's always done and call that the law, and save itself the ink. It doesn't. It writes things down. It's written things into the schedule forty-one times, every time doing something wasn't enough and it needed the words to say so." He was wide awake now, and found that he had not needed to be. "Forty-one amendments. Forty-one times it chose the text over its own habits. Not once did it write my word in. And there's a chair on that panel whose whole work is telling the written code apart from the one people carry round in their heads. If the panel rules on what's always been done, it isn't ruling on the law. It's telling the room it couldn't find any."
 
 Nobody said anything for a moment.
 
@@ -24,7 +24,7 @@ Karis put her cup down without having drunk from it.
 
 He wiped his chin.
 
-They had found the weak place together, the four of them, on the Saturday night after Brom's hole in the world. It was the one place where the whole argument could actually break. If a magistrate wanted to, he could rule that generations of treating the flag as a classification had made it one, whether anybody had written it down or not. Karis had put it to him from behind her bench of books in Yorlan's flat voice, and he had answered it badly, and then less badly, and then well. Then she had made him answer it again, and again, while Lira timed him by the stable clock and Brom sat with his hands folded on the wood like a man who had never once in his life been in a hurry. At some point after the fire went out Karis had said that she would stop when he could say it asleep, and Lira had said that could be arranged.
+He had counted them by candle in his room after the fire went out, with Prynn's concordance card unfolded on the desk, running his finger down the narrow ruled columns twice to be sure. There were forty-one amendments to the schedule, each one a place where the Compact had found its practice and its pages apart and had gone back and written the pages. Then he had gone back down to the stable, where the other three were still up, and given Karis the number. She had put the objection to him again in Yorlan's flat voice, and again, while Lira timed him by the stable clock and Brom sat with his hands folded on the wood like a man who had never once in his life been in a hurry. Somewhere past midnight Karis had said that she would stop when he could say it asleep, and Lira had said that could be arranged.
 
 "So it's in," said Brom, picking up his own spoon. "Past where you have to look for it."
 
@@ -38,7 +38,7 @@ He gave them all of it, from the beginning. The concession first, short and flat
 
 Nobody interrupted him once.
 
-When he stopped, nobody said anything. The fire ticked. Somewhere above them in the residence wing a door shut. He stood with his hands at his sides and found nothing in it that wanted fixing. There was not a joint in it that was not carrying weight, and all four of them could hear that. Hearing it was a strange, light feeling, like setting down a sack he had carried so long that he had stopped knowing it was on his back.
+When he stopped, nobody said anything; the fire ticked, and somewhere above them in the residence wing a door shut. He stood with his hands at his sides and found nothing in it that wanted fixing. There was not a joint in it that was not carrying weight, and all four of them could hear that. Hearing it was a strange, light feeling, like setting down a sack he had carried so long that he had stopped knowing it was on his back.
 
 "Well," said Lira at last.
 
@@ -80,7 +80,7 @@ Cael read it twice, and then he could not read it a third time for a while.
 
 "You wrote this at the Ironyard," he said, when he could.
 
-"The night after. In the boarding house." Brom did not look at him. He looked at the floor. "I'd never had a fight I couldn't account for. I sat up and wrote it down so I'd know I hadn't dreamed it. I was going to show it to you. Then the next day we sat on the floor and you told me about the window that wasn't a window, and we were friends by supper, and I never needed to." He turned his hands over on the rail. "I've had it in the back of my coat ever since. I've moved it to every coat. I never knew what it was for."
+"The night after. In the boarding house." Brom did not look at him. He looked at the floor. "I'd never had a fight I couldn't account for. I sat up and wrote it down so I'd know I hadn't dreamed it. I was going to show it to you. But we'd already sat on the floor that same night, and you'd told me about the window that wasn't a window, and we were friends before the lamps were out, and I never needed to." He turned his hands over on the rail. "I've had it in the back of my coat ever since. I've moved it to every coat. I never knew what it was for."
 
 "It isn't evidence. The panel won't take it."
 
@@ -94,29 +94,13 @@ Cael folded the page along its old creases. He did not put it in the binder. He 
 
 ---
 
-He took the last of the borrowed books down to the archive in the middle of the afternoon.
+He took the last of the borrowed books down to the archive in the middle of the afternoon: the charter's three volumes and the schedule's index from Karis's bench of books, and the fourteen digests with Yorlan's name in the margin. The argument did not need them any more.
 
-There were nine of them, Prynn's volumes that had lived on the long table and at his elbow for three weeks: the enforcement digests, the provision's history in its boxes, the charter's three volumes, the schedule's index. He carried them down the archive passage in two armfuls, and the second armful was heavier than the first, because the charter was in it.
+Prynn was on her high stool with her ledger open. She watched him set the armful down on the end of her desk, and checked each spine against its slip as she had checked the others the day before, and then she did not say anything at all. She only looked toward the back of the room, past the pillar, where the code's case stood by the old wall.
 
-The front of the founding stock was bare. He did not look at it for long. The back was bare too, now, all nine cases, the dust standing in pale oblongs on every shelf, as far back as the old grey wall. He had known it would be. Knowing did not stop it from catching in his throat.
+So he took them back himself. He carried the charter down the long room to the very back, where the case stood floor to ceiling with its fascicles hanging their faded tapes like roots. He found the three gaps where the slips had been, and slid each volume home with its spine in line with its neighbours. Then the index, and the digests to the fourth shelf of the second case. Nobody had told him where any of them lived, and he did not have to look.
 
-Prynn was on her high stool with the marbled book shut beside her and her own ledger open. She watched him come in with the first armful and set it down on the end of her desk, and go back, and come in with the second and set that down too. Then she got off the stool and went through the nine volumes one at a time, checking each spine against the slip she had kept in its place on the shelf. She held each slip up to the spine, and read them both, and said *hm*, and laid the slip on the desk. She did it slowly. He had never once seen her do anything to a book quickly.
-
-At the ninth she put the slip down with the others and squared the pile of slips against the edge of the desk.
-
-"Every one," she said. "In the same state it went out. Two of them in better." She looked at him over her spectacles. "You read the provision's boxes in their order and put them back in their order. Nobody does that."
-
-"You told me to."
-
-"I tell everybody to." She laid her hand on the top volume of the pile, the charter's first. Then, instead of picking it up, she took her hand off it, and turned back to her stool. "You know where they live now. Put them back yourself."
-
-He stood still.
-
-In sixty years, he thought, she had very likely never said that to anybody. Nobody put anything back on Prynn's shelves but Prynn. Readers took books down with a slip in the gap, and Prynn put them back, and that was the archive and always had been. He picked up the charter's first volume, and then the second and third, and carried them down the long room between the cases to the very back. Behind the pillar, by the old wall, the case stood floor to ceiling with its fascicles hanging their faded tapes like roots. He found the three gaps where the slips had been and slid each volume home, spine exactly in line with its neighbours, and stood back and looked at them.
-
-When he came back for the next armful Prynn was writing in her ledger, and did not look up. He thought that her mouth had moved at one corner, and he could not have sworn to it.
-
-He did the rest, the digests to the fourth shelf of the second case, the provision's history to its boxes. When he had finished Karis was at the long table.
+When he had finished Karis was at the long table.
 
 She had come in while he was at the back, and she was sitting at their end of it, the far end, where they had sat across from each other since the week she first asked his leave. She had her notebooks in front of her. Not the satchel, not the long flat box of cards, which was empty now and had nothing left to index. She had the notebooks themselves, the whole of the second one, all its volumes, in a stack, oldest at the bottom and newest at the top, squared at the corners.
 
@@ -124,7 +108,7 @@ He came and sat down across from her.
 
 "I've something for you," said Karis.
 
-She took the top volume off the stack, the newest, the one that had been buttoned inside her coat on Thursday night, and opened it at the back. She did not open it at the copies of the register. She opened it at the very last written page, and turned it round, and slid it across the table to him.
+She took the top volume off the stack, the newest, the one that had been buttoned inside her coat on Thursday night, and opened it at the back. She did not open it at the copies of the register but at the very last written page, and turned it round, and slid it across the table to him.
 
 It was nearly blank. There was a date at the top, today's, in her small closed hand. Under the date there was a heading she had underlined once. And under the heading there were two sentences, and nothing else on the page at all.
 
@@ -138,9 +122,9 @@ He read it twice.
 
 "So you've stopped."
 
-"I've done nothing of the kind." She said it plainly. "I've changed what I'm studying. That's not the same as stopping. It's the opposite of stopping, if anything." She took the volume back, gently, and closed it, and laid it on top of the stack, square. "I wrote it twice. One page is in that book, and the other is in your copy pile, because clause six says you read it first and keep it. I put it in the back of your binder this morning while you were at breakfast being told about custom. I didn't read anything else. I didn't look."
+"I've done nothing of the kind." She said it plainly. "I've changed what I'm studying. That's not the same as stopping. It's the opposite of stopping, if anything." She took the volume back, gently, and closed it, and laid it on top of the stack, square. "I wrote it twice." She took a loose sheet from inside the back cover and laid it on the table in front of him. "One page is in that book. This one is yours, because clause six says you read it first and keep it. Put it with the others. I'd rather not know where that is."
 
-"I know you didn't."
+"I know."
 
 "I wanted you to hear me say it." She looked at the stack of notebooks. "Study continues. I've no intention of stopping. I'd like that understood, so nobody's surprised in a year."
 
@@ -156,9 +140,9 @@ Prynn did not look up from her ledger. But she said, to the page, in her dry exa
 
 The yard was empty when he came up from the archive, and nobody had drawn a ring.
 
-He stood at the corner of the stable in the grey end of the afternoon and looked at the place by the pump where the chalk had been every evening for three weeks. Somebody had swept it. The frozen earth showed the broom's strokes, and nothing else. For a moment he did not know what to do with his hands.
+He stood at the corner of the stable in the grey end of the afternoon and looked at the place by the pump where the chalk had been every evening for three weeks. Somebody had swept it, and the frozen earth showed the broom's strokes and nothing else, and for a moment he did not know what to do with his hands.
 
-Then he saw Lira on the low wall outside the residence wing, sitting with her knees drawn up and her coat round them, where she sat in the evenings when there was nothing to do. She was not looking at him. She was looking at the town.
+Then he saw Lira, up on the wall by the residence wing door, sitting with her knees drawn up and her coat round them, where she sat in the evenings when there was nothing to do. She was not looking at him but at the town.
 
 He went and sat beside her.
 
@@ -168,13 +152,11 @@ He went and sat beside her.
 
 "Not tonight. You've been drilled. Karis has drilled you, and Brom has drilled you, and you've drilled yourself in your sleep, and I've drilled you on that ring every dusk since the Warden came up the hill." She did not turn her head. "If I drill you tonight you'll only be thinking about the drill."
 
-They sat. Below them the town was going blue, and the first lamps were coming on along the good street. The draper's back window was dark yet.
+They sat while the town below them went blue and the first lamps came on along the good street, though the draper's back window was dark yet.
 
-Lira put her hand inside her coat and took out the envelope with the green wax on it. He knew it. She had carried it there since the ninth week, against her chest, with the four paragraphs inside that a man at Fenmark had signed without ever meeting her. She did not open it. She slid a finger under the flap and drew out, from behind the folded sheet, a smaller slip of paper, folded once. It was soft at the edges, as if it had been taken out and put back a good many times.
+Lira put her hand inside her coat and took out the envelope with the green wax on it, which he knew. She had carried it there since the ninth week, against her chest, with the four paragraphs inside that a man at Fenmark had signed without ever meeting her. She did not open it. She slid a finger under the flap and drew out, from behind the folded sheet, a smaller slip of paper, folded once and soft at the edges, as if it had been taken out and put back a good many times.
 
-She held it out to him.
-
-He unfolded it. It was her quick slanting scrawl, in pencil, already rubbed a little grey.
+She held it out to him, and he unfolded it: her quick slanting scrawl, in pencil, already rubbed a little grey.
 
 *The records know what happened here. Nobody gets to say otherwise.*
 
@@ -184,17 +166,17 @@ He unfolded it. It was her quick slanting scrawl, in pencil, already rubbed a li
 
 "I don't need it tomorrow. You do." She put the envelope back in her coat and buttoned the coat over it. "Tomorrow the Compact writes a record with one of us standing up in the middle of it, talking. Not a line about us, written in a room we weren't in. One of us, talking. So you keep that in your pocket. And you make the record say something worth keeping."
 
-He folded the slip and put it in the inside pocket of his coat, against Brom's page. The two of them lay there flat together, and he could feel both edges when he breathed.
+He folded the slip and put it in the inside pocket of his coat, against Brom's page, where the two of them lay flat together and he could feel both edges when he breathed.
 
 Lira slid down off the wall.
 
 "I lied," she said. "One more thing."
 
-She walked out into the middle of the swept yard, where there was no ring, and turned round, and set her feet. It was not a Greyvane stance. It was the one from the yard behind the grain exchange in Ardenmere, weight a little forward and hands low, the first thing she had ever shown him on purpose. He had been a boy who wrote fights down in a notebook then, and she had been a girl with a fist of stolen bread and no school.
+She walked out into the middle of the swept yard, where there was no ring, and turned round, and set her feet. It was not a Greyvane stance but the one from the yard behind the grain exchange in Ardenmere, weight a little forward and hands low, the first thing she had ever shown him on purpose. He had been a boy who wrote fights down in a notebook then, and she had been a girl with a fist of stolen bread and no school.
 
 He went out and matched it.
 
-They did not fight, exactly. There was nobody to throw anything and nobody to count, and the frozen ruts were uneven under his boots where the broom had not reached. They went through the oldest patterns there were, the first-year forms, his evasion framework against her Wind at the speed of somebody walking home. Then a little faster. Then, without either of them saying so, at the speed they had used on the circuit, when there had been a ledger and a crowd and a purse. His feet found the ruts and stopped minding them. On the fourth turn the pivot that had been a hair late all week came exactly on time, and he felt it come, and she saw him feel it.
+They did not fight, exactly. There was nobody to throw anything and nobody to count, and the frozen ruts were uneven under his boots where the broom had not reached. They went through the oldest patterns there were, the first-year forms, his evasion framework against her Wind at the speed of somebody walking home. Then they went a little faster, and then, without either of them saying so, at the speed they had used on the circuit, when there had been a ledger and a crowd and a purse. His feet found the ruts and stopped minding them. On the fourth turn the pivot that had been a hair late all week came exactly on time, and he felt it come, and she saw him feel it.
 
 "There," said Lira, and did not stop.
 
@@ -204,40 +186,41 @@ She came in again, and he turned her, and she went past him and round and came i
 
 "Where, then?"
 
-She stopped. She stood in front of him in the near dark with her hands down, breathing hard, and put two fingers flat on his breastbone, gently, the scoring touch from the circuit, and left them there.
+She stopped and stood in front of him in the near dark with her hands down, breathing hard, and put two fingers flat on his breastbone, gently, the scoring touch from the circuit, and left them there.
 
 "Here," she said. "This is real. Start from that."
 
-He stood with her two fingers on his chest and the cold coming up through his boots, and understood what she meant, and that she was not talking about the argument at all. The argument was finished. She was talking about whatever stood on the floor underneath it.
+He stood with her two fingers on his chest and the cold coming up through his boots, and understood what she meant, and that she was not talking about the argument at all, which was finished, but about whatever stood on the floor underneath it.
 
-She took her hand away.
+She took her hand away and stepped back.
 
-"That's all," said Lira. "That's the whole drill." She wiped her face on her sleeve. "I'll be in the gallery tomorrow, on the bench behind Oona, by the aisle. I'm not allowed to hit anybody. Quenna told me twice, and Gerda told me the clerk can put me out for a cough." She considered it. "If they rule against you, I'll still not hit anybody. I'd like that noted somewhere."
+"That's all," said Lira. "That's the whole drill." She wiped her face on her sleeve. "I'll be in the gallery tomorrow, on the bench behind Oona, by the aisle. I'm not allowed to hit anybody. Quenna told me twice, and Gerda told me the clerk can put me out for a cough." She considered it with her head on one side. "If they rule against you, I'll still not hit anybody. I'd like that noted somewhere."
 
-"Noted," said Cael.
+"I'll write it in the binder," said Cael. "Tonight. In the square hand."
 
 Lira laughed, short and surprised, and then she reached out and knocked her shoulder against his, the old knock, and went in.
+
 ---
 
-He was alone when he got the binder out, at the desk by the narrow window, with the lamp turned low and nothing in the window but his own face against the dark yard.
+The residence wing had gone quiet by the time he sat down with the binder at the desk by the narrow window, the lamp turned low and the glass giving him back only his own face over the dark yard.
 
-Brom's page and Lira's slip were in the coat on the chair, and he knew where they were without touching them. Karis's other copy was in the back pocket of the binder, behind her consent and her paragraph and the page she had cut out of her ledger on the Tuesday. The observation notebook lay shut on the corner of the desk with two lines in a box near the front of it, not for tomorrow. His outline was in his head, past where he would have to look for it.
+Brom's page and Lira's slip were in the coat on the chair, and he knew where they were without touching them. Karis's other copy was in the back pocket of the binder, where he had put it himself an hour ago, behind her consent and her paragraph and the page she had cut out of her ledger on the Tuesday. The observation notebook lay shut on the corner of the desk with two lines in a box near the front of it, not for tomorrow. His outline was in his head, past where he would have to look for it.
 
-Tomorrow a magistrate of the Compact would sit in the assembly room in the lecture wing with two hundred people on the benches and the doors open at the back. Coss would stand up and lay out a case that was clean and fair and would hold, and every word of it would be true. And then Cael would stand up, in front of all of them, and tell a room full of people with the authority to end his place here that their authority had never once reached him.
+Tomorrow a magistrate of the Compact would sit in the assembly room in the lecture wing with two hundred people on the benches and the doors open at the back. Coss would stand up and lay out a case that was clean and fair and would hold, and every word of it would be true. Then it would be his turn to get up in front of all of them and say, to people who held the power to end his place here, that the power had never once had him inside it.
 
-He opened the binder at a clean page and wrote in the hand he kept for the entries that had to last longer than the mood they were written in.
+He found a clean page and wrote in the square hand, the one for entries that had to outlive the evening they were written on.
 
 *Tomorrow I argue that their system never contained me.*
 
-He sat with it a while. Then, because there was one more true thing, and the binder was for true things, he went on.
+He let the line stand alone for a while. Then he went on under it, since there was one more thing that was so, and putting down what was so was the only use the binder had ever had.
 
-*I thought I'd be angry, by now. I'm not. Everything I've read for three weeks says the same thing underneath. The flag, the courier who walked me out of Denvash, the file that followed me here: not one of them ever had a line of the code under it that held me. They did all of it anyway. That's the part I'd have wanted fourteen to hear. Tomorrow I'll say it to the Compact instead.*
+*I thought I'd be angry, by now. I'm not. Everything I've read for three weeks says the same thing underneath. The flag, the courier who walked me out of Denvash, the file that followed me here: not one of them ever had a line of the code under it that held me. They did all of it anyway. That's the part I'd have wanted to hear at fourteen. Tomorrow I'll say it to the Compact instead.*
 
-He read it over. He did not cross anything out.
+He read it over and did not cross anything out.
 
 Under it, smaller, he added the rest of the day, because the binder was for what had happened as well as for what he thought.
 
-*K.: findings to date, the phenomenon is a person. Study continues. B.: a page from the Ironyard, the third exchange, which is in my coat and not in here. L.: this is real, start from that. And she gave me back the records line. P. let me shelve the code myself.*
+*K.: findings to date, the phenomenon is a person. Study continues. B.: a page from the Ironyard, the third exchange, which is in my coat and not in here. L.: this is real, start from that. And she gave me back the records line. She will not hit anybody tomorrow, whatever they rule, and asked for it to be written down. Written.*
 
 He closed the binder, and turned the lamp down until it was nearly out, and sat a moment longer in front of the dark window.
 

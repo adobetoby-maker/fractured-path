@@ -72,7 +72,7 @@ This is the deliberately quiet movement (BOOK_MAP §6): a documents war. Its phy
   - the entry (two copies, in her first and second notebooks; the second carried inside her coat);
   - the founding date (about four hundred years by the house's own count);
   - she has finished the schedule;
-  - she has still never seen the binder's contents, though she put her conclusion copy in its back pocket herself, without looking.
+  - she has never seen the binder. She handed Cael the loose second copy of her conclusion page ("Put it with the others. I'd rather not know where that is."), and he filed it in the back pocket himself (F5).
 - **Lira and Brom:** told of the entry at Friday breakfast and shown the notebook box.
 - **Prynn:** not told of the find. She saw the traveller run go out and wrote one dated line in the marbled restoration ledger, its content unseen. "Whatever's been read can't be unread by a cart."
 - **Ilsev:** queried, returned and referred (P16). She asked Havel nothing.
@@ -296,3 +296,138 @@ Not measured by the tool:
   - Ilsev's referral goes up on Monday's courier.
   - Hesk's reply and the Vell letter.
 - **Pending names in use:** Hobb, Oona, Gerda.
+
+## Repair r1
+
+One consolidated same-author pass on 2026-10-02. It followed REPAIR-BRIEF.md, review-editorial.md (§3, §6, §7) and review-cold.md. The pass worked in reading order, in the seven chapter files only, and only by reading. Every change is a hand-composed before/after string; no script split or joined anything. The pre-repair text stays frozen in `pre-repair/`.
+
+The coordinator's F1–F9 and the restored Prynn line were re-read in context and not redone. One join was smoothed in ch48: the sentence before Prynn's restored line had said the same thing in different words. It now reads "You found your seam in what their code left out. I've lost my shelves to what it put in." The packet line follows unchanged. No git commands were run.
+
+### Metrics before / after (tools/formula_metrics.py, seven chapters)
+
+| Metric | Before | After | Working range |
+|---|---|---|---|
+| Words (wc / tool) | 35,296 / 35,222 | 36,284 / 36,209 | 34,500–36,500 |
+| Sentence mean | 12.07 | **13.07** | 13–15.5 (brief: ~13.0–13.3) |
+| Sentence median | 8 | 9 | (11) |
+| ≤5-word share | 33.6% | 31.0% | up to ~34% |
+| ≥40-word share | 2.7% | **3.6%** | 2.5–4.5% (brief: ~3.5%) |
+| Paragraph median | 21.5 | 22 | up to ~30 |
+| Scene breaks | 34 | 35 | — |
+| Words per scene | 859.1 | **862.1** | 850–1,050 |
+| Flesch RE / FK | 87.8 / 4.01 | 86.8 / 4.40 | FK 3.5–6 |
+
+How the mean was raised:
+- **Joins.** Clipped narration that was one thought was joined, by reading, in the scenes the brief named: ch47 s1–s6, ch48 s2–s6, ch49 s3 and s5, ch50 s1–s2, ch51 s1–s3 and s6–s7, ch52 s1–s2 and the Havel entry and rehearsal 2, ch53 s1's summary paragraph and s4–s5.
+- **Bare beats lengthened.** Some bare stage directions inside speech paragraphs gained a clause of physical detail (Quenna "sat back in her chair, as if she had laid the last stone herself"; Brom "shrugged, a little embarrassed"; Oona "frowned at the board").
+- **Long joins split.** The first pass of joins overshot the ≥40 share (4.6%). About forty of the over-long sentences it had created were split again at natural joints, which settled the share at 3.6%.
+
+**Untouched:**
+- every spoken line;
+- the deposition's rhythm (plain question, one word, the pen stopping, the nine dashes);
+- "Count. Marks. Sign.";
+- Yorlan's formula and "the panel notes it";
+- the box-seven count;
+- the Karis cutaway (ch50 s3–5), except one clarifying passage (see below);
+- ch49 s4 and s6;
+- ch51 s5;
+- the Saturday count and the courier scene in ch52.
+
+### Overlap and probe (final)
+
+- `ed.sh overlap book-03-no-path-given 7` (8-word): **0 unprotected, 12 protected.** The restored Prynn line is now a protected pattern. One run created by the repair ("looked at him for a long moment the", ch47) was recomposed.
+- `skeleton_probe.py` (source ch18–20 against ch47–53): **skeleton 2%, close 12%** (pre-repair: 3%). The first post-repair probe showed two small scenes over 15%, both already over before the repair:
+  - **ch52, Havel's third entry (18%).** "Stated authority two grades too low…" and "He knew that a senior assessor…" were recomposed. The entry's facts are unchanged.
+  - **ch53, the log scene (17%).** The framing narration round the protected log line was recomposed. The log line itself is unchanged.
+
+  On the final probe no scene is over 15%. By chapter: ch47 3%, ch48 1%, ch49 1%, ch50 1%, ch51 4%, ch52 3%, ch53 3%.
+- `ed.sh gates`: reader_standard=0, metadata=0, modern=0 on all seven files.
+
+### The eve-gift choice
+
+**I moved Prynn's beat.** "You know where they live now. Put them back yourself." is now a new short scene at the **end of ch52's Saturday count, after the cart** (Saturday afternoon). There Cael returns the provision's boxes and the enforcement digests to a half-emptied archive, and the line answers her loss directly.
+
+On the eve (ch53) the beat is now a callback without words. Cael brings the charter and the index back from Karis's bench; Prynn only looks toward the code's case, and he shelves them himself without being told.
+
+The eve now carries three gifts, spread through the day: Brom at midday, Karis in the afternoon, Lira at dusk. **Lira's slip stays on the eve; nothing is held for Movement 8.**
+
+### The custom objection, shown
+
+The failed answer is now on the page, at the end of ch52's rehearsal 2 (Saturday night):
+1. Karis, in Yorlan's voice, puts the objection: long and general practice is how most law begins.
+2. Cael answers hot, with the wrong of it ("they've been walking people out of their lives under that word for generations…"). Karis: "The panel will not hear that. The panel is not asked whether a thing is fair. It is asked whether it is written."
+3. His second try, "Custom can be wrong", gets "So can a schedule." He feels the argument go soft under him for the first time in three weeks.
+4. Brom, in his own voice, asks what the code does when practice and pages come apart (Wray's habit of making him say the new thing out loud). Cael finds "It amends."
+5. Karis hands him the concordance card: "Find out. Tonight."
+
+Ch53 s1 now opens from that night instead of summarising it. He counts the card by candle (forty-one), takes the number back down, and is drilled past midnight. Breakfast's "Custom" / "Is not code" and the forty-one answer are unchanged.
+
+### Gesture thinning
+
+- **Bread:** kept in ch47 (it establishes the gesture), ch49 (both halves) and ch52 (Lira's "Good"). In ch48 the two breads became Lira's pushed cup of tea, then Karis's spoon closed into her hand. In ch53 Lira's bread became her spoon in the air. The ch51 heel of bread is a different gesture (feeding Karis at the shelf) and stays.
+- **Karis's hand-over-mouth laugh:** kept once, in ch53 at the conclusion page. Ch50 became a guilty look at the high desk, ch51 a look away at the low lamp, ch52 "laughed at the rafters".
+- **"Lips moved very slightly":** Karis's two were cut (ch47 s6, ch51 s2). Ilsev's stand in ch47 and ch52, and in the protected ch49 s6.
+- **"Noted" as a closer:**
+  - ch51 now reads "It's on the record," said Cael. "Mine.";
+  - ch53 Lira now reads "I'll write it in the binder… In the square hand.", and her not hitting anybody goes into the night's log;
+  - only the ch53 Karis/Prynn exchange ("Noted." / "The archive notes it too.") keeps it, as the brief protects.
+- **The chest sentences:** ch49's is kept. Ch50's became "Hearing it was like a weight being set down on the table between them, and he felt the table take it."
+
+### Cold-reader stumbles
+
+1. **Assessor.** At the gate Coss now says "Assessor Havel… Recording officer now, I see." Coss greets "Assessor Ilsev of the senior evaluation seat". Cael's question to Quenna is "The senior assessor… Ilsev."
+2. **The ch50 dating chain** now reads in three named steps: the yearbooks count the house's years; the weather log's last line gives that year in both reckonings; the accession register counts on to this week.
+3. **The ch51 "it" referent:** the notebook sentence is now named ("He had carried the notebook everywhere…") and placed before the bread.
+4. **The concordance** is a hand-ruled card everywhere. In ch52 it rides folded inside the index's cover and is unfolded on the bench.
+5. **Optional items, both taken:**
+   - the last three sentences of Yorlan's coach portrait were cut;
+   - Hobb's "Same as the sittings." was removed, so he says "Second hour." and then "Say what I saw." Oona's count of four words still holds.
+
+### Changelist by chapter
+
+- **Ch47.**
+  - Joins through s1, the Havel coach block, the gate, the wall and Quenna's room. Bare beats in Quenna's room were lengthened.
+  - The Yorlan portrait was trimmed.
+  - The Assessor fixes.
+  - Karis's lips were cut.
+  - One overlap run was recomposed ("Quenna held his eyes as she held a sitting's record before she signed it…").
+- **Ch48.**
+  - Joins in the clause fight's narration (not the clauses), the dusk drill, the supper and the night.
+  - The bread became tea and a spoon.
+  - The duplicate seam sentence before the restored Prynn line was recomposed.
+- **Ch49.**
+  - Joins in s3's narration around the questions, and in s1 and s5.
+  - Lira's two halves kept.
+  - S4 and s6 untouched.
+- **Ch50.**
+  - Joins in the ring walk and the schedule finish.
+  - The chest sentence varied.
+  - Karis's laugh varied.
+  - The three-step dating sentence added to the cutaway.
+- **Ch51.**
+  - Joins on the board, in the boxes and the archive, in the find's narration, in the decline and in the log.
+  - Hobb's line fixed.
+  - The referent fixed.
+  - Karis's lips cut.
+  - "Noted" and the laugh varied.
+- **Ch52.**
+  - Joins at breakfast and on the bench.
+  - The concordance card fixed.
+  - The laugh varied.
+  - **New Saturday-afternoon Prynn scene** after the cart.
+  - Havel's entry and narration recomposed (probe).
+  - Rehearsal 2 gains the on-page failed answer.
+- **Ch53.**
+  - The s1 summary was rebuilt from the Saturday-night failure and the candle count.
+  - The book return was cut down to a wordless callback.
+  - Joins at Lira's dusk; Lira's "Noted" replaced.
+  - The night log gains Lira's promise.
+  - The log scene's framing was recomposed (probe).
+
+### Unresolved
+
+- The sentence mean sits at **13.07**, inside the brief's 13.0–13.3 band but near its floor. Speech still carries the movement's short sentences by design (≤5-word share 31%).
+- Ch52 is now the longest chapter at 6,576 words. It holds the new Prynn scene and the failed answer.
+- **For M8:**
+  - the "Find out. Tonight." count (forty-one) is now on the page as Saturday night's work;
+  - Prynn's "put them back yourself" now falls on Saturday.

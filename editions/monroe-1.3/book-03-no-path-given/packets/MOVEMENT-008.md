@@ -61,3 +61,15 @@ Midwinter, semester's end. A public record that cannot be made small again; watc
 
 - Oona was told the light was his (existence and newness, not source or mechanism). Keep that
   boundary in any gallery scene.
+
+## Coordinator notes (Movement 7 review, 2026-10-02)
+- **Yorlan's opening is binding, verbatim** (the rehearsal's premise is that it never varies): "*This tribunal sits under the charter, in public, and on the record. The matter is named in the notice. The parties are named in the notice. The panel will hear the challenge first, and the answer after. The panel will hear what is put to it and no more. The panel will not hear argument for which it has not been shown the ground. The respondent will state his name.*" He says "the panel notes it", never "I".
+- **The deposition on Coss's record** (ch49), exactly: registry name and number; "Three"; "The ledger says so"; "That's a classification question"; "I understand that everything may be noted. That's what a record is"; "No" / "The provision lets the candidate elect"; "Four weeks" (week 16 → week 20); "No" / "Because it was the door the provision had, and I wanted to go to school." The recorder's rule: a dash per count; nine dashes after "No". No mechanism, origin or acquisition is on the record; Coss never asked.
+- **Box seven:** fifty-three boxes, four hundred and some volumes; the crosshatched register went out in box seven (nine volumes) on Saturday under Prynn's "Count. Marks. Sign." with a per-box signed line and the officer's entered return "for the duration, under the same seal, to the same keeper". The return of the boxes must match this count exactly — it is the proof of the later gap.
+- **Courier calendar (edition canon):** Ilsev's query down Wednesday evening; return Saturday after the fifth bell; referral up Monday. Cael knows nothing of the query.
+- **In Cael's possession:** Karis's conclusion sheet (he put it in the binder's back pocket; she has never seen the binder); Brom's page ("I won that bout" — the third exchange he couldn't beat); Lira's slip (in his coat — check the M7 r1 report: it may now be held for the Monday morning); Karis's cut-out ledger page. The six places; Edran's four-in-four.
+- **The custom objection** was rehearsed and answered ("Somebody writes the law. Nobody ever mended a hole by pretending to stand on it."); the decline stands — the register's find is NOT used as evidence ("Into the notebook").
+- Prynn's two-beat line is restored exactly in ch48 (protected pattern).
+- Progression vocabulary: report both counts (with and without the legal register); the plan's ~35/10k is not reachable while the system is the code.
+- **Book 4 bible-pass flags (do not resolve here):** B4 ch18's "of the preceding year" in the referral text; B4's "in the second hour of a review" against the three-day courier.
+- **r1 update (M7 repair):** the forty-one amendments are counted Saturday night; Prynn's "put them back yourself" now falls Saturday afternoon; Lira's slip was delivered on the eve (nothing held over). Read STATE_LEDGER "After Movement 7".

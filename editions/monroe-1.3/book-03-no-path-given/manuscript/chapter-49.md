@@ -2,7 +2,7 @@
 
 Lira turned out his pockets at the pump before the first bell, as if he were a boy coming home from the market with something he oughtn't to have.
 
-She did it without asking. She simply put her hand into the right pocket of his coat while he was still blinking the cold water out of his eyes, and came out with a stub of pencil, and held it up between two fingers in front of his face. Then she tried the left, and found a chalk end from the yard and a folded slip of paper that turned out to be a list of the bells, in his own hand, from the first week.
+She did it without asking, simply putting her hand into the right pocket of his coat while he was still blinking the cold water out of his eyes. She came out with a stub of pencil, which she held up between two fingers in front of his face. Then she tried the left, and found a chalk end from the yard and a folded slip of paper that turned out to be a list of the bells, in his own hand, from the first week.
 
 "Empty," she said. "She said empty."
 
@@ -32,7 +32,7 @@ Lira laughed, short and sudden, and the white of it went up between the three of
 
 The small lecture room at the end of the lecture wing had been cleared of its benches, and a long table had been carried in and set across it.
 
-The taxonomy chart still hung on the end wall. Somebody had thought of taking it down and decided it was too much trouble, or had not thought of it at all. It hung where it had hung on his first morning at Greyvane, a tall sheet of stiff paper with every Path the schedule recognized laid out in families, Movement and Hardening and Edge, each name in a neat box, and lines joining the boxes. He had sat on the right-hand bench under it for twenty weeks. Oona had sat beside him under it until the week before last, and had asked the taxonomy master, in the first week, why shattered wasn't on it.
+The taxonomy chart still hung on the end wall. Somebody had thought of taking it down and decided it was too much trouble, or had not thought of it at all. It hung where it had hung on his first morning at Greyvane, a tall sheet of stiff paper with every Path the schedule recognized laid out in families, Movement and Hardening and Edge, each name in a neat box, and lines joining the boxes. He had sat on the right-hand bench under it for twenty weeks. Oona had sat beside him under it until her Kindling, and had asked the taxonomy master, in the first week, why shattered wasn't on it.
 
 It was not on it now.
 
@@ -90,7 +90,7 @@ The question sat on the table between them, small and plain. Cael looked at it t
 
 ---
 
-They went on.
+They went on, at the same pace, as if the hour had a length already fixed and both of them knew it.
 
 Coss walked him through the enrollment and every paper attached to it, and Cael confirmed every signature and every date. He walked him through the training-floor arrangements, the supervised sessions twice a week in section four with the presiding assessor at the chalk, and Cael said yes, and yes, and twice a week, and gave nothing else.
 
@@ -114,9 +114,9 @@ Coss walked him through the enrollment and every paper attached to it, and Cael 
 
 "The ledger says so."
 
-Behind him, against the wall, Cael heard Quenna not move. It was a particular kind of not moving, and he had heard it in the hall after every sitting. He did not turn round.
+Behind him, against the wall, Cael heard Quenna not move, a particular kind of not moving that he had heard in the hall after every sitting, and he did not turn round.
 
-Coss took a single sheet from the case and held it up so that the light from the window fell on it, though he did not look at it as he read. He had it by heart. Cael knew he had.
+Coss took a single sheet from the case and held it up so that the light from the window fell on it, though he did not look at it as he read, because he had it by heart, and Cael knew he had.
 
 "The instructor's seat at your first sitting," said Coss. "*Unorthodox architecture. Consistent execution. No safety concerns.*" He laid the sheet down. "What is the architecture? In your words."
 
@@ -124,17 +124,17 @@ Coss took a single sheet from the case and held it up so that the light from the
 
 "It's a question of fact."
 
-"It's a question of fact that needs a classification word to answer it," said Cael. His voice was level. He listened to it from a little way off and found that it was level, and was glad. "The registry never gave me one. If I make one up in this room, the record will hold my made-up word as if it were what I am. The instructor wrote what she saw, in her own words. Those are the facts. They're in the record already."
+"It's a question of fact that needs a classification word to answer it," said Cael. He listened to his own voice from a little way off, and found that it was level, and was glad. "The registry never gave me one. If I make one up in this room, the record will hold my made-up word as if it were what I am. The instructor wrote what she saw, in her own words. Those are the facts. They're in the record already."
 
 The recording officer's pen moved and stopped and waited.
 
-Coss held his eyes across the table, and there was no impatience in it anywhere. There was something at the corner of his mouth for less than a breath. It was the look of a craftsman who has been shown a joint cut well on the far side of the bench, by somebody he had not expected to be able to cut it.
+Coss held his eyes across the table, and there was no impatience in it anywhere, only something at the corner of his mouth for less than a breath. It was the look of a craftsman who has been shown a joint cut well on the far side of the bench, by somebody he had not expected to be able to cut it.
 
 "You understand," said Coss, "that a refusal to describe your own capabilities can be noted as well."
 
 "I understand that everything may be noted. That's what a record is."
 
-The pen at the end of the table moved, quick and small. Then it stopped, and Cael heard it stop, and heard in the stopping that the recording officer had looked up. He did not look round to see.
+The pen at the end of the table moved, quick and small. Then it stopped, and Cael heard it stop, and heard in the stopping that the recording officer had looked up, and did not look round to see.
 
 Coss turned another page.
 
@@ -150,11 +150,11 @@ Coss turned another page.
 
 "Because I hadn't elected to show it," said Cael. "The provision lets the candidate elect."
 
-Coss did not write anything. He looked at him.
+Coss did not write anything, but only looked at him.
 
 "You had possessed it for some time," he said.
 
-It was not a question. He had not put a question at the end of it. Cael sat with his hands in his lap and looked back at him, and waited, and said nothing at all. The window was bright behind Coss's shoulder. Somewhere in the lecture wing a door shut. The silence went on long enough that Cael could hear the sand running in the little brass glass, a sound like a breath let out very slowly through the teeth.
+It was not a question. He had not put a question at the end of it. Cael sat with his hands in his lap and looked back at him, and waited, and said nothing at all. The window was bright behind Coss's shoulder, and somewhere in the lecture wing a door shut, and the silence went on long enough that Cael could hear the sand running in the little brass glass, a sound like a breath let out very slowly through the teeth.
 
 "Had you possessed it for some time?" said Coss.
 
@@ -162,7 +162,7 @@ It was not a question. He had not put a question at the end of it. Cael sat with
 
 "Thank you."
 
-And that was all. Coss wrote one line, and turned the page, and Cael sat very still and understood what had just not happened. There had been a question lying on the table beside that one, wider than the table, the one anybody in the world would have asked next. *Where did it come from?* The man across from him had looked straight at it, and had not picked it up. He had not picked it up because it was not his case. The provision asked what a candidate could do and nothing else, and the challenge was about the provision, and Coss did not reach outside his case for anything. Not even for that.
+And that was all. Coss wrote one line, and turned the page, and Cael sat very still and understood what had just not happened. There had been a question lying on the table beside that one, wider than the table, the one anybody in the world would have asked next. *Where did it come from?* The man across from him had looked straight at it and had not picked it up, because it was not his case. The provision asked what a candidate could do and nothing else, and the challenge was about the provision, and Coss did not reach outside his case for anything. Not even for that.
 
 Cael had known it. He had told Lira on the frozen ring before the sixth sitting that nobody would ask, because the provision didn't. He had not known until this moment that he had been afraid he was wrong.
 
@@ -212,13 +212,13 @@ Quenna stopped walking.
 
 He stopped too, because she had, and turned, and she was looking at him with an expression he had never seen on her face in twenty weeks: not the blank of the record, nor the lower voice she kept for things she did not want written, nor fear. It looked very nearly like a person who had placed a bet a long time ago and had just been shown, at an awkward moment, how much she had won.
 
-"Yes," she said. "You are." She seemed about to say something else. She did not. "You didn't reach. Not once. Not even for the one that was lying next to the ignition, and I'd have reached for that myself, at your age, to get it out of the way." She began to walk again. "Go and eat something. And give Lira back her chalk. She'll have been carrying it about all morning so as to have an excuse to find you."
+"Yes," she said. "You are." She seemed about to say something else, and did not. "You didn't reach. Not once. Not even for the one that was lying next to the ignition, and I'd have reached for that myself, at your age, to get it out of the way." She began to walk again. "Go and eat something. And give Lira back her chalk. She'll have been carrying it about all morning so as to have an excuse to find you."
 
 Lira was at the scarred table when he came in, with her boots up on the bench and a pencil and a chalk end and a folded slip of paper lined up on the wood in front of her in a neat row, like a fence. She did not take her boots down.
 
 "Well?" she said.
 
-He sat. He picked up the pencil and put it in his right pocket and the chalk in his left, and the slip in his coat, and Lira watched him do it as if it were a ritual she had invented and was checking he had learned properly. Brom came from the hatch with his barley and sat down across from them, and a moment after him Karis came in from the archive passage, dust on her cuffs, and took the fourth bowl and did not eat from it.
+He sat and picked up the pencil and put it in his right pocket, and the chalk in his left, and the slip in his coat. Lira watched him do it as if it were a ritual she had invented and was checking he had learned properly. Brom came from the hatch with his barley and sat down across from them, and a moment after him Karis came in from the archive passage, dust on her cuffs, and took the fourth bowl and did not eat from it.
 
 "I said less than Hobb," said Cael.
 
@@ -228,7 +228,7 @@ He sat. He picked up the pencil and put it in his right pocket and the chalk in 
 
 Brom put his spoon down. "Which word?"
 
-So he told them. He told them the formalities, and the name as the registry held it, and the three readings of the category line, which made Lira close her eyes for a moment. He told them *a classification question*, and *that's what a record is*, and the ignition, and four weeks, and the question nobody asked. Then he told them how Coss had laid his pen down square and leaned back the width of a finger, and what he had asked, and what Cael had said.
+So he told them the formalities, and the name as the registry held it, and the three readings of the category line, which made Lira close her eyes for a moment. He gave them *a classification question*, and *that's what a record is*, and the ignition, and four weeks, and the question nobody asked. Then he told them how Coss had laid his pen down square and leaned back the width of a finger, and what he had asked, and what Cael had said.
 
 Nobody spoke for a moment.
 
@@ -244,9 +244,9 @@ Nobody spoke for a moment.
 
 "That it was the door the provision had, and I wanted to go to school."
 
-Lira did not say anything. She tore his bread in half, and looked at the halves, and gave him both.
+Lira did not say anything, but tore his bread in half, and looked at the halves, and gave him both.
 
-Karis had not touched her bowl. She sat with her two hands flat on either side of it, the way she sat when a timing had come out exactly where she had predicted and she did not trust it.
+Karis had not touched her bowl, but sat with her two hands on either side of it, the way she sat when a timing had come out exactly where she had predicted and she did not trust it.
 
 "He'll read that into the record on Monday," she said. "In the first sitting. In his own voice."
 
@@ -256,7 +256,7 @@ Karis had not touched her bowl. She sat with her two hands flat on either side o
 
 "It was his already. It's true. Everybody at the intake table knew, and Quenna will say so on the stand, because she won't lie on one." He turned the bread over. "On Monday I'm going to concede the whole enrollment before anybody asks me. If I'd shaded that one answer on Wednesday, he could stand up on Monday and say I'd shaded it. Then everything I conceded after would sound like a boy who'd been caught."
 
-Karis sat very still. Then something in her face settled, the way it settled when a reading she had distrusted turned out, on the second pass, to be sound.
+Karis sat very still, and then something in her face settled, the way it settled when a reading she had distrusted turned out, on the second pass, to be sound.
 
 "So you gave him the stone," she said slowly, "so that when you give him the wall, nobody can say you were hiding a brick."
 
@@ -280,7 +280,7 @@ On the roll, in his own short hand, there was the question, which he had taken d
 
 He had never before made nine dashes after a single word.
 
-He sat and looked at them. Four years of compliance visits, and one season of recording to panels since the grade, and he had watched a great many people asked a great many questions. He had watched them answer that kind of question, the kind the whole hour had been built to carry, in every way there was. They justified. They qualified, or they wept, or they went angry and said too much, or they said nothing for so long that the silence answered for them. He had never once, in all that time, seen anybody simply answer it.
+He sat and looked at them. Five years of compliance visits, and one season of recording to panels since the grade, and he had watched a great many people asked a great many questions. He had watched them answer that kind of question, the kind the whole hour had been built to carry, in every way there was. They justified. They qualified, or they wept, or they went angry and said too much, or they said nothing for so long that the silence answered for them. He had never once, in all that time, seen anybody simply answer it.
 
 He wrote *No* into the fair copy, in his best clerk's hand. Then he copied the nine dashes too, exactly, because the rule was the rule.
 
@@ -298,7 +298,7 @@ Ilsev was reading one line of it. Her lips moved, very slightly. Then she read i
 
 Havel bent to his copy and did not write anything.
 
-He watched her, without seeming to, as he had been watching people without seeming to for four years. She put a finger on the routing sheet and held it there and reached with her other hand for the request itself, and turned to its first page. She looked at its header, where a request stated the authority it was made under. Then she looked back at the routing line. Then she untied the third stack, which was the subject's own file, and turned to the very first sheet of it, the one with the opening date on it, and looked at something there for a long time.
+He watched her, without seeming to, as he had been watching people without seeming to for five years. She put a finger on the routing sheet and held it there and reached with her other hand for the request itself, and turned to its first page. She looked at its header, where a request stated the authority it was made under. Then she looked back at the routing line. Then she untied the third stack, which was the subject's own file, and turned to the very first sheet of it, the one with the opening date on it, and looked at something there for a long time.
 
 Then she sat back, and folded her hands, and looked at nothing.
 
