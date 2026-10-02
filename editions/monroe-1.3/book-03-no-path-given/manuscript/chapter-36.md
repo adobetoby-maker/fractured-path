@@ -10,7 +10,7 @@ And beside them lay the fifth space that was not a space. He had spent three wee
 
 He did not reach for it.
 
-He had decided in the night, somewhere between the archive and sleep, to obey Karis and Lira both, as completely as he had ever obeyed one of Vell's rules. Once his feet touched the boards, the experiment was over before it began. What was left was a match, against the best-trained fighter he had ever faced, and by every honest reckoning he was going to lose it. His whole job was to make losing it cost her as much as he could.
+He had decided in the night, somewhere between the archive and sleep, to obey Karis and Lira both, as completely as he had ever obeyed one of Vell's rules. Once his feet touched the boards, the experiment was over before it began. After that there was only a match to fight, and he would most likely lose it, because Karis was the best-trained fighter he had ever faced. His whole job was to make that loss cost her as much as he could.
 
 He put his feet on the floor.
 
@@ -32,11 +32,11 @@ He spent the morning in the archive, because he could not think of anywhere else
 
 At the fourth bell he went up to his room and wrapped his forearms in guard-cloth, both arms, wrist to elbow, wound firm and tied off with his teeth as he had done it a hundred times in Ardenmere. He flexed the hands. He put the binder in his coat and took it out again, because a binder was no use in a ring. He held it for a moment, and then went down the corridor and knocked on Lira's door and gave it to her. She took it without a word and put it inside her own coat, against her ribs, on the side where she kept Fenmark's four paragraphs.
 
-They walked to the formal yard at the fifth bell, the three of them, and it took four minutes, Lira on his left saying nothing and Brom on his right saying nothing. At the gate from the main hall, where the noise of the crowd came through the old timber like surf on a shingle beach, Lira stopped.
+They walked to the formal yard at the fifth bell, the three of them, and it took four minutes, Lira on his left saying nothing and Brom on his right saying nothing. The crowd's noise was coming through the old timber of the gate from the main hall like surf on a shingle beach, and there, with her hand on the latch, Lira stopped.
 
 "Feet first," she said. "Everything else second."
 
-Brom considered the gate, and then Cael, and then the gate again.
+Brom looked from the gate to Cael and back to the gate.
 
 "She's proud of the geometry," he said. "Be somewhere the geometry isn't finished."
 
@@ -82,7 +82,7 @@ She lowered it.
 
 Karis did not give ground.
 
-That was the first thing six weeks had not prepared him for, and he knew it in the first step. Against Edran she had gone backward for two exchanges, dropping coins, and against Hobb for three; now she came forward, straight off her mark at an angle to his left, laying points as she came. There was no opening survey and no polite first exchange spent measuring. She came out of her mark already in the middle of her argument.
+That was the first thing six weeks had not prepared him for, and he knew it in the first step. Against Edran she had gone backward for two exchanges, dropping coins, and against Hobb for three; now she came forward, straight off her mark at an angle to his left, laying points as she came. There was no opening survey and no polite first exchange spent measuring. Her argument had begun before she left her mark, and she simply went on making it.
 
 The first point bloomed on the earth a pace to his right, where the framework would have sent him, and the second went down a pace behind his left heel. He saw them both. He saw her off hand go still before each, and he saw in the same instant that the stillness was not a quarter of a second. It was a tenth: the same tell, in the same place, cut down to almost nothing.
 
@@ -90,9 +90,9 @@ The first point bloomed on the earth a pace to his right, where the framework wo
 
 He moved. The framework took him forward and left, the one way her two coins had left open. As he went a third bloomed in front of him where he had been going to put his foot, so that he changed in the air and came down short, and a fourth went down beside the third. She was not laying them behind her. She was laying them round him, ahead of him, in the places his own feet would want next, as fast as the framework could offer him somewhere to go.
 
-He saw every one, and that was the worst of it. He named them as they came, *point, point, point*, and the naming was clean and true and no use at all. To see a promise made was one coin, and to be quick enough to stop it being kept was another, and she was spending faster than he could answer. Every slip he took cost him a choice, every choice cost him a half-beat, and every half-beat she spent on another point, so that the floor got smaller round him a coin at a time, like Lira's ring filling with chalk.
+He saw every one, and that was the worst of it. He named them as they came, *point, point, point*, and the naming was clean and true and no use at all. To see a promise made was one coin, and to be quick enough to stop it being kept was another, and she was paying out faster than he could reply. Every slip he took cost him a choice, every choice cost him a half-beat, and every half-beat she spent on another point, so that the floor got smaller round him a coin at a time, like Lira's ring filling with chalk.
 
-He spent the framework hard to stay ahead of it, faster than he had ever spent it against anyone, slip and turn and slip, and each one worked, and each one bought a little less than the last.
+He spent the framework hard to stay ahead of it, harder than he had ever had to spend it against anyone, slip and turn and slip, and each one worked, and each one bought a little less than the last.
 
 The first channel lit behind his heel.
 
@@ -148,7 +148,7 @@ A channel ran across the ring from one far point to another, seven paces long, s
 
 He was being herded, and he could see where. She was walking him toward the east chalk, into a corner made of three long channels and two short ones, and once he was in it the halt would be called as it had been called the first time.
 
-Between him and her, two paces off, a short channel ran between two near points. It was the shortest line on the floor, barely the length of his own reach, and the one her drawing least expected anybody to challenge, because nobody in his right mind crossed fire to stand closer to the person who was making it.
+Between him and her, two paces off, a short channel ran between two near points. It was the shortest line on the floor, barely the length of his own reach, and the one her drawing least expected anybody to challenge, because no one in his right mind walks through fire to get nearer the person lighting it.
 
 He woke the fragment.
 
@@ -192,23 +192,23 @@ She had walked back to the north mark and turned, and she was holding her points
 
 It was effort. Plain, total effort, with nothing kept back anywhere. She was breathing hard, with colour high on her cheekbones from the cold and the work. Her off hand at her side was very slightly unsteady, and she had seen it and had not hidden it, because hiding it would have cost her attention she was not willing to spend on anything but him. She was trying with everything she had, all of it, in front of three chairs and three hundred people. He understood, standing at the south chalk with his arm beating, that in six weeks he had never once seen Karis try with everything she had, and that nobody at Greyvane had, and perhaps nobody anywhere since a paired floor at Ternhall.
 
-In her head she was drawing him over again from the start, as he was drawing her in his. It was two notebooks fighting, at the speed of hands.
+In her head she was drawing him over again from the start, as he was drawing her in his. It was two notebooks at war, going as fast as hands could go.
 
-At the rail, Lira had both hands flat on the wood and her face had not changed at all, which was how he knew how bad it was. Wray was writing steadily. The heat-Paths instructor had stopped writing entirely and sat with his pen lifted, watching Karis's hands.
+Lira, at the rail, was keeping her face perfectly still, and the stillness told him exactly how bad it was. Wray was writing steadily. The heat-Paths instructor had stopped writing entirely and sat with his pen lifted, watching Karis's hands.
 
 Wray raised her finger for the third.
 
 She came to finish it.
 
-It was beautiful, if you were in a position to see it as a whole, and he was not. He was inside it.
+Seen whole, from the benches, it must have been beautiful. He could not see it whole. He was inside it.
 
 He made her pay for the early ground. It was the only coin he had left, and he paid it out honestly. The read gave him her near points half a breath early, and Lira's arithmetic moved his feet, *pick faster, the correctness comes later*. Three times in the first part of the exchange the floor closed round him in a way that should have been the end, and three times he was already gone before it closed. He did not choose any of the three. He went, and trusted the floor to have been read already, and it had. For a quarter of the exchange, perhaps, he stood only where her geometry had not yet been finished, exactly as Brom had said, never in one place long enough to be drawn.
 
-The yard had gone silent. It was the deep silence he knew from the circuit, the silence of a crowd that has forgotten it is a crowd, three hundred people breathing quietly round a single moving problem. He could hear the channels singing, and his own breath, and somewhere on the front bench Oona's slate creaking under her pressed hands.
+The yard had gone silent. He knew that silence from the circuit: three hundred people who had forgotten they were a crowd, breathing quietly round a single moving problem. He could hear the channels singing, and his own breath, and somewhere on the front bench Oona's slate creaking under her pressed hands.
 
-But the framework was answering slower with every call, every slip coming a hair later than the one before it, and Karis did with that what she did with any reading that would not hold still. She corrected for it. She stopped laying where he was and began laying where his lateness would put him.
+But every call on the framework came back slower, each slip a hair later than the last, and Karis treated that as she treated any reading that would not hold still. She corrected for it. Her points no longer went down where he stood; they went down where his lateness was about to carry him.
 
-The points came in pairs now, two at a time, faster than the read could price them. A pair went down at his left and joined as they landed, and the channel between them walled off the whole left side of the ring: one line, short, low and bright, that he could have crossed in a step. He could not afford to cross it. His arm knew it before his head did. She had seen him cross once and seen what it cost him, and she laid that wall on his left because she knew he would not pay twice.
+Now she laid in pairs, and the pairs came faster than the read could price them. A pair went down at his left and joined as they landed, and the channel between them walled off the whole left side of the ring: one line, short, low and bright, that he could have crossed in a step. He could not afford to cross it. His arm knew it before his head did. She had seen him cross once and seen what it cost him, and she laid that wall on his left because she knew he would not pay twice.
 
 She folded his right with two more pairs.
 
@@ -220,25 +220,25 @@ He knew it the instant he landed. The channel ahead of him had been laid to be e
 
 He was inside her lattice.
 
-He knew it as he had known the south chalk at his heels in the first exchange. The wall of fire on his left was closing round toward his back. Ahead of him, a pace off, the fourth channel of the true assembly was forming, the one that would shut the last gap. He could feel its first point already lit on the far side, and its second about to bloom on the earth a pace in front of his right foot, the air leaning there, heavy, sure, half a breath ahead of the light. When that point bloomed the fourth channel would join to it, and the whole assembly would light round him at once with a sound like a drawn breath. There would be nowhere he could stand, and she would not need to touch him, and Wray would say *halt*.
+He knew it as he had known the south chalk at his heels in the first exchange. The wall of fire on his left was closing round toward his back. Ahead of him, a pace off, the fourth channel of the true assembly was forming, the one that would shut the last gap. He could feel its first point already lit on the far side, and its second about to bloom on the earth a pace in front of his right foot, the air leaning there, heavy, sure, half a breath ahead of the light. When that point bloomed the fourth channel would join to it, and the whole assembly would light round him in a single instant, with a sound like an indrawn breath. There would be nowhere he could stand, and she would not need to touch him, and Wray would say *halt*.
 
 He counted the points standing on the earth round him. Sixteen.
 
 He had nowhere left to go that did not cost him something he could not pay twice. Out of angles. The fight he had come in to fight was over, and he had lost it, and he was standing in the last half-breath of it with his arm beating and nothing left to spend.
 
-Time did what it does in the deepest part of a fight. It went wide and slow. Every fraction of a second was suddenly a room he could stand up in and look round.
+Time did what it does in the deepest part of a fight. It went wide and slow, and each fraction of a second was suddenly a room he could stand up in and look round.
 
-He had spent six weeks learning her. Not writing her down, though he had done that too, on more pages than he could count. Learning her, as he learned everybody, as he had learned Lira in a cold yard in Ardenmere before he knew he was learning anything. He knew the shape of her points and the rhythm of her joins and the exact gap between one commitment and the next. He knew the stillness in her off hand, and he could feel it now, through the read, gathering a tenth of a second ahead of the fourth channel's last point. He knew her as he knew his own handwriting. Until this half-breath he had never once had cause to reach for it.
+Six weeks he had spent learning her. Not writing her down, though he had done that too, on more pages than he could count. Learning her, as he learned everybody, as he had learned Lira in a cold yard in Ardenmere before he knew he was learning anything. He knew the shape of her points and the rhythm of her joins and the exact gap between one commitment and the next. He knew the stillness in her off hand, and he could feel it now, through the read, gathering a tenth of a second ahead of the fourth channel's last point. His own handwriting was not more familiar to him. Until this half-breath he had never once had cause to reach for it.
 
 So he stopped running.
 
-It was not a decision the way decisions usually came to him, weighed and turned over and written down afterward in the square hand. He was awake for it. That was the difference, the whole difference, as being awake is the whole difference between falling and diving. Something in him that had stood in the quiet room twenty-two times, reaching and watching itself reach, was not watching anything now. There was nothing left over to watch with. There was only Karis, trying with everything she had, and a point about to bloom a pace in front of his foot, and him.
+Most of his decisions were weighed first and turned over and only then set down in the square hand, afterward. This one was not like those. He was awake for it. That was the difference, the whole difference, as being awake is the whole difference between falling and diving. Something in him that had stood in the quiet room twenty-two times, reaching and watching itself reach, was not watching anything now. There was nothing left over to watch with. There was only Karis, trying with everything she had, and a point about to bloom a pace in front of his foot, and him.
 
 He reached for it.
 
 Not with his hand. He reached into the shape of what she was making, into the point gathering on the earth in front of him as all her points gathered, small and controlled and certain and entirely hers, and he took hold of it.
 
-He would spend pages afterward trying to say what it was like, and never get it right. It was not like taking. It was not like borrowing, or catching, or any of the words he had tried on since the first notice came. It was more like the gap between knowing a word on a page and hearing it come out of your own mouth. Six weeks of her, lying in him as watching, turned over all at once into something with weight in it, something he could grip. And for one instant, along that grip, something ran between the two of them the wrong way round, the way no fight had ever run, from her to him. Through it came heat, and order, and the exact patient discipline of a girl who laid fires as a jeweller sets stones. It came torn at the edges, because he had no idea how to take a thing cleanly, and partial, and rough, and his.
+He would spend pages afterward trying to say what it was like, and never get it right. It was not like taking. It was not like borrowing, or catching, or any of the words he had tried on since the first notice came. It was more like the gap between knowing a word on a page and hearing it come out of your own mouth. Six weeks of her, lying in him as watching, turned over all at once into something with weight in it, something he could grip. And for one instant, along that grip, something ran between the two of them the wrong way round, the way no fight had ever run, from her to him. Through it came heat, and order, and the exact patient discipline of a girl who laid fires as a jeweller sets stones. It came ragged at the edges, because he had no notion how to take a thing cleanly, and partial, and rough, and his.
 
 The point in front of his foot was a half-breath from blooming. The air there leaned on his skin.
 
@@ -256,33 +256,33 @@ He felt it happen round him. The channels that had been about to light did not l
 
 Karis stopped.
 
-Her fourth channel lay ruined round her feet, her off hand still lifted a little at her side, and Cael, kneeling on the earth with his palm over a crooked coin of light, watched her understand what had just happened to her. She understood it a long moment before anybody else in the yard did. He watched it arrive in her face in stages, each one plain to him, because he had spent six weeks learning to read that face. First the fighter, at a lattice broken from inside by nothing she had prepared for. Then the researcher, quick as a struck light, running through every other explanation there could be and throwing each one away. And then the third thing, the thing under both of them, coming up through her face like heat coming up through a channel.
+Her fourth channel lay ruined round her feet, her off hand still lifted a little at her side, and Cael, kneeling on the earth with his palm over a crooked coin of light, watched her understand what had just happened to her. She understood it a long moment before anybody else in the yard did. He watched it arrive in her face in stages, each one plain to him, because six weeks had taught him to read that face. First the fighter, at a lattice broken from inside by nothing she had prepared for. Then the researcher, quick as a struck light, running through every other explanation there could be and throwing each one away. And then the third thing, the thing under both of them, coming up through her face like heat coming up through a channel.
 
 She began to laugh.
 
 It was not her careful laugh, the small contained amusement she gave to Brom's barley and Lira's theories. She stood in the middle of the ring with one hand braced on her knee, flushed and breathless, and laughed with her whole body. It was how a person laughs when the thing she has wanted all her life to be true turns out to be true, there, a few paces off, with frost on it. She laughed in front of a faculty panel and three hundred people and did not care about either, for the first time in all the time he had known her.
 
-The yard did not know what it was watching.
+Hardly anyone in the yard understood what they had just seen.
 
-Cael saw that through the ringing in his own head. Most of them had seen a lattice fall apart, and the girl who had built it start laughing, and the observer on one knee on the ground, and only a few had seen more. At the near corner of the rail Edran had gone white and still; his sums had failed him twice now in one term, and it showed. At the north end the heat-Paths instructor had stood up out of his chair without seeming to know he had done it, his slate hanging from one hand. Lira had both hands locked on the rail. Brom had not moved at all, but Brom's stillness came in grades, and this was the deepest one Cael had ever seen.
+Cael saw that through the ringing in his own head. Most of them had seen a lattice fall apart, and the girl who had built it start laughing, and the observer on one knee on the ground, and only a few had seen more. At the near corner of the rail Edran had gone white and still; his sums had failed him twice now in one term, and it showed. At the north end the heat-Paths instructor had stood up out of his chair without seeming to know he had done it, his slate hanging from one hand. Lira was gripping the rail with both hands. Brom had not moved at all. There were grades to Brom's stillness, and Cael had never seen this one, the deepest of them.
 
 Quenna was already on her feet and coming round the little table toward the ring, her face working at three things at once: the rules, the arithmetic, and under both something held so still it might have been fright.
 
 "Match halted," she said. Her voice carried to the back of the wall. "Interruption. Called a draw."
 
-Nobody in the yard seemed to care about the ruling at all.
+The ruling went out over the yard, and as far as Cael could tell, not one person cared.
 
 ---
 
-His hands were shaking by the time it came.
+The little fire under his right palm went out by itself while he was still looking at it.
 
-He was sitting on the earth now, and did not remember sitting. His left arm was beating in long slow pulses. The yard's noise went over and past him as if it belonged to some other afternoon. The panel was talking low and fast at the chairs, Wray's pen was scratching, and the benches were climbing toward a roar and being ordered down by somebody official. The crooked coin of light under his right hand had gone out on its own.
+He found that he was sitting, though he could not have said when his knee had given up the ground and let the rest of him down onto it, but the frozen earth of the formal yard was under him now, and his left arm lay across his lap, throbbing in long slow beats like a second heart. Noise went over him. Somebody official was ordering the benches down and the benches were not listening, and at the little table the panel had their heads together, low and quick, while Wray's pen went on scratching. All of it seemed to belong to an afternoon a long way off. His hands had begun to shake, and he let them.
 
-Then, behind his breastbone, the settling began.
+Then, behind his breastbone, something began to settle.
 
-Four times before in his life this had happened to him, and every time he had taken it for something that simply happened near him, as rain happens near a field. He felt it now, a space that had been empty filling, quietly and completely, as a held breath fills a chest, and this time he was awake for every part of it.
+He knew the feeling, because he had felt it four times, and four times he had mistaken it for a thing that happened beside him, the way frost happens to a window. This time he was there for all of it. A place in him that had stood empty took on weight, slowly at first and then all the way to the brim, like a cup filled by a careful hand, and he did not look away from any part of it.
 
-The words came as they always came, in flat plain lines that no one else in the yard could see, and he read them as they arrived.
+The lines came after, plain and flat, visible to nobody in the yard but him. He read them as they came.
 
 ```
 FRAGMENT ACQUIRED
@@ -294,34 +294,36 @@ Acquisition: directed.
 
 *Acquisition: directed.*
 
-He read it four times, sitting on the frozen earth with the panel still talking behind him. Four fragments in his life, and not one of their notices had ever carried that line, and he had not known until this moment that it existed. Every notice he had ever received had stopped at the note. This one had a fifth line under the note, in the same flat voice as the rest, as if the field had always been there. Wherever the notices were kept, it seemed, a column had been ruled for this from the start. It had stood blank through Lira, and Feryn, and Brom, and Reydan, because nothing he had done had ever been the kind of thing that went in it.
+Four times he read that last line, and four times it said the same thing. He had never seen it. Four fragments had come to him, and a notice with each, and every one of them had ended at the note, so that he had never once suspected there was room under it for anything more. Yet here it stood, in the same voice as the rest, as though it had always had its place. Wherever the notices were kept, that line had been ruled from the beginning. It had waited through Lira, through Feryn, through Brom and Reydan, empty each time, because nothing he had done had ever belonged in it.
 
-It was not a name for the fragment. It was a name for what he had done.
+The line did not name the fragment. It named what he had done.
 
-He read it again, a fifth time; four had not been enough. Whatever he was, it had never been weather. It had never once been weather. Every fragment before this one had come on a timetable he had mistaken for the sky, because he had never in his life tried to take hold of the handle. Every record that had ever been kept on him had got him wrong except this one, which had had a line for the difference all along and had left it blank through four notices, and today the line was not blank.
+Four readings had not been enough, so he gave it a fifth. It had never been weather, then. Not once. He had sat under every fragment as if it dropped out of a sky, when the truth was that in all that time he had never put out his hand for the handle. Every record anyone had kept on him had got him wrong except this one, which had kept a space for exactly that difference and left it standing blank through four notices, and today the line was not blank.
 
-He had a handle.
+There was a handle, and his hand had found it.
 
-Karis dropped down onto the earth beside him, still breathing hard, still lit up with the charged, trembling stillness of somebody whose whole life's question had just answered itself in front of a panel. Her left hand, the one she laid with, was shaking very slightly in her lap, and the tips of the fingers had gone grey with the cold of sixteen held points, and she did not seem to know.
+Somebody came down onto the earth beside him with a thump.
 
-Neither of them said anything for a moment. There did not seem to be a sentence made for it.
+Karis was still breathing hard. She looked like a person who had just watched the question she had built her life on answer itself in front of a faculty panel, and who had not yet decided what to do with her face. Her left hand, the one she laid with, rested in her lap and trembled a little. Its fingertips had gone grey from holding sixteen points at speed, and he did not think she knew.
 
-"It came," Cael said at last. His voice did not sound like his. "There's a notice. It has a line I've never had before." He looked at her. It was hers as much as his; it had been hers before it was anything. "*Acquisition: directed.*"
+For a while neither of them spoke. Nobody had ever made a sentence for this.
 
-Karis looked at him for a long moment, her face doing several things at once, awe and something very like a researcher's pure delight and something underneath both that he could not name.
+"It came," he said at last. His voice seemed to belong to someone else. "There's a notice. It's got a line on it I've never had." He turned to her, because the line was hers as much as his, and had been hers first. "*Acquisition: directed.*"
 
-"Directed," she said. "It has a field for that."
+Several things crossed her face together, and none of them stayed long enough to be named: awe, and the plain glee of a researcher whose result has come in, and under both of those something he could not read at all.
 
-"It has a field for that," said Cael.
+"Directed," said Karis. "There's a field for it."
 
-Lira was at the chalk, held there by decorum and nothing else, with Brom a pace behind her, looking at him across the swept earth with the whole question in her face. He did not have to say anything. He met her eyes and nodded once, slowly, and held out his right hand toward her, palm up, for the binder.
+"There's a field for it," he said.
 
-Quenna, coming across the ring, saw it, and stopped Lira with nothing but a look, and then stepped aside and let her through.
+At the chalk, Lira was standing exactly where the rules made her stand and not a hair further, with Brom a pace behind her, and the whole question was in her face. Cael did not need to say anything. He looked at her and nodded, once and slowly, and held out his right hand to her, palm up, for the binder.
 
-Lira came over the chalk and knelt and put the binder in his hand without a word, and then stayed kneeling a moment longer with her own right hand pressed flat against her breastbone. It was not a sign they had ever agreed on, and it did not need to be. Behind her, at the chalk, Brom looked at the binder, and at the scattered coins of Karis's broken lattice still smoking faintly on the earth, and nodded once, slowly. It was the nod Brom gave when something he had been weighing for a long time had at last come down on one side.
+Quenna, halfway across the ring, saw the hand. She checked Lira with a glance. Then, after a moment, she stepped out of the way.
 
-The panel's talk was breaking up. Quenna had turned back to the chairs with the ledger in her hands, official language already gathering behind her eyes, and beyond her the yard was emptying its noise out through the gates. By supper it would have turned into six stories, every one of them arguing with the others, and a true one nobody would credit. Questions were coming, and a record, written slowly and with great care. Somewhere a conversation was coming about what three people had seen this afternoon and what they would be willing to say they had seen, and consequences he could not yet size, because a thing seen by three hundred people could never be wholly unseen. All of it was coming. All of it was real. None of it was allowed to arrive before this.
+Lira crossed the chalk without a word. She knelt and laid the binder in his palm and did not get up at once; her own right hand had gone flat against her breastbone, and she kept it there. They had never agreed on any such sign, and it did not need agreeing. Brom, still at the chalk, looked from the binder to the little coins of Karis's broken lattice smoking faintly on the earth, and gave a single slow nod. It was the nod he kept for a thing he had been weighing a long time and had at last seen come down on one side.
 
-He opened the binder on his knee, on the frozen ground of the formal yard, and wrote the notice down exactly as it had come. Then, because he understood that this was not an entry that could wait for evening, he wrote under it. His hand was not steady. He wrote anyway, in the square hand he kept for the lines he meant to keep believing.
+Behind them the panel was breaking up. Quenna had gone back to the chairs with the ledger held against her, and Cael could already see the official language assembling itself behind her eyes. The yard was pouring its noise out through the gates. By supper there would be six stories, each arguing with the other five, and the true one would be the one nobody believed. There would be questions, and a record written slowly and with great care, and a conversation about what three people had seen this afternoon and what each of them would be willing to say they had seen; after that would come consequences he could not yet measure, because three hundred people had watched, and a thing three hundred people have seen does not go back to being unseen. All of that was on its way. All of it was real. None of it was allowed in before this.
+
+He opened the binder on his knee, there on the frozen yard, and copied the notice exactly as it had come. Then he wrote beneath it, because this was not an entry that would keep until evening. His hand was unsteady. He wrote anyway, in the square hand he kept for the things he meant to go on believing.
 
 *Fifth fragment. First one I chose. Everything before this was the architecture acting. This one was me.*

@@ -198,7 +198,7 @@ Nobody said anything for a while. A cart went along the street worth walking far
 
 "If I ever did it. Yes." He looked up at her then. "That's why I'm telling you before. I'm choosing the size first. A quarter. Fast. Woken before Brom moves, the way the catch worked, and then let go instead of sent. If it costs what the catch cost, I stop, and I never think about it again."
 
-Lira looked at him for a long moment over the wet cloth.
+Over the wet cloth Lira studied him a long moment.
 
 "And if it doesn't?"
 
@@ -256,13 +256,13 @@ They sat down together in the dirt of the training yard at the end of it, becaus
 
 "That isn't how Vell taught it."
 
-"Vell taught you one opponent at a time. One rhythm, one body, one strike to read. You got very good at it." Lira leaned back on her hands. "This isn't one rhythm. It's twenty, all coming due at once, and she's the only one who knows the order. You can't read twenty rhythms the way you read one. You've got to stop asking whether it's right and just go, and trust the floor to have been read already."
+"With Vell it was always one opponent. One rhythm, one body, one strike to read. You got very good at it." Lira leaned back on her hands. "This isn't one rhythm. It's twenty, all coming due at once, and she's the only one who knows the order. You can't read twenty rhythms the way you read one. You've got to stop asking whether it's right and just go, and trust the floor to have been read already."
 
 He thought about it, sitting in the dirt.
 
 "Watch the quiet part," he said. "Brom said. Everything she does early is where the fight is."
 
-"Brom's right. Brom's always right about the floor." Lira got up, slowly, and held out a hand, which he did not need and took anyway. "You'll get there. You always do, in the end. I've just never once seen you get there against something with this many pieces before you've even—"
+"Brom's right. Brom's always right about the floor." Lira got up, slowly, and held out a hand, which he did not need and took all the same. "You'll get there. In the end you always do. Only I've never watched you do it against anything with so many moving parts, not before you'd even—"
 
 She stopped.
 
@@ -270,7 +270,7 @@ She stood with his hand still in hers, in the dark, her mouth a little open on t
 
 "Before you've even had a chance to learn it properly," said Lira, and let go of his hand, and went to help Brom with the sack.
 
-Nobody had said the word all week, not on the wall or at the scarred table or in Brom's room with the wet cloth folded on the blanket, not once in four nights of chalk and peas and Lira's voice saying *point* in the dark. It sat at every meal anyway, like a fifth chair pulled up to the table that nobody looked at. Lira had nearly sat in it just now and caught herself, and the three of them walked back across the frozen yard to the residence wing in a silence that had the word in the very middle of it.
+Nobody had said the word all week, not on the wall or at the scarred table or in Brom's room with the wet cloth folded on the blanket, not once in four nights of chalk and peas and Lira's voice saying *point* in the dark. Still it came to every meal, a fifth chair drawn up to the table that none of them would look at. Lira had nearly sat in it just now and caught herself, and the three of them walked back across the frozen yard to the residence wing in a silence that had the word in the very middle of it.
 
 He wrote that night at the desk by the window, with his legs aching so badly he could feel his pulse in his calves.
 

@@ -18,7 +18,7 @@ The panel did not go to the far wall this time. They conferred at the chairs, lo
 
 "Assessment satisfied," said Quenna, and set down her pen.
 
-That was all. Four sittings, and the record said the same thing four times in slightly different words. Somewhere at the far end of a road, at a desk he had built in his own head under a lamp, someone would one day read four pages that agreed with each other and find nothing on any of them worth underlining, and he had spent a quarter of an hour in a swept ring making sure of it. Show enough to pass. Bank everything that matters. It had become a craft, as taking a hit on purpose had become one for Lira, and he was beginning to be good at it.
+That was all. Four sittings, and the record said the same thing four times in slightly different words. Somewhere at the far end of a road, at a desk he had built in his own head under a lamp, someone would one day read four pages that agreed with each other and find nothing on any of them worth underlining, and he had spent a quarter of an hour in a swept ring making certain of that. Show enough to pass. Bank everything that matters. It had become a craft, as taking a hit on purpose had become one for Lira, and he was beginning to be good at it.
 
 Hobb walked past him on the way out of the ring and slowed, as he slowed at rails.
 
@@ -112,7 +112,7 @@ He had told Lira why: if Karis knew, she would carry a hypothesis she could neve
 
 "I'm thinking about four weeks."
 
-"Good. So am I." At the stable door she stopped and turned to him, and for the first time since the terms she looked faintly uncomfortable. "There's something I want to say about those four weeks. You've watched me at demonstration intensity for three weeks in a room. You've watched me fight Edran once. You haven't watched me build. I've watched you fight Edran, and I've timed your framework at every session since the first, and you've read every line I wrote about it before anybody else. That isn't even."
+"Good. So am I." At the stable door she stopped and turned to him, and she looked, for the first time since the terms were signed, a little uncomfortable. "There's something I want to say about those four weeks. You've watched me at demonstration intensity for three weeks in a room. You've watched me fight Edran once. You haven't watched me build. I've watched you fight Edran, and I've timed your framework at every session since the first, and you've read every line I wrote about it before anybody else. That isn't even."
 
 "It's the sixth clause."
 
@@ -130,15 +130,15 @@ He told them at supper, because the rule was the day he knew it, and he had know
 
 They had the end of the scarred table under the bricked-up hay door, the corner farthest from the fire, with Brom on the bench opposite and Lira beside him and a pot of barley between them that Brom regarded as his own. Karis had eaten early and gone, having told them in her proposing-a-variable voice that the three of them should have the evening without her and that she would be in the archive if anybody needed her for anything.
 
-He laid the fair copy on the table between the bowls. Quenna had given it to him on the stair as he left, folded once, without being asked. "It's part of your record now," she had said. "You read every other part of it first. I don't see why this should be different."
+He laid the fair copy on the table between the bowls. Quenna had given it to him on the stair as he left, folded once, without being asked. "It's part of your record now," she had said. "You read every other part of it first. I can't see why this one should be any different."
 
 Lira picked it up and read it twice, the second time slowly, with her thumb moving down the margin, which was how she read anything she had not yet decided to believe. At the underlined line her thumb stopped, and she read that line a third time on its own. Then she set the sheet down very carefully beside her bowl and kept her hand on it.
 
-"She writes a better waiver than Fenmark ever wrote an expulsion," she said.
+"Fenmark never once wrote an expulsion as good as this waiver," she said.
 
 Brom looked up.
 
-"Four paragraphs to end me, and not one of them said whether I'd been right." Lira tapped the sheet. "Five sentences to walk into a ring with you, and she said exactly why in every one of them." She was trying very hard to keep her face dry, and it was not entirely working. "I don't know whether to be impressed or frightened."
+"Four paragraphs to end me, and not one of them said whether I'd been right." Lira tapped the sheet. "Five sentences to walk into a ring with you, and she said exactly why in every one of them." She was trying very hard to keep her face dry, and it was not entirely working. "I can't decide if I'm impressed or scared."
 
 "Both," said Brom, who had gone back to his barley and did not look up from it. "Both is usually correct, with her."
 
@@ -258,9 +258,9 @@ By the midday meal the rumor market had built three new theories and torn down o
 
 Edran found him two days later, crossing the yard between the archive and the lecture wing, and fell into step with him for exactly as long as it took to say one thing. He had been at the rail of the heat-Paths floor every afternoon since the notice went up, arms folded, watching Karis train, with the look of a man revising something he had thought was finished, and Cael had watched him watching her.
 
-"After she beat me," said Edran, without looking at him, "I sent for Ternhall's standings record. Theirs is public, if you write for it and pay the copying." He kept walking. "It goes back three years. Nobody's crossed that grid at Ternhall in two years. I thought you'd want the number."
+"After she beat me," said Edran, without looking at him, "I sent for Ternhall's standings record. Theirs is public, if you write for it and pay the copying." He kept walking. "It goes back three years. At Ternhall nobody has crossed that grid for two years. I thought you'd want the number."
 
-He turned off toward the lecture wing before Cael could answer. It was not friendship. Cael watched him go and thought it was exactly what Edran had promised on the exhibition floor, a witness, and that it had begun to run in both directions.
+He turned off toward the lecture wing before Cael could answer. It was not friendship. Cael watched him go. On the exhibition floor Edran had promised to be a witness, and here was the promise kept; it had begun, Cael thought, to run both ways.
 
 He wrote it all that night at the desk by the narrow window, in the plain hand he kept for the evenings that turned a corner.
 

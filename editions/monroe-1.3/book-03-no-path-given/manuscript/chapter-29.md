@@ -12,17 +12,17 @@ Pressure-adjacent was Feryn's. He had watched Feryn, a Bronze-tier fighter, for 
 
 Iron-adjacent was Brom's. Weeks of sessions in Brom's sparring circle, and for most of them the read had not come at all. It had come after he asked Brom to stop being careful with him. He had wanted to learn faster, and Brom had obliged, and for a fortnight every wrong read had meant a hit that rang in his bones until the next morning. He had been reading a body that was trying, honestly and on purpose, to hurt him.
 
-Compression-adjacent was Reydan's, and he did not need to make himself remember that one, because he remembered it every time he breathed deep. Six hundred people. An Iron Rank Eight across the chalk. Everything he had built in Ardenmere riding on the third exchange, and the third exchange going wrong, and the notice coming at very nearly the last moment it could have come and still been any use to him at all.
+Compression-adjacent was Reydan's, and he did not need to make himself remember that one, because he remembered it every time he breathed deep. Six hundred people. An Iron Rank Eight across the chalk. Everything he had built in Ardenmere riding on the third exchange, and the third exchange going wrong, and the notice arriving so late that a moment more would have made it useless to him.
 
 He laid the four of them side by side on the page, and then he laid Karis beside them: fourteen sessions in a whitewashed room, nine paces and five and one, a quarter-hour and three hours, every one at demonstration intensity, with consent given aloud, and a rule at the bottom of the page that ended everything the moment anything happened she had not chosen. Nothing in that room had ever been used against him. Nothing in it had been trying. Nothing in it had cost anything if he failed except a line in a ledger that said *null*, which Karis was glad to write.
 
 Four moments with something real riding on them, and fourteen with nothing riding on anything, and the four were the ones that had paid.
 
-He sat looking at it for a long time. Then he wrote it out underneath in full, in the slow square hand he kept for things he meant to keep believing after he had started to doubt them.
+It held him for a long time. Then he wrote it out underneath in full, in the slow square hand he kept for things he meant to keep believing after he had started to doubt them.
 
 *Watching is necessary. It isn't enough. Every fragment came when the person I was watching was using what they had against me, for real, with something on it — my ribs, my rating, the rent, the fight. Nothing has come from watching Karis show me what she has with nothing on it, however long and however close. Whatever is in me doesn't take what it's shown. It takes what's used on me. If that's right, then the stakes aren't the weather round it. They're part of how it works.*
 
-He read it back, and it had the feel of a true thing. It closed on the shape of the last three months like a lid on a box. He distrusted it exactly as much as he liked it. He liked it a great deal, and he had learned long ago that a thing he wanted to be true was a thing he had to check twice. It might be the missing condition. It might be a story he was telling himself because fourteen nulls had made him want one. No amount of thinking at a desk would tell the difference.
+Read back, it sounded like something true. It closed on the shape of the last three months like a lid on a box. He distrusted it exactly as much as he liked it. He liked it a great deal, and he had learned long ago that a thing he wanted to be true was a thing he had to check twice. It might be the missing condition. It might be a story he was telling himself because fourteen nulls had made him want one. No amount of thinking at a desk would tell the difference.
 
 He wrote underneath it, smaller.
 
@@ -104,7 +104,7 @@ Gerda was standing very straight, with one hand on her collarbone where Hobb's p
 
 "I'm not a wall," said Hobb mildly. "I'm Stone."
 
-"You're a wall with opinions," said Lira, and Hobb looked at her for a long moment and then did a thing Cael had never once seen him do, in two months of watching him stand in front of people. He smiled.
+"You're a wall with opinions," said Lira, and Hobb's eyes rested on her a long moment, and then he did a thing Cael had never once seen him do, in two months of watching him stand in front of people. He smiled.
 
 ---
 

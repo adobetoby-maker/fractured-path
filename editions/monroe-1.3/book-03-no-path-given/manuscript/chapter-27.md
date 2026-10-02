@@ -4,7 +4,7 @@ Nobody fetched the rumor market out of bed for Gerda.
 
 The yard at first bell on Friday was colder than it had been on Thursday, and emptier, and the frost lay on the benches unbroken because nobody had sat on them. Five people stood at the rail on the open side. Cael was one, and Lira beside him with her bruised shoulder strapped under her coat, and Brom, and Karis a little along with her hands in her pockets and no notebook again. Hobb stood at the far corner, alone, as he had stood at every bout Cael had seen him watch. That was all. Somebody's re-certification review at the first bell on the last day of the week was not a thing anybody at Greyvane had a reason to come and see, and so nobody had come.
 
-The panel sat at the north end, Quenna in the middle and Wray on her left. The rotating seat this morning was the lean old instructor with scorched cuffs who took the heat Paths, Ember and Ash together. He had the look of a man who had read the file in front of him and had already been told by it most of what he expected to see.
+The panel sat at the north end, Quenna in the middle and Wray on her left. The rotating seat this morning was the lean old instructor with scorched cuffs who took the heat Paths, Ember and Ash together. He looked like someone the file in front of him had already told most of what he expected to see.
 
 Gerda came through the gate as the bell finished, tall and narrow and very straight, with her ash-pale hair cut close and her patched coat folded over her arm and her hands wrapped. On her way to the ring she stopped, and looked up at the clock above the main hall door, and checked it against something in her head. Then she went on.
 
@@ -54,7 +54,7 @@ He knew what she had said. He had heard her say it twice before, at the board in
 
 It took him most of the walk back across the yard to understand what he had just watched, and when he understood it he did not like it at all.
 
-Nothing had gone wrong. That was the whole of it. Nobody had cheated her, or lied, or made a sentence up out loud at the end of a table. The procedure had done exactly what it was written to do. Three people had read her originating record and watched her fight twice on a cold morning and written down what they saw. What they saw was a careful Copper fighter who did not move out of her own haze unless she had to and never once took a risk she could avoid, which was precisely the tier and rank the record said she was, and so the record and the floor agreed. Yesterday a floor had disagreed with a file, and the disagreement had been written down and would stand. This morning the floor had agreed with one, and the agreement had been written down too, and it would stand just as long.
+Nothing had gone wrong. That was the whole of it. Nobody had cheated her, or lied, or made a sentence up out loud at the end of a table. The procedure had worked precisely as its writers meant it to. Three people had read her originating record and watched her fight twice on a cold morning and written down what they saw. What they saw was a careful Copper fighter who did not move out of her own haze unless she had to and never once took a risk she could avoid, which was precisely the tier and rank the record said she was, and so the record and the floor agreed. Yesterday a floor had disagreed with a file, and the disagreement had been written down and would stand. This morning the floor had agreed with one, and the agreement had been written down too, and it would stand just as long.
 
 No floor had come to rescue her, because she had not let it.
 
@@ -226,7 +226,7 @@ Gerda sat. She read it, one phrase at a time, waiting at each comma while Prynn'
 
 "May elect, before the term's end."
 
-Prynn looked at her over the spectacles for a long moment.
+For a long moment Prynn considered her over the top of the spectacles.
 
 "You read *may*."
 

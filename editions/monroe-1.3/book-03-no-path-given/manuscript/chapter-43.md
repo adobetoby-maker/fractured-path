@@ -146,7 +146,7 @@ Naveth did not argue; he looked as if he had spent the night arguing already, ag
 
 Nobody disagreed, and the clock over the door ticked twice into the quiet before anybody moved.
 
-"So I'll put the worst thing on the table first," said Naveth, "and tell you afterward why it's there." He turned the challenge a quarter turn on the blotter and back. "We can withdraw. Quietly, before the hearing. We go to the Compact ourselves and concede the error, and Cael's standing goes back to whatever the provision actually covers, which is nothing. He leaves. Greyvane keeps its charter, and two hundred other students keep their places, most of them clerical errors of one sort or another, which is the only reason any of them are here."
+"So I'll put the worst thing on the table first," said Naveth, "and tell you afterward why it's there." He turned the challenge a quarter turn on the blotter and back. "We can withdraw. Quietly, before the hearing. We go to the Compact on our own account and admit the mistake. Cael's standing falls back to what the provision really covers, and it covers nothing. He leaves. Greyvane keeps its charter, and two hundred other students keep their places, most of them clerical errors of one sort or another, which is the only reason any of them are here."
 
 "Why?" said Lira. She did not raise her voice. "You said you'd tell us why. Why can't it be won?"
 

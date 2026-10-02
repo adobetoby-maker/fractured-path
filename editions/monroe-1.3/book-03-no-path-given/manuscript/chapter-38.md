@@ -140,47 +140,45 @@ She went down to the archive at the eighth bell, an hour after Prynn usually loc
 
 ---
 
-He had seen nothing of her for two days.
+The archive door opened at the eighth bell on the Saturday, and he knew the step before he looked up.
 
-That was remarkable once he noticed it, and he noticed it on the Friday afternoon. Since the autumn Karis had been as regular as the water clock, at every session and every meal and every evening in the stable, and her attendance in the archive could have been used to set the bells by. Since Brom's room on the night of the match she had been a rumor; Brom reported seeing her once, on the Saturday morning, crossing the yard fast with her collar up. Lira, when Cael asked whether she had seen her, said only, "She's writing something she doesn't want witnessed." She said it with the flat certainty of somebody who had once spent two days doing exactly that, over four paragraphs from Fenmark, and he did not ask how she knew.
+He was at the far end of the long table with the observation notebook shut on the table before him and his bad arm resting in its loose linen across his lap. He had not seen her for two days, and it had taken him until Friday afternoon to notice, which embarrassed him once he had. Since the autumn Karis had kept time like the water clock: every session, every meal, every evening in the stable, and the archive so regularly that the bells might have been set by her. Then, from Brom's room on the night of the match, nothing. The only sighting was Brom's: Saturday at first light, a figure crossing the yard at speed with the collar up, gone before he could call out. When Cael asked Lira, Lira said only, "She's writing something she doesn't want watched." Lira would know. Lira had once lost two days of her own to four paragraphs from Fenmark, and he did not ask.
 
-He was at the far end of the long table at the eighth bell on the Saturday, with the observation notebook shut in front of him and the bad arm in its loose linen in his lap. When the door opened he knew the step.
+Karis came the length of the room and sat down opposite him. She had brought no notebook. She laid her folded hands on the table in the place where one should have been, and looked at that empty place for a moment before she looked at him.
 
-Karis came down the long room and sat across from him without a notebook, and folded her hands on the table where it should have been and looked at the empty place for a moment before she looked at him.
-
-"I need to tell you something," she said. "Don't say anything until I've finished. If you stop me halfway I won't be able to start again, and it's taken me two days to get as far as the bottom of the stairs."
+"I have to tell you something," she said. "Please don't speak until I'm done. If you stop me in the middle I won't be able to begin again, and it has taken me two days to get as far as the bottom of the stairs."
 
 He nodded.
 
-"I asked to be the source. I wrote it down and underlined it. *If it works, the documentation matters.* I meant all of it. For the better part of a year you've been the biggest unanswered question in the only subject I care about, and I've been proud of chasing it, and I still am." She was looking at her own hands now, and not at him, which was new; Karis watched everything in the world except her own hands. "What I never planned for was being the result. Some of what I've drilled since I was eleven is in you now, and it stays there, because I signed a sheet and the sheet worked."
+"I asked to be the source. I put it in writing and I underlined it. *If it works, the documentation matters.* I meant every word. You're the biggest question in the one subject I care about, and you have been for most of a year. Going after you is the thing I'm proudest of. That hasn't changed." She was watching her hands as she spoke, not him, and that was new. Karis looked at everything in the world except her own hands. "The part I never planned for was being the result. Some of what I've drilled since I was eleven is inside you now. It stays there. It stays because I signed a sheet, and the sheet worked."
 
 "Karis—"
 
-"I said let me finish." She drew a breath. "That's all I can say out loud. The rest I've written, because I couldn't say it without it coming out sounding like something it isn't."
+"I asked you to let me finish." She took a breath. "That's as much as I can say aloud. The rest is written down. Spoken, it would have come out sounding like something else."
 
-She reached into her coat and took out a single folded page and held it out across the table.
+From inside her coat she drew one folded page and held it out to him over the table.
 
-It was not the two pages of data he might have expected from her but one paragraph, in her small upright hand. He could see before he read a word that it had been written more than once, because the paper itself told him. It had been folded and unfolded and folded again until the creases crossed and the corners had gone soft as cloth. Near one edge there was the ghost of an earlier sentence, scraped away with great care, still faintly there in the grain.
+He had half expected two close pages of data, and what he held was a single paragraph in her small upright hand, which he could tell before he read a word had been written more than once, because the paper said so. It had been folded and opened and folded again until the creases crossed each other and the corners had worn soft as cloth. Close to one edge an earlier sentence had been scraped off with great care, and its ghost still showed faintly in the grain.
 
-He read it, and read it a second time.
+He read it. Then he read it again.
 
-The archive was very quiet round them, and somewhere back in the stacks Prynn's lamp, which she had forgotten again to put out, was burning low. The shelves went back into the dark with all their centuries of other people's recorded lives, and it seemed to him that rooms like this one were built for exactly this: somebody writing down the one thing that mattered and passing it across a table.
+The archive was very still around them, and back in the stacks Prynn's lamp was burning low, left alight once more as if she had forgotten it, and the shelves ran away into the dark with their centuries of other people's lives written down. It seemed to him that a room like this had been built for nothing so much as this: a person setting down the one thing that mattered and passing it across a table to someone else.
 
-He looked up, and she was watching him now. The careful steadiness she wore over everything was gone from her face entirely, and what was underneath looked, on Karis, almost unbearably like nerve.
+When he looked up she was watching him at last. The careful evenness she wore over everything had gone from her face, and what lay under it looked, on Karis, almost painfully like courage.
 
-"You're asking to be one of us," he said. "Not the arrangement. The other thing."
+"You want to be inside," he said. "Not the arrangement. The other thing."
 
-"I'm asking," she said, "because asking is the only way I know, and I've never needed it before. At Ternhall you belonged by rank. I was in because my name was high enough on a board. This isn't like that. I don't have a method for it. I can't stand not having a method. I'm asking all the same."
+"There isn't any other way that I know of. I've never once had to ask for this." Her hands stayed where they were. "At Ternhall you belonged by where you stood. My name sat high enough on a board, so I was in. This isn't that. Nobody has written down a method for it, and I can hardly stand that. So I'm asking."
 
-He held the page.
+He sat holding the page.
 
-The first sheet that had ever passed between them, in the stable in the fourth week, had been armour, seven clauses and a word that could end everything, drawn up by four wary people against the chance of harm. This was the other thing: one paragraph, no clauses, no way out written into it anywhere, asking for the one thing no clause could ever get anybody. She had written the least defended sentence of her life in the same small upright hand she kept for boundary conditions, then creased it and kept it two days against her ribs. He thought of Lira on a rooftop in Ardenmere, a long time ago, and of how every time something in his life had changed for good, it had been because someone had decided to hand someone else the unguarded copy.
+Seven clauses, and one word that could stop everything: that had been the first paper between them, drawn up in the stable in the fourth week by four careful people who did not yet trust each other, and it had been armour. This was the opposite: no clauses, no door left open for getting out, only one paragraph asking for the one thing no clause has ever been able to secure for anyone. She had set down the least guarded sentences of her life in the same small hand she used for boundary conditions, and then she had folded them and carried them against her ribs for two days. He thought of Lira on a rooftop in Ardenmere, long ago. Every time his life had changed for the better, he realized, it had been because someone chose to hand someone else the copy with no armour on it.
 
-"It isn't only mine to answer," he said. "You know that. You wrote it that way. *The three of you.*"
+"I can't answer this by myself," he said. "You knew that when you wrote it. *The three of you.*"
 
-"I know," said Karis. "That's why I wrote it that way."
+"I know," said Karis. "It's why I wrote it like that."
 
-She stood, and did not hold out her hand for the page; she left it with him, and that was its own message. She was not going to take it away and improve it. It was done. It was what she had found.
+She stood, and she did not reach for the page; she left it in his hands, and that said something too, because it meant she was not going to carry it off and improve it. It was finished. It was what she had found.
 
 ---
 
@@ -192,7 +190,7 @@ She read it twice and turned it over once, as if there might be something on the
 
 "Well," she said, half to herself. "There it is, then."
 
-It was not refusal, and not quite welcome either, not yet; it was the sound of a line moving, an inch, the way lines moved when they moved for real reasons and not because somebody had declared that they had.
+It was not refusal, and it was not quite welcome yet either. It was what a line sounds like when it gives an inch, as lines do when something real has moved them and not just somebody's say-so.
 
 "She left you bread," said Cael. "Didn't she. On the Friday."
 

@@ -96,11 +96,11 @@ She read it off the ledger without hurrying.
 
 "Advancement inconsistent with recorded tier. Recommend continued track with priority review."
 
-Cael heard it, and then heard it again in his own head, to be sure of the words, and then a third time, because he could not stop.
+Cael heard it once, and then once more inside his own head to make certain of the words, and then a third time, because he could not stop himself.
 
 He knew what it was. He had spent his whole life inside records and he knew exactly what it was, and he felt it go through him in the cold yard like a draught under a door. It did not change her tier. She was Copper on Fenmark's sheet and Copper on Greyvane's ledger and she would be Copper on the board this evening with the dot still beside her name. It did not reverse anything, or retract anything, or call anyone wrong. It only stated, in an academy's own language, initialed by three people and dated, that the recorded tier and the floor did not agree. For two years the only paper in the world about Lira had been four paragraphs written by somebody who had never watched her fight. Now there were two pieces of paper, and the second one, written by three people who had, said in plain ink that the first did not add up.
 
-It would stay. That was the thing he knew better than almost anybody alive. Things written in a ledger like that one had a way of staying long after the people who wrote them had forgotten the morning. His whole life at Greyvane stood on that one fact.
+It would stay. Few people alive understood that better than he did: a line in a ledger like that one outlasts the morning it was written, and outlasts the memory of whoever wrote it. Everything he had at Greyvane was built on exactly that.
 
 "Initials," said Quenna. "And the candidate's signature that she has heard the notation."
 
@@ -168,7 +168,7 @@ Hobb, at the edge of the chalk, took his hands out of his pockets.
 
 "No." Wray said it at once, and firmly, and Cael saw that she had been waiting for him to say it so she could say that. "You've made me careful with that word, and I'm not going to waste the care now. A ceiling is a place people stop because somebody drew a line on a board and told them to. Your column says I drew it in the wrong place, and I'm watching your column." She looked him in the face. "This is a wall. It's a real thing in the road, in your body, not in anybody's belief. You can see it now. Seeing a wall isn't the same as getting over it, and you'll not get over this one here. I'm sorry for that. I'd rather tell you today than let you find it on a floor somewhere with somebody fast on the other side."
 
-Brom looked at her for a long moment. Then he nodded, once, slowly, the nod he gave a fight that had gone the way he thought it would and he had not wanted it to.
+For a long moment Brom only watched her. Then came the nod, single and slow, the nod he gave a fight that had gone the way he thought it would and he had not wanted it to.
 
 "A wall."
 
@@ -200,7 +200,7 @@ Cael thought for a long time before he said anything, because it mattered, and b
 
 Lira was very still beside him.
 
-"The records know what happened here," she said, slowly, as if she were testing the weight of each word before she put her own on it. "Nobody gets to say otherwise."
+She said it slowly, as if she were testing the weight of each word before she put her own on it. "The records know what happened here. Nobody gets to say otherwise."
 
 "That's the one I'd keep."
 
@@ -210,7 +210,7 @@ She sat with it a while. Then she did a thing he had not expected, which was to 
 
 "When what's obvious?"
 
-"That they were wrong." She said it with no heat in it at all, the way she said the score at the end of a bout. "I'm not filing a dispute. Not now. Maybe not ever. This morning's line does more for me here than any argument with Fenmark would, and I'd have to stand up in front of more people who were never in the room." She patted the coat. "But I'm keeping these. For the day it stops being me proving something to some office, and starts being some office admitting something to me."
+"That they were wrong." She said it with no heat in it at all, the way she said the score at the end of a bout. "I'm not filing a dispute. Not now. Maybe not ever. This morning's line does more for me here than any argument with Fenmark would, and I'd have to stand up in front of more people who were never in the room." She patted the coat. "But I'm keeping these. For the day the proving runs the other way, and some office owes me an admission instead of me owing it proof."
 
 She turned to Brom. "You've been sitting there with a face on since you came out. I noticed. I've had my turn. Say it."
 
@@ -222,11 +222,11 @@ He told it as plainly as he told everything, the gap between the read and the tu
 
 "She called it a wall," he said. "Not a ceiling. She was very particular. A ceiling is a thing somebody draws. A wall's a thing in you." He was quiet a moment. "It's an honest wall. Nobody's fault. Just the sort of thing you hit if you get good enough to hit it."
 
-Lira reached over and knocked her shoulder against his, and winced because it was the bruised one, and did it again with the other on principle, and Brom made the low sound in his chest that did him for a laugh.
+Lira leaned across and bumped his shoulder with hers, and winced because it was the bruised one, and did it again with the other on principle, and Brom made the low sound in his chest that did him for a laugh.
 
 The three of them sat a long while after that without saying anything, while the yard went from grey to dark and the hill town's lamps came on below them. Cael thought about the two things that had been found that day, one in a ledger and one in a friend, and how differently they sat. Lira's had been paper all along, and paper could be answered with a floor. Brom's was bone and habit and two years of being right, and there was no ledger anywhere that could be argued with about it.
 
-He wrote it that night in the binder, in the plain hand he kept for evenings that changed the shape of things.
+That night it went into the binder, written in the plain hand he saved for the evenings that moved something.
 
 *Lira's review. Two bouts, two won. She spent two hits in the second like coins and finished with the barrow turn from the Ardenmere market yard. The notation, read aloud, in their words: Advancement inconsistent with recorded tier. Recommend continued track with priority review. First paper anywhere that says her file might be wrong. She's keeping Fenmark's four paragraphs. No dispute.*
 

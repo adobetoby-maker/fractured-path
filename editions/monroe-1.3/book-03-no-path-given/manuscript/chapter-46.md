@@ -58,11 +58,11 @@ On the eighth day, the Wednesday, a pea bag landed in the middle of his open pag
 
 It came through the iron-banded door in a low flat arc, the way Brom threw them along the chalk, and it sat on the enforcement digests like a small sewn stone. Prynn looked up sharply from the high desk, and Lira was in the doorway, at an hour Prynn's card on the door called *quiet study*, wearing the face of somebody who had read the card and decided it did not apply to her.
 
-"Yard," she said. "You've got ink on your nose, and your shoulders are round your ears again."
+"Yard," she said. "There's ink on your nose. And your shoulders have crept up round your ears again."
 
 "I'm halfway through the digests."
 
-"You're halfway to being furniture." She held out her hand for the bag, and he threw it back to her, and she caught it. "A week ago I told a whole room I'd keep you a fighter. I didn't mean some time. Yard."
+"You're halfway to being furniture." She held out her hand for the bag, and he threw it back to her, and she caught it. "Last week I stood up in front of a whole room and said I'd keep you a fighter. I didn't mean some time. Yard."
 
 The drill was nothing new and it was over quickly. She took him back through the first patterns he had ever learned, the footwork his feet knew better than his head, and the evasion frames they had run in Ardenmere when neither of them knew Greyvane existed. She was not training him for anything, and neither of them pretended otherwise. By the third sequence he could feel what eight days at a table had quietly taken: a stiffness all down his back, a tenth of a beat missing from his pivot, his eyes wanting to settle on one thing instead of softening to hold the whole floor.
 
@@ -322,7 +322,7 @@ He read the margin note back, and it was true. He wrote under it, in a hand that
 
 The lamp burned down toward the hour when Prynn usually shut her ledger, but she did not shut it. She sat on at the high desk with her pen still, not looking at him, and did not go.
 
-He picked the pen up again and went on.
+He went on writing.
 
 ---
 

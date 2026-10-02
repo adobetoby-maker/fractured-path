@@ -26,27 +26,27 @@ She was squaring her notebook against her knee. She squared it once, and then a 
 
 Brom came back from the door and stood at the rail without a word.
 
-"I want to put something to you," Karis said to Cael, "and I'd like a witness to the asking. What I'm going to ask isn't covered by any of the seven clauses we signed in the stable, and I don't want there ever to be a question of what I said or how I said it." She set the notebook down on the boards beside her, closed. "I want to offer myself as a source."
+"I want to put something to you," Karis said to Cael, "and I'd like a witness to the asking. What I'm going to ask isn't covered by any of the seven clauses we signed in the stable, and I don't want there ever to be a question of what I said or how I said it." She set the notebook down on the boards beside her, closed. "I'm offering myself. As a source."
 
 He did not understand her for a moment. Then he did, all at once, and stood very still by the post with his hand still on the felt.
 
-"Controlled conditions," she said. "My own declarations, at demonstration intensity, sustained, on a schedule we agree. You watch, as closely and as long as you like. And while you watch, you try. On purpose. To take something." She said it plainly, without any softening, every word set down whole. "If what you have can be aimed, that's the cleanest test anyone could design. If it can't, we'll know that too, and it will still be worth knowing."
+"Controlled conditions," she said. "My own declarations, at demonstration intensity, sustained, on a schedule we agree. You watch, as closely and as long as you like. And while you watch, you try. On purpose. To take something." She said it plainly, without any softening, every word set down whole. "If what you have can be aimed, that's the cleanest test anyone could design. If it can't be aimed, that's an answer as well, and I'll want it just as much."
 
 Brom, at the rail, had gone so still that he might have been one of the posts himself.
 
 Cael took his hand off the felt.
 
-It was not a small thing she was offering, and he did not let himself pretend it was. He knew what it was from the other end, from the end where he had always stood without knowing he was standing there. Every name at the front of the binder had been there when something came to him, and not one of them had been told, beforehand or after, by anybody, that it could happen. Lira had not been asked. Brom had not been asked; he had held out his arm to be read because Cael had asked him to stop being careful, and that was not the same thing at all. Karis was offering to walk up to the front of that line on purpose, knowing what she had already worked out stood at the far end of it, with her notebook open.
+What she was offering was not small, and he would not let himself pretend otherwise. He knew what it was from the other end, from the end where he had always stood without knowing he was standing there. Every name at the front of the binder had been there when something came to him, and not one of them had been told, beforehand or after, by anybody, that it could happen. Lira had not been asked. Brom had not been asked; he had held out his arm to be read because Cael had asked him to stop being careful, and that was not the same thing at all. Karis was offering to walk up to the front of that line on purpose, knowing what she had already worked out stood at the far end of it, with her notebook open.
 
 "Why?"
 
 She had expected the question. He saw that she had expected it, and that she had decided long before she sat down which of her answers was the true one.
 
-"Because whatever you've had so far, nobody stood in front of it on purpose. Whoever was there when it happened, it happened to them as much as to you, and nobody asked them first. Not Lira. Not Brom." She did not look at the rail when she said Brom's name, and Brom did not move. "I can be asked. I'm asking to be. That may be the only clean version of this anybody will ever be able to run. I'd rather it was run clean, by people who'll write it down honestly, than found out by accident in some room where nobody is writing anything."
+"Because whatever you've had so far, nobody stood in front of it on purpose. Whoever was there when it happened, it happened to them as much as to you, and nobody asked them first. Not Lira. Not Brom." She did not look at the rail when she said Brom's name, and Brom did not move. "I can be asked. I'm asking to be. There may never be another way to run this cleanly. I'd rather it was run clean, by people who'll write it down honestly, than found out by accident in some room where nobody is writing anything."
 
 "And if it works?"
 
-"Then it works, and we'll know something real about the only question I've cared about since a lecturer made a joke in a hall last winter." For the first time something hesitated in her face, very briefly. "And if it doesn't, we've closed a door, and I'll know where the wall is. I don't do well with a boundary I can't see. You may have noticed that about me."
+"Then it works, and we'll know something real about the only question I've cared about since a lecturer made a joke in a hall last winter." For the first time something hesitated in her face, very briefly. "If nothing comes, then one door is shut for good, and the wall is somewhere I can see it. I don't do well with a boundary I can't see. You may have noticed that about me."
 
 He had noticed. Karis circled an open question the way other people circled an unpaid debt, coming back to it at odd hours, unable to leave it alone until it was settled in one direction or the other.
 
@@ -78,7 +78,7 @@ He had stood at the residence wing door for a long minute before he came out. He
 
 He sat. The valley below them was black, and the lamps of the hill town were scattered down the slope, and over the training yard the stars were very sharp in the cold. He told her. He told it the way he told her everything that mattered, nearly word for word: Karis's offer and her reasons and her plain refusal to soften any of it, Brom at the rail like a post, and the last thing Karis had said, that she could carry it four days if it was Lira's week.
 
-Lira listened all the way through without interrupting, with her chin on her knees. When he had finished she was quiet for a long time.
+Lira listened all the way through without interrupting, with her chin on her knees. After he finished, she let the quiet go on a long while.
 
 "She offered," she said at last. "You didn't ask her."
 
@@ -88,11 +88,11 @@ Lira listened all the way through without interrupting, with her chin on her kne
 
 He turned his head.
 
-"Say yes," said Lira again, to the dark yard. "I told you on this wall to go and find out whether it was real. This is what finding out looks like, when somebody walks up and hands you the honest way to do it with both hands. She knows what she's offering better than any of us ever did. That's the whole difference, and it's a big one." She was quiet a moment. "Nobody asked me, in Ardenmere. Nobody asked you either, come to that. You didn't know there was anything to ask. She's asking. Let her."
+"Say yes," said Lira again, to the dark yard. "On this wall I sent you off to find out if it was real. Well, here's finding out: somebody walking up and putting the honest way of doing it into both your hands. She understands what she's giving far better than any of us understood what we gave. That's the whole difference, and it's a big one." She was quiet a moment. "Nobody asked me, in Ardenmere. Nobody asked you either, come to that. You didn't know there was anything to ask. She's asking. Let her."
 
 "You're sure."
 
-"No. I'm never sure about anything that matters before it's happened. I'm sure it's the right way round." She unfolded one arm and pointed a finger at him in the dark. "Terms on paper, though. Again. Every time. That part never gets skipped because everyone's got comfortable with each other."
+"No. I'm never sure about anything that matters before it's happened. I'm sure it's the right way round." She unfolded one arm and pointed a finger at him in the dark. "Only the terms go on paper again. Every time. Nobody skips that part just because we've all got comfortable with each other."
 
 "Every time."
 
@@ -130,7 +130,7 @@ She was in the assessors' room off the main hall with her slates, alone, and she
 
 Quenna set her pen down.
 
-She looked at him for a long moment, and he could see her turning the question round, looking at it from below and from either side, as he had once watched her look at the words of the provision. She did not ask who the student was. She did not ask why. He had not expected her to, and still he felt something loosen in him when she didn't.
+For a long moment she only looked at him, and he could see her turning the question round, looking at it from below and from either side, as he had once watched her look at the words of the provision. She did not ask who the student was. She did not ask why. He had not expected her to, and still he felt something loosen in him when she didn't.
 
 "An observer may watch anything the academy lets anyone watch," she said at last, "and anything a student of full standing invites him to watch. That's what the category is. It's the one thing it gives you freely." She picked her pen back up. "You don't need my leave for it. It isn't one of my sessions, and it won't be in my record. I'd prefer to keep it that way."
 
@@ -174,7 +174,7 @@ She wrote it below the others without numbering it, slowly, in a hand that did n
 
 She turned the sheet round so that it faced him.
 
-Cael read it. Then he read it again, and then a third time, and somewhere in the third reading he understood why he could not stop. It was the first rule anyone had ever written down to protect somebody from him. Every rule he had ever met had been written to protect the world from what he was, or to protect him from the world, or to protect some office from having to decide anything about him at all. This one was written to protect a girl of sixteen from a boy across a table, by the girl herself, in a hand that had not shaken once. He found that he was glad it existed. The gladness was not at all comfortable to hold.
+Cael read it. Then he read it again, and then a third time, and somewhere in the third reading he understood why he could not stop. Nobody had ever before written a rule down to keep someone safe from him. Every rule he had ever met had been written to protect the world from what he was, or to protect him from the world, or to protect some office from having to decide anything about him at all. This one was written to protect a girl of sixteen from a boy across a table, by the girl herself, in a hand that had not shaken once. He found that he was glad it existed. The gladness was not at all comfortable to hold.
 
 "That one's right," said Lira quietly.
 
@@ -198,7 +198,7 @@ He had watched her Ember a dozen times from the edge of a section and twice in a
 
 And underneath the watching, for the first time in his life on purpose, he reached.
 
-He did not know what reaching was. He discovered that in the first minute, standing in a whitewashed room with Lira by the door and a line of heat singing on the wall between two coins of light. For a long time he had written down what happened after a fragment came: the sense of something settling into a place he had not known was empty, and then the notice, like a line somebody else had already written. He had never once made any of it begin. Wanting a thing to happen and knowing how to make it happen turned out to be two different skills, and he had only ever had the first.
+He did not know what reaching was. He discovered that in the first minute, standing in a whitewashed room with Lira by the door and a line of heat singing on the wall between two coins of light. For a long time he had written down what happened after a fragment came: the sense of something settling into a place he had not known was empty, and then the notice, like a line somebody else had already written. He had never once made any of it begin. Wanting a thing turned out to be one skill and making it happen another, and he had only ever had the first.
 
 So he tried what he had.
 
@@ -214,13 +214,13 @@ Nothing happened.
 
 There was no settling and no sense of a space being filled, and no line appeared in front of him in anyone's handwriting. There was a boy standing at one end of a whitewashed room, watching a girl at the other end set small exact fires in the air, and wanting, and nothing else.
 
-"Nothing," he said at the end, more to the floor than to her.
+"Nothing." He said it when it was over, and he said it to the floor.
 
-"A null result is data." Karis was already writing, her pen going in its short economical runs, as unbothered as if he had told her the time. "We now know that demonstration intensity, sustained observation at nine paces, and deliberate intent on your part are not, together, sufficient. That isn't nothing. That's a boundary, and before today nobody knew where it was."
+"A null result is data." Her pen had started before he finished, going in its short economical runs, as unbothered as if he had told her the time. "Demonstration intensity, nine paces of sustained watching, and you meaning it: we now know those three together aren't enough. That isn't nothing. That's a boundary, and before today nobody knew where it was."
 
 "It feels like nothing."
 
-"It feels like nothing because you were hoping." She looked up at him then, and on anyone else he might have called the look kindness. On Karis it was nearer to respect, the plain respect of one worker for another who has just tried something hard and got no result and told the truth about it. "Hope is not a research methodology."
+"You were hoping, so it feels like nothing." She looked up at him then, and on anyone else he might have called the look kindness. On Karis it was nearer to respect, the plain respect of one worker for another who has just tried something hard and got no result and told the truth about it. "Hope is not a research methodology."
 
 By the door, Lira made a sound that might have been a laugh into her knees.
 

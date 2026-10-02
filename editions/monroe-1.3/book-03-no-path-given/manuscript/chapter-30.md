@@ -148,9 +148,9 @@ Karis went very still, the way she went still before an ignition, all of her lis
 
 "A dozen times. More. The same circle, the same time of day, the same work, as near as my notes could make it. Nothing."
 
-"Tell me everything you remember about the conditions."
+"Give me the conditions. Every one you can remember."
 
-He told her. It did not take long, which was the worst of it. There had never been much to tell, and he had told it to himself so often that the telling had worn smooth. She listened without moving. When he had finished she took him through it again, from the other end, starting from the moment itself and working backward to the morning, and then a third time from the morning forward. She asked about the weather, and what he had eaten, and whether Brom had been tired, and what Brom had been working on that week, and whether anyone else had been in the circle or near it or had just left it, and whether anything at all, anything, had been different. He answered all of it. Every answer built the same picture his notes had always built, a working afternoon like a hundred others with one second in the middle of it that did not belong.
+He told her. It did not take long, which was the worst of it. There had never been much to tell, and he had told it to himself so often that the telling had worn smooth. She listened without moving. When he had finished she took him through it again, from the other end, starting from the moment itself and working backward to the morning, and then a third time from the morning forward. She asked about the weather, and what he had eaten, and whether Brom had been tired, and what Brom had been drilling that week, and whether anyone else had been in the circle or near it or had just left it, and whether anything at all, anything, had been different. He answered all of it. Every answer built the same picture his notes had always built, a working afternoon like a hundred others with one second in the middle of it that did not belong.
 
 Karis was quiet a long time.
 
@@ -168,9 +168,9 @@ He said nothing. He thought, privately, of the page in the binder with his own h
 
 She opened the ledger again, but she did not turn to the nulls. She turned past them, past the plan she had drawn for the last sessions, to a page near the very back that he had never seen. There was a single short line on it in her small upright hand. She must have written it in the few minutes he had been talking. He could read it from across the room only because she turned the ledger toward him. *Session nine, Ardenmere, with B. One reading, Tide-like, under a second. Never repeated.* Beside it she made a small mark with her pen. It was not a letter or a number, nor any symbol he knew, only a short precise shape, made slowly and deliberately, the way a person signs a thing they mean to stand behind.
 
-"I have one category in this whole notebook that gets that mark," she said. "Real, unexplained, keep. It isn't a failure, and it isn't a hypothesis waiting to be proved. It's a fact I don't understand, written down as a fact I don't understand, instead of squeezed into some explanation that would comfort me and teach me nothing." She looked at the mark. "Most people can't bear to leave a thing like that alone. They explain it, because an explanation is more comfortable to carry than a question. Then they've got an explanation, and it's wrong, and they build on it."
+"That mark goes on exactly one thing in this whole notebook," she said. "Real, unexplained, keep. It isn't a failure, and it isn't a hypothesis waiting to be proved. It's something true that I don't understand, and I've written it down as exactly that. I haven't bent it to fit an explanation, the kind that comforts you and teaches you nothing." She looked at the mark. "Most people can't bear to leave a thing like that alone. They explain it, because an explanation is more comfortable to carry than a question. Then they've got an explanation, and it's wrong, and they build on it."
 
-He looked at the mark for a long time across the scrubbed floor.
+Across the scrubbed floor his eyes stayed on the mark a long while.
 
 He had carried session nine since the road the way a person carries a stone in a boot that nobody else can see, a weight nobody else would credit because it was a weight with no shape. He had never once been able to set it down in front of anyone who would neither explain it away nor shrug at it. Lira had believed him and been frightened; Brom had believed him and been puzzled. Neither of them had known where to put it. Karis had just put it, in front of him, in the most careful notebook he had ever seen, under the most exacting mark that notebook had, and left it there exactly as it was. It was not answered. Nothing about it had been answered. But it had been witnessed, properly, by somebody who knew what witnessing was, and he had not known until this moment how much of the weight of it had been the being alone with it.
 
@@ -182,7 +182,7 @@ He had carried session nine since the road the way a person carries a stone in a
 
 He wrote it that night in the binder, on the page set apart from the rest, behind the four sections. For the first time since the road he added something to that page, and he was careful that it was only one thing, and true.
 
-*Told Karis, in the third week of the nulls, because she asked properly whether the shape she could see was the whole shape. She took me through it three ways. No Tide anywhere near. Nobody watched. Nothing on it. It shouldn't exist. It exists. She marked it real, unexplained, keep, and it's the only entry in her notebook with that mark.*
+*Told Karis, in the third week of the nulls, because she asked properly whether the shape she could see was the whole shape. She took me through it three ways. No Tide anywhere near. Nobody watched. Nothing on it. It shouldn't exist. It exists. Her mark on it is real, unexplained, keep. Nothing else in her notebook carries that.*
 
 He looked at the line above it, the one he had written on the road and never once touched since, and left it as it was.
 

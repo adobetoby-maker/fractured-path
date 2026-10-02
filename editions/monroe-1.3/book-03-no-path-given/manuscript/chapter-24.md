@@ -44,7 +44,7 @@ Brom picked his spoon back up.
 
 The annex was a narrow room at the end of the archive passage, where the old waystation had kept something nobody remembered, and the academy now kept the binders for its irregular tracks. Lira had been past its door a dozen times without once looking in. It had one window high up in the wall, two chairs that did not match, and a table with a pale ring on it where somebody, years ago, had set down a hot cup without a saucer and been forgiven by nobody. Through the open door at the far end she could see the corner of Prynn's high desk and the old woman's grey head bent over a ledger. And she could smell the archive. Paper, glue, cold stone. The smell of everything that had ever been written down about anybody and kept.
 
-The envelope was already on the table when she came in.
+Someone had set the envelope out on the table before she arrived.
 
 She saw it before she saw Quenna, which annoyed her, because she had meant to walk in and look at the person first like a civilised human being. It was long and stiff and the colour of weak tea, with her name on the front in a clerk's round hand. On the back was a blob of green wax with Fenmark's crest pressed into it. She had last seen that crest at the top of a letter telling a twelve-year-old girl from the river quarter that she had been awarded a place. Green wax. She had forgotten the green. She had not forgotten anything else about the place, and somehow the green had gone.
 
@@ -126,7 +126,7 @@ She said it to the window, or to the room, or to nobody. Quenna did not answer, 
 
 "I remember a room." She heard her own voice, flat as a plank. "Four days after. They sent for me at the end of a lecture. There was a long table with a green cloth on it, and a jug of water that nobody drank, and three of them sitting behind it, and a man standing up at one end with a paper." She stopped. "I thought that was the hearing. I thought the three sitting down had decided."
 
-She had spent two years furnishing that room. That was the thing she had not understood until this minute, standing in a narrow annex with one sheet in her hand. She had furnished it like somebody setting up a house she meant to live in. She had added the jug and the cloth and the cold coming off the windows, and then, night after night, she had added the three faces, one by one, until she knew them better than her own. She had decided the man in the middle had wanted her gone from the start, because he had looked at her boots when she came in. She had decided the woman on the left, who had once moved Lira's grip on a training staff with two kind fingers in her first month, had argued for her and lost. She had needed that. She had needed somebody in that room to have argued for her and lost, because if somebody had argued, then there had been an argument, and if there had been an argument then she had been a question, and a question can be answered wrong.
+She had spent two years furnishing that room. That was the thing she had not understood until this minute, standing in a narrow annex with one sheet in her hand. She had furnished it like somebody setting up a house she meant to live in. She had added the jug and the cloth and the cold coming off the windows, and then, night after night, she had added the three faces, one by one, until she knew them better than her own. She had decided the man in the middle had wanted her gone from the start, because he had looked at her boots when she came in. She had decided the woman on the left, who had once moved Lira's grip on a training staff with two kind fingers in her first month, had taken her side and been outvoted. She had needed that. She had needed somebody in that room to have argued for her and lost, because if somebody had argued, then there had been an argument, and if there had been an argument then she had been a question, and a question can be answered wrong.
 
 She had argued with that room every night for two years. She had rehearsed better answers for it in the dark on the Ardenmere road, and on the walls of a dozen towns, and across the rings of a hundred bad circuit nights. She had told it she was sorry, and she had told it she wasn't, and she had told it the truth about the third turn so many times that the telling had worn a groove in her.
 
@@ -152,9 +152,9 @@ Lira looked at her. Quenna was sitting exactly as she had sat when Lira came in,
 
 "Procedures written for people who aren't expected to object are always short," Quenna said. "That isn't a judgment of you. It's a judgment of the people who wrote it, and the paper doesn't know the difference."
 
-Lira laughed then, once, a short ugly sound with nothing behind it.
+A laugh came out of Lira, a single short ugly one with nothing behind it.
 
-"I don't know whether that's better or worse."
+"Better or worse. I can't tell which."
 
 "It isn't either. It's simply true." Quenna turned her head very slightly toward the door, where Cael still stood against the frame, and back. "What you do with it is yours. On Thursday the panel will ask you a different question. Not what you did at fourteen. What you are now, on our floor, against our students, in front of three people who have read that sheet and are about to watch you. The record says Copper. They'll be measuring your advancement against that tier, and nothing else."
 
@@ -250,7 +250,7 @@ He was at his desk with the lamp low and the binder open when the knock came, tw
 
 She looked at him for a moment longer, and then she nodded once, and went back down the corridor to her own door without another word. He heard it close.
 
-He sat back down at the desk and looked at the clean page for a long time. Then he wrote what he could, which was what he had seen and nothing else, because the rest of it was hers.
+At the desk again, he sat over the clean page for a long time. Then he wrote what he could, which was what he had seen and nothing else, because the rest of it was hers.
 
 *Fenmark's record came. Lira read it in the annex with Quenna and me at the door. Four paragraphs, one sheet. She came out lighter than she went in. I don't know what's in it. She'll tell me Thursday, after the floor.*
 

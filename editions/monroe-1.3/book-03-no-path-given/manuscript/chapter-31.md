@@ -64,7 +64,7 @@ Gerda considered the word, as she considered every word, as if it were a clause 
 
 "Correctly," she said. "And the right way round, this time."
 
-Then she did look at the clock above the main hall door. She looked at it for a long moment. And she laughed. It was a short, surprised, rusty sound, as if it had not been used in a long time and had had to be found at the bottom of a box. Lira, who had kept her face still through two bouts of her own and one of Gerda's, did not manage it through that, and put her good arm round Gerda's shoulders, bruise and all, and held on.
+Then she did look at the clock above the main hall door. Her eyes stayed on it a long moment. And she laughed. It was a short, surprised, rusty sound, as if it had not been used in a long time and had had to be found at the bottom of a box. Lira, who had kept her face still through two bouts of her own and one of Gerda's, did not manage it through that, and put her good arm round Gerda's shoulders, bruise and all, and held on.
 
 Hobb passed them on his way to the gate. He did not stop. He slowed, as he had slowed at the rail after the exhibition, and looked at Gerda once.
 
@@ -100,7 +100,7 @@ Under the line she wrote one more sentence. She did not read it aloud. She turne
 
 *Twenty-two controlled sessions. Twenty-two nulls. We are missing a condition.*
 
-"I don't know what it is," said Karis. Her voice was perfectly level. "The pattern's real. I'd stake both notebooks on it. You watch, and then something comes. But watching isn't closing it, not at demonstration intensity, not at any distance or for any length of time I can sustain, not however hard you reach. Something else closes it, and whatever it is, it isn't in this room." She lowered the ledger. "I can't think of anything I could bring into this room that would be it, without breaking the line at the bottom of our page."
+"I don't know what it is," said Karis. Her voice was perfectly level. "The pattern's real. I'd stake both notebooks on it. You watch, and then something comes. But watching isn't closing it, not at demonstration intensity, not at any distance or for any length of time I can sustain, not however hard you reach. Whatever closes it is something else, and it isn't here with us." She lowered the ledger. "I can't think of anything I could bring into this room that would be it, without breaking the line at the bottom of our page."
 
 Cael said nothing. He stood with his hands at his sides and the binder under his arm, and he felt Lira's eyes on him from the door, steady, and did not look round. It was the hardest thing he had done in twenty-two sessions, harder than any of the reaching.
 

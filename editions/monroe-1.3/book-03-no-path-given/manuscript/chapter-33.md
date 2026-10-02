@@ -8,7 +8,7 @@ Cael was at the rail with the binder open on his arm. The instructor looked at h
 
 "I told him the observer would be watching my blocks until the fifth sitting, with my leave. He said, 'Then he'll see how it's done properly.'" She did not smile. "He meant it as a compliment to Ternhall. I've decided to take it as one to me."
 
-He watched four blocks that first week, and by the end of the second he understood why he had learned more about Ember in an afternoon than the circuit had taught him about any single Path in a season.
+He watched four blocks that first week, and by the end of the second he understood why he had learned more about Ember in an afternoon than a whole season on the circuit had ever taught him about one Path.
 
 On the circuit, people learned to fight from whoever was nearest. A Storm fighter in Ardenmere had been taught by a cousin who had been taught by a man in a tavern. Each of them had added something of his own and left something out, so that by the time the Path reached the ring it came wrapped in a whole family's habits. Cael had spent his whole time on the circuit reading those habits: a dropped elbow here, a breath held too long there, a shoulder that always came up before the hard ones because somebody's uncle had taught it to come up. They were tells, and they were gifts, and every one of them was an accident.
 
@@ -166,11 +166,11 @@ The rail made a sound. Karis did not. She laid two more points while Hobb was lo
 
 The fourth exchange lasted perhaps three breaths.
 
-The instructor dropped his hand, and Hobb set himself, and Karis, standing quite still with her off hand motionless at her side, laid four more points in the space of a breath. Then she joined everything she had, so that the channels lit across section two all at once with a sound like a drawn breath, faint lines of heat running from point to point to point along the boards in every direction a body might want to go, too many and too fast for Cael to count before he saw what they had made. He counted sixteen points. The section had been an open floor, and now it was a drawing of a floor, and between all the lines there were exactly two places a person could stand without crossing one. She was already walking toward the nearer.
+The instructor dropped his hand, and Hobb set himself, and Karis, standing quite still with her off hand motionless at her side, laid four more points in the space of a breath. Then she joined everything she had, so that the channels lit across section two together, with a sound like somebody drawing breath, faint lines of heat running from point to point to point along the boards in every direction a body might want to go, too many and too fast for Cael to count before he saw what they had made. He counted sixteen points. The section had been an open floor, and now it was a drawing of a floor, and between all the lines there were exactly two places a person could stand without crossing one. She was already walking toward the nearer.
 
 The other was three paces from Hobb, across two channels.
 
-Hobb looked at the floor for a long time. Cael watched him look at the two lines he would have to cross and remember the stove door, and weigh his boots, and his shins, and how far a body travels when it is thrown back twice.
+Hobb's eyes went down to the floor and stayed there. Cael watched him look at the two lines he would have to cross and remember the stove door, and weigh his boots, and his shins, and how far a body travels when it is thrown back twice.
 
 He put his hands down.
 
@@ -180,7 +180,7 @@ He put his hands down.
 
 That night Cael drew it.
 
-It took him an hour and most of a lamp's oil. He sat on the floor of his room with the binder open on the boards and Brom on his bed reading over his shoulder, because Brom had seen the bout from the rail and had opinions about heat that no notebook could supply. Cael drew section two from above, as a bird would see it, putting in every point where it had gone down and numbering them in the order she had laid them, and he drew the channels last, in a different ink, so that he could see what they had been for.
+It took him an hour and most of a lamp's oil. He sat on the floor of his room with the binder open on the boards and Brom on his bed reading over his shoulder, because Brom had seen the bout from the rail and held views on heat that no notebook was going to give him. Cael drew section two from above, as a bird would see it, putting in every point where it had gone down and numbering them in the order she had laid them, and he drew the channels last, in a different ink, so that he could see what they had been for.
 
 When he had finished he sat back and looked at it.
 
@@ -192,7 +192,7 @@ When he had finished he sat back and looked at it.
 
 He wrote it at the bottom of the diagram, because it needed writing.
 
-*She doesn't beat people. She turns the floor into an argument, and then she wins the argument. Most of them never notice it's about the floor until it's over.*
+*She doesn't beat people. What she wins is an argument, and she builds it out of the floor. Most of them never notice it's about the floor until it's over.*
 
 Brom took the binder off his knees and looked at the drawing for a long, silent while, and then put one blunt finger on a channel line.
 
@@ -260,11 +260,11 @@ Karis did not need to find it. Her lattice sat on top of it the whole time. Ever
 
 The seam was a door, and against her it would be standing open on every side.
 
-He sat with that for a long time in the cold, and then he went in and found Lira in the corridor outside her room, with her coat off and a towel round her neck from the pump.
+He stayed out in the cold with that a long while, and then he went in and found Lira in the corridor outside her room, with her coat off and a towel round her neck from the pump.
 
 "I need you," he said. "Every night until the sitting. I need you to be a lattice."
 
-Lira looked at him for a long moment with the towel in both hands, and her face did the slow thing it did when she had been waiting to be asked for something and was too proud to be glad about it in front of him, and was glad anyway.
+Lira held the towel in both hands and looked at him a long moment, and her face did the slow thing it did when she had been waiting to be asked for something and was too proud to be glad about it in front of him, and was glad anyway.
 
 "Chalk," she said. "And a sack of something to throw. I'll find the sack. You find the chalk." She went into her room and turned in the doorway. "And Cael. You'll hate it."
 

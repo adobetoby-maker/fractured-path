@@ -1,12 +1,12 @@
 # Chapter 39 — Three Clean Days
 
-He sat up late that Saturday, after Lira's door had shut and the corridor had gone quiet, with the binder open on the desk by the narrow window and the lamp turned low.
+Lira's door had shut and the corridor had gone quiet, and it was late on the Saturday, and the binder lay open on the desk by the narrow window under a lamp he had turned down almost to nothing.
 
-Three people had spent the last two days telling him what the match had cost, each in their own language.
+For two days the match had been sending him its bill, and the bill had come in three different hands.
 
-Quenna's language was the record's: a page that would stand only as long as nobody unfriendly ever saw him do it again, and a question he had no answer for. *Whether you can not do it.* Karis's language was the odder of the two, and the gentler. She had gone hunting in herself for two days for a cost, as carefully as she hunted for a fault in a table, and had found in its place something she wanted more of, which was its own kind of dizziness, because it meant that whatever was in him did not only take; it joined, in both directions, in ways none of them had a word for yet. And his own language was the oldest he had, the binder's: two misfires, dated and timed, the thing in him handing him a bill in half-seconds of nothing for something he had done without ever being shown the price.
+Quenna had written hers in the record's language. Her page would stand only until someone unfriendly watched him do it a second time, and under it sat a question he had no answer to. *Whether you can not do it.* Karis's had been the stranger and the kinder, for she had spent two days searching herself for a cost, as patiently as she would search a table for a bad figure, and where the cost should have been she had found something she wanted more of. That was dizzying in its own way, because it meant that whatever lived in him did not only take; it joined, the join ran both ways, and none of them had a word for it yet. The third hand was his own and the oldest, the binder's: two misfires, with the date and the hour, a price charged in half-seconds of nothing for a thing he had done without ever being told what it cost.
 
-He made himself write it out in columns, because columns kept a frightened mind honest better than sentences did, and sentences let you lean.
+So he put it in columns, because a frightened mind will lean on a sentence and cannot lean on a column, and he needed something that would not let him lean.
 
 *Known. A directed acquisition is possible. Once. Under six weeks of close watching, and then a match where she was trying with everything she had, against me, and I had nothing left.*
 
@@ -18,35 +18,35 @@ He made himself write it out in columns, because columns kept a frightened mind 
 
 *Unknown. Whether the cost grows, and with what. Whether some later one asks for something the older four can't pay.*
 
-He stopped, and looked at the last column a long time before he wrote in it, and when he did he wrote slowly.
+The last column stayed empty a long while, and when he did write in it, he wrote slowly.
 
 *Unknown. What it is for. Whether it's for anything.*
 
-He drew a small box round that line, his own private mark for *not yet*. He had drawn it round the session-nine page in the back of the binder, and round the line he had copied out of Vell's archive in a hand that was not his, and round every door he had ever found before he found the key to it. He sat back and looked at the little box, which looked very small for what was in it.
+Round that line he drew a small box, his own mark for *not yet*, which he had used before: round the session-nine page at the back, round the line he had copied out of Vell's archive in somebody else's hand, round every door he had found before he had the key to it. He sat back and considered it; for what it held, the box looked very small.
 
-Then he took up the pen again and wrote the sentence that had been gathering in him since the frozen ground of the formal yard, because plain was the only way he knew to hold something this size.
+The sentence had been gathering in him since he knelt on the frozen ground of the formal yard. He picked up the pen again and wrote it down plainly, because he knew no other way to hold a thing this big.
 
 *I need to understand what I'm actually doing before it gets someone killed.*
 
-He read it over. Nothing he had put in the binder since the week of Karis's hypothesis had been as true, and it was only half a sentence, and he could feel the rest of it waiting, so he sat with the pen in his hand until he could make himself be exact about it instead of brave.
+He read it back, and it was the truest line he had put in the binder since the week of Karis's hypothesis, and it was only half finished; he could feel the rest of it waiting. So he sat with the pen lifted until he could make himself say the rest exactly instead of bravely.
 
 *It isn't me I'm afraid for. I can carry my own bill; I've decided that. It's the three people who keep standing close enough to be in the room when I find out what the next one costs.*
 
-Brom came in a while past the hour when the corridor went silent, without knocking, and sat down on the floor across from the desk with his back against the wall and his legs out in front of him.
+Some while after the corridor had gone silent, Brom let himself in without knocking and lowered himself onto the floor across from the desk, put his back to the wall, and stretched his legs out in front of him.
 
-He did not say anything for a long time, sitting as he used to sit in the Ardenmere market square, saying nothing because nothing needed saying yet, the arbiter of interesting problems arrived at his post and in no hurry at all. The lamp burned down a knuckle's width, and somewhere below the old building ticked and settled.
+For a long time he said nothing, sitting as he had sat in the Ardenmere market square, the judge of interesting problems settled at his post, with nowhere else to be and nothing that needed saying yet. The lamp sank a knuckle's width while somewhere beneath them the old building ticked and settled.
 
-When he spoke at last it was not about the misfires, or Quenna's question, or the soft-cornered page in the back pocket of the binder.
+What he finally talked about was not the misfires, and not Quenna's question, and not the soft-cornered page in the binder's back pocket.
 
-"Back in Ardenmere," said Brom, "I told you one day you'd get to pick the word for what you are. Instead of having it picked for you." He tipped his head toward the binder, where the ink had not yet dried. "You just started choosing."
+"I said a thing to you once in Ardenmere," said Brom. "That the word for you would end up yours. Not something handed down to you by somebody else." His chin went toward the wet ink on the open page. "You just started choosing."
 
-Cael looked at what he had written.
+Cael looked down at the page.
 
-It did not feel like winning anything. It felt like the first honest weight he had ever put a real number on, and it was lighter, somehow, for being honest, than a comfortable vagueness would have been. On Thursday he had learned that he could reach, and since then he had learned what reaching cost, and on whom the cost could fall, and that the slow dated unglamorous counting of it was the only way of carrying this that he could live inside. Anybody could take. The choosing was in the ledger.
+Nothing about it felt like winning, but he had never before put a true number to something heavy, and he found that the honest weight sat easier on him than a vague and comfortable one would have. Thursday had taught him that the reach was there. The two days since had taught him its price, and whose shoulders the price might fall on, and that there was only one way of carrying it he could bear to live inside: the slow way, counting and dating, with no glory in any of it. Taking was something anybody could do. The choosing happened in the ledger.
 
-"It's a heavier word than I expected," he said.
+"It's a heavier word than I expected," Cael told him.
 
-"Most of the good ones are," said Brom. He did not move. He stayed where he was on the floor until the lamp had burned down so far that there was nothing left either of them needed to say.
+"Most of the good ones are," said Brom. He stayed where he was, on the floor against the wall, until the lamp had burned so low that nothing was left that either of them needed to say.
 
 ---
 
@@ -60,7 +60,7 @@ She came out with her coat collar up and her hands in her pockets and no noteboo
 
 "I know I don't." Karis did not move. "I'd like to anyway. For a while. Until I've got the hang of not."
 
-Lira looked at her for a long moment, and then something in her face gave, very slightly, and she nodded at the frozen earth beside the pump.
+Lira considered her a long moment. Then something in her face gave, very slightly, and she nodded at the frozen earth beside the pump.
 
 "Stand there, then. You'll see his feet."
 
@@ -188,7 +188,7 @@ Lira had the stories at supper, all six of them, and she counted them out at the
 
 "I told her it was true," said Cael.
 
-Lira looked at him for a long moment across the table.
+Across the table Lira studied him a long moment.
 
 "Good," she said at last. "You'd promised her." She took his bread and gave him back the larger half. "Four stories pulling different ways and two true ones nobody believes. Worry when they start to agree."
 

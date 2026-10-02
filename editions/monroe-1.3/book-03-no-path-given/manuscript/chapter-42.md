@@ -1,6 +1,6 @@
 # Chapter 42 — Correct Papers
 
-The gate clerk had never seen the seal before, and she did not know what to do with her face.
+The seal was new to the gate clerk, and her face could not settle on what to do about it.
 
 It was the middle of the morning on the Monday of the nineteenth week, between the second bell and the third, and the yard was full of the ordinary traffic of a school between lectures. Students crossed with books under their arms and kit over their shoulders, a cart of flour sacks was being checked in at the kitchen gate, and a second-year was being shouted at by somebody for leaving a door open. Cael was sitting on the low step of the lecture wing with the observation notebook on his knee, halfway down a page about Edran's off arm. He had watched the third structure come up whole four times in five that morning at the high windows, and he was trying to write down why, when something at the gate pulled his eyes off the page as a wrong note pulls a listener's head round.
 
@@ -8,7 +8,7 @@ There were two travellers at the clerk's booth. One was young, with a satchel on
 
 The clerk had it in her inky fingers and was turning it over. She looked at it a long time, much longer than she looked at anything that came through her booth, and Cael watched her look and knew what the look was. It was the look of somebody checking a thing against her memory and finding nowhere in her memory to put it. She said something. The older man answered, patiently, and took a second paper from a document case under his arm, folded once, the sort of extra proof a careful traveller carries for exactly this moment. The clerk read it, and put her finger on her list, and found something on the list, and the gate opened as it opened for anybody the list expected.
 
-Cael did not need to see the second paper.
+The second paper he never needed to see.
 
 He had sat across a borrowed desk from that patience once, a long time ago, in Ardenmere, with his hands pressed together on his knees and a paper of his own that he had found in a district archive in two days. He had learned its shape that afternoon without meaning to: a man who wrote everything down and never seemed to hurry, and never once, in the whole afternoon, wrote anything that was not so. The shape was older now, and more travelled, and there was more grey in it. It was built the same way underneath.
 
@@ -18,7 +18,7 @@ That was the part he would turn over afterward and never get to the bottom of. H
 
 Coss and the aide went in at the door of the old building, the one that led to the worn stair.
 
-Cael looked down at the notebook. He had written *third structure, four in five, whole* and then nothing. He did not write anything else. There was no version of what had just happened that needed the notebook to make it real.
+Cael looked down at the notebook. He had written *third structure, four in five, whole* and then nothing. He did not write anything else. Whatever had just happened was real already; the notebook could add nothing to it.
 
 ---
 
@@ -88,7 +88,7 @@ Now he had one, tired from the road, and it had known him at fourteen.
 
 "You've come to file something," he said.
 
-"I have." Coss brought out a second paper, a thick packet tied crosswise. "The enrollment is invalid as categorized. The category's own gloss reserves it for a candidate who *has not yet undergone formal Kindling assessment*. You were assessed, at the station in Denvash. The registry holds the date, and I hold the entry. The provision's drafting records show what it was written for, and it was not written for you." He set the packet on Naveth's blotter and squared it to the edge. "That is the case against the category. The case that makes it urgent is this one, Provost. A chartered academy that knowingly holds an invalid enrollment exposes its own charter to review. I'm not threatening you. I'm telling you why this can't be left alone."
+"I have." Coss brought out a second paper, a thick packet tied crosswise. "The enrollment is invalid as categorized. The category's own gloss reserves it for a candidate who *has not yet undergone formal Kindling assessment*. You were assessed, at the station in Denvash. The registry holds the date, and I hold the entry. The provision's drafting records show what it was written for, and it was not written for you." He set the packet on Naveth's blotter and squared it to the edge. "That is the case against the category. The case that makes it urgent is this one, Provost. Keep an enrollment on your rolls that you know to be invalid, and a chartered academy exposes its own charter to review. I'm not threatening you. I'm telling you why this can't be left alone."
 
 Naveth did not move his hands, and Cael, watching him, saw nothing at all on the long face, and understood that this was the most he had ever seen it hide.
 
@@ -102,7 +102,7 @@ He had watched Naveth slow a records request to the last legal hour, one requisi
 
 Everybody looked at the window; it was the first word she had spoken.
 
-"Forty years this provision has sheltered students here," she said, in a voice so level that it had plainly been chosen. "Late Kindlers. Disputed assessments. Children your registry filed wrongly and we caught. If the category falls, every one of them is a precedent somebody can pull on."
+"Forty years this provision has sheltered students here," she said, in a voice so level that it had plainly been chosen. "Late Kindlers. Disputed assessments. Children whose papers your own registry botched, set straight by this house. If the category falls, every one of them is a precedent somebody can pull on."
 
 "I've read the alumni ledger," said Coss. "I mean this: it does the academy credit." There was no heat in his voice at all, and somehow that was worse. "But it doesn't answer me. Every one of those students was what the provision was written for while it held them. None of them was a registered classification. Nobody had ever thought to ask it to cover one." He paused, and chose the next word. "Nobody had been *inventive* enough. This won't be a hearing about forty years. It'll be a hearing about a single student."
 
@@ -110,7 +110,7 @@ The room went still round the packet on the blotter, and when Cael looked at Que
 
 "How long," said Naveth, "until it's heard?"
 
-"Three weeks. The magistrate's office fixes the interval, not I, and I'd not ask to." Coss closed the case, and the clasp made a very small sound. "I've watched this provision put under strain before, in other districts. Three times. I have never seen it survive."
+"Three weeks. That interval is the magistrate's office's to set. It isn't mine, and I'd not want it." Coss closed the case, and the clasp made a very small sound. "I've watched this provision put under strain before, in other districts. Three times. I have never seen it survive."
 
 At the door, with the case under his arm, Coss paused and looked back, and that once he spoke to Cael rather than over him.
 
@@ -152,45 +152,45 @@ The aide looked at him as if that were the last answer he had expected, and then
 
 ---
 
-Brom had a stack of cups in front of him when Cael sat down, and he was building it higher one cup at a time, which meant he had heard something on the stairs already and was waiting to be told the rest properly.
+Brom was stacking cups, one on top of the next, slowly, and Cael knew from it before he sat down that some of the news had already climbed the stair ahead of him, and that Brom was waiting to have the rest of it given to him properly.
 
-"Tell it," said Lira. She had her boots up on the bench. "From the start. Not the short way."
+Lira had her boots up on the bench. "All of it," she said. "From the beginning. Not the quick version."
 
-So he told it the long way, at the end of the scarred table under the bricked-up hay door, as plainly as he had ever told them about a fragment. He gave them the gate and the seal, the open door, the card, and the word *Warden* with what was underneath it; the file held since his Kindling; the gloss and Denvash and the charter; the magistrate, the assembly room and the three weeks. *I have never seen it survive.*
+So at the end of the scarred table, under the bricked-up hay door, he gave them the slow version, as plainly as he had ever given them a fragment: the seal at the gate and Naveth's open door; the card, and the word *Warden*, and what lay under the word; a file kept on him since the day he Kindled; the gloss, and Denvash, and the charter; a magistrate, the assembly room, three weeks. *I have never seen it survive.*
 
-Lira took her boots off the bench at *field agent* and set them on the floor, slowly, both together.
+At *field agent* Lira lifted both boots off the bench and set them down on the floor together, without hurrying.
 
-She did not say anything, but he saw her face go back two years, to a girl reading nineteen words from Fenmark that nobody had let her see before they were used on her. It was the look of somebody who had found out young how high the machine went above any office with a door you could knock on.
+She said nothing, but he watched her face go back two years, to a girl being handed nineteen words from Fenmark that had already been used against her before anyone let her read them. It was the face of someone who had learned early how far the machine reached above any office with a door you could knock on.
 
-Karis had not opened her notebook; both her hands were flat on the wood, pressing down, as though she meant to keep the table where it was.
+Karis had left her notebook shut; both her hands lay flat on the wood, pressing, as if the table might otherwise get away.
 
-"Three weeks," said Brom, and put one more cup on the stack. "Public. Written down." He set the next cup on top with great care. "Who stands up for Greyvane?"
+Brom set another cup on the stack. "Three weeks," he said. "In public. On paper." The next cup went on with great care. "And who speaks for Greyvane?"
 
-"The academy's counsel. I think." Cael rubbed his face with his good hand. "That's for tomorrow. Tonight I wanted you to have it from me."
+"The academy's counsel, I think." Cael rubbed his face with his good hand. "That can wait for tomorrow. Tonight I just wanted you to hear it from me."
 
 "Coss," said Lira.
 
-Her voice was quiet, the voice she used when she meant to get something exactly right the first time.
+She said it quietly, in the voice she kept for things she meant to get exactly right on the first try.
 
-"Fourteen, you were. And he sat across from you. And then he wrote you down and followed you about the country, and waited for you to put a foot wrong." She looked at him. "And it's the job."
+"You were fourteen, and he sat down across a table from you. Then he wrote you down in a file, and followed you round the country with it, and waited for you to put a foot wrong." Her eyes came up to his. "And that's his job."
 
 "He meant it."
 
-"I know he meant it. You can hear it in how you say it." She leaned forward. "Be angry, then. Just aim it." She put one finger on the scarred wood between them. "Not at Coss; he isn't worth the fuel. Aim it at whatever hired a decent man and got that out of him. And keep it, because if you let his kindness put it out now, you'll walk into that room with nothing burning."
+"Of course he meant it. I can hear that in the way you tell it." She leaned in. "So be angry. Only point it somewhere." One finger came down on the scarred wood between them. "Coss isn't worth the fuel. Point it at what stands behind him, the thing that took a good man and made this his work. And hold on to it. If his being kind puts it out now, you'll walk into that room with no fire in you at all."
 
-Karis took her hands off the table at last and opened her notebook to a clean page, uncapping her pen slowly, like somebody taking a blade off a rack.
+Karis lifted her hands off the table at last. She opened the notebook to a clean page and uncapped her pen, slowly, the way a fighter takes a blade down off a rack.
 
 "What do you need?" she said.
 
 "I don't know yet."
 
-"Then I'll start without you." She was already ruling columns. "Paper wars go to whoever keeps the better index, and I've been keeping indexes since I was eleven."
+"Then I'll begin without you." She was ruling columns already. "A war fought on paper goes to the side with the better index. I've kept indexes since I was eleven."
 
-Brom finished his stack, seven cups high, and it did not lean.
+Brom put the last cup on, seven high, and it did not lean.
 
-"I've been counting too," he said. "Three hundred people in the formal yard and a panel of three, and not one of them could put a name to what you did, and the record held anyway. Then today one man walks up the hill with one card and says the paperwork won't hold you." He weighed the stack in both hands as if it were the argument. "Personally, I think the paperwork ought to be more worried than you are."
+"I've done some counting as well," he said. "Three hundred people in the formal yard, and a panel of three, and not a single one of them could name what you did, and the record held regardless. And today one man with one card climbs the hill to tell us the paperwork can't hold you." He lifted the whole stack in both hands, as though weighing the argument itself. "If you ask me, it's the paperwork that should be worried."
 
-Lira laughed, very nearly, and Karis wrote something down. Cael said nothing to any of them yet, because his real answer was still assembling itself somewhere under his breastbone, and he would not hand them a piece of it before he could see its whole shape.
+Lira nearly laughed, and Karis wrote something down, but Cael gave none of them an answer yet, because the real one was still taking shape somewhere under his breastbone, and he was not going to hand them a piece of it until he could see what it would be whole.
 
 ---
 

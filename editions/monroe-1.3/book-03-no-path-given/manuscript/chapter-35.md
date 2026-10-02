@@ -56,7 +56,7 @@ Halfway through the block she looked up and caught him watching.
 
 Neither of them waved or nodded. They had been watching each other for six weeks across a whitewashed room and a formal yard and the rail of this section, and it was the only language they had ever really spoken, and it did not need anything added to it. She looked at him for the length of one held point, and then let the point go, and its third of a breath of shimmer hung in the cold air between them, and she went back to her count.
 
-He knew her ignition to a quarter of a second and she knew his recovery to a count. Tomorrow both notebooks would be set against each other at full intensity, on a public floor, in front of a panel, in a contest that nobody had ever written down before.
+Her ignition he could time to a quarter of a second, and she could give his recovery to the count. Tomorrow the two notebooks would meet at full intensity, on a public floor, in front of a panel, in a contest that nobody had ever written down before.
 
 ---
 
@@ -172,7 +172,7 @@ Karis came down the long room and stopped across the table from him, and she did
 
 He noticed that before anything else. He had never seen her without one; even on the first day in the archive, with nothing in her hands, the notebooks had been in her coat, and he had seen the edges. Tonight her coat lay flat, and she stood with her hands at her sides and nothing in them, and it was the missing notebook, more than the girl, that he could not stop looking at.
 
-"No notes," she said, because she had seen him look. "Not tonight." She sat down across from him and folded her hands on the table where the notebook should have been. "I want to say something to you that I can't write down and give to anybody. It isn't research. It's coaching. I've never given you any. I think you ought to have it before tomorrow and not after."
+"No notes," she said, because she had seen him look. "Not tonight." She took the chair across from him, and her folded hands went to the place on the table a notebook would have filled. "This is something I can't put on paper and hand to anybody. It isn't research. It's coaching. I've never given you any. I think you ought to have it before tomorrow and not after."
 
 "All right."
 
@@ -196,9 +196,9 @@ Karis looked surprised, and then not.
 
 "Lira's a very good observer," she said. "She just doesn't write it down."
 
-"That's the first coaching you've ever given me."
+"You've never coached me before."
 
-"It's the only kind I have." She very nearly smiled, and for once she did not take it back. "I can't teach whatever you do. Nobody can. That's rather the whole point of you. But I do know how you teach somebody to quit watching themselves long enough to fight. Ternhall taught me that much. They'd be very surprised to hear what I was using it for."
+"It's the only kind I have." She very nearly smiled, and for once she did not take it back. "I can't teach whatever you do. Nobody can. That's rather the whole point of you. What I can teach is how a person stops watching themselves for long enough to fight. Ternhall taught me that much. They'd never guess what I'm spending it on."
 
 "And if nothing happens? If tomorrow's the same as the quiet room?"
 
@@ -216,7 +216,7 @@ At the door she stopped, with her hand on the frame, and turned back.
 
 "I've watched you for six weeks," she said. "You catalogue everything except yourself. Tomorrow, for three exchanges, don't catalogue. Just fight."
 
-She went out before he could ask her what she meant by the last part, which he suspected she had intended: it was a sentence built to be carried into sleep unfinished, so that it would still be sitting there in the morning when the panel called his name.
+Then she was gone, before he could ask what she meant by the last of it. He suspected that was on purpose. It was a sentence made to be taken to bed unfinished, so that it would still be there, waiting, when the panel called him in the morning.
 
 After the door had shut he stayed where he was for a long while, with the notebook lying shut on the table in front of him, and for once he left it that way. The reading room ticked and settled round him as old buildings do at night, the stone of the waystation letting the day's small warmth go out of it a little at a time. Prynn's lamp at the high desk had been put out, and only his own burned, low, at the end of the long table, and the shelves went back from its light into a dark that held more of other people's recorded lives than he could have read in ten years of evenings.
 

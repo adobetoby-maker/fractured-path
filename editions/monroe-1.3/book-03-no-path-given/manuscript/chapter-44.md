@@ -4,7 +4,7 @@ Nobody had stood up yet when Lira spoke, and nobody had expected her to be first
 
 She had sat through the whole council with her arms folded and her boots flat on the boards, saying nothing at all, and Cael had felt the nothing growing beside him like heat off a stove. Now she unfolded one arm and put a finger on the desk in front of him, hard, as if she were pinning a slip to a board.
 
-"Before anybody hands out jobs," she said, "I'm taking mine, and I'm taking it first, so it doesn't get left to the end and forgotten." She did not look at Naveth or Quenna. She looked at Cael. "You're a fighter. You've a sitting coming whether there's a hearing or not, and I'd put money on a man with a card at the back of it. You don't get to go down into the dust for three weeks and come up having forgotten what your feet are for. So I keep you sharp. The yard, every dusk, and I don't want to hear that you're busy being clever." Her voice stayed low, and it was harder than anything else she had said all morning. "When you walk into that room I want it to be you. Not a lawyer wearing your face. Lose yourself in the reading and I won't care how fine the argument is. You'll have lost the part I care about first."
+"Before anybody hands out jobs," she said, "I'm taking mine, and I'm taking it first, so it doesn't get left to the end and forgotten." She did not look at Naveth or Quenna. She looked at Cael. "You're a fighter. You've a sitting coming whether there's a hearing or not, and I'd put money on a man with a card at the back of it. You don't get to go down into the dust for three weeks and come up having forgotten what your feet are for. So I keep you sharp. The yard, every dusk, and I don't want to hear that you're busy being clever." Her voice stayed low, and it was harder than anything else she had said all morning. "When you walk into that room I want it to be you. Not a lawyer wearing your face. Get lost in the reading, and the argument can be as fine as you like; it won't matter to me. The part of you I care about will have gone missing first."
 
 For a moment nobody said anything, and Karis had already opened her notebook. She turned it sideways on the desk, so that it lay between all of them, and ruled a line down a clean page, and another across the top. On the left of the first row, in her small upright hand, she wrote *L.* On the right she wrote *keeps him a fighter*, and then she looked up at Lira and waited, pen lifted, to see whether she had got it right.
 
@@ -14,7 +14,7 @@ Karis wrote *dusk*.
 
 "The code's mine," said Cael. "With Prynn, if she'll have me."
 
-"She'll have you," said Quenna from the window, before Karis's pen had reached the page. "She's spent most of her life waiting for somebody who reads her shelves instead of asking her what's on them."
+"She'll have you," said Quenna from the window, before Karis's pen had reached the page. "Most of her life she's been waiting for someone who would read the shelves for himself, instead of standing at her desk asking what's on them."
 
 "I've got a thread," said Cael. "One. I need somebody next to me who'll say so when it's a real seam, and say it twice as loud when it's only the one I wanted."
 
@@ -40,7 +40,7 @@ Cael reached across and took Karis's pen out of her fingers. She let him. He tur
 
 Lira looked at the page upside down for a long moment.
 
-"Whatever's left of you," she said, "will still beat most people on a floor on their best day. Don't forget that either."
+"Even half of you," she said, "is more than most people are on a floor on their best day. Don't forget that either."
 
 ---
 
@@ -92,11 +92,11 @@ Prynn did not look surprised. She looked, very briefly, pleased, and then she pu
 
 "He sat at this table when he was about your age," she said. "A long time ago. He had it from me." She pushed the card an inch nearer to him. "I'm glad somebody's finally taken him up on it. He's been saying it to first-years for thirty years, and not one of them has ever come down here afterward to see whether he was right."
 
-He looked from the card to her, and felt a door come open onto a discipline he recognized.
+His eyes went from the card to her face. Behind the card, a door had opened on a discipline he knew.
 
 He was quiet a moment. "I read fighters like that," he said. "By what they've had to fix. Nobody practises a guard against a blow that's never landed on them. If somebody's drilled their left side until it shines, somebody once hurt them on the left."
 
-"Then you can read law already," said Prynn, dry as the shelves. "Nearly every reader who sits there thinks the text is a finished thing. It isn't. It's a thing that's stopped for the moment." She took off her spectacles and polished them on her cuff and put them back. "You'll save us a week."
+"Then half the work of reading law is done before you start," said Prynn, in a voice as dry as the stacks. "Nearly every reader who sits there thinks the text is a finished thing. It isn't. It's a thing that's stopped for the moment." She took off her spectacles and polished them on her cuff and put them back. "You'll save us a week."
 
 They worked through what was left of the afternoon.
 
@@ -104,7 +104,7 @@ She took the concordance and he took the text, and the first afternoon's work wa
 
 He drew the whole of it as a declaration tree, because that was the shape his thinking had been trained into, the way some people think in sums. When he turned the notebook round to show her, Prynn looked at the diagram for a long time. Then a noise came out of her that he had not known she could make, short and dry and dusty, and it was only afterward, walking out to the yard, that he understood it had been a laugh.
 
-"All my years at that desk," she said, "and the first honest drawing of the code anybody's ever shown me is a fight chart."
+"I've sat at that desk all these years," she said, "and the first honest picture of the code anyone has put in front of me is a chart of a fight."
 
 She went back to her desk, and he sat over the tree for a long while afterward until he looked up, because a lamp was coming toward him out of the founding stacks at the back, and it was Karis.
 
@@ -128,7 +128,7 @@ Footwork came first, until his legs remembered they were legs, and then the old 
 
 "The magistrate won't care about my shoulders."
 
-"Everybody cares about shoulders. They just don't know it." She swept his front foot, quick and economical, and he sat down hard on the frozen ground and laughed, where a year ago it would have shamed him. She held out her hand. "Every ranked fighter knows that, and every courtroom in the country, and you've had it from me for nothing."
+"Everybody cares about shoulders. They just don't know it." She swept his front foot, quick and economical, and he sat down hard on the frozen ground and laughed, where a year ago it would have shamed him. She held out her hand. "Ask any ranked fighter. Ask any courtroom in the country. You've had it from me free."
 
 He took her hand and got up, and the frozen earth had left a cold print right through the seat of his trousers.
 
@@ -144,7 +144,7 @@ Late that night in his room, with the observation notebook shut for once and the
 
 *New opponent. Four hundred pages, no tells, no third exchange.*
 
-He looked at the line a while. Then, because it was true, and writing down true things was the only method he had ever entirely trusted, he wrote what came after it.
+He looked at the line a while. Then he wrote what followed it, because it was true, and setting down true things was the one method he had never stopped trusting.
 
 *Three weeks. Study it as I'd study a fighter: no single question till I've seen the whole of how it carries itself. Prynn says read it in the order it was frightened. L. says come out at dusk and stand on a floor. Both of those are the same rule.*
 
