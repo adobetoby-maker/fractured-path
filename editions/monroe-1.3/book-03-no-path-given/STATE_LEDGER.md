@@ -537,3 +537,5 @@ Movement 2 CLOSED 2026-10-01 after repair r1 and two recheck line fixes (ch14 th
 - The Glass rule as stated in ch18 (see MOVEMENT-004 coordinator notes). No shin-shell in exchange 1.
 - Edran presses with a crowd: Wray's line, Hobb first at the rail. Quenna copied the record the night of the bout; fair copy later. Hesk's "back door" matches ch3. Lira has *read* what the half push cost. Brom's fetch column starts at 9 ("Days 1–15").
 - Exhibition record (ledger canon): three exchanges, a fourth at the petitioner's request; Cael 2, Edran 1; Edran's rib graze "unformed at contact. Glancing".
+
+Movement 3 CLOSED 2026-10-01 after repair r1 and four recheck line fixes (ch18 Edran cannot build a new structure *quickly* while another stands; ch21 recovery "three counts at every session before the exhibition"; two ch23 speaker tags restored). Final: 7 chapters, ~34.1k words; overlap 0; gates 0.

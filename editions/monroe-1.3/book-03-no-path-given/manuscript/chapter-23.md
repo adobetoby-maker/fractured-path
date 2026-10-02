@@ -36,7 +36,7 @@ He looked down at his hands.
 
 They sat for a while without speaking. Somewhere in the town below a door opened and shut, a tiny sound from far off with somebody's whole life on the other side of it that he would never know, and a lamp went out on the street worth walking, and then another on the street worth avoiding.
 
-"You're not afraid of it." It was not quite a question.
+"You're not afraid of it," he said. It was not quite a question.
 
 "I didn't say that."
 
@@ -148,7 +148,7 @@ He read it three times, standing on the corner in the cold with the valley sprea
 
 Lira waited beside him with the loaf under her arm and did not ask what the letter said. When he folded it at last and put it inside his coat, against the binder, she only nodded, as if something had been set down in the right place.
 
-"He mended the bench."
+"He mended the bench," Cael said.
 
 "Good."
 
