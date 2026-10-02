@@ -632,3 +632,5 @@ Movement 3 CLOSED 2026-10-01 after repair r1 and four recheck line fixes (ch18 E
 - [Drawn Channel] laid on floor and walls (a surface), never the air.
 - Lira's ch30 stair speech has content: "I counted… six breaths… Choose the size of what you're willing to lose, too. And tell me before, not after." "Short and sharp" (not "not repeatable").
 - Movement ends: Hesk's letter → wall → Quenna's note under the door (after the fourth sitting, her room, bring Karis) → a short log; Karis: if there is ever an honest test, she wants it to be her.
+
+Movement 4 CLOSED 2026-10-02 after repair r1 and five recheck line fixes (ch31 Gerda's catch "at the review"; ch29 the binder line quoted as written at ch22 — no *appetite*; ch28 Oona's Thursday-morning scene marked as earlier; ch31 "Session nine at Ardenmere"; ch30 the wet-cloth staging). Final: 8 chapters, ~36.6k words; overlap 0; gates 0.

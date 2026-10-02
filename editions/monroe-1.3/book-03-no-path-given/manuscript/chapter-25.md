@@ -1,0 +1,239 @@
+# Chapter 25 — The Other Direction
+
+The felt was still on the post when he came into section four on Tuesday, grey and thick and wound three times round the old oak. It was exactly as Karis had left it a week ago, as if the post had been waiting all that time to be asked something.
+
+Quenna stood at the chalk with her slate. Karis sat behind her line on the borrowed stool with her two pens laid side by side on the boards. Brom had come as witness again, under the clause in the first terms that let any of the three of them walk into a session without notice, and he was leaning on the far side of the post with his sleeves rolled, ready to be useful. Nobody had told him to bring anything, and he had brought a heel of bread in his coat pocket anyway, in case the hour ran long.
+
+They began with the framework, because they always began with the framework, and Karis timed his recovery between passes at the working speed against the mark on her page.
+
+"Three counts," she said, when he had finished. "Last week it was four. The ribs have stopped minding."
+
+"The ribs still mind on the stair."
+
+"The stair isn't in my notebook." She wrote anyway, a short line, and he was nearly sure it said *stair* somewhere in it. "The lead is unchanged. A quarter of a breath. It hasn't moved since the first session, through the exhibition and the ribs and the week after. Whatever else changes in you, that doesn't."
+
+Then the post. He laid his palm flat on the felt and shut his eyes, and on the far side Brom leaned and shifted and leaned again, doing his level best to be unreadable, and for a long time there was nothing in Cael's hand but cloth and wood and the cold. Then, low on the right of the post, a faint thickening came through the felt, like a breath held on the far side of a wall, and a moment later Brom's weight went right.
+
+"Right," said Cael, a fraction late.
+
+"Right," Brom agreed, sounding aggrieved about it.
+
+It came three times in twenty that afternoon, once more than last week. Every time, Karis wrote it down and read it back to him in his own words, and every time he listened to her read it and changed nothing, because she had heard him exactly as he had said it. When the hour was done Quenna signed the strip and tore it off and handed it to him, and went out with her slate under her arm. Brom went with her as far as the door and then stopped there, because Karis had not stood up.
+
+She was squaring her notebook against her knee. She squared it once, and then a second time, and Cael had learned what the second time meant. It meant her mind had finished arriving somewhere and her hands were catching up.
+
+"Brom, would you stay?"
+
+Brom came back from the door and stood at the rail without a word.
+
+"I want to put something to you," Karis said to Cael, "and I'd like a witness to the asking. What I'm going to ask isn't covered by any of the seven clauses we signed in the stable, and I don't want there ever to be a question of what I said or how I said it." She set the notebook down on the boards beside her, closed. "I want to offer myself as a source."
+
+He did not understand her for a moment. Then he did, all at once, and stood very still by the post with his hand still on the felt.
+
+"Controlled conditions," she said. "My own declarations, at demonstration intensity, sustained, on a schedule we agree. You watch, as closely and as long as you like. And while you watch, you try. On purpose. To take something." She said it plainly, without any softening, every word set down whole. "If what you have can be aimed, that's the cleanest test anyone could design. If it can't, we'll know that too, and it will still be worth knowing."
+
+Brom, at the rail, had gone so still that he might have been one of the posts himself.
+
+Cael took his hand off the felt.
+
+It was not a small thing she was offering, and he did not let himself pretend it was. He knew what it was from the other end, from the end where he had always stood without knowing he was standing there. Every name at the front of the binder had been there when something came to him, and not one of them had been told, beforehand or after, by anybody, that it could happen. Lira had not been asked. Brom had not been asked; he had held out his arm to be read because Cael had asked him to stop being careful, and that was not the same thing at all. Karis was offering to walk up to the front of that line on purpose, knowing what she had already worked out stood at the far end of it, with her notebook open.
+
+"Why?"
+
+She had expected the question. He saw that she had expected it, and that she had decided long before she sat down which of her answers was the true one.
+
+"Because whatever you've had so far, nobody stood in front of it on purpose. Whoever was there when it happened, it happened to them as much as to you, and nobody asked them first. Not Lira. Not Brom." She did not look at the rail when she said Brom's name, and Brom did not move. "I can be asked. I'm asking to be. That may be the only clean version of this anybody will ever be able to run. I'd rather it was run clean, by people who'll write it down honestly, than found out by accident in some room where nobody is writing anything."
+
+"And if it works?"
+
+"Then it works, and we'll know something real about the only question I've cared about since a lecturer made a joke in a hall last winter." For the first time something hesitated in her face, very briefly. "And if it doesn't, we've closed a door, and I'll know where the wall is. I don't do well with a boundary I can't see. You may have noticed that about me."
+
+He had noticed. Karis circled an open question the way other people circled an unpaid debt, coming back to it at odd hours, unable to leave it alone until it was settled in one direction or the other.
+
+"I'm not going to answer today," he said.
+
+"I'd think less of you if you did." She picked up her notebook and her pens, and stood, and folded the stool under her arm. Then she paused. "It's Lira's week. I know that. If you'd rather the question waited until Friday, it can wait. I can carry it four days."
+
+"She'd want to know it had been asked." He was sure of that as he said it. "She'd want to know the day it was asked. That's the rule."
+
+Karis considered him for a moment, the way she considered a timing that agreed with something she had written before, and nodded.
+
+"Then tell her," she said, and went out with the stool.
+
+Brom came off the rail at last and stood beside the post, and looked at the felt, and then at Cael.
+
+"Well," he said. "That's a thing to have put in front of you on a Tuesday."
+
+---
+
+He found Lira on the wall, where he had known he would, because it was the second night after the annex and she had been out there both nights with her knees drawn up and her coat round her and the cold coming off the stone.
+
+He had stood at the residence wing door for a long minute before he came out. He had promised himself that he would carry nothing of his own across to her this week, and here he was, two days into it, carrying the largest thing anyone had ever handed him. He had very nearly gone back up the stairs. Then he remembered the rule they had made in Ardenmere and renewed on this same wall four nights ago: tell her when he knew a thing, and tell her when he wasn't sure. The only thing that would ever cost him with her, she had said, was knowing and keeping it. He came out.
+
+"You've got a face," Lira said, before he had sat down, "like you're carrying soup up a stair."
+
+"I am."
+
+"Sit down before you spill it, then."
+
+He sat. The valley below them was black, and the lamps of the hill town were scattered down the slope, and over the training yard the stars were very sharp in the cold. He told her. He told it the way he told her everything that mattered, nearly word for word: Karis's offer and her reasons and her plain refusal to soften any of it, Brom at the rail like a post, and the last thing Karis had said, that she could carry it four days if it was Lira's week.
+
+Lira listened all the way through without interrupting, with her chin on her knees. When he had finished she was quiet for a long time.
+
+"She offered," she said at last. "You didn't ask her."
+
+"She offered. I haven't said yes."
+
+"Say yes."
+
+He turned his head.
+
+"Say yes," said Lira again, to the dark yard. "I told you on this wall to go and find out whether it was real. This is what finding out looks like, when somebody walks up and hands you the honest way to do it with both hands. She knows what she's offering better than any of us ever did. That's the whole difference, and it's a big one." She was quiet a moment. "Nobody asked me, in Ardenmere. Nobody asked you either, come to that. You didn't know there was anything to ask. She's asking. Let her."
+
+"You're sure."
+
+"No. I'm never sure about anything that matters before it's happened. I'm sure it's the right way round." She unfolded one arm and pointed a finger at him in the dark. "Terms on paper, though. Again. Every time. That part never gets skipped because everyone's got comfortable with each other."
+
+"Every time."
+
+"And tell her enough to make it honest." Lira tucked the hand back under her arm. "Not the binder. She's never asked for the binder and she never will, and that's hers to keep. But if she's going to stand in front of you on purpose, she ought to know what she's standing in front of. More than two things. That much."
+
+He thought about that, and found she was right, and that he had known she would be.
+
+They sat for a while. Down the hill a cart went along the street worth walking, slowly, its lamp swinging, and turned the corner by the grey building with the board over its door and was gone.
+
+"How is it," he said carefully, "being in your week?"
+
+Lira did not answer at once.
+
+"Better than I thought," she said. "Strange. I keep putting my hand in my coat to check it's still heavy, and it isn't." She bumped his shoulder with hers. "It was good to think about somebody else's paper for half an hour. Thank you for bringing me some."
+
+"I nearly didn't."
+
+"I know you nearly didn't. I watched you stand in that door for the length of a lecture." She stood up off the wall and shook out her coat. "Don't ever nearly not, Cael. That's the only thing I'll ever be cross with you about, and I'd hate to waste it on soup."
+
+---
+
+Brom delivered his opinion at breakfast, between spoonfuls, as he delivered most opinions he had spent the night on.
+
+"She spent eight months reading about you in other people's handwriting," he said to his porridge, "and then she walked into the room where you were and asked if she could ask. And now she's asked to stand in front of the thing she spent eight months reading about." He ate. "Either that's the soundest head at this academy or the softest, and I'd like to know which before the barley runs out."
+
+"That's a yes," said Lira, who had come in late with her hair still wet from the pump and a dark loaf under her arm that she had certainly not paid for.
+
+"It's a benediction," said Brom. "From me, that's a yes with its hat on."
+
+Cael went to Quenna after the second bell, because there was a thing he could not do honestly until he had asked it, and he did not want to do it any other way.
+
+She was in the assessors' room off the main hall with her slates, alone, and she looked up when he came to the door and waited.
+
+"May an observer watch a student practise her own declarations, in a room of her own, if she invites him?"
+
+Quenna set her pen down.
+
+She looked at him for a long moment, and he could see her turning the question round, looking at it from below and from either side, as he had once watched her look at the words of the provision. She did not ask who the student was. She did not ask why. He had not expected her to, and still he felt something loosen in him when she didn't.
+
+"An observer may watch anything the academy lets anyone watch," she said at last, "and anything a student of full standing invites him to watch. That's what the category is. It's the one thing it gives you freely." She picked her pen back up. "You don't need my leave for it. It isn't one of my sessions, and it won't be in my record. I'd prefer to keep it that way."
+
+"So would I."
+
+"Then keep it that way," said Quenna, and went back to her slate. As he turned from the door she spoke again without looking up. "And keep it honest, Cael. Whatever it is. You know how."
+
+They wrote the terms at the scarred table at the midday meal, all four of them, in the corner farthest from the fire.
+
+Karis had brought a clean sheet and both her pens, and she laid them squared in the middle of the table and did not touch them until everyone had sat. Lira took the corner with her back to the wall. Brom took the end, and Cael sat across from Karis. Before anybody said anything at all, he told her the thing Lira had said on the wall that she ought to know.
+
+"You've seen two things I do," he said. "The framework and the read. There are more than two. I won't say how many, or what, and none of it is for paper." He made himself hold her eyes. "Each of them came after I'd watched somebody for a long time. That much you'd already worked out, from outside. I'm telling you it from inside, so that you know what you're offering to stand in front of."
+
+Karis did not move for a long moment. Her hands lay flat on either side of the clean sheet, and he saw the fingertips of the left one press, very slightly, against the wood.
+
+"Thank you," she said. "It isn't going on paper. It isn't going anywhere."
+
+Then she picked up a pen.
+
+They built it in under an hour, because they had done it once before and knew now where the joints were. Lira wanted the first clause and got it, and Karis wrote it in her small upright hand: *1. Consent for each session is given aloud at its start, and may be taken back with one word at any moment, without reason.* Brom wanted the second, because it had been his kind of clause the first time, and he wrote it himself in his large square capitals, three lines where anybody else would have taken one: *2. NOTHING ABOUT HOW IT WORKS GOES IN ANY RECORD THAT ANYBODY OUTSIDE THESE FOUR CAN READ.*
+
+"Is there going to be a clause about barley," Brom asked, when he had finished.
+
+"No," said Lira.
+
+"I'm only asking. Every time."
+
+The third clause was Lira's again: that she and Brom would know the general shape of what was happening, and could come to any session as witnesses under the same rule as before, without notice. The fourth was Cael's, and Karis wrote it the way he said it, word for word: her ledger for these sessions would record the conditions and the result and nothing else. And the old sixth clause still held, the one from the first terms that let him read every word she wrote about him before it existed anywhere else, and keep a copy.
+
+"What counts as a result?" Lira asked.
+
+"What happens," said Karis. "Or doesn't. If nothing happens, the result is nothing, and I write nothing, exactly."
+
+Then she read the four clauses aloud, twice, as she had read the first terms, and set the pen down, and picked it up again.
+
+"There's one more. It's mine."
+
+She wrote it below the others without numbering it, slowly, in a hand that did not change size at all.
+
+*If anything at all happens to the source that the source did not choose, the session ends that moment. There is no discussion.*
+
+She turned the sheet round so that it faced him.
+
+Cael read it. Then he read it again, and then a third time, and somewhere in the third reading he understood why he could not stop. It was the first rule anyone had ever written down to protect somebody from him. Every rule he had ever met had been written to protect the world from what he was, or to protect him from the world, or to protect some office from having to decide anything about him at all. This one was written to protect a girl of sixteen from a boy across a table, by the girl herself, in a hand that had not shaken once. He found that he was glad it existed. The gladness was not at all comfortable to hold.
+
+"That one's right," said Lira quietly.
+
+"It's the most important line on the page," said Karis. "If I didn't write it, I'd be asking you to trust that I'd stop. I don't want trust in this. I want a rule."
+
+They signed it in the same order as the first time, Karis and then Cael and then the two witnesses under them, and Karis folded the sheet into her own first notebook beside the card she had once written her declaration on. Nobody said anything about where she had put it.
+
+---
+
+The quiet room was at the far end of the training hall, behind a narrow door Cael had walked past fifty times without ever reading the board beside it. It was one of two small rooms the academy kept for students practising a new declaration in private, because a new declaration was nobody's business but the person it had been given to, and the board said only that. A slate hung on a nail by the door, and on the slate, in Karis's hand, it said *K. — declaration practice, sixth bell*, which was true.
+
+It was a whitewashed box six paces wide and nine long, with a scrubbed floor and a single high window and nothing else at all. Karis stood at one end of it and Cael at the other. Lira had come, under the third clause, and sat on the floor against the wall by the door with her knees drawn up. Tomorrow was her review. She had said that watching something that wasn't her review was the best possible way to spend the day before it.
+
+"I consent," said Karis, "to this session," and wrote the hour.
+
+Then she began.
+
+He had watched her Ember a dozen times from the edge of a section and twice in a formal yard, and he still found that he had to make himself breathe when she worked close. She did not throw heat about the way circuit Ember did, in sheets and gouts that cleared a ring. She set it. A point bloomed in the air at the height of her shoulder, a dim warm light the size of a coin, like a coal glowing through paper. It stayed exactly where she had put it, steady as a lamp, until she let it go on her count. Then it was gone, with that faint third of a breath of shimmer after it, like heat over a summer road. Then two at once, at the same height, a pace apart. Then two again, laid on the whitewash of the end wall, and this time she joined them. A thin line of heat ran along the wall between them with a sound like a kettle a moment before it sings, and held while both points held, and the smell of warm stone came across the room to him, and the hair on his forearms stood up.
+
+*Drawn Channel*, he thought. *Iron Rank Three.* He had read the receipt once, on a card on the stable table, and he was watching it be spent.
+
+And underneath the watching, for the first time in his life on purpose, he reached.
+
+He did not know what reaching was. He discovered that in the first minute, standing in a whitewashed room with Lira by the door and a line of heat singing on the wall between two coins of light. For a long time he had written down what happened after a fragment came: the sense of something settling into a place he had not known was empty, and then the notice, like a line somebody else had already written. He had never once made any of it begin. Wanting a thing to happen and knowing how to make it happen turned out to be two different skills, and he had only ever had the first.
+
+So he tried what he had.
+
+He tried attention first, all of it, the whole of his looking laid on her the way he had once laid it on Reydan in the third exchange. Every scrap of him pointed at the place where her off hand went still a quarter of a breath before each bloom. Nothing came of it but the timing, which he already had.
+
+He tried something like invitation. He found the place in himself where the four sat, if they sat anywhere, and held open the space beside them, absurdly, like a hand held out across a room to someone who has not seen it. He felt foolish doing it and kept doing it until she had laid six points and let them go.
+
+He tried wanting. That was the easiest of all to produce, plain and bare, and he was ashamed of how easy, and he let himself feel the shame and kept wanting through it, because it was data whether he liked it or not.
+
+Last of all, near the end of the hour, he tried to rebuild the stillness he remembered from the moments that had mattered most, the strange quiet that had sat in him at the top of the Reydan bout before anything changed. He built it the way a person tries to remember exactly how falling asleep feels, carefully, piece by piece, knowing all the while that the remembering was the thing in the way. He stood inside it while she laid a sustained point and held it to a count of thirty, steady, and let it go.
+
+Nothing happened.
+
+There was no settling and no sense of a space being filled, and no line appeared in front of him in anyone's handwriting. There was a boy standing at one end of a whitewashed room, watching a girl at the other end set small exact fires in the air, and wanting, and nothing else.
+
+"Nothing," he said at the end, more to the floor than to her.
+
+"A null result is data." Karis was already writing, her pen going in its short economical runs, as unbothered as if he had told her the time. "We now know that demonstration intensity, sustained observation at nine paces, and deliberate intent on your part are not, together, sufficient. That isn't nothing. That's a boundary, and before today nobody knew where it was."
+
+"It feels like nothing."
+
+"It feels like nothing because you were hoping." She looked up at him then, and on anyone else he might have called the look kindness. On Karis it was nearer to respect, the plain respect of one worker for another who has just tried something hard and got no result and told the truth about it. "Hope is not a research methodology."
+
+By the door, Lira made a sound that might have been a laugh into her knees.
+
+"Tomorrow?" said Karis.
+
+"Not tomorrow," said Cael, and looked at Lira. "Tomorrow's hers."
+
+"Of course." Karis wrote one more line and turned the ledger round, as the fourth clause said she must, and he went down to her end of the room and read it.
+
+*Session one. Source: K., Ember Path, Iron Rank Three. Intensity: demonstration. Consent given aloud. Distance nine paces. Duration one hour. Declarations: single ignition points; paired points; one Drawn Channel, laid on the end wall; one sustained point, count thirty. Subject's reach: attention, invitation, want, rebuilt stillness, in that order. Fragment notice: none. Result: null. No change in source.*
+
+"Saturday," she said. "After both reviews are done."
+
+"Saturday," he agreed, and she went out with her ledger under her arm, and Lira got up off the floor and stretched until her back cracked.
+
+"Well," she said. "That was the dullest thing I've ever watched." She looked at him sidelong. "I loved it. Walk me to my door. I've got a floor in the morning, and I want to go to sleep thinking about somebody else's nothing."
