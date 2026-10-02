@@ -49,3 +49,16 @@ Week 17. Five fragments, one chosen. A question he cannot answer, filed nowhere.
 - Karis's newest declaration is [Drawn Channel] (Iron Rank 3; Movement 2). Her "lattice" in
   this movement must be composed geometry built from existing declarations, not a further
   declaration above [Drawn Channel].
+
+## Coordinator notes (Movement 4 review, 2026-10-02)
+
+- **Quenna's proposal of the match** happens in week 12 (Movement 4 ends on her note: after the
+  fourth sitting, her room, bring Karis).
+- **Karis knows** there are "more than two" capabilities (no count, no names); she has never seen
+  the binder; she does NOT know the stakes hypothesis (Book 4 ch9 needs "I did not know what it
+  was"). Lira knows the hypothesis; Brom knows its general shape.
+- **The null sessions** are Karis's own declaration practice with an invited observer — off every
+  record; Quenna chose not to know more. Twenty-two nulls ran from week 9; "We are missing a
+  condition" is written at session 22.
+- **Ledger canon:** Gerda's review reconsideration clause (her arc closed in Movement 4); Wray will
+  redraw the ceiling curve at term's end.

@@ -49,3 +49,15 @@ A designation where there was only a dark place, a word he has not said to Lira,
 
 - Alis at the healers' was already said in Hesk's Movement 4 letter; the cutaway shows it rather than re-announcing it.
 - Renn II: Vell held the rematch "till the turn of the month after" day 38; if it lapsed, Cael asks again — a rebook, not a trap.
+
+## Coordinator notes (Movement 5 review, 2026-10-02)
+
+- **The plant:** in Lira's bout with Brenna (Movement 5, fourth exchange) she over-commits on her
+  right and is clipped; Cael noticed it once and kept it out of her report. Name the habit here,
+  and make his withholding cost him something with Lira.
+- **Time:** about five weeks have passed since Cael's Brenna bout by Movement 5's close (day 15 →
+  day ~53), not three.
+- **Approved Movement 5 canon:** the post's layout (front counter; upstairs office behind a thin
+  plank wall; the reading room below); the sealed-file procedure (handed sealed in Denvash, opened
+  in Ardenmere before Halvern); Coss's register of authorization codes; Lira's circuit rating
+  Copper 3; her lodging and savings tin; Vell knows "Hesk-ward" and keeps it out of the book.

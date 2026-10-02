@@ -539,3 +539,96 @@ Movement 2 CLOSED 2026-10-01 after repair r1 and two recheck line fixes (ch14 th
 - Exhibition record (ledger canon): three exchanges, a fourth at the petitioner's request; Cael 2, Edran 1; Edran's rib graze "unformed at contact. Glancing".
 
 Movement 3 CLOSED 2026-10-01 after repair r1 and four recheck line fixes (ch18 Edran cannot build a new structure *quickly* while another stands; ch21 recovery "three counts at every session before the exhibition"; two ch23 speaker tags restored). Final: 7 chapters, ~34.1k words; overlap 0; gates 0.
+
+## After Movement 4 (chapters 24–31; repair r1 applied 2026-10-02; recheck pending)
+
+### State (from state/movement-004/AUTHOR-REPORT.md, as drafted; r1 changes below take precedence)
+
+
+**Calendar.** Last day of week 11, evening. Frost back after two days of rain. D4 is posted for the eighth day of week 12, first bell, training hall. Oona's Kindling is posted (seven weeks and two days from Thursday of week 10, so week 17), at the town station, second bell.
+- Wk9 Mon: the annex. Tue: session, Karis's offer, the wall. Wed: Brom, Quenna, terms, null 1. Thu: Lira's review, Brom's wall, dusk wall. Fri: Gerda's review. Sat: Gerda's history, nulls 2–3. Sun: null 4, Hobb sparring.
+- Wk10 Mon: Gerda's form filed. Nulls 5–14 through the week (two days doubled; null 12 the long Saturday). Thu: Oona's question. A mid-week night: the full slow push. Last evening: read-back; that night the hypothesis.
+- Wk11 Mon: Lira told; Gerda's hit; the fast catch (night). Tue: Oona and Karis; Wray/Edran/Brom; Tuesday session; null 15. Wed: null 17 (16 earlier). Later: null 19 and the Tide anomaly told; 18, 20, 21 off-page. Last day: Gerda's supplementary bout, null 22, Quenna's note, Hesk letter, wall.
+
+**Cael's body.**
+- Breastbone: sore after the full push (week 10), again after the fast catch; tender.
+- Right shoulder: locked overnight after the full push; the Reydan complaint unchanged.
+- Left elbow: mild swelling from the full-push misroute; fading.
+- Left hand: numb about an hour after the fast catch; recovered.
+- Ribs and forearm graze from D3: healed. Recovery between framework passes was five counts after the fast catch (week 11 Tuesday); Quenna told him to come to D4 rested.
+
+**Abilities.**
+- **Wind-adjacent.** Not used in public. Lead held at a quarter of a breath, thinning narrowly after the fast catch.
+- **Iron-adjacent.** Felt on the post: thickening three in twenty (wk9). **Plant:** at three paces with the read open, a thickening at the coordinate of Karis's next point before ignition, three in about twelve (null 12), twice in null 22. No theory attached; Karis wrote it in his words.
+- **Pressure-adjacent.** Unused. Banked.
+- **Compression-adjacent.** Full slow push, once, on the eighth try (choose the whole road and do not change it); cost more than double the half. First fast catch: a quarter of a quick palm strike, once, on the eighth try, by waking the fragment before the strike; cost arrives instantly. "A quarter fast cost more than the whole slow." The drop still has no cost found.
+- **Directed acquisition.** Twenty-two controlled nulls from week 9, varied by distance (nine, seven, five, three, one pace), duration (a quarter-hour to three hours), declaration type (single, paired, held to 100, floor-laid, announced/unannounced, Drawn Channel), source state, witness and reach (attention, invitation, want, rebuilt stillness, under irritation, all at once). No notice, no arrival, no texture. Cael's written hypothesis: watching necessary, not enough; it takes what's used on him; stakes are part of how. Untested.
+- **Tide anomaly.** Told to Karis in the third week (null 19). Not reproduced, felt, explained or reframed. Her mark "real, unexplained, keep," the only entry with it. Cael added one factual line to the session-nine page.
+
+**Record exposure.**
+- Lira's review: "Advancement inconsistent with recorded tier. Recommend continued track with priority review." Her tier stays Copper; the dot stays.
+- Gerda's review: "Performance consistent with recorded tier. No advancement demonstrated against the originating record. Recommend reconsideration of candidacy at the term's end." Supplementary: "…came out of her own declaration under live opposition and committed fully, at cost, twice. The recommendation of reconsideration is withdrawn. Continued track."
+- Null sessions: the quiet-room slate reads only "K. — declaration practice". Karis's ledger holds conditions and results (clause 2 of the second terms); no academy record holds anything. Quenna knows only that an observer may watch an invited student.
+- Cael's supervised sessions continue (Quenna, section four, post work). Nothing new entered.
+
+**Knowledge.**
+- **Cael:** holds the stakes hypothesis (binder). Knows Lira's four paragraphs. Knows Brom's wall. Knows Gerda's history.
+- **Lira:** knows the hypothesis and that he has not told Karis; holds it with him. Has read Fenmark's record; keeps the four paragraphs in her coat. Knows "more than two" were told to Karis.
+- **Brom:** knows the general shape; was present at the offer, witnessed nulls; knows the Tide anomaly has been shown to Karis.
+- **Karis:** knows there are "more than two" capabilities, each after long watching (inside knowledge, not for paper). Knows session nine. Does NOT know the stakes hypothesis; wrote "We are missing a condition." Has never seen the binder.
+- **Quenna:** knows an invited-watching arrangement exists, nothing more; has seen the fast-catch fatigue; has summoned Cael and Karis for after D4.
+- **Gerda:** knows Lira's review result and Lira's help; nothing of Cael's.
+- **Oona:** has asked about Kindling; has seen one of Karis's points over her palm.
+
+**Relationships.**
+- Lira and Gerda: Lira chose to help unasked; sparring, the clause, the form; Gerda laughed.
+- Karis and Cael: twenty-two sessions; the mark; she volunteered, witnessed, to be the test.
+- Lira and Karis: Lira asked for the second terms and is frightened for Karis ("Don't you ever make her the stakes").
+- Edran and Cael: Edran asked Cael to tell him if his third stops getting thicker; Cael said yes.
+- Hobb: Gerda's furniture; smiled once.
+- Hesk: a "nothing happened" letter goes down on the third-day post.
+
+**Supporting-cast decisions.**
+- Lira: read the file; spent hits; kept the four paragraphs; no dispute; helped Gerda unasked; held Cael's hypothesis; told him not to make Karis the stakes.
+- Karis: offered herself; wrote the unnumbered protective line; varied every session; marked session nine; ruled the line; volunteered for any honest test.
+- Brom: the benediction; accepted the wall; witnessed nulls; barley clause.
+- Quenna: wrote for the file early; "a version of one"; presided at both reviews and the supplementary; kept out of the nulls; summoned them.
+- Wray: struck Brom herself; named the wall; used Edran to show it; will redraw the curve at term's end.
+- Gerda: told her history; filed the form; came out of her haze.
+- Hobb: stood for Gerda; "Eleven. Yesterday, none." / "Better." / "Didn't go back."
+- Prynn: certified Gerda's clause by ear.
+- Oona: asked both Cael and Karis properly; asked her mother for the hand.
+- Edran: lent his speed to Wray's demonstration.
+
+**Standings.** Karis first, Edran second, unchanged; Karis won two more standings bouts off-page (an Iron Rank One from the hardening floor; an Iron Rank Four from the Edge floor).
+
+**Letters.** Cael to Hesk ("Nothing happened this week"), on the week-12 third-day post. Vell still not written to.
+
+## 3. New canon minted in prose (flag for ledger and owner)
+
+- **Fenmark's record of finding (ch24), one sheet, four paragraphs:**
+  > *Record of finding. Candidate: Lira. Path: Wind. Tier: Copper. Enrollment: scholarship.*
+  > *During a Wind Path evaluation the candidate corrected the examining assessor's technique aloud, without deference to the assessor's authority.* (nineteen words)
+  > *Finding: insubordination, under the disciplinary code, section four, subsection two.*
+  > *Enrollment ended. The finding stands as recorded. Formal hearing not required: the finding falls below the severity threshold set for scholarship students of Copper tier.*
+  - One signature, nobody Lira knew. Green wax seal. What came at intake was the termination notice and standing record; the provision requires the full record before a formal review.
+  - The incident: the examiner taught the third turn of the evasion form off the front foot; Lira said and showed it loads off the back.
+  - The "no control of yourself" gloss (ch15) was spoken by the reader and is not in the record.
+- **Lira's opponents:** Current Path third-year (Copper Rank Seven); the Storm fourth-year from ch18, now Iron Rank One. Her finish, the "barrow turn," from the Ardenmere market yard behind the grain exchange.
+- **Brom's wall (P9 substance):** the wait on the second half of his redirect is the gap; seen by Wray at Bronze speed on the seventh strike; Wray's Shield shows as a pale plane along the forearm; Edran cannot get inside it.
+- **Gerda:** Copper Rank Nine at her southern school; verbal leave for her mother's illness never written; three forfeits; review; petition answered "correctly"; termination for failure to meet the standing requirement. Her mother is well and writes monthly.
+- **Re-certification reconsideration clause** (as Gerda recites it): "A candidate whose review recommends reconsideration may elect, before the term's end, to fight one supplementary recorded bout before the same panel, by written request delivered to the presiding assessor with the hour noted. The panel shall consider the supplementary bout with the review."
+- **The quiet room:** one of two small rooms off the training hall kept for private practice of new declarations; a slate on a nail.
+- **Second terms (ch25):** 1. consent aloud per session, revocable with a word; 2. (Brom, capitals) nothing about how it works in any record anybody outside the four can read; 3. Lira and Brom know the general shape and may attend; 4. Karis's ledger records conditions and result only; clause six holds. Unnumbered (Karis): *If anything at all happens to the source that the source did not choose, the session ends that moment. There is no discussion.*
+- **Karis's ledger closing line:** *Twenty-two controlled sessions. Twenty-two nulls. We are missing a condition.* Under it: *Witness's barley clause: granted, after the fact, in recognition of service.*
+- **Karis's Ember costs:** sustain cost comes due at the end; fingertips cold and grey; extinguish-lag lengthens under fatigue. Her Kindling: read the words four times, copied them first into the wrong notebook.
+- **Compression rules (edition):** a strike must be met with the fragment woken in advance; speed raises the price beyond size.
+- **Quenna's note:** "After the fourth sitting. My room, the third bell. Bring Karis."
+
+
+### Repair r1 changes that alter state or canon
+- Null calendar: week 10 every day, two on three of them; sessions 13–14 on its last day; session 11 Friday night; session 15 Monday dawn; session 16 Tuesday evening; the fast catch Wednesday night of week 11, the bad supervised session Thursday; twenty-two nulls from Wednesday of week 9 to the last day of week 11.
+- Ch25: the terms written at the midday meal, before the first session. Oona's Kindling "a little under six weeks" away.
+- [Drawn Channel] laid on floor and walls (a surface), never the air.
+- Lira's ch30 stair speech has content: "I counted… six breaths… Choose the size of what you're willing to lose, too. And tell me before, not after." "Short and sharp" (not "not repeatable").
+- Movement ends: Hesk's letter → wall → Quenna's note under the door (after the fourth sitting, her room, bring Karis) → a short log; Karis: if there is ever an honest test, she wants it to be her.

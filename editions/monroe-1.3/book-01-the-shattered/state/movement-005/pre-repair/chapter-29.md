@@ -1,0 +1,437 @@
+# Chapter 29 — What's on the Bench
+
+Torvin waited until everybody had a bowl in front of them before he said it, and Cael understood afterward that he had been waiting all day.
+
+It was Saturday, and the brothers were in early because the river had come up again in the night and nobody wanted barges on it. The boots woman was at her end of the table, and the wheezing man was not, and Yeni had a shirt across her knee and a spoon in the hand that was not sewing. Torvin's wife had made the thick brown soup again, the one with barley in it, and she stood at the range with her back to them and the big spoon in her hand, which was where she stood when she meant to hear everything.
+
+Torvin sat down at the end of the table with his own bowl and his thin ledger, opened the ledger, licked his pencil, and said to the first column, "Compact came this morning."
+
+The brothers stopped arguing about the river.
+
+Cael put his spoon down in his bowl, slowly, so that it did not knock against the side.
+
+"Man with a case," said Torvin. "Knocked at the door about the middle of the morning. Asked whether a Caelen Hesk-ward lodges here, fourteen." He said the name carefully, the whole of it, as though he had been practising it, and Cael realized that Torvin had never heard it before, because nobody at this table had. "I told him there's a room paid to the end of the week."
+
+"What did he say?"
+
+"Said that wasn't what he'd asked." Torvin ran his pencil down the column. He seemed entirely content. "I said it was what there was."
+
+"He said that to me twice in the kitchen afterward," said Torvin's wife, to the soup. "*It was what there was.* Very pleased with himself."
+
+"It was a good answer."
+
+"It was a rude answer. I wanted him told the boy eats his oats and scrubs the pot after, which is more than I can say for some people at this table." She did not look at the brothers. The brothers looked at their bowls. "But no. *He doesn't want to know about the oats.*"
+
+"He didn't," said Torvin.
+
+The boots woman laughed into her soup. Yeni's needle went in and out. Cael sat with his hands flat on the table on either side of his bowl and made himself breathe in the ordinary way, in and out, the way he did at his mark.
+
+*Caelen Hesk-ward.* Not *the circuit kid*. Not a lodger with letters going west. His name, the whole of it, said at this door by somebody who had brought it here.
+
+Lira had asked him, on the night of the pin, at Amrit's, with the river going past the little windows: *How long before it's a man at Torvin's door asking for you by your name?* He had not known. Now he did. It had been sixteen days.
+
+"What did he look like?" he said.
+
+Torvin's pencil stopped while he considered the question from its several sides.
+
+"About forty. Thin face. Dark coat, good, but creased, as if he'd slept in it on a cart. Collar turned up." He started down the column again. "Had a flat case under his arm, the kind clerks carry papers in. Held it as if there was nothing in it." He wrote a figure. "That's all. Asked was you here. I said the room's paid. Asked was you in. I said no. Asked where. I said not in. He wrote in a book, and thanked me, which I didn't care for, and went."
+
+"Did he ask about anything else?"
+
+"No."
+
+"The yards?"
+
+Torvin looked up at him. It was the coin look, slow and thorough. "He asked was you here," he said again, "and I told him the room's paid. That's all he asked and that's all he got." He looked back down. "I told him one more thing on the step, because I'd decided to before he knocked. I told him you pay on time. That's all I've ever said for anybody."
+
+Nobody at the table said anything for a moment.
+
+"Well," said Torvin, and turned the page.
+
+---
+
+Cael did not hear much of the rest of supper.
+
+He was standing on the landing at the bottom of the fish steps on the morning after Dessa, with a split knuckle and the sun just out over the river, looking past the clerk's shoulder at the west cart with its tailboard down. A woman with a child had climbed off it, and an old man with a crate that clinked, and a man of about forty in a creased dark coat with the collar turned up against the wind. He had held a flat leather case loosely against his side, the way you hold a thing that has very little in it, as if he had expected it to be heavier and had long since stopped being surprised that it was not. He had looked up the steps at the district as though it were something he would have to learn, and asked the boy on the landing the way to the post.
+
+And Cael had watched him for two breaths, and turned away, and gone up the steps two at a time past the brown building, whose door had been shutting behind somebody as he passed.
+
+He had not written him down.
+
+In seven weeks in Ardenmere he had written down nearly every stranger he had seen. He had written the polite man with the boots, from Torvin's account, and the grey coat walking the market, and the old woman in the shawl, and the Fenrow Iron. That morning he had been thinking about a fight and a girl who would be first, and a man had stepped off a cart with his name in a case, and Cael had looked straight at him and let him go by like weather.
+
+Yeni was looking at him across the table.
+
+"You've gone a colour," she said.
+
+"I'm all right."
+
+"I didn't say you weren't. I said you'd gone a colour." She bit her thread. "Eat your soup. Whatever it is, it'll still be there when you've eaten it, and you'll be less stupid about it."
+
+He ate his soup. He did not taste it. When he took his bowl to the basin, Torvin's wife took it out of his hands before he could rinse it and said, quietly, without turning round from the range, "If you go anywhere, you tell me first. I'll want to give you something to carry."
+
+He did not know what to say to that, so he said thank you, and she said it was nothing, and banged the pot.
+
+---
+
+Upstairs, on his cot under the window, with the brothers asleep early and Yeni's lamp turned low, he opened the Log at the front and wrote the man down at last.
+
+*Fifty-first day, the landing, the morning after Dessa. A man of about forty off the west cart. Dark coat, creased from the road, collar up. A flat case carried as though nearly empty. Looked at the district as something to learn. Asked the way to the post. Went up the steps to it. I watched him for two breaths and did not write him down.*
+
+*Fifty-second day. The same man at Torvin's door (Torvin, h). Asked for Caelen Hesk-ward, fourteen, by name. Asked nothing about the yards. Torvin gave him the room's paid, and that I pay on time.*
+
+He looked at the two entries, and then wrote one more line under them, smaller, because it was true and he wanted it on the page where he would have to see it.
+
+*I had him in front of me and let him go by because I was pleased with myself. Write everybody down. Especially on the good days.*
+
+Then he took Hesk's letter out of the leather book, where he had put it to keep flat, and read it again.
+
+It had come up the evening before, on the fifty-first day, with the runner, as the clerk had said it would. He had read it at once, at the window, while the light went, and then again at the kitchen table, and he had been glad of it in an ordinary way and put it away. He had not thought, then, about where it had been that morning.
+
+He thought about it now. The west cart had come in with its tailboard down and the carter handing the post sacks to the boy on the landing, one after another. Hesk's letter had been in one of those sacks. It had come two days along the merchant road in the bottom of the cart, under the boots of a man with a flat case on his knees, and it had come up the fish steps on the boy's shoulder within a minute of the man himself.
+
+They had arrived together. He found that he did not like that at all, and that he could not have said why, because it meant nothing; the cart carried everything that came from the west. He set it down anyway.
+
+The letter was one sheet, both sides, in the square hand.
+
+*Cael,*
+
+*Your letter came on the forty-fourth day. I've read it three times at the table and once in the workshop, which is where I read the things I want to think about with my hands busy.*
+
+*You asked for something ordinary. So. On the bench there's a level for the survey office, the third I've made them this year, because their young men keep dropping them off ladders and then bringing them back to me as though the ladder were my fault. There's the hinge off Ressa's oven door, which has squeaked since you were nine, and which I have at last got round to. And there's the drawer of springs that the guild man asked about. I've moved it six inches to the left so it stops catching my knee. That's the bench.*
+
+*Now the other thing.*
+
+*A man with a pin walking a market is a man doing a job somebody handed him, with a list in his pocket. Mostly he doesn't know why the list says what it says. Don't spend your nights on him. Your old man in the yard is right: what matters is what changed further up, and you won't find that by watching a coat.*
+
+*One more thing, and I'll say it plainly, because I know a little of how such things are done. Don't change what you do. Go where you go and post where you post and keep your hours. The ones who change their habits when a pin comes through are the ones some clerk remembers.*
+
+*Nothing from the guild. A clerk came for a copy of the account I sent, which they already have. That's the guild's way of saying they're still thinking.*
+
+*Joren walks past the workshop most days, flat-footed. He thinks I don't notice.*
+
+*Tell me what you find, when you find it. Even if it's nothing.*
+
+*— H.*
+
+He read the middle again.
+
+*Don't change what you do.*
+
+Hesk had written that on the forty-fourth day, at the kitchen table, in Denvash, a week after the pin. On the thirty-eighth day, on the cooper's roof, with the tar warm under him and Lira lying with her arm over her eyes, Cael had counted on his fingers and decided the same thing: same hut, same bag, same day, nothing on the outside but what they had already. He had written down that he had decided it. Lira had called it cold.
+
+They had come to the same place by two different roads, a week and a valley apart, without either of them knowing the other was on the way.
+
+He had felt this once before, on the cooper's roof on the morning of Renn, when Lira had said almost word for word a thing about fear that he had read in Hesk's hand on a wall by the merchant road. Two people who had never met had worked out the same figure. It had steadied him then, because a figure two people reached separately was a figure you could trace. It steadied him now, a little, in the same way.
+
+But Hesk had been writing to a boy who had seen one man with a pin and did not know what it meant. Tonight there was a second man, in a dark coat, who had asked for him by name at the door under the leaning O, and Hesk did not know it, and would not for a week after Cael wrote it down for him.
+
+He turned to a clean line in the margin and made a list, because a list was a thing you could look at all at once.
+
+*The man at Torvin's door, about the twenty-eighth day. Polite. Boots not local. Asked for "the circuit kid". Got nothing. (Torvin, h.)*
+
+*The grey coat with the pin, the thirty-sixth day. Walked the market. Asked about lodgers without papers, and letters going west. Got Torvin's from the carriers' clerk. Asked nothing about the yards. (Seen, and the seller, h.)*
+
+*The dark coat off the west cart, the fifty-first day. Went to the post. Came to Torvin's the next morning and asked for me by my whole name. Asked nothing about the yards. (Seen, and Torvin, h.)*
+
+He looked at the three lines for a long time.
+
+Three men. Or two, or one, or any arrangement of them. He could make the grey coat and the dark coat into one man who had changed his coat, but Torvin's dark coat had been creased from two days on a cart, and the grey coat had been brushed, and walked the market on the thirty-sixth day, while the dark coat had been somewhere two days' road away at least. He could make the polite man and the grey coat one, but one had asked for the circuit and the other had not seemed to know there was a circuit at all.
+
+He did not decide. He had no evidence that would let him decide. He drew a short line under the three of them, and under it wrote: *Don't guess. Don't change what I do. Tell Lira.*
+
+Then he blew out his own small piece of the lamp's light, the way he did, by turning his face to the wall, and lay a long time listening to the river.
+
+---
+
+The frost was thick in the grey half in the morning, white along the foot of the east wall and in every scuff of yesterday's feet, and Lira was crouched in the middle of the circle with a length of string.
+
+It was a long piece of brown twine with knots in it at what looked like regular spacings, and she had one end of it pinned to the ground with her heel at the near edge of the groove and was walking the other end round the curve, slowly, bent over, counting under her breath. Her breath went up white. She did not look up when he came through the gate.
+
+"Don't talk," she said. "I'm on forty."
+
+He did not talk. He set the bread on top of the post and watched her go round. She went all the way round the long side, past the drain, and stopped, and looked at the knot under her fingers, and then walked back the short way across the middle, counting again.
+
+"There," she said, and stood up, and her face had the morning brightness in it, all the way. "Seven knots. The long side's seven knots longer, going round by the drain, than the short side going round by the gate. That's a stride and a half. That's two steps, if you're you, and a step and a bit if you're me." She wound the string round her hand. "Five months I've walked on this dirt, and I never knew. Don't tell the old man I measured it."
+
+"I won't."
+
+"He'd only say something about it." She stuffed the string in her pocket and looked at him properly for the first time, and her face changed. "What."
+
+He told her. He told it in order, the way he had written it: the landing, the case, the post door shutting, the soup, Torvin's room's paid and *you pay on time*, the oats. He told her the three lines in the margin and why he could not make any of them into one man. He told her about Hesk's letter, and *don't change what you do*, and the roof.
+
+She did not interrupt. She stood in the frost with her hands in her jacket pockets, and when he got to *Caelen Hesk-ward, fourteen*, said at the door, she took her hands out of her pockets and folded her arms instead, tightly, as though she were cold all at once.
+
+"By your name," she said.
+
+"By my name."
+
+"I said that. At Amrit's. I said *before it's a man at Torvin's door asking for you by your name*." She looked at the groove. "I didn't want to be right about that one."
+
+"I know."
+
+"Your whole name. The long one. I don't even know your whole name. I've never heard it." She said it lightly, and then stopped, and looked at him, and he saw her hear what she had said. "Is that what it is? Caelen?"
+
+"Caelen Hesk-ward. It's on the card."
+
+She tried it under her breath, once, as if testing the weight of something somebody had handed her. Then she shook her head.
+
+"No. You're Cael. That's somebody on a card." She took the bread off the post and tore it and gave him the larger half and did not eat hers. "He didn't ask about the yards."
+
+"Not Torvin. And Torvin would have said. He likes telling the table what he didn't tell people."
+
+"Then he doesn't know about the yards. Or he knows and doesn't care. Or he knows and he's being clever." She chewed on nothing. "You can't tell which."
+
+"No."
+
+"Then do what your grandfather says, and what you'd already decided before he said it." She bit into the bread at last. "Which is lucky, because I want you at the rope this afternoon."
+
+He looked at her.
+
+"I'm on the card," Lira said. "Second bout. Sunday, before the lamps." She was looking at the post, not at him, the way she did when a thing mattered more than she wanted it to look. "I asked Vell on Friday morning, while you were at the mender's being told something worked. She told me last night it was on."
+
+"Who?"
+
+"Brenna."
+
+He stood with the bread in his hand.
+
+"I've fought her twice," Lira said. "I lost twice. The first time I never found the dip at all. The second time I found it and went in on it, and she turned on me like a gate and walked me over the groove the same as she did you." She pulled a crust off the bread and threw it at a crow on the eaves, which ignored it. "I've wanted her a third time since the summer. I wasn't ready. I've been not ready for a long time."
+
+"What changed?"
+
+"You did." She said it flatly, and then made a face, as though she had not meant to give him that much. "Not like that. Your stupid face at Dessa. Two Sundays on a bench, and then going into the gap like walking through a door in the dark, and all of it built, every piece. I sat on the end of that bench and bit my knuckle and thought, *I want one of those.* One I built." She looked at him at last. "And I don't lean any more. You remember? The left foot. The morning you touched my sleeve, you told me my weight went onto my left foot before I struck. I'd been doing it four months. I don't do it now."
+
+He remembered. He remembered writing the ruling that night, *never tell anybody their tell unless I'm sure I don't need it*, and not liking it.
+
+"Do you think she read it? The foot?"
+
+"I think it's why she turned on me the second time before I'd got through." Lira shrugged. "I don't know. I'll find out this afternoon." She finished her bread. "And there's the purse. Vell pays a little, on a Sunday, if there's a crowd, and there'll be a crowd, because Brenna brings her friends and her friends bring theirs." She looked away again. "I'm saving for something."
+
+"What?"
+
+"A door." She said it to the eaves. "One that's mine. That's all. Don't make a face about it."
+
+He did not make a face. He thought about Yeni saying that four months was all the name Lira had, and about a room he had never seen, somewhere up in the four lanes, that she had never once mentioned in seven weeks.
+
+"I'll be at the rope," he said.
+
+"Good." She brought her hands up, out of habit, and then dropped them. "No. Not today. No box, no step. I'm keeping my legs." She looked at him sideways. "And you don't tell me one thing about her. Not one. I don't want to hear what you saw when you fought her. I've fought her twice. I'll do my own."
+
+"And if I see something this afternoon?"
+
+Lira thought about it, with her head on one side.
+
+"Write it down," she said. "Give it me after. Like a report." She almost smiled. "I'll have it in the evidence column, with your mark beside it. And I don't want a ruling."
+
+---
+
+He went down to the market at the middle of the morning, because he went down to the market every morning, and Hesk had said not to change what he did, and he had decided it on a roof before Hesk said it.
+
+It was a Sunday, and slower than the weekdays, and colder. The haze was off and the sky was hard and clear over the awnings, so that the lanterns hanging from the poles looked foolish, burning away in full daylight at their different heights. The nut boy had his drum going. The pie man was calling his prices. Nothing had gone tight.
+
+He came down the second row and bought the pears from the fruit woman by pointing, and she gave him full weight, and he turned to go back up, and there was the man.
+
+He was at the top of the second row, at the bread woman's stall, with his back half turned. He had the collar of the dark coat down today, and Cael could see that there was nothing on the lapel at all, no pin and no mark of one. He had no case. He was buying a loaf.
+
+Cael did not stop walking. He did what he had done on the thirty-sixth day without having to think about it: he found the lanterns. The red one on the pie man's pole hung low; the bread woman's hung high, with the crack across its glass. The man was under the bread woman's.
+
+He was talking to her. That was the first thing Cael saw, and it was different from the grey coat at once. The grey coat had looked at stalls. This man looked at the woman. He asked her something, and then he did not say anything, and waited, and she answered, and he waited a little more, until she said a second thing she had not meant to say. Cael saw her hear herself say it and close her mouth on the rest.
+
+The man thanked her. He paid. She gave him a loaf from the top of the pile.
+
+Cael very nearly laughed out loud, there in the middle of the second row with a twist of pears in his hand. The bread woman had sold the man yesterday's loaf, off the top, where she put the ones she thought nobody would notice. She had not given him one from underneath. She did that for people who asked, and for people the market had decided were not new.
+
+The man walked off up the street toward the river with yesterday's bread under his arm, unhurried, looking at the district as he went, at a doorway and then a roof and then a woman beating a rug from a window, the way you look at a page you mean to read again later.
+
+Cael went the other way, up toward Torvin's, the way he went every morning. He did not double back. He did not count to sixty in any doorway.
+
+He wrote it on the wall by the pump, in the margin, under last night's three lines.
+
+*Fifty-third day, the market. The dark coat, no pin, no case. Buying bread. He looks at people, not stalls. He asks and then waits, and they tell him more than they meant to. Not the grey coat. The bread woman sold him yesterday's loaf off the top.*
+
+He looked at the last sentence for a while, and left it in, because it was evidence. The market had made up its mind about the man in the dark coat, even if Cael had not.
+
+---
+
+The yard was fuller than it had any right to be for a second bout on a cold Sunday afternoon.
+
+Lira had been right about Brenna's friends. They were along the rope on the sunny side in a loud knot, a dozen of them at least, big young women and a few men from the yards, and every one of them seemed to have brought somebody. The benches were out along the shaded wall, and the third row was filling with old men in scarves. The pie boy was doing so well that he had sent somebody back into the public house for a second tray.
+
+Cael did not go to the benches. He went to the rope, on the shaded side, near the corner by the drain where the barrel stood, and put both hands on it.
+
+He had stood at this rope before, for other people's bouts, with the Log open on his knee and a pencil going. He had never stood at it for somebody he knew. He found that it made his hands do something on the rope that he had to make them stop doing.
+
+Marrow came along with his slate. Cael read it without moving his head.
+
+*Brenna*, and a short price. *Lira*, and a longer one, not long, but long enough to say what the yard thought of two losses in a row. And under the names, on its own line, *Over/under: 4 exch.*
+
+Marrow saw him reading it, and smiled the good smile, and wrote something with his chalk and went on.
+
+At the water bucket, Brenna was standing with two of her friends, as she had stood on the night she walked a shield at him, talking with her hands. Her face was already red. She looked along the rope while she talked, and her eyes came to Cael and stopped there. She stopped talking. Then she gave him the nod again, the short one across a street, that she had given him by the gate after Dessa, and she turned back to her friends and said something, and one of them looked at him too.
+
+He nodded back. He did not know what else to do.
+
+Lira came in through the gate in the wall with the canvas roll on her back and her hair tied so tightly that it pulled at the corners of her eyes, like Dessa's. He had never seen her tie it that way. She did not look at the rope. She did not look at him. She walked straight along the shaded wall to the far corner, set down the roll, and stood there with her weight a little forward on the front of her feet and her hands loose at her sides, looking at the circle.
+
+Vell came out of the public house's back door with her stool and her book and sat down behind the table. She squared the ledger to the edge. She looked at the crowd once, end to end, as if she were counting it, and her eyes went past Cael at the rope and paused, and went on.
+
+The first bout was two young men, a Blade and a Force, who had both plainly come to impress Brenna's friends, and who both went down in the third exchange, one after the other, in a way that made the old men in the third row laugh. Cael did not watch it. He watched Lira in her corner, not moving.
+
+Then Vell stood up behind her table.
+
+"Second bout."
+
+The yard went lower. Along the sunny side Brenna's friends began to stamp on the frozen dirt, all together, slowly, like a heavy door being knocked on, and somebody on the shaded side told them to be quiet, and they did not.
+
+"Brenna. Copper Rank 2, Shield Path. Against Lira. Copper Rank 3, Wind Path."
+
+Brenna came over the rope in one long step and walked to her mark with her left arm already up and bent across her body, and her face red, and her mouth set.
+
+Lira came over the rope after her.
+
+She walked to her mark the way Cael had seen her walk to a hundred corners of the box drill, light and quick, with her weight forward. When she reached it she stopped, and set her feet, and only then did she look up, across the circle, not at Brenna's shield, and not at Brenna's face, but at Brenna's feet.
+
+Cael's hands had done the thing on the rope again. He let them.
+
+"Begin when you're ready," said Vell.
+
+Brenna was ready before the word was finished. The air in front of her left forearm thickened into its shine, a hand off the skin and a little wider than her shoulders, and through it her red face wobbled like a face behind old glass, and she came off her mark and walked it at Lira.
+
+Lira did not go back.
+
+That was the first thing, and Cael saw half the rope see it and not understand it. Everybody went back from Brenna. He had gone back from her for four exchanges along the long curve of the groove until his heel found the edge. Lira went sideways. She went the way water goes round a post in a stream, without any hurry and without any fuss, and the edge of the shield came down in its flat chop through the place where she had been standing and found the frozen dirt instead.
+
+Brenna turned after her and chopped again. Lira was not there either.
+
+She was close, that was the strange part. She stayed so close to the shield that she could have touched it, and twice she did touch it, with the tips of two fingers, lightly, on its face, the way you touch a pane of glass to find out whether it is cold. She was not trying to hit anything. She was finding out where the thing ended. Each time her fingers touched the shine, Brenna's arm locked up harder behind it, and each time the chop came, Lira was a stride to one side of where it landed, with her weight forward and her hands loose.
+
+Cael watched her left foot.
+
+It did not go. He watched for it every time she moved, as he had watched for it every morning for a week after he had told her, and it stayed exactly where it should, under her, with nothing on it but its proper share of her. Whatever Brenna had read the last time, she was not going to read it today.
+
+The first exchange ended with nobody touched. Brenna went back to her mark breathing harder than Lira, and along the sunny side her friends stamped again, slowly, and one of them shouted at Lira to stop dancing and fight, and Lira did not look round.
+
+*First exchange,* Cael said in his head, because he had promised a report, and a report was what you saw and nothing else. *You went sideways. You touched the shield twice. Your foot stayed.*
+
+---
+
+In the second exchange Lira looked for the dip, and it was not there.
+
+He saw her looking. He knew exactly where her eyes would go, because it was where his own had gone on the night he fought, down under the shine to Brenna's boots, waiting for the right foot to come up on the step-through and the bottom edge of the shield to sink with it. The foot came up. Brenna stepped through.
+
+The shield did not sink.
+
+It stayed exactly where it was, level, a hand off the forearm, and behind it Cael could see the arm shaking very slightly with the effort of holding it there. Brenna had fixed it. Some time in the three weeks since he had gone in on her dip and been collected and walked over the groove, she had stood somewhere and stepped through, and stepped through, and held the arm up until it stayed up, the way the woman with the shoulder in the top yard had held her fourth position thirty times in a morning. *She doesn't know she does it,* Lira had said. She knew now. He had told her, in the fifth exchange, by going in on it, and she had gone away and taken it out of herself.
+
+He felt that land somewhere under his breastbone and did not have time to look at it.
+
+Lira had seen it too. He watched her see the shield not sink, and watched her go in anyway, because her weight was already committed to going, and Brenna turned. It was not the full gate-swing that had collected him. It was half of one, short and fast. The edge of the shine caught Lira across the top of the right shoulder as she came out, and she skidded on the frost, one hand down on the dirt, and came up again on her feet a long stride back.
+
+The sunny side roared. Brenna's friends were stamping in earnest now.
+
+Lira went back to her mark and rolled the shoulder once, and stood. Her face had nothing on it at all.
+
+*Second exchange,* said Cael, in his head, and found his voice in there was not as steady as it should have been. *She's fixed the dip. You went in anyway. She caught your right shoulder with the edge. You kept your feet.*
+
+He thought something else, too, which was not for any report. Brenna had held that arm up through every step of the exchange, and it had cost her. Her breath was louder than it had been at the end of the first. The huff had come back at the top of every breath, the short hard sound through the nose that he had heard on his own night get louder all the way to the fifth. A shield held level through a step was not free. Nothing that had to be held was free.
+
+---
+
+The third exchange was the one where Lira changed her mind, and he saw the moment she did it.
+
+She came off her mark and went sideways, as in the first, and Brenna walked the shield at her and chopped, and this time Lira did not step out from under the chop. She caught it.
+
+She caught it the way she had shown him at the board on the second day, with the outside of her left forearm, wrist to elbow, meeting the edge of the shine as it came down. She did not reset. There was no middle. Catch went straight into send without any pause in it that Cael could see, so that the chop arrived on her arm and left it again in a single movement, and went on, past her, a good deal further than Brenna had meant it to go.
+
+Brenna went after it. She could not help it. Her arm had been told to go one way with all her weight behind it, and the weight had been handed on instead of stopped, and the whole of her turned with the shield, a quarter-turn too far, so that she had to put a foot down to catch herself. When she did, Lira was already on the other side of her, out of reach again.
+
+The rope made a different noise. It was not the sunny side this time. It was the old men in the third row, a low, pleased murmur, the noise people make in front of a thing done properly that they have not seen done before.
+
+Lira did it again. Catch, send, nothing in the middle, and Brenna's chop went on past her and took Brenna with it, and Brenna stamped a foot down on the frost to stop. Then it happened a third time. Each time the shield went further than its owner had sent it. Each time Brenna had to step to bring it back, with the arm held level, the way she had trained it now, and every one of those steps cost her breath she did not have.
+
+"*Stand,*" said Brenna, through her teeth.
+
+Cael had heard her say it before. He had heard it on his own night, in the third exchange, and he knew what came after it.
+
+Lira did not stand. She was not running, either. She was doing the thing she had told him on the first day at the board that she had been failed for: she was skipping the middle in front of witnesses, and it was working, over and over, and Brenna did not know why her own arm kept taking her somewhere she had not asked to go.
+
+"Stand and *fight.*"
+
+At her mark, between the third exchange and the fourth, Brenna's face had gone from red to the darker red. Cael knew it. He had the ruling written in his own hand in the Log, entry two, the third claim: *if somebody gets angry, they will tell me everything. Let them.* He had told Lira about it walking down the lane that night, and she had said it was one of the truest things there was in that yard.
+
+He looked across at her. She was standing on her mark with her shoulder down and her hands loose, and she was looking at Brenna's feet, and she was letting her.
+
+*Third exchange. You caught it and sent it with no middle. Three times. She went after it every time.* He stopped, and added, because it was true: *The old men liked it.*
+
+---
+
+The fourth exchange was loud and short, and Brenna told the whole yard what she meant to do with every strike a full breath before she did it.
+
+Her chops had gone big. They started up by her ear and came down with everything she had, and they were slower for it, as they had been slower for him, and Lira caught two and sent them and was simply not there for the rest. The huff came before each one like a door banging. Brenna's arm was shaking all the time now, and on the fourth chop, stepping through, the bottom edge of the shine sank, a hand's breadth, toward her hip. Then on the fifth it sank again, further. The dip had come back. She had trained it out of herself for three weeks and it had come back in two exchanges, because she was tired and angry and her arm had been told to stay up for longer than it had ever been asked to.
+
+Lira went in on it.
+
+She went on Brenna's right, low, inside the reach, and Cael saw her go a hair further than she needed to. She went past the place where she could have struck and on into the place beyond it, as if the first half of her had arrived and the second half had not been told to stop. Brenna's cocked right fist came round and caught her a glancing blow on the side of the head as she came out. It was not clean, and it did not put her down. But Lira's head went round with it, and she was back a long stride before Cael had let his breath go.
+
+He saw it. He saw that she had gone too far, and on her right side, and that it had cost her. He did not know whether it was anything more than once. Once was not a pattern. He put it somewhere he would find it later and did not put it in the report.
+
+Vell called the end of the exchange. Brenna's friends were not stamping now. They were shouting, and the shouting had a sharp edge to it that it had not had at the start.
+
+Lira stood on her mark and worked her jaw from side to side, once, as Dessa had done at the end of his own night, and seemed to decide it would keep.
+
+---
+
+"Begin," said Vell.
+
+Lira came off her mark and touched the shield.
+
+Two touches, high, quick and light and empty, on the face of the shine, one with each hand. They were nothing. They were a tap on a door to see who was home. And Brenna's arm, which had spent four exchanges being touched and caught and sent where it did not want to go, locked up behind the shine to meet them, high and hard, the way his own forearms had come up every morning in the grey half without his permission for two touches that were already gone.
+
+Then Lira stepped.
+
+He had seen the step perhaps a hundred times, from the inside, with his arms in the wrong place. He had never seen it from the rope. From the rope it was stranger still. She was two paces from Brenna when she began it and she was inside the shield's reach when it finished, on Brenna's right, at the open side, while Brenna's right foot was still in the air stepping through. He did not see the distance go. It was as though the dirt between them had folded in the middle and let her across.
+
+Brenna turned. Of course she turned. She had collected Cael with that turn, and she had collected Lira with it in the summer, and it was the best thing she had. Her whole body came round on the foot she had just set down, and the edge of the shine swung with it like a gate swinging shut.
+
+Lira caught the gate.
+
+She caught it on her left forearm as it came round, the way she had caught the chops, and she sent it. There was no reset and no middle. The gate came round onto her arm and she handed it on, all of it, all of Brenna's turn and all of Brenna's weight behind the turn, and the shield went on round past her. Brenna went with it. She went a quarter-turn further than her feet had gone, and then half a turn, and her heel came down on the edge of the groove and the frost on it, and slid.
+
+She went down across the groove on her side, hard, with the shield still up.
+
+Lira's backhand came round flat at the height of Brenna's head and stopped a finger's width from her ear.
+
+"Called," said Vell. "Wind Path."
+
+---
+
+For a moment nobody on the sunny side made any sound at all.
+
+Then the old men in the third row began to clap, not loudly, all of them together, and the shaded side took it up, and somewhere near the gate one of the errand boys shouted something that went up high and cracked. Brenna's friends stood along the rope with their mouths shut, and one of them began, slowly, to clap too, and then another, because they were fighting people and they had seen what they had seen.
+
+The shine went out of the air in front of Brenna's arm like a breath let go. She lay on the frost across the groove for a moment, breathing, looking at the sky. Then she got an elbow under herself and sat up and looked at Lira, who was standing over her with her hand still up by Brenna's ear, as if she had forgotten to take it away.
+
+"You didn't lean," said Brenna.
+
+She said it the way you say a thing that has been bothering you for some time and has just been answered. Lira took her hand away.
+
+"Not any more."
+
+"You used to. Left foot. Before you came in. Both times." Brenna wiped her nose on the back of her wrist. "I had you both times on that. I was waiting for it all afternoon."
+
+"I know. I could tell."
+
+"Who took it off you?"
+
+Lira did not look at the rope. "Somebody who watches feet," she said, and held out her hand.
+
+Brenna looked at the hand for a long moment. Then she snorted, the snort that was nearly a laugh, and took it, and Lira pulled her up, which took both of them, and they touched fists, and Brenna went off toward the water bucket, red to the ears and shaking her shield arm out at her side, and said loudly to nobody in particular, "Three. It took her three," as if that answered something.
+
+Lira walked to the table. She stood in front of it while Vell wrote, with her hands at her sides and her chin up and her hair still pulled so tight it tugged at the corners of her eyes, and Cael saw Vell's pen go on past two lines, and stop, and go on.
+
+He found that he had let go of the rope at some point and did not know when. His hands hurt. He looked at them and saw that he had been holding on so hard that the fibres had printed themselves into his palms in long red lines.
+
+At the table, Vell blotted the page and said something short. Lira nodded. Then, for the first time since she had come in through the gate in the wall, Lira turned her head and looked along the rope on the shaded side, past the drain and the barrel and the old men getting up off the benches, until she found him.
+
+She did not smile. She did not need to. She lifted her chin about the width of a finger, and he understood that she was asking for her report.

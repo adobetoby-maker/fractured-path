@@ -45,3 +45,8 @@ A decision taken plainly, a pressure that has stopped being procedural, and a bo
 
 - Vell knows him only as "Just Cael" (Movement 2). Unless STATE_LEDGER shows it has already happened, she must learn "Hesk-ward" in
   Movements 5–9, on the page, before Darrow's ledger line names "Cael Hesk-ward".
+
+## Coordinator note (Movement 5 review, 2026-10-02)
+
+- **Audio guard:** Halvern (the clerk) and Halden (the archivist) are near-identical by ear. They
+  never share a scene or a POV, and Cael never says "Halvern" aloud — he calls him "the clerk".

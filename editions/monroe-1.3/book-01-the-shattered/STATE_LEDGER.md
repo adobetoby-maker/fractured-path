@@ -432,3 +432,86 @@ Repair r1 changes that alter state or canon:
 - Marrow's Fenrow man is "rated a tier higher" (not "Iron-rated").
 - Approved canon: "the post" (the one Compact building Cael knows of, at the head of the fish steps); Vell's private "atypical" tally and her notes written to her successor; Doss's details; Alis at the healers' (Hesk's letter).
 - Open by design: the day-51 man (Movement 5 claims him as Coss); one man or two; Hesk's reply due ~day 51–52; Renn II held "till the turn of the month after" day 38.
+
+## After Movement 5 (chapters 28–33; repair r1 applied 2026-10-02; recheck pending)
+
+
+**Calendar.**
+- Day 51 (Fri): Coss off the west cart; seal broken before Halvern; the file read four times; Halvern's log. Hesk's reply delivered to Torvin's by the runner in the evening.
+- Day 52 (Sat): Coss at Torvin's (mid-morning) and walking the district. Supper: Torvin tells; the recognition; the list.
+- Day 53 (Sun): Lira's string; the market sighting; **Lira over Brenna** (afternoon card); Coss hears the roar; the summons and preliminary report; summons left with Torvin; delivered at night; Cael at Lira's window.
+- Day 54 (Mon): the reading room; the find.
+- Day 55 (Tue): the edit at dawn; **the evaluation at the post at the second hour after noon; closed, pending; six weeks**; Vell; the letter to Hesk; Coss's second report.
+- Day 56 (Wed): the board. The forty-two days run to about day 97.
+- Late autumn, hard frosts. Cael is fourteen.
+
+**Bodies.**
+- Cael: Dessa knuckles healed to thin pink lines; rope marks in his palms (day 53, gone); short sleep days 53–54.
+- Lira: right shoulder bruised by the shield edge ("the size of a loaf"); a long scrape across one hand's knuckles; a glancing blow to the side of the head (she works her jaw; "it would keep"). She will not do the box on day 54; she calls the corners one-armed on day 55.
+- Brenna: down across the groove on the frost; shield arm shaken out; unhurt otherwise.
+
+**Knowledge.**
+- Cael knows:
+  - Coss's name and "field agent" (the summons signature); that Coss came off the west cart on day 51 with the file; that Coss asked Torvin for him by his whole name; that Coss checks law from memory, says he doesn't know who asked for the sweep, and asked nothing about the yards;
+  - the reading room under the post and Halden; the citation chain (Handbook Part Four s. 12 note 3 → Supplementary Register statute 19 → Second Appendix);
+  - that Statute 14 makes him answer a summons in his own person from fourteen; that a retrieval filing is countersigned by the post's clerk;
+  - Lira's lodging (third lane up from the well, the tall house with the hoopless rain barrel, the roof room shared with two dye-shed sisters, the side window) and that she is saving for "a door";
+  - Hesk's day-44 letter, including "Don't change what you do".
+- Cael does not know: who requested the sweep; the untraceable code; the lent pin or the bridge constable; who the polite "circuit kid" man was; what Coss's report says.
+- Coss knows: the file's thinness and every missing piece; the code is not in his register; the sweep was walked by a bridge constable with a lent pin; the boy posts west weekly; that the district runs like a town; the word "circuit" only as a Sunday entertainment at "the Cinder House" public house. He does **not** know the boy fights; he never went up the yard lane or near the board. He has a daughter, fourteen at midsummer.
+- Vell knows "Cael Hesk-ward" (kept, not written). Torvin, his wife and the boarders heard "Caelen Hesk-ward" at supper. Lira knows "Caelen" and prefers Cael. Brenna knows Lira's lean was removed by "somebody who watches feet".
+
+**Resources.**
+- Pouch: unchanged apart from food. The mender's Monday was missed; he expects Wednesday.
+- **The Log.**
+  - Front: day 51/52 entries on the west-cart man; the three-line list (polite boots man / grey coat / dark coat) with *Don't guess. Don't change what I do. Tell Lira.*; the day-53 market sighting; the citation, copied twice (fast and careful), with shelf marks; the reading-room list of sections and false starts; the day-55 evaluation entry; the margin facts (Coss asked nothing about the yards; Lira, h).
+  - Back: *Write everybody down. Especially on the good days.*; the two-men inference, undecided; the boxed guess about the three dead.
+  - *Forty-eight hours. Find the seam.* written in the dark outside Lira's lodging (day 53).
+- The stamped summons and the objection stayed with Coss. Cael has his copies in the Log.
+- Letters: Hesk's day-44 reply received day 51. The summons letter written on the night of day 55, to post on day 56 (arrives about day 63). The Dessa letter arrives about day 58.
+
+**Fragments and progression.**
+- No fragments, no notices; the Arbiter is not reached for.
+- Circuit: **unrated, 1–4**, unchanged. Not carded this week. Renn II still held to the turn of the month. Vell will card him "when I've decided".
+- Instance count as logged: **four**, unchanged. Still four things untold to Hesk; the promise to Lira stands.
+- Compact: summons **closed, pending**; senior evaluation authorization filed; about six weeks.
+
+**Relationships.**
+- **Lira:** her own bout won, built her way (the skipped middle in front of witnesses); she asks for, and gets, a report from him in her own form; she chose to come to the reading room; he came to her window at once — the habit of telling begins; she edits the objection; she is saving for a door.
+- **Coss:** an honest meeting; he conceded correctly; he warned him he can buy time, not an answer; "It's the leg."
+- **Vell:** has his full name, privately.
+- **Torvin:** told the Compact the legal minimum, plus "he pays on time"; delivered the summons himself. **Torvin's wife:** "If you go anywhere, you tell me first. I'll want to give you something to carry."
+- **Yeni:** told him Lira's window; it is added to what he owes her.
+- **Halden:** "come back… I'll find you the next book."
+- **Brenna:** beaten by Lira on her third try; gracious; "Three."
+- **Hesk:** writing past each other and arriving at the same place ("don't change what you do").
+
+**Open threads.**
+- Added: the senior evaluator (about six weeks); Coss's second report on a desk above his own; the untraceable code (Coss's *query on return*); the two-men inference; Lira's "door"; Yeni's growing account; Halden's "next book".
+- Carried: the polite "circuit kid" man; the carriers' clerk; Renn II; Dessa II; the guild review; Marrow; the four untold.
+- Closed: the day-51 man (claimed as Coss, with the recognition); Hesk's reply to the pin letter; "Hesk-ward" for Vell.
+
+## New canon minted (flag for approval where marked)
+
+1. **The post's layout**: front room with Halvern's counter and a bench; a narrow stair to an upstairs **district office** (cot, one window over the fish steps, a plank partition not reaching the ceiling — ready for M8's "through the thin wall"); the **registry reading room** below the street on the river side, three steps down, sign *REGISTRY READING ROOM. OPEN TO ALL REGISTRANTS. MORNINGS.* All on Unranked ground; still "the post", the one Compact building Cael knows. *Flag.*
+2. **Where Coss got the file**: handed sealed at the regional office in Denvash; field files travel sealed and are broken before the station clerk, who signs the seal book. So he first reads it in Ardenmere. *Flag.*
+3. **The authorization register**: a small black book, reprinted each spring, of codes an agent may take orders from; the sweep's code has the regional prefix and is not in it. *Flag (Book 6 plant).*
+4. **The sweep walker**: a bridge constable, borrowed for an afternoon, in his own (grey) coat with a pin lent from the post's drawer. He found Torvin's through the carriers' clerk. Unnamed.
+5. **Halvern**: about thirty-one, sandy, soft round the middle, ink on his writing hand; registrations, boundaries, permits ("more than six pigs"); a knotted measuring string. **Halden**: thin, grey, a pencil behind each ear, nineteen years in the reading room. *Flag the physical detail.*
+6. **Coss**: forty-one, thin face, close-cut hair greying at the sides, presses his thumb to the bridge of his nose when reading; keeps a private working log; slept on the cot; daughter fourteen at midsummer (unnamed). Rank unstated. *Flag.*
+7. **The statute chain**: Handbook (district edition) Part Two (under sixteen through the standing-holder, except where standing is revoked under the non-standard statute: then in his own person from fourteen); Part Three (retrieval countersigned by the district's registering officer); Part Four s. 12 and note 3; section 40 ↔ Register front page loop; Supplementary Register statute 19; Second Appendix headed with the archive subheading. Numbers are minor inventions. *Flag.*
+8. **The summons text** and its signature *Coss, field agent*.
+9. **Lira's circuit rating**: Cu 3, Wind (BOOK_MAP: "higher than my registry rank"). Her record against Brenna is now 1–2. *Flag.*
+10. **Lira's lodging**: the roof room in the tall house in the third lane up from the well, shared with two unnamed dye-shed sisters; owner deaf in one ear; the hoopless rain barrel. The tin of "weeks of door". *Flag* (M6 moves her to her own room "two streets over").
+11. **Brenna has trained out her dip** (it returns under fatigue and anger). Her friends stamp; "Three."
+12. Small texture: the gutter dispute (cooper vs dyer), the mutton-skewer woman's flat face, the bread woman's yesterday's loaf, the desk-leg knock, "Tell him about the oats."
+
+
+Repair r1 changes that alter state or canon:
+- Brenna retrained about FIVE weeks since Cael's bout (day 15 → ~53). Coss's Sunday is his third afternoon in Ardenmere, his second of walking it. Reading room: thirty-odd hours left. Board result: three days of weather.
+- Lira (ch32): "They made us read Compact paper at the academy, pages of it, so we'd know what a guild letter looked like when we got one." Nothing about her life before the academy.
+- "The four" = the cart, Renn, the drop, Dessa. "The low wall by the pump".
+- Coss POV used ~6,430 of ~11,000 for the book; ~4,600 left for Movements 8–9. His ch32 "I can buy you time…" stays; the objection-is-unusual speech and his closing counsel are cut.
+- Approved canon: the post's layout; the sealed-file procedure; Coss's code register; Lira Copper 3; her lodging and savings tin; Vell knows "Hesk-ward", kept out of the book. Plant: Lira over-commits right (fourth exchange vs Brenna); Cael kept it out of her report.
+
+Movement 5 CLOSED 2026-10-02 after repair r1 and two recheck line fixes (ch28 the doorstep lesson now only in ch30; ch33 the protected "eleven minutes" line attached to Lira's beat). Final: 6 chapters, ~28.1k words; overlap 0; gates 0.
