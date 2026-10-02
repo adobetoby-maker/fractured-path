@@ -175,3 +175,127 @@ Repair r1 changes that alter state or canon:
 - Accepted rulings: Cael is NOT in Vell's ledger until Darrow; the cart is written as bare fact, uncounted; Renn's third exchange is unexamined; "Secondweek" (First–Fourthweek) is vocabulary.
 
 Movement 2 CLOSED 2026-10-01 after repair r1 and six recheck line fixes (coordinator-applied, exact strings from recheck-r1.md): Ch13 "three people who knew what they were looking at had watched him move tonight" (Renn, Vell, Lira — sixty were at the rope); "Bruises healed. What he had bought with them would not."; injuries walking home: shoulder stiff, forearm stinging, ribs a hot band; Vell opens the ledger once she has the yard to herself. Ch10 Cael's Ardenmere morning is "the next morning". Ch9 paragraph join. Final: 7 chapters, ~36.9k words; overlap 0; gates 0.
+
+## After Movement 3 (chapters 14–20; repair r1 applied 2026-10-01; recheck pending)
+
+
+**Calendar.** Day 9 (Fri): the morning after; the Log begins. Day 10: the mender hires him; Renn on the fish steps. Day 11: the third morning, open-hand sparring. Day 12 (Mon): Vell books Brenna. Day 13: Baro, watched. Day 15 (Thu): Brenna. Day 17: the skip; "not a natural". Day 19: Hesk's letter, and Cael's reply written. Day 20: Amrit Sole. Day 21: the wager; Petra booked. Day 22: the old man's "Six." Day 25 (Sun): Petra Voss. Day 26 (Mon): the step introduced. Day 28 (Wed): **the plant**, Lira's cutaway, Torvin's man, **the courtyard at midnight**. Day 29 (Thu): the shared morning; the first night not alone with it. Autumn. Cael fourteen. No summons, no Compact sighting. M4 enters "about five weeks in".
+
+**Bodies.** Cael:
+- Left shoulder (Renn): healed to a faint yellow shadow.
+- Right ribs (Renn): mostly healed, re-bruised under the ribs by Petra's jab and palm (day 25).
+- Chest: a bruise across it from Brenna's shield edge; both forearms bruised from catching the shield (day 15).
+- Right arm above the elbow: bruised by Amrit's plain fist (day 20).
+- Left forearm: burned over the old scrape, from wrist to halfway up (day 20). It is red and shiny, with one thumbnail blister near the wrist, unbroken. It itches, aches in the cold, and "won't mark".
+- Petra (day 25): a deep ache in the left hip from the landing; the inside of the lip split and swollen; a glancing blow to the jaw.
+- The backs of his thighs are stretched from the drop.
+- Right sleeve cuff singed brown.
+
+Others: Brenna, Amrit and Petra unhurt.
+
+**Knowledge.**
+- Cael knows:
+  - Vell's custom: a name goes in the book "when the yard comes to see it".
+  - Shield at Copper (a pane off the forearm; never resets; dips on the step-through).
+  - Ember at Copper (an oven-door heat; the shimmer half a beat before it; the shimmer can be held; breath stops before the real heat, two of three).
+  - Force at Copper (the shove after the hit; Petra's shoulder lean).
+  - Baro's baited openings.
+  - That frustration is a tell.
+  - That being sure is a tell (his own).
+  - Lira's step.
+  - That Lira has known the word since day 6 and owns a coverless summary.
+  - That the Arbiter is absent, not silent.
+  - That three things sit in his corner, one of them counted.
+  - That a man asked Torvin after "the circuit kid".
+  - Hesk's review is open.
+- Cael does not know:
+  - what the drop was, or any mechanism;
+  - who the man at Torvin's door was;
+  - what Vell has written.
+- Lira knows:
+  - the word and the four lines;
+  - that his Arbiter went out after the word and has not come back;
+  - the notice text, including the guild line;
+  - that the review has begun.
+  - She has her own row of three (the hand at the board, Renn's third exchange, the drop), unexplained to anyone. She has not told him she tried the drop herself.
+- Vell: four long entries; Renn's return held "at the month".
+- Petra knows he was "looking at something" and was not told what.
+- Brenna, Amrit and Petra have each seen him adapt inside a bout.
+- Marrow has noticed him (a look).
+- Torvin told the man nothing.
+
+**Resources.**
+- Hesk's pouch, less Torvin's weeks 2–4, the Log notebook, food and the carrier fee (day 5). The rent was due day 11 and is paid weekly (paying is not shown).
+- Mender's piecework, two afternoons a week, by the piece: "slows the pouch, doesn't stop it". He does not touch the clocks.
+- **The Log**: a grey board cover and thin paper; *Log* on page one.
+  - Front, entries in Claim/Evidence/Ruling: 1 Renn, 2 Brenna, 3 Baro (watched), 4 Amrit Sole, 5 Petra Voss, plus Lira's step, Lira's first morning report, and margin facts (the fish man; Torvin's man).
+  - Back section: the "front first" rule; the first private lines; **"First instance."** with the drop described; a box round *It wasn't mine*; the record of not telling Hesk; "Be careful with that. For her sake."; the night of day 29's entry, ending *The circuit doesn't care what the registry says* and his intent to build inside it.
+- The torn-out first Renn page (with "In the third I got out of the whole figure—") is folded in his coat pocket, never unfolded.
+- The third Denvash notebook has nine pages left. It holds the cart page, the pouch figures, and the notice folded inside its back cover.
+- Hesk's letter, received day 19.
+- Cael's reply, written day 19 and kept flat in the leather book; posting not shown. It covers Torvin's, Lira, the circuit, the Renn and Brenna losses, the bruises, the mender and the fish man's nod, and thanks Hesk for the guild news. It **omits** the third exchange (and the cart).
+
+**Fragments & progression.**
+- No fragments, no notices. The Arbiter is **dark**: absence, tested at length on the night of day 28.
+- Circuit: **unrated, 0–4** (Renn Cu3 Blade, 4th exchange, flat, called; Brenna Cu2 Shield, 5th, called; Amrit Sole Cu4 Ember, 6th, **conceded**; Petra Voss Cu3 Force, 7th, called).
+- Marrow's over/under on him: 1 → 2 → 3 → 4, beaten every time.
+- **Instance count as logged: 1** (the sparring drop, day 28), counted on purpose from here. Renn's third exchange is unwritten (the torn page stays folded); the cart stays as bare fact in the old notebook. Both are uncounted, and he knows it.
+- Not in this movement: "Borrowed", any theory, any notice.
+
+**Relationships.**
+- **Lira:** morning curriculum (the deflection, the hole, the box and eight-corner drills, the step); bread between sets.
+  - She knows the word and the dark Arbiter, and has read the notice.
+  - She will give a morning report he logs as evidence.
+  - "I'm not going to ask… until you've got something you want to tell me."
+  - He owes her the drop's explanation when he has one (unspoken).
+- **Hesk:** has kept his "as they come" promise (the review). Cael has now left out three things and has written down that he will answer for them.
+- **Vell:** a stated custom; "the right breath"; "you'll have to do something besides last".
+- **Renn:** "A month." **Brenna:** "Next time stand and fight." **Amrit:** kindness and an open lesson. **Petra:** an unanswered question; "Nobody is, the first time."
+- **Baro:** watched; has not met Cael.
+- **The old man:** "Six." **The mender:** employer; "Something broken?" / "I don't know yet."
+- **Torvin:** discretion as a point of pride. **Yeni:** "People who get letters back stay longer still." The boots woman: "nails".
+- **Marrow:** now watching him (grudge potential). **The fish man:** a nod.
+- **The errand boys:** a wager (Red Cap "two more", the other "never").
+
+**Open threads.**
+- Added:
+  - Torvin's unidentified man ("not local, by his boots");
+  - Lira's private row of three, and her solo attempt at the drop;
+  - Marrow's look;
+  - the errand boys' wager (pays at Dessa if M4 keeps "two more" — Dessa is bout 5 after four losses, so Red Cap wins);
+  - the torn-out Renn page;
+  - Cael's unposted reply;
+  - the mender's employment.
+- Carried: the Renn return (day ~38); Yeni's favour; the old man's yard time; the information seller; the guild review; Hesk's next letter.
+- Closed: "tonight's answer" is still open, and Lira has said she will not ask again until he offers.
+
+## New canon minted (flag for approval where marked)
+
+1. **The Log's form**: Claim / Evidence / Ruling columns; *h* for heard; front first, then the back section. ("Ruling" is borrowed from Vell's calls.)
+2. **Vell's custom** (coordinator's request): "A name goes in when the yard comes to see it… It's no slight. It's what a book's for." She will write it "not because you asked". This keeps him nameless through Dessa, assessed-Copper and Renn II, and makes Darrow (a marquee night, ~300 witnesses) the first time the yard "comes to see" him.
+3. **The mender's piecework** (new small income thread; mender unnamed). *Flag.*
+4. **Shield / Ember / Force at Copper as rendered**:
+   - Shield: a pane "like the side of a bucket of water stood on end", a little wider than the shoulders, a hand's breadth off the forearm; it costs breath.
+   - Ember: oven-door heat, not flame; a shimmer before it, which can be held.
+   - Force: a delayed shove after the hit.
+   - Consistent with the Bible's general Paths; no declaration names minted.
+5. **Opponent details**:
+   - Brenna: ~20, square-built, cropped fair hair, reddens.
+   - Baro: ~30, lean, long-armed, close-cut dark hair, an old injury low on the left back, in Ardenmere since the summer, afternoon cards only, never asked for a rating.
+   - Amrit Sole: ~40, shaved head, short grey beard, a cook at the eating house by the lower bridge, fights twice a month, "restful".
+   - Petra Voss: 17, small, wiry, freckled, a reddish braid, a year and a half in the circuit, the plank woman of ch 8.
+6. **"Red Cap"**: a descriptive handle for one errand boy, not a name. *Flag* if the owner wants it gone.
+7. **Lira's step** (two empty touches, the ground folding, a backhand at head height), the box drill and the eight-corner drill.
+8. Lira's Arbiter shows two declarations (one from Kindling, one "from the spring"). They are unnamed and it is a private check. Her reason for starting in the shade ("the light lies less") exists only in her cutaway.
+9. A stunted pear tree in Torvin's yard (texture).
+
+
+Repair r1 changes that alter state or canon:
+- Lira's registry lookup (the crate of books, less than a pie, four lines) is told to Cael in ch20 only; her ch18 cutaway has only her decision to tell him. The shade reason is hers to give, in ch20.
+- Ch20: Lira reads the notice correctly — it takes the house; it does not order him out of the city or away from his grandfather.
+- Petra's Force has a cost: she shakes out her right wrist between exchanges. Amrit: twenty years of stockpots.
+- Amrit's aftermath differs: Vell stops writing and watches; shorter water-bucket talk; Lira does not walk him home that night.
+- The stunted pear tree in Torvin's yard is seeded in ch14.
+- Kept inventions: the mender's piecework (two afternoons a week); "Red Cap" (description only); the Log's Claim / Evidence / Ruling columns with *h* for heard; Lira's morning report; the pear tree.
+
+Movement 3 CLOSED 2026-10-01 after repair r1 and five recheck line fixes (ch19 stray quote, doubled scene marker, "From what Torvin had said", a comma; ch17 ends on Torvin's nightly *Lamps*). Final: 7 chapters, ~35.2k words; overlap 0; gates 0.

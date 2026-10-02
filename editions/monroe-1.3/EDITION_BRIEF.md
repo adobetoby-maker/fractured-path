@@ -98,3 +98,23 @@ splits sentences or paragraphs at clause or sentence boundaries. Two repairs did
 each needed a recheck to find the splits that broke a thought. Where the formula and a
 character's speech disagree, keep the speech: one-to-three-word dialogue lines and the short
 landing beats of a fight are not drift to be repaired.
+
+## Working ranges and accepted drift (coordinator, 2026-10-01, after five repairs)
+
+Five movement repairs show three of the formula's numbers pulling against the brief's other
+asks (full sentences as house texture, speech kept as people speak, paragraphs broken where the
+thought turns). Repairs that chase one of them push another out. So, until the owner rules
+otherwise, these are the working ranges a movement is held to, and repairs aim at them — not at
+the decimals:
+
+| Measure | Formula target | Working range | Why |
+|---|---|---|---|
+| Sentence mean | 14.6 | 13–15.5 | primary target — keep |
+| ≥40-word share | 3.3% | 2.5–4.5% | primary target — keep |
+| Words per scene | ~950 | 850–1,050 | primary target — keep |
+| ≤5-word share | 27.7% | up to ~34% | dialogue-heavy movements; short speech is kept |
+| Paragraph median | ~18 | up to ~30 | the 18 is an ASR pause proxy, not print; long cutaways run longer |
+| Flesch-Kincaid grade | 6.8 | 3.5–6 | clear short words; the syllable estimator is approximate |
+
+Measured drift outside a working range is reported in the movement's review; a repair is for
+the primary three and for concrete defects.
