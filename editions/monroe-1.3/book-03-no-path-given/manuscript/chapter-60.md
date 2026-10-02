@@ -2,7 +2,7 @@
 
 "There's a man on the bench by the training hall door," said Brom, on the Thursday, over his barley. "He's been there since the second bell yesterday. He was there at the fourth. He was there when I went out to the pump last night." He took another spoonful. "He doesn't train. He doesn't teach. He doesn't sweep. He sits."
 
-Cael had seen him. He had seen him the day before, on the way back from the archive, and had marked the bench without letting himself look at it twice, the way he had once marked a man at the edge of a market square in Ardenmere who did not seem to be buying anything. He had not said so, because he had not been sure yet that it was a thing and not a coincidence, and he had learned a long time ago to count a thing three times before he called it one.
+Cael had seen him. He had seen him the day before, on the way back from the archive, and had marked the bench without letting himself look at it twice. He had once marked a man at the edge of a market square in Ardenmere in the same way, a man who did not seem to be buying anything. He had not said so. He had not been sure yet that it was a thing and not a coincidence, and he had learned long ago to count a thing three times before he called it one.
 
 "I've seen him," he said.
 
@@ -28,13 +28,13 @@ Karis, at the fourth bowl, had a small notebook open beside her that Cael had no
 
 ---
 
-He went down into the town with Lira on the Saturday, because Lira had a letter for the third-day post that had missed the third day, and because neither of them had walked down the hill since the hearing and both of them wanted to see what the hill looked like from the bottom now.
+He went down into the town with Lira on the Saturday. Lira had a letter for the third-day post that had missed the third day, and neither of them had walked down the hill since the hearing, and both of them wanted to see what the hill looked like from the bottom now.
 
-They did not talk about it on the way down. They walked the long turns of the cart road between the stone walls in the hard bright cold, and at the bottom they went along the street worth walking toward the draper's, slowly, the way they had once walked the market streets of Ardenmere with nothing to buy and a great deal to look at. Lira looked in the windows. Cael looked at the reflections in them.
+They did not talk about it on the way down. They walked the long turns of the cart road between the stone walls in the hard bright cold, and at the bottom they went along the street worth walking toward the draper's, slowly, as they had once walked the market streets of Ardenmere with nothing to buy and a great deal to look at. Lira looked in the windows. Cael looked at the reflections in them.
 
-The one who walked the street was there. He was a lean man in a plain brown coat, younger than Coss and older than the aide, and he passed them going the other way outside the bakehouse, and did not look at them, and Cael felt him not look as clearly as if he had stared. Lira's shoulder knocked against his, once, lightly, without a word.
+The one who walked the street was there. He was a lean man in a plain brown coat, younger than Coss and older than the aide. He passed them going the other way outside the bakehouse and did not look at them, and Cael felt him not look as clearly as if he had stared. Lira's shoulder knocked against his, once, lightly, without a word.
 
-The market square was on the far side of the draper's, a cobbled space with a stone well in the middle and stalls round three sides, and a man was sitting on the low wall of the well with a basket at his feet that had nothing in it.
+The market square was on the far side of the draper's, a cobbled space with a stone well in the middle and stalls round three sides. A man was sitting on the low wall of the well with a basket at his feet that had nothing in it.
 
 "That's the one who runs them," said Lira, very low, stopping at a stall of winter apples and picking one up to look at. "By the well. Watch the brown coat when he comes round the corner. He'll look at the well before he looks at anything else. They all do, when they change places."
 
@@ -86,7 +86,7 @@ Cael did not learn it until the Wednesday, when the clerk at the main hall pinne
 
 The clerk had more to be proud of by the end of the week.
 
-Letters came up the hill on every coach, and every one of them was addressed to the provost, and the provost's clerk had taken to calling them, in the hearing of half the stable, *adjudication-adjacent*, as if they were a weather that had settled in. Registry offices wrote asking for the transcript, which any registry office could have sent for through its own channel without troubling Greyvane at all; they wanted Greyvane to know they had it open on a desk. Two academies wrote, one from the coast and one Cael had never heard of, asking with great care and no apparent interest at all how the demonstration sittings were run. A guild's legal office wrote a letter so wrapped round in qualifications that Karis, reading the fair copy the clerk let her see, said it was the first letter she had ever read that cancelled itself out by the last line. It asked whether the academy expected to be heard again on the matter.
+Letters came up the hill on every coach, every one of them addressed to the provost. The provost's clerk had taken to calling them *adjudication-adjacent*, in the hearing of half the stable, as if they were a weather that had settled in. Registry offices wrote asking for the transcript. Any of them could have sent for it through its own channel without troubling Greyvane at all; they wanted Greyvane to know they had it open on a desk. Two academies wrote, one from the coast and one Cael had never heard of, asking with great care and no apparent interest at all how the demonstration sittings were run. A guild's legal office wrote a letter so wrapped round in qualifications that Karis, reading the fair copy the clerk let her see, said it was the first letter she had ever read that cancelled itself out by the last line. It asked whether the academy expected to be heard again on the matter.
 
 Naveth answered every one of them. He answered each of them on the last day the regulations allowed for an answer, and not one day before. Cael, hearing it secondhand from the clerk, from Karis, from the tout, who had somehow got hold of the count, understood that the provost had been given his own art back.
 
@@ -98,13 +98,13 @@ Naveth sent for him once, on the Friday, with the door wide open, and showed him
 
 "You're the largest one we've ever had the nerve to sign for." He laid his long hand flat on the stack of letters. "It turns out that's a great deal of correspondence." He did not smile; the corner of his mouth did something that in another man would have been a smile. "Go away. I've eleven of these to answer on Tuesday, at the last lawful hour, and I intend to enjoy every one."
 
-On the way back across the yard Cael passed the defensive floor's high windows and stopped, as he always did, to look in. Wray was drilling her hardening second-years in the variable-isolation drill, changing one condition at a time and watching what broke. She was doing it with a kind of grim contentment he had not seen in her before, the look of a woman whose whole idea of how a school ought to work had just been tested in public and held. At the far end of the floor Edran was building his third structure on his off arm and letting it go, building it and letting it go. He did it as he had done it every morning since the frost, but he stood differently now, a little lower and a little looser, like a man who had testified to something that mattered and knew it.
+On the way back across the yard Cael passed the defensive floor's high windows and stopped, as he always did, to look in. Wray was drilling her hardening second-years in the variable-isolation drill, changing one condition at a time and watching what broke. She was doing it with a grim contentment he had not seen in her before. Her whole idea of how a school ought to work had just been tested in public, and it had held. At the far end of the floor Edran was building his third structure on his off arm and letting it go, as he had every morning since the frost. But he stood differently now, a little lower and a little looser, like a man who had testified to something that mattered and knew it.
 
 ---
 
 Karis read the ruling at the long table in the archive on the Saturday evening, with the record spread out in front of her, and she did not let anybody talk to her until she had finished.
 
-It was a fair copy of the whole of it, both sittings, every exhibit, the deposition and the ruling, and it had come up from the delegation's recorder by way of the provost's office, because the record was public and the academy was a party. Prynn had certified it by ear in an afternoon. Karis had it weighted open at both ends with two of her own notebooks. The back of the archive beyond the pillar was still bare, all nine cases of the founding stock empty to the old wall, with the dust lying in pale oblongs where the books had been, and she did not look toward it once.
+It was a fair copy of the whole of it, both sittings, every exhibit, the deposition and the ruling, and it had come up from the delegation's recorder by way of the provost's office, because the record was public and the academy was a party. Prynn had certified it by ear in an afternoon. Karis had it weighted open at both ends with two of her own notebooks. Beyond the pillar the back of the archive was still bare, all nine cases of the founding stock empty to the old wall, and she did not look toward it once.
 
 Lira was on the bench by the door with her boots up, very deliberately doing nothing. Brom was at the end of the table with the observation notebook's small brother, a pocket book he had started keeping his columns in. Cael sat across from Karis and waited.
 
@@ -132,9 +132,9 @@ Brom had stopped writing his column.
 
 "You haven't found it."
 
-"No." There was no disappointment in it. She said true things that way. "I've found where it ought to be. That's not nothing. It's also not a finding. And most of what I'd need to look in went down the hill three weeks ago in fifty-three boxes with grey string round them." She closed the old notebook. "It's not this term's problem. It's next year's, if we're careful. We'll be careful."
+"No." There was no disappointment in it. She said true things that way. "I've found where it ought to be. That's not nothing. It's also not a finding. And most of what I'd need to look in went down the hill a week ago in fifty-three boxes with grey string round them." She closed the old notebook. "It's not this term's problem. It's next year's, if we're careful. We'll be careful."
 
-Lira had been looking at the four of them from the bench by the door: the record, the notebooks, the bare cases at the back, the party they could all hear going on faintly up in the residence wing without them. Something in her face had gone soft in the way it went soft only for this one arrangement of people.
+Lira had been looking at the four of them from the bench by the door. She looked at the record and the notebooks and the bare cases at the back, with the party going on faintly up in the residence wing without them. Something in her face had gone soft in the way it went soft only for this one arrangement of people.
 
 "You know what you are now," she said to Cael. "You're the most famous clerical error on the continent."
 
@@ -148,7 +148,7 @@ Lira had been looking at the four of them from the bench by the door: the record
 
 Lira let Karis off her promise on the Monday of the twenty-third week, at the scarred table after supper, and she did it the way she did most things that mattered, without any warning at all.
 
-The stable had emptied toward the fire, where somebody's older sister was reading the second-years a ghost story with all the frightening parts left in. The four of them were at the end of the table under the bricked-up hay door, and Cael had the binder open in front of him, writing the day. He did not cover it. He had stopped covering it at this table a long time ago. Karis sat across from him reading her narrow brown notebook, and he saw her eyes go once to the binder, and away, as they had gone once to it at a breakfast in the seventeenth week, and as they had not gone to it since.
+The stable had emptied toward the fire, where somebody's older sister was reading the second-years a ghost story with all the frightening parts left in. The four of them were at the end of the table under the bricked-up hay door, and Cael had the binder open in front of him, writing the day. He did not cover it. He had stopped covering it at this table a long time ago. Karis sat across from him reading her narrow brown notebook, and he saw her eyes go once to the binder and away, as they had gone to it once before at a breakfast in the seventeenth week, and as they had not gone to it since.
 
 Lira put her cup down.
 
@@ -156,7 +156,7 @@ Lira put her cup down.
 
 Karis did not look up. "Ask him what?"
 
-"You know what." Lira was looking at her steadily, with her chin on her hand. "In the second week of the terms you sat at this table and asked about the binder, and I said no, and you took it back. You promised never to ask again. You said it to me." She turned her cup a quarter turn on the wood. "It was my promise to hold. I'm letting go of it. You've been inside since the night of the match. You cut a true page out of your own ledger to keep him safe. You stood behind a bench of books for a week being a magistrate until you couldn't feel your face. If anybody's earned asking, it's you." She shrugged. "So ask. He can still say no. I'm only saying you're allowed."
+"You know what." Lira was looking at her steadily, with her chin on her hand. "The day we wrote the terms you sat at this table and asked about the binder, and I said no, and you took it back. You promised never to ask again. You said it to me." She turned her cup a quarter turn on the wood. "It was my promise to hold. I'm letting go of it. You've been inside since the night of the match. You cut a true page out of your own ledger to keep him safe. You stood behind a bench of books for a week being a magistrate until you couldn't feel your face. If anybody's earned asking, it's you." She shrugged. "So ask. He can still say no. I'm only saying you're allowed."
 
 Karis closed her notebook, very slowly, and laid her hand flat on it, and looked at Lira for a long time.
 
@@ -174,7 +174,7 @@ Brom, at the end of the table, had his number sheet half out of his coat.
 
 "Clause one," he said. "First terms. *The binder is not part of this arrangement, and will not be asked for.* It's struck, then."
 
-"It's amended," said Karis. Her voice was not quite steady. She reached into the back of her narrow notebook and took out a folded sheet that Cael knew, worn soft along its creases, with seven numbered clauses in four hands and four signatures at the foot; she had carried it, it turned out, all term. She unfolded it on the wood. Under the first clause, in her smallest hand, she wrote: *Asked, week twenty-three, with L.'s release. Answered, yes. C.* And she turned it round and held out the pen.
+"It's amended," said Karis. Her voice was not quite steady. She reached into the back of her narrow notebook and took out a folded sheet that Cael knew, worn soft along its creases, with seven numbered clauses in four hands and four signatures at the foot. She had carried it, it turned out, all term. She unfolded it on the wood. Under the first clause, in her smallest hand, she wrote: *Asked, week twenty-three, with L.'s release. Answered, yes. C.* And she turned it round and held out the pen.
 
 He wrote his initial where she had left the space.
 
@@ -184,7 +184,7 @@ He wrote his initial where she had left the space.
 
 Cael turned the binder round on the table, and slid it across the scarred wood to her, and took his hands away.
 
-She did not read it all that night. She read it at the table, slowly, from the front, with the lamp pulled close and her hand flat beside the page and never on it, and the three of them sat with her and did not talk. She read the first pages from Denvash. She read Lira's section and Brom's, and stopped for a while at Brom's, and Brom looked at the fire. She came to the back of the binder, to the pocket, and drew out what was in it one sheet at a time, and laid each one on the table in the order it came: her own consent in her own hand with Quenna's initials in the margin, and her paragraph with its scraped-out ghost of a sentence, and the page she had cut out of her own ledger with the penknife. Last came a loose sheet dated the Sunday before the hearing, in her own small closed hand, with two sentences on it under a heading she had underlined once.
+She did not read it all that night. She read it at the table, slowly, from the front, with the lamp pulled close and her hand flat beside the page and never on it. The three of them sat with her and did not talk. She read the first pages from Denvash. She read Lira's section and Brom's, and stopped for a while at Brom's, and Brom looked at the fire. Then she came to the pocket at the back of the binder. She drew out what was hers in it, one sheet at a time, from among the papers that proved things, and laid each one on the table in the order it came. There was her own consent in her own hand with Quenna's initials in the margin. There was her paragraph with its scraped-out ghost of a sentence, and the page she had cut out of her own ledger with the penknife. Last came a loose sheet dated the Sunday before the hearing: the second copy of her finding about him, two sentences in her small closed hand, which she had pushed across the archive table that afternoon and told him to put somewhere she would never know.
 
 She looked at that one for a long time.
 
@@ -200,9 +200,9 @@ She looked at that one for a long time.
 
 ---
 
-They went back to the quiet room on the Thursday of the twenty-third week, at the sixth bell, with the post in its bucket of sand and Lira's water and Brom's scoop, because the Ember work had stopped for the three weeks of the archive and the hearing and Lira said a thing you stopped practising was a thing you were letting go of.
+They went back to the quiet room on the Thursday of the twenty-third week, at the sixth bell, with the post in its bucket of sand and Lira's water and Brom's scoop. The Ember work had stopped for the three weeks of the archive and the hearing, and Lira said a thing you stopped practising was a thing you were letting go of.
 
-The burn on his left forearm had closed. It was a long pink seam now from above the wrist nearly to the elbow, shiny and tight, and it pulled when he made a fist; Wray had looked at it on the Tuesday and said *a scar is a lesson you don't have to take twice*. He kept it in his sleeve. He knelt by the post with his right hand, as always, and Karis stood at the end wall with her hands at her sides and no notebook anywhere on her, because the terms for this were still the terms, and the terms said she wrote nothing.
+The burn on his left forearm had closed. It was a long pink seam now from above the wrist nearly to the elbow, shiny and tight, and it pulled when he made a fist; Wray had looked at it on the Tuesday and said *a scar is a lesson you don't have to take twice*. He kept it in his sleeve. He knelt by the post with his right hand, as always. Karis stood at the end wall with her hands at her sides and no notebook anywhere on her, because the terms for this were still the terms, and the terms said she wrote nothing.
 
 "I want to try something," said Karis. "If you'll let me."
 
@@ -212,7 +212,7 @@ The burn on his left forearm had closed. It was a long pink seam now from above 
 
 "That's my rule," said Lira, from the water bucket.
 
-He chose the thumbnail first, because it was the one he knew, and fixed it in his mind like a mark scored in wood, and laid his palm on the grey oak, and turned inward toward the warmth, and asked, and let go.
+He chose the thumbnail first, because it was the one he knew, and fixed it in his mind like a mark scored in wood. Then he laid his palm on the grey oak, and turned inward toward the warmth, and asked, and let go.
 
 The candle that was not lit and then was. He took his hand away. A ring the width of his thumbnail, black at the centre, and a bead of ordinary flame in it, and Brom's scoop came down. Then the cold, under the breastbone and down the right arm into the fingers, grey to the second knuckle.
 
@@ -228,7 +228,7 @@ It was the same cold. He knelt with his hand on his knee and felt it go down his
 
 "Two," said Karis, and he heard in her voice that she had seen it on his face before he said anything. She counted. At ninety-five it came back.
 
-He chose the copper last. It was easy to choose large; the warmth seemed almost to lean toward it. He laid his palm flat and asked and let go, and when he lifted his hand there was a ring on the oak as wide as a coin, and a flame in the middle of it the size of his little finger, eating along the grain, and Brom put it out with two scoops instead of one and pressed them down for a long count.
+He chose the copper last. It was easy to choose large; the warmth seemed almost to lean toward it. He laid his palm flat and asked and let go, and when he lifted his hand there was a ring on the oak as wide as a coin, with a flame in the middle of it the size of his little finger, eating along the grain. Brom put it out with two scoops instead of one and pressed them down for a long count.
 
 Then the cold. The same cold. The same depth, the same grey, the same stair.
 
@@ -262,6 +262,6 @@ He wrote it kneeling on the scrubbed boards, with the binder on his knee, and re
 
 He read the line back, and then put one more under it, smaller, in the square hand.
 
-*If the cost is in the letting-go, then the letting-go is the part that's mine. Everything after it is the wood's. Everything before it is choosing. I don't know yet what that means about Q.'s question. I think it means something.*
+*If the cost is in the letting-go, then the letting-go is the part that's mine. Everything after it is the wood's. I don't know yet what else that means.*
 
 He drew the small box round it. *Not yet.*

@@ -44,25 +44,25 @@ But they had not come to Amrit's for the goat, and neither of them pretended the
 
 "All right."
 
-"I've been letting go on people for six years." He said it plainly, as a fact about his trade. "I know what every kind of getting out of the way looks like. The trained slip. The panic dive. The man who goes down flat because he's decided the ground is safer. I've fought Wind, real Wind, ranked, declared, people who'd been doing it since they were your age." He looked at the cup. "That wasn't any slip I know, and it wasn't fright. And you're no declared Wind, or you'd have said Wind when I asked you, and you didn't." He looked up. "You went before I let go. You didn't go away from it. You went round it, as if you knew where all the edges of it were going to be before I'd built them." He waited. "How?"
+"Six years now, I've made my living letting go on people." He said it plainly, as a fact about his trade. "Every way there is of getting out from under it, I've seen. The trained slip. The panic dive. The man who goes down flat because he's decided the ground is safer. I've fought Wind, real Wind, ranked, declared, people who'd been doing it since they were your age." He looked at the cup. "That wasn't any slip I know, and it wasn't fright. And you're no declared Wind, or you'd have said Wind when I asked you, and you didn't." He looked up. "You went before I let go. You didn't go away from it. You went round it, as if you knew where all the edges of it were going to be before I'd built them." He waited. "How?"
 
 So it had come. Lira had asked him nearly the same thing in the grey half, months before, and he answered Feryn as he had answered her. It was the only answer he owned, and Feryn had paid for a true one, not a clever one.
 
 "I don't know yet."
 
-Feryn looked at him. Cael let him look. There was nothing to hold up, and nothing to hide; it was only the truth, lying on the table between their cups, unfinished.
+Feryn looked at him. Cael let him look. He had nothing to hold up and nothing to hide. Between their two cups lay the plain truth, and it was not finished.
 
 "Yet," said Feryn.
 
-"I keep a book." Cael turned his own cup with his good hand, once. "Everything I can't explain goes in it. Everything in it gets explained in the end, or ruled out. That one's been in the book for a while." He looked at the river going by the window. "It happens when something's coming at me and I haven't time to choose. Asking for it has never once made it come. I asked for it today, in the fourth, when you came in fast." He felt his mouth go up at one corner, without much humour. "You saw how that went."
+"I keep a book." With his good hand Cael gave his own cup a single turn. "Everything I can't explain goes in it. Everything in it gets explained in the end, or ruled out. This one's sat in it a good while now." He looked at the river going by the window. "It happens when something's coming at me and I haven't time to choose. I can't call it. Calling's never worked. I asked for it today, in the fourth, when you came in fast." He felt his mouth go up at one corner, without much humour. "You saw how that went."
 
 Feryn did not say anything for a long while.
 
-Cael watched him turn the answer over. He watched him notice that it was not an answer, and weigh it, and decide, quite visibly, not to push at it. That was rare enough that he marked it. Most people pushed at a thing they could not explain, or backed away from it; he had a catalogue for both. Feryn only nodded slowly. He looked like a man walking away from a good bout half fought, by choice, because he expected the rematch to be worth more.
+Cael watched him turn the answer over. He watched him notice that it was not an answer, and weigh it, and decide, quite visibly, not to push at it. That was rare enough that he marked it. Most people pushed at a thing they could not explain, or backed away from it; he had a catalogue for both. Feryn only nodded slowly. It was how a man might leave a good bout half fought, on purpose, sure that the second meeting would pay better.
 
 "When you figure it out, I want to know."
 
-He said it the way he had said *all right* in the circle, like a gate shut behind him. It was not a politeness. It was a thing he was putting in his own book, with Cael's name against it.
+It had the same sound as his *all right* in the circle, a gate shut behind him. It was not a politeness. It was a thing he was putting in his own book, with Cael's name against it.
 
 "You'll be somewhere I can find you?"
 
@@ -72,21 +72,29 @@ Cael understood that this was how people who travelled the circuits said *yes*.
 
 He paid, as he had said he would, and counted the coins out onto the table more carefully than he had done anything else all evening. At the top of the three steps, out in the street, the sleet had stopped and the cold had come down behind it, hard and clear, with the lamps lit along the lower bridge and the river loud underneath. Feryn stood for a moment in the doorway of the eating house and looked at Cael once more, the whole bruised, standing catalogue of him, and shook his head again, slowly, in the same plain way as at the table.
 
-"Fourteen," he said, to himself, or to the street.
+"Fourteen," he told the street, or himself.
 
 Then he went off along the river toward wherever touring fighters slept, laughing quietly to himself in the dark.
 
 ---
 
-It was a slow walk back to Torvin's. Slow was all his legs would give him.
+The notice came while he still had the pencil in his hand.
 
-He did not go to Lira's. It was long past the lamps, and the widow had said what she had said, twice, and Lira's door locked from both sides. He stood for a moment at the corner by the well with the iron cover, where the lane went up toward the chandler's, and looked up it, and then went the other way. He would tell her in the morning, every word, in order. She had asked for it with a nod at the barrel, and she would have it first.
+It came as the first one had, thirty-seven nights before, on this same cot. There was no sound and no light, and nowhere it could be said to come from. There was the quiet first, the hush in which a whole thought gets ready to arrive, and then a turning over, and then, in the dark place behind his breastbone where nothing had lit since the word, something written.
 
-At Torvin's the house was asleep. He went up the stairs with his good hand flat on the wall, one stair at a time, and sat down on the end of his cot. Yeni's lamp was turned down to a bead, but when he sat down a hand came out from the next cot and turned it up a little, toward him, and went back under the blanket.
+```
+FRAGMENT ACQUIRED
+[unnamed] — Pressure-adjacent. Duration: undetermined. Integration: partial.
+Tier equivalent: unknown.
+```
 
-He took the Log down and opened it on his knee, and paid the bout into it.
+He had not been waiting for anything. He had been paying in a bout.
 
-It took a long time. The arm he wrote with was the arm that hurt, and every line cost something, and there was more to pay than he had ever had to pay before. He set down each exchange in his usual way: the event, then the read and its timing, then the price of the read and what it had paid for. It was the fifteenth entry in the Log since the autumn, and the fourteenth bout in Vell's book, because the Log had counted Baro, whom he had only watched.
+It had been a slow walk back from Amrit's, as slow as his legs would let it be. He had not gone up to Lira's. It was long past the lamps, and the widow had said what she had said, twice, and Lira's door locked from both sides. At the corner by the well with the iron cover he had stopped and looked up the lane toward the chandler's, and then gone the other way. In the morning he would tell her every word of it, in order. She had asked for that with one nod at the barrel, and she would have it first.
+
+Torvin's had been asleep. He had gone up the stairs a step at a time with his good hand flat on the wall and sat down on the end of his cot, and Yeni's lamp, turned down to a bead, had been turned up a little toward him by a hand that came out from under the next blanket and went back again.
+
+Then he had opened the Log on his knee. The arm he wrote with was the arm that hurt, and every line cost him, and he had never had so much to pay in. Every exchange went in by his usual rule. First the event; next the read, and the moment it came; last the price of the read, and the thing it had bought. It was the fifteenth entry in the Log since the autumn, and the fourteenth bout in Vell's book, because the Log had counted Baro, whom he had only watched.
 
 *Fifteenth. Feryn, Bronze Rank 2, Pressure. Lost, fourth exchange, by incapacity. Vell's call.*
 
@@ -98,75 +106,67 @@ It took a long time. The arm he wrote with was the arm that hurt, and every line
 
 *Fourth: read it fine. The margin was gone anyway. He'd learned I go round, so he didn't let go at all. He put his hand where I'd go. I called the step and it didn't come. Thrown with my own speed.*
 
-He sat and looked at that. Then he wrote the ruling, which was short.
+The ruling had been short.
 
 *Reading is necessary. Reading isn't enough. He didn't beat what Corvane showed me. He was only faster than me at it. The drawing's right. It needs somebody quicker standing in front of it.*
 
-He turned the book over to the back, and wrote, under the last entry, *Sixth instance. Feryn, third exchange. The step. Not called. Came when the air came.* Then he flexed his forearm, carefully, and sat holding the pencil, wondering whether the account was paid, and the notice came.
+After that he had turned the book over and written, under the last entry in the back, *Sixth instance. Feryn, third exchange. The step. Not called. Came when the air came.* And he had flexed his forearm, carefully, and sat there with the pencil, asking himself whether the account was settled, and that was when the answer came, in the dark, without his asking it anything at all.
 
-It came the way the first one had come, thirty-seven nights ago, on this cot. There was no sound and no light and no direction it came from; there was the quiet first, the quiet before a thought arrives whole, and then the turning over, and then, in the dark place behind his breastbone where nothing had lit since the word, something written.
+Now he did not move for a long time.
 
-```
-FRAGMENT ACQUIRED
-[unnamed] — Pressure-adjacent. Duration: undetermined. Integration: partial.
-Tier equivalent: unknown.
-```
-
-He sat very still on the end of the cot for a long time.
-
-He read it the way he had read the first one: once, and then again, and then a third time, slowly, each word checked against the one before it. It stayed. It sat in the dark beside the other one, the Wind one, quiet and plain, two lines of figures on a page where there had been one.
+He read it once, and again, and a third time, slowly, checking each word against the one before it as if it might have shifted while he looked away. It had not shifted. It sat in the dark beside the other one, the Wind one, plain and quiet. Where there had been one line of figures there were two.
 
 *Pressure-adjacent.*
 
-Then he did with it what he did with every new thing: he held it up beside the record to find its place.
+He copied it into the back of the Log letter for letter, as he had once copied the first, and then wrote the first out again above it, so that the two lay on one page where he could see both at once. Then he did what he did with anything new. He laid it against the record to see where it went.
 
-The Wind had taken three months. It had taken three months of mornings in the grey half, watching Lira move until something in him had taken the shape of it without being asked; hundreds of hours, and even then the notice had not come until the shape had already come up out of him under pressure, more than once, in the drop and against Dessa and against Sarel. That was the only example he had, and it was a long one.
+The Wind had cost three months. Three months of mornings in the grey half with Lira, watching her step until something in him had taken its shape without being told to: hundreds of hours. And even then the notice had waited until the shape had come up out of him under pressure, and not only once, but in the drop and against Dessa and against Sarel. It was the one example he had, and it was a long one.
 
-He had never watched Feryn before today. He had heard about him from Vell and Renn and the eel woman, and he had studied Pressure for three weeks from an old woman with a stick and a drawing in the dirt, and no notice had come from any of that. Corvane had built in front of him for two hours and leaned on him a dozen times, and nothing had come of it. He had watched Feryn fight for exactly one bout, his own, four exchanges, and the last of them had taken four seconds.
+Feryn he had never seen before noon today. He had heard of him from Vell, and from Renn, and from the eel woman on the fish steps. He had spent three weeks learning Pressure at the brickworks end from an old woman with a stick, who drew it for him in the dirt, and who had built in front of him for two hours together and leaned the air on him a dozen times; and no notice had come out of any of it. Of Feryn himself he had seen one bout, his own, four exchanges, the last of them over in four seconds.
 
-If it was the watching, the arithmetic would not come out. It did not come out by any road he could find. Three months of mornings for one, and four exchanges for the other.
+If watching was what did it, the sum would not come out. He tried it every way he could think of and it would not come out. Three months of mornings for the one; four exchanges for the other.
 
-So it was not the watching. Or not only the watching.
+So it was not the watching, or it was not the watching by itself.
 
-He went over the four exchanges a second time, more slowly, hunting through them as he hunted through any bout for the place where it had turned. He stopped where some clerk in the back of his head had already put a marker, before the notice had come, before he had known there was anything to mark: the fall, and the hand on his shoulder.
+He went back through the four exchanges more slowly, the way he hunted through any bout for the place where it had turned. Before the notice, before he had known there was anything worth marking, some clerk at the back of his head had already set a marker down, and he came to it now: the fall, and the hand on his shoulder.
 
-The grip had stayed. The throw had been finished, his weight gone past any getting back, everything the hand was for already done, and the hand had stayed on him anyway. It had been one full held beat, a pressed second of grip where a touch would have done, riding him halfway down before it opened. He had filed it because it did not fit. It might fit now.
+The grip had not let go. The throw had been over, his weight gone past any getting it back, everything the hand had been there to do already done, and still it had held him, one full beat, a pressed second of grip where a touch would have served, riding him halfway to the ground before it opened. He had set that aside in the circle because it fitted nowhere. Now it might fit.
 
-He picked up the pencil, and his hand was not entirely steady.
+His hand was not quite steady when he wrote.
 
-*Second fragment. Pressure-adjacent. From Feryn, I think. Not from watching, or I can't make the watching add up: one bout of him against three months of her. His air touched me three times in the bout, and Corvane's a dozen times in her brick yard, and nothing came from either. What's different is the hand. In the fourth his hand stayed on my shoulder after the throw was done. Held. One second, perhaps less, through my shirt. If whatever this is can come across by touch, one second of a hand might do what three months of looking did.*
+*Second fragment. Pressure-adjacent. From Feryn, I think. Not from watching, or I can't make the watching add up: one bout of him against three months of her. His air touched me three times in the bout, and Corvane's a dozen times in her brick yard, and nothing came from either. What's different is the hand. In the fourth, with the throw already finished, he kept hold of my shoulder. Held. One second, perhaps less, through my shirt. Suppose this thing can travel through a touch: then a single second of a hand might have done the work that three months of looking did.*
 
-He stopped there, and read it, and made himself write the next part before he could stop believing it.
+He stopped and read it over, and made himself put down the next part before he could stop believing it.
 
-*Might. One data point. I wrote that exact thing about the first notice, that one might be chance, and I'm putting it down again here, in the book, where I'll have to see it every time I want to stop doubting. I don't know that the touch did this. What I know is that the watching won't come out right, and that the touch is the one thing left over that doesn't fit anywhere else. That isn't the same as knowing.*
+*Might. One data point. I wrote that exact thing about the first notice, that one might be chance, and I'm putting it down again here, in the book, where I'll have to see it every time I want to stop doubting. I don't know that the touch did this. All I can say is that the watching never comes out right, however I add it, and the hand is the single thing left over that won't go in with the rest. That isn't the same as knowing.*
 
-He sat back against the cold wall under the window, careful of his ribs, and thought about Kestrel.
+He leaned back against the cold wall under the window, careful of his ribs, and thought about Kestrel.
 
-He turned back through the back pages to the two days at the middle-yard gate, and the two nights on the wall by the pump, and the half heartbeat in his heels in the grey half that he had never been able to trust, and the word he had written under all of it: *Inconclusive.* He had given three reasons it might have come to nothing: two days of watching were not three months; Force did not come across, or not to him; or the thing in his heels had been real and needed more time.
+He turned back through the pages to the two days at the middle-yard gate and the two nights on the wall by the pump, and the half heartbeat in his heels in the grey half that he had never been able to trust, and the word he had written under all of it: *Inconclusive.* He had given three reasons it might have come to nothing. Two days of watching were not three months; or Force did not cross, or did not cross to him; or the thing in his heels had been real and only wanted longer.
 
-He read them again, and found that there was a fourth now.
+He read them again and saw that there were four now.
 
-*Kestrel, reread,* he wrote, under the rest. *Add a fourth: that watching was never going to be enough with him, on its own, and I spent two mornings knocking at the wrong door. Two days at a gate, and he never once came nearer than an arm's length, except going past me with his rope.*
+*Kestrel, reread,* he wrote, under the rest. *A fourth reason: for two mornings I was knocking at the wrong door, because with him the watching alone was never going to do it. Two days at a gate, and he never once came nearer than an arm's length, except going past me with his rope.*
 
-*I don't know that either. I don't know what matters. Time, touch, the person, the Path, or some other thing there's no word for yet. Questions for the record: does touch always do it? Does it have to be long? Did he have to mean anything by it?*
+*I don't know that either. I don't know what matters. Time, touch, the person, the Path, or some other thing there's no word for yet. For the record, then: is it every touch, or only some? Must it last? Did he have to mean anything by it?*
 
-He looked at the last question, and wrote under it, slowly:
+He looked at the last question, and under it, slowly, he wrote:
 
 *He didn't mean anything. He was throwing me. If anything passed, it passed through a hand whose only business was putting me on the ground.*
 
-Then he sat and looked at the whole page. It was the most he had ever written in the back of the book in one night. He found that there was one more thing to pay in, and that it had no column, because none of the columns were for how the day had felt.
+Then he sat and looked at the whole page. It was more than he had ever put in the back of the book in a single night. There was one thing still to pay in, and it had no column, since none of the columns were for how a day had felt.
 
-A professional had beaten him in four exchanges, and had been a professional in every one of them. He had been read and outrun, his own speed turned into the throw that put him on his side in the wet, with forty-one people looking on. All of it was still on him, every separate hurt: the ribs on both sides now, the forearm wrapped round its bone, the whole right side of him from shoulder to hip where the ground had come up, the six breaths it had taken him to stand.
+A professional had beaten him in four exchanges, and had been a professional in every one of them. He had been read and outrun, and his own speed had been turned into the throw that laid him on his side in the wet, with forty-one people watching. It was all still on him, every separate hurt: the ribs on both sides now, the forearm wrapped round its bone, the whole right side of him from shoulder to hip where the ground had come up to meet him, and the six breaths it had taken him to stand.
 
-He turned to a fresh line at the very bottom of the page.
+At the foot of the page there was room for one more line, and he used it.
 
-*Loss. Feryn, Bronze Rank 2, Pressure, by incapacity, Vell's call. The call was right. I read him in three of four. Corvane's drawing holds. The step came once, when it chose, the way it always does. Got: the read, a dinner, an open account with a man who's always somewhere, and maybe a second door I never knew about. Paid: one arm, both sides, a fall. I paid three weeks and got more for them than I thought I was buying.*
+*Loss, by incapacity, on Vell's call, to Feryn (Bronze Rank 2, Pressure). The call was right. I read him in three of four. Corvane's drawing holds. The step came once, when it chose, the way it always does. Got: the read, a dinner, an open account with a man who's always somewhere, and maybe a second door I never knew about. Paid: one arm, both sides, a fall. Three weeks went in, and what came out was more than I'd paid for.*
 
 He looked at it. Then he wrote one more line, because it was true, and because he did not think he would believe it in the morning unless it was written down.
 
 *I've never lost anything and felt less like I'd lost it.*
 
-He closed the book and set it on the shelf beside Hesk's leather one. He lay down very carefully on his back, which was the only way left that did not hurt, and found that it hurt anyway. He lay looking at the beam with its old nail holes in the light of Yeni's lamp, and felt the two things sitting quietly side by side in the dark behind his breastbone, the one that leaned and the one that pressed, and listened to the wheezing man begin to whistle.
+He shut the book and set it on the shelf beside Hesk's leather one. He lay down very carefully on his back, which was the only way left that ought not to hurt, and it hurt anyway. He lay looking up at the beam with its old nail holes in the light of Yeni's lamp. Behind his breastbone, side by side in the dark, sat the two things, the one that leaned and the one that pressed, and he listened to the wheezing man begin to whistle.
 
 ---
 

@@ -4,7 +4,7 @@ The day after Kindling was the strangest day of all, because nothing happened in
 
 No notice came, and no officer knocked. The sun came up at the usual time and lay across the kitchen table for its usual twenty minutes, Ressa's ovens went on at the usual hour, and the canal gate sighed on schedule. It was as though the whole city had agreed to pretend that yesterday had not occurred and was waiting to see whether Cael would play along.
 
-Hesk went into the workshop after breakfast, and all morning Cael heard him in there: the vice opening and closing, files on brass, the creak of the rig's lever. Near eleven he went to the workshop door and looked in. Hesk was sitting at the bench with a gauge face in one hand and a jeweller's loupe in the other, perfectly still, not looking through the loupe at all. Cael went away again without saying anything. He was not sure Hesk had heard him come.
+Hesk went into the workshop after breakfast, and all morning Cael heard him in there: the vice opening and closing, files on brass, the creak of the rig's lever. Near eleven he went to the workshop door and looked in, and Hesk was sitting at the bench with a gauge face in one hand and a jeweller's loupe in the other, perfectly still, not looking through the loupe at all. Cael went away again without saying anything. He was not sure Hesk had heard him come.
 
 He spent the afternoon on the roof.
 
@@ -18,9 +18,9 @@ Every version he built fell apart under its own weight before it reached the end
 
 So he did not go down.
 
-Joren stood for his hour, and then for a little longer than his hour. Then he unfolded his arms, looked up Fen Street one last time, and walked away along the canal with his hands in his pockets.
+Joren stood for his hour, and then for a little longer than his hour, and then he unfolded his arms, looked up Fen Street one last time, and walked away along the canal with his hands in his pockets.
 
-Cael sat on the roof until the light changed. He had broken a promise to his oldest friend. It was not a large promise, but it was the first one he could remember breaking, and he wrote that down, because he did not want to be the kind of person who didn't.
+Cael sat on the roof until the light changed. He had broken a promise to his oldest friend. It was not a large promise, but it was the first one he could remember breaking, and he wrote that down, because a person who broke one and left it out of the book was a person he did not mean to become.
 
 ---
 
@@ -28,11 +28,11 @@ The notice came on the second morning.
 
 It came with a courier wearing the city administration's grey and brass, who knocked once and waited exactly long enough to be polite. Hesk answered. From the kitchen table, through the open doorway to the front room, Cael watched the courier's satchel, worn pale along the strap from going out every morning and coming back every night. He watched Hesk's signature on the receipt slip, slow and square, neither hurried nor hesitating.
 
-Over Hesk's shoulder the courier's eyes found Cael at the table and stayed for half a second before they slid away. It was the look you give a thing you have been told about and do not know how to look at directly. When he left, his boots on the front step going down were quieter than they had been coming up.
+Over Hesk's shoulder the courier's eyes found Cael at the table and stayed for half a second before they slid away, with the look you give a thing you have been told about and do not know how to look at directly. When he left, his boots on the front step going down were quieter than they had been coming up.
 
-Hesk brought the document into the kitchen and set it in the middle of the table, between the bread and the teapot. He stood looking down at it the way he looked at a block of brass stock before deciding where the first cut went.
+Hesk brought the document into the kitchen and set it in the middle of the table, between the bread and the teapot, and stood looking down at it the way he looked at a block of brass stock before deciding where the first cut went.
 
-"You should be the one to read it," he said.
+"It's addressed to you," he said. "You read it."
 
 The seal was dark wax pressed with the Compact's mark, a hand holding a balance, so cleanly that a machine must have done it. Cael thought, for no good reason, of the brass plate on Pellin's desk, and all that care poured into the outside of things. He broke the seal and unfolded the paper.
 
@@ -46,9 +46,9 @@ The language was official in the way official language works, holding its own me
 
 *This notice does not constitute a criminal or civil finding against the bearer. It constitutes a residential and administrative provision only.*
 
-He read the last part a third time. *This notice does not constitute a criminal or civil finding against the bearer.* It was a strange thing to put in writing, because you only wrote that down if a great many people needed to be told it before they would believe it.
+He read the last part a third time. *This notice does not constitute a criminal or civil finding against the bearer.* It was a strange thing to put in writing, because nobody puts that in writing unless a good many readers would otherwise assume the opposite.
 
-He set the paper on the table. The paper was good, heavier than the certificate had been. When the light from the window caught it he could see a watermark in the corner, a little official flourish, as though someone somewhere had decided that this document deserved nice paper. He almost laughed, and it did not come out.
+He set the paper on the table, and it was good paper, heavier than the certificate had been. When the light from the window caught it he could see a watermark in the corner, a little official flourish, as though someone somewhere had decided that this document deserved nice paper. He almost laughed, and it did not come out.
 
 Then he read the note about the residence again, the line that told the standing-holder to think about where people slept, and understood, not the words, but the machine behind them.
 
@@ -66,7 +66,7 @@ Hesk had come round to read it over his shoulder, and his face did what it had d
 
 "You could live there," Hesk agreed. "Inside the same walls, three streets from the Compact's district office, which checks that quarter every month, with every gate in this city pulling your record each time you pass it. And a review doesn't count houses, Cael. It counts people. A [SHATTERED] boy sleeping by the tanneries and working at his grandfather's bench all day is still a boy at 14 Fen Street, as far as the review is concerned." He shook his head. "In Denvash, the record is always waiting for you at the next gate. Ardenmere's Unranked District doesn't have one."
 
-Cael looked at the line about guild status, *pending Compact review*. He thought about the years Hesk had spent being exactly what he was: a competent, quiet, reliable Iron-tier instrument-maker, with canal gauges and survey levels and a clock inside a walking stick, and a name on the guild roll that nobody had ever had reason to look at twice. Three lines of print could put all of that in question, over something Cael had not chosen and could not have stopped.
+Cael looked at the line about guild status, *pending Compact review*. He thought about all the years Hesk had spent being precisely himself, an Iron-tier instrument-maker, quiet and able and dependable, with canal gauges and survey levels and a clock inside a walking stick, and a name on the guild roll that nobody had ever had reason to look at twice. Three lines of print could put all of that in question, over something Cael had not chosen and could not have stopped.
 
 "You could refuse," he said.
 
@@ -84,11 +84,11 @@ Hesk's voice did not rise. It went flatter and steadier, and that made it land h
 
 Cael did not have an answer.
 
-They sat with the notice between them on the table, and neither of them moved it. Outside, the ordinary sounds of the street went on without them: a cart, a vendor calling. Three doors down, Ressa's flour being unloaded off a wagon sack by sack while somebody counted the sacks in a loud, bored voice. At first Cael could hardly bear how ordinary it was. A moment later the same ordinariness steadied him. The sacks would keep coming off the wagon and the count would keep going up, and whatever else happened, somebody would bake bread tomorrow.
+They sat with the notice between them on the table, and neither of them moved it. Outside, the street went on making its usual noises without them: a cart, a vendor calling. Three doors down, Ressa's flour being unloaded off a wagon sack by sack while somebody counted the sacks in a loud, bored voice. At first Cael could hardly bear how ordinary it was. A moment later the same ordinariness steadied him. The sacks would keep coming off the wagon and the count would keep going up, and whatever else happened, somebody would bake bread tomorrow.
 
 "What happens to the workshop," he said at last, "if they actually review you?"
 
-"Nothing today, and possibly nothing for months. The Compact moves slowly when slow suits it, which is most of the time." Hesk's voice had come back to its usual level, the one he used for load figures and hard truths alike. "There's risk, and I won't tell you otherwise. It's mine to carry. I settled that long before this morning."
+"Nothing today, and possibly nothing for months. The Compact takes its time whenever taking it suits, and it nearly always suits." Hesk's voice had come back to its usual level, the one he used for load figures and hard truths alike. "There's risk, and I won't tell you otherwise. It's mine to carry. I settled that long before this morning."
 
 "When?"
 
@@ -114,7 +114,7 @@ She did not ask why he had come. She took a key from a hook and led him down a p
 
 She went back to her desk and left the door open behind her. So much for discretion, he thought; news ran through the system faster than he could walk. She had known his number without being told, when two mornings ago, before the circle, his number had meant nothing to anyone.
 
-The archive was one long room, shelved from floor to ceiling, with a scarred reading table and a single chair under a window that faced north, as archive windows always seemed to, as though direct sunlight might hurt something. Dust turned slowly in the pale light, and he watched it for a moment before he made himself start. The full summary was where she had said, thick and green and heavy, and its spine cracked when he opened it, a small dry sound that seemed much too loud in the quiet room.
+The archive was one long room, shelved from floor to ceiling, with a scarred reading table and a single chair under a window that faced north, as archive windows always seemed to, as though direct sunlight might hurt something. Dust turned slowly in the pale light, and he watched it for a moment before he made himself start. The full summary was where she had said, thick and green and heavy, and the spine gave a small dry crack as he opened it, a sound that seemed much too loud in the quiet room.
 
 He worked back from the index and found the section, not where he expected it but near the very end, under a subheading he had never seen in the community hall's copy:
 
@@ -144,13 +144,13 @@ He thought about how many people had sat in this chair over however many years t
 
 He put the book back exactly as he had found it, its spine level with its neighbours. At the front desk the clerk looked up as he passed and opened her mouth as if to say something, and then closed it and nodded, and he nodded back.
 
-The street outside looked exactly as it had two hours before, which was almost the worst part. The vendors were still calling, and a cart creaked past with a load of new-cut lumber that smelled of resin, and the world had once again declined to notice that his had moved. He did not decide on the walk home how he felt about any of it.
+The street outside looked exactly as it had two hours before, which was almost the worst part. The vendors were still calling, and a cart creaked past with a load of new-cut lumber that smelled of resin, and once again the world had not noticed that his had shifted under him. He did not decide on the walk home how he felt about any of it.
 
 He decided something else instead: he was not going to be the fifth entry in that book, and it was so easy to decide that it worried him, because deciding things on a walk home was easy and staying alive long enough to make them true was going to be the hard part.
 
 ---
 
-Hesk was in the workshop when he got back, with a half-built housing clamped in the vice and a tray of small tools beside it. He looked up as Cael came in, read something in his face, and put the tools down.
+Hesk was in the workshop when he got back, with a half-built housing clamped in the vice and a tray of small tools beside it. He glanced up when Cael came in, saw whatever was written on Cael's face, and laid the tools aside.
 
 "You went to the archive."
 
@@ -166,21 +166,21 @@ Hesk was quiet a moment. "I know."
 
 "No." Hesk met his eyes and did not look away from it. "I gave you what you needed to decide things. I kept back what would only have frightened you and given you nothing to do with the fear. That wasn't a neutral choice and I won't say it was. It was my judgement, and you can think it a bad one."
 
-Cael found, a little to his surprise, that he did not think it was wrong, or not completely. It was the choice of someone trying to hold two things at once: the job of getting Cael ready for what was coming, and the instinct not to hand him more weight than the day required, and those two things did not fit together neatly. They hardly ever did.
+Cael found, a little to his surprise, that he did not think it was wrong, or not completely. It was the choice of a man trying to carry two loads in one pair of hands: the job of getting Cael ready for what was coming, and the instinct not to hand him more weight than the day required, and those two things did not fit together neatly. They hardly ever did.
 
 Hesk's hands went back to the housing in the vice and moved through the work without hurry. They were a craftsman's hands, which had done this motion ten thousand times and could keep doing it, steady and exact, while the rest of him held a conversation that mattered far more than the instrument ever would. That steadiness had always been a comfort, and it was a comfort now, and it took him a moment to see that the comfort and the anger were both there at once, side by side, neither cancelling the other.
 
-"From now on, tell me things," Cael said. "When they happen. Not handled, and not saved for when you decide I'm ready."
+"From now on, tell me things," Cael said. "As they come. Not managed, and not saved for when you decide I'm ready."
 
 "All right." Hesk set down the file. "Then there's something you should have now, while we're being plain."
 
 "Okay."
 
-Hesk looked at the housing, and then back at Cael. "The fourth record, the one with no disposition. Thirty-two years ago." He stopped, choosing the next words with the care of a man who had rehearsed them for years without knowing when he would have to say them. "I was twenty-two, serving two years in the Compact's regional logistics division. No fighting. I routed supplies, which is the work they hand to steady Iron-tiers who keep their questions to themselves. That file was opened while I was there. I watched it begin. I never saw how it finished."
+Hesk looked at the housing, and then back at Cael. "The fourth record, the one with no disposition. Thirty-two years ago." He paused and picked the next words out one by one, like a man who had practised them for years without ever knowing which day he would need them. "I was twenty-two, serving two years in the Compact's regional logistics division. No fighting. I routed supplies, which is the work they hand to steady Iron-tiers who keep their questions to themselves. That file was opened while I was there. I watched it begin. I never saw how it finished."
 
 Cael had gone very still. "What happened to them?"
 
-"I don't know." He said it plainly, and Cael could hear what the plain answer cost him. "I'm not dodging. I mean it. Someone took the case away from regional oversight and moved it up, somewhere my clearance didn't reach, and after that the file went silent. I asked about it twice, and both times I was told it wasn't my concern, in the tone that means *stop asking.*"
+"I don't know." He said it plainly, and Cael could hear what the plain answer cost him. "I'm not dodging. I mean it. Someone took the case away from regional oversight and moved it up, somewhere my clearance didn't reach, and after that the file went silent. Twice I asked about it, and twice I was told it was none of my business, in the voice that means *stop asking.*"
 
 He let out a long breath.
 
@@ -192,9 +192,9 @@ He let out a long breath.
 
 Cael opened his mouth, and Hesk lifted a hand.
 
-"It isn't that I don't trust you. A name like that is a thread. Pull it before you're strong enough, and it pulls you instead." He lowered his hand. "That isn't a managed timeline, Cael. It's a real condition. When you meet it, you'll know."
+"It isn't that I don't trust you. A name like that is a thread. Pull it before you're strong enough, and it pulls you instead." He lowered his hand. "That isn't a managed timeline, Cael. It's a real condition, and you'll know it when you meet it."
 
-Cael did not write any of it down, not yet, and not in front of him. He held it instead, and turned it over as he had turned over the third exchange on the sheet in the community hall. Right now the shape of it mattered more than what was inside: a name never told, a file opened and then taken somewhere higher, and a promise.
+He did not write any of it down, not yet, not with Hesk watching. He held on to it instead, and turned it over as he had turned over the third exchange on the sheet in the community hall. Right now the shape of it mattered more than what was inside: a name never told, a file opened and then taken somewhere higher, and a promise.
 
 "Okay," he said at last. "I believe you."
 
@@ -208,7 +208,7 @@ It did not take long, because he did not own much: clothes, three notebooks, and
 
 He held each notebook before he put it in the bag. The first was three years old, its spine cracked and its cover gone soft. It was full of a younger boy's observations so earnest that he could not be embarrassed by them: *Garrik says a bearing is happiest when it is doing nothing. The grey dog does not like the colour blue.* The second covered the year he had first seen how far apart the Outer District and the Inner one really were. The five pages about the wall had felt like an essay when he wrote them and felt now more like a warning he had written to himself without knowing who it was for.
 
-The third was the current one, with eleven descriptions of Kindling and two stars and a Stone Path declaration in Joren's round hand near the back. Folded into its back pages was a copy of a registry entry about four people he had never met and was never going to stop thinking about. He packed them in order, oldest at the bottom, the way you pack something you mean to keep adding to.
+The third was the current one, with eleven descriptions of Kindling and two stars and a Stone Path declaration in Joren's round hand near the back. Folded into its back pages was a copy of a registry entry about four people he had never met and was never going to stop thinking about. Into the bag they went in order, the oldest underneath, as you stack a thing you mean to keep adding to.
 
 Then he sat on the bed with a single loose page from the back of the current notebook and wrote to Joren. It took a long time, and he tore up two versions before he kept the third, which was short.
 

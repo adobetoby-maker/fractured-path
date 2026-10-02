@@ -34,7 +34,7 @@ Lira looked at him with deep and dignified offence.
 
 "You didn't let me have it. Your weight went onto your left foot before the strike started. I watched it go."
 
-"That is exactly the kind of thing a person says when they want to feel better about losing a sparring round."
+"People who've just lost a sparring round say that sort of thing to cheer themselves up."
 
 "I didn't lose it. I touched your sleeve."
 

@@ -1,140 +1,132 @@
 # Chapter 20 — What the Registry Says
 
-He was early, even for him, and the sun was not up. Mist lay in the yard of the Cinder House, low and white over the packed dirt, so thick in the corner by the drain that the barrel stood up out of it like a post in a flood. The crows had not arrived yet.
+Mist had come up off the river in the night and settled in the Cinder House yard as if it meant to stay. It lay knee-deep over the packed dirt, so that the rain barrel by the drain stood out of it with nothing showing below the second hoop, and the groove of the circle ran a few paces from the gate and went under. There was no sun yet, and so no grey half; there was only grey everywhere, and the cold.
 
-The circle's groove ran away into the mist and disappeared, and the east wall had not yet begun to throw its shadow, because there was not yet any sun to throw it.
+Lira was at the post.
 
-Lira was there anyway.
+He saw her before she saw him, or he thought he did. She had one foot up on the canvas wrapping and her body folded down along the leg, and as he came through the gate she straightened and stood quite still, with her hands loose at her sides, looking at nothing.
 
-She was at the post, stretching, with one foot up on the canvas wrapping and her body folded down over the leg, and she did not look surprised to see him. He was beginning to think she was never surprised to see anybody, that she simply arrived everywhere first and waited.
+He had seen her do that before, most mornings now that he came to think of it: a breath of stillness at the post before the first strike, her eyes gone soft and her face turned a little away, as if she were listening for her name in another room. He had taken it for some kind of getting ready, like the old man in the lane setting his feet.
+
+This morning, after the yard at midnight, he knew what he was looking at, and it went through him like cold water.
+
+Then it was over: she blinked, put her other foot up on the canvas, and saw him.
 
 "You're early," she said, into her knee.
 
 "So are you."
 
-"I'm always early. You're early for you." She changed legs. "You look as though you slept in a ditch."
+"I'm always early. You're early for you." She changed legs. "You look as if somebody dragged you here behind a cart."
 
-He had walked all the way from Torvin's with the question, turning it over and over, trying to find a way into it two steps away from the real one, something he could back out of if her face did the wrong thing. He had built three or four and walked them up and down the lanes and knocked the corners off them.
+He had brought a question with him from Torvin's and walked it up and down the lanes in the dark, looking for a way into it from the side, something with a door at the back he could leave by if her face went wrong. He had built three or four of those and knocked them all down again before the river, and now he stood in the mist with the real one and none of the others.
 
-Standing in front of her in the mist, with her folded over her leg and not looking at him, he found that he could not remember any of them.
+"What were you doing just then?" he said. "Before you saw me."
 
-"What does it look like," he said, "when you check your Arbiter?"
+"Just then?" She glanced at the post as though it might remember. "Looking at my page. Why?"
 
-It came out much too fast, straight across whatever she had been about to say about ditches. She did not seem to notice; she was still stretching, and she answered the way you answer a question about the weather.
+"How do you do it?"
 
-"Like checking a ledger. More or less." She straightened, and put her hands on her hips, and leaned back until her spine cracked. "You reach for it. That's hard to describe if you've never done it. It's not a thing you do with your body. It's more like remembering something on purpose. And it opens, and it shows you your page. Tier, rank, Path. Your declarations, in the order they came. Sometimes a line at the bottom, if something's shifted, if you've been building toward a rank and you're close." She shrugged. "Takes about a breath. I do it most mornings without thinking. Why? Are you wondering what yours'll look like, once it stops sticking?"
+She laughed a little, the way you laugh when somebody asks how you breathe. "You reach. It isn't a thing you do with your arms, so it's hard to say. It's more like going after a name you know you know, only on purpose, and it comes." She bent and pressed her palms flat to the dirt and talked to her knees. "Then it's there, at the edge, and it shows you. Tier and rank. Path. Your declarations, one under the other, in the order you got them. Sometimes there's a line at the foot of it if something's moving, if you're building toward the next rank and you're nearly there. All of it takes a breath. I hardly notice I've done it." She came up and set her hands on her hips and leaned back until something in her spine clicked. "You'll have yours soon enough, once whatever's stuck comes unstuck. You'll be bored of it in a week."
 
-She said it lightly, still loosening her shoulders, with no idea what she was standing on.
+She said it kindly and carelessly at once, still loosening her shoulders, with no idea at all where she was standing.
 
-"Does it always answer?"
+"Does it ever not come?"
 
-"Of course it always answers. It always—"
+"No. It always comes. It's—"
 
-She stopped.
+The word broke off in the middle, and her hands came down from her hips.
 
-She stopped in the middle of the word, and her hands came down off her hips, and she looked at him. He watched her whole body change in the space of that one broken sentence. It was not alarm.
+He watched it happen to her as he had watched it happen on the barrel at the rope, when somebody in the circle did a thing she had not trained against. It was not fright; everything in her went still and quick together, and began to add, and he could almost see the figures going into their columns.
 
-It was the thing he had seen her do on the barrel when somebody in the circle did something she had not trained against, and in the grey half yesterday morning. Everything in her went still and quick at the same time and began to add.
+"Why are you asking me that?"
 
-"Why are you asking?"
+He had meant to come at this slowly, to take weeks over it the way he took weeks over everything and be ready when he did; he was not ready, and it was dawn, and he found he was going to say it anyway.
 
-He had known this would come, but not like this, blurted at dawn, without any of the slow care he usually took for weeks before he let himself act. He had imagined something careful. He had imagined being ready.
+"Because mine doesn't."
 
-"What does it look like when it doesn't?"
+She waited, and she was good at waiting; he had not known until now how badly he would need somebody to be.
 
-"It doesn't not. It always answers. It's an Arbiter, it's—" She stopped again. "Unless."
+"It came the way everybody says it does, at Weaver's Row. From behind here." He laid two fingers on his breastbone. "It sat at the side of my eye for eleven seconds. Then it gave me one word and went out, like a lamp when you pinch the wick, and it hasn't come back." The next part was harder, and he made himself go on to it, because he had not walked all this way to stop at the easy half. "I didn't try it again for four weeks. I was frightened of what I'd find. Last night I went down into Torvin's yard at midnight and tried it properly, over and over. I don't know how many times. I stopped counting."
 
-He watched her get there, watched her take a word she had read on a page by candlelight and turn it into a person standing in front of her in the mist, the way he had done in the archive in Denvash with the number four.
-
-"You know what I am." It was not quite a question.
-
-"[SHATTERED]." She said it carefully, as though she were picking up something she had read about and never held. "I looked it up. After the first day."
-
-He had not expected that. It must have shown.
-
-"There's a man in the other market with a crate of old books with the covers torn off. I bought a registry summary off him that night, for less than a pie, and sat up with it till I found the four lines." She looked at the post, not at him. "I didn't tell you. I'd made up my mind yesterday that I would, and I don't know why I hadn't before. It felt like reading somebody's letters. You'd told me the word yourself. I didn't want you to think I'd gone looking behind it."
-
-"What did it say?"
-
-"What you already know it says." She was quiet for a moment. "Four instances. Deprecated. Safety risk. That's all it says. There wasn't anything about an Arbiter in it." She looked back at him. "So that's it. It isn't that you drew a poor Path. You don't get one you can check. You don't get a page."
-
-"I got one word. Then it went out."
-
-"Went out."
-
-"It came up the way everybody says. From behind here." He touched his breastbone. "It sat at the edge of my eye for eleven seconds. Then it said the word, and then it went out, like a lamp when you pinch the wick. And it hasn't come back." He made himself say the next part. "I didn't look for it again for four weeks. I was afraid to. Last night I went down into Torvin's yard at midnight and tried. Properly. I don't know how many times. I stopped counting."
-
-Lira did not say anything for a long moment.
-
-"You stopped counting."
+"You stopped counting," Lira said.
 
 "Yes."
 
-He watched her understand what that meant, coming from him. He saw it go into her face and stay there.
+Her eyes stayed on him a long moment, and he watched her take the measure of that, coming from him, and put it somewhere, and leave it there.
 
-"That's why you don't know things," she said slowly. "Things everybody else just knows. Your rank, whether you're getting better, whether you're close to anything." She let out a breath. "I check mine every morning without even thinking about it. It's like looking up to see what the weather's doing. I never once thought what it'd be like to reach for it and have it not be there." She shook her head. "That's worse than I thought the word meant. I thought it meant a bad draw. That's not a bad draw. That's no draw."
+"I know the word," she said. "I ought to tell you that before anything else. [SHATTERED]. I've known it since the day you told me at the board. I went down to the other market that night, to the man with the crate of old books with their covers torn off, and bought a registry summary from him for less than a pie, and sat up by the candle till I found the four lines." She was looking at the post now, and not at him. "I'd made up my mind yesterday that I'd tell you. I don't know why it took me till yesterday. It felt like going through somebody's letters while they were out of the room. You'd given me the word yourself, and I didn't want you thinking I'd gone round behind it."
 
-"Is it worse?"
+He had not expected that, and he did not try to hide that he had not.
 
-"I don't know." She looked at him straight. "Is it?"
+"What did it say?"
 
-She was not saying it to be kind. She wanted to know, as she had wanted to know at the board on the second day, when she had looked at the word as if it were a question. He had never thought about it this way, because he had been too busy being afraid of it, and he thought about it now.
+"What you know it says. Four instances. Deprecated. A safety risk." She shook her head. "Nothing about the Arbiter, not one word. I read it as a bad draw. I thought you'd got a Path nobody wanted and a stamp to say so." She drew a long breath and let it out into the cold, where it hung white. "That's not what this is, though, is it. A bad draw's still a draw. You'd still get to look at it, and know your rank, and whether you'd moved, and whether you were close to anything, the same as the rest of us do every morning before we've so much as tied our boots. This isn't a bad draw. It's no draw at all."
 
-"It's worse because I don't have a map. Everybody else gets told, more or less, what they are and where they've got to. I have to make the map myself, out of evidence, and I don't know if I'm reading the evidence right, and there's nobody to check my working against." He stopped. "But it's better, too. Nobody can tell me where I stop. Because nobody knows. There isn't a page somewhere with a number already on it, waiting for me to catch up to it."
+"Is that worse?"
 
-"That's either very freeing or completely terrifying."
+"You tell me." She turned and looked straight at him. "I mean it. Is it?"
 
-"Both. Most hours of most days."
+She was not being kind. She wanted the answer, the way she had wanted it at the board on the day they met, when she had looked at the word on his face and seen a question in it. He had been too busy being afraid of the thing to wonder what it was, and he wondered now.
 
-She sat down on the low wall at the side of the yard, in the mist, and after a moment he sat down beside her.
+"Some ways it's worse. You get told where you are, and I don't. I have to work it out from what happens and write it down, and I can't tell whether I'm reading it right, and there's nobody I can hold my sums up against." He stopped, because the other half of it had arrived while he was talking and he wanted to look at it before he said it. "But nobody can tell me where I stop, either, because nobody knows. There's no figure written down somewhere that I'm meant to grow into and no further."
 
-"Can I ask you a thing that might be stupid?"
+"That's either the best thing I've ever heard or the most frightening."
 
-"You've never asked me a stupid thing."
+"It's both. Most hours of most days."
 
-"There's always a first." She picked at a loose thread on the cuff of her jacket, where it had been turned back and stitched, not looking at him, which he had learned was how she chose words when they mattered. "When it happened. In the office. When it said the word. Did it feel like something was wrong with you? Like something broke? Or did it just feel like nothing, like a door not opening?"
+"Yesterday," she said then, and he waited.
 
-He went back honestly to the circle of pale wood, and the light rising, and the low note in his chest, because that was what her question deserved.
+"I said I'd not ask you again, and I won't. Not until you've got something you want to tell me." She was looking at the eaves of the public house, where a crow had just come down out of the mist and was shaking its feathers into order. "But I'm not going to pretend I didn't see it, or pretend it was nothing. And I'm not going to pretend it frightened me, because it didn't. I want you to have that, plainly. It didn't."
 
-"Neither. That's the strange part. It felt finished. It didn't feel like a mistake. It felt like an answer, a real one, only nobody had a drawer to put it in." He looked at the mist. "Nothing about it felt broken from the inside. It was other people's faces that made it broken. Pellin's hand going to the back of the drawer. The guard at the gate. That's when it broke. Not before."
+"I looked for it. In your face, after."
 
-Lira was quiet for a while. "That wasn't a stupid question," she said at last. "I was wrong. Nothing you've told me about it has been more use than that." She turned and looked at him. "Because that's the part that counts, isn't it? Not what the registry thinks it is. What it's like from where you're standing."
-
-"I don't know yet what it's like from where I'm standing. That's most of what I'm doing. Trying to find out from the inside what everybody else keeps telling me from the outside."
-
-"Then we're doing the same thing. We started from different ends, that's all."
-
-She did not make anything more of it than that. She said it simply and looked away, and he found that because she did not try to make it land, it landed.
-
-They sat on the wall a while longer. The mist had begun to thin. Somewhere above it the sun was coming, and the top of the east wall had turned pale gold, and the first crow came down onto the eaves of the public house and shook itself and looked at them.
-
-"Yesterday," she said, and he waited.
-
-"I'm not going to ask you again. Not until you've got something you want to tell me." She was looking at the crow. "But I'm not going to pretend I didn't see it, either. I'm not going to pretend it was nothing, and I'm not going to pretend it frightened me, because it didn't." She looked at him. "I want you to know that. It didn't."
-
-"I looked for it. In your face, afterward."
-
-"I know you did. I watched you look. It wasn't there."
+"I know. I watched you looking. It wasn't there."
 
 "No."
 
-"It won't be." She said it flatly, as though she were giving him a measurement. Then, quite differently, practically, the way she said *catch, reset, send*: "So you haven't got a page. You've got Vell's book."
+"It won't be." She said it flatly, as if she were reading him a length off a rule. Then she changed altogether and became practical, in the voice that said *catch, reset, send*. "Right. So you haven't got a page. What you've got is Vell's book."
 
-"Which doesn't have my name in it."
+"Which hasn't got my name in it."
 
-"Which has what you did in it. And Marrow's slate."
+"Which has what you did in it, every time. And Marrow's slate."
 
-"Which is a number he wipes off with his sleeve."
+"Which is chalk. He wipes it with his sleeve."
 
-"Which went from one to four inside three weeks. And you've got that." She nodded at the bulge of the Log in his coat. "And you've got me."
+"Which went from one to four in three weeks, and Marrow's not a man who moves a number out of charity." She nodded at the square bulge of the Log in his coat. "And you've got that. And me."
 
 He looked at her.
 
-"I've been watching you for three weeks. Every morning. I know what you were like on the first one. So I can tell you." She held up a hand and counted on it. "You catch with the left now, as well as the right, and you didn't, a fortnight ago. You don't make the hole in the deflection any more. You found it and it's gone. You turn your back foot out on the box drill, still, but less. And against Petra you went on her shoulders in the seventh exchange a good quarter-breath sooner than you went on them in the second. I watched it." She put her hand down. "That's not a page. It's not the one everybody else has. But it's not nothing, and it's true, and somebody's checking it."
+"I've watched you every morning for three weeks, and I know what you were like on the first one, so I can tell you where you've got to." She held up her hand and counted it off on her fingers. "You catch with the left now, not only the right, and a fortnight ago you didn't. The hole in your deflection's gone; you found it, and it's shut. Your back foot still turns out on the box, but less. And against Petra you went for her shoulders a good quarter of a breath sooner in the seventh exchange than you did in the second. I watched." She put the hand down. "That's not the page the rest of us get. But it's true, and it's not nothing, and somebody's checking it."
 
-He looked at the post for some time before he answered. "Every morning."
+He looked at the post, its canvas dark with the damp, before he answered.
 
-"Every morning. You write it down. I'll tell you what I saw, and you'll put it in the columns, and you'll have your evidence." She stood up. "It's a worse Arbiter than the real one. It's grumpy before breakfast and it's got opinions about your feet. But it's yours."
+"Every morning," he said at last.
+
+"Every morning. I'll tell you what I saw and you'll write it in your middle column, with your little *h*, because that's evidence and that's where it belongs." She pushed off from the post and dusted her palms on her trousers. "It'll be a worse Arbiter than the real one. It's short-tempered before it's had its bread, and it's got opinions about your feet. But it's yours."
+
+They sat on the low wall at the side of the yard, on stones wet with the mist.
+
+"Can I ask you something?" she said. "You can tell me it's daft."
+
+"Ask."
+
+She picked at a thread on the turned-back cuff of her jacket where it had been restitched, and kept her eyes on it. He had learned that that was how she found words when the words had weight. "When it said the word, in the office. That first moment, before anybody had looked at you. What was it like in there?" She tapped her own breastbone, where he had tapped his. "Did you feel cracked? Spoiled? Or was it only empty, like leaning on a door that won't give?"
+
+He went back for it honestly, to the circle of pale wood and the light coming up through it and the low note in his chest, because the question had earned that much.
+
+"None of those. That's the odd part." He found the words slowly. "It felt done. Finished, like a sum that comes out right when you go back and check it. I didn't feel spoiled. I felt answered, only it was an answer nobody had a drawer for." He watched the mist lift off the groove. "The breaking came after, and it came from outside. Pellin's hand going to the back of the drawer for the green book. The guard at the gate stepping back from me. That's where it broke. Not in me. In them."
+
+Lira was quiet for a good while.
+
+"That wasn't daft," she said at last. "You've told me a lot about it in three weeks, and that's the most use of any of it." She turned on the wall to look at him. "It's what I'd want somebody to ask, if it were me. Not what the summary calls it. What it was like in there."
+
+"I'm still finding out what it's like in there. That's most of what I'm doing. Everybody tells me what it is from across the room, and I'm trying to find out from where I'm sitting."
+
+"Then it's one job, and we're both at it," she said. "We came in from opposite ends, that's all."
+
+She did not push it any further. She said it and looked away at the eaves, where the crow had found a second crow, and because she did not try to make it land, it landed.
+
+The mist was going, and above it the sun had found the top of the east wall and turned the coping pale gold, and the barrel by the drain had its feet again.
 
 ---
 
@@ -144,7 +136,7 @@ He did not answer at once. He was not unwilling; it was only that it was the one
 
 "You don't have to show me." She had seen him hesitate, as she seemed to see most things. "It's not something you owe me."
 
-"I know." He took the old notebook out of his coat, the third one from Denvash, and opened it from the back. The notice was folded small and tucked inside the back cover, where it had been since Fen Street. Its creases had gone soft from being opened and shut more often than any paper needed to be. "I think I want you to. I've just never shown it to anybody who wasn't in the kitchen when it came."
+"I know." He took the old notebook out of his coat, the third one from Denvash, and opened it from the back. The notice was folded small and tucked inside the back cover, where it had been since Fen Street. Its creases had gone soft from being opened and shut more often than any paper needed to be. "I think I want you to. It's only that everybody who's read it so far was in the kitchen when it came."
 
 He gave it to her.
 
@@ -160,7 +152,7 @@ She read one part aloud, under her breath, as if she were checking it.
 
 Lira looked up from the paper.
 
-"This is built," she said. "Do you see? Somebody built this, the way you'd build a bracket. Nobody in here tells you to leave the city, or your grandfather. It takes the house off you, in one line, and then it writes down, very exactly, what it would cost him to keep you near, and gives it to him to add up for himself." She tapped the line with one finger. "So when you went, it was his choice. And yours. Nobody at the registry ever had to be the one. That's not an accident. Somebody's written a great many of these and knows exactly how much weight a sentence can carry without ever looking like a threat."
+"This is built," she said. "Do you see? Somebody built this, the way you'd build a bracket. Nobody in here tells you to leave the city, or your grandfather. It takes the house off you, in one line, and then it writes down, very exactly, what it would cost him to keep you near, and gives it to him to add up for himself." She tapped the line with one finger. "So when you went, it was his choice. And yours. Nobody at the registry ever had to be the one. That's not an accident. Whoever wrote it has done a hundred of them. They know to the ounce what a sentence will bear before it starts to look like a threat."
 
 "That's what Hesk said. Nearly."
 
@@ -202,13 +194,13 @@ She kept him moving in a hard, steady, structured way that gave his mind no room
 
 "Again," she said, after he had got two corners backward. "Slower. You're thinking about your feet."
 
-"You told me to think about my feet. So I'm thinking about them."
+"Feet were your idea. I'm only doing as I was told."
 
-"That was three weeks ago. You can let go of them now." She reset. "That's all the trick there is, if nobody's told you. You think about a thing until one morning you find you don't need to, and it simply gets done. That morning is generally the one where you stop being bad at it."
+"That was three weeks ago. You can let go of them now." She reset. "Nobody says it, but it's the only trick there is. You think about a thing until one morning you find you don't need to, and it simply gets done. That morning is generally the one where you stop being bad at it."
 
 "Is that how it was for you?"
 
-"More or less. It took me a long time." She waved a hand at the yard and the lane beyond it, at the whole district round them and everything that had happened to her in the last four months that she did not talk about. "And I had a proper teacher and a proper hall and none of your complications. You're doing it faster than I did, for whatever that's worth. It doesn't mean it's easy. It means you're very stubborn, or very frightened, and probably both."
+"More or less. It took me a long time." She waved a hand at the yard and the lane beyond it, at the whole district round them and everything that had happened to her in the last four months that she did not talk about. "And I had a proper teacher and a proper hall and none of your complications. You're quicker at it than I was, mind. Not because it's easy. Because you're stubborn as a gatepost, or frightened half to death, and I'd guess the pair."
 
 They went through the corners again, and again.
 
@@ -238,52 +230,44 @@ He looked at the yard, all of it bright now, and thought of every morning since 
 
 ---
 
-He ate supper at Torvin's table that night without her, since she had something across the district in the afternoon, a sparring hour with somebody she would not name. He ate his soup at the end of the table near Torvin and his ledger, while Yeni's needle went in and out at the other end and the woman in the boots told the brothers a long story about a goat that he did not follow.
+The ruling took him longer than everything else on the page.
 
-He found that the meal sat lighter in him than any meal had since Weaver's Row.
+He had done the front first, as the rule said, by Yeni's lamp turned down to a bead, with the brothers settling on the far side of the room and the wheezing man already whistling at the top of each breath. He had written the day and *Lira's report, first morning,* and then the four things in the middle column, in her own words. *Catches with the left now as well. The hole in the deflection is shut. Back foot still turns out on the box, less than it did. Against Petra, onto the shoulders a quarter-breath sooner in the seventh than in the second.* Beside them he had put *(Lira, h)*, and then, because it was true, *She saw it and I didn't. That's what h is for.*
 
-What he kept coming back to while he ate was not the yard or the absence. It was her hand on his shoulder, brief and plain and without any performance in it at all, and the question. *Did it feel like something was wrong with you?* Nobody had ever asked him that: not Hesk, who had been too busy getting ready for it, and not Pellin, because it was not on the form.
-
-He had not even asked it himself.
-
-Later, on his cot, with the brothers settling and the wheezing man already whistling and Yeni's lamp turned down to a bead, he took out the Log.
-
-He did the front first, because that was the rule.
-
-*Lira's report, first morning. Catches with the left now. The hole's gone. Back foot still turns out on the box, less. Against Petra, moved on the shoulders a quarter-breath sooner in the seventh than the second. (Lira, h. But she saw it, and I didn't, and that's what h is for.)*
-
-He looked at that for a long time before he wrote, in the third column, the first ruling in weeks that he did not have to make up.
+Then he had sat with the pencil over the third column for a long time. Every ruling in that column for weeks had been made up out of nothing and then defended against himself. This one was simply there, waiting for him to be willing to write it.
 
 *Ruling: getting better. Somebody's checking.*
 
-Then he turned the book over.
+He had been carrying it since supper without knowing it.
 
-*Tried to reach the Arbiter last night, in Torvin's yard. Nothing. Not silence. Nothing there to be silent. I stopped counting, and I'm writing down that I stopped, because for me that's the measurement.*
+Lira had not come to Torvin's table; she had a sparring hour across the district with somebody she would not name. So he had eaten his soup at Torvin's end, beside the ledger, while Yeni's needle went in and out at the other, and the woman in the boots told the brothers a long story about a goat that seemed to have no middle and that they laughed at in all the wrong places. He had only noticed, halfway down the bowl, that the food sat lighter in him than any meal had since Weaver's Row, and spent the rest of it trying to see why.
 
-*I don't think it's going to come back the way hers does. A page you check. A number you read in the morning. I think whatever this is, it doesn't work like that, and I have to stop waiting for it to.*
+It was not the yard at midnight, which was still exactly as bad as it had been. It was two smaller things. One was a hand on his shoulder in the mist, short and plain, with no performance in it. The other was a question nobody else had thought to ask. Hesk had not asked it, because Hesk had spent years getting ready for the answer. Pellin had not asked it, because there was no line for it on the form. And Cael had never once asked it of himself, which was the part he kept turning over with his spoon.
 
-*Lira knows. She knew the word from the first night and didn't tell me, because it felt like reading my letters. She didn't flinch this morning. She didn't arrange her face. She added it up, the way she adds up somebody new in the circle, and then she kept going. I didn't know until this morning how much I'd been carrying just from not knowing whether she would.*
+He turned the Log over now, and opened the back.
 
-*She asked me what it felt like. Not what the registry says. What it felt like, from where I was standing. I didn't have a whole answer. But the question moved something. It shifted the whole thing over by an inch. It used to be something done to me. Now it's something I'm allowed to have an opinion about.*
+*Last night in Torvin's yard I reached for the Arbiter until I stopped counting. Nothing. Not quiet; quiet would mean something there being quiet. I'm writing down that I stopped counting, because for me that's the measurement.*
 
-He stopped and held the pencil over the page, and then wrote down what she had said about the circuit, in his own words, so that he would have it.
+*It isn't coming back the way hers comes to her every morning. Whatever I've got doesn't keep a page, and I'm done standing at the door waiting to be handed one.*
 
-*Nobody at Vell's table has ever asked to see a card. The book only knows what it saw me do.*
+*Lira knows. She's known since the day at the board. She bought the four lines for less than a pie and sat up with them, and didn't say, because it felt like reading my letters. This morning she didn't flinch and she didn't arrange her face. She added it, the way she adds somebody new in the circle, and went on. I hadn't understood how much of the weight was only not knowing whether she would.*
 
-*I'm going to build whatever this is inside that. It's the only solid ground anybody's offered me since Weaver's Row. Everything else has been somebody telling me what I am. The circuit's the first place that's asked me to show it.*
+*She asked me what it was like in there, at the moment it happened. Not what the summary says. I didn't have all of an answer. But the question moved the whole thing over by an inch. Up to now it's been a thing done to me. Now it's a thing I'm allowed to have an opinion about.*
 
-He read it back once and did not cross anything out.
+Then he wrote down the other thing she had given him, so that he would have it in his own hand.
 
-He put the Log under his pillow beside the leather book with its cord and its *I don't know*, so that the two of them lay together. One was in his grandfather's hand, written over years, and the other in his own, written over three weeks and still working out what it was.
+*Lira, at the box drill this morning, with the notice still open in her hand and the mist going off the yard behind her: the circuit doesn't care what the registry says. Nobody at Vell's table has ever asked to see a card. The book knows only what it has watched me do.*
 
-The house settled round him. The brothers murmured something about the river that neither of them would remember in the morning, and the wheezing man whistled at the top of every breath, and somewhere below, the woman who slept in her boots shifted once and went still.
+*So that's where I build it, whatever it is. Since Weaver's Row everybody has told me what I am, and this is the first place that only ever wants me to show it.*
 
-Then Torvin's voice came up through the floorboards with its one word and the last line of light under the door went out.
+He read it back once and crossed nothing out.
 
-It was all still there. The absence was behind his breastbone exactly where it had been at midnight. The three things were still in their corner, with one of them counted, and the review was still on a shelf in Denvash propped against a clock, and somewhere a polite man with boots from somewhere else still knew there was a circuit kid at Torvin's. None of it had gone.
+Then he put the Log under his pillow next to the leather book with its cord and its *I don't know*, so that the two lay together: his grandfather's hand, gone over for years, and his own, three weeks old and still finding out what it was for.
 
-But for the first time since the circle at Weaver's Row, he was not the only person in the world who knew the whole shape of it, because somebody else had stood in it with him this morning, in the grey half of a yard, and read the notice twice, and not drawn back an inch.
+The house settled, and down below the woman who slept in her boots turned over once and was still. Then Torvin's voice came up through the boards with its one word, and the line of light under the door went out.
 
-He had not known how heavy it was to be the only one until he was not.
+None of it had gone: the absence sat behind his breastbone exactly where it had sat at midnight, and the three things were still in their corner, one of them counted. The review was still on a shelf in Denvash, propped against a clock, and somewhere a polite man with boots from somewhere else still knew there was a circuit kid at Torvin's.
 
-He slept, that night, without keeping watch.
+But this morning somebody had stood in the middle of it with him, in the grey half of a yard, and read the notice twice, and not drawn back by so much as an inch. He had not known what it weighed to be the only one who knew the whole shape of it until he no longer was.
+
+He slept that night without keeping watch.

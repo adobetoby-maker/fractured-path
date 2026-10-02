@@ -2,11 +2,11 @@
 
 The kitchen at Torvin's was fuller than Cael had ever seen it, and louder, and it smelled of onions.
 
-Torvin's wife had the big iron pot on the range, the one she used for oats in the morning, and it was full to the brim with something brown and thick that had carrots in it, and turnips, and barley, and pieces of something that might once have been a sheep. She was ladling it out into every bowl in the house with the air of a woman settling an account.
+Torvin's wife had the big iron pot on the range, the one she used for oats in the morning, and it was full to the brim with something brown and thick that had carrots in it, and turnips, and barley, and pieces of what had probably, at some point, been a sheep. She was ladling it out into every bowl in the house with the air of a woman settling an account.
 
 "Five," she said, as Cael came in, and put a bowl in front of the place at the end of the bench before he had reached it. "I said five. Sit down."
 
-The woman who slept in her boots was at the other end of the table with her arms folded, and no bun.
+At the far end sat the woman who slept in her boots, arms folded, with no bun.
 
 "I said never," she said to Cael, as he sat. "I want you to know it was nothing personal. I'd seen you walk. You walk like a heron."
 
@@ -34,7 +34,7 @@ Doss did not smile. He did not say anything. He gave one short nod, a small down
 
 Cael sat with it. He found that it weighed more than he would have thought. It was not a congratulation. It was more like a line in a ledger, written by somebody who had once had his own name in a book and then not, who knew exactly what went into the book and what it cost.
 
-Torvin came through from the front room with a second pot, a smaller one, which turned out to be more of the same. He set it on the table by the first, which was empty, and stood a moment with the cloth still in his hand, looking at Cael the way he looked at coins.
+Torvin came through from the front room with a second pot, a smaller one, which turned out to be more of the same. He set it on the table by the first, which was empty, and stood a moment with the cloth still in his hand, and considered Cael the way he considered coins.
 
 "Heard you put Dessa on the dirt," he said.
 
@@ -106,7 +106,7 @@ He read it back. It was not enough, and it was true, and he thought Hesk would u
 
 There was one more thing he did not write.
 
-He did not write about the fourth exchange. He had told the brothers that he went across instead of back, and that was true, and he told Hesk the same thing in fewer words, in the line about the win. But he did not tell him what had gone across, or that it was not him, or that there were four of them now on a page in the back of the Log in his own hand, numbered.
+The fourth exchange he left out of the letter. He had told the brothers that he went across instead of back, and that was true, and he told Hesk the same thing in fewer words, in the line about the win. But he did not tell him what had gone across, or that it was not him, or that there were four of them now on a page in the back of the Log in his own hand, numbered.
 
 That made four things he had not told Hesk. He knew the number exactly. He had written in the back of the Log, on the night of the drop, that he would have to answer for all of them at once one day.
 

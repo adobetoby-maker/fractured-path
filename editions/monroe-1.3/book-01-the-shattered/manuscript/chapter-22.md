@@ -52,7 +52,7 @@ Lira did not say anything for a moment. Out in the dark beyond the little window
 
 "No."
 
-"It doesn't mean it's the right answer." She said it at once, as if she had been waiting to. "Two things can land close together and have nothing to do with each other. That happens. It's not just something people say to make themselves feel better." She looked straight at him. "But you don't get to call it a coincidence because you'd like it to be one. You go and look for the other answer. And if you look properly and there isn't one, you have to sit with the one that's left."
+"It doesn't mean it's the right answer." She said it at once, as if she had been waiting to. "Things fall side by side all the time without one having anything to do with the other. That happens. It's not just something people say to make themselves feel better." She looked straight at him. "Wanting it to be chance doesn't make it chance, though. You go and look for the other answer. And if you look properly and there isn't one, you have to sit with the one that's left."
 
 "I looked all afternoon."
 

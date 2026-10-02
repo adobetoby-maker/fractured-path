@@ -4,9 +4,9 @@ Yorlan did not sit down to give it.
 
 He stood behind the middle chair with the thin book closed in one hand and a single sheet in the other, and the other two stood on either side of him. The room stood with them, two hundred people and the passage behind them, and Cael at the respondent's table on his feet with his hands at his sides, and nobody breathing.
 
-"The panel rules as follows," said Yorlan.
+Yorlan read it in the voice he had used for everything, the voice that gave every word the same weight as the word before it, and the plainness of it was worse than any other voice could have been. It was the Compact itself speaking, and there was nobody left in the hall to blame for it but the Compact.
 
-He read it in the voice he had used for everything, the voice that gave every word the same weight as the word before it, and the plainness of it was worse than any other voice could have been. It was the Compact talking in its own plain voice, and there was nobody left in the hall to blame for it but the Compact.
+"The panel rules as follows.
 
 "On the enrollment: the panel does not rule. Its validity as categorized is not properly before this tribunal absent established jurisdiction, and standing on that question is remanded to the academy as an internal matter."
 
@@ -18,19 +18,17 @@ A pause, the smallest in the whole of two days.
 
 "The challenge is dismissed for want of established jurisdiction. The record is public. This tribunal is concluded."
 
-He laid the sheet on the bench.
+He laid the sheet on the bench, and struck the small gavel once.
 
 Cael heard it end and did not move.
 
-He was already taking it apart. He could not help it; he went round its edges while the room was still breathing in, as he had once gone round a fighter's first exchange in the corner before the crowd stopped shouting about it. Three weeks of reading a code had not taught him to stop reading. The bench had not called the enrollment good. It had said, in so many words, that it would not say. It had not called him safe. It had not called him wronged. It had said nothing whatever of what he was. It had said one thin, exact thing. The Compact had failed to show its right. *Undefined.* Nothing had been thrown open. One stone had come out of a wall, and the wall still stood on every side of the place where it had been.
+*Undefined.* He had spent three weeks with the code, and he knew exactly what the word was worth and what it was not. It was enough, for now, to have heard the Compact say it aloud.
 
-But the place where it had been was in the record now, in public, in the Compact's own voice, and nobody would ever be able to put the stone back without everybody seeing them do it.
-
-The hall did not care about any of that, or did not follow it, or both. The noise came up all round him at once, so loud and so sudden that it reached him first through the boards and the soles of his boots. It was louder than the main floor at the Ironyard on the night of the Reydan bout. He stood in the middle of it at the respondent's table with his palms on the wood and let it go past him. It did not get in yet. For one more breath he had the thing to himself.
+The hall did not wait for him to think about it. The noise came up all round him at once, so loud and so sudden that it reached him first through the boards and the soles of his boots. It was louder than the main floor at the Ironyard on the night of the Reydan bout. He stood in the middle of it at the respondent's table with his palms on the wood and let it go past him. It did not get in yet. For one more breath he had the thing to himself.
 
 Lira was first.
 
-She was across the rope before the gavel had come down a second time, and she did not go round by the gap, or wait for the clerk to lift the cord. She put one hand on it and vaulted, as she had gone over the barrier of every fighting yard in Ardenmere, and he saw the clerk turn with his mouth open and shut it again.
+She was across the rope before the gavel's knock had died in the beams. She did not go round by the gap, or wait for the clerk to lift the cord. She put one hand on it and vaulted, as she had gone over the barrier of every fighting yard in Ardenmere, and he saw the clerk turn with his mouth open and shut it again.
 
 Brom had not moved toward the table at all. He was still at the front bench, standing, looking across the boards at Cael, and nodding: once, and then after a long moment, once more. It was the nod Brom gave when a weight he had watched somebody struggle under for a long time came up clean off the floor at last.
 
@@ -42,13 +40,13 @@ Prynn was on her feet at the end of the front bench, with her arms unfolded for 
 
 At the far end of the bench by the aisle Oona had not stood and had not shouted. She sat bolt upright with her slate across her knees, writing in letters large enough that he could see their size from the table. As he watched she drew a line under them, and another, and a third.
 
-Across the boards, the Warden's last case was already closed. When Cael's eyes found him he did not look away. He looked back across the open boards, steadily, with nothing held back in his face, and bent his head. It was not a bow. It was what passes between two men across a chalk line when a bout has gone its whole length and nothing is left between them to find out. Then he lifted his cases and turned toward the side door.
+Across the boards, the Warden's last case was already closed. When Cael's eyes found him he did not look away. He looked back across the open boards, steadily, with nothing held back in his face, and bent his head. It was not a bow. It was a man who had lost, saying that he knew it, and that he knew how. Then he lifted his cases and turned toward the side door.
 
 Cael stood in the last moment of quiet he was going to be given, with his hands on the wood.
 
 Nine days, six, eleven, four. None of those four had ever waited at a table for anybody to come back through a door; there had never been anything for anybody to come back and decide. Three of their files did not end, they only stopped. He had read them at the long table by lamplight and brought all four into this hall with him without saying so to anybody. Now there was a record of the kind none of them had been given. It had his name across the top, in the Compact's own voice, where anybody who wanted to could read it.
 
-He had not won against the Compact. Nobody won against the Compact. All of it was still out there, every office and every desk, and somewhere far above any door he could knock on it would already be turning its head toward the place where its own record had just said there was nothing under its feet. What he had done was smaller than winning, and it would last longer. He had made it stand up in front of everybody and say, in its own words, that it had never had the right.
+The rest of the Compact was still out there, every office and every desk. Somewhere far above any door he could knock on, it would already be turning its head toward this hall.
 
 Lira's hand struck the edge of the table. The quiet was over, and the whole roar of the hall poured in.
 
@@ -134,7 +132,7 @@ Gerda came past the end of the table on her way to the hatch with her bowl, and 
 
 Oona did not come to the table. She stood by the stable door when they went out, with her slate under her arm and her tag polished, and she held the slate out to him without a word, and he took it and read it in the light from the door.
 
-*THEY READ THE WHOLE LIST. IT ISN'T ON IT. I SAID THE NAMES WITH HIM.*
+*HE READ THE WHOLE LIST. IT ISN'T ON IT. I SAID THE NAMES WITH HIM.*
 
 It was underlined three times. He gave it back.
 
@@ -164,7 +162,7 @@ He trimmed the lamp, and laid a clean sheet on the table, and uncapped his pen.
 
 He began at the beginning, because that was where reports began.
 
-He wrote the morning in Denvash: the station, the instrument, the designation it had returned, the registry's notice to the household on the second morning, the departure. He wrote it in the flat plain prose he had used for every quarter of two years, and it went down onto the sheet at the pace it always went, a subject located, a subject cooperative. He wrote the market interview at Ardenmere, which had been another man's, and the summons, which had been his own. He wrote the paper the boy had found in a district archive in two days, and that it had been right, and that he had conceded it. He wrote the circuit, and the ledger. He wrote the quarters that followed, *nothing crossing the threshold*, every one of them true when he had written it.
+He wrote the morning in Denvash: the station, the instrument, the designation it had returned, the registry's notice to the household on the second morning, the departure. He wrote it in the flat plain prose he had used for every quarter of two years, and it went down onto the sheet at the pace it always went, a subject located, a subject cooperative. He wrote the market interview at Ardenmere, which had been another man's, and the summons, which had been his own. He wrote that the boy had answered the summons truthfully, and that he had entered it so. He wrote the circuit, and the ledger. He wrote the quarters that followed, *nothing crossing the threshold*, every one of them true when he had written it.
 
 Then he wrote Greyvane.
 

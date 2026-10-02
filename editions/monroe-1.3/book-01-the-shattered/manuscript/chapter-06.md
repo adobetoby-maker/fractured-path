@@ -1,90 +1,84 @@
 # Chapter 6 — The Rise
 
-For the first few hours, the merchant road ran through farmland, with fields on both sides and low stone walls between them, and a farmhouse every mile or so with smoke going up straight from the morning fire. The traffic was light. A few carts went the other way into Denvash, loaded with cabbages and firewood. A family went by on foot pulling a hand cart with a sleeping baby tucked in among the sacks, and two merchants on horseback passed him at a trot without looking down.
-
-Cael had walked a great deal in his life, but he had never walked like this. In Denvash, walking had always meant moving through something he already understood, along streets with names and distances with ends, with a corner always coming and the knowledge of what was round it.
-
-Out here the road simply went on. It did not care about him. His own footsteps were the only steady rhythm in a landscape that otherwise offered the odd bird and, very far off, the slow work of someone in a field he would never see up close.
-
-He noticed things anyway, because noticing was the one skill he trusted himself to have wherever he was. Mist lay in the low places between the fields and burned off unevenly as the sun climbed. The high ground cleared first, and the hollows stayed white long after, as though they were holding on to the night on purpose.
-
-A farmer two fields over, mending a wall, raised a hand to him between one stone and the next without stopping his work. Cael raised his back, and while the small exchange lasted, the empty road felt less lonely than it had all morning. It surprised him how much less.
-
-Around the second hour a dog joined him. It came out of a gateway without any fuss, a thin brown dog with a white chest and one torn ear, and it fell into step at his left side as though they had agreed to meet there. It did not look at him or ask for anything. It trotted along beside him for most of an hour, matching his pace with the loose, easy indifference of an animal that belonged to the road rather than to anyone on it.
+The dog came out of a farm gateway in the second hour, as though it had been waiting there for him by arrangement. It was thin and brown, with a white bib on its chest and one ear torn at the tip, and it fell in at his left side without looking up, matched its trot to his walk, and asked for nothing at all.
 
 "You're not the grey dog," Cael told it.
 
-The dog did not deny this.
+The dog did not argue the point.
 
-At a crossroads with a milestone it peeled off toward a farmhouse without a backward glance, the same way it had come, and Cael watched it go and found he minded more than he would have expected to.
+He was glad of it, which surprised him. The first hours out of Denvash had been farmland: stubble and plough on both hands, low stone walls dividing it, a farmhouse every mile or so with its morning smoke going straight up. Carts had passed him going the other way into the city with cabbages and split wood. A family had gone by on foot, pulling a handcart with a baby asleep among the sacks, and two merchants on horseback had overtaken him at a trot without once looking down. None of it had felt like company. Every walk he had ever taken had been inside a city that answered him. Each street had a name, each distance stopped somewhere, and round every corner was a thing he already knew. Out here the road simply kept going and had no opinion about him. The only regular thing in the whole landscape was the sound of his own boots.
 
-By midmorning his legs had started to complain. It was not pain exactly, but a dull, insistent awareness of themselves that the city had never asked of them, because city distances were short and crowded with things to look at. The road notes had said to find a pace you could hold all day rather than one that felt brave, so he slowed down, and found he could breathe properly again. There was no reason to hurry. Ardenmere would be there in two days whether he arrived worn out or only tired.
+So he had looked at things, because looking was the one tool he could count on having brought. The mist had lain in the hollows between the fields and gone off unevenly as the sun got up, the high ground clearing first and the low places staying white long after, as if they were keeping hold of the night on purpose. A farmer two fields away, setting stones back on a broken wall, had lifted one hand to him between one stone and the next, and Cael had lifted his back. The road had felt less empty for as long as that lasted, and he had been surprised at how much less.
+
+The dog stayed most of an hour. It went where he went, at the easy distance of an animal that belonged to the road and not to anybody walking it, and at a crossroads with a milestone it turned off toward a farmhouse without a backward look, exactly the way it had come. Cael watched it out of sight. He minded more than made sense.
+
+By the middle of the morning his legs had started to speak up. It was not pain so much as a dull insistence on being noticed, which the city had never asked of them, because city distances were short and crowded with things to look at. The road notes advised a pace you could keep all day rather than one that felt bold. He let himself slow, and his breath came back. Hurrying would buy him nothing. Ardenmere was two days off, and it would wait for him whether he came in spent or only tired.
 
 ---
 
-He stopped late in the morning at a low wall beside the road, waist-high and grey, holding back a field of stubble. He sat on it and thought of the other wall at the corner of Fen Street and the canal path, with a folded paper in the gap between two blocks. Joren would have found it by now and stood in front of it for his hour. Cael hoped he had kept his heels down.
+The cord round the leather book had a smooth place in it, worn almost to a shine, where it had been knotted and unknotted more times than Cael could estimate. He sat with the book on his knee and his thumb on that place for some while before he did anything about it.
 
-He ate the bread Ressa had put in the bag. It was still faintly soft and tasted of the corner and the side door and every morning of his life, and he ate all of it slowly and brushed the crumbs off his knees for the sparrows.
+He had made himself wait for a wall. *Not until the road*, Hesk had said, and a mile out of the gate had felt like a technicality, so he had walked on until late in the morning, when a low grey wall ran along the road's edge with a stubble field behind it, waist-high and good for sitting. It made him think of the other one, at the corner of Fen Street and the canal path, with a folded paper pushed into the gap between two blocks. Joren would have found it by now and stood there for his hour. Cael hoped he had kept his heels down.
 
-Then he took out the leather book.
+He ate Ressa's loaf first. It was still faintly soft, and it tasted of the corner and the side door and every early morning he could remember, and he made it last. When it was gone he brushed the crumbs off his knees for the sparrows, who had been watching him from the wall with great attention, and untied the cord.
 
-It was smaller than he had thought, now that he had it in his hands with nobody watching. It fitted in his palm, and its leather was soft with handling, and the cord was worn smooth in one place where it had been tied and untied a great many times over what must have been years. He untied it and opened it to the first page.
+The book was smaller than it had looked in Hesk's hands. It sat in his palm. The leather had gone soft with handling, and the writing inside was Hesk's but not the square, careful hand that went up on the workshop slate. This one was rougher, and it changed from page to page: pale brown ink that had aged, black that had not, a hard-pressed line here and a light one there, the work of a man who had come back to the same few pages over a great many evenings.
 
-It was Hesk's handwriting, but not the square, careful hand he used for load figures on the workshop slate. It was rougher, and it changed as the pages went on, through different inks and different pressures. Some entries were pale and brownish with age and some still dark, like something written in many sittings across a long stretch of time by a man who kept coming back to it.
+On the first page there were only a few lines.
 
-The first page had only a few lines on it.
+*If this is in your hands, then I was right, and I'm sorry. I'd have given a good deal to be wrong. I can't take the word back off you. What I can give you is what I've managed to work out, most of it by watching, since there was nobody I could ask without being asked why I wanted to know.*
 
-*If you have this, then it was what I thought it was. I am sorry. I would have given a great deal to be wrong. I can't change the word. What I can give you is what I've worked out, mostly by watching, because there was nobody I could ask without being asked why.*
+*None of it is sure. Read it anyway.*
 
-*None of it is certain. Read it anyway.*
+He turned over.
 
-He turned the page.
+*First: I don't know what [SHATTERED] actually means. I'm putting that at the top so you can't miss it, because everything under it is guesswork in advice's coat. Here is what I think, for what a thought is worth against a word with a registry behind it. Frightened people chose that word, and being frightened enough to name a thing is not the same as being right about it. Broken is one reading. Another is a country nobody has mapped yet, which is a different thing from no country at all. I can't tell you which. I've turned it over for years and I have nothing better, and anyone who sounds sure is spending money they haven't got.*
 
-*First: I don't know what [SHATTERED] actually means, and I want to be honest with you about that before I tell you anything else, because everything after this sentence is a guess dressed up as advice. What I believe, for whatever a belief is worth against a word like that: the name was chosen by people who were frightened, and fear naming a thing doesn't make the fear correct. It might mean broken. It might mean something outside the map entirely — not off it, just not yet drawn. I don't know which. I've had years to sit with not knowing, and I still don't have a better answer than that. Anyone who tells you they're certain is telling you more than they actually know.*
+Cael read it a second time. Only then did he notice what he had been waiting for. Somewhere below the parts of himself he kept an eye on, he had believed that a man who had spent years getting ready for this day would have come out the other end with an answer, and that the answer would be in here, in Hesk's hand, the way the answer to a load problem sat at the foot of the slate.
 
-Cael read it twice, and only then understood that he had been expecting something. Somewhere underneath the parts of himself he looked at closely, he had believed that a man who had spent years preparing for this would have reached an answer. He had believed the answer would be in the book in Hesk's handwriting, the way the answer to a load problem was always at the bottom of the slate.
+There was no answer. There was a grown man writing down that he did not have one.
 
-There was no answer. There was a grown man saying he did not have one. He sat with that for a while, and slowly found it was more use to him than an answer would have been. An answer could be wrong. This was the true figure, measured by hand, and you could build on a figure like that because you knew exactly how much it would hold.
+Cael sat on the wall with that. It took a while, and it turned out to be more use than an answer would have been. Answers could be wrong. This was a figure taken by hand and written down honestly, and you could build on a figure like that, because you knew exactly what it would bear.
 
-He turned the page.
+The next page.
 
-*Second: your body is going to learn before your mind does. This isn't poetry, it's the most practical thing I can tell you. Whatever you can do, it won't arrive as a declaration in a formatted box the way it does for standard Paths. It will arrive as instinct — a moment where you do something before you've decided to do it, and only afterward do you understand what just happened. When that happens, don't perform it for an audience. Watch it. Learn what your body already knows before you try to explain it to anyone else, including yourself.*
+*Second: your body is going to learn before your mind does, and I mean that as plainly as I've ever meant a measurement, so don't go looking for poetry in it. Nobody is going to give you a card with a neat box on it saying what you can do, the way they gave Joren his. If anything comes, it'll come as your body doing a thing before you've chosen to, and you working out afterwards what happened. When it does, keep it to yourself. Watch it. Learn it the way you would learn a new tool, by using it where nobody can see, and only then try to say what it is, even to yourself.*
 
-*Third: don't perform weakness, and don't perform strength. Perform competence. People read confidence as a threat and helplessness as an opportunity. Competence, quiet and undramatic, is the only posture that buys you room to actually figure out what you are before someone else decides for you.*
+*Third: don't perform weakness, and don't perform strength. Perform competence. Look strong, and people start measuring you for a fight. Look helpless, and they start measuring you for something worse. Plain, quiet competence is the only face I know that buys you time, and time is what you'll want most. Let them find you dull until you know.*
 
-He thought about Joren's declaration at the back of the current notebook, *PATH DECLARATION — COPPER RANK 1*, with its heading and its bracketed name and its one sentence saying exactly what Joren could do and exactly where it stopped. Joren had read it four hundred times. Joren knew where his edges were, because his whole Path was a set of edges written down for him.
+Joren's declaration was copied out at the back of Cael's own notebook. It had its heading, PATH DECLARATION — COPPER RANK 1, and its name in brackets, and one sentence that said exactly what Joren could do and exactly where it stopped. Joren must have read it four hundred times by now. He knew where his edges were, because his whole Path had been handed to him as a set of edges with the measurements written on.
 
-Cael would never get that, not at Rank 1 and not at Rank 10, no box with his abilities in it and no line telling him what ended the effect. He would have to find his edges by walking into them, quietly, with nobody watching, and that was what the two entries were telling him, in two different ways.
+There would be nothing like that for Cael. Not at Rank 1, not at Rank 10. No box, no line saying where the effect ran out. He would have to find his edges by walking into them, quietly, with nobody looking, and the two entries were telling him so from two directions at once.
 
-He turned the page. The ink was paler here, and the handwriting more careful, as though the man writing it had slowed down.
+The ink went paler on the next page, and the writing slower and more careful, as if the man holding the pen had put his weight down on each word.
 
-*Fourth: if the abilities do come, they will not come labeled. You will not be told what you have or where it came from. This is the part I have the least practical advice for, because I have never watched it happen to someone and I am working from theory rather than observation. My best guess: pay attention to what you find yourself able to do only under real pressure, not in practice. Whatever this is, I suspect it does not show itself for an audience of one, calm and unthreatened. It shows itself when something forces it to.*
+*Fourth: if the abilities do come, they will not come labeled. No notice, no box, no voice telling you what it is or how you came by it. Here I've the least to offer, because I've never seen it happen to anyone; this is reasoning, not watching. My guess, then. Mind what you can do when it's real, not what you can do when you're practising. I don't think whatever this is turns up because you've asked it nicely in a quiet yard. I think it turns up when it has to.*
 
-*Fifth, and this one matters more than the others, so read it twice: you are allowed to be afraid and competent at the same time. I have watched people convince themselves those two things are opposites, that fear is proof you're not ready. It isn't. Fear that keeps you paying attention is a tool, not a flaw. The only fear worth worrying about is the kind that makes you stop watching. Yours won't. I've known you fourteen years. You don't know how to stop watching. It's the thing about you I'm least worried will fail you.*
+*Fifth, and this one matters more than the others, so read it twice: you are allowed to be afraid and competent at the same time. I've watched good people talk themselves into believing those two can't share a room, that being scared means you aren't ready. That's wrong. Fear that keeps your eyes open is a tool like any other in the drawer. Worry about the other sort, the sort that shuts them. Yours won't. I've watched you for fourteen years, and you have never once known how to stop looking. Of everything about you, that's the part I'm least afraid will let you down.*
 
-He read the fifth one twice, because it told him to, and then a third time, because he wanted to.
+He read the fifth twice, as instructed, and then a third time because he wanted to.
 
-All his life he had thought the watching was a kind of hiding, a way of standing a little outside things so that they could not quite reach him. He had thought he would have to grow out of it. He had counted eleven seconds in a worn circle. He had named what his own hands were doing on the morning of the notice instead of feeling it. He had copied the archive entry in his neatest writing so that he would not have to simply sit there and know it.
+He had always thought of the watching as a kind of hiding: a way of standing a half-step outside things so they could not quite get hold of him, and something he would have to grow out of sooner or later. In the circle he had counted eleven seconds. On the morning of the notice he had named what his own hands were doing so that he would not have to feel it. In the archive he had copied the entry out in his best writing so that he would not have to just sit there and know it.
 
-And Hesk did not think any of that was hiding. Hesk thought it was the tool. Cael sat on the wall and let that settle, and it did not settle all the way, but it went a good distance down.
+And Hesk did not call any of that hiding. Hesk called it the tool. Cael let that sink, and it did not sink all the way, but it went a long way down.
 
-There were many more pages after the fifth: notes on the Registry, lists of cities with lines through most of them, single sentences in fading ink with no number at all. On a page near the middle, by itself, in ink so fresh it had barely gone dull, there was one more.
+After the fifth there were many more pages. There were notes on the Registry, and lists of cities with most of them struck through, and single unnumbered sentences in fading ink. Near the middle, alone on its page, in ink so new it had hardly had time to dull, there was one more.
 
 *When you don't know what you can do yet, watch someone who does. Your body will learn before your mind does.*
 
-There was no number on it, and it had been written recently, months ago at most, perhaps only weeks.
+It had no number. It had been written lately, a few months ago at the most, perhaps only weeks.
 
-Cael looked at it for a long time, and then the tug he had felt in the side room at Weaver's Row, at *a few years*, came back, and this time he could follow it all the way.
+He looked at it for a long time. Then the small snag he had felt in the side room at Weaver's Row, when Hesk said *a few years*, caught again, and this time he could follow the thread to its end.
 
-*A few years,* Hesk had said in the side room. *Some years,* he had said under the lamps on Chandler Street, about the folding chairs. It was the same number. For as long as Hesk had known what Cael's coupling looked like, he had been going to sit in the dark behind a curtain every Tuesday. He had been studying how a body moves when it carries a Path, so that he would know what he was looking at if it ever happened to Cael's. And the night before Kindling, when there was nothing left to study and no time left to explain, he had taken Cael with him. He had sat him down and said *watch his hips*, and *there*, and *the third exchange is where they tell you the truth*. He had said *there* out loud, again and again, so that one day, when Hesk was a week's post away and could not sit beside him in the dark anymore, Cael would be able to say it by himself.
+*A few years*, in the side room. *Some years*, under the lamps on Chandler Street, about the folding chairs. They were the same span of time. For as long as Hesk had known what Cael's coupling looked like, he had been going to sit in the dark behind a curtain every Tuesday and learn how a body moves when it carries a Path, so that he would know what he was seeing if it ever happened to Cael's. Then, on the night before Kindling, with nothing left to learn and no time left to explain it, he had taken Cael along. He had sat him down and said *watch his hips*, and *the third exchange is where they tell you the truth*, and *there*, out loud, over and over, so that one day, with Hesk a week's post away and no chair beside him in the dark, Cael would be able to say *there* for himself.
 
-It had not been a treat, or a distraction from tomorrow. It had been the one lesson Hesk was sure enough of to give, and he had given it at the last possible moment, and then written it down in fresh ink in case the lesson did not take.
+It had not been a treat, or something to keep his mind off the morning. It had been the one lesson Hesk was sure enough of to give. He had given it at the last moment it could be given, and then gone home and written it down in new ink in case it did not take.
 
-Cael closed the book and tied the cord and held it in both hands against his knees.
+Cael tied the cord and sat holding the book against his knees with both hands.
 
-*I am not starting from nothing,* he thought. *I'm starting from this.*
+*This isn't nothing,* he thought. *I'm starting from this.*
 
-It helped. It did not help all the way, but it helped, the way true things help more than comforting ones, even when the true thing is *I don't know.* He put the book in the inside pocket of his coat, beside the bracket, and got up, because Ardenmere was still most of two days east and the afternoon was not going to last forever.
+It helped. It did not help all the way. True things had always held more weight than comfortable ones; he had known that for years without ever having to lean on it, and it held now, even with *I don't know* written across the top. He put the book in the inside pocket of his coat beside the bracket, and stood up, because Ardenmere was still the best part of two days east and the afternoon would not wait for him.
 
 ---
 
@@ -246,7 +240,7 @@ He stood on the rise with the wind at his back. He was very tired, and his legs 
 
 He thought about the green book in the archive, with its four entries, three of which had ended in a few weeks and one in a line that said nobody knew. He was the fifth.
 
-He had told himself on the walk home from the record office that he would not be the fifth entry in that book, and it had been easy to say, the way things are easy on a walk home. He said it again now, to himself, and it was not easy anymore, because he could see how big the thing was that he would have to say it to.
+On the walk home from the record office he had promised himself there would be no fifth entry in that green book with his name at the top. It had been easy to promise, the way things are easy on a walk home. He said it again now, to himself, and it was not easy anymore, because he could see how big the thing was that he would have to say it to.
 
 He took out his notebook, opened it to a clean page, and wrote in the last of the light:
 

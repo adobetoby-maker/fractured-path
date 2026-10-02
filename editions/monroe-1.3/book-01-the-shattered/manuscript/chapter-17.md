@@ -34,7 +34,7 @@ Now a fish man nodded at him, and two boys he had never spoken to had put a day'
 
 "In Denvash I was the boy who wrote things down. That was all anybody knew about me. Garrik knew me, and Ressa, and that was a whole street, and it took fourteen years."
 
-"This district watches its fighters the way farmers watch the sky. Not because anybody loves the fighters, but because knowing what's happening in the circuit is worth something, and things that are worth something get passed round. You can't stop it." She let her feet down off the wall. "The only thing you get any say in is what story they tell."
+"This district watches its fighters the way farmers watch the sky. Nobody loves the fighters. It's that news out of the circuit is worth something, and anything worth something gets passed round. You can't stop it." She let her feet down off the wall. "The only thing you get any say in is what story they tell."
 
 "What story are they telling?"
 

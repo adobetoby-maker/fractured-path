@@ -122,7 +122,7 @@ He untied the tape round the brittle volume with great care and opened it. The p
 
 *Designations listed in the Second Appendix to this Register are not recognized within the standard evaluation framework. A person bearing such a designation may be evaluated only under senior evaluation authorization, and shall not be evaluated by standard district procedure.*
 
-He turned to the back of the volume. There were two appendices. The second began on a page that had come loose from the binding and been tucked back in, slightly crooked, by somebody's careful hand. At its head was a subheading he knew, because he had copied it in a green book's handwriting at a table under a north window in Denvash on the second morning after Kindling, and he had not seen it since.
+He turned to the back of the volume. There were two appendices. The second began on a page that had come loose from the binding and been tucked back in, slightly crooked, by somebody's careful hand. At its head was a subheading he knew. He had copied it in a green book's handwriting at a table under a north window in Denvash, on the second morning after Kindling, and had not seen it since.
 
 *Deprecated and Non-Standard Designations, Pre-Compact Era Holdovers.*
 
@@ -148,7 +148,7 @@ It held.
 
 He read it aloud a second time, slower. It held. He read it a third time, starting from the other end, from the appendix back up to the summons, the way you check a column of figures by adding it from the bottom. It held. He read it a fourth time, the slowest of all, trying with every line to find the place where it would give, the way he had leaned on the bracket with his thumb on the bench at Fen Street, feeling for the bend.
 
-It held on the fourth reading exactly as it had on the first. He understood, sitting there, that this was the only difference between a real find and a hopeful one that he would ever be able to trust. It was not how it felt when you found it. It was whether it was still standing after you had done your best to knock it down.
+Read a fourth time, it stood just as it had stood the first. Sitting there, he understood that this was the one test he would ever be able to trust, the only thing that told a true find from a hoped-for one. It was not how it felt when you found it. It was whether it was still standing after you had done your best to knock it down.
 
 Something in his chest let go, very slightly. It was not relief, not yet. It was the small, plain satisfaction of a figure that had been traced back to where it came from. He let himself have it for exactly one breath. Then he took out the Log.
 

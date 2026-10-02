@@ -84,7 +84,7 @@ He shut the Log and lay down on his right side and looked at the window until th
 
 It was Saturday morning in the grey half, and she had stopped in the middle of the box drill to say it, with her hands still up. Then she let them down and stood with her weight a little forward and looked at him, quickly and completely, the way she looked at a bout between exchanges.
 
-"Not distracted. You're here. You're doing the drills. But it's like you're having two conversations at once and I'm only getting half of one of them." She tilted her head. "And you've missed two mornings standing at a gate watching a ropewalker hit a sack, and the girls on the wall told me before you did. Which you'll agree is not how it's meant to go."
+"Not distracted. You're here. You're doing the drills. But half of you's somewhere else, in some other talk, and I only get the scraps of mine." She tilted her head. "And you've missed two mornings standing at a gate watching a ropewalker hit a sack, and the girls on the wall told me before you did. Which you'll agree is not how it's meant to go."
 
 "I know."
 
@@ -192,13 +192,13 @@ Then she asked him the question that had come into her head while she was findin
 
 He looked up at her.
 
-"I've had mine since I was fourteen," she said. "It was declared. The Arbiter said it, and it was mine, and I've never once had to wonder where it came from or whose it was. It's just the way my legs work. I don't know what it's like to have something arrive the other way." She hesitated. "If you don't want to—"
+"I've had mine since I was fourteen," she said. "It was declared. The Arbiter said it, and it was mine, and I've never once had to wonder where it came from or whose it was. It's just the way my legs work. Having a thing turn up in you the other way round, I can't imagine." She hesitated. "If you don't want to—"
 
-"No. I want to." He thought about it for a long time, the way he thought about everything, frowning at the floor, and she watched him do it and did not hurry him. "It feels borrowed," he said. "Not in a bad way. You know how a coat that's yours fits differently from one you've borrowed, even when it's the right size? You can always tell. It's like that. Except that this coat fits better every time I put it on, better than it should, for how long I've had it." He looked at his hands. "And I don't know if that's because it's turning into mine, or because I'm only getting better at wearing other people's coats."
+"No. I want to." He thought about it for a long time, the way he thought about everything, frowning at the floor, and she watched him do it and did not hurry him. "It feels borrowed," he said. "Not in a bad way. Put on somebody else's coat, even one cut to your size, and it never sits on you the way your own does; you always know. It's like that. Except that this coat fits better every time I put it on, better than it should, for how long I've had it." He looked at his hands. "Either it's turning into mine, or I'm just getting handier at wearing coats that belong to other people, and I can't tell which."
 
 Lira looked at him.
 
-"That's either very good," she said, "or very strange."
+"I can't decide whether that's wonderful," she said, "or the strangest thing I've heard."
 
 "Can't it be both?"
 

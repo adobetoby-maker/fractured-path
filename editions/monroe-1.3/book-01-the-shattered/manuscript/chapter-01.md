@@ -1,10 +1,10 @@
 # Chapter 1 — Page Seven
 
-Everyone had a different word for what Kindling felt like.
+Nobody described Kindling the same way twice.
 
 Cael had collected eleven. They were on page seven of his notebook, the current one, in the order people had given them to him. He had started the list in spring without meaning to start anything, because it turned out that when you asked people a question they liked answering, they told you, and if you wrote down what they told you, you had a list.
 
-*Sunlight,* the dried-fruit seller at the Outer Market told him. She had carried an Ember Path for eleven years and had never once doubted it, and she said it while weighing his dates, without looking up.
+*Sunlight,* the fruit woman told him, from behind her trays of dates in the Outer Market. She had carried an Ember Path for eleven years and had never once doubted it, and she said it while weighing his dates, without looking up.
 
 *A door opening,* the Merchant Row gate guard offered. He was Copper-tier, Shield Path, and he had a great deal of time between carts. He said it twice, the second time slower, in case Cael had missed it.
 
@@ -24,7 +24,7 @@ Cael had collected eleven. They were on page seven of his notebook, the current 
 
 *Heavy, good heavy,* said Joren, two days ago, on his way home from Weaver's Row. He had said it too fast, as if handing over something hot.
 
-*I don't know how to describe it,* said Hesk.
+*I don't know how to describe it,* Hesk had said, and nothing more.
 
 Cael had starred that one. Only that one.
 
@@ -102,7 +102,7 @@ So Cael took the bent bracket to the bench, clamped a scrap off-cut of the same 
 
 "Because it was printed."
 
-"Because it was printed, and it looked like a number." Hesk set the off-cut down. "Never trust a number you can't trace back to where it came from."
+"Because it was printed, and it looked like a number. Never trust a number you can't trace back to where it came from," Hesk said, and set the off-cut down on the bench between them.
 
 Cael had heard him say it before, at eight, over another failed bracket, and had filed it away with everything else Hesk said, without any idea yet how many things the sentence would turn out to be about. He wrote it down anyway, at the top of a fresh page, with the alloy figure he had measured underneath it, and the date.
 
@@ -120,11 +120,11 @@ The new bracket went into the rig an hour later and held at three times working 
 
 He went out afterward, because the house had begun to feel small.
 
-The Outer District of Denvash ran along the inside of the city's interior wall, broad in the northern quadrant around the transit depots and pinched to the east, where the streets tangled against the Inner District's wall. Cael had grown up in the northern quadrant, and he knew its depots and its market, its community hall, and the canal gate that sighed when the locks let water through. He knew which streets flooded and which dogs bit. He walked north toward the market with nowhere particular to go, his breath showing in the cold. He counted things, because his own thoughts were too loud: fourteen carts between Fen Street and the market road, six stalls open and three still setting up, and one man disputing a delivery's weight with his supplier in the tone of a quarrel both of them had enjoyed every week for years.
+Denvash's Outer District was a long ring pressed against the inside of the interior wall: wide up here in the north, where the transit depots stood, and squeezed thin in the east, where the lanes knotted up against the Inner District. The northern quadrant was where Cael had grown up. He knew its depots and its market, its community hall, and the canal gate that sighed when the locks let water through. He knew which streets flooded and which dogs bit. He walked north toward the market with nowhere particular to go, his breath showing in the cold. He counted things, because his own thoughts were too loud: fourteen carts between Fen Street and the market road, six stalls open and three still setting up, and one man disputing a delivery's weight with his supplier in the tone of a quarrel both of them had enjoyed every week for years.
 
 At the end of Tallow Lane, the Inner District wall came into view over the rooftops.
 
-It was taller than it needed to be. Cael had five pages in his notebook about that wall, covering its height, the grade of the road on each side of it, how many street lamps stood per hundred paces on each side, and the gate. The gate mattered most, because every city in Valdris was built in rings, and the rings were built on rank. The Registry kept your classification, and your classification decided where you could go. Copper-tier got the outer districts and part of the markets. Iron-tier got the whole city in general, and the guild districts if you carried the right papers. Bronze opened the administrative core, Silver opened every district and the roads between cities, and Gold opened whatever was left, which was mostly the kind of thing people put on posters.
+It was higher than any wall had a reason to be. Cael had five pages in his notebook about that wall, covering its height, the grade of the road on each side of it, how many street lamps stood per hundred paces on each side, and the gate. The gate mattered most, because every city in Valdris was built in rings, and the rings were built on rank. The Registry kept your classification, and your classification decided where you could go. Copper-tier got the outer districts and part of the markets. Iron-tier got the whole city in general, and the guild districts if you carried the right papers. Bronze opened the administrative core, Silver opened every district and the roads between cities, and Gold opened whatever was left, which was mostly the kind of thing people put on posters.
 
 Hesk was Iron-tier, so he went through the Inner gate twice a month to deliver gauges, showed his registration, and was waved on, and he never talked about it, in the way people never talk about the doors that open for them.
 
@@ -154,7 +154,7 @@ Alis lived two streets over, had turned fourteen early in the autumn and Kindled
 
 Alis looked up when his boots scuffed the step. "Tide Path. Copper, Rank 1."
 
-"Good healing potential," Cael said, because it was true.
+"Tide's good for healing," Cael said. It was true, so he said it.
 
 "That's what everyone says."
 
@@ -224,11 +224,11 @@ He meant it, and he hoped she could tell.
 
 ---
 
-Everyone in the northern quadrant knew Joren's result, so Cael did too. Joren had spent a year predicting his Kindling, starting with *something fast* and narrowing it week by week until, by midsummer, he was telling people at the market *Blade Path, Silver-track, probably Rank 3 by sixteen*. He had told Garrik, and Ressa, and even the gate guard on Merchant Row, who had said *a door opening* and then *good luck, son* in a voice that made Cael wince. The whole quadrant had followed his certainty with the close attention people give to certainty they suspect is wrong.
+Everyone in the northern quadrant knew Joren's result, so Cael did too. Joren had spent a year predicting his Kindling, starting with *something fast* and narrowing it week by week until, by midsummer, he was telling people at the market *Blade Path, Silver-track, probably Rank 3 by sixteen*. He had told Garrik, and Ressa, and even the guard on the Merchant Row gate, who had said *a door opening* and then *good luck, son* in a voice that made Cael wince. The whole quadrant had followed his certainty with the close attention people give to certainty they suspect is wrong.
 
-It had been wrong: Stone Path, Copper Rank 1.
+The certainty had been wrong. He had come out Stone Path, Copper Rank 1.
 
-It was not a bad Path. Cael had looked it up the day Joren Kindled, because he looked everything up, and Stone rewarded patience; it built slowly and held well, and at the higher tiers it did things with ground and weight that the guilds paid good money for. Joren had patience underneath the noise, and in ten years, if he worked, he could be Bronze, which was more of the city than most of the Outer District ever saw. But it was a beginning rather than an arrival, and Joren had spent a whole year telling everyone he would arrive.
+It was not a bad Path. Cael had looked it up the day Joren Kindled, because he looked everything up, and Stone rewarded patience; it built slowly and held well, and at the higher tiers it did things with ground and weight that the guilds paid good money for. Joren had patience underneath the noise, and in ten years, if he worked, he could be Bronze, which was more of the city than most of the Outer District ever saw. But it was a place to start from, not a place to have got to, and Joren had spent a year promising everybody he would get there.
 
 Cael found him at the low wall.
 

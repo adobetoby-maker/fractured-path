@@ -1,38 +1,32 @@
 # Chapter 2 — Tuesdays
 
-Hesk found him on the roof in the afternoon.
+There was a line in the back of Cael's notebook with a pencil stroke through it, and he had been looking at it on and off for most of the afternoon.
 
-Cael called it needing sight lines when he went up to the roof, and Hesk called it that too, so that neither of them had to say what it really was. The access hatch was at the top of a ladder in the back hall. Beyond it was a flat stretch of tar and gravel, a chimney, a water tank, and a low brick lip around the southern edge where you could sit with your legs inside and look out over the northern quadrant. He had been up there for two hours with the notebook open on his knee, and he had written nothing in it. It was mostly something to hold.
+He had copied it a month ago from the foot of the registry summary page, under the four-line entry he already knew by heart. It was a footnote, and it told anyone whose Kindling came out non-standard to present themselves at a Compact district office inside two days for something it called standard compliance processing. He had gone and found out what that processing involved, written it underneath, and struck both lines through. He never struck anything through. A wrong figure stayed on the page with the right one beside it, because Hesk said an erased mistake was a mistake you got to make again. This one he had crossed out anyway, and he still could not have said whether he had done it to be rid of it or so that he would always know where it was.
 
-The hatch creaked, and Hesk came up the ladder one-handed, which he could do, because in the other hand he had two cups of tea balanced on a saucer. He did this when he had something to say and was still choosing how to say it. Cael had worked that out at nine and had never told Hesk he knew, because it seemed like the kind of thing that would stop working if he did.
+They both called this going up for the sight lines, which spared either of them saying anything truer. A ladder in the back hall ended at a hatch. Past the hatch there was tar and gravel, the chimney stack, the water tank on its iron legs, and a low lip of brick along the southern edge where you could sit with your legs on the safe side and see most of the northern quadrant at once.
 
-Hesk sat down beside him on the brick lip and handed him a cup.
+Below him a cooper was rolling a barrel along the gutter with a stick. Two practitioners in Copper armbands carried a bundle of planks between them, the man holding his end as if it were a loaf, the woman holding hers with the set jaw of someone who would sooner drop it on her foot than be offered help. Children ran between the houses, shouting about nothing.
 
-Below them, the afternoon moved through the streets: carts, and a cooper rolling a barrel along the gutter with a stick. Two practitioners in Copper armbands were carrying a delivery of lumber, one of them lifting his end with no visible effort while the other pretended she didn't need help with hers. A knot of children ran between the houses shouting about nothing.
+Then the grey dog came round the corner by the chandler's.
 
-And then the grey dog.
+Nobody on the block owned it, or everybody did. It was big and shaggy, with one ear standing up and the other folded flat as if it had lost an argument, and it turned up several times a day to bark at things only it could see. Cael had once given a whole week to following it home, and every evening it had beaten him at the same corner by the canal; he had written the corner down and never solved it. Now it trotted across the crossing, stopped, and barked twice at a drainpipe.
 
-It lived somewhere on this block, though nobody knew where. It was large and shaggy, with one ear that stood up and one that had given up, and it appeared on the street several times a day to bark at things only it could see. Cael had once spent a week trying to follow it home and had lost it every time at the same corner. It came out now, crossed the intersection below them at a steady trot, and barked twice at a drainpipe.
+The hatch creaked behind him, and he heard china touch china. Two cups on one saucer meant Hesk had come up the ladder one-handed, and Hesk only did that when he had brought something up with him besides tea.
 
-"Joren seems better," Hesk said.
+Cael had known that since he was nine and had never said so, on the theory that a thing like that would stop working once both of them knew it.
 
-"He is better. He's working at it." Cael turned his cup in his hands. "I sat him down in the street this morning."
+Hesk lowered himself onto the brick lip, passed him a cup, and looked at the street rather than at him.
 
-Hesk's eyebrows went up.
+"Joren seems better."
 
-"He asked me to. He's got a stance declaration, Rank 1, Stone, and you can't move him while his feet are planted, but his heel comes up when he talks."
+"He's working at it." Cael wrapped both hands round the cup. "He made me sit him down in the street this morning. Rank 1 Stone, a stance declaration, and you really can't shift him while his feet are set. But when he wants a sentence to land, his heel comes up at the end of it."
 
-"His heel."
+"His heel," Hesk said.
 
-"At the end of a sentence, when he wants it to land."
+"He fixed it twice before we stopped. He's built for Stone, honestly. He's patient, and he doesn't mind being shoved."
 
-Hesk drank some tea and thought about this. "He'll fix that."
-
-"He fixed it twice before we stopped." Cael looked down at the street. "He's the right temperament for Stone, actually. He's patient, and he doesn't mind being pushed."
-
-Hesk made a sound in his throat that Cael knew. He had grown up with it. Hesk had at least four versions of that sound, and this was the one that meant *I have something specific, and I'm deciding where to set it down.*
-
-Cael waited.
+Hesk made a small noise in his throat. He had at least four, and Cael had grown up reading all of them; this one meant a job had been set on the bench and Hesk was choosing which side to begin from.
 
 "You're not Joren," Hesk said.
 
@@ -42,79 +36,69 @@ Cael waited.
 
 "Hesk."
 
-Hesk stopped and looked at the street. Then he said, more quietly, "—we'll figure it out."
+The old man stopped and watched the dog for a while. When he went on, his voice had dropped. "—we'll figure it out."
 
-Cael looked at him, but Hesk kept looking at the street, either to give Cael room or simply to be careful, and with Hesk those were often the same thing.
+He kept his eyes on the street, either to give Cael room or out of plain care, and with Hesk those usually came to the same place.
 
-"I know."
+"I know," Cael said.
 
-Below, the grey dog barked at someone's window, and the window opened, and someone said something short to the dog, and the window shut again.
+"I've been down to the record office," Hesk said, "the district one, asking about non-standard classifications. What the procedure is. What comes after."
 
-"I talked to the district record office," Hesk said.
+Cael kept his face exactly where it was and turned the notebook over on his knee, so that the crossed-out line lay against the tar. "And?"
 
-Cael kept his face still. "About what?"
+"It can be managed, whatever comes. There are provisions."
 
-"About non-standard classifications. The procedure. What happens."
+He did not know what a provision was, in that sense. He turned the book face up again and wrote the words in the margin, *there are provisions*, because Hesk did not say things he did not mean, and nobody walked into a record office to ask about something he was sure would never happen.
 
-Cael knew what he meant: what happened when a Kindling produced something the standard system could not process. He had looked into it himself. At the bottom of the same summary page as the four-line entry there was a footnote. *Practitioners presenting non-standard results at Kindling should report to the nearest Compact district office within forty-eight hours for standard compliance processing.* He had found out what that processing meant, and written it down, and then crossed it out, which he never did.
+"How long have you been carrying this?"
 
-"And?"
-
-"Whatever the result is," Hesk said, "it can be managed. There are provisions."
-
-Cael wrote *there are provisions* in the notebook. He did not yet know what it meant. But Hesk did not say things he did not mean, and Hesk had gone to the record office and asked, and you did not ask about procedures for something you believed would never happen.
-
-"How long have you been thinking about this?"
-
-Hesk's face stayed level. "A while."
+"A while."
 
 "Since my preliminary assessment."
 
-"Before that."
+"Before."
 
-Cael looked at him. Hesk looked at the street, where the grey dog came back the other way, slower, as if it had forgotten something.
+The dog came back across the crossing the other way, slower now, as if it had forgotten what it went out for. Cael watched it rather than his grandfather.
 
-"You should have told me," Cael said, and he was not angry; it was simply the correct statement.
+"You should have told me." He was not angry. It was only true, the way a measurement is true.
 
-"Until there was something to tell, there wasn't anything to tell."
+"I had a feeling, not a fact. You don't hand somebody a feeling."
 
-"I've been worried about it by myself."
+"So I've been worried about it on my own."
 
-Hesk was quiet for so long that Cael thought he might not answer. "Yes. I know. I'm sorry for that." He turned his cup on the brick. "I didn't want to make a thing real before it was."
+For a while there was only the street. Then Hesk said, "Yes. I know. I'm sorry for that," and gave his cup a quarter turn on the brick. "Saying it out loud at the kitchen table would have put it in the house with us, and I didn't want to make a thing real before it was."
 
-Cael turned that over and found that it was exactly what he would have done himself, if they had been the other way round, which was not as comforting as it ought to have been.
+Cael held that up to the light and found that, with the two of them turned round, it was exactly what he would have done himself. That ought to have been a comfort. It mostly wasn't.
 
 "What do you actually know about my assessment? Not what you think. What you know."
 
-This time the silence was longer.
+Hesk took longer this time. "Irregular coupling patterns. You read the sheet. The assessor wrote it up as uncommon variation, which is true as far as it goes, but there's more than one kind of uncommon." He breathed out through his nose. "I've seen one like yours. Once, years ago."
 
-"Your preliminary assessment showed irregular coupling patterns," Hesk said finally. "The assessor called it uncommon variation, which was fair as far as it went, but uncommon comes in more than one kind." He paused. "I've seen yours before. Once. Years and years ago."
+Cael had the pencil ready and wrote nothing. "Who?"
 
-Cael had the pencil in his hand and did not write anything with it. "Who?"
-
-Hesk shook his head, and it was not *I won't tell you*; it was *not this story, and not today.* "It'll be clearer tomorrow, one way or the other."
+Hesk shook his head. It was not a refusal; it was *not that story, and not today*. "Tomorrow will make it clearer, one way or the other."
 
 "And if it's—"
 
-"Then we figure it out." Hesk said it the way he set a part into a rig, not hoping but decided. "I mean that, Cael. Whatever it is."
+"Then we figure it out." He said it the way he seated a part in a rig, not hoping it would fit but having measured. "I mean it, Cael. Whatever it is."
 
-Cael believed him in the same way he believed a load calculation Hesk had shown his working on, not because he had to, but because the numbers came from somewhere and Hesk had always shown where.
+Cael found he believed it. He believed it for the reason he trusted the load tables chalked up on the workshop wall, where every figure had a line drawn back to the figure it came out of.
 
-They sat until the light changed. The carts thinned, the children went in, and the dog made one more round of the block and was not seen again. The noise of the district softened at last into the hour before dinner, when everything sounds slightly farther away than it is.
+They stayed while the light went long and yellow and then thin. The carts dwindled, the children were called in one name at a time, and the dog made a last circuit and did not come round again. The noise of the district softened into the hour before supper, when every sound seems to come from one street further off than it really is.
 
-"Tea's cold," Hesk said, looking into his cup as if it had disappointed him personally.
+Hesk looked down into his cup with the face of a man let down by an old friend. "This has gone cold."
 
-"You let it get cold."
+"You let it."
 
-"I did." He made no move to fetch more. "Come down when you're ready. I'll start dinner."
+"I did." He made no move to fetch more, only got up, knees cracking. "Come down when you're ready. I'll see about supper."
 
-He went down the ladder and left Cael on the roof a while longer, and Cael understood that as its own kind of gift: nobody was asking him to look ready before he was.
+He went down the ladder, and the hatch settled shut over him. Cael stayed where he was. He was being let off having to look ready, and he knew it, and he was grateful in the way you can only be grateful to someone who will never make you say so.
 
 ---
 
 Dinner was rice and the last of the week's leftovers. Hesk had kept house alone for years before Cael came, and he still cooked a meal the way he would solve a problem, so it was always adequate, and tonight Cael barely tasted it.
 
-Hesk put the radio on. It was a small brown set on the shelf by the stove, with a cracked dial and one knob that only worked if you pressed it in while you turned it. Most evenings it gave them the weekly Path athletics programme from the regional service. Tonight two men with large voices were discussing the sanctioned regional season at length, with strong opinions and no power to change anything.
+Hesk put the radio on, the small brown set on the shelf by the stove, with its cracked dial and the one knob that only worked if you pressed it in while you turned it. Most evenings it gave them the weekly Path athletics programme from the regional service. Tonight two men with large voices were discussing the sanctioned regional season at length, with strong opinions and no power to change anything.
 
 "—and of course the Ardenmere quarter-final is the one everyone's still talking about," said the first. "Third exchange. If you weren't there, I can't describe it to you."
 
@@ -132,9 +116,7 @@ Cael stared at him. "How do you know that?"
 
 Hesk ate a forkful of rice, chewed it, and swallowed. "I watched the community hall broadcast. On Tuesday."
 
-There was a pause.
-
-Cael had no idea Hesk spent his Tuesdays at the community hall. He had thought Hesk went to the guild house on Tuesday evenings to look over the trade notices, and he had never asked, because it had never occurred to him there was anything to ask. He opened his notebook beside his plate and wrote in the margin, *ask Hesk about Tuesdays*, and underlined it twice.
+There was a pause, in which Cael learned that he had no idea how his grandfather spent his Tuesdays. He had thought Hesk went to the guild house on Tuesday evenings to look over the trade notices, and he had never asked, because it had never occurred to him there was anything to ask. The notebook came open beside his plate, and *ask Hesk about Tuesdays* went into the margin with two lines under it.
 
 Hesk watched him do it. "You could just ask."
 
@@ -144,7 +126,7 @@ Hesk watched him do it. "You could just ask."
 
 "Writing is how I ask."
 
-Hesk set down his fork and looked at the clock over the stove, a plain round face with the hours marked in brass dots, which he had made himself. Its hands said ten past seven.
+Hesk set down his fork and looked at the clock over the stove, a plain round face with the hours marked in brass dots, which he had made himself, and whose hands said ten past seven.
 
 "What day is it?"
 
@@ -152,9 +134,11 @@ Cael looked at him, then at the clock, then back at him. "Tuesday."
 
 "The reel starts at half past," said Hesk, pushing back his chair. "Get your coat."
 
+---
+
 The community hall stood at the end of Chandler Street, two blocks from the canal, a long brick building with a slate roof patched so many times that it looked like a quilt. By day it held the reference room, the district notice board, a small kitchen, and a hall with a wooden floor where people held weddings, funerals and the occasional meeting about drains. Cael knew the reference room better than his own bedroom, but he had never once been in the building after dark.
 
-Hesk did not go to the front. He went down the side of the building to a narrow green door with a brass handle worn bright, knocked twice, paused, and knocked once.
+Hesk did not go to the front but down the side of the building, to a narrow green door with a brass handle worn bright, where he knocked twice, paused, and knocked once.
 
 "You have a knock," Cael said.
 
@@ -176,7 +160,7 @@ Garrik was seventy or near it, with arms like a bargeman's and a white beard tri
 
 The back of the hall had been made into a small room with a curtain, and inside it stood perhaps a dozen folding chairs, eight of them occupied, all by old people. All of them looked up when Cael came in, and looked at Hesk, and then back at Cael. It was the look of a club that had been waiting a little impatiently for a new member to be old enough.
 
-At the front hung a white sheet pinned flat to a wooden frame. At the back, on a little iron cart, stood a projector, tall and black and covered in brass fittings, with two big reels mounted on arms above it like ears.
+At the front hung a white sheet pinned flat to a wooden frame, and at the back, on a little iron cart, stood a projector, tall and black and covered in brass fittings, with two big reels mounted on arms above it like ears.
 
 "The regional athletics office films the main bouts and sends the reels round the district halls," Garrik said, patting the machine as if it were a horse. "We get them a week behind, and we're the only hall in the quadrant that still runs a projector." He said this with enormous pride. "I keep her going. I've rebuilt the lamp housing twice, and your grandfather made me the gauge for the tension arm."
 
@@ -194,7 +178,7 @@ A tiny old woman in a knitted hat held out a tin of biscuits. Cael took one, and
 
 "You can't, actually. That's rather the point of you."
 
-Garrik turned off the lamps. The projector clattered and woke, a beam of white light leaned across the room full of turning dust, and the sheet lit up.
+Garrik turned off the lamps, and the projector clattered and woke, a beam of white light leaned across the room full of turning dust, and the sheet lit up.
 
 The reel was the Ardenmere semi-final.
 
@@ -220,7 +204,7 @@ The man's feet landed heel first and then rolled flat, every step the same lengt
 
 Hesk turned his head a little, and in the flicker from the screen Cael saw the edge of a smile.
 
-The fighters touched hands and stepped back, and the bout began, and it was nothing like the radio. On the radio everything happened in sentences; here, almost nothing happened for what felt like a very long time. The two of them circled. The woman stayed out of reach and the man followed, slow and patient, and now and then one of them moved a hand and the other answered it.
+The fighters touched hands and stepped back, and the bout began, and it was nothing like the radio. On the radio everything happened in sentences; here, almost nothing happened for what felt like a very long time. The two of them circled, the woman staying out of reach and the man following, slow and patient, and now and then one of them moved a hand and the other answered it.
 
 "Nothing's happening," Cael said under his breath.
 
@@ -230,7 +214,7 @@ The fighters touched hands and stepped back, and the bout began, and it was noth
 
 "Hands lie. Shoulders lie. A good fighter lies with everything above the belt." Hesk kept his eyes on the screen. "But the hips have to go where the weight goes, and the weight has to go where the strike goes, so you watch the hips and the feet under them, and you'll see the strike before the hand does."
 
-Cael watched the man's hips. On the screen, the man's shoulders dipped right and his hand flicked out right, and the woman leaned away to the left, but his hips had not moved at all.
+Cael watched the man's hips, and on the screen the man's shoulders dipped right and his hand flicked out right, and the woman leaned away to the left, but his hips had not moved at all.
 
 "That was a fake."
 
@@ -252,7 +236,7 @@ The second exchange was faster. The man pressed forward and the woman gave groun
 
 "Because then the other one's seen it."
 
-Cael sat back. On the screen the two figures stood at their marks again, breathing, watching each other.
+Cael sat back while on the screen the two figures stood at their marks again, breathing, watching each other.
 
 "So the third—"
 
@@ -268,9 +252,9 @@ It was the move from the quarter-final; Cael knew it the moment he saw it. She l
 
 And the man did not commit.
 
-His hips stayed back. His front foot, which should have landed, did not land. He let his own strike die halfway and stepped, not forward, but down and across, so that when the woman came up out of her drop in exactly the place she had come up in the quarter-final, he was already there. His forearm met her shoulder. It was not a blow but a wall, and she came up into it with all her own speed, and it spun her, and she went down on the sand on one knee with her hand flat to keep from falling further.
+His hips stayed back, and his front foot, which should have landed, did not. He let his own strike die halfway and stepped, not forward, but down and across, so that when the woman came up out of her drop in exactly the place she had come up in the quarter-final, he was already there. His forearm met her shoulder, not as a blow but as a wall, and she came up into it with all her own speed, and it spun her, and she went down on the sand on one knee with her hand flat to keep from falling further.
 
-The bout official stepped in. The woman stayed on one knee for a moment; then she stood, touched her fist to her chest, and bowed her head to the man.
+The bout official stepped in, and the woman stayed on one knee a moment before she stood, touched her fist to her chest, and bowed her head to the man.
 
 The old people in the folding chairs let out their breath together. The woman in the knitted hat said, "Oh, *poor* thing," and Garrik said, "Knew it. Knew he'd seen it."
 
@@ -282,7 +266,7 @@ Cael sat very still. "He watched the quarter-final."
 
 "She did. I think she believed she was faster than his knowing." Hesk shrugged. "Sometimes you are. That night, she wasn't."
 
-The reel ran on into a little footage of the crowd and some officials. Then the sheet went white, and the loose end of the film began to flap round and round on its reel with a noise like a trapped bird, until Garrik switched the machine off and the lamps came on and everyone blinked.
+The reel ran on into a little footage of the crowd and some officials, and then the sheet went white, and the loose end of the film began to flap round and round on its reel with a noise like a trapped bird, until Garrik switched the machine off and the lamps came on and everyone blinked.
 
 "Well," said the woman in the knitted hat, turning to Cael, "what did you think?"
 
@@ -296,7 +280,7 @@ There was a short silence, and then all the old people laughed together, a warm,
 
 The second reel did not start.
 
-Garrik threaded it, muttering, and switched on the lamp. The projector clattered for four seconds and then gave a long, grinding shriek, and the picture on the sheet stuttered, froze, and went brown at the centre, where the film had stopped in front of the hot lamp. Garrik hit the switch with the flat of his hand. The room filled with a smell like burnt sugar.
+Garrik threaded it, muttering, and switched on the lamp. The projector clattered for four seconds and then gave a long, grinding shriek, and the picture on the sheet stuttered, froze, and went brown at the centre, where the film had stopped in front of the hot lamp. Garrik hit the switch with the flat of his hand, and the room filled with a smell like burnt sugar.
 
 "It's the tension arm," said Garrik, in the voice of a man naming an old enemy.
 
@@ -320,7 +304,7 @@ Cael felt in his coat pocket, where he kept the things that ended up in coat poc
 
 "That'll do," he said, which from Hesk was a medal, and he slid it in behind the stop, and Garrik threaded the film again, and the second reel ran clean from first frame to last.
 
-It was two Bronze-tier Blade fighters, very fast, and Cael could not follow it at all, and did not mind in the least. He watched the hips. Twice he saw a strike come before it came, and once he said "there" out loud, half a second early, and Hesk said nothing and did not need to.
+It was two Bronze-tier Blade fighters, very fast, and Cael could not follow it at all, and did not mind in the least. He watched the hips, and twice he saw a strike come before it came, and once he said "there" out loud, half a second early, and Hesk said nothing and did not need to.
 
 ---
 
@@ -344,9 +328,9 @@ They turned onto Fen Street, where their house stood dark and the workshop windo
 
 "Yes."
 
-"The thing you saw before, the irregular coupling, the person." Cael stopped walking. "How did it go for them?"
+"The one you saw. The coupling like mine." Cael stopped walking. "The person. How did it go for them?"
 
-Hesk stopped too, under the last lamp before their door, with his hands in his coat pockets. He looked at the ground, and he was quiet long enough that Cael thought this was going to be one of the things he did not answer.
+Hesk stopped too, under the last lamp before their door, with his hands in his coat pockets. He looked down at the cobbles and said nothing for so long that Cael began, privately, to put the question away.
 
 "It was a tangle. I know how it started. I don't know how it ended." He lifted his head. "I've gone without the rest of it for longer than you've been alive."
 
@@ -354,18 +338,18 @@ He went in and lit the lamp in the kitchen, and after a moment Cael followed him
 
 ---
 
-He woke at two in the morning and did not know why.
+The water stain on the ceiling was shaped like a boot, and had been since the winter four years ago when the gutter froze and the melt came in at the northeast corner. Cael was looking at it in the pitch dark without being able to see it, which meant he was awake, and something had woken him.
 
-The house was silent. Hesk had gone to bed an hour after him; Cael had heard the reading lamp click off in the other room. The street outside had the deep stillness of a district where most people worked an early shift, and somewhere far off the canal gate sighed once, letting the night water through. He lay on his back in the dark and studied the ceiling, where a water stain from a winter four years ago, when the gutter had frozen, made a shape in the northeast corner a little like a boot.
+He listened for what. Nothing in the house owned up to it. Hesk's reading lamp had clicked off through the wall an hour after Cael went up. Outside lay the heavy quiet of a quarter that started work before light, and far off the canal's night gate let its water through with one long sigh. It was two in the morning, or near it.
 
-Tomorrow the Arbiter would come, and he did not know what that meant, because nobody could tell you; it was different for everybody, and the people who had done it could only tell you afterward. *A door opening. Sunlight. Brief. Heavy. Like remembering something you never knew.* Eleven people had tried, and one of them had not even tried.
+Tomorrow the Arbiter would wake in him, and nobody could tell you beforehand what that was like; the people it had come to could only describe it from the far side. A door opening. Sunlight. Brief. Heavy. Like remembering something you never knew. Eleven of those were on page seven, and the starred one, Hesk's, said only that he could not say.
 
-He thought about Alis on the step of the certification office, folding her certificate in half and then flattening it out again, and Joren lying on his back in the street, laughing at the sky until he stopped. He thought about the woman on the sand dropping her stance under a strike that was not coming, rising out of it into a forearm, and touching her fist to her chest. He thought about Hesk, who had gone to the record office to ask about provisions and had seen it once, a long time ago. Hesk had sat in a folding chair in the dark every Tuesday for some years studying how a body moves when it carries a Path, and had never said why.
+His mind went down the day without his asking it to, the way it would run a column of figures to see whether they summed. Alis on the step at Weaver's Row, folding her certificate in half and pressing it flat again. Joren on his back in the grit, laughing up at the sky until he wasn't. The woman on the grey sheet, dropping under a strike that never came, rising into a forearm, touching her fist to her chest. And Hesk: at the record office asking about provisions; a man who had seen this once, long ago; a man who had sat in a folding chair in the dark every Tuesday for years, learning how a body moves when there is a Path in it, and never once said why.
 
 *I know how it started. I don't know how it ended.*
 
-Cael sat up and took his notebook from the shelf beside the bed, where it always was. He could not see the page, and it did not matter; he had written this before, in other words and other notebooks, in the margins of other things.
+He reached for the shelf by the bed without looking and found the notebook by its corner. There was no light to write by. It did not matter; he had put this down before, in other words and other notebooks, and his hand knew its shape better than his eyes would have.
 
 *whatever it is, we figure it out.*
 
-He put the book back on the shelf and lay down again. The house made its small night sounds around him: a joint in the old timber easing, the tick of the cooling stove downstairs, the patient breathing of a place that thinks nobody is listening. He had grown up inside those sounds and knew them the way he knew his own name, and he listened to them for a long time, and somewhere in the listening, without deciding to, he slept.
+He put it back and lay down. The night noises came one at a time once he was listening for them: a beam in the old frame ticking as it gave up the day's warmth, the stove below cooling, the window glass shifting when the wind leaned on it. He began to count them, because he counted things, and lost count, and somewhere after losing it he slept without having decided to.

@@ -18,11 +18,11 @@ There were several things in his life he had prepared for over a long time and s
 
 He went to Ressa's in the morning because he always went to Ressa's in the morning.
 
-The side door was open with the ovens going, and the smell came half a block to meet him. He followed it as he had followed it for more than twenty years, since before there was a boy to follow it with him. Ressa was behind the counter with her sleeves pushed up. Two loaves were already wrapped and waiting at the end of the counter, side by side, as they had been waiting every morning for as long as Cael had been old enough to eat one.
+The side door was open with the ovens going, and the smell came half a block to meet him. He followed it as he had followed it for more than twenty years, since before there was a boy to follow it with him, and Ressa was behind the counter with her sleeves pushed up. Two loaves were already wrapped and waiting at the end of the counter, side by side, as they had been waiting every morning for as long as Cael had been old enough to eat one.
 
-Ressa saw them at the same moment Hesk did. Her hands, which had been reaching for his coins, stopped.
+Ressa saw them at the same moment Hesk did, and her hands, which had been reaching for his coins, stopped.
 
-Neither of them said anything for a moment. It was a small thing, two loaves in brown paper, and it stood on the counter between them like a third person.
+Neither of them said anything for a moment; it was a small thing, two loaves in brown paper, and it stood on the counter between them like a third person.
 
 "One," Hesk said.
 
@@ -42,7 +42,7 @@ Ressa nodded, and something eased at the corners of her mouth, and she gave him 
 
 At about ten there was a knock at the workshop door, the side door that opened onto the lane.
 
-It was Joren. He stood in the lane in his wool coat with his feet planted flat and his hands in his pockets. Hesk saw at once that he was keeping his heels down, and that he was keeping them down on purpose, because his whole body leaned very slightly forward with the effort of it. He had a folded paper in one hand. It had been folded small and opened and folded again so many times that the creases had gone soft.
+It was Joren, standing in the lane in his wool coat with his feet planted flat and his hands in his pockets. Hesk saw at once that he was keeping his heels down, and that he was keeping them down on purpose, because his whole body leaned very slightly forward with the effort of it. He had a folded paper in one hand, folded small and opened and folded again so many times that the creases had gone soft.
 
 "Sir," Joren said. "Has he written?"
 
@@ -62,19 +62,21 @@ Hesk said nothing, because there was nothing he could say that would make Joren'
 
 Joren nodded, and folded the paper once more along its soft creases, and put it inside his coat. Then he walked off along the lane toward the canal with his heels down, slowly, as if the ground had become something he had to think about, and Hesk stood in the doorway and watched him until he turned the corner.
 
+---
+
 The letter from the guild came on the second morning after the depot, by the same grey-and-brass courier, with the same satchel worn pale along the strap.
 
 It was shorter than the registry notice and more polite, which made it worse. It said that the guild had received notification from the Compact Registry under Statute 14, Section 9, concerning the residence at 14 Fen Street, Outer District, held under the standing of registration 22-1190-H. It said that in accordance with the guild's obligations the standing of that member was now under review.
 
 It asked the member to submit, within thirty days, a written account of present residential arrangements at that address, and it said that the reviewing officer would be in touch in due course regarding any further requirements. It was signed with a name Hesk did not know, above a title he did, and below the signature someone had written *Routine* in a different ink and a different hand, as if to be kind.
 
-He read it twice at the kitchen table. Then he went into the workshop and took out a sheet of good paper and his steel pen, and wrote the account.
+He read it twice at the kitchen table, and then he went into the workshop and took out a sheet of good paper and his steel pen, and wrote the account.
 
-He had thought it would be easy. It was one sentence of fact. He had written ten thousand sentences of fact in his life, load figures and tolerances and the readings of dials, and every one of them had been easier than this one.
+He had thought it would be easy, since it was one sentence of fact. He had written ten thousand sentences of fact in his life, load figures and tolerances and the readings of dials, and every one of them had been easier than this one.
 
 *The person named in the registry notice of the second day no longer resides at this address.*
 
-He looked at it for a long time. It was true. It had been true for two days. It was exactly the sentence the review wanted, and it was exactly the sentence the notice had been built to make him write, and he had known that when he read the notice at this table with Cael beside him and had said so out loud: *It's easier to make a family choose.* He had chosen. He had walked Cael to the depot and watched him go down the merchant road until he was a shape, and this sentence was the receipt.
+He sat looking at it, and it was true, and had been true for two days. It was exactly the sentence the review wanted, and it was exactly the sentence the notice had been built to make him write, and he had known that when he read the notice at this table with Cael beside him and had said so out loud: *It's easier to make a family choose.* He had chosen. He had walked Cael to the depot and watched him go down the merchant road until he was a shape, and this sentence was the receipt.
 
 He added a second sentence, because the first one looked too much like an apology.
 
@@ -84,7 +86,7 @@ That was also true, and the review did not need it, and he left it in.
 
 He sealed the account and set it by the door to go to the guild house, and then he put the guild's letter not in a drawer, where he would not have to look at it, but on the shelf above the bench, propped against the clock, where he would see it every time he lifted his head.
 
-He did not know yet what the review would come to. He thought it would probably come to nothing, slowly, the way the Compact made most things come to nothing, with a great many forms. He thought it might not. He had decided long ago that the risk was his, and he was not going to start pretending otherwise now just because the risk had arrived with a signature on it.
+He did not know yet what the review would come to. He thought it would probably come to nothing, slowly, the way the Compact made most things come to nothing, with a great many forms, though it might not. He had decided long ago that the risk was his, and he was not going to start pretending otherwise now just because the risk had arrived with a signature on it.
 
 ---
 
@@ -104,13 +106,13 @@ The green door opened at the second knock of the two, before the third, as thoug
 
 "Reel's threaded." Garrik stood back from the door. "Biscuits came."
 
-The back room was as it always was. The sheet on its frame, the projector on its iron cart with its two big reels like ears, the dozen folding chairs and the eight old people in them, who all looked up when Hesk came in, and looked past him at the empty doorway, and back at him. Nobody said anything about the empty doorway. The woman in the knitted hat held out the tin of biscuits, and Hesk took one, and sat in his usual chair.
+The back room was as it always was. The sheet on its frame, the projector on its iron cart with its two big reels like ears, the dozen folding chairs and the eight old people in them, who all looked up when Hesk came in, and looked past him at the empty doorway, and back at him. Nobody said anything about the empty doorway; the woman in the knitted hat held out the tin of biscuits, and Hesk took one, and sat in his usual chair.
 
 Garrik turned down the lamps. The projector woke with its clatter, and the beam of light leaned across the room through the turning dust, and a bout came up on the sheet: two Copper-tier fighters from the sanctioned regional season, neither of them very good, a long cautious first exchange that went nowhere.
 
-Hesk did not watch it. He watched the tension arm.
+Hesk did not watch it; he watched the tension arm.
 
-It sat a hair higher than it had a month ago, held up off its stop by a thin brass washer that a boy had filed for nothing in particular and carried in his coat pocket until it turned out to be for something. The film ran smooth over the sprocket and did not ride up. Garrik had not taken the washer out. Hesk had half expected him to, and had not let himself think about why he expected it.
+It sat a hair higher than it had a month ago, held up off its stop by a thin brass washer that a boy had filed for nothing in particular and carried in his coat pocket until it turned out to be for something. The film ran smooth over the sprocket and did not ride up, and Garrik had not taken the washer out. Hesk had half expected him to, and had not let himself think about why he expected it.
 
 On the sheet, one of the Copper fighters dropped his guard in the third exchange and was put on the sand, and the woman in the knitted hat said, "Oh, he didn't see that coming at all," and somebody else said, "Nobody ever does, at that rank," and the ordinary talk of the room went on.
 
@@ -132,7 +134,7 @@ At the projector, Garrik had stopped threading.
 
 He did not turn round. He stood with the loose end of the film in one hand and the other hand on the reel, and he did not move, and Hesk could see from the set of his shoulders that he had heard every word.
 
-The lamps went down. The second reel ran, clean, from first frame to last.
+The lamps went down, and the second reel ran clean from first frame to last.
 
 Afterward, when the others had gone, Garrik stayed at the projector and wound the film back with the little crank, round and round, much more slowly than it needed. Hesk stood by the door with his coat on and waited.
 
@@ -146,7 +148,7 @@ Hesk said nothing.
 
 "When my wife died," Garrik said, "I couldn't look at anybody for a month. Not at you. Not at the girl from the bakery. I used to cross the street. I thought I'd got past it." He stopped cranking. "Turns out I'd only got past it for things I'd already done once."
 
-"He saw the wheel stop," said Hesk. He did not know that. He thought it was probably true. "He didn't look back. But he'll have heard it. He hears everything."
+"He saw the wheel stop," said Hesk. He did not know that, though he thought it was probably true. "He didn't look back. But he'll have heard it. He hears everything."
 
 Garrik looked round at last, and for the first time all evening he looked Hesk in the face, and his own face was red above the square white beard and not at all composed.
 
@@ -180,11 +182,11 @@ He stopped there, with the pen lifted.
 
 The guild's letter was on the shelf in the workshop, propped against the clock. He could see it in his mind as clearly as if it were on the table in front of him: the polite paragraphs, the stranger's signature, the word *Routine* in another hand.
 
-He knew exactly what he wanted to do with it. He wanted to leave it out. He wanted to leave it on the shelf and write to Cael about bread and washers and Joren's heels, and say nothing about a review that might come to nothing, because if it came to nothing then the boy would never have had to carry it, and if it came to something there would be time enough then. *Don't make a thing real before it is.* He had lived by that sentence for years.
+He knew exactly what he wanted to do with it, which was to leave it out. He wanted to leave it on the shelf and write to Cael about bread and washers and Joren's heels, and say nothing about a review that might come to nothing, because if it came to nothing then the boy would never have had to carry it, and if it came to something there would be time enough then. *Don't make a thing real before it is.* He had lived by that sentence for years.
 
 He had lived by it so long and so well that he had never once told Cael about Tuesdays, or the coupling, or the file he had watched opened at twenty-two, until the boy found each of them out for himself and came to him angry, standing in a workshop, asking.
 
-*I need you to tell me things now,* Cael had said, across the bench. *As they come. Not managed.*
+*Tell me things,* Cael had said, across the bench. *As they come. Not managed.*
 
 And Hesk had said, *All right.*
 
@@ -194,7 +196,7 @@ Then he wrote it.
 
 *The guild has opened a review of my standing, because of the notice. They want a written account of who lives here, and I've sent it. It's routine, they say, and slow, and it will most likely come to nothing. I'll tell you how it goes, as it goes. I'm telling you now because you asked me to tell you things as they come, and I said I would, and I'm finding out that's harder to keep than I expected. Don't worry about it. I know you will. Worry about it a little, then, and then stop.*
 
-He read it back. It did not make the review any smaller. It made him feel, for the first time in six days, as though he were not standing in the house on his own.
+He read it back. It did not make the review any smaller, but it made him feel, for the first time in six days, as though he were not standing in the house on his own.
 
 There were other things he did not write. There were things he had not written in thirty-two years, and he did not begin them tonight, and he did not let himself think about them any further than the edge of the page.
 
@@ -204,19 +206,19 @@ He did not seal the letter. He laid it flat on the table under the clock and set
 
 In Ardenmere, the next morning, Cael was at the Cinder House before the sun had cleared the roofs.
 
-It was a public house on a corner two streets below the yards, a squat stone building with a sign over the door that had once been a painting of a hearth with a fire in it. Weather had taken most of the paint, so that what was left was a black square with some orange flecks round the edges, more ember than fire, which he supposed was the point. The shutters were up, and the whole building had the stillness of a place that only came alive at certain hours.
+The Cinder House was a squat stone public house two streets below the yards, on a corner, with a sign over the door that had once been a painting of a hearth with a fire in it. Weather had taken most of the paint, so that what was left was a black square with some orange flecks round the edges, more ember than fire, which he supposed was the point. The shutters were up, and the whole building had the stillness of a place that only came alive at certain hours.
 
-The yard was round the side, through a gate in a wall. He found it by following the sound.
+The yard was round the side, through a gate in a wall, and he found it by following the sound.
 
-It was a square of packed dirt about thirty paces across, with high walls on three sides and the back of the public house on the fourth. The ground had been swept and watered so that it would not rise in dust, and in the middle of it, worn into the dirt, was a circle. It was not painted or chalked.
+It was a square of packed dirt about thirty paces across, with high walls on three sides and the back of the public house on the fourth. The ground had been swept and watered so that it would not rise in dust, and in the middle of it, worn into the dirt, was a circle, not painted or chalked.
 
-It was a shallow groove, a hand deep, that years of feet had walked into the ground the way water walks a channel into stone. It was very slightly out of round, longer one way than the other, as though the fighters who made it had all preferred the same side. Lanterns hung on hooks along three of the walls, unlit. A few crows were working the edges of the yard where last night's crowd had dropped things.
+It was a shallow groove, a hand deep, that years of feet had walked into the ground the way water walks a channel into stone. It was very slightly out of round, longer one way than the other, as though the fighters who made it had all preferred the same side. Lanterns hung on hooks along three of the walls, unlit, and a few crows were working the edges of the yard where last night's crowd had dropped things.
 
 Lira was in the far corner with a post.
 
 It was a thick wooden post sunk into the ground and wrapped in canvas gone grey with use, and she was striking it. Short strikes, very controlled, with the edge of the hand and the forearm and once or twice the heel of the palm, and between the strikes her feet moved in small steps that never seemed to go anywhere and never stopped. It looked less like fighting than like a long argument with the ground that she was winning on points.
 
-She did not stop when he came in. She said, between one strike and the next, "You're on time."
+She did not stop when he came in, only said, between one strike and the next, "You're on time."
 
 "You said not to be late."
 
@@ -230,7 +232,7 @@ Lira stopped, with her hand flat against the post, and looked at him.
 
 "Is that a problem?"
 
-"No. It's the most you thing I've seen you do, and I've known you a day." She laughed, a short, real laugh that surprised her as much as him, and went back to the post. "All right. The circuit. First thing. You've been reading that board like the circuit's a place. It isn't."
+"No. It's the most you thing I've seen you do, and I've known you a day." She laughed, a short, real laugh that surprised her as much as him, and returned to the post. "Right. The circuit. First thing. You've been reading that board like the circuit's a place. It isn't."
 
 "Then what is it?"
 
@@ -246,7 +248,7 @@ Lira followed the pencil and looked at the circle as though she had not seen it 
 
 She worked through the rules while she worked the post, and he wrote them down.
 
-A fight in the circuit was called a bout, and a bout was made of exchanges, not rounds. An exchange began when the fighters came off their marks and ended when they broke apart, and it could last two seconds or two minutes. Bouts were arranged between the fighters, or between whoever spoke for them, and the terms were agreed in advance. And every bout had a Ledger-keeper.
+A fight in the circuit was called a bout, and a bout was made of exchanges, not rounds. An exchange began when the fighters came off their marks and ended when they broke apart, and it could last two seconds or two minutes. Bouts were arranged between the fighters, or between whoever spoke for them, and the terms were agreed in advance, and every bout had a Ledger-keeper.
 
 "Ledger-keeper," Cael said.
 
@@ -302,7 +304,7 @@ He thought about it. "The one who walks out."
 
 "What changed?"
 
-"I stopped fighting the way they taught me and started fighting the way that worked for what I've got." She shrugged. "It sounds obvious when you say it. It took four losses before I believed it." She looked at him for a moment with her head on one side. "You might have it easier there, you know. You haven't got an academy's way to unlearn. Whatever you build, you'll be building it from the ground. That's slower at the start. It might be faster after."
+"I stopped fighting the way they taught me and started fighting the way that worked for what I've got." She shrugged. "It sounds obvious when you say it. It took four losses before I believed it." She tipped her head and considered him. "You might have it easier there, you know. You haven't got an academy's way to unlearn. Whatever you build, you'll be building it from the ground. That's slower at the start. It might be faster after."
 
 "That's a strange sort of advantage."
 
@@ -338,6 +340,6 @@ By the time the sun was high enough to reach the bottom of the yard, she had sto
 
 "Then they've vouched wrong, and everyone remembers." She stretched her arms over her head until her shoulders cracked, and did not look at him. "It's not a thing you do for just anybody."
 
-He wrote it down. He looked at it after he had written it, for longer than the words needed, and then he turned the page.
+He wrote it down, and looked at it after he had written it for longer than the words needed, and then turned the page.
 
-By early afternoon the yard had begun to fill.
+The yard began filling as the afternoon came on.

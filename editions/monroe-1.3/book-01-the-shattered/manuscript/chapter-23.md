@@ -80,7 +80,7 @@ He had been turning that over since the other market, and he had come out at the
 
 "They know already," he said. "The man was told Torvin's. Whatever he wanted from the clerk, he's had it, and he can't have it twice." He counted the rest on his fingers, because that was how he made a decision hold still long enough to look at. "If I stop using the hut now, the clerk notices before anybody, and the next person who asks him hears that the boy at Torvin's has started sending his letters some other way. That's a tell. It's the loudest kind. It says I know I've been found." Third finger. "And a carter going west can lose a letter in a ditch, and then Hesk gets nothing for a fortnight and sits at the kitchen table thinking the worst." He put his hand down. "So I keep posting at the hut. On purpose. Same day, same bag. And nothing goes on the outside but the address, which they've got already."
 
-Lira looked at him for a long moment.
+Lira gave him a long look.
 
 "That's cold," she said. "It's also right. I don't like it."
 
@@ -206,7 +206,7 @@ Vell turned it over, and kept coming back to the same name, and in the end she s
 
 Dessa came in through the gate at the end of the afternoon, as she did most Saturdays, to collect her terms for the Sunday.
 
-She was about twenty, square through the shoulders and solid all the way down, with her hair tied back in the way of somebody who had stopped thinking about her hair years ago. She walked across the yard without looking at the crows or the eaves or the circle, straight to the table, and stopped in front of it with her hands at her sides. She had been sitting at the top of the Cinder House's Sunday cards for most of the season. Everybody who had come at her had come the same way, eager, and gone down in the same way. Lately people had stopped coming at her at all, and Vell had had to go to Fenrow to find anybody who would.
+Twenty or near it, she was built square across the shoulders and solid to the ground, and her hair was tied back the way a person ties it who gave up thinking about hair a long time ago. She walked across the yard without looking at the crows or the eaves or the circle, straight to the table, and stopped in front of it with her hands at her sides. She had been sitting at the top of the Cinder House's Sunday cards for most of the season. Everybody who had come at her had come the same way, eager, and gone down in the same way. Lately people had stopped coming at her at all, and Vell had had to go to Fenrow to find anybody who would.
 
 "Second bout tomorrow," Vell said. "The Fenrow man. Copper Rank 3, Iron Path. He's eager."
 
@@ -278,7 +278,7 @@ Then she turned the ledger to the bottom of Petra's entry, where there was a lit
 
 She had begun writing these lines the year of the Ash Path man, and she wrote all of them the same way, as if to somebody else: to whoever would sit on this stool after her and keep this book. She did not know who that would be. She had never let herself decide. But she had come to believe that if the book was going to outlast her, it would need more than results. It would need somebody, some evening, to be able to turn back and find out not only what had happened in this yard but what the keeper had thought ought to happen next, and why, so that they could decide for themselves whether she had been right.
 
-*Recommend the boy be matched against increasingly credible opposition. Dessa first. Not to break him. To find out what he does when lasting stops working.*
+*Recommend he be set against opposition of rising weight, each a stiffer test than the last. Dessa first. Not to break him. To find out what he does when lasting stops working.*
 
 She blotted it, and closed the book, and sat with her hand flat on the cover while the singing inside the public house finished, and the scrubbing, and the light went off the top of the wall.
 

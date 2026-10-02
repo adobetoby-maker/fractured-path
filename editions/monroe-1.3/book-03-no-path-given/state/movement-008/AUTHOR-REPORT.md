@@ -315,3 +315,145 @@ Not measured by the tool:
   - Karis reads the log by asking;
   - nobody leaves Greyvane;
   - no assay clause.
+
+## Repair r1
+
+One consolidated same-author pass on 2026-10-02, following REPAIR-BRIEF.md, review-editorial.md (§3, §5, §6, line fixes) and review-cold.md. The pass worked in reading order, in the eight chapter files only, by reading. Every change is a hand-composed before/after string; nothing was split or joined by a script. The coordinator's line fixes 1–20 and the restored "If my argument needed any true thing to be false, it would be the wrong argument." were re-read in context and not redone. One join was smoothed in ch59, where fixes 15–16 had left "voice … plain voice" in adjacent sentences. One fix-10 instance was finished: ch57's "Help me find shattered in the schedule.", which still carried brackets. The ruling keeps its brackets. No git commands were run.
+
+### Metrics before / after (tools/formula_metrics.py, eight chapters)
+
+| Metric | Before (coordinator, after fixes 1–20) | After r1 | Working range |
+|---|---|---|---|
+| Words (tool / wc) | 37,447 / 37,525 | 36,023 / 36,107 | 36,000–38,500 |
+| Sentence mean | 14.66 | **13.89** | 13–15.5 |
+| Sentence median | 10 | 10 | (11) |
+| ≤5-word share | 27.1% | 26.3% | up to ~34% |
+| ≥40-word share | 5.8% | **2.9%** | 2.5–4.5% |
+| Paragraph median | 29.5 | 29 | up to ~30 |
+| Scene breaks / words per scene | 34 / 891.6 | 33 / **878.6** | 850–1,050 |
+| Flesch RE / FK | 84.6 / 5.1 | 85.4 / 4.79 | FK 3.5–6 |
+
+**How the ≥40 share came down.**
+- About seventy long narration sentences were split at natural joints by reading: ch54 s1–s5, ch55 s1–s4, ch56 s1–s3, ch57 s1 and s4–s5, ch60 s1–s6, ch61 s1–s3.
+- No spoken line was split.
+- The rebuilt passages were written short from the start.
+- The first measurement after splitting came out at **2.3%**, under the floor. So sixteen of my own splits were rejoined where the joined sentence read better (ch54 ×4, ch55 ×4, ch56 ×1, ch57 ×1, ch60 ×6), which settled the share at 2.9% and the mean at 13.89.
+- The schedule's long sentence in ch57 ("Every Path and every tier…") was kept whole, with its image rebuilt.
+
+**Length.** The book lost ~1,400 words to the coda thinning and the cut recap. Two short additions bring it back inside the band:
+- ch61: the Vell letter's own text, giving the letter instead of a summary of its writing (editorial §1);
+- ch57: one sentence placing the refused categories and the cross-index in the reading (cold read §4, "six places, four shown").
+
+### Overlap and probe (final)
+
+- `ed.sh overlap book-03-no-path-given 8`: **0 unprotected, 19 protected.** One run created by the repair was recomposed in context: Quenna's "best thing … in a hearing room" sentence in ch61.
+- `ed.sh gates`: reader_standard=0, metadata=0, modern=0 on all eight files.
+- `skeleton_probe.py` (source ch21–24 against ch54–61): **skeleton 2%, close 17%.**
+  - By chapter: 0, 1, 1, 3, 1, 4, 1, 3%.
+  - The one scene listed over 15% is ch59 s1 (16%). Every flagged sentence in it is P14, the ruling read verbatim. Cutting the aftermath's parse paragraph shrank the scene and raised the ruling's share.
+  - **Close share:** the four rebuilt passages dropped (ch56 18% → 12%; ch57 18% → 15%; ch61 19% → 18%), but the movement total stays at 17%, short of the brief's ~12% aim. What remains is mostly in ch58 (21%) and ch59, where the argument's own content (the definitions clause, the four files, "Cite the schedule entry") fixes what is said. I did not rewrite ch58 again; the editorial review placed it among the clean chapters.
+
+### Priority 1 — the four passages rebuilt from the event list (source closed)
+
+1. **ch56, from the scorecard to the end of the sitting.** It now enters on Cael's left hand closed into a fist "made out of a count".
+   - The room turns to its supper ("whether the kitchen would keep the barley hot").
+   - Quenna's chalk stops in the middle of her repeated line.
+   - Ilsev lays a hand flat on the code volumes instead of looking at a tool.
+   - The detonation is heard rather than seen; the strangers are picked out by their feet; Prynn says one word, *Sit*.
+   - Coss's packing is told through his hands, "as if their owner had the whole evening and nowhere he needed to be".
+   - The nod is kept, returned; Quenna's hand is kept.
+   - The pivot lines, Yorlan's responses, the gavel and Coss's "small and complicated" look are all kept.
+2. **ch57, the Havel block's four images.**
+   - The gallery's turn is now read by coughs: the old recorder who taught him to read a room by its coughs, then forty heads turning on the clerk's creaking stool.
+   - Ilsev closing her book is now a bell-ringer's strokes counted at a burying, "so as to be certain there was no stroke left over".
+   - The light moving a bench-length is now the ink thickening with cold, warmed in his fist.
+   - "The room holding the list" is now the hall hanging over each next word as his pen hangs a finger's width over the roll.
+3. **ch61, Quenna.** The four-item forecast is gone. Her reason is now Greyvane as a waystation that never stopped being one: "I've only been the clerk". Her annex memory is now the recorder warming his ink, "Nobody in that room knew how long they'd been sitting there." Kept: the bet, "Ask me when I've outgrown you.", P11, and "never seen better done on a hearing floor".
+4. **ch61, the wall's status paragraph.** Cut. One clause is kept ("which way things were leaning under the quiet, and nobody said it"), and the final exchange now follows a silence.
+
+### Priority 2 — the ending ends once; clarity
+
+**Codas in ch61** (nine before; five scenes after):
+- **Merged:** D7 and the term's count into one scene. Hobb, Edran and Quenna into one afternoon scene.
+- **Cut:**
+  - the calendar-board paragraph;
+  - most of the D7 afterthought (one sentence kept: the most valued thing all term was being told his footwork was sloppy);
+  - the inventory's preamble;
+  - Hobb's long thanks (now three lines, the ch15 callback kept and the duplicated simile already gone by fix 8);
+  - Quenna's list;
+  - the wall's recap and its "long term" sentence.
+- **Kept whole, as the brief names:** Hesk's letter; the Vell letter (now with its own text); Prynn's gap on the shelf; Edran's rematch; P5 through "It always is" and "Noted".
+
+**Other Priority 2 items:**
+- **"The Warden" bound to Coss** at first use in ch55 ("every time the Warden, Coss, laid another paper down"). Lira does not use his name again.
+- **Late echoes given a handle:**
+  - Karis's Sunday sheet (ch60) is now "the second copy of her finding about him, two sentences … which she had pushed across the archive table that afternoon and told him to put somewhere she would never know".
+  - The two boxed lines (ch61) are now "one old assessor's word for somebody like him, once in his own younger hand out of Vell's ledger, and once copied from the very register that had not come back".
+  - "Q.'s question" no longer occurs: fix 7 removed it.
+- **Narrow and jurisdictional, said once,** by Karis in ch60, which leads somewhere (the positive basis).
+  - Cael's parse after the ruling in ch59 is now three sentences of reaction with no explanation.
+  - The "smaller than winning" paragraph is now one sentence about the rest of the Compact turning its head.
+  - Coss's five minutes were already about legibility, not narrowness.
+- **Coss metaphor family thinned:**
+  - removed: the mason's course (ch54); "every stone of it true", "laying stone on stone", "built a wall" (ch57); "the next stone from a heap" and "a fighter's respect … across the chalk" (ch58); the chalk-line bow and the stone out of the wall (ch59); "the best stone in his wall", "the strike he has been setting up", and Cael's "laid one stone … building me a floor" (ch55, now "somewhere to stand");
+  - kept: "Coss fought low. He did not reach." (ch54); the first-exchange nod (ch56); "He fights like you." / "Someone who commits later." (packet).
+- **Day-two gavel (ch59):** Yorlan now strikes once after laying the sheet down; Lira is over the rope "before the gavel's knock had died in the beams".
+
+### Smaller fixes made by reading
+
+- ch58: a referent left dangling by M8's recomposition ("There's nobody on that bench who could…") now reads "Nobody on that bench could answer it…".
+- ch61: the anomaly page's line "had stood there untouched since the road", consistent with ch30's added week-11 paragraph.
+- ch55: Lira's simile for the saved deposition is now her own ("as she saved the best of the bread for last").
+
+### Changelist by chapter
+
+- **Ch54.**
+  - Splits through s1–s5: the rope, the walk, the room, the observers, the dais, Coss's arrival, the recorder, the third assessor, the notice, the provision readings, the drafting records, Quenna's slate.
+  - The roll call of known faces halved.
+  - The mason image cut.
+  - Four splits later rejoined.
+- **Ch55.**
+  - The Warden bound to Coss.
+  - Splits in s1–s4.
+  - Stone and fighter images for Coss replaced.
+  - Four splits rejoined.
+- **Ch56.**
+  - Splits in s1–s2.
+  - s3 rebuilt from the scorecard to the end of the sitting.
+  - One split rejoined.
+- **Ch57.**
+  - Splits in s1.
+  - The stillness paragraph's stone and wall images replaced.
+  - Fix 10 finished.
+  - The Havel block's four images rebuilt.
+  - The six-places sentence added.
+  - One join.
+- **Ch58.**
+  - Two Coss metaphors replaced.
+  - One referent fixed.
+- **Ch59.**
+  - The fixes 15–16 join smoothed.
+  - The gavel shown.
+  - The parse paragraph cut to reaction.
+  - The bow and the "smaller than winning" paragraph thinned.
+- **Ch60.**
+  - Splits through s1–s6.
+  - The Sunday-sheet handle.
+  - Six splits rejoined.
+- **Ch61.**
+  - D7 and the inventory merged and thinned.
+  - The anomaly sentence tightened.
+  - The Hesk preamble tightened.
+  - The Vell letter given in its own words.
+  - The boxed-lines handle.
+  - Hobb compressed into the Edran and Quenna afternoon.
+  - Quenna rebuilt.
+  - The wall recap cut.
+  - The overlap recomposition.
+
+### Unresolved
+
+- Close share 17% against the ~12% aim (see above).
+- The ≥40 share sits at 2.9%, in range. My first measurement during the repair came out under the floor and was corrected by rejoining.
+- Sentence mean 13.89, in range.
+- Words 36,107 (wc), near the lower edge of the band after the codas were thinned.

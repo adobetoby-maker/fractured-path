@@ -212,7 +212,7 @@ She looked at him, and then sat down on the end of the bed, quite suddenly, as i
 
 ---
 
-Vell put him on Sunday's card with a Copper Rank 4 named Talis, Stone Path.
+For Sunday's card Vell gave him Talis: Stone Path, Copper Rank 4.
 
 "He's young," she said, at her table on Thursday. "Younger than Dessa. A good deal less patient. Stone like hers, and strong, and he's had a good season." She turned her tea by the handle. "You'll want to watch him tonight. He's fourth on the card."
 

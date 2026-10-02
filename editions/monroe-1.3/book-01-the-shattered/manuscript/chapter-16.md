@@ -234,7 +234,7 @@ In the third exchange he read the shimmer every time, and he began to feel somet
 
 The air moved. He went. The heat came where he had been. The air moved. He went. He was not trying to touch Amrit, any more than he had tried to touch Brenna. He was only trying to be somewhere else when the heat came, and he was managing it, exchange after exchange, and every time he managed it the knowing got a little surer and a little warmer.
 
-That should have warned him. He wrote that afterward, in the back of the Log. It did not warn him at the time.
+That should have warned him. That was the line he put in the back of the Log, later. It did not warn him at the time.
 
 He was watching Amrit's hands. He was watching nothing else. And across the circle Amrit had begun to watch him watching.
 

@@ -228,7 +228,7 @@ The old man did not answer at once. He watched the woman in the middle of the ya
 
 Cael stood at the gate.
 
-"Somebody upstream of that man decided this month was different from last month," the old man said, to the yard. "Find out what's different. You'll learn more from that than from chasing the fellow in the coat. He's only the end of a string."
+"Somebody upstream of that man looked at this month and found it didn't match the last one," the old man said, to the yard. "Find out what's different. You'll learn more from that than from chasing the fellow in the coat. He's only the end of a string."
 
 "Thank you."
 

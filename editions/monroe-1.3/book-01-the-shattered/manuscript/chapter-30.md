@@ -40,7 +40,7 @@ Then he came to the last clause, which was printed on the form already, and whic
 
 He had left that clause standing perhaps a dozen times in eleven years. Every one of those times it had been for an adult: a man who had not come to an evaluation he was owed, a woman who had moved districts without telling anybody and then would not answer letters. *Physical retrieval* had meant, in his own experience, two men at a door and an unpleasant walk. Once it had meant a man who sat down in the road and refused to get up, and was carried, and complained about it to everybody in the waiting room. It had never once, in his own experience, meant anyone was hurt.
 
-He had never left it standing for a child.
+Not one of them had been a child.
 
 He sat with the pen over the paper and did what he always did when a document made him uneasy. He went back through the regulation in his head, section by section, the way another man might go through his pockets. He was looking for a version of this summons, without that clause in it, that would still satisfy the procedure. He had a good memory for regulation.
 
@@ -218,7 +218,7 @@ She went through it quickly, as she went through everything, standing on the bot
 
 "Forty-three. The post shuts at dusk."
 
-"Of course you've counted." She read it again. Then she handed it back through the window. "All right. What do you know how to do about this?"
+"Of course you've counted." She read it again. Then she handed it back through the window. "All right. What can you do with it?"
 
 "I don't know yet." He had known on the walk up, somewhere about the well, though he had not put it into words until now. "I know how to read. Everything that's on this paper is on it because something written somewhere says it has to be. The summons comes out of a book. If it comes out of a book, the book has edges."
 

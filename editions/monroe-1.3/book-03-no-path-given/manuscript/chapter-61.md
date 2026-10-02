@@ -1,12 +1,10 @@
 # Chapter 61 — Still Open
 
-The clerk's stamp came down on the seventh sitting's form with the same flat knock it had made on the first, and the clerk blew on the ink and laid the form on the others, and that was the last demonstration sitting of the term.
+The clerk's stamp came down on the seventh sitting's form with the same flat knock it had made on the first. The clerk blew on the ink and laid the form on the others, and that was the last demonstration sitting of the term.
 
-It had been run at the first bell on the Tuesday of the twenty-fourth week, in the training hall, closed, with nobody on the benches along the wall but the clerk and one first-year who had been sent in for a slate and forgotten to go out again. Quenna had the middle chair, and Wray the instructor's seat on her left. The rota had given the right-hand chair to the white-haired spare man from the movement floor, who had sat the first sitting and the fourth and had asked nothing at either. Hobb stood at the north mark with his feet a shoulder-width apart.
+It had been run at the first bell on the Tuesday of the twenty-fourth week, in the training hall, closed. Nobody sat on the benches along the wall but the clerk and one first-year who had been sent in for a slate and forgotten to go out again. Quenna had the middle chair, and Wray the instructor's seat on her left. The rota had given the right-hand chair to the white-haired spare man from the movement floor, who had sat the first sitting and the fourth and had asked nothing at either. Hobb stood at the north mark with his feet a shoulder-width apart.
 
-Cael had run the framework, four passes at panel speed, with Wray breaking the count on the third as she always broke it, and had read Hobb's hips through the broken count no differently than through the steady one. He had given the read, four calls at two paces, the last with his eyes shut. Then Quenna had asked whether he elected to show anything further, and he had said no.
-
-He had thought about it on the stair, and found there was nothing left on the hill that needed showing to anybody. Whatever he owed the record was in it already, at its own date, in the dullest words Quenna owned. Everything else he banked, as he had banked it since the first morning, and none of the three chairs asked him for more.
+Cael had run the framework, four passes at panel speed, with Wray breaking the count on the third as she always broke it. He had given the read, four calls at two paces, the last with his eyes shut. Then Quenna had asked whether he elected to show anything further, and he had said no. Whatever he owed the record was in it already, at its own date, in the dullest words Quenna owned. Everything else he banked, as he had banked it since the first morning.
 
 Wray's line was the one she had written at every sitting since the second.
 
@@ -20,17 +18,9 @@ While the forms went round to be stamped she leaned back in her chair, not towar
 
 "Mm," said Wray, and signed.
 
-He stood afterward by the pump in the cold, with his hands in his coat, and found it took him the whole width of the yard to see what had just happened. An instructor of the Bronze tier, of the Shield Path, had told a person the Compact's own magistrate had called *undefined* on a public record, in front of two hundred people, that his footwork was sloppy. She had told him so because it was, and for no other reason in the world. Nobody in that hall had thought it worth a second look. He could not think of anything that had been done for him all term that he valued more.
+He stood afterward by the pump in the cold with his hands in his coat. An instructor of the Bronze tier had just told a person the Compact's own magistrate had called *undefined*, in front of two hundred people, that his footwork was sloppy. She had told him so because it was, and for no other reason in the world. He could not think of anything that had been done for him all term that he valued more.
 
-Next term's assessment calendar had gone up on the main board that morning, under the old hearing notice and the provost's dull entry, and on the way to the stable he went in and stopped at it a while. His name was on it in the clerk's small even hand, with everybody else's, under *Demonstration Assessment*. There was a date beside it in the first week of the new term, and another a month later, and another, all the way down the sheet. It said that on those days three people would sit in chairs and watch him do what he could do, and write it down, and stamp it, and then do the same again the next month. It did not say anything else about him at all.
-
-He read it twice. Then he went to breakfast, because Lira would have taken his bread already, and he wanted to see her do it.
-
----
-
-That evening he took the binder down to the long table in the archive and did the term's count.
-
-He had done one at the end of the second week, cross-legged on his bed, counting the Paths he had watched. This was a different count. This was the one he made at the end of anything that mattered: what he had, and what it did, and what it cost, set down in ink before it could start being remembered more kindly than it deserved.
+That evening he took the binder down to the long table in the archive and did the term's count: what he had, and what it did, and what it cost, set down in ink before it could start being remembered more kindly than it deserved.
 
 *Fragments, confirmed: five.*
 
@@ -54,11 +44,11 @@ He sat and looked at it for a long moment. Two words in a clerk's language were 
 
 *Rule, from now on: nothing in a fight that I haven't priced first. Not-knowing is the version that eventually gets someone killed. It won't only be me.*
 
-He turned the page to the last entry in the section. It stood by itself on its own sheet, and he had not changed a word of it since the autumn.
+He turned to the last page of the section. The line at its head had stood there untouched since the road.
 
-*Anomaly. Session nine, Ardenmere, with Brom. A Tide-adjacent reading, less than a second. Never had again.*
+*Session nine. Could not reproduce. Still don't know what that was.*
 
-He did not reach for it. He had given that up a long time ago. Beside the line, copied from Karis's ledger in her own words, was the mark she had given it in the third week of the nulls, when he had told her about it and she had gone through every condition the rest of his pages said a fragment needed, and found not one of them had been there. *Real, unexplained, keep.* There had been no watching, and no stakes, and nobody of that Path within a day's walk, and it had come anyway, for less than a second, and never since. Nothing else in the binder behaved like it. He had stopped expecting it to.
+He did not reach for it. He had given that up a long time ago. Beside the line was the mark Karis had given it in the third week of the nulls, copied from her ledger in her own words. She had gone through every condition the two of them had found a fragment needed, and found not one of them had been there. *Real, unexplained, keep.* There had been no watching and no stakes, and it had come anyway, for less than a second, and never since.
 
 Under Karis's mark he wrote what he always came round to writing, because a whole term of trying for something better had found him nothing truer.
 
@@ -70,9 +60,9 @@ That was where he stopped. The page stayed open, as it had been since the autumn
 
 Hesk's letter came up on the Wednesday coach, and Lira brought it up the hill from the draper's counter because she had gone down for her own.
 
-She found him on the wall by the residence wing door at the end of the afternoon and held it out without saying anything, and sat down beside him while he opened it.
+She found him on the wall by the residence wing door at the end of the afternoon. She held it out without saying anything, and sat down beside him while he opened it.
 
-He had written to Hesk on the morning after the ruling, at the desk by the window, before the delegation's courier left. It had been a short letter, and it had taken him longer than any letter he had ever written. He had tried and failed to find any way of saying what he had done in the assembly room that did not sound like boasting, and he had known all along that boasting was the one thing Hesk would not have forgiven. So in the end he had written the ruling's last line, and *it held*, and *the four of us are well*, and very little else. Then he had spent a fortnight not listening for the coach.
+He had written to Hesk on the morning after the ruling, before the delegation's courier left. It had been a short letter, and it had taken him longer than any letter he had ever written. Every way he tried of saying what he had done in the assembly room came out sounding like boasting, the one thing Hesk would not have forgiven. So in the end he had written the ruling's last line, and *it held*, and *the four of us are well*, and very little else. Then he had spent a fortnight not listening for the coach.
 
 There was one sheet, folded once, in the square careful hand that had taught him his letters at a workbench in Denvash.
 
@@ -98,11 +88,21 @@ He had. He had owed Vell a letter for the whole of the term, and the longer he p
 
 He wrote it that night, with the slip unfolded on the desk beside the page.
 
-It took him until the lamp burned low, because it was to Vell, and Vell would read it as she read her ledger: every word, in order, without allowing any line to be softer than what had happened. So he told her what had happened. He told her about a case at the back of an archive that reached from the floor to the ceiling, and three weeks of reading it in the order it had been frightened in. He told her about a word that was not where everybody had always said it was, and a schedule read aloud from its first page to its last, and an argument with nothing in it that was not so. He wrote out the ruling for her, word for word, from his own copy, because she would want it exactly. And after he had signed it, at the bottom, he copied the line off Lira's slip in his own hand.
+It took him until the lamp burned low, because Vell would read it as she read her ledger, every word, in order, and he crossed out more than he kept. What he kept was short.
+
+*Vell —*
+
+*I said I'd write, and I didn't, for a whole term. That's the first thing, and I'm sorry for it.*
+
+*There was a hearing. A man from the Compact came up the hill with correct papers and asked a magistrate to take me off the rolls here. He was right about everything he said. I let him be right, all the first day, and on the second day I stood up and read their own schedule to them, from the first page to the last, out loud, because my word isn't in it. It never has been. They ruled that they couldn't show they had the right. The ruling is below, word for word. You'll want the words.*
+
+*I read the code the way you taught me to read a ledger. Every line, in order, and none of them softer than what happened.*
+
+He copied the ruling out under that, from his own fair copy. Then he copied the line off Lira's slip, in his own hand this time.
 
 *The records know what happened here. You gave me that. I found out this winter it holds for their records as well as yours.*
 
-Under his name, because that was the name she had him under, and because signing it any other way would have made the Ironyard smaller than it had been, he wrote:
+And under that he signed it with the name her ledger had him under, because any other would have made the Ironyard smaller than it had been.
 
 *Cael. Iron-equivalent, by your ledger.*
 
@@ -114,7 +114,7 @@ He put Lira's slip in the back pocket of the binder, behind Karis's consent. It 
 
 Box seven of the traveller run came back up the hill on the Thursday, in the second cart, with the delegation's wax still whole where its strings crossed.
 
-The boxes had been coming back since the Wednesday morning, three cartloads in three days, under the seal they had gone down under. Prynn had taken every one of them at her door. She sat on the high stool on the threshold, half in the passage and half in the room, with her own list on her knee. It was the list she had written at the door on the way down, fifty-three lines, one for every box: its count, its shelf marks, a clerk's signature, and under the signature her own *Counted at the door* with the date. On the desk at her elbow lay the delegation's return, which had come up with the first cart in the records officer's small neat hand. It gave every box by its number with its count beside it, and at the foot, in the same hand, *returned for the duration, under the same seal, to the same keeper.*
+The boxes had been coming back since the Wednesday morning, three cartloads in three days, under the seal they had gone down under. Prynn had taken every one of them at her door. She sat on the high stool on the threshold, half in the passage and half in the room, with her own list on her knee. It was the list she had written at the door on the way down, fifty-three lines, one for every box. Each line held its count, its shelf marks and a clerk's signature, and under the signature her own *Counted at the door* with the date. On the desk at her elbow lay the delegation's return, which had come up with the first cart in the records officer's small neat hand. It gave every box by its number with its count beside it, and at the foot, in the same hand, *returned for the duration, under the same seal, to the same keeper.*
 
 The carrier set each box down at her knees. She looked at the slip under its string, which was her own; then she broke the wax and cut the string and counted, and read the marks against her list, and ticked them. Then she carried the volumes down the long room to their cases herself, in her arms, as many as she could hold, and shelved them.
 
@@ -138,31 +138,23 @@ It was the width of one volume, among the crosshatched sevens, in the place wher
 
 He had seen her write down the day a reader moved his inkwell. She did not leave things out of ledgers by accident. Whatever had not come back up the hill, she had decided it would not be a line in a book. A line in a book could be answered with another line, by whoever had miscounted, and in a year it would be a corrected error that nobody remembered. An empty place on a shelf could not be answered with anything. It would only go on being empty, in front of whoever came down that aisle, for as long as there was a shelf.
 
-He did not say anything about it either. He thought of a notebook buttoned inside a coat on the far side of a door in the residence wing. He thought of a box drawn round two lines near the front of his own notebook, in two hands that had never been in one room until a lamp had put them side by side. And he thought of the register itself, wherever it was now, in somebody else's keeping, read by somebody who had wanted it enough to take it. There would come a time to talk about that, and it would take a great deal of talking. It was not now. Prynn knew it was not now as well as he did.
+He did not say anything about it either. He thought of a notebook buttoned inside a coat on the far side of a door in the residence wing. He thought of the box drawn round two lines near the front of his own notebook: one old assessor's word for somebody like him, once in his own younger hand out of Vell's ledger, and once copied from the very register that had not come back. And he thought of the register itself, wherever it was now, in somebody else's keeping, read by somebody who had wanted it enough to take it. There would come a time to talk about that, and it would take a great deal of talking. It was not now. Prynn knew it was not now as well as he did.
 
 She went back to the door for the next box.
 
 ---
 
-He found Hobb at the rail of the defensive floor on the last free afternoon of the term, leaning his forearms on it in the way he leaned on everything, looking at the empty chalk.
+He found Hobb at the rail of the defensive floor on the last free afternoon of the term, and leaned on it beside him, and for a while neither of them said anything.
 
-Cael went along the rail and leaned beside him. For a while they looked at the floor together without saying anything, which with Hobb was how most things began.
+"I thanked you once," said Cael. "In the autumn, for the first two sittings. You stood at the north mark for me five times, and in a chalk square in front of a magistrate. Thank you, Hobb. For all of it."
 
-"I thanked you once," said Cael. "In the autumn, at the standings rail, for the first two sittings."
-
-"I remember."
-
-"That was two. You stood at the north mark for me five times, counting Tuesday. You fetched the post at the sixth at one nod from Wray. You stood in a chalk square in front of a magistrate of the Compact and said what you'd seen and not a word past it, and I'm told by everybody who was in that gallery that it was the best thing anybody said all day." He looked at the chalk. "I've owed you the rest of it since. Thank you, Hobb. For all of it."
-
-Hobb thought for so long that a second-year came in at the far end, saw the two of them, and went out again.
+Hobb thought for so long that a second-year came in at the far end, saw them, and went out again.
 
 "Most people thank Wray," he said at last.
 
 "Wray didn't stand in the chalk square."
 
-Something in Hobb's broad face settled, very slowly, the way a stone settles into a bank. He took one hand off the rail and put it back. "Didn't hurry," he said, which was the best thing Hobb said about anybody. And then, after another long while, as if it had only just occurred to him: "Next term. Same as last time."
-
-"Same as last time," said Cael.
+Hobb took one hand off the rail and put it back, which from Hobb was most of a speech. "Next term," he said. "Same as last time."
 
 Edran was on the training floor when he came out of the defensive hall, alone in the cold under the high windows, already in his stance.
 
@@ -186,9 +178,7 @@ He went back to his count before Cael could find an answer, which Cael suspected
 
 Quenna came out to the pump at the end of the afternoon, when the ring was drawn for the evening and nobody had come to it yet, and stood beside him with her hands in her coat.
 
-She did not say anything for a while. She was looking across the yard at the lecture wing, the training hall, the long uneven building with its odd windows, at the wall and the gate and the clerk's booth, at all of it: the whole small hill full of other people's mistakes, on which she had put her name.
-
-"I watched a boy nobody could classify take a bout at the Ironyard once," she said, without looking at him. "And afterward I went and sat down on the bench beside him, with my name in my pocket, and made the biggest bet I've ever made." She turned her head. "Has it paid?"
+"I watched a boy nobody could classify take a bout at the Ironyard once," she said, without looking at him. "Afterward I went and sat down on the bench beside him, with my name in my pocket, and made the biggest bet I've ever made." She turned her head. "Has it paid?"
 
 "Ask me when I've outgrown you," said Cael.
 
@@ -196,25 +186,23 @@ She did not say anything for a while. She was looking across the yard at the lec
 
 "It's the only one I've got that's true."
 
-She studied him for a moment longer, and something she kept very straight for the record went a little less straight.
+She looked at him a moment longer, and something she kept very straight for the record went a little less straight.
 
-"It'll be soon," said Quenna. "The outgrowing. I've watched it come for other people, enough times to see it from a long way off." She counted it on her fingers without taking her hands out of her pockets; he could see the cloth move. "Lira carries a line on her file this academy can write and can't settle. *Advancement inconsistent with recorded tier.* Somebody a long way above any chair I'll ever sit in has to read that and act on it, and they will, one day, and then she'll be somewhere else. Brom needs to stand in front of somebody fast every day for a year, and there's nobody on this hill who is. Karis is one shelf from needing archives we've never had the money to keep. And you're a public record now. Records get carried. Sooner or later one of them gets set down on the desk of a place big enough to want you." She did not say it as if it hurt her. She said it as if she were reading the last line of a sum she had checked a long time ago. "That's the bargain this place makes. We see people first, when it's cheap and nobody else is looking. Then somebody bigger sees them second, and it costs more, and they keep them. I knew that the day I sat down on that bench."
+"It'll be soon," said Quenna. "The outgrowing." She nodded at the old grey building across the yard, the one that had been a road-house before it was anything else. "This place was a waystation for longer than it's been a school. People stopped here on the road to somewhere, and the house wrote a line about them in a book, and they went on. I don't think it ever stopped being one. I've only been the clerk." She did not say it as if it hurt her. "I knew that the day I sat down on that bench."
 
 He asked her the thing he had been carrying since the ruling, straight out, because she had always been straight with him.
 
 "Was it worth it? Not the bet. The price."
 
-Quenna did not answer at once. She looked at the yard.
+Quenna did not answer at once.
 
-"When you were reading the schedule," she said, "somewhere in the annex, I looked at the bench. The senior evaluation seat had shut her book. She'd stopped checking you. And all three of them were sitting there with their hands still, letting a boy of fifteen read them their own law, line by line, and not one of them could have stopped him if they'd wanted to, because he'd earned that floor under rules they'd brought up the hill themselves." She turned away from the yard, toward the old building. "Twenty years I've sat in hearing rooms. I've never seen anything better done in one. Yes. It was worth it." She took one hand out of her pocket and touched his sleeve, briefly, with two fingers, as she had once on the threshold of her room. "Go and find the others. Close out your term."
+"When you were reading the schedule," she said, "somewhere past the first hour, I watched the recorder. He stopped between two entries and took his inkwell off the desk and held it against his chest in his fist, to warm it. Recorders do that in winter. I've sat at hearings for twenty years, and I've never once seen a recorder fail to notice he was cold until the ink told him." She turned toward the old building. "Nobody in that room knew how long they'd been sitting there. I've never seen better done on a hearing floor, and I've seen a great deal done on them. So, yes. Worth it." She took one hand out of her pocket and touched his sleeve, briefly, with two fingers. "Go and find the others. Close out your term."
 
 ---
 
 They found the wall at dusk, the four of them, as they had found walls in more towns than he had kept count of: the low one by the residence wing door where Lira sat on evenings when there was nothing to do. They sat on it in a row with their coats pulled round them and looked east off the hill toward the country they had walked in from in the autumn, and past it.
 
-Nobody was going anywhere yet. Every one of them knew, all the same, which way things were leaning under the quiet.
-
-Lira had a line on her file that no panel on this hill could do anything about but write. Brom had a wall Wray had named to his face and could not take him past, because nobody here was fast enough to stand him against. Karis had a shape drawn on a page round a thing that ought to be there and wasn't, and the archives that might hold it were older and bigger than one founding shelf with a gap in it. And Cael was written into a public record, and no record of that kind grows smaller because the person in it keeps his head down.
+Nobody was going anywhere yet. Every one of them knew, all the same, which way things were leaning under the quiet, and nobody said it.
 
 Below them the town's lamps were coming on along the good street. The draper's back window stayed dark.
 
@@ -226,7 +214,7 @@ Cael had the binder on his knee with the day's line already in it. He looked at 
 
 "Then we keep the argument true," he said, "so it's worth the taking."
 
-Nobody answered that, and nobody needed to. The light went the colour of brass along the far ridges and then the colour of slate, and the cold came up out of the stone into the backs of their legs. It had been a long term. It had asked more of every one of them than they had known to bargain for when they came over the hill with their bags.
+Nobody answered that, and nobody needed to. The light went the colour of brass along the far ridges and then the colour of slate, and the cold came up out of the stone into the backs of their legs.
 
 "I have five things that aren't a Path," said Cael, after a while, to none of them in particular. He had not planned to say it. It had simply become true enough, sitting there, to be said aloud. "An argument on the public record. And three people who know all of it." Then he turned it over once more, the way he turned a sentence before he let it stand in the binder. "This might actually be enough."
 

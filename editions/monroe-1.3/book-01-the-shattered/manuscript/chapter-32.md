@@ -48,11 +48,11 @@ He read the three sentences.
 
 They were better at once, as much better as a bout became the moment you stopped explaining your plan to yourself in the middle of an exchange and simply did the next thing. There was nothing in them to take hold of. There was nothing in them that asked for anything, or hoped for anything, or was sorry. They lay on the page like three flat stones set in a stream, and you could walk across them.
 
-"You want it to read like somebody who knows the law, not somebody who's scared of it," Lira said. "Being sure doesn't change what's true. It just changes whether a man argues with it out of habit."
+"You want it to read like somebody who knows the law, not somebody who's scared of it," Lira said. "Being sure doesn't change what's true. All being sure changes is how often a man argues back from sheer habit."
 
 "I am scared."
 
-"I know you are." She said it plainly. "It doesn't have to be on the page."
+"I know you are." She said it plainly. "The page needn't know."
 
 She gave him back the sheet. He sat on the wall beside her and wrote it out again clean, from the beginning, on a fresh page torn from the back of the old notebook. He wrote the three sentences, and then the handbook part and section and note, the register and the statute, and the appendix and the place where its page had come loose. Then he wrote *Cael Hesk-ward, Registration 41-7843-V*, and nothing after. It was eleven lines long. The first draft had been fifty.
 
@@ -128,11 +128,11 @@ Coss looked at the sheet in Cael's hand, and then at Cael. Something moved in hi
 
 Coss read it.
 
-Cael watched him read it, because the man's face was information. He watched the eyes go down the eleven lines once, quickly, the way you read a thing to find out what sort of thing it is. He watched them stop at the three flat sentences, and go on, and come to the numbers. Then he watched Coss go back to the top and read it again, much more slowly, and saw the irritation go out of his face and something else come into it. It was surprise first. Under the surprise there was a thing Cael had not expected and took a moment to put a name to.
+Cael watched him read it, because the man's face was information. He watched the eyes go down the eleven lines once, quickly, the way you read a thing to find out what sort of thing it is. He watched them stop at the three flat sentences, and go on, and come to the numbers. Then he watched Coss go back to the top and read it again, much more slowly, and saw the irritation go out of his face and something else come into it. It was surprise first, and under the surprise a thing Cael had not expected and took a moment to put a name to.
 
 It looked like respect. It was not happy about being respect. It was there anyway.
 
-Coss put the sheet down on the desk, and the desk rocked. He looked at Cael properly for the first time since he had come in: not as a name on a summons, Cael thought, but as something new turning up in a file that had been odd from its first page.
+Coss put the sheet down on the desk, and the desk rocked. For the first time since Cael had sat down, the man's eyes were really on him, and Cael thought they had stopped seeing a name on a summons and begun to see a new and unlooked-for entry in a file that had been strange from page one.
 
 Then he picked the sheet up again at once, as though he needed a third look to be sure the second had not been a trick of the light. This time he read it with his lips moving. Cael heard him say the numbers under his breath, *Part Four, section twelve, note three*, and stop, and look at nothing, and go on. *Supplementary Register, nineteen.* Cael understood that he was checking them. He was not checking them against a book. He was checking them against the text of the regulation that he carried in his own head, well enough to test a stranger's citation without getting up from his chair.
 
@@ -146,11 +146,11 @@ Then he picked the sheet up again at once, as though he needed a third look to b
 
 Coss sat very still for a moment. Then, very slightly, he looked at the floor of his own office as if he had just been told something about it. Cael would have missed it if he had not spent seven weeks watching people's faces for exactly this.
 
-Coss set the sheet down and laid his hand flat on it, as though holding the problem still on the desk while he decided what to do with it. He looked at Cael.
+Coss put the sheet down again and kept his palm on it, pinning the problem to the desk until he knew what he meant to do about it. He looked at Cael.
 
 "You've cited it the way it's written. All of it. Do you know how unusual that is?"
 
-"I had a day and a reason to be careful."
+"One day, and good reason to take care over it."
 
 "A day," Coss said after him.
 
@@ -164,15 +164,15 @@ Coss did not answer at once.
 
 He was quiet in the particular way of a man going back over his own certainty before he says something he will not be able to take back, running it again in his head from the beginning. Cael had done the same thing in the reading room the day before, the fourth time, from the bottom of the column up. He recognized it, and sat still, and waited.
 
-"No," Coss said at last. He said it flatly, as a man says the reading on a dial that he would rather have read something else. "It's not wrong. A standard compliance evaluation can't be done on your classification. Which means I can't do the evaluation I was sent out here to do." He let his breath out, and for a moment his composure slipped far enough to show what was under it. It looked to Cael like frustration, and not at him. It was aimed at something past him, at the window, or further. "This is going to be a very unpopular report."
+"No," Coss said at last. He said it flatly, as a man says the reading on a dial that he would rather have read something else. "It's not wrong. A standard compliance evaluation can't be done on your classification. So the evaluation they sent me out here for is one I can't carry out." He let his breath out, and for a moment his composure slipped far enough to show what was under it. It looked to Cael like frustration, and not at him, but aimed at something past him, at the window or further. "Nobody will want this report. It'll be about as unpopular as a report gets."
 
 "Why unpopular? You'd be keeping to the rules."
 
-"Because the people who asked for the sweep that brought me here didn't want a delay. They wanted the file resolved." Coss said it with the candour of somebody who had decided, at some point in the last few minutes, that pretending to this boy would cost him more than it bought. "I don't know what resolved means to them. Closed one way or closed the other. I honestly couldn't tell you. But a boy of fourteen reading me the statute across my own desk and walking off with six weeks isn't going to look like resolved to anybody above me." He looked down at the sheet. "I write accurate reports. I won't enjoy writing this one. I'll write it anyway, because it's true."
+"The sweep that brought me out here was asked for by people who wanted no delay. They wanted the file resolved." Somewhere in the last few minutes, Cael thought, Coss had worked out that pretending with this boy would cost more than it could ever buy, and he spoke now with the plainness of a man who has done that sum. "What resolved means to them, I couldn't say. Closed one way or closed the other. I honestly couldn't tell you. But a boy of fourteen reading me the statute across my own desk and walking off with six weeks isn't going to look like resolved to anybody above me." He looked down at the sheet. "I write accurate reports. I won't enjoy writing this one. I'll write it anyway, because it's true."
 
 "What happens now?"
 
-"Now I stamp the summons closed, pending, and I apply to regional for a senior evaluator, because that's what the regulation asks for in your case." Coss picked up a stamp from the corner of the desk. He held it a moment, longer than stamping a paper required, and Cael understood that he was weighing something that had nothing to do with stamping. Then he brought it down on the summons with a good deal more force than the job needed. The desk rocked. *Tock.* "Senior authorization takes time. Regional has to review the file, find an evaluator who's qualified, and send them out to a district this far from anywhere. Six weeks, as a rule. Longer if the evaluators are busy, and they usually are."
+"Now I stamp the summons closed, pending, and I apply to regional for a senior evaluator, because that's what the regulation asks for in your case." Coss picked up a stamp from the corner of the desk. He held it a moment, longer than stamping a paper required, and Cael understood that he was weighing something that had nothing to do with stamping. Then he brought it down on the summons with a good deal more force than the job needed. The desk rocked. *Tock.* "Senior authorization takes time. The file goes up to regional to be read, somebody qualified has to be found to evaluate it, and then they've to be sent all the way out to a district at the far end of everything. Six weeks, as a rule. Longer if the evaluators are busy, and they usually are."
 
 Six weeks.
 
@@ -186,36 +186,36 @@ Coss looked at him for a long moment.
 
 ---
 
-"Thank you," said Cael.
+Coss shut the folder over the stamped summons and the objection and got to his feet, and Cael understood that the meeting was over.
 
-He meant it. He understood, saying it, that Coss had not done this as a kindness. He had done it because it was correct, Cael thought, in the same way that he did everything. Doing the job correctly when correct was inconvenient to the people who had sent you was its own kind of honesty, and not a common one. He had not expected to learn that from a man in a Compact office.
+"Thank you," he said, standing too.
 
-Coss was looking at him again, with something in his face that Cael could not read, as though he were deciding whether to say a thing that was not part of the evaluation.
+He meant it, and he knew while he said it that none of this had been a kindness. Coss had done it because it was correct, which seemed to be the only way he did anything. To do your work correctly when the people who sent you would rather you did it some other way was a kind of honesty all its own, and a rare one, and Cael had not looked to be taught it by a man from the Compact.
+
+"Don't thank me." Coss was looking at the window, at the fish steps going down to the river. "I can buy you time. Whatever it is they're really asking, the answer's not mine to buy you. That part's yours."
+
+He turned from the window then with something in his face that Cael could not read, the look of a man weighing whether to say a thing that did not belong in an evaluation.
 
 "May I ask you something?" he said. "Not for the file."
 
 "You can ask."
 
-"What are you going to do with six weeks?"
+"Six weeks. What will you do with them?"
 
-Cael thought about how much to say. He thought about the reading room under this floor, and the three lines in the margin of the Log, and Hesk's *don't change what you do*. He thought that the man had been more honest with him in the last quarter of an hour than his position required. He decided on something close to the whole of it.
+Cael considered how much to give him, thinking of the reading room below this floor, of the three lines in the margin of the Log, and of Hesk's *don't change what you do*, and of the plain fact that for a quarter of an hour this man had been straighter with him than his post had any need to be; and so he chose something near the whole of it.
 
 "Get stronger. Build a reason for people to notice if I disappear."
 
-Something crossed Coss's face. It was not approval, and it was not alarm, but it lived somewhere near both of them.
+Coss's face changed. It was not approval and it was not alarm, but it lived on the same street as both.
 
-He shut the folder over the stamped summons and the objection and stood up, which Cael understood meant the meeting was over.
-
-"Don't thank me," Coss said. He looked at the window. "I can buy you time. I can't buy you the answer to whatever they're actually asking. That part's yours."
-
-Cael stood. He looked, without meaning to, at the folded grey square of paper on the floor by the desk's left front leg.
+Cael turned to go, and his eye fell, without his meaning it to, on the small grey square of folded paper lying on the boards by the desk's left front leg.
 
 "It's not the floor," he said. "It's the leg. That's come out from under it."
 
-Coss looked down at the paper. He looked at it for some time, as though it had been lying there for a great many visits by a great many men and nobody had ever once said so.
+Coss looked down at it for some while, as though it had been lying there through a great many visits by a great many men and not one of them had ever said so.
 
 "So it has," he said.
 
-Cael went down the narrow stair sideways. In the front room, the cooper and the man with the blue hands had gone, and the clerk was rolling up his string. He did not look up.
+Cael took the narrow stair sideways, and down in the front room the cooper and the man with the blue hands had gone, and the clerk was winding up his knotted string and did not raise his head as Cael went by.
 
-Cael had reached the door before he noticed what had not been asked. In the whole of the quarter of an hour, Coss had not said one word about the yards.
+It was only at the street door that he noticed what had never been asked: in all that quarter of an hour, Coss had not said a single word about the yards.

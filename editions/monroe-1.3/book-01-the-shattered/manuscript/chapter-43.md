@@ -28,7 +28,7 @@ He copied the three lines from the back of the Log, letter by letter, and checke
 
 *I told Lira today. I'd promised her she'd be the first, before you, before anybody, and she was. She didn't flinch. She said it wasn't theft, and that she'd checked, and she hadn't got less.*
 
-*Why I didn't tell you. At first it was because I didn't know what it was, and I didn't want to send you something that would frighten you a week late, with nothing I could do about it from here. You know what's in the archive better than I do. Then it was because I'd promised Lira first. Those are both true. But the first one is the same reason you gave me at the kitchen table on the second morning, and I was angry with you for it then, and I think I was right to be. So I'm not going to use it any more.*
+*Why I didn't tell you. At first it was because I didn't know what it was, and I didn't want to send you something that would frighten you a week late, with nothing I could do about it from here. You know what's in the archive better than I do. Then it was because I'd promised Lira first. Those are both true. But the first one is the same reason you gave me at the kitchen table on the second morning, and I was angry with you for it then, and I think I was right to be. So that reason's finished, for me.*
 
 *You told me once to tell you as it comes. This is how it came. I'm sorry it came all at once.*
 
@@ -98,7 +98,7 @@ She did not say anything for a while. Then she got up and went to the place wher
 
 She thought about it, crouched there with her palm on the ground.
 
-"No," she said at last. "It ought to. I keep looking for it to, and it doesn't." She stood up and dusted her hand on her trousers. "It costs you, though. I could see it. Your breath went, and you went white round the mouth." She frowned at him. "What does it cost?"
+"No," she said at last. "It ought to. I keep waiting for it to, and it won't." She stood up and dusted her hand on her trousers. "It costs you, though. I could see it. Your breath went, and you went white round the mouth." She frowned at him. "What does it cost?"
 
 "I don't know. Breath. The hip. More the second time."
 
@@ -106,57 +106,57 @@ She thought about it, crouched there with her palm on the ground.
 
 ---
 
-On Monday morning, before he could post his letter, Vell sent the pie boy to the post in the grey half to say that she wanted them both at her table before the yard opened, and that she did not mean after the bread.
+The ledger was shut, and he had never once seen it shut. On card days and empty days alike it lay open at Vell's elbow, squared to the table's edge, whether or not there was anything to put in it. This morning she sat square to the back wall with her tea and the closed book in front of her, and her hands folded on its cover, and that was how he knew before she said a word that whatever had brought them here was not ordinary.
 
-She was sitting square to the back wall with her tea and the ledger closed in front of her, which he had never seen before; the ledger was always open, even when there was nothing in it to write. She did not look up when they came across the frozen dirt, but turned her tea a quarter turn by its handle and waited until they were standing in front of the table.
+The pie boy had found them in the grey half, before Cael could get down to the carriers' hut with his letter. Vell wanted the pair of them at her table before the yard opened, he had said, and she had said to say *not after the bread*.
 
-"There's a man coming through in three weeks," she said. "Feryn. Bronze Rank 2, Pressure Path."
+She did not look up as they crossed the frozen dirt. She turned her cup a quarter turn by the handle and waited until they were standing in front of her.
 
-Lira went very still beside him. Cael felt it rather than saw it.
+"There's a man coming through in three weeks," she said. "Feryn. Bronze Rank 2, Pressure Path. I've put my name to one fighter for him." She nodded toward Cael without looking at him. "You."
 
-"He's not from here," said Vell. "He's from nowhere in particular, these days. He's touring the circuits before his own evaluation next season, taking one bout in a town and moving on. He likes to test himself against people he hasn't met. He's posted for interesting opponents, any rating at all so long as a keeper has signed for it, and a purse that most people in this yard wouldn't see in a season." She looked at the closed ledger. "There's a gate on it as well. He'll fight here once, on a Monday at noon, because that's when he's passing, and then he'll be gone."
+Beside him Lira went entirely still; he felt it more than saw it.
 
-"And you're telling us," said Lira slowly.
+"Assessed-Copper, a fortnight since, in my own hand," said Vell. "Mind, assessed is not rated. The book still has you unrated, and so will I at the rope, because the registry gives me nothing to put there. Assessed is my word for how you fight, no more than that. But a keeper's word is what he posted for." Her eyes went to Lira. "I'd sooner you had it from me than off Marrow's slate."
 
-"I'm telling you because I've signed for one," said Vell, and she nodded at Cael without looking at him. "Assessed-Copper, as of a fortnight ago, in my hand. Assessed isn't rated, mind. The book still calls you unrated, and so will I at the rope, because the registry gives me nothing to write there. Assessed is only my word for what you fight like. But it's what he asked for." She looked at Lira. "I'd rather you heard it from me than from Marrow's slate." She turned the tea again. "I don't put anybody in against Feryn. I tell them he's coming, and what he is, and if they want him they ask me, and I decide. That's all this is."
+"What's he doing in Ardenmere?" said Lira.
 
-Cael looked at the closed book.
+"Passing through. He's from nowhere in particular, these days." Vell turned the cup again. "He has his own evaluation next season, and he's going round the circuits first, a bout in one town and on to the next. He likes to try himself on people he's never met. He's posted for interesting opponents, any rating a keeper will sign for, and there's a purse on it most people in this yard wouldn't see in a season, and a gate besides. He'll fight here the once, a Monday at noon, because that's when the road brings him past us, and then he'll be gone." She laid one finger on the closed cover. "I don't put anybody in against Feryn. I tell them he's coming and what he is. If they want him, they come and ask me, and then I decide. That's the whole of this."
 
-"What's Pressure like?"
+Cael looked at the shut book. "What's Pressure like?"
 
-"Heavy." Vell considered. "I've watched him in three cities over five years. The first time he was Copper and nineteen and he lost to a man with one arm on a wet night, and laughed about it all the way to the water bucket. He's a good deal better than that now. It isn't a strike, what he does. It's more like weather. People who've stood in front of it say it's like the air leaning on you." She looked at him then, properly, for the first time. "I don't know anybody in this district who's fought it and been glad they did."
+"Heavy." Vell gave it some thought. "Five years I've watched him, in three cities. The first time he was nineteen and still Copper, and a man with one arm beat him on a wet night, and he laughed about it all the way to the water bucket. He's come on a long way since. What he does isn't a strike. It's nearer to weather. The ones who've stood in front of it say it feels as if the air itself were leaning on them." Only then did she lift her eyes and really look at him. "I don't know anybody in this district who's fought it and been glad afterward."
 
-Lira said nothing. He felt her not say it.
+Lira said nothing. He could feel her not saying it.
 
-He turned it over in his head as he turned over any problem that mattered, coming at it from the sides he had not yet tried. He did not think about whether he wanted it, because he could feel that he did, all through him, and that was not a reason. Three weeks was long enough to watch a man, if the man fought anywhere he could be watched. It was not long enough to build anything like what he had built for Dessa, or for Dellin, or for Corbin. And he had never seen Pressure at all.
+He went at it the way he went at anything that mattered, from all the sides he had not tried yet, and he did not stop to ask whether he wanted it, because he could feel that he did, all through him, and wanting was not a reason. Three weeks would do for watching a man, so long as the man fought somewhere a person could watch him. It would not do for building anything like what he had built against Dessa, or Dellin, or Corbin, and Pressure he had never seen, not once.
 
-"Who else is entering," he said, "that I could watch?"
+"Is there anyone else he's meeting," he said, "somewhere I could get to?"
 
 Vell looked at him.
 
-"On his tour," Cael said. "Before he gets here. Anybody he's fought, anywhere near. Anybody who's going to fight him between now and then, that I could get to."
+"On the tour," said Cael. "Before he comes here. Whoever he's fought, anywhere close. Whoever's due to fight him between now and the Monday, if I could get there to see it."
 
-There was a short silence. Then Lira laughed.
+For a moment nobody spoke. Then Lira laughed.
 
-It was the short real one, the one that surprised her, and it came out of her into the cold air over Vell's table and made the crows on the eaves shift their feet.
+It was the short true laugh, the one that took her by surprise, and it went up into the cold over Vell's table and made the crows on the eaves shuffle along the gutter.
 
-"That's it?" she said. "That's all you've got to say? A Bronze Rank 2 is coming in three weeks, a man who's been fighting since before you could read, and the first thing out of your mouth isn't *am I ready*, or *is it too soon*. It's *who can I study*."
+"That's all?" she said. "A Bronze 2 is coming in three weeks, a man who was fighting when you were still learning your letters, and you don't say *am I ready* or *is it too soon*. You ask who you can study."
 
-"Is that the wrong question?"
+"Is that the wrong thing to ask?"
 
-"It's exactly the right question. It's just not the one most people your age would ask." She was still smiling, but something underneath the smile had gone serious and stayed there. "You're fourteen, Cael. I'm not saying it to talk you out of it. I'm saying it because I want you to hear it out loud, once, before you decide anything. You've got a very bad habit of treating how old you are as if it didn't go in the sum. It goes in the sum. It just doesn't have to be the whole sum."
+"It's the right thing exactly. Only most people your age would ask something else." The smile stayed, but something grave had come in under it to stay as well. "You're fourteen, Cael. I don't say it to stop you. I say it so you'll have heard it said out loud, once, before you choose. You've a very bad habit of doing the sum as if your age weren't one of the figures. It's one of the figures. It needn't be the one that decides it."
 
-He thought about that. He could see that it was true.
+He considered that, and could see that it was true.
 
 "So I need three more weeks," he said.
 
-Vell made a small sound in her throat that might, on anybody else, have been a laugh.
+Vell made a small noise in her throat which, in anybody else, might have been a laugh.
 
-"Nobody's entering," she said. "He fought two days west a fortnight ago, and he's gone south since. I don't know who he'll fight between here and there, and neither does he. You'll not see him fight before you see him in my circle, if you see him at all." She opened the ledger at last, and found her place, and picked up her pen. "You've got till Friday to tell me whether you want him. I'd think about it longer than you've thought about it so far."
+"There's nobody to watch," she said. "He fought two days west of here a fortnight back, and he's gone south since, and who he meets between there and here, I can't tell you and neither can he. The first time you see him fight will be in my circle, if you see him at all." She opened the ledger at last, found her page, and took up her pen. "You've until Friday to tell me if you want him. I'd give it longer than you've given it so far."
 
 "I'll think about it."
 
-"You'll think about it, and then you'll say yes." Vell did not look up. "I've watched you think. Go away. You're standing in my light."
+"You'll think about it, and then you'll say yes." She did not raise her eyes from the page. "I've watched you think. Off you go. You're standing in my light."
 
 ---
 

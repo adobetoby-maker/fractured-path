@@ -6,7 +6,7 @@ He had spent the morning learning the route between Torvin's and the crossroads 
 
 The crossroads was busier than it had been the afternoon before. Carts were going through toward the yards with sacks of sand and coils of rope and, once, a load of straw targets stacked like loaves. A woman had parked a handcart at the corner where the widest street came in and was grilling meat on skewers over a little iron firebox. The smoke from it drifted across the whole triangle and made Cael's stomach remind him that he had eaten nothing since the oats.
 
-Two small boys were chasing something between the legs of the people going past, something quick and low and brown that might have been a cat or a chicken or simply a rag on a string. Nobody stopped them. Nobody stepped on them either.
+Two small boys were chasing something between the legs of the people going past, something quick and low and brown that might have been a cat or a chicken or simply a rag on a string. Nobody stopped them, and nobody stepped on them either.
 
 There were three new notices on the board.
 
@@ -24,9 +24,9 @@ He turned round.
 
 A girl was standing a few paces behind him with her arms folded. She was a little older than he was, perhaps by a year, with dark hair tied back in a knot that was coming loose on one side, and clothes that had been good once and had since been made to work for a living: a jacket with the cuffs turned back and stitched, trousers patched at both knees with a darker cloth, boots resoled at least once.
 
-A canvas roll was slung across her back on a strap. She was standing with her weight a little forward, on the front of her feet rather than her heels, and Cael noticed that before he noticed her face, and then wondered why he had noticed it first.
+A canvas roll was slung across her back on a strap, and she was standing with her weight a little forward, on the front of her feet rather than her heels, and Cael noticed that before he noticed her face, and then wondered why he had noticed it first.
 
-Her face was interested. It was not friendly, exactly, and not unfriendly. It was the face of somebody looking at a lock to see how it opened.
+Her face was interested, not friendly exactly and not unfriendly: the face of somebody looking at a lock to see how it opened.
 
 "I wasn't counting," he said.
 
@@ -58,7 +58,7 @@ The girl's mouth moved at one corner. "They stand in front of it for eleven minu
 
 "Just Cael."
 
-It had been Caelen Hesk-ward on every form he had ever filled in, and in Pellin's office, and on the card in his coat. He had not decided to drop it. He found, as he said it, that he had, and that out here, with nobody asking for the card, the short name felt like the one he had picked for himself rather than the one he had been issued. It was a small thing. It was the first thing he had chosen since Weaver's Row that nobody had chosen for him first.
+It had been Caelen Hesk-ward on every form he had ever filled in, and in Pellin's office, and on the card in his coat. He had not decided to drop it. He found, as he said it, that he had, and that out here, with nobody asking for the card, the short name felt like the one he had picked for himself rather than the one he had been issued. It was a small thing, but it was the first thing he had chosen since Weaver's Row that nobody had chosen for him first.
 
 Lira looked at him for a moment as though she had heard every part of that, and then let it go.
 
@@ -74,8 +74,6 @@ Lira looked at him for a moment as though she had heard every part of that, and 
 
 He found that he wanted to laugh, and he did not quite, and she saw him not quite do it, and looked pleased.
 
----
-
 "How long have you been here?" he asked.
 
 "Four months." The lightness did not go out of her voice, but something under it slowed down and started choosing its words, as though the next part of the conversation had a floor that might not hold everywhere. "I was at an academy. Now I'm not."
@@ -86,7 +84,7 @@ He found that he wanted to laugh, and he did not quite, and she saw him not quit
 
 "About what?"
 
-She seemed to weigh whether to tell him. It was a quick weighing, but it was a real one; he watched her do it. Then she pushed off the post, held her left forearm up in front of her, and turned it, slowly, as if it were somebody else's arm and she were showing him how it worked.
+She seemed to weigh whether to tell him, quickly but for real; he watched her do it. Then she pushed off the post, held her left forearm up in front of her, and turned it, slowly, as if it were somebody else's arm and she were showing him how it worked.
 
 "Every Wind Path student learns a deflection early on," she said. "Three parts. You catch the strike here." She tapped the outside of her forearm. "You reset. Then you send it away." She turned the arm over. "Every instructor teaches it the same way, because everyone who ever taught it taught it that way. Catch, reset, send. It's in a book. There are diagrams."
 
@@ -120,7 +118,7 @@ He had not meant to say that. It came out before he had looked at it, and it hun
 
 She did not pick it up. She set it aside instead, carefully, where they could both see it, and went on as if he had said something else.
 
-"So now I'm here," she said. "Copper, Rank 2, Wind Path. Fast, not strong. I don't win by taking the hit. I win by not being where it lands." She said it the way Hesk described a gauge, practical and unromantic, a list of what the tool did and what it did not. "And I fight on that board. Which brings us back round to you and your eleven minutes. Are you reading it because you want to fight on it, or because it's the only puzzle in sight?"
+"So now I'm here," she said. "Wind Path, Copper, Rank 2. Fast, not strong. I don't win by taking the hit. I win by not being where it lands." She said it the way Hesk described a gauge, practical and unromantic, a list of what the tool did and what it did not. "And I fight on that board. Which brings us back round to you and your eleven minutes. Are you reading it because you want to fight on it, or because it's the only puzzle in sight?"
 
 ---
 
@@ -134,13 +132,13 @@ Her eyebrows went up a fraction. It was the first thing he had said that she had
 
 "Copper Rank 0, then. People say that, sometimes, as a joke, when somebody's first declaration is useless—"
 
-"I don't have a tier," Cael said. "Or a rank. I've got a classification. The registry doesn't have a category for it."
+"I don't have a tier," Cael said. "Or a rank. I've got a classification. The registry hasn't got a box to put it in."
 
 Lira went quiet.
 
-It was a different quiet from the ones before, which had been the quiet of somebody choosing words. This was the quiet of somebody who had stopped choosing anything and was simply looking. She was not leaning on the post any more. She was standing square to him, and she was looking at him the way he imagined she would look at an opponent who had just done something nobody had taught her to expect.
+It was a different quiet from the ones before, which had been the quiet of somebody choosing words. This was the quiet of somebody who had stopped choosing anything and was simply looking. She was not leaning on the post any more but standing square to him, and she was looking at him the way he imagined she would look at an opponent who had just done something nobody had taught her to expect.
 
-"I've not heard of that," she said. "And I thought I'd heard everything. This district gathers odd people the way a drain gathers hair. There's a man down by the river who says his Path only works underwater, and a woman in the yards who swears hers only switches on when she's lying, which means she's either the most useless person in Ardenmere or the most dangerous, and nobody's worked out which. I haven't heard of a classification with no tier at all."
+"I've not heard of that," she said. "And I thought I'd heard everything. This district gathers odd people the way a drain gathers hair. There's a man down by the river who claims his Path only wakes up underwater, and a woman in the yards who swears hers only switches on when she's lying, which means she's either the most useless person in Ardenmere or the most dangerous, and nobody's worked out which. I haven't heard of a classification with no tier at all."
 
 Cael had decided something on the road east, though he had not known at the time that he was deciding it. He had decided it at the gate in Denvash, watching the guard's face draw back from his card, and again at the waystation, where the keeper did not look at his face at all. He had decided that the word was going to be said, sooner or later, to every person who mattered, and that the only part of it he could still choose was the order in which things happened. He could let people meet the word first and then meet him, or he could let them meet him first.
 
@@ -150,7 +148,7 @@ Nobody here had met the word yet. Lira had met him.
 
 He watched her face when it landed, because her face was information.
 
-It did not draw back. It did not soften into something careful, the way the clerk's had at the record office. She did not look away, and she did not look harder, either, in the way people look harder at something they have decided to be brave about. She simply took it in. He could see her taking it in, turning it over, setting it beside the other things she knew and finding that it did not fit with any of them, and then, instead of forcing it to fit, putting it down by itself where she could look at it.
+It did not draw back, and it did not soften into something careful, the way the clerk's had at the record office. She did not look away, and she did not look harder, either, in the way people look harder at something they have decided to be brave about. She simply took it in. He could see her taking it in, turning it over, setting it beside the other things she knew and finding that it did not fit with any of them, and then, instead of forcing it to fit, putting it down by itself where she could look at it.
 
 "Huh," Lira said.
 
@@ -202,7 +200,7 @@ Lira let go of her shoulder and walked back across the triangle to the board, un
 
 "You didn't look like you were trying."
 
-"I wasn't. That's the whole point." She rolled her right shoulder once, the way you roll a shoulder after carrying something, though she had carried nothing. "People think Wind makes you fast like a thrown stone's fast. It doesn't. Not at Copper. Not at my rank, anyway. At Copper it's more like the world gets slightly more negotiable round you, for about a second at a time. The distance between here and there gets a little less firm about how far it is." She shrugged. "I didn't decide to go. My feet had an opinion about that cart before I'd got round to having one."
+"I wasn't. That's rather the point." She rolled her right shoulder once, the way you roll a shoulder after carrying something, though she had carried nothing. "People think Wind makes you fast like a thrown stone's fast. It doesn't. Not at Copper. Not at my rank, anyway. At Copper, what it does is make the world slightly more negotiable round you, for about a second at a time. The distance between here and there gets a little less firm about how far it is." She shrugged. "I didn't decide to go. My feet had an opinion about that cart before I'd got round to having one."
 
 "How often does that happen?"
 
@@ -210,7 +208,7 @@ Lira let go of her shoulder and walked back across the triangle to the board, un
 
 "The gap between what?"
 
-"Between the move you were taught and the move your body makes when there's no time to remember the lesson." Lira said it with a kind of fondness, the way people speak about a teacher they have stopped needing and not stopped missing. "Most people spend their whole time trying to close it. Make the trained thing and the fast thing the same, every time, no daylight. I thought that was the goal too, when I was at the academy." She shook her head. "I don't think so any more. I think the gap is where the interesting part happens. You just have to get through it enough times to see what's in it."
+"Between the move you were taught and the move your body makes when there's no time to remember the lesson." Lira said it with a kind of fondness, the way people speak about a teacher they have stopped needing and not stopped missing. "Most people spend their whole time trying to close it. Make the trained thing and the fast thing the same, every time, no daylight. I thought that was the goal too, when I was at the academy." She shook her head. "I don't think so any more. I think the interesting part lives in the gap. You just have to get through it enough times to see what's in it."
 
 ---
 
@@ -232,11 +230,11 @@ He took his hand away from his hip.
 
 Lira was watching him. She had stopped talking somewhere in the middle of it, and he did not know when, and she was looking at his face and then at his hand and then at his face again, and he saw her decide not to ask.
 
-He was grateful for that. He did not have anything to say yet that would have been true all the way down, and he did not want to hand her something that was only true halfway.
+He was grateful for that, because he did not have anything to say yet that would have been true all the way down, and he did not want to hand her something that was only true halfway.
 
-"I don't know if it's happened yet," he said. That was nearly honest. "I'd like to find out."
+"I can't tell yet whether it has," he said. That was nearly honest. "I'd like to find out."
 
-"That's a better answer than most people give me." She studied him for a moment longer, and he had the odd feeling of being added up. "Most people who don't know what they're made of do one of two things. They never find out, because finding out frightens them, or they walk straight into the Cinder House yard the first week and get carried out of it the same day, and all they learn is that it hurts." She tilted her head. "You're doing a third thing. You're standing in front of the board trying to understand it first. Almost nobody does that, because it means admitting you don't already know."
+"That beats what most people tell me." She studied him for a moment longer, and he had the odd feeling of being added up. "When people don't know what they're made of, they mostly do one of two things. They never find out, because finding out frightens them, or they walk straight into the Cinder House yard the first week and get carried out of it the same day, and all they learn is that it hurts." She tilted her head. "You're doing a third thing. You're standing in front of the board trying to understand it first. Almost nobody does that, because it means admitting you don't already know."
 
 "Is that rare?"
 
@@ -270,7 +268,7 @@ He stood at the board for a while after she had gone, without reading it.
 
 The crossroads had filled up while they talked. The skewer woman had a queue now, as though nearly being hit by a dray had been good for trade. A man on the far side of the triangle was swinging a pair of weighted cords on the ends of his fingers, round and round and over his head, faster and faster, the metal caps at their ends catching the sun at the top of every turn, and a small crowd had gathered round him at a respectful distance.
 
-It was not a Path, Cael was fairly sure. It was only a thing practised for so many years that it had started to look like one, and the crowd made the low noise people make in front of skill they do not understand but recognize anyway.
+It was not a Path, Cael was fairly sure, only a thing practised for so many years that it had started to look like one, and the crowd made the low noise people make in front of skill they do not understand but recognize anyway.
 
 He had said the word out loud to a stranger for the first time in his life. In Denvash it had always gone ahead of him and arranged people's faces before he arrived; this time he had arrived first, and been read for eleven minutes, and only then handed it over. It had changed something, but not what she had already decided about him.
 
@@ -292,7 +290,7 @@ That night at Torvin's, after the lamps were out and the brothers had gone to sl
 
 He had decided, in the dip between the hedges, that a cart going past close was not information. He had decided it again at the waystation, holding the pencil over his letter to Hesk. He had left the cart out of the letter so that Hesk would not have to carry it, the way Hesk had once decided not to make a thing real before it was. He had been angry at Hesk for that, nearly a week ago now, in a room with a crooked tree in the window.
 
-*Write everything down,* Hesk had said at the kitchen table, *even the things that don't seem to matter. You won't know which ones matter until later.*
+*Write all of it,* Hesk had said at the kitchen table, *the things that look like nothing too. You can't tell which ones count until afterwards.*
 
 He turned to the back of the notebook, past the archive entry and the gate entry, and wrote in the dark, slowly, feeling for the lines with the edge of his hand.
 
@@ -300,8 +298,8 @@ He turned to the back of the notebook, past the archive entry and the gate entry
 
 *I told the carter I heard it coming. I don't think I did.*
 
-He stopped there. There was more he could have written, and some of it was waiting to be written, pressing at the end of the pencil. He could have written *Lira says*, or *Hesk wrote*, or the line from the leather book about the body learning before the mind. He could have drawn an arrow from this page to something else and written a word beside the arrow.
+He stopped there, though there was more he could have written, and some of it was waiting to be written, pressing at the end of the pencil. He could have written *Lira says*, or *Hesk wrote*, or the line from the leather book about the body learning before the mind. He could have drawn an arrow from this page to something else and written a word beside the arrow.
 
-He did not. He did not know what the word would be. He had a fact now, written down, true as far as it went, and a fact was a thing you could build on later, if it held. You did not have to build on it tonight.
+He did not, because he did not know what the word would be. He had a fact now, written down, true as far as it went, and a fact was a thing you could build on later, if it held. You did not have to build on it tonight.
 
 He closed the notebook and put it under his pillow, and listened to the wheezing man's breath catch and whistle and go on, and to the river behind the house, which he could hear now, low and patient, a sound he had not known was there the night before.

@@ -1,6 +1,6 @@
 # Chapter 5 — The Six O'Clock Light
 
-He woke before it was light and lay still, doing what he always did on days that mattered. He took inventory: the ceiling, the boot-shaped stain in the northeast corner, the bag by the door, packed and tied and waiting with the patience of an object that knows what it is for, and the door to the hall, still open a hand's width.
+He woke before it was light and lay still, doing what he always did on days that mattered. He took inventory: the ceiling, the boot-shaped stain up in its corner, and his bag by the door, packed and tied and waiting with the patience of an object that knows what it is for, and the door to the hall, still open a hand's width.
 
 From the kitchen came the sound of Hesk already up and filling the kettle. He set it on the stove rather than banging it down, like a man being careful not to hurry something he did not want to end. Cael stayed in bed a little longer than the inventory needed and listened to the house. The second floorboard from the kitchen door creaked when Hesk crossed it. The tap ran and stopped. A cupboard closed with a soft, deliberate click. It was the cupboard by the stove, whose latch had worked loose two winters ago, so that if you shut it firmly it rattled for a full minute afterward, and Hesk always closed it with two fingers.
 
@@ -8,19 +8,19 @@ Cael knew this house's sounds as he knew the streets outside it, completely, wit
 
 He got up, and getting dressed took him far longer than it should have. There was nothing to decide and everything else was packed, but his hands kept doing small unnecessary things, smoothing a sleeve, re-tying a lace that was already tied, and he let them. They seemed to know something he did not want to say out loud, which was that he would like this part to last.
 
-Hesk had made the kind of breakfast that was not about food. There was bread from Ressa's, still warm, which meant he had been to the bakery before it was properly open, and the plum preserves from the jar on the high shelf that only came down for birthdays and first frosts, and tea made with the brass spoon and steeped the full time. Neither of them said anything about it, and neither of them needed to.
+The breakfast Hesk had made was not really about eating. There was bread from Ressa's, still warm, which meant he had been to the bakery before it was properly open, and the plum preserves from the jar on the high shelf that only came down for birthdays and first frosts, and tea made with the brass spoon and steeped the full time. It went unmentioned on both sides of the table, which was how they both wanted it.
 
 "There's a waystation about a day out on the merchant road," Hesk said, over the tea. "South side, low timber building, lamp over the door. Sleep there."
 
-"The waystation bars its door at full dark, and I'm not to be on the road after dark on the first night," Cael said. "I read the road notes at the record office."
+"The waystation bars its door at full dark, and I'm not to be on the road after dark the first night," Cael said. "Page two of the record office's notes for the merchant road."
 
-"I know you did. Now you can say it back in my voice."
+"I know. Now say it back in my voice."
 
 "I could say it back before."
 
 "Not in my voice. You did it in the record office's voice." Hesk pushed the preserves across the table with great care. "It's a dry voice. Nobody listens to it on a road at dusk."
 
-Cael looked at him. "Is that going in the notebook, under *things I told you that you already knew*?"
+Cael looked at him. "Is that going in the notebook too? Under *things I told him that he knew already*?"
 
 "It might." Something in Hesk's face loosened, and he nearly smiled. "It's a long section."
 
@@ -46,55 +46,47 @@ Then Hesk got up and lifted something else off the workshop bench and set it bes
 
 ---
 
-They walked to the depot together. It was not strictly necessary, because Cael had known the way since before he could remember not knowing it, but neither of them suggested skipping it. Hesk carried the gauge in a canvas sling, and Cael carried his bag and the satchel of tools.
+Hesk carried the gauge in a canvas sling against his chest, one hand under it, the way some men carry a sleeping cat. Cael had the bag on his shoulder and the satchel of tools on the other side to balance it. Neither of them had said they would walk to the depot together. Cael could have found the depot asleep; his feet had known the way there for as long as he had had feet. They walked anyway, and it was not discussed.
 
-The Outer District at six in the morning had its own texture, which Cael had soaked up so completely over fourteen years that he had never once looked straight at it, and he looked now.
+Six in the morning was its own district. He had lived inside it for fourteen years without once turning round to look at it, the way you never look at the inside of your own coat. He looked now. The street was blue in the shadows and pale where the sky reached down between the roofs, and the gutters were still wet from someone's bucket, and the first chimneys were putting up thin grey threads that leaned all one way.
 
-Ressa's side door was open with the ovens going, and the smell of the first loaves was carrying half a block in every direction, as it always did. Ressa herself was out on the front step with a broom. She was a broad, quiet woman with flour to the elbows, and she had sold Hesk bread every morning of Cael's life.
+The bread reached them before the bakery did. Ressa's side door stood open with the ovens roaring behind it, and the smell came half a block up Fen Street to meet them, as it had come every morning of his life. Ressa was out on the front step with a broom. She was broad and quiet and floured to the elbow, and she had been selling Hesk his bread since before Cael could see over her counter.
 
-She looked up as they came by, and her eyes went to the bag on Cael's shoulder and then to his face, and something in her own face eased into an understanding that did not need explaining.
+She stopped sweeping. Her eyes went from the bag on his shoulder to his face, and whatever she found there, she did not need it explained.
 
 "Safe travels," she said.
 
-That was all. She did not ask where or why. Everyone within four streets had heard something, because news in the Outer District moved like water through the canal locks, finding every low place. Ressa had decided for herself that the right answer was two words and nothing else.
+She asked nothing else. She did not have to. By now everyone within four streets knew something, because news in the Outer District ran like water through the locks and found every low place, and Ressa had evidently decided on her own that two words were the right size. Cael said thank you. She nodded and went back to the broom.
 
-"Thank you."
+They were past her step when she spoke again, to the paving rather than to him. "I put one by for the road, in with your grandfather's this morning."
 
-She nodded and went back to her sweeping. Then, as they passed, without looking up, she said, "The one by the window's still warm. I put an extra in the bag your grandfather took."
+Cael looked at Hesk. Hesk was studying the sky.
 
-Cael looked at Hesk, and Hesk looked at the sky.
+"It's in your bag," Hesk said. "She wouldn't take for it."
 
-"She put an extra in," Hesk said, "and wouldn't take for it."
+When Cael turned, the step was empty and the side door open, and the smell went on coming out of it. That was all the answer he was going to get, and he understood that it was a whole one.
 
-By the time Cael turned to say something, Ressa had already gone inside, leaving the side door open and the smell coming out of it, and that was her answer.
+He heard Garrik before he saw him: the slow tick of a hub going round on a stand, three doors down. Garrik did the first wheel of every day before his tea, turning it by hand with his head on one side, because he said a wheel told you everything if you kept quiet enough to let it. He was doing it now. His hand went round with the rim and his head kept its tilt, and he did not look up.
 
-Three doors down, Garrik was out in front of his shop with a cart wheel up on the stand. He was turning it slowly with one hand and listening to the hub with his head tilted, as he did every morning with the first wheel of the day before he had his tea. He said a wheel told you everything if you were quiet enough to hear it.
+It was not the not-looking of a busy man. It was the kind that has to be held in place, and Cael could see what it cost him to hold it. Four nights ago this same man had opened a green door and said *Well, well. Finally*, and let a boy shim his tension arm, and called him one of us. Four nights ago Cael had not been anything yet. Now he was a word in a green book that four other people had owned.
 
-He did not look up as they passed. He did not look up in the particular, effortful way of a man choosing not to. His hand kept turning the wheel and his head kept its tilt, and his eyes stayed on the hub with a steadiness that cost more than looking would have.
+It hurt more than he had braced for. He had thought there was none left to spend. So he did with it what he did with everything that would not hold still, and took it apart while he walked. Some people met a hard thing face on and some had to look past it, and which one they did said more about them than about the thing. Garrik's hand on the wheel was not saying *I think less of you*. It was saying *I don't know how*. Cael was almost certain those were different.
 
-Four nights ago, in the warm little room behind the curtain, Garrik had said *Well, well. Finally,* and patted the projector, and helped him shim a tension arm, and said *he's one of us*. Four nights ago, Cael had not had a classification. Now he had one, and it was a word that belonged to four people in a green book.
+The ticking stopped behind them.
 
-It hurt more than he had expected, which surprised him, because he had thought he had used up all the hurt there was. He made himself think about it properly as he walked, because that was the one tool he knew he had.
+He did not turn. Perhaps Garrik had looked up once they were safely past, and perhaps that was as far as Garrik could get this morning. Cael decided to count it.
 
-Some people met a hard thing by looking straight at it and some found it easier to look somewhere else, and neither had much to do with the person they were looking at or away from. Garrik's hand on the wheel was not saying *I think less of you.* It was saying *I don't know how to do this.* Those were different things, and he was nearly sure they were different.
+At the end of the street the community hall was still shuttered, the reference room dark behind its glass and the green door at the side pulled to. Somewhere on a shelf in there sat the summary with the four lines near the back that had started all of this. Denvash was taking a good deal from him today, but it had never hidden anything. It had left the truth on a public shelf for any boy stubborn enough to read that far, and he found he was grateful to the room for that.
 
-Behind them, the wheel stopped turning.
+"Will you keep going?" he said. "Tuesdays."
 
-Cael did not look back. He thought perhaps Garrik had looked up after all, once they were past and it was safe, and that perhaps it was the best Garrik could manage, and he decided to count it.
-
-They passed the community hall, shuttered at the front, the reference room dark behind its windows and the green door at the side shut fast. Cael thought about the long table under the window and the summary on its shelf, with the four lines near the end that had started all this before it had any right to start.
-
-Denvash was taking a great deal from him this morning, but it had never hidden the truth from him. It had left it on a shelf in a public room for any boy stubborn enough to read that far, and he felt an odd gratitude toward the room for that.
-
-"Will you still go?" he said. "On Tuesdays."
-
-Hesk walked several paces before he answered. "Yes. Someone has to tell Garrik when he's threading it backward."
+Hesk took several steps over it. "Someone has to tell Garrik when he's threaded it backward."
 
 "He threads it backward?"
 
-"About one week in four. The biscuit woman says it's the only time the films make sense."
+"One week in four, about. The biscuit woman says those are the only weeks the films make sense."
 
-Cael laughed. It surprised both of them, coming out of him short and rough, and it hurt a little, and he was glad of it.
+Cael laughed. It came out of him short and rough and startled them both, and it hurt a little on the way, and he was glad to have it.
 
 ---
 
@@ -172,21 +164,13 @@ Hesk had stopped beside him, and did not ask what he was looking at, and after a
 
 ---
 
-The north transit depot was louder than the streets. Merchants were loading carts, and a family with far too much luggage was arguing, quietly and fiercely, about whether they had too much luggage. A team of draught horses stood steaming in their traces and their driver fed them from a nosebag and told them about his sister. In a little booth, a toll-taker was disputing a charge with a carter, and both of them had clearly had this exact dispute many times before and seemed to find it relaxing.
+The paving of the north transit depot did not end so much as give up. Somewhere past the last loading bay the cobbles thinned, went ragged, and stopped, and beyond them the merchant road ran east as packed pale earth between low field walls. Hesk stopped with the toes of his boots at the last stone, and Cael stopped beside him.
 
-Two Bronze-tier practitioners in guild colours walked through the crowd with the unhurried ease of people who had never once in their lives waited in a queue, and the crowd opened for them without being asked. Cael watched their feet. Heel, flat. Heel, flat. It was the same measured walk as the Iron fighter's on the sheet.
+Behind them the depot was making all its usual noise. Carts were being loaded, and a family with a great deal too much luggage was having a low, furious argument about whether they had too much luggage. A driver stood feeding his steaming draught horses from a nosebag and telling them about his sister. At the toll booth a carter and the toll-taker were disputing a charge in the comfortable tones of two men who had had this exact dispute every week for years and would have missed it.
 
-*I'm going to watch everyone's feet for the rest of my life now,* he thought.
+"You have the money," Hesk said.
 
-Hesk walked him to the far edge of the depot, where the paved yard ended and the merchant road began. The cobbles stopped in a ragged line there, as if they had simply run out of interest, and beyond them the packed earth ran east, pale and hard, between low walls toward the farmland.
-
-They stood at the line.
-
-Cael had imagined this moment a dozen ways over the past two days, and none of them had prepared him for how ordinary it felt. It was not smaller than he had imagined, exactly, but quieter, less like a scene than like a moment, the kind that turns out to have mattered more than it seemed to while it was happening. Around them the depot carried on.
-
-The toll-taker and the carter reached their weekly agreement, the driver finished his story about his sister, and the family with too much luggage left one bag behind on purpose and walked off without looking at it. Cael found it almost offensive that nobody here knew this morning was different from all the others. Then, a moment later, he found it steadying, because the world would go on with its own business whatever he did next, and there was something almost generous in that.
-
-"You have the money," Hesk said. It was not a question but a checklist said aloud, because Hesk checked every load calculation twice, even when he was sure.
+It was not a question. It was the checklist being read aloud, because Hesk ran every load figure twice even when he knew it was right.
 
 "Yes."
 
@@ -194,73 +178,75 @@ The toll-taker and the carter reached their weekly agreement, the driver finishe
 
 "Yes."
 
-"The bread Ressa put in."
+"Ressa's loaf."
 
 "Yes."
 
-"Find your feet before you find anything else."
+Two Bronze-tier practitioners in guild colours came across the yard behind them, and the crowd moved out of their way without anyone asking it to. Cael watched their feet go by, heel then flat, heel then flat, the same unhurried measuring walk as the Iron fighter's on Garrik's sheet. He thought, with something between dismay and delight, that he was going to be looking at people's feet for the rest of his life.
 
-"I remember."
+"Feet first," Hesk said. "Get your footing in the place before you go looking for anything else in it."
 
-"The first person who's kind to you, don't trust them all the way. Don't write them off all the way either. Watch them, as you watch everyone, and let what you see decide which way you lean." Something shifted in Hesk's shoulders, the way it shifted at the bench when a repair turned out more delicate than it looked. "I'm saying it all twice, I know. I had two days to say what I wanted, and it turns out two days is never long enough."
+Cael almost laughed, and didn't. "I remember."
 
-"You could have another two."
+"The first person who's kind to you." Hesk was looking down the road, not at him. "Don't give them all of your trust. Don't give them none of it either. Watch them. You watch everyone anyway. Whichever way the watching tips, lean that way." His shoulders shifted, as they did at the bench when a repair turned out finer than it had looked. "I'm saying all of it twice. I know I am. I had two days, and two days turns out to be the wrong size."
 
-"And two more after those, and I'd still be standing at this line remembering things I forgot to say. More days won't fix it." His face held something that was trying to be a smile and was worn thin by the effort. "Sooner or later I have to trust that what you're carrying will do. It isn't complete. It's what we have, and you've always been good at building on things that aren't finished. You've done it your whole life."
+"You could have two more."
 
-Cael did not have an answer to that, so he did not try to make one, and Hesk nodded as if the silence had answered him anyway.
+"And two more after that, and I'd be standing on this same stone remembering the things I'd left out. It isn't the days." The smile he tried was worn thin with use. "At some point I hand it over. What you've got isn't finished. Nothing is. But you've spent your whole life building on things that weren't finished, and you're good at it."
 
-He looked for a moment as though he were going to say something else, something large, the size of what was actually happening. Cael watched him gather it and then visibly decide against it, in favour of something smaller and truer.
+Cael had nothing to say back, so he did not invent something. Hesk seemed to hear something in the silence anyway, and nodded at it.
 
-"Write to me," Hesk said. "Even if there's nothing to say. Especially then."
+Over at the booth, the carter and the toll-taker shook hands on the same figure as last week. The driver came to the end of his sister. The family with the luggage set one bag down by a post, deliberately, and walked off without it. For a moment it seemed to Cael almost an insult that none of these people knew this morning was different from the others. Then it seemed the opposite. The world would get on with its own errands whatever he did next, and there was a kind of generosity in being let off so lightly.
+
+Hesk drew breath to say something else. Cael saw him take hold of it, something large, the size of the morning, and saw him weigh it and set it down again and pick up something smaller instead.
+
+"Write to me," Hesk said. "When there's nothing to say, write anyway. Especially then."
 
 "I will."
 
-Hesk reached out and put his hand on Cael's shoulder.
+Hesk put his hand on Cael's shoulder.
 
-It was not a hug, not quite, but it was close enough that the difference did not matter. The hand was harder than Cael expected, a brass-worker's hand that had spent every day of its life gripping tools and had never learned to make that strength any gentler than it needed to be, and in that grip Cael understood something he would not have believed if Hesk had only said it, which was that his grandfather was holding on exactly as hard as he was.
+It stopped a little short of a hug, and the little did not matter. The hand was hard, an instrument-maker's hand that had spent forty years closing on tools and had never been taught to close any more gently than the job required. Through it Cael learned what Hesk could never have told him in words and been believed: that the old man was holding on to him exactly as hard as he was holding on back.
 
-"Whatever's out there," Hesk said, "and whatever it turns out you can manage. You were worth raising before any of it, and nothing you find will change that. I need you to believe it. Not just hear it."
+"Whatever's out there," Hesk said, "and whatever it turns out you can manage. You were worth raising before any of it. Nothing you find will change that. I need you to believe it. Not just to have heard it."
 
 "I believe you believe it."
 
-"That isn't quite the same thing."
+"That's not the same."
 
 "It's what I've got this morning."
 
-Cael's voice caught on the last word, and he let it. Pretending otherwise in front of the one person who had never once asked him to perform anything suddenly seemed a waste of the little time left to be honest in.
+His voice cracked on the last word. He let it crack. Hesk was the one person who had never once asked him to put on a face, and hiding it from him now would have wasted what little honest time they had left.
 
-Something in Hesk's face broke open, only a little and only for a second. It was not tears; Cael had never seen Hesk cry and did not see it now. But the cost showed plainly in his face, the face of a man doing something that cost him more than his composure had been built to cover.
+For a second Hesk's face came open. He did not cry; Cael had never seen him cry and did not now. But the cost of the morning showed in it plainly, more than his steadiness had been made to hide.
 
-"It's enough," Hesk said quietly. "It's plenty. Go on, now, before I talk myself out of letting you."
+"It's enough." He said it quietly. "It's plenty. Go on, before I talk myself out of letting you."
 
-Cael did not trust his voice to answer that, and so he said, "I'll write," instead, which was not the same thing, though Hesk seemed to understand it as close enough.
+Cael's voice would not hold for an answer to that, so he said, "I'll write," which was not one, and Hesk took it as one.
 
-Hesk let go and stepped back.
-
-Cael lifted the bag and set its strap over the shoulder Hesk had been holding a moment before, and he turned toward the road before he could lose the nerve the turning took. He stepped off the last cobble onto the packed earth.
+The hand lifted. Cael swung the bag up onto that same shoulder, still warm from the grip, and turned to the road before the turning could get any harder, and stepped down off the last stone onto the earth.
 
 He went.
 
-He looked back once. By then he was far enough along the road that Hesk had become a shape instead of a man, a dark shape in a good wool coat at the depot's edge, standing still, not waving, watching. Cael lifted a hand, and the shape lifted one back. Then he faced east and kept his eyes there. A second look would have made the leaving harder, and he needed it to stay something he could do.
+He let himself look back once. By then Hesk was too far off to have a face, only a dark upright shape in a good wool coat at the edge of the paving, not waving, not moving. Cael put up a hand, and the shape put one up in answer. After that he kept his eyes on the east, because a second look would cost more than the first, and he needed walking away to stay a thing he was able to do.
 
 ---
 
-The district gate was a quarter mile on, and it was not much of a gate. It was a low stone arch where the Outer District wall met the open road, with a guard post beside it the size of a garden shed, which mostly existed so that someone could check merchant manifests. Carts were queued in front of it, and the guard on duty was working through them with the speed of a man who had done the same thing nine thousand times and expected to do it nine thousand more.
+Five carts were queued at the district gate when he reached it, and the guard took a little under a minute over each. Cael timed the third and fourth without meaning to, by counting under his breath. The gate itself was a low stone arch where the Outer wall ran out into open country, and the guard post beside it was about the size of a garden shed. It mostly existed so that someone could look at merchant manifests, and the man in it looked at them with the speed of someone who had done it nine thousand times and expected nine thousand more.
 
-He flagged Cael down out of habit, not suspicion. "Registration."
+He lifted a hand at Cael from habit. "Registration."
 
-Cael handed over his card. The guard glanced at it as he must have glanced at a hundred cards that morning, name and number and classification, and then he stopped glancing.
+Cael gave him the card. The guard's eyes went across it in the order everyone's eyes went: name, number, classification. On the stamped line they stopped going.
 
-His eyes stayed on the stamped line. Cael watched it happen: for half a second the man's face left its routine and met something it had not planned for, and in that half second it had to choose what to do. It chose nothing dramatic. What it chose was smaller, and to Cael's mind more honest. It drew back, not the man's body but only his face, into the shape of someone deciding that the quickest way out of an uncomfortable thing was to make it as short as possible.
+Cael saw the half-second happen. It was the moment when a face doing routine work runs into something it has no routine for and has to pick, very fast, what to do instead. This face picked nothing loud. It did not narrow or harden. It simply withdrew, the way a hand comes back from a hot pan, and settled into the look of a man who had decided the kindest thing for everyone was to have this be over.
 
 "Go on," the guard said.
 
-He returned the card with his eyes on something else and hurried Cael under the arch faster than he had hurried the cart ahead of him.
+He held the card out with his eyes already on the next cart, and Cael was under the arch and out the far side in less time than the guard had given a load of onions.
 
-Cael walked through without saying anything. He did not look back at the guard. He wanted to, to see whether the man's face had already gone back to boredom, whether the whole thing had stopped mattering to anyone but Cael as soon as he had turned away. Probably it had. And that, he thought, was what the exchange had really taught him: to himself he would matter a great deal for a long time, and to nearly everyone else only for as long as it took them to get to the end of a sentence.
+He kept walking. He did not turn round, though part of him badly wanted to see the man's face and whether the boredom was back on it already. It would be. Cael was fairly sure that by the first milestone he would be the only person still carrying the arch about with him. That, he thought, was the real lesson of it. To himself he was going to matter a great deal, for a long time. To most other people he would last about the length of a sentence.
 
-Twenty paces past the arch, on the open road, with the wall falling away behind him, he stopped. He took out his notebook. This was information, and information got written down whether he liked the feel of it or not.
+Twenty paces on, with the wall already shrinking behind him, he stopped in the road and got the notebook out. Information went in the book whether he liked the feel of it or not.
 
 *Gate guard, Denvash Outer gate. Saw [SHATTERED]. Didn't ask questions. Waved me through faster than routine.*
 
@@ -268,6 +254,6 @@ Twenty paces past the arch, on the open road, with the wall falling away behind 
 
 *This is useful. Fear that wants to look away is fear that isn't paying close attention. Remember this.*
 
-He read it over and started to close the book. Then he opened it again.
+He read it through and had the cover half shut before he opened it again.
 
 *Corollary, added a moment later, because it felt important enough to earn its own line: this will not always be true. Somewhere, eventually, I am going to meet the kind of fear that does the opposite — that looks harder, not away. I don't know yet what that looks like. I should.*

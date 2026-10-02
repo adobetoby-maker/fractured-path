@@ -18,15 +18,13 @@ He thought about the bracket bending on the rig in Hesk's workshop and the suppl
 
 He took his hand out of his coat and left the card where it was.
 
----
-
 The district closed over the road within a hundred paces.
 
 He had seen it from the rise as a shape, and the shape had been enormous and blurred, a field of embers. From inside it was all edges. The road narrowed between buildings that leaned toward each other across it, two and three storeys high, with their upper floors pushed out further than their lower ones, so that the strip of sky between the eaves was barely wider than a cart.
 
-Laundry hung across that strip on lines strung from window to window, and in the dark the shirts and sheets looked like a second ceiling. Lanes went off on both sides, some wide enough for a barrow and some only wide enough for a person going sideways, and every one of them had a light somewhere along it and a smell coming out of it: onions, wet stone, tar, bread, something sweet burning.
+Laundry hung across that strip on lines strung from window to window, and in the dark the shirts and sheets looked like a second ceiling. Lanes went off on both sides, some wide enough for a barrow and some only wide enough for a person going sideways. Every one of them had a light somewhere along it and a smell coming out of it: onions, wet stone, tar, bread, something sweet burning.
 
-People moved through all of it at the pace of a place finishing its day. A man went past with a long plank on his shoulder and turned it carefully at a corner without looking, as he must have turned it at that corner a thousand times. A woman carried a sleeping child in one arm and a sack of something in the other and argued pleasantly with somebody in a doorway without slowing down. Three boys a little younger than Cael ran past him in a knot, shouting about a wager, and one of them bumped his bag and shouted "Sorry, uncle!" over his shoulder, which made Cael look round to see who the uncle was before he understood it had been him.
+People moved through all of it at the pace of a place finishing its day. A man went past with a long plank on his shoulder and turned it carefully at a corner without looking, as he must have turned it at that corner a thousand times. A woman carried a sleeping child in one arm and a sack of something in the other and argued pleasantly with somebody in a doorway without slowing down. Three boys a little younger than Cael ran past him in a knot, shouting about a wager. One of them bumped his bag and shouted "Sorry, uncle!" over his shoulder, which made Cael look round to see who the uncle was before he understood it had been him.
 
 Nobody looked at him twice. He had expected, without quite knowing he expected it, that a boy his age with a travelling bag would be noticed, the way a new face was noticed on Fen Street, weighed and placed. Here the district seemed to have decided long ago that boys with travelling bags were part of the weather.
 
@@ -60,7 +58,7 @@ The second turning was a lane with a gutter down the middle, and two streets in,
 
 He knocked.
 
-The man who opened the door was broad and heavy, past middle age, with a jaw he had not shaved that day or the day before and an expression of having opened this door too many times to be curious about who was on the other side of it. He looked at Cael's face, then at the bag, then at Cael's boots, which carried two days of the merchant road on them, and then back at Cael's face, in that order, without any hurry.
+The man who opened the door was broad and heavy, past middle age, with a jaw he had not shaved that day or the day before and an expression of having opened this door too many times to be curious about who might be standing there. He looked at Cael's face, then at the bag, then at Cael's boots, which carried two days of the merchant road on them, and then back at Cael's face, in that order, without any hurry.
 
 "Torvin," he said. It was his name, and it seemed to be all the introduction he thought the situation needed.
 
@@ -78,9 +76,9 @@ Torvin held out a hand the size of a shovel blade. Cael counted the coins into i
 
 "Registration?" Cael asked.
 
-He did not know why he asked. Perhaps it was only to see what the answer would be.
+He did not know why he asked. Possibly just to hear how the answer sounded.
 
-"Don't want it." Torvin put the coins in his apron pocket. "Don't want to see it, don't want to know it, don't want anybody coming to my door asking whether I've seen it." He looked at Cael for a moment longer. "That a problem?"
+"Don't want it." Torvin put the coins in his apron pocket. "Don't want to see it, don't want to know it, don't want anybody coming to my door asking whether I've seen it." His eyes stayed on Cael another moment. "That a problem?"
 
 "No."
 
@@ -102,7 +100,7 @@ At the top of the last flight he stopped with his hand on a door and looked down
 
 The room ran across the back of the house under a low ceiling with a beam down the middle of it that a tall man would have had to duck. There were five cots, two along each long wall and one under the single window at the end, set far enough apart that a person could sit on the edge of one without touching the next. The floor had been swept that day; Cael could see the arcs the broom had left in the dust along the skirting. It was cleaner than he had expected, and smaller, and it smelled of soap and wool and the river, which was somewhere close behind the house.
 
-Two of the cots were taken. On the one nearest the door a man lay on his back with a blanket pulled to his chin, an older man with grey stubble and his mouth a little open, breathing with a faint whistle at the top of every breath, like a kettle a long way from boiling. On the one beside the window a woman of about thirty sat cross-legged with a shirt across her knees and a needle going in and out of it so quickly that Cael could not follow the stitches, only their result, a seam closing behind her hand as if it were being zipped.
+Two of the cots were taken. On the one nearest the door a man lay on his back with a blanket pulled to his chin. He was older, with grey stubble and his mouth a little open, breathing with a faint whistle at the top of every breath, like a kettle a long way from boiling. On the one beside the window a woman of about thirty sat cross-legged with a shirt across her knees and a needle going in and out of it so quickly that Cael could not follow the stitches, only their result, a seam closing behind her hand as if it were being zipped.
 
 Two more cots had blankets folded on them and boots underneath them, and the one under the window was bare.
 
@@ -144,7 +142,7 @@ The market was louder than everything around it put together.
 
 It filled a long, irregular square that sloped down toward the river, three rows of stalls deep under a patchwork of canvas awnings, some striped, some patched, some only an old sail with the rope holes still in it. Lanterns hung from the awning poles, and because the poles were all different heights the light was all different heights too, so that walking down a row was like walking through a room in which someone had hung the lamps by guesswork.
 
-Most of the stalls were closing. Vendors were calling out last prices to clear what was left, and the prices dropped as Cael walked, so that a pie that cost one thing at the top of the row cost less at the bottom, as though the whole market were a slope that money rolled down.
+Most of the stalls were closing. Vendors were calling out last prices to clear what was left, and the prices dropped as Cael walked. A pie that cost one thing at the top of the row cost less at the bottom, as though the whole market were a slope that money rolled down.
 
 He watched the haggling before he joined it. It was quick and cheerful and had a rhythm to it he did not know yet. A buyer named a number, the seller laughed at it, the buyer laughed back, and then they met somewhere in the middle and both looked pleased, as though the laughing had been part of the price. In Denvash's Outer Market haggling had been slower and full of sighs and hands pressed to chests; here nobody bothered to pretend to be hurt.
 
@@ -168,9 +166,9 @@ Cael finished his mouthful. "Is it that easy to see?"
 
 "Are you cheating me?"
 
-"I haven't sold you anything." He twisted the paper shut with a flick. "But I could save you the week, if you're buying."
+"I haven't sold you anything." He twisted the paper shut with a flick. "I could spare you the week, though. If you're paying."
 
-"Save me how?"
+"Spare me how?"
 
 "I tell you who overcharges new people and who doesn't, who weighs light, who sells yesterday's bread as today's, and which pie man's pies have actual meat in them. Everything you'd learn in a week of getting it wrong, in about the time it takes to eat a twist of nuts." He leaned on the counter. "Price of a twist of nuts, plus a bit."
 
@@ -216,7 +214,7 @@ He sat on the cot with his back against the wall and his coat over his knees, an
 
 He looked at the last line for a moment and added: *He might be worth it.*
 
-Then he took the leather book out of his coat, untied the cord, and unfolded the letter from between its pages. He read it through by the light of Yeni's lamp, from *Hesk* to *— Cael*, all of it, and found that it still said what he meant it to say, which was a relief, because things written at a waystation table at the end of a long day did not always survive being read the next night.
+Then he took the leather book out of his coat, untied the cord, and unfolded the letter from between its pages. He read it through by the light of Yeni's lamp, from *Hesk* to *— Cael*, all of it, and found that it still said what he meant it to say. That was a relief, because things written at a waystation table at the end of a long day did not always survive being read the next night.
 
 It did not say anything about the cart.
 

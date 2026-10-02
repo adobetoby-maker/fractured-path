@@ -170,7 +170,7 @@ Everything else about the word had come to him from somebody else. There were th
 
 All of it had been handed to him, already written, by people who had got there first and were warning him. Even Hesk, who loved him, had been living alongside the word for years before Cael had ever heard it.
 
-This was the first thing about it that had happened to him and to nobody else, the first that nobody had warned him about or had a page on. He did not know what it was, but it was his, and he wanted, for a little while, to be the one who found out.
+This was the first thing about it that had happened to him and to nobody else, the first that nobody had warned him about or had a page on. He did not know what it was, but it was his, and before anybody else had a go at it he wanted, for a while, to do the finding out himself.
 
 He knew it was the same choice, exactly. *Don't make a thing real before it is.* He had been angry at Hesk for making it, in a room with a crooked tree in the window. And here he was making it again, with a cart, and with Renn, and now with this.
 
@@ -246,11 +246,11 @@ He opened his eyes and looked to the edge of his sight, left, where it had hung,
 
 The pump. The wall. The bar of yellow light. The pear tree.
 
-He tried again, and again, and he counted, because he had always counted, though he would have given a good deal not to. Four. Five. He held the reach longer each time, past the point where it felt reasonable, the way you hold your breath past comfort to find out how long you can, daring the dark behind his breastbone to prove him wrong. Six. Seven.
+He tried again, and again, and he counted, because he had always counted, though he would have given a good deal not to. Four. Five. Each reach he held for longer than the one before, well beyond what was sensible, as a swimmer stays under after his chest has begun to ache, only to learn where the bottom of his breath is, and all the while the dark behind his breastbone lay there and let him. Six. Seven.
 
 It did not prove him wrong.
 
-And it was not silence. He knew that now, standing in the yard, as clearly as he had known it in the side room. Silence would have been something there, choosing not to answer, the way Pellin's brass plate had sat dark for eleven seconds and then lit. He could have waited out a silence. He could have knocked louder.
+And it was not silence. He knew that now, standing in the yard, as clearly as he had known it in the side room. Silence would have meant something there, choosing to keep quiet, as Pellin's brass plate had kept dark for eleven seconds before it lit. He could have waited out a silence. He could have knocked louder.
 
 This was absence. It was not a door that would not open. It was the place where he had been told a door would be, and there was no door there, not even the shape of one, and nothing to knock on.
 
@@ -280,7 +280,7 @@ He noticed it the way he noticed everything, from a little way off: a tightness 
 
 He did not cry. He did not think it would have been wrong to; it would have been a perfectly reasonable thing to do in a dark yard at midnight after finding out that there was nothing there.
 
-But he did not, and he noted that he did not, and that he wanted to, and that the wanting was information too, and that he did not yet know what it measured, and he put it away with the rest.
+But he did not. He noted that, and noted the wanting too, since wanting was a reading like any other, though he could not yet tell what it measured; and he put it away with the rest.
 
 Then he went back across the yard, and let himself in, and took his boots off at the bottom of the stairs, and went up in his socks.
 
@@ -288,7 +288,7 @@ Then he went back across the yard, and let himself in, and took his boots off at
 
 He did not write anything, though he had thought he would. He lay on his cot with the Log under his pillow and the pencil in the spine, and listened to the room for a long while in the dark, and at some point he slept, because at some point he dreamed.
 
-It was not much of a dream. He was standing in the circle at Weaver's Row, with his feet in the worn places, and nothing was happening, the same nothing as in the yard. But in the dream the nothing had a texture to it, almost a weight, like standing in a doorway that went somewhere and had decided not to open for him and for nobody else.
+It was not much of a dream. He was standing in the circle at Weaver's Row, with his feet in the worn places, and nothing was happening, the same nothing as in the yard. Only, in the dream, the nothing could be felt. It had a grain to it and very nearly a weight, as a doorway might that led somewhere and had made up its mind not to open, for him and for nobody else.
 
 He woke once, in the black part of the night, not knowing where he was, until he heard the wheezing man and knew. *Torvin's. The window cot. Ardenmere.* And then he slept again.
 

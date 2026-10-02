@@ -30,7 +30,7 @@ For a moment Quenna said nothing. Cael, at the bare table with his hands in his 
 
 The room went so quiet that Cael heard the sand in the brass glass on the recording desk.
 
-He had known this question was coming. He had known it since the morning in Naveth's office, when she had said that the next three weeks could have whatever they wanted of her; he had known it every time he had read one of her records, which he had done until he could have recited them. And knowing did not help at all, because the person standing in the chalk square was the person who had put her name to him in front of a panel when nobody else on the hill would, and she was about to be asked, in front of everybody, to choose between that and the truth.
+He had known this question was coming. He had known it since the morning in Naveth's office, when she had said that the next three weeks could have whatever they wanted of her. He had known it every time he read one of her records, until he could have recited them. Knowing did not help at all. The person in the chalk square had put her name to him in front of a panel when nobody else on the hill would, and now she was being asked, in front of everybody, to choose between that and the truth.
 
 She did not take long.
 
@@ -48,11 +48,11 @@ Cael did not look at her either. He found that he could not have, for a while, w
 
 Naveth came next, and it was harder.
 
-It was harder because Naveth had never stood on a floor in his life. He had sat behind a desk for longer than Cael had been alive, and made careful paper for people the registry had priced wrong, and he knew a great deal about how a sentence could be built so that it held, and nothing at all about how a sentence sounded when it was read back to you across open boards by a man who had built a better one. He walked to the chalk square slowly and stood in it like somebody who has been asked to stand on ice, with his long hands hanging, and Cael saw counsel at the academy's table shut his eyes for a moment and open them.
+It was harder because Naveth had never stood on a floor in his life. He had sat behind a desk for longer than Cael had been alive, making careful paper for people the registry had priced wrong. He knew a great deal about how to build a sentence so that it held, and nothing at all about how one sounded when a better builder read it back to you across open boards in front of two hundred people. He walked to the chalk square slowly and stood in it like somebody asked to stand on ice, with his long hands hanging. At the academy's table Cael saw counsel shut his eyes for a moment and open them.
 
 Coss was not unkind to him once. He did not need to be.
 
-He walked the provost through the enrollment from the beginning: who had first raised the provision, and when; who had read the category line and the gloss; what the academy's council had been told, and by whom, at the meeting in the autumn when it approved the observer track for a candidate the scout of record had brought in. He asked each question plainly and accepted each answer as it came. And every careful thing Naveth had said in that council room in the autumn, every hedge he had meant as caution, came back to him across the boards in the order it had happened. Set out in that order, it drew a man who had seen the truth on the first afternoon and had signed his name under it anyway.
+He walked the provost through the enrollment from the beginning. Who had first raised the provision, and when? Who had read the category line and the gloss? What had the academy's council been told, and by whom, at the autumn meeting that approved the observer track? He asked each question plainly and accepted each answer as it came. And every careful thing Naveth had said in that council room in the autumn, every hedge he had meant as caution, came back to him across the boards in the order it had happened. Set out in that order, it drew a man who had seen the truth on the first afternoon and had signed his name under it anyway.
 
 "The council's minute of that meeting," said Coss, and read from it. "*The provost advises that the enrollment is defensible on the face of the form, and expects it to be tested.*" He looked up. "Defensible on its face. You chose that phrase."
 
@@ -82,19 +82,19 @@ Coss did not move for a moment.
 
 "I don't doubt it," he said at last, and there was nothing in it but the plain respect of one careful man for another who has just paid, in public, the whole price of telling the truth. "Thank you, Provost. Nothing further."
 
-Naveth walked back to the academy's table. He walked as he always walked, upright and slow, and he sat down beside counsel and folded his long hands on the wood, and he did not take them apart again for the rest of the day. Behind Cael the gallery made a noise that was not words and settled. When Cael finally let himself glance aside, Quenna was writing on her slate, and the chalk was moving very slowly, and he saw that she was not writing anything at all, only drawing the same short line over and over in the same place.
+Naveth walked back to the academy's table, upright and slow, as he always walked. He sat down beside counsel and folded his long hands on the wood, and he did not take them apart again for the rest of the day. Behind Cael the gallery made a noise that was not words, and settled. When Cael finally let himself glance aside, Quenna's chalk was moving very slowly on her slate. She was not writing anything at all. She was drawing the same short line over and over in the same place.
 
 ---
 
-The light had gone low and yellow in the high windows by the time Coss laid down his last paper.
+By the time the light in the high windows had gone the colour of weak tea, Cael had no fingers left to fold.
 
-It had been a long afternoon, and every hour of it had belonged to him. Cael sat with all four fingers of his left hand folded down against his knee and the thumb with them, and ran the count in his head the way he would have run a scorecard in the corner after a bout he had not been allowed to enter. *Text. Theirs. Drafting records. Theirs, signed. The form's face, and the deposition. Theirs, in my own voice. Precedent. Theirs, unbroken. The records of the sittings. Theirs, every word true. The witnesses. Theirs. Both of mine.*
+He had put the thumb in after the records of the sittings, and now his left hand lay against his knee under the table as a fist. He looked down at it once. It was a fist made out of a count. *Text. Drafting records. The form, and the deposition in my own voice. Precedent. The sittings, every word true. The witnesses, both of them mine.* Every one of those was the Compact's, and there was nothing in his hand that was his.
 
-Every exchange to the challenge, and nothing on his side of the page but a bare table.
+That was the plan. He told himself so, quite calmly, and his heart went on doing something behind his ribs that did not agree. There was no answering a man who had not yet put down all he had. All day he had watched Coss put down everything and keep nothing back, and now it was all down.
 
-That was the plan. He told himself so, quite calmly, and his heart went on doing something behind his ribs that did not agree. There had never been any point answering a man who had not yet put down all he had. All day he had watched Coss lay everything down and keep nothing back, and now it was all down, and the floor was full of it.
+The room behind him had begun to think about its supper.
 
-Behind him the gallery had gone very quiet in the way he had heard rooms go quiet at the Ironyard in the last exchange of a bout that was already decided, when the crowd stops shouting because there is nothing left to shout for and begins, in a low murmur, to talk about something else. He heard the murmur begin. He heard somebody in the second row say *well, that's that*, not unkindly. He heard the benches shift.
+He could hear it happen. Nobody said so; nobody had to. The benches creaked as people eased their backs. Somebody in the second row said *well, that's that*, not unkindly, and somebody else asked in a whisper whether the kitchen would keep the barley hot, and was told to hush, and did not much mind being told. It was the sound of two hundred people who had decided how a thing ended and were waiting politely to be let go.
 
 Yorlan closed the thin book on his finger.
 
@@ -102,23 +102,23 @@ Yorlan closed the thin book on his finger.
 
 Cael stood up.
 
-The chair scraped on the boards behind him, loud in the high quiet room, and he heard the murmur in the gallery stop dead, as a crowd stops when a fighter who is supposed to be finished gets up off the chalk. Beside him Quenna's hand moved a finger's width on the table. It was not to stop him. He knew the difference. It was the movement of somebody setting her feet.
+His chair went back across the boards with a scrape that went through the whole hall, and the whisper about the barley stopped in the middle of a word. Beside him Quenna's chalk, which had been going over the same short line on her slate all afternoon, stopped too, and stayed where it was.
 
 "I won't be defending the enrollment, Magistrate."
 
-Yorlan did not move. He looked straight at the respondent's table, which he had not done since the morning, with the book still shut on his finger, and on his left the grey-bearded assessor's pen stopped in the middle of a word.
+Yorlan looked straight at the respondent's table, which he had not done since the morning, with the book still shut on his finger. On his left the grey-bearded assessor's pen stopped halfway through a word.
 
 "I'll be challenging the Compact's jurisdiction to void it."
 
-For the space of a breath nobody did anything at all.
+For one breath nothing in the hall moved.
 
-Cael stood in it with his hands at his sides and felt it, the whole length of it, the way he had once felt the half-second at the Ironyard before the board went up with Reydan's name on it beside his own. He saw Ilsev, on the right of the bench, look up sharply from her papers, the first time all day he had seen her eyes leave the page. She did not look at him. She looked at the stack of dark-spined volumes at her elbow, closed, where somebody had set them that morning in case anybody needed them. She looked at them for a long moment, the way a woman looks at a tool she had brought along without expecting to have to pick it up.
+Cael stood in it with his hands at his sides. He felt the whole length of it, as he had once felt the half-second at the Ironyard before Reydan's name went up on the board beside his own. On the right of the bench, Ilsev looked up. It was the first time all day he had seen her eyes leave her papers, and they did not come to him. They went to the dark-spined volumes at her elbow, the ones somebody had stacked there that morning in case. She put one hand out and laid it flat on the topmost, and left it there.
 
-And across the open boards, at the delegation's table, Cael saw something cross Coss's face and go. It was small, and complicated, and gone almost before it arrived. It was not surprise. It was the look of a man who has spent three weeks watching a lamp burn late in an archive window across a dark town, and has guessed, and has made himself not ask, and has just heard the one thing he guessed walk out onto the record in a boy's voice.
+Across the boards, something crossed the Warden's face, small and complicated, and was gone almost before Cael could see it. He knew it anyway. For three weeks Coss had sat at a window over the draper's and watched a lamp burn late in an archive across a dark town. He had guessed, and made himself not ask, and now he had heard the thing he guessed come out onto the record in a boy's voice.
 
 "The panel notes it," said Yorlan.
 
-He opened the thin book again, and turned a page, and read from it, as if the answer to what had just happened had been printed there all along, which perhaps it had.
+He opened the thin book again and turned a page, as if what had just happened had a sentence of its own printed somewhere inside, and read it out.
 
 "The panel will not hear argument for which it has not been shown the ground. The respondent will show the panel its ground at the second sitting, or the panel will not hear it." He closed the book. "When it sits, the code will be on the bench in front of it. The second sitting will open at the first bell. This sitting is closed."
 
@@ -126,21 +126,19 @@ He struck the small wooden gavel on the bench, once.
 
 The room went up.
 
-It broke over the benches in one wave, like the Ironyard when an outsider takes the third exchange, so loud and so sudden that Cael felt it in the boards under his feet before he heard it. People were on their feet behind the rope. Second-years were shouting at one another, asking things none of them knew, and the tout was standing on his bench with his crust book held over his head as if it might be taken from him. Somebody near the windows had begun to laugh and could not stop. The people who did not belong to the hill were already moving: the two grey coats first, fast, toward the open doors, with the walk of men who had letters to write before the evening coach; the woman in the dark blue coat writing as she went; the man with the guild's satchel pushing along a bench and being pushed back. And through all of it, dry and level and perfectly audible, came Prynn's voice from the back wall, informing somebody with sixty years of authority behind it that he would not be climbing over her bench to get to the door any quicker, and that the door would be there when he arrived.
+Cael did not turn round, so he heard it more than saw it. Benches went over. Boots hit the boards. The tout's voice rose above everybody's, crying a price on something. A girl near the windows began to laugh and could not stop. Under all of it he could pick out the strangers by their feet, because they were the only ones in the hall walking quickly out instead of crowding in. Once, from the back wall, a dry voice he knew said a single word, *Sit*, and a whole bench of second-years sat down.
 
-Cael stayed where he was, with his palm on the wood. On the circuit he had learned to hear a crowd the way he heard rain on a roof, as something happening to the room that did not need him to do anything about it, and he heard this one that way.
+He stayed where he was, with his palm flat on the wood, and let it go on behind him.
 
-Across the floor Coss was packing his cases.
+Across the floor the Warden's hands were already at work. They put each paper back in its folder and each folder back in its case: the drafting records, the precedents, the bound fair copy with the nine counts in it. They did it in the same order they had come out, without hurry, as if their owner had the whole evening and nowhere he needed to be. His aide was talking to him low and fast, and he did not seem to hear. When the last clasp had shut, the hands lay still on the lid.
 
-He did it as he had done everything that day, in order, each paper back in its folder and each folder back in its case, the drafting records and the precedents and the bound fair copy of the deposition, without hurry, the way a man puts away his tools at the end of a long day's work that has gone exactly as he planned it, which until a few breaths ago it had. His aide was talking to him in a low urgent voice, and Coss did not appear to be listening. When the last case was closed and its clasp shut he stood with his hand on it a moment.
+Then Coss looked up, through the noise, straight at Cael, which he had not done once since the first bell.
 
-Then he looked up, across the scrubbed boards and the noise, straight at Cael, which he had not done once since the first bell.
+He nodded. It was one small plain movement, and nothing was held back in it. Cael had given that nod and been given it across a good many chalk lines, after a first exchange, when each man has felt the other's weight and knows what the next one is going to cost.
 
-He gave him one nod. It was small and plain and nothing was withheld from it. It was the nod Cael had given and been given across a hundred chalk lines at the end of a first exchange, when both men have taken the other's measure and know now what kind of fight it is going to be, and when.
+Cael nodded back.
 
-Cael gave it back.
-
-Quenna's hand settled on his shoulder. The roar reached him then, all of it together, and the first sitting was done.
+Quenna's hand settled on his shoulder. Then the noise reached him properly, all of it at once, and the first sitting was over.
 
 ---
 

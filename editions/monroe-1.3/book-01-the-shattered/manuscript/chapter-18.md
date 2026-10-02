@@ -152,7 +152,7 @@ They kept going, but it was not the same.
 
 She ran the deflection with him again, and the box drill, calling the corners at the same speed as before, and nothing she did was different. But he could feel her watching him in a new way, and feel himself being watched, and the two feelings rubbed against each other, so that neither of them could get back into the easy rhythm of the first twenty minutes.
 
-They were both careful now, like two people who had found a door in a room they thought they knew by heart, and had shut it again, and were both now very aware of where it was.
+They were careful with each other now. It was as if a room they both knew by heart had turned out to have a door in it, and they had shut it again, and neither of them could stop knowing where it was.
 
 She used the step twice more before the shadow left the post, and both times he reached for it. He did not mean to, and he knew it was useless before he did it, and he did it anyway.
 

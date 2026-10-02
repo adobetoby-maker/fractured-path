@@ -2,7 +2,7 @@
 
 He came out of the post into the middle of the afternoon and stood on the step with the door shut behind him.
 
-The street was exactly as it had been when he went in. A cart was going down toward the lower bridge with a load of barrels, and one of the barrels had come loose in its ropes and was knocking against its neighbour at every jolt. A woman was calling fish from the bottom of the steps in a voice like a gull's. Two doors along, somebody laughed at something that had nothing to do with him, a long, easy laugh that went on after the joke was over, and somewhere across the river a bell was ringing the hour for people with cards that opened gates.
+The street was exactly as it had been when he went in. A cart was going down toward the lower bridge with a load of barrels, and one of the barrels had come loose in its ropes and was knocking against its neighbour at every jolt. A woman was calling fish from the bottom of the steps in a voice like a gull's. Two doors along, somebody laughed about some matter that was none of his, a long, easy laugh that went on after the joke was over, and somewhere across the river a bell was ringing the hour for people with cards that opened gates.
 
 None of it knew what had happened in the room upstairs. None of it would have behaved any differently if it had. He stood in the middle of all that ordinary noise and let it settle round him. It steadied him, as the sacks of flour coming off Ressa's wagon had steadied him once at a kitchen table, with a notice between him and Hesk.
 
@@ -44,7 +44,7 @@ She was quiet.
 
 He told her.
 
-Lira looked at him for a long moment with an expression he could not read at all, and then, slowly, she began to smile. It was not the quick one she allowed herself when she had landed something. It was the slow one that started somewhere behind her eyes and took its time getting out.
+Lira's look stayed on him a long while, and he could not read it at all; then, slowly, she began to smile. It was not the quick one she allowed herself when she had landed something. It was the slow one that started somewhere behind her eyes and took its time getting out.
 
 "You told a man from the Compact," she said, "to his face, in his own office, that you were going to go and make yourself hard to lose."
 
@@ -104,7 +104,7 @@ He had thought, walking up, about how much to tell her, and he had decided on no
 
 "Because I've got six weeks to get better in," he said. "I'd like to spend all of them getting better."
 
-Vell considered that for a while, and seemed to find that it was true as far as it went, and that it did not go all the way, and that the rest of it was not hers.
+Vell considered that for a while. She seemed to find it true up to a point, short of the whole way, with the rest of it belonging to somebody other than her.
 
 "Renn's back at the turn of the month," she said. "I'm holding him for you, as I said I would. Before that, I'll put you in with somebody." She picked up her tea. "I'll tell you who when I've decided. Not before. And not because—"
 

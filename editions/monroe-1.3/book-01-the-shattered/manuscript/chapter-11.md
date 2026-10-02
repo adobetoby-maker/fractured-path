@@ -28,8 +28,6 @@ Vell walked the whole groove. Twice she stopped and pressed at the ground with t
 
 Her eyes went past Cael on his barrel without stopping. He was nearly sure they had paused.
 
----
-
 A large man with very clean hands was working his way along the rope with a slate hung round his neck on a string.
 
 He was dressed better than anyone else in the yard, in a dark coat with good buttons, and he was perfectly friendly to everybody. People kept putting coins in his hand and he kept writing on the slate with a stub of chalk and saying something low and pleasant to each of them. He laughed a good deal. Every few minutes he wiped the slate with his sleeve and wrote it again.
@@ -112,7 +110,7 @@ The crowd's noise was very different this time. It was mixed. Some of it was a g
 
 The Stone woman let go, stood up, and offered her hand, and the young man took it and was pulled up, and they touched fists. Then she walked to the table, with her sleeve dark across the shoulder, and stood there while Vell wrote. It was a short entry. Two lines.
 
-Cael wrote for a full minute after the bout was over, because he did not want to lose the shape of it.
+After the bout ended Cael kept writing for a full minute, so as not to lose the shape of it.
 
 *Two exchanges. She lost the first one on purpose to learn where he'd cut. She won the second because he learned it too, and changed, and she'd guessed what he'd change to. He was faster. She was a step ahead the whole time anyway. The reach was his advantage and she made it the thing she held on to.*
 
@@ -174,8 +172,6 @@ And the crowd, which had been quiet for most of the bout in the way people are q
 
 At the table, Vell was writing. It took longer than the entry for the first bout, three or four lines, and when she had finished she said something to the Stone woman that made her laugh. The Stone woman went off to the water bucket with her shoulders down and her hands loose, as though it had been a good afternoon after all.
 
----
-
 He had six pages by the end of it, more than he had written about anything since the archive.
 
 Lira was watching him read.
@@ -190,13 +186,13 @@ He thought about that. It was not untrue. He thought that the difference was sim
 
 "Is that bad?"
 
-"No," Lira said. She was quiet for a moment. Then she said, in a slightly different voice, "No. It's not bad."
+"No," Lira said, and then, after a pause, more quietly: "No. It's not bad."
 
 She did not say anything else about it. But on the walk back down from the yards, through the long gold light of the end of the day, he noticed that she was walking a little closer to him than she had in the morning, and that she was looking at him from time to time out of the side of her eye, as he imagined she might look at an opponent she had begun to take seriously, rather than at a curiosity she had decided to be kind to.
 
 ---
 
-She walked with him as far as the crossroads.
+She went with him as far as the crossroads.
 
 The board stood in the middle of the triangle with the evening light on it, orange and low, so that every notice threw its own small shadow across the one beneath it. The skewer woman had gone. The man with the weighted cords had gone. The triangle was full of people walking home, and none of them stopped at the board, and Lira did not stop either. She stopped at the edge of the triangle and turned round and folded her arms.
 
@@ -204,11 +200,11 @@ The board stood in the middle of the triangle with the evening light on it, oran
 
 It was not a question, and he did not treat it as one. "Probably."
 
-"Not probably." She shook her head. "You've decided. You decided in the second bout. Somewhere about the fourth exchange you stopped writing and you just watched, for about ten breaths, and when the pencil started again it moved differently. Faster. Shorter. Like a list of things you were going to need." She said it with plain satisfaction, the satisfaction of someone who enjoyed being right about people and saw no reason to hide it. "I'm not showing off. You ought to know what your face does when you've made up your mind, because you plainly don't, and somebody should tell you."
+"Not probably." She shook her head. "You've decided. You decided in the second bout. Somewhere about the fourth exchange you stopped writing and you just watched, for about ten breaths, and when the pencil started again it moved differently. Faster. Shorter. Like a list of things you were going to need." She said it with plain satisfaction, the satisfaction of a person who liked being right about people and saw no reason to hide that. "I'm not showing off. You ought to know what your face does when you've made up your mind, because you plainly don't, and somebody should tell you."
 
 "What does it do?"
 
-"Nothing. That's how I could tell. Everything else about you is always doing something." She tipped her head. "It means you can't bluff me. Which is going to be either very useful or very annoying, depending on what you end up wanting."
+"Nothing. That's how I could tell. Everything else about you is always doing something." She tipped her head. "So you can't bluff me. Which is going to be either very useful or very annoying, depending on what you end up wanting."
 
 He did not know what to say to that. He found that he was not even sure she was wrong.
 
@@ -236,7 +232,7 @@ He had not expected it. It took him half a breath too long to answer, and she sa
 
 She walked away across the triangle toward wherever she went in the evenings, and did not look back. Cael stood at the edge of the crossroads and watched her go until the widest street had taken her.
 
-Then he looked at the board, and at the word *vouch* on the bottom notice, written in brown ink by somebody who had pressed hard enough to dent the paper. *Ledger-verified only. No walk-ins without a vouch.*
+Then he looked at the board, and at the word *vouch* on the bottom notice, written in brown ink by somebody who had pressed hard enough to dent the paper. *Ledger-verified bouts only. No vouch, no walk-in.*
 
 He remembered Lira's voice in the yard that morning, with her face turned away from him, stretching her arms over her head: *It's not a thing you do for just anybody.*
 
@@ -244,7 +240,7 @@ He had been offered something, and he had taken it, and he had no idea what it c
 
 ---
 
-Torvin was at the kitchen table that night, which Cael had not seen him do before. He was sitting at the end of it with a ledger of his own, a thin one with a cracked spine, and a stub of pencil, and he was adding columns with his lips moving. His wife was at the range. Yeni was at the other end of the table with a shirt across her knee. The woman who slept in her boots was eating soup with her boots on.
+Torvin was at the kitchen table that night, which Cael had not seen him do before. He was sitting at the end of it with a ledger of his own, a thin one with a cracked spine, and a stub of pencil, and he was adding columns with his lips moving. His wife was at the range. Yeni had the far end of the table, with a shirt across her knee. The woman who slept in her boots was eating soup with her boots on.
 
 Cael sat down across from Torvin and waited until he had reached the bottom of a column.
 

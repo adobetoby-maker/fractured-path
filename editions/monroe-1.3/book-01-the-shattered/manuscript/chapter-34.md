@@ -280,7 +280,7 @@ Lira met him at the barrel. "Well."
 
 "I know."
 
-"I know you know. I'm saying it anyway, so it's said." She bumped his good shoulder, which was both of them, today. "That's one."
+"I know you know. It's getting said all the same, so it's been said." She bumped his good shoulder, which was both of them, today. "That's one."
 
 He wrote it up at the low wall by the pump in Torvin's yard before he went in, while the light went. It was the seventh entry in the Log and only his sixth bout, because the Log had counted Baro, whom he had only watched, and Vell's book counted nothing it had not seen fought. It was the shortest entry he had ever made.
 

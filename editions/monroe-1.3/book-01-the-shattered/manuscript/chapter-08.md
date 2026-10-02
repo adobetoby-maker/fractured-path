@@ -4,9 +4,9 @@ The brothers were gone before it was light. Cael heard them go, a great deal of 
 
 He dressed under the coat, the way you dress in a room that is not yours, and went down the turning stairs to the kitchen.
 
-It was a long, low room at the back of the house, with a black range at one end that somebody had already lit, a table down the middle scarred with knife marks, and a door at the far end standing open on a yard with a pump in it.
+It was a long, low room at the back of the house, with a black range at one end that somebody had already lit. A table scarred with knife marks ran down the middle, and at the far end a door stood open on a yard with a pump in it.
 
-A woman was sitting at the end of the table lacing a pair of heavy boots, and from the creases in her skirt and the state of her hair it was plain that she had slept in her clothes and had probably slept in the boots too, and had only taken them off to put them back on more tightly. She nodded to him without stopping. At the range, a broad, grey-haired woman in an apron was scraping out the bottom of a big iron pot with a wooden spoon.
+A woman was sitting at the end of the table lacing a pair of heavy boots. From the creases in her skirt and the state of her hair it was plain that she had slept in her clothes, and probably in the boots too, and had only taken them off to put them back on more tightly. She nodded to him without stopping. At the range, a broad, grey-haired woman in an apron was scraping out the bottom of a big iron pot with a wooden spoon.
 
 "There's a bowl of this left," she said, without turning round. "It's yesterday's oats, so it's free, but if you burn the pot you scrub it."
 
@@ -58,7 +58,7 @@ He had not said anything about posting a letter. He thought back over the evenin
 
 He went to the market first, because the market was on the way and because he had thought about the boy's argument while he was falling asleep and had found it held.
 
-The nut stall was open. The sister was building the charcoal up under the drum, and the boy was sitting on an upturned crate eating an apple, and when he saw Cael coming down the row he finished the apple in three bites, threw the core over the awning into the next row, and stood up as if a bell had rung.
+The nut stall was open. The sister was building the charcoal up under the drum, and the boy was sitting on an upturned crate eating an apple. When he saw Cael coming down the row he finished the apple in three bites, threw the core over the awning into the next row, and stood up as if a bell had rung.
 
 "You lost a day," he said.
 
@@ -102,6 +102,8 @@ The boy weighed this, and then shrugged, in the manner of somebody giving away a
 
 His sister turned the crank on the drum, and the nuts inside rattled round like rain on a roof, and she said, without looking at either of them, "That one's free. He tells everyone that one."
 
+---
+
 He found the carriers at the bottom of a flight of broad stone steps that went down to the water, slick with fish scales and river weed, beside the lowest of the bridges. It was a stone hut with a counter open to the street, two sorting tables inside, and a row of heavy canvas bags hanging on hooks along the back wall, each with a direction painted on it in tall black letters. WEST was the third one along. A young man with ink on his fingers took the letter, read the address aloud in a flat voice, weighed it on a little brass balance, and named a price that made Cael wince and pay without saying anything.
 
 "About a week," the clerk said, putting the letter in the bag. "Bit more if the roads are bad. Bit less if they're not."
@@ -110,7 +112,7 @@ He found the carriers at the bottom of a flight of broad stone steps that went d
 
 "Torvin's?" The clerk glanced at the address again. "No. Runner takes them round. He knows Torvin's." He looked at Cael for the first time. "Everybody knows Torvin's."
 
-So it was done. The letter was in a canvas bag on a hook, and the bag would go up onto a carrier's cart at noon and out along the merchant road, past the waystation and the dip in the hedges, and in about a week it would be in Hesk's hands. Cael stood on the bottom step with the river going by at his feet and felt the weight of that more than he had expected to, as if he had put down something he had been carrying since the waystation without noticing how heavy it was.
+So it was done. The letter was in a canvas bag on a hook. The bag would go up onto a carrier's cart at noon and out along the merchant road, past the waystation and the dip in the hedges, and in about a week it would be in Hesk's hands. Cael stood on the bottom step with the river going by at his feet and felt the weight of that more than he had expected to. It was as if he had put down something he had been carrying since the waystation without noticing how heavy it was.
 
 The bridge went up from beside the carriers' hut in a long stone hump, wide enough for two carts, with a low parapet on either side. He climbed it as far as the top of the hump, where he could see the far end, and stopped there with his elbows on the parapet like a boy watching the river, which, as far as anyone could tell, was all he was.
 
@@ -146,7 +148,7 @@ A woman in the next one had a dozen lanterns hanging from her ceiling, all of th
 
 At the end of the row, in a doorway with no sign at all, a man was mending something that Cael could not at first identify. It turned out to be the iron frame of a mangle, the kind used for wringing out laundry, bent in two places as though somebody had dropped a cart on it. The man had it clamped to a bench with blocks of wood under it, and he was bringing it back to true by hand with a long lever and a straightedge, a little at a time. He would lean on the lever, then lay the straightedge along the frame and squint down it, then lean again. He did not hurry and he did not stop.
 
-Cael stood in the street and watched him longer than he meant to, because it was the bracket on the rig again: the man was not guessing, and every time he leaned on the lever he checked afterward what he had done, and when he had done too much he leaned back the other way, a little less, and checked again. On the shelves behind him stood a cartwheel with three spokes gone, a clock with no hands, and a child's wooden horse with one leg missing and the other three very carefully mended.
+Cael stood in the street and watched him longer than he meant to, because it was the bracket on the rig again. The man was not guessing. Every time he leaned on the lever he checked afterward what he had done, and when he had done too much he leaned back the other way, a little less, and checked again. On the shelves behind him stood a cartwheel with three spokes gone, a clock with no hands, and a child's wooden horse with one leg missing and the other three very carefully mended.
 
 On the doorframe, at eye level, somebody had cut four words into the wood with a knife and filled them in with black paint.
 
@@ -166,11 +168,11 @@ The man nodded, as if that were an answer he got often enough not to mind it, an
 
 The ground began to rise toward the north edge of the district, and as it rose the houses gave way to walls, and the walls had yards behind them, and the yards were full of people hitting things.
 
-That was how it looked at first, from the street: noise and dust and the flat smack of hands on canvas, coming over the walls from every side. The yards were rented by the hour, according to a chalked board at the mouth of the first lane, which also gave the prices and, underneath them, a line that said NO PATH DAMAGE TO WALLS — YOU PAY. Some yards were bare dirt with a post in the middle, and some had a roof on poles at one end for the rain; one had a long row of straw targets along the back wall, most of them burnt black in the middle, and another had nothing in it but a single heavy chain hanging from a beam with a sack of sand at the bottom of it, which a woman was punching with her eyes closed.
+That was how it looked at first, from the street: noise and dust and the flat smack of hands on canvas, coming over the walls from every side. The yards were rented by the hour, according to a chalked board at the mouth of the first lane, which also gave the prices and, underneath them, a line that said NO PATH DAMAGE TO WALLS — YOU PAY. Some yards were bare dirt with a post in the middle, and some had a roof on poles at one end for the rain. One had a long row of straw targets along the back wall, most of them burnt black in the middle, and another had nothing in it but a single heavy chain hanging from a beam with a sack of sand at the bottom of it, which a woman was punching with her eyes closed.
 
 Cael walked slowly along the lane and looked through the gates.
 
-He had come here meaning to watch, and he found that he could do more than that now. He could read some of it. A young man in the second yard was throwing strikes at a post, and every strike started in his hips and his feet and arrived at the post a quarter of a second after his shoulder had told it to, and Cael saw the quarter-second each time, and thought of a grey picture on a sheet and Hesk's voice in the dark: *the hips have to go where the weight goes.* A pair of girls in the next yard were drilling a block, one striking and one turning the strike aside with her forearm, over and over, and the one who was blocking had learned to watch the striker's back foot instead of her hand, and the one who was striking had not yet noticed.
+He had come here meaning to watch, and he found that he could do more than that now. He could read some of it. A young man in the second yard was throwing strikes at a post, and every strike started in his hips and his feet and arrived at the post a quarter of a second after his shoulder had told it to. Cael saw the quarter-second each time, and thought of a grey picture on a sheet and Hesk's voice in the dark: *the hips have to go where the weight goes.* A pair of girls in the next yard were drilling a block, one striking and one turning the strike aside with her forearm, over and over. The one who was blocking had learned to watch the striker's back foot instead of her hand, and the one who was striking had not yet noticed.
 
 Paths were everywhere, if you knew what to look for. In one yard a man stood perfectly still with his feet flat while a friend shoved him, and the dust around his feet shivered once and lay flat, and Cael thought of Joren with a sudden sharpness that surprised him. *Stone.* In another a woman threw a short punch at a plank held up by her partner, and the plank did not break so much as jump out of his hands as if it had been kicked from behind. Force, or something like it. Nobody here wore a Path on a badge, and nobody needed to. They wore it in their shoulders and their feet.
 
@@ -182,11 +184,11 @@ He found that he had been holding his own shoulder very still.
 
 "You training somewhere?"
 
-The voice came from the far corner of the yard. An old man was there, Cael saw now, in the shade of the wall where he had not noticed him: lean and grey and somewhere past sixty, in a shirt with the sleeves rolled to the elbow, with his feet set in a stance that was nothing like the woman's and nothing like anything else in the lane. He was not moving. He had the stillness of something that had been standing there long enough to become part of the wall, and when he spoke he did not turn his head.
+The voice came from the far corner of the yard. An old man was there, Cael saw now, in the shade of the wall where he had not noticed him. He was lean and grey and somewhere past sixty, in a shirt with the sleeves rolled to the elbow, with his feet set in a stance that was nothing like the woman's and nothing like anything else in the lane. He was not moving. He had the stillness of something that had been standing there long enough to become part of the wall, and when he spoke he did not turn his head.
 
 "Not yet," Cael said.
 
-"Watching's not nothing." The old man shifted his weight. It was a very small shift, from one foot to the other, so small that Cael would not have seen it at all a week ago, and he could not tell why the man had done it. "Half of training's watching. The other half's being too stubborn to stop when the watching tells you you're bad at something."
+"Watching's not nothing." The old man shifted his weight. It was a very small shift, from one foot to the other, so small that Cael would not have seen it at all a week ago, and he could not tell why the man had done it. "Half of training's watching. The other half's being pig-headed enough to keep at it once the watching's shown you where you're bad."
 
 "Is that what she's doing?" Cael nodded at the woman with the shoulder.
 
@@ -202,7 +204,7 @@ The voice came from the far corner of the yard. An old man was there, Cael saw n
 
 Cael did not know what to say to that, so he said, "Thank you."
 
-"Don't thank me. I'm telling you a fact." The old man settled back into his stance, and the stillness came down over him again like a lid. "Come back when you've got coin for yard time. There's always room for one more person who means it."
+"Don't thank me. I'm telling you a fact." The old man settled back into his stance, and the stillness came down over him again like a lid. "Come back with coin for yard time. There's always room for one more person who means it."
 
 ---
 
@@ -236,7 +238,7 @@ The lane came out at a crossroads where three narrow streets met at odd angles, 
 
 In the middle of it, on a post, there was a board.
 
-It was a slab of weathered wood about waist high, nailed to a post that had been replaced at least once, because the new wood was a different colour from the old. Notices covered it, and notices covered the notices, layer on layer, so thick in places that the bottom ones had fused into the grain and become part of the board. Some were printed. Most were written by hand, in every kind of ink and every kind of handwriting, and pinned with nails, tacks, splinters and in one case a bent fork.
+It was a slab of weathered wood about waist high on a post that had been replaced at least once, because the new wood was a different colour from the old. Notices covered it, and notices covered the notices, layer on layer, so thick in places that the bottom ones had fused into the grain and become part of the board. Some were printed. Most were written by hand, in every kind of ink and every kind of handwriting, and pinned with nails, tacks, splinters and in one case a bent fork.
 
 He read the top one because it was at eye level.
 
@@ -248,9 +250,9 @@ He read the next one, and the one after that.
 
 *New blood wanted. Ask for Dava.*
 
-*Rematch: Tamsin and the Ashwood boy. Second time's the real one. Cinder House, Fourthweek.*
+*Rematch: Tamsin and the Ashwood boy. This time it counts. Cinder House, Fourthweek.*
 
-*Ledger-verified only. No walk-ins without a vouch.*
+*Ledger-verified bouts only. No vouch, no walk-in.*
 
 None of them said what they were for. That was the first thing he noticed, and it stopped him. Every one of them was an advertisement, and not one of them named the thing it was advertising, as though everyone who needed to read the board already knew, and anyone who did not know was not meant to.
 
@@ -292,6 +294,6 @@ The light had changed while he stood there. It had gone long and gold across the
 
 That was strange enough that he noticed it. He always knew how long he had been standing somewhere.
 
-He shut the notebook and walked back to Torvin's in the dusk, along streets that were not yet his but had begun, here and there, to be streets he had walked before. He would come back to the board in the morning. He told himself it was to see whether any new notices had gone up.
+He shut the notebook and walked back to Torvin's in the dusk, along streets that were not yet his but had begun, here and there, to be streets he had walked before. In the morning he meant to come back to the board, to check, he told himself, for new notices.
 
 He knew while he was telling himself that it was not the whole reason, and he let himself believe it anyway, because he was tired and his legs hurt and it was easier.

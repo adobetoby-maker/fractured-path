@@ -116,13 +116,13 @@ Halvern considered this, and seemed to find nothing wrong with it, and got out a
 
 He went down again at the end of the afternoon, after the third reading, and asked for the log.
 
-Halvern found it without much enthusiasm, licked his thumb, and paged back through it while the light went orange in the window behind him. The front room smelled of ink and damp stone and somebody's lunch.
+It took Halvern a while to find, and he did not hurry; he wet his thumb and turned the pages backward while the window behind him went orange. The front room smelled of ink and damp stone and somebody's lunch.
 
 "Sweep," he said at last, and put his finger on a line. "Came about three weeks back. Not from us."
 
 "Not from Ardenmere."
 
-"Not from anybody on this side of the river, no. It came down from regional, with a code on it where a name would usually go." He turned the book so that Coss could read the line, which was one line long and said no more than the request in Coss's own case. The code was the same. It looked no more familiar written in Halvern's round hand than it had in print. "We get one maybe twice a year. Usually it's something you could guess at without being told. A man who's run from a debt across the river. A guild quarrel that's turned into fists. This one didn't say. We don't ask." He shrugged. "Asking gets you a longer form back and no better answer, and I've got pigs to count."
+"Not from anybody on this side of the river, no. It came down from regional, with a code on it where a name would usually go." He turned the book so that Coss could read the line, which was one line long and said no more than the request in Coss's own case. The code was the same. It looked no more familiar written in Halvern's round hand than it had in print. "We get one maybe twice a year. Usually it's something you could guess at without being told. A man who's run from a debt across the river. A guild quarrel that's turned into fists. This one didn't say. We don't ask." He shrugged. "You ask, and what comes back is a longer form and the same answer, and I've got pigs to count."
 
 "Who walked it?"
 

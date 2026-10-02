@@ -130,7 +130,7 @@ Lira went to the post, where the *gone* column had thirty-nine marks in it, in r
 
 "I didn't say it."
 
-"That's why it's the last one." She looked at the column. "That's the whole point of making you say it. You say it till you don't need to say it. Then you've got the thing the word was for, and you can throw the word away." She put the chalk in her pocket. "Forty. I thought it would be more. You're quicker than you think."
+"That's why it's the last one." She looked at the column. "That's why I make you say it at all. You say it till you don't need to say it. Then you've got the thing the word was for, and you can throw the word away." She put the chalk in her pocket. "Forty. I thought it would be more. You're quicker than you think."
 
 "You said I was slow."
 

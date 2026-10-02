@@ -34,7 +34,7 @@ The Fenrow man was ready at once. He came off his mark straight and hard and thr
 
 They did not block it, exactly. They were there when it arrived, the way a gatepost is there when a cart comes round a corner too fast. The punch landed on the outside of her left forearm with a sound like a mallet on a stump, and she did not move. Her feet did not move, and her shoulders did not move. The Fenrow man's arm stopped as if it had hit the end of a chain, and he shook his hand out at his side, and came again.
 
-He came again eight times in the first exchange. He threw everything, high and low and across, and three times he threw a feint first. The first feint moved her. Cael watched for it, and saw it: her weight went across by perhaps the width of a thumb, and came back. The second feint moved her less. The third did not move her at all.
+He came again eight times in the first exchange. He threw everything, high and low and across, and three times he threw a feint first. The first feint moved her. Cael watched for it, and saw it: her weight went across by perhaps the width of a thumb, and came back. The second feint moved her less. By the third she did not shift at all.
 
 She never struck back once. She stood on her mark and let the Fenrow man hit her forearms until he broke off on his own, breathing hard, and walked back to his mark shaking both hands.
 
@@ -140,7 +140,7 @@ It was at the far end behind the range, a low narrow door painted the same brown
 
 On the Wednesday night, the door was open.
 
-Cael came down to the kitchen late, after the others had gone up, to sit at the end of the table with the Log, because the kitchen was warm and the lamp there was better than Yeni's. A man was sitting at the other end of the table with a bowl of the evening's soup and a pipe laid beside it, unlit.
+Cael came down to the kitchen late, after the others had gone up, to sit at the end of the table with the Log, because the kitchen was warm and the lamp there was better than Yeni's. At the far end of the table a man sat over a bowl of the evening's soup, with a pipe laid beside it, unlit.
 
 He was heavy and grey and somewhere near fifty, with a broad, flattened face that had been hit a great many times a long time ago and had healed in a slightly different shape. He sat with one leg out straight under the table, the right one, as though the knee did not like to bend. When he lifted his spoon, Cael saw that the knuckles of both his hands were thick and white with old scars.
 

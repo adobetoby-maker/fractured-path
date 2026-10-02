@@ -230,7 +230,7 @@ They went along the dark street together, slowly, through the people going home 
 
 ---
 
-The thirty-ninth night of the six weeks was a Saturday, and it was very cold, and nothing happened in it at all until it did.
+It was a Saturday, the six weeks' thirty-ninth night, very cold, and nothing happened in it at all until it did.
 
 He was at Torvin's, on his cot under the window, with the Log open on his knee, late. The brothers had gone to sleep early because the river had frozen at the edges, just as they had said it would, and there would be no barges in the morning. They had argued about it until they fell asleep in the middle of the argument, one and then the other, and Yeni's lamp was turned low on the shelf, and the wheezing man was whistling by the door, long and thin. Downstairs Torvin had said *Lamps* up through the floorboards an hour ago, and the house had gone quiet round it.
 
@@ -268,7 +268,7 @@ It stayed. It did not go out, the way the word had gone out, but sat there in th
 
 He knew where it had come from.
 
-He knew it at once, before he had finished the third reading, with the same certainty that had told him something had changed, and it did not come as an argument but as a fact, like the river being cold.
+He knew it at once, before he had finished the third reading, as surely as he had known that something had changed, and it did not come as an argument but as a fact, like the river being cold.
 
 It had come from the grey half. It had come from two months of mornings in the shadow of the east wall, at a canvas post, with a girl who would not tell lies to anybody she trained. It had come from watching her step a hundred times from the inside with his arms in the wrong place, and once from the rope. It had come from the drop under her backhand that was lower than she had ever asked him to go. It had come from the fourth exchange against Dessa, going across, into the closing space, in a way that was not his. It had come from the third exchange against Sarel, when he had stopped watching and moved without deciding, the way she moved. That was the thing she had been trying to teach him for two months, and he had thought he was only learning it.
 
@@ -398,7 +398,7 @@ She blotted it.
 
 He had not known he was going to ask it until it was out. Vell looked up at him, and something went across her weathered face, very nearly amusement, and was put away again.
 
-"I don't rate fighters because I like them. I rate them because an honest book is the only thing that keeps this circuit from tearing itself apart over who's good." She looked at him a moment longer, and then said, more quietly, in a different voice, the one she kept for things that were hers: "For what it's worth. I do."
+"Liking a fighter has nothing to do with how I rate him. The book's honest or it's nothing, and an honest book's all that stops this circuit tearing itself to pieces over who's good." She looked at him a moment longer, and then said, more quietly, in a different voice, the one she kept for things that were hers: "For what it's worth. I do."
 
 "Thank you."
 
