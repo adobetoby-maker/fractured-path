@@ -1,0 +1,155 @@
+# Chapter 58 — Where It Is Written
+
+He kept his hand on the closed fascicle a moment longer than he needed to. His voice had gone dry somewhere in the amendment schedules, and he wanted it back before he used it again.
+
+Then he took his hand away and looked up at the bench.
+
+"That's all of it, Magistrate," he said. "Seven volumes and every fascicle. From the first family in the enumeration to the last line of the last amendment."
+
+He let the room hear the books lying shut on the table.
+
+"The word isn't in it."
+
+Nobody moved on the bench. Nobody moved anywhere.
+
+"I'd like to say where it isn't, one place at a time, so that nobody has to wonder afterward whether I went past a door without trying it." He did not count on his fingers. He had counted on his fingers on the Wednesday night across a lamp from Karis, and he did not need them now. "The panel has heard the enumeration, where the Compact keeps the Paths it has made up its mind about. It isn't there. The panel has heard the annex, where the Compact keeps the things it hasn't made up its mind about yet. It isn't there either. Then the appendix of disputed standings, the ones the guilds forced through and the Compact let in with a protest written beside them; it isn't among those. Then the amendment schedules, with every entry the Compact ever made and later struck still standing on the page with a line through it. Then the categories somebody asked the Compact to enter and it refused, which are bound at the back of the seventh volume, past the index, where I missed them myself until somebody showed me. And last the cross-index at the back of the charter, where the schedule sends a reader who can't find a thing." He paused. "Six places. If the Compact has ever given a person's condition a name, the name is in one of those six. Mine is in none of them. Nobody ever put it in. Nobody ever put it forward and lost. In all those books there isn't so much as a line to say anybody once asked."
+
+The grey-bearded assessor had laid his pen down and was looking at the row of shut volumes on the respondent's table as if somebody had just introduced him to it.
+
+"I'm not telling the panel the word is nothing," said Cael. "It's a real word. The instrument wrote it on the morning I Kindled, and the registry wrote it on my file the same week. It's been on every paper about me since, and on every paper the Warden showed you yesterday. And every office in the digests that ever had a person like me in front of it has handled the word as if it were a classification, for as far back as the digests go. I don't doubt any of that." He laid his palm flat on the shut volumes. "But not one of those things is the schedule, and the charter says only the schedule makes a classification. Everything that has happened to me under that word since I was fourteen happened because it was the way things were done with it. The flag at the station. A courier on Hesk's step on the second morning. A file that followed me to Ardenmere, and then up this hill. All of it was habit dressed as law. None of it had a line of the law underneath."
+
+---
+
+He stopped. He took a breath, and shifted his weight from one foot to the other, as he would have done in the corner before the last exchange of a long bout, when the fight in front of him had changed and he needed his feet to know it.
+
+"There are four people before me," he said.
+
+He said it to the bench, quietly, and he felt the room lean toward him to hear it.
+
+"Four, in the Compact's own digests, in all the years they go back, who carried this word. I've read their files, one by one, at the long table downstairs. The first was ordered out of the place they lived nine days after the Kindling that flagged them. The second in six. The third in eleven. The fourth in four." He kept his eyes on Yorlan's. "Not one of them had a hearing. Not one of them was asked anything that their file sets down. In every one, an order went out under an authority nobody looked at, because the word sat on the form in the place where a classification goes, and everybody who handled it trusted that somebody before them had checked. Three of those files don't end. They stop. I'm the fifth. I'm the first who's ever been let stand in a room like this and put the question out loud."
+
+He did not let his voice change. It was steady because it had to be, for the four of them.
+
+"So I want to say exactly what I'm asking, and not one thing more, because being exact is all that's earned me this floor. I'm not asking the panel to strike the word, or to say it was wrong of the Compact to worry about whatever the word was meant to warn it of. What I am isn't the question I've brought. There's nobody on that bench who could, and nobody in this hall, and nobody in any file; every record there is about people like me agrees on that much, if it agrees on nothing else." He lifted his hand off the books. "I'm asking something narrower, and harder to set aside. A word that isn't in the schedule isn't a classification. A person who holds no classification is outside the reach of powers that, in their own words, reach only the classified. So this tribunal can't void my enrollment. Not because the enrollment is sound; I've given the Warden that it isn't. Because the hand stretched out to void it was never given an arm long enough. I didn't build that. The Compact built it, and wrote it down, and kept it. All I've done is read what it kept."
+
+He let that settle, and then he asked the question he had carried out of the archive on the twelfth night, because by then he had stopped drafting it and it had simply become the thing he meant.
+
+"*Where is it written?*"
+
+Nobody on the bench answered. Nobody was meant to.
+
+"There's one more line I'd like the panel to have," said Cael, "and it isn't mine. It's the Warden's."
+
+He reached across the table to where a copy of the challenge lay, the three pages Coss had set on Naveth's blotter on the Monday of the nineteenth week. Quenna had laid it at his elbow that morning without a word. He turned to the first page and found the line with his finger.
+
+"On its first page the challenge says what my standing is, in words of its own choosing. *No recognized Path designation given.*" He laid the page flat. "That's the Compact's sentence, on the first page of its own case, in its own officer's hand. All I ask is that the panel believe it. If no designation is given, none is held. If none is held, there's nothing in the code for the enforcement chapters to take hold of. The Compact's rules were written for people the schedule names, and the Compact says, on page one, that the schedule doesn't name me. It can't then reach for those same rules to lift me out of a place where I'm trying, lawfully, to be."
+
+He sat down.
+
+The hall did not make a sound for the space of three breaths. Behind him and a little to the right, on the front bench, he heard a pen stop on paper, and then not start again; from Karis, he knew, that was as loud as anything gets.
+
+"The officer of record may answer," said Yorlan.
+
+Coss stood up, and Cael watched him do what Karis had said in the corner of the yard he would have to do. Watching it, he felt something he had felt only once or twice in his life: a fighter's respect for the man across the chalk, doubled, because the man was doing a very hard thing very well on a floor that had already gone out from under him.
+
+Every paper in the Warden's cases had been given away an hour ago, before he could use it. He stood now behind a table of good, true documents with nothing on it to read from but himself. He did not look down at the cases. He looked at the bench.
+
+"The respondent has read the panel an empty line," said Coss, "and asked it to see a locked gate there. The Compact asks the panel to see what it is: a line nobody ever thought wanted filling." His voice was as level as it had been all through yesterday, and as unhurried. Only a man who had listened to it every quarter for two years would have heard that it was finding each sentence as it went. "The word isn't new. It is as old as the instruments that write it. Every officer of the Compact who has stood in front of one of these cases has handled the word as marking something real that wants watching. The instrument enters it. The registry files it. The enforcement offices act on it. Taken together, over every year the digests run, that has been classification to the people who carry the Compact's work, in every way that touches their work. And each committee that amended the schedule knew the word was there. Each of them could have written it in. None of them saw any need. Nobody doubted where it stood."
+
+He paused, as a man pauses who is choosing the next stone from a heap he cannot see.
+
+"And the panel should be plain with itself about what the respondent asks it to write down," said Coss. "He asks it to find that the people who founded the Compact made, on purpose, a place in it where no rule runs. A person who owes nothing. Watched by nobody, answerable to nobody, past the reach of any office the Compact keeps or ever could. The charter can't sensibly be read to mean that. And a finding that it does would tell every district in the country that the Compact's arm stops short exactly where the Compact is most afraid."
+
+He sat down.
+
+It was the best thing there was to say, Cael thought, and Coss had said it clean, as he said everything. It was not aimed at the code at all; it went past the code to the three people on the bench, and to the fear that would have been sitting in each of their chairs whether anybody gave it words or not. Under the Warden's patient voice he heard another voice, broader and slower, leaning forward the width of a hand across a trestle in the stable. *You're asking a magistrate to put his name to a hole in the world.*
+
+He did not stand. The officer of record had answered, and the floor was the bench's now. He sat with his hands flat on the wood and the answer ready in him, worn smooth by a week of nights, and waited to see whether anybody would ask him for it.
+
+---
+
+The grey-bearded assessor asked first.
+
+He leaned forward in the left-hand chair with both elbows on the bench, and looked down at the respondent's table like a man putting his boot on a plank to test it before he trusts his weight to it.
+
+"Say it plainly, for me," he said. "If the panel finds for you, what are you, the morning after?"
+
+Cael stood.
+
+"Undefined, Assessor," he said. "What I was when I woke up today. What I've been every morning since the station in Denvash. Only, tomorrow the record would admit it."
+
+The assessor looked at him a while longer.
+
+"And the Warden's gap? A person nobody has a rule for."
+
+"It's there already," said Cael. "It's been there as long as the word has. Everything that was ever done to people like me was done inside it, with no rule to say how and no limit to say how far, and no appeal, because there's nothing to appeal under when nobody wrote the rule down." He kept his voice even. "The only thing that changes is whether anybody says so out loud. If the panel finds the schedule doesn't reach me, it isn't digging the hole. It's pointing at it, in public, on a record, where the people whose work is writing the law can see it. A hole in the law has the same remedy it's always had. Somebody writes the law. Nobody ever mended a hole by pretending to stand on it."
+
+The assessor sat back, and picked up his pen, and wrote, and Cael could not see what and did not try.
+
+Then Ilsev spoke.
+
+Karis had said, on the Friday, behind her bench of books, that if the senior evaluation seat put any question first it would put it to him and not to the Warden, because the woman's rigour did not take sides and never had. Cael had said he hoped she was wrong. Karis had said she hoped so too, and did not think she was.
+
+"Respondent."
+
+He knew that voice. He had last heard it through a thin wall in a cramped office the week he Kindled, telling the Warden she would not bend a regulation to fit anybody's timetable. It had not changed. It was dry and exact, and it held neither hostility nor comfort.
+
+"The Warden argues from practice," said Ilsev. "I'll put it to you without his courtesy. Every officer of the Compact has handled the word as a classification, for as long as there have been officers. Every committee that ever amended the schedule knew of it, and left it out. A body that knows of a thing for that long and lets it stand may be said to have consented to it. Why should this panel not hear the schedule's silence as consent?"
+
+He had answered this in his sleep. He had answered it with barley on his chin. He had answered it wrong, once, in the stable on the Saturday night, hot and true and no use at all, and felt the whole argument give under him at one place like a plank taking weight on its bad end. Then Brom, in his own voice, had asked him what the code did when what people did and what was written came apart. He answered it now, looking at her and at nobody else.
+
+"Because a list doesn't consent to anything, Assessor. It holds what's written on it, and nothing else. That's all a list knows how to do." He kept his hands at his sides. "Custom is not code. If it were, the Compact would never have needed a schedule in the first place. It could have pointed at what it had always done and called that the law and saved the ink. It never once did. Every time in its history that what the Compact did and what the Compact had written drifted apart, it went back to the page. It amends. It's amended the schedule forty-one times. Forty-one times it decided that doing a thing wasn't enough, and that it needed the words, and it went and wrote them in. Not one of those forty-one times did it write in mine."
+
+He did not stop there, because she had not asked a small question.
+
+"And the Warden's own exhibits tell the panel the same thing. The drafting records he entered yesterday. When that committee was asked whether its provision ought to reach people whose capabilities didn't fit the schedule, it didn't sit quiet and let practice decide. It took a vote, and it wrote the vote down, and then somebody wrote down the reason under it. That's what the Compact does when it means to shut a person out: it puts it on the page. When it means to let a person in, it puts that on the page too. It has never once left either to silence. So years of not writing my word down can't be counted as having written it somewhere nobody looked." He looked at her, and then for a moment at the closed volume under her hand. "There's a seat on this panel whose whole work is telling apart the code that's written and the code people carry about in their heads. If the panel decides by what's always been done, it isn't deciding by the law. It's telling the hall it went looking for the law and came back without it."
+
+Ilsev looked at him for a while, and nothing in her face told him anything at all.
+
+Then she turned her head, though not her body, toward the delegation's table.
+
+"Warden Coss."
+
+Coss stood.
+
+"Cite the schedule entry."
+
+The hall had been quiet. It went past quiet into something with no name.
+
+"The practice is long and settled, Assessor," said Coss. "Every office that—"
+
+"The practice isn't what I asked for." Ilsev's voice did not rise by a hair. "Nobody disputes the practice. The respondent gave it to you in fuller terms than you gave it yourself. I asked you for an entry: a volume, a section, a designation, the way you would cite any other in a filing. The whole schedule has just been read into this panel's own record, every line. If you give me the place, I'll know it." She waited. "Give me the place."
+
+Cael watched Coss look down at his cases.
+
+He looked at them for what seemed a long time. The drafting records were there, and the precedents, the bound fair copy of the deposition, two years of quarterly summaries in a flat plain hand. It was a whole case without a crack in it anywhere, and it held an answer to every question in the hall except this one. Cael watched him look, and knew what he was looking for, and knew it was not there. He knew, too, that Coss had known it was not there since the stipulation, and very likely since the swept yard by the pump.
+
+Then the Warden lifted his head and looked at the bench. Whatever it cost him, he gave the answer to the question he had been asked, because in two years Cael had never once seen him give the answer to any other.
+
+"There isn't one," said Coss. "I cannot cite an entry that does not exist."
+
+Ilsev nodded, once. There was no triumph in it; she had not been made for triumph. It was the nod of somebody who has sent for a thing and finds it has come exactly as described. She uncapped her pen and wrote a single line, and capped the pen, and folded her hands on the closed book, and was done.
+
+---
+
+"The panel will retire," said Yorlan, "and come back when it has ruled."
+
+They went out by the door at the back of the dais in a line, Yorlan with the thin book and the grey-bearded assessor with his pad and Ilsev last, with nothing in her hands. The door shut. At the recording desk the young recorder laid the brass glass on its side, and sat with both hands flat on the lid of his case, and looked at nothing.
+
+Nobody in the gallery got up. Nobody seemed sure whether they were allowed to. People stayed on the benches where they were, and after a while they began to talk, very low, the way people talk downstairs in a house where somebody is ill above them.
+
+Cael stayed at the respondent's table, with his palms on the wood. He did not watch the door. He watched the grain of the table between his hands, which had a knot in it the size of a thumbnail, and he looked at the knot.
+
+He could feel Quenna a row behind him, exactly where she had said he would. Once, a long way into the waiting, he heard her chair creak as she leaned forward, and he thought she was going to speak, and she did not. She only leaned forward and stayed there a moment, near enough that he could hear her breathe. Then the chair creaked again as she sat back.
+
+He went over it once. He did not go over it to mend anything; he went over it to be sure. He found that he had said every sentence of it the way it deserved, in the order he had meant to, and that he had not once reached for anything he did not have. What the bench made of it was the bench's now. Somewhere in him there was still a boy of fourteen on a bench in Denvash with his feet on their edges, who could not have borne this, the not knowing with nothing left to do about it. Cael looked for that boy and found him, still there, still with his feet on their edges. But the boy was not the one at the table. Looking at himself with some care, Cael found that he could bear it.
+
+Inside his coat, against his chest, the two folded papers lay flat on each other, and he felt both their edges when he breathed. He did not take them out.
+
+He thought instead of four short lines in the back of the observation notebook. Nine, six, eleven, four. There were three strokes and one blank beside them, and eleven words copied out whole that he did not mean to forget. None of the four had ever sat at a table like this, waiting for anybody to come back through a door. Nobody had needed to come back. There had been nothing to decide.
+
+The light had come off the respondent's table and was climbing the panelled wall behind the bench.
+
+It was not an hour. He learned that afterward, from the young recorder, who had stood the glass upright again when the door opened and found that it had not run through three times. He did not count it while it was happening. He sat with his hands on the wood and Prynn's copy of the code shut in front of him, every fascicle counted, and let it be as long as it was.
+
+Then the latch of the door at the back of the dais lifted, and the whole hall got to its feet at once, and nobody in it breathed.
