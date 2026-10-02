@@ -44,3 +44,7 @@ Two doors where there was one, ribs and forearm paying, and a senior evaluator's
 
 - Vell knows him only as "Just Cael" (Movement 2). Unless STATE_LEDGER shows it has already happened, she must learn "Hesk-ward" in
   Movements 5–9, on the page, before Darrow's ledger line names "Cael Hesk-ward".
+
+## Coordinator note (Movement 4 review, 2026-10-01)
+
+- Vell has used ~5,300 of her ~9,000-word cutaway budget (M2 1,930 + M4 3,343). Keep this movement's Vell cutaway short.

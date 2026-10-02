@@ -414,3 +414,126 @@ It is posted within a day, per the rule Gerda states.
 - Crowd at D2: about six hundred.
 
 Movement 2 CLOSED 2026-10-01 after repair r1 and two recheck line fixes (ch14 the routing-code line no longer says "That night" before the dusk wall scene; ch9 "a real thread behind Marlowe's joke"). Final: 8 chapters, ~36.5k words; overlap 0; gates 0. Paragraph median 30 recorded as known drift (ASR proxy).
+
+## After Movement 3 (chapters 17–23; repair r1 applied 2026-10-01; recheck pending)
+
+### State (from state/movement-003/AUTHOR-REPORT.md, as drafted; r1 changes below take precedence)
+
+
+**Calendar.** It is the last day of week 8. First frost came the night before the exhibition (week 7), and the nights are now freezing.
+- Exhibition (D3): week 7, at the first bell on the eighth day after the posting.
+- Hypothesis: Wednesday of week 8.
+- The two days: Thursday and Friday.
+- The wall: Friday night.
+- Hesk's letter and the calendar scene: the following day.
+
+**Cael's body.**
+- Left forearm: a shallow graze from the exhibition (exchange 2), stinging for about a week.
+- Right ribs: a bruised rake from a half-formed edge (exchange 4). Wray gave it two days; it hurts on the stair and when breathing deep.
+- Forearms: a dull ache from a shell bursting on his guard (exchange 1). Gone.
+- Left wrist (M2 misroute): healed.
+- Breastbone: fine. Right shoulder: the Reydan complaint, unchanged.
+
+**Abilities.**
+- **Wind-adjacent.** Used at full bout speed under live opposition, the only fragment shown. It found Glass's recommitment window twice and closed in it.
+- **Iron-adjacent.** Not used in the exhibition, by choice. In the sessions it was read through a training post: through linen nearly as through skin, through quilted padding blurred and late, through felt almost nothing. Twice in about twenty tries through felt, a faint *thickening* registered before Brom's weight moved. This is a plant toward M4's "density before light". No theory attached.
+- **Pressure-adjacent.** Unused. Banked.
+- **Compression-adjacent.**
+  - Quarter: five of ten (week 7).
+  - New skill: a **deliberate drop**. He gathers the quarter and releases it unsent. Four drops on purpose in one night; the last could not be felt by Brom.
+  - In the exhibition the fragment woke once, for a shell on his guard, and was given no road. That makes three non-uses in all: D1, Brom's room, D3.
+  - Half was not attempted this movement. Full slow push and fast catch remain for M4.
+- **Tide anomaly.** Unchanged. The session nine page was turned past without being touched (ch22).
+- **Belief.** Weather has broken. Cael now holds the hypothesis (Karis's: observation is upstream, so it can be aimed). He has re-read every acquisition as following long close watching, and he fears "appetite". The covenant is renewed. He has decided to learn to aim it and has not tried. Stakes as part of the mechanism are NOT yet thought of; that belongs to M4.
+
+**Record exposure.**
+- D3 (public, exhibition), Wray: "Evasion framework under live opposition. Consistent with prior record. No safety concerns."
+- D3 rotating seat (heat-Paths instructor): "Entered at length." Spoken and entered: "The candidate fought the petitioner's sequence rather than the petitioner."
+- Edran's withdrawal is entered with the hour. Quenna: "Assessment satisfied."
+- Quenna gave Cael a fair copy of the D3 record. It is in the binder's back pocket.
+- The withdrawal is posted in Edran's hand: "…answered on the floor, in public, under the framework, in a form he accepts."
+- The petition, answer and withdrawal were taken down after a week on the board.
+- No mechanism, no fragment beyond Wind, and no hypothesis entered any record. The hypothesis was spoken only, under clause five.
+
+**Knowledge.**
+- **Cael:** holds the hypothesis and the binder pattern. Edran declined to hear that Cael has no Path, and Cael did not tell him.
+- **Oona** still alone outside the circle in having heard "There isn't one to hide." She told no one and deflected every question ("Ask him").
+- **Karis:**
+  - She has spoken the hypothesis from observables only. She has still never seen the binder.
+  - She knows the exhibition chart and the post results.
+  - She has asked Quenna whether the sessions could ever include a live condition. Quenna said not under the provision; Karis asked her to keep the question.
+- **Lira and Brom:** heard the hypothesis. Lira renewed the covenant. Brom's position: "intent is the difference."
+- **Quenna:** wants "something with more structure" soon and knows Karis has asked. Still has asked Cael nothing about how.
+- **Naveth** saw from his window that Cael "kept a hand in his pocket" twice. He does not want to know what it was.
+- **Edran** knows the framework beat him at the seam. He does not know what Cael is and has chosen not to ask.
+
+**Relationships.**
+- Cael and Edran: a witness, not a friendship. Edran gave him the rail for six days. Cael watches Edran rebuild.
+- Cael and Karis: she showed him *Not asked*; he used clause four once and she honored it without a reason.
+- Cael and Lira: the covenant renewed under a heavier load ("Tell me when you're sure… Same rule.").
+- Cael and Oona: she kept his secret; she was quizzed on the chart; he was afraid to look at her and then did.
+- Cael and Hobb: "Didn't hurry."
+- Cael and Hesk: reply received, answer written.
+- Cael and Naveth: "Thank me with your assessments… You did."
+
+**Supporting-cast decisions this movement.**
+- Naveth: shut the door; refused to dismiss or to grant; named the three audiences; came down to say the dull paragraph was a gift.
+- Quenna: converted the petition; named the stakes; gave Cael the fair copy of his own record; drafted the post permission.
+- Wray: set "no allowance either way"; ruled the fourth exchange's glancing edge; "You chose a small fight"; invited Cael to watch Edran rebuild.
+- Edran: refused to be told; asked for a fourth exchange; narrowed the gap mid-fight; withdrew in public; began a term's rebuild of the off-arm third structure.
+- Karis: asked to chart the exhibition; refused to share her pages on Edran; drew the chalk line; read back; kept *Not asked*; asked Lira's leave to speak; spoke the hypothesis; asked Quenna about a live condition.
+- Lira: was angry, then conceded the ring; read exchange 2 a beat ahead; delivered the coin verdict; renewed the covenant; is now quiet before her reassessment.
+- Brom: "a ring with rules"; practised the drop with Cael; returned volume six with his column; gave the rail speech; "the second one's the floor".
+- Prynn: produced the standings record; tea.
+- Hobb: sparred Edran long; "Didn't hurry."
+- Gerda: "Answered," "He's buying," "Posted. Answered. Withdrawn," and on her own reassessment, "The procedure… doesn't care whether I'm ready."
+- Oona: kept the secret; "It's not a words one"; "Ask him"; studies the chart for her winter Kindling.
+
+**Standings.** Karis is first and Edran second, unchanged; the exhibition is not a standings bout.
+
+**Letters.** Hesk's reply arrived in week 8. Cael's answer is written and set for the third-day post. Vell is still not written to.
+
+**Open threads carried forward.**
+- Lira's formal reassessment, nine days off; Gerda's falls the next morning. Fenmark's file is not shown arriving; M4 opens with it.
+- Quenna's "structure", and Karis's question to her.
+- The hypothesis is untested.
+- The post thickening.
+- Edran's rebuild.
+- Oona's winter Kindling.
+- Brom's column ("seven held").
+
+## 3. New canon minted in prose (flag for ledger and owner)
+
+- **Glass Path mechanics (edition).**
+  - A structure (shell or edge) forms whole on the forearm or shin and cannot be reshaped. It ends by bursting.
+  - One structure can be pre-formed before an exchange. The next forms out of the burst of the last.
+  - The third in a sustained sequence forms cold, which opens a sliver (the recommitment window).
+  - Edran's fix is to call the third on the opposite arm while the second still stands. That narrows the gap, but the third comes up thin. Wray estimates "a term" to thicken it.
+  - The offensive edge runs along the outside of the forearm.
+- **Edran's standings record:** four losses in three years, all after the third exchange. His first-year assessor line was "Glass. Over-commits. Will learn." Wray's line: "Tires in the sequence, not the body."
+- **The exhibition (D3).**
+  - Format: three exchanges on the instructor's count under standings rules, with a fourth allowed at the petitioner's request by presiding discretion.
+  - Result: Edran 1 touch (forearm graze); Cael 2 touches (palm to breastbone, twice).
+  - Crowd about two hundred. First frost that night.
+  - Rotating seat: the heat-Paths instructor with scorched cuffs.
+- **Posted documents (ch17, ch20).** The "Answer to the Petition of Standing" (Quenna's hand, Naveth's signature) and the "Withdrawal of Petition of Standing" (Edran's hand). Both are quoted in full on the page. Postings stay up about a week.
+- **Section four.** Karis's chalk line. The oak training post in an iron foot.
+- **Quenna's permission:** "The candidate may place his hand on the training post. The witness may lean on the post from the far side. The candidate and the witness may not touch."
+- **Karis's page *Not asked*:** seven dated half-questions.
+- **Brom's margin in volume six:** "FETCH DRILL. HOBB. DAYS 1–24. / 11. 11. 10. 9. 9. 9. 8. 8. 8. 7. / NOT PROOF. ONE COLUMN. GOING DOWN. — B." Wray copied the numbers to her slate.
+- **The assembly room:** the lecture wing's ground-floor hall. Two-finger circuit sign (Ardenmere): "I see you, stay where you are."
+- **A second-year tout** (unnamed), from a river town with a fighting pit, takes wagers in crusts, kitchen duty and the good seat by the fire.
+- **Declaration-ethics block for senior years** (instructor unnamed, from the movement floor). Its closing question: is watching someone's Path the same as reading their declaration?
+- **Hesk's reply (ch23), author's wording, no new history:**
+  > *Cael — Both of yours came. The second a week behind the first, which is the post's fault and not yours. / You signed it with your eyes open. Good. A form is a form. It says what it says and you are what you are, and the two of them can sit in the same drawer without either one minding. / The shop is the same. The stove still smokes when the wind is east. I mended the bench you used to sit on, so it is ready for whenever. / You wrote that there is a woman who argued all afternoon to find a word for you. Mind her. People who will argue for a word are rarer than people who will argue for a wage. / I am glad of the two you came through the gate with. I am glad of the third. / Write when something happens. Write when nothing does. I read both kinds the same. / H.*
+
+  The "bench" is the only new physical detail. It is minor; flagged.
+- **Cael's answer to Hesk** (ch23): mentions the petition, the exhibition, the witness, two cuts, and Karis as one who "asks before she looks". No fragment, no hypothesis.
+- **Calendar line:** "Re-certification Review, formal. Lira. Two recorded bouts before a panel of three. Formal yard, first bell." It falls nine days after week 8's last day. Gerda's falls the next morning ("Ten for me").
+
+
+### Repair r1 changes that alter state or canon
+- Calendar: week 8 — Tuesday (post, read-back, felt, *Not asked*), Wednesday the hypothesis, Thursday clause four, Friday the wall, then Hesk's letter and the calendar; week 9 — Lira's reassessment ("five days off") and Gerda's the next morning.
+- The Glass rule as stated in ch18 (see MOVEMENT-004 coordinator notes). No shin-shell in exchange 1.
+- Edran presses with a crowd: Wray's line, Hobb first at the rail. Quenna copied the record the night of the bout; fair copy later. Hesk's "back door" matches ch3. Lira has *read* what the half push cost. Brom's fetch column starts at 9 ("Days 1–15").
+- Exhibition record (ledger canon): three exchanges, a fourth at the petitioner's request; Cael 2, Edran 1; Edran's rib graze "unformed at contact. Glancing".

@@ -1,0 +1,249 @@
+# Chapter 21 — The Pin
+
+The market had not made up its mind about the weather.
+
+A haze lay over the whole long slope of it, thin and white and the same colour as the sky, so that the awnings at the bottom of the rows, down by the river, were softer at their edges than the awnings at the top. The lanterns on the awning poles were still lit from the night, though nobody needed them. Somebody would come round with a hooked stick in an hour and put them out, and until then they hung in the haze at their different heights like lamps in a room that had forgotten it was morning.
+
+Cael came down the second row with the bread under his arm and his left hand in his coat pocket, because the burn on that forearm had begun, in the last few cold mornings, to ache in a way it had not when it was new. It was the thirty-sixth day since Weaver's Row, a month and more of mornings in Ardenmere, and it was the slowest one he had seen.
+
+He liked the slow mornings. On the busy ones the market was all noise, and you could learn nothing from noise except that it was there. On the slow ones you could see how the place was put together.
+
+He had a month of it in his head by now, laid down the way he laid down everything, in order and by the hour. The bearded fish cousin set out his board first and packed it away first, and was gone by the time the haze lifted most days. The bread woman at the top of the second row put yesterday's loaves under this morning's, and gave him two from underneath now without being asked, and without the sour look. The nut boy's sister lit the charcoal under the drum, and the nut boy ate an apple on an upturned crate until the first customer came, and then threw the core over the awning into the next row without looking where it went. The fruit woman by the steps, whose name nobody had ever been told, sat behind her baskets with her hands in her lap and waited to be pointed at.
+
+He knew the two errand boys, too, the one in the red cap and the one with the brother in the carters', who ran messages and small parcels up from the river to the yards and down again all day at a dead sprint, shouting insults at each other across whatever street they happened to be crossing. They had half a mark each riding on him, according to Lira, and he tried not to think about that.
+
+This morning the rows were doing all of those things, and something was wrong with all of them.
+
+It took him the length of three stalls to find it. It was not any one thing. No awning had come down and nobody was shouting. It was a tightness, very small, in how people were moving, as if every person in the market had been handed a cup filled to the brim and told not to spill it.
+
+The pie man two stalls along had stopped calling his prices. He was still standing behind his tray with a pie in each hand, but he was looking past his customer's shoulder at something down the row, and the customer was waiting with her coin held out and did not seem to mind waiting.
+
+A woman with a basket took her change from the bread woman and left with it still in her open hand, quickly, as though she had remembered a pot on the fire. A little girl who had been sent across the row for something came halfway back with it before her mother called her name, once, sharply, and the girl stopped and looked round to see what she had done wrong, and found nothing, and came on more slowly.
+
+None of it would have meant anything to somebody who had come down the row for the first time this morning. For somebody who had come down it every morning for a month, it was like hearing a familiar clock miss a tick in the next room.
+
+He looked where the pie man was looking.
+
+Down at the bottom of the row, where the market levelled out by the fish stalls, a man was walking.
+
+He was not doing anything else. He was not buying, and he was not calling to anybody, and he was not in any hurry. He was a man of middle height in a plain grey coat that had been brushed that morning, with a small book in his left hand and a pencil in his right, walking along the line of the fish stalls at the pace of somebody counting barrels in a cellar. Every few stalls he stopped, and looked, and sometimes said a word or two to whoever was behind the board, and sometimes wrote something in the book, and then walked on.
+
+On the lapel of the grey coat, small enough that you would miss it unless you were looking for something to miss, there was a pin.
+
+Cael was not near enough to see its shape. He did not need to be. He had seen that shape pressed into dark wax on the second morning after Kindling, on a paper that was still folded small inside the back cover of his old notebook, with its creases gone soft from being opened. It was a hand, holding up a balance.
+
+His body wanted to stop walking.
+
+He felt it want to, quite clearly, as though somebody had put a hand flat on his chest. A small cold current went up from his stomach through the middle of him and sat under his breastbone, and he knew the feeling, because he had last had it standing in a circle of pale wood on Weaver's Row while a brass plate failed to light.
+
+He did not stop. He did not slow down. He went on down the second row at the same pace he had been going, with the bread under his arm, because a boy who stopped dead in a market and stared at a man in a grey coat was a boy who would be looked at, and he did not want to be looked at by anybody this morning, least of all by a man with a book.
+
+---
+
+The haze helped and the lanterns helped.
+
+The awning poles in the market were all different heights, which he had thought on his first evening was carelessness and had since decided was simply what happened when sixty people put up sixty poles over forty years without asking each other. It meant that the lanterns hanging from them made a kind of uneven ruler down every row. The red lantern on the pie man's pole hung low, at about the height of a tall man's chin; the bread woman's hung high, with a crack across its glass; the cracked one beside the cheese stall had never been lit in all the mornings he had passed it.
+
+If he kept the man between the lanterns, he could tell how far away he was without looking at him for more than a moment at a time.
+
+So he did that. He bought the dried pears from the fruit woman by pointing at the basket, and she weighed them out for him with her eyes on the bottom of the row, and gave him full weight. He watched the grey coat pass under the low red lantern, and then under the next one. The man had turned up the third row now, the one that ran parallel to Cael's on the far side of the awnings, and he was coming up it at the same unchanging pace, one stall at a time.
+
+It was the same thing he did in the circle, he realised, and it steadied him a little to realise it. He ran the distance and the angle and the two or three places he could go if the distance closed faster than it should. Here those places were a gap between the cheese stall and the rope-seller, which led through to the fourth row, and the steps at the bottom, and the open end of the row behind him. He ran them without deciding to and kept them running while he walked.
+
+The man was not hunting. That was the next thing he saw, and he made himself see it carefully, because it was the kind of thing a frightened person could get wrong in either direction.
+
+A hunting man looked at faces. This man looked at stalls. He stopped where a stall had been there a long time, and where there was somebody behind it who would know things, and he did not ask anybody to show him a card. Nobody was stopped. Nobody was taken by the arm. He moved through the market the way the mender moved a straightedge along a frame, slowly and from one end to the other, looking for the place where it was not true.
+
+At the nut stall, he stopped.
+
+Cael was close enough by then to see it, across the third row, through a gap in the awnings where a canvas had been rolled back. The nut boy was standing up behind the drum with the scoop in his hand. The man said something to him, short.
+
+And the nut boy, who in a month Cael had never once seen look at the pointer of his scale, who weighed everything by watching his customer's face, looked down at the pointer. He tipped nuts into a paper twist with his eyes on the brass needle the whole time, as carefully as if it were the first scale he had ever been given, and handed the twist across, and took the coin, and said something with his eyes still on the needle.
+
+His sister went on turning the crank on the drum. She did not look up at all.
+
+The man wrote in his book. Then he walked on, up the third row, toward the top of the market, where the rows ended and the street began.
+
+That brought him, in about forty steps, to the same place Cael was going.
+
+Cael did the arithmetic and did not like it. If he kept his pace he would reach the top of the second row at almost the same moment the man reached the top of the third, and the two rows came out side by side onto the street there, with nothing between them but a water trough and a post. He could slow down. Slowing down was the thing his body wanted, and that was exactly why he did not trust it.
+
+He kept his pace.
+
+At the top of the row the woman with the basket of eggs, who sold from a blanket by the trough, stood up to shake out her blanket just as he came level with her. He had seen her do it at this hour on a dozen mornings. He let her be where she was. He went round the end of the blanket on the trough side, and the blanket came up between him and the third row in a slow flap of brown wool, and when it came down again the man in the grey coat was walking past the post an arm's length to his right.
+
+Cael did not look at him. He looked at the egg woman's blanket, settling, and at the street ahead.
+
+He saw the man anyway, the way you see something at the edge of a lamp. The grey coat was good cloth and had been mended at one elbow by somebody who knew how. The book was small, black, with a strap round it. The boots were dark and dry and ordinary. Cael looked at them, because Torvin had said *not from round here, by his boots*, and he could not tell anything from them at all. They could have been anybody's.
+
+The man did not look at him either. He did not seem to look at anything in particular. He walked across the top of the market and down the short street toward the river, toward the lower bridge and the squat brown building that stood at the head of the fish steps.
+
+Cael had catalogued that building in his first week, along with everything else. It had a board on its front wall with a few official notices nailed to it that nobody read, and a door that was usually shut, and it was the only place on this side of the river that had anything to do with the Compact. The nut boy had called it the post. Nobody had ever told him what went on inside it, and he had never seen anybody go in.
+
+The man in the grey coat went in. The door shut behind him.
+
+Cael went on walking.
+
+---
+
+He did not go back to Torvin's.
+
+He had meant to, and his feet had the way home in them, two lanes up and one across, but when he reached the corner where he should have turned he went straight on instead, down toward the river. He did not decide it all at once. It decided itself one step at a time, the way the long way round decides itself when you are tired and do not want to be seen going in at your own door.
+
+If there was one man, there might be two. If there were two, the second would be the one that mattered, because the first had been walking in a grey coat with a pin on it and a book in his hand, where the whole market could see him. Nobody who meant to find a particular boy would do it like that.
+
+But somebody who meant to find a particular boy might send one man out in a grey coat to walk the market, slowly, where everybody could see, and another man to stand somewhere quiet and watch who moved when the first man came by.
+
+He went along the lane of the river workshops.
+
+The shutters were all down at this hour, the doorways open to the haze, and the cobbler was in his doorway with his last between his knees. The lantern woman was in hers, under her ceiling of broken lanterns. Cael stopped in front of her doorway as if he were looking at the lanterns, which was a thing people did, and she did not look up from her soldering.
+
+There were thirteen lanterns hanging there today, and four of them still had most of their glass. He looked at the street behind him in the curved glass of the nearest one, small and bent and upside down at the edges, the far side of the lane sliding round the glass like water.
+
+A cart. Two women carrying a rolled carpet between them. A dog. Nobody standing still.
+
+He went on.
+
+At the end of the lane, past the doorway with no sign, he turned up the cut. It was a passage so narrow between the cooper's wall and the back of the bucket-maker's shop that two people could not pass in it without one of them turning sideways, and it went up in a series of crooked steps toward the four lanes by the well. Halfway up there was a doorway, bricked in long ago, which made a shallow box in the wall about the depth of a man's shoulders.
+
+He stepped into it and stood still and counted to sixty.
+
+It was the hardest sixty he had ever counted. His heart was going faster than it had in the second exchange against Petra. It seemed absurd to him, standing there with dried pears in his pocket and a loaf under his arm, but it was true, and he noted that it was true.
+
+The cut was very quiet. He could hear the river below, and the cooper's mallet beginning on the other side of the wall, slow, like somebody knocking at a door who did not expect an answer. He could hear his own breath. At forty a cat came down the steps from above, saw him in the doorway, stopped with one foot lifted, and went back up the way it had come with great dignity.
+
+At sixty, nobody had come up the cut behind him.
+
+He came out of the doorway and went back down the cut the way he had come, which was the last thing anybody following him would expect, and out into the lane of workshops again, walking the other way past the lantern woman, who looked up this time, and looked at him, and went back to her hinge.
+
+The mender's doorway was open. The mender did not talk in the mornings, and he did not talk now. But he was standing at his bench with the loupe in his eye and a clock in pieces in front of him, and as Cael went by he took the loupe out and looked at the street, briefly, the way he looked at a frame before he leaned on the lever, and then put the loupe back.
+
+Cael went up the broad steps by the carriers' hut, past the hut itself, where the ink-fingered clerk was sorting letters and did not look up, and round by the long way to the four lanes at the well with the iron cover. There he took the lane he never took, the one that went east toward the dyers' sheds, and walked down it for the length of a long breath. Then he turned round, as though he had remembered something, and walked back.
+
+Nobody in the lane turned round with him.
+
+He came out at last into the lopsided triangle where the three streets met, and stopped in front of the board, and read it. It had a new notice on it since yesterday, a card for the Sunday, in Vell's upright pencil on the back of a bill for candles. He read it twice, and then the one under it, and the one under that, and while he read them he watched each of the three streets in turn, out of the corner of his eye, for as long as it took to read a notice.
+
+People came and went in all three. None of them came out of the haze and stopped, and none of them looked at the board, or at the boy reading it.
+
+One man, one route, one morning.
+
+He stood there with the bread going stale under his arm and turned that over. It was not a manhunt, and it was not a man looking for a face. It was smaller than either. It was a man in a good coat walking a market slowly, from one end to the other, and writing in a book, and going into the only building in the district that belonged to the people who had stamped one word on his card.
+
+He found that it frightened him more than a manhunt would have. A manhunt you could at least understand. This could mean anything, or nothing, and he had no way yet of knowing which.
+
+---
+
+He wrote it down as soon as he was alone, on the low wall by the pump in Torvin's yard, under the pear tree that had given up growing tall and grown wide instead.
+
+He wrote it in the front of the Log, because it was a thing that had happened and not a thing he was afraid of, and he wanted it to stay that way. There were no columns for it. He wrote it in the margin with the other facts that would not go in columns, under the fish man's nod and the polite man at Torvin's door.
+
+*Thirty-sixth day, morning. Market, a slow day, haze. A man in a grey coat, Compact pin on the lapel (the hand and the balance), a small black book with a strap. Middle height. Walked the fish stalls and then the third row, one stall at a time, unhurried. Stopped at stalls that have been there a long time. Spoke a word or two. Wrote. Asked nobody for a card. Stopped nobody. Did not look at faces. Did not look at me. Went into the post at the head of the fish steps. One man. I went the long way round and saw no second one.*
+
+He read it back. It was all true, and he had seen all of it himself, and there was no *h* anywhere in it.
+
+Then he sat with the pencil and found that he wanted to write the next thing, and did not know what the next thing was.
+
+His hands were still not quite steady, so he did what Hesk would have done, and gave them something to do. He took the pears out of his pocket and ate one, slowly. Then he took the bread out from under his arm and looked at it, and found that he had been holding it so hard all the way round the long way that he had crushed the top of the loaf flat.
+
+He was looking at the flattened loaf when Torvin came out through the kitchen door with an empty bucket, and stopped, and looked at the loaf too.
+
+"Bread woman sell you that?"
+
+"I did it."
+
+Torvin considered that, and seemed to accept it as a reasonable thing for a person to do to a loaf. He went to the pump and began to work the handle. The water came up in long gulps and rang in the bottom of the bucket.
+
+Cael watched him fill it. Then, because he had decided on the wall that he would gather what he could before he let himself decide what any of it meant, and because Torvin had run this house for eleven years and had a ledger, he said, "Do the Compact walk the market often?"
+
+The pump handle stopped at the top of its stroke.
+
+"Define often," said Torvin.
+
+"I saw a man this morning. With the pin. Walking the rows." Cael made his voice as level as a fact. "It's the first I've seen."
+
+"Then you've been here about long enough to have seen one, if you were going to." Torvin brought the handle down. The water gulped. "Eleven years I've had the sign up. I've seen four. Four in eleven years. That's not a habit. That's weather. It comes when it comes, and nobody's ever told me why, and I've never asked."
+
+"What happens after?"
+
+"Mostly nothing. Man walks about, writes in his book, goes away." Torvin pumped twice more and let the handle rest. "Once, the second one, they took a woman in to the post for the afternoon. Turned out she owed a guild fee from somewhere upriver, before she ever came here. She paid it and came back and complained about it for a month. That's the worst I know of." He lifted the bucket off the spout. "They've no great love for this side of the river. Costs them more than it's worth to come and look at us."
+
+He stood with the bucket hanging from one hand and looked at Cael. It was the look he gave coins on their third count, slow and thorough, checking his own figures and not anybody else's.
+
+"Why are you asking?"
+
+"Curious."
+
+"Course you are." Torvin did not push. He picked up the bucket and turned toward the kitchen door, and then said, over his shoulder, in the same flat voice he used for the rent, "If you want more than my four, ask up in the yards. The fighting people count pins better than I do. It's bad for a yard if the wrong sort of attention comes to stand at its gate."
+
+He went in. The door banged. Through it, a moment later, Cael heard Torvin's wife say something about the bucket and Torvin say, "I know," in the tone of a man who had known for eleven years.
+
+---
+
+So in the afternoon, instead of going to the mender, he went up into the yards.
+
+It was not one of the mender's afternoons, but he would have had to go anyway if it had been. He could not have sorted keys today. He went up the lane where the ground began to rise, with the walls on either side of it and the flat smack of hands on canvas coming over them, and he asked his question the way he would have tested a joint he did not trust: once, lightly, in one place, and then somewhere else.
+
+He asked the woman who kept the chalk board at the bottom of the lane with the yard prices on it, while he pretended to read the prices. He asked a man filling buckets at the trough, and the two girls he had seen on his first afternoon drilling the block, who were sitting on a wall eating, and who recognised him, which he had not expected.
+
+"You're the one who ran Brenna round," one of them said, before he could ask anything.
+
+"Yes."
+
+"She's still talking about it."
+
+"I'm sorry."
+
+"Don't be. It's very good." The girl took a bite of her bread. "What do you want?"
+
+He asked them about the pin.
+
+He never asked anybody twice, and he never asked in a way that made the asking itself a thing to remember. Everybody's answer came out much the same, the way Torvin's had. Somebody's aunt had seen one, two summers ago. Somebody else remembered one the winter before last. Pins came through the district now and then, not often, and walked about, and went away again, and nothing much came of it.
+
+"Was it a big one?" said the girl on the wall. "With the dogs?"
+
+"There were no dogs."
+
+"Then it was nothing." She brushed crumbs off her knee. "When it's something, there are dogs."
+
+He did not know whether that was true, and he did not think she did either, and he filed it with an *h* beside it, because it was what she believed.
+
+At the top of the lane he stopped at the last gate, the one with the old man in it.
+
+The yard was as it had been every time he had passed it: a square of dirt with a post, the woman with the shoulder working through her six positions alone in the middle, and the old man in his corner in the shade, standing in the stance that looked like nothing else in the lane. The woman reached the fourth position, and held it, and her shoulder stayed down. She went on to the fifth.
+
+The old man's pale eyes came round to Cael at the gate, and went to the left hand in his coat pocket, and came back up.
+
+"Afternoon."
+
+"Afternoon," said Cael. He had his question ready. He had asked it six times that afternoon, smoothly, without weight. Standing in front of this gate he found that he did not want to ask it smoothly. "There was a man with a Compact pin walking the market this morning. Does that happen often? Up here, I mean. Do people notice?"
+
+The old man did not answer at once. He watched the woman in the middle of the yard finish her sixth position and go back to the first.
+
+"Up here they notice," he said. "Up here they notice everything that might come and stand at a gate." He shifted his weight, the small shift from one foot to the other that Cael still could not find the reason for. "They don't come for nothing. That's the first thing. Whatever they tell you, and whatever it turns out to be, somebody somewhere wanted a man walking that market this week and not last week. Pins don't walk themselves out of the post."
+
+"Everybody says it's nothing much."
+
+"Everybody's mostly right. It mostly comes to nothing much." The pale eyes rested on him. "But I'll give you a thing you didn't ask for, boy, because you came to the gate and asked properly instead of asking sideways. Don't stand about wondering whether it was you he was walking for. You'll never find that out by wondering, and it'll eat your evenings." He turned back to the yard. "Wonder what changed."
+
+Cael stood at the gate.
+
+"Somebody upstream of that man decided this month was different from last month," the old man said, to the yard. "Find out what's different. You'll learn more from that than from chasing the fellow in the coat. He's only the end of a string."
+
+"Thank you."
+
+"I'm not being kind. I'm telling you where to look." The stillness came down over him again, like a lid, and Cael understood that he had been given everything he was going to be given.
+
+He walked back down the lane slowly. The flat smack of hands on canvas came over the walls on either side, and somewhere a woman was laughing at somebody who had fallen over, and the haze had burned off at last and left the afternoon thin and bright and cold.
+
+*Wonder what changed.*
+
+It was better than anything he would have come to by himself. He could feel how much better, as clearly as he had felt the difference between Hesk's straightedge and his own eye on the spice balance. It took the question off the man in the grey coat, where there was nothing to hold on to, and put it somewhere he could stand and look.
+
+What was different in the district this month from last month?
+
+He knew the answer before he had reached the bottom of the lane. He tried to find another, honestly, all the way down past the chalk board and the trough and the two girls on the wall, who waved, and he could not find one.
+
+A month ago, a card with one word on it in square brackets had come into the district along the east road at dusk, in the pocket of a boy with a bag strap scuffed by a cart, and nobody at the edge of the district had asked to see it.
+
+That was what had changed. That was the only thing he could find. It was him.

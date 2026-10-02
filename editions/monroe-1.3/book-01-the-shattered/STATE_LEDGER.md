@@ -299,3 +299,136 @@ Repair r1 changes that alter state or canon:
 - Kept inventions: the mender's piecework (two afternoons a week); "Red Cap" (description only); the Log's Claim / Evidence / Ruling columns with *h* for heard; Lira's morning report; the pear tree.
 
 Movement 3 CLOSED 2026-10-01 after repair r1 and five recheck line fixes (ch19 stray quote, doubled scene marker, "From what Torvin had said", a comma; ch17 ends on Torvin's nightly *Lamps*). Final: 7 chapters, ~35.2k words; overlap 0; gates 0.
+
+## After Movement 4 (chapters 21–27; CLOSED 2026-10-01 after a light repair r1, coordinator-verified)
+
+
+**Calendar.**
+- Day 35 (Wed): entry, "about five weeks in".
+- Day 36 (Thu): the sweep; Torvin; the yards; Lira at Amrit's; Hesk's letter; the letter to Hesk written.
+- Day 37 (Fri): the morning report; the letter posted (west bag, noon); the information seller.
+- Day 38 (Sat): Renn at the month, postponed; the cooper's roof; Vell's cutaway; Dessa asked.
+- Day 39 (Sun): Vell names Dessa; Dessa against the Fenrow Iron, watched.
+- Day 40 (Mon): the mender's weights.
+- Day 42 (Wed): Doss.
+- Day 46 (Sun): Dessa against the Blade fourth, watched; the tell confirmed.
+- Day 50 (Thu): **Dessa I, won**; the honest sort; the step; supper; letter to Hesk.
+- Day 51 (Fri): the old man's "Four"; the report; the board; the mender; the letter posted; the man off the west cart.
+- Late autumn, frost in the mornings. Cael is fourteen.
+
+**Bodies.**
+- Cael: right knuckles split and scabbing (Dessa); knuckles stung from four touches on her guard; hands shook after the bout and stopped. Older injuries: left forearm burn healed to a shiny pink patch that aches in the cold; Petra's hip and lip healed; ribs and shoulder healed.
+- Dessa: jaw hinge, "it would keep"; her legs failed twice before she conceded.
+- Doss: bad right knee (old).
+
+**Knowledge.**
+- Cael knows:
+  - the pin and the man's route;
+  - Torvin's four in eleven years;
+  - the girls' "dogs" (*h*);
+  - the old man's "Wonder what changed", and his "works once… find another";
+  - the seller's three sentences: the man was locating a lodger with letters going west to Denvash, and he got Torvin's from the carriers' clerk;
+  - that the man asked nothing about the yards;
+  - that Torvin's earlier man asked for "the circuit kid", and whether they are one man or two is unknown;
+  - Dessa's frame and its late foot, which can be made to come early;
+  - the circle's long side, and that it is now spent;
+  - Doss's past (Bronze once);
+  - the four instances, written;
+  - Hesk's guild review: "It may be months".
+- Cael does not know: who sent the man; who the man off the west cart is (he did not note him); what Vell's private lines say.
+- Lira knows that he has been "counting from the wrong place" and has stopped. She has heard "Borrowed" set down and has the promise. She does not know the four, or the list.
+- Vell knows Dessa's result and has the note and the "Atypical" margin. She knows three people told her of the pin; she has not connected the pin to the boy on the page.
+- Dessa has been read, knows "nothing to register", and wants to watch him from the benches.
+- Marrow has noticed that the yard is starting to come for Cael, and has paid out twice on him.
+- The district: some of the rope and a man at the board know his name, "something like that".
+
+**Resources.**
+- Pouch: less about four days' rent paid to the information seller (day 37). Torvin's weekly rent continues (payment not shown). The mender's two afternoons continue (Monday and Wednesday shown).
+- **The Log.**
+  - Front: entry 6 Dessa (won), with the fourth exchange struck through and marked *back*. Margin facts: the pin, Torvin's four, the dogs, the old man, the seller with its cost, Doss's "don't hurry her".
+  - Four Dessa pages, ending *What is she waiting for?*; the late foot underlined.
+  - Lira's reports from days 36–51.
+  - Back: *What changed: me.*; *Second instance*; the struck *Two instances is a pattern…*; the four, numbered; the shared features; "I don't know".
+  - The torn Renn page, finished in tonight's hand, now kept inside the Log's back cover.
+- The old Denvash notebook still holds the cart page (read again, unchanged).
+- Letters:
+  - Hesk's second letter received (day 36).
+  - Cael's pin letter posted day 37 (arrives about day 44).
+  - Cael's Dessa letter posted day 51 (arrives about day 58).
+  - Hesk's reply to the pin letter is due about days 51–52 and has not arrived ("nothing come back for you yet").
+
+**Fragments and progression.**
+- No fragments and no notices; the Arbiter is not reached for.
+- Circuit: **unrated, 1–4** (Renn L, Brenna L, Amrit L by concession, Petra L, **Dessa W**, Cu5 Stone, fourth exchange, conceded from the dirt).
+- Marrow's over/under on him was 5.
+- **Instance count as logged: four**, written in order (cart, Renn, drop, Dessa). The column's "second instance" is kept and struck through, so the honest sort is on the page. "Borrowed" is Lira's word, a guess about a feeling; there is no mechanism and no theory.
+- No name in Vell's ledger: the formal line still reads *Unrated (14; nothing to register; vouched, L.)*, and the board reads *unrated (vouched)*.
+
+**Relationships.**
+- **Lira:**
+  - She gives the morning reports, which never contain a ruling.
+  - She kept the "watch you watch her" deal.
+  - She offered "Borrowed".
+  - The **promise** stands: when he knows, she is first, before Hesk.
+  - She means to measure the groove with string.
+- **Hesk:** the lag is felt both ways. Cael answered "what she's like". Four things are now untold. Cael has recorded that he is keeping them, and that he made the promise to Lira.
+- **Vell:**
+  - "Atypical", a private tally.
+  - The recommendation note.
+  - Dessa chosen.
+  - She refused Marrow's match.
+  - "Not this Sunday".
+- **Renn:** on the upriver barges for about three weeks. Renn II is held "till the turn of the month after" (about day 60–68), which **keeps it for Movement 6**. He has been making the theatrical claim that he taught Cael.
+- **Dessa:** "No. Not yet." She wants to watch from the benches, "then we'll talk" (Dessa II, M8). She gives water first and never looks at the crowd.
+- **Doss:** a nod; "don't hurry her".
+- **Torvin:** the near-speech. **Torvin's wife:** won her bun back. **The boots woman:** "heron".
+- **The old man:** "Four"; the long side.
+- **The mender:** reported the pin at his door; "Something worked."
+- **The errand boys:** the wager is paid; a pie.
+- **Brenna:** a nod. **Amrit:** double bread ("decided you're his").
+- **Marrow:** paid out twice on him; offered Vell a Fenrow man; watching.
+
+**Open threads.**
+- Added:
+  - the man off the west cart (thin case, about forty, collar up, to the post);
+  - whether Torvin's "circuit kid" man and the pin man are one man or two;
+  - the carriers' clerk as a leak;
+  - Dessa's "What is she waiting for?";
+  - the long side now spent;
+  - Lira's string;
+  - Vell's twelfth "atypical";
+  - Hesk's reply to the pin letter, due about day 51–52.
+- Carried:
+  - Renn II (M6);
+  - Dessa II (M8);
+  - Yeni's favour;
+  - the old man's yard time;
+  - the guild review;
+  - Marrow.
+- Closed:
+  - the errand boys' wager;
+  - the torn Renn page, now written and filed;
+  - "tonight's answer". He has told Lira he was counting from the wrong place, though not what.
+
+## New canon minted (flag for approval where marked)
+
+1. **The post**: the district's only Compact building, a squat brown building at the head of the fish steps with a notice board nobody reads. *Flag.* It can carry Halvern's post in M5.
+2. **The pin man**: middle height, a brushed grey coat mended at one elbow, a small black book with a strap, ordinary dark boots. Unnamed and unidentified.
+3. **The information seller's answer**, as above: local knowledge only, nothing about flags. *Flag* the detail that the carriers' clerk told him "Torvin's".
+4. **Vell's "atypical"**: her private word, eleven before Cael and now twelve, tallied inside the back cover. **Her successor habit**: private lines are written as recommendations to whoever keeps the book next. *Flag.*
+5. **Vell's custom made operational**: the board card. A name goes on the card (and so into the book) when people ask for the fighter by name.
+6. **Doss**: canon name. In this edition he is a Torvin's boarder behind the low brown door, a night watchman at the river warehouses, with a bad right knee, once Bronze in Vell's book for a season and a half, about fifty, with a flattened face and scarred knuckles. *Flag* the physical detail.
+7. **Dessa**: about twenty, a small white scar through one eyebrow, hair tied tight, top of the Cinder House's Sunday cards all season. Stone at Copper is rendered as grit lying flat, forearms like a gatepost and a re-formed frame that costs breath. Her habits: the count at her mark, the reclaiming sweep, giving water first.
+8. **Sunday benches**: three plank rows on trestles along the shaded wall, a small coin a place.
+9. **The Cinder House groove's long side** (from ch 10) used tactically. The old man says it is now spent.
+10. **Lira's one strike**: two weeks at the post, short and straight from the hip, "one strike he owned".
+11. **Fenrow fighters**: "the Fenrow Iron" (Cu 3) and a Fenrow Ember woman, both unnamed. The Blade fourth Dessa beats on day 46 is unnamed.
+12. Hesk's letter adds Alis at the healers' on Merchant Row. *Flag*: BOOK_MAP lists this as material for a Hesk cutaway in M6. Here it is one line in a letter.
+
+
+Repair r1 changes that alter state or canon:
+- Cael has fought FIVE bouts (one win, over Dessa). Dessa's tell: her back foot comes down late, a half beat after the rest of her frame is set; Cael noted it in the margin on her first Sunday (ch24).
+- Ch23, day 38, on the cooper's roof: Cael tells Lira the information seller's three sentences (the carriers' clerk told the man "Torvin's"). He decides to KEEP posting at the carriers' hut on purpose — same day, same bag, only the address outside — because they have Torvin's already, changing habit would be the loudest tell, and a carter could lose a letter. Lira: "That's cold. It's also right. I don't like it." He wrote the decision down. Ch27: the clerk says "Torvin's. Isn't it." — Cael: "Yes."
+- Marrow's Fenrow man is "rated a tier higher" (not "Iron-rated").
+- Approved canon: "the post" (the one Compact building Cael knows of, at the head of the fish steps); Vell's private "atypical" tally and her notes written to her successor; Doss's details; Alis at the healers' (Hesk's letter).
+- Open by design: the day-51 man (Movement 5 claims him as Coss); one man or two; Hesk's reply due ~day 51–52; Renn II held "till the turn of the month after" day 38.

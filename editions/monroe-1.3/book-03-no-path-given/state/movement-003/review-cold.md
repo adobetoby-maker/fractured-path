@@ -1,0 +1,131 @@
+# Cold read — Book 03, Movement 003 (Chapters 17–23)
+
+**Review type:** fresh-context *simulated* cold read. One model (Claude Fable 5.1) read the seven chapters and the rubric only — no canon, no plan, no drafting history, no earlier chapters. This is a single editorial read, not an audience measurement. Where I report a contradiction below, it is an *apparent* inconsistency inside the supplied text; I had no project evidence to verify canon against.
+
+**Coverage:** 7 chapters supplied in declared order (17 Three Audiences, 18 Odds, 19 The Observer's Floor, 20 Witness, 21 Read Back, 22 Weather, 23 Better Your Hand). I read every line. The movement is complete as a movement.
+
+---
+
+## 1. Unscored reader response
+
+**Am I oriented, arriving at chapter 17?** Yes, within about two pages, and that is a real achievement for a mid-book entry. The Brom bench conversation ("It's a very good petition." / "That's worse.") tells me everything I need: a student named Edran has filed a formal petition questioning Cael's enrollment; Cael thinks it is right except for one thing; there is a board where such things are posted. By the end of Naveth's office I know the institution (provost, assessor, instructor, a provision, a Compact down the hill holding sealed records), and by chapter 18 I know the shape of Cael's secret (four "fragments," each named for a person, held in a binder). Things I did *not* understand and could tell were deliberate plants from earlier: "the dot" Lira takes out; "session nine"; "the stranger's note"; Gerda's "other place"; what exactly "the request" was. None of these blocked me. "Wind-adjacent," "the framework," "the read," and "the Compression fragment" took me until mid-18 to sort into four separate things, but the chapter does the sorting on purpose.
+
+**Where interest caught.** Three places, sharply.
+- Chapter 17, Edran on the open floor: "Don't tell me." A rival refusing a confession because he wants the floor to answer, not a man's word. I sat up. This single scene made the bout matter morally rather than just tactically.
+- Chapter 18, the archive: "*Tires in the sequence, not the body.*" The moment a dry ledger line turns into a hypothesis. From here I was reading to find out whether the sliver was real.
+- Chapter 19, "A fourth." Edran asking for another exchange with the gap still open in him, and then *closing half of it on the walk back to the mark*. The best beat in the movement. Wray's warning in 17 ("find it twice") paid in full.
+
+**Where it slipped.**
+- Chapter 17, Naveth's office. The three-speaker structure is clear, but it is ~120 lines of institutional reasoning before "Against Edran." I understood every word and was waiting.
+- Chapter 19, the fight mechanics in exchanges 2 and 4. I could not build one consistent model of how many Glass structures Edran can hold, on which arm, and where the gap therefore sits (detail in §4 and the repair brief). I followed the *drama* without trouble; I lost the *physics*.
+- Chapter 21, the calendar. "By the second Tuesday after the exhibition" → "On the first Tuesday" (flashback) → the second Tuesday → "the Thursday" → "On Wednesday evening." I had to stop and decide that the Wednesday was the *following* week.
+- Chapter 23, after the wall. Eight codas in a row (Brom's porridge, Karis's handwriting, Quenna's fair copy, Hesk's letter, the calendar, Gerda, Lira drilling, the letter to Hesk). Every one is good. Together they run long, and the Quenna beat re-says Naveth's "dullest paragraph" line almost verbatim.
+
+**Which person matters.** Edran, unexpectedly. He enters as the antagonist and leaves as the most honest person in the yard, and the book knows the difference between a witness and a friend. After him, Lira (the frozen-wall arithmetic) and Oona ("Ask him. Not me.").
+
+**Which event I expect next.** Lira's re-certification in nine days, with Gerda's the morning after — and Cael trying, for the first time, to *aim* a thing he has always received. Karis's "something with more structure" is clearly going to collide with clause five.
+
+**Would I continue?** Yes, without hesitation. I would start chapter 24 tonight.
+
+---
+
+## 2. Lens A — a fluent thirteen-year-old reader
+
+Scores are 1–10 (5 = understandable but inconsistent; 7 = engaging with located weaknesses; 9 = compelling with few distractions). Confidence is my confidence in the score, not in the reader.
+
+| Dimension | Score | Location | Reason | Confidence |
+|---|---|---|---|---|
+| Opening pull | 7 | Ch17 §1, "He was the last one into assembly, and everybody in the room knew why." through Brom's "That's worse." | Immediate social dread a thirteen-year-old recognizes (walking into a room that has been talking about you). Lira's two-finger circuit sign gives a concrete reason to care before any explanation. Loses a point because the office scene that follows is long before the bout is named. | High |
+| Keep reading | 8 | Ch17 close ("I owe him the floor."); Ch19 close ("And Edran."); Ch21 close ("a floor had given way... Even them. Even her."); Ch22 close ("He went out... into the cold.") | Four of seven chapters end on a hard hook. Ch18 ends soft ("He slept better than he had all week") but the bout is next, so it costs nothing. Ch23's hook (Lira's line on the calendar, nine days off) is quieter than the others. | High |
+| Interest / freshness | 8 | Ch18, "Most people practise catching. You're practising dropping."; Ch18, the tout ("I'll put a crust on you myself."); Ch21, Karis reading back his own words. | Winning a fight by *placing a palm* and training to *not use* a power are genuinely new angles for this reader. The tout and crust-wagering make the school feel like a real place. | High |
+| Clarity / flow | 6 | Ch19 exchange 2 (Lira's POV) and exchange 4 ("So Edran had stopped forming on the same forearm"); Ch21 chronology ("the Thursday" → "On Wednesday evening"); Ch21 hypothesis speech ("upstream of everything else... directable"). | A thirteen-year-old follows the *story* of the fight (tiny bare moment, Cael steps in) but cannot track which arm has what in exchanges 2 and 4. The week in 21 reads backwards unless you infer "next week." The hypothesis needs two passes; the stable-floor image afterward helps. Transitions elsewhere are clean. | High |
+| Character attachment | 9 | Ch17 open floor, "Don't tell me."; Ch18 board, Oona: "It's yours. You get to say it. Not me."; Ch19, "Ask him," said Oona clearly, in a voice that carried three rows. | Every character wants something specific and shows it by action. Oona is the reader's proxy and is never patronized. Edran's refusal and withdrawal make him admirable without softening him. | High |
+| Humor / warmth | 8 | Ch18 tout; Ch20 "I'm always serious." / "That's why it worked."; Ch22 "Hints are cheating."; Ch23 "It's very annoying in a man you've never met." | Humor is character-grounded and lands on timing, not jokes. Warmth is physical (bread pushed across, hand on shoulder) rather than stated. | High |
+| Action / suspense | 8 | Ch19 exchanges 1–4; especially "He put his right palm flat on Edran's breastbone." and "A fourth." | A fully trackable contest with adaptation on both sides and a real cost (graze, raked ribs). Length is earned — nothing here should be shortened. The arm-assignment muddle costs this reader less than the adult because they read the gist. | High |
+| Progression payoff | 9 | Ch18 "He found the seam on the fourth morning." → Ch19 "He had decided six mornings ago."; Ch18 "Catch four. Drop the fifth." → Ch19 "He gave it nothing." | Six days of study visibly produce the win; six nights of practising the drop visibly produce the restraint. Cause and effect are on the page. | High |
+| Connection | 7 | Ch17 Wray: "he always presses with a crowd" → Ch19: "Hobb had said he always pressed with a crowd"; Ch20 Naveth: "tonight Quenna will copy the record" → Ch23 Quenna: "Copied into the ledger last night." | Plants are carried beautifully (Wray's "find it twice"; the ledger line; Oona's "Ask him"). Two attribution/time slips a careful kid will notice. | Medium |
+| Read-aloud quality | 7 | Ch18 "Brom lowered himself... whose left wrist still remembered... The wrist he had misrouted into a fortnight ago... he flexed it" (two wrists, same pronoun structure); Ch21 "clause four... clause seven... clause five... clause six" in one scene. | Dialogue attribution is clean and cadence is strong. Referents occasionally stack (whose wrist?), and clause numbers pile up faster than a listener can hold them. | Medium |
+
+---
+
+## 3. Lens B — an adult genre reader
+
+| Dimension | Score | Location | Reason | Confidence |
+|---|---|---|---|---|
+| Opening pull | 8 | Ch17 §1 and Naveth's "I can't dismiss it... I can't grant it... Doing nothing is a decision." | The adult reader enjoys the institutional chess and reads Naveth's three-finger speech as character, not exposition. "Winning at a chosen size" tells me the whole book's thesis in four words. | High |
+| Keep reading | 8 | Same hooks as Lens A; plus Ch20, "He put the word away somewhere careful" (witness) and Ch21, "She almost asked him something on the Thursday." | Pressure is layered: public bout, then private hypothesis, then the self. Each chapter close converts one pressure into the next. Ch23's long diminuendo is the one place pressure visibly leaks. | High |
+| Interest / freshness | 9 | Ch18 archive ("*Tires in the sequence, not the body.*"); Ch21 the "Not asked" page; Ch22 "Or is something behind my eyes looking at it like a hand looks at bread?" | A magic-school rivalry resolved by *patience* rather than power; a research ethics subplot with actual consent mechanics; a hero's horror at discovering his gift might be appetite. Specific people making specific choices throughout. | High |
+| Clarity / flow | 6 | Ch19 ex.1 ("The first shell was up on Edran's left forearm... the edge rose along... his right forearm a breath behind it") vs ex.4 ("Glass could not form on a forearm that still had glitter on it. So Edran had stopped forming on the same forearm."); Ch19 ex.2 ("the edge on the left forearm now... nothing on Edran's left forearm at all... the third edge came up on the right"); Ch21/23 calendar. | Exchange 1 shows Edran holding two structures on two arms at once. Exchange 4 presents forming on the other arm as the innovation. Exchange 2 already has the third coming up on the other arm while the gap is described on the bare one. A reader who models the system — and this book invites exactly that reader — cannot make all four exchanges and the ch18 drill obey one rule. Separately, the ch21 week order and the ch23 "week on the board... two days ago" arithmetic do not square with "the second Tuesday after the exhibition." | High |
+| Character attachment | 9 | Ch20, "Whatever you are, it's real. I withdraw the petition."; Ch21, Brom's "FETCH DRILL. HOBB. DAYS 1–24. ... NOT PROOF. ONE COLUMN. GOING DOWN."; Ch23 Lira, "It isn't generous. It's arithmetic." | Agency and vulnerability in every principal. Edran is given the dignity of not becoming a friend. Brom's column of numbers is the best quiet character beat in the movement. | High |
+| Humor / warmth | 8 | Ch18 "That's either very good or very strange."; Ch19 Lira "which she considered a personal triumph"; Ch20 tout "Nobody on the Edge floor will speak to me for a week. It's wonderful." | Dry, timed, never undercutting the stakes. Gerda's "Correctly" as a complete answer is exactly the right amount of withheld. | High |
+| Action / suspense | 7 | Ch19 exchanges 1–4 | The architecture is excellent — question-asking strikes, a bought graze, the gap, the mid-bout adaptation, the half-formed edge raking the ribs. Length is earned; do not cut a line of it. The score is held to 7 only by the arm-assignment inconsistency above, which breaks the adult reader's model mid-climax. With the rule made consistent this is a 9. | High |
+| Progression payoff | 9 | Ch18 "Catch four. Drop the fifth." → Ch19 "He gave it nothing."; Ch20 "Showed the framework and nothing else... It's getting quieter to do."; Ch21 the felt post, "Something before the shift." | Capability changes are measured (five of ten; twice out of twenty) and have stated costs. The restraint itself is treated as a trained skill with its own curve. | High |
+| Connection | 7 | Ch19 "Hobb had said" (it was Wray, Ch17); Ch19 "watched Karis lay six points on her second afternoon" vs "She had laid nine points on that boy three weeks ago"; Ch21 "Karis had never seen the binder" vs Ch23 Karis judging his handwriting size "before the request" after glancing at the open binder; Ch20/Ch23 ledger-copy timing. | The movement's internal plants are carried with unusual care (Wray's twelve words counted in Ch20 and named in Ch23; Oona's "third row"). The slips are small but there are four of them, and this reader counts. | Medium |
+| Read-aloud quality | 8 | Ch19 "like a wet finger round the rim of a cup"; Ch22 "He had been living inside the entries instead of holding them at arm's length." | Cadence is the manuscript's strongest technical asset; the binder entries read aloud as a distinct register. Minor referent stacking (the two wrists) and the clause-number pile-up in Ch21 are the only snags. | High |
+
+---
+
+## 4. Consistency check (apparent only — no canon supplied)
+
+I had no canon, plan, or earlier chapters, so every item below is *apparent inconsistency inside the movement*, not a verified canon violation. Where a reading exists that reconciles the text, I say so.
+
+**Physical state — consistent.** Left-forearm graze (Ch19 ex.2) and right-rib rake (Ch19 ex.4) are carried through Lira's and Wray's inspections (Ch20), the stair (Ch21), "woke with his right side aching" (Ch22), "the line across his right side" (Ch23), and the letter ("a cut on the arm and one on the ribs"). The Reydan shoulder is referenced consistently (Ch18 drills, Ch21, letter). Brom's left wrist (Ch18) is consistent with the "knock" going home into it.
+
+**Power limits — consistent.** Quarter-Compression costs "the hot bar across the collarbones and two breaths"; half costs "four breaths and a locked shoulder" (Ch18); Lira: "I know what half a push costs" (Ch23). The drop costs "none that I could find." The fragment wakes for a shell on the guard (Ch19 ex.1) and is given no road, exactly as rehearsed.
+
+**Knowledge boundaries — one soft question.** Naveth: "I don't know what. I don't want to know what." (Ch20) — consistent. Karis is explicitly said to have never seen the binder (Ch21: "Karis had never seen the binder... She did not know about Feryn..."). In Ch23 she glances at the open binder and says his handwriting is back "to about the size it was before the request." She could know his hand from the clause document or from his initials on her pages, and she could know of the request from Quenna, but the text does not supply either, and the two moments sit close enough to raise the question. Low confidence that this is an error; medium confidence that a careful reader pauses on it.
+
+**Reserved disclosures — handled well.** "Session nine" (Ch22: "He turned past it without stopping, as he always did, and added nothing to it"), "the stranger's note," and Gerda's "other place" ("folded along a crease that was already there") are visibly withheld, not accidentally omitted. A cold reader reads them as promises.
+
+**Apparent slips (with locations):**
+1. **Ch19 ex.1:** "Hobb had said he always pressed with a crowd." In the supplied text the line is Wray's (Ch17: "He will press early, because there will be a crowd, and he always presses with a crowd"). Hobb says nothing in this movement except "Didn't hurry." If Hobb said it in an earlier chapter, this is plan adherence I cannot see; inside the movement it reads as misattribution.
+2. **Ch20 → Ch23 ledger timing:** Naveth (bout day): "tonight, Quenna will copy the record of this morning into the ledger in her best hand." Quenna (~9+ days later): "The third sitting's record. Copied into the ledger last night." Then: "He told me the same thing... at the sixth bell, standing in my doorway" — which only makes sense on bout day. One of the two statements needs to move.
+3. **Ch21–23 calendar:** Ch21 opens "by the second Tuesday after the exhibition," then sequences Thursday → "On Wednesday evening" (hypothesis) → Ch22 Thursday (clause four) → Friday ("Two days after Karis says it might be aimable") → Ch23 Saturday. That places Ch23 at roughly 16–18 days after the bout. But Ch23 says the petition papers "had come down from their brass tacks two days ago, after their week on the board," which places Ch23 at roughly day 9. "Their week" may be loose, but a reader tracking days will feel the week fold.
+4. **Ch19 Karis's bout with Edran:** the rotating seat "had watched Karis lay six points on her second afternoon"; later Lira thinks "She had laid nine points on that boy three weeks ago." Reconcilable if these are two different bouts, but Ch18 has Karis say "I fought him. Three weeks ago" and the second-afternoon bout is the only one described. Low-medium confidence.
+5. **Glass structure rules (Ch18 drills; Ch19 ex.1, ex.2, ex.4):** see repair brief, Priority 1. This is the one that matters to the climax.
+
+---
+
+## 5. Notes by chapter (brief)
+
+- **17 Three Audiences.** Strong entry for a mid-book reader. Office scene is long but every speaker is doing something. "Don't tell me" is the movement's moral hinge. Oona's "It's not a words one" lands.
+- **18 Odds.** The best-constructed study chapter I have read in this genre in a while: the Path's grain → the man's habit → the ledger's line → the fourth-morning seam → confirmation from three directions → *not training against it* for a reason. "Practising dropping" is the thematic key, placed exactly where it should be.
+- **19 The Observer's Floor.** The POV handoff to Lira for exchange 2 is a good choice (we see the bought graze read from outside), and the return to Cael for 3 and 4 is clean. The fight's architecture is superb. Its physics have a seam of their own (Priority 1).
+- **20 Witness.** "Whatever you are, it's real." Perfect economy. Wray's "You chose a small fight" is the right first non-instruction she has ever said. The Karis chart scene and "You could have asked me first" / "Leave it" are mature and quick.
+- **21 Read Back.** The felt-post experiment, the read-back, and the "Not asked" page are the movement's freshest material. The hypothesis is delivered with exactly the right hedging. The chapter's internal calendar needs one orienting phrase.
+- **22 Weather.** The binder read backwards is a genuine structural idea executed cleanly. The Oona scene (afraid to look; relieved she has nothing to take; "which was worse") is the bravest beat in the movement and it is earned. Brom's "She said *aimable*. She didn't say *hungry*. You supplied that part yourself." is the right counterweight and the chapter correctly refuses to let it close the question.
+- **23 Better Your Hand.** The wall scene holds. "It isn't generous. It's arithmetic." After it, the chapter is all landings; each is good, the sum is long, and the Quenna beat repeats Ch20. "I mended the bench you used to sit on" and Lira's shoulders dropping "by about an inch" are the two codas I would protect at any cost.
+
+---
+
+## Repair brief
+
+Three priorities. None of them shortens the fight. Retain the developed action throughout chapter 19 as written; the fixes below are to rules, dates and attributions, not to scene length.
+
+### Priority 1 — Make the Glass structure rule consistent across Ch18 and all four exchanges of Ch19
+
+- **Location:** Ch18 §"He spent the six days on Edran" (the drill paragraphs: "The second came up out of the glitter of the first"; "He found the seam on the fourth morning"); Ch19 exchange 1 ("The first shell was up on Edran's left forearm... and the edge rose along the outside of his right forearm a breath behind it"); exchange 2, Lira POV ("the edge on the left forearm now, the first shell burst and gone... nothing on Edran's left forearm at all... Then the third edge came up on the right"); exchange 4 ("Glass could not form on a forearm that still had glitter on it. So Edran had stopped forming on the same forearm.").
+- **Observed issue:** The text never states how many structures Edran can hold at once or whether the gap is per-arm or per-sequence. Exchange 1 shows two structures up on two arms simultaneously. Exchange 2 has the third edge come up on the *other* arm from the bare one, which under the exchange-4 explanation should have removed the gap. Exchange 4 then presents "forming on the other arm while the previous still stands" as the innovation. A reader who models the system (and chapters 18–19 train the reader to do exactly that) cannot reconcile these.
+- **Effect on the reader:** The thirteen-year-old follows the gist and loses little. The adult genre reader loses the model at the climax and spends exchange 4 re-reading instead of feeling the half-formed edge rake the ribs. It converts the movement's best beat into a puzzle about arms.
+- **Proposed scope:** State one rule once, in the Ch18 drill observation, and make the four exchanges obey it. The cleanest candidate already implied by the text: *one structure per forearm; a structure must burst before a new one can form on that forearm; Edran's habit is to run a sequence on the active arm (form–burst–form), which is where the sliver lives; in exchange 4 he breaks the habit and calls the third on the idle arm while the second still stands.* Then adjust exchange 2 so the second burst and the third form on the *same* arm (so the gap Lira sees is the one Cael is actually buying), and tweak exchange 1 so the shell and edge are both pre-called before motion (the "held breath"), not formed mid-sequence. Roughly a dozen clause-level edits; no scene shortened or restructured.
+- **Strength to preserve:** The fourth-morning discovery, the bought graze, "He put his right palm flat on Edran's breastbone," "A fourth," and the thin pale edge that still rakes him. All of it stays.
+
+### Priority 2 — Pin the calendar and the two attributions across Ch19–23
+
+- **Location:** Ch19 ex.1 "Hobb had said he always pressed with a crowd" (Wray's line in Ch17); Ch20 Naveth "tonight, Quenna will copy the record" vs Ch23 Quenna "Copied into the ledger last night" and "He told me the same thing... at the sixth bell"; Ch21 "by the second Tuesday after the exhibition" → "the Thursday" → "On Wednesday evening"; Ch23 "had come down from their brass tacks two days ago, after their week on the board" vs "nine days off" and Brom's "DAYS 1–24"; and (low confidence) Ch19 "six points on her second afternoon" vs "nine points on that boy three weeks ago."
+- **Observed issue:** Four small continuity slips cluster in the second half of the movement. Individually each is a one-word or one-phrase fix. Together they signal to a careful reader that the calendar was not held.
+- **Effect on the reader:** Mild distrust at exactly the point where the movement asks the reader to trust its ledgers, timings and "arithmetic." The book's own thematic insistence on exact record-keeping makes these slips cost more than they would elsewhere.
+- **Proposed scope:** (a) Change "Hobb had said" to "Wray had said" or make Hobb's rail-nod in Ch18 carry a spoken line. (b) Either have Quenna copy the record on bout night (Ch20) and hand the fair copy later with "copied the night of," or move Naveth's doorway remark to "last night." (c) Add one orienting phrase at Ch21 "On Wednesday evening *of the following week*," and reconcile Ch23's "two days ago, after their week on the board" with the actual elapsed time (e.g., "after their fortnight on the board," or drop "two days ago"). (d) Decide six or nine. Total scope: five or six phrase-level edits.
+- **Strength to preserve:** Wray's twelve words counted in Ch20 and named in Ch23; Oona's "Ask him" in Ch19 and "I heard you, in the third row" in Ch20; Brom's "Seven" carried from Ch18 to Ch21 to Ch23. The movement's plant-and-pay discipline is excellent; this priority is about matching the rest of the text to that standard.
+
+### Priority 3 — Tighten the Ch23 codas without losing any of their content
+
+- **Location:** Ch23 from "Brom was at the stable table at the first bell" through "We'll find out what the floor thinks." Specifically the Quenna stair beat ("It's dull." / "It's very dull." / "Naveth told you." / "He said it was the dullest paragraph he'd ever wanted to read." / "He told me the same thing, at some length...").
+- **Observed issue:** After the wall scene the chapter runs eight consecutive landings. Each is well made. The Quenna beat repeats Naveth's Ch20 speech nearly word for word, and the handoff of the fair copy restates information the reader already has (Wray's twelve words, the rotating seat's sentence, "Assessment satisfied"). The movement's last movement is a long, flat glide.
+- **Effect on the reader:** The thirteen-year-old skims to the calendar. The adult reader feels the earned quiet go on one beat too long, and the "dull paragraph" repetition reads as the manuscript reminding itself rather than the reader.
+- **Proposed scope:** Compress the Quenna beat to its new information only — she hands him the fair copy because "You've read every other page of your own record before anybody else has... I didn't see why the academy's should be the exception" — and cut the restatement of Naveth's line. Consider folding Karis's "Your handwriting's back" into the same morning as Brom's porridge (it already is) and letting it be the only Karis beat. Do not cut Hesk's letter, the calendar, Gerda, Lira drilling, or the letter back. Net: perhaps 25–40 lines lighter, no scene removed.
+- **Strength to preserve:** "I mended the bench you used to sit on"; Lira's shoulders coming down "by about an inch" a half-second after the board; Gerda's "The procedure is very clear. It doesn't care whether I'm ready. That's what's good about it." and "I used to have it."; the final two binder lines.
+
+---
+
+*Simulated cold read, one model, manuscript-only. Scores are editorial judgments, not calibrated measurements, and the two lenses should not be averaged into a release gate.*

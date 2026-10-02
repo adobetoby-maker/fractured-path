@@ -44,3 +44,8 @@ A designation where there was only a dark place, a word he has not said to Lira,
 
 - Vell knows him only as "Just Cael" (Movement 2). Unless STATE_LEDGER shows it has already happened, she must learn "Hesk-ward" in
   Movements 5–9, on the page, before Darrow's ledger line names "Cael Hesk-ward".
+
+## Coordinator note (Movement 4 review, 2026-10-01)
+
+- Alis at the healers' was already said in Hesk's Movement 4 letter; the cutaway shows it rather than re-announcing it.
+- Renn II: Vell held the rematch "till the turn of the month after" day 38; if it lapsed, Cael asks again — a rebook, not a trap.

@@ -1,0 +1,265 @@
+# Chapter 26 — The Honest Sort
+
+The yard did not let go of him for some time.
+
+People he had never spoken to came up to him at the rope, and said things, and went away again before he had worked out what they had said. A man he did not know shook his hand, hard, and told him he had had him at the over and had not expected to be paid on the other thing as well. A woman told him he was too thin. One of the girls from the wall in the lane of yards came past and said, "Brenna's furious," with enormous satisfaction, and was gone.
+
+Brenna herself did not come near him. But when he looked across the yard she was standing by the gate with her friends, red-faced, and she was looking at him. She gave him one short nod, the kind you give across a street to somebody you have decided you will have to take seriously, and turned away.
+
+He found the errand boys at the gate.
+
+They were not running. He had never seen either of them standing still before, and it changed them. They looked younger than they did at a sprint, and smaller, and they were standing closer to each other than he had ever seen them stand. The one with the brother in the carters' was counting coins out of a little cloth purse into the other's palm, one at a time, with a face like a slammed door.
+
+The boy in the red cap had his hand held out flat and his eyes on the coins, and he was not saying anything at all, which Cael suspected was costing him more than anything he had ever done.
+
+The last coin went into the palm. The boy in the red cap closed his fist on it. Then he looked up and saw Cael, and his whole face came open like a shutter.
+
+"*Two,*" he said. "I said two. Two more, I said, the night of the cook. And the girl with the freckles was one, and this was two." He held up the fist. "Two."
+
+"I said never," said the other boy, "and I'd say it again."
+
+"You'd lose again."
+
+"I'd *say* it again."
+
+The boy in the red cap was not listening. He was digging in his pocket with his free hand. He came out with something wrapped in a twist of greased paper, warm, and pushed it at Cael so hard that Cael had to take it or let it fall.
+
+"Pie," he said. "I bought it in the third exchange, when she went back off her mark. I knew." He looked at the paper in Cael's hands, and then at Cael, with great seriousness. "That's your share."
+
+He turned and ran. The other boy stood for a moment, looking at the empty purse, and then he ran too, after him, and they went off down the lane in the dark shouting at each other in exactly the old way, and the sound of it went round the corner and kept going.
+
+Cael stood by the gate holding a warm pie.
+
+"Eat it," said Lira, at his elbow. He had not heard her come. "Dessa told you to eat something. I heard her."
+
+He ate it. It was the pie woman's, two stalls along from the honest-weight man, and it was mostly gravy. He thought it was the best thing he had ever eaten.
+
+Along the rope Marrow was wiping his slate clean with the side of his hand, slowly, the whole of it. He looked up as he finished and saw Cael by the gate, and smiled the good smile, the one he knew the price of, and did not say anything. He did not need to. He had been paying out all along the rope for the last quarter of an hour.
+
+"Don't," said Lira.
+
+"I'm eating a pie."
+
+"Keep eating it."
+
+---
+
+She walked him back to Torvin's and did not say anything for the whole of the way.
+
+It was not the silence of the walk home after Renn, when she had been saving something up. He could feel the difference. She was not saving anything. She was simply walking beside him at his pace through the cold, with her hands in her pockets, while the questions stacked up beside her like crates on a quay. He could feel every one of them. She did not ask one. She had learned that after a bout he was a long way down, like a swimmer who has gone deep, and that anything she said before he came back up would go straight past him.
+
+At the door under the leaning O, she stopped.
+
+"Write it up," she said. "I'll be around."
+
+She did not say where. He went in.
+
+Yeni was on her cot with the lamp turned up and a shirt across her knee, and she looked up from the seam as he came in, which she did not usually do.
+
+"Well?"
+
+"Won."
+
+The needle stopped. It stayed stopped for long enough that he noticed it. Then it went on, in and out.
+
+"Took you long enough," Yeni said to the shirt. "Torvin's wife's won her bun back off the one in the boots. She had you at five. The boots had you at never." The needle went in. "She'll be impossible."
+
+He sat on the end of his cot by the window with the Log, and found that his hands had stopped shaking somewhere on the walk home, and that he had not noticed them stop.
+
+He did the front first. That was the rule.
+
+*6. Dessa. Copper R5, Stone Path. Won. Conceded, fourth exchange.*
+
+He wrote it in the three columns, as he wrote all of them, and kept it short. He had been inside it. He did not need it told to him again.
+
+*First exchange. Ruling: don't hit her guard. Hit the time it takes her to build it.*
+
+The second exchange took the most care, because it was about the cost of a frame that had to be built again every time it turned, and that idea would go beyond Dessa. Anybody who had to set themselves, Shield or Stone or Iron or anything else that stood still to be strong, would have to set themselves again when they turned, and every setting cost something, and a person who made them turn on his clock instead of theirs was spending their breath instead of his own. That was the kind of thing the Log was for. Ideas that went beyond the one fighter were the whole point of it.
+
+*Second exchange. Ruling: if somebody's strength has to be built, make them build it, on my clock. Then wait. The late foot came early.*
+
+*Third exchange. Ruling: a window that can be made is worth more than one that's given.*
+
+The third took more lines than the other two together all the same, because he wrote every step of it as he had made it, and when he had finished he read it twice.
+
+Then he allowed himself what he had paid for, and took his time over it. Two Sundays on a cold bench had turned into half a beat. Half a beat had turned into a strike, and the strike into the first time in his life he had walked out of a circle the winner. He had read her correctly. He had timed it correctly. He had been correct to go left. Every one of the three had been made out of watching and nothing else, and each of them had held under load, the way a bracket holds when every figure in it has been traced back to where it came from.
+
+He could walk anybody through that page, move by move, and every move had a reason, and every reason was his.
+
+Whatever the registry thought he was, that page was his.
+
+He sat with it for a while longer than he needed to.
+
+Then he came to the fourth exchange, and tried to put it in the columns, and could not.
+
+*Claim: in the fourth, when she advanced, I went across into the closing space and came out inside her frame.*
+
+That was true.
+
+*Evidence: I was there. Her jaw. She saw it. The yard saw it.*
+
+That was true too.
+
+*Ruling:*
+
+There was nothing to put there. He had not gone across. Something had gone across, and taken him with it, and put him down inside her frame with his strike ready. He could not do it again, and he did not know how it had been done, and a ruling that said *go across into the closing space* would be a lie, because he could not go across into the closing space. He did not even know where it had been until he was standing in it.
+
+He drew one line through the three lines, neatly, so that the words could still be read underneath, and beside them in the margin he wrote *back*.
+
+Then he closed the front of the book and turned it over.
+
+---
+
+The back of the Log opened at the page he had written on the night of the drop.
+
+*First instance.* And under it the morning in the grey half, the backhand going over, the coat. And the small box round *It wasn't mine*, which he had drawn so that he would know when he came back to it that he had meant it.
+
+He turned to a clean page and wrote, at the top:
+
+*Second instance.*
+
+He wrote it down as plainly as he had written the first. There was no decision in it and no warning. It was not the plan, and it was nowhere near the plan. It came the way you know the end of a sentence somebody else is saying, in a voice you cannot place. Afterward he was standing wrong, with his feet wide and his hips round too far and his weight on the wrong foot, as he had been after the drop: the coat again, the sleeves ending in the wrong place. He had reached for it, standing in the circle with the yard shouting, and there was nothing to reach for. It had left nothing behind.
+
+*Same in kind as the first,* he wrote. *Same arriving. Same coat after. Same nothing when I look for it.*
+
+He sat with the pencil, and then he wrote the only conclusion the two of them would carry.
+
+*Two instances is a pattern. A pattern wants a third before I lean my weight on it. So: watch, write it down, and don't guess.*
+
+He looked at it.
+
+It was a good sentence. It was the kind of sentence Hesk would have written about a spring that had failed its test twice, and it was careful and honest and it did not claim anything it could not prove. It had exactly the right amount of doubt in it.
+
+And it was not true.
+
+He sat on the end of his cot with the Log on his knee and the lamp hissing, and looked at the sentence, and knew it the way he had known the bracket would fail when the needle swung.
+
+It was not true because the column was not true. The column started at the drop because he had decided, on the night of the drop, sitting exactly here, that it would start there. He had decided it on purpose, knowing what he had left out, and he had written down that he knew. He had told himself it was better to start a column somewhere, knowing it was short, than not to start one at all. That had been right, that night. It had been the most he could do that night.
+
+But it was not that night now. Tonight he had written *Two instances is a pattern* under it, and the sentence did not know that it was standing on a column with its first two figures missing. Anybody who read it a year from now would think there had been two. He would think there had been two, himself, in a year, because he would have read the sentence so often that it had worn a groove.
+
+That was what sentences did. He had found that out at the pump on the first day of the Log, with a torn page. You put a true thing in at one end and a guess came out at the other, in the same coat.
+
+He put the Log down on the blanket, open.
+
+Then he reached into the pocket of his coat, which was hanging on the nail by the window. Down in the bottom of the inside pocket, behind the leather book, there was a fold of thin grey paper that had been there since the ninth day. He had felt it every time he put the coat on. He had never once taken it out.
+
+He took it out now and unfolded it.
+
+The creases had gone soft. The pencil had smudged a little where the folds crossed. It was the first page of the Log, the one he had torn out along the spine so that the binding would not loosen, and it said, in his own hand from the morning after Renn, with the ribs still hot:
+
+*Renn. Copper Rank 3, Blade. He opens with two probes, high and across, off the front foot. The true strike loads in his back heel about a quarter of a second first. I read the heel in the second exchange and he answered with the sweep. In the third I got out of the whole figure—*
+
+And then nothing, where he had stopped.
+
+He read it three times. Then he took the pencil and finished the sentence, under it, on the torn page, in tonight's hand.
+
+*—and I didn't do it. I didn't read the third cut. My eyes were still on his heel. My feet had already gone. Vell saw it. Lira saw it. Renn said it doesn't miss, and it missed. I said instinct. That stopped about a hand short of the truth, and I knew it while I was saying it.*
+
+He looked at that for a long moment.
+
+Then he reached under the cot for his bag and took out the third notebook from Denvash, the old one with nine pages left in it. He opened it from the back, to the page near the end that he had never let himself read again. There, in pencil, written in the dark on the night of Lira's question at the board, was the cart.
+
+*Day three. The road, the dip between the hedges, after midday. I was walking in the middle of the road. Then I was on the verge. Then a cart came round the bend behind me, fast, downhill. The hub touched my bag strap.*
+
+*I told the carter I heard it coming. I don't think I did.*
+
+He laid the old notebook open on the blanket beside the Log, and the torn page between them, and looked at the three of them in a row.
+
+Then he turned to the clean page under *Second instance* in the Log, and drew one line through *Two instances is a pattern* and the two short sentences after it, so that they could still be read underneath, and under the line he wrote what was true.
+
+*That's the column's count. It isn't the count. Here is the count, in order, all of it:*
+
+*1. The cart. Third day, the merchant road, the dip between the hedges. On the verge before the cart came round the bend. (Old notebook, back pages. Nobody saw. I only have my word.)*
+
+*2. Renn. Eighth day, the third exchange. Off the line before his third cut. Eyes still on the heel. (The torn page. Vell, Lira, Renn saw.)*
+
+*3. The drop. Twenty-eighth day, the grey half, Lira's step. Under the backhand. My counter taken out of my hands. (Lira saw. A mark in the dirt.)*
+
+*4. Dessa. Fiftieth day, the fourth exchange. Across into the closing space. (The yard saw. Her jaw.)*
+
+He stopped and read the four of them back.
+
+He had known the sum. He had done it in his head on the night of the drop, sitting here, and decided not to write it. He had thought then that writing it was the step that would make it real. He found now, with the four of them on the page in his own hand, numbered, that it had been real the whole time, and that writing it did not make it any more real than it was. It only made it honest.
+
+*Four,* he wrote under them. *Not two. I've known since the drop. I started the column late on purpose, and I wrote down that I was doing it, and tonight I nearly built a sentence on it anyway.*
+
+*What the four have in common, as far as I can see it:*
+
+*No decision. None of them was a thing I chose.*
+
+*Each one came at the exact moment, never early. Each time there was something coming at me that I couldn't have got out of by myself.*
+
+*Two of them (the drop, Dessa) left me standing in the coat afterward. Renn, I don't remember how I was standing. The cart, I don't know. Write that down: I don't know.*
+
+*None of them came when I wanted them to. None of them has ever come back when I reached for it.*
+
+*That's all I've got. That's all the evidence holds. I'm not going to write down what it is, because I don't know what it is, and anything I wrote would be a guess in the same coat as the facts.*
+
+He folded the torn Renn page along its soft creases, carefully, and laid it inside the back cover of the Log, where it would stay flat. He did not put it back in his coat. It did not belong in a pocket any more. It belonged with the rest.
+
+Then he sat for a while with the Log closed on his knee.
+
+He did not feel lighter, exactly. The four were exactly as heavy on the page as they had been in the corner. But they were on the page now, where he could see them and count them and turn them over, and not in the corner where he had to walk round them in the dark. He thought it was like the difference between knowing there was a stone in your boot and taking the boot off.
+
+The stone was still a stone. But you could pick it up and look at it.
+
+---
+
+He was much too awake for sleep. He went down the turning stairs and out by the street door, and found Lira on the step.
+
+She had her back against the doorframe and her knees drawn up, as though the step were a piece of furniture she owned and had been sitting on for years. The lantern over Torvin's door threw her shadow down onto the street, long and thin, and the leaning O above her head threw its own.
+
+He worked out that she had given him the time it took him to write up a bout, almost to the minute. She had probably counted it.
+
+"First win," she said. "How does it feel?"
+
+"Like a data point." He took the step under hers. "Five bouts, one win. The method works against a patient defender when the tell shows, and when you can make the tell come. That's one kind of fighter. It doesn't tell me anything about the other kinds yet."
+
+"Mm." She let it sit there a moment, not much impressed, and perfectly friendly about it. "And under the data point?"
+
+It would have been easy to stop there. He had stopped there before, under the lantern in the lane after Renn, with *instinct*. And in the grey half after the drop, with *I don't know*. Both times he had given her a true thing with its legs sawn short and let her decide whether to send the bill. Leaving it there was the practised thing and the cheap thing, and he looked at the dark street, and at the light from the lantern lying on the cobbles, and found that he did not want to pay that way any more.
+
+"I built the third exchange," he said. "Two weeks of building, and it worked exactly the way I'd made it to work. I can take you through it step by step, and every step has a reason, and every reason belongs to me. I'm proud of it. I paid for it." He looked at his hands, at the split knuckles on the right one. "The fourth wasn't that. The thing that ended it, going across, that wasn't in the plan. It wasn't anywhere near the plan. It felt less like something I'd built and more like something I'd—"
+
+He stopped, because the sentence had run off the edge of what he knew.
+
+"Borrowed," said Lira.
+
+She said it carefully, the way you put a cup down on a table in the dark. It was a word set down where he could reach it if he wanted to, and not pushed toward him.
+
+He looked at it from a few sides.
+
+"Maybe," he said. "I don't know yet."
+
+She nodded slowly, and did not push.
+
+That was the thing about her he had still not found a name for. She could go through a market like a thrown stone, and argue a pie man down to half his price for the pleasure of it, and tell him to his face that he was not a natural. And then, when it mattered, she could sit on a step and let a silence be exactly the size it needed to be, and not one inch bigger. They sat in the noise of the street for a while. A cart went by somewhere with its lamp swinging, and two doors down somebody was having an argument about a window. The district went on about its evening, and did not care what the registry said.
+
+And in that quiet he found the rest of it, ready to be said.
+
+"I wrote tonight that it was the second time," he said. "In the back of the book. And then I sat and looked at what I'd written, and it wasn't true, and I wrote down what was." He turned round on the step to face her. This part needed saying to her face. "I've been counting from the wrong place. On purpose. Tonight I stopped."
+
+Lira looked at him in the lantern light. He saw a question come into her face, and saw her look at it, and saw her put it down again, carefully, beside her, the way she had put down *borrowed*.
+
+"All right," she said.
+
+"I'm not going to guess what it is. Guessing's how you write the wrong thing in the book and then trust it because it's in the book." He made himself go on. "But when I know what it is, really know, you'll be the one I tell first. Before anybody. Before Hesk."
+
+Lira was quiet for a moment.
+
+"I'd have been very offended," she said, "if it had been anybody else."
+
+Then she smiled. It was the real one, not the one she gave strangers or Marrow, and it went all the way up to her eyes and stayed there. She bumped his shoulder with hers, lightly, the left one, the Renn one, which did not hurt any more. "It was a good fight, too. That's apart from all the rest of it. You did good work tonight, Cael. You spent those two weeks well."
+
+"Thank you."
+
+"Don't thank me. I didn't fight Dessa. I sat on the end of a bench and bit my knuckle." She stood up and held out a hand to pull him off the step. He took it, and she pulled him up, carefully, on his good side out of habit, though he did not have a bad side tonight. "Come on. Torvin's wife puts something on with real vegetables in it when somebody in the house has fought. If we're not in before the brothers, there won't be any."
+
+"I've had a pie."
+
+"You've had half a pie. That boy's pies are mostly gravy." She opened the door. "And you look like somebody who's just written something down that he's been carrying for a month and a half. That takes more out of you than the fight. Nobody tells you that either."
+
+He followed her in under the leaning O.
+
+On the stairs, going up to put the Log away before supper, he found that he was smiling, and had been for some time, and had not noticed when he started.

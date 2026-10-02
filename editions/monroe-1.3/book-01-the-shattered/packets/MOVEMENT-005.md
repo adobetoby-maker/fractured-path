@@ -43,3 +43,24 @@ Cael standing at the board with six weeks and a plan to make himself expensive. 
 
 - Vell knows him only as "Just Cael" (Movement 2). Unless STATE_LEDGER shows it has already happened, she must learn "Hesk-ward" in
   Movements 5–9, on the page, before Darrow's ledger line names "Cael Hesk-ward".
+
+## Coordinator notes (Movement 4 review, 2026-10-01)
+
+- **Claim the arriving man as Coss.** Movement 4 shows a man of about forty off the west cart
+  on day 51, collar up, flat case carried as if nearly empty, asking the way to the post — seen
+  only through Cael, who does not register him ("He would think about that afterward" promises
+  a recognition beat). Give that recognition. Day 51 puts the summons in weeks 8–9.
+- **Decide where Coss got the file** — the west carrier leans Denvash.
+- **Place Coss's office and Halden's archive on Unranked ground** consistent with "the post"
+  being the one Compact building Cael knows of (it is Cael's knowledge, not an absolute).
+- **One man or two stays open.** Movement 4 has a man asking at Torvin's for "the circuit kid";
+  the carriers' clerk told someone "Torvin's" (the house with letters west to Denvash). Coss's
+  file must not mention a "circuit kid" inquiry; this movement's "the circuit missed" may quietly
+  imply two men.
+- **Hesk's reply** to the sweep letter lands about day 51–52, inside Coss's arrival — use it.
+  No "being seen" wording (that is Hesk's Movement 9 letter).
+- **Vell's cutaway budget:** she has used ~5,300 of ~9,000 words (M2 1,930 + M4 3,343). Keep her
+  later cutaways (M7, M9) short.
+- **The old yard-owner** is at the top of his beat budget; save him for Movement 8's lesson.
+- **Alis at the healers'** is already said (Hesk's Movement 4 letter); a Movement 6 cutaway
+  should show it, not re-announce it.

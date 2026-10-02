@@ -1,0 +1,285 @@
+# Chapter 20 — Witness
+
+Edran did not walk away.
+
+Cael had half expected him to. He had expected, without ever quite letting himself think it, the thing that had happened once before in another city, on another floor. An opponent had beaten him there and then sat down beside him afterward wanting to know how the third exchange had worked, and that question had turned into the best friendship Cael had ever been given. Brom had done that. Some old, hopeful part of Cael had been waiting all week for a version of it. He caught himself waiting for it now, standing on the frosted earth with his ribs burning, and understood as he caught himself that it was a mistake. One ending did not have to look like another. This one was shaped differently, and he would have to let it keep its own shape.
+
+Edran stood in the middle of the ring and breathed. He was not breathing as hard as Cael was, because Glass did not tire the lungs the way Wind did; it tired something further in. But his hands had a fine tremor in them at his sides, and his face, which had shown nothing all morning, showed something now that was not anger and was not quite anything Cael had a page for.
+
+Then he turned, not to Cael but to the three chairs, and the yard began to go quiet again from the front backward, because people could see that he was about to speak.
+
+"For the record," said Edran.
+
+Quenna looked up from the ledger with her pen already in her hand.
+
+Edran turned back to Cael and looked at him across the two paces of swept earth with the flat, plain honesty of someone reading a finding off a page rather than conceding a fight.
+
+"Whatever you are," he said, "it's real."
+
+A breath. The yard was silent now, all of it, two hundred people and the first-years on the tool shed roof.
+
+"I withdraw the petition."
+
+Quenna wrote it down. Cael could hear the pen in the silence, every stroke of it. He watched her write, and watched the rotating seat turn his head to look at Edran with his mild old eyes suddenly not mild at all. He watched Wray, at the edge of the ring, give Edran the same single nod she had given Brom on the defensive floor and Cael after his first sitting, the nod that meant something had held when she leaned on it.
+
+Edran did not offer his hand. He did not smile, or sit down on the bench beside Cael, or ask how any of it had worked. He nodded once to Cael, the slow, deliberate nod he had given at the north gate and at the rail and at the end of every question he had ever set down, and then walked out of the ring by the north side and across the yard toward the gate. The Edge floor students on the benches stood up to let him pass, and did not follow him.
+
+It was not friendship. Cael understood that clearly, standing in the cold with his own breath still coming hard. It was something narrower than friendship and in its own way just as valuable. A student of full standing, Iron Rank Two, first on the standings for most of three years, had stood across a chalk ring from him in front of the whole school. Then he had said aloud, for the record, that the thing the observer category had no word for was something real. Nobody had told him to. He had filed the question himself, and now he had answered it himself, in the same daylight.
+
+It was a witness.
+
+Cael did not know yet what a witness was worth. He suspected it would be worth a great deal one day, and that he would find out exactly how much at a time he would not have chosen, and he put the word away somewhere careful, where he would be able to find it again.
+
+"The record," said Quenna.
+
+She had not moved from her chair. The formal cadence was back in her voice, flat and slow, each word set down by itself, and the yard, which had begun to talk again, fell quiet once more to hear it.
+
+"Demonstration assessment, third sitting, held in public. The instructor's seat."
+
+Wray did not consult her slate. She spoke as she always did, as if reading off a gauge.
+
+"Evasion framework under live opposition. Consistent with prior record. No safety concerns."
+
+Cael counted the words without meaning to, as he had at the second sitting. Twelve, more than last month, and he understood after a moment that the new words were *under live opposition*: Wray had written down, in the plainest language her dialect allowed, that this time somebody had been trying to hit him.
+
+"The rotating seat."
+
+The lean old man with the scorched cuffs looked at his slate, on which he had written a great deal, and then looked up and said only, "Entered at length." He paused. "I'll add that the candidate fought the petitioner's sequence rather than the petitioner. I've seen that done twice in forty years. Both times by people who'd watched a very long while first."
+
+"Entered." Quenna wrote, and then set down her pen and looked at Cael across the frosted earth. "Assessment satisfied."
+
+She closed the ledger with the same economy she had opened it with, as if a public reckoning in front of the whole school had been only the day's next line. The yard came apart into noise again, louder now, and students began to climb down off the benches and the wall and the roof of the tool shed. Cael stood in the ring and found that he could not quite make his feet move.
+
+Quenna rose, gathered the ledger under her arm and came round the end of the little table toward him. She did not lower her voice; in the noise there was no need.
+
+"That satisfies this month." Then, as he turned to go: "Soon, I'd like to try something with more structure to it."
+
+He waited. He had learned to wait out her silences, because there was usually something at the end of them.
+
+Quenna glanced along the rail on the open side, and he followed her eyes. Karis was standing where she had stood all morning, three places down from where Lira and Brom had been, with her notebook still open in her hands and her pen resting on the page. She was not writing. She was watching him with an expression he had not seen on her before. It was not satisfaction, though there was some of that in it. It was closer to the look on a person's face when a sum she had not dared write down has just come out right on somebody else's slate.
+
+"She's already asked," said Quenna.
+
+There was something underneath the flatness of it that was almost warm.
+
+Cael looked across the yard at Karis, and Karis looked back and did not look away, and he understood, standing there with his ribs on fire and his forearm stinging in the cold, that the next question would not be the kind Edran had asked. Edran had asked *what*. Whatever Karis had asked Quenna would be nearer to *how*. He was not sure yet that he was ready for that question, and he was fairly sure, looking at Karis, that it was going to be asked anyway.
+
+---
+
+Lira got to him first. She always did, after fights; it was one of the few things in his life that had stopped needing verification.
+
+She came straight across the ring without waiting for the chalk to be cleared and looked him over with the two-second inventory she had given him after every bout since Ardenmere. Eyes first, then the forearm, which she took by the wrist and turned to the light without asking, then the line across his coat on the right side, low on the ribs, where the half-made edge had raked him. She put two fingers flat against it, quite gently, and he flinched before he could stop himself.
+
+"Bruised. Not cracked. You'd have made a different noise." She let go. "The arm's nothing. It'll sting for a week and you'll pick at it."
+
+"I won't pick at it."
+
+"You'll pick at it." She stood back and looked at his face, and he saw her decide, and then she gave him her reading of the bout. "You let him have the fourth exchange."
+
+"He asked for it."
+
+"He earned it. That isn't the same thing. And you gave it to him at your full attention, every bit of it, which he'll know when he goes over it tonight. That was the right coin. Exactly the right one." Her eyes went to the north gate, where Edran had gone. "And he withdrew. On the floor, in public, in his own words, for the record. That cost him more than losing the bout did. Remember it about him."
+
+"I'll remember."
+
+Brom had come up behind her while she talked, at his own pace, and stood with his hands still clasped behind his back. His review was shorter. It always was.
+
+"Fourth exchange. He narrowed the gap in the middle of the fight."
+
+He let the sentence stand on its own for a moment, giving it the weight he plainly thought it deserved.
+
+"He moved the third to the other arm, between your third and your fourth, in about the time it takes to walk back to a mark. I've known people train for years and never once change a thing like that during a bout." Brom looked at Cael steadily. "You beat a very good one today. When you write it up, write that down as well. Not just the seam you found in him. Him."
+
+"I will."
+
+"I mean it. Seams are easy to write down. People are harder, and they matter more later."
+
+Wray arrived as he finished, crossing the ring with her slate under her arm. She took Cael's left wrist as Lira had and looked at the graze along his forearm, measuring it, and then pressed two fingers into his right side exactly where Lira had, and this time he managed not to flinch.
+
+"Kitchen. Cold cloth for the ribs, clean water for the arm. Breathe deep tonight, all the way down, even though you won't want to. If you breathe shallow to spare them, they'll stiffen and you'll lose two more days than you need to." She let go of his wrist. "Two days. You'll feel it on the stair."
+
+"Thank you."
+
+"You chose a small fight." It was the first thing she had ever said to him that was neither an instruction nor a record. "You kept it the size you chose all the way through, with two hundred people and that boy asking you to make it bigger. That's harder than winning." She tucked her slate back under her arm. "Edran will be on my floor tomorrow morning at the first bell, working on the third structure. You might come and watch. He won't mind."
+
+She went off toward the gate. Cael looked after her, and then at Lira, who had raised her eyebrows nearly to her hair.
+
+"She said something nice to you."
+
+"I think she said something accurate."
+
+"With Wray," said Brom, "that's the same thing."
+
+He did not get to the kitchen for nearly half an hour, because the yard would not let him go. People did not crowd him, because Greyvane was not that sort of place. But they came up one or two at a time while he stood at the rail with Lira and Brom, said things, and went away again, and every time he thought it had finished someone else arrived. The Storm Path fourth-year who had asked whether he meant to fight close or at range came up, said, "Close, then," nodded as if a wager had been settled, and left. A Copper first-year from the movement floor asked whether the cut hurt. Two girls from the hardening family, who had wished him good morning on the stair in the first week for entirely the wrong reasons, said good morning again now, and he thought they might have meant it this time.
+
+The second-year tout came up with his hands full of bread crusts and an expression of great happiness.
+
+"I put a crust on you. You remember. In the line. I said I would."
+
+"I remember."
+
+"Three to one." The boy held up the crusts like a trophy. "Nobody on the Edge floor will speak to me for a week. It's wonderful." He looked at Cael with something close to reverence. "You never told me a thing. Not one word. That's how I knew."
+
+He went off toward the stable with his crusts, and Lira watched him go and shook her head slowly.
+
+"Touts. Every city. Same boy."
+
+Hobb came past on his way to the gate, alone, with his hands in his pockets. He did not stop, but as he passed the rail he slowed enough to look at Cael once and say "Didn't hurry" in his deep slow voice, and then went on out through the gate toward the defensive hall. Cael stood looking after him and felt as if he had been handed something solid and very heavy.
+
+Gerda did not come to the rail at all. She stopped at the gate on her way out and looked back at him across the emptying yard, and without saying anything she unfolded her arms, deliberately, for a moment, and then folded them again and left. He decided that from Gerda it was a speech.
+
+Oona had waited on the front bench until the first-years on either side of her had gone. Then she came across the frosted earth with her slate under her arm, stopped in front of him and looked up.
+
+"You won."
+
+"Yes."
+
+"You said you didn't know."
+
+"I didn't, then."
+
+She weighed that with great seriousness and found it fair. Then she looked at his forearm, at the thin line with its dried beads, and frowned.
+
+"Does it hurt?"
+
+"Some."
+
+"My uncle says a cut you choose hurts less than a cut you don't." She considered. "I don't know if that's true. I've never chosen one."
+
+"It isn't true," said Lira, from the rail. "It hurts exactly the same. You just mind it less."
+
+Oona turned and looked at Lira for a long moment, as if adding her to a list, and then nodded and wrote something on her slate before she looked back at Cael.
+
+"I told them to ask you. All week. Every time."
+
+"I know. I heard you, in the third row."
+
+Oona went faintly pink, which he had never seen her do, nodded once, briskly, and went off across the yard toward the lecture wing with her slate held very tight, as if she had been handed something and meant to keep it.
+
+---
+
+Naveth was in the passage outside the kitchen when Cael came out of it, with a cold wet cloth held against his ribs under his coat and the graze on his forearm washed clean and smarting.
+
+The provost was not waiting for him, exactly. He was standing at the passage window with his hands behind his back, looking down at the formal yard, where the last students were still drifting out in twos and threes and a clerk with a broom had begun sweeping the frost and the chalk from the ring.
+
+"I watched from my window," Naveth said, without turning round. "The glass is old and the angle is poor. I saw most of it."
+
+Cael stopped beside him.
+
+"I'm told the Edge floor wagered heavily and lost. I'm told a second-year from the movement floor has become rich in crusts. I'm told the first-years broke a slate on the roof of the tool shed, and I will have to pretend tomorrow that I don't know who." He watched the broom go round the ring. "None of that is why I came down."
+
+"Why did you?"
+
+Naveth was quiet for a moment.
+
+"Because tonight Quenna will copy the record of this morning into the ledger in her best hand. And some day, in some office I'll never visit, somebody will read it. The third audience." He turned his long weathered face from the window and looked at Cael. "They'll read that a candidate under the provision was assessed in public against a ranked student of full standing. That he showed the same evasion framework already recorded at two sittings, and nothing else. That he took one touch and made two, and the petitioner withdrew." He paused. "It's the dullest paragraph I've ever wanted to read. I've never in my life been so glad of a dull paragraph."
+
+"I chose the size."
+
+"I saw you choose it." Naveth looked back at the yard. "Twice, in the third and the fourth, I watched you have more than you used. I don't know what. I don't want to know what. But I've watched a great many young people fight, and I know what it looks like when someone keeps a hand in his pocket." He was quiet again. "Most of them can't. Not with two hundred people asking them to take it out."
+
+The broom finished the ring, and the clerk leaned it against the tool shed and went in.
+
+"Thank you," said Cael.
+
+"Thank me with your assessments." The corner of Naveth's mouth moved. "You did. Go and lie down. Wray tells me you'll feel it on the stair."
+
+He went back up toward his office, unhurried, one hand on the cold wall. Cael stood at the passage window a while longer with the cloth against his ribs, looking down at the swept ring where the only marks left were two scuffs in the chalk at the centre that nobody would remember by morning. The paragraph would last longer than any of them.
+
+---
+
+The withdrawal went up on the board in the main hall that afternoon, before the fifth bell, as the rule said it must. It was a single sheet in Edran's own hand, the same clear hand that did not shake, pinned with one brass tack beside the three pages of the petition and Quenna's answer. Cael went to read it at the change of bells, when the hall was busiest, because he had decided on the way down from the kitchen that he would not wait for it to be quiet.
+
+*Withdrawal of Petition of Standing. The petitioner, Edran, Glass Path, Iron Rank Two, withdraws the petition posted on this term's board concerning the candidate enrolled under the demonstration provision. The petitioner states that the question the petition asked has been answered on the floor, in public, under the framework, in a form he accepts.*
+
+It was signed, and dated, and that was all.
+
+Cael read it twice. He noticed the word *framework*, and he noticed that Edran had written *a form he accepts* and not *a form that satisfies him*, and he thought he understood the difference. Edran was not satisfied, and was not sure he ever would be, but he had asked whether the standings could still tell, and they had told, and he had put his name to that.
+
+Gerda was at the board too, a few people along, reading the withdrawal with her slip for the floor in her hand.
+
+"Posted," she said, when she saw him. "Answered. Withdrawn." She said each word as if laying down a card. "All three, in daylight, inside a week, every one with a signature." She looked at the sheet for a moment longer. "I've never seen one end like that."
+
+"How do they usually end?"
+
+Gerda turned to look at him, and for a moment he thought she would tell him. Then she glanced at the clock above the door, as she always did, and he saw the moment go.
+
+"Correctly," she said, and went to the floor.
+
+The rumor market had rebuilt itself before supper, and Lira delivered the new theories at the stable table with less relish than usual, because, as she said, most of them were true, and there was no sport in that.
+
+"First. You've got a Path nobody's allowed to name, and it's a very good one. That's the most popular. Second, you've been trained in secret by a Silver-tier master in the north." She glanced at Brom. "That's you, by the way. Somebody saw you at the rail looking serious."
+
+"I'm always serious," said Brom.
+
+"That's why it worked." She held up a third finger and then put it down again. "Third, there isn't a third. It's gone. Nobody's saying you're a Compact spy anymore, and nobody's saying you read poetry to the panel." She sounded faintly mournful. "The poetry one was my favourite."
+
+"What happened to it?"
+
+"You won a fight in front of two hundred people." She tore her bread. "Poetry doesn't survive that. Nothing silly does. Everybody saw the same thing at the same time, so now they all half agree, and the whole market's going quiet." She looked at him across the table. "That's the bad part, if you want one."
+
+"Worry when they start to agree."
+
+"They've started. Not about what you are. About whether you're real. That one's settled." She pushed the larger piece of bread across to him. "Eat. You've earned the crust twice today."
+
+He wrote the day up that night in the narrow room with the window open an inch, because the cold helped him breathe all the way down, as Wray had said he must, even though it hurt. He wrote it plainly, without ornament, under the headings the binder had taught him.
+
+*Third sitting, public, the formal yard. Assessment satisfied. Wray: evasion framework under live opposition, consistent with prior record, no safety concerns. Function shown: the Wind-adjacent framework and nothing else. The Compression fragment woke for a shell on my guard in the first exchange. Gave it no road. Third time I've chosen that, counting Brom's floor. It's getting quieter to do.*
+
+*Cost: a graze on the left forearm, second exchange, taken on purpose to see the gap from inside. Lira says I paid for something I already owned. She's right. A rake across the right ribs in the fourth, from a third structure called early on the other arm. Two days, says Wray.*
+
+*Edran withdrew. On the floor, in public, for the record, in his own words. Whatever you are, it's real. Not friendship. A witness. I don't know yet what that's worth.*
+
+He stopped there, remembered Brom, and turned back to the Glass page. Under the line he had written in his second week, *Glass believes you can afford to break if you break first and on purpose*, he had left a question with a space beneath it, *And what does he believe?*, and the space had been empty for a month. He wrote in it now.
+
+*He believes the board ought to be able to tell. He would rather lose to it than win around it. When he found a gap in himself, in front of everybody, he asked for another exchange so he could close it while it still cost him. He narrowed it by half in the time it takes to walk to a mark.*
+
+He looked at that, and then added one more line, because Brom had told him to and because it was true.
+
+*I beat a very good one today.*
+
+He closed the binder and lay back on the bed with his right side held carefully off the mattress and breathed all the way down, slowly, three times, the way he had been told, and it hurt every time. Across the corridor Brom was snoring, and two doors down Lira was quiet, and somewhere in the residence wing Karis was almost certainly still awake, writing in the second notebook by a low lamp. Somewhere on the far side of the yard Edran was almost certainly awake too, with his own sheet of paper and his own pen, working out how to make a third structure on the other arm come up a little less thin. Cael found that he hoped he managed it. He fell asleep before he could decide what it meant that he hoped so.
+
+---
+
+Karis brought him the chart the next evening, in the archive, as the sixth clause said she would.
+
+She did not need to. He had said so on the wall, and she had agreed, and they both knew the exhibition was not a session and the clauses did not reach it. She brought it anyway. She set four sheets beside his elbow at Prynn's long table, written out fair in her small upright hand with a fifth folded inside them that was a copy, and sat down across from him with her own notebook and did not watch him read.
+
+He read it the way he had read her first pages, slowly, with his hands slow on the paper. It was as dry as the others, with no adjectives in it anywhere. It gave the four exchanges in order, with timings in the margin that she must have counted in her head, because he had not seen her look at the clock. It noted the shell that burst on his guard in the first exchange, and the line beside it said only *subject's breathing held two counts after, released*, and nothing about why. She had seen something happen in his chest and had written down exactly what she could see from outside, which was a held breath, and not one word more.
+
+The second exchange took most of a page. He read the line about the graze, and then the line under it, and stopped.
+
+*At contact: subject's eyes on petitioner's right forearm, bare, in the interval between second and third structures; not on the strike. Pen stopped.*
+
+He looked up. Karis was writing in her own notebook, her head bent.
+
+"You saw where I was looking."
+
+"I saw where you were looking." She did not raise her head. "So did the petitioner, I think, by the fourth. Which is why he moved the third to the other arm."
+
+"Did you see the gap? In your bout?"
+
+That made her look up. She regarded him for a moment across the table, with the lamp between them, and he knew she was deciding whether the question was fair.
+
+"I laid my points so that he never reached his third," she said at last. "So I never had to find out whether I'd seen it." She looked down at his copy, at the line with *pen stopped* beside it. "You found out. That's a better finding than mine. I was very glad to watch it."
+
+He went through all four sheets twice, as he had with the first ones, looking for an error, and did not find one. He told her so, and she nodded as if that were data too, and then capped her pen with its small definite click.
+
+"May I tell you something that isn't in the chart?"
+
+"Go on."
+
+"Quenna said I'd asked her something." She set her hands flat on the closed notebook. "I don't want you to wonder what. I asked her a week ago whether the sessions could ever include anything more than watching. Any live condition at all, inside the rules." She paused. "She said not under the provision as it's written. Partnered practice isn't authorized. You have a refusal in your binder that says so, with her initials on it. I asked her to keep the question anyway, for whenever it might be answerable." She looked at him levelly. "That's all I asked. I should have told you before she did."
+
+He thought about the refusal folded in the back pocket of the binder, behind the stranger's note and Vell's sheaf, and about *something with structure*.
+
+"You could have asked me first."
+
+"I could have." She did not argue. "I asked her first because she's the one who'd have to say no. I didn't want to bring you a question you'd have to carry while somebody else decided it." She held his eyes. "That was a judgement. It may have been the wrong one. If it was, tell me and I'll strike it through."
+
+He looked at her for a while across Prynn's long table, with the copy of the chart under his hand, and found that it was not the wrong one, and found too that he was glad she had offered to strike it.
+
+"Leave it."
+
+"Noted."

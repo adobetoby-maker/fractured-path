@@ -42,3 +42,20 @@ Lira's interior voice in her cutaway (her register, not Cael's); the second cand
 ## Where we leave pressure
 
 Week 11. A rule written but untested; an anomaly honestly kept; an opponent learned past memory who has volunteered to be the test. Quenna is about to propose a match.
+
+## Coordinator notes (Movement 3 review, 2026-10-01)
+
+- **Progression vocabulary is running low:** Movement 3 measured ~29 per 10k against ~65 planned
+  for this stretch. The null sessions are the natural place to carry it — the words for what
+  Cael, Karis and the others can and cannot do, used where they would really say or record
+  them, not as decoration.
+- **Calendar (held):** the hypothesis was week 8 (Wednesday); Lira's reassessment is week 9,
+  "five days off" at Movement 3's close, with Gerda's the next morning.
+- **The Glass rule** (stated in ch18): a structure forms whole and ends by bursting; Edran holds
+  at most two at once (a ready pair built at his mark: shell on the left forearm, edge on the
+  right); he cannot build a full structure while another stands; his new fix builds a thin third
+  on the free arm while the edge still holds. Any later Glass appears under this rule.
+- **Ledger canon from Movement 3:** the exhibition frame (three exchanges, a fourth at the
+  petitioner's request; Cael 2, Edran 1, with Edran's rib graze ruled "unformed at contact.
+  Glancing"); the Compression "drop" (no cost found yet); the Iron "thickening" through felt
+  (plant); Hesk's mended bench.
