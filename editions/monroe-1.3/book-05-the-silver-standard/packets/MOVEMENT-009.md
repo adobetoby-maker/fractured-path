@@ -1,0 +1,54 @@
+# Movement brief 009 — Unscorable
+
+- PWA book id: fractured-path/book-05-the-silver-standard (Monroe 1.3 edition)
+- Series id: fractured-path
+- Author: Opus (Claude Opus 5.5)
+- Chapters: 54–60 (7 chapters) → `manuscript/chapter-54.md` … `chapter-60.md`
+- Word budget: ~34,000 (the match ≈14,000 across three chapters; the crisis ≈5,500; the meeting ≈5,500; placement and the road ≈9,000)
+- Owner names: no new names. The three panelists, the senior rating clerk, the healers, the faceless officials and the presiding official stay unnamed.
+- Read before drafting: source `chapter-20.md` through `chapter-24.md`, and **Book 6 `chapter-01.md`** (the handoff). The previous ending is `manuscript/chapter-53.md`. From `BOOK_MAP.md`, read §1 (Ending), §2 items 37–41, §5 (Umber, Ilsev, Havel, Seln, Daeva, Vastin; the convening), §7.1 (M9 rows), §8 (Daeva), §9, §10 (the notice; items 16–18, 29–32, 53–59), §11 and §12 (C2, C3, C4, C6, C8, C12, C15). Also `STATE_LEDGER.md`.
+
+## Where we enter
+
+Finals day comes up off the harbor. The bank was spent last night by minute. Karis's half-beat lives only behind his eyes. Shadow is sealed. The ring is built to Auremont's specification. The Compact row is full for the first time, and at its end, in the chair that waited, a man in plain greys has been in place for an hour.
+
+## What this movement is for
+
+The book's climax and its argument, in one movement. Cael fights a Gold-tier prodigy with everything he owns, survives long enough to do a thing no tournament has recorded, loses honestly, and pays the integration's cost live. The fairest instrument on the continent then writes, in its own hand, that it cannot hold him. The only honest man inside the machine tells him the weather. The book closes on the system deciding, in a room with no windows, what to do about what it cannot measure. Keep the progression vocabulary for the turning points: the inventory at the break, the notice, the year's ledger.
+
+Consequential turns and promises:
+- **The apparatus assembled:** absolute capacity; the betting rows' rating market; the broadsides' noun (*the exhibition*); nine panel seats and three scribes; Umber walks the ring himself and checks the certified floor with his own boot. Rooke's five minutes ("Frightened is expensive and it isn't information"); Brom: "Survive the first one." Seln: "The office confirms the schedule." / "Thank you for the forms." Formalities at Vell-grade: one rating and one silence; the protocols read twice. Cael's walk of the ring. "Terms hold?" / "Terms hold."
+- **The match (~14,000)** per BOOK_MAP §8, exchange by exchange. E1: the courtesy pass; the full public repertoire inside ninety seconds; Compression public for the first time; losing ground. E2: the fold read; early; the collapse point; **the score** ("nobody had scored on Daeva in four years"); her face; the courtesy ends. E3: braid; triage; the armed resolution point; the left side, shoulder to hip; the referee steps in and lets it go on; the healers stand and sit. E3 also carries the in-ring discovery of the medium read's Gold-scale price: the woman or the air, not both. The break's inventory, with the other instrument working underneath. E4: the suite fails in sequence with coordinates; the read does not; out of ground; the conditions complete; **the reach**, held as a line drawn two years earlier (*directed, open-eyed, or not at all*); his own lane laid crosswise, fifteen feet at a third of the depth; through permission; the spark; the silence in strata (tower stairs, betting ledgers turned face down, the relay man out of sentence); her recognition; **the destabilization** (Wind drops mid-step; "a question of ownership"); her mercy, on a clock; **Stoppage. Daeva.** The ritual: healers at a walk, name/day/exchange, the nine pens not moving, five people at the rail not running. **The notice, verbatim.** Two firsts counted. The hand up; "That was mine." / "A piece of it."; the promise. Vastin standing, leaving.
+- **Daeva cutaway (~2,500):** split between the minutes after the match (what she saw; a lane that was hers, seeded by him; the delight; she must not name a mechanism) and the four seconds she breaks procession at the closing ceremony, with the citation she will never read.
+- **The in-camera night. Umber cutaway (~3,500)** plus impersonal narration: the tables brought up on a trolley ("I would like the room to be able to say that we looked"); nine precedents, the eighty-first cycle's analogy and "only one of them"; the attempt column by column ("The column asks me for his tier"); three arguments (jurisdiction, preservation, *answer-ability*) and Umber's answers; the ruling ("It has a priesthood" / "The record is the truth or it is nothing."); ninety minutes on eleven words ("*under* over *by*"); signatures, daylight, the stamp. Vastin is present by observation right, silent, and receives one look. **The entry, read at dawn.**
+- **The morning after:** the copying counter breaks in small ways; Auremont waits in line at its own request; the wrong theories (including "Daeva did it"); *our fighter does not mis-seed.* The log: "nobody guesses digestion."
+- **Ilsev cutaway (~1,400)** (the closed referral filed "last year", per C12; her first private sheet) and **Havel (~600)** (the fifth entry). **Seln (~1,000):** the first report that is true in fact; relief, unexamined; the private file updated anyway.
+- **The second pole** at the rail over the empty ring, with the fold-mark not yet lifted (protected).
+- **Optional (owner call C8): the spring session**: ninety routine minutes in a borrowed room, Gault's travel case, and renewal, in the post-match week.
+- **The meeting (~5,500):** the note ("that sentence is not a formality"); the council objects (Karis, Lira, Brom, Ephram); Cael overrules alone; Seln's line (career figure per C2); **Brom at the arch.** The hour: the inventory he gives without remarking; "Thanks are the wrong instrument"; the nouns (*Anomaly. Irregularity. Basis. Review.* then *Posture. Handling. Exposure. … containment*); "who decides which men are sent minutes"; **the warning, verbatim, at the exact centre**; "I don't guess"; the convening summons; **the four-second silence on the Level 4 question**; "Nothing answers a conclusion"; "How did you evaluate me?" ("the method is not a boy's"); no protection; "It's the only thing I had to give." The room catalogued out. "Fifty-one minutes." **Vastin cutaway (~1,000)** after the hour, before the convening: walking back into a machine he understands and can no longer account for. No threat, no side-switch. The council grades the warning both ways: "Same build." **The circle's costed rule,** four initials. The log (protected).
+- **Placement:** the reverse-order liturgy and the eight-count clapping; Rhagen fourth; the honor mast; Lira's "what the scrapyard placed"; the banner transfer (the four ties in lawful order; a crowd on its feet for a countersignature); **Daeva breaks procession: "Rematch."** The year's ledger in Hesk's volume (C6): seven fragments with Storm's stability flag still standing, the anomaly, the Reydan line. The letters (Hesk's reply verbatim; Vell). Brom: "Summer's problem." Lira at the rail: "Four flags and an exchange … Silver bracket. Next cycle."
+- **The sixth man at the bench:** the manifest's procedure, the first waystation, the middle of the bench, nobody remarks on it, everybody counts. Ephram's account corrected from the bench's end.
+- **The convening window (≤900, impersonal):** verbatim question and testimony; Level 4 untraceable; *entered for formal proceedings*. **No "four centuries"; no "seven years"** (C3, C4).
+- **The road home in order** (C15). Tournament country thins. The waystation boards: fixtures, then grain, then nothing. **Ninth day:** the district seat and Brom's summons ("It isn't a promotion. It's a hearing about whether I get offered one."). **Twelfth day:** the watchers return ("They may be the last watchers I get whose names I could learn."). **Fourteenth day:** Karis's two bundles ("Nine of them matter"). Ephram's plain version. The last ferry. **The closing lines** (protected).
+
+Physical challenge: the match. Cutaways: Umber ≈3,500, Daeva ≈2,500, Ilsev ≈1,400, Havel ≈600, Seln ≈1,000, Vastin ≈1,000, plus the convening window, which counts toward neither share.
+
+Development: about 15 Cael beats. Supporting: Daeva (2), Umber (2), Vastin (2), Lira (2), Brom (2), Karis (2), Seln (1–2), Rooke (1), Withrow (1), Ephram (1), Ilsev and Havel (1 each), Hesk (1).
+
+## What must remain true / withheld
+
+- **End state (BOOK_MAP §1) is binding:** seven fragments; the Storm stability flag still standing (B6 Ch1 clears it later); Brom's review unresolved; Seln at the bench; Vastin still formally the Compact's instrument; no vote; Halcenvane third of fourteen.
+- **The mechanism stays sealed:** no one outside Lira, Brom and Karis says or thinks *integration*, *fragment*, *acquisition* or *witnessed*. Daeva gets "A piece of it." Seln is not told. Ephram is not told.
+- **Shadow is deployed nowhere,** including in the fourth exchange's extremity.
+- Umber and the panel: "impossible under the framework," and no theory. Vastin: the Level 4 question is declined, and nothing about makers or systems.
+- Hesk's reply and the closing lines are verbatim. Keep the notice's text exactly as in BOOK_MAP §10.
+- Book 6 Ch1 handoff: Hesk's volume holds the year's ledger, and the road's daily entries close in the old volume's last leaves. The flag "stood eleven weeks" belongs to Book 6, so do not resolve it here. Watchers resume on the road.
+- Reader Standard. The discharge injury is real and rendered without gore. The stumble is frightening, not humiliating.
+
+## What the author owns
+
+Chapter boundaries (three for the match is the plan, but the author decides); every tactic inside §8's frame; the strata of the silence; the panel's arguments beyond the protected ruling; the morning's small breakages; the meeting's silences and counts; the ceremony's choreography; the road's days and talk; whether the optional spring session appears.
+
+## Where we leave pressure
+
+A continent knows there is something its silver cannot measure. A room with no windows has entered the question and not yet scheduled the answer. The boy rides up the bluff with seven things that aren't a Path and five people who watched the instruments fail, and somewhere behind him, the machine begins deciding.
