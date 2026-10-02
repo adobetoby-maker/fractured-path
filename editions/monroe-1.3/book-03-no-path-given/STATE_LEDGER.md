@@ -99,3 +99,141 @@ Canon names only. Pending owner approval: [OBSERVER CHILD] (Oona), [BROAD DEFENS
 - **New canon minted in prose:** names (approved only), declarations, places, procedures — with chapter.
 - **Plan changes:** where the prose departed from the packet and why; anything the next packet must absorb.
 - **Formula check (from the editorial pass):** observed vs target for sentence mean/median/short share, paragraph median, scene breaks per 10k, Flesch/FK, progression hits per 10k (with and without the legal register), Cael POV share, development beats. Report honestly; do not invent measurements.
+
+## After Movement 1 (chapters 1–8; repair r1 applied 2026-10-01; recheck pending)
+
+
+Repair r1 changes that alter state or canon:
+- Brom's injury is on the RIGHT side throughout.
+- Cael believes fragments arrive like weather; the watched-under-stakes hypothesis is Karis's, Movement 3.
+- The outside reader has a physical trace: a triplicate "Registry Copy, for Notation" goes down the hill (Ch2); Cael counts days from its post day to D1 (Ch3); a grey "Received for Notation" card returns with a date stamp (Ch8). Coss unnamed. NEW CANON pending: the regional office returns dated Received-for-Notation cards — Movement 2's Coss cutaway should match.
+- Prynn's years match the sixty-year anchor; rank is read from the board, not the tag.
+
+### Movement 1 end state (from state/movement-001/AUTHOR-REPORT.md §2–§3, as drafted; r1 changes above take precedence)
+
+
+**Calendar.** Last night of week 2 (about day 14). Early autumn. D2 is "monthly", so roughly week 4 per the map.
+
+**Cael's body.**
+- Left forearm: a hand-sized bruise from the D1 third-pass strike (day 8), fading by week 2's end.
+- Right shoulder: the Reydan complaint is unchanged. It flared once on the road (Compression misrouted on the fourth try, third road morning) and settled.
+- Knee: road ache faded, with no recurrence.
+- Compression toll (shoulder and breastbone, two breaths) is transient after each success.
+
+**Abilities.**
+- **Wind-adjacent.** Panel-speed control learned: limits set before moving ("choose first"). The read runs off the body, not the count, as shown when Wray broke it. Stated limit on the record: anticipation thins as the opponent gets faster.
+- **Iron-adjacent.** Weight calls at about two paces. Eyes-closed works because the read never used sight. Cannot train it alone (needs a body).
+- **Pressure-adjacent.** Not used at all this movement. Banked in the binder and in the body (he chose not to spend the shoulder before D1).
+- **Compression-adjacent.** Still a quarter of a slow push.
+  - Road: 3 of 12. Day 6: 4 of 10.
+  - No joint misroute after the road's shoulder try. Same price on every success.
+  - New: at D1 it woke for a real strike and he chose to give it no road, his first deliberate non-use ("Not failed to reach. Chosen.").
+  - The half push is left for M2.
+- **Tide anomaly.** Unchanged. The binder line is quoted verbatim in ch1. Not added to, not felt, not explained.
+
+**Record exposure (D1, day 8).**
+- Wray, instructor's seat: "Unorthodox architecture. Consistent execution. No safety concerns."
+- Quenna: "Assessment satisfied."
+- The rotating seat wrote at length on the anticipation answer, including its stated limit.
+- Shown: the Wind framework (four passes, one with the count broken; one strike taken on the forearm) and surface-read calls (four, the last with eyes closed).
+- Nothing about Pressure, Compression or acquisition reached any record.
+- Partner request: refused in writing on day 6 ("does not presently authorize regular partnered practice for candidates in the observer category… entered in the candidate's file"), with Quenna's initials among two sets. It is filed in the binder's back pocket.
+
+**Knowledge.**
+- **Cael** has read the demonstration provision's text in the archive. It asks what a candidate can do, not where it came from. He knows Hobb's name, has not spoken to him and owes him thanks. He knows Oona Kindles "in winter" at fourteen. He knows Gerda is Ash Path, about twenty, on the track most of a year, from a southern academy she didn't name.
+- **Lira** knows he took the D1 strike "instead of something else". Brom knows the outline.
+- **Quenna** drew the line between "something you do on purpose" and "something that happens to you" and asked nothing. She said "You being ready has never been what keeps me up", unexplained.
+- **Edran's** question stands, publicly unanswered.
+
+**Relationships.**
+- Brom and Wray: teacher and student. Wray named Brom's ceiling objection to her second-year class and will redraw the curve if he proves it on the floor ("I meant it").
+- Brom and Hobb: Brom wants to learn the name from Hobb himself.
+- Lira and Gerda: acquaintance. Gerda's procedure tip (initials before the sixth bell) paid off.
+- Lira has stopped making the dot and the signature fight ("There's room on the bench").
+- Cael and Oona: he has resolved not to lie to her and told her he was "a little" scared.
+- Cael and Prynn: tea; the statute book left out for him; the door opened two fingers wider.
+- Cael and Naveth: the ledger, and "Thank me with your assessments."
+- Cael and Edran: the question set down, not dropped.
+
+**Injuries carried by others.**
+- Brom: right-side rib bruise (Hobb, day 2), purple, still guarded at week 2's end.
+- Lira: left-shoulder bruise from the Force Path push (week 2).
+
+**Supporting-cast decisions.**
+- Wray: variable-isolation drill; the ceiling lecture; "fetch" drills with Hobb and no further hits.
+- Naveth: showed the ledger and named the order of who pays.
+- Quenna: personal intake, the refusal co-initialed, D1 framing.
+- Prynn: tea, the book left out.
+- Oona: asked the shattered question, decided her own Kindling "will be ordinary".
+- Gerda: volunteered the initials tip, "I used to" (care).
+- Hobb: perfect furniture at D1; one measuring look after the fourth call.
+- Edran: asked in the open.
+
+**Letters and objects.**
+- First letter to Hesk written arrival night (Lira posts it on the town's third-day post).
+- Second short letter after D1, ready for Lira's next trip. It reports the pass and a good question answered with a limit, and omits the strike.
+- No reply yet. Vell not written to.
+- Tags: Brom has the crest (a tower above a road); Lira has the crest plus a raised dot; Cael and Oona have the hollow circle.
+
+**Open threads.**
+- Thanks owed to Hobb.
+- Edran's question.
+- Hesk's reply.
+- D2 about week 4.
+- Lira's "initial re-certification review" and Brom's "standard floor evaluation" are on the public calendar for day 8 but not shown on the page.
+- Brom's ceiling proof.
+- Gerda's own history ("I used to"; "bitten before").
+- Quenna's unexplained worry.
+
+## 3. New canon minted in prose (flag for ledger and owner)
+
+**The bells:**
+- first: assembly and assessments
+- second and third: lectures
+- fourth: midday meal
+- fifth and sixth: floors
+- seventh: supper
+- eighth: lamps out in the residence wing
+
+**Places and procedures:**
+- The intake room has three desks; the third board is blank.
+- The hill town:
+  - It holds a registered Arbiter station, the "certification station", used for tier confirmation. This matches the map's site for Oona's Kindling.
+  - The post goes out on the third day of the week, from a draper's.
+  - A rude baker.
+- Greyvane's standings rank students by term record within cohort (as §12.21 directs).
+- The demonstration provision, as paraphrased:
+  - It covers a candidate without a standard Arbiter-issued classification.
+  - It grants academic exposure and supervised training.
+  - The candidate is assessed monthly by demonstration before three.
+  - The standard is "consistent, observable practice".
+  - The finding is entered in the record.
+  - Only the three words are quoted. Later legal movements may need exact text.
+- Lira's D1-preparation workaround is a roster line, "Assessment preparation… Demonstrator".
+
+**The taxonomy chart.** It is copied from the Compact's schedule, but the families are Greyvane's own teaching grouping. I kept the schedule's internal structure undefined for M6–M8. Families named:
+- Movement: Wind, Current, Storm.
+- Hardening: Stone, Iron Skin, Shield, Anchor, Wall.
+- Edge: Blade, Glass.
+
+**Unnamed roles described:**
+- Taxonomy instructor: a soft-voiced man in his fifties.
+- Registry-history instructor: a thin woman of about sixty. Her lines include "Every amendment to a code is a confession", a deliberate plant for M6–M7 registry law.
+- Orientation instructor: has a pointer he taps on the floor.
+- The rotating seat: a white-haired, spare man.
+- Lira's standings opponent: a third-year Force Path, Copper R8.
+
+**Character details:**
+- Hobb: Stone Path, fourth year (from the drill board).
+- Gerda: Ash Path.
+- Oona: has an uncle in the Blade Guild.
+- Wray: teaches declaration efficiency (the ceiling curve) to hardening second-years.
+- Edran: third year; his Glass shells form and burst outward to shed force.
+- Brom's crest design: a tower above a road.
+
+**Eleven Paths watched.** Glass (Edran), Stone (Hobb), Shield (Wray, stance only), Iron Skin (Brom), Wind (Lira), Force (Lira's opponent), Ash (Gerda), Blade (the silent pair), Current, Storm, Anchor.
+
+**No declaration text was shown.** The declaration format is described only.
+
+
+Movement 1 CLOSED 2026-10-01 after repair r1 and recheck line fixes (coordinator-applied, exact strings from recheck-r1.md): Ch1 attempt count ("On the next two nothing caught at all"); Ch3 "darker than any other he had seen here"; Ch7 the spill was on the LAST road morning and went into his knee; Ch7 Hobb put Brom on one knee on their second day (hit him once); Ch6 "what's left of your four days". The "Received for Notation" card's reference number is unwritten; any later quotation mints it once and keeps it.
