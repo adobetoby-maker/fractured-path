@@ -6,7 +6,7 @@ It was a good board, as boards went. It had been there longer than anybody could
 
 He knew every card she had put up since the autumn. He had read them all here, standing where he was standing now. For seven months the line under his bouts had said the same thing: *unrated (vouched)*. It had said it under Renn, twice, and under Dessa, twice, and under Sarel and Talis and Corbin and the rest. When the yard had chalked a joke on the board after Corbin, it had been about Corbin putting his hand up, and not about the boy who had made him do it. The board knew him as a line in brackets.
 
-He had never minded. He had wanted it that way. In the autumn a line in brackets had been the safest thing a person could be.
+He had never minded; he had wanted it that way, because in the autumn a line in brackets had been the safest thing a person could be.
 
 He took the Log out of his coat and turned to the back, and stood at the board with it open on his forearm, and wrote down every person in Ardenmere who would ask where he had gone if he did not come back.
 
@@ -16,15 +16,15 @@ Fourteen. Five of them without names that he knew.
 
 He looked at the list for some time. Then he thought about Coss's drawer.
 
-*The drawer for things that are finished.* Coss had said it plainly, across a pie he had not eaten, as a kindness. A file closed on voluntary relocation was a file nobody opened again. It was not hidden, or burned. It only went into a drawer with a great many others, and the drawer was shut, and nobody had any reason to pull it out. It was not a bad thing that happened to a file. It was only a quiet one.
+*The drawer for things that are finished.* Coss had said it plainly, across a pie he had not eaten, as a kindness. A file closed on voluntary relocation was a file nobody opened again. It was not hidden, or burned; it only went into a drawer with a great many others, and the drawer was shut, and nobody ever had a reason to pull it out again. Nothing bad happened to a file like that. Nothing happened to it at all.
 
-Fourteen people could be told a boy had gone home. Most of them would believe it. The ones who did not would have no one to ask.
+Fourteen people could be told a boy had gone home, and most of them would believe it, and the ones who did not would have nobody to ask.
 
-He turned back a page to where he had written, two nights ago on the cot, that he did not know what he would do instead of leaving. He read it again. *I'm going to find out the way I find out everything.* He had found it out, he thought, standing at a board, by reading what was not on it.
+He turned back a page to where he had written, two nights ago on the cot, that he did not know what he would do instead of leaving, and read it again. *I'm going to find out the way I find out everything.* He had found it out, he thought, standing at a board, by reading what was not on it.
 
-Vell had a custom about her book. She had told it to him in the autumn, in his first week, when he had wanted to know why his name was not in it: a name went into Vell's book when the yard came to see it. It was no slight. It was what a book was for. A fighter the yard did not come for was a fighter the yard would not miss. So she wrote him the way the yard knew him, in brackets, and waited.
+Vell had a custom about her book. She had told it to him in the autumn, in his first week, when he had wanted to know why his name was not in it: a name went into Vell's book when the yard came to see it. It was no slight, she had said; it was what a book was for, since a fighter the yard did not come for was a fighter the yard would not miss. So she wrote him the way the yard knew him, in brackets, and waited.
 
-Nobody had ever come to the Cinder House to see Cael. They had come to see Renn, or Dessa, or a Bronze in the sleet. He had been the thing on the other side of the rope.
+Nobody had ever come to the Cinder House to see Cael. They had come to see Renn, or Dessa, or a Bronze in the sleet, and he had been the thing on the other side of the rope.
 
 He shut the Log. Across the triangle the cooper was rolling a barrel out of his shed with his foot, very slowly, and the dyer was standing in her doorway with her arms folded, watching him do it.
 
@@ -90,13 +90,13 @@ He felt it go into him somewhere under the ribs, like cold water.
 
 "I didn't ask what you'd do." She turned the ledger round to its own side again and wrote, at last, a single short line at the bottom of the page, and blotted it, and he could not read it upside down. "I'll send to Feryn. He's working the river towns this month, or he was a week ago. He'll know who's touring and who's worth a gate, and who'd rather stop than win." She looked up. "Now go and stand in somebody else's light."
 
-He went back down the lane. He had got what he came for, and it should have felt like more than it did. The cold place under his ribs went down the hill with him, and he did not look at it.
+He went back down the lane with what he had come for, and it should have felt like more than it did. The cold place under his ribs went down the hill with him, and he did not look at it.
 
 ---
 
 Feryn came on Wednesday afternoon. He did not come to the Cinder House, or to Vell's table. He came to Torvin's, and when Cael came in from the mender's he found him in the yard, sitting on the low wall by the pump in his once-good coat, eating an apricot out of a paper and swinging one heel against the stones as if he lived there.
 
-"Vell says you want to be loud," said Feryn.
+"Vell says you want to be loud."
 
 "Yes."
 
@@ -110,7 +110,7 @@ Feryn listened. He did not interrupt, except twice, and both times with a questi
 
 When it was done Feryn sat for a while with his elbows on his knees, looking at the pump.
 
-"A boy who goes away quietly is a closed file," he said at last. "A boy three hundred people paid to see is a question somebody has to answer." He rubbed his jaw. "I've heard worse plans. I've made most of them, and I'm still here, which is more than the plans are." He was quiet a moment longer, and then he sat up. "All right. I know a name."
+"So you'd like to cost them something," he said at last. "That's a fighter's answer, anyway. Not a clerk's." He rubbed his jaw. "I've heard worse plans. I've made most of them, and I'm still here, which is more than the plans are." He was quiet a moment longer, and then he sat up. "All right. I know a name."
 
 Cael waited.
 
@@ -140,7 +140,7 @@ Feryn did not answer quickly. He sat down again, which Cael had not expected, an
 
 He put the apricot in his mouth and stood up for good this time.
 
-"Tell Vell I've written," he said, round it. "She'll want to know before I do."
+"Tell Vell I've written," he said round it. "She'll want to know before I do."
 
 ---
 
@@ -148,7 +148,7 @@ He told Vell. He went up to the Cinder House straight away, while Feryn went off
 
 Vell wrote the name on the corner of her blotter and looked at it.
 
-"I've seen him once," she said. "Three summers ago, at Fenrow, against a Blade with a temper. He let the Blade wear the temper out on him for four exchanges, and then he put him down so gently the man thanked him." She tapped the name with her pen. "He doesn't spend anything he doesn't have to. You'd like him." She was quiet for a moment. "Yes. If he'll come, yes."
+"I've seen him once. Three summers ago, at Fenrow, against a Blade with a temper. He let the Blade wear the temper out on him for four exchanges, and then he put him down so gently the man thanked him." She tapped the name with her pen. "He doesn't spend anything he doesn't have to. You'd like him." She was quiet for a moment. "Yes. If he'll come, yes."
 
 "Thank you."
 
@@ -156,7 +156,7 @@ Vell wrote the name on the corner of her blotter and looked at it.
 
 It was nearly five o'clock. Lira was across the district at her sparring hour, and had been since two, and he had not seen her since the grey half that morning. In the grey half that morning he had done the box drill and the deflection and forty strokes at the post, and she had chalked a ring in the *W* column and written *less* beside it. And he had not said one word to her about Darrow Innes, or about Feryn on the barge, or about Monday, or about the board.
 
-It was not that he had forgotten. He knew that was not it as soon as he went looking. He had carried it up the lane on Monday and back down again, and all through Tuesday at the post, and he had decided at every turn that he would tell her when there was something to tell. When it was real. When there was a name.
+It was not that he had forgotten; he knew that was not it as soon as he went looking. He had carried it up the lane on Monday and back down again, and all through Tuesday at the post, and he had decided at every turn that he would tell her when there was something to tell, when it was real, when there was a name.
 
 There had been a name for three hours.
 
@@ -164,7 +164,7 @@ There had been a name for three hours.
 
 Vell did not say anything. She looked at him over the card, and kept looking, until he understood that she had known the answer before she asked. Then she looked back down at what she was writing.
 
-"Before the lamps," she said. "The widow's particular."
+"Before the lamps. The widow's particular."
 
 ---
 
@@ -180,9 +180,9 @@ He sat on the chair. It was the only one, and it rocked. Lira sat down on the en
 
 He told her.
 
-He told it the way he had told Feryn, from the beginning: the board, the fourteen names, the drawer. Vell's table on Monday. The three conditions. Feryn on the wall, a name, a letter going down the river tonight to a yard on a coal wharf. Darrow Innes. Bronze Rank 1. Iron Path.
+He told it the way he had told Feryn, from the beginning: the board, the fourteen names, the drawer. Vell's table on Monday, and the three conditions. Feryn on the wall, a name, a letter going down the river tonight to a yard on a coal wharf: Darrow Innes, Bronze Rank 1, Iron Path.
 
-Lira did not say anything while he talked. She sat with the shirt and the needle in her lap and did not sew, and she did not look at him; she looked at the floor between his boots. When he got to the letter going down the river, she put the needle into the shirt, very carefully, and left it there.
+She did not say anything while he talked. She sat with the shirt and the needle in her lap and did not sew, and she did not look at him; she looked at the floor between his boots. When he got to the letter going down the river, she put the needle into the shirt, very carefully, and left it there.
 
 Then she looked up.
 
@@ -194,13 +194,13 @@ Then she looked up.
 
 He opened his mouth, and shut it.
 
-"Vell made it a condition," said Lira. "Didn't she. That I be told." It was not a question. "*Told.* She knew you, Cael. She's been keeping a book on you since the autumn, and she knew exactly what you'd do, and she made a rule about it, and you still went and did it."
+"Vell made it a condition. Didn't she. That I be told." It was not a question. "*Told.* She knew you, Cael. She's been keeping a book on you since the autumn, and she knew exactly what you'd do, and she made a rule about it, and you still went and did it."
 
 "I hadn't signed anything."
 
 He heard how it sounded as it came out. So did she. She did not answer it. She only looked at him, and waited, and he sat in the rocking chair and heard it go on sounding in the small room for some time after it had stopped.
 
-"Iron," said Lira quietly. "An Iron Bronze. I stood at that barrel in the sleet and watched a Bronze put you on your back in the first exchange, before you'd seen anything at all. I watched you get up at eight. I watched you go into the fourth knowing you couldn't read it fast enough, because you'd decided you had to know. And I didn't say a word, because it was yours to decide, and you'd decided it with me. We'd sat on that roof and gone through it. Every piece." She was very still. "This one's bigger than Feryn. And I'm hearing it after the letter's gone."
+"Iron." She said it quietly. "An Iron Bronze. I stood at that barrel in the sleet and watched a Bronze put you on your back in the first exchange, before you'd seen anything at all. I watched you get up at eight. I watched you go into the fourth knowing you couldn't read it fast enough, because you'd decided you had to know. And I didn't say a word, because it was yours to decide, and you'd decided it with me. We'd sat on that roof and gone through it. Every piece." She was very still. "This one's bigger than Feryn. And I'm hearing it after the letter's gone."
 
 He had a great many things he could have said. He could feel them lining up behind his teeth, all of them true: that he had been going to tell her; that it had moved faster than he had meant it to; that he had wanted a name before he brought her anything, so that she would have something real to look at; that he had kept Vell's condition to the letter. All of it was true, and all of it was the wrong size, and he knew, sitting there, that if he said any of it she would hear an excuse and be right to.
 
@@ -210,11 +210,11 @@ So he put all of it down, and said the thing underneath it.
 
 Lira did not move.
 
-"And then I'd have had to listen to you," he said. "Because you'd have been right, or near enough, and I'd have known it. And I'd decided already, on Monday, at the board. I didn't want to have to undecide it." He made himself look at her. "So I did it in an order where you couldn't. I don't think I said that to myself. But that's what I did."
+"And then I'd have had to listen to you. Because you'd have been right, or near enough, and I'd have known it. And I'd decided already, on Monday, at the board. I didn't want to have to undecide it." He made himself look at her. "So I did it in an order where you couldn't. I don't think I said that to myself. But that's what I did."
 
 It was very quiet. Somewhere below them the widow was moving about in her shop, putting the shutters up.
 
-"I've done it before," he said. "To Hesk. I kept five things from him for months, and told myself every week that I'd tell him when I understood them. I kept the step from you for three weeks. You made a rule about it, and I said it back to you, and I meant it." He looked at his hands. "It's the worst thing I do. I do it when I'm frightened of what somebody will say. And I did it to you, on the one thing that's yours as much as mine."
+"I've done it before. To Hesk. I kept five things from him for months, and told myself every week that I'd tell him when I understood them. I kept the step from you for three weeks. You made a rule about it, and I said it back to you, and I meant it." He looked at his hands. "It's the worst thing I do. I do it when I'm frightened of what somebody will say. And I did it to you, on the one thing that's yours as much as mine."
 
 Lira looked at him for a long time. It was the look she gave a stance at the mark, the whole of it, from the feet up, before anything had moved.
 
@@ -222,11 +222,11 @@ Lira looked at him for a long time. It was the look she gave a stance at the mar
 
 She picked up the folded shirt, and put it down again on the other side of her.
 
-"Tell me all of it, then," she said. "Properly. All the parts you didn't, because you thought I'd say no to them. What Feryn said about Iron. What Vell said about the crowd. What you're going to do about it, if you know, and what you don't know, if you don't." She drew her feet up onto the bed and sat with her arms round her knees. "If there's a piece you kept back because it'd frighten me, I want that piece first. I'd rather be worried and informed," she said, "than calm and useless."
+"Tell me all of it, then. Properly. All the parts you didn't, because you thought I'd say no to them. What Feryn said about Iron. What Vell said about the crowd. What you're going to do about it, if you know, and what you don't know, if you don't." She drew her feet up onto the bed and sat with her arms round her knees. "If there's a piece you kept back because it'd frighten me, I want that piece first. I'd rather be worried and informed," she said, "than calm and useless."
 
 So he told her all of it. It took a long time. He told her Feryn's first thought on the barge and Vell's *not all of that is the kind of looking you want*. He told her Feryn's two years outside the keepers' tables. He told her what Feryn had said about Iron taking things and not giving them back, and that he did not know what to do about that yet, not even slightly, and that it frightened him, and that he had not said so to Feryn or Vell. She asked questions, short ones, and each of them went to a joint, and by the end of it she was not looking at the floor any more. She was looking at the wall above his head, the way she looked at nothing when she was adding.
 
-"Iron," she said. "We'll have to find out what it does from the inside. I don't know anything about it. Nobody at the academy fought Iron against Wind girls; they thought we'd run away from it." She pressed her chin on her knees. "We will, as well. Some of the time."
+"Iron. We'll have to find out what it does from the inside. I don't know anything about it. Nobody at the academy fought Iron against Wind girls; they thought we'd run away from it." She pressed her chin on her knees. "We will, as well. Some of the time."
 
 "Then you're—"
 
@@ -242,7 +242,7 @@ The light on the boards had gone orange and was going grey. She looked toward th
 
 "Hesk?"
 
-"He knew about you for years. He sat on it. He decided on his own what you could carry, and when, and you found out in a side room with a word on a plate." She turned the needle in the folded shirt. "And he'd have done this as well, I think. What you're doing. Made himself so known nobody could put him in a drawer." She looked back at him. "Both halves. That's what I mean."
+"He knew about you for years. He sat on it. He decided on his own what you could carry, and when, and you found out in a side room with a word on a plate." She turned the needle in the folded shirt. "And he'd have done this as well, I think. What you're doing. Gone and stood in the middle of the market, so nobody could ever say they hadn't seen him." She looked back at him. "Both halves. That's what I mean."
 
 "Is it meant kindly?"
 
@@ -252,8 +252,8 @@ Lira considered it.
 
 Down in the street somebody was lighting the first lamp, and the widow's voice came up the stairwell, not loud, saying a word that could have been anybody's name and was plainly meant for both of them. Lira stood up.
 
-"Go home," she said. "Before she comes up. Grey half tomorrow, at first light. Not after it." She held the door. "And Cael."
+"Go home. Before she comes up. Grey half tomorrow, at first light. Not after it." She held the door. "And Cael."
 
 He stopped on the landing.
 
-"Go round the fourth on the right," said Lira. "Like you always do. I want to know it's you."
+"Go round the fourth on the right. Like you always do. I want to know it's you."

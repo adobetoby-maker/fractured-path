@@ -2,19 +2,19 @@
 
 In the morning the edges of the room were edges again.
 
-He lay on the cot and tested it before he moved anything else. He looked at the window, and then quickly at the shelf, and the shelf was where he had sent his eyes and arrived there with them, not after. He did it twice more to be sure. Then he tried to sit up, and found out what the ribs thought about mornings.
+He lay on the cot and tested it before he moved anything else. He looked at the window, and then quickly at the shelf, and the shelf was where he had sent his eyes and arrived there with them, not after; he did it twice more to be sure, and then he tried to sit up, and found out what the ribs thought about mornings.
 
-Yeni was already gone, her blanket folded into its square. The wheezing man was asleep with his mouth open. Somebody had put a cup of water on the floor by the cot, where he could reach it without bending, and had turned Yeni's lamp, which was out, toward the wall, so that the first light from the window would not come off its brass into his eyes. He drank the water. It took both hands, and his arms answered him slowly and sorely, like men called to work on a holiday, but they answered.
+Yeni was already gone, her blanket folded into its square, and the wheezing man was asleep with his mouth open. Somebody had put a cup of water on the floor by the cot, where he could reach it without bending, and had turned Yeni's lamp, which was out, toward the wall, so that the first light from the window would not come off its brass into his eyes. He drank the water with both hands, and his arms answered him slowly and sorely, like men called to work on a holiday, but they answered.
 
-It took him a quarter of an hour to dress. He went down the stairs one at a time, holding the rail and breathing like the man of ninety Lira had promised, and came into the kitchen.
+It took him a quarter of an hour to dress, and he went down the stairs one at a time, holding the rail and breathing like the man of ninety Lira had promised, and came into the kitchen.
 
 Torvin's wife was at the range. She looked round at him once, all of him, from his feet to his face and back, the way Darrow had looked at him from across the circle, and turned back to the pot without a word. When he had got himself down onto the bench she put a bowl of oats in front of him with real milk on them and an egg broken into the middle, still soft. Then, in front of the bowl, she put a bun.
 
-"It's not from me," she said. "It's from her."
+"It's not from me. It's from her."
 
 Sella was at the end of the table in her boots, eating bread with great dignity. She did not look up.
 
-"That's five," said Sella. "Five buns I've lost on you since the autumn. She keeps count. I'd lost count. She hadn't." She turned a page of somebody's old newspaper that she was not reading. "I'll bet against you again, you know. Next time. I've told everybody."
+"That's five. Five buns I've lost on you since the autumn. She keeps count. I'd lost count. She hadn't." She turned a page of somebody's old newspaper that she was not reading. "I'll bet against you again, you know. Next time. I've told everybody."
 
 "I know."
 
@@ -22,29 +22,27 @@ Sella was at the end of the table in her boots, eating bread with great dignity.
 
 "Thank you."
 
-"It's a compliment," said Sella. "On you it's a compliment." She went back to the paper.
+"It's a compliment. On you it's a compliment." She went back to the paper.
 
 Doss came in from his watch while Cael was eating. He stood in the doorway in his big coat with his bad knee and his flat face and looked at Cael for a while, and then came and sat down across from him and took the cloth off his own plate.
 
-"I heard," said Doss. He ate a little. "I heard you believed your hands."
+"I heard." Doss ate a little. "I heard you believed your hands."
 
 "Yes."
 
 Doss nodded slowly, chewing. Then, without looking up from the plate, he put his scarred right hand flat on the table, palm down, beside Cael's bowl, for a moment, the way you put your hand on a horse that has done well. Then he took it away and went on eating.
 
----
-
 Lira came to the kitchen door at the hour of the grey half and did not come in.
 
-"You're not training," she said. "Don't ask. You're coming up to sit on the bench and watch me teach the wall girls to fall over, and then you're going to Vell's table, because she's sent the pie boy for you twice already this morning and he's getting cross."
+"You're not training. Don't ask. You're coming up to sit on the bench and watch me teach the wall girls to fall over, and then you're going to Vell's table, because she's sent the pie boy for you twice already this morning and he's getting cross."
 
 So he went up to the Cinder House at the pace of a cart with a bad wheel, with Lira beside him going at the same pace without once mentioning it, and sat on the bench in the grey half while she taught four girls from the wall how to fall in the soft corner by the drain. The straw post stood in its corner with its rope round it. Somebody had already had a go at it; there was a fist-shaped hollow in the straw at the height of a small boy's shoulder.
 
-"Red Cap," said Lira, following his eyes. "Before it was light. He's been telling everybody he knows where the place is."
+"Red Cap." Lira had followed his eyes. "Before it was light. He's been telling everybody he knows where the place is."
 
 Feryn came while the girls were falling. He came through the gate with his bag over his shoulder, which he had not had before, and his once-good coat buttoned to the throat, and stood in front of the bench looking down at Cael's way of sitting.
 
-"He's gone," said Feryn. "Darrow. On the first barge down, before the light. I walked him to the steps." He shifted his bag. "He asked me to tell you a thing."
+"He's gone. Darrow. On the first barge down, before the light. I walked him to the steps." He shifted his bag. "He asked me to tell you a thing."
 
 Cael waited.
 
@@ -56,21 +54,19 @@ Cael waited.
 
 "Where?"
 
-"Somewhere," said Feryn. "I'm always somewhere. Vell will know." He looked at Cael a moment longer, and the cough and the jokes went out of him the way they did. "My account's still open. You know that."
+"Somewhere. I'm always somewhere. Vell will know." He looked at Cael a moment longer, and the cough and the jokes went out of him the way they did. "My account's still open. You know that."
 
 "I know."
 
 "Good." He turned to go, and turned back. "You did a thing yesterday I'll be thinking about for a year. I'd like to say I knew. I didn't know. I thought you'd lose well." He grinned. "I'll say I knew anyway, in a few towns. Don't contradict me."
 
-He went out through the gate in the wall. The girls by the drain watched him go, and one of them fell over without meaning to, and Lira told her that counted.
-
----
+He went out through the gate in the wall. The girls by the drain watched him go, and one of them fell over without meaning to, and Lira told her that counted. Then Lira jerked her head toward the back wall, and he got up.
 
 Vell was at her table in the shade of the back wall, with her tea and her ledger and her pen laid across the page. The pie boy had stopped being cross. He stood at the end of the table and watched Cael come across the yard toward it with the look of somebody who has been told to fetch a thing and is relieved to see it arriving.
 
 There was nothing in the circle. It was a Monday.
 
-"Sit down," said Vell.
+"Sit down."
 
 He had never once sat at her table. Nobody did; you stood in front of it. But there was a stool, and she pushed it out with her foot, and he sat down on it with his arm held against his side.
 
@@ -82,15 +78,15 @@ He read it.
 
 After it there was the rest: the exchange, the call, the yard. But it was the first part he read, and he read it several times. His name was at the beginning of the line, in her small square hand, where in seven months there had only ever been a pair of brackets.
 
-"The yard came," said Vell.
+"The yard came."
 
 "Yes."
 
 "I've a custom about that." She drank. "So it's in."
 
-He sat looking at it. He thought about the back page of the Log, and fourteen names with five of them missing. He thought about the board at the triangle, and a *W* that did not meet.
+He sat looking at it, and thought about the back page of the Log, with fourteen names and five of them missing, and about the board at the triangle, and a *W* that did not meet.
 
-"Do you know what that's for?" said Vell. "That line?"
+"Do you know what that's for? That line?"
 
 "So that people would notice."
 
@@ -98,7 +94,7 @@ He sat looking at it. He thought about the back page of the Log, and fourteen na
 
 He did not say anything for a while.
 
-"Thank you," he said.
+"Thank you."
 
 "I didn't do anything. I wrote down what happened." She looked at him over her cup with her flat, thorough look. "I'm not going to ask you what it was. You'd say you didn't know, and I'd believe you, and then we'd both have wasted a morning."
 
@@ -106,15 +102,11 @@ He did not say anything for a while.
 
 "I know you don't. I watched you not know it, from four paces." She put the cup down. "Go home. Lie down. Come back when the girl lets you, not before, and not on a Sunday. I'll not card you this month. You've nothing left to prove to anybody this month except your ribs." She picked up her pen. "You're in my light."
 
-He got up off her stool, which took some time, and went. At the gate he looked back. She was writing something in the back of the book, at the pages nobody read, and she did not look up.
+He got up off her stool, which took some time, and went. At the gate he looked back, and she was writing something in the back of the book, at the pages nobody read, and she did not look up.
 
 ---
 
-In the afternoon he went to the market, because Lira said he could walk if he walked slowly, and because he wanted to see whether the district had changed overnight or only the yard.
-
-It had changed. It had not changed much. Nobody stopped him, or crowded round him, or wanted to touch him. But at the fish steps the eel woman looked up from her tub and said "Hesk-ward" as he went past, and went back to her eels. At the corner by the well, the man with the barrow of kindling, who had never in seven months said anything to him, said "Morning," though it was the afternoon, and then looked embarrassed, and then said "Afternoon," and looked worse. Two women at the pump stopped talking and watched him go by, and he heard one of them say *that's him*, and the other say *he's smaller*, and the first say *they always are*.
-
-The boys found him at the bottom of the market steps.
+In the afternoon he went down to the market, because Lira said he could walk if he walked slowly, and the boys found him at the bottom of the market steps.
 
 They came at him from two directions at once, Red Cap from the east lanes and the other from the river, and they both stopped dead about six feet away and looked at him and then at each other, as if to agree on who was going to speak, and failed.
 
@@ -126,21 +118,21 @@ The bread woman was at her stall under her high cracked lantern with her chin up
 
 He reached for his coin.
 
-"Don't you dare," said the bread woman.
+"Don't you dare."
 
-"I'd like to know your name," he said. "You told me once. There were barrels."
+"I'd like to know your name. You told me once. There were barrels."
 
 She looked at him with her chin up for a long moment. Then she laughed, short and loud, so that the fruit woman at the next stall looked round.
 
 "You had your chance," said the bread woman. "Go and eat that before it's cold."
 
-He went. He ate half of it on the low wall by the pump at Torvin's, slowly, because chewing turned out to involve the ribs, and he thought it was the best bread he had ever eaten, and he knew he would never find out her name now, and found he did not mind.
+He went, and ate half of it on the low wall by the pump at Torvin's, slowly, because chewing turned out to involve the ribs, and he thought it was the best bread he had ever eaten, and he knew he would never find out her name now, and found he did not mind.
 
 ---
 
 The letter was against the salt crock when he came in at dusk.
 
-He knew the hand from the door. He did not know the date until he picked it up, and then he counted, and stood in the kitchen with it in his hand. It had been written on the Sunday before last. Hesk had had his letter three days by then, the one written on the night of the fourth stair, and had sat with it three days, and then written this. He had written it, and sealed it, and put it in the east bag the best part of a week before Darrow Innes came into the yard. He had not known how any of it would go. He did not know now. The bout was a day old, and Hesk would not know for a week.
+He knew the hand from the door, but not the date until he picked it up and counted, standing in the kitchen with it in his hand. It had been written on the Sunday before last, after Hesk had sat three days with the letter from the night of the fourth stair, and it had gone into the east bag the best part of a week before Darrow Innes came into the yard. Hesk had not known how any of it would go, and he did not know now. The bout was a day old, and Hesk would not know for a week.
 
 He took it out to the low wall by the pump and broke the seal in the last of the light.
 
@@ -162,13 +154,13 @@ He took it out to the low wall by the pump and broke the seal in the last of the
 
 *— H.*
 
-He read it twice. Then he sat on the wall with it on his knee for a long time, with the pear leaves going dark over his head and the house behind him starting its evening noises, the brothers arguing on the stairs and Torvin's wife's spoon against the pot.
+He read it twice, and then sat on the wall with it on his knee for a long time, with the pear leaves going dark over his head and the house behind him starting its evening noises, the brothers arguing on the stairs and Torvin's wife's spoon against the pot.
 
 *Where I can't get at it again with a pen.*
 
-That was Hesk all over. He would not send a thing until it was right, and when it was right he would not let himself near it again in case he spoiled it. He had found the words, and they were not the ones he had gone looking for, and he had said so.
+That was Hesk all over, who would not send a thing until it was right and, once it was right, would not let himself near it again in case he spoiled it. He had found the words, and they were not the ones he had gone looking for, and he had said so.
 
-He thought about writing back tonight. He thought he would tell him the fourth exchange, as near as he could, which was not very near. He would tell him about the crossing, and the straw post, and the bucket and the gate. He would tell him what he had for supper after, which had been nothing, because he had been asleep, and then an egg in the morning, and a bun that Sella had lost.
+He thought about writing back tonight, and telling him the fourth exchange as near as he could, which was not very near, and the crossing, and the straw post, and the bucket and the gate, and what he had had for supper after, which had been nothing, because he had been asleep, and then an egg in the morning, and a bun that Sella had lost.
 
 He folded the letter along its own folds and put it in the front of the Log, inside the cover, on top of the other two. *You're describing a home. It's not nothing. I'm proud of you.* The three of them lay together there, a little thicker each time, and the cover did not quite close over them any more.
 
@@ -176,36 +168,36 @@ He folded the letter along its own folds and put it in the front of the Log, ins
 
 On the Tuesday, two days after the bout, he saw the stranger in the market.
 
-He had gone down for apricots, because the fruit woman had sent word by Red Cap that she had some, and because walking was supposed to be good for the ribs if he did not do too much of it. It was an ordinary afternoon. The market was half full, the slow kind of afternoon after a busy morning, with the stallholders sitting down on their crates and talking across the rows. He had bought the apricots and was standing by the fruit woman's stall eating one, not thinking about anything, which he had been learning to do, when he felt himself being looked at.
+He had gone down for apricots, because the fruit woman had sent word by Red Cap that she had some, and because walking was supposed to be good for the ribs if he did not do too much of it. It was an ordinary afternoon, the market half full, the slow kind of afternoon after a busy morning, with the stallholders sitting down on their crates and talking across the rows. He had bought the apricots and was standing by the fruit woman's stall eating one, not thinking about anything, which he had been learning to do, when he felt himself being looked at.
 
-He knew the feeling. He had felt it from a mark a hundred times: the moment before a bout when you know the person across the circle has stopped looking at the yard and started looking at you. It was that. He did not turn toward it. He went on eating the apricot, and turned the rest of himself a little, as if to look at the knife-grinder's wheel, and let his eyes go where the feeling came from.
+He knew the feeling; he had felt it from a mark a hundred times, the moment before a bout when you know the person across the circle has stopped looking at the yard and started looking at you. He did not turn toward it. He went on eating the apricot, and turned the rest of himself a little, as if to look at the knife-grinder's wheel, and let his eyes go where the feeling came from.
 
 Across the market, at the end of the second row, there was a person standing still.
 
-That was all, at first. In a market everybody moves. People walk, and stop, and bend over a stall, and straighten, and walk on; even the ones standing still are moving, shifting their baskets, looking for somebody. This one was not doing any of that. They stood by the end of the knife-grinder's bench, a little back from it, in plain clothes the colour of the market, with nothing in their hands, and they were not looking at the stalls, or at the grinder, or at the people going past.
+That was all, at first. In a market everybody moves: people walk, and stop, and bend over a stall, and straighten, and walk on; even the ones standing still are moving, shifting their baskets, looking for somebody. This one was not doing any of that. They stood by the end of the knife-grinder's bench, a little back from it, in plain clothes the colour of the market, with nothing in their hands, and they were not looking at the stalls, or at the grinder, or at the people going past.
 
 They were looking at him.
 
-Not at his arm held against his side, or at the bruise he knew showed at the edge of his collar. They were not looking at the boy who had beaten a Bronze. They were looking at him, the way Corvane had looked at Feryn's shirt: at the place where the thing was, not at the things on top of it.
+Not at his arm held against his side, or at the bruise he knew showed at the edge of his collar, or at the boy who had beaten a Bronze. They were looking at him, the way Corvane had looked at Feryn's shirt: at the place where the thing was, not at the things on top of it.
 
-He held very still. He made himself catalogue it the way he would have catalogued an opening stance, without spending anything, without turning his whole self toward it and giving away that he had seen.
+He held very still and made himself catalogue it the way he would have catalogued an opening stance, without spending anything, without turning his whole self toward it and giving away that he had seen.
 
-Not Compact. He was as sure of that as he had been sure of anything. He had stood across a desk from Coss and across a table from Ilsev, and both of them carried their work about with them like a case: a hurry with edges, a stamp, a person above them who would want to see what they had done. There was no case here. There was no pin, no little black book with a strap, nobody anywhere behind this person who was going to read a report. There was only the looking.
+Not Compact; he was as sure of that as he had been of anything. He had stood across a desk from Coss and across a table from Ilsev, and both of them carried their work about with them like a case: a hurry with edges, a stamp, a person above them who would want to see what they had done. There was no case here, no pin, no little black book with a strap, and nobody anywhere behind this person who was going to read a report. There was only the looking.
 
-And it was patient. That was the thing he would try to write that night and not manage. It was patient the way the old man in his gate was patient, and not at all like him: the old man was patient because he had nowhere he needed to be. This was patient the way a person is who has been somewhere a long time already and expects to be there a good while yet. It did not feel like a look that had started this afternoon. It felt like the first one he had been allowed to see.
+And it was patient, which was the thing he would try to write that night and not manage. It was patient the way the old man in his gate was patient, and not at all like him: the old man was patient because he had nowhere he needed to be. This was patient the way a person is who has been somewhere a long time already and expects to be there a good while yet. It did not feel like a look that had started this afternoon. It felt like the first one he had been allowed to see.
 
-He did not know how long it lasted. Not long. Exactly as long, he thought afterward, as it took him to understand that he was being looked at and that he was being let know it.
+He did not know how long it lasted. Not long; exactly as long, he thought afterward, as it took him to understand that he was being looked at and that he was being let know it.
 
-Then the person turned, without any hurry, and walked into the market, and the market closed behind them as water closes, and they were gone. He watched the place where they had been for some time. There was nothing there but the knife-grinder, bent over his wheel, and the sparks.
+Then the person turned, without any hurry, and walked into the market, and the market closed behind them as water closes, and they were gone. He watched the place where they had been for some time, and there was nothing there but the knife-grinder, bent over his wheel, and the sparks.
 
 He did not go after them.
 
-His ribs would not have let him, for one thing. But it was not his ribs. He had felt, in the length of that look, that it had been timed: that whoever it was had decided when he would see them and when he would stop, as Darrow had decided when the first exchange was over. A person who did that would not be found by a boy with a broken rib pushing through a market. They would be found only if they wished it. Going after them would have cost him everything he had left, and bought him nothing but proof that he had been allowed to look.
+His ribs would not have let him, but it was not his ribs. He had felt, in the length of that look, that it had been timed: that whoever it was had decided when he would see them and when he would stop, as Darrow had decided when the first exchange was over. A person who did that would not be found by a boy with a broken rib pushing through a market; they would be found only if they wished it. Going after them would have cost him everything he had left, and bought him nothing but proof that he had been allowed to look.
 
 *Spend nothing you don't have to.*
 
-He finished the apricot. He thanked the fruit woman, who looked at his face and did not ask him anything, and walked back up through the lanes to Torvin's at the pace the ribs allowed. He went through the kitchen and out to the yard and sat down on the low wall by the pump, under the pear tree.
+He finished the apricot and thanked the fruit woman, who looked at his face and did not ask him anything, and walked back up through the lanes to Torvin's at the pace the ribs allowed. He went through the kitchen and out to the yard and sat down on the low wall by the pump, under the pear tree.
 
-He sat there a long time. He did not take out the Log. He sat and turned it over: the stillness, the plain clothes, the no-case, the look that had been allowed. He turned it over the way he had turned over every opponent he had ever had to read, from every side, looking for the joint in it.
+He sat there a long time without taking out the Log, turning it over: the stillness, the plain clothes, the no-case, the look that had been allowed. He turned it over the way he had turned over every opponent he had ever had to read, from every side, looking for the joint in it.
 
 He did not find one. He was still sitting there when the light began to go, and Yeni came to the kitchen door with her sewing, and looked at him for a while, and went back in.

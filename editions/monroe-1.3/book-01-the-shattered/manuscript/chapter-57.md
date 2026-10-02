@@ -2,7 +2,7 @@
 
 Somebody had been at the board at the triangle in the night.
 
-Vell's card was still in the middle of it, where the light was best, on the back of its lamp-oil bill. *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES (Br 1, Iron Path) against assessed Cu (vouched).* But under it, on the bare grey wood of the old door, somebody had written in charcoal, in large uneven capitals that sloped downhill toward the cooper's shed, *HESK-WARD*. Somebody else had underlined it twice. A third person, in chalk, had added *13 TO 1* beside it, and a fourth had crossed that out and written *SHAME*.
+Vell's card was still in the middle of it, where the light was best, on the back of its lamp-oil bill. *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES (Br 1, Iron Path) against unrated (vouched).* But under it, on the bare grey wood of the old door, somebody had written in charcoal, in large uneven capitals that sloped downhill toward the cooper's shed, *HESK-WARD*. Somebody else had underlined it twice. A third person, in chalk, had added *13 TO 1* beside it, and a fourth had crossed that out and written *SHAME*.
 
 Cael stood and looked at it on the way up, at noon, with Lira beside him and his wraps over her arm.
 
@@ -36,7 +36,7 @@ The three slates all said eleven. Marrow's was on the first nail. Marrow himself
 
 His corner was on the shaded side by the iron stake. Somebody had swept it. He sat on the end of the nearest bench and held his hands out, and Lira knelt in front of him and began on the left wrap, and he watched the yard fill past her shoulder.
 
-The bread woman had shut her stall. He saw her come in at the gate with a shawl over her head and her chin up, and pay, and go to the third row, where people moved along for her without being asked. She sat down with her arms folded, as if she meant to see for herself whether all this was worth a morning's bread. Sella was on the end of the second bench in her laced boots. Torvin's wife was beside her with a cloth bundle on her knee that was almost certainly a bun, and almost certainly not for Sella. Torvin had not come. Torvin did not come to the yard. *If you're carried home, they're to bring you in by the yard door.*
+The bread woman had shut her stall. He saw her come in at the gate with a shawl over her head and her chin up, and pay, and go to the third row, where people moved along for her without being asked. She sat down with her arms folded, as if she meant to see for herself whether all this was worth a morning's bread. Sella was on the end of the second bench in her laced boots, and Torvin's wife was beside her with a cloth bundle on her knee that was almost certainly a bun, and almost certainly not for Sella. Torvin had not come; Torvin did not come to the yard. *If you're carried home, they're to bring you in by the yard door.*
 
 Doss stood at the back on account of the knee. Renn was on the sunny side, with his barge friends round him, and when he saw Cael looking he cupped his hands round his mouth and shouted across the whole yard, "*Feet!* Not his face! His *feet!*" and his friends cheered as if he had said something clever, and Renn bowed to them. Corbin stood by the buckets with his arms folded, square, saying nothing to anybody. Amrit had come in his apron, which nobody had ever seen happen; somebody must be minding his pot. The mender was up on the wall among the girls, sitting very straight with his spectacles on, looking alarmed to be so high. The boys were everywhere at once. They were running chalk for the slates now as well as cards for Vell, threading through the crowd in two directions with white hands, shouting prices at each other as they passed.
 
@@ -62,11 +62,9 @@ Feryn found them while she was on the third turn. He came along the rope with hi
 
 Feryn said nothing for a while. Then he nodded, slowly.
 
-"One other thing," he said. "The salt-flats woman. She said she didn't remember deciding to stop." He stood, and looked down at him. "Whatever you decide in there, remember deciding it."
+"One other thing. The salt-flats woman. She said she didn't remember deciding to stop." He stood, and looked down at him. "Whatever you decide in there, remember deciding it."
 
 He went off along the rope, coughing, toward the sunny side, and Renn's barge friends made room for him on a bench as if he had always sat there.
-
----
 
 When she had tied off the right wrap, Lira took the Log out of his coat on the bench and opened it at the page he had written the night before, and held it up in front of him without a word, so that he would read it once more and not have to hold it.
 
@@ -78,7 +76,7 @@ When she had tied off the right wrap, Lira took the Log out of his coat on the b
 
 *Ruling.*
 
-There was nothing after *Ruling*. He had left the line empty on purpose. Everything above it was other people's knuckles. There was not one thing on the page yet that had come through his own.
+There was nothing after *Ruling*. He had left the line empty on purpose, because everything above it was other people's knuckles, and there was not one thing on the page yet that had come through his own.
 
 Lira shut the book and put it back inside his coat, and put the coat on the bench behind him.
 
@@ -150,7 +148,7 @@ Cael crouched, and put his hand flat on the dirt in front of his mark, and felt 
 
 Neither of them moved. Three breaths went by, and in them Cael watched Darrow arrive.
 
-It was what Feryn had drawn on the wall. The right foot came forward, light, and rested. The left went back and down, and set, and then set again, a small second tap of the heel as though to be sure of it. The hands hung loose. And the weight went down, all of it, lower and lower, until the man in front of him looked less like somebody who had walked into the yard than like something the yard had been built round, the way the old man's grey post stood in the middle of his square of dirt.
+It was what Feryn had shown him on the wall. The right foot came forward, light, and rested. The left went back and down, and set, and then set again, a small second tap of the heel as though to be sure of it. The hands hung loose. And the weight went down, all of it, lower and lower, until the man in front of him looked less like somebody who had walked into the yard than like something the yard had been built round, the way the old man's grey post stood in the middle of his square of dirt.
 
 Darrow did not come. He had not come in eight years.
 

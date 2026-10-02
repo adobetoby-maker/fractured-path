@@ -200,3 +200,122 @@ Reporting verbs (said/asked/told/answered/added/called): 357, ≈105 per 10k (ta
 - **New-canon flags** above (Darrow's person; Iron Path; the concurrent use; the district return; the flag's form; Hesk's letter; the stranger).
 - **Reserved truths kept**: no one theorises a system, maker or non-human source; the stranger is a person, sex and features unstated, not Compact, unlinked to Book 2's watcher or Brom; Coss "could not see who was walking" and draws no conclusion; nothing of Hesk's history beyond what canon allows; nothing of Lira before the academy; no academy offer, no Brom, no Ironyard.
 - **Audio guard**: Vell and the city never share a sentence; Coss and Petra never appear together; Darrow and Doss never speak in one scene.
+
+## Repair r1
+
+This was one consolidated pass by the same author (`claude-opus-5-5`) on 2026-10-02, working from `REPAIR-BRIEF.md`, `review-editorial.md` and `review-cold.md`. The pre-repair text is frozen in `pre-repair/`. I made every change by reading, as a literal replacement written in context. Nothing was split or joined by rule, and the source chapters stayed closed. Only ch 54–60 and this report were edited.
+
+**Coordinator line fixes 1–10** were re-read in context and not redone:
+- Lira asks Doss "this morning at your yard door";
+- Feryn's opening quote mark;
+- "on the night of";
+- "shown him on the wall";
+- "Cael's nine";
+- the months;
+- the pin man's "all he did was walk through a market";
+- Coss's week ("Monday of last week", "a week ago", "on the Friday").
+
+Two joins were smoothed:
+- In ch 55, the chalk-board woman is now met "the next morning", which fits Doss's evening scene before it.
+- In ch 58, Vell's line is now "for seven months: *unrated (vouched)*" (see the card decision below), which replaces the coordinator's "since the winter".
+
+**Protected and untouched:**
+- every exchange of the bout and its landing beats ("It had been there first.", "The gate was open.", "It made a noise like a latch.", "Darrow knelt.");
+- every between-exchange break, and the break before Vell's cutaway;
+- Vell's count;
+- Hesk's letter as read, and his proud letter;
+- the daughter, the empty log page, the stranger, the grey slip;
+- the final bench image as the last line;
+- every short speech line and every protected line.
+
+### Card wording: one thing
+
+The card, the board, the district return and Vell's line in her book all read ***unrated (vouched)*** from the autumn until the bout. This matches the M7 canon, "Assessed isn't rated… The book still calls you unrated, and so will I at the rope". The assessment lives in the margin beside his standing line. One clause in ch 55 says so: *a card was for the yard, and the yard had never yet asked for him by anything else.* Ch 58 says it once more: *The assessment lived in her margin, not on the line.*
+
+At the rope on the day, Vell says "Cael Hesk-ward. Assessed-Copper. Vouched." This is deliberate, because the yard has come. She then writes the protected ledger line. Changes:
+- ch 55: the book line and the card text become *unrated (vouched)*;
+- ch 56: the district-return copy becomes *unrated (vouched)*;
+- ch 57: the board card becomes *unrated (vouched)*;
+- ch 58: Vell's morning line becomes *unrated (vouched)*, "for seven months".
+
+`assessed Cu` now appears nowhere in M9.
+
+### The drawer thesis, said fewer times
+
+Kept: Cael's founding thought at the board (ch 54), Hesk's letter (ch 56), Vell's "It keeps them asked about" (ch 59), and the *frightened* beat on the steps.
+
+Cut or varied:
+- Feryn's restatement (ch 54) is now "So you'd like to cost them something… That's a fighter's answer, anyway. Not a clerk's."
+- Lira's "nobody could put him in a drawer" (ch 54) is now "stood in the middle of the market, so nobody could ever say they hadn't seen him".
+- Lira's paraphrase of Hesk on the steps (ch 56) is cut to "It's your grandfather's, near enough… I only said it shorter."
+- Cael's recap to Coss at the gate (ch 56) is cut from about 120 words to two sentences ("It didn't keep the sweep out of the market, or the mark off my file, or you off that cart"). His "better in a drawer" becomes "better somewhere small".
+- Cael's restatement to Lira on the wall (ch 60) is now "I made myself loud for one kind of looking."
+
+### Scene merges (seven breaks removed)
+
+Each break was replaced by a time or motion cut. Words per scene went from 807 to 949.
+
+| Chapter | Merged | Join |
+|---|---|---|
+| 55 | s2 + s3 (the tin → the widow's yard) | "She was asleep before she had finished adding this. She woke before it was light with the sum still there, and went down…" |
+| 55 | s5 + s6 (Doss → the chalk-board woman) | "He was still turning it over the next morning, coming down from the old man's gate, when he passed…" ("two was not three" now lands as a pattern) |
+| 57 | s3 + s4 (Feryn on the bench → the wraps tied, the Log) | continuous on the same bench |
+| 58 | s5 + s6 (Darrow's question → Lira puts him on the bench) | continuous in the yard |
+| 59 | s1 + s2 (the kitchen → Lira at the kitchen door) | continuous |
+| 59 | s2 + s3 (the grey-half bench → Vell's table) | "Then Lira jerked her head toward the back wall, and he got up." |
+| 60 | s3 + s4 (the closing entry → the grey half next morning) | "In the morning he went up to the grey half…" The bench image is still the last line. |
+
+### The tail, shortened
+
+- **ch 59.** The market walk (the eel woman, the kindling man, the women at the pump) is cut to one sentence leading straight to the boys and the bread woman, about 150 words fewer. The Hesk-letter lead-in is compressed.
+- **ch 60, Coss.** The return-rack, entry-procedure, register, query-form and working-log paragraphs are compressed by about a third, about 350 words fewer. Kept: the chalk line, the slip, the date ("The date was Monday. The day after."), the refusal to infer from two dates, the footprints in the snow, *Noted*, the daughter's line before the form goes back, the empty page, "the first thing in his working life that he could not have written down and then stood behind", the key, and the carried seven.
+
+### Tags
+
+Tags were dropped wherever the paragraph already names the speaker, chiefly in:
+- ch 54 s5 (Lira's room);
+- ch 56 s3 and s5 (Feryn's notes; Coss at the gate);
+- ch 59 (the kitchen, Feryn, Vell, the bread woman);
+- ch 60 s1.
+
+Reporting verbs (said/asked/told/answered/added/called) went from 357 to 299, about 90 per 10k; "said" alone is now 185. Tags were kept wherever three speakers share a scene (Feryn, Lira and Cael on the wall).
+
+### Joins (reflective scenes only)
+
+Clipped runs that carry one thought were joined by hand in:
+- ch 54 s1 (the board, the drawer, the custom);
+- ch 55 s1–2 (Lira's cutaway);
+- ch 56 s1–2 (the letter, the trough; "He stood there with nothing.", "He tried again.", "His arms went heavy anyway. That was the worst of it." kept);
+- ch 58 s8 (the Log after the notice);
+- ch 59 s6 (the stranger; "That was all, at first.", "They were looking at him." and "He did not go after them." kept);
+- ch 60 s2 (Coss, the densest).
+
+A few narration pairs in the pre-bout of ch 57 (the benches; the empty *Ruling* line) were also joined. Three over-long results were split back (Lira's "stand back" sentence, her waking, Coss's working log). The bout's exchanges and every speech line are untouched.
+
+### Metrics (`tools/formula_metrics.py`, seven chapters)
+
+| Measure | Before r1 | After r1 | Working range |
+|---|---|---|---|
+| Words (tool / wc) | 33,884 / 33,969 | **33,209 / 33,287** | 32,000–35,000 |
+| Sentence mean | 12.34 | **13.10** | target 13.0–13.3 (range 13–15.5) |
+| ≥40-word share | 3.5% | **4.5%** | ≤4.5% |
+| Words per scene | 806.8 | **948.8** | 850–1,050 |
+| Scene breaks per 10k | 10.33 | 8.43 | ~8.7 |
+| ≤5-word share | 34.2% | 34.3% | up to ~34% |
+| Paragraph median | 26 | 26 | up to ~30 |
+| FK grade | 3.31 | **3.61** | 3.5–6 |
+| Reporting verbs | 357 (~105/10k) | **299 (~90/10k)** | ~41 |
+
+Per chapter (wc): 54 4,921 · 55 4,876 · 56 4,867 · 57 4,620 · 58 6,830 · 59 3,713 · 60 3,460.
+
+### Checks
+
+- `ed.sh overlap book-01-the-shattered 9`: `# summary: 0 unprotected shared runs of >= 8 words; 8 protected runs (allowed)`.
+- `ed.sh gates`: reader_standard=0, metadata=0 and modern=0 on all seven chapters.
+- `skeleton_probe.py` (source ch 21–24): total **1%** skeleton, 10% close. Per chapter: 54 1%, 55 0%, 56 2%, 57 0%, 58 0%, 59 1%, 60 2%. No scene is over 15%. Every listed sentence at 0.65 or above is protected or quoted in the packet.
+
+### Unresolved
+
+- **The ≥40-word share sits at the ceiling (4.5%).** The joins that lifted the mean also lengthened some reflective sentences. Any further joining should aim at 15–30-word sentences.
+- **Reporting verbs, about 90 per 10k, are still double the target.** What remains is in multi-speaker scenes or carries a gesture.
+- **Length 33,287 is inside 32,000–35,000.** It is about 10% under the original ~37,000 budget, as noted before and not repaired.

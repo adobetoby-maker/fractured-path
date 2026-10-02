@@ -92,7 +92,7 @@ Behind her table, Vell had got to her feet.
 
 Darrow came across the circle like a door coming off its hinges.
 
-Cael read it from the floor up, because that was where Darrow had taught him to read all afternoon. The left foot, set three times. Then the strike being made, down there, in the foot, and climbing: up the left leg, through the low left side, through the shoulder and down the arm, out along the very road every one of Cael's ten had gone in by, only the other way. It was everything Darrow had, coming up out of the ground through the crossing on its way to his fist. The front foot came across to shut the right side off. The long left came from the back.
+Cael read it from the floor up, because that was where Darrow had taught him to read all afternoon. The left foot, set three times. Then the strike being made, down there, in the foot, and climbing: up the left leg, through the low left side, through the shoulder and down the arm, out along the very road every one of Cael's nine had gone in by, only the other way. It was everything Darrow had, coming up out of the ground through the crossing on its way to his fist. The front foot came across to shut the right side off. The long left came from the back.
 
 And Cael knew where it would land, and how wide it was, because he had watched this man for three exchanges, and Darrow had watched him back.
 
@@ -180,7 +180,7 @@ She straightened. It was so quiet that she could hear the pie boy's breathing be
 
 Then the yard let go of whatever it had been holding, and the noise of it hit her in the back like a wave as she walked to her table. She sat down and opened the ledger at the page and picked up her pen, and found that her hand was not quite steady, which it always was, and waited until it was.
 
-There were two lines under the date that she had written that morning. The Bronze's, with his rank and Path. And under it the other one, the way she had written it for seven months: *assessed Cu (vouched)*.
+There were two lines under the date that she had written that morning. The Bronze's, with his rank and Path. And under it the other one, the way she had written it for seven months: *unrated (vouched)*. The assessment lived in her margin, not on the line.
 
 The custom was hers. She had made it up herself, thirty years ago, at a table very like this one. A book that wrote down every name that came over its rope was a book nobody needed. A name went in when the yard came to see it.
 
@@ -248,9 +248,7 @@ Darrow looked at the hand that would not come, and then at Cael, and understood 
 
 He went back across the circle for his jacket and his bag. At the gate the pie boy ran after him holding out the coin he had paid to come in, and Darrow folded the boy's fingers back over it, as he had at the start, and went out into the lane. The lane moved out of his way the way people step back for a heavy cart they have seen come safely down a hill.
 
----
-
-Lira put him on the bench before his legs could give their own opinion, and stood in front of him, and held up one finger, and moved it, and watched his eyes try to follow. She moved it the other way. She frowned at what his eyes did. She pressed the heel of her hand very gently against the low right side, rib by rib, and stopped where he made the sound, and felt round it, and frowned harder.
+Lira put him on the bench before his legs could give their own opinion, and stood in front of him, and held up one finger, and moved it, and watched his eyes try to follow; she moved it the other way, and frowned at what his eyes did. She pressed the heel of her hand very gently against the low right side, rib by rib, and stopped where he made the sound, and felt round it, and frowned harder.
 
 Then she sat down on the bench beside him, on the side that did not hurt, and did not do anything at all for a while.
 
@@ -316,7 +314,7 @@ Torvin thought about it.
 
 His arms came back to him a little after the hour, enough to get the shirt off with Yeni holding the other sleeve and looking firmly at the ceiling. When she had gone down, he sat on the end of his cot in his undershirt and looked at his side by the light of her lamp, which she had turned toward him on the shelf before she went.
 
-It had come up dark from the rib under the arm to the top of the hip, one long stain under the skin, deepest at the fourth rib up, where something had cracked like a board in the timber yard. Breathing in hurt. Breathing out hurt differently. The edges of the room were steadier than the edges of the yard had been, but when he turned his head quickly the shelf came after him a moment late. He watched it do that, and then did it again, and it was a little less late than the first time.
+It had come up dark from the rib under the arm to the top of the hip, one long stain under the skin, deepest at the fourth rib up, where something had cracked like a board in the timber yard. Breathing in hurt, and breathing out hurt differently. The edges of the room were steadier than the edges of the yard had been, but when he turned his head quickly the shelf came after him a moment late. He watched it do that, and did it again, and found it a little less late than the first time.
 
 Yeni's lamp put its bead of light on the boards. He looked at it, and the quiet came.
 
@@ -331,11 +329,11 @@ Tier equivalent: unknown.
 
 He sat with it a long time.
 
-*Recorded.* Whatever kept that book had seen what the yard saw, and that was all it had to say. Vell had at least said *so entered*, and said his name, and written down how. This one wrote less than Vell. It did not even say who had won. He found, sitting there, that this made him want to laugh, and his ribs were very clear that he was not to.
+*Recorded.* Whatever kept that book had seen what the yard saw, and that was all it had to say. Vell had at least said *so entered*, and said his name, and written down how; this one wrote less than Vell, and did not even say who had won. He found, sitting there, that this made him want to laugh, and his ribs were very clear that he was not to.
 
 He took the Log out of his coat and opened it on his knee.
 
-The front first, as always. That part went down easily, because it was his, and he had built every piece of it on the straw. *Seventeenth. Darrow Innes, Bronze Rank 1, Iron Path. Won, fourth exchange, called, by incapacity.* Each exchange in a line. The crossing, with the empty line filled in at last: *Ruling: it held. Low left, rib to hip. One man; one afternoon.* Doss's thing, and what he had done about it: believed his hands. The nod, read in two exchanges, and Lira's chin. Feryn's hand, put where the exchange would end, borrowed and used. *What won it: Lira's way. Say it plainly. Ten in one place, and not one of them meant to count.* The costs: the forearm, the right side, the ribs, a week, the edges, going. The arms full of sand in the middle of a bout, which had never happened, and which Lira was owed a long talk about.
+The front went first, as always, and went down easily, because it was his and he had built every piece of it on the straw. *Seventeenth. Darrow Innes, Bronze Rank 1, Iron Path. Won, fourth exchange, called, by incapacity.* Each exchange in a line. The crossing, with the empty line filled in at last: *Ruling: it held. Low left, rib to hip. One man; one afternoon.* Doss's thing, and what he had done about it: believed his hands. The nod, read in two exchanges, and Lira's chin. Feryn's hand, put where the exchange would end, borrowed and used. *What won it: Lira's way. Say it plainly. Ten in one place, and not one of them meant to count.* The costs: the forearm, the right side, the ribs, a week, the edges, going. The arms full of sand in the middle of a bout, which had never happened, and which Lira was owed a long talk about.
 
 Then he turned the book over to the back.
 
@@ -345,8 +343,8 @@ Then he turned the book over to the back.
 
 He sat with the pencil over the page for a long time.
 
-He tried to draw it, first, the way Corvane had taught him to draw a thing he could not say: a stick figure, and a long arm coming at it, and two marks in its chest. He looked at the two marks and they were wrong; they were two, and it had not been two. He struck it through. He tried words. *The Wind took me round and then* — and struck that, because there had been no *then* in it anywhere. *I picked up both* — and struck that, because he had not picked up anything. He had reached for one and found himself holding a basket with two handles, and the reaching and the finding were in the one room in himself that he had never been able to see into. He could not write down how to do it again. He could no more have written it down than he could have written down how he had grown an inch since the autumn.
+He tried to draw it first, the way Corvane had taught him to draw a thing he could not say, with a stick figure and a long arm coming at it and two marks in its chest; but the two marks were wrong, because they were two and it had not been two, and he struck it through. Then he tried words. *The Wind took me round and then* — and struck that, because there had been no *then* in it anywhere. *I picked up both* — and struck that, because he had not picked up anything. He had reached for one and found himself holding a basket with two handles, and the reaching and the finding were in the one room in himself that he had never been able to see into, so that he could no more write down how to do it again than he could have written down how he had grown an inch since the autumn.
 
-So in the end he wrote the only sentence that would stand up on the page. It did not explain anything. He wrote it the way you drive a stake in at the edge of a marsh, not to say what is out there in the reeds, but to say where the dry ground stops.
+So in the end he wrote the only sentence that would stand up on the page. It did not explain anything; he wrote it the way you drive a stake in at the edge of a marsh, not to say what is out there in the reeds, but to say where the dry ground stops.
 
 *They're not separate things I switch between. They're one thing with parts I haven't found all of yet.*

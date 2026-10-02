@@ -1014,3 +1014,95 @@ Spring: the pear tree in flower, then frost-browned. Cael is fourteen.
 - Ch48–53, ~32,440 words. Mean 13.04, ≥40w 4.3%, 926 w/scene; overlap 0 (3 protected); skeleton probe 0% (close 5%); gates 0.
 - Recheck fixes: ch53 roof — Cael now reaches the door / small place / closed file / who they'd send before Lira stops him ("I've got the shape of it. The words can wait."); ch52 the thread woman re-introduced ("A woman in the lane…").
 - The summons reads "on the Thursday of this week" (day 141). The "drawer" chain is deliberate: Coss's closure offer → Cael's "I'm only easier to put in a drawer" → Hesk's "can't be put in a drawer".
+
+
+## After Movement 9 — BOOK 1 ENDING (chapters 54–60; repair r1 + recheck fixes; CLOSED 2026-10-02)
+
+**Coordinator rulings (override the author's end-state below):**
+- Calendar canon: arrival day 4; vouch and brackets day 8; assessed-Copper day 97 (margin note only); Ilsev day 141; Lira asks Doss at dawn day 183; Doss's kitchen scene evening 183; the chalk-board woman day 184; the bout day 200 (Sunday); Coss back day 196, desk Friday 198, the return Monday 194, opened Wednesday 203. "Seven months" is the book's rounding for Cael's Ardenmere time (BOOK_MAP §1 "about seven months later").
+- Card canon: the line reads *unrated (vouched)* until the yard comes; the assessment lives in Vell's margin. At the rope Vell says his name and "Assessed-Copper" for the first time (superseding M7's "so will I at the rope"); then the protected ledger line.
+- Record 9–7; eight instances (seven = exchange 3, the step unasked; eight = exchange 4); the trough failure uncounted.
+- Iron Path ledger phrase: "the crossing is the reset after each load" (= Book 3 ch8's "evasion-reset vulnerability"). The edition's Darrow stands right foot forward, left back and nailed (differs from source ch23 — the series map quotes the edition).
+- Between-books gap (Book 2's map must stage or lapse): Darrow "back up this river in the autumn… he'll want to know"; Feryn's coat "I'll not see it till the autumn".
+- Book 6 plant: Coss's senior flag dated the day after the bout; no file entry; the empty working-log page; the key home. Cael knows none of it. Rank stays OPEN.
+- The stranger: sex and features unstated (not Book 2's watcher, not Brom). The tollhouse half-mark footprint untouched and unexplained.
+- Cael does not know the autumn pin man was "borrowed" (Coss's ch28 only).
+
+**Author's end-state (as drafted; read through the rulings above):**
+
+
+**Calendar.** Weekdays from day 55, a Tuesday.
+- Day 180 (Mon): the board; Vell's table. Day 182 (Wed): Feryn; Darrow named; Lira's room; Lira cutaway; plan letter to Hesk written (posted day 183, arrives ~190).
+- Day 183: the straw post begins. Doss and the chalk-board woman in the first days.
+- Day 186 (Sun): Darrow's yes; terms; cards to every board.
+- Day 187 (Mon): Hesk's "being seen" letter. Day 188: both at the trough. Day 191 (Thu): Feryn's notes; the crossing drawn. Day 192 (Sat): the steps.
+- Day 193 (Sun, Denvash): Hesk writes the proud letter (posted ~194, arrives day 201).
+- Day 196 (Wed): Coss at first light; back on the noon cart.
+- **Day 200 (Sun): Darrow.** Day 201: ledger by name; Darrow and Feryn gone downriver; Hesk's letter. **Day 202: the stranger**; Lira. **Day 203: Coss finds the flag**; Cael's letter to Hesk and the final log lines. Day 204: the grey half.
+- Late spring; the pear tree in leaf. Cael is fourteen.
+
+**Bodies.**
+- Cael: right side, rib under the arm to the top of the hip, one long deep bruise, worst at the fourth rib, where something cracked (a week down at least, "two if you argue"); breathing hurts both ways. Left forearm bruised wrist to elbow over the old burn (ex 2). Inside of lip split. Thigh dead briefly (ex 1), recovered. Edge-wobble, fading through Sunday evening, **gone by Monday morning**. Arms leaden from the middle of ex 4 to a little after the hour. Not training; Vell will not card him this month.
+- Darrow: left arm half-dead for the afternoon; **depletion**, no damage on display; rose alone; left on the first barge on day 201.
+- Feryn: a chest cold. Coss: a cold off the carts.
+
+**Knowledge.**
+- Cael knows: the crossing held (one man, one afternoon); Iron Path as felt; the nod is readable by a Bronze in two exchanges; both fragments can come together **only unasked** (at the trough, reaching for one drops the other); Coss's daughter; the section head's red line on the district return; Darrow will want to know in the autumn; a stranger, not Compact, has let him see them.
+- Cael does **not** know: Coss's flag; who holds the view; who the stranger is; the mechanism.
+- Lira knows everything Cael knows, including the stranger; she has set her term and told him it.
+- Vell: has written his name; saw "something I have no word for"; has a successor line; will not ask.
+- Darrow and Feryn: each holds an open question (Darrow's: "I'll want to know").
+- **Coss**: knows the result (district return chalk), and a senior-level flag on the file dated the day after; told no one; no entry, no log line.
+- Hesk: knows the plan and the apology (letter ~190). Does not yet know the result or the stranger (letter written day 203).
+
+**Resources.**
+- Purse from Darrow (amount not stated). Rent held by Torvin.
+- **The Log.** Front cover: three Hesk letters (home; being seen; proud). Back: the fourteen names; the Coss daughter line; *Seventeenth* (front) with *Ruling: it held*; seventh and eighth instances; the struck drawings; **the boundary line (twice: on the eighth-instance page and inside the back cover)**; **the closing entry** last.
+- **Lira's post**: the straw post (bought with the first coin out of her tin); the canvas back on it; columns *gone* (40), falls, **W**, **P** (four rings *trough*; one unringed *both. nothing. arms anyway.*), and a new **W—P** column: one stroke, ring, *ribs*, *arms*, *Sunday*.
+- Feryn's grey coat at the tailor's by the lower bridge, to be sent after him.
+
+**Fragments & progression.**
+- **Notice received**, at Torvin's, night of day 200, exact:
+  ```
+  FRAGMENT NOTICE
+  [unnamed] — Wind-adjacent. [unnamed] — Pressure-adjacent.
+  Concurrent function: recorded. Integration: partial.
+  Tier equivalent: unknown.
+  ```
+- Fragments: two, unnamed, plus the **first concurrent use** (ex 4, undecided). No third.
+- **Instances as logged: eight.** 7 = Darrow ex 3, the step, unasked, seen by everybody. 8 = Darrow ex 4.
+- **The Pressure used against a person for the first time** (only inside the concurrent use; never asked for). It cost at the wrong moment: arms filling during the exchange.
+- **Record 9–7** (W Darrow, Br 1 Iron, fourth exchange, called, incapacity). Log entry 17 = Vell's 16th bout.
+- **Vell's ledger lists him by name** for the first time (exact line in ch 59). Board: *HESK-WARD* in chalk under her card. Assessed-Copper.
+- Compact: closed, pending; legal review (months).
+
+**Relationships.**
+- **Lira**: told late; angry; forgave once, "doesn't renew automatically"; in fully; her term set and kept; "Then be one"; the embrace; "I'll check"; the habit named again, gently.
+- **Vell**: three conditions kept; his name at the rope and in the book; "It keeps them asked about."
+- **Feryn**: named Darrow; coached; won his coat; account still open.
+- **Darrow**: courteous; "What are you?"; "I'd hate it to be free"; will want to know.
+- **Coss**: came twice off the record; told Cael his daughter; now holds a flag he has told no one about.
+- **Hesk**: two letters; the promise "properly" paid.
+- **The old man**: no number; the one-degree nod. **Torvin**: the chair; "You walked." **Torvin's wife**: egg and milk. **Sella**: five buns; will bet against him again. **Doss**: a hand on the table. **Yeni**: water by the cot; fetched Lira. **The bread woman**: her own loaf; name withheld. **The boys**: carried the cards; chalked HESK-WARD; "Hesk-ward!" together. **Dessa**: watched his mark. **Marrow**: shut his book at 13.
+
+**Open threads.**
+- Added: the stranger; Coss's flag (unknown to Cael); the empty log page and the key Coss took home; Darrow's autumn; Feryn's coat to send; the long talk with Lira and the trough about both-at-once; the nod readable at Bronze.
+- Carried: legal review; the view; the tollhouse half-mark (untouched); the polite "circuit kid" man; the carriers' clerk; Yeni's favour; Corvane's "come back"; the guild matter "on the book"; watching vs contact.
+- Closed: the marquee; Vell's custom (the yard came); Hesk's "properly"; Coss's offer (answered by the bout); Lira's term.
+
+## New canon minted (flag for approval where marked)
+
+1. **Darrow Innes's person**: about thirty; middle height; "broad through the middle the way a cask is broad"; close-cut hair the colour of wet sand; nose broken long ago and set a little aside; thick ears; quiet square hands; plain brown jacket folded twice; canvas bag; pays at the gate; reads feet first, hands second, faces last. *Flag (B2 Ch13 recalls him).*
+2. **Iron Path as rendered**: everything goes in, across and down to a set back foot; a brief pause "to send it down"; Iron fighters themselves strike one place; his guard of the crossing is an elbow on the hip and a quarter turn; the concluding strike comes up the same road from a thrice-tapped back foot. *Flag (B3 Ch8's "evasion-reset vulnerability" is reconcilable: the reset after each load).*
+3. **The concurrent use as rendered**: unasked; the Pressure "simply there", ungathered; "both handles of one basket"; into the blow, along it; some force returns "like the trough's rings"; the rest lands; arms fill with sand *during*. *Flag for Book 2 consistency.*
+4. **Vell's successor line** about this bout; she does not write *atypical*. **Vell's count to ten** for an incapacity call.
+5. **The chalk-board woman = the week-two Stone woman** (unnamed).
+6. **Feryn's grey coat** (tailor by the lower bridge); his loss to a Copper Iron at twenty in a tannery yard; the salt-flats Force woman (Cu 8, unnamed). *Flag Feryn's anecdote.*
+7. **The district return**: weekly, copies "all matter posted"; Coss's section head underlined the card in red. *Flag.*
+8. **Coss's senior flag as rendered**: upper-floor grey paper, a printed head seen twice before on other files, a code in no register and with no prefix, no office/initials/instruction, dated the day after the bout. Coss's first empty log page; the drawer key taken home. *Flag (Book 6 plant; no source named or theorised).*
+9. **The straw post** (Lira's widow's tick, first coin from her tin) and the **W—P column**.
+10. **HESK-WARD** chalked on the board by Red Cap (the broken *W*).
+11. **Hesk's proud letter** text (written before the result). *Flag.*
+12. **The stranger**: sex unstated; plain clothes "the colour of the market"; no physical detail; stands still at the knife-grinder's bench; silent; the look "allowed". Deliberately unlike Book 2's watcher.
+
+### BOOK 1 DRAFT COMPLETE — ch1–60 closed movement by movement; book-completion pass next (state/completion/COMPLETION-PLAN.md).
