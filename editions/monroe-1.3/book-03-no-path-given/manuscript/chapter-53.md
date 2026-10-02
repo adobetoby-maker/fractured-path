@@ -94,9 +94,9 @@ Cael folded the page along its old creases. He did not put it in the binder. He 
 
 ---
 
-He took the last of the borrowed books down to the archive in the middle of the afternoon: the charter's three volumes and the schedule's index from Karis's bench of books, and the fourteen digests with Yorlan's name in the margin. The argument did not need them any more.
+He took the last of the borrowed books down to the archive in the middle of the afternoon: the charter's three volumes and the schedule's index from Karis's bench of books, with Prynn's concordance card folded back inside its cover, and the digest volumes with Yorlan's fourteen hearings in them. The argument did not need them any more.
 
-Prynn was on her high stool with her ledger open. She watched him set the armful down on the end of her desk, and checked each spine against its slip as she had checked the others the day before, and then she did not say anything at all. She only looked toward the back of the room, past the pillar, where the code's case stood by the old wall.
+Prynn was on her high stool with her ledger open. She watched him set the two armfuls down on the end of her desk, and checked each spine against its slip as she had checked the others the day before, and then she did not say anything at all. She only looked toward the back of the room, past the pillar, where the code's case stood by the old wall.
 
 So he took them back himself. He carried the charter down the long room to the very back, where the case stood floor to ceiling with its fascicles hanging their faded tapes like roots. He found the three gaps where the slips had been, and slid each volume home with its spine in line with its neighbours. Then the index, and the digests to the fourth shelf of the second case. Nobody had told him where any of them lived, and he did not have to look.
 

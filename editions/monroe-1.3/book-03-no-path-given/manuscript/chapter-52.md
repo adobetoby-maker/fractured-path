@@ -40,7 +40,7 @@ He did not know what to say, so he looked at the bread.
 
 "Does it frighten you?" said Lira, more quietly.
 
-He thought about it properly, as he had promised Oona once that he always would.
+He thought about it properly, which was the only kind of answer she had ever taken from him.
 
 "A little," he said. "Mostly it's too big to be frightened of. It's like being frightened of the hill."
 

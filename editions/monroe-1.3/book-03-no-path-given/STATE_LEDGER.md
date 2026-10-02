@@ -1046,3 +1046,8 @@ Movement 5 CLOSED 2026-10-02 after repair r1 and three recheck line fixes (ch32 
   - Havel has met Coss once in a regional corridor; he was promoted "in the summer".
   - The delegation lodges in the guest wing and works in the assessors' room.
   - The courier came back two days early.
+
+### Movement 7 — CLOSED (2026-10-02, after repair r1 and recheck line fixes)
+- Ch47–53, ~36,290 words. Mean 13.07, ≥40w 3.6%, 862 w/scene; overlap 0 (12 protected); skeleton 2% (close 12%); gates 0.
+- Recheck fixes: ch47 Coss turns "to Havel" (POV); ch51 duplicated tell; ch50 a join recomposed off the source (0.68); ch52 the unsupported Oona-promise callback replaced; ch53 the return scene names the digest volumes (the fourteen are hearings), the concordance card goes back inside the index's cover, "the two armfuls"; ch48 "why she had let the tea go cold".
+- The custom objection's answer is "It amends." / the forty-one amendments / "Custom is not code"; Brom's hole-in-the-world question is answered "Somebody writes the law. Nobody ever mended a hole by pretending to stand on it."

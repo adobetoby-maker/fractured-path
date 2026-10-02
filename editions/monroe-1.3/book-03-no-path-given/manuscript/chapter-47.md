@@ -68,7 +68,7 @@ The officer of record was waiting inside the gate.
 
 Havel saw him as he handed the case down to the porter and climbed down after it, and for a moment he did not move. He had expected it, because he had read the delegation's papers on the first night at the inn, every line, and the name had been there at the head of them where it had to be. Expecting a thing was not the same as standing in a cold yard looking at it.
 
-Warden Coss was older than Havel had pictured, and more tired. He wore road-coloured clothes and stood with his hands at his sides, with a young man with two satchels a half-step behind him. He greeted the magistrate first, as procedure required, and then Assessor Ilsev of the senior evaluation seat, and then the records officer, who was still trying to find his hat. Then he turned to the young man with the recording case.
+Warden Coss was older than Havel had pictured, and more tired. He wore road-coloured clothes and stood with his hands at his sides, with a young man with two satchels a half-step behind him. He greeted the magistrate first, as procedure required, and then Assessor Ilsev of the senior evaluation seat, and then the records officer, who was still trying to find his hat. Then he turned to Havel.
 
 "Assessor Havel," he said. "Recording officer now, I see. You've a new grade."
 

@@ -224,7 +224,7 @@ Nobody said anything, and across the stable somebody laughed at the tiles and wa
 
 "I could." Karis looked at him. "And then on Monday a magistrate asks for every paper bearing on the respondent's capabilities, and somebody on that bench knows I sat a match with him, and knows I took notes, because everybody knows I take notes. And my room is in the residence wing of a chartered academy." She was quiet for a moment, turning the folded notice over in her fingers. "I don't think it will happen. I think it's possible. Those aren't the same, and I've spent my whole life refusing to treat them as if they were."
 
-Cael understood then what she meant, and why the tea had gone cold in front of her.
+Cael understood then what she meant, and why she had let the tea go cold in front of her.
 
 "The supplementary entry," he said.
 

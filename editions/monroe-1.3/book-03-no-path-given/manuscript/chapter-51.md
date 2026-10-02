@@ -22,7 +22,7 @@ Gerda was at the back of the crowd, tall over the first-years, in her patched co
 
 "It means the Warden isn't calling anybody to stand up and say what they saw," said Cael. "He doesn't need anybody. Everything he's going to say is already written down."
 
-Oona considered that for some time, with her whole face.
+Oona considered that for some time, from every side.
 
 "Then everybody who stands up is for you," she said.
 
