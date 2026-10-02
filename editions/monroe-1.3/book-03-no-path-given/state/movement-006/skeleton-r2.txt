@@ -1,0 +1,180 @@
+chapter-42.md	sentences=200	skeleton=8%	close=28%
+  scene 1	n=25	skeleton=12%	close=32%
+  scene 2	n=23	skeleton=4%	close=26%
+  scene 3	n=112	skeleton=6%	close=29%
+  scene 4	n=28	skeleton=14%	close=32%
+  scene 5	n=12	skeleton=0%	close=0%
+    [s1 0.56] MS: The gate clerk had never seen the seal before, and she did not know what to do with her face.
+              SRC: The gate clerk had never seen the credentials before, and it showed.
+    [s1 0.56] MS: Cael did not need to see the second paper.
+              SRC: Cael didn't need to see the second paper to know who was standing at the gate.
+    [s1 0.53] MS: There was no version of what had just happened that needed the notebook to make it real.
+              SRC: There wasn't time, and there wasn't a version of this that needed the notebook to be real.
+    [s2 0.62] MS: "Whatever it is," she said, "the shelves will still be here."
+              SRC: Prynn watched him go, not unkindly, and said only: "Whatever it is, the shelves will still be here.
+    [s3 0.51] MS: "Two days in a borrowed office and a good many questions, and I asked them as gently as they would go."
+              SRC: A market square, and a great many questions I asked as gently as the questions could be asked."
+    [s3 0.53] MS: "You've come a long way from your district."
+              SRC: "You're a long way from a district record office," Cael said.
+    [s3 0.88] MS: "'Warden' was never a town title," said Coss.
+              SRC: "'Warden' was never a town title," Coss said.
+    [s3 0.84] MS: A chartered academy that knowingly holds an invalid enrollment exposes its own charter to review.
+              SRC: "And a Compact-chartered academy that knowingly harbors an invalid enrollment exposes its charter to review.
+    [s3 0.59] MS: Children your registry filed wrongly and we caught.
+              SRC: Children your own registry misfiled and this academy caught.
+    [s3 0.64] MS: The magistrate's office fixes the interval, not I, and I'd not ask to.
+              SRC: The magistrate's office sets the interval; I don't control it, and I wouldn't ask to.
+    [s3 0.90] MS: "After that," said Quenna, "the job is to be right."
+              SRC: "After that," Quenna said, "the job is to be right.
+    [s4 0.62] MS: "Not at Coss; he isn't worth the fuel.
+              SRC: Not at him — he's not worth the fuel.
+    [s4 0.55] MS: Aim it at whatever hired a decent man and got that out of him.
+              SRC: At a machine that can hire a decent man and get *this* out of him.
+    [s4 0.53] MS: Then today one man walks up the hill with one card and says the paperwork won't hold you.
+              SRC: Tonight a man with a card says the paperwork can't hold you.
+    [s4 0.63] MS: "Personally, I think the paperwork ought to be more worried than you are."
+              SRC: Personally," and the word carried its full Brom-weight of understatement, "I think the paperwork should be more worried than you are."
+chapter-43.md	sentences=184	skeleton=7%	close=24%
+  scene 1	n=37	skeleton=5%	close=27%
+  scene 2	n=32	skeleton=19%	close=31%  <-- over 15%
+  scene 3	n=37	skeleton=0%	close=11%
+  scene 4	n=37	skeleton=5%	close=24%
+  scene 5	n=41	skeleton=7%	close=29%
+    [s1 0.59] MS: Something came into Prynn's face that was not surprise.
+              SRC: Something shifted in Prynn's face — not surprise, exactly.
+    [s1 0.73] MS: It contradicts itself in four places I've found, and I've never had anybody to show them to.
+              SRC: It contradicts itself in at least four places I've found and never had anyone to tell.
+    [s2 0.73] MS: For two days afterward Greyvane ran a low fever.
+              SRC: For two days after the challenge was filed, Greyvane ran a low fever.
+    [s2 0.53] MS: There were something over two hundred students at Greyvane, and by his own careful count every one of them knew that in three weeks a magistrate of the Compact would sit in their assembly room and rule on whether the observer could stay.
+              SRC: The academy had two hundred students, and by Cael's own conservative count, all two hundred of them now knew that in three weeks a Compact magistrate was going to sit in their lecture hall and decide whether the observer was allowed to exist here.
+    [s2 0.88] MS: Some of them looked at him with pity.
+              SRC: Some of them looked at him with sympathy.
+    [s2 0.69] MS: Every power the enforcement chapters granted, every single one of them, and he went back and checked them until the letters swam, was granted in the same shape.
+              SRC: Every power the Compact's enforcement chapters granted — every single one, he had checked until his eyes burned — was granted in the same grammatical shape.
+    [s2 0.52] MS: He sat back in the cold and looked at that for a long time.
+              SRC: He sat with that for a long time before he wrote it down.
+    [s2 0.56] MS: He wanted to have tried hard to prove himself wrong before he allowed himself to be right.
+              SRC: He wanted to be wrong about it first, thoroughly, before he let himself be right.
+    [s4 0.63] MS: We go to the Compact ourselves and concede the error, and Cael's standing goes back to whatever the provision actually covers, which is nothing.
+              SRC: We approach the Compact before the hearing, concede the category error, and quietly revise Cael's standing to something the provision's language actually covers — which, honestly, is nothing.
+    [s4 1.00] MS: "This is your enrollment, not mine to trade.
+              SRC: "This is your enrollment, not mine to trade.
+    [s5 0.53] MS: I'd like to say it before I lose my nerve."
+              SRC: Nobody's said it yet because it sounds insane, and I want to say it anyway before I lose my nerve."
+    [s5 0.50] MS: "I'll study it the way I study anybody I have to fight.
+              SRC: "I'm going to study it the way I study opponents," Cael said.
+    [s5 0.51] MS: Whatever he found in his own arithmetic came out the same as the first time, and Cael thought that was the whole of him: an academy built out of picking up the bets other people put down.
+              SRC: Whatever the recalculation returned, it returned the same answer as the first time, because that was the whole of who Naveth was: a man who had built an institution out of doubling the bets other people folded.
+chapter-44.md	sentences=211	skeleton=10%	close=26%
+  scene 1	n=38	skeleton=13%	close=29%
+  scene 2	n=68	skeleton=12%	close=32%
+  scene 3	n=44	skeleton=16%	close=25%  <-- over 15%
+  scene 4	n=32	skeleton=3%	close=31%
+  scene 5	n=29	skeleton=3%	close=3%
+    [s1 0.75] MS: "The one who walks into that room has to be you.
+              SRC: "The person who walks into that hearing has to still be *you*, Cael.
+    [s1 0.56] MS: Lose yourself in the reading and I won't care how fine the argument is.
+              SRC: If you lose that somewhere in three weeks of reading, I don't care how good the argument is.
+    [s1 0.56] MS: You'll have lost the part I care about first."
+              SRC: You'll have already lost the part that matters more."
+    [s1 0.56] MS: "She's spent most of her life waiting for somebody who reads her shelves instead of asking her what's on them."
+              SRC: "She's been waiting sixty years for a student who reads the shelves instead of asking her to summarize them."
+    [s1 0.51] MS: "Whatever's left of you," she said, "will still beat most people on a floor on their best day.
+              SRC: "Whatever's left of you," Lira agreed, "is still going to be better on a floor than most people at their best.
+    [s2 0.82] MS: We have three weeks and a very great many years of code between us, and I mean to use every hour of both."
+              SRC: We have three weeks and four hundred years of code between us, and I intend to use every hour of both."
+    [s2 0.70] MS: You want to know what generations of amenders thought they were fixing, and you want it in the order they took fright."
+              SRC: You want to know what four hundred years of amenders thought they were fixing, in the order they panicked about it.
+    [s2 0.60] MS: He looked from the card to her, and felt a door come open onto a discipline he recognized.
+              SRC: Cael looked at the card, and then at her, with the sensation of watching a door open onto a discipline he recognized.
+    [s2 0.62] MS: "Then you can read law already," said Prynn, dry as the shelves.
+              SRC: "Then you already know how to read law," Prynn said, dry as her shelves.
+    [s2 0.67] MS: "Most people start by believing the text is finished.
+              SRC: "Everyone else starts by believing the text is finished.
+    [s2 0.62] MS: "All my years at that desk," she said, "and the first honest drawing of the code anybody's ever shown me is a fight chart."
+              SRC: "Sixty years," she said, "and the first accurate picture of the registry code I've ever seen drawn is a fight chart."
+    [s2 0.50] MS: Her face had a light in it he had seen only twice: in this archive on the day she first asked his leave for anything, and in the formal yard with her lattice smoking round her feet.
+              SRC: There was a light in her he had seen exactly twice before — once in the archive on the day she introduced herself, once on the training hall floor with a wrecked lattice smoking behind her.
+    [s2 0.80] MS: "You keep saying that as though it might stop me.
+              SRC: "You keep saying that as though it will discourage me.
+    [s3 0.77] MS: "Fix it now, before it sets, or on hearing day you'll lean at the magistrate like a man reaching up for a book."
+              SRC: Fix that before it sets, or by hearing day you'll gesture at the magistrate like a man reaching for a shelf."
+    [s3 0.59] MS: "Every ranked fighter knows that, and every courtroom in the country, and you've had it from me for nothing."
+              SRC: "That's the actual secret of every ranked fighter and every courtroom on the continent, and you got it from me for free."
+    [s3 0.50] MS: I lost you somewhere round the second bell."
+              SRC: I lock the doors at the second bell.
+    [s3 1.00] MS: Four hundred pages, no tells, no third exchange.*
+              SRC: Four hundred pages, no tells, no third exchange.*
+    [s3 0.61] MS: Then, because it was true, and writing down true things was the only method he had ever entirely trusted, he wrote what came after it.
+              SRC: He looked at the sentence a moment, and then, because it was true and because writing true things down was the only method he had ever fully trusted, added the rest.
+    [s3 0.67] MS: Watch it the way I'd watch anybody, until I can see how it moves.
+              SRC: Same method as always: watch it until I can see how it moves.*
+    [s3 0.50] MS: There are four of us now at the end of the table.*
+              SRC: Ink at the far end of the table, never near the bindings.
+    [s4 0.56] MS: "As I'd study anybody I had to fight."
+              SRC: "The way I'd study anyone I was going to fight."
+    [s5 0.50] MS: He looked at the last line for a while.
+              SRC: He looked at the last line, and then, in the interest of accuracy, amended it:
+chapter-45.md	sentences=235	skeleton=6%	close=20%
+  scene 1	n=33	skeleton=12%	close=24%
+  scene 2	n=19	skeleton=11%	close=21%
+  scene 3	n=28	skeleton=7%	close=39%
+  scene 4	n=45	skeleton=13%	close=24%
+  scene 5	n=16	skeleton=0%	close=19%
+  scene 6	n=94	skeleton=1%	close=11%
+    [s1 0.65] MS: It was the demonstration provision itself: its drafting, its amendments, every enrollment that had ever leaned on its words.
+              SRC: The obvious road — the road anyone would take — was the observer provision itself: its drafting history, its amendments, every prior enrollment that had leaned on its language.
+    [s1 0.67] MS: Not one of them had changed what it was for.
+              SRC: Not one of them had been argued for.
+    [s1 0.57] MS: However generously anybody read it, the provision had been written for the untested, and he had been tested, and no amount of its history could change what its words said or what its first drafter had meant by them.
+              SRC: However generously the provision was read, it had been written for the unkindled, and he was not unkindled, and no amount of history changed what the words said.
+    [s1 0.54] MS: It was the same correction Lira had driven into him in a cold yard in Ardenmere, a lifetime ago, in other words: *quit watching your own feet.
+              SRC: It was the same correction Lira had beaten into him a year and a half ago, on a training floor, in a different language: *stop watching your own feet.*
+    [s2 1.00] MS: *Classification, for all purposes under this charter and its subordinate provisions, shall mean designation under the Schedule of Recognized Paths and Standings, as amended.*
+              SRC: *Classification, for all purposes under this charter and its subordinate provisions, shall mean designation under the Schedule of Recognized Paths and Standings, as amended.
+    [s2 0.64] MS: That was why the schedule carried no scars: nobody had ever gone at it.
+              SRC: That was why the schedule had no scars.
+    [s3 0.56] MS: Every provisional category the Compact had tried before it made up its mind: Dual-Registered, Contested-Standing, Interim-Assessed, and half a dozen more that came and went as the Compact's idea of a Path kept changing under it, slowly and clumsily.
+              SRC: Every provisional category the Compact had ever tentatively recognized before deciding whether to keep it — Contested-Standing, Interim-Assessed, Dual-Registered, half a dozen others that had come and gone across four centuries as the Compact's understanding of what a Path even was kept slowly, awkwardly revising itself.
+    [s3 0.52] MS: There had to be a page he had missed, in this building or in a records hall three districts away: an amendment, an annex, an order somewhere that made the flag lawful.
+              SRC: Somewhere in this building, or in some Compact records hall three districts away, there had to be the page he'd missed — the amendment, the annex, the enabling order that made the flag legal.
+    [s4 0.50] MS: "Sixty years I've kept these shelves," said Prynn.
+              SRC: "Sixty years I've kept these shelves," she said, finally, dry as the dust she was famous for tolerating without complaint.
+    [s4 1.00] MS: "You're the first person to read the code the way it's written instead of the way it's enforced."
+              SRC: "You're the first person to read the code the way it's written instead of the way it's enforced."
+    [s4 0.88] MS: "Whether it's a compliment depends on what you do with it.
+              SRC: Whether it's also a compliment depends entirely on what you do with it next.
+    [s4 0.76] MS: "There's nobody within three districts who'd take it," said Cael.
+              SRC: "There's no lawyer within three districts who'd take it," he said.
+    [s4 0.54] MS: It has to be mine, or it isn't a reading."
+              SRC: It has to come from me, or it reads as a trick instead of a reading."
+    [s4 0.53] MS: "If it's going to be your own voice, you'd better know every case they'll throw back at it."
+              SRC: If you're going to say it yourself, you had better know every case they'll say back."
+    [s6 0.50] MS: He looked at the floor of the passage.
+              SRC: She looked at him over the top of the volume, reassessing something.
+chapter-46.md	sentences=259	skeleton=3%	close=17%
+  scene 1	n=35	skeleton=0%	close=9%
+  scene 2	n=60	skeleton=8%	close=18%
+  scene 3	n=71	skeleton=0%	close=7%
+  scene 4	n=20	skeleton=0%	close=15%
+  scene 5	n=43	skeleton=5%	close=30%
+  scene 6	n=15	skeleton=0%	close=13%
+  scene 7	n=15	skeleton=7%	close=40%
+    [s2 0.64] MS: "You've got ink on your nose, and your shoulders are round your ears again."
+              SRC: You have ink on your face and your shoulders are up around your ears."
+    [s2 0.64] MS: "A week ago I told a whole room I'd keep you a fighter.
+              SRC: "Ten days ago I told the table I'd keep you a fighter.
+    [s2 0.71] MS: She kept it old and short: first-year patterns, footwork his feet could have found asleep, the evasion frames from the Ardenmere yard before either of them had heard the word Greyvane.
+              SRC: The dusk drills were short, and she kept them old — first-year patterns, footwork he could have run asleep, the evasion frames from before either of them had ever heard the word Greyvane.
+    [s2 0.50] MS: She was not training him for anything, and neither of them pretended otherwise.
+              SRC: She wasn't training him for anything and they both knew it.
+    [s2 0.53] MS: By the third sequence he could feel what eight days at a table had quietly taken: a stiffness all down his back, a tenth of a beat missing from his pivot, his eyes wanting to settle on one thing instead of softening to hold the whole floor.
+              SRC: She was doing maintenance, on something neither of them named, and by the third sequence he could feel exactly how much the week had taken and hidden the taking of: the stiffness across his back, the tenth-of-a-beat lag in his pivot, the way his eyes kept wanting to fix on a point instead of soften to the whole floor.
+    [s5 0.80] MS: *I'm not going to argue my enrollment is valid.
+              SRC: *I am not going to argue that my enrollment is valid.
+    [s5 0.63] MS: He picked the pen up again and went on.
+              SRC: Then he picked the pen back up, and kept writing.
+    [s7 0.51] MS: He read the last line, and then, for the sake of accuracy, he put the pen back to the page.
+              SRC: He looked at the last line, and then, in the interest of accuracy, amended it:
+TOTAL	sentences=1089	skeleton=7%	close=23%

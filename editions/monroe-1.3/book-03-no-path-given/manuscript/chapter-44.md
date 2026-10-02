@@ -1,0 +1,257 @@
+# Chapter 44 — Enactment Order
+
+Nobody had stood up yet when Lira spoke, and nobody had expected her to be first.
+
+She had sat through the whole council with her arms folded and her boots flat on the boards, saying nothing at all, and Cael had felt the nothing growing beside him like heat off a stove. Now she unfolded one arm and put a finger on the desk in front of him, hard, as if she were pinning a slip to a board.
+
+"Before anybody hands out jobs," she said, "I'm taking mine, and I'm taking it first, so it doesn't get left to the end and forgotten." She did not look at Naveth or Quenna. She looked at Cael. "You're a fighter. You've a sitting coming whether there's a hearing or not, and I'd put money on a man with a card at the back of it. You don't get to go down into the dust for three weeks and come up having forgotten what your feet are for. So I keep you sharp. The yard, every dusk, and I don't want to hear that you're busy being clever." Her voice stayed low, and it was harder than anything else she had said all morning. "When you walk into that room I want it to be you. Not a lawyer wearing your face. Lose yourself in the reading and I won't care how fine the argument is. You'll have lost the part I care about first."
+
+For a moment nobody said anything, and Karis had already opened her notebook. She turned it sideways on the desk, so that it lay between all of them, and ruled a line down a clean page, and another across the top. On the left of the first row, in her small upright hand, she wrote *L.* On the right she wrote *keeps him a fighter*, and then she looked up at Lira and waited, pen lifted, to see whether she had got it right.
+
+"Dusk," said Lira. "Write dusk."
+
+Karis wrote *dusk*.
+
+"The code's mine," said Cael. "With Prynn, if she'll have me."
+
+"She'll have you," said Quenna from the window, before Karis's pen had reached the page. "She's spent most of her life waiting for somebody who reads her shelves instead of asking her what's on them."
+
+"I've got a thread," said Cael. "One. I need somebody next to me who'll say so when it's a real seam, and say it twice as loud when it's only the one I wanted."
+
+Karis wrote *C. and P. — the code* on the second row, and under it, smaller, *one thread*. Then, without lifting the pen, she wrote her own initial on the third row, and only after it was written did she say what it was for.
+
+"The founding shelves," she said. "Everything from before the code was put in the order it's in now. If the schedule is silent about what you are, it's silent for a reason, and the reason was written down by somebody before anybody had settled on today's words." She capped the pen and set it square to the page. "That's mine."
+
+"It can't be the argument," said Cael. "In that room it has to stand on the code as it's written today. Nobody there will care what an assessor thought before the schedule existed."
+
+"I know nobody will. That's why I want it." She did not look away from him. "You're going to hunt for what wins. I'm going to hunt for what's true. You know better than anybody I've met that they aren't always in the same place."
+
+He did know it, and he let her keep it, and she uncapped the pen again and wrote *truth, not argument* beside her own initial, and underlined *not*.
+
+"Procedure is ours," said Naveth. He was watching the page fill with something in his face that was nearly amusement. "Quenna's and mine. The timetable for the documents. Arguments over scope. Every letter the magistrate's office sends, and the reply to it, at the last lawful hour." He looked at Karis's pen. "Put *delay*, if you like. It's this academy's one gift. I'd rather believe it's an institutional gift than a personal failing."
+
+Karis wrote *N. and Q. — procedure, delay*, and did not smile, and very nearly did.
+
+That left one row ruled and empty, and everybody looked at Brom, who was still leaning against the alumni books with his hands behind his back.
+
+"I'll tell you on the stair," said Brom. "I'm thinking about it."
+
+Cael reached across and took Karis's pen out of her fingers. She let him. He turned the notebook toward himself and, at the very top, above all the rows, above his own name and hers and Naveth's, he wrote in his square hand *Dusk. The yard. Every day.* and drew a line under it. Then he gave the pen back.
+
+Lira looked at the page upside down for a long moment.
+
+"Whatever's left of you," she said, "will still beat most people on a floor on their best day. Don't forget that either."
+
+---
+
+They went down the worn stair in a loose string, Naveth first with the challenge under his arm, and Brom stopped on the half-landing so suddenly that Quenna nearly walked into him.
+
+"Witnesses," he said. "That's the row. Either side can enter witnesses of fact, you said. Edran withdrew his petition on the record in his own hand; nobody will call him a friend. There'll be others who watched the sittings. I'll find out which of them will stand up and say what they saw, and not one word more."
+
+"Not coached," said Quenna. "A magistrate can smell a rehearsed witness from the back of the hall."
+
+"I know the difference between helping somebody remember and telling them what they remember." Brom said it drily, and went on down. "I grew up on an estate where people were told what they'd seen. I'll not do that to anybody. Not for anything."
+
+Above them on the stair, Karis had stopped to write *B. — witnesses, uncoached* on the last row, and closed the notebook on it.
+
+At the foot of the stair they scattered without goodbyes. Naveth turned toward his counsel's door. Quenna was reading a folder before she had gone three steps. Brom made for the yard and the high windows, where Edran would be at this hour, and Lira for the floor desk, to write their names against dusk. Cael found himself alone where the passages crossed, holding a morning's worth of other people's promises with nowhere to set them down.
+
+Karis had not gone. She caught him at the foot of the worn stair when the others were out of hearing, with her notebook shut under her arm and her face doing the careful thing it did when she had seen a fault in somebody's timing and had not yet decided whether she was allowed to say so.
+
+"He's right," she said. "The provost. About the charter."
+
+"I know he's right."
+
+"I wrote it down when the Warden said it. On Monday, in the stable, from what you told us. *Exposes its own charter to review.*" She held the notebook a little tighter. "I underlined it, and then I didn't look at it again, because I didn't want it to be true." She looked at him. "That's a bad habit in a researcher. I'm telling you so you'll watch me for it."
+
+"I'll watch you for it."
+
+"Good." She went two steps up the passage toward the archive and turned. "Whatever you find about your word, find out about his lever as well. A finding that only covers half the question isn't a finding. It's a hope with a citation."
+
+She went on ahead of him. He stood a moment longer, and then he went to the archive too, because that was where the work was.
+
+Prynn was waiting at the long table. She had three volumes open on it already, and a folded card beside them, and a fresh pot on her desk, as if she had known before anybody told her which way the meeting would go.
+
+"I heard," she said, without looking up. "Sit down. Three weeks isn't long against that much code, so neither of us wastes an hour of it."
+
+He sat.
+
+She already knew how she meant him to do it. Of course she did.
+
+"Enactment order," she said. "That's how you'll read it." She turned the first volume round so that it faced him. "Not the order it sits on the shelf in. The shelf is only where it was put away. The order it was enacted in is the order it was made, piece by piece, and whatever is weak in a thing is weak because of how it was made, not because of how somebody shelved it later." She laid her finger on the folded card. It was a concordance of the amendments, ruled by hand in faded ink, the columns narrow and dense and perfectly straight, and it was plainly older than his parents would have been. "The first amendment, then the second, then the third, all the way up. Every patch tells you somebody got frightened. Read them in order and you'll see what frightened them, and when."
+
+"In the order they took fright," Cael repeated.
+
+"Every amendment is a confession," said Prynn. "Each patch went on because somebody had found a hole, and it sits exactly where the hole was. Read them in the order they went on, enough of them, and you'll have drawn yourself every weak place that wall has ever had."
+
+He looked at her.
+
+"The taxonomy master said that," he said. "In the first week. He said when I was older I should read the amendments. He said every one of them was a confession."
+
+Prynn did not look surprised. She looked, very briefly, pleased, and then she put it away again as she put everything away.
+
+"He sat at this table when he was about your age," she said. "A long time ago. He had it from me." She pushed the card an inch nearer to him. "I'm glad somebody's finally taken him up on it. He's been saying it to first-years for thirty years, and not one of them has ever come down here afterward to see whether he was right."
+
+He looked from the card to her, and felt a door come open onto a discipline he recognized.
+
+He was quiet a moment. "I read fighters like that," he said. "By what they've had to fix. Nobody practises a guard against a blow that's never landed on them. If somebody's drilled their left side until it shines, somebody once hurt them on the left."
+
+"Then you can read law already," said Prynn, dry as the shelves. "Nearly every reader who sits there thinks the text is a finished thing. It isn't. It's a thing that's stopped for the moment." She took off her spectacles and polished them on her cuff and put them back. "You'll save us a week."
+
+They worked through what was left of the afternoon.
+
+She took the concordance and he took the text, and the first afternoon's work was nothing but an inventory, the whole code laid out in the order it had grown. He blocked out its shape in the observation notebook in the same pattern he used for any Path he was learning. *Charter* went at the root, granting everything. Beneath it went the *Schedule of Recognized Paths and Standings*, and he wrote that one large, because it was the first commitment, the one everything after it depended on, as every move in a fight depends on the declaration that made it possible. Beneath that went the *Obligations of Practitioners* and then the *Enforcement* chapters, as the follow-through: each of them drawing its force from the commitment above it, each of them helpless without it.
+
+He drew the whole of it as a declaration tree, because that was the shape his thinking had been trained into, the way some people think in sums. When he turned the notebook round to show her, Prynn looked at the diagram for a long time. Then a noise came out of her that he had not known she could make, short and dry and dusty, and it was only afterward, walking out to the yard, that he understood it had been a laugh.
+
+"All my years at that desk," she said, "and the first honest drawing of the code anybody's ever shown me is a fight chart."
+
+She went back to her desk, and he sat over the tree for a long while afterward until he looked up, because a lamp was coming toward him out of the founding stacks at the back, and it was Karis.
+
+He had not known she was there; she had ink on two fingers and dust on her cuffs and a satchel of notebooks over her shoulder, three of them full already from the look of the satchel, and she set the lamp down at the end of the long table and looked at his tree upside down.
+
+"Prynn gave me the waystation registers," she said. "The founding shelves. Everything from before the last time anybody put the code in order." Her face had a light in it he had seen only twice: in this archive on the day she first asked his leave for anything, and in the formal yard with her lattice smoking round her feet. "They wrote about people before the schedule had words for them. I want to know what words they used instead."
+
+"The hearing can't use any of it."
+
+"Say it as often as you like. I'm still going." She picked up her lamp again. "The hearing can have your search. I'll have mine." She nodded toward the iron-banded door. "And Lira's been walking up and down outside it for a quarter of an hour, with a face that isn't patient. Go and stand on a floor."
+
+---
+
+Lira had the ring drawn already when he came out into the yard, a chalk circle on the frozen earth with the pump standing beside it, and Brom at its edge with the flour sack of pea bags at his feet.
+
+She did not say hello; she came at him from the first breath.
+
+Footwork came first, until his legs remembered they were legs, and then the old patterns from the yard behind the Ardenmere grain exchange, the ones she had taught him before either of them knew she was teaching. Then three rounds of the chalk lattice, which she seemed to have decided was a part of his life now whether any lattice ever came at him again or not. Brom threw from the edge without a word, and four bags touched him in the first round and three in the second. In the third he came out of a turn late and stiff, and Lira stopped dead in front of him.
+
+"Look at you," she said. "One day in there. You stand like a clerk at a high desk. Shoulders up by your ears. Chin out, as if you're squinting at small print." She reached out at half speed and tapped his breastbone with two fingers, and he was too slow to get out of the way. "That sets if you leave it. Leave it three weeks and you'll stand in front of the magistrate stooped like a clerk reaching for a high shelf."
+
+"The magistrate won't care about my shoulders."
+
+"Everybody cares about shoulders. They just don't know it." She swept his front foot, quick and economical, and he sat down hard on the frozen ground and laughed, where a year ago it would have shamed him. She held out her hand. "Every ranked fighter knows that, and every courtroom in the country, and you've had it from me for nothing."
+
+He took her hand and got up, and the frozen earth had left a cold print right through the seat of his trousers.
+
+Somewhere in the second half of the hour the day drained out of him, and he noticed it the way you notice a noise has stopped. For the first time since the gate he was not thinking about anything: not the word, not the case behind the pillar, not the man with the card. There were Lira's feet and Brom's bags and the cold, and the old turns coming up out of him one after another because his body knew them better than he did. He understood again what she had chosen in the provost's office that morning, and that nobody alive could have done it better.
+
+"There," she said, when the third sequence came clean at last. "That's you. I lost you somewhere round the second bell."
+
+"I was in a meeting."
+
+"You were in a meeting with your shoulders." She coiled the rope off the pump's nail and hung it back. "Tomorrow. And the day after. I don't care what you find in there. At dusk you come out and you stand on a floor."
+
+Late that night in his room, with the observation notebook shut for once and the code's first volume closed on the desk, he opened the binder at the back. Since the moment in Naveth's office when he had said the mad thing out loud and been startled to find he meant every word, one line had been waiting all day to be written, and he wrote it.
+
+*New opponent. Four hundred pages, no tells, no third exchange.*
+
+He looked at the line a while. Then, because it was true, and writing down true things was the only method he had ever entirely trusted, he wrote what came after it.
+
+*Three weeks. Study it as I'd study a fighter: no single question till I've seen the whole of how it carries itself. Prynn says read it in the order it was frightened. L. says come out at dusk and stand on a floor. Both of those are the same rule.*
+
+He sat a moment longer, and then wrote one more line under it, smaller, the one he had carried down the worn stair and had not wanted to look at.
+
+*N.: "He doesn't need authority over you. He has it over me." The challenge names Greyvane's charter, not me. Whatever the code says about my word, it still charters the academy. Find out what that's worth.*
+
+He drew the small box round it. *Not yet.*
+
+He wrote to Hesk after that, at the same desk, because Hesk had told him to write when something happened, and this was the first thing since Denvash that had happened in quite this way.
+
+*Hesk —*
+
+*Something is happening, and I'd like you to hear it from me before you hear it from anybody else.*
+
+*The man from the borrowed office in Ardenmere came up the hill on Monday with correct papers. He was let in because the papers were correct. He has filed a challenge to my enrollment, and there will be a hearing in three weeks, in public, with a magistrate of the Compact. He was honest with me about what he is. He was gentle about it. It's the job, he says. I believe him.*
+
+*I'm going to answer it myself. Not the enrollment. That can't be answered, and I won't pretend it can. Something underneath the enrollment. I can't put it in a letter yet, because I'm not sure of it yet, and I don't write down things I'm not sure of. You taught me that before Vell did.*
+
+*Please don't come. It isn't that I don't want you. It's that the road is long, and you'd only end up sitting on a bench outside a room, and I'd know you were there, and I'd want to come out and sit beside you instead of doing the work.*
+
+*The arm is mending. Lira takes my bread. There are four of us now at the end of the table.*
+
+*Cael*
+
+He read it back. There was nothing in it that a stranger could have used, and nothing in it that was not so. He wrote the Denvash direction on the outside and set it on the corner of the desk for the third-day post, and sat a while looking at it, thinking of a stove that smoked when the wind was east and a bench somebody had mended so that it would be ready whenever.
+
+---
+
+On the first full morning he forgot the slip.
+
+He had drawn a volume of the enforcement digests from its shelf and carried it to the long table, and he was three pages in when he felt Prynn standing behind him. She did not say anything, only held out a strip of blank paper between two fingers, the width of a book's spine, and waited until he understood, and got up, and went and put it in the gap on the shelf where the volume had been.
+
+When he came back from the shelf there was a card propped against his inkwell, in Prynn's square print, that had not been there before.
+
+*READERS. Nothing open overnight. Three high at most. Ink at the far end, pen on its side. A slip in every gap.*
+
+He read it and moved his inkwell to the far end of the table, which he had not done, and laid his pen on its side, which he had not done either. The roof over the corner of the reading room had a brown stain spreading across the plaster, and Prynn, who had watched him read the card, looked up at the stain and then at him, and did not need to say anything about what the rules were protecting against.
+
+Then she broke one herself.
+
+She brought him the first volume of the charter with both hands under it, as if it might break, and then a second, and a third, and went on fetching, so that by the time she stopped the pile at his elbow was eleven high and leaning. He looked at the card, and she looked at the pile.
+
+"The card is for readers who come for one page," she said. "Keep the concordance open beside you. A fighter watches how a man moves before he worries where he's standing."
+
+He read without chasing anything for the first two days, as he watched an opponent before a bout, taking in how the whole thing carried itself before he looked hard at any part of it. Halfway through the first morning, with his finger on a clause and the pile tilting at his elbow, Prynn spoke from the high desk without looking up from her ledger.
+
+"Most people come down here wanting one page that settles it. There isn't one. You're not the first to be angry at that code, either."
+
+"I'm not angry at it."
+
+The pen at the high desk stopped. "Then what are you?"
+
+He thought about it, because she would hear the difference between right and nearly.
+
+"Studying it," he said. "As I'd study anybody I had to fight."
+
+The pen started again, and she said nothing else that morning.
+
+It was the concordance, in the end, that showed him the shape. Her columns ran down the card by period, oldest at the left, newest at the right, each amendment entered with its year and a mark for what kind of change it was, and by the second afternoon he had stopped reading the clauses and begun reading her marks. The left-hand column was short, and nearly every mark in it meant *by agreement*: the Compact a treaty then, between guilds that did not trust each other, putting *where the parties consent* into everything. The middle columns were long and plain, with almost nothing marked at all, as if for a few generations nobody had needed to argue. The right-hand column was the longest of all and crowded with a mark Prynn used for one thing only. He asked her what it meant, and she said, without looking up, "Narrowed after trouble."
+
+He counted those marks, and they ran to eleven pages of his notebook by the second evening.
+
+Each one was a scar. Somebody, some time, had found a soft place in the wording and pushed through it, and the next generation of drafters had sewn the place shut and wrapped it in three conditions. No one scar was a way in. But together they were a map of where the system had been hurt and had learned to be afraid, and if you turned the map over it showed you where the system had never been hurt at all.
+
+Enforcement was scarred nearly everywhere. The obligations had plenty. The oldest charter pages had a few, long healed over.
+
+The schedule had almost none.
+
+He boxed that at the foot of the second evening's page. A thing could go unscarred, he wrote under the box, because nobody had ever gone at it, or because nobody had ever needed to. He sat with the two of them while the lamp ticked and Prynn's pen scratched at the high desk. It was two more days before it came to him that there was a third way a thing could go unscarred.
+
+---
+
+He did not stop the other work while he read. Lira would not have let him, and he would not have let himself.
+
+On the Thursday, at the sixth bell, he went from the long table to the quiet room with the code still in his head, and Lira went with him, and Brom carried the bucket of sand. Karis was on the founding shelves and had sent word by Brom that she trusted the two of them to count without her, which Lira said was the nicest thing Karis had ever said about anybody and the most suspicious. The oak post stood in its bucket in the middle of the scrubbed floor with fourteen small rings already burned into its grey side from the weeks before. He knelt and laid his palm on a clean place and chose the size, and made three marks, one after another, with the count between. All three came the width of his thumbnail. The cold came after each, and went, and his fingertips went grey and came back, and the count between each was ninety-six, then a hundred and one, then ninety-nine.
+
+"Steady," said Lira, from the wall. "Same as last week. Same as the week before."
+
+"Steady."
+
+"Then I want to try something." She came off the wall. "Put your hand back on it. Clean place. Get it ready, the way you do, so it's sitting there wanting to go. Don't light it."
+
+He looked at her.
+
+"Quenna's question," said Lira. "I'm not answering it for you. I can't. But I'd like to know one small thing, and so would you." She went round behind him, out of his sight. "Hand on the wood. Ready. And hold it."
+
+He laid his right palm on a clean place on the oak and turned toward the warmth until it was there, low and patient and ready, the size chosen, the asking a breath away from being asked. He held it. He could feel it waiting under his hand like a horse that has seen the gate open.
+
+Behind him, without any warning at all, Lira clapped her hands together hard, once, a crack like a dropped plate in the small whitewashed room.
+
+He flinched. His whole body flinched, his shoulders came up and his breath went in and his heart jumped into his throat. His palm stayed flat on the oak.
+
+Nothing lit.
+
+He knelt there with his heart going hard and the warmth still sitting under his hand, ready, unspent, exactly where he had held it. After a long moment he took his hand away. The wood under it was clean grey oak.
+
+"Well," said Lira quietly.
+
+Brom had stopped with the scoop half lifted. He put it down.
+
+"That isn't an answer," said Cael. His voice was not quite steady. "A clap in a quiet room isn't somebody who wants me gone. It isn't a fight."
+
+"No," said Lira. "It's a clap in a quiet room." She came back round where he could see her and crouched on her heels in front of him. "But a week ago you didn't know whether a fright would spend it for you. Now you know that one doesn't. That's one thing. You write it down as one thing and not as two."
+
+He wrote it kneeling on the scrubbed boards, with the binder on his knee.
+
+*Thursday, week nineteen. Three of three, a thumbnail, count about a hundred. Then L. clapped behind me with my hand on the post and the new one ready. I flinched all over. It didn't light. One fright in a quiet room. Not a fight, not anybody who wishes me harm. One thing, not two.*
+
+He looked at the last line for a while. Then he drew the small box round it, his own private mark for *not yet*, and closed the binder, and went back to the code.

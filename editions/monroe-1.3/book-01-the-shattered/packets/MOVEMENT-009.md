@@ -59,3 +59,9 @@ A known boy in a district that would notice his absence, a flag he does not know
 - **Feryn's loss-lesson** (he took away the going-round by never releasing and putting his hand
   where the exchange would end) is owed a use in the Darrow fight.
 - **Vell's cutaway budget:** about 1,900 words remain for this movement.
+
+## Coordinator notes (Movement 8 review, 2026-10-02)
+- Hesk's "being seen" letter was written on the page in ch53 (Hesk's cutaway) and is in the east bag. In M9 Cael opens and reads it; the protected line appears again only as he reads it — do not rewrite or paraphrase it. The letter's "I'll say so properly when I've found them" must be paid in this movement.
+- State entering M9: record 8–7; logged instances six; the Pressure used four times, alone, facing the trough, never in a bout or facing a person ("only ever alone, and in pieces") — if it is used against someone here, it costs at the wrong moment. Legal review "closed, pending"; Ilsev's flag unexplained by anyone; Coss has seen no flag; Cael has never seen Coss's black book (his evidence is Coss's *I don't know*). "What are you?" still unasked — Darrow's.
+- Remaining cutaway budget: Coss ~3,050 words, Vell ~1,900. Tide is flow/healing (ch01 Alis) — no Tide water-throwing.
+- Calendar: the objection was day 55, Ilsev day 141; count from the M8 STATE_LEDGER section.

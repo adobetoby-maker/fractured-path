@@ -218,7 +218,7 @@ Repair r1 changes that alter state or canon:
 
 **Unnamed roles described:**
 - Taxonomy instructor: a soft-voiced man in his fifties.
-- Registry-history instructor: a thin woman of about sixty. Her lines include "Every amendment to a code is a confession", a deliberate plant for M6–M7 registry law.
+- Registry-history instructor: a thin woman of about sixty. (CORRECTED 2026-10-02: "Every amendment to a code is a confession" belongs to the taxonomy master, Prynn's former reader — per Movement 1 prose ch5 — a deliberate plant for M6–M7 registry law.)
 - Orientation instructor: has a pointer he taps on the floor.
 - The rotating seat: a white-haired, spare man.
 - Lira's standings opponent: a third-year Force Path, Copper R8.
@@ -737,3 +737,171 @@ Movement 4 CLOSED 2026-10-02 after repair r1 and five recheck line fixes (ch31 G
 - Karis learned the stakes hypothesis on match night (Book 4 ch9: "We found out in the match"); Karis's supplementary ledger entry carries "acquisition, directed" + "Source: K." — the only such paper outside the binder.
 
 Movement 5 CLOSED 2026-10-02 after repair r1 and three recheck line fixes (ch32 the posting carries "by her written consent"; ch36 "as he had told Lira he would"; ch36 the record is no longer the writer — "today the line was not blank"). Final: 8 chapters, ~39.9k words; overlap 0; gates 0.
+
+## After Movement 6 (chapters 40–46; repair r1 applied 2026-10-02 — retold scenes rebuilt from event lists; recheck pending)
+
+### State (from state/movement-006/AUTHOR-REPORT.md, as drafted; r1 changes below take precedence)
+
+
+**Calendar.** Last night of week 20 (Sunday). Hearing: first day of week 22, first bell, the assembly room in the lecture wing (posted notice). The delegation is due a week ahead, in week 21 (M7).
+- **Wk17.**
+  - Tue: Lira's terms; first Ember test, quiet room, sixth bell.
+  - Wed: five marks.
+  - Thu: three of three; Quenna, "You're pale."
+  - Fri: Oona's mother arrives by coach and stays in the draper's room over the shop.
+  - Sat: Oona's Kindling at the second bell; Lira at the top of the hill.
+- **Wk18.**
+  - Tue: single-channel and paper tests.
+  - Coss's regional-office days are off-page to Cael. Coss leaves on Tuesday and arrives Monday wk19.
+- **Wk19.**
+  - Mon: Coss at the gate; challenge filed; family told; the notice; the draper's window.
+  - Mon/Tue nights: the archive, the tell. Tue evening: Oona's tag.
+  - Wed (registry day 1): Wray early; war council; division; Prynn's method; dusk drill; log; Hesk letter.
+  - Thu: the rules; the scars (days 1–2); quiet room, three of three and the clap.
+  - Fri (day 3): the wrong road.
+  - Sat (day 4): definitions clause.
+  - Sun–Mon (days 5–6): the schedule read twice more; Prynn's line; Karis's supper report.
+- **Wk20.**
+  - Mon–Tue: Brom's witness interviews.
+  - Tue (day 7): the gauntlet.
+  - Wed (day 8): Lira; the D6 decision; Quenna told.
+  - Thu (day 9): **D6**.
+  - Fri–Sat (days 10–11): the outline; Karis starts the schedule (Sat evening).
+  - Sat–Sun: the digests and four files.
+  - Sun night: log.
+
+**Cael's body.**
+- **Left forearm burn** (from wk16): itching by Tuesday wk17, which Wray calls the good sign. Kept in a loose sleeve and never used through wk20; still tender.
+- **Ember cost**, every use, transient:
+  - a cold drop under the breastbone;
+  - cold down the right arm, fingertips grey to the first or second knuckle;
+  - the fragment unavailable for about a hundred count.
+  - Cumulatively: grey round the mouth after four or five in a session. Lira's limit is three.
+- **Right shoulder:** the Reydan complaint, unchanged.
+
+**Abilities.**
+- **Ember-adjacent (the new work).**
+  - **Contact:** right palm. A hair's gap works; a finger's width does nothing.
+  - **No gathering, glow or hold:** one instant, then whatever he touches burns as ordinary fire until it is put out. It belongs to what his hand is on (paper over oak: the paper burns).
+  - **Size:** chosen first, as with Compression. Thumbnail reliable from wk17 Thursday: three of three, and three of three again on wk19 Thursday and at D6.
+  - **Single channel:** asked for two at once, it "picks" one, with no weakening.
+  - **Count between uses:** 94–112.
+  - **Not-doing:** he held it ready and chose not to, at rest; it also did not fire on a fright (Lira's clap). Both are boxed *not yet* and are not an answer to Quenna's question.
+- **Karis's rewordings.** One given: "a spark… everything after the spark belongs to whatever you struck it on." She says plainly that she has no second word yet. No "decision point".
+- **Wind-adjacent.** Maintenance drills at dusk; a tenth-of-a-beat pivot lag after the archive week, closed by the fourth sequence. Lattice drills 4 then 3 (ch44).
+- **Iron-adjacent.** Framework and read shown at D6 as before.
+- **Compression-adjacent and Pressure-adjacent.** Untouched.
+- **Tide anomaly.** Unchanged and not mentioned.
+
+**Record exposure.**
+- **D6 (Thursday wk20, training hall, first bell).**
+  - Panel: Quenna; Wray; the rotating seat by rota, the broad-faced woman from the movement floor (D2's). The heat-Paths instructor is rotated off.
+  - Coss attended "under the charter's procedure for a challenge filed and pending… as an observer, without voice", with his aide.
+  - Framework four passes and read four calls, as before.
+  - "Does the candidate elect to demonstrate anything further?" (first time asked). Cael named the size, the contact, three times, and the rest. Hobb fetched the section-four post and Wray the sand.
+  - The rotating seat asked range ("Contact. A hair off it at most"), duration ("Once… Then it's the wood's") and one-at-a-time.
+  - Wray: "Ignition at contact, three of three, at the stated size. No safety concerns."
+  - **Quenna (P17):** "The candidate demonstrated, at his own election, an ignition-point capability, contact-adjacent, single channel. Three times, at a size stated in advance, with a rest between. Consistent, observable practice. No safety violation noted. Assessment satisfied."
+  - Coss stopped writing at the post, wrote one more line, and asked Quenna only: "Entered as of today's date, Assessor?" / "As of today's date, Warden."
+  - Cael holds the fair copy in the binder's back pocket. **No mechanism and no acquisition** appear in any record.
+- **The rumor "the observer made fire"** is dead, absorbed into the dull record (Lira).
+- **The hearing notice** is posted in the main hall.
+
+**Knowledge.**
+- **Cael** holds:
+  - the tell;
+  - the definitions clause;
+  - the absence (three readings, five places cleared);
+  - the outline that concedes everything;
+  - the four files.
+  He knows Coss is lodging in the room over the draper's. He does not know Coss read Oona's notation.
+- **Coss** has:
+  - the drafting records;
+  - three precedents (none survived);
+  - Oona's notation as an exhibit of purpose;
+  - the D6 exhibit;
+  - the D1–D2 records from the autumn bundle.
+  He knows nothing of the mechanism. The ruled bar is still on his cover sheet.
+- **Karis:**
+  - on the founding shelves by day: registers written in sentences; nobody like him yet; *not* the waystation entry;
+  - reading the whole schedule as an independent second reader in the evenings, from Saturday wk20;
+  - still has not seen the binder, and keeps the burnt paper scrap.
+- **Oona:** saw D6 from the near bench; is no longer on the observer track; Anchor, Copper; studies him "with permission"; refused as a witness.
+- **Wray:** stands by her seven, six and twelve words.
+
+**Relationships.**
+- Lira keeps him a fighter (dusk, every day), and decided the D6 limit (three).
+- Brom will call nobody who loves Cael.
+- Prynn leaves the door open and sets the tea, and laughed once; she certified the provision forty times and knew the road went nowhere.
+- Naveth refused the withdrawal and will be "remarkably slow to notice".
+- Quenna: "the other half of it."
+- Edran will testify to fact only.
+- Hobb: "Same as last time. Four times."
+- Gerda gave the witness-entry procedure unasked.
+- Oona: the gallery, the front bench.
+- Coss: one look at the end of D6, and no words to Cael after the door.
+
+**Supporting-cast decisions this movement.**
+- Lira: terms; top of the hill; dusk upkeep; the clap test; three, not four.
+- Karis: writes nothing; first rewording; keeps the scrap; the truth search; second reader.
+- Brom: the post and sand; the witness rule; the gauntlet accepted.
+- Quenna: the stair speech; the D6 note; the thin record.
+- Naveth: the withdrawal named and refused.
+- Prynn: the case; the method; the line; the digests.
+- Coss: files in person.
+- Wray: the gauntlet; "Find what it's proudest of."
+- Oona: the Kindling; "Is it because of me?"; asks to testify.
+- Gerda: procedure.
+- Edran: fact only.
+- Hobb: furniture, and fetches the post.
+
+**Standings.** Karis first, Edran second (unchanged).
+
+**Letters.** Cael to Hesk, written Wednesday wk19 for the third-day post: the challenge, "I'm going to answer it myself", "Please don't come", "four of us now at the end of the table". This makes Hesk's P19 reply ("You argued the law and won") consistent. Wk16's letter is presumably delivered; no reply yet. Vell is still not written to.
+
+## 3. New canon minted in prose (flag for ledger and owner)
+
+- **Oona's Kindling.** Anchor Path, Copper. The station was otherwise empty that morning. The clerk is male. A low hum, like a struck bell held against a hand, sounds before an assessment. Her new tag is the tower-above-a-road crest, stamped on the back with Path, tier and year. She now sits on the left bench in taxonomy with the hardening first-years. Her mother is unnamed and stood on the left.
+- **The station interior:** a dark green door; a short flagged passage with a bench under a thick-glass window; the far door; soap and lamp oil.
+- **Cael's Denvash bench (memory):** he sat at the end nearest the door, feet not flat, called last. Hesk shifted to make the bench creak. Hesk did not wave at the workshop door the next-but-one morning.
+- **The regional notation line:** *Kindling assessment entered. Candidate formerly enrolled under demonstration provision. Classification: Anchor Path, Copper. Category of enrollment vacated; standard enrollment to follow.*
+- **The demonstration provision's origin (drafting records):**
+  - It was written for the untested children of guild families travelling on licence.
+  - It was revised three times, each revision widening who it covered, never what it was for.
+  - Three precedents in other districts were voided (a youth past age refusing testing; a disputed assessment; a clerk's mistake), and one did not reach a hearing.
+- **Coss.**
+  - Nineteen days at the regional office, in a borrowed second-floor room.
+  - The senior officer is heavy, courteous and near retirement.
+  - The in-person filing request was approved by "the same desk" within a morning.
+  - The credential card is of the field service. The aide is two years out of the regional school.
+  - Coss writes weekly to his daughter.
+  - He lodges in the room over the draper's shop ("the mothers' room") for three weeks.
+- **Hearing notice text:** *Public adjudication. In the matter of the enrollment of the candidate on the unclassified observer track, on challenge filed by the Compact's field service. A magistrate of the Compact presiding. Assembly room, lecture wing. The first day of the twenty-second week, first bell. The record will be public.*
+- **Charter procedure (D6):** the Compact's officer of record may attend the respondent's assessment "as an observer, without voice" while a challenge is pending. Witnesses of fact are entered by name, in writing, with the hour, through counsel, by the delegation's day (Gerda). They are struck for a misspelt name.
+- **The code case.** It stands at the very back of the archive by the old waystation wall, behind a pillar. The spines read *Charter. Schedule of Recognized Paths and Standings. Obligations of Practitioners. Enforcement.* Amendments are kept in taped fascicles. Prynn's hand-ruled concordance is "older than his parents".
+- **The definitions clause** is in the first article after the charter's preamble.
+- **The five places a category can live:**
+  - the main enumeration;
+  - the provisional annex;
+  - the disputed-standings appendix;
+  - the amendment schedules;
+  - the definitions cross-index.
+- **Archive rules:** nothing open overnight; three high; ink at the far end; pen on its side; a slip per pull.
+- **The taxonomy master** sat at Prynn's table as a boy and had "every amendment is a confession" from her. **Flag:** small backstory, an unnamed role.
+- **Wray's gauntlet** and Brom's third column (quoted in §1).
+- **Brom** grew up "on an estate where people were told what they'd seen". He stacks cups when thinking (first shown here).
+- **Karis's word:** "a spark." The burnt paper scrap is kept in her coat.
+- **The quiet-room post** is an old oak fence post from the kitchen woodpile, standing in a bucket of yard sand. It carries fourteen rings by wk19; the D6 marks are on the section-four post.
+
+
+### Repair r1 changes that alter state or canon
+- Coss's chain: Sat wk17 Oona Kindles (she is FOURTEEN, Anchor Path, Copper); Mon wk18 the station sends its sheet; Wed wk18 the regional office enters the line; Thu wk18 Coss reads it and requests in-person filing; Fri wk18 approval, credential and aide; Sat wk18 he leaves at dawn; Mon wk19 at the gate. He had worked the packet at the regional office "since the autumn". Where he was weeks 6–18 is otherwise unstated.
+- The charter: Naveth (ch43) — "The Warden doesn't need authority over *you*. He has it over *me*." Karis: "A finding that only covers half the question isn't a finding. It's a hope with a citation." Cael boxed it *not yet* (ch44); the definitions clause covers him but says nothing about the academy (ch45) — open for the hearing.
+- The sixth sitting's post is the clean reading post, not the burnt stake. Coss attends the sixth sitting as a voiceless observer; Coss lodges over the draper's shop; "a spark" is Karis's first rewording this book. Calendar: filing early week 19, delegation week 21, hearing week 22; Movement 6 ends the last night of week 20.
+
+### Movement 6 — CLOSED (2026-10-02, after repairs r1, r2, r2b)
+- Ch40–46, 36,287 words. Mean 13.02, ≥40w 4.2%, 905 w/scene; overlap 0 unprotected (5 protected); skeleton probe 5% (pre-repair 21%), no scene above 11%.
+- Order fixed by r1 recheck: the charter beat (Karis at the foot of the worn stair, "a hope with a citation") now follows the ch44 division and breakup; Karis is not sent to the residence wing.
+- New minor canon (r2): the division plan is written on Karis's ruled page, *Dusk. The yard. Every day.* above every row; Prynn's rules are a card on his inkwell ("three high" broken by Prynn herself); the four files in ch46 are four numbered lines with day counts 9, 6, 11, 4, unnamed; the fourth's eleven words counted, not quoted.
+- Packet line restored exactly: "This is your enrollment, not mine to trade." (protected-patterns). Kept as altered: "Where do you keep the Compact's code?" / "The registry code."; *I'm not going to argue my enrollment is valid.*
+- Prynn's protected line now attributed "said Prynn" after the first fragment.

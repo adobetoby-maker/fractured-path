@@ -1,3 +1,4 @@
 # Book 3 protected wording matched by pattern (see BOOK_MAP §9 and packets)
 session nine could not reproduce
 someone.s clerical error|nerve to sign for
+this is your enrollment not mine to trade

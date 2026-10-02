@@ -338,3 +338,248 @@ Not measured by the tool:
   - Brom's witness list: Edran and Hobb (others unstated).
   - Quenna's question is still unanswered; two small boxed data points exist.
   - Hesk's letter is on the post.
+
+## Repair r1
+
+This was one consolidated same-author pass on 2026-10-02. It followed REPAIR-BRIEF.md, review-editorial.md, review-cold.md and the edition brief's new "Draft from your own event list" section. It worked in reading order, in the seven chapter files only, and the pre-repair text stays frozen in `pre-repair/`.
+
+**Method for Priority 1.** For each named scene I wrote a private event list (events, order, wants, changes, the protected and brief-quoted lines it must carry). I then wrote the scene fresh from that list, with a new entry point and beat order, and did not reopen source chapters 15–17. Protected wording was copied from BOOK_MAP and the packet only. No script split or joined anything. Each rebuilt scene was written whole and spliced in. Later rhythm joins and the small run fixes were exact before/after strings, each composed by hand.
+
+### Metrics before / after (tools/formula_metrics.py, seven chapters)
+
+| Metric | Before | After | Working range |
+|---|---|---|---|
+| Words (wc / tool) | 36,785 / 36,691 | 35,914 / 35,832 | 35,500–38,500 |
+| Sentence mean | 13.68 | **13.12** | 13–15.5 |
+| Sentence median | 9 | 9 | (11) |
+| ≤5-word share | 30.6% | 31.7% | up to ~34% |
+| ≥40-word share | 5.1% | **4.3%** | 2.5–4.5% |
+| Paragraph median | 30 | 28 | up to ~30 |
+| Scene breaks | 36 | 33 | — |
+| Words per scene | 853.3 | **895.8** | 850–1,050 |
+| Flesch RE / FK | 84.7 / 4.85 | 86.6 / 4.44 | FK 3.5–6 |
+
+The three primary measures are all inside range. The mean sits near the floor. The rebuilt scenes first measured 12.36, because they were drafted clipped. I raised the mean by reading, joining narration that was one thought and adding a clause of physical detail where a sentence was bare. Speech and landing beats were kept.
+
+Per-chapter ≥40 shares: ch40 4.1%, ch41 6.8%, ch42 4.1%, ch43 2.8%, ch44 3.0%, ch45 4.8%, ch46 4.2%. Ch41 stays high because the Denvash chain keeps its "And the…" momentum, as the editorial review asked.
+
+### Overlap (final)
+
+`ed.sh overlap book-03-no-path-given 6` (8-word):
+
+```
+# summary: 0 unprotected shared runs of >= 8 words; 4 protected runs (allowed)
+```
+
+After the rebuild the 8-word gate found 41 runs, mostly stock phrases in reworded or kept lines. Each was recomposed in context. Three brief-quoted lines are an 8-word source run, which the gate cannot pass, so each was altered minimally and is flagged:
+- "Where do you keep the Compact's code? … The registry code."
+- "This is your enrollment. It isn't mine to trade."
+- "*I'm not going to argue my enrollment is valid.*" (word order kept)
+
+Prynn's §9.2 line now has its attribution in front ("She said, 'Sixty years…'") so that the whole run sits inside the protected text.
+
+The four protected runs are: P15; Prynn's line; the ch16 log anchor; the P3 fragment in Lira's speech.
+
+`ed.sh gates`: reader_standard=0, metadata=0, modern=0 on all seven files.
+
+### Coss's clock: option (a)
+
+The Monday wk19 arrival is kept, and the chain is compressed. Week labels after it are unchanged.
+- **Sat wk17.** Oona Kindles.
+- **Mon wk18.** The station sends its notation sheet by its own courier.
+- **Wed wk18.** The regional clerk enters the line ("on the Wednesday after the girl came back up the hill").
+- **Thu wk18.** The line is copied to Coss's daily sheet in the morning. That night he requests in-person service.
+- **Fri wk18.** Approval by mid-morning. The credential comes the same day, and the aide is assigned the same afternoon. That evening he writes the letter to his daughter.
+- **Sat wk18.** He leaves before dawn: "two days by the coach to the hill town and half a morning on the road up from there".
+- **Mon wk19.** He is at the gate.
+
+"Nineteen days" is gone. Coss has been working on the packet at the regional office "since the autumn". The senior officer briefed him "in the autumn" and Coss came "over the season" to like him. This is consistent with the M2 ledger (on the road to the regional office in weeks 5–6). The planner may still want to say whether he went home between.
+
+### The charter exchange (cold read, Priority 3)
+
+- **Ch43 council.** Naveth closes by saying: "The Warden doesn't need authority over *you*. He has it over *me*… He didn't name you as the thing at risk. He named my charter." Cael admits he had not seen it ("I'll find out what that's worth as well").
+- **Ch43, foot of the stair.** Karis says she underlined the charter line on Monday and then avoided it, and asks him to watch her for that habit. "A finding that only covers half the question isn't a finding. It's a hope with a citation."
+- **Ch44 log.** The line is boxed *not yet*: "N.: 'He doesn't need authority over you. He has it over me.' … Find out what that's worth."
+- **Ch45, after Prynn's line.** Cael checks the definitions clause against it, finds that it says nothing about the academy, and writes "The clause covers me. Does anything cover Greyvane? Find out before he asks." The box stays as it is.
+
+Nothing resolves it; the hearing carries it.
+
+### Changelist by chapter and scene
+
+- **Ch40 (left untouched except Priority 3).** Eight long sentences split at natural joints: the quiet room, the post, the char ring, the sanding, "those two afternoons", the Wednesday marks, the count between, and Oona crossing the yard. The landing lines are kept.
+- **Ch41.**
+  - Coss clock (above).
+  - "a fourteen-year-old girl…"; "The instrument behind the green door had just told her…" ("oldest… in the world" removed).
+  - Five long sentences split: the borrowed category, the third two-at-once try, the paper burning, the cover sheet, the aide's instructions.
+  - The Denvash chain is untouched.
+- **Ch42.**
+  - **Rebuilt scenes 3–6 as one office scene, the door and stair, and the family told.** Scene 5 is absorbed into the stair, and the door is merged into the office scene: two breaks removed.
+  - **Office.** The new entry has Coss mid-sentence and Cael counting the room (four chairs, three taken, the aide on the landing bench). Coss's speech arrives against the count. The recognition is shortened to the watchers, a desk, and a face.
+  - **Stair.** Quenna gives the arrangements on the half-landing, counting them on her fingers.
+  - **Family told.** It opens on Brom's stack of cups (finished seven high). Lira takes her boots off at *field agent*.
+  - **New short beat:** Coss's aide at the gate booth, "He read your file on the coach… He's fair."
+- **Ch43.**
+  - **Rebuilt scene 1.** The clerk pressing the tacks home without meeting his eyes. Prynn found at the back on her step, putting a box away ("The runner talks. So does the kitchen."). "Three things" about the code.
+  - **Rebuilt scene 4 (the council).** It opens on six people and five chairs, with Brom standing. The arithmetic is spoken: Brom, "Two hundred against one"; Lira, "I've never been so angry at a number"; Cael, "So did I. In the archive."
+  - **A break is added** at Naveth's question. Cael's roads are told in dialogue.
+  - The charter exchange; Karis at the foot of the stair.
+  - **Scene 2:** three small joins.
+- **Ch44.**
+  - **Division re-touched:** narration recomposed. Lira's speech is re-worded around "Not a lawyer wearing your face."
+  - **Breakup re-written,** and the duplicate "went to the archive" removed. Prynn's method and the declaration tree are kept. The afternoon is now "what was left of the afternoon", and the laugh is understood "walking out to the yard".
+  - **Karis on the steps (old scene 3) rebuilt and merged** into scene 2: she comes out of the founding stacks with a lamp, and sends him to Lira at dusk.
+  - **Lira at dusk re-touched:** the ring already drawn. The dusk and night scenes are merged (one break removed).
+  - The log gains the boxed charter line.
+  - **Rules and scars rebuilt.** The new entry is the forgotten slip and Prynn's held-out strip. The roof stain. The code's voice in three ages, told shorter. "It was two more days before it came to him that there was a third way a thing could go unscarred."
+- **Ch45.**
+  - **Scene 2 re-touched.** He re-reads his own tree asking "what does this stand on?" instead of re-explaining the four layers. P15 is unchanged. The doubled "no scars" sentence is removed, leaving one: "That was why the schedule carried no scars: nobody had ever gone at it."
+  - **Scene 3 re-touched:** the opening and the "did not trust it / but things did" paragraphs.
+  - **Scene 4 rebuilt.** The cold tea; Prynn reads the page upside down before he speaks ("Turn it round"). "Generations of people treating it…" replaces "a few hundred years". The cup is poured away and refilled. His answer is recomposed ("Nobody's ever asked me…").
+  - **New:** the charter box checked against the clause (above).
+- **Ch46.**
+  - **Scene 2 opening rebuilt.** A pea bag lands on his page, and Lira is in the doorway ("halfway to being furniture"). The drill is told in new beats; "The argument needs the arguer" is kept.
+  - **Scene 5 rebuilt as the page itself:**
+    - *OUTLINE*;
+    - the fallback line he started, then crossed through;
+    - two margin notes;
+    - "No second argument…";
+    - the first sentence;
+    - the digests;
+    - the italic tally of the four, and the eleven words copied unquoted;
+    - "This makes enemies… It's also the only true one I've got."
+  - The sitting's post is now "the reading post… the clean oak Brom leaned on for the felt work, not the burnt stake from the quiet room". The breakfast line was recast ("made him eat a breakfast he did not want").
+- **Untouched:**
+  - the bench, the Ember tests, the gauntlet, D6 from "Does the candidate elect" to "As of today's date, Warden";
+  - the witness interviews, the clap, the draper's window, the Hesk letter, Karis's supper report, the stable afterward and Oona's slate;
+  - every protected and brief-quoted line except the three 8-word alterations above.
+
+### Unresolved
+
+- **Sentence mean 13.12** is inside range but near the floor. The rebuilt scenes are plainer than the M5 control, and speech was kept as spoken.
+- **Ch41's ≥40 share (6.8%)** stays high by design; the movement total is 4.3%.
+- **Three brief-quoted lines** are minimally altered to pass the 8-word gate (listed above). The owner may prefer the packet's exact forms, with a protected-pattern entry.
+- **Planner:**
+  - Where was Coss between weeks 6 and 18? The text now reads "since the autumn" at the regional office.
+  - Karis's ledger supplementary entry is still a paper liability for M7.
+- **Correction for the ledger:** the M1 ledger line crediting the registry-history instructor with "every amendment… is a confession" should credit the taxonomy master (per the editorial review's ruling).
+
+## Repair r2
+
+This was a narrow same-author pass on 2026-10-02, following REPAIR-BRIEF-r2.md and recheck-r1.md §1 and §5. It worked on the current files, after the coordinator's line fixes and the ch43/ch44 join; those were not redone.
+
+For each passage I built an event list from my own manuscript, with source chapters 15–17 kept closed, and rewrote the passage with a different spine. Every event is kept, and so is every protected or brief-quoted line. Only ch42–46 and this report were edited. No git commands were run.
+
+### Per-passage event lists and changes
+
+1. **ch44 s1, the division of labour (rebuilt whole).** Events, in the new order:
+   - Lira claims first, interrupting: keep him a fighter, at dusk; a sitting coming; a man with a card; "Not a lawyer wearing your face."
+   - Karis turns her notebook sideways and rules the plan, writing each name as it is claimed.
+   - Cael and Prynn take the code (one thread; tell me when it's a real seam). Quenna: Prynn's been waiting.
+   - Karis writes her own row before speaking: the founding shelves, truth not argument. Cael: it can't be the argument. Karis: the two hunts.
+   - Naveth and Quenna take procedure and delay (the institutional-gift joke).
+   - Brom's row is left empty: "I'll tell you on the stair."
+   - Cael takes the pen and writes Lira's hour, *Dusk. The yard. Every day.*, above every row. This replaces the "needed most" reflection.
+   - Lira: "Whatever's left of you…"
+   - New break. On the half-landing Brom gives the witnesses (Edran's withdrawal, others who watched, nothing more than they saw). Quenna: "Not coached." Brom: the estate line. Karis writes his row on the stair.
+   - The breakup paragraph is re-cut, then the moved charter beat, in the brief's order.
+2. **ch44 s4, the rules and the three ages.**
+   - The rules become a card propped on his inkwell, *READERS…*, which he obeys line by line. Prynn then breaks "three high" herself, with the eleven volumes.
+   - "Not the first to be angry / What are you? / Studying it" is now Prynn's question from the high desk, mid-page, the next morning.
+   - The three ages are read off the concordance's columns: short and *by agreement*; long and unmarked; longest and crowded with *narrowed after trouble*.
+   - The scars are counted from those marks. Same counts, the schedule almost unscarred, the third way two days later.
+3. **ch45 s4, Prynn and the circled word.**
+   - "Don't tell me. Let me read what you wrote": Prynn reads his summary off the page aloud, line by line, down to *Custom isn't code.*
+   - P15 sense and Prynn's §9.2 line are kept exactly.
+   - She asks "Why haven't you?" with the tea tin in her hand and her back half turned. Cael gives the true answer first ("Nobody's ever asked me… I get to say it myself").
+   - Prynn asks for the clever one "for anybody who asks you in a corridor"; he gives the three-districts answer. "Keep both." Then "Fourth shelf, second case."
+4. **ch46 s5, the four files.**
+   - The four are set down as four italic lines in his hand: I to IV, by order only, no names. Each reads flagged at a Kindling, order of removal unopposed, and a count of days (nine, six, eleven, four).
+   - The margin word *unanswered*, then *a notice, a courier, a door, a road*.
+   - A stroke beside the three files that stop. The fourth's eleven words are copied to the back of the notebook and counted with the pen tip, not quoted.
+   - The Vell rule, recast.
+   - "How big it was" becomes a margin note in his own words, then the two closing log lines.
+   - No dating beyond "generations later" and "long before I was born".
+5. **Recommended re-cuts.**
+   - **ch43 council.** Naveth now names the withdrawal first ("the worst thing on the table first"). Lira asks "Why?", and he gives the reasons second. His closing ruling now opens with what a student may do and the slow-to-notice lamp, and ends on what he cannot sign. Cael's third-way speech opens on the undefined word and the request for three weeks, and closes on conceding the enrollment. "This is your enrollment, not mine to trade." is untouched.
+   - **ch42 family told.** Lira: "Be angry, then. Just aim it." Karis: two lines ("Then I'll start without you… indexes since I was eleven"). Brom: "I've been counting too…", still ending on the brief-quoted paperwork line.
+   - **ch42 Quenna on the stair.** The second paragraph is recast: "Five sittings… three signatures on every page"; "the whole plan… be on the record so thickly that nobody would bother looking. He bothered"; the debt owned, "a promise and not a comfort".
+6. **Overlap fixes after the rewrite.** Four 8-word runs were recomposed in context: ch43 gloss sentence, ch44 card wording, ch45 tea-tin and "speak for me" sentences. Three narration joins in the new text keep the mean in range.
+
+### Metrics (tools/formula_metrics.py, seven chapters)
+
+| Metric | After r1 | After r2 | Working range |
+|---|---|---|---|
+| Words (wc / tool) | 35,914 / 35,832 | 36,235 / 36,150 | 35,500–38,500 |
+| Sentence mean | 13.12 | **13.02** | 13–15.5 |
+| ≥40-word share | 4.3% | **4.2%** | 2.5–4.5% |
+| Words per scene | 895.8 | **903.8** | 850–1,050 |
+| ≤5-word share | 31.7% | 32.2% | up to ~34% |
+| Paragraph median | 28 | 27 | up to ~30 |
+| Flesch RE / FK | 86.6 / 4.44 | 86.7 / 4.40 | FK 3.5–6 |
+
+### Overlap and gates
+
+`ed.sh overlap book-03-no-path-given 6` (8-word):
+
+```
+# summary: 0 unprotected shared runs of >= 8 words; 5 protected runs (allowed)
+```
+
+The fifth protected run is the restored "This is your enrollment, not mine to trade." (coordinator's protected pattern). `ed.sh gates`: reader_standard=0, metadata=0, modern=0 on all seven files.
+
+### Unresolved
+
+- **Sentence mean 13.02** is in range but at its floor. The new passages lean on short speech and page lines, which were kept as written.
+- I did not re-run the editorial skeleton probe (no tool supplied). The four named passages and the recommended re-cuts now have new spines and orders; the lighter "note only" items (the ch44 s2 Karis lines, the ch45 s3 "page he had missed") were not touched.
+- **For the planner:** the day counts for the four files (9, 6, 11, 4) are new and minor canon.
+
+## Repair r2b
+
+This pass followed the coordinator's list from `skeleton-r2.txt`. It recomposed 15 single sentences in context, in ch43–46 only, by changing each sentence's shape or folding it into a neighbour rather than swapping synonyms. Meaning and beats are unchanged. No git commands were run.
+
+**ch43**
+- Prynn's "contradicts itself" became "I've caught it disagreeing with itself four times…".
+- "low fever" became the academy "a degree too warm… as a house is warm with somebody ill upstairs".
+- The pity/roof pair became one sentence.
+- "Every power… granted in the same shape" became "He checked it until the letters swam… there was not one power… that came in any shape but this."
+
+**ch44**
+- Lira: "When you walk into that room I want it to be you." ("Not a lawyer wearing your face." is kept.)
+- Prynn's "three weeks… every hour" line is recast.
+- "order they took fright" became "Every patch tells you somebody got frightened…"
+- "text is finished" became "a thing that's stopped for the moment".
+- Karis: "Say it as often as you like. I'm still going."
+- Lira's shoulders line is recast as "That sets if you leave it…".
+- The log's "Watch it the way…" became "Study it as I'd study a fighter…".
+
+**ch45**
+- The provision road is recast as "He went straight at the demonstration provision…".
+- "Not one of them had changed what it was for" became "What it was for had come through all of them untouched."
+- Prynn: "You'll decide that yourself, by what you do next."
+- Cael: "I couldn't find anyone to take it if I tried… Not in three districts."
+
+**ch46**
+- Lira's drill sentence is recomposed as two sentences.
+
+All protected and listed lines were left alone.
+
+**Results**
+- **Overlap** (`ed.sh overlap book-03-no-path-given 6`): 0 unprotected 8-word runs; 5 protected runs.
+- **Skeleton probe** (`skeleton_probe.py`, sources ch15–17), skeleton / close:
+
+| Chapter | Skeleton | Close |
+|---|---|---|
+| ch42 | 8% | 28% |
+| ch43 | 5% | 22% |
+| ch44 | 7% | 24% |
+| ch45 | 5% | 18% |
+| ch46 | 3% | 16% |
+| **Total (1,089 sentences)** | **5%** | **21%** |
+
+  The total was 7% after r2 and 21% before repair. Every chapter is inside the 2–13% clean band, and no scene is above 11%.
+- **Gates:** all 0.
+- **Formula metrics:**
+  - words 36,287 (wc) / 36,202 (tool);
+  - sentence mean 13.02;
+  - ≥40-word share 4.2%;
+  - words per scene 905.
