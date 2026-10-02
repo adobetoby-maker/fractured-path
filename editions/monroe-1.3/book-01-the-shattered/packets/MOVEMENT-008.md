@@ -54,3 +54,13 @@ A decision taken plainly, a pressure that has stopped being procedural, and a bo
 ## Coordinator note (Movement 6 review, 2026-10-02)
 
 - Hesk's cutaway budget is nearly spent (Movement 6 used ~5,100 against ~3,000; his book share is ~9,000). Keep any Hesk cutaway here brief; his letters carry him. Cumulative non-Cael share through M6 is ~12–13%, on plan.
+
+## Coordinator notes (Movement 7 review, 2026-10-02)
+
+- **Hesk knows the five things, including the Wind notice** (Movement 7, letter and his ch45
+  reply). He does NOT yet know about the Pressure notice — post that letter in this movement.
+- **Vell has heard "[SHATTERED]"** at her table (Movement 7).
+- **Logged instances: six** (the fifth an unasked step in a drill; the sixth Feryn's third
+  exchange). Lira has told Cael her row of three and her eleven solo drops.
+- **"What are you?"** is Darrow's protected question (BOOK_MAP §7) — nobody else may ask it in
+  those words before Darrow.

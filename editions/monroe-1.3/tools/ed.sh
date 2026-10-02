@@ -60,7 +60,7 @@ case "$cmd" in
     CH=(); while IFS= read -r line; do CH+=("$line"); done < <(chapters_of "$N")
     for f in "${CH[@]}"; do [ -s "$f" ] || { echo "missing chapter $f"; exit 1; }; done
     python3 "$ED/tools/formula_metrics.py" "${CH[@]}" > "$st/metrics.txt"
-    python3 "$ED/tools/source_overlap.py" --book "$ROOT/books/$BOOK" --map "$B/BOOK_MAP.md" --allow "$B/protected-patterns.txt" \
+    python3 "$ED/tools/source_overlap.py" --min 8 --book "$ROOT/books/$BOOK" --map "$B/BOOK_MAP.md" --allow "$B/protected-patterns.txt" \
       "${CH[@]}" > "$st/source-overlap.tsv" 2> "$st/source-overlap.summary" || true
     rel=(); for f in "${CH[@]}"; do rel+=(--chapter "${f#$ROOT/}"); done
     (cd "$ROOT" && python3 "$COMPILER" review --root "$ROOT" --author opus "${rel[@]}" --formula-check \
@@ -80,7 +80,7 @@ case "$cmd" in
           echo "Measured formula metrics for these chapters (tools/formula_metrics.py; method in its docstring) are below — use them; do not re-estimate:"
           echo '```'; cat "$st/metrics.txt"; echo '```'
           echo "Also check the Reader Standard (thirteen-year-old reader; see EDITION_BRIEF) and every protected-wording line in BOOK_MAP that falls inside this movement."
-          echo "Source reuse (tools/source_overlap.py; runs of 10+ words shared with the current edition, protected wording excluded) — $(cat "$st/source-overlap.summary"). Full list: $st/source-overlap.tsv. Any unprotected reuse is a finding; the edition's prose must be new."
+          echo "Source reuse (tools/source_overlap.py; runs of 8+ words shared with the current edition, protected wording excluded) — $(cat "$st/source-overlap.summary"). Full list: $st/source-overlap.tsv. Any unprotected reuse is a finding; the edition's prose must be new."
         else
           echo "This is a fresh-context COLD READ: manuscript only, no canon. Label it a simulated cold read, not a real audience measurement."
         fi
@@ -107,7 +107,7 @@ case "$cmd" in
     for kind in editorial cold; do echo "=================== $kind"; sed -n '/## Repair brief/,$p' "$st/review-$kind.md" 2>/dev/null | head -60; done ;;
   overlap)
     N=${3:?n}; CH=(); while IFS= read -r line; do CH+=("$line"); done < <(chapters_of "$N")
-    python3 "$ED/tools/source_overlap.py" --book "$ROOT/books/$BOOK" --map "$B/BOOK_MAP.md" --allow "$B/protected-patterns.txt" "${CH[@]}" ;;
+    python3 "$ED/tools/source_overlap.py" --min 8 --book "$ROOT/books/$BOOK" --map "$B/BOOK_MAP.md" --allow "$B/protected-patterns.txt" "${CH[@]}" ;;
   words)
     for f in "$B"/manuscript/chapter-*.md; do [ -f "$f" ] && printf "%s %s\n" "$(basename "$f")" "$(wc -w < "$f" | tr -d ' ')"; done
     echo "total $(cat "$B"/manuscript/chapter-*.md 2>/dev/null | wc -w | tr -d ' ')" ;;

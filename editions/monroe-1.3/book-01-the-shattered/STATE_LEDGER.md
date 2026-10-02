@@ -685,3 +685,175 @@ Repair r1 changes that alter state or canon:
 - Approved canon: Corbin's Path is Shield; Sarel's and Talis's details; Lira's room over a widow's chandler's shop; Hesk's guild review "no present cause to act… remain on the book. Open."; Alis may not use her Path until spring; the notice arrives at Torvin's on night 39 (day 94); untold-to-Hesk count five; logged instances four.
 
 Movement 6 CLOSED 2026-10-02 after repair r1 and four recheck line fixes (ch37 stray quote; ch36 the fear paragraph is six sentences; ch40 Lira stood at the post, not the board; ch38 the forearm jar). Final: 7 chapters, ~43.9k words; overlap 0; gates 0.
+
+## After Movement 7 (chapters 41–47; repair r1 + 8-word sweep r1b applied 2026-10-02; recheck pending)
+
+
+**Calendar.** Weekdays run from day 55, a Tuesday.
+- Day 97 (Tue) night: the fourth night of the step; *I think I'm borrowing something*.
+- Day 98 (Wed): the grey half; the "noticing" entry.
+- Day 99 (Thu): an extra afternoon at the mender's (keys); the old man's "planned for"; the second-source entry.
+- Day 102 (Sun): Kestrel watched on the card.
+- Day 103 (Mon): Kestrel, day one.
+- Day 106 (Thu): Kestrel, day two.
+- Day 107 (Fri): the half heartbeat; *Inconclusive*.
+- Day 108 (Sat): **the telling**, at the third hour after noon in Lira's room. The Hesk letter is written that night.
+- Day 109 (Sun): the slow step.
+- Day 110 (Mon): **Feryn offered**; the letter posted at noon; Doss.
+- Day 111 (Tue): the eel woman; Corvane's terms.
+- Day 112 (Wed): yes to Vell.
+- Day 113 (Thu): **Corvane**; Doss's "once too often".
+- Day 116 (Sun): **interim win 1**; the cooper's roof.
+- About day 117 (Mon) onward: the holding drill. In the second week, the unasked step.
+- Day 120 (Thu): **interim win 2**.
+- Day 122 (Sat): the terms said back; Lira's ruling.
+- Day 123 (Sun): Marrow.
+- Day 124 (Mon): Dessa at the board.
+- Day 125 (Tue): Hesk's reply.
+- Day 126 (Wed): the key; "And after?"
+- Day 131 (Mon, noon): **Feryn, lost**; dinner; **the Pressure notice** after midnight (night 131/132).
+- Day 132 (Tue): Lira told first.
+- Day 133 (Wed): Corvane told; the old man's "Four".
+
+Late winter, sleet then hard frost. Cael is fourteen. The senior evaluator has not arrived. The six weeks ran out on day 97, and Cael reckons the evaluator must be near.
+
+**Bodies.**
+- Cael at day 133:
+  - Left forearm, wrist to elbow, swollen and hot over the old burn (the shed force, second exchange). He carries it against his chest; "stiff for a week".
+  - Ribs on both sides: the left catch re-woken under the old Talis/Corbin place, and the right newly bruised from the fall.
+  - Chest sore where his own forearms were driven in (first exchange).
+  - Right shoulder and right hip bruised from the throw; the hip stiffened overnight.
+  - The ongoing left-hip ache from the deliberate step.
+  - Earlier: the Fenrow and dyers' bouts left nothing.
+- Lira: her right-side overrun is down to "one finger".
+- Feryn: unhurt. Corvane: winded after the lesson.
+
+**Knowledge.**
+- Cael knows:
+  - his own hypothesis, "borrowing" (no rule, no mechanism);
+  - Kestrel: inconclusive;
+  - Pressure's build and where it shows, down to the decision itself;
+  - Lira's row of three and her eleven solo drops;
+  - Feryn: two weights; he learns in an exchange;
+  - **the Pressure-adjacent notice**, with contact as a one-data-point guess.
+- Cael does not know: the mechanism (watching, contact, time, the person, the Path); who sent the sweep; the evaluator's name or arrival day.
+- **Lira** knows everything: both notices, the back pages, the borrowing, Kestrel, the grip. She is a **knowing participant** (ratified canon). Her stance: "fast, when it ought to be fast"; "neither do I".
+- **Hesk knows the five** (letter posted day 110, answered day ~118, received day 125). He does **not** yet know the Pressure notice; Cael means to write "the next thing as it came".
+- **Vell** heard "[SHATTERED]" at her table (her pen stopped). She has written Feryn's objection and Cael's answer. His name is still not in the book.
+- **Feryn** knows the word and that the third exchange was "a thing I couldn't put a name to"; he holds an open account.
+- **Corvane** knows the word and that the build shows at the decision.
+- **Doss, Torvin's table, the district**: a Bronze on Monday. Afterward, the loss.
+
+**Resources.**
+- Pouch: Corvane's mark (half paid by Lira; Cael paid the rest); no gate fee. The mender continues; the cash box of letters went to its family. The Feryn purse is not stated (the source mentions "circuit points on top of the coin"; nothing is said on the page).
+- **The Log.**
+  - Front: entries 13 (Fenrow; not shown on the page) and 14 (dyers'; not shown); **15, Feryn** (four exchanges; the ruling *Reading is necessary. Reading isn't enough*); Corvane's figure with its spiral and four strokes; three pages of Corvane; the Feryn page (*Pressure: heavy… Don't (the eel woman, h)*).
+  - Back:
+    - *I think I'm borrowing something* and its run-on;
+    - the noticing entry;
+    - *Find out. Don't guess.*;
+    - Kestrel days one and two;
+    - *Inconclusive*;
+    - *fifth instance* (box drill) and *sixth instance* (Feryn, third);
+    - **the Pressure notice**;
+    - *one data point*;
+    - *Kestrel, reread… the wrong door*;
+    - the loss line.
+- Letters:
+  - The five-things letter (day 110).
+  - Hesk's reply (received day 125, kept in the leather book).
+  - A letter about the Pressure notice is half written at movement end.
+
+**Fragments & progression.**
+- **Notice received, at Torvin's, the night of the Feryn bout, after midnight (day 131/132), exact (BOOK_MAP §7):**
+  ```
+  FRAGMENT ACQUIRED
+  [unnamed] — Pressure-adjacent. Duration: undetermined. Integration: partial.
+  Tier equivalent: unknown.
+  ```
+  It arrives in the same dark place behind the breastbone, beside the Wind one: "two lines of figures… where there had been one".
+- Deliberate use: the Wind step remains clumsy on demand (breath and hip, "a little less each time, or a little more"). Pressure use: none.
+- **Instances as logged: six.**
+  1. The cart.
+  2. Renn.
+  3. The drop.
+  4. Dessa.
+  5. The unasked step in the box drill, second prep week.
+  6. Feryn's third exchange.
+
+  Lira's slow step and the deliberate steps are not counted.
+- **Circuit record: 7–7** over the book. In this movement:
+  - W, Fenrow Cu 4 Stone, third exchange, called;
+  - W, dyers' Cu 3 Shield, second exchange, called;
+  - **L, Feryn, Br 2 Pressure, fourth exchange, by incapacity, Vell's call.**
+
+  Still assessed-Copper. Still no name in the book.
+- Untold to Hesk: **zero** after day 108, then **one** (the Pressure notice), with the intent to write.
+
+**Relationships.**
+- **Lira:**
+  - She was told first and kept the rule: "Then we don't know together."
+  - She made her ruling, "survivable… go backward". He did not go backward, and she is "both".
+  - She gave her row of three in return.
+- **Hesk:** the five told; "I'm not angry. I've no right to be." "Tell the girl thank you." He reused "Don't let anyone see you move."
+- **Feryn:** objected, then accepted the boy's own word; bought dinner; **open account** ("When you figure it out, I want to know." / "I'm always somewhere.").
+- **Vell:** offered the bout and didn't push; had the terms said back; made the call exact ("Good call." / "I know.").
+- **Corvane:** "Come back… When you've seen it again." The single-stroke figure left in the dirt.
+- **Doss:** "once too often". **Torvin:** the rent looked at; "by the yard door".
+- **Kestrel:** "Stand inside the wall, then"; "Morning."
+- **Dessa:** "a talk owing… Not this month" (sets up M8's Dessa II). She stood at the gate for Feryn.
+- **Renn:** full credit; "Watch his middle." **Sarel:** "Fall properly." **Marrow:** "You've ruined my week."
+- **The mender:** the key; "And after?" answered.
+- **The old man:** "Now they'll plan for you"; a silent nod; "Bronze." / "Four."
+- **Amrit:** double bread for Cael and the ordinary amount for Feryn.
+
+**Open threads.**
+- Added:
+  - two doors (watching / contact?) as a hypothesis;
+  - the Kestrel reread;
+  - Feryn's open account;
+  - Corvane's "come back";
+  - Dessa's "talk owing";
+  - the Pressure-notice letter to Hesk;
+  - the cost of the deliberate step, now to be written down "every time" (Lira).
+- Carried:
+  - **the senior evaluation** (overdue, felt as near);
+  - the polite "circuit kid" man;
+  - the carriers' clerk;
+  - Yeni's favour;
+  - Halden's next book;
+  - the guild matter "on the book".
+- Closed:
+  - the promise "Lira first" (kept);
+  - the five untold to Hesk;
+  - the *Not yet* box (judged "about half" honest);
+  - Lira's row of three and solo drops (told);
+  - "And after?" (answered).
+
+## New canon minted (flag for approval where marked)
+
+1. **Kestrel**: Copper Rank 5, Force. About thirty, big and slow-spoken, a ropewalk worker with tar in his hands. He trains alone at first light in the middle yard on the lane with a sack of sand on a rope from the beam, and hums. He fights on the Sunday card once or twice a month. *Flag.*
+2. **Corvane**: old, small, spare, grey hair cut close, a man's coat, a stick, heavily mended boots. She lives in the last brick house at the brickworks end, an hour from the well, with a walled yard and a scratched ring. Pressure Path at Copper, retired. She lost to Pressure fighters "for ten years", studied them ten more, and has had forty students. Her figure: a stick figure, a spiral in the chest, a tally of heartbeats ("four, for me"). She can lean the air a pace. *Flag the Path and history.*
+3. **Pressure as rendered**: the air leaning across the whole front of you with no impact point. It is built, not thrown, and held low in the trunk. It can be partly shed down a guard turned edge-on. The build can be read at the decision (the shirt stops with the breath). Feryn has two weights, tour and working. *Flag for Book 2 consistency.*
+4. **Feryn**: about twenty-four, tall, built for use, a once-good coat, "from nowhere in particular". Vell first saw him at nineteen, as a Copper, losing to a one-armed man "three days south". He sat Bronze panels for a year. His first evaluation blew the panel's papers into a canal. The goat story. *Flag the anecdotes.*
+5. **The bout's setting**: a Monday noon exhibition off the card, a gate five times a bench price, sleet, forty-one people.
+6. **Vell's count** aloud when a fighter is down and not moving; Feryn's knockdown count is eight. **Vell's history beat**: thirty years ago she turned away a girl who then fought downriver uncalled. *Flag (Vell's past).*
+7. **The eel woman** (unnamed): fish steps, once a Copper 4, three exchanges with a Bronze "from across the bridge", "Don't". **The coast boy** (unnamed, via Doss): from the river workshops, went four with a Pressure man at Fenrow.
+8. **Interim opponents** (unnamed):
+   - a Fenrow Copper 4 Stone, about twenty-five, whose knee dips before the plant; his hum is faint under a palm;
+   - a dyers' Copper 3 Shield, about seventeen, with blue hands and Brenna's old dip.
+9. **The mender's key and cash box** (letters from a woman to a man who went downriver, thirty years). Small texture.
+10. **Doss's line**: "At Bronze they learn you in an exchange." **Torvin**: "by the yard door."
+11. **The chalk square** on the board (*B*, arrow, *Monday*, *TODAY*); the errand boys' mark-each bet (Red Cap: three exchanges).
+12. **Hesk now knows the fragment(s)**, by Cael's letter of day 108. The source Ch16 letter tells him "the fragment, where I think it came from". **This is a state change for the coordinator to confirm against later books.** *Flag.*
+13. **Instance numbering**: the box-drill unasked step is the fifth, Feryn's third exchange the sixth. *Flag.*
+
+
+Repair changes that alter state or canon:
+- Hesk KNOWS the five things incl. the Wind notice (letter + his ch45 reply); he does NOT yet know the Pressure notice (a half-written letter exists — post it in Movement 8).
+- Vell heard "[SHATTERED]" at her own table (first time). Corvane asked "What's your word, boy? The one they gave you…" — "What are you?" is reserved for Darrow.
+- Logged instances: SIX. Lira told Cael her row of three and her eleven solo drops.
+- Feryn: Vell first saw him at nineteen as a Copper; first Bronze evaluation at twenty-one; about twenty-four now; "I stood in front of Bronze panels for a year". Vell has watched Cael in thirteen bouts; the Log's fifteenth entry is the fourteenth bout (it counted Baro). Vell: assessed is not rated.
+- The Wind notice copied in ch42 is the exact three-line text. [SHATTERED] prints with brackets everywhere.
+
+Movement 7 CLOSED 2026-10-02 after repair r1, the 8-word sweep (r1b) and six recheck line fixes (ch45 letter-opening double removed; "a piece at a time"; "lay still and took stock"; ch46 "The air slammed…"; ch47 the Log's fifteenth entry "since the autumn" and the fourteenth bout in Vell's book; the paling sky). Final: 7 chapters, ~35k words; 8-word overlap 0; gates 0.

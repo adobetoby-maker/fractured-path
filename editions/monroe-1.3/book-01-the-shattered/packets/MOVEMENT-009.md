@@ -51,3 +51,11 @@ A known boy in a district that would notice his absence, a flag he does not know
 ## Coordinator note (Movement 6 review, 2026-10-02)
 
 - Hesk's cutaway budget is nearly spent (Movement 6 used ~5,100 against ~3,000; his book share is ~9,000). Keep any Hesk cutaway here brief; his letters carry him. Cumulative non-Cael share through M6 is ~12–13%, on plan.
+
+## Coordinator notes (Movement 7 review, 2026-10-02)
+
+- **Instances:** six are logged by the end of Movement 7; number Darrow's from seven (or from
+  wherever Movement 8 leaves the count — check STATE_LEDGER).
+- **Feryn's loss-lesson** (he took away the going-round by never releasing and putting his hand
+  where the exchange would end) is owed a use in the Darrow fight.
+- **Vell's cutaway budget:** about 1,900 words remain for this movement.

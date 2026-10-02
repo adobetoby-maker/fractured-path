@@ -1,0 +1,268 @@
+# Chapter 46 — Bronze
+
+Vell counted the yard once from her table, the way she always counted it, and made it forty-one.
+
+It was a poor number for a Bronze. On a Sunday afternoon in good weather a Bronze in her circle would have had the benches out and the rope four deep, and boys on the wall, and Marrow sweating. But this was a Monday at noon in the last of the winter, with a grey sleet coming in slantwise off the river and melting as it touched the dirt, and a gate on it five times the price of a bench. Everybody who had come had walked out of a day's work to be there, or paid somebody to do it for them, or simply not gone in. So forty-one was a good number, and she wrote it at the top of the page in the small hand she kept for things that were hers: *41, sleet, Monday noon*. Then she looked at who they were.
+
+They were people who knew what they were looking at. The old men from the third row had come without their benches and stood in a knot by the drain with their scarves over their mouths. Dessa was by the gate in the wall with her hair tied tight and her hands in her pockets, alone. Corbin stood beside the water bucket, square, saying nothing to anybody. Sarel had not come, and Vell had not expected her to; the girl Lira was at the barrel, where she always was, with her arms folded on the top of the rope and her face giving away nothing. Renn was on the sunny side, though there was no sun, with a few of his friends from the barges round him, all of them quieter than she had ever known them. And the boy was at the rope on the shaded side, with his coat off and his hand flat on the iron stake at the corner, as though he were listening to the ground.
+
+She knew why he did that. She had watched him find it.
+
+The pie boy came across from the gate with the coin bag, and she weighed it in her hand without counting it and put it under the table. Then Feryn came in through the gate in the wall.
+
+He came in the way she had seen him come into three other yards in three other cities over five years, talking over his shoulder to somebody behind him, easy and loose and pleased with the day. He was taller than most and built for use, not for show, in a coat that had been good once and was now only warm. He had been nineteen and a Copper the first time she saw him, on a wet night in a yard three days south of here, and he had lost to a one-armed man and laughed about it all the way to the water bucket. He was twenty-four now, or near it, and a Bronze Rank 2, and he moved like a man who has been hit by a great many good fighters and has stopped finding it interesting. She had watched him win more bouts than she could have named without the books, and she had liked him every time, which she did not often say about anybody.
+
+He was halfway across the yard when he saw who was standing at the rope with his coat off, and he stopped walking.
+
+He stopped as a man stops who has walked into a door he thought was open. Then he looked at the boy, a long plain look, and turned round, and found her table, and came across to it.
+
+"No," he said.
+
+He said it quietly, but the yard was very quiet, and the sleet was not loud, and forty-one people heard him.
+
+"He's a child."
+
+"He's fourteen," said Vell.
+
+She had known it was coming. She had known it on the morning she told the boy that Feryn was coming, and every morning since, and she had decided a long time before this one what she would say. She found that it was harder to say it to his face than she had thought, and she said it anyway.
+
+"You posted for any opponent with a rating a keeper would sign. I've signed his. Assessed-Copper, in my hand, five weeks gone. He's won two since, and four of the six before it; that's thirteen bouts in my book. I still call him unrated at the rope, because the registry gives me nothing to write there, but the line's in my hand and my name's under it. He's entered under witness, and the purse is met, and the gate's paid." She turned the ledger round on the table so that he could see the page. "Those are the terms. They're the terms you wrote."
+
+Feryn bent over the book and read the page, all of it, with his finger moving down the lines. She had seen a great many fighters stand at her table and complain about what was in her book. She had seen very few read it first. She marked it to his credit and did not let it show.
+
+"I posted for interesting opponents," he said, still reading. "I didn't post for somebody who's still growing into his boots."
+
+"Then you should have written it better."
+
+He looked up at her.
+
+"I don't decide who stands in my circle," said Vell. "I decide who I put across from whom, and what happens inside the rope, and when it stops. That's all I decide. The consent question is his. It isn't yours to answer, and it isn't mine." She turned the book back round. "If you want to know whether he means it, ask him."
+
+She had not always thought that.
+
+Thirty years ago, when she was new to the book, she had turned a girl away from her rope because the girl was too young and too light and had a look in her eye that Vell did not like, and Vell had been certain she knew best. The girl had gone downriver and fought in a yard where the keeper did not care how old anybody was, or what look they had in their eye, and nobody there had called anything for her. Vell had heard about it a month later, from a carter.
+
+She had thought about it through the whole of that winter. In the end she had decided that a keeper who chose for a fighter whether he was fit to stand had stopped being a keeper and become something else, something nearer to an owner. A fighter's word over the rope was the one thing in the circle that was entirely his, and the circle stood on it, as it stood on her word inside the rope. You did not protect people by taking their word away from them. You protected them by being very, very good at the call.
+
+So she would not overrule him. But she had already decided, sitting at her table with the sleet on her shoulders, exactly where the call would be.
+
+She knew Feryn's weights. He had two of them, and she had watched him use both. There was the weight he carried on tour, when he was being polite to a town and did not want to put anybody in the healers' for a gate: loose and strolling and very nearly kind. And there was the other one, which she had seen four times in five years, when somebody had made him take them seriously, and which had ended all four bouts inside an exchange. If the boy made him go to the second weight, she would be on her feet. The first exchange after that which could only hurt the boy, and not teach him anything, she would end. She would not wait for him to stop getting up. He would not stop getting up of his own accord; she had watched him in thirteen bouts now, and only once had he put his hand up, against a cook, when there was nothing left in the bout for him to learn.
+
+Feryn had gone to the rope.
+
+He did not go round it to the boy's side. He stood on his own side with his hands resting on the top of it, and looked across the circle at the boy, and the boy looked back. Vell watched Feryn not ask how old he was, which was what nearly anybody would have asked, and which he already knew.
+
+"Do you know," said Feryn, "what Pressure does to whoever's standing in front of it?"
+
+"Not all of it," said the boy. His voice was perfectly steady and rather quiet. "I've spent three weeks finding out what I could. A woman who lost to it for ten years showed me how it's built. I can tell you where you'll hold it, and about how long, if you're slow." He did not smile. "You won't be slow. That's the part I can't find out from anybody. The benches can't tell me, and neither can she."
+
+"Who talked you into it?"
+
+"Nobody. Vell told me you were coming, and what you were, and I asked her for it." The boy looked at him across the circle. "I'd like to know what three weeks bought me. I can't find that out by watching."
+
+Feryn did not say anything. He was weighing him, and Vell knew what he was weighing, because she had weighed the same things: whether the answer had been learned by heart, and whether anybody behind the boy was pushing. He looked for it. She saw him look past the boy at the rope behind him, and along it, and find nobody there but the girl at the barrel with her arms folded, who looked back at him as flatly as a shut door.
+
+"All right," said Feryn at last. He said it the way you shut a gate behind you. Then he turned round and looked at Vell. "Note that I objected."
+
+"Noted," said Vell, and wrote it. "So is his answer."
+
+She wrote that too.
+
+Then she stood up behind her table, and the yard went lower, and she said the rules for the witnesses as she always said them: that it went until somebody conceded, or could not go on, or until she called it; that her call stood; and that nobody was killed, by circuit custom, which was older than any law. She had said them a thousand times. Today she listened to herself say them.
+
+"Feryn. Bronze Rank 2, Pressure Path. Against unrated. Vouched." The small pause. "Begin when you're ready."
+
+---
+
+Cael went over the rope and stood on his mark, and the sleet came down on his bare arms and melted there.
+
+He set his feet. He did not nod. He looked across the circle at Feryn and watched what did not move.
+
+Feryn left his mark walking.
+
+That was the first thing that was wrong. There was no rush and no probe and nothing from the mark; he simply walked, slowly, along the inside of the groove, with his hands half up and open and his shoulders rolling loose, the way a man loosens them at the start of a day's work. He took a half step to his left that did not seem to go anywhere. He turned his head to follow Cael with a mild, friendly look on his face. All of it was moving, and Cael let all of it go past him and looked under it, below the ribs and above the belt, for the thing that stayed still.
+
+He could not find it. That was the second thing. Corvane, walking slowly in her brick yard, had carried her stone so carefully that once he knew where to look he could see it. Feryn was not carrying anything. Every part of him was as loose as every other part; there was no place in the middle of him that had gone heavier than the rest. Cael looked and looked and found a man strolling about in the sleet, and while he was still looking, the roof fell in: the air itself, come down on top of him.
+
+It was not like Corvane's. Corvane's had been a hand laid on his chest. This was the whole sky.
+
+There was no place where it struck him. It was everywhere at once, all the air between them gone solid together and coming down on him and forward, and his guard did not break so much as fold. The air slammed his own forearms flat against his chest, and the breath left him in a hiss between his teeth. Then he was on the ground, all along his back, without having seen it coming. He lay in the wet dirt of the circle with the sleet falling into his open eyes and the noise of the yard arriving from somewhere a long way off, like voices through a wall, and did the accounting, because the accounting was the only thing he could do: breath gone; ribs ringing deep where his own arms had hit them, the left side catching under the old place; nothing grating; nothing broken.
+
+Somewhere above him Vell was counting, level and unhurried, the way she counted when somebody was down and not moving.
+
+He got his breath back in pieces. At six he rolled onto his knees. At eight he was standing.
+
+Feryn had not come after him. He waited at the centre of the circle with his weight easy and his hands at his sides, watching Cael get up with mild professional interest, like a man waiting for a cart to pass so that he can cross the road.
+
+*He's being polite,* thought Cael. *That was him being polite.*
+
+"End of the exchange," said Vell.
+
+He went back to his mark and stood on it and made himself breathe, four and four, with the catch at the top of every breath.
+
+*First exchange. I couldn't find it. He doesn't carry it the way she did. Everything's loose.* He looked across at Feryn, who was rolling his shoulders. *He rolled his shoulders just before. And then a while after that it came. Three heartbeats. Four. The roll's not it. The roll's what he puts on top of it. So what's under the roll?*
+
+"Begin."
+
+This time he did not try to see the whole of him. He narrowed, as Corvane had made him narrow in the brick yard, to the one place: below the ribs, above the belt, the middle of the man. He let the shoulders roll without him. He let the hands drift and the head turn and the feet stroll, and he kept his eyes on the plain cloth of Feryn's shirt where it went into his belt, and waited for it to do nothing.
+
+Feryn rolled his shoulders. He took the half step that went nowhere.
+
+And under it, in the middle of him, something went still.
+
+It was not much. It was less than Corvane's had been, and much less than Lira's holding in the grey half, which he had learned to see more often than not. It was the faintest settling, as if the cloth of the shirt had for one moment stopped moving with the breath underneath it. But it was there, and it stayed there while the rest of him went on strolling, and Cael saw it and knew what it was.
+
+He saw it late. He knew he had seen it late even while he was seeing it; there was not time to get out of the way, and nowhere to get to, because the thing that was coming would come across the whole front of him at once. But there was time for one choice, and he made it.
+
+He did not meet it. He turned his guard edge-on, his left forearm leading, slanted across his body like a roof slanted to throw off rain, and he turned his shoulders behind it.
+
+The air came down. It was as huge as before and as patient and as wrong. It hit the slanted forearm and did not stop there but went along it, down it and off it, part of it going past him instead of into him. The part that did not go past drove him back across the circle with his boots skidding in the wet dirt and ploughing two long furrows through Vell's rake lines, one pace and then two. It did not put him down. He came to a stop at the edge of the groove with his weight still on his feet and his breath still in him, and his left forearm was a single bar of ache from the wrist to the elbow, right over the old burn, as though the whole weight of what he had shed had run down the bone and settled there to stay.
+
+The yard made a sound he had not heard a crowd make before. It was not a cheer. It was a breath, forty-one people breathing in at once.
+
+Feryn had stopped walking.
+
+He looked at Cael, and then at the two furrows in the dirt, and then at Cael again. Something in the easy surface of his face tipped, very slightly, like a cup set down on a table that is not quite level.
+
+"You read that," he said.
+
+He did not ask it. He told it, out loud, to the yard and to Vell's book and to himself.
+
+"Three weeks, and you read it." He rolled his neck, slowly. "Nobody reads the build. People spend a year on my feet and never find the build."
+
+*He talks when he changes his mind,* thought Cael. *Like Renn's shoulders.* He held his arm against his side and filed it.
+
+"End of the exchange," said Vell.
+
+He stood on his mark and did the arithmetic, because his arm was telling him to.
+
+He had read the build in the second. He had read it halfway, perhaps, or a little less, the way he had read Corvane's at two breaths in four, and it had kept him on his feet and cost him an arm. He could not spend the arm twice. Reading it halfway was not enough; he needed to read it at the beginning, before Feryn had built anything at all, at the moment Feryn decided to build, if there was such a moment, and if it showed. Corvane had never told him whether it did. Corvane had never seen anybody read it that early.
+
+Across the circle Feryn had set his feet.
+
+He was not strolling now. That was the change, and Cael saw it and felt the cold go down his back. Feryn stood quite still on his mark, with his hands loose and his shoulders level and his weight in the middle of his feet, and when Vell said *begin*, he did not walk at all. He only stood there, and looked at Cael with interest, and talked.
+
+"Where are you from?"
+
+Cael did not answer.
+
+"Not here," said Feryn. "You stand like a city. Somewhere with walls." He shifted his weight a hair from one foot to the other. "I've fought in a city with walls. Hated it. Everybody watches you from the top."
+
+He was hiding it under stillness, and under talk. Cael understood it at once, because he had seen it done for three weeks in the grey half by somebody who was much better at it than she would ever let anybody know. *A person standing still and talking is harder to read than a person walking,* he had found out on the eighth morning. *There's so little to tell the holding from.* Feryn had learned in one exchange to do what it had taken Lira a week to find. Cael watched the middle of him, under the talking, under the stillness, and the stillness was everywhere and there was nothing to tell it from.
+
+Then, very early, much too early, before Feryn had finished his sentence about walls, before he had shifted his weight again or done anything at all, the cloth of his shirt stopped moving with his breath.
+
+It was the beginning. It was the decision. Cael saw it, and his body was already going.
+
+Afterward, on the cot, he would try to put what happened into its proper order on the page, and fail. He did not decide to step and then step. The step was already happening, with his whole weight in it, before anything in him that made decisions had been consulted. It was a long, low, slanting glide that his legs did with a sureness he had never put into them, quick the way air goes through a doorway when somebody opens a window at the other end of the house. It was familiar and not his. It did not carry him back from the air. It carried him round it, out past the whole edge of the place where it was going to come.
+
+The air came down behind him on the place where he had been standing. Its edge went past him: a hard drag at his sleeve and down the side of his body, solid, close enough to count as a touch. Then he was standing on the far side of it, at an angle no slip and no dodge should have been able to reach, balanced, with his guard up and Feryn's open flank in front of him an arm's length away.
+
+The yard was silent. It was not the held breath of the second exchange, but a real silence, forty-one people and the sleet and nobody moving. He heard the dirt settle where the air had ploughed it. He heard Vell's pen stop.
+
+He did not take the flank.
+
+By the time his thinking had caught up with where his feet had put him, the opening had already begun to close; Feryn was already turning. And the honest truth, standing there in the sleet, was that he did not know what he had just done, nor whether he could ever do it twice. It had come when the air came. It had not come once in three weeks when he called it, at the post, by the cot, in the box drill. It was not a tool he had picked up. It was something that had used his legs.
+
+Feryn turned to face him.
+
+For a breath he only looked. Then the yard came back all at once, a wall of noise from every side, Renn shouting on the sunny side and the old men by the drain stamping in the wet, and Feryn seemed deaf to all of it. His eyes stayed on Cael the way Cael's own eyes had stayed on Renn's front heel in the fifth exchange, once he had found it: the look you give something that has just crossed out everything you wrote about it.
+
+"End of the exchange," said Vell. Her voice was very level.
+
+Then Feryn settled.
+
+There was no other word for it. All the slackness left him, the strolling ease and the friendly interest with it. Everything he had been carrying round the yard for three exchanges was set aside like a coat taken off and laid over a chair, and what stood there instead was a Bronze Rank 2 at his working weight, which Cael had never seen and understood at once.
+
+"Last one, then," said Feryn. There was no talk in his voice any more. There was nothing in it but what he meant.
+
+On the way to his mark, his forearm burning and his ribs catching and the sleet coming down, Cael saw that there was a choice in front of him, and made it.
+
+The safe thing was to go backward. He could circle, and keep his distance, and make Feryn spend the last exchange chasing him round the groove, and lose long and look well doing it. Lira would not have minded. Vell would not have minded. Nobody in the yard would have said a word. He looked at the safe thing and put it down without any fuss. Looking well had never been the point of asking for this bout. He had asked for it so that he would know. There was only one thing still to know: how much his reading could hold against Feryn's whole weight, with nobody keeping anything back on either side of the rope.
+
+He set his feet and looked at the middle of Feryn's shirt.
+
+"Begin."
+
+Feryn came in fast.
+
+He came in fast and straight, and the speed changed everything, as everybody had told him speed changed everything, Lira and Vell and Corvane and the eel woman laughing with her arms in a tub. The build was there all the same, and Cael saw it. He *saw* it, folded small and tight under a man coming at him at a run, the faint settling in the middle of the shirt, as early as he had caught it in the third. But it bought him almost nothing now. Feryn was building as he came and closing as he built, and the half breath Cael had had in the third was a quarter, and the quarter was a sliver, and the sliver was almost nothing at all. His reading had not got worse. Reading was simply not enough any more.
+
+He read a release coming, and he called for the step.
+
+He called for it as he had called for it by the cot, deliberately, with his whole attention, the hip dropping and the turn. It did not come. Whatever had moved his legs in the third exchange kept to its own dark place and did not answer, because he had asked it to. So he slipped instead, with his own feet, his own trained slip, short and quick and honest, to the left, outside where the air would come.
+
+The air did not come.
+
+Feryn had not let it go. He had built it and held it and not released it, and Cael had slipped round a thing that was not there. And Feryn's hand, which had been at his side, was already where Cael was slipping to. Feryn had learned in the third exchange that the boy went round. He had stopped trying to hit where the boy was, and put his hand where the boy would go. *Once too often,* said Doss, somewhere at the back of Cael's head, a beat too late to be any use.
+
+The hand closed on Cael's right shoulder in the middle of his slip.
+
+There was no blow, and no wrench. Feryn simply agreed with him. Cael's own slipping weight went into the hand, and the hand took it and joined it and turned it, a few degrees, gently, so that all of Cael's speed going left became all of Cael's speed going down. The yard turned over. There was just time to understand that the throw was his own, and that all Feryn had done was choose its direction.
+
+Halfway through the fall, too late to decide anything, he noticed the grip.
+
+The hand on his shoulder did not let go. The turn was finished; his weight was already gone past any recovering; there was nothing left for the hand to do that the ground would not do better. And the hand stayed on him anyway, held, a full pressed beat of it, a whole slow second of grip where a glancing touch would have done, riding him halfway down to the dirt before it opened. It was nothing, a small thing in the middle of a large one. He put it away at the back of his head all the same, because it did not fit, and he kept everything that did not fit. Then the ground hit him along the whole of his right side at once, shoulder and hip and ribs together, and knocked the thought and his breath and the rest of the bout out of him in one blow.
+
+He lay in the wet dirt with the sleet coming down on his face and did the accounting from a long way off. Everything hurt in the general way. His right shoulder and hip, where the ground had come up. His ribs on both sides now, the left catching again under the old place, the right new. His forearm, wrapped all the way round the bone. Nothing hurt in the sharp particular way that meant broken. He gave his body the order to stand, and it sent back an answer: *presently*. He got an elbow under him. The yard tilted and came level and tilted again.
+
+"The match is called," said Vell.
+
+She was very close. She had left her table. Her voice went over the whole yard without seeming to be raised.
+
+"Feryn, Bronze Rank 2, by incapacity. So entered."
+
+Part of him put a protest together: *Count me. I'm getting up. Count me.* The rest of him, the part that kept the book, looked at the protest and set it aside. Six more breaths went by before he had his feet under him, and when he had them he was swaying. The margin was gone and would not come back today. The fourth exchange had proved it: whenever Feryn chose to be fast, reading by itself put Cael on the ground inside four seconds. A fifth exchange would not teach him anything. It would only hurt him, and he would have gone into it, and Vell had known that he would.
+
+Her call was not early. It was exact. She had ended it at the very moment it stopped being able to give him anything but damage, and he understood, standing there swaying in the sleet, that this was the whole art of what she did.
+
+"Good call," he said, because it was true, and because the book should hear it.
+
+"I know," said Vell, and went back to her table.
+
+The yard was loud, and he let it stay far away.
+
+He walked to the table, because you walked to the table, win or lose, and stood in front of it with his left arm held against his chest and his right side aching from the shoulder to the knee. Vell was writing. The sleet had got into the corner of her page and she had blotted it and gone on.
+
+Feryn came to him there.
+
+He came straight across the circle, ahead of Renn and the old men and the people with money in their hands, ahead of everybody, and Cael marked that he did it at once, before anything else, the way you would mark it if a man stopped to pick up something you had dropped. He held out his hand. Cael took it with his right, which hurt less, and Feryn closed his own round it and pulled once, smoothly, so that Cael was standing straight instead of swaying, and then let go. He was careful about it without making any show of being careful.
+
+"What tier are you?" said Feryn.
+
+It was the question. Sooner or later everybody asked it, one way or another, and long ago Cael had settled how to meet it: first, and plainly, before it could be found out sideways.
+
+"[SHATTERED]."
+
+Behind him he heard Vell's pen stop.
+
+He watched Feryn's face. He had a whole catalogue of the ways people took the word, collected at gates and registry counters and across boarding-house tables: the step back, the careful blankness, the nod that came too fast, the eyes going to the door. He watched to see which one it would be.
+
+Feryn's face did none of those things. His eyebrows lifted, and what came into it was not fear, or even fear well hidden. It was appetite. It was the plain, unguarded hunger of a man who has been doing a thing for a long time, and doing it well, and has just been handed a problem from outside everything he knows.
+
+"Huh," said Feryn.
+
+He looked at Cael a moment longer, at the whole wet, swaying, fourteen-year-old fact of him.
+
+"I stood in front of Bronze panels for a year," he said. "Months of it. Every Path there is in the room with me, and every way of using one. I've never once seen a thing I couldn't put a name to afterward." He shook his head, slowly, and it was respect, of the plain kind that nobody puts on for a crowd. "The third exchange. I know what I saw. I've no idea what I was fighting."
+
+"That makes two of us," said Cael.
+
+Feryn laughed. It came out of him short and surprised and real, as though it had been knocked loose.
+
+"Eat with me," he said. "Tonight. I'm paying."
+
+Vell had lifted her eyes from the book. Both her eyebrows were up, and on Vell that was as good as a speech. Feryn saw it.
+
+"What?"
+
+"I've watched you win in three cities," said Vell, going back to her page, "and I've never once seen you buy anybody so much as a pie."
+
+"Nobody's been worth a pie," said Feryn. He looked back at Cael. "Well?"
+
+By then Lira had come round the rope. Cael saw her past Feryn's arm, standing by the barrel with her arms folded and her mouth pressed flat over something that was not disappointment, and that was working hard to keep from being pride. She caught him looking, and nodded once, short. It meant *go*, and it meant *I want every word of it afterward*, and it meant something else under both of those that he did not have a name for and did not need one.
+
+His ribs hurt. His arm got stiffer with every minute he stood there. He had lost in four exchanges, in the sleet, with forty-one people watching.
+
+"All right," he said. "I'm hungry."
+
