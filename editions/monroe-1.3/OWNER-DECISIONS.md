@@ -30,3 +30,6 @@ DEFAULT. Nothing here blocks the current drafting lanes unless marked BLOCKS.
 | 23 | B6→B7 | Book 6 ends with a cart, a horse and a decent purse; Book 7 never mentions them and has the crew nearly broke. | Sell cart and horse in Lowmarch's first week; keep the money as a reserve the crew agrees not to live on, so every figure in B7 and B8 holds. | B7 drafting (Movement 1) |
 | 24 | B7 | The crew's mule has no origin. | Oryn leaves her mule with the crew at Thornwater. | no |
 | 25 | B8 | "Tell Lira's family I said so" (Cael's last letter to Hesk) has no setup anywhere in Book 8. | Kept verbatim; please confirm the intent. | no |
+| 26 | B3 | New canon: Karis's declaration `[Drawn Channel]` — Iron Rank 3, Active: joins two standing ignition points with a line of heat along a surface, up to eight paces; holds while both points hold. Reviewer: consistent with the Ember Path and later fights. | Kept. | no |
+| 27 | B3 | ~~New name: Master Marlowe~~ — RESOLVED: existing canon (Ternhall lecturer, current B3 ch5; NAME_REGISTRY Book 3). | Canon. | no |
+| 28 | B3 | Coss first meets Cael at the Ardenmere summons (Book 1), so the source's "original Denvash intake, his own handwriting" (current B3 ch7) is a source conflict; the edition follows Book 1. | Edition follows Book 1. | no |

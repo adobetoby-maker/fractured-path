@@ -78,3 +78,9 @@ trials breathe.
 The fragments revise themselves on their own schedule — the first sign that what Cael carries is moving whether or not he watches it. He
 has a format honest enough to catch the next change, a lock repriced as a tool he has not yet used in a real bout, and a seam guarded
 rather than sealed. Lira, meanwhile, has been training harder and longer than her rating explains.
+
+## Coordinator note from the Book 1 edition (2026-10-01)
+
+- Book 1's edition rules the Power Log into three columns — Claim / Evidence / Ruling — with
+  *h* marking anything heard rather than witnessed. Carry that format (and *h*) into this
+  book's log, including any split of the log.

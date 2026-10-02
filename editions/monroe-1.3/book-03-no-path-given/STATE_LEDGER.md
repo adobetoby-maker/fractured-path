@@ -237,3 +237,180 @@ Repair r1 changes that alter state or canon:
 
 
 Movement 1 CLOSED 2026-10-01 after repair r1 and recheck line fixes (coordinator-applied, exact strings from recheck-r1.md): Ch1 attempt count ("On the next two nothing caught at all"); Ch3 "darker than any other he had seen here"; Ch7 the spill was on the LAST road morning and went into his knee; Ch7 Hobb put Brom on one knee on their second day (hit him once); Ch6 "what's left of your four days". The "Received for Notation" card's reference number is unwritten; any later quotation mints it once and keeps it.
+
+## After Movement 2 (chapters 9–16; repair r1 applied 2026-10-01; recheck pending)
+
+### State (from state/movement-002/AUTHOR-REPORT.md §2–§3, as drafted; the r1 changes below take precedence)
+
+
+**Calendar.** Early in week 6, the morning the petition is posted (about day 44–46). Mid-autumn: leaves yellowing on the hill, first frost not yet arrived, cold afternoons.
+
+**Cael's body.**
+- Left wrist: swollen from the Compression misroute (week 5), wrapped for a few days; fading.
+- Breastbone: deep ache under the bone after the half catch; sore to the touch for a day or more.
+- Right shoulder: locked about an hour after the half catch, loosened by morning. Reydan complaint unchanged.
+- Left forearm bruise from D1: gone.
+
+**Abilities.**
+- **Wind-adjacent.** Panel speed held at D2, including a double strike (one read laid over another). Karis measures its lead at about a quarter of a breath.
+- **Iron-adjacent.** Four calls at D2, last eyes closed. Twenty-plus calls on Brom (a resisting, knowing body) in the second session, nearly all before he had decided. Same quarter-breath lead as the framework (Karis's observation, no theory).
+- **Pressure-adjacent.** Unused. Banked.
+- **Compression-adjacent.** Quarter reliable (4–5 in 10). **Half a slow push, once,** on the ninth try, by choosing a wider road before the force arrived. Cost doubled (four breaths plus a cough, right shoulder locked an hour, breastbone sore next day). One misroute into the left wrist when he reached for more than he had chosen. Brom's left wrist bruised by the returned half. Log: "Choose the size first, too."
+- **Tide anomaly.** Unchanged. Not mentioned, not felt.
+- **Belief.** Still "weather" (ch12 reading of the four section names). No acquisition theory. "Does it feel borrowed?" answered "I don't know" and left open.
+
+**Record exposure.**
+- D2 (last day of week 4), Wray's line: "As previously recorded. No safety concerns." Quenna: "Assessment satisfied." The rotating seat (a broad-faced woman from the movement floor) wrote her own entries.
+- The records bundle left Greyvane on the seventh day after receipt. It contained enrollment documentation, the provision (Prynn's certified copy), and both sittings' records with assessors' names.
+- The public calendar shows both sittings "satisfied" (Edran's petition cites it).
+- Session records exist for Karis's observation sessions (Quenna-supervised, section four). Karis's notes live in her locked box; Cael holds copies. No academy record holds them.
+
+**Knowledge.**
+- **Cael:** a records request exists, and he has read the transmittal. The routing code is unplaced (Naveth: noise; Prynn: keep the page). He has read the petition. He knows Coss's name but not that Coss filed the request or is travelling.
+- **Karis:** knows the terms and what she has seen from outside (framework, read, matched leads), and that an institution requested his records (fact and date noted with consent). She knows the binder exists and that it is off limits. She has **not** seen any of it (Cael read her one chart page aloud, binder turned away).
+- **Lira and Brom:** as before (Power Log read).
+- **Quenna:** approved the terms, refuses to read the notes ("If I've read them, I can be asked what they say"), has asked nothing about how.
+- **Coss:** has the notice, the approval, the challenge's first two lines and the realization that the category's words hold and only its purpose does not. No mechanism, no clearance for the restricted field, no name for whoever approved him.
+
+**Relationships.**
+- Cael and Karis: the terms are signed. Trust is building as a finding: one error was shown and corrected, and "You count the way I count."
+- Lira and Karis: wary respect. Lira answered a question she hadn't meant to ("She keeps asking properly").
+- Brom and Karis: he borrowed volume six and will return it with his own marks at month's end.
+- Brom and Wray: Wray wrote *There is one now. Prove it. W.* under Karis's struck page. Brom now keeps numbers (fetch: 11 to 9).
+- Brom and Hobb: names exchanged.
+- Cael and Hobb: thanks paid at the standings bout rail. Hobb gave a tactical note.
+- Cael and Edran: Edran yielded first place and asked what the board is for. Then the petition.
+- Cael and Oona: told her the truth twice. She wants to study him after her Kindling. Cael means to wait at the top of the hill for her winter Kindling.
+- Cael and Prynn: certified copy read aloud; "You read *shall*."
+
+**Supporting-cast decisions.**
+- Karis: waited a week; asked permission; brought it to the table; withdrew the binder question and promised never to ask; wrote clauses 5–7 and signed the notes clause against her own interest; shared notebooks and a declaration; asked consent to note the records request; took a hit to keep the north side; asked Lira one question.
+- Lira: witness clause; first unannounced witness; answered Karis.
+- Brom: voted in favor; wrote clause 4; asked Hobb's name; borrowed and used Karis's notebook; witness at session two.
+- Quenna: protective condition; refused to read the notes.
+- Naveth: lawful slow-walk to the last legal hour.
+- Prynn: certified the copy by ear and pencilled *Correct. Do not hurry me again.*
+- Coss: requested the assignment; drafted the records request; set out before dawn.
+- Edran: yielded instead of crossing; filed the petition.
+- Hobb: accepted thanks; offered a tip.
+- Gerda: explained posting ("I filed one once").
+- Oona: asked to study him.
+- Wray: D2's six-word line; wrote in Karis's notebook.
+
+**Compact.** The records request was answered in full on the seventh day. Coss is on the road to the regional office with an unfinished challenge (two true lines, one crossed-out word). Nothing about any higher office is described.
+
+**Standings.** Karis is first in the cohort and Edran second.
+
+**Letters.** No reply from Hesk yet (the draper's counter, week 5). Vell is still not written to.
+
+## 3. New canon minted in prose (flag for ledger and owner)
+
+**Karis's declaration (LOCKED format; the first declaration shown in this book; ch11):**
+
+```
+PATH DECLARATION — IRON RANK 3
+[Drawn Channel] — Active. Join two of your standing ignition points with a line of heat along any surface between them, up to eight paces in length. The channel holds while both points hold. If either point fails, the channel fails with it.
+```
+
+She received it at Iron 3. It is her newest. She had shown it to one person before (unnamed). She wrote it from memory on a card, showed it, and took it home. The ability label **[Drawn Channel]** needs owner approval.
+
+**The terms (ch11), seven numbered clauses, signed by Karis and Cael, witnessed by Lira and Brom:**
+1. The binder is not part of this arrangement, and will not be asked for.
+2. Witness clause: any of the three may attend any session without notice.
+3. If it ends, all notes stay with Cael (Cael's clause; Karis wrote it).
+4. "He can say no to any one session without saying no to all of them. No reasons." (Brom's capitals)
+5. No written speculation on how any capability arose; only what can be observed from outside.
+6. He reads everything first, before it exists anywhere else, and keeps a copy.
+7. Either party may end it with one word, no reason, no penalty.
+
+**Quenna's condition.** Sessions run inside his supervised hours, in section four, with her at the chalk. She will not read the notes. Unwritten, but on the record as supervision.
+
+**Karis.**
+- Two notebooks since eleven. The second runs to eleven volumes (two string bundles). Volume six, pages 40–52, covers form efficiency. Margin notes include: "This is the third time I have believed this…" (age 13) and "Can't test this. No body to test it on. Strike until there is one." (age 14).
+- Her correction method: a single strike-through, plus a margin note "Error, observer's… Corrected on the subject's reading."
+- Tells and economy:
+  - Her off hand goes still about a quarter-breath before each ignition.
+  - At public-draft economy, a released point lingers about a third of a breath.
+- Ternhall details:
+  - Paired Ember doctrine; a partner of three years, unnamed.
+  - The registrar's weekly regional enrollment digest.
+  - Advisor: "A first-rank student at a minor academy is a good lamp lit in a cellar."
+  - Mother: "And if he turns out to be only a boy, and the whole mystery is in the paperwork?"
+  - Father packed the trunk.
+  - A cousin of her mother's trades wool through Ardenmere.
+  - Master Marlowe's joke: "…by spring he'll be doing it with no arms."
+- The coach list of questions she will not ask, ending: "Whether I may ask."
+- Arrival and Greyvane routine:
+  - Arrived on the last afternoon of week 2, through the standard desk.
+  - Floor block at the fifth bell in section two.
+  - Heat-Paths instructor (Ember and Ash together): a lean old man with scorched cuffs.
+  - First standings bout: day 5 of her week, a Copper R9, won in two exchanges.
+
+**Standings bout (ch15).** Karis beat Edran in four exchanges; Wray was assessor. Points:
+- Exchange 1: 2 at contact.
+- Exchange 2: 6 laid.
+- Exchange 3: 5 more laid while 3 were released or broken, leaving 9 on the floor.
+- Exchange 4: channels lit (5 that Cael counted), leaving two places to stand.
+
+Edran yielded. Edran's boot was singed once and Karis took one shell strike to the left shoulder. "Public draft" is used as a chapter title only, and no character names her economy.
+
+**Coss side (ch13).**
+- The regional office enters notation lines by hand, then copies each day's entries into the standing index overnight and runs matches. The hit sat six hours.
+- The notice is headed "Notice of index correspondence". It carries:
+  - "Acknowledgment returned to originating institution, Received for Notation"
+  - a reference number (**never written out**; per the coordinator's note it is the same unwritten number as on the ch8 card)
+  - the date stamped on the card, three days old when Coss read it
+  - a restricted supervisory field: a ruled bar and "Field restricted. Recipient clearance insufficient."
+- Request text: "Request for field assignment, compliance review, chartered institution."
+- The records request asked for: "Documentation of enrollment, complete. Citation of the provision under which the subject is enrolled. Assessment records to date, with the names of the assessors."
+- The oldest page in Coss's own hand is from the **Ardenmere summons**, not a Denvash intake (see §5.1).
+- A senior officer once told him "frightened" was a word for novels.
+- The challenge's first two lines are drafted, and *purpose* is crossed out.
+
+**Greyvane procedure.**
+- A chartered institution has seven days from receipt to produce requested records.
+- Process:
+  - Each item is certified by the office that made it.
+  - Countersignature hours run on two afternoons a week.
+  - Prynn certifies archive copies on the second and fourth afternoons.
+  - The bundle is sealed before two officers, in oiled cloth and wax, and handed to the town courier.
+- The transmittal box is "Requester's routing annotation, to be copied exactly".
+- The Compact cover sheet prints a priority key at its foot.
+- **The routing code is never written out.** It is "a short string of letters and numbers broken by a slash", matches no tier in the key, and nobody says "Level 4".
+
+**Provision wording.** Phrases are now quoted directly (ch14):
+- "A candidate without a standard classification issued by an Arbiter"
+- "may be enrolled for academic exposure and supervised training"
+- "the panel's finding shall be entered in the candidate's record" (Prynn: "You read *shall*")
+
+M1 ch6 paraphrased this as "should be entered". Flagged in §8.
+
+**Petition text (ch16).** Headed "*Petition of Standing. Filed by Edran, Glass Path, Iron Rank Two, third year. Concerning the supervised floor access of the candidate enrolled under the demonstration provision.*" It runs three pages:
+- Page one: the provision.
+- Page two: the record and the conclusion, quoted: "evidently a practitioner of some classification, which the faculty has elected not to disclose".
+- Page three: suspend access pending review, or assess him in public under the standings framework, plus the grievance paragraph.
+
+It is posted within a day, per the rule Gerda states.
+
+**Other.**
+- D2's rotating seat is a broad-faced woman from the movement floor (unnamed).
+- Rule: petitions of standing are always posted, in full, within a day of filing.
+- The hill town has a certification station: a small two-storey grey building with the board "Registered Arbiter Station. Certification and Evaluation."
+- The draper's post counter knows Lira by name.
+
+**Edran.**
+- Came to Greyvane at fifteen.
+- Has been first since the end of his first year.
+- "What I can't work out is what the board is for, if somebody can stand outside it."
+
+
+### Repair r1 changes that alter state or canon
+- The ch16 Oona exchange: the first bell rings while she reads and the hall empties before she asks "Is it true?"; ONLY Oona hears "There isn't one to hide." No rumour carries into Movement 3; Cael's public guard from ch8 ("I'm enrolled.") holds; telling Edran remains a public choice still to come.
+- Karis's calendar: Marlowe's joke late winter; explanations killed over the summer; the Reydan result reached her in the first days of autumn, barely a week old; the digest a few days later. Ch11 "late last winter". Ch13: the Iron Eight bout was days before Cael came to Greyvane.
+- Ch16: Karis times Cael's lead from session one (she watched him run the framework, no one striking) — she never saw a closed sitting.
+- Brom is "a stocky boy the roster listed as Iron Skin"; Vell is "the woman who kept the Ironyard's ledger".
+- Ch14: one archive visit; the routing code goes only to Prynn (Naveth's dismissal reported); Quenna's post-D2 talk dropped.
+- Coss crossed out *purpose* (ch13) — later invalidity arguments lean on the enrollment form's wording.
+- Crowd at D2: about six hundred.
+
+Movement 2 CLOSED 2026-10-01 after repair r1 and two recheck line fixes (ch14 the routing-code line no longer says "That night" before the dusk wall scene; ch9 "a real thread behind Marlowe's joke"). Final: 8 chapters, ~36.5k words; overlap 0; gates 0. Paragraph median 30 recorded as known drift (ASR proxy).

@@ -50,3 +50,9 @@ The texture of both sittings beyond the skeleton; the observers' faces; which se
 ## Where we leave pressure
 
 Midwinter, semester's end. A public record that cannot be made small again; watchers who no longer pretend; an Ember point he still calls fire; a priority flag, a wall, a research trail, and a record that every next place will read. Book 4 opens five months later at the bluff road above Ostrand.
+
+## Coordinator note (Movement 2 review, 2026-10-01)
+
+- Coss has conceded on the page (Movement 2) that the category's words hold. The
+  "plain-face invalidity" argument must lean on the enrollment form's gloss, not on the
+  provision itself.

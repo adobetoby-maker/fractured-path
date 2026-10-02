@@ -43,3 +43,9 @@ Everything inside the exchanges beyond the skeleton; the sensory language of the
 ## Where we leave pressure
 
 Week 17. Five fragments, one chosen. A question he cannot answer, filed nowhere. A girl inside the circle who has not asked about the log, because she promised. Somewhere on the road, a field commission's packet is finished.
+
+## Coordinator note (Movement 2 review, 2026-10-01)
+
+- Karis's newest declaration is [Drawn Channel] (Iron Rank 3; Movement 2). Her "lattice" in
+  this movement must be composed geometry built from existing declarations, not a further
+  declaration above [Drawn Channel].

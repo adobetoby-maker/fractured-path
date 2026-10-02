@@ -42,3 +42,9 @@ The fight's choreography beyond the four-exchange skeleton; the rumor and the od
 ## Where we leave pressure
 
 Week 8. A boy who has decided to learn to direct something he has never once tried to aim, so that not-knowing stops endangering the people next to him. Lira's reassessment is three weeks posted on the calendar and she has gone quiet in the way a drawn bow is quiet.
+
+## Coordinator note (Movement 2 review, 2026-10-01)
+
+- Crowd canon: about six hundred watched the D2 assessment (three tellers agree).
+- Whatever Movement 2's repair settles about Cael telling Oona "There isn't one to hide" in
+  front of the crowd (ch16), carry it: check STATE_LEDGER "After Movement 2".

@@ -46,3 +46,21 @@ A first win, a promise made on a step, and — unseen by Cael — a Compact fiel
   all four: the cart (Movement 1), Renn's third exchange (Movement 2), the sparring incident
   (Movement 3, the first he counted) and Dessa.
 - **Vell's ledger custom** (see Movement 3 note) must still hold: no name in the ledger before Darrow.
+
+## Coordinator notes (Movement 3 review, 2026-10-01)
+
+- **The honest sort is an act on the page:** Cael unfolds the torn page and writes the four
+  (cart, Renn, the sparring drop, Dessa). The arithmetic is already done in his head in
+  Movement 3 — what is new here is writing it.
+- **Renn returns "at the month"** (about day 38) per Movement 3, which lands in this movement,
+  while BOOK_MAP books Renn II for Movement 6. Give a postponement line on the page (the bout
+  is offered and put off, with a reason), so Renn II stays in Movement 6.
+- **Lira's morning report** (begun in Movement 3) must recur here or visibly lapse. She gives
+  evidence, never a ruling. No more Wind-shaped language from her before Movement 6 — the
+  drop's resemblance to her Path must not be named or hinted further.
+- **The mender's piecework** (two afternoons a week) continues or visibly lapses.
+- **"Red Cap"** is a description of one errand boy, never a name. His wager pays at Dessa.
+- **Vell's custom** "A name goes in when the yard comes to see it" needs an operational test
+  readers can see (a bout booked against a name, or a marquee night), so Dessa and
+  assessed-Copper don't make readers ask why Cael's name still isn't in the ledger.
+- Petra Voss's age (17) is PROVISIONAL.
