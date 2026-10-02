@@ -634,3 +634,106 @@ Movement 3 CLOSED 2026-10-01 after repair r1 and four recheck line fixes (ch18 E
 - Movement ends: Hesk's letter → wall → Quenna's note under the door (after the fourth sitting, her room, bring Karis) → a short log; Karis: if there is ever an honest test, she wants it to be her.
 
 Movement 4 CLOSED 2026-10-02 after repair r1 and five recheck line fixes (ch31 Gerda's catch "at the review"; ch29 the binder line quoted as written at ch22 — no *appetite*; ch28 Oona's Thursday-morning scene marked as earlier; ch31 "Session nine at Ardenmere"; ch30 the wet-cloth staging). Final: 8 chapters, ~36.6k words; overlap 0; gates 0.
+
+## After Movement 5 (chapters 32–39; repair r1 applied 2026-10-02; recheck pending)
+
+### State (from state/movement-005/AUTHOR-REPORT.md, as drafted; r1 changes below take precedence)
+
+
+**Calendar.** First light, Monday of week 17; the frost holds a footprint. Oona's Kindling is Saturday of week 17, second bell, at the town station (nine days after the match, as she counts it).
+- Wk12: D4 (the eighth day, first bell, training hall). Quenna's room at the third bell the same day: proposal and consent. The rule on the wall that night; notice posted next morning; Edran's number two days later.
+- Wk13–14: the Ember study at the fifth-bell blocks in section two (four blocks in the first week). The instructor at the rail on the fifth afternoon; the lag-rule plant on the sixth block; Karis vs Hobb on the last afternoon of the second week. The diagram that night; Hobb the next morning.
+- Wk14–15: Lira's drills, four nights (11, 9, 6, 4), with a Thursday session and a Friday drill on Wray's floor among them. The fast drop in Brom's room the evening before the fourth night.
+- Wk16: Tue, conditions posted and the last supervised session. Taper through Wed (Oona, Gerda, the tout, supper, the archive). **Thu, the match at the fifth bell.** That evening Karis is told. Fri: dawn misfires; Edran; the instructor; Naveth; Quenna's record and question; the wall. Fri and Sat: Karis's two days. Sat: clean day one; the paragraph at the eighth bell; Karis in; columns; Brom. Sun: clean day two; breakfast with four; Oona; Gerda; Prynn; the Hesk letter.
+- Wk17 Mon: clean day three.
+
+**Cael's body.**
+- Left forearm: a burn across the outside from a hand's width above the wrist nearly to the elbow, two fingers wide, red and shining, blistered along one edge. Cooled under the pump, dressed with the kitchen's salve and loose linen; sleeve kept off it. "A fortnight. Longer." Aching less by the Friday night.
+- Breastbone: the bruise from the whole push is gone (match morning). The fast drop costs one breath and a tightness, transient.
+- Right shoulder: the Reydan complaint is unchanged. A half-speed push from Lira landed on it during the Friday misfire.
+
+**Abilities.**
+- **Wind-adjacent.** Spent hard in the match. Two half-second *absences* (not slowness) at Friday dawn, about 18 hours after: the third and eleventh sequences. Clean Saturday, Sunday and Monday (Monday at three-quarter speed, a double included). Lead a quarter of a breath, unchanged (Karis counted).
+- **Iron-adjacent.** In the match it gave her near points as pressure about half a breath before light, within close range (the quiet-room three paces). She answered by laying far points outside its range. Clean on Brom on the Friday. Post work at four in twenty (wk14 and wk16).
+- **Pressure-adjacent.** Unused; untested after the match ("no honest way to test it without a fight").
+- **Compression-adjacent.** New: **the fast drop.** The fragment is woken before the strike, a quarter is caught and let go unsent. Two of three. Cost: one breath and a strap across the breastbone. "The cost lives in the sending, not the catching." It takes force, never heat. Used once in the match to cross a lit Drawn Channel: it dropped the channel's shove, and the heat burned the forearm by his choice. After the match, a slow quarter at half weight, dropped, was clean.
+- **Ember-adjacent.** **ACQUIRED** in the match's third exchange; the notice is P1 verbatim (ch36). It was lit once at the moment of taking, a rough point under the right palm on the frozen earth, the size not chosen. It sits warm, untested, and "feels like her." Lira's rule permits a first small touch from Tuesday of wk17, with somebody in the room.
+- **Directed acquisition.** Happened once: six weeks of close watching, then Karis trying at full economy in a sanctioned match, and Cael out of angles. He stopped running and reached "into the shape" of her forming point: comprehension with weight, partial, torn at the edges. Whether he can *not* do it is unknown and unwritten.
+- **Tide anomaly.** Unchanged. The session-nine page is mentioned once as carrying the *not yet* box. It is not felt, explained or added to.
+
+**Record exposure.**
+- D4: Wray, "As previously recorded. No safety concerns." Quenna: "Assessment satisfied." The rotating seat was the white-haired spare man (D1's) and asked nothing.
+- D5 (fifth sitting): posted conditions (§3). Exchanges 1 and 2: "Halt. Position." / "Opponent." Then "Match halted. Interruption. Called a draw." Quenna's record (P2 verbatim). Draw rule: a match the presiding assessor halts at her discretion before its count is finished is entered as drawn and touches nobody's standing. Wray signed without comment; the heat-Paths instructor signed and asked nothing. **No record describes an ignition point** (that stays for D6).
+- Karis's consent is in Quenna's file with her initials; Cael holds the fair copy in the binder's back pocket, beside Karis's paragraph.
+- Karis's null ledger now holds a "Supplementary. Not a session." entry giving the result as reported by the subject: a fragment notice, Ember-adjacent, "acquisition, directed." It is inside the four under clause 2 of the second terms; no mechanism.
+
+**Knowledge.**
+- **Cael:** the field exists; the hypothesis held once; Quenna's question stands, filed nowhere.
+- **Karis:** knows the stakes hypothesis (read aloud from the binder's back pages, the evening of the match, Lira and Brom present). She knows the notice's Ember-adjacent line and its field (spoken by Cael). Her model is "It wasn't you watching. It was me trying." She has still never seen the binder and has not asked; she glanced at it once (ch39).
+- **Lira and Brom:** everything above.
+- **Quenna:** saw an effect; has theories, unwritten; asked P3; asks no mechanism.
+- **The heat-Paths instructor** saw the light under Cael's hand ("Hm"). **Naveth** saw "exactly as much as can be seen from a window." **Edran** saw, and is not asking. **Wray** saw the crossing and the burn.
+- **Oona** saw the light under his hand. Cael told her it was his, new, "part of the strange kind," with more later. She will not repeat it.
+- **Rumor market:** six stories. "The observer made fire" is true and not believed (Oona teased for it). "Secretly Ember" is being squashed by Lira.
+
+**Relationships.**
+- Karis is inside the circle ("She's in," Lira at her door). There are four bowls at the end of the scarred table. Lira's bread rule now includes her; Karis handed Lira the smaller half. The binder promise is kept by Karis unprompted.
+- Lira and Cael: "go in to fight her" kept; the crossing told before (Brom's room, ch34); "I'm not holding anything with you any more that she doesn't know."
+- Edran and Cael: the third is thicker (three in four); the promise to tell him is kept; "bigger than I'd estimated."
+- Hobb: crossed a channel because nobody told him not to ("Wanted to know"); gave the shove/heat report; "My shins say you should've listened."
+- Prynn: tea twice; she sat with him; she has never forgotten to lock the door.
+- Oona: told the truth again.
+
+**Supporting-cast decisions.**
+- Quenna: proposed the match; drafted conditions with *without stating cause*; did not ask about *source*; wrote P2; asked P3.
+- Karis: wrote her own consent; trained in the open; showed the lag rule for symmetry; stopped writing about him before the match; coached ("Fight me"); fought at full economy; asked to be inside.
+- Lira: built the drills; nearly said the word and caught it; set the three-clean-days rule; left bread at Karis's door; let Karis in.
+- Brom: sewed the bags; threw them; the field report; neutrality barley; barley at Karis's door; "You just started choosing."
+- Wray: sent Hobb untold; the three-striker drill; "Spend it on purpose"; read the burn.
+- Edran: sent for Ternhall's record; watched late; wagered a month's kitchen duty on Karis; not asking.
+- Hobb: crossed the channel; reported it; "She lays early."
+- Gerda: "Don't look at anything that isn't her"; watched without the clock; spars Hobb on Tuesdays, walking out of her haze on purpose.
+- Oona: asked "Are you going to win?"; skipped her floor block; saw; kept it.
+- Prynn: the tea; the lock.
+- Naveth: watched from his window and said so.
+- The heat-Paths instructor: advice he "doesn't give observers"; stood up from his chair; "Hm."
+
+**Standings.** Karis first, Edran second, unchanged (the match is not a standings bout).
+
+**Letters.** Cael to Hesk ("Something happened this week"; a draw, a chosen burn, a thing he can't put on paper, "We said yes. Lira left her bread."), set for the next third-day post. No reply. Vell still not written to.
+
+## 3. New canon minted in prose (flag for ledger and owner)
+
+- **Quenna's room:** up a narrow stair at the back of the main hall, over the assessors' room; a desk under a window onto the formal yard; folders tied with tape; a cold grate and an unused kettle.
+- **Karis's consent (ch32), full text:** *I, Karis Dellenmoor, Ember Path, Iron Rank Three, a student of full standing, consent to a supervised match against the candidate enrolled under the demonstration provision, on whatever conditions the presiding assessor sets. I have read the standard waiver and accept everything in it. I ask that nothing in the conditions be softened on my account. I will fight at full intensity because a match fought at less would not be worth recording. I want to be the first documented source. If it works, the documentation matters. If it doesn't, that matters more. I have read this twice before signing.* A single line runs under the three P18 sentences. Quenna initialed and dated the margin.
+- **D5 calendar line:** *Demonstration Assessment, Unclassified Observer Track. Fifth sitting. Supervised match under standings rules, three exchanges, faculty discretion to halt. Opponent: Karis, Ember Path, Iron Rank Three. Conditions to be posted. Week sixteen.*
+- **Posted conditions (ch35), Quenna's hand:** *…Supervised training match, formal conditions, under standings rules. Three exchanges on the instructor's count. The presiding assessor may halt the match at any moment, at the faculty's discretion, without stating cause. Panel of three: the presiding assessor; the instructor's seat, Wray; the rotating faculty seat by rota. The outcome will be logged as a demonstration assessment under the provision. Opponent: Karis, Ember Path, Iron Rank Three, by her written consent. Formal yard, the fifth bell, Thursday.* The rota gave the heat-Paths instructor.
+- **Ember mechanics (edition):**
+  - A point will not take where heat already stands, even the source's own lag ("Nothing can set fire where a fire already is"; the first rule taught to Ember children).
+  - A lit Drawn Channel crossed by a body answers with a hard shove up out of the surface (like a stove door) as well as heat, and then spends itself and goes out.
+  - "Lattice" is Ternhall's word for composed order: points first, joins last, "never join what you can still move." It is not a declaration. Sixteen is the most Karis had ever held.
+  - **Her full economy:** the off-hand tell is cut to about a tenth; she releases nothing, so there is no lag; she holds points through resets; she lays far points outside the read's range; pairs; bait channels.
+  - Sustain cost of sixteen held at speed: cold, grey fingertips, gone by morning.
+- **The heat-Paths instructor:** lean, old, scorched cuffs; "taught Ember for thirty years." He told Cael Ternhall teaches orders "the way a grammar teaches sentences."
+- **Edran** sent for Ternhall's public standings record (three years) after his loss.
+- **Lira's lattice drill:** chalk circles called "point"; fist-sized pea bags sewn by Brom (Velmere boot stitching) thrown flat along the lines. Counts 11, 9, 6, 4 (and 4 again).
+- **Brom's column:** *WALL. SEEN EVERY TIME. NOT CLOSED. — B.*
+- **Wray's three-striker drill on Brom** (Hobb, a Storm second-year, Edran in turn). **Flag:** it previews the M6 gauntlet; the planner may treat it as a first try or trim it.
+- **Wray to Cael:** "Nothing should be spent that doesn't have to be… Spend it on purpose."
+- **Karis's ledger, supplementary entry (ch38):** *Supplementary. Not a session. Formal yard, fifth sitting, full intensity, under the presiding assessor's conditions. Source: K., Ember Path, Iron Rank Three. Consent: written, filed. Distance: from eight paces to one. Duration: three exchanges. Result, as reported by the subject: a fragment notice. Ember-adjacent. The field reads: acquisition, directed.*
+- **Karis's paragraph (ch38), new text** (the source text was a model only). It ends: *I would rather find out standing with the three of you than standing outside, if you would ever have me.* One sentence was scraped out with a penknife; its ghost remains.
+- **Prynn:** has never once forgotten to lock the reading room in sixty years; she leaves it open for him on purpose.
+- **Naveth:** watches sittings from his window.
+- **Small:** the tout's book went 5→4 to 1 against Cael, and a draw voids it. Edran had a month's kitchen duty on Karis. The honey thief was caught (an Edge-floor third-year). The baker raised the loaf by a copper. Gerda spars Hobb on Tuesdays by her own request. Oona's mother will stand on the left at the Kindling.
+- **Hesk letter, week 16** (summary in §2).
+
+
+### Repair r1 changes that alter state or canon
+- The Compression "drop": Cael chooses the whole shove up front; it takes a channel's shove, not its heat; it costs THREE breaths (Lira's ch37 count matches).
+- The Iron read in the match: never before open in a real fight; at full economy each point is a whole commitment leaning on the air. Karis's lit channels die when her count breaks (she loses her grip; ch38 from her side).
+- Oona's request to miss the floor block was granted ("if I make it up on Saturday"); she was on the bench. No "It came on Thursday".
+- Brom's gift is the Iron-adjacent fragment ("weight-read"); the match runs "however long the match went" (Book 4: one hour).
+- The Reydan bout crowd: six hundred (owner decision #4).
+- Karis learned the stakes hypothesis on match night (Book 4 ch9: "We found out in the match"); Karis's supplementary ledger entry carries "acquisition, directed" + "Source: K." — the only such paper outside the binder.
+
+Movement 5 CLOSED 2026-10-02 after repair r1 and three recheck line fixes (ch32 the posting carries "by her written consent"; ch36 "as he had told Lira he would"; ch36 the record is no longer the writer — "today the line was not blank"). Final: 8 chapters, ~39.9k words; overlap 0; gates 0.
