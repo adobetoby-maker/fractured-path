@@ -46,3 +46,11 @@ The order of new episodes around the source spine; the Kindling's Path and textu
 ## Where we leave pressure
 
 Week 20. An outline with no fallback, built like Brom's stance. Two weeks left. An Ember exhibit in a file Coss now holds. Karis has started reading the schedule over his shoulder in the evenings.
+
+## Coordinator notes (Movement 5 review, 2026-10-02)
+
+- The heat-Paths instructor sat in the third chair for the Karis match; rotate him off the next
+  assessment (D6).
+- Brom's gauntlet must differ in kind from Wray's three-striker drill (Movement 5 previewed it).
+- New Compression canon from the match: the "drop" takes a channel's shove but not its heat
+  (heat is not force); its cost fits every earlier data point.

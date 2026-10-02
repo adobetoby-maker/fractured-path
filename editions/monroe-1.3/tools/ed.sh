@@ -28,6 +28,11 @@ chapters_of() { # N -> absolute chapter paths for the movement
 case "$cmd" in
   compile)
     N=${3:?n}; S=${4:?start}; C=${5:?count}; PREV=${6:-}
+    pk="$B/packets/MOVEMENT-$(pad $N).md"
+    rng=$(grep -m1 -o -E 'Chapters?:[^0-9]*[0-9]+[^0-9]+[0-9]+' "$pk" | grep -o -E '[0-9]+' | tr '\n' ' ')
+    set -- $rng; PS=${1:-}; PE=${2:-}
+    if [ -n "$PS" ] && { [ "$PS" != "$S" ] || [ "$((PE-PS+1))" != "$C" ]; }; then
+      echo "REFUSED: packet says chapters $PS–$PE ($((PE-PS+1))) but compile asked start $S count $C"; exit 3; fi
     st="$B/state/movement-$(pad $N)"; mkdir -p "$st"; echo "$S $C" > "$st/range"
     args=(movement --root "$ROOT" --author opus --book-id "fractured-path-$BOOK-monroe13"
           --series-id fractured-path-monroe13 --packet "editions/monroe-1.3/$BOOK/packets/MOVEMENT-$(pad $N).md"

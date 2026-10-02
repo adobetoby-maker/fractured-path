@@ -50,3 +50,7 @@ A decision taken plainly, a pressure that has stopped being procedural, and a bo
 
 - **Audio guard:** Halvern (the clerk) and Halden (the archivist) are near-identical by ear. They
   never share a scene or a POV, and Cael never says "Halvern" aloud — he calls him "the clerk".
+
+## Coordinator note (Movement 6 review, 2026-10-02)
+
+- Hesk's cutaway budget is nearly spent (Movement 6 used ~5,100 against ~3,000; his book share is ~9,000). Keep any Hesk cutaway here brief; his letters carry him. Cumulative non-Cael share through M6 is ~12–13%, on plan.

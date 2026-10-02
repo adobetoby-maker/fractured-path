@@ -515,3 +515,173 @@ Repair r1 changes that alter state or canon:
 - Approved canon: the post's layout; the sealed-file procedure; Coss's code register; Lira Copper 3; her lodging and savings tin; Vell knows "Hesk-ward", kept out of the book. Plant: Lira over-commits right (fourth exchange vs Brenna); Cael kept it out of her report.
 
 Movement 5 CLOSED 2026-10-02 after repair r1 and two recheck line fixes (ch28 the doorstep lesson now only in ch30; ch33 the protected "eleven minutes" line attached to Lira's beat). Final: 6 chapters, ~28.1k words; overlap 0; gates 0.
+
+## After Movement 6 (chapters 34–40; repair r1 applied 2026-10-02; recheck pending)
+
+
+**Calendar.** Weekdays run from day 55, a Tuesday.
+- Day 56 (Wed): the plan; the mender.
+- Day 57 (Thu): the kiln boy named and watched.
+- Day 58 (Fri): *gone* begins; the nod.
+- Day 60 (Sun): the turn of the month; the hold lapses; the kiln boy watched again.
+- Day 62 (Tue): the opener, **won**.
+- Day 64 (Thu): the barges; the rebook asked; carded.
+- Day 65 (Fri): Renn's public preparation.
+- Day 66 (Sat): Hesk's Dessa reply arrives.
+- Day 67 (Sun): **Renn II, won**.
+- Day 69 (Tue): Sarel booked and watched.
+- Day 71 (Thu): Sarel watched.
+- Day 73 (Sat): the falls; the habit seen twice.
+- Day 74 (Sun): **Sarel, lost**.
+- Day 77 (Wed): the habit named; Lira takes the room.
+- Day 78 (Thu): the rule; the door; Talis booked.
+- Day 79 (Fri): Hesk's review letter arrives.
+- Day 81 (Sun): **Talis, lost**.
+- Day 82 (Mon): Dellin booked.
+- Day 83 (Tue): Dellin watched.
+- Day 85 (Thu): **Dellin, won**.
+- Day 88 (Sun): Corbin watched.
+- About day 89: the fortieth *gone*.
+- Day 92 (Thu): **Corbin, won**.
+- Day 94 (Sat): **the notice**; the step; the Hesk letter.
+- Day 97 (Tue): **assessed-Copper**; the forty-second day.
+
+In Denvash: the Dessa letter arrives about day 58; Joren calls about day 61; the summons letter arrives day 63 (the cut, Alis); the review sits about day 72.
+
+Winter is coming in: the river freezing at the edges. Cael is fourteen.
+
+**Bodies.**
+- Cael at day 97:
+  - Left side under the ribs: Talis on day 81, struck again by Corbin on day 92. There is a catch at the top of a full breath, mending.
+  - Left upper arm bruised (Corbin's elbow); chest sore (Corbin's fist).
+  - Left forearm over the old burn: struck by Renn and then by Sarel; stiff; worked daily in cold water.
+  - The back bruise (Renn, then Sarel) and the right thigh (Renn's flat) have healed.
+  - A deep ache in the left hip after the deliberate step, worse on the second attempt.
+  - Knuckles sting from Corbin's shield.
+- Lira: the Brenna shoulder has healed. She is training out the right-side over-commit; it was down to "three fingers" in week 5.
+- Renn: on his back at the groove (no lasting hurt; legs gone). Dellin's jaw; Corbin unhurt.
+- Hesk: cut palm, bound at the healers'.
+
+**Knowledge.**
+- Cael knows:
+  - his own private nod (Lira; Renn copied it);
+  - that a tell can live in the ground (Talis);
+  - that a watcher can be read back (Corbin);
+  - that watching is too slow for a Bronze; the beginnings of moving without deciding;
+  - Lira's right-side habit and her academy loss;
+  - her room;
+  - Hesk's review outcome ("remain on the book"), Hesk's fear, and Joren's and Alis's messages;
+  - **the Wind-adjacent notice**, that it came from Lira, and that he can make the step on purpose, badly, at a cost.
+- Cael does not know:
+  - the mechanism (watching? contact? time?) — no theory beyond "collecting";
+  - who sent the sweep;
+  - the senior evaluator's name or arrival day.
+- Lira:
+  - knows her habit and is fixing it;
+  - has made the rule;
+  - does **not** know about the notice;
+  - still has her row of three and her eleven solo drops, untold.
+- Hesk: knows the summons was objected to and closed pending; knows six weeks of bouts (as written); knows Cael "kept a thing three weeks too long" from someone he trains with. He does not know the four (now five).
+- Vell: has "assessed-Copper" written beside his standing line and private lines on Renn II (the word) and Dellin ("Write down why"). His name is still not in the book.
+- The district: *past Corbin*, by charcoal and by mouth.
+
+**Resources.**
+- Pouch: rent continues (not shown). The mender continues Mondays and Wednesdays (hinges, washers); the mender asked "And after?"
+- **The Log.**
+  - Front: entries 7 (the kiln boy), 8 (Renn II), 9 (Sarel, the longest), 10 (Talis), 11 (Dellin, *Nothing happened*, "why it held"), 12 (Corbin); margin facts; *ground: nothing* habit lines.
+  - Back:
+    - the boxed ***Not yet*** with "not sure it is honest";
+    - the deliberate step, *on purpose… badly… started to answer when I ask*;
+    - nothing written about Lira's foot (kept, never written).
+- The post at the Cinder House: the *gone* column ruled off at **forty**; a falls column (seven or more).
+- Letters:
+  - Cael's day-56 summons letter (arrived day 63).
+  - A Thursday letter (day 64) on the west bag.
+  - The post-Talis letter (written day 81).
+  - The day-94 short letter (to post about day 96; arrives about day 103).
+  - Hesk's Dessa reply (received day 66) and review/fear letter (received day 79).
+
+**Fragments & progression.**
+- **Notice received, at Torvin's, the thirty-ninth night (day 94), exact (BOOK_MAP §7):**
+  ```
+  FRAGMENT ACQUIRED
+  [unnamed] — Wind-adjacent. Duration: undetermined. Integration: partial.
+  Tier equivalent: unknown.
+  ```
+  It arrives in the dark place behind the breastbone. The sigil does not light, and the place is "not quite as dark as it had been".
+- **Deliberate use**: twice, by the cot, slow and clumsy; the boards "less firm" by about a hand's width. The cost is breath and a left-hip ache, felt and not itemized (no half-breath, no landing beat, no range). Pressure use: none in this movement. All six bouts are won or lost on craft.
+- **Instance count as logged: four**, unchanged (cart, Renn, drop, Dessa). The notice and the deliberate steps are recorded in the back, not as instances.
+- **Circuit record: 5–6** over the book. In this movement: W kiln boy (Cu 2 Ember, 3rd, called); W Renn (Cu 3 Blade, 5th, called); L Sarel (Br 1 Blade, 6th, called); L Talis (Cu 4 Stone, 4th, match); W Dellin (Cu 3 Force, 4th, called); W Corbin (Cu 3 Shield, 5th, conceded). **Assessed-Copper** (Vell: about Copper 5–6), written beside the standing line. Still no name in the book.
+- Untold to Hesk: **five**. The promise to Lira stands, not yet kept, and she is now owed it twice over (her rule and the step promise).
+
+**Relationships.**
+- **Lira:** angry, then the rule ("mine are mine"), said back. The room shown, the door knocked on. The habit being trained out; told small things daily. Proud he is "past" her rating. She does not know the notice.
+- **Renn:** the second look paid. "I let him"; "I'm keeping that". Shouting *mine* at Corbin.
+- **Sarel:** respect; "Don't ask me for another one."
+- **Dellin:** "Three times… I'll have to start doing something different."
+- **Corbin:** "Forty-one fights… with the *truth*."
+- **Dessa:** watched from the benches on her own schedule (Dessa II pending, M8).
+- **Vell:** a word in her circle; "Write down why"; assessed-Copper; **"For what it's worth. I do."**
+- **The old man:** "arms and back"; "Five."
+- **The mender:** "And after?"
+- **Torvin's wife:** the salt crock for letters; a bun on Renn II.
+- **Yeni:** turned the lamp; "it's got plenty to say". Her favour is still uncollected.
+- **Hesk:** fear sent as it came; Cael answered with "three weeks too long", not the four.
+- **Joren:** heels down. **Alis:** basins. Both via Hesk.
+
+**Open threads.**
+- Added:
+  - *Not yet* (boxed; not sure it is honest);
+  - five untold;
+  - Lira's rule against his kept fragment, which is partly hers;
+  - the deliberate step's cost;
+  - Dessa on the benches;
+  - the guild matter "on the book";
+  - Hesk's cut hand (not told);
+  - "And after?" (the mender).
+- Carried:
+  - the senior evaluation (about now);
+  - the polite "circuit kid" man;
+  - the carriers' clerk;
+  - Marrow;
+  - Yeni's favour;
+  - Lira's row of three and solo drops;
+  - Halden's next book.
+- Closed:
+  - Renn II;
+  - Lira's door;
+  - the guild review sitting (survived, kept open);
+  - the six weeks.
+
+## New canon minted (flag for approval where marked)
+
+1. **The kiln boy**: unnamed Copper 2 Ember, about seventeen, works the brickworks kilns, burn-spotted forearms. He holds his breath before every heat and looks where he will hit. *Flag.*
+2. **Cael's nod**: a private nod before he moves. Lira found it, and Renn has it. **The *gone* column** on the post, ruled off at forty, and **a falls column**.
+3. **Renn's rebook and preparation**: a public drill in "the middle yard on the lane", with a friend playing Cael. The **false heel**. His shoulder roll is still unknown to him. The patchy river beard, half-shaved for Vell.
+4. **Sarel**: about thirty, a scaffold worker on the new houses on the east road, short dark hair, an old white scar down the left forearm, a nick out of one ear. She fights "a few times a season". Her speed is a body's speed, not Wind. "Two." *Flag (recurs Books 2 and 4: "Sarel's closing speed").*
+5. **Talis**: about eighteen, big and fair, neck as wide as his head, rocks on his heels. The **ground hum a half beat before he plants**, felt through a cheek on the dirt and through the iron rope stake. *Flag (Book 2 remembers it).*
+6. **Dellin**: about twenty-five, a carter, broad and slow-footed, "a face like a friendly loaf". Left high, right low, the shove, then the collar. *Flag the detail.* Distinct from Kestrel.
+7. **Corbin**: about thirty-five, square, bald patch, short brown beard greying at the chin. **Shield Path** (source silent; minted): a plate-sized shine spent only when needed. He reads feet at the mark. Forty-one fights. *Flag the Path.*
+8. **Lira's room**: over a chandler's at the end of a lane two streets from Torvin's. The widow chandler is unnamed and says "no visitors after the lamps". The fourth step talks. A green-gone-grey door with a key on a string, locking from both sides. A paper-mended cracked pane looks toward Torvin's chimney. Two weeks were paid first. The **throat-sweet tin**. Her sparring hour pays a little. *Flag.*
+9. **Lira's rule**: "You see a thing about me, you tell me. When you see it… mine are mine."
+10. **Hesk's guild review**: it sat in the guild hall by the canal before the reviewing officer and two members chosen by lot (a lens-grinder and a nameless gauge-maker with a magnifier). Correspondence is "not specified". **"No present cause to act… remain on the book. Open."** *Flag (owner said pending or quietly survived; this is survived-but-open).*
+11. **Alis**: apprentice at the healers' with the blue door on Merchant Row. She washes, carries, boils and watches, and may not use her Path until spring. Consistent with Tide's "cannot heal what she cannot read". *Flag.*
+12. **Joren's patience**: daily standing practice; held a survey level for fifty minutes.
+13. **Hesk's cut palm** (a broken spring), not told to Cael.
+14. **Cael's hand on the ground at his mark** before a bout: a new habit.
+15. **The notice's arrival rendered**: the quiet before a thought; the dark place behind the breastbone, with the sigil still unlit; the words "on the inside of your eyelids when your eyelids are open" (Joren's ch 1 image). **The deliberate step rendered**: distance "less firm" by a hand's width; breath and hip cost. *Flag for Book 2 consistency.*
+16. **Assessed-Copper**: a short line in Vell's hand beside his standing line. The board and card are not described as changed.
+17. Small texture:
+    - the salt crock for letters;
+    - Yeni's lamp;
+    - *CORBIN PUT HIS HAND UP / five* in charcoal on the board;
+    - "Called. Unrated." as Vell's call for an unrated winner.
+
+
+Repair r1 changes that alter state or canon:
+- Counts: Cael fought Sarel and the others as listed ("fought three times" where ch38 lists three); "three weeks ago"; four days since Sarel. Hesk had never SEEN the yard. The kiln boy's name was heard and not kept. The Log counts Baro (watched only); Vell's book counts bouts — hence "Seventh" and "three of seven".
+- Sarel's fifth exchange lands on Renn's old bruise. Talis: shoulders, then hands, then face and temper ruled out; the discovery is the cheek on the dirt.
+- Hesk cutaway ~4,490 words in M6 (his book budget is nearly spent). The Dessa letter is read twice; "A win you built…" printed only ch35; the fear paragraph and Joren/Alis lines only ch39.
+- Approved canon: Corbin's Path is Shield; Sarel's and Talis's details; Lira's room over a widow's chandler's shop; Hesk's guild review "no present cause to act… remain on the book. Open."; Alis may not use her Path until spring; the notice arrives at Torvin's on night 39 (day 94); untold-to-Hesk count five; logged instances four.
+
+Movement 6 CLOSED 2026-10-02 after repair r1 and four recheck line fixes (ch37 stray quote; ch36 the fear paragraph is six sentences; ch40 Lira stood at the post, not the board; ch38 the forearm jar). Final: 7 chapters, ~43.9k words; overlap 0; gates 0.

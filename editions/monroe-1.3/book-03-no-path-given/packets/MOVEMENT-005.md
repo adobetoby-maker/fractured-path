@@ -55,8 +55,8 @@ Week 17. Five fragments, one chosen. A question he cannot answer, filed nowhere.
 - **Quenna's proposal of the match** happens in week 12 (Movement 4 ends on her note: after the
   fourth sitting, her room, bring Karis).
 - **Karis knows** there are "more than two" capabilities (no count, no names); she has never seen
-  the binder; she does NOT know the stakes hypothesis (Book 4 ch9 needs "I did not know what it
-  was"). Lira knows the hypothesis; Brom knows its general shape.
+  the binder; she did not know the stakes hypothesis during the nulls (Book 4 ch9: "I did not know what it
+  was" — then "We found out in the match"), so she may learn it at or after the match. Lira knows the hypothesis; Brom knows its general shape.
 - **The null sessions** are Karis's own declaration practice with an invited observer — off every
   record; Quenna chose not to know more. Twenty-two nulls ran from week 9; "We are missing a
   condition" is written at session 22.

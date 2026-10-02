@@ -47,3 +47,7 @@ A known boy in a district that would notice his absence, a flag he does not know
 ## Coordinator note (Movement 4 review, 2026-10-01)
 
 - Vell has used ~5,300 of her ~9,000-word cutaway budget (M2 1,930 + M4 3,343). Keep this movement's Vell cutaway short.
+
+## Coordinator note (Movement 6 review, 2026-10-02)
+
+- Hesk's cutaway budget is nearly spent (Movement 6 used ~5,100 against ~3,000; his book share is ~9,000). Keep any Hesk cutaway here brief; his letters carry him. Cumulative non-Cael share through M6 is ~12–13%, on plan.

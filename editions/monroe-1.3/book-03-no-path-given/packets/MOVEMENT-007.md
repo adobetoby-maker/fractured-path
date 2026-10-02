@@ -45,3 +45,9 @@ The deposition's questions beyond the skeleton; Prynn's clauses; Karis's cards a
 ## Where we leave pressure
 
 The night before the first sitting. Nothing left to fix in the argument. A page in his pocket, a conclusion in a notebook, a yard that took the weight off. Morning brings a room that has come to watch him lose.
+
+## Coordinator note (Movement 5 review, 2026-10-02)
+
+- Karis's supplementary ledger entry (Movement 5) is now the only paper outside the binder that
+  carries "acquisition, directed" with "Source: K." — a liability when papers are seized. Decide
+  what happens to it.

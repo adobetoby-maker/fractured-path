@@ -56,3 +56,8 @@ Midwinter, semester's end. A public record that cannot be made small again; watc
 - Coss has conceded on the page (Movement 2) that the category's words hold. The
   "plain-face invalidity" argument must lean on the enrollment form's gloss, not on the
   provision itself.
+
+## Coordinator note (Movement 5 review, 2026-10-02)
+
+- Oona was told the light was his (existence and newness, not source or mechanism). Keep that
+  boundary in any gallery scene.
