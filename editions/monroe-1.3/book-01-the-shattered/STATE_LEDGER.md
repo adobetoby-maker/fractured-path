@@ -857,3 +857,160 @@ Repair changes that alter state or canon:
 - The Wind notice copied in ch42 is the exact three-line text. [SHATTERED] prints with brackets everywhere.
 
 Movement 7 CLOSED 2026-10-02 after repair r1, the 8-word sweep (r1b) and six recheck line fixes (ch45 letter-opening double removed; "a piece at a time"; "lay still and took stock"; ch46 "The air slammed…"; ch47 the Log's fifteenth entry "since the autumn" and the fourteenth bout in Vell's book; the paling sky). Final: 7 chapters, ~35k words; 8-word overlap 0; gates 0.
+
+
+## After Movement 8 (chapters 48–53; repair r1 applied 2026-10-02; recheck pending)
+
+**Coordinator rulings and r1 changes (these override anything below):**
+- Calendar: objection day 55; Ilsev's evaluation day 141 (twelve weeks — "three months ago"); the market Tuesday day 153; the trust talk (Lira's tin) day 158; the roof day ~178. Hesk's letter reaches Cael around day 186.
+- Cael has never seen Coss's black book or the sweep's code. His evidence about the sweep is only Coss's *I don't know* (ch32) — the roof count of three stands on that.
+- The Fenrow girl in ch50 has no named Path (the "Tide" water-throwing is REJECTED: Tide is flow/healing, ch01 Alis).
+- Footprint of "the view" (r1, ch53 three-week summary): a man at the tollhouse paid Red Cap a half-mark to learn which Sundays the Cinder House runs a card; unexplained; Cael does not remark on it. Do not explain it before the book's reveal limits allow.
+- Lira on the roof says "Not who" (not "He doesn't know"): Coss may hold a piece he did not hand over.
+- Ch50: Cael retells Ilsev's "two days in a cart" line; Ilsev never said "a subject who read less".
+- Coss's closure offer: the file goes "in the drawer for things that are finished"; Hesk's coda answers that a known thing "can't be put in a drawer".
+- Hesk's "being seen" letter is written (ch53) and in the east bag; M9 must have Cael open it, quote it only as he reads, and pay "I'll say so properly when I've found them".
+- Record 8–7; instances six; Pressure four times alone facing the trough, never against a person. Cutaway budget left: Coss ~3,050, Vell ~1,900.
+
+**Author's end-state (as drafted; read through the rulings above):**
+
+
+**Calendar.** Weekdays run from day 55, a Tuesday.
+- Day 134 (Thu): the W column; **Pressure letter posted** (arrives about day 141).
+- Day 138 (Mon): the mender.
+- Day 139 (Tue): **the summons**.
+- Day 140 (Wed): reading room, Part Six. Before dawn on day 141: the find.
+- Day 141 (Thu): the step; **Ilsev, second hour after noon; legal review**; the flag; Dessa booked at Vell's Thursday card; the cooper's roof; the Ilsev letter written.
+- Day 142 (Fri): Ilsev letter posted (arrives about day 149).
+- Day 144 (Sun): Dessa on the bench.
+- Days 145–150: the nod work. Day 149 (Fri): Hesk's Pressure reply.
+- Day 151 (Sun): **Dessa II, won**; the old man's "Four… Saturday".
+- Days 152–158: **the quiet week**. Day 153: Unclassified; the bread woman's lost name. Day 154: apricots. Day 155: barges, errand boys, Sella, the rent. Day 157: **the old man's lesson**; Hesk's short reply. Day 158: Lira on trust; the district letter written.
+- Day 159 (Mon): district letter posted (posting not shown; arrives about day 166).
+- Day 160 (Tue): **Pressure alone**. Day 161: the P column.
+- Days 164 and 171 (Sat): the old man's yard.
+- Day 174 (Tue): "You're describing a home."
+- Day 175 (Wed, Denvash): Coss decides. Day 176: leave taken and cart east; day 177 evening: arrives.
+- Day 178 (Sat): **Coss at the pie stall; the roof; "I'm not leaving"; the log line**. Same night in Denvash: Hesk writes the "being seen" letter, to post day 179 (arrives about day 186, in M9).
+
+Spring: the pear tree in flower, then frost-browned. Cael is fourteen.
+
+**Bodies.**
+- Cael at day 178: healed. This covers the Feryn forearm, both sets of ribs and the right hip (by about day 145), and the Dessa II injuries: the left hip, struck in the second exchange (a plank on day 152, half speed by about day 165, full by about day 175), and the right cheekbone and eye (shut on day 151 night, half open on day 153, gone by about day 170). The deliberate-step hip ache continues (W column: *same, less*). After each Pressure practice both arms go heavy "like wet sand" for most of an hour.
+- Dessa: unhurt (the strike was stopped short); tired at the end.
+- Hesk: the scar on his right palm from the winter spring (never mentioned to Cael).
+
+**Knowledge.**
+- Cael knows:
+  - Part Six, sections 1–5;
+  - legal review is pending for months, with "closed, pending" still standing;
+  - Ilsev's flag (on the docket when standard procedure opened, untraceable, reported, no conclusion);
+  - **policy, not law**: "a view that several people hold";
+  - Coss's offer, and that Coss does not know what the flag is;
+  - Sella's name;
+  - that Dessa reads his nod;
+  - how Pressure gathers in him, and that it shows.
+- Cael does not know: who made the flag, who holds the view, Coss's section head, the bread woman's name, or Hesk's coming answer.
+- **Ilsev** knows that Cael fights in a district ring (keeper unnamed). It is in her report.
+- **Coss** knows:
+  - Ilsev's report, including the flag paragraph and the ring;
+  - his sweep-code query came back *Noted*;
+  - his section head's "view".
+  He has **not** seen any flag himself (the senior flag stays for M9). He knows the boy will not be told what to do by him. He does not yet know Cael's answer.
+- **Hesk** knows the Pressure notice, Ilsev and the flag, Dessa II and the district. He has written the "being seen" answer. He does not know about Coss's visit.
+- **Lira** knows everything, including Coss's offer.
+- **Vell** knows the woman from regional came, and that Cael came straight to her table.
+- **Dessa** knows that he decided on his mark: "That's a thing you can do once."
+
+**Resources.**
+- Purses: Dessa II's purse (amount not stated). Rent is held at its old rate by Torvin. Coins go to the old man's yard time on Saturdays.
+- **The Log.**
+  - Front: the copies of Part Six sections 1–5; the four-step answer, fair-copied; entry 16, Dessa II (the Log's 16th entry, Vell's 15th bout); Hesk's home letter inside the front cover.
+  - Back: *No instance* (Dessa II); the fruit woman's line, boxed; the Pressure practice entry and its ruling; the Coss entry ending with the protected line and *I'm not leaving*.
+- **Lira's post**: the *gone* column (40), falls (9), **W** (strokes, rings, cost words), **P** (four strokes, rings, *arms, trough*).
+- Letters:
+  - Cael → Hesk: Pressure (posted day 134), Ilsev and the question (day 142), district (about day 159).
+  - Hesk → Cael: Pressure reply (received day 149), "Your question I'm keeping" (day 157), "You're describing a home" (day 174).
+  - Hesk's "being seen" letter is written and due in M9.
+
+**Fragments & progression.**
+- No new notice. Fragments: two, Wind-adjacent and Pressure-adjacent.
+- **Wind**: asked for daily in the grey half (after the quiet week), logged on the post. It is still slow on demand; the cost runs "same / less". It was not used in Dessa II, did not come, and was not asked for.
+- **Pressure**: **first deliberate use, alone, four times, always facing the trough**. It needs a full breath to gather and is visible in the trunk (his own silhouette). Its effect is small: it flattens water, leans twigs, moves a bucket a finger. After it, both arms are leaden for most of an hour. **Never used in a bout** ("Only ever alone, and in pieces").
+- **Instances as logged: six**, unchanged.
+- **Circuit record: 8–7** over the book (W, Dessa, Cu 5 Stone, fourth exchange, called). Still assessed-Copper and unrated at the rope. **Still no name in Vell's book.** No card since Dessa II, by his choice and Vell's.
+- Compact: closed, pending; **legal review** (months).
+
+**Relationships.**
+- **Lira**: trims the answer; the W and P columns; "a week, nothing"; on trust ("I'd rather not know and be here"; her tin back in her pocket); names Coss's message; "Good," to the river.
+- **Ilsev**: concedes; tells him the flag; "Read the rest of the Handbook." Gone back to regional.
+- **Coss**: the closing form unused; carries the referral back; comes back in his own coat; the offer; "I don't know anything about a flag." Not answered.
+- **Dessa**: the talk owing is paid ("Now we've talked"). She will "watch your mark" next time.
+- **The old man**: "Four"; a standing Saturday lesson for a coin; economy.
+- **Torvin**: holds the rent; "out by a winter". **Torvin's wife**: oats at dawn, a bun on him, "ungrateful".
+- **Sella**: named; bets against him on principle.
+- **The errand boys**: working the lists together now; still betting.
+- **The bread woman**: gave her name once; he missed it.
+- **The fruit woman**: the apricots and the line.
+- **Halden**: the uncut Part Six and the bone knife.
+- **Vell**: books Dessa "asked by both"; the call.
+- **Hesk**: three letters; the question kept, then answered (in transit).
+
+**Open threads.**
+- Added:
+  - the view and who holds it;
+  - Coss's offer, now refused in Cael's own mind but not yet answered to Coss;
+  - "whoever gets sent for things that have stopped being files";
+  - Coss's section head;
+  - the *Noted* query;
+  - Hesk's "being seen" letter in the bag;
+  - Dessa's "next time I'll watch your mark";
+  - the decide-on-the-mark technique (works once);
+  - the P column;
+  - the bread woman's name.
+- Carried:
+  - legal review;
+  - the polite "circuit kid" man;
+  - the carriers' clerk;
+  - Yeni's favour;
+  - Feryn's open account;
+  - Corvane's "come back";
+  - the guild matter "on the book";
+  - two doors (watching or contact).
+- Closed:
+  - the senior evaluation;
+  - the Pressure letter to Hesk;
+  - Dessa's talk owing;
+  - the old man's standing invitation for yard time (taken up);
+  - Halden's "next book";
+  - Sella's name;
+  - the decision to stay.
+
+## New canon minted (flag for approval where marked)
+
+1. **Part Six of the district Handbook** ("The Senior Evaluation. Reserved to Assessors."), bound into the district edition and uncut until Cael. *Flag.* It has five sections:
+   - s.1, definitions: *primary classification* includes the Supplementary Register; the *temporary non-standard category* is for "a practitioner without primary classification";
+   - s.2, grounds;
+   - s.3, conduct;
+   - s.4, the temporary category, with attendance at a regional assessment facility within twenty-eight days;
+   - s.5, referral of the question to legal review.
+2. **Ilsev**: about forty, dark hair pulled back, narrow attentive face, grey coat. She keeps her own thumbed Part Six. Eleven practitioners have gone under s.4 in fifteen years. She calls him "Field Agent Coss". *Flag the detail.*
+3. **The flag as Ilsev tells it**: it appeared on the regional docket at the hour standard procedure opened and was absent the day before. It is not in any assessors' register. It is reported with "I draw no conclusion from it". *Flag (Book 6 plant; no source, no system theorised).*
+4. **Coss's section head** (unnamed): "a view… Several people hold it." **The *Noted* query.** Coss's old brown Sunday coat, three days owed, the pin in his pocket. *Flag.*
+5. **Coss's line**: "They'll send whoever gets sent for things that have stopped being files… I've only seen the paper afterward." *Flag (a stake; implies nothing about who).*
+6. **Dessa's false tell** (her old late foot rebuilt on a clock), her reading of Cael's nod, and her palm on the dirt at her mark. *Flag (Dessa recurs).*
+7. **Deciding on the mark**: Cael's one-time answer to his own tell. "That's a thing you can do once."
+8. **The old yard-owner's lessons**: a coin on the post for yard time, Saturdays. "Push me"; one finger; getting up in pieces; "Spend nothing you don't have to"; "about thirty years". No Path and no history. *Flag.*
+9. **Sella**: the boots woman's name (the canon name supplied by the brief). Her bets against Cael "so that somebody in this house is happy"; boots "in case".
+10. **Torvin**: rent held "whatever they pay you over there"; "I was out by a winter".
+11. **The bread woman** gives her name once, lost under banging barrels; she stays unnamed. **The fruit woman's** apricots and line. **A carter** buying string ("Unclassified"). **A Tide girl from Fenrow** on the Sunday card (unnamed).
+12. **Lira's tin** holds "enough for a cart. Fenrow, or further". Nothing about her life before the academy.
+13. **Pressure as Cael does it**: gathered over a full breath; the trunk visibly still and heavy (his own shadow); a small forward lean of air (water flattened, twigs leaning, a bucket moved a finger); both arms leaden for most of an hour. *Flag for Book 2 consistency (felt and roughly logged, not itemized).*
+14. **Lira's post columns**: **W** (stroke, ring, cost word) and **P**.
+15. **Hesk's timepiece**: a merchant's carriage clock with blue flowers on its face, passed through three households in eleven years, called unlucky by a card woman, with one loose spring in the going train. Mended with the left hand because of the unmentioned palm scar. *Flag the detail.*
+16. **Coss fixed the desk shim** (from ch 33). Ilsev's desk does not rock.
+
+### Movement 8 — CLOSED (2026-10-02, after repair r1 and recheck line fixes)
+- Ch48–53, ~32,440 words. Mean 13.04, ≥40w 4.3%, 926 w/scene; overlap 0 (3 protected); skeleton probe 0% (close 5%); gates 0.
+- Recheck fixes: ch53 roof — Cael now reaches the door / small place / closed file / who they'd send before Lira stops him ("I've got the shape of it. The words can wait."); ch52 the thread woman re-introduced ("A woman in the lane…").
+- The summons reads "on the Thursday of this week" (day 141). The "drawer" chain is deliberate: Coss's closure offer → Cael's "I'm only easier to put in a drawer" → Hesk's "can't be put in a drawer".
