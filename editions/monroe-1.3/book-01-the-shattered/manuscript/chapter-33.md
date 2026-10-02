@@ -130,7 +130,7 @@ She sat with the tea in her hand and looked at him. He thought that she was look
 
 "Thank you."
 
-"Don't thank me," said Vell. "I've not done anything but listen." She looked down at the ledger, and he understood he had been dismissed, and went. At the gate he looked back. She had not picked up her pen. She was sitting quite still at her table in the last of the light, with her hand flat on the cover of the closed book, looking at the circle.
+"I've not done anything but listen," said Vell. She looked down at the ledger, and he understood he had been dismissed, and went. At the gate he looked back. She had not picked up her pen. She was sitting quite still at her table in the last of the light, with her hand flat on the cover of the closed book, looking at the circle.
 
 ---
 

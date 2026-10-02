@@ -248,7 +248,7 @@ Hesk had it open on the bench under the lamp with the back off, and the works ly
 
 He found it in a quarter of an hour. It was a single spring in the going train, the smallest one, seated a hair loose in its post, so that when the clock was jolted, or the room went cold, or nothing at all happened that anybody would ever notice, it slipped a tooth and the whole town stopped. It had been loose for eleven years. Three households and a card woman had told one another stories about it, and not one of them had ever taken the back off.
 
-He sat looking at it. Then he reached behind him without looking for the drawer marked *Springs, fine*, and found the size he wanted by feel, the way he found everything in that drawer. He did it with the left hand, because the right still had the long pink line across the palm where a coil from the next drawer down had gone into it in the winter. He had never mentioned the hand in a letter. He did not think he would.
+He sat looking at it. Then he reached behind him without looking for the drawer marked *Springs, fine*, and found the size he wanted by feel, the way he found everything in that drawer. He did it with the left hand, because the right still had the long pink line across the palm where a coil from the next drawer down had gone into it in the autumn. He had never mentioned the hand in a letter. He did not think he would.
 
 When the new spring was seated, he set the clock going, and listened to it.
 

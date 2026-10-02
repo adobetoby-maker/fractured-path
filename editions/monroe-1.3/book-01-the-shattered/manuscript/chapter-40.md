@@ -402,7 +402,7 @@ He had not known he was going to ask it until it was out. Vell looked up at him,
 
 "Thank you."
 
-"Don't thank me." She went back to the book. "You did the fighting."
+"You did the fighting." She went back to the book.
 
 He went.
 

@@ -86,7 +86,7 @@ She did it at her table in the middle of the empty yard with the frost still whi
 
 She finished a card and gave it to the pie boy, and he ran.
 
-"Monday," said Vell. "Noon. I've set the gate. You'll not pay it." She turned her tea a quarter turn by its handle. "Say the terms back to me."
+"Monday," said Vell. "Noon. I've set the gate. You'll not pay it." She laid the pen across the page. "Say the terms back to me."
 
 He looked at her.
 
@@ -198,7 +198,7 @@ Then he opened it.
 
 *I'm not going to tell you I wasn't frightened. I was. I am. I'm frightened in the way I was frightened on the step about the summons, a week late and all at once, and I've decided that this is simply what it is to have you somewhere else. You told me as it came. I'll tell you the same: I was frightened, and then I was proud of you, and I'm both still, and I expect I'll go on being both.*
 
-*You asked what I think of your not telling me. I think you had reasons, and I think one of them was mine, and I think you've paid me back for the kitchen table on the second morning more handsomely than I deserved. I'm not angry. I've no right to be, and I'm not.*
+*You asked what I think of your not telling me. I think you had reasons, and I think one of them was mine, and I think you've paid me back for the bench on the second day more handsomely than I deserved. I'm not angry. I've no right to be, and I'm not.*
 
 *I don't know what it is either. The archive tells you what became of four people, as far as anybody wrote it down. It doesn't tell you what any of them ever did. Don't go looking in it for an answer it hasn't got.*
 

@@ -168,7 +168,7 @@ He thought about it properly, because she had asked him to.
 
 "Because—" He stopped. He knew the answer. He had known it at the board. But he could not find the shape of it out loud, and he sat there on the step with it half made in his mouth.
 
-"It doesn't change what you are," said Lira. "It changes who'd have to explain themselves if something happened to you."
+"It doesn't change what you are. It changes who'd have to explain themselves if something happened to you," said Lira.
 
 He turned round on the step and looked up at her.
 

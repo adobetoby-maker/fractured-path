@@ -110,7 +110,7 @@ She did not often read back. The book was for other people to read. It was there
 
 She found the first. *Renn (Cu 3, Blade) over unrated debut (14; nothing to register; vouched, L.), fourth exchange, by the flat. Called.* And under it the eight lines she had not needed to write.
 
-Then Brenna, eight days later. Five exchanges. *Gave ground four exchanges on purpose. Found the dip on the step-through in the second; watched it; did not use it until the fifth. Went in on it. Too light to get through before she turned. Called.* And a line about the frustration, because she had watched the boy watch Brenna's temper the way a man watches a kettle, and had seen him learn something from it that most people never learned from either side.
+Then Brenna, a week later. Five exchanges. *Gave ground four exchanges on purpose. Found the dip on the step-through in the second; watched it; did not use it until the fifth. Went in on it. Too light to get through before she turned. Called.* And a line about the frustration, because she had watched the boy watch Brenna's temper the way a man watches a kettle, and had seen him learn something from it that most people never learned from either side.
 
 Then Amrit. Six exchanges. *Read the shimmer from the first. Baited by a held shimmer in the fourth, paid with the right arm. Read the breath in the fifth, two of three. Burned on the third. Conceded at the right breath.* She had written *the right breath* in the book because it was the truth, and had said it to his face because it was rarer to hear than people thought.
 

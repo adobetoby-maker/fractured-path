@@ -150,7 +150,7 @@ He saw the question come into her face, and saw her look at it. He saw her put i
 
 "All right," she said.
 
-It was the voice that meant she was not going to pick the question up. But she had put it down a little further away this time than she usually did, and on the walk to the well she did not say anything at all, and at the well she said *same time Tuesday*, not tomorrow. He walked home to Torvin's with that sitting in his chest like a stone in a boot.
+It was the voice that meant she was not going to pick the question up. But she had put it down a little further away this time than she usually did, and on the walk to the well she did not say anything at all, and at the well she said *same time Tuesday*, not tomorrow. He walked home to Torvin's with that sitting in his chest.
 
 So on Monday he did not go to the grey half. He went up to the middle yard in the dark, before the light, with bread in his pocket, and stood at the gate with his back against the wall where Renn's friends had sat like crows, and waited.
 
@@ -172,7 +172,7 @@ Cael ate his bread standing at the gate. His hands were cold and his feet were c
 
 He tried it that night in Torvin's courtyard, after the lamps.
 
-It was the same courtyard where, three months ago, on the twenty-eighth night, he had sat on the cold flags for an hour looking for the Arbiter, and found only the place where a door should have been. The pear tree was bare now. The pump had a skin of ice on its trough that somebody had broken with a stick and that had frozen again round the stick. He sat on the low wall with his coat buttoned to the chin and his hands in his armpits, and when the house had gone quiet behind him, he closed his eyes and went looking.
+It was the same courtyard where, ten weeks ago, on the twenty-eighth night, he had sat on the cold flags for an hour looking for the Arbiter, and found only the place where a door should have been. The pear tree was bare now. The pump had a skin of ice on its trough that somebody had broken with a stick and that had frozen again round the stick. He sat on the low wall with his coat buttoned to the chin and his hands in his armpits, and when the house had gone quiet behind him, he closed his eyes and went looking.
 
 He knew what he was looking for, this time, or he thought he did. He went to the dark place behind his breastbone, the place that was not quite as dark as it had been, and found the Wind there. He did not find a word or a picture, or anything he could have drawn; it was more a sort of leaning in the dark, a readiness, the shape the step had left when it went through him. It was the thing he reached for by the cot every night. He did not reach for it now. He went past it, carefully, as you go past a sleeping dog, and felt about in the dark beyond it for anything that was not Lira's.
 

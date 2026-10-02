@@ -152,7 +152,7 @@ Vell wrote the name on the corner of her blotter and looked at it.
 
 "Thank you."
 
-"Don't thank me yet. Thank me when he's come." She went back to the card, and then, without looking up, in exactly the same voice: "Has the girl been told?"
+"Thank me when he's come." She went back to the card, and then, without looking up, in exactly the same voice: "Has the girl been told?"
 
 It was nearly five o'clock. Lira was across the district at her sparring hour, and had been since two, and he had not seen her since the grey half that morning. In the grey half that morning he had done the box drill and the deflection and forty strokes at the post, and she had chalked a ring in the *W* column and written *less* beside it. And he had not said one word to her about Darrow Innes, or about Feryn on the barge, or about Monday, or about the board.
 

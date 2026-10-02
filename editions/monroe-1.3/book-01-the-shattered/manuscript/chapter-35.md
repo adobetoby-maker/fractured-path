@@ -112,7 +112,7 @@ She turned her head on her arms and looked at him.
 
 "I know." He shut the Log. "Gone."
 
-There was no post here for Lira's chalk. But she looked at him for a long time with her chin on her arms, and the morning brightness came up in her face, there in the middle of a cold afternoon, at a gate full of people who had come to laugh at him.
+There was no post here for Lira's chalk. But she looked at him for a long time with her chin on her arms, and her face came alight, there in the middle of a cold afternoon, at a gate full of people who had come to laugh at him.
 
 ---
 

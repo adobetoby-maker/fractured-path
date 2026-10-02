@@ -132,7 +132,7 @@ He wrote that he had a bout with Dessa on Sunday week, and that she had asked fo
 
 Then he stopped, with the pen over the page.
 
-There was a question he had been carrying since the roof. It had been sitting in him, under everything else, like a stone in the heel of a boot. He did not know how to put it, and he had nobody else to put it to who would know more than he did, and he thought that if anybody in the world did, it might be a man who had worked in the Compact's own offices at twenty-two and left them.
+There was a question he had been carrying since the roof. It had been sitting in him, under everything else, and it had not got any smaller. He did not know how to put it, and he had nobody else to put it to who would know more than he did, and he thought that if anybody in the world did, it might be a man who had worked in the Compact's own offices at twenty-two and left them.
 
 He wrote it as plainly as he could.
 

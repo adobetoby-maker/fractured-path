@@ -58,7 +58,7 @@ He made himself read it to the end.
 
 He lay with the letter on the blanket in front of his face.
 
-He tried to see it, Hesk sitting on the step of the workshop on Fen Street, in the street, where people could see him, with a letter in his hands and his big square face doing something Cael had never once seen it do, and he could not. He had seen Hesk prepared, and still, and careful, and sometimes angry, and once, at a kitchen table on the second morning after Kindling, ashamed, but he had never seen him afraid. It had happened anyway, a week ago, on a step, where nobody but strangers could see.
+He tried to see it, Hesk sitting on the step of the workshop on Fen Street, in the street, where people could see him, with a letter in his hands and his big square face doing something Cael had never once seen it do, and he could not. He had seen Hesk prepared, and still, and careful, and sometimes angry, and once, across the workshop bench on the second day after Kindling, ashamed, but he had never seen him afraid. It had happened anyway, a week ago, on a step, where nobody but strangers could see.
 
 And Hesk had written it down and sent it, because they had said they would tell each other as it came.
 

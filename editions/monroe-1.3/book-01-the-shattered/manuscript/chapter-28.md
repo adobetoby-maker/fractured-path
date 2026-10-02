@@ -212,7 +212,7 @@ He did not ask direct questions, which only made people careful. He walked, and 
 
 He learned, too, that the carriers' clerk at the bottom of the fish steps would tell anybody anything. Coss asked him only which bag went west and when. The clerk told him, and then told him without being asked that the boy at Torvin's wrote west every week, regular as a clock, to Fen Street, and that he could tell him the day.
 
-Coss found that he did not want to know the day. He did not like knowing that anybody who asked would be told it, either, and he walked away from the hut with that sitting in him like a stone in a boot.
+Coss found that he did not want to know the day. He did not like knowing that anybody who asked would be told it, either, and he walked away from the hut with that sitting in him, undigested.
 
 In the afternoon, at a fish stall, two women were packing up. One said to the other, "Are you going to the circuit Sunday?" and the other said she might, if her sister would mind the stall, and they went on to talk about the sister.
 

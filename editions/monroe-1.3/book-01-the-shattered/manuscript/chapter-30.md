@@ -112,7 +112,7 @@ They had come to the bottom of the lane, where it opened out toward the four lan
 
 "I heard."
 
-"I told her somebody who watches feet. I didn't tell her who." She looked at him sideways, and the morning brightness was in her face, in the evening, which he had never seen before. "She'll work it out. She's not stupid. She's just angry, mostly." She put the hand back in her pocket. In the pocket something clinked, small and heavy. "Vell paid. It's a good purse on a Sunday when Brenna's friends come. It's a week of door."
+"I told her somebody who watches feet. I didn't tell her who." She looked at him sideways, and her face was lit as it was lit at the post before anybody else was awake, and he had never once seen it so in the evening. "She'll work it out. She's not stupid. She's just angry, mostly." She put the hand back in her pocket. In the pocket something clinked, small and heavy. "Vell paid. It's a good purse on a Sunday when Brenna's friends come. It's a week of door."
 
 "A week of door."
 
@@ -160,7 +160,7 @@ He read the last clause a third time, slowly, one word at a time, the way he rea
 
 It was the same voice as the notice in the back of the old notebook. *This notice does not constitute a criminal or civil finding against the bearer.* It was the voice that held its meaning at arm's length, in long careful words, so that everything in it was true and nothing in it could be felt. He made himself feel it anyway. It meant that if he did not walk up the fish steps to the post, men would come, and take him there, whether he walked or not.
 
-He thought about Hesk in the side room at Weaver's Row with the crooked tree in the window, saying *there are provisions*. He thought about the green book in the archive in Denvash and its three entries, dead within weeks, and the fourth, unknown, and the phrase *practice-related incident*, and somebody, a long time ago, choosing which kind of true to write down. He thought about a grey coat walking the market slowly from one end to the other, and a dark coat on a doorstep asking for his whole name.
+He thought about Hesk on the roof at Fen Street, with the grey dog crossing below and the tea going cold, saying *there are provisions*. He thought about the green book in the archive in Denvash and its three entries, dead within weeks, and the fourth, unknown, and the phrase *practice-related incident*, and somebody, a long time ago, choosing which kind of true to write down. He thought about a grey coat walking the market slowly from one end to the other, and a dark coat on a doorstep asking for his whole name.
 
 He waited for the fear, the formless one, the one that had sat on his chest in the dark at Fen Street and on the rise above this city and on a great many nights since. It did not come. Something else came instead, and he looked at it with some surprise, because it was nearly calm.
 

@@ -180,7 +180,7 @@ Then it came out of her, aimed at the dark in front of them rather than at him.
 
 For three steps she said nothing. He could feel her changing her mind beside him, a shift in the air, the way the side of a stove feels when somebody has just shut the damper.
 
-"Oh." Her voice had altered entirely. "That's actually smarter."
+"Oh. That's actually smarter." Her voice had altered entirely.
 
 "Two probes," Cael said. "Always the same two, every time he starts." He had the whole bout stacked in him, page on page, and every line he gave her he was also checking for himself. "High first, then across. Front foot. Nothing behind them; they're for looking with. When he means it, the weight goes back onto the heel before anything else. He sits in it. A quarter of a second, less by the end. He rolls his shoulders when he changes his plan: once after the sweep, once before the last one. And the sweep is for somebody who's just found the heel and is pleased with himself. He was waiting for me to get clever."
 

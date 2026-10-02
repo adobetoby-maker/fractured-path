@@ -82,7 +82,7 @@ It helped. It did not help all the way. True things had always held more weight 
 
 ---
 
-The road dropped after midday into a long shallow valley with a stream at the bottom, and here the walls gave way to hedges, high and thick, so that the road ran between them like a corridor. It narrowed and bent, and you could not see more than fifty paces either way, and the air was still and close and smelled of hawthorn and warm earth.
+The road dropped after midday into a long shallow valley with a stream at the bottom, and here the walls gave way to hedges, high and thick, so that the road ran between them like a corridor. It narrowed and bent, and you could not see more than fifty paces either way, and the air was still and close and smelled of wet leaves and turned earth.
 
 Cael walked with his head down, counting milestones. He had passed nine since Denvash, and he was trying to work out his pace from them and from the sun, and getting different answers, and enjoying the problem the way he had enjoyed the bracket.
 

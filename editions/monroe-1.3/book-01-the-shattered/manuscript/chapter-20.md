@@ -158,7 +158,7 @@ Lira looked up from the paper.
 
 "He's right." She folded it again along its soft creases and held it out. For a moment she looked older than fifteen; not tired, but as if she were carrying a thing of the same shape as his, and had been for a while, and had just recognized it.
 
-"The circuit doesn't care what the registry says," Lira said.
+"The circuit doesn't care what the registry says." Lira said it once, and let it stand.
 
 He took the notice from her hand.
 

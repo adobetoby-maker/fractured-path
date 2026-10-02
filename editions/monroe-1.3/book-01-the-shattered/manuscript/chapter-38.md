@@ -32,9 +32,9 @@ Both of those were him; that was the trouble. You could not have the first one w
 
 She thought, then, because she was honest with herself when nobody was looking, about a row of three things she kept in her own head.
 
-The first was a hand at the board on the first day that had moved before it should have. The second was the third exchange against Renn on the first night. The third was a boy dropping under her backhand in the grey half, lower than she had ever asked him to go, and coming up standing in a way that was not his. She had never told him about the row, or that she had gone into the yard alone, three mornings running, before he came, and tried the drop eleven times, and learned that it was easy to do and impossible to do in time.
+The first was a hand at the board on the first day that had moved before it should have. The second was the third exchange against Renn on the first night. The third was a boy dropping under her backhand in the grey half, lower than she had ever asked him to go, and coming up standing in a way that was not his. She had never told him about the row, or that she had gone back into the yard alone that same afternoon, with nobody there but the crows and the sleeping pie boy, and tried the drop eleven times, and learned that it was easy to do and impossible to do in time.
 
-She had kept that for a month, and told herself she was waiting until he had something he wanted to tell her.
+She had kept that for seven weeks, and told herself she was waiting until he had something he wanted to tell her.
 
 It did not make what he had done all right. It took some of the heat out, that was all, the way a bucket of water takes some of the heat out of a forge without putting it out.
 

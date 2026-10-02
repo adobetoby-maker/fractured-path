@@ -184,7 +184,7 @@ Cael did not say anything for a while. He looked at the floor between his boots,
 
 "Thank you," he said at last.
 
-"Don't thank me. I haven't done anything but not be stupid about it, which is a very low wall to climb, and I'm a bit insulted you thought I'd struggle with it." But she was nearly smiling, and she let him see it, because he needed to see something.
+"I haven't done anything but not be stupid about it, which is a very low wall to climb, and I'm a bit insulted you thought I'd struggle with it." But she was nearly smiling, and she let him see it, because he needed to see something.
 
 Then she asked him the question that had come into her head while she was finding the edges of the other thing, and she asked it carefully, because it was not a question she knew how to ask.
 
@@ -206,7 +206,7 @@ Lira looked at him.
 
 "Now I'll tell you something," she said. "Because you've told me yours, and it would be a poor kind of rule if it only went one way."
 
-She told him about the row of three: the hand at the board on the first day, going to a strap that was not there; the third exchange against Renn; the drop under her backhand, lower than she had ever asked. She told him that she had kept the three in a row in her head with nothing written over them, and had never said so. Then she told him the worst of it, which was the eleven mornings. She had gone into the empty yard three mornings running before he came and tried his drop, her own backhand turned into his drop, eleven times, and had found that it was easy to do and impossible to do in time.
+She told him about the row of three: the hand at the board on the first day, going to a strap that was not there; the third exchange against Renn; the drop under her backhand, lower than she had ever asked. She told him that she had kept the three in a row in her head with nothing written over them, and had never said so. Then she told him the worst of it, which was the eleven tries. She had gone back into the empty yard that same afternoon and tried his drop, her own backhand turned into his drop, eleven times, and had found that it was easy to do and impossible to do in time.
 
 "You can only already be going," she said. "That's what I found out. You can't decide to do it. If you decide, you're late." She turned the tin over. "I kept that for two months. I told myself I was waiting till you had something to tell me."
 

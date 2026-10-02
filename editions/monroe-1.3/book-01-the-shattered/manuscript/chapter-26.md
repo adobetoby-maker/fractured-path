@@ -256,7 +256,7 @@ Then she smiled, the real smile, not the one she spent on strangers or on Marrow
 
 "Thank you."
 
-"Don't thank me. It wasn't me in there with Dessa. I was at the rope biting my knuckle." She stood and put down a hand to pull him off the step, and when he took it she pulled him up carefully, on his good side, out of habit, though he had no bad side tonight. "Come on. Torvin's wife cooks the stew with real vegetables in it on a fighting night, and the brothers eat like wolves, so we'd better be in first."
+"It wasn't me in there with Dessa. I was at the rope biting my knuckle." She stood and put down a hand to pull him off the step, and when he took it she pulled him up carefully, on his good side, out of habit, though he had no bad side tonight. "Come on. Torvin's wife cooks the stew with real vegetables in it on a fighting night, and the brothers eat like wolves, so we'd better be in first."
 
 "I've had a pie."
 

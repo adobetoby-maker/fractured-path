@@ -10,7 +10,7 @@ He sat with the pen over the paper while the range ticked as it cooled. Then he 
 
 *Hesk,*
 
-*There are five things I haven't told you. I've counted them every time I sealed a letter since the end of the second month, so I know the number exactly. I'm going to tell you all five now, in order, as plainly as I can, and then I'm going to tell you why I didn't before, and you can decide what you think of that.*
+*There are five things I haven't told you. I've counted them every time I sealed a letter since the end of the first month, so I know the number exactly. I'm going to tell you all five now, in order, as plainly as I can, and then I'm going to tell you why I didn't before, and you can decide what you think of that.*
 
 *The first was on the road, on the third day, before I ever got here. A cart came round a bend behind me and I stepped out of its way before I heard it. I told the carter I'd heard it. I don't think I did.*
 
@@ -28,7 +28,7 @@ He copied the three lines from the back of the Log, letter by letter, and checke
 
 *I told Lira today. I'd promised her she'd be the first, before you, before anybody, and she was. She didn't flinch. She said it wasn't theft, and that she'd checked, and she hadn't got less.*
 
-*Why I didn't tell you. At first it was because I didn't know what it was, and I didn't want to send you something that would frighten you a week late, with nothing I could do about it from here. You know what's in the archive better than I do. Then it was because I'd promised Lira first. Those are both true. But the first one is the same reason you gave me at the kitchen table on the second morning, and I was angry with you for it then, and I think I was right to be. So that reason's finished, for me.*
+*Why I didn't tell you. At first it was because I didn't know what it was, and I didn't want to send you something that would frighten you a week late, with nothing I could do about it from here. You know what's in the archive better than I do. Then it was because I'd promised Lira first. Those are both true. But the first one is the same reason you gave me across the bench on the second day, and I was angry with you for it then, and I think I was right to be. So that reason's finished, for me.*
 
 *You told me once to tell you as it comes. This is how it came. I'm sorry it came all at once.*
 
@@ -110,7 +110,7 @@ The ledger was shut, and he had never once seen it shut. On card days and empty 
 
 The pie boy had found them in the grey half, before Cael could get down to the carriers' hut with his letter. Vell wanted the pair of them at her table before the yard opened, he had said, and she had said to say *not after the bread*.
 
-She did not look up as they crossed the frozen dirt. She turned her cup a quarter turn by the handle and waited until they were standing in front of her.
+She did not look up as they crossed the frozen dirt. She waited until they were standing in front of her.
 
 "There's a man coming through in three weeks," she said. "Feryn. Bronze Rank 2, Pressure Path. I've put my name to one fighter for him." She nodded toward Cael without looking at him. "You."
 

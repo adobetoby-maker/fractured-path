@@ -50,7 +50,7 @@ Cael waited.
 
 "He's right."
 
-"He's usually right. It's the most tiresome thing about him." Feryn looked at the straw post, and the hollow in it, and back. "And I'm off myself, on the noon barge. There's a yard on the salt flats that's been asking for me since the winter, and I've been here a fortnight, coughing on people." He hitched the bag again. "The coat's not done. The tailor says Thursday. Grey, with a collar. I'll not see it till the autumn." He looked down at his frayed cuffs, and at Cael. "You'll have to send it after me."
+"He's usually right. It's the most tiresome thing about him." Feryn looked at the straw post, and the hollow in it, and back. "And I'm off myself, on the noon barge. There's a yard on the salt flats that's been asking for me since the winter, and I've been up and down this river three weeks, coughing on people." He hitched the bag again. "The coat's not done. The tailor says Thursday. Grey, with a collar. I'll not see it till the autumn." He looked down at his frayed cuffs, and at Cael. "You'll have to send it after me."
 
 "Where?"
 

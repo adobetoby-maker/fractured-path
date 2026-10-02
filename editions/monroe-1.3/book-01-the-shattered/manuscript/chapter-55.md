@@ -42,7 +42,7 @@ That left the other thing, the one the stairs had been for.
 
 She took the tin out of her pocket.
 
-It was a flat tin that had once had throat sweets in it, with a picture of a lady in a hat on the lid, worn nearly off. She had carried it since the autumn and counted it on this bed perhaps a hundred times, and a fortnight ago she had counted it and found that there was enough in it for a cart. Fenrow, or further. She had sat on the low wall at the Cinder House and told him so, and then told him she had put it back in her pocket, and she had meant that too.
+It was a flat tin that had once had throat sweets in it, with a picture of a lady in a hat on the lid, worn nearly off. She had carried it since the autumn and counted it on this bed perhaps a hundred times, and three weeks ago she had counted it and found that there was enough in it for a cart. Fenrow, or further. She had sat on the low wall at the Cinder House and told him so, and then told him she had put it back in her pocket, and she had meant that too.
 
 She opened it and counted it again now, by the candle, out of habit, and it was the same as it had been; it did not know anything had happened.
 
