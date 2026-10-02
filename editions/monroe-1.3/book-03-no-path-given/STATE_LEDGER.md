@@ -1051,3 +1051,131 @@ Movement 5 CLOSED 2026-10-02 after repair r1 and three recheck line fixes (ch32 
 - Ch47–53, ~36,290 words. Mean 13.07, ≥40w 3.6%, 862 w/scene; overlap 0 (12 protected); skeleton 2% (close 12%); gates 0.
 - Recheck fixes: ch47 Coss turns "to Havel" (POV); ch51 duplicated tell; ch50 a join recomposed off the source (0.68); ch52 the unsupported Oona-promise callback replaced; ch53 the return scene names the digest volumes (the fourteen are hearings), the concordance card goes back inside the index's cover, "the two armfuls"; ch48 "why she had let the tea go cold".
 - The custom objection's answer is "It amends." / the forty-one amendments / "Custom is not code"; Brom's hole-in-the-world question is answered "Somebody writes the law. Nobody ever mended a hole by pretending to stand on it."
+
+
+## After Movement 8 — BOOK 3 ENDING (chapters 54–61; repair r1 + recheck fixes; CLOSED 2026-10-02)
+
+**Coordinator rulings (override the author's end-state below):**
+- Karis asks to read the Power Log (ch60) — KEPT (Book 4 ch1 needs it; P5 "three people who know all of it").
+- Hearing procedure canon: Edran and Hobb are the respondent's witnesses in the second hour; Quenna and Naveth answer as the officers who made the academy's documents the panel calls; Coss then questions.
+- Yorlan's opening formula verbatim (twice); "the panel notes it", never "I". The deposition read from ch49 exactly. Wray's D1 line is in the record (Coss reads it).
+- The custom objection is answered "It amends." / "Custom is not code"; Brom's hole question "Somebody writes the law. Nobody ever mended a hole by pretending to stand on it."
+- Box seven = the fourth box Prynn opens that afternoon; slip nine, return nine "for the duration, under the same seal, to the same keeper"; eight shelved — ONE-VOLUME GAP (the plant). Prynn's gap on the shelf.
+- [SHATTERED] bracketed only in documents read verbatim (the ruling); spoken "shattered" unbracketed.
+- The Ember "letting-go" is the second rewording; "decision point" stays reserved for Book 4 ch21.
+- "Narrow and jurisdictional" is Karis's (ch60). The day-two gavel is struck once after the ruling.
+- New canon minted in r1: Cael promises to write to Vell; Vell will teach him to read a ledger; Havel's recorder training sits beside M7's "new grade" (book pass to reconcile). Lira's P8 flag and Brom's P9 wall now rest on this ledger alone (their M8 restatements were cut).
+- Cutaways (accepted, not padded): Lira ~3,570, Havel ~2,380, Coss ~1,840 — report at book level.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## 2. State at movement end (for the ledger)
+
+**Calendar.**
+- Mon wk22: first sitting.
+- Tue wk22: second sitting and ruling; Coss's five minutes; the page returned; Coss's report written that night.
+- Wed wk22 dawn: Coss leaves. The same morning Cael writes to Hesk (the letter goes by the delegation's courier).
+- Wk22–23: the watchers counted (Brom's nod Wednesday; town walk Saturday); the provost's notice Wednesday; letters through the week; Karis's reading Saturday.
+- Mon wk23: Karis asks.
+- Thu wk23: the Ember session.
+- Wk24:
+  - Tue: D7 and the inventory.
+  - Wed: Hesk's reply comes up; the Vell letter is written that night and posted Thursday; the boxes begin coming up by cart.
+  - Thu: box seven returns.
+  - Last free afternoon: Hobb, Edran, Quenna, the wall.
+- Season: midwinter. Cael is fifteen.
+
+**Cael's body.**
+- Left forearm burn: closed, a long pink scar that pulls when he makes a fist.
+- Right shoulder: unchanged.
+- Pivot a tenth late on the second figure (Wray, D7).
+
+**Abilities.**
+- **Ember-adjacent.** Contact, single channel, one point. The cost is identical at any chosen size: seed, thumbnail or coin. Count back at 93, 95, 94. A seed-sized mark makes smoke and no flame. Karis's second word is "a letting-go". The log's boxed note ("the letting-go is the part that's mine") is *not yet*. Lira's limit of three still holds.
+- **The other four.** Unused in M8 except the framework and read at D7.
+- **Tide anomaly.** Unchanged; reviewed at the inventory with "Still open. Still real. Patience."
+
+**Record exposure.**
+- **The hearing record (public):**
+  - Coss's case: the provision, the drafting records including the struck "irregular cases" draft, the form's gloss against the Denvash entry, the deposition read aloud (with "a silence of nine counts"), Sarnholt, Wexley and a third withdrawn district;
+  - the sittings' records: Wray's lines, P2, and P17 entered as capability;
+  - witnesses: Quenna ("Nothing in those records is false"), Naveth (three sentences), Edran ("Iron-tier, at minimum… I don't know what it was"), Hobb;
+  - the respondent's argument, entire;
+  - the stipulation declined;
+  - Ilsev's "Cite the schedule entry" and Coss's answer;
+  - the ruling, P14.
+- **No mechanism, acquisition or origin** entered anywhere. Nobody asked.
+- **Enrollment** re-papered by the provost before lamplight on the ruling day, on the academy's own authority under the remand. A one-line notice is posted.
+- **D7:** "As previously recorded. No safety concerns." / "Assessment satisfied." Nothing new elected.
+
+**Knowledge.**
+- **Cael:** knows nothing of Ilsev's query or of the faceless office. He saw the gap on the shelf; Prynn said nothing, and he said nothing.
+- **Karis:** has now read the Power Log (from wk23), by asking, with Lira's release. She has seen the back pocket, including her own conclusion sheet. The "three people who know all of it" is now true. She keeps a watcher log.
+- **Coss:** knows the ruling; filed the final report; never asked where the ignition came from.
+- **Prynn:** knows a volume did not come back from box seven. It is unentered.
+- **Quenna:** asked nothing.
+- **The faceless office:** has requested the transcript (eleven days by common courier) and cut a clean cover whose spine names "an article of a charter, and a schedule, as amended".
+
+**Relationships and decisions.**
+- **Quenna:** witnesses Coss; withdraws her chair a row back at Cael's request; "It'll be soon".
+- **Lira:** confiscates the card; the gallery and the recess; vaults the rope first; releases Karis's promise; refuses the slip back.
+- **Brom:** the corner; "He fights like you."; nods to a watcher on purpose; gets his page back.
+- **Karis:** the whole-case reading; tears while writing; the jurisdictional reading; asks; the second word.
+- **Naveth:** composure broken and then "I'd sign it again"; re-papers; enjoys the correspondence.
+- **Edran:** testifies to fact and to not knowing; asks for the rematch on P10's terms.
+- **Hobb:** "Said what I saw"; thanked; "Next term. Same as last time."
+- **Prynn:** her own copy of the code; holds the front bench; the empty place with a slip; counts the boxes back; leaves the gap.
+- **Wray:** stands by her lines; the pivot note.
+- **Oona:** says the names with him; *THEY READ THE WHOLE LIST. IT ISN'T ON IT. I SAID THE NAMES WITH HIM.*
+- **Gerda:** "Status undefined. Standing remanded to the academy." Correct form.
+- **Havel:** records the schedule; cannot mark an absence; knows the referral went down Monday. No fourth entry is written in M8.
+- **Ilsev:** shuts her book; the question; the one line.
+- **Yorlan:** the formula twice, identical; the refusal.
+
+**Objects.**
+- Brom's page is back with Brom.
+- Lira's slip is in the binder's back pocket, behind Karis's consent.
+- Hesk's reply is in Cael's coat.
+- The Vell letter is sent.
+- The term's inventory is in the binder.
+- Karis has a narrow brown watcher log.
+- The first terms sheet carries clause one, amended: *Asked, week twenty-three, with L.'s release. Answered, yes. C.*
+
+**Compact posture.** Five open watchers (bench, street, well-coordinator, gate or rotation, "the early one" on mornings). Coss is gone. A grey coat waits at the stage-house.
+
+## 3. New canon minted in prose (flag for ledger and owner)
+
+- **Hearing procedure.**
+  - The challenge "rests on documents", so Quenna and Naveth are heard "as the officers of the respondent institution who made them, as to the documents and no further". This is not as the challenge's witnesses.
+  - Respondent's witnesses are called by the academy's counsel; the officer of record may then put questions.
+  - The panel enters "the record marks a silence of N counts" when the recorder's dashes are read aloud.
+  - Yorlan's admission wording, and his "show the panel its ground at the second sitting, or the panel will not hear it".
+- **The academy's counsel:** "a narrow grey man with a satchel, engaged from the regional town in the autumn". Unnamed.
+- **The third assessor** came up at dawn "by rota from the next district". Unnamed.
+- **Precedents:**
+  - **Sarnholt**: a youth past the age of Kindling who refused testing; voided inside one sitting.
+  - **Wexley**: a registry clerk's three-year error; voided; the academy put under two years' review of its charter.
+  - A third, unnamed by district and year only, was withdrawn before hearing.
+- **The struck draft.** It proposed covering "candidates whose capabilities present irregularly and cannot be assessed under the standard schedule". The written reason: a kindness to children awaiting assessment, "not to be made a door for anybody the schedule could not hold", and such persons to be provided for "by the schedule and not by this".
+- **Greyvane council minute (autumn):** *The provost advises that the enrollment is defensible on the face of the form, and expects it to be tested.*
+- **Coss's recommendation, full text (ch59).** "The subject is a boy. He is fifteen. He has answered every question… including at deposition the one question whose truthful answer was against his own interest. The anomaly is the schedule… The officer recommends registry review, not escalation…"
+- **Coss:** the struck line to his daughter, *I lost an argument this week, and it was fairly won.* The sampler of crooked birds in the mothers' room.
+- **Observers:**
+  - day one, seven: two grey registry coats; a woman in dark blue with an academy badge, seated with a line to the recording desk; a guild legal officer; an old woman in black with a cushion; two unplaced;
+  - day two: more grey coats, a man with the look of a provost, townsfolk (the draper, the station clerk).
+- **Prynn's front bench:** five places held; Brom, Karis and Lira seated; the empty place bears her shelf slip. It is unexplained.
+- **Ilsev's own strapped copy** of the code; Prynn's copy read from at the respondent's table.
+- **Watchers:** the bench man by the training hall door; the street walker in brown between the draper's and the bakehouse; the coordinator at the well with an empty basket; "the early one" (mornings, rotating posts). Karis's narrow brown log, started on the Wednesday.
+- **The provost's notice:** the enrollment stands on the academy's authority over its rolls, under the remand.
+- **The Ember finding:** the cost does not scale with chosen size. A seed-sized mark makes no flame. Karis's second word is "a letting-go". The burn is now a scar. Wray: "a scar is a lesson you don't have to take twice".
+- **D7:** the rotating seat is the white-haired spare man.
+- **Letters:**
+  - Hesk's reply carries no initial.
+  - Vell letter signature: *Cael. Iron-equivalent, by your ledger.*
+  - The records line to Vell: *The records know what happened here. You gave me that. I found out this winter it holds for their records as well as yours.*
+- **The return:**
+  - The boxes came up by cart Wednesday–Friday of week 24.
+  - Box seven is the fourth box of Thursday afternoon. Slip: *Founding stock, case eight, shelf three. Traveller registers, nine volumes.* The officer's return says *nine*. Eight were inside.
+  - The marbled ledger line gives only the box number, case and date.
+- **The faceless cover's spine:** "an article of a charter, and a schedule, as amended".
+
+### BOOK 3 DRAFT COMPLETE — ch1–61 closed movement by movement; book-completion pass under way (state/completion/COMPLETION-PLAN.md).

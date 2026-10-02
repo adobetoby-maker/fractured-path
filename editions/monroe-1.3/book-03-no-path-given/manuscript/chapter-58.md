@@ -46,7 +46,7 @@ He reached across the table to where a copy of the challenge lay, the three page
 
 He sat down.
 
-The hall did not make a sound for the space of three breaths. Behind him and a little to the right, on the front bench, he heard a pen stop on paper, and then not start again; from Karis, he knew, that was as loud as anything gets.
+The hall did not make a sound for the space of three breaths. Behind him and a little to the right, on the front bench, a pen stopped on paper and did not start again. He did not need to turn round to know whose.
 
 "The officer of record may answer," said Yorlan.
 
@@ -142,7 +142,7 @@ Cael stayed at the respondent's table, with his palms on the wood. He did not wa
 
 He could feel Quenna a row behind him, exactly where she had said he would. Once, a long way into the waiting, he heard her chair creak as she leaned forward, and he thought she was going to speak, and she did not. She only leaned forward and stayed there a moment, near enough that he could hear her breathe. Then the chair creaked again as she sat back.
 
-He went over it once. He did not go over it to mend anything; he went over it to be sure. He found that he had said every sentence of it the way it deserved, in the order he had meant to, and that he had not once reached for anything he did not have. What the bench made of it was the bench's now. Somewhere in him there was still a boy of fourteen on a bench in Denvash with his feet on their edges, who could not have borne this, the not knowing with nothing left to do about it. Cael looked for that boy and found him, still there, still with his feet on their edges. But the boy was not the one at the table. Looking at himself with some care, Cael found that he could bear it.
+He went over it once. He did not go over it to mend anything; he went over it to be sure. He went back over it once, from the first word, and could not find a sentence he would have put differently, or a place where he had reached for anything he did not have. What the bench made of it was the bench's now. Somewhere in him there was still a boy of fourteen on a bench in Denvash with his feet on their edges, who could not have borne this, the not knowing with nothing left to do about it. Cael looked for that boy and found him, still there, still with his feet on their edges. But the boy was not the one at the table. Looking at himself with some care, Cael found that he could bear it.
 
 Inside his coat, against his chest, the two folded papers lay flat on each other, and he felt both their edges when he breathed. He did not take them out.
 

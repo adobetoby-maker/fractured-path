@@ -196,7 +196,7 @@ He asked her the thing he had been carrying since the ruling, straight out, beca
 
 Quenna did not answer at once.
 
-"When you were reading the schedule," she said, "somewhere past the first hour, I watched the recorder. He stopped between two entries and took his inkwell off the desk and held it against his chest in his fist, to warm it. Recorders do that in winter. I've sat at hearings for twenty years, and I've never once seen a recorder fail to notice he was cold until the ink told him." She turned toward the old building. "Nobody in that room knew how long they'd been sitting there. I've never seen better done on a hearing floor, and I've seen a great deal done on them. So, yes. Worth it." She took one hand out of her pocket and touched his sleeve, briefly, with two fingers. "Go and find the others. Close out your term."
+"When you were reading the schedule," she said, "somewhere near the end of the first hour, I watched the recorder. He stopped between two entries and took his inkwell off the desk and held it against his chest in his fist, to warm it. Recorders do that in winter. I've sat at hearings for twenty years, and I've never once seen a recorder fail to notice he was cold until the ink told him." She turned toward the old building. "Nobody in that room knew how long they'd been sitting there. I've never seen better done on a hearing floor, and I've seen a great deal done on them. So, yes. Worth it." She took one hand out of her pocket and touched his sleeve, briefly, with two fingers. "Go and find the others. Close out your term."
 
 ---
 
