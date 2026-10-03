@@ -192,7 +192,7 @@ Off he went along the rail toward the residence wing, number sheet sticking out 
 
 *You supplied that part yourself.*
 
-He opened the binder on the rail and wrote the sentence down exactly, word for word, because it was true and he had not seen it. That was what the binder was for. It lived in the gap between a thing being true and his noticing.
+He opened the binder on the rail and wrote the sentence down exactly, word for word, because it was true and he had not seen it. Under it, smaller, he wrote the other sentence too, the one that had come to him before Brom arrived, because the binder was the one place he did not let himself off: *Something behind my eyes looks at people like a hand looks at bread.* That was what the binder was for. It lived in the gap between a thing being true and his noticing.
 
 The question was not closed, and he knew it before the ink was dry. Brom had cut it down to its honest size, and its honest size was still large. It was large enough to hold four fragments from four people, and not one of them had been asked: Lira, Feryn, Brom, Reydan. Whatever he had meant, and he had meant nothing at all because he had not known, their four names were still written at the front of the binder beside four sections. Brom was right that intent made all the difference. But intent could only begin now. It could not walk back into a sparring circle in Ardenmere and tell a boy watching a girl turn out of a strike to stop and ask her first.
 

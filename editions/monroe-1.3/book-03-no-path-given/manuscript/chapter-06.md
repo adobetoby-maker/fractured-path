@@ -186,7 +186,7 @@ Brom lowered himself onto the floor opposite, slowly, keeping his right side sti
 
 They worked quietly, the way they had on the road. Brom set his left palm against Cael's braced forearm and hardened it, a little Iron Skin coming up under the skin like frost forming on a window, and leaned. Cael waited until the force was in the bone, and chose the road before it could choose for itself — out, back along the line it came in — and reached.
 
-The first try failed; he had been early, and the fragment simply did not answer, and the push came and went like any push. The second caught, and he sent it back, and a quarter of Brom's weight knocked against Brom's own wrist with that small solid sound, a door shutting in another room. Then the bill arrived, the hot bar laid across his collarbones and the two breaths he could not take, and he sat with his eyes shut and waited them out while Brom waited with him.
+The first try failed; he had been early, and the fragment simply did not answer, and the push came and went like any push. The second caught, and he sent it back, and a quarter of Brom's weight knocked against Brom's own wrist with that small solid sound. Then the bill arrived, the hot bar laid across his collarbones and the two breaths he could not take, and he sat with his eyes shut and waited them out while Brom waited with him.
 
 They did ten. Four caught. None went to a joint, and each one that caught cost exactly the same, down to the breath.
 

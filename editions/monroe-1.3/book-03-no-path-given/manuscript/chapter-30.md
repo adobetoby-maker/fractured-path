@@ -96,7 +96,7 @@ At the end she signed the strip and tore it off and held it out, and did not let
 
 "I've seen it."
 
-"Whatever it is you're doing that isn't my session," said Quenna, "is making you tired." She said it flatly, as if reading a line off a gauge, as Wray read them. "I'm not asking what it is. I said I'd rather not know, and I meant it. I'm telling you what it looks like from the chalk. Come to the fourth sitting rested."
+"Whatever it is you're doing that isn't my session," said Quenna, "is making you tired." She said it flatly. "I'm not asking what it is. I said I'd rather not know, and I meant it. I'm telling you what it looks like from the chalk. Come to the fourth sitting rested."
 
 "I will."
 

@@ -40,7 +40,7 @@ The boy blinked slowly, as if he had been very far away. "Force. My father's For
 
 The boy thought about this as though it were a new question. "I don't know," he said, and went back to looking at nothing.
 
-The twins came out twelve minutes later, each with a certificate, their faces almost identical in their stunned, loosened relief, like people who have been holding something heavy for a long time and have just been allowed to put it down. One of them was crying a little, quietly, not as though anything was wrong. Their mother was waiting by the outer door, and when she saw their faces, something in her own face answered a question Cael had not known he was asking.
+The twins came out twelve minutes later, each with a certificate, their faces almost identical in their stunned, loosened relief, like people who have been holding something heavy for hours and have just been allowed to put it down. One of them was crying a little, quietly, not as though anything was wrong. Their mother was waiting by the outer door, and when she saw their faces, something in her own face answered a question Cael had not known he was asking.
 
 *This is what it looks like,* he thought, *when it goes the way you hoped.*
 
@@ -84,7 +84,7 @@ He stepped into the circle and put his feet where the wood was worn.
 
 Something woke.
 
-It did not come from outside him; that was the first thing, and none of the eleven descriptions on page seven had told him so. He had imagined something arriving, the way light arrives through a window; instead it gathered from inside him, from somewhere behind his breastbone, as though it had always been there and had only now decided to be noticed.
+It did not come from outside him; that was the first thing, and none of the eleven descriptions on page seven had told him so. He had imagined something arriving, as light arrives through a window; instead it gathered from inside him, from somewhere behind his breastbone, as though it had always been there and had only now decided to be noticed.
 
 It was small, a point of light he felt rather than saw, and it climbed through him slowly until it reached the edge of his sight and stayed there, just off to one side. When he turned his eyes toward it, it was still just off to one side, like the place a held breath sits in your chest, which you can feel exactly and never point to.
 
@@ -94,13 +94,13 @@ It made a sound that was less a sound than the memory of one, a single low note 
 
 Then it was quiet.
 
-He counted, though he had not meant to, the way you find yourself counting during a needle at the healer's.
+The count started in him on its own.
 
 One. Two. Three.
 
 By now, he understood, the plate should have lit; Pellin had said it was usually done before you finished a breath, and he had finished one. He kept her face at the edge of his eye; her face was information. She was not looking at him but at the brass plate.
 
-He could feel his heart, and the worn wood under his boots, and the sigil at the edge of everything, very still and very attentive. It was looking at him, and he did not know how he knew that, but he knew it the way you know someone is standing behind you in an empty room. He thought of page seven, *a door opening, sunlight, like remembering something you never knew*, and before the count was finished, he knew that none of them was going to be his.
+He could feel his heart, and the worn wood under his boots, and the sigil at the edge of everything, very still and very attentive. It was looking at him, and he did not know how he knew that, but he knew it as surely as you know someone is standing behind you in an empty room. He thought of page seven, *a door opening, sunlight, like remembering something you never knew*, and before the count was finished, he knew that none of them was going to be his.
 
 Four. Five.
 
@@ -128,7 +128,7 @@ Eleven seconds. He was sure of the number. He had counted every one.
 
 Then the Arbiter spoke.
 
-It was not a word, exactly, but the shape of a word with everything warm taken out of it. Joren had called his classification *heavy*, good heavy, arriving like something set down on him. What Cael heard was very far away and very close at the same time, clear and complete, and certain the way a mountain is certain.
+It was not a word, exactly, but the shape of a word with everything warm taken out of it. Joren had called his classification *heavy*, good heavy, arriving like something set down on him. What Cael heard was very far away and very close at the same time, clear and complete, and certain.
 
 **[SHATTERED].**
 
@@ -136,7 +136,7 @@ The brass plate at Pellin's elbow lit, eleven seconds late. Text rose up in it, 
 
 At the edge of his sight, the sigil went out.
 
-It did not dim. It went out, the way a lamp goes out when the wick is pinched, and where it had been there was nothing. He turned his eyes after it, left and then right, the way you turn your head for a sound you are sure you heard, and there was nothing to find. It had arrived from inside him and spoken one word, and then it had gone somewhere he could not follow, and it did not come back when he looked.
+It did not dim. It went out like a lamp when the wick is pinched, and where it had been there was nothing. He turned his eyes after it, left and then right, and there was nothing to find. It had arrived from inside him and spoken one word, and then it had gone somewhere he could not follow, and it did not come back when he looked.
 
 Pellin's face did not change.
 
@@ -170,7 +170,7 @@ He was fourteen. A minute ago, perhaps, he had been given a classification the R
 
 He opened his notebook to the page with the date and the hour, and under them he wrote *Eleven seconds*, and closed it again.
 
-Twice he looked for the sigil, turning his eyes to the edge of his sight where it had hung, and found only the wall. The second time he tried to call it the way the procedural summary said practitioners did, by attending to the place behind the breastbone. Nothing came. It was not silence; silence would have been something there, keeping quiet. It was just absence.
+Twice he looked for the sigil, turning his eyes to the edge of his sight where it had hung, and found only the wall. The second time he tried to call it as the procedural summary said practitioners did, by attending to the place behind the breastbone. Nothing came. It was not silence; silence would have been something there, keeping quiet. It was just absence.
 
 He waited thirty-seven minutes. He had counted those too, less carefully.
 
@@ -178,9 +178,9 @@ At the thirty-seventh minute the door opened, and Hesk came in.
 
 He was wearing his good coat, the dark wool one he wore to the Inner gate, not the workshop coat with the burn on the sleeve, and his boots were clean and his hair was combed. In his left hand he held a flat leather folder, and Cael knew without being told that it held his registration papers and Cael's, and that it had been waiting by the front door. Possibly for days. Possibly for years.
 
-His face was completely still. It was not closed; Hesk never pulled anything down over his face like a shutter. It had the stillness of water just before something surfaces through it, and Cael could see, even in that first moment, that the stillness had been prepared, and practised, and kept ready for a long time.
+His face was completely still. It was not closed; Hesk never pulled anything down over his face like a shutter. It had the stillness of water just before something surfaces through it, and Cael could see, even in that first moment, that the stillness had been prepared, and practised, and kept ready for years.
 
-Hesk sat down in the other chair the way a cat settles into a chair it means to keep, a man who was not going anywhere until this was done.
+Hesk sat down in the other chair like a man who was not going anywhere until this was done.
 
 He looked at Cael. "All right."
 
@@ -208,7 +208,7 @@ Cael said the word. He had meant to lead up to it somehow, but it came out bare,
 
 "Enough."
 
-Hesk was not surprised. Cael could see that he was not surprised, not in the way you are by something unexpected; he looked the way you look when something you prepared for finally arrives and the preparing turns out to help less than you hoped.
+Hesk was not surprised. Cael could see that he was not surprised. He had the look of a man whose long preparing had finally been called on, and had turned out to help less than he had hoped.
 
 "I should have told you things," Hesk said. "Several things."
 
@@ -220,7 +220,7 @@ Hesk was not surprised. Cael could see that he was not surprised, not in the way
 
 Hesk did not answer at once. "A few years."
 
-A few years. Something in the words tugged at Cael, the way a word on the tip of the tongue tugs, as if he had heard that answer somewhere already and in another shape. Then Hesk spoke again, and the tug was gone before he could follow it.
+A few years. Something in the words tugged at Cael, as a word on the tip of the tongue tugs, as if he had heard that answer somewhere already and in another shape. Then Hesk spoke again, and the tug was gone before he could follow it.
 
 "I'm sorry, Cael. I made a choice that seemed right. It may have been wrong."
 
@@ -232,7 +232,7 @@ Cael let that sit, watching the tree stir in some wind that did not reach into t
 
 "That's a reasonable place to be. You don't have to sort it out today."
 
-Cael could see the shape of the choice now, and he could build it the way he built a calculation. *Don't tell him it might be [SHATTERED]. If it turns out normal, he'll never have had to carry it. Keep the preparing quiet and the worry separate, and don't make a thing real before it is.* The logic made sense to him; he did not like it, but it made sense.
+Cael could see the shape of the choice now, and he could build it as he built a calculation. *Don't tell him it might be [SHATTERED]. If it turns out normal, he'll never have had to carry it. Keep the preparing quiet and the worry separate, and don't make a thing real before it is.* The logic made sense to him; he did not like it, but it made sense.
 
 "Tell me now," he said. "What you know."
 
@@ -280,7 +280,7 @@ They came out onto the canal path two streets east of Weaver's Row, and the walk
 
 Two blocks from home, they passed Alis.
 
-She was across the street with a basket on her arm, and she looked up the way you look up when something familiar moves at the edge of your eye. She saw Cael, and she saw Hesk in his good coat with the leather folder, and something in her face shifted. It was not pity, which would have been worse. It was more like *I see what happened*, and that was harder to hold.
+She was across the street with a basket on her arm, and she looked up. She saw Cael, and she saw Hesk in his good coat with the leather folder, and something in her face shifted. It was not pity, which would have been worse. It was more like *I see what happened*, and that was harder to hold.
 
 She did not cross the street or call out, only lifted one hand, not waving, just an open hand raised and held there for a moment. *I see you.*
 
@@ -348,7 +348,7 @@ Hesk's eyebrows rose.
 
 "I was resting my eyes against the chimney."
 
-Hesk shook his head slowly, and something in his face loosened for a moment, the way it did on quiet mornings in the workshop when nothing was broken. "Some of it's in the notebook. I've spent years working out what I'd say to you if this day ever came, and it turns out it doesn't fill many pages. You'll have it before you go."
+Hesk shook his head slowly, and something in his face loosened for a moment, as it did on quiet mornings in the workshop when nothing was broken. "Some of it's in the notebook. I've spent years working out what I'd say to you if this day ever came, and it turns out it doesn't fill many pages. You'll have it before you go."
 
 Before you go. It was the first time either of them had said it, and it sat on the table between them with the teapot.
 

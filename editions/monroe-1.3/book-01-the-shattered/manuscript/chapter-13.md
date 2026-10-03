@@ -38,7 +38,7 @@ Renn looked at him a while longer. Whatever he made of that, he kept to himself,
 
 "Tell Vell you want me again," he said. "Leave it a month. By then you'll be worth my while." He let go of the hand at last. "And I want the second look."
 
-It was not the kind thing a winner says to a loser on the way past. It was said plainly and it was meant plainly, the way a man books a date and writes it on his wall. He gave Cael one pat on the right shoulder, the one that had not been hit, tipped his head toward Vell's table, half a courtesy to her and half a direction to him, and walked off to the rope. The crowd let him through and shut behind him, and its ordinary noise closed over the place where he had been.
+It was not the kind thing a winner says to a loser on the way past. Renn meant it, and said it without any decoration at all. He gave Cael one pat on the right shoulder, the one that had not been hit, tipped his head toward Vell's table, half a courtesy to her and half a direction to him, and walked off to the rope. The crowd let him through and shut behind him, and its ordinary noise closed over the place where he had been.
 
 ---
 
@@ -46,7 +46,7 @@ Win or lose, you went to the table after, and you stood there until she was done
 
 Vell was writing, and he waited, and watched the pen. Four times now, from the barrel and from the rope, he had seen her close a bout in the book: the names, how it ended, which exchange, anything owed. Usually it took two lines. The Bronze pair had taken three, because of the concession.
 
-This pen was well past three. It went, and paused, and went on, and not in the steady way a hand copies out something it already knows. It went the way his own pencil went when he was trying to get a thing down before it faded on him, choosing each word as it came and crossing nothing out, because nothing had been written yet that was wrong.
+This pen was well past three. It went, and paused, and went on, and not in the steady way a hand copies out something it already knows. It went as his own pencil went when he was trying to get a thing down before it faded on him, choosing each word as it came and crossing nothing out, because nothing had been written yet that was wrong.
 
 Once she raised her eyes to him without lifting her head.
 
@@ -76,7 +76,7 @@ In the Cinder House yard, Vell did not open the ledger again until she had the p
 
 That took most of an hour. The crowd went first, in a long slow drain out through the gate, still arguing about the second bout, which had gone the way the book said it would and had therefore been a disappointment to nobody but the loser. The pie boy went next, with his tray empty and his pockets heavy.
 
-Marrow came and stood at the end of her table for a minute, as he did every night, and told her what the evening had taken, and she wrote the figure where she always wrote it, in the back. She did not ask him how he had come by it; a long time ago she had decided that Marrow's book was Marrow's business and the circuit's book was hers, and that the two must never be allowed to touch.
+Marrow came and stood at the end of her table for a minute, as he did every night, and told her what the evening had taken, and she wrote the figure where she always wrote it, in the back. She did not ask him how he had come by it; years ago she had decided that Marrow's book was Marrow's business and the circuit's book was hers, and that the two must never be allowed to touch.
 
 "The debut," Marrow said pleasantly. "That cost me."
 
@@ -84,7 +84,7 @@ Marrow came and stood at the end of her table for a minute, as he did every nigh
 
 "Everybody had him at one." He smiled. He had a very good smile and he knew exactly how much it was worth. "Over pays long, on a debut. I didn't lay it off."
 
-"Then you'll lay it off next time," said Vell, and did not look up, and after a moment Marrow went away.
+"Then you'll lay it off next time," said Vell, writing, and after a moment Marrow went away.
 
 The boy from the public house came out with a pole and began taking the lanterns down from their hooks, one at a time, starting at the far wall, so that the yard went dark in stages, from the outside in. Vell sat on her stool and let him. When there were only three lanterns left, the ones nearest her, she opened the ledger at the page and read what she had written.
 
@@ -178,7 +178,7 @@ Then it came out of her, aimed at the dark in front of them rather than at him.
 
 "I wasn't trying to win. I was trying to learn how he moves."
 
-For three steps she said nothing. He could feel her changing her mind beside him, a shift in the air, the way the side of a stove feels when somebody has just shut the damper.
+For three steps she said nothing. He could feel her changing her mind beside him, a shift in the air, like the side of a stove when somebody has just shut the damper.
 
 "Oh. That's actually smarter." Her voice had altered entirely.
 
@@ -192,7 +192,7 @@ For three steps she said nothing. He could feel her changing her mind beside him
 
 She had watched it from the rope, and he could hear in her voice what the watching had cost her.
 
-Then she was not beside him any more. He had gone two steps on before he noticed. When he turned back she was under one of the few lanterns in the middle of the lane, hands at her sides, stopped the way people stop when the talk has finally come round to the thing they meant to say all along.
+Then she was not beside him any more. He had gone two steps on before he noticed. When he turned back she was under one of the few lanterns in the middle of the lane, hands at her sides, stopped, and he understood that the talk had come round at last to the thing she had meant to say all along.
 
 "The third exchange," Lira said.
 

@@ -84,3 +84,37 @@ rather than sealed. Lira, meanwhile, has been training harder and longer than he
 - Book 1's edition rules the Power Log into three columns — Claim / Evidence / Ruling — with
   *h* marking anything heard rather than witnessed. Carry that format (and *h*) into this
   book's log, including any split of the log.
+
+## Coordinator notes (Book 1 Monroe 1.3 edition closed, 2026-10-02) — these override this packet and BOOK_MAP where they conflict
+
+**Which Book 1 governs.**
+- Book 1 of this edition is rewritten and closed: 60 chapters, at `editions/monroe-1.3/book-01-the-shattered/manuscript/`.
+- Where this book's BOOK_MAP or STATE_LEDGER cites "Book 1 ChNN", those numbers point at the OLD edition. The Monroe 1.3 Book 1 governs.
+- Read, in full, the edition's Book 1 ch57–60 (the Darrow bout and its aftermath) instead of source Book 1 ch23–24.
+- Read Book 1 `STATE_LEDGER.md` "After Movement 9 — BOOK 1 ENDING", including its coordinator rulings.
+
+**Facts from that ending to carry:**
+- Record at Book 1's end is 9–7.
+- Eight Arbiter instances are logged. Seven was exchange 3, the step arriving unasked. Eight was exchange 4, the concurrent use.
+- Vell's ledger names him: "Assessed-Copper" at the rope, then the protected ledger line. The card read *unrated (vouched)* until the yard came.
+- The edition's Darrow stands right foot forward, left back and nailed.
+- Iron Path: "the crossing is the reset after each load".
+
+**Coss's flag.**
+- The senior flag is dated the DAY AFTER the Darrow bout, not "three days after".
+- Coss made no file entry and left his working-log page empty.
+- Cael knows none of it.
+
+**Between-books items: lapse them, do not stage them.**
+- Darrow said he'd be "back up this river in the autumn… he'll want to know". This book's map keeps Darrow as Book 1 history only. Do not bring him on the page. At most, one memory line may note that he did not come, or that word came instead.
+- Feryn: "The coat's not done… I'll not see it till the autumn." Feryn is off-page. At most, one memory line.
+
+**Unresolved texture.**
+- The stranger at Book 1's end has sex and features unstated. Do not resolve them.
+- The tollhouse half-mark footprint stays unexplained.
+
+**Calendar.**
+- Book 1's day canon: arrival day 4; bout day 200.
+- This book opens "just over a year" after arrival.
+
+**Method.** Draft from your own event list, not from the source page (EDITION_BRIEF). It is in your compiled prompt; follow it from the first scene.

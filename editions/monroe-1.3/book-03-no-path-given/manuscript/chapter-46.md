@@ -10,7 +10,7 @@ He started with Edran, because Edran was the obvious one and Brom distrusted obv
 
 "I had," Brom agreed.
 
-Hobb took less time. Brom found him on the defensive floor and asked him how many sittings he had stood in as the partner, and Hobb said four, and Brom asked him whether anything had been different in any of them, and Hobb thought about it for a long while and said, "Same as last time." Then, after a pause, "Four times." Brom wrote that down and thanked him, and Hobb nodded once and went back to his chalk, and Brom said afterward that it was the best testimony he had ever heard and that the magistrate would be lucky to get it.
+Hobb took less time. Brom found him on the defensive floor and asked him how many sittings he had stood in as the partner, and Hobb said three, and Brom asked him whether anything had been different in any of them, and Hobb thought about it for a long while and said, "Same as last time." Then, after a pause, "Three times." Brom wrote that down and thanked him, and Hobb nodded once and went back to his chalk, and Brom said afterward that it was the best testimony he had ever heard and that the magistrate would be lucky to get it.
 
 Gerda came to find Brom herself, which surprised him. She stopped at the end of the scarred table on the Monday evening with her coat buttoned and her hands folded, and told him in her procedure voice exactly how a witness of fact was entered. It went by name, in writing, with the hour each witness's evidence was expected, delivered to the magistrate's office through the academy's counsel no later than the day the delegation came. Every word of it was set down separately, as if she were reading a clause.
 

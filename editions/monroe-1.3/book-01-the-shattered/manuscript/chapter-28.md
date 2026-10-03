@@ -76,7 +76,7 @@ So he took out his own working log, which was a plain book of his own and not th
 
 *File thin for its classification. No preliminary assessment from the certifying district. No residential note. No cross-reference to the standing-holder's review. No case number. No handler. Sweep authorization not in my register. Query on return.*
 
-He looked at the last three words for some time. Then he left them, because they were true, and blotted the page, and turned the lamp down a little to save the oil.
+He looked at the last three words. Then he left them, because they were true, and blotted the page, and turned the lamp down a little to save the oil.
 
 ---
 
@@ -146,7 +146,7 @@ Coss turned that over and did not like it, and did not say so.
 
 He took the cot.
 
-Now, with the fourth reading done and the lamp low, he sat for a while at the window with his coat round his shoulders and looked out.
+Now, with the fourth reading done and the lamp low, he sat at the window with his coat round his shoulders and looked out.
 
 The district went down to the river below him in a long jumble of roofs and lanes and lamps, untidy and alive, with no wall anywhere in it and no gate at its edge. Across the river the Ranked core went up its hill in rings, each ring with its own wall and its own lamps along the top of it, every lamp the same distance from the next. From here it looked like a ladder somebody had leaned against the dark. He had passed through a good many rings in his life with a card that opened them. He had not often looked at them from the outside.
 
@@ -212,7 +212,7 @@ He did not ask direct questions, which only made people careful. He walked, and 
 
 He learned, too, that the carriers' clerk at the bottom of the fish steps would tell anybody anything. Coss asked him only which bag went west and when. The clerk told him, and then told him without being asked that the boy at Torvin's wrote west every week, regular as a clock, to Fen Street, and that he could tell him the day.
 
-Coss found that he did not want to know the day. He did not like knowing that anybody who asked would be told it, either, and he walked away from the hut with that sitting in him, undigested.
+Coss did not want to know the day. He did not like knowing that anybody who asked would be told it, either, and he walked away from the hut with that sitting in him, undigested.
 
 In the afternoon, at a fish stall, two women were packing up. One said to the other, "Are you going to the circuit Sunday?" and the other said she might, if her sister would mind the stall, and they went on to talk about the sister.
 

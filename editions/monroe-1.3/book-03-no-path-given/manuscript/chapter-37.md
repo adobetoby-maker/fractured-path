@@ -192,7 +192,7 @@ He went through it a second time, remembering how he had once sat and watched he
 
 For a while she did not answer, and then the drafting went out of her face altogether, for the first time since he had known her. He had seen Quenna tired, and wary, and as closed as a locked door; he had never seen her like this, with the paper set aside, a woman looking at him across a desk and weighing once more a load she had already agreed to carry.
 
-"The third exchange," she said. "I won't ask." "I have my ideas. They can stay in my head. I'll not write them down, and I'll not ask you to put anything into words, because once a thing is written or spoken I can't shelter it any longer. Then it's evidence." She left that there a moment. "What I need to know — not for the file, for me — is whether you can *not* do it. In front of people who wish you harm."
+"The third exchange," she said. "I won't ask. I have my ideas. They can stay in my head. I'll not write them down, and I'll not ask you to put anything into words, because once a thing is written or spoken I can't shelter it any longer. Then it's evidence." She left that there a moment. "What I need to know — not for the file, for me — is whether you can *not* do it. In front of people who wish you harm."
 
 The question dropped through him and went on dropping, like a stone down a well that turned out far deeper than he had thought.
 

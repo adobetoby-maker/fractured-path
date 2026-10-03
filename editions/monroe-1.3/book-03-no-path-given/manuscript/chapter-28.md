@@ -56,7 +56,7 @@ On the fourth night of the tenth week he tried the whole push, in Brom's room af
 
 He had been thinking about the full push since the day the half came, and he had decided what he believed about it. The half had come not from reaching harder but from choosing a wider road before the force arrived, a channel cut for twice the water. A whole slow push would need the whole road, as broad as Brom's arm, laid out back along the line the push would come in, and it would have to be held there, steady, the whole time the force was arriving and settling into the bone. If he reached for more than he had chosen, it would go into a joint. If he chose the whole and then flinched from the size of it, the same. The size had to be decided first and then not changed, and that was the entire difficulty, because nothing in him wanted to stand still while a thing that large came in.
 
-Brom knelt and laid his palm on the forearm and let the Iron Skin come up under it like frost on a pane, and leaned.
+Brom knelt and laid his palm on the forearm and let the Iron Skin come up under it, and leaned.
 
 The first three tries did nothing; he had chosen the whole road and then, in the instant before reaching, narrowed it without meaning to, the way a hand closes a little on a rope when the weight comes on. The fourth caught a quarter, out of old habit, and cost what a quarter cost. The fifth he narrowed again. On the sixth he caught himself narrowing and opened the road again in the same breath, and the force slid sideways off it and went into his left elbow with a deep sick throb, and he sat back on his heels with the arm folded against him.
 
@@ -68,7 +68,7 @@ The first three tries did nothing; he had chosen the whole road and then, in the
 
 "That's the whole problem."
 
-"That's the whole answer," said Brom, as he had said it in the pine needles three months ago, and settled his hand again. "Choose it and leave it chosen. Like Glass. Again."
+"That's the whole answer," said Brom, as he had said it in the pine needles two months ago, and settled his hand again. "Choose it and leave it chosen. Like Glass. Again."
 
 The seventh did nothing. On the eighth, he did not narrow.
 

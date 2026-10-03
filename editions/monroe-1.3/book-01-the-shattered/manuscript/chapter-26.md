@@ -1,6 +1,6 @@
 # Chapter 26 — The Honest Sort
 
-The yard did not let go of him for some time.
+The yard was slow to let go of him.
 
 People he had never spoken to came up to him at the rope, and said things, and went away again before he had worked out what they had said. A man he did not know shook his hand, hard, and told him he had had him at the over and had not expected to be paid on the other thing as well. A woman told him he was too thin. One of the girls from the wall in the lane of yards came past and said, "Brenna's furious," with enormous satisfaction, and was gone.
 
@@ -64,7 +64,7 @@ The needle stopped. It stayed stopped for long enough that he noticed it. Then i
 
 "Took you long enough," Yeni said to the shirt. "Torvin's wife's won her bun back off the one in the boots. She had you at five. The boots had you at never." The needle went in. "She'll be impossible."
 
-He sat on the end of his cot by the window with the Log, and found that his hands had stopped shaking somewhere on the walk home, and that he had not noticed them stop.
+He sat on the end of his cot by the window with the Log. His hands had stopped shaking somewhere on the walk home, and he had not noticed them stop.
 
 He did the front first. That was the rule.
 
@@ -88,7 +88,7 @@ Anybody could have been walked through that page and shown a reason under every 
 
 The registry could call him what it liked. Nobody else had any claim on that page.
 
-He sat with it for a while longer than he needed to.
+He sat with it longer than he needed to.
 
 Then he came to the fourth exchange, and tried to put it in the columns, and could not.
 
@@ -118,7 +118,7 @@ He turned to a clean page and wrote, at the top:
 
 *Second instance.*
 
-He wrote it down as plainly as he had written the first. There was no decision in it and no warning. No plan had it in, or anything like it. It came the way you know the end of a sentence somebody else is saying, in a voice you cannot place. Afterward he was standing wrong, with his feet wide and his hips round too far and his weight on the wrong foot, as he had been after the drop: the coat again, the sleeves ending in the wrong place. He had reached for it, standing in the circle with the yard shouting, and there was nothing to reach for. It had left nothing behind.
+He wrote it down as plainly as he had written the first. There was no decision in it and no warning. No plan had it in, or anything like it. It simply came, in a voice he could not place. Afterward he was standing wrong, with his feet wide and his hips round too far and his weight on the wrong foot, as he had been after the drop: the coat again, the sleeves ending in the wrong place. He had reached for it, standing in the circle with the yard shouting, and there was nothing to reach for. It had left nothing behind.
 
 *Same in kind as the first,* he wrote. *Same arriving. Same coat after. Same nothing when I look for it.*
 
@@ -198,7 +198,7 @@ He had known the sum. He had done it in his head on the night of the drop, sitti
 
 He folded the torn Renn page along its soft creases, carefully, and laid it inside the back cover of the Log, where it would stay flat. He did not put it back in his coat. It did not belong in a pocket any more. It belonged with the rest.
 
-Then he sat for a while with the Log closed on his knee.
+Then he sat with the Log closed on his knee.
 
 He did not feel lighter, exactly. The four were exactly as heavy on the page as they had been in the corner. But they were on the page now, where he could see them and count them and turn them over, and not in the corner where he had to walk round them in the dark. He thought it was like the difference between knowing there was a stone in your boot and taking the boot off.
 
@@ -206,9 +206,7 @@ The stone was still a stone. But you could pick it up and look at it.
 
 ---
 
-Twice since he came to Ardenmere he had handed her half an answer and let her take it for a whole one. He counted them going down the turning stairs, because he was much too awake for sleep and there was nothing else to do with his head. Under the lantern in the lane after Renn he had said *instinct*, and in the grey half after the drop he had said *I don't know*, and both had been true. Both had been cut off short at the knee, and both times he had left it to her to decide whether to come back for the rest, and she never had.
-
-Tonight would not be the third, if he could help it.
+Twice since he came to Ardenmere he had handed her half an answer and let her take it for a whole one. He counted them going down the turning stairs, because he was much too awake for sleep and there was nothing else to do with his head. Under the lantern in the lane after Renn he had said *instinct*, and in the grey half after the drop he had said *I don't know*, and both had been true. Both had been cut off short at the knee, and both times he had left it to her to decide whether to come back for the rest, and she never had, and tonight, if he could help it, would not be the third.
 
 She was on the step outside the street door, as he had half known she would be. She sat with her back against the frame and her knees drawn up, quite at home there, as if the step were a chair she had owned for years. The lantern over Torvin's door laid her shadow long and thin down the cobbles, and the leaning O above her laid down its own beside it.
 
@@ -220,7 +218,7 @@ By his reckoning she had allowed him one bout's writing-up, near enough to the m
 
 "Mm." She let that lie where he had put it, perfectly friendly and not much impressed. "And underneath the data point?"
 
-He looked at the dark street, and at the lantern light lying on the wet cobbles, and found that the short answer was right there, ready, the practised one and the cheap one. He did not want to pay that way any more.
+He looked at the dark street, and at the lantern light lying on the wet cobbles, and the short answer was right there, ready, the practised one and the cheap one. He did not want to pay that way any more.
 
 "The third exchange I made," he said. "Two weeks of it, and it went exactly as I'd put it together. Ask me why about any step of it and there's an answer, and every answer's mine. I'm proud of it. I paid for it." He turned his right hand over and looked at the split knuckles. "The fourth wasn't like that. The going across, the bit that finished it. That was never in anything I planned, not even close. It didn't feel like a thing I'd built. It felt like a thing I'd—"
 
@@ -230,11 +228,11 @@ There the sentence ran out of road, and he let it stop.
 
 She set the word down carefully, the way you would put down a full cup on a table in the dark, near enough for him to reach and not pushed toward him at all.
 
-He turned it about and looked at it.
+He turned the word about in his head and looked at it from every side he could find before he answered.
 
 "Maybe," he said. "I don't know yet."
 
-She nodded, slowly, and left it there.
+She nodded, slowly, and left it there between them on the step, where either of them could pick it up again.
 
 That was the thing in her he still could not name: she could go through the market like a thrown stone, and beat a pie man down to half his price for nothing but the joy of it, and tell him to his face that he was no natural. And then, when it counted, she could sit on a cold step and leave a silence at exactly the size it wanted, not an inch larger. They sat in the sounds of the street. Somewhere a cart went by with its lamp swinging, and two doors along somebody was arguing about a window, and the district went on with its evening and did not care in the least what the registry said.
 
@@ -248,9 +246,9 @@ In the lantern light he watched a question come into her eyes, and watched her l
 
 "I won't guess at it. If you guess, you put the wrong thing in the book, and then you believe it because it's in the book." He made himself keep going. "Only, the day I'm sure what it is, you're first. Before anybody. Before Hesk."
 
-Lira was quiet for a moment.
+Lira was quiet for a moment, with her chin on her knees, as if she were weighing the offer in both hands before she took it.
 
-"I'd have been very offended," she said, "if it had been anybody else."
+"I'd have been very offended if it had been anybody else."
 
 Then she smiled, the real smile, not the one she spent on strangers or on Marrow, and it reached her eyes and stayed. She knocked her shoulder against his, lightly, the left one, the Renn one, which did not hurt any more. "And it was a good fight. Leave the rest aside a minute. You worked well tonight, Cael. You didn't waste a day of those two weeks."
 
@@ -262,6 +260,4 @@ Then she smiled, the real smile, not the one she spent on strangers or on Marrow
 
 "You've had half a pie, and that boy's pies are mostly gravy." She opened the door. "Besides, you've the look of somebody who's just written down a thing he's carried for a month and a half. Writing it costs you worse than the fighting does. Nobody tells you that either."
 
-He followed her in under the leaning O.
-
-On the stairs, going up to put the Log away before supper, he found that he was smiling, and had been for some while, and could not have said when it began.
+He followed her in under the leaning O, and on the stairs, going up to put the Log away before supper, he was smiling, and had been for some while, and could not have said when it began.

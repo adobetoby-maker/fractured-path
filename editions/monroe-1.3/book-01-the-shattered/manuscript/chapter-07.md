@@ -26,11 +26,11 @@ Laundry hung across that strip on lines strung from window to window, and in the
 
 People moved through all of it at the pace of a place finishing its day. A man went past with a long plank on his shoulder and turned it carefully at a corner without looking, as he must have turned it at that corner a thousand times. A woman carried a sleeping child in one arm and a sack of something in the other and argued pleasantly with somebody in a doorway without slowing down. Three boys a little younger than Cael ran past him in a knot, shouting about a wager. One of them bumped his bag and shouted "Sorry, uncle!" over his shoulder, which made Cael look round to see who the uncle was before he understood it had been him.
 
-Nobody looked at him twice. He had expected, without quite knowing he expected it, that a boy his age with a travelling bag would be noticed, the way a new face was noticed on Fen Street, weighed and placed. Here the district seemed to have decided long ago that boys with travelling bags were part of the weather.
+Nobody looked at him twice. He had expected, without quite knowing he expected it, that a boy his age with a travelling bag would be noticed, as a new face was noticed on Fen Street, weighed and placed. Here the district seemed to have decided long ago that boys with travelling bags were part of the weather.
 
 He walked with his hands at his sides and his eyes open, and he counted, because counting was the thing he did when there was too much: four lanes on the left before the first square, six on the right. Twelve lamps in the square, two of them out. One well, with an iron cover and a woman sitting on it.
 
-In the square someone with a Path was working. A heavyset porter in a leather apron was loading barrels onto a handcart, and he lifted each full barrel by its rim with one hand, the way Cael would have lifted a basket of eggs, and set it down without a sound. Force, probably. Copper, almost certainly; an Iron-tier Force practitioner would not be loading handcarts in the Unranked District at dusk, or if he were, there would be a reason worth knowing.
+In the square someone with a Path was working. A heavyset porter in a leather apron was loading barrels onto a handcart, and he lifted each full barrel by its rim with one hand, as Cael would have lifted a basket of eggs, and set it down without a sound. Force, probably. Copper, almost certainly; an Iron-tier Force practitioner would not be loading handcarts in the Unranked District at dusk, or if he were, there would be a reason worth knowing.
 
 Cael watched the man's feet. They were planted wide and stayed planted, and all the work went up through his back and out through his arm, and his breathing did not change. Whatever his declaration said, the muscles under it were his own and had been doing this for years.
 
@@ -52,9 +52,9 @@ He asked the woman on the well, because she was sitting still, and people who we
 
 "Thank you."
 
-"Don't thank me, I've got a cousin there. If you hate it, don't tell him I sent you."
+"I've got a cousin there. If you hate it, don't tell him I sent you."
 
-The second turning was a lane with a gutter down the middle, and two streets in, on the left, was a narrow stone house with a wooden sign over the door. ROOMS had been painted on it by hand, a long time ago, in letters that had faded unevenly. The O had faded least and leaned hardest, so that the word looked as though it were about to fall over to one side and had been about to for years.
+The second turning was a lane with a gutter down the middle, and two streets in, on the left, was a narrow stone house with a wooden sign over the door. ROOMS had been painted on it by hand, years ago, in letters that had faded unevenly. The O had faded least and leaned hardest, so that the word looked as though it were about to fall over to one side and had been about to for years.
 
 He knocked.
 
@@ -122,7 +122,7 @@ Two more cots had blankets folded on them and boots underneath them, and the one
 
 "Market's two streets east, toward the river. It'll be closing." She picked up the next shirt and found its tear without searching for it. "Go now if you're going."
 
-The conversation was over. It had been neither warm nor cold, only short, and Cael understood as he set his bag down on the bare cot that he had just been told everything he needed and nothing he did not. He thought that in Denvash a conversation like that would have felt rude, and that here it was simply the way people saved their strength for the things that needed it.
+The conversation was over. It had been neither warm nor cold, only short, and Cael understood as he set his bag down on the bare cot that he had just been told everything he needed and nothing he did not. He thought that in Denvash a conversation like that would have felt rude, and that here it was simply how people saved their strength for the things that needed it.
 
 He took the pouch out of the bag and put it in the inside pocket of his coat, with the card and the book, and left the bag where it was. Yeni watched him do it out of the corner of her eye and said nothing, which he took to mean that it was the right thing to do.
 
@@ -184,7 +184,7 @@ His sister reached across without stopping the crank and flicked him on the ear 
 
 "Fourth on a wet day."
 
-Cael found that he was smiling, and that it had come up out of him without being asked, the first one since the depot. He did not buy anything. He did not want to spend money he had not counted against the pouch. He did not want to buy a thing the first time it was offered to him, in case that was the kind of mistake the boy would charge to tell him about.
+Cael was smiling, and it had come up out of him without being asked, the first one since the depot. He did not buy anything. He did not want to spend money he had not counted against the pouch. He did not want to buy a thing the first time it was offered to him, in case that was the kind of mistake the boy would charge to tell him about.
 
 "Maybe tomorrow," he said.
 
@@ -214,11 +214,11 @@ He sat on the cot with his back against the wall and his coat over his knees, an
 
 He looked at the last line for a moment and added: *He might be worth it.*
 
-Then he took the leather book out of his coat, untied the cord, and unfolded the letter from between its pages. He read it through by the light of Yeni's lamp, from *Hesk* to *— Cael*, all of it, and found that it still said what he meant it to say. That was a relief, because things written at a waystation table at the end of a long day did not always survive being read the next night.
+Then he took the leather book out of his coat, untied the cord, and unfolded the letter from between its pages. He read it through by the light of Yeni's lamp, from *Hesk* to *— Cael*, all of it, and it still said what he meant it to say. That was a relief, because things written at a waystation table at the end of a long day did not always survive being read the next night.
 
 It did not say anything about the cart.
 
-He held the pencil over the bottom of the page for a while. The cart was a day and a half behind him now, at the bottom of a dip between two hedges, and it had shrunk in that time to the size of a turnip in a bag. He did not write it in. He wrote something else instead, small, under his name.
+He held the pencil over the bottom of the page. The cart was a day and a half behind him now, at the bottom of a dip between two hedges, and it had shrunk in that time to the size of a turnip in a bag. He did not write it in. He wrote something else instead, small, under his name.
 
 *Write back to me care of Torvin's, the house with ROOMS on the sign, two streets in from the east road, Unranked District, Ardenmere. They'll know it. The O leans.*
 
@@ -236,10 +236,10 @@ She considered that, and him, and then nodded once, as if he had told her someth
 
 She leaned over and turned down the lamp.
 
-Below them, in the dark, a door shut, and Torvin's voice came up through the floorboards, not loud, carrying the way a voice carries when it has said the same word every night for eleven years.
+Below them, in the dark, a door shut, and Torvin's voice came up through the floorboards, not loud, carrying as a voice carries when it has said the same word every night for eleven years.
 
 "Lamps."
 
-The last line of light under the door went out. The wheezing man whistled at the top of his breath. One of the brothers said something about the sandbar, and the other one told him to go to sleep, and he did. Out beyond the window the district kept up its low noise, voices and wheels and water, a city that did not go quiet so much as turn itself down. Cael lay under his coat with his hand on the leather book and listened to it, and found that it did not frighten him.
+The last line of light under the door went out. The wheezing man whistled at the top of his breath. One of the brothers said something about the sandbar, and the other one told him to go to sleep, and he did. Out beyond the window the district kept up its low noise, voices and wheels and water, a city that did not go quiet so much as turn itself down. Cael lay under his coat with his hand on the leather book and listened to it, and it did not frighten him.
 
 That was new. He did not write it down, because he was not sure yet that it was true.

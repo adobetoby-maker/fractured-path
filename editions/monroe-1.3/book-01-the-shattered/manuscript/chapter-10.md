@@ -2,7 +2,7 @@
 
 In Denvash, on the evening Hesk came back from the depot alone, the house on Fen Street went on making the sounds it had made for more than twenty years, as if nothing had happened.
 
-He let himself in by the front door and stood in the hall with his coat still on while the clock over the stove ticked. The second floorboard from the kitchen door creaked when he crossed it, as it always had, and he found that he had stepped on it on purpose, to hear it, and was annoyed with himself. The cupboard by the stove had to be closed with two fingers or it rattled for a minute, so he closed it with two fingers, and it did not rattle.
+He let himself in by the front door and stood in the hall with his coat still on while the clock over the stove ticked. The second floorboard from the kitchen door creaked when he crossed it, as it always had, and he caught himself stepping on it on purpose, to hear it, and was annoyed with himself. The cupboard by the stove had to be closed with two fingers or it rattled for a minute, so he closed it with two fingers, and it did not rattle.
 
 Cael's door was open a hand's width.
 
@@ -12,7 +12,7 @@ He took his coat off, hung it on the peg, and went through to the workshop, beca
 
 On the bench, under the lamp, was the drawer marked *Springs, do not use.* He pulled it out an inch. Inside lay the springs that had taught him something, a little tangle of them in the corner, and beside them a space he had cleared that morning without thinking about why, a space about the size of a small bent bracket. He shut the drawer.
 
-There were several things in his life he had prepared for over a long time and still not been ready for when they came. He had expected this to be one of them, and he had been right, and being right did not help as much as it should have.
+There were several things in his life he had prepared for over years and still not been ready for when they came. He had expected this to be one of them, and he had been right, and being right did not help as much as it should have.
 
 ---
 
@@ -34,7 +34,7 @@ She pushed the extra coins back across the counter with one floury finger.
 
 "It came out of your oven."
 
-"It went into his bag. That makes it his." She did not look up at him. She had a way of not looking up that was not at all like Garrik's; it was the way a woman avoids looking at a man so that he can keep his face. "You'll want to know if he ate it."
+"It went into his bag. That makes it his." She did not look up at him. She had a way of not looking up that was not at all like Garrik's; it was how a woman avoids looking at a man so that he can keep his face. "You'll want to know if he ate it."
 
 "He'll have eaten it on a wall," said Hesk. "Somewhere about the first milestone. He won't have been able to wait."
 
@@ -86,7 +86,7 @@ That was also true, and the review did not need it, and he left it in.
 
 He sealed the account and set it by the door to go to the guild house, and then he put the guild's letter not in a drawer, where he would not have to look at it, but on the shelf above the bench, propped against the clock, where he would see it every time he lifted his head.
 
-He did not know yet what the review would come to. He thought it would probably come to nothing, slowly, the way the Compact made most things come to nothing, with a great many forms, though it might not. He had decided long ago that the risk was his, and he was not going to start pretending otherwise now just because the risk had arrived with a signature on it.
+He did not know yet what the review would come to. He thought it would probably come to nothing, slowly, as the Compact made most things come to nothing, with a great many forms, though it might not. He had decided long ago that the risk was his, and he was not going to start pretending otherwise now just because the risk had arrived with a signature on it.
 
 ---
 
@@ -118,9 +118,9 @@ On the sheet, one of the Copper fighters dropped his guard in the third exchange
 
 At the change of reels, while the lamps were up and Garrik was threading the second one with his back to the room, the woman in the knitted hat leaned across the empty chair beside Hesk.
 
-"Where's he gone?" she said. She said it the way she said everything, plainly, and she looked straight at him while she said it. "The boy. With the washer."
+"Where's he gone?" she said. She said it as she said everything, plainly, and she looked straight at him while she said it. "The boy. With the washer."
 
-It was the first time since Wednesday that anyone in the quadrant had asked him a direct question about Cael, and Hesk found that he had been waiting for it for six days without knowing he was waiting.
+It was the first time since Wednesday that anyone in the quadrant had asked him a direct question about Cael, and it came to Hesk that he had been waiting for it for six days without knowing he was waiting.
 
 "Ardenmere," he said.
 
@@ -190,7 +190,7 @@ He had lived by it so long and so well that he had never once told Cael about Tu
 
 And Hesk had said, *All right.*
 
-He sat with the pen over the paper for a long time, while the clock ticked and somewhere to the north the canal gate sighed, letting the night water through.
+He sat with the pen over the paper while the clock ticked and somewhere to the north the canal gate sighed, letting the night water through.
 
 Then he wrote it.
 
@@ -212,7 +212,7 @@ The yard was round the side, through a gate in a wall, and he found it by follow
 
 It was a square of packed dirt about thirty paces across, with high walls on three sides and the back of the public house on the fourth. The ground had been swept and watered so that it would not rise in dust, and in the middle of it, worn into the dirt, was a circle, not painted or chalked.
 
-It was a shallow groove, a hand deep, that years of feet had walked into the ground the way water walks a channel into stone. It was very slightly out of round, longer one way than the other, as though the fighters who made it had all preferred the same side. Lanterns hung on hooks along three of the walls, unlit, and a few crows were working the edges of the yard where last night's crowd had dropped things.
+It was a shallow groove, a hand deep, that years of feet had walked into the ground as water walks a channel into stone. It was very slightly out of round, longer one way than the other, as though the fighters who made it had all preferred the same side. Lanterns hung on hooks along three of the walls, unlit, and a few crows were working the edges of the yard where last night's crowd had dropped things.
 
 Lira was in the far corner with a post.
 
@@ -244,7 +244,7 @@ Lira stopped, with her hand flat against the post, and looked at him.
 
 "Like that." He pointed his pencil at the groove in the ground.
 
-Lira followed the pencil and looked at the circle as though she had not seen it in a while. "Yes," she said. "Exactly like that."
+Lira followed the pencil and looked at the circle as though she had not seen it in a while. "Yes. Exactly like that."
 
 She worked through the rules while she worked the post, and he wrote them down.
 
@@ -262,15 +262,15 @@ A fight in the circuit was called a bout, and a bout was made of exchanges, not 
 
 Lira hit the post once, hard, and let her hand stay against it.
 
-"There isn't a *rule*," she said. "It isn't written down anywhere. There's nowhere to write it. But everybody acts as if there's one, and everybody's afraid of what happens to anyone who forgets, so it works about as well as a written rule would. Better, maybe." She looked at him over her shoulder. "Paths are open. Whatever yours does, you can use it. That's half of why people come here instead of fighting in a guild hall with someone in a white coat counting. But you don't kill anyone, and you don't keep going after Vell's called it, and you don't embarrass whoever vouched for you."
+"There isn't a *rule*. It isn't written down anywhere. There's nowhere to write it. But everybody acts as if there's one, and everybody's afraid of what happens to anyone who forgets, so it works about as well as a written rule would. Better, maybe." She looked at him over her shoulder. "Paths are open. Whatever yours does, you can use it. That's half of why people come here instead of fighting in a guild hall with someone in a white coat counting. But you don't kill anyone, and you don't keep going after Vell's called it, and you don't embarrass whoever vouched for you."
 
 "What happens if you do keep going?"
 
-"There was a man," Lira said, "before my time. I only know it from people telling it. Bronze in the circuit, Ash Path, very good, very angry. Twice he kept going after the call. Vell warned him twice. The third time he put somebody down so badly they had to send across the river for a healer, which costs more than most people here earn in a year, and gets noticed by people we'd rather didn't notice." She went back to the post. "No yard in Ardenmere would have him after that. Not one. Last anyone heard, he was fighting under another name three towns over, for a tenth of what he used to draw here. It takes a while for a thing like that to travel. But it travels."
+"There was a man before my time. I only know it from people telling it. Bronze in the circuit, Ash Path, very good, very angry. Twice he kept going after the call. Vell warned him twice. The third time he put somebody down so badly they had to send across the river for a healer, which costs more than most people here earn in a year, and gets noticed by people we'd rather didn't notice." She went back to the post. "No yard in Ardenmere would have him after that. Not one. Last anyone heard, he was fighting under another name three towns over, for a tenth of what he used to draw here. It takes a while for a thing like that to travel. But it travels."
 
 Cael wrote *Ash Path, Bronze. Three calls. Gone.* He looked at it, and added: *Vell called it.*
 
-"The ratings," he said. "On the board. The letters after the names."
+"The ratings. On the board. The letters after the names."
 
 "Ah. The ratings." Lira went into a quicker combination, three strikes and a step, three strikes and a step, and talked in the gaps. "Circuit ratings borrow the registry's words, Copper, Iron, Bronze, Rank 1 to 10, because everybody already knows them. But they're not the registry's. The circuit doesn't care what your Arbiter said about you. It cares what Vell's seen you do."
 
@@ -296,7 +296,7 @@ He thought about it. "The one who walks out."
 
 "What's your rating?"
 
-"Higher than my registry rank," said Lira. "Lower than I think it should be." She capped the skin. "Vell and I are in a long, polite disagreement about it."
+"Higher than my registry rank. Lower than I think it should be." She capped the skin. "Vell and I are in a long, polite disagreement about it."
 
 "Who's winning?"
 
@@ -312,7 +312,7 @@ He thought about it. "The one who walks out."
 
 There was one more name before the morning was out, and Lira said it with feeling.
 
-"Marrow," she said. She had gone back to the post, and she hit it a little harder as she said the name, as though it had been his face. "You'll see him this afternoon. Big man, very clean hands, a slate on a string round his neck. He runs the book."
+"Marrow." She had gone back to the post, and she hit it a little harder as she said the name, as though it had been his face. "You'll see him this afternoon. Big man, very clean hands, a slate on a string round his neck. He runs the book."
 
 "The ledger?"
 

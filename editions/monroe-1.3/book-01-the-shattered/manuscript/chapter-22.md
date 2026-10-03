@@ -4,7 +4,7 @@ Lira did not like to eat at Torvin's. She said it was because Torvin's wife look
 
 So in the evening they went down to the eating house by the lower bridge, where Amrit Sole cooked.
 
-It was a long, low room half below the level of the street, so that you went down three steps to the door and sat with the river going past at the height of your shoulder outside the little windows. There were two long tables and a bench along each, and a counter at the back with a hatch in the wall behind it, and through the hatch you could see the kitchen. It was all steam and copper and one large man with a shaved head moving through it without hurry, the way he had moved through the circle.
+It was a long, low room half below the level of the street, so that you went down three steps to the door and sat with the river going past at the height of your shoulder outside the little windows. There were two long tables and a bench along each, and a counter at the back with a hatch in the wall behind it, and through the hatch you could see the kitchen. It was all steam and copper and one large man with a shaved head moving through it without hurry, as he had moved through the circle.
 
 Amrit saw them come in. He did not stop what he was doing. But a little later, when the girl who carried the bowls came out, she set down in front of Cael a bowl with twice the bread beside it that she set beside anybody else's, and when Cael looked at the hatch, Amrit was looking at a pot.
 
@@ -14,17 +14,17 @@ Amrit saw them come in. He did not stop what he was doing. But a little later, w
 
 "You lost to him properly." She broke her own bread. "That's the kind he keeps."
 
-It was a fish stew, mostly potato, with something green floating in it that Cael could not name and did not ask about. It was hot, and it was good, and he ate half of it before he found that he had stopped tasting it and was thinking about a grey coat.
+It was a fish stew, mostly potato, with something green floating in it that Cael could not name and did not ask about. It was hot, and it was good, and he ate half of it before he noticed that he had stopped tasting it and was thinking about a grey coat.
 
-He told her. He told it the way he had written it in the margin, in order, nothing added, because that was the only way he knew how to tell a thing so that somebody else could weigh it properly. He told her about the market going tight, and the nut boy looking at his pointer, and the egg woman's blanket, and the post at the head of the fish steps. Then he told her about the long way round, the lantern glass and the doorway in the cut and the sixty he had counted, and the lane he never took. He told her about Torvin's four, and the girls on the wall and their dogs, and the old man.
+He told her. He told it as he had written it in the margin, in order, nothing added, because that was the only way he knew how to tell a thing so that somebody else could weigh it properly. He told her about the market going tight, and the nut boy looking at his pointer, and the egg woman's blanket, and the post at the head of the fish steps. Then he told her about the long way round, the lantern glass and the doorway in the cut and the sixty he had counted, and the lane he never took. He told her about Torvin's four, and the girls on the wall and their dogs, and the old man.
 
-Lira did not interrupt. She ate while he talked, slowly, and when he got to the old man she stopped eating and set her spoon down in the bowl, carefully, the way you put something down when you want both hands free to think with.
+Lira did not interrupt. She ate while he talked, slowly, and when he got to the old man she stopped eating and set her spoon down in the bowl, carefully.
 
 "A pin," she said. "On this side of the river."
 
 "Walking. Not hiding it."
 
-"No. They don't hide it. That's the point of it." She turned her cup round on the table by its handle, once, and then again, the way she sometimes walked round the post before she struck it. "They come through. They do. People check that nobody Unranked has drifted somewhere they shouldn't be living, or that nobody's running anything big enough and loud enough to make somebody across the river look foolish. That happens." She looked up. "But I've been in this district five months, Cael, and that's the first pin I've heard of."
+"No. They don't hide it. That's the point of it." She walked her cup round the table in a small circle, once, and then again, as she sometimes walked round the post before she struck it. "They come through. They do. People check that nobody Unranked has drifted somewhere they shouldn't be living, or that nobody's running anything big enough and loud enough to make somebody across the river look foolish. That happens." She looked up. "But I've been in this district five months, Cael, and that's the first pin I've heard of."
 
 "Torvin's seen four in eleven years."
 
@@ -64,7 +64,7 @@ He did not know what face that was, and he did not ask. He looked at his stew, w
 
 "I don't know."
 
-"No." She did not try to give him a number, and he was grateful for that too. She sat with him in the not knowing for a while, with the river going past, and then she said, in her ordinary voice, the one she used in the grey half of the yard, "We'll map it. That's what we do with a thing we can't see the edges of. We go round it until it's got edges. This has edges somewhere. We just haven't walked far enough yet."
+"No." She did not try to give him a number, and he was grateful for that too. She sat with him in the not knowing, with the river going past, and then she said, in her ordinary voice, the one she used in the grey half of the yard, "We'll map it. That's what we do with a thing we can't see the edges of. We go round it until it's got edges. This has edges somewhere. We just haven't walked far enough yet."
 
 "You make it sound easy."
 
@@ -118,7 +118,7 @@ Hesk had written that sentence on the twenty-eighth day, at the kitchen table, i
 
 Hesk had known none of it. Hesk had been writing to a boy who had lost twice and was not trying to win yet, and was looking, and that boy had been real when the letter left Ardenmere, and had stopped being quite real by the time it arrived in Denvash, and was a long way from real tonight.
 
-He had known in his head that the post was slow. He had worked out the days on the road. But he had not felt it until now, with Hesk's careful sentences on his knee, answering questions he had stopped asking and congratulating him on something two weeks old. It was like talking to somebody across a valley, where you shouted and waited, and the answer came back clear and kind and a long time after you had moved on from the place where you shouted.
+He had known in his head that the post was slow. He had worked out the days on the road. But he had not felt it until now, with Hesk's careful sentences on his knee, answering questions he had stopped asking and congratulating him on something two weeks old. It was like talking to somebody across a valley, where you shouted and waited, and the answer came back clear and kind and long after you had moved on from the place where you shouted.
 
 *Tell me what she's like.*
 
@@ -130,7 +130,7 @@ He did the front of the Log first, because that was the rule.
 
 The front had nothing in it for today except the margin note he had written on the wall by the pump. He read it over, and added one line under it, because it was a fact and he had seen it himself: *Torvin: four in eleven years. Once a guild fee. Mostly nothing. (Torvin, h.)* Then the girls on the wall: *When it's something there are dogs (h; I don't think she knows).* Then the old man, in his words as nearly as Cael could remember them: *Don't wonder if it's you. Wonder what changed (h).*
 
-He looked at that last line for a while.
+He read that last line again.
 
 Then he closed the front and turned the book over and opened it from the back, and wrote the thing he had not been able to write on the wall in the afternoon.
 
@@ -146,7 +146,7 @@ He stopped there, because he could feel himself beginning to write the same fear
 
 He took out a clean sheet instead and wrote to Hesk.
 
-It was harder than the last letter, and he understood why before he had written the first line. Hesk would read this on about the forty-fourth day, at the kitchen table, in the twenty minutes of sideways light, and whatever had happened by then, Cael would not be able to tell him. And whatever Hesk wrote back would come on about the fifty-first day, a week after that, answering a boy who had seen one pin and did not know what it meant. By then that boy would be a fortnight gone, the way the boy who had lost twice was gone tonight.
+It was harder than the last letter, and he understood why before he had written the first line. Hesk would read this on about the forty-fourth day, at the kitchen table, in the twenty minutes of sideways light, and whatever had happened by then, Cael would not be able to tell him. And whatever Hesk wrote back would come on about the fifty-first day, a week after that, answering a boy who had seen one pin and did not know what it meant. By then that boy would be a fortnight gone, as the boy who had lost twice was gone tonight.
 
 So he could not write the fear. The fear would be two weeks stale by the time anybody could do anything about it, and Hesk would have to carry it alone at the table for a week first.
 
@@ -174,7 +174,7 @@ He did not tell him about the grey half of the yard, either, or the coat, or wha
 
 Lira was at the post when he came into the yard, in the grey half, as she always was.
 
-She gave him his report before the bread, as she had every morning for a week now. She did it while they were walking the box drill at the slow speed, before the fast one, without looking at him, the way she might have read out the weather.
+She gave him his report before the bread, as she had every morning for a week now. She did it while they were walking the box drill at the slow speed, before the fast one, without looking at him, as she might have read out the weather.
 
 "Yesterday you looked at my hands three times in the eight corners. Not in the first set. After the third set, when you were tired." Back left. Front right. "Your left catch is as quick as your right now. I counted ten each side, and I couldn't tell them apart. And you didn't turn the back foot out on the box once. Not once. I was watching for it."
 
@@ -196,7 +196,7 @@ He took his half of the bread.
 
 "The nut boy told me in my first week that there's a woman in the other market who sells answers." He looked at the bread. "Whatever you pay for, she'll tell you. He said not to buy from her unless you really wanted to know."
 
-Lira chewed for a while.
+Lira chewed, and thought.
 
 "I know who you mean."
 

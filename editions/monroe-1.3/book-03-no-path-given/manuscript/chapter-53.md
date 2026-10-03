@@ -160,7 +160,7 @@ She held it out to him, and he unfolded it: her quick slanting scrawl, in pencil
 
 *The records know what happened here. Nobody gets to say otherwise.*
 
-"You said it on this wall," said Lira. "The night I'd read the four paragraphs and decided they didn't get to tell me who I was. You'd had it off Vell, and you turned it round and gave it to me. I wrote it down that night so I'd have it in your words and not just mine." She looked at the slip in his hand. "I've had it behind Fenmark ever since. Every time I took the four paragraphs out to read them again, which I did more than I'd ever tell you, that came out first."
+"You said it on this wall," said Lira. "The night I'd read the four paragraphs and decided they didn't get to tell me who I was. You'd had it off Vell, and you turned it round and gave it to me. I wrote it down that night so I'd have it the way we'd made it, not the way I'd have made it alone." She looked at the slip in his hand. "I've had it behind Fenmark ever since. Every time I took the four paragraphs out to read them again, which I did more than I'd ever tell you, that came out first."
 
 "Lira."
 

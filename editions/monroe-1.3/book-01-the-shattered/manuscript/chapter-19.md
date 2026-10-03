@@ -20,7 +20,7 @@ Cael put his spoon down, carefully, so that it did not click against the bowl.
 
 "What did you tell him?"
 
-"Nothing." Torvin turned the page. He seemed perfectly satisfied about this, in the way a man is satisfied with a wall he has built that has not fallen down. "Said I don't keep a list of who fights. Said I don't want to see anybody's registration and I don't. Said if he wanted to know about circuit kids, he could go and ask the circuit." He started down the next column. "He went."
+"Nothing." Torvin turned the page. He seemed perfectly satisfied about this, as a man is satisfied with a wall he has built that has not fallen down. "Said I don't keep a list of who fights. Said I don't want to see anybody's registration and I don't. Said if he wanted to know about circuit kids, he could go and ask the circuit." He started down the next column. "He went."
 
 "What did he look like?"
 
@@ -42,7 +42,7 @@ Yeni's needle paused for half a stitch, and then went on.
 
 The brothers laughed. Torvin's wife said something about the soup getting cold, and the table went back to its ordinary noise, and after a while Cael picked up his spoon again.
 
-It stayed with him through the rest of the meal: a polite man with boots from somewhere else, standing at the door under the leaning O. From what Torvin had said, he had asked not for a name but for *the circuit kid*, for what he was, the way Vell's book knew him. *Unrated. Fourteen. Vouched.*
+It stayed with him through the rest of the meal: a polite man with boots from somewhere else, standing at the door under the leaning O. From what Torvin had said, he had asked not for a name but for *the circuit kid*, for what he was, as Vell's book knew him. *Unrated. Fourteen. Vouched.*
 
 It sat beside the fish man's nod and the errand boys' half-marks and Marrow's eyes coming up from his slate, and beside Lira on the low wall saying *the boy who's dangerous, and nobody knows why*.
 
@@ -52,7 +52,7 @@ He wrote it down that night anyway, in the front of the Log, in the margin with 
 
 *Torvin: a man asked at the door after "the circuit kid". Polite. Not local, by his boots (Torvin, h). No name asked, none given. Torvin told him nothing.*
 
-He looked at it for a while, and did not know what the ruling was, and left the third column empty.
+He looked at it, and did not know what the ruling was, and left the third column empty.
 
 ---
 
@@ -114,7 +114,7 @@ He could count all three, now, tonight. He could turn to the back of the old not
 
 Hesk would have said that you did not get to choose where a column started, that it started with the first figure, and if you left the first figure out because it frightened you, then every total under it would be wrong.
 
-He knew that, and he sat with it for a long time, and then he decided, with the pencil in his hand, that he would not.
+He knew that, and he sat with it, and then he decided, with the pencil in his hand, that he would not.
 
 Not yet. He would not count the cart, because the cart had been on a road with nobody to see it, and he still could not be sure, not all the way, that it was not his own ears.
 
@@ -136,7 +136,7 @@ Then he sat and looked at the two words, which he had known were not true before
 
 It was not the first. It was the first he was counting, which was a different thing, and he knew exactly how different, and he was doing it anyway.
 
-A column had to start somewhere. He had found that he could not yet make himself start it further back, and he would rather start it here, on purpose, knowing what he had left out, than not start it at all.
+A column had to start somewhere. He could not yet make himself start it further back, and he would rather start it here, on purpose, knowing what he had left out, than not start it at all.
 
 He was not proud of that. He wrote under it anyway.
 
@@ -184,7 +184,7 @@ And under that, smaller:
 
 *It happened in her yard, against her strike. Be careful with that. For her sake.*
 
-He sat there afterward with the Log closed on his knee and found that he had been thinking about ledgers for weeks without noticing it. There was Vell's book, which knew him as what he was and what he had done, without a name.
+He sat there afterward with the Log closed on his knee and saw that he had been thinking about ledgers for weeks without noticing it. There was Vell's book, which knew him as what he was and what he had done, without a name.
 
 There was Marrow's slate, which knew him as a number that moved, *one*, *two*, *three*, *four*, chalked up and wiped off with a sleeve. There was the Log on his knee, which knew him better than either of them and was still full of empty third columns.
 
@@ -198,7 +198,7 @@ He made himself say it plainly, in his head. Not four days; not since he had set
 
 He had told himself all sorts of things about why: that there was no point, because he knew what he would find; that there was no time, between the yard and the mender and the circle; that he had more important things to measure. Each of them had sounded perfectly reasonable while he was saying it.
 
-He knew what the truth was, and had known for some time, and it was the same thing he had been doing with the cart and with Renn.
+He knew what the truth was, and had known for weeks, and it was the same thing he had been doing with the cart and with Renn.
 
 He was afraid of the answer.
 
@@ -242,7 +242,7 @@ Joren had said *it shows up right there, not in your eyes, sort of behind them, 
 
 They were dark.
 
-He opened his eyes and looked to the edge of his sight, left, where it had hung, steady as a nail, for eleven seconds. Then right. Then left again, quickly, the way you turn your head for a sound you are sure you heard.
+He opened his eyes and looked to the edge of his sight, left, where it had hung, steady as a nail, for eleven seconds. Then right. Then left again, quickly, as you turn your head for a sound you are sure you heard.
 
 The pump. The wall. The bar of yellow light. The pear tree.
 
@@ -258,7 +258,7 @@ Eight. Nine.
 
 Somewhere after that he stopped counting.
 
-He noticed the number go, the way you notice a clock stop ticking in another room, and he understood that for him, of all people, that was its own kind of answer, and he stopped reaching.
+He noticed the number go, as you notice a clock stop ticking in another room, and he understood that for him, of all people, that was its own kind of answer, and he stopped reaching.
 
 He stood in the middle of the yard with his hands at his sides.
 
@@ -276,7 +276,7 @@ And he had stood in the circle and been told one word, and then the light had go
 
 He found that he wanted to cry.
 
-He noticed it the way he noticed everything, from a little way off: a tightness at the back of his throat, a heat behind his eyes, his breath gone uneven. He stood very still in the middle of the yard and looked at it.
+He noticed it as he noticed everything, from a little way off: a tightness at the back of his throat, a heat behind his eyes, his breath gone uneven. He stood very still in the middle of the yard and looked at it.
 
 He did not cry. He did not think it would have been wrong to; it would have been a perfectly reasonable thing to do in a dark yard at midnight after finding out that there was nothing there.
 

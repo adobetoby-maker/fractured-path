@@ -132,7 +132,7 @@ He remembered her in the empty training hall after the first sitting, slate face
 
 "After the first sitting you said our job was to get on the record before somebody hostile read it," he said. "Somebody has. What's the job now?"
 
-"After that," said Quenna, "the job is to be right."
+"After that, the job is to be right," said Quenna.
 
 She went back up the stair, and he went on down it alone, one hand on the cold wall.
 

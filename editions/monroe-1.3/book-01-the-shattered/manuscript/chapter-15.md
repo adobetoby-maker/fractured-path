@@ -42,7 +42,7 @@ Lira looked at him with deep and dignified offence.
 
 She did stop. He watched for it for the rest of the morning and it did not come back once, and that night he wrote it in the Log, in the column for evidence, with something very close to admiration. *Told her the tell. She removed it in an hour. Ruling: never tell anybody their tell unless I'm sure I don't need it.*
 
-He looked at the ruling for a while after he had written it, and did not like it much, and left it in, because it was what he had seen.
+He looked at the ruling after he had written it, and did not like it much, and left it in, because it was what he had seen.
 
 ---
 
@@ -98,7 +98,7 @@ Cael sat on the barrel with the Log open on his knee and found he had not writte
 
 "Baro would have had you." She said it without any weight at all. "If that had been Baro, crouched and twisted with his hips open, and you'd stepped in, he'd have been somewhere else before your hand got there, and you'd have been on the ground wondering how. Renn was really open. Baro never is."
 
-Cael thought about that for a long time. "Then how do you tell? Between a real one and bait?"
+Cael thought about that. "Then how do you tell? Between a real one and bait?"
 
 "You fight a great many people, and you get it wrong a great many times, and after a while you get it wrong less." She slid off the barrel. "That's the only way I know. If you find a quicker one, tell me."
 
@@ -108,7 +108,7 @@ He wrote it in the Log that evening, as entry three.
 
 *Claim: every opening he shows is bait. Evidence: four exchanges, two opponents, the left side offered three times and the right foot once; every one taken; every one empty. Ruling: until I can tell bait from a real opening, take only the openings I make myself. Take nothing I'm given.*
 
-He looked at that ruling for some time, because it meant that against anybody good, for a long while yet, he would be taking nothing at all. He left it in. It was what he had seen.
+He looked hard at that ruling, because it meant that against anybody good, for a long while yet, he would be taking nothing at all. He left it in. It was what he had seen.
 
 "Shield," said Lira the next morning, sitting on the low wall at the side of the yard with the bread. "You've seen one?"
 
@@ -166,7 +166,7 @@ Brenna was already on her mark. She did not roll her shoulders or stretch or loo
 
 Brenna was ready before Vell had finished the word.
 
-The air in front of her left forearm thickened. He saw it happen. It was exactly as Lira had said, a shine in the lamplight, a little wider than her shoulders, standing a hand's breadth off her arm like the side of a bucket of water stood on end. Through it her face wobbled slightly, the way a face wobbles through old window glass. Then she came at him.
+The air in front of her left forearm thickened. He saw it happen. It was exactly as Lira had said, a shine in the lamplight, a little wider than her shoulders, standing a hand's breadth off her arm like the side of a bucket of water stood on end. Through it her face wobbled slightly, like a face seen through old window glass. Then she came at him.
 
 She did not amble, as Renn had. She did not probe. She walked the shield straight at his face and kept walking, and the first exchange was over almost before he understood that it had begun.
 
@@ -344,7 +344,7 @@ That night, at the end of the cot, with the brothers asleep and the wheezing man
 
 He read it through. Then he closed the front of the book, because the front was finished for the day, and opened it from the back.
 
-He sat with the pencil for a while. It was harder to write in the back, where there were no columns to hold the words up.
+He sat over the page with the pencil. It was harder to write in the back, where there were no columns to hold the words up.
 
 *Four exchanges I let her think I was running. I wasn't running. I was watching. But she didn't know that, and she got angry because of it, and that was how I learned the thing about anger.*
 
@@ -358,4 +358,4 @@ He stopped. He thought about the fifth exchange, and the moment he had decided, 
 
 He closed the book and put it under his pillow and lay on his back, feeling his forearm ache, and his ribs, and the new bruise across his chest where the edge of the shield had collected him. Five exchanges, one more than Renn.
 
-He had lost again, and he wrote that down too, in his head, where the Log could not see it, and found that it weighed less than he had expected it to, and did not yet know whether that was good.
+He had lost again, and he wrote that down too, in his head, where the Log could not see it, and it weighed less than he had expected it to, and he did not yet know whether that was good.

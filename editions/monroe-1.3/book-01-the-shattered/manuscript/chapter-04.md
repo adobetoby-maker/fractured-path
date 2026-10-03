@@ -14,7 +14,7 @@ From the brick lip on the southern edge, if you leaned out a little, you could s
 
 He sat on the roof with his notebook on his knee and watched Joren wait, and tried several times to work out what he would say if he went down. *Hello. I got [SHATTERED]. It means I have to leave. No, I don't know where. No, I don't know what it does. Show me how to fall down properly.*
 
-Every version he built fell apart under its own weight before it reached the end. The word was surely all over the quadrant by now, but he did not know whether Joren had heard it, and he found that he could not stand the thought of watching Joren's face find out.
+Every version he built fell apart under its own weight before it reached the end. The word was surely all over the quadrant by now, but he did not know whether Joren had heard it, and he could not stand the thought of watching Joren's face find out.
 
 So he did not go down.
 
@@ -30,13 +30,13 @@ It came with a courier wearing the city administration's grey and brass, who kno
 
 Over Hesk's shoulder the courier's eyes found Cael at the table and stayed for half a second before they slid away, with the look you give a thing you have been told about and do not know how to look at directly. When he left, his boots on the front step going down were quieter than they had been coming up.
 
-Hesk brought the document into the kitchen and set it in the middle of the table, between the bread and the teapot, and stood looking down at it the way he looked at a block of brass stock before deciding where the first cut went.
+Hesk brought the document into the kitchen and set it in the middle of the table, between the bread and the teapot, and stood looking down at it as he looked at a block of brass stock before deciding where the first cut went.
 
 "It's addressed to you," he said. "You read it."
 
 The seal was dark wax pressed with the Compact's mark, a hand holding a balance, so cleanly that a machine must have done it. Cael thought, for no good reason, of the brass plate on Pellin's desk, and all that care poured into the outside of things. He broke the seal and unfolded the paper.
 
-The language was official in the way official language works, holding its own meaning at arm's length in long sentences and passive verbs, so that everything was true and nothing was felt. He read it twice, because the first time had been like reading through water.
+The language was official, holding its own meaning at arm's length in long sentences and passive verbs, so that everything was true and nothing was felt. He read it twice, because the first time had been like reading through water.
 
 *By authority of the Denvash City Administration, acting under Compact Registry Statute 14, Section 9 (Non-Standard Classification, Residential Provisions):*
 
@@ -130,13 +130,13 @@ The entry here was not four lines but several paragraphs, in the same tight, car
 
 He read the last paragraph again, and then a third time, because it was doing something he needed time to take in.
 
-He had known the number four the way you know a fact you read once and set on a shelf, and until this moment he had never turned it into people. Now he did. Four people with names, who had each stepped out of a circle somewhere and heard what he had heard, and three of them had been dead within weeks. One was not accounted for.
+He had known the number four as you know a fact you read once and set on a shelf, and until this moment he had never turned it into people. Now he did. Four people with names, who had each stepped out of a circle somewhere and heard what he had heard, and three of them had been dead within weeks. One was not accounted for.
 
 This was not a rule or a caution. It was an account of what had really become of every other person who had ever stood where he had stood, feet in a worn circle, counting.
 
 *Practice-related incident.*
 
-He looked at the phrase for a long time, because it was doing a great deal of work. It could mean that they had died trying to use something they did not understand, or it could mean that someone had made sure of it, and he did not have the information to know which. What he suspected, without any evidence yet, was that the person who wrote it down had cared which one was believed, and that this was the only part of the sentence he could trust.
+He looked at the phrase again, because it was doing a great deal of work. It could mean that they had died trying to use something they did not understand, or it could mean that someone had made sure of it, and he did not have the information to know which. What he suspected, without any evidence yet, was that the person who wrote it down had cared which one was believed, and that this was the only part of the sentence he could trust.
 
 He took out his notebook and copied the entry word for word, the subheading too, in handwriting far tidier than the job needed, and he knew what that gave away. Then he sat with the green volume closed under his hands and did not read anything. He thought about the clerk at the front, young and briefly sorry before she caught herself.
 
@@ -210,7 +210,7 @@ He held each notebook before he put it in the bag. The first was three years old
 
 The third was the current one, with eleven descriptions of Kindling and two stars and a Stone Path declaration in Joren's round hand near the back. Folded into its back pages was a copy of a registry entry about four people he had never met and was never going to stop thinking about. Into the bag they went in order, the oldest underneath, as you stack a thing you mean to keep adding to.
 
-Then he sat on the bed with a single loose page from the back of the current notebook and wrote to Joren. It took a long time, and he tore up two versions before he kept the third, which was short.
+Then he sat on the bed with a single loose page from the back of the current notebook and wrote to Joren. It was slow work, and he tore up two versions before he kept the third, which was short.
 
 *Joren —*
 
@@ -256,6 +256,6 @@ Hesk's voice caught on the second word, very slightly, and he covered it by gett
 
 "Long walk tomorrow," he said, to the window. "Get some sleep."
 
-He went out and left the door open a hand's width, the way he had left it when Cael was small and afraid of the dark, which he had not been for years.
+He went out and left the door open a hand's width, as he had left it when Cael was small and afraid of the dark, which he had not been for years.
 
 Cael did not close it.

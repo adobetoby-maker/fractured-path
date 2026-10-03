@@ -8,7 +8,7 @@ Cael came down the second row with the bread under his arm and his left hand in 
 
 He liked the slow mornings. On the busy ones the market was all noise, and you could learn nothing from noise except that it was there. On the slow ones you could see how the place was put together.
 
-He had a month of it in his head by now, laid down the way he laid down everything, in order and by the hour. The bearded fish cousin set out his board first and packed it away first, and was gone by the time the haze lifted most days. The bread woman at the top of the second row put yesterday's loaves under this morning's, and gave him two from underneath now without being asked, and without the sour look. The nut boy's sister lit the charcoal under the drum, and the nut boy ate an apple on an upturned crate until the first customer came, and then threw the core over the awning into the next row without looking where it went. The fruit woman by the steps, whose name nobody had ever been told, sat behind her baskets with her hands in her lap and waited to be pointed at.
+He had a month of it in his head by now, laid down as he laid down everything, in order and by the hour. The bearded fish cousin set out his board first and packed it away first, and was gone by the time the haze lifted most days. The bread woman at the top of the second row put yesterday's loaves under this morning's, and gave him two from underneath now without being asked, and without the sour look. The nut boy's sister lit the charcoal under the drum, and the nut boy ate an apple on an upturned crate until the first customer came, and then threw the core over the awning into the next row without looking where it went. The fruit woman by the steps, whose name nobody had ever been told, sat behind her baskets with her hands in her lap and waited to be pointed at.
 
 He knew the two errand boys, too, the one in the red cap and the one with the brother in the carters', who ran messages and small parcels up from the river to the yards and down again all day at a dead sprint, shouting insults at each other across whatever street they happened to be crossing. They had half a mark each riding on him, according to Lira, and he tried not to think about that.
 
@@ -20,7 +20,7 @@ The pie man two stalls along had stopped calling his prices. He was still standi
 
 A woman with a basket took her change from the bread woman and left with it still in her open hand, quickly, as though she had remembered a pot on the fire. A little girl who had been sent across the row for something came halfway back with it before her mother called her name, once, sharply, and the girl stopped and looked round to see what she had done wrong, and found nothing, and came on more slowly.
 
-None of it would have meant anything to somebody who had come down the row for the first time this morning. For somebody who had come down it every morning for a month, it was like hearing a familiar clock miss a tick in the next room.
+None of it would have meant anything to somebody who had come down the row for the first time this morning. For somebody who had come down it every morning for a month, it was as plain as a wrong figure in a column added twice.
 
 He looked where the pie man was looking.
 
@@ -52,7 +52,7 @@ It was the same thing he did in the circle, he realised, and it steadied him a l
 
 The man was not hunting. That was the next thing he saw, and he made himself see it carefully, because it was the kind of thing a frightened person could get wrong in either direction.
 
-A hunting man looked at faces. This man looked at stalls. He stopped where a stall had been there a long time, and where there was somebody behind it who would know things, and he did not ask anybody to show him a card. Nobody was stopped. Nobody was taken by the arm. He moved through the market the way the mender moved a straightedge along a frame, slowly and from one end to the other, looking for the place where it was not true.
+A hunting man looked at faces. This man looked at stalls. He stopped where a stall had stood for years, and where there was somebody behind it who would know things, and he did not ask anybody to show him a card. Nobody was stopped. Nobody was taken by the arm. He moved through the market the way the mender moved a straightedge along a frame, slowly and from one end to the other, looking for the place where it was not true.
 
 At the nut stall, he stopped.
 
@@ -74,7 +74,7 @@ At the top of the row the woman with the basket of eggs, who sold from a blanket
 
 Cael did not look at him. He looked at the egg woman's blanket, settling, and at the street ahead.
 
-He saw the man anyway, the way you see something at the edge of a lamp. The grey coat was good cloth and had been mended at one elbow by somebody who knew how. The book was small, black, with a strap round it. The boots were dark and dry and ordinary. Cael looked at them, because Torvin had said *not from round here, by his boots*, and he could not tell anything from them at all. They could have been anybody's.
+He saw the man anyway, at the edge of his eye. The grey coat was good cloth and had been mended at one elbow by somebody who knew how. The book was small, black, with a strap round it. The boots were dark and dry and ordinary. Cael looked at them, because Torvin had said *not from round here, by his boots*, and he could not tell anything from them at all. They could have been anybody's.
 
 The man did not look at him either. He did not seem to look at anything in particular. He walked across the top of the market and down the short street toward the river, toward the lower bridge and the squat brown building that stood at the head of the fish steps.
 
@@ -88,7 +88,7 @@ Cael went on walking.
 
 He did not go back to Torvin's.
 
-He had meant to, and his feet had the way home in them, two lanes up and one across, but when he reached the corner where he should have turned he went straight on instead, down toward the river. He did not decide it all at once. It decided itself one step at a time, the way the long way round decides itself when you are tired and do not want to be seen going in at your own door.
+He had meant to, and his feet had the way home in them, two lanes up and one across, but when he reached the corner where he should have turned he went straight on instead, down toward the river. He did not decide it all at once. It decided itself one step at a time, as the long way round decides itself when you are tired and do not want to be seen going in at your own door.
 
 If there was one man, there might be two. If there were two, the second would be the one that mattered, because the first had been walking in a grey coat with a pin on it and a book in his hand, where the whole market could see him. Nobody who meant to find a particular boy would do it like that.
 
@@ -130,7 +130,7 @@ One man, one route, one morning.
 
 He stood there with the bread going stale under his arm and turned that over. It was not a manhunt, and it was not a man looking for a face. It was smaller than either. It was a man in a good coat walking a market slowly, from one end to the other, and writing in a book, and going into the only building in the district that belonged to the people who had stamped one word on his card.
 
-He found that it frightened him more than a manhunt would have. A manhunt you could at least understand. This could mean anything, or nothing, and he had no way yet of knowing which.
+It frightened him more than a manhunt would have. A manhunt you could at least understand. This could mean anything, or nothing, and he had no way yet of knowing which.
 
 ---
 
@@ -138,11 +138,11 @@ He wrote it down as soon as he was alone, on the low wall by the pump in Torvin'
 
 He wrote it in the front of the Log, because it was a thing that had happened and not a thing he was afraid of, and he wanted it to stay that way. There were no columns for it. He wrote it in the margin with the other facts that would not go in columns, under the fish man's nod and the polite man at Torvin's door.
 
-*Thirty-sixth day, morning. Market, a slow day, haze. A man in a grey coat, Compact pin on the lapel (the hand and the balance), a small black book with a strap. Middle height. Walked the fish stalls and then the third row, one stall at a time, unhurried. Stopped at stalls that have been there a long time. Spoke a word or two. Wrote. Asked nobody for a card. Stopped nobody. Did not look at faces. Did not look at me. Went into the post at the head of the fish steps. One man. I went the long way round and saw no second one.*
+*Thirty-sixth day, morning. Market, a slow day, haze. A man in a grey coat, Compact pin on the lapel (the hand and the balance), a small black book with a strap. Middle height. Walked the fish stalls and then the third row, one stall at a time, unhurried. Stopped at the old stalls. Spoke a word or two. Wrote. Asked nobody for a card. Stopped nobody. Did not look at faces. Did not look at me. Went into the post at the head of the fish steps. One man. I went the long way round and saw no second one.*
 
 He read it back. It was all true, and he had seen all of it himself, and there was no *h* anywhere in it.
 
-Then he sat with the pencil and found that he wanted to write the next thing, and did not know what the next thing was.
+Then he sat with the pencil. He wanted to write the next thing, and did not know what the next thing was.
 
 His hands were still not quite steady, so he did what Hesk would have done, and gave them something to do. He took the pears out of his pocket and ate one, slowly. Then he took the bread out from under his arm and looked at it, and found that he had been holding it so hard all the way round the long way that he had crushed the top of the loaf flat.
 
@@ -198,7 +198,7 @@ He asked the woman who kept the chalk board at the bottom of the lane with the y
 
 He asked them about the pin.
 
-He never asked anybody twice, and he never asked in a way that made the asking itself a thing to remember. Everybody's answer came out much the same, the way Torvin's had. Somebody's aunt had seen one, two summers ago. Somebody else remembered one the winter before last. Pins came through the district now and then, not often, and walked about, and went away again, and nothing much came of it.
+He never asked anybody twice, and he never asked in a way that made the asking itself a thing to remember. Everybody's answer came out much the same as Torvin's had. Somebody's aunt had seen one, two summers ago. Somebody else remembered one the winter before last. Pins came through the district now and then, not often, and walked about, and went away again, and nothing much came of it.
 
 "Was it a big one?" said the girl on the wall. "With the dogs?"
 
@@ -216,7 +216,7 @@ The old man's pale eyes came round to Cael at the gate, and went to the left han
 
 "Afternoon."
 
-"Afternoon," said Cael. He had his question ready. He had asked it six times that afternoon, smoothly, without weight. Standing in front of this gate he found that he did not want to ask it smoothly. "There was a man with a Compact pin walking the market this morning. Does that happen often? Up here, I mean. Do people notice?"
+"Afternoon," said Cael. He had his question ready. He had asked it six times that afternoon, smoothly, without weight. Standing in front of this gate, he did not want to ask it smoothly. "There was a man with a Compact pin walking the market this morning. Does that happen often? Up here, I mean. Do people notice?"
 
 The old man did not answer at once. He watched the woman in the middle of the yard finish her sixth position and go back to the first.
 
@@ -232,7 +232,7 @@ Cael stood at the gate.
 
 "Thank you."
 
-"I'm not being kind. I'm telling you where to look." The stillness came down over him again, like a lid, and Cael understood that he had been given everything he was going to be given.
+"I'm not being kind. I'm telling you where to look." He settled back into his stance, and Cael understood that he had been given everything he was going to be given.
 
 He walked back down the lane slowly. The flat smack of hands on canvas came over the walls on either side, and somewhere a woman was laughing at somebody who had fallen over, and the haze had burned off at last and left the afternoon thin and bright and cold.
 

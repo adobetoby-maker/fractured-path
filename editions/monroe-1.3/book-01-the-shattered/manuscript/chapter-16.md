@@ -158,7 +158,7 @@ He told him about the shoulder and the ribs, because Hesk would want the truth a
 
 He did not tell him about the third exchange.
 
-He held the pencil over the page for a long time before he decided that, and he made himself say the reasons one at a time in his head, the way you call a load figure.
+He did not decide that quickly, and he made himself say the reasons one at a time in his head, the way you call a load figure.
 
 It would be a week getting there, and Hesk would read it at the kitchen table with nothing he could do about it except sit with it for another week, waiting for the next letter. And there was nothing to tell, because he did not know what had happened; he had a claim and no evidence and no ruling.
 
@@ -176,9 +176,9 @@ Then he signed it, and folded it, and put it inside the leather book to keep it 
 
 ---
 
-Amrit Sole was the next night's third bout. Vell had told him so on the morning after Brenna, without looking up from the ledger. *Copper Rank 4, Ember Path. He won't chase you round the circle. He won't need to.*
+Amrit Sole was the next night's third bout. Vell had told him so on the morning after Brenna, over the ledger. *Copper Rank 4, Ember Path. He won't chase you round the circle. He won't need to.*
 
-He was older than Brenna, older than Renn, a heavy-shouldered man somewhere near forty with a shaved head and a short grey beard, and forearms that were shiny and hairless in patches, the way a baker's forearms go after years of reaching into ovens.
+He was older than Brenna, older than Renn, a heavy-shouldered man somewhere near forty with a shaved head and a short grey beard, and forearms that were shiny and hairless in patches, like a baker's after years of reaching into ovens.
 
 He sat on an upturned crate by the wall through the first two bouts and drank water and spoke to nobody. When a boy tripped over his outstretched boots on the way to the pie tray, he caught the boy by the collar before he fell, set him on his feet, and gave him back the coin he had dropped.
 
@@ -288,9 +288,9 @@ Amrit stopped. The shimmer in front of his hands wavered once and went out, like
 
 ---
 
-The yard did not applaud him the way it had applauded the Stone woman, and he had not expected it to. But there was some clapping here and there along the rope, not loud and mostly from the shaded side. One of the people clapping was a girl on a barrel by the drain who did not stop until he had walked all the way to the table.
+The yard did not applaud him as it had applauded the Stone woman, and he had not expected it to. But there was some clapping here and there along the rope, not loud and mostly from the shaded side. One of the people clapping was a girl on a barrel by the drain who did not stop until he had walked all the way to the table.
 
-Vell wrote for a long time, then blotted it and looked up at him, and her eyes went to his forearm, which had come up red and shiny from the wrist halfway to the elbow, over the old scrape, and then back to his face.
+Vell wrote a good deal, then blotted it and looked up at him, and her eyes went to his forearm, which had come up red and shiny from the wrist halfway to the elbow, over the old scrape, and then back to his face.
 
 "Six," she said. Then, after a moment, in exactly the same voice: "That was the right breath. A breath later and you'd have been at a healer's in the morning."
 
@@ -320,7 +320,7 @@ Lira did not walk him home that night. She had a bout of her own to see across t
 
 *Claim: when I was sure, I stopped watching anything but his hands. Evidence: third exchange. He saw me do it. Ruling: being sure is a tell.*
 
-He looked at the last one for a long time. Then he closed the front of the book and turned it over and opened the back.
+He looked at the last one. Then he closed the front of the book and turned it over and opened the back.
 
 *I chose to lose tonight.*
 

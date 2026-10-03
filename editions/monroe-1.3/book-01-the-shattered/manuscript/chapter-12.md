@@ -8,7 +8,7 @@ Lira was waiting for him at the board in the morning, sitting on the edge of a w
 
 "I'm always early. I just make it look like I happened to be passing." She threw the core over her shoulder into the trough without looking, where it bobbed, and stood up. "Come on. Vell sets her table out at ten, and the first one there gets her before she's tired of people."
 
-They walked up toward the yards side by side through a grey, cool morning, under a thin high cloud that took the colour out of everything, and the district was busy in the ordinary way of a weekday, carts and barrows and the smell of bread. Cael let two streets go by. He had settled in the night what he was going to say, and how, but walking now he found that every version he had built in the dark came out as an accusation or an apology, and he meant neither.
+They walked up toward the yards side by side through a grey, cool morning, under a thin high cloud that took the colour out of everything, and the district was busy in the ordinary way of a weekday, carts and barrows and the smell of bread. Cael let two streets go by. He had settled in the night what he was going to say, and how, but walking now every version he had built in the dark came out as an accusation or an apology, and he meant neither.
 
 He said it anyway, plainly, at the corner where the lane started to climb.
 
@@ -138,7 +138,7 @@ Lira opened her mouth and then, to Cael's surprise, shut it again and thought. H
 
 Vell held her eyes a breath longer. Then she dipped the pen and wrote a line beneath whatever it was she had put down for him. It was short, and he could not read it upside down.
 
-"There's a Blade called Renn who keeps at me for work," Vell said, still writing. "Copper Rank 3. This season he's had eleven bouts and lost three of them. For an unrated debut tonight, he's what I have. Anybody easier isn't fighting, and nobody who's fighting is easier." She did not look up. "He'll not go gentle on you for your age. That's not how this yard works, and you'd not thank me if it were. Somebody goes soft on you the first time, you learn something about this place that isn't so, and you pay for it later."
+"There's a Blade called Renn who keeps at me for work," Vell said, still writing. "Copper Rank 3. This season he's had eleven bouts and lost three of them. For an unrated debut tonight, he's what I have. Anybody easier isn't fighting, and nobody who's fighting is easier. He'll not go gentle on you for your age. That's not how this yard works, and you'd not thank me if it were. Somebody goes soft on you the first time, you learn something about this place that isn't so, and you pay for it later."
 
 Cael thought of the card in the corner of the board, near the lost boot: *Renn (Cu 3, Blade) wants work. Any evening. Cinder House.* He thought of Lira in her second month, going down to Renn while Marrow collected.
 
@@ -188,7 +188,7 @@ Lira considered that seriously, which he had not expected.
 
 He did not say anything for a moment, because he was thinking about a page in a leather book, in Hesk's hand, which he had read three times on a wall by the merchant road with crumbs on his knees. The fifth entry. It said that fear could be a tool, so long as it kept you looking, and that the only kind worth worrying about was the kind that closed your eyes. Lira had never seen that page or heard of Hesk. She had arrived at the same place by a different road, through four lost bouts in a yard in Ardenmere, and she had said it to him on a cooper's roof in almost the same words.
 
-He found that this steadied him more than anything she had said all morning. Two people who had never met, and who had learned it in two different ways, had told him the same thing, and that made it a figure he could trace.
+This steadied him more than anything she had said all morning. Two people who had never met, and who had learned it in two different ways, had told him the same thing, and that made it a figure he could trace.
 
 "Thank you," he said.
 
@@ -218,7 +218,7 @@ He did not watch the first three bouts; he watched Renn.
 
 Renn was on the far side of the yard, by the wall, with two friends, and for most of the evening he did not do anything at all. He stood with his weight on one leg and his arms folded and watched the bouts with mild interest, and talked to his friends between them, and laughed twice, a man of twenty or close to it.
 
-He was built heavily through the chest and shoulders, not tall, and he stood the way men stand who have carried heavy things for a living, with his knees a little soft and his back straight. When he walked to the water bucket and back, his stride was short and even, each foot set down as though he meant to stand on it a while.
+He was built heavily through the chest and shoulders, not tall, and he stood like a man who had carried heavy things for a living, with his knees a little soft and his back straight. When he walked to the water bucket and back, his stride was short and even, each foot set down as though he meant to stand on it a while.
 
 Once, while the third bout was being called, he looked across the yard and caught Cael looking at him. He nodded, the nod you give somebody across a market, not unfriendly and not especially interested, and then he went back to talking to his friends.
 
@@ -238,7 +238,7 @@ Cael stepped over the rope.
 
 The groove was a hand deep and he felt it under his boot as he crossed it, a dip and then level ground. Inside the circle the dirt had been swept and watered, and it was firmer than it looked, packed down by years of feet into something nearly as hard as a floor. The lamplight was very bright in the middle, brighter than it had looked from the barrel, and he walked to the near side of the circle, stopped just inside the groove, and turned round.
 
-Renn was already waiting on the far mark, rolling one shoulder and then the other, slowly, the way a man loosens up before he lifts something.
+Renn was on the far mark before him, working each shoulder round in turn, unhurried.
 
 From the cooper's roof, Lira's voice came back to him in its own clipped rhythm. *Add the eight inches. Out loud, in your head. First exchange, you look. Give him ground. Look.*
 
@@ -354,7 +354,7 @@ The first fold Cael saw whole, heel and strike, and he moved for it, late.
 
 He saw the second fold partly.
 
-And he reached, the way you reach in the dark for a stair you were sure was there, for the thing that had moved his feet in the third exchange. He did not decide to reach. He was simply reaching, feeling about for it like a man patting his pockets for a key he had been holding a moment before.
+And then, though he had not decided to, he was reaching for the thing that had moved his feet in the third exchange, feeling about for it like a man patting his pockets for a key he had been holding a moment before.
 
 There was nothing there. There were only his own plain reflexes, the ones that had been late all evening, and they were late again, and they had nothing to spare.
 

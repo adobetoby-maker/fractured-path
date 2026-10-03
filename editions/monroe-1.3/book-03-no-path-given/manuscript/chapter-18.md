@@ -232,9 +232,9 @@ Brom lowered himself onto the boards opposite with care; his own left wrist stil
 
 "I know. I want it to wake the way it's used to waking. Quietly. So I can tell it no."
 
-Brom looked at him for a moment, and then set his left palm on Cael's forearm without any further argument. Iron Skin came up under the skin like frost forming on a pane, and he leaned.
+Brom looked at him for a moment, and then set his left palm on Cael's forearm without any further argument. Iron Skin came up under the skin, and he leaned.
 
-They did ten. Each time Cael waited for the force to settle into the bone and chose the road before the fragment could choose one, out and back along the line it came in, a quarter's width and no wider. He did not let himself imagine the channel any broader than that. Five of the ten caught. Each of the five went home into Brom's wrist with the small solid knock of a door shutting in another room. Each one cost exactly what the quarter had always cost, the hot bar across the collarbones and two breaths he could not take, and none of them went into a joint.
+They did ten. Each time Cael waited for the force to settle into the bone and chose the road before the fragment could choose one, out and back along the line it came in, a quarter's width and no wider. He did not let himself imagine the channel any broader than that. Five of the ten caught. Each of the five went home into Brom's wrist with the small solid knock he knew by now. Each one cost exactly what the quarter had always cost, the hot bar across the collarbones and two breaths he could not take, and none of them went into a joint.
 
 On the sixth try he did something new, and he did it on purpose.
 
@@ -254,7 +254,7 @@ Brom eased off and looked at him.
 
 "Because on the eighth I'll have to have it and not use it. In front of everybody. I've only done it once in my life when it counted, and that was half by surprise. I wanted to do it when I'd decided to."
 
-Brom sat back against the leg of his desk and looked at him for a long while, and then he made the low sound in his chest that did him for a laugh.
+Brom sat back against the leg of his desk and looked at him for a long while, and then he laughed, low.
 
 "Most people practise catching. You're practising dropping."
 

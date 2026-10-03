@@ -22,7 +22,7 @@ Wray did not break the count this time. Instead, on the third pass, she raised t
 
 The surface read went as it had before. Four calls, the last with his eyes closed, every one of them right. When he named the fourth, Hobb's weight going forward onto the ball of his left foot, Hobb did not huff this time. He only nodded very slightly, as if confirming something he had decided a month ago, and waited for his next instruction.
 
-The panel went to the far wall and talked for less time than last month. When they came back, Quenna glanced to her left, and Wray spoke as if reading the line off a gauge.
+The panel went to the far wall and talked for less time than last month. When they came back, Quenna glanced to her left, and Wray spoke.
 
 "As previously recorded. No safety concerns."
 

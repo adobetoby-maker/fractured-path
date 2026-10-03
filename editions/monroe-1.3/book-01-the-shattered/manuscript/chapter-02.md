@@ -36,7 +36,7 @@ Hesk made a small noise in his throat. He had at least four, and Cael had grown 
 
 "Hesk."
 
-The old man stopped and watched the dog for a while. When he went on, his voice had dropped. "—we'll figure it out."
+Hesk broke off to watch the dog trot over the crossing. When he went on, his voice had dropped. "—we'll figure it out."
 
 He kept his eyes on the street, either to give Cael room or out of plain care, and with Hesk those usually came to the same place.
 
@@ -60,7 +60,7 @@ He did not know what a provision was, in that sense. He turned the book face up 
 
 The dog came back across the crossing the other way, slower now, as if it had forgotten what it went out for. Cael watched it rather than his grandfather.
 
-"You should have told me." He was not angry. It was only true, the way a measurement is true.
+"You should have told me." He was not angry. It was only true, as a measurement is true.
 
 "I had a feeling, not a fact. You don't hand somebody a feeling."
 
@@ -92,11 +92,11 @@ Hesk looked down into his cup with the face of a man let down by an old friend. 
 
 "I did." He made no move to fetch more, only got up, knees cracking. "Come down when you're ready. I'll see about supper."
 
-He went down the ladder, and the hatch settled shut over him. Cael stayed where he was. He was being let off having to look ready, and he knew it, and he was grateful in the way you can only be grateful to someone who will never make you say so.
+He went down the ladder, and the hatch settled shut over him. Cael stayed where he was. He was being let off having to look ready, and he knew it, and he was grateful as you can only be grateful to someone who will never make you say so.
 
 ---
 
-Dinner was rice and the last of the week's leftovers. Hesk had kept house alone for years before Cael came, and he still cooked a meal the way he would solve a problem, so it was always adequate, and tonight Cael barely tasted it.
+Dinner was rice and the last of the week's leftovers. Hesk had kept house alone for years before Cael came, and he still cooked a meal as he would solve a problem, so it was always adequate, and tonight Cael barely tasted it.
 
 Hesk put the radio on, the small brown set on the shelf by the stove, with its cracked dial and the one knob that only worked if you pressed it in while you turned it. Most evenings it gave them the weekly Path athletics programme from the regional service. Tonight two men with large voices were discussing the sanctioned regional season at length, with strong opinions and no power to change anything.
 
@@ -242,7 +242,7 @@ Cael sat back while on the screen the two figures stood at their marks again, br
 
 "The third exchange," said Hesk, "is where they tell you the truth."
 
-The third exchange began. The man came forward with the same pressure as before, his hips square and his feet rolling heel to flat, heel to flat. Cael could feel him getting ready to commit, the way you can feel a stair under your foot in the dark.
+The third exchange began. The man came forward with the same pressure as before, his hips square and his feet rolling heel to flat, heel to flat. Cael could feel him getting ready to commit.
 
 "There," Cael said. "There, he's going to—"
 
@@ -344,7 +344,7 @@ He listened for what. Nothing in the house owned up to it. Hesk's reading lamp h
 
 Tomorrow the Arbiter would wake in him, and nobody could tell you beforehand what that was like; the people it had come to could only describe it from the far side. A door opening. Sunlight. Brief. Heavy. Like remembering something you never knew. Eleven of those were on page seven, and the starred one, Hesk's, said only that he could not say.
 
-His mind went down the day without his asking it to, the way it would run a column of figures to see whether they summed. Alis on the step at Weaver's Row, folding her certificate in half and pressing it flat again. Joren on his back in the grit, laughing up at the sky until he wasn't. The woman on the grey sheet, dropping under a strike that never came, rising into a forearm, touching her fist to her chest. And Hesk: at the record office asking about provisions; a man who had seen this once, long ago; a man who had sat in a folding chair in the dark every Tuesday for years, learning how a body moves when there is a Path in it, and never once said why.
+His mind went down the day without his asking it to, as it would run a column of figures to see whether they summed. Alis on the step at Weaver's Row, folding her certificate in half and pressing it flat again. Joren on his back in the grit, laughing up at the sky until he wasn't. The woman on the grey sheet, dropping under a strike that never came, rising into a forearm, touching her fist to her chest. And Hesk: at the record office asking about provisions; a man who had seen this once, long ago; a man who had sat in a folding chair in the dark every Tuesday for years, learning how a body moves when there is a Path in it, and never once said why.
 
 *I know how it started. I don't know how it ended.*
 

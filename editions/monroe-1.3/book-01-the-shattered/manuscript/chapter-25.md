@@ -24,7 +24,7 @@ They had stopped the box drill early. She had not given him a report that mornin
 
 "No."
 
-Lira walked round him once, slowly, in the grey half, the way she walked round the post before she struck it.
+Lira walked round him once, slowly, in the grey half.
 
 "And if she goes low instead? If she sweeps before you've done anything?"
 
@@ -40,7 +40,7 @@ All through the strikes at the post he kept turning it.
 
 Lira had had him at the post every morning for the two weeks, after the box drill and before the bread. She had given him one strike, only one, short and straight from the hip, with the back foot driving and the shoulder following and the fist arriving last, a hundred times a morning. It was the first thing she had ever taught him that was for hitting somebody rather than for not being hit. She had said, on the first morning of it, that if he was going to have one strike he had better have it properly, and that one strike he owned was worth ten he had seen.
 
-He had it properly now. He could feel it in the morning when he woke, in his back foot and his hip, the way he could feel the box drill.
+He had it properly now. He could feel it in the morning when he woke, in his back foot and his hip, as he could feel the box drill.
 
 "What is she waiting for?" he said, between strikes.
 
@@ -48,7 +48,7 @@ Lira looked at him.
 
 "I wrote it at the bottom of the fourth page. She waits better than anybody I've seen. I don't think she does it to win. I think she decided to be like that first and the winning came after." He struck the post. "If I knew what she was waiting for, I'd know more about her guard than any number of feints will tell me."
 
-Lira did not answer for a while. She took the bread off the top of the post and tore it, and gave him the larger half.
+Lira did not answer at once. She took the bread off the top of the post and tore it, and gave him the larger half.
 
 "Everybody's waiting for something," she said at last. "Most people don't know what. I'm not sure she does." She ate. "But that's a better question than anything else in your four pages. Keep hold of it."
 
@@ -56,7 +56,7 @@ Lira did not answer for a while. She took the bread off the top of the post and 
 
 The yard was full by the time the lanterns were lit, and the benches were out though it was a Thursday, because the public house knew a full yard when it saw one coming.
 
-He came early, the way he came everywhere, and stood by the water bucket in the corner by the drain and made himself look at things.
+He came early, as he came everywhere, and stood by the water bucket in the corner by the drain and made himself look at things.
 
 The rope was three deep on the shaded side and two deep in the sun, though there was no sun, only lanterns and the cold coming down out of a clear sky. The benches were full to the third row. There were faces he knew in all of them now, and that was a new thing, and he looked at it as carefully as he had looked at anything.
 
@@ -84,9 +84,9 @@ Her eyes never once went to the rope or the benches. She came straight to where 
 
 "Then say them."
 
-So he said them, to her face, the way he had said them to Vell on the first morning, in his own words and his own order, slowly, checking each one before he set it down. Unrated. He fought who Vell put across from him. It ended when Vell called it, and not before, and not for any other reason. Nobody stopped it but Vell. What happened in it was his to carry, whichever way it went. Nobody was making him.
+So he said them, to her face, as he had said them to Vell on the first morning, in his own words and his own order, slowly, checking each one before he set it down. Unrated. He fought who Vell put across from him. It ended when Vell called it, and not before, and not for any other reason. Nobody stopped it but Vell. What happened in it was his to carry, whichever way it went. Nobody was making him.
 
-Dessa listened to all of it without moving. When he had finished she looked at him for a breath longer, the way he had seen her look at the Fenrow man's feet.
+Dessa listened to all of it without moving. When he had finished she looked at him for a breath longer, as he had seen her look at the Fenrow man's feet.
 
 "Third row," she said. "Both Sundays. I saw you."
 
@@ -242,7 +242,7 @@ His lead foot planted, and the whole of him turned on it, low, into the closing 
 
 No thought went into it. Hardly any of him went into it.
 
-It came the way a word comes when somebody says the first half of a sentence and you know the rest before they finish, in a voice you cannot place. And it had come once before, on a grey morning in this same yard, with Lira's backhand going over the back of his head and nobody watching but the crows.
+It came as a word comes when somebody says the first half of a sentence and you know the rest before they finish, in a voice you cannot place. And it had come once before, on a grey morning in this same yard, with Lira's backhand going over the back of his head and nobody watching but the crows.
 
 He came out of it inside her frame.
 
@@ -266,13 +266,13 @@ It reached him in pieces. A shout from the benches, a groan from the rope, coins
 
 He did not know what to do with any of that, so he did the one thing he did know, and crossed the circle to her.
 
-Dessa was up already. She stood working her thumb along the line of her jaw, feeling the hinge under the ear the way a joiner runs a thumb along somebody else's seam to see whether it will hold. When the woman from the water bucket came toward her with a cup, she waved it away without looking.
+Dessa was up already. She had a thumb pressed under one ear and was opening and shutting her mouth, testing the hinge of her jaw one slow bite at a time. When the woman from the water bucket came toward her with a cup, she waved it away without looking.
 
 "Both Sundays," she said. "Third row. A book on your knee." She did not make it a question. "That window was measured. And you'd left my line before the sweep came, so you'd counted that as well."
 
 "Yes."
 
-"There'll be people tell you it was luck." She moved her jaw left and then right, once, and let it be, as if she had decided it would keep. "It was nothing like luck. Since I came to this yard nobody's read me that clean, and you did it sitting on a plank for a fortnight." She looked at him then, properly, the way she had looked at his face in the third exchange. "What's your Path?"
+"There'll be people tell you it was luck." She moved her jaw left and then right, once, and let it be, as if she had decided it would keep. "It was nothing like luck. Since I came to this yard nobody's read me that clean, and you did it sitting on a plank for a fortnight." She looked at him then, properly, as she had looked at his face in the third exchange. "What's your Path?"
 
 "Nothing to register."
 
@@ -306,7 +306,7 @@ Then he filed it, in his head, where nobody could see him do it. *Second instanc
 
 ---
 
-He went to Vell's table, because you went to the table win or lose, and read the second line upside down, the way he had learned to read at nine across the bench from Hesk, with his hands still shaking and the lantern swinging a little on its hook.
+He went to Vell's table, because you went to the table win or lose, and read the second line upside down, as he had learned to read at nine across the bench from Hesk, with his hands still shaking and the lantern swinging a little on its hook.
 
 *Built the third exchange on the lateness of her frame. Timed it from the benches over two bouts, then made it come early in the second by working her frame to his count. Does his studying before he fights, and more of it than a few weeks in this yard explain.*
 

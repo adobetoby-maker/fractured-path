@@ -36,7 +36,7 @@ She had not moved from her chair. The formal cadence was back in her voice, flat
 
 "Demonstration assessment, third sitting, held in public. The instructor's seat."
 
-Wray did not consult her slate. She spoke as she always did, as if reading off a gauge.
+Wray did not consult her slate. She spoke as she always did.
 
 "Evasion framework under live opposition. Consistent with prior record. No safety concerns."
 
@@ -44,7 +44,7 @@ Cael counted the words without meaning to, as he had at the second sitting. Twel
 
 "The rotating seat."
 
-The lean old man with the scorched cuffs looked at his slate, on which he had written a great deal, and then looked up and said only, "Entered at length." He paused. "I'll add that the candidate fought the petitioner's sequence rather than the petitioner. I've seen that done twice in forty years. Both times by people who'd watched a very long while first."
+The lean old man with the scorched cuffs looked at his slate, on which he had written a great deal, and then looked up and said only, "Entered at length." He paused. "I'll add that the candidate fought the petitioner's sequence rather than the petitioner. I've seen that done twice in thirty years. Both times by people who'd watched a very long while first."
 
 "Entered." Quenna wrote, and then set down her pen and looked at Cael across the frosted earth. "Assessment satisfied."
 

@@ -28,7 +28,7 @@ He heard them on the dirt behind him and turned round, and when he saw Cael he g
 
 "Noon. They load at the long quay." Renn rubbed the back of his neck. "So I can't give you the second look at the month. I've asked her to hold it." He nodded at Vell. "Till I'm back. Three weeks, a bit more if the river's bad."
 
-Vell said, without looking up from the ledger, "I'll hold it till the turn of the month after. Not past. If you're not back by then, it lapses, and you can come and ask me again like anybody else."
+Vell said, with her pen still moving, "I'll hold it till the turn of the month after. Not past. If you're not back by then, it lapses, and you can come and ask me again like anybody else."
 
 "I'll be back." Renn turned to Cael. "And I'll tell you the other half, since you'll work it out anyway, and I'd rather you heard it from me." He was not grinning now. "I don't want it at the month. Not now. Not with that one standing between us." He did not say which one. He did not have to. "I want to come back with something you haven't seen. And I want you to have learned something I haven't seen either. Otherwise it's the same bout twice, and I'll win it, and neither of us will know anything we didn't know a month ago."
 
@@ -36,7 +36,7 @@ Vell said, without looking up from the ledger, "I'll hold it till the turn of th
 
 "I'd win it. You'd last five." Renn picked up his sack again and swung it onto his shoulder. "Five's not enough for what I want to look at."
 
-Cael had been ready, for a month, to stand in front of this table and hear a date. He found that what he felt, now that he would not, was not disappointment. It was something stranger. It was relief, and under the relief a kind of respect that he had not expected to feel for the man who had put him on his back.
+Cael had been ready, for a month, to stand in front of this table and hear a date. What he felt, now that he would not, was not disappointment. It was something stranger. It was relief, and under the relief a kind of respect that he had not expected to feel for the man who had put him on his back.
 
 Renn had not forgotten the third exchange. He had been carrying it upriver and down for a month, on his shoulder with the sacks, and he wanted to come back to it ready.
 
@@ -110,7 +110,7 @@ She did not often read back. The book was for other people to read. It was there
 
 She found the first. *Renn (Cu 3, Blade) over unrated debut (14; nothing to register; vouched, L.), fourth exchange, by the flat. Called.* And under it the eight lines she had not needed to write.
 
-Then Brenna, a week later. Five exchanges. *Gave ground four exchanges on purpose. Found the dip on the step-through in the second; watched it; did not use it until the fifth. Went in on it. Too light to get through before she turned. Called.* And a line about the frustration, because she had watched the boy watch Brenna's temper the way a man watches a kettle, and had seen him learn something from it that most people never learned from either side.
+Then Brenna, a week later. Five exchanges. *Gave ground four exchanges on purpose. Found the dip on the step-through in the second; watched it; did not use it until the fifth. Went in on it. Too light to get through before she turned. Called.* And a line about the frustration, because she had watched the boy watch Brenna's temper, and had seen him learn something from it that most people never learned from either side.
 
 Then Amrit. Six exchanges. *Read the shimmer from the first. Baited by a held shimmer in the fourth, paid with the right arm. Read the breath in the fifth, two of three. Burned on the third. Conceded at the right breath.* She had written *the right breath* in the book because it was the truth, and had said it to his face because it was rarer to hear than people thought.
 
@@ -168,11 +168,11 @@ Vell looked at him for the first time.
 
 "I don't match people to suit your slate," she said. "I never have. You know that, and so does everybody who's ever stood at that rope. That's why they stand at it."
 
-"Of course." Marrow inclined his head, as if she had told him the weather. "Of course. I only mention it." He looked at the book, upside down, the way people did, and at the margin where she had just written. She saw him read the word and saw it mean nothing to him. Then he went off across the yard and out through the gate, with the slate under his arm, unhurried, a big man in a good coat who had never once in his life been caught doing anything he could not explain.
+"Of course." Marrow inclined his head, as if she had told him the weather. "Of course. I only mention it." He looked at the book, upside down, as people did, and at the margin where she had just written. She saw him read the word and saw it mean nothing to him. Then he went off across the yard and out through the gate, with the slate under his arm, unhurried, a big man in a good coat who had never once in his life been caught doing anything he could not explain.
 
 She watched him go.
 
-She did not trust Marrow. She had never trusted Marrow, and had decided a long time ago that she did not need to, so long as his book and hers never touched. But Marrow had noticed the boy, and Marrow did not notice things that would not one day be worth money, and she wrote that down too. She did not put it in the book. She put it in her head, where she kept the things that were hers.
+She did not trust Marrow. She had never trusted Marrow, and had decided years ago that she did not need to, so long as his book and hers never touched. But Marrow had noticed the boy, and Marrow did not notice things that would not one day be worth money, and she wrote that down too. She did not put it in the book. She put it in her head, where she kept the things that were hers.
 
 There was another thing she kept there, from Thursday night.
 
@@ -206,7 +206,7 @@ Vell turned it over, and kept coming back to the same name, and in the end she s
 
 Dessa came in through the gate at the end of the afternoon, as she did most Saturdays, to collect her terms for the Sunday.
 
-Twenty or near it, she was built square across the shoulders and solid to the ground, and her hair was tied back the way a person ties it who gave up thinking about hair a long time ago. She walked across the yard without looking at the crows or the eaves or the circle, straight to the table, and stopped in front of it with her hands at her sides. She had been sitting at the top of the Cinder House's Sunday cards for most of the season. Everybody who had come at her had come the same way, eager, and gone down in the same way. Lately people had stopped coming at her at all, and Vell had had to go to Fenrow to find anybody who would.
+Twenty or near it, she was built square across the shoulders and solid to the ground, and her hair was dragged back and tied off with string, by somebody who had plainly settled the question of hair once and never reopened it. She walked across the yard without looking at the crows or the eaves or the circle, straight to the table, and stopped in front of it with her hands at her sides. She had been sitting at the top of the Cinder House's Sunday cards for most of the season. Everybody who had come at her had come the same way, eager, and gone down in the same way. Lately people had stopped coming at her at all, and Vell had had to go to Fenrow to find anybody who would.
 
 "Second bout tomorrow," Vell said. "The Fenrow man. Copper Rank 3, Iron Path. He's eager."
 
@@ -256,13 +256,13 @@ When the light had begun to go, Vell made the card.
 
 She made it every week, for the board at the crossroads, in pencil on the back of whatever paper there was. This week it was the back of a bill for lamp wicks. The pie boy would take it down in the morning and nail it up over last week's, and by noon the whole district would know what was on at the Cinder House on Sunday and the Thursday after.
 
-*Sunday, Cinder House. Second bout: Dessa (Cu 5, Stone) against the Fenrow Iron (Cu 3).* That was how the yard knew him, and she wrote him the way the yard knew him, and the rest of the card went under it.
+*Sunday, Cinder House. Second bout: Dessa (Cu 5, Stone) against the Fenrow Iron (Cu 3).* That was how the yard knew him, and she wrote him as the yard knew him, and the rest of the card went under it.
 
 Then, on a separate line, for the Thursday after next:
 
 *Dessa (Cu 5, Stone) against unrated (vouched).*
 
-She looked at that line for a while.
+She looked at that line.
 
 People sometimes asked her why the book did not carry the names of unrated fighters, and she sometimes told them, and they mostly did not understand, because they thought it was a rule about fighters. It was not. It was a rule about the yard.
 
@@ -302,7 +302,7 @@ He went out through the gate in the wall and down to the crossroads, because he 
 
 *Dessa (Cu 5, Stone) against unrated (vouched).*
 
-He stood and read it for some time.
+He stood and read it, and read it again.
 
 Lira found him there, on her way up from the four lanes with the bread, and read it over his shoulder, and gave a long, low whistle.
 
@@ -310,7 +310,7 @@ Lira found him there, on her way up from the four lanes with the bread, and read
 
 "Have you fought her?"
 
-"No." Lira tore off a piece of the bread and gave it to him without looking at him. "Vell's never put me in with her. I asked once, in the summer. She said I wasn't ready to be patient." She looked at the card for a while longer. "I wasn't. I'm still not, very." Then she turned and looked at him, and her face had the morning brightness in it, the one that did not come out later in the day. "Third row. Tonight. I'll get there early and sit on the end, and you'll get there earlier and sit in the middle, and neither of us will say a word to each other until it's over."
+"No." Lira tore off a piece of the bread and gave it to him without looking at him. "Vell's never put me in with her. I asked once, in the summer. She said I wasn't ready to be patient." She looked at the card a moment longer. "I wasn't. I'm still not, very." Then she turned and looked at him, and she was grinning. "Third row. Tonight. I'll get there early and sit on the end, and you'll get there earlier and sit in the middle, and neither of us will say a word to each other until it's over."
 
 "Why not?"
 

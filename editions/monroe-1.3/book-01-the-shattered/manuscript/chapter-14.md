@@ -120,7 +120,7 @@ He held one out to Lira now. She tore it in half, put one half on top of the pos
 
 So he ate his roll in the gaps, in pieces, between sets of ten. When the sun finally came over the east wall and the shadow began to shrink back toward it, Lira moved their work along with the shadow, a step at a time, keeping them both in the grey half until there was no grey half left.
 
-He noticed it, and he noticed that she did it without looking, the way people do things they have done so often that they no longer need to decide them.
+He noticed it, and he noticed that she did it without looking, as people do things they have done so often that they no longer need to decide them.
 
 He did not ask about it. There was probably a reason, he thought, and if she wanted him to have it she would give it to him, and until then it was hers.
 
@@ -140,15 +140,15 @@ He closed it on that page without reading it again.
 
 The paper stall was at the bottom of the market, near the fruit woman with no name. It was run by a man with ink on his cuffs who sold everything from single sheets to bound ledgers with marbled edges that cost more than a week at Torvin's.
 
-Cael looked at the ledgers for some time. Then he bought the cheapest thing on the table that still had a proper sewn spine: a thick, plain notebook with a grey board cover and paper so thin that the ink of one page would show faintly through the next.
+Cael looked at the ledgers. Then he bought the cheapest thing on the table that still had a proper sewn spine: a thick, plain notebook with a grey board cover and paper so thin that the ink of one page would show faintly through the next.
 
-It was a good deal more than he wanted to pay. He paid it, and wrote the figure in the back of the old book under the line he had drawn that morning, and took the new one back to the wall by the pump, where he sat for a while with the pencil over the first page.
+It was a good deal more than he wanted to pay. He paid it, and wrote the figure in the back of the old book under the line he had drawn that morning, and took the new one back to the wall by the pump, where he sat with the pencil over the first page.
 
-He had kept notebooks since he was eight, and every one of them had been the same kind of book. Things went into it as they came, in order, a bearing, a dog, a wall, a word on page seven, and that had been enough for a long time, because the things he wrote down were mostly things that would still be there tomorrow.
+He had kept notebooks since he was eight, and every one of them had been the same kind of book. Things went into it as they came, in order, a bearing, a dog, a wall, a word on page seven, and that had always been enough, because the things he wrote down were mostly things that would still be there tomorrow.
 
 This was different, and he could feel the difference in his hands. The bout with Renn was already less clear than it had been last night. Had the second probe, the one across the body, really come off the front foot, or had he only expected it to?
 
-He had been sure on the walk home and was nearly sure now, and by next week he would be sure again in the wrong way, the way you become sure of a thing you have told yourself often enough.
+He had been sure on the walk home and was nearly sure now, and by next week he would be sure again in the wrong way, as you become sure of a thing you have told yourself often enough.
 
 He wrote *Log* at the top of the first page and underlined it.
 
@@ -166,7 +166,7 @@ That was what sentences did, he thought. They ran on. You put a true thing in at
 
 He tore the page out, carefully, along the spine, so that the binding would not loosen, and folded it and put it in his pocket. Then he took the straightedge from his tool roll, the little steel one he had made at twelve, and ruled the next page into three columns.
 
-He thought about what to call them for some time. Hesk's slates in the workshop had columns for *load*, *figure* and *result*, which were close but not right, because nobody here was hanging weights on a rig.
+He thought about what to call them. Hesk's slates in the workshop had columns for *load*, *figure* and *result*, which were close but not right, because nobody here was hanging weights on a rig.
 
 What he wanted was something that made each line prove itself before he let it stay. He thought about Vell at her table, and the way the yard went quiet when she spoke, and the one word she said at the end of a bout that made it finished.
 
@@ -238,7 +238,7 @@ The mender said nothing to that. He reached under the bench, felt about without 
 
 It dipped a hair to the left at rest, so that anything weighed on it would weigh light in one pan and heavy in the other, and you would have to hold it up to the light and squint along it to see why. He put it on the bench, laid his straightedge beside it, and went back to his clock.
 
-Cael looked at the balance for a long time before he touched it.
+Cael did not touch the balance at first. He looked at it.
 
 Then he did what he had watched the mender do with the mangle, and what Hesk had done at the rig for as long as he could remember: he did not guess. He laid the straightedge along the beam and found the bend, which was not in the middle, as he had expected, but a little way out along the left arm, where somebody had probably caught it on the edge of a stall.
 
@@ -264,7 +264,7 @@ On the fish steps below the carriers' hut a barge was unloading sacks of meal on
 
 The second man up was Renn. He was in a sleeveless shirt with a sack on his right shoulder, taking the slick steps two at a time as though they were level ground. At the top he swung the sack onto the cart without breaking stride and turned to go down for the next one. Then he saw Cael on the street above and stopped on the top step.
 
-For a moment neither of them said anything. Renn looked at him the way he had looked across the circle in the third exchange, briefly and carefully, a man checking a part he had not cut.
+For a moment neither of them said anything. Renn looked at him as he had looked across the circle in the third exchange, briefly and carefully, a man checking a part he had not cut.
 
 "Healing?"
 
@@ -276,7 +276,7 @@ For a moment neither of them said anything. Renn looked at him the way he had lo
 
 He went to Vell's table on the fourth morning after the bout, when he could lift his left arm as high as his shoulder without his face doing anything about it.
 
-The yard was empty except for Vell and the crows. She sat at the table in the shade with her ledger squared and her tea at her elbow, exactly as she had on the morning of the terms, and when he stopped in front of her she looked at him for a while without speaking.
+The yard was empty except for Vell and the crows. She sat at the table in the shade with her ledger squared and her tea at her elbow, exactly as she had on the morning of the terms, and when he stopped in front of her she looked at him without speaking.
 
 "Lift your left arm."
 
@@ -290,7 +290,7 @@ Vell watched the arm, then the face, then the arm again. "Thursday," she said, a
 
 "Who?"
 
-"Brenna." She wrote a short line without looking up. "Copper Rank 2, Shield Path. She lost to Dessa a fortnight ago in three exchanges and she hasn't stopped talking about it. She wants somebody she can finish quickly, so that people will talk about that instead." The pen stopped and Vell looked up. "If you're any use, you'll be somebody she can't finish quickly. That'll be good for both of you, and she won't thank me for it."
+"Brenna." She wrote a short line. "Copper Rank 2, Shield Path. She lost to Dessa a fortnight ago in three exchanges and she hasn't stopped talking about it. She wants somebody she can finish quickly, so that people will talk about that instead." The pen stopped and Vell looked up. "If you're any use, you'll be somebody she can't finish quickly. That'll be good for both of you, and she won't thank me for it."
 
 He nodded. He was watching the pen.
 
@@ -312,7 +312,7 @@ Vell did not look down at the page. She seemed to have known exactly where he wa
 
 "For most of them, never. Most of them come and fight and go home, and the book holds what they did, and nobody ever needs to know what they were called. It's no slight. It's what a book's for." She picked up her tea. "When the yard comes to see you, I'll write it. Not before. And not because you asked."
 
-Standing there, he found that he did not mind, though he had thought he would. He was in a book, in somebody else's careful hand, as exactly what he was and what he had done, and every word of it was something Vell had seen herself from this stool. It was a ledger he could check, and it had no word in square brackets in it.
+Standing there, he did not mind, though he had thought he would. He was in a book, in somebody else's careful hand, as exactly what he was and what he had done, and every word of it was something Vell had seen herself from this stool. It was a ledger he could check, and it had no word in square brackets in it.
 
 "Thursday," he said.
 

@@ -4,11 +4,11 @@ The kitchen at Torvin's was fuller than Cael had ever seen it, and louder, and i
 
 Torvin's wife had the big iron pot on the range, the one she used for oats in the morning, and it was full to the brim with something brown and thick that had carrots in it, and turnips, and barley, and pieces of what had probably, at some point, been a sheep. She was ladling it out into every bowl in the house with the air of a woman settling an account.
 
-"Five," she said, as Cael came in, and put a bowl in front of the place at the end of the bench before he had reached it. "I said five. Sit down."
+"Five." She put a bowl in front of the place at the end of the bench before Cael had reached it. "I said five. Sit down."
 
-At the far end sat the woman who slept in her boots, arms folded, with no bun.
+At the far end sat the woman who slept in her boots, arms folded, with no bun. She waited until he was sitting.
 
-"I said never," she said to Cael, as he sat. "I want you to know it was nothing personal. I'd seen you walk. You walk like a heron."
+"I said never. Don't take it to heart. I'd seen you walk. You walk like a heron."
 
 "Herons are very good at standing still," said Lira, sitting down beside him with her own bowl.
 
@@ -32,11 +32,11 @@ Once, while the brothers were arguing about left and right, Cael looked down the
 
 Doss did not smile. He did not say anything. He gave one short nod, a small downward tip of his heavy flattened face, the kind men gave each other across a depot yard in Denvash. Then he went back to his bowl.
 
-Cael sat with it. He found that it weighed more than he would have thought. It was not a congratulation. It was more like a line in a ledger, written by somebody who had once had his own name in a book and then not, who knew exactly what went into the book and what it cost.
+Cael sat with it. It weighed more than he would have thought. It was not a congratulation. It was more like a line in a ledger, written by somebody who had once had his own name in a book and then not, who knew exactly what went into the book and what it cost.
 
 Torvin came through from the front room with a second pot, a smaller one, which turned out to be more of the same. He set it on the table by the first, which was empty, and stood a moment with the cloth still in his hand, and considered Cael the way he considered coins.
 
-"Heard you put Dessa on the dirt," he said.
+"Heard you put Dessa on the dirt."
 
 "Yes."
 
@@ -48,9 +48,7 @@ The table was quiet for a moment.
 
 "That," said Torvin's wife, into the silence, with great satisfaction, "is the most he's said at one go since my sister's wedding."
 
-Lira leaned over to Cael and spoke under the noise that came back after.
-
-"Renn's going to be unbearable," she said.
+Lira leaned over to Cael and spoke under the noise that came back after. "Renn's going to be unbearable."
 
 "Renn's up the river."
 
@@ -112,7 +110,7 @@ That made four things he had not told Hesk. He knew the number exactly. He had w
 
 He had made a promise tonight, on the step, to somebody else, that she would be first.
 
-He sat with that for a long moment, and found that it did not feel like a betrayal of Hesk. It felt like the opposite of what Hesk had done with Tuesdays and the file. Hesk had kept things until he was sure, and then had not told them even then, and Cael had found them out for himself and come to him angry. Cael was keeping this until he was sure, too. But he had told one person that he was keeping it, and why, and that she would be first. And he had written down in the Log that he was keeping it from Hesk, so that it could not hide from him.
+He sat with that, and it did not feel like a betrayal of Hesk. It felt like the opposite of what Hesk had done with Tuesdays and the file. Hesk had kept things until he was sure, and then had not told them even then, and Cael had found them out for himself and come to him angry. Cael was keeping this until he was sure, too. But he had told one person that he was keeping it, and why, and that she would be first. And he had written down in the Log that he was keeping it from Hesk, so that it could not hide from him.
 
 It was not the same. He thought it was not the same. He thought he would have to answer for it anyway.
 
@@ -120,7 +118,7 @@ It was not the same. He thought it was not the same. He thought he would have to
 
 ---
 
-He went up to the yard in the dark the next morning, the way he always did, by the lane where the ground began to rise. Lira caught him up at the corner by the chalk board, with the bread under her arm and her breath smoking, and they went up together without saying much.
+He went up to the yard in the dark the next morning, as he always did, by the lane where the ground began to rise. Lira caught him up at the corner by the chalk board, with the bread under her arm and her breath smoking, and they went up together without saying much.
 
 The old man was in his corner, as he was on every morning Cael had ever passed that gate. There was no light in the yard yet but what came off the sky, grey and thin, and the woman with the shoulder had not come. He stood alone in the shade that was not yet shade, in the stance that looked like nothing else in the lane, with his feet set and his hands loose and his breath going up slow and white.
 
@@ -208,7 +206,7 @@ Lira, beside him, said nothing. She did not look at him. But he felt her not loo
 
 He thought about Vell at her table on the Sunday morning, saying *When the yard comes to see you, I'll write it.* He had thought then that it was a strange rule. He thought now that he understood it a little better. Some of the yard had come to see him last night. Some of it had said his name. A man at the board this morning knew it, nearly. But the yard had come last night to see Dessa, mostly, and to find out whether the thin boy would last. That was not the same as coming to see the thin boy. When it was the same, he thought, Vell would know it before he did.
 
-He found that he did not mind waiting for it. That surprised him, and he looked at the surprise, standing at the back of the crowd with his hands in his pockets, and found it was true.
+He did not mind waiting for it. That surprised him, and he looked at the surprise, standing at the back of the crowd with his hands in his pockets, and found it was true.
 
 The book knew what he had done. Every line of it was something Vell had seen from her stool, in her own hand, and every word was true. It did not have a word in square brackets in it anywhere. It had *unrated*, and *vouched*, and *over Dessa*, and a line underneath that he was not supposed to have read.
 
@@ -248,17 +246,17 @@ He had decided this on the cooper's roof, and written down that he had decided i
 
 Cael looked past him, out through the open side of the hut onto the landing.
 
-The west cart was standing at the bottom of the fish steps with its tailboard down, a long carrier's wagon with a canvas tilt over its back and two tired horses steaming in the cold. The carter was handing sacks of post down to a boy on the landing, and three passengers had climbed down off the tail and were standing about in the way people stand about when they have been sitting on a board for two days. One was a woman with a child. One was an old man with a crate of something that clinked.
+The west cart was standing at the bottom of the fish steps with its tailboard down, a long carrier's wagon with a canvas tilt over its back and two tired horses steaming in the cold. The carter was handing sacks of post down to a boy on the landing, and three passengers had climbed down off the tail and were standing about, stiff from two days on a board. One was a woman with a child. One was an old man with a crate of something that clinked.
 
 The third was a man of about forty, in a plain dark coat creased from the road, with the collar turned up against the wind off the river. He had a small travelling bag in one hand. Under his other arm he held a flat leather case, the kind clerks carried papers in, and he was holding it in a particular way that Cael noticed without meaning to notice it. He held it loosely, against his side, the way you carry something that has very little in it, as if he had expected it to be heavier and had stopped being surprised that it was not.
 
-The man looked up the fish steps at the district, the long slope of roofs going up toward the yards, and the haze over the market, and the leaning chimneys. He looked at it the way Cael had looked at the city from the rise on his first evening, as something he would have to learn.
+The man looked up the fish steps at the district, the long slope of roofs going up toward the yards, and the haze over the market, and the leaning chimneys. He looked at it as Cael had looked at the city from the rise on his first evening, as something he would have to learn.
 
 Then he turned to the boy on the landing and asked him something. The boy pointed up the steps, to the top, where the squat brown building stood with its board of notices that nobody read.
 
 The man nodded, and picked up his bag, and went up the steps toward it.
 
-Cael watched him go for perhaps two breaths. He watched the way he did with everybody, without deciding to. A stranger off the west cart, tired, with a thin case and his collar up, going to the post. Then the clerk said "Next," behind him, and somebody pushed past him to the counter with a parcel, and he stepped out of the way and turned toward the steps himself.
+Cael watched him go for perhaps two breaths. He watched him as he watched everybody, without deciding to. A stranger off the west cart, tired, with a thin case and his collar up, going to the post. Then the clerk said "Next," behind him, and somebody pushed past him to the counter with a parcel, and he stepped out of the way and turned toward the steps himself.
 
 He did not write the man down.
 

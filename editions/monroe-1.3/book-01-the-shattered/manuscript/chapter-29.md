@@ -24,7 +24,7 @@ Cael put his spoon down in his bowl, slowly, so that it did not knock against th
 
 "He didn't," said Torvin.
 
-The boots woman laughed into her soup. Yeni's needle went in and out. Cael sat with his hands flat on the table on either side of his bowl and made himself breathe in the ordinary way, in and out, the way he did at his mark.
+The boots woman laughed into her soup. Yeni's needle went in and out. Cael sat with his hands flat on the table on either side of his bowl and made himself breathe in the ordinary way, in and out, as he did at his mark.
 
 *Caelen Hesk-ward.* Not *the circuit kid*. Not a lodger with letters going west. His name, the whole of it, said at this door by somebody who had brought it here.
 
@@ -50,7 +50,7 @@ Nobody at the table said anything for a moment.
 
 Cael did not hear much of the rest of supper.
 
-He had been standing on the landing at the bottom of the fish steps on the morning after Dessa, with a split knuckle and the sun just out over the river. He had looked past the clerk's shoulder at the west cart with its tailboard down. A woman with a child had climbed off it, and an old man with a crate that clinked, and a man of about forty in a creased dark coat with the collar turned up against the wind. He had held a flat leather case loosely against his side, the way you hold a thing that has very little in it, as if he had expected it to be heavier and had long since stopped being surprised that it was not. He had looked up the steps at the district as though it were something he would have to learn, and asked the boy on the landing the way to the post.
+He had been standing on the landing at the bottom of the fish steps on the morning after Dessa, with a split knuckle and the sun just out over the river. He had looked past the clerk's shoulder at the west cart with its tailboard down. A woman with a child had climbed off it, and an old man with a crate that clinked, and a man of about forty in a creased dark coat with the collar turned up against the wind. He had held a flat leather case loosely against his side, as though there were very little in it, and he had looked up the steps at the district as though it were something he would have to learn, and asked the boy on the landing the way to the post.
 
 And Cael had watched him for two breaths, and turned away, and gone up the steps two at a time past the brown building, whose door had been shutting behind somebody as he passed.
 
@@ -88,7 +88,7 @@ It had come up the evening before, on the fifty-first day, with the runner, as t
 
 He thought about it now. The west cart had come in with its tailboard down and the carter handing the post sacks to the boy on the landing, one after another. Hesk's letter had been in one of those sacks. It had come two days along the merchant road in the bottom of the cart, under the boots of a man with a flat case on his knees. It had come up the fish steps on the boy's shoulder within a minute of the man himself.
 
-They had arrived together. He found that he did not like that at all, and that he could not have said why, because it meant nothing; the cart carried everything that came from the west. He set it down anyway.
+They had arrived together. He did not like that at all, and he could not have said why, because it meant nothing; the cart carried everything that came from the west. He set it down anyway.
 
 The letter was one sheet, both sides, in the square hand.
 
@@ -132,13 +132,13 @@ He turned to a clean line in the margin and made a list, because a list was a th
 
 *The dark coat off the west cart, the fifty-first day. Went to the post. Came to Torvin's the next morning and asked for me by my whole name. Asked nothing about the yards. (Seen, and Torvin, h.)*
 
-He looked at the three lines for a long time.
+He looked at the three lines.
 
 Three men. Or two, or one, or any arrangement of them. He could make the grey coat and the dark coat into one man who had changed his coat. But Torvin's dark coat had been creased from two days on a cart, and the grey coat had been brushed. The grey coat had walked the market on the thirty-sixth day, while the dark coat was two days' road away at least. He could make the polite man and the grey coat one, but one had asked for the circuit and the other had not seemed to know there was a circuit at all.
 
 He did not decide. He had no evidence that would let him decide. He drew a short line under the three of them, and under it wrote: *Don't guess. Don't change what I do. Tell Lira.*
 
-Then he blew out his own small piece of the lamp's light, the way he did, by turning his face to the wall, and lay a long time listening to the river.
+Then he blew out his own small piece of the lamp's light, as he always did, by turning his face to the wall, and lay awake listening to the river.
 
 ---
 
@@ -156,7 +156,7 @@ He did not talk. He set the bread on top of the post and watched her go round. S
 
 "He'd only say something about it." She stuffed the string in her pocket and looked at him properly for the first time, and her face changed. "What."
 
-He told her. He told it in order, the way he had written it: the landing, the case, the post door shutting, the soup, Torvin's room's paid and *you pay on time*, the oats. He told her the three lines in the margin and why he could not make any of them into one man. He told her about Hesk's letter, and *don't change what you do*, and the roof.
+He told her. He told it in order, as he had written it: the landing, the case, the post door shutting, the soup, Torvin's room's paid and *you pay on time*, the oats. He told her the three lines in the margin and why he could not make any of them into one man. He told her about Hesk's letter, and *don't change what you do*, and the roof.
 
 She did not interrupt. She stood in the frost with her hands in her jacket pockets, and when he got to *Caelen Hesk-ward, fourteen*, said at the door, she took her hands out of her pockets and folded her arms instead, tightly, as though she were cold all at once.
 
@@ -174,7 +174,7 @@ She did not interrupt. She stood in the frost with her hands in her jacket pocke
 
 She tried it under her breath, once, as if testing the weight of something somebody had handed her. Then she shook her head.
 
-"No. You're Cael. That's somebody on a card." She took the bread off the post and tore it and gave him the larger half and did not eat hers. "He didn't ask about the yards."
+"No. You're Cael. That's somebody on a card." She took the bread off the post and tore it and gave him half and did not eat hers. "He didn't ask about the yards."
 
 "Not Torvin. And Torvin would have said. He likes telling the table what he didn't tell people."
 
@@ -186,7 +186,7 @@ She tried it under her breath, once, as if testing the weight of something someb
 
 He looked at her.
 
-"I'm on the card," Lira said. "Second bout. Sunday, before the lamps." She was looking at the post, not at him, the way she did when a thing mattered more than she wanted it to look. "I asked Vell on Friday morning, while you were at the mender's being told something worked. She told me last night it was on."
+"I'm on the card," Lira said. "Second bout. Sunday, before the lamps." She was looking at the post, not at him, as she did when a thing mattered more than she wanted it to look. "I asked Vell on Friday morning, while you were at the mender's being told something worked. She told me last night it was on."
 
 "Who?"
 
@@ -240,7 +240,7 @@ The man thanked her. He paid. She gave him a loaf from the top of the pile.
 
 Cael very nearly laughed out loud, there in the middle of the second row with a twist of pears in his hand. The bread woman had sold the man yesterday's loaf, off the top, where she put the ones she thought nobody would notice. She had not given him one from underneath. She did that for people who asked, and for people the market had decided were not new.
 
-The man walked off up the street toward the river with yesterday's bread under his arm, unhurried, looking at the district as he went, at a doorway and then a roof and then a woman beating a rug from a window, the way you look at a page you mean to read again later.
+The man walked off up the street toward the river with yesterday's bread under his arm, unhurried, looking at the district as he went, at a doorway and then a roof and then a woman beating a rug from a window, as you look at a page you mean to read again later.
 
 Cael went the other way, up toward Torvin's, the way he went every morning. He did not double back. He did not count to sixty in any doorway.
 
@@ -248,7 +248,7 @@ He wrote it up sitting on the low wall by the pump in Torvin's yard, in the marg
 
 *Fifty-third day, the market. The dark coat, no pin, no case. Buying bread. He looks at people, not stalls. He asks and then waits, and they tell him more than they meant to. Not the grey coat. The bread woman sold him yesterday's loaf off the top.*
 
-He looked at the last sentence for a while, and left it in, because it was evidence. The market had made up its mind about the man in the dark coat, even if Cael had not.
+He looked at the last sentence, and left it in, because it was evidence. The market had made up its mind about the man in the dark coat, even if Cael had not.
 
 ---
 
@@ -258,7 +258,7 @@ Lira had been right about Brenna's friends. They were along the rope on the sunn
 
 Cael did not go to the benches. He went to the rope, on the shaded side, near the corner by the drain where the barrel stood, and put both hands on it.
 
-He had stood at this rope before, for other people's bouts, with the Log open on his knee and a pencil going. He had never stood at it for somebody he knew. He found that it made his hands do something on the rope that he had to make them stop doing.
+He had stood at this rope before, for other people's bouts, with the Log open on his knee and a pencil going. He had never stood at it for somebody he knew. It made his hands do something on the rope that he had to make them stop doing.
 
 Marrow came along with his slate. Cael read it without moving his head.
 

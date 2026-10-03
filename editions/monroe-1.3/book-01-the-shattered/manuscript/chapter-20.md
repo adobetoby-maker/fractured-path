@@ -26,7 +26,7 @@ He had brought a question with him from Torvin's and walked it up and down the l
 
 "How do you do it?"
 
-She laughed a little, the way you laugh when somebody asks how you breathe. "You reach. It isn't a thing you do with your arms, so it's hard to say. It's more like going after a name you know you know, only on purpose, and it comes." She bent and pressed her palms flat to the dirt and talked to her knees. "Then it's there, at the edge, and it shows you. Tier and rank. Path. Your declarations, one under the other, in the order you got them. Sometimes there's a line at the foot of it if something's moving, if you're building toward the next rank and you're nearly there. All of it takes a breath. I hardly notice I've done it." She came up and set her hands on her hips and leaned back until something in her spine clicked. "You'll have yours soon enough, once whatever's stuck comes unstuck. You'll be bored of it in a week."
+She laughed a little, as you laugh when somebody asks how you breathe. "You reach. It isn't a thing you do with your arms, so it's hard to say. It's more like going after a name you know you know, only on purpose, and it comes." She bent and pressed her palms flat to the dirt and talked to her knees. "Then it's there, at the edge, and it shows you. Tier and rank. Path. Your declarations, one under the other, in the order you got them. Sometimes there's a line at the foot of it if something's moving, if you're building toward the next rank and you're nearly there. All of it takes a breath. I hardly notice I've done it." She came up and set her hands on her hips and leaned back until something in her spine clicked. "You'll have yours soon enough, once whatever's stuck comes unstuck. You'll be bored of it in a week."
 
 She said it kindly and carelessly at once, still loosening her shoulders, with no idea at all where she was standing.
 
@@ -40,7 +40,7 @@ He watched it happen to her as he had watched it happen on the barrel at the rop
 
 "Why are you asking me that?"
 
-He had meant to come at this slowly, to take weeks over it the way he took weeks over everything and be ready when he did; he was not ready, and it was dawn, and he found he was going to say it anyway.
+He had meant to come at this slowly, to take weeks over it as he took weeks over everything and be ready when he did; he was not ready, and it was dawn, and he found he was going to say it anyway.
 
 "Because mine doesn't."
 
@@ -52,7 +52,7 @@ She waited, and she was good at waiting; he had not known until now how badly he
 
 "Yes."
 
-Her eyes stayed on him a long moment, and he watched her take the measure of that, coming from him, and put it somewhere, and leave it there.
+Her eyes stayed on him, and he watched her take the measure of that, coming from him, and put it somewhere, and leave it there.
 
 "I know the word," she said. "I ought to tell you that before anything else. [SHATTERED]. I've known it since the day you told me at the board. I went down to the other market that night, to the man with the crate of old books with their covers torn off, and bought a registry summary from him for less than a pie, and sat up by the candle till I found the four lines." She was looking at the post now, and not at him. "I'd made up my mind yesterday that I'd tell you. I don't know why it took me till yesterday. It felt like going through somebody's letters while they were out of the room. You'd given me the word yourself, and I didn't want you thinking I'd gone round behind it."
 
@@ -66,7 +66,7 @@ He had not expected that, and he did not try to hide that he had not.
 
 "You tell me." She turned and looked straight at him. "I mean it. Is it?"
 
-She was not being kind. She wanted the answer, the way she had wanted it at the board on the day they met, when she had looked at the word on his face and seen a question in it. He had been too busy being afraid of the thing to wonder what it was, and he wondered now.
+She was not being kind. She wanted the answer, as she had wanted it at the board on the day they met, when she had looked at the word on his face and seen a question in it. He had been too busy being afraid of the thing to wonder what it was, and he wondered now.
 
 "Some ways it's worse. You get told where you are, and I don't. I have to work it out from what happens and write it down, and I can't tell whether I'm reading it right, and there's nobody I can hold my sums up against." He stopped, because the other half of it had arrived while he was talking and he wanted to look at it before he said it. "But nobody can tell me where I stop, either, because nobody knows. There's no figure written down somewhere that I'm meant to grow into and no further."
 
@@ -140,9 +140,7 @@ He did not answer at once. He was not unwilling; it was only that it was the one
 
 He gave it to her.
 
-She read it standing in the middle of the box drill in the last of the grey half, all the way through, without any expression at all. Then, before she handed it back, she read it again, more slowly, the way he had read it himself at the kitchen table with the teapot beside him.
-
-It was the way you read a thing a second time when some part of you is hoping that you misunderstood it the first.
+She read it standing in the middle of the box drill in the last of the grey half, all the way through, without any expression at all. Then, before she handed it back, she read it again, more slowly, as he had read it himself at the kitchen table with the teapot beside him, as if some part of her hoped she had misunderstood it the first time.
 
 She read one part aloud, under her breath, as if she were checking it.
 
@@ -156,7 +154,7 @@ Lira looked up from the paper.
 
 "That's what Hesk said. Nearly."
 
-"He's right." She folded it again along its soft creases and held it out. For a moment she looked older than fifteen; not tired, but as if she were carrying a thing of the same shape as his, and had been for a while, and had just recognized it.
+"He's right." She folded it again along its soft creases and held it out. For a moment she looked older than fifteen; not tired, but as if she were carrying a thing of the same shape as his, and had been for longer, and had just recognized it.
 
 "The circuit doesn't care what the registry says." Lira said it once, and let it stand.
 
@@ -206,7 +204,7 @@ They went through the corners again, and again.
 
 Somewhere about the twentieth time, with the sweat beginning to sting his eyes, he noticed that he had stopped counting.
 
-He noticed it the way he had noticed it in the yard at midnight, from a little way off, like a clock stopping in another room, but it was not the same at all. Last night he had stopped counting because counting had stopped being any use; this morning he had stopped because his feet had stopped needing him to, and were going to the corners by themselves.
+He noticed it as he had noticed it in the yard at midnight, but it was not the same at all. Last night he had stopped counting because counting had stopped being any use; this morning he had stopped because his feet had stopped needing him to, and were going to the corners by themselves.
 
 Lira called *back left* and his left foot was already going, and he had not looked anything up.
 
@@ -234,7 +232,7 @@ The ruling took him longer than everything else on the page.
 
 He had done the front first, as the rule said, by Yeni's lamp turned down to a bead, with the brothers settling on the far side of the room and the wheezing man already whistling at the top of each breath. He had written the day and *Lira's report, first morning,* and then the four things in the middle column, in her own words. *Catches with the left now as well. The hole in the deflection is shut. Back foot still turns out on the box, less than it did. Against Petra, onto the shoulders a quarter-breath sooner in the seventh than in the second.* Beside them he had put *(Lira, h)*, and then, because it was true, *She saw it and I didn't. That's what h is for.*
 
-Then he had sat with the pencil over the third column for a long time. Every ruling in that column for weeks had been made up out of nothing and then defended against himself. This one was simply there, waiting for him to be willing to write it.
+Then he had sat with the pencil over the third column, longer than any ruling had ever taken him. Every ruling in that column for weeks had been made up out of nothing and then defended against himself. This one was simply there, waiting for him to be willing to write it.
 
 *Ruling: getting better. Somebody's checking.*
 
@@ -250,7 +248,7 @@ He turned the Log over now, and opened the back.
 
 *It isn't coming back the way hers comes to her every morning. Whatever I've got doesn't keep a page, and I'm done standing at the door waiting to be handed one.*
 
-*Lira knows. She's known since the day at the board. She bought the four lines for less than a pie and sat up with them, and didn't say, because it felt like reading my letters. This morning she didn't flinch and she didn't arrange her face. She added it, the way she adds somebody new in the circle, and went on. I hadn't understood how much of the weight was only not knowing whether she would.*
+*Lira knows. She's known since the day at the board. She bought the four lines for less than a pie and sat up with them, and didn't say, because it felt like reading my letters. This morning she didn't flinch and she didn't arrange her face. She added it, as she adds somebody new in the circle, and went on. I hadn't understood how much of the weight was only not knowing whether she would.*
 
 *She asked me what it was like in there, at the moment it happened. Not what the summary says. I didn't have all of an answer. But the question moved the whole thing over by an inch. Up to now it's been a thing done to me. Now it's a thing I'm allowed to have an opinion about.*
 

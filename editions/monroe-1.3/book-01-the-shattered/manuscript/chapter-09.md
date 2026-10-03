@@ -42,7 +42,7 @@ Her face was interested, not friendly exactly and not unfriendly: the face of so
 
 "It's a board that advertises something without ever saying what." He pointed at the nearest notice, the one about the open card. "Nobody says what a card is. Nobody says what's being called, or who calls it, or what a vouch is. Every notice assumes you already know."
 
-"That's because it's not for people who don't." She said it lightly, but she was watching him the whole time she said it, the way he watched people, and he found that he did not like it as much as he liked doing it. "If you have to have it explained, you're not ready to read it."
+"That's because it's not for people who don't." She said it lightly, but she was watching him the whole time she said it, just as he watched people, and he did not like it as much as he liked doing it. "If you have to have it explained, you're not ready to read it."
 
 "Then how does anyone ever get ready?"
 
@@ -72,7 +72,7 @@ Lira looked at him for a moment as though she had heard every part of that, and 
 
 "Several. Circuit fighter. Occasional problem." She ticked them off on her fingers. "And professional evaluator of new arrivals. Unpaid. I do it for the love of the thing."
 
-He found that he wanted to laugh, and he did not quite, and she saw him not quite do it, and looked pleased.
+He wanted to laugh, and he did not quite, and she saw him not quite do it, and looked pleased.
 
 "How long have you been here?" he asked.
 
@@ -122,7 +122,7 @@ She did not pick it up. She set it aside instead, carefully, where they could bo
 
 ---
 
-He considered the true answer, which was that he did not know, and found that the true answer was also the only one that would be of any use.
+He considered the true answer, which was that he did not know, and saw that the true answer was also the only one that would be of any use.
 
 "I don't know what I'd be fighting as," he said. "I don't have a declaration."
 
@@ -136,7 +136,7 @@ Her eyebrows went up a fraction. It was the first thing he had said that she had
 
 Lira went quiet.
 
-It was a different quiet from the ones before, which had been the quiet of somebody choosing words. This was the quiet of somebody who had stopped choosing anything and was simply looking. She was not leaning on the post any more but standing square to him, and she was looking at him the way he imagined she would look at an opponent who had just done something nobody had taught her to expect.
+It was a different quiet from the ones before, which had been the quiet of somebody choosing words. This was the quiet of somebody who had stopped choosing anything and was simply looking. She was not leaning on the post any more but standing square to him, and she was looking at him as he imagined she would look at an opponent who had just done something nobody had taught her to expect.
 
 "I've not heard of that," she said. "And I thought I'd heard everything. This district gathers odd people the way a drain gathers hair. There's a man down by the river who claims his Path only wakes up underwater, and a woman in the yards who swears hers only switches on when she's lying, which means she's either the most useless person in Ardenmere or the most dangerous, and nobody's worked out which. I haven't heard of a classification with no tier at all."
 
@@ -148,7 +148,7 @@ Nobody here had met the word yet. Lira had met him.
 
 He watched her face when it landed, because her face was information.
 
-It did not draw back, and it did not soften into something careful, the way the clerk's had at the record office. She did not look away, and she did not look harder, either, in the way people look harder at something they have decided to be brave about. She simply took it in. He could see her taking it in, turning it over, setting it beside the other things she knew and finding that it did not fit with any of them, and then, instead of forcing it to fit, putting it down by itself where she could look at it.
+It did not draw back, and it did not soften into something careful, as the clerk's had at the record office. She did not look away, and she did not look harder, either. She simply took it in. He could see her taking it in, turning it over, setting it beside the other things she knew and finding that it did not fit with any of them, and then, instead of forcing it to fit, putting it down by itself where she could look at it.
 
 "Huh," Lira said.
 
@@ -166,7 +166,7 @@ That was all, for a moment. Then: "I don't actually know what that means."
 
 "Then it's either the most interesting thing anybody's told me in four months," said Lira, "or it's the most elaborate way I've ever heard of avoiding saying whether you can fight." The corner of her mouth went up. "Possibly both."
 
-"Possibly both," Cael agreed, and found that he meant it.
+"Possibly both," Cael agreed, and meant it.
 
 ---
 
@@ -200,7 +200,7 @@ Lira let go of her shoulder and walked back across the triangle to the board, un
 
 "You didn't look like you were trying."
 
-"I wasn't. That's rather the point." She rolled her right shoulder once, the way you roll a shoulder after carrying something, though she had carried nothing. "People think Wind makes you fast like a thrown stone's fast. It doesn't. Not at Copper. Not at my rank, anyway. At Copper, what it does is make the world slightly more negotiable round you, for about a second at a time. The distance between here and there gets a little less firm about how far it is." She shrugged. "I didn't decide to go. My feet had an opinion about that cart before I'd got round to having one."
+"I wasn't. That's rather the point." She rolled her right shoulder once, as if she had just set down something heavy, though she had carried nothing. "People think Wind makes you fast like a thrown stone's fast. It doesn't. Not at Copper. Not at my rank, anyway. At Copper, what it does is make the world slightly more negotiable round you, for about a second at a time. The distance between here and there gets a little less firm about how far it is." She shrugged. "I didn't decide to go. My feet had an opinion about that cart before I'd got round to having one."
 
 "How often does that happen?"
 
@@ -208,7 +208,7 @@ Lira let go of her shoulder and walked back across the triangle to the board, un
 
 "The gap between what?"
 
-"Between the move you were taught and the move your body makes when there's no time to remember the lesson." Lira said it with a kind of fondness, the way people speak about a teacher they have stopped needing and not stopped missing. "Most people spend their whole time trying to close it. Make the trained thing and the fast thing the same, every time, no daylight. I thought that was the goal too, when I was at the academy." She shook her head. "I don't think so any more. I think the interesting part lives in the gap. You just have to get through it enough times to see what's in it."
+"Between the move you were taught and the move your body makes when there's no time to remember the lesson." Lira said it with a kind of fondness, as people speak about a teacher they have stopped needing and not stopped missing. "Most people spend their whole time trying to close it. Make the trained thing and the fast thing the same, every time, no daylight. I thought that was the goal too, when I was at the academy." She shook her head. "I don't think so any more. I think the interesting part lives in the gap. You just have to get through it enough times to see what's in it."
 
 ---
 
@@ -244,7 +244,7 @@ He was grateful for that, because he did not have anything to say yet that would
 
 "Not here."
 
-She said it lightly and pleasantly and finally, the way you close a drawer that sticks, with a little shove at the end so it stays shut. Cael heard the shove and understood it, because he had been doing the same thing all morning with a turnip cart.
+She said it lightly and pleasantly and finally, as you close a drawer that sticks, with a little shove at the end so it stays shut. Cael heard the shove and understood it, because he had been doing the same thing all morning with a turnip cart.
 
 He did not ask again.
 
@@ -264,7 +264,7 @@ She shrugged, an easy, loose movement of the shoulders that looked as though it 
 
 ---
 
-He stood at the board for a while after she had gone, without reading it.
+After she had gone he stayed where he was, in front of the board, and did not read a word of it.
 
 The crossroads had filled up while they talked. The skewer woman had a queue now, as though nearly being hit by a dray had been good for trade. A man on the far side of the triangle was swinging a pair of weighted cords on the ends of his fingers, round and round and over his head, faster and faster, the metal caps at their ends catching the sun at the top of every turn, and a small crowd had gathered round him at a respectful distance.
 
@@ -288,7 +288,7 @@ He stopped, with the pencil touching the page. Then he wrote the last line, whic
 
 That night at Torvin's, after the lamps were out and the brothers had gone to sleep in the middle of an argument about a rope, he lay on his cot under the window with the notebook on his chest and the pencil in his hand, and could not see the page, and did not need to.
 
-He had decided, in the dip between the hedges, that a cart going past close was not information. He had decided it again at the waystation, holding the pencil over his letter to Hesk. He had left the cart out of the letter so that Hesk would not have to carry it, the way Hesk had once decided not to make a thing real before it was. He had been angry at Hesk for that, nearly a week ago now, in a room with a crooked tree in the window.
+He had decided, in the dip between the hedges, that a cart going past close was not information. He had decided it again at the waystation, holding the pencil over his letter to Hesk. He had left the cart out of the letter so that Hesk would not have to carry it, just as Hesk had once decided not to make a thing real before it was. He had been angry at Hesk for that, nearly a week ago now, in a room with a crooked tree in the window.
 
 *Write all of it,* Hesk had said at the kitchen table, *the things that look like nothing too. You can't tell which ones count until afterwards.*
 

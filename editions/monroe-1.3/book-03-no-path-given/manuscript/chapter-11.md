@@ -223,7 +223,7 @@ Karis looked up, and for the first time all evening she seemed genuinely surpris
 
 Karis untied the second bundle without a word, went down the spines with one finger, and drew out a volume from near the bottom.
 
-"Six," she said. "Pages forty to fifty-two. I was fourteen, and I was wrong about some of it. I've marked where." She held it out. "Bring it back with your own marks in it, if you have any. I'd like to see them."
+"Six," she said. "Pages forty to fifty-two. I was fourteen, and I was wrong about some of it. I've marked where." She held it out. "Bring it back at the end of the month, with your own marks in it, if you have any. I'd like to see them."
 
 Brom took the notebook in both hands, as if it were something that might spill.
 

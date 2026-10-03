@@ -154,7 +154,7 @@ Oona looked at her hand for a long moment, as if something might have been left 
 
 "It does," said Karis gravely. "Exactly what, and exactly where it stops."
 
-Brom made the low sound in his chest that did him for a laugh. Oona looked across the table at him with deep satisfaction, as if a sum she had been carrying a long time had just come out.
+Brom laughed, low. Oona looked across the table at him with deep satisfaction, as if a sum she had been carrying a long time had just come out.
 
 She finished her barley quickly after that, with the air of somebody who had got what she came for and had lectures to attend. At the end of the table she stopped by Cael's elbow.
 

@@ -8,7 +8,7 @@ It came from somewhere north and a little uphill, two or three streets away. It 
 
 "What's on?"
 
-He asked it lightly, the way he asked about the price of fish. The woman looked at him for a moment over her firebox. It was not a long look and it was not a hostile one. It was the look of somebody who has been asked by a stranger in a good coat what the weather is, and has noticed the coat.
+He asked it lightly, as he asked about the price of fish. The woman looked at him for a moment over her firebox. It was not a long look and it was not a hostile one. It was the look of somebody who has been asked by a stranger in a good coat what the weather is, and has noticed the coat.
 
 "The circuit," she said, and her face went quite flat, pleasantly flat, like a shutter painted to look like a window. "The Sunday one. You'll want another of those? They're better hot."
 
@@ -42,7 +42,7 @@ He had left that clause standing perhaps a dozen times in eleven years. Every on
 
 Not one of them had been a child.
 
-He sat with the pen over the paper and did what he always did when a document made him uneasy. He went back through the regulation in his head, section by section, the way another man might go through his pockets. He was looking for a version of this summons, without that clause in it, that would still satisfy the procedure. He had a good memory for regulation.
+He sat with the pen over the paper and did what he always did when a document made him uneasy. He went back through the regulation in his head, section by section, as another man might go through his pockets. He was looking for a version of this summons, without that clause in it, that would still satisfy the procedure. He had a good memory for regulation.
 
 The clause was standard. There was no form of the summons without it. To strike it out would be a deviation he could not justify in writing. Coss did not, as a rule, do things he could not justify in writing. That was not because he had no feelings about them. It was because a feeling with no written reason behind it was exactly what got a field agent quietly posted to a coast town to copy other men's reports.
 
@@ -74,7 +74,7 @@ Torvin opened the door. He looked at Coss, and at the paper, and at the seal on 
 
 "Give it to him when he is."
 
-Torvin looked at the seal for a moment longer. His face did not do anything that Coss could have written down. Then he took the paper, and nodded once, and shut the door, and Coss stood in the lane under the sign and found that he had been waiting, without meaning to, for the man to say whether he would.
+Torvin looked at the seal for a moment longer. His face did not do anything that Coss could have written down. Then he took the paper, and nodded once, and shut the door, and Coss stood in the lane under the sign and understood that he had been waiting, without meaning to, for the man to say whether he would.
 
 He walked back to the post. Over the roofs, somewhere north, a few late voices were still going, the tail end of a crowd going home from a public house.
 
@@ -160,7 +160,7 @@ He read the last clause a third time, slowly, one word at a time, the way he rea
 
 It was the same voice as the notice in the back of the old notebook. *This notice does not constitute a criminal or civil finding against the bearer.* It was the voice that held its meaning at arm's length, in long careful words, so that everything in it was true and nothing in it could be felt. He made himself feel it anyway. It meant that if he did not walk up the fish steps to the post, men would come, and take him there, whether he walked or not.
 
-He thought about Hesk on the roof at Fen Street, with the grey dog crossing below and the tea going cold, saying *there are provisions*. He thought about the green book in the archive in Denvash and its three entries, dead within weeks, and the fourth, unknown, and the phrase *practice-related incident*, and somebody, a long time ago, choosing which kind of true to write down. He thought about a grey coat walking the market slowly from one end to the other, and a dark coat on a doorstep asking for his whole name.
+He thought about Hesk on the roof at Fen Street, with the grey dog crossing below and the tea going cold, saying *there are provisions*. He thought about the green book in the archive in Denvash and its three entries, dead within weeks, and the fourth, unknown, and the phrase *practice-related incident*, and somebody, long ago, choosing which kind of true to write down. He thought about a grey coat walking the market slowly from one end to the other, and a dark coat on a doorstep asking for his whole name.
 
 He waited for the fear, the formless one, the one that had sat on his chest in the dark at Fen Street and on the rise above this city and on a great many nights since. It did not come. Something else came instead, and he looked at it with some surprise, because it was nearly calm.
 
@@ -192,7 +192,7 @@ There was a pause in the dark that was a different shape from her usual pauses.
 
 "Now."
 
-He heard her sit up. He could not see her face, only the pale shape of her against the window. He could feel her looking at him, at the coat he still had on and the paper in his hand, in the way she looked at a tear before she mended it.
+He heard her sit up. He could not see her face, only the pale shape of her against the window. He could feel her looking at him, at the coat he still had on and the paper in his hand, as she looked at a tear before she mended it.
 
 "Third lane past the well, going up," said Yeni. "The tall house with the rain barrel that's lost its hoop. She's in the roof, with the two sisters from the dye sheds. Don't knock the front. The woman who owns it is deaf in one ear and cross in both." She lay down again. "Go round the side. There's a window at the bottom of the roof stair. Knock on the glass, three times, soft. The sisters sleep like the dead and Lira doesn't sleep like anything."
 
@@ -232,7 +232,7 @@ He thought about the brown building at the head of the fish steps, with its boar
 
 "Under his floor," he said.
 
-"Under his floor." Lira's mouth did something at one corner, not a smile. "It's either very stupid or exactly right. Opens in the morning. Early." She was already thinking; he could see her already sorting, the way she sorted a bout between exchanges. "I'll come."
+"Under his floor." Lira's mouth did something at one corner, not a smile. "It's either very stupid or exactly right. Opens in the morning. Early." She was already thinking; he could see her already sorting, as she sorted a bout between exchanges. "I'll come."
 
 "You don't have to."
 

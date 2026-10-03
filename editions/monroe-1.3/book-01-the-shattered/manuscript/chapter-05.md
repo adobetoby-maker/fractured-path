@@ -46,9 +46,9 @@ Then Hesk got up and lifted something else off the workshop bench and set it bes
 
 ---
 
-Hesk carried the gauge in a canvas sling against his chest, one hand under it, the way some men carry a sleeping cat. Cael had the bag on his shoulder and the satchel of tools on the other side to balance it. Neither of them had said they would walk to the depot together. Cael could have found the depot asleep; his feet had known the way there for as long as he had had feet. They walked anyway, and it was not discussed.
+Hesk carried the gauge in a canvas sling against his chest, with one hand under it. Cael had the bag on his shoulder and the satchel of tools on the other side to balance it. Neither of them had said they would walk to the depot together. Cael could have found the depot asleep; his feet had known the way there for as long as he had had feet. They walked anyway, and it was not discussed.
 
-Six in the morning was its own district. He had lived inside it for fourteen years without once turning round to look at it, the way you never look at the inside of your own coat. He looked now. The street was blue in the shadows and pale where the sky reached down between the roofs, and the gutters were still wet from someone's bucket, and the first chimneys were putting up thin grey threads that leaned all one way.
+Six in the morning was its own district. He had lived inside it for fourteen years without once turning round to look at it, any more than you look at the inside of your own coat. He looked now. The street was blue in the shadows and pale where the sky reached down between the roofs, and the gutters were still wet from someone's bucket, and the first chimneys were putting up thin grey threads that leaned all one way.
 
 The bread reached them before the bakery did. Ressa's side door stood open with the ovens roaring behind it, and the smell came half a block up Fen Street to meet them, as it had come every morning of his life. Ressa was out on the front step with a broom. She was broad and quiet and floured to the elbow, and she had been selling Hesk his bread since before Cael could see over her counter.
 
@@ -238,7 +238,7 @@ He lifted a hand at Cael from habit. "Registration."
 
 Cael gave him the card. The guard's eyes went across it in the order everyone's eyes went: name, number, classification. On the stamped line they stopped going.
 
-Cael saw the half-second happen. It was the moment when a face doing routine work runs into something it has no routine for and has to pick, very fast, what to do instead. This face picked nothing loud. It did not narrow or harden. It simply withdrew, the way a hand comes back from a hot pan, and settled into the look of a man who had decided the kindest thing for everyone was to have this be over.
+Cael saw the half-second happen. It was the moment when a face doing routine work runs into something it has no routine for and has to pick, very fast, what to do instead. This face picked nothing loud. It did not narrow or harden. It simply withdrew, and settled into the look of a man who had decided the kindest thing for everyone was to have this be over.
 
 "Go on," the guard said.
 

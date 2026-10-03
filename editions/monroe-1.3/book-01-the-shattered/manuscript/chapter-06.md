@@ -84,7 +84,7 @@ It helped. It did not help all the way. True things had always held more weight 
 
 The road dropped after midday into a long shallow valley with a stream at the bottom, and here the walls gave way to hedges, high and thick, so that the road ran between them like a corridor. It narrowed and bent, and you could not see more than fifty paces either way, and the air was still and close and smelled of wet leaves and turned earth.
 
-Cael walked with his head down, counting milestones. He had passed nine since Denvash, and he was trying to work out his pace from them and from the sun, and getting different answers, and enjoying the problem the way he had enjoyed the bracket.
+Cael walked with his head down, counting milestones. He had passed nine since Denvash, and he was trying to work out his pace from them and from the sun, and getting different answers, and enjoying the problem as he had enjoyed the bracket.
 
 He stepped sideways.
 
@@ -156,7 +156,7 @@ Inside there was one long room with a stove at one end, a table with benches, an
 
 The keeper came in from the back, tall and bony, with her sleeves rolled up and her hair tied in a cloth, and named a price, and Cael counted it out of Hesk's pouch in the small worn coins. She counted them again herself, and then a third time. She did not once look at his face, not when he paid and not when she pointed him to the cot by the window and not when she said, "Stew's at dark. Bread's on the table. Don't eat the bread." It was not unkind. If anything it was the opposite, he thought. She did not want his face, only his coins to be right, and here that was all anyone needed to be.
 
-He sat at the end of the table near the stove with a clean sheet of paper and his pencil, and wrote *Hesk*, and then looked at the word for a while before he wrote the rest.
+He sat at the end of the table near the stove with a clean sheet of paper and his pencil, and wrote *Hesk*, and then sat looking at the word before he wrote the rest.
 
 *I'm at the waystation. It's where you said, and the lamp's lit. The woman counts coins three times and says not to eat the bread, which I think is good advice.*
 
@@ -174,7 +174,7 @@ He held the pencil over the page for a moment, and then went on.
 
 *A carter gave me a ride the last few miles. He grows turnips and gave me one. He's Copper Rank 4, Stone Path.*
 
-He looked at that line for a while. He had not written how the ride started. It had been nothing, only a cart on a bend. If he wrote it down, Hesk would read it a week from now at the kitchen table and worry about something that was already over, with nothing he could do about it except worry.
+He looked at that line. He had not written how the ride started. It had been nothing, only a cart on a bend. If he wrote it down, Hesk would read it a week from now at the kitchen table and worry about something that was already over, with nothing he could do about it except worry.
 
 Cael held the pencil very still.
 
@@ -198,9 +198,9 @@ The stew came at dark and was better than it looked, and the bread was worse tha
 
 The second day was longer than the first. His legs had stiffened in the night and took most of the morning to forgive him. The road climbed out of the farmland into rougher country with fewer walls and more sheep, and long slow hills that looked short until you were on them.
 
-The sheep watched him go by with flat, unimpressed faces. There were no more turnip carts. He walked by himself and watched the milestones, and for nearly half an hour he watched a hawk working a field without ever seeing it catch anything, and found that by the end he was on its side.
+The sheep watched him go by with flat, unimpressed faces. There were no more turnip carts. He walked by himself and watched the milestones, and for nearly half an hour he watched a hawk working a field without ever seeing it catch anything, and by the end he was on its side.
 
-He did not take the leather book out again. He did not need to, because he had read it often enough on the wall that its lines came up by themselves as he walked, the way the old descriptions on page seven did.
+He did not take the leather book out again. He did not need to, because he had read it often enough on the wall that its lines came up by themselves as he walked, like the old descriptions on page seven.
 
 And the record came up by itself too, the green book and the four entries, and this time he made himself do something with it instead of just letting it come.
 
@@ -240,7 +240,7 @@ He stood on the rise with the wind at his back. He was very tired, and his legs 
 
 He thought about the green book in the archive, with its four entries, three of which had ended in a few weeks and one in a line that said nobody knew. He was the fifth.
 
-On the walk home from the record office he had promised himself there would be no fifth entry in that green book with his name at the top. It had been easy to promise, the way things are easy on a walk home. He said it again now, to himself, and it was not easy anymore, because he could see how big the thing was that he would have to say it to.
+On the walk home from the record office he had promised himself there would be no fifth entry in that green book with his name at the top. It had been easy to promise, as things are easy on a walk home. He said it again now, to himself, and it was not easy anymore, because he could see how big the thing was that he would have to say it to.
 
 He took out his notebook, opened it to a clean page, and wrote in the last of the light:
 

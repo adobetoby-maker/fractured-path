@@ -44,7 +44,7 @@ He thought about the columns. *Claim. Evidence. Ruling.* He thought about how lo
 
 It was a combination of three parts, and the first two were nothing.
 
-She came in with a touch, high, toward his face, quick and light and empty, a tap on a door to see who was home. Then another, just like it, from the other hand. They brought his forearms up without his permission, the way a flinch brings your hands up when something moves near your eyes. Then she stepped.
+She came in with a touch, high, toward his face, quick and light and empty, a tap on a door to see who was home. Then another, just like it, from the other hand. They brought his forearms up without his permission. Then she stepped.
 
 And the step was the unfair part. She was two paces from him when she started it and she was inside his reach when it finished, and he did not see it cover the distance.
 
@@ -78,7 +78,7 @@ The morning it happened was an ordinary one, and he would go over it afterward a
 
 He brought the bread. He had asked the bread woman for two from underneath, as he always did now. She had given him two from underneath without the sour look, as she always did now, and he took as a sign that the market had stopped thinking of him as new.
 
-The yard was cool and still, and the crows were along the eaves of the public house, watching the dirt with the settled patience of birds who had worked out years ago that nothing that happened down there was food. The east wall's shadow lay across the yard in its long grey bar, the way it lay every morning, and Lira was in it.
+The yard was cool and still, and the crows were along the eaves of the public house, watching the dirt with the settled patience of birds who had worked out years ago that nothing that happened down there was food. The east wall's shadow lay across the yard in its long grey bar, as it lay every morning, and Lira was in it.
 
 They warmed up with the deflection, catch, reset, send, which his left arm could do now nearly as well as the right, though the burn still pulled when he turned the wrist. Then she moved him about the grey half with a drill for the feet that she had introduced the week before, a box of four steps forward and back and across, calling the corners faster and faster until he lost the count and she laughed at him.
 
@@ -116,7 +116,7 @@ He had once borrowed Garrik's coat in the rain, when he was ten, and the sleeves
 
 Lira stopped.
 
-She did not stop the way she stopped at the end of a set. She stopped completely, all of her, the way the yard had stopped in the third exchange against Renn, when he could hear the lanterns creak.
+She did not stop the way she stopped at the end of a set. She stopped completely, all of her, as the yard had stopped in the third exchange against Renn, when he could hear the lanterns creak.
 
 "How did you know that was coming?"
 
@@ -124,7 +124,7 @@ He looked down at himself. He looked at where his feet were, and his hands, as i
 
 "I don't know."
 
-"That wasn't your counter." She came round him slowly, a half-circle, the way she had walked round him at the board on the first day, the way a buyer walks round a horse. She was looking at the place where his feet had been, and the long scuffed arc his left foot had drawn across the dirt. "That wasn't your read. You were going back and out. I watched you start to go back and out. And then you didn't." She stopped in front of him again. "I've never seen you move like that."
+"That wasn't your counter." She came round him slowly, a half-circle, as she had walked round him at the board on the first day. She was looking at the place where his feet had been, and the long scuffed arc his left foot had drawn across the dirt. "That wasn't your read. You were going back and out. I watched you start to go back and out. And then you didn't." She stopped in front of him again. "I've never seen you move like that."
 
 "I don't know," he said again.
 
@@ -132,7 +132,7 @@ It came out quieter, and he heard how much quieter. Under the honest not-knowing
 
 Lira looked at him for a long time.
 
-He found himself watching her face while she did it, the way he watched everybody's face, and the watching felt different, aimed at her, like turning a gauge on something it had not been built to measure. He was looking for one thing, and he knew exactly what it was.
+He found himself watching her face while she did it, as he watched everybody's, and the watching felt different, aimed at her, like turning a gauge on something it had not been built to measure. He was looking for one thing, and he knew exactly what it was.
 
 He had seen it on the face of the gate guard at Denvash, and the clerk at the record office, and Pellin, just for a second, behind the professional blankness. He was looking for the moment when somebody's face found out something about him and drew back from it.
 
@@ -156,7 +156,7 @@ They were careful with each other now. It was as if a room they both knew by hea
 
 She used the step twice more before the shadow left the post, and both times he reached for it. He did not mean to, and he knew it was useless before he did it, and he did it anyway.
 
-When the two touches came he felt for the thing that had dropped him, the way he had felt for it in the fourth exchange against Renn, like a man patting his coat for a key he had been holding a moment ago. He reached into the room he had no key to.
+When the two touches came he felt for the thing that had dropped him, as he had felt for it in the fourth exchange against Renn. He reached into the room he had no key to.
 
 There was nothing there.
 
@@ -216,7 +216,7 @@ She went to the middle of the grey half, where the shadow had been that morning,
 
 Then she did it herself.
 
-She did it slowly at first, standing with her weight back and out, the way he had been standing when he started to build his counter, and she imagined her own backhand coming round from the left at the height of her head. Then she dropped. She let her weight go down and sideways, and swept her left leg out behind her in an arc across the dirt, and folded her right knee under her, and turned.
+She did it slowly at first, standing with her weight back and out, as he had been standing when he started to build his counter, and she imagined her own backhand coming round from the left at the height of her head. Then she dropped. She let her weight go down and sideways, and swept her left leg out behind her in an arc across the dirt, and folded her right knee under her, and turned.
 
 It was easy; that was the first thing she found. Her body knew how to put its weight that low, and how to turn under a line, because that was what Wind did best at Copper. It took you out of the place where things landed. She had been dropping under strikes since her first month at the academy.
 
@@ -282,7 +282,7 @@ She had seen him search her face, quickly and thoroughly, as he searched everybo
 
 He had been waiting for her to do it. He had been bracing for it.
 
-And she had found that she did not want to give him anything he could mistake for it. Not a question, not a frown, not an *again, show me* in the voice of somebody who needed an explanation before she would decide what to think of him.
+And she did not want to give him anything he could mistake for it. Not a question, not a frown, not an *again, show me* in the voice of somebody who needed an explanation before she would decide what to think of him.
 
 She had had enough of desks in her life. She had stood in front of one once and been told that what she had done did not count because nobody had approved it first, and she had asked *then what were you testing?* and been given silence. She was not going to be a desk.
 
@@ -294,9 +294,9 @@ She got up off the dirt and dusted her hands on her trousers.
 
 Out of habit, without deciding to, she reached for her Arbiter.
 
-It was the most ordinary thing she did, most mornings when she woke and most evenings, and sometimes in the middle of the day for no reason at all, the way some people glanced up at the sky. You reached for it, which was not a movement of the body so much as remembering something on purpose, and it was there, small and steady at the edge of everything, and it opened for you.
+It was the most ordinary thing she did, most mornings when she woke and most evenings, and sometimes in the middle of the day for no reason at all, as some people glanced up at the sky. You reached for it, which was not a movement of the body so much as remembering something on purpose, and it was there, small and steady at the edge of everything, and it opened for you.
 
-*Copper. Rank 2. Wind Path.* Her two declarations underneath, in the order they had come, the first one from Kindling and the second from the spring, which had come with its own odd small rush of pleasure that she still remembered. There was no new line and no change. It had looked exactly like this for a long time now, and she was used to it, and only very occasionally did it annoy her.
+*Copper. Rank 2. Wind Path.* Her two declarations underneath, in the order they had come, the first one from Kindling and the second from the spring, which had come with its own odd small rush of pleasure that she still remembered. There was no new line and no change. It had looked exactly like this since the spring, and she was used to it, and only very occasionally did it annoy her.
 
 She let it close.
 
@@ -310,7 +310,7 @@ She decided, standing there in the empty yard, that she would tell him, the next
 
 She walked to the gate. The pie boy was still asleep on his sack with his mouth open.
 
-What she wanted out of the mornings, she thought, was not complicated. She had known it for some time, and she let herself look at it now, because she was alone and there was nobody to see her face.
+What she wanted out of the mornings, she thought, was not complicated. She had known it for weeks, and she let herself look at it now, because she was alone and there was nobody to see her face.
 
 She wanted to be right about the skipped middle.
 
@@ -318,7 +318,7 @@ She did not need the academy to say so. The academy had said what it said, and t
 
 She wanted to be right about it in front of somebody who would understand why she was right. Somebody who would learn the three parts properly, the long way, and then learn why the middle could go, and then do it, and have it work.
 
-She wanted to teach it the way she wished somebody had taught it to her. Not *this is the sequence, there are diagrams*, but *this is what the middle is for, and this is what it costs, and here is when you can afford not to pay*. She wanted to see her own way go into somebody else's body and come out working.
+She wanted to teach it as she wished somebody had taught it to her. Not *this is the sequence, there are diagrams*, but *this is what the middle is for, and this is what it costs, and here is when you can afford not to pay*. She wanted to see her own way go into somebody else's body and come out working.
 
 Then it would not only be hers. Then it would be true.
 
@@ -342,7 +342,7 @@ At the gate of the Cinder House yard she stopped and looked back at the grey hal
 
 The pie boy had raked the rest of the circle that afternoon but not over there, because there was no reason to, and so the arc was still there, a long curved line across the dirt, already blurring at its edges.
 
-She looked at it for a while.
+She stood and looked at it.
 
 *How did you know that was coming?*
 
@@ -352,4 +352,4 @@ She believed him. That was the strangest part. He was not a liar, and he was not
 
 She would watch. If he asked her anything, she would answer straight. And if it came again, she would be standing exactly where she was standing this morning, looking at him, without drawing back an inch.
 
-She went out through the gate and down the lane toward wherever the rest of her afternoon was going, and by the time she reached the bottom of it she was walking quickly, the way she walked when she had made up her mind, with her weight a little forward, on the front of her feet.
+She went out through the gate and down the lane toward wherever the rest of her afternoon was going, and by the time she reached the bottom of it she was walking quickly, as she walked when she had made up her mind, with her weight a little forward, on the front of her feet.

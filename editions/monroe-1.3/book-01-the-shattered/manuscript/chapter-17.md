@@ -72,13 +72,13 @@ He had: a woman throwing a short punch at a plank held up by her partner, and th
 
 "Why not?"
 
-"Because she's quicker than you, and watching her won't make you quicker." She said it without any unkindness at all, the way she had said *that's not a skip, that's a hole*. "Whatever's there, you'll see it. You'll see her lace her boots and know which foot she favours; I'm not worried about your seeing. But you'll see things and not have time to do anything about them. That's what she does to people. She doesn't hide anything. She doesn't have to."
+"Because she's quicker than you, and watching her won't make you quicker." She said it without any unkindness at all, just as she had said *that's not a skip, that's a hole*. "Whatever's there, you'll see it. You'll see her lace her boots and know which foot she favours; I'm not worried about your seeing. But you'll see things and not have time to do anything about them. That's what she does to people. She doesn't hide anything. She doesn't have to."
 
 He went and watched her anyway, that afternoon, from the lane outside her gate. She was small, smaller than Lira, wiry and freckled, with her reddish hair in one tight braid down her back, and she was working alone at a sand-bag on a chain, hitting it with short, straight punches that did not look like much.
 
-Every time she hit it, it jumped. It did not swing back and forth the way a sack swings when you punch it; it leapt away from her fist on its chain as if somebody much larger had hit it, and hung at the end of its swing for a moment, and came back.
+Every time she hit it, it jumped. It did not swing back and forth as a sack swings when you punch it; it leapt away from her fist on its chain as if somebody much larger had hit it, and hung at the end of its swing for a moment, and came back.
 
-He watched her for an hour and wrote two pages, and on the way back down the lane he found that his hands were not quite steady, and could not tell whether it was the hour of watching or the thought of Sunday.
+He watched her for an hour and wrote two pages, and on the way back down the lane his hands were not quite steady, and he could not tell whether it was the hour of watching or the thought of Sunday.
 
 ---
 
@@ -188,7 +188,7 @@ The sixth exchange he lost by inches, over and over. He saw the lean and moved a
 
 He was tiring, and he could feel it; his feet were slower than they had been in the first exchange and his hands were lower. She was not tiring at all.
 
-The only thing he saw her pay was a small one: between exchanges she shook out her right hand at the wrist, once, the way you shake water off it, as though the shove she put into other people came back a little way into her own arm.
+The only thing he saw her pay was a small one: between exchanges she shook out her right hand at the wrist, once, as though the shove she put into other people came back a little way into her own arm.
 
 At the rope the noise had gone strange. Some of it was the noise for a beating, the low pleased murmur of people watching what they had paid for. But under it there was something else. He heard somebody say "Seven," and somebody else say "He won't," and the first say "He will," and he understood that they were betting on whether he would last another exchange.
 
@@ -216,7 +216,7 @@ He was in the air. Then he was not. He came down on his left hip across the groo
 
 He reported to the table with his lip swelling and his hip a single deep ache and his breath still coming back to him in pieces.
 
-Vell wrote for a long time, then blotted it and looked at him, at the swelling lip and at the way he was standing on one leg.
+Vell wrote, and blotted it, and looked at him, at the swelling lip and at the way he was standing on one leg.
 
 "Seven," she said.
 
@@ -280,7 +280,7 @@ He stopped there and looked at the column of claims, and then wrote one more lin
 
 *I'm losing on speed now. Not on seeing.*
 
-He looked at it a long time before he closed the front of the book and opened the back, and then he sat with the pencil until the lamp had burned down a finger's width.
+He closed the front of the book and opened the back, and then he sat with the pencil until the lamp had burned down a finger's width.
 
 *0 and 4. Four, five, six, seven.*
 
@@ -294,6 +294,6 @@ He looked at that last line and nearly crossed it out, because it frightened him
 
 *Find out how,* he wrote under it. *Lira knows. Ask her.*
 
-He put the book under his pillow and tried to lie on his right side, because the left hip would not have him, and found that his ribs on the right would not have him either. In the end he lay on his back under the beam, and Torvin's voice said *Lamps* through the floorboards, the way it did every night, and the last line of light under the door went out.
+He put the book under his pillow and tried to lie on his right side, because the left hip would not have him, and his ribs on the right would not have him either. In the end he lay on his back under the beam, and Torvin's voice said *Lamps* through the floorboards, as it did every night, and the last line of light under the door went out.
 
 Seven exchanges: he had lasted longer than he had ever lasted and seen more than he had ever seen, and he had never felt further from being able to do anything about it.

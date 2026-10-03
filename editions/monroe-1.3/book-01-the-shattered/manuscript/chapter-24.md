@@ -18,7 +18,7 @@ The Fenrow man came over the rope first, in a single long step, rolling his shou
 
 Dessa came over the rope after him and walked to hers.
 
-She did not look at the rope. That was the first thing Cael wrote down, because it was the first thing he saw. Everybody looked at the rope when they came over it. Renn had grinned at it, and Brenna had scowled at it, and Amrit had nodded to it, and even Petra, who looked at nothing but her opponent, had let her eyes go once along the rope as she came in, the way you glance at the sky before you go out. Dessa walked to her mark with her eyes on the dirt in front of her, and then on the Fenrow man's feet, and that was all.
+She did not look at the rope. That was the first thing Cael wrote down, because it was the first thing he saw. Everybody looked at the rope when they came over it. Renn had grinned at it, and Brenna had scowled at it, and Amrit had nodded to it, and even Petra, who looked at nothing but her opponent, had let her eyes go once along the rope as she came in. Dessa walked to her mark with her eyes on the dirt in front of her, and then on the Fenrow man's feet, and that was all.
 
 She was not tall, but she was solid all the way down. Her hair was tied back so tightly that her face looked pulled, and she stood with her weight settled low and her hands down, not raised, loose in front of her hips.
 
@@ -70,7 +70,7 @@ This time he did not get up as quickly.
 
 ---
 
-Cael had four pages by the time the yard had begun to empty, and he had not looked up from them for some time, and when he did, Lira was standing in front of him.
+Cael had four pages by the time the yard had begun to empty, and when he looked up from them, Lira was standing in front of him.
 
 "Well?" she said.
 
@@ -114,7 +114,7 @@ It was the slowest afternoon's work Cael had ever done. The balance the mender g
 
 If he opened the glass before it had finished settling, he had to start again. He did that twice, early on, and then not again.
 
-Somewhere around the twentieth weight he found that he had stopped wanting it to be faster. He was simply waiting, with his hands flat on the bench and his eyes on the pointer, and the waiting had become a kind of watching, and the watching was all he was doing.
+Somewhere around the twentieth weight he stopped wanting it to be faster. He was simply waiting, with his hands flat on the bench and his eyes on the pointer, and the waiting had become a kind of watching, and the watching was all he was doing.
 
 He thought about Dessa standing on her mark with the grit lying flat round her boots, letting a man hit her forearm, and counting.
 
@@ -128,7 +128,7 @@ Cael kept his hands flat on the bench.
 
 "Why are you telling me?"
 
-The mender did not answer that for a while. He turned a tiny screw a quarter turn, and looked, and turned it back an eighth.
+The mender did not answer that at once. He turned a tiny screw a quarter turn, and looked, and turned it back an eighth.
 
 "Because you went past my door the same morning," he said, "the long way round, and then back again the other way. And you're not a boy who goes the long way round for nothing." He did not look up. "Same time Wednesday."
 
@@ -142,13 +142,13 @@ On the Wednesday night, the door was open.
 
 Cael came down to the kitchen late, after the others had gone up, to sit at the end of the table with the Log, because the kitchen was warm and the lamp there was better than Yeni's. At the far end of the table a man sat over a bowl of the evening's soup, with a pipe laid beside it, unlit.
 
-He was heavy and grey and somewhere near fifty, with a broad, flattened face that had been hit a great many times a long time ago and had healed in a slightly different shape. He sat with one leg out straight under the table, the right one, as though the knee did not like to bend. When he lifted his spoon, Cael saw that the knuckles of both his hands were thick and white with old scars.
+He was heavy and grey and somewhere near fifty, with a broad, flattened face that had been hit a great many times, years ago, and had healed in a slightly different shape. He sat with one leg out straight under the table, the right one, as though the knee did not like to bend. When he lifted his spoon, Cael saw that the knuckles of both his hands were thick and white with old scars.
 
 He looked at Cael in the doorway and went back to his soup.
 
 Cael sat down at the far end and opened the Log.
 
-They sat like that for some time, with the range ticking as it cooled and the lamp hissing and the man eating his soup slowly, the way men eat who have learned to eat when there is food and not before. Cael wrote up the Monday morning's report, and the weights, and the mender's pin, and then turned back to the four pages on Dessa and read them.
+They sat like that, with the range ticking as it cooled and the lamp hissing and the man eating his soup slowly, as men eat who have learned to eat when there is food and not before. Cael wrote up the Monday morning's report, and the weights, and the mender's pin, and then turned back to the four pages on Dessa and read them.
 
 "Dessa," the man said.
 
@@ -208,9 +208,9 @@ But round the edges of the defender, without his quite deciding to, he had begun
 
 None of that would help him on the Thursday. He knew it would not. He could not think of any way that the hair, or the water cup, or the pie boy would help him find a single opening in a frame like a gatepost. But he had not been able to leave them out, and when he read the four pages through all at once, they did not read like Renn's entry, or Brenna's. They read like somebody.
 
-He turned that over for a while.
+He turned that over.
 
-He had watched Renn as a machine to be taken apart, and Brenna as a temper, and Petra as a speed. That had been right, as far as it went. But it occurred to him, sitting there with the lamp hissing, that Dessa was a person who had decided a long time ago how she was going to stand in the world, and then stood that way. She had not chosen it to win bouts. She had chosen it first, and the bouts came after. He thought that if he understood why she had chosen it, he would understand her guard better than any number of feints could teach him.
+He had watched Renn as a machine to be taken apart, and Brenna as a temper, and Petra as a speed. That had been right, as far as it went. But it occurred to him, sitting there with the lamp hissing, that Dessa was a person who had decided long ago how she was going to stand in the world, and then stood that way. She had not chosen it to win bouts. She had chosen it first, and the bouts came after. He thought that if he understood why she had chosen it, he would understand her guard better than any number of feints could teach him.
 
 He did not know why she had chosen it. He did not think he would find out from the benches.
 

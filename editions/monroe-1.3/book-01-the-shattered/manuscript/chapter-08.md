@@ -2,7 +2,7 @@
 
 The brothers were gone before it was light. Cael heard them go, a great deal of whispering that was louder than talking would have been, and a boot dropped on the boards and complained at in a mutter he could not make out, and then the door. When he opened his eyes properly the window had turned grey, the wheezing man was still asleep with his mouth open, and Yeni's cot was empty and already made, its blanket folded into a square so exact that it looked like a joke about blankets.
 
-He dressed under the coat, the way you dress in a room that is not yours, and went down the turning stairs to the kitchen.
+He got into his clothes under the coat, where the cold could not find him, and went down the turning stairs to the kitchen.
 
 It was a long, low room at the back of the house, with a black range at one end that somebody had already lit. A table scarred with knife marks ran down the middle, and at the far end a door stood open on a yard with a pump in it.
 
@@ -120,7 +120,7 @@ At the far end of the bridge was the gate he had watched close the night before.
 
 By daylight it was smaller than it had looked by lamplight, a stone arch in a stone wall with two guards on the near side of it and a little roofed booth where a clerk sat with a ledger. Everyone who crossed the bridge stopped at the booth. Everyone held out a card. The clerk looked at each card, and looked at the face above it, and either nodded or did not.
 
-Cael watched them for a long time, and he counted.
+Cael watched them, and he counted.
 
 A woman with a basket showed a card and was nodded through. Copper, he guessed, from the quickness of it; the outer ring was Copper's, and the clerk barely looked. A man in a guild coat showed his and was nodded through faster still, and walked on up the road toward the second wall without breaking his stride. Iron, Cael thought, or better, and going higher than the outer ring. Two porters with a handcart showed theirs and were let through to unload in the shadow of the arch, and no further, and they seemed to know exactly where the line was and did not step over it.
 
@@ -130,7 +130,7 @@ The young man said something. The clerk shook his head again, not unkindly, and 
 
 Cael watched him go down the steps toward the fish market.
 
-*Unranked can't legally pass.* He had read it in the community hall, at the long table, and copied it into a notebook in the careful hand he used for facts. Copper got the outer districts. Iron got the city and, with papers, the guild districts. Bronze got the administrative core. Silver got everything and the roads between cities. It had been a table in a summary, and he had learned it the way you learn a table, by its columns.
+*Unranked can't legally pass.* He had read it in the community hall, at the long table, and copied it into a notebook in the careful hand he used for facts. Copper got the outer districts. Iron got the city and, with papers, the guild districts. Bronze got the administrative core. Silver got everything and the roads between cities. It had been a table in a summary, and he had learned it as you learn a table, by its columns.
 
 Now he had watched it work on a person, and it was not a table. It was a man with a sack walking back the way he had come.
 
@@ -156,7 +156,7 @@ On the doorframe, at eye level, somebody had cut four words into the wood with a
 
 That was all. Cael read it twice and could not decide whether it was the beginning of a sentence or the whole of one, and whether it meant the thing or the person who had brought it. He thought that perhaps the man had cut it that way on purpose so that he would not have to decide either.
 
-The man laid the straightedge along the frame one more time, squinted down it, and grunted. Then he looked up and saw Cael in the street, and looked at him the way he had looked at the frame, checking.
+The man laid the straightedge along the frame one more time, squinted down it, and grunted. Then he looked up and saw Cael in the street, and looked at him as he had looked at the frame, checking.
 
 "Something of yours broken?" he said.
 
@@ -172,7 +172,7 @@ That was how it looked at first, from the street: noise and dust and the flat sm
 
 Cael walked slowly along the lane and looked through the gates.
 
-He had come here meaning to watch, and he found that he could do more than that now. He could read some of it. A young man in the second yard was throwing strikes at a post, and every strike started in his hips and his feet and arrived at the post a quarter of a second after his shoulder had told it to. Cael saw the quarter-second each time, and thought of a grey picture on a sheet and Hesk's voice in the dark: *the hips have to go where the weight goes.* A pair of girls in the next yard were drilling a block, one striking and one turning the strike aside with her forearm, over and over. The one who was blocking had learned to watch the striker's back foot instead of her hand, and the one who was striking had not yet noticed.
+He had come here meaning to watch, and he could do more than that now. He could read some of it. A young man in the second yard was throwing strikes at a post, and every strike started in his hips and his feet and arrived at the post a quarter of a second after his shoulder had told it to. Cael saw the quarter-second each time, and thought of a grey picture on a sheet and Hesk's voice in the dark: *the hips have to go where the weight goes.* A pair of girls in the next yard were drilling a block, one striking and one turning the strike aside with her forearm, over and over. The one who was blocking had learned to watch the striker's back foot instead of her hand, and the one who was striking had not yet noticed.
 
 Paths were everywhere, if you knew what to look for. In one yard a man stood perfectly still with his feet flat while a friend shoved him, and the dust around his feet shivered once and lay flat, and Cael thought of Joren with a sudden sharpness that surprised him. *Stone.* In another a woman threw a short punch at a plank held up by her partner, and the plank did not break so much as jump out of his hands as if it had been kicked from behind. Force, or something like it. Nobody here wore a Path on a badge, and nobody needed to. They wore it in their shoulders and their feet.
 
@@ -218,7 +218,7 @@ He walked it once, from end to end, at the pace of someone going somewhere else.
 
 Near the far end, behind a bare low table, sat a small old woman.
 
-She was small and very upright, with her hands folded on the bare wood and a grey shawl round her shoulders. She looked as though she had been sitting in that exact position for years and saw no reason to change it now. A young man was standing in front of the table. Cael slowed a little as he came up behind him, the way you slow when someone ahead of you on a path has stopped. The young man bent down, said something too quietly to hear, and put a small stack of coins on the table between the old woman's hands.
+She was small and very upright, with her hands folded on the bare wood and a grey shawl round her shoulders. She looked as though she had been sitting in that exact position for years and saw no reason to change it now. A young man was standing in front of the table. Cael slowed a little as he came up behind him. The young man bent down, said something too quietly to hear, and put a small stack of coins on the table between the old woman's hands.
 
 She did not look at the coins. She looked at him. Then she spoke, and Cael counted without meaning to: three sentences, short ones, in a low, even voice, not one word louder than it needed to be.
 
@@ -226,7 +226,7 @@ The young man straightened. All the colour had gone out of his face at once, as 
 
 The coins were gone. Cael had not seen her take them.
 
-He walked on past the table without stopping. As he passed, the old woman's eyes moved and followed him for three steps, unhurried and entirely unconcerned, and then went back to the lane. He felt the attention leave him the way you feel a draught stop when a door is shut.
+He walked on past the table without stopping. As he passed, the old woman's eyes moved and followed him for three steps, unhurried and entirely unconcerned, and then went back to the lane. He felt the attention leave him as you feel a draught stop when a door is shut.
 
 Three sentences, a small stack of coins, and a man who had thought he wanted to know.
 
@@ -256,13 +256,13 @@ He read the next one, and the one after that.
 
 None of them said what they were for. That was the first thing he noticed, and it stopped him. Every one of them was an advertisement, and not one of them named the thing it was advertising, as though everyone who needed to read the board already knew, and anyone who did not know was not meant to.
 
-So he read it the way he would have read a load sheet with the headings torn off: by its numbers and its repeated words. *Card. Bout. Rematch. Unrated. Tier floor. Ledger. Vouch.* Some notices had names in them, and some of the names had letters and numbers after them in brackets, the way the registry wrote a classification.
+So he read it as he would have read a load sheet with the headings torn off: by its numbers and its repeated words. *Card. Bout. Rematch. Unrated. Tier floor. Ledger. Vouch.* Some notices had names in them, and some of the names had letters and numbers after them in brackets, as the registry wrote a classification.
 
 *Renn (Cu 3, Blade) wants work. Any evening. Cinder House.*
 
 *Result, Secondweek: Dessa (Cu 5, Stone) over Brenna (Cu 2, Shield), third exchange, called.*
 
-He looked at that one for a long time. *Cu 5, Stone.* Copper, Rank 5, Stone Path. The shape of it was the registry's shape, the same tier and rank and Path that Pellin would have written on a form, and yet the notice had nothing official about it at all. It had been written in pencil on the back of a bill for lamp oil.
+He read that one twice. *Cu 5, Stone.* Copper, Rank 5, Stone Path. The shape of it was the registry's shape, the same tier and rank and Path that Pellin would have written on a form, and yet the notice had nothing official about it at all. It had been written in pencil on the back of a bill for lamp oil.
 
 *Over.* Somebody had been over somebody else. *Third exchange. Called.* Somebody had called it.
 

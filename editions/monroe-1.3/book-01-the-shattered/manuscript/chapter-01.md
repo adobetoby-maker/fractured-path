@@ -70,7 +70,7 @@ He opened the notebook to the page.
 
 The rig was simple: a lever arm, a hanging tray, iron weights stacked in fives, and a dial gauge touching the bracket at its weakest point, so that if the bracket bent the needle would move, and if it bent too far and did not come back, it had failed.
 
-Hesk added the first stack, then the second, and the needle stayed near zero. At the third stack, which was working load, the needle twitched and settled, and Cael found that he had been holding his breath and let it out. Hesk added a fourth stack, slowly, and then a fifth, and Cael leaned in over the dial so close that he could see his own eye in the glass. At five and a half stacks the bracket made a small sound, not loud, a tick like a knuckle cracking, and the needle swung across the dial and hung there and did not come back.
+Hesk added the first stack, then the second, and the needle stayed near zero. At the third stack, which was working load, the needle twitched and settled, and Cael, who had been holding his breath, let it out. Hesk added a fourth stack, slowly, and then a fifth, and Cael leaned in over the dial so close that he could see his own eye in the glass. At five and a half stacks the bracket made a small sound, not loud, a tick like a knuckle cracking, and the needle swung across the dial and hung there and did not come back.
 
 Hesk lifted the weights off one stack at a time. The needle stayed where it was. The bracket had a slight new curve to it, as if it were thinking about bowing. It had failed at less than twice working load.
 
@@ -126,7 +126,7 @@ At the end of Tallow Lane, the Inner District wall came into view over the rooft
 
 It was higher than any wall had a reason to be. Cael had five pages in his notebook about that wall, covering its height, the grade of the road on each side of it, how many street lamps stood per hundred paces on each side, and the gate. The gate mattered most, because every city in Valdris was built in rings, and the rings were built on rank. The Registry kept your classification, and your classification decided where you could go. Copper-tier got the outer districts and part of the markets. Iron-tier got the whole city in general, and the guild districts if you carried the right papers. Bronze opened the administrative core, Silver opened every district and the roads between cities, and Gold opened whatever was left, which was mostly the kind of thing people put on posters.
 
-Hesk was Iron-tier, so he went through the Inner gate twice a month to deliver gauges, showed his registration, and was waved on, and he never talked about it, in the way people never talk about the doors that open for them.
+Hesk was Iron-tier, so he went through the Inner gate twice a month to deliver gauges, showed his registration, and was waved on, and he never talked about it, as people never talk about the doors that open for them.
 
 Below Copper was Unranked, and Unranked could not legally pass that gate at all.
 
@@ -252,7 +252,7 @@ Declarations were private; the Registry summary said so, and everybody knew it a
 
 "Give me your notebook," Joren said, holding out his hand.
 
-Cael hesitated for one heartbeat. Then he gave it over, open to a clean page near the back, and Joren took the pencil from the spine and wrote slowly, his tongue at the corner of his mouth, the way he had written everything since they were small. When he handed it back, the page said:
+Cael hesitated for one heartbeat. Then he gave it over, open to a clean page near the back, and Joren took the pencil from the spine and wrote slowly, his tongue at the corner of his mouth, as he had written everything since they were small. When he handed it back, the page said:
 
 ```
 PATH DECLARATION — COPPER RANK 1
@@ -281,7 +281,7 @@ Cael read it twice. "That's the exact wording?"
 
 So Cael put the notebook on the wall, set both hands flat on Joren's chest, and pushed.
 
-It was like pushing a doorframe. He had expected it to be hard, but he had not expected it to feel like that. Joren's body still felt like Joren's body under his hands, warm and thin, a boy's shoulders under a wool coat, and yet behind it there was something else, as if the push went into Joren and kept on going, down through his legs and into the paving stones, and the paving stones were not interested. Cael leaned and put his weight into it and dug in his heels. Joren did not move. Around his boots, the loose grit on the paving shivered once and lay flat, every grain of it, as though the ground had settled itself in the way a dog settles when it has decided it is staying.
+It was like pushing a doorframe. He had expected it to be hard, but he had not expected it to feel like that. Joren's body still felt like Joren's body under his hands, warm and thin, a boy's shoulders under a wool coat, and yet behind it there was something else, as if the push went into Joren and kept on going, down through his legs and into the paving stones, and the paving stones were not interested. Cael leaned and put his weight into it and dug in his heels. Joren did not move. Around his boots, the loose grit on the paving shivered once and lay flat, every grain of it, as though the ground had settled itself like a dog that has decided it is staying.
 
 "Huh," said Cael.
 
@@ -333,7 +333,7 @@ Cael did not say anything clever, because there was nothing clever that would no
 
 "It's Rank 1," Cael said. "It's the first thing it does, not all it does. Higher ranks build on the stance, in the Stone section—ground reading, weight transfer, things that make other people's footing go bad." He brushed grit off Joren's sleeve. "And the heel's fixable. You only have to stop being you for an hour a day."
 
-Joren snorted. Then he looked at Cael for a long moment, and the carefulness went out of his face, and what was left was only Joren.
+Joren snorted. Then he looked at Cael, and the carefulness went out of his face, and what was left was only Joren.
 
 "Nobody else would have seen that," he said. "The heel."
 
@@ -355,7 +355,7 @@ He set his feet again, flat, and Cael watched the grit shiver and settle around 
 
 They did it six more times. Joren talked through four of them and kept his heels down for three. On the fourth, Cael waited him out, and Joren began a sentence about the Stone Guild woman's terrible tea, and you could see what it cost him to finish that sentence flat-footed, but the heel stayed down and he stayed up, and he crowed about it as if he had won a tournament. The sixth time, Cael pushed until his arms shook. Joren did not move, though his face went red and sweat came out at his temples, until at last he said, "Stop, stop, it's on all the time but holding it isn't free, it's like holding your breath in your legs," and Cael stopped, and Joren let go of whatever he had been holding and nearly fell over anyway, from relief.
 
-They sat on the wall afterward, side by side, the way they used to, and Joren rubbed his trembling calves and pretended they were not trembling.
+They sat on the wall afterward, side by side, as they used to, and Joren rubbed his trembling calves and pretended they were not trembling.
 
 "So," Joren said. "Tomorrow."
 

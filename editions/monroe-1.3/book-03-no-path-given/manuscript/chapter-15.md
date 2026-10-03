@@ -8,7 +8,7 @@ Cael did not spend those days watching her. He spent them, mostly, on the floor 
 
 "Again," said Brom.
 
-The road was a long way behind them now, and the work had moved indoors with them. Brom knelt with his left palm on Cael's forearm, Iron Skin coming up under the skin like frost forming on a pane, and leaned, slow and steady, the weight arriving the way a tide arrives. Cael waited for the force to settle into the bone, chose its road before it could choose its own, out, back along the line it came in, and reached.
+The road was a long way behind them now, and the work had moved indoors with them. Brom knelt with his left palm on Cael's forearm, Iron Skin coming up under the skin, and leaned, slow and steady, the weight arriving the way a tide arrives. Cael waited for the force to settle into the bone, chose its road before it could choose its own, out, back along the line it came in, and reached.
 
 He had been catching a quarter of the push for a month. It had become almost reliable; he caught it four times in ten, sometimes five, and the price had stayed exactly the same through all of it, a hot bar laid across the collarbones and two breaths he could not take. He had begun to think of the quarter as a floor he stood on. Tonight he was trying to find out whether it was also a ceiling.
 
@@ -242,7 +242,7 @@ Edran stood and watched him do it. He did not look angry. Cael had expected ange
 
 Then Edran turned his head, and his eyes went across the yard to the rail, and found Cael there with the binder open on his arm and the pen still in his hand.
 
-He held the look. His face showed nothing at all. Cael thought he understood it anyway. In the space of a month the best fighter in the building had watched a boy with no Path walk into two closed sittings and come out *satisfied* both times, with nothing anyone could see to show for it but a hollow circle on his tag, and now he had watched a transfer who had been at Greyvane for five weeks take the place he had spent three years earning, without spending, so far as anyone could see, a single thing she could not spare. The ground had moved twice. He had felt it both times.
+He held the look. His face showed nothing at all. Cael thought he understood it anyway. In the space of a month the best fighter in the building had watched a boy with no Path walk into two closed sittings and come out *satisfied* both times, with nothing anyone could see to show for it but a hollow circle on his tag, and now he had watched a transfer who had been at Greyvane barely a month take the place he had spent three years earning, without spending, so far as anyone could see, a single thing she could not spare. The ground had moved twice. He had felt it both times.
 
 Edran looked away. He went out through the north gate alone, without hurrying, and the students who would once have fallen in round him like water round a post let him go.
 

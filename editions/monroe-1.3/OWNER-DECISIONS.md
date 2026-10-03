@@ -34,3 +34,9 @@ DEFAULT. Nothing here blocks the current drafting lanes unless marked BLOCKS.
 | 27 | B3 | ~~New name: Master Marlowe~~ — RESOLVED: existing canon (Ternhall lecturer, current B3 ch5; NAME_REGISTRY Book 3). | Canon. | no |
 | 28 | B3 | Coss first meets Cael at the Ardenmere summons (Book 1), so the source's "original Denvash intake, his own handwriting" (current B3 ch7) is a source conflict; the edition follows Book 1. | Edition follows Book 1. | no |
 | 29 | B1 | Audio collision the registry missed: **Halvern** (district clerk, B1 ch13) and **Halden** (Ardenmere archivist, B1 ch14) are near-identical by ear and both active in Movement 5. Mitigation in prose: never in one scene; Cael calls Halvern "the clerk". | Unchanged (renames are the owner's call). | no |
+
+## #30 — Between-books items from the Monroe 1.3 Book 1 ending (default in force)
+Book 1 (edition) ends with Darrow saying he'll be "back up this river in the autumn… he'll want to know" and Feryn's coat "I'll not see it till the autumn". Book 2's map keeps Darrow as Book 1 history only and Feryn off-page. **Default: lapse both** — at most one memory line each in Book 2; neither is staged. Owner may instead ask for a short Darrow return in Book 2's autumn circuit.
+
+## #31 — Coss's senior flag date (resolved by edition canon)
+Book 2's map: "three days after the Darrow fight". Edition Book 1: dated the day after. **The edition governs: the day after.**

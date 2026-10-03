@@ -24,7 +24,7 @@ That evening he took the binder down to the long table in the archive and did th
 
 *Fragments, confirmed: five.*
 
-*Wind-adjacent. Lira. The framework. Still the first thing my feet do when anything comes at me. In the second month Karis asked whether it felt borrowed, and I told her I didn't know. For this one I know now. It isn't borrowed. Lira and I made it between us, in a yard behind a grain exchange, and it lives in me. She's read this page. She agrees, and says I'm a tenth late on the second figure.*
+*Wind-adjacent. Lira. The framework. Still the first thing my feet do when anything comes at me. In the second month Karis asked whether it felt borrowed, and I told her I didn't know. For this one I know now. It isn't borrowed. Lira and I made it between us, in a yard behind a grain exchange, and it lives in me. She's read this page. She agrees, and says Wray is right about the second figure.*
 
 *Pressure-adjacent. Feryn. The redirect. Three clean uses mapped, and a price through the shoulder I could count to the breath. I didn't spend it once this term. I still have it. It's the one I think about least and would miss soonest, and I'm putting that down so I'll stop forgetting it.*
 
@@ -82,7 +82,7 @@ He folded the letter and put it in the inside pocket of his coat, where Brom's p
 
 Lira looked at it and did not take it.
 
-"It was never mine," she said. "I had it on loan. You had it from Vell, on a wall in Ardenmere, before you ever handed it to me." She pushed his hand back toward him with one finger. "Pay it to the one who said it first. You've owed her a letter since the day we came through that gate."
+"It was never mine," she said. "I had it on loan. You had it from Vell, across her desk in Ardenmere, before you ever handed it to me." She pushed his hand back toward him with one finger. "Pay it to the one who said it first. You've owed her a letter since the day we came through that gate."
 
 He had. He had owed Vell a letter for the whole of the term, and the longer he put it off the heavier it had become to pick up.
 

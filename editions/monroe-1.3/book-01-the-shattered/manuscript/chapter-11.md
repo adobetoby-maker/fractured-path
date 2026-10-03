@@ -40,7 +40,7 @@ After a while Cael took out the notebook and, without being sure why, began copy
 
 "Counting."
 
-She looked at his page. She looked at it for a long moment, and then she looked across the yard at Marrow, who was laughing at something a man had said and writing on his slate.
+She looked at his page. She read it twice, and then she looked across the yard at Marrow, who was laughing at something a man had said and writing on his slate.
 
 "Don't," she said.
 
@@ -48,7 +48,7 @@ She looked at his page. She looked at it for a long moment, and then she looked 
 
 "Don't let him see you doing that." She did not take her eyes off Marrow. "I mean it. People who count Marrow's numbers have a way of finding out that the yard's less friendly than they thought."
 
-Cael closed the notebook. He had seen what he wanted to see, and it had been what she said it was, a hair the wrong side of fair. He found that he was obscurely pleased about it, in the way he was pleased when a measurement came out where he expected, and that he was also a little frightened, and that the two feelings sat side by side without either one making room.
+Cael closed the notebook. He had seen what he wanted to see, and it had been what she said it was, a hair the wrong side of fair. He was obscurely pleased about it, in the way he was pleased when a measurement came out where he expected, and he was also a little frightened, and the two feelings sat side by side without either one making room.
 
 Vell stood up behind her table.
 
@@ -106,7 +106,7 @@ He slapped the ground twice with his free hand.
 
 "Called," said Vell. "Stone Path."
 
-The crowd's noise was very different this time. It was mixed. Some of it was a groan, from people along the rope who had paid Marrow on the quick young man with the reach, and some of it was a long, appreciative murmur from people who seemed to have understood something about what they had just watched. Cael found that he could tell which was which by where the people stood. The groaners were mostly on the sunny side, and the murmurers mostly in the shade.
+The crowd's noise was very different this time. It was mixed. Some of it was a groan, from people along the rope who had paid Marrow on the quick young man with the reach, and some of it was a long, appreciative murmur from people who seemed to have understood something about what they had just watched. Cael could tell which was which by where the people stood. The groaners were mostly on the sunny side, and the murmurers mostly in the shade.
 
 The Stone woman let go, stood up, and offered her hand, and the young man took it and was pulled up, and they touched fists. Then she walked to the table, with her sleeve dark across the shoulder, and stood there while Vell wrote. It was a short entry. Two lines.
 
@@ -144,7 +144,7 @@ By the third he had stopped coming straight. He came in at an angle, so that she
 
 In the sixth exchange something changed in both of them at once, and it took him a moment to see what it was.
 
-They were tired. They had been tired for a while, he realized, but in the sixth exchange it started to make decisions for them. The Iron man's strikes were still in the same place every time, but he took a breath between them now, a short one, and she saw the breath and began to time her steps to it.
+They were tired. They had been tired for some exchanges already, he realized, but in the sixth exchange it started to make decisions for them. The Iron man's strikes were still in the same place every time, but he took a breath between them now, a short one, and she saw the breath and began to time her steps to it.
 
 The Stone woman, for her part, had begun to set her feet a fraction later each time, so that there was a moment, at the start of every stance, when she was not quite rooted yet. He saw that too. Cael watched them both see it, one after the other, and he watched them both try to use what they had seen, and it was like watching two people play a board game who had each just noticed the other's mistake.
 
@@ -154,13 +154,13 @@ He did not strike hard. He did not need to. He hit her guard while she was still
 
 She held up her hand.
 
-It was not a slap on the ground. It was an open palm, raised, the way you raise your hand in a room to say that you want to speak. She held it there, breathing hard, with her heel on the edge of the groove.
+It was not a slap on the ground. It was an open palm, raised, as you raise your hand in a room to say that you want to speak. She held it there, breathing hard, with her heel on the edge of the groove.
 
 The Iron man stopped his strike in the air.
 
 "Called," said Vell. "Conceded. Iron Path."
 
-And the crowd, which had been quiet for most of the bout in the way people are quiet when they are watching something slow and difficult, did something Cael had not expected. It applauded. It did not cheer, as it had for the Stone woman's lock in the first bout. It clapped, steadily, all along the rope, the shady side and the sunny side together, and the clapping went on while the two of them touched fists and walked to Vell's table, and the person it was for was not the winner.
+And the crowd, which had been quiet for most of the bout, did something Cael had not expected. It applauded. It did not cheer, as it had for the Stone woman's lock in the first bout. It clapped, steadily, all along the rope, the shady side and the sunny side together, and the clapping went on while the two of them touched fists and walked to Vell's table, and the person it was for was not the winner.
 
 "Why are they clapping for her?" Cael said.
 
@@ -206,7 +206,7 @@ It was not a question, and he did not treat it as one. "Probably."
 
 "Nothing. That's how I could tell. Everything else about you is always doing something." She tipped her head. "So you can't bluff me. Which is going to be either very useful or very annoying, depending on what you end up wanting."
 
-He did not know what to say to that. He found that he was not even sure she was wrong.
+He did not know what to say to that. He was not even sure she was wrong.
 
 "How do I put my name down?"
 
@@ -302,6 +302,6 @@ He turned to a clean page and wrote at the top of it, in the private hand, small
 
 *She didn't tell me that. She made it sound like nothing.*
 
-He looked at the two lines for a while. Then he wrote one more under them, and underlined it, once.
+He looked at the two lines. Then he wrote one more under them, and underlined it, once.
 
 *Find out what it costs her before I let her spend it.*
