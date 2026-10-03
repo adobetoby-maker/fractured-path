@@ -8,7 +8,7 @@ Yeni was already gone, her blanket folded into its square, and the wheezing man 
 
 It took him a quarter of an hour to dress, and he went down the stairs one at a time, holding the rail and breathing like the man of ninety Lira had promised, and came into the kitchen.
 
-Torvin's wife was at the range. She looked round at him once, all of him, from his feet to his face and back, the way Darrow had looked at him from across the circle, and turned back to the pot without a word. When he had got himself down onto the bench she put a bowl of oats in front of him with real milk on them and an egg broken into the middle, still soft. Then, in front of the bowl, she put a bun.
+Torvin's wife was at the range. She looked round at him once, all of him, from his feet to his face and back, as Darrow had looked at him from across the circle, and turned back to the pot without a word. When he had got himself down onto the bench she put a bowl of oats in front of him with real milk on them and an egg broken into the middle, still soft. Then, in front of the bowl, she put a bun.
 
 "It's not from me. It's from her."
 
@@ -24,13 +24,13 @@ Sella was at the end of the table in her boots, eating bread with great dignity.
 
 "It's a compliment. On you it's a compliment." She went back to the paper.
 
-Doss came in from his watch while Cael was eating. He stood in the doorway in his big coat with his bad knee and his flat face and looked at Cael for a while, and then came and sat down across from him and took the cloth off his own plate.
+Doss came in from his watch while Cael was eating. He stood in the doorway in his big coat with his bad knee and his flat face and looked at Cael, and then came and sat down across from him and took the cloth off his own plate.
 
 "I heard." Doss ate a little. "I heard you believed your hands."
 
 "Yes."
 
-Doss nodded slowly, chewing. Then, without looking up from the plate, he put his scarred right hand flat on the table, palm down, beside Cael's bowl, for a moment, the way you put your hand on a horse that has done well. Then he took it away and went on eating.
+Doss nodded slowly, chewing. Then, without looking up from the plate, he put his scarred right hand flat on the table, palm down, beside Cael's bowl, for a moment. Then he took it away and went on eating.
 
 Lira came to the kitchen door at the hour of the grey half and did not come in.
 
@@ -54,7 +54,7 @@ Cael waited.
 
 "Where?"
 
-"Somewhere. I'm always somewhere. Vell will know." He looked at Cael a moment longer, and the cough and the jokes went out of him the way they did. "My account's still open. You know that."
+"Somewhere. I'm always somewhere. Vell will know." He looked at Cael a moment longer, and the cough and the jokes went out of him, as they sometimes did. "My account's still open. You know that."
 
 "I know."
 
@@ -92,7 +92,7 @@ He sat looking at it, and thought about the back page of the Log, with fourteen 
 
 "People noticed yesterday. People notice everything; they forget it by Thursday." She put her finger on the line again. "This is for Thursday. And next year. If you stop coming to my table, there are three hundred people who'll want to know why, and some of them will come and ask me. I'll open this and show them that line, and tell them I don't know where you've gone. And they'll go and ask somebody else. And then somebody else." She closed the ledger, gently. "That's all a book's for. It doesn't keep anybody safe. It keeps them asked about."
 
-He did not say anything for a while.
+He did not say anything.
 
 "Thank you."
 
@@ -102,7 +102,7 @@ He did not say anything for a while.
 
 "I know you don't. I watched you not know it, from four paces." She put the cup down. "Go home. Lie down. Come back when the girl lets you, not before, and not on a Sunday. I'll not card you this month. You've nothing left to prove to anybody this month except your ribs." She picked up her pen. "You're in my light."
 
-He got up off her stool, which took some time, and went. At the gate he looked back, and she was writing something in the back of the book, at the pages nobody read, and she did not look up.
+He got up off her stool, which took some time, and went. At the gate he looked back, and she was writing something in the back of the book, at the pages nobody read.
 
 ---
 
@@ -122,11 +122,11 @@ He reached for his coin.
 
 "I'd like to know your name. You told me once. There were barrels."
 
-She looked at him with her chin up for a long moment. Then she laughed, short and loud, so that the fruit woman at the next stall looked round.
+She looked at him with her chin up. Then she laughed, short and loud, so that the fruit woman at the next stall looked round.
 
-"You had your chance," said the bread woman. "Go and eat that before it's cold."
+"You had your chance. Go and eat that before it's cold."
 
-He went, and ate half of it on the low wall by the pump at Torvin's, slowly, because chewing turned out to involve the ribs, and he thought it was the best bread he had ever eaten, and he knew he would never find out her name now, and found he did not mind.
+He went, and ate half of it on the low wall by the pump at Torvin's, slowly, because chewing turned out to involve the ribs, and he thought it was the best bread he had ever eaten, and he knew he would never find out her name now, and he did not mind.
 
 ---
 
@@ -180,7 +180,7 @@ They were looking at him.
 
 Not at his arm held against his side, or at the bruise he knew showed at the edge of his collar, or at the boy who had beaten a Bronze. They were looking at him, the way Corvane had looked at Feryn's shirt: at the place where the thing was, not at the things on top of it.
 
-He held very still and made himself catalogue it the way he would have catalogued an opening stance, without spending anything, without turning his whole self toward it and giving away that he had seen.
+He held very still and made himself catalogue it as he would have catalogued an opening stance, without spending anything, without turning his whole self toward it and giving away that he had seen.
 
 Not Compact; he was as sure of that as he had been of anything. He had stood across a desk from Coss and across a table from Ilsev, and both of them carried their work about with them like a case: a hurry with edges, a stamp, a person above them who would want to see what they had done. There was no case here, no pin, no little black book with a strap, and nobody anywhere behind this person who was going to read a report. There was only the looking.
 
@@ -188,7 +188,7 @@ And it was patient, which was the thing he would try to write that night and not
 
 He did not know how long it lasted. Not long; exactly as long, he thought afterward, as it took him to understand that he was being looked at and that he was being let know it.
 
-Then the person turned, without any hurry, and walked into the market, and the market closed behind them as water closes, and they were gone. He watched the place where they had been for some time, and there was nothing there but the knife-grinder, bent over his wheel, and the sparks.
+Then the person turned, without any hurry, and walked into the market, and the market closed behind them as water closes, and they were gone. He watched the place where they had been, and there was nothing there but the knife-grinder, bent over his wheel, and the sparks.
 
 He did not go after them.
 
@@ -198,6 +198,6 @@ His ribs would not have let him, but it was not his ribs. He had felt, in the le
 
 He finished the apricot and thanked the fruit woman, who looked at his face and did not ask him anything, and walked back up through the lanes to Torvin's at the pace the ribs allowed. He went through the kitchen and out to the yard and sat down on the low wall by the pump, under the pear tree.
 
-He sat there a long time without taking out the Log, turning it over: the stillness, the plain clothes, the no-case, the look that had been allowed. He turned it over the way he had turned over every opponent he had ever had to read, from every side, looking for the joint in it.
+He sat there without taking out the Log, turning it over: the stillness, the plain clothes, the no-case, the look that had been allowed. He turned it over as he had turned over every opponent he had ever had to read, from every side, looking for the joint in it.
 
-He did not find one. He was still sitting there when the light began to go, and Yeni came to the kitchen door with her sewing, and looked at him for a while, and went back in.
+He did not find one. He was still sitting there when the light began to go, and Yeni came to the kitchen door with her sewing, and looked at him, and went back in.

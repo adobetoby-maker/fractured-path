@@ -4,7 +4,7 @@ Properly, it turned out, meant a column.
 
 Lira was at the post when he came in through the gate on Thursday with the bread, and she had already chalked it. Beside the *gone* column, which was ruled off at forty, and the falls column, which had stopped at nine, there was a third column now, narrow and new, with nothing at the head of it but a small *W* and nothing under the *W* at all.
 
-"That's yours," she said. "Every time you ask for it, a stroke. Every time it comes, a ring round the stroke. And every time it costs you something, you tell me what, and I'll put a word beside it." She took the loaves off him and tore them and gave him the larger half. "You said on Sunday you'd write it down every time. You haven't."
+"That's yours," she said. "Every time you ask for it, a stroke. Every time it comes, a ring round the stroke. And every time it costs you something, you tell me what, and I'll put a word beside it." She took the loaves off him and tore them and gave him half. "You said on Sunday you'd write it down every time. You haven't."
 
 "I've written it."
 
@@ -30,7 +30,7 @@ Lira made a stroke on the post and put a ring round it.
 
 He did it again. It was worse, as the second always was, and the ground hardly changed under his foot.
 
-"*Worse*," said Lira, and wrote that, and made a ring that was only half a ring, because she said that was fair. Then she looked at the two strokes for a while, chewing, with her head on one side.
+"*Worse*," said Lira, and wrote that, and made a ring that was only half a ring, because she said that was fair. Then she looked at the two strokes, chewing, with her head on one side.
 
 "And the other one," she said.
 
@@ -56,7 +56,7 @@ He thought for a moment that she would laugh, as she had laughed at the eel woma
 
 He posted the letter to Hesk at noon.
 
-He had finished it the night before at the kitchen table, after everybody had gone up, with his left arm lying on the table beside the paper like something he had brought home from the market and not yet put away. It had not been a long letter to write. He had promised in the last one to tell the next thing as it came. This was the next thing, and it had come only two days ago, and he found he knew exactly what it had to say.
+He had finished it the night before at the kitchen table, after everybody had gone up, with his left arm lying on the table beside the paper like something he had brought home from the market and not yet put away. It had not been a long letter to write. He had promised in the last one to tell the next thing as it came. This was the next thing, and it had come only two days ago, and he knew exactly what it had to say.
 
 *Hesk,*
 
@@ -134,7 +134,7 @@ Cael picked it up; it weighed nothing. He broke the seal with his thumb and open
 
 He read it twice, and then a third time, slowly, holding each word up against its neighbours, as he read everything he could not afford to get wrong. It did not change, and it did not say what would happen on Thursday at the second hour after noon, or what an assessor did, or what Part Six was. It said a time and a place and a name, and that was all it needed to say, because the time and the place and the name were the whole of it.
 
-He found that his hands were steady, which surprised him. He had thought for weeks that when it came he would feel it come, like the air leaning in Corvane's yard. Instead it had come against the salt crock on an ordinary Tuesday, between a bucket of cold water and a bowl of soup, and he felt mostly a kind of plain recognition, as you feel when a cart you have heard coming for some time finally turns the corner.
+His hands were steady, which surprised him. He had thought for weeks that when it came he would feel it come, like the air leaning in Corvane's yard. Instead it had come against the salt crock on an ordinary Tuesday, between a bucket of cold water and a bowl of soup, and he felt mostly a kind of plain recognition, as you feel when a cart you have heard coming all morning finally turns the corner.
 
 The six weeks had run out on the forty-second day, six weeks ago now. He had known it was coming, on every one of those days, and on most of them he had been too busy to look.
 
@@ -182,7 +182,7 @@ She took it out of his hand and read it standing up, under the sloping ceiling, 
 
 "I know." He looked at the paper on the blanket. "The reading room's mornings. Tomorrow. I'll go at first light and sit there till Halden puts me out."
 
-Lira nodded slowly. He could see her doing the sums, the way she did them at the post: what there was, and what it would cost, and what was left over.
+Lira nodded slowly. He could see her doing the sums: what there was, and what it would cost, and what was left over.
 
 "I can't come," she said. "Wednesday's my hour with the dyers' girls, and it's the rent, and if I miss it they'll go and find somebody cheaper who doesn't know what a foot is for." She frowned at the summons as though it had done that on purpose. "And you read faster when I'm not there asking what words mean."
 
@@ -208,7 +208,7 @@ Halden did not say anything for a moment. Then he got up from his table, slowly,
 
 He set it down under the lamp.
 
-The back of the book was a different paper. It was thicker and whiter and had been sewn in after the rest, and the pages had never been cut. They were still joined at the top and the outer edge, folded sheets, the way they had come from the binder, so that you could look between them as into a row of little paper rooms and see that there was print inside, but not read it. At the head of the first sheet, upside down, it said *PART SIX. THE SENIOR EVALUATION. RESERVED TO ASSESSORS.*
+The back of the book was a different paper. It was thicker and whiter and had been sewn in after the rest, and the pages had never been cut. They were still joined at the top and the outer edge, folded sheets, as they had come from the binder, so that you could look between them as into a row of little paper rooms and see that there was print inside, but not read it. At the head of the first sheet, upside down, it said *PART SIX. THE SENIOR EVALUATION. RESERVED TO ASSESSORS.*
 
 "It's bound in with the district edition," said Halden. "Nobody's ever cut it." He took a paper knife from his own table, a thin bone thing worn yellow, and laid it beside the book. "Reserved to assessors means that an assessor is expected to know it. It doesn't mean anybody else may not. Anybody the registry has a number for may read anything in this room." He looked at the uncut pages. "Nobody has wanted to before."
 
@@ -220,9 +220,7 @@ So Cael began at the beginning.
 
 He cut the pages one at a time, with the bone knife, carefully, slitting along the folds. The paper made a soft dry tearing sound in the quiet that seemed louder than it was. He read each page as it opened, and then he copied it into the front of the Log in his careful hand, all of it, every line, from *Section 1: Definitions* down. His left arm ached from holding the book flat, and he swapped hands, and it ached the other way.
 
-It was dull, and it was long, and he understood very little of it on the first reading and a good deal more on the second. Section one was definitions: what an assessor was, what a senior evaluation was, what the Handbook meant by a primary classification and a supplementary entry and a temporary non-standard category and a referral. Section two was who could ask for a senior evaluation and on what grounds, and his own case was there, in plain words, the same words he had found in Part Four in the autumn. Section three was how an assessor was to conduct one: the questions, the record, the presence of the referring agent. Section four was a long dry paragraph about practitioners whose classification could not be assessed by ordinary means, and a temporary category they could be entered under, and a facility they could be required to attend. Section five was what happened when none of the rest of it applied.
-
-He copied all five. He copied section four the way he copied the others, line by line, with the lamp going on beside him and feet going past the high windows on the walk outside, boots and clogs and a dog. He read it once and thought, *that's for people the Arbiter couldn't read*, and went on to five.
+It was dull, and it was long, and he understood very little of it on the first reading and a good deal more on the second. There were definitions, and who might ask for a senior evaluation, and how an assessor was to conduct one, and what happened when none of the rest applied. Section four was a long dry paragraph about practitioners whose classification could not be assessed by ordinary means, and a temporary category they could be entered under, and a facility they could be required to attend. He copied it line by line like all the rest, and thought, *that's for people the Arbiter couldn't read*, and went on to five.
 
 By the time the light from the high windows had moved all the way across the long table and begun to go up the far wall, his hand had cramped twice and the Log had eleven more pages in it than it had had at dawn.
 
@@ -242,7 +240,7 @@ Halden nodded slowly. He closed the book and held it for a moment with his hand 
 
 He read it again that night, at Torvin's kitchen table, after the lamps.
 
-Torvin had said *Lamps* through the floorboards an hour ago. The range had been banked and was ticking as it cooled. Torvin's wife, going up, had looked at him sitting there with the Log open and a candle end in a saucer, and had not said anything, and had left the saucer. He had read the five sections through once, slowly, as Halden had told him to, and then again, more slowly. He had found nothing he had not found in the morning, and he had begun a third time, because he had learned in the autumn that the third reading was where things moved.
+Torvin had said *Lamps* through the floorboards an hour ago. The range had been banked and was ticking as it cooled. Torvin's wife, going up, had looked at him sitting there with the Log open and a candle end in a saucer, and had not said anything, and had left the saucer. He had read the five sections through once, slowly, as Halden had told him to, and then again, more slowly. He had found nothing he had not found in the morning, and he had begun a third time.
 
 Somewhere in the middle of the third reading, two hours before dawn, by a candle end gone down to a stub, section four stood up off the page.
 
@@ -250,7 +248,7 @@ It did not change. The words were the words he had copied in the reading room, e
 
 *Cannot be assessed by ordinary means.*
 
-He had said that. He had stood in the room above the reading room three months ago, at the desk that rocked, and handed Coss a sheet of paper that said exactly that, in a citation Coss had checked from memory and found correct. A standard evaluation could not assess his classification. That was the whole of his objection. That was the thing that had bought him six weeks.
+He had said that. He had handed Coss a sheet of paper that said exactly that, three months ago, at the desk that rocked. A standard evaluation could not assess his classification. That was the whole of his objection. That was the thing that had bought him six weeks.
 
 And it was the first half of section four.
 
@@ -268,7 +266,7 @@ Then he turned back three pages, to the beginning, because Halden had told him t
 
 *Section 1: Definitions.*
 
-He read them one at a time, with his finger under the line, the way Hesk checked a load figure before he signed it. *Assessor.* No. *Senior evaluation.* No. *Primary classification: the classification returned by the practitioner's Arbiter at Kindling and entered in the registry, including any entry made in the Supplementary Register.* He stopped. He read it again, and his finger did not move.
+He read them one at a time, with his finger under the line. *Assessor.* No. *Senior evaluation.* No. *Primary classification: the classification returned by the practitioner's Arbiter at Kindling and entered in the registry, including any entry made in the Supplementary Register.* He stopped. He read it again, and his finger did not move.
 
 Then he read the next one.
 
@@ -284,7 +282,7 @@ The category was not for anybody whose classification could not be read. It was 
 
 That was not the same as not having one. Section one said so, in the Compact's own words.
 
-He did not let himself feel anything about it yet. He had learned that in the circle too. A plan that felt good at the mark was a plan you had not yet tested. He took a clean page at the front of the Log, and ruled it, and began to build the answer the way he had built the objection in the autumn, in four steps, as plainly as he could.
+He did not let himself feel anything about it yet. He had learned that in the circle too. A plan that felt good at the mark was a plan you had not yet tested. He took a clean page at the front of the Log, and ruled it, and began to build the answer in four steps, as plainly as he could.
 
 *One. Section four lets the assessor put a practitioner into the temporary non-standard category when his classification can't be assessed by ordinary means. Mine can't. I said so myself.*
 
@@ -294,9 +292,9 @@ He did not let himself feel anything about it yet. He had learned that in the ci
 
 *Four. So I have a primary classification. Section four gives her the power to put people in the category, and section one keeps me out of it. Not being assessable isn't the same as not being classified.*
 
-He read the four steps through. Then he read them from the bottom up, as he had in the autumn, the fourth first, to see whether each one stood on the one below it or only leaned. They stood. He read them aloud, under his breath, the way Hesk read a figure, and they still stood, and he read them aloud again.
+He read the four steps through. Then he read them from the bottom up, the fourth first, to see whether each one stood on the one below it or only leaned. They stood. He read them aloud under his breath, and they still stood.
 
-Then he copied them clean onto the next page, without the crossings-out, in his best hand, short enough to say and not read. He had learned from the autumn that a thing said from memory across a desk sounded like knowledge and a thing read from a page sounded like a hope.
+Then he copied them clean onto the next page, without the crossings-out, in his best hand, short enough to say and not read. A thing said from memory across a desk sounded like knowledge, and a thing read from a page sounded like a hope.
 
 When he looked up the window over the range had gone from black to grey, and Torvin's wife was standing at the foot of the stairs in her shawl, looking at him. He did not know how long she had been there.
 

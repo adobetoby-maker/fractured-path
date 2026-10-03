@@ -2,7 +2,7 @@
 
 Lira was at the rail at the top of the fish steps where she had said she would be, with her arms folded on it and her face turned to the river, and she turned round when the door of the post stuck and opened and let him out.
 
-She did not ask. She looked at him, the whole of him at once, the way she looked at a fighter coming back to his mark after an exchange, and he watched her read it: that he was walking, and alone, and had no paper in his hand, and that there was something else in his face under the walking that she had not seen there before.
+She did not ask. She looked at him, the whole of him at once, and he watched her read it: that he was walking, and alone, and had no paper in his hand, and that there was something else in his face under the walking that she had not seen there before.
 
 "It held," he said. "Legal review. Months."
 
@@ -24,9 +24,9 @@ The yard was full of the Thursday noise, which was smaller than the Sunday noise
 
 Cael went round the outside of the rope to the table, and stood in front of it, and waited for the exchange in the circle to finish, because you did not talk to Vell while there was an exchange in the circle.
 
-The Force man put the Blade on his back. Vell said "End of the exchange" without looking up from the circle, and then looked up.
+The Force man put the Blade on his back. Vell said "End of the exchange," and then turned her head.
 
-She looked at him for some time. She looked at his left arm, which he was still holding a little away from his side, and at the bruise showing under his cuff, and at his face.
+She looked at him, and at his left arm, which he was still holding a little away from his side, and at the bruise showing under his cuff, and at his face.
 
 "They say," said Vell, "that there's a woman come from regional to sit in the post."
 
@@ -40,7 +40,7 @@ She looked at him for some time. She looked at his left arm, which he was still 
 
 "Sunday week it'll be an arm."
 
-Vell considered the arm with the flat look, the thorough one, as if it were a horse she had been asked to buy. Then she looked past him, over his shoulder, at something in the crowd along the rope, and he saw the corner of her mouth do a thing it very seldom did.
+Vell considered the arm with the flat look, the thorough one. Then she looked past him, over his shoulder, at something in the crowd along the rope, and he saw the corner of her mouth do a thing it very seldom did.
 
 "I've had somebody asking," she said. "For a month. Since before the Bronze. Whenever you came to this table wanting a bout, she said, I was to tell her before I told anybody else." She picked up her pen. "So I'm telling her."
 
@@ -82,7 +82,7 @@ He told her all of it, in order.
 
 He told her about the desk that did not rock, and the folded paper under its leg. He told her about Ilsev's three square things on the desk, and *your objection was correct*, and the way she had given him section four from memory, word for word, and then stopped and waited like somebody listening in a hall for doors. He told her *section one says*, and that he had stopped at the end of the fourth step and not hoped at her, and Lira made a small satisfied sound and did not interrupt. He told her about the silence, and the counting, and the book soft at the corners, and *you're right*, said twice. He told her about the slot of a room behind the partition, and Coss at the window saying *resolved*, and Ilsev telling him he could carry his closing form back two days in a cart, because it was light.
 
-Lira laughed at that, short and real, and put her hand over her mouth, and then took it away again because he had not laughed.
+Lira laughed at that, and put her hand over her mouth, and then took it away again because he had not laughed.
 
 Then he told her about the face-down sheet, and the flag.
 
@@ -126,7 +126,7 @@ They sat until the lamps began to come out along the lower bridge.
 
 He wrote to Hesk that night at the kitchen table, after the lamps.
 
-He wrote it all. He had promised to, and he found that he wanted to, which was not always the same thing. He wrote about Part Six and the bone knife and the uncut pages, because he thought Hesk would like the uncut pages more than anything else in the letter. He wrote section four out, and section one, and the four steps between them, plainly, the way he would have written out a load figure. He wrote *you're right*, twice, and legal review, and months. He wrote Coss at the window. He wrote the flag, exactly as Ilsev had given it to him, with nothing added and nothing taken away.
+He wrote it all. He had promised to, and he wanted to, which was not always the same thing. He wrote about Part Six and the bone knife and the uncut pages, because he thought Hesk would like the uncut pages more than anything else in the letter. He wrote section four out, and section one, and the four steps between them, plainly, the way he would have written out a load figure. He wrote *you're right*, twice, and legal review, and months. He wrote Coss at the window. He wrote the flag, exactly as Ilsev had given it to him, with nothing added and nothing taken away.
 
 He wrote that he had a bout with Dessa on Sunday week, and that she had asked for it herself, and that his arm would be an arm by then.
 
@@ -142,7 +142,7 @@ He wrote it as plainly as he could.
 
 *— Cael*
 
-He read it over twice by the candle end. Then he folded it and put it in the leather book to keep flat for the morning, and sat for a while at the scrubbed table with the range ticking, and counted, as he did now, what he had not told Hesk.
+He read it over twice by the candle end. Then he folded it and put it in the leather book to keep flat for the morning, and sat at the scrubbed table with the range ticking, and counted, as he did now, what he had not told Hesk.
 
 There was nothing to count; he had told him everything there was. It was only that the everything had got larger.
 
@@ -162,7 +162,7 @@ He had known she would not be. She fought when Vell put her down, and Vell had p
 
 Halfway through the second bout he looked up across the circle and found Dessa on the third bench.
 
-She was where she had sat for Corbin, at the end of the row against the cold wall, beside an old man in a scarf, with her hands folded in her lap. She was not watching the kiln boy, or the girl from Fenrow. She was looking straight across the circle and the rope at Cael, at his hand on the stake and the pencil in his other hand, and when he looked up and met her eyes she did not look away, as most people would have. She went on looking. Then, after a while, she looked down at his hand on the stake, deliberately, and back up at his face.
+She was where she had sat for Corbin, at the end of the row against the cold wall, beside an old man in a scarf, with her hands folded in her lap. She was not watching the kiln boy, or the girl from Fenrow. She was looking straight across the circle and the rope at Cael, at his hand on the stake and the pencil in his other hand, and when he looked up and met her eyes she did not look away, as most people would have. She went on looking. Then she looked down at his hand on the stake, deliberately, and back up at his face.
 
 He took his hand off the stake.
 
@@ -190,7 +190,7 @@ He thought about it that night on the cot, and in the morning, coming up the hil
 
 "I put my hand on the ground at my mark. Everybody knows that now. I go in on a tell, when I've found one; I always have. I count my breath, four and four, the way she does. I stand off for the first exchange and watch. I don't strike much." He gave her the bread. "That's all I can think of."
 
-Lira tore the loaf and gave him the larger half. She did not say anything. She went to her mark, and stood there in the grey half with her hands loose, and looked at him.
+Lira tore the loaf and gave him half. She did not say anything. She went to her mark, and stood there in the grey half with her hands loose, and looked at him.
 
 Then she nodded.
 
@@ -210,13 +210,13 @@ He stood with the bread in his hand and did not eat it.
 
 They worked on it all week.
 
-It was not like the step, or the build, or anything he had learned in the grey half before. There was nothing to learn. There was only something to stop doing, and he found that stopping was harder than doing, because the nod did not come from anywhere he could reach. It came out of the very place where he made up his mind; it was the outside of the inside of deciding. Every time he got ready to go in the box drill, his chin went down, a hair, and Lira said *there* and he had to begin again. By Wednesday he could keep it in when he was fresh, nine times in ten. By Wednesday afternoon, after the mender's and two hours of the box drill at full speed, he could keep it in three times in ten, and the other seven Lira said *there*, more and more quietly, until she stopped saying it and only touched her own chin.
+It was not like the step, or the build, or anything he had learned in the grey half before. There was nothing to learn. There was only something to stop doing, and stopping was harder than doing, because the nod did not come from anywhere he could reach. It came out of the very place where he made up his mind; it was the outside of the inside of deciding. Every time he got ready to go in the box drill, his chin went down, a hair, and Lira said *there* and he had to begin again. By Wednesday he could keep it in when he was fresh, nine times in ten. By Wednesday afternoon, after the mender's and two hours of the box drill at full speed, he could keep it in three times in ten, and the other seven Lira said *there*, more and more quietly, until she stopped saying it and only touched her own chin.
 
 "Eight days isn't a season," she said on Thursday, sitting on the low wall. "It didn't go in a season and it won't come out in eight days."
 
 "Then what do I do?"
 
-"I don't know." She gave him the larger half. "Go in knowing it's there. That's more than you had yesterday."
+"I don't know." She gave him his half of the bread. "Go in knowing it's there. That's more than you had yesterday."
 
 ---
 
@@ -242,6 +242,6 @@ He took it out to the low wall by the pump to read.
 
 He read it three times on the wall, as he always did.
 
-Then he folded it along its own folds and put it in the leather book with the others, and went in, and found that the stew had real vegetables in it, though nobody in the house had fought since Monday week.
+Then he folded it along its own folds and put it in the leather book with the others, and went in, and the stew had real vegetables in it, though nobody in the house had fought since Monday week.
 
 "For Sunday," said Torvin's wife, to the range. "In advance. The boots woman says you'll lose. I've a bun on you."

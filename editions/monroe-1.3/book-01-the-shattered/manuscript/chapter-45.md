@@ -12,11 +12,11 @@ She stood at her mark in the grey half every morning with the frost on the dirt 
 
 "Then that's when you saw it." She went back to her mark. "Again."
 
-It was not Pressure, and they both knew it. A Wind fighter getting ready to step did not hold anything heavy in the middle of her body the way Corvane had; she held a lightness instead, a sort of tilt, as if the whole of her had decided to fall forward and was only waiting to be allowed. It was a different thing to look for, in a different place. But it was a thing that did not move under things that did, and it had to be found the same way, by watching what was not happening, and that was the part he had to learn.
+It was not Pressure, and they both knew it. A Wind fighter getting ready to step did not hold anything heavy in the middle of her body as Corvane had; she held a lightness instead, a sort of tilt, as if the whole of her had decided to fall forward and was only waiting to be allowed. It was a different thing to look for, in a different place. But it was a thing that did not move under things that did, and it had to be found the same way, by watching what was not happening, and that was the part he had to learn.
 
-He learned it slowly, the way he had learned the moving.
+He learned it slowly.
 
-On the first morning he saw her readiness twice in thirty. By the fourth morning he was seeing it nine times in thirty, and by the end of the first week he was seeing it more often than not, and she had begun to change how she hid it. She stopped walking and stood still instead, and talked, and he found that a person standing still and talking was much harder to read than a person walking, because there was so little to tell the holding from. Then he learned that too, a little, and she changed again.
+On the first morning he saw her readiness twice in thirty. By the fourth morning he was seeing it nine times in thirty, and by the end of the first week he was seeing it more often than not, and she had begun to change how she hid it. She stopped walking and stood still instead, and talked, and a person standing still and talking turned out to be much harder to read than a person walking, because there was so little to tell the holding from. Then he learned that too, a little, and she changed again.
 
 "You're getting better," she said on the eighth morning, breathing hard. "And I'm getting better at hiding it. So it looks the same. That's what it'll be like in there. Remember that. He'll be getting better at hiding it while you're getting better at seeing it, and it'll feel like you're standing still."
 
@@ -42,11 +42,11 @@ He could not. That night he wrote it in the back of the Log as the fifth instanc
 
 "I haven't got a season. I've got eleven days."
 
-"Then on the twelfth day you'll have what you've got, and not a crumb more. Worrying through the eleven won't add a crumb, and not worrying won't take one away." She tore her bread and gave him the larger half. "So don't spend them worrying. Spend them on the build. The build's yours. The step's—" She stopped, and looked at the bread in her hand. "The step's whatever it is. Don't stand in a circle in front of a Bronze waiting for it to come. If it comes, it comes. Read the build."
+"Then on the twelfth day you'll have what you've got, and not a crumb more. Worrying through the eleven won't add a crumb, and not worrying won't take one away." She tore her bread and gave him half. "So don't spend them worrying. Spend them on the build. The build's yours. The step's—" She stopped, and looked at the bread in her hand. "The step's whatever it is. Don't stand in a circle in front of a Bronze waiting for it to come. If it comes, it comes. Read the build."
 
 ---
 
-On the second Thursday Vell gave him a Copper 3 Shield from the dyers' sheds, a boy of about seventeen with blue hands, whom Cael had watched twice in the autumn and written down as *careful*. He was careful still. He held his shield up the way Brenna had held hers, a pane wider than his shoulders, a hand's breadth off the forearm, like the side of a bucket of water stood on end. He walked it at people as if it were a door he meant to shut on them.
+On the second Thursday Vell gave him a Copper 3 Shield from the dyers' sheds, a boy of about seventeen with blue hands, whom Cael had watched twice in the autumn and written down as *careful*. He was careful still. He held his shield up as Brenna had held hers, a pane wider than his shoulders, a hand's breadth off the forearm, like the side of a bucket of water stood on end. He walked it at people as if it were a door he meant to shut on them.
 
 He also dipped it on the step-through, as Brenna had before she trained it out, a finger's width at the bottom edge, every time.
 
@@ -70,19 +70,19 @@ The boy whistled through his teeth, softly.
 
 "Rather you than me," he said, without any spite in it at all, and went to the water bucket.
 
-Cael stood in front of Vell's table while she wrote. He was thinking about the boy's question and not about the bout, and he found that it was the first time he had ever stood at the table without thinking about the bout he had just fought. He did not know whether that was a good thing.
+Cael stood in front of Vell's table while she wrote. He was thinking about the boy's question and not about the bout, and it was the first time he had ever stood at the table without thinking about the bout he had just fought. He did not know whether that was a good thing.
 
-"Result stands as called," said Vell. "Unrated, over a Copper Rank 3, Shield Path. Second exchange. Called. Witnessed and entered." She did not look up. "They're talking about Monday on the vats, then."
+"Result stands as called," said Vell. "Unrated, over a Copper Rank 3, Shield Path. Second exchange. Called. Witnessed and entered. They're talking about Monday on the vats, then."
 
 "He said so."
 
-"They've been talking about it on the fish steps since the day after I told you." She blotted the line. "I didn't tell anybody else. You didn't. The girl didn't." She laid the pen across the book. "It's a funny thing about a yard. You can keep a thing in a book for thirty years and nobody knows it's there. You can keep a Bronze off the board for three days and the whole district knows he's coming and who he's coming for."
+"They've been talking about it on the fish steps since the day after I told you." She blotted the line. "I didn't tell anybody else. You didn't. The girl didn't. It's a funny thing about a yard. You can keep a thing in a book for thirty years and nobody knows it's there. You can keep a Bronze off the board for three days and the whole district knows he's coming and who he's coming for."
 
 ---
 
 On the second Saturday there was no card, and Vell made the card.
 
-She did it at her table in the middle of the empty yard with the frost still white along the east wall, writing on the backs of old bills in her upright pencil, one bout to a bill. The pie boy stood by to run them to the board. Cael had come to the post for the grey half and found her already there. She had not looked up, but she had said "Here," in the voice she used for it, and he had come across the dirt and stood in front of the table.
+She did it at her table in the middle of the empty yard with the frost still white along the east wall, writing on the backs of old bills in her upright pencil, one bout to a bill. The pie boy stood by to run them to the board. Cael had come to the post for the grey half and found her already there. She had said "Here," in the voice she used for it, and he had come across the dirt and stood in front of the table.
 
 She finished a card and gave it to the pie boy, and he ran.
 
@@ -90,11 +90,11 @@ She finished a card and gave it to the pie boy, and he ran.
 
 He looked at her.
 
-"You said them to me on the first morning," said Vell. "Before Renn. You've not had to since, because you've not been in front of anything that made me want to hear them again." She did not look up. "Say them."
+"You said them to me on the first morning," said Vell. "Before Renn. You've not had to since, because you've not been in front of anything that made me want to hear them again. Say them."
 
 So he said them, standing in front of her table in the cold, as he had said them on the first morning, slowly, checking each one before he set it down. He came in unrated. He fought whoever she put across from him. The bout ended when she called it. Once he was over the rope, nobody stopped it but her, and what happened inside it was his to carry out. Nobody was making him do it.
 
-He found, saying it, that it meant more than it had meant the first time, and not because the words had changed.
+Saying it, he heard that it meant more than it had meant the first time, and not because the words had changed.
 
 Vell listened to all of it without moving.
 
@@ -116,7 +116,7 @@ He waited.
 
 The district knew.
 
-He found that out a piece at a time, the way you find out a roof is leaking, by noticing a wet place and then another. Feryn's name was not on the board, because Vell never put a bout with a gate on the board; the gate was all the notice it got. But by the second Saturday somebody had chalked a small square in the corner of the board, under Sunday's card, with a *B* in it and an arrow pointing at nothing. Then somebody else had chalked a *?* beside the arrow, and somebody else again had rubbed the *?* out and written *Monday*.
+It came to him a piece at a time, as a leak in a roof does, by a wet place and then another. Feryn's name was not on the board, because Vell never put a bout with a gate on the board; the gate was all the notice it got. But by the second Saturday somebody had chalked a small square in the corner of the board, under Sunday's card, with a *B* in it and an arrow pointing at nothing. Then somebody else had chalked a *?* beside the arrow, and somebody else again had rubbed the *?* out and written *Monday*.
 
 The errand boys had a bet on it. Cael heard it from them before he heard anything else, on the fish steps, where the one in the red cap was explaining it to two girls with baskets. It was a mark each, which was more than either of them had ever had at once in their lives. Red Cap had the boy lasting three exchanges and the other one had him lasting one, and they had each spent several days trying to get the other to raise the stakes.
 
@@ -182,7 +182,7 @@ He did not have an answer to that, and she did not seem to want one.
 
 "Afterward," she said, "if you can still stand. You and I have a talk owing." She took her hands out of her pockets. "Not this month. But it's owing."
 
-Then she went off up the street toward the yards, and he stood at the board for some time in the cold, looking at the *B* and the arrow, and at the word *Monday*.
+Then she went off up the street toward the yards, and he stood at the board in the cold, looking at the *B* and the arrow, and at the word *Monday*.
 
 ---
 
@@ -236,7 +236,7 @@ Cael picked up the key and turned it over. The bright worn places on its wards c
 
 Cael put the key down very carefully beside the box.
 
-"You've a good eye for what's been used," said the mender. Then, after a long time, while Cael was sorting washers one-handed into their tins: "Monday."
+"You've a good eye for what's been used," said the mender. Then, much later, while Cael was sorting washers one-handed into their tins: "Monday."
 
 "Monday. The Bronze."
 
@@ -246,7 +246,7 @@ It was the third time he had asked it. Cael had said *I don't know yet* twice, a
 
 "I'll be here. Monday and Wednesday. As long as you'll have me."
 
-The mender nodded slowly over his clock, as though a figure had come right that he had been working on for some time, and said nothing else at all for the rest of the afternoon.
+The mender nodded slowly over his clock, as though a long figure had come right at last, and said nothing else at all for the rest of the afternoon.
 
 ---
 
@@ -258,7 +258,7 @@ He counted three weeks of mornings in the grey half, twenty-one of them, and one
 
 He counted what he knew about Feryn, which was what Vell had said, and what Renn had said, and what Corvane had said and shown him in a brick yard by the river. It came to a page and a half. He had gone into his first bout with Renn knowing nothing at all. He had gone into Dessa knowing everything there was to know. This was the first time he had gone in knowing a page and a half about a man he had never seen, and the page and a half was mostly about what he would not be able to do.
 
-He found that he was not frightened. He looked for it, honestly, the way he would have looked for a tell, and it was not where he expected it. There was something else there instead, in the same place, and it was a great deal more like wanting.
+He found that he was not frightened. He looked for it, honestly, as he would have looked for a tell, and it was not where he expected it. There was something else there instead, in the same place, and it was a great deal more like wanting.
 
 He wanted to see it. He wanted to stand in front of the thing the eel woman had laughed about and Renn had lain on his back under, and find out what it was, and what he was, standing in front of it. It was not a sensible thing to want, and he knew it. He wanted it anyway, the way he had wanted to know what the word meant in Pellin's office, before he knew enough to be afraid of it.
 
@@ -268,7 +268,7 @@ He woke before the light, as he had woken on the morning of Kindling, and lay st
 
 Lira was waiting outside, on the step under the leaning O, with her canvas bag over her shoulder.
 
-He knew the bag. It was the one she carried things in that she thought he might need and would not have thought to bring: a cloth, a flask of water, the end of a loaf, a strip of linen rolled tight. She had carried it to every bout since Dessa. She stood up when he came out, and read his face the way she read the board.
+He knew the bag. It was the one she carried things in that she thought he might need and would not have thought to bring: a cloth, a flask of water, the end of a loaf, a strip of linen rolled tight. She had carried it to every bout since Dessa. She stood up when he came out, and read his face as she read the board.
 
 "You didn't sleep."
 

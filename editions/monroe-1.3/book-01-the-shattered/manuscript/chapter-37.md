@@ -86,7 +86,7 @@ He saw her start; he was sure of that afterward. He saw her weight go forward, a
 
 He fell.
 
-He fell the way Lira had taught him for four mornings, without putting his hand out; he tucked his chin and let his right hip have the ground, and rolled, and came up on one knee with dirt down his whole side. Sarel was already walking back to her mark.
+He fell as Lira had taught him for four mornings, without putting his hand out; he tucked his chin and let his right hip have the ground, and rolled, and came up on one knee with dirt down his whole side. Sarel was already walking back to her mark.
 
 Along the rope somebody laughed, not unkindly.
 
@@ -188,7 +188,7 @@ Then her flat came across his back, not hard, but exactly on top of the bruise R
 
 He got up with one hand on his own knee. Lira was standing at the barrel, very white, saying something, the same few words over and over by the shape of her mouth. He could not hear them over the noise in his own ears, and he thought afterward that it had probably been *chin in*.
 
-He stood on his mark for the sixth exchange and knew it was the last, and why. His legs had gone, in the fifth, somewhere between the strike and the ground, and they were not coming back today. He could still do the small quick moving, and he could feel how to do it now; it was there in him, new and clumsy, the way a word is there in a language you have just started to learn. But he could do it only as fast as his legs would let him, and they would hardly let him at all.
+He stood on his mark for the sixth exchange and knew it was the last, and why. His legs had gone, in the fifth, somewhere between the strike and the ground, and they were not coming back today. He could still do the small quick moving, and he could feel how to do it now; it was there in him, new and clumsy. But he could do it only as fast as his legs would let him, and they would hardly let him at all.
 
 "Begin."
 
@@ -206,7 +206,7 @@ He lay on his back and looked at the white sky and breathed, because it was the 
 
 The blade went out along Sarel's arm, and then she did a thing that he did not expect, and that he heard the rope not expect. She crouched down beside him in the dirt, low on her heels, with her forearms across her knees, the way the scaffold people sat to eat their lunch. Her face was level with his.
 
-She looked at him for a while, in no hurry about it. Up close she was older than he had thought, with lines at the corners of her eyes from the sun on the scaffolds, and a nick out of one ear.
+She looked at him, in no hurry about it. Up close she was older than he had thought, with lines at the corners of her eyes from the sun on the scaffolds, and a nick out of one ear.
 
 "How old are you?"
 
@@ -226,7 +226,7 @@ He did not understand.
 
 "Yes."
 
-"Good. She moves like that. You'll want to steal it off her." Sarel stood up, all in one easy movement, the way she did everything. She did not hold out her hand to pull him up, but looked down at him for a moment longer from her full height, and the look was plain and direct and not at all soft.
+"Good. She moves like that. You'll want to steal it off her." Sarel stood up, all in one easy movement. She did not hold out her hand to pull him up, but looked down at him for a moment longer from her full height, and the look was plain and direct and not at all soft.
 
 "That was a good bout. Don't ask me for another one. You'll want to. Don't."
 
@@ -236,7 +236,7 @@ She went to the table. Cael lay on the dirt a moment longer, because he could, a
 
 Vell wrote for a long time.
 
-He stood in front of the table and waited, as you waited, with his left arm against his chest and his ribs pulling at every breath, while the pen went down one line, and then another, and another, and stopped, and went on. She did not look up.
+He stood in front of the table and waited, as you waited, with his left arm against his chest and his ribs pulling at every breath, while the pen went down one line, and then another, and another, and stopped, and went on.
 
 "Result stands as called," she said at last. "Sarel, Bronze Rank 1, Blade Path, over unrated. Sixth exchange. Called." The pen moved once more. "Witnessed and entered."
 
@@ -256,11 +256,11 @@ She did not ask for a report until they were two streets away.
 
 "I know what you said. I heard it at the barrel. Half the rope heard it." She was looking straight ahead. "What was gone?"
 
-He walked for a while before he answered, because it was hard to say and his ribs did not like it.
+He did not answer at once, because it was hard to say and his ribs did not like it.
 
 "The watching. All of it. The whole method. Everything I do." He looked at the cobbles. "It's too slow for her. It's not wrong. It's just too slow. By the time I've seen anything, it's over."
 
-Lira did not say anything for a long time. "And the third?"
+Lira was quiet. "And the third?"
 
 "I did what you do."
 
@@ -288,7 +288,7 @@ He wrote it up that night on his cot, by the light of Yeni's lamp, because he co
 
 *Third exchange, I stopped watching and moved without deciding. She didn't land. Fourth, she learned it and made the space small. Fifth, I touched her sleeve. Sixth, my legs went.*
 
-He stopped there for a long time with the pencil.
+He stopped there with the pencil.
 
 *I need a second way,* he wrote. *For people I can't out-watch. Something that doesn't go through my eyes first. Lira has it. She doesn't decide and then move. She moves and the deciding is in it, somehow, all at once. I did a little of it today, badly, for one exchange.*
 
@@ -298,7 +298,7 @@ He stopped there for a long time with the pencil.
 
 He read it back, and it was true all the way through. He turned the book over to the back and sat with it open, and thought about the second way, and about Lira in the grey half moving without deciding. He thought about the backhand going on past the place it should have stopped, on her right side, when she was tired, and about a report given in the dusk with a thing left out of it, and a morning, yesterday, when he had seen it again and eaten his bread.
 
-He did not write any of that down, and told himself he was too tired. He blew out his small piece of the light by turning his face to the wall, and lay a long time with his ribs pulling and his arm on fire, and did not sleep for a while.
+He did not write any of that down, and told himself he was too tired. He blew out his small piece of the light by turning his face to the wall, and lay awake with his ribs pulling and his arm on fire.
 
 ---
 
@@ -312,7 +312,7 @@ She did the first exchange, standing on her mark with her feet too square and he
 
 "I know."
 
-"I know you know. I want you to see it." She did the second exchange: she was him going right, very fast, away from where she was looking, with his chin up and a look on his face of tremendous cleverness. Then she was him being hit, and she flung herself down sideways in the dirt so exactly the way he had gone down that he felt the bruise on his ribs throb in sympathy. The girls on the wall applauded.
+"I know you know. I want you to see it." She did the second exchange: she was him going right, very fast, away from where she was looking, with his chin up and a look on his face of tremendous cleverness. Then she was him being hit, and she flung herself down sideways in the dirt so exactly as he had gone down that he felt the bruise on his ribs throb in sympathy. The girls on the wall applauded.
 
 She got up, filthy and grinning.
 
@@ -348,9 +348,9 @@ She stood very still by the post.
 
 "Show me," she said.
 
-He showed her the way she showed him, slowly, from outside: the touches and the step, badly, and then the backhand, and he let his weight go on past the end of it, onto his right foot, too far. He caught himself with the foot down wide and stood there open, exactly the shape she had been a moment ago.
+He showed her as she showed him, slowly, from outside: the touches and the step, badly, and then the backhand, and he let his weight go on past the end of it, onto his right foot, too far. He caught himself with the foot down wide and stood there open, exactly the shape she had been a moment ago.
 
-Lira looked at him standing there for a long time.
+Lira looked at him standing there.
 
 "I lost a bout like that," she said.
 

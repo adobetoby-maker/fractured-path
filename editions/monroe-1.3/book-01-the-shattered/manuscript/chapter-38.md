@@ -4,7 +4,7 @@ Lira got as far as the board before she had to stop walking.
 
 She had meant to go straight down the lane and through the triangle and on, anywhere, at the pace she used for markets, so that people got out of her way without knowing why. But at the board her feet simply stopped, as if somebody had put a hand on her chest, and she stood in front of it in the cold with her hands in her jacket pockets and pretended to read it. Near the bottom, nearly gone into the grain under the new card and last Sunday's *Sarel… sixth exchange*, was her own result against Brenna, with the three charcoal strokes beside it rubbed half away by a sleeve.
 
-She was angry, and she let it be big, because she had learned a long time ago that if you tried to make anger smaller while you were still standing in it, it only went somewhere you could not see it and waited. So she stood in front of the board and was angry all the way through, at a boy with a notebook who had stood at the rope three weeks ago, seen a thing about her, and decided she could not have it yet.
+She was angry, and she let it be big, because she had learned long ago that if you tried to make anger smaller while you were still standing in it, it only went somewhere you could not see it and waited. So she stood in front of the board and was angry all the way through, at a boy with a notebook who had stood at the rope three weeks ago, seen a thing about her, and decided she could not have it yet.
 
 *Once isn't a pattern.* She could see exactly what his face had done when he decided it: the chin tucked, the eyes very wide, the small private nod he did not know he did. It was the face she had watched him make a hundred times about other people's feet and had never once thought he would make about hers. And the worst of it, the thing she did not want to look at, was that she might have done the same, seeing a thing in his fighting once, and waiting to see it again, and calling it being careful.
 
@@ -12,7 +12,7 @@ But she would not have left it out of a *report*. Not after he had given her eve
 
 The skewer woman was setting up at the corner of the widest street, and she looked across at Lira standing still in front of the board, which Lira never did, and then looked away, which was kind of her. Lira turned her back on the board and walked on.
 
-The other thing came up under the anger as she walked, slowly, the way the warmth comes up in your feet after you have been standing in snow. She had not let it come up in the yard because she had not wanted him to see it. She let it now.
+The other thing came up under the anger as she walked, slowly. She had not let it come up in the yard because she had not wanted him to see it. She let it now.
 
 *When you're tired, you go too far on your right.*
 
@@ -24,7 +24,7 @@ It had been her right foot, and a hand's width, there the whole time in plain si
 
 A boy from Denvash had seen it, from a rope, on a cold afternoon, while his own heart was going so hard against his ribs that he had printed the rope into his palms.
 
-She found that she had stopped again, in the middle of the street, and that she was smiling, and that she was still angry, and that both were true at once. A man with a barrow had to go round her, and said something she did not hear.
+She had stopped again, in the middle of the street, and she was smiling, and she was still angry, and both were true at once. A man with a barrow had to go round her, and said something she did not hear.
 
 It was the strangest feeling she had ever had about another person, and she stood in the street and made herself look at it straight, because she did not believe in looking at things sideways. Somebody had looked at her and seen her exactly, all the way down to her feet. Nobody had ever done that before, not once, not anybody, not in her whole life. And then he had kept back the one thing he saw that she most needed to know.
 
@@ -70,7 +70,7 @@ The widow counted it once, quickly, and swept it into a drawer, and took a key o
 
 The room was at the top of a stair so narrow and steep that Lira had to go up it with one hand on the wall, and the fourth step did talk, a long creak like an old man complaining.
 
-There was a door at the top. It was a plain door made of four boards with a crosspiece, painted a long time ago in a green that had gone grey, with a latch, and a keyhole below the latch, and a scuff at the bottom where somebody had kicked it shut for years. She stood on the top step with the key in her hand and looked at it for a long time.
+There was a door at the top. It was a plain door made of four boards with a crosspiece, painted years ago in a green that had gone grey, with a latch, and a keyhole below the latch, and a scuff at the bottom where somebody had kicked it shut for years. She stood on the top step with the key in her hand and looked at it for a long time.
 
 Then she put the key in and turned it, and the lock was stiff, and then it was not, and she pushed the door open and went in, and shut it behind her, and stood with her back against it.
 
@@ -84,13 +84,13 @@ She had not had that since she left the academy, nor at the academy either, in t
 
 She did not think about before the academy. She had a rule about that, and she kept it, the way you keep a door shut in a house you have moved out of.
 
-She sat down on the floor, in the middle of the pale worn strip, with her back against the bed frame and her knees drawn up. She sat there for a long time in the thin light from the cracked window and let herself think about the six weeks, for the first time sitting still long enough to do it.
+She sat down on the floor, in the middle of the pale worn strip, with her back against the bed frame and her knees drawn up. She sat there in the thin light from the cracked window and let herself think about the six weeks, for the first time sitting still long enough to do it.
 
 They were half gone: twenty-two days spent, and twenty left. She had counted the days without meaning to, the way he would have.
 
 In twenty-two days he had fought three times. He had beaten a boy who held his breath, and Renn, and nearly nobody had believed it about Renn until they saw it. He had lost to a Bronze in the sixth exchange, and in the third he had done the thing she had been trying to teach him for two months. He had done it badly, stiff in the hips, but he had done it, in front of the whole yard, against a woman the whole yard was afraid of. He had said *gone* thirty-four times at her post with his ears going red. Then he had said it once more at a Bronze with his ears not going red at all, and half the rope had heard him.
 
-She had stood at the barrel with her hands on the rope and watched every one of those, and watched him get better. It was not the slow, careful getting better of the first weeks, when every morning bought a hand's width and cost a bruise, but something faster. He had found something, or it had found him, and he was coming up through the circle the way she had said people came up who went down faster, and he was not going down, because he was being careful, and she had made him careful.
+She had stood at the barrel with her hands on the rope and watched every one of those, and watched him get better. It was not the slow, careful getting better of the first weeks, when every morning bought a hand's width and cost a bruise, but something faster. He had found something, or it had found him, and he was coming up through the circle as she had said people came up who went down faster, and he was not going down, because he was being careful, and she had made him careful.
 
 She thought about being his teacher, which she had never been to anybody before. She had been somebody's student and failed, and somebody else's student and been right in front of witnesses, and had walked the yards of this district on her own for months, losing. She had not known, when she put her name to a vouch for a boy from Denvash who said a word nobody had ever heard out loud, that it would feel like this. She had not known it would feel like watching something she had planted come up through the ground and turn out to be a different plant from the one on the packet.
 
@@ -104,7 +104,7 @@ And this morning he had seen the other thing, the bad thing, the thing that had 
 
 It was the same eyes; that was what she kept coming back to, on the floor. The eyes that saw the skipped middle were the eyes that saw the right foot. You could not have one without the other. You could only ask the person who had them not to keep half of what they saw in a pocket.
 
-She would ask him tomorrow, and not like this morning, with her voice going up and the bread whole on the post and *I'll see you*. She would ask him properly. She would tell him the rule, plainly, the way she told him everything, and let him pick it up, and it would be heavier than what other people gave him, and it would be the right weight.
+She would ask him tomorrow, and not like this morning, with her voice going up and the bread whole on the post and *I'll see you*. She would ask him properly. She would tell him the rule, plainly, as she told him everything, and let him pick it up, and it would be heavier than what other people gave him, and it would be the right weight.
 
 And then she would show him the door.
 
@@ -116,7 +116,7 @@ Then she went down the stair, and the fourth step talked, and she said *I know* 
 
 He did not know whether she would be there.
 
-He went up to the yard in the dark on Thursday morning anyway, the way he always did, by the lane where the ground began to rise, with two loaves from underneath in his arms. He told himself that it was what he did, and that Hesk had said not to change what he did, which was true and was not why he went.
+He went up to the yard in the dark on Thursday morning anyway, as he always did, by the lane where the ground began to rise, with two loaves from underneath in his arms. He told himself that it was what he did, and that Hesk had said not to change what he did, which was true and was not why he went.
 
 The gate in the wall was open and the frost was white along the foot of the east wall, and in the grey half, at the post, somebody was striking the canvas, low, twice, and stepping round it, and striking again.
 
@@ -130,7 +130,7 @@ Lira did not stop. She struck the post twice more and stepped round it, and he u
 
 "You're standing in the gate. That's late." She took her hand off the post. "Come here."
 
-He came across the yard. She did not take the bread, but stood in front of him in the grey half with her hands loose at her sides and her weight a little forward, and she looked at him the way she looked at a bout between exchanges, quickly and completely.
+He came across the yard. She did not take the bread, but stood in front of him in the grey half with her hands loose at her sides and her weight a little forward, and she looked at him.
 
 "Here's the rule. You see a thing about me, you tell me. When you see it. Not when you're sure. Not when you've decided I'm ready. Not after Sunday. When you see it." She did not raise her voice. "My feet. My fighting. Anything. If it's wrong, it's wrong, and I'll tell you it's wrong, and we'll both have learned something. But you don't keep it. Not my things. I'll put up with you keeping your own things as long as you like. I've told you that. I'm still not asking. But mine are mine."
 
@@ -138,9 +138,9 @@ He came across the yard. She did not take the bread, but stood in front of him i
 
 "Say it back."
 
-He said it back in his own words, the way he had said Vell's terms on the first morning, slowly, checking each one before he set it down. If he saw a thing about her, he told her when he saw it. Not when he was sure. Not when he had decided anything. He did not keep her things.
+He said it back in his own words, slowly, checking each one before he set it down. If he saw a thing about her, he told her when he saw it. Not when he was sure. Not when he had decided anything. He did not keep her things.
 
-She listened to every word, and when he had finished she nodded once. "Good. That's done, then." She took one of the loaves off him at last and tore it and gave him the larger half, and the morning brightness came up in her face, slowly, as if it had been waiting behind a door. "It was still the best thing you've ever given me. I meant that too."
+She listened to every word, and when he had finished she nodded once. "Good. That's done, then." She took one of the loaves off him at last and tore it and gave him half, and something came up in her face, slowly, as if it had been waiting behind a door. "It was still the best thing you've ever given me. I meant that too."
 
 "I know."
 
@@ -188,7 +188,7 @@ He went in, and minded his head.
 
 It was very small, as he had known it would be. There was a bed with a straw mattress on it and a blanket folded square at the foot, and a shelf. On the shelf there was a tin cup, and a comb, and the canvas roll, and a little flat tin with the picture worn off its lid. There was one window with a crack across the pane and a strip of paper over the crack, and a hook on the back of the door with nothing on it, because she was still wearing her jacket. He thought she had not taken it off since she got the key.
 
-He stood in the middle of the room on the pale worn strip of floor and looked at all of it, one thing at a time, the way he looked at everything.
+He stood in the middle of the room on the pale worn strip of floor and looked at all of it, one thing at a time.
 
 "Well?"
 
@@ -204,7 +204,7 @@ He had not known that was what he was going to say until it was out. She did not
 
 "Lira. It's a good door."
 
-She looked at him, and then sat down on the end of the bed, quite suddenly, as if her legs had decided it for her, and looked at the door. She did not say anything for a long time, and he did not either. He stood under the sloping ceiling with his head bent, and the light came in through the cracked pane, and two streets away over the roofs, through the window, he could see the top of Torvin's chimney with its smoke going straight up.
+She looked at him, and then sat down on the end of the bed, quite suddenly, as if her legs had decided it for her, and looked at the door. She did not say anything, and he did not either. He stood under the sloping ceiling with his head bent, and the light came in through the cracked pane, and two streets away over the roofs, through the window, he could see the top of Torvin's chimney with its smoke going straight up.
 
 "You can see Torvin's from here."
 
@@ -214,7 +214,7 @@ She looked at him, and then sat down on the end of the bed, quite suddenly, as i
 
 For Sunday's card Vell gave him Talis: Stone Path, Copper Rank 4.
 
-"He's young," she said, at her table on Thursday. "Younger than Dessa. A good deal less patient. Stone like hers, and strong, and he's had a good season." She turned her tea by the handle. "You'll want to watch him tonight. He's fourth on the card."
+"He's young," she said, at her table on Thursday. "Younger than Dessa. A good deal less patient. Stone like hers, and strong, and he's had a good season." She drank. "You'll want to watch him tonight. He's fourth on the card."
 
 "It's four days since Sarel," said Lira, who had come up beside him. "He's still green across the back."
 
@@ -282,7 +282,7 @@ Talis took another step. The buzz came first, and then the foot.
 
 Cael lay very still with his cheek on the ground.
 
-*Again,* he thought, and Talis took a third step, and it came again: the hum in the dirt, and then, half a beat behind it, the foot. Every time. The ground knew where Talis was going to plant before Talis's foot got there. It said so, if you were listening with the right part of you, and Cael had not been. He had been listening with his eyes, at shoulders and hands, the way he listened to everybody. It had never once occurred to him that a tell could live in the ground.
+*Again,* he thought, and Talis took a third step, and it came again: the hum in the dirt, and then, half a beat behind it, the foot. Every time. The ground knew where Talis was going to plant before Talis's foot got there. It said so, if you were listening with the right part of you, and Cael had not been. He had been listening with his eyes, at shoulders and hands, as he listened to everybody. It had never once occurred to him that a tell could live in the ground.
 
 He got up eventually, slowly, with his left side feeling as though somebody had driven a wedge into it, and something catching under the ribs, sharp, whenever he breathed in all the way. He walked to the table, and Vell wrote. He did not hear what she said, and then he did.
 

@@ -44,7 +44,7 @@ She was quiet.
 
 He told her.
 
-Lira's look stayed on him a long while, and he could not read it at all; then, slowly, she began to smile. It was not the quick one she allowed herself when she had landed something. It was the slow one that started somewhere behind her eyes and took its time getting out.
+Lira looked at him, and he could not read the look at all; then, slowly, she began to smile. It was not the quick one she allowed herself when she had landed something. It was the slow one that started somewhere behind her eyes and took its time getting out.
 
 "You told a man from the Compact," she said, "to his face, in his own office, that you were going to go and make yourself hard to lose."
 
@@ -62,7 +62,7 @@ He did the front of the Log first, at the low wall by the pump in Torvin's yard,
 
 He turned the book over and opened it from the back.
 
-He sat with the pencil for some time before he wrote, because the thing he wanted to write was not a fact yet and he did not want it to put on a fact's coat.
+He held the pencil off the page before he wrote, because the thing he wanted to write was not a fact yet and he did not want it to put on a fact's coat.
 
 *The man at Torvin's door, about the twenty-eighth day, asked for the circuit kid. He knew there was a circuit, and that I was in it. The grey coat with the pin didn't seem to know. Coss doesn't know. Coss has my whole file, all of it, the thin case, and it can't have the circuit in it, because he'd have asked.*
 
@@ -90,7 +90,7 @@ He wrote that down, in the back, with a line round it, so that he would know it 
 
 Then he closed the Log, and went up to the Cinder House, because it was a Tuesday, and there had been an afternoon card, and Vell would still be at her table.
 
-She was. The yard had nearly emptied. The pie boy was raking the circle where the afternoon's last bout had scuffed it, and the crows were along the eaves. Vell sat in the shade of the back wall on her stool with the ledger open in front of her, finishing an entry. She did not look up until she had blotted it.
+She was. The yard had nearly emptied. The pie boy was raking the circle where the afternoon's last bout had scuffed it, and the crows were along the eaves. Vell sat in the shade of the back wall on her stool with the ledger open in front of her, finishing an entry. She blotted it before she said anything.
 
 "You're not on this week," she said. "I told the Wind girl. Rest the hand."
 
@@ -104,7 +104,7 @@ He had thought, walking up, about how much to tell her, and he had decided on no
 
 "Because I've got six weeks to get better in," he said. "I'd like to spend all of them getting better."
 
-Vell considered that for a while. She seemed to find it true up to a point, short of the whole way, with the rest of it belonging to somebody other than her.
+Vell considered that. She seemed to find it true up to a point, short of the whole way, with the rest of it belonging to somebody other than her.
 
 "Renn's back at the turn of the month," she said. "I'm holding him for you, as I said I would. Before that, I'll put you in with somebody." She picked up her tea. "I'll tell you who when I've decided. Not before. And not because—"
 
@@ -184,7 +184,7 @@ He leaned on the desk.
 
 It did not rock.
 
-He stayed there for a moment on one knee, with his hand flat on the desktop, and found that he was very nearly smiling, alone in a borrowed room over a district he still could not read. Then he got up, and turned the lamp down, and lay on the cot with his coat over him.
+He stayed there for a moment on one knee, with his hand flat on the desktop, very nearly smiling, alone in a borrowed room over a district he still could not read. Then he got up, and turned the lamp down, and lay on the cot with his coat over him.
 
 ---
 
@@ -196,11 +196,11 @@ The pie boy had nailed up a new card since yesterday. It was in Vell's upright p
 
 He stood and read it twice anyway, from the top.
 
-Under it, near the bottom of the board, gone pale in three days of weather, was Sunday's result. *Lira (Cu 3, Wind) over Brenna (Cu 2, Shield), fifth exchange, called.* Beside it somebody had drawn three small strokes in charcoal, the way people marked a tally, and somebody else had circled them.
+Under it, near the bottom of the board, gone pale in three days of weather, was Sunday's result. *Lira (Cu 3, Wind) over Brenna (Cu 2, Shield), fifth exchange, called.* Beside it somebody had drawn a tally of three small strokes in charcoal, and somebody else had circled them.
 
 And under that, older still, he found his own: *unrated (vouched) over Dessa (Cu 5, Stone), fourth exchange, conceded.*
 
-He looked at the card and the two results for a while, one above the other.
+He looked at the card and the two results, one above the other.
 
 Forty-two days. Six bouts, if Vell would give them and his body would take them. At the end of the forty-two days a person more senior than Coss would come out along the merchant road, two days from wherever such people were kept, with a file that was too thin and a question that nobody had told Coss. Cael did not know what the question was, or who was asking it. He knew only that a field agent who had been honest with him had said he could buy time and could not buy an answer. The time had been bought, and it was going down already, one cold morning at a time.
 
@@ -222,6 +222,6 @@ Behind him the street that went up toward the yards had begun to fill: carts wit
 
 "Six weeks," said Cael.
 
-"Six weeks." She tore the bread and gave him the larger half. "Then come on. You're wasting them standing here."
+"Six weeks." She tore the bread and gave him half. "Then come on. You're wasting them standing here."
 
 They went up the street together toward the yards, into the morning. He did not look back at the board. He knew exactly what was on it, and he meant, before six weeks were out, to give it something new.

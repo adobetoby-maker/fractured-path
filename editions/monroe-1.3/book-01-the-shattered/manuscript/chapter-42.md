@@ -2,17 +2,11 @@
 
 On Thursday he went back to the middle yard, and this time Kestrel looked at him.
 
-It was not at first light, because the frost had come down so hard in the night that the rope of the sack was frozen stiff, and Kestrel had to stand under the beam for a while beating it against his leg before it would take a knot. Cael was already at the gate. He had come up in the dark again with bread in his pocket, and he had missed the grey half again, and Lira had said *all right* again on Wednesday evening at the well in the same voice as before, with the question set down a little further away from her this time. He did not like how far.
+The frost had come down so hard in the night that the sack's rope was frozen stiff, and Kestrel had to stand under the beam beating it against his leg before it would take a knot. Cael was already at the gate. He had missed the grey half again, and Lira had said *all right* again on Wednesday evening at the well in the same voice as before, with the question set down a little further away from her this time. He did not like how far.
 
-Kestrel hung the sack and stood in front of it, and then hit it, and the sack went up on its rope a half beat after his fist had stopped.
+He watched as he had watched on Monday, without writing and without looking for anything, and tried to let it go into him as the mornings in the grey half had gone into him, a little at a time, without his permission. He did not know how to do that on purpose. Every time he caught himself trying to let something in, he was really only watching harder, and watching harder was what he did for a bout. It was the opposite of what he had done with Lira for three months, which had mostly been standing about in the cold while she showed him things, liking her. He had never before liked anybody in quite that plain everyday fashion, as you like the person whose mornings you share, and he could not see how it could matter. He thought it would be a very foolish thing to write down, and that he would probably write it down anyway.
 
-Cael watched as he had watched on Monday. He did not write, and he did not look for anything. He let his eyes rest on the whole of the big tar-stained man, the breath going down into the belly and the heels settling and the shove coming out of the settling, and he tried to let it go into him the way the mornings in the grey half had gone into him, without his permission, a little at a time. He found that he did not know how to do that on purpose. Every time he caught himself trying to let something in, he was really only watching harder, and watching harder was what he did for a bout; it was the opposite of what he had done with Lira for three months, which had mostly been standing about in the cold while she showed him things, liking her.
-
-He thought about that at the gate while the sack swung out and back on its rope. He had not liked anybody in this way before, in the plain everyday way you like the person whose morning you share. He did not know whether it mattered. He could not see how it could matter. He thought it would be a very foolish thing to write down, and he thought he would probably write it down anyway.
-
-At the end of the second hour, Kestrel stopped hitting the sack and turned round.
-
-He did not do it suddenly. He took his hand off the rope and wiped his face on the shoulder of his shirt and looked down the yard at the gate, slowly, the way he did everything, as though he had known Cael was there all along and had only now got round to it.
+At the end of the second hour, Kestrel stopped hitting the sack. He wiped his face on the shoulder of his shirt and looked down the yard at the gate, slowly, as though he had known Cael was there all along and had only now got round to it.
 
 "You're the boy from Torvin's," he said. "Went five with Corbin."
 
@@ -32,15 +26,15 @@ Kestrel looked at him with no expression on his broad face at all. Then he nodde
 
 "Stand inside the wall, then," he said over his shoulder. "Out of the wind. You'll lose your feet, standing in that."
 
-So Cael stood inside the wall, out of the wind, and watched Kestrel hit the sack for two more hours. At the end of it the big man unhooked his rope and coiled it, and walked out past him humming the same tuneless thing he had hummed on Monday, and said, "Morning," as he went by, as though they had known each other for years.
+So Cael stood inside the wall, out of the wind, and watched for two more hours. At the end of it the big man coiled his rope and walked out past him humming, and said "Morning" as he went by, as though they had known each other for years.
 
-That night, on the low wall by the pump, the word at the edge of his tongue stayed exactly where it had been on Monday.
+That night, on the low wall by the pump, the thread stayed exactly where it had been on Monday, almost catching and not catching.
 
 ---
 
 On Friday morning he went back to the grey half, because two mornings away from it had been two too many, and because Lira was there.
 
-She did not say anything about the two mornings. She gave him the larger half of the bread and the box drill at full speed, and then the step, over and over, and he moved without deciding as well as he could, which was not very well. He was tired from two dawns at a gate and two nights on a cold wall, and she could see it, and she did not say anything about that either. She only came at him a little harder, as though she meant to find out how tired he was by experiment.
+She did not say anything about the two mornings. She tore the bread and gave him half, and then the box drill at full speed, and then the step, over and over. He was tired from two dawns at a gate and two nights on a cold wall, and she could see it, and she only came at him a little harder, as though she meant to find out how tired he was by experiment.
 
 On the ninth time she came at him with the step, something happened.
 
@@ -56,25 +50,21 @@ He stood quite still.
 
 "I don't know."
 
-She looked at him for a moment, and he saw her see that he meant it, and saw her put that down on the step beside the other things. Then she went back to her mark.
+She looked at him, and he saw her see that he meant it, and put that down on the step beside the other things. "Again."
 
-"Again."
+He did it a dozen times more before the sun came over the east wall, and his heels stayed his own every time, and by the end he could not have sworn to anybody, not even to himself, that he had felt anything at all.
 
-He did it again, and it did not come. He did it a dozen times more before the sun came over the east wall, and his heels stayed his own every time, and by the end he could not have sworn to anybody, not even to himself, that he had felt anything at all.
-
-He wrote it up that night on the cot. He wrote the two days of Kestrel first, and the two failed nights, and the half heartbeat in the grey half, as plainly as he could. Then he sat looking at what he had written, because none of it would stand still.
+He wrote it up that night on the cot: the two mornings of Kestrel, the two failed nights on the wall, the half heartbeat in the grey half, as plainly as he could. Then he sat looking at what he had written, because none of it would stand still.
 
 *Inconclusive,* he wrote at last.
 
-*I can see three ways to read it. One: two mornings isn't enough. I watched Lira for three months before anything came, and I wasn't even trying, and maybe I've skipped straight to expecting it. Two: Force doesn't come across the way Wind does, or not to me, for reasons I can't guess at. Three: the thing in my heels this morning was real, and was his, and I need a great deal more before I can say so.*
+*I can see three ways to read it. One: two mornings isn't three months. I watched Lira for three months before anything came, and I wasn't even trying. Two: Force doesn't come across the way Wind does, or not to me, for reasons I can't guess at. Three: the thing in my heels this morning was real, and was his, and I need a great deal more before I can say so. I can't tell which. I'm writing that down so that I remember I couldn't.*
 
-*I can't tell which. I don't like not being able to tell. I think I'm going to have to get used to it, because I think this whole subject is going to give me a great many answers like this one before it gives me a single one I can stand on.*
-
-He read it over. Then he turned back a page, to the boxed *Not yet* from the thirty-ninth night, with *not sure it is honest* written beside the box.
+He turned back a page, to the boxed *Not yet* from the thirty-ninth night, with *not sure it is honest* written beside the box.
 
 It had been two weeks tomorrow.
 
-He had told himself, walking home from the well on the forty-second day, that he could carry it two weeks if he was careful. He had been careful, and the two weeks were nearly gone, and in all that time he had not found out a single thing that would make it easier to say. He had only found out that he did not know more things than he had thought.
+He had told himself, walking home from the well on the forty-second day, that he could carry it two weeks if he was careful. He had been careful, and the two weeks were nearly gone, and in all that time he had found out nothing that would make it easier to say. He had only found out that he did not know more things than he had thought.
 
 He shut the Log and lay down on his right side and looked at the window until the bead of Yeni's lamp went out.
 
@@ -82,7 +72,7 @@ He shut the Log and lay down on his right side and looked at the window until th
 
 "You've been somewhere else," said Lira, "for about a fortnight."
 
-It was Saturday morning in the grey half, and she had stopped in the middle of the box drill to say it, with her hands still up. Then she let them down and stood with her weight a little forward and looked at him, quickly and completely, the way she looked at a bout between exchanges.
+It was Saturday morning in the grey half, and she had stopped in the middle of the box drill to say it, with her hands still up. Then she let them down and stood with her weight a little forward and looked at him.
 
 "Not distracted. You're here. You're doing the drills. But half of you's somewhere else, in some other talk, and I only get the scraps of mine." She tilted her head. "And you've missed two mornings standing at a gate watching a ropewalker hit a sack, and the girls on the wall told me before you did. Which you'll agree is not how it's meant to go."
 
@@ -90,7 +80,7 @@ It was Saturday morning in the grey half, and she had stopped in the middle of t
 
 "I know you know." She did not sound angry. She sounded like somebody who has waited outside a door all afternoon and has decided to knock once, politely, and see. "I said I wouldn't ask. I'm not asking. I'm telling you that I've noticed, so you know I've noticed. That's all."
 
-He had rehearsed this a dozen times, lying on the cot with his face to the window. In every version it had come out either too small or too strange, and he had stopped rehearsing it on Thursday because rehearsing it had begun to feel like a way of not doing it. Now she was standing in front of him in the grey half with her hands at her sides, and he found that he did not want to say it here, by the post, with the girls on the wall eating their stolen bread and the frost on the dirt.
+He had rehearsed this a dozen times, lying on the cot with his face to the window. In every version it had come out either too small or too strange, and he had stopped rehearsing it on Thursday because rehearsing it had begun to feel like a way of not doing it. Now she was standing in front of him in the grey half with her hands at her sides, and he did not want to say it here, by the post, with the girls on the wall eating their stolen bread and the frost on the dirt.
 
 "Can I come to your room," he said. "This afternoon. Before the lamps." He heard how it sounded and went on. "I want to tell you something, and I want to tell it with the door shut. Your door. Because it's partly yours."
 
@@ -106,7 +96,7 @@ She looked at him while the girls on the wall stopped chewing. He saw her pick u
 
 ---
 
-He walked there with the Log inside his coat, against his chest, the way Lira carried her throat-sweet tin.
+He walked there with the Log inside his coat, against his chest, as Lira carried her throat-sweet tin.
 
 The lane was empty in the cold. There was a dog asleep on a step, and a sheet frozen stiff on a line across the lane like a board, and candles hanging over the chandler's counter in bunches by their wicks. The widow was asleep in her chair behind them with her chin on her chest, and she did not wake when he went by. The fourth step talked. He went up the rest on the outsides of the treads, where they were quieter, and stood at the top in front of the door that was green gone grey.
 
@@ -128,7 +118,7 @@ He took the Log out of his coat and held it on his knees, closed.
 
 "Two weeks ago," he said, "three nights before the six weeks were up, I was on my cot at Torvin's going back through the Log, and something came."
 
-He told her about the quiet before a thought. He told her about the dark place behind his breastbone where the sigil had gathered at Kindling, and had been dark ever since, and how it had still been dark, and how something had been written in it anyway. He opened the Log to the back, to the page where he had copied it, and turned it round on his knee so that she could read it, and she leaned forward on the bed and read it with her lips moving very slightly, the way she read the board.
+He told her about the quiet before a thought. He told her about the dark place behind his breastbone where the sigil had gathered at Kindling, and had been dark ever since, and how it had still been dark, and how something had been written in it anyway. He opened the Log to the back, to the page where he had copied it, and turned it round on his knee so that she could read it, and she leaned forward on the bed and read it with her lips moving very slightly, as she read the board.
 
 ```
 FRAGMENT ACQUIRED
@@ -148,7 +138,7 @@ He stopped, because the next part was the part he had rehearsed most and trusted
 
 Lira heard it, and for a moment did not feel anything at all.
 
-That surprised her. She had been sitting on the end of her own bed for a quarter of an hour before he knocked, with her knees up and her back against her own wall, getting ready to feel something, because a boy who said *partly yours* in the grey half with his ears going red was a boy who was going to say a thing that would need feeling about. She had guessed at it, the way you guess at the weight of a sack before you lift it. She had guessed that it was the drop, and Renn's third exchange, and the hand at the board on the first day; she had kept those three in a row in her head for two months. She had guessed, some nights, that the row was all one thing. She had even guessed, once or twice, lying awake, that the one thing might have something to do with her.
+That surprised her. She had been sitting on the end of her own bed for a quarter of an hour before he knocked, with her knees up and her back against her own wall, getting ready to feel something, because a boy who said *partly yours* in the grey half with his ears going red was a boy who was going to say a thing that would need feeling about. She had guessed at it, the way you guess at the weight of a sack before you lift it. She had guessed that it was the drop, and Renn's third exchange, and the hand at the board on the first day; she had kept those three in a row in her head for months. She had guessed, some nights, that the row was all one thing. She had even guessed, once or twice, lying awake, that the one thing might have something to do with her.
 
 But guessing at the weight was not the same as lifting it, and now it was in her arms, and for a breath or two she only held it and could not tell what it weighed.
 
@@ -180,7 +170,7 @@ He looked up.
 
 "I thought it might feel like that. Hearing it. I thought, if he ever says what it is, and it's me, it'll feel like the academy." She turned her hands over on her knees and looked at them. "It doesn't. You didn't take anything. You didn't even know you were doing it. You just paid me more attention for three months than anybody's ever paid me in my whole life, and something about you is built to take attention like that and make it into something you can use." She looked up again. "I don't know what that is. I don't think you do either. But it's not stealing. Stealing's when somebody's got less afterward. I haven't got less. I checked." She lifted her chin at the door. "I did the step at the post this morning before you came, twenty times. It's all still there."
 
-Cael did not say anything for a while. He looked at the floor between his boots, and she watched his face try three or four things and give each of them up.
+Cael did not say anything. He looked at the floor between his boots, and she watched his face try three or four things and give each of them up.
 
 "Thank you," he said at last.
 
@@ -194,7 +184,7 @@ He looked up at her.
 
 "I've had mine since I was fourteen," she said. "It was declared. The Arbiter said it, and it was mine, and I've never once had to wonder where it came from or whose it was. It's just the way my legs work. Having a thing turn up in you the other way round, I can't imagine." She hesitated. "If you don't want to—"
 
-"No. I want to." He thought about it for a long time, the way he thought about everything, frowning at the floor, and she watched him do it and did not hurry him. "It feels borrowed," he said. "Not in a bad way. Put on somebody else's coat, even one cut to your size, and it never sits on you the way your own does; you always know. It's like that. Except that this coat fits better every time I put it on, better than it should, for how long I've had it." He looked at his hands. "Either it's turning into mine, or I'm just getting handier at wearing coats that belong to other people, and I can't tell which."
+"No. I want to." He thought about it, frowning at the floor, and she watched him do it and did not hurry him. "It feels borrowed," he said. "Not in a bad way. Put on somebody else's coat, even one cut to your size, and it never sits on you the way your own does; you always know. It's like that. Except that this coat fits better every time I put it on, better than it should, for how long I've had it." He looked at his hands. "Either it's turning into mine, or I'm just getting handier at wearing coats that belong to other people, and I can't tell which."
 
 Lira looked at him.
 
@@ -208,7 +198,7 @@ Lira looked at him.
 
 She told him about the row of three: the hand at the board on the first day, going to a strap that was not there; the third exchange against Renn; the drop under her backhand, lower than she had ever asked. She told him that she had kept the three in a row in her head with nothing written over them, and had never said so. Then she told him the worst of it, which was the eleven tries. She had gone back into the empty yard that same afternoon and tried his drop, her own backhand turned into his drop, eleven times, and had found that it was easy to do and impossible to do in time.
 
-"You can only already be going," she said. "That's what I found out. You can't decide to do it. If you decide, you're late." She turned the tin over. "I kept that for two months. I told myself I was waiting till you had something to tell me."
+"You can only already be going," she said. "That's what I found out. You can't decide to do it. If you decide, you're late." She turned the tin over. "I kept that for months. I told myself I was waiting till you had something to tell me."
 
 He was looking at her very hard.
 
@@ -248,7 +238,7 @@ She thought about what she would do with it, and decided, sitting there in the d
 
 And the next time he said *I don't know* about it, she would say *neither do I*, and mean it, and they would not know together, which was a different thing from not knowing alone.
 
-She got up off the floor at last and lit her candle end in its tin cup, and saw by its light that she had been smiling for some time without knowing it, the way you find you have been humming.
+She got up off the floor at last and lit her candle end in its tin cup, and saw by its light that she had been smiling without knowing it, as you find you have been humming.
 
 *Some of it's yours.*
 

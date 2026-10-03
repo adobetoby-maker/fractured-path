@@ -1,6 +1,6 @@
 # Chapter 46 — Bronze
 
-Vell counted the yard once from her table, the way she always counted it, and made it forty-one.
+Vell counted the yard once from her table, as she always counted it, and made it forty-one.
 
 It was a poor number for a Bronze. On a Sunday afternoon in good weather a Bronze in her circle would have had the benches out and the rope four deep, and boys on the wall, and Marrow sweating. But this was a Monday at noon in the last of the winter, with a grey sleet coming in slantwise off the river and melting as it touched the dirt, and a gate on it five times the price of a bench. Everybody who had come had walked out of a day's work to be there, or paid somebody to do it for them, or simply not gone in. So forty-one was a good number, and she wrote it at the top of the page in the small hand she kept for things that were hers: *41, sleet, Monday noon*. Then she looked at who they were.
 
@@ -10,13 +10,13 @@ She knew why he did that. She had watched him find it.
 
 The pie boy came across from the gate with the coin bag, and she weighed it in her hand without counting it and put it under the table. Then Feryn came in through the gate in the wall.
 
-He came in the way she had seen him come into three other yards in three other cities over five years, talking over his shoulder to somebody behind him, easy and loose and pleased with the day. He was taller than most and built for use, not for show, in a coat that had been good once and was now only warm. He had been nineteen and a Copper the first time she saw him, on a wet night in a yard three days south of here, and he had lost to a one-armed man and laughed about it all the way to the water bucket. He was twenty-four now, or near it, and a Bronze Rank 2, and he moved like a man who has been hit by a great many good fighters and has stopped finding it interesting. She had watched him win more bouts than she could have named without the books, and she had liked him every time, which she did not often say about anybody.
+He came in as she had seen him come into three other yards in three other cities over five years, talking over his shoulder to somebody behind him, easy and loose and pleased with the day. He was taller than most and built for use, not for show, in a coat that had been good once and was now only warm. He had been nineteen and a Copper the first time she saw him, on a wet night in a yard three days south of here, and he had lost to a one-armed man and laughed about it all the way to the water bucket. He was twenty-four now, or near it, and a Bronze Rank 2, and he moved like a man who has been hit by a great many good fighters and has stopped finding it interesting. She had watched him win more bouts than she could have named without the books, and she had liked him every time, which she did not often say about anybody.
 
 Halfway across the yard he saw who it was at the rope with his coat already off.
 
 He stopped as a man stops who has walked into a door he thought was open. Then he looked at the boy, a long plain look, and turned round, and found her table, and came across to it.
 
-"No," he said.
+"No."
 
 He said it quietly, but the yard was very quiet, and the sleet was not loud, and forty-one people heard him.
 
@@ -24,19 +24,19 @@ He said it quietly, but the yard was very quiet, and the sleet was not loud, and
 
 "He's fourteen," said Vell.
 
-She had known it was coming. She had known it on the morning she told the boy that Feryn was coming, and every morning since, and she had decided a long time before this one what she would say. She found that it was harder to say it to his face than she had thought, and she said it anyway.
+She had known it was coming. She had known it on the morning she told the boy that Feryn was coming, and every morning since, and she had decided long before this one what she would say. It was harder to say it to his face than she had thought, and she said it anyway.
 
 "You posted for any opponent with a rating a keeper would sign. I've signed his. Assessed-Copper, in my hand, five weeks gone. He's won two since, and four of the six before it; that's thirteen bouts in my book. I still call him unrated at the rope, because the registry gives me nothing to write there, but the line's in my hand and my name's under it. He's entered under witness, and the purse is met, and the gate's paid." She turned the ledger round on the table so that he could see the page. "Those are the terms. They're the terms you wrote."
 
 Feryn bent over the book and read the page, all of it, with his finger moving down the lines. She had seen a great many fighters stand at her table and complain about what was in her book. She had seen very few read it first. She marked it to his credit and did not let it show.
 
-"I posted for interesting opponents," he said, still reading. "I didn't post for somebody who's still growing into his boots."
+"I posted for interesting opponents." He was still reading. "I didn't post for somebody who's still growing into his boots."
 
 "Then you should have written it better."
 
 He looked up at her.
 
-"I don't decide who stands in my circle," said Vell. "I decide who I put across from whom, and what happens inside the rope, and when it stops. That's all I decide. The consent question is his. It isn't yours to answer, and it isn't mine." She turned the book back round. "If you want to know whether he means it, ask him."
+"I don't decide who stands in my circle. I decide who I put across from whom, and what happens inside the rope, and when it stops. That's all I decide. The consent question is his. It isn't yours to answer, and it isn't mine." She turned the book back round. "If you want to know whether he means it, ask him."
 
 She had not always thought that.
 
@@ -52,9 +52,9 @@ Feryn had gone to the rope.
 
 He did not go round it to the boy's side. He stood on his own side with his hands resting on the top of it, and looked across the circle at the boy, and the boy looked back. Vell watched Feryn not ask how old he was, which was what nearly anybody would have asked, and which he already knew.
 
-"Whoever stands in front of Pressure," said Feryn, "do you know what it does to them?"
+"Whoever stands in front of Pressure, do you know what it does to them?"
 
-"Not all of it," said the boy. His voice was perfectly steady and rather quiet. "I've spent three weeks finding out what I could. A woman who lost to it for ten years showed me how it's built. I can tell you where you'll hold it, and about how long, if you're slow." He did not smile. "You won't be slow. That's the part I can't find out from anybody. The benches can't tell me, and neither can she."
+"Not all of it." The boy's voice was perfectly steady and rather quiet. "I've spent three weeks finding out what I could. A woman who lost to it for ten years showed me how it's built. I can tell you where you'll hold it, and about how long, if you're slow." He did not smile. "You won't be slow. That's the part I can't find out from anybody. The benches can't tell me, and neither can she."
 
 "Who talked you into it?"
 
@@ -62,7 +62,7 @@ He did not go round it to the boy's side. He stood on his own side with his hand
 
 Feryn did not say anything. He was weighing him, and Vell knew what he was weighing, because she had weighed the same things: whether the answer had been learned by heart, and whether anybody behind the boy was pushing. He looked for it. She saw him look past the boy at the rope behind him, and along it, and find nobody there but the girl at the barrel with her arms folded, who looked back at him as flatly as a shut door.
 
-"All right," said Feryn at last. He said it the way you shut a gate behind you. Then he turned round and looked at Vell. "Note that I objected."
+"All right," said Feryn at last, as a man shuts a gate behind him. Then he turned round and looked at Vell. "Note that I objected."
 
 "Noted," said Vell, and wrote it. "So is his answer."
 
@@ -88,7 +88,7 @@ It was not like Corvane's. Corvane's had been a hand laid on his chest. This was
 
 There was no place where it struck him. It was everywhere at once, all the air between them gone solid together and coming down on him and forward, and his guard did not break so much as fold. The air slammed his own forearms flat against his chest, and the breath left him in a hiss between his teeth. Then he was on the ground, all along his back, without having seen it coming. He lay in the wet dirt of the circle with the sleet falling into his open eyes and the noise of the yard arriving from somewhere a long way off, like voices through a wall, and did the accounting, because the accounting was the only thing he could do: breath gone; ribs ringing deep where his own arms had hit them, the left side catching under the old place; nothing grating; nothing broken.
 
-Somewhere above him Vell was counting, level and unhurried, the way she counted when somebody was down and not moving.
+Somewhere above him Vell was counting, level and unhurried, as she counted when somebody was down and not moving.
 
 He got his breath back in pieces. At six he rolled onto his knees. At eight he was standing.
 
@@ -136,7 +136,7 @@ He did not ask it. It was a fact, put out for the whole yard to hear, and for Ve
 
 He stood on his mark and did the arithmetic, because his arm was telling him to.
 
-He had read the build in the second. He had read it halfway, perhaps, or a little less, the way he had read Corvane's at two breaths in four, and it had kept him on his feet and cost him an arm. He could not spend the arm twice. Reading it halfway was not enough; he needed to read it at the beginning, before Feryn had built anything at all, at the moment Feryn decided to build, if there was such a moment, and if it showed. Corvane had never told him whether it did. Corvane had never seen anybody read it that early.
+He had read the build in the second. He had read it halfway, perhaps, or a little less, as he had read Corvane's at two breaths in four, and it had kept him on his feet and cost him an arm. He could not spend the arm twice. Reading it halfway was not enough; he needed to read it at the beginning, before Feryn had built anything at all, at the moment Feryn decided to build, if there was such a moment, and if it showed. Corvane had never told him whether it did. Corvane had never seen anybody read it that early.
 
 Across the circle Feryn had set his feet.
 
@@ -226,7 +226,7 @@ He walked to the table, because you walked to the table, win or lose, and stood 
 
 Feryn came to him there.
 
-He came straight across the circle, ahead of Renn and the old men and the people with money in their hands, ahead of everybody, and Cael marked that he did it at once, before anything else, the way you would mark it if a man stopped to pick up something you had dropped. He held out his hand. Cael took it with his right, which hurt less, and Feryn closed his own round it and pulled once, smoothly, so that Cael was standing straight instead of swaying, and then let go. He was careful about it without making any show of being careful.
+He came straight across the circle, ahead of Renn and the old men and the people with money in their hands, ahead of everybody, and Cael marked that he did it at once, before anything else. He held out his hand. Cael took it with his right, which hurt less, and Feryn closed his own round it and pulled once, smoothly, so that Cael was standing straight instead of swaying, and then let go. He was careful about it without making any show of being careful.
 
 "What tier are you?" said Feryn.
 

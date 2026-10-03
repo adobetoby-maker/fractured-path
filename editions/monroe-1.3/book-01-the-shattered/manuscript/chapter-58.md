@@ -180,7 +180,7 @@ She straightened. It was so quiet that she could hear the pie boy's breathing be
 
 Then the yard let go of whatever it had been holding, and the noise of it hit her in the back like a wave as she walked to her table. She sat down and opened the ledger at the page and picked up her pen, and found that her hand was not quite steady, which it always was, and waited until it was.
 
-There were two lines under the date that she had written that morning. The Bronze's, with his rank and Path. And under it the other one, the way she had written it for seven months: *unrated (vouched)*. The assessment lived in her margin, not on the line.
+There were two lines under the date that she had written that morning. The Bronze's, with his rank and Path. And under it the other one, as she had written it for seven months: *unrated (vouched)*. The assessment lived in her margin, not on the line.
 
 The custom was hers. She had made it up herself, thirty years ago, at a table very like this one. A book that wrote down every name that came over its rope was a book nobody needed. A name went in when the yard came to see it.
 
@@ -246,11 +246,11 @@ Darrow looked at the hand that would not come, and then at Cael, and understood 
 
 "Good." He took Cael's right wrist in his own hand and lifted it, and shook the hand himself, carefully, and set it back down at Cael's side. "I'd hate it to be free."
 
-He went back across the circle for his jacket and his bag. At the gate the pie boy ran after him holding out the coin he had paid to come in, and Darrow folded the boy's fingers back over it, as he had at the start, and went out into the lane. The lane moved out of his way the way people step back for a heavy cart they have seen come safely down a hill.
+He went back across the circle for his jacket and his bag. At the gate the pie boy ran after him holding out the coin he had paid to come in, and Darrow folded the boy's fingers back over it, as he had at the start, and went out into the lane. The lane moved out of his way.
 
 Lira put him on the bench before his legs could give their own opinion, and stood in front of him, and held up one finger, and moved it, and watched his eyes try to follow; she moved it the other way, and frowned at what his eyes did. She pressed the heel of her hand very gently against the low right side, rib by rib, and stopped where he made the sound, and felt round it, and frowned harder.
 
-Then she sat down on the bench beside him, on the side that did not hurt, and did not do anything at all for a while.
+Then she sat down on the bench beside him, on the side that did not hurt, and did not do anything at all.
 
 He felt it come before he looked at her. He felt her go still against his shoulder, and then not still. When he turned his head she was not hiding any of it. It had come up into her face, the afternoon and the two weeks and a great deal from before that, and she was letting it sit there in the open with three hundred people round them. She did not wipe it away or turn her head.
 
@@ -286,13 +286,13 @@ Feryn found them there. He had been at the nails, where Marrow was paying out wi
 
 They went back to Torvin's the long way, in the last of the light, with Lira on his left.
 
-The lanes were ordinary. That was the strange thing. The district was doing what it did at the end of a Sunday: shutters going up, a cart backed into a yard, a child being called in. Then at the well a man he had never seen in his life took off his cap as Cael went past and said *Hesk-ward*, the way you say good evening to a neighbour, and put the cap back on. At the triangle the cooper and the dyer were both in their doorways, across from each other, and as he came by they both stopped looking at each other and looked at him instead, for the whole time it took him to cross, and neither of them said anything at all, which in seven months he had never once seen happen.
+The lanes were ordinary. That was the strange thing. The district was doing what it did at the end of a Sunday: shutters going up, a cart backed into a yard, a child being called in. Then at the well a man he had never seen in his life took off his cap as Cael went past and said *Hesk-ward*, as you say good evening to a neighbour, and put the cap back on. At the triangle the cooper and the dyer were both in their doorways, across from each other, and as he came by they both stopped looking at each other and looked at him instead, for the whole time it took him to cross, and neither of them said anything at all, which in seven months he had never once seen happen.
 
 At the top of the lane of yards the old man was standing in his gate.
 
 He was always there. He had been there on the evening after Feryn and the evening after Dessa, with his sleeves rolled down and the yard behind him going blue, and Cael saw him from a long way down the lane and knew what was coming. The old man would look at the way he was walking. Then he would say a number, the number of the exchange.
 
-The old man watched him come. He looked for a long time. He looked at the arms, which hung, and at the side, which was held, and at Lira's shoulder ready under the left arm. Then he looked at Cael's face.
+The old man watched him come. He looked at the arms, which hung, and at the side, which was held, and at Lira's shoulder ready under the left arm. Then he looked at Cael's face.
 
 He did not say a number.
 
@@ -318,7 +318,7 @@ It had come up dark from the rib under the arm to the top of the hip, one long s
 
 Yeni's lamp put its bead of light on the boards. He looked at it, and the quiet came.
 
-It came the way the others had come. There was the quiet first, the quiet before a thought arrives whole; then the turning over; then, in the dark place behind his breastbone where nothing had lit since the word, something written.
+It came as the others had come. There was the quiet first, the quiet before a thought arrives whole; then the turning over; then, in the dark place behind his breastbone where nothing had lit since the word, something written.
 
 ```
 FRAGMENT NOTICE
@@ -329,7 +329,7 @@ Tier equivalent: unknown.
 
 He sat with it a long time.
 
-*Recorded.* Whatever kept that book had seen what the yard saw, and that was all it had to say. Vell had at least said *so entered*, and said his name, and written down how; this one wrote less than Vell, and did not even say who had won. He found, sitting there, that this made him want to laugh, and his ribs were very clear that he was not to.
+*Recorded.* Whatever kept that book had seen what the yard saw, and that was all it had to say. Vell had at least said *so entered*, and said his name, and written down how; this one wrote less than Vell, and did not even say who had won. It made him want to laugh, sitting there, and his ribs were very clear that he was not to.
 
 He took the Log out of his coat and opened it on his knee.
 
@@ -341,9 +341,9 @@ Then he turned the book over to the back.
 
 *Eighth instance. Darrow, fourth exchange.*
 
-He sat with the pencil over the page for a long time.
+He sat with the pencil over the page.
 
-He tried to draw it first, the way Corvane had taught him to draw a thing he could not say, with a stick figure and a long arm coming at it and two marks in its chest; but the two marks were wrong, because they were two and it had not been two, and he struck it through. Then he tried words. *The Wind took me round and then* — and struck that, because there had been no *then* in it anywhere. *I picked up both* — and struck that, because he had not picked up anything. He had reached for one and found himself holding a basket with two handles, and the reaching and the finding were in the one room in himself that he had never been able to see into, so that he could no more write down how to do it again than he could have written down how he had grown an inch since the autumn.
+He tried to draw it first, as Corvane had taught him to draw a thing he could not say, with a stick figure and a long arm coming at it and two marks in its chest; but the two marks were wrong, because they were two and it had not been two, and he struck it through. Then he tried words. *The Wind took me round and then* — and struck that, because there had been no *then* in it anywhere. *I picked up both* — and struck that, because he had not picked up anything. He had reached for one and found himself holding a basket with two handles, and the reaching and the finding were in the one room in himself that he had never been able to see into, so that he could no more write down how to do it again than he could have written down how he had grown an inch since the autumn.
 
 So in the end he wrote the only sentence that would stand up on the page. It did not explain anything; he wrote it the way you drive a stake in at the edge of a marsh, not to say what is out there in the reeds, but to say where the dry ground stops.
 

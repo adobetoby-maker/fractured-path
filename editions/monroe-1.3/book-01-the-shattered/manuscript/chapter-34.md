@@ -14,7 +14,7 @@ He said it. He had worked it out under the pear tree the evening before and agai
 
 "What did she say about it?"
 
-"She said *hm*." Lira looked at him for a while, with the long look she gave him sometimes even now, after seven weeks. It was not suspicion. It was more like a person reading a contract she has already signed, to see what exactly she has agreed to. "You've got five bouts in the book. One of them's a win. That isn't a foundation, Cael. That's a first course of stones."
+"She said *hm*." Lira gave him the long look she gave him sometimes even now, after seven weeks. It was not suspicion. It was more like a person reading a contract she has already signed, to see what exactly she has agreed to. "You've got five bouts in the book. One of them's a win. That isn't a foundation, Cael. That's a first course of stones."
 
 "Then help me lay the rest faster."
 
@@ -30,7 +30,7 @@ He said it. He had worked it out under the pear tree the evening before and agai
 
 "I know what you meant."
 
-"Good." She took the bread off the post at last and tore it, one-handed, with her teeth, and gave him the larger half. "Eat. Then the deflection, slow, while I watch your left foot. It's still turning out on the back corner."
+"Good." She took the bread off the post at last and tore it, one-handed, with her teeth, and gave him half. "Eat. Then the deflection, slow, while I watch your left foot. It's still turning out on the back corner."
 
 "I fixed it."
 
@@ -40,7 +40,7 @@ He said it. He had worked it out under the pear tree the evening before and agai
 
 The mender was at his bench when Cael came down the row of workshops after noon, exactly as though nothing had happened on Monday and nobody had ever stood in his doorway apologizing.
 
-The lantern woman next door had all thirteen of her broken lanterns out on a plank in the thin sun, and was warming her soldering iron between her palms and talking to it, while the cooper beyond her knocked a hoop down. The mender's own doorway had no sign over it, only the four words cut into the frame at the height of a man's shoulder and filled in with black paint, the way they had been on the first afternoon Cael ever stopped there.
+The lantern woman next door had all thirteen of her broken lanterns out on a plank in the thin sun, and was warming her soldering iron between her palms and talking to it, while the cooper beyond her knocked a hoop down. The mender's own doorway had no sign over it, only the four words cut into the frame at the height of a man's shoulder and filled in with black paint, as they had been on the first afternoon Cael ever stopped there.
 
 *IF IT'S STILL HERE.*
 
@@ -54,7 +54,7 @@ On the end of the bench there was a crate of forty or fifty door hinges, black w
 
 Cael sat on the stool at the end of the bench and opened and shut hinges.
 
-It was slow work and he liked it, because you could not tell a true hinge by looking at it. Paint hid the pin, and rust hid the knuckle, and a hinge that looked like scrap would sometimes open as sweetly as a new one, while a hinge that looked clean would bind at the halfway and grind and stop. You had to hold it and work it and feel for the place where it caught, and he found after the first dozen that his hands knew before his eyes did. Something in the first quarter-turn told him which heap it was going in, before he had finished turning it, and he made himself finish turning it anyway, because he did not trust that yet.
+It was slow work and he liked it, because you could not tell a true hinge by looking at it. Paint hid the pin, and rust hid the knuckle, and a hinge that looked like scrap would sometimes open as sweetly as a new one, while a hinge that looked clean would bind at the halfway and grind and stop. You had to hold it and work it and feel for the place where it caught, and after the first dozen his hands knew before his eyes did. Something in the first quarter-turn told him which heap it was going in, before he had finished turning it, and he made himself finish turning it anyway, because he did not trust that yet.
 
 He thought about the six weeks while his hands worked, because there was nothing else in his head that afternoon to think about.
 
@@ -78,7 +78,7 @@ The mender nodded slowly, as he had nodded at *I don't know yet* once before ove
 
 ---
 
-Vell was at her table on Thursday morning before the yard had properly woken, with her tea and the ledger and her stool set square to the back wall, and she did not look up when he came across the dirt.
+Vell was at her table on Thursday morning before the yard had properly woken, with her tea and the ledger and her stool set square to the back wall, and she went on writing when he came across the dirt.
 
 "Tuesday," she said. "The afternoon card."
 
@@ -98,7 +98,7 @@ Vell turned the ledger a little toward the light and laid her finger on a line. 
 
 He went to the rope that evening on the shaded side, by the barrel near the drain, with the Log open on his knee and the pencil going, and he watched the kiln boy fight.
 
-He was about seventeen, broad through the shoulders and narrow at the hip, with forearms burned all over in small shiny patches, old and new together, the way a baker's hands get from the oven door, and he came over the rope as if he were angry with it. When Vell said *begin* he went straight at the other fighter, a Force youth a little older than him, and Cael watched the air in front of his right hand go thick and wavering, the way air goes over a road in summer.
+He was about seventeen, broad through the shoulders and narrow at the hip, with forearms burned all over in small shiny patches, old and new together, and he came over the rope as if he were angry with it. When Vell said *begin* he went straight at the other fighter, a Force youth a little older than him, and Cael watched the air in front of his right hand go thick and wavering, as air goes over a road in summer.
 
 Then the boy stopped breathing.
 
@@ -174,7 +174,7 @@ Lira looked at him, and then took out the chalk and made a tenth mark on the pos
 
 Sunday was the first of the new month, and Renn was not in the yard.
 
-Cael had not expected him to be, exactly, but he had expected him somewhere. He had looked for him at the fish steps that morning among the men unloading, and at the market, and at the yard gate, the way you look for a coat you know on a hook. The river had come up again in the week, and the barges that should have come down from the upriver farms on Friday had not come. Torvin's brothers had been at the table every night saying so, loudly, with their elbows on the boards.
+Cael had not expected him to be, exactly, but he had expected him somewhere. He had looked for him at the fish steps that morning among the men unloading, and at the market, and at the yard gate. The river had come up again in the week, and the barges that should have come down from the upriver farms on Friday had not come. Torvin's brothers had been at the table every night saying so, loudly, with their elbows on the boards.
 
 He went to Vell's table before the benches filled.
 
@@ -224,7 +224,7 @@ The kiln boy came over the rope as if it had insulted him.
 
 "Copper Rank 2, Ember Path," said Vell, and gave his name, which Cael heard and did not keep. "Against unrated. Vouched." She looked at her book. "Begin when you're ready."
 
-The shimmer came up off the boy's right hand before he had left his mark. He looked at Cael's left shoulder, hard, the way you look at a nail. Then he came.
+The shimmer came up off the boy's right hand before he had left his mark. He looked at Cael's left shoulder, hard. Then he came.
 
 Cael watched his chest.
 
@@ -246,7 +246,7 @@ The kiln boy stood there with his breath still held, and the shimmer going out o
 
 It had taken perhaps three minutes.
 
-The rope made a pleased noise, the ordinary kind, the noise a crowd makes for a thing that has gone as people thought it might. The kiln boy let his breath go at last, all at once, and looked at Cael's fist by his jaw, and then at Cael. He did not look angry any more. He looked mostly surprised, like somebody who has been told a thing about his own face by a stranger.
+The rope made a pleased noise, the ordinary kind. The kiln boy let his breath go at last, all at once, and looked at Cael's fist by his jaw, and then at Cael. He did not look angry any more. He looked mostly surprised, like somebody who has been told a thing about his own face by a stranger.
 
 "How'd you know where I'd be?"
 
@@ -264,7 +264,7 @@ He walked to the table and stood in front of it, as you stood, win or lose, unti
 
 "Result stands as called," said Vell, writing. "Unrated, over—" and she gave the kiln boy's name again, and then, "Copper Rank 2, Ember Path. Third exchange. Called." The pen went on for a line, and stopped, and did not go on. "Witnessed and entered."
 
-That was all; there were no extra lines tonight, or none that she wrote while he was standing there. He had been listening for them without meaning to, the way you listen for a second knock, and he noticed that he had been listening and did not like it.
+That was all; there were no extra lines tonight, or none that she wrote while he was standing there. He had been listening for them without meaning to, and he noticed that he had been listening and did not like it.
 
 When he came off the dirt the errand boys were arguing about something, and the one in the red cap held his hand out flat, and the other one put something in it with a very bad grace. Marrow had paid out, by the look of him, and had paid out cheerfully, which meant he had taken more than he gave.
 
@@ -290,4 +290,4 @@ He sat for a moment with the pencil. Then he added, under the ruling, where he w
 
 *It worked because he had never been told. That's not the same as it working. Don't learn the wrong thing from this.*
 
-He looked at the line for a long time and did not cross it out, and went in to supper.
+He looked at the line and did not cross it out, and went in to supper.

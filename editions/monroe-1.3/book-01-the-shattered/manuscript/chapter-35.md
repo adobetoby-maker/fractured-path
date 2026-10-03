@@ -24,7 +24,7 @@ He stopped with the sack in his arms. Then he grinned, slowly, all the way acros
 
 "The turn of the month's gone. The river kept you. Vell says the hold's lapsed." Cael had worked out what he was going to say on the walk along the wall, and said it. "She says if I want you, I come and ask you, and if you say yes, we both go to her."
 
-Renn looked at him for a long moment. "You're asking me."
+Renn looked at him. "You're asking me."
 
 "I'm asking you."
 
@@ -38,7 +38,7 @@ Renn looked at him for a long moment. "You're asking me."
 
 "Because it won't help you," said Renn, and went up the plank.
 
-Vell said Sunday, an hour later, at her table. She said it without looking up from the card she was writing, on the back of a bill for lamp oil. She wrote *Renn (Cu 3, Blade)* on the second line and *unrated (vouched)* under it, and blotted it, and held it out without a word to the pie boy, who took it away to the board at a run.
+Vell said Sunday, an hour later, at her table. She said it while she wrote the card, on the back of a bill for lamp oil. She wrote *Renn (Cu 3, Blade)* on the second line and *unrated (vouched)* under it, and blotted it, and held it out without a word to the pie boy, who took it away to the board at a run.
 
 Renn had combed his hair, and he had also shaved half his beard and then stopped, and the effect was so strange that the pie boy looked at it twice on his way past.
 
@@ -82,7 +82,7 @@ The first thing he did was come straight off his mark, with no amble and no prob
 
 The second thing was the heel.
 
-Renn came off the mark slower, the third time, and settled his weight into his back heel exactly the way he had settled it in the lamplight two months before. It was the spring pressing down, the frame loading, and the friend went the instant the heel settled, left and back, exactly as Cael had gone in the second exchange of their first bout. Renn did not strike. He stood on his loaded heel with his hand still back and watched the friend land, and then he struck, once, flat, across the friend's shoulder as his feet came down.
+Renn came off the mark slower, the third time, and settled his weight into his back heel exactly as he had settled it in the lamplight two months before. It was the spring pressing down, the frame loading, and the friend went the instant the heel settled, left and back, exactly as Cael had gone in the second exchange of their first bout. Renn did not strike. He stood on his loaded heel with his hand still back and watched the friend land, and then he struck, once, flat, across the friend's shoulder as his feet came down.
 
 The gate made a noise, and the errand boys hissed through their teeth.
 
@@ -112,7 +112,7 @@ She turned her head on her arms and looked at him.
 
 "I know." He shut the Log. "Gone."
 
-There was no post here for Lira's chalk. But she looked at him for a long time with her chin on her arms, and her face came alight, there in the middle of a cold afternoon, at a gate full of people who had come to laugh at him.
+There was no post here for Lira's chalk. But she looked at him with her chin on her arms, and her face came alight, there in the middle of a cold afternoon, at a gate full of people who had come to laugh at him.
 
 ---
 
@@ -136,7 +136,7 @@ They walked down the lane afterward in the dusk and he told her the rest, becaus
 
 "I don't look at it. I look at his shoulders." He told her about the roll, and what it had meant on the first night, and what it had meant at the gate. "He'll start with a plan. When it doesn't work, he'll change it. When he changes it, I'll see it, and I'll know something new is coming, even if I don't know what."
 
-Lira walked for a while without saying anything.
+Lira walked on without saying anything.
 
 "And when do you hit him?"
 
@@ -148,7 +148,7 @@ He had thought about that too, at the gate, and had not got an answer that he li
 
 "Then I'll say gone, and do something else."
 
-Lira laughed, short and real, the one that surprised her.
+Lira laughed.
 
 "That's not a plan. That's a promise to have another plan." She stopped at the well with the iron cover, where she always stopped, and looked at him in the last of the light. "It's not bad, though. The sideways is good. You stole that from me."
 
@@ -172,7 +172,7 @@ They did it thirty times. By the twentieth he was going on Vell's word, said by 
 
 "There," she said. "That."
 
-She did the false heel for him twice, settling into her back foot with her hand drawn back and holding it. Both times he felt his whole body lean toward going, the old way, the way he had learned in the lamplight, and both times he made himself look at her shoulders and not her feet. The second time, while he was looking at her shoulders, her palm came across his ribs.
+She did the false heel for him twice, settling into her back foot with her hand drawn back and holding it. Both times he felt his whole body lean toward going, the old way he had learned in the lamplight, and both times he made himself look at her shoulders and not her feet. The second time, while he was looking at her shoulders, her palm came across his ribs.
 
 "Gone," he said.
 
@@ -186,7 +186,7 @@ The old man was standing in his gate at the top of the lane when Cael walked up 
 
 "Renn."
 
-The old man said nothing for a while. The woman with the shoulder reached her fourth position and held it, and the old man watched her hold it, and nodded once.
+The old man said nothing. The woman with the shoulder reached her fourth position and held it, and the old man watched her hold it, and nodded once.
 
 "He's been up the river," he said. "Three weeks. Poling." He shifted his weight from one foot to the other, very slightly. "That's arms and back. It isn't legs."
 
@@ -222,7 +222,7 @@ Marrow's slate said *Renn* with a short price and *unrated (vouched)* with a lon
 
 "So has Renn. And now he's got to do it in front of all of them." She looked across the circle at the sunny side, where Renn was standing among his friends with his coat off and his sleeves pushed up, laughing at something and rolling his shoulders. "That's the trouble with showing off. You've said it. Now it has to be true."
 
-The first bout was two Force fighters, women of about twenty, and it went to the fourth exchange and was won by the smaller of them, and the old men in the third row approved of it. Cael did not watch it; he stood at the rope and breathed the way he breathed at his mark, in and out, four and four, the way he had seen Dessa do it, and found that it helped.
+The first bout was two Force fighters, women of about twenty, and it went to the fourth exchange and was won by the smaller of them, and the old men in the third row approved of it. Cael did not watch it; he stood at the rope and breathed as he breathed at his mark, in and out, four and four, as he had seen Dessa do it, and it helped.
 
 Then Vell stood up behind her table.
 
@@ -288,7 +288,7 @@ Cael limped to his mark with the thigh a deep hot ache, as if somebody had drive
 
 The heel was still in him like a stone in a shoe. But he had felt it go, and let it go, and his feet had not gone with it, and he was standing.
 
-Renn stood on his own mark for a long moment, looking at him.
+Renn stood on his own mark, looking at him.
 
 Then he rolled his shoulders, left and right.
 
@@ -382,7 +382,7 @@ For a moment the whole yard was quiet.
 
 Then the old men in the third row began to stamp their feet on the boards, all together, slowly. The shaded side took it up with its hands, and then, after a long breath, the sunny side, because Renn's friends were river people and they had seen what they had seen. Up on the wall one of the girls was standing with both arms in the air, and the errand boys were shouting at each other.
 
-Cael took his fist away from Renn's face and found that he could not get up, so he stayed on one knee with his hand on the ground, breathing.
+Cael took his fist away from Renn's face and could not get up, so he stayed on one knee with his hand on the ground, breathing.
 
 Renn lay on his back across the groove with his arms out and his chest going up and down, looking at the sky. Then he began to laugh. It started low, somewhere in his ribs, and came up through him until he was shaking with it, flat in the dirt in front of the whole yard, and he did not seem to mind any of it.
 
@@ -402,7 +402,7 @@ Cael got to his feet, which took two tries, and got hold of Renn's hand and pull
 
 "You told everybody yours."
 
-"I did, didn't I." Renn laughed again, shorter. "I was so pleased with it." He looked at Cael for a long moment. "You said *gone*. In the second. What's gone?"
+"I did, didn't I." Renn laughed again, shorter. "I was so pleased with it." He looked at Cael. "You said *gone*. In the second. What's gone?"
 
 "The heel."
 
@@ -418,7 +418,7 @@ He stood in front of it and waited, as you waited, while Vell wrote, and the pen
 
 "Result stands as called," said Vell. "Unrated, over Renn, Copper Rank 3, Blade Path. Fifth exchange. Called." The pen went on. "Witnessed and entered."
 
-She did not look up until she had finished, and then only for a breath. "You said a word in the second exchange."
+She finished the line first, and then gave him one breath of the look. "You said a word in the second exchange."
 
 "Yes."
 
@@ -432,7 +432,7 @@ Vell looked at him a moment longer, then down at the book again, and dipped her 
 
 ---
 
-He found that he could not walk properly on the way home, so Lira walked on his right side, the thigh side, without being asked, and did not say anything for a whole street.
+He could not walk properly on the way home, so Lira walked on his right side, the thigh side, without being asked, and did not say anything for a whole street.
 
 Then she said, "Report?"
 

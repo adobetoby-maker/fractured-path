@@ -2,7 +2,7 @@
 
 On his third afternoon in Ardenmere, and his second of walking it, Coss was standing in a lopsided triangle where three streets met, eating a skewer of grilled mutton, when the roar came over the roofs.
 
-It came from somewhere north and a little uphill, two or three streets away. It was not one voice but a great many at once, going up together and holding, and then breaking into pieces, some of them cheering and some of them groaning and some of them only shouting because everybody else was. Then it settled into a long, low noise like a river over stones. A few people in the triangle looked up toward it, the way people look up at a flight of birds, and went back to what they had been doing.
+It came from somewhere north and a little uphill, two or three streets away. It was not one voice but a great many at once, going up together and holding, and then breaking into pieces, some of them cheering and some of them groaning and some of them only shouting because everybody else was. Then it settled into a long, low noise like a river over stones. A few people in the triangle looked up toward it and went back to what they had been doing.
 
 "That's the Cinder House," said the woman at the skewer cart, turning her meat. She said it to nobody in particular, as if the roar had asked her a question. "Sunday."
 
@@ -56,7 +56,7 @@ Then he wrote his preliminary report, to go west in the regional pouch on the mo
 
 It was short, and accurate, and recorded what he had done and what he had seen and what he had not. Location confirmed. Status confirmed. Householder cooperative to the legal minimum. No practice observed. Summons issued for compliance evaluation. He read it through and it was a good report, the kind he had been writing for eleven years, the kind that had made him the man regional sent when they wanted a report that did not lie or panic.
 
-He sat for some time with the pen lifted before he added the last paragraph.
+The pen hung over the paper, dry, before he added the last paragraph.
 
 *The subject's file lacks documents that standard practice for this classification would require: an early assessment of risk from the district that certified him, a note on his residential compliance, and a reference to the standing-holder's guild review. I recommend that the certifying district's compliance procedure in this case be reviewed.*
 
@@ -94,7 +94,7 @@ Lira walked beside him down the lane in the dusk with her canvas roll on her bac
 
 "Third exchange. You caught the chop and sent it with no middle. Three times. She went after it every time, a quarter-turn too far, and had to put a foot down. The old men in the third row liked it. That's evidence. I heard them."
 
-She laughed, short and real, the one that surprised her.
+She laughed outright.
 
 "Fourth exchange. She got angry and her strikes got big. The dip came back on the fourth step and on the fifth. You went in on her right. She caught you on the side of the head coming out. You worked your jaw afterward." He stopped there for a moment. He had seen one other thing in the fourth exchange, and he had decided at the rope that once was not a pattern, and he did not say it. "Fifth exchange. Two touches. She locked up for them. The step. You were inside on her right while her foot was in the air. She turned and you caught the turn and sent it, and she went round past her own feet and down across the groove." He took a breath. "Your backhand stopped a finger from her ear. Called."
 
@@ -128,7 +128,7 @@ Torvin was sitting at the kitchen table on his own, with the lamp lit and his th
 
 The range had been banked for the night. The others had gone up. Torvin's wife's spoon lay on the side of the cold pot, and the low brown door at the back of the kitchen was shut, with no smell of pipe smoke under it, because Doss had gone out to the warehouses at dusk. There was nothing on the table but the ledger and the lamp and a folded paper, sealed in dark wax, lying squared to the table's edge where Torvin had put it.
 
-Torvin did not look up when Cael came in. He looked at the paper.
+When Cael came in, Torvin's eyes went to the paper and not to him.
 
 Then he picked it up and held it out, across the table, at the full length of his arm, as though it were a thing that had been left on his step and might still be warm.
 

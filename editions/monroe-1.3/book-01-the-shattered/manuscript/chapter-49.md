@@ -8,9 +8,9 @@ He sat down beside her on the cold stone. The lane was grey and empty, and the g
 
 So he said it. He said the summons, and Part Six, and Halden and the bone knife and the uncut pages. He said section four in its own words, and then what he had heard in it at two in the morning: that his own objection from the autumn was the first half of an assessor's argument, and that the second half was a room in a city he had never seen. Lira's face did not do anything while he said that part. Her hand went still on the bread.
 
-Then he gave her the four steps, from memory, the way he meant to give them across the desk.
+Then he gave her the four steps, from memory, as he meant to give them across the desk.
 
-When he had finished, she sat for a while looking at the gutter.
+When he had finished, she sat looking at the gutter.
 
 "Again. From *one*."
 
@@ -22,7 +22,7 @@ He said it again. Halfway through the third step she lifted a finger, as she did
 
 "It's a way of asking permission. You'll be sitting across a desk from a woman who's come two days in a cart to tell you where you have to live, and you'll be asking her permission to read her own book to her." Lira shook her head. "Just say the section. *Section one says.* That's all. She'll draw her own attention."
 
-He thought about it. She was right, and he could feel that she was right, the way you can feel a boot that is a half size too small before you have taken three steps in it.
+He thought about it. She was right, and he could feel that she was right.
 
 "Section one says."
 
@@ -34,7 +34,7 @@ He went on. At the end of the fourth step she lifted the finger again.
 
 "I'm not nervous."
 
-"Then you won't mind leaving it off." She broke the end of the loaf in half and gave him the larger piece. "Stop when you've finished. Don't hope at her. If it's clear she'll see it's clear, and if it isn't, hoping won't help. Just stop, and look at her, and wait. You're good at waiting. I've watched you wait out Dessa."
+"Then you won't mind leaving it off." She broke the end of the loaf in half and gave him one. "Stop when you've finished. Don't hope at her. If it's clear she'll see it's clear, and if it isn't, hoping won't help. Just stop, and look at her, and wait. You're good at waiting. I've watched you wait out Dessa."
 
 He ate the bread and said the four steps a third time, with *section one says* where the drawing of attention had been, and nothing at all after the fourth. It came out shorter, and flatter, and it sounded, when he heard it in the grey air of the lane, like somebody who had read a book and knew what was in it.
 
@@ -78,7 +78,7 @@ He had not expected that to be first. He kept his face where it was.
 
 "I didn't say it to be thanked." She took the two fingers away. "I said it so that we both know where we're standing. Because the same regulation goes on, past the part you used, and I don't think you've read where it goes."
 
-She did not open the little dark book. She did not need to. She gave it to him from memory, the section and the words and the order the words came in, the way Coss had checked his citation without getting up, only more smoothly, as though she had said it a great many times in rooms like this one.
+She did not open the little dark book. She did not need to. She gave it to him from memory, the section and the words and the order the words came in, smoothly, as though she had said it a great many times in rooms like this one.
 
 "Part Six. Section four. *Where the primary classification of a practitioner cannot be assessed by ordinary means, the senior evaluator may enter the practitioner under a temporary non-standard category for the period of assessment.*" She paused, very slightly, to let the first sentence settle before she gave him the second. "*A practitioner so entered shall attend at a regional assessment facility within twenty-eight days, and remain there for the period of assessment.*"
 
@@ -102,7 +102,7 @@ Ilsev did not move.
 
 He stopped.
 
-He did not say *I hope that's clear*. He felt it come up behind his teeth and he did not let it out. He sat with his hands on his knees and looked at her, and waited, the way he had been told to on a wet step at dawn.
+He did not say *I hope that's clear*. He felt it come up behind his teeth and he did not let it out. He sat with his hands on his knees and looked at her, and waited, as he had been told to on a wet step at dawn.
 
 The silence went on.
 
@@ -110,9 +110,9 @@ Ilsev was looking at him, not at the book. Something had happened in her face, a
 
 Then she reached for the small dark book.
 
-She opened it without searching, at the front of the part he had cut open in the reading room with a bone knife. Her copy had been cut a long time ago. Its pages were soft at the corners and grey along the edges where a thumb had turned them a great many times, and there was a pencil mark in the margin beside section four. She did not look at section four. She turned back three pages, to the first, and laid the book flat on the desk with her hand holding it open, and read.
+She opened it without searching, at the front of the part he had cut open in the reading room with a bone knife. Her copy had been cut long ago. Its pages were soft at the corners and grey along the edges where a thumb had turned them a great many times, and there was a pencil mark in the margin beside section four. She did not look at section four. She turned back three pages, to the first, and laid the book flat on the desk with her hand holding it open, and read.
 
-He watched her read it. She read it the way he had watched Lira read a notice and Feryn read Vell's ledger, all of it, slowly, line by line, with nothing in her face at all. She read section one to the bottom. Then she went back to the top of it and read the two definitions again, the second one twice, and he saw her lips move very slightly on *without*.
+He watched her read it. She read all of it, slowly, line by line, with nothing in her face at all. She read section one to the bottom. Then she went back to the top of it and read the two definitions again, the second one twice, and he saw her lips move very slightly on *without*.
 
 Somewhere under the window a gull came down on the rail of the fish steps and said something harsh, and went away again. He kept his hands on his knees. He thought, absurdly, of Dessa on her mark in the autumn with her count going four in and four out, and of how long the space between two exchanges could be when you were the one standing in it. He had never once in his life been on the other side of a desk while somebody read. He did not like it much. He sat in it anyway, the way he would have sat in a held breath, and waited for it to be over.
 
@@ -128,7 +128,7 @@ Ilsev looked up.
 
 Ilsev looked at him for a long moment.
 
-Then she closed the book, and laid her hand flat on the cover of it, as Halden had laid his hand on the Handbook when it came back to him, as if to feel whether anything inside had changed.
+Then she closed the book, and laid her hand flat on the cover of it, as if to feel whether anything inside had changed.
 
 "You're right."
 
@@ -170,7 +170,7 @@ He thought about the bench in Fen Street, and the two windows, and a load figure
 
 "It applies," said Ilsev.
 
-She said it without any warmth at all, and he found that it was the warmest thing anybody from the Compact had ever said to him. Then she stood up, and he stood up because she had. "I need to speak to Field Agent Coss. He's below. Would you wait in the next room? There's a stool. It won't be long." She paused. "And I'll want you again before I go."
+She said it without any warmth at all, and it was the warmest thing anybody from the Compact had ever said to him. Then she stood up, and he stood up because she had. "I need to speak to Field Agent Coss. He's below. Would you wait in the next room? There's a stool. It won't be long." She paused. "And I'll want you again before I go."
 
 ---
 
@@ -206,9 +206,9 @@ There was a silence, and Cael sat very still on the stool. He could hear Coss's 
 
 Coss did not answer that. Cael heard him breathe out, a long breath, through his nose. He heard him walk to the window, three steps, and stop there, and he imagined him standing with his thumb pressed to the bridge of his nose looking down the fish steps at the river.
 
-Sitting on the stool in the slot of a room, with his back against the planks, Cael found that he was not glad.
+Sitting on the stool in the slot of a room, with his back against the planks, Cael was not glad.
 
-He had thought he would be. He had won, and he knew he had won, the way you know in the circle when a strike has landed clean. But he could hear Coss at the window not saying anything, and he found himself thinking of the desk that no longer rocked, and the folded paper under its leg, and who had put it there. He thought of a man who had checked a boy's citation from memory in the autumn and found it right and stamped it anyway, with more force than the stamp needed, because it was right. That man had promised somebody above him a season. He would have to go back now with months, in his own hand, and whoever was above him would read it.
+He had thought he would be. He had won, and he knew he had won, the way you know in the circle when a strike has landed clean. But he could hear Coss at the window not saying anything, and he was thinking of the desk that no longer rocked, and the folded paper under its leg, and who had put it there. He thought of a man who had checked a boy's citation from memory in the autumn and found it right and stamped it anyway, with more force than the stamp needed, because it was right. That man had promised somebody above him a season. He would have to go back now with months, in his own hand, and whoever was above him would read it.
 
 Cael did not know who that was, and he did not think Coss did either. That was the part that stayed with him on the stool.
 
@@ -250,11 +250,11 @@ She stopped, and he waited, because he could see that she had not finished.
 
 "I don't believe any of the six. So I've put it in my report. A plain paragraph: that it's there, that I didn't request it, that I can't trace it, and that it went on when standard procedure began. I've drawn no conclusion from it, because I haven't got one to draw." She looked at him steadily. "Leaving it out would have made my report tidier and less true. I won't do that. And I thought that if I wouldn't do it to the regional office, I'd better not do it to you."
 
-Cael did not say anything for a while.
+Cael did not say anything.
 
 He was putting it where he put things. He could feel himself doing it: picking it up and weighing it, as he would have weighed a tell he had never met before, and setting it down beside the others. There was a sweep in the autumn that nobody had been able to account for. There was a man who had sat across a desk from him and said *I don't know* about it, and meant it, and would not be asked again. And now there was a mark on his record that had appeared on the morning somebody began to treat him like an ordinary case, and that a woman with more ways to look than Coss could not find the end of. He did not know what any of them were. He did not know whether they were one thing or three.
 
-He found that his hands had gone cold on his knees, and he left them there.
+His hands had gone cold on his knees, and he left them there.
 
 "Thank you for telling me."
 

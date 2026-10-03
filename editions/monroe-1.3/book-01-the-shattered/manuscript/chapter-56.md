@@ -98,9 +98,9 @@ Cael thought about Doss at the kitchen table. *You stop believing your hands.*
 
 "Not to him." Feryn was quiet for a moment. He folded the corner of the page over, and then flattened it out again.
 
-"To an Iron at Copper," he said, "when I was twenty, in a tannery yard in a town you've never heard of. He wasn't very good. He wasn't a patch on Darrow. And I hit him for three exchanges and in the fourth I stood there with my hands up and I couldn't make them go. I'd stopped believing they'd do anything." He looked at the circle, where a Blade was getting up off the dirt. "I've never told anybody that. I've been telling people for four years I lost because the yard was wet."
+"To an Iron at Copper, when I was twenty, in a tannery yard in a town you've never heard of. He wasn't very good. He wasn't a patch on Darrow. And I hit him for three exchanges and in the fourth I stood there with my hands up and I couldn't make them go. I'd stopped believing they'd do anything." He looked at the circle, where a Blade was getting up off the dirt. "I've never told anybody that. I've been telling people for four years I lost because the yard was wet."
 
-Nobody said anything for a while, and Lira, who had been looking at the notes, looked at Feryn instead, and then back at the notes, and Cael saw that she had put it away somewhere to be careful of.
+Nobody said anything, and Lira, who had been looking at the notes, looked at Feryn instead, and then back at the notes, and Cael saw that she had put it away somewhere to be careful of.
 
 "What did they say it felt like?" said Cael. "The three. Hitting him."
 
@@ -126,9 +126,9 @@ He looked at it. Everything he had drawn ran downhill to one drain.
 
 "You're drawing him like a gutter," said Feryn, looking over his shoulder.
 
-"Everything has to get to the back foot," said Cael slowly. "Wherever it goes in. And there's one way down to the back foot, on that side. So everything crosses there." He put the point of the pencil on the low left side of the stick figure, where all the lines met. "There."
+"Everything has to get to the back foot. Wherever it goes in. And there's one way down to the back foot, on that side. So everything crosses there." He put the point of the pencil on the low left side of the stick figure, where all the lines met. "There."
 
-Lira had leaned over too. She looked at the drawing for a long time without saying anything.
+Lira had leaned over too. She looked at the drawing without saying anything.
 
 "The chalk-board woman. He'd stand a moment after a good one. Setting the bucket down."
 
@@ -140,11 +140,11 @@ Lira had leaned over too. She looked at the drawing for a long time without sayi
 
 Feryn looked from one of them to the other.
 
-"That," he said, "is either the cleverest thing I've heard about Iron in eight years of listening, or the two of you have drawn a man on the back of a washer bill and fallen in love with the drawing." He sneezed. "Which is it?"
+"That is either the cleverest thing I've heard about Iron in eight years of listening, or the two of you have drawn a man on the back of a washer bill and fallen in love with the drawing." He sneezed. "Which is it?"
 
-"I don't know yet," said Cael. He wrote, small, beside the point where the lines met: *the crossing.* Then, under it, because he would not call a thing true that he had only drawn: *Claim. Evidence: 3 (h), Doss (h), Stone woman (h). Ruling: pending.*
+"I don't know yet." He wrote, small, beside the point where the lines met: *the crossing.* Then, under it, because he would not call a thing true that he had only drawn: *Claim. Evidence: 3 (h), Doss (h), Stone woman (h). Ruling: pending.*
 
-"Then find out," said Feryn, and folded his notes, and blew his nose. "Somebody owes me a supper."
+"Then find out." Feryn folded his notes, and blew his nose. "Somebody owes me a supper."
 
 ---
 
@@ -168,7 +168,7 @@ He thought about it properly, because she had asked him to.
 
 "Because—" He stopped. He knew the answer. He had known it at the board. But he could not find the shape of it out loud, and he sat there on the step with it half made in his mouth.
 
-"It doesn't change what you are. It changes who'd have to explain themselves if something happened to you," said Lira.
+Lira said it for him, from the step above. "It doesn't change what you are. It changes who'd have to explain themselves if something happened to you."
 
 He turned round on the step and looked up at her.
 
@@ -184,7 +184,7 @@ He looked back at the street.
 
 "I'm frightened I've read it wrong. Not Darrow. Them. I've read the whole district like a stance, and I've decided what it'll do if I go missing, and I've never once seen it do it." He made himself go on. "And there's a worse one. That I'll have made myself the easiest thing in Ardenmere to find. That somebody I haven't even thought of will look up because of the noise. And I'll have done that, and not you, and not Hesk."
 
-Lira was quiet for a while.
+Lira was quiet.
 
 "Good," she said.
 
@@ -242,7 +242,7 @@ Coss did not answer.
 
 "Somebody else wants me gone. Not you. Lira worked that out on a roof the day you came, and I think she's right, and I think you think so too. Somebody I've never met has decided I'd be better somewhere small, and they don't need a reason anybody can read. I can't out-quiet that." He looked at the creased brown coat, and the hand on the gatepost. "I've tried. I was better at it than anybody. It's the one thing they've already got."
 
-Coss stood there for a long time with his hand on the post of the gate.
+Coss stood there with his hand on the post of the gate.
 
 Then he took his hand away, and looked at it, as if he had not known it was there. He sat down on the end of the trestle bench just inside the gate, the one the girls from the wall used when there was nobody fighting, and put his elbows on his knees.
 
@@ -258,7 +258,7 @@ He turned his hat round in his hands.
 
 "It's some use."
 
-Coss looked at him for a while longer. Then he stood up, slowly, a man who had been on a cart all night, and put his hat on.
+Coss looked at him a moment longer. Then he stood up, slowly, a man who had been on a cart all night, and put his hat on.
 
 "Then don't do it by halves. If you're going to be loud, don't stop at loud enough." He looked once more round the yard, at the post and the straw and the groove and Lira going through her corners at the far end without once looking their way. "I'll not come again before Sunday. I can't. I've no days left."
 

@@ -16,7 +16,7 @@ Cael had known he would, and had written it down on Sunday night in a hand that 
 
 He set them to say *left*.
 
-He did it the way Renn had settled his heel in the middle yard on the lane, on purpose, for somebody to read. He put his weight a little onto his right foot and turned the left toe out a hair, along the groove, the way a boy stands who means to go sideways to the left on the word. Every person in this yard had heard by now that the boy from Torvin's went sideways against Renn, and Corbin would have heard it, and watched it.
+He did it as Renn had settled his heel in the middle yard on the lane, on purpose, for somebody to read. He put his weight a little onto his right foot and turned the left toe out a hair, along the groove: a boy who meant to go sideways to the left on the word. Every person in this yard had heard by now that the boy from Torvin's went sideways against Renn, and Corbin would have heard it, and watched it.
 
 "Corbin. Copper Rank 3, Shield Path. Against unrated. Vouched." The small pause. "Begin when you're ready."
 
@@ -78,7 +78,7 @@ He had expected that, but not so fast.
 
 Corbin did not move first.
 
-That was the change, and it was all the change there was: he stood on his mark and did not move until Cael did. Cael moved the way Lira had made him move every morning for three weeks, small and quick and unplanned, and Corbin did not try to read it, because he did not need to. He simply waited, square, with his weight in the middle of his feet. Wherever Cael went, Corbin turned to face it, a quarter turn and no more, without hurry, and the little plate of shine came and went off his forearm. It came when Cael was near and went when he was not, as if it were a lamp somebody kept turning up and down.
+That was the change, and it was all the change there was: he stood on his mark and did not move until Cael did. Cael moved as Lira had made him move every morning for three weeks, small and quick and unplanned, and Corbin did not try to read it, because he did not need to. He simply waited, square, with his weight in the middle of his feet. Wherever Cael went, Corbin turned to face it, a quarter turn and no more, without hurry, and the little plate of shine came and went off his forearm. It came when Cael was near and went when he was not, as if it were a lamp somebody kept turning up and down.
 
 Cael went in twice. Twice the shine was there before his strike, and twice Corbin's fist came round after it, short and sensible, into his shoulder and then into his side. The second one found the left side under the ribs, where Talis had put his gatepost of a forearm eleven days ago. Something caught there, sharp, and he felt it all the way up into his teeth.
 
@@ -104,7 +104,7 @@ Cael felt the groove come up under his heel.
 
 He was on his mark without remembering getting there, and the catch was there at the top of every breath, and his left arm did not want to come away from his side, and somewhere along the rope on the shaded side somebody had begun, quietly, to count. *Four.* Somebody else said *five's what Marrow had*, and somebody told them to be quiet.
 
-At the barrel Lira had let go of the rope and folded her arms tight across her chest, the way she had stood at the post on the morning she heard his whole name, as if she were cold all at once. He understood from her face, which had nothing on it, that she was not going to call anything, or say anything, or tell him what to do. It was his to carry.
+At the barrel Lira had let go of the rope and folded her arms tight across her chest, as if she were cold all at once. He understood from her face, which had nothing on it, that she was not going to call anything, or say anything, or tell him what to do. It was his to carry.
 
 He looked across the circle.
 
@@ -118,7 +118,7 @@ Cael stood very still on his mark.
 
 Of course he was. He had stopped reading them in the third because the boy had lied with them once. But the boy was hurt now, and tired, with his arm in against his side and his breath coming short, and tired people did not lie with their feet. Tired people stood the way their bodies needed to stand, because they had nothing left over for standing any other way. Forty fights had taught Corbin that. You could not lie with your feet when you were on your last legs. It took too much.
 
-So he was reading them again. He was reading them the way he had always read them, for forty fights, because it had always worked.
+So he was reading them again. He was reading them as he had always read them, for forty fights, because it had always worked.
 
 Cael looked down at his own feet.
 
@@ -172,7 +172,7 @@ It was a short laugh, and not a loud one, and it came out of him as though it ha
 
 "Yes."
 
-"The last time. With your feet." Corbin shook his head slowly. "The first time you told me the truth, and the second time you told me a lie, and I learned the lie. And the last time you told me the truth again, because you knew I'd learned the lie." He seemed to be going over it, step by step, the way a man goes back over a sum to find the place where it went wrong. "That's forty-one," he said. "Forty-one fights. Nobody's ever done that to me with the *truth*."
+"The last time. With your feet." Corbin shook his head slowly. "The first time you told me the truth, and the second time you told me a lie, and I learned the lie. And the last time you told me the truth again, because you knew I'd learned the lie." He seemed to be going over it, step by step. "That's forty-one," he said. "Forty-one fights. Nobody's ever done that to me with the *truth*."
 
 "I couldn't have done it twice."
 
@@ -188,7 +188,7 @@ It came up all at once and from everywhere, the shaded side and the sun and the 
 
 Cael walked to the table with his left arm against his ribs, because it had gone back there as soon as it was allowed to, and stood in front of it.
 
-Vell was writing. She did not look up. She wrote for a long time.
+Vell was writing, and she went on writing.
 
 "Result stands as called," she said at last. "Unrated, over Corbin, Copper Rank 3, Shield Path. Fifth exchange. Conceded." The pen moved on. "Witnessed and entered."
 
@@ -200,11 +200,11 @@ Then she put the pen down, which he had never seen her do before a result was bl
 
 He did not get far toward home.
 
-He got as far as the gate in the wall, with Lira on his left side now, the rib side, without being asked. Then he had to stand still in the gateway for a while and breathe, carefully, with his hand pressed flat against the catch, while people went past him out into the street.
+He got as far as the gate in the wall, with Lira on his left side now, the rib side, without being asked. Then he had to stand still in the gateway and breathe, carefully, with his hand pressed flat against the catch, while people went past him out into the street.
 
 They went past him talking.
 
-He had never heard so many people talking about a bout on their way out of the yard. They were not talking to him, and nobody stopped, though a few of them looked at him as they passed, the way you look at a thing you have just been told about, to see whether it matches. But mostly they talked to each other, walking out into the dark street under the lanterns, and he heard pieces of it go past.
+He had never heard so many people talking about a bout on their way out of the yard. They were not talking to him, and nobody stopped, though a few of them looked at him as they passed, to see whether he matched what they had just been told. But mostly they talked to each other, walking out into the dark street under the lanterns, and he heard pieces of it go past.
 
 *—Corbin, though—*
 
@@ -214,7 +214,7 @@ He had never heard so many people talking about a bout on their way out of the y
 
 *—that's past Corbin, then, that is, that's—*
 
-Lira stood beside him in the gateway and listened to it go past, with her head a little on one side, the way she listened to the yard when she was reading it.
+Lira stood beside him in the gateway and listened to it go past, with her head a little on one side.
 
 "There," she said quietly. "Hear that?"
 
@@ -246,7 +246,7 @@ But he knew that something had changed. He knew it the way he had known, in Pell
 
 He put the Log down on the blanket.
 
-He sat very still on the cot, with his back against the cold wall under the window, the way he had sat in the circle at Weaver's Row with his feet on the two worn places, and waited.
+He sat very still on the cot, with his back against the cold wall under the window, as he had sat in the circle at Weaver's Row with his feet on the two worn places, and waited.
 
 It came from behind the breastbone.
 
@@ -260,9 +260,9 @@ Tier equivalent: unknown.
 
 He read it.
 
-He did not read it with his eyes, and he did not know what to call what he read it with. He read it the way he had read the archive entry in the green book at a table in Denvash, under a north window: once, and then again, and then a third time, slowly, checking each word against the one before it, before he let himself believe any of it.
+He did not read it with his eyes, and he did not know what to call what he read it with. He read it as he had read the archive entry in the green book at a table in Denvash, under a north window: once, and then again, and then a third time, slowly, checking each word against the one before it, before he let himself believe any of it.
 
-It stayed. It did not go out, the way the word had gone out, but sat there in the dark behind his breastbone, quiet and plain, in the way a figure sits on a page once it has been written down.
+It stayed. It did not go out, as the word had gone out. It sat there in the dark behind his breastbone, quiet and plain, like a figure on a page once it has been written down.
 
 *Wind-adjacent.*
 
@@ -280,7 +280,7 @@ He sat on the cot for a long time with the notice there in the dark behind his b
 
 Then he thought about Lira.
 
-He thought about her in her room two streets over, behind her green door that locked from both sides, with Torvin's chimney in her window, and he thought about going there. He could see the whole of it, the way he had seen the whole of it on the night of the summons, when he had shut the Log on the kitchen table and gone up through the dark to the window at the bottom of the roof stair. The habit of telling had begun that night, and he had been proud of it, and he could go now. He could knock on her green door, three times, soft, and she would open it with her coat on and say *what happened*. He could tell her.
+He thought about her in her room two streets over, behind her green door that locked from both sides, with Torvin's chimney in her window, and he thought about going there. He could see the whole of it, as he had seen it on the night of the summons, when he had shut the Log on the kitchen table and gone up through the dark to the window at the bottom of the roof stair. The habit of telling had begun that night, and he had been proud of it, and he could go now. He could knock on her green door, three times, soft, and she would open it with her coat on and say *what happened*. He could tell her.
 
 *I think I've got something of yours.*
 
@@ -340,7 +340,7 @@ Then he picked up the Log and wrote under the box.
 
 *I think that's the thing that matters. Not that it's there. That it's started to answer when I ask.*
 
-He read that over, and it was true all the way through, and he left it.
+He read that over, and it was true, and he left it.
 
 ---
 
@@ -370,15 +370,15 @@ The cart. Renn. The drop. Dessa. And tonight.
 
 It was five.
 
-He sat with the number for a long time in the cold, with the wheezing man whistling by the door. It was not that it had gone up. He had known it would go up the moment he read the notice; he had made a promise on a step about who would hear first. It was that tonight it had gone up and the other number had not gone down. There was one person who was meant to be first. She was two streets away behind a green door, and he had not gone.
+He sat with the number in the cold, with the wheezing man whistling by the door. It was not that it had gone up. He had known it would go up the moment he read the notice; he had made a promise on a step about who would hear first. It was that tonight it had gone up and the other number had not gone down. There was one person who was meant to be first. She was two streets away behind a green door, and he had not gone.
 
-He blew out his small piece of the light by turning his face to the wall. He lay a long time with the notice quiet behind his breastbone and his hip aching, and listened to the district's late sounds come up through the window, and did not sleep for a while.
+He blew out his small piece of the light by turning his face to the wall. He lay awake with the notice quiet behind his breastbone and his hip aching, and listened to the district's late sounds come up through the window.
 
 ---
 
 On Tuesday the afternoon card went off without him, three bouts, and he stood at the rope and watched all three and wrote them down. Then the yard emptied, and the pie boy began to rake the circle, and the crows came down along the eaves, and he went to Vell's table.
 
-She was finishing an entry, and did not look up until she had blotted it. "Sit down."
+She was finishing an entry. "Sit down," she said, and blotted it.
 
 There was nowhere to sit but the dirt and the barrel, so he stood, and she did not seem to mind.
 
@@ -432,4 +432,4 @@ At the well she stopped, as she always stopped.
 
 She went off up the lane toward the chandler's, and he stood at the well and watched her go until he could not see her, and then turned toward Torvin's, two streets the other way.
 
-He did not know how long he could carry it, only that it would not be long. He thought, walking home with his hip aching, that it might be two weeks, if he was careful, and that he did not want to be careful, and that the thing behind his breastbone was partly hers. He thought that every morning he kept it from her in the grey half, it would get heavier, the way a thing does that has been held up too long. Nothing that has to be held is free.
+He did not know how long he could carry it, only that it would not be long. He thought, walking home with his hip aching, that it might be two weeks, if he was careful, and that he did not want to be careful, and that the thing behind his breastbone was partly hers. He thought that every morning he kept it from her in the grey half, it would get heavier. Nothing that has to be held is free.

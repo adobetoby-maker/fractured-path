@@ -10,7 +10,7 @@ Then he put the loupe back in.
 
 "Wednesday," he said, to the clock.
 
-Lira was waiting at the head of the fish steps with her right arm held a little stiffly at her side and a loaf under her left. She had tied her hair back the ordinary way again, with the knot coming loose on one side. The brown building stood beside her with its board of notices and its shut door, exactly as it had stood every morning for seven weeks. Cael found that he could not look at it now without seeing a man in a dark coat climbing its steps off a cart.
+Lira was waiting at the head of the fish steps with her right arm held a little stiffly at her side and a loaf under her left. She had tied her hair back the ordinary way again, with the knot coming loose on one side. The brown building stood beside her with its board of notices and its shut door, exactly as it had stood every morning for seven weeks. Cael could not look at it now without seeing a man in a dark coat climbing its steps off a cart.
 
 "Shoulder?"
 
@@ -28,7 +28,7 @@ The room was half under the ground, long and low, with a row of small windows se
 
 At the far end, behind a smaller table of his own, sat an old man.
 
-He was thin and grey and dry-looking, as though he had been kept on a shelf himself for some time, and he had a pencil behind each ear and a book open in front of him that he was not reading. He looked up as they came in, at Cael and then at Lira, and then at the hour on a clock above the door, which said that the room had been open for perhaps four minutes. He did not seem surprised. He did not seem anything.
+He was thin and grey and dry-looking, as though he had been kept on a shelf himself for years, and he had a pencil behind each ear and a book open in front of him that he was not reading. He looked up as they came in, at Cael and then at Lira, and then at the hour on a clock above the door, which said that the room had been open for perhaps four minutes. He did not seem surprised. He did not seem anything.
 
 "Halden," he said. It appeared to be the whole of his greeting.
 
@@ -42,7 +42,7 @@ He went back to his own table and sat down and did not look at them again.
 
 Cael lit the lamp over the long table. Lira sat down at the end with the index and opened it as if it might bite.
 
-Above their heads, through the boards of the ceiling, somebody walked across a room. Cael heard it quite clearly: four steps, a pause, three more, the scrape of a chair. Then, after a while, a sound began that he could not place at first, a soft regular knock of wood on wood, *tock*, a pause, *tock*, a pause, irregular but steady, like a slow clock that was not keeping time.
+Above their heads, through the boards of the ceiling, somebody walked across a room. Cael heard it quite clearly: four steps, a pause, three more, the scrape of a chair. Then a sound began that he could not place at first, a soft regular knock of wood on wood, *tock*, a pause, *tock*, a pause, irregular but steady, like a slow clock that was not keeping time.
 
 He looked up at the ceiling.
 
@@ -86,7 +86,7 @@ He sat with that for longer than he could spare. Then he wrote it down, plainly,
 
 The second false seam took him most of the next hour.
 
-It was in Part Three, where the book said what could be done to a person who did not come. *A filing for physical retrieval shall be countersigned by the registering officer of the district in which the person resides.* He thought for a while that this might be something. A filing that needed a second signature needed a second man willing to sign it. But he found, in the index, after Lira had found the right page of the index for him, sighing, that the registering officer of an Unranked district was whoever kept the district's registrations. On this side of the river that was the clerk who sat at the counter in the front room of this very building, a floor above his head and a few paces to the left.
+It was in Part Three, where the book said what could be done to a person who did not come. *A filing for physical retrieval shall be countersigned by the registering officer of the district in which the person resides.* At first he thought this might be something. A filing that needed a second signature needed a second man willing to sign it. But he found, in the index, after Lira had found the right page of the index for him, sighing, that the registering officer of an Unranked district was whoever kept the district's registrations. On this side of the river that was the clerk who sat at the counter in the front room of this very building, a floor above his head and a few paces to the left.
 
 *Part Three: retrieval needs a countersignature. The countersigner is the clerk upstairs. Closed.*
 
@@ -128,7 +128,7 @@ He turned to the back of the volume. There were two appendices. The second began
 
 And under it, among the cramped black lines, his word, in its square brackets, with the same cold short sentence about practitioner safety risk that he could have recited in his sleep.
 
-He did not move for some time.
+He did not move.
 
 Then he made himself lay it out in order, as Hesk laid out a calculation before he let anybody hang a weight on it.
 

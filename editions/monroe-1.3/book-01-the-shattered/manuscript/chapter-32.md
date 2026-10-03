@@ -2,7 +2,7 @@
 
 He wrote the first draft at the kitchen table that night, after the others had gone up, and it was a page and a half long, and it was terrible, and he could not see why.
 
-He had the three passages copied out in the careful hand at the top of the Log page. Under them he had the logic laid out in four steps, the way he had read it aloud in the reading room. All he had to do was put the two together on a clean sheet for a man in a dark coat to read. He had thought it would take a quarter of an hour.
+He had the three passages copied out in the careful hand at the top of the Log page. Under them he had the logic laid out in four steps, just as he had read it aloud in the reading room. All he had to do was put the two together on a clean sheet for a man in a dark coat to read. He had thought it would take a quarter of an hour.
 
 It took him until the range had gone cold.
 
@@ -22,7 +22,7 @@ The frost was thick again in the grey half. Lira was sitting on the low wall at 
 
 He gave her the sheet.
 
-She read it the way she read a bout from the barrel, which was the way she read anything she was not immediately sure of: once fast, to have the whole shape, and then again slowly, stopping, going back. She did not say anything for a long time. A crow came down onto the eaves of the public house and looked at them both and went away again.
+She read it the way she read a bout from the barrel, which was the way she read anything she was not immediately sure of: once fast, to have the whole shape, and then again slowly, stopping, going back. She did not say anything. A crow came down onto the eaves of the public house and looked at them both and went away again.
 
 "The law's right," she said at last.
 
@@ -36,7 +36,7 @@ She read it the way she read a bout from the barrel, which was the way she read 
 
 "Somebody's going to argue with it. He's going to argue."
 
-"Then let him find his own argument. He won't, because there isn't one. You read it four times; you know there isn't one. But you won't show him there isn't one by sounding frightened that there might be." She took the pencil out of his hand without asking and drew a line through the whole of the bracing part, neatly, so that the words could still be read under it, the way he did it in the Log. "Cut all that. You want three sentences. Flat. Like things that are already settled."
+"Then let him find his own argument. He won't, because there isn't one. You read it four times; you know there isn't one. But you won't show him there isn't one by sounding frightened that there might be." She took the pencil out of his hand without asking and drew a line through the whole of the bracing part, neatly, so that the words could still be read under it, as he did in the Log. "Cut all that. You want three sentences. Flat. Like things that are already settled."
 
 "Say them."
 
@@ -62,7 +62,7 @@ Lira read it over his shoulder.
 
 "Halden wasn't watching."
 
-"Everybody in a reading room's watching." She broke the bread in half with her good hand and her teeth, and gave him the larger piece. "You'll be all right this afternoon. I'm not saying it to be kind. I've read the page. The page is right."
+"Everybody in a reading room's watching." She broke the bread in half with her good hand and her teeth, and gave him his half. "You'll be all right this afternoon. I've read the page. The page is right."
 
 She would not let him sit on the wall after that. She made him walk the box drill at the slow speed while she called the corners from the wall with her arm inside her coat. His hands were shaking, she said, and he would be no use at a desk with his hands shaking, and the box would give them something to do. She was right. By the time the sun came down the east wall into the yard and there was no grey half left, his feet were going to the corners by themselves, and his hands had stopped.
 
@@ -84,11 +84,11 @@ Two men stood in front of him. One was a cooper; Cael knew him by sight from the
 
 "So am I," said the cooper.
 
-The clerk looked at the two of them for some time with the expression of a man who has been given a pig he did not order. Then he took a length of knotted string from under the counter and laid it along the chalk gutter, very seriously, while both men watched the string as if it might change sides.
+The clerk looked at the two of them with the expression of a man who has been given a pig he did not order. Then he took a length of knotted string from under the counter and laid it along the chalk gutter, very seriously, while both men watched the string as if it might change sides.
 
 "Still two knots," he said.
 
-Cael watched the string. Everybody in this district, he thought, had a string. Lira had a string, and the clerk at the post had a string, and the old man in the yards probably had a string somewhere, and had never needed it. He found that he wanted, absurdly, to laugh, and that if he did, it would come out as something else, so he did not.
+Cael watched the string. Everybody in this district, he thought, had a string. Lira had a string, and the clerk at the post had a string, and the old man in the yards probably had a string somewhere, and had never needed it. He wanted, absurdly, to laugh, and knew that if he did it would come out as something else, so he did not.
 
 He opened the Log to the careful page and read the three passages one more time, silently, his lips hardly moving.
 
@@ -104,7 +104,7 @@ The room at the top was small and plain, with one window looking down the fish s
 
 The desk rocked when the man leaned forward. *Tock.*
 
-Cael had sat under that sound for most of a day. He found that he knew exactly where to look for it, and that the man had seen him look.
+Cael had sat under that sound for most of a day. He knew exactly where to look for it, and the man saw him look.
 
 "Caelen Hesk-ward," said the man.
 
@@ -128,7 +128,7 @@ Coss looked at the sheet in Cael's hand, and then at Cael. Something moved in hi
 
 Coss read it.
 
-Cael watched him read it, because the man's face was information. He watched the eyes go down the eleven lines once, quickly, the way you read a thing to find out what sort of thing it is. He watched them stop at the three flat sentences, and go on, and come to the numbers. Then he watched Coss go back to the top and read it again, much more slowly, and saw the irritation go out of his face and something else come into it. It was surprise first, and under the surprise a thing Cael had not expected and took a moment to put a name to.
+Cael watched him read it, because the man's face was information. He watched the eyes go down the eleven lines once, quickly, to find out what sort of thing it was. He watched them stop at the three flat sentences, and go on, and come to the numbers. Then he watched Coss go back to the top and read it again, much more slowly, and saw the irritation go out of his face and something else come into it. It was surprise first, and under the surprise a thing Cael had not expected and took a moment to put a name to.
 
 It looked like respect. It was not happy about being respect. It was there anyway.
 
@@ -156,7 +156,7 @@ Coss put the sheet down again and kept his palm on it, pinning the problem to th
 
 "And most of a night."
 
-Something went across Coss's face that was very nearly a laugh, and was put away again almost as fast as it came, the way a man puts away a thing he has decided long ago is not safe to carry at work. He did not quite manage to put all of it away.
+Something went across Coss's face that was very nearly a laugh, and was put away again almost as fast as it came. He did not quite manage to put all of it away.
 
 "Is it wrong?" said Cael, into the pause.
 
@@ -180,7 +180,7 @@ Cael did the sum at once, the way he timed a window in a bout. Six weeks was for
 
 "Who asked for the sweep?" he said.
 
-Coss looked at him for a long moment.
+Coss looked at him.
 
 "I don't know," he said. "That's true. It's also all I'm going to say about it." He set the stamp back exactly where it had been on the corner of the desk. "Don't ask me again. It wouldn't do either of us any good."
 
@@ -212,7 +212,7 @@ Cael turned to go, and his eye fell, without his meaning it to, on the small gre
 
 "It's not the floor," he said. "It's the leg. That's come out from under it."
 
-Coss looked down at it for some while, as though it had been lying there through a great many visits by a great many men and not one of them had ever said so.
+Coss looked down at it as though it had been lying there through a great many visits by a great many men and not one of them had ever said so.
 
 "So it has," he said.
 

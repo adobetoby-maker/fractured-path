@@ -1,6 +1,6 @@
 # Chapter 53 — Off the Record
 
-The spring came in properly over the next three weeks, the way it did in Ardenmere, all at once and then backward and then all at once again.
+The spring came in properly over the next three weeks, as it did in Ardenmere, all at once and then backward and then all at once again.
 
 The river went down from brown to green. The pear tree in the corner of Torvin's yard opened its small hard buds into flowers, white, with a smell like a clean shirt. Then a frost came one night and turned half of them brown at the edges, and Torvin's wife stood in the yard in the morning and looked at them and said a word Cael had not heard her use before, which was *ungrateful*. The barges came down every day now, and the errand boys did the lists together on the bottom step, arguing.
 
@@ -30,7 +30,7 @@ It was the answer to the district letter, the long one about barrels and apricot
 
 *— H.*
 
-He sat on the wall with it for a long time after the third reading, with the flowers coming down on the page. Then he folded it more carefully than he folded most things, along its own folds, and did not put it in the leather book with the others. He put it in the front of the Log, inside the cover, where he would see it every time he opened it.
+He sat on the wall with it after the third reading, with the flowers coming down on the page. Then he folded it more carefully than he folded most things, along its own folds, and did not put it in the leather book with the others. He put it in the front of the Log, inside the cover, where he would see it every time he opened it.
 
 ---
 
@@ -68,7 +68,7 @@ That was a departure too, though a smaller one. The section head did not stop at
 
 Then he had gone on down the room with his hands behind his back.
 
-Coss had sat at his desk for a long time afterward, as he was sitting now.
+Coss had sat on at his desk afterward, as he was sitting now.
 
 He had never, in eleven years, had a section head suggest to him how a file under legal review should close. It was not done. It was not wrong, quite; there was no rule against a view. But a file under review was a file nobody touched, and that was a rule, and everybody on this floor knew it. And the section head had said *several people* in the voice of a man repeating something he had himself been told, by somebody else, at another desk.
 
@@ -114,7 +114,7 @@ Cael put his loaves down beside him on the bench.
 
 Coss nodded slowly. "You can win the law. You've won it twice. I watched you do it once and read about the other. You'll very likely win it a third time, when legal finally sits down to it. Winning the law won't touch the policy at all."
 
-Cael sat with that. He turned it over, the way he would have turned over an opponent's opening stance, looking at it from all the sides. He found that he believed it, and that some part of him had believed it already, on a stool behind a plank partition, listening to a man at a window say *resolved*.
+Cael sat with that. He turned it over and looked at it from all the sides. He believed it, and some part of him had believed it already, on a stool behind a plank partition, listening to a man at a window say *resolved*.
 
 "Why are you telling me?"
 
@@ -134,7 +134,7 @@ Anybody at the next table would have missed it. But Cael had spent the whole win
 
 "I don't know anything about a flag."
 
-It came out evenly, and it was true. Cael could hear that it was true; it had the weight of true things, the plain flat weight of a reading on a dial. And he could hear, as clearly, that it was not the whole of what was in the man. It went exactly as far as the question had gone and not one step further, the way a man stops at the edge of a floor he is not sure will hold.
+It came out evenly, and it was true. Cael could hear that it was true; it had the weight of true things, the plain flat weight of a reading on a dial. And he could hear, as clearly, that it was not the whole of what was in the man. It went exactly as far as the question had gone and not one step further.
 
 "You've read her report."
 
@@ -148,11 +148,11 @@ He stood up and left the pie where it was.
 
 "I've said it. That's what I came for." Coss buttoned his old brown coat. "I'm on the evening cart. Nobody's waiting on an answer from you. Least of all me."
 
-He went off up the second row between the stalls, unhurried, in the sun, a man in a frayed coat with no pin on it. At the corner of the market he stopped and looked back once, briefly, the way a man looks back at a house he has been in to see whether he has left a light burning. Then he went on, and was gone.
+He went off up the second row between the stalls, unhurried, in the sun, a man in a frayed coat with no pin on it. At the corner of the market he stopped and looked back once, briefly. Then he went on, and was gone.
 
 Cael sat at the table with the pie in front of him that nobody had eaten.
 
-He did not move for a long time. He ran it through again from the beginning, the way he ran a bout through on the cot, looking for the exchange where it had turned. He did not find it in the policy, though the policy was the largest thing in it. He did not find it in *I can make it disappear*. He found it in a dropped stitch of breath under a brown coat, a beat and then two, while a careful man looked at a thing inside himself and put it away.
+He sat without moving and ran it through again from the beginning, as he ran a bout through on the cot, looking for the exchange where it had turned. He did not find it in the policy, though the policy was the largest thing in it. He did not find it in *I can make it disappear*. He found it in a dropped stitch of breath under a brown coat, a beat and then two, while a careful man looked at a thing inside himself and put it away.
 
 He picked up his loaves. He left the pie for the pie man, who would sell it again.
 
@@ -172,7 +172,7 @@ So he started from when he saw him: the brown coat, the pie, *on my own fare*, *
 
 He told her. The stillness, the breath stopping under the coat for a beat and then two, and then *I don't know anything about a flag*, evenly, and nothing after it.
 
-She sat with her chin on her knees and her eyes on the Ranked core across the river for a long time.
+She sat with her chin on her knees and her eyes on the Ranked core across the river.
 
 "He isn't lying," she said at last.
 
@@ -222,7 +222,7 @@ They sat on the roof until the sun had gone off the Ranked core.
 
 He wrote it that night on the cot, by the bead of Yeni's lamp.
 
-He did not write it in the columns. There was nothing to put in the columns. He turned the book over to the back, past the boxes and the instances and the two notices and the fruit woman's line with its small box round it, to a clean page. Then he sat with the pencil over it for some time, because it was short enough that it had to be right.
+He did not write it in the columns. There was nothing to put in the columns. He turned the book over to the back, past the boxes and the instances and the two notices and the fruit woman's line with its small box round it, to a clean page. Then he sat with the pencil over it, because it was short enough that it had to be right.
 
 *He doesn't want me gone. Someone else wants me gone. He's delivering the message.*
 
@@ -236,7 +236,7 @@ Then he wrote under it, slowly:
 
 *I don't know what I'll do instead. I'm going to find out the way I find out everything. Slowly. Writing it down.*
 
-He closed the book, and put it on the shelf beside Hesk's leather one, and lay down, and listened to the wheezing man begin to whistle, and did not sleep for a long while. When he did, it was without dreaming.
+He closed the book, and put it on the shelf beside Hesk's leather one, and lay down, and listened to the wheezing man begin to whistle. When he slept at last, it was without dreaming.
 
 ---
 
@@ -248,7 +248,7 @@ Hesk had it open on the bench under the lamp with the back off, and the works ly
 
 He found it in a quarter of an hour. It was a single spring in the going train, the smallest one, seated a hair loose in its post, so that when the clock was jolted, or the room went cold, or nothing at all happened that anybody would ever notice, it slipped a tooth and the whole town stopped. It had been loose for eleven years. Three households and a card woman had told one another stories about it, and not one of them had ever taken the back off.
 
-He sat looking at it. Then he reached behind him without looking for the drawer marked *Springs, fine*, and found the size he wanted by feel, the way he found everything in that drawer. He did it with the left hand, because the right still had the long pink line across the palm where a coil from the next drawer down had gone into it in the autumn. He had never mentioned the hand in a letter. He did not think he would.
+He sat looking at it. Then he reached behind him without looking for the drawer marked *Springs, fine*, and found the size he wanted by feel, as he found everything in that drawer. He did it with the left hand, because the right still had the long pink line across the palm where a coil from the next drawer down had gone into it in the autumn. He had never mentioned the hand in a letter. He did not think he would.
 
 When the new spring was seated, he set the clock going, and listened to it.
 
@@ -256,7 +256,7 @@ The letter was on the end of the bench, where it had been for four weeks. It had
 
 *If whoever made that mark wanted me gone, would any of that matter?*
 
-He looked at the clock with the small blue flowers on its face, going, and thought about how it had come to be on his bench at all. Then he found that the answer was sitting in it, as plain as a spring once the back is off.
+He looked at the clock with the small blue flowers on its face, going, and thought about how it had come to be on his bench at all. Then he saw that the answer was sitting in it, as plain as a spring once the back is off.
 
 He thought about a file, thirty-two years ago, opened in a room he had stood in at twenty-two. He thought about how few people had ever known it was opened at all, and he stopped there. He stopped there as he always did, at the edge of it, with the old care, and did not go on. It was not his to go into tonight. Tonight was the boy's.
 
@@ -270,7 +270,7 @@ He took a sheet of paper from the shelf and uncapped the ink and wrote.
 
 *It isn't a wall. I won't tell you it is. A wall would keep things out, and nothing you've got there will keep anybody out who's set on coming in. But a thing that's known can't be put in a drawer without somebody asking where it went. A thing that's talked about gets brought to a bench, in the end, and somebody takes the back off. The quiet things are the ones that go out with the ashes.*
 
-He stopped, and read it, and found that it was nearly what he meant and not quite. He sat with the pen over the paper while the clock went on beside him, steady, through a whole minute, two.
+He stopped and read it. It was nearly what he meant, and not quite. He sat with the pen over the paper while the clock went on beside him, steady, through a whole minute, two.
 
 Then he wrote the rest of it.
 

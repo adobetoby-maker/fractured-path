@@ -24,7 +24,7 @@ The yard made a sound. It was not a laugh, though some of it was laughing. It wa
 
 Cael stood up slowly. He kept his face where it was, and inside it he wrote down, as plainly as if he had the Log on his knee: *She's read me. Not the page. Me.*
 
-Dessa set her feet. The loose grit round her boots shivered all at once, the way it always did, as if somebody had struck the ground under her with a hammer, and then lay down flat. When it had lain down, she did not look like a girl of twenty standing in a circle any longer. She looked like something that had been built there.
+Dessa set her feet. The loose grit round her boots shivered all at once, as it always did, as if somebody had struck the ground under her with a hammer, and then lay down flat. When it had lain down, she did not look like a girl of twenty standing in a circle any longer. She looked like something that had been built there.
 
 "Dessa," said Vell. "Copper Rank 5, Stone Path. Against unrated. Vouched." The small pause. "Begin when you're ready."
 
@@ -42,7 +42,7 @@ He went left again, a longer step this time, so that she had to turn further. Th
 
 He did not go in. He kept moving, round the inside of the groove, with his hands up, and watched the foot do it a fourth time and a fifth, and something about it began to sit wrong in him, the way a figure sits wrong on a page before you have found which number is wrong in it.
 
-In the autumn the foot had come late when she was tired. It had come late in the fourth exchange of a long bout, and in the fifth, and not before. It had come late sometimes by half a beat and sometimes by a little less, and once by more, the way any real thing in a body wanders, because a body is not a clock.
+In the autumn the foot had come late when she was tired. It had come late in the fourth exchange of a long bout, and in the fifth, and not before. It had come late sometimes by half a beat and sometimes by a little less, and once by more, as any real thing in a body wanders, because a body is not a clock.
 
 This foot was not tired. This was the first exchange. And it was coming late by exactly the same half beat every time, as regular as the drip from Torvin's pump into its trough.
 
@@ -114,7 +114,7 @@ She met him.
 
 He did not see the forearm come. He saw the place he was going into close, and then there was a flat enormous shock across the right side of his face, under the eye. His head went round with it. The yard went white, and then red, and then came back a little smaller than it had been, and with one side of it full of water.
 
-He did not go down. He did not know afterward how he did not. He found that he was standing a pace back from where he had been, with his guard up and his right eye streaming. The whole cheekbone under it was already beginning to feel too big, like a plum that somebody had pressed into his face.
+He did not go down. He did not know afterward how he did not. He was standing a pace back from where he had been, with his guard up and his right eye streaming. The whole cheekbone under it was already beginning to feel too big, like a plum that somebody had pressed into his face.
 
 "End of the exchange," said Vell. Her voice was very level.
 
@@ -198,7 +198,7 @@ The yard came back all at once, from every side, so loud that he felt it in his 
 
 Dessa put it down for him. She took his wrist in her hand, quite gently, and moved it away from her jaw, and let it go. Then she turned and walked to the water bucket.
 
-He walked to the table, because you walked to the table, and stood in front of it with his left leg taking as little as it could and the yard roaring at his back. Vell was writing. She wrote one line, and blotted it, and did not look up.
+He walked to the table, because you walked to the table, and stood in front of it with his left leg taking as little as it could and the yard roaring at his back. Vell was writing. She wrote one line, and blotted it.
 
 "Result stands as called," said Vell. "Unrated, over Dessa, Copper Rank 5, Stone Path. Fourth exchange. Called. Witnessed and entered."
 
@@ -222,7 +222,7 @@ He thought about not telling her. Then he thought that she had come and asked fo
 
 "I decided on my mark," he said. "All of it. Before Vell said begin. So when I went there wasn't anything left in me to nod at."
 
-Dessa considered that for a long time, with the cup in her hand.
+Dessa considered that, with the cup in her hand.
 
 "That's a thing you can do once," she said.
 
@@ -268,7 +268,7 @@ His sleeves were rolled down against the evening. He was not watching the woman 
 
 "Yes."
 
-The old man looked at the way he was walking. He looked at it for some time, as he had looked at the woman with the shoulder doing her fourth position thirty times in a morning.
+The old man looked at the way he was walking. He looked at it as he had looked at the woman with the shoulder doing her fourth position thirty times in a morning.
 
 "You've coin now," he said. "From the purses."
 
@@ -276,7 +276,7 @@ The old man looked at the way he was walking. He looked at it for some time, as 
 
 "Saturday." The old man shifted his weight, very slightly, from one foot to the other, as he did. "When you can come up this lane without holding the wall. Bring a coin for yard time." He looked at Lira, briefly, and back at Cael. "Not her. You."
 
-Then the stillness came down over him like a lid, and he went back to watching the empty lane, and Cael understood that he had been given all of it.
+Then the stillness came down over him again, and he went back to watching the empty lane, and Cael understood that he had been given all of it.
 
 ---
 
@@ -296,7 +296,7 @@ He looked at that, and then he wrote the ruling.
 
 *She read me back. My nod is my late foot. She's had all winter to find it and she found it, and I've had all winter to lose it and I didn't. Deciding on the mark worked once. Dessa says once. She's right.*
 
-He turned the book over, to the back, and sat with the pencil over a clean line for some time.
+He turned the book over, to the back, and sat with the pencil over a clean line.
 
 *No instance,* he wrote at last. *The step didn't come. I didn't ask for it. Everything in it was mine, and most of what was mine was wrong until the fourth.*
 
@@ -340,7 +340,7 @@ The carter frowned.
 
 "It's the one they gave me," said Cael, mildly. The carter looked at him a moment longer, as if deciding whether he was being made fun of, and then shrugged himself, and paid for his string, and went off up the row with it over his shoulder.
 
-Cael stood by the paper stall with the loaves under his arm and found that he was very nearly laughing, which hurt the cheek.
+Cael stood by the paper stall with the loaves under his arm and was very nearly laughing, which hurt the cheek.
 
 *Unclassified.* It was the one word in the whole Handbook that he had sat across a desk from an assessor not two weeks ago and proved, from the definitions, three pages back, that he was not. He had a primary classification. He had more of one than anybody in the district. It was in the Supplementary Register under its own statute, with its incidence count beside it, and he had won the right to keep it on the strength of exactly that.
 
@@ -366,10 +366,10 @@ He looked at it. Through the paper he could feel that it was dried apricots, a f
 
 "You're worn through," said the fruit woman. "Under the face, I mean. Not the eye. The eye's only an eye." She folded her big hands in her lap. "I've sat at the bottom of these steps thirty years and watched a great many young people go up them with something on their backs. Carry what you've got. Only don't let it carry you. Most of them never learn which way round it is till they've been carried a year."
 
-She turned to the next customer before he could answer, as if she had said a thing she had been meaning to say for some time and had no further need of him.
+She turned to the next customer before he could answer, as if she had said a thing she had been meaning to say all winter and had no further need of him.
 
-He went up the steps slowly with the pears and the apricots, one hand on the rail after all, and sat on the low wall at the top and ate one of the apricots, which was sweet and sharp at once and stuck to his teeth. Then he took out the Log and turned it over to the back, and wrote it down: not in the columns, where it would not go, but on its own line, the way he wrote things down that he did not want to lose.
+He went up the steps slowly with the pears and the apricots, one hand on the rail after all, and sat on the low wall at the top and ate one of the apricots, which was sweet and sharp at once and stuck to his teeth. Then he took out the Log and turned it over to the back, and wrote it down: not in the columns, where it would not go, but on its own line, as he wrote things down that he did not want to lose.
 
 *Carry what you've got. Don't let it carry you. (The fruit woman, h.)*
 
-He looked at it for a while. Then he put a small box round it, not because it was a guess, but because it was the only way he had of marking a thing as his.
+He looked at it, and then put a small box round it, not because it was a guess, but because it was the only way he had of marking a thing as his.

@@ -2,7 +2,7 @@
 
 Lira heard him go round the fourth stair on the right, and then she heard the street door, and then she sat on the end of her bed in the near dark and let herself shake.
 
-It was not much, only her hands, mostly, and something in the backs of her knees. She sat and waited for it to finish, the way she waited for a drill to finish teaching her something, and it took longer than she would have liked. When it was done she lit the candle with the third match, because the first two broke, and sat looking at the flame.
+It was not much, only her hands, mostly, and something in the backs of her knees. She sat and waited for it to finish, and it took longer than she would have liked. When it was done she lit the candle with the third match, because the first two broke, and sat looking at the flame.
 
 She had not been lying. She had decided not to be angry and had done it, there in front of him, and that was the easy part; she had always been able to put anger down when she chose to, as you could put a stone down if you had picked it up yourself. What she could not put down was the thing that had been under the anger, which she had not let him see, and which had come up through the floor of her as soon as he was gone.
 
@@ -12,13 +12,13 @@ She got up and went to the window and stood with her forehead nearly on the pape
 
 She thought about the sleet.
 
-She had stood at the barrel with her arms folded on the top of the rope, the way she always stood, and watched a man in a good coat stroll about the circle with his hands half open. Then the air had come down out of nowhere on top of Cael and folded his guard flat and put him on his back before he had seen anything at all. She had not moved; her arms had stayed folded on the rope, and she had stood there and counted with Vell, under her breath, because counting was something to do with her mouth, and at six he had rolled over, and at eight he had stood up, and she had not moved.
+She had stood at the barrel with her arms folded on the top of the rope, as she always stood, and watched a man in a good coat stroll about the circle with his hands half open. Then the air had come down out of nowhere on top of Cael and folded his guard flat and put him on his back before he had seen anything at all. She had not moved; her arms had stayed folded on the rope, and she had stood there and counted with Vell, under her breath, because counting was something to do with her mouth, and at six he had rolled over, and at eight he had stood up, and she had not moved.
 
 Afterwards he had said she looked calm, and she had let him say it.
 
 She had not been calm. She had been doing the thing she had learned at the academy, in the examination hall, on the morning she skipped the middle of the deflection in front of three examiners and a slate. She had done it clean, and better than the form; she had known it was better while she was doing it, and she had seen in their faces that they knew it too, and that it did not matter. She had stood still in the middle of the floor while they wrote, with her hands at her sides and her face giving them nothing at all. Then she had walked out of the hall, very straight, and down the back stairs where the coal went up, and sat on the third step from the bottom in the dark, and come apart there, quietly, where nobody could see it but the coal.
 
-She had come apart afterwards, and nobody had ever known, and for a long time she had been rather proud of that.
+She had come apart afterwards, and nobody had ever known, and for years she had been rather proud of that.
 
 At the barrel in the sleet she had done the same thing, only without the stairs, and it had nearly not worked. That was what she had been carrying round since the winter without looking at it. At the fourth exchange, when Feryn came in fast and put his hand where Cael was going and turned him over, she had been halfway through the rope before she knew it, with her hands on it and her weight already going. Then Vell had called it, and she had stopped, and nobody had seen. But she knew.
 
@@ -42,7 +42,7 @@ That left the other thing, the one the stairs had been for.
 
 She took the tin out of her pocket.
 
-It was a flat tin that had once had throat sweets in it, with a picture of a lady in a hat on the lid, worn nearly off. She had carried it since the autumn and counted it on this bed perhaps a hundred times, and three weeks ago she had counted it and found that there was enough in it for a cart. Fenrow, or further. She had sat on the low wall at the Cinder House and told him so, and then told him she had put it back in her pocket, and she had meant that too.
+It was a flat tin that had once had throat sweets in it, with a picture of a lady in a hat on the lid, worn nearly off. She had carried it since the autumn and counted it on this bed perhaps a hundred times, and three weeks ago she had counted it, and there was enough in it for a cart. Fenrow, or further. She had sat on the low wall at the Cinder House and told him so, and then told him she had put it back in her pocket, and she had meant that too.
 
 She opened it and counted it again now, by the candle, out of habit, and it was the same as it had been; it did not know anything had happened.
 
@@ -50,13 +50,13 @@ She opened it and counted it again now, by the candle, out of habit, and it was 
 
 *And after—*
 
-She sat with that for some time, because it was harder than the first part. The first part she had done before, at the academy and in the sleet. The second part she had never done; she had always gone down the back stairs.
+She sat with that, because it was harder than the first part. The first part she had done before, at the academy and in the sleet. The second part she had never done; she had always gone down the back stairs.
 
 She looked at the cracked pane, and the paper over it, and Torvin's chimney gone black now beyond it, and said it out loud, quietly, to see what it sounded like in the room.
 
 "During, I coach," said Lira. She heard her own voice go flat and steady on it, the barrel voice, and was glad. Then, more slowly: "After, I get to be a person."
 
-It sounded strange, like something said by somebody who was not her. She said it again, and the second time it sounded a little more like her, and the third time she found that she meant it. After the call, whatever the call was, she would not go down any stairs. She would let it come up wherever she was standing, in front of whoever was there, him included. If it was fear he would see it, and if it was the other thing he would see that. She had spent a long time being the girl who came apart only where nobody could see, and she had been proud of it, and she thought now, sitting on a warm chair in the dark, that it had been a kind of lie. It was not a large one, but he had told her the truth about himself tonight, the worst of it, out loud in this room, and she did not see why she should keep a smaller one about herself.
+It sounded strange, like something said by somebody who was not her. She said it again, and the second time it sounded a little more like her, and the third time she found that she meant it. After the call, whatever the call was, she would not go down any stairs. She would let it come up wherever she was standing, in front of whoever was there, him included. If it was fear he would see it, and if it was the other thing he would see that. She had spent years being the girl who came apart only where nobody could see, and she had been proud of it, and she thought now, sitting on a warm chair in the dark, that it had been a kind of lie. It was not a large one, but he had told her the truth about himself tonight, the worst of it, out loud in this room, and she did not see why she should keep a smaller one about herself.
 
 That was a term. She had set it, and she would keep it, and nobody but her would ever know it had been set.
 
@@ -114,7 +114,7 @@ He put five into the straw at the height of a man's lowest rib, fast, and felt e
 
 "They were all on his ribs, if he's got ribs the size of a door." She brushed the marks off with the flat of her hand. "Again."
 
-He did it again, and again. She stood at his shoulder and watched his wrist, not his fist. After the fourth time she took his wrist in her hand and turned it a few degrees, so that the first two knuckles came in square instead of the last two. After the sixth she told him he was pulling the strike back before it had finished going in, to get the next one out faster, and that every one of them was arriving a little short because of it. After the ninth she said nothing at all for a long time and only watched.
+He did it again, and again. She stood at his shoulder and watched his wrist, not his fist. After the fourth time she took his wrist in her hand and turned it a few degrees, so that the first two knuckles came in square instead of the last two. After the sixth she told him he was pulling the strike back before it had finished going in, to get the next one out faster, and that every one of them was arriving a little short because of it. After the ninth she said nothing at all and only watched.
 
 "Every one of those wanted to be the one that counted," she said at last.
 
@@ -152,7 +152,7 @@ By the end of the third morning the five white marks would fit under two of her 
 
 ---
 
-Doss came down into the kitchen at the hour he always came down, an hour before his watch, to eat what Torvin's wife had left for him under a cloth. He found Cael at the table with the Log open and a candle, and sat down across from him with his bad knee out straight under the bench, and ate for a while without talking.
+Doss came down into the kitchen at the hour he always came down, an hour before his watch, to eat what Torvin's wife had left for him under a cloth. He found Cael at the table with the Log open and a candle, and sat down across from him with his bad knee out straight under the bench, and ate without talking.
 
 "The girl asked me about Iron," he said at last.
 
@@ -162,7 +162,7 @@ Doss came down into the kitchen at the hour he always came down, an hour before 
 
 "If you'll tell it again."
 
-Doss was quiet for a while. He was a big slow man with a flat face that had been hit a great many times, and when he was thinking his scarred knuckles went still on the table.
+Doss was quiet. He was a big slow man with a flat face that had been hit a great many times, and when he was thinking his scarred knuckles went still on the table.
 
 "Twice," he said. "At Bronze. One season and a half, I was Bronze in her book. Two of those were Iron men. Different men. Same thing." He looked at the candle. "You hit a Shield, it shines. You know you've hit it. You hit Stone, you feel the grit go flat; you know. Force shoves you after. Ember, you get the heat in your face. Something comes back. Every Path I ever hit, something came back off it and told me I'd been there." He put his bread down. "Iron, nothing. You put your best into it, and it goes in, and that's all. Like dropping a stone down a well and never hearing it land."
 
@@ -174,7 +174,7 @@ Cael wrote it down. *Doss: nothing comes back. You stop believing your hands. Th
 
 "Was there anything," he said, "that he did after? After you'd landed a good one?"
 
-Doss chewed for a long time.
+Doss chewed, and swallowed.
 
 "He'd wait," he said at last. "The second one would. After a big one. Not long. You'd think he was being polite." He shrugged. "I thought he was being polite. I was fifty-one fights in and I thought an Iron Bronze was being polite to me." He looked at Cael, and there was something nearly like a smile at the corner of the flat mouth. "Write that down as well. Write down that I was a fool."
 
@@ -186,7 +186,7 @@ He stopped.
 
 "You fought the Iron man," he said. "In the autumn. At the Cinder House. My second week. Seven exchanges, and you put your hand up."
 
-She looked at him over the cup for a while.
+She looked at him over the cup.
 
 "I did," she said. "You're the circuit boy from Torvin's. The one who watches feet." She drank. "I heard you've got an Iron coming."
 
@@ -208,7 +208,7 @@ He thanked her, and she went back to her slate. When he was halfway down the lan
 
 He wrote it down at the bottom of the lane, against the wall, standing up. *Chalk-board woman (the Stone woman, wk 2): he'd stand a moment after a good one. Setting a bucket down. Putting it somewhere.* Then, under it, because two people had told him the same thing without knowing each other: *Doss said it too. He'd wait.*
 
-He looked at it a long time. Two was not three, and it was not a pattern yet, so he drew a small ring round it and left it open.
+He looked at it. Two was not three, and it was not a pattern yet, so he drew a small ring round it and left it open.
 
 ---
 
@@ -226,7 +226,7 @@ Lira came across the dirt to the table before he could answer. She stood beside 
 
 "I've been asked. Late." She let that sit for exactly as long as it needed to. "He knows."
 
-Vell looked at the two of them, one and then the other, for a long moment. Something happened at the corner of her mouth that did not happen often.
+Vell looked at the two of them, one and then the other. Something happened at the corner of her mouth that did not happen often.
 
 "Then sign," she said. She turned Feryn's slip over and gave him the pen.
 

@@ -12,7 +12,7 @@ Yeni had turned it toward him herself. She had looked at the way he came up the 
 
 *Ruling: I lost to a thing I wasn't looking at.*
 
-He lay there with the pencil for a long time after that. The brothers came up the stairs arguing about whether the river would freeze at the edges this year, and they went to bed still arguing, and went quiet, and the wheezing man by the door began his long whistle, like a kettle a long way from boiling.
+He lay there with the pencil in his hand after that. The brothers came up the stairs arguing about whether the river would freeze at the edges this year, and they went to bed still arguing, and went quiet, and the wheezing man by the door began his long whistle, like a kettle a long way from boiling.
 
 *I've been looking at hands and shoulders since the community hall,* he wrote. *Hesk taught me hips and feet. I kept the hips and feet and added shoulders and faces and breath. Every tell I've ever found has been on the body. A heel, a dip, a shimmer, a breath, a lean, a foot coming down late. All of them were somewhere I already knew to look.*
 
@@ -46,7 +46,7 @@ Hesk's letter had come on the Friday, two days before Talis, and he had read it 
 
 The review had sat. They had asked Hesk whether he wrote to the boy, and Hesk had told them that he did, every week, and meant to go on doing it. They had found *no present cause*, and the matter would *remain on the book*, which meant that it was not closed and was not lost either. There was a gauge-maker who had told a man from the guild office that every workshop in Denvash had a drawer of springs, and that a man who did not was either a liar or a bad maker, and the man had written it down. Cael smiled at that, on the cot, and the smile made his side catch.
 
-Then the part about the reading room: *I'm proud of the reading, and the four times aloud.* That was all Hesk said about it, and it was short, and Cael read it twice and found that it was enough.
+Then the part about the reading room: *I'm proud of the reading, and the four times aloud.* That was all Hesk said about it, and it was short, and Cael read it twice, and it was enough.
 
 Then the part he had not been able to read again.
 
@@ -90,9 +90,9 @@ The last weeks came in hard.
 
 The frost did not go off the yard at all now. It lay white along the foot of the east wall all day, and the dirt in the circle was hard as a floor. At Torvin's the brothers came in every night with their hands like boiled meat to say that the river was going to freeze at the edges, while Torvin's wife put a second blanket on every cot without being asked.
 
-The left side of Cael's ribs got better slowly. For a week he could not breathe in all the way without the catch, and after that he could if he did it carefully, and after that he forgot to be careful and found that he did not need to be. The back went from green to yellow to nothing, and the forearm, over the old burn, stopped swelling and went stiff instead, and Lira made him work it in the cold water from the pump every morning until his fingers ached with the cold instead.
+The left side of Cael's ribs got better slowly. For a week he could not breathe in all the way without the catch, and after that he could if he did it carefully, and after that he forgot to be careful and did not need to be. The back went from green to yellow to nothing, and the forearm, over the old burn, stopped swelling and went stiff instead, and Lira made him work it in the cold water from the pump every morning until his fingers ached with the cold instead.
 
-She worked on her right side the way she did everything, by doing it wrong on purpose until she could feel exactly where the wrong lived. She would go through an hour at the post until she was tired and her shoulders were down, and then do the step and the backhand and let her weight go on past the end of it, onto the right foot, and stop there, standing open, exactly the shape she had been, and say *there* to herself, quietly. Then she did it again, and stopped her weight a little sooner, and then sooner again.
+She worked on her right side as she did everything, by doing it wrong on purpose until she could feel exactly where the wrong lived. She would go through an hour at the post until she was tired and her shoulders were down, and then do the step and the backhand and let her weight go on past the end of it, onto the right foot, and stop there, standing open, exactly the shape she had been, and say *there* to herself, quietly. Then she did it again, and stopped her weight a little sooner, and then sooner again.
 
 "Tell me," she said, every time.
 
@@ -122,7 +122,7 @@ But it came, by the width of a hair a morning, and some mornings not at all. On 
 
 "*Gone*." She had the chalk in her hand. "I came in with the step and you'd started the counter, the back and out, and you saw me already in, and you let it go and went somewhere else. And you didn't say it. You just went."
 
-He had not noticed, but he thought back and found that she was right: he had seen her inside and been somewhere else, all in the same moment, with no word in between, like a hinge that had been oiled.
+He had not noticed, but when he thought back she was right: he had seen her inside and been somewhere else, all in the same moment, with no word in between, like a hinge that had been oiled.
 
 Lira went to the post, where the *gone* column had thirty-nine marks in it, in rows of five, with the last row one short. She made a fortieth mark, and then drew a line under the whole column, straight across, hard, so that the chalk squeaked on the canvas.
 
@@ -136,19 +136,19 @@ Lira went to the post, where the *gone* column had thirty-nine marks in it, in r
 
 "I said you weren't a natural." She came back to her mark. "I never said slow. I'd never say slow. You're the most efficient learner I've ever stood across from. You just do it in the most annoying order." She brought her hands up. "Again. And if you say it, I'm rubbing out the line."
 
-He did not say it, and he found through the rest of that morning that he could not have said it if he had tried, because there was nowhere in the moving for the word to go.
+He did not say it, and through the rest of that morning he could not have said it if he had tried, because there was nowhere in the moving for the word to go.
 
 ---
 
 He had watched Dellin twice before he knew he was going to fight him.
 
-He found that out on the night after Talis, going back through the Log, where the entries were, a Thursday and a Sunday in the third week, among the bouts he wrote down because he wrote down every bout. *Dellin, Cu 3, Force*, and half a page each time, not underlined, because they had been homework, the way all the cards were homework, and he had filed them and turned the page.
+He worked that out on the night after Talis, going back through the Log, where the entries were, a Thursday and a Sunday in the third week, among the bouts he wrote down because he wrote down every bout. *Dellin, Cu 3, Force*, and half a page each time, not underlined, because they had been homework, as all the cards were homework, and he had filed them and turned the page.
 
 Vell gave him Dellin on the Monday after Talis, for Thursday, after the lamps, the third bout, and said that Dellin had asked for him.
 
 "Asked?"
 
-"He watched Renn. And Sarel." Vell turned her tea. "He says he'd like to see what you'll do with a man who doesn't care whether you see him coming." She looked up. "He's not clever, Dellin. He's never needed to be. He's very strong and he's done the same thing in the same way for three seasons, and it works, and he sees no reason to change it." She looked down again. "I'd like to see whether you can beat a thing that works."
+"He watched Renn. And Sarel." Vell held her tea in both hands. "He says he'd like to see what you'll do with a man who doesn't care whether you see him coming." She looked up. "He's not clever, Dellin. He's never needed to be. He's very strong and he's done the same thing in the same way for three seasons, and it works, and he sees no reason to change it." She looked down again. "I'd like to see whether you can beat a thing that works."
 
 He watched Dellin a third time on Tuesday afternoon, from the rope, near the barrel, with the Log open on his knee.
 
@@ -158,7 +158,7 @@ He made himself do it, standing at the rope with his hand on the iron stake at t
 
 Then he watched the rest.
 
-Dellin was a big man of about twenty-five, a carter, broad and slow on his feet, with very short hair and a face like a friendly loaf. He fought exactly the way Vell had said. He opened every exchange with his left hand, high, toward the head, a punch that was not fast and was not meant to land, only to make you bring your hands up. As your hands came up his right went to your body, low, under them, a short heavy punch to the ribs, and it did not matter whether it hurt, because it was not the punch that put you down.
+Dellin was a big man of about twenty-five, a carter, broad and slow on his feet, with very short hair and a face like a friendly loaf. He fought exactly as Vell had said. He opened every exchange with his left hand, high, toward the head, a punch that was not fast and was not meant to land, only to make you bring your hands up. As your hands came up his right went to your body, low, under them, a short heavy punch to the ribs, and it did not matter whether it hurt, because it was not the punch that put you down.
 
 It was the shove after it.
 
@@ -216,7 +216,7 @@ Lira chewed her lip.
 
 He looked at her. "Then I'll say gone, and do something else."
 
-Lira looked at the page for a long time in the cold.
+Lira looked at the page in the cold.
 
 "That's the first plan you've ever made," she said slowly, "that doesn't need him to be stupid. Only to be what he is." She pulled her coat tighter round her knees. "I like it. I don't trust it. Plans don't survive."
 
@@ -260,7 +260,7 @@ He came in close. His left hand came out, open, for the collar.
 
 Cael went under it.
 
-He went in as the hand came out, the way he had planned it on the wall, under the arm and inside it, into the big square space in front of Dellin's chest. His left forearm met Dellin's reaching wrist on the way past and turned it. It was not a block. It was the outside of the forearm, wrist to elbow, meeting it and sending it on, a quarter turn further than Dellin had meant to reach, so that the big man's shoulder came round after his hand.
+He went in as the hand came out, just as he had planned it on the wall, under the arm and inside it, into the big square space in front of Dellin's chest. His left forearm met Dellin's reaching wrist on the way past and turned it. It was not a block. It was the outside of the forearm, wrist to elbow, meeting it and sending it on, a quarter turn further than Dellin had meant to reach, so that the big man's shoulder came round after his hand.
 
 And the strike came up from the hip. Back foot driving, shoulder following, fist arriving last. It went into the hinge of Dellin's jaw, under the ear, where Dellin's own turned shoulder had left it open.
 
@@ -280,7 +280,7 @@ Dellin sat in the dirt and worked his jaw from side to side.
 
 Cael held out his hand, and Dellin took it, and Cael pulled, and it was like pulling at a cart that did not want to go anywhere. Then Dellin got his own feet under him and came up, and stood there swaying a little, and looked down at Cael from a long way up.
 
-"You knew." He did not say it angrily, but the way a man says something that has surprised him and that he wants to make sure of. "The left. The right. My hand coming out. You knew what I'd do before I did it."
+"You knew." He did not say it angrily. He said it to make sure of it. "The left. The right. My hand coming out. You knew what I'd do before I did it."
 
 Cael opened his mouth to say that he had not known anything. He had watched three times and written it down three times, and on the third time he had seen that it never changed. He had worked out how likely it was that it would change on Thursday, and found it was so small that he could stand on it. It was not knowing. It was arithmetic.
 
@@ -290,7 +290,7 @@ It would not have meant anything to Dellin, or to anybody, standing in the circl
 
 "I watched you," he said instead. "Three times."
 
-Dellin thought about that for a long while, rubbing his jaw.
+Dellin thought about that, rubbing his jaw.
 
 "Three times," he said. "Huh." He nodded slowly, as if putting it somewhere. "I'll have to start doing something different, then." He seemed faintly worried by the idea. Then he clapped Cael on the shoulder, gently, for a big man, and went off toward the water bucket, saying to himself, quite loudly, "Three times," as if it were a sum he had been set and could not quite make come out.
 
@@ -298,7 +298,7 @@ Cael walked to the table.
 
 "Result stands as called," said Vell. "Unrated, over Dellin, Copper Rank 3, Force Path. Fourth exchange. Called." The pen moved. "Witnessed and entered."
 
-Then the pen moved again, a second line and a third, which she did not read out, and she did not look up. But when he turned to go she said, without lifting her head, "That was a plan."
+Then the pen moved again, a second line and a third, which she did not read out. But when he turned to go she said, without lifting her head, "That was a plan."
 
 "Yes."
 
@@ -318,7 +318,7 @@ He wrote it down on the wall by the pump, under *Nothing happened*.
 
 *It went exactly the way I wrote it. Every exchange.*
 
-He sat with that for a while.
+He sat with that.
 
 *Why it held,* he wrote, because Vell had told him to. *Because he never changes, and I didn't ask him to. I didn't build it on a thing he might do. I built it on a thing he always does. Renn had a plan for me. Sarel had no plan and didn't need one. Talis had a thing I'd never looked for. Dellin has the same thing he had last season, and he's proud of it, and I let him keep it right up until it was the one thing in front of me.*
 
@@ -380,7 +380,7 @@ Cael sat at the rope with the pencil stopped over the page.
 
 *He reads feet,* he wrote. *At the mark. Before the exchange. He watches how you set yourself, and he knows where you're going.*
 
-He looked at that for a long time, and then wrote under it, very small, *He's me. He's a watcher. He's been watching for forty fights.*
+He looked at that, and then wrote under it, very small, *He's me. He's a watcher. He's been watching for forty fights.*
 
 He sat on the low wall by the pump that night with it open on his knee and did not know what to do with it at all. Then, very late, with the cold coming down and the lamp going out in Yeni's window above, he thought about a big young man in a middle yard on the lane with a friend who had been given the job of being Cael. He thought of a heel settling back into the dirt and holding there, waiting, saying a thing that was not true.
 

@@ -8,7 +8,7 @@ She came across Torvin's yard and sat down on the low wall beside him, on the le
 
 He told it from the beginning, as she liked it, without saying what it meant: the apricots, the feeling from the mark, the knife-grinder's bench. A person standing still where everybody moves, with no case, no pin, no book. The look, and how long it lasted, and how it seemed to have been timed, and how they had turned and the market had shut behind them.
 
-Lira did not interrupt, and when he had finished she sat with her chin on her fist and looked at the trough for a while.
+Lira did not interrupt, and when he had finished she sat with her chin on her fist and looked at the trough.
 
 "Not Compact. You're sure."
 
@@ -74,7 +74,7 @@ It was in the clerk's careful hand, as always: boundaries, permits, a dispute ab
 
 *HESK-WARD. 4TH. VELL'S CALL.*
 
-Coss read it twice, and then put his thumb to the bridge of his nose and sat for a while with his eyes shut.
+Coss read it twice, and then put his thumb to the bridge of his nose and sat with his eyes shut.
 
 He had come back on the noon cart from Ardenmere a week ago with his days all spent and a creased coat and a cold. He had told himself all the way back, through two nights of carters' benches, that he had done what he could, and that it had been nothing, and that the boy would do what the boy had decided. At his desk on the Friday he had not been able to keep from thinking about the date on the card, and at home on the Sunday he had not been able to eat his dinner until the evening had gone far enough that it must be over, so that his daughter had asked him whether he was ill.
 
@@ -92,7 +92,7 @@ Below the head there was a code that was not in his register and had no prefix h
 
 The date was Monday. The day after.
 
-He sat looking at it for a long time.
+He sat looking at it.
 
 He was very careful with himself about what it was, because he did not know. In the ordinary way a slip with that head meant that somebody above his floor, and above his section head's, wanted to know when the file moved; who, or why, it did not say. Whether it had anything to do with the mark Ilsev had found in the spring, he could not tell, though this one could at least be traced as far as a floor he had never been allowed to stand on. Whether it had anything to do with a chalk line in a clerk's copy of a board, or a Bronze lying down on raked dirt in front of three hundred people, or nothing at all, he could not tell either. A thing could be dated the day after another thing without being caused by it; he had told a great many people that, over the years, when they had come to him with two dates and a story.
 
@@ -142,11 +142,11 @@ Then he turned the Log over to the back.
 
 He read the line he had written on Sunday night, at the bottom of the eighth instance, under the struck-through drawings: the fence at the edge of the marsh.
 
-It did not belong there, he saw now; it was not about one bout or one half second. It was about all of it, every instance and both notices and whatever the next one was, and it ought to be somewhere he would see it every time he turned the book over, the way Hesk's letters were somewhere he saw them every time he opened it. So he turned to the inside of the back cover, where there was nothing yet but the board's grain, and copied it there, slowly, in his best hand.
+It did not belong there, he saw now; it was not about one bout or one half second. It was about all of it, every instance and both notices and whatever the next one was, and it ought to be somewhere he would see it every time he turned the book over, as Hesk's letters were somewhere he saw them every time he opened it. So he turned to the inside of the back cover, where there was nothing yet but the board's grain, and copied it there, slowly, in his best hand.
 
 *They're not separate things I switch between. They're one thing with parts I haven't found all of yet.*
 
-The front of the book had three letters in it now, and the back had a fence. He looked at the two ends of the book for a while.
+The front of the book had three letters in it now, and the back had a fence. He looked at the two ends of the book.
 
 Then he turned to the last written page, under the eighth instance, and wrote the thing he had been turning over since the knife-grinder's bench. He had turned it over on the wall, and again with Lira, and all through the next day. It was short enough that it had to be right.
 
@@ -162,7 +162,7 @@ The east wall's shadow lay long across the yard, as it did every morning, so tha
 
 He sat on the bench with his arm against his side and watched her.
 
-She stood in front of the canvas with the chalk for some time. Then, at the top of a clean stretch of grey beside the *P*, she wrote a *W*, and beside it a *P*, and drew a short line between the two of them, joining them. Under that she made one stroke, and put a ring round it, because it had come. Beside the ring, in her smallest letters, she wrote *ribs*. Then, after a moment, *arms*. Then, after a longer moment, she wrote one more word, and stood back so that he could read it from the bench.
+She stood in front of the canvas with the chalk. Then, at the top of a clean stretch of grey beside the *P*, she wrote a *W*, and beside it a *P*, and drew a short line between the two of them, joining them. Under that she made one stroke, and put a ring round it, because it had come. Beside the ring, in her smallest letters, she wrote *ribs*. Then, after a moment, *arms*. Then, after a longer moment, she wrote one more word, and stood back so that he could read it from the bench.
 
 *Sunday.*
 

@@ -26,7 +26,7 @@ Feryn watched him do it with professional interest.
 
 He ordered more when the bowl was gone, without asking, and then more again. Cael ate all of it. He had not known he was hungry until he started, and then he could not stop, and Feryn sat across from him with his elbows on the table and told stories.
 
-He told them the way Cael wrote the Log, exactly and without mercy, and they were all at his own expense. There was the one-armed man. There was a yard in a farming town where the circle was shared, on the days there was no card, with a goat; the goat had wandered back into it during his bout. He had refused to step on it, and his opponent had not shared his feelings about the goat, and he had lost. There was his first Bronze evaluation, at twenty-one, in a long cold room in front of a panel of three. He had been so frightened that he had built far more than he meant to and let it go all at once, at the wall, as the panel had asked. It had blown every paper off the panel's table and out of the window into a canal.
+He told them as Cael wrote the Log, exactly and without mercy, and they were all at his own expense. There was the one-armed man. There was a yard in a farming town where the circle was shared, on the days there was no card, with a goat; the goat had wandered back into it during his bout. He had refused to step on it, and his opponent had not shared his feelings about the goat, and he had lost. There was his first Bronze evaluation, at twenty-one, in a long cold room in front of a panel of three. He had been so frightened that he had built far more than he meant to and let it go all at once, at the wall, as the panel had asked. It had blown every paper off the panel's table and out of the window into a canal.
 
 "They passed me," said Feryn. "I've never known why. I think they were afraid not to."
 
@@ -56,7 +56,7 @@ Feryn looked at him. Cael let him look. He had nothing to hold up and nothing to
 
 "I keep a book." With his good hand Cael gave his own cup a single turn. "Everything I can't explain goes in it. Everything in it gets explained in the end, or ruled out. This one's sat in it a good while now." He looked at the river going by the window. "It happens when something's coming at me and I haven't time to choose. I can't call it. Calling's never worked. I asked for it today, in the fourth, when you came in fast." He felt his mouth go up at one corner, without much humour. "You saw how that went."
 
-Feryn did not say anything for a long while.
+Feryn did not say anything.
 
 Cael watched him turn the answer over. He watched him notice that it was not an answer, and weigh it, and decide, quite visibly, not to push at it. That was rare enough that he marked it. Most people pushed at a thing they could not explain, or backed away from it; he had a catalogue for both. Feryn only nodded slowly. It was how a man might leave a good bout half fought, on purpose, sure that the second meeting would pay better.
 
@@ -128,7 +128,7 @@ If watching was what did it, the sum would not come out. He tried it every way h
 
 So it was not the watching, or it was not the watching by itself.
 
-He went back through the four exchanges more slowly, the way he hunted through any bout for the place where it had turned. Before the notice, before he had known there was anything worth marking, some clerk at the back of his head had already set a marker down, and he came to it now: the fall, and the hand on his shoulder.
+He went back through the four exchanges more slowly, as he hunted through any bout for the place where it had turned. Before the notice, before he had known there was anything worth marking, some clerk at the back of his head had already set a marker down, and he came to it now: the fall, and the hand on his shoulder.
 
 The grip had not let go. The throw had been over, his weight gone past any getting it back, everything the hand had been there to do already done, and still it had held him, one full beat, a pressed second of grip where a touch would have served, riding him halfway to the ground before it opened. He had set that aside in the circle because it fitted nowhere. Now it might fit.
 
@@ -182,7 +182,7 @@ He sat down on the low wall. She sat beside him, close, on his right, the side t
 
 "Every word," she said. "In order."
 
-He gave it to her in order, the four exchanges and Vell's call and *What tier are you?*, and Amrit's two plates of bread, and the goat, and the canal. She laughed at the canal, short and helpless, and put her hand over her mouth. Then he told her the third exchange again, slower, and she did not laugh. Then he told her the fourth, and the hand on his shoulder that had stayed a beat too long, and what had come after midnight on the cot.
+He gave it to her in order, the four exchanges and Vell's call and *What tier are you?*, and Amrit's two plates of bread, and the goat, and the canal. She laughed at the canal and put her hand over her mouth. Then he told her the third exchange again, slower, and she did not laugh. Then he told her the fourth, and the hand on his shoulder that had stayed a beat too long, and what had come after midnight on the cot.
 
 She stopped him there, before he could take the book out.
 
@@ -248,7 +248,7 @@ Corvane sat down on her bucket by the wall with both hands on the head of her st
 
 "Tell me," she said.
 
-He told her. He told it the way he had told Lira, in order, but he left out the dinner and the goat, because she would not want them, and he left out the third exchange, because he did not know how to tell it to her yet. He told her the first, when he had found nothing because nothing was being carried; Feryn had not carried it the way she had, but kept every part of himself as loose as every other part. He told her the second, the build read halfway, under the shirt, below the ribs, and the guard turned edge-on, and the arm. He told her that in the third Feryn had stood still on his mark and talked about cities with walls. He said that he had seen it then, the build, under the stillness, before there was any build: the cloth of the shirt stopping with the breath underneath it at the very moment the man decided.
+He told her. He told it as he had told Lira, in order, but he left out the dinner and the goat, because she would not want them, and he left out the third exchange, because he did not know how to tell it to her yet. He told her the first, when he had found nothing because nothing was being carried; Feryn had not carried it as she had, but kept every part of himself as loose as every other part. He told her the second, the build read halfway, under the shirt, below the ribs, and the guard turned edge-on, and the arm. He told her that in the third Feryn had stood still on his mark and talked about cities with walls. He said that he had seen it then, the build, under the stillness, before there was any build: the cloth of the shirt stopping with the breath underneath it at the very moment the man decided.
 
 Corvane did not move at all while he said that last part.
 

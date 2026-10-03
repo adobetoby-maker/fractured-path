@@ -94,11 +94,11 @@ She saw him looking, and looked back, with her bread halfway to her mouth.
 
 "In case of what?"
 
-"If I knew that," said Sella, "I'd take them off."
+"If I knew that, I'd take them off."
 
 He laughed. It came out of him before he could stop it, and it pulled at the cheek under the eye, and he put his hand up to hold the cheek and went on laughing anyway. Across the table Yeni, who never laughed at anything, looked down at her sewing with the corner of her mouth gone in, which was as near as Yeni came.
 
-Torvin had said nothing all meal. He sat at the head of the table and ate his stew in the way he did everything, without hurry, and when the bowl was empty he put the spoon down in it, very precisely, as Doss laid down his pipe. Then he looked down the table at Cael with the look he gave a coin he had already counted.
+Torvin had said nothing all meal. He sat at the head of the table and ate his stew as he did everything, without hurry, and when the bowl was empty he put the spoon down in it, very precisely, as Doss laid down his pipe. Then he looked down the table at Cael with the look he gave a coin he had already counted.
 
 "Purse on Sunday."
 
@@ -108,7 +108,7 @@ Torvin had said nothing all meal. He sat at the head of the table and ate his st
 
 The table went quiet; even the brothers stopped.
 
-"Not this house," said Torvin. He picked up his spoon again, and looked at it, and put it down. "Rent's what it was. It stays what it was. Whatever they pay you over there." He looked at the range, where his wife had stopped stirring, and then back down the table. "There. Now you'll not lie awake waiting for it."
+"Not this house." He picked up his spoon again, and looked at it, and put it down. "Rent's what it was. It stays what it was. Whatever they pay you over there." He looked at the range, where his wife had stopped stirring, and then back down the table. "There. Now you'll not lie awake waiting for it."
 
 Cael did not know what to say. He sat with his hands round his bowl.
 
@@ -118,7 +118,7 @@ Torvin looked at him as though he had been handed a coin with the wrong head on 
 
 "It's sums. A boarder who pays on the day and keeps his fighting in the street is worth two who pay more and leave owing." He picked up the bowl and stood, and then stood there a moment longer than he needed to, holding it. "I said to her, in the autumn. The night you came. Boy sat on my step asking what a week came to by the night, as if the answer might go for his throat." He looked at the bowl. "I said, that one'll be gone by the turn of the month." He considered the bowl a while longer. "I was out by a winter."
 
-He took the bowl to the basin and rinsed it and went up the stairs, and after a while *Lamps* came down through the floorboards, a little earlier than usual.
+He took the bowl to the basin and rinsed it and went up the stairs, and presently *Lamps* came down through the floorboards, a little earlier than usual.
 
 Torvin's wife took the bun off the shelf and cut it in two and put half of it in front of Cael without a word, and gave the other half to Sella.
 
@@ -164,7 +164,7 @@ Cael looked at him. The old man was breathing exactly as he had been breathing i
 
 "Nothing."
 
-"Nothing." The old man nodded. "You pushed me with all of you. Hands, arms, back, legs, the bad hip, the good one, your face. I could see you pushing with your face." He did not smile, but something moved at the corner of his eye. "I stood with what was needed. That's all. Bones on bones. Knees not locked, not bent. Nothing held that didn't have to be held." He shifted his weight, very slightly, from one foot to the other, the way he always did, and Cael saw for the first time what it was for. "It isn't anything. Anybody can stand like this. It takes about thirty years."
+"Nothing." The old man nodded. "You pushed me with all of you. Hands, arms, back, legs, the bad hip, the good one, your face. I could see you pushing with your face." He did not smile, but something moved at the corner of his eye. "I stood with what was needed. That's all. Bones on bones. Knees not locked, not bent. Nothing held that didn't have to be held." He shifted his weight, very slightly, from one foot to the other, as he always did, and Cael saw for the first time what it was for. "It isn't anything. Anybody can stand like this. It takes about thirty years."
 
 He took Cael's hands off his chest and let them go.
 
@@ -174,19 +174,19 @@ He put one finger on Cael's breastbone. Just one. He leaned on it, not very hard
 
 "Again," said the old man.
 
-He leaned again. Cael set himself against it this time, everything, the way he had set himself against Dessa's frame, and the finger pushed, and he held, and his whole body shook with holding, and the old man took the finger away and Cael nearly fell forward into the space where it had been.
+He leaned again. Cael set himself against it this time, everything, as he had set himself against Dessa's frame, and the finger pushed, and he held, and his whole body shook with holding, and the old man took the finger away and Cael nearly fell forward into the space where it had been.
 
 "You see," said the old man.
 
 "I held it."
 
-"You held it with everything you've got, against one finger." The old man looked at him with the flat level look Vell used on a horse. "What's left for the next one?"
+"You held it with everything you've got, against one finger." The old man looked at him, flat and level. "What's left for the next one?"
 
 Cael did not answer, because he did not have to.
 
 "Sunday," said the old man. "She took your legs in the second. You got up." He nodded at the dirt. "Show me how you got up."
 
-So Cael lay down on his left side in the old man's yard, carefully, on the bad hip, and got up the way he had got up on Sunday, all at once: hand, knee, up, fast, with his breath gone and the hip shouting.
+So Cael lay down on his left side in the old man's yard, carefully, on the bad hip, and got up as he had got up on Sunday, all at once: hand, knee, up, fast, with his breath gone and the hip shouting.
 
 The old man watched it.
 
@@ -200,7 +200,7 @@ Cael got down.
 
 "Now get up," said the old man, "and let the ground pay for it."
 
-He showed him. He did not get down himself; he only pointed, with one finger, from where he crouched. Roll off the bad side first, onto the back, so the hip was not under anything. Then onto the good knee, slowly, with the hand flat beside it on the ground, so the ground took the weight and not the arm. Then the other foot under, and then up, not with the legs pushing but with the back straightening on top of them, one piece on the next, the way you stack bricks. It took a great deal longer than the bed on fire. When Cael was standing at the end of it, he found that he still had his breath.
+He showed him. He did not get down himself; he only pointed, with one finger, from where he crouched. Roll off the bad side first, onto the back, so the hip was not under anything. Then onto the good knee, slowly, with the hand flat beside it on the ground, so the ground took the weight and not the arm. Then the other foot under, and then up, not with the legs pushing but with the back straightening on top of them, one piece on the next, the way you stack bricks. It took a great deal longer than the bed on fire. When Cael was standing at the end of it, he still had his breath.
 
 "Again," said the old man.
 
@@ -208,9 +208,9 @@ He did it again, and then again. The fourth time the old man said nothing. The f
 
 "You'll lose an eye's worth again," he said. "And a hip's worth, and worse. You've a long road and it's all uphill." He took the coin off the top of the post and put it in his pocket. "The ones that last on it aren't the ones who've got the most. They're the ones who spend least. Spend nothing you don't have to. Not getting up, not hiding a limp, not holding off one finger." He looked at Cael. "Then when you do have to spend, you'll have it."
 
-Cael stood in the middle of the yard by the post and breathed, and found that it was the first time since Sunday that his hip did not hurt when he stood still.
+Cael stood in the middle of the yard by the post and breathed, and it was the first time since Sunday that his hip did not hurt when he stood still.
 
-He did not ask the old man where he had learned it. He did not ask how long thirty years had been, or where they had been spent, or what the man had stood against for them, with his bones on his bones and nothing held. It came to his tongue, and he felt the old man see it come, and he let it go back down. Some people gave you the present and kept everything before it. He had decided a long time ago that this was a fair trade, and he made it again now.
+He did not ask the old man where he had learned it. He did not ask how long thirty years had been, or where they had been spent, or what the man had stood against for them, with his bones on his bones and nothing held. It came to his tongue, and he felt the old man see it come, and he let it go back down. Some people gave you the present and kept everything before it. He had decided long ago that this was a fair trade, and he made it again now.
 
 "Thank you," he said.
 
@@ -242,11 +242,11 @@ She read it twice, as she read everything of Hesk's that he showed her, and gave
 
 "He doesn't want to send me a wrong answer."
 
-"I'd send you a wrong one. At least you'd have something to argue with." She took the bread out of her bag, the end of the morning's loaf, and tore it, and gave him the larger half. "What was the question? You never said. You said he'd answer it."
+"I'd send you a wrong one. At least you'd have something to argue with." She took the bread out of her bag, the end of the morning's loaf, and tore it, and gave him half. "What was the question? You never said. You said he'd answer it."
 
-He told her. He had not meant to, quite; it had felt like a thing between him and Hesk. But she had asked, and he found that he did not have a reason not to that he would have been willing to say out loud.
+He told her. He had not meant to, quite; it had felt like a thing between him and Hesk. But she had asked, and he did not have a reason not to that he would have been willing to say out loud.
 
-Lira did not answer for a while. She sat with the bread in her hand and watched the pie boy rake out the place where the kiln boy had gone down that afternoon, slowly, stroke by stroke, until the dirt was level.
+Lira did not answer, but sat with the bread in her hand and watched the pie boy rake out the place where the kiln boy had gone down that afternoon, slowly, stroke by stroke, until the dirt was level.
 
 "I don't know," she said at last. "I've been trying to. I've been trying since the roof." She turned the bread over. "Do you want to know what I do at night? Under the slope, with the candle out?"
 
@@ -266,7 +266,7 @@ He opened his mouth.
 
 "Don't," said Lira. "Don't say anything. If you say anything I'll have to answer it, and I haven't got an answer, I've only got where I've decided to stand." She looked at the circle. "It's a strange thing. I've never in my life trusted anything I couldn't explain. Not a teacher, not a Path, not a step. At the academy I wouldn't do the middle of the deflection till somebody could tell me why it was there, and nobody could, so I never did." She almost smiled. "And I've got no explanation for you at all. Two notices and a bag of guesses. I'm staying anyway. I noticed I'd decided it before I noticed I was deciding."
 
-He did not say anything, because she had asked him not to, and because he did not think there was anything to say that would be the right size. It went into him slowly, the way the cold water went into his arm in the mornings, and stayed.
+He did not say anything, because she had asked him not to, and because he did not think there was anything to say that would be the right size. It went into him slowly, and stayed.
 
 "I trust Dessa's water cup," he said at last, which was not at all what he had meant to say.
 
@@ -306,11 +306,11 @@ He knew the way now, a little. He went into the dark place behind his breastbone
 
 He picked it up.
 
-It did not come quickly, and that was the first thing he learned. The Wind came slowly when he asked, but it came all at once when it came, the way a step does. This did not come all at once; he had to gather it. He felt it begin low in the middle of him, below the ribs and above the belt, in the very place Corvane had carried her stone, and he felt it go on gathering there. It did not go faster when he wanted it to. It took a breath, a whole long breath in and a whole long breath out, the way Hesk took a breath before he lifted something he knew was heavy, before it felt like anything that might go anywhere.
+It did not come quickly, and that was the first thing he learned. The Wind came slowly when he asked, but it came all at once when it came, as a step does. This did not come all at once; he had to gather it. He felt it begin low in the middle of him, below the ribs and above the belt, in the very place Corvane had carried her stone, and he felt it go on gathering there. It did not go faster when he wanted it to. It took a breath, a whole long breath in and a whole long breath out, the way Hesk took a breath before he lifted something he knew was heavy, before it felt like anything that might go anywhere.
 
 And while it gathered he saw his own shadow on the silver wall.
 
-The moon was behind him and a little to the left, and his shadow lay long and black across the whitewash. He had moved his hands while he gathered, without meaning to, the way Corvane had moved hers in her ring. The shadow's hands moved with them. But the middle of the shadow did not. The middle of it had gone thick, and still, and heavy-looking, as though somebody standing there had swallowed a stone and was carrying it very carefully while pretending not to. Anybody who could read a build would have read it from the far side of the yard. Corvane would have read it at the gate. Feryn would have read it, and finished his sentence about walls, and been somewhere else long before it was ready.
+The moon was behind him and a little to the left, and his shadow lay long and black across the whitewash. He had moved his hands while he gathered, without meaning to, as Corvane had moved hers in her ring. The shadow's hands moved with them. But the middle of the shadow did not. The middle of it had gone thick, and still, and heavy-looking, as though somebody standing there had swallowed a stone and was carrying it very carefully while pretending not to. Anybody who could read a build would have read it from the far side of the yard. Corvane would have read it at the gate. Feryn would have read it, and finished his sentence about walls, and been somewhere else long before it was ready.
 
 He let it go.
 

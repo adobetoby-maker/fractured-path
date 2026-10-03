@@ -8,7 +8,7 @@ Cael stood and looked at it on the way up, at noon, with Lira beside him and his
 
 "Red Cap," said Lira. "He can't do a *W*. Look at it."
 
-The *W* was two *V*s that had not quite met. Cael looked at it for some time. In seven months the board had known him as a line in brackets, and now it had his name on it, spelt by a boy who could not do a *W*, in a hand that would wash off in the first rain.
+The *W* was two *V*s that had not quite met. Cael looked at it. In seven months the board had known him as a line in brackets, and now it had his name on it, spelt by a boy who could not do a *W*, in a hand that would wash off in the first rain.
 
 "Come on," said Lira. "You're not fighting the board either."
 
@@ -60,7 +60,7 @@ Feryn found them while she was on the third turn. He came along the rope with hi
 
 "Then I've got three more to find out what's there instead."
 
-Feryn said nothing for a while. Then he nodded, slowly.
+Feryn said nothing. Then he nodded, slowly.
 
 "One other thing. The salt-flats woman. She said she didn't remember deciding to stop." He stood, and looked down at him. "Whatever you decide in there, remember deciding it."
 
@@ -102,7 +102,7 @@ Darrow Innes came in by the gate in the wall like anybody else, and paid.
 
 Cael saw him before the yard did, because he was watching the gate, and because nobody else was expecting a Bronze to stand in the queue. The pie boy tried to wave him through. Darrow shook his head and put a coin in the pie boy's hand and closed the boy's fingers over it, and only then came in, and the yard found out who he was a moment later and went quieter all at once.
 
-He was not big. That was the first thing everybody seemed to notice, because the sound went down on it like a breath let out. He was of middle height and no more, and about thirty, and broad through the middle the way a cask is broad, all of a piece, so that it was hard to say where his chest stopped and the rest began. His hair was cut close and was the colour of wet sand. His nose had been broken long ago and set a little to the side, and his ears were thick, and his hands were square and quiet and hung at his sides as he walked without swinging. He had a plain brown jacket on and a canvas bag over one shoulder.
+He was not big. That was the first thing everybody seemed to notice, because the sound went down on it like a breath let out. He was of middle height and no more, and about thirty, and broad through the middle as a cask is broad, all of a piece, so that it was hard to say where his chest stopped and the rest began. His hair was cut close and was the colour of wet sand. His nose had been broken long ago and set a little to the side, and his ears were thick, and his hands were square and quiet and hung at his sides as he walked without swinging. He had a plain brown jacket on and a canvas bag over one shoulder.
 
 He went to Vell's table first. He said something to her and she said something back, and he nodded, once, with what looked from across the yard like real courtesy. Then he went to the empty corner on the sunny side and put the bag down and took the jacket off and folded it twice and laid it on the bag. He asked the pie boy for water, and said something that made the pie boy laugh, and drank it slowly, standing, looking at nothing.
 
@@ -118,7 +118,7 @@ At the nails, the Fenrow men had stood up off their crates. They had been watchi
 
 Then Vell stood up behind her table.
 
-She did not call for quiet. She stood up and waited, and the quiet came to her the way water comes down a slope, from the benches nearest her first and then the rope and then the wall and last of all the lane outside the gate, where the people who had not got in were standing on each other's toes to see in over the heads.
+She did not call for quiet. She stood up and waited, and the quiet came to her, from the benches nearest her first and then the rope and then the wall and last of all the lane outside the gate, where the people who had not got in were standing on each other's toes to see in over the heads.
 
 She said the rules for the witnesses as she always did, without raising her voice; and three hundred people leaned toward her to hear them, which was why she did not raise it. It went until somebody put a hand up, or could not go on, or she called it. Her call stood. Once a fighter had come over the rope, nobody stopped it but her. Nobody was killed in her circle. That was older than any law there was, and anybody who did not like it could go back out through the gate they had paid at.
 

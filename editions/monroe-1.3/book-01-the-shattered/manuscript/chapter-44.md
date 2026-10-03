@@ -18,9 +18,9 @@ The yard was small and walled in brick on three sides, with the river going by b
 
 "Tell me what you watch."
 
-He told her. He told her about Hesk and the community hall, hips and feet, and the three exchanges. He told her what he had found since: Renn's heel and the dip in Brenna's shield, the breath before the heat, Petra's lean, Dessa's late back foot, and Corbin reading feet at the mark. He told her about Talis and the ground. He did not tell it well, because he had never had to say it all at once before, out loud, to somebody who was listening the way she was listening, without any expression at all.
+He told her. He told her about Hesk and the community hall, hips and feet, and the three exchanges. He told her what he had found since: Renn's heel and the dip in Brenna's shield, the breath before the heat, Petra's lean, Dessa's late back foot, and Corbin reading feet at the mark. He told her about Talis and the ground. He did not tell it well, because he had never had to say it all at once before, out loud, to somebody who was listening without any expression at all.
 
-When he had finished, she was quiet for a while.
+When he had finished, she was quiet.
 
 "And Sarel?"
 
@@ -168,19 +168,19 @@ The whole table knew. The brothers had stopped arguing about the river to argue 
 
 Torvin sat at the head of the table and ate and said nothing until the bowls were nearly empty. Then he put his spoon down.
 
-"Monday," he said.
+"Monday."
 
 "Yes."
 
 Torvin looked at him with the look he gave a coin he had already counted twice.
 
-"Rent's paid to Sunday week," he said. "I looked." He picked his spoon up again. "And if you're carried home, they're to bring you in by the yard door. Not the front. People talk."
+"Rent's paid to Sunday week. I looked." He picked his spoon up again. "And if you're carried home, they're to bring you in by the yard door. Not the front. People talk."
 
 Torvin's wife hit him on the arm with her wooden spoon, not gently, and he went on eating as if he had not noticed.
 
 At the far end of the table, where nobody sat, Doss had his bad leg out along the bench and his pipe beside his bowl. He did not look up until the brothers had gone up the stairs still arguing. Then he did.
 
-"Corvane," he said.
+"Corvane."
 
 "She showed me how it's built."
 
@@ -192,13 +192,13 @@ Cael looked at him.
 
 Doss was quiet until the range had settled and ticked twice. He put the pipe down beside his bowl with great care, as he always did, as though it were a tool on a bench.
 
-"Then she saw something," he said. "She doesn't sit down for nothing." He looked at the range, where the fire was going down, and not at Cael. "I'll tell you one thing. It's the only thing I know about Bronze that's worth the breath. At Copper, people learn you over a season. At Bronze they learn you in an exchange." He tapped the knee under the table with the stem of the pipe, twice, the way he did. "Whatever you do twice against him, you've done once too often. Remember that when you're standing there."
+"Then she saw something. She doesn't sit down for nothing." He looked at the range, where the fire was going down, and not at Cael. "I'll tell you one thing. It's the only thing I know about Bronze that's worth the breath. At Copper, people learn you over a season. At Bronze they learn you in an exchange." He tapped the knee under the table with the stem of the pipe, twice, as he did. "Whatever you do twice against him, you've done once too often. Remember that when you're standing there."
 
 He got up, which took two movements, and rinsed his bowl at the basin, and went to the low brown door, and the smell of pipe smoke came out from under it a little later.
 
 Cael sat at the table with his empty bowl and turned it over in his head, *once too often*, until Torvin's wife took the bowl away from him and told him he would wear it out.
 
-That night, on the cot, he copied Corvane's figure into the front of the Log, with the spiral and the four strokes, as near as he could remember it. Then he wrote three pages under it, everything she had said, in the order she had said it. When he had finished, he read it through four times, and then once more aloud under his breath, the way he had read the citation in the reading room. By the fifth time it had stopped feeling like something he had been told and started to feel like something he knew. He had begun to understand, since the reading room, that this was how it worked: a thing went into him from outside, as a word or a drawing, and stayed there, and was gone over, and one day it was his.
+That night, on the cot, he copied Corvane's figure into the front of the Log, with the spiral and the four strokes, as near as he could remember it. Then he wrote three pages under it, everything she had said, in the order she had said it. When he had finished, he read it through four times, and then once more aloud under his breath, as he had read the citation in the reading room. By the fifth time it had stopped feeling like something he had been told and started to feel like something he knew. He had begun to understand, since the reading room, that this was how it worked: a thing went into him from outside, as a word or a drawing, and stayed there, and was gone over, and one day it was his.
 
 He sat with the pencil over that last sentence before he let himself write it down, because it sounded very like something else, and he did not know yet whether it was.
 
@@ -206,9 +206,9 @@ He sat with the pencil over that last sentence before he let himself write it do
 
 On Sunday Vell gave him a Copper 4 from Fenrow, a Stone man of about twenty-five who had come across for the afternoon card because he had heard there was a boy at the Cinder House who went five with Corbin, and he wanted to see for himself.
 
-It was not the kind of bout anybody would talk about afterward, and Cael understood that before it began, and found that he did not mind.
+It was not the kind of bout anybody would talk about afterward, and Cael understood that before it began, and did not mind.
 
-The Fenrow man was square and slow, with the grit coming up off him and lying down flat the way it had come up off Dessa, and none of her patience. He rocked a little on his heels at his mark as Talis had, and looked at the crowd, and at Marrow's slate, and at the girls on the wall, and at everything except Cael.
+The Fenrow man was square and slow, with the grit coming up off him and lying down flat as it had come up off Dessa, and none of her patience. He rocked a little on his heels at his mark as Talis had, and looked at the crowd, and at Marrow's slate, and at the girls on the wall, and at everything except Cael.
 
 Cael put his hand flat on the dirt at his mark for one breath before he stood.
 
@@ -232,7 +232,7 @@ Cael walked to the table and stood in front of it while Vell wrote, and the pen 
 
 "Result stands as called," she said. "Unrated, over a Copper Rank 4, Stone Path, of Fenrow. Third exchange. Called. Witnessed and entered."
 
-She did not look up, and there was nothing more in the book.
+That was all, and there was nothing more in the book.
 
 Lira was at the barrel with his coat. She did not say *easy*, and he did not say it either.
 
@@ -262,7 +262,7 @@ He thought about that seriously, because she had said it seriously.
 
 "Hesk wrote me something once," he said. "When the man with the pin was walking about. *Don't change what you do.* Because changing it is the loudest thing you can do, and you never know who's listening." He looked at the bridge. "I don't know if that's right here. But I don't know what I'm doing to you every morning, and you don't either, and if we start changing things to make it happen more, then we're doing something on purpose that neither of us understands." He stopped, because he had not known he thought that until he said it. "I'd rather you just did what you do. The way you did it before you knew. Fast, when it ought to be fast."
 
-Lira was quiet for a while.
+Lira was quiet.
 
 "That's what I'd decided too," she said. "On the floor, on Saturday, after you'd gone. I decided I'd go on being exactly what I was. And then the very next morning I did it for you slow, on purpose, and told myself that was only so we'd both be looking. And every morning since, I've caught myself doing it slow without meaning to, and not noticed till the third time." She laughed, short and not very happy. "It's harder than it sounds, being what you were before somebody tells you what you are."
 

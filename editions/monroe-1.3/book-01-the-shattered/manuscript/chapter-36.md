@@ -6,7 +6,7 @@ He read it fast, the way you look at a gauge to see whether the needle is in the
 
 *A woman called Dessa, Copper Rank 5 in the book here, Stone Path, the best defender in the yard.*
 
-He had never seen Dessa, or the yard. He knew the Cinder House only as two words in a boy's handwriting, and a book kept by a woman whose name he had written on the back of an envelope in case he forgot it. And yet he found that he could see all of it perfectly well: a defender who won by standing still, and a boy on a bench watching her twice, a week apart, with his chin tucked and his eyes very wide, writing down the thing she did not know she did.
+He had never seen Dessa, or the yard. He knew the Cinder House only as two words in a boy's handwriting, and a book kept by a woman whose name he had written on the back of an envelope in case he forgot it. And yet he could see all of it perfectly well: a defender who won by standing still, and a boy on a bench watching her twice, a week apart, with his chin tucked and his eyes very wide, writing down the thing she did not know she did.
 
 *The way you taught me to watch a stance.*
 
@@ -18,7 +18,7 @@ Hesk had spent thirty years reading load sheets that other men had filled in. He
 
 He looked for the anger, because he thought he might be owed some, and found instead something older and more tired that had his own face. He had kept a great many things in a great many neat columns for a great many years: Tuesdays, the provisions, the preliminary assessment, and a file he had once seen opened in a room above his own clearance. He had kept them from the boy until the boy found them out for himself and came to him angry, across the workshop bench, on the second day after Kindling. *A few years,* he had said in the side room at Weaver's Row, and he remembered the boy's face. If there was a figure missing from this letter, it was missing for the boy's reason. He would tell it when it was worth telling, or he would not, and either way it was not Hesk's to dig out of a letter with a file.
 
-He answered that night at the kitchen table. He wrote about the bench, because the boy had asked for ordinary things, and about Ressa's hinge, which had stopped squeaking at last, and about the guild giving his review a date to sit. He told the boy not to spend a single night on it, though he knew perfectly well that the boy would spend several. Then he sat for a long time with the pen lifted over the last part of the page, and wrote one line about building, which did not ask about anything or point at any column, and left room beside it for whatever else might be true as well.
+He answered that night at the kitchen table. He wrote about the bench, because the boy had asked for ordinary things, and about Ressa's hinge, which had stopped squeaking at last, and about the guild giving his review a date to sit. He told the boy not to spend a single night on it, though he knew perfectly well that the boy would spend several. Then he sat with the pen lifted over the last part of the page, and wrote one line about building, which did not ask about anything or point at any column, and left room beside it for whatever else might be true as well.
 
 He sealed it and propped it on the shelf by the door for the morning, against the guild's letter, which had stood against the clock there since the second morning after the depot with *Routine* written across its corner in somebody else's hand.
 
@@ -96,15 +96,15 @@ He read it all the way through sitting on the step, with people going by in the 
 
 A man from the Compact at Torvin's door, asking for the boy by his whole name. A summons for a compliance evaluation, forty-eight hours, *physical retrieval* if he did not go. The boy had gone down into a reading room under the man's own floor and read the law until he found the place where it did not fit him, and read it aloud four times, the way you read a load figure before you sign it. He had walked into the man's office with an objection on a single sheet, and come out with the summons stamped *closed, pending*, and six weeks, and a senior evaluator to come.
 
-He had done all of that eight days ago, two days' road away. He had done it on his own, or nearly; the letter did not say, but there was the girl, Lira, who told him the truth about his feet, and Hesk found that he hoped very much she had been somewhere near. Hesk had known nothing about any of it; he had been filing a hinge for Ressa's oven door while it happened.
+He had done all of that eight days ago, two days' road away. He had done it on his own, or nearly; the letter did not say, but there was the girl, Lira, who told him the truth about his feet, and Hesk hoped very much she had been somewhere near. Hesk had known nothing about any of it; he had been filing a hinge for Ressa's oven door while it happened.
 
-He read the line about the reading room again, and the one about the appendix, and the loose page tucked back in crooked. Then he sat on the step with the letter on his knee and found that he was more frightened than he had been at any moment since Weaver's Row, and that there was nothing at all to be frightened about, because it was over.
+He read the line about the reading room again, and the one about the appendix, and the loose page tucked back in crooked. Then he sat on the step with the letter on his knee, more frightened than he had been at any moment since Weaver's Row, though there was nothing at all to be frightened about, because it was over.
 
 That was the post, and it was nobody's fault. A letter took a week, and a week was the price of the boy being somewhere he could not be found by the next man who came looking for him in Denvash. Hesk had agreed to the price and helped to set it, and he had not understood until this moment, sitting on his own step, what it would feel like to pay it. It meant being frightened a week late, all at once, for something that had already been finished by somebody braver than he was.
 
 He went back into the workshop and sat down at the bench and opened the drawer of springs, because he had a job for the survey office that needed one, and because his hands wanted something to do.
 
-He did not look at what he was doing. He put his hand into the drawer the way he had put it into that drawer ten thousand times, and the end of a broken coil spring that should not have been in there at all went straight into the heel of his palm.
+He did not look at what he was doing. He put his hand into the drawer as he had put it into that drawer ten thousand times, and the end of a broken coil spring that should not have been in there at all went straight into the heel of his palm.
 
 He looked at it for a moment as though it were somebody else's hand, and then wrapped it in a clean rag from the bench and went out, and walked down to Merchant Row to the healers'.
 
@@ -170,7 +170,7 @@ The reviewing officer read out the notice in full, in the voice in which such th
 
 "Do you maintain contact with him?"
 
-Hesk had known this question would come, and had thought for a long time on several nights about how to answer it, and had decided in the end that there was only one answer he could give and still be able to look at his own hands afterward.
+Hesk had known this question would come, and had thought on several nights about how to answer it, and had decided in the end that there was only one answer he could give and still be able to look at his own hands afterward.
 
 "I write to him every week. He writes to me. I intend to go on doing both."
 
@@ -204,7 +204,7 @@ The gauge-maker caught him up at the bottom of the stairs. She walked beside him
 
 "The drawer of springs," she said. "He asked me about it, that man, when he came to my shop. Whether it was usual." She looked at his hand. "I told him every workshop in Denvash has a drawer of springs, and that a man who doesn't is either a liar or a bad maker." She snorted. "He wrote it down."
 
-Then she went off along the canal toward her shop, and Hesk stood on the corner for some time, a little warmed, and still did not know her name.
+Then she went off along the canal toward her shop, and Hesk stood on the corner, a little warmed, and still did not know her name.
 
 ---
 
@@ -216,7 +216,7 @@ Then he came to the fear, and sat a long time with the pen lifted. He could leav
 
 He did not put in the hand, or the spring, which mattered to nobody but him and the survey office. At the bottom, because he had promised, he put in Joren's heels and Alis's basins.
 
-He read it over once by the lamp, and found that it was all true, and that it was not all of what was true. He was not sure he had ever written a letter in his life of which both of those things could not be said.
+He read it over once by the lamp. It was all true, and it was not all of what was true. He was not sure he had ever written a letter in his life of which both of those things could not be said.
 
 ---
 
@@ -232,23 +232,23 @@ Lira had not let him do anything on Monday but sit on the low wall in the grey h
 
 "Why me?"
 
-"Not to win." Vell set the cup down. "You've won three of seven in this book now, and two of them inside a week. Every one of them, you watched first, and found the thing, and the thing was there. I'd like to know what you do when it isn't. When there's nothing to find, or you can't find it fast enough to use." She looked at Lira. "She's quick. She's quicker than anything you've stood across from. And she's fair. She won't hurt you for the pleasure of it, and she won't make it easy for the pleasure of it either."
+"Not to win." Vell set down her tea. "You've won three of seven in this book now, and two of them inside a week. Every one of them, you watched first, and found the thing, and the thing was there. I'd like to know what you do when it isn't. When there's nothing to find, or you can't find it fast enough to use." She looked at Lira. "She's quick. She's quicker than anything you've stood across from. And she's fair. She won't hurt you for the pleasure of it, and she won't make it easy for the pleasure of it either."
 
 Lira was looking at Vell with her arms folded. "Survivable?"
 
 It was not quite a question to Vell. It was the question Lira had promised to ask, on the first morning of the six weeks, by the post.
 
-Vell considered her for a long moment, and seemed to understand exactly what it was.
+Vell considered her, and seemed to understand exactly what it was.
 
 "Survivable. If he's sensible. And if you've taught him to fall."
 
-Lira looked at Cael, and he looked back and saw her weigh it, the way she weighed a bout between exchanges, quickly and completely, and not like the answer she came to.
+Lira looked at Cael, and he looked back and saw her weigh it, as she weighed a bout between exchanges, and not like the answer she came to.
 
 "He'll be sensible," she said. "I'll see to the falling."
 
 Vell picked up her pen.
 
-"She's on this afternoon, as it happens. Third bout." She was writing. "And Thursday. Watch her both times." She did not look up. "I'd watch her with both eyes. I don't think it'll help you much. But I'd like to see what you write."
+"She's on this afternoon, as it happens. Third bout." She was writing. "And Thursday. Watch her both times. I'd watch her with both eyes. I don't think it'll help you much. But I'd like to see what you write."
 
 ---
 
@@ -288,4 +288,4 @@ Lira had come up beside him at some point and was standing very close, with her 
 
 "And then you'll find out what you do when you've got nothing to look up." She bumped his shoulder very gently. "And I'll teach you to fall properly before then. Because you're going to."
 
-On Thursday he watched Sarel again, against a Copper 4 Stone, and got one more line. *She doesn't look at you. She looks at the space next to you, where you're going to be.* He looked at the line for a long time on the low wall by the pump afterward, with the cold coming down, knowing it was true and not knowing what to do with it. Then he turned the page and wrote at the top of a clean one, *Sarel. Bronze Rank 1, Blade.* Under it there was nothing at all, and he left it like that, because nothing at all was the honest entry.
+On Thursday he watched Sarel again, against a Copper 4 Stone, and got one more line. *She doesn't look at you. She looks at the space next to you, where you're going to be.* He sat over the line on the low wall by the pump afterward, with the cold coming down, knowing it was true and not knowing what to do with it. Then he turned the page and wrote at the top of a clean one, *Sarel. Bronze Rank 1, Blade.* Under it there was nothing at all, and he left it like that, because nothing at all was the honest entry.
