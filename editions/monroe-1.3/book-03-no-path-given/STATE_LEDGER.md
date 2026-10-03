@@ -1179,3 +1179,9 @@ Movement 5 CLOSED 2026-10-02 after repair r1 and three recheck line fixes (ch32 
 - **The faceless cover's spine:** "an article of a charter, and a schedule, as amended".
 
 ### BOOK 3 DRAFT COMPLETE — ch1–61 closed movement by movement; book-completion pass under way (state/completion/COMPLETION-PLAN.md).
+
+### Book-level canon confirmed by the whole-arc read (2026-10-02)
+- Cael's registry name and number: "Caelen Hesk-ward, 41-7843-V".
+- Hobb partnered the sittings D1, D2, D4, D6, D7 (five); before D6 he had sat three.
+- The heat-Paths instructor: thirty years.
+- Every quoted line now has a first occurrence (ch11 "at the end of the month"; ch22 the binder line "*Something behind my eyes looks at people like a hand looks at bread.*").
