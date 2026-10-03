@@ -2,11 +2,11 @@
 
 The Path taxonomy lecture met on the ground floor of the lecture wing, in a room full of thirteen-year-olds.
 
-Cael had chosen it off the schedule on purpose. It was listed as an introductory block, open to observers and first-years. He wanted to hear how Greyvane explained the whole system to someone meeting it fresh, because he had learned it the way most children in the Outer District learned it, in scraps from adults who were busy and later from books he read standing up in other people's shops. He had never once heard it taught from the beginning by someone whose job was to get it right. He had not quite pictured what that would mean. Twenty-two children turned on their benches when he came in, and twenty-two pairs of eyes went to his height and his face and the tag on his coat and back to his face with a new question in them. He was two years older than the oldest of them and a head taller than most. He took the bench at the very back, set the binder on his knees, and tried to look like furniture.
+Cael had chosen it off the schedule on purpose. It was listed as an introductory block, open to observers and first-years. He wanted to hear how Greyvane explained the whole system to someone meeting it fresh, because he had learned it as most children in the Outer District did, in scraps from adults who were busy and later from books he read standing up in other people's shops. He had never once heard it taught from the beginning by someone whose job was to get it right. He had not quite pictured what that would mean. Twenty-two children turned on their benches when he came in, and twenty-two pairs of eyes went to his height and his face and the tag on his coat and back to his face with a new question in them. He was two years older than the oldest of them and a head taller than most. He took the bench at the very back, set the binder on his knees, and tried to look like furniture.
 
 It did not work for about a quarter of an hour.
 
-The girl from the assessment board sat in the second row with her slate. She turned around twice to look at him, the second time with open interest, and when he caught her eye she gave him a small, serious nod, as if they had an understanding. He nodded back, and she seemed satisfied and faced the front.
+The girl from the assessment board sat in the second row with her slate. She turned around twice to look at him, the second time with open interest, and when he caught her eye she gave him a small, serious nod. He nodded back, and she seemed satisfied and faced the front.
 
 The instructor was a soft-voiced man in his fifties with ink on his cuffs, and he called the roll from a list. Cael heard the girl answer to "Oona," and she said "Here" as if she were confirming a fact rather than her presence. His own name came last.
 
@@ -38,7 +38,7 @@ A dozen hands went up. "Ten," said a boy near the front, without waiting.
 
 "Nobody living. And Void is a word in stories. You may write it down, but you will not be tested on it."
 
-Cael wrote in two columns, the way he had started doing in Ardenmere without ever quite deciding to, what was being taught on the left and what the teaching assumed on the right. On the left: *Ten ranks per tier. Rank Ten is the threshold. Advancement needs rank and a station evaluation, both. Most adults plateau in Copper.* On the right: *Assumes an Arbiter. Assumes a station that will evaluate you. Assumes your Path is on the chart.*
+Cael kept two columns, a habit Ardenmere had given him before he noticed he had it: on the left the thing being taught, and on the right whatever the teaching took for granted. On the left: *Ten ranks per tier. Rank Ten is the threshold. Advancement needs rank and a station evaluation, both. Most adults plateau in Copper.* On the right: *Assumes an Arbiter. Assumes a station that will evaluate you. Assumes your Path is on the chart.*
 
 "And who keeps the list?" the instructor asked the room, and answered himself before anyone could guess. "The registry. Every Kindling in every district in Valdris is entered within the week, and in all its history the registry has never once taken an entry out. It is a ledger that has never closed an account." He let that sit. "The list on this canvas has been changed many times, too, by amendment. When you're older, read the amendments. Every one of them is a confession. It tells you what somebody was afraid of, the year they wrote it."
 
@@ -46,7 +46,7 @@ Cael wrote that on the left, and then on the right, after a while: *Assumes the 
 
 "Declarations," the instructor said a little later, "are how your Arbiter tells you what your Path has given you."
 
-He described them the way Brom had on the road, a header naming the Path and the tier and the rank, an ability's name in brackets, one or two plain sentences saying what it did and how far it reached. He drew the shape of one on the slate board with blank lines where the words would go. Several of the children copied it carefully, as if it were a door whose shape they meant to memorize.
+He described them the way Brom had on the road, a header naming the Path and the tier and the rank, an ability's name in brackets, one or two plain sentences saying what it did and how far it reached. He drew the shape of one on the slate board with blank lines where the words would go. Several of the children copied it carefully.
 
 "Your first declaration comes at Kindling, when your Arbiter gives you your Path and your first ability together. After that, new declarations come as you climb. Not every rank brings one; some do. You'll learn the rhythm of your own Path."
 
@@ -62,7 +62,7 @@ The instructor paused, and the room went quiet in a different way, a listening w
 
 Oona considered that, then wrote something on her slate and underlined it twice.
 
-Cael found that he was thinking of Brom at the midday rest on the road, refusing Lira for the fifth time with perfect calm — *it's more like a receipt* — and of Lira, back in Ardenmere, describing her own first declaration to him because he had asked and she had decided to answer. She had not shown it, only described it, and even that, he understood now, had been a gift he hadn't known enough to recognize. Then he thought of his own notices, which no Arbiter had ever shown him because no Arbiter had ever been there. The rule did not reach him at all; there was no one to keep his notices private from except the people he chose to tell, and he had told two. On the right-hand side he wrote: *Assumes your declarations are given to you by someone.*
+Cael was thinking of Brom at the midday rest on the road, refusing Lira for the fifth time with perfect calm — *it's more like a receipt* — and of Lira, back in Ardenmere, describing her own first declaration to him because he had asked and she had decided to answer. She had not shown it, only described it, and even that, he understood now, had been a gift he hadn't known enough to recognize. Then he thought of his own notices, which no Arbiter had ever shown him because no Arbiter had ever been there. The rule did not reach him at all; there was no one to keep his notices private from except the people he chose to tell, and he had told two. On the right-hand side he wrote: *Assumes your declarations are given to you by someone.*
 
 Near the end of the block the instructor invited questions about the chart, and there were a great many. Could a Path change families? (No.) Could a person have two Paths? (No.) Was it true that Storm and Wind were really the same Path with different tempers? (A long, patient no, with a diagram.) Why was Glass in the same family as Blade, when glass broke? (Because a thing that breaks well still cuts, and the instructor had a story about a broken bottle that he declined to finish.)
 
@@ -88,13 +88,13 @@ He took a moment before he answered, and Cael watched him choose the words.
 
 "It doesn't go anywhere on this chart."
 
-She accepted that the way she seemed to accept most things, by writing it down.
+She accepted that by writing it down.
 
-Cael sat with his pen above the page and wrote nothing for a long moment. His face felt hot, and that surprised him. He had heard the word said aloud before, by officials, by clerks, once by a man in a market square who had meant it as a warning, but he had not expected to hear it in a classroom from a thirteen-year-old, asked as easily as a question about mud, or to hear the instructor answer it with *isn't*.
+Cael sat with his pen above the page and wrote nothing. His face felt hot, and that surprised him. He had heard the word said aloud before, by officials, by clerks, once by a man in a market square who had meant it as a warning, but he had not expected to hear it in a classroom from a thirteen-year-old, asked as easily as a question about mud, or to hear the instructor answer it with *isn't*.
 
 *It isn't a Path.*
 
-He knew that, of course. He had known it since Denvash, and he had a binder full of evidence that whatever he had, it was not a Path in any way this chart would recognize. It still stung to hear it said in a kind voice to children, as if it were the answer to a question about where something had been put away. He made himself write it on the right-hand side in very small letters — *Shattered is not on the chart. Registry matter, not a Path. Said kindly.* — and then the bell was ringing, and he closed the binder, because he did not want to think about it any further just then.
+He knew that, of course. He had known it since Denvash, and he had a binder full of evidence that whatever he had, it was not a Path in any way this chart would recognize. It still stung to hear it said in a kind voice to children. He made himself write it on the right-hand side in very small letters — *Shattered is not on the chart. Registry matter, not a Path. Said kindly.* — and then the bell was ringing, and he closed the binder, because he did not want to think about it any further just then.
 
 The instructor stopped by his bench on the way out and glanced at the open page without any pretense of not reading it.
 
@@ -128,11 +128,11 @@ He had known since orientation that she was on the track; he had not, until that
 
 "Did you Kindle late? My mother says some people Kindle late."
 
-He thought about how to answer. He did not want to lie to her, and he found, rather to his surprise, that he cared a great deal about not lying to her.
+He thought about how to answer. He did not want to lie to her, and, rather to his surprise, he cared a great deal about not lying to her.
 
 "It's complicated."
 
-She weighed that answer with the same seriousness she had given the instructor's. "That's what grown-ups say when they don't want to tell you."
+She weighed that answer. "That's what grown-ups say when they don't want to tell you."
 
 "Sometimes it's what they say when it's actually complicated."
 
@@ -140,7 +140,7 @@ She weighed that answer with the same seriousness she had given the instructor's
 
 "You wait and see if they ever tell you."
 
-Oona thought about it, and seemed to find it fair, and nodded once.
+Oona seemed to find that fair.
 
 "I Kindle in winter. I'll be fourteen. Then I won't be an observer anymore." She said it as if announcing the date of a journey. "Will you still be one?"
 
@@ -154,9 +154,9 @@ His first supervised session fell at the fifth bell that afternoon. At the desk 
 
 "No."
 
-He set his bag against the wall, and it turned out to be a strange hour. He ran the Wind framework against an imagined count, moving through the evasion patterns at half pace and then full pace, reading strikes off a body that was not there. It was harder than it should have been, because the framework did not like empty air: it was built to read an opponent, and without one he had to supply each strike himself out of his own expectations, so that none of them ever surprised him. He did the conditioning circuits Lira had built him in Ardenmere, legs and core and the slow shoulder work that kept the Reydan joint from stiffening. He tried the surface read and found, as he had known he would, that it had nothing to do. Iron-adjacent needed a body within a few paces, someone whose weight was about to move, and alone it was a sense with nothing to sense.
+He set his bag against the wall, and it turned out to be a strange hour. He ran the Wind framework against an imagined count, moving through the evasion patterns at half pace and then full pace, reading strikes off a body that was not there. It was harder than it should have been, because the framework did not like empty air: it was built to read an opponent, and without one he had to supply each strike himself out of his own expectations, so that none of them ever surprised him. He did the conditioning circuits Lira had built him in Ardenmere, legs and core and the slow shoulder work that kept the Reydan joint from stiffening. He tried the surface read, and as he had known it would, it had nothing to do. Iron-adjacent needed a body within a few paces, someone whose weight was about to move, and alone it was a sense with nothing to sense.
 
-All the while Quenna stood at the chalk and wrote. He found that he kept shaping the work for her slate, moving a little more cleanly than he needed to, finishing patterns with a flourish he would never have bothered with alone. It took him most of the hour to notice he was doing it and the last ten minutes to stop, and when he stopped and simply worked, she wrote less. It was either coincidence or the most useful thing she had ever told him without saying it.
+All the while Quenna stood at the chalk and wrote. He kept shaping the work for her slate, moving a little more cleanly than he needed to, finishing patterns with a flourish he would never have bothered with alone. It took him most of the hour to notice he was doing it and the last ten minutes to stop, and when he stopped and simply worked, she wrote less. It was either coincidence or the most useful thing she had ever told him without saying it.
 
 At the end of the hour she signed the record of the session, tore off the bottom strip, and gave it to him without looking up.
 
@@ -170,7 +170,7 @@ At the end of the hour she signed the record of the session, tore off the bottom
 
 "Asking costs you nothing. Being seen to have asked, early and often, may be worth a great deal one day." She finally looked at him. "Files get read from the front page. I'd like yours to show you knocked from the start."
 
-He wrote the request that evening at the desk in his narrow room, in his most careful hand — *The undersigned, enrolled under the demonstration provision, requests that a training partner be assigned for supervised sessions, in order that practice may be conducted against a live opponent* — read it over twice, signed it, and left it at the assessors' desk before the eighth bell. He did not expect it to be granted, and he found that he did not mind. A refusal on paper would at least carry a date and a signature, and most of the doors he had ever stood in front of had offered neither.
+He wrote the request that evening at the desk in his narrow room, in his most careful hand — *The undersigned, enrolled under the demonstration provision, requests that a training partner be assigned for supervised sessions, in order that practice may be conducted against a live opponent* — read it over, signed it, and left it at the assessors' desk before the eighth bell. He did not expect it to be granted, and he did not mind. A refusal on paper would at least carry a date and a signature, and most of the doors he had ever stood in front of had offered neither.
 
 ---
 
@@ -178,7 +178,7 @@ On the fourth morning, without meaning to, he watched Lira sign in.
 
 He had come into the training hall early to look at the open-floor roster, and she came in a minute behind him, and he saw her before she saw him. There were two lines at the floor desk. The standard line ran from the near end, where a clerk sat with the big roster and a stamp. The other began at the far end of the same desk, past a small wooden marker, with its own sheet and its own clerk, who did nothing but wait for the few names that belonged there.
 
-Lira went to the far end, and what stayed with him afterward was how well she did it. She did not glance at the standard line or hesitate at the fork. She walked past the marker as if it weren't there, signed her name, took the slip that would need an assessor's initials before the day was out, and turned toward the floor with her chin level and her stride unbroken, and if he had not known her he would have thought the whole business meant nothing to her at all. He knew her. He saw her shoulders, a half-second after she passed the desk, come down by about an inch. It was perfect, and it was also labor, and he did not say anything.
+Lira went to the far end, and what stayed with him afterward was how well she did it. She did not glance at the standard line or hesitate at the fork. She went straight past the marker and wrote her name, and the slip she took from the clerk would need an assessor's initials before the day was out; then she turned toward the floor with her chin level and her stride unbroken, and if he had not known her he would have thought the whole business meant nothing to her at all. He knew her. He saw her shoulders, a half-second after she passed the desk, come down by about an inch. It was perfect, and it was also labor, and he did not say anything.
 
 There was one other person at the far end of the desk, a woman of perhaps twenty, tall and narrow-shouldered, with ash-pale hair cut short and a training coat patched at both elbows. She signed in after Lira and said something as Lira passed her, and Lira stopped. Cael could not hear them from the roster, but he could read the shape of the minute that followed: the older woman pointing at the slip in Lira's hand, Lira looking down at it and back up, a short dry exchange, Lira almost laughing. When she came over to him she was still half smiling.
 
@@ -200,7 +200,7 @@ At the second bell he went to hear Wray teach the ceiling. He had found the bloc
 
 "You're a first-year," Cael said, sliding in beside him.
 
-"I asked." Brom did not look up. "She said I could sit in as long as I kept my mouth shut until the end."
+"I asked. She said I could sit in as long as I kept my mouth shut until the end."
 
 "Are you going to?"
 
@@ -216,9 +216,9 @@ A Shield girl near the front raised her hand. "Is it the same ceiling for every 
 
 Cael glanced sideways. Brom's jaw had set, and his pen had stopped moving. Wray laid down the chalk.
 
-"There is a first-year sitting in the back of this room," she said, in exactly the same voice she had used for the curve, "who believes the flat part of this line is not real."
+"There is a first-year sitting in the back of this room," she said, in the same voice she had used for the curve, "who believes the flat part of this line is not real."
 
-Twenty heads turned, and Brom went very still.
+Twenty heads turned, and Brom did not move.
 
 "He believes the curve flattens because the people on it believe it will, and stop pushing. He says he has spent two years past where the ceiling ought to be, on his own, without anyone to tell him it was there, and that his form has kept improving every month." She looked at Brom down the length of the room without any expression at all. "I have told him to prove it on the floor. If he does, I will stand here and tell you I was wrong, and I will redraw this line."
 
@@ -258,11 +258,11 @@ He found Lira again at the notice board that afternoon, arms crossed before the 
 
 She left after that, toward the yard and the floor and the work she trusted more than any board, and Cael stayed a moment longer looking at the dot beside her name. He had been wrong about something, he thought. On the road he had assumed that his own door would be the hard one, the blank board and the borrowed category, and he had braced himself for being the complicated case. He had not thought much at all about what it would cost Lira to walk every single morning through a door that was simple on its face and marked on the inside.
 
-The notice was under his own door when he came back from supper, a single folded sheet slid in flat across the boards with no envelope and no seal, delivered with exactly the ceremony of a laundry list. He unfolded it standing in the doorway with one hand still on the latch.
+The notice was under his own door when he came back from supper, a single folded sheet slid in flat across the boards with no envelope and no seal, delivered with all the ceremony of a laundry list. He unfolded it standing in the doorway with one hand still on the latch.
 
 *Demonstration Assessment. Unclassified Observer Track. First sitting. Training hall, first bell, the eighth day. Closed session. Demonstration at the candidate's own election.*
 
-He read it twice. He had seen the date on the public board already, and had known it was coming, but there was a difference between a line on a board in the hall and a sheet of paper on his own floor with his own name at the top, and the difference went through him like cold water. The post had gone down the hill yesterday, and the brown envelope with it, in the same bag as his letter to Hesk. It was somewhere on a road now, getting farther away every hour, toward a desk he would never see. This sheet was the other half of the same thing. Not the signature, not the category, not the hollow circle — all of that only held a door open. This was the first time anyone would walk through the door and look at what was on the other side. It would be written down, and he could no longer be sure that anything written down about him would stay inside this building.
+He had seen the date on the public board already, and had known it was coming, but there was a difference between a line on a board in the hall and a sheet of paper on his own floor with his own name at the top, and the difference went through him like cold water. The post had gone down the hill yesterday, and the brown envelope with it, in the same bag as his letter to Hesk. It was somewhere on a road now, getting farther away every hour, toward a desk he would never see. This sheet was the other half of the same thing. Not the signature, not the category, not the hollow circle — all of that only held a door open. This was the first time anyone would walk through the door and look at what was on the other side. It would be written down, and he could no longer be sure that anything written down about him would stay inside this building.
 
 Four mornings, then, to choose what they would see.
 

@@ -6,9 +6,9 @@ He had not done that since the road. He read it often, but always forward, from 
 
 He knew every page, because he had written every one, but he had never once read them in this direction, looking for this one thing, and he found it on every page he looked at.
 
-Wind-adjacent was first, and Lira's. Before that fragment came there had been months of morning sparring in Ardenmere, back when neither of them could pay for better, and through all of them he had given her the whole of his attention, because attention was the one thing he had more of than she did. He had written at the time, under Integration, that he did not know where it had come from. Reading it now from the back he could see exactly where it had come from: a hundred mornings of watching one person turn out of a strike.
+Wind-adjacent was first, and Lira's. Before that fragment came there had been months of morning sparring in Ardenmere, back when neither of them could pay for better, and through all of them he had given her the whole of his attention, because attention was the one thing he had more of than she did. He had written at the time, under Integration, that he did not know where it had come from. Reading it now from the back he could see where it had come from: a hundred mornings of watching one person turn out of a strike.
 
-Pressure-adjacent was second, and Feryn's. He had studied Feryn for six days before the bout, mapped him, filled pages with him, gone to sleep thinking about the way his hands moved and woken up thinking about it, and he had lost anyway, fairly, and afterward the redirect had been in him.
+Pressure-adjacent was second, and Feryn's. He had studied Feryn for six days before the bout, mapped him, filled pages with him, gone to sleep thinking about how his hands moved and woken up thinking about it, and he had lost anyway, fairly, and afterward the redirect had been in him.
 
 Iron-adjacent was third, and Brom's, and it had come after weeks of sessions in which learning how Brom's body read force had been, in plain fact, the thing they were there to do. Watching Brom had been the assignment.
 
@@ -18,7 +18,7 @@ Under every one of the four, in the column headed Integration, he had written th
 
 Behind the four sections sat the page for session nine. He turned past it without stopping, as he always did, and added nothing to it.
 
-He sat with the binder open on his knees and the lamp hissing and the pattern lying on the pages in front of him, so plain that he could not understand how he had never once seen it. Then he understood exactly why. He had been living inside the entries instead of holding them at arm's length, writing every one of them on the day it happened and never once stepping back far enough to see them as a row. Karis had stepped back far enough. She had done it from the outside, without the binder, without any of it.
+He sat with the binder open on his knees and the lamp hissing and the pattern lying on the pages in front of him, so plain that he could not understand how he had never once seen it. Then he understood why. He had been living inside the entries instead of holding them at arm's length, writing every one of them on the day it happened and never once stepping back far enough to see them as a row. Karis had stepped back far enough. She had done it from the outside, without the binder, without any of it.
 
 ---
 
@@ -38,7 +38,7 @@ Then it had been closer to hunger. Call it appetite. Something in him had looked
 
 Cael did not move.
 
-So nothing had been happening to him. All along it had been his own doing, and he had never once known. That did not make it gentler. It made it harder, the way a careless habit you never caught yourself in is harder to forgive than an accident no one could have prevented.
+So nothing had been happening to him. All along it had been his own doing, and he had never once known. That did not make it gentler. It made it harder, just as a careless habit you never caught yourself in is harder to forgive than an accident no one could have prevented.
 
 He did not sleep until the lamp gave out. When he did, it was dreamless, or nothing he could keep, and he woke with his right side aching and the binder still lying open on the blanket. The last page he had looked at was the very first he had ever written.
 
@@ -46,11 +46,11 @@ He did not sleep until the lamp gave out. When he did, it was dreamless, or noth
 
 The Thursday session was at the fifth bell. He went to section four at the fourth.
 
-Karis was already there, setting out her stool and her two pens on the boards behind the chalk line. Quenna was not yet in, and the section was empty, the grey light from the high windows lying across the boards and across the oak post in its iron foot, still wrapped in the felt from Tuesday. Karis looked up when he came in, at his face once and then at his hands and then back at his face, and he saw her take in whatever she saw there and set it down somewhere, the way she set down a timing.
+Karis was already there, setting out her stool and her two pens on the boards behind the chalk line. Quenna was not yet in, and the section was empty, the grey light from the high windows lying across the boards and across the oak post in its iron foot, still wrapped in the felt from Tuesday. Karis looked up when he came in, at his face once and then at his hands and then back at his face, and he saw her take in whatever she saw there and set it down somewhere, as she set down a timing.
 
 "Clause four," he said.
 
-He had not known until he heard himself say it that it was the clause he had come to say. He had come down early meaning to tell her he was well enough, that they could work, that nothing had changed, and all three would have been lies. He had promised Oona he would not lie to her and had not promised Karis anything of the kind, and he found that it made no difference at all.
+He had not known until he heard himself say it that it was the clause he had come to say. He had come down early meaning to tell her he was well enough, that they could work, that nothing had changed, and all three would have been lies. He had promised Oona he would not lie to her and had not promised Karis anything of the kind, and it made no difference at all.
 
 "Not today."
 
@@ -76,9 +76,9 @@ She came down the long room with her slate under her arm and a rolled sheet of p
 
 He looked at the chart. Then he looked at her, and stopped.
 
-She was standing very close, with her hands flat on the paper the way Karis put her hands flat on a table and her face turned up to his, waiting. Before the winter was out she would walk down the hill to the grey building on the corner, and an Arbiter would come for her, and she would have a Path and a rank and her first declaration and everything that came after. She would stand on a floor somewhere and use it with her whole attention while people watched.
+She was standing very close, with her hands flat on the paper and her face turned up to his, waiting. Before the winter was out she would walk down the hill to the grey building on the corner, and an Arbiter would come for her, and she would have a Path and a rank and her first declaration and everything that came after. She would stand on a floor somewhere and use it with her whole attention while people watched.
 
-He found that he could not look at her.
+He could not look at her.
 
 It took him a moment to understand why, and when he did it went through him cold. He was frightened of looking at a thirteen-year-old girl, frightened that some part of him behind his eyes would look at her the way it had looked at Lira in a sparring circle, and wait, and remember.
 
@@ -90,11 +90,11 @@ He sat very still at the scarred table with that, and hated it, and could not ma
 
 "I'm looking at the chart."
 
-"You're looking at the table." She frowned at him with her whole face. "You always look at people. You looked at Hobb for a whole sitting. Lira says you look at people like they're a book you're going to have to give back." She considered him. "Did I do something?"
+"You're looking at the table." She frowned at him. "You always look at people. You looked at Hobb for a whole sitting. Lira says you look at people like they're a book you're going to have to give back." She considered him. "Did I do something?"
 
 "No." He made himself raise his eyes and look at her, at the small serious face and the slate and the chalk on her fingers, and it was only Oona, and nothing in him moved at all. "No. You didn't do anything. I'm having a bad day. It's mine, not yours."
 
-She weighed that, as she weighed everything.
+She weighed that.
 
 "Is it a true one? Or a grown-up one?"
 
@@ -130,7 +130,7 @@ At the end of the block the instructor asked the room a question, as she seemed 
 
 "If you learn something about another person's Path by watching them, closely, for a long time, without their knowing you're doing it. Have you read their declaration?"
 
-Most of the room said no and a few said yes, and one boy near the front said it depended on what you did with it afterward, and the instructor said that was the right answer, and the bell rang. Cael sat on the back bench with his pen in his hand for some time after the room had emptied.
+Most of the room said no and a few said yes, and one boy near the front said it depended on what you did with it afterward, and the instructor said that was the right answer, and the bell rang. Cael sat on the back bench with his pen in his hand after the room had emptied.
 
 At the fourth bell he went to the rail of the open floor, because that was where he went at the fourth bell. He realized, standing at it with his forearms on the cold wood and the binder unopened under his arm, that he did not know what he was doing there.
 
@@ -150,7 +150,7 @@ He could not tell.
 
 That was the whole of it. He stood at the rail and looked at the Glass pair, and he could not tell. Watching was the oldest thing he did. He had done it before he had ever heard of Paths or fragments or the registry, had watched Hesk's hands at the workbench and the street outside Hesk's door and every person who had ever stood across a circle from him, and it was how he had learned everything he knew. It was the one thing he had always been sure belonged to him, and now he could not look at a pair of third-years running sequences without wondering whether some part of him behind his eyes was sitting down to eat.
 
-He made himself look away, at Gerda instead, at the Ash haze and the first-year moving slowly through it, and then understood that he was looking at Ash now with the same eyes and could not tell whether that was better. He looked down at the rail, at his own hands on the cold wood, and found that his own hands were the only safe thing in the hall to look at, and kept looking at them.
+He made himself look away, at Gerda instead, at the Ash haze and the first-year moving slowly through it, and then understood that he was looking at Ash now with the same eyes and could not tell whether that was better. He looked down at the rail, at his own hands on the cold wood, the only safe thing in the hall to look at, and kept looking at them.
 
 That was where Brom found him.
 
@@ -164,7 +164,7 @@ He had come up off the defensive floor still in his training clothes, chalked to
 
 "When I watch now, I can't tell what I'm doing." Cael said it to his own knuckles. "That's the honest answer. Maybe I never knew."
 
-Brom took that and went over it slowly, the way he took everything. Cael could almost feel him walk round it, as he would walk round a stance to find which foot the weight was really on.
+Brom took that and went over it slowly. Cael could almost feel him walk round it, as he would walk round a stance to find which foot the weight was really on.
 
 "You watched me like a man doing accounts. Ardenmere, that first month. I knew it. Anyone who's ever faced you in a circle knows it. It's the worst-kept secret you've got." He moved his arms on the rail. "And because she put a name to it on Wednesday, you think it's turned into a different thing?"
 
@@ -192,7 +192,7 @@ Off he went along the rail toward the residence wing, number sheet sticking out 
 
 *You supplied that part yourself.*
 
-He opened the binder on the rail and wrote the sentence down exactly, word for word, because it was true and he had not seen it. Under it, smaller, he wrote the other sentence too, the one that had come to him before Brom arrived, because the binder was the one place he did not let himself off: *Something behind my eyes looks at people like a hand looks at bread.* That was what the binder was for. It lived in the gap between a thing being true and his noticing.
+He opened the binder against the rail and copied Brom's sentence into it, every word, since it was true and he had walked straight past it. Under it, smaller, he wrote the other sentence too, the one that had come to him before Brom arrived, because the binder was the one place he did not let himself off: *Something behind my eyes looks at people like a hand looks at bread.* That was what the binder was for. It lived in the gap between a thing being true and his noticing.
 
 The question was not closed, and he knew it before the ink was dry. Brom had cut it down to its honest size, and its honest size was still large. It was large enough to hold four fragments from four people, and not one of them had been asked: Lira, Feryn, Brom, Reydan. Whatever he had meant, and he had meant nothing at all because he had not known, their four names were still written at the front of the binder beside four sections. Brom was right that intent made all the difference. But intent could only begin now. It could not walk back into a sparring circle in Ardenmere and tell a boy watching a girl turn out of a strike to stop and ask her first.
 
@@ -202,6 +202,6 @@ Two days, and Lira had asked him nothing. On Wednesday night in the stable she h
 
 She was waiting all the same. He knew it as surely as he knew the bells.
 
-Of everyone in the world, this was hers first. It was hers before it was Brom's, because her name was the first one at the front of the binder. It was hers before it was Karis's, because Karis had only ever seen the outside of it. It was perhaps hers even before it was his. Over a long time of turning toward hard things instead of away from them, he had learned that a load carried alone only gets heavier for whoever happens to be standing there when it is finally set down.
+Of everyone in the world, this was hers first. It was hers before it was Brom's, because her name was the first one at the front of the binder. It was hers before it was Karis's, because Karis had only ever seen the outside of it. It was perhaps hers even before it was his. From turning toward hard things instead of away from them, again and again, he had learned that a load carried alone only gets heavier for whoever happens to be standing there when it is finally set down.
 
 He pushed open the residence wing door and went out into the cold.

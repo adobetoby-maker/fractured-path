@@ -334,7 +334,7 @@ He did not say more, and Cael did not push.
 
 Cael opened his notebook and wrote *Ardenmere*, and under it *Unranked District. Large. No gate*, and under that *Hesk knows things about this he hasn't said.* He looked at the last line for a moment and then crossed it out, because it was not untrue, but written down it looked like an accusation, and he did not mean it as one. It was a note to himself: there was more to find out, and he could find some of it without Hesk.
 
-When he looked up, Hesk was watching him write, with a look that was part pride and part worry, wound so tightly together that there was no point trying to separate them.
+When he looked up, Hesk was watching him write, with a look that was part pride and part worry, twisted so tightly together that there was no point trying to separate them.
 
 "You're already cataloguing it," Hesk said. "Good. Write all of it, the things that look like nothing too. You can't tell which ones count until afterwards."
 

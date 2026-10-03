@@ -10,7 +10,7 @@ She had chosen her spot on the lecture wing's stair with some care. It was the l
 
 He said yes on the spot, and only afterwards, climbing the rest of the stair, did he see why it had mattered so much that she put it like that.
 
-At some point in the past year he had given up making decisions by himself. He could not have named the day, because nothing had been chosen; it had grown the way his habits grew, out of repetition and without fuss, until one morning he caught sight of its outline and found it had been standing there for months. Karis had been at Greyvane a little over a fortnight, and nobody had told her any of this, but she had seen it anyway.
+At some point in the past year he had given up making decisions by himself. He could not have named the day, because nothing had been chosen; it had crept in by repetition, without fuss, and by the time he saw it whole it was already months old. Karis had been at Greyvane a little over a fortnight, and nobody had told her any of this, but she had seen it anyway.
 
 That night the binder got one more line at the foot of a long entry: *She could have worked on me alone. She asked for the table instead. She knows we have a table, though nobody told her.*
 
@@ -66,7 +66,7 @@ She let it stand there, unpadded.
 
 "I've wanted it since late last winter, when a lecturer at Ternhall made a joke about a boy on the Ardenmere circuit, and there hasn't been a day since that I stopped. If I sat here and told you otherwise, you'd hear the lie before I'd finished the sentence, and I don't think a lie would buy me anything I'd want to keep." She took a breath. "What the three of you have, I'm not asking for. I know I haven't got it; I've never stood in a ring for any of you, and nobody here owes me a thing."
 
-Her glance went to Cael for a moment, then to the binder shut beside his elbow, and came away again.
+Her glance went to Cael, then to the binder shut beside his elbow, and came away again.
 
 "I've seen him writing in that at the rail every day for a week, and I've seen how you two look at it while he does. I don't know what's in it, and I don't need to know. It's plain enough that whatever you are to each other, that's where it's kept." Lira's folded arms drew a fraction tighter. They stayed folded. "So what I'm after is a way from where I am to where you are. Not as a gift, but as a road: you set the terms, I walk it, and the day I stop deserving to be on it, I'm off."
 
@@ -120,7 +120,7 @@ The binder was the first real fight, and Karis was the one who started it. She c
 
 "Because it isn't research," said Lira. "Not to us. Back when nobody else would tell us the truth, the three of us told it to each other, and that's what's in there. You can study what he does, if he lets you. How we got here isn't yours to read."
 
-Karis gave that the same flat, unblinking attention Cael had watched her give a timing that came out wrong. Then she nodded.
+Karis considered that. Then she nodded.
 
 "That's fair. I take the question back, and I won't ask it again."
 
@@ -132,7 +132,7 @@ After that the clauses came quicker. Everyone had found out by then what they we
 
 Lira looked faintly cheated at being agreed with so fast, and wrote the *2* hard enough to dent the paper.
 
-The third clause was Cael's, and nobody else had seen it coming, because only a long time of watching institutions teaches a person that agreements seldom fail on the day they are made and nearly always fail on the day they are over.
+The third clause was Cael's, and nobody else had seen it coming, because only years of watching institutions teach a person that agreements seldom fail on the day they are made and nearly always fail on the day they are over.
 
 "Say it stops," he said. "Doesn't matter which of us stops it. Where do the notes go?"
 
@@ -148,7 +148,7 @@ Karis glanced at the draft and then at Brom and reached for the pen, and Brom la
 
 "Mine. I'll write it."
 
-He wrote it in square capitals so large that it filled three lines where her hand would have used one: *4. He can say no to any one session without saying no to all of them. No reasons.* Then he pushed the paper back across. Nobody argued, Karis least of all. She read it twice and said, "Yours is better than mine would have been."
+He wrote it in square capitals so large that it filled three lines where her hand would have used one: *4. He can say no to any one session without saying no to all of them. No reasons.* Then he pushed the paper back across. Nobody argued, Karis least of all. She read it and said, "Yours is better than mine would have been."
 
 Five and six fitted together like the two leaves of a hinge. Lira wanted nothing written that said *how*. Karis pointed out that from outside she could never see how anyway, so the promise would cost her nothing, and then corrected herself.
 
@@ -160,7 +160,7 @@ Five and six fitted together like the two leaves of a hinge. Lira wanted nothing
 
 The seventh was the one she had offered in the archive, set down word for word as she had said it there: either of them could end it with a single word, give no reason, and suffer no penalty.
 
-Then she read the whole page out, start to finish, and then again more slowly, the way Cael supposed she went back over a result before she let herself believe it. She signed at the foot in a firm, level hand that looked older than sixteen. Cael signed under her. Lira and Brom signed under him as witnesses, Lira in a quick leaning scrawl and Brom in his square capitals, and for a moment the four names lay together at the bottom of the sheet in four different hands.
+Then she read the whole page out, start to finish, and then again more slowly. She signed at the foot in a firm, level hand that looked older than sixteen. Cael signed under her. Lira and Brom signed under him as witnesses, Lira in a quick leaning scrawl and Brom in his square capitals, and the four names lay together at the bottom of the sheet in four different hands.
 
 ---
 
@@ -180,18 +180,18 @@ Karis leaned to see. "Thirteen."
 
 "I believed it a fourth time at fourteen," said Karis. "It's in the next volume. Page sixty."
 
-Lira's mouth twitched. She closed the notebook and set it back on the stack exactly where it had been.
+Lira's mouth twitched. She closed the notebook and slid it back into the middle of the pile.
 
 "There's one more thing," Karis said.
 
-She took a blank card from the folder. She did not look at anyone while she wrote; she looked only at the card, and she wrote slowly, from memory, every line exactly, as a person copies out something she has read so many times that she no longer needs to see it. When she had finished she sat back and turned the card around on the table so that it faced the three of them.
+She took a blank card from the folder. She did not look at anyone while she wrote; she looked only at the card, and she wrote slowly, from memory, every line exactly. When she had finished she sat back and turned the card around on the table so that it faced the three of them.
 
 ```
 PATH DECLARATION — IRON RANK 3
 [Drawn Channel] — Active. Join two of your standing ignition points with a line of heat along any surface between them, up to eight paces in length. The channel holds while both points hold. If either point fails, the channel fails with it.
 ```
 
-It was a declaration, the real thing, in the form Brom had described on the road and the taxonomy instructor had drawn on his board with blank lines where the words should go. It had a header naming the tier and the rank, an ability's name in brackets, and two or three plain sentences saying exactly what the ability did and exactly where it stopped. Nobody at the table said anything.
+It was a declaration, the real thing, in the form Brom had described on the road and the taxonomy instructor had drawn on his board with blank lines where the words should go. It had a header naming the tier and the rank, an ability's name in brackets, and two or three plain sentences saying what the ability did and where it stopped. Nobody at the table said anything.
 
 "It's the one I received at Iron Three," Karis said. Her voice was quite level, but she had put both hands flat on the table, and Cael saw that she was pressing them there. "It's the newest. You can't see what he has, and I won't see it. That's agreed and it's right. But it seemed wrong for only one side of this table to be read." She paused. "I've shown it to one other person before."
 
@@ -199,9 +199,9 @@ She did not say who, and none of them asked.
 
 Brom was very still. Cael knew that Brom had never shown his declarations to anyone, not to his family and not to Lira, who had asked him five times on the road. Lira was looking at the card with an odd expression, and he remembered that she had once described her own first declaration to him, in Ardenmere, because he had asked, and had never shown it. He understood now what even the describing had cost her.
 
-He read the card a second time and set it beside his own notices in his head, the way Brom had set them side by side on the road.
+He set the card beside his own notices in his head, as Brom had once set them side by side on the road.
 
-A declaration was a receipt. It told the person who held it exactly what they had been given and exactly where it ended. *The channel holds while both points hold.* His notices told him nothing of the kind. They were more like a note left on a table by someone who had been in the room and gone, and he had spent a long time learning the edges of each one by walking into them.
+A declaration was a receipt. It told the person who held it exactly what they had been given and exactly where it ended. *The channel holds while both points hold.* His notices told him nothing of the kind. They were more like a note left on a table by someone who had been in the room and gone, and he had learned the edges of each one by walking into them.
 
 He had always thought of that as the worse arrangement. Looking at the card, he was no longer entirely sure. A receipt also told you exactly where you stopped.
 
@@ -227,7 +227,7 @@ Karis untied the second bundle without a word, went down the spines with one fin
 
 Brom took the notebook in both hands, as if it were something that might spill.
 
-He read it in the stable by the dying fire until the eighth bell, while the tile players packed up and went and the two of them sat on at the scarred table, and when the bell rang he closed it and sat looking at the cover for a while.
+He read it in the stable by the dying fire until the eighth bell, while the tile players packed up and went and the two of them sat on at the scarred table, and when the bell rang he closed it and sat looking at the cover.
 
 "Well?" said Cael.
 

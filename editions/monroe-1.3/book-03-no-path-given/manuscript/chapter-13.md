@@ -16,7 +16,7 @@ Then a person looked at it, and it moved from the bottom of a long pile to the t
 
 ---
 
-The folder lay shut under Coss's flat hands. He had read what was in it three times before he let himself close it: once for what it said, once for how it said it, and once more from the beginning, slowly, as though the name in it were new to him. A monitoring assignment that turns up next to nothing, season after season, teaches a man to keep a careful distance between the words on a page and the words he would like to find there.
+The folder lay shut under Coss's flat hands. He had read what was in it three times before he let himself close it: once for what it said, once for how it said it, and once more from the beginning, slowly. A monitoring assignment that turns up next to nothing, season after season, teaches a man to keep a careful distance between the words on a page and the words he would like to find there.
 
 *Notice of index correspondence. Subject: Cael. Event: enrollment, chartered institution. Institution: Greyvane Academy. Category of enrollment: unclassified observer, demonstration provision. Notation entered.*
 
@@ -32,7 +32,7 @@ The district office was narrow, with one window on an alley, and he had worked f
 
 What had changed was not a matter of feeling. It was a matter of jurisdiction, and he made himself put it to himself in those words, because they were the words his reports would need.
 
-A boy with a strange word in his registry entry, living quietly in some unranked district or fighting on an open circuit that no one held a charter for, was a thing to be watched. Coss could watch him, and report, and do nothing else. For a long while he had done exactly that and nothing else, and done it honestly.
+A boy with a strange word in his registry entry, living quietly in some unranked district or fighting on an open circuit that no one held a charter for, was a thing to be watched. Coss could watch him, and report, and do nothing else. For years he had done that and nothing else, and done it honestly.
 
 Put the same boy's name on the roll of an academy chartered by the Compact, and he was something different. The day that line went into the regional book, the boy had stepped off ground where a Warden could only look, onto ground where a Warden's writ could bite.
 
@@ -52,13 +52,13 @@ That evening he wrote out the request for assignment, in the flat language the f
 
 It came back approved within the day.
 
-He read the approval standing at the window of the district office with his coat still on, and he read it twice, because the speed of it was information.
+He read the approval standing at the window of the district office with his coat still on, and he read it slowly, because the speed of it was information.
 
 A request of that kind usually took a week to come back and often three, climbing a ladder of desks that each had to initial it. This one had come back faster than the evening coach could reach the regional town and return. It had not climbed a ladder at all. It had gone to one desk, somewhere above his, and the person at that desk had been waiting for it.
 
 For one minute he let himself feel about it as a private man would.
 
-Somewhere above his sight, the file was alive. It had been alive up there for some time, perhaps from the beginning, and in all the seasons of his quarterly reports nobody at that height had ever sent so much as a clarifying question back down.
+Somewhere above his sight, the file was alive. Perhaps it always had been, and in all the seasons of his quarterly reports nobody at that height had once written down to ask him anything.
 
 Someone had been happy to leave the file in his hands alone, for the plain reason that he handled it well. It might have been praise. It might have been convenience. A long career had taught him that, looking up from underneath, there was no telling which.
 
@@ -116,7 +116,7 @@ Coss thought of a line in his own handwriting on the oldest page, and of a boy's
 
 The carter shrugged. "Perhaps. Couldn't say. I only saw the outside." He wiped his bowl with his bread. "That's all any of us see, isn't it."
 
-Coss went up to bed soon after. He did not sleep for some time.
+Coss went up to bed soon after. Sleep was slow to come.
 
 He read every page. On the third night, at a waystation table with a candle that leaned and a supper he did not finish, he came to the oldest page, as he always did last, and stayed on it.
 
@@ -138,13 +138,13 @@ Through all of it the boy had answered every question he was asked, quietly and 
 
 When it was over, he had looked up from the chair and said *Thank you*, as if a man doing his job properly were a courtesy.
 
-Coss had thought about that *thank you* for a long time afterward.
+Coss had thought about that *thank you* often afterward.
 
 He had a daughter at home much the same age. On the long coach back he had found himself imagining her in that chair with her hands pressed white on her knees, and had stopped imagining it because it did not help him do the work. He thought about it again now, at the waystation table, with the candle leaning and the coach horses shifting in the yard outside.
 
 He did not feel sorry for the boy. Sorrow was not his job, and he distrusted it in himself, because a sorry officer made soft reports, and a soft report did no one any good, least of all its subject.
 
-But he had been doing this work for a long time. He had learned that a person could do a hard thing honestly or carelessly, and that the difference mattered more to the person on the other side of the desk than almost anything else in the room.
+But he had been doing this work for years. He had learned that a person could do a hard thing honestly or carelessly, and that the difference mattered more to the person on the other side of the desk than almost anything else in the room.
 
 He meant to do this one honestly. He meant to do it as gently as the procedure allowed and not one degree more gently. A gentler challenge would be a weaker one, and a weak challenge would simply be followed by a stronger one in someone else's hand.
 
@@ -172,11 +172,11 @@ He found, a little to his own surprise, that he did not resent it. A case that h
 
 He put the sheet in the document case, alone, with its two true lines and one crossed-out word.
 
-He closed the file, blew out the leaning candle, and sat for a while in the dark.
+He closed the file, blew out the leaning candle, and sat on in the dark.
 
 In the morning the coach would carry him the rest of the way to the regional office, to a briefing and a packet that did not exist yet. Somewhere beyond that, at a date nobody had set, there was a gate on a hill and a boy behind it who had signed his name under a category everyone at the table must have known was not true.
 
-Coss did not yet know what his challenge would say. He knew exactly whom it would be about. For tonight, that was as much as he needed.
+Coss did not yet know what his challenge would say. He knew whom it would be about. For tonight, that was as much as he needed.
 
 ---
 
@@ -192,7 +192,7 @@ The sheet he turned round on the blotter was heavy, sealed at the head, with a l
 
 "Enrollment documentation, complete." Naveth's long finger travelled down the column. "Citation of the provision. Assessment records to date, with assessors' names." He lifted his eyes. "Careful. That's what they're being. Careful is slow. If they'd been in a hurry, I'd be worried."
 
-Cael read the items again over the provost's knuckles. There were a good many, and the charter obliged the academy to produce every one of them on request. Not a single line was urgent. Cael could not decide whether that was a comfort. Naveth plainly thought it told him more than urgency would have.
+Cael read the items over the provost's knuckles. There were a good many, and the charter obliged the academy to produce every one of them on request. Not a single line was urgent. Cael could not decide whether that was a comfort. Naveth plainly thought it told him more than urgency would have.
 
 "So you'll hand it over."
 
@@ -204,7 +204,7 @@ Cael read the items again over the provost's knuckles. There were a good many, a
 
 "Does it work?"
 
-"It buys time. I've never yet seen it make a determined opponent give up and go home." Naveth took a pad of blank requisition slips from a drawer and squared it. "What it does is take their timetable away from them and hand it to us. That's worth more than it sounds. Rush a defence against a patient prosecutor and you lose nearly every time. When both sides can wait, the fight's at least even."
+"It buys time. I've never yet seen it make a determined opponent give up and go home." Naveth took a pad of blank requisition slips from a drawer. "What it does is take their timetable away from them and hand it to us. That's worth more than it sounds. Rush a defence against a patient prosecutor and you lose nearly every time. When both sides can wait, the fight's at least even."
 
 "And if they're patient as well?"
 
@@ -226,7 +226,7 @@ Before he ever let a strike go, he looked for where a fight was thin; Vell's yar
 
 "You've done this before," Cael said.
 
-Naveth looked up, and his long weathered face warmed for a moment toward fondness. It was the look of a craftsman whose best work has gone unremarked for most of a lifetime, hearing someone remark on it at last.
+Naveth looked up, and his long weathered face warmed toward fondness. It was the look of a craftsman whose best work has gone unremarked for most of a lifetime, hearing someone remark on it at last.
 
 "The way this school takes its students breeds paper quarrels, lad. Families of late Kindlers who argue with the station. Old schools that sit on a re-certification candidate's file. And the big schools, which take it badly when a student chooses poorer floors here for the sake of a better idea." He laid down his pen. "Since before your Kindling I've been dawdling, lawfully, in front of the Compact. It's the skill this place has practised hardest. Yours is merely the first case big enough to call on all of it together."
 
@@ -242,7 +242,7 @@ Karis was crossing the yard as he came out, her notebook under one arm and the b
 
 He told her. Only later did he notice that he had never decided to; it was simply the next thing he did. He told her what the request wanted and how Naveth meant to meet it, the seven days and the final lawful hour.
 
-She heard him out in silence, and stayed quiet for a moment after.
+She heard him out in silence.
 
 "May I write it down?" she said. "Only that an institution has asked for your records, and the date. Nothing about what's in them."
 
@@ -250,7 +250,7 @@ She heard him out in silence, and stayed quiet for a moment after.
 
 "Because it happened to you, and it'll change what I see in the sessions whether I write it or not. You'll move differently for a fortnight. Anybody would." She shifted her grip on the stool. "If I don't put down the real reason, I'll be tempted later to put down some other reason, and the other one will be wrong."
 
-He thought of the sixth clause, and of a struck-through line on her page with its correction written in beside it, and of the plain care in the way she had asked.
+He thought of the sixth clause, and of a struck-through line on her page with its correction written in beside it, and of the plain care in how she had asked.
 
 "Write it," he said.
 

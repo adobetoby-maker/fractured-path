@@ -6,7 +6,7 @@ He put the statute book down while he said it, square to the table's edge, and l
 
 "Karis Dellenmoor," the girl said. "Ember Path. Iron Rank Three. Ternhall, until a week ago."
 
-She gave the rank the way a traveller shows a pass at a toll gate, not to impress the man in the booth but because it was the quickest way through. Her voice did not change for the next part.
+She gave the rank like a traveller showing a pass at a toll gate, not to impress the man in the booth but because it was the quickest way through. Her voice did not change for the next part.
 
 "I came here because you did."
 
@@ -16,7 +16,7 @@ She gave the rank the way a traveller shows a pass at a toll gate, not to impres
 
 He waited.
 
-"I'm not asking you to explain yourself. Not today, and not ever, about anything you'd rather keep." She stood very still, with both hands empty at her sides. "I'm asking whether you'll let me ask."
+"I'm not asking you to explain yourself. Not today, and not ever, about anything you'd rather keep. I'm asking whether you'll let me ask."
 
 There were a great many things he could have said to that. The one that came out was the oldest.
 
@@ -26,13 +26,13 @@ She did not answer quickly, and he watched her think about it, which was differe
 
 "You shouldn't. Not yet." There was no apology in it at all. "Trust is a finding, not a premise. Nobody should start from it because somebody asked nicely. If I get it, I'll get it the way I'd reach any conclusion: by being checked, on small things first. I'll say something you can test, and you'll test it, and I'll be right, and then I'll do it again. Pile up enough of those and they turn into evidence, something you can lean on when the questions get bigger." She paused. "And when I'm wrong, I'll show you the page where I went wrong. Hide one mistake and you poison everything stacked on top of it. Admit it, and the damage stays where it is."
 
-Cael found that he was sitting back.
+Cael had sat back without meaning to.
 
 It was a good answer, and not for the reason he would have expected a good answer to be good. It did not try to make him feel better; it told him how the thing would be built, where it might crack, and what she would do when it did. Quenna had talked to him like that on his first afternoon, setting hard facts on the desk without sanding the corners off.
 
 "I haven't said yes."
 
-"No. I'd think less of you if you had."
+"No. I'd have worried if you had."
 
 "Then tell me what it looks like." He meant the working of it. Names for things had never interested him as much as how the things ran. "A day of it. If I said yes."
 
@@ -42,7 +42,7 @@ It was a good answer, and not for the reason he would have expected a good answe
 
 "Then we stop, any day, with one word, and you explain nothing to anybody." She leaned on that, very slightly. "That's not me being polite. It has to be part of the frame, a right that belongs to you, not a favour from me. If you can't take consent back, it was never consent. And research done without it is spoiled. Every result it touches is suspect afterwards." One shoulder lifted. "I've no use for spoiled data. I'd rather have nothing."
 
-Nobody had ever offered to protect him for the sake of keeping their numbers clean. He turned the idea over with the statute book under his hand, and discovered that he believed it more than he would have believed kindness. Kindness could change its mind on a bad morning. A method had to announce it first.
+Nobody had ever offered to protect him for the sake of keeping their numbers clean. He turned the idea over with the statute book under his hand, and believed it more than he would have believed kindness. Kindness could change its mind on a bad morning. A method had to announce it first.
 
 Prynn came down from her stool with a cup on a saucer, set it by Cael's elbow, well clear of the statutes, and turned her spectacles on Karis.
 
@@ -74,11 +74,11 @@ Cael turned round on the bench. "Does that count for something?"
 
 "The rest look at you." Prynn wet a finger and turned a leaf of her ledger. "Your tea's going cold."
 
-It had been stewing since dawn and was strong enough to hold a spoon upright, exactly as bad as the first cup she had ever given him. He drank all of it, took the empty cup back to her desk, and went out into the yard with nowhere in particular to be.
+It had been stewing since dawn and was strong enough to hold a spoon upright, just as bad as the first cup she had ever given him. He drank all of it, took the empty cup back to her desk, and went out into the yard with nowhere in particular to be.
 
 His feet carried him round the training hall, and round it again, before he noticed what they were doing, because he walked like that whenever his thinking needed to be outpaced.
 
-The sensible answer was no, or not yet, and he knew exactly where that answer came from. People who wished to study him had seldom wanted only what they said they wanted, and between the purpose a person stated and the use the work was put to later there lay a stretch of ground where he had always been hurt. She would write; she had said so as though it were the least worrying part of the offer. But paper travelled. Three weeks ago a brown envelope with his name in it had gone down this hill, and a grey card had come back up, and somewhere between the two a person he would never meet had read a line about him.
+The sensible answer was no, or not yet, and he knew where that answer came from. People who wished to study him had seldom wanted only what they said they wanted, and between the purpose a person stated and the use the work was put to later there lay a stretch of ground where he had always been hurt. She would write; she had said so without a flicker. But paper travelled. Three weeks ago a brown envelope with his name in it had gone down this hill, and a grey card had come back up, and somewhere between the two a person he would never meet had read a line about him.
 
 That was one fact, and he made himself set the other beside it and keep both in view, instead of letting the louder one win simply for being louder.
 
@@ -86,7 +86,7 @@ She had asked.
 
 Every eye that had ever been turned on him had been turned there by procedure, by some rule that never paused to wonder whether he would say yes. She had walked into an archive, laid the choice out in plain words, and handed him the refusal before she had written a single line. She had even told him how she expected to go wrong.
 
-Trustworthy was a separate question, and an open one. What it did make her was new. Nobody who had come wanting to know what he was had ever gone about it like this, and when a thing was that new, he liked to look at it for a long while before he touched it.
+Trustworthy was a separate question, and an open one. What it did make her was new. Nobody who had come wanting to know what he was had ever gone about it like this, and when a thing was that new, he liked to look at it from every side before he touched it.
 
 So he went back to his oldest habit, the one he trusted more than any decision.
 
@@ -100,13 +100,13 @@ On the first afternoon her floor instructor had paired her with the second-year 
 
 He had seen Ember on the circuit, and he had a page for it in the binder already. Circuit Ember was broad and hot and theatrical. It came off a fighter in sheets and gouts and long ropes of heat that cleared space and made crowds shout, and its practitioners tended to finish a bout red-faced and running with sweat, as if they had been standing too near their own forge.
 
-This was not that. Karis worked in small, exact ignitions, each the size of a coin, placed on the chalked boards or in the air at the height of a knee, held for a counted moment and let go. Each one showed as a dim warm bloom, like the glow of a coal seen through paper, and each one faded on a timing so regular that by the second quarter of the hour he had stopped watching her hands and started counting in his head, and found that his count and her points agreed.
+This was not that. Karis worked in small, exact ignitions, each the size of a coin, placed on the chalked boards or in the air at the height of a knee, held for a counted moment and let go. Each one showed as a dim warm bloom, like the glow of a coal seen through paper, and each one faded on a timing so regular that by the second quarter of the hour he had stopped watching her hands and started counting in his head, and his count and her points agreed.
 
 The Current girl moved through them as she was told to, one drill after another. Karis placed a point where the girl's left foot was about to land and let it go a breath before the foot came down. She placed three in a row along the line the girl would take to reach her and let them go one by one, a breath apart, so that the girl ran down a little corridor of fading warmth.
 
 Once she placed a point and did not let it go, and the girl's heel came down on it, and there was a small sharp hiss and a yelp. The instructor called a touch, and Karis said "Sorry, that one was late," and wrote something in a notebook she kept on the bench, and they went on.
 
-Cael wrote: *Points, not blazes. Never once a big release. Every ignition the size of a coin. Control, not output.* Then, after a while: *Not control as holding back. Control as having more words than anyone else and refusing to shout any of them.*
+Cael wrote: *Points, not blazes. Never once a big release. Every ignition the size of a coin. Control, not output.* Then, later: *Not control as holding back. Control as having more words than anyone else and refusing to shout any of them.*
 
 He noticed one other thing, near the end of the hour, and he nearly did not write it down because it seemed too small.
 
@@ -118,11 +118,11 @@ Of course she saw him. Noticing was her trade, by her own account, and he had ma
 
 Then she did nothing differently. That was the part he wrote twice.
 
-Edran had sharpened when he found an audience at the rail; Cael had watched him tighten a bout like a man tightening a screw. Half the students on the open floor fought a little more beautifully when they knew someone was looking, and he did not blame them, because he did it himself.
+Edran had sharpened when he found an audience at the rail. Half the students on the open floor fought a little more beautifully when they knew someone was looking, and he did not blame them, because he did it himself.
 
 Karis did not. She did not angle her best work toward the edge of the section or lay her points a fraction cleaner. She did not even stop laying the late one that had hissed under the Current girl's heel the day before; she laid it late again, on purpose this time, and wrote the result down. At the end of the hour she packed her notebook, nodded in his direction once in a way that acknowledged he was there and offered him nothing to look at, and left.
 
-That night the binder got a long entry. *An audience changes how people move, and she knows it,* it began. *She seems to have trained it out of herself, which would mean she decided at some point that clean results were worth more than looking well, and then trained herself until it was so.* He looked at the entry. It was the kindest thing he had written about a stranger in a long time, and the log was the one place he never let himself be generous without checking, so he added the balancing line beneath it. *Or she's very good at performing not performing. Two more.*
+That night the binder got a long entry. *An audience changes how people move, and she knows it,* it began. *She seems to have trained it out of herself, which would mean she decided at some point that clean results were worth more than looking well, and then trained herself until it was so.* He looked at the entry. It was the kindest thing he had written about a stranger, and the log was the one place he never let himself be generous without checking, so he added the balancing line beneath it. *Or she's very good at performing not performing. Two more.*
 
 It wasn't a performance; the next two settled that. No one keeps that kind of evenness up for four days in a row just to impress a boy standing at the edge of the chalk. On the fourth afternoon she did not look at him at all, and he understood that she had simply stopped needing to.
 
@@ -136,7 +136,7 @@ He worked through the framework against the empty air and through Lira's circuit
 
 "The transfer from Ternhall has asked to study me."
 
-Quenna did not look up from the strip she was tearing. "I know."
+Quenna went on tearing the strip. "I know."
 
 "How?"
 
@@ -154,7 +154,7 @@ Quenna was quiet. She looked at the slate in her hand, where she had written not
 
 "Most people who want to write about you will never show you a page of what they write," she said. "If she means to, that's worth something. If she doesn't mean to, you'll find out quickly, and that's worth something too." She tucked the slate under her arm. "If you decide to agree, bring me the terms before the first session, not after. Whatever you sign, I'd like to read it while it can still be changed."
 
-She went out. Cael stood with the strip in his hand and understood that she had not told him yes or no, and that she had told him exactly how she would protect whichever he chose.
+She went out. Cael stood with the strip in his hand and understood that she had not told him yes or no, and that she had told him how she would protect whichever he chose.
 
 ---
 
@@ -166,7 +166,7 @@ They were on the wall outside the residence wing, where he told her things, on t
 
 The yard went on being dark for a long while before she answered.
 
-"She asked." Lira said the two words slowly, as if weighing them on her palm. "Everyone else who wanted anything from you just took it. She asked first. That isn't nothing." She let a moment go by. "It isn't everything either."
+"She asked." Lira said the two words slowly. "Everyone else who wanted anything from you just took it. She asked first. That isn't nothing." She let a moment go by. "It isn't everything either."
 
 "No."
 
@@ -208,7 +208,7 @@ Cael looked up from his bread. So did Lira, who had already taken half of it.
 
 Cael put it in the scales.
 
-That night, by the low lamp, he sat on the bed with the binder on his knees and wrote it in the square hand he kept for things he meant to keep.
+That night, by the low lamp, he sat on the bed with the binder on his knees and wrote it carefully.
 
 *Karis Dellenmoor, Ember, Iron 3, late of Ternhall. Left a better school to come and ask me a question. First person who ever asked before looking.*
 

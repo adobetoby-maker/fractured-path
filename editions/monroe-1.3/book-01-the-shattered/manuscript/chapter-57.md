@@ -2,7 +2,7 @@
 
 Somebody had been at the board at the triangle in the night.
 
-Vell's card was still in the middle of it, where the light was best, on the back of its lamp-oil bill. *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES (Br 1, Iron Path) against unrated (vouched).* But under it, on the bare grey wood of the old door, somebody had written in charcoal, in large uneven capitals that sloped downhill toward the cooper's shed, *HESK-WARD*. Somebody else had underlined it twice. A third person, in chalk, had added *13 TO 1* beside it, and a fourth had crossed that out and written *SHAME*.
+Vell's card was still in the middle of it, where the light was best, on the back of its lamp-oil bill. *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES (Bronze 1, Iron Path) against unrated (vouched).* But under it, on the bare grey wood of the old door, somebody had written in charcoal, in large uneven capitals that sloped downhill toward the cooper's shed, *HESK-WARD*. Somebody else had underlined it twice. A third person, in chalk, had added *13 TO 1* beside it, and a fourth had crossed that out and written *SHAME*.
 
 Cael stood and looked at it on the way up, at noon, with Lira beside him and his wraps over her arm.
 

@@ -4,7 +4,7 @@ The benches were out, all three rows, and the rope was three deep along the sunn
 
 Cael had not seen the yard this full since Corbin. He had not expected to see it like this again for a bout that was not a Bronze, and he stood at the rope on the shaded side with his coat off and his hand on the iron stake and looked at it, and understood, slowly, that some of these people had come because of the sleet. They had heard about a boy who went four with a Bronze and got up at eight, and they had come to see what he looked like when he was not losing.
 
-Marrow was by the barrels with his slate. On the slate, under the third bout, he had written *D. / unr.* and then, beside it, very small, *even*, and then rubbed out *even* with his thumb and written it again.
+Marrow was by the barrels with his slate. On the slate, under the third bout, he had written *D. — unrated* and then, beside it, very small, *even*, and then rubbed out *even* with his thumb and written it again.
 
 Lira was at the barrel with her canvas bag. Renn was on the sunny side with two of his barge friends, both of them already shouting at nothing. Torvin's wife was not there, because she never came, but the boots woman was, three rows back on the middle bench in her laced boots, eating something out of a paper. Dessa was at the rope on the far side with her coat off and her hair tied tight, not looking at anybody.
 

@@ -202,7 +202,7 @@ He knew what the truth was, and had known for weeks, and it was the same thing h
 
 He was afraid of the answer.
 
-He was afraid that he would reach for it and nothing would happen, and then he would know. And he was afraid, in a way he had not let himself look at at all, that something would happen, that it would open and show him something he would not understand.
+He was afraid that he would reach for it and nothing would happen, and then he would know. And he was afraid, in a way he had not once let himself look at, that something would happen, that it would open and show him something he would not understand.
 
 An honest log used every instrument it had; he had made that rule himself, at the pump, with the straightedge. *Never trust a number you can't trace.* And there was one instrument he had not touched once, because it frightened him.
 

@@ -4,9 +4,9 @@ The training hall at first bell was a room he had never seen before, though he h
 
 Someone had cleared it. The chalk lines of the six sections had been swept away, leaving only faint pale ghosts on the boards, and a single fresh ring had been drawn at the centre of the floor. The high windows let in a thin grey morning, and the air smelled of new chalk and cold stone and, faintly, of the lamp oil someone had burned before dawn to see by while they swept. At the far end stood three chairs in a row facing the ring, each the same distance from the next, with a faint chalk tick on the boards beside each leg to tell him somebody had used a rule, and in front of the middle chair a small table with an inkwell on it. There was nothing else: no benches, no rail, no crowd. He had fought in front of six hundred people at the Ironyard. He had never once walked into a room this quiet to be looked at.
 
-Quenna sat in the centre chair with a slate on her knee. To her left sat Wray, upright and still in her brown coat buttoned to the throat, watching him come in with the same level attention she had given Brom on the defensive floor. To Quenna's right sat a man Cael had never met, older than both women, white-haired and spare, who sat as a heron stands in a shallow, as if he could wait all morning for one thing worth noticing. He had a slate too, and had already written something on it. The rotating seat, the one he could not prepare for. Cael did not try. He looked at the man once, noted his age and his stillness and the loose way he held his pen, as if he had held a great many pens and broken none of them, and then let him go.
+Quenna sat in the centre chair with a slate on her knee. To her left sat Wray, upright and still in her brown coat buttoned to the throat, watching him come in with the same level attention she had given Brom on the defensive floor. To Quenna's right sat a man Cael had never met, older than both women, white-haired and spare, who sat as a heron stands in a shallow, ready to wait all morning for one thing worth noticing. He had a slate too, and had already written something on it. The rotating seat, the one he could not prepare for. Cael did not try. He looked at the man once, noted his age and his stillness and the loose way he held his pen, as if he had held a great many pens and broken none of them, and then let him go.
 
-The training partner was waiting in the ring, and Cael knew him at once: the broad student from Brom's floor, the Stone Path fourth-year with forearms like fence posts and a face of perfect patience. He stood easily at his mark with his feet a shoulder-width apart and regarded Cael without any curiosity at all. Wray rose, crossed to him, and bent to his ear for a moment; the boy nodded once, and Wray returned to her chair. Then he settled his weight and waited, without glancing at the panel or at Cael's tag, simply standing there being furniture, and whatever he had been lent for, he plainly meant to be exactly that and nothing more. Cael felt a rush of gratitude toward him so strong that it embarrassed him.
+The training partner was waiting in the ring, and Cael knew him at once: the broad student from Brom's floor, the Stone Path fourth-year with forearms like fence posts and a face of perfect patience. He stood easily at his mark with his feet a shoulder-width apart and regarded Cael without any curiosity at all. Wray rose, crossed to him, and bent to his ear; the boy nodded once, and Wray returned to her chair. Then he settled his weight and waited, without glancing at the panel or at Cael's tag, simply standing there being furniture, and whatever he had been lent for, he plainly meant to be that and nothing more. Cael felt a rush of gratitude toward him so strong that it embarrassed him.
 
 "For the record," said Quenna.
 
@@ -68,13 +68,13 @@ His heart was going hard. He kept his face still and his breathing slow and his 
 
 Wray lowered her finger and wrote.
 
-The fourth pass he ran on her ordinary count again. It came out the same as the first, the same structure and the same four reads, as if the broken rhythm and the strike and the road he had not taken had never happened at all.
+The fourth pass he ran on her ordinary count again. It came out the same as the first, the same structure and the same four reads, and nothing in it showed the broken rhythm, or the strike, or the road he had not taken.
 
 ---
 
 The rotating seat spoke for the first time.
 
-"Your lead." His voice was mild and dry and addressed to the room in general, as if he were asking about the weather. "The half-beat. Is it the same against any partner, or does it change when the partner is faster?"
+"Your lead." His voice was mild and dry and addressed to the room in general. "The half-beat. Is it the same against any partner, or does it change when the partner is faster?"
 
 Cael had prepared for many questions and not for that one, and he was glad, because it meant he had to answer it honestly instead of well.
 
@@ -82,7 +82,7 @@ Cael had prepared for many questions and not for that one, and he was glad, beca
 
 Then, because the room ran on exactness and he wanted his own words in the record to be exact: "It has limits. It reads the opponent's body. The quicker someone is, the less of his body I have to read from. Their weight shifts later, and for less time, and the faster they get, the less there is to go on. I haven't found where it stops working. I know which direction that is."
 
-The rotating seat wrote for a long time, and when he finally looked up he looked faintly, modestly pleased, like a man who has been handed exactly the right tool without having to describe it twice. Cael understood why after a moment. He had handed the man an edge, and an edge could be measured, and a thing that could be measured sounded studied rather than boasted about; boasting was exactly what got underlined later, by people under lamps.
+The rotating seat wrote for a long time, and when he finally looked up he looked faintly, modestly pleased, like a man who has been handed exactly the right tool without having to describe it twice. Cael understood why after a moment. He had handed the man an edge, and an edge could be measured, and a thing that could be measured sounded studied rather than boasted about; boasting was what got underlined later, by people under lamps.
 
 "Thank you," said the rotating seat.
 
@@ -102,7 +102,7 @@ It went forward onto the right foot.
 
 The partner rocked back onto both heels, a fraction late this time, as if he had begun to suspect something and wanted to see whether he could beat the call. He couldn't; Cael had named it before the boy had properly decided.
 
-For the fourth call he closed his eyes. He did it as Brom had told him to, simply and without any show, the way a person closes their eyes to hear a sound in another room more clearly. The hall went dark and the pressure along his skin did not change at all. It had never needed his eyes. It had only let him think it did. The big body in front of him leaned very slightly toward the right and went still, then leaned toward the right again with more weight in it, as if gathering itself.
+For the fourth call he closed his eyes. He did it as Brom had told him to, simply and without any show. The hall went dark and the pressure along his skin did not change at all. It had never needed his eyes. It had only let him think it did. The big body in front of him leaned very slightly toward the right and went still, then leaned toward the right again with more weight in it, as if gathering itself.
 
 "Right. Toes."
 
@@ -112,7 +112,7 @@ The partner huffed through his nose, startled, like a man who has just heard som
 
 Cael stepped back to his mark. "That's the demonstration."
 
-The panel withdrew to the end of the hall farthest from him and stood close together by the wall with their slates, speaking too low for him to follow. He read what he could anyway, because he could not help it. Wray spoke first and briefly and then folded her arms. The rotating seat spoke longer and used his hands, sketching something in the air with one finger that might have been a curve. Quenna said almost nothing; she listened with her pen still, and twice she nodded before the speaker had finished, and he guessed from that that her mind had been made up for some time.
+The panel withdrew to the end of the hall farthest from him and stood close together by the wall with their slates, speaking too low for him to follow. He read what he could anyway, because he could not help it. Wray spoke first and briefly and then folded her arms. The rotating seat spoke longer and used his hands, sketching something in the air with one finger that might have been a curve. Quenna said almost nothing; she listened with her pen still, and twice she nodded before the speaker had finished, and he guessed from that that her mind was already made up.
 
 The partner stood easy in the ring throughout. He did not sit, though nothing stopped him, and he did not wander or stretch or look over at the panel. He simply stood where he had been told to stand, feet planted and hands loose, showing not the slightest interest in the verdict, and waited to be told he could go. Cael's eyes rested on him. He had watched this boy put Brom on one knee on their second day here, and now had been hit by him himself, once, on the forearm, and he still did not know his name. Brom had said that not asking had started to feel like a rule. Cael did not think asking would spoil anything. He thought the boy had probably stood in for other people's tests so often that nobody had thought to ask him anything at all, and that was not a rule. It was only a habit everyone had fallen into without noticing. He decided, standing there, that he would learn the boy's name before the month was out, and find a proper moment to thank him — for the patience, for the honest strikes, for being exactly as useful as he was asked to be on a morning when being interesting was the most dangerous thing in the room. He did not say any of this. He put it away somewhere he would not lose it.
 
@@ -120,7 +120,7 @@ The panel returned to their chairs. Quenna made a note on her slate and glanced 
 
 "Unorthodox architecture. Consistent execution. No safety concerns."
 
-Quenna wrote it down word for word, and Cael watched her pen form each phrase, and watched the rotating seat nod once, very slightly, as if confirming a sum.
+Quenna wrote it down word for word, and Cael watched her pen form each phrase, and watched the rotating seat nod once, very slightly.
 
 "Assessment satisfied," said Quenna, and set down her pen.
 
@@ -128,7 +128,7 @@ Nobody moved. The hall had the stillness of a sum that has come out right and ne
 
 Cael stood in the swept ring and waited to feel something enormous. For four days he had built this morning in his head into a far larger and more dangerous room than the one he was standing in, and now that it was over the room felt almost small — not unimportant, but small: three chairs, a ring of chalk, a few sentences in ink. The distance between the room he had feared and the room he got seemed like a lesson worth keeping.
 
-The rotating seat was the first to go, slate under his arm, with nothing more to say. Wray stood, looked at Cael for a moment, and nodded once, the same nod he had seen her give Brom, which meant that something had held when she leaned on it. Then she went to the partner, spoke a word, and walked out with him a step behind her.
+The rotating seat was the first to go, slate under his arm, with nothing more to say. Wray stood, looked at Cael, and nodded once, the same nod he had seen her give Brom, which meant that something had held when she leaned on it. Then she went to the partner, spoke a word, and walked out with him a step behind her.
 
 The door closed. Quenna stayed.
 
@@ -158,15 +158,15 @@ Cael thought of the reader he had imagined under lamplight, a patient shape at t
 
 She gave no reason, and he did not ask for one. Hesk had handed him sentences like that, and so had Vell; some things were meant to be carried shut. Her footsteps went away along the hall, and the door closed after them.
 
-He did not leave at once. The quiet a panel left behind it was its own particular quiet, and he let it work on him until his shoulders came down by themselves. His left forearm had begun to throb where the third pass had caught it, and along the outer edge the bruise was rising already, dull red with blue underneath. He had paid for a road he never took, and the log had a column for exactly that kind of price. In the chalk ring the morning was still written out: the scuffs his own feet had made, two deep marks where the partner's heels had dug in, a smear where he had dropped low under the last strike of the first pass. Somebody with a broom would take all of it before the fifth bell. After that, the only place the morning would exist was a folder on a shelf in a school that ran on paper. They had written him down for an hour, and every word they had been allowed to write was a word he had chosen: two things shown, two held back, and one never reached for at all. It had gone well. He meant to keep it going well.
+He did not leave at once. The quiet a panel left behind it was its own particular quiet, and he let it work on him until his shoulders came down by themselves. His left forearm had begun to throb where the third pass had caught it, and along the outer edge the bruise was rising already, dull red with blue underneath. He had paid for a road he never took, and the log had a column for that kind of price. In the chalk ring the morning was still written out: the scuffs his own feet had made, two deep marks where the partner's heels had dug in, a smear where he had dropped low under the last strike of the first pass. Somebody with a broom would take all of it before the fifth bell. After that, the only place the morning would exist was a folder on a shelf in a school that ran on paper. They had written him down for an hour, and every word they had been allowed to write was a word he had chosen: two things shown, two held back, and one never reached for at all. It had gone well. He meant to keep it going well.
 
-On his way out he crouched at the ring's edge and set two fingers in the smear, the way someone leaving a house touches the doorframe. Then he got up and went to find the others.
+On his way out he crouched at the ring's edge and set two fingers in the smear, as someone leaving a house touches the doorframe. Then he got up and went to find the others.
 
 ---
 
 Nobody outside the hall knew what had happened in it. That did not slow anyone down. By the fourth bell the whole academy had decided something had, and was busy deciding what.
 
-He felt it in small changes, as a fighter feels a crowd turn without looking up at it. A conversation on the stair paused as he passed and started again behind him. A first-year looked at his tag, saw the hollow circle where every other tag had a crest, and became suddenly fascinated by the ceiling. Two older girls from the lecture wing, who had not once looked at him all week, wished him good morning on the stair in careful, bright voices, as if they were putting a coin in a box against a rainy day.
+He felt it in small changes, as a fighter feels a crowd turn behind him. A conversation on the stair paused as he passed and started again behind him. A first-year looked at his tag, saw the hollow circle where every other tag had a crest, and became suddenly fascinated by the ceiling. Two older girls from the lecture wing, who had not once looked at him all week, wished him good morning on the stair in careful, bright voices, as if they were putting a coin in a box against a rainy day.
 
 Lira slid onto the bench across from him at the midday meal with the bright, contented face of a circuit veteran reporting on a district she understood perfectly.
 
@@ -206,7 +206,7 @@ It was such a plain question, after Lira's market, that Cael laughed.
 
 He told them. *Unorthodox architecture. Consistent execution. No safety concerns.*
 
-Brom chewed slowly, considering each phrase as if testing it with his teeth.
+Brom chewed slowly, testing each phrase with his teeth.
 
 "*No safety concerns.* That's the one. That's the best one." He went back to his barley. "That's *controlled* in a different coat."
 
@@ -220,6 +220,6 @@ He thought of the road opening in his chest, and three pens.
 
 "I took it instead of something else."
 
-Lira studied him without a word. Then she nodded slowly, as she did when an opponent did something she would have done herself, and pushed the rest of the bread back across the table to him.
+Lira said nothing. Then she nodded slowly, as she did when an opponent did something she would have done herself, and pushed the rest of the bread back across the table to him.
 
 "Eat. You've earned the crust."

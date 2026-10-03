@@ -24,7 +24,7 @@ He felt it slide toward his left knee along the same lazy path it had taken two 
 
 He let go.
 
-The gathered piece spilled out of him harmlessly, and his forearm took the rest of the push the ordinary way, the way any arm takes weight. Brom eased off.
+The gathered piece spilled out of him harmlessly, and his forearm bore what was left of the push like any arm. Brom eased off.
 
 "You dropped it."
 
@@ -74,7 +74,7 @@ It always came the same way, running up through the shoulder and across the brea
 
 "Quarter," Cael managed.
 
-He caught a quarter twice more before they broke camp, on the tenth try and the twelfth, and each of those cost exactly what the seventh had cost, no more and no less. He found that oddly comforting. A price that stayed the same was a price he could plan around. The tries in between went nowhere, because he had reached a breath too early while the push was still coming and the fragment had simply not answered. He was almost grateful for those; a failure that did nothing was the cheapest lesson the fragment had to offer.
+He caught a quarter twice more before they broke camp, on the tenth try and the twelfth, and each of those cost what the seventh had cost, no more and no less. That was oddly comforting. A price that stayed the same was a price he could plan around. The tries in between went nowhere, because he had reached a breath too early while the push was still coming and the fragment had simply not answered. He was almost grateful for those; a failure that did nothing was the cheapest lesson the fragment had to offer.
 
 Lira was sitting up by then, blanket around her shoulders, eating the last heel of yesterday's bread.
 
@@ -123,13 +123,13 @@ Tier equivalent: unknown.
 Note: force absorption component. Damage redirect, contact range.
 ```
 
-He read the words as if they might have changed overnight. They hadn't. Contact range. Partial. Unknown.
+Nothing in it had changed overnight. Contact range. Partial. Unknown.
 
 Behind the four sections sat a fifth page, set apart from the rest, with a date, a short account of an afternoon in Brom's sparring circle, and a single line underneath.
 
 *Session nine. Could not reproduce. Still don't know what that was.*
 
-He did not add anything. He never did. He only looked at it, the way a tongue finds a chipped tooth, and then he closed the binder and stood. His knee did not hurt and his shoulder did, which by the log's arithmetic was an improvement, and he decided to count it as one.
+He did not add anything. He never did. That page was for reading, not for writing; he shut the binder and got to his feet. His knee did not hurt and his shoulder did, which by the log's arithmetic was an improvement, and he decided to count it as one.
 
 ---
 
@@ -151,7 +151,7 @@ She asked Brom, not Cael, because Brom was the one who had grown up close to an 
 
 "You'd break a tooth."
 
-Cael knew the numbers, as everybody in Valdris knew them, the way everybody knew which way the river ran. But he had never heard them said by someone who had been raised to think of them as a ladder his family expected him to climb. Ten ranks in each tier, with Rank Ten as the threshold. And to cross from one tier into the next you needed two things, the rank you earned through use and a formal evaluation at a registered Arbiter station that confirmed it. Copper, Iron, Bronze, Silver, Gold, and after Gold the tiers became history and then rumor. Most people stopped on the first rung. A quarter made Iron, the journeyman's tier of professional fighters and serious tradespeople, the ones who kept pushing. One in ten made Bronze. Silver was the kind of tier that got your name said in other cities.
+Cael knew the numbers, as everybody in Valdris knew them. But he had never heard them said by someone who had been raised to think of them as a ladder his family expected him to climb. Ten ranks in each tier, with Rank Ten as the threshold. And to cross from one tier into the next you needed two things, the rank you earned through use and a formal evaluation at a registered Arbiter station that confirmed it. Copper, Iron, Bronze, Silver, Gold, and after Gold the tiers became history and then rumor. Most people stopped on the first rung. A quarter made Iron, the journeyman's tier of professional fighters and serious tradespeople, the ones who kept pushing. One in ten made Bronze. Silver was the kind of tier that got your name said in other cities.
 
 "Greyvane's a minor-tier academy," Brom went on. "They take Copper and Iron and turn out Bronze, if they're lucky. A Silver graduate would be a good year for them."
 
@@ -169,7 +169,7 @@ She meant herself and Brom, who were both Copper on paper and both carried an ho
 
 "Which means what, at an academy?"
 
-It was a fair question, and Cael had been chewing on it since Ardenmere. On the circuit, Iron-equivalent had meant exactly what it said: Vell rated you by what you did on her floor against whoever stood across from you, and if you beat enough Iron-tier fighters, consistently, her ledger called you Iron-equivalent, whatever your registry document said. It was a rating of results, and the circuit trusted results.
+It was a fair question, and Cael had been chewing on it since Ardenmere. On the circuit, Iron-equivalent had meant what it said: Vell rated you by what you did on her floor against whoever stood across from you, and if you beat enough Iron-tier fighters, consistently, her ledger called you Iron-equivalent, whatever your registry document said. It was a rating of results, and the circuit trusted results.
 
 "It means you can beat Iron fighters," he said slowly. "It doesn't mean an Arbiter has said you're Iron. It doesn't give you an Iron rank. It doesn't move you up the ladder."
 
@@ -177,7 +177,7 @@ It was a fair question, and Cael had been chewing on it since Ardenmere. On the 
 
 "It means something. It just means it to the people who were watching."
 
-Lira was quiet for a while.
+Lira walked on without answering.
 
 "I'm Copper," she said. "On paper. I'm going to walk in that gate as Copper, and people who never saw me fight are going to read the word and think they know what it means."
 
@@ -189,7 +189,7 @@ Lira was quiet for a while.
 
 "I'm going to hate it less than I would have a year ago, though. That's the strange part. I can feel myself hating it less."
 
-She was looking straight up the road with her chin a little high. Cael thought of himself beside her: Iron-equivalent by the same honest ledger, because he had beaten an Iron Rank Eight in front of six hundred people, and on paper no tier at all, no rank, not even Copper, only a word on his registry file that was not a tier but a classification the registry had never known what to do with. He had stopped needing to say that out loud a long time ago. He noticed now that he had also stopped needing to think it every hour, and that was new, and he filed it away to write down later.
+She was looking straight up the road with her chin a little high. Cael thought of himself beside her: Iron-equivalent by the same honest ledger, because he had beaten an Iron Rank Eight in front of six hundred people, and on paper no tier at all, no rank, not even Copper, only a word on his registry file that was not a tier but a classification the registry had never known what to do with. He had stopped needing to say that out loud months ago. He noticed now that he had also stopped needing to think it every hour, and that was new, and he filed it away to write down later.
 
 At the midday rest Lira tried, for perhaps the fifth time since Ardenmere, to get Brom to show her a declaration.
 
@@ -293,7 +293,7 @@ They walked the last quarter-mile together, and at the gate the clerk had a list
 
 She was a woman of about forty with ink stains on two fingers of her writing hand and the patient face of someone who copied things all day. She did not get up. She ran a finger down the page in front of her, stopped, and read the names back without looking at them.
 
-"Brom, standard. Lira, re-certification. And Cael, on the observer track." Then she did look up, at each of them in turn, as if fitting faces to the ink. "The three of you are on my list. Go past the yard. The first door is intake, and they know you're coming."
+"Brom, standard. Lira, re-certification. And Cael, on the observer track." Then she did look up, at each of them in turn, fitting faces to the ink. "The three of you are on my list. Go past the yard. The first door is intake, and they know you're coming."
 
 That was all she said, and it was enough.
 
@@ -309,6 +309,6 @@ He realized he had stopped again. "Coming."
 
 He walked through behind them, and the gate's shadow passed over him and was gone. On the far side the yard opened up, swept and empty, with chalk lines faint on the packed earth, and a bell rang again at a different pitch from the first. He did not know what that bell meant. He would learn, and he noticed, with something close to surprise, that he wanted to.
 
-For the first time in a long time he did not reach for the notebook. He only noticed the feeling and let it sit there unwritten.
+For once he did not reach for the notebook. He only noticed the feeling and let it sit there unwritten.
 
 Lira would have called it a miracle.

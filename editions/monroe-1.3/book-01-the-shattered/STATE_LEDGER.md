@@ -1106,3 +1106,10 @@ Spring: the pear tree in flower, then frost-browned. Cael is fourteen.
 12. **The stranger**: sex unstated; plain clothes "the colour of the market"; no physical detail; stands still at the knife-grinder's bench; silent; the look "allowed". Deliberately unlike Book 2's watcher.
 
 ### BOOK 1 DRAFT COMPLETE — ch1–60 closed movement by movement; book-completion pass next (state/completion/COMPLETION-PLAN.md).
+
+## FINAL — Book 1 text locked (2026-10-02)
+- 60 chapters, 305,989 words (tool) / 306,683 (wc). Sentence mean 13.25, ≥40-word 3.8%, ≤5-word 33.3%, paragraph median 25, 268 scene breaks, 933 words per scene, FK 3.93 — every primary inside the working ranges.
+- Source distance: skeleton probe 0–2% in every movement (book ≈1%); 8-word overlap 0 unprotected in all nine movements; Reader Standard / metadata / modern gates 0.
+- Completion pass: Step 1 event-list rebuild sweep (two lanes); Step 2 whole-arc read (32 fixes) + texture pass (two lanes, matched depth); Step 3 line-and-listening proof (30 fixes: slate/ledger abbreviations and numerals spelled for the narrator, homographs). Every protected line verbatim; Halvern/Halden never share a scene.
+- Audio direction inputs: `state/completion/listening-proof.md` §4 (82-entry pronunciation lexicon) and §5 (segmenter/instruct notes: Coss/Doss in ch30, ch54; Marrow/Darrow in ch57–58; 79 paragraphs over 700 characters; `[SHATTERED]` brackets never voiced).
+- Next: Breeze render of ch1–60 → new reader-app edition `fractured-path-b01-monroe13`; the current edition stays untouched.

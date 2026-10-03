@@ -1,6 +1,6 @@
 # Chapter 25 — The Other Direction
 
-The felt was still on the post when he came into section four on Tuesday, grey and thick and wound three times round the old oak. It was exactly as Karis had left it a week ago, as if the post had been waiting all that time to be asked something.
+The felt was still on the post when he came into section four on Tuesday, grey and thick and wound three times round the old oak. Nobody had touched it since Karis wound it on a week ago, as if the post had been waiting all that time to be asked something.
 
 Quenna stood at the chalk with her slate. Karis sat behind her line on the borrowed stool with her two pens laid side by side on the boards. Brom had come as witness again, under the clause in the first terms that let any of the three of them walk into a session without notice, and he was leaning on the far side of the post with his sleeves rolled, ready to be useful. Nobody had told him to bring anything, and he had brought a heel of bread in his coat pocket anyway, in case the hour ran long.
 
@@ -12,7 +12,7 @@ They began with the framework, because they always began with the framework, and
 
 "The stair isn't in my notebook." She wrote anyway, a short line, and he was nearly sure it said *stair* somewhere in it. "The lead is unchanged. A quarter of a breath. It hasn't moved since the first session, through the exhibition and the ribs and the week after. Whatever else changes in you, that doesn't."
 
-Then the post. He laid his palm flat on the felt and shut his eyes, and on the far side Brom leaned and shifted and leaned again, doing his level best to be unreadable, and for a long time there was nothing in Cael's hand but cloth and wood and the cold. Then, low on the right of the post, a faint thickening came through the felt, like a breath held on the far side of a wall, and a moment later Brom's weight went right.
+Then the post. He laid his palm flat on the felt and shut his eyes, and on the far side Brom leaned and shifted and leaned again, doing his level best to be unreadable, and there was nothing in Cael's hand but cloth and wood and the cold. Then, low on the right of the post, a faint thickening came through the felt, like a breath held on the far side of a wall, and a moment later Brom's weight went right.
 
 "Right," said Cael, a fraction late.
 
@@ -48,15 +48,15 @@ She had expected the question. He saw that she had expected it, and that she had
 
 "Then it works, and we'll know something real about the only question I've cared about since a lecturer made a joke in a hall last winter." For the first time something hesitated in her face, very briefly. "If nothing comes, then one door is shut for good, and the wall is somewhere I can see it. I don't do well with a boundary I can't see. You may have noticed that about me."
 
-He had noticed. Karis circled an open question the way other people circled an unpaid debt, coming back to it at odd hours, unable to leave it alone until it was settled in one direction or the other.
+He had noticed. Karis circled an open question as other people circled an unpaid debt, coming back to it at odd hours, unable to leave it alone until it was settled in one direction or the other.
 
 "I'm not going to answer today," he said.
 
-"I'd think less of you if you did." She picked up her notebook and her pens, and stood, and folded the stool under her arm. Then she paused. "It's Lira's week. I know that. If you'd rather the question waited until Friday, it can wait. I can carry it four days."
+"I'd trust the answer less if you did." She picked up her notebook and her pens, and stood, and folded the stool under her arm. Then she paused. "It's Lira's week. I know that. If you'd rather the question waited until Friday, it can wait. I can carry it four days."
 
 "She'd want to know it had been asked." He was sure of that as he said it. "She'd want to know the day it was asked. That's the rule."
 
-Karis considered him for a moment, the way she considered a timing that agreed with something she had written before, and nodded.
+Karis considered him, and nodded.
 
 "Then tell her," she said, and went out with the stool.
 
@@ -76,9 +76,9 @@ He had stood at the residence wing door for a long minute before he came out. He
 
 "Sit down before you spill it, then."
 
-He sat. The valley below them was black, and the lamps of the hill town were scattered down the slope, and over the training yard the stars were very sharp in the cold. He told her. He told it the way he told her everything that mattered, nearly word for word: Karis's offer and her reasons and her plain refusal to soften any of it, Brom at the rail like a post, and the last thing Karis had said, that she could carry it four days if it was Lira's week.
+He sat. The valley below them was black, and the lamps of the hill town were scattered down the slope, and over the training yard the stars were very sharp in the cold. He told her. He told it as he told her everything that mattered, nearly word for word: Karis's offer and her reasons and her plain refusal to soften any of it, Brom silent at the rail, and the last thing Karis had said, that she could carry it four days if it was Lira's week.
 
-Lira listened all the way through without interrupting, with her chin on her knees. After he finished, she let the quiet go on a long while.
+Lira listened all the way through without interrupting, with her chin on her knees. After he finished, she let the quiet go on.
 
 "She offered," she said at last. "You didn't ask her."
 
@@ -98,9 +98,9 @@ He turned his head.
 
 "And tell her enough to make it honest." Lira tucked the hand back under her arm. "Not the binder. She's never asked for the binder and she never will, and that's hers to keep. But if she's going to stand in front of you on purpose, she ought to know what she's standing in front of. More than two things. That much."
 
-He thought about that, and found she was right, and that he had known she would be.
+He thought about that. She was right, and he had known she would be.
 
-They sat for a while. Down the hill a cart went along the street worth walking, slowly, its lamp swinging, and turned the corner by the grey building with the board over its door and was gone.
+They sat on. Down the hill a cart went along the street worth walking, slowly, its lamp swinging, and turned the corner by the grey building with the board over its door and was gone.
 
 "How is it," he said carefully, "being in your week?"
 
@@ -130,13 +130,13 @@ She was in the assessors' room off the main hall with her slates, alone, and she
 
 Quenna set her pen down.
 
-For a long moment she only looked at him, and he could see her turning the question round, looking at it from below and from either side, as he had once watched her look at the words of the provision. She did not ask who the student was. She did not ask why. He had not expected her to, and still he felt something loosen in him when she didn't.
+She only looked at him, and he could see her turning the question round, looking at it from below and from either side, as he had once watched her look at the words of the provision. She did not ask who the student was. She did not ask why. He had not expected her to, and still he felt something loosen in him when she didn't.
 
 "An observer may watch anything the academy lets anyone watch," she said at last, "and anything a student of full standing invites him to watch. That's what the category is. It's the one thing it gives you freely." She picked her pen back up. "You don't need my leave for it. It isn't one of my sessions, and it won't be in my record. I'd prefer to keep it that way."
 
 "So would I."
 
-"Then keep it that way," said Quenna, and went back to her slate. As he turned from the door she spoke again without looking up. "And keep it honest, Cael. Whatever it is. You know how."
+"Then keep it that way," said Quenna, and went back to her slate. As he turned from the door she spoke again. "And keep it honest, Cael. Whatever it is. You know how."
 
 They wrote the terms at the scarred table at the midday meal, all four of them, in the corner farthest from the fire.
 
@@ -158,7 +158,7 @@ They built it in under an hour, because they had done it once before and knew no
 
 "I'm only asking. Every time."
 
-The third clause was Lira's again: that she and Brom would know the general shape of what was happening, and could come to any session as witnesses under the same rule as before, without notice. The fourth was Cael's, and Karis wrote it the way he said it, word for word: her ledger for these sessions would record the conditions and the result and nothing else. And the old sixth clause still held, the one from the first terms that let him read every word she wrote about him before it existed anywhere else, and keep a copy.
+The third clause was Lira's again: that she and Brom would know the general shape of what was happening, and could come to any session as witnesses under the same rule as before, without notice. The fourth was Cael's, and Karis wrote it as he said it, word for word: her ledger for these sessions would record the conditions and the result and nothing else. And the old sixth clause still held, the one from the first terms that let him read every word she wrote about him before it existed anywhere else, and keep a copy.
 
 "What counts as a result?" Lira asked.
 
@@ -174,7 +174,7 @@ She wrote it below the others without numbering it, slowly, in a hand that did n
 
 She turned the sheet round so that it faced him.
 
-Cael read it. Then he read it again, and then a third time, and somewhere in the third reading he understood why he could not stop. Nobody had ever before written a rule down to keep someone safe from him. Every rule he had ever met had been written to protect the world from what he was, or to protect him from the world, or to protect some office from having to decide anything about him at all. This one was written to protect a girl of sixteen from a boy across a table, by the girl herself, in a hand that had not shaken once. He found that he was glad it existed. The gladness was not at all comfortable to hold.
+Cael read it. Then he read it again, and then a third time, and somewhere in the third reading he understood why he could not stop. Nobody had ever before written a rule down to keep someone safe from him. Every rule he had ever met had been written to protect the world from what he was, or to protect him from the world, or to protect some office from having to decide anything about him at all. This one was written to protect a girl of sixteen from a boy across a table, by the girl herself, in a hand that had not shaken once. He was glad it existed. The gladness was not at all comfortable to hold.
 
 "That one's right," said Lira quietly.
 
@@ -192,23 +192,23 @@ It was a whitewashed box six paces wide and nine long, with a scrubbed floor and
 
 Then she began.
 
-He had watched her Ember a dozen times from the edge of a section and twice in a formal yard, and he still found that he had to make himself breathe when she worked close. She did not throw heat about the way circuit Ember did, in sheets and gouts that cleared a ring. She set it. A point bloomed in the air at the height of her shoulder, a dim warm light the size of a coin, like a coal glowing through paper. It stayed exactly where she had put it, steady as a lamp, until she let it go on her count. Then it was gone, with that faint third of a breath of shimmer after it, like heat over a summer road. Then two at once, at the same height, a pace apart. Then two again, laid on the whitewash of the end wall, and this time she joined them. A thin line of heat ran along the wall between them with a sound like a kettle a moment before it sings, and held while both points held, and the smell of warm stone came across the room to him, and the hair on his forearms stood up.
+He had watched her Ember a dozen times from the edge of a section and twice in a formal yard, and he still had to make himself breathe when she worked close. She did not throw heat about as circuit Ember did, in sheets and gouts that cleared a ring. She set it. A point bloomed in the air at the height of her shoulder, a dim warm light the size of a coin, like a coal glowing through paper. It stayed exactly where she had put it, steady as a lamp, until she let it go on her count. Then it was gone, with that faint third of a breath of shimmer after it, like heat over a summer road. Then two at once, at the same height, a pace apart. Then two again, laid on the whitewash of the end wall, and this time she joined them. A thin line of heat ran along the wall between them with a sound like a kettle a moment before it sings, and held while both points held, and the smell of warm stone came across the room to him, and the hair on his forearms stood up.
 
 *Drawn Channel*, he thought. *Iron Rank Three.* He had read the receipt once, on a card on the stable table, and he was watching it be spent.
 
 And underneath the watching, for the first time in his life on purpose, he reached.
 
-He did not know what reaching was. He discovered that in the first minute, standing in a whitewashed room with Lira by the door and a line of heat singing on the wall between two coins of light. For a long time he had written down what happened after a fragment came: the sense of something settling into a place he had not known was empty, and then the notice, like a line somebody else had already written. He had never once made any of it begin. Wanting a thing turned out to be one skill and making it happen another, and he had only ever had the first.
+He did not know what reaching was. He discovered that in the first minute, standing in a whitewashed room with Lira by the door and a line of heat singing on the wall between two coins of light. Every time, he had written down what happened after a fragment came: the sense of something settling into a place he had not known was empty, and then the notice, like a line somebody else had already written. He had never once made any of it begin. Wanting a thing turned out to be one skill and making it happen another, and he had only ever had the first.
 
 So he tried what he had.
 
-He tried attention first, all of it, the whole of his looking laid on her the way he had once laid it on Reydan in the third exchange. Every scrap of him pointed at the place where her off hand went still a quarter of a breath before each bloom. Nothing came of it but the timing, which he already had.
+He tried attention first, all of it, the whole of his looking laid on her as he had once laid it on Reydan in the third exchange. Every scrap of him pointed at the place where her off hand went still a quarter of a breath before each bloom. Nothing came of it but the timing, which he already had.
 
 He tried something like invitation. He found the place in himself where the four sat, if they sat anywhere, and held open the space beside them, absurdly, like a hand held out across a room to someone who has not seen it. He felt foolish doing it and kept doing it until she had laid six points and let them go.
 
 He tried wanting. That was the easiest of all to produce, plain and bare, and he was ashamed of how easy, and he let himself feel the shame and kept wanting through it, because it was data whether he liked it or not.
 
-Last of all, near the end of the hour, he tried to rebuild the stillness he remembered from the moments that had mattered most, the strange quiet that had sat in him at the top of the Reydan bout before anything changed. He built it the way a person tries to remember exactly how falling asleep feels, carefully, piece by piece, knowing all the while that the remembering was the thing in the way. He stood inside it while she laid a sustained point and held it to a count of thirty, steady, and let it go.
+Last of all, near the end of the hour, he tried to rebuild the stillness he remembered from the moments that had mattered most, the strange quiet that had sat in him at the top of the Reydan bout before anything changed. He built it as a person tries to remember how falling asleep feels, carefully, piece by piece, knowing all the while that the remembering was the thing in the way. He stood inside it while she laid a sustained point and held it to a count of thirty, steady, and let it go.
 
 Nothing happened.
 

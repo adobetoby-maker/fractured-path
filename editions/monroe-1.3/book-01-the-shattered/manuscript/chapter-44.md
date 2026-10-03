@@ -32,7 +32,7 @@ When he had finished, she was quiet.
 
 Corvane nodded slowly. Then she put the point of her stick into the dirt between them and began to draw.
 
-She drew a figure, a plain stick figure such as a child draws, standing upright. In the middle of its chest she drew a spiral, wound tight, round and round, smaller and smaller, until it was nearly a dot. Beside the figure she made a row of short strokes, one, two, three, four, like a tally.
+She drew a figure, a plain stick figure such as a child draws, standing upright. In the middle of its chest she drew a spiral, coiled tight, round and round, smaller and smaller, until it was nearly a dot. Beside the figure she made a row of short strokes, one, two, three, four, like a tally.
 
 "That's what you'll be standing in front of. Pressure. And everything you've just told me is no good to you."
 

@@ -2,7 +2,7 @@
 
 By the next evening the whole academy had decided the exhibition was the best thing that had happened to it all term.
 
-Cael had braced himself for something else. He had spent the night after the posting lying awake in the narrow room, building the week ahead the way he had once built the reader under the lamp, carefully and out of every unkind thing he remembered. He had expected the low, sidelong noise of the first week, the conversations that stopped on the stair as he passed, the people who looked at the hollow circle on his tag and then very carefully did not look at his face. None of it came. What came instead took him most of three days to recognize, because he had not been on the receiving end of it since Ardenmere.
+Cael had braced himself for something else. He had spent the night after the posting lying awake in the narrow room, building the week ahead as he had once built the reader under the lamp, carefully and out of every unkind thing he remembered. He had expected the low, sidelong noise of the first week, the conversations that stopped on the stair as he passed, the people who looked at the hollow circle on his tag and then very carefully did not look at his face. None of it came. What came instead took him most of three days to recognize, because he had not been on the receiving end of it since Ardenmere.
 
 People asked him things, plainly, to his face, in corridors and at the meal hatch.
 
@@ -10,7 +10,7 @@ A Storm Path fourth-year he had never once spoken to stopped him on the stair ou
 
 On the second day, in the line for barley at the seventh bell, a second-year from the movement floor fell in beside him and began, without any introduction at all, to talk odds.
 
-He was a thin, quick boy with ink on his thumb, and he talked the way circuit touts had talked on the stairs of the Ironyard, fast and pleasant and entirely without shame. He had grown up, he said, in a river town with a fighting pit behind the tannery, and he had been taking wagers on things since he could count. Not money, he added quickly, because Greyvane didn't hold with money, but crusts and kitchen duty and the good seat by the stable fire.
+He was a thin, quick boy with ink on his thumb, and he talked like the circuit touts on the stairs of the Ironyard, fast and pleasant and entirely without shame. He had grown up, he said, in a river town with a fighting pit behind the tannery, and he had been taking wagers on things since he could count. Not money, he added quickly, because Greyvane didn't hold with money, but crusts and kitchen duty and the good seat by the stable fire.
 
 "Edran's the favourite," he said, as if this were news. "Three to one, on the stairs. Five to two in the hardening hall, because they like an underdog in there. The Edge floor won't take a wager against him at all." He lowered his voice. "I'd be very grateful for anything you could tell me. Not much. A word."
 
@@ -62,7 +62,7 @@ He had done this before, many times, in a city where the cost of getting it wron
 
 *Ardenmere, losing cost me a bruise and some pride. This costs the provision. Study accordingly.*
 
-Edran trained on the open floor every morning before the first bell, in the far corner by the high windows, exactly as he had said he would, and he did not change anything for the rail. He nodded to Cael on the first morning when Cael came in, and after that he never looked at the rail at all, because he did not need to: Cael was always there.
+Edran trained on the open floor every morning before the first bell, in the far corner by the high windows, as he had said he would, and he did not change anything for the rail. He nodded to Cael on the first morning when Cael came in, and after that he never looked at the rail at all, because he did not need to: Cael was always there.
 
 The first three days taught him the Path before they taught him anything about the man.
 
@@ -88,7 +88,7 @@ On the third day, in the afternoon, he went to the archive and asked Prynn for t
 
 "All of his."
 
-Prynn looked at him over her spectacles for a long moment, then climbed down off her stool without a word and walked him to the end of the nearest aisle, where the academy's own records were kept. She took down a tall narrow book with a cloth spine and laid it on the long table.
+Prynn looked at him over her spectacles, then climbed down off her stool without a word and walked him to the end of the nearest aisle, where the academy's own records were kept. She took down a tall narrow book with a cloth spine and laid it on the long table.
 
 "Standings bouts. Every one, every term, as the assessor entered them. Public record. Anyone may read it."
 
@@ -100,7 +100,7 @@ Prynn looked at him over her spectacles for a long moment, then climbed down off
 
 She went away between the shelves, and Cael opened the book.
 
-It was a plain record, kept the way Vell had kept her ledger, in columns: the date, the names, the assessor, the number of exchanges, the result, and a short line in the assessor's hand. He found Edran's first entry near the front of the section three years back, a Copper first-year of fifteen beating another Copper first-year in five exchanges, and beside it the assessor had written *Glass. Over-commits. Will learn.* The next entries said the same thing in shorter words and then stopped saying it, and by the end of the first year the line beside Edran's name said only *Clean*.
+It was a plain record, kept in columns like Vell's ledger: the date, the names, the assessor, the number of exchanges, the result, and a short line in the assessor's hand. He found Edran's first entry near the front of the section three years back, a Copper first-year of fifteen beating another Copper first-year in five exchanges, and beside it the assessor had written *Glass. Over-commits. Will learn.* The next entries said the same thing in shorter words and then stopped saying it, and by the end of the first year the line beside Edran's name said only *Clean*.
 
 He followed the name forward through three years. It climbed the columns as it had climbed the board, steadily and without any great leaps, through the Copper ranks and over the threshold into Iron, and it lost only four times in the whole record. Every one of the four losses was in a bout that went past the third exchange.
 
@@ -148,7 +148,7 @@ In the half-light the yard had gone grey behind her, and the hill town's first l
 
 "That's why I didn't ask."
 
-She looked at him properly then, and he saw her take that and set it down somewhere careful, the way she set down a timing that agreed with a timing she had written before.
+She looked at him properly then, and he saw her take that and set it down somewhere careful.
 
 "Noted."
 
@@ -156,7 +156,7 @@ She went in. He sat on the wall and watched the lamps come on down the hill, and
 
 *K. has pages on him. Didn't ask. She was glad I didn't. That's the second thing this week somebody has been glad I didn't do.*
 
-Oona was at the board the next morning, in front of the answer, reading it for what he suspected was the fifth or sixth time. She had her slate under her arm and her tag on its string, and when he came up beside her she did not look round. She only said, as if they had been in the middle of a conversation, "They keep asking me."
+Oona was at the board the next morning, in front of the answer, reading it for what he suspected was the fifth or sixth time. He came up beside her, and she kept her eyes on the paper. She only said, as if they had been in the middle of a conversation, "They keep asking me."
 
 "Who does?"
 
@@ -164,31 +164,31 @@ Oona was at the board the next morning, in front of the answer, reading it for w
 
 "What do you tell them?"
 
-"I tell them to ask you." She turned at last and looked up at him, with the serious, whole-faced attention she gave every sum. "I'm not telling anybody what you told me. At the board. About the second page."
+"I tell them to ask you." She turned at last and looked up at him. "I'm not telling anybody what you told me. At the board. About the second page."
 
-He had not asked her to keep it, and he realized, standing there, that he had not even thought to. He had told a thirteen-year-old the most important true thing he owned and then walked away to assembly, and she had carried it for two days through a building full of people who were trying to find out exactly that.
+He had not asked her to keep it, and he realized, standing there, that he had not even thought to. He had told a thirteen-year-old the most important true thing he owned and then walked away to assembly, and she had carried it for two days through a building full of people who were trying to find out that one thing.
 
 "Thank you."
 
-"It's yours," said Oona, as if that settled it. "You get to say it. Not me." She looked back at the board. "Are you going to win?"
+"It's yours," said Oona. "You get to say it. Not me." She looked back at the board. "Are you going to win?"
 
 "I don't know."
 
-She weighed that, the way she weighed everything.
+She weighed that.
 
 "That's a true one. You'd have said yes if it wasn't."
 
 "Would I?"
 
-"Grown-ups always say yes about winning. To make you feel better." She tucked her slate in tighter. "I'm coming to watch. Everybody is. My uncle says you should watch a good fight even if you don't know anybody in it, and I know somebody in this one."
+"Grown-ups always say yes about winning. To make you feel better. I'm coming to watch. Everybody is. My uncle says you should watch a good fight even if you don't know anybody in it, and I know somebody in this one."
 
-She went off toward the lecture wing before he could answer. He stood in front of the board with the answer and the petition side by side and found that he was smiling in a way he would not have wanted Edran to see.
+She went off toward the lecture wing before he could answer. He stood in front of the board with the answer and the petition side by side and was smiling in a way he would not have wanted Edran to see.
 
 ---
 
 He found the seam on the fourth morning.
 
-He found it the way he had found every seam that mattered, not by waiting for a mistake, since Edran hardly ever made one, but by looking for the place where the precision itself charged a price. It took him a long time to see, because it lived in a gap so small that only the shape of the whole sequence showed it.
+Waiting for a mistake would have been no use; Edran hardly ever made one. What Cael hunted instead was the spot where all that precision sent in its own bill, and it was slow to show itself, because it lived in a gap so small that only the shape of the whole sequence showed it.
 
 Edran ran a set of four. The shell on his left forearm and the edge on his right were both up before he moved, waiting like a held breath. The first two went one after the other, the shell bursting on an imagined blow and the edge sweeping through an imagined strike, so fast that the two seemed to be one long motion. Cael had watched that a hundred times now and it never stopped being beautiful.
 
@@ -210,7 +210,7 @@ He wrote it in the binder that night in the plainest words he had.
 
 He did not sleep much.
 
-On the fifth and sixth days he confirmed it from three directions, because one direction was a guess and two was a coincidence. He watched Edran drill alone in the mornings, and the gap held. He watched him spar in the afternoons against two partners Wray put across from him, a Blade fourth-year with very fast hands, and Hobb, who stood like a wall and made Edran come to him, so that every sequence had to run long. Against the Blade student the gap hardly mattered, because the bouts ended early. Against Hobb, who refused to be moved, Edran's sequences ran to four and five, and the gap opened after the second every single time, and Hobb, who was not looking for it, never used it. Hobb nodded to Cael at the rail afterward on his way out and said nothing at all, and Cael was almost certain that Hobb knew exactly what he had been watching.
+On the fifth and sixth days he confirmed it from three directions, because one direction was a guess and two was a coincidence. He watched Edran drill alone in the mornings, and the gap held. He watched him spar in the afternoons against two partners Wray put across from him, a Blade fourth-year with very fast hands, and Hobb, who stood like a wall and made Edran come to him, so that every sequence had to run long. Against the Blade student the gap hardly mattered, because the bouts ended early. Against Hobb, who refused to be moved, Edran's sequences ran to four and five, and the gap opened after the second every single time, and Hobb, who was not looking for it, never used it. Hobb nodded to Cael at the rail afterward on his way out and said nothing at all, and Cael was almost certain that Hobb knew what he had been watching.
 
 The third direction was the record. He went back to the archive on the sixth afternoon and read the four losses again with Prynn's terrible tea at his elbow, and this time he knew what to look for. Every one of the four had been lost to a fighter who outlasted the ready pair in an exchange, and every one had been lost after the third exchange, when Edran was pressing to finish. The gap held from every direction. It was structural, not incidental, and it was there whether Edran was fresh or tired, alone or watched.
 
@@ -224,7 +224,7 @@ The one thing he did train, those six nights, had nothing to do with Edran at al
 
 "Compression," he said on the fifth night, on Brom's floor after the eighth bell. "Quarter only. I'm not reaching for half this week."
 
-Brom lowered himself onto the boards opposite with care; his own left wrist still remembered the night a half push had knocked it back a hand's width. "Why not?"
+Brom lowered himself onto the boards opposite with care; his own left wrist still remembered the night a half push had knocked it back. "Why not?"
 
 "Because half costs four breaths and a locked shoulder, and I want both shoulders on the eighth." Cael set his left forearm across his chest and braced it. His own wrist, the one he had misrouted a fortnight ago, had gone from swollen to stiff to nothing, and he flexed it once to make sure it stayed nothing. "And because it gets worse when I leave it. Two days without practice and the timing slides. If I let it slide this week, it'll wake on the eighth with bad manners."
 
@@ -232,7 +232,7 @@ Brom lowered himself onto the boards opposite with care; his own left wrist stil
 
 "I know. I want it to wake the way it's used to waking. Quietly. So I can tell it no."
 
-Brom looked at him for a moment, and then set his left palm on Cael's forearm without any further argument. Iron Skin came up under the skin, and he leaned.
+Brom looked at him, and then set his left palm on Cael's forearm without any further argument. Iron Skin came up under the skin, and he leaned.
 
 They did ten. Each time Cael waited for the force to settle into the bone and chose the road before the fragment could choose one, out and back along the line it came in, a quarter's width and no wider. He did not let himself imagine the channel any broader than that. Five of the ten caught. Each of the five went home into Brom's wrist with the small solid knock he knew by now. Each one cost exactly what the quarter had always cost, the hot bar across the collarbones and two breaths he could not take, and none of them went into a joint.
 
@@ -254,7 +254,7 @@ Brom eased off and looked at him.
 
 "Because on the eighth I'll have to have it and not use it. In front of everybody. I've only done it once in my life when it counted, and that was half by surprise. I wanted to do it when I'd decided to."
 
-Brom sat back against the leg of his desk and looked at him for a long while, and then he laughed, low.
+Brom sat back against the leg of his desk and looked at him, and then he laughed, low.
 
 "Most people practise catching. You're practising dropping."
 
@@ -314,7 +314,7 @@ Lira thought about it with the same care she gave an opponent's feet.
 
 "The board. He goes and looks at the board."
 
-They sat until the coals were nearly black and the tile players had packed up and gone and the lamp at the end of the table had burned down so far that there was no reason left to sit on. Then Lira stood and took both mugs, and put her free hand on his shoulder for a moment as she passed, the way she always had.
+They sat until the coals were nearly black and the tile players had packed up and gone and the lamp at the end of the table had burned down so far that there was no reason left to sit on. Then Lira stood and took both mugs, and put her free hand on his shoulder as she passed, the way she always had.
 
 "Sleep. Tomorrow's the seventh. You get one more day of being sure."
 

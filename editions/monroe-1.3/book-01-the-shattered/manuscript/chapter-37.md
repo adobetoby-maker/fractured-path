@@ -46,7 +46,7 @@ He understood that the moment he came through the gate in the wall. The benches 
 
 They had come for Sarel, who fought here a few times a season, Vell had said, when she had nothing better on, and when she did, people came.
 
-Marrow's slate said *Sarel* with no price beside it at all. Under it was *unrated (vouched)*, with a price so long it ran off the edge of the slate and had been chalked round the corner, and under that, *Over/under: 3 exch.*
+Marrow's slate said *Sarel* with no price beside it at all. Under it was *unrated (vouched)*, with a price so long it ran off the edge of the slate and had been chalked round the corner, and under that, *Over-under: three exchanges.*
 
 "Three," said Lira at the barrel. "He thinks you'll last three. That's generous."
 

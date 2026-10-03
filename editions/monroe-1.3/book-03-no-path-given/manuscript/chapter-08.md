@@ -2,7 +2,7 @@
 
 By the time he crossed the yard that afternoon, the rumors had found a face to hang themselves on, and it was his.
 
-He had first noticed Edran three days earlier, from the rail of the open floor, where an observer was allowed to stand and watch as long as he did not step over the chalk. Edran had been the easiest person in the hall to pick out, because everyone else on the floor moved around him the way water moves around a post, without seeming to think about it, and because he fought with the settled ease of someone who had been at the top of a board for so long that he no longer checked whether he was still there. Glass Path. Iron Rank Two. First on the standings.
+He had first noticed Edran three days earlier, from the rail of the open floor, where an observer was allowed to stand and watch as long as he did not step over the chalk. Edran had been the easiest person in the hall to pick out, because everyone else on the floor moved around him like water around a post, without seeming to think about it, and because he fought with the settled ease of someone who had been at the top of a board for so long that he no longer checked whether he was still there. Glass Path. Iron Rank Two. First on the standings.
 
 Cael had watched him for most of an hour, filling a page. Glass was not what he had expected; he had always thought of glass as the thing that broke. Edran's declarations broke, certainly, and Cael watched a bright, hard shell of something like crystal form along his forearm to take a strike and then burst into a glitter that hung for a heartbeat in the air before it vanished. But the shell did not break because it failed. It broke because breaking was what it was for: the burst carried the strike's force away with it in a hundred directions at once, and before the glitter had faded a new shell was already forming in the next place Edran expected to be hit. By the end of that first bout Cael had crossed out a page of his own notes about brittleness and started again.
 
@@ -24,13 +24,13 @@ The boy retying his boot had stopped pretending.
 
 It was not hostile, and that was the hard part. Cael had faced hostile questions all his life, and hostile questions were easy in their way, because they told you what the person wanted and you could refuse to give it. This was something else. Edran sounded genuinely curious, almost academic, like a student who has found a hole in a rule and would like to know how deep it goes. Anger burned out. Curiosity kept a notebook.
 
-Cael felt the yard around him the way he felt a crowd before a bout, the loose half-ring of listeners, the boy with the boot. He knew that whatever he said in the next breath would be in every common room by the seventh bell, word for word, and improved on by the eighth. He went through what he had: a form that said a thing its signers knew was not so; a binder in his pack that no one here would ever read; and nothing between the two that he could say out loud and keep. He would not lie. He had decided that a long time ago, on a different road.
+Cael felt the yard around him the way he felt a crowd before a bout, the loose half-ring of listeners, the boy with the boot. He knew that whatever he said in the next breath would be in every common room by the seventh bell, word for word, and improved on by the eighth. He went through what he had: a form that said a thing its signers knew was not so; a binder in his pack that no one here would ever read; and nothing between the two that he could say out loud and keep. He would not lie. He had decided that long ago, on a different road.
 
 "I'm enrolled."
 
 Every word of it was true, and none of it was the thing Edran had asked.
 
-Edran looked at him for a long moment, weighing it as Cael had watched him weigh an opponent between exchanges. Cael saw him consider pressing and decide against it, not out of kindness but out of something more like respect for a guard that had been put up properly.
+Edran looked at him, weighing it as Cael had watched him weigh an opponent between exchanges. Cael saw him consider pressing and decide against it, not out of kindness but out of something more like respect for a guard that had been put up properly.
 
 "That isn't an answer."
 
@@ -40,11 +40,11 @@ Edran looked at him for a long moment, weighing it as Cael had watched him weigh
 
 "Yes."
 
-Edran nodded once, slowly, as if filing something away for later, and left for the training hall without saying anything else. The boy with the boot went after him, and the others drifted apart, already talking. Cael stayed where he was by the north gate, his own shadow stretched long beside him on the packed earth, and understood that the question had not been answered. It had only been put down, carefully, where both of them could see it.
+Edran nodded once, slowly, and left for the training hall without saying anything else. The boy with the boot went after him, and the others drifted apart, already talking. Cael stayed where he was by the north gate, his own shadow stretched long beside him on the packed earth, and understood that the question had not been answered. It had only been put down, carefully, where both of them could see it.
 
 ---
 
-He told Brom that evening in the stable, over barley, because by now it would have felt stranger not to. Brom listened as he listened to the account of a fight, which was what it had been, and asked two questions — where the other students had been standing, and whether Edran had raised his voice — and then ate in silence for a while, turning it over.
+He told Brom that evening in the stable, over barley, because by now it would have felt stranger not to. Brom heard it out as he heard out any fight, which was what it had been, and asked two questions — where the other students had been standing, and whether Edran had raised his voice — and then ate without speaking, turning it over.
 
 "The yard was the point," he said finally. "Not the question. He wanted a dozen people to hear you not answer."
 
@@ -70,7 +70,7 @@ He stopped, and then wrote the part that mattered.
 
 *Integration note. Today was the first time I have ever chosen not to use a fragment that was already reaching. Not failed to reach. Chosen. It went quietly. I think that is worth more than the quarter-push.*
 
-He sat with that a long moment. It was true, and it frightened him a little, and he could not entirely say why.
+He sat with that. It was true, and it frightened him a little, and he could not entirely say why.
 
 Then he took out a fresh sheet of paper, because he had told Hesk he would write again after the first assessment and he had meant it. The second letter was shorter than the first. He told Hesk the assessment had passed, that three people had watched, that one of them had asked a good question and he had answered it with a limit in it and the man had looked pleased. He did not mention the strike or the fragment that had reached for it; some things were for the binder. He signed it, folded it, and set it ready for Lira's next trip down the hill.
 
@@ -78,7 +78,7 @@ Then he took out a fresh sheet of paper, because he had told Hesk he would write
 
 His supervised hour on the third day of the second week was the one he would remember, though nothing much happened in it.
 
-It was section four again, and Quenna again, standing at the chalk with her slate, and nobody else. He ran the framework against no one at half pace and then full, supplying his own strikes out of the air, and did Lira's circuits, and at some point in the first quarter of an hour he realized he had stopped shaping any of it for the slate. He had not decided to stop. He had simply forgotten she was there, the way he forgot a crowd once a bout properly began. The work had become his own again, plain and repetitive and a little dull, the shoulder rolls slow and careful, the footwork patterns walked through over and over until his legs stopped asking his head for directions. Twice he glanced up and found her pen still, and once he found her not looking at him at all but out of the high window. He understood that she had stopped needing to watch him closely, which might have been the most useful thing that had happened to him all week.
+It was section four again, and Quenna again, standing at the chalk with her slate, and nobody else. He ran the framework against no one at half pace and then full, supplying his own strikes out of the air, and did Lira's circuits, and at some point in the first quarter of an hour he realized he had stopped shaping any of it for the slate. He had not decided to stop. He had simply forgotten she was there. The work had become his own again, plain and repetitive and a little dull, the shoulder rolls slow and careful, the footwork patterns walked through over and over until his legs stopped asking his head for directions. Twice he glanced up and found her pen still, and once he found her not looking at him at all but out of the high window. He understood that she had stopped needing to watch him closely, which might have been the most useful thing that had happened to him all week.
 
 At the end she signed the session record, and then, instead of handing him only the strip, she took a second slip from inside her folder and held it out between two fingers.
 
@@ -98,13 +98,13 @@ She looked at him, and he could not tell whether she was amused.
 
 "Usually." She closed the folder. "You're learning the language. Keep your assessments clean, Cael. That's the whole of our part. Theirs is theirs."
 
-He walked back across the yard with the date on the card fixed in his head, a purple stamp on a grey corner, the first thing that had come back up the road the brown envelope had gone down. It did not frighten him exactly. It was more like hearing, from inside a quiet house, a door close somewhere at the far end of it, and knowing that someone else was home.
+He walked back across the yard with the date on the card fixed in his head, a purple stamp on a grey corner, the first thing that had come back up the road the brown envelope had gone down. It did not frighten him. It was more like hearing, from inside a quiet house, a door close somewhere at the far end of it, and knowing that someone else was home.
 
 ---
 
 In every other free hour of that second week, he watched.
 
-That was what an observer was allowed to do, so he did it from the rail of the open floor, from the edge of the formal yard during standings bouts, and from the back of the defensive branch's drill hall, with the binder open on his knee and his pen moving. He could not fight anyone, and he was not eligible for the open bouts where most of the real learning of the place seemed to happen, the unscheduled matches between friends and rivals that filled the late afternoons. But nobody had ever said he could not stand at the edge and look. By the fourth day he found that he was building a page format without having decided to. Across the top went the declaration structure, as far as he could see it from outside — what came up, where, how fast, how it faded — and down the left margin went the tells, the small things a body did before its Path did anything, and the middle held timing, and at the bottom of each page, after some days of trying other headings, he wrote a single line under the words *What this Path believes*. He had come to think that every Path held an opinion, not only a set of abilities but a settled view of what a fight was for and how one ought to be won, and that you could see the view in how its people stood long before they threw anything.
+That was what an observer was allowed to do, so he did it from the rail of the open floor, from the edge of the formal yard during standings bouts, and from the back of the defensive branch's drill hall, with the binder open on his knee and his pen moving. He could not fight anyone, and he was not eligible for the open bouts where most of the real learning of the place seemed to happen, the unscheduled matches between friends and rivals that filled the late afternoons. But nobody had ever said he could not stand at the edge and look. By the fourth day he was building a page format without having decided to. Across the top went the declaration structure, as far as he could see it from outside — what came up, where, how fast, how it faded — and down the left margin went the tells, the small things a body did before its Path did anything, and the middle held timing, and at the bottom of each page, after some days of trying other headings, he wrote a single line under the words *What this Path believes*. He had come to think that every Path held an opinion, not only a set of abilities but a settled view of what a fight was for and how one ought to be won, and that you could see the view in how its people stood long before they threw anything.
 
 *Glass believes you can afford to break if you break first and on purpose.*
 
@@ -188,7 +188,7 @@ The assessor called it.
 
 ---
 
-She did not celebrate. She collected her water from the bench, drank, and walked off the formal ground toward the rail with the look of someone who has said exactly what she came to say and does not intend to say it twice. The crowd did not leave at once. Cael heard the talk start as she passed, low and quick, the voices of people trying already to work out how to tell it to someone who had missed it, and he heard someone say *the one with the dot* and someone else say *not after that*, and he could not tell whether they meant the mark or the girl.
+She did not celebrate. She collected her water from the bench, drank, and walked off the formal ground toward the rail with the look of someone who has said what she came to say and does not intend to say it twice. The crowd did not leave at once. Cael heard the talk start as she passed, low and quick, the voices of people trying already to work out how to tell it to someone who had missed it, and he heard someone say *the one with the dot* and someone else say *not after that*, and he could not tell whether they meant the mark or the girl.
 
 Lira reached the rail and toweled her face, and did not quite meet his eyes.
 
@@ -204,7 +204,7 @@ Brom had waited until she was finished. He always did.
 
 "I wanted them to watch it not matter." Lira flexed the shoulder, winced very slightly, and stopped. "You of all people know the difference. You've made a career of it."
 
-Brom considered that for a long moment, and then dipped his head, conceding.
+Brom considered that, and then dipped his head, conceding.
 
 "Get your initials," said Gerda from along the rail. "Before the sixth bell."
 
@@ -236,7 +236,7 @@ Cael waited. He had learned long ago that Lira's thoughts arrived in their own t
 
 "What happened to the fight between them?"
 
-Lira thought about it with great care, the way she thought about an opponent's footwork.
+Lira gave it the care she gave an opponent's footwork.
 
 "I think I just let them both sit down. There's room on the bench."
 
@@ -244,13 +244,13 @@ Brom made the low sound in his chest. "That's wise."
 
 "Don't. You'll ruin it."
 
-He didn't. He sat beside her in the dusk with his ribs held carefully to one side and said nothing more at all, and after a while she reached over without looking and moved the cold cloth so that it covered his ribs as well as her shoulder, which it did not quite, and neither of them mentioned it. Cael watched the hill town's lamps come on one by one below them and did not write anything down. Some things he wanted to keep exactly as they were, without his handwriting on them.
+He didn't. He sat beside her in the dusk with his ribs held carefully to one side and said nothing more at all, and presently she reached over without looking and moved the cold cloth so that it covered his ribs as well as her shoulder, which it did not quite, and neither of them mentioned it. Cael watched the hill town's lamps come on one by one below them and did not write anything down. Some things he wanted to keep as they were, without his handwriting on them.
 
 ---
 
 He made the week's inventory on the last night of the second week, cross-legged on his bed with the binder open across his knees and the lamp turned low, and he counted the Path pages first.
 
-Glass, from Edran. Stone, from Hobb. Shield, from Wray, from the way she stood and the way she changed one condition at a time, though he had never once seen her use her Path. Iron Skin, from Brom, which he had known for a year but had never before watched taken apart by someone better at taking things apart than he was. Wind, from Lira, in a formal yard, with a clerk's dot beside her name. Force, from the third-year she had walked off the edge of a ring. Ash, from Gerda, glimpsed once in a supervised block, a low grey haze that seemed to slow everything that passed through it. Blade, from a pair in the training hall who drilled every day in total silence and had plainly stopped needing to tell each other anything. Current, from a second-year girl whose footwork never once stopped moving. Storm, from a fourth-year off the movement floor who left the formal yard smelling of rain. Anchor, from a Copper first-year who planted himself so absolutely that two people together could not shift him a finger's width.
+Glass, from Edran. Stone, from Hobb. Shield, from Wray, from the way she stood and the way she changed one condition at a time, though he had never once seen her use her Path. Iron Skin, from Brom, which he had known for a year but had never before watched taken apart by someone better at taking things apart than he was. Wind, from Lira, in a formal yard, with a clerk's dot beside her name. Force, from the third-year she had walked off the edge of a ring. Ash, from Gerda, glimpsed once in a supervised block, a low grey haze that seemed to slow everything that passed through it. Blade, from a pair in the training hall who drilled every day in total silence and had plainly stopped needing to tell each other anything. Current, from a second-year girl whose footwork never once stopped moving. Storm, from a fourth-year off the movement floor who left the formal yard smelling of rain. Anchor, from a Copper first-year who planted himself so absolutely that two people together could not shift him.
 
 Eleven.
 
@@ -272,9 +272,9 @@ Eleven Paths, watched closer than a spectator stood and closer than the circuit'
 
 *The Blade pair believe in each other. I couldn't find a Path for that.*
 
-He stopped there for a while.
+He stopped there.
 
-He had walked through the gate two weeks ago thinking of the observer category the way everyone did, as a patch over a hole in the rules, bars with a hinge on them, something to put up with until somebody could argue him into a better one. He had thought the narrowness was the whole of it and that his work at Greyvane would be pushing at the bars. It was not the whole of it. The category had shut him out of every open bout on the grounds; it had refused him a partner, in writing; it had put him in a room full of thirteen-year-olds and at the far end of every desk. And because it had shut him out of everything, it had left him standing at the edge of everything with nothing to do but look. He had never had so much to look at in his life.
+He had walked through the gate two weeks ago thinking of the observer category like everyone else, as a patch over a hole in the rules, bars with a hinge on them, something to put up with until somebody could argue him into a better one. He had thought the narrowness was the whole of it and that his work at Greyvane would be pushing at the bars. It was not the whole of it. The category had shut him out of every open bout on the grounds; it had refused him a partner, in writing; it had put him in a room full of thirteen-year-olds and at the far end of every desk. And because it had shut him out of everything, it had left him standing at the edge of everything with nothing to do but look. He had never had so much to look at in his life.
 
 He took his time over it, using the slow square hand that meant he expected to come back to the page.
 
@@ -284,12 +284,12 @@ He looked at the line, and then wrote the rest of it.
 
 *Holding still turns out to be the best place to see from. It isn't a cage. It's a vantage point.*
 
-He read back over the two weeks before he closed the binder, the way he did on nights that felt like hinges. Brom had a teacher, a woman who wanted to be proved wrong and had said so out loud to twenty people, who had found the soft place in him and offered to mend it. He was still holding his right side when he sat down and was happier than Cael had ever seen him. Lira had put something down at an intake desk and picked something else up on a formal floor. She was carrying both now, the signed page and the third-year's heel on the chalk, and neither of them had won; she was letting them share the bench. He himself had a name on a public board in the main hall, in the same ink as everyone else's, and a hollow circle on his tag, and a refusal in writing behind the stranger's note in the back of his binder, and a grey card with a purple date on it in a folder somewhere in Quenna's keeping. He had a first assessment satisfied and a second coming in a month. He had a question asked in the open by the best fighter in the building, and an answer that was true and was not an answer, and a strong feeling that the question had only been set down, not dropped. And he had a name he owed a thank-you to. Hobb.
+He read back over the two weeks before he closed the binder, as he did on nights that felt like hinges. Brom had a teacher, a woman who wanted to be proved wrong and had said so out loud to twenty people, who had found the soft place in him and offered to mend it. He was still holding his right side when he sat down and was happier than Cael had ever seen him. Lira had put something down at an intake desk and picked something else up on a formal floor. She was carrying both now, the signed page and the third-year's heel on the chalk, and neither of them had won; she was letting them share the bench. He himself had a name on a public board in the main hall, in the same ink as everyone else's, and a hollow circle on his tag, and a refusal in writing behind the stranger's note in the back of his binder, and a grey card with a purple date on it in a folder somewhere in Quenna's keeping. He had a first assessment satisfied and a second coming in a month. He had a question asked in the open by the best fighter in the building, and an answer that was true and was not an answer, and a strong feeling that the question had only been set down, not dropped. And he had a name he owed a thank-you to. Hobb.
 
 He closed the binder.
 
 Across the corridor, quite clearly, in his sleep, Brom said, "Hobb," and then grunted, and turned over.
 
-Cael lay back in the dark and laughed silently at the ceiling until his ribs hurt. Then he lay still and listened to the building, and found that he knew every sound in it now — the stair, the latch, the pipe, the bell far off saying it was late.
+Cael lay back in the dark and laughed silently at the ceiling until his ribs hurt. Then he lay still and listened to the building, and knew every sound in it now — the stair, the latch, the pipe, the bell far off saying it was late.
 
 He knew where he was. He fell asleep knowing it.

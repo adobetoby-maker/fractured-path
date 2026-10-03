@@ -14,7 +14,7 @@ She sat on Brom's bed with her back against the wall and her boots on Brom's bla
 
 "Fast. Not your fastest. Fast enough that it's a strike and not a lean."
 
-Brom considered him for a long moment with his chalked hands on his knees. Then he looked across at Lira on the bed, and Lira looked back at him and said nothing, with great force, and Brom looked back at Cael.
+Brom considered him with his chalked hands on his knees. Then he looked across at Lira on the bed, and Lira looked back at him and said nothing, with great force, and Brom looked back at Cael.
 
 "Quarter," he said. "Fast. I'll call it."
 
@@ -70,7 +70,7 @@ He read it back, and then he added the line Lira had asked for.
 
 *It is not cheaper because it's smaller. A quarter fast cost more than the whole slow. Speed is its own price.*
 
-Lira read it over his shoulder, upside down, from where she sat on the floor against the bed. She did not say anything. She took the binder out of his hands, closed it, and put it on Brom's shelf in the neat row beside Brom's crest-up tag. Then she put her hand on his forehead for a moment, the way you would with a child who has a fever, and took it away.
+Lira read it over his shoulder, upside down, from where she sat on the floor against the bed. She did not say anything. She took the binder out of his hands, closed it, and put it on Brom's shelf in the neat row beside Brom's crest-up tag. Then she put her hand on his forehead for a moment, and took it away.
 
 "Tomorrow," she said. "I'll say it tomorrow."
 
@@ -104,13 +104,13 @@ She let go of the strip.
 
 "And Cael." She had turned to go and turned back. "I'll want to see you after it. Both of you." She glanced at Karis, folding her stool, and back. "Not about anything you're doing. About something I'd like to do."
 
-She went out. Karis stood with the stool under her arm and looked at the door for a moment after Quenna had gone.
+She went out. Karis stood with the stool under her arm and looked at the door after Quenna had gone.
 
 "Something with structure," said Karis quietly.
 
 "You think so?"
 
-"I asked her a question once," said Karis, "and asked her to keep it." She tucked the stool more firmly under her arm. "I think she's kept it."
+"I asked her a question once," said Karis, "and asked her to keep it. I think she's kept it."
 
 ---
 
@@ -118,13 +118,13 @@ The nineteenth session, on the Friday evening, ended early. Karis had fought a s
 
 "I'm calling it," she said. "Not because anything happened to me. Because I can't lay a clean point, and a session with dirty points is a session with a second variable in it." She was already writing. "Null, as far as it went."
 
-They did not leave. They sat on the floor of the quiet room with their backs against opposite walls and the two notebooks open on their knees. Karis had her ledger of the nulls, and he had his own pages of session notes, all of her Path and none of his. They went through them side by side, as they had begun to do at the end of sessions in the third week. She would read a line from the ledger and he would find the same session in his pages, and they would set the two side by side to see whether what she had seen from outside matched what he had felt from in. It had become a ritual without either of them deciding it would. Two notebooks open and two pens moving, in a whitewashed room with the high window going grey.
+They did not leave. They sat on the floor of the quiet room with their backs against opposite walls and the two notebooks open on their knees, her ledger of the nulls and his own pages of session notes, all of her Path and none of his. She would read a line from the ledger and he would find the same session in his pages, to see whether what she had seen from outside matched what he had felt from in. It had become a ritual since the third week without either of them deciding it would: two notebooks open and two pens moving, in a whitewashed room with the high window going grey.
 
-She finished the fourteenth session and the fifteenth, and closed her ledger, and capped her pen with its small definite click, and looked at him across the room.
+She got through the fourteenth session and the fifteenth, shut the ledger, capped her pen, and raised her eyes to him across the room.
 
 "May I ask you something about the shape of the whole?"
 
-He knew from the way she asked it that she had been holding it for some days.
+He knew by how she asked it that she had been holding it for some days.
 
 "You can ask."
 
@@ -138,7 +138,7 @@ He did not. He had decided in an archive on the first day that she was a person 
 
 Karis went very still, the way she went still before an ignition, all of her listening at once.
 
-"Months ago. Before Greyvane, before the road. A session with Brom, in his sparring circle in Ardenmere. The read was open; we were working on it the way we always worked on it. Nothing about that afternoon was different from a hundred others." He found that he could still see the circle, the scuffed chalk, Brom's forearm under his hand. He did not reach for anything else. "And for less than a second, through the read, there was something like water. Water moving, somewhere there wasn't any water. Then it was gone, before I could even turn toward it. Nothing came after it. No notice. I've never had it again."
+"Months ago. Before Greyvane, before the road. A session with Brom, in his sparring circle in Ardenmere. The read was open; we were working on it the way we always worked on it. Nothing about that afternoon was different from a hundred others." He could still see the circle, the scuffed chalk, Brom's forearm under his hand. He did not reach for anything else. "And for less than a second, through the read, there was something like water. Water moving, somewhere there wasn't any water. Then it was gone, before I could even turn toward it. Nothing came after it. No notice. I've never had it again."
 
 "Tide," said Karis.
 
@@ -160,19 +160,19 @@ Karis was quiet a long time.
 
 "I know it exists. That's the trouble with it." She said it without heat. "Either the shape I've drawn isn't the whole shape, or there's a second thing in you working beside the first that I've never been near, or it happened once and a thing that's happened once can't carry a theory on its back. I can't tell which from here. I don't think anybody could."
 
-He said nothing. He thought, privately, of the page in the binder with his own hypothesis on it, *it takes what's used on me*, and of the afternoon in Brom's circle where nobody had been using anything on anybody. It broke his rule too, and he did not say so. It was not for saying yet, and it changed nothing about the second in Brom's circle, which was exactly what it had always been.
+He said nothing. He thought, privately, of the page in the binder with his own hypothesis on it, *it takes what's used on me*, and of the afternoon in Brom's circle where nobody had been using anything on anybody. It broke his rule too, and he did not say so. It was not for saying yet, and it changed nothing about the second in Brom's circle, which was what it had always been.
 
 "So what do we do with it?" he said.
 
 "We keep it."
 
-She opened the ledger again, but she did not turn to the nulls. She turned past them, past the plan she had drawn for the last sessions, to a page near the very back that he had never seen. There was a single short line on it in her small upright hand. She must have written it in the few minutes he had been talking. He could read it from across the room only because she turned the ledger toward him. *Session nine, Ardenmere, with B. One reading, Tide-like, under a second. Never repeated.* Beside it she made a small mark with her pen. It was not a letter or a number, nor any symbol he knew, only a short precise shape, made slowly and deliberately, the way a person signs a thing they mean to stand behind.
+She opened the ledger again, but she did not turn to the nulls. She turned past them, past the plan she had drawn for the last sessions, to a page near the very back that he had never seen. There was a single short line on it in her small upright hand. She must have written it in the few minutes he had been talking. He could read it from across the room only because she turned the ledger toward him. *Session nine, Ardenmere, with B. One reading, Tide-like, under a second. Never repeated.* Beside it she made a small mark with her pen. It was not a letter or a number, nor any symbol he knew, only a short precise shape, made slowly and deliberately, as a person signs a thing they mean to stand behind.
 
 "That mark goes on exactly one thing in this whole notebook," she said. "Real, unexplained, keep. It isn't a failure, and it isn't a hypothesis waiting to be proved. It's something true that I don't understand, and I've written it down as exactly that. I haven't bent it to fit an explanation, the kind that comforts you and teaches you nothing." She looked at the mark. "Most people can't bear to leave a thing like that alone. They explain it, because an explanation is more comfortable to carry than a question. Then they've got an explanation, and it's wrong, and they build on it."
 
-Across the scrubbed floor his eyes stayed on the mark a long while.
+Across the scrubbed floor his eyes stayed on the mark.
 
-He had carried session nine since the road the way a person carries a stone in a boot that nobody else can see, a weight nobody else would credit because it was a weight with no shape. He had never once been able to set it down in front of anyone who would neither explain it away nor shrug at it. Lira had believed him and been frightened; Brom had believed him and been puzzled. Neither of them had known where to put it. Karis had just put it, in front of him, in the most careful notebook he had ever seen, under the most exacting mark that notebook had, and left it there exactly as it was. It was not answered. Nothing about it had been answered. But it had been witnessed, properly, by somebody who knew what witnessing was, and he had not known until this moment how much of the weight of it had been the being alone with it.
+Session nine had ridden with him since the road, small and shapeless, the kind of load you cannot show anyone because there is nothing to hold up. He had never once been able to set it down in front of anyone who would neither explain it away nor shrug at it. Lira had believed him and been frightened; Brom had believed him and been puzzled. Neither of them had known where to put it. Karis had just set it down in front of him in her ledger, under the one mark that ledger kept for nothing else, and left it there as it was. It was not answered. Nothing about it had been answered. But it had been witnessed, properly, by somebody who knew what witnessing was, and he had not known until this moment how much of the weight of it had been the being alone with it.
 
 "How many other entries have that mark?" he asked.
 
@@ -218,4 +218,4 @@ Lira did not say anything. She put her hand on the flask between them and pushed
 
 Gerda drank.
 
-Cael went up to the residence wing and left them there. At the turn of the stair he looked back through the doorway once and saw them still sitting side by side in the one circle of lamplight at the far end of the empty hall, two girls with dots on their tags and their backs to a rail. Neither of them was looking at the clock.
+Cael went up to the residence wing and left them there. Halfway up the stair it came to him that the part of him he had written down a week ago had been listening too. *Part of me is waiting for it.* None of the nulls since had moved it. It had heard Gerda say she would come out of the haze and take what was put on her where the chairs could see, and it had leaned toward the words, because somewhere ahead there was still a floor that was his. He did not like it any better than he had at the desk. He went on up. At the turn of the stair he looked back through the doorway once and saw them still sitting side by side in the one circle of lamplight at the far end of the empty hall, two girls with dots on their tags and their backs to a rail. Neither of them was looking at the clock.

@@ -22,15 +22,15 @@ Then the standings.
 
 A boy on the front bench put up his hand. "Who's first?"
 
-"An Iron Rank Two in his third year. Glass Path. He has been first for some time." Nothing changed in the instructor's voice, but something in it suggested that every intake for a while now had asked the same thing. "You'll meet him. If you want his place, the board is open."
+"An Iron Rank Two in his third year. Glass Path. He has been first for some time." Nothing changed in the instructor's voice, but something in it suggested that every intake asked the same thing. "You'll meet him. If you want his place, the board is open."
 
 Lira made a small, interested sound under her breath, and when Cael glanced at her she was looking at nothing in particular with the face she wore when she was setting something aside for later.
 
-"Advancement." Tap. "Some of you will reach Rank Ten in a tier while you're with us. When you do, your instructor will certify the rank, and you will walk down the hill to the certification station in the town, which is a registered Arbiter station, and you will be evaluated. If the evaluation confirms it, you cross. If it doesn't, you come back and keep working, and nobody here will think less of you." Tap. "Rank is earned on our floors. Tier is confirmed down there. We do not confuse the two, and neither should you."
+"Advancement." Tap. "Some of you will reach Rank Ten in a tier while you're with us. When you do, your instructor will certify the rank, and you will walk down the hill to the certification station in the town, which is a registered Arbiter station, and you will be evaluated. If the evaluation confirms it, you cross. If it doesn't, you come back and keep working, and nobody here will hold it against you." Tap. "Rank is earned on our floors. Tier is confirmed down there. We do not confuse the two, and neither should you."
 
 Cael wrote that down carefully — *Rank is earned. Tier is confirmed.* — and underlined *confirmed*. He knew there was a station in every town of any size; he had walked into one in Denvash at fourteen with Hesk's hand on his shoulder and walked out with a word in brackets. He had not known until this moment that this hill town had one too, a half-hour's walk below the wall, where children from the observer track would go to be Kindled and students from the standard track would go to be measured, and where he would never, so far as he could see, have any reason to go at all.
 
-He found that he was looking at his own tag. The hollow circle. Nothing to certify and no tier to confirm.
+He was looking at his own tag. The hollow circle. Nothing to certify and no tier to confirm.
 
 Brom shifted on the bench beside him, very slightly, so that their shoulders touched. He did not look over. He only stayed there, a solid weight, until the instructor had moved on to the rules for the library.
 
@@ -62,7 +62,7 @@ Naveth sat with both hands flat on the blotter. He was past sixty, long in the f
 
 "Why did this academy take the risk?"
 
-Naveth didn't answer. He studied Cael instead, and it was a different kind of study from the one Cael was used to. Arbiters and clerks and Compact men had all looked at him as though he were something to be fitted into a box, and every one of them had found that he would not fit. This was more like the look a joiner gives a beam he is about to trust with a floor: where will it bend, and how much will it take.
+Naveth didn't answer. He studied Cael instead, and it was a different kind of study from the one Cael was used to. Arbiters and clerks and Compact men had all looked at him as though he were something to be fitted into a box, and every one of them had learned that he would not fit. This was more like the look a joiner gives a beam he is about to trust with a floor: where will it bend, and how much will it take.
 
 "Most of them ask why I took *them*," Naveth said at last. "You asked about the academy. So you've already wondered whether you've fallen in with a gambler or a fool, and you were too polite to say so."
 
@@ -100,13 +100,13 @@ He set both hands flat again.
 
 "Every student in this building is someone's clerical error, Cael. You're simply the largest one we've ever had the nerve to sign for."
 
-Cael sat in the plain chair and understood exactly what he had been given, and what he had not. It was not warmth. In the first months after Denvash he had wanted warmth badly, had wanted some grown person to be moved by a boy's bad luck, and it had gone the same way every time. On the day of his Kindling the certification office had been gentle with him. The clerk had lowered her voice. She had apologized for the classification while her other hand stamped it. Then the appointment ended, and the gentleness ended with it, on the step outside, at the exact moment the door shut. Naveth was offering something else. He had opened a book of numbers and shown Cael why he was worth having, and that steadied Cael more than kindness would have. Anybody could call kindness back without warning. An incentive came with its terms written down, and you could read the terms, and you could see from a long way off when they were going to run out.
+Cael sat in the plain chair and understood what he had been given, and what he had not. It was not warmth. In the first months after Denvash he had wanted warmth badly, had wanted some grown person to be moved by a boy's bad luck, and it had gone the same way every time. On the day of his Kindling the certification office had been gentle with him. The clerk had lowered her voice. She had apologized for the classification while her other hand stamped it. Then the appointment ended, and the gentleness ended with it, on the step outside, at the exact moment the door shut. Naveth was offering something else. He had opened a book of numbers and shown Cael why he was worth having, and that steadied Cael more than kindness would have. Anybody could call kindness back without warning. An incentive came with its terms written down, and you could read the terms, and you could see from a long way off when they were going to run out.
 
 There was one more thing, and he put it quickly, while his nerve still held.
 
 "And when I stop paying off?"
 
-Naveth nodded, slowly, the way an examiner nods when a candidate finds the question under the question.
+Naveth nodded slowly, like an examiner when a candidate finds the question under the question.
 
 "Then I was wrong, and the school lives through it. It has before. Plenty of names in those books went nowhere much. A few washed out before the first frost." His palm rested on the cover. "That's the half people forget. We take the students other schools priced wrong, knowing from the start that some of those bets won't come in. The losses don't sink us."
 
@@ -122,7 +122,7 @@ Naveth's face did not quite smile. It looked, rather, like the face of a man who
 
 Cael waited.
 
-"She sat in that chair with your file on her knee and her argument already written out, and she put her own name on this desk as surety." Naveth pressed his palm to the blotter, lightly, as if the name might still be lying there. "She's done that for hard cases since before this was my office. On the merits of a student, I have never once seen her wrong."
+"She sat in that chair with your file on her knee and her argument already written out, and she put her own name on this desk as surety." Naveth pressed his palm to the blotter, lightly. "She's done that for hard cases since before this was my office. On the merits of a student, I have never once seen her wrong."
 
 He stopped. Cael watched him weigh whether to say the rest, and watched him decide.
 
@@ -138,7 +138,7 @@ The words came out smaller than what stood behind them. Two words could not hold
 
 ---
 
-He sat down on a worn step halfway down the stair because he could not wait, and wrote one line in the binder, *Showed me the ledger instead of his heart*, and then sat with the pen still for a while, adding up the order of who paid until he found that he had decided something without meaning to. Somewhere between the brown book and the stair, he had decided to pass every assessment this building gave him, not for himself, which he had been doing for a long time and was good at, but because a woman had put her name on a desk for him and he would not be the bet that cost her it.
+He sat down on a worn step halfway down the stair because he could not wait, and wrote one line in the binder, *Showed me the ledger instead of his heart*, and then sat with the pen still, adding up the order of who paid, until he realized he had decided something without meaning to. Somewhere between the brown book and the stair, he had decided to pass every assessment this building gave him, not for himself, which he had been doing for years and was good at, but because a woman had put her name on a desk for him and he would not be the bet that cost her it.
 
 The tour began at the second bell. A junior clerk ran it, perhaps twenty, quick and bored, with a slate under one arm and the practiced patter of someone who had given the tour more often than she found interesting, and six new students followed her while Cael walked at the back filling a page in his densest shorthand.
 
@@ -158,7 +158,7 @@ A boy beside Cael frowned. "What's the difference?"
 
 Cael wrote that down twice, in two different places, because it seemed important twice. Every other academy he had ever read about sorted its students by tier. Tier was what institutions ranked people by, the number on a file that decided which doors a person could go through. Sorting by family meant that this place cared more about what a student could come to understand than about where he currently stood on the ladder. He thought it was Naveth's ledger again, written into a building.
 
-Students crossed the paths between the buildings as they walked, in loose, sure lines, never looking up to check the way, and a boy about Cael's age jogged past toward the lecture wing because a bell had just told him to. Cael watched him go with a feeling he had not expected, which was envy, not of the boy but of the bell. He had been his own clock and his own clerk and his own bell for a long time now, training blocks and circuit dates and recovery days built out of nothing but discipline, with nobody waiting for him to arrive and nobody who would have noticed if he were late, and only now, watching someone else's bell do that work, did he feel how tiring it had been.
+Students crossed the paths between the buildings as they walked, in loose, sure lines, never looking up to check the way, and a boy about Cael's age jogged past toward the lecture wing because a bell had just told him to. Cael watched him go with a feeling he had not expected, which was envy, not of the boy but of the bell. He had been his own clock and his own clerk and his own bell for months now, training blocks and circuit dates and recovery days built out of nothing but discipline, with nobody waiting for him to arrive and nobody who would have noticed if he were late, and only now, watching someone else's bell do that work, did he feel how tiring it had been.
 
 The formal yard came last on the ground floor. It sat behind its own wall, open to the sky, the earth packed hard and swept smooth around a single chalk ring, with a low stand of benches along one side for perhaps forty people.
 
@@ -178,7 +178,7 @@ An old woman stood in the doorway. She was in her seventies, small and very stra
 
 "Waystation records," Prynn said, before anyone could ask, in the dry, exact voice of someone who had said it many times to students who never came back. "From before this was a school. The academy kept the room when it took the building, and nobody has ever been brave enough to throw anything away."
 
-Through the narrow gap behind her Cael glimpsed shelving that ran back much further than the passage suggested the building could hold, aisles one person wide and every inch of them used. A cooler air leaked out past her, carrying paper, old glue and stone. He knew that smell; it was Vell's archive in Ardenmere, and he recognized it the way you recognize a voice before you see the face.
+Through the narrow gap behind her Cael glimpsed shelving that ran back much further than the passage suggested the building could hold, aisles one person wide and every inch of them used. A cooler air leaked out past her, carrying paper, old glue and stone. He knew that smell before he could have said why; it was Vell's archive in Ardenmere.
 
 Prynn looked at him — not at the group, at him — with a frank, weighing look like the one Naveth had given him across the desk. Naveth had been weighing a risk. She seemed to be weighing whether he could read.
 
@@ -186,7 +186,7 @@ Prynn looked at him — not at the group, at him — with a frank, weighing look
 
 The others were already following the clerk away. Cael hesitated. "Why?"
 
-"Most students say they will," Prynn said, as if that answered him. "A few mean it."
+"Most students say they will," Prynn said. "A few mean it."
 
 She did not shut the door on him. She simply waited, holding it at its exact angle, until he understood that the conversation was over and walked away, and when he glanced back from the end of the passage she was still watching him go.
 
@@ -194,9 +194,9 @@ Anyone coming in by the main hall's entrance walked past the assessment calendar
 
 *Demonstration Assessment, Unclassified Observer Track. Training hall, first bell. Eighth day.* And beneath it, in the same hand: *Monthly thereafter.*
 
-Three lines below, on the same day, Lira's name sat beside *Re-certification Review, initial*, and further down Brom's name appeared under a standard floor evaluation, all three in the same hand and the same ink and the same size. There was no mark beside his own line to set it apart from the lines above and below, no note in smaller writing explaining what kind of student he was. A name, a category, a date. Every institution that had ever dealt with him had handled him with gloves, the way people handle a thing they are not sure is safe to touch. The Compact had wanted him invisible, and the certification office had wanted him out of the room. Greyvane had simply put him on the timetable, scheduled like everyone else. He understood, standing there, that being scheduled was its own kind of being seen, and perhaps the safer kind, because it was hard to make a person disappear once his name was on a board in the main hall in ink.
+Three lines below, on the same day, Lira's name sat beside *Re-certification Review, initial*, and further down Brom's name appeared under a standard floor evaluation, all three in the same hand and the same ink and the same size. There was no mark beside his own line to set it apart from the lines above and below, no note in smaller writing explaining what kind of student he was. A name, a category, a date. Every institution that had ever dealt with him had handled him with gloves. The Compact had wanted him invisible, and the certification office had wanted him out of the room. Greyvane had simply put him on the timetable, scheduled like everyone else. He understood, standing there, that being scheduled was its own kind of being seen, and perhaps the safer kind, because it was hard to make a person disappear once his name was on a board in the main hall in ink.
 
-It was also a count. Today was the second day. The eighth was six mornings off, and the brown envelope with his name in it would go down the hill on the third. He found that he had placed the two dates side by side in his head without meaning to, like two weights on a scale, and could not quite take them off again.
+It was also a count. Today was the second day. The eighth was six mornings off, and the brown envelope with his name in it would go down the hill on the third. He had placed the two dates side by side in his head without meaning to, like two weights on a scale, and could not quite take them off again.
 
 A girl of about thirteen stopped beside him, and after a moment he knew her: the other name read out under *Observer* that morning. She was small and dark-haired, with a slate hugged to her chest, and she read the board with her lips moving until she found something and frowned at it.
 

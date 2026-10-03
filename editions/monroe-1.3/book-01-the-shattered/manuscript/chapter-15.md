@@ -146,7 +146,7 @@ She was about twenty, square-built, with cropped fair hair and a face that went 
 
 *She's still fighting Dessa,* he thought. *She's been fighting Dessa for a fortnight, and Dessa isn't here.*
 
-Marrow came past the barrel. Cael read the slate without moving his head. *Brenna*, and a short price. *Unrated*, and a long one. Underneath, on its own line, *Over/under: 2 exch.*
+Marrow came past the barrel. Cael read the slate without moving his head. *Brenna*, and a short price. *Unrated*, and a long one. Underneath, on its own line, *Over-under: two exchanges.*
 
 "He's moved your line," said Lira quietly, beside him.
 

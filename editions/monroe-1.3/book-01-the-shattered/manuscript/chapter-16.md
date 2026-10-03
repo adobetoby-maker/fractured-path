@@ -188,7 +188,7 @@ He sat on an upturned crate by the wall through the first two bouts and drank wa
 
 "He says nobody shouts at him in the circle."
 
-On Marrow's slate, the line had moved again. *Over/under: 3 exch.*
+On Marrow's slate, the line had moved again. *Over-under: three exchanges.*
 
 "He's an honest fighter. He doesn't feint much. He doesn't need to. But I'll tell you one thing, because you'll find it out in about four seconds anyway." She did not look at him. "He doesn't miss with the heat by much. And at Copper, Ember isn't fire, mostly. It's the feeling of standing too near an open oven. Until it's not."
 

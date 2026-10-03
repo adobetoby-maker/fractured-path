@@ -32,7 +32,7 @@ Cael almost laughed. It came out as a breath.
 
 "It's right," said Cael. "Nearly all of it. He's got the provision right and the record right. He's got the children right." He turned the binder over on his knees. "He's only got one thing wrong, and it's the thing in the middle that the rest stands on."
 
-Brom nodded slowly, the way he nodded when a fight went the way he had thought it would go and he had not wanted it to.
+Brom nodded slowly. It was his nod for a fight that had gone as he expected and not as he wished.
 
 "Then it's a good petition."
 
@@ -114,7 +114,7 @@ She held up one hand, palm out, and laid the plan on it one piece at a time.
 
 Cael sat with it.
 
-He did what he always did with a plan that was not his own, which was to walk around it looking for the place where it would break, the way he walked around an opponent in the first exchange. He found the place at once, because nobody had hidden it.
+He did what he always did with a plan that was not his own, which was to walk around it looking for the place where it would break, as he walked around an opponent in the first exchange. He found the place at once, because nobody had hidden it.
 
 "If I lose, his petition is answered the way he wanted. I'll have shown the whole school that he was right."
 
@@ -160,9 +160,9 @@ Then, because the man had shut his door to say it and had earned more than two w
 
 "It's what I've been doing since Ardenmere. Every bout on the circuit, I had to win in front of people without showing them more than they'd already seen. Winning at a chosen size." He looked at the copied petition on the blotter. "I've forgotten how to win any other way."
 
-Naveth looked at him for a long moment, and something moved in the old weathered face that Cael could not read. Then he uncapped his pen.
+Naveth looked at him, and something moved in the old weathered face that Cael could not read. Then he uncapped his pen.
 
-"Winning at a chosen size," he repeated, writing nothing, as if testing the words. "That tells me more about you than your intake file did." He turned to Quenna. "The first bell, eight days from today, in the formal yard. Write me the wording and I'll sign it before the fifth bell."
+"Winning at a chosen size," he repeated, writing nothing. "That tells me more about you than your intake file did." He turned to Quenna. "The first bell, eight days from today, in the formal yard. Write me the wording and I'll sign it before the fifth bell."
 
 Quenna was already writing.
 
@@ -176,7 +176,7 @@ That was all of it. It was shorter than any one page of the petition.
 
 Cael saw the crowd in front of the board from the far end of the main hall at the change of bells, thicker and noisier than the morning's, and he did not go to it. He stood by the archive passage with the binder against his chest and watched the reading change as it moved through the crowd from back to front. In the morning the hall had been full of the low, careful noise of a verdict being handed round in pieces. At the front of the crowd now, where people had finished, it had already become something louder and quicker, with laughter in it here and there. At the back two second-years were arguing and one of them was holding up fingers.
 
-Gerda came out of the crowd on its near side, tall and narrow and straight, with her patched coat buttoned and her slip for the floor already in her hand. She saw him by the passage, changed course, and stopped two paces off.
+Gerda came out of the crowd on its near side, with her patched coat buttoned and her slip for the floor already in her hand. She saw him by the passage, changed course, and stopped two paces off.
 
 "Answered."
 
@@ -186,7 +186,7 @@ Gerda came out of the crowd on its near side, tall and narrow and straight, with
 
 "You've seen one answered badly."
 
-Gerda considered him for a moment, as if deciding how much of a true answer could be spared.
+Gerda considered him.
 
 "I've seen one answered correctly. That isn't always the same thing."
 
@@ -202,7 +202,7 @@ Edran turned away and went through the north gate toward the open floor, and Cae
 
 ---
 
-Lira had read the answer by the time he reached the stable. He could tell from the far end of the long room by the way she sat, very upright at the scarred table under the bricked-up hay door, with her bread untouched in front of her.
+Lira had read the answer by the time he reached the stable. He could tell from the far end of the long room by how she sat, very upright at the scarred table under the bricked-up hay door, with her bread untouched in front of her.
 
 "They've put you in a ring," she said, before he had sat down. "For the whole school to stand round and look at."
 
@@ -244,7 +244,7 @@ For a moment Cael thought she was going to throw the bread at him. Then somethin
 
 Lira considered him in silence, and then gave him the single nod she gave an opponent who had done something she would have done herself.
 
-"Good." She pushed the larger half of the bread across to him. "Eat. You've got eight days of being looked at, and you can't do it hungry."
+"Good." She pushed half of it across to him. "Eat. You've got eight days of being looked at, and you can't do it hungry."
 
 ---
 
@@ -276,7 +276,7 @@ It was quiet and quite firm, and it stopped Cael where he stood.
 
 "Everything I've asked has been about the board." Edran's voice did not rise. "I didn't file it to find out what you are. I filed it to find out whether the framework can still tell. If it can't, I'd rather know that from the floor than from you."
 
-Cael stood at the rail with the thing he had come to say still in his mouth, and found that he could not argue with one word of it.
+Cael stood at the rail with the thing he had come to say still in his mouth, and could not argue with one word of it.
 
 "All right."
 
@@ -290,7 +290,7 @@ Something passed over Edran's face, not quite surprise and not quite pleasure, a
 
 He began the next sequence. Cael watched the first shell form and burst. Then he did what he had been told and went to watch somebody else, because the first bell was ringing and because he understood that he had just been given permission to study the man for six days, by the man himself, in daylight, in the open.
 
-Oona was at the board when he came back through the main hall, in front of the answer, with her slate under her arm. She had been waiting for him, and she did not pretend otherwise.
+Oona was at the board when he came back through the main hall, in front of the answer. She had been waiting for him, and she did not pretend otherwise.
 
 "Did you tell him?"
 
@@ -300,29 +300,29 @@ She turned round. "What happened?"
 
 "He told me not to." Cael looked at the four sheets on the board, the three in Edran's hand and the one in Quenna's. "He said if I told him, he'd have my word for it, and he didn't want my word. He wanted the floor to tell him. In front of everybody. The way he asked."
 
-Oona thought about that for a long time, with the whole of her face, while students went past behind them toward the second bell.
+Oona thought about that with the whole of her face, while students went past behind them toward the second bell.
 
 "Then he's not asking the wrong question anymore."
 
 "No?"
 
-"No. Before, he was asking what you are. That's the one he had wrong." She looked at the answer on the board, Quenna's short square paragraph. "Now he's asking if the board can tell. He's allowed to ask that. That's his." She frowned, working it through. "And you can't answer that one with words anyway. It's not a words one."
+"No. Before, he was asking what you are. That's the one he had wrong." She looked at the answer on the board, Quenna's short square paragraph. "Now he's asking if the board can tell. He's allowed to ask that. That's his. And you can't answer that one with words anyway. It's not a words one."
 
 He looked down at her. She was thirteen and had been at Greyvane for six weeks, and she had just said in four sentences the thing it had taken him a whole night to understand.
 
 "No. It's not a words one."
 
-"So you have to win," said Oona, as if that settled it. "Or lose. Either one answers it." She tucked her slate under her arm and considered him. "I'd rather you won."
+"So you have to win," said Oona. "Or lose. Either one answers it." She considered him. "I'd rather you won."
 
 "So would I."
 
-"Then you should," she said, quite seriously, and went off toward the lecture wing.
+"Then you should," she said, and went off toward the lecture wing.
 
 That night he wrote the whole of it down under the four headings, because the four headings were where a fight began.
 
 *Exhibition. Eighth day from posting. Formal yard. Standings rules, Wray's count. Edran, Glass, Iron Rank Two, second on the standings, first for most of three years. Function: answer the petition in public, with the Wind-adjacent framework and nothing else. Benefit: if it goes well, the question gets answered where it was asked. Cost, if I lose: the petition stands, in the record, for as long as the record does. Cost, if I win too well: whatever the record says I did, somebody will read it who wasn't there.*
 
-He looked at that last line for some time.
+He let that last line stand.
 
 *Three audiences. Only one across the chalk.*
 

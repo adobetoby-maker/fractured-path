@@ -4,7 +4,7 @@ The rumor arrived at breakfast on the first morning of the third week, carried i
 
 "There's a transfer."
 
-Brom did not look up from his porridge. "There are always transfers."
+Brom went on with his porridge. "There are always transfers."
 
 "Not like this one." Lira sat, tore the loaf in three and pushed the pieces across the table like a dealer laying out cards. "Ternhall. She came in at the gate yesterday afternoon with a trunk and a letter with the Ternhall seal on it, and the clerk at the standard desk read the letter twice and then looked at her rank for so long that the girl behind her in line started to worry the clerk had died."
 
@@ -22,7 +22,7 @@ Brom considered the matter seriously while he ate. "Ternhall doesn't lose people
 
 Cael saw her for himself at the fourth bell, when he crossed the formal yard on the way to the stable and found someone standing in front of the standings board with a notebook.
 
-She was dark-haired and neat in the way of a person who had decided long ago what she would wear and had not given it a thought since, and she was copying the board. That alone would not have made him stop, because new students read the board all the time; he had done it himself on his second day.
+She was dark-haired and plainly dressed, in clothes that looked chosen once and then left alone, and she was copying the board. That alone would not have made him stop, because new students read the board all the time; he had done it himself on his second day.
 
 What made him stop was the order she did it in. She had started at the bottom. The last names on the board, the Copper first-years with two recorded bouts and a loss beside each, were already copied out in a small, upright hand. She was working steadily upward, one row at a time, without once glancing at the top, where Edran's name had sat for longer than anyone could remember.
 
@@ -38,13 +38,13 @@ The rest of the third week belonged, more than he liked, to Edran.
 
 Since the afternoon at the north gate the question had not come up again, not in words. Edran had not repeated it in the yard or the stable or the lecture wing, and he had certainly not gone to the provost about it. Brom had been right about that, as Brom was right about most things that involved people standing still.
 
-But something had changed in the way the best fighter at Greyvane moved through the building. He had begun, quite openly, to watch back.
+But something had changed in how the best fighter at Greyvane moved through the building. He had begun, quite openly, to watch back.
 
 Cael noticed it first at the rail of the open floor. He was filling a page on the Storm fourth-year who left the yard smelling of rain. When he looked up between bouts, Edran was at the far rail, not watching the Storm fighter at all, but watching Cael watch. He did not look away when he was seen. He simply held the look for a breath, without any expression, and then turned back to the floor as if he had been looking at the floor all along.
 
 It happened again two days later in the stable, at supper, and again at the formal yard during a Copper standings bout. There Edran stood at the end of the benches with his arms folded and his attention not on the ring but on the binder open on Cael's knee.
 
-By the end of the week Cael had begun to feel it before he saw it. It was the faint pressure of being read, the way he felt a crowd turn without needing to look up.
+By the end of the week Cael had begun to feel it before he saw it. He felt it as a faint pressure on the skin, like being read.
 
 "He's charting you," said Lira, when he mentioned it on the wall.
 
@@ -132,11 +132,11 @@ She wanted, more than she had wanted anything since her Arbiter first named her 
 
 She filed the transfer request before the midday bell.
 
-Her advisor took a full hour to talk her out of it, with the door shut and the weary patience of a man who had talked many promising students out of many things. He set out the sums, as though sums were what stood in her way: where Ternhall's graduates went and where a minor academy's went, and which guilds would read which name on a letter. At the end of the hour he folded his hands.
+Her advisor took a full hour to talk her out of it, with the door shut and the weary patience of a man who had talked many promising students out of many things. He set out the sums: where Ternhall's graduates went and where a minor academy's went, and which guilds would read which name on a letter. At the end of the hour he folded his hands.
 
 "A first-rank student at a minor academy," he said, "is a good lamp lit in a cellar."
 
-Karis admired the sentence. It was compact, and quotable, and certain to be repeated to the next student in that chair. It was also wrong in a direction he had no way of seeing, because a cellar was exactly where a person carried a lamp when she meant to find something. She thanked him for his time and did not change the request.
+Karis admired the sentence. It was compact, and quotable, and certain to be repeated to the next student in that chair. It was also wrong in a direction he had no way of seeing, because a cellar was where a person carried a lamp when she meant to find something. She thanked him for his time and did not change the request.
 
 Her parents were harder, because their worry was about her and not her prospects, and she had no arithmetic that answered it. Her mother sat with her at the kitchen table on the last evening and asked one question.
 
@@ -152,7 +152,7 @@ There was one person at Ternhall she told after the papers were filed rather tha
 
 The coach south took four days. She spent most of them doing something she had never done for any subject in either notebook, which was writing a list of the questions she would not ask.
 
-She began it as an exercise and found by the second morning that it was the most important page she had written all year. Every subject in the second notebook had been a thing, a timing or a curve or a shell that held too long against cold, and none of them had been able to object to being written down. This one could. If he was what the ledgers said, he had spent his whole life being written down by people who never asked his leave, and she had read enough of those people's work, at second and third hand, to know exactly what it looked like from outside. She did not intend to add a page to it.
+She began it as an exercise, and by the second morning it was the most important page she had written all year. Every subject in the second notebook had been a thing, a timing or a curve or a shell that held too long against cold, and none of them had been able to object to being written down. This one could. If he was what the ledgers said, he had spent his whole life being written down by people who never asked his leave, and she had read enough of those people's work, at second and third hand, to know what it looked like from outside. She did not intend to add a page to it.
 
 So she wrote, in a column, the questions she would not ask him unless he offered first. Where it came from. How it worked. Whether it hurt. What the registry had called him, if it had called him anything. What he could do that he had not shown on the circuit. She wrote eleven of them, and then a twelfth, which was simply *anything he hasn't chosen to show*, and she drew a line under the column and wrote beneath it the only question she would ask.
 
@@ -166,9 +166,9 @@ Then, because she was honest with herself in both notebooks, she wrote one more 
 
 Greyvane, when she came over the brow of its hill on the last afternoon of the second week of its term, was smaller than its letters and better kept than its reputation. The gate clerk had a list, and Karis's name was on it, entered in the same plain hand as every other name, and she found she liked the academy a little for that before she was through the gate.
 
-She went to the standard desk, because transfers went to the standard desk. The brisk young clerk there read the Ternhall letter twice, then looked at Karis's rank in the margin for long enough that the girl behind her shifted her feet. Karis waited. She had been looked at in exactly that way at every desk since she was fourteen, and she had learned that the look passed sooner if one gave it nothing to push against.
+She went to the standard desk, because transfers went to the standard desk. The brisk young clerk there read the Ternhall letter twice, then looked at Karis's rank in the margin for long enough that the girl behind her shifted her feet. Karis waited. She had been looked at that way at every desk since she was fourteen, and she had learned that the look passed sooner if one gave it nothing to push against.
 
-She was given a room in the residence wing, a schedule, and a block on the training floor at the fifth bell in section two. She unpacked that night. She registered for lectures the next morning, including the declaration theory block, which she did not need and attended anyway, because the way a school taught its basics told her more than its prospectus ever had.
+She was given a room in the residence wing, a schedule, and a block on the training floor at the fifth bell in section two. She unpacked that night. She registered for lectures the next morning, including the declaration theory block, which she did not need and attended anyway, because how a school taught its basics told her more than its prospectus ever had.
 
 On the second afternoon she demonstrated for the floor instructor who took the heat Paths, Ember and Ash together, a lean old man with scorched cuffs. He watched her lay six points on the boards and let them die on his count, and said only, "Ternhall," in the tone of a man identifying a bird by its song.
 
@@ -188,7 +188,7 @@ Karis filed her under *re-certification track; handles procedure as if it might 
 
 She catalogued the grounds in a single afternoon. She listened to the rumor market for three days.
 
-There were four theories about the observer and, by the second evening, three about herself, and she ranked them all as evidence and found that every one was worthless about its subject and very useful about the academy.
+There were four theories about the observer and, by the second evening, three about herself, and she ranked them all as evidence, and every one proved worthless about its subject and very useful about the academy.
 
 Nobody's theory about the observer was frightened. They were curious and silly and competitive, a third-year insisting on a northern scandal and a first-year insisting on poetry, but not one of them was afraid of him. She wrote that down. It told her how this place held him, and it was more than any interview would have told her.
 
@@ -196,7 +196,7 @@ She saw him on the second day and twice more after that.
 
 The first time he was at the rail of the open floor during the fifth bell, with a binder open on his knee, writing while a Blade pair drilled in front of him in absolute silence.
 
-He did not look up when people looked at him, and people looked at him a great deal. The tag on his coat was not a crest but a hollow circle. She noticed, because she could not help noticing, that his pen moved in long passages while the pair worked and stopped when they stopped, and she recognized the habit with a jolt, because it was her own.
+He paid no attention when people looked at him, and people looked at him a great deal. The tag on his coat was not a crest but a hollow circle. She noticed, because she could not help noticing, that his pen moved in long passages while the pair worked and stopped when they stopped, and she recognized the habit with a jolt, because it was her own.
 
 The second time he was at the edge of the formal yard during a standings bout, watching a third-year Force Path lose. The third time he crossed the yard with a stocky boy the roster listed as Iron Skin and a girl with a dot on her tag, the three of them walking in step without seeming to arrange it. The girl said something that made the stocky boy put his hand flat over his own face.
 
@@ -220,7 +220,7 @@ The archivist's eyes went past her shoulder, into the room, and then came back.
 
 ---
 
-He had read the provision three times that week already, and he was reading it a fourth when the door opened. The second sitting was coming, and Prynn had left the statutes out on the long table for him and it seemed ungrateful not to use them.
+He had been through the provision more than once that week, and he was in it again when the door opened. The second sitting was coming, and Prynn had left the statutes out on the long table for him and it seemed ungrateful not to use them.
 
 He heard the archivist's voice at the door, low and dry, and another voice answer it, and he did not look up at once. Then he felt someone cross the room. Students usually came into the archive drifting and uncertain, peering down aisles they did not mean to enter. Whoever this was walked as if she had already measured the floor and counted the steps. He looked up.
 

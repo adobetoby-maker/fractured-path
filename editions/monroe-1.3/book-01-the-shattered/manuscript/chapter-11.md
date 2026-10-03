@@ -80,7 +80,7 @@ He looked at her.
 
 "Whatever your eye just told you," she said, without looking away from the circle. "Longer than that. Everyone's eye lies about it. It's light, it's not steel, it doesn't look like it should reach as far as it does." She tapped two fingers on her own forearm, in the air beyond her fist. "About eight inches past where his hand ends. Remember that."
 
-He wrote *8 in. past the fist. My eye says less.* And underlined *says.*
+He wrote *Eight inches past the fist. My eye says less.* And underlined *says.*
 
 The Stone woman moved first.
 

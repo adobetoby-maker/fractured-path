@@ -16,17 +16,17 @@ Null.
 
 *Session nine,* the ledger said. *Source: K., Ember, Iron Rank Three, demonstration intensity, consent given. Subject's reach: want, under irritation supplied by witness L. (pen withheld). Notice: none. Result: null.*
 
-They ran a session every day of the tenth week, and on three of the days they ran two. The slate on the nail said *K. — declaration practice* so often that a Current Path first-year began to take it personally. He wanted the room for a new declaration of his own, and he stood in front of the slate on the Wednesday with a look of real grievance. Karis gave him the evening hour without a word and moved them to the morning. She did not seem to think it a sacrifice. She seemed to think it a variable, because that was the rule she had set herself on the first night and kept as she kept everything: no two sessions the same. A failure repeated under the same conditions only told you that you had repeated it.
+They ran a session every day of the tenth week, and on three of the days they ran two. The slate on the nail said *K. — declaration practice* so often that a Current Path first-year, who wanted the room for a declaration of his own, began to take it personally, and Karis gave him the evening hour without a word and moved them to the morning. She did not think it a sacrifice. She thought it a variable, by the rule she had set herself on the first night: no two sessions the same. A failure repeated under the same conditions only told you that you had repeated it.
 
 Cael kept the week in the binder's margin, in the short hand he used for things that were not fragments.
 
-*Five: seven paces. Six: seven paces, her back to me for the first half, only her shoulders and the blooms rising past them. Seven: every point laid on the floor between us, a path of coins of light stopping a pace short of my feet. Eight: each declaration announced before she laid it, the count and the place. Nine: nothing announced, the order changed every time, and L. took my pen. Ten: run tired, at the sixth bell, straight after her own standings bout (won, three exchanges, against an Iron Rank One from the hardening floor). She said "Consent given" before she had shut the door. All null.*
+*Five and six: seven paces, the second with her back to me, only her shoulders and the blooms rising past them. Seven: every point laid on the floor between us, a path of coins of light stopping a pace short of my feet. Eight: announced. Nine: unannounced, and L. took my pen. Ten: run tired, straight after her own standings bout (won, three exchanges). She said "Consent given" before she had shut the door. All null.*
 
-Brom, when he came, asked every time whether there was a clause about barley yet, and every time Karis wrote *Witness requests barley clause. Declined.* By the end of the week the line appeared four times in the ledger in exactly the same words. Brom read it over her shoulder with deep satisfaction, as if it were the only result of the whole series that had come out the way he expected.
+Brom, when he came, asked every time whether there was a clause about barley yet, and every time Karis wrote *Witness requests barley clause. Declined.* By the end of the week the line stood four times in the ledger, word for word, and Brom read it over her shoulder with deep satisfaction.
 
 And out of all of it, out of ten nulls and hours of a girl laying small fires in the air, the binder filled up with Karis.
 
-He could not help it. He had never been able to help it. He had watched eleven Paths from the edges of floors in his first fortnight because watching was what he had, and now he was standing a few paces from one person for an hour a day, with nothing to do but look, and the looking went down into her like water into dry ground. He charted her tells to a quarter of a second, and then, because a quarter of a second turned out to be too rough, to less. Her off hand went still before every ignition; he had known that since the first week. Now he knew how long it stayed still: a quarter of a second at her freshest, a hair more by the end of an hour, never less. Before every sustain, every point she meant to hold beyond its first count, she took a half-breath, short and shallow, through the nose, so small he doubted she knew she did it. And her release, the third of a breath of shimmer that lingered after a point went out, was not a fixed thing at all. It grew. Under fatigue it stretched, a few hundredths of a second in the second half of a long session, then more, so that by the end of the tenth session, after her standings bout, he could have told the hour of the afternoon by how long her points took to die.
+He could not help it. He had never been able to help it. He had watched eleven Paths from the edges of floors in his first fortnight because watching was what he had, and now he was standing a few paces from one person for an hour a day, with nothing to do but look, and the looking went down into her like water into dry ground. He charted her tells to a quarter of a second, and then, because a quarter of a second turned out to be too rough, to less. Her off hand went still before every ignition; he had known that since the first week. Now he knew how long it stayed still: a quarter of a second at her freshest, a little more by the end of an hour, never less. Before every sustain, every point she meant to hold beyond its first count, she took a half-breath, short and shallow, through the nose, so small he doubted she knew she did it. And her release, the third of a breath of shimmer that lingered after a point went out, was not a fixed thing at all. It grew. Under fatigue it stretched, a few hundredths of a second in the second half of a long session, then more, so that by the end of the tenth session, after her standings bout, he could have told the hour of the afternoon by how long her points took to die.
 
 He told her about the release, because she had a right to know what he was writing about her, and because it was the kind of thing she would want.
 
@@ -54,7 +54,7 @@ On the fourth night of the tenth week he tried the whole push, in Brom's room af
 
 "No," Cael agreed, and set his left forearm across his chest and braced it.
 
-He had been thinking about the full push since the day the half came, and he had decided what he believed about it. The half had come not from reaching harder but from choosing a wider road before the force arrived, a channel cut for twice the water. A whole slow push would need the whole road, as broad as Brom's arm, laid out back along the line the push would come in, and it would have to be held there, steady, the whole time the force was arriving and settling into the bone. If he reached for more than he had chosen, it would go into a joint. If he chose the whole and then flinched from the size of it, the same. The size had to be decided first and then not changed, and that was the entire difficulty, because nothing in him wanted to stand still while a thing that large came in.
+He had been thinking about the full push since the day the half came. The half had come not from reaching harder but from choosing a wider road before the force arrived, a channel cut for twice the water. A whole slow push would need the whole road, as broad as Brom's arm, laid out back along the line the push would come in and held there, steady, the whole time the force was arriving. If he reached for more than he had chosen, or chose the whole and then flinched from the size of it, it would go into a joint. The size had to be decided first and then not changed, and that was the entire difficulty, because nothing in him wanted to stand still while a thing that large came in.
 
 Brom knelt and laid his palm on the forearm and let the Iron Skin come up under it, and leaned.
 
@@ -72,7 +72,7 @@ The first three tries did nothing; he had chosen the whole road and then, in the
 
 The seventh did nothing. On the eighth, he did not narrow.
 
-He laid the road out before Brom leaned, the whole width of Brom's forearm, out and back along the line. He held it, and did not look at it, the way you do not look down from a high wall. The force arrived. It came in slow and heavy and settled into the bone, the whole of a push Brom could have held all night, and the fragment woke low in his chest and gathered, and went on gathering long past where it had ever gathered before. It ran up out of his forearm into his shoulder and across his chest and down into the floor of him, and for a moment he held the entire push inside himself like a lungful of air taken much too deep, and could not believe there was room. Then he sent it home.
+He laid the road out before Brom leaned, the whole width of Brom's forearm, out and back along the line. He held it, and did not look at it. The force arrived. It came in slow and heavy and settled into the bone, the whole of a push Brom could have held all night, and the fragment woke low in his chest and gathered, and went on gathering long past where it had ever gathered before. It ran up out of his forearm into his shoulder and across his chest and down into the floor of him, and for a moment he held the entire push inside himself like a lungful of air taken much too deep, and could not believe there was room. Then he sent it home.
 
 It went back into Brom's arm with a sound like a door slammed in the next room. Brom's whole body rocked back off his knees onto his heels, and his hand came off the forearm, and he sat down hard on the boards and stayed there, staring.
 
@@ -82,7 +82,7 @@ Then the bill came, and it was not a bar this time, and not a beam. It was a wei
 
 "Whole," Cael managed, when he could.
 
-He knew in the morning what it had cost. He wrote it down at his desk by the window at the first bell, with his right arm resting on the table because he could not lift it past his ribs. The shoulder had loosened only enough to dress. His breastbone was so sore he could not lie on his front, and had not slept on it, and every deep breath found the ache under the bone and leaned on it. His hands had stopped shaking some time in the night. His left elbow had swollen a little where the sixth try had gone into it.
+He wrote it down in the morning at his desk by the window, with his right arm resting on the table because he could not lift it past his ribs, and every deep breath finding the ache under his breastbone and leaning on it.
 
 *Compression-adjacent. Brom's room. Full slow push, caught and returned whole, on the eighth try. Done by choosing the whole road first and not changing it. Benefit: none in a real fight yet, but now I know the size of what it can hold. Cost: six breaths gone and a cough, both hands shaking for an hour, right shoulder locked until morning, breastbone too sore to lie on. The sixth try misrouted into the left elbow when I changed the size mid-reach. The price doesn't double with the catch. It more than doubles. Integration: partial. Whole, once.*
 
@@ -90,7 +90,7 @@ Underneath, smaller:
 
 *Lira has read what half cost. She is going to read this, and she is going to say something.*
 
-She did, at breakfast, when he came down holding his right arm against his side. It was short and sharp. Then she stole the whole of his bread and gave him back the larger half. She spent the rest of the meal cutting his porridge into neat squares with her spoon so that he could eat it with his left hand, without once remarking on what she was doing.
+She did, at breakfast, when he came down holding his right arm against his side. It was short and sharp. Then she spent the rest of the meal cutting his porridge into neat squares with her spoon so that he could eat it with his left hand, without once remarking on what she was doing.
 
 ---
 
@@ -104,13 +104,13 @@ She was not looking at his line. She was looking at a line far down the column, 
 
 "You've been counting."
 
-"Everybody counts." She tucked her slate in tighter under her arm. "My mother counts in letters. She writes every week now instead of every month. She's never written every week in her life." She looked up at him then, with her whole serious face. "Can I ask you something rude?"
+"Everybody counts. My mother counts in letters. She writes every week now instead of every month. She's never written every week in her life." She looked up at him then. "Can I ask you something rude?"
 
 "You can ask."
 
 "What was yours like? Not short and then very long. That's what you said before. I want to know what it was like."
 
-He looked at her for a moment in the busy hall, with students going past behind them toward the second bell. He had been waiting since the first week for her to ask it properly. He had promised himself, and her, that he would not lie to her.
+He looked at her in the busy hall, with students going past behind them toward the second bell. He had been waiting since the first week for her to ask it properly. He had promised himself, and her, that he would not lie to her.
 
 "There's a room," he said. "Yours is the grey building on the corner, at the bottom of the hill. Mine was in Denvash, and it had a floor somebody had scrubbed so hard you could smell the soap from the door, and a bench outside it to wait on. I waited a long time. I was more frightened than I'd ever been, and I'd been frightened plenty before that." He thought about it. "There was a man with me. Hesk. He had a workshop and I lived in it. He didn't say anything while we waited, and when they called my name he put his hand on my shoulder, here, and left it there until I stood up. That was the best part. I still remember exactly how heavy it was."
 
@@ -122,7 +122,7 @@ Oona was listening with all of her.
 
 "Mine stayed quiet longer than it should have," said Cael. "And at the end of it they had a word for me that wasn't a Path. That's the strange kind. It's very rare. I've never met anybody else who had it." He held her eyes. "Yours won't be the strange kind, Oona. You decided in the first week it was going to be ordinary, and I believe you. Ordinary is what nearly everybody gets."
 
-She thought about that for a long time, as she thought about every sum.
+She thought about that as she thought about every sum, all the way to the bottom.
 
 "Who'll put a hand on my shoulder?"
 
@@ -154,7 +154,7 @@ He was at three paces. They had come in closer in the last hour, because closer 
 
 Then, a breath before one of her points bloomed, the air at the place where it would bloom was heavier.
 
-It was so faint he did not believe it. A density, a thickening, as if the air in that one small place had leaned toward him the way a body's weight leans before it moves, as the felt on the training post had thickened before Brom shifted. A breath later the point bloomed there, exactly there, a dim coin of light where the heaviness had been.
+It was so faint he did not believe it. A density, a thickening, in that one small place, as the felt on the training post had thickened before Brom shifted. A breath later the point bloomed there, exactly there, a dim coin of light where the heaviness had been.
 
 He said nothing and waited for the next.
 
@@ -174,7 +174,7 @@ She let the point go on its count, and the shimmer of it hung a long time in the
 
 "Prynn says that."
 
-"Prynn is right about most things," said Karis, and sat down on the scrubbed floor all at once, rather suddenly, with her back against the wall and her hands in her lap.
+"Prynn is right about most things," said Karis, and sat down on the scrubbed floor all at once, with her back against the wall and her hands in her lap.
 
 He went and crouched in front of her. She was white to the lips, and her hands, when he looked at them, were cold and very slightly grey at the fingertips, which he had not known Ember could do.
 
@@ -184,7 +184,7 @@ He went and crouched in front of her. She was white to the lips, and her hands, 
 
 "Good," said Karis. "I'd have been very annoyed if it had worked on the day I was too tired to write it down properly."
 
-He had nine pages from that afternoon in the binder by the time he went to bed. Eight of them were Karis's Path, everything he had ever seen her do and the timings of all of it and the way it changed as she tired. One was the thickening at three paces, with no theory under it at all. Not one line on any of the nine was about a fragment, because there was nothing to write.
+He had nine pages from that afternoon in the binder by the time he went to bed: eight of Karis's Path and how it changed as she tired, and one of the thickening at three paces, with no theory under it at all. Not one line was about a fragment, because there was nothing to write.
 
 ---
 
@@ -192,16 +192,16 @@ They ran the thirteenth and fourteenth on the last day of the tenth week, two sh
 
 That evening Karis read the ledger back to him in the archive, at Prynn's long table. She read all fourteen sessions in order, as the fourth clause said she must before any of it existed anywhere else.
 
-She read it in her flat even voice, the voice she used for timings, and he listened to fourteen sessions of his own failure set down in another person's handwriting, one after the other. *Distance nine paces. Distance five. Distance one. Seven paces, source's back turned. Points laid on the floor. Declarations announced. Declarations unannounced. Source tired. Source fresh. Witness eating. Witness withholding pen. Duration one hour. Duration a quarter. Duration three hours and some minutes.* And after every one of them, the same word, written the same size, with the same care.
+She read it in her flat even voice, the voice she used for timings, and he listened to fourteen sessions of his own failure set down in another person's handwriting. *Distance nine paces. Distance one. Source's back turned. Declarations unannounced. Source tired. Witness eating. Witness withholding pen. Duration three hours and some minutes.* And after every one of them, the same word, written the same size, with the same care.
 
 *Null.*
 
-He waited to feel what he had always felt, all his life, when somebody read him back a list of the things he could not do. It did not come. That was the strangest thing about the whole week, stranger than the thickening at three paces. He had been studied his whole life by people for whom his failures proved something they had already decided about him, assessors and clerks and a patient official in a district office somewhere. When those people wrote down what he could not do, they were adding a stone to a wall that had been going up since before he was born. Karis wrote down what he could not do as if each failure were a stake driven into a field she was surveying, a small exact mark that said *the edge is not here, look further on*. Even his nothing, in her hand, deserved to be got exactly right. Nobody had ever told him, in all the years of being written down, that a person could be measured and feel kept company by it.
+He waited to feel what he had always felt, all his life, when somebody read him back a list of the things he could not do. It did not come. He had been studied his whole life by people for whom his failures proved something they had already decided about him, assessors and clerks and a patient official in a district office somewhere. When those people wrote down what he could not do, they were adding a stone to a wall that had been going up since before he was born. Karis wrote down what he could not do as if each failure were a stake driven into a field she was surveying, a small exact mark that said *the edge is not here, look further on*. Even his nothing, in her hand, deserved to be got exactly right. Nobody had ever told him, in all the years of being written down, that a person could be measured and feel kept company by it.
 
-"Fourteen," she said, when she had finished. "Fourteen boundaries." She did not sound tired, though she had been grey at the fingertips the day before. She sounded like somebody who has walked a long way across difficult country and found that the map, so far, is right. "Every one of them is a finding. A boundary condition you know is worth more than a hope you don't."
+"Fourteen," she said, when she had finished. "Fourteen boundaries." She did not sound tired, though she had been grey at the fingertips the day before. She sounded like somebody a long way into difficult country with a map that, so far, was right. "Every one of them is a finding. A boundary condition you know is worth more than a hope you don't."
 
 "It's still fourteen times nothing."
 
 "It's fourteen times *this isn't it*." She laid her hand flat on the closed ledger. "That's not the same as nothing. That's a shape. I can see the outside of it now, the way I could see the outside of you from Ternhall." She looked at him across the table. "Something closes it. Whatever it is, I haven't found it yet."
 
-He did not say anything. He sat with the binder shut in front of him and the four names at the front of it, and under his breastbone, where the bruise from the whole push still ached, he felt a certainty growing that he did not want and could not argue with. The thing he had promised himself on a frozen wall to find out was not going to come to him in a whitewashed room on a schedule. It was not that he wanted to stop. He did not. Karis had eight more sessions written into the plan she had drawn in the back of her ledger, and he meant to stand in every one of them and reach every way he knew. It was only that he had begun to suspect, sitting at Prynn's table with the lamp between them, that the room was missing something, and that whatever it was, nobody could carry it in through the door.
+He did not say anything. He sat with the binder shut in front of him, and under his breastbone, where the bruise from the whole push still ached, he felt a certainty growing that he did not want and could not argue with. The thing he had promised himself on a frozen wall to find out was not going to come to him in a whitewashed room on a schedule. He did not want to stop. Karis had eight more sessions written into the plan in the back of her ledger, and he meant to stand in every one of them and reach every way he knew. Only he had begun to suspect, at Prynn's table with the lamp between them, that the room was missing something, and that whatever it was, nobody could carry it in through the door.

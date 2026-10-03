@@ -12,7 +12,7 @@ The morning after the notice, Quenna gave him the rules in the corridor outside 
 
 "The drafters seem to have foreseen you." Her voice gave the irony nothing at all. "The standard is three words. Consistent, observable practice."
 
-She let them sit in the cold corridor air for a moment, as if she wanted him to hear each one land separately.
+She let them sit in the cold corridor air, so that he heard each one land separately.
 
 "Attend to those three words, because nothing else in the room will matter that morning. *Consistent*: they must see it more than once, built the same way, ending the same way. Once can be luck. Twice is a pattern. *Observable* means it happens in the room, at a scale a person holding a slate can see and write down, nothing internal, nothing they have to take your word for. And *practice*—" She paused a fraction longer than she had on the others. "*Practice* means it is something you do on purpose. Not something that happens to you."
 
@@ -24,7 +24,7 @@ Cael heard, inside that pause, everything she was not saying. He had told her no
 
 "Whatever you show goes on the record, in three hands. Think about that half harder than the first."
 
-She went off down the corridor without saying goodbye, and Cael stood a while outside the archive door, looking at the iron bands on the dark wood without seeing them. He was free to show anything at all, as long as it came out the same twice and a stranger with a pen could follow it and it was his own doing. That was a gift. It was also, he saw a moment later, a trap of exactly the same size, because anything he was free to show he was also free to show too much of, and whatever he showed would be written down and kept.
+She went off down the corridor without saying goodbye, and Cael stood a while outside the archive door, looking at the iron bands on the dark wood without seeing them. He was free to show anything at all, as long as it came out the same twice and a stranger with a pen could follow it and it was his own doing. That was a gift. It was also, he saw a moment later, a trap of the same size, because anything he was free to show he was also free to show too much of, and whatever he showed would be written down and kept.
 
 So he knocked on the frame.
 
@@ -64,7 +64,7 @@ He drank the tea, which was terrible, and drank all of it anyway, because she ha
 
 "Hm," she said, and went back to her ledger.
 
-Two days later he found that she had left the book out for him. It was still on the table, closed, with the weight beside it, when he next came in. Nobody had reshelved it, and he was fairly sure that nobody in that room did anything Prynn had not decided they should.
+Two days later he saw that she had left the book out for him. It was still on the table, closed, with the weight beside it, when he next came in. Nobody had reshelved it, and he was fairly sure that nobody in that room did anything Prynn had not decided they should.
 
 ---
 
@@ -96,7 +96,7 @@ Compression-adjacent: days old, a quarter of a slow push caught on a good try, p
 
 *Bank.*
 
-And under all four, the thing that was not a fragment at all: how any of them had come to him. Each had a name beside it in the binder, the person it had come from, Lira and Feryn and Brom and Reydan, and beyond that he did not know anything. They had arrived the way weather arrives, without asking and without explaining, and he had spent a long time learning the shape of each one after it came and none at all understanding why it had. The binder had a section for each, and a page for each notice, and between its lines a quiet suspicion that the list was not finished. That was not something a person demonstrated. It was the ground every demonstration stood on, and the provision asked for practice; it said nothing about digging.
+And under all four, the thing that was not a fragment at all: how any of them had come to him. Each had a name beside it in the binder, the person it had come from, Lira and Feryn and Brom and Reydan, and beyond that he did not know anything. They had arrived without asking and without explaining, and he had spent long hours learning the shape of each one after it came and none at all understanding why it had. The binder had a section for each, and a page for each notice, and between its lines a quiet suspicion that the list was not finished. That was not something a person demonstrated. It was the ground every demonstration stood on, and the provision asked for practice; it said nothing about digging.
 
 *Never.*
 
@@ -106,7 +106,7 @@ Two shown, two banked, and one thing never. Written down that way it looked almo
 
 On the sixth morning Oona found him in front of the assessment board.
 
-He had not meant to stop there. He kept doing it anyway, the way a hand goes back to a bruise. His line was still there in the same ink as everybody else's — *Eighth day. First bell.* — and Oona stood beside him with her slate under her arm and read it too, moving her lips.
+He had not meant to stop there. He kept doing it anyway. His line was still there in the same ink as everybody else's — *Eighth day. First bell.* — and Oona stood beside him with her slate under her arm and read it too, moving her lips.
 
 "That's yours. The demonstration."
 
@@ -126,13 +126,11 @@ He thought about how to answer. He had decided at the classroom door that he wou
 
 "Some."
 
-She studied him with great seriousness. "Are you scared?"
+"Are you scared?"
 
 He opened his mouth to say *no*, the way he would have said it to Naveth or the gate clerk or anyone who asked across a desk. Then he looked at her, small and solemn with her slate, and found he did not want to give her a grown-up's answer.
 
 "A little."
-
-Oona nodded, as if he had confirmed something she suspected.
 
 "I'm scared about my Kindling. Not very. A little. My mother says it doesn't hurt. My uncle says it's like being hit by a door you didn't know was there." She frowned. "I don't know which one is lying."
 
@@ -140,11 +138,11 @@ Oona nodded, as if he had confirmed something she suspected.
 
 "What was yours like?"
 
-He was quiet for a moment. He thought of the certification office in Denvash, the scrubbed floor and the clerk's gentle voice and the silence that had gone on far too long, and the word in brackets afterward that had followed him across half the continent.
+He thought of the certification office in Denvash, the scrubbed floor and the clerk's gentle voice and the silence that had gone on far too long, and the word in brackets afterward that had followed him across half the continent.
 
 "Short," he said at last. "And then very long."
 
-Oona turned the answer over the way she turned over the instructor's answers in class, and Cael braced himself for the next question. It did not come. She looked up at him with something that, on an adult, he would have called sympathy.
+Oona turned the answer over, and Cael braced himself for the next question. It did not come. She looked up at him with something that, on an adult, he would have called sympathy.
 
 "That sounds like a bad one."
 
@@ -154,9 +152,9 @@ Oona turned the answer over the way she turned over the instructor's answers in 
 
 "I hope it is."
 
-"It will be." She tucked her slate more firmly under her arm. "Good luck on the eighth day. I hope you're not boring."
+"It will be. Good luck on the eighth day. I hope you're not boring."
 
-She went off down the hall before he could tell her that boring was the entire plan. He stood in front of the board a while longer and found that he was smiling, and that the small cold knot he had been carrying under his breastbone since the notice slid under his door had loosened by about a thread.
+She went off down the hall before he could tell her that boring was the entire plan. He stood in front of the board a while longer, smiling, and the small cold knot he had been carrying under his breastbone since the notice slid under his door had loosened by about a thread.
 
 The refusal came that same afternoon. It was waiting in the narrow wooden box with his name on it at the assessors' desk, folded once, written in a clerk's hand under a printed heading.
 
@@ -164,7 +162,7 @@ The refusal came that same afternoon. It was waiting in the narrow wooden box wi
 
 At the bottom were two sets of initials, and one of them was Quenna's.
 
-He read it twice in the corridor, and was surprised to find that what he felt was not disappointment but something much closer to satisfaction. It said *no*, and *not yet*, and *we have written down that you asked*, and he had spent most of his life in front of doors that said nothing at all; a no with a date and two sets of initials was better company than any silence. He took it up to his room and slid it into the pocket inside the binder's back cover, behind the stranger's note from Ardenmere and Vell's folded sheaf, where he kept the papers that proved things.
+He read it in the corridor, and was surprised by what he felt, which was not disappointment but something much closer to satisfaction. It said *no*, and *not yet*, and *we have written down that you asked*, and he had spent most of his life in front of doors that said nothing at all; a no with a date and two sets of initials was better company than any silence. He took it up to his room and slid it into the pocket inside the binder's back cover, behind the stranger's note from Ardenmere and Vell's folded sheaf, where he kept the papers that proved things.
 
 ---
 
@@ -194,7 +192,7 @@ They did ten. Four caught. None went to a joint, and each one that caught cost e
 
 "Same size, though. A quarter. Every time."
 
-"The size is a different problem. You've fixed the timing." Brom turned his left hand over and looked at it, as if it might report something. "When you started, you were reaching early and hoping. Now you wait, and you wait well. I could feel you waiting."
+"The size is a different problem. You've fixed the timing." Brom turned his left hand over and looked at it. "When you started, you were reaching early and hoping. Now you wait, and you wait well. I could feel you waiting."
 
 "What does waiting feel like, from your side?"
 
@@ -250,11 +248,11 @@ He stopped, thinking of Quenna in the corridor. *Practice means it is something 
 
 "Let them see a skill somebody chose. A choice made beforehand looks finished. So finish every choice out here, tonight, where the only slate belongs to him, and he doesn't count."
 
-The assessor by the wall did not look up.
+The assessor by the wall went on pretending not to listen.
 
 "How fast?"
 
-Lira considered, and then invented a speed on the spot, the way she invented most useful things.
+Lira considered, and then invented a speed on the spot, as she invented most useful things.
 
 "Panel speed. Quick enough that nobody thinks you're pretending. Slow enough that a pen can keep up."
 

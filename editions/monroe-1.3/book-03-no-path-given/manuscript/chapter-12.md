@@ -24,13 +24,13 @@ She set the page down at last and looked at Karis.
 
 Karis was nodding before Quenna had finished. Cael saw what the condition was for, and saw that Karis had seen it too. It was not a restriction at all. It was a coat Quenna was putting over the whole arrangement, cut in advance to the shape of a question nobody had asked yet.
 
-"There's one more thing," Quenna said. "I won't read her notes, and I don't want to be offered them. If I've read them, I can be asked what they say." She said it without any weight at all, the way she might have mentioned the weather on the hill, and then she picked the page up once more and looked at the bottom of it, at the seventh clause in Karis's small upright hand.
+"There's one more thing," Quenna said. "I won't read her notes, and I don't want to be offered them. If I've read them, I can be asked what they say." She said it without any weight at all, and then she picked the page up once more and looked at the bottom of it, at the seventh clause in Karis's small upright hand.
 
 "Whoever drafted this last clause," she said, "has a future in provision law."
 
 Karis did not quite manage to keep the pleasure off her face. It was a small failure, a flicker at the corner of the mouth that she corrected almost at once, and Cael enjoyed it more than he would have admitted.
 
-For a moment the two of them looked at each other across the table, the assessor of irregular development and the student of broken models, and he had the odd sense of watching two people across a wide gap in age and standing recognize the same appetite in each other: a taste for language that would carry weight.
+Across the table the two of them looked at each other, and Cael had the odd sense of watching an assessor and a student, a lifetime apart in age and standing, find the same appetite in each other: a taste for words that would bear weight.
 
 "Thursday," said Quenna. "Fifth bell. Bring your own stool. Section four doesn't have one."
 
@@ -48,7 +48,7 @@ Karis lifted her eyes, gave Lira a single nod, and went back to her page. She di
 
 It was the evasion framework, the Wind-adjacent pattern Lira had put into him in Ardenmere when neither of them knew what she was teaching or what he was learning. By now it lived somewhere underneath thought. He ran it three times through.
 
-He took the first pass slowly, with loose joints and every change of direction drawn out, so that the bones of it showed through the way a sketch shows through paint. He took the second at working speed, the speed that had carried him through Reydan and the dozen circuit fighters before Reydan, fast enough that an untrained eye would have seen motion and no plan at all. From the chalk, Quenna asked for the third to be slow again. That way the same structure could be laid beside itself at two speeds, and anyone watching could see what changed and what held.
+He took the first pass slowly, with loose joints and every change of direction drawn out, so that the bones of it showed through like a sketch under paint. He took the second at working speed, the speed that had carried him through Reydan and the dozen circuit fighters before Reydan, fast enough that an untrained eye would have seen motion and no plan at all. From the chalk, Quenna asked for the third to be slow again. That way the same structure could be laid beside itself at two speeds, and anyone watching could see what changed and what held.
 
 Karis wrote the whole time.
 
@@ -56,11 +56,11 @@ He could hear how she worked even with his back to her. Her pen ran in long unbr
 
 She never asked for a movement again. She never broke in to check a detail. Twice he saw the pen come up off the page and hang, as if a question had landed on it, and then settle back without a sound, as if she had answered it on her own.
 
-There was something close to rest in being watched like that. No one was marking him. Whether his feet were pretty, whether the pattern belonged on any Path's chart, whether he ought to be allowed to stay, what word went in which box: none of it seemed to concern her at all. She was taking all of him down as if every piece were worth the work of getting it exactly so.
+There was something close to rest in being watched like that. No one was marking him. Whether his feet were pretty, whether the pattern belonged on any Path's chart, whether he ought to be allowed to stay, what word went in which box: none of it seemed to concern her at all. She was taking all of him down, every piece of it worth her trouble.
 
 About twenty minutes into the hour, he caught himself.
 
-He had come out of a turn a hair squarer than the turn needed, and kept his shoulders set on their line a beat too long, so that the shape would read cleanly from where she sat. It was not the circuit itch to make a crowd lean in. It took him the rest of the pass to find what it was instead.
+He had come out of a turn a shade squarer than the turn needed, and kept his shoulders set on their line a beat too long, so that the shape would read cleanly from where she sat. It was not the circuit itch to make a crowd lean in. It took him the rest of the pass to find what it was instead.
 
 He wanted her to see it right. Impressing her had nothing to do with it. For once in his life someone was really trying to understand him, and he wanted the understanding to be correct.
 
@@ -74,7 +74,7 @@ He finished the third pass and stood still in the middle of the section, breathi
 
 She looked up at him from the stool. "Does it feel borrowed, when you use it?"
 
-His breath had not settled, and for a moment he simply stood there with the question. It had not been asked lightly. He could tell that at once.
+His breath had not settled, and he simply stood there with the question. It had not been asked lightly. He could tell that at once.
 
 In all the hundreds of times Lira had watched the framework, she had never wondered aloud what it was like to be inside it. Brom read him through the skin better than anyone alive, and even Brom had never come at it from that side, never suggested that a movement might carry a memory of its owner, or that doing it might feel like wearing someone else's coat. Quenna's questions, for all her years of studying what he was, always had answers a person could watch. This one had no outside at all. Only one person could ever stand where its answer was. Karis had walked straight up to that door on her very first afternoon and tapped on it, politely.
 
@@ -92,7 +92,7 @@ Quenna made a single mark on her slate, signed the record, tore the strip off an
 
 Lira was waiting in the corridor. She fell in beside him, matching his step, as she had on the way home from more fight-halls than he could have counted. She had heard the question from the rail, and she had heard the answer, so she asked about neither. She went underneath them, to whatever they were sitting on.
 
-"Something happened when she asked you that," she said. "You went off somewhere behind your eyes, and I couldn't come." There was no blame in it. She said it the way she would have said it had started raining. "Tell me when you're back."
+"Something happened when she asked you that," she said. "You went off somewhere behind your eyes, and I couldn't come." There was no blame in it. "Tell me when you're back."
 
 "I'm back."
 
@@ -150,7 +150,7 @@ She uncapped her pen. She did not rub out the line or scrape it away. She drew a
 
 He looked at the struck line with the correction beside it, and something moved in his chest that he did not have a ready word for.
 
-She had told him in this room, on the first afternoon, that she would be right about small things until it became evidence, and that when she was wrong she would show him the page. He had believed her, more or less, the way a person believes a promise that has not yet been tested.
+She had told him in this room, on the first afternoon, that she would be right about small things until it became evidence, and that when she was wrong she would show him the page. He had believed her, more or less, as a person believes a promise that has not yet been tested.
 
 Now it had been tested. She had been right about forty small things on four sheets, and wrong about one, and when he showed her the one she had not argued or explained it away or made it smaller. She had drawn a line through it where anyone could see it, and written down who had caught it.
 
@@ -166,7 +166,7 @@ He folded his copy and put it in the back of the binder, with the refusal and th
 
 Oona was waiting for him at the assessment board the next morning, which by now he had come to think of as her office.
 
-She did not pretend she had come for any other reason. She stood in front of his line on the calendar with her slate under her arm and her tag on its string, and when he came up she turned and looked at him with an expression of great seriousness.
+She did not pretend she had come for any other reason. She stood in front of his line on the calendar with her slate and her tag on its string, and when he came up she turned and looked at him.
 
 "Is the Ternhall girl studying you?"
 
@@ -176,7 +176,7 @@ Oona blinked. "Everybody says she is. They said you'd say she wasn't."
 
 "I told you I wouldn't lie to you."
 
-She considered that for a while. She had a way of considering things that involved her whole face, as if she were working out a sum on the inside of her forehead.
+She considered that. She had a way of considering things that involved her whole face, as if she were working out a sum on the inside of her forehead.
 
 "Can I study you too?"
 
@@ -192,7 +192,7 @@ Oona weighed this. "I could write down the things I won't do."
 
 "I wouldn't ask you anything boring." She paused, and then added, with scrupulous honesty, "I might ask you some things that are rude. I don't always know which ones are rude until afterward."
 
-Cael found that he was trying very hard not to laugh, because he suspected she would not forgive him for it. "Ask me again after your Kindling," he said, "if you still want to. You'll be busy with your own things then."
+Cael was trying very hard not to laugh, because he suspected she would not forgive him for it. "Ask me again after your Kindling," he said, "if you still want to. You'll be busy with your own things then."
 
 "I'll still want to," said Oona, with absolute certainty, and wrote something on her slate, and underlined it twice, and went off to the lecture wing.
 
@@ -232,11 +232,11 @@ Later, alone in the narrow room with the lamp turned low, he did something he ha
 
 Four fragments, four notices copied out word for word as they had arrived, and beside each one a name. He had written the names on the day each notice came, because it had seemed only honest to record where a thing had been when it arrived, as a man records the field where he found a stone.
 
-He had never thought of the names as owners. He had thought of the fragments the way he thought of weather, which came without asking and without explaining and belonged to nobody, and which a sensible person learned the shape of afterward.
+He had never thought of the names as owners. He had thought of the fragments like weather, which came without asking and without explaining and belonged to nobody, and which a sensible person learned the shape of afterward.
 
 *Does it feel borrowed.*
 
-He tried it, sitting there. He thought about the framework, and the way it moved him half a pace into the space beside a strike, and tried to feel whether the moving was his or Lira's. It was his. It was also, unmistakably, the way Lira moved; he had watched her do it across a hundred rings, and his own feet did it now with her timing in them. Both of those were true, and neither of them was an answer.
+He tried it, sitting there. He thought about the framework, and how it moved him half a pace into the space beside a strike, and tried to feel whether the moving was his or Lira's. It was his. It was also, unmistakably, the way Lira moved; he had watched her do it across a hundred rings, and his own feet did it now with her timing in them. Both of those were true, and neither of them was an answer.
 
 He thought about the read, the pressure along the skin that told him where a body's weight was going, and it had Brom's patience in it, the long listening wait before anything happened. He thought about the Compression, the hot bar across his collarbones, and it had nothing of anyone in it at all that he could find, only the cost.
 

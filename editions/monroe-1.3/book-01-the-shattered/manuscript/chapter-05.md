@@ -28,7 +28,7 @@ Cael ate the bread, which tasted exactly as it always tasted, and that seemed wr
 
 When they had finished, Hesk went into the workshop and came back with something small in his closed hand, which he put on the table in front of Cael before taking his hand away.
 
-It was the lock gauge bracket, the first one, the one that had failed at less than twice working load with that small sound like a knuckle. It still had its faint new curve, as if it were considering a bow.
+It was the lock gauge bracket, the first one, the one that had failed at less than twice working load with that small sound like a knuckle. It still had its faint new curve, as if it were considering a bend.
 
 Cael looked at it and then up. "The drawer."
 

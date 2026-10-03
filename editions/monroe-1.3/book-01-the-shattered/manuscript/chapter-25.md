@@ -66,7 +66,7 @@ Doss was by the gate in the wall, leaning on it, with his bad leg out straight a
 
 Marrow came along the rope with his slate.
 
-Cael read it without moving his head. *Dessa*, and a short price. *Unrated*, and a long one. But the long one was not as long as it would have been a month ago, and he could see why. Somebody had been paying on him, a little, all week, and Marrow had moved the number to meet them. Under the two names, on its own line, *Over/under: 5 exch.*
+Cael read it without moving his head. *Dessa*, and a short price. *Unrated*, and a long one. But the long one was not as long as it would have been a month ago, and he could see why. Somebody had been paying on him, a little, all week, and Marrow had moved the number to meet them. Under the two names, on its own line, *Over-under: five exchanges.*
 
 Marrow came level with the water bucket and looked at him for a moment, pleasantly, and for a moment longer than pleasant needed. Then he wrote something on the slate with his chalk and went on.
 

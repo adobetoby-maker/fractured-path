@@ -1,6 +1,6 @@
 # Chapter 15 — Public Draft
 
-Karis climbed the standings the way water climbs a stair, without any visible effort and without stopping.
+Karis climbed the standings like floodwater coming up a stair, without any visible effort and without stopping.
 
 She had full standing as a transfer, and a scheduled bout every few days like anyone else, and in her first fortnight on the board she fought three of them. She won all three, none in more than three exchanges, and after each one the clerk who kept the board climbed his little ladder with his chalk and his rag and moved her name up a section. By the end of the fifth week it sat second, directly beneath a name that had not moved in longer than anyone could remember. The schedule paired the top two of each cohort at the turn of the half-term. Everybody at Greyvane could count, and everybody knew what the next pairing would be some days before it went up on the board.
 
@@ -10,7 +10,7 @@ Cael did not spend those days watching her. He spent them, mostly, on the floor 
 
 The road was a long way behind them now, and the work had moved indoors with them. Brom knelt with his left palm on Cael's forearm, Iron Skin coming up under the skin, and leaned, slow and steady, the weight arriving the way a tide arrives. Cael waited for the force to settle into the bone, chose its road before it could choose its own, out, back along the line it came in, and reached.
 
-He had been catching a quarter of the push for a month. It had become almost reliable; he caught it four times in ten, sometimes five, and the price had stayed exactly the same through all of it, a hot bar laid across the collarbones and two breaths he could not take. He had begun to think of the quarter as a floor he stood on. Tonight he was trying to find out whether it was also a ceiling.
+He had been catching a quarter of the push for a month. It had become almost reliable; he caught it four times in ten, sometimes five, and the price had stayed the same through all of it, a hot bar laid across the collarbones and two breaths he could not take. He had begun to think of the quarter as a floor he stood on. Tonight he was trying to find out whether it was also a ceiling.
 
 The first six tries went as they usually went. Two caught at a quarter. Four did nothing. On the seventh he reached for more than he had chosen, greedily, a fraction too late, and the gathered force slid sideways off the road he had laid for it and went down into his left wrist. It did not hurt at once. Then it hurt a great deal, a deep, hot throb in the joint, and he sat back on his heels and held the wrist against his chest while Brom waited.
 
@@ -60,7 +60,7 @@ Karis was at the rail too. Cael had not seen her come. She was standing a few pl
 
 "May I ask you something?"
 
-Lira lowered the flask. Cael watched her shoulders come up an inch, the way they had on the wall when she talked about people who wrote things down.
+Lira lowered the flask. Cael watched her shoulders come up an inch, as they had on the wall when she talked about people who wrote things down.
 
 "Is this research?"
 
@@ -74,13 +74,13 @@ Karis nodded, without any sign of offence, and turned to go.
 
 Karis turned back. "In the third exchange you took a strike on the hip that you could have slipped. I've seen you slip harder ones. I'd like to know why you took it."
 
-Lira was quiet for a while. She turned the flask over in her hands.
+Lira was quiet. She turned the flask over in her hands.
 
 "There's a file about me at Fenmark," she said finally. "I've never read it. But I know one word in it, because they read it aloud to me on the day they threw me out. *Insubordination.* And the man who read it said, so that I'd be sure to understand, that it meant I had no control of myself." She set the flask on the rail. "So when I take a hit now, I take it where everyone can see I chose to. The ones I slip, nobody remembers. The ones I take on purpose, they remember I didn't have to." She looked at Karis directly for the first time. "That isn't for your notebook."
 
 "It isn't going in my notebook," said Karis. "Thank you."
 
-She stood a moment longer, as if deciding whether to say something more, and then said it.
+She stood a moment longer, deciding something, and then said it.
 
 "I'd have taken it too. For the same reason."
 
@@ -100,7 +100,7 @@ The benches along one side held forty, and they were full by the time he arrived
 
 A broad shape came along the rail and stopped beside Brom, and Cael looked up and saw that it was Hobb.
 
-He was alone. He had his hands in the pockets of his training coat and his feet planted a shoulder-width apart even standing at a rail, as if the habit went all the way down. He nodded to Brom, and Brom nodded back, and neither of them said anything, which seemed to satisfy both of them completely.
+He was alone. He had his hands in the pockets of his training coat and his feet planted a shoulder-width apart even standing at a rail. He nodded to Brom, and Brom nodded back, and neither of them said anything, which seemed to satisfy both of them completely.
 
 Cael understood that the moment he had been waiting for had arrived of its own accord, as he had suspected it would, and that if he let it go by now he would be letting a habit form.
 
@@ -122,9 +122,9 @@ Something moved in Hobb's broad face, slowly, like a stone settling into a bank.
 
 "Sorry."
 
-"Don't be." Hobb looked back at the ring. "He'll press," he added, after a moment, and nodded at the north side, where Edran was taking his mark. "He always presses when there's a crowd. Watch how long he lets her alone in the first one."
+"Don't be." Hobb looked back at the ring. "He'll press," he added, and nodded at the north side, where Edran was taking his mark. "He always presses when there's a crowd. Watch how long he lets her alone in the first one."
 
-It was, Cael realized, the longest speech he had ever heard Hobb make, and it had ended in a tactical note, freely given. He wrote *Hobb: he'll press with a crowd* in the margin of the binder and felt as though he had been handed something more than the note.
+It was, Cael realized, the longest speech he had ever heard Hobb make, and it had ended in a tactical note, freely given. He wrote *Hobb: he'll press with a crowd* in the margin of the binder and felt he had been handed something more than the note.
 
 ---
 
@@ -218,7 +218,7 @@ He had written a great deal. He looked at the page now, while the yard emptied r
 
 *Off hand still before every point. Lag after every release. Never more than nine points at once. Breathing never changed. Hands never flushed. She finished the way she started.*
 
-He looked at that last line for a long time, and then wrote the one under it that mattered.
+He looked at that last line, and then wrote the one under it that mattered.
 
 *She didn't spend anything she couldn't spare. Whatever she has in reserve, nobody in this yard saw any of it today.*
 
@@ -247,7 +247,7 @@ He held the look. His face showed nothing at all. Cael thought he understood it 
 Edran looked away. He went out through the north gate alone, without hurrying, and the students who would once have fallen in round him like water round a post let him go.
 
 
-Cael closed the binder slowly. He found that he was not glad, though he had every reason to think he would be. He had spent a month watching Edran and had filled three pages on him, and the line at the bottom of the Glass page was about breaking first and on purpose, with a question under it that he still could not answer. He had not, until this afternoon, seen Edran choose not to break at all.
+Cael closed the binder slowly. He was not glad, though he had every reason to think he would be. He had spent a month watching Edran and had filled three pages on him, and the line at the bottom of the Glass page was about breaking first and on purpose, with a question under it that he still could not answer. He had not, until this afternoon, seen Edran choose not to break at all.
 
 ---
 
@@ -267,4 +267,4 @@ By supper the rumor market had already rebuilt itself around the afternoon, and 
 
 "Nothing." Lira shrugged. "Same as always. Four stories pulling different ways and everybody arguing. Worry when they start to agree."
 
-He laughed, because she meant him to, and ate the larger half of the bread, and did not tell her that of the four, the true one was the only one that worried him.
+He laughed, because she meant him to, and ate the bread, and did not tell her that of the four, the true one was the only one that worried him.

@@ -4,13 +4,13 @@ Brom was on the defensive-branch floor. Cael could tell how his afternoon had go
 
 There was a crowd. It was not a large one, perhaps a dozen students strung along the chalk boundary of the far section, but it had the particular stillness of people who had stumbled onto something worth watching rather than come on purpose. Nobody was talking, and two of them had set their bags down, which meant they had stopped meaning to leave. Cael found a place at the end of the line and looked over a shoulder.
 
-Brom stood in the middle of the section in his usual stance, low and loose, his weight sunk into his heels as if the floor were a slope he had decided to lean against. Across from him stood the broadest student Cael had seen on the grounds, a head taller than Brom and half again as wide, with forearms like fence posts and the calm, patient face of someone who had been asked to stand in front of other people for a very long time and had made his peace with it. His feet were planted shoulder-width apart, and the chalk dust around them had settled into a faint ring, as if he had not moved them in some while. Stone Path, Cael guessed, from the way the boy's weight seemed to go down through his soles and keep going; a fourth-year at least, Iron-tier and probably low in it.
+Brom stood in the middle of the section in his usual stance, low and loose, his weight sunk into his heels as if the floor were a slope he had decided to lean against. Across from him stood the broadest student Cael had seen on the grounds, a head taller than Brom and half again as wide, with forearms like fence posts and the calm, patient face of someone who had been asked to stand in front of other people for a very long time and had made his peace with it. His feet were planted shoulder-width apart, and the chalk dust around them had settled into a faint, undisturbed ring. Stone Path, Cael guessed, from the way the boy's weight seemed to go down through his soles and keep going; a fourth-year at least, Iron-tier and probably low in it.
 
-Between them, a little to one side, stood a woman of about fifty. She was not large, and at first glance she was not anything in particular, a lean woman with grey-streaked hair tied back and a plain brown training coat buttoned to the throat. But she stood the way Cael had seen only a handful of people stand, perfectly balanced, every part of her body doing exactly the work it needed to keep her upright and not one ounce more, so that even at rest she seemed to be holding a shield she was not carrying.
+Between them, a little to one side, stood a woman of about fifty. She was not large, and at first glance she was not anything in particular, a lean woman with grey-streaked hair tied back and a plain brown training coat buttoned to the throat. But she stood the way Cael had seen only a handful of people stand, perfectly balanced, every part of her body doing the work it needed to keep her upright and not one ounce more, so that even at rest she seemed to be holding a shield she was not carrying.
 
 Shield Path. It could not have been anything else.
 
-"Wray," the girl beside him whispered to her friend, as if Cael had asked. "Bronze. She's had him out there since the fifth bell."
+"Wray," the girl beside him whispered to her friend. "Bronze. She's had him out there since the fifth bell."
 
 "Who?"
 
@@ -20,7 +20,7 @@ Cael looked at the light through the high windows and did a quick sum. Brom had 
 
 Wray raised one finger.
 
-The broad student came forward, and within three exchanges Cael understood that he was watching the most orthodox defensive fighter he had ever seen. Everything the boy did came out of a textbook. He pressed, set his angle, and pressed again, and each strike arrived from exactly the approved line at exactly the approved distance, with his weight committed exactly as far as the form recommended and no further. It was not exciting, and it was not meant to be; it was the kind of pressure that wore people down by never giving them anything to argue with.
+The broad student came forward, and within three exchanges Cael understood that he was watching the most orthodox defensive fighter he had ever seen. Everything the boy did came out of a textbook. He pressed, set his angle, and pressed again, and each strike arrived from exactly the approved line at exactly the approved distance, with his weight committed as far as the form recommended and no further. It was not exciting, and it was not meant to be; it was the kind of pressure that wore people down by never giving them anything to argue with.
 
 Brom met it from underneath, the way Brom met everything.
 
@@ -36,7 +36,7 @@ This time she had moved Brom's mark. Cael saw it at once, because he had been wa
 
 Wray raised her finger. Stop.
 
-She watched Brom for a long moment without saying anything. Then she spoke to the broad student again, quietly, and moved Brom's mark back to where it had been, and this time she touched the boy's left shoulder.
+She watched Brom without saying anything. Then she spoke to the broad student again, quietly, and moved Brom's mark back to where it had been, and this time she touched the boy's left shoulder.
 
 "From there."
 
@@ -46,7 +46,7 @@ The broad student did not use the opening. He had not been told to. Wray's pen m
 
 Somewhere in the fourth change, Cael realized what she was doing. It was what he did with the binder. She was isolating variables — distance, angle, rhythm — changing exactly one condition at a time and holding everything else still, and watching which part of Brom held and which part bent. She was not watching a fight at all. She was taking him apart into the pieces that were structure and the pieces that were habit. Cael felt a strange, sharp pleasure at seeing someone else do it, and do it better than he did, with a living person instead of a page.
 
-Wray raised her finger a fifth time and went to the broad student and spoke to him longer than before. Cael saw the boy frown slightly, as if he had been asked to do something unfamiliar, before he nodded and Wray stepped away.
+Wray raised her finger a fifth time and went to the broad student and spoke to him longer than before. Cael saw the boy frown slightly before he nodded and Wray stepped away.
 
 "Don't finish anything," Cael heard her say as she passed the chalk.
 
@@ -114,7 +114,7 @@ They were nearly at the residence door before Brom spoke.
 
 "I think I have a teacher."
 
-He said it the way he might have set something fragile down on a table, carefully, as if he was not yet sure the table would hold it. In all the months Cael had known him, he had never once heard Brom use that word without something sour attached to it, a joke about Velmere's hired instructors or a dry aside about men who taught for money and wanted thanks for it. This time there was nothing attached at all.
+He said it carefully, like a man setting something fragile on a table he was not yet sure would hold it. In all the months Cael had known him, he had never once heard Brom use that word without something sour attached to it, a joke about Velmere's hired instructors or a dry aside about men who taught for money and wanted thanks for it. This time there was nothing attached at all.
 
 "That's good."
 
@@ -160,7 +160,7 @@ Lira looked at the way he sat. "What happened to you?"
 
 "Good," said Lira with feeling, and tore him off the biggest piece of the loaf.
 
-She had spent the afternoon in the hill town between her own scheduled blocks. She reported on it the way a circuit veteran reports on a new district, quickly and without wasted words: it was even smaller up close than it looked from the hill, with one street worth walking and one worth avoiding, a mill, a smithy, a post office in the back of a draper's, and a baker at the bottom of the hill who opened before dawn and was rude to everyone equally, which Lira considered a mark of integrity.
+She had spent the afternoon in the hill town between her own scheduled blocks. She reported on it quickly and without wasted words: it was even smaller up close than it looked from the hill, with one street worth walking and one worth avoiding, a mill, a smithy, a post office in the back of a draper's, and a baker at the bottom of the hill who opened before dawn and was rude to everyone equally, which Lira considered a mark of integrity.
 
 "I'll take your letter down tomorrow. I'm going anyway, and the post goes out on the third day of the week."
 
@@ -174,7 +174,7 @@ Both of them looked up.
 
 "Is that good or bad?" asked Brom.
 
-She took a long time to answer.
+She turned the cup once more before she answered.
 
 "I've been carrying this as if Fenmark invented it just for me. As if they'd looked at me and decided, specially, that I was the problem." She set the cup down. "It turns out there's a desk for it. A queue. Other people standing in it."
 
@@ -222,7 +222,7 @@ Brom's face did something complicated, as if several expressions were queuing fo
 
 "She said, 'Good. Then show me on the floor, not in a lecture hall. If you're right, I'll rewrite the lecture.'"
 
-He said it slowly, word for word, the way a person repeats a sentence he intends to remember.
+He said it slowly, word for word.
 
 Lira put down her bread. "She said she'd *rewrite the lecture*?"
 
@@ -230,6 +230,6 @@ Lira put down her bread. "She said she'd *rewrite the lecture*?"
 
 "Velmere's instructors didn't," said Lira. It was not quite a question.
 
-"Velmere's instructors wanted to be obeyed." Two years of road had taken the edge off that grudge, and he spoke of it the way a man mentions bad weather in another country. "Wray wants somebody to test her. That's a different animal entirely."
+"Velmere's instructors wanted to be obeyed." Two years of road had taken the edge off that grudge, and he spoke of it now without heat. "Wray wants somebody to test her. That's a different animal entirely."
 
-He went back to his barley, and Cael watched him eat and thought about what two days had done: a tag that had not needed a question, a teacher who had found a weakness and offered to mend it, and a lecture hall full of people who had names for the things Brom had learned by falling over, one of whom was willing to rewrite her own lecture if a Copper-tier boy from nowhere could beat her on a chalk floor. He thought that Brom had been waiting for this place his whole life without knowing it existed. He did not say it, because Brom would have been embarrassed and because it was not his to say, and he did not write it down that night either, though he started to. He found that what he wanted to remember was the look on Brom's face across the barley, and that no line in the binder would hold it better than he already did.
+He went back to his barley, and Cael watched him eat and thought about what two days had done: a tag that had not needed a question, a teacher who had found a weakness and offered to mend it, and a lecture hall full of people who had names for the things Brom had learned by falling over, one of whom was willing to rewrite her own lecture if a Copper-tier boy from nowhere could beat her on a chalk floor. He thought that Brom had been waiting for this place his whole life without knowing it existed. He did not say it, because Brom would have been embarrassed and because it was not his to say, and he did not write it down that night either, though he started to. What he wanted to remember was the look on Brom's face across the barley, and no line in the binder would hold it better than he already did.

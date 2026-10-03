@@ -62,7 +62,7 @@ Dessa listened to all of it with her face doing nothing at all.
 
 "Good," she said, and nodded once, and went back to the rope.
 
-Vell had written while he talked. She blotted the line and turned the ledger a little toward him, which she did not usually do, so that he could see it upside down: *Sun. wk. — Dessa (Cu 5, Stone) / unrated (vouched). Asked by both.*
+Vell had written while he talked. She blotted the line and turned the ledger a little toward him, which she did not usually do, so that he could see it upside down: *Sunday week — Dessa (Cu 5, Stone) against unrated (vouched). Asked by both.*
 
 "Third bout," said Vell. "After the lamps are lit, before they're hot." She turned the ledger back. "Go and put that arm in cold water. And come to the grey half on Saturday and let the girl look at it, not before."
 

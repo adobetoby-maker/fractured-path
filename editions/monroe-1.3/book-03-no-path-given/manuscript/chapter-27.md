@@ -6,7 +6,7 @@ The yard at first bell on Friday was colder than it had been on Thursday, and em
 
 The panel sat at the north end, Quenna in the middle and Wray on her left. The rotating seat this morning was the lean old instructor with scorched cuffs who took the heat Paths, Ember and Ash together. He looked like someone the file in front of him had already told most of what he expected to see.
 
-Gerda came through the gate as the bell finished, tall and narrow and very straight, with her ash-pale hair cut close and her patched coat folded over her arm and her hands wrapped. On her way to the ring she stopped, and looked up at the clock above the main hall door, and checked it against something in her head. Then she went on.
+Gerda came through the gate as the bell finished, with her ash-pale hair cut close and her patched coat folded over her arm and her hands wrapped. On her way to the ring she stopped, and looked up at the clock above the main hall door, and checked it against something in her head. Then she went on.
 
 "For the record," said Quenna. "Re-certification review, formal. The candidate: Gerda, Ash Path, re-certification track. Two recorded bouts before the panel, under standings rules. The originating academy's record of finding has been received and read. The candidate's recorded tier is Copper, Rank Nine at the date of the originating record. The finding is termination of enrollment for failure to meet the standing requirement." She turned a page. "The panel will assess advancement against the recorded tier. First bout. The candidate takes the south mark."
 
@@ -40,13 +40,13 @@ She did it once more in the second exchange, the same way, from the same distanc
 
 Nobody on the rail said anything.
 
-The panel went to the far wall and did not talk for long. When they came back Quenna wrote for some time, and then lifted her pen.
+The panel went to the far wall and did not talk for long. When they came back Quenna wrote, and then lifted her pen.
 
 "Re-certification review, formal. Two recorded bouts. The first lost by the candidate, the second won. The panel's notation." Her voice did not change. "Performance consistent with recorded tier. No advancement demonstrated against the originating record. Recommend reconsideration of candidacy at the term's end."
 
 "Initials," said Quenna. "And the candidate's signature that she has heard the notation."
 
-Gerda walked to the table and signed. She did it carefully, the way she wrote the hour on her slip at the floor desk, every letter separate. Then she straightened and looked up at the clock above the main hall door, and Cael saw her lips move.
+Gerda walked to the table and signed. She did it carefully, every letter separate. Then she straightened and looked up at the clock above the main hall door, and Cael saw her lips move.
 
 He knew what she had said. He had heard her say it twice before, at the board in the main hall, about other people's petitions.
 
@@ -54,7 +54,7 @@ He knew what she had said. He had heard her say it twice before, at the board in
 
 It took him most of the walk back across the yard to understand what he had just watched, and when he understood it he did not like it at all.
 
-Nothing had gone wrong. That was the whole of it. Nobody had cheated her, or lied, or made a sentence up out loud at the end of a table. The procedure had worked precisely as its writers meant it to. Three people had read her originating record and watched her fight twice on a cold morning and written down what they saw. What they saw was a careful Copper fighter who did not move out of her own haze unless she had to and never once took a risk she could avoid, which was precisely the tier and rank the record said she was, and so the record and the floor agreed. Yesterday a floor had disagreed with a file, and the disagreement had been written down and would stand. This morning the floor had agreed with one, and the agreement had been written down too, and it would stand just as long.
+Nothing had gone wrong. That was the whole of it. Nobody had cheated her, or lied, or made a sentence up out loud at the end of a table. The procedure had worked precisely as its writers meant it to. Three people had read her originating record and watched her fight twice on a cold morning and written down what they saw. What they saw was a careful Copper fighter who did not move out of her own haze unless she had to and never once took a risk she could avoid, which was the tier and rank the record said she was, and so the record and the floor agreed. Yesterday a floor had disagreed with a file, and the disagreement had been written down and would stand. This morning the floor had agreed with one, and the agreement had been written down too, and it would stand just as long.
 
 No floor had come to rescue her, because she had not let it.
 
@@ -72,7 +72,7 @@ Cael looked at her.
 
 "Then she'll tell me so, and I'll go away." Lira was already walking. "She's very good at telling people things. It's the asking she's bad at."
 
-He watched her cross the yard after Gerda, quick and short-stepped and favouring the shoulder, and catch her up at the training hall door. Gerda stopped. They stood a moment at the door, the tall careful girl and the short fierce one, and Cael could not hear anything they said. He saw Gerda look at the clock. He saw Lira not look at it at all. Then the two of them went in together, and the door shut.
+He watched her cross the yard after Gerda, quick and short-stepped and favouring the shoulder, and catch her up at the training hall door. Gerda stopped. They stood at the door, the tall careful girl and the short fierce one, and Cael could not hear anything they said. He saw Gerda look at the clock. He saw Lira not look at it at all. Then the two of them went in together, and the door shut.
 
 Brom had come up beside him at some point, as he did.
 
@@ -94,7 +94,7 @@ Then she put her spoon down.
 
 "No. But you'll wonder." Gerda laid both hands flat on the scarred wood on either side of her bowl, as Cael had seen Karis lay hers. "I'd rather you knew than wondered. Wondering gets things wrong."
 
-She told it in her procedure voice, flat and level and very exact, as if she were reading out a clause.
+She told it in her procedure voice, flat and level and very exact.
 
 She had been in her second year at a school in the south, Copper Rank Nine, one rank short of the threshold, and her instructor had told her in the autumn that she would cross before midwinter. In the winter her mother had fallen ill at home, three days' coach away. Gerda had gone to her instructor and asked for leave, and he had given it to her in the corridor outside the floor, nine days, *go*, and she had gone. In the nine days three of her recorded bouts had fallen due, and she had not been there to fight them. The leave had never been written down. Her instructor had meant to; she believed that still. Before he did, he had been offered a post at a larger academy in the north and taken it, and gone, within the week.
 
@@ -110,7 +110,7 @@ Then Gerda's voice changed. It was a small change, and Cael almost missed it, bu
 
 "She got better," Gerda said. "My mother. She's well now. She writes to me every month, on the day the coach goes, and she never once mentions it. She thinks I don't know she feels it's her fault." Her right hand lifted off the table and came down again. "I check the clock because a clock is a thing that's written down. Every slip I sign, I write the hour on it, and I look up to make sure the hour's the hour, and I get my initials before the sixth bell, every day, because nobody is ever again going to find a thing about me that should have been written and wasn't."
 
-She stopped. She looked at her hands on the table, as if surprised to find them there.
+She stopped. Her hands lay on the table in front of her, and she looked at them.
 
 "So yesterday," she said, "I fought the way you fight when the only thing you're afraid of is giving them something to write. I didn't go out of the haze. I didn't take a hit. I didn't do one thing that could go wrong." She looked up at Lira. "And they wrote down that nothing happened. Which was correct."
 
@@ -128,7 +128,7 @@ Gerda answered at once, without having to think, as Cael would have answered wit
 
 "It isn't a petition. It's a form." Lira did not raise her voice. "Nobody posts it. Nobody answers it on a board. You write down that you want one more bout, and the hour, and you hand it to Quenna, and Quenna writes a date on the calendar. That's all it is." She held Gerda's eyes. "I'll sit with you while you write it. I'll stand at the desk while you hand it in. And between now and the bout, I'll get you out of that haze if I have to drag you."
 
-Gerda looked at her for a long time, with her pale level eyes, and Cael could not tell what she saw.
+Gerda looked at her with her pale level eyes, and Cael could not tell what she saw.
 
 "Why?" said Gerda.
 
@@ -176,7 +176,7 @@ He told Lira at the midday meal, in the general shape the third clause allowed. 
 
 At the sixth bell on Sunday Lira took Gerda onto the open floor, and she brought Hobb.
 
-Cael never learned exactly how. He suspected Brom had been asked to ask, and that Brom had gone to the defensive hall and stood beside Hobb until Hobb looked at him, and said one sentence, and that Hobb had said nothing back and simply come. However it had happened, Hobb was there, at the near section of the open floor, standing on the chalk with his feet a shoulder-width apart and his hands loose, as patient as a gatepost.
+Cael never learned how. He suspected Brom had been asked to ask, and that Brom had gone to the defensive hall and stood beside Hobb until Hobb looked at him, and said one sentence, and that Hobb had said nothing back and simply come. However it had happened, Hobb was there, at the near section of the open floor, standing on the chalk with his feet a shoulder-width apart and his hands loose, as patient as a gatepost.
 
 "He's going to stand there," Lira told Gerda. "That's all. He's Stone. He doesn't move unless he's made to. You're going to make him."
 
@@ -206,7 +206,7 @@ Hobb, who had not spoken once in the hour, took his hands out of his pockets.
 
 "Eleven," he said. "Yesterday, none."
 
-He nodded to Lira, and to Gerda, and went off across the floor toward the defensive hall without another word. Gerda straightened and looked after him for a long time, as if she had been handed a thing much heavier than it looked.
+He nodded to Lira, and to Gerda, and went off across the floor toward the defensive hall without another word. Gerda straightened and looked after him until the hall door had shut behind him.
 
 ---
 
@@ -226,7 +226,7 @@ Gerda sat. She read it, one phrase at a time, waiting at each comma while Prynn'
 
 "May elect, before the term's end."
 
-For a long moment Prynn considered her over the top of the spectacles.
+Prynn considered her over the top of the spectacles.
 
 "You read *may*."
 

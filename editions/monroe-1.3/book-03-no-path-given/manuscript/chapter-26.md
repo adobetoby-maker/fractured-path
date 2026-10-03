@@ -8,21 +8,21 @@ Cael stood at the rail on the open side with Brom on his left. Karis was a few p
 
 Gerda was at the far end of the rail, alone, with her arms folded and her patched coat buttoned to the chin. Tomorrow at this hour it would be her. She had the look of a person standing at the edge of cold water, watching someone else go in first to find out how cold it was.
 
-Further along, by the standings board, Edran stood with his arms folded, looking not at the board for once but at the ring. Hobb was beside him, the two of them saying nothing, as companionable as two posts.
+Further along, by the standings board, Edran stood with his arms folded, looking not at the board for once but at the ring. Hobb was beside him, and neither of them said anything, which seemed to suit them both.
 
 The three chairs stood at the north end with their chalk ticks and the little table. Quenna sat in the middle with the review ledger open and a folder beside it that Cael knew held one sheet of weak-tea-coloured paper. Wray sat on her left in the brown coat. The rotating seat was the broad-faced woman from the movement floor who had sat Cael's second sitting. Cael thought that was a piece of luck or of somebody's quiet arranging. She taught the movement Paths, and Wind was hers to read.
 
-Lira came through the gate from the main hall exactly as the first bell finished ringing, with her hands wrapped and her hair tied back hard and nothing in her face at all.
+Lira came through the gate from the main hall just as the first bell finished ringing, with her hands wrapped and her hair tied back hard and nothing in her face at all.
 
 "For the record," said Quenna.
 
 The yard went quiet from the front backward.
 
-"Re-certification review, formal. The candidate: Lira, Wind Path, re-certification track. Two recorded bouts before the panel, under standings rules. The originating academy's record of finding has been received and read by the panel. The candidate's recorded tier is Copper." Quenna did not look up from the ledger as she said it, and did not slow down, and did not hurry. "The panel will assess advancement against the recorded tier. First bout. The candidate takes the south mark."
+"Re-certification review, formal. The candidate: Lira, Wind Path, re-certification track. Two recorded bouts before the panel, under standings rules. The originating academy's record of finding has been received and read by the panel. The candidate's recorded tier is Copper." Quenna did not slow down as she said it, and did not hurry. "The panel will assess advancement against the recorded tier. First bout. The candidate takes the south mark."
 
 Lira took the south mark.
 
-Cael watched her take it and knew from the way she set her feet that she had read the sheet in the folder three times on Monday, and every night since in her head. She had come out here to make three people who had read it too sit and watch a floor disagree with it.
+Cael watched her take it and knew from how she set her feet that she had read the sheet in the folder on Monday, and every night since in her head. She had come out here to make three people who had read it too sit and watch a floor disagree with it.
 
 ---
 
@@ -46,7 +46,7 @@ The third exchange he tried to change it, and Cael liked him for trying. He came
 
 The third-year stood for a moment with his hands at his sides, breathing, looking at the chalk at his feet as if it might have something to tell him. Then he nodded to her, once, a decent nod, and walked off the ring with the face of a boy who intends to go back to his lecture notes that evening and read them again with some suspicion.
 
-At the table, the broad-faced woman had stopped writing. She was not writing anything at all. She was sitting with her pen lifted and her slate on her knee, simply looking at Lira, the way Cael had seen people at the Ironyard look at a fighter they had come to watch somebody else beat.
+At the table, the broad-faced woman had stopped writing. She was not writing anything at all. She was sitting with her pen lifted and her slate on her knee, simply looking at Lira, as Cael had seen people at the Ironyard look at a fighter they had come to watch somebody else beat.
 
 "She didn't take anything," said Brom, very low. "Not one hit."
 
@@ -54,7 +54,7 @@ At the table, the broad-faced woman had stopped writing. She was not writing any
 
 The second opponent was the Storm Path fourth-year who had stopped Cael on the stair before the exhibition to ask whether he meant to fight Edran close or at range. He had come over the threshold into Iron at the end of last term, and the board gave him Iron Rank One. That put him at the lower edge of the tier, and above Lira on every list in the building except the one this yard was writing this morning. He was quick and narrow and long in the arm, and when he took his mark on the north side the air around him already smelled faintly of rain.
 
-He had watched the first bout. Cael could see that in the way he set himself, further back than the textbook distance, his weight light and even. He was not going to give her a line to stand on.
+He had watched the first bout. Cael could see that in how he set himself, further back than the textbook distance, his weight light and even. He was not going to give her a line to stand on.
 
 He did not. When Wray lowered her finger he stayed out at the edge of the ring and worked from there. A Storm release was short and sharp, a slap of hard wet air off the palm that could knock a fighter a step sideways or throw grit into her eyes. He threw them small and fast and never stayed where he had thrown one from. Lira went after him, and he left. She went after him again, and he left again, out along the chalk and round, keeping the length of a long arm between them and never once committing to a strike that would have let her inside it. For the whole of the first exchange she chased him round the ring, and for the whole of it he made her pay a little for every pace. Once, she nearly had him against the north chalk, and he went out along it sideways like a cat on a fence. When Wray called it neither of them had a touch, and the yard had begun to make a low uncertain sound.
 
@@ -88,7 +88,7 @@ Lira helped the fourth-year up. He took her hand and stood a moment with his oth
 
 The panel went to the far wall and talked. They talked for a shorter time than Cael had expected and a longer time than he could stand, and he stood it anyway with his hands on the rail and his eyes on the chalk. Lira stood on the south mark with her left shoulder held a little away from her side and her breathing slowing and her face as empty as a swept floor. She did not look at the panel. She did not look at the rail. She looked at the north mark, where nobody stood now, as if there might be another bout coming and she meant to be ready for it.
 
-They came back to their chairs. Quenna opened the folder beside the ledger and took out the sheet of weak-tea-coloured paper and laid it flat, beside the ledger, where she could see both. Then she wrote. She wrote for some time, and then she lifted her pen and her voice fell into the flat slow cadence of the record, every word set down by itself.
+They came back to their chairs. Quenna opened the folder beside the ledger and took out the sheet of weak-tea-coloured paper and laid it flat, beside the ledger, where she could see both. Then she wrote, and then she lifted her pen and her voice fell into the flat slow cadence of the record, every word set down by itself.
 
 "Re-certification review, formal. Two recorded bouts. Both won by the candidate. The panel's notation."
 
@@ -96,15 +96,15 @@ She read it off the ledger without hurrying.
 
 "Advancement inconsistent with recorded tier. Recommend continued track with priority review."
 
-Cael heard it once, and then once more inside his own head to make certain of the words, and then a third time, because he could not stop himself.
+Cael heard it once, and then again inside his own head, because he could not stop himself.
 
-He knew what it was. He had spent his whole life inside records and he knew exactly what it was, and he felt it go through him in the cold yard like a draught under a door. It did not change her tier. She was Copper on Fenmark's sheet and Copper on Greyvane's ledger and she would be Copper on the board this evening with the dot still beside her name. It did not reverse anything, or retract anything, or call anyone wrong. It only stated, in an academy's own language, initialed by three people and dated, that the recorded tier and the floor did not agree. For two years the only paper in the world about Lira had been four paragraphs written by somebody who had never watched her fight. Now there were two pieces of paper, and the second one, written by three people who had, said in plain ink that the first did not add up.
+He knew what it was. He had spent his whole life inside records and he knew what it was, and he felt it go through him in the cold yard like a draught under a door. It did not change her tier. She was Copper on Fenmark's sheet and Copper on Greyvane's ledger and she would be Copper on the board this evening with the dot still beside her name. It did not reverse anything, or retract anything, or call anyone wrong. It only stated, in an academy's own language, initialed by three people and dated, that the recorded tier and the floor did not agree. For two years the only paper in the world about Lira had been four paragraphs written by somebody who had never watched her fight. Now there were two pieces of paper, and the second one, written by three people who had, said in plain ink that the first did not add up.
 
-It would stay. Few people alive understood that better than he did: a line in a ledger like that one outlasts the morning it was written, and outlasts the memory of whoever wrote it. Everything he had at Greyvane was built on exactly that.
+It would stay. Few people alive understood that better than he did: a line in a ledger like that one outlasts the morning it was written, and outlasts the memory of whoever wrote it. Every inch of ground he stood on in this place was made of lines like that.
 
 "Initials," said Quenna. "And the candidate's signature that she has heard the notation."
 
-Lira walked to the little table. She took the pen and signed, quickly, in her slanting hand. Then she stood a moment and looked down at the ledger, at the line Quenna had written, and Cael saw her read it, once, the way she had read nothing else that morning. Her face did not change. Her shoulders did.
+Lira walked to the little table. She took the pen and signed, quickly, in her slanting hand. Then she stood a moment and looked down at the ledger, at the line Quenna had written, and Cael saw her read it, once, as she had read nothing else that morning. Her face did not change. Her shoulders did.
 
 She came off the ring toward the rail with her water flask, and stopped in front of him and Brom, and did not quite meet either of their eyes.
 
@@ -138,7 +138,7 @@ It was not fast, the first one. It was a flat hard shove off her forearm, and as
 
 She struck again, a little faster.
 
-Cael watched her count, though she did not count aloud. He could see it in the stillness of her face between strikes, the way he had seen Karis count. Every strike was a measurement, each a fraction quicker than the last, one condition changed and everything else held still. She went up the speeds the way a person goes up a stair in the dark, one step at a time, feeling for the next before putting weight on it.
+Cael watched her count, though she did not count aloud. He could see it in the stillness of her face between strikes, as he had seen Karis count. Every strike was a measurement, each a fraction quicker than the last, one condition changed and everything else held still. She went up the speeds the way a person goes up a stair in the dark, one step at a time, feeling for the next before putting weight on it.
 
 On the seventh strike she stopped.
 
@@ -172,7 +172,7 @@ For a long moment Brom only watched her. Then came the nod, single and slow, the
 
 "A wall."
 
-"A wall," said Wray. She turned to Hobb. "Thank you. You were here in case I needed something slow and heavy to show him the difference, and I didn't. Go and eat." Hobb nodded and went, and passing Brom he stopped, and put one broad hand on Brom's shoulder for a moment, and took it away, and went on without a word.
+"A wall," said Wray. She turned to Hobb. "Thank you. You were here in case I needed something slow and heavy to show him the difference, and I didn't. Go and eat." Hobb nodded and went, and passing Brom he stopped, and put one broad hand on Brom's shoulder, and took it away, and went on without a word.
 
 Wray stopped at the rail where Cael stood.
 
@@ -194,13 +194,13 @@ She told them what was on the sheet. She told it flatly and in order, the four p
 
 Brom said nothing. He put one hand flat on the stone between them.
 
-Cael thought for a long time before he said anything, because it mattered, and because the things that mattered most to say to Lira were the ones she would know at once if he had not thought them through.
+Cael thought before he said anything, because it mattered, and because the things that mattered most to say to Lira were the ones she would know at once if he had not thought them through.
 
 "When Vell gave me the sheaf," he said slowly, "the last night in Ardenmere. Her copy of my whole record off the Ironyard ledger, every bout. She said, the records know you existed here. I didn't understand what she meant. I thought she meant it as comfort, because the registry had me down as a word and nothing else, and her ledger had me down as everything I'd done." He looked out at the yard going dark. "I think she meant it as a fact. Whatever anyone writes somewhere more important, the people who were there and wrote it down honestly, their page stays. It knows what happened. Nobody gets to argue it away by writing something different in a better building."
 
 Lira was very still beside him.
 
-She said it slowly, as if she were testing the weight of each word before she put her own on it. "The records know what happened here. Nobody gets to say otherwise."
+She said it slowly, weighing each word before she put her own on it. "The records know what happened here. Nobody gets to say otherwise."
 
 "That's the one I'd keep."
 
@@ -210,7 +210,7 @@ She sat with it a while. Then she did a thing he had not expected, which was to 
 
 "When what's obvious?"
 
-"That they were wrong." She said it with no heat in it at all, the way she said the score at the end of a bout. "I'm not filing a dispute. Not now. Maybe not ever. This morning's line does more for me here than any argument with Fenmark would, and I'd have to stand up in front of more people who were never in the room." She patted the coat. "But I'm keeping these. For the day the proving runs the other way, and some office owes me an admission instead of me owing it proof."
+"That they were wrong." She said it with no heat in it at all. "I'm not filing a dispute. Not now. Maybe not ever. This morning's line does more for me here than any argument with Fenmark would, and I'd have to stand up in front of more people who were never in the room." She patted the coat. "But I'm keeping these. For the day the proving runs the other way, and some office owes me an admission instead of me owing it proof."
 
 She turned to Brom. "You've been sitting there with a face on since you came out. I noticed. I've had my turn. Say it."
 
@@ -222,11 +222,11 @@ He told it as plainly as he told everything, the gap between the read and the tu
 
 "She called it a wall," he said. "Not a ceiling. She was very particular. A ceiling is a thing somebody draws. A wall's a thing in you." He was quiet a moment. "It's an honest wall. Nobody's fault. Just the sort of thing you hit if you get good enough to hit it."
 
-Lira leaned across and bumped his shoulder with hers, and winced because it was the bruised one, and did it again with the other on principle, and Brom made the low sound in his chest that did him for a laugh.
+Lira leaned across to bump his shoulder with hers, winced, since it was the bruised one, and bumped him again with the good one on principle, and Brom laughed once, down in his chest.
 
-The three of them sat a long while after that without saying anything, while the yard went from grey to dark and the hill town's lamps came on below them. Cael thought about the two things that had been found that day, one in a ledger and one in a friend, and how differently they sat. Lira's had been paper all along, and paper could be answered with a floor. Brom's was bone and habit and two years of being right, and there was no ledger anywhere that could be argued with about it.
+The three of them sat on after that without saying anything, while the yard went from grey to dark and the hill town's lamps came on below them. Cael thought about the two things that had been found that day, one in a ledger and one in a friend, and how differently they sat. Lira's had been paper all along, and paper could be answered with a floor. Brom's was bone and habit and two years of being right, and there was no ledger anywhere that could be argued with about it.
 
-That night it went into the binder, written in the plain hand he saved for the evenings that moved something.
+That night it went into the binder.
 
 *Lira's review. Two bouts, two won. She spent two hits in the second like coins and finished with the barrow turn from the Ardenmere market yard. The notation, read aloud, in their words: Advancement inconsistent with recorded tier. Recommend continued track with priority review. First paper anywhere that says her file might be wrong. She's keeping Fenmark's four paragraphs. No dispute.*
 

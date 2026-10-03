@@ -10,7 +10,7 @@ He did not ease into it, because easing in had never been honest with her.
 
 "Some of what I've got, I think I took from you," he said. "Meaning to, somewhere. Only I didn't know I meant it."
 
-Lira stayed exactly as she was.
+Lira stayed as she was.
 
 "Karis thinks it can be pointed. Aimed. Those mornings in Ardenmere, then. Your framework. If she's right, I didn't just happen to be standing close by when it came. I did it." He made himself go on to the end. "To you. Nobody asked you first, least of all me. I didn't know there was any asking to do."
 
@@ -34,7 +34,7 @@ He looked down at his hands.
 
 "Stop apologising in advance, and go and find out if it's even true."
 
-For a while neither of them said anything. Down in the town a door opened and closed, a faint sound, far off, with somebody's whole life behind it that he would never know, and a lamp went out on the street worth walking, and then one on the street worth avoiding.
+Neither of them said anything. Down in the town a door opened and closed, a faint sound, far off, with somebody's whole life behind it that he would never know, and a lamp went out on the street worth walking, and then one on the street worth avoiding.
 
 "It doesn't frighten you," he said, not quite making it a question.
 
@@ -48,7 +48,7 @@ Her breath went out white into the dark.
 
 "But you don't frighten me. Some girl with beautiful handwriting thinks there might be a handle on it, and that isn't going to start me being frightened of *you*." She turned to him again. "If there's a handle on it, fine. Better your hand than nobody's. That's all of it, from me."
 
-"Better my hand than nobody's." He said it slowly, the way he would set his weight on a plank he wasn't sure of.
+"Better my hand than nobody's." He said it slowly, as he would set his weight on a plank he wasn't sure of.
 
 "Somebody's been steering," Lira said.
 
@@ -74,7 +74,7 @@ Then she went in, and he heard the door open and close behind her and did not tu
 
 He stayed out there long after the door had shut. The cold settled into his coat, and below him the lamps of the town winked out one by one, each of them a house totting up its day and closing the book. In the residence wing behind him Karis was very likely still awake, adding a half-question to the page she called *Not asked*. Three days west, a woman kept a ledger of every bout her floor had ever seen, so that the truth about people would be stored somewhere against hard winters. Further still, in Denvash, a man kept a workshop, and had once stood beside a boy with a hand on his shoulder on the worst morning of the boy's life. Everywhere he looked there was somebody keeping a record, and he had kept one himself for as long as he could remember. And in all that time he had never once gone over the one record that mattered most, the one written into the build of him, in a hand he was only now starting to suspect was his own.
 
-He took the binder out of his coat. He could hardly see the page, but he wrote anyway, slowly, in the square hand he saved for lines he would want to go on believing once he had started to doubt them.
+He took the binder out of his coat. He could hardly see the page, but he wrote anyway, slowly, pressing hard, a line he would want to go on believing once he had started to doubt it.
 
 *If it can be directed, I have to learn to direct it. Not to have more. To stop not-knowing what I'm doing. Not-knowing is the version that eventually gets someone killed.*
 
@@ -92,11 +92,11 @@ Brom was at the stable table at the first bell with porridge and his number shee
 
 "Better my hand than nobody's."
 
-Brom chewed slowly, considering it as if testing it with his teeth.
+Brom chewed slowly, considering it.
 
 "That's right. That's the right one." He turned the number sheet over so the clean side was up. "Seven again yesterday. Didn't go down. Wray says that's the more important number. The one where it stays. The first number's luck, and the second one's the floor." He folded the sheet back into his coat. "You'll want to remember that, for whatever you're about to start."
 
-He did not ask what Cael was about to start. He went back to his porridge with every sign of contentment, and Cael ate his own and found, for the first time in two days, that he could taste it.
+He did not ask what Cael was about to start. He went back to his porridge with every sign of contentment, and Cael ate his own and, for the first time in two days, could taste it.
 
 Karis came through the stable on her way out with her notebook under her arm. She slowed at the table, enough to glance down at the slip for Tuesday's session that Cael had just signed and left by his bowl, and then she looked at him.
 
@@ -144,9 +144,9 @@ The man at the draper's counter knew Lira by name and had the letter ready befor
 
 *H.*
 
-He read it three times, standing on the corner in the cold with the valley spread out below. It was not long; Hesk's letters were never long. But he could hear every line of it in Hesk's voice, slow and dry, said across a workbench with his hands still busy. When he came to *I mended the bench you used to sit on* he read that line a fourth time and had to look at the far hills for a while.
+He read it standing on the corner in the cold with the valley spread out below. It was not long; Hesk's letters were never long. But he could hear every line of it in Hesk's voice, slow and dry, said across a workbench with his hands still busy. When he came to *I mended the bench you used to sit on* he read that line again and had to look at the far hills.
 
-Lira waited beside him with the loaf under her arm and did not ask what the letter said. When he folded it at last and put it inside his coat, against the binder, she only nodded, as if something had been set down in the right place.
+Lira waited beside him with the loaf under her arm and did not ask what the letter said. When he folded it at last and put it inside his coat, against the binder, she only nodded.
 
 "He mended the bench," Cael said.
 
@@ -168,7 +168,7 @@ It was not the petition board. The petition and its answer and Edran's withdrawa
 
 The date beside it was five days off. Two lines below it, on the next morning, in the same hand, sat Gerda's name with the same words after it.
 
-Lira did not say anything. She did not touch the line or point at it, or make a joke about it, or tell him what she thought the panel would make of her. She looked at it for about as long as it would have taken to read it four times. Then she shifted the loaf under her arm and went on through the hall toward the residence wing with her chin level and her stride unbroken, as she had walked past the marker at the floor desk every morning since the second week. He watched her shoulders as she went. A half-second after she passed the board, they came down by about an inch.
+Lira did not say anything. She did not touch the line or point at it, or make a joke about it, or tell him what she thought the panel would make of her. She looked at it for longer than one line takes to read. Then she shifted the loaf under her arm and went on through the hall toward the residence wing with her chin level and her stride unbroken, as she had walked past the marker at the floor desk every morning since the second week. He watched her shoulders as she went. A half-second after she passed the board, they came down by about an inch.
 
 He did not follow her. He had been told something, on the wall, about telling and being told, and it went both ways or it did not hold.
 
@@ -206,7 +206,7 @@ He knew every one of those sequences. He knew them because he had watched her ru
 
 She was very quiet, working. She did not talk to herself as she sometimes did, or mutter at a slip that came late, or laugh when one came right. She moved and turned and moved again in the grey light. There was something in it he had seen on her only a few times in all the time he had known her, the stillness of a drawn bow, the quiet of a thing pulled back as far as it would go and held, waiting to see where it would be sent.
 
-He did not interrupt her. He went up to the residence wing and sat on his bed with the binder on his knees and Hesk's letter folded inside the front cover, and after a long time he took out a sheet of paper, because Hesk had said to write when something happened, and something had.
+He did not interrupt her. He went up to the residence wing and sat on his bed with the binder on his knees and Hesk's letter folded inside the front cover, and at last he took out a sheet of paper, because Hesk had said to write when something happened, and something had.
 
 *Hesk —*
 
@@ -232,6 +232,6 @@ Then he turned to a clean page, wrote the date at the top of it, and under the d
 
 *Week eight. Something in me has always been looking, and taking, and I have never once told it where to look. That has to change. Not for more. So that the people next to me stop being the ones it lands on.*
 
-He looked at it for a while. Then he wrote one more line underneath, smaller, because it was the honest one, and because Lira had told him to say so when he was not sure.
+He looked at it. Then he wrote one more line underneath, smaller, because it was the honest one, and because Lira had told him to say so when he was not sure.
 
 *I don't know how. I've never aimed it once. I'm going to find out.*

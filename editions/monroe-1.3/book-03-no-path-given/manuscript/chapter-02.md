@@ -56,13 +56,13 @@ He put the tag in his pocket, took it out again a moment later as if it might ha
 
 "I'm going to find my room. I've never had a door with my name on it."
 
-He left, and Cael watched him go and found that he was smiling.
+He left, and Cael, watching him go, was smiling.
 
 ---
 
 Lira's line took most of an hour.
 
-Her clerk was an older man with half-moon spectacles and the slow, careful manner of someone who had handled difficult paper before, and he did not hurry. From a box at his elbow he took a thin file, and it took Cael a moment to understand that it was her Fenmark file. It had arrived here before she had, because academies talked to one another about the students they had thrown out. The clerk laid it open beside a printed sheet of rules and compared the two line by line, moving a finger down each in turn, making a small mark now and then, sometimes stopping to read a line twice.
+Her clerk was an older man with half-moon spectacles and the slow, careful manner of someone who had handled difficult paper before, and he did not hurry. From a box at his elbow he took a thin file, and it took Cael a moment to understand that it was her Fenmark file. It had arrived here before she had, because academies talked to one another about the students they had thrown out. The clerk laid it open beside a printed sheet of rules and compared the two line by line, moving a finger down each in turn, making a small mark now and then.
 
 Lira stood in front of the desk with her arms folded. There was a chair, and she did not sit in it, and she did not look at the file. Cael knew that stance. He had seen her take it across a sparring circle a hundred times while she waited out an opponent she hadn't finished measuring, weight even and shoulders loose and nothing given away.
 
@@ -88,13 +88,13 @@ From where he stood, Cael could read the heading whether he wanted to or not. *A
 
 "I understand."
 
-He turned the sheet toward her a little further and laid a pen beside it, and she read it again herself, slowly.
+He turned the sheet toward her a little further and laid a pen beside it, and she read it herself, slowly.
 
 Her jaw did most of the talking. A small muscle worked at the hinge of it, tightening and easing and tightening again, while the rest of her face stayed perfectly still. Cael understood that he was watching two years of a thing being held down by force to a size that would fit an intake desk. She had spent those two years refusing to say *expelled* without saying *wrongly* right after it; he had heard her do it in Ardenmere to strangers who had not even asked.
 
 She picked up the pen and signed, and she did not mark the box.
 
-The clerk blotted the signature, put the sheet in the file and the file in the box, and gave her a disc like Brom's, crested like his, with one difference: under the crest, small and neat, someone had stamped a single raised dot. She looked at the dot for a moment, then put the tag in her pocket without a word, and when she came over to the bench she sat down beside Cael and stared at the opposite wall.
+The clerk blotted the signature, put the sheet in the file and the file in the box, and gave her a disc like Brom's, crested like his, with one difference: under the crest, small and neat, someone had stamped a single raised dot. She looked at the dot, then put the tag in her pocket without a word, and when she came over to the bench she sat down beside Cael and stared at the opposite wall.
 
 "Well."
 
@@ -120,7 +120,7 @@ Then she stood up abruptly, the way she did when a feeling threatened to become 
 
 Nobody called him forward, because there was no line for him to stand in. Instead, as the old clerk finished stacking Lira's box, a door at the side of the room opened and Quenna came through it.
 
-She was exactly as he remembered her from the Ironyard: about forty, dark hair cut short and plain, a grey coat with no ornament on it at all, a leather folder under one arm, and the faint air of a woman who had been arguing with someone in another room and had won, but only just.
+She was as he remembered her from the Ironyard: about forty, dark hair cut short and plain, a grey coat with no ornament on it at all, a leather folder under one arm, and the faint air of a woman who had been arguing with someone in another room and had won, but only just.
 
 "Cael. Come and sit."
 
@@ -206,7 +206,7 @@ Then Quenna did something he had not expected. She lifted the signed form, and h
 
 "Usually a clerk enters a line and files the sheet." She set the envelope on the corner of the desk, square to the edge. "Usually."
 
-He looked at the brown envelope, with his name inside it and the hollow word on his form, sitting on a desk in a room that was getting dark, and found that he did not like it there at all.
+He looked at the brown envelope, with his name inside it and the hollow word on his form, sitting on a desk in a room that was getting dark, and did not like it there at all.
 
 Quenna took a disc from her folder and slid it across to him. It was the same size as Brom's, but it had no crest; where the crest should have been, someone had stamped a hollow circle, a ring with nothing in the middle.
 
@@ -226,7 +226,7 @@ He sat.
 
 "I'm an unclassified observer. In writing. With a signature."
 
-Brom considered that the way he considered a new kind of hold. "That isn't you."
+Brom considered that. "That isn't you."
 
 "No."
 
@@ -254,7 +254,7 @@ Lira stared at him. "Did you just say something wise before supper?"
 
 "It means *please don't ask*." She handed it back, sounding very slightly pleased. "Mine has a dot. Brom's has a tower. You have a hole. We're a set."
 
-Brom took his own tag out, as if to check the tower was still there. It was.
+Brom took his own tag out and checked that the tower was still there. It was.
 
 A bell rang somewhere beyond the training yard, not the seventh, Cael could tell by the pitch, but some earlier signal in a rhythm he had not learned yet. He got the binder out anyway and wrote it plainly, without decoration.
 
@@ -264,7 +264,7 @@ He looked at the line, and then added a second one beneath it, smaller.
 
 *It isn't doing it alone.*
 
-Lira read it over his shoulder without asking, the way she always had, and said nothing, only bumped his arm with hers once. And then the seventh bell rang, and the three of them got up and went to find out what an academy fed people.
+Lira read it over his shoulder without asking, as she always had, and said nothing, only bumped his arm with hers once. And then the seventh bell rang, and the three of them got up and went to find out what an academy fed people.
 
 It was barley: barley and onions and a little mutton, ladled out in a long low room that had plainly been a stable once, its old hay door bricked up but still outlined in the wall. Students sat in loose groups at trestle tables, most of them already talking over empty bowls, and a few looked up when the three of them came in, and most didn't.
 
@@ -312,7 +312,7 @@ He paused over the next part and thought about leaving out the form. He did not 
 
 *Cael*
 
-It was not long, but Hesk's letters were never long either. He folded it, wrote the Denvash direction on the outside, and set it on the desk to go down to the town. It would leave, he realized, on the same third-day post as Quenna's brown envelope. He sat looking at the folded letter for a while with that thought, two pieces of paper with his name on them going down the same hill in the same bag to very different readers.
+It was not long, but Hesk's letters were never long either. He folded it, wrote the Denvash direction on the outside, and set it on the desk to go down to the town. It would leave, he realized, on the same third-day post as Quenna's brown envelope. He sat looking at the folded letter with that thought, two pieces of paper with his name on them going down the same hill in the same bag to very different readers.
 
 Then he opened the binder to the back pages, where he kept the things that were not fragments, and thought about the board above the third desk, the blank one, a carpenter asking what to paint and nobody knowing. He thought, for the first time with no fear in it at all, that he would rather be a blank board somebody had bothered to hang than a painted one in a building that wanted him gone.
 

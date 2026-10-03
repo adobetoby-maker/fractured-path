@@ -10,7 +10,7 @@ He stopped at the edge of the ring and let himself take the crowd in one piece a
 
 The three chairs stood at the north end with their chalk ticks and the little table and its inkwell. Quenna sat in the middle with the assessment ledger open. Wray sat on her left in the brown coat, upright and still. The rotating seat this month was the lean old instructor who took the heat Paths, the one with scorched cuffs, who had watched Karis lay six practice points on her second afternoon at Greyvane and said only *Ternhall*. He had a slate on his knee and a pen held loosely, and he was looking at the crowd with the mild, appraising interest of someone who had sat before plenty of crowds and expected this one to disappoint him a little.
 
-Lira and Brom were at the front of the rail on the open side, near the south mark, where they had plainly been since before the frost lifted. Lira had her arms folded and her chin up. Brom stood beside her with his feet planted and his hands clasped behind his back, as he had stood at the rail of section four for his witness session, like a man attending something he had been told was important and meant to take seriously.
+Lira and Brom were at the front of the rail on the open side, near the south mark, where they had plainly been since before the frost lifted. Lira had her arms folded and her chin up. Brom stood beside her with his feet planted and his hands clasped behind his back, as he had stood at the rail of section four for his witness session.
 
 Karis was three places along from them with her notebook already open and her pen already moving. She was not charting him yet. She was charting the crowd.
 
@@ -24,7 +24,7 @@ He chose.
 
 The framework, and only the framework. Wind-adjacent, the evasion he had shown at both sittings and on the circuit a hundred times, at whatever speed the fight asked of it, and nothing under it. He would not open the surface read. It was safe to show, it was on the record twice already, and he would not use it, because he did not need it, and because a fight won with one thing was a smaller fight on paper than a fight won with two. The Pressure redirect stayed banked where it had been banked for a year. The Compression fragment stayed in his chest where it belonged, and if anything Edran did woke it, he would give it no road.
 
-The size was chosen. He set it the way Lira had taught him to set panel speed, the walls built before the water came.
+The size was chosen. He set it as Lira had taught him to set panel speed, the walls built before the water came.
 
 "For the record," said Quenna.
 
@@ -34,7 +34,7 @@ Her voice dropped into its slow, flat cadence, each word set down separately, an
 
 Edran was already there.
 
-He stood on the north mark with his back to the chairs and his hands loose at his sides. Up close he looked exactly as he did every morning in the corner by the high windows, rested and exact, with nothing in his face that Cael could use. He was not hostile. He had the look of someone about to learn the answer to a thing, who needed very badly to know which answer it would be.
+He stood on the north mark with his back to the chairs and his hands loose at his sides. Up close he looked as he did every morning in the corner by the high windows, rested and exact, with nothing in his face that Cael could use. He was not hostile. He had the look of someone about to learn the answer to a thing, who needed very badly to know which answer it would be.
 
 Cael took the south mark. Eight paces of swept earth lay between them, and the chalk.
 
@@ -100,7 +100,7 @@ Lira had decided before the first bell that she was not going to shout. She last
 
 "He's running away and calling it measuring."
 
-She did turn round then, and looked at the third-year until he discovered something interesting about his own boots. Then she turned back to the ring. Beside her, Brom had not moved at all. He was standing the way he stood when he meant to stand all day, with his hands behind his back and his weight in his heels, and only his eyes were going.
+She did turn round then, and looked at the third-year until he discovered something interesting about his own boots. Then she turned back to the ring. Beside her, Brom had not moved at all. He had planted himself for the whole day, hands behind his back and weight in his heels, and only his eyes were going.
 
 "The shell," Brom said, very low. "On his arms. Sixth strike."
 
@@ -112,13 +112,13 @@ She did turn round then, and looked at the third-year until he discovered someth
 
 Brom let out a breath that came out white and hung in front of him in the cold.
 
-She had been watching for that since the frost lifted, if she was honest. Not for the framework, because she had taught him the framework without knowing it and could read it in her sleep. Not for Edran, because she had watched Edran fight three times this term and knew roughly what he would do. She had been watching Cael's chest. A shell bursting against his guard was a push arriving in the bone, and the thing he had taken from Reydan on the last night in Ardenmere lived in exactly that place, and woke for exactly that. She had seen it wake on Brom's floor, and she had read in the binder what it cost him to catch half of a slow push and seen him the morning after, holding his shoulder. If it woke in front of two hundred people and three slates and he let it go home, the whole yard would hear the knock.
+She had been watching for that since the frost lifted, if she was honest. Not for the framework, because she had taught him the framework without knowing it and could read it in her sleep. Not for Edran, because she had watched Edran fight three times this term and knew roughly what he would do. She had been watching Cael's chest. A shell bursting against his guard was a push arriving in the bone, and the thing he had taken from Reydan on the last night in Ardenmere lived in that place, and woke for exactly that. She had seen it wake on Brom's floor, and she had read in the binder what it cost him to catch half of a slow push and seen him the morning after, holding his shoulder. If it woke in front of two hundred people and three slates and he let it go home, the whole yard would hear the knock.
 
 It had woken. He had let it go. She could breathe now, for one exchange.
 
 Wray raised her finger for the second.
 
-Lira read it before Wray's hand came down, which was a thing she could do with Cael and nobody else in the world, and had been able to do since the second month in Ardenmere. She read it in the way he set his feet on the south mark: a fraction narrower than in the first exchange, his weight a little forward. He was not going to give ground this time. He was going to stand closer than was sensible, inside the reach of a sequence, and stay there.
+Lira read it before Wray's hand came down, which was a thing she could do with Cael and nobody else in the world, and had been able to do since the second month in Ardenmere. She read it in how he set his feet on the south mark: a fraction narrower than in the first exchange, his weight a little forward. He was not going to give ground this time. He was going to stand closer than was sensible, inside the reach of a sequence, and stay there.
 
 "He's going to take one," she said.
 
@@ -152,7 +152,7 @@ The north benches came up off their seats with a noise like a flock of birds lif
 
 Lira did not hear most of it. She was watching Cael.
 
-He walked back to the south mark holding his forearm away from his body, the way you hold something you do not want to drip on your coat. He did not look at the cut. Not once. He walked with his eyes on Edran's forearms, where Edran was building a new pair at his mark, and he had the faint, distant look that she knew better than her own face in a glass.
+He walked back to the south mark holding his forearm away from his body. He did not look at the cut. Not once. He walked with his eyes on Edran's forearms, where Edran was building a new pair at his mark, and he had the faint, distant look that she knew better than her own face in a glass.
 
 He had found it. Whatever he had spent six mornings at the rail looking for, he had just paid a strip of skin to see it once from the inside, and he had seen it.
 
@@ -168,9 +168,9 @@ Brom turned his head. "What?"
 
 Brom considered that, and then nodded, which from Brom was a long speech of agreement.
 
-Along the rail, Lira saw that Karis's pen had stopped. It had been moving the whole time, through the first exchange and into the second, in long even passages. Now it had stopped, with the nib resting on the page, and Karis was not looking at the cut either. She was looking at Edran's right forearm, with her lips pressed together, exactly where Cael had looked.
+Along the rail, Lira saw that Karis's pen had stopped. It had been moving the whole time, through the first exchange and into the second, in long even passages. Now it had stopped, with the nib resting on the page, and Karis was not looking at the cut either. She was looking at Edran's right forearm, with her lips pressed together, where Cael had looked.
 
-Lira watched her for a moment and felt something she did not have time to name, part annoyance and part the thing that came after annoyance when it turned out the other person was right. Karis had seen it too. Of course she had. She had laid nine points on that boy not a fortnight ago and walked him into a drawing of a ring, and she would have laid them exactly so that he never reached his third.
+Lira watched her and felt something she did not have time to name, part annoyance and part the thing that came after annoyance when it turned out the other person was right. Karis had seen it too. Of course she had. She had laid nine points on that boy not a fortnight ago and walked him into a drawing of a ring, and she would have laid them exactly so that he never reached his third.
 
 Further along, at the gate, Gerda had unfolded her arms.
 
@@ -182,11 +182,11 @@ Gerda looked at her down the rail. "You knew he would."
 
 "Before Wray dropped her hand."
 
-Gerda considered that for a moment, and then folded her arms again and looked back at the ring. "Then he's not losing," she said. "He's buying."
+Gerda considered that, and then folded her arms again and looked back at the ring. "Then he's not losing," she said. "He's buying."
 
 Lira decided, in that moment, that she liked Gerda a great deal and would tell her so some other day when nobody's skin was involved.
 
-On the front bench, Oona had both fists pressed into her slate so hard that her knuckles had gone white, and the first-year on her left was trying to tell her something, and she was not listening to him either. Her eyes were on Cael, on his arm and then his face, with the fierce, whole-faced attention she gave a sum she had not worked out yet.
+On the front bench, Oona had both fists pressed into her slate so hard that her knuckles had gone white, and the first-year on her left was trying to tell her something, and she was not listening to him either. Her eyes were on Cael, on his arm and then his face.
 
 A second-year leaned down from the bench above her. Lira knew him: one of the crust-wagering crowd from the stable fire. He said something to Oona, quick and wheedling, and Oona turned round on the bench and looked up at him.
 
@@ -202,7 +202,7 @@ Lira looked at her own hands on the rail, at the white marks fading from her pal
 
 Today she had a different fight to read one exchange ahead.
 
-She looked at the way Cael was standing on the south mark, the cut forearm held a little away from his side and his weight perfectly even, and she knew what the third exchange was going to look like before Wray had even risen from her chair.
+She looked at how Cael was standing on the south mark, the cut forearm held a little away from his side and his weight perfectly even, and she knew what the third exchange was going to look like before Wray had even risen from her chair.
 
 "He's going to stop running away now," she said to the third-year on the bench behind her, without turning round.
 
@@ -254,7 +254,7 @@ At the table, Quenna had lifted her pen from the ledger. "One touch each," she s
 
 Edran had not raised his voice. He did not need to. The whole yard was listening to him.
 
-He had turned from the middle of the ring to face the three chairs, and he stood very straight, the way he had stood at the rail beside Cael on the open floor when he asked what the board was for. "The petitioner requests a fourth exchange, if the presiding assessor allows it."
+He had turned from the middle of the ring to face the three chairs, and he stood very straight, as he had stood at the rail beside Cael on the open floor when he asked what the board was for. "The petitioner requests a fourth exchange, if the presiding assessor allows it."
 
 Quenna looked at him across the frost-grey earth for a long moment. Then she looked at Wray, and Wray looked back at her and gave the very smallest nod, and Quenna looked at Cael.
 

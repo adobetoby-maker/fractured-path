@@ -62,7 +62,7 @@ He came up out of the bend with his breath returning in small pieces and his rig
 
 "End of the exchange," said Vell.
 
-At the nails, the Fenrow men had finished their sums while the yard was still silent. They had wiped off fifteen and written thirteen, and a man had gone very quickly from slate to slate with coins in his fist. Marrow watched it happen. He looked at his own slate, and at the circle, and at Cael with one hand on his knee getting his air back. Then he lifted the slate off its nail and turned it round and hung it with its face to the wall. One after another the Fenrow men did the same.
+At the nails, the Fenrow men had finished their sums while the yard was still silent. They had wiped off fifteen and written thirteen, and a man had gone very quickly from slate to slate with coins in his fist. Marrow, at his slate, watched it happen. He looked at his own slate, and at the circle, and at Cael with one hand on his knee getting his air back. Then he lifted the slate off its nail and turned it round and hung it with its face to the wall. One after another the Fenrow men did the same.
 
 The book had shut. It shut at thirteen.
 

@@ -72,7 +72,7 @@ He had not meant to read it. Nobody read the district returns, which came in eve
 
 It was in the clerk's careful hand, as always: boundaries, permits, a dispute about a gutter referred back to the parties, and under *Public notices posted in the district*, the card from the Cinder House board, copied word for word as the form required, and then, because the clerk was a careful man and the form said *all matter posted*, the chalk that somebody had written underneath it:
 
-*HESK-WARD. 4TH. VELL'S CALL.*
+*HESK-WARD. FOURTH. VELL'S CALL.*
 
 Coss read it twice, and then put his thumb to the bridge of his nose and sat with his eyes shut.
 

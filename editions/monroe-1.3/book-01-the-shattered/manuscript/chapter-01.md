@@ -72,7 +72,7 @@ The rig was simple: a lever arm, a hanging tray, iron weights stacked in fives, 
 
 Hesk added the first stack, then the second, and the needle stayed near zero. At the third stack, which was working load, the needle twitched and settled, and Cael, who had been holding his breath, let it out. Hesk added a fourth stack, slowly, and then a fifth, and Cael leaned in over the dial so close that he could see his own eye in the glass. At five and a half stacks the bracket made a small sound, not loud, a tick like a knuckle cracking, and the needle swung across the dial and hung there and did not come back.
 
-Hesk lifted the weights off one stack at a time. The needle stayed where it was. The bracket had a slight new curve to it, as if it were thinking about bowing. It had failed at less than twice working load.
+Hesk lifted the weights off one stack at a time. The needle stayed where it was. The bracket had a slight new curve to it, as if it were thinking about bending. It had failed at less than twice working load.
 
 Cael felt his face go hot, which was ridiculous, because it was a bracket and nobody had been standing under it.
 

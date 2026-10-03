@@ -2,7 +2,7 @@
 
 He went to watch Edran the next morning, because Wray had told him he might and because he wanted to find out whether he would be welcome.
 
-The ribs made the stair a misery. Wray had been right about that, as she was right about most things to do with bodies. Every step down from the residence wing pulled at the line across his right side, and by the bottom he was holding the rail with one hand and breathing through his teeth. He made himself breathe deep anyway, all the way down, the way she had said, and it hurt as much as it had the night before but not more, and he decided to count that.
+The ribs made the stair a misery. Wray had been right about that, as she was right about most things to do with bodies. Every step down from the residence wing pulled at the line across his right side, and by the bottom he was holding the rail with one hand and breathing through his teeth. He made himself breathe deep anyway, all the way down, as she had said, and it hurt as much as it had the night before but not more, and he decided to count that.
 
 The defensive hall at the first bell was cold and grey and nearly empty. Wray stood at the edge of the far section with her slate against her hip, and Edran stood in the middle of it, alone, running sequences of three against nothing, and Cael saw at once what he was doing. He was calling the third structure on his free arm while the second still stood, again and again, as he had in the fourth exchange, and again and again it came up thin and pale and late. A Glass shell that should have been the thickness of a thumbnail came up like the skin of ice on a puddle at dawn. Wray watched each one and said nothing at all, and Edran burst it and began the sequence again.
 
@@ -10,7 +10,7 @@ Cael stood at the rail and did not take out the binder.
 
 After the ninth try Edran let his arms drop and stood breathing, looking at his left forearm. Then he looked up and saw Cael at the rail, and did not seem surprised.
 
-"It's thin." It was not addressed to Cael exactly but to the hall in general, in the voice of a man reporting a measurement.
+"It's thin." It was not addressed to Cael but to the hall in general, in the voice of a man reporting a measurement.
 
 "It was thin in the yard."
 
@@ -18,21 +18,21 @@ After the ninth try Edran let his arms drop and stood breathing, looking at his 
 
 "It is fine."
 
-Edran glanced at him and then began the next sequence, and Cael watched the third structure come up a hair less thin than the one before and understood that he had been told everything Edran meant to tell him. He stayed until the first bell had finished ringing, and did not write anything down, because some things he wanted to remember without his handwriting on them. On the way out Wray caught his eye and gave him a single nod, and he went to his lectures holding his side.
+Edran glanced at him and then began the next sequence, and Cael watched the third structure come up a little less thin than the one before and understood that he had been told everything Edran meant to tell him. He stayed until the first bell had finished ringing, and did not write anything down, because some things he wanted to remember without his handwriting on them. On the way out Wray caught his eye and gave him a single nod, and he went to his lectures holding his side.
 
 ---
 
 The week turned, and on the first Tuesday after the exhibition the sessions settled into the shape they would keep.
 
-They had always had a shape of sorts. Since the first Thursday in the fourth week they had been held inside his supervised hours, in section four, at the fifth bell, with Quenna standing at the chalk and Karis on her borrowed stool. But those early sessions had been tentative, the way any new thing is, each of them feeling for where the edges were. Now the edges had been found, and the work slid into its own rhythm the way his days at the Ironyard once had, until he could have walked through it blind: Tuesdays and Thursdays, the fifth bell, section four.
+They had always had a shape of sorts. Since the first Thursday in the fourth week they had been held inside his supervised hours, in section four, at the fifth bell, with Quenna standing at the chalk and Karis on her borrowed stool. But those early sessions had been tentative, each of them feeling for where the edges were. Now the edges had been found, and the work slid into its own rhythm, as his days at the Ironyard once had, until he could have walked through it blind: Tuesdays and Thursdays, the fifth bell, section four.
 
 That Tuesday, before he began, Karis did something she had not done before. She took a stub of chalk from her pocket, knelt at the edge of the section, drew a single straight line across the boards from one side to the other about two paces in front of her stool, and then sat down behind it and opened her notebook.
 
-Nobody mentioned it, not Karis, not Quenna, not him. It simply cut the section in two, his side for the work and hers for the watching, and from that afternoon on nobody crossed it, not even Quenna, who stood on Karis's side of it at the chalk with her slate as if she had always stood exactly there. He did not ask about the line, because he thought he understood it. Clause four said he could refuse a session and clause seven said either of them could end the whole arrangement with a word, but neither clause said anything about the plain physical space of a room. The line did. It said *this much is yours*, in chalk, without anybody having to make a speech.
+Nobody mentioned it, not Karis, not Quenna, not him. It simply cut the section in two, his side for the work and hers for the watching, and from that afternoon on nobody crossed it, not even Quenna, who took her place at the chalk on Karis's side of it with her slate and never once stepped over. He did not ask about the line, because he thought he understood it. Clause four said he could refuse a session and clause seven said either of them could end the whole arrangement with a word, but neither clause said anything about the plain physical space of a room. The line did. It said *this much is yours*, in chalk, without anybody having to make a speech.
 
 Anyone at the rail would have expected more than there was. The work was plain. Half speed through the Wind-adjacent framework, with Karis counting the breaths between passes against a mark on her page; then working speed, and the count again. He ran Lira's circuits and the slow shoulder work for the Reydan joint and the breathing Wray had given him for the ribs, and she wrote down all of it, the ribs included, as if a boy breathing carefully were as much a capability as anything else in the room.
 
-The ribs showed in her numbers before they showed anywhere else. His recovery between passes at the working speed had been three counts at every session before the exhibition and was four now, and the framework's lead, the quarter of a breath she had measured in the fourth week, had not moved at all. She wrote both down side by side and read them back to him: *Recovery slower by one count. Lead unchanged. Probable cause: ribs, right side, exhibition.* "The framework doesn't seem to mind the ribs," she said. "You do." He thought that was exactly right, and said so, and she wrote that down too.
+The ribs showed in her numbers before they showed anywhere else. His recovery between passes at the working speed had been three counts at every session before the exhibition and was four now, and the framework's lead, the quarter of a breath she had measured in the fourth week, had not moved at all. She wrote both down side by side and read them back to him: *Recovery slower by one count. Lead unchanged. Probable cause: ribs, right side, exhibition.* "The framework doesn't seem to mind the ribs," she said. "You do." He thought that was right, and said so, and she wrote that down too.
 
 Then there was the post.
 
@@ -42,13 +42,13 @@ The post was a heavy upright of old oak that stood in the corner of section four
 
 The Iron-adjacent read worked best at contact. It worked out to a few paces too, thinner with every pace, but at contact it was strongest, a pressure along the skin that told him where a body's weight was about to go. What none of them knew was whether it worked through something, whether the fragment needed skin on skin or only a path for the weight to travel along. So Brom leaned on the far side of the post and shifted his weight wherever and whenever he liked, and Cael stood on the near side with his palm flat on the wrapped oak and called it.
 
-Through the linen it was nearly the same as skin. The weight moved in the post the way it moved in a body, faintly, as if the wood had become a long stiff arm, and he called nine shifts out of ten. The one he missed he missed because Brom changed his mind halfway through, and even Brom admitted afterward that he had not known which way he was going.
+Through the linen it was nearly the same as skin. The weight moved in the post faintly, as if the wood had become a long stiff arm, and he called nine shifts out of ten. The one he missed he missed because Brom changed his mind halfway through, and even Brom admitted afterward that he had not known which way he was going.
 
 Through the padding it thinned. The weight still came through, but late and blurred, like a voice heard through a wall, so that he could tell forward from back but could not tell left from right until it was nearly done.
 
 Through the felt it was almost gone.
 
-Almost. He stood with his hand on the thick grey cloth and his eyes shut while Brom leaned and shifted on the far side, and for a long time there was nothing at all in his palm but wood. Then, just once, very faintly, something like a thickening came through the felt on the left side of the post, a sort of density in the cloth before anything moved, and a breath later Brom's weight went left.
+Almost. He stood with his hand on the thick grey cloth and his eyes shut while Brom leaned and shifted on the far side, and there was nothing at all in his palm but wood. Then, just once, very faintly, something like a thickening came through the felt on the left side of the post, a sort of density in the cloth before anything moved, and a breath later Brom's weight went left.
 
 "Left," said Cael, too late.
 
@@ -84,7 +84,7 @@ They went back to the felt for the rest of the hour. Twice more Cael caught that
 
 She stopped.
 
-She stopped in the middle of the word, with her mouth still a little open, and he watched her close it and look down at her notebook, uncap her pen, write something small and quick in the margin, three or four words, and cap it again. Then she looked up at him as if nothing had happened.
+She stopped in the middle of the word, with her mouth still a little open, and he watched her close it and look down at her notebook, uncap her pen, write something small and quick in the margin, three or four words, and cap it again. Then she looked up at him.
 
 "Thank you. That's the hour."
 
@@ -112,7 +112,7 @@ It was not a page from the session. It was a page near the back, ruled into a si
 
 The last one was today's, and the ink was still wet.
 
-He looked at the column for a long time. Seven questions, three of them the same and none of them finished. She had built a whole page out of the things she had caught herself almost asking, kept them as carefully as she kept her timings, and never once said any of them aloud.
+He looked at the column. Seven questions, three of them the same and none of them finished. She had built a whole page out of the things she had caught herself almost asking, kept them as carefully as she kept her timings, and never once said any of them aloud.
 
 "You could ask me. Any of them. Clause four lets me refuse."
 
@@ -122,7 +122,7 @@ He looked at the column for a long time. Seven questions, three of them the same
 
 "Better than answers do. Answers have to be right."
 
-She closed the notebook, and he found that he minded the page much less than he would have expected, perhaps not at all. Someone who filed her questions rather than asking them knew that some doors could only be opened by whoever stood on the other side.
+She closed the notebook, and he minded the page much less than he would have expected, perhaps not at all. Someone who filed her questions rather than asking them knew that some doors could only be opened by whoever stood on the other side.
 
 He wrote it up that night as its own line, in the back pages, under the side tally.
 
@@ -138,7 +138,7 @@ The next evening, Wednesday, Brom gave back volume six.
 
 He did it in the stable after supper, at the scarred table under the bricked-up hay door, where the four of them had begun to sit without anybody arranging it. The fire was down to coals, and the kitchen had produced barley for the third night running, and Brom, who had called it honest food on the second night, was still defending it against everybody, Lira most of all. Lira had the corner of the bench, boots off and a foot folded under her, and a thick brown book of Wray's on defensive theory open on her knee. She read it the way she would have read an opponent, looking for the bill, not the lesson. Cael had the binder open in front of him and was not writing in it, and Karis sat at the end of the table with her own notebook, her pen moving in short runs and stopping.
 
-Brom set the notebook down in front of her, squared to the table's edge.
+Brom set the notebook down in front of her.
 
 "Six. Pages forty to fifty-two. You said bring it back at the end of the month. It's the end of the month."
 
@@ -146,7 +146,7 @@ Karis looked at it, and then up at him.
 
 "With marks in it. You said you'd like to see them. I hope you meant it."
 
-She opened it, and Cael watched her turn to page forty and then fifty, and stop. In the margin beside the struck paragraph, below the younger hand's *Can't test this* and Wray's square *There is one now. Prove it. W.*, a third hand had added three lines of large square capitals, unmistakably Brom's even upside down, with a short column of numbers beneath them. Karis read them twice and then turned the notebook so that Cael could see.
+She opened it, and Cael watched her turn to page forty and then fifty, and stop. In the margin beside the struck paragraph, below the younger hand's *Can't test this* and Wray's square *There is one now. Prove it. W.*, a third hand had added three lines of large square capitals, unmistakably Brom's even upside down, with a short column of numbers beneath them. Karis read them and then turned the notebook so that Cael could see.
 
 *FETCH DRILL. HOBB. FROM THE DAY WRAY WROTE. DAYS 1–15.*
 
@@ -166,7 +166,7 @@ Karis was still looking at the margin. Cael had seen her pleased before, in the 
 
 "It's yours as well now. Fifteen days of it." She closed volume six carefully and laid it on top of her own. "Keep counting. I'd like it back with more numbers next month, if Wray hasn't redrawn the curve by then."
 
-Brom went back to his barley looking as if he had been handed something heavier than a notebook, and Cael watched Karis sit with her hands on volume six for a while and then pick up her own notebook and close it. It was not the absent snap of someone done for the night. It was a flat, settled, deliberate closing, as if she had been carrying something for a while, looking for the right room to set it down in, and had just found it.
+Brom went back to his barley, and Cael watched Karis sit with her hands on volume six and then pick up her own notebook and close it. It was not the absent snap of someone done for the night. It was a flat, settled, deliberate closing, as if she had been carrying something, looking for the right room to set it down in, and had just found it.
 
 ---
 
@@ -226,7 +226,7 @@ Someone else could see it. Whatever it was, it was solid enough to show from out
 
 Nobody at the table moved. In the grate the coals ticked as they cooled. Brom's spoon had come to rest against the rim of his bowl at a tilt that would have tipped it in, if Brom had been minding anything but Karis. In the corner, Lira's finger still marked a page she had stopped reading.
 
-Karis had never seen the binder. Cael kept coming back to that through the long quiet. She knew nothing of Feryn, or of the redirect he had kept banked and unused for a year. She knew nothing of Reydan, or of the Compression fragment that had stirred in his chest this month for a shell on his guard and been refused a road. The four names at the front of the binder, the notices copied out beneath them word for word: none of it had reached her. All she had were the marks his abilities left on the world where anyone could watch: timings and recovery counts, a read through three thicknesses of cloth, a dropped hip and a wait and a quarter of a breath. From that and nothing else, inside terms written to keep her away from every fact that would have helped, she had drawn the outline of the question the three of them had been circling for a long time and never once spoken.
+Karis had never seen the binder. Cael kept coming back to that through the long quiet. She knew nothing of Feryn, or of the redirect he had kept banked and unused for a year. She knew nothing of Reydan, or of the Compression fragment that had stirred in his chest this month for a shell on his guard and been refused a road. The four names at the front of the binder, the notices copied out beneath them word for word: none of it had reached her. All she had were the marks his abilities left on the world where anyone could watch: timings and recovery counts, a read through three thicknesses of cloth, a dropped hip and a wait and a quarter of a breath. From that and nothing else, inside terms written to keep her away from every fact that would have helped, she had drawn the outline of the one question the three of them always stepped round and never said aloud.
 
 The fear came after the relief, and it was reasonable fear. If a clever enough person could read him from outside, then one day someone he had never agreed to would read him the same way. He let it sit down beside the relief, and let them both stay.
 
@@ -236,7 +236,7 @@ Brom was the first to speak, and he spoke softly. It was not quite a joke.
 
 "It isn't proof." Karis got that in quickly, before anyone at the table could inflate it. "It's a hypothesis with three supports, every one of them from outside. I'd want controlled conditions before I believed it properly. You might never want it tested at all, and that's yours to say. All of it is yours." She looked at Cael. "I just didn't want you working out the shape from which questions I ask and which I don't. You should have it from me, plainly, in a room with the people you'd have told anyway."
 
-Lira lifted her eyes from the page at last. She looked down the bench at Karis with an expression Cael could not quite read; somewhere behind it a sum was being done. She did not announce the total. She nodded, once, and went back to the page she had not been reading. Cael had watched Lira make up her mind about people for a long time, and he would have bet that he had just seen it happen once more.
+Lira lifted her eyes from the page at last. She looked down the bench at Karis with an expression Cael could not quite read; somewhere behind it a sum was being done. She did not announce the total. She nodded, once, and went back to the page she had not been reading. Cael had watched Lira make up her mind about people often enough that he would have bet that he had just seen it happen once more.
 
 "Thank you," he said to Karis.
 

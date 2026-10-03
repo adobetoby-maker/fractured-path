@@ -18,7 +18,7 @@ Brom set his spoon down.
 
 Lira looked at him, and then at Cael, and something went across her face that was not quite a smile and not quite anything else.
 
-"Him. He can stand by the door and keep his mouth shut, which he's good at." She tore the heel of the loaf in two and put the larger half in front of Brom, which was an apology in advance. "Not you. You'd help."
+"Him. He can stand by the door and keep his mouth shut, which he's good at." She tore the heel of the loaf in two and pushed half of it across to Brom, which was an apology in advance. "Not you. You'd help."
 
 "I would," said Brom with dignity.
 
@@ -28,7 +28,7 @@ Lira looked at him, and then at Cael, and something went across her face that wa
 
 "Anything at all. Barley. Wray's lecture. The honey thief." She stood and took her bowl. "I'll want noise, and you're the only person I know who can make noise sound like it's been thought about first."
 
-She went to the hatch with her bowl and her chin up, and Cael watched her go and found that the porridge in front of him had gone cold, and that he did not want it anyway.
+She went to the hatch with her bowl and her chin up, and Cael watched her go. The porridge in front of him had gone cold, and he did not want it anyway.
 
 Brom picked his spoon back up.
 
@@ -50,13 +50,13 @@ She saw it before she saw Quenna, which annoyed her, because she had meant to wa
 
 Quenna was sitting at the far side of the table with her folder closed on her knee. She did not get up, and she did not say good morning, and Lira liked her for both.
 
-Behind her, Lira heard Cael settle against the doorframe, a little to one side, out of the light. He made no sound after that. She had told him to stand by the door and keep his mouth shut, and he was doing it the way he did everything people asked of him, completely, as if being asked were a kind of rope.
+Behind her, Lira heard Cael settle against the doorframe, a little to one side, out of the light. He made no sound after that. She had told him to stand by the door and keep his mouth shut, and he was doing it as he did everything people asked of him, completely.
 
 "Sit, if you'd like," said Quenna. "Stand, if you'd rather."
 
 Lira stood.
 
-"That's Fenmark's record of the finding." Quenna did not touch the envelope; she only looked at it, the way a person looks at a dog she has not yet decided about. "What came here with you at intake was the notice that your enrollment had ended, and your standing record. That was enough to put you on the track. It isn't enough for a formal review. The re-certification provision says the panel must have the originating academy's full record of the finding before it sits, so I wrote to them for it three weeks ago, when your review went on the calendar." A pause, very small. "They took their time."
+"That's Fenmark's record of the finding." Quenna did not touch the envelope; she only looked at it. "What came here with you at intake was the notice that your enrollment had ended, and your standing record. That was enough to put you on the track. It isn't enough for a formal review. The re-certification provision says the panel must have the originating academy's full record of the finding before it sits, so I wrote to them for it three weeks ago, when your review went on the calendar." A pause, very small. "They took their time."
 
 "They always did."
 
@@ -74,7 +74,7 @@ Lira looked at the green wax.
 
 Lira almost laughed, and did not, because laughing would have meant she was going to do the thing, and she had not decided yet. She stood with her hands at her sides and looked at the envelope, and the room was very quiet. Out in the archive Prynn turned a page with a sound like a dry leaf.
 
-She had not read the file at intake. She had stood in front of the clerk with the half-moon spectacles for most of an hour while he compared her thin folder to a sheet of rules, and she had stared at the opposite wall the whole time. Looking at the file would have meant admitting it was a real thing with real words in it. Not a thing that lived in her chest. For two years she had known one word that was in it. She had built all the rest out of that one word, the way you build a whole house on the only stone you own.
+She had not read the file at intake. She had stood in front of the clerk with the half-moon spectacles for most of an hour while he compared her thin folder to a sheet of rules, and she had stared at the opposite wall the whole time. Looking at the file would have meant admitting it was a real thing with real words in it. Not a thing that lived in her chest. For two years she had known one word that was in it. She had built all the rest out of that one word, as you would build a whole house on the only stone you own.
 
 She knew what Cael would do in her place, because she had watched him do it with a category line and a cold cup of tea. He would read it three times and then write it down. She was not Cael. She was the person who walked into a ring first so that she could choose which way the sun fell.
 
@@ -86,11 +86,11 @@ She broke the seal with her thumb.
 
 It was one sheet.
 
-That was the first thing, and it went into her like the wrong end of a stick. She had braced for a lot of things over two years of not reading it, and she had braced well, the way she braced for a bout against somebody bigger. She had braced for contempt, some examiner's opinion of river-quarter scholarship girls written down in the long careful words that clever people used for being cruel. She had braced for lies, her correction turned into a tantrum and the room turned into a riot and three adults turned into witnesses to something she had never done. Most of all she had braced for weight, for pages and pages of it, testimony and argument and the long grinding work of an institution deciding what to do with her, something so heavy it had needed two whole years to come up a hill.
+That was the first thing, and it went into her like the wrong end of a stick. Two years of not opening it had given her plenty of time to brace, and she had used it. She had braced for contempt, some examiner's opinion of river-quarter scholarship girls written down in the long careful words that clever people used for being cruel. She had braced for lies, her correction turned into a tantrum and the room turned into a riot and three adults turned into witnesses to something she had never done. Most of all she had braced for weight, for pages and pages of it, testimony and argument and the long grinding work of an institution deciding what to do with her, something so heavy it had needed two whole years to come up a hill.
 
 What she had in her hand was one sheet, written on one side.
 
-She turned it over. The back was blank except for a filing stamp in faded purple, a date and a number. She shook the envelope, and a small slip fell out onto the table, a transmittal form addressed to Greyvane's provost, and nothing else came out after it. She looked into the envelope anyway, the way you look into an empty purse in case the coin you know isn't there has somehow come back.
+She turned it over. The back was blank except for a filing stamp in faded purple, a date and a number. She shook the envelope, and a small slip fell out onto the table, a transmittal form addressed to Greyvane's provost, and nothing else came out after it. She looked into the envelope anyway, as you look into an empty purse in case the coin you know isn't there has somehow come back.
 
 Four paragraphs.
 
@@ -106,7 +106,7 @@ She read them standing up.
 
 There was a signature under the fourth paragraph, sloping and quick. It belonged to nobody she knew.
 
-She read it again, slowly, the way she read an opponent the second time round, looking for the thing that had been hidden behind the obvious thing. There wasn't one. That was all of it.
+She looked for the thing hidden behind the obvious thing, as she looked at an opponent the second time round. There wasn't one. That was all of it.
 
 She counted the second paragraph without meaning to. She did not count things. That was Cael's sickness, and he'd been giving it to her a little at a time for years, so that sometimes she caught herself at it and wanted to throw something at him. But she counted it. Nineteen words. Her whole afternoon was in there, the one that had sat in the middle of her life for two years like a stone in a boot. Somebody had made it nineteen words long. Not one of the nineteen said whether she had been right.
 
@@ -114,7 +114,7 @@ She had been right. She knew that the way she knew her own feet. The examiner ha
 
 *Corrected the examining assessor's technique aloud.* Yes. That was true. That was the whole truth, if you were the kind of person who thought the truth stopped at the edge of the paper.
 
-She read the fourth paragraph a third time.
+She read the fourth paragraph again.
 
 *Formal hearing not required.*
 
@@ -142,13 +142,13 @@ It wasn't there.
 
 He had made it up. He had stood at the end of a long table with a green cloth on it and added a sentence of his own to the finding, out loud, to a fourteen-year-old, because he could. Then he had folded the paper, and the sentence had gone into her and stayed there for two years, and nobody had ever once written it down. Nobody had thought it worth the ink.
 
-Lira found that her hand wanted very badly to crumple the sheet into a ball and throw it at the high window. She watched her hand want it. Then she laid the sheet down on the table, flat, beside the pale old ring the cup had made, with exactly the care she would have used on a page of Karis's notebook, and stood looking at it with her arms at her sides.
+Lira's hand wanted very badly to crumple the sheet into a ball and throw it at the high window. She watched her hand want it. Then she laid the sheet down on the table, flat, beside the pale old ring the cup had made, with the care she would have used on a page of Karis's notebook, and stood looking at it with her arms at her sides.
 
 "They didn't even bother," she said. "Two years. Every night, with myself, about what I did wrong and what I ought to have said and whether I had it coming. All of it built round a thing they didn't think was worth a second sheet of paper."
 
 "No," said Quenna. "They didn't think it was."
 
-Lira looked at her. Quenna was sitting exactly as she had sat when Lira came in, the folder closed on her knee, her face doing nothing at all. Lira understood that this was a kindness. It was a big one, the kind that cost the giver real effort and was meant to look like none.
+Lira looked at her. Quenna was sitting as she had sat when Lira came in, the folder closed on her knee, her face doing nothing at all. Lira understood that this was a kindness. It was a big one, the kind that cost the giver real effort and was meant to look like none.
 
 "Procedures written for people who aren't expected to object are always short," Quenna said. "That isn't a judgment of you. It's a judgment of the people who wrote it, and the paper doesn't know the difference."
 
@@ -158,9 +158,9 @@ A laugh came out of Lira, a single short ugly one with nothing behind it.
 
 "It isn't either. It's simply true." Quenna turned her head very slightly toward the door, where Cael still stood against the frame, and back. "What you do with it is yours. On Thursday the panel will ask you a different question. Not what you did at fourteen. What you are now, on our floor, against our students, in front of three people who have read that sheet and are about to watch you. The record says Copper. They'll be measuring your advancement against that tier, and nothing else."
 
-Lira stood with that for a while.
+Lira stood with that.
 
-Then she picked the sheet up, squared it against the edge of the table, folded it once along the clerk's old crease and slid it back into the envelope with the transmittal slip, and she set the envelope down.
+Then she picked the sheet up, folded it once along the clerk's old crease and slid it back into the envelope with the transmittal slip, and she set the envelope down.
 
 It was a strange thing to feel happen in her own body. She had been carrying a question for two years, in her shoulders and her jaw and the back of her neck, and question-weight was the heaviest kind there was, because you could never set it down for long without it asking you again. What she held now was an answer. It was a stupid answer, and a small one, and she did not like it at all. But an answer weighed what it weighed, and no more, and she could feel exactly what that was. It was one sheet.
 
@@ -168,7 +168,7 @@ It was a strange thing to feel happen in her own body. She had been carrying a q
 
 "First bell, as posted. The formal yard." Quenna rose at last, and picked up the envelope, and put it inside her folder. "Eat something today. I don't care what."
 
-Lira turned to go. Cael was still in the doorway, still exactly as she had left him, and his face had the look it got when he had been told not to help and was finding it the hardest thing he had ever done. She went past him and knocked her shoulder against his on the way, once, the old knock, and kept walking, and after a moment she heard him come after her down the passage.
+Lira turned to go. Cael was still in the doorway, just as she had left him, and his face had the look it got when he had been told not to help and was finding it the hardest thing he had ever done. She went past him and knocked her shoulder against his on the way, once, the old knock, and kept walking, and after a moment she heard him come after her down the passage.
 
 ---
 
@@ -208,7 +208,7 @@ Gerda was in the far corner laying her haze across the boards for a first-year, 
 
 "I read something."
 
-Gerda considered that for exactly as long as it took to blot her slip.
+Gerda thought about that while she blotted her slip.
 
 "Was it bad?"
 
@@ -218,9 +218,9 @@ Gerda looked at her properly then, with her pale level eyes, and Lira saw her un
 
 "Short is often worse," Gerda said, and handed her slip to the clerk, and went.
 
-Lira stood at the desk with her own slip in her hand and watched her go, tall and narrow and very straight. She thought about the box at the bottom of the Acknowledgment of Prior Standing, the little square she had not marked at intake, the one that would have said to anybody who read her file that she meant to dispute it. There was still a process for that, through channels outside this academy, slow and expensive and full of more people who had never been in the room. She could start it tomorrow. She could stand up in front of somebody and tell them about the third turn and the man who had added a sentence that wasn't written anywhere.
+Lira stood at the desk with her own slip in her hand and watched her go, straight-backed as ever. She thought about the box at the bottom of the Acknowledgment of Prior Standing, the little square she had not marked at intake, the one that would have said to anybody who read her file that she meant to dispute it. There was still a process for that, through channels outside this academy, slow and expensive and full of more people who had never been in the room. She could start it tomorrow. She could stand up in front of somebody and tell them about the third turn and the man who had added a sentence that wasn't written anywhere.
 
-She thought about it all the way back across the yard in the cold, and found, at the door of the residence wing, that she did not want to start it tomorrow. She wanted Thursday first. She wanted a floor to see her before anyone read her again.
+She thought about it all the way back across the yard in the cold, and at the door of the residence wing she knew she did not want to start it tomorrow. She wanted Thursday first. She wanted a floor to see her before anyone read her again.
 
 The man at the end of the table had made the sentence up. She held that thought in her hand on the stair like a stone she had found and decided to keep. Fenmark had not written it down. Fenmark had not even thought it.
 
@@ -232,7 +232,7 @@ He did not ask her anything that evening, and she did not offer.
 
 At supper she sat in her usual place and stole half his bread in her usual way and listened to Brom finish the history of the cream, and nothing in her face would have told a stranger that anything had happened at all. Cael was not a stranger. He watched her shoulders, as he had watched them at the floor desk on the fourth morning of the first week. They were down. They had been down since the annex, not by an inch but all the way, and they stayed down through supper and up the stairs, and he did not think he had seen them sit like that since Ardenmere.
 
-He had stood in the doorway of the annex for the whole of it, because she had told him to, and he had kept his mouth shut, because she had told him to do that too. It had been one of the hardest quarter-hours he had ever spent standing still. He had not seen the words on the sheet. He had not tried to. He had seen her read them three times, and he had seen her hand want to throw something and decide not to, and then he had seen her set the envelope down in a way he did not have a heading for anywhere in the binder. She had not put it away. She had put it down, the way you put down a pack at the end of a road, and then she had walked out from under it.
+He had stood in the doorway of the annex for the whole of it, because she had told him to, and he had kept his mouth shut, because she had told him to do that too. It had been one of the hardest quarter-hours he had ever spent standing still. He had not seen the words on the sheet. He had not tried to. He had seen her read them more than once, and he had seen her hand want to throw something and decide not to, and then he had seen her set the envelope down in a way he did not have a heading for anywhere in the binder. She had not put it away. She had put it down like a pack at the end of a road, and then she had walked out from under it.
 
 He was at his desk with the lamp low and the binder open when the knock came, two knuckles, quiet. He opened the door, and she was in the corridor in her stockinged feet with her coat over her nightshirt and her arms folded.
 
@@ -248,9 +248,9 @@ He was at his desk with the lamp low and the binder open when the knock came, tw
 
 "I know there is."
 
-She looked at him for a moment longer, and then she nodded once, and went back down the corridor to her own door without another word. He heard it close.
+She looked at him, and then she nodded once, and went back down the corridor to her own door without another word. He heard it close.
 
-At the desk again, he sat over the clean page for a long time. Then he wrote what he could, which was what he had seen and nothing else, because the rest of it was hers.
+At the desk again, he sat over the clean page. Then he wrote what he could, which was what he had seen and nothing else, because the rest of it was hers.
 
 *Fenmark's record came. Lira read it in the annex with Quenna and me at the door. Four paragraphs, one sheet. She came out lighter than she went in. I don't know what's in it. She'll tell me Thursday, after the floor.*
 

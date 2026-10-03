@@ -100,7 +100,7 @@ There were faces in the crowd he had begun to know: the fish man with his beard;
 
 He found he did not want to know how many of them had come for the second bout.
 
-On Marrow's slate the line had moved again. *Over/under: 4 exch.*
+On Marrow's slate the line had moved again. *Over-under: four exchanges.*
 
 And Marrow, for the first time, looked at him.
 
@@ -282,7 +282,7 @@ He stopped there and looked at the column of claims, and then wrote one more lin
 
 He closed the front of the book and opened the back, and then he sat with the pencil until the lamp had burned down a finger's width.
 
-*0 and 4. Four, five, six, seven.*
+*Nought and four. Four, five, six, seven.*
 
 *I can see everything now. I saw the heel, I saw the dip, I saw the shimmer, I saw the shoulders. And tonight I saw every single one of the things she did, a long way off, and I still couldn't get there.*
 

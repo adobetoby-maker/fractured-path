@@ -126,7 +126,7 @@ He walked home slowly, with his hands in his own pockets and the red lines from 
 
 Torvin was sitting at the kitchen table on his own, with the lamp lit and his thin ledger shut in front of him, and he was not adding anything.
 
-The range had been banked for the night. The others had gone up. Torvin's wife's spoon lay on the side of the cold pot, and the low brown door at the back of the kitchen was shut, with no smell of pipe smoke under it, because Doss had gone out to the warehouses at dusk. There was nothing on the table but the ledger and the lamp and a folded paper, sealed in dark wax, lying squared to the table's edge where Torvin had put it.
+The range had been banked for the night. The others had gone up. Torvin's wife's spoon lay on the side of the cold pot, and the low brown door at the back of the kitchen was shut, with no smell of pipe smoke under it, because the night-watchman had gone out to the warehouses at dusk. There was nothing on the table but the ledger and the lamp and a folded paper, sealed in dark wax, lying squared to the table's edge where Torvin had put it.
 
 When Cael came in, Torvin's eyes went to the paper and not to him.
 
@@ -192,7 +192,7 @@ There was a pause in the dark that was a different shape from her usual pauses.
 
 "Now."
 
-He heard her sit up. He could not see her face, only the pale shape of her against the window. He could feel her looking at him, at the coat he still had on and the paper in his hand, as she looked at a tear before she mended it.
+He heard her sit up. He could not see her face, only the pale shape of her against the window. He could feel her looking at him, at the coat he still had on and the paper in his hand, as she looked at a rip before she mended it.
 
 "Third lane past the well, going up," said Yeni. "The tall house with the rain barrel that's lost its hoop. She's in the roof, with the two sisters from the dye sheds. Don't knock the front. The woman who owns it is deaf in one ear and cross in both." She lay down again. "Go round the side. There's a window at the bottom of the roof stair. Knock on the glass, three times, soft. The sisters sleep like the dead and Lira doesn't sleep like anything."
 

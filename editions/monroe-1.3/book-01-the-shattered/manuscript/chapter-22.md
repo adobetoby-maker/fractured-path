@@ -114,7 +114,7 @@ Cael read it through, and then he read the middle again.
 
 He sat with the letter on his knee and looked out at the dark coming down over the rooftops.
 
-Hesk had written that sentence on the twenty-eighth day, at the kitchen table, in the lamplight, the same night his letter had come. On the twenty-eighth day, three days' walk west of here, Cael had been dropping under a backhand in the grey half of the Cinder House yard and coming up in somebody else's coat. He had already lost to Amrit Sole by then, with his hand up, and to Petra Voss with his face in the dirt. He had been 0 and 4, not 0 and 2. And at midnight on that same night he had stood in Torvin's yard reaching for a thing that was not there until he stopped counting.
+Hesk had written that sentence on the twenty-eighth day, at the kitchen table, in the lamplight, the same night his letter had come. On the twenty-eighth day, three days' walk west of here, Cael had been dropping under a backhand in the grey half of the Cinder House yard and coming up in somebody else's coat. He had already lost to Amrit Sole by then, with his hand up, and to Petra Voss with his face in the dirt. He had been nought and four, not nought and two. And at midnight on that same night he had stood in Torvin's yard reaching for a thing that was not there until he stopped counting.
 
 Hesk had known none of it. Hesk had been writing to a boy who had lost twice and was not trying to win yet, and was looking, and that boy had been real when the letter left Ardenmere, and had stopped being quite real by the time it arrived in Denvash, and was a long way from real tonight.
 

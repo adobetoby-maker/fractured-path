@@ -206,7 +206,7 @@ He thanked her, and she went back to her slate. When he was halfway down the lan
 
 "He'll let you hit him. The first while. Don't let that fool you into thinking he's slow."
 
-He wrote it down at the bottom of the lane, against the wall, standing up. *Chalk-board woman (the Stone woman, wk 2): he'd stand a moment after a good one. Setting a bucket down. Putting it somewhere.* Then, under it, because two people had told him the same thing without knowing each other: *Doss said it too. He'd wait.*
+He wrote it down at the bottom of the lane, against the wall, standing up. *Chalk-board woman (the Stone woman, week two): he'd stand a moment after a good one. Setting a bucket down. Putting it somewhere.* Then, under it, because two people had told him the same thing without knowing each other: *Doss said it too. He'd wait.*
 
 He looked at it. Two was not three, and it was not a pattern yet, so he drew a small ring round it and left it open.
 
@@ -230,7 +230,7 @@ Vell looked at the two of them, one and then the other. Something happened at th
 
 "Then sign," she said. She turned Feryn's slip over and gave him the pen.
 
-He wrote his name on the back of the carter's slip, under Darrow's terms, where it would go back down the river to the man who had sent them. It was not her book. Her book got the line it had always got, in her own hand: *unrated (vouched)*. The assessment she had written beside his standing line in the winter stayed in the margin where she kept it; a card was for the yard, and the yard had never yet asked for him by anything else. Then she took one of the bills for lamp oil out of the drawer of her table and wrote the card on the back of it, larger than he had ever seen her write anything. *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES (Br 1, Iron Path) against unrated (vouched).* She wrote a second one, and a third, and kept going.
+He wrote his name on the back of the carter's slip, under Darrow's terms, where it would go back down the river to the man who had sent them. It was not her book. Her book got the line it had always got, in her own hand: *unrated (vouched)*. The assessment she had written beside his standing line in the winter stayed in the margin where she kept it; a card was for the yard, and the yard had never yet asked for him by anything else. Then she took one of the bills for lamp oil out of the drawer of her table and wrote the card on the back of it, larger than he had ever seen her write anything. *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES (Bronze 1, Iron Path) against unrated (vouched).* She wrote a second one, and a third, and kept going.
 
 "Every board," she said, and held the first of them out without looking round.
 

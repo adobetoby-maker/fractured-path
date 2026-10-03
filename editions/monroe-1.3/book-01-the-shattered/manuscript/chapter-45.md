@@ -22,7 +22,7 @@ On the first morning he saw her readiness twice in thirty. By the fourth morning
 
 In the afternoons, when she went to her sparring hour across the district, he drew Corvane's figure.
 
-He drew it in the dirt of Torvin's yard with a stick, by the pump, and in the margins of the Log, and on the back of a bill from the mender. Then he drew it with his eyes shut, on the inside of his eyelids, the stick figure and the spiral wound tight and the row of four strokes, until he could see it standing up and walking about on top of the stone it was carrying. Yeni watched him draw it once by the pump, from the kitchen door, and said nothing, and the next day there was a stub of red chalk on the low wall where he sat, which he had not put there.
+He drew it in the dirt of Torvin's yard with a stick, by the pump, and in the margins of the Log, and on the back of a bill from the mender. Then he drew it with his eyes shut, on the inside of his eyelids, the stick figure and the spiral coiled tight and the row of four strokes, until he could see it standing up and walking about on top of the stone it was carrying. Yeni watched him draw it once by the pump, from the kitchen door, and said nothing, and the next day there was a stub of red chalk on the low wall where he sat, which he had not put there.
 
 He did not tell anybody else about the step.
 
@@ -138,7 +138,7 @@ Renn was taking full credit. Cael heard that on the long quay from a woman with 
 
 "Then two people have told you, and you'd better listen." Renn started up the plank. "And I'll be at the rope. On the sunny side. Shouting."
 
-Marrow had a slate already, though there was nothing on the board. Cael saw it from the gate of the Cinder House on the second Sunday, when Marrow was standing by the barrels with his very clean hands folded and the slate on its string round his neck. On the bottom of it, under the Sunday prices, he had written in small careful chalk *Mon: F. (Br 2) — unr.*, with no price beside either. He saw Cael reading it and smiled the good smile and, for the first time since Cael had come to Ardenmere, said something to him directly.
+Marrow had a slate already, though there was nothing on the board. Cael saw it from the gate of the Cinder House on the second Sunday, when Marrow was standing by the barrels with his very clean hands folded and the slate on its string round his neck. On the bottom of it, under the Sunday prices, he had written in small careful chalk *Monday: F. (Bronze 2) — unrated.*, with no price beside either. He saw Cael reading it and smiled the good smile and, for the first time since Cael had come to Ardenmere, said something to him directly.
 
 "I can't price it," said Marrow. "I've tried for a week. Every number I write is either too long or too short, and I can't tell which." He turned the slate over to show him the other side, which was covered with rubbed-out figures. "You've ruined my week."
 

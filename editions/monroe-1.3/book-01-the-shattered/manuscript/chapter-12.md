@@ -222,7 +222,7 @@ He was built heavily through the chest and shoulders, not tall, and he stood lik
 
 Once, while the third bout was being called, he looked across the yard and caught Cael looking at him. He nodded, the nod you give somebody across a market, not unfriendly and not especially interested, and then he went back to talking to his friends.
 
-Marrow was working the rope with his slate, and when he passed the barrel at the corner, Cael read the slate without moving his head. *Renn*, it said, and beside it a number so small it was barely worth betting on. *Unrated, debut*, and beside that a much larger number. And underneath them both, on a line of its own, *Over/under: 1 exch.*
+Marrow was working the rope with his slate, and when he passed the barrel at the corner, Cael read the slate without moving his head. *Renn*, it said, and beside it a number so small it was barely worth betting on. *Unrated, debut*, and beside that a much larger number. And underneath them both, on a line of its own, *Over-under: one exchange.*
 
 "What does that mean?" he said quietly. "The last line."
 

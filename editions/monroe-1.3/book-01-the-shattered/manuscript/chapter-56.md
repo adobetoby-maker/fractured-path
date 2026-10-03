@@ -142,7 +142,7 @@ Feryn looked from one of them to the other.
 
 "That is either the cleverest thing I've heard about Iron in eight years of listening, or the two of you have drawn a man on the back of a washer bill and fallen in love with the drawing." He sneezed. "Which is it?"
 
-"I don't know yet." He wrote, small, beside the point where the lines met: *the crossing.* Then, under it, because he would not call a thing true that he had only drawn: *Claim. Evidence: 3 (h), Doss (h), Stone woman (h). Ruling: pending.*
+"I don't know yet." He wrote, small, beside the point where the lines met: *the crossing.* Then, under it, because he would not call a thing true that he had only drawn: *Claim. Evidence: three (h), Doss (h), Stone woman (h). Ruling: pending.*
 
 "Then find out." Feryn folded his notes, and blew his nose. "Somebody owes me a supper."
 
@@ -220,7 +220,7 @@ Cael went across the yard to the gate.
 
 Coss nodded slowly. Then, as if he had decided to stop putting it off, he took a folded paper out of his inside pocket and held it out.
 
-It was a district return. Cael had seen the form at the post, at the clerk's counter: a long sheet that went to regional every week, with boundaries and permits and pigs. Halfway down it, in the clerk's careful hand, under *Public notices posted in the district*, somebody had copied Vell's card word for word. *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES (Br 1, Iron Path) against unrated (vouched).* Somebody else had drawn a single neat line under it in red.
+It was a district return. Cael had seen the form at the post, at the clerk's counter: a long sheet that went to regional every week, with boundaries and permits and pigs. Halfway down it, in the clerk's careful hand, under *Public notices posted in the district*, somebody had copied Vell's card word for word. *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES (Bronze 1, Iron Path) against unrated (vouched).* Somebody else had drawn a single neat line under it in red.
 
 "Your post's clerk copies every board in the district into his return. He always has. It's in the form. Nobody's read that column in twenty years." He took the paper back and folded it. "Somebody read this one. My section head put it on my desk on Monday, with that line under it, and went away. He didn't say anything. Last time he said a view. This time he didn't say anything at all."
 

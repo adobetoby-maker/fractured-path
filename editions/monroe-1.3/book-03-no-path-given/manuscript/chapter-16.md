@@ -2,7 +2,7 @@
 
 It was Brom's turn to be the witness, and he took it as seriously as everything else he did.
 
-He came into section four two minutes after the fifth bell, unannounced, as the second clause allowed, and stood at the rail with his feet set and his hands clasped behind his back like a man attending a funeral he had been told was important. Karis looked up from her borrowed stool, nodded to him, and changed nothing. Quenna, at the chalk with her slate, did not look up at all.
+He came into section four two minutes after the fifth bell, unannounced, as the second clause allowed, and stood at the rail with his feet set and his hands clasped behind his back like a man attending a funeral he had been told was important. Karis looked up from her borrowed stool, nodded to him, and changed nothing. Quenna, at the chalk with her slate, went on writing.
 
 "I'd like to do the read today," Cael said. "Not the framework."
 
@@ -22,11 +22,11 @@ So Brom came over the rail into the section and stood two paces from Cael and sh
 
 "Right. Toes."
 
-Brom was a better body for it than Hobb had been, because Cael had read Brom for most of a year and knew the grain of him, and a worse one, because Brom also knew exactly what Cael was doing and kept trying, with a scowl of deep concentration, to beat it. He leaned one way and went the other. He started forward and stopped and went back. He stood perfectly still for a long count and then shifted with no warning at all. Cael called every one of them, and called most of them before Brom had properly decided, and after the twentieth Brom straightened up and said, with real indignation, "That isn't fair," and Lira was not there to laugh at him, so Cael did it for her.
+Brom was a better body for it than Hobb had been, because Cael had read Brom for most of a year and knew the grain of him, and a worse one, because Brom also knew what Cael was doing and kept trying, with a scowl of deep concentration, to beat it. He leaned one way and went the other. He started forward and stopped and went back. He stood perfectly still for a long count and then shifted with no warning at all. Cael called every one of them, and called most of them before Brom had properly decided, and after the twentieth Brom straightened up and said, with real indignation, "That isn't fair," and Lira was not there to laugh at him, so Cael did it for her.
 
 Karis wrote throughout.
 
-He had grown used to the sound of her pen in the weeks since the first session. It ran in long, even passages while he worked and stopped the moment he stopped, every time, as reliably as a mill wheel stops when the race is shut. He had stopped listening to it, the way he had stopped hearing the pipes in the residence wing.
+He had grown used to the sound of her pen in the weeks since the first session. It ran in long, even passages while he worked and stopped the moment he stopped, every time, as reliably as a mill wheel stops when the race is shut. He had stopped listening to it, just as he had stopped hearing the pipes in the residence wing.
 
 So he noticed at once when it stopped while he was still working.
 
@@ -46,7 +46,7 @@ The page was dense with her small upright hand, columns of calls and times and B
 
 "Why?"
 
-She looked at the two strokes for a moment, as if deciding how much of the true answer was observable from outside.
+She looked at the two strokes, as if deciding how much of the true answer was observable from outside.
 
 "It stops when something I'm seeing now agrees with something I wrote down before," she said. "It doesn't happen very often. When it does, I stop writing for a moment so that I don't write down what I expect instead of what I see." She touched the page number. "That's the page I wrote at your first session, when you ran the framework with nobody striking. You make up your own strikes out of the air. So I timed the gap between your eyes settling on where a strike would come from and your feet going. Today I timed how far ahead of Brom's weight you called it." She turned the notebook back toward herself. "It's the same amount. A quarter of a breath, near enough. Two different things you do, with two different results, and they both lead by the same margin."
 
@@ -62,7 +62,7 @@ He looked at her, and she looked back, entirely calm, and he understood that she
 
 They walked out together, with Brom a little ahead of them, still muttering about fairness.
 
-The afternoon had turned cold. The leaves on the hill below the wall had gone yellow at the edges in the last week, and the wind coming up over the training yard smelled of smoke from the town and of the first frost that had not arrived yet. Karis walked with her notebook held against her chest and her free hand in her pocket, and for a while neither of them said anything.
+The afternoon had turned cold. The leaves on the hill below the wall had gone yellow at the edges in the last week, and the wind coming up over the training yard smelled of smoke from the town and of the first frost that had not arrived yet. Karis walked with her notebook held against her chest and her free hand in her pocket, and neither of them said anything.
 
 "You let him take your shoulder," Cael said at last. "Edran. In the third exchange."
 
@@ -86,7 +86,7 @@ Karis was quiet for several steps.
 
 "It will be tonight."
 
-They reached the corner of the residence wing, where their ways divided. She stopped, and then, as if she had been deciding something for the whole length of the yard, she asked.
+They reached the corner of the residence wing, where their ways divided. She stopped. She had carried the question the whole length of the yard, and now she asked it.
 
 "You charted the bout. I saw you."
 
@@ -116,7 +116,7 @@ Edran came to the rail the next afternoon.
 
 Cael was at the edge of the open floor during the fifth bell, watching a pair of Storm Path fourth-years trade pressure across a chalk ring and trying to work out why the air between them kept smelling of rain. He did not see Edran come in. He only became aware that someone had stopped beside him at the rail, closer than a stranger would have stood and not as close as a friend, and when he looked round it was Edran, with his arms folded on the rail and his eyes on the Storm pair.
 
-They watched together for a while without speaking.
+They watched together without speaking.
 
 "You were charting her," Edran said at last. He did not turn his head. "Yesterday. In the yard. I saw the binder."
 
@@ -166,7 +166,7 @@ Brom came back from the defensive floor that afternoon with chalk to his elbows 
 
 Cael put down his pen. "The notebook?"
 
-"The page. The struck one. *Can't test this. No body to test it on.*" Brom set the notebook on his knees and laid both hands flat on its cover, the way Karis had laid hers flat on the stable table. "I asked Karis first. She said a page she'd crossed out at fourteen didn't need protecting, and that if Wray wrote in the margin she wanted to see it." He paused. "Wray did write in the margin."
+"The page. The struck one. *Can't test this. No body to test it on.*" Brom set the notebook on his knees and laid both hands flat on its cover, as Karis had laid hers flat on the stable table. "I asked Karis first. She said a page she'd crossed out at fourteen didn't need protecting, and that if Wray wrote in the margin she wanted to see it." He paused. "Wray did write in the margin."
 
 "What did she write?"
 
@@ -198,7 +198,7 @@ At supper, Lira had news, and for once she did not seem to enjoy it.
 
 "Somebody does." Lira tore her bread. "Nobody's telling me, which is new, and I don't like it."
 
-Gerda was at the next table, alone, as she usually was, eating with the careful economy of someone who had once been hungry for a long time and did not intend to waste anything again. She did not look up. But after a moment she spoke, to her bowl, in the flat calm voice she used for procedure.
+Gerda was at the next table, alone, as she usually was, eating with the careful economy of someone who had once been hungry for a long time and did not intend to waste anything again. She did not look up. But she spoke, to her bowl, in the flat calm voice she used for procedure.
 
 "If it's the form I think it is, it'll be posted."
 
@@ -216,7 +216,7 @@ Gerda ate a mouthful of barley, slowly, before she answered.
 
 "It was posted," she said. "And then it was answered."
 
-She did not say anything more, and Lira did not ask, and after a while Gerda finished her bowl and carried it to the hatch and left, tall and narrow and very straight, without looking back. Lira watched her go with an expression Cael had seen on her only when she was looking at someone across a ring whom she had begun to respect.
+She did not say anything more, and Lira did not ask, and Gerda finished her bowl and carried it to the hatch and left without looking back. Lira watched her go with an expression Cael had seen on her only when she was looking at someone across a ring whom she had begun to respect.
 
 "Bitten before," she said quietly, to nobody.
 
@@ -254,13 +254,13 @@ The third page made the request. It asked that the candidate's supervised floor 
 
 It was signed at the bottom of the third page, *Edran*, in the same hand that did not shake, with the date.
 
-Somebody small pushed in at his elbow. He looked down, and it was Oona, with her slate under her arm and her tag on its string, reading the first page with her lips moving.
+Somebody small pushed in at his elbow. He looked down, and it was Oona, with her tag on its string, reading the first page with her lips moving.
 
 "Is that about you?"
 
 "Yes."
 
-She read on. She was a slow and thorough reader, and he waited for her. Somewhere behind the lecture wing the first bell began to ring, slow and unhurried, and the crowd came apart reluctantly round them, in twos and threes, still talking, until the hall had nearly emptied and the two of them stood alone at the board with the brass tacks. When she reached the bottom of the third page she frowned at it with her whole face.
+She read on. She was a slow and thorough reader, and he waited for her. Somewhere behind the lecture wing the first bell began to ring, slow and unhurried, and the crowd came apart reluctantly round them, in twos and threes, still talking, until the hall had nearly emptied and the two of them stood alone at the board with the brass tacks. When she reached the bottom of the third page she frowned at it.
 
 "Is it true?"
 
@@ -278,7 +278,7 @@ Oona read the sentence again. "Aren't they?"
 
 "No," said Cael. "There isn't one to hide."
 
-Oona looked at the sentence, and then up at him, and he watched her work it through, the way she had worked through *shattered* in the taxonomy lecture: where it went, why it wasn't on the chart.
+Oona looked at the sentence, and then up at him, and he watched her work it through, as she had worked through *shattered* in the taxonomy lecture: where it went, why it wasn't on the chart.
 
 "Oh," she said at last. "Then he's asking the wrong question."
 
@@ -288,7 +288,7 @@ Oona looked at the sentence, and then up at him, and he watched her work it thro
 
 The bell had stopped. Somewhere above them a door shut, and feet went quickly along a corridor toward assembly, late.
 
-Cael did not answer her straight away. He read the conclusion on the second page one more time, the way he had once read a category line three times over a cup of tea going cold, and found that he did not resent a word of it. Edran had asked in the open, in the yard, in front of a dozen people. Now he had asked again, in ink, in front of everyone, with his own name signed at the bottom, by the book and in daylight. It was the most honest thing anyone at Greyvane had done about him, apart from a girl who had walked into an archive to ask permission. It was right about the provision, and right about the children, and right about the board, and right about him in every particular but one.
+Cael did not answer her straight away. He read the conclusion on the second page one more time, the way he had once read a category line three times over a cup of tea going cold, and did not resent a word of it. Edran had asked in the open, in the yard, in front of a dozen people. Now he had asked again, in ink, in front of everyone, with his own name signed at the bottom, by the book and in daylight. It was the most honest thing anyone at Greyvane had done about him, apart from a girl who had walked into an archive to ask permission. It was right about the provision, and right about the children, and right about the board, and right about him in every particular but one.
 
 The one was the only one that mattered, and nobody had ever written it down.
 

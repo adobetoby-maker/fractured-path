@@ -4,7 +4,7 @@ The second sitting looked exactly like the first, and that was the most frighten
 
 The training hall at first bell had been swept again, the six sections rubbed back to pale ghosts and a single fresh ring drawn at the centre. Three chairs stood at the far end with the same chalk ticks beside their legs and the same small table with its inkwell in front of the middle one.
 
-Quenna sat in the middle with her slate. Wray sat on her left in the brown coat buttoned to the throat. The rotating seat this month was a broad-faced woman Cael had seen only once, crossing the movement floor with a pointer under her arm. She looked at him as he came in with a pleasant, unhurried interest, as if he were a page she had been told would be worth reading.
+Quenna sat in the middle with her slate. Wray sat on her left in the brown coat buttoned to the throat. The rotating seat this month was a broad-faced woman Cael had seen only once, crossing the movement floor with a pointer under her arm. She looked at him as he came in with a pleasant, unhurried interest.
 
 Hobb was in the ring. Wray bent to his ear, said something, and went back to her chair, and Hobb settled his feet and waited as he had last month, a broad, patient shape against the grey light from the high windows.
 
@@ -12,7 +12,7 @@ Everything was the same. Cael knew, walking to his mark, that the only thing tha
 
 Last month he had imagined a reader under a lamp at the end of the road, a careful clerk he had built himself out of officials he remembered, and he had shaped every movement for that imagined reader. Yesterday afternoon, in Naveth's office, the reader had stopped being imaginary. *Assessment records to date, with assessors' names.* Whatever happened in this ring this morning would be copied out by three certifying hands, sealed in the presence of two officers, and carried down the hill to somebody who had asked for it by name.
 
-He set his feet and chose, before anything moved, the way Lira had taught him.
+He set his feet and chose, before anything moved, as Lira had taught him.
 
 "Framework," he told the panel. "Four passes, same structure, varied angle."
 
@@ -20,7 +20,7 @@ He ran it at panel speed. Hobb struck and he read the strike off Hobb's hips and
 
 Wray did not break the count this time. Instead, on the third pass, she raised two fingers instead of one, and Hobb came in from the left twice in succession, the second strike following the first so closely that the read for it began before the first had finished. Cael felt the framework stretch to cover it, a half-beat of reading laid over another half-beat, and he moved at the pace he had chosen and not a finger faster, and nothing landed. He finished the pass and came back to his mark, breathing evenly, and three pens moved at the end of the hall.
 
-The surface read went as it had before. Four calls, the last with his eyes closed, every one of them right. When he named the fourth, Hobb's weight going forward onto the ball of his left foot, Hobb did not huff this time. He only nodded very slightly, as if confirming something he had decided a month ago, and waited for his next instruction.
+The surface read went as it had before. Four calls, the last with his eyes closed, every one of them right. When he named the fourth, Hobb's weight going forward onto the ball of his left foot, Hobb did not huff this time. He only nodded very slightly, and waited for his next instruction.
 
 The panel went to the far wall and talked for less time than last month. When they came back, Quenna glanced to her left, and Wray spoke.
 
@@ -38,7 +38,7 @@ Karis was waiting in the passage outside the hall, standing against the wall wit
 
 "Satisfied," he told her, because she had not asked.
 
-She nodded once. "Good." She did not ask anything else, and they walked to the lecture wing together without speaking, which he found he did not mind at all.
+She nodded once. "Good." She did not ask anything else, and they walked to the lecture wing together without speaking, and he did not mind it at all.
 
 ---
 
@@ -46,7 +46,7 @@ That week his handwriting shrank, a little each day, and he did not notice.
 
 He noticed other things. Greyvane's days went on as they always had, as if one sealed sheet on the provost's blotter were nothing to a school that had sat through sixty years of stranger mornings. The bells rang. There were lectures at the second and third, floors at the fifth and sixth, barley at the seventh and lamps at the eighth. The rumour market had found fresher meat: somebody in the third year was making the kitchen's honey disappear, and Lira brought the latest on it to breakfast every morning, as solemn and as pleased as a chronicler of wars.
 
-What had changed was under all that, and he caught it in himself the way he would have caught it across a ring in someone else.
+What had changed was under all that, and he caught it in himself just as he would have caught it across a ring in someone else.
 
 The binder was eating pages. He filled more of them that week than in any week since the gate: the bells, the weather, how many paces wide the stair was, the colour of the light on the archive door, the number of steps from his room to the stable. Somewhere around the middle of the week he saw what he was doing. It was what a person does alone at night in a house he doesn't know, listing every creak he can hear so that he won't have to think about the one he can't.
 
@@ -92,13 +92,13 @@ He read it. It was exact and dry and held no theory, only measurements: how big 
 
 "It's the only kind of comfort I'm any good at." She looked at him properly then, and her face took some of the sharpness out of what she had said. "I'm bad at reassurance. What I can do is documentation."
 
-She went back to her page, and he to his. After a while he saw that his letters had grown again, a little, back toward their proper size.
+She went back to her page, and he to his. Before long he saw that his letters had grown again, a little, back toward their proper size.
 
 ---
 
 On the fifth day Lira took him down the hill. She said that a person who had lived in a place for a month and never seen the town below it was not living there but visiting, and that she had not walked three days from Ardenmere to watch him visit.
 
-He had never been down. There had always been something to do above the wall, and he had found, if he was honest, that he did not much want to go. The hollow circle opened every door Brom's crest opened, including the gate, and nobody would have stopped him. He simply had not gone, and he had not examined why.
+He had never been down. There had always been something to do above the wall, and, if he was honest, he did not much want to go. The hollow circle opened every door Brom's crest opened, including the gate, and nobody would have stopped him. He simply had not gone, and he had not examined why.
 
 The road down was steeper than it looked from the top, and the town at the bottom was smaller than it looked from anywhere.
 
@@ -112,9 +112,9 @@ There was one street worth walking and one worth avoiding, as Lira had reported 
 
 "And he'll have to write about the assessment, and the form, and the girl who argued in the back room all afternoon, and he'll want to get every word right." She bumped his shoulder. "He'll take a month just choosing the paper."
 
-Cael laughed, and found that he meant it, and they went on down the street.
+Cael laughed, and meant it, and they went on down the street.
 
-The baker at the bottom of the hill was exactly as rude as promised. He looked at Lira's coin as if it had insulted his mother, looked at Cael's tag as if it had insulted him personally, and wrapped a dark round loaf in a cloth with such contempt that Lira went out of the shop glowing.
+The baker at the bottom of the hill was every bit as rude as promised. He looked at Lira's coin as if it had insulted his mother, looked at Cael's tag as if it had insulted him personally, and wrapped a dark round loaf in a cloth with such contempt that Lira went out of the shop glowing.
 
 "He's wonderful," she said. "He hates everyone exactly the same. It's the most honest shop in the valley."
 
@@ -132,7 +132,7 @@ He remembered a scrubbed floor in Denvash, and a clerk's gentle voice, and Hesk'
 
 It came, a little. It did not stay.
 
-What stayed, instead, was the boy's face, and the mother's hand, and the plain hope in all three of them, and he found that what he mostly wanted was for that boy's morning to be ordinary. That was all. He wanted somebody to come out of that narrow door in an hour with a Path and a rank and a first declaration, an ordinary receipt for an ordinary afternoon, and go home with his parents and eat too much at supper.
+What stayed, instead, was the boy's face, and the mother's hand, and the plain hope in all three of them, and what he mostly wanted was for that boy's morning to be ordinary. That was all. He wanted somebody to come out of that narrow door in an hour with a Path and a rank and a first declaration, an ordinary receipt for an ordinary afternoon, and go home with his parents and eat too much at supper.
 
 "Cael," said Lira quietly.
 
@@ -140,7 +140,7 @@ What stayed, instead, was the boy's face, and the mother's hand, and the plain h
 
 "I know you are. I just wanted you to hear your name." She did not take his arm or hurry him. She stood beside him on the corner with the loaf under her arm until he was ready, and then they walked back up the hill together.
 
-Halfway up, he looked back once. The family had gone inside. The door was shut. Oona would come down this road in winter, with her slate under her arm and her own hands clasped, and he would be at the top of it, waiting. He decided, on the steep part of the road with the wind in his face, that whatever else he was doing in winter, he would be there.
+Halfway up, he looked back once. The family had gone inside. The door was shut. Oona would come down this road in winter, with her own hands clasped, and he would be at the top of it, waiting. He decided, on the steep part of the road with the wind in his face, that whatever else he was doing in winter, he would be there.
 
 ---
 
@@ -188,7 +188,7 @@ Cael was there because Naveth had said he could be. "It's your file," the provos
 
 The slips had all come back. Each one had made its slow, legal walk around the grounds and returned certified and countersigned.
 
-Prynn's copy of the provision lay on top, in her small exact hand, and Naveth had read the pencilled note on its cover twice with great satisfaction before rubbing it out.
+Prynn's copy of the provision lay on top, in her small exact hand, and Naveth had read the pencilled note on its cover with great satisfaction before rubbing it out.
 
 The white-haired man had come back from the north and certified his entries in the hall at the first bell, on his way to breakfast. Now the whole bundle lay on the blotter in a neat stack, and Naveth went through it against the Compact's list, item by item, line by line, reading each aloud while Quenna checked it off.
 
@@ -212,7 +212,7 @@ The courier from the town was waiting at the foot of the stair. Naveth carried t
 
 "Every word of it correct," said Naveth, watching the man's back disappear through the gate, "and not one hour early."
 
-He gave Cael the file copy of the transmittal on the way back up the stair, because Cael asked for it, and because he read everything that touched his own name. Cael read it on the landing by the light of the window. He read it a second time in his room. It was somewhere in the third reading that he found the thing he could not place.
+He gave Cael the file copy of the transmittal on the way back up the stair, because Cael asked for it, and because he read everything that touched his own name. Cael read it on the landing by the light of the window, and again, slowly, in his room, and the second time something in it snagged and would not come loose.
 
 The transmittal had a small ruled box near the top marked *Requester's routing annotation, to be copied exactly*. A clerk had copied into it, very neatly, a short string of letters and numbers broken by a slash, taken from the margin of the Compact's own cover sheet, where some office at the other end had stamped it when the request was first logged.
 
@@ -226,11 +226,11 @@ Cael went to Prynn that afternoon anyway, because Prynn's whole working life was
 
 She held the transmittal out at the full length of her arm, which was how she held anything she meant to read properly, and she looked at the routing box for a good deal longer than Naveth had.
 
-"I've not seen that shape of code," she said finally. "Which proves very little. The Compact rewrites its codes for its own clerks every few years, far oftener than anything a student sees, and the new keys mostly never come down as far as me." She laid the page on the desk between them and put one finger beside the box, not on it, as if the ink might be wet. "Provision files carry codes of their own. I know those. Had this been cut for your file, I'd expect one of them, and it isn't."
+"I've not seen that shape of code," she said finally. "Which proves very little. The Compact rewrites its codes for its own clerks every few years, far oftener than anything a student sees, and the new keys mostly never come down as far as me." She laid the page on the desk between them and put one finger beside the box, not on it. "Provision files carry codes of their own. I know those. Had this been cut for your file, I'd expect one of them, and it isn't."
 
 "So it means nothing."
 
-"Or it means a great deal, in a book neither of us is allowed to open." She said it exactly, with no weight added and none taken away, the way she said everything. She handed the page back. "Keep the page. Don't build anything on it."
+"Or it means a great deal, in a book neither of us is allowed to open." She said it exactly, with no weight added and none taken away. She handed the page back. "Keep the page. Don't build anything on it."
 
 He kept the page. He built nothing on it. He gave it one line in the back pages of the binder, with no theory attached.
 
@@ -264,7 +264,7 @@ Lira snorted, then laughed outright, and knocked Brom's knee with hers. "That's 
 
 "Velmere was very good at collecting debts," Brom said, without any bitterness. "It's one of the few things I learned there that I still use."
 
-Cael laughed with them, and then sat between them in the dusk for a long time without talking. Before the light was gone he took the binder out and wrote, slowly, in the square hand he saved for what had to last. A thing that would stay written ought to be written exactly, even when being exact did not make it any easier to read.
+Cael laughed with them, and then sat between them in the dusk without talking. Before the light went he opened the binder and wrote, slowly, in his squarest hand. A thing that would stay written ought to be written exactly, even when being exact did not make it any easier to read.
 
 *They know where I am. They always knew where I was. What's changed is that where I am now has walls they think they own.*
 

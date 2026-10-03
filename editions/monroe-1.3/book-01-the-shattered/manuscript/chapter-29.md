@@ -262,7 +262,7 @@ He had stood at this rope before, for other people's bouts, with the Log open on
 
 Marrow came along with his slate. Cael read it without moving his head.
 
-*Brenna*, and a short price. *Lira*, and a longer one, not long, but long enough to say what the yard thought of two losses in a row. And under the names, on its own line, *Over/under: 4 exch.*
+*Brenna*, and a short price. *Lira*, and a longer one, not long, but long enough to say what the yard thought of two losses in a row. And under the names, on its own line, *Over-under: four exchanges.*
 
 Marrow saw him reading it, and smiled the good smile, and wrote something with his chalk and went on.
 

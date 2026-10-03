@@ -214,7 +214,7 @@ On Sunday the yard was full by the middle of the afternoon.
 
 The benches were out along the shaded wall with the third row full of old men in scarves, and the rope was three deep on the shaded side and two deep in the sun. Renn's friends from the fish steps had come in a crowd and taken the sunny side by the gate, where they made the noise of men who had spent three weeks on a barge and had been paid on Thursday. The man who had been Cael in the middle yard was among them, with a bruise on his shoulder that he showed to people.
 
-Marrow's slate said *Renn* with a short price and *unrated (vouched)* with a long one, and under them, *Over/under: 3 exch.*
+Marrow's slate said *Renn* with a short price and *unrated (vouched)* with a long one, and under them, *Over-under: three exchanges.*
 
 "He's taken Renn at his word," Lira said at the barrel. "No third exchange." She had her arms folded on the top of the rope and her hair tied the ordinary way, with the knot coming loose. "Everybody's heard him say it."
 
