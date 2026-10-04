@@ -286,7 +286,7 @@ He wrote *No* into the fair copy, in his best clerk's hand. Then he copied the n
 
 At the far end of the long table, Assessor Ilsev was reading.
 
-She had asked for the case file's supporting documentation after the midday meal, the whole bundle, and the Warden's aide had carried it in in three tied stacks and gone away again. She had untied the first and begun at the top. She was reading it as Havel had heard she read everything and had never before watched her do: in order, every page, without skipping, past the place where anybody else would have decided they had the shape of it and started turning faster.
+She had asked for the case file's supporting documentation after the midday meal, the whole bundle, and the Warden's aide had brought it in three tied stacks and gone away again. She had untied the first and begun at the top. She was reading it as Havel had heard she read everything and had never before watched her do: in order, every page, without skipping, past the place where anybody else would have decided they had the shape of it and started turning faster.
 
 The enrollment submissions first. The provision, in Prynn's certified copy, with the archivist's pencil at the foot. The first two sittings, with the assessors' names. Then the Warden's monitoring summaries, two years of them, quarter by quarter in his flat plain prose, a subject located, a subject cooperative, nothing crossing the threshold. Havel had read some of those summaries himself, years ago, when the file was a district file and he was a district officer. He did not look at them now.
 

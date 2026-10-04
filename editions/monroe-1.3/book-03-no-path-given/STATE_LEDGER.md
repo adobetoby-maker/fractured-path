@@ -1185,3 +1185,9 @@ Movement 5 CLOSED 2026-10-02 after repair r1 and three recheck line fixes (ch32 
 - Hobb partnered the sittings D1, D2, D4, D6, D7 (five); before D6 he had sat three.
 - The heat-Paths instructor: thirty years.
 - Every quoted line now has a first occurrence (ch11 "at the end of the month"; ch22 the binder line "*Something behind my eyes looks at people like a hand looks at bread.*").
+
+## FINAL — Book 3 text locked (2026-10-04)
+- 61 chapters, 287,212 words (tool). Sentence mean 13.06, ≥40-word 3.4%, 906 words per scene, FK 4.42 — primaries inside the working ranges (M3–M7 individually ~12.8–13.0, meter only per the whole-arc read).
+- Source distance: skeleton probe 1–2% every movement; 8-word overlap 0 unprotected in all eight movements; gates 0.
+- Completion pass: Step 1 event-list rebuild (two lanes, 26 scenes); Step 2 whole-arc read (24 fixes) + texture pass (two lanes; resumed across the weekly limit); Step 3 listening proof (Sol): PASS — one required fix (ch49 doubled "in"); 181 paragraphs over 700 characters (fpaudio splits them); Book 3 pronunciation lexicon in `state/completion/listening-proof.md` §4; direction notes §5.
+- Next: Breeze render → edition `fractured-path-monroe-1.3-book-03`.
