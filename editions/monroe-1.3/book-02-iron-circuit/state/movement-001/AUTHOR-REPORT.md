@@ -206,3 +206,65 @@ Measured after the run: a handful of sentences changed (ch 3 place name ×3; ch 
 - **Packet quotes changed by a word** to pass the gate (Deviations 9): owner's call whether to restore them verbatim under an allow pattern.
 - **Calendar**: the page implies "before midwinter" (Vell; Hesk); BOOK_MAP §11 s's mid-book autumn main season is not referenced here, and the next movement should keep months unnamed.
 - **No names minted.** The complainant, the officers, the widow, the salt-end keeper, the barn instructor and the watcher-Blade are unnamed.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), 2026-10-04, from `REPAIR-BRIEF.md`, `review-editorial.md` and `review-cold.md`. Every edit was composed by reading, in place. A scratchpad script was used only to *list* sentences of 40+ words; each split or join point was chosen and written by hand. Speech was not split. Scene breaks are unchanged (32).
+
+### Priority 1 — counts and the protected notice
+
+- **Copper formals: twelve after Ulric.** Ch 1, Vell: "That's twelve Copper formals this year". Ch 6, the Wind entry's evidence: "twelve Copper formals, Ulric the last". Ch 7: "every one in twelve Copper bouts".
+- **Trial-count choice: trial nine visibly does not activate.** In ch 5 he comes off the wall, drops the left hip and holds his breath, and nothing happens. The floor stays the floor. He goes down in an ordinary stumble with no lock, and Lira takes her strike back out of the air. The aftermath now reads "That's nine tries… Eight that came, and one that didn't" and "Eight in an hour… And the ninth wouldn't come at all". Lira says "The ninth didn't even come." The half-breath's ninth question had "no burst to ask it with". So trials 1–8 plus trial 10 are nine bursts. That makes true both the Power Log's "ten trials, nine bursts in one hour" (BOOK_MAP §6.1) and ch 5's "nine bursts and six hits and a lip". Hits stay at six, plus an exchange. Lira's tally ("one I wouldn't") now points at the non-activation.
+- **REVISIONS (ch 8).** The update is reproduced as the exact protected block, fenced, as in ch 7. Cael's own sentence follows outside it: *Integration is the same as it was; only the one field moved.*
+
+### Priority 2 — recap, stakes, the watcher
+
+- **Ch 6, Power Log compressed** (≈700 words lighter in the log and its surrounding reflection). The Wind entry keeps all six fields, cut to evidence and rulings, with costs in a single paragraph. The entry keeps *to the left* and its pause, the lock as a price and the rule, and depletion after nine in an hour. The Pressure faces are told once, in narration, including the new discovery of the giving face. The Pressure entry then shows only the fields that matter: both faces, source, costs, and the concurrent-function question. The tool / self-record distinction in scene 1 is untouched. Lira's reading still finds *two of Lira's* ands and *the dock man, sitting down*.
+- **Ch 3, stake in the present tense**, beside the lodgers' book: if the pencil stops, the landlord gets questions; a summons means a missed card, and a name rubbed off Dace's wall. "Two rooms, a door between them… a name at the start of a line in Vell's book: all of it hung, this minute, on the speed of one man's pencil."
+- **Ch 4, the cold reader's missing context**, at "a word on him": *The registry's word for him was* Shattered*. It had been written against four people before him. Three of them had been dead within weeks of their Kindling, and the fourth was a line that said nobody knew.* That is Book 1 knowledge, and it explains nothing about the sweeps.
+- **Ch 1, the watcher planted.** After Vell calls the bout, a paragraph: a young man in a river-academy coat on the third bench back from the east wall, hands flat on his knees, neither cheering nor groaning, eyes on the stone where Cael landed. Cael files him nowhere. **Ch 8 payoff**: when Dace describes him, "Cael remembered him then… He had seen it and filed it nowhere." He is unnamed, and no scene was added.
+
+### Priority 3 — rhythm
+
+- About 108 overloaded narration sentences were split at their thought turns, chiefly in ch 1, ch 3, ch 4, ch 6, ch 7 and ch 8, and in ch 2's back room and Dace's slate. That took the share to about 2.2% by the listing script, below the working floor, so about twenty purposeful long sentences were rejoined. Among them are the burst and the lock in ch 1, the crowd's sound, Hesk's pouch, the trial-ten recovery and the alcove laughter in ch 5, the barge and Lira's step in ch 7, and the carriers' bag in ch 8.
+- No paragraph or scene breaks were added; paragraph median stays at 30.
+
+### Metrics (`tools/formula_metrics.py`, eight chapters)
+
+| Measure | Before r1 | After r1 | Working range |
+|---|---|---|---|
+| Words (tool) | 36,236 | 35,869 | — |
+| Words (wc) | 36,318 | 35,952 | 35,500–38,000 (brief) |
+| Sentences | 2,612 | 2,687 | — |
+| Sentence mean | 13.87 | **13.34** | 13–15.5 ✓ |
+| Sentence median | 9.0 | 9 | (11) |
+| ≥40-word share | 6.7% | **3.0%** | 2.5–4.5% ✓ |
+| ≤5-word share | 32.8% | 30.9% | up to ~34% ✓ |
+| Words per scene | 905.9 | **896.7** | 850–1,050 ✓ |
+| Paragraph median | 30 | 30 | up to ~30 (edge) |
+| Flesch RE | 90.5 | 91.2 | (72.3) |
+| FK grade | 4.08 | 3.86 | 3.5–6 ✓ |
+
+Per chapter (wc): 1 — 5,622; 2 — 4,599; 3 — 4,161; 4 — 3,991; 5 — 4,978; 6 — 3,606; 7 — 4,550; 8 — 4,445.
+
+### Checks
+
+- `ed.sh overlap book-02-iron-circuit 1`: **0 unprotected, 5 protected**.
+- `ed.sh gates book-02-iron-circuit 1`: reader_standard=0, metadata=0, modern=0 on all eight.
+- `sweep_probe.sh book-02-iron-circuit 1 1`: **0% skeleton** total, close 7%. Skeleton by chapter: 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1%; ch 8's 1% is the two packet log lines. Not risen.
+
+### Changelist by chapter
+
+- **Ch 1**: twelve Copper formals; the watcher paragraph after the call; about 20 splits (feint, thigh, Lira's fingers, the picture, the cut seen in the lock, the strike, the east bench, the twenty minutes, habit, Vell at the bench, Dace's door share, the cutaway's posts and sponsor letter, the step after the step, the venue bridge, the testing method, the wall).
+- **Ch 2**: about 11 splits (morning limp, the fruit woman, Red Cap's trade, questions asked early, the back room's tape bows rejoined, red rules, the slate, the slag letter, Stedd's bout, Dace at the wall, the slack hour).
+- **Ch 3**: the present-tense stake; about 12 splits (the officials page, the dates, the alcove and post, the sweep-morning rule, the bearded cousin, the route, the landing window, the coats leaving, *suppose he had been anywhere else*, the wiped wall, Dace's room of faces, Lira's shoulder).
+- **Ch 4**: the *Shattered* context; about 13 splits (the complainant's house, purse and witness, the benches filling, Vell turning the book, Dessa, Vell's turn to the door, the dates column, the keepers' circuit, the widow, the one-armed keeper's hand, supper).
+- **Ch 5**: trial nine as a non-activation with its aftermath lines; about 13 splits in the trials and the depletion (fight landings and the tenth trial's long read largely kept).
+- **Ch 6**: the Power Log compression; twelve Copper formals; about 10 splits (the rain, the blurred margins, the trials' page, the giving-face note, the self-record, the Denvash notebook, the station, the empty half page, the instances line, Lira's face).
+- **Ch 7**: twelve Copper bouts; about 11 splits (the toll, the fifth try, the old Log, the Darrow drawing, the unasked step, the broom, the corner, Lira putting the barn away, the pie stall, the conditions).
+- **Ch 8**: the exact REVISIONS block; the watcher recognition; about 11 splits (the lamp-low wait, the conditions list, the letter's reasons, the carriers' hut, the untold column, the *sustained* test, Vell's letter and back cover, Lira's night thoughts, the last lamp).
+
+### Unresolved
+
+- Paragraph median sits at the working-range edge (30). Dialogue tags were not targeted and remain high (~86 per 10k before r1).
+- Length is 35,952 (wc), inside the brief's band. The ch 6 compression is the main reduction.

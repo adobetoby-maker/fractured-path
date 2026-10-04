@@ -12,19 +12,19 @@ He set himself square, and thought *right*, and dropped his right hip.
 
 Nothing happened. The plainest part was that. He dropped his hip and his body went sideways the way any boy's body goes sideways when he steps, on his feet, at the speed of feet, and that was all. There was no loosening. The floor did not go short. He took one ordinary step to the right and stood there feeling foolish, like a man who has walked confidently into a room to fetch something and forgotten what.
 
-But something had gone out of him all the same. He stood on the stone and felt for it, the way he felt for the cost after every burst, and it was there: a small catch in the breath, as if it had begun to stop and then thought better of it, and a faint warmth along the line of the left hip, the wrong hip, the hip he had not used. It was the burst's toll, or a shadow of it, as though he had been charged a little for knocking on a door that was never going to open.
+But something had gone out of him all the same. He stood on the stone and felt for it, the way he felt for the cost after every burst, and it was there. There was a small catch in the breath, as if it had begun to stop and then thought better of it, and a faint warmth along the line of the left hip, the wrong hip, the hip he had not used. It was the burst's toll, or a shadow of it, as though he had been charged a little for knocking on a door that was never going to open.
 
-He tried again. And again. On the fifth try he stopped, because the shadow tolls were adding up and the hip was beginning to take an interest, and he sat down on the bench at the back of the alcove and took out the Power Log and wrote it before he could start explaining it to himself.
+He tried again. And again. On the fifth try he stopped, because the shadow tolls were adding up and the hip was beginning to take an interest. He sat down on the bench at the back of the alcove and took out the Power Log and wrote it before he could start explaining it to himself.
 
 *Right hip: five tries. Nothing comes. An ordinary step. But a toll: a catch in the breath and a little of the left hip, each time. Charged for the asking.*
 
-Then, because he did not trust a memory to tell him what he had never done, he went and fetched the brown Log off the shelf at the boarding house at a limping run and brought it back down to the alcove, and went through the back of it, instance by instance, by the grey window light.
+Then, because he did not trust a memory to tell him what he had never done, he went and fetched the brown Log off the shelf at the boarding house at a limping run and brought it back down to the alcove. He went through the back of it, instance by instance, by the grey window light.
 
-The first, the drop under Lira's backhand in the grey half: left leg out behind, turned from the hip. Left. The box drill: front-left. Feryn's third: round the blow, and the little drawing beside it went round to the left. Darrow's third. He read that one twice. *The step. Not asked. Everybody saw.* And under it, in his own hand, written on the cot that night with his ribs singing, where he had drawn it: a stick figure, and Darrow's straight blow coming down the middle, and the figure gone round it on the far side, onto Darrow's left, which, facing him across a circle, was Cael's right.
+The first, the drop under Lira's backhand in the grey half: left leg out behind, turned from the hip. Left. The box drill: front-left. Feryn's third: round the blow, and the little drawing beside it went round to the left. Darrow's third. He read that one twice. *The step. Not asked. Everybody saw.* And under it, in his own hand, was the drawing he had made on the cot that night with his ribs singing. There was a stick figure, and Darrow's straight blow coming down the middle, and the figure gone round it on the far side, onto Darrow's left, which, facing him across a circle, was Cael's right.
 
 He sat with the old book open on his knee.
 
-Every burst he had ever called had gone left. Every one he had measured on the straw, every one in eleven Copper bouts, every one this morning. But in the third exchange against Darrow Innes, with no ground left and his heel swept, the step had come up out of the dark unasked, and it had gone the other way, to the right, round the edge of a blow where no step of his could have reached. It had gone where it was needed, not where it was used to going. He had written it down at the time, and drawn it, and never once looked at which side of the paper the figure was on.
+Every burst he had ever called had gone left. Every one he had measured on the straw, every one in twelve Copper bouts, every one this morning. But in the third exchange against Darrow Innes, with no ground left and his heel swept, the step had come up out of the dark unasked. It had gone the other way, to the right, round the edge of a blow where no step of his could have reached. It had gone where it was needed, not where it was used to going. He had written it down at the time, and drawn it, and never once looked at which side of the paper the figure was on.
 
 *Asked: left only,* he wrote in the Power Log, under the line about the right hip. *Unasked: once right, Darrow's third. Once is an accident. But it was the worst moment I've ever had, and it came cleanest then, and it went the way it had to. I can't call that. I can't count on it. Ruling: for planning, the burst only goes left.*
 
@@ -52,7 +52,7 @@ Something went across her face, too quick to read, and was gone.
 
 "Some of them," said Lira. "Get up. I'll show you."
 
-She showed him with the staff, slowly at first. She did not try to hit him. She came at him from his left front, and he moved left, away from it, the natural way; and she came again from where he had moved to, from the front this time, and he moved left again; and again, and each time she came she came from a little further round his left side, so that each time his escape took him a little further round to the right without his ever choosing to go there. It was like being swept with a broom. Every stroke was small, and every stroke moved him a little toward the corner, and by the sixth stroke he found his back to the straw post with Lira in front of him and slightly to his left, and the only open ground anywhere near him was behind him and to his right.
+She showed him with the staff, slowly at first. She did not try to hit him. She came at him from his left front, and he moved left, away from it, the natural way. She came again from where he had moved to, from the front this time, and he moved left again. And again. Each time she came, she came from a little further round his left side, so that each time his escape took him a little further round to the right without his ever choosing to go there. It was like being swept with a broom. Every stroke was small, and every stroke moved him a little toward the corner, and by the sixth stroke he found his back to the straw post. Lira was in front of him and slightly to his left, and the only open ground anywhere near him was behind him and to his right.
 
 And she came at him.
 
@@ -124,7 +124,7 @@ It was not a drawing, then. It was a real person's way of moving, taken from a r
 
 "Right," said Lira.
 
-She stood up off the bench as though she had made her mind up about something, and picked up her staff. Whatever had gone through her about the man in the barn, she had put it somewhere for later; he could see her do it, and he knew the look, because it was the one she wore at the rope before a bout of her own.
+She stood up off the bench as though she had made her mind up about something, and picked up her staff. Whatever had gone through her about the man in the barn, she had put it somewhere for later. He could see her do it, and he knew the look, because it was the one she wore at the rope before a bout of her own.
 
 "You can't mend it," she said. "Fine. Nobody can mend everything. So we don't mend it. We make sure nobody ever gets you into that corner. That's footwork, and it's boring, and it doesn't come from anybody's farmer, and you can have as much of it as you like." She set herself. "I'm going to broom you. You're going to not be broomed."
 
@@ -192,7 +192,7 @@ Lira stepped back and grounded her staff. She was out of breath and she was grin
 
 He bought her lunch.
 
-He bought it at the pie stall at the top of the market, from the woman who was honest about the weight, and they took it to the low wall by the dyers' steps, where you could sit with your back to the sun and watch the river barges come in. Lira ate two pies and half of his. He did not mind. His hands were busy with the Power Log on his knee and a pie in his other hand that he kept forgetting about.
+He bought it at the pie stall at the top of the market, from the woman who was honest about the weight. They took it to the low wall by the dyers' steps, where you could sit with your back to the sun and watch the river barges come in. Lira ate two pies and half of his. He did not mind. His hands were busy with the Power Log on his knee and a pie in his other hand that he kept forgetting about.
 
 "You're going to write it all down before you eat that," said Lira, "and then it'll be cold, and you'll eat it cold and tell me it's fine."
 
@@ -202,7 +202,7 @@ He bought it at the pie stall at the top of the market, from the woman who was h
 
 He wrote what had come before it, because what came before a thing was evidence, and evidence did not keep.
 
-Three nights before, he had copied the Wind entry into the Power Log in its new form, field by field, with the old notice's *undetermined* at the head. This morning, before Lira came, he had pressed the burst harder than he had ever pressed it outside a bout: five tries to the right, five tolls paid for nothing. Then, with her, nine more, and then an hour and a half of the closest attention he had ever given to the edges of the thing, where it would go and where it would not, the fan drawn in chalk on the stone and the empty quarter stared at. If he had wanted to set out to make the notice change, if he had sat down with a plan to provoke it, he could hardly have done better than this one morning. And he had not planned it. He had not even wanted it; he had wanted to know why it would not go right.
+Three nights before, he had copied the Wind entry into the Power Log in its new form, field by field, with the old notice's *undetermined* at the head. This morning, before Lira came, he had pressed the burst harder than he had ever pressed it outside a bout: five tries to the right, five tolls paid for nothing. Then, with her, nine more. After that came an hour and a half of the closest attention he had ever given to the edges of the thing, where it would go and where it would not, the fan drawn in chalk on the stone and the empty quarter stared at. If he had wanted to set out to make the notice change, if he had sat down with a plan to provoke it, he could hardly have done better than this one morning. And he had not planned it. He had not even wanted it; he had wanted to know why it would not go right.
 
 That made it more interesting, not less. It also made it nothing yet, because it had happened once. One thing that happens once is an accident, until it happens again.
 

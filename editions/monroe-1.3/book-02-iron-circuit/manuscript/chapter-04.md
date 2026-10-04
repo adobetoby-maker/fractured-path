@@ -6,15 +6,15 @@ He was a Blade practitioner of perhaps twenty-five, Copper by his registry and A
 
 And now he was back, in a good coat with academy stitching across the shoulders, with a folded paper in his hand.
 
-Cael knew him a little, as you know anybody you have watched for a year without ever speaking to. He had come down from a guild-registered house on the river two seasons ago, and he paid that house a fee every quarter for the right to say he trained there, and the house paid him back in a coat with stitched shoulders and a line on his papers and not much else. It did not find him bouts. Guild houses never did; they had more members than matches, and the matches went to the members whose fathers had paid the most fees. So he came to the Ironyard, like a dozen others in academy coats, because Dace would put him on a card twice a month and Vell would pay him for losing as well as winning. Cael had watched him at the slate the week before, trying to talk Dace into a better slot, and had watched him in the eating house afterward paying for one bowl of soup with exact coin and then counting what was left in his purse under the edge of the table. It was a thin purse for a man with such good shoulders on his coat.
+Cael knew him a little, as you know anybody you have watched for a year without ever speaking to. He had come down from a guild-registered house on the river two seasons ago. He paid that house a fee every quarter for the right to say he trained there, and the house paid him back in a coat with stitched shoulders and a line on his papers and not much else. It did not find him bouts. Guild houses never did; they had more members than matches, and the matches went to the members whose fathers had paid the most fees. So he came to the Ironyard, like a dozen others in academy coats, because Dace would put him on a card twice a month and Vell would pay him for losing as well as winning. Cael had watched him at the slate the week before, trying to talk Dace into a better slot. Afterward, in the eating house, he had watched him paying for one bowl of soup with exact coin and then counting what was left in his purse under the edge of the table. It was a thin purse for a man with such good shoulders on his coat.
 
-He did not look at the paper. He held it, and turned it over, and held it again, as a man holds a ticket for a coach he is not sure he wants to catch. His lips moved. Every so often he looked along the benches toward the door, and Cael followed the look the third time it went, and found what it was for: a younger man in the same academy coat, sitting near the back with his arms folded, who had come in with him and was waiting for something to happen.
+He did not look at the paper. He held it, and turned it over, and held it again, as a man holds a ticket for a coach he is not sure he wants to catch. His lips moved. Every so often he looked along the benches toward the door, and Cael followed the look the third time it went. He found what it was for: a younger man in the same academy coat, sitting near the back with his arms folded, who had come in with him and was waiting for something to happen.
 
 *He's got a witness of his own,* Cael wrote, in the margin of the morning's page. *Somebody from his facility. He's going to do this in front of him, not in spite of him. Prediction: he'll wait until the benches are full, so that it's a public thing. He'll go to Vell, not Dace. He'll open with the biggest word he's got.*
 
 He put the pencil down and waited to be told whether he was right.
 
-The benches filled toward the hour, as they did. By the time Vell came out of the back room with the day's book and her tea there were seventy or eighty people in the near rows, and fighters stretching along the walls, and the bookmakers in their corner chalking up the first bout's odds. Vell sat down. She opened the book. She uncapped her ink.
+The benches filled toward the hour, as they did. By the time Vell came out of the back room with the day's book and her tea, there were seventy or eighty people in the near rows. Fighters stretched along the walls, and the bookmakers in their corner were chalking up the first bout's odds. Vell sat down. She opened the book. She uncapped her ink.
 
 The man stood up, put the paper in his inside pocket, and crossed the floor.
 
@@ -38,7 +38,7 @@ She finished blotting the line she had been writing, which was the date and the 
 
 "By the west post. Grey beard. Red neckcloth."
 
-Cael watched Vell know who it was. She knew from *west post*; *red neckcloth* only confirmed it. And then, knowing already, she did the thing he had seen her do at the Cinder House and had never been close enough to understand. She turned back through the book, unhurried, to a page some years old, and ran her finger down it until she came to a line, and turned the book a quarter round on the table so that the people on the nearest bench could see that there was a line there, though they could not read it.
+Cael watched Vell know who it was. She knew from *west post*; *red neckcloth* only confirmed it. And then, knowing already, she did the thing he had seen her do at the Cinder House and had never been close enough to understand. She turned back through the book, unhurried, to a page some years old, and ran her finger down it until she came to a line. Then she turned the book a quarter round on the table so that the people on the nearest bench could see that there was a line there, though they could not read it.
 
 "Orvet," she said. "Runs a gym in the tannery lanes. Shouts at fighters. It's in my book, four years back, on a complaint very like yours, and I ruled on it then. He shouts at his own people, and he shouts at other people's, and he shouts at the bookmakers when they get the odds wrong. Nobody pays him to. It's a habit, not a service, and it isn't against anything I've ever written down." She did not turn the book back. "You're saying he coached your opponent."
 
@@ -46,7 +46,7 @@ Cael watched Vell know who it was. She knew from *west post*; *red neckcloth* on
 
 "Hm." Vell looked past him, along the near bench, and found a face. "Dessa."
 
-It was Dessa, the Stone fighter Cael had met twice in his first months and beaten twice, both times by less than the benches thought, who sat on the near bench most mornings with her hair tied tight and said less than anybody in the building. She looked up from the strap she was mending.
+It was Dessa, the Stone fighter Cael had met twice in his first months and beaten twice, both times by less than the benches thought. She sat on the near bench most mornings with her hair tied tight and said less than anybody in the building. She looked up from the strap she was mending.
 
 "You were on the west bench last night, second bout."
 
@@ -102,7 +102,7 @@ He showed it to her. She read it, and pushed it back.
 
 "Don't enjoy it." She capped her ink. "The day you enjoy it, you start looking for it."
 
-Then she sat back in her chair with her hands folded on the closed book and looked not at him but at the big door, where the late light was coming in long across the stone, and said, in a different voice, as though it had nothing to do with anything:
+Then she sat back in her chair with her hands folded on the closed book. She looked not at him but at the big door, where the late light was coming in long across the stone, and said, in a different voice, as though it had nothing to do with anything:
 
 "Dace says there were two grey coats on the row yesterday."
 
@@ -110,7 +110,7 @@ Then she sat back in her chair with her hands folded on the closed book and look
 
 "That's five this season, by my count. I keep it in the back of the book now, in pencil, so I can rub it out if I ever feel foolish." She did not look at him. "When I first sat at a table in this district, they'd come through twice a year to read the boards and buy a pie. I've had more sweeps through these streets in the last six months than in ten years before them, Cael. I'm not a woman who frightens. But something's got them counting, and when people start counting, they generally know what they're hoping to find."
 
-He kept his face where it was. He had a fair idea what had got them counting. It was on the officials page in a column of dates with nothing written beside it, because there was no evidence for the thing he wanted to write, only the shape of it, and the shape was a boy who had come in through the west gate a year ago with a word on him that nobody had survived before.
+He kept his face where it was. He had a fair idea what had got them counting. It was on the officials page in a column of dates with nothing written beside it. There was no evidence for the thing he wanted to write, only the shape of it, and the shape was a boy who had come in through the west gate a year ago with a word on him. The registry's word for him was *Shattered*. It had been written against four people before him. Three of them had been dead within weeks of their Kindling, and the fourth was a line that said nobody knew.
 
 "That's interesting," he said, which was true, and was about a tenth of what was true.
 
@@ -122,13 +122,13 @@ Vell looked at him then. It was a long look, longer than the answer deserved. He
 
 "I know. That's why I've only told you once."
 
-He wrote, that evening, under the box with the four steps and the fifth that Vell had given him, a line about the keepers. It had struck him, watching the guild man's face, that Vell had no seal and no law and no clerk behind her, and that it did not matter, because she had something that worked the same way and was harder to argue with. There was a keeper at Fenrow and a keeper at the salt end and keepers in towns he had never heard of, every one of them with a book, and every one of those books was, in a way, open to all the others. Nobody had written it down as a rule. Nobody needed to. A man could quarrel with one table and find, the next month, that a hundred tables had heard. *It isn't a law,* he wrote. *It's a circuit of its own, made of keepers instead of fighters, and it runs on the same thing the floor does. Everybody in it has decided it's worth more to them kept than broken.*
+He wrote, that evening, under the box with the four steps and the fifth that Vell had given him, a line about the keepers. It had struck him, watching the guild man's face, that Vell had no seal and no law and no clerk behind her. It did not matter, because she had something that worked the same way and was harder to argue with. There was a keeper at Fenrow and a keeper at the salt end and keepers in towns he had never heard of, every one of them with a book. Every one of those books was, in a way, open to all the others. Nobody had written it down as a rule. Nobody needed to. A man could quarrel with one table and find, the next month, that a hundred tables had heard. *It isn't a law,* he wrote. *It's a circuit of its own, made of keepers instead of fighters, and it runs on the same thing the floor does. Everybody in it has decided it's worth more to them kept than broken.*
 
 ---
 
 She had an errand in the back room before she went home, and she let him carry the lamp.
 
-A widow from the brickworks end had come to the table the week before with a story about her husband, who had died the winter before last, and who had told her, she said, that he had fought in Ardenmere as a young man, under a keeper with one arm, before ever Vell's time. The widow wanted to know whether it was true. She did not want anything else; she only wanted to know whether a thing her husband had told her across forty years of suppers had been a story or a fact. Vell had told her to come back in a week.
+A widow from the brickworks end had come to the table the week before with a story about her husband, who had died the winter before last. He had told her, she said, that he had fought in Ardenmere as a young man, under a keeper with one arm, before ever Vell's time. The widow wanted to know whether it was true. She did not want anything else; she only wanted to know whether a thing her husband had told her across forty years of suppers had been a story or a fact. Vell had told her to come back in a week.
 
 "There was a keeper with one arm," said Vell, holding the lamp's hood while Cael lit it. "Before my keeper. I've heard of him. If her man fought for him, he's in one of these."
 
@@ -138,7 +138,7 @@ The books inside were not tied with tape. They were not the same height. Some we
 
 "Mine are mine," said Vell. "Thirty years. These were his, the keeper I learned under, and before that whoever he learned under, and some of them he had from further back still. Forty years of books in this room, if you count the ones I kept with him before he died, and a good deal more than forty if you count these." She held the lamp up to the cupboard. "The one-armed man's will be on the second shelf."
 
-It was. She found the widow's husband in twenty minutes of careful turning, in a hand that sloped hard to the right and spelt *Copper* with two *p*s and one *e*: a young man from the brickworks, three bouts, two lost, one won, and beside the won one, in the third column, a single word that meant *brave*. Vell copied it onto a slip for the widow in her own square hand, and Cael watched her do it and thought that there were people who would walk a long way for a slip like that.
+It was. She found the widow's husband in twenty minutes of careful turning. The hand sloped hard to the right and spelt *Copper* with two *p*s and one *e*. There was a young man from the brickworks, three bouts, two lost, one won, and beside the won one, in the third column, a single word that meant *brave*. Vell copied it onto a slip for the widow in her own square hand, and Cael watched her do it and thought that there were people who would walk a long way for a slip like that.
 
 Then she put the book back, and her hand went along the shelf below, to a row of the oldest ones, and rested there on a spine so cracked the boards hung on it by threads.
 
@@ -214,4 +214,4 @@ She looked at him for a while with the spoon in her hand. Somewhere in the front
 
 "I'll be sorry and I'll know something."
 
-"That's you all over," said Lira, and sat down across from him with her own plate, and they ate in the onion smell with the window open, not talking much, and once or twice he caught her looking at him with the face she wore at the rope when she was adding up a fighter she had never seen before.
+"That's you all over," said Lira. She sat down across from him with her own plate, and they ate in the onion smell with the window open, not talking much. Once or twice he caught her looking at him with the face she wore at the rope when she was adding up a fighter she had never seen before.

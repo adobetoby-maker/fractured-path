@@ -22,7 +22,7 @@ He laid the sheet on the bench, and struck the small gavel once.
 
 Cael heard it end and did not move.
 
-*Undefined.* He had spent three weeks with the code, and he knew exactly what the word was worth and what it was not. It was enough, for now, to have heard the Compact say it aloud.
+*Undefined.* He had spent three weeks with the code, and he knew what the word was worth and what it was not. It was enough, for now, to have heard the Compact say it aloud.
 
 The hall did not wait for him to think about it. The noise came up all round him at once, so loud and so sudden that it reached him first through the boards and the soles of his boots. It was louder than the main floor at the Ironyard on the night of the Reydan bout. He stood in the middle of it at the respondent's table with his palms on the wood and let it go past him. It did not get in yet. For one more breath he had the thing to himself.
 
@@ -30,7 +30,7 @@ Lira was first.
 
 She was across the rope before the gavel's knock had died in the beams. She did not go round by the gap, or wait for the clerk to lift the cord. She put one hand on it and vaulted, as she had gone over the barrier of every fighting yard in Ardenmere, and he saw the clerk turn with his mouth open and shut it again.
 
-Brom had not moved toward the table at all. He was still at the front bench, standing, looking across the boards at Cael, and nodding: once, and then after a long moment, once more. It was the nod Brom gave when a weight he had watched somebody struggle under for a long time came up clean off the floor at last.
+Brom had not moved toward the table at all. He was still at the front bench, standing, looking across the boards at Cael, and nodding: once, and then after a long moment, once more. It was the nod Brom gave when a weight he had watched somebody struggle under came up clean off the floor at last.
 
 Karis was still sitting. She had her notebook open on her knee and her pen was going across the page fast, and her face was wet, and she was doing nothing whatever about it. She wrote as if what was happening would get away from her if she stopped putting it down for one breath.
 
@@ -60,7 +60,7 @@ The people who did not belong to the hill left in an order he could not help not
 
 The Warden came back in by the side door when the hall was nearly bare.
 
-He came by himself. There was no aide, and there were no cases, and Cael understood with a small shock that in three weeks he had never once seen the man's hands empty. Coss did not come straight to the respondent's table. He stopped at the near end of it, where the low wall of Prynn's books still stood, and looked at the books for a moment. He put two fingers on the spine of the seventh volume of the schedule and took them away again.
+He came by himself. There was no aide, and there were no cases, and Cael understood with a small shock that in three weeks he had never once seen the man's hands empty. Coss did not come straight to the respondent's table. He stopped at the near end of it, where the low wall of Prynn's books still stood, and looked at the books. He put two fingers on the spine of the seventh volume of the schedule and took them away again.
 
 "I read the enforcement chapters through once," he said. "At the regional school, when I was younger than your provost's clerk. Nobody told me to read the schedule. It didn't occur to me." He turned. "I'd like five minutes, off the record. I'd ask the assessor of record to stand witness, if you'll allow it. I'd not like either of us to carry this away different from the other."
 
@@ -92,11 +92,11 @@ Coss took his time.
 
 "Because tonight I write the last report on you I'll ever write," he said. "It will say what happened, as it happened. I've never once put a false line into a filing, and I don't mean to begin on the evening a boy of fifteen beat me fairly." Something moved at the corner of his mouth and was gone. "You'll never read it. Nobody below the desk it goes to will read it. So I say it now, in front of her: it will be true. It's the last thing of mine you'll have. After tonight your file goes up past me, and the hand that holds it next won't stand across a table from you and give its name."
 
-He said nothing more for a moment. While he was quiet, Cael found himself believing him entirely, and found the belief harder to carry than any lie would have been. He had learned, in a borrowed office in Ardenmere and again on the worn stair in the nineteenth week, that the road out of Denvash had never needed anybody cruel to build it. It had only ever needed people like this one, doing their work well. He did not know what to do with a man like that except tell him the truth back.
+He said nothing more. In the quiet Cael believed him entirely, and the belief was harder to carry than any lie would have been. He had learned, in a borrowed office in Ardenmere and again on the worn stair in the nineteenth week, that the road out of Denvash had never needed anybody cruel to build it. It had only ever needed people like this one, doing their work well. He did not know what to do with a man like that except tell him the truth back.
 
 "Thank you," he said.
 
-"Thank the panel. Don't thank me." Coss straightened. Whatever had stood open in him for five minutes shut again, quietly, the way a good door shuts. He turned his head toward Quenna. "Assessor."
+"Thank the panel. Don't thank me." Coss straightened. Whatever had stood open in him for five minutes shut again, quietly. He turned his head toward Quenna. "Assessor."
 
 "Warden," said Quenna. "Five minutes. I counted."
 
@@ -106,7 +106,7 @@ He went out across the empty hall, past the low wall of Prynn's books, through t
 
 He gave Brom his page back at supper.
 
-The stable was louder than it had ever been, and somebody had brought a fiddle up from the town, and the tout was paying out his crust book to anybody who could prove a wager, which turned out to be almost nobody. The four of them sat at the end of the scarred table under the bricked-up hay door. Nobody came to the end of the table for a while, because Lira had looked at the room once when they sat down.
+The stable was louder than it had ever been, and somebody had brought a fiddle up from the town, and the tout was paying out his crust book to anybody who could prove a wager, which turned out to be almost nobody. The four of them sat at the end of the scarred table under the bricked-up hay door. Nobody came to the end of the table, because Lira had looked at the room once when they sat down.
 
 Cael took the folded page out of the inside pocket of his coat and laid it on the wood in front of Brom.
 
@@ -114,7 +114,7 @@ Brom looked at it.
 
 "You said if they ruled my way," said Cael. "You said you'd like it back."
 
-"I did say that." Brom did not pick it up at once. He looked at it for a while, lying there on the scarred wood with its old creases, and then he put one big finger on it and drew it toward him and unfolded it, and read it through, slowly, as he read everything, the third exchange and the floor and Vell's capitals and the line at the foot. Then he folded it again on its creases and put it in the inside pocket of his own coat and buttoned the coat over it.
+"I did say that." Brom did not pick it up at once. He looked at it lying there on the scarred wood with its old creases, and then he put one big finger on it and drew it toward him and unfolded it, and read it through, slowly, as he read everything, the third exchange and the floor and Vell's capitals and the line at the foot. Then he folded it again on its creases and put it in the inside pocket of his own coat and buttoned the coat over it.
 
 "Best thing I ever wrote," he said. "I was right about that. I've just checked."
 
@@ -142,13 +142,13 @@ It was underlined three times. He gave it back.
 
 "I saw you anyway."
 
-She considered that with her whole face, and decided it was allowed, and went off across the dark yard toward the residence wing, walking very straight.
+She considered that, and decided it was allowed, and went off across the dark yard toward the residence wing, walking very straight.
 
 ---
 
 The room over the draper's shop was small and cold, and had been let all winter to mothers.
 
-Coss had not minded that. He had found, over three weeks, that he rather liked it. It had a narrow bed with a patched counterpane somebody had sewn with care, and a washstand with a cracked jug, and a single chair, and a table under the window just wide enough for a document case and a lamp. On the wall by the door a nail held a little framed sampler worked in faded thread, the alphabet and a row of crooked birds. Some mother, some winter, had sat by this window waiting for a child to come down the hill from a Kindling, and had passed the time with a needle, and left it behind. He had looked at the birds a good many evenings.
+Coss had not minded that. Over three weeks he had come rather to like it. It had a narrow bed with a patched counterpane somebody had sewn with care, and a washstand with a cracked jug, and a single chair, and a table under the window just wide enough for a document case and a lamp. On the wall by the door a nail held a little framed sampler worked in faded thread, the alphabet and a row of crooked birds. Some mother, some winter, had sat by this window waiting for a child to come down the hill from a Kindling, and had passed the time with a needle, and left it behind. He had looked at the birds a good many evenings.
 
 From the window he could see the hill.
 
@@ -168,13 +168,13 @@ Then he wrote Greyvane.
 
 He wrote the registry hit and the records request and the bundle that came back on the last lawful hour. He wrote the regional office, and the drafting records in the basement, and the line on the daily sheet about a girl who had gone down to a station at fourteen and come back up the hill an Anchor. He wrote the challenge, and the sixth sitting, where the boy had stood up at his own election and put three marks on a post at a size he named beforehand. He wrote that it had been *entered as of its own date*, and that he had asked the assessor so, and that she had said so.
 
-He stopped there for a moment with the pen lifted.
+He stopped there.
 
-At the deposition he had come to the ignition, and the boy had said *four weeks*, and there had been a question lying on the table beside that answer, wider than the table. *Where did it come from?* He had looked straight at it and had not picked it up, because it was not his case. The provision asked what a candidate could do and nothing else. He had not picked it up since, and he did not pick it up now, at a table in a mothers' room with nobody watching. He did not know where it had come from. He had decided at the deposition that he would not know, and he found, examining himself honestly, that he was glad of it.
+At the deposition he had come to the ignition, and the boy had said *four weeks*, and there had been a question lying on the table beside that answer, wider than the table. *Where did it come from?* He had looked straight at it and had not picked it up, because it was not his case. The provision asked what a candidate could do and nothing else. He had not picked it up since, and he did not pick it up now, at a table in a mothers' room with nobody watching. He did not know where it had come from. He had decided at the deposition that he would not know, and when he examined himself honestly he was glad of it.
 
 He wrote the deposition as it had been recorded, and the nine counts, because they were on the roll.
 
-He wrote the first sitting and the second. He wrote what the respondent had argued, as exactly as he could, which was very exactly, because he had sat at the delegation's table and listened to every word of it and would be able to hear it, he suspected, for some time. He wrote the stipulation he had offered and that the panel had declined it, and why. He wrote the question the senior evaluation seat had put to him, and his answer, word for word. Then he copied the ruling in from the recorder's fair copy, which Havel had brought down to him at the sixth bell in his best clerk's hand, still smelling of new ink.
+He wrote the first sitting and the second. He wrote what the respondent had argued, as exactly as he could, which was very exactly, because he had sat at the delegation's table and listened to every word of it and would go on hearing it, he suspected. He wrote the stipulation he had offered and that the panel had declined it, and why. He wrote the question the senior evaluation seat had put to him, and his answer, word for word. Then he copied the ruling in from the recorder's fair copy, which Havel had brought down to him at the sixth bell in his best clerk's hand, still smelling of new ink.
 
 Then he came to the part a final report was for.
 
@@ -194,13 +194,13 @@ He signed it, and dated it, and sanded it, and folded it, and sealed it, and lai
 
 Then he took a second sheet, a smaller one, and wrote to his daughter, as he did every week.
 
-He wrote about the town's bad bread, which had not improved, and the cold, which had, a little. He wrote about a little framed sampler on the wall of his room with a row of crooked birds on it. He told her he would be home before the month was out. He had never once written to her about a case, not in all the years she had been old enough to read, and he did not mean to now. But at the bottom, after he had signed it, he sat with the pen over the page for some time. Then he wrote one more line.
+He wrote about the town's bad bread, which had not improved, and the cold, which had, a little. He wrote about a little framed sampler on the wall of his room with a row of crooked birds on it. He told her he would be home before the month was out. He had never once written to her about a case, not in all the years she had been old enough to read, and he did not mean to now. But at the bottom, after he had signed it, he sat with the pen over the page. Then he wrote one more line.
 
 *I lost an argument this week, and it was fairly won.*
 
 He looked at it. She would not understand it, and she would ask, and he would not answer. He drew one neat line through it, and then, after a moment, folded the letter as it was, with the line through it, and sealed it. Let her ask.
 
-He put out the lamp, and sat on in the dark for a while at the cold window, looking up at the hill, where the windows were going out one by one and the fiddle had stopped. Last of all the lamp at the back of the old building went out. That was the archive. He had never once in three weeks seen it go out before he did.
+He put out the lamp, and sat on in the dark at the cold window, looking up at the hill, where the windows were going out one by one and the fiddle had stopped. Last of all the lamp at the back of the old building went out. That was the archive. He had never once in three weeks seen it go out before he did.
 
 ---
 
@@ -208,7 +208,7 @@ He left before dawn with the aide and the cases, as he had come.
 
 The gate clerk let them out without needing to look at her list, and they went down the cart road in the dark, and at the foot of the hill they stood in the cold yard of the stage-house and waited for the coach. There was a bench along the stage-house wall under the eaves. A man was sitting on it in a grey coat, with his hands in his pockets and his hat down, and he had been sitting there, Coss judged, for some time before they came. He did not look at Coss. He did not look at anything.
 
-Coss looked at him once, the way a man looks at a tool on another man's bench, and knew the kind. He knew it was not his. Nobody had told him there would be one, and nobody would. He found he did not need telling.
+Coss looked at him once, the way a man looks at a tool on another man's bench, and knew the kind. He knew it was not his. Nobody had told him there would be one, and nobody would. He did not need telling.
 
 The coach came. He handed the aide up, and the cases, and climbed in after them, and sat with the case that held his report on his knees and both hands flat on its lid. As the coach turned out of the yard onto the road, he did not look back at the man on the bench, or up at the hill.
 

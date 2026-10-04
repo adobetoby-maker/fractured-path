@@ -2,9 +2,9 @@
 
 The list went up on the main board on the Thursday afternoon, in the magistrate's office's hand, and by the fifth bell there was a small crowd in front of it.
 
-Cael saw the crowd before he saw what it was standing in front of. He had come from the yard with his hands cold and the observation notebook under his arm, meaning to go straight down the archive passage, and he slowed at the edge of the people, who were most of them first- and second-years. They parted for him without being asked, the way people part for somebody whose name is on a thing they have been reading, and he found himself at the front, in front of the board, with Oona at his elbow.
+Cael saw the crowd before he saw what it was standing in front of. He had come from the yard with his hands cold and the observation notebook under his arm, meaning to go straight down the archive passage, and he slowed at the edge of the people, who were most of them first- and second-years. They parted for him without being asked, and he was at the front, in front of the board, with Oona at his elbow.
 
-She had been there already, with her slate under her arm and her new tag on its string, reading the list with her lips pressed tight, the way she read a chart she meant to be quizzed on.
+She had been there already, with her new tag on its string, reading the list with her lips pressed tight.
 
 *In the matter of the enrollment of the candidate on the unclassified observer track. Witnesses of fact entered for the respondent, through the academy's counsel: Edran, Glass Path, Iron Rank Two, third year. First sitting, second hour. Hobb, Stone Path, fourth year. First sitting, second hour. Witnesses of fact entered for the challenge: none. The challenge rests on documents.*
 
@@ -22,17 +22,17 @@ Gerda was at the back of the crowd, tall over the first-years, in her patched co
 
 "It means the Warden isn't calling anybody to stand up and say what they saw," said Cael. "He doesn't need anybody. Everything he's going to say is already written down."
 
-Oona considered that for some time, from every side.
+Oona considered that from every side.
 
 "Then everybody who stands up is for you," she said.
 
 "Everybody who stands up says what they saw. That's different."
 
-"I know it's different. Brom told me. That's why I'm not on it." She said it without any bitterness at all, as she would have said what Path somebody was. Then she shifted her slate into the crook of her other arm. "I'm on the front bench of the gallery. On the left, by the aisle. Gerda says the gallery may not speak, and if anybody so much as gasps the clerk can put them out."
+"I know it's different. Brom told me. That's why I'm not on it." She said it without any bitterness at all, as she would have said what Path somebody was. "I'm on the front bench of the gallery. On the left, by the aisle. Gerda says the gallery may not speak, and if anybody so much as gasps the clerk can put them out."
 
 "Can you not gasp?"
 
-"I don't gasp," said Oona, with great dignity. "I write things down."
+"I don't gasp," said Oona. "I write things down."
 
 Hobb came down the passage from the training hall with his hands in his pockets and his feet a shoulder-width apart even when he walked, and the first-years flattened themselves against the wall to let him by. He stopped behind the crowd and read the board over all their heads, without hurry, and then he looked at Cael.
 
@@ -44,7 +44,7 @@ Hobb considered the board a moment longer. "Say what I saw."
 
 "That's all anybody wants."
 
-Hobb nodded, once, as one workman nods to another, and went on down the passage toward the stable, and Oona watched him go with her whole face.
+Hobb nodded, once, as one workman nods to another, and went on down the passage toward the stable, and Oona watched him all the way to the door.
 
 "He said four words," she said. "In a row. I counted."
 
@@ -58,7 +58,7 @@ Edran came last, from the stair of the lecture wing, with his arms folded and hi
 
 "Oona checked."
 
-Edran looked down at Oona, who looked back up at him without blinking. Something in his face moved, very slightly, the way Cael had once seen it move at the rail when a gap he had not expected closed in front of him.
+Edran looked down at Oona, who looked back up at him without blinking. Something in his face moved, very slightly.
 
 "Thank you," said Edran to her, gravely. Then to Cael, more quietly, still looking at the board: "I'll say what I saw. Every sitting I watched, and the exhibition, and the match from the bench. I won't say what I think it was." He paused, and looked at the floor. "I've thought about whether I ought to say I don't know what it was. In case they ask."
 
@@ -76,7 +76,7 @@ Cael stood a moment longer in front of the board, with Oona at his elbow and the
 
 "Which face?"
 
-"The one Lira says you do when a board goes up." She tucked her slate under her arm. "I'm going to supper. You should go to the archive. Karis is down there with the old books and the clerks are getting closer. Brom says they did a whole case today." She looked up at him, very serious. "Bring her something to eat. She never does."
+"The one Lira says you do when a board goes up. I'm going to supper. You should go to the archive. Karis is down there with the old books and the clerks are getting closer. Brom says they did a whole case today." She looked up at him, very serious. "Bring her something to eat. She never does."
 
 He went down the archive passage at the eighth bell with a lamp in one hand, the notebook under his arm, and a heel of bread in his pocket that Lira had given back to him at supper without being asked.
 
@@ -86,19 +86,19 @@ The boxes were stacked inside the archive door when he came down at the eighth b
 
 He stopped and looked at them with the lamp in his hand. They were plain flat boxes of the kind a draper packs cloth in, stacked very square, the way Prynn stacked anything she had been made to let go of, with a slip of paper tucked under the string on the top of each one. He bent and read the nearest without touching it. *Founding stock, case one, shelf two. Yearbooks, eleven volumes.* Then the marks, eleven of them, in a clerk's careful hand that had plainly been asked to go slower than it liked. Then a signature, and under it, in Prynn's small dry hand, *Counted at the door.*
 
-Prynn's stool was empty and her lamp was out, because she had gone up, and the iron-banded door had been left the width of two fingers open, as it always was now. There was one lamp still burning, far down the long room at the back, against the old wall.
+Prynn's stool was empty and her lamp was out, because she had gone up, and the iron-banded door had been left a little open, as it always was now. There was one lamp still burning, far down the long room at the back, against the old wall.
 
 He went down to it between the cases. The front of the founding stock was bare already, two cases of empty shelves with the dust standing in pale oblongs where the books had been, and he did not look at them for long. Karis was at the far end, at the reading shelf of the second-to-last case, with her satchel and her long flat box of cards at her elbow and a volume open flat in front of her under the lamp. She had a stool, and there was a second stool beside it that had not been there yesterday.
 
 "I brought it down from the lecture wing," she said, without looking up. "Sit. Don't talk to me for a while."
 
-He sat, and set his lamp on the shelf next to hers, and put the observation notebook down beside it, shut. He had carried the notebook everywhere for so long that he no longer noticed it was under his arm until he put it down somewhere. Then he laid the heel of bread beside her box of cards. She did not look at it, but a little later her hand went out and took it, and she ate it without lifting her eyes from the page.
+He sat, and set his lamp on the shelf next to hers, and put the observation notebook down beside it, shut. He had carried the notebook everywhere for so long that he no longer noticed it was under his arm until he put it down somewhere. Then he laid the heel of bread beside her box of cards. She did not look at it, but a little later her hand went out and took it, and she ate it reading.
 
-He did not open the notebook, because he had nothing to open in it. He sat with his hands on his knees and watched her read, the way he had watched her for three nights at the long table, and after a while he stopped watching her and only sat, and listened to the archive.
+He did not open the notebook, because he had nothing to open in it. He sat with his hands on his knees and watched her read, as he had for three nights at the long table, and then stopped watching her and only sat, and listened to the archive.
 
 It was a different place at night with the front half emptied. There was a cold draught from somewhere he had not felt before, as if the shelves had been keeping it out, while the old wall at his back gave off the stored chill of stone. Down at the front, very faintly, he could hear the wax on the newest box creaking as it cooled.
 
-He thought about Monday, a little, and then made himself stop, because there was nothing left in Monday to think about. He thought about Coss on the far side of the chalk saying *five days* as if it were the hour. He thought about Lira saying *then that's worse*, and found he understood exactly what she meant and could not have said it any better.
+He thought about Monday, a little, and then made himself stop, because there was nothing left in Monday to think about. He thought about Coss on the far side of the chalk saying *five days*. He thought about Lira saying *then that's worse*, and understood what she meant, and could not have said it any better.
 
 Karis turned a page.
 
@@ -110,9 +110,9 @@ She turned another page.
 
 He noticed before she said anything.
 
-It was not that she stopped moving, for she stopped often, when a line wanted reading twice; it was what kind of stopped it was. Karis at work was never quite still. There was always the pen, or the paper knife, or the small movement of her lips over a number, or her eyes going back a line and forward again. This was not that: her hand had gone flat on the open page, the fingers spread, as though she were holding the book down against a wind. All of her had gone quiet at once, the eyes and the lips and the breath.
+It was not that she stopped moving, for she stopped often, when a line wanted reading twice; it was what kind of stopped it was. Karis at work was never quite still. There was always the pen, or the paper knife, or the small movement of her lips over a number, or her eyes going back a line and forward again. This was not that. Her hand lay open on the page, fingers spread, pinning it against a wind that was not there, and her eyes and lips and breath had all stopped together.
 
-He had seen her go still like that once before, in the formal yard, in the third exchange, with her fourth channel breaking under her feet, in the half a breath before she had started to laugh.
+He had seen her stop like that once before, in the formal yard, in the third exchange, with her fourth channel breaking under her feet, in the half a breath before she had started to laugh.
 
 "Cael," she said.
 
@@ -138,7 +138,7 @@ There was. Below the entry, squeezed into the space between it and the next, the
 
 *Per standardization directive, prior designation UNBOUND to be re-entered under flag SHATTERED; original terminology discontinued.*
 
-He read it a third time before he could take in what it said, and then a fourth.
+He went through it once more before any of it would go in.
 
 *SHATTERED*, in the same capitals, on the same page, set down by a pen that had come along after the crosshatched clerk, and read what the clerk wrote, and written over it what it was to be called from now on.
 
@@ -162,7 +162,7 @@ He laid the notebook open on the reading shelf beside the register, so that the 
 
 Karis looked from one to the other.
 
-She did not say anything at first. She bent close, and read his line, and read the register's, and read his again. Then she did what she did with everything: she checked it. She checked the spelling, letter by letter, with the tip of the paper knife held a hair's breadth off the paper. She checked the capitals, his and the clerk's. She checked the form of the word, whether it stood alone or had anything joined to it. She looked at the word *terminology* in his line and the word *custom* in the clerk's, and he could see her deciding that they were not the same word and did not have to be. He watched her run out of things to check, one after another, and come to the end of them, and keep looking anyway.
+She did not say anything at first. She bent close, and read his line, and read the register's, and read his again. Then she did what she did with everything: she checked it. She checked the spelling, letter by letter, with the tip of the paper knife held just off the paper. She checked the capitals, his and the clerk's. She checked the form of the word, whether it stood alone or had anything joined to it. She looked at the word *terminology* in his line and the word *custom* in the clerk's, and he could see her deciding that they were not the same word and did not have to be. He watched her run out of things to check, one after another, and come to the end of them, and keep looking anyway.
 
 "Where did you copy yours?" she said.
 
@@ -182,7 +182,7 @@ He waited, and did not help her.
 
 Neither of them said anything for a long time.
 
-He found that he did not want to know. Not yet. It was not that it didn't matter. It mattered so much that he did not trust himself anywhere near it, the way he had not trusted himself near a seam he had not tested. He had learned at a cost what happened when he reached for something large before he had the measure of it.
+He did not want to know. Not yet. It was not that it didn't matter. It mattered so much that he did not trust himself anywhere near it. He had learned at a cost what happened when he reached for something large before he had the measure of it.
 
 "I don't understand it," he said at last. "I don't think I'm meant to. Not now."
 
@@ -202,7 +202,7 @@ He copied it once, into the observation notebook, directly under his own old lin
 
 "All of it. Every word, every capital, where every line breaks." She had her first notebook open on her knee and her finger on the first word. "I'll follow in mine. Then you read it again and I'll follow in the second. Then I'll read the register and you follow in yours." She did not look up. "You're a second source now. Act like one."
 
-So he read it aloud, low, in the cold, from the register, with the lamp between them. He read the crosshatched clerk's entry and the later hand's line, word by word, and stopped at every line's end and said *break*, and she followed in her own copy with her finger and said *yes* at every break. When he had done it once he did it again, and she followed in the second notebook, and at one place she said *stop*. She found she had written *signature family* where the register said *signature families*, and struck it through with a single line and wrote it again above, and said *go on*. Then she read it from the register while he followed in the observation notebook, and he found nothing wrong in his. Then she checked his anyway, letter by letter, with the paper knife.
+So he read it aloud, low, in the cold, from the register, with the lamp between them. He read the crosshatched clerk's entry and the later hand's line, word by word, and stopped at every line's end and said *break*, and she followed in her own copy with her finger and said *yes* at every break. When he had done it once he did it again, and she followed in the second notebook, and at one place she said *stop*. She had written *signature family* where the register said *signature families*, and struck it through with a single line and wrote it again above, and said *go on*. Then she read it from the register while he followed in the observation notebook, and he found nothing wrong in his. Then she checked his anyway, letter by letter, with the paper knife.
 
 At the end of it she sat back.
 
@@ -216,7 +216,7 @@ He watched her do it and did not say anything, because they both knew what came 
 
 The stable was empty by the time they came up. The fire had burned down to a red bed at the far end and the tiles had been put away. Somebody had left a lamp on the scarred table, low, the way Lira left it when she wanted him to know she had gone up and would be cross if he sat in the dark.
 
-They sat at the end of the table under the bricked-up hay door. Karis put her two notebooks on the wood in front of her and squared them to the edge, and he put the observation notebook beside them, and for a while neither of them said anything.
+They sat at the end of the table under the bricked-up hay door. Karis put her two notebooks on the wood in front of her and squared them to the edge, and he put the observation notebook beside them, and neither of them said anything.
 
 "You should use it," said Karis.
 
@@ -236,11 +236,11 @@ She waited, with her hand still on the notebook.
 
 "You're the person who's been with me for a term. Brom won't call Oona because she loves me. You're not much better." He said it gently, and she did not argue. "That's the small reason. Here's the big one."
 
-He laid both his hands on the table, palms down, as if to hold the next part still.
+He put both palms down on the wood.
 
 "Everything I'm going to say on Monday stands on one thing. The text governs. Not what people have always done. Not what everybody's always taken a word to mean. What's written, and only what's written. Custom isn't code. That's the whole argument." He looked at her two notebooks squared on the table. "If I stand up and say, look, here's an older custom, here's what they used to call it, here's a road-house clerk who'd have written me down kindly, then I'm asking the panel to weigh a custom. Mine. And the moment I ask them to weigh one custom, I've told them customs can be weighed. I've given them the scales." He shook his head slowly. "And their custom is generations of enforcement in every district on the map, with a seal on every page. Mine is one clerk who crossed his sevens. If customs count, theirs wins. I'd be handing Coss the one thing he hasn't got."
 
-Karis sat very still, and he watched her take the argument she had brought up the passage and turn it over in her hands, the way she turned over a timing that did not agree with her notebooks. He watched her look for the place where it was wrong, and not find it. Then he watched her do the thing she always did, which he had seen her do over a hundred small defeats: stop being sorry she had lost, and start using what she had lost to.
+Karis sat very still, and he watched her take the argument she had brought up the passage and turn it over in her hands. He watched her look for the place where it was wrong, and not find it. Then he watched her do the thing she always did, which he had seen her do over a hundred small defeats: stop being sorry she had lost, and start using what she had lost to.
 
 "It has to be closed," she said slowly. "On both sides. If you bring in anything from outside their text, however true, you've opened the door, and everything outside their text can come in after it." She breathed out, long and slow. "And there's more outside their text on their side than on yours. There always will be."
 
@@ -256,7 +256,7 @@ She laughed, once, very short, and looked away at the low lamp.
 
 "I'm going to keep it." He turned the observation notebook toward himself, and opened it, and looked at the box with the two lines in it. "It was written before anything in their text. It isn't theirs to weigh, and I'm not going to carry it into their room and ask them to. When I know what it means, I'll know where it goes. I don't." He was quiet a moment. "I don't think I'm going to understand it on anybody's timetable. Not mine, and not the Compact's."
 
-Karis looked back at him across the low lamp for a long time. Then she nodded, slowly, with the nod of somebody who has argued for something and lost and finds, a little to her own surprise, that she minds losing less than she expected, and respects the reason entirely.
+Across the low lamp, Karis held his eyes. Then she nodded, slowly, with the nod of somebody who has argued for something and lost and finds, a little to her own surprise, that she minds losing less than she expected, and respects the reason entirely.
 
 "Into the notebook, then," she said.
 

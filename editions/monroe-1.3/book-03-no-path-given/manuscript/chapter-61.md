@@ -8,7 +8,7 @@ Cael had run the framework, four passes at panel speed, with Wray breaking the c
 
 Wray's line was the one she had written at every sitting since the second.
 
-"As previously recorded," she said, for the record, as if she were reading off the weather board. "No safety concerns."
+"As previously recorded," she said, for the record. "No safety concerns."
 
 While the forms went round to be stamped she leaned back in her chair, not toward him, and spoke again without lifting her voice at all.
 
@@ -48,7 +48,7 @@ He turned to the last page of the section. The line at its head had stood there 
 
 *Session nine. Could not reproduce. Still don't know what that was.*
 
-He did not reach for it. He had given that up a long time ago. Beside the line was the mark Karis had given it in the third week of the nulls, copied from her ledger in her own words. She had gone through every condition the two of them had found a fragment needed, and found not one of them had been there. *Real, unexplained, keep.* There had been no watching and no stakes, and it had come anyway, for less than a second, and never since.
+He did not reach for it. He had given that up long ago. Beside the line was the mark Karis had given it in the third week of the nulls, copied from her ledger in her own words. She had gone through every condition the two of them had found a fragment needed, and found not one of them had been there. *Real, unexplained, keep.* There had been no watching and no stakes, and it had come anyway, for less than a second, and never since.
 
 Under Karis's mark he wrote what he always came round to writing, because a whole term of trying for something better had found him nothing truer.
 
@@ -120,7 +120,7 @@ The carrier set each box down at her knees. She looked at the slip under its str
 
 Cael sat at the long table with nothing open. She had not told him to go, which was as near as Prynn came to asking anybody to stay.
 
-By the Thursday afternoon the front of the founding stock was whole again. The yearbooks and the toll books and the provisioning accounts stood back in their runs, and the pale oblongs in the dust were gone under them as if they had never been. That afternoon she was on the traveller registers.
+By the Thursday afternoon the front of the founding stock was whole again. The yearbooks and the toll books and the provisioning accounts stood back in their runs, and the pale oblongs in the dust were gone under them. That afternoon she was on the traveller registers.
 
 The box from the second cart was the fourth she had opened since the fifth bell. Its slip said *Founding stock, case eight, shelf three. Traveller registers, nine volumes.* Under that were the nine marks in a clerk's careful hand, and the clerk's name, and *Counted at the door* in Prynn's, dated a Saturday nearly three weeks gone. She looked at the slip. She broke the wax. She cut the string. She lifted the lid.
 
@@ -144,7 +144,7 @@ She went back to the door for the next box.
 
 ---
 
-He found Hobb at the rail of the defensive floor on the last free afternoon of the term, and leaned on it beside him, and for a while neither of them said anything.
+He found Hobb at the rail of the defensive floor on the last free afternoon of the term, and leaned on it beside him, and neither of them said anything.
 
 "I thanked you once," said Cael. "In the autumn, for the first two sittings. You stood at the north mark for me five times, and in a chalk square in front of a magistrate. Thank you, Hobb. For all of it."
 
@@ -166,11 +166,11 @@ Cael saw the difference from the doorway. It was the Glass stance he had learned
 
 "A rematch." Something nearly like a smile happened to Edran's mouth. "Wray says the problem I've got now is a better one than the one you found. There's one person here who can tell me whether she's right." He let the third structure go, and it broke outward in a spray of pale glitter, and he built it again. "I withdrew a petition, not a rivalry. You've been walking about all term as if one came with the other."
 
-Cael looked at the stance, and the closed seam, and the third structure standing whole on the off arm, and found that he was glad. He did not have to talk himself into it. Next term would have a real fight in it.
+Cael looked at the stance, and the closed seam, and the third structure standing whole on the off arm, and was glad. He did not have to talk himself into it. Next term would have a real fight in it.
 
 "Same terms," he said.
 
-"Good." Edran went back to his chalk. Then he stopped with his back to Cael, and spoke over his shoulder, as a man says something that costs nothing to give and a great deal to get out.
+"Good." Edran went back to his chalk. Then he stopped with his back to Cael, and spoke over his shoulder.
 
 "I'm glad it stood up," he said. "Your reading. I put my name to that petition because I was sure what the rules said, and you were standing outside them." He let the structure go again. "Then I sat in the gallery and heard somebody read the rules out from the first page, and found out I'd never once gone and looked. Everybody had only said." He built the third again, whole. "I'll look, next time. Before I file anything."
 
@@ -206,7 +206,7 @@ Nobody was going anywhere yet. Every one of them knew, all the same, which way t
 
 Below them the town's lamps were coming on along the good street. The draper's back window stayed dark.
 
-Karis said the quiet thing first, as she generally did. Quiet things had never frightened her the way they frightened the rest of them.
+Karis said the quiet thing first, as she generally did. Quiet things had never frightened her as they did the rest of them.
 
 "Greyvane took the chance on us," she said. Her eyes were on the east, with everybody else's. "Whatever comes next will have to take the argument."
 

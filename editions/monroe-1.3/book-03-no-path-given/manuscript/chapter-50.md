@@ -2,13 +2,13 @@
 
 He had drawn the ring himself, because he was early and Lira was not, and because his hands wanted something to do that was not holding nothing.
 
-It was a chalk circle on the frozen earth by the pump, eight long paces across, the way she always drew it, and he had walked its edge twice to check it and was walking it a third time when he heard somebody come out of the old building behind him. He knew the step, and did not turn round, but went on along the chalk at the same pace. The step came down the yard toward the gate, and then slowed, and then changed its line. It came instead along the outside of the ring a few paces off from him, keeping pace with him as if the two of them had arranged to walk the same way.
+It was a chalk circle on the frozen earth by the pump, eight long paces across, as she always drew it, and he had walked its edge twice to check it and was walking it a third time when he heard somebody come out of the old building behind him. He knew the step, and did not turn round, but went on along the chalk at the same pace. The step came down the yard toward the gate, and then slowed, and then changed its line. It came instead along the outside of the ring a few paces off from him, keeping pace with him as if the two of them had arranged to walk the same way.
 
 The last of the light was going, and the sky over the wall had gone the colour of a cooling iron, and the yard was empty except for the two of them and the pump.
 
 "Three weeks in the archive," said Coss. "You're going to argue the code."
 
-He did not say it as a question, and he did not say it as a man who expected an answer. He said it the way he said everything, as if he were reading a line off a sheet.
+He did not say it as a question, and he did not say it as a man who expected an answer. He said it as he said everything, with no weight on it.
 
 "You're guessing," said Cael.
 
@@ -26,7 +26,7 @@ Cael let the silence stand, since anything he said would give Coss more than the
 
 "I haven't. I won't." Coss stopped walking.
 
-Cael stopped too, though he had not meant to. The conversation had a weight that pulled at his feet, and he found himself standing on the chalk with the man a few paces off outside it, the two of them facing each other across the line in the last grey light.
+Cael stopped too, though he had not meant to. The conversation had a weight that pulled at his feet, and he was standing on the chalk with the man a few paces off outside it, the two of them facing each other across the line in the last grey light.
 
 "Do you know why?" said Coss.
 
@@ -34,9 +34,9 @@ He thought about it, because he had been asked, and because the man in front of 
 
 "Because it wouldn't help you," said Cael. "Everything you need is already in the case. If you knew what I meant to say, you'd only start answering me, and then Monday would be about me." He looked at Coss's tired face. "You've never made it about me. Not in Ardenmere, and not in Naveth's office. You make it about the paper."
 
-Coss looked at him for a long moment.
+Coss looked at him.
 
-"I've written about you every quarter for two years," he said at last, "and you've read me better than most of the people I write for." He shook his head once, slowly, the way a man shakes his head who has measured something twice and got the same figure. "But no. That's not the reason. The reason is that it would be a cheat. A legal one, and I'd be within my rights, and it would still be a cheat. The challenge is good. I built it to be good. A good case ought to be met by whatever the other side has actually got, in the room, on the day. Not by something I took off a shelf when the other side wasn't looking." He was quiet for a few paces after that. "If you'd stood behind my door with a glass to the wood for three weeks, I'd think less of you. I'd like not to give you the same reason."
+"I've written about you every quarter for two years," he said at last, "and you've read me better than most of the people I write for." He shook his head once, slowly, the way a man shakes his head who has measured something twice and got the same figure. "But no. That's not the reason. The reason is that it would be a cheat. A legal one, and I'd be within my rights, and it would still be a cheat. The challenge is good. I built it to be good. A good case ought to be met by whatever the other side has actually got, in the room, on the day. Not by something I took off a shelf when the other side wasn't looking." He was quiet for a few paces after that. "If you'd stood behind my door with a glass to the wood for three weeks, I'd have thought the worse of you. I'd like not to give you the same reason."
 
 The light was nearly gone, and in the town below the first lamps were coming on.
 
@@ -60,7 +60,7 @@ Cael thought about it, because it deserved an exact answer.
 
 "To tell me he wasn't going to cheat," he said.
 
-Lira looked at him for a long time across the chalk, with her breath going up white and her hands at her sides.
+Lira looked at him across the chalk, with her breath going up white and her hands at her sides.
 
 "Did you believe him?"
 
@@ -72,7 +72,7 @@ Lira looked at him for a long time across the chalk, with her breath going up wh
 
 Karis closed the last fascicle of the schedule a little after the eighth bell.
 
-She did it the way she did everything at the end, slowly, squaring the thin taped amendment against the edge of the table and laying it on top of the seventh volume. Then she rested both hands on the pile and sat for a while without saying anything, and Cael, across the table from her with nothing open in front of him for the third night running, did not say anything either. Prynn's lamp burned at the high desk, where Prynn was writing in the marbled book again and did not look up.
+She did it slowly, squaring the thin taped amendment against the edge of the table and laying it on top of the seventh volume. Then she rested both hands on the pile and said nothing, and Cael, across the table from her with nothing open in front of him for the third night running, said nothing either. Prynn's lamp burned at the high desk, where Prynn was writing in the marbled book again.
 
 "I've finished," said Karis.
 
@@ -92,13 +92,13 @@ He had known for five days that she would say it, and he had told himself every 
 
 "You haven't. Not the way I did." She took her hands off the pile. "I read it from the first page as if I'd never heard of you, the way I said I would. I didn't look for your word. If I'd looked for it, I'd have read with it in my head, and seen it in places it wasn't. I read every name the schedule gives and asked of each one, *what is this, and where does it live*. I wrote nothing down while I read, so I wouldn't start a list I could lean on. Then, when I'd finished every volume and every fascicle, I sat down and made my list from memory, and checked the list against the shelves afterward."
 
-She held up her hand and counted on it, one finger at a time, the way Lira counted the rumor market.
+She held up her hand and counted on it, one finger at a time.
 
 "The enumeration. The provisional annex. The appendix of disputed standings. The amendment schedules, every one, with the struck categories kept in them. The record of the categories proposed and refused, which the schedule keeps as carefully as the rest." She paused with five fingers up. "And the definitions cross-index at the back of the charter, which isn't in the schedule, but which the schedule points to, so I went there too." She folded the hand. "Everything the Compact has ever put a formal name to lives in one of those six. Some in two. Nothing lives anywhere else. Your word isn't in any of them."
 
 "Six," said Cael slowly. "I counted five. I had the refused ones as part of the amendments."
 
-"They're bound separately. In the seventh volume, at the back, after the index." She looked across the lamp at him. "It doesn't matter. It's not in the sixth either. But it means we didn't read the same way, which is the only thing that makes it worth anything that we both read it." She was quiet for a moment. "If we'd read the same way, I'd only be you again, a week later."
+"They're bound separately. In the seventh volume, at the back, after the index." She looked across the lamp at him. "It doesn't matter. It's not in the sixth either. But it means we didn't read the same way, which is the only thing that makes it worth anything that we both read it. If we'd read the same way, I'd only be you again, a week later."
 
 He sat with that while the lamp ticked.
 
@@ -124,31 +124,27 @@ She laughed, short and tired, and looked guiltily at the high desk, but Prynn di
 
 Karis came down to the archive the next morning before it was light.
 
-She had not slept much and did not mind. She had never needed much, and on the nights she needed it least she had learned not to lie in the dark arguing with herself about it. She came down the archive passage with her lamp and her satchel and the long flat box, and the iron-banded door was not locked, and she was not surprised. She went in and lit the reading lamp at the back from her own, and set the box on the end of the reading shelf in the third case, and stood for a moment with her hands round the lamp's warm glass, looking at the shelves.
+She had not slept much and did not mind; she had never needed much. She came down the archive passage with her lamp and her satchel and the long flat box, and the iron-banded door was not locked, and she was not surprised. She lit the reading lamp at the back from her own, set the box on the end of the reading shelf in the third case, and stood with her hands round the lamp's warm glass, looking at the shelves.
 
 The founding stock ran along the back of the archive in nine narrow cases, against the old grey wall. Prynn had given it to her on the first day of the three weeks with a single sentence, *It's yours by day and mine by night, and the roof's in charge of both of us*. Karis had spent fourteen days reading as much of it as one person could, and she had got perhaps a third of the way.
 
 She opened the long flat box.
 
-The cards were pasteboard, bought from the draper in bundles of a hundred and cut to the size of her palm with the penknife. She was on her fourth bundle. There was one card for every volume she had opened, and on every card the same things in the same places, because a system that changed its places was not a system. The shelf mark went in the top left, Prynn's mark, in Prynn's form. In the top right went the run the volume belonged to, yearbook or toll book or provisioning account, weather log or traveller register. Across the middle went the clerk, or clerks. The year went at the foot, in the house's own reckoning, and under that, in pencil, in a smaller hand, her conversion. In the bottom right corner was a single mark: a dot if she had read the volume through, a ring if she had only carded it, and a stroke through the ring if she meant to come back.
+The cards were pasteboard, bought from the draper in bundles of a hundred and cut to the size of her palm with the penknife. She was on her fourth bundle. There was one card for every volume she had opened, with the same things in the same places on every card, because a system that changed its places was not a system. Prynn's shelf mark went in the top left; the run in the top right, yearbook or toll book or provisioning account, weather log or traveller register; the clerk across the middle; the year at the foot, in the house's own reckoning, with her conversion under it in pencil. In the bottom right corner was a single mark: a dot if she had read the volume through, a ring if she had only carded it, and a stroke through the ring if she meant to come back.
 
-There were a great many rings with strokes through them. There would not be time to come back to most of them now.
+There were a great many rings with strokes through them, and there would not be time now to come back to most. She did not let herself mind that, either.
 
-She did not let herself mind that, either. She took the first card off the top of the stack and looked at it, and set it aside, and took the next.
-
-The waystation had kept books the way a working house on a guild road had to. It kept them for itself, every day, in good years and bad, for no reason except that a house which did not know how many sacks of oats it had would run out of oats. The yearbooks were the spine of it. There was one for every year the house had stood, each closed at its year's end with the clerk's mark, and each one numbered in the house's own years, from the first. Hung off the yearbooks were the other runs. The toll books said who paid what at the gate. The provisioning accounts counted sacks and barrels and horseshoes. A weather log had been kept daily, in one stretch, for nineteen years by the same hand, without a single day missed. And there were the traveller registers, which said who had passed through and when, and where from and where bound, and what they carried.
+The waystation had kept its books as any working house on a guild road had to: for itself, every day, in good years and bad, because a house that did not know how many sacks of oats it had would run out of oats. The yearbooks were the spine, one for every year the house had stood, each closed at its year's end with the clerk's mark and numbered in the house's own years from the first. The other runs hung off them. The toll books said who paid what at the gate. The provisioning accounts counted sacks and barrels and horseshoes. A weather log had been kept daily for nineteen years by one hand, without a day missed. And the traveller registers said who had passed through and when, where from and where bound, and what they carried.
 
 And, sometimes, what they were.
 
-Karis had learned the clerks before she had learned anything else. It had been the only way in. A run of books kept for a hundred years by a dozen hands was a dozen different books, and until she could tell the hands apart she could not tell where one stopped and the next began.
-
-So she had named them, privately, by their hands, because she had to call them something and their own names were nowhere. There was Long Tails, whose descenders ran down into the next line and tangled with its capitals. There was the Blotter, who could not lift a pen from a page without leaving a little pool, and who had kept the toll books for a generation and never once let a toll go unrecorded. There was Small Hand, who wrote so tightly that Karis had needed Prynn's glass for every page, and who had the most beautiful spelling of anybody on the shelves. And there was the third clerk of the traveller registers, the one who crossed every seven with a short bar and then crossed the bar again, so that every seven in a run of a dozen volumes wore a tiny hatched mark like a stitch.
+Karis had learned the clerks before anything else, because it was the only way in. A run of books kept for a hundred years by a dozen hands was a dozen different books, and until she could tell the hands apart she could not tell where one stopped and the next began. So she had named them, privately, by their hands, since their own names were nowhere. There was Long Tails, whose descenders ran down into the next line and tangled with its capitals. There was the Blotter, who could not lift a pen from a page without leaving a little pool, and who had kept the toll books for a generation and never once let a toll go unrecorded. There was Small Hand, who wrote so tightly that Karis had needed Prynn's glass for every page, and who had the most beautiful spelling of anybody on the shelves. And there was the third clerk of the traveller registers, the one who crossed every seven with a short bar and then crossed the bar again, so that every seven in a run of a dozen volumes wore a tiny hatched mark like a stitch.
 
 She knew the crosshatched sevens better than her own. She had spent the last four days in that hand.
 
 At the second bell the clerks came.
 
-There were two of them, young men in the delegation's grey with cases of string and wax and a stack of flat boxes not yet folded into shape, and the records officer came with them as far as the front of the founding stock and showed them where to begin. Then he walked down the long room to the back where she was, and stood at a polite distance, and said good morning to her as if she were somebody whose morning mattered.
+There were two of them, young men in the delegation's grey with string and wax and a stack of flat boxes not yet folded, and the records officer showed them where to begin at the front of the founding stock. Then he walked down the long room to her, stood at a polite distance, and said good morning to her as if she were somebody whose morning mattered.
 
 "We'll be at the front today," he said. "The yearbooks first. Tomorrow the toll books and the accounts. The traveller registers on Saturday, I'd think, at this rate." He looked at the cases behind her. "The archivist has asked for a signed line for every box, at her door. It'll go slower than they're used to."
 
@@ -160,7 +156,7 @@ There were two of them, young men in the delegation's grey with cases of string 
 
 "Then I'm sorry," he said, and seemed to mean it, and went back up the long room to his clerks.
 
-She stood a moment longer, listening to them begin. There was the dry rasp of a flat box being folded and the snap of string. A clerk said *fourteen, fifteen* under his breath, counting spines. She found that she minded that very much, more than she had expected to, and that it did not matter at all whether she minded. She went to the front of the stock, past the two clerks, to the first case, where the yearbooks began.
+She listened to them begin: the dry rasp of a flat box being folded, the snap of string, a clerk saying *fourteen, fifteen* under his breath as he counted spines. She minded that more than she had expected to, and it did not matter at all whether she minded. She went to the front of the stock, past the two clerks, to the first case, where the yearbooks began.
 
 There was something she had wanted to do since the afternoon she found the overlap, and had not let herself do because it was not the work. Now it was the last morning she would ever be able to do it.
 
@@ -168,7 +164,7 @@ There was something she had wanted to do since the afternoon she found the overl
 
 The first yearbook was the smallest volume on the founding shelves.
 
-It had been rebound once, a long time ago, in calf gone dark as a chestnut, and its first leaves were so brittle that she turned them with the flat of a paper knife and not her fingers. Its first page was not an account of anything. It was a few lines in a large, careful, unpractised hand, a hand that had plainly been chosen for the task because it was the best in the house and not because it was any good.
+It had been rebound once, long ago, in calf gone dark as a chestnut, and its first leaves were so brittle that she turned them with the flat of a paper knife and not her fingers. Its first page was not an account of anything. It was a few lines in a large, careful, unpractised hand, a hand that had plainly been chosen for the task because it was the best in the house and not because it was any good.
 
 The stones of the house laid on the road, and the roof raised. The gate hung. The first fire lit in the hall, and the first traveller lodged, a carter with two horses bound east. Then the year, written out in full, as *the first year of the house*.
 
@@ -176,11 +172,9 @@ That was all. Somebody had stood here, in a room that was now an archive, and wr
 
 She had read it on her first day on the shelves, and it had told her nothing she could use, because the first year of the house was a date in a reckoning nobody had used since the house stopped keeping books. It might have been a hundred years ago or a thousand.
 
-Then, eleven days later, in a weather log of all places, she had found the overlap.
+Eleven days later, in a weather log of all places, she had found the overlap. The weather log had been kept into the house's last years, after the guild road had gone quiet. On the last page of the last one, under the last day's weather, its clerk had written a line about the house being given over, books and stones and all, to the people who meant to make a school of it. The line was dated twice. Once it gave the house's own year, and once a year in a reckoning Karis could count back from, because the archive's oldest accession register used it too, on its very first page, in Prynn's predecessor's predecessor's hand. Prynn's register ran unbroken from that page to last week.
 
-The weather log's long nineteen-year hand had been kept into the house's last years, after the guild road had gone quiet and the house was keeping fewer books than it used to. On the last page of the last weather log, under the last day's weather, that clerk had written a line about the house being given over, its books and stones and all, to the people who meant to make a school of it. The line was dated twice. Once it gave the house's own year, and once a year in a reckoning Karis could count back from, because the archive's oldest accession register used it too, on its very first page, in Prynn's predecessor's predecessor's hand. Prynn's register ran unbroken from that page to last week.
-
-So the count went in three steps, and she could say them in order. First, the yearbooks counted the house's own years, unbroken, from the first year to the last. Next, the weather log's last line gave that last year in both reckonings at once. Then the accession register counted on from that same year, in the newer reckoning, all the way to this week. She had worked it twice, once forward and once back. She had made Prynn check the register's count without telling her why, and Prynn had checked it and said nothing.
+So the count went in three steps. The yearbooks counted the house's own years, unbroken, from the first to the last; the weather log's last line gave that last year in both reckonings at once; and the accession register counted on from it, in the newer reckoning, to this week. She had worked it twice, forward and back, and had made Prynn check the register's count without telling her why. Prynn had checked it and said nothing.
 
 She took a fresh card from her pocket now, and a pencil, and at the front of the founding stock, with the clerks folding boxes two cases away, she wrote it.
 
@@ -190,9 +184,7 @@ And under it, in pencil, in the smaller hand:
 
 *By the house's own count, carried through the weather log's last page to the accession register: about four hundred years.*
 
-She looked at it for a while.
-
-She knew exactly what it was, and she made herself say it in her head, plainly, the way she would have said it to a student who had just been handed a number and was about to do something foolish with it. It was a date. It meant the stones of this house had been laid about four hundred years ago, by the house's own reckoning, carried by its own books to now. It meant nothing else. It did not mean anything about anybody who had passed through the gate. It did not mean anything about what any of them had been, or what anybody had called them, or what anybody had called them afterward. A date was the place a fact stood. It was not the fact's reason. People who could not keep those two apart did not stay researchers for long, and the ones who did stay ruined a great many good dates.
+She knew exactly what it was, and she made herself say it in her head, plainly, as she would have said it to a student about to do something foolish with a number. It was a date. It meant the stones of this house had been laid about four hundred years ago, by the house's own reckoning, carried by its own books to now. It meant nothing else. It said nothing about anybody who had passed through the gate, or what any of them had been, or what anybody had called them then or afterward. A date was the place a fact stood. It was not the fact's reason. People who could not keep those two apart did not stay researchers for long, and the ones who did stay ruined a great many good dates.
 
 She put the card in the box with the others, in its place.
 
@@ -200,7 +192,7 @@ Then, because there was nobody to see, and because the clerks were busy counting
 
 It was very cold. It had been cold for four hundred years, by the house's own count, and it would be cold when the clerks had gone down the hill with their boxes.
 
-She stood with her hand on it and thought, for no reason she could have defended, of the paired floor at Ternhall in the early mornings. She thought of the reservoir's grey light coming in at the long windows, and of somebody across the floor from her who had always laid a point a fraction before she needed one, so that she had never once in three years reached for the place where somebody ought to be and found nobody there. She did not think of the name. She had not said it aloud since she came over the hill, and she did not mean to. It was not that kind of thought. It was only her hand on a wall, wanting the floor.
+She stood with her hand on it and thought, for no reason she could have defended, of the paired floor at Ternhall in the early mornings, the reservoir's grey light at the long windows, and somebody across the floor from her who had always laid a point a fraction before she needed one, so that she had never once in three years reached for the place where somebody ought to be and found nobody there. She did not think of the name. She had not said it aloud since she came over the hill, and she did not mean to. It was not that kind of thought. It was only her hand on a wall, wanting the floor.
 
 She took her hand away and went back to the third clerk.
 
@@ -208,11 +200,9 @@ She took her hand away and went back to the third clerk.
 
 She worked through the middle of the day without stopping, and through the fourth bell, when somebody left a bowl of barley at the end of the reading shelf and she did not see who. She ate it cold at the second-to-last case with a traveller register propped open against the shelf in front of her. It tasted like Brom.
 
-The clerks finished the yearbooks a little after the fifth bell. She heard them carry the boxes up the long room to Prynn's door, and heard Prynn's voice, dry and level, saying *count*, and a clerk counting, and Prynn saying *marks*, and a clerk reading off the shelf marks one by one, slowly, as if his tongue had not been built for them. Then there was the scratch of a pen, and Prynn saying *sign*, and another scratch. Then the next box, and *count* again. It went on for an hour. It would go on for every box. Karis listened to it at the back of the room with her pencil stopped and found that it steadied her, the way a metronome steadies a student who has lost the beat, and she went on.
+The clerks finished the yearbooks a little after the fifth bell. She heard them carry the boxes up the long room to Prynn's door, and heard Prynn's voice, dry and level, saying *count*, and a clerk counting, and Prynn saying *marks*, and a clerk reading off the shelf marks one by one, slowly. Then the scratch of a pen, and Prynn saying *sign*, and another scratch; then the next box, and *count* again. It went on for an hour, and it would go on for every box. Karis listened to it at the back of the room with her pencil stopped, and it steadied her, and she went on.
 
-The traveller registers were not all alike. That had been the first thing she learned about them, and it was still the thing she found most interesting.
-
-The early clerks wrote a traveller down in a line. Name, if given; whence; whither; goods; beasts; paid. If the traveller was a practitioner of some kind, worth an assessor's look, there might be a word added: *Stone*, *Current*, *Ash*, old words, most of them, that she had met in the schedule's oldest pages and some she had not. Then, somewhere in the third clerk's years, the lines got longer. Not every one. But the waystation had begun keeping an assessor, as the bigger houses on the bigger roads did. When a traveller came through who could do something worth writing down, the third clerk wrote down what the assessor said, in sentences: what had been shown, and how well, and what the assessor made of it, and sometimes what the assessor could not make of it. Once, in a margin, in a different ink, a year later, the third clerk had added that the assessor had been wrong about a woman who came through in the spring, and had said so himself, and asked for the line to be marked.
+The traveller registers were not all alike, and that was still the thing about them she found most interesting. The early clerks wrote a traveller down in a line. Name, if given; whence; whither; goods; beasts; paid. If the traveller was a practitioner of some kind, worth an assessor's look, there might be a word added: *Stone*, *Current*, *Ash*, old words, most of them, that she had met in the schedule's oldest pages and some she had not. Then, somewhere in the third clerk's years, the lines got longer. Not every one. But the waystation had begun keeping an assessor, as the bigger houses on the bigger roads did. When a traveller came through who could do something worth writing down, the third clerk wrote down what the assessor said, in sentences: what had been shown, and how well, and what the assessor made of it, and sometimes what the assessor could not make of it. Once, in a margin, in a different ink, a year later, the third clerk had added that the assessor had been wrong about a woman who came through in the spring, and had said so himself, and asked for the line to be marked.
 
 She had told Cael at supper that the old registers were sentences and not boxes. She had not told him how much she had come to like the third clerk. It was not a finding. It was not the kind of thing one put on a card.
 
@@ -220,8 +210,8 @@ By the seventh bell she had read four volumes of the crosshatched sevens and car
 
 She had two volumes of the third clerk left, and one more case after that, and the clerks would reach them on Saturday morning, or Friday night if they were quick and Prynn was slow, which Prynn would not be.
 
-She thought of Cael, who would come down at the eighth bell with a lamp because she had asked him to, and sit across the table from her with nothing open, as he had sat for three nights, being careful not to ask. She thought that she would like to have something to tell him that was not grain. She thought, honestly, that she would not, and that this was a shelf she had not finished, not a finding, and that she must not let herself want the next volume to be anything but what it was.
+She thought of Cael, who would come down at the eighth bell with a lamp because she had asked him to, and sit across from her with nothing open, being careful not to ask. She would like to have something to tell him that was not grain. Honestly, she did not expect to; this was a shelf she had not finished, not a finding, and she must not let herself want the next volume to be anything but what it was.
 
 She reached up to the shelf and took down the next volume of the crosshatched sevens.
 
-It was heavier than the last. She carried it to the end of the reading shelf, and set it down by her box of cards, and turned up the lamp, and opened it flat with the paper knife, and began at the top of the first page, as she always began, where the clerk had written the year.
+It was heavier than the last. She set it down by her box of cards, turned up the lamp, opened it flat with the paper knife, and began at the top of the first page, as she always began, where the clerk had written the year.

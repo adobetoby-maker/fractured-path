@@ -10,9 +10,9 @@ He started with Edran, because Edran was the obvious one and Brom distrusted obv
 
 "I had," Brom agreed.
 
-Hobb took less time. Brom found him on the defensive floor and asked him how many sittings he had stood in as the partner, and Hobb said three, and Brom asked him whether anything had been different in any of them, and Hobb thought about it for a long while and said, "Same as last time." Then, after a pause, "Three times." Brom wrote that down and thanked him, and Hobb nodded once and went back to his chalk, and Brom said afterward that it was the best testimony he had ever heard and that the magistrate would be lucky to get it.
+Hobb took less time. Brom found him on the defensive floor and asked him how many sittings he had stood in as the partner, and Hobb said three, and Brom asked him whether anything had been different in any of them, and Hobb thought about it and said, "Same as last time." Then, after a pause, "Three times." Brom wrote that down and thanked him, and Hobb nodded once and went back to his chalk, and Brom said afterward that it was the best testimony he had ever heard and that the magistrate would be lucky to get it.
 
-Gerda came to find Brom herself, which surprised him. She stopped at the end of the scarred table on the Monday evening with her coat buttoned and her hands folded, and told him in her procedure voice exactly how a witness of fact was entered. It went by name, in writing, with the hour each witness's evidence was expected, delivered to the magistrate's office through the academy's counsel no later than the day the delegation came. Every word of it was set down separately, as if she were reading a clause.
+Gerda came to find Brom herself, which surprised him. She stopped at the end of the scarred table on the Monday evening with her coat buttoned and her hands folded, and told him in her procedure voice how a witness of fact was entered. It went by name, in writing, with the hour each witness's evidence was expected, delivered to the magistrate's office through the academy's counsel no later than the day the delegation came. Every word of it was set down separately.
 
 "How do you know that?" said Brom.
 
@@ -20,7 +20,7 @@ Gerda came to find Brom herself, which surprised him. She stopped at the end of 
 
 Oona came on the Tuesday.
 
-She stood in front of Brom at the end of the stable with her slate in both arms and her new tag on its string, and said that she had been on the front bench at the fifth sitting and had seen the light under his hand, closer than the panel, and that she would say so to any magistrate who asked her.
+She stood in front of Brom at the end of the stable with her new tag on its string, and said that she had been on the front bench at the fifth sitting and had seen the light under his hand, closer than the panel, and that she would say so to any magistrate who asked her.
 
 Brom looked at her for a long time.
 
@@ -34,7 +34,7 @@ Oona's chin came up. "Why not? It's true. Nobody else will say it, because nobod
 
 "That's how it starts," said Brom.
 
-Oona looked at him with her whole serious face, and then, slowly, the corner of her mouth moved, and she looked away.
+The corner of Oona's mouth twitched, slowly, and she looked away.
 
 "A magistrate can't tell from the back of a room," said Brom, "whether somebody's saying a thing because it's so or because they'd like it to be. Not when the witness cares. So I'm only calling people who'd rather he lost and saw him anyway, or didn't care either way and saw him anyway. Edran. Hobb. People who'll stand up and be dull." He straightened. "You're not dull. You'd be the least dull thing in the room. That's why you're in the gallery."
 
@@ -44,7 +44,7 @@ Oona considered this.
 
 "I'd expect nothing less."
 
-She went off with her slate held tight, and Brom watched her go, and then looked across the table at Cael.
+She went off, and Brom watched her go, and then looked across the table at Cael.
 
 "There's something else," he said, lower. "The Warden's aide was in here at supper yesterday. The young one with the satchels. He sat with the second-years by the fire and bought the tout a heel of bread, and asked him what people said about the fifth sitting." Brom turned his cup. "He wasn't asking about the match. He was asking about the story. The one Lira's been squashing. *The observer made fire.*"
 
@@ -56,7 +56,7 @@ Cael did not say anything.
 
 On the eighth day, the Wednesday, a pea bag landed in the middle of his open page.
 
-It came through the iron-banded door in a low flat arc, the way Brom threw them along the chalk, and it sat on the enforcement digests like a small sewn stone. Prynn looked up sharply from the high desk, and Lira was in the doorway, at an hour Prynn's card on the door called *quiet study*, wearing the face of somebody who had read the card and decided it did not apply to her.
+It came through the iron-banded door in the low flat arc Brom used along the chalk, and it sat on the enforcement digests like a small sewn stone. Prynn looked up sharply from the high desk, and Lira was in the doorway, at an hour Prynn's card on the door called *quiet study*, wearing the face of somebody who had read the card and decided it did not apply to her.
 
 "Yard," she said. "There's ink on your nose. And your shoulders have crept up round your ears again."
 
@@ -78,15 +78,15 @@ She threw him the cloth off the pump for the ink, and it hit him in the chest, c
 
 He wiped his face, and stood in the cold with the cloth in his hand, and told her what he had been carrying since Brom's report at the scarred table.
 
-"The sixth sitting's tomorrow," he said. "Quenna posted it on Monday. And she posted a note under it." He had read it a dozen times; he did not need to look. *Under the charter's procedure for a challenge filed and pending, the Compact's officer of record may attend the respondent's assessment as an observer, without voice. The Warden has given notice that he will attend.* "He'll be on a bench by the wall, writing."
+"The sixth sitting's tomorrow," he said. "Quenna posted it on Monday. And she posted a note under it." He could have said it with his eyes shut. *Under the charter's procedure for a challenge filed and pending, the Compact's officer of record may attend the respondent's assessment as an observer, without voice. The Warden has given notice that he will attend.* "He'll be on a bench by the wall, writing."
 
 "I said he would be," said Lira. "In the provost's office. I'd have wagered barley on it, if Brom would ever let anybody wager barley."
 
 "I'm going to show the new one."
 
-Lira went very still.
+Lira went quiet.
 
-He had known she would. He held the cloth and waited, and she looked at him across the frozen ring for a long moment with her breath going up white, and he saw every argument she had arrive in her face one after another, and saw her set each one down in front of him to look at before she said any of them.
+He had known she would. He held the cloth and waited, and she looked at him across the frozen ring with her breath going up white, and he saw every argument she had arrive in her face one after another, and saw her set each one down in front of him to look at before she said any of them.
 
 "Show enough to pass," she said at last. "Bank everything that matters. That's been the rule since the first sitting. That's the rule that's kept you on that track for twenty weeks."
 
@@ -100,7 +100,7 @@ Lira said nothing.
 
 "If it's on the record, it's small," he said. "It's a thing with a size, that does the same thing three times when I say it will, at contact, with a rest between. Consistent, observable practice. That's all the provision has ever asked of me. It asks what I can do. It doesn't ask where any of it came from. It never has." He turned the cloth over in his hands. "Wray told me before the match. Nothing should be spent that doesn't have to be. Spend it on purpose. I think this is on purpose."
 
-Lira looked at the ring for a long time, at the chalk circles from the last night's lattice still faintly showing under the frost.
+Lira looked at the ring, at the chalk circles from the last night's lattice still faintly showing under the frost.
 
 "You've thought about the cost," she said. "Not the bill. The other cost."
 
@@ -110,7 +110,7 @@ Lira looked at the ring for a long time, at the chalk circles from the last nigh
 
 "This isn't an answer to that."
 
-"No," said Lira. "It isn't." She was quiet for a while. "It's the other half of it, maybe. Doing it exactly as much as you said, and not one hair more, with him watching." She bent and picked up the coil of rope from where she had dropped it by the pump, and began to wind it. "Tell Quenna before. Tonight. Not at the chalk."
+"No," said Lira. "It isn't. It's the other half of it, maybe. Doing it exactly as much as you said, and not one hair more, with him watching." She bent and picked up the coil of rope from where she had dropped it by the pump, and began to wind it. "Tell Quenna before. Tonight. Not at the chalk."
 
 "Before."
 
@@ -134,13 +134,13 @@ Something moved at the corner of Quenna's mouth, and was gone.
 
 The sixth sitting was in the training hall, as the first two had been, with the six sections swept back to their pale ghosts and a single ring laid fresh at the centre, and three chairs at the far end on their chalk ticks.
 
-The benches along the wall were full, which they had not been for a closed session since the autumn. The notice on the main board had brought the whole school to wonder what a sitting looked like with a man from the Compact at the back of it, and the clerk had let in as many as the benches would hold and then shut the door. Quenna sat in the middle chair with her slate. Wray was on her left in the brown coat. The rota had given the right-hand chair to the broad-faced woman from the movement floor who had sat the second sitting, pleasant and unhurried, with her pointer laid across her knees, and Cael found that he was glad of her, and could not have said why.
+The benches along the wall were full, which they had not been for a closed session since the autumn. The notice on the main board had brought the whole school to wonder what a sitting looked like with a man from the Compact at the back of it, and the clerk had let in as many as the benches would hold and then shut the door. Quenna sat in the middle chair with her slate. Wray was on her left in the brown coat. The rota had given the right-hand chair to the broad-faced woman from the movement floor who had sat the second sitting, pleasant and unhurried, with her pointer laid across her knees, and Cael was glad of her, and could not have said why.
 
-Coss sat on the end of the last bench by the wall, with his aide beside him and a document case open on his knee, a pen in his hand and a clean sheet on the case. He looked exactly as he had looked in the provost's office: patient, tidy, in no hurry, wholly attentive. He did not look round at the benches or up at the high windows. He looked at the ring.
+Coss sat on the end of the last bench by the wall, with his aide beside him and a document case open on his knee, a pen in his hand and a clean sheet on the case. He looked as he had looked in the provost's office: patient, tidy, in no hurry, wholly attentive. He did not look round at the benches or up at the high windows. He looked at the ring.
 
 Hobb was at the north mark with his feet a shoulder-width apart and his hands loose. When Cael came to the south mark Hobb looked at him once, and it was the workman's look again, the one that said they had done this job before and would do it properly.
 
-"For the record," said Quenna, and the hall went flat and slow. "Demonstration assessment, unclassified observer track. Sixth sitting. Present: the presiding assessor, the instructor's seat, the rotating faculty seat. Present also, under the charter's procedure, the Compact's officer of record, as an observer without voice." She did not look up from her slate. "The candidate demonstrates at his own election. Begin when you choose."
+"For the record," said Quenna, and the hall went flat and slow. "Demonstration assessment, unclassified observer track. Sixth sitting. Present: the presiding assessor, the instructor's seat, the rotating faculty seat. Present also, under the charter's procedure, the Compact's officer of record, as an observer without voice. The candidate demonstrates at his own election. Begin when you choose."
 
 He showed the framework, four passes at panel speed, and Wray broke the count on the third as she always did, and he read Hobb's hips through the broken rhythm as easily as through the steady one. He showed the read, four calls at two paces, the last with his eyes shut, and Hobb's weight went where Cael said it would go every time, and on the fourth Hobb did not try to change his mind halfway, which Cael understood was a courtesy. It was exactly what he had shown five times before. He had built it to be.
 
@@ -154,7 +154,7 @@ The procedure allowed the question at any sitting. In five sittings Quenna had n
 
 The person who had stood up sat down again.
 
-"The candidate will state what he elects to show," said Quenna, in exactly the voice she used for everything else on the record, "and the panel will take note before he begins."
+"The candidate will state what he elects to show," said Quenna, in the voice she used for everything else on the record, "and the panel will take note before he begins."
 
 "An ignition at contact," said Cael. "On the training post. A point the width of my thumbnail, where my palm rests. Three times, the same size each time, with a rest between of about a hundred count. It needs the rest." He heard his own voice in the high hall, level, ordinary, the voice of a candidate describing a footwork pattern. "The post should stand in sand. There should be a bucket."
 
@@ -176,11 +176,11 @@ At a hundred and two the warmth came back. He laid his palm on the post a hand's
 
 The second ring was the same size as the first.
 
-Hobb sanded it. The cold came. Cael counted. At the end of the count he laid his palm a hand's width further along the oak and did it a third time, and lifted his hand, and the third ring sat beside the other two on the grey wood, all three the width of a thumbnail, all three black at the centre and brown at the edge, as alike as three coins from the same mould.
+Hobb sanded it. The cold came. Cael counted. At the end of the count he laid his palm a little further along the oak and did it a third time, and lifted his hand, and the third ring sat beside the other two on the grey wood, all three the width of a thumbnail, all three black at the centre and brown at the edge, as alike as three coins from the same mould.
 
 He stood up. His right hand was grey to the second knuckle. He put it in his pocket.
 
-The rotating seat leaned forward on her chair, with her pointer across her knees, and looked at the post for a long moment.
+The rotating seat leaned forward on her chair, with her pointer across her knees, and looked at the post.
 
 "The panel may ask questions of the candidate at its discretion," said Quenna.
 
@@ -198,7 +198,7 @@ She looked at the post again.
 
 "One at a time. Then the rest. Then one more."
 
-The woman nodded slowly, as people nod who have taught a Path for a long time and have just been given a fact about one they had not met before, and sat back, and wrote.
+The woman nodded slowly, and sat back, and wrote.
 
 The panel conferred at the chairs, low and brief. Wray spoke first, without any change in her voice.
 
@@ -240,7 +240,7 @@ The stable was louder at the midday meal than it had been since the match, and t
 
 Karis had her notebook shut beside her bowl and her hands folded on top of it, and she had been quiet since the hall.
 
-"It's on the record as a thing with a size," she said. "That's the best place for a thing to be, if it has to be anywhere." She turned her cup round. "I said in my consent that if it worked, the documentation mattered. I meant my documentation. I didn't think about yours." She looked at him. "Quenna's sentence is better than anything I'd have written. There's nothing in it to pull on."
+"It's on the record as a thing with a size," she said. "That's the best place for a thing to be, if it has to be anywhere. I said in my consent that if it worked, the documentation mattered. I meant my documentation. I didn't think about yours." She looked at him. "Quenna's sentence is better than anything I'd have written. There's nothing in it to pull on."
 
 "Coss stopped writing," said Cael. "At the end. Before the last line."
 
@@ -250,17 +250,17 @@ Edran came past the end of the table on his way to the hatch with his bowl, and 
 
 "Three of three," he said, without looking at anybody. "Same size. If they ask me, that's what I saw." He went on to the hatch.
 
-Oona was waiting by the stable door when they went out, with her slate under her arm and her tag polished. She had been on the front bench of the near wall; he had seen her there out of the corner of his eye without letting himself look.
+Oona was waiting by the stable door when they went out, with her tag polished. She had been on the front bench of the near wall; he had seen her there out of the corner of his eye without letting himself look.
 
-"It's written down now," she said to him. "In the record. Three times." Her chin came up. "Nobody on my landing can say I didn't know where to look."
+"It's written down now," she said to him. "In the record. Three times. Nobody on my landing can say I didn't know where to look."
 
 "Nobody can."
 
-"Good," said Oona. She wrote something on her slate and underlined it twice, and for once she turned the slate round and showed him. It said *THREE OF THREE. I SAW THE FIRST ONE.* Then she tucked it under her arm and went off toward the lecture wing, walking very straight.
+"Good," said Oona. She wrote something on her slate and underlined it twice, and for once she turned the slate round and showed him. It said *THREE OF THREE. I SAW THE FIRST ONE.* Then she went off toward the lecture wing, walking very straight.
 
 ---
 
-On the tenth day, the Friday, he opened the observation notebook at a clean page and wrote *OUTLINE* across the top, and underlined it, and then sat for a long time with the pen lifted.
+On the tenth day, the Friday, he opened the observation notebook at a clean page and wrote *OUTLINE* across the top, and underlined it, and sat with the pen lifted.
 
 The first thing he wrote under it was a fallback.
 
@@ -288,7 +288,7 @@ Then he went back to the fourth shelf of the second case for the rest of the enf
 
 It held four.
 
-He took two days over them, every sheet, and set them down in the observation notebook one line apiece, the way he set down a bout: who, when, what was done, how long it took.
+He took two days over them, every sheet, and set them down in the observation notebook one line apiece, as he would set down a bout: who, when, what was done, how long it took.
 
 *I. The oldest in the digests. Flagged at a Kindling. Order of removal, unopposed. Nine days.*
 
@@ -326,7 +326,7 @@ He went on writing.
 
 ---
 
-Karis came to the archive on the Saturday evening, after her own day on the founding shelves, with dust on her cuffs and a lamp in one hand and nothing at all in the other. She stood at his shoulder for a while without speaking, reading what he had open on the table, which was the schedule.
+Karis came to the archive on the Saturday evening, after her own day on the founding shelves, with dust on her cuffs and a lamp in one hand and nothing at all in the other. She stood at his shoulder without speaking, reading what he had open on the table, which was the schedule.
 
 "May I?" she said at last.
 
@@ -338,7 +338,7 @@ He moved the volume a little toward her.
 
 "Then it'll take me a week." She drew her lamp nearer. "The founding shelves are mine in the day. This is mine in the evenings. I don't need much sleep. I never have." She did not look up from the page. "It isn't the argument, before you say it. It's a second reading. That's a different thing. Any finding worth having has two."
 
-He sat and watched her read for a while, her pen lying capped beside the book, her lips moving very slightly on the clause numbers, her whole attention gone into the page as it went into a point in its last third of a breath. Then he went back to his outline. They worked side by side at the long table without speaking until Prynn's lamp at the high desk had burned down to its last finger of oil. She did not put it out.
+He sat and watched her read, her pen lying capped beside the book, her lips moving very slightly on the clause numbers, her whole attention gone into the page. Then he went back to his outline. They worked side by side at the long table without speaking until Prynn's lamp at the high desk had burned down to its last finger of oil. She did not put it out.
 
 ---
 
@@ -352,7 +352,7 @@ He wrote the log that night at the desk by the window, with the observation note
 
 *K. is reading the schedule from the beginning, in the evenings, as if she'd never heard of me.*
 
-He looked at that for a while, and then turned to a clean page, and wrote in the hand he kept for the things that mattered.
+Then he turned to a clean page and wrote.
 
 *The code is architecture. Architecture has seams. I've spent the better part of two years learning where the joins are in things that have them: a fighter's stance, a Path's timing, and now a system's rules about what it may do to people. It's the same work. The difference is that nobody limps away from it.*
 

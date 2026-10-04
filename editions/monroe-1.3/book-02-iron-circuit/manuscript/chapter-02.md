@@ -1,8 +1,8 @@
 # Chapter 2 — The Ladder
 
-By the middle of the next morning the thigh had gone from an ache to a colour, and the colour was purple going on green, and he limped down the market steps on it with the particular dignity of someone who has decided not to limp and is limping anyway.
+By the middle of the next morning the thigh had gone from an ache to a colour, and the colour was purple going on green. He limped down the market steps on it with the particular dignity of someone who has decided not to limp and is limping anyway.
 
-The fruit woman saw him from the bottom step. She sat where she always sat, behind her baskets at the foot of the stairs, with her hands folded in her lap and her eyes on the far end of the row, and she did not look at him as he came down, which was how he knew she had seen. In a year he had never once heard her name. She gave short weight to anyone who called her *auntie* and full weight to everyone else, and she had told him once, in a cold week, that a person who wanted her name could earn it by buying apricots for forty years.
+The fruit woman saw him from the bottom step. She sat where she always sat, behind her baskets at the foot of the stairs, with her hands folded in her lap and her eyes on the far end of the row. She did not look at him as he came down, which was how he knew she had seen. In a year he had never once heard her name. She gave short weight to anyone who called her *auntie* and full weight to everyone else. She had told him once, in a cold week, that a person who wanted her name could earn it by buying apricots for forty years.
 
 "Pears," said Cael, and pointed, because pointing was what she liked.
 
@@ -22,7 +22,7 @@ He went up the row eating a pear and thinking about that. It was the kind of thi
 
 At the top of the row Red Cap was selling chalk.
 
-He was selling it out of a cloth bag at a copper a stick, to the fighters who drew their own plans on the Ironyard's floor before a bout, and to the bookmakers, and to anybody else who looked as if they might want to write on something. Where the chalk came from was a question Cael had decided not to ask. Red Cap saw him and held up a stick and said "For you, two," which was a joke, and Cael bought one for one, which was the answer to it, and Red Cap grinned with the gap in his teeth and said that the whole of the east lanes had the fifth exchange off by heart already, and half of them had it wrong.
+He was selling it out of a cloth bag at a copper a stick. He sold it to the fighters who drew their own plans on the Ironyard's floor before a bout, and to the bookmakers, and to anybody else who looked as if they might want to write on something. Where the chalk came from was a question Cael had decided not to ask. Red Cap saw him and held up a stick and said "For you, two," which was a joke, and Cael bought one for one, which was the answer to it, and Red Cap grinned with the gap in his teeth and said that the whole of the east lanes had the fifth exchange off by heart already, and half of them had it wrong.
 
 "Which half?"
 
@@ -32,7 +32,7 @@ He was selling it out of a cloth bag at a copper a stick, to the fighters who dr
 
 "I'll tell them less," said Red Cap, satisfied, and went off up the lane shouting *chalk*.
 
-Cael turned the stick over in his fingers as he walked, and turned something else over with it. It was a question he had carried for months without spending, the way he carried most of his questions now. He had learned that a question asked before he had done his own looking bought a worse answer than the same question asked after, because the person answering could tell how much work you had done and pitched the answer to match.
+Cael turned the stick over in his fingers as he walked, and turned something else over with it. It was a question he had carried for months without spending, the way he carried most of his questions now. He had learned that a question asked before he had done his own looking bought a worse answer than the same question asked after. The person answering could tell how much work you had done and pitched the answer to match.
 
 He had done the looking. He could have drawn the ladder from memory on a slate. A newcomer went into Vell's book as *unrated*, with nothing after it, though they came with a cart full of honours. After two bouts under her eye they became *Assessed*, and she put a metal beside the word, and never after one bout, in all the year he had watched. Above that came the rungs proper, and the rungs wore the Compact's own names with a tail tied on, *Copper-equivalent* and *Iron-equivalent* and *Bronze-equivalent*, and stopped there, because anyone who could climb past Bronze-equivalent was being paid better by somebody with a roof that did not leak.
 
@@ -40,7 +40,7 @@ The joint he could not see was the one between the two systems. Her rungs said *
 
 ---
 
-He asked her in the slack hour after noon, when the main floor was empty but for the sweeper and the lamps were out and the light came down grey and level from the high windows along the north wall.
+He asked her in the slack hour after noon. The main floor was empty but for the sweeper, the lamps were out, and the light came down grey and level from the high windows along the north wall.
 
 "Where does your *Copper* get fastened to theirs?"
 
@@ -66,7 +66,7 @@ She took down this year's book, the one she had written his line in the night be
 
 "Then the string was bad somewhere. A link I thought was sound wasn't." Vell turned further back, through a year and then another, until she came to a page with a short red line ruled under a name, and a date beside it, and two letters, *t.f.*, in her square hand. Below it, every line that hung from that name had the same: the red rule, the date, the two letters. There were nine of them. "When a link rots, I go back to it and come down the chain, and every line that hangs off it gets corrected. Every one. And then I find each of them and tell them, standing in front of them, what I've done and why." She tapped the letters. "*Told, face.* I don't change a figure in a book they'll never read and hope they won't notice."
 
-He looked down the column of red rules and small letters, and tried to imagine nine people, one after another, being told by a grey-haired woman with a cup of tea that they had been Iron-equivalent for a year by mistake.
+He looked down the column of red rules and small letters. He tried to imagine nine people, one after another, being told by a grey-haired woman with a cup of tea that they had been Iron-equivalent for a year by mistake.
 
 "How often?"
 
@@ -116,9 +116,9 @@ Dace caught him by the elbow before he had gone ten steps and steered him toward
 
 "She's had you an hour," said Dace. "Now you can see the part that actually keeps the roof up."
 
-Dace was a narrow man of fifty or so with chalk dust in the creases of both cuffs and a pencil behind his ear that Cael had never once seen him write with. He did everything quickly and said what he meant. If you wanted him in the Ironyard you looked for him in front of the slate wall by the big door, where he could usually be found with his head on one side, frowning at it as if it owed him money.
+Dace was a narrow man of fifty or so with chalk dust in the creases of both cuffs and a pencil behind his ear that Cael had never once seen him write with. He did everything quickly and said what he meant. If you wanted him in the Ironyard, you looked in front of the slate wall by the big door. He could usually be found there with his head on one side, frowning at it as if it owed him money.
 
-The wall was black slate from the floor to above a tall man's reach, and it was covered from end to end in chalk: names in white, cards in columns, and over and among the names a scatter of small marks that Cael had seen every day for months without ever knowing what they meant. There were little rings. There were dots. There were short crosses between pairs of names, like stitches.
+The wall was black slate from the floor to above a tall man's reach. It was covered from end to end in chalk: names in white, cards in columns, and over and among the names a scatter of small marks that Cael had seen every day for months without ever knowing what they meant. There were little rings. There were dots. There were short crosses between pairs of names, like stitches.
 
 "Tell me what you think they are," said Dace, "and I'll tell you when you're cold."
 
@@ -154,7 +154,7 @@ Dace gave the slot to the brother he owed, and promised her the next card, and s
 
 "Get two more and call it a habit." He took the pencil from behind his ear and turned it over and put it back. "Vell's told me about your rule of three. I'll give you one of mine for nothing, since you're here. This board answers to the people on those benches, and to nobody else. Not a guild, not a district office, not a man in a grey coat with a pin. If the Compact wants to know who fights in Ardenmere, it can pay at the door and sit on a bench and find out the slow way, like everybody else has to."
 
-He said it lightly, but Cael had seen the corner of Dace's desk through the door of the little room where the door money was counted. On it, under a lump of slag from the old foundry that served as a paperweight, there was a letter on thick cream paper with a printed head, and it was the third such letter Cael had seen there in a year. He had never seen one answered. He had seen one used, on a wet evening in the spring, to light the lamp over the north benches when the spills ran out.
+He said it lightly, but Cael had seen the corner of Dace's desk through the door of the little room where the door money was counted. On it, under a lump of slag from the old foundry that served as a paperweight, there was a letter on thick cream paper with a printed head. It was the third such letter Cael had seen there in a year. He had never seen one answered. He had seen one used, on a wet evening in the spring, to light the lamp over the north benches when the spills ran out.
 
 "They write to you," he said.
 
@@ -164,7 +164,7 @@ He said it lightly, but Cael had seen the corner of Dace's desk through the door
 
 Stedd lost that afternoon, in the second bout of a thin card, and Cael learned more from the way he did it than from anything Vell had said all day.
 
-He was a Copper washout of forty or so, soft in the middle and slow on his feet, with a bald patch he made no effort to cover and a laugh like a barrow on cobbles. He had not won in Vell's book since before Cael first walked down the hill. He fought a young Force practitioner who was too quick for him from the first exchange, and he went down in the third with his breath knocked out of him, and lay on the stone a moment looking at the beams. Then he got up, slowly, the old way, a hand and a knee and the back last. He shook the young one's hand. And then, without dusting himself off, he walked straight to Vell's table and stood in front of it.
+He was a Copper washout of forty or so, soft in the middle and slow on his feet, with a bald patch he made no effort to cover and a laugh like a barrow on cobbles. He had not won in Vell's book since before Cael first walked down the hill. He fought a young Force practitioner who was too quick for him from the first exchange. He went down in the third with his breath knocked out of him, and lay on the stone a moment looking at the beams. Then he got up, slowly, the old way, a hand and a knee and the back last. He shook the young one's hand. And then, without dusting himself off, he walked straight to Vell's table and stood in front of it.
 
 "Fair," said Stedd.
 

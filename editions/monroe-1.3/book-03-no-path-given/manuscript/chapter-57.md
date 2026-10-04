@@ -80,7 +80,7 @@ He did not reach for any of the books yet.
 
 "I read the code the way I'd read anybody I had to fight," he said. "Not for what each part can do to me. For what each part is standing on." He held his left hand out flat, palm down, at the height of his chest, and set his right hand flat beneath it. "The Compact's powers over a practitioner are all in the enforcement chapters: every sanction, every order, every removal. But the enforcement chapters can only make you answer for an obligation, and the obligations only fall on you once you've been classified. So the powers rest on the obligations, and the obligations rest on classification." He lowered the left hand onto the right, and then moved both down to the table. "And classification rests on one sentence. One. In the whole of the code there's only one place that says what the word means, and it's the first article of the charter. If you want to know how far the Compact can reach, there's no point starting with the enforcement chapters, where the reaching is. You start at the foot of it."
 
-He drew the first volume of the charter out of the low wall of books by its spine, as he had practised it, and opened it at the first article after the preamble, and laid his finger on the line.
+He drew the first volume of the charter out of the low wall of books by its spine, as Karis had made him do eleven times, and opened it at the first article after the preamble, and laid his finger on the line.
 
 He read it slowly.
 

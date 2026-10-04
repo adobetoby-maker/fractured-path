@@ -52,7 +52,7 @@ He had been thinking about it since Brom's bench, and he had an answer, and he t
 
 "Who they were hiding from," he said. "It was never us. They didn't care whether I knew. All that care about not being seen was for other people, in case somebody asked what the Compact wanted with a boy in a market." He looked at the man by the well, who was looking at nothing. "Nobody needs to ask that now. It's on a public record, with a ruling on the bottom. They're not watching a boy. They're watching a hole in their own schedule, and anybody who wants to can read why." He took a bite of the apple; it was sour and very cold. "Openness is cheaper," he said, "once the watching is defensible."
 
-Lira looked at him sideways for a long moment.
+Lira looked at him sideways.
 
 "You've been saving that one," she said.
 
@@ -76,7 +76,7 @@ He closed the binder, and before he put out the lamp he looked down the hill. Th
 
 Naveth had re-papered the enrollment before the lamps were lit on the day of the ruling.
 
-Cael did not learn it until the Wednesday, when the clerk at the main hall pinned a single short notice to the board below the hearing notice, which had not yet been taken down. It said, in the clerk's small even hand, that the enrollment of the candidate on the observer track stood on the academy's own authority over its rolls, under the panel's remand, as entered by the provost on the twenty-second week. That was all. It cited the remand and the academy's charter and nothing else whatever, and by the time Cael had read it twice Karis was at his elbow with a fair copy of the full entry, which she had got from the provost's clerk by asking for it in writing.
+Cael did not learn it until the Wednesday, when the clerk at the main hall pinned a single short notice to the board below the hearing notice, which had not yet been taken down. It said, in the clerk's small even hand, that the enrollment of the candidate on the observer track stood on the academy's own authority over its rolls, under the panel's remand, as entered by the provost on the twenty-second week. That was all. It cited the remand and the academy's charter and nothing else whatever, and by the time Cael had finished reading it Karis was at his elbow with a fair copy of the full entry, which she had got from the provost's clerk by asking for it in writing.
 
 "It's aggressively boring," she said, handing it to him. "I read it three times looking for anything interesting in it and there isn't a single word. It's exactly the right register. That paper must never be interesting again, as long as it lives."
 
@@ -86,7 +86,7 @@ Cael did not learn it until the Wednesday, when the clerk at the main hall pinne
 
 The clerk had more to be proud of by the end of the week.
 
-Letters came up the hill on every coach, every one of them addressed to the provost. The provost's clerk had taken to calling them *adjudication-adjacent*, in the hearing of half the stable, as if they were a weather that had settled in. Registry offices wrote asking for the transcript. Any of them could have sent for it through its own channel without troubling Greyvane at all; they wanted Greyvane to know they had it open on a desk. Two academies wrote, one from the coast and one Cael had never heard of, asking with great care and no apparent interest at all how the demonstration sittings were run. A guild's legal office wrote a letter so wrapped round in qualifications that Karis, reading the fair copy the clerk let her see, said it was the first letter she had ever read that cancelled itself out by the last line. It asked whether the academy expected to be heard again on the matter.
+Letters came up the hill on every coach, every one of them addressed to the provost. The provost's clerk had taken to calling them *adjudication-adjacent*, in the hearing of half the stable. Registry offices wrote asking for the transcript. Any of them could have sent for it through its own channel without troubling Greyvane at all; they wanted Greyvane to know they had it open on a desk. Two academies wrote, one from the coast and one Cael had never heard of, asking with great care and no apparent interest at all how the demonstration sittings were run. A guild's legal office wrote a letter so wrapped round in qualifications that Karis, reading the fair copy the clerk let her see, said it was the first letter she had ever read that cancelled itself out by the last line. It asked whether the academy expected to be heard again on the matter.
 
 Naveth answered every one of them. He answered each of them on the last day the regulations allowed for an answer, and not one day before. Cael, hearing it secondhand from the clerk, from Karis, from the tout, who had somehow got hold of the count, understood that the provost had been given his own art back.
 
@@ -134,21 +134,21 @@ Brom had stopped writing his column.
 
 "No." There was no disappointment in it. She said true things that way. "I've found where it ought to be. That's not nothing. It's also not a finding. And most of what I'd need to look in went down the hill a week ago in fifty-three boxes with grey string round them." She closed the old notebook. "It's not this term's problem. It's next year's, if we're careful. We'll be careful."
 
-Lira had been looking at the four of them from the bench by the door. She looked at the record and the notebooks and the bare cases at the back, with the party going on faintly up in the residence wing without them. Something in her face had gone soft in the way it went soft only for this one arrangement of people.
+Lira had been looking at the four of them from the bench by the door. She looked at the record and the notebooks and the bare cases at the back, with the party going on faintly up in the residence wing without them. Her face had gone soft, which it did for nobody but this table.
 
 "You know what you are now," she said to Cael. "You're the most famous clerical error on the continent."
 
 "Naveth will be proud."
 
-"Naveth," said Brom, without looking up from his column, "is under his desk."
+"Naveth," said Brom, who had gone back to writing his column, "is under his desk."
 
 "He re-papered you before supper," said Karis, and the corner of her mouth finally gave way. "I checked. He's under the desk and proud at the same time. They aren't opposites. I've been both all week."
 
 ---
 
-Lira let Karis off her promise on the Monday of the twenty-third week, at the scarred table after supper, and she did it the way she did most things that mattered, without any warning at all.
+Lira let Karis off her promise on the Monday of the twenty-third week, at the scarred table after supper, and she did it as she did most things that mattered, without any warning at all.
 
-The stable had emptied toward the fire, where somebody's older sister was reading the second-years a ghost story with all the frightening parts left in. The four of them were at the end of the table under the bricked-up hay door, and Cael had the binder open in front of him, writing the day. He did not cover it. He had stopped covering it at this table a long time ago. Karis sat across from him reading her narrow brown notebook, and he saw her eyes go once to the binder and away, as they had gone to it once before at a breakfast in the seventeenth week, and as they had not gone to it since.
+The stable had emptied toward the fire, where somebody's older sister was reading the second-years a ghost story with all the frightening parts left in. The four of them were at the end of the table under the bricked-up hay door, and Cael had the binder open in front of him, writing the day. He did not cover it. He had stopped covering it at this table long ago. Karis sat across from him reading her narrow brown notebook, and he saw her eyes go once to the binder and away, as they had gone to it once before at a breakfast in the seventeenth week, and as they had not gone to it since.
 
 Lira put her cup down.
 
@@ -168,7 +168,7 @@ She said it formally, the way she had asked his leave in the archive on the firs
 
 "Yes," said Cael.
 
-He did not have to think about it. He had thought about it, on and off, for a good many weeks, and he found when the question came that the thinking had all been done already somewhere he had not been watching.
+He did not have to think about it. He had thought about it, on and off, for a good many weeks, and when the question came the thinking had all been done already, somewhere he had not been watching.
 
 Brom, at the end of the table, had his number sheet half out of his coat.
 
@@ -184,7 +184,7 @@ He wrote his initial where she had left the space.
 
 Cael turned the binder round on the table, and slid it across the scarred wood to her, and took his hands away.
 
-She did not read it all that night. She read it at the table, slowly, from the front, with the lamp pulled close and her hand flat beside the page and never on it. The three of them sat with her and did not talk. She read the first pages from Denvash. She read Lira's section and Brom's, and stopped for a while at Brom's, and Brom looked at the fire. Then she came to the pocket at the back of the binder. She drew out what was hers in it, one sheet at a time, from among the papers that proved things, and laid each one on the table in the order it came. There was her own consent in her own hand with Quenna's initials in the margin. There was her paragraph with its scraped-out ghost of a sentence, and the page she had cut out of her own ledger with the penknife. Last came a loose sheet dated the Sunday before the hearing: the second copy of her finding about him, two sentences in her small closed hand, which she had pushed across the archive table that afternoon and told him to put somewhere she would never know.
+She did not read it all that night. She read it at the table, slowly, from the front, with the lamp pulled close and her hand flat beside the page and never on it. The three of them sat with her and did not talk. She read the first pages from Denvash. She read Lira's section and Brom's, and stopped at Brom's, and Brom looked at the fire. Then she came to the pocket at the back of the binder. She drew out what was hers in it, one sheet at a time, from among the papers that proved things, and laid each one on the table in the order it came. There was her own consent in her own hand with Quenna's initials in the margin. There was her paragraph with its scraped-out ghost of a sentence, and the page she had cut out of her own ledger with the penknife. Last came a loose sheet dated the Sunday before the hearing: the second copy of her finding about him, two sentences in her small closed hand, which she had pushed across the archive table that afternoon and told him to put somewhere she would never know.
 
 She looked at that one for a long time.
 
@@ -220,7 +220,7 @@ The candle that was not lit and then was. He took his hand away. A ring the widt
 
 At ninety-three the warmth came back, creeping in from the edges of the cold place.
 
-He chose the lentil next. It was harder to choose than to make; he had never asked the fragment for anything that small and it was like trying to hold a single grain of sand between finger and thumb. He held it, and laid his palm on a clean place, and asked, and let go. When he lifted his hand there was a black speck on the oak no bigger than a seed, and a thread of smoke going up from it as thin as a hair, and no flame at all. It went out by itself before Brom could reach it.
+He chose the lentil next. It was harder to choose than to make; he had never asked the fragment for anything that small and it was like trying to hold a single grain of sand between finger and thumb. He held it, and laid his palm on a clean place, and asked, and let go. When he lifted his hand there was a black speck on the oak no bigger than a seed, and a thread of smoke going up from it, and no flame at all. It went out by itself before Brom could reach it.
 
 Then the cold.
 
@@ -238,7 +238,7 @@ Then the cold. The same cold. The same depth, the same grey, the same stair.
 
 Nobody answered her. She was not really talking to any of them.
 
-"Mine costs by the size and the holding," said Karis slowly. "A bigger point costs more. A point held longer costs more, and the bill comes at the end, when I let go. Yours doesn't. A seed costs you what a coin costs you. Exactly what. The count comes back at the same place every time, near enough." She came forward and knelt by the post and looked at the three marks with her face a hand's width from the wood. "So you're not paying for the fire. The fire's the wood's; I said that the first day. And you're not paying for the size. You're paying for something that's the same every time, whatever size you choose."
+"Mine costs by the size and the holding," said Karis slowly. "A bigger point costs more. A point held longer costs more, and the bill comes at the end, when I let go. Yours doesn't. A seed costs you what a coin costs you. Exactly what. The count comes back at the same place every time, near enough." She came forward and knelt by the post and bent close over the three marks. "So you're not paying for the fire. The fire's the wood's; I said that the first day. And you're not paying for the size. You're paying for something that's the same every time, whatever size you choose."
 
 "The letting-go," said Cael.
 

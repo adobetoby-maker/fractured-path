@@ -4,7 +4,7 @@ The Ironyard before the sweepers came was a different building from the one he f
 
 At night, with the fourteen lamps lit and three hundred people breathing in it, it was close and warm and loud, and the low ceiling seemed to sit on everybody's head. At first light it was cold, and the lamps were dark on their chains, and the only light came grey through the high north windows and lay on the stone in long pale bars. The stone itself looked older in that light. You could see the marks of whatever had stood on it when it was a foundry floor, the round worn places and the long scars, before anybody had thought of fighting on it at all.
 
-Lira was there before him. She had chalked a cross on the floor of the alcove, a stride out from the straw post, and she was standing beside it with her staff across her shoulders and her hands hooked over it, like a farmer with a yoke.
+Lira was there before him. She had chalked a cross on the floor of the alcove, a stride out from the straw post, and was standing beside it with her staff across her shoulders and her hands hooked over it, like a farmer with a yoke.
 
 "You land there," she said. "Every time. I want to be able to tell the difference between you landing somewhere new and you landing badly. I'll come from wherever I like."
 
@@ -22,7 +22,7 @@ She took the staff off her shoulders and turned it once in her hands, and went b
 
 "Go when you like," said Lira.
 
-He went from the far side of the alcove, at a run, the way he would come off a feint in a bout, and dropped his left hip and held his breath and let the floor go short, and was on the chalk cross, and locked.
+He went from the far side of the alcove, at a run, the way he would come off a feint in a bout. He dropped his left hip and held his breath and let the floor go short, and was on the chalk cross, and locked.
 
 She was already moving. She had started before he left the ground, because she knew where the cross was, and the staff came round at his collarbone on a long flat line, and he stood on the chalk and watched it come the whole way. He saw her back foot turn and her weight go over it. He saw her shoulder roll into the line. He saw the end of the staff, quite clearly, with a nick in it from some morning years ago, and knew to the width of a finger where it would land.
 
@@ -32,7 +32,7 @@ She was already moving. She had started before he left the ground, because she k
 
 "That's what we're here for."
 
-The second time she came from his right, low, at the ribs. He landed. He locked. He watched the staff come round under his guard and could have drawn its path on a slate. It hit him in the side where Darrow had built his long bruise in the spring, which had healed months ago and seemed nonetheless to remember being asked, and Lira's voice said "*one-and-two-and*," and on the second *and* he could move again.
+The second time she came from his right, low, at the ribs. He landed. He locked. He watched the staff come round under his guard and could have drawn its path on a slate. It hit him in the side where Darrow had built his long bruise in the spring, which had healed months ago and seemed nonetheless to remember being asked. Lira's voice said "*one-and-two-and*," and on the second *and* he could move again.
 
 He stood with his hand on his side and breathed. So much for the baseline. It was what he had expected: the lock came, it held, it let go at the same place in her count, and while it held he could see everything and do nothing.
 
@@ -58,13 +58,13 @@ He came off the far wall and dropped and went and held his breath and came down 
 
 And locked, exactly as hard, with his knees bent.
 
-It was worse, if anything. A man locked upright could at least be hit standing. A man locked with his knees bent was a man in a chair with no chair under him. Lira's staff came across at his shoulder and he watched it come from a crouch and could do nothing about it, and it knocked him half round, and he heard her say "*two-and*" from what seemed a long way off, and then he was free and sitting down on the stone.
+It was worse, if anything. A man locked upright could at least be hit standing. A man locked with his knees bent was a man in a chair with no chair under him. Lira's staff came across at his shoulder and he watched it come from a crouch and could do nothing about it. It knocked him half round, and he heard her say "*two-and*" from what seemed a long way off, and then he was free and sitting down on the stone.
 
 "Three," said Lira. "Same."
 
 He got up. "Four. Shorter."
 
-That was the second idea. If the lock was the end of the burst, then a shorter burst ended sooner, and if it ended sooner, perhaps he would be through the lock and out of it before the staff could finish its trip. He took the run again and dropped and went, and this time he cut the burst off early, threw his weight down before the floor had finished going short, so that he landed a long pace in front of the chalk instead of on it.
+That was the second idea. If the lock was the end of the burst, then a shorter burst ended sooner, and if it ended sooner, perhaps he would be through the lock and out of it before the staff could finish its trip. He took the run again and dropped and went, and this time he cut the burst off early. He threw his weight down before the floor had finished going short, so that he landed a long pace in front of the chalk instead of on it.
 
 Lira's staff went through the air behind him, where the chalk was, and touched nothing.
 
@@ -82,7 +82,7 @@ He looked. He had cut the burst short, and so he had not gone as far, and so he 
 
 Breath was the third idea, and the one he had least hope for and most curiosity about. The burst would not go on a moving breath; he held it in, every time, half a lungful. Perhaps the lock was only the breath catching up, and if he let it out as he landed, instead of after, he would let the lock out with it.
 
-He landed and let his breath go in a long rush, and the lock did not care. He stood on the chalk with his lungs empty and his body as fixed as a post driven into a riverbed, and Lira hit him across the back of the shoulders, not as hard as before, and he could not even grunt, because there was nothing in him to grunt with. On the second *and* he folded over and pulled in air like a man coming up out of a pond.
+He landed and let his breath go in a long rush, and the lock did not care. He stood on the chalk with his lungs empty and his body as fixed as a post driven into a riverbed. Lira hit him across the back of the shoulders, not as hard as before, and he could not even grunt, because there was nothing in him to grunt with. On the second *and* he folded over and pulled in air like a man coming up out of a pond.
 
 "That was stupid," he said, when he could.
 
@@ -90,7 +90,7 @@ He landed and let his breath go in a long rush, and the lock did not care. He st
 
 "Six. The other foot."
 
-It was the last of the ideas he had brought with him. The lock held him rooted to both feet; but if, in the air, he set his weight a little more onto his right foot than his left, perhaps when the lock let go he would be already leaning, already half moved, and could push off it the instant it opened instead of a beat after.
+It was the last of the ideas he had brought with him. The lock held him rooted to both feet. But if, in the air, he set his weight a little more onto his right foot than his left, perhaps when the lock let go he would be already leaning, already half moved, and could push off it the instant it opened instead of a beat after.
 
 He did. He came down onto the chalk with his weight on the right, and the lock took him, and held him, leaning, exactly as it had held him standing and crouching and empty of breath. And Lira, who had watched him lean, came in on his left, where the weight was not, and put the end of the staff into the outside of his left hip, where the burst had been charging him rent since the spring. The hip went white. On the second *and* he fell over sideways onto the stone, because the lean had nowhere left to go.
 
@@ -150,11 +150,13 @@ On the second *and* he went down onto one knee and stayed there.
 
 "Do you?"
 
-He did not answer that. He got up, slowly, and his head went light, and the alcove tipped a little and came back. He went to the far wall for the ninth because he did not know what else to do, and came off it, and dropped, and went; and somewhere in the burst his tired legs did not quite agree with his hip about where they were going. He came down crooked, half off the chalk, with his weight already toppling, and the lock caught him in the act of falling and held him there, tipped, like a picture of a boy falling over.
+He did not answer that. He got up, slowly, and his head went light, and the alcove tipped a little and came back. He went to the far wall for the ninth because he did not know what else to do. He came off it at a run, and dropped his left hip, and held his breath, and nothing happened.
+
+The floor stayed the floor. There was no loosening and no going short; there was only a tired boy running at a chalk cross with his weight thrown sideways for a burst that had not come. His legs tried to catch up with the idea and could not. He went down crooked, half off the chalk, in an ordinary mortal stumble, with no lock to hold him up and nothing to stop him.
 
 Lira had been coming. He saw the staff start. He saw her see him, and see what shape he was in, and take the strike back out of the air as though she had caught a cup knocked off a table.
 
-The lock let go and he fell over properly.
+He hit the stone on his shoulder and rolled onto his back.
 
 "I don't hit people who are already on their way down," said Lira, standing over him. "There's no news in it. You knew how that one ended before I did."
 
@@ -162,11 +164,11 @@ He lay on his back on the stone with his arm over his eyes.
 
 ---
 
-"That's nine," she said after a while.
+"That's nine tries," she said after a while. "Eight that came, and one that didn't."
 
 She had sat down on the floor beside him, with her back against the straw post and her knees up and the staff across them. She did not say anything else, and she did not offer to help him up, and he understood that she was waiting.
 
-"Nine in an hour," he said from under his arm. "I've never spent nine in a day."
+"Eight in an hour," he said from under his arm. "And the ninth wouldn't come at all. I've never spent eight in a day."
 
 "No."
 
@@ -176,13 +178,13 @@ She had sat down on the floor beside him, with her back against the straw post a
 
 He took his arm off his eyes and looked at her.
 
-"Five of those were you trying to make it shorter," she said, "and it didn't get shorter, and you knew by the third one it wouldn't, and you did two more anyway because you'd come with five ideas and you didn't want to waste any. The seventh made me laugh, which I'll give you. The ninth was your legs telling you something." She looked at him steadily. "I'll do the tenth. I'll do it as hard as the first. But not so you can lie on the floor afterward with a tenth bruise and a tenth *same length*. Tell me what it's for, and I'll give it you."
+"Five of those were you trying to make it shorter," she said, "and it didn't get shorter, and you knew by the third one it wouldn't, and you did two more anyway because you'd come with five ideas and you didn't want to waste any. The seventh made me laugh, which I'll give you. The ninth didn't even come. That was your body telling you something." She looked at him steadily. "I'll do the tenth. I'll do it as hard as the first. But not so you can lie on the floor afterward with a tenth bruise and a tenth *same length*. Tell me what it's for, and I'll give it you."
 
 He lay there and thought about it, because she had asked it properly.
 
-He had been asking the half-breath one question all morning, and all month, and if he was honest, all the time since she had first told him it was there. *How do I get out of you?* He had asked it nine ways now, and eight times it had given him the same answer, counted aloud in Lira's breath, and the ninth time it had not needed to.
+He had been asking the half-breath one question all morning, and all month, and if he was honest, all the time since she had first told him it was there. *How do I get out of you?* He had asked it nine ways now, and eight times it had given him the same answer, counted aloud in Lira's breath, and the ninth time there had been no burst to ask it with.
 
-But there was a thing he had said himself, after the first trial, which he had not listened to. *I could see the nick in your staff.* He had seen everything. Every time, from the first, while he stood there unable to move a finger, he had seen her back foot turn and her weight cross it and her shoulder come into line and the staff come round, all of it, whole, with nothing in the way. Nothing in the way, because there was nothing for him to do. No choice to make. No feint to watch for. No flinch. In half a breath of being a post, there was nothing in him at all except eyes.
+But there was a thing he had said himself, after the first trial, which he had not listened to. *I could see the nick in your staff.* He had seen everything. Every time, from the first, while he stood there unable to move a finger, he had seen her back foot turn and her weight cross it. He had seen her shoulder come into line and the staff come round, all of it, whole, with nothing in the way. Nothing in the way, because there was nothing for him to do. No choice to make. No feint to watch for. No flinch. In half a breath of being a post, there was nothing in him at all except eyes.
 
 He had been treating the lock like a cell he was shut in. It was also the only seat in the building with a perfect view.
 
@@ -200,13 +202,13 @@ She got up. She went back to her three paces and set herself in the heavy stance
 
 He went. The floor went short. He landed on the chalk and the lock took him.
 
-And this time he did not want to be out of it. He let it hold him, and he gave it his eyes, and nothing else. He watched her back foot turn on the stone and knew from the angle of it which way she would come. He watched her weight go over the foot and knew how hard. He watched her shoulder roll and saw the line, a long one, right hand leading, the end of the staff travelling for the point of his left shoulder at a height and an angle he could put a number on. He put a number on it. *That one I can stand.* He paid for it in his head before it arrived, accepted it, set it down as spent. And then, with the rest of the half-breath, he looked past the strike to what came after it: her right arm at full stretch, her weight gone forward past her lead foot, and the recovery, the little step back she always took after a big swing, which he had watched her take four hundred times.
+And this time he did not want to be out of it. He let it hold him, and he gave it his eyes, and nothing else. He watched her back foot turn on the stone and knew from the angle of it which way she would come. He watched her weight go over the foot and knew how hard. He watched her shoulder roll and saw the line, a long one, right hand leading, the end of the staff travelling for the point of his left shoulder at a height and an angle he could put a number on. He put a number on it. *That one I can stand.* He paid for it in his head before it arrived, accepted it, set it down as spent. And then, with the rest of the half-breath, he looked past the strike to what came after it. Her right arm would be at full stretch, her weight gone forward past her lead foot, and then would come the recovery, the little step back she always took after a big swing, which he had watched her take four hundred times.
 
 He loaded the answer. He did not move; he could not move. But he put everything in order, the way you set out tools on a bench before you start, so that the hand does not have to look for them.
 
 On the second *and* the lock let go, and he was already going.
 
-The staff took him on the point of the shoulder, full weight, an honest hit, and it turned him a quarter round. And in the same moment, inside the turn, his left hand was on her wrist where her arm was still at full stretch, and his right was at her elbow, and her recovery step, the one he had watched four hundred times, came back onto a foot that he had put his own foot beside. She went off balance. She grabbed his coat. The two of them went round together, staggering, half a turn on the chalk, holding on to each other, and stopped, panting, with the staff pinned between them and her wrist still in his hand and nobody, quite, on top.
+The staff took him on the point of the shoulder, full weight, an honest hit, and it turned him a quarter round. And in the same moment, inside the turn, his left hand was on her wrist where her arm was still at full stretch, and his right was at her elbow. Her recovery step, the one he had watched four hundred times, came back onto a foot that he had put his own foot beside. She went off balance. She grabbed his coat. The two of them went round together, staggering, half a turn on the chalk, holding on to each other, and stopped, panting, with the staff pinned between them and her wrist still in his hand and nobody, quite, on top.
 
 They stood there. Her eyes were very wide.
 
@@ -232,7 +234,7 @@ He sat down on the stone, because his legs had decided, and she sat down beside 
 
 He paid for it all the next day, and most of the day after.
 
-He woke before light with the hollow behind his breastbone grown into something he could almost hold, a cold weight of nothing that sat on his chest like a cat. His breath kept stopping by itself halfway in. His left hip had set in the night into a single long line of ache from the crest of the bone to the inside of the knee, so that he went down the stairs one at a time with his hand on the wall. The collarbone had a mark on it the shape of a staff end. The shoulder would not lift above the level of his ear.
+He woke before light with the hollow behind his breastbone grown into something he could almost hold, a cold weight of nothing that sat on his chest like a cat. His breath kept stopping by itself halfway in. His left hip had set in the night into a single long line of ache from the crest of the bone to the inside of the knee. He went down the stairs one at a time with his hand on the wall. The collarbone had a mark on it the shape of a staff end. The shoulder would not lift above the level of his ear.
 
 Lira took one look at him at the bottom of the stairs and sent him back up them.
 
@@ -240,7 +242,7 @@ Lira took one look at him at the bottom of the stairs and sent him back up them.
 
 He lay down and looked at the ceiling.
 
-He had not known, until that day, how much of him was the bursts. He had thought of them as a thing he did with his hip, as a man thinks of whistling as a thing he does with his mouth; but the hollow behind his breastbone did not feel like the hip, or the breath. It felt like the place he went to when the floor went short, the dark place behind the bone where the notices came, and it felt as though he had gone to it too often in too short a time and worn a hole in the floor of it. By the middle of the afternoon he could not have called the burst if his life had hung on it. He knew, without trying, that it was not there to call. It would come back. He was nearly sure it would come back. He lay on his bed and was nearly sure for several hours.
+He had not known, until that day, how much of him was the bursts. He had thought of them as a thing he did with his hip, as a man thinks of whistling as a thing he does with his mouth. But the hollow behind his breastbone did not feel like the hip, or the breath. It felt like the place he went to when the floor went short, the dark place behind the bone where the notices came. It felt as though he had gone to it too often in too short a time and worn a hole in the floor of it. By the middle of the afternoon he could not have called the burst if his life had hung on it. He knew, without trying, that it was not there to call. It would come back. He was nearly sure it would come back. He lay on his bed and was nearly sure for several hours.
 
 In the late afternoon the heavyset man knocked on the open door, which he had never done before, and stood in it holding a letter out at arm's length, as if it might go off.
 
@@ -270,7 +272,7 @@ He read it twice, and then he lay with it on his chest, on top of the cold weigh
 
 *You take it off the part that stays put.*
 
-He had found that out yesterday, on his back on a stone floor, at the cost of nine bursts and six hits and a lip. Hesk had known it all along, from a lifetime of housings, and had sent it over the hills in a letter that had been on the road for days, so that it arrived the afternoon after Cael had paid for it himself. He did not mind. It was a strange kind of comfort to have paid full price for a thing and then find it written down, word for word, in a hand he loved.
+He had found that out yesterday, on his back on a stone floor, at the cost of nine bursts and six hits and a lip. Hesk had known it all along, from a lifetime of housings, and had sent it over the hills in a letter that had been on the road for days. It had arrived the afternoon after Cael had paid for it himself. He did not mind. It was a strange kind of comfort to have paid full price for a thing and then find it written down, word for word, in a hand he loved.
 
 Through the open door between the rooms he heard Lira come in, and drop her staff in the corner, and stop.
 

@@ -2,15 +2,15 @@
 
 There was a page near the middle of the grey book that had no fighters on it at all.
 
-He had started it in the old Log, in his first autumn, after a man in a grey coat with a pin in his collar had walked the market one afternoon from end to end asking about lodgers without papers. When the old Log filled, the page had come across into the new book with everything else that was still alive, and it had grown. At the top, in capitals, it said *OFFICIALS*. Under that it was a list, kept in the same three columns as everything else, of what he had seen of the Compact in Ardenmere with his own eyes, and what he had only been told, with a small *h* beside each of those.
+He had started it in the old Log, in his first autumn, after a man in a grey coat with a pin in his collar had walked the market one afternoon from end to end asking about lodgers without papers. When the old Log filled, the page had come across into the new book with everything else that was still alive, and it had grown. At the top, in capitals, it said *OFFICIALS*. Under that it was a list, kept in the same three columns as everything else, of what he had seen of the Compact in Ardenmere with his own eyes. Under the seen things went what he had only been told, with a small *h* beside each of those.
 
 There was the pin man, and the dark coat off the west cart who had asked for him by his whole name. There was Coss, who had sat across a pie from him and told him about a daughter. There was the woman Ilsev, at a table, with a little black book with a strap. And under them, as the months went on, there were the sweeps.
 
-They had come through the district a few times a season when he first arrived, and nobody had paid them much mind. Then, half a year ago, they had begun to come more often, and nobody in the district could say why, and everybody in the district had an opinion. He had written down the dates. Some months there were three. One month there had been five. He had looked at the column of dates for a long time one evening and then made himself stop looking, because there was a thing he wanted to write beside it and he had no evidence for it at all, and a thing with no evidence did not go on the page, however loud it was in his head.
+They had come through the district a few times a season when he first arrived, and nobody had paid them much mind. Then, half a year ago, they had begun to come more often, and nobody in the district could say why, and everybody in the district had an opinion. He had written down the dates. Some months there were three. One month there had been five. He had looked at the column of dates for a long time one evening and then made himself stop looking. There was a thing he wanted to write beside it and he had no evidence for it at all, and a thing with no evidence did not go on the page, however loud it was in his head.
 
 What did go on the page was how they moved. *Always two. One of them writes. Better boots on the one who doesn't. Mid-morning, never early, never late.* He had seen four sweeps whole, from start to finish, and parts of several more, and each one had walked the district as if it were following a line painted on the cobbles that only the officers could see.
 
-It was a quiet morning when the fifth came. He and Lira were in their alcove at the north end of the Ironyard, the one with the straw post in its corner that she had brought down from the Cinder House on a borrowed handcart, with its grey canvas and its chalk columns and Red Cap's fist still printed in the straw at the height of a small boy's shoulder. They were doing slow work, because of the thigh. She would come at him at half speed with the staff, and he would move his feet, and she would tell him which of his feet had been wrong, which was usually both.
+It was a quiet morning when the fifth came. He and Lira were in their alcove at the north end of the Ironyard. The straw post stood in its corner; she had brought it down from the Cinder House on a borrowed handcart, with its grey canvas and its chalk columns and Red Cap's fist still printed in the straw at the height of a small boy's shoulder. They were doing slow work, because of the thigh. She would come at him at half speed with the staff, and he would move his feet, and she would tell him which of his feet had been wrong, which was usually both.
 
 Red Cap came in at the big door at a run, saw them, and stopped running, which was how Cael knew before he said anything.
 
@@ -20,7 +20,7 @@ He came across the floor at a walk. He was very bad at walking when he wanted to
 
 "Just now. Coming up the tannery lane." He was already turning to go, because he had other people to tell. "Pie boy's gone for Dace."
 
-Lira looked at Cael. She did not say anything. She did not need to; they had talked about this, in the abstract, a dozen times, in the evenings with the door open between their rooms, and she had always said the same thing, which was that the worst thing he could do on a sweep morning was look like a person who had something to do on a sweep morning.
+Lira looked at Cael. She did not say anything. She did not need to; they had talked about this, in the abstract, a dozen times, in the evenings with the door open between their rooms. She had always said the same thing: the worst thing he could do on a sweep morning was look like a person who had something to do on a sweep morning.
 
 "I'm going to watch," he said.
 
@@ -52,7 +52,7 @@ Then the two coats came round the corner by the well, and he saw why. Half a str
 
 The officers walked side by side, at the same steady pace, as if they were measuring the street. Both wore the long grey coat with the collar pin, a little silver mark that caught the light. The one on the left was younger and thinner and carried a flat leather case in his left hand and a pencil in his right. The one on the right was older and walked half a pace slower and carried nothing at all, and his boots were better. Cael looked at the boots first, because the boots told you which of two officials you had to watch; the one with good boots did not take notes, because somebody took them for him.
 
-They came down the row. The left-hand one looked at each stall as they passed it, and sometimes wrote, and once asked the bearded cousin a question Cael could not hear, and the bearded cousin answered it with his whole face, shaking his head and pointing back at the river as if it were the river's fault. The right-hand one looked at nothing in particular, and therefore at everything.
+They came down the row. The left-hand one looked at each stall as they passed it, and sometimes wrote, and once asked the bearded cousin a question Cael could not hear. The bearded cousin answered it with his whole face, shaking his head and pointing back at the river as if it were the river's fault. The right-hand one looked at nothing in particular, and therefore at everything.
 
 When they reached the bottom of the steps, the right-hand one's eyes passed over the fruit woman, and her baskets, and the boy beside her eating pears.
 
@@ -70,9 +70,9 @@ He passed her the pears, and she ate one, and he got up and went the other way, 
 
 He knew where they were going next because they always went there next.
 
-That was the strangest thing on the officials page, and the most useful. Every sweep he had ever seen had walked the same road: in at the river gate, up the tannery lane, down the market row, along to the three notice boards at the triangle where they read every card and every notice and wrote some of them down, and then across to the boarding-house row behind the Ironyard, where most of the district's fighters lived, and then out by the north gate. The road never changed. It did not change when the north gate was half blocked by a brewer's dray, or when the market row was flooded with a burst gutter; the officers simply walked through the dray's horses and the flood. The road had been written down somewhere, by someone in a room a long way from Ardenmere, and the people who walked it did not know there were four better streets.
+That was the strangest thing on the officials page, and the most useful. Every sweep he had ever seen had walked the same road: in at the river gate, up the tannery lane, down the market row, along to the three notice boards at the triangle where they read every card and every notice and wrote some of them down. Then they went across to the boarding-house row behind the Ironyard, where most of the district's fighters lived, and out by the north gate. The road never changed. It did not change when the north gate was half blocked by a brewer's dray, or when the market row was flooded with a burst gutter; the officers simply walked through the dray's horses and the flood. The road had been written down somewhere, by someone in a room a long way from Ardenmere, and the people who walked it did not know there were four better streets.
 
-So he went home by the back lanes and got there first, and went up the narrow stairs to the two back rooms, and did not go to the window at the back. He went to the small window on the landing at the front, which looked down the length of the row from the end. He had found it in his first week in the house and had sat there with his book a hundred evenings since, so that if anybody looked up from the row they would see what they always saw, which was a boy on a landing with a book.
+So he went home by the back lanes and got there first, and went up the narrow stairs to the two back rooms, and did not go to the window at the back. He went to the small window on the landing at the front, which looked down the length of the row from the end. He had found it in his first week in the house and had sat there with his book a hundred evenings since. If anybody looked up from the row, they would see what they always saw, which was a boy on a landing with a book.
 
 The heavyset man was on his front step, as he always was. He had his arms folded on his chest and his hat pushed back. He was watching the end of the row with exactly the face he used for weather.
 
@@ -82,21 +82,23 @@ They worked down the row house by house. At each door they stopped, and knocked,
 
 Then they were at his step, and the heavyset man unfolded his arms.
 
-Cael could not hear what was said. He did not try to; he kept his eyes on the page in front of him and let the edges of his sight do the work, as he did at the rope when he wanted to watch a fighter without the fighter knowing it. The heavyset man went in and came out again with the lodgers' book, which lived on a shelf inside the door, and held it out open. The young officer took it. He turned one page back, and ran his pencil down it, line by line, and Cael knew to the line where his own name was, because he had signed it there himself on the day they moved in: *C. Hesk-ward, back first floor, two rooms with L.*
+Cael could not hear what was said. He did not try to. He kept his eyes on the page in front of him and let the edges of his sight do the work, as he did at the rope when he wanted to watch a fighter without the fighter knowing it. The heavyset man went in and came out again with the lodgers' book, which lived on a shelf inside the door, and held it out open. The young officer took it. He turned one page back, and ran his pencil down it, line by line, and Cael knew to the line where his own name was, because he had signed it there himself on the day they moved in: *C. Hesk-ward, back first floor, two rooms with L.*
+
+Everything he had was on that page. If the pencil stopped at his line, the heavyset man would be asked questions he could not answer, and a landlord who has been asked questions about a lodger once does not want to be asked them twice. If they knocked and took him for a talk at the district office, he would miss the card, and a fighter who missed a card without a reason found his name rubbed off Dace's wall. Two rooms, a door between them that stood open by day, a name at the start of a line in Vell's book: all of it hung, this minute, on the speed of one man's pencil.
 
 The pencil went down the page at the same speed all the way. It did not slow. It did not stop at his name, or at Lira's, or at anybody's. It reached the bottom of the page and the young officer gave the book back.
 
-The one with good boots said something to the heavyset man. The heavyset man answered with three words and a shrug. Then the two coats went on to the next door, and the heavyset man stood on his step with the book under his arm and watched them all the way to the far end of the row, and only when they had turned the corner toward the north gate did he go inside.
+The one with good boots said something to the heavyset man. The heavyset man answered with three words and a shrug. Then the two coats went on to the next door, and the heavyset man stood on his step with the book under his arm and watched them all the way to the far end of the row. Only when they had turned the corner toward the north gate did he go inside.
 
 Cael sat on the landing with the book open on his knee and found he had read the same line eleven times.
 
-He had not hidden. That was the thing he kept turning over. He had been exactly where the lodgers' book said he lived, on the morning the procedure came to read the lodgers' book, and the procedure had read it and gone away satisfied, because everything was where a procedure would expect it to be. If he had been anywhere else, if he had run to the cooper's roof or the river or the far end of the district, there would have been an empty room behind a name in a book, and an empty room was a question. A boy on a landing with a book was not a question. A boy on a landing with a book was nothing at all.
+He had not hidden. That was the thing he kept turning over. He had been exactly where the lodgers' book said he lived, on the morning the procedure came to read the lodgers' book, and the procedure had read it and gone away satisfied, because everything was where a procedure would expect it to be. Suppose he had been anywhere else: on the cooper's roof, or by the river, or at the far end of the district. Then there would have been an empty room behind a name in a book, and an empty room was a question. A boy on a landing with a book was not a question. A boy on a landing with a book was nothing at all.
 
 ---
 
 When he came down the hill to the Ironyard, an hour after the coats had gone out through the north gate, the slate wall by the big door was black from end to end.
 
-Not a name on it. Not a ring or a dot or a stitch. Somebody had wiped it with a wet cloth and then with a dry one, so that it shone, and the only mark left on the whole wall was a long pale smear near the bottom where a hand had leaned while the cloth went round.
+Not a name on it. Not a ring or a dot or a stitch. Somebody had wiped it with a wet cloth and then with a dry one, so that it shone. The only mark left on the whole wall was a long pale smear near the bottom where a hand had leaned while the cloth went round.
 
 Dace was standing in front of it with a stick of chalk in each hand.
 
@@ -126,7 +128,7 @@ Dace looked at him sidelong, as if deciding whether the question was worth the b
 
 "Faces," he said. "I can't keep a list in my head any better than you can. Nobody can. But I can keep a room." He nodded at the benches, empty now in the grey light from the high windows. "The Shield boy told me about his mother's mangle sitting on the third bench from the barrel, with his elbows on his knees, looking at the floor because he was ashamed of it. So I put the ring on the wall, and I put the ring on him, on that bench, in my head. When I want it back, I go and look at the bench." He shrugged. "The whole wall's in this room somewhere, if you know where people sat when they told you things. I've been sitting people down on those benches for twelve years."
 
-Cael looked at the empty benches and tried to see it, and could not. Then for a moment he could: the Stone woman with her wrapped wrist on the near end of the second row, and the two brothers who were never, he realised, on the same side of the floor at once, and their mother between them with her apples. It went again almost at once. But he had seen it, and he understood that the slate was only where Dace kept the copy.
+Cael looked at the empty benches and tried to see it, and could not. Then for a moment he could. There was the Stone woman with her wrapped wrist on the near end of the second row. There were the two brothers who were never, he realised, on the same side of the floor at once, and their mother between them with her apples. It went again almost at once. But he had seen it, and he understood that the slate was only where Dace kept the copy.
 
 He went off toward Vell's table. Cael stood a while longer in front of the wall, with its names restored and its rings and dots and stitches, and the smear near the bottom where a hand had leaned, which Dace had not bothered to rub out.
 
@@ -134,7 +136,7 @@ He went off toward Vell's table. Cael stood a while longer in front of the wall,
 
 ---
 
-He wrote it up that evening, on the officials page, with Lira sitting on the end of his bed eating bread and reading over his shoulder, which she was allowed to do with this page because there was nothing on it that was his.
+He wrote it up that evening, on the officials page, with Lira sitting on the end of his bed eating bread and reading over his shoulder. She was allowed to with this page, because there was nothing on it that was his.
 
 *Fifth sweep watched whole. Two coats, left one young, writes, case in left hand, pencil in right. Right one older, better boots, carries nothing, looks at nothing, sees everything. Mid-morning. River gate, tannery lane, market, triangle, the row, north gate. Same road as every other time. The road doesn't bend for drays or water.*
 
@@ -168,4 +170,4 @@ He underlined *only where they look*.
 
 "Everybody's in their book," said Cael. "That's what the book's for." He looked at the line on the page about the pencil, which had gone down at the same speed all the way. "What I want to know is whether my line's in some other book as well. One I've never seen. And I can't find that out by looking out of a window."
 
-She did not say anything. She sat on the end of the bed beside him in the lamplight, and ate her half of the bread, and after a while she leaned her shoulder against his, as she did when she had no answer and did not intend to pretend she had one.
+She did not say anything. She sat on the end of the bed beside him in the lamplight, and ate her half of the bread. After a while she leaned her shoulder against his, as she did when she had no answer and did not intend to pretend she had one.

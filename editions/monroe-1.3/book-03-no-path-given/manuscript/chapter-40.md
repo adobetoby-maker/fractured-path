@@ -4,9 +4,9 @@ Lira laid down the terms at breakfast on the Tuesday, between the porridge and t
 
 "One," she said. "Contact only. Your hand on the thing, not near it, not pointed at it, not waved at it from across a room because you've decided you're clever. Two. One point. Not two, not a row, not a pattern. One, and then you stop and we look at it." She held up a third finger. "Three. On something that isn't you and isn't any of us. Wood. Stone if there's no wood. Not a floor anybody has to walk on afterward and not a wall anybody has to sleep against."
 
-"Four," said Brom, without looking up from his barley. "Buckets."
+"Four," said Brom, over his barley. "Buckets."
 
-"Four, buckets. One of water and one of sand, and Brom holds the sand." Lira looked down the table at Karis, who had stopped eating to listen and had both hands flat on either side of her bowl. "And five is yours, if you want it. You don't have to come."
+"Four, buckets. One of water and one of sand, and Brom holds the sand." Lira looked down the table at Karis, who had stopped eating to listen. "And five is yours, if you want it. You don't have to come."
 
 "I'd like to come," said Karis. "If the terms allow it."
 
@@ -30,15 +30,15 @@ Brom swallowed his barley.
 
 Lira put her face in her hands.
 
-"I didn't name it," said Brom, with great dignity. "I only know where it is."
+"I didn't name it," said Brom. "I only know where it is."
 
-Cael laughed, and found that he could not stop for a moment, and that it was the first time since the formal yard he had laughed at anything without first checking whether he was allowed to. Lira looked at him through her fingers, and something in her shoulders let go a little, and she took his bread.
+Cael laughed, and could not stop, and it was the first time since the formal yard he had laughed at anything without first checking whether he was allowed to. Lira looked at him through her fingers, and something in her shoulders let go a little, and she took his bread.
 
 He went to his supervised session in section four at the fifth bell with the warmth sitting low in his chest. He ran the framework for Quenna at the chalk and read the post through felt with Brom leaning on the far side, and nothing in him moved toward the new one. It sat where it had sat since Thursday, faintly and steadily warm, like a stone in a wall that has been in the sun all afternoon, and it did nothing at all, and he did not ask it to. Quenna signed the strip and handed it to him and did not mention the match, and he did not mention it either. Her question lay between them on the chalk like a coin neither of them would pick up.
 
 ---
 
-The quiet room had not changed. It was the smaller of the two rooms off the training hall, whitewashed to the ceiling, with a scrubbed board floor and one narrow window high on the end wall. The slate on the nail beside the door still said *K. — declaration practice* in Karis's careful hand, because the sixth bell was still hers. Twenty-two times he had stood at the far end of it and reached for something that would not come. He stood in the doorway now and found that his heart was beating as if he had run up the stair, and he made himself notice that, and name it, and go in anyway.
+The quiet room had not changed. It was the smaller of the two rooms off the training hall, whitewashed to the ceiling, with a scrubbed board floor and one narrow window high on the end wall. The slate on the nail beside the door still said *K. — declaration practice* in Karis's careful hand, because the sixth bell was still hers. Twenty-two times he had stood at the far end of it and reached for something that would not come. He stood in the doorway now with his heart going hard, and he made himself notice that, and name it, and go in anyway.
 
 Brom had found the post. It was a length of old oak about as long as a man's forearm, grey with weather on one side and split along the grain on the other. He had stood it upright in an iron bucket of sand from the yard, so that it rose out of the sand like a stump out of snow. The water bucket stood beside it. Lira had set both in the middle of the floor, well away from every wall, and had then moved them a pace further from the window without explaining why.
 
@@ -80,7 +80,7 @@ Brom put it out. He did it with one scoop of sand, without hurry, as he did ever
 
 Then the cost came, and it came in a way he had not prepared for, because none of the others had ever sent their bill like this.
 
-It began under his breastbone, a sudden cold drop, the feeling of putting a foot down in the dark for a stair that is not there. He caught his breath on it before he could stop himself. Then the cold ran out from his chest and down his right arm, into the hand that had been on the post, so that by the time he looked at the hand the fingertips had gone pale and faintly grey and his palm felt as if he had held it in the pump trough. It was not pain. It was more like being emptied of something he had not known he was full of, all at once and without any warning. And the warmth that had sat in him since Thursday, so faintly and steadily that he had stopped noticing it, was gone. Where it had been there was the old space, the shape he had learned in the quiet room by failing to fill it, and it was cold.
+It began under his breastbone, a sudden cold drop, the feeling of putting a foot down in the dark for a stair that is not there. He caught his breath on it before he could stop himself. Then the cold ran out from his chest and down his right arm, into the hand that had been on the post, so that by the time he looked at the hand the fingertips had gone pale and faintly grey and the palm was cold through. It was not pain. It was more like being emptied of something he had not known he was full of, all at once and without any warning. And the warmth that had sat in him since Thursday, so faintly and steadily that he had stopped noticing it, was gone. Where it had been there was the old space, the shape he had learned in the quiet room by failing to fill it, and it was cold.
 
 "Cael," said Karis.
 
@@ -90,7 +90,7 @@ He looked up. She had not moved from the end wall, but she was watching his face
 
 "It costs," he said. His voice was steadier than he felt. "Not like the others. It comes after. Cold, here," and he touched his breastbone with the grey fingers, "and down the arm into the hand. And it's gone. The warm. I can't find it."
 
-Lira had come round the bucket and taken his right hand between both of hers without asking, and was chafing it hard, as you chafe the hands of somebody who has come in from snow. She was looking at him and not at the post.
+Lira had come round the bucket and taken his right hand between both of hers without asking, and was chafing it hard. She was looking at him and not at the post.
 
 "I didn't see anything," she said. "You know that? I was watching your face the whole time, and I didn't see anything at all. You looked like you were thinking about your dinner."
 
@@ -98,7 +98,7 @@ Lira had come round the bucket and taken his right hand between both of hers wit
 
 "I'd never have known." She kept chafing. "Somebody on a bench would never know. Somebody at a panel would never know. That's the thing I don't like."
 
-Karis came forward then, slowly, as if the room had a chalk line in it nobody had drawn. She stopped at the post and looked at it, and then at Brom.
+Karis came forward then, slowly. She stopped at the post and looked at it, and then at Brom.
 
 "May I touch it?"
 
@@ -116,25 +116,25 @@ Nobody answered her. She was not talking to any of them.
 
 ---
 
-He could not do it twice, not for some time.
+He could not do it twice, not at once.
 
-When the cold had gone out of his hand, which took longer than he liked, he put the palm back on the post a finger's width from the crusted ring and turned inward, and there was nothing to turn toward. The space was there, but it was empty and cold, the way a hearth is cold the morning after, and asking it for anything was like asking an empty cup to pour.
+When the cold had gone out of his hand, which took longer than he liked, he put the palm back on the post a finger's width from the crusted ring and turned inward, and there was nothing to turn toward. The space was there, but it was empty and cold, and asking it for anything was like asking an empty cup to pour.
 
 "It won't," he said.
 
 "Then wait," said Karis. "I'll count."
 
-She counted aloud, slowly, in her even voice, the numbers going up through the quiet room like a clock with nothing else to do. Lira sat down on the scrubbed boards with her back against the whitewash. Brom leaned on the scoop. Cael knelt with his hand on the cold oak and attended, and at sixty there was nothing, and at eighty nothing, and somewhere after ninety he felt it come back. It did not arrive all at once. It crept in from the edges of the empty space, as warmth comes back into a room after a door has been opened and shut, until it was faintly and steadily there again, low in his chest, a stone in a wall in the evening.
+She counted aloud, slowly, in her even voice, the numbers going up through the quiet room like a clock with nothing else to do. Lira sat down on the scrubbed boards with her back against the whitewash. Brom leaned on the scoop. Cael knelt with his hand on the cold oak and attended, and at sixty there was nothing, and at eighty nothing, and somewhere after ninety he felt it come back. It did not arrive all at once. It crept in from the edges of the empty space until it was faintly and steadily there again, low in his chest, a stone in a wall in the evening.
 
 "Now," he said.
 
 "A hundred and four," said Karis. "Write that in yours. A hundred and four, the first time. It might change."
 
-This time he did what he had learned to do with Compression on Brom's floor, which was the only thing he had learned in his whole life about doing something dangerous small. He chose the size first. Before he turned inward at all he fixed it, a thumbnail and not a hair more, as you might decide how much of a loaf to cut before you lift the knife, and he held the size in his mind as if it were a mark scored in wood. Then he turned, and asked, and let go.
+This time he did what he had learned to do with Compression on Brom's floor, which was the only thing he had learned in his whole life about doing something dangerous small. He chose the size first. Before he turned inward at all he fixed it, a thumbnail and not a hair more, as you might decide how much of a loaf to cut before you lift the knife, and he held the size in his mind. Then he turned, and asked, and let go.
 
 The same instant came, the same candle that was not lit and then was. He took his hand away.
 
-The ring of char was smaller. It was still larger than his thumbnail, nearer the size of a fingertip pressed flat, but it was smaller, and the flame that came up in the middle of it was a bead and not a barleycorn, and Brom sanded it before it could travel. The cold came after, under the breastbone and down the arm, exactly as before, but he had braced for it this time and it did not catch his breath.
+The ring of char was smaller. It was still larger than his thumbnail, nearer the size of a fingertip pressed flat, but it was smaller, and the flame that came up in the middle of it was a bead and not a barleycorn, and Brom sanded it before it could travel. The cold came after, under the breastbone and down the arm, as before, but he had braced for it this time and it did not catch his breath.
 
 "Smaller," said Lira, from the floor.
 
@@ -192,7 +192,7 @@ He did three on the Thursday. All three came a thumbnail across, near enough tha
 
 "That's the provision's language."
 
-"I don't know why I said that." She looked at the three rings for a while. "Yes, I do. Because a thing that does the same thing three times at a size you've chosen isn't a mystery any more. It's a capability. I'd have written that sentence about anybody's Path." She stood up and brushed the sand off her knees. "I'm not writing it about yours. I'm only saying it out loud, once, so it stays in the room."
+"I don't know why I said that." She looked at the three rings. "Yes, I do. Because a thing that does the same thing three times at a size you've chosen isn't a mystery any more. It's a capability. I'd have written that sentence about anybody's Path." She stood up and brushed the sand off her knees. "I'm not writing it about yours. I'm only saying it out loud, once, so it stays in the room."
 
 He had been at the Thursday session in section four an hour before, as on every Thursday, with Quenna at the chalk and Brom leaning on the post, and the warmth had sat in him through all of it like a coin in a pocket, and he had not spent it. Quenna had watched him read the post and had asked him nothing. But on the way out of the section she had stopped him at the door, with her slate under her arm, and said only, "You're pale. Sleep tonight," and looked at his hands, and then at him, and gone. She had not asked why. She had been not asking why since the first week of the term, and it had never once sounded like not caring.
 
@@ -204,42 +204,42 @@ Oona's mother came up on the Friday coach.
 
 Cael saw her before he knew who she was. He was crossing the yard from the archive at the end of the afternoon, with the observation notebook under his good arm, and a small woman in a dark travelling cloak was standing at the gate with a bag at her feet while the clerk ran a finger down her list. She stood very straight, as if somebody had once told her to and she had decided it was good advice. Then Oona came across the yard from the residence wing faster than he had ever seen her move, her slate held against her chest in both arms. She stopped a pace short of the woman. The woman held out both hands, and Oona put the slate down on the cobbles to take them.
 
-He did not go over. He went on to the main hall and stood at the board for a while, looking at the line he had looked at every morning for a month.
+He did not go over. He went on to the main hall and stood at the board, looking at the line he had looked at every morning for a month.
 
 *Kindling assessment, observer track. Oona. Registered Arbiter Station, town. Second bell.*
 
-She found him there an hour later, alone this time, with the slate back under her arm and her face washed and very serious.
+She found him there an hour later, alone this time, with her face washed.
 
 "That was my mother," she said.
 
 "I thought it might be."
 
-"She came a day early. She said the coach might be late and she wasn't going to risk it." Oona looked at the line on the board, as she had looked at it for seven weeks. "She's staying at the draper's. They've a room over the shop for people's mothers. Lira told me." She tucked the slate tighter. "I told her about you. She wants to meet you. Not now. Tomorrow, at the bottom. She says she'd like to see the person I've been writing about."
+"She came a day early. She said the coach might be late and she wasn't going to risk it." Oona looked at the line on the board, as she had looked at it for seven weeks. "She's staying at the draper's. They've a room over the shop for people's mothers. Lira told me. I told her about you. She wants to meet you. Not now. Tomorrow, at the bottom. She says she'd like to see the person I've been writing about."
 
 "What have you been writing?"
 
-"That's private," said Oona. She considered him. "Mostly true things. That you don't lie to me. That you have a bad arm. That you're the only other one on the track, and that it's a strange kind, and that I'm not allowed to say what kind." She frowned. "She asked me what kind, and I said I wasn't allowed, and she said good."
+"That's private," said Oona. She considered him. "Mostly true things. That you don't lie to me. That you have a bad arm. That you're the only other one on the track, and that it's a strange kind, and that I'm not allowed to say what kind. She asked me what kind, and I said I wasn't allowed, and she said good."
 
-He found that he could not say anything for a moment.
+Cael's throat had gone tight.
 
 "Are you still coming down?" said Oona. "You don't have to. You said the top of the hill. That's what you said."
 
 "I'll come down."
 
-"My mother on the left," said Oona, as if reading him a list. "You on the right, because of your arm. When they say my name. And then you take your hand away when I stand up, not before." She looked up at him. "That's how Hesk did it. You said."
+"My mother on the left," said Oona. "You on the right, because of your arm. When they say my name. And then you take your hand away when I stand up, not before. That's how Hesk did it. You said."
 
 "That's how Hesk did it."
 
 "Then that's how it's done." She nodded once, briskly, and wrote something on her slate and underlined it twice, and did not show him. "Second bell. Don't be late. The coach was nearly late."
 
-She went off toward the guest stair by the gate, where her mother would be waiting to walk down the hill with her before the light went. Cael stood in front of the board in the emptying hall with the observation notebook under his arm. He found that the warmth in his chest and the old cold under it were both there at once, the new thing and the oldest thing, the spark and the bench in Denvash, and that he could not tell, for a moment, which of them his hands were shaking for.
+She went off toward the guest stair by the gate, where her mother would be waiting to walk down the hill with her before the light went. Cael stood in front of the board in the emptying hall with the observation notebook under his arm. The warmth in his chest and the old cold under it were both there at once, the new thing and the oldest thing, the spark and the bench in Denvash, and he could not tell which of them his hands were shaking for.
 
-That night he wrote in the binder, in the plain hand he kept for the evenings that came out right.
+That night he wrote in the binder.
 
 *Thursday: three of three at a thumbnail, with the count between. Consistent. K. said it out loud once and wrote nothing. Q. said I was pale and didn't ask why.*
 
 *Tomorrow, the second bell, at the grey building. Her mother on the left. Me on the right. Take the hand away when she stands up, not before.*
 
-He looked at that for a long time. Then he added one more line, smaller.
+Under it he added one more line, smaller.
 
 *I haven't been inside one of those buildings since. I've been past the door of this one every week since the autumn, and I've never once looked at the bench.*

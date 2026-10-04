@@ -28,7 +28,7 @@ Then the far door of the passage opened and a clerk looked out, and the morning 
 
 ---
 
-Oona was in the middle of it, in a clean grey dress he had never seen her wear and her hair pinned so tight it pulled at her temples. Her slate was on her knees, face down, and both hands were pressed flat on top of it. Her mother sat on her left, very straight, in the dark travelling cloak, with her hands folded in her lap as if somebody had told her once where to put them. There was nobody else on the bench. It was the only Kindling the station had that morning, the clerk said, and he said it kindly, as if he said it to every family that came in and found the passage empty.
+Oona was in the middle of it, in a clean grey dress he had never seen her wear and her hair pinned so tight it pulled at her temples. Her slate was on her knees, face down, and both hands were pressed flat on top of it. Her mother sat on her left, very straight, in the dark travelling cloak, with her hands folded in her lap. There was nobody else on the bench. It was the only Kindling the station had that morning, the clerk said, and he said it kindly.
 
 "You came down," said Oona.
 
@@ -56,7 +56,7 @@ He did not know what to say to that, so he said nothing, and she seemed to think
 
 They waited.
 
-It was not long, as waits went, and it was the longest he had sat still since the formal yard. The passage was cold, and the window of thick glass let in a pale wavering light that lay across the flagstones. The soap smell did not fade. Somewhere behind the far door a chair was moved, and somebody coughed, and paper rustled, and once there was a low hum like a struck bell held against a hand, which made Oona's whole body go still, and then it stopped. He had heard that hum before. He had heard it in Denvash through a door exactly like this one, the sound of an Arbiter's instrument being made ready, and his own hands had gone cold on his knees then exactly as they went cold now.
+It was not long, as waits went, and it was the longest he had sat still since the formal yard. The passage was cold, and the window of thick glass let in a pale wavering light that lay across the flagstones. The soap smell did not fade. Somewhere behind the far door a chair was moved, and somebody coughed, and paper rustled, and once there was a low hum like a struck bell held against a hand, which made Oona's whole body go still, and then it stopped. He had heard that hum before. He had heard it in Denvash through a door like this one, the sound of an Arbiter's instrument being made ready, and his own hands had gone cold on his knees then, as they went cold now.
 
 He made himself breathe. He looked at the grain of the bench between his knees and then made himself look up from it, because he was not fourteen and the morning was not his. He looked at Oona instead. She was sitting perfectly upright with her hands pressed on the slate, staring at the door, and she was so frightened that her lips had gone pale, and she was not letting any of it out.
 
@@ -76,7 +76,7 @@ He made himself breathe. He looked at the grain of the bench between his knees a
 
 "Your uncle's wrong," said Cael, and Oona's mother made a small sound on the far side of her that might, in another room, have been a laugh.
 
-The far door opened. The clerk stood in it with a ledger open on one arm, and he looked at the bench, and then at the ledger, as if he did not already know the only name that would be on it that morning.
+The far door opened. The clerk stood in it with a ledger open on one arm, and he looked at the bench, and then at the ledger, though there was only one name that could be on it that morning.
 
 "Oona," he said.
 
@@ -92,11 +92,11 @@ Her mother let out a long breath that she seemed to have been holding since the 
 
 He did not know, afterward, how long they sat there. Long enough for the pale light to move a hand's width along the flags. Long enough for the bakehouse cart to come back up the street outside with a clatter of empty trays. Not as long as he had sat in Denvash. Nowhere near.
 
-But Denvash sat with him the whole time. It did not come as a memory of the kind you can choose to look at and then put away; it came the way weather comes, into his body, without asking. His knees remembered the bench. His hands, pressed flat on them, remembered the cold. His shoulder remembered the hand. His stomach remembered the long quiet, the quiet that had gone on past where it should have stopped, the clerk's face when he came back to the door to call Hesk in, and the low voices behind the door afterward, and the word they had for him that was not a Path. Then the walk home with Hesk's hand on his shoulder all the way, through streets that had not changed and somehow had. And the courier on the second morning, knocking once, with the notice in his satchel. And the bag on the bed that evening, and the three things Hesk had set beside it one at a time, and the long walk out of the city in the grey of the next morning with Hesk standing at the workshop door and not waving, because waving would have been for Hesk and not for him.
+But Denvash sat with him the whole time. It did not come as a memory of the kind you can choose to look at and then put away; it came into his body, without asking. His knees remembered the bench. His hands, pressed flat on them, remembered the cold. His shoulder remembered the hand. His stomach remembered the long quiet, the quiet that had gone on past where it should have stopped, the clerk's face when he came back to the door to call Hesk in, and the low voices behind the door afterward, and the word they had for him that was not a Path. Then the walk home with Hesk's hand on his shoulder all the way, through streets that had not changed and somehow had. And the courier on the second morning, knocking once, with the notice in his satchel. And the bag on the bed that evening, and the three things Hesk had set beside it one at a time, and the long walk out of the city in the grey of the next morning with Hesk standing at the workshop door and not waving, because waving would have been for Hesk and not for him.
 
 All of it went through him on a bench in a strange town while a girl he had known for one term was behind a green door finding out what she was. He let it. He had learned in the formal yard that some things are better let through than fought. He sat with his hands on his knees and his shoulder remembering a hand, and let Denvash go through him all the way, from the bench to the road, and come out the other side.
 
-When it had, he found that he was still sitting on a bench in the grey building, and it was still this morning, and Oona's mother was looking at him.
+When it had, he was still sitting on a bench in the grey building, and it was still this morning, and Oona's mother was looking at him.
 
 "You've done this before," she said. "Sat here."
 
@@ -112,13 +112,13 @@ He did not have anything to say to that either, and this time she did not seem t
 
 The far door opened.
 
-Oona came out with her slate held against her chest in both arms, exactly as she had gone in, and her face was white and very calm, and her eyes were enormous. She walked down the flagged passage at the same careful pace she had walked up it, and stopped in front of the bench, and looked at her mother, and then at Cael, and then at her mother again.
+Oona came out with her slate held against her chest in both arms, as she had gone in, and her face was white and very calm, and her eyes were enormous. She walked down the flagged passage at the same careful pace she had walked up it, and stopped in front of the bench, and looked at her mother, and then at Cael, and then at her mother again.
 
 "Anchor," she said. "Anchor Path. Copper."
 
 Her mother stood up and put both arms round her, slate and all, and held on.
 
-Oona let herself be held for a long moment with her chin on her mother's shoulder, looking past it at Cael, and he saw her face change over that shoulder. It did not break. It came loose, a little at a time, from the careful calm she had walked out with, until underneath it there was a fourteen-year-old girl who had been afraid for seven weeks and two days. The instrument behind the green door had just told her that she was exactly who she had decided to be.
+Oona let herself be held, with her chin on her mother's shoulder, looking past it at Cael, and he saw her face change over that shoulder. It did not break. It came loose, a little at a time, from the careful calm she had walked out with, until underneath it there was a fourteen-year-old girl who had been afraid for seven weeks and two days. The instrument behind the green door had just told her that she was exactly who she had decided to be.
 
 "It was quiet," she said, into her mother's cloak. "It was very quiet. And then it wasn't. And I knew." She pulled back a little. "It's on the chart. Anchor's on the chart. It's in the hardening family, between Shield and Wall. I've known where it was since the first week." She looked at Cael again. "It's ordinary."
 
@@ -128,11 +128,11 @@ Oona let herself be held for a long moment with her chin on her mother's shoulde
 
 "You said it would be in the first week," said Cael. "You've been right about everything."
 
-She nodded, once, briskly, as she did when a sum came out. Then she turned the slate over in her arms and looked at it and did not write anything on it, which he had never seen her do before. She was holding a small card in the same hand as the slate, pressed against its frame, the way he had once held a card of his own that said nothing anybody could read, and she did not show it to him and he did not look at it. It was hers. It was the first thing she had ever owned that nobody else would ever be allowed to read, and she held it as if she already knew that.
+She nodded, once, as she did when a sum came out. Then she turned the slate over in her arms and looked at it and did not write anything on it, which he had never seen her do before. She was holding a small card in the same hand as the slate, pressed against its frame, just as he had once held a card of his own that said nothing anybody could read, and she did not show it to him and he did not look at it. It was hers. It was the first thing she had ever owned that nobody else would ever be allowed to read, and she held it as if she already knew that.
 
 The clerk was writing in his ledger at the far door. Cael watched him write, and knew without having to see the page what the line would be, because he had copied out the gloss of the category on his own form three times over cold tea in the first week of the term. *Has not yet undergone formal Kindling assessment.* Somewhere in the clerk's ledger, and by the end of the week in a regional book at the bottom of a long road, and on Monday morning at the intake desk at the top of the hill, Oona was being moved out of a category she no longer fitted, by the plainest procedure there was. The observer track at Greyvane had held two names since the autumn. On Monday it would hold one.
 
-He found, sitting on the bench, that he did not mind. He found that he was glad, in a large plain way that surprised him with its size. The category had never been built for him. He had borrowed it, and everybody at the intake table had known he was borrowing it. And here was the person it had actually been built for, walking out of it on the far side the way it was meant to be walked out of, with a card in her hand and her mother's arms round her. Whatever happened to his own name on that roll, the thing had worked once this winter exactly as somebody long ago had meant it to.
+None of that troubled him. He was glad, in a large plain way that surprised him with its size. The category had never been built for him. He had borrowed it, and everybody at the intake table had known he was borrowing it. And here was the person it had actually been built for, walking out of it on the far side with a card in her hand and her mother's arms round her. Whatever happened to his own name on that roll, the thing had worked once this winter as somebody long ago had meant it to.
 
 ---
 
@@ -156,7 +156,7 @@ Oona thought about that for several steps.
 
 "I did."
 
-"I still want to." She hitched the slate higher in her arms. "I'll have to sit on a different bench in the taxonomy lecture now. With the hardening first-years. But I'll still study you." She glanced at her mother. "With permission."
+"I still want to. I'll have to sit on a different bench in the taxonomy lecture now. With the hardening first-years. But I'll still study you." She glanced at her mother. "With permission."
 
 "With permission," said Oona's mother gravely, and did not explain what she meant by it.
 
@@ -166,7 +166,7 @@ Lira was where she had said she would be, sitting on the low wall by the gate wi
 
 "Anchor," said Oona. "Copper. It's ordinary."
 
-Lira looked at her a long moment from the wall, with an expression Cael had seen on her face once before, on the morning she had read four paragraphs from Fenmark and decided they did not get to say who she was.
+Lira looked at her from the wall, with an expression Cael had seen on her face once before, on the morning she had read four paragraphs from Fenmark and decided they did not get to say who she was.
 
 "Ordinary's the best kind," said Lira. "Nobody can take it off you. It's on every chart there is." She slid down off the wall. "Congratulations. You'll want breakfast. Everybody wants breakfast afterward. I'm going to steal you some bread and give you most of it back."
 
@@ -188,13 +188,13 @@ The first thing she asked was whether he could light two at once. She did not me
 
 One ring came, under the heel of his hand. Under his fingertips the oak was clean.
 
-He tried it the other way round, fingertips first in his mind, and one ring came under the fingertips and nothing under the heel. He tried it a third time, wanting both equally, holding the two sizes side by side like two coins in one palm. This time he felt the thing in him hesitate for the smallest part of an instant, as if it had been asked a question in a language it did not have the grammar for. Then one ring came, under the heel, and the cold came after it exactly as it always did, and not one hair more.
+He tried it the other way round, fingertips first in his mind, and one ring came under the fingertips and nothing under the heel. He tried it a third time, wanting both equally, holding the two sizes side by side like two coins in one palm. This time he felt the thing in him hesitate for the smallest part of an instant. Then one ring came, under the heel, and the cold came after it as it always did, and not one hair more.
 
 "One," said Karis softly. "Whatever you ask for, it's one." She had knelt by the post to look at the clean wood under where his fingertips had been. "It doesn't divide. It isn't weaker when you ask for two. It simply picks."
 
 "Single channel," said Cael.
 
-"Single channel. The notice was right again." She sat back on her heels. "I can lay sixteen. You can lay one. And yet." She did not finish the sentence, and he did not ask her to.
+"Single channel. The notice was right again. I can lay sixteen. You can lay one. And yet." She did not finish the sentence, and he did not ask her to.
 
 The second thing she asked for was paper. She had brought a sheet from the back of one of her old notebooks, blank, torn along the fold, and she laid it flat over the top of the post and held it there by its corners with her fingertips well clear of the middle.
 
@@ -204,7 +204,7 @@ He laid his palm on the paper and chose the size and asked.
 
 The paper caught. Not the wood under it; the paper. A ring of brown went through the sheet under his palm, and in the middle of it a bead of flame came up and began at once to eat outward across the page, fast, as paper burns. Karis let go of the corners, and Brom put it out with a scoop of sand before it had reached the edge. When they brushed the sand away the oak beneath was barely marked, a faint brown shadow where the heat of the burning paper had warmed it and nothing more.
 
-Karis looked at it for a long time.
+Karis bent close and looked at the shadow on the oak.
 
 "It belongs to whatever you're touching," she said. "Not to whatever's under that. Not to what you meant." She picked up the scrap of charred paper and turned it over. "That's the spark again. You strike it on the first thing your hand is on, and after that it's the paper's business, or the wood's, or whatever's there."
 
@@ -228,7 +228,7 @@ At the regional registry office, on the Wednesday after the girl came back up th
 
 *Kindling assessment entered. Candidate formerly enrolled under demonstration provision. Classification: Anchor Path, Copper. Category of enrollment vacated; standard enrollment to follow.*
 
-That night the line went into the long index with all the others and was run against every standing file, as every line always was, and it matched nothing. But it was copied, the next morning, onto the short daily sheet that went to the officer who had asked to see anything the registry received about that academy, because he had asked, a fortnight before, for exactly that. It reached Coss at his borrowed desk on the second floor at a little after the third bell, between a bound volume of enforcement digests and a sheaf of drafting records tied with faded tape, and he read it twice.
+That night the line went into the long index with all the others and was run against every standing file, as every line always was, and it matched nothing. But it was copied, the next morning, onto the short daily sheet that went to the officer who had asked to see anything the registry received about that academy, because he had asked, a fortnight before, for exactly that. It reached Coss at his borrowed desk on the second floor at a little after the third bell, between a bound volume of enforcement digests and a sheaf of drafting records tied with faded tape, and he read it.
 
 He had been working on the packet at the regional office since the autumn, longer than he had ever spent on any challenge.
 
@@ -236,9 +236,9 @@ The briefing had taken one afternoon. Everything after it had taken the season, 
 
 The plain-face argument had been sound from the first night, at the waystation table, with its two true lines. A category whose gloss kept it, word for word, for a candidate who *has not yet undergone formal Kindling assessment*. A respondent who had undergone it, at the station in Denvash, on a date the registry held. That much he could have filed from his district office. But a tribunal did not like to be told that a provision meant what its plainest sentence said, if another sentence of the same provision said something wider; it liked to be shown. So he had gone looking for what the provision had been written to do.
 
-The drafting records had been in three places, none of them where the index said. He had found them at last in a basement room under the regional chamber, in a box marked for a different provision entirely, and he had read them in an afternoon by a window that let in more cold than light. The demonstration provision had been written a long time ago, and it had been written as a kindness. The guilds in those days had sent their families travelling, carters and drovers and pedlars with a guild licence, and their children came to fourteen on the road, a month from any station, and arrived at the gates of the academies untested and unplaced. A chartered academy could not take an untested child. The provision let it, under watching, until the child could be brought to a station and found out. That was all it was for. It had been amended three times since, and every amendment had widened who it covered by a little and narrowed what it was for by not at all.
+The drafting records had been in three places, none of them where the index said. He had found them at last in a basement room under the regional chamber, in a box marked for a different provision entirely, and he had read them in an afternoon by a window that let in more cold than light. The demonstration provision had been written long ago, and it had been written as a kindness. The guilds in those days had sent their families travelling, carters and drovers and pedlars with a guild licence, and their children came to fourteen on the road, a month from any station, and arrived at the gates of the academies untested and unplaced. A chartered academy could not take an untested child. The provision let it, under watching, until the child could be brought to a station and found out. That was all it was for. It had been amended three times since, and every amendment had widened who it covered by a little and narrowed what it was for by not at all.
 
-He had sat with that for a while in the cold basement room. He had thought it was a decent law. He thought so still.
+He had sat with that in the cold basement room. He had thought it was a decent law. He thought so still.
 
 Then he had found the precedents, which had been easier, because the enforcement digests were indexed by people who expected to be asked. Three times in other districts, across the long life of the provision, somebody had tried to stretch it over a person it had not been written for. Once it had been a youth past the age of Kindling who had refused to be tested. Once it had been a disputed assessment the family would not accept. Once it had been a clerk's honest mistake, never caught until it was challenged. Three academies, three enrollments, three challenges. Each enrollment had been voided. None had survived the hearing, and one had not survived to a hearing at all. He had read each digest twice and copied the citations onto a clean sheet in his small plain hand.
 
@@ -270,7 +270,7 @@ The senior officer looked at him a while.
 
 "I'll sign it," he said. "Put the request in tonight."
 
-He put it in that night, in the flat language the form demanded, and it came back approved by the middle of the next morning. That was faster than the senior officer could have signed it and sent it up and had it back, and so it had not gone through the senior officer at all. It had gone to the same desk as before, somewhere above, where somebody had been waiting. The registry returned the challenge packet to him stamped for service. On its cover sheet the last field before the seal was the one he had stopped expecting to read: the short ruled bar, as neat as a line drawn under a sum, and the small type beneath it. *Field restricted. Recipient clearance insufficient.* He looked at it for a while, and then tied the packet up again in both directions, and did not untie it.
+He put it in that night, in the flat language the form demanded, and it came back approved by the middle of the next morning. That was faster than the senior officer could have signed it and sent it up and had it back, and so it had not gone through the senior officer at all. It had gone to the same desk as before, somewhere above, where somebody had been waiting. The registry returned the challenge packet to him stamped for service. On its cover sheet the last field before the seal was the one he had stopped expecting to read: the short ruled bar, as neat as a line drawn under a sum, and the small type beneath it. *Field restricted. Recipient clearance insufficient.* He tied the packet up again in both directions and left it tied.
 
 The credential came the same day, from a different window. It was a small card, stamped, plainly printed, his name and his grade and the seal of the Compact's field service, the sort of card that did not need to be large because the people it was shown to had been taught to recognize it. He had carried one for many years and almost never shown it. A Warden was a word a district would accept at its gate without thinking twice. A field agent of the Compact was a word that made a gate think. He had found, over a long career, that the first word got more honest work done than the second, and he had let it.
 

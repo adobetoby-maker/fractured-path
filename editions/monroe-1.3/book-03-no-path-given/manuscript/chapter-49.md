@@ -10,7 +10,7 @@ She did it without asking, simply putting her hand into the right pocket of his 
 
 "That's why I'm looking." She put the pencil and the chalk and the slip into her own pocket and patted it. "You'll have them back at dinner. Turn round."
 
-He turned round, and she ran her hand down the back of his coat, the way a second at the Ironyard checked a fighter's wraps, and found nothing. Then she stood back and looked at him in the grey light with her arms folded, and the breath going up white between them.
+He turned round, and she ran her hand down the back of his coat like a second at the Ironyard checking a fighter's wraps, and found nothing. Then she stood back and looked at him in the grey light with her arms folded, and the breath going up white between them.
 
 "You look like you're going to a bout," she said.
 
@@ -26,7 +26,7 @@ Brom came across the frozen yard from the stable door with three cups of tea hel
 
 "Say less than Hobb would." He drank. "That's all of it. I thought about saying more, and then I thought that saying more was exactly the thing I was advising you not to do, and I'd look a fool."
 
-Lira laughed, short and sudden, and the white of it went up between the three of them, and Cael found that he was laughing too. He drank the tea, which was too hot, and gave Brom the cup back. Then he walked across the yard toward the lecture wing with nothing in his pockets and nothing in his hands, and the cold on his empty palms felt strange, as if he had forgotten to pick something up.
+Lira laughed, short and sudden, and the white of it went up between the three of them, and Cael was laughing too. He drank the tea, which was too hot, and gave Brom the cup back. Then he walked across the yard toward the lecture wing with nothing in his pockets and nothing in his hands, and the cold on his empty palms felt strange, as if he had forgotten to pick something up.
 
 ---
 
@@ -90,7 +90,7 @@ The question sat on the table between them, small and plain. Cael looked at it t
 
 ---
 
-They went on, at the same pace, as if the hour had a length already fixed and both of them knew it.
+They went on at the same pace. The hour had a length already fixed, and both of them knew it.
 
 Coss walked him through the enrollment and every paper attached to it, and Cael confirmed every signature and every date. He walked him through the training-floor arrangements, the supervised sessions twice a week in section four with the presiding assessor at the chalk, and Cael said yes, and yes, and twice a week, and gave nothing else.
 
@@ -124,7 +124,7 @@ Coss took a single sheet from the case and held it up so that the light from the
 
 "It's a question of fact."
 
-"It's a question of fact that needs a classification word to answer it," said Cael. He listened to his own voice from a little way off, and found that it was level, and was glad. "The registry never gave me one. If I make one up in this room, the record will hold my made-up word as if it were what I am. The instructor wrote what she saw, in her own words. Those are the facts. They're in the record already."
+"It's a question of fact that needs a classification word to answer it," said Cael. He listened to his own voice from a little way off. It was level, and he was glad. "The registry never gave me one. If I make one up in this room, the record will hold my made-up word as if it were what I am. The instructor wrote what she saw, in her own words. Those are the facts. They're in the record already."
 
 The recording officer's pen moved and stopped and waited.
 
@@ -174,7 +174,7 @@ He laid it across the clean sheet, square, and folded his hands on the open case
 
 "When you signed the enrollment form," said Coss, "did you understand the category to describe you accurately?"
 
-There it was. It was a plain question, with nothing hidden in it and nothing to trip on. Under it, Cael could feel the whole shape of what was meant to come next: the explanation, the circumstances, the provision's generous wording, the assessor who had found him a door. Every true thing he could have said in his own defence was standing just behind the plain question with its hand out, waiting for him to take it. He had spent two days deciding what to do when he got here, and he found, now that he was here, that it had never been a decision at all.
+There it was. It was a plain question, with nothing hidden in it and nothing to trip on. Under it, Cael could feel the whole shape of what was meant to come next: the explanation, the circumstances, the provision's generous wording, the assessor who had found him a door. Every true thing he could have said in his own defence was standing just behind the plain question with its hand out, waiting for him to take it. He had spent two days deciding what to do when he got here, and now that he was here it had never been a decision at all.
 
 "No," he said.
 
@@ -218,7 +218,7 @@ Lira was at the scarred table when he came in, with her boots up on the bench an
 
 "Well?" she said.
 
-He sat and picked up the pencil and put it in his right pocket, and the chalk in his left, and the slip in his coat. Lira watched him do it as if it were a ritual she had invented and was checking he had learned properly. Brom came from the hatch with his barley and sat down across from them, and a moment after him Karis came in from the archive passage, dust on her cuffs, and took the fourth bowl and did not eat from it.
+He sat and picked up the pencil and put it in his right pocket, and the chalk in his left, and the slip in his coat. Lira watched him do it, checking that he had learned the order. Brom came from the hatch with his barley and sat down across from them, and a moment after him Karis came in from the archive passage, dust on her cuffs, and took the fourth bowl and did not eat from it.
 
 "I said less than Hobb," said Cael.
 
@@ -228,9 +228,9 @@ He sat and picked up the pencil and put it in his right pocket, and the chalk in
 
 Brom put his spoon down. "Which word?"
 
-So he told them the formalities, and the name as the registry held it, and the three readings of the category line, which made Lira close her eyes for a moment. He gave them *a classification question*, and *that's what a record is*, and the ignition, and four weeks, and the question nobody asked. Then he told them how Coss had laid his pen down square and leaned back the width of a finger, and what he had asked, and what Cael had said.
+So he told them the formalities, and the name as the registry held it, and the three readings of the category line, which made Lira close her eyes. He gave them *a classification question*, and *that's what a record is*, and the ignition, and four weeks, and the question nobody asked. Then he told them how Coss had laid his pen down square and leaned back the width of a finger, and what he had asked, and what Cael had said.
 
-Nobody spoke for a moment.
+Nobody spoke.
 
 "No," said Lira. "You said no."
 
@@ -246,7 +246,7 @@ Nobody spoke for a moment.
 
 Lira did not say anything, but tore his bread in half, and looked at the halves, and gave him both.
 
-Karis had not touched her bowl, but sat with her two hands on either side of it, the way she sat when a timing had come out exactly where she had predicted and she did not trust it.
+Karis had not touched her bowl, but sat with her two hands on either side of it.
 
 "He'll read that into the record on Monday," she said. "In the first sitting. In his own voice."
 
@@ -256,7 +256,7 @@ Karis had not touched her bowl, but sat with her two hands on either side of it,
 
 "It was his already. It's true. Everybody at the intake table knew, and Quenna will say so on the stand, because she won't lie on one." He turned the bread over. "On Monday I'm going to concede the whole enrollment before anybody asks me. If I'd shaded that one answer on Wednesday, he could stand up on Monday and say I'd shaded it. Then everything I conceded after would sound like a boy who'd been caught."
 
-Karis sat very still, and then something in her face settled, the way it settled when a reading she had distrusted turned out, on the second pass, to be sound.
+Karis sat very still, and then something in her face settled, as it did when a reading she had distrusted came out sound on the second pass.
 
 "So you gave him the stone," she said slowly, "so that when you give him the wall, nobody can say you were hiding a brick."
 
@@ -286,13 +286,13 @@ He wrote *No* into the fair copy, in his best clerk's hand. Then he copied the n
 
 At the far end of the long table, Assessor Ilsev was reading.
 
-She had asked for the case file's supporting documentation after the midday meal, the whole bundle, and the Warden's aide had carried it in in three tied stacks and gone away again. She had untied the first and begun at the top. She was reading it the way Havel had heard she read everything and had never before watched her do: in order, every page, without skipping, past the place where anybody else would have decided they had the shape of it and started turning faster.
+She had asked for the case file's supporting documentation after the midday meal, the whole bundle, and the Warden's aide had carried it in in three tied stacks and gone away again. She had untied the first and begun at the top. She was reading it as Havel had heard she read everything and had never before watched her do: in order, every page, without skipping, past the place where anybody else would have decided they had the shape of it and started turning faster.
 
-The enrollment submissions first. The provision, in Prynn's certified copy, with the archivist's pencil at the foot. The first two sittings, with the assessors' names. Then the Warden's monitoring summaries, two years of them, quarter by quarter in his flat plain prose, a subject located, a subject cooperative, nothing crossing the threshold. Havel had read some of those summaries himself, a long time ago, when the file was a district file and he was a district officer. He did not look at them now.
+The enrollment submissions first. The provision, in Prynn's certified copy, with the archivist's pencil at the foot. The first two sittings, with the assessors' names. Then the Warden's monitoring summaries, two years of them, quarter by quarter in his flat plain prose, a subject located, a subject cooperative, nothing crossing the threshold. Havel had read some of those summaries himself, years ago, when the file was a district file and he was a district officer. He did not look at them now.
 
 He was copying the close of the deposition when he heard her stop.
 
-He did not hear anything, exactly. It was a change in the room, the way a change in the light is noticed before it is seen. He looked up. She had the second stack open, and in front of her was a small stiff sheet he knew the look of without being able to read it from where he sat: a routing history, the record a request kept of every office it passed through, each one stamping its line in turn. This one would be the autumn's request for the academy's records, the one the Warden had drafted in his district office months before there had been any challenge to draft.
+He did not hear anything. Something in the room had changed, and he felt it before he saw it. He looked up. She had the second stack open, and in front of her was a small stiff sheet he knew the look of without being able to read it from where he sat: a routing history, the record a request kept of every office it passed through, each one stamping its line in turn. This one would be the autumn's request for the academy's records, the one the Warden had drafted in his district office months before there had been any challenge to draft.
 
 Ilsev was reading one line of it. Her lips moved, very slightly. Then she read it again.
 
@@ -320,7 +320,7 @@ He read it, because entering a thing word for word meant reading it, and the rul
 
 He read it twice, the way he had once read a classification manual twice in a third-row desk by a window.
 
-Then he dipped his pen and entered it in the day-book, word for word, with the date and the hour and the courier's name for it, which was only *evening courier, down*. His hand did not shake. He watched it not shake, from a little way off, as if it belonged to somebody else.
+Then he dipped his pen and entered it in the day-book, word for word, with the date and the hour and the courier's name for it, which was only *evening courier, down*. His hand did not shake. He watched it not shake, from a little way off.
 
 Ilsev was standing at his shoulder still. He could feel her there.
 
@@ -330,15 +330,15 @@ Ilsev was standing at his shoulder still. He could feel her there.
 
 "Hm," said Ilsev.
 
-He waited for her to ask him the next thing. He knew exactly what it would be, and he had known since the moment her lips moved over the routing line. *Did you see this?* He had, in a third-row desk with the manual open beside it. *Did you ask?* He had. *What were you told?* He knew the four lines by heart. He waited, with the pen in his hand and the day-book open and the entry drying, to be asked.
+He waited for her to ask him the next thing. He knew what it would be, and he had known since the moment her lips moved over the routing line. *Did you see this?* He had, in a third-row desk with the manual open beside it. *Did you ask?* He had. *What were you told?* He knew the four lines by heart. He waited, with the pen in his hand and the day-book open and the entry drying, to be asked.
 
 She did not ask.
 
-She stood a moment longer, looking down at the query in his day-book as if checking that he had got every word, which he had. Then she went back up the table to her own end and sat down and tied the third stack up again, very neatly, and untied the fourth.
+She stood a moment longer, looking down at the query in his day-book to see that he had got every word, which he had. Then she went back up the table to her own end and sat down and tied the third stack up again, very neatly, and untied the fourth.
 
 "It'll come back before we sit," she said, to the bundle, in the same exact voice. "Or it won't come back at all."
 
-Havel finished the fair copy. It took him the rest of the afternoon, because he wrote it slowly and in his best hand, and because he stopped twice more at the nine dashes and looked at them. At the end of it he blotted the last page and closed the book, and laid the brass glass upright in its corner of the case, and sat for a moment with both hands flat on the lid.
+Havel finished the fair copy. It took him the rest of the afternoon, because he wrote it slowly and in his best hand, and because he stopped twice more at the nine dashes and looked at them. At the end of it he blotted the last page and closed the book, and laid the brass glass upright in its corner of the case, and sat with both hands flat on the lid.
 
 He did not take out his notebook. He thought about it, and he did not. He did not yet know what kind of entry this was going to be, and he had never in his life written an entry before he knew what kind it was.
 
