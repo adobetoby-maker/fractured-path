@@ -2,7 +2,7 @@
 
 On the Monday of the twenty-first week the outline still held, and Cael spent the first hour of the morning trying to break it.
 
-He did it at the long table before the first bell, with the lamp turned up and Prynn's pot not yet stewed, the way he had once spent the first hour of every circuit morning looking for the place in his own guard where somebody else would look first. He read the outline from the top. He read it again from the bottom, one sentence at a time, asking each sentence what it stood on. Then he took the page and folded it twice and put it in his pocket, because it had come through both readings whole, and there was nothing left that a third would find.
+He did it at the long table before the first bell, with the lamp turned up and Prynn's pot not yet stewed, just as he had once spent the first hour of every circuit morning looking for the place in his own guard where somebody else would look first. He read the outline from the top. He read it again from the bottom, one sentence at a time, asking each sentence what it stood on. Then he took the page and folded it twice and put it in his pocket, because it had come through both readings whole, and there was nothing left that a third would find.
 
 That was a strange feeling, and he did not altogether trust it.
 

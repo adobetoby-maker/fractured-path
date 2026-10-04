@@ -128,7 +128,7 @@ He read it.
 
 "I wanted you to hear me say it." She looked at the stack of notebooks. "Study continues. I've no intention of stopping. I'd like that understood, so nobody's surprised in a year."
 
-He did not know what to say. He sat at the table across from her, and the archive was very quiet round them, with its bare back shelves and its empty box of cards. He thought that this was as near as she would ever come to saying the thing in the way Lira or Brom would have said it, and that it was more than enough. It was exactly her size.
+He did not know what to say. He sat at the table across from her, and the archive was very quiet round them, with its bare back shelves and its empty box of cards. Lira or Brom would have said it outright. This, he thought, was as near as she would ever come, and it was more than enough. It was exactly her size.
 
 "Noted," he said.
 

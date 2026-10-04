@@ -48,7 +48,7 @@ Cael looked at the case.
 
 "The last one," he said. "That's the best thing anybody's said to me today."
 
-"It usually is." Prynn reached into the case without looking and drew down the first volume and laid it in his arms. It was heavy and cold, and it smelled of old glue. "The table's where it's always been. I lock up at the eighth bell. You know what that's worth."
+"It usually is." Prynn's hand went into the case without her eyes following it, and came out with the first volume, which she laid in his arms. It was heavy and cold, and it smelled of old glue. "The table's where it's always been. I lock up at the eighth bell. You know what that's worth."
 
 ---
 
@@ -92,7 +92,7 @@ He saw it before he saw her face. The hollow circle was gone, and in its place h
 
 "I noticed."
 
-"Everybody noticed." She looked at the stable door and not at him. "Can I ask you something rude?"
+"Everybody noticed." Her eyes went to the stable door, not to him. "Can I ask you something rude?"
 
 "You can ask."
 
@@ -140,7 +140,7 @@ Quenna, at the tall window, looked at the arrangement and turned round.
 
 "He stays," she said. "All of it. Nothing gets decided about him in this room that he doesn't hear decided."
 
-Naveth did not argue; he looked as if he had spent the night arguing already, against himself, and lost every round. He laid the challenge on the blotter and squared it to the edge.
+Naveth did not argue; he looked as if he had spent the night arguing already, against himself, and lost every round. He laid the challenge on the blotter, squared to the edge.
 
 "We cannot win this on the merits," he said.
 
@@ -154,7 +154,7 @@ Naveth looked at her, and then down at the blotter, where his long hand lay flat
 
 "Because I've no defence to offer that I believe," he said. "Counsel has tried for two days and found none either. I would sign that form again this afternoon. We made the category fit him because the alternative was a boy with nowhere to go, and I'm not sorry. But the gloss keeps the category for a candidate who *has not yet undergone formal Kindling assessment*. He has, and the Warden can prove the day. A magistrate doesn't rule on whether I'm sorry. This is the best-drafted paper anybody has ever sent up my stair."
 
-Cael saw what it cost him to say it, because Naveth's whole life was built on one belief, that careful paperwork could shelter the people the registry had priced wrong. The paper on his blotter showed him, in his own system's words, how much weight that shelter would carry, and that he had gone on building after he knew.
+Cael saw what it cost him to say it, because Naveth's whole life was built on one belief, that careful paperwork could shelter the people the registry had priced wrong. Now the registry's own words lay on his blotter, giving the limit of that shelter, and he had known the limit and kept building.
 
 Nobody said anything.
 

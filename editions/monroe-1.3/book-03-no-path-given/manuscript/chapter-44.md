@@ -132,7 +132,7 @@ Footwork came first, until his legs remembered they were legs, and then the old 
 
 He took her hand and got up, and the frozen earth had left a cold print right through the seat of his trousers.
 
-Somewhere in the second half of the hour the day drained out of him, and he noticed it the way you notice a noise has stopped. For the first time since the gate he was not thinking about anything: not the word, not the case behind the pillar, not the man with the card. There were Lira's feet and Brom's bags and the cold, and the old turns coming up out of him one after another because his body knew them better than he did. He understood again what she had chosen in the provost's office that morning, and that nobody alive could have done it better.
+Somewhere in the second half of the hour the day drained out of him, and he noticed only after it had gone. For the first time since the gate he was not thinking about anything: not the word, not the case behind the pillar, not the man with the card. There were Lira's feet and Brom's bags and the cold, and the old turns coming up out of him one after another because his body knew them better than he did. He understood again what she had chosen in the provost's office that morning, and that nobody alive could have done it better.
 
 "There," she said, when the third sequence came clean at last. "That's you. I lost you somewhere round the second bell."
 
@@ -240,7 +240,7 @@ He flinched. His whole body flinched, his shoulders came up and his breath went 
 
 Nothing lit.
 
-He knelt there with his heart going hard and the warmth still sitting under his hand, ready, unspent, exactly where he had held it. After a long moment he took his hand away. The wood under it was clean grey oak.
+He knelt there with his heart going hard and the warmth still sitting under his hand, ready, unspent, where he had held it. After a long moment he took his hand away. The wood under it was clean grey oak.
 
 "Well," said Lira quietly.
 

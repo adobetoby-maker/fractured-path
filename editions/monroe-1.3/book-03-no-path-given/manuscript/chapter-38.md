@@ -10,7 +10,7 @@ She held it to a count of twenty and let it go, and watched its third of a breat
 
 Nothing was missing. Nothing in her had been taken away.
 
-She had known that, really, since the yard. She had felt nothing leave her in the third exchange; she had felt something answer her, which was not the same. But she had wanted to check it in the morning, cold, with her own hands, the way she checked any result that mattered to her before she let herself believe it. Whatever he had done, it was not theft; her Path was exactly the size it had been on Wednesday, and it had not been divided. It had been, she thought, carefully, trying the word in her head and not yet trusting it, *copied*. No. That was not right either. She did not have the word yet.
+She had known that, really, since the yard. She had felt nothing leave her in the third exchange; she had felt something answer her, which was not the same. But she had wanted to check it in the morning, cold, with her own hands, before she let herself believe it. Whatever he had done, it was not theft; her Path was exactly the size it had been on Wednesday, and it had not been divided. It had been, she thought, carefully, trying the word in her head and not yet trusting it, *copied*. No. That was not right either. She did not have the word yet.
 
 She got up and washed and dressed and sat down at the little table by her window with both notebooks, because that was what she did with mornings.
 
@@ -144,7 +144,7 @@ The archive door opened at the eighth bell on the Saturday, and he knew the step
 
 He was at the far end of the long table with the observation notebook shut on the table before him and his bad arm resting in its loose linen across his lap. He had not seen her for two days, and it had taken him until Friday afternoon to notice, which embarrassed him once he had. Since the autumn Karis had kept time like the water clock: every session, every meal, every evening in the stable, and the archive so regularly that the bells might have been set by her. Then, from Brom's room on the night of the match, nothing. The only sighting was Brom's: Saturday at first light, a figure crossing the yard at speed with the collar up, gone before he could call out. When Cael asked Lira, Lira said only, "She's writing something she doesn't want watched." Lira would know. Lira had once lost two days of her own to four paragraphs from Fenmark, and he did not ask.
 
-Karis came the length of the room and sat down opposite him. She had brought no notebook. She laid her folded hands on the table in the place where one should have been, and looked at that empty place before she looked at him.
+Karis came the length of the room and sat down opposite him. She had brought no notebook. Her hands lay folded on the bare wood where a notebook belonged, and she studied that bare patch first and him second.
 
 "I have to tell you something," she said. "Please don't speak until I'm done. If you stop me in the middle I won't be able to begin again, and it has taken me two days to get as far as the bottom of the stairs."
 

@@ -142,7 +142,7 @@ Hobb was at the north mark with his feet a shoulder-width apart and his hands lo
 
 "For the record," said Quenna, and the hall went flat and slow. "Demonstration assessment, unclassified observer track. Sixth sitting. Present: the presiding assessor, the instructor's seat, the rotating faculty seat. Present also, under the charter's procedure, the Compact's officer of record, as an observer without voice. The candidate demonstrates at his own election. Begin when you choose."
 
-He showed the framework, four passes at panel speed, and Wray broke the count on the third as she always did, and he read Hobb's hips through the broken rhythm as easily as through the steady one. He showed the read, four calls at two paces, the last with his eyes shut, and Hobb's weight went where Cael said it would go every time, and on the fourth Hobb did not try to change his mind halfway, which Cael understood was a courtesy. It was exactly what he had shown five times before. He had built it to be.
+He showed the framework, four passes at panel speed, and Wray broke the count on the third as she always did, and he read Hobb's hips through the broken rhythm as easily as through the steady one. He showed the read, four calls at two paces, the last with his eyes shut, and Hobb's weight went where Cael said it would go every time, and on the fourth Hobb did not try to change his mind halfway, which Cael understood was a courtesy. It was what he had shown five times before. He had built it to be.
 
 The panel did not confer. Wray wrote her line, and Cael could have recited it with her.
 

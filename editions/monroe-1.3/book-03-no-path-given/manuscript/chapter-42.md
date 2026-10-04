@@ -6,7 +6,7 @@ It was the middle of the morning on the Monday of the nineteenth week, between t
 
 There were two travellers at the clerk's booth. One was young, with a satchel on each shoulder and a case in each hand, standing the half-step back that an aide stands from the person he carries for. The other was older, in plain travelling clothes the colour of the road, and he was holding out a small stamped seal on a card, and waiting.
 
-The clerk had it in her inky fingers and was turning it over. She looked at it much longer than she looked at anything that came through her booth, and Cael watched her look and knew what the look was. It was the look of somebody checking a thing against her memory and finding nowhere in her memory to put it. She said something. The older man answered, patiently, and took a second paper from a document case under his arm, folded once, the sort of extra proof a careful traveller carries for such a moment. The clerk read it, and put her finger on her list, and found something on the list, and the gate opened as it opened for anybody the list expected.
+The clerk had it in her inky fingers and was turning it over. She looked at it much longer than she looked at anything that came through her booth, and Cael watched her look and knew what the look was. It was the look of somebody checking a thing against her memory and finding nowhere in her memory to put it. She said something. The older man answered, patiently, and took a second paper from a document case under his arm, folded once: a careful traveller's spare proof. The clerk read it, and put her finger on her list, and found something on the list, and the gate opened as it opened for anybody the list expected.
 
 The second paper he never needed to see.
 
@@ -32,7 +32,7 @@ Prynn looked at him over her spectacles from the high stool.
 
 "Whatever it is," she said, "the shelves will still be here."
 
-It was the nearest thing to comfort the archive had in it, and he understood as he went out that she had meant it so. It did more work in him on the way up the stair than it had any right to.
+No other comfort was to be had in that archive. She had meant it that way, and he knew it going out. It did more work in him on the way up the stair than it had any right to.
 
 The walk took four minutes, and he spent every one of them counting, because counting was easier than looking at the one thing he was not ready to look at. Fourteen students crossing the yard. Three crows along the kitchen ridge. His boots loud on the flags and then quiet on the trodden earth, and the wind cold on one cheek. He had rehearsed this day since Denvash in more versions than he could number, and in every one of them it had come as a knock: a courier on Hesk's front step on the second morning, one knock, a polite wait, a satchel. In none of them had it come as a patient man in road-coloured clothes holding up a seal at a gate, and the gate swinging open for him because nothing about him was wrong.
 
@@ -70,7 +70,7 @@ He was older; that was the first thing Cael's eyes took in after the counting. T
 
 Quenna's eyes went to the empty chair, and Cael sat.
 
-His voice came out steadier than he had expected. "You've come a long way from your district."
+His voice was steadier than he had any right to expect. "You've come a long way from your district."
 
 "I have. That needs explaining first." Coss took something small from the case and held it so the room could see it. It was a card, stamped and plainly printed, not much bigger than a playing card, and Naveth did not look at it. He had seen it already, Cael realized, alone, before anybody went to fetch the observer from the archive.
 

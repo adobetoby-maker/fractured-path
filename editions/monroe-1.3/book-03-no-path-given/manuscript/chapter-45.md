@@ -86,7 +86,7 @@ It held the four parts of the tree, and the definitions clause copied out in ful
 
 "Turn it round," said Prynn.
 
-He turned it round, and she came down the side of the table and stood over it, and her lips moved on the definitions clause, once and then again, the way they moved when she was matching a citation to the shelf where she remembered it living.
+He turned it round, and she came down the side of the table and stood over it, and her lips moved on the definitions clause, once and then again.
 
 "Don't tell me," said Prynn. "Let me read what you wrote. If it needs you standing next to it to make sense, it won't stand up in that room."
 
@@ -172,7 +172,7 @@ Brom said nothing. He settled his feet.
 
 She lowered the finger.
 
-Hobb came. It was his honest walking weight, both forearms up, the push of a Stone fourth-year who could not be hurried and did not mean to be, and Brom met it with the Iron Skin coming up along his forearms and took it and gave and turned. Hobb's weight went past him, slow and sure, along the line Brom chose for it, and out toward the west, where Edran was already arriving. Edran's shell burst on Brom's guard in a spray of pale glitter. Brom took that too, turning, his feet moving to follow the turn. As his right foot came down a thin line of heat lit across the boards in exactly that place, from one of Karis's points to another. It shoved up at his shin like a stove door thrown open, and he rode it, smoking faintly at the boot, and set his feet. And Lira came in from the open east, light and quick, and her palm was a hand's width from his ribs when he turned her away.
+Hobb came. It was his honest walking weight, both forearms up, the push of a Stone fourth-year who could not be hurried and did not mean to be, and Brom met it with the Iron Skin coming up along his forearms and took it and gave and turned. Hobb's weight went past him, slow and sure, along the line Brom chose for it, and out toward the west, where Edran was already arriving. Edran's shell burst on Brom's guard in a spray of pale glitter. Brom took that too, turning, his feet moving to follow the turn. As his right foot came down a thin line of heat lit across the boards in that very place, from one of Karis's points to another. It shoved up at his shin like a stove door thrown open, and he rode it, smoking faintly at the boot, and set his feet. And Lira came in from the open east, light and quick, and her palm was a hand's width from his ribs when he turned her away.
 
 "One," said Wray, and wrote, and raised her finger again.
 

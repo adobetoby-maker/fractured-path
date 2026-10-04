@@ -170,7 +170,7 @@ Cael had known it. He had told Lira on the frozen ring before the sixth sitting 
 
 Coss put his pen down.
 
-He laid it across the clean sheet, square, and folded his hands on the open case, and for the first time since the sand-glass had turned he leaned back a very little in his chair. Cael saw it, and knew it the way he knew a fighter settling his weight before the exchange he had come for. Everything until now had been the approach. This was the thing the hour had been built to carry.
+He laid it across the clean sheet, square, and folded his hands on the open case, and for the first time since the sand-glass had turned he leaned back a very little in his chair. Cael saw it, and knew it as he knew a fighter settling his weight before the exchange he had come for. Everything until now had been the approach. This was the thing the hour had been built to carry.
 
 "When you signed the enrollment form," said Coss, "did you understand the category to describe you accurately?"
 

@@ -130,7 +130,7 @@ She had asked Wray for a partner, for somebody, she told Cael, who would not be 
 
 The heat-Paths floor had never had so many people at its rail. Word had got round, as word always got round at Greyvane, that the Ternhall girl was going to fight a full bout in the open with the observer watching. Edran was there with his arms folded at the end of the rail, and Lira and Brom and Gerda, and the second-year tout with a stub of pencil behind his ear, and Oona standing on the bottom rung to see over a third-year's shoulder.
 
-Hobb stood at the north mark of section two with his hands loose and his feet a shoulder-width apart, and he did not look like furniture today. Cael could not have said what was different. Perhaps it was the set of his jaw, or perhaps only that nobody had bent to his ear before the bout to tell him what to do.
+Hobb stood at the north mark of section two with his hands loose and his feet a shoulder-width apart, and he did not look like furniture today. What was different, Cael could not have said. Perhaps it was the set of his jaw, or perhaps only that nobody had bent to his ear before the bout to tell him what to do.
 
 The heat-Paths instructor called it, four exchanges, no touches counted, the bout to end on a yield or on his word.
 
@@ -156,7 +156,7 @@ A single line of heat ran along the boards between them, thin and faintly singin
 
 Hobb looked at it. Then he did the thing nobody had told him to do, and stepped across it.
 
-The channel answered. Cael had not known it would, and he would remember for a long time exactly what it looked like. The moment Hobb's shin broke the line, the heat in it did not simply burn. It came up out of the floor at him in a single hard push, like the breath out of a stove when the door is opened, and the push took Hobb in the shins and knees and threw him back a full step, Stone or no Stone. He came down on his heels, braced, smoking faintly at the boots. The channel had gone out. It had spent itself on him, all at once, as a trap spends itself on the foot that springs it.
+The channel answered. Cael had not known it would, and he would not forget what it looked like. The moment Hobb's shin broke the line, the heat in it did not simply burn. It came up out of the floor at him in a single hard push, like the breath out of a stove when the door is opened, and the push took Hobb in the shins and knees and threw him back a full step, Stone or no Stone. He came down on his heels, braced, smoking faintly at the boots. The channel had gone out. It had spent itself on him, all at once, as a trap spends itself on the foot that springs it.
 
 Hobb stood where the push had put him and looked down at his own shins, and then at the dark line on the boards where the channel had been.
 

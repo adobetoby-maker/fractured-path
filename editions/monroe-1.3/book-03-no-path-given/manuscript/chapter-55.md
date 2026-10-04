@@ -8,7 +8,7 @@ The tout was on it. He was four rows back and to the right, with his crust book 
 
 She had watched a great many fights from a great many benches. She knew the sound a crowd made when the fighter it had come to cheer started losing slowly, and the room was making it now. It was not a noise so much as a change in the quiet. At the first bell the benches had been bright and tight with people come to see their own boy win something. She had heard it in the passage, in the second-years' good coats, in the tout's first odds. Now, two papers in, the brightness had gone flat and uneasy, and people had begun to shift on the benches and look at their hands.
 
-Cael had not moved at all. He sat at the bare table with his hands in his lap and his eyes on the Warden, and from where she sat she could see the back of his head and one ear and the set of his shoulders, which were exactly where she had put them the evening before. She watched them the way she would have watched a fighter's hips. They did not come up once.
+Cael had not moved at all. He sat at the bare table with his hands in his lap and his eyes on the Warden, and from where she sat she could see the back of his head and one ear and the set of his shoulders, which were where she had put them the evening before. She watched them the way she would have watched a fighter's hips. They did not come up once.
 
 *Good,* she thought. *Stay there.*
 
@@ -48,7 +48,7 @@ Edran did not look at the respondent's table. He looked at the Warden.
 
 It went through the gallery like cold water.
 
-Lira felt it go. She felt the two second-years by the window lean together, and heard the tout's pencil, and she watched the back of Cael's head and saw it not move. The Warden did not underline the answer. He did not turn to the panel or say *thank you* in the way men say it when they have been handed what they came for. He only said, "Thank you. Nothing further," and sat down. He left the answer standing in the middle of the floor by itself, where it looked much larger than if he had pointed at it.
+Lira felt it go. She felt the two second-years by the window lean together, and heard the tout's pencil, and she watched the back of Cael's head and saw it not move. The Warden did not underline the answer. He did not turn to the panel or say *thank you* like a man handed what he came for. He only said, "Thank you. Nothing further," and sat down. He left the answer standing in the middle of the floor by itself, where it looked much larger than if he had pointed at it.
 
 Edran did not leave the chalk square at once.
 
@@ -156,7 +156,7 @@ Cael was looking at the same door. He had not eaten any of the bread.
 
 "Someone who commits later," he said.
 
-Brom nodded, once, and turned back to the yard.
+Brom gave one nod and turned back to the yard.
 
 Lira waited until Karis had gone to the pump for a cup of water and Brom had gone with her, because there was a question she did not want to ask in front of either of them.
 

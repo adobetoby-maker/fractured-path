@@ -102,7 +102,7 @@ He said it again, slower, and let *shall mean* sit in the room a moment by itsel
 
 "Better," said Karis, and made a small mark on her card with a flourish no magistrate in the history of the charter would ever have permitted himself.
 
-They went on until the fire was low, and she made him cite the clause four times, and point every time. She made him read out the five places in the schedule, and then the sixth, the refused categories bound at the back of the seventh volume, which he had not counted separately until she did. She made him say the concession, the first sentence of the whole argument, eleven times, until it came out of him flat and plain and short, with nothing on it at all, the way Yorlan would say it if Yorlan ever had to concede anything. At the eleventh she said *the panel notes it* and stopped.
+They went on until the fire was low, and she made him cite the clause four times, and point every time. She made him read out the five places in the schedule, and then the sixth, the refused categories bound at the back of the seventh volume, which he had not counted separately until she did. She made him say the concession, the first sentence of the whole argument, eleven times, until it came out of him flat and plain and short, with nothing on it at all, as Yorlan would say it if Yorlan ever had to concede anything. At the eleventh she said *the panel notes it* and stopped.
 
 "That's enough for tonight," she said, in her own voice. Her face came back all at once, and her shoulders came down, and she laughed at the rafters. "I've never been so tired. Being a magistrate is exhausting. I don't know how he does it."
 

@@ -218,7 +218,7 @@ At the door she stopped, with her hand on the frame, and turned back.
 
 Then she was gone, before he could ask what she meant by the last of it. He suspected that was on purpose. It was a sentence made to be taken to bed unfinished, so that it would still be there, waiting, when the panel called him in the morning.
 
-After the door had shut he stayed where he was, with the notebook lying shut on the table in front of him, and for once he left it that way. The reading room ticked and settled round him as old buildings do at night, the stone of the waystation letting the day's small warmth go out of it a little at a time. Prynn's lamp at the high desk had been put out, and only his own burned, low, at the end of the long table, and the shelves went back from its light into a dark that held more of other people's recorded lives than he could have read in ten years of evenings.
+When the door had shut he did not move. The notebook lay shut on the table before him. For once, he let it stay so. The reading room ticked and settled round him as old buildings do at night, the stone of the waystation letting the day's small warmth go out of it a little at a time. Prynn's lamp at the high desk had been put out, and only his own burned, low, at the end of the long table, and the shelves went back from its light into a dark that held more of other people's recorded lives than he could have read in ten years of evenings.
 
 Six weeks sat behind him, as complete as they were ever going to be: the charts and the tells and the four words, sixteen and the cold air, Lira's chalk stopped at four, the drop at two of three for one breath and a strap, and a sentence in the binder about choosing a burn. And under all of it, in the binder's back pages, sat the other sentence, the one Karis did not have and Lira did. *It takes what's used on me.*
 
@@ -228,7 +228,7 @@ He did not know if he could, or if anybody could carry a sentence like that into
 
 Perhaps that was all it was. Perhaps that was all it had ever been.
 
-Turning it over one last time in the low light, he knew he was not afraid of tomorrow as he had been afraid of the quiet room. In the quiet room he had been afraid of nothing happening, and tomorrow he was afraid of losing, which was a cleaner fear, and one he knew what to do with, because he had been carrying it into rings since he was fourteen.
+He turned it over one last time in the low light. He was not afraid of tomorrow as he had been afraid of the quiet room. In the quiet room he had been afraid of nothing happening, and tomorrow he was afraid of losing, which was a cleaner fear, and one he knew what to do with, because he had been carrying it into rings since he was fourteen.
 
 For the first time since Ardenmere he was going to walk into a match without knowing which version of himself would walk out of it.
 

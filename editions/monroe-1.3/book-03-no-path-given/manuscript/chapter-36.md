@@ -4,7 +4,7 @@ He woke before the bell and lay still in the grey and took inventory, as he did 
 
 Hands first: steady, and warm under the blanket. Breath next, slow and even, with no catch under the breastbone, which meant the bruise from the whole push had finally gone. Then the four, one at a time, in the order they had come.
 
-Wind-adjacent answered first, as it always did, before he had finished turning toward it, light and quick and rested after two days without Lira's chalk. Pressure-adjacent sat where it had sat for a year, banked and unspent, a weight he could feel the edges of. Iron-adjacent was steady, a readiness along the skin of his forearms and the backs of his hands, and Compression-adjacent lay low in his chest, quiet as a coal under ash. Each fragment answered when he turned to it.
+Wind-adjacent answered first, as it always did, before he had finished turning toward it, light and quick and rested after two days without Lira's chalk. Pressure-adjacent sat where it had sat for a year, banked and unspent, a weight he could feel the edges of. Iron-adjacent was steady, a readiness along the skin of his forearms and the backs of his hands, and Compression-adjacent lay low in his chest, quiet as a coal under ash. Each one answered the moment he turned toward it.
 
 And beside them lay the fifth space that was not a space. He had spent three weeks in a whitewashed room learning its exact shape by failing to fill it, and he knew it now as well as he knew any of the four; he could have drawn its edges.
 

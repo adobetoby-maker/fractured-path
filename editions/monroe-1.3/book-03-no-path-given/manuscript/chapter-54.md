@@ -56,7 +56,7 @@ The assembly room had never held so many. Benches from the training hall had bee
 
 And among them, scattered, sitting very still, were the people who did not belong to the hill.
 
-He counted seven. Two wore the plain grey of registry offices, and sat well apart from each other. One was a woman in a dark blue coat with the badge of an academy he did not know at her collar. She had taken a seat at the end of a bench with a clear line not to the panel but to the recording desk. That told him she cared more about what would be written than about what would be said. There was a man with a guild's legal satchel on his knees, who had already uncapped his pen. There was an old woman in black who had brought a cushion. And there were two more he could not place at all, who looked at nothing and wrote nothing, and whose stillness was the most deliberate thing in the room.
+He counted seven. Two were in registry grey, and had taken seats well apart. One was a woman in a dark blue coat with the badge of an academy he did not know at her collar. She had taken a seat at the end of a bench with a clear line not to the panel but to the recording desk. That told him she cared more about what would be written than about what would be said. There was a man with a guild's legal satchel on his knees, who had already uncapped his pen. There was an old woman in black who had brought a cushion. And there were two more he could not place at all, who looked at nothing and wrote nothing, and whose stillness was the most deliberate thing in the room.
 
 Seven people had come up a hill in midwinter to watch a hearing at an academy most of them could not have found on a map a month ago. The record was public, and word of it had travelled faster than three weeks ought to have let it. He took that in, and set it down where he kept the things he would think about later, and reached the table.
 
@@ -108,7 +108,7 @@ He sat. Yorlan read the notice into the record: the matter and the parties, the 
 
 Coss stood up.
 
-He did not look at the respondent's table. Cael had expected that, and was glad of it. It was not coldness. There was nothing personal on that side of the floor, and there never had been, and the whole of what Coss meant to show the room today rested on that.
+He did not look at the respondent's table. Cael had expected as much, and was glad. It was not coldness. There was nothing personal on that side of the floor, and there never had been, and the whole of what Coss meant to show the room today rested on that.
 
 "Magistrate. Assessors." Coss spoke as he always spoke, evenly, with no paper in his hand. "The Compact will put three things before the panel. First, what the respondent's provision was written to do, and for whom: its text says so, and so do its drafting records, and the Compact will produce both. Second, that the respondent is not one of the people it was written for: that is in the registry, and in his own words on deposition. Third, that whenever a chartered academy has stretched this provision over a person it was not written for, the enrollment has been voided, every time, and the Compact will produce each instance." He paused, not for effect, only because the next sentence was a separate thing and he gave it a separate place. "What the respondent is, the Compact leaves alone. That question is not before you, and the Compact will not put it there. The Compact asks the panel to read a paper and say what it says. The paper is plain. The Compact begins with its text."
 
@@ -128,7 +128,7 @@ He knew how to watch a fighter. He had been doing it since before he could have 
 
 It was the deposition again, Cael thought. *Answer the question asked.* Only now it was the other man doing it, for a whole day, in front of everybody, and doing it better than anybody Cael had ever watched.
 
-He would have liked to write that down. He had nothing to write it with. Under the table, against his knee, he folded down one finger of his left hand, the way Brom made a mark in his number column, and kept it folded. *Text. Theirs.*
+He would have liked to write that down. He had nothing to write it with. Under the table, against his knee, he folded down one finger of his left hand, as Brom made a mark in his number column, and kept it folded. *Text. Theirs.*
 
 ---
 
@@ -156,7 +156,7 @@ Cael folded down a second finger under the table.
 
 He sat with the two folded fingers against his knee and thought about what he had just learned, coldly, because it was worth learning. The Compact kept everything. Whatever it had ever written down, about anything, it still had somewhere, in a box in a basement, under the wrong name perhaps, but kept. An argument that counted on some old page having gone missing had nothing under its feet.
 
-And his own argument hoped for the opposite. It hoped that every page the Compact had ever written was still exactly where it had been put. Tomorrow he meant to stand up and ask the room to read all of them, and to find that none of them said what everybody had always taken for granted they said.
+And his own argument hoped for the opposite. It hoped that every page the Compact had ever written was still where it had been put. Tomorrow he meant to stand up and ask the room to read all of them, and to find that none of them said what everybody had always taken for granted they said.
 
 He looked at the dark-spined volumes at Ilsev's elbow, and then away from them.
 

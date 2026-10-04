@@ -22,7 +22,7 @@ Oona was on the front bench at the left by the aisle, in the same place as yeste
 
 Quenna came in by the side door and did not come to the table. She went to the row of chairs set a little back from it, where the academy's counsel and Naveth already sat. She took the chair at the end nearest the table and put her slate on her knee. She did not look at him. Cael felt her there, as she had said he would.
 
-He sat down alone at the respondent's table, in front of the low dark wall of books, and put his hands flat on the wood, and took them off again.
+He sat down alone at the respondent's table, with the low dark wall of books before him. His hands went flat on the wood and came off again.
 
 ---
 
@@ -172,7 +172,7 @@ After the annex the boy read the appendix of disputed standings. Every category 
 
 His ink had begun to thicken.
 
-It was the cold. The assembly room had never been warm, and the morning had worn on long enough that the ink in his well had gone slow and dark at the edges, the way it did on winter circuits in the hill districts. He stopped between two entries and took the well off the desk and held it in his closed hand against his chest for the count of twenty, as the old recorder had taught him, to warm it. He had not noticed the morning go.
+It was the cold. The assembly room had never been warm, and the morning had worn on long enough that the ink in his well had gone slow and dark at the edges, as it did on winter circuits in the hill districts. He stopped between two entries and took the well off the desk and held it in his closed hand against his chest for the count of twenty, as the old recorder had taught him, to warm it. He had not noticed the morning go.
 
 He looked at the gallery now, and it was not the same room it had been at the first bell.
 

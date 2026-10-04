@@ -214,7 +214,7 @@ He watched her do it and did not say anything, because they both knew what came 
 
 ---
 
-The stable was empty by the time they came up. The fire had burned down to a red bed at the far end and the tiles had been put away. Somebody had left a lamp on the scarred table, low, the way Lira left it when she wanted him to know she had gone up and would be cross if he sat in the dark.
+The stable was empty by the time they came up. The fire had burned down to a red bed at the far end and the tiles had been put away. Somebody had left a lamp on the scarred table, low, as Lira left it when she wanted him to know she had gone up and would be cross if he sat in the dark.
 
 They sat at the end of the table under the bricked-up hay door. Karis put her two notebooks on the wood in front of her and squared them to the edge, and he put the observation notebook beside them, and neither of them said anything.
 

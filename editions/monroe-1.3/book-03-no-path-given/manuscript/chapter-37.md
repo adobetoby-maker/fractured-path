@@ -204,11 +204,11 @@ He wanted to tell her *yes*, because yes would let her sleep, and yes would keep
 
 "I don't know yet."
 
-She held his eyes while the answer went in. It was not approval that came into her face. It was something harder and plainer than that: the respect of someone who would always choose an honest problem over a comfortable lie put on file.
+She kept her eyes on him while the answer went in. It was not approval that came into her face. It was something harder and plainer than that: the respect of someone who would always choose an honest problem over a comfortable lie put on file.
 
 "Find out before the Compact does," said Quenna.
 
-That was the end of it. She turned the record back toward herself, laid it in a folder, and tied the tape. He went down the narrow stair carrying the sentence, and it stayed in him for the rest of the day.
+That was the end of it. She turned the record back toward herself, laid it in a folder, and tied the tape. He took the sentence down the narrow stair with him, and he was still carrying it at supper.
 
 ---
 
@@ -216,7 +216,7 @@ All that day, under everything else, the new one was there.
 
 He left it alone, as he had promised Lira and written down that he would. But leaving it alone did nothing to stop him knowing where it was.
 
-It was not like the others, and he kept coming back to that without ever finding the bottom of it. The four he had carried longest lay in him the way a craftsman's tools lie rolled in their cloth, each one separate and silent until wanted, and each so much his own by now that he could no longer feel the seam where it had been joined to him. The fifth was nothing but seam. It sat warm, not hot, doing nothing that any instrument on any panel's table would ever have registered: only a faint, even warmth, like a stone in a sunny wall still giving back the afternoon after the sun has gone.
+It was not like the others, and he kept coming back to that without ever finding the bottom of it. The four he had carried longest lay in him like a craftsman's tools rolled in their cloth, each one separate and silent until wanted, and each so much his own by now that he could no longer feel the seam where it had been joined to him. The fifth was nothing but seam. It sat warm, not hot, doing nothing that any instrument on any panel's table would ever have registered: only a faint, even warmth, like a stone in a sunny wall still giving back the afternoon after the sun has gone.
 
 And in the warmth there was something he knew, from six weeks spent learning it: exactness, patience, small promises kept to the letter. It had come to him partial and rough, its edges torn by the clumsiness of his taking, and still there was no mistaking whose it had been. A page of someone's writing holds their whole hand. This held her. It felt like her.
 

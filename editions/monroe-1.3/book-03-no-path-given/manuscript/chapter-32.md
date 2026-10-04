@@ -132,7 +132,7 @@ They had the end of the scarred table under the bricked-up hay door, the corner 
 
 He laid the fair copy on the table between the bowls. Quenna had given it to him on the stair as he left, folded once, without being asked. "It's part of your record now," she had said. "You read every other part of it first. I can't see why this one should be any different."
 
-Lira picked it up and read it slowly, with her thumb moving down the margin, which was how she read anything she had not yet decided to believe. At the underlined line her thumb stopped. Then she set the sheet down very carefully beside her bowl and kept her hand on it.
+Lira picked it up and went through it slowly, her thumb moving down the margin, which was how she read anything she had not yet decided to believe. At the underlined line her thumb stopped. Then she set the sheet down very carefully beside her bowl and kept her hand on it.
 
 "Fenmark never once wrote an expulsion as good as this waiver," she said.
 
