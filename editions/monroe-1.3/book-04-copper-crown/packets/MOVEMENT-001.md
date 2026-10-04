@@ -45,3 +45,19 @@ Chapter boundaries; how much of the Greyvane term is scene and how much is log; 
 ## Where we leave pressure
 
 Enrolled on a true sentence, with the obligation priced in writing. The four of them are on four tracks. Lira is caged by paper, Brom is about to find "the wall," and Karis has an archive. The institution's incentives are fully visible, and Cael does not yet know whether visible ambition is sturdier shelter than conviction. Rooke has said, on the record, that the inspection will come early. The assessment office will schedule the entry demonstration, and that baseline is permanent.
+
+## Coordinator notes (Book 3 Monroe 1.3 edition closed, 2026-10-04) — these override this packet, BOOK_MAP and the entry STATE_LEDGER where they conflict
+
+**Book 3 of this edition is rewritten and text-complete** (61 chapters, `editions/monroe-1.3/book-03-no-path-given/manuscript/`). Where this book's files cite "B3 ChNN", those numbers point at the OLD edition; the Monroe 1.3 Book 3 governs.
+- **Read instead of source B3 ch23–24:** the edition's Book 3 ch58–61 in full (the ruling, week 24, the close), and Book 3 `STATE_LEDGER.md` "After Movement 8 — BOOK 3 ENDING" with its coordinator rulings and "Book-level canon confirmed".
+- **Carry these facts:**
+  - **The hearing.** The ruling is narrow ("narrow and jurisdictional" is Karis's phrase). Procedure: Edran and Hobb were the respondent's witnesses; Quenna and Naveth answered for documents; Yorlan says "the panel notes it", never "I".
+  - **The Ember fragment.** ACQUIRED in the Karis match's third exchange (the edition's ch36, Thursday of week 16), with the notice P1 verbatim. It was lit once at the moment of taking. The *letting-go* is the second rewording; **"decision point" stays reserved for this book's ch21**.
+  - **The entry-ledger mismatch.** Where this book's entry ledger says "B3 Ch13 … destabilization at about 18 hours, two misfires, settled in 11 days", reconcile to the edition: dawn misfires the day after the match, then Karis's two days, then the clean days (Book 3 ledger, wk16–17). Do not restate figures the edition does not give.
+  - **Karis and the Power Log.** Karis asked to read the Power Log at the end of Book 3 (ch60). She is one of "three people who know all of it". Before asking, she had never seen the binder.
+  - **Box seven.** Nine volumes went out, eight were shelved, and the gap is on Prynn's shelf. That is the plant; do not resolve it unless this book's map stages it.
+  - **New canon from Book 3's repair:** Cael promised to write to Vell; Vell will teach him to read a ledger; Havel trained as a recorder after his "new grade".
+  - **Registry name and number:** "Caelen Hesk-ward, 41-7843-V". `[SHATTERED]` takes brackets only in documents read verbatim; spoken, it is plain *shattered*.
+  - **Pronunciations (owner-confirmed):** Cael = KAYL; Lira = LEER-a.
+- **Courier calendar (edition canon).** Ilsev's query went down the hill Wednesday evening and returned Saturday after the fifth bell, and the referral went up Monday. **Book 4's "in the second hour of a review"** and the referral text's "of the preceding year" (B4 ch18) are known conflicts flagged by Book 3's review. When this book references the referral, use the courier timing and leave the year phrase out.
+- **Method.** Draft from your own event list, not from the source page (EDITION_BRIEF). Keep narration joined from the first draft: ≥40-word share 2.5–4.5%, and dialogue tags lean (drop "said" where the speaker is clear).

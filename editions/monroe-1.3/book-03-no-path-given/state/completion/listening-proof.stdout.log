@@ -1,0 +1,2748 @@
+Reading additional input from stdin...
+OpenAI Codex v0.153.0
+--------
+workdir: /Users/drive/fractured-path-monroe13
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: high
+reasoning summaries: none
+session id: 01a1085b-81f0-72a0-be1b-31bd64c45cf2
+--------
+user
+You are the line-and-listening proofreader for Book 3 "No Path Given" of the Monroe 1.3 edition of The Fractured Path (Sol, via codex). This is Step 3 of the book-completion pass, the last check before every chapter is rendered to audio by Breeze TTS. Breeze uses a single narrator voice, one segment per paragraph, with `---` breaks read as long pauses.
+
+**Do not modify any manuscript file.** Working directory: /Users/drive/fractured-path-monroe13.
+
+## The model to follow
+
+Book 1's identical proof is the model. Read it first and match its structure and judgement:
+editions/monroe-1.3/book-01-the-shattered/state/completion/listening-proof.md
+
+## Read
+
+- editions/monroe-1.3/book-03-no-path-given/state/completion/COMPLETION-PLAN.md and the lane reports in that folder.
+- editions/monroe-1.3/EDITION_BRIEF.md: the audio and Reader Standard sections.
+- editions/monroe-1.3/OWNER-DECISIONS.md. Note #33 (Cael = KAYL, Lira = LEER-a are owner-confirmed) and #29.
+- BOOK_MAP.md §9 (protected lines) and protected-patterns.txt.
+- editions/monroe-1.3/audio/fpaudio.py, to see how code blocks and italics are flattened for the narrator.
+
+## Proof every chapter
+
+Proof manuscript/chapter-01.md through chapter-61.md (about 288,000 words) under editions/monroe-1.3/book-03-no-path-given/. Keep running notes in state/completion/listening-notes.md.
+
+Check for:
+1. **Quotation marks.**
+   - Unbalanced or mismatched quotes. A previous scan found odd straight-quote counts in ch21 and ch59; check whether these are legitimate multi-paragraph speeches.
+   - Speech whose speaker a listener cannot tell, especially in the hearing (ch54–59) and the multi-voice suppers.
+2. **Ear collisions.**
+   - Names that sound alike in one scene: Coss/Doss, Karis/Kestrel, Quenna, Havel/Halvern, Prynn, Wray, Yorlan, Naveth, Oona, Brom, Edran, Hobb, Gerda.
+   - Homographs a narrator could misread.
+   - "as" read as "while", after the texture pass's conversions.
+3. **Formatting the narrator meets.**
+   - System notices and code blocks.
+   - `[SHATTERED]` in documents (brackets never voiced).
+   - Italic Log and binder entries, and the deposition's recorder dashes.
+   - Numerals: the registry number 41-7843-V, weeks, bells, box counts.
+   - Abbreviations (D1, D6, wk, Cu).
+   - Stray markdown, and `---` spacing.
+4. **Typos and broken joins** left by the lanes (a mid-clause end, a lower-case start, doubled words).
+5. **Paragraphs over about 700 characters.** List these only.
+
+## Write
+
+Write state/completion/listening-proof.md, and your notes file. Nothing else. It should contain:
+- a verdict;
+- findings by category;
+- exact line fixes, in this format, each old string verified with grep to match exactly once:
+  N. `manuscript/chapter-NN.md`
+     old: `...`
+     new: `...`
+- a pronunciation lexicon table for the Book 3 names and terms. Carry forward Book 1's entries for shared names.
+
+Never change a protected line.
+codex
+I’m using the `book-narrator` skill because this pass is specifically about single-voice TTS listening quality and narration markup. I’ll first absorb its rules and the Book 1 model, then audit all 61 chapters without touching manuscript files; only the two requested completion files will be written.
+exec
+/bin/zsh -lc "sed -n '1,240p' /Users/drive/.codex/skills/book-narrator/SKILL.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+---
+name: book-narrator
+description: "Prepare and produce audiobooks with Monroe Book Narrator 1.2.5-CI. Use when the user asks to narrate a book or chapters, prepare prose for reading aloud, create Codex-directed performance markup, render local Fish S2 narration, check pacing or voice quality, make pickups, or feed narration discoveries back to Writing Monroe."
+---
+
+# Monroe Book Narrator 1.2.5-CI
+
+Use three loops: understand the book, make the words readable aloud, then direct/render/listen/improve. Keep the process lean; do not invent a ladder of chapter gates.
+
+## Start the run
+
+1. Read `/Users/drive/penname/pennamecodexv3/workflows/book-narrator-1.2.5.md` completely.
+2. Resolve the canonical book root and exact chapter files. Do not use an export, old edition, or PWA cache when a newer canon source exists.
+3. Use `Calder` as the owner-approved adult-fiction default unless the book already has an established series voice. `default` is an alias for Original Calder.
+4. Default to a rolling three-chapter unit. Initialize it with:
+
+```bash
+/Users/drive/penname/harness/book-narrator.sh VOICE BOOK_ROOT CHAPTERS
+```
+
+Examples:
+
+```bash
+/Users/drive/penname/harness/book-narrator.sh default /path/to/book 1-3
+/Users/drive/penname/harness/book-narrator.sh holden /path/to/book 1-3
+/Users/drive/penname/harness/book-narrator.sh jason /path/to/book 4-6 --audience adult
+```
+
+5. Read the generated `book-narrator.prompt.md` and `run.json`. Those files give exact artifact paths and voice settings.
+
+## Loop 1 — Understand
+
+- Read the complete available manuscript or the current book performance bible before directing any chapter.
+- Build or refresh the bible with `/Users/drive/kindling-narrator-stage/scripts/build-book-performance-bible.py` when it is absent or stale.
+- Build rolling contexts with `/Users/drive/kindling-narrator-stage/scripts/write-book-performance-contexts.py`.
+- Read all three selected chapters together. Track entry pressure, current turn, and next consequence.
+- Use the selected voice registry entry at `/Users/drive/penname/pennamecodexv3/voices/book-narrator-voices.v1.json`. A voice choice locks identity, approved master, delivery coach, and initial provider speed.
+
+## Loop 2 — Make the words readable aloud
+
+For every prose paragraph, ask whether a listener can understand it once through. Check referents, causal and temporal order, dialogue attribution, sentence load, breath, and whether punctuation exposes the intended thought.
+
+Write one item per prose paragraph to the run's `clarity-review.jsonl` using `/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json`:
+
+- `clean`: meaning lands once and no change is required.
+- `punctuation-correction`: context establishes the intended meaning, but misplaced punctuation obscures its hierarchy or directs the narrator incorrectly. Adopt the word-locked correction even when it materially changes speed, emphasis, breath architecture, or the final landing; that audible change is the repair working.
+- `performance-choice`: context leaves two plausible punctuation readings genuinely viable. Preserve the original, record the alternate, and A/B render both with identical voice settings for owner choice.
+- `writing-change-needed`: punctuation cannot make the meaning land once. Keep the narration copy word-locked and put the smallest suggested wording repair in `writing-monroe-feedback.md`.
+
+Preserve purposeful long cadence, fragments, humor, voice, and owner-protected wording. Do not flatten the prose into generic short sentences.
+
+Treat punctuation as part of the performance score. Recover intended hierarchy from the paragraph, scene, three-chapter movement, and book arc. Do not protect a chain of run-on commas merely because it creates accumulation: if it flattens distinct actions, obscures attachment, or produces the wrong oral meaning, correct it. Use `performance-choice` only when context cannot decide between two valid readings. A pending performance choice blocks the final take even though both versions pass the word lock.
+
+Validate every prepared narration copy:
+
+```bash
+/Users/drive/penname/harness/book-narrator.sh validate /absolute/path/to/run.json
+```
+
+Compile meaning-level feedback with:
+
+```bash
+/Users/drive/penname/harness/book-narrator.sh feedback /absolute/path/to/run.json
+```
+
+Compile material punctuation alternatives for owner A/B review with:
+
+```bash
+/Users/drive/penname/harness/book-narrator.sh choices /absolute/path/to/run.json
+```
+
+Writing Monroe decides the canon repair. After an accepted change, rerun the affected paragraph and both joins. Do not render a chapter while a blocking one-pass comprehension item remains.
+
+## Loop 3 — Codex direct, pace, render, listen, improve
+
+- Read the cleaned chapter again in its three-chapter and book-arc context.
+- Create structured direction with `/Users/drive/kindling-narrator-stage/scripts/direct-tts-chapter.sh --backend codex`, passing the selected coach and chapter context. Do not use Qwen, Ollama, or the TTS engine as the performance director for production audio.
+- Direct intention, subtext, status, tactical clarity, and restraint. Temporary character color must end with an explicit return to the locked base narrator.
+- Compile the direction into the `Directed-Paced` score: 1,550 ms sentence landings, 2,100 ms paragraph/speaker/subject resets, 2,700 ms written scene breaks, and only a small number of 300–340 ms pre-word preparations. Keep complete dialogue-attribution units together.
+- Use local Fish Audio S2 Pro with the locked Original Calder source and approved local performance anchors. Qwen and Directed-Native outputs are historical auditions only and must not enter a new production queue.
+- Never time-stretch finished audio. Provider speed is only a starting request. The approved-master WPM and pause distribution are the final pace authority.
+- Run text coverage, technical mastering, measured pacing, identity/stability, and naturalness checks that apply to the renderer.
+- Listen to the complete chapter. Record exact pickup locations and one cause each. Preserve accepted takes, rerender only failed passages, and recheck the joins.
+- Repeat until the human listening review has no open pickup and there is no unresolved writing-level clarity problem.
+
+Use `/Users/drive/penname/harness/book-narrator.sh status /absolute/path/to/run.json` to summarize progress. Label production artifacts `Monroe 1.2.5-CI · Directed-Paced · Fish S2 Pro · Original Calder` and add `Finished` only after the exact audio hash passes the complete owner listen.
+
+## Return learning to Monroe
+
+At the end of each three-chapter unit, give Writing Monroe a compact report of recurring clarity failures and successful solutions. Distill transferable instincts, such as preparing a real restart at a subject change. Do not teach arbitrary punctuation counts, renderer quirks, or repairs the owner rejected.
+
+Report the prepared text, clarity findings, Writing Monroe feedback, direction tracks, audio, objective QA, and human listening review by absolute path.
+
+codex
+The skill’s key constraint aligns with the assignment: judge whether each paragraph lands on one hearing, preserve protected wording, and separate punctuation-only repairs from true writing changes. I’m reading its full workflow now, then I’ll build a reproducible scan inventory before close-reading the flagged contexts.
+exec
+/bin/zsh -lc "wc -l /Users/drive/penname/pennamecodexv3/workflows/book-narrator-1.2.5.md && sed -n '1,260p' /Users/drive/penname/pennamecodexv3/workflows/book-narrator-1.2.5.md && sed -n '261,520p' /Users/drive/penname/pennamecodexv3/workflows/book-narrator-1.2.5.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     107 /Users/drive/penname/pennamecodexv3/workflows/book-narrator-1.2.5.md
+# Monroe Book Narrator 1.2.5-CI (Codex Integrated)
+
+This is a three-loop audiobook process. It reads at book scale, works in rolling
+three-chapter units, and returns unclear prose to Writing Monroe instead of hiding
+rewrites inside an audio script.
+
+## Loop 1 — Understand
+
+1. Read the complete available manuscript before directing a chapter.
+2. Build or refresh the book performance bible: book arc, viewpoint movement,
+   character pressure, terminology, action cadence, emotional escalation, and ending.
+3. Work in a rolling three-chapter window: previous pressure, current chapter, next
+   consequence. At an edge, use the nearest available chapters.
+4. Lock one core voice and its approved-master coach. Original Calder with the
+   Kokoro-guided profile is the owner-approved adult-fiction default. Holden and Jason
+   remain separate selectable delivery profiles, not speed presets.
+
+## Loop 2 — Make the words readable aloud
+
+Read every paragraph for one-pass comprehension before adding performance direction.
+Classify it as:
+
+- `clean`: meaning, reference, sequence, breath, and dialogue attribution land once.
+- `punctuation-correction`: context establishes the intended meaning, but the existing
+  punctuation obscures its hierarchy or directs the sentence incorrectly. Put the
+  word-locked correction in the narration copy even when it materially changes speed,
+  emphasis, breath architecture, or the final landing. The audible difference is the
+  correction doing its job.
+- `performance-choice`: context does not establish one intended score and two plausible,
+  grammatically valid punctuation readings would make the same words mean or feel
+  materially different. Preserve the original in `preparedText`, place the proposed
+  score in `alternatePreparedText`, and require an owner A/B decision.
+- `writing-change-needed`: punctuation cannot solve ambiguity, overload, bad causal
+  order, unclear pronouns, or a sentence that asks the listener to reread. Keep the
+  narration copy word-locked and send a proposed repair to Writing Monroe.
+
+The narration copy may change punctuation, capitalization, quotation punctuation, and
+paragraph breaks. It may not add, remove, replace, or reorder words. Any wording change
+belongs in the Writing Monroe feedback file. Owner-protected wording stays protected.
+
+Punctuation is performance direction, but audible difference alone does not make a
+change optional. First recover the intended syntactic and dramatic hierarchy from the
+paragraph, scene, three-chapter movement, and book arc. If misplaced run-on commas flatten
+distinct actions, conceal attachment, or force the narrator into the wrong reading, use
+`punctuation-correction` and adopt the clearer word-locked score. Preserve an accumulating
+sentence only when the accumulation is itself the intended meaning and remains clear once
+through. Use `performance-choice` only when context leaves two readings genuinely viable.
+Then render the original and alternate with the same voice, model, speed request, and
+surrounding sentences. The owner chooses `keep-original` or `use-alternate`; a pending
+choice blocks the final take.
+
+For a `writing-change-needed` paragraph, record:
+
+1. what the listener is likely to misunderstand;
+2. why punctuation alone cannot repair it;
+3. the smallest suggested wording change;
+4. what effect or information must survive.
+
+Writing Monroe accepts, modifies, or rejects the suggestion in canon. Then rerun the
+clarity pass on the changed paragraph and both joins. Do not render the chapter while
+an unresolved item prevents one-pass comprehension.
+
+## Loop 3 — Codex direct, pace, render, listen, improve
+
+1. Read the entire cleaned chapter again in its three-chapter context.
+2. Have Codex add structured direction for intention, subtext, status, temporary
+   character color, tactical clarity, humor, and emotional restraint. The TTS engine
+   does not direct the performance.
+3. Treat a new speaker, new subject, paragraph turn, and return from dialogue or high
+   emotion as prepared restart points. Explicitly return to the core narrator.
+4. Compile the `Directed-Paced` score at native speech speed: 1,550 ms after a complete
+   sentence or thought, 2,100 ms at paragraph, speaker, or subject resets, and 2,700 ms
+   at written scene breaks. Add only selective 300–340 ms pre-word preparations. The
+   larger rest wins when two boundaries coincide.
+5. Render locally with Fish Audio S2 Pro, the locked Original Calder source, and the
+   approved local Calder performance anchors. Qwen/Directed-Native renders are retained
+   only as historical auditions and are not eligible for new production.
+6. Check text coverage, technical master, measured pace, pause behavior, voice
+   stability, and obvious synthetic artifacts. Requested speed is never accepted as
+   evidence of actual pace, and post-render time stretching is forbidden.
+7. Listen to the whole chapter in context. Record only exact pickup locations and one
+   reason each: unclear, rushed, wrong landing, narrator did not return to base, wrong
+   emphasis, pronunciation, or artifact.
+8. Redo only failed passages, recheck their joins, and repeat until the chapter reads
+   cleanly. Preserve accepted takes.
+
+One Hugging Face model cache is sufficient for any number of workers. Multiple workers
+may load that shared cache into separate processes, but benchmark aggregate chapter time
+on the actual Apple Silicon host before using more than one worker; Metal contention can
+erase the apparent gain. Never duplicate the model download merely to add a worker.
+
+## Completion
+
+A chapter is complete when:
+
+- a listener can understand every paragraph once through;
+- no unresolved writing-level clarity item remains;
+- the narrator identity returns to its approved base after every colored passage;
+- measured delivery fits the approved master rather than merely the requested speed;
+- all spoken text is present and ordered;
+- the technical file passes; and
+- the human listen has no open pickup.
+
+After each three-chapter run, give Writing Monroe a compact report of repeated prose
+problems and successful solutions. Feed principles back, not model quirks: for example,
+“separate subject changes with a real restart” is useful; “insert a comma every twelve
+words” is not.
+
+exec
+/bin/zsh -lc "rg --files editions/monroe-1.3/book-03-no-path-given/state/completion editions/monroe-1.3 | rg '(book-01-the-shattered/state/completion/listening-proof\\.md|book-03-no-path-given/state/completion/|EDITION_BRIEF\\.md|OWNER-DECISIONS\\.md|audio/fpaudio\\.py)"'$|BOOK_MAP'"\\.md"'$|protected-patterns'"\\.txt"'$'"'" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/EDITION_BRIEF.md
+editions/monroe-1.3/book-07-void-roads/BOOK_MAP.md
+editions/monroe-1.3/book-04-copper-crown/BOOK_MAP.md
+editions/monroe-1.3/book-05-the-silver-standard/BOOK_MAP.md
+editions/monroe-1.3/book-03-no-path-given/BOOK_MAP.md
+editions/monroe-1.3/OWNER-DECISIONS.md
+editions/monroe-1.3/book-03-no-path-given/protected-patterns.txt
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md
+editions/monroe-1.3/audio/fpaudio.py
+editions/monroe-1.3/book-01-the-shattered/protected-patterns.txt
+editions/monroe-1.3/book-01-the-shattered/BOOK_MAP.md
+editions/monroe-1.3/book-08-before-the-paths/BOOK_MAP.md
+editions/monroe-1.3/book-02-iron-circuit/BOOK_MAP.md
+editions/monroe-1.3/book-01-the-shattered/state/completion/listening-proof.md
+
+exec
+/bin/zsh -lc 'find editions/monroe-1.3/book-03-no-path-given/state/completion -maxdepth 1 -type f -print | sort && wc -l editions/monroe-1.3/book-01-the-shattered/state/completion/listening-proof.md editions/monroe-1.3/book-03-no-path-given/state/completion/COMPLETION-PLAN.md editions/monroe-1.3/EDITION_BRIEF.md editions/monroe-1.3/OWNER-DECISIONS.md editions/monroe-1.3/book-03-no-path-given/BOOK_MAP.md editions/monroe-1.3/book-03-no-path-given/protected-patterns.txt editions/monroe-1.3/audio/fpaudio.py' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-03-no-path-given/state/completion/COMPLETION-PLAN.md
+editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-1-REPORT.md
+editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-2-REPORT.md
+editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-A-REPORT.md
+editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-B-REPORT.md
+editions/monroe-1.3/book-03-no-path-given/state/completion/PASS-BRIEF.md
+editions/monroe-1.3/book-03-no-path-given/state/completion/listening-proof-prompt.md
+editions/monroe-1.3/book-03-no-path-given/state/completion/listening-proof.pid
+editions/monroe-1.3/book-03-no-path-given/state/completion/listening-proof.stdout.log
+editions/monroe-1.3/book-03-no-path-given/state/completion/skeleton-sweep.txt
+editions/monroe-1.3/book-03-no-path-given/state/completion/whole-arc-notes.md
+editions/monroe-1.3/book-03-no-path-given/state/completion/whole-arc-read.md
+     506 editions/monroe-1.3/book-01-the-shattered/state/completion/listening-proof.md
+      81 editions/monroe-1.3/book-03-no-path-given/state/completion/COMPLETION-PLAN.md
+     145 editions/monroe-1.3/EDITION_BRIEF.md
+      53 editions/monroe-1.3/OWNER-DECISIONS.md
+     401 editions/monroe-1.3/book-03-no-path-given/BOOK_MAP.md
+      11 editions/monroe-1.3/book-03-no-path-given/protected-patterns.txt
+     176 editions/monroe-1.3/audio/fpaudio.py
+    1373 total
+
+codex
+The requested artifact set is present, including four lane reports and whole-arc notes. I’ll treat those reports as leads, not findings: every proposed old string will be rechecked against the current manuscript and screened against the protected-line map.
+exec
+/bin/zsh -lc "sed -n '1,260p' editions/monroe-1.3/book-01-the-shattered/state/completion/listening-proof.md && sed -n '261,520p' editions/monroe-1.3/book-01-the-shattered/state/completion/listening-proof.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Book 1 — Line and listening proof (Step 3)
+
+Reader: Claude Fable 5.1, fresh context, 2026-10-02. Scope: `manuscript/chapter-01.md` … `chapter-60.md`
+(306,683 words), read in order as a Breeze narrator will meet them (one segment per paragraph, `---` as a long
+pause). Read first: `COMPLETION-PLAN.md` Step 3, `LANE-1-REPORT.md`, `LANE-2-REPORT.md`, `EDITION_BRIEF.md`
+(audio and Reader Standard), `OWNER-DECISIONS.md` #29, `BOOK_MAP.md` §7, `protected-patterns.txt`, and the
+Meridian ch1 `notes.txt` as the model of what the direction files need. Running notes: `listening-notes.md`.
+
+**No manuscript file was modified.** Every fix below is a proposal; each old string was verified with
+`grep -c -F` to match exactly once in the named file. No fix touches a protected line.
+
+---
+
+## 1. Verdict
+
+**Render-ready after 21 small text fixes, all mechanical (abbreviations, slashes and numerals that an
+engine will voice wrongly).** Nothing structural stands in the way:
+
+- Quotation marks: every paragraph in all 60 chapters has an even count of `"` (straight quotes only; no curly
+  quotes anywhere). No unbalanced or mismatched quotes. No nested double-in-double quotes; the three
+  "quote inside a quote" cases use italics for the read text (ch20, ch32, ch49) and read cleanly.
+- Italics: every paragraph has an even count of `*`. No underscores, one `**bold**` (ch3, the plate word).
+- `---`: every break has blank lines on both sides. No setext accidents, no stray headings, no double hyphens.
+- Halvern/Halden (decision #29): never in one scene. Halvern is named only in ch28 (Coss's POV); in ch31–32 the
+  clerk upstairs is "the clerk". Halden is named in ch31, 32, 48, 49, 50, 53, 54. The mitigation holds.
+- Every Tier A and Tier B protected line in BOOK_MAP §7 is present verbatim (grep-checked; see §2.6).
+- Attribution: no speech paragraph whose speaker a listener cannot place. The three-voice-plus scenes
+  (the community hall ch2, the nut stall ch7, Torvin's table ch11/19/27/52/59, Coss–Ilsev overheard ch49,
+  Vell's table ch55) all carry by alternation or an explicit lead-in.
+- Doubled words, broken joins, lower-case starts, tense slips from the texture passes: none found. The eleven
+  lower-case sentence starts the sweep flagged are all inside Vell's or Cael's deliberate shorthand notes.
+
+What remains is for the direction files, not the text: a second audio collision beyond #29 (Coss/Doss, and
+Marrow/Darrow in the climax) that the narrator must hold apart by register; a short list of homographs the
+engine is likely to misread; and the all-caps signs, which should be rendered in sentence case.
+
+---
+
+## 2. Findings by category
+
+### 2.1 Quotation marks and attribution
+
+- Balanced throughout (0 odd-quote paragraphs, 0 odd-asterisk paragraphs, script-checked).
+- **Italics carry five different things**, and the narrator needs to know which: (a) Cael's notebook/Log text
+  and Vell's ledger lines; (b) letters (Hesk's, Cael's, Feryn's note); (c) documents and notices read as text
+  (the expulsion notice ch4, the summons ch30/ch48, Ilsev's paragraph ch53, the Handbook sections ch31/48/49);
+  (d) remembered or reported speech (*Sunlight,* the fruit woman told him; *Don't let anyone see you move*);
+  (e) inner thought and word stress. The split is always clear from the surrounding sentence; it only needs the
+  direction file to say which is which per segment (the Meridian notes do this).
+- Read text inside speech: ch20 Lira reads the notice ("*Continued cohabitation…*"), ch32 Lira writes the three
+  sentences ("*[SHATTERED] is not recognized…*"), ch49 Ilsev recites section four. Direct as a voice reading
+  aloud, flatter than her own speech.
+- Interruptions: 42 paragraphs end or break on `—"`; all are cut-off speech ("Whatever happens tomorrow—" /
+  "Hesk." / "—we'll figure it out." ch2; "Your hands are—" ch44; "He *cut* the—" ch49). They need the engine's
+  short gap and no falling cadence, as the Meridian run handled s051.
+- Overheard fragments beginning with a dash: the radio ch2 ("—and of course the Ardenmere quarter-final"), the
+  two men at the board ch8 ("—won't take Brenna again"), the street after Corbin ch40 (four italic snatches),
+  the bread woman under the barrels ch51 ("*—and you can stop calling me nothing*"). Direct as passing voices.
+- Vell's spoken record lines are in quotes ("Result stands as called…"); her unspoken second lines are in italics.
+  The narrator's quotes-vs-italics distinction carries the difference (ch25 is the clearest case).
+
+### 2.2 Ear collisions
+
+**Names in one scene.** A script split each chapter on `---` and counted name pairs per scene:
+
+| Pair | Risk | Scenes together | Note |
+|---|---|---|---|
+| Halvern / Halden | high | **none** | Decision #29 mitigation holds; Halvern only in ch28. |
+| **Coss / Doss** | **high** | ch30 s4; ch54 s1 | KOSS vs DOSS, one consonant apart; both men bear on Cael's lodging. ch30: "because Doss had gone out to the warehouses" two paragraphs before Cael reads "*Coss, field agent.*" ch54: the fourteen-name list ends "Sella. Doss." and two paragraphs on "Coss's drawer… Coss had said it plainly". Direction: Coss in the Compact's clipped register, Doss low and worn with a longer open vowel. Optional epithet in ch30 below. |
+| **Marrow / Darrow** | **high** | ch57 s4; ch58 s1, s5 | MARR-oh (bookmaker) vs DARR-oh (the Bronze) in the climax. Every Marrow mention sits next to a slate ("Marrow watched them do it", "Marrow watched it happen… lifted the slate", "Marrow was paying out"). Direction: Marrow as in "bone marrow", Darrow as in "arrow"; slate lines in an aside register. Optional epithet in ch58 below. |
+| Dessa / Doss | medium | ch24 s4; ch25 s2; ch27 s1–2; ch51 s1; ch52 s2; ch54 s1; ch57 s3 | DESS-uh (two syllables) vs DOSS (one). ch24 is the sharp one: Doss's first word is "Dessa." and his next is his own name; the text glosses it ("It took Cael a moment to understand that it was a name"). |
+| Corbin / Corvane | medium | ch43 s4–5; ch44 s1; ch49 s2; ch51 s1; ch52 s5 | KOR-bin vs kor-VAIN — stress on different syllables; keep it. |
+| Ressa / Dessa | low | ch29 s2; ch35 s5; ch36 s1 | Never in dialogue together; RESS-a (Denvash baker) vs DESS-a. |
+| Sella / Sarel | low | ch54 s1 | SELL-a vs SAIR-el. |
+| Talis / Alis | low | ch39 s1 | One is a letter from Denvash, the other the yard. |
+| Renn / Brenna | low | many bout scenes | Different sex and Path; one vs two syllables; attribution carries. |
+| Kestrel / Hesk; Feryn / Fenrow; Petra / Pellin; Lira / Ilsev | none | — | distinct by ear. |
+
+Renames are the owner's call (decisions #6, #29); none is proposed. Two optional one-word epithets (§3B)
+would do for Coss/Doss and Marrow/Darrow what "the clerk" does for Halvern.
+
+**Homographs.** All occurrences were read in context; none is ambiguous to a human narrator. These are the
+ones an engine is likely to voice wrongly, with the intended reading (for the lexicon/instruct files):
+
+| Word | Intended | Where |
+|---|---|---|
+| wound (past of wind, WOWND) | all 8 uses | ch3 "part worry, wound so tightly"; ch4 "A cord was wound round it"; ch10 "wound the film back" ×2; ch29 "wound the string"; ch36 "strings wound twice"; ch44 "a spiral, wound tight"; ch45 "the spiral wound tight" |
+| lead (LEED) | all 4 | ch3 "lead up to it"; ch11 "her lead leg"; ch25 "His lead foot planted" and "her lead foot" |
+| tear (TAIR, a rip) | all 5 | ch7 "found its tear"; ch19 "tear the page out"; ch30 "looked at a tear before she mended it"; ch37, ch47 "tear it" (bread) |
+| bow (BOH, a bend) | ch1 "thinking about bowing"; ch5 "considering a bow" (the bent bracket) | ch52 "with a small bow" is BAU |
+| live / lives (LIV, verb) | ch18 "lives in the gap… You live in the lesson"; ch19 "where the boy lives" | ch25, ch45 "in their lives" are LYVZ |
+| read (RED, past) | hundreds; the risky shape is "X read it twice." and "I read…" in letters (ch6 "*I read the book. I read the fifth one three times.*"; ch2 "You read the sheet."; ch4 "You read it." is REED, imperative) | engine risk only; no text fix |
+| minute | all time-uses (31); no "my-NOOT" | — |
+| row (ROH) | all place-names (Weaver's Row, Merchant Row, the second row) | no quarrel-rows |
+| wind (noun, Wind Path) | all 68 | no "wind up / wind back" verbs |
+| close, present, record, refuse, subject, object, separate, content, contract | all read naturally in context | — |
+
+**"As" after Lane 1's simile conversions.** All 295 ", as …" clauses were listed and read. Nearly all are
+habitual ("as he always did", "as a rule", "as she had on Tuesday") or manner ("as a man brushes off a fly")
+and cannot be heard as "while". The few that *are* temporal are genuinely temporal and correct (ch9 "He found,
+as he said it, that he had"; ch24 "as she came to the mark and turned"; ch39 "as the two of them went back to
+their marks"; ch40 "as the elbow came round"; ch30 "as somebody went along ahead of them with a taper" — a
+literal cause). Where Lane 1 used "just as" (ch9, ch17) it was the right call. **No fixes.** One direction note:
+ch40 "It did not go out, as the word had gone out" wants a slight lift on "as" so it reads "the way".
+
+**Accidental rhymes / repeats in adjacent sentences.** None worth a fix. The only aloud stumble is a grammatical
+stutter, ch19 "had not let himself look at at all" (§3B, optional).
+
+### 2.3 Formatting the narrator meets
+
+- **Code blocks** (5): ch1 PATH DECLARATION; ch40 and ch42 FRAGMENT ACQUIRED (Wind); ch47 FRAGMENT ACQUIRED
+  (Pressure); ch58 FRAGMENT NOTICE. All protected text. Read as notices, each line its own beat, brackets
+  silent: "Fragment acquired. Unnamed — Wind-adjacent. Duration: undetermined. Integration: partial. Tier
+  equivalent: unknown." ch1's heading "PATH DECLARATION — COPPER RANK 1" reads "Path Declaration, Copper Rank one;
+  Rooted Stance — Passive."
+- **`[SHATTERED]`** (24 places, ch1, 3, 4, 5, 6, 9, 20, 28, 30, 31, 32, 44, 46): brackets are never voiced,
+  in speech (ch9, ch44, ch46 `"[SHATTERED]."`) or narration ("a [SHATTERED] file"). ch3 `**[SHATTERED].**` is the
+  one bold: the plate word, said once, flat and cold. ch1 "Four (4) instances" is protected: read "Four — four —
+  instances" or simply "Four instances" at the renderer's discretion.
+- **Log entries in italics**: Cael's Log (numbered "*1. Renn. Copper R3…*" through "*Seventeenth.*"), the back
+  pages, the four-item and five-item counts, Lira's chalk columns (*gone*, *W*, *P*, *same*, *less*, *arms.
+  an hour.*, *both. nothing. arms anyway.*, *ribs*, *Sunday*). Vell's ledger lines use initials: "R." (Renn),
+  "L." (Lira), "(Vell, h)" where the text itself explains the small *h* for "heard". Direct these as the
+  letters. Lower-case starts inside them are deliberate.
+- **Numerals vs words.** Ranks ("Copper Rank 1", "Rank 10", "Copper 4s"), registrations (41-7843-V, 22-1190-H),
+  "Statute 14, Section 9", "32 years prior" (protected), "section 40", "statute 19", "Section 1: Definitions"
+  all read naturally as numbers. The ones that do not — "8 in.", "0 and 4" (Log and narration), "41, sleet",
+  "3 (h)", "4TH" — are fixed in §3A.
+- **Abbreviations.** "Cu 3" is decoded by the text itself (ch8: "*Cu 5, Stone.* Copper, Rank 5, Stone Path"),
+  so it is read as the two letters, "C-U five", consistently; "R3/R2/R4/R5" in the Log and the protected ch59
+  "Bronze R1" read "R-three", "R-one"; "def." (ch59, protected) reads "defeated". The ones with no in-text
+  decoding — "exch.", "unr.", "wk.", "Br 1/2", "Mon:", "Sun. wk.", the slashes — are fixed in §3A.
+- **All-caps lines** (engines sometimes spell them): WARDEN-ADJUNCT PELLIN (ch3), ROOMS (ch7/16/28), NO PATH
+  DAMAGE TO WALLS — YOU PAY (ch8), IF IT'S STILL HERE (ch8/14/24/34), WEST (ch8/27/48), *REGISTRY READING
+  ROOM. OPEN TO ALL REGISTRANTS. MORNINGS.* (ch31), *SUMMONS FOR COMPLIANCE EVALUATION.* (ch30), *To CAELEN
+  HESK-WARD* (ch48), *PART SIX. THE SENIOR EVALUATION. RESERVED TO ASSESSORS.* (ch48), *CORBIN PUT HIS HAND UP*
+  (ch40), *TODAY* (ch45), *LAST BOUT, SUNDAY FORTNIGHT. DARROW INNES…* (ch55/56/57), *HESK-WARD*, *13 TO 1*,
+  *SHAME* (ch57), *HESK-WARD. 4TH. VELL'S CALL.* (ch60). Render in sentence case (renderer substitution, as the
+  Meridian run proposed); no text change except the numeral in ch60.
+- **Single letters**: "the O leans" (ch7 on), "an *R* or a *B*" (ch28), "a *W*" / "two *V*s" (ch57), the
+  *W* and *P* columns, "Yard"-style lone capitals: say the letter name.
+- **Em-dashes**: closed throughout; spaced " — " appears only in letter salutations (*Joren —*, *— C.*,
+  *— H.*, *— Cael*), inside the slate/ledger lines being fixed, in Lira's chalk note "*frustration — let him*"
+  (ch38), and inside protected FRAGMENT lines. All are pauses.
+- **Scene breaks**: 17–30 per chapter, all correctly spaced.
+- **"Mm."** (Yeni, ch7, ch16, ch30; Lira ch26): may be dropped by the engine; check the render.
+
+### 2.4 Line-level typos and grammar
+
+- Doubled words: the sweep's three hits are all grammatical ("look at at all" ch19, "tells you you can" ch50,
+  "Telling you you're" ch60). No true doubles.
+- Broken joins, sentences ending mid-clause, stray lower-case starts, tense slips: none found in 60 chapters.
+  The texture passes left no seams at the line level.
+- Spelling: British throughout ("colour", "neighbour", "recognised"/"recognized" both appear, "plowing" ch17 is
+  US) — no audio effect. "labeled" inside the protected Fourth entry (ch6) stays.
+- One continuity nit noticed in passing, out of this proof's scope (Step 2's lane): ch10 Hesk recalls saying
+  "*It's easier to make a family choose*" aloud in ch4, where his words were "A family that chooses looks better
+  than a city that puts a fourteen-year-old out on the road." No audio consequence.
+
+### 2.5 Paragraphs over about 700 characters
+
+79 paragraphs. Listed only; none is a defect, but each will be split by the segmenter and the direction file
+should mark the split so it does not land mid-thought (the first sentence of each is given so it can be found).
+
+| ch | chars | opens |
+|---|---|---|
+| ch01 | 842 | Denvash's Outer District was a long ring pressed against the… |
+| ch01 | 786 | It was higher than any wall had a reason to be. Cael had fiv… |
+| ch01 | 740 | They did it six more times. Joren talked through four of the… |
+| ch02 | 758 | He had copied it a month ago from the foot of the registry s… |
+| ch06 | 837 | He was glad of it, which surprised him. The first hours out … |
+| ch06 | 790 | *A few years*, in the side room. *Some years*, under the lam… |
+| ch08 | 708 | That was how it looked at first, from the street: noise and … |
+| ch08 | 721 | He had come here meaning to watch, and he could do more than… |
+| ch12 | 720 | "Then she picked a strange thing to say it about." Lira walk… |
+| ch12 | 753 | "Explained and agreed are different animals. So you'll hear … |
+| ch13 | 711 | "On the roof I said I wouldn't tell you what that figure loo… |
+| ch20 | 825 | She laughed a little, as you laugh when somebody asks how yo… |
+| ch21 | 775 | He had a month of it in his head by now, laid down as he lai… |
+| ch23 | 817 | "They know already," he said. "The man was told Torvin's. Wh… |
+| ch25 | 749 | Its whole idea had come to him on a plank bench, and been tu… |
+| ch27 | 708 | "First exchange. You showed her three feints and stopped. Yo… |
+| ch28 | 782 | He had shared a desk that year with a man who was. The man s… |
+| ch28 | 931 | A non-standard result at Kindling set a procedure going. He … |
+| ch28 | 702 | At the north edge of the district the ground began to rise, … |
+| ch31 | 724 | The man in the dark coat had eaten at Amrit's on his first n… |
+| ch32 | 746 | Every sentence he wrote wanted another sentence after it to … |
+| ch32 | 712 | "The sweep that brought me out here was asked for by people … |
+| ch32 | 756 | "Now I stamp the summons closed, pending, and I apply to reg… |
+| ch34 | 766 | He said it. He had worked it out under the pear tree the eve… |
+| ch34 | 733 | "Reckless is fighting six times because six is the biggest n… |
+| ch35 | 713 | He read that three times. Hesk could not know that there had… |
+| ch36 | 812 | He looked for the anger, because he thought he might be owed… |
+| ch36 | 705 | There were three of them at the table: the reviewing officer… |
+| ch37 | 766 | She came in and stayed, close, very close, inside the reach … |
+| ch38 | 802 | It was a small flat tin that had once held throat sweets, an… |
+| ch38 | 754 | The room was very small, smaller than the roof room in the t… |
+| ch40 | 757 | It had come from the grey half. It had come from two months … |
+| ch41 | 702 | He watched him as he had watched Lira for three months, whic… |
+| ch42 | 830 | He watched as he had watched on Monday, without writing and … |
+| ch42 | 765 | That surprised her. She had been sitting on the end of her o… |
+| ch42 | 772 | "I thought it might feel like that. Hearing it. I thought, i… |
+| ch42 | 755 | She thought about the drop, and about Dessa's fourth, and ab… |
+| ch43 | 721 | He stopped chewing, and she did it slower than she had ever … |
+| ch43 | 727 | "Passing through. He's from nowhere in particular, these day… |
+| ch43 | 894 | "I'm saying it now. I'm going to work out whether it's true,… |
+| ch44 | 712 | "A Blade strikes. A Force man strikes and then shoves. Ember… |
+| ch44 | 776 | "That depends on the fighter." She tapped the spiral again, … |
+| ch44 | 703 | That night, on the cot, he copied Corvane's figure into the … |
+| ch45 | 718 | She stood at her mark in the grey half every morning with th… |
+| ch46 | 857 | They were people who knew what they were looking at. The old… |
+| ch46 | 829 | He came in as she had seen him come into three other yards i… |
+| ch46 | 859 | She knew Feryn's weights. He had two of them, and she had wa… |
+| ch46 | 773 | There was no place where it struck him. It was everywhere at… |
+| ch46 | 720 | The air came down. It was as huge as before and as patient a… |
+| ch46 | 702 | He came in fast and straight, and the speed changed everythi… |
+| ch46 | 772 | The hand on his shoulder did not let go. The turn was finish… |
+| ch47 | 718 | He told them as Cael wrote the Log, exactly and without merc… |
+| ch47 | 720 | "Six years now, I've made my living letting go on people." H… |
+| ch47 | 813 | He told her. He told it as he had told Lira, in order, but h… |
+| ch48 | 735 | That was what he remembered about it afterward. Nothing had … |
+| ch48 | 740 | The category was not for anybody whose classification could … |
+| ch49 | 729 | "Section one also says what a primary classification is. *Th… |
+| ch50 | 804 | He told her about the desk that did not rock, and the folded… |
+| ch50 | 803 | It was not like the step, or the build, or anything he had l… |
+| ch52 | 758 | He did not write about Sunday, except to say that he had won… |
+| ch53 | 714 | "Legal will take the rest of the year." The section head had… |
+| ch53 | 957 | He thought about his daughter, who would be fourteen at mids… |
+| ch53 | 879 | He had been sitting there a quarter of an hour, after the gr… |
+| ch53 | 781 | It had come in on Thursday from a house on the canal, a merc… |
+| ch53 | 753 | The letter was on the end of the bench, where it had been fo… |
+| ch54 | 772 | It did not take long. *Lira.* That one was first and needed … |
+| ch55 | 750 | She had not been calm. She had been doing the thing she had … |
+| ch55 | 739 | She could stand back. That was the first thing she made hers… |
+| ch55 | 731 | She would not be any use by the gate. She knew how he fought… |
+| ch55 | 826 | It sounded strange, like something said by somebody who was … |
+| ch55 | 739 | He wrote his name on the back of the carter's slip, under Da… |
+| ch56 | 775 | Cael had a bill of the mender's in his pocket, for washers, … |
+| ch57 | 849 | Doss stood at the back on account of the knee. Renn was on t… |
+| ch57 | 843 | So he went on doing it. He let Darrow walk him, and every ti… |
+| ch58 | 835 | The front went first, as always, and went down easily, becau… |
+| ch58 | 777 | He tried to draw it first, as Corvane had taught him to draw… |
+| ch60 | 823 | He was very careful with himself about what it was, because … |
+| ch60 | 787 | He told him the fourth exchange as near as he could, which w… |
+| ch60 | 739 | The east wall's shadow lay long across the yard, as it did e… |
+
+### 2.6 Protected lines (checked, untouched)
+
+Tier A: the four-line `[SHATTERED]` entry (ch1), *Better when it's done…* (ch1, starred), Hesk's *I don't know
+how to describe it* (ch1), "Caelen Hesk-ward. Registration 41-7843-V." (ch3), the eleven seconds / Alis Trent /
+Joren (ch1–3), the three code blocks (ch40, 47, 58), *First person outside Denvash…* (ch9), "What tier are you?" /
+"[SHATTERED]" / "When you figure it out, I want to know." (ch46–47), "What are you?" / "I don't fully know yet."
+(ch58). Tier B: all present by grep — ch2 (×2), ch3 (notice, archive, "You're not behind…"), ch4/6 (Hesk's
+entries incl. the added *When you don't know what you can do yet…*), ch5 (gate entry + corollary), ch9, ch13
+(×3), ch18, ch20, ch25, ch30, ch32, ch41, ch53 (×2), ch56 (×2), ch58 (×2), ch59, ch60. None of the fixes in §3
+touches any of them.
+
+---
+
+## 3. Exact line fixes
+
+### 3A — Required before render (21)
+
+All are abbreviations, slashes or numerals inside slates, ledger lines, chalk and Log notes that an engine will
+voice as "slash", "ex-ch", "unr", "wk" or spell letter by letter. Each old string matches exactly once in its file.
+
+1. `manuscript/chapter-11.md`
+   old: `*8 in. past the fist. My eye says less.*`
+   new: `*Eight inches past the fist. My eye says less.*`
+   (Lira has just said "About eight inches past where his hand ends"; ch12 repeats it in speech.)
+
+2. `manuscript/chapter-12.md`
+   old: `*Over/under: 1 exch.*`
+   new: `*Over-under: one exchange.*`
+   (Lira's gloss follows: "whether you last more than one exchange".)
+
+3. `manuscript/chapter-15.md`
+   old: `*Over/under: 2 exch.*`
+   new: `*Over-under: two exchanges.*`
+
+4. `manuscript/chapter-16.md`
+   old: `*Over/under: 3 exch.*`
+   new: `*Over-under: three exchanges.*`
+
+5. `manuscript/chapter-35.md`
+   old: `*Over/under: 3 exch.*`
+   new: `*Over-under: three exchanges.*`
+
+6. `manuscript/chapter-37.md`
+   old: `*Over/under: 3 exch.*`
+   new: `*Over-under: three exchanges.*`
+
+7. `manuscript/chapter-17.md`
+   old: `*Over/under: 4 exch.*`
+   new: `*Over-under: four exchanges.*`
+
+8. `manuscript/chapter-29.md`
+   old: `*Over/under: 4 exch.*`
+   new: `*Over-under: four exchanges.*`
+
+9. `manuscript/chapter-25.md`
+   old: `*Over/under: 5 exch.*`
+   new: `*Over-under: five exchanges.*`
+
+10. `manuscript/chapter-17.md`
+    old: `*0 and 4. Four, five, six, seven.*`
+    new: `*Nought and four. Four, five, six, seven.*`
+    ("Nought" matches the book's register — "fortnight", "colour"; the engine would say "zero".)
+
+11. `manuscript/chapter-22.md`
+    old: `He had been 0 and 4, not 0 and 2.`
+    new: `He had been nought and four, not nought and two.`
+    (Numerals in narration.)
+
+12. `manuscript/chapter-45.md`
+    old: `*Mon: F. (Br 2) — unr.*`
+    new: `*Monday: F. (Bronze 2) — unrated.*`
+    (Marrow's unpriced slate; "Br" has no in-text decoding, unlike "Cu".)
+
+13. `manuscript/chapter-46.md`
+    old: `*41, sleet, Monday noon*`
+    new: `*Forty-one, sleet, Monday noon*`
+    (Vell's private note; the narration before it already says "made it forty-one".)
+
+14. `manuscript/chapter-50.md`
+    old: `*Sun. wk. — Dessa (Cu 5, Stone) / unrated (vouched). Asked by both.*`
+    new: `*Sunday week — Dessa (Cu 5, Stone) against unrated (vouched). Asked by both.*`
+    ("against" is the ledger's own form, ch23.)
+
+15. `manuscript/chapter-51.md`
+    old: `*D. / unr.*`
+    new: `*D. — unrated*`
+
+16. `manuscript/chapter-55.md`
+    old: `(the Stone woman, wk 2)`
+    new: `(the Stone woman, week two)`
+
+17. `manuscript/chapter-55.md`
+    old: `DARROW INNES (Br 1, Iron Path)`
+    new: `DARROW INNES (Bronze 1, Iron Path)`
+
+18. `manuscript/chapter-56.md`
+    old: `DARROW INNES (Br 1, Iron Path)`
+    new: `DARROW INNES (Bronze 1, Iron Path)`
+
+19. `manuscript/chapter-57.md`
+    old: `DARROW INNES (Br 1, Iron Path)`
+    new: `DARROW INNES (Bronze 1, Iron Path)`
+    (Vell's card, copied in the district return and quoted at the board; all three copies must match.)
+
+20. `manuscript/chapter-56.md`
+    old: `*Claim. Evidence: 3 (h), Doss (h), Stone woman (h). Ruling: pending.*`
+    new: `*Claim. Evidence: three (h), Doss (h), Stone woman (h). Ruling: pending.*`
+
+21. `manuscript/chapter-60.md`
+    old: `*HESK-WARD. 4TH. VELL'S CALL.*`
+    new: `*HESK-WARD. FOURTH. VELL'S CALL.*`
+    (All-caps "4TH" is the one numeral an engine may spell out.)
+
+### 3B — Optional, engine-safety only (author's call; 9)
+
+Human narrators will read these correctly; a TTS engine may not. None is required. Each old string matches once.
+
+22. `manuscript/chapter-03.md` — "wound" (WOWND) is likely to be voiced as the injury.
+    old: `part pride and part worry, wound so tightly together`
+    new: `part pride and part worry, twisted so tightly together`
+
+23. `manuscript/chapter-44.md`
+    old: `she drew a spiral, wound tight,`
+    new: `she drew a spiral, coiled tight,`
+
+24. `manuscript/chapter-45.md`
+    old: `the stick figure and the spiral wound tight and the row of four strokes`
+    new: `the stick figure and the spiral coiled tight and the row of four strokes`
+
+25. `manuscript/chapter-30.md` — "a tear" is likely to be voiced as a teardrop.
+    old: `as she looked at a tear before she mended it`
+    new: `as she looked at a rip before she mended it`
+
+26. `manuscript/chapter-19.md` — grammatical, but a stammer aloud.
+    old: `had not let himself look at at all`
+    new: `had not once let himself look at`
+
+27. `manuscript/chapter-30.md` — Coss/Doss in one scene (the only text mitigation proposed; cf. #29's "the clerk").
+    old: `because Doss had gone out to the warehouses at dusk`
+    new: `because the night-watchman had gone out to the warehouses at dusk`
+
+28. `manuscript/chapter-58.md` — Marrow/Darrow in the climax.
+    old: `Marrow watched it happen.`
+    new: `Marrow, at his slate, watched it happen.`
+
+29. `manuscript/chapter-01.md` — "bowing" (BOH-ing, bending) may be voiced as BAU-ing.
+    old: `as if it were thinking about bowing`
+    new: `as if it were thinking about bending`
+
+30. `manuscript/chapter-05.md` — same bracket, same word.
+    old: `as if it were considering a bow`
+    new: `as if it were considering a bend`
+
+Not proposed, but flagged for the lexicon: "lead leg/foot" (ch11, ch25 ×2) — "front leg/foot" would be safe but
+"lead" is the fighting term and should stay; direct it as LEED.
+
+---
+
+## 4. Pronunciation lexicon (for the Breeze direction files)
+
+Stress in capitals. "Confirmed" means the text itself gives a cue (a rhyme, a gloss, a spelling-out); the rest
+are proposals for the owner to confirm, as the Meridian run listed its unconfirmed names.
+
+### People (46)
+
+| Name | Say | Who | Note |
+|---|---|---|---|
+| Cael | KAYL (one syllable) | the boy | ch9 "Just Cael" |
+| Caelen Hesk-ward | KAY-len HESK-ward | his full name | ch3; "Hesk-ward" as two words, stress on HESK |
+| Hesk | HESK | grandfather, instrument-maker | |
+| Joren | JOR-en | Denvash friend | |
+| Alis Trent | AL-iss TRENT | Denvash, Tide Path | keep distinct from Talis |
+| Garrik | GARR-ik | cart-mender, projector | |
+| Ressa | RESS-a | Denvash baker | distinct onset from Dessa |
+| Pellin | PEL-in | Warden-Adjunct, Weaver's Row | |
+| Torvin | TOR-vin | lodging-house keeper | |
+| Yeni | YEN-ee | the seamstress | |
+| Lira | LEER-a | Wind Path, the vouch | |
+| Vell | VELL | the Ledger-keeper | |
+| Marrow | MARR-oh (as "bone marrow") | the bookmaker | collides with Darrow in ch57–58 |
+| Renn | REN | Blade, Copper 3 | |
+| Brenna | BREN-a | Shield, Copper 2 | |
+| Dessa | DESS-a | Stone, Copper 5 | collides with Doss |
+| Baro | BAH-roh | unrated Blade, ch15 | |
+| Amrit Sole | AM-rit SOHL | Ember, the cook | |
+| Petra Voss | PET-ra VOSS | Force, Copper 3 | |
+| Doss | DOSS (rhymes with "moss") | night-watchman, once Bronze | collides with Coss and Dessa |
+| Coss | KOSS (rhymes with "moss") | Compact field agent | clipped, formal register |
+| Halvern | HAL-vern | the post's clerk (ch28 only by name) | decision #29 |
+| Halden | HAL-den | reading-room keeper | decision #29 |
+| Sarel | SAIR-el | Bronze 1 Blade, scaffolds | |
+| Talis | TAL-iss | Stone, Copper 4 | |
+| Dellin | DEL-in | Force, Copper 3, carter | |
+| Corbin | KOR-bin | Shield, Copper 3, "the ruler" | decision #5 flags Corrin/Corbin for Book 2 |
+| Kestrel | KESS-trel | Force, Copper 5, ropewalk | |
+| Feryn | FERR-in | Bronze 2, Pressure | |
+| Corvane | kor-VAIN | the old Pressure student, brickworks | stress away from Corbin |
+| Ilsev | IL-sev | Assessor, Regional Evaluation | |
+| Darrow Innes | DARR-oh IN-ess (as "arrow") | Bronze 1, Iron | |
+| Sella | SELL-a | the boots woman | named ch52 |
+| Red Cap | — | errand boy | a name |
+| the old man / the woman with the shoulder / the mender / the pie boy / the bread woman / the fruit woman / the eel woman / the chalk-board woman / the lantern woman / the nut boy and his sister / the wheezing man / the brothers / the boots woman / the widow / Torvin's wife | — | unnamed recurring roles | keep each a fixed colour across chapters |
+| Dava, Tamsin, the Ashwood boy | DAH-va, TAM-zin | names on the board, ch8 | once only |
+
+### Places (14)
+
+| Name | Say |
+|---|---|
+| Denvash | DEN-vash |
+| Ardenmere | AR-den-meer |
+| Valdris | VAL-driss |
+| Fenrow | FEN-roh |
+| Weaver's Row, Merchant Row, Fen Street, Tallow Lane, Chandler Street, Lantern Street | as written; "Row" = ROH |
+| the Cinder House | SIN-der |
+| the post | the Compact office at the fish steps (common noun; unstressed) |
+| the grey half, the four lanes, the cut, the triangle, the long quay, the fish steps, the Ranked core, the Unranked District | descriptive; no stress |
+
+### Terms and invented words (22)
+
+| Term | Say / handle |
+|---|---|
+| Kindling | KIND-ling (as in kindling a fire) |
+| Arbiter | AR-bit-er |
+| the Compact | KOM-pakt (noun) |
+| sigil | SIJ-il |
+| [SHATTERED] | SHAT-erd; brackets never voiced; ch3 bold = the plate word, once, flat |
+| Path names: Tide, Blade, Stone, Shield, Force, Ember, Wind, Iron, Pressure, Ash | as written; "Wind" the noun |
+| Tiers: Copper, Iron, Bronze, Silver, Gold; Unranked; Ranked | as written |
+| "Rank 1", "Rank 10", "Copper 4s" | "Rank one", "Rank ten", "Copper fours" |
+| "Copper Rank 0" (ch9) | "Rank nought" |
+| Cu 3 / Cu 5 | the letters, "C-U three" — the text decodes it (ch8) |
+| R3, R2, R4, R5, Bronze R1 (Log and ch59) | "R-three", "Bronze R-one" |
+| def. (ch59, protected) | "defeated" |
+| (Vell, h) / "the small h" | the letter h; the text explains it means "heard" |
+| L., R. (Vell's ledger) | the letters |
+| Thirdweek, Secondweek, Fourthweek | THIRD-week (one word, first syllable) |
+| Over-under (after fix) | OH-ver UN-der |
+| marks, half-marks, a quarter-mark | currency |
+| vouch, vouched, unrated, assessed-Copper, Ledger-keeper, the book, the card, the call | as written |
+| the step, the build, the crossing, the gap, the nod | Lira's/Cael's terms; no stress |
+| 41-7843-V / 22-1190-H | "four-one, seven-eight-four-three, V" / "two-two, one-one-nine-oh, H" |
+| Statute 14, Section 9; section 40; statute 19; Part Six; Section 1 | numbers as words |
+| "the O leans" | the letter O |
+
+Lexicon size: 46 people (plus the unnamed-role group), 14 places, 22 terms — **82 entries**.
+
+---
+
+## 5. Direction notes the segmenter and instruct files will need (not text changes)
+
+1. POV cutaways: ch10 (Hesk), ch13 and ch23 (Vell), ch18 (Lira, second half), ch28, ch30, ch33, ch53, ch60
+   (Coss), ch36 (Hesk, first half), ch38, ch42, ch55 (Lira), ch46 (Vell, opening). The "he/she" changes
+   referent at the `---`; mark it.
+2. Counts said inward: ch3 "One. Two. Three… Eleven." (the circle), ch19 "Four. Five… Nine." (the yard at
+   midnight), ch58 Vell's "One." … "Ten." (aloud, level). Direct as the Meridian counts were.
+3. Letters: salutation "*Cael,*" / "*Hesk,*", sign-off "*— H.*" / "*— Cael*" as a pause, not read as "dash".
+4. The one bold word (ch3) and the three code blocks (ch40/42, 47, 58) each get their own segment and a long pause.
+5. The all-caps signs (§2.3) in sentence case; "Mr" never occurs.
+6. The two collisions beyond #29 (Coss/Doss; Marrow/Darrow) by register, as in §2.2, unless the owner takes
+   the optional epithets (#27, #28).
+
+exec
+/bin/zsh -lc "sed -n '1,220p' editions/monroe-1.3/book-03-no-path-given/state/completion/COMPLETION-PLAN.md && for f in editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-1-REPORT.md editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-2-REPORT.md editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-A-REPORT.md editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-B-REPORT.md; do echo \"FILE: "'$f"; sed -n '"'1,260p' \""'$f"; done' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Book 3 completion pass — plan (coordinator, 2026-10-02)
+
+**Book 3** is drafted, ch1–61. M8 is in recheck.
+
+**The probe.** Movements 1–6 were drafted before the event-list method. Run against each packet's
+source chapters (`SHOW=1 tools/sweep_probe.sh`, listing in `skeleton-sweep.txt`), they score:
+
+| Movement | Skeleton share |
+|---|---|
+| M1 | 5% |
+| M2 | 12% |
+| M3 | 5% |
+| M4 | 3% |
+| M5 | 6% |
+| M6 | 4% |
+
+M7 and M8, drafted from event lists, measure 2%.
+
+## Step 1 — Source-distance sweep (two parallel same-seat lanes, Opus)
+
+**Lane A (ch1–23)** rebuilds these scenes, all above 12%:
+
+| Chapter | Scenes |
+|---|---|
+| ch3 | s2 (17%) |
+| ch7 | s4 (24%) |
+| ch10 | s1 (17%), s2 (50%), s4 (38%), s5 (33%) |
+| ch11 | s1 (43%), s2 (49%), s3 (34%), s4 (33%) |
+| ch12 | s2 (31%) |
+| ch13 | s2 (18%), s5 (27%) |
+| ch14 | s2 (26%), s5 (24%) |
+| ch21 | s5 (14%) |
+| ch22 | s2 (24%), s5 (26%) |
+| ch23 | s1 (32%) |
+
+**Lane B (ch24–46)** rebuilds these scenes, all above 12%:
+
+| Chapter | Scenes |
+|---|---|
+| ch36 | s3 (14%) |
+| ch37 | s3 (30%), s4 (19%), s5 (22%) |
+| ch38 | s4 (36%) |
+| ch39 | s1 (32%) |
+| ch42 | s4 (14%) |
+
+**Both lanes** also recompose every remaining unprotected sentence that scores ≥0.65. Across ch1–46
+there are 238 before protected lines are excluded. They are concentrated in ch10, 11, 13, 14 and 23.
+
+**Target:**
+- every chapter at or below 5%;
+- no scene above 12%;
+- overlap 0 unprotected;
+- gates 0;
+- every fact, calendar entry and cross-chapter referent kept, through ch61 and into the Book 4 hand-off.
+
+## Step 2 — Whole-arc read (Fable)
+
+## Step 3 — Line and listening proof
+
+## Step 4 — Close, publish, Breeze
+
+The same shape as Book 1's plan.
+
+## Carried in from the Movement 8 recheck (for Step 2)
+
+Out of this recheck's scope; spanning movements or belonging to the ledger.
+
+- **Ledger end-state for M8 / Book 3.** Needs writing: the calendar (ruling Tuesday wk22; remand entered wk22; Lira's release Monday wk23; Ember resumed Thursday wk23; D7 Tuesday wk24; Hesk's letter Wednesday wk24; the boxes Wednesday–Friday wk24; the gap left on the shelf); Cael's body (the burn a closed scar; the pivot a tenth late); the finding that Ember costs the same at any size ("a letting-go," the second of three rewordings; "decision point" reserved for B4 ch21); the record exposure (ruling public; transcript requested by registry offices; the faceless cover); who knows what.
+- **New canon minted in r1, for the ledger.** Cael promised Vell he would write ("I said I'd write"); Vell "taught him to read a ledger … every line, in order" — Book 2's edition is undrafted and can plant both. Havel was trained by an old recorder (a woman, forty years at desks) who taught him to read a room by its coughs and to warm ink for a count of twenty; this sits beside M7's "Assessor Havel … Recording officer now … a new grade," and the ledger should say which came first. Greyvane "was a waystation for longer than it's been a school" (Quenna), consistent with ch54's "old waystation" and M7's four-hundred-year house. Recorders mark silences with dashes; "there was no mark for an absence."
+- **Hand-off facts no longer restated in M8.** Lira's P8 flag and Brom's P9 wall were restated only in Quenna's cut list and the cut wall recap; they are planted in ch10 and now rest on the ledger alone. Book 4 ch1 (the flag transfers) and ch3 ("Wray told me there was a wall") depend on them; the end-state ledger should list both as open.
+- **Residual source shadow, pre-repair text, not in the brief.** ch61 s4, Edran: "He went back to his count before Cael could find an answer, which Cael suspected was the point" (0.48) and the "costs nothing to give and a great deal to get out" turn (0.36). ch61 s5, the wall's connective beats (Karis first; "take the argument"; the binder on the knee; brass then slate), which the packet dictates in order. ch54 s3 (29% close) and ch55 s3 (29%) were not flagged by the editorial review; ch55 s3 is the deposition read aloud (fixed content); ch54 s3 is the second room-portrait, worth one spot-check. ch60 s4 (35%) is the archive scene's packet lines ("most famous clerical error," "under his desk," "It's jurisdictional").
+- **A small pre-existing doubling.** The term's count (ch61) has Lira, having read the Wind page, "says I'm a tenth late on the second figure," the same words Wray says at D7 three paragraphs earlier. If Lira is agreeing with Wray it is fine; if it should be her own observation, one of the two wants a different figure.
+- **Book-level sums.** POV by word count (Cael about 78.5% of M8; cutaways about 8,070 against about 10,000) for the planner's book total. Progression vocabulary far under plan across M7–M8 (the system is the code; reported, not forced). Length: the book's total against its band after M8 lost ~1,400 words.
+- **Carried from M7's ledger.** Book 4 bible-pass flags: B4 ch18 "of the preceding year"; B4 "in the second hour of a review" against the three-day courier.
+- **Housekeeping.** The movement's `metrics.txt`, `source-overlap.summary` and `AUTHORSHIP.md` predate r1 and should be regenerated or annotated at close.
+
+## Carried in from Step 1 lanes (for Step 2)
+- ch21: Brom says Karis told him to bring the notebook back "at the end of the month" — ch11 never says so (one clause in ch11 s5 closes it).
+- ch29 quotes "like a hand looks at bread" as written in the binder; in ch22 it is only a thought (a log line in ch22/23 closes it).
+- Lane A new details: the provost's stair has thirty-one steps; Karis's mother's wool-trading cousin named as a source (ch10); Lira says "Later, if you want" aloud (ch21).
+- Lane B: 14 chapters under the 13 mean floor (dialogue-heavy), incl. ch37 12.0, ch39 11.45 — reader-facing or meter only?
+FILE: editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-1-REPORT.md
+# Book 3 — completion pass, Lane 1 report (chapters 1–31)
+
+Author: Claude Opus 5.5 (O'Connor 1.3 seat, writing as Monroe Jackson), 2026-10-02.
+Brief: `PASS-BRIEF.md`, Lane 1. Read first: `whole-arc-read.md` §§3, 4 and 9; `whole-arc-notes.md`;
+O'Connor `VOICE.md`; `EDITION_BRIEF.md`; `BOOK_MAP.md` §9; `protected-patterns.txt`. Depth was
+calibrated against Book 1's `LANE-1-REPORT.md`.
+
+**Files edited.** `manuscript/chapter-01.md` … `chapter-31.md` and this report. Nothing else was
+touched. No git command was run. The coordinator's 24 line fixes were left as they stood: none was
+redone or undone.
+
+**Method.** Every change was made by reading the paragraph and writing the replacement by hand,
+applied as an exact single-match Edit. No sed, regex or script touched prose. Before starting, ch1–31
+were snapshotted to the session scratchpad; every before/after figure below compares that snapshot with
+the finished files.
+
+The lane author did ch27–31 (both priorities). Four same-seat workers (Opus 5.5, same brief, same
+keep-list) did Priority 1 in ch1–7, ch8–14, ch15–20 and ch21–26 in parallel, each touching only its own
+chapters. The lane author read their changelists, spot-read their diffs, and made two corrections
+(§6). Read-only helpers in the scratchpad: `count2.sh` (the grep counts) and `closecheck.py` (the
+skeleton-probe method, before vs after, listing any newly close sentence).
+
+## 1. Texture counts (grep, ch1–31, case-insensitive)
+
+| Target | Before | After | Change |
+|---|---|---|---|
+| Words, ch1–31 (`wc`) | 144,226 | 141,769 | −2,457 |
+| **"the way" (every use)** | **239** | **128** | **−46%** |
+| — with a generic subject ("the way a/an/you/people/someone…") | 53 | 25 | −53% |
+| "as if" / "as though" | 156 | 97 | −38% |
+| — "as if it/she/he/they had/were" | 62 | 44 | |
+| "a long time" | 52 | 18 | |
+| "a long moment" | 20 | 5 | |
+| "for a moment" | 49 | 21 | |
+| "for a while" | 23 | 2 | |
+| "for some time" | 8 | 1 | |
+| **Duration pads, total** | **152** | **47** | **−69%** |
+| — "for a long time/moment/while" (the read's measure) | 55 | 19 | −65% |
+| **"found that"** | **43** | **2** | **−95%** |
+| "exactly" | 140 | 78 | −44% |
+| Document re-readings ("read it twice/again/a third time…") | 23 | 11 | |
+| "a third time" | 6 | 3 | |
+| "three times" | 21 | 16 | |
+| "did not look up" / "without looking up" | 16 | 7 | |
+| finger's / hand's width, hair's breadth | 14 | 11 | |
+| "a hair" | 6 | 2 | |
+| "squared" | 9 | 6 | |
+| "went (very) still" | 13 | 12 | |
+| Oona: "whole (serious) face" | 8 | 3 | |
+| Oona: "slate under her arm" | 14 | 6 | |
+| Wray "off a gauge" | 2 | 2 | ch7 and ch17, the §3 keeps |
+| the knock, "door shutting in another room" | 3 | 3 | ch1, ch7 (keeps) and ch28's "slammed" (escalation, allowed) |
+| Iron Skin "frost on a pane" | 1 | 1 | ch6 (keep) |
+| Brom's laugh, "did him for a laugh" | 2 | 1 | ch4 (keep) |
+| the bread's "larger half/piece" | 6 | 1 | ch15, the first, kept as the anchor for ch39's rule |
+| "with great dignity/seriousness" | 5 | 2 | |
+| "I'd think less of you" | 5 | 2 | |
+| Gerda "tall and narrow" | 7 | 3 | ch8, the first full use, kept |
+| "patient as a gatepost / like a post" | 2 | 1 | ch27, the first, kept |
+| "the square/plain hand he kept/saved" | 7 + 2 "slow, square" forms | 0 + 2 | ch2 and ch6, the §3 keeps, are untouched |
+| *Watched:* "like a" | 88 | 89 | |
+| *Watched:* "as" (every use) | 719 | 694 | Conversions were outnumbered by cuts |
+
+**Against Book 1's depth.** "the way" −46% (Book 1 −48%); "found that" −95% (−82%); duration pads
+−69% (−77%). The pads were cut less deeply here, on purpose: the 47 left are counted beats or speech.
+Examples are Quenna's decision in the fourth exchange (ch19), "For a moment nobody moved" before
+Lira's reach (ch11), Lira's silence on the wall (ch29), "Karis was quiet a long time" before the Tide
+verdict (ch30), and Gerda "very hungry for a long time" (ch27, meaning-bearing). They also include
+every pad inside a bout and the speech lines.
+
+**Keeps from §3, verified present.**
+- Brom "the way a smith considers a bar of iron" (ch1).
+- The knock (ch1, ch7).
+- The frost (ch6).
+- The gauge (ch7, ch17).
+- The chest-laugh (ch4).
+- The square hand (ch2, ch6).
+- Oona's whole face (ch12, the first; ch16/ch17).
+- The slate (ch5).
+- P6's triple reading with the tea going cold (ch2).
+- The petition reading (ch16).
+- Every simile inside a bout or training exchange.
+- Karis "went very still, the way she went still before an ignition" (ch30). This is the first
+  occurrence in this edition (see §6).
+
+## 2. Priority 2 — ch27–31
+
+| Chapter | Before | After | Change |
+|---|---|---|---|
+| ch27 | 4,618 | 4,567 | −51 |
+| ch28 | 4,386 | 4,078 | −308 |
+| ch29 | 4,398 | 4,282 | −116 |
+| ch30 | 4,323 | 4,336 | +13 (the new beat, below, net of cuts) |
+| ch31 | 4,246 | 3,907 | −339 |
+| **ch27–31** | **21,971** | **21,170** | **−801** |
+
+**ch28 (the reported week).**
+- The session 5–10 margin entry is compressed to one line per pair. Every variable and the "Consent
+  given" beat are kept.
+- The first-year's grievance over the room is folded into one sentence.
+- The barley line is trimmed to its fact.
+- The morning-after cost paragraph is cut. It duplicated, item for item, the Compression entry that
+  follows it. The breastbone ache stays, because ch29 and ch36 recall it.
+- The push-mechanics paragraph is tightened.
+- The read-back list is cut from fourteen items to eight, the ones that carry the variety.
+- "That was the strangest thing about the whole week…" is cut, along with the closing paragraph's
+  doubled clauses.
+
+Kept whole:
+- session nine and the pen;
+- the release-lag conversation, because the match depends on Karis's lag;
+- the whole push, on the eighth try with the elbow on the sixth;
+- Oona's "Seven weeks. And two days." and Hesk's hand;
+- the thickening, "Three in about twelve", and the grey fingertips;
+- "Fourteen boundaries";
+- "eight more sessions";
+- the missing-something close.
+
+**ch31 (the twenty-second session).**
+- The plan paragraph no longer re-lists the variables that ch28's read-back already listed.
+- "He knew her now" no longer re-states ch28's tells, the quarter-second, the half-breath and the
+  lengthening release. It keeps the new beat: he knows her better than Lira in one narrow way, he
+  knows where the next point will fall, the thickening comes twice, and he has learned her below
+  memory.
+- The ruled line keeps its figure and loses the pause.
+- The Hesk letter's ledger sentence is shortened, because it re-stated ch28's epiphany.
+- The recap of Quenna's and Karis's lines before the note is cut, since ch30 had just shown them.
+- The calendar paragraph loses "Show enough to pass. Bank everything that matters." and the
+  reader-under-a-lamp line, which ch32's opening repeats the next morning (see §6).
+- The closing log is trimmed to its counts.
+- Untouched: Gerda's bout (every exchange and landing beat), "We are missing a condition", Karis's
+  wish to be the source, "Noted", the barley clause, the wall scene, "Same rule. Heavier load.", the
+  note text and "*Part of me is still waiting.*"
+
+**Short of the target.** ch28 and ch31 lose 647 words between them, and ch27–31 lose 801, against
+the brief's "about 1,000". The rest of the overlap sits in beats a later chapter pays: the lag (ch36),
+the thickening (ch37), Oona's Kindling account (ch41), Karis's volunteering (ch32, P18), and the
+missing-condition close (ch29, ch36). I stopped rather than cut into those.
+
+**"Part of me is waiting" in ch30.** It is a new paragraph at the end of the chapter, as Cael climbs
+the stair after leaving Gerda and Lira on the floor the night before her bout:
+
+> Halfway up the stair it came to him that the part of him he had written down a week ago had been
+> listening too. *Part of me is waiting for it.* None of the nulls since had moved it. It had heard
+> Gerda say she would come out of the haze and take what was put on her where the chairs could see,
+> and it had leaned toward the words, because somewhere ahead there was still a floor that was his.
+> He did not like it any better than he had at the desk. He went on up.
+
+The paragraph quotes ch29's binder line exactly. It sets Cael's stake beside Gerda's on the night her
+stake is paid, and it bridges to ch31's closing "*Part of me is still waiting.*" ("Part of me is"
+now counts 2 → 3.)
+
+## 3. Changelist
+
+"Conv." means a "the way" or "as if" simile was recast as "as" or "like", with the image kept.
+
+- **ch1:** Cut the arm-weight gloss, the river and chipped-tooth similes, the overnight re-read of
+  the notice, the clerk's "as if", "found that", two "exactly" and three pads. Kept the smith, the
+  cupped hands (training) and the hot bar (cost).
+- **ch2:** Cut "found that" ×2, three pads, the clerk's "twice", Lira's "again", Brom's hold simile
+  and "exactly as he remembered". P6 and the square hand are untouched.
+- **ch3:** Cut "found that" ×3, three pads, the voice and gloves similes, and two "as if". The
+  orientation line is now "hold it against you", so Naveth's "I'd think less of you" stands alone.
+  "For a long time now" became "for months now" (see §6).
+- **ch4:** Cut two "as if", the second weather simile (a repeat of ch3), "found that", a pad and two
+  "exactly". The orthodoxy "exactly"s and Brom's "long moment" are kept as training-exchange text.
+- **ch5:** Oona is down to one tag per scene. Cut "found that" ×4, the notice and request re-reads,
+  Brom's "did not look up" and "went very still", two "exactly" and three "as if". The instructor's
+  "went very still" is kept, because it times "shattered".
+- **ch6:** Oona is down to one tag. Cut the weather and bruise similes, "found that" ×2, two pads and
+  the refusal's "read it twice". Kept the frost, the square hand, the hinge (mechanism) and Prynn's
+  "exactly"s.
+- **ch7:** Cut three "as if", the closed-eyes simile, three pads, three "exactly" and the crowd's
+  "without looking up". Demonstration exchanges, the knock, the gauge and every protected line are
+  untouched.
+- **ch8:** Cut six pads, three "exactly", two "found that", the second crowd simile and Edran's
+  filing gloss. Conv. ×3. Everything in Lira's standings bout is kept, along with Gerda's first "tall
+  and narrow" and Hobb's "exactly as hard".
+- **ch9:**
+  - Two "did not look up" are now "went on with his porridge" and "paid no attention".
+  - The provision count is now "more than once that week".
+  - Kept: the clerk's double reading (it pays Lira's rumour) and "speaks a fraction early into a
+    silence" (Karis's partner).
+- **ch10:** Karis's "I'd think less of you" is now "I'd have worried if you had". Cut four "exactly",
+  two "found that", two pads, Quenna's "did not look up" and the kept-hand line. The first "Noted"
+  and the off-hand plant are kept.
+- **ch11:**
+  - The clauses, "at the end of the month" (fix 1) and the anchors are untouched.
+  - Cut the re-reads of clause 4 and the declaration card, three "exactly" and a second Karis tag.
+  - Kept: Karis squaring the folder, "For a moment nobody moved", and the receipt "exactly"s.
+- **ch12:** Cut Quenna's weather simile, Lira's rain simile, Oona's seriousness and slate, three pads,
+  "found that" and "a hair". Conv. ×4. Kept Quenna's second reading of the terms and Cael's four
+  sheets read twice (both are the beat), and Oona's first whole-face tag.
+- **ch13:** Coss reads the approval "slowly, because the speed of it was information". Two pads were
+  recast. Cut Naveth's first "squared" and two "exactly". Coss's three readings are kept, because
+  they are his method.
+- **ch14:**
+  - Cut four glosses, the baker's "exactly", three "found that", a pad, Oona's imagined slate and the
+    saved-hand line.
+  - The transmittal is now read twice.
+  - Kept: the honey thief, the forty copies, Karis's one "did not look up", and the coordinator's
+    Wray fix.
+- **ch15:** The water opener is now "like floodwater coming up a stair". Cut three "as if", three
+  pads, "found that", one "exactly" and the second "larger half". Kept the first "larger piece", the
+  coal simile, the off-hand "listening" and the bout silences.
+- **ch16:**
+  - Quenna's "did not look up" is now "went on writing". Gerda's stays, because the next line needs it.
+  - Oona keeps one gesture.
+  - Cut Gerda's "tall and narrow".
+  - The petition reading and the tea callback are untouched.
+- **ch17:** Brom's nod is recast. Cut Gerda's "as if deciding", "tall and narrow", three pads, Oona's
+  slate ×2 and two of her tags. Kept her whole face, Wray's gauge, and Edran's "I'd think less of
+  you".
+- **ch18:** Six "the way" were converted or cut. Oona is down to one tag. Cut three "exactly",
+  "found that", the hand's width and three pads. The tout's book and "Tires in the sequence" are
+  untouched.
+- **ch19:** Bout exchanges are untouched. In the framing, cut Brom's funeral-simile echo, four "the
+  way", three "exactly", two pads and Oona's whole face. Quenna's "long moment" is kept.
+- **ch20:**
+  - "As if" is down from eight to three.
+  - Cut Hobb's third "handed something" figure, two slate tags, "great seriousness", four pads,
+    three "found that", the withdrawal read twice, and the chart gone through twice.
+  - The one-line "Naveth was quiet for a moment" paragraph is gone, and "He was quiet again" is now
+    "He let that sit".
+  - Untouched: "Thank me with your assessments", "Worry when they start to agree", Wray's record line
+    and fix 3.
+- **ch21:**
+  - Conv. ×2. Cut two other "the way", two "as if", four pads, "found that", Brom's "squared", "read
+    them twice" and two "exactly".
+  - Kept: Lira reading like an opponent (the first), her "did not look up" (the next line needs it),
+    "Told you she had a method", "Not asked" and the fetch column.
+- **ch22:** Cut "found that" ×3 and a gloss. Conv. ×2. Cut Oona's whole face and her echo of
+  Karis's flat hands. Brom's sentence and fix 4's bread sentence are untouched.
+- **ch23:** Hesk's letter is read once, and the bench line again. Cut four pads, the saved-hand line
+  and two "as if". "Same rule. Heavier load." and "the second one's the floor" are untouched.
+- **ch24:**
+  - Six "the way" were cut or converted.
+  - The Fenmark sheet's re-reads are thinned, and Cael now sees Lira read it "more than once". The
+    final search for the made-up sentence is kept, because it is the beat.
+  - Cut the larger half, "tall and narrow", "squared", three "found that", four "exactly" and three
+    pads.
+- **ch25:**
+  - "I'd think less of you" is now "I'd trust the answer less if you did".
+  - Cut "like a post", Quenna's "without looking up", "found that" ×3 and five pads.
+  - The triple reading of the safety clause is kept, because it is the beat.
+- **ch26:** Cut the chest-laugh, the plain-hand line, "two posts", the duplicate of ch23's "the way
+  she said the score", Quenna's "did not look up" and four "exactly". The notation heard three times
+  is now heard twice. Both bouts, Wray's seven strikes, P8, P9 and the records line are untouched.
+- **ch27:**
+  - Cut Gerda's "tall and narrow", "for some time" on Quenna's pen, the slip-hour simile (the
+    signature line keeps "every letter separate"), and "precisely" ×1.
+  - Cut "as if reading out a clause" (ch30 keeps the Prynn version) and the hands "as if".
+  - Cut "for a long time" ×2, "for a long moment" on Prynn, and "exactly how".
+  - Gerda now looks after Hobb "until the hall door had shut behind him", replacing the second
+    heavy-thing "as if".
+  - Kept: the swimmer (bout), the fish, the wall taking rain, the gatepost (the first), Brom's "great
+    seriousness" (the first), and "for exactly as long as it took Gerda to wonder".
+- **ch28:** Priority 2, above. Also: "a hair more" is now "a little more"; the high-wall simile and
+  the body-weight simile stacked on the felt were cut; Oona's slate and whole-face tags and her "long
+  time" were cut; the larger half was cut; and "found that the map" was recast.
+FILE: editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-2-REPORT.md
+# Book 3 — completion pass, Lane 2 report (chapters 32–61)
+
+Author: Claude Opus 5.5 (O'Connor 1.3 seat, writing as Monroe Jackson), 2026-10-02 to 10-04.
+
+**Brief.** `PASS-BRIEF.md`, Lane 2.
+
+**Read first:**
+- `whole-arc-read.md` §§3, 4 and 9;
+- `whole-arc-notes.md`;
+- `LANE-1-REPORT.md`;
+- O'Connor `VOICE.md`;
+- `EDITION_BRIEF.md`;
+- `BOOK_MAP.md` §9;
+- `protected-patterns.txt`.
+
+**Files edited.** `manuscript/chapter-32.md` … `chapter-61.md` and this report. Nothing else was touched. No git command was run. The coordinator's line fixes (§8, fixes 6–13 and 19 in this range) were left as they stood.
+
+**Method.** Every change was made by reading the paragraph and hand-writing the replacement, applied as an exact single-match Edit. No sed, regex or script touched prose. Before work began, ch32–61 were snapshotted to the session scratchpad (`L2/before/`), and every before/after figure below compares that snapshot with the finished files. The helpers, all read-only, live in `L2/`:
+- `count2.sh`, Lane 1's grep counts;
+- `perch.sh`, per-chapter counts;
+- `closecheck.py`, Lane 1's skeleton method re-pointed at the M5–M8 source chapters.
+
+**Who did what.**
+- The lane author did ch47–53, including both Priority 2 cutaways and the ch51 stillness.
+- Same-seat workers (Opus 5.5, with a shared brief and keep-list in `L2/WORKER-BRIEF.md`) did Priority 1 in ch32–39, ch40–41, ch42–46 and ch54–61.
+- The first set of workers was stopped by the weekly usage limit partway through. At that point ch32–39, ch42–45 and ch54–58 were done, and ch40–41, ch46 and ch59–61 were untouched.
+- After the reset, the lane author re-read every word-diff from the stopped workers for broken or half-finished paragraphs. None was found. Two new workers then did ch40, ch41 and ch46, and ch59–61.
+- The lane author reviewed all the diffs, made the corrections in §6, and finished the depth sweep (§1, last paragraph).
+
+## 1. Texture counts (grep, ch32–61, case-insensitive)
+
+| Target | Before | After | Change |
+|---|---|---|---|
+| Words, ch32–61 (`wc`) | 148,910 | 146,173 | −2,737 |
+| **"the way" (every use)** | **171** | **107** | **−37%** |
+| — with a generic subject | 36 | 22 | −39% |
+| **"as if" / "as though"** | **136** | **87** | **−36%** |
+| — "as if it/she/he/they had/were" | 58 | 36 | |
+| "a long time" | 57 | 24 | |
+| "a long moment" | 26 | 8 | |
+| "for a moment" | 49 | 12 | |
+| "for a while" | 46 | 10 | |
+| "for some time" | 13 | 4 | |
+| **Duration pads, total** | **191** | **58** | **−70%** |
+| — "for a long time/moment/while" | 57 | 21 | −63% |
+| **"found that"** | **39** | **1** | **−97%** |
+| **"exactly"** | **123** | **69** | **−44%** |
+| Document re-readings (the grep) | 42 | 29 | −31% (see below) |
+| "a third time" | 15 | 7 | |
+| "three times" | 32 | 32 | all counts or speech |
+| "did not look up" / "without looking up" | 33 | 22 | |
+| finger's / hand's width, hair's breadth | 26 | 16 | the Ember-test measures, ch40–41, are untouched |
+| "a hair" | 18 | 12 | |
+| "squared" | 14 | 13 | |
+| "went (very) still" | 9 | 4 | |
+| Oona: "whole (serious) face" | 7 | 1 | ch41, the §3 keep |
+| Oona: "slate under her arm" | 10 | 5 | ch41 and ch59 kept |
+| Brom's "did him for a laugh" | 1 | 1 | ch49, the §3 keep |
+| the bread's "larger half" | 5 | 2 | ch39 (the rule) kept |
+| "with great dignity/seriousness" | 5 | 0 | |
+| "I'd think less of you" | 2 | 1 | ch32 kept (§6) |
+| "patient as a gatepost" / "planted like a gatepost" | 2 | 0 | ch27 is the first |
+| "the square/plain hand he kept" | 5 | 2 | ch36 and ch53, the §3 keeps |
+| *Watched:* "like a" | 65 | 64 | |
+| *Watched:* "as" | 850 | 801 | |
+
+**Against Lane 1's depth (ch1–31).**
+
+| Target | Lane 1 | Lane 2 |
+|---|---|---|
+| Duration pads | −69% | −70% |
+| "found that" | −95% | −97% |
+| "exactly" | −44% | −44% |
+| "as if" | −38% | −36% |
+| "the way" | −46% | −37% |
+| Re-reads | about half | −31% by the grep |
+
+Two targets are shallower than Lane 1's.
+
+**"the way" (−37%).** The before count is "every use". In this half a large share of those uses cannot be cut:
+- literal or route uses, about 18 ("all the way", "on the way", "out of the way", "by the way it had come");
+- speech, about 15 ("the way it's meant to be used", "the way it was built to be used", "the way we'd made it", "the way you feel a step in the dark");
+- similes inside the match (ch36) and the sittings (ch54–58);
+- the P5 narration (ch61);
+- the §3 first-figure keeps: the instructor's farmer (ch33), the reflection in a dark window (ch41), Brom's yard-search (ch52), Havel's carter and wheel (ch52), and Coss's measured-twice head-shake (ch50).
+
+Of the explanatory, cuttable glosses, roughly two-thirds were cut or converted. The last pass converted five to "as" ("just as" where "as" could be heard as "while"). Those were glosses that earned their comparison (ch47, ch49, ch51, ch52, ch57); in the same pass two were cut outright (ch38, ch45), one cut by recasting the sentence (ch44), and two converted to "like" (ch37, ch55).
+
+**Re-reads (−31% by the grep).** The grep over-counts in this half:
+- negations ("did not read it again", "did not stop to read it twice");
+- speech ("I read it three times looking for anything interesting");
+- procedure that is the beat: Prynn's "Again" at the door (ch52), and Yorlan's provision read twice, which is hearing canon (ch54).
+
+Narrative re-readings that were not the beat were cut to one reading, or to two where the second reading turns the scene:
+- Prynn's notice: three readings → two (ch48);
+- the inventory notice: three → one (ch43);
+- Quenna's conditions: three → one (ch35);
+- the find, "a third time … and then a fourth" → one more reading (ch51);
+- Karis's finding: three → two (ch53);
+- Karis's consent: four → one (ch32);
+- Cael's page (ch38).
+
+These are kept as the beat:
+- the notice's "four … a fifth" (ch36);
+- the deposition and Ilsev's query (ch49);
+- Ilsev's third reading in the Havel cutaway (ch52, part of the cutaway plan);
+- Brom's page "twice; a third reading was beyond him" (ch53);
+- Hesk's letter (ch61).
+
+## 2. Priority 2 — the two M7 cutaways
+
+| Cutaway | Before | After | Change |
+|---|---|---|---|
+| ch47, the Havel coach and gate (the 2nd and 3rd scenes) | 1,304 | 1,100 | −204 |
+| ch50, the Karis card cutaway (the 3rd and 4th scenes) | 2,817 | 2,555 | −262 |
+| ch47 whole chapter | 4,395 | 4,132 | −263 |
+| ch50 whole chapter | 5,007 | 4,698 | −309 |
+
+No scene breaks were added or removed (all 30 chapters keep their scene-break counts).
+
+**ch47, Havel.**
+- The case, Yorlan, Ilsev and the asleep records officer are compressed into four paragraphs.
+- The case's contents list is kept, and so is the sand-glass, which the hearing uses.
+- "Every recorder carried one" and "heavier than it looked" are cut.
+- Yorlan's three hearings and his never raising his voice are kept as one sentence.
+- "It was an academy, then, though not much of one" is folded into the new-building joke.
+- At the gate:
+  - the inn-papers sentence is shortened;
+  - the provost's "as if neither needed much introduction" is cut;
+  - "He walked on a few paces" is cut;
+  - the step and the wall view are recast tighter.
+- Kept verbatim: both notebook entries (*File and subject do not match. Marker origin not found. Noted.* and *Asked. Told to stop. Stopped.*); "a boy of fifteen"; "Assessor Havel," … "Recording officer now, I see. You've a new grade."; "It suits you. You were always careful."; Yorlan's two questions with "The record is public."; and "Noted".
+- Also kept: the met-once corridor line, and "one short reply in that hand by heart".
+- The Cael-side wall scene is a different viewpoint on the same moment and is untouched apart from Priority 1.
+
+**ch50, Karis.**
+- The card system's five places are now one sentence; the dot, ring and struck-ring marks are kept whole.
+- The waystation runs paragraph is compressed, keeping:
+  - "how many sacks of oats";
+  - the nineteen-year weather log;
+  - "And, sometimes, what they were.".
+- The clerk-learning paragraph is merged with the naming. All four epithets are kept whole (Long Tails, the Blotter, Small Hand, the crosshatched sevens).
+- The clerks' arrival is tightened.
+- "She stood a moment longer…found that she minded" is recast.
+- The overlap explanation is compressed:
+  - the weather log's last line, the double date and the accession register are kept;
+  - the three-step count is now one sentence, and Prynn's silent check is kept.
+- The "date, not the reason" paragraph loses its student simile and is folded to one denial sentence. It still says the date means nothing about anyone who passed through, which is the knowledge boundary.
+- The Ternhall paragraph is compressed. The partner stays unnamed and "her hand on a wall, wanting the floor" is kept.
+- Prynn's count/marks/sign is kept whole, and so is "It tasted like Brom.".
+- The third clerk's sentences-not-boxes, the margin correction, "four volumes … a dot in each corner", and the last paragraph opening the next volume are all kept.
+
+**The aim.** It was that the deposition (ch49) and the find (ch51) not be separated by two still chapters. Together the two cutaways and ch48 lose about 540 words.
+
+## 3. "Went still, as she went still before an ignition"
+
+- **ch30** (the first, Lane 1's keep): untouched.
+- **ch37:** the word-for-word repeat "Karis went still, as she went still before an ignition, all of her listening at once." is now "Karis laid her grey fingertips flat on her knees and kept them there." That is Karis's own register: the grey fingertips are her cost (ch28), shown on the morning she learns the fragment came from her.
+- **ch51:** this edition has no word-for-word repeat here. The stillness at the find was a long gloss, "All of her had gone quiet at once … He had seen her go still like that once before". It is recast without "still": "the eyes and lips and breath had all stopped together" … "He had seen her stop like that once before, in the formal yard". The match callback is kept.
+- **ch52:** at box seven, "Karis go still: not the stillness of the night before, but a smaller one" is now "Karis hold a breath and let it go again".
+
+## 4. Changelist
+
+"Conv." means a "the way" or "as if" simile was recast as "as" or "like", with the image kept.
+
+- **ch32:**
+  - Cut:
+    - Hobb's gatepost;
+    - "with great dignity";
+    - the plain-hand line;
+    - Karis's consent re-reads;
+    - Lira's triple reading (now one slow reading);
+    - six pads;
+    - "found that";
+    - five "exactly".
+  - Kept: P18 exact, "Show enough to pass. Bank everything that matters.", and Cael's "I'd think less of you".
+- **ch33:**
+  - Cut:
+    - five pads;
+    - three "exactly";
+    - Brom's meal "as if";
+    - the lattice re-statement.
+  - Kept:
+    - the instructor's farmer and stray dog (the §3 keep);
+    - the first "trap … foot that springs it";
+    - "Never join what you can still move" and "Stop her before she composes".
+- **ch34:**
+  - Cut:
+    - three pads;
+    - two "exactly";
+    - "found that" ×2;
+    - Lira's "went very still";
+    - "a hair";
+    - the drawn circle's hand's width.
+  - The bag-drill exchanges are untouched.
+- **ch35:**
+  - Quenna's conditions are now read once.
+  - Cut:
+    - "found that" ×3;
+    - "with great seriousness";
+    - Oona's "great care";
+    - two "did not look up";
+    - pads.
+  - Kept: every fact (rota, "walk out … on your own feet", the honey thief, the barley clause, "Fight me … don't catalogue").
+- **ch36:**
+  - The match is untouched as one unbroken scene: every exchange, landing beat and simile, P1 with its "four … a fifth" reading, and the log. Only the framing was touched.
+  - Framing cuts:
+    - the banked-coals and water-round-a-rock tails at breakfast;
+    - two pads;
+    - "found that";
+    - "beats like a second heart" and "not a hair further", both after the halt.
+  - The "hand he kept" (a §3 keep) is untouched.
+- **ch37:**
+  - The ignition-stillness repeat is rewritten (§3).
+  - Cut:
+    - six pads;
+    - three "exactly";
+    - the stone-he-never-agreed simile (which echoed the source);
+    - the letter-in-your-coat and light-at-a-new-angle similes.
+  - Conv. ×1 (the craftsman's tools).
+  - Kept: P2 and P3 exact, the coordinator's "I won't ask. I have my ideas.", Naveth's "age me", and the warm fragment.
+- **ch38:**
+  - Cut:
+    - "found that" ×4;
+    - five pads;
+    - the Ternhall-partner "the way a person speaks a fraction early" (the partner is still present and still unnamed);
+    - the note re-read from three to two;
+    - one result-checking gloss.
+  - Kept: the paragraph, the first notebook and the supplementary entry exact.
+- **ch39:**
+  - Cut:
+    - five pads;
+    - "with great dignity" (now "solemnly");
+    - the plain-hand line;
+    - Brom's gatepost;
+    - Gerda's clause simile;
+    - Prynn's "square to the edge, exactly".
+  - Kept: the bread rule and its "larger half", the §9.2 log line and completion, Brom's lines, and the three clean days.
+- **ch40:**
+  - Cut:
+    - all seven pads;
+    - "found that" ×4;
+    - five "as if" glosses (the pump trough, the chalk line, the mark scored in wood, the list, and one more);
+    - the hearth "the way";
+    - Brom's "without looking up";
+    - "with great dignity";
+    - the plain-hand line.
+  - Kept: every hair, finger's-width and hand's-width measure, 104/109, "a spark", "You're pale. Sleep tonight." and the mother's shoulders.
+- **ch41:**
+  - Cut:
+    - five pads;
+    - five "exactly";
+    - "found that" ×2;
+    - the repeated "as if told where to put them";
+    - "the way weather comes".
+  - Kept:
+    - "A year and some", Anchor and Copper, "It's ordinary", and Oona's whole face and slate (the §3 keeps);
+    - the Coss cutaway whole: the approval timing, the credential, and the daughter letter "going up into the hills".
+- **ch42:**
+  - Cut:
+FILE: editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-A-REPORT.md
+# Book 3 completion pass, Lane A (ch1–23): report
+
+Author: Opus 5.5, O'Connor 1.3 seat. Date: 2026-10-02.
+Files edited: `manuscript/chapter-01.md` … `chapter-23.md` only. No git commands were run. No scene breaks were added or removed; each chapter's `---` count is unchanged.
+
+## 1. Results against target
+
+| Check | Target | Before | After |
+|---|---|---|---|
+| Chapter skeleton share | ≤5% every chapter | 6 chapters over (ch2 8, ch3 9, ch7 7, ch10 23, ch11 29, ch12 11, ch13 15, ch14 12, ch22 12, ch23 14) | every chapter 0–3% |
+| Scenes above 12% | none | 19 flagged, plus ch4 s4 at 12.5% | none (highest unrebuilt scene: ch8 s6 at 9%; highest rebuilt scene: ch23 s1 at 5%, made up of two protected log lines and two sentences at 0.50) |
+| Unprotected sentences ≥0.65 | none | 168 listed at ≥0.65 in ch1–23, all but a handful unprotected | none |
+| `ed.sh overlap` (8-word runs), M1/M2/M3 | 0 unprotected | 14 / 11 / 17 | 0 / 0 / 0 |
+| `ed.sh gates`, M1–M3 | 0 | 0 | 0 (reader standard 0, metadata 0, modern 0 in all 23 chapters) |
+
+Six sentences still score 1.00 against the source. All six are protected wording:
+- P7, "The word is doing a lot of work." (ch2)
+- the two §9.2 Naveth lines (ch3)
+- the §9.2 log line "…walls they think they own." (ch14)
+- the two protected sentences of the §9.2 log "If it can be directed…" (ch23)
+
+## 2. Probe before and after, by chapter
+
+Run with `SHOW=1 bash editions/monroe-1.3/tools/sweep_probe.sh book-03-no-path-given 1 3`. Each cell is the skeleton share, before → after.
+
+| Ch | Before → after | Ch | Before → after | Ch | Before → after |
+|---|---|---|---|---|---|
+| 1 | 3% → 2% | 9 | 2% → 2% | 17 | 4% → 0% |
+| 2 | 8% → 1% | 10 | 23% → 0% | 18 | 1% → 1% |
+| 3 | 9% → 1% | 11 | 29% → 1% | 19 | 1% → 1% |
+| 4 | 4% → 1% | 12 | 11% → 1% | 20 | 4% → 1% |
+| 5 | 3% → 2% | 13 | 15% → 2% | 21 | 5% → 0% |
+| 6 | 4% → 3% | 14 | 12% → 0% | 22 | 12% → 1% |
+| 7 | 7% → 2% | 15 | 0% → 0% | 23 | 14% → 2% |
+| 8 | 3% → 2% | 16 | 0% → 0% | | |
+
+Movement totals:
+- M1: 5% → 2%
+- M2: 12% → 1%
+- M3: 5% → 1%
+
+## 3. Rebuilt scenes
+
+| Scene | Probe before → after | Words before → after |
+|---|---|---|
+| ch3 s2 | 17% → 2% | 1,590 → 1,741 |
+| ch7 s4 | 24% → 0% | 547 → 588 |
+| ch10 s1 | 17% → 0% | 1,263 → 1,247 |
+| ch10 s2 | 50% → 0% | 394 → 425 |
+| ch10 s4 | 38% → 0% | 613 → 666 |
+| ch10 s5 | 33% → 0% | 535 → 526 |
+| ch11 s1 | 43% → 0% | 332 → 348 |
+| ch11 s2 | 49% → 4% | 891 → 913 |
+| ch11 s3 | 34% → 0% | 768 → 777 |
+| ch11 s4 | 33% → 0% | 1,012 → 1,064 |
+| ch12 s2 | 31% → 0% | 1,503 → 1,448 |
+| ch13 s2 | 18% → 3% | 718 → 720 |
+| ch13 s5 | 27% → 0% | 1,635 → 1,524 |
+| ch14 s2 | 26% → 0% | 952 → 995 |
+| ch14 s5 | 24% → 3% (the protected log line) | 557 → 580 |
+| ch21 s5 | 14% → 0% | 900 → 825 |
+| ch22 s2 | 24% → 3% | 613 → 636 |
+| ch22 s5 | 26% → 2% | 1,046 → 1,044 |
+| ch23 s1 | 32% → 5% (two protected log sentences) | 1,737 → 1,777 |
+
+Every rebuilt scene is within ±10% of its old length. The largest moves are ch3 s2 (+9.5%) and ch21 s5 (−8.3%).
+
+### What each scene does, and how it was rebuilt
+
+Each line gives the scene's events in brief, then what changed in how it is built.
+
+- **ch3 s2.** Events: the stair; the office (window to the yard, one chair, the brown alumni shelf); "Why did this academy take the risk?"; the joiner's look; the three ledger entries; Naveth's eleven years and the decade between; one finger, then two (priced right, priced wrong); the protected clerical-error lines; kindness against incentive; what happens when he stops paying off; Quenna priced him and stood surety; the order of the ledger; "Thank me with your assessments." Construction: the scene now opens on the stair. Naveth hands over the alumni book first and explains his history and the model afterwards, so the evidence comes before the argument. The finger-raising moves onto the ledger, as ch17 recalls. Cael's second question became "And when I stop paying off?"
+- **ch7 s4.** Events: the slate turned face down; the off-record voice; "Today proves you're real" (kept, because ch42 quotes it); the reader who will want him gone; "You being ready has never been what keeps me up"; the bruise; the chalk ring and the broom; two shown, two held back, one never reached for; two fingers in the smear. Construction: the scene opens on the sound of the slate. The ending paragraph is new.
+- **ch10 s1.** Events: "I am."; her name, Path, rank and school; eight months of secondhand accounts; asking to ask; the protected line "Trust is a finding, not a premise"; what a dull day of it would look like; stopping with one word as experimental hygiene; Prynn's tea and "Noted"; take a month. Construction: the catalogue of everyone who has ever looked at him moves from the middle of the conversation to after Karis leaves, so it now answers her parting line. Karis's sources now include "my mother's cousin, who trades wool through Ardenmere", which matches the ledger.
+- **ch10 s2.** Events: Prynn, "She looked at the shelves"; the bad tea; two laps of the training hall; the caution, against the fact that she asked; he watches her. Construction: written fresh, with a shorter closing turn.
+- **ch10 s4.** Events: the wall; the conversation retold nearly whole; "She asked"; take the month; the category, not the person; the Fenmark file never read; the scar against the argument; terms on paper, "This is what asking looks like"; "Sit with it". Construction: the scene opens on Lira's silence after the telling is finished.
+- **ch10 s5.** Events: breakfast; Karis watched Brom's block and asked about "the second half" (ch21 and ch26 depend on this); Velmere; "put that in the scales"; the log entry ("asked before looking"); the verdict against the question; "Weighing it." Construction: written fresh. The verdict passage is now a short argument, where it used to be a list.
+- **ch11 s1.** Events: Karis on the landing, placed to one side; she changes the question; "primary evidence"; he says yes; he no longer decides alone; the log line. Construction: the scene opens on the landing. The reflection that he no longer decides alone moves after the yes, as the reason it mattered.
+- **ch11 s2.** Events: the scarred table under the bricked-up hay door; the tile players; Brom in the corner; Lira opposite the empty chair; Karis on the half-bell; Brom in favour; Lira's two protected lines and the case-builders. Construction: the scene opens in dialogue, with Lira saying "I'm informed", and the table is described afterwards.
+- **ch11 s3.** Events: Karis concedes "I want data"; Marlowe's joke; she asks for a road from the first to the second; Lira weighs it; Lira's look at Cael; his silence; Cael wants it as defence. Construction: beats reordered. Cael now speaks before Lira's verdict, and her "That's a reason I can't argue with" and "Terms" come together in one turn.
+- **ch11 s4.** Events: the seven clauses in order, with the barley joke. The texts of clauses 1, 4, 5 and 6 are kept exactly, because ch21, ch22 and ch60 quote them. Also kept: Cael's notes clause as clause 3, Brom's capitals, the reading aloud twice, and the four signatures. Construction: the scene opens on Lira's "Numbers". The discussion is retold around what each person is guarding.
+- **ch12 s2.** Events: the two pens and the borrowed stool; Lira unannounced (clause 2); three passes; the pen moves only while he moves; he catches himself adjusting; the cap's click; "Does it feel borrowed, when you use it?" — "I don't know."; Lira in the corridor; "it doesn't look borrowed"; the log. Construction: the scene opens on Karis's equipment. The question is reshaped. The log's last line became *Someday I'll find out. Wanting to won't come into it.*
+- **ch13 s2.** Events: Coss reads the notice three times; the notice text (kept exactly); the grey card; the ruled bar and the restricted field; the note sent upward with no answer; the drawer; jurisdiction; the three-sentence quarterly report; the superior who never writes; "by signing a form". Construction: the scene opens on the closed folder under his hands. The district office ("one window on an alley", as ch47 has it) comes after the bar.
+- **ch13 s5.** Events: the request reaches Naveth in week 4; the open door; the three items; comply at the last lawful hour; requisition slips, one per office (ch42 depends on the slips); Prynn's afternoons; the white-haired seat away in the north; "Does it work?"; a person or a process; Vell's openings; the history of paper quarrels; pass tomorrow; Karis in the yard, "May I write it down?", "I'll show you the line." Construction: Naveth's strategy ("Does it work?" and "a person or a process") now comes before the slip-making, so the slips illustrate the strategy rather than lead to it.
+- **ch14 s2.** Events: the week passes; the honey thief; the binder fills up; Brom walks with him; Quenna, "don't spend the worry before the bill"; the heading for Quenna's sayings; Karis beside him; his handwriting shrinks (ch23's "Your handwriting's back" depends on this); *Cause unknown. Probable.*; "documentation". Construction: the scene opens on the shrinking handwriting, which Karis's observation pays off later.
+- **ch14 s5.** Events: the wall at dusk; the bundle on the road; "where I am" (the walls and the door they may knock on); Brom's steward, letter before cart; the protected log; the lamps and the courier. Construction: written fresh, keeping the same beats.
+- **ch21 s5.** Events: relief, then fear; she has never seen the binder; "Told you she had a method" (spine wording, kept); "It isn't proof"; Lira's sum; "Thank you"; they leave in order; the floor gives way; "Even them. Even her." Construction: the scene opens on the relief. Lira now says "Later, if you want" aloud, so the scene agrees with ch22, which already said she said it.
+- **ch22 s2.** Events: fragments as weather; the not-choosing held him up; the grammar of object and subject; aimable, so a story; appetite (ch23's letter needs the word); Lira, Brom, Feryn, Reydan; worse for not knowing; the lamp, the first page. Construction: the scene opens on the question "if not weather, then what". The weather belief is told backwards from there.
+- **ch22 s5.** Events: Brom at the rail counting where Cael has looked; "watched me like a ledger"; Wray does not steal his balance; intent is the difference; "*Aimable* was her word. *Hungry* was never hers. You supplied that part yourself." (the protected tail is kept); the four names; intent only from now; the walk to Lira. Construction: the scene opens in Brom's voice, and his two silent bouts are told after.
+- **ch23 s1.** Events: Lira on the frozen wall; the confession; "told me the same day"; nothing to forgive; "It's sums"; what would really cost him; her fears; "Better your hand than nobody's"; "Somebody's been steering"; learn it; "Same rule. Heavier load. It'll hold." (ch31 calls this back); the covenant; the people who keep accounts; the protected log; whom the fear is for. Construction: the scene opens on the crossing of the yard. The protected phrases stand as short sentences of their own, and everything around them is new.
+
+## 4. Other sentences recomposed
+
+Every unprotected sentence in ch1–23 that scored ≥0.65, and enough 0.50–0.64 sentences to bring each chapter to 5% or less, were re-shaped: folded into a neighbouring sentence, reordered, or rebuilt. The chapters touched were ch1, 2, 3 (s4), 4, 5, 6, 7 (s3), 8, 9, 10 (s3), 11 (s5), 12, 13 (s3, s4), 14 (s4), 17, 18, 19, 20 and 21 (s2–s4).
+
+All 42 unprotected 8-word overlap runs were also re-composed.
+
+The changes that touch documents or logs:
+
+- **ch5 notice.** "The candidate will demonstrate at his own election" became "Demonstration at the candidate's own election". The ch5 notice text appears only in ch5. The phrase "at his own election" survives in ch7, ch46 and ch55, which use their own wordings.
+- **ch13 challenge draft, first line.** It now reads: *The respondent is enrolled at Greyvane Academy as an unclassified observer, a category its own gloss limits to candidates yet to undergo formal Kindling assessment.* The line appears only in ch13, and later chapters refer to "two true lines", which still holds. The second line is unchanged.
+- **ch16.** The petition paraphrase now reads "candidates still waiting on their formal Kindling assessment". The protected gloss wording is unchanged in ch2.
+- **ch11 log heading.** It now reads *Changed. Remember that it changed.* No other chapter quotes this heading.
+- **ch14 routing-code log, last clause.** Now: *a line in the binder costs less than guessing wrong later about which things mattered.* No other chapter quotes it.
+- **ch18 and ch20 logs.** Their wording changed: "a school asking its question out loud", and "Edran withdrew. He did it in the ring…". Neither is quoted elsewhere.
+
+## 5. Referents checked
+
+I grepped ch1–61 for each rebuilt scene's nouns and lines before rewriting it, and kept everything below.
+
+**From ch3 s2:**
+- ch17 "He raised one finger, as he had on the first morning with the alumni ledger" and "the joiner's look".
+- ch20 and ch37: "Thank me with your assessments", said on his second day.
+- ch43: the thin brown alumni books and the worn stair. Only one visitor's chair, as ch43's carried-up chairs require.
+- ch42, ch43, ch56: "priced wrong".
+- ch60: the two clerical-error lines.
+
+**From ch7 s4:** ch42's quotation, *Today proves you're real.*
+
+**From ch10:**
+- ch21 and ch26: Karis asked Brom about "the second half" in her first week.
+- ch25: she "asked if she could ask"; eight months of other people's handwriting.
+- ch23 and ch39: "asks before she looks". The log keeps "asked before looking".
+- ch15: Lira's Fenmark file, which she has never read.
+
+**From ch11:**
+- Clause 1 text (ch60), clause 4 text (ch22), clause 5 text (ch21), clause 6 by number (ch14, ch16, ch18, ch21), clause 2 as a witness clause.
+- The barley clause (ch25, ch28, ch31).
+- The scarred table under the bricked-up hay door, which many later chapters use.
+- Volume six, pages forty to fifty-two (ch21).
+
+**From ch12:**
+- The borrowed stool and the two pens (ch22, ch25, ch35).
+- Sessions at the fifth bell in section four, from the first Thursday of week four (ch21).
+- ch61: "Karis asked whether it felt borrowed, and I told her I didn't know."
+- "the old knock".
+
+**From ch13:**
+- ch59: the note sent upward about the restricted field, and the ruled bar.
+- ch47: the district office with one window on an alley.
+- ch41: "flat language the form demanded".
+- ch42: the requisition slips and the last legal hour.
+- ch14 and ch45: the seventh day.
+
+**From ch14:**
+- ch23: "Your handwriting's back."
+- ch24 and ch35: the honey thief.
+- The protected log.
+
+**From ch21–23:**
+- ch22: Lira's *later, if you want*.
+- ch22: Cael was afraid of watching the Glass pair "like a hand looks at bread". ch29 says he wrote that line in the binder. ch22 s4 was not rebuilt and still has it only as an italic thought; see §7.
+- ch23: Hesk's letter leaves out "appetite".
+- ch31: "Same rule. Heavier load."
+- ch24: "a frozen wall".
+- Brom's fetch numbers.
+
+**Canon against the ledger and book map:**
+- Wray is a woman.
+- Naveth's eleven years and a decade between, with no Greyvane years numbered.
+- The Compression non-use at D3 ("a shell on his guard … refused a road").
+- The right-side rib bruise.
+- Karis has never seen the binder.
+- Cael is fifteen. No "year and a half" was added.
+
+## 6. Metrics
+
+`python3 editions/monroe-1.3/tools/formula_metrics.py` was run on ch1–23 together.
+
+| Measure | Before | After | Working range |
+|---|---|---|---|
+| Sentence mean | 13.47 | 13.31 | 13–15.5 |
+| ≥40-word share | 3.9% | 3.7% | 2.5–4.5% |
+| Words per scene | 930 | 933 | 850–1,050 |
+| ≤5-word share | 32.5% | 32.3% | up to ~34% |
+| Paragraph median | 23 | 23 | up to ~30 |
+| Flesch Reading Ease | 85.0 | 85.7 | (target 72.3) |
+| Flesch-Kincaid grade | 4.75 | 4.62 | 3.5–6 |
+| Words | 106,986 | 107,281 | |
+
+Per chapter, for the chapters with rebuilt scenes (sentence mean / ≥40-word share, before → after):
+
+| Ch | Before | After |
+|---|---|---|
+| 3 | 14.05 / 4.6% | 13.77 / 4.3% |
+| 7 | 14.92 / 5.9% | 14.68 / 5.1% |
+| 10 | 13.45 / 2.3% | 13.08 / 2.5% |
+| 11 | 12.86 / 2.9% | 12.83 / 3.1% |
+| 12 | 13.56 / 4.0% | 13.02 / 2.6% |
+| 13 | 15.02 / 1.1% | 14.32 / 2.1% |
+| 14 | 13.92 / 2.8% | 13.71 / 2.8% |
+| 21 | 13.89 / 4.8% | 13.40 / 3.6% |
+| 22 | 16.19 / 7.4% | 15.21 / 5.6% |
+| 23 | 12.83 / 5.1% | 12.68 / 4.1% |
+
+The chapters that were outside the working ranges before (ch1, 2, 4, 5, 8, 9, 11, 16, 17, 20, 23) are about where they were. Each of ch11 and ch23 has more dialogue than prose, and their speech was kept as people speak. I joined clipped narrative runs in ch10, 11, 14 and 23 by reading them one at a time, not with a script.
+
+## 7. For the coordinator
+
+**Protected-patterns candidates.** Each of these is quoted verbatim in more than one chapter and should stay identical everywhere:
+- Clause 1, *The binder is not part of this arrangement, and will not be asked for.* (ch11, ch60)
+- Clause 4, *He can say no to any one session without saying no to all of them. No reasons.* (ch11, ch22)
+- Clause 5, *No written speculation on how any capability arose.* (ch11, ch21)
+- "Today proves you're real." (ch7, ch42)
+- "Thank me with your assessments." (ch3, ch20, quoted in ch37)
+- The category gloss *has not yet undergone formal Kindling assessment* (P6). It is already in BOOK_MAP, but the overlap tool flags any longer run around it ("who have/had not yet …"). A pattern entry such as `not yet undergone formal kindling assessment` would let later chapters quote it naturally.
+
+**Continuity notes. I saw these and did not change them, because they lie outside the lines this pass rebuilt:**
+- ch21 has Brom say "You said bring it back at the end of the month", but ch11 s5 has Karis say only "Bring it back with your own marks in it" (the ledger says month's end). One clause added to ch11 s5 would close it.
+- ch29 has Lira quote "like a hand looks at bread" as something Cael wrote in the binder. In ch22 s4 it is only an italic thought. A ch22 or ch23 log line would close it.
+
+**New minor detail minted:**
+- The provost's stair has thirty-one steps (ch3, ch13).
+- Karis names her mother's wool-trading cousin as one of her sources (ch10). This matches the ledger.
+FILE: editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-B-REPORT.md
+# Book 3 completion pass — Lane B report (ch24–46)
+
+Author: Opus (O'Connor 1.3 seat), 2026-10-02. Files edited: `manuscript/chapter-24.md` … `chapter-46.md` only. No scene breaks were added or removed; every chapter has the same number of `---` lines as before (96 across the lane).
+
+## 1. Probe numbers (`SHOW=1 tools/sweep_probe.sh book-03-no-path-given 4 6`)
+
+| Chapter | Before | After | | Chapter | Before | After |
+|---|---|---|---|---|---|---|
+| ch24 | 4% | 3% | | ch36 | 7% | 0% |
+| ch25 | 7% | 1% | | ch37 | 12% | 2% |
+| ch26 | 4% | 1% | | ch38 | 7% | 0% |
+| ch27 | 1% | 0% | | ch39 | 8% | 2% |
+| ch28 | 1% | 0% | | ch40 | 1% | 1% |
+| ch29 | 2% | 1% | | ch41 | 0% | 0% |
+| ch30 | 4% | 2% | | ch42 | 8% | 3% |
+| ch31 | 1% | 0% | | ch43 | 5% | 4% |
+| ch32 | 4% | 3% | | ch44 | 7% | 3% |
+| ch33 | 2% | 1% | | ch45 | 5% | 4% |
+| ch34 | 2% | 0% | | ch46 | 3% | 2% |
+| ch35 | 7% | 2% | | | | |
+
+Movement totals: M4 3% → 1%; M5 6% → 1%; M6 4% → 2%. Matched pairs (≥0.50) across the lane: 208 → 72, most of them protected lines.
+
+Highest scenes now: ch43 s2 10%, ch24 s6 9%, ch45 s4 9%. No scene is above 12%.
+
+Unprotected sentences ≥0.65: one is left, and it was kept on purpose (see §5).
+
+### Rebuilt scenes
+
+| Scene | Before | After |
+|---|---|---|
+| ch36 s3 | 14% | 0% |
+| ch37 s3 | 30% | 2% |
+| ch37 s4 | 19% | 6% (all P2/P3 protected lines) |
+| ch37 s5 | 22% | 0% |
+| ch38 s4 | 36% | 0% |
+| ch39 s1 | 32% | 5% (two §9.2 protected lines only) |
+| ch42 s4 | 14% | 4% |
+
+## 2. Rebuilt scenes: the event list in brief, and what changed
+
+Each scene was rewritten from a private event list, with the source closed.
+
+- **ch36 s3** (after the halt).
+  - **Events:** the coin of light goes out; Cael sits on the frozen ground with his arm pulsing; the settling; the notice (P1); "Acquisition: directed" read four times and then a fifth; "today the line was not blank"; Karis sits beside him with grey fingertips from sixteen points; "a field for it"; Lira brings the binder after Quenna lets her past, hand to her breastbone; Brom's nod; six stories by supper, three hundred watchers; the §9.2 log line.
+  - **Construction:** it now opens on the light going out instead of on his shaking hands. The images are new (frost on a window, a cup filled by a careful hand). "It has a field for that" became "There's a field for it", since no later chapter quotes it. The match scene (s2) stays one unbroken scene. Only its tracked sentences were recomposed, and no exchange or landing beat was touched.
+- **ch37 s3** (the misfires).
+  - **Events:** first light, the iced pump; the half-pace sequences; the third sequence is absent, not slow, and the push lands on the Reydan shoulder; "Again"; the eleventh is absent too; Lira's rule (three clean days, tell Quenna or she will, both misses dated); Brom's arm at breakfast; a slow quarter caught and dropped; Pressure left alone; the binder entry; "the whole bill or the first payment".
+  - **Construction:** it opens on the yard and the unspoken Ardenmere habit. The image is now an empty coat pocket. The binder entry was rewritten in Cael's voice and keeps every fact that ch61 recalls (twice, half a second, third and eleventh, three clean days).
+- **ch37 s4** (Edran, the instructor, Naveth, Quenna).
+  - **Events:** these are the ledger's events in the ledger's order. Edran is "not asking" and Cael is "bigger than I'd estimated". The instructor says "Hm". Naveth says "exactly as much as can be seen from a window" and that Cael's assessments age him. Then the note, P2, the draw rule, Wray and the rotating seat signing, P3, "I don't know yet.", and "Find out before the Compact does."
+  - **Construction:** all the narration and connective dialogue is new, including Quenna's reading of her own record and Cael's weighing of choice against reflex. P2 and P3 are exact.
+- **ch37 s5** (the warm fragment).
+  - **Events:** he leaves it untouched; four tools against one that is all seam; the warmth feels like her; the people inside the older four (Lira, Brom, Feryn, Reydan before six hundred); he does not write it down; Karis's empty place with Lira's heel of bread.
+  - **Construction:** new images throughout: a letter unopened in a coat, a sunny wall giving back the afternoon, a room seen in new light.
+- **ch38 s4** (the paragraph).
+  - **Events:** two days unseen; Brom's single sighting; Lira's "something she doesn't want watched"; the eighth bell on Saturday; Karis comes with no notebook; "don't stop me"; being the result; the folded page with crossed creases and a scraped ghost sentence; Prynn's lamp "as if she had forgotten it" (kept for ch39's reveal); "You want to be inside"; Ternhall belonging by rank; armour against the unguarded copy; *The three of you*; she leaves the page.
+  - **Construction:** the scene now opens at the archive door and tells the two days in flashback, where the old version opened on the two days.
+- **ch39 s1** (the columns, Brom).
+  - **Events:** late Saturday; three hands sending the bill (Quenna, Karis, the binder); the columns; the box round "What it is for"; the protected sentence and its completion; Brom on the floor, "You just started choosing."; "It's a heavier word than I expected." / "Most of the good ones are."
+  - **Construction:** the narration is new. The binder columns and the completion line are kept exactly, because ch51, ch44 and ch60 call back the box and the columns. "Arbiter of interesting problems" (a source phrase) is now "judge of interesting problems".
+- **ch42 s4** (the family told).
+  - **Events:** Brom stacks cups (first shown, ledger canon), seven high; the long telling; Lira's boots come down at *field agent*; the Fenmark look; Karis's flat hands; three weeks and counsel; Lira's "fourteen… it's his job… point it somewhere"; Karis: "What do you need?" / "I don't know yet." / indexes since eleven; Brom: three hundred people, one card, the paperwork should be worried.
+  - **Construction:** the telling is now one listed sentence. Lira's speech and Brom's close are recomposed.
+
+Lengths of rebuilt scenes, old → new words: ch36 s3 1045 → 1117 (+7%); ch37 s3 939 → 979 (+4%); ch37 s4 1428 → 1432; ch37 s5 511 → 529 (+4%); ch38 s4 931 → 962 (+3%); ch39 s1 939 → 940; ch42 s4 648 → 675 (+4%). All are within ±10%.
+
+## 3. Sentence recomposition and the 8-word gate
+
+**Sentences at 0.65 or more.** Every unprotected sentence listed at ≥0.65 in ch24–35 and ch40–46 was recomposed: reshaped, split or folded into its neighbour, never a synonym swap. This covered ch24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 42, 43, 44, 45 and 46. Several 0.50–0.64 sentences in ch25, 35, 36, 42 and 44 were also recomposed, to bring those chapters to 5% or below.
+
+**The 8-word gate.** M4 and M5 were closed under the old 10-word gate, so before this pass `ed.sh overlap` showed 23 (M4) and 57 (M5) unprotected 8-word runs, some of them inside the scenes being rebuilt. M6 showed 0. The rebuilds and sentence work removed many of them, and every run that remained was recomposed. Three were adjusted only so that the protected wording stands alone:
+
+| Chapter | Change |
+|---|---|
+| ch26 | Lira's "The records know what happened here. Nobody gets to say otherwise." is no longer split by a "she said" tag; the tag now comes before the line. |
+| ch32 | "making sure of it" before "Show enough to pass…" is now "making certain of that". |
+| ch39 | "It's a heavier word than I expected" is now tagged "Cael told him". |
+
+**Rhythm.** After the rebuilds, M5's sentence mean fell to 12.98. It was restored by joining clipped runs in the rebuilt scenes, by reading and never by script (§4).
+
+## 4. Metrics (`tools/formula_metrics.py`)
+
+| Measure | ch24–46 before | ch24–46 after | M4 after | M5 after | M6 after |
+|---|---|---|---|---|---|
+| Sentence mean (13–15.5) | 13.09 | 13.05 | 13.14 | 13.00 | 13.01 |
+| ≥40-word share (2.5–4.5%) | 3.7% | 3.7% | 2.9% | 4.0% | 4.2% |
+| Words per scene (850–1,050) | 947 | 949 | 914 | 1,028 | 907 |
+| ≤5-word share (≤34%) | 32.8% | 32.7% | 33.0% | 33.0% | 32.2% |
+| Paragraph median (≤30) | 26 | 26 | 26 | 24 | 27.5 |
+| FK grade (3.5–6) | 4.34 | 4.31 | 4.39 | 4.18 | 4.38 |
+
+Words: 112,695 → 112,926.
+
+**Chapters below the 13 floor.** These were below it before this pass. They are dialogue-heavy, and none was pushed by force.
+
+| Chapter | Before | After |
+|---|---|---|
+| ch27 | 12.34 | 12.32 |
+| ch28 | 12.62 | 12.62 |
+| ch29 | 12.67 | 12.63 |
+| ch30 | 12.11 | 12.01 |
+| ch32 | 11.91 | 11.89 |
+| ch33 | 11.98 | 11.99 |
+| ch34 | 11.11 | 11.11 |
+| ch35 | 12.74 | 12.63 |
+| ch37 | 12.19 | 12.0 |
+| ch39 | 11.56 | 11.45 |
+| ch40 | 12.43 | 12.43 |
+| ch43 | 12.57 | 12.54 |
+| ch44 | 12.86 | 12.85 |
+| ch46 | 11.82 | 11.80 |
+
+ch36 is 2,515 words per scene because it holds the protected unbroken match. That is unchanged.
+
+## 5. Verification
+
+- **Probe:** every chapter is at 4% or below. The worst scene is 10%.
+- **One unprotected ≥0.65 sentence remains,** at ch46 s5 (0.80): *I'm not going to argue my enrollment is valid.* This is the packet-quoted outline line. The M6 recheck kept it as altered ("Kept as altered", STATE_LEDGER after M6), so I left it.
+  - **Suggested `protected-patterns.txt` entry:** `not going to argue (that )?my enrollment is valid`
+- **Overlap:** `ed.sh overlap` for M4, M5 and M6 shows 0 unprotected runs (4, 7 and 5 protected).
+- **Gates:** `ed.sh gates` for M4, M5 and M6 shows reader_standard 0, metadata 0 and modern 0 on all 23 chapters.
+- **Document headings:** I changed no heading or register text that is quoted in more than one chapter. The binder entries rewritten in ch30 s4 and ch37 s3 are quoted nowhere else (checked); ch61 recalls only the facts.
+
+## 6. Referents checked (grep through ch61 before rewriting)
+
+- **The match aftermath:**
+  - "six stories" (ch37);
+  - "three hundred" (ch42, ch46);
+  - "field for that" (no later use);
+  - Lira's hand to her breastbone, and the binder.
+- **The misfires:**
+  - third and eleventh sequences, half a second each, three clean days (ch39, ch61);
+  - "bill" (ch40 "the bill comes after", ch60);
+  - "empty pocket" and "first payment" (no later use).
+- **ch37 s4 lines:** "bigger than I'd estimated" (ledger; kept); "from a window" (ledger; kept); "age me" and "laundry list" (no later use); the P2 and P3 callbacks in ch38, ch40 and ch53 (exact).
+- **The warm fragment:** "feels like her" (spine); the heel of bread and Lira's bread rule (ch39, ch51, ch54); "coin" imagery (ch39 uses it, so ch37 s5 now uses a letter).
+- **The paragraph:**
+  - the crossed creases and scraped ghost (ch60);
+  - Prynn's unlocked door and lamp (ch39's "not once in sixty years");
+  - *The three of you*;
+  - the back pocket, behind the consent (ch53, ch60).
+- **The columns:** the small *not yet* box (ch43, ch44, ch45, ch51, ch60); the "study anybody I had to fight" motif (ch43, ch44, ch57; kept).
+- **The family told:** *field agent* (ch43), Brom's cups (ledger new canon), "exposes its own charter to review" (Karis quotes it in ch44; the phrase is kept inside Coss's recomposed sentence in ch42).
+- **Protected wording verified exact:**
+  - P1, P2, P3, P18;
+  - the §9.2 log lines in ch36 and ch39 and Brom's lines;
+  - "Trust is a finding…";
+  - "real, unexplained, keep";
+  - "The records know…";
+  - "'Warden' was never a town title";
+  - "After that, the job is to be right.";
+  - "This is your enrollment, not mine to trade.";
+  - the P15 definitions clause;
+  - Prynn's sixty-years line;
+  - the ch16 log anchor.
+
+exec
+/bin/zsh -lc 'wc -l editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-1-REPORT.md editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-2-REPORT.md editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-A-REPORT.md editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-B-REPORT.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     405 editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-1-REPORT.md
+     517 editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-2-REPORT.md
+     214 editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-A-REPORT.md
+     156 editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-B-REPORT.md
+    1292 total
+
+exec
+/bin/zsh -lc "sed -n '1,220p' editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-1-REPORT.md && sed -n '221,460p' editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-1-REPORT.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Book 3 — completion pass, Lane 1 report (chapters 1–31)
+
+Author: Claude Opus 5.5 (O'Connor 1.3 seat, writing as Monroe Jackson), 2026-10-02.
+Brief: `PASS-BRIEF.md`, Lane 1. Read first: `whole-arc-read.md` §§3, 4 and 9; `whole-arc-notes.md`;
+O'Connor `VOICE.md`; `EDITION_BRIEF.md`; `BOOK_MAP.md` §9; `protected-patterns.txt`. Depth was
+calibrated against Book 1's `LANE-1-REPORT.md`.
+
+**Files edited.** `manuscript/chapter-01.md` … `chapter-31.md` and this report. Nothing else was
+touched. No git command was run. The coordinator's 24 line fixes were left as they stood: none was
+redone or undone.
+
+**Method.** Every change was made by reading the paragraph and writing the replacement by hand,
+applied as an exact single-match Edit. No sed, regex or script touched prose. Before starting, ch1–31
+were snapshotted to the session scratchpad; every before/after figure below compares that snapshot with
+the finished files.
+
+The lane author did ch27–31 (both priorities). Four same-seat workers (Opus 5.5, same brief, same
+keep-list) did Priority 1 in ch1–7, ch8–14, ch15–20 and ch21–26 in parallel, each touching only its own
+chapters. The lane author read their changelists, spot-read their diffs, and made two corrections
+(§6). Read-only helpers in the scratchpad: `count2.sh` (the grep counts) and `closecheck.py` (the
+skeleton-probe method, before vs after, listing any newly close sentence).
+
+## 1. Texture counts (grep, ch1–31, case-insensitive)
+
+| Target | Before | After | Change |
+|---|---|---|---|
+| Words, ch1–31 (`wc`) | 144,226 | 141,769 | −2,457 |
+| **"the way" (every use)** | **239** | **128** | **−46%** |
+| — with a generic subject ("the way a/an/you/people/someone…") | 53 | 25 | −53% |
+| "as if" / "as though" | 156 | 97 | −38% |
+| — "as if it/she/he/they had/were" | 62 | 44 | |
+| "a long time" | 52 | 18 | |
+| "a long moment" | 20 | 5 | |
+| "for a moment" | 49 | 21 | |
+| "for a while" | 23 | 2 | |
+| "for some time" | 8 | 1 | |
+| **Duration pads, total** | **152** | **47** | **−69%** |
+| — "for a long time/moment/while" (the read's measure) | 55 | 19 | −65% |
+| **"found that"** | **43** | **2** | **−95%** |
+| "exactly" | 140 | 78 | −44% |
+| Document re-readings ("read it twice/again/a third time…") | 23 | 11 | |
+| "a third time" | 6 | 3 | |
+| "three times" | 21 | 16 | |
+| "did not look up" / "without looking up" | 16 | 7 | |
+| finger's / hand's width, hair's breadth | 14 | 11 | |
+| "a hair" | 6 | 2 | |
+| "squared" | 9 | 6 | |
+| "went (very) still" | 13 | 12 | |
+| Oona: "whole (serious) face" | 8 | 3 | |
+| Oona: "slate under her arm" | 14 | 6 | |
+| Wray "off a gauge" | 2 | 2 | ch7 and ch17, the §3 keeps |
+| the knock, "door shutting in another room" | 3 | 3 | ch1, ch7 (keeps) and ch28's "slammed" (escalation, allowed) |
+| Iron Skin "frost on a pane" | 1 | 1 | ch6 (keep) |
+| Brom's laugh, "did him for a laugh" | 2 | 1 | ch4 (keep) |
+| the bread's "larger half/piece" | 6 | 1 | ch15, the first, kept as the anchor for ch39's rule |
+| "with great dignity/seriousness" | 5 | 2 | |
+| "I'd think less of you" | 5 | 2 | |
+| Gerda "tall and narrow" | 7 | 3 | ch8, the first full use, kept |
+| "patient as a gatepost / like a post" | 2 | 1 | ch27, the first, kept |
+| "the square/plain hand he kept/saved" | 7 + 2 "slow, square" forms | 0 + 2 | ch2 and ch6, the §3 keeps, are untouched |
+| *Watched:* "like a" | 88 | 89 | |
+| *Watched:* "as" (every use) | 719 | 694 | Conversions were outnumbered by cuts |
+
+**Against Book 1's depth.** "the way" −46% (Book 1 −48%); "found that" −95% (−82%); duration pads
+−69% (−77%). The pads were cut less deeply here, on purpose: the 47 left are counted beats or speech.
+Examples are Quenna's decision in the fourth exchange (ch19), "For a moment nobody moved" before
+Lira's reach (ch11), Lira's silence on the wall (ch29), "Karis was quiet a long time" before the Tide
+verdict (ch30), and Gerda "very hungry for a long time" (ch27, meaning-bearing). They also include
+every pad inside a bout and the speech lines.
+
+**Keeps from §3, verified present.**
+- Brom "the way a smith considers a bar of iron" (ch1).
+- The knock (ch1, ch7).
+- The frost (ch6).
+- The gauge (ch7, ch17).
+- The chest-laugh (ch4).
+- The square hand (ch2, ch6).
+- Oona's whole face (ch12, the first; ch16/ch17).
+- The slate (ch5).
+- P6's triple reading with the tea going cold (ch2).
+- The petition reading (ch16).
+- Every simile inside a bout or training exchange.
+- Karis "went very still, the way she went still before an ignition" (ch30). This is the first
+  occurrence in this edition (see §6).
+
+## 2. Priority 2 — ch27–31
+
+| Chapter | Before | After | Change |
+|---|---|---|---|
+| ch27 | 4,618 | 4,567 | −51 |
+| ch28 | 4,386 | 4,078 | −308 |
+| ch29 | 4,398 | 4,282 | −116 |
+| ch30 | 4,323 | 4,336 | +13 (the new beat, below, net of cuts) |
+| ch31 | 4,246 | 3,907 | −339 |
+| **ch27–31** | **21,971** | **21,170** | **−801** |
+
+**ch28 (the reported week).**
+- The session 5–10 margin entry is compressed to one line per pair. Every variable and the "Consent
+  given" beat are kept.
+- The first-year's grievance over the room is folded into one sentence.
+- The barley line is trimmed to its fact.
+- The morning-after cost paragraph is cut. It duplicated, item for item, the Compression entry that
+  follows it. The breastbone ache stays, because ch29 and ch36 recall it.
+- The push-mechanics paragraph is tightened.
+- The read-back list is cut from fourteen items to eight, the ones that carry the variety.
+- "That was the strangest thing about the whole week…" is cut, along with the closing paragraph's
+  doubled clauses.
+
+Kept whole:
+- session nine and the pen;
+- the release-lag conversation, because the match depends on Karis's lag;
+- the whole push, on the eighth try with the elbow on the sixth;
+- Oona's "Seven weeks. And two days." and Hesk's hand;
+- the thickening, "Three in about twelve", and the grey fingertips;
+- "Fourteen boundaries";
+- "eight more sessions";
+- the missing-something close.
+
+**ch31 (the twenty-second session).**
+- The plan paragraph no longer re-lists the variables that ch28's read-back already listed.
+- "He knew her now" no longer re-states ch28's tells, the quarter-second, the half-breath and the
+  lengthening release. It keeps the new beat: he knows her better than Lira in one narrow way, he
+  knows where the next point will fall, the thickening comes twice, and he has learned her below
+  memory.
+- The ruled line keeps its figure and loses the pause.
+- The Hesk letter's ledger sentence is shortened, because it re-stated ch28's epiphany.
+- The recap of Quenna's and Karis's lines before the note is cut, since ch30 had just shown them.
+- The calendar paragraph loses "Show enough to pass. Bank everything that matters." and the
+  reader-under-a-lamp line, which ch32's opening repeats the next morning (see §6).
+- The closing log is trimmed to its counts.
+- Untouched: Gerda's bout (every exchange and landing beat), "We are missing a condition", Karis's
+  wish to be the source, "Noted", the barley clause, the wall scene, "Same rule. Heavier load.", the
+  note text and "*Part of me is still waiting.*"
+
+**Short of the target.** ch28 and ch31 lose 647 words between them, and ch27–31 lose 801, against
+the brief's "about 1,000". The rest of the overlap sits in beats a later chapter pays: the lag (ch36),
+the thickening (ch37), Oona's Kindling account (ch41), Karis's volunteering (ch32, P18), and the
+missing-condition close (ch29, ch36). I stopped rather than cut into those.
+
+**"Part of me is waiting" in ch30.** It is a new paragraph at the end of the chapter, as Cael climbs
+the stair after leaving Gerda and Lira on the floor the night before her bout:
+
+> Halfway up the stair it came to him that the part of him he had written down a week ago had been
+> listening too. *Part of me is waiting for it.* None of the nulls since had moved it. It had heard
+> Gerda say she would come out of the haze and take what was put on her where the chairs could see,
+> and it had leaned toward the words, because somewhere ahead there was still a floor that was his.
+> He did not like it any better than he had at the desk. He went on up.
+
+The paragraph quotes ch29's binder line exactly. It sets Cael's stake beside Gerda's on the night her
+stake is paid, and it bridges to ch31's closing "*Part of me is still waiting.*" ("Part of me is"
+now counts 2 → 3.)
+
+## 3. Changelist
+
+"Conv." means a "the way" or "as if" simile was recast as "as" or "like", with the image kept.
+
+- **ch1:** Cut the arm-weight gloss, the river and chipped-tooth similes, the overnight re-read of
+  the notice, the clerk's "as if", "found that", two "exactly" and three pads. Kept the smith, the
+  cupped hands (training) and the hot bar (cost).
+- **ch2:** Cut "found that" ×2, three pads, the clerk's "twice", Lira's "again", Brom's hold simile
+  and "exactly as he remembered". P6 and the square hand are untouched.
+- **ch3:** Cut "found that" ×3, three pads, the voice and gloves similes, and two "as if". The
+  orientation line is now "hold it against you", so Naveth's "I'd think less of you" stands alone.
+  "For a long time now" became "for months now" (see §6).
+- **ch4:** Cut two "as if", the second weather simile (a repeat of ch3), "found that", a pad and two
+  "exactly". The orthodoxy "exactly"s and Brom's "long moment" are kept as training-exchange text.
+- **ch5:** Oona is down to one tag per scene. Cut "found that" ×4, the notice and request re-reads,
+  Brom's "did not look up" and "went very still", two "exactly" and three "as if". The instructor's
+  "went very still" is kept, because it times "shattered".
+- **ch6:** Oona is down to one tag. Cut the weather and bruise similes, "found that" ×2, two pads and
+  the refusal's "read it twice". Kept the frost, the square hand, the hinge (mechanism) and Prynn's
+  "exactly"s.
+- **ch7:** Cut three "as if", the closed-eyes simile, three pads, three "exactly" and the crowd's
+  "without looking up". Demonstration exchanges, the knock, the gauge and every protected line are
+  untouched.
+- **ch8:** Cut six pads, three "exactly", two "found that", the second crowd simile and Edran's
+  filing gloss. Conv. ×3. Everything in Lira's standings bout is kept, along with Gerda's first "tall
+  and narrow" and Hobb's "exactly as hard".
+- **ch9:**
+  - Two "did not look up" are now "went on with his porridge" and "paid no attention".
+  - The provision count is now "more than once that week".
+  - Kept: the clerk's double reading (it pays Lira's rumour) and "speaks a fraction early into a
+    silence" (Karis's partner).
+- **ch10:** Karis's "I'd think less of you" is now "I'd have worried if you had". Cut four "exactly",
+  two "found that", two pads, Quenna's "did not look up" and the kept-hand line. The first "Noted"
+  and the off-hand plant are kept.
+- **ch11:**
+  - The clauses, "at the end of the month" (fix 1) and the anchors are untouched.
+  - Cut the re-reads of clause 4 and the declaration card, three "exactly" and a second Karis tag.
+  - Kept: Karis squaring the folder, "For a moment nobody moved", and the receipt "exactly"s.
+- **ch12:** Cut Quenna's weather simile, Lira's rain simile, Oona's seriousness and slate, three pads,
+  "found that" and "a hair". Conv. ×4. Kept Quenna's second reading of the terms and Cael's four
+  sheets read twice (both are the beat), and Oona's first whole-face tag.
+- **ch13:** Coss reads the approval "slowly, because the speed of it was information". Two pads were
+  recast. Cut Naveth's first "squared" and two "exactly". Coss's three readings are kept, because
+  they are his method.
+- **ch14:**
+  - Cut four glosses, the baker's "exactly", three "found that", a pad, Oona's imagined slate and the
+    saved-hand line.
+  - The transmittal is now read twice.
+  - Kept: the honey thief, the forty copies, Karis's one "did not look up", and the coordinator's
+    Wray fix.
+- **ch15:** The water opener is now "like floodwater coming up a stair". Cut three "as if", three
+  pads, "found that", one "exactly" and the second "larger half". Kept the first "larger piece", the
+  coal simile, the off-hand "listening" and the bout silences.
+- **ch16:**
+  - Quenna's "did not look up" is now "went on writing". Gerda's stays, because the next line needs it.
+  - Oona keeps one gesture.
+  - Cut Gerda's "tall and narrow".
+  - The petition reading and the tea callback are untouched.
+- **ch17:** Brom's nod is recast. Cut Gerda's "as if deciding", "tall and narrow", three pads, Oona's
+  slate ×2 and two of her tags. Kept her whole face, Wray's gauge, and Edran's "I'd think less of
+  you".
+- **ch18:** Six "the way" were converted or cut. Oona is down to one tag. Cut three "exactly",
+  "found that", the hand's width and three pads. The tout's book and "Tires in the sequence" are
+  untouched.
+- **ch19:** Bout exchanges are untouched. In the framing, cut Brom's funeral-simile echo, four "the
+  way", three "exactly", two pads and Oona's whole face. Quenna's "long moment" is kept.
+- **ch20:**
+  - "As if" is down from eight to three.
+  - Cut Hobb's third "handed something" figure, two slate tags, "great seriousness", four pads,
+    three "found that", the withdrawal read twice, and the chart gone through twice.
+  - The one-line "Naveth was quiet for a moment" paragraph is gone, and "He was quiet again" is now
+    "He let that sit".
+  - Untouched: "Thank me with your assessments", "Worry when they start to agree", Wray's record line
+    and fix 3.
+- **ch21:**
+  - Conv. ×2. Cut two other "the way", two "as if", four pads, "found that", Brom's "squared", "read
+    them twice" and two "exactly".
+  - Kept: Lira reading like an opponent (the first), her "did not look up" (the next line needs it),
+    "Told you she had a method", "Not asked" and the fetch column.
+- **ch22:** Cut "found that" ×3 and a gloss. Conv. ×2. Cut Oona's whole face and her echo of
+  Karis's flat hands. Brom's sentence and fix 4's bread sentence are untouched.
+- **ch23:** Hesk's letter is read once, and the bench line again. Cut four pads, the saved-hand line
+  and two "as if". "Same rule. Heavier load." and "the second one's the floor" are untouched.
+- **ch24:**
+  - Six "the way" were cut or converted.
+  - The Fenmark sheet's re-reads are thinned, and Cael now sees Lira read it "more than once". The
+    final search for the made-up sentence is kept, because it is the beat.
+  - Cut the larger half, "tall and narrow", "squared", three "found that", four "exactly" and three
+    pads.
+- **ch25:**
+  - "I'd think less of you" is now "I'd trust the answer less if you did".
+  - Cut "like a post", Quenna's "without looking up", "found that" ×3 and five pads.
+  - The triple reading of the safety clause is kept, because it is the beat.
+- **ch26:** Cut the chest-laugh, the plain-hand line, "two posts", the duplicate of ch23's "the way
+  she said the score", Quenna's "did not look up" and four "exactly". The notation heard three times
+  is now heard twice. Both bouts, Wray's seven strikes, P8, P9 and the records line are untouched.
+- **ch27:**
+  - Cut Gerda's "tall and narrow", "for some time" on Quenna's pen, the slip-hour simile (the
+    signature line keeps "every letter separate"), and "precisely" ×1.
+  - Cut "as if reading out a clause" (ch30 keeps the Prynn version) and the hands "as if".
+  - Cut "for a long time" ×2, "for a long moment" on Prynn, and "exactly how".
+  - Gerda now looks after Hobb "until the hall door had shut behind him", replacing the second
+    heavy-thing "as if".
+  - Kept: the swimmer (bout), the fish, the wall taking rain, the gatepost (the first), Brom's "great
+    seriousness" (the first), and "for exactly as long as it took Gerda to wonder".
+- **ch28:** Priority 2, above. Also: "a hair more" is now "a little more"; the high-wall simile and
+  the body-weight simile stacked on the felt were cut; Oona's slate and whole-face tags and her "long
+  time" were cut; the larger half was cut; and "found that the map" was recast.
+- **ch29:** Conv. ×3. Cut the kept-hand line, five pads, "found that" ×2, "exactly" ×2, the second
+  hand's width, Oona's whole face ×2, her slate and three of her "as if"s (she keeps the stair "as
+  if"), Hobb's "long moment" and Karis's "for a long time". The early-point simile is kept, because
+  it is Karis's partner.
+- **ch30:**
+  - The new beat, above.
+  - Cut Brom's "long moment", the forehead simile and Karis's second stool tag.
+  - The notebooks ritual is folded into fewer sentences.
+  - Cut the pen's "small definite click", "found that", and two "exactly".
+  - The mark simile is now "as a person signs…".
+  - The stone-in-a-boot simile is re-composed (see §5).
+  - "Karis was quiet a long time" is kept, because it times the verdict.
+- **ch31:**
+  - Priority 2, above.
+  - Cut the tout's "great dignity", Gerda's third clause simile, the laugh's "long moment", "found
+    that" ×2, two pads, the note "read twice, and then a third time", and the kept-hand line.
+  - The bout is untouched, including its "for a long moment" and "exactly where".
+
+## 4. Checks
+
+**Protected wording.** Every `protected-patterns.txt` pattern and every §9 / §9.2 line in ch1–31 was
+grepped against the snapshot, and every count is unchanged. The checks covered:
+- the clerical-error and nerve-to-sign-for lines;
+- "Today proves you're real" and "Thank me with your assessments";
+- P6/P7;
+- Wray's D1 record;
+- "Trust is a finding";
+- the seven clauses and "at the end of the month";
+- "real, unexplained, keep" (4);
+- P8 (2), P9 and the records line;
+- "Same rule. Heavier load." (2) and "the second one's the floor";
+- "Told you she had a method" and "Not asked" (9);
+- "You supplied that part yourself" (2) and "like a hand looks at bread" (3);
+- the log anchors;
+- "We are missing a condition" and "Twenty-two controlled sessions. Twenty-two nulls.";
+- "Fourteen boundaries", "Three in about twelve", "Seven weeks" and "eight more sessions";
+- "Waiting's a kind of looking", "Don't you ever make her the stakes", "Didn't go back" and the
+  barley clause;
+- Oona's "a little under six weeks".
+
+Also unchanged: the 24 coordinator-fix strings, every count, date and fact, and every first occurrence
+of a line later chapters quote.
+
+**Scene breaks.** Identical in all 31 chapters (124).
+
+**`ed.sh overlap`** (8-word gate):
+
+| Movement | Unprotected | Protected |
+|---|---|---|
+| M1 (ch1–8) | 0 | 4 → 4 |
+| M2 (ch9–16) | 0 | 1 → 1 |
+| M3 (ch17–23) | 0 | 1 → 1 |
+| M4 (ch24–31) | 0 | 4 → 3 |
+
+The M4 drop is the ch31 recurrence of "Show enough to pass. Bank everything that matters.", cut in
+Priority 2. BOOK_MAP §4 KEEPs it at D1, and its first occurrence (ch6) and its later uses (ch32, ch46)
+are untouched.
+
+**`ed.sh gates`, M1–M4.** reader_standard, metadata and modern are 0 in all 31 chapters.
+
+**Skeleton probe** (`sweep_probe.sh book-03-no-path-given 1 4`):
+
+| Movement | Before: skeleton / close | After: skeleton / close |
+|---|---|---|
+| M1 | 2% / 13% | 2% / 13% |
+| M2 | 1% / 15% | 1% / 15% |
+| M3 | 1% / 9% | 1% / 9% |
+| M4 | 1% / 10% | 1% / 8% |
+
+- No movement rose.
+- Raw sentence counts (closecheck): no chapter's skeleton or close count rose. Skeleton went from 65
+  to 60 and close from 728 to 675 across ch1–31.
+- One percentage reads up: ch2 close went from 17% to 18%. That is rounding, because its raw count is
+  33 → 33 on one fewer sentence.
+- Every sentence that turned newly close after a cut was re-composed by hand. Across the five ranges
+  that was about two dozen. In the lane author's chapters they were ch27's hands, and ch30's stone,
+  ledger, listening and fifteenth-session lines.
+
+## 5. Formula metrics (`formula_metrics.py`, ch1–31)
+
+| Measure | Before | After | Working range |
+|---|---|---|---|
+| Words | 143,827 | 141,370 | — |
+| Sentences | 10,843 | 10,793 | — |
+| Sentence mean | 13.26 | 13.09 | 13–15.5 |
+| Sentence median | 9 | 9 | — |
+| ≤5-word share | 32.5% | 32.8% | up to ~34% |
+| ≥40-word share | 3.5% | 3.4% | 2.5–4.5% |
+| Paragraph median | 24 | 23 | up to ~30 |
+| Words per scene | 927.9 | 912.1 | 850–1,050 |
+| Flesch Reading Ease | 86.0 | 86.2 | — |
+| Flesch–Kincaid grade | 4.56 | 4.49 | 3.5–6 |
+
+**By movement** (sentence mean · ≥40 share · words/scene):
+
+| Movement | Before | After |
+|---|---|---|
+| M1 | 13.37 · 4.5% · 969 | 13.23 · 4.4% · 956 |
+| M2 | 13.38 · 3.2% · 869 | 13.22 · 3.0% · 858 |
+| M3 | 13.16 · 3.4% · 971 | 12.99 · 3.3% · 957 |
+| M4 | 13.13 · 2.9% · 914 | 12.93 · 2.7% · 888 |
+
+**ch27–31** went from 12.64 · 2.7% · 877 to 12.43 · 2.6% · 844.
+
+The whole range stays inside every working range. The sentence mean drops about 0.17, which is
+expected: cutting a simile tail or a pad shortens its sentence, and nothing was joined to compensate.
+M3 (12.99) and M4 (12.93) now sit a hair under the 13.0 floor. ch27–31 were already the read's §7
+meter-only outliers. Removing about 800 words there without touching a scene break also puts their
+words-per-scene at 844, just under 850. I did not join sentences to chase either number, under "No
+scripted prose surgery" and §7's "do not force them".
+
+## 6. Flags for the coordinator
+
+1. **The ignition stillness.** §3 item 9 names ch25 as the first "went still, as she went still
+   before an ignition". In this edition the first is ch30 ("Karis went very still, the way she went
+   still before an ignition, all of her listening at once"), and ch37 repeats it word for word. ch25
+   has only the off-hand plant. I briefly cut the ch30 instance and then restored it, so ch30 is
+   kept as the first. Lane 2 should thin ch37 and ch51, not ch30.
+2. **"Show enough to pass. Bank everything that matters."** The ch31 recurrence is cut; ch6 (the D1
+   KEEP), ch32 and ch46 stand. M4's protected-run count is 3 as a result.
+3. **ch3, "for months now"** replaces a worker's "for most of a year now". It stands in for "for a
+   long time now", where Cael has been his own bell. I chose it to avoid stating a new elapsed time,
+   given BOOK_MAP §12.16's calendar tension.
+4. **"I'd think less of you"** now appears in ch3 (Naveth) and ch17 (Edran) only within ch1–31.
+   Karis's ch10 and ch25 lines are reworded in her own register ("I'd have worried if you had", "I'd
+   trust the answer less if you did"). The read's chain note "(ch3, ch10, ch25, ch32)" is now ch3,
+   ch17, ch32.
+5. **The bread.** In ch1–31 only ch15's "larger piece", the first, remains, as the anchor for ch39's
+   rule. ch17 and ch20 now say "half". ch28's "stole the whole of his bread and gave him back the
+   larger half" is cut; ch30's "stole his bread" remains.
+6. **Gerda's "tall and narrow and very straight"** is kept only at ch8 (the first full use). ch5's
+   "tall and narrow-shouldered" introduction is a different phrase and is untouched.
+7. **Re-read counts changed, with no later quote affected:**
+   - ch9's provision count is gone;
+   - ch14's transmittal is read twice;
+   - ch24 and ch26 no longer say Lira read the Fenmark sheet three times;
+   - ch23's Hesk letter is read once.
+   ch25's Karis terms are still "read aloud, twice, as she had read the first terms", which echoes ch11.
+8. **Pads at −69%** against Book 1's −77%. The remainder is listed in §1. If the coordinator wants
+   parity, ch8–14 and ch21–26 hold most of the candidates.
+9. **Priority 2 is short at −801 of ~1,000.** The reasons are in §2. If more is wanted, the next
+   candidates are ch31's Hesk letter (the Brom and Lira paragraphs) and ch28's Oona Kindling
+   account. Both are warm scenes I chose to keep.
+10. **Unchecked, not touched:** ch17 says Oona has been at Greyvane "for six weeks". The ch15–20
+    worker noted it in passing; it was not verified against the ledger.
+
+exec
+/bin/zsh -lc "sed -n '1,180p' editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-2-REPORT.md && sed -n '181,360p' editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-2-REPORT.md && sed -n '361,560p' editions/monroe-1.3/book-03-no-path-given/state/completion/LANE-2-REPORT.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Book 3 — completion pass, Lane 2 report (chapters 32–61)
+
+Author: Claude Opus 5.5 (O'Connor 1.3 seat, writing as Monroe Jackson), 2026-10-02 to 10-04.
+
+**Brief.** `PASS-BRIEF.md`, Lane 2.
+
+**Read first:**
+- `whole-arc-read.md` §§3, 4 and 9;
+- `whole-arc-notes.md`;
+- `LANE-1-REPORT.md`;
+- O'Connor `VOICE.md`;
+- `EDITION_BRIEF.md`;
+- `BOOK_MAP.md` §9;
+- `protected-patterns.txt`.
+
+**Files edited.** `manuscript/chapter-32.md` … `chapter-61.md` and this report. Nothing else was touched. No git command was run. The coordinator's line fixes (§8, fixes 6–13 and 19 in this range) were left as they stood.
+
+**Method.** Every change was made by reading the paragraph and hand-writing the replacement, applied as an exact single-match Edit. No sed, regex or script touched prose. Before work began, ch32–61 were snapshotted to the session scratchpad (`L2/before/`), and every before/after figure below compares that snapshot with the finished files. The helpers, all read-only, live in `L2/`:
+- `count2.sh`, Lane 1's grep counts;
+- `perch.sh`, per-chapter counts;
+- `closecheck.py`, Lane 1's skeleton method re-pointed at the M5–M8 source chapters.
+
+**Who did what.**
+- The lane author did ch47–53, including both Priority 2 cutaways and the ch51 stillness.
+- Same-seat workers (Opus 5.5, with a shared brief and keep-list in `L2/WORKER-BRIEF.md`) did Priority 1 in ch32–39, ch40–41, ch42–46 and ch54–61.
+- The first set of workers was stopped by the weekly usage limit partway through. At that point ch32–39, ch42–45 and ch54–58 were done, and ch40–41, ch46 and ch59–61 were untouched.
+- After the reset, the lane author re-read every word-diff from the stopped workers for broken or half-finished paragraphs. None was found. Two new workers then did ch40, ch41 and ch46, and ch59–61.
+- The lane author reviewed all the diffs, made the corrections in §6, and finished the depth sweep (§1, last paragraph).
+
+## 1. Texture counts (grep, ch32–61, case-insensitive)
+
+| Target | Before | After | Change |
+|---|---|---|---|
+| Words, ch32–61 (`wc`) | 148,910 | 146,173 | −2,737 |
+| **"the way" (every use)** | **171** | **107** | **−37%** |
+| — with a generic subject | 36 | 22 | −39% |
+| **"as if" / "as though"** | **136** | **87** | **−36%** |
+| — "as if it/she/he/they had/were" | 58 | 36 | |
+| "a long time" | 57 | 24 | |
+| "a long moment" | 26 | 8 | |
+| "for a moment" | 49 | 12 | |
+| "for a while" | 46 | 10 | |
+| "for some time" | 13 | 4 | |
+| **Duration pads, total** | **191** | **58** | **−70%** |
+| — "for a long time/moment/while" | 57 | 21 | −63% |
+| **"found that"** | **39** | **1** | **−97%** |
+| **"exactly"** | **123** | **69** | **−44%** |
+| Document re-readings (the grep) | 42 | 29 | −31% (see below) |
+| "a third time" | 15 | 7 | |
+| "three times" | 32 | 32 | all counts or speech |
+| "did not look up" / "without looking up" | 33 | 22 | |
+| finger's / hand's width, hair's breadth | 26 | 16 | the Ember-test measures, ch40–41, are untouched |
+| "a hair" | 18 | 12 | |
+| "squared" | 14 | 13 | |
+| "went (very) still" | 9 | 4 | |
+| Oona: "whole (serious) face" | 7 | 1 | ch41, the §3 keep |
+| Oona: "slate under her arm" | 10 | 5 | ch41 and ch59 kept |
+| Brom's "did him for a laugh" | 1 | 1 | ch49, the §3 keep |
+| the bread's "larger half" | 5 | 2 | ch39 (the rule) kept |
+| "with great dignity/seriousness" | 5 | 0 | |
+| "I'd think less of you" | 2 | 1 | ch32 kept (§6) |
+| "patient as a gatepost" / "planted like a gatepost" | 2 | 0 | ch27 is the first |
+| "the square/plain hand he kept" | 5 | 2 | ch36 and ch53, the §3 keeps |
+| *Watched:* "like a" | 65 | 64 | |
+| *Watched:* "as" | 850 | 801 | |
+
+**Against Lane 1's depth (ch1–31).**
+
+| Target | Lane 1 | Lane 2 |
+|---|---|---|
+| Duration pads | −69% | −70% |
+| "found that" | −95% | −97% |
+| "exactly" | −44% | −44% |
+| "as if" | −38% | −36% |
+| "the way" | −46% | −37% |
+| Re-reads | about half | −31% by the grep |
+
+Two targets are shallower than Lane 1's.
+
+**"the way" (−37%).** The before count is "every use". In this half a large share of those uses cannot be cut:
+- literal or route uses, about 18 ("all the way", "on the way", "out of the way", "by the way it had come");
+- speech, about 15 ("the way it's meant to be used", "the way it was built to be used", "the way we'd made it", "the way you feel a step in the dark");
+- similes inside the match (ch36) and the sittings (ch54–58);
+- the P5 narration (ch61);
+- the §3 first-figure keeps: the instructor's farmer (ch33), the reflection in a dark window (ch41), Brom's yard-search (ch52), Havel's carter and wheel (ch52), and Coss's measured-twice head-shake (ch50).
+
+Of the explanatory, cuttable glosses, roughly two-thirds were cut or converted. The last pass converted five to "as" ("just as" where "as" could be heard as "while"). Those were glosses that earned their comparison (ch47, ch49, ch51, ch52, ch57); in the same pass two were cut outright (ch38, ch45), one cut by recasting the sentence (ch44), and two converted to "like" (ch37, ch55).
+
+**Re-reads (−31% by the grep).** The grep over-counts in this half:
+- negations ("did not read it again", "did not stop to read it twice");
+- speech ("I read it three times looking for anything interesting");
+- procedure that is the beat: Prynn's "Again" at the door (ch52), and Yorlan's provision read twice, which is hearing canon (ch54).
+
+Narrative re-readings that were not the beat were cut to one reading, or to two where the second reading turns the scene:
+- Prynn's notice: three readings → two (ch48);
+- the inventory notice: three → one (ch43);
+- Quenna's conditions: three → one (ch35);
+- the find, "a third time … and then a fourth" → one more reading (ch51);
+- Karis's finding: three → two (ch53);
+- Karis's consent: four → one (ch32);
+- Cael's page (ch38).
+
+These are kept as the beat:
+- the notice's "four … a fifth" (ch36);
+- the deposition and Ilsev's query (ch49);
+- Ilsev's third reading in the Havel cutaway (ch52, part of the cutaway plan);
+- Brom's page "twice; a third reading was beyond him" (ch53);
+- Hesk's letter (ch61).
+
+## 2. Priority 2 — the two M7 cutaways
+
+| Cutaway | Before | After | Change |
+|---|---|---|---|
+| ch47, the Havel coach and gate (the 2nd and 3rd scenes) | 1,304 | 1,100 | −204 |
+| ch50, the Karis card cutaway (the 3rd and 4th scenes) | 2,817 | 2,555 | −262 |
+| ch47 whole chapter | 4,395 | 4,132 | −263 |
+| ch50 whole chapter | 5,007 | 4,698 | −309 |
+
+No scene breaks were added or removed (all 30 chapters keep their scene-break counts).
+
+**ch47, Havel.**
+- The case, Yorlan, Ilsev and the asleep records officer are compressed into four paragraphs.
+- The case's contents list is kept, and so is the sand-glass, which the hearing uses.
+- "Every recorder carried one" and "heavier than it looked" are cut.
+- Yorlan's three hearings and his never raising his voice are kept as one sentence.
+- "It was an academy, then, though not much of one" is folded into the new-building joke.
+- At the gate:
+  - the inn-papers sentence is shortened;
+  - the provost's "as if neither needed much introduction" is cut;
+  - "He walked on a few paces" is cut;
+  - the step and the wall view are recast tighter.
+- Kept verbatim: both notebook entries (*File and subject do not match. Marker origin not found. Noted.* and *Asked. Told to stop. Stopped.*); "a boy of fifteen"; "Assessor Havel," … "Recording officer now, I see. You've a new grade."; "It suits you. You were always careful."; Yorlan's two questions with "The record is public."; and "Noted".
+- Also kept: the met-once corridor line, and "one short reply in that hand by heart".
+- The Cael-side wall scene is a different viewpoint on the same moment and is untouched apart from Priority 1.
+
+**ch50, Karis.**
+- The card system's five places are now one sentence; the dot, ring and struck-ring marks are kept whole.
+- The waystation runs paragraph is compressed, keeping:
+  - "how many sacks of oats";
+  - the nineteen-year weather log;
+  - "And, sometimes, what they were.".
+- The clerk-learning paragraph is merged with the naming. All four epithets are kept whole (Long Tails, the Blotter, Small Hand, the crosshatched sevens).
+- The clerks' arrival is tightened.
+- "She stood a moment longer…found that she minded" is recast.
+- The overlap explanation is compressed:
+  - the weather log's last line, the double date and the accession register are kept;
+  - the three-step count is now one sentence, and Prynn's silent check is kept.
+- The "date, not the reason" paragraph loses its student simile and is folded to one denial sentence. It still says the date means nothing about anyone who passed through, which is the knowledge boundary.
+- The Ternhall paragraph is compressed. The partner stays unnamed and "her hand on a wall, wanting the floor" is kept.
+- Prynn's count/marks/sign is kept whole, and so is "It tasted like Brom.".
+- The third clerk's sentences-not-boxes, the margin correction, "four volumes … a dot in each corner", and the last paragraph opening the next volume are all kept.
+
+**The aim.** It was that the deposition (ch49) and the find (ch51) not be separated by two still chapters. Together the two cutaways and ch48 lose about 540 words.
+
+## 3. "Went still, as she went still before an ignition"
+
+- **ch30** (the first, Lane 1's keep): untouched.
+- **ch37:** the word-for-word repeat "Karis went still, as she went still before an ignition, all of her listening at once." is now "Karis laid her grey fingertips flat on her knees and kept them there." That is Karis's own register: the grey fingertips are her cost (ch28), shown on the morning she learns the fragment came from her.
+- **ch51:** this edition has no word-for-word repeat here. The stillness at the find was a long gloss, "All of her had gone quiet at once … He had seen her go still like that once before". It is recast without "still": "the eyes and lips and breath had all stopped together" … "He had seen her stop like that once before, in the formal yard". The match callback is kept.
+- **ch52:** at box seven, "Karis go still: not the stillness of the night before, but a smaller one" is now "Karis hold a breath and let it go again".
+
+## 4. Changelist
+
+"Conv." means a "the way" or "as if" simile was recast as "as" or "like", with the image kept.
+
+- **ch32:**
+  - Cut:
+    - Hobb's gatepost;
+    - "with great dignity";
+    - the plain-hand line;
+    - Karis's consent re-reads;
+    - Lira's triple reading (now one slow reading);
+    - six pads;
+    - "found that";
+    - five "exactly".
+  - Kept: P18 exact, "Show enough to pass. Bank everything that matters.", and Cael's "I'd think less of you".
+- **ch33:**
+  - Cut:
+    - five pads;
+    - three "exactly";
+    - Brom's meal "as if";
+    - the lattice re-statement.
+  - Kept:
+    - the instructor's farmer and stray dog (the §3 keep);
+    - the first "trap … foot that springs it";
+    - "Never join what you can still move" and "Stop her before she composes".
+- **ch34:**
+  - Cut:
+    - three pads;
+    - two "exactly";
+    - "found that" ×2;
+    - Lira's "went very still";
+    - "a hair";
+    - the drawn circle's hand's width.
+  - The bag-drill exchanges are untouched.
+- **ch35:**
+  - Quenna's conditions are now read once.
+  - Cut:
+    - "found that" ×3;
+    - "with great seriousness";
+    - Oona's "great care";
+    - two "did not look up";
+    - pads.
+  - Kept: every fact (rota, "walk out … on your own feet", the honey thief, the barley clause, "Fight me … don't catalogue").
+- **ch36:**
+  - The match is untouched as one unbroken scene: every exchange, landing beat and simile, P1 with its "four … a fifth" reading, and the log. Only the framing was touched.
+  - Framing cuts:
+    - the banked-coals and water-round-a-rock tails at breakfast;
+    - two pads;
+    - "found that";
+    - "beats like a second heart" and "not a hair further", both after the halt.
+  - The "hand he kept" (a §3 keep) is untouched.
+- **ch37:**
+  - The ignition-stillness repeat is rewritten (§3).
+  - Cut:
+    - six pads;
+    - three "exactly";
+    - the stone-he-never-agreed simile (which echoed the source);
+    - the letter-in-your-coat and light-at-a-new-angle similes.
+  - Conv. ×1 (the craftsman's tools).
+  - Kept: P2 and P3 exact, the coordinator's "I won't ask. I have my ideas.", Naveth's "age me", and the warm fragment.
+- **ch38:**
+  - Cut:
+    - "found that" ×4;
+    - five pads;
+    - the Ternhall-partner "the way a person speaks a fraction early" (the partner is still present and still unnamed);
+    - the note re-read from three to two;
+    - one result-checking gloss.
+  - Kept: the paragraph, the first notebook and the supplementary entry exact.
+- **ch39:**
+  - Cut:
+    - five pads;
+    - "with great dignity" (now "solemnly");
+    - the plain-hand line;
+    - Brom's gatepost;
+    - Gerda's clause simile;
+    - Prynn's "square to the edge, exactly".
+  - Kept: the bread rule and its "larger half", the §9.2 log line and completion, Brom's lines, and the three clean days.
+- **ch40:**
+  - Cut:
+    - all seven pads;
+    - "found that" ×4;
+    - five "as if" glosses (the pump trough, the chalk line, the mark scored in wood, the list, and one more);
+    - the hearth "the way";
+    - Brom's "without looking up";
+    - "with great dignity";
+    - the plain-hand line.
+  - Kept: every hair, finger's-width and hand's-width measure, 104/109, "a spark", "You're pale. Sleep tonight." and the mother's shoulders.
+- **ch41:**
+  - Cut:
+    - five pads;
+    - five "exactly";
+    - "found that" ×2;
+    - the repeated "as if told where to put them";
+    - "the way weather comes".
+  - Kept:
+    - "A year and some", Anchor and Copper, "It's ordinary", and Oona's whole face and slate (the §3 keeps);
+    - the Coss cutaway whole: the approval timing, the credential, and the daughter letter "going up into the hills".
+- **ch42:**
+  - Cut:
+    - seven pads;
+    - two "exactly";
+    - Karis's pressing-hands "as if";
+    - the aide's "as if";
+    - the scale simile.
+  - Re-composed three sentences that had turned source-close (§5).
+  - Kept: "'Warden' was never a town title", Coss's "You were fourteen … This is also the job." and the coordinator's Quenna fix.
+- **ch43:**
+  - The notice is read once, and its last line again.
+  - Cut:
+    - Oona's whole face and two slate tags;
+    - Naveth's squaring gloss and "as though it might lift";
+    - four pads;
+    - two "exactly";
+    - the opponent-declaration "as if".
+  - Kept: the notice text, "This is your enrollment, not mine to trade.", Naveth's lever, and "He has it over *me*."
+- **ch44:**
+  - Cut:
+    - four pads;
+    - two "as if";
+    - Karis's square-to-the-page;
+    - Prynn's and the narrator's "without looking up" ×1;
+    - the noise-has-stopped gloss.
+  - Kept: "a hope with a citation", the log "New opponent …", the READERS card, and "One thing, not two."
+- **ch45:**
+  - Cut:
+    - Prynn's "went very still" gloss;
+    - three pads;
+    - "the larger half";
+    - the stance simile;
+    - Ilsev's citation gloss;
+    - one re-read.
+  - Kept: P15, Prynn's sixty-years line exact, the coordinator's two fixes, the gauntlet exchanges, and Brom's GAUNTLET column.
+- **ch46:**
+  - Cut:
+    - seven pads;
+    - four "exactly";
+    - Gerda's clause simile;
+    - the rotating seat's nod simile;
+    - Oona's whole serious face and two slate tags;
+    - Quenna's "did not look up";
+    - the hand-he-kept line.
+  - "Read it a dozen times" is now "could have said it with his eyes shut".
+  - Kept: P17 ×2, "Spend it on purpose", "*I'm not going to argue my enrollment is valid.*", Hobb "three" / "Three times.", the files 9/6/11/4, and the sitting.
+- **ch47:**
+  - Priority 2, above.
+  - Cut:
+    - six pads;
+    - "found that" ×2;
+    - four "as if";
+    - Quenna's "did not look up" (now "told it the rest").
+  - Conv. ×2.
+  - Kept: the outline read "from the top … again from the bottom" (the beat), Quenna's three rules verbatim, the drill, and Karis's "Four."
+- **ch48:**
+  - Prynn's notice: three readings → two.
+  - Cut:
+    - "as a man states the weather";
+    - seven pads;
+    - Brom's and Lira's "the way" tails;
+    - two "as if".
+  - Prynn's second "did not look up" is now "went on writing".
+  - Kept:
+    - the contest exchange by exchange;
+    - "Every amendment is a confession";
+    - the protected "Their code forgot …" / "takes my shelves";
+    - the signed line per box;
+    - "on a list can be counted";
+    - the stub line exact;
+    - the sickroom simile;
+    - Karis's knife "as if she had done it before".
+- **ch49:**
+  - The deposition is untouched: every question and answer, "Three", "a classification question", "that's what a record is", "Four weeks", "No", the nine dashes, "the door the provision had", and Coss's "for some time" (speech).
+  - Cut:
+    - "found that" ×3;
+    - six pads;
+    - four "as if";
+    - two Karis "the way" glosses;
+    - "He did not hear anything, exactly".
+  - Conv. ×3.
+  - Kept: Brom's chest-laugh (the §3 keep), Ilsev's query (P16 shape) exact, and Havel's "read it twice" (the beat).
+- **ch50:**
+  - Priority 2, above.
+  - Cut:
+    - Coss's "as if reading a line off a sheet";
+    - four pads;
+    - "found himself";
+    - Karis's squaring "the way";
+    - "the way Lira counted the rumor market".
+  - Coss's "I'd think less of you" is now "I'd have thought the worse of you" (§6).
+  - Kept: the lending book, "eleven letters", "Five days.", "six places", the refused categories, "about four hundred years" and the hand on the wall.
+- **ch51:**
+  - The stillness is recast (§3).
+  - The register re-read "a third time … and then a fourth" is now "He went through it once more before any of it would go in."
+  - Oona: cut the slate ×2, her whole face (now "watched him all the way to the door"), "with great dignity", and "for some time".
+  - Cut:
+    - Edran's rail gloss;
+    - the parting-crowd gloss;
+    - the hair's breadth;
+    - four pads;
+    - "found that" ×3.
+  - Kept:
+    - P12 and the annotation exact;
+    - Cael's older copy exact;
+    - "*Shattered* is an editorial choice. The question is whose.";
+    - the three copies read aloud;
+    - "Custom isn't code";
+    - the wind-on-the-page image;
+    - "Neither of them said anything for a long time" (the find's landing beat).
+- **ch52:**
+  - Cut:
+    - Brom's "whole face" (an Oona tag on Brom);
+    - the hair-and-paper-knife gloss;
+    - three pads;
+    - four "exactly";
+    - two "as if";
+    - Lira's larger half;
+    - the shoulder-after-a-bout and stance glosses.
+  - The box-seven stillness is recast (§3). Conv. ×2.
+  - Kept:
+    - Yorlan's formula and "The panel notes it";
+    - the fourteen openings;
+    - the six places;
+    - box seven with nine volumes;
+    - "Fifty-three boxes … Four hundred and some";
+    - "can't be unread by a cart";
+    - the marbled line;
+    - "Put them back yourself.";
+    - the return and referral texts exact;
+    - Ilsev's third reading;
+    - "Not only me this time.";
+    - "a hole in the world" and its answer;
+    - "It amends";
+    - "Find out. Tonight.";
+    - Brom-as-Coss's "silent for a long moment, in the way Coss was silent" (the rehearsal).
+- **ch53:**
+  - Cut:
+    - eight pads;
+    - "found that";
+    - Karis's second squaring;
+    - Brom's weight-lift gloss;
+    - one "exactly".
+  - Karis's finding: re-read three → two. Brom's page: "read it twice … a third reading was beyond him".
+  - Kept:
+    - "Custom" / "Is not code";
+    - forty-one;
+    - Brom's page with its protected line;
+    - "I won that bout";
+    - "Findings to date …" exact;
+    - the coordinator's records-line fix;
+    - "This is real. Start from that.";
+    - the log line exact;
+    - the square hand (a §3 keep).
+- **ch54–58** (the sittings):
+  - Every exchange and landing beat is untouched, and Yorlan's formula is verbatim twice. The deposition read-back and its nine-count silence, P13, P15, P20, the pivot lines, the stipulation line, "Cite the schedule entry." / "There isn't one …" and the gavel are all intact.
+  - Cut in framing, corridors, the recess and the Lira cutaway's narration:
+    - about 15 pads;
+    - "found that" ×8;
+    - six "exactly";
+    - Coss's "as if he were reading a line off a sheet" (now "evenly, with no paper in his hand");
+    - two larger halves.
+  - Kept: Lira's heel of bread "off a market stall" (ch54, the §3 keep), and the pauses that time the room.
+- **ch59–61:**
+  - Cut:
+    - nine of ch59's thirteen pads;
+    - "the way a good door shuts";
+    - Oona's whole face;
+    - the clerk's weather;
+    - Wray's weather-board gauge variant;
+    - "found that" ×3;
+    - Lira's long moment;
+    - the notice read twice.
+  - Kept:
+    - P14 verbatim and the gavel once;
+    - Coss's five minutes;
+    - Brom's page returned;
+    - "correct form";
+    - Oona's slate (the §3 keep);
+    - the report and the struck daughter line;
+    - the faceless desk;
+    - Naveth's clerical-error lines;
+    - clause one;
+    - 93/95/94 and the letting-go;
+    - P4, P5 (including its narration), P10, P11 and P19 (read three times, the beat);
+    - the Vell letter and the box-seven count;
+    - the last line.
+
+## 5. Checks
+
+**`ed.sh overlap`.**
+
+| Movement | Unprotected runs | Protected runs |
+|---|---|---|
+| M5 | 0 | 7 |
+| M6 | 0 | 5 |
+| M7 | 0 | 12 |
+| M8 | 0 | 19 |
+
+All are unchanged from before.
+
+**`ed.sh gates`, M5–M8.** reader_standard, metadata and modern are 0 in all 30 chapters.
+
+**Skeleton probe** (`sweep_probe.sh book-03-no-path-given 5 8`):
+
+| Movement | Before: skeleton / close | After: skeleton / close |
+|---|---|---|
+| M5 | 1% / 13% | 1% / 13% |
+| M6 | 2% / 17% | 2% / 16% |
+| M7 | 2% / 12% | 2% / 11% |
+| M8 | 2% / 19% | 2% / 19% |
+
+- No movement rose, and no chapter's percentage rose.
+- Raw counts by `closecheck.py`: no chapter's skeleton or close count rose. Across ch32–61 skeleton went from 124 to 118 and close from 929 to 875.
+- The first closecheck after the stopped workers showed raw rises in six chapters: ch33, ch36, ch37 and ch43 (close +1/+1/+2/+1), and ch54 and ch55 (skeleton +1, plus ch54 close +1). The lane author re-composed each newly close sentence by hand and brought all six back to or below their before counts. About 40 sentences were re-composed across the lane in total.
+- Eight sentences are still listed as NEW, all in chapters whose raw count fell. Seven score 0.35–0.38 against unrelated short source lines. The eighth is ch60 Brom's "… 'is under his desk.'" (0.52); the original tag scored 0.57 against the same source line, and the protected words dominate the score.
+
+**Protected text.** 54 protected strings were grepped before and after: P1–P20 fragments, the §9.2 anchors, Yorlan's opening, "Fifty-three boxes", "forty-one", "nine dashes", "It amends", "Spend it on purpose", "a hope with a citation", "He fights like you" and the records line. All counts are equal except "I'd think less of you" (2 → 1, deliberate, §6). Every `protected-patterns.txt` pattern in range is unchanged, and scene breaks are unchanged in all 30 chapters.
+
+## 6. Formula metrics (`formula_metrics.py`, ch32–61)
+
+| Measure | Before | After | Working range |
+|---|---|---|---|
+| Words | 148,580 | 145,843 | — |
+| Sentences | 11,231 | 11,188 | — |
+| Sentence mean | 13.23 | 13.03 | 13–15.5 |
+| Sentence median | 9 | 9 | — |
+| ≤5-word share | 30.8% | 31.1% | up to ~34% |
+| ≥40-word share | 3.7% | 3.5% | 2.5–4.5% |
+| Paragraph median | 25 | 25 | up to ~30 |
+| Words per scene | 917.2 | 900.3 | 850–1,050 |
+| Flesch Reading Ease | 86.9 | 87.0 | — |
+| Flesch–Kincaid grade | 4.43 | 4.36 | 3.5–6 |
+
+**By movement** (sentence mean · ≥40 share · words/scene):
+
+| Movement | Before | After |
+|---|---|---|
+| M5 | 13.00 · 4.0% · 1,028 | 12.83 · 3.8% · 1,013 |
+| M6 | 13.01 · 4.2% · 907 | 12.78 · 3.9% · 887 |
+| M7 | 13.08 · 3.6% · 862 | 12.83 · 3.5% · 838 |
+| M8 | 13.89 · 2.9% · 878 | 13.76 · 2.8% · 870 |
+
+**The lane as a whole** stays inside every working range.
+
+**Sentence mean.** As in Lane 1, it drops about 0.2. Cutting a simile tail or a pad shortens its sentence, and nothing was joined to compensate, under "No scripted prose surgery". M5–M7 now sit at 12.8, just under the 13.0 floor, as Lane 1's M3 and M4 do.
+
+**M7's words per scene (838).** This is just under 850, because Priority 2 took about 570 words out of ch47 and ch50 without touching a scene break, as the brief requires. I did not join sentences or move breaks to chase either number.
+
+## 7. Flags for the coordinator
+
+1. **The ch47 Havel tightening was done before the usage cutoff.** The cutoff note listed it as not done, but it was on disk at −204 in the cutaway. It was not redone; it is reported in §2.
+2. **"I'd think less of you."** ch32 (Cael) stands as the last link of the chain ch3, ch17, ch32. ch50's Coss repeat, "If you'd stood behind my door with a glass to the wood for three weeks, I'd think less of you", is now "I'd have thought the worse of you". It is the same beat in Coss's register, and no later chapter quotes it.
+3. **ch51 had no word-for-word ignition repeat in this edition** (see §3). The stillness gloss there and at box seven (ch52) was thinned instead.
+4. **ch57, a worker's slip, reverted.** A worker had changed "as Karis had made him do eleven times" to "as he had practised it", which dropped a count. The lane author restored the original wording. The ch52 rehearsal sets the eleven ("she made him say the concession … eleven times"), and ch57's "flat, the way Karis had made him say it eleven times" pays it.
+5. **ch40's "as if it were a mark scored in wood" is cut.** ch46's "like a mark scored in wood" (the D6 rings) is therefore now the first use. It was never a deliberate callback; restore ch40's if wanted.
+6. **ch46's "Lira went very still" is now "Lira went quiet".** "He had known she would" still follows it correctly.
+7. **"the way" at −37% and the re-read grep at −31%** are shallower than Lane 1's figures. The reasons are in §1. If parity is wanted, the remaining explanatory candidates are few and mostly first figures. I would not cut further without the owner's eye.
+8. **Rhythm:** M5–M7 sentence means are now 12.8, and M7 words per scene is 838 (§6). These are meter-only and were not forced.
+
