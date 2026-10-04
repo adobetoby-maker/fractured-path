@@ -61,7 +61,7 @@ def main():
         ch["title"] = title
         ch["renders"] = [render] + [r for r in ch["renders"] if r["render"] != "breeze-directed"]
         b["renderedChapters"] = sum(1 for c in b["chapters"] if c["renders"])
-        m["generated"] = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
+        m["generated"] = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         manp.write_text(json.dumps(m, indent=2, ensure_ascii=False) + "\n")
         git("add", rel, "audio/manifest.json")
         git("commit", "-q", "-m", f"Add {etitle} chapter {n} Breeze TTS 2 listening audition (directed)\n\n"
