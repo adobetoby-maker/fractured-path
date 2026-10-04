@@ -1,14 +1,14 @@
 # Chapter 32 — Both Versions
 
-The fourth sitting was exactly as dull as he had meant it to be, and he was proud of every minute of it.
+The fourth sitting was as dull as he had meant it to be, and he was proud of every minute of it.
 
 He came into the training hall at the first bell rested, as Quenna had told him to, after two nights of going to bed when Brom did and one morning of doing nothing at all with his chest. The six sections had been swept back to their pale ghosts again and a single ring laid fresh at the centre, with the three chairs at the far end on their chalk ticks. Quenna sat in the middle with her slate and Wray on her left in the brown coat. The rotating seat this month was the white-haired, spare man who had sat the first sitting, the one who waited like a heron in a shallow, and he nodded to Cael as if they had parted yesterday.
 
-Hobb was in the ring, standing at his mark with his feet a shoulder-width apart and his hands loose, as patient as a gatepost. When Cael came to the south mark Hobb looked at him once, briefly, with something in his broad face that had not been there at the first sitting. It was not friendliness, exactly; it was the look one workman gives another on a job they have both done before.
+Hobb was in the ring, standing at his mark with his feet a shoulder-width apart and his hands loose. When Cael came to the south mark Hobb looked at him once, briefly, with something in his broad face that had not been there at the first sitting. It was not friendliness; it was the look one workman gives another on a job they have both done before.
 
 "For the record," said Quenna, and the room went flat and slow.
 
-He showed the framework, four passes, at panel speed. Wray broke the count on the third pass, as she had broken it at the first sitting, and he read Hobb's hips through the broken rhythm as easily as through the steady one. He showed the surface read, four calls at two paces with the last made eyes shut, and Hobb's weight went where Cael said it would go every time. On the fourth call Hobb tried to change his mind halfway through the lean, and Cael named the change before it was finished, and Hobb huffed through his nose exactly as he had huffed at the first sitting, like a man hearing someone finish his sentence.
+He showed the framework, four passes, at panel speed. Wray broke the count on the third pass, as she had broken it at the first sitting, and he read Hobb's hips through the broken rhythm as easily as through the steady one. He showed the surface read, four calls at two paces with the last made eyes shut, and Hobb's weight went where Cael said it would go every time. On the fourth call Hobb tried to change his mind halfway through the lean, and Cael named the change before it was finished, and Hobb huffed through his nose as he had huffed at the first sitting, like a man hearing someone finish his sentence.
 
 Nothing woke in his chest, or came near enough to wake it. He had built the morning so that nothing would.
 
@@ -48,11 +48,11 @@ Karis was already on the landing when he came up, standing by the door with her 
 
 Quenna let them in, gave them each a chair and took the one behind the desk. She did not offer tea. She laid her hands flat on a single sheet of paper written in her own hand, and looked from one of them to the other.
 
-"Next month's sitting," she said. "The fifth. It falls in four weeks. I'd like it to be something with structure." She let that sit for exactly one breath. "A supervised match. Formal conditions, a full panel, logged under the demonstration provision like every other sitting. Against Karis."
+"Next month's sitting," she said. "The fifth. It falls in four weeks. I'd like it to be something with structure." She let that sit for one breath. "A supervised match. Formal conditions, a full panel, logged under the demonstration provision like every other sitting. Against Karis."
 
 The room was very quiet. Down in the yard, through the window, somebody was sweeping.
 
-Cael found that he had known it since the note under his door; he had only not let himself know it, which was a different thing. He sat with his hands on his knees and made himself say the first sentence a form would one day hold, because he had learned it was worth saying the official version aloud before anybody said the other one.
+Cael had known it since the note under his door; he had only not let himself know it, which was a different thing. He sat with his hands on his knees and made himself say the first sentence a form would one day hold, because he had learned it was worth saying the official version aloud before anybody said the other one.
 
 "The panel would like a look at the observer against an Iron-tier opponent at full intensity."
 
@@ -66,19 +66,19 @@ She did not say what the other version was, and she did not look at Karis when s
 
 "I know you're not. I'm required to tell you that you may." Quenna slid the sheet across the desk to her. "The standard waiver is on that page. It says that you understand a supervised match is fought at full intensity and that you accept the ordinary risks of one. It satisfies the requirement as it stands. Sign it and we're done."
 
-Karis read it twice, as she read everything, and set it down square to the edge of the desk.
+Karis read it twice, as she read everything.
 
 "May I have a clean sheet?"
 
-Quenna looked at her for a moment. Then she opened a drawer, took one out, laid it on the desk with a pen beside it, and sat back.
+Quenna looked at her. Then she opened a drawer, took one out, laid it on the desk with a pen beside it, and sat back.
 
-Karis did not use Quenna's pen; she took one of her own two from her coat. She wrote for some time, slowly, in her small upright hand with every letter closed at the top, stopping twice to look at the window before going on. When she reached what Cael guessed was the second-to-last line she drew a line under it, once, steadily, from one end to the other. Then she wrote one more sentence, signed and dated it, and turned the sheet round so that it faced him rather than Quenna.
+Karis did not use Quenna's pen; she took one of her own two from her coat. She wrote slowly, in her small upright hand with every letter closed at the top, stopping twice to look at the window before going on. When she reached what Cael guessed was the second-to-last line she drew a line under it, once, steadily, from one end to the other. Then she wrote one more sentence, signed and dated it, and turned the sheet round so that it faced him rather than Quenna.
 
 He read it.
 
 *I, Karis Dellenmoor, Ember Path, Iron Rank Three, a student of full standing, consent to a supervised match against the candidate enrolled under the demonstration provision, on whatever conditions the presiding assessor sets. I have read the standard waiver and accept everything in it. I ask that nothing in the conditions be softened on my account. I will fight at full intensity because a match fought at less would not be worth recording. I want to be the first documented source. If it works, the documentation matters. If it doesn't, that matters more. I have read this twice before signing.*
 
-The line drawn under the middle of it ran beneath those three short sentences and nothing else. He read them a second time, and then the whole page again from the top.
+The line drawn under the middle of it ran beneath those three short sentences and nothing else.
 
 Twenty-two times in the quiet room she had stood at the far end of the whitewash and said *I consent to this session* aloud, and written the hour, and he had stood and reached, and nothing had come of any of it. This was not that. This was ink, on a sheet that would go into an academy's file with an assessor's initials beside it, and it was consent to a thing with something real on it, which the quiet room had never once held. She did not know the second part was the part that might matter. He did, and he sat in Quenna's tidy room with the page in front of him and felt the knowledge lie in his chest like a swallowed stone.
 
@@ -118,7 +118,7 @@ He had told Lira why: if Karis knew, she would carry a hypothesis she could neve
 
 "It's the sixth clause, and I'm glad of it, and it still isn't even." She held his eyes. "I'm going to train in the open for the next four weeks. You can watch any of it. All of it, if you like. I'd rather lose to someone who'd seen everything I had than beat someone who hadn't."
 
-He looked at her for a long moment in the cold.
+He looked at her in the cold.
 
 "That's not how anybody prepares for a match."
 
@@ -132,7 +132,7 @@ They had the end of the scarred table under the bricked-up hay door, the corner 
 
 He laid the fair copy on the table between the bowls. Quenna had given it to him on the stair as he left, folded once, without being asked. "It's part of your record now," she had said. "You read every other part of it first. I can't see why this one should be any different."
 
-Lira picked it up and read it twice, the second time slowly, with her thumb moving down the margin, which was how she read anything she had not yet decided to believe. At the underlined line her thumb stopped, and she read that line a third time on its own. Then she set the sheet down very carefully beside her bowl and kept her hand on it.
+Lira picked it up and read it slowly, with her thumb moving down the margin, which was how she read anything she had not yet decided to believe. At the underlined line her thumb stopped. Then she set the sheet down very carefully beside her bowl and kept her hand on it.
 
 "Fenmark never once wrote an expulsion as good as this waiver," she said.
 
@@ -140,7 +140,7 @@ Brom looked up.
 
 "Four paragraphs to end me, and not one of them said whether I'd been right." Lira tapped the sheet. "Five sentences to walk into a ring with you, and she said exactly why in every one of them." She was trying very hard to keep her face dry, and it was not entirely working. "I can't decide if I'm impressed or scared."
 
-"Both," said Brom, who had gone back to his barley and did not look up from it. "Both is usually correct, with her."
+"Both," said Brom, who had gone back to his barley. "Both is usually correct, with her."
 
 Lira laughed, short and unwilling, and pushed the sheet back across to Cael.
 
@@ -186,7 +186,7 @@ He sat with that, and let the cold come up through the stone into him.
 
 "So what do I walk in meaning to do?"
 
-"Fight her." Lira said it at once, as if she had been holding the words ready since the stable. "Go in to fight her. Not to find out. She's the best you've ever stood across from, and she's going to try to beat you in front of three chairs and half the school, and you're going to try to stop her. That's a match. That's the only thing it's allowed to be." She unfolded one arm and pointed at him. "If anything else happens in it, then it happens because of a fight. Not because you went looking. That's the difference between letting and looking. It's the only one I've got."
+"Fight her." Lira said it at once. "Go in to fight her. Not to find out. She's the best you've ever stood across from, and she's going to try to beat you in front of three chairs and half the school, and you're going to try to stop her. That's a match. That's the only thing it's allowed to be." She unfolded one arm and pointed at him. "If anything else happens in it, then it happens because of a fight. Not because you went looking. That's the difference between letting and looking. It's the only one I've got."
 
 "And Karis?"
 
@@ -226,13 +226,13 @@ He thought about that properly, because she had asked properly.
 
 "Because she's the best I've ever seen," he said. "And she wants to find out what I am against somebody who's really trying. So do I. That's the honest way to find out. You don't find out what you are by fighting people you know you'll beat."
 
-Oona considered this for some time, and then looked back at the sheet.
+Oona considered this, and then looked back at the sheet.
 
 "*By her written consent*," she read. "That means she asked."
 
 "She asked."
 
-"Then it's fair." Oona wrote something on her slate and underlined it twice. "I'll be on the front bench. I'm going to be honest with you. I'm going to want her to win a little bit, as well. She showed me a point over my hand." She looked up at him, very grave. "Is that all right?"
+"Then it's fair." Oona wrote something on her slate and underlined it twice. "I'll be on the front bench. I'm going to be honest with you. I'm going to want her to win a little bit, as well. She showed me a point over my hand." She looked up at him. "Is that all right?"
 
 "That's all right," said Cael. "I'd think less of you if you didn't."
 
@@ -250,19 +250,19 @@ By the midday meal the rumor market had built three new theories and torn down o
 
 "Because it's stupid, and stupid ones travel fastest, and the faster that one goes the slower the true one goes." She took his bread. "Also the tout's opened a book. Five to one against you. Brom wouldn't put any barley on you."
 
-"I don't wager food," said Brom, with great dignity. "Food is not a game."
+"I don't wager food," said Brom. "Food is not a game."
 
 "You'd wager it on her, though."
 
 "I wouldn't wager it on anybody. That's what not wagering means."
 
-Edran found him two days later, crossing the yard between the archive and the lecture wing, and fell into step with him for exactly as long as it took to say one thing. He had been at the rail of the heat-Paths floor every afternoon since the notice went up, arms folded, watching Karis train, with the look of a man revising something he had thought was finished, and Cael had watched him watching her.
+Edran found him two days later, crossing the yard between the archive and the lecture wing, and fell into step with him for as long as it took to say one thing. He had been at the rail of the heat-Paths floor every afternoon since the notice went up, arms folded, watching Karis train, with the look of a man revising something he had thought was finished, and Cael had watched him watching her.
 
 "After she beat me," said Edran, without looking at him, "I sent for Ternhall's standings record. Theirs is public, if you write for it and pay the copying." He kept walking. "It goes back three years. At Ternhall nobody has crossed that grid for two years. I thought you'd want the number."
 
 He turned off toward the lecture wing before Cael could answer. It was not friendship. Cael watched him go. On the exhibition floor Edran had promised to be a witness, and here was the promise kept; it had begun, Cael thought, to run both ways.
 
-He wrote it all that night at the desk by the narrow window, in the plain hand he kept for the evenings that turned a corner.
+He wrote it all that night at the desk by the narrow window.
 
 *Fourth sitting. Satisfied, as previously recorded. Nothing woke.*
 
@@ -272,6 +272,6 @@ He wrote it all that night at the desk by the narrow window, in the plain hand h
 
 *Lira's rule: go in to fight her. Not to find out. The first day after, whatever happens, Karis gets the whole page.*
 
-He looked at that for a while, and then wrote one more line under it, because the binder was the one place he never lied.
+He looked at that, and then wrote one more line under it, because the binder was the one place he never lied.
 
 *I don't know if I can walk into a ring with that sentence in me and not be waiting for it. I'm going to have to learn how in four weeks.*

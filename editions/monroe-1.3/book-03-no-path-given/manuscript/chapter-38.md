@@ -2,11 +2,11 @@
 
 Karis woke on the Friday with warm hands, and the first thing she did, before she had sat up or looked at the window, was check whether she was still all there.
 
-She held her left hand out over the blanket, palm up, a hand's width from her face, and her off hand, the right, went still at her side. She counted it without meaning to, the way she had counted it since she was fourteen: a quarter of a second, near enough, a hair less than at the end of yesterday. Then a point bloomed over her palm, small and dim and steady, a coin of light the size of a thumbnail, and its warmth reached her skin.
+She held her left hand out over the blanket, palm up, close above her face, and her off hand, the right, went still at her side. She counted it without meaning to, the way she had counted it since she was fourteen: a quarter of a second, near enough, a hair less than at the end of yesterday. Then a point bloomed over her palm, small and dim and steady, a coin of light the size of a thumbnail, and its warmth reached her skin.
 
 It was exactly as it had always been.
 
-She held it to a count of twenty and let it go, and watched its third of a breath of shimmer hang over the blanket and fade. Then she laid another, and joined the two along the bedpost with a thin singing line, and let that go too, and lay back on the pillow and looked at the ceiling for a long time.
+She held it to a count of twenty and let it go, and watched its third of a breath of shimmer hang over the blanket and fade. Then she laid another, and joined the two along the bedpost with a thin singing line, and let that go too, and lay back on the pillow and looked at the ceiling.
 
 Nothing was missing. Nothing in her had been taken away.
 
@@ -24,13 +24,13 @@ She did not write *by what*. Clause five of the first terms forbade it, and clau
 
 She closed the first notebook.
 
-The ledger was harder. It was the ledger of the nulls, twenty-two sessions in her small upright hand with the ruled line under them and the sentence about the missing condition. It recorded conditions and results and nothing else, and a match was not a session; it had not been run in the quiet room, or under her consent spoken aloud, or by any rule she had written. But it had been the twenty-third time she had stood in front of him while he watched, and she found that she could not leave the ledger without it.
+The ledger was harder. It was the ledger of the nulls, twenty-two sessions in her small upright hand with the ruled line under them and the sentence about the missing condition. It recorded conditions and results and nothing else, and a match was not a session; it had not been run in the quiet room, or under her consent spoken aloud, or by any rule she had written. But it had been the twenty-third time she had stood in front of him while he watched, and she could not leave the ledger without it.
 
 So she wrote it under the barley clause, under everything.
 
 *Supplementary. Not a session. Formal yard, fifth sitting, full intensity, under the presiding assessor's conditions. Source: K., Ember Path, Iron Rank Three. Consent: written, filed. Distance: from eight paces to one. Duration: three exchanges. Result, as reported by the subject: a fragment notice. Ember-adjacent. The field reads: acquisition, directed.*
 
-She looked at it for a long time, the first entry in the ledger that did not end in *null*. She found that her hand did not want to write anything under it, and she let her hand have its way, and closed the ledger.
+She looked at it for a long time, the first entry in the ledger that did not end in *null*. Her hand did not want to write anything under it, and she let her hand have its way, and closed the ledger.
 
 Then she opened the second notebook, the one that held everything the standard model got wrong. She turned to a clean page, and wrote the date at the top, and did not write anything else for an hour.
 
@@ -56,11 +56,11 @@ Karis walked three more steps.
 
 "No." Quenna's voice did not change at all. "I've spent twenty years learning which questions to ask. I've spent nearly as long learning which ones not to." They had reached the door. Quenna stopped, and turned, and looked at her for the first time. It was a level, tired look, and there was nothing in it that Karis could have written down. "You look as though you haven't slept. Eat something today. I don't care what."
 
-She went in. Karis stood on the step with the cup of water in her hand and found, after a moment, that she was going to do as she was told.
+She went in. Karis stood on the step with the cup of water in her hand, and after a moment she understood that she was going to do as she was told.
 
 She did not go down to the midday meal, all the same.
 
-She had meant to, because Quenna had told her to eat. She simply found, when the fourth bell rang, that she was still at the table by the window with the second notebook open to a page that held one date and nothing else. She could not imagine sitting at the scarred table with the three of them and saying anything at all about the weather.
+She had meant to, because Quenna had told her to eat. But when the fourth bell rang she was still at the table by the window with the second notebook open to a page that held one date and nothing else. She could not imagine sitting at the scarred table with the three of them and saying anything at all about the weather.
 
 At the fifth bell she went to the quiet room, because it was the hour her slate always claimed, and because it was the one place in the academy where nobody would ask her anything. The slate on the nail by the narrow door still said *K. — declaration practice*, and it was still true.
 
@@ -70,7 +70,7 @@ Single points, pairs, a channel along the end wall, a sustain to a count of sixt
 
 She knew why. She had always known why.
 
-For three years at Ternhall there had been a second set of points across the paired floor from hers, always a breath behind or a breath ahead, so that every ignition she laid was half of a conversation and the other half was always coming. She had learned to lay early into that, the way a person speaks a fraction early into a pause where somebody has always replied. She had come to Greyvane and laid her points on a lean old man's count into nothing at all, and found herself still doing it. She corrected it every time and never wrote the correction down. She had decided long ago there was a small amount of data she would rather carry than file.
+For three years at Ternhall there had been a second set of points across the paired floor from hers, always a breath behind or a breath ahead, so that every ignition she laid was half of a conversation and the other half was always coming. She had learned to lay early into that. She had come to Greyvane and laid her points on a lean old man's count into nothing at all, and she was still doing it. She corrected it every time and never wrote the correction down. She had decided long ago there was a small amount of data she would rather carry than file.
 
 She stood in the quiet room with her off hand very still and let herself think about the third exchange.
 
@@ -92,7 +92,7 @@ She let the last point go and sat down on the scrubbed floor with her back again
 
 There was half a dark loaf outside her door when she came back up the stairs at the seventh bell. It had been set on the floor squarely in the middle of the doorway, so that nobody could open the door without seeing it. Beside it was a small stone pot with a lid, still faintly warm to the touch, with a spoon laid across the top. She lifted the lid. Barley.
 
-She stood in the corridor and looked at them for a long time.
+She stood in the corridor and looked at them.
 
 She knew whose they were. Lira stole bread from everyone in the building and gave most of it away again, and she had never once in Karis's sight given anything to anybody in a way that could be thanked for. Brom did not give barley to people. Brom defended barley to people, at length, with real feeling, and ate it in front of them. A pot of it outside somebody's door was not a gift so much as a statement of position.
 
@@ -104,7 +104,7 @@ Her window looked down across the corner of the training yard to the low wall at
 
 She stood at the window with the curtain in her hand and watched them.
 
-They were not doing anything or, as far as she could see, talking, and neither of them moved for a long time. She had watched the three of them on that wall from this window on other nights, and she had always noted it the way she noted the hour of the bells, as a fact about the academy. Tonight she found that she did not want to note it. She wanted, quite simply and without any method at all, to be down there on the cold stone with them, not saying anything.
+They were not doing anything or, as far as she could see, talking, and neither of them moved. She had watched the three of them on that wall from this window on other nights, and she had always noted it, as a fact about the academy. Tonight she did not want to note it. She wanted, quite simply and without any method at all, to be down there on the cold stone with them, not saying anything.
 
 That was new, and she examined it, standing at the window, as carefully as she had examined her own hands that morning.
 
@@ -134,9 +134,9 @@ Then she took it out, and unfolded it, and read it again, and folded it the othe
 
 She did that six times between the fourth bell and the sixth, until the corners had gone soft and the creases had begun to cross each other, and then she made herself stop. She thought of her mother at the kitchen table on the last evening at home. *And if he turns out to be only a boy, and the whole mystery is in the paperwork?* He was not only a boy, and the mystery was not in the paperwork. Part of it, she knew now, was in her, and part of it was in him, and part of it, the part she had never had a column for, was in the space between the two of them across a chalk ring at the moment she had tried hardest. She would write to her mother about the match, but not about this. Not yet. Some things you carried before you filed them, if you ever filed them at all.
 
-And Master Marlowe, she thought, standing in front of his second-years in a warm hall a whole country away, would never know how right he had been, or about what. She found that she was smiling, alone, at the table by the window, and let herself.
+And Master Marlowe, she thought, standing in front of his second-years in a warm hall a whole country away, would never know how right he had been, or about what. She was smiling, alone, at the table by the window, and she let herself.
 
-She went down to the archive at the eighth bell, an hour after Prynn usually locked it, because she knew where he would be, and she did not take a notebook. She found at the bottom of the stairs that she had put her hand to her coat to make sure one was not there, and that her hand had found only the folded page.
+She went down to the archive at the eighth bell, an hour after Prynn usually locked it, because she knew where he would be, and she did not take a notebook. At the bottom of the stairs she put her hand to her coat to make sure one was not there, and it found only the folded page.
 
 ---
 
@@ -144,7 +144,7 @@ The archive door opened at the eighth bell on the Saturday, and he knew the step
 
 He was at the far end of the long table with the observation notebook shut on the table before him and his bad arm resting in its loose linen across his lap. He had not seen her for two days, and it had taken him until Friday afternoon to notice, which embarrassed him once he had. Since the autumn Karis had kept time like the water clock: every session, every meal, every evening in the stable, and the archive so regularly that the bells might have been set by her. Then, from Brom's room on the night of the match, nothing. The only sighting was Brom's: Saturday at first light, a figure crossing the yard at speed with the collar up, gone before he could call out. When Cael asked Lira, Lira said only, "She's writing something she doesn't want watched." Lira would know. Lira had once lost two days of her own to four paragraphs from Fenmark, and he did not ask.
 
-Karis came the length of the room and sat down opposite him. She had brought no notebook. She laid her folded hands on the table in the place where one should have been, and looked at that empty place for a moment before she looked at him.
+Karis came the length of the room and sat down opposite him. She had brought no notebook. She laid her folded hands on the table in the place where one should have been, and looked at that empty place before she looked at him.
 
 "I have to tell you something," she said. "Please don't speak until I'm done. If you stop me in the middle I won't be able to begin again, and it has taken me two days to get as far as the bottom of the stairs."
 
@@ -160,7 +160,7 @@ From inside her coat she drew one folded page and held it out to him over the ta
 
 He had half expected two close pages of data, and what he held was a single paragraph in her small upright hand, which he could tell before he read a word had been written more than once, because the paper said so. It had been folded and opened and folded again until the creases crossed each other and the corners had worn soft as cloth. Close to one edge an earlier sentence had been scraped off with great care, and its ghost still showed faintly in the grain.
 
-He read it. Then he read it again.
+He read it.
 
 The archive was very still around them, and back in the stacks Prynn's lamp was burning low, left alight once more as if she had forgotten it, and the shelves ran away into the dark with their centuries of other people's lives written down. It seemed to him that a room like this had been built for nothing so much as this: a person setting down the one thing that mattered and passing it across a table to someone else.
 
@@ -186,7 +186,7 @@ Lira read it on the wall.
 
 He took it out to her because she was there, as she was nearly always there, with her knees drawn up and her coat round her and the cold coming off the stone. Without saying anything he held it out, and she looked at it, and at the softness of the creases, and at him, and took it.
 
-She read it twice and turned it over once, as if there might be something on the back, and there was not. She read it a third time in the light from the residence wing's one lit window, slowly, the way she had read the consent across the scarred table. Then she sat with it in both hands on her knees and looked out at the black yard for a long time.
+She read it, and turned it over, and there was nothing on the back. She read it again in the light from the residence wing's one lit window, slowly, the way she had read the consent across the scarred table. Then she sat with it in both hands on her knees and looked out at the black yard.
 
 "Well," she said, half to herself. "There it is, then."
 

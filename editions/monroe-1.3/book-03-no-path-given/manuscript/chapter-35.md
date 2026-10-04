@@ -6,7 +6,7 @@ Quenna posted the conditions two days out, on the Tuesday of the sixteenth week,
 
 The rota, Cael saw at the bottom of the sheet, had given them the heat-Paths instructor with the scorched cuffs.
 
-He read it twice in front of the board with students going past behind him toward the second bell, and then a third time, slowly, because Quenna had written it and he had learned that nothing Quenna wrote did only one thing.
+He read it slowly in front of the board, with students going past behind him toward the second bell, because Quenna had written it and he had learned that nothing Quenna wrote did only one thing.
 
 *The presiding assessor may halt the match at any moment, at the faculty's discretion, without stating cause.* That was for Karis: if anything happened on that floor that Quenna did not like, she could stop it without saying what she had seen, and nobody could ask her afterward why. *Logged as a demonstration assessment under the provision* was for him. It meant that whatever happened in the formal yard on Thursday would go into his record in the same column as four quiet mornings with Hobb, and anybody hostile who ever read it would count it as one more sitting, not a standings bout and not anything new. It fed the category, as everything he did at Greyvane had to feed the category or the category would starve.
 
@@ -18,7 +18,7 @@ The panel would see the observer tested against Iron-tier at full intensity, and
 
 "Because it means she's thought about stopping it." Lira bit the apple. "People who haven't thought about stopping something don't write down that they won't have to explain why."
 
-The session in section four that afternoon was the last before the match, and all three of them knew it, and nobody said so. Quenna stood at the chalk with her slate, Karis sat behind her line on the borrowed stool with her two pens laid side by side, and Brom leaned on the far side of the post, exactly as on twenty Tuesdays and Thursdays before. Cael found that he was grateful to it for being exactly the same.
+The session in section four that afternoon was the last before the match, and all three of them knew it, and nobody said so. Quenna stood at the chalk with her slate, Karis sat behind her line on the borrowed stool with her two pens laid side by side, and Brom leaned on the far side of the post, as on twenty Tuesdays and Thursdays before. Cael was grateful to it for being exactly the same.
 
 He ran the framework, and Karis timed his recovery between passes.
 
@@ -28,7 +28,7 @@ He ran the framework, and Karis timed his recovery between passes.
 
 "Because anything I write after this I'd be writing about my own match." She capped her pen. "I don't want to have a page in my notebook that I wrote knowing what I'd use it for. It would be a different kind of page."
 
-At the chalk, Quenna did not look up from her slate.
+At the chalk, Quenna went on writing.
 
 They did the post work, with the felt on and Brom leaning and shifting on the far side, and the read gave him four in twenty, as it had the week before. When the hour was done Quenna signed the strip and held it out to him, and this time she did not hold on to it.
 
@@ -38,17 +38,17 @@ They did the post work, with the felt on and Brom leaning and shifting on the fa
 
 "Come rested. You know that." She tucked the slate under her arm and looked at Karis, folding her stool, and at Cael, and at Brom, who had come round the post and was standing with his hands behind his back. "Whatever either of you has been doing this month," said Quenna, "and I don't want to know, I'd like you both to walk out of the yard on Thursday on your own feet. That isn't in the conditions. It's mine." She went to the door. "That's all."
 
-She went out. Karis stood with the stool under her arm and looked at the door for a moment after it had shut.
+She went out. Karis stood with the stool under her arm and looked at the door after it had shut.
 
 "She's frightened," said Karis.
 
 "Quenna?"
 
-"A little. It's in her shoulders. She holds them like Lira does before a bout." Karis tucked the stool more firmly under her arm. "I find I don't mind that somebody is."
+"A little. It's in her shoulders. She holds them like Lira does before a bout. I find I don't mind that somebody is."
 
 ---
 
-He tapered the last three days, as Vell had taught him to taper before the big bouts in Ardenmere, a lifetime ago in a cold city. There were shorter sessions and earlier nights, no work in Brom's room at all, and no drills with Lira after the fourth night, which she had ruled herself, flatly, at breakfast. "You've got four in your legs. You'll keep four. You'll lose four if you go out there tired." The binder work shifted from gathering to holding. On the Tuesday night he redrew every chart on Karis from memory, without the binder open, on clean paper. He checked the new drawings against the old ones line by line, found that they matched, and burned the clean sheets in Brom's grate because they were nobody's business. He knew all of it past memory now, the tells and the timings and the four words and the rule about cold air and the number sixteen, and it lived in him where Lira's footwork lived, in the place below thinking.
+He tapered the last three days, as Vell had taught him to taper before the big bouts in Ardenmere, a lifetime ago in a cold city. There were shorter sessions and earlier nights, no work in Brom's room at all, and no drills with Lira after the fourth night, which she had ruled herself, flatly, at breakfast. "You've got four in your legs. You'll keep four. You'll lose four if you go out there tired." The binder work shifted from gathering to holding. On the Tuesday night he redrew every chart on Karis from memory, without the binder open, on clean paper. He checked the new drawings against the old ones line by line, and they matched, and he burned the clean sheets in Brom's grate because they were nobody's business. He knew all of it past memory now, the tells and the timings and the four words and the rule about cold air and the number sixteen, and it lived in him where Lira's footwork lived, in the place below thinking.
 
 On the Wednesday afternoon he stood at the rail of section two and watched her train alone. She had no partner that day and had not asked for one. She ran her point-work in long patient sequences on the instructor's count, lay and hold and join and let go, over and over, the coins of light blooming on the boards and dying on her word. There was nothing in any of it she had not shown him across six weeks of looking. She was not practising, he understood after a while; she was doing what he had done with the charts the night before, checking that it was all still where she had put it.
 
@@ -72,15 +72,15 @@ He thought about it, because she would know if he did not.
 
 "A little more than a little." He looked at the sheet. "She's the best I've ever fought. I've been studying her for six weeks, and she's been studying me, and tomorrow we find out whose studying was better."
 
-Oona considered this with great care.
+Oona considered this.
 
-"I'll be on the front bench," she said. "I asked to be let off my floor block on Thursday, because the bout's at the fifth. They said yes, if I make it up on Saturday." She tucked her slate in tighter. "I'll be sorry about Saturday. I've already decided."
+"I'll be on the front bench," she said. "I asked to be let off my floor block on Thursday, because the bout's at the fifth. They said yes, if I make it up on Saturday. I'll be sorry about Saturday. I've already decided."
 
 "That's very organized."
 
 "My Kindling is in nine days." She said it as if it were part of the same sentence. "Nine days after tomorrow. I counted it from yours, not from mine."
 
-He looked down at her. She did not look up.
+He looked down at her. She kept her eyes on the sheet.
 
 "You'll be at the top of the hill," she said.
 
@@ -88,7 +88,7 @@ He looked down at her. She did not look up.
 
 "I know you did. I'm checking." She looked at the conditions one last time, and then at him, quickly, and away. "Try not to get hurt. My mother says you can't put a hand on somebody's shoulder if their arm's in a sling."
 
-She went off up the hall toward the residence wing before he could tell her that his shoulder was not where the hand went, and he stood in front of the board and found that he was smiling, which he had not expected to do that evening at all.
+She went off up the hall toward the residence wing before he could tell her that his shoulder was not where the hand went, and he stood in front of the board smiling, which he had not expected to do that evening at all.
 
 Gerda was at the floor desk when he passed it on the way to supper, signing her slip with the hour already written in her careful square figures. She blotted it and looked at the clock over the door, as she always did, and then she looked at him.
 
@@ -118,7 +118,7 @@ Karis came to the scarred table at supper with her bowl and sat down at the end 
 
 Lira, across the table, closed her eyes. "Here it comes."
 
-"I'll be taking my breakfast at a separate table tomorrow. By the far window." Karis looked round the three of them with great seriousness. "Fraternizing with the opposition on the morning of a match is methodologically unsound. It introduces a variable. I don't want either of us to be able to say afterward that the other one was put off by porridge."
+"I'll be taking my breakfast at a separate table tomorrow. By the far window." Karis looked round the three of them. "Fraternizing with the opposition on the morning of a match is methodologically unsound. It introduces a variable. I don't want either of us to be able to say afterward that the other one was put off by porridge."
 
 "You're ridiculous," said Lira.
 
@@ -166,7 +166,7 @@ Lira watched her go, and then looked at Cael with her eyebrows up.
 
 Prynn forgot to lock the reading room that night, as she had begun to forget to lock it on nights when Cael was still in it. He had never once mentioned it to her, having decided early that mentioning it would be the surest way to make her stop.
 
-He was sitting at the far end of the long table with the observation notebook shut in front of him when the door opened an hour after Prynn had gone up. He knew the step before he looked up, because whoever this was walked as if she had measured the floor and counted it.
+He was sitting at the far end of the long table with the observation notebook shut in front of him when the door opened an hour after Prynn had gone up. He knew the step before he looked up, because whoever this was walked like somebody who had measured the floor and counted it.
 
 Karis came down the long room and stopped across the table from him, and she did not have a notebook.
 
@@ -218,7 +218,7 @@ At the door she stopped, with her hand on the frame, and turned back.
 
 Then she was gone, before he could ask what she meant by the last of it. He suspected that was on purpose. It was a sentence made to be taken to bed unfinished, so that it would still be there, waiting, when the panel called him in the morning.
 
-After the door had shut he stayed where he was for a long while, with the notebook lying shut on the table in front of him, and for once he left it that way. The reading room ticked and settled round him as old buildings do at night, the stone of the waystation letting the day's small warmth go out of it a little at a time. Prynn's lamp at the high desk had been put out, and only his own burned, low, at the end of the long table, and the shelves went back from its light into a dark that held more of other people's recorded lives than he could have read in ten years of evenings.
+After the door had shut he stayed where he was, with the notebook lying shut on the table in front of him, and for once he left it that way. The reading room ticked and settled round him as old buildings do at night, the stone of the waystation letting the day's small warmth go out of it a little at a time. Prynn's lamp at the high desk had been put out, and only his own burned, low, at the end of the long table, and the shelves went back from its light into a dark that held more of other people's recorded lives than he could have read in ten years of evenings.
 
 Six weeks sat behind him, as complete as they were ever going to be: the charts and the tells and the four words, sixteen and the cold air, Lira's chalk stopped at four, the drop at two of three for one breath and a strap, and a sentence in the binder about choosing a burn. And under all of it, in the binder's back pages, sat the other sentence, the one Karis did not have and Lira did. *It takes what's used on me.*
 
@@ -228,7 +228,7 @@ He did not know if he could, or if anybody could carry a sentence like that into
 
 Perhaps that was all it was. Perhaps that was all it had ever been.
 
-He found, turning it over one last time in the low light, that he was not afraid of tomorrow as he had been afraid of the quiet room. In the quiet room he had been afraid of nothing happening, and tomorrow he was afraid of losing, which was a cleaner fear, and one he knew what to do with, because he had been carrying it into rings since he was fourteen.
+Turning it over one last time in the low light, he knew he was not afraid of tomorrow as he had been afraid of the quiet room. In the quiet room he had been afraid of nothing happening, and tomorrow he was afraid of losing, which was a cleaner fear, and one he knew what to do with, because he had been carrying it into rings since he was fourteen.
 
 For the first time since Ardenmere he was going to walk into a match without knowing which version of himself would walk out of it.
 

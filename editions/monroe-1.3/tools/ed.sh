@@ -89,7 +89,7 @@ case "$cmd" in
         echo; echo "--- COMPILED REVIEW PROMPT FILE: $st/review-$kind-prompt.md (read it in full) ---"
       } > "$w"
       if [ "${REVIEW_SEAT:-agent}" = codex ]; then
-        nohup codex exec --cd "$ROOT" --skip-git-repo-check -o "$st/review-$kind.lastmsg.md" "$(cat "$w")" \
+        env -u OPENAI_API_KEY -u OPENAI_BASE_URL nohup codex exec --cd "$ROOT" --skip-git-repo-check -o "$st/review-$kind.lastmsg.md" "$(cat "$w")" \
           < /dev/null > "$st/review-$kind.stdout.log" 2>&1 &
         echo $! > "$st/review-$kind.pid"; echo "launched Sol $kind review pid $(cat "$st/review-$kind.pid")"
       else

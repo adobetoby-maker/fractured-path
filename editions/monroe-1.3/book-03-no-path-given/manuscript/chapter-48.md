@@ -12,7 +12,7 @@ The man who came in was in his forties and soft-spoken, with very clean cuffs an
 
 "Procedure generally does," said Prynn.
 
-She took the paper and unfolded it on her desk, and read it, and the records officer waited with his hands folded on his wallet and did not look at anything in particular. Cael watched her read it once fast, the way she read a slip to see what shelf it wanted, and then again slowly, with her finger moving down the margin. Then she turned back to the first page and read it a third time, and at the third reading something happened to her mouth that Cael had not seen happen before. It went thin and straight, and it stayed that way.
+She took the paper and unfolded it on her desk, and read it, and the records officer waited with his hands folded on his wallet and did not look at anything in particular. Cael watched her read it once fast, the way she read a slip to see what shelf it wanted, and then again slowly, with her finger moving down the margin, and on the slow reading something happened to her mouth that Cael had not seen happen before. It went thin and straight, and it stayed that way.
 
 "Three pages," she said, without looking up.
 
@@ -20,7 +20,7 @@ She took the paper and unfolded it on her desk, and read it, and the records off
 
 "You'll have read them."
 
-"I drafted the schedule to the third. The articles are the code's, not mine." He said it mildly, as a man states the weather. "Under a challenge filed and pending, the officer of record may have inventoried the respondent institution's holdings relevant to the matter. That's the first article. The third page lists what the delegation's clerks will be taking into inventory under the general clause."
+"I drafted the schedule to the third. The articles are the code's, not mine." He said it mildly. "Under a challenge filed and pending, the officer of record may have inventoried the respondent institution's holdings relevant to the matter. That's the first article. The third page lists what the delegation's clerks will be taking into inventory under the general clause."
 
 "Under the general clause," said Prynn, "they'll be taking my founding shelves."
 
@@ -42,7 +42,7 @@ Prynn put her spectacles back on.
 
 "At your table," the records officer agreed. "I'll bring my copy." He bowed slightly, to her and then, after a moment's thought, to Cael at the far end, and went out, and shut the door behind him very quietly, as if he were leaving a sickroom.
 
-Prynn sat for a long time on the high stool without moving.
+Prynn sat on the high stool without moving.
 
 "You'll want to read it," she said at last.
 
@@ -98,7 +98,7 @@ She read this one aloud, slowly, because it was newer than the others and she wo
 
 "Then it isn't unclassified."
 
-"It's entered under your designation." He said it as if it cost him something, and Cael believed that it did. "Your marks. Your numbers. Your catalogue. The amendment says *a current registry designation*. That means the registry's own catalogue standard, the one it applies to a chartered institution's holdings at each standardization." He turned his copy round on the table so that she could see the line, though she did not need to. "Your academy's own records carry registry marks. I've seen them on the enrollment files. The founding stock never got them. Nobody ever came up the hill to put them on."
+"It's entered under your designation." It seemed to cost him something to say, and Cael believed that it did. "Your marks. Your numbers. Your catalogue. The amendment says *a current registry designation*. That means the registry's own catalogue standard, the one it applies to a chartered institution's holdings at each standardization." He turned his copy round on the table so that she could see the line, though she did not need to. "Your academy's own records carry registry marks. I've seen them on the enrollment files. The founding stock never got them. Nobody ever came up the hill to put them on."
 
 "Because nobody ever thought a toll book worth the ink."
 
@@ -124,7 +124,7 @@ The records officer said nothing, and had the grace to look at his hands.
 
 "*May cause to be inventoried.* An inventory is a list. A list is made by somebody, and a list made by somebody is signed by the somebody who made it." She folded her hands on the shut volume. "Your clerks will box my shelves. Very well. Each box will be entered on the inventory as it's filled. Each entry will give the count of volumes in that box and the shelf mark of every one of them. Each entry will be signed by the clerk who filled the box, in my presence, at my door, before that box crosses my threshold." She looked at him across the shut volume. "Not at the end of the day. Not in a fair copy afterward. One line, one box, one signature, at the door."
 
-The records officer looked at her for a long moment.
+The records officer looked at her.
 
 "That's the procedure as I'd read it too," he said. "I'd only not been asked." He wrote again in his margin. "It'll slow them."
 
@@ -134,7 +134,7 @@ The records officer looked at her for a long moment.
 
 "There is," said Prynn. "He's sitting at the end of the table."
 
-The records officer looked down the long table at Cael, and Cael looked back at him, and after a moment the man nodded to him, as one witness nods to another, and went out.
+The records officer looked down the long table at Cael, and Cael looked back at him, and the man nodded to him, as one witness nods to another, and went out.
 
 ---
 
@@ -170,7 +170,7 @@ Lira had the ring drawn when he came out, and she took one look at him across th
 
 Brom sat down on the edge of the pump trough with the flour sack between his boots and did not argue.
 
-She came at him from the first count, faster than she usually began, and he met her, and for a while it was good, the old forms coming up out of him one after another. Then somewhere in the third sequence he turned her too hard. It was not really a turn at all: he put his hand on her shoulder with more in it than the form wanted and shoved, and she went two steps back and stopped, and stood looking at him in the cold with her breath going up.
+She came at him from the first count, faster than she usually began, and he met her, and at first it was good, the old forms coming up out of him one after another. Then somewhere in the third sequence he turned her too hard. It was not really a turn at all: he put his hand on her shoulder with more in it than the form wanted and shoved, and she went two steps back and stopped, and stood looking at him in the cold with her breath going up.
 
 "That one was for somebody," she said.
 
@@ -184,7 +184,7 @@ He stood in the ring with his hands at his sides and told her about the knock, a
 
 "To one word. She'd have beaten every other line in it."
 
-Lira walked a slow half-circle round him, along the inside of the chalk, the way she walked round a thing she was deciding about.
+Lira walked a slow half-circle round him, along the inside of the chalk.
 
 "And you can't hit a word," she said. "So you hit me."
 
@@ -192,7 +192,7 @@ Lira walked a slow half-circle round him, along the inside of the chalk, the way
 
 "I know you didn't. That's why I'm saying it out loud, so you'll hear it." She stopped in front of him. "Listen. She lost to a word. On Monday you're going to stand up and win with one. Their own word, out of their own book, that they never got round to writing down properly." She tapped his breastbone with two fingers, at half speed, and this time he let her. "That's the only way to hit a word. With another one. In the right place. You don't do it out here, on me, at dusk."
 
-He looked at her for a moment in the cold, with the white of their two breaths going up between them.
+He looked at her in the cold, with the white of their two breaths going up between them.
 
 "When did you get so wise?" he said.
 
@@ -222,7 +222,7 @@ Nobody said anything, and across the stable somebody laughed at the tiles and wa
 
 "Then don't take it down there," said Brom. "Leave it in your room. In the box with the lock."
 
-"I could." Karis looked at him. "And then on Monday a magistrate asks for every paper bearing on the respondent's capabilities, and somebody on that bench knows I sat a match with him, and knows I took notes, because everybody knows I take notes. And my room is in the residence wing of a chartered academy." She was quiet for a moment, turning the folded notice over in her fingers. "I don't think it will happen. I think it's possible. Those aren't the same, and I've spent my whole life refusing to treat them as if they were."
+"I could." Karis looked at him. "And then on Monday a magistrate asks for every paper bearing on the respondent's capabilities, and somebody on that bench knows I sat a match with him, and knows I took notes, because everybody knows I take notes. And my room is in the residence wing of a chartered academy." The folded notice went over and over in her fingers. "I don't think it will happen. I think it's possible. Those aren't the same, and I've spent my whole life refusing to treat them as if they were."
 
 Cael understood then what she meant, and why she had let the tea go cold in front of her.
 
@@ -262,7 +262,7 @@ She held the loose page out across the table to Cael.
 
 He took it, and it weighed nothing at all.
 
-"Clause two," said Brom slowly. He had his number sheet half out of his coat, as if he meant to write something on it, and then he put it back. "Second terms. Nothing about how it works in any record anybody outside the four can read." He looked at the narrow stub where the page had been. "It's satisfied now. It wasn't before."
+"Clause two," said Brom slowly. He had his number sheet half out of his coat, and then he put it back. "Second terms. Nothing about how it works in any record anybody outside the four can read." He looked at the narrow stub where the page had been. "It's satisfied now. It wasn't before."
 
 "I know," said Karis. "I'm sorry it took a notice from the Compact to make me do it."
 
@@ -278,7 +278,7 @@ Lira was quiet a moment longer, and then she reached across, picked up Karis's s
 
 "I'm always watching it," said Brom.
 
-Karis looked at the spoon in her hand for a moment, and then she ate.
+Karis looked at the spoon in her hand, and then she ate.
 
 ---
 
@@ -286,7 +286,7 @@ He put the page in the binder that night, in the back pocket, behind Karis's con
 
 Then he went down to the archive, because Karis would be there with the schedule, and he did not want her reading it alone tonight.
 
-She was there, with volume five open and her pen capped beside it, and Prynn was at the high desk with her lamp, writing slowly in a book Cael had not seen her use before, a tall narrow one with a marbled cover. He sat down across from Karis and did not open anything, and she did not look up. After a long time she turned back a page, and read it again, and went on.
+She was there, with volume five open and her pen capped beside it, and Prynn was at the high desk with her lamp, writing slowly in a book Cael had not seen her use before, a tall narrow one with a marbled cover. He sat down across from Karis and did not open anything, and she did not look up. Once she went back a page, read it again, and went on.
 
 At the end of the hour she closed volume five and set it on four.
 
@@ -300,7 +300,7 @@ At the end of the hour she closed volume five and set it on four.
 
 "That isn't the same thing as I said." Now she looked back, and her face in the lamplight was tired and plain and not careful at all. "You'll understand the difference on Monday. Prynn says everybody's going to understand everything on Monday. I think she's being optimistic."
 
-She went out, and Prynn went on writing in the marbled book and did not look up.
+She went out, and Prynn went on writing in the marbled book.
 
 He wrote it at his desk, briefly, because there was a first bell in the morning and he had been told, twice, to sleep before it.
 

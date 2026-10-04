@@ -40,3 +40,14 @@ Book 1 (edition) ends with Darrow saying he'll be "back up this river in the aut
 
 ## #31 — Coss's senior flag date (resolved by edition canon)
 Book 2's map: "three days after the Darrow fight". Edition Book 1: dated the day after. **The edition governs: the day after.**
+
+## #32 — Audio hosting for the Monroe 1.3 edition (OWNER, 2026-10-03)
+Breeze renders live in the **fractured-path repo via Git LFS**, beside the current edition's ElevenLabs audio, under new edition ids. 64 kbps mono mp3.
+
+## #33 — Pronunciations (OWNER-CONFIRMED, 2026-10-03)
+- **Cael** = KAYL, one syllable (rhymes with "sail"). Render spelling "Kale".
+- **Lira** = LEER-a. Render spelling "Leera".
+All other names in the listening proof's lexicon (`book-01-the-shattered/state/completion/listening-proof.md` §4) remain proposals (unconfirmed; not substituted at render).
+
+## #34 — Breeze licence and publication (OWNER, 2026-10-03)
+Publish the edition in books.worker-bee.app labeled exactly as Meridian is: "Listening audition, not production-approved; Breeze licence is non-commercial."

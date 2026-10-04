@@ -6,7 +6,7 @@ It was not practice. Lira had a word for it, and the word was upkeep: the thing 
 
 He went in and dressed by the window without lighting the lamp.
 
-His coat hung on the back of the chair, where it had hung all night. He put it on and buttoned it, and as he did up the second button his hand went flat against the inside pocket without his telling it to, and stayed there for a moment. Two folded papers lay against his chest, one a little stiffer than the other. He did not take them out. He knew what they said, and he knew that if he read them now he would be reading them for luck, which was not what either of them had been given to him for.
+His coat hung on the back of the chair, where it had hung all night. He put it on and buttoned it, and as he did up the second button his hand went flat against the inside pocket without his telling it to, and stayed there. Two folded papers lay against his chest, one a little stiffer than the other. He did not take them out. He knew what they said, and he knew that if he read them now he would be reading them for luck, which was not what either of them had been given to him for.
 
 He went down to breakfast with his hands empty.
 
@@ -20,15 +20,15 @@ She did not ask. She slid it out from under Karis's fingers the way she would ha
 
 "I needed that," said Karis.
 
-"You don't need it. You know it. You've known it since Friday." Lira tore her bread in half. "If you say it once more he'll hear it in your voice instead of the magistrate's, and then he'll be listening for you all morning, and you won't be there to say it." The larger half went to Cael without her looking. "It's in my pocket with his pencil and his chalk. You can have all three back at supper."
+"You don't need it. You know it. You've known it since Friday." Lira tore her bread in half. "If you say it once more he'll hear it in your voice instead of the magistrate's, and then he'll be listening for you all morning, and you won't be there to say it." Half of it went to Cael without her looking. "It's in my pocket with his pencil and his chalk. You can have all three back at supper."
 
-Karis looked at the pocket for a moment as if she were weighing whether to take it back by force. Then she picked up her spoon.
+Karis looked at the pocket as if she were weighing whether to take it back by force. Then she picked up her spoon.
 
 "That's the second time you've confiscated a document from me," she said.
 
 "I'll keep count for you," said Lira.
 
-Brom said nothing at all. He sat across from Cael and ate his barley steadily and slowly, as he ate it every morning, and when he had finished he set his spoon down in the bowl and folded his big hands on the wood. Cael waited for whatever he was going to say. Brom looked at him for a while, and then he looked at the window, and then he looked back.
+Brom said nothing at all. He sat across from Cael and ate his barley steadily and slowly, as he ate it every morning, and when he had finished he set his spoon down in the bowl and folded his big hands on the wood. Cael waited for whatever he was going to say. Brom looked at him, and then he looked at the window, and then he looked back.
 
 "That's my whole contribution," said Brom. "I thought about it most of the night. I decided the most useful thing I could do this morning was not say anything clever."
 
@@ -36,7 +36,7 @@ Brom said nothing at all. He sat across from Cael and ate his barley steadily an
 
 "That's why I'm so good at it." Brom picked up his cup. "Eat. You'll be in that room till the light goes, and I'm told they don't feed the respondent."
 
-Cael ate. He had thought he would not be able to, and found that his body had decided otherwise without consulting him, the way it had decided on every morning before every floor since he was twelve. Round them the stable was louder than it had ever been at this hour. The second-years were up and dressed in their good coats, and the tout had a crowd round him by the fire, and twice somebody came past the end of the table and slowed and said something to Brom about the gallery. Nobody spoke to Cael, which he understood was a kindness.
+Cael ate. He had thought he would not be able to, but his body had decided otherwise without consulting him, as it had on every morning before every floor since he was twelve. Round them the stable was louder than it had ever been at this hour. The second-years were up and dressed in their good coats, and the tout had a crowd round him by the fire, and twice somebody came past the end of the table and slowed and said something to Brom about the gallery. Nobody spoke to Cael, which he understood was a kindness.
 
 When the first bell rang, all four of them stood up at once without anybody having arranged it.
 
@@ -56,7 +56,7 @@ The assembly room had never held so many. Benches from the training hall had bee
 
 And among them, scattered, sitting very still, were the people who did not belong to the hill.
 
-He counted seven. Two wore the plain grey of registry offices, and sat apart from each other as if they had arrived separately and did not mean to be seen together. One was a woman in a dark blue coat with the badge of an academy he did not know at her collar. She had taken a seat at the end of a bench with a clear line not to the panel but to the recording desk. That told him she cared more about what would be written than about what would be said. There was a man with a guild's legal satchel on his knees, who had already uncapped his pen. There was an old woman in black who had brought a cushion. And there were two more he could not place at all, who looked at nothing and wrote nothing, and whose stillness was the most deliberate thing in the room.
+He counted seven. Two wore the plain grey of registry offices, and sat well apart from each other. One was a woman in a dark blue coat with the badge of an academy he did not know at her collar. She had taken a seat at the end of a bench with a clear line not to the panel but to the recording desk. That told him she cared more about what would be written than about what would be said. There was a man with a guild's legal satchel on his knees, who had already uncapped his pen. There was an old woman in black who had brought a cushion. And there were two more he could not place at all, who looked at nothing and wrote nothing, and whose stillness was the most deliberate thing in the room.
 
 Seven people had come up a hill in midwinter to watch a hearing at an academy most of them could not have found on a map a month ago. The record was public, and word of it had travelled faster than three weeks ought to have let it. He took that in, and set it down where he kept the things he would think about later, and reached the table.
 
@@ -76,9 +76,9 @@ Quenna was already at the respondent's table. She had the slate in front of her 
 
 Across the floor Coss had come in through the side door with his aide behind him. He was laying out his cases on the delegation's table in an order that had plainly been decided long before he reached the room. He did not look at the respondent's table. He looked at the cases, and then at the bench, and then he sat down with his hands flat on the closest case and waited. He was as still as he had been at a borrowed desk in Ardenmere, with the same patience that had always made him so hard to read.
 
-Behind Cael, toward the back wall, there was a small sound of somebody refusing to give up a seat, and a dry voice he knew informing somebody else that the bench was not for climbing over. He did not turn round. He knew where Prynn was without turning, the way he knew where his own hands were.
+Behind Cael, toward the back wall, there was a small sound of somebody refusing to give up a seat, and a dry voice he knew informing somebody else that the bench was not for climbing over. He did not turn round. He knew where Prynn was without turning.
 
-The recording officer came in by the door below the bench, carrying the sloped wooden case. He set it on the desk and opened it, wound the roll a little on its spindles, and stood the brass glass upright at the top corner. He did not look up at the room. He uncapped his ink and laid out two pens side by side, and then a third. Cael watched him do it and thought that whatever else happened today, that young man was going to write down every word of it.
+The recording officer came in by the door below the bench, carrying the sloped wooden case. He set it on the desk and opened it, wound the roll a little on its spindles, and stood the brass glass upright at the top corner. He uncapped his ink and laid out two pens side by side, and then a third. Cael watched him do it and thought that whatever else happened today, that young man was going to write down every word of it.
 
 Then a door at the back of the dais opened, and the room stood up.
 
@@ -108,9 +108,9 @@ He sat. Yorlan read the notice into the record: the matter and the parties, the 
 
 Coss stood up.
 
-He did not look at the respondent's table, and Cael found that he had expected that and was glad of it. It was not coldness. There was nothing personal on that side of the floor, and there never had been, and the whole of what Coss meant to show the room today rested on that.
+He did not look at the respondent's table. Cael had expected that, and was glad of it. It was not coldness. There was nothing personal on that side of the floor, and there never had been, and the whole of what Coss meant to show the room today rested on that.
 
-"Magistrate. Assessors." Coss spoke as he always spoke, as if he were reading a line off a sheet, though there was no sheet in his hand. "The Compact will put three things before the panel. First, what the respondent's provision was written to do, and for whom: its text says so, and so do its drafting records, and the Compact will produce both. Second, that the respondent is not one of the people it was written for: that is in the registry, and in his own words on deposition. Third, that whenever a chartered academy has stretched this provision over a person it was not written for, the enrollment has been voided, every time, and the Compact will produce each instance." He paused, not for effect, only because the next sentence was a separate thing and he gave it a separate place. "What the respondent is, the Compact leaves alone. That question is not before you, and the Compact will not put it there. The Compact asks the panel to read a paper and say what it says. The paper is plain. The Compact begins with its text."
+"Magistrate. Assessors." Coss spoke as he always spoke, evenly, with no paper in his hand. "The Compact will put three things before the panel. First, what the respondent's provision was written to do, and for whom: its text says so, and so do its drafting records, and the Compact will produce both. Second, that the respondent is not one of the people it was written for: that is in the registry, and in his own words on deposition. Third, that whenever a chartered academy has stretched this provision over a person it was not written for, the enrollment has been voided, every time, and the Compact will produce each instance." He paused, not for effect, only because the next sentence was a separate thing and he gave it a separate place. "What the respondent is, the Compact leaves alone. That question is not before you, and the Compact will not put it there. The Compact asks the panel to read a paper and say what it says. The paper is plain. The Compact begins with its text."
 
 He sat down. It had taken less time than it takes to walk across a yard.
 
@@ -124,7 +124,7 @@ Then he let it sit.
 
 He did not say anything about it. He stood beside the two papers with his hands at his sides and let the room look at them, and the room looked. Cael sat at the respondent's table with his hands flat in his lap and watched him do it. He felt something he had not expected to feel on this morning of all mornings, which was admiration.
 
-He knew how to watch a fighter. He had been doing it since before he could have said what he was doing, from the back of crowds in Ardenmere, from the rail of the training hall, from a bench in the formal yard; and he found, sitting here, that he could not stop doing it now, even with his own place on the hill as the purse. Coss fought low. He did not reach. He put one thing on the floor and stood on it before he put down the next, so that by the time anybody saw where he was going he was already there. He left nothing lying about that Cael could pick up tomorrow and turn round on him. Everything he said was true, and would still be true whatever anybody said afterward.
+He knew how to watch a fighter. He had been doing it since before he could have said what he was doing, from the back of crowds in Ardenmere, from the rail of the training hall, from a bench in the formal yard; and sitting here, he could not stop doing it now, even with his own place on the hill as the purse. Coss fought low. He did not reach. He put one thing on the floor and stood on it before he put down the next, so that by the time anybody saw where he was going he was already there. He left nothing lying about that Cael could pick up tomorrow and turn round on him. Everything he said was true, and would still be true whatever anybody said afterward.
 
 It was the deposition again, Cael thought. *Answer the question asked.* Only now it was the other man doing it, for a whole day, in front of everybody, and doing it better than anybody Cael had ever watched.
 
@@ -136,7 +136,7 @@ The drafting records came next, and they changed the room behind him.
 
 Coss took them out of the second case one at a time, each in a folder of faded card with a slip on it, and entered each by its number. Cael had known they existed since the morning in Naveth's office. He had walked the whole road of the provision's history himself in eleven hours and found it went nowhere, and he had known, at the end of that road, that Coss would be standing there with the first draft in his case. He had not known what else would be in it.
 
-The first was a memorandum of the committee that had written the provision, a long time ago. It stated what the provision was for: academic access for the untested children of member families, travelling on a guild's licence, until they could be brought to a station and assessed. Coss read it plainly, and laid it down. The second was the first draft itself, the one Cael had read in the archive in its leaning, tired-looking hand, and Coss read the first two sentences of it and laid that down too.
+The first was a memorandum of the committee that had written the provision, long ago. It stated what the provision was for: academic access for the untested children of member families, travelling on a guild's licence, until they could be brought to a station and assessed. Coss read it plainly, and laid it down. The second was the first draft itself, the one Cael had read in the archive in its leaning, tired-looking hand, and Coss read the first two sentences of it and laid that down too.
 
 The third was a draft Cael had never seen.
 
@@ -146,7 +146,7 @@ There were signatures under it. Coss read them out, one by one, as names, withou
 
 Behind Cael, at the academy's table, something changed in Naveth.
 
-Cael did not turn round. He did not need to. He had sat across a desk from the provost often enough in twenty weeks to know the man's stillnesses, the way he knew Hobb's or Brom's, and this was a new one. It was not the careful blank he kept for a records request. It was the stillness of somebody who has just been shown a door he had walked through for forty years. Somebody had once put a sign on the far side of it, and nobody had told him, and he was learning it now in front of two hundred people.
+Cael did not turn round. He did not need to. He had sat across a desk from the provost often enough in twenty weeks to know the man's stillnesses, and this was a new one. It was not the careful blank he kept for a records request. It was the stillness of somebody who has just been shown a door he had walked through for forty years. Somebody had once put a sign on the far side of it, and nobody had told him, and he was learning it now in front of two hundred people.
 
 Nobody had ever told the provost that the Compact still had those papers. Nobody at Greyvane had known. Counsel had not found them, and Cael had not found them, and Prynn, who knew where every page on the hill was kept, had never had them to find, because they were not on the hill. They had been in a basement room under a regional chamber, in a box marked for something else, waiting for one man with the patience to look.
 
@@ -156,10 +156,10 @@ Cael folded down a second finger under the table.
 
 He sat with the two folded fingers against his knee and thought about what he had just learned, coldly, because it was worth learning. The Compact kept everything. Whatever it had ever written down, about anything, it still had somewhere, in a box in a basement, under the wrong name perhaps, but kept. An argument that counted on some old page having gone missing had nothing under its feet.
 
-And his own argument hoped for exactly the opposite. It hoped that every page the Compact had ever written was still exactly where it had been put. Tomorrow he meant to stand up and ask the room to read all of them, and to find that none of them said what everybody had always taken for granted they said.
+And his own argument hoped for the opposite. It hoped that every page the Compact had ever written was still exactly where it had been put. Tomorrow he meant to stand up and ask the room to read all of them, and to find that none of them said what everybody had always taken for granted they said.
 
 He looked at the dark-spined volumes at Ilsev's elbow, and then away from them.
 
-Beside him, without turning her head, Quenna drew the slate a hand's width toward herself and wrote on it in small square letters. She turned it a quarter toward him so that he could read it, and then turned it back and wiped it with the side of her hand before anybody else could.
+Beside him, without turning her head, Quenna drew the slate toward herself and wrote on it in small square letters. She turned it a quarter toward him so that he could read it, and then turned it back and wiped it with the side of her hand before anybody else could.
 
 *Let him have every one of these. You never wanted them.*

@@ -2,7 +2,7 @@
 
 Wray looked at the arm before anybody else was allowed to.
 
-She came to the middle of the ring while the yard was still emptying and crouched in front of him and held out her hand, and he gave her the left forearm without being asked. She unwound the guard-cloth herself, slowly, a turn at a time, until the last turn, scorched through in a dark band, came away stiff. Under it, across the outside of the arm from a hand's width above the wrist nearly to the elbow, the skin was an angry shining red, raised in a strip the width of two fingers, with a pale edge along one side where it had begun to blister.
+She came to the middle of the ring while the yard was still emptying and crouched in front of him and held out her hand, and he gave her the left forearm without being asked. She unwound the guard-cloth herself, slowly, a turn at a time, until the last turn, scorched through in a dark band, came away stiff. Under it, across the outside of the arm from just above the wrist nearly to the elbow, the skin was an angry shining red, raised in a strip the width of two fingers, with a pale edge along one side where it had begun to blister.
 
 Wray looked at it as she looked at everything, as a measurement.
 
@@ -46,7 +46,7 @@ Lira had sat on Brom's bed with her boots on the blanket, and Brom was in his ow
 
 "I said I'd tell you something," he said. "On the first day after. It's still the first day."
 
-Karis went still, as she went still before an ignition, all of her listening at once.
+Karis laid her grey fingertips flat on her knees and kept them there.
 
 "You've been keeping something," she said slowly.
 
@@ -62,7 +62,7 @@ Then the smaller line under it.
 
 He closed the binder.
 
-Nobody spoke for a long time. Somebody in the corridor laughed and went by, and the lamp ticked.
+Nobody spoke. Somebody in the corridor laughed and went by, and the lamp ticked.
 
 "That's the condition," said Karis at last, very quietly. "That's what we were missing."
 
@@ -86,7 +86,7 @@ He had known she would ask, and he had decided long ago to answer it plainly, be
 
 "I told him to keep it off you," said Lira from the bed. "Not from you. Off. On a wall in the eleventh week. I told him again when Quenna put the match up. If you're angry, half of it's mine."
 
-Karis looked at Lira for a long moment, and then at Cael, and then at nothing, at the lamp.
+Karis looked at Lira, and then at Cael, and then at nothing, at the lamp.
 
 "I'm not angry," she said. "I don't think I'm angry. I'll have to find out." She stood up, slowly, using the wall. "You were right. Both of you. If I'd known, I'd have stood at the north mark watching for a condition, and I'd have been careful, and it would have been null." She stopped at the door with her hand on the latch. "It was the first time in my life I wasn't careful. I'd like to think about that by myself for a while, if that's all right."
 
@@ -94,7 +94,7 @@ Karis looked at Lira for a long moment, and then at Cael, and then at nothing, a
 
 Karis went out. They heard her go down the corridor toward her own room, not fast, and heard her door shut.
 
-"She'll be gone a day or two," said Lira, after a while. "That's what I'd do."
+"She'll be gone a day or two," said Lira. "That's what I'd do."
 
 "Is it bad?"
 
@@ -122,7 +122,7 @@ Lira had dropped her hands. She was not looking at his feet or his guard. She wa
 
 "Again," she said.
 
-They ran it again, and the framework was there before he asked, quick and clean, as if it had never once in its life failed to come. Through, back, through again, and it answered every time. Then on the eleventh, on a left turn he must have made ten thousand times, the pocket was empty again for half a second. He took her hand on his forearm, the good one, and did not move.
+They ran it again, and the framework was there before he asked, quick and clean. Through, back, through again, and it answered every time. Then on the eleventh, on a left turn he must have made ten thousand times, the pocket was empty again for half a second. He took her hand on his forearm, the good one, and did not move.
 
 It came back after that and stayed back, and for the rest of the hour Lira kept the pace down without ever saying she was keeping it down, and kept finding faults in her own footwork that needed stopping to discuss. She did not say the real thing until the end, when she had her back to him and was coiling the rope off the pump.
 
@@ -134,9 +134,9 @@ It came back after that and stayed back, and for the rest of the hour Lira kept 
 
 "Before breakfast."
 
-"Before breakfast. Naturally." Her face loosened by about the width of a finger. "Of everything about you, that's the one thing I'll never need to check."
+"Before breakfast. Naturally." Her face loosened. "Of everything about you, that's the one thing I'll never need to check."
 
-He wrote it at the desk by the window before the second bell, with the date and the hour and the same care he gave anything that counted. At breakfast he asked Brom for his arm, and under the table, while Brom leaned left and then right, he kept a hand on it and the read answered each time without a hitch. Afterward, in Brom's room, he tried a slow quarter push at half weight, which no reading of Lira's rule could call full. The Compression fragment caught it, he let it go, and it felt exactly as it always had. Pressure he left alone, because he had banked it for a year and knew of no way to test it that did not need a fight, and he was not going to fight.
+He wrote it at the desk by the window before the second bell, with the date and the hour and the same care he gave anything that counted. At breakfast he asked Brom for his arm, and under the table, while Brom leaned left and then right, he kept a hand on it and the read answered each time without a hitch. Afterward, in Brom's room, he tried a slow quarter push at half weight, which no reading of Lira's rule could call full. The Compression fragment caught it, he let it go, and it felt as it always had. Pressure he left alone, because he had banked it for a year and knew of no way to test it that did not need a fight, and he was not going to fight.
 
 *Friday, first light. Eighteen hours or so after the match. Wind-adjacent: gone twice in the training yard, half a second each, the third sequence and the eleventh, clean for the rest of the hour. Not slow. Absent. Iron-adjacent: clean on Brom at breakfast. Compression-adjacent: slow quarter at half weight, caught and dropped, clean. Pressure-adjacent: not tested; there is no honest test without a fight. Ember-adjacent: there. Leaving it alone until the rest settle. Lira's rule: nothing at full until three clean days in a row.*
 
@@ -146,7 +146,7 @@ He read it over, and then added the line he could not stop thinking.
 
 ---
 
-On the way to the main hall, at the place where the yard paths cross, Edran came up on his left and matched his stride. He kept his eyes on the hall door the whole time, and he stayed exactly as long as one thing took to say.
+On the way to the main hall, at the place where the yard paths cross, Edran came up on his left and matched his stride. He kept his eyes on the hall door the whole time, and he stayed only as long as one thing took to say.
 
 "I'm not asking," he said. "I'd like that understood. Not asking is the hardest thing I've done this term, and it's been a term of hard things." They took four more strides. "My withdrawal stands. Whatever you are, you're real. You're just bigger than I'd estimated, that's all."
 
@@ -156,7 +156,7 @@ On the way to the main hall, at the place where the yard paths cross, Edran came
 
 He peeled off toward the lecture wing before Cael could answer. Cael watched his back go, and thought that here was one more thing Edran had done that was not friendship and was not nothing either, and that the binder would soon want a page set aside for those alone.
 
-A little later, in the arcade by the lecture wing, the heat-Paths instructor came the other way with his slate under his arm. He did not stop. He slowed, and as he went by he looked, for two paces exactly, not at Cael's face or at the linen on the left arm but at the right hand, the one that had lain flat on the frozen earth.
+A little later, in the arcade by the lecture wing, the heat-Paths instructor came the other way carrying his slate. He did not stop. He slowed, and as he went by he looked, for two paces, not at Cael's face or at the linen on the left arm but at the right hand, the one that had lain flat on the frozen earth.
 
 "Hm," he said, and walked on.
 
@@ -168,7 +168,7 @@ Naveth was on the main hall stair, coming down. He stopped two steps above Cael,
 
 "Yes, sir."
 
-"Quenna will have something for you. Her lamp was lit until the eighth bell." Naveth came down a step and stopped again. "On your second day here I told you to thank me with your assessments." For a moment he looked very old and very tired, and a little amused. "You keep on doing it, in ways that age me. Go on."
+"Quenna will have something for you. Her lamp was lit until the eighth bell." Naveth came down a step and stopped again. "On your second day here I told you to thank me with your assessments." He looked very old and very tired, and a little amused. "You keep on doing it, in ways that age me. Go on."
 
 When Cael went back for his coat there was a note on his door, folded once and unsealed, as unceremonious as a laundry list.
 
@@ -190,7 +190,7 @@ He went through it a second time, remembering how he had once sat and watched he
 
 "And you?"
 
-For a while she did not answer, and then the drafting went out of her face altogether, for the first time since he had known her. He had seen Quenna tired, and wary, and as closed as a locked door; he had never seen her like this, with the paper set aside, a woman looking at him across a desk and weighing once more a load she had already agreed to carry.
+She did not answer straight away, and then the drafting went out of her face altogether, for the first time since he had known her. He had seen Quenna tired, and wary, and as closed as a locked door; he had never seen her like this, with the paper set aside, a woman looking at him across a desk and weighing once more a load she had already agreed to carry.
 
 "The third exchange," she said. "I won't ask. I have my ideas. They can stay in my head. I'll not write them down, and I'll not ask you to put anything into words, because once a thing is written or spoken I can't shelter it any longer. Then it's evidence." She left that there a moment. "What I need to know — not for the file, for me — is whether you can *not* do it. In front of people who wish you harm."
 
@@ -204,17 +204,17 @@ He wanted to tell her *yes*, because yes would let her sleep, and yes would keep
 
 "I don't know yet."
 
-She held his eyes for a long moment while the answer went in. It was not approval that came into her face. It was something harder and plainer than that: the respect of someone who would always choose an honest problem over a comfortable lie put on file.
+She held his eyes while the answer went in. It was not approval that came into her face. It was something harder and plainer than that: the respect of someone who would always choose an honest problem over a comfortable lie put on file.
 
 "Find out before the Compact does," said Quenna.
 
-That was the end of it. She turned the record back toward herself, laid it in a folder, and tied the tape. He went down the narrow stair carrying the sentence like a stone he had never agreed to pick up, and it stayed in him for the rest of the day.
+That was the end of it. She turned the record back toward herself, laid it in a folder, and tied the tape. He went down the narrow stair carrying the sentence, and it stayed in him for the rest of the day.
 
 ---
 
 All that day, under everything else, the new one was there.
 
-He left it alone, as he had promised Lira and written down that he would. But leaving it alone did nothing to stop him knowing where it was, any more than a letter in your coat stops being there because you have not opened it.
+He left it alone, as he had promised Lira and written down that he would. But leaving it alone did nothing to stop him knowing where it was.
 
 It was not like the others, and he kept coming back to that without ever finding the bottom of it. The four he had carried longest lay in him the way a craftsman's tools lie rolled in their cloth, each one separate and silent until wanted, and each so much his own by now that he could no longer feel the seam where it had been joined to him. The fifth was nothing but seam. It sat warm, not hot, doing nothing that any instrument on any panel's table would ever have registered: only a faint, even warmth, like a stone in a sunny wall still giving back the afternoon after the sun has gone.
 
@@ -222,7 +222,7 @@ And in the warmth there was something he knew, from six weeks spent learning it:
 
 Late in the afternoon he sat at the desk by the window with the bad arm in his lap, and for the first time he let himself look at that.
 
-He had carried the oldest of the four since Ardenmere and never once noticed a person in any of them. Or he had never let himself notice. He did now. He turned toward the Wind-adjacent with great care, not reaching for it, only paying attention, the way you might stand in a room you know well when the light comes in at a new angle. It was there, and it had been there all along: a quickness that had never been his, a habit of leaving early off the back foot, a stubbornness in the turn. Lira. Lira in a freezing yard in Ardenmere, teaching a boy to stay alive because a boy who did not learn would not see the month out. Under the read lay Brom's patience. Under the redirect lay a weight he had met once across a chalk line, from a Bronze fighter who had beaten him fair. And low in his chest, under the Compression, was a ferocity that had once faced him in front of six hundred people and very nearly finished him.
+He had carried the oldest of the four since Ardenmere and never once noticed a person in any of them. Or he had never let himself notice. He did now. He turned toward the Wind-adjacent with great care, not reaching for it, only paying attention. It was there, and it had been there all along: a quickness that had never been his, a habit of leaving early off the back foot, a stubbornness in the turn. Lira. Lira in a freezing yard in Ardenmere, teaching a boy to stay alive because a boy who did not learn would not see the month out. Under the read lay Brom's patience. Under the redirect lay a weight he had met once across a chalk line, from a Bronze fighter who had beaten him fair. And low in his chest, under the Compression, was a ferocity that had once faced him in front of six hundred people and very nearly finished him.
 
 All this time he had been carrying his people with him. Not as the saying meant it. As the words meant it, taken at their word.
 
@@ -260,7 +260,7 @@ He waited.
 
 "Did she." Lira almost smiled. "Then we worked it out separately, the two of us. Without clauses. I think that's the first time she's ever arrived anywhere without writing it down first."
 
-They sat a long time after that, until the cold had come right through his coat and into the burn, and the burn had begun to ache in the slow dull way that he knew meant it was starting to mend.
+They sat on after that, until the cold had come right through his coat and into the burn, and the burn had begun to ache in the slow dull way that he knew meant it was starting to mend.
 
 "The first day after," said Lira. "You told her. All of it."
 
@@ -268,4 +268,4 @@ They sat a long time after that, until the cold had come right through his coat 
 
 "Good." She stood up off the wall and shook out her coat. "Then I'm not holding anything with you any more that she doesn't know. That's a weight off." She looked down at him. "It's lighter than I thought it'd be. Isn't that strange. I thought I'd miss it."
 
-She went in. He stayed on the wall a while longer with his arm against his chest, and found that he was not afraid of anything that night; he was only tired, all the way through, as a field is tired after harvest.
+She went in. He stayed on the wall a while longer with his arm against his chest, and he was not afraid of anything that night; he was only tired, all the way through, as a field is tired after harvest.

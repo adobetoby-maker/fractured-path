@@ -20,7 +20,7 @@ It was all on one page now. The concession first, plain and whole: the enrollmen
 
 At the second bell a lamp came past the end of the long table, going toward the back, and stopped.
 
-Karis had a satchel on one shoulder and a long flat box under the other arm, and dust on her cuffs already, though the day had barely started. She looked at his empty table the way Prynn had.
+Karis had a satchel on one shoulder and a long flat box under the other arm, and dust on her cuffs already, though the day had barely started. She looked at his empty table just as Prynn had.
 
 "You've stopped," she said.
 
@@ -38,37 +38,33 @@ Karis had a satchel on one shoulder and a long flat box under the other arm, and
 
 ---
 
-The road up from the town had been cut for carts, not for comfort, and the hired coach took it as if every turn were a personal disappointment.
+The road up from the town had been cut for carts, not for comfort, and the hired coach took every turn of it as a personal disappointment.
 
-Havel sat with the recording case on his knees and both hands flat on its lid, and he let the lurching go up through him without bracing against it, because two days of it had taught him that bracing only made the bruises in different places. The case was a sloped box of dark wood with brass corners, heavier than it looked. Inside it were the two spindles and the long ruled roll between them, a rack of pens, a stoppered ink, a pounce pot, and a small brass sand-glass that he would turn every quarter-hour of every sitting and mark in the margin. Every recorder in the service carried one exactly like it. His had been issued with the grade, in the summer, and he had not yet stopped being a little surprised to find it in his own hands.
+Havel sat with the recording case on his knees and both hands flat on its lid, and let the lurching go up through him, because two days had taught him that bracing only moved the bruises. The case was a sloped box of dark wood with brass corners: two spindles and the long ruled roll between them, pens, a stoppered ink, a pounce pot, and a small brass sand-glass that he would turn every quarter-hour of every sitting and mark in the margin. It had come with the grade, in the summer, and it still surprised him a little to find it in his own hands.
 
-Across from him Magistrate Yorlan was reading.
+Across from him Magistrate Yorlan was reading the thin volume he had read for two days, with a grey rug over his knees and a finger keeping his place on the turns. He was a long narrow man in the plain grey a magistrate of the Compact wore on the road and in the chair, and he had not complained about the inns or the bread, or said anything that was not a question about the next stage. Havel had recorded three of his hearings as a junior. In none of them had Yorlan asked a question to which he did not already know the answer, or raised his voice.
 
-He had read the same thin volume for two days, with a grey rug folded over his knees and his finger keeping his place on the turns. He was a long narrow man in the plain grey a magistrate of the Compact wore on the road and in the chair, and he had not complained about the inns or the bread or the coach, or said anything at all that was not a question about the next stage. Havel had sat as a junior recorder in three of his hearings, before the grade, and in all three Yorlan had asked no question to which he did not already know the answer, and had never once raised his voice.
+Beside the magistrate, Assessor Ilsev was reading the academy's public calendar, which she had asked for at the last inn, and her lips moved very slightly on the dates. The records officer was asleep against the window.
 
-Beside the magistrate, Assessor Ilsev had a copy of the academy's public calendar on her knee, which she had asked for at the last inn and been given. She was reading it as she read everything, and her lips moved very slightly on the dates.
+Havel looked past them all at the hill: a grey wall, a gate, a cluster of old roofs, and one clean new building standing above them like a man who had come to the wrong party in his best coat. Nobody in the regional office had ever needed to think about a place like this. After this week, he supposed, a good many people would.
 
-The records officer was asleep against the window.
+He did not take out his notebook. He knew both entries by heart, and it was not a thing he read in front of people.
 
-Havel looked past them all at the hill: a grey wall, a gate, a cluster of old roofs, and one clean new building standing above them like a man who had come to the wrong party in his best coat. It was an academy, then, though not much of one. It was the kind of place nobody in the regional office had ever needed to think about. After this week, he supposed, a good many people would.
+The first was dated a little more than a year back and written in a district office with one window on an alley. It concerned a market, and a boy of fifteen who had answered every question exactly and not one word past it, more settled than the officer questioning him. Then there was a marker in the boy's file that Havel had not placed and could not trace. *File and subject do not match. Marker origin not found. Noted.*
 
-He did not take out his notebook, because he did not need to; he knew both entries by heart, and in any case it was not a thing he read in front of people.
+The second was shorter: a classification manual opened for the first time in four years, and a designation the manual reserved for something nobody could have mistaken the boy for. He had drafted a query twice and sent it. The reply came within the afternoon, four lines long, from the officer whose name stood on the file as its supervising contact, telling him to follow standard procedure and file his reports. *Asked. Told to stop. Stopped.*
 
-The first was dated a little more than a year back and written in a district office with one window on an alley. It concerned a market, and a boy of fifteen who had answered every question exactly and not one word past it, sitting in front of a compliance officer more settled than the officer was. Then there was a marker in the boy's file that Havel had not placed and could not trace. *File and subject do not match. Marker origin not found. Noted.*
+Since then the notebook had gained nothing. He had told himself that this was because nothing had happened, and he was honest enough to know that it was half true.
 
-The second was later, and shorter: a classification manual opened for the first time in four years, and a designation that the manual reserved for something nobody could have mistaken the boy for. He had drafted a query twice and sent it. The reply had come within the afternoon, four lines long, from the officer whose name stood on the file as its supervising contact, telling him to follow standard procedure and to file his reports. *Asked. Told to stop. Stopped.*
-
-That was all there was, and he had written nothing in the notebook since. He had told himself more than once that this was because nothing had happened, and he was honest enough to know that it was half true.
-
-The coach came round the last turn and stopped at the gate, and the records officer woke with a start and said, "Are we there?" in the voice of a man who had been somewhere else entirely.
+The coach came round the last turn and stopped at the gate, and the records officer woke and said, "Are we there?" in the voice of a man who had been somewhere else entirely.
 
 ---
 
 The officer of record was waiting inside the gate.
 
-Havel saw him as he handed the case down to the porter and climbed down after it, and for a moment he did not move. He had expected it, because he had read the delegation's papers on the first night at the inn, every line, and the name had been there at the head of them where it had to be. Expecting a thing was not the same as standing in a cold yard looking at it.
+Havel saw him as he handed the case down to the porter, and stood where he was. The name had been at the head of the delegation's papers, where it had to be. Expecting a thing was not the same as standing in a cold yard looking at it.
 
-Warden Coss was older than Havel had pictured, and more tired. He wore road-coloured clothes and stood with his hands at his sides, with a young man with two satchels a half-step behind him. He greeted the magistrate first, as procedure required, and then Assessor Ilsev of the senior evaluation seat, and then the records officer, who was still trying to find his hat. Then he turned to Havel.
+Warden Coss was older than Havel had pictured, and more tired. He wore road-coloured clothes and stood with his hands at his sides, a young man with two satchels a half-step behind him. He greeted the magistrate first, as procedure required, then Assessor Ilsev of the senior evaluation seat, then the records officer, who was still looking for his hat. Then he turned to Havel.
 
 "Assessor Havel," he said. "Recording officer now, I see. You've a new grade."
 
@@ -76,9 +72,9 @@ Warden Coss was older than Havel had pictured, and more tired. He wore road-colo
 
 Coss looked at the case in the porter's arms. "It suits you. You were always careful." He said it plainly, with no weight on it at all, and turned back to the magistrate before Havel could decide what to do with it.
 
-They had met once before, in a corridor at the regional office, for the length of a nod, and Havel knew the man's handwriting far better than his face. He knew one short reply in that hand by heart.
+They had met once, in a corridor at the regional office, for the length of a nod. Havel knew the man's handwriting far better than his face, and one short reply in that hand by heart.
 
-The provost had come down to the gate himself. He was a lean grey man in his sixties with a long weathered face, and he shook the magistrate's hand and named himself and the academy as if neither needed much introduction. Then he walked Yorlan across the yard toward the old building, and the rest of them came behind in a loose line, with Havel at the end of it beside the porter and the case. So he heard the magistrate's two questions, because Yorlan did not lower his voice for anything.
+The provost had come down to the gate himself, a lean grey man in his sixties with a long weathered face. He shook the magistrate's hand, named himself and the academy, and walked Yorlan across the yard toward the old building. The rest came behind in a loose line, Havel at the end of it beside the porter and the case, so he heard the magistrate's two questions; Yorlan did not lower his voice for anything.
 
 The first came halfway across the yard.
 
@@ -86,19 +82,19 @@ The first came halfway across the yard.
 
 "Two hundred on the benches," said the provost. "More standing at the back, if the doors are left open."
 
-"They'll be left open," said Yorlan. "The record is public." He walked on a few paces. Students had stopped in the yard to watch them pass, and he did not look at any of them. "And who speaks for the respondent?"
+"They'll be left open," said Yorlan. "The record is public." Students had stopped in the yard to watch them pass, and he did not look at any of them. "And who speaks for the respondent?"
 
 The provost took a moment before he answered.
 
-"The academy's counsel speaks for the academy, Magistrate," he said. "The respondent, I'm told, will speak for himself."
+"The academy's counsel speaks for the academy, Magistrate. The respondent, I'm told, will speak for himself."
 
 Yorlan did not break stride.
 
 "Noted," he said, and asked nothing else. They went in at the door of the old building, and the line went in after them.
 
-Havel stopped on the step with the case, and did not know why he stopped; perhaps it was only that the porter had stopped first, to shift his grip. He turned round and looked back across the yard, at the chalk lines and the stone and the students pretending not to stare, and up at the windows of the long uneven building on the far side.
+Havel stopped on the step, because the porter had stopped first to shift his grip, and looked back at the chalk lines and the students pretending not to stare, and up at the windows of the long uneven building on the far side.
 
-There was nobody at any of them that he could see, only a boy sitting on a low wall at the end of the yard, with two others beside him, a stocky one and a girl with her knees drawn up. At that distance Havel could not have said for certain who any of them were.
+Nobody was at the windows. There was only a boy on a low wall at the end of the yard, with a stocky one and a girl with her knees drawn up beside him, too far off for Havel to say who any of them were.
 
 He went in.
 
@@ -116,7 +112,7 @@ Lira turned her head and looked at him properly.
 
 "The one who threw her own regulation out," she said slowly. "When you showed her it didn't fit."
 
-"She read it again herself, in front of me. Her lips moved." He had not thought about that in a long time, and now it came back exactly: the cramped office, the handbook, a woman of about forty going quiet over a definitions clause because a fourteen-year-old had pointed at it. "She said she wouldn't misapply a regulation to suit somebody's timeline. She said it to the Warden, through the wall."
+"She read it again herself, in front of me. Her lips moved." It came back whole as he said it: the cramped office, the handbook, a woman of about forty going quiet over a definitions clause because a fourteen-year-old had pointed at it. "She said she wouldn't misapply a regulation to suit somebody's timeline. She said it to the Warden, through the wall."
 
 Brom put down his spoon.
 
@@ -124,7 +120,7 @@ Brom put down his spoon.
 
 "To Coss."
 
-They watched her go in at the door of the old building. The young man came last, after the records officer, behind a porter carrying a wooden case with brass corners, and he stopped on the step and turned and looked back across the yard. For a moment his face came round toward the wall where they sat, and Cael held quite still without deciding to until the young man had gone in.
+They watched her go in at the door of the old building. The young man came last, after the records officer, behind a porter carrying a wooden case with brass corners, and he stopped on the step and turned and looked back across the yard. His face came round toward the wall where they sat, and Cael held quite still without deciding to until the young man had gone in.
 
 "And him," said Cael quietly. "He came to the market in Ardenmere once, on a compliance visit. He asked his questions and wrote his answers and stamped me compliant." He was silent a moment. "And then he wrote one more thing that wasn't on his list. I watched the pen. It went somewhere in the file it hadn't gone before."
 
@@ -170,7 +166,7 @@ He went up the narrow stair at the back of the main hall and knocked, and she sa
 
 "I'll be there."
 
-"I know you'll be there. Sit." He sat, and she looked at him across the bare desk for a while, as if she were reading something written on him that was not on the sheet, before she went on. "Under the charter's procedure a deponent may be attended. One person, sitting behind him, without voice. The same procedure that let the Warden sit at the back of your sixth sitting with his pen." The corner of her mouth did not move. "I've given notice that I'll attend. I can't speak. I can't touch your sleeve. I can't so much as clear my throat in a meaningful way. I'll be there so you know where I am, and for no other reason."
+"I know you'll be there. Sit." He sat, and she looked at him across the bare desk before she went on. "Under the charter's procedure a deponent may be attended. One person, sitting behind him, without voice. The same procedure that let the Warden sit at the back of your sixth sitting with his pen." The corner of her mouth did not move. "I've given notice that I'll attend. I can't speak. I can't touch your sleeve. I can't so much as clear my throat in a meaningful way. I'll be there so you know where I am, and for no other reason."
 
 "Thank you."
 
@@ -178,7 +174,7 @@ He went up the narrow stair at the back of the main hall and knocked, and she sa
 
 He waited, and she let him wait long enough to know that she meant him to.
 
-"One. Empty hands." She held hers up, palms out, as if to show him. "No notes. No outline. No pencil in your pocket to turn over. You walk in with nothing and you sit with nothing. A deponent with papers in front of him looks as if he's prepared to be careful with the truth. A deponent with nothing in front of him looks as if he expects the truth to be enough. It isn't fair, and it has nothing to do with reason. It's how a room reads, and I've sat on the far side of that table for twenty years."
+"One. Empty hands." She held hers up, palms out. "No notes. No outline. No pencil in your pocket to turn over. You walk in with nothing and you sit with nothing. A deponent with papers in front of him looks as if he's prepared to be careful with the truth. A deponent with nothing in front of him looks as if he expects the truth to be enough. It isn't fair, and it has nothing to do with reason. It's how a room reads, and I've sat on the far side of that table for twenty years."
 
 "Empty hands."
 
@@ -188,13 +184,13 @@ He waited, and she let him wait long enough to know that she meant him to.
 
 "Three is the whole of it." Quenna leaned forward a little. "Answer the question asked. Never the question implied."
 
-He sat with that, and turned it over, and found that it was simpler than it sounded and harder than anything else she had said.
+He sat with that and turned it over: simpler than it sounded, and harder than anything else she had said.
 
 "He'll ask plain questions," she said. "He won't trap you. Traps are for cases that need them, and his doesn't. Every plain question will have a plain answer, and every plain answer will be one stone in a wall he's building. You won't see the wall's shape until it's finished. That's the craft of it. Under every plain question there'll be another one, the one he'd like you to answer instead. *Did you know?* *Were you hiding it?* *What are you?* He'll never ask those. He'll ask what's next to them, and wait to see if you reach over." She sat back in her chair, as if she had laid the last stone herself. "Don't reach."
 
 "Ask me one," said Cael.
 
-She looked at him for a moment, and then, without changing her voice at all, she began.
+She looked at him, and then, without changing her voice at all, she began.
 
 "You've demonstrated before the panel six times."
 
@@ -232,7 +228,7 @@ He stopped at the door with his hand on the frame.
 
 "The senior assessor," he said. "Ilsev. I've met her."
 
-"I know. I read your old file before I ever went to Ardenmere." Quenna was already sitting down again and reaching for the next folder on the shelf. "She'll read every word of yours and every word of his, in order, past the place where anybody else would stop. If there is anything at all in either case that isn't so, she'll find it." She opened the folder and did not look up from it. "So don't have anything in yours that isn't."
+"I know. I read your old file before I ever went to Ardenmere." Quenna was already sitting down again and reaching for the next folder on the shelf. "She'll read every word of yours and every word of his, in order, past the place where anybody else would stop. If there is anything at all in either case that isn't so, she'll find it." She opened the folder, and told it the rest. "So don't have anything in yours that isn't."
 
 ---
 
@@ -240,7 +236,7 @@ He went to the archive after supper, because that was where he went.
 
 Karis was already at the long table, in from the founding shelves with the long flat box set at her elbow and the fourth volume of the schedule open in front of her, her pen lying capped beside it. She did not look up when he sat down across from her, and he did not speak, because a second reader who was spoken to while reading was, he supposed, an echo with an interruption.
 
-He did not open anything, because he had nothing left to open. He sat with his hands on the wood and watched her read, and after a while he found that watching her read was a kind of work too. She read the way she watched a point in its last third of a breath, wholly, as though there were nothing else in the building. Every so often she stopped and turned back a page and read it again, and then went on, and he did not let himself wonder what had made her turn back.
+He did not open anything, because he had nothing left to open. He sat with his hands on the wood and watched her read, and watching her read turned out to be a kind of work too. She read the way she watched a point in its last third of a breath, wholly. Every so often she stopped and turned back a page and read it again, and then went on, and he did not let himself wonder what had made her turn back.
 
 Prynn's lamp burned at the high desk, and neither of them mentioned the hour.
 
@@ -262,6 +258,6 @@ He went up, and at the desk by his window he wrote it down before he slept, in t
 
 *K. is on volume four, she says, and that's all she says.*
 
-He looked at it for a while, and then added one more line underneath, smaller than the rest.
+He looked at it, and then added one more line underneath, smaller than the rest.
 
 *Outline whole. I don't trust whole.*

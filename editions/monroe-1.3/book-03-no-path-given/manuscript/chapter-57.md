@@ -2,7 +2,7 @@
 
 Prynn brought the code herself.
 
-Cael saw her come in at the side door of the assembly room a little before the first bell, while the benches were still filling, and for a moment he did not understand what he was looking at. She was carrying the first volume of the charter against her chest in both arms, as if it might break. She had carried it to the long table like that on the first full morning of the three weeks. Behind her came Hobb, with a stack of dark-spined volumes balanced on his forearms from his elbows to his chin. The bundled fascicles hung their faded tapes over the top of the stack like the roots of something dug up whole. Behind Hobb came Brom with the rest.
+Cael saw her come in at the side door of the assembly room a little before the first bell, while the benches were still filling, and at first he did not understand what he was looking at. She was carrying the first volume of the charter against her chest in both arms. She had carried it to the long table like that on the first full morning of the three weeks. Behind her came Hobb, with a stack of dark-spined volumes balanced on his forearms from his elbows to his chin. The bundled fascicles hung their faded tapes over the top of the stack like the roots of something dug up whole. Behind Hobb came Brom with the rest.
 
 They set it all down on the respondent's table, the charter's three volumes and the schedule's seven and the fascicles in their order. Prynn squared each one against the edge with the side of her hand as it went down, until the bare table of yesterday had a low dark wall along its far side. Then she stood back and looked at it.
 
@@ -18,11 +18,11 @@ Nobody asked her what it was for. Cael did not ask either. He looked at it a mom
 
 The room was fuller than yesterday, if that was possible. The people who did not belong to the hill had multiplied overnight. There were two more grey coats, and a man with the look of an academy's provost about him, sitting beside the woman in dark blue. At the back stood a cluster of people from the town who could not have said a word about the charter and had come anyway. Somewhere over the winter the town had decided that the observer was its own. He saw the draper, who let a room over her shop to people's mothers, standing by the back wall with her shawl over her head. He saw the station clerk from the grey building at the corner, without his ledger. He did not see the old woman in black with the cushion, and then he did; she had moved nearer the front.
 
-Oona was on the front bench at the left by the aisle, in the same place as yesterday, with her slate on her knees. She was not writing. She was looking at the respondent's table with her whole face.
+Oona was on the front bench at the left by the aisle, in the same place as yesterday, with her slate on her knees. She was not writing. She was watching the respondent's table.
 
-Quenna came in by the side door and did not come to the table. She went to the row of chairs set a little back from it, where the academy's counsel and Naveth already sat. She took the chair at the end nearest the table and put her slate on her knee. She did not look at him. Cael felt her there exactly as she had said he would.
+Quenna came in by the side door and did not come to the table. She went to the row of chairs set a little back from it, where the academy's counsel and Naveth already sat. She took the chair at the end nearest the table and put her slate on her knee. She did not look at him. Cael felt her there, as she had said he would.
 
-He sat down alone at the respondent's table, in front of the low dark wall of books, and put his hands flat on the wood for a moment, and took them off again.
+He sat down alone at the respondent's table, in front of the low dark wall of books, and put his hands flat on the wood, and took them off again.
 
 ---
 
@@ -80,7 +80,7 @@ He did not reach for any of the books yet.
 
 "I read the code the way I'd read anybody I had to fight," he said. "Not for what each part can do to me. For what each part is standing on." He held his left hand out flat, palm down, at the height of his chest, and set his right hand flat beneath it. "The Compact's powers over a practitioner are all in the enforcement chapters: every sanction, every order, every removal. But the enforcement chapters can only make you answer for an obligation, and the obligations only fall on you once you've been classified. So the powers rest on the obligations, and the obligations rest on classification." He lowered the left hand onto the right, and then moved both down to the table. "And classification rests on one sentence. One. In the whole of the code there's only one place that says what the word means, and it's the first article of the charter. If you want to know how far the Compact can reach, there's no point starting with the enforcement chapters, where the reaching is. You start at the foot of it."
 
-He drew the first volume of the charter out of the low wall of books by its spine, as Karis had made him do eleven times, and opened it at the first article after the preamble, and laid his finger on the line.
+He drew the first volume of the charter out of the low wall of books by its spine, as he had practised it, and opened it at the first article after the preamble, and laid his finger on the line.
 
 He read it slowly.
 
@@ -108,7 +108,7 @@ Havel had recorded a great many things since the summer. He had recorded deposit
 
 Havel wrote it.
 
-He wrote it in the service's short hand, the little hooks and bars that let a recorder keep up with the fastest witness, and he found within a quarter of a page that he hardly needed them. The boy did not read fast. He read at the pace of somebody who meant every word to be written down, clearly, a little slower than speech, and he stopped at the end of every entry for exactly as long as it took a pen to finish it. Havel noticed that by the fourth entry. By the tenth he understood that the boy had noticed the pen first, and had set his pace by it.
+He wrote it in the service's short hand, the little hooks and bars that let a recorder keep up with the fastest witness, and within a quarter of a page he hardly needed them. The boy did not read fast. He read at the pace of somebody who meant every word to be written down, clearly, a little slower than speech, and he stopped at the end of every entry for exactly as long as it took a pen to finish it. Havel noticed that by the fourth entry. By the tenth he understood that the boy had noticed the pen first, and had set his pace by it.
 
 Every Path family had its name, and under it its ladder of tiers, Copper to Gold and the rank within each, and under that the notes of its admission: the year it was entered, the amendment that had entered it, any condition that had been attached. The boy read all of it. He read Stone with its four old notes and its one new one. He read Wind. He read Iron Skin, and Havel heard the stocky boy on the front bench shift his weight at the name and go still again. He read Glass and Blade and Ash and Anchor. He read the compound designations, which Havel had not known there were so many of, and the lineage variants, each with the district that had argued for it and the year it had been allowed.
 
@@ -144,7 +144,7 @@ He went on writing. His hand ached, and he let it.
 
 The Warden stood up at the turn of the third quarter-hour.
 
-Havel saw him rise before anybody spoke, and his own pen stopped of itself, a finger's width above the roll, waiting.
+Havel saw him rise before anybody spoke, and his own pen stopped of itself above the roll, waiting.
 
 Coss's voice was as level as it had been all day yesterday. "The Compact will stipulate, Magistrate, that the respondent's designation has no entry in any part of the schedule. It will put that in writing. To spare the panel the rest of the morning—"
 

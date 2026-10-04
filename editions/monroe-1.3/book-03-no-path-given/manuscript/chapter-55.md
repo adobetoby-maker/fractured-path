@@ -26,7 +26,7 @@ Edran said it. He said it as he had said he would, plainly, in the flat honest v
 
 "Thank you," said counsel, and sat down.
 
-Lira let out a breath she had not known she was keeping.
+Lira let her breath go.
 
 "The officer of record may put questions," said the magistrate.
 
@@ -48,7 +48,7 @@ Edran did not look at the respondent's table. He looked at the Warden.
 
 It went through the gallery like cold water.
 
-Lira felt it go. She felt the two second-years by the window lean together, and heard the tout's pencil, and she watched the back of Cael's head and saw it not move. The Warden did not underline the answer. He did not turn to the panel or say *thank you* in the way men say it when they have been handed exactly what they came for. He only said, "Thank you. Nothing further," and sat down. He left the answer standing in the middle of the floor by itself, where it looked much larger than if he had pointed at it.
+Lira felt it go. She felt the two second-years by the window lean together, and heard the tout's pencil, and she watched the back of Cael's head and saw it not move. The Warden did not underline the answer. He did not turn to the panel or say *thank you* in the way men say it when they have been handed what they came for. He only said, "Thank you. Nothing further," and sat down. He left the answer standing in the middle of the floor by itself, where it looked much larger than if he had pointed at it.
 
 Edran did not leave the chalk square at once.
 
@@ -56,7 +56,7 @@ Edran did not leave the chalk square at once.
 
 "The panel notes it," said the magistrate, and Edran went back to his bench with his flat honest face giving nothing away, and sat down, and folded his arms.
 
-Lira found, to her own annoyance, that she wanted to stand up and shake his hand. She sat on her own hands instead.
+To her own annoyance, Lira wanted to stand up and shake his hand. She sat on her own hands instead.
 
 Hobb took less time.
 
@@ -80,7 +80,7 @@ The Warden looked at Hobb for a moment across the boards, and Lira, watching, co
 
 "Nothing further," said the Warden.
 
-Hobb went back through the rope and sat down beside Edran, and Edran moved along the bench a hand's width to give him room without looking at him, and that was all. In front of Lira, Oona bent over her slate and wrote something and underlined it twice, and Lira did not need to see it. She would have bet her bread it said *two b's*, or *eight words*, or both.
+Hobb went back through the rope and sat down beside Edran, and Edran moved along the bench to give him room without looking at him, and that was all. In front of Lira, Oona bent over her slate and wrote something and underlined it twice, and Lira did not need to see it. She would have bet her bread it said *two b's*, or *eight words*, or both.
 
 It was the best testimony anybody would give all day, Lira thought, and nobody in the room but Brom would know it.
 
@@ -124,7 +124,7 @@ The gallery made no sound for a moment. Then it made a low, confused one, and th
 
 And the Warden stood beside his cases and let it lie, as he had let everything lie, and Lira understood for the first time why Cael had stopped being angry at him. The man had not twisted it. He had not needed to. He had read the boy's own words exactly as they were said, the nine counts included. The words were true, and they were the best thing in his whole case, and he had set them down without once pretending they were anything else.
 
-She was still not allowed to hit him. She found that she no longer particularly wanted to, and she found that worse.
+She was still not allowed to hit him. She no longer particularly wanted to, and she found that worse.
 
 "The panel will rise for the midday interval," said the magistrate. "The sitting resumes at the fifth bell."
 
@@ -132,9 +132,9 @@ She was still not allowed to hit him. She found that she no longer particularly 
 
 Brom was the one who found the corner.
 
-The yard had filled the moment the doors opened, all of it in knots, all of it talking low, and the four of them came out into it and found that every knot turned to look. Brom did not say anything. He walked them across the yard as if he were carrying something heavy that might slip, round the end of the lecture wing, to the narrow angle where its end wall met the old wall of the yard, out of the wind and out of the way, with nothing in it but a broken barrow. He stood in the mouth of the angle with his back to the yard and folded his arms, and the yard, after a moment, found something else to look at.
+The yard had filled the moment the doors opened, all of it in knots, all of it talking low, and the four of them came out into it and every knot turned to look. Brom did not say anything. He walked them across the yard, round the end of the lecture wing, to the narrow angle where its end wall met the old wall of the yard, out of the wind and out of the way, with nothing in it but a broken barrow. He stood in the mouth of the angle with his back to the yard and folded his arms, and the yard, after a moment, found something else to look at.
 
-Lira had the heel of a loaf in her coat, because she always did. She broke it and gave Cael the larger part. He held it and did not eat it.
+Lira had the heel of a loaf in her coat, because she always did. She broke it and gave Cael half. He held it and did not eat it.
 
 Karis did not wait for anybody to begin. She had her notebook shut under her arm, which in Karis meant that everything she needed was already written down and she was only thinking now.
 
@@ -156,7 +156,7 @@ Cael was looking at the same door. He had not eaten any of the bread.
 
 "Someone who commits later," he said.
 
-Brom nodded, once, as if a lift had been called right, and turned back to the yard.
+Brom nodded, once, and turned back to the yard.
 
 Lira waited until Karis had gone to the pump for a cup of water and Brom had gone with her, because there was a question she did not want to ask in front of either of them.
 
@@ -168,7 +168,7 @@ Lira waited until Karis had gone to the pump for a cup of water and Brom had gon
 
 "I didn't know either," said Cael. He looked at the bread in his hand and finally ate some of it, slowly. "He hasn't put one thing on me. All of it's on the enrollment, and I'm going to give him the enrollment before I say anything else. All day he's been making me somewhere to stand." He swallowed. "Even the last thing. The *no*. That was always going to be his. All I did was hand it over on the Wednesday instead of the Monday."
 
-She watched him finish the bread, all of it. She watched him wipe his fingers on his coat and lay his hand flat over the inside pocket for a moment, where she knew her slip lay against Brom's page. When the fifth bell went across the yard he straightened off the wall, and she checked his shoulders out of habit, and they were exactly where they belonged. He walked back across the yard at an even pace with his hands empty, and the knots of people at the door moved apart to let him through.
+She watched him finish the bread, all of it. She watched him wipe his fingers on his coat and lay his hand flat over the inside pocket, where she knew her slip lay against Brom's page. When the fifth bell went across the yard he straightened off the wall, and she checked his shoulders out of habit, and they were where they belonged. He walked back across the yard at an even pace with his hands empty, and the knots of people at the door moved apart to let him through.
 
 She stood in the angle of the walls and watched him go in. Her hands had made fists in her coat pockets without asking her, and she let them stay that way all the way back to her bench.
 

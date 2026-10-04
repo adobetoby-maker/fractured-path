@@ -6,11 +6,11 @@ It was the middle of the morning on the Monday of the nineteenth week, between t
 
 There were two travellers at the clerk's booth. One was young, with a satchel on each shoulder and a case in each hand, standing the half-step back that an aide stands from the person he carries for. The other was older, in plain travelling clothes the colour of the road, and he was holding out a small stamped seal on a card, and waiting.
 
-The clerk had it in her inky fingers and was turning it over. She looked at it a long time, much longer than she looked at anything that came through her booth, and Cael watched her look and knew what the look was. It was the look of somebody checking a thing against her memory and finding nowhere in her memory to put it. She said something. The older man answered, patiently, and took a second paper from a document case under his arm, folded once, the sort of extra proof a careful traveller carries for exactly this moment. The clerk read it, and put her finger on her list, and found something on the list, and the gate opened as it opened for anybody the list expected.
+The clerk had it in her inky fingers and was turning it over. She looked at it much longer than she looked at anything that came through her booth, and Cael watched her look and knew what the look was. It was the look of somebody checking a thing against her memory and finding nowhere in her memory to put it. She said something. The older man answered, patiently, and took a second paper from a document case under his arm, folded once, the sort of extra proof a careful traveller carries for such a moment. The clerk read it, and put her finger on her list, and found something on the list, and the gate opened as it opened for anybody the list expected.
 
 The second paper he never needed to see.
 
-He had sat across a borrowed desk from that patience once, a long time ago, in Ardenmere, with his hands pressed together on his knees and a paper of his own that he had found in a district archive in two days. He had learned its shape that afternoon without meaning to: a man who wrote everything down and never seemed to hurry, and never once, in the whole afternoon, wrote anything that was not so. The shape was older now, and more travelled, and there was more grey in it. It was built the same way underneath.
+He had sat across a borrowed desk from that patience once, in Ardenmere, with his hands pressed together on his knees and a paper of his own that he had found in a district archive in two days. He had learned its shape that afternoon without meaning to: a man who wrote everything down and never seemed to hurry, and never once, in the whole afternoon, wrote anything that was not so. The shape was older now, and more travelled, and there was more grey in it. It was built the same way underneath.
 
 He watched Coss cross the yard.
 
@@ -32,7 +32,7 @@ Prynn looked at him over her spectacles from the high stool.
 
 "Whatever it is," she said, "the shelves will still be here."
 
-It was the nearest thing to comfort the archive had in it, and he understood as he went out that it was meant as exactly that. It did more work in him on the way up the stair than it had any right to.
+It was the nearest thing to comfort the archive had in it, and he understood as he went out that she had meant it so. It did more work in him on the way up the stair than it had any right to.
 
 The walk took four minutes, and he spent every one of them counting, because counting was easier than looking at the one thing he was not ready to look at. Fourteen students crossing the yard. Three crows along the kitchen ridge. His boots loud on the flags and then quiet on the trodden earth, and the wind cold on one cheek. He had rehearsed this day since Denvash in more versions than he could number, and in every one of them it had come as a knock: a courier on Hesk's front step on the second morning, one knock, a polite wait, a satchel. In none of them had it come as a patient man in road-coloured clothes holding up a seal at a gate, and the gate swinging open for him because nothing about him was wrong.
 
@@ -70,13 +70,13 @@ He was older; that was the first thing Cael's eyes took in after the counting. T
 
 Quenna's eyes went to the empty chair, and Cael sat.
 
-He found his voice was steadier than he had expected. "You've come a long way from your district."
+His voice came out steadier than he had expected. "You've come a long way from your district."
 
 "I have. That needs explaining first." Coss took something small from the case and held it so the room could see it. It was a card, stamped and plainly printed, not much bigger than a playing card, and Naveth did not look at it. He had seen it already, Cael realized, alone, before anybody went to fetch the observer from the archive.
 
 "'Warden' was never a town title," said Coss.
 
-He let it sit for a moment in the quiet office, the way a careful man lets a weight settle on a scale before he reads it.
+He let it settle in the quiet office.
 
 "Districts hear the word and think of a man with a lantern and a list of lost dogs. The Compact lets them think it, because a district opens its gate to a Warden and has to be talked into opening it for a field agent." He tapped the card once against his knee. "That's what I am, and have been for a long time. I'm not a local officer who took an interest. Your file came to my desk in the week you Kindled. I've held it ever since, from as far off as the assignment wanted me to hold it." He put the card face down on the case. "Greyvane changed the assignment."
 
@@ -116,7 +116,7 @@ At the door, with the case under his arm, Coss paused and looked back, and that 
 
 "You were fourteen," he said. "You came into that office in Ardenmere with a paper you'd found in two days, and it was right, and I had to concede it. I was as gentle that afternoon as the work allowed. I hoped that was the part you'd remember." He did not look away, and he did not soften. "This is also the job. Hear that as plainly as I can say it. It isn't easier for being true. It isn't less true for being hard."
 
-Then he went, and they heard him on the worn stair, unhurried, and his voice for a moment on the landing, saying something to the aide, and then nothing.
+Then he went, and they heard him on the worn stair, unhurried, and his voice on the landing, saying something to the aide, and then nothing.
 
 Naveth let out a breath. "Counsel," he said, to nobody in particular, and reached for a pen and a clean sheet, as if the morning could still be put into an order.
 
@@ -138,7 +138,7 @@ She went back up the stair, and he went on down it alone, one hand on the cold w
 
 Coss had meant every word, and that was what Cael kept turning over on the way down, because it was the hardest part to hold. He knew how to be angry at cruelty, since cruelty told you where to aim, but nobody in that office had been cruel. A decent man had climbed a hill so that a boy would hear it from the hand that wrote it. The whole long road from Denvash had needed no cruelty at all; it had only needed people like Coss to be good at their work.
 
-He could not hate that cleanly, and he did not yet know how to fight it either. He stood at the bottom of the stair with both of those for a while, and then he went to find the others, because the rule was the day you knew a thing, and he had known since the gate.
+He could not hate that cleanly, and he did not yet know how to fight it either. He stood at the bottom of the stair with both of those, and then he went to find the others, because the rule was the day you knew a thing, and he had known since the gate.
 
 The aide was in the yard when he crossed it, standing at the clerk's booth with a satchel on each shoulder, asking the way down to the draper's in a voice that carried. He saw Cael and stopped in the middle of a word.
 
@@ -148,7 +148,7 @@ He was perhaps nineteen, with a new coat and ink on his cuff, and he plainly had
 
 "I know," said Cael.
 
-The aide looked at him as if that were the last answer he had expected, and then the clerk said something sharp from the booth about the draper's, and he turned back to her with both satchels swinging.
+The aide opened his mouth and shut it again, and then the clerk said something sharp from the booth about the draper's, and he turned back to her with both satchels swinging.
 
 ---
 
@@ -162,7 +162,7 @@ At *field agent* Lira lifted both boots off the bench and set them down on the f
 
 She said nothing, but he watched her face go back two years, to a girl being handed nineteen words from Fenmark that had already been used against her before anyone let her read them. It was the face of someone who had learned early how far the machine reached above any office with a door you could knock on.
 
-Karis had left her notebook shut; both her hands lay flat on the wood, pressing, as if the table might otherwise get away.
+Karis had left her notebook shut, and both her hands lay flat on the wood.
 
 Brom set another cup on the stack. "Three weeks," he said. "In public. On paper." The next cup went on with great care. "And who speaks for Greyvane?"
 
@@ -212,8 +212,8 @@ Cael laughed before he could help it, and it came out of him in a way that hurt 
 
 "I've sat across a desk from it." He watched the small yellow square. "He read my paper three times, in Ardenmere, before he conceded it. I watched him do it. He didn't skip a line."
 
-Lira was quiet for a while.
+Lira was quiet.
 
 "Then you'd better read his," she said. "Three times. Without skipping a line." She stood up off the wall and shook out her coat. "And then you'd better read the thing he never read at all, because if there's anything in that whole building he hasn't read from the first page, that's where you go."
 
-She went in. He stayed on the wall until the lamp above the draper's went out, which was a long time, and then he went in too, and lay awake for a while thinking about a case at the back of the archive, floor to ceiling, as deep as an old woman's arm.
+She went in. He stayed on the wall until the lamp above the draper's went out, which was a long time, and then he went in too, and lay awake thinking about a case at the back of the archive, floor to ceiling, as deep as an old woman's arm.

@@ -10,7 +10,7 @@ Lira had gone to the kitchen and come back with a flour sack and a bag of dried 
 
 They took them out at dusk to the training yard, the open square of packed earth below the wall where nobody went after the sixth bell in winter because there was nothing out there but frost and a pump. Lira drew a ring on the earth with a stick of chalk the size of her thumb, eight paces across, the size of a formal ring. Then she stood in the middle of it with the chalk in one hand and a bag in the other and explained the rules as if she were reading them off a board.
 
-"I'm her," she said. "I'm also her floor. When I say *point*, I draw a circle." She drew one, a hand's width across, by her foot. "That's a point. It's lit. You don't stand in it. Every time I say *point*, there's one more, and the ring gets smaller."
+"I'm her," she said. "I'm also her floor. When I say *point*, I draw a circle." She drew one by her foot. "That's a point. It's lit. You don't stand in it. Every time I say *point*, there's one more, and the ring gets smaller."
 
 "And the bags?"
 
@@ -34,7 +34,7 @@ The second caught him on the shin while he was choosing between two gaps. The th
 
 He did not argue; he set his feet again.
 
-By the end of the hour she had drawn sixteen circles and Brom had thrown more bags than Cael could count, and eleven of them had touched him. He stood in the middle of a ring that had become a forest of chalk, breathing in hard white clouds, his ankles sore and his legs gone heavy in a way the framework never made them, and understood exactly what Lira had meant.
+By the end of the hour she had drawn sixteen circles and Brom had thrown more bags than Cael could count, and eleven of them had touched him. He stood in the middle of a ring that had become a forest of chalk, breathing in hard white clouds, his ankles sore and his legs gone heavy in a way the framework never made them, and understood what Lira had meant.
 
 "Eleven," said Lira, who was breathing hard too, and bent with her hands on her knees. "That's your number. Tomorrow we beat it."
 
@@ -70,7 +70,7 @@ They did the post work after that, with the felt on and Brom leaning on the far 
 
 "You could stop. The clause doesn't make you keep coming."
 
-"No. The clause makes you read it." She tucked the stool more firmly under her arm. "I keep coming because I said I would, and I keep writing because it's true. It would be stranger to stop." She looked at him. "And you're reading every line I write about your recovery. That's the most even thing about this whole arrangement. I know exactly how tired you are, and you know exactly what I know."
+"No. The clause makes you read it. I keep coming because I said I would, and I keep writing because it's true. It would be stranger to stop." She looked at him. "And you're reading every line I write about your recovery. That's the most even thing about this whole arrangement. I know exactly how tired you are, and you know exactly what I know."
 
 "Symmetry."
 
@@ -114,7 +114,7 @@ On the second night Lira added a rule.
 
 "You're watching me," she said, before the first point. "I saw it all last night. You watch my feet and you watch my hands and you trust Brom to throw where you can see it. That's wrong." She drew the first circle. "She isn't going to be in one place. Her floor's going to be everywhere. So you're going to watch the floor, and let me be something you read out of the side of your eye."
 
-It was much harder, for the first quarter of an hour, because the framework had always lived on bodies and the floor was not a body; it did not lean before it moved, and a chalk circle did not drop its shoulder. But Lira's hand did, when she bent to draw one, and after a while Cael found he could see the circle coming before she drew it, because he could see where she was looking when she bent.
+It was much harder, for the first quarter of an hour, because the framework had always lived on bodies and the floor was not a body; it did not lean before it moved, and a chalk circle did not drop its shoulder. But Lira's hand did, when she bent to draw one, and after a while Cael could see the circle coming before she drew it, because he could see where she was looking when she bent.
 
 "That's cheating," said Lira, when he stepped out of a place before she had finished drawing in it.
 
@@ -126,7 +126,7 @@ Nine bags touched him on the second night.
 
 On the third night Lira was tired. She had been on the open floor with Gerda and Hobb at the sixth bell, as she still was most evenings, and she came out to the training yard in the dark with her shoulder strapped again under her coat and her temper very short. Instead of saying so she came at him harder, and when she saw his legs begin to go in the second half of the hour she aimed at them. She pressed him toward the edges of the ring where the circles were thickest and called *point* at the exact moment he was too tired to take a slip at full width, crueler than any lattice could ever be, because a lattice could not see him getting tired and Lira could.
 
-Brom threw from the edge of the ring without a word, flat and unhurried, without any wasted motion, every bag going exactly where he had meant it to, and twice Cael heard him say under his breath, "Sorry," as a bag hit.
+Brom threw from the edge of the ring without a word, flat and unhurried, without any wasted motion, every bag going where he had meant it to, and twice Cael heard him say under his breath, "Sorry," as a bag hit.
 
 "Don't say sorry," said Lira, without turning. "She won't."
 
@@ -168,7 +168,7 @@ Lira did not answer for a long time, only moved the cloth on her neck.
 
 "Karis will know on Thursday." Lira took the cloth off her neck and folded it in her lap. "She'll know somebody taught you to stand on a floor that isn't there. She won't know who. That's all right." She looked at him then, in the dark. "I said in the stable once that we were a family and she wanted data. I was being clever. I meant it, but I was being clever about it." She stood up and shook out her coat. "This is what the sentence costs, when it stops being a sentence. A sack and a shoulder and four nights. I'd pay it twice."
 
-She went in. He sat on the wall a while longer with the cold coming up through the stone, and found that he had nothing at all to write down about it, because it had already been written somewhere better.
+She went in. He sat on the wall a while longer with the cold coming up through the stone, and had nothing at all to write down about it, because it had already been written somewhere better.
 
 ---
 
@@ -180,7 +180,7 @@ He knelt on the boards and set his left forearm across his chest, braced, as he 
 
 "Hobb said something," he said. "About crossing her channel. He said it shoves first. Hard, like a stove door. And then it's hot. The shove's what puts you back where you started, and the heat's what you remember."
 
-Lira went very still on the bed.
+On the bed Lira's hands stopped on the cloth.
 
 "I've never been able to do anything with a strike except catch it and send it home," Cael went on. "And sending it home costs. You saw what a quarter fast cost." He did not look at her. "But there's the drop. I gather it and let it go and give it no road. I've done it four times, slowly, on a push. It never cost anything I could find. I've never tried it fast."
 
@@ -188,7 +188,7 @@ Lira went very still on the bed.
 
 "I want to know if I can drop a shove." Cael made himself say the rest. "If I had to go through something that pushed. So that it didn't put me back where I started."
 
-Nobody said anything for a while. A cart went along the street worth walking far below the window.
+Nobody said anything. A cart went along the street worth walking far below the window.
 
 "It won't take the heat," said Lira. Her voice was very level. "Will it? Nothing you have takes heat."
 
@@ -198,7 +198,7 @@ Nobody said anything for a while. A cart went along the street worth walking far
 
 "If I ever did it. Yes." He looked up at her then. "That's why I'm telling you before. I'm choosing the size first. A quarter. Fast. Woken before Brom moves, the way the catch worked, and then let go instead of sent. If it costs what the catch cost, I stop, and I never think about it again."
 
-Over the wet cloth Lira studied him a long moment.
+Over the wet cloth Lira studied him.
 
 "And if it doesn't?"
 
@@ -244,7 +244,7 @@ On the fourth night the number stopped.
 
 He had thought it would go on falling. Eleven, nine, six: the arithmetic seemed to promise a night when no bag touched him at all. Lira's shoulder was rested and she was fast again, and Brom threw as he always threw, and Cael watched the floor and read Lira out of the side of his eye and picked and picked and picked, faster than the night before, and four bags touched him. The next session, after a rest, it was four again.
 
-He knew why before Lira said it, because he could feel it in his own legs in the instant before each slip. The framework read the threat and offered him a way out of it, as it always had. Then, in the half-beat while he was still taking it, something in him checked the floor and the floor said *not that way*, and he stopped and began a second way, and the second way was always a hair too late, and a bag that would have missed him found him.
+He knew why before Lira said it, because he could feel it in his own legs in the instant before each slip. The framework read the threat and offered him a way out of it, as it always had. Then, in the half-beat while he was still taking it, something in him checked the floor and the floor said *not that way*, and he stopped and began a second way, and the second way was always just too late, and a bag that would have missed him found him.
 
 They sat down together in the dirt of the training yard at the end of it, because neither of them had the legs left to stand. The last light had gone out of the sky, the pump dripped, and Brom was walking slowly round the ring picking up bags and putting them back in the flour sack.
 
@@ -276,6 +276,6 @@ He wrote that night at the desk by the window, with his legs aching so badly he 
 
 *Lira's lattice. Eleven, nine, six, four, four. Stopped at four. I'm still deciding in the half-beat where I should be moving. Lira: pick faster. Speed the decision. The correctness comes later.*
 
-He looked at that for a long time, and then wrote one more line, small, at the bottom.
+Then he wrote one more line, small, at the bottom.
 
 *Nobody has said it all week. I haven't either. I don't think I've let myself think it.*

@@ -6,7 +6,7 @@ She had sat through the whole council with her arms folded and her boots flat on
 
 "Before anybody hands out jobs," she said, "I'm taking mine, and I'm taking it first, so it doesn't get left to the end and forgotten." She did not look at Naveth or Quenna. She looked at Cael. "You're a fighter. You've a sitting coming whether there's a hearing or not, and I'd put money on a man with a card at the back of it. You don't get to go down into the dust for three weeks and come up having forgotten what your feet are for. So I keep you sharp. The yard, every dusk, and I don't want to hear that you're busy being clever." Her voice stayed low, and it was harder than anything else she had said all morning. "When you walk into that room I want it to be you. Not a lawyer wearing your face. Get lost in the reading, and the argument can be as fine as you like; it won't matter to me. The part of you I care about will have gone missing first."
 
-For a moment nobody said anything, and Karis had already opened her notebook. She turned it sideways on the desk, so that it lay between all of them, and ruled a line down a clean page, and another across the top. On the left of the first row, in her small upright hand, she wrote *L.* On the right she wrote *keeps him a fighter*, and then she looked up at Lira and waited, pen lifted, to see whether she had got it right.
+Nobody said anything, and Karis had already opened her notebook. She turned it sideways on the desk, so that it lay between all of them, and ruled a line down a clean page, and another across the top. On the left of the first row, in her small upright hand, she wrote *L.* On the right she wrote *keeps him a fighter*, and then she looked up at Lira and waited, pen lifted, to see whether she had got it right.
 
 "Dusk," said Lira. "Write dusk."
 
@@ -20,7 +20,7 @@ Karis wrote *dusk*.
 
 Karis wrote *C. and P. — the code* on the second row, and under it, smaller, *one thread*. Then, without lifting the pen, she wrote her own initial on the third row, and only after it was written did she say what it was for.
 
-"The founding shelves," she said. "Everything from before the code was put in the order it's in now. If the schedule is silent about what you are, it's silent for a reason, and the reason was written down by somebody before anybody had settled on today's words." She capped the pen and set it square to the page. "That's mine."
+"The founding shelves," she said. "Everything from before the code was put in the order it's in now. If the schedule is silent about what you are, it's silent for a reason, and the reason was written down by somebody before anybody had settled on today's words." She capped the pen. "That's mine."
 
 "It can't be the argument," said Cael. "In that room it has to stand on the code as it's written today. Nobody there will care what an assessor thought before the schedule existed."
 
@@ -38,7 +38,7 @@ That left one row ruled and empty, and everybody looked at Brom, who was still l
 
 Cael reached across and took Karis's pen out of her fingers. She let him. He turned the notebook toward himself and, at the very top, above all the rows, above his own name and hers and Naveth's, he wrote in his square hand *Dusk. The yard. Every day.* and drew a line under it. Then he gave the pen back.
 
-Lira looked at the page upside down for a long moment.
+Lira looked at the page upside down.
 
 "Even half of you," she said, "is more than most people are on a floor on their best day. Don't forget that either."
 
@@ -62,7 +62,7 @@ Karis had not gone. She caught him at the foot of the worn stair when the others
 
 "I know he's right."
 
-"I wrote it down when the Warden said it. On Monday, in the stable, from what you told us. *Exposes its own charter to review.*" She held the notebook a little tighter. "I underlined it, and then I didn't look at it again, because I didn't want it to be true." She looked at him. "That's a bad habit in a researcher. I'm telling you so you'll watch me for it."
+"I wrote it down when the Warden said it. On Monday, in the stable, from what you told us. *Exposes its own charter to review.* I underlined it, and then I didn't look at it again, because I didn't want it to be true." She looked at him. "That's a bad habit in a researcher. I'm telling you so you'll watch me for it."
 
 "I'll watch you for it."
 
@@ -70,7 +70,7 @@ Karis had not gone. She caught him at the foot of the worn stair when the others
 
 She went on ahead of him. He stood a moment longer, and then he went to the archive too, because that was where the work was.
 
-Prynn was waiting at the long table. She had three volumes open on it already, and a folded card beside them, and a fresh pot on her desk, as if she had known before anybody told her which way the meeting would go.
+Prynn was waiting at the long table. She had three volumes open on it already, and a folded card beside them, and a fresh pot on her desk.
 
 "I heard," she said, without looking up. "Sit down. Three weeks isn't long against that much code, so neither of us wastes an hour of it."
 
@@ -96,17 +96,17 @@ His eyes went from the card to her face. Behind the card, a door had opened on a
 
 He was quiet a moment. "I read fighters like that," he said. "By what they've had to fix. Nobody practises a guard against a blow that's never landed on them. If somebody's drilled their left side until it shines, somebody once hurt them on the left."
 
-"Then half the work of reading law is done before you start," said Prynn, in a voice as dry as the stacks. "Nearly every reader who sits there thinks the text is a finished thing. It isn't. It's a thing that's stopped for the moment." She took off her spectacles and polished them on her cuff and put them back. "You'll save us a week."
+"Then half the work of reading law is done before you start," said Prynn, in a voice as dry as the stacks. "Nearly every reader who sits there thinks the text is a finished thing. It isn't. It's a thing that's stopped for the moment. You'll save us a week."
 
 They worked through what was left of the afternoon.
 
 She took the concordance and he took the text, and the first afternoon's work was nothing but an inventory, the whole code laid out in the order it had grown. He blocked out its shape in the observation notebook in the same pattern he used for any Path he was learning. *Charter* went at the root, granting everything. Beneath it went the *Schedule of Recognized Paths and Standings*, and he wrote that one large, because it was the first commitment, the one everything after it depended on, as every move in a fight depends on the declaration that made it possible. Beneath that went the *Obligations of Practitioners* and then the *Enforcement* chapters, as the follow-through: each of them drawing its force from the commitment above it, each of them helpless without it.
 
-He drew the whole of it as a declaration tree, because that was the shape his thinking had been trained into, the way some people think in sums. When he turned the notebook round to show her, Prynn looked at the diagram for a long time. Then a noise came out of her that he had not known she could make, short and dry and dusty, and it was only afterward, walking out to the yard, that he understood it had been a laugh.
+He drew the whole of it as a declaration tree, because that was the shape his thinking had been trained into. When he turned the notebook round to show her, Prynn looked at the diagram for a long time. Then a noise came out of her that he had not known she could make, short and dry and dusty, and it was only afterward, walking out to the yard, that he understood it had been a laugh.
 
 "I've sat at that desk all these years," she said, "and the first honest picture of the code anyone has put in front of me is a chart of a fight."
 
-She went back to her desk, and he sat over the tree for a long while afterward until he looked up, because a lamp was coming toward him out of the founding stacks at the back, and it was Karis.
+She went back to her desk, and he sat over the tree until he looked up, because a lamp was coming toward him out of the founding stacks at the back, and it was Karis.
 
 He had not known she was there; she had ink on two fingers and dust on her cuffs and a satchel of notebooks over her shoulder, three of them full already from the look of the satchel, and she set the lamp down at the end of the long table and looked at his tree upside down.
 
@@ -186,11 +186,11 @@ He read it and moved his inkwell to the far end of the table, which he had not d
 
 Then she broke one herself.
 
-She brought him the first volume of the charter with both hands under it, as if it might break, and then a second, and a third, and went on fetching, so that by the time she stopped the pile at his elbow was eleven high and leaning. He looked at the card, and she looked at the pile.
+She brought him the first volume of the charter with both hands under it, and then a second, and a third, and went on fetching, so that by the time she stopped the pile at his elbow was eleven high and leaning. He looked at the card, and she looked at the pile.
 
 "The card is for readers who come for one page," she said. "Keep the concordance open beside you. A fighter watches how a man moves before he worries where he's standing."
 
-He read without chasing anything for the first two days, as he watched an opponent before a bout, taking in how the whole thing carried itself before he looked hard at any part of it. Halfway through the first morning, with his finger on a clause and the pile tilting at his elbow, Prynn spoke from the high desk without looking up from her ledger.
+He read without chasing anything for the first two days, taking in how the whole thing carried itself before he looked hard at any part of it. Halfway through the first morning, with his finger on a clause and the pile tilting at his elbow, Prynn spoke from the high desk without looking up from her ledger.
 
 "Most people come down here wanting one page that settles it. There isn't one. You're not the first to be angry at that code, either."
 
@@ -204,7 +204,7 @@ He thought about it, because she would hear the difference between right and nea
 
 The pen started again, and she said nothing else that morning.
 
-It was the concordance, in the end, that showed him the shape. Her columns ran down the card by period, oldest at the left, newest at the right, each amendment entered with its year and a mark for what kind of change it was, and by the second afternoon he had stopped reading the clauses and begun reading her marks. The left-hand column was short, and nearly every mark in it meant *by agreement*: the Compact a treaty then, between guilds that did not trust each other, putting *where the parties consent* into everything. The middle columns were long and plain, with almost nothing marked at all, as if for a few generations nobody had needed to argue. The right-hand column was the longest of all and crowded with a mark Prynn used for one thing only. He asked her what it meant, and she said, without looking up, "Narrowed after trouble."
+It was the concordance, in the end, that showed him the shape. Her columns ran down the card by period, oldest at the left, newest at the right, each amendment entered with its year and a mark for what kind of change it was, and by the second afternoon he had stopped reading the clauses and begun reading her marks. The left-hand column was short, and nearly every mark in it meant *by agreement*: the Compact a treaty then, between guilds that did not trust each other, putting *where the parties consent* into everything. The middle columns were long and plain, with almost nothing marked at all, as if for a few generations nobody had needed to argue. The right-hand column was the longest of all and crowded with a mark Prynn used for one thing only. He asked her what it meant, and she said, "Narrowed after trouble."
 
 He counted those marks, and they ran to eleven pages of his notebook by the second evening.
 
@@ -254,4 +254,4 @@ He wrote it kneeling on the scrubbed boards, with the binder on his knee.
 
 *Thursday, week nineteen. Three of three, a thumbnail, count about a hundred. Then L. clapped behind me with my hand on the post and the new one ready. I flinched all over. It didn't light. One fright in a quiet room. Not a fight, not anybody who wishes me harm. One thing, not two.*
 
-He looked at the last line for a while. Then he drew the small box round it, his own private mark for *not yet*, and closed the binder, and went back to the code.
+He looked at the last line. Then he drew the small box round it, his own private mark for *not yet*, and closed the binder, and went back to the code.

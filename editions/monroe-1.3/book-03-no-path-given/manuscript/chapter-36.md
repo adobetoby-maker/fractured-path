@@ -4,7 +4,7 @@ He woke before the bell and lay still in the grey and took inventory, as he did 
 
 Hands first: steady, and warm under the blanket. Breath next, slow and even, with no catch under the breastbone, which meant the bruise from the whole push had finally gone. Then the four, one at a time, in the order they had come.
 
-Wind-adjacent answered first, as it always did, before he had finished turning toward it, light and quick and rested after two days without Lira's chalk. Pressure-adjacent sat where it had sat for a year, banked and unspent, a weight he could feel the edges of. Iron-adjacent was steady, a readiness along the skin of his forearms and the backs of his hands, and Compression-adjacent lay low in his chest, quiet as a coal under ash. Each fragment answered when he turned to it, as banked coals answer a poker.
+Wind-adjacent answered first, as it always did, before he had finished turning toward it, light and quick and rested after two days without Lira's chalk. Pressure-adjacent sat where it had sat for a year, banked and unspent, a weight he could feel the edges of. Iron-adjacent was steady, a readiness along the skin of his forearms and the backs of his hands, and Compression-adjacent lay low in his chest, quiet as a coal under ash. Each fragment answered when he turned to it.
 
 And beside them lay the fifth space that was not a space. He had spent three weeks in a whitewashed room learning its exact shape by failing to fill it, and he knew it now as well as he knew any of the four; he could have drawn its edges.
 
@@ -14,7 +14,7 @@ He had decided in the night, somewhere between the archive and sleep, to obey Ka
 
 He put his feet on the floor.
 
-Breakfast was at the scarred table, and nobody said anything about anything. The long room was noisy. For two days the academy had talked about nothing else, and every table seemed to be holding its own copy of the match, but the noise went round their corner without coming into it, as water goes round a rock. Brom ate his porridge at its usual pace. Lira put an extra roll on Cael's plate without a word, and when he looked at it Brom said, "Eat it," and he ate it.
+Breakfast was at the scarred table, and nobody said anything about anything. The long room was noisy. For two days the academy had talked about nothing else, and every table seemed to be holding its own copy of the match, but the noise went round their corner without coming into it. Brom ate his porridge at its usual pace. Lira put an extra roll on Cael's plate without a word, and when he looked at it Brom said, "Eat it," and he ate it.
 
 Karis was at a table of her own by the far window, alone, as she had announced she would be, with a bowl and a cup and her back very straight.
 
@@ -30,7 +30,7 @@ All four of them understood that it had been.
 
 He spent the morning in the archive, because he could not think of anywhere else he wanted to be. He sat at the long table with the observation notebook shut in front of him, and at the second bell Prynn came down off her high stool without a word and set a cup of tea at his elbow. She had never brought him tea before; he had always fetched it himself from the pot by her desk. She went back to her stool and her ledger and did not look at him again all morning, and he drank the tea slowly, and it was the best he had ever had.
 
-At the fourth bell he went up to his room and wrapped his forearms in guard-cloth, both arms, wrist to elbow, wound firm and tied off with his teeth as he had done it a hundred times in Ardenmere. He flexed the hands. He put the binder in his coat and took it out again, because a binder was no use in a ring. He held it for a moment, and then went down the corridor and knocked on Lira's door and gave it to her. She took it without a word and put it inside her own coat, against her ribs, on the side where she kept Fenmark's four paragraphs.
+At the fourth bell he went up to his room and wrapped his forearms in guard-cloth, both arms, wrist to elbow, wound firm and tied off with his teeth as he had done it a hundred times in Ardenmere. He flexed the hands. He put the binder in his coat and took it out again, because a binder was no use in a ring. He held it, and then went down the corridor and knocked on Lira's door and gave it to her. She took it without a word and put it inside her own coat, against her ribs, on the side where she kept Fenmark's four paragraphs.
 
 They walked to the formal yard at the fifth bell, the three of them, and it took four minutes, Lira on his left saying nothing and Brom on his right saying nothing. The crowd's noise was coming through the old timber of the gate from the main hall like surf on a shingle beach, and there, with her hand on the latch, Lira stopped.
 
@@ -276,7 +276,7 @@ The ruling went out over the yard, and as far as Cael could tell, not one person
 
 The little fire under his right palm went out by itself while he was still looking at it.
 
-He found that he was sitting, though he could not have said when his knee had given up the ground and let the rest of him down onto it, but the frozen earth of the formal yard was under him now, and his left arm lay across his lap, throbbing in long slow beats like a second heart. Noise went over him. Somebody official was ordering the benches down and the benches were not listening, and at the little table the panel had their heads together, low and quick, while Wray's pen went on scratching. All of it seemed to belong to an afternoon a long way off. His hands had begun to shake, and he let them.
+He was sitting, though he could not have said when his knee had given up the ground and let the rest of him down onto it, and the frozen earth of the formal yard was under him now, and his left arm lay across his lap, throbbing in long slow beats. Noise went over him. Somebody official was ordering the benches down and the benches were not listening, and at the little table the panel had their heads together, low and quick, while Wray's pen went on scratching. All of it seemed to belong to an afternoon a long way off. His hands had begun to shake, and he let them.
 
 Then, behind his breastbone, something began to settle.
 
@@ -316,11 +316,11 @@ Several things crossed her face together, and none of them stayed long enough to
 
 "There's a field for it," he said.
 
-At the chalk, Lira was standing exactly where the rules made her stand and not a hair further, with Brom a pace behind her, and the whole question was in her face. Cael did not need to say anything. He looked at her and nodded, once and slowly, and held out his right hand to her, palm up, for the binder.
+At the chalk, Lira was standing exactly where the rules made her stand, with Brom a pace behind her, and the whole question was in her face. Cael did not need to say anything. He looked at her and nodded, once and slowly, and held out his right hand to her, palm up, for the binder.
 
 Quenna, halfway across the ring, saw the hand. She checked Lira with a glance. Then, after a moment, she stepped out of the way.
 
-Lira crossed the chalk without a word. She knelt and laid the binder in his palm and did not get up at once; her own right hand had gone flat against her breastbone, and she kept it there. They had never agreed on any such sign, and it did not need agreeing. Brom, still at the chalk, looked from the binder to the little coins of Karis's broken lattice smoking faintly on the earth, and gave a single slow nod. It was the nod he kept for a thing he had been weighing a long time and had at last seen come down on one side.
+Lira crossed the chalk without a word. She knelt and laid the binder in his palm and did not get up at once; her own right hand had gone flat against her breastbone, and she kept it there. They had never agreed on any such sign, and it did not need agreeing. Brom, still at the chalk, looked from the binder to the little coins of Karis's broken lattice smoking faintly on the earth, and gave a single slow nod. It was the nod he kept for a thing he had been weighing and had at last seen come down on one side.
 
 Behind them the panel was breaking up. Quenna had gone back to the chairs with the ledger held against her, and Cael could already see the official language assembling itself behind her eyes. The yard was pouring its noise out through the gates. By supper there would be six stories, each arguing with the other five, and the true one would be the one nobody believed. There would be questions, and a record written slowly and with great care, and a conversation about what three people had seen this afternoon and what each of them would be willing to say they had seen; after that would come consequences he could not yet measure, because three hundred people had watched, and a thing three hundred people have seen does not go back to being unseen. All of that was on its way. All of it was real. None of it was allowed in before this.
 

@@ -42,7 +42,7 @@ Coss let it rest a moment. Then he turned his head, not to her but to the bench.
 
 She came back to the table and sat down beside him, and took up her slate, and turned it face up, and did not look at him.
 
-Cael did not look at her either. He found that he could not have, for a while, without something happening to his face that the room was not entitled to, and he had promised her nothing on his face. He sat and watched the bench, and felt her beside him, very straight, and thought that he had owed her more than he had ever stopped to add up, and that he had only just this moment found out how much.
+Cael did not look at her either. He could not have, yet, without something happening to his face that the room was not entitled to, and he had promised her nothing on his face. He sat and watched the bench, and felt her beside him, very straight, and thought that he had owed her more than he had ever stopped to add up, and that he had only just this moment found out how much.
 
 ---
 
@@ -130,7 +130,7 @@ Cael did not turn round, so he heard it more than saw it. Benches went over. Boo
 
 He stayed where he was, with his palm flat on the wood, and let it go on behind him.
 
-Across the floor the Warden's hands were already at work. They put each paper back in its folder and each folder back in its case: the drafting records, the precedents, the bound fair copy with the nine counts in it. They did it in the same order they had come out, without hurry, as if their owner had the whole evening and nowhere he needed to be. His aide was talking to him low and fast, and he did not seem to hear. When the last clasp had shut, the hands lay still on the lid.
+Across the floor the Warden's hands were already at work. They put each paper back in its folder and each folder back in its case: the drafting records, the precedents, the bound fair copy with the nine counts in it. They did it in the same order they had come out, without hurry. His aide was talking to him low and fast, and he did not seem to hear. When the last clasp had shut, the hands lay still on the lid.
 
 Then Coss looked up, through the noise, straight at Cael, which he had not done once since the first bell.
 
@@ -144,7 +144,7 @@ Quenna's hand settled on his shoulder. Then the noise reached him properly, all 
 
 The stable was worse than the assembly room.
 
-He could not get to the scarred table for a long time. The whole of the stable seemed to want to stand near him without speaking to him, and the second-years kept coming past the end of the table and stopping and opening their mouths and going away again. The tout sent a heel of bread down the table with his compliments, and somebody from the movement floor whom Cael had never spoken to clapped him on the back so hard that his bowl jumped. In the end Lira stood up from the bench, turned round, and looked at the room. It did not quite go quiet, but it remembered all at once that it had business at the other end.
+At first he could not get to the scarred table at all. The whole of the stable seemed to want to stand near him without speaking to him, and the second-years kept coming past the end of the table and stopping and opening their mouths and going away again. The tout sent a heel of bread down the table with his compliments, and somebody from the movement floor whom Cael had never spoken to clapped him on the back so hard that his bowl jumped. In the end Lira stood up from the bench, turned round, and looked at the room. It did not quite go quiet, but it remembered all at once that it had business at the other end.
 
 "Eat," said Lira, sitting down again. "And don't talk. Everybody in this building wants to ask you what you meant, and if you start telling one of them you'll be telling all of them till the eighth bell. Tomorrow you'll be telling the panel. Save it."
 
@@ -182,7 +182,7 @@ He went up the narrow stair at the back of the main hall and knocked, and she sa
 
 "Uninterrupted. If the Warden stands up in the middle, the magistrate will sit him down. He knows that. He'll stand up anyway, if he thinks it's worth being sat down." She turned the sheet over, and there was nothing on the back of it. "That's the procedure. Now the other thing."
 
-She was quiet for a while, and he waited, because he had learned in twenty weeks that a Quenna who was quiet was a Quenna choosing which of several true things to say.
+She was quiet, and he waited, because he had learned in twenty weeks that a Quenna who was quiet was a Quenna choosing which of several true things to say.
 
 "Today I sat beside you," she said. "I'll sit beside you tomorrow, if you want me there. I'm your assessor of record. Nobody will think anything of it. It's where I'm supposed to be."
 

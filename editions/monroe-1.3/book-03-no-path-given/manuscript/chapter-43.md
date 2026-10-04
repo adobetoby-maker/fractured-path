@@ -4,17 +4,17 @@ The clerk pinned the notice up before the seventh bell, a brass tack in each cor
 
 *Public adjudication. In the matter of the enrollment of the candidate on the unclassified observer track, on challenge filed by the Compact's field service. A magistrate of the Compact presiding. Assembly room, lecture wing. The first day of the twenty-second week, first bell. The record will be public.*
 
-He read it twice, while a second-year with an armful of practice staves went past behind him and slowed and went on.
+He read it through, while a second-year with an armful of practice staves went past behind him and slowed and went on.
 
 On his first morning here his name had gone up on this board as well, on the assessment calendar, and that had been a door somebody built for him to walk through. This was the same board and the same small even hand, but it was not a door. It was a date.
 
-He read the last line a third time. *The record will be public.*
+He read the last line again. *The record will be public.*
 
-Somewhere in the third reading the fear in him changed into the other thing, which he knew well. It had come in Ardenmere the week Reydan's name went up beside his on the circuit board, and on the morning of the first sitting with Hobb waiting at the chalk. It was what fear turned into when it had been given time and something to lean against. A hearing had rules, and the rules had been written down by somebody, once; and whatever somebody had written down, somebody else could sit and read, slowly, until it showed him how it moved.
+Somewhere in that line the fear in him changed into the other thing, which he knew well. It had come in Ardenmere the week Reydan's name went up beside his on the circuit board, and on the morning of the first sitting with Hobb waiting at the chalk. It was what fear turned into when it had been given time and something to lean against. A hearing had rules, and the rules had been written down by somebody, once; and whatever somebody had written down, somebody else could sit and read, slowly, until it showed him how it moved.
 
 He went to the archive, walking faster than he meant to, with the notice still in front of his eyes.
 
-Prynn was not at her high desk; her stool stood empty, her ledger shut, and for a moment he stood inside the iron-banded door not knowing what to do with that. Then he saw the lamp at the far end of the long room, moving among the shelves, and went toward it.
+Prynn was not at her high desk; her stool stood empty, her ledger shut, and he stood inside the iron-banded door not knowing what to do with that. Then he saw the lamp at the far end of the long room, moving among the shelves, and went toward it.
 
 She was putting a box back on a high shelf, standing on the little step she kept for it, and she did not turn round.
 
@@ -48,7 +48,7 @@ Cael looked at the case.
 
 "The last one," he said. "That's the best thing anybody's said to me today."
 
-"It usually is." Prynn reached into the case without looking, as she reached for everything on her shelves, and drew down the first volume and laid it in his arms. It was heavy and cold, and it smelled of old glue. "The table's where it's always been. I lock up at the eighth bell." She looked at him over her spectacles. "You know what that's worth."
+"It usually is." Prynn reached into the case without looking and drew down the first volume and laid it in his arms. It was heavy and cold, and it smelled of old glue. "The table's where it's always been. I lock up at the eighth bell. You know what that's worth."
 
 ---
 
@@ -60,7 +60,7 @@ He spent both nights in the archive.
 
 Prynn did not lock the door either night; he did not mention it, and neither did she. On the first night she came down off her stool at the eighth bell and put a cup of tea at his elbow and went back up, and on the second she did not come down at all, and the cup was there anyway when he looked up from the page, though he had not heard her bring it.
 
-He read the enforcement provisions first, because that was where the teeth were, and the teeth were what Coss would use. He read them the way he had learned to read a fighter's declaration timing, not for what any single clause did but for how all of them moved, and he copied their shapes into the observation notebook as he went, one structure under another, as if the code were an opponent and each provision one of its declarations. They were dense and old and cross-referenced to death, and they were full of words like *voidance* and *sanction* and *removal* that he had never seen written down before, though he had lived inside every one of them. By the middle of the first night his eyes ached and he had nine pages of nothing.
+He read the enforcement provisions first, because that was where the teeth were, and the teeth were what Coss would use. He read them as he had learned to read a fighter's declaration timing, not for what any single clause did but for how all of them moved, and he copied their shapes into the observation notebook as he went, one structure under another. They were dense and old and cross-referenced to death, and they were full of words like *voidance* and *sanction* and *removal* that he had never seen written down before, though he had lived inside every one of them. By the middle of the first night his eyes ached and he had nine pages of nothing.
 
 Past midnight on the second night, the code showed him its joint.
 
@@ -72,7 +72,7 @@ He sat back in the cold and looked at that for a long time.
 
 It was not proof of anything. It might be nothing at all; it might only be that the word was defined somewhere else, in some chapter he had not reached, in a clause so plain and so obvious that no drafter of enforcement had ever needed to look at it again. Codes did that, he supposed, and so did fighters. A fighter who had built a whole style on one strong leg never thought about the leg. But a fighter who had built a whole style on one strong leg had built it on one leg, and if somebody ever looked at the leg properly, the whole style was standing on whatever they found.
 
-He told nobody that night. He wanted to have tried hard to prove himself wrong before he allowed himself to be right. He spent what was left of the second night doing exactly that, going back through the enforcement chapters looking for a single power granted in any other shape, one sanction that did not lean on the word, one procedure that came into force on anything else. He did not find one.
+He told nobody that night. He wanted to have tried hard to prove himself wrong before he allowed himself to be right. He spent what was left of the second night at it, going back through the enforcement chapters looking for a single power granted in any other shape, one sanction that did not lean on the word, one procedure that came into force on anything else. He did not find one.
 
 At the bottom of the ninth page he wrote: *Every power they have attaches to the classified. Every one. The word carries all of it. Where does the code say what the word is?*
 
@@ -80,7 +80,7 @@ He drew the small box round the last line.
 
 ---
 
-Oona was waiting for him outside the stable on the Tuesday evening, between the two nights, with her slate under her arm and a new tag on the string round her neck.
+Oona was waiting for him outside the stable on the Tuesday evening, between the two nights, with a new tag on the string round her neck.
 
 He saw it before he saw her face. The hollow circle was gone, and in its place hung the academy's ordinary crest, a tower above a road, the same tag Brom wore, cut from the same tin by the same clerk. She had polished it. It caught the light from the stable door.
 
@@ -92,29 +92,29 @@ He saw it before he saw her face. The hollow circle was gone, and in its place h
 
 "I noticed."
 
-"Everybody noticed." She shifted the slate in her arms and looked at the stable door and not at him. "Can I ask you something rude?"
+"Everybody noticed." She looked at the stable door and not at him. "Can I ask you something rude?"
 
 "You can ask."
 
 "Is it because of me?" She said it very fast, as if she had been holding it all day and needed it out before it could be held any longer. "The man with the papers. The hearing. Is it because I'm not on the track any more, and now it's only you, so it's easier to say the track shouldn't have you on it?"
 
-He looked at her for a moment in the light from the door, and thought about it properly, because she had asked properly and she would know if he did not.
+He looked at her in the light from the door, and thought about it properly, because she had asked properly and she would know if he did not.
 
 "No," he said. "It isn't because of you. The man who filed it has been carrying my file since before I ever came to Greyvane. Since before I'd ever heard your name. He'd have come up that hill if you'd never been born." He held her eyes. "The track was built for people like you. That's the whole of what's wrong with me being on it. Not you leaving it. Me being on it at all."
 
-Oona considered this with her whole face, as she considered everything.
+Oona considered this.
 
 "Then it isn't fair," she said.
 
 "It might be fair. That's what they're going to decide."
 
-"I know what they're going to decide." Her chin came up. "I mean it isn't fair that it's you. You're the only one who never once told me anything that wasn't so." She tucked the slate in tighter. "I'm going to be in the gallery. On the first day. It says the record will be public, so I'm allowed. I checked."
+"I know what they're going to decide." Her chin came up. "I mean it isn't fair that it's you. You're the only one who never once told me anything that wasn't so. I'm going to be in the gallery. On the first day. It says the record will be public, so I'm allowed. I checked."
 
 "You checked."
 
 "I asked Gerda. She knows procedure." Oona turned to go, and then turned back. "She said it isn't unfair. She said it's procedure. I said I'd decide for myself."
 
-She went off across the yard toward the residence wing with the new tag bright against her coat, and he stood by the stable door and found that whatever had been sitting cold in his chest since the gate had eased by about the width of a finger.
+She went off across the yard toward the residence wing with the new tag bright against her coat, and he stood by the stable door while whatever had been sitting cold in his chest since the gate eased, a little.
 
 Wray stopped him at the rail of the defensive floor early the next morning, on his way to the provost's stair, with her slate on her hip and her brown coat buttoned to the throat. She did not waste anything on a greeting.
 
@@ -126,7 +126,7 @@ Wray stopped him at the rail of the defensive floor early the next morning, on h
 
 He did not know what to say. Wray did not seem to need him to say anything.
 
-"That's all," she said. "It isn't advice. I've given you my advice. It's a fact about my lines." She turned back toward her chalk, and then stopped, and turned half round, and considered him for a long moment, as she considered a strike before she decided whether it had held.
+"That's all," she said. "It isn't advice. I've given you my advice. It's a fact about my lines." She turned back toward her chalk, and then stopped, and turned half round, and considered him as she considered a strike before she decided whether it had held.
 
 "Whatever you do in that room," she said, "do it the way you fought Edran. Find what it's proudest of, and go there." She went back to her chalk, and called *Again* to somebody, and did not look back.
 
@@ -136,11 +136,11 @@ There were six of them and five chairs, and Brom stood.
 
 He did it without being asked, the moment he saw the count, and put his back against the shelf of thin brown alumni books with his hands behind him, as he stood at a rail. Naveth had had two extra chairs carried up the worn stair for the Wednesday morning. Lira and Karis had one each, with Cael between them, on the near side of the desk, which is the side where people sit to be talked about.
 
-Quenna, at the tall window, looked at the arrangement for a moment and turned round.
+Quenna, at the tall window, looked at the arrangement and turned round.
 
 "He stays," she said. "All of it. Nothing gets decided about him in this room that he doesn't hear decided."
 
-Naveth did not argue; he looked as if he had spent the night arguing already, against himself, and lost every round. He laid the challenge on the blotter and squared it to the edge, the way you square a thing you no longer need to read.
+Naveth did not argue; he looked as if he had spent the night arguing already, against himself, and lost every round. He laid the challenge on the blotter and squared it to the edge.
 
 "We cannot win this on the merits," he said.
 
@@ -150,17 +150,17 @@ Nobody disagreed, and the clock over the door ticked twice into the quiet before
 
 "Why?" said Lira. She did not raise her voice. "You said you'd tell us why. Why can't it be won?"
 
-Naveth looked at her, and then down at the blotter, where his long hand lay flat on the challenge as though it might lift.
+Naveth looked at her, and then down at the blotter, where his long hand lay flat on the challenge.
 
 "Because I've no defence to offer that I believe," he said. "Counsel has tried for two days and found none either. I would sign that form again this afternoon. We made the category fit him because the alternative was a boy with nowhere to go, and I'm not sorry. But the gloss keeps the category for a candidate who *has not yet undergone formal Kindling assessment*. He has, and the Warden can prove the day. A magistrate doesn't rule on whether I'm sorry. This is the best-drafted paper anybody has ever sent up my stair."
 
-Cael saw what it cost him to say it, because Naveth's whole life was built on one belief, that careful paperwork could shelter the people the registry had priced wrong. The paper on his blotter showed him, in his own system's words, exactly how much weight that shelter would carry, and that he had gone on building after he knew.
+Cael saw what it cost him to say it, because Naveth's whole life was built on one belief, that careful paperwork could shelter the people the registry had priced wrong. The paper on his blotter showed him, in his own system's words, how much weight that shelter would carry, and that he had gone on building after he knew.
 
 Nobody said anything.
 
 Then Brom said, from the bookshelf, "Two hundred against one."
 
-He did not say it unkindly; he said it the way he called a weight, plainly, so it could be looked at.
+He did not say it unkindly; he said it plainly, so it could be looked at.
 
 "Two hundred against one," Lira said, "and the man doing the sum is decent, and that's what makes it so foul. You can't even hate him for it." She did not look at Naveth. "I did it on Monday night. On the wall. I got the same answer, and I've never been so angry at a number."
 
@@ -174,7 +174,7 @@ Quenna had not moved from the window, and the light behind her made her face har
 
 ---
 
-Cael had known since the notice that this question was coming, and he had walked round it the way he walked round a bout before he stepped into one.
+Cael had known since the notice that this question was coming, and he had walked all round it since.
 
 "I thought about running," he said. "It's always there; I could go down the hill tonight and be somewhere smaller by spring, and the file would find me by summer." He looked at Naveth. "And I thought about what you just said. I can see where it ends. A coach. And you writing to a guild family to explain why the observer track is shut."
 

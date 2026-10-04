@@ -2,15 +2,15 @@
 
 The third day went entirely on a wrong turn, and he took it before he took the right one.
 
-The obvious road was the one anybody would have taken, and he took it. He went straight at the demonstration provision: how it had been drafted, how it had been amended, and who had been enrolled under it. If the challenge was that he had been fitted into a category not built for him, then surely the place to fight was the category, and the place to start was the moment it was made. He asked Prynn for the provision's history at the first bell, and she looked at him over her spectacles for a moment longer than she needed to and then went and got it without a word, which he understood only later was the most she would ever do to warn a reader off a shelf.
+The obvious road was the one anybody would have taken, and he took it. He went straight at the demonstration provision: how it had been drafted, how it had been amended, and who had been enrolled under it. If the challenge was that he had been fitted into a category not built for him, then surely the place to fight was the category, and the place to start was the moment it was made. He asked Prynn for the provision's history at the first bell, and she looked at him over her spectacles a moment longer than she needed to and then went and got it without a word, which he understood only later was the most she would ever do to warn a reader off a shelf.
 
 It was all there, in the order it had grown. The provision had been revised three times, and each revision sat in its fascicle with its date and its reasons attached in the flat language of the drafting clerks. He read the newest first, out of habit, and then made himself go back and read them in order, as Prynn had told him to. When he reached the bottom of the oldest box he found the first draft, written in a hand so old that the letters leaned against each other like tired men.
 
 It had been written as a kindness.
 
-It held him still a long while, there in the cold. In those days the guilds had sent their families travelling, carters and drovers and pedlars on a guild licence, and their children came to fourteen on the road, weeks from any station. They arrived at the gates of the academies untested and unplaced and turned away, because a chartered academy could not take a child nobody had tested. Somebody had minded. Somebody had sat at a desk with a pen and written a few lines so that such a child could come in under watching, and be taught, and be kept warm, until the family could get the child to a station and find out what the child was. That was the whole of what it was for. Every revision after it had widened who it covered by a little, a late Kindler here, a disputed assessment there. What it was for had come through all of them untouched.
+It held him still, there in the cold. In those days the guilds had sent their families travelling, carters and drovers and pedlars on a guild licence, and their children came to fourteen on the road, weeks from any station. They arrived at the gates of the academies untested and unplaced and turned away, because a chartered academy could not take a child nobody had tested. Somebody had minded. Somebody had sat at a desk with a pen and written a few lines so that such a child could come in under watching, and be taught, and be kept warm, until the family could get the child to a station and find out what the child was. That was the whole of what it was for. Every revision after it had widened who it covered by a little, a late Kindler here, a disputed assessment there. What it was for had come through all of them untouched.
 
-He thought of Oona on the bench in the grey building, with her mother's hand on one shoulder and his on the other, trembling very finely under the clean grey cloth. He thought of her coming out through the far door with the card held flat against her slate, and her face coming loose over her mother's shoulder. She had come up the hill to Greyvane untested from a guild family, and been taught, and been kept warm, and gone down to the station when the time came and been found to be exactly who she had decided to be. Whoever had written the first draft in that leaning hand had written it for her. They had never imagined him at all.
+He thought of Oona on the bench in the grey building, with her mother's hand on one shoulder and his on the other, trembling very finely under the clean grey cloth. He thought of her coming out through the far door with the card held flat against her slate, and her face coming loose over her mother's shoulder. She had come up the hill to Greyvane untested from a guild family, and been taught, and been kept warm, and gone down to the station when the time came and been found to be who she had decided to be. Whoever had written the first draft in that leaning hand had written it for her. They had never imagined him at all.
 
 He walked the road for eleven hours. He traced every revision and every enrollment the digests recorded under it, every late Kindler and disputed child and clerical error the provision had ever sheltered. He was looking for one single case, anywhere, of somebody already Kindled and classified who had been carried by it and allowed to stay. There was none, and the road went nowhere. Read it as kindly as you liked, it was written for the untested. He had been tested. Nothing in its history could change what its words said, or what its first drafter had meant them to say. Coss had walked this same road weeks ago, he was certain of it. Coss had found the box in the basement, or wherever the regional office kept its copy, and had read the leaning hand, and had walked all the way to the end. Coss would be standing there waiting for him, in the assembly room, with the first draft in his document case.
 
@@ -32,7 +32,7 @@ Prynn came down off her stool and took the provision's boxes away without being 
 
 On the fourth morning he took out the tree he had drawn for Prynn and asked it a different question.
 
-The first time he had asked what each part said; now he went down it asking what each part stood on, the way he would have gone down a fighter's stance from the shoulders to the feet.
+The first time he had asked what each part said; now he went down it asking what each part stood on.
 
 Enforcement stood on the obligations. Every voidance and sanction and removal in it, every power that had walked a fourteen-year-old out of Hesk's workshop in Denvash in one courier's morning, fell on people who owed the obligations. The obligations stood on classification, falling on you once the system had given you a name, and classification stood on the schedule, the long working list of every Path and tier and provisional category the Compact had ever put its formal name to. And the schedule stood on the charter, which was wide and high-minded and full of *the stewardship of practice*, and which bound nobody to anything you could measure.
 
@@ -94,7 +94,7 @@ So he said nothing, and she read it to him off the page, slowly, in the voice sh
 
 "*Classification means designation under the schedule. For all purposes. Shall mean, not includes.*" The finger moved. "*The schedule names everything the Compact has ever reached for. Being named there is the only way the code lets it reach.*" Down again, across his ticks. "*Not in the list. Not in the annex. Not in the appendix, not in any amendment. Not struck. Not refused.*" She stopped at the circle. "*What the instrument writes. Then generations of treating it as though it were listed.*" And last, in the corner, where he had written it smallest: "*Custom isn't code.*"
 
-She straightened and stood a long time with her hand flat on the table beside his page. When she looked at him her face had gone very still, the way it went still over a book she had decided was worth more than she had thought.
+She straightened and stood a long time with her hand flat on the table beside his page.
 
 "Sixty years I've kept these shelves," said Prynn. "You're the first person to read the code the way it's written instead of the way it's enforced."
 
@@ -120,7 +120,7 @@ He did not go to the fourth shelf at once. He sat with the circled word in front
 
 *He doesn't need authority over you. He has it over me.*
 
-The definitions clause did nothing about that; he read it again to be sure. It said what classification was and nothing about what the Compact could do to an academy that held its charter from the Compact. If the magistrate agreed with every word he meant to say about the schedule, Coss could still stand up afterward and say: very well, the boy is undefined; the academy that enrolled him is not. He could hear Coss saying it, in that patient voice, without any heat at all.
+The definitions clause did nothing about that. It said what classification was and nothing about what the Compact could do to an academy that held its charter from the Compact. If the magistrate agreed with every word he meant to say about the schedule, Coss could still stand up afterward and say: very well, the boy is undefined; the academy that enrolled him is not. He could hear Coss saying it, in that patient voice, without any heat at all.
 
 He did not know the answer, or yet whether there was one.
 
@@ -128,7 +128,7 @@ He wrote under the box, small: *The clause covers me. Does anything cover Greyva
 
 ---
 
-Karis came to the scarred table late at supper on the sixth day, before he went back down to the archive for the night, with dust to the elbows of her coat and a smear of something grey along one cheekbone that she had plainly not noticed. She sat down at the fourth bowl and ate her barley in silence for a while, the way she ate when her head was somewhere else, and Lira slid the larger half of a heel of bread down the table to her without a word.
+Karis came to the scarred table late at supper on the sixth day, before he went back down to the archive for the night, with dust to the elbows of her coat and a smear of something grey along one cheekbone that she had plainly not noticed. She sat down at the fourth bowl and ate her barley in silence, and Lira slid half a heel of bread down the table to her without a word.
 
 "I've been on the founding shelves for five days," Karis said at last, to her bowl. "I'll tell you what I've found, because it's fair you should know, and then I'll tell you what I haven't."
 
@@ -234,7 +234,7 @@ He looked at it, folded the sheet, and put it back in his coat.
 
 Cael had been thinking, all through the fourth round, about Lira's chalk ring in the frozen yard and the night his number had stopped at four. "On the lattice," he said slowly, "Lira told me to pick faster. I was deciding in the space where I should have been moving. Is it that?"
 
-Brom thought about it, honestly, as he thought about everything.
+Brom thought about it honestly.
 
 "No," he said. "Yours was a choosing. You had two ways and you couldn't pick, and picking faster fixed it, as near as anything does." He flexed his right hand, slowly, and watched the dull sheen go out of the skin. "Mine isn't a choosing. I know which way. I know where it's going before it's arrived. Mine's a waiting. Something in me has to finish holding it before it'll let me send it on." He looked at the floor. "You can't hurry a wait by deciding to. That's the difference. That's why it's a wall and not a habit."
 

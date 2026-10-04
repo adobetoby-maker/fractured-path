@@ -2,7 +2,7 @@
 
 Karis trained at the fifth bell in section two, on the heat-Paths floor, and on the first afternoon of the study she stopped at the floor desk before her block and said something to the lean old instructor with scorched cuffs that made him look across the hall at the rail.
 
-Cael was at the rail with the binder open on his arm. The instructor looked at him for a long moment, as a farmer looks at a stray dog that has wandered into his yard and sat down as if it lived there. Then he said something short back to Karis, who nodded, and picked up his slate and went to his chalk.
+Cael was at the rail with the binder open on his arm. The instructor looked at him as a farmer looks at a stray dog that has wandered into his yard and sat down as if it lived there. Then he said something short back to Karis, who nodded, and picked up his slate and went to his chalk.
 
 "What did he say?" Cael asked her afterward.
 
@@ -18,7 +18,7 @@ That was the first thing he wrote down, and it took him most of a page to say it
 
 It made her the hardest person he had ever read.
 
-*There's nothing extra,* he wrote that night. *Every tell is in the right place and is exactly the right size. On the circuit the tell was the mistake. Here the tell is the form, and the form has no mistakes in it. I know when her points are coming to a quarter of a second. Knowing doesn't help. She's built so that knowing doesn't help.*
+*There's nothing extra,* he wrote that night. *Every tell is in the right place and is the right size. On the circuit the tell was the mistake. Here the tell is the form, and the form has no mistakes in it. I know when her points are coming to a quarter of a second. Knowing doesn't help. She's built so that knowing doesn't help.*
 
 He read it back and added a line under it.
 
@@ -108,9 +108,9 @@ The instructor looked at him for the first time.
 
 "Anything can be broken," he said. "I've never seen a Ternhall one broken from inside. Only from outside, by somebody stronger crossing it, and nobody here is strong enough to cross hers twice." He looked back at Karis, who was coming back to her chalk. "If you want my advice, and I don't give it to observers, you'll stop her before she's composed anything. After that, it's grammar, and she's better at grammar than you are."
 
-He went back to his slate. Cael wrote *Never join what you can still move* in the binder and *Stop her before she composes* under it, and looked at the second line for a long time without knowing yet how a person would do it.
+He went back to his slate. Cael wrote *Never join what you can still move* in the binder and *Stop her before she composes* under it, and looked at the second line without knowing yet how a person would do it.
 
-On the sixth block she showed him a thing that went into the binder on a page of its own. She laid a point at the centre of her section on her instructor's count, held it, and let it go. Its third of a breath of shimmer hung in the air after it, the release Cael had timed in every session since the quiet room, and on the next count, while the shimmer was still dying, she tried to lay another in exactly the same place. Her off hand went still and her breath went in, and the air in that one small spot did nothing at all. She waited until the shimmer had gone, laid it again, and it bloomed at once.
+On the sixth block she showed him a thing that went into the binder on a page of its own. She laid a point at the centre of her section on her instructor's count, held it, and let it go. Its third of a breath of shimmer hung in the air after it, the release Cael had timed in every session since the quiet room, and on the next count, while the shimmer was still dying, she tried to lay another in the same place. Her off hand went still and her breath went in, and the air in that one small spot did nothing at all. She waited until the shimmer had gone, laid it again, and it bloomed at once.
 
 "You did that on purpose," Cael said, when she came to the rail.
 
@@ -120,17 +120,17 @@ On the sixth block she showed him a thing that went into the binder on a page of
 
 "Because it's true about me, and you didn't know it." She folded the cloth. "Symmetry. If you're going to study me, you should study the real thing, the edges as well."
 
-He wrote it in the binder that evening as plainly as she had said it, under the heading he had begun to keep for her: *A point won't take where heat already stands. She has to wait out her own lag to lay twice in one place.* Then he sat and looked at it for some time without knowing why, as he had once looked at the line about Brom's wait before anybody knew it was a wall.
+He wrote it in the binder that evening as plainly as she had said it, under the heading he had begun to keep for her: *A point won't take where heat already stands. She has to wait out her own lag to lay twice in one place.* Then he sat and looked at it without knowing why, as he had once looked at the line about Brom's wait before anybody knew it was a wall.
 
 ---
 
 On the last afternoon of the second week she built the whole thing.
 
-She had asked Wray for a partner, for somebody, she told Cael, who would not be told how hard to hit and would not be told to lose, who knew he was outmatched and meant to be expensive about it. Wray had looked at her for a while and then sent Hobb.
+She had asked Wray for a partner, for somebody, she told Cael, who would not be told how hard to hit and would not be told to lose, who knew he was outmatched and meant to be expensive about it. Wray had looked at her and then sent Hobb.
 
 The heat-Paths floor had never had so many people at its rail. Word had got round, as word always got round at Greyvane, that the Ternhall girl was going to fight a full bout in the open with the observer watching. Edran was there with his arms folded at the end of the rail, and Lira and Brom and Gerda, and the second-year tout with a stub of pencil behind his ear, and Oona standing on the bottom rung to see over a third-year's shoulder.
 
-Hobb stood at the north mark of section two with his hands loose and his feet a shoulder-width apart, and he did not look like furniture today. Cael could not have said exactly what was different. Perhaps it was the set of his jaw, or perhaps only that nobody had bent to his ear before the bout to tell him what to do.
+Hobb stood at the north mark of section two with his hands loose and his feet a shoulder-width apart, and he did not look like furniture today. Cael could not have said what was different. Perhaps it was the set of his jaw, or perhaps only that nobody had bent to his ear before the bout to tell him what to do.
 
 The heat-Paths instructor called it, four exchanges, no touches counted, the bout to end on a yield or on his word.
 
@@ -194,7 +194,7 @@ He wrote it at the bottom of the diagram, because it needed writing.
 
 *She doesn't beat people. What she wins is an argument, and she builds it out of the floor. Most of them never notice it's about the floor until it's over.*
 
-Brom took the binder off his knees and looked at the drawing for a long, silent while, and then put one blunt finger on a channel line.
+Brom took the binder off his knees and looked at the drawing without a word, and then put one blunt finger on a channel line.
 
 "I'll tell you what it's like to stand near," he said. "I was on the rail at the north end, two paces from the chalk, with the read open. I couldn't help it." He frowned at the page. "It's like standing near somebody who's already made up their mind. You can feel the air's decided before she has. It leans."
 
@@ -208,7 +208,7 @@ Brom took the binder off his knees and looked at the drawing for a long, silent 
 
 "Points," said Cael.
 
-"Sixteen small promises she hasn't kept yet." Brom handed the binder back. "That's all a lattice is while she's building it. Promises. And I've never met anybody who reads a promise before it's kept the way you do." He lay back on Cael's bed with his hands behind his head, as if he had finished a meal. "You won't out-draw her. Nobody's out-drawn her in two years, according to Edran. You'll have to out-early her."
+"Sixteen small promises she hasn't kept yet." Brom handed the binder back. "That's all a lattice is while she's building it. Promises. And I've never met anybody who reads a promise before it's kept the way you do." He lay back on Cael's bed with his hands behind his head. "You won't out-draw her. Nobody's out-drawn her in two years, according to Edran. You'll have to out-early her."
 
 At the head of a clean page, in the square hand, Cael wrote *out-early her*, and under it, smaller, the entry for the night, which was shorter than most.
 
@@ -260,11 +260,11 @@ Karis did not need to find it. Her lattice sat on top of it the whole time. Ever
 
 The seam was a door, and against her it would be standing open on every side.
 
-He stayed out in the cold with that a long while, and then he went in and found Lira in the corridor outside her room, with her coat off and a towel round her neck from the pump.
+He stayed out in the cold with that, and then he went in and found Lira in the corridor outside her room, with her coat off and a towel round her neck from the pump.
 
 "I need you," he said. "Every night until the sitting. I need you to be a lattice."
 
-Lira held the towel in both hands and looked at him a long moment, and her face did the slow thing it did when she had been waiting to be asked for something and was too proud to be glad about it in front of him, and was glad anyway.
+Lira held the towel in both hands and looked at him, and her face did the slow thing it did when she had been waiting to be asked for something and was too proud to be glad about it in front of him, and was glad anyway.
 
 "Chalk," she said. "And a sack of something to throw. I'll find the sack. You find the chalk." She went into her room and turned in the doorway. "And Cael. You'll hate it."
 

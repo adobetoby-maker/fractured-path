@@ -34,7 +34,7 @@ He read it back, and it was the truest line he had put in the binder since the w
 
 Some while after the corridor had gone silent, Brom let himself in without knocking and lowered himself onto the floor across from the desk, put his back to the wall, and stretched his legs out in front of him.
 
-For a long time he said nothing, sitting as he had sat in the Ardenmere market square, the judge of interesting problems settled at his post, with nowhere else to be and nothing that needed saying yet. The lamp sank a knuckle's width while somewhere beneath them the old building ticked and settled.
+He said nothing at first, sitting as he had sat in the Ardenmere market square, the judge of interesting problems settled at his post, with nowhere else to be and nothing that needed saying yet. The lamp sank a knuckle's width while somewhere beneath them the old building ticked and settled.
 
 What he finally talked about was not the misfires, and not Quenna's question, and not the soft-cornered page in the binder's back pocket.
 
@@ -42,7 +42,7 @@ What he finally talked about was not the misfires, and not Quenna's question, an
 
 Cael looked down at the page.
 
-Nothing about it felt like winning, but he had never before put a true number to something heavy, and he found that the honest weight sat easier on him than a vague and comfortable one would have. Thursday had taught him that the reach was there. The two days since had taught him its price, and whose shoulders the price might fall on, and that there was only one way of carrying it he could bear to live inside: the slow way, counting and dating, with no glory in any of it. Taking was something anybody could do. The choosing happened in the ledger.
+Nothing about it felt like winning, but he had never before put a true number to something heavy, and the honest weight sat easier on him than a vague and comfortable one would have. Thursday had taught him that the reach was there. The two days since had taught him its price, and whose shoulders the price might fall on, and that there was only one way of carrying it he could bear to live inside: the slow way, counting and dating, with no glory in any of it. Taking was something anybody could do. The choosing happened in the ledger.
 
 "It's a heavier word than I expected," Cael told him.
 
@@ -60,7 +60,7 @@ She came out with her coat collar up and her hands in her pockets and no noteboo
 
 "I know I don't." Karis did not move. "I'd like to anyway. For a while. Until I've got the hang of not."
 
-Lira considered her a long moment. Then something in her face gave, very slightly, and she nodded at the frozen earth beside the pump.
+Lira considered her. Then something in her face gave, very slightly, and she nodded at the frozen earth beside the pump.
 
 "Stand there, then. You'll see his feet."
 
@@ -108,7 +108,7 @@ Lira stared at the bread, and then she laughed, really laughed, the sound that c
 
 "She's very quick," said Lira, with her mouth full. "I'd forgotten that about her. Watch your bowl, Brom."
 
-Brom moved his bowl a hand's width further from Karis with great dignity, and Karis watched him do it with an expression that was trying very hard not to be delight and failing.
+Brom moved his bowl out of Karis's reach, solemnly, and Karis watched him do it with an expression that was trying very hard not to be delight and failing.
 
 Cael ate his porridge and did not say anything at all. He was watching Karis, because he could not help watching, so he saw her look once, very briefly, at the corner of the binder showing in the inside of his coat, and then look away, at once, and not look back at it for the rest of the meal. She did not ask, and he had not thought she would. It was a long promise, and she had made it in a stable in the fourth week at a table with a clean sheet on it, and she was keeping it as she kept everything, exactly.
 
@@ -116,7 +116,7 @@ Cael ate his porridge and did not say anything at all. He was watching Karis, be
 
 Oona found him at the board in the main hall on the Sunday afternoon, in front of the calendar, which had been her office far longer now than it had been his.
 
-She was not looking at the calendar but at his arm. He was wearing his oldest shirt, with the sleeve rolled loose above the linen so that nothing touched it, and she looked at the linen gravely for a long moment before she looked up at him.
+She was not looking at the calendar but at his arm. He was wearing his oldest shirt, with the sleeve rolled loose above the linen so that nothing touched it, and she looked at the linen gravely before she looked up at him.
 
 "Does it hurt?"
 
@@ -140,7 +140,7 @@ Oona did not move.
 
 "It's new," he said. "I don't understand it yet. I don't understand most of what I am yet, and that's the truth too." He held her eyes. "When I understand it better, I'll tell you what I can. I'm not going to tell you everything. Some of it isn't safe to say out loud yet, even to people I'd tell anything. But I'm not going to tell you it was hers, because it wasn't."
 
-Oona considered this, the way she considered every sum, with great care and all the way through.
+Oona considered this.
 
 "Is it the strange kind? Like yours was?"
 
@@ -150,13 +150,13 @@ Oona considered this, the way she considered every sum, with great care and all 
 
 "No," said Cael. "Yours will be ordinary. You decided that in the first week, and you've been right about everything else."
 
-Oona looked at him for a long time, and then nodded, once, briskly, and wrote something on her slate and underlined it twice, and he did not try to read it.
+Oona looked at him, and then nodded, once, briskly, and wrote something on her slate and underlined it twice, and he did not try to read it.
 
 "Six days," she said.
 
 "Six days."
 
-"The hand goes on the other shoulder. Not the one by your arm." She tucked the slate under her own arm. "I worked it out. My mother's going to stand on the left, and if you come down too you'd have to stand on the right, and your right arm's fine." She was already walking away, and she turned back. "I won't tell the girls on my landing. They wouldn't believe it, and it's not theirs."
+"The hand goes on the other shoulder. Not the one by your arm. I worked it out. My mother's going to stand on the left, and if you come down too you'd have to stand on the right, and your right arm's fine." She was already walking away, and she turned back. "I won't tell the girls on my landing. They wouldn't believe it, and it's not theirs."
 
 She went up the hall toward the residence wing with her slate held very tight against her chest.
 
@@ -170,7 +170,7 @@ Gerda was at the floor desk in the training hall when he passed it on his way ba
 
 "Lira says that's the only kind worth taking."
 
-"Lira's right." Gerda tucked the slip into her coat. "I'm sparring Hobb again on Tuesdays. Nobody asked me to. I asked him." She said it in her procedure voice, every word set down separately, as if she were reading a clause aloud. "I lay the haze and walk out of it on purpose, every time, before he's even moved. It's the opposite of what I did for a year." She nodded once, formally. "I wanted somebody to know. It isn't in any record."
+"Lira's right." Gerda tucked the slip into her coat. "I'm sparring Hobb again on Tuesdays. Nobody asked me to. I asked him." She said it in her procedure voice, every word set down separately. "I lay the haze and walk out of it on purpose, every time, before he's even moved. It's the opposite of what I did for a year." She nodded once, formally. "I wanted somebody to know. It isn't in any record."
 
 "It's in mine now," said Cael. "If you don't mind."
 
@@ -188,7 +188,7 @@ Lira had the stories at supper, all six of them, and she counted them out at the
 
 "I told her it was true," said Cael.
 
-Across the table Lira studied him a long moment.
+Across the table Lira studied him.
 
 "Good," she said at last. "You'd promised her." She took his bread and gave him back the larger half. "Four stories pulling different ways and two true ones nobody believes. Worry when they start to agree."
 
@@ -210,11 +210,11 @@ At the eighth bell, when she would ordinarily have come down off her stool and p
 
 He did not say anything; he had learned that much about Prynn.
 
-"I heard the yard," she said, after a while. "On Thursday. From here, with the windows shut. I've heard a great many yards in sixty years. I've never heard one go that quiet." She drank her tea. "I'm not going to ask you what made it go quiet. I don't ask readers what they're reading."
+"I heard the yard," she said. "On Thursday. From here, with the windows shut. I've heard a great many yards in sixty years. I've never heard one go that quiet." She drank her tea. "I'm not going to ask you what made it go quiet. I don't ask readers what they're reading."
 
 "Thank you."
 
-"Don't thank me. I've told you before." She set the cup down square to the edge of the table, exactly, as she set everything. "I'll tell you something instead, since you've been sitting at my table every evening for a term and pretending not to notice a thing."
+"Don't thank me. I've told you before." She set her cup down. "I'll tell you something instead, since you've been sitting at my table every evening for a term and pretending not to notice a thing."
 
 He waited.
 
@@ -250,7 +250,7 @@ He read it back. There was nothing in it that was untrue and nothing a stranger 
 
 Then he sat a while longer with the lamp low, and let himself turn, carefully, toward the new one.
 
-He did not reach for it, because Lira's rule held until the third day and the third day was not yet; he only attended to it, as you look at a coin in your palm without spending it. It was where it had been since Thursday, low and warm, not doing anything, and it still felt like her, the precision still there in the warmth, and the patience, the small commitments kept exactly. He had stopped being startled by that and had begun, instead, to be glad of it, in a way he did not yet know how to write down, and perhaps never would. Some things you carried before you filed them.
+He did not reach for it, because Lira's rule held until the third day and the third day was not yet; he only attended to it. It was where it had been since Thursday, low and warm, not doing anything, and it still felt like her, the precision still there in the warmth, and the patience, the small commitments kept exactly. He had stopped being startled by that and had begun, instead, to be glad of it, in a way he did not yet know how to write down, and perhaps never would. Some things you carried before you filed them.
 
 He thought of all of them, the five, and the people in them. He thought that whatever else it was, whatever it was for, the thing in him had always kept the company it came from.
 
@@ -258,7 +258,7 @@ He thought of all of them, the five, and the people in them. He thought that wha
 
 On the Monday of the seventeenth week, at first light, the frost was so thick on the training yard that their boots left prints in it like prints in snow.
 
-Lira came at him at half speed and then, because it was the third day and she had promised herself she would test it properly, at three-quarters. Karis stood by the pump and counted. Brom had come out too this time, without saying why, and stood beside Karis with his hands behind his back and his breath going up white, planted like a gatepost.
+Lira came at him at half speed and then, because it was the third day and she had promised herself she would test it properly, at three-quarters. Karis stood by the pump and counted. Brom had come out too this time, without saying why, and stood beside Karis, planted, with his hands behind his back and his breath going up white.
 
 The framework answered every time.
 
@@ -276,7 +276,7 @@ Brom nodded once, the slow nod.
 
 They went in across the frozen yard together, the four of them, leaving four sets of prints in the frost behind them.
 
-He wrote it at the desk by the window before the first bell rang, in the plain hand he kept for the mornings when something had been counted and come out right.
+He wrote it at the desk by the window before the first bell rang.
 
 *Monday, week seventeen. Third clean day. The framework answered every call, at three-quarter speed, double included. Lead a quarter of a breath, unchanged. K. counted. Lira's rule met. The new one may be touched from tomorrow, small, with somebody in the room.*
 
