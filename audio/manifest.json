@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-08-26T17:15:00-06:00",
+  "generated": "2026-10-04T15:14:06Z",
   "universe": "The Fractured Path",
   "sourceBranch": "main",
   "books": [
@@ -18,7 +18,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-01.mp3",
               "bytes": 21764689,
               "durationSec": 1835.63,
@@ -35,7 +35,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-02.mp3",
               "bytes": 21292718,
               "durationSec": 1812.41,
@@ -52,7 +52,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-03.mp3",
               "bytes": 21467447,
               "durationSec": 1778.32,
@@ -69,7 +69,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-04.mp3",
               "bytes": 12743619,
               "durationSec": 1592.87,
@@ -87,7 +87,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-05.mp3",
               "bytes": 12793565,
               "durationSec": 1599.11,
@@ -105,7 +105,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-06.mp3",
               "bytes": 12378950,
               "durationSec": 1547.29,
@@ -123,7 +123,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-07.mp3",
               "bytes": 13020099,
               "durationSec": 1627.44,
@@ -141,7 +141,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-08.mp3",
               "bytes": 12566404,
               "durationSec": 1570.72,
@@ -159,7 +159,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-09.mp3",
               "bytes": 12972452,
               "durationSec": 1621.5,
@@ -177,7 +177,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-10.mp3",
               "bytes": 12569330,
               "durationSec": 1571.09,
@@ -195,7 +195,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-11.mp3",
               "bytes": 11807181,
               "durationSec": 1475.83,
@@ -213,7 +213,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-12.mp3",
               "bytes": 12681970,
               "durationSec": 1585.18,
@@ -231,7 +231,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-13.mp3",
               "bytes": 13163459,
               "durationSec": 1645.35,
@@ -249,7 +249,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-14.mp3",
               "bytes": 13397098,
               "durationSec": 1674.58,
@@ -267,7 +267,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-15.mp3",
               "bytes": 11690571,
               "durationSec": 1461.25,
@@ -285,7 +285,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-16.mp3",
               "bytes": 11606143,
               "durationSec": 1450.7,
@@ -303,7 +303,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-17.mp3",
               "bytes": 11511057,
               "durationSec": 1438.82,
@@ -321,7 +321,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-18.mp3",
               "bytes": 10738669,
               "durationSec": 1342.25,
@@ -339,7 +339,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-19.mp3",
               "bytes": 11041689,
               "durationSec": 1380.15,
@@ -357,7 +357,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-20.mp3",
               "bytes": 9804739,
               "durationSec": 1225.53,
@@ -375,7 +375,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-21.mp3",
               "bytes": 11373340,
               "durationSec": 1421.59,
@@ -393,7 +393,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-22.mp3",
               "bytes": 11665702,
               "durationSec": 1458.13,
@@ -411,7 +411,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-23.mp3",
               "bytes": 12870888,
               "durationSec": 1608.8,
@@ -429,7 +429,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-01-the-shattered/chapter-24.mp3",
               "bytes": 11038764,
               "durationSec": 1379.77,
@@ -455,7 +455,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-01.mp3",
               "bytes": 19459805,
               "durationSec": 2432.41,
@@ -473,7 +473,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-02.mp3",
               "bytes": 14699668,
               "durationSec": 1837.38,
@@ -491,7 +491,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-03.mp3",
               "bytes": 18060896,
               "durationSec": 2257.54,
@@ -509,7 +509,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-04.mp3",
               "bytes": 13605869,
               "durationSec": 1700.66,
@@ -527,7 +527,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-05.mp3",
               "bytes": 14964445,
               "durationSec": 1870.49,
@@ -545,7 +545,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-06.mp3",
               "bytes": 15191815,
               "durationSec": 1898.92,
@@ -563,7 +563,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-07.mp3",
               "bytes": 13922264,
               "durationSec": 1740.22,
@@ -581,7 +581,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-08.mp3",
               "bytes": 13104318,
               "durationSec": 1637.97,
@@ -599,7 +599,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-09.mp3",
               "bytes": 14377213,
               "durationSec": 1797.09,
@@ -617,7 +617,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-10.mp3",
               "bytes": 14181608,
               "durationSec": 1772.63,
@@ -635,7 +635,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-11.mp3",
               "bytes": 19497630,
               "durationSec": 2437.14,
@@ -653,7 +653,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-12.mp3",
               "bytes": 13321448,
               "durationSec": 1665.1,
@@ -671,7 +671,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-13.mp3",
               "bytes": 14802695,
               "durationSec": 1850.26,
@@ -689,7 +689,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-14.mp3",
               "bytes": 13234512,
               "durationSec": 1654.24,
@@ -707,7 +707,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-15.mp3",
               "bytes": 13630946,
               "durationSec": 1703.79,
@@ -725,7 +725,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-16.mp3",
               "bytes": 12463586,
               "durationSec": 1557.87,
@@ -743,7 +743,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-17.mp3",
               "bytes": 21445320,
               "durationSec": 2680.58,
@@ -761,7 +761,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-18.mp3",
               "bytes": 14970088,
               "durationSec": 1871.19,
@@ -779,7 +779,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-19.mp3",
               "bytes": 12807567,
               "durationSec": 1600.88,
@@ -797,7 +797,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-20.mp3",
               "bytes": 9997836,
               "durationSec": 1249.65,
@@ -815,7 +815,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-21.mp3",
               "bytes": 25154081,
               "durationSec": 3144.2,
@@ -833,7 +833,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-22.mp3",
               "bytes": 13913487,
               "durationSec": 1739.12,
@@ -851,7 +851,7 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-23.mp3",
               "bytes": 8774261,
               "durationSec": 1096.71,
@@ -869,13 +869,43 @@
             {
               "render": "elevenlabs",
               "engine": "ElevenLabs",
-              "voice": "Jason Keiller (Audience Pleaser)",
+              "voice": "Jason Andre (Mixed international)",
               "file": "audio/book-02-iron-circuit/chapter-24.mp3",
               "bytes": 10687887,
               "durationSec": 1335.92,
               "sha256": "546434210953a8ab2717ef0dfd82ac6494198edce48e78ce40f3fc1e242ea615",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/book-02-iron-circuit/chapter-24.mp3",
               "note": "64 kbps; request-stitched."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fractured-path-monroe-1.3-book-01",
+      "title": "The Shattered (Monroe 1.3 edition)",
+      "edition": "monroe-1.3",
+      "totalChapters": 60,
+      "renderedChapters": 1,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chapter 1 — Page Seven",
+          "manuscript": "books/fractured-path-monroe-1.3/book-01/manuscript/chapter-01.md",
+          "renders": [
+            {
+              "render": "breeze-directed",
+              "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
+              "voice": "Breeze TTS 2 · Calder · directed",
+              "methodId": "breeze-tts2-calder-directed",
+              "finishState": "listening-audition-not-production-approved",
+              "file": "audio/fractured-path-monroe-1.3-book-01/chapter-01.mp3",
+              "bytes": 17570733,
+              "durationSec": 2196.25,
+              "sha256": "e038526384c3fd1743d86bbd526a4f2fa5f4e9090a9e41e6f15b6215bf556ec8",
+              "sourceSha256": "79f46ec46fd62e4a682fb95b940c5c51d3251e24db4ed9898090b47fd9bc30df",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/chapter-01.mp3",
+              "note": "Listening audition, not production-approved. Breeze TTS 2 (research and non-commercial licence; evaluation only), original Calder clone, directed per segment after a full-chapter read. Pronunciations owner-confirmed: Cael, Lira; others unconfirmed."
             }
           ]
         }
