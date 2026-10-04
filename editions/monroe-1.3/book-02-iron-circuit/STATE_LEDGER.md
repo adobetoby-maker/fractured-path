@@ -195,3 +195,7 @@ Open threads now:
 15. **The watcher-Blade** (Copper formal, river academy, two years out, comes only on Cael's nights; no notebook, to keep the M6 studier distinct) booked "next week, third slot". *Flag: a hook for M2's A3 landing-beat bout; M2 may use or lapse it.*
 16. **Lira's night work**: a practice lamp in the north window past midnight; "a step that doesn't stop" (heard, not seen). *Flag: plant for her M2 arc; unexplained.*
 17. Texture: Vell's chipped cup from the Cinder House; Red Cap's chalk trade; Lira's single iron pan and cooking for four; the heavyset man's "Win?"; the boarding house at the blind end of a short row.
+
+### Movement 1 — CLOSED (2026-10-04, after repair r1; Sol recheck: CLOSE, no line fixes)
+- Ch1–8, 35,952 words. Mean 13.34, ≥40w 3.0%, 897 w/scene; overlap 0 (5 protected); skeleton 0%; gates 0.
+- Where the author's end-state below says eleven Copper formals or nine-of-ten without the failed ninth, the rulings above govern (twelve; trial nine did not fire).
