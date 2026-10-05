@@ -5768,3 +5768,1128 @@ summon. Across the floor, a man who has never needed to hurry.
 
 codex
 I’ve finished the eight chapters and all embedded canon evidence. The movement’s core story logic is strong; I’m doing the final evidence audit now—metric method, protected-line exactness, reuse gate, and the few continuity/formula issues that warrant repair priority.
+exec
+/bin/zsh -lc "sed -n '1,180p' editions/monroe-1.3/tools/formula_metrics.py && sed -n '1,80p' editions/monroe-1.3/book-02-iron-circuit/state/movement-007/source-overlap.tsv && rg -n -F -e 'Iron-equivalent. Cael. No Path designation.' -e 'Session nine. Could not reproduce. Still don'\"'\"'t know what that was.' -e 'three integrated fragments, one anomaly' -e 'I'\"'\"'d like it to stay that kind of fight.' -e 'Survive first. Think second.' -e 'It compresses inward before it fires outward.' -e 'If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That'\"'\"'s when I move.' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+#!/usr/bin/env python3
+"""Reproducible formula metrics for the Monroe 1.3 / O'Connor 1.3 edition.
+
+Measures what FORMULA_REVIEW.md asks for that can be counted without judgment.
+POV share and development beats need a reader and are NOT measured here.
+
+usage: formula_metrics.py CHAPTER.md [CHAPTER.md ...] [--json]
+
+Method (publish with every report so runs compare):
+- Text: markdown H1 line and lines that are only '---' / '***' / '* * *' are
+  stripped; '*' and '_' emphasis markers removed; fenced code blocks (system
+  notices) excluded from sentence/readability stats but counted as words.
+- Paragraph: a non-empty line separated by blank lines (one paragraph per line
+  in this repo). Dialogue lines count as paragraphs.
+- Scene break: a line that is exactly '---', '***', '* * *' or '#'. Chapter
+  boundaries are not counted as scene breaks.
+- Sentence: split on [.!?] followed by whitespace + an opening quote/capital,
+  or end of paragraph; ellipses and common abbreviations (Mr. Mrs. Dr. St.)
+  are protected. Em-dash interruptions do not end a sentence.
+- Syllables: vowel-group heuristic with silent-e and -le adjustments; proper
+  nouns are estimated the same way (they can bias Flesch slightly).
+- Flesch Reading Ease = 206.835 - 1.015*(words/sentences) - 84.6*(syll/words)
+- Flesch-Kincaid grade = 0.39*(words/sentences) + 11.8*(syll/words) - 15.59
+Targets (research/ironprince-craft-formula.md §2, §3, §8): sentence mean 14.6,
+median 11; paragraph median ~18 / mean ~26.8 (ASR proxy, directional);
+~950 words per scene, ~8.7 scene breaks per 10k words (ASR proxy, directional);
+Flesch RE 72.3, FK grade 6.8.
+"""
+import json, re, statistics, sys
+from pathlib import Path
+
+BREAK = re.compile(r"^\s*(---|\*\*\*|\* \* \*|#)\s*$")
+ABBR = re.compile(r"\b(Mr|Mrs|Ms|Dr|St|Mt)\.")
+SPLIT = re.compile(r"(?<=[.!?])[\"'”’)]*\s+(?=[\"'“‘(]?[A-Z0-9])")
+
+
+def syllables(word: str) -> int:
+    w = re.sub(r"[^a-z]", "", word.lower())
+    if not w:
+        return 0
+    if len(w) <= 3:
+        return 1
+    w = re.sub(r"(?:[^laeiouy]es|ed|[^laeiouy]e)$", "", w)
+    w = re.sub(r"^y", "", w)
+    groups = re.findall(r"[aeiouy]{1,2}", w)
+    n = len(groups)
+    if word.lower().endswith("le") and len(word) > 2 and word.lower()[-3] not in "aeiouy":
+        n += 1
+    return max(1, n)
+
+
+def words_of(text: str):
+    return re.findall(r"[A-Za-z0-9][A-Za-z0-9'’\-]*", text)
+
+
+def analyse(paths):
+    paras, sentences, total_words, breaks, fenced_words = [], [], 0, 0, 0
+    syll = 0
+    for p in paths:
+        in_fence = False
+        for raw in Path(p).read_text(encoding="utf-8").splitlines():
+            line = raw.rstrip()
+            if line.strip().startswith("```"):
+                in_fence = not in_fence
+                continue
+            if in_fence:
+                fenced_words += len(words_of(line))
+                continue
+            if not line.strip() or line.lstrip().startswith("# ") and not BREAK.match(line):
+                continue
+            if BREAK.match(line):
+                breaks += 1
+                continue
+            text = re.sub(r"[*_]", "", line).strip()
+            ws = words_of(text)
+            if not ws:
+                continue
+            paras.append(len(ws))
+            total_words += len(ws)
+            syll += sum(syllables(w) for w in ws)
+            protected = ABBR.sub(lambda m: m.group(1) + "<DOT>", text).replace("...", "<ELL>").replace("…", "<ELL>")
+            for s in SPLIT.split(protected):
+                n = len(words_of(s))
+                if n:
+                    sentences.append(n)
+    total_all = total_words + fenced_words
+    sc = len(sentences) or 1
+    wps = total_words / sc
+    spw = syll / (total_words or 1)
+    scenes = breaks + len(paths)
+    return {
+        "chapters": len(paths),
+        "words_total": total_all,
+        "words_prose": total_words,
+        "words_in_system_notices": fenced_words,
+        "sentences": len(sentences),
+        "sentence_mean": round(statistics.fmean(sentences), 2) if sentences else None,
+        "sentence_median": statistics.median(sentences) if sentences else None,
+        "sentence_sd_pop": round(statistics.pstdev(sentences), 2) if sentences else None,
+        "share_le5_words": round(sum(1 for s in sentences if s <= 5) / sc, 3),
+        "share_ge40_words": round(sum(1 for s in sentences if s >= 40) / sc, 3),
+        "paragraphs": len(paras),
+        "paragraph_mean": round(statistics.fmean(paras), 2) if paras else None,
+        "paragraph_median": statistics.median(paras) if paras else None,
+        "scene_breaks_marked": breaks,
+        "scene_breaks_per_10k": round(breaks / (total_all or 1) * 10000, 2),
+        "words_per_scene": round(total_all / scenes, 1),
+        "flesch_reading_ease": round(206.835 - 1.015 * wps - 84.6 * spw, 1),
+        "flesch_kincaid_grade": round(0.39 * wps + 11.8 * spw - 15.59, 2),
+        "method": "editions/monroe-1.3/tools/formula_metrics.py (see module docstring)",
+        "targets": {"sentence_mean": 14.6, "sentence_median": 11, "paragraph_median_asr": 18,
+                    "paragraph_mean_asr": 26.8, "words_per_scene_asr": 950,
+                    "scene_breaks_per_10k_asr": 8.7, "flesch_reading_ease": 72.3,
+                    "flesch_kincaid_grade": 6.8},
+    }
+
+
+if __name__ == "__main__":
+    args = [a for a in sys.argv[1:] if a != "--json"]
+    if not args:
+        sys.exit(__doc__)
+    r = analyse(args)
+    if "--json" in sys.argv:
+        print(json.dumps(r, indent=2))
+    else:
+        for k, v in r.items():
+            if k != "targets":
+                t = r["targets"].get(k.replace("words_per_scene", "words_per_scene_asr"))
+                print(f"{k:28} {v}" + (f"   (target {t})" if t is not None else ""))
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:241:*Note: Session nine. Could not reproduce. Still don't know what that was.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:249:*If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md:182:"I don't care about that. I want to tell you something, and then I'd like to go home." He leaned forward a little over the cold stew. "Don't try to work him out. Not early. That's what I did; I'd been taught to read a man and I went in reading, and he let me read, and while I was reading he was done with me. Whatever you've got for working people out, he's ahead of it. He was ahead of mine at nineteen." He sat back. "Survive first. Think second."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md:202:*Survive first. Think second.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:31:"It might. It went because I sent it." Dace let that stand; he did not seem to want it taken off him. "He said to tell you something. I'll give it you the way he said it, near enough. He said he's not here to embarrass you, or anybody. He came because yours was the first story in three years worth the road. And then he said, *I'd like it to stay that kind of fight.*"
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-47.md:49:"It compresses inward before it fires outward."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md:107:*Iron-equivalent. Cael. No Path designation.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md:155:"I'd like it to stay that kind of fight."
+
+exec
+/bin/zsh -lc "wc -l -c editions/monroe-1.3/book-02-iron-circuit/state/movement-007/source-overlap.tsv && rg -n -i -F 'three integrated fragments, one anomaly' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md && rg -n -F -e 'That'\"'\"'s you, said badly.' -e 'You can win this.' -e 'I know.' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+       0       0 editions/monroe-1.3/book-02-iron-circuit/state/movement-007/source-overlap.tsv
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:235:Three integrated fragments, one anomaly.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:137:"I know. I've read it." Brom was quiet for a moment. Then he said it carefully, like a man setting down a thing that might break.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:63:"I know."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:195:"I know."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:223:*Wind-adjacent. Left only; the fan. Half a body. The lock, two* ands*, and he'll count two; a man paid for since ten counts two. Three an exchange at the most. Read bursts cheap, a thin line; reactive bursts full price and a lock to stand in. Chain of two needs the fill, and the fill shows. Rule: the hip only when I know. When I don't know, the feet.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md:194:"I know." Brom put the coppers in his pocket rather than leave them on the board. "He didn't want it said, after, that he'd sold it for a bowl of stew. That's what that was." He stood up. "I'll give them back to him when he'll take them. That'll be a while."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md:208:She read it, and was quiet, and then said, "That's you, said badly."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:43:"I know."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:97:"I know."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:179:"Dace asked the carters. Carters see the road." Brom wiped his bowl with a heel of bread. "Washouts see the inside of halls, and then they come down the hill with a bag and never talk about it. I know. I came down a hill with a bag myself."
+
+exec
+/bin/zsh -lc 'for f in editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md; do echo "$f"; rg -n '"'"'^---$|''^#'"' \""'$f"; done' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md
+1:# Chapter 44 — Standing Room
+39:---
+71:---
+97:---
+157:---
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md
+1:# Chapter 45 — The Alcove Wall
+55:---
+103:---
+131:---
+202:---
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md
+1:# Chapter 46 — No Warning Beat
+57:---
+75:---
+132:---
+196:---
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-47.md
+1:# Chapter 47 — It Compresses Inward
+37:---
+85:---
+159:---
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-48.md
+1:# Chapter 48 — Declined to Be Interesting
+35:---
+101:---
+137:---
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-49.md
+1:# Chapter 49 — Ansel's Round
+37:---
+127:---
+167:---
+185:---
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md
+1:# Chapter 50 — Session Nine
+29:---
+117:---
+185:---
+243:---
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md
+1:# Chapter 51 — The Night Before
+31:---
+67:---
+97:---
+143:---
+171:---
+187:---
+
+exec
+/bin/zsh -lc 'for f in editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md; do echo "$f"; awk '"'prev==\"---\"{print NR \":\" "'$0} {prev=$0}'"' \""'$f"; done' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md
+40:
+72:
+98:
+158:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md
+56:
+104:
+132:
+203:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md
+58:
+76:
+133:
+197:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-47.md
+38:
+86:
+160:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-48.md
+36:
+102:
+138:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-49.md
+38:
+128:
+168:
+186:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md
+30:
+118:
+186:
+244:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md
+32:
+68:
+98:
+144:
+172:
+188:
+
+exec
+/bin/zsh -lc 'for f in editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md; do echo "$f"; awk '"'seen && NF{print NR \":\" "'$0; seen=0} /''^---$/{seen=1}'"' \""'$f"; done' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md
+41:The man at the door wanted four coppers for standing room, and Reydan paid it.
+73:The second bout went wrong, and Reydan watched it go wrong with the same attention he had given the first.
+99:The story about the boy had reached him in a guild hall in the spring, and it had been absurd.
+159:He went out past the doorkeeper into the cold, and up the hill through the district, by streets he did not know, toward the saddler's and the room.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md
+57:He did not go back to the steps at once. He sat down on the bench against the back wall instead and opened the observation notebook on his knee, at the front, where the first volume's names had been copied over in his smallest hand. He read down them the way another person might have counted coins.
+105:He gave it a heading of its own in the Log before supper. A fault that showed itself against a blow he had only imagined was a fault that would show itself twice as plainly against a real one, and he had learned the hard way that the only thing worse than writing such a fault down was not writing it.
+133:He walked home at dusk by the long way, round by the river gate and up past the ropewalk, because he wanted the cold and the time, and because every face on the market row had already looked at him once that day and he did not think he could stand to be looked at again. The river was high and brown and loud under the gate, and the ropewalk was shut, with the long shed dark and a single lamp in the forewoman's window at the end of it.
+204:He sat at the crate desk late with the Log open at the back, under the lamp, and did not write for a long while.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md
+59:The dock partner caught him at the arch as he went up for breakfast. He had come down for Lira's hour and found it already spent, and he stood with his staff on his shoulder looking at the floor rather than at Cael.
+77:Brom had the middle of the day, and he took it as if it were already his.
+134:They walked down to it after supper, in the dark, with the frost already coming on the cobbles and the lamps lit in the windows of the row. Brom said nothing for most of the way. Halfway down the second street he stopped under a lamp and stood there with his hands in his coat.
+198:Cael sat at the crate desk that night a long time with the Log open and the stub of the knock tally still grey on the back of his hand, listening to the house settle round him, the sister's hen shifting in the coal box below and the heavyset man's slow tread on the stair, and did not write anything at all until the house was quiet.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-47.md
+39:What Brom had to show him was a thing Brom could not quite do, and said so before he began.
+87:"If the read fails," said Brom, "and it will, some of the time, against a real one, you'll be standing in front of a burst you can't get out of the way of. What then?"
+161:On the third morning Lira gave him the right again, and the drop, and the roll. He did it a hundred times and perhaps fifteen of them were the thing she meant. On the fourth morning it was twenty-five in a hundred, and his left knee, which took all the dropping, had begun to have opinions on the stairs.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-48.md
+37:They read it at the kitchen table after supper, under the lamp, the three of them, with the house gone up to bed and the range ticking as it cooled.
+103:On the seventh morning the drop and the roll went right forty times in a hundred, and on the seventh afternoon the knock answered sixteen times in twenty with Brom circling, and Brom said, "Four in five, moving," and nothing else. Cael sat on the bench afterwards and did not trust it. He wanted five more to be sure, and Brom would not give him five more, because twenty was twenty and the bands stacked, and so he had to sit with sixteen and learn to believe it.
+139:He had been failing the drop all evening.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-49.md
+39:They fought at the end of the side floor, under the east benches, an hour after dawn, in front of perhaps a dozen people.
+129:Ansel did not go to his coat straight away.
+169:The defending stage began that afternoon, and the knock fell to pieces again, exactly as Brom had said it would.
+187:Lira came under the arch on the ninth morning and did not begin at once.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md
+31:Brom came down at noon with his sleeves already turned back, and did not sit.
+119:Cael sat on the floor facing him. The straw post swung a little above them on its rope from where Brom's back had touched it, and slowed, and stopped.
+187:He told Lira that evening, before the dusk hour, on the landing, with her door open and her staff across her knees on the top stair. He told her the same day, because he had always told her the same day, and because if he had waited until morning he would have begun to tidy it.
+245:He lay awake afterward for a long time in the dark, with the window a grey square over the crate desk and no lamp in the north window of the Ironyard, because she had said there would not be one.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md
+33:On the twelfth day, which was the chapel day, Lira cut the morning in half and kept the speed. She said she had seen a farrier do it with a horse before a long road: keep the pace, shorten the work, let the legs come back without letting them forget. He did not argue. His legs had begun, that morning, to feel like his again, a little lighter at the bottom of the drop, a little quicker coming off the right foot.
+69:On the thirteenth day the Ironyard was full before the afternoon card, and it was not even the night.
+99:The lamps went up at dusk, all of them.
+145:Reydan had come for the room, and he had it. Then, in the middle of the second bout, he found the boy.
+173:Cael had seen her early, at the back by the side door, in a better coat than the room and with the small book on her knee, and had known her from Keth's night and Bede's. He asked Dace about her in the gap before the last bout, at the wall.
+189:Brom found him at the arch of Lira's alcove, as he was going in to be alone with it.
+
+exec
+/bin/zsh -lc "perl -CSDA -ne 'if (("'$ARGV =~ /chapter-44/ && $. >= 41) || ($ARGV =~ /chapter-51/ && $. >= 145 && $. <= 171)) { while (/[A-Za-z0-9][A-Za-z0-9’'"'\"'\"'\\-]*/g) {"'$n++} } if (eof) { close ARGV; $.=0 } END { print "$n'"\\n\" }' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+4521
+
+exec
+/bin/zsh -lc "nl -ba editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md | sed -n '12,30p'; nl -ba editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md | sed -n '1,12p'; nl -ba editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md | sed -n '1,82p'" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+    12	
+    13	Cael waited.
+    14	
+    15	"His name's Reydan. He's from up the river, two cities on." Dace said it carefully, giving each part its own place. "Iron-tier, on a guild card. Rank eight. Pressure Path, the burst kind, not the long kind. Twenty-two. Trained at an academy. He wants you."
+    16	
+    17	Cael stood away from the wall.
+    18	
+    19	"Wants me how?"
+    20	
+    21	"On the main floor. I've given him two weeks from yesterday. Tuesday fortnight." Dace turned the pencil over. "I'll not put you on anything before it. You've a clear card till then."
+    22	
+    23	The sweeper's broom went by the arch and on. Cael found that he was standing very still, as he stood at a mark, and made himself breathe out.
+    24	
+    25	"Why me?"
+    26	
+    27	"Because of a letter." Dace looked at the floor for a moment, which was not like him either. "You remember I told you about the courier. The keeper up the river, asking for one line by name. I wrote him back. I copied it out for him, the line, the whole of it, in my own hand, because a keeper had asked and I've never yet refused a keeper a line." He looked up again. "He took it to this man. This man read it, and packed a bag, and came down the river on a wool wagon to see if it was true. He told me so himself. So you've got me to thank for him, if thanks is what you want to give."
+    28	
+    29	"It's the line," said Cael. "It would have gone anyway."
+    30	
+     1	# Chapter 46 — No Warning Beat
+     2	
+     3	Lira did not say good morning. She came under the arch at first light with her staff in her hand and her hair tied back hard, and before Cael had finished turning round from the post she was already low and already coming.
+     4	
+     5	He got his forearm up, and that was all he got. The staff went past the forearm and took him across the ribs on the left side, not hard, but square, and he went back a step into the wall.
+     6	
+     7	"That's one," said Lira, standing off. "You saw me come in. You saw me pick it up. You turned round to say something, and you were going to say it before you did anything else, and I hit you while you were deciding what it was." She reset, with the staff low across her body. "He'll not say good morning either."
+     8	
+     9	"You might have warned me."
+    10	
+    11	"That's the whole of the lesson. I'm not going to." She was already moving again.
+    12	
+     1	# Chapter 51 — The Night Before
+     2	
+     3	The tired stage began on the eleventh day, and Lira made sure he was tired for it.
+     4	
+     5	She did not cut the morning short. She gave him the whole hour and then another half on top of it, at full speed, from the right and the left and the front with nothing before any of it. She sent him to the stone with the drop and up again with the roll until his left knee was shaking at the bottom of every drop and his breath was coming in pieces. At the end she stood back and looked at him the way she looked at a horse, and said, "That'll do. Go and give him what's left," and went up the steps without another word.
+     6	
+     7	What was left was not much. He sat on the bench in the alcove at noon with the bread Brom had brought going down in lumps, and felt it: the particular emptiness of a body that has been spent to the bottom and not yet filled again, where every movement has to be asked for twice. His eyes were slow and his feet were stupid. When Brom stood up and set himself in the middle of the floor, Cael got up after him the way an old man gets out of a chair.
+     8	
+     9	"This is the one," said Brom. "This is how you'll be in the third exchange. May I?"
+    10	
+    11	"You may. May I?"
+    12	
+    13	"You may."
+    14	
+    15	It was worse than defending. Defending had pulled his attention to the blows; this pulled his attention to nothing, because there was nothing in him to pull. The knock went out thin and came back thinner. Twice he planted and arrived and simply forgot to ask, and stood there with the gap going by while Brom gathered and sent. Once he knocked and got *inward* clean and could not make his legs do anything about it, and the push took him in the chest and sat him down on the stone, and he sat there a moment looking at the beams before he got up.
+    16	
+    17	Twelve in twenty.
+    18	
+    19	"Three in five," said Brom. "Tired." He did not sound disappointed. "That's where you are. Now we know."
+    20	
+    21	Then, because it was the eleventh day and he had kept the last three for it, they did the redirect. He had thought, after the tired stage, that he would not be able to; but the redirect did not want quick feet or a clear head. It wanted a plant and a turned shoulder and the nerve to let a push run through him instead of stopping it, and he had that much left. Ten went through at the right angle. Eleven went through a little high, and he felt it in the shoulder's groove like a wheel in a rut. Twelve went through clean. Then the bill came, all of it, along the whole groove at once, and he sat on the bench and let it come.
+    22	
+    23	"Twelve," said Brom.
+    24	
+    25	"Twelve. That's the lot." He did not open his eyes. "The shoulder's done till Tuesday. I'll not ask it for anything till I'm on the floor, and on the floor it'll give me three."
+    26	
+    27	"Three's what you said a week ago."
+    28	
+    29	"Three's what it was a week ago. I've only found out it's true."
+    30	
+    31	---
+    32	
+    33	On the twelfth day, which was the chapel day, Lira cut the morning in half and kept the speed. She said she had seen a farrier do it with a horse before a long road: keep the pace, shorten the work, let the legs come back without letting them forget. He did not argue. His legs had begun, that morning, to feel like his again, a little lighter at the bottom of the drop, a little quicker coming off the right foot.
+    34	
+    35	In the afternoon, tired from the half-morning but not wrecked by it, he knocked Brom twenty times with the gathering and the strikes and the circling, all of it at once, the way the floor would be. The knock gave sixteen.
+    36	
+    37	He held the back of his hand to the light from the arch and looked at the rings for a long time, and then he did something he had not done all fortnight. He turned to the page in the Log where he had written every session, and read it down from the top, and added it up.
+    38	
+    39	*At rest: 12, 14, 16.*
+    40	
+    41	*Moving: 9, 13, 16.*
+    42	
+    43	*Defending: 10, 15. Ninth session, ten of the first twelve before the thirteenth.*
+    44	
+    45	*Tired: 12, 16.*
+    46	
+    47	He looked at it for a while. Every column ended in the same place, or near enough: sixteen in twenty, standing or moving or being struck or spent. Four in five. Against Keth, with his feet planted and the man inside a forearm, it had been nine knocked and five answered, a little more than half, a coin he had been careful never to lean on. Now it was four in five in every condition Brom could put him in, and the band that came after each knock arrived later than it had in the autumn and went away sooner. He could feel the difference: twenty knocks used to leave him stacked to the top of his head by the end, and now they left him with a stripe behind the eyes that was gone by supper.
+    48	
+    49	*About one in five fails,* he wrote, under the columns. *At worst. At a forearm good; at a pace still fair; at two paces still nothing. It answers use. It deepens where it's worked. Brom built the steps; I only climbed them.*
+    50	
+    51	And then, because the Log did not get to keep only the comfortable things:
+    52	
+    53	*It gives me when. It doesn't give me where. Brom's push only ever comes at me. His won't have to.*
+    54	
+    55	Brom read it over his shoulder, slowly, from the front.
+    56	
+    57	"You'll not have twenty on the floor," he said.
+    58	
+    59	"No."
+    60	
+    61	"You'll have however many you can get before your head's full. And one in five of those will lie to you." He sat down. "Spend every one on the pulling in. Don't waste one finding out how he's feeling, or whether he's slowing, or anything you only want to know. The pulling in, and that's all."
+    62	
+    63	"I know."
+    64	
+    65	"I know you know." Brom looked at the arch. "I'm saying it because tomorrow I'll not be in here to say it."
+    66	
+    67	---
+    68	
+    69	On the thirteenth day the Ironyard was full before the afternoon card, and it was not even the night.
+    70	
+    71	Dace had a ledger now, a little dog-eared book of his own that he kept in his coat and took out every half hour and wrote in and crossed out again. It was not Vell's book, and he would not let anybody call it that. It was a list of the people he had promised a place to stand, and it had been growing for a week. Cael passed him at the wall at midday and found him with the little book open against the chalk, running his pencil down a column and moving his lips.
+    72	
+    73	"Here's my trouble," said Dace, without looking round, as if Cael had asked. "The stone holds what it holds. Fill it to the rope and you've the floor full and the benches full and every man able to see over the one in front. Past that, they stand on each other's feet and somebody's child gets lost." He tapped the book. "I've given my word to more than that already. And then there's the street, which never asked anybody's leave in its life." He crossed a name out, and wrote it again lower down, and crossed out another. "So tomorrow, at that door, I'll be telling grown men to their faces that they're not coming in, one by one, while two men from the eel market sell stew in my corner." He shut the book. "Go away. You're one more body, and I'm counting you.
+    74	
+    75	The stew had come in that morning on a handcart, in two great black pots, and the eel-market men had set up in the corner by the slate exactly where Dace had said they could, and were sweeping their own patch of stone already with a kind of pride. Somebody had hung three of the mending-stall pennants over the side door. Dace had seen them and said nothing, which Cael understood to mean he had decided not to see them.
+    76	
+    77	The betting man had given up on his slab altogether and set up a board on two trestles by the pump. It had two columns on it now, side by side, and the columns did not agree. Down the left, under *practitioners*, the man from up the river was a long way in front, the way a man with a guild card for Iron rank eight would be in front in any room where people understood what the card meant. Down the right, under *the row*, it was nearly even, and every time the betting man shortened the left, somebody from the stalls came and laid a copper on the right and he had to shorten that as well.
+    78	
+    79	"Never seen it," the betting man said to Cael, without being asked, in the tone of a man reporting a disease. "Never once in twenty years. The ones who know what he is say he wins. The ones who know what you are say you do. And nobody on this hill knows what both of you are." He wiped a figure out with his sleeve. "That's not a line. That's an argument."
+    80	
+    81	Vell was at her table, and had been at it for two evenings, not with the main-floor book but with the old ones.
+    82	
+
+exec
+/bin/zsh -lc "perl -ne '"'$n=()=/"/g; print "$ARGV:$.:$n:$_" if $n%2; if(eof){close ARGV;$.=0}'"' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:73:9:"Here's my trouble," said Dace, without looking round, as if Cael had asked. "The stone holds what it holds. Fill it to the rope and you've the floor full and the benches full and every man able to see over the one in front. Past that, they stand on each other's feet and somebody's child gets lost." He tapped the book. "I've given my word to more than that already. And then there's the street, which never asked anybody's leave in its life." He crossed a name out, and wrote it again lower down, and crossed out another. "So tomorrow, at that door, I'll be telling grown men to their faces that they're not coming in, one by one, while two men from the eel market sell stew in my corner." He shut the book. "Go away. You're one more body, and I'm counting you.
+
+exec
+/bin/zsh -lc "rg -n 'two\\*|\\*["'^*]+'"\\*' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md | sed -n '1,80p'" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+15:It was worse than defending. Defending had pulled his attention to the blows; this pulled his attention to nothing, because there was nothing in him to pull. The knock went out thin and came back thinner. Twice he planted and arrived and simply forgot to ask, and stood there with the gap going by while Brom gathered and sent. Once he knocked and got *inward* clean and could not make his legs do anything about it, and the push took him in the chest and sat him down on the stone, and he sat there a moment looking at the beams before he got up.
+39:*At rest: 12, 14, 16.*
+41:*Moving: 9, 13, 16.*
+43:*Defending: 10, 15. Ninth session, ten of the first twelve before the thirteenth.*
+45:*Tired: 12, 16.*
+49:*About one in five fails,* he wrote, under the columns. *At worst. At a forearm good; at a pace still fair; at two paces still nothing. It answers use. It deepens where it's worked. Brom built the steps; I only climbed them.*
+53:*It gives me when. It doesn't give me where. Brom's push only ever comes at me. His won't have to.*
+77:The betting man had given up on his slab altogether and set up a board on two trestles by the pump. It had two columns on it now, side by side, and the columns did not agree. Down the left, under *practitioners*, the man from up the river was a long way in front, the way a man with a guild card for Iron rank eight would be in front in any room where people understood what the card meant. Down the right, under *the row*, it was nearly even, and every time the betting man shortened the left, somebody from the stalls came and laid a copper on the right and he had to shorten that as well.
+115:He did it lightly, as he would have on any man on any bench he meant to learn, because not doing it would have been a lie about who he was. He went in at the first layer, the outward one, *what does he do*, and began to look for the things a body gave off when it sat still. A shifting of weight from one hip to the other. The small endless fidgets of a hand that had been trained to hold something. The way a Path sat in a man when he was not using it, which nearly always showed somewhere, in a set of the jaw or a tightness across the back or a breath held a fraction too long. A year of benches had taught him that stillness always leaked. A man sitting doing nothing told you more about himself in ten minutes than he would in a bout, because in a bout he was thinking about you, and on a bench he had forgotten anybody was looking.
+123:*He knows I'm looking,* Cael thought. *He knows what a bench can take off a resting body, and he's taking care of it himself. He's not leaking because he's decided not to.* He had never sat across a room from anybody who could do that. He had only ever thought of it as a thing he hoped one day to be able to do himself.
+161:And that was all Reydan could say. He could judge what he saw, and he had judged it: a boy who watched like a master and had been worked hard by people who cared whether he lived. What the boy was, under that, he did not know. The keeper's line said *no Path designation*. The boy's body, sitting, said nothing about a Path at all, which might mean anything. Reydan sat on the end of the west bench and found, for the second time on that hill, that he did not want to guess.
+183:He wrote it in the grey book on his knee, under no mark at all, because he did not have a mark for her and did not want one yet. *The woman with the book. Academy pass tonight; Dace honoured it; whose, it doesn't say. Writes when I do something new. Won't be looked at back.* He looked at it. Then, smaller: *Tomorrow is a bout. It may turn into something else before it's finished. I don't know what.*
+215:The lamp burned down a little as he sat. Out in the main room the sweepers went over the stone, and the eel-market men's handcart went out at the side door with its pots knocking, and voices went past the arch saying *tomorrow*, and went on. He turned the pages back, past the fortnight's tallies and the clerk's account and Ansel's four words, and past the two columns, with *Going right* crossed out of *Shape* and written into *Habit* with its cost. He went past the three entries with their notices at the head, Wind and Pressure and Iron, and further, to the eight unasked instances carried from the old book, and the farmer, and *copies of real people, taken on real days*. A year and more of it. He had come down the hill with a bag and a direction, and this was what he had to show for it, and it was not nothing.
+219:*Forearms: yellow mostly, the left still blue where Ansel hooked it. Ribs: quiet unless pressed. Left knee: stiff in the morning, sound by noon; it took all the dropping. Right foot: mine. Shoulder: spent twelve, rested two days, will give three. Lira halved the last two mornings and kept the speed. Legs lighter than they've ever been. Tired underneath, the good kind.*
+223:*Wind-adjacent. Left only; the fan. Half a body. The lock, two* ands*, and he'll count two; a man paid for since ten counts two. Three an exchange at the most. Read bursts cheap, a thin line; reactive bursts full price and a lock to stand in. Chain of two needs the fill, and the fill shows. Rule: the hip only when I know. When I don't know, the feet.*
+225:*The feet. The drop and roll, right, low. No doorway. Slower than the hip; quicker than they were. In my legs since the sixth evening.*
+227:*Iron-adjacent. The knock. Four in five, at a forearm, in every condition Brom could make. One in five lies. Gives me when; doesn't give me where. Spend it on the pulling in and nothing else.*
+229:*Pressure-adjacent. Three redirects in the shoulder, and no more. Every one is paid for in the side and the breastbone, and I'll need those for the next exchange. Only buy a place I mean to stand in. The giving face: three on the beat, if he has a beat to ride. He may not.*
+231:*The gaze. Runs the whole fight. No ration tomorrow. Blind past ten degrees at full depth; he'll find that or he won't.*
+239:He turned to the back again, to the page headed *Anomalies*, and read the entry through. Under it there was a space he had left without knowing why. He knew why now. He wrote one line in it, in the field he had always kept at the foot of every entry for whatever did not fit anywhere else.
+241:*Note: Session nine. Could not reproduce. Still don't know what that was.*
+247:*Reydan. Iron-tier, rank eight. Pressure, burst. What I can feel: the pulling in, at a forearm, four times in five. What I can't see: anything else. What I know of him from the clerk: he builds a read of a man, uses it, and the moment it fails he drops it and builds a new one. He's never kept a broken read in his life. Every new one has to be built from what's in front of him at that moment.*
+249:*If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.*
+
+exec
+/bin/zsh -lc "perl -ne '"'$n=()=/'"\\*/g; print \""'$ARGV:$.:$n:$_" if $n%2; if(eof){close ARGV;$.=0}'"' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+exec
+/bin/zsh -lc "rg -n '[[:alnum:]][*][[:space:]]|[*][[:space:]][[:alnum:]]' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:23:All of it was a long way off. He noticed it the way he noticed weather, as a thing that was happening round him, and carried the bread back down the hill, and ate it on the bench in the alcove with Lira's staff leaning on the wall beside him. He had knocked her thirteen times that morning, with her leave, and twelve had answered, and he had called every one aloud. She had said *yes* to each without stopping, and at the end she had said *twelve*, and nothing else, and gone up to sleep for an hour before her own day. That was what mattered this morning. The pennant in his coat did not.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:25:It had been the strangest of all the mornings. With her leave given, the alcove had become a different room. Every time she came at him he could feel her coming for an instant before she came, small and quick and alive at the end of his knock, and every time he called it aloud she said *yes* without breaking stride, so that the morning had gone by in a kind of conversation, his voice and her staff and the one word back. He had not been hit nearly as often as he had been all week. He had been hit hard enough, the times he was, to remember that a knock was not a wall.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:87:He knew why, too. He had known why since he was nine years old, sitting on an upturned crate in Hesk's workshop with a cup of milk, while Hesk fitted a bearing into a housing on the bench. A man had come round that morning selling something on credit, nothing to pay until spring, and Hesk had sent him away. Cael had asked why, because it had seemed like a good thing to be given something and pay nothing. Hesk had gone on easing the bearing in for a while without answering. *Lad,* he had said at last, *anything that charges you nothing at the counter means to send the bill later. And it'll send it in a coin you never said you'd pay in.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:135:"No." Cael was quite sure. He had the Log by heart; he could have recited every field of every entry. *Wind-adjacent. Pressure-adjacent. Iron-adjacent.* Three, and their notices, and their costs. "There's nothing in the Log like it. Nothing I've had has ever done that, or anything near it."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:149:Cael found that he was grateful for that, more grateful than he could have said. Brom had always kept the two things apart: what he had felt, and what he would claim. That was the same line the Log had been ruled down from its first page, *claim* on one side and *evidence* on the other.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:189:She listened to all of it without a word. When he came to Brom's hands resting on his chest, with nothing behind them, she put her own hand flat on the staff. When he came to *Tide-adjacent* she looked up, and did not look away again until he had finished.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:205:He did not put it under any of the three entries, because it did not belong to any of them. He turned instead to the back of the book, past the two columns and the *Carrying* page, to a clean leaf, and ruled a line across the top of it and wrote a heading he had never needed before.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:235:She did not mention it once in the whole hour. She came at him from the right and the left and the front with nothing before it, and he knocked when he could and dropped when he could not, and called what the knock gave him, and she said *yes* or *no* to each. At the end of it she stood in the middle of the alcove with her breath going white and looked at him for a while.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:15:It was worse than defending. Defending had pulled his attention to the blows; this pulled his attention to nothing, because there was nothing in him to pull. The knock went out thin and came back thinner. Twice he planted and arrived and simply forgot to ask, and stood there with the gap going by while Brom gathered and sent. Once he knocked and got *inward* clean and could not make his legs do anything about it, and the push took him in the chest and sat him down on the stone, and he sat there a moment looking at the beams before he got up.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:49:*About one in five fails,* he wrote, under the columns. *At worst. At a forearm good; at a pace still fair; at two paces still nothing. It answers use. It deepens where it's worked. Brom built the steps; I only climbed them.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:123:*He knows I'm looking,* Cael thought. *He knows what a bench can take off a resting body, and he's taking care of it himself. He's not leaking because he's decided not to.* He had never sat across a room from anybody who could do that. He had only ever thought of it as a thing he hoped one day to be able to do himself.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:183:He wrote it in the grey book on his knee, under no mark at all, because he did not have a mark for her and did not want one yet. *The woman with the book. Academy pass tonight; Dace honoured it; whose, it doesn't say. Writes when I do something new. Won't be looked at back.* He looked at it. Then, smaller: *Tomorrow is a bout. It may turn into something else before it's finished. I don't know what.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:215:The lamp burned down a little as he sat. Out in the main room the sweepers went over the stone, and the eel-market men's handcart went out at the side door with its pots knocking, and voices went past the arch saying *tomorrow*, and went on. He turned the pages back, past the fortnight's tallies and the clerk's account and Ansel's four words, and past the two columns, with *Going right* crossed out of *Shape* and written into *Habit* with its cost. He went past the three entries with their notices at the head, Wind and Pressure and Iron, and further, to the eight unasked instances carried from the old book, and the farmer, and *copies of real people, taken on real days*. A year and more of it. He had come down the hill with a bag and a direction, and this was what he had to show for it, and it was not nothing.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:223:*Wind-adjacent. Left only; the fan. Half a body. The lock, two* ands*, and he'll count two; a man paid for since ten counts two. Three an exchange at the most. Read bursts cheap, a thin line; reactive bursts full price and a lock to stand in. Chain of two needs the fill, and the fill shows. Rule: the hip only when I know. When I don't know, the feet.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-49.md:95:Cael was not in front of it. He had gone left at the knock, on the hip, a read burst, front-left round the outside of the first hook, half a body. In the lock, the two *ands* of bright stillness at the end of it, he saw what he had known he would see. Ansel's whole frame had gone past him with nothing behind it, and the back of his ribs was open, and his feet were wrong.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-49.md:113:Ansel came at full speed, as he had in the first, with nothing held back, and Cael met it with everything Lira had put into him in eight days. He dropped and rolled right under the first hook. He knocked from a planted foot at a pace and got *there, heavy left* and went right on his feet, a beat slow still but not a whole beat. He took a short hook on the forearm that numbed it to the elbow, and another on the shoulder he had spent nine redirects on, and felt the shoulder tell him so. Once he knocked and got smear, a confused rush of weight that did not know which way it was going. Because he had decided before the round that smear meant *don't go*, he did not go. He stood off and took a straight on the forearm instead of walking into the hook behind it, and was glad, after, of the bruise.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-47.md:61:So the second session was that: Brom standing a forearm off, gathering and sending, slowly at first and then less slowly, and Cael knocking at the moment he thought the gathering began, and saying what came back before the push arrived. *Inward*, *nothing*, *inward*, *smear*, *nothing*, *inward*, on and on. The inward answer was like nothing the knock had brought back before. It was not *there*, and it was not *going forward*. It was a kind of drawing tight, as though the whole man had become a fist in the making, and it came and went so fast at the edges that he could not have said whether he felt it begin or only felt it already begun. Twice he knocked too late and got the push instead, the weight going outward, already spent. Once he knocked too early and got only Brom, large and still and thinking about nothing, and had to say *nothing* while the gathering began a heartbeat after under his hand.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-47.md:193:It was not that Brom moved quickly. He moved the way he always moved, as if every step had been weighed first, circling the alcove slowly with his weight low, so that Cael had to move with him to stay a forearm off. But a forearm off was no longer a place; it was a thing Cael had to keep making, every step, and every step he made unsettled the stillness the knock was built on. He planted his foot to knock, as Brom had taught him, and the knock went out, and half the time the answer came back as smear, or as nothing, or as a confused *there* that did not know whether it meant the man or the wall behind him.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-47.md:211:*Nine in twenty, moving,* he wrote that night. *Of the eleven that didn't answer, six went out with my foot still coming down. The read isn't bad in motion. My knocking is. Plant, arrive, then ask.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md:33:He had not decided to; it was the old reflex, the one that had kept him whole since the Cinder House: a blow coming from the left and too close, and the hip dropping and loosening and taking him front-left round it, half a body, clean. He felt the burst go and was glad of it for the length of a breath. Then he was in the lock, two *ands* of bright stillness at the end of the burst, standing exactly where it had put him; and Lira was already there. She had not followed the burst. She had stepped once, without hurry, to the place the burst always ended, and the end of her staff was resting on his collarbone before the second *and* was out.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-46.md:99:It was quiet work, and it was slow, and nobody watching from the arch would have seen anything at all. Brom stood and Cael stood, a forearm apart, and every little while Brom's weight gathered, deep in him, the way it gathered before he hardened and sent, and Cael knocked from his planted foot at the moment he thought the meaning came, and felt for what came back. Sometimes it came back clean: *there, and going forward, toward me*. Sometimes it came back as smear, a sense of somebody large and nothing more, like a word heard through a wall. And sometimes Brom meant nothing and sent nothing, and the knock came back with only the weight of a man standing, and Cael had to say *nothing* and be sure of it.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md:17:He had the Log open at the back, at the two columns from the night of Bede. The *Habit* column had five lines in it now, and a cost against each. The *Shape* column had five lines and no costs, because shapes could not be bought out, and under each he had been trying for a fortnight to write how he would stand so that nobody was ever in the place it left open. Four of the five had something under them. The fifth did not.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md:19:*The right is only ever my feet,* it said, and under it there was nothing at all.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md:63:He did not watch the strikes. He had stopped watching strikes at about fourteen, when a master at the academy had stood behind him at a sparring floor and put two fingers on the back of his neck and turned his head, gently, from the blades to the feet. *The blade tells you what happened,* she had said. *The feet tell you what's about to. And between the exchanges, when nobody's looking, the feet tell you what the fighter's afraid of.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-44.md:109:Reydan had read it standing in the lamp-oil shop with the smell of the oil all round him. The story had said *no Path*, and the story had been told by fools. But a keeper's line was not a story. A keeper did not write *Iron-equivalent* in a book that other keepers read because a crowd had shouted. And *No Path designation* in a keeper's careful hand was not a boast or a legend. It was simply what was there, set down plainly, by somebody whose whole life was being right about such things. He had read it twice, and then gone home and packed one bag.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:67:He turned to the back of the notebook, to his own method written out in its first form, the year before. It was the bench, and the hooks, and the three layers, and the four months he had watched Keth. Every fight he had ever won above his weight, he had won on a bench first, watching. That was what the grey book was for. That was what *he* was for, if he was honest about it.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:111:He went up for bread a little after midday with the dock partner's bruise still warm on his shoulder, and the whole row seemed to have got there before him. The pie woman, who had said *Cael* to him every day for three weeks, said it again, and then added nothing, which was new. Two carters at the pump stopped talking when he passed. That was not new; but this time one of them called after him, quite cheerfully, "Up the river, is it?" and the other hit him on the arm.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:125:It went on like that the whole length of the row. Nobody said the visitor's name to him, and nobody needed to. The chestnut man gave him two chestnuts for the price of one and would not take the other copper. The mending-stall woman looked at him over her iron spectacles as he passed, and said *lad* in a voice that meant several things at once, one of which was plainly *I hope you know what you're doing*. A boy he did not know ran past him on the market steps and shouted *up the river!* as if it were a game, and was gone before Cael could see his face. By the time he reached the baker's door he understood that the district had decided something about the fight before he had decided anything about it himself, and that what it had decided was that the fight was partly theirs.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:139:Every square had an *L* in the top corner and another *L* at the foot, small, for after supper. Most had a *B* in the middle, with a question mark beside it. The last square was empty except for a short line drawn across it, like the mark Bede had used for a name.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:161:"The dock man told me about your heels. You've told me now as well, and you told me on the first day, which is new." She looked at him across the pot with something that was not quite a smile. "I'll put that on the bill too, if you like. *Told me the first day.* I'll frame it."
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-45.md:171:"You sat down so suddenly the post swung." She wrote a small *E* in every square along the bottom row, one after another, with great firmness. "There. Now it's on the bill."
+
+exec
+/bin/zsh -lc 'if [ -e editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md ]; then echo exists; else echo absent; fi; git status --short -- editions/monroe-1.3/book-02-iron-circuit/state/movement-007' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+absent
+ M editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-cold.stdout.log
+ M editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.stdout.log
+?? editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-cold.lastmsg.md
+?? editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-cold.md
+
+exec
+/bin/zsh -lc "rg -n -F -e 'Evidence insufficient.' -e 'Filed as anomaly.' -e 'Monitor.' -e 'You can win this' -e 'I mean win.' editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-{44..51}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:223:*Can't choose. Not enough to choose with. Evidence insufficient.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-50.md:225:*Filed as anomaly. Monitor.*
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:193:"You can win this," said Brom.
+editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-51.md:197:"I don't mean get through it." Brom's voice was flat and careful, as if he had been carrying the words a long way and did not want to drop any. "I don't mean lose it well and write down what it taught you, the way you've done with everything since I sat down on your bench. You've got good at that. You're the best I've ever seen at it. I don't mean that." He let a moment go. "I mean win."
+
+codex
+The canon and protected-wording audit passes. I found one real countdown inconsistency plus two small read-aloud/markup defects; the supplied formula’s three primary working-range measures all pass, while sentence spread/readability and paragraph mean remain notable secondary drift. I’m writing the bounded review now.
+apply patch
+patch: completed
+/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+diff --git a/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md b/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..2b972e67a4ccb21c5b5b19d6f48f56611b01fc93
+--- /dev/null
++++ b/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+@@ -0,0 +1,137 @@
++# Editorial review — Movement 007, chapters 44–51
++
++## Review status and coverage
++
++**Disposition: targeted repair, then recheck.** The movement is structurally strong, canon-faithful, age-appropriate, and ready to hand forward after one countdown correction and two line-level read-aloud fixes. The numerical primary working-range gates pass; the remaining formula drift is secondary but worth a restrained sentence-level pass if the author is already reopening the movement.
++
++This is a **fresh-context simulated reader review in an informed editorial context**. It is not self-review and not a real human read; it is also not a blind cold read because the canon, movement brief, formula, Reader Standard, and measured metrics were supplied. Coverage is exactly eight complete files, chapters 44–51, totaling 37,869 prose words. No claim is made about unread chapters or a full-book response.
++
++## Unscored reader response
++
++Interest catches when Reydan pays in coppers, studies the Ironyard rather than announcing himself, and reads the losing Blade's feet. That makes him dangerous without making him cruel, and his pleasure at finally not knowing what he will face creates an unusually clean antagonist hook. The strongest sustained sequence is the chain from Ansel's painful account through his voluntary sparring round, where “declining to be interesting” becomes a usable tactic and gives Ansel a modest, humane recovery of dignity. Session nine then changes the nature of the pressure without pretending to solve it.
++
++Interest slips slightly through parts of chapters 47–48. Several drill explanations, tallies, and the written account restate information the reader already has before delivering the next change. The repetition is functional—the movement is about deliberate practice—but the prose sometimes explains the lesson after the scene has already made it clear.
++
++Cael matters most because his growth is ethical as well as tactical: he asks permission, learns to treat his own habits as evidence, notices what his need has cost Ansel, and accepts fear without turning it into spectacle. Ansel is the supporting character who gains the most in the least space. I expect the next event to be the Reydan bout, with the promised timing-versus-direction problem, three redirects, the scout watching, and session nine unavailable. I would continue immediately.
++
++## Reader lenses
++
++Scores are editorial judgments, not demographic research or release gates. They are not averaged.
++
++### Fluent thirteen-year-old lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8 | Ch44, opening lamp scene through “Two streets away… the Ironyard's door was taking money” | The bruised hands and misfiled right foot create an immediate personal problem; the cut to an unknown visitor turns it into threat. The opening is quiet rather than explosive, but concrete. | High |
++| Keep reading | 9 | Ch45, Dace's “Tuesday fortnight”; ch51, Brom's “I mean win” | The countdown is explicit, and each training success pays locally while leaving the main contest unresolved. | High |
++| Interest / freshness | 9 | Ch44, Reydan watches feet between exchanges; ch48, the opponent who “declined to be interesting” | The conflict is built from competing methods of attention rather than a stronger-versus-weaker contest alone. | High |
++| Clarity / flow | 7 | Ch47, the knock gives “when and not the where”; ch51, “eleventh / twelfth / thirteenth day” sequence | The mechanics are explained with good physical analogies, but repeated restatement slows some stretches, and the final countdown contains a one-day inconsistency. | High |
++| Character attachment | 9 | Ch46, Ansel's untouched stew and two coppers; ch48, Lira's hand on Cael's shoulder | Care is expressed through choices and restraint. Ansel, Lira, Brom, and Cael remain distinct and emotionally legible. | High |
++| Humor / warmth | 8 | Ch45, the household “bill”; ch47, the hen-marked `EAT. L. SAYS.` plate; ch50, Dace allowing stew | The humor is grounded in household and district character and never breaks the danger. | High |
++| Action / suspense | 8 | Ch49, Ansel's three exchanges | Position, choice, correction, and cost are trackable. The main bout is deferred by design, but the spar gives the movement a satisfying physical test. | High |
++| Progression payoff | 9 | Ch48, the right-foot drop enters Cael's legs; ch51, the four-in-five inventory | Practice becomes visible capability, with failure rates and bodily costs carried forward rather than erased. | High |
++| Connection | 8 | Ch44, Habit/Shape columns; ch50, comparison with the Brom-bout third exchange; ch51, resource inventory | Earlier plants and costs are integrated exceptionally well. The countdown slip is the only material connection defect found. | High |
++| Read-aloud quality | 7 | Ch51, Dace's “I'm counting you” paragraph; ch51 inventory, “two* ands*” | Dialogue voices and cadence are strong, but the missing closing quotation mark and malformed emphasis are audible/formatting defects; several explanatory paragraphs run long. | High |
++
++### Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 9 | Ch44, Reydan's standing-room arrival and appraisal of Vell's room | The opponent is characterized through professional attention, social manners, and hunger, not exposition alone. | High |
++| Keep reading | 9 | Ch50, the thirteenth simulated burst; ch51, the shut Log and waiting lamps | The anomaly deepens the series question while the pre-bout inventory keeps the immediate promise sharply bounded. | High |
++| Interest / freshness | 9 | Ch49, Ansel realizes “I beat me”; ch51, Cael and Reydan reading each other's managed stillness | Mirrored observers create tension without making the opponent secretly malicious or foolish. | High |
++| Clarity / flow | 8 | Ch47–48, simulation, redirect, clerk's account, and waiting tactic | Complex mechanics remain comprehensible, though a few explanations repeat their scene's conclusion and the day count needs correction. | High |
++| Character attachment | 9 | Ch46, Brom respects Ansel's refusal; ch49, Ansel says Reydan's name publicly | Relationships change through costly acts. Ansel's small resolution is especially effective. | High |
++| Humor / warmth | 8 | Ch45, the paper-stall creditor; ch47, Brom's “three people's worth of worse days”; ch50, pennants and Dace's stew rule | The district feels inhabited and affectionate without becoming cute. | High |
++| Action / suspense | 9 | Ch49, Ansel's round; ch50, session-nine drill | The action is tactical, embodied, and consequential; even the anomaly is staged as a physical event rather than abstract lore. | High |
++| Progression payoff | 9 | Ch46–51, knock stages from rest to tired; ch48, Shape-to-Habit reclassification | The movement provides one of the book's clearest effort-to-capability arcs and keeps the failure case visible. | High |
++| Connection | 8 | Ch50, “not the third exchange”; ch51, “three integrated fragments, one anomaly” | The movement distinguishes two strange events, preserves prior costs, and hands clean pressure into the climax. The calendar defect prevents a 9. | High |
++| Read-aloud quality | 8 | Ch44, Reydan's controlled repetitions; ch46, Ansel's four-word advice; ch51 line defects | The recurring syntax often has strong oral authority. Two mechanical defects and some long expository paragraphs need correction. | High |
++
++## Story, continuity, and canon
++
++### What works
++
++- The cause-and-effect chain is rigorous: no file on Reydan creates hesitation; Lira trains movement without a warning beat; Brom isolates the knock's failure conditions; Ansel tests speed and patience; the clerk's account supplies one narrow tactical door; session nine complicates rather than replaces the earned plan.
++- The movement preserves reciprocity. Lira gives up her night work and eventually grants limited permission to read her; Brom teaches while naming uncertainty; Ansel chooses the terms on which his old loss becomes useful; Cael asks before entering another person's signal. This directly honors the established consent boundary.
++- Reydan is formidable but morally legible. His cash at the door, refusal to scout Cael's alcove, care about “that kind of fight,” and willingness to accept losing as a payable price make him interesting rather than merely ominous.
++- Physical state is carried honestly: Lira's Maud bruises fade but still “talk”; Cael's left knee, forearms, ribs, and redirect shoulder accumulate costs; the final inventory accounts for rest and remaining capacity.
++
++### Findings
++
++1. **The last-day countdown is one day late.** Ch45 establishes the announcement at first light Wednesday and the bout as “two weeks from yesterday. Tuesday fortnight.” The common-room plan occurs Wednesday evening; ch46 is therefore the first training morning on Thursday, and ch47 explicitly calls the following session “the second morning.” Counting from that first training morning makes ch51's eleventh, twelfth, and thirteenth days Sunday, Monday, and Tuesday. Yet the thirteenth day is repeatedly “the night before,” with Dace saying “tomorrow” and Brom saying the same. The bout was already fixed for Tuesday. This is a verified continuity error, not merely plan drift.
++2. **Two line-level read-aloud defects occur in ch51.** Dace's paragraph ending “Go away. You're one more body, and I'm counting you.” lacks its closing quotation mark. The final Wind inventory has malformed emphasis in “The lock, two* ands*”; it should render as “two *ands*.” Both are small, but the edition is audio-first and the first can make Dace's speech appear to continue into narration.
++3. **No other canon contradiction was found.** Reydan remains twenty-two, Iron-tier Rank 8, burst-compression Pressure; the scout remains unnamed and does not approach; the pre-bout fragment count is correct; Lira remains provisional; Cael is fifteen; the Ironyard remains stone-floored, low-ceilinged, and lamp-lit. Knowledge boundaries are intact.
++
++### Power limits and reserved disclosures
++
++- The knock progresses from roughly half reliability to four in five through staged conditions, while its range and timing-only limitation stay explicit. It never grants direction for Reydan's burst.
++- Redirects remain capped at three clean uses per session and are paid through shoulder, ribs, hip, and breastbone. The movement does not smuggle in free durability.
++- Session nine occurs once: the thirteenth simulated burst of the ninth session. It cannot be reproduced in seven attempts, has no found cost, and is not relied on for the bout. Brom's “Tide-adjacent” is carefully limited to a secondhand comparison, explicitly “description, not diagnosis.”
++- The anomaly is kept distinct from the Brom-bout absence: “that was nobody; this was somebody.” No still place appears, Compression-adjacent does not yet exist, and nobody theorizes that Cael can take abilities by watching or contact. The three hypotheses stop at the exact Book 2 boundary and end with insufficient evidence.
++- The scout's credential is visible, but her academy and name remain withheld. Reydan can judge what he observes but never learns what Cael is.
++
++## Reader Standard
++
++**Pass.** The movement contains no profanity, obscenity, crude slang, blasphemy, sexual material, or innuendo. Violence is non-gory and consistently carries fear, bruising, fatigue, lost status, memory, and obligation. Moral goodness is active rather than decorative: permission is asked even when a floor would permit intrusion; Ansel's shame is treated with care; Brom returns the two coppers; Lira and Brom spend themselves to prepare Cael; Cael refuses to exploit openings in a spar. Cruelty is not rewarded, and power without consent is explicitly named as wrong.
++
++For a fluent thirteen-year-old, vocabulary is exceptionally accessible. The harder demand is conceptual rather than lexical: the reader must track the knock, gaze, Wind, taking face, redirect, lock, Shape/Habit distinction, and several failure ratios. The prose usually supports this with action and concrete analogy. Selective removal of repeated explanation would improve confidence without simplifying the system.
++
++## Protected wording audit
++
++Every protected line required inside this movement is present verbatim in substance and punctuation, with normal sentence-initial capitalization where applicable:
++
++| Protected wording | Location | Result |
++|---|---|---|
++| *Iron-equivalent. Cael. No Path designation.* | Ch44, Reydan reads the keeper's copied line | Exact |
++| “I'd like it to stay that kind of fight.” | Ch44, Reydan to Dace; repeated by Dace in ch45 | Exact |
++| “Survive first. Think second.” | Ch46, Ansel; recopied in the Log | Exact |
++| “It compresses inward before it fires outward.” | Ch47, Brom's simulation | Exact |
++| *Session nine. Could not reproduce. Still don't know what that was.* | Ch51, anomaly Note field | Exact |
++| “three integrated fragments, one anomaly” | Ch51, pre-bout count | Exact apart from required sentence-initial capital `Three` |
++| *If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.* | Ch51, final plan | Exact |
++
++The packet's supporting anomaly wording—*Evidence insufficient* and *Filed as anomaly. Monitor.*—also appears exactly in ch50. “You can win this” / “I mean win” / “I know” lands in ch51 with the intended changed meaning.
++
++## Originality / source reuse
++
++**Pass on the supplied overlap result:** 0 unprotected shared runs of eight or more words; 5 protected runs, allowed. No source-reuse finding is raised. The referenced `source-overlap.tsv` is currently zero bytes, so the supplied summary can be accepted but the five allowed rows cannot be independently re-audited from that artifact; this is a reproducibility note, not a manuscript repair.
++
++## Numerical formula alignment
++
++### Method and coverage
++
++The supplied measurements cover all eight chapters and were produced by `editions/monroe-1.3/tools/formula_metrics.py`. Its sentence tokenizer splits on terminal punctuation followed by whitespace and an opening quote/capital (or paragraph end), protects common abbreviations and ellipses, and does not split em-dash interruptions. Its syllable estimator is a vowel-group heuristic with silent-e and `-le` adjustments; proper nouns and system terms are treated like ordinary words and may bias readability slightly. Paragraphs are non-empty manuscript lines; marked breaks are exact `---`/equivalents. Words per scene uses marked breaks plus chapter starts. Written paragraphs therefore are not the same thing as the formula source's ASR pause segments.
++
++| Measure | Target / accepted movement range | Observed | Assessment |
++|---|---:|---:|---|
++| Chapters / prose words | Coverage | 8 / 37,869 | Complete movement; 0 system-notice words |
++| Sentence mean | 14.6 / 13–15.5 | 13.19 | Passes working range, low against raw target |
++| Sentence median | 11 | 9 | Below target |
++| Population SD | ~26 | 11.2 | Materially narrower than requested wide spread |
++| Sentences ≤5 words | 27.7% / up to ~34% | 30.3% | Passes working range |
++| Sentences ≥40 words | 3.3% / 2.5–4.5% | 3.5% | Passes primary working range |
++| Paragraph mean | ~26.8, directional ASR proxy | 44.92 | High; the long-paragraph tail is material |
++| Paragraph median | ~18 / up to ~30 | 29 | Passes working range at its upper edge |
++| Marked scene breaks | ~8.7 per 10k | 32 / 8.45 per 10k | Close |
++| Words per scene | ~950 / 850–1,050 | 946.7 | Excellent primary alignment |
++| Flesch Reading Ease | 72.3 | 91.4 | Much easier than target |
++| Flesch-Kincaid grade | 6.8 / 3.5–6 | 3.79 | Passes accepted range, low against raw target |
++
++The three measures designated as primary for repair decisions all pass their accepted working ranges: sentence mean 13.19, ≥40-word share 3.5%, and 946.7 words per scene. The movement should not be broadly rewritten to chase decimals. The meaningful secondary drift is a median sentence two words short, a much narrower sentence spread, very high Reading Ease, and a paragraph mean well above the directional proxy. Together these match the reading experience: simple words and many compact declarations live inside some long explanatory paragraphs. A selective human prose pass can address that pattern; scripted sentence or paragraph surgery is not appropriate.
++
++### POV, progression, and development
++
++- **POV share:** manual scene classification finds 4,521 Reydan words—ch44 after the first break and ch51's “Reydan had come for the room” cutaway—out of 37,869 prose words, or **11.94% Reydan / 88.06% Cael**. This is strong movement-level alignment with the book target of roughly 87/13. It remains a movement observation, not proof of the full-book allocation.
++- **Progression-vocabulary density and book-third ratio:** **UNMEASURED.** No project-specific lexicon count or cumulative equal-word-third report was supplied. Qualitatively, this last-third movement keeps system language at earned turning points—the drills, session nine, and the final inventory—but only a cumulative book run can confirm the requested ~1.7× front-loading.
++- **Development cadence:** no reproducible regex or manually coded event count was supplied, so the numerical rate is **UNMEASURED**. The manually observed beats are well distributed: Cael reclassifies his right foot, recognizes the dock partner's unseen history, treats the knock as trainable, learns to wait, files the anomaly without claiming it, and permits himself to imagine winning; Ansel, Lira, Brom, Reydan, and Dace receive independent choices or realizations. This supports plan adherence but is not a measured 4.5-per-10k claim.
++- **Secondary signals** (`-ly` suffixes, reporting verbs, combat terms, fillers, repeated phrases): **UNMEASURED** because no counts or lexicons were supplied. They are secondary/use-to-taste signals and are not converted into hidden targets here.
++- **Cumulative book drift:** **UNMEASURED.** Movement-only metrics cannot certify the whole-book POV share, character distribution, or word-third progression shape.
++
++## Repair brief
++
++1. **Location:** ch45 “Tuesday fortnight”; ch46 first training morning; ch51 “eleventh / twelfth / thirteenth day” and repeated “tomorrow.” **Observed issue:** the numbered training days place the night-before scenes on Tuesday even though the bout is fixed for Tuesday. **Effect on the reader:** the countdown ceases to be trustworthy at the point of maximum anticipation, and the shoulder-rest arithmetic becomes harder to place. **Proposed scope:** reconcile the ordinals or one schedule reference in the smallest possible set of lines; do not move or recast scenes. **Strength to preserve:** the accumulating two-week discipline and the precise sense that every day has been spent.
++
++2. **Location:** ch51, Dace's waiting-list paragraph ending “I'm counting you”; ch51 final Wind inventory, “two* ands*.” **Observed issue:** one missing closing quotation mark and one malformed emphasis boundary. **Effect on the reader:** Dace's speech can spill into narration, and the inventory can render or sound incorrectly in the audio-first edition. **Proposed scope:** two line fixes only—close Dace's dialogue and restore the space before `*ands*`. **Strength to preserve:** Dace's dry crowd-management voice and the compact, exact pre-bout accounting.
++
++3. **Location:** ch47–48 drill/account passages and ch50's session-nine explanation; movement-wide formula result. **Observed issue:** median sentence 9 versus 11, SD 11.2 versus ~26, Reading Ease 91.4 versus 72.3, and paragraph mean 44.92 versus the 26.8 directional proxy, despite all three primary working-range measures passing. **Effect on the reader:** some instructional stretches feel more repetitive and syntactically flatter than the otherwise sophisticated tactical thinking; long visual paragraphs can tire a thirteen-year-old even while individual sentences are easy. **Proposed scope:** a restrained, sentence-by-sentence pass only—join a small number of adjacent explanatory statements that express one thought, remove restatement after a scene has already proved the point, and split only the longest paragraphs at genuine turns. Preserve short dialogue, landing beats, all tallies that establish progression, and all protected wording. **Strength to preserve:** the lucid physical analogies, the deliberate-practice texture, Ansel's complete spar, session nine's full space, and the near-perfect scene rhythm.
+
+diff --git a/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md b/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..2b972e67a4ccb21c5b5b19d6f48f56611b01fc93
+--- /dev/null
++++ b/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+@@ -0,0 +1,137 @@
++# Editorial review — Movement 007, chapters 44–51
++
++## Review status and coverage
++
++**Disposition: targeted repair, then recheck.** The movement is structurally strong, canon-faithful, age-appropriate, and ready to hand forward after one countdown correction and two line-level read-aloud fixes. The numerical primary working-range gates pass; the remaining formula drift is secondary but worth a restrained sentence-level pass if the author is already reopening the movement.
++
++This is a **fresh-context simulated reader review in an informed editorial context**. It is not self-review and not a real human read; it is also not a blind cold read because the canon, movement brief, formula, Reader Standard, and measured metrics were supplied. Coverage is exactly eight complete files, chapters 44–51, totaling 37,869 prose words. No claim is made about unread chapters or a full-book response.
++
++## Unscored reader response
++
++Interest catches when Reydan pays in coppers, studies the Ironyard rather than announcing himself, and reads the losing Blade's feet. That makes him dangerous without making him cruel, and his pleasure at finally not knowing what he will face creates an unusually clean antagonist hook. The strongest sustained sequence is the chain from Ansel's painful account through his voluntary sparring round, where “declining to be interesting” becomes a usable tactic and gives Ansel a modest, humane recovery of dignity. Session nine then changes the nature of the pressure without pretending to solve it.
++
++Interest slips slightly through parts of chapters 47–48. Several drill explanations, tallies, and the written account restate information the reader already has before delivering the next change. The repetition is functional—the movement is about deliberate practice—but the prose sometimes explains the lesson after the scene has already made it clear.
++
++Cael matters most because his growth is ethical as well as tactical: he asks permission, learns to treat his own habits as evidence, notices what his need has cost Ansel, and accepts fear without turning it into spectacle. Ansel is the supporting character who gains the most in the least space. I expect the next event to be the Reydan bout, with the promised timing-versus-direction problem, three redirects, the scout watching, and session nine unavailable. I would continue immediately.
++
++## Reader lenses
++
++Scores are editorial judgments, not demographic research or release gates. They are not averaged.
++
++### Fluent thirteen-year-old lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8 | Ch44, opening lamp scene through “Two streets away… the Ironyard's door was taking money” | The bruised hands and misfiled right foot create an immediate personal problem; the cut to an unknown visitor turns it into threat. The opening is quiet rather than explosive, but concrete. | High |
++| Keep reading | 9 | Ch45, Dace's “Tuesday fortnight”; ch51, Brom's “I mean win” | The countdown is explicit, and each training success pays locally while leaving the main contest unresolved. | High |
++| Interest / freshness | 9 | Ch44, Reydan watches feet between exchanges; ch48, the opponent who “declined to be interesting” | The conflict is built from competing methods of attention rather than a stronger-versus-weaker contest alone. | High |
++| Clarity / flow | 7 | Ch47, the knock gives “when and not the where”; ch51, “eleventh / twelfth / thirteenth day” sequence | The mechanics are explained with good physical analogies, but repeated restatement slows some stretches, and the final countdown contains a one-day inconsistency. | High |
++| Character attachment | 9 | Ch46, Ansel's untouched stew and two coppers; ch48, Lira's hand on Cael's shoulder | Care is expressed through choices and restraint. Ansel, Lira, Brom, and Cael remain distinct and emotionally legible. | High |
++| Humor / warmth | 8 | Ch45, the household “bill”; ch47, the hen-marked `EAT. L. SAYS.` plate; ch50, Dace allowing stew | The humor is grounded in household and district character and never breaks the danger. | High |
++| Action / suspense | 8 | Ch49, Ansel's three exchanges | Position, choice, correction, and cost are trackable. The main bout is deferred by design, but the spar gives the movement a satisfying physical test. | High |
++| Progression payoff | 9 | Ch48, the right-foot drop enters Cael's legs; ch51, the four-in-five inventory | Practice becomes visible capability, with failure rates and bodily costs carried forward rather than erased. | High |
++| Connection | 8 | Ch44, Habit/Shape columns; ch50, comparison with the Brom-bout third exchange; ch51, resource inventory | Earlier plants and costs are integrated exceptionally well. The countdown slip is the only material connection defect found. | High |
++| Read-aloud quality | 7 | Ch51, Dace's “I'm counting you” paragraph; ch51 inventory, “two* ands*” | Dialogue voices and cadence are strong, but the missing closing quotation mark and malformed emphasis are audible/formatting defects; several explanatory paragraphs run long. | High |
++
++### Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 9 | Ch44, Reydan's standing-room arrival and appraisal of Vell's room | The opponent is characterized through professional attention, social manners, and hunger, not exposition alone. | High |
++| Keep reading | 9 | Ch50, the thirteenth simulated burst; ch51, the shut Log and waiting lamps | The anomaly deepens the series question while the pre-bout inventory keeps the immediate promise sharply bounded. | High |
++| Interest / freshness | 9 | Ch49, Ansel realizes “I beat me”; ch51, Cael and Reydan reading each other's managed stillness | Mirrored observers create tension without making the opponent secretly malicious or foolish. | High |
++| Clarity / flow | 8 | Ch47–48, simulation, redirect, clerk's account, and waiting tactic | Complex mechanics remain comprehensible, though a few explanations repeat their scene's conclusion and the day count needs correction. | High |
++| Character attachment | 9 | Ch46, Brom respects Ansel's refusal; ch49, Ansel says Reydan's name publicly | Relationships change through costly acts. Ansel's small resolution is especially effective. | High |
++| Humor / warmth | 8 | Ch45, the paper-stall creditor; ch47, Brom's “three people's worth of worse days”; ch50, pennants and Dace's stew rule | The district feels inhabited and affectionate without becoming cute. | High |
++| Action / suspense | 9 | Ch49, Ansel's round; ch50, session-nine drill | The action is tactical, embodied, and consequential; even the anomaly is staged as a physical event rather than abstract lore. | High |
++| Progression payoff | 9 | Ch46–51, knock stages from rest to tired; ch48, Shape-to-Habit reclassification | The movement provides one of the book's clearest effort-to-capability arcs and keeps the failure case visible. | High |
++| Connection | 8 | Ch50, “not the third exchange”; ch51, “three integrated fragments, one anomaly” | The movement distinguishes two strange events, preserves prior costs, and hands clean pressure into the climax. The calendar defect prevents a 9. | High |
++| Read-aloud quality | 8 | Ch44, Reydan's controlled repetitions; ch46, Ansel's four-word advice; ch51 line defects | The recurring syntax often has strong oral authority. Two mechanical defects and some long expository paragraphs need correction. | High |
++
++## Story, continuity, and canon
++
++### What works
++
++- The cause-and-effect chain is rigorous: no file on Reydan creates hesitation; Lira trains movement without a warning beat; Brom isolates the knock's failure conditions; Ansel tests speed and patience; the clerk's account supplies one narrow tactical door; session nine complicates rather than replaces the earned plan.
++- The movement preserves reciprocity. Lira gives up her night work and eventually grants limited permission to read her; Brom teaches while naming uncertainty; Ansel chooses the terms on which his old loss becomes useful; Cael asks before entering another person's signal. This directly honors the established consent boundary.
++- Reydan is formidable but morally legible. His cash at the door, refusal to scout Cael's alcove, care about “that kind of fight,” and willingness to accept losing as a payable price make him interesting rather than merely ominous.
++- Physical state is carried honestly: Lira's Maud bruises fade but still “talk”; Cael's left knee, forearms, ribs, and redirect shoulder accumulate costs; the final inventory accounts for rest and remaining capacity.
++
++### Findings
++
++1. **The last-day countdown is one day late.** Ch45 establishes the announcement at first light Wednesday and the bout as “two weeks from yesterday. Tuesday fortnight.” The common-room plan occurs Wednesday evening; ch46 is therefore the first training morning on Thursday, and ch47 explicitly calls the following session “the second morning.” Counting from that first training morning makes ch51's eleventh, twelfth, and thirteenth days Sunday, Monday, and Tuesday. Yet the thirteenth day is repeatedly “the night before,” with Dace saying “tomorrow” and Brom saying the same. The bout was already fixed for Tuesday. This is a verified continuity error, not merely plan drift.
++2. **Two line-level read-aloud defects occur in ch51.** Dace's paragraph ending “Go away. You're one more body, and I'm counting you.” lacks its closing quotation mark. The final Wind inventory has malformed emphasis in “The lock, two* ands*”; it should render as “two *ands*.” Both are small, but the edition is audio-first and the first can make Dace's speech appear to continue into narration.
++3. **No other canon contradiction was found.** Reydan remains twenty-two, Iron-tier Rank 8, burst-compression Pressure; the scout remains unnamed and does not approach; the pre-bout fragment count is correct; Lira remains provisional; Cael is fifteen; the Ironyard remains stone-floored, low-ceilinged, and lamp-lit. Knowledge boundaries are intact.
++
++### Power limits and reserved disclosures
++
++- The knock progresses from roughly half reliability to four in five through staged conditions, while its range and timing-only limitation stay explicit. It never grants direction for Reydan's burst.
++- Redirects remain capped at three clean uses per session and are paid through shoulder, ribs, hip, and breastbone. The movement does not smuggle in free durability.
++- Session nine occurs once: the thirteenth simulated burst of the ninth session. It cannot be reproduced in seven attempts, has no found cost, and is not relied on for the bout. Brom's “Tide-adjacent” is carefully limited to a secondhand comparison, explicitly “description, not diagnosis.”
++- The anomaly is kept distinct from the Brom-bout absence: “that was nobody; this was somebody.” No still place appears, Compression-adjacent does not yet exist, and nobody theorizes that Cael can take abilities by watching or contact. The three hypotheses stop at the exact Book 2 boundary and end with insufficient evidence.
++- The scout's credential is visible, but her academy and name remain withheld. Reydan can judge what he observes but never learns what Cael is.
++
++## Reader Standard
++
++**Pass.** The movement contains no profanity, obscenity, crude slang, blasphemy, sexual material, or innuendo. Violence is non-gory and consistently carries fear, bruising, fatigue, lost status, memory, and obligation. Moral goodness is active rather than decorative: permission is asked even when a floor would permit intrusion; Ansel's shame is treated with care; Brom returns the two coppers; Lira and Brom spend themselves to prepare Cael; Cael refuses to exploit openings in a spar. Cruelty is not rewarded, and power without consent is explicitly named as wrong.
++
++For a fluent thirteen-year-old, vocabulary is exceptionally accessible. The harder demand is conceptual rather than lexical: the reader must track the knock, gaze, Wind, taking face, redirect, lock, Shape/Habit distinction, and several failure ratios. The prose usually supports this with action and concrete analogy. Selective removal of repeated explanation would improve confidence without simplifying the system.
++
++## Protected wording audit
++
++Every protected line required inside this movement is present verbatim in substance and punctuation, with normal sentence-initial capitalization where applicable:
++
++| Protected wording | Location | Result |
++|---|---|---|
++| *Iron-equivalent. Cael. No Path designation.* | Ch44, Reydan reads the keeper's copied line | Exact |
++| “I'd like it to stay that kind of fight.” | Ch44, Reydan to Dace; repeated by Dace in ch45 | Exact |
++| “Survive first. Think second.” | Ch46, Ansel; recopied in the Log | Exact |
++| “It compresses inward before it fires outward.” | Ch47, Brom's simulation | Exact |
++| *Session nine. Could not reproduce. Still don't know what that was.* | Ch51, anomaly Note field | Exact |
++| “three integrated fragments, one anomaly” | Ch51, pre-bout count | Exact apart from required sentence-initial capital `Three` |
++| *If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.* | Ch51, final plan | Exact |
++
++The packet's supporting anomaly wording—*Evidence insufficient* and *Filed as anomaly. Monitor.*—also appears exactly in ch50. “You can win this” / “I mean win” / “I know” lands in ch51 with the intended changed meaning.
++
++## Originality / source reuse
++
++**Pass on the supplied overlap result:** 0 unprotected shared runs of eight or more words; 5 protected runs, allowed. No source-reuse finding is raised. The referenced `source-overlap.tsv` is currently zero bytes, so the supplied summary can be accepted but the five allowed rows cannot be independently re-audited from that artifact; this is a reproducibility note, not a manuscript repair.
++
++## Numerical formula alignment
++
++### Method and coverage
++
++The supplied measurements cover all eight chapters and were produced by `editions/monroe-1.3/tools/formula_metrics.py`. Its sentence tokenizer splits on terminal punctuation followed by whitespace and an opening quote/capital (or paragraph end), protects common abbreviations and ellipses, and does not split em-dash interruptions. Its syllable estimator is a vowel-group heuristic with silent-e and `-le` adjustments; proper nouns and system terms are treated like ordinary words and may bias readability slightly. Paragraphs are non-empty manuscript lines; marked breaks are exact `---`/equivalents. Words per scene uses marked breaks plus chapter starts. Written paragraphs therefore are not the same thing as the formula source's ASR pause segments.
++
++| Measure | Target / accepted movement range | Observed | Assessment |
++|---|---:|---:|---|
++| Chapters / prose words | Coverage | 8 / 37,869 | Complete movement; 0 system-notice words |
++| Sentence mean | 14.6 / 13–15.5 | 13.19 | Passes working range, low against raw target |
++| Sentence median | 11 | 9 | Below target |
++| Population SD | ~26 | 11.2 | Materially narrower than requested wide spread |
++| Sentences ≤5 words | 27.7% / up to ~34% | 30.3% | Passes working range |
++| Sentences ≥40 words | 3.3% / 2.5–4.5% | 3.5% | Passes primary working range |
++| Paragraph mean | ~26.8, directional ASR proxy | 44.92 | High; the long-paragraph tail is material |
++| Paragraph median | ~18 / up to ~30 | 29 | Passes working range at its upper edge |
++| Marked scene breaks | ~8.7 per 10k | 32 / 8.45 per 10k | Close |
++| Words per scene | ~950 / 850–1,050 | 946.7 | Excellent primary alignment |
++| Flesch Reading Ease | 72.3 | 91.4 | Much easier than target |
++| Flesch-Kincaid grade | 6.8 / 3.5–6 | 3.79 | Passes accepted range, low against raw target |
++
++The three measures designated as primary for repair decisions all pass their accepted working ranges: sentence mean 13.19, ≥40-word share 3.5%, and 946.7 words per scene. The movement should not be broadly rewritten to chase decimals. The meaningful secondary drift is a median sentence two words short, a much narrower sentence spread, very high Reading Ease, and a paragraph mean well above the directional proxy. Together these match the reading experience: simple words and many compact declarations live inside some long explanatory paragraphs. A selective human prose pass can address that pattern; scripted sentence or paragraph surgery is not appropriate.
++
++### POV, progression, and development
++
++- **POV share:** manual scene classification finds 4,521 Reydan words—ch44 after the first break and ch51's “Reydan had come for the room” cutaway—out of 37,869 prose words, or **11.94% Reydan / 88.06% Cael**. This is strong movement-level alignment with the book target of roughly 87/13. It remains a movement observation, not proof of the full-book allocation.
++- **Progression-vocabulary density and book-third ratio:** **UNMEASURED.** No project-specific lexicon count or cumulative equal-word-third report was supplied. Qualitatively, this last-third movement keeps system language at earned turning points—the drills, session nine, and the final inventory—but only a cumulative book run can confirm the requested ~1.7× front-loading.
++- **Development cadence:** no reproducible regex or manually coded event count was supplied, so the numerical rate is **UNMEASURED**. The manually observed beats are well distributed: Cael reclassifies his right foot, recognizes the dock partner's unseen history, treats the knock as trainable, learns to wait, files the anomaly without claiming it, and permits himself to imagine winning; Ansel, Lira, Brom, Reydan, and Dace receive independent choices or realizations. This supports plan adherence but is not a measured 4.5-per-10k claim.
++- **Secondary signals** (`-ly` suffixes, reporting verbs, combat terms, fillers, repeated phrases): **UNMEASURED** because no counts or lexicons were supplied. They are secondary/use-to-taste signals and are not converted into hidden targets here.
++- **Cumulative book drift:** **UNMEASURED.** Movement-only metrics cannot certify the whole-book POV share, character distribution, or word-third progression shape.
++
++## Repair brief
++
++1. **Location:** ch45 “Tuesday fortnight”; ch46 first training morning; ch51 “eleventh / twelfth / thirteenth day” and repeated “tomorrow.” **Observed issue:** the numbered training days place the night-before scenes on Tuesday even though the bout is fixed for Tuesday. **Effect on the reader:** the countdown ceases to be trustworthy at the point of maximum anticipation, and the shoulder-rest arithmetic becomes harder to place. **Proposed scope:** reconcile the ordinals or one schedule reference in the smallest possible set of lines; do not move or recast scenes. **Strength to preserve:** the accumulating two-week discipline and the precise sense that every day has been spent.
++
++2. **Location:** ch51, Dace's waiting-list paragraph ending “I'm counting you”; ch51 final Wind inventory, “two* ands*.” **Observed issue:** one missing closing quotation mark and one malformed emphasis boundary. **Effect on the reader:** Dace's speech can spill into narration, and the inventory can render or sound incorrectly in the audio-first edition. **Proposed scope:** two line fixes only—close Dace's dialogue and restore the space before `*ands*`. **Strength to preserve:** Dace's dry crowd-management voice and the compact, exact pre-bout accounting.
++
++3. **Location:** ch47–48 drill/account passages and ch50's session-nine explanation; movement-wide formula result. **Observed issue:** median sentence 9 versus 11, SD 11.2 versus ~26, Reading Ease 91.4 versus 72.3, and paragraph mean 44.92 versus the 26.8 directional proxy, despite all three primary working-range measures passing. **Effect on the reader:** some instructional stretches feel more repetitive and syntactically flatter than the otherwise sophisticated tactical thinking; long visual paragraphs can tire a thirteen-year-old even while individual sentences are easy. **Proposed scope:** a restrained, sentence-by-sentence pass only—join a small number of adjacent explanatory statements that express one thought, remove restatement after a scene has already proved the point, and split only the longest paragraphs at genuine turns. Preserve short dialogue, landing beats, all tallies that establish progression, and all protected wording. **Strength to preserve:** the lucid physical analogies, the deliberate-practice texture, Ansel's complete spar, session nine's full space, and the near-perfect scene rhythm.
+
+exec
+/bin/zsh -lc 'wc -l -w editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md && tail -n 24 editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md && git status --short -- editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     137    3173 editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+| Paragraph mean | ~26.8, directional ASR proxy | 44.92 | High; the long-paragraph tail is material |
+| Paragraph median | ~18 / up to ~30 | 29 | Passes working range at its upper edge |
+| Marked scene breaks | ~8.7 per 10k | 32 / 8.45 per 10k | Close |
+| Words per scene | ~950 / 850–1,050 | 946.7 | Excellent primary alignment |
+| Flesch Reading Ease | 72.3 | 91.4 | Much easier than target |
+| Flesch-Kincaid grade | 6.8 / 3.5–6 | 3.79 | Passes accepted range, low against raw target |
+
+The three measures designated as primary for repair decisions all pass their accepted working ranges: sentence mean 13.19, ≥40-word share 3.5%, and 946.7 words per scene. The movement should not be broadly rewritten to chase decimals. The meaningful secondary drift is a median sentence two words short, a much narrower sentence spread, very high Reading Ease, and a paragraph mean well above the directional proxy. Together these match the reading experience: simple words and many compact declarations live inside some long explanatory paragraphs. A selective human prose pass can address that pattern; scripted sentence or paragraph surgery is not appropriate.
+
+### POV, progression, and development
+
+- **POV share:** manual scene classification finds 4,521 Reydan words—ch44 after the first break and ch51's “Reydan had come for the room” cutaway—out of 37,869 prose words, or **11.94% Reydan / 88.06% Cael**. This is strong movement-level alignment with the book target of roughly 87/13. It remains a movement observation, not proof of the full-book allocation.
+- **Progression-vocabulary density and book-third ratio:** **UNMEASURED.** No project-specific lexicon count or cumulative equal-word-third report was supplied. Qualitatively, this last-third movement keeps system language at earned turning points—the drills, session nine, and the final inventory—but only a cumulative book run can confirm the requested ~1.7× front-loading.
+- **Development cadence:** no reproducible regex or manually coded event count was supplied, so the numerical rate is **UNMEASURED**. The manually observed beats are well distributed: Cael reclassifies his right foot, recognizes the dock partner's unseen history, treats the knock as trainable, learns to wait, files the anomaly without claiming it, and permits himself to imagine winning; Ansel, Lira, Brom, Reydan, and Dace receive independent choices or realizations. This supports plan adherence but is not a measured 4.5-per-10k claim.
+- **Secondary signals** (`-ly` suffixes, reporting verbs, combat terms, fillers, repeated phrases): **UNMEASURED** because no counts or lexicons were supplied. They are secondary/use-to-taste signals and are not converted into hidden targets here.
+- **Cumulative book drift:** **UNMEASURED.** Movement-only metrics cannot certify the whole-book POV share, character distribution, or word-third progression shape.
+
+## Repair brief
+
+1. **Location:** ch45 “Tuesday fortnight”; ch46 first training morning; ch51 “eleventh / twelfth / thirteenth day” and repeated “tomorrow.” **Observed issue:** the numbered training days place the night-before scenes on Tuesday even though the bout is fixed for Tuesday. **Effect on the reader:** the countdown ceases to be trustworthy at the point of maximum anticipation, and the shoulder-rest arithmetic becomes harder to place. **Proposed scope:** reconcile the ordinals or one schedule reference in the smallest possible set of lines; do not move or recast scenes. **Strength to preserve:** the accumulating two-week discipline and the precise sense that every day has been spent.
+
+2. **Location:** ch51, Dace's waiting-list paragraph ending “I'm counting you”; ch51 final Wind inventory, “two* ands*.” **Observed issue:** one missing closing quotation mark and one malformed emphasis boundary. **Effect on the reader:** Dace's speech can spill into narration, and the inventory can render or sound incorrectly in the audio-first edition. **Proposed scope:** two line fixes only—close Dace's dialogue and restore the space before `*ands*`. **Strength to preserve:** Dace's dry crowd-management voice and the compact, exact pre-bout accounting.
+
+3. **Location:** ch47–48 drill/account passages and ch50's session-nine explanation; movement-wide formula result. **Observed issue:** median sentence 9 versus 11, SD 11.2 versus ~26, Reading Ease 91.4 versus 72.3, and paragraph mean 44.92 versus the 26.8 directional proxy, despite all three primary working-range measures passing. **Effect on the reader:** some instructional stretches feel more repetitive and syntactically flatter than the otherwise sophisticated tactical thinking; long visual paragraphs can tire a thirteen-year-old even while individual sentences are easy. **Proposed scope:** a restrained, sentence-by-sentence pass only—join a small number of adjacent explanatory statements that express one thought, remove restatement after a scene has already proved the point, and split only the longest paragraphs at genuine turns. Preserve short dialogue, landing beats, all tallies that establish progression, and all protected wording. **Strength to preserve:** the lucid physical analogies, the deliberate-practice texture, Ansel's complete spar, session nine's full space, and the near-perfect scene rhythm.
+?? editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+
+diff --git a/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md b/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..2b972e67a4ccb21c5b5b19d6f48f56611b01fc93
+--- /dev/null
++++ b/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+@@ -0,0 +1,137 @@
++# Editorial review — Movement 007, chapters 44–51
++
++## Review status and coverage
++
++**Disposition: targeted repair, then recheck.** The movement is structurally strong, canon-faithful, age-appropriate, and ready to hand forward after one countdown correction and two line-level read-aloud fixes. The numerical primary working-range gates pass; the remaining formula drift is secondary but worth a restrained sentence-level pass if the author is already reopening the movement.
++
++This is a **fresh-context simulated reader review in an informed editorial context**. It is not self-review and not a real human read; it is also not a blind cold read because the canon, movement brief, formula, Reader Standard, and measured metrics were supplied. Coverage is exactly eight complete files, chapters 44–51, totaling 37,869 prose words. No claim is made about unread chapters or a full-book response.
++
++## Unscored reader response
++
++Interest catches when Reydan pays in coppers, studies the Ironyard rather than announcing himself, and reads the losing Blade's feet. That makes him dangerous without making him cruel, and his pleasure at finally not knowing what he will face creates an unusually clean antagonist hook. The strongest sustained sequence is the chain from Ansel's painful account through his voluntary sparring round, where “declining to be interesting” becomes a usable tactic and gives Ansel a modest, humane recovery of dignity. Session nine then changes the nature of the pressure without pretending to solve it.
++
++Interest slips slightly through parts of chapters 47–48. Several drill explanations, tallies, and the written account restate information the reader already has before delivering the next change. The repetition is functional—the movement is about deliberate practice—but the prose sometimes explains the lesson after the scene has already made it clear.
++
++Cael matters most because his growth is ethical as well as tactical: he asks permission, learns to treat his own habits as evidence, notices what his need has cost Ansel, and accepts fear without turning it into spectacle. Ansel is the supporting character who gains the most in the least space. I expect the next event to be the Reydan bout, with the promised timing-versus-direction problem, three redirects, the scout watching, and session nine unavailable. I would continue immediately.
++
++## Reader lenses
++
++Scores are editorial judgments, not demographic research or release gates. They are not averaged.
++
++### Fluent thirteen-year-old lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8 | Ch44, opening lamp scene through “Two streets away… the Ironyard's door was taking money” | The bruised hands and misfiled right foot create an immediate personal problem; the cut to an unknown visitor turns it into threat. The opening is quiet rather than explosive, but concrete. | High |
++| Keep reading | 9 | Ch45, Dace's “Tuesday fortnight”; ch51, Brom's “I mean win” | The countdown is explicit, and each training success pays locally while leaving the main contest unresolved. | High |
++| Interest / freshness | 9 | Ch44, Reydan watches feet between exchanges; ch48, the opponent who “declined to be interesting” | The conflict is built from competing methods of attention rather than a stronger-versus-weaker contest alone. | High |
++| Clarity / flow | 7 | Ch47, the knock gives “when and not the where”; ch51, “eleventh / twelfth / thirteenth day” sequence | The mechanics are explained with good physical analogies, but repeated restatement slows some stretches, and the final countdown contains a one-day inconsistency. | High |
++| Character attachment | 9 | Ch46, Ansel's untouched stew and two coppers; ch48, Lira's hand on Cael's shoulder | Care is expressed through choices and restraint. Ansel, Lira, Brom, and Cael remain distinct and emotionally legible. | High |
++| Humor / warmth | 8 | Ch45, the household “bill”; ch47, the hen-marked `EAT. L. SAYS.` plate; ch50, Dace allowing stew | The humor is grounded in household and district character and never breaks the danger. | High |
++| Action / suspense | 8 | Ch49, Ansel's three exchanges | Position, choice, correction, and cost are trackable. The main bout is deferred by design, but the spar gives the movement a satisfying physical test. | High |
++| Progression payoff | 9 | Ch48, the right-foot drop enters Cael's legs; ch51, the four-in-five inventory | Practice becomes visible capability, with failure rates and bodily costs carried forward rather than erased. | High |
++| Connection | 8 | Ch44, Habit/Shape columns; ch50, comparison with the Brom-bout third exchange; ch51, resource inventory | Earlier plants and costs are integrated exceptionally well. The countdown slip is the only material connection defect found. | High |
++| Read-aloud quality | 7 | Ch51, Dace's “I'm counting you” paragraph; ch51 inventory, “two* ands*” | Dialogue voices and cadence are strong, but the missing closing quotation mark and malformed emphasis are audible/formatting defects; several explanatory paragraphs run long. | High |
++
++### Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 9 | Ch44, Reydan's standing-room arrival and appraisal of Vell's room | The opponent is characterized through professional attention, social manners, and hunger, not exposition alone. | High |
++| Keep reading | 9 | Ch50, the thirteenth simulated burst; ch51, the shut Log and waiting lamps | The anomaly deepens the series question while the pre-bout inventory keeps the immediate promise sharply bounded. | High |
++| Interest / freshness | 9 | Ch49, Ansel realizes “I beat me”; ch51, Cael and Reydan reading each other's managed stillness | Mirrored observers create tension without making the opponent secretly malicious or foolish. | High |
++| Clarity / flow | 8 | Ch47–48, simulation, redirect, clerk's account, and waiting tactic | Complex mechanics remain comprehensible, though a few explanations repeat their scene's conclusion and the day count needs correction. | High |
++| Character attachment | 9 | Ch46, Brom respects Ansel's refusal; ch49, Ansel says Reydan's name publicly | Relationships change through costly acts. Ansel's small resolution is especially effective. | High |
++| Humor / warmth | 8 | Ch45, the paper-stall creditor; ch47, Brom's “three people's worth of worse days”; ch50, pennants and Dace's stew rule | The district feels inhabited and affectionate without becoming cute. | High |
++| Action / suspense | 9 | Ch49, Ansel's round; ch50, session-nine drill | The action is tactical, embodied, and consequential; even the anomaly is staged as a physical event rather than abstract lore. | High |
++| Progression payoff | 9 | Ch46–51, knock stages from rest to tired; ch48, Shape-to-Habit reclassification | The movement provides one of the book's clearest effort-to-capability arcs and keeps the failure case visible. | High |
++| Connection | 8 | Ch50, “not the third exchange”; ch51, “three integrated fragments, one anomaly” | The movement distinguishes two strange events, preserves prior costs, and hands clean pressure into the climax. The calendar defect prevents a 9. | High |
++| Read-aloud quality | 8 | Ch44, Reydan's controlled repetitions; ch46, Ansel's four-word advice; ch51 line defects | The recurring syntax often has strong oral authority. Two mechanical defects and some long expository paragraphs need correction. | High |
++
++## Story, continuity, and canon
++
++### What works
++
++- The cause-and-effect chain is rigorous: no file on Reydan creates hesitation; Lira trains movement without a warning beat; Brom isolates the knock's failure conditions; Ansel tests speed and patience; the clerk's account supplies one narrow tactical door; session nine complicates rather than replaces the earned plan.
++- The movement preserves reciprocity. Lira gives up her night work and eventually grants limited permission to read her; Brom teaches while naming uncertainty; Ansel chooses the terms on which his old loss becomes useful; Cael asks before entering another person's signal. This directly honors the established consent boundary.
++- Reydan is formidable but morally legible. His cash at the door, refusal to scout Cael's alcove, care about “that kind of fight,” and willingness to accept losing as a payable price make him interesting rather than merely ominous.
++- Physical state is carried honestly: Lira's Maud bruises fade but still “talk”; Cael's left knee, forearms, ribs, and redirect shoulder accumulate costs; the final inventory accounts for rest and remaining capacity.
++
++### Findings
++
++1. **The last-day countdown is one day late.** Ch45 establishes the announcement at first light Wednesday and the bout as “two weeks from yesterday. Tuesday fortnight.” The common-room plan occurs Wednesday evening; ch46 is therefore the first training morning on Thursday, and ch47 explicitly calls the following session “the second morning.” Counting from that first training morning makes ch51's eleventh, twelfth, and thirteenth days Sunday, Monday, and Tuesday. Yet the thirteenth day is repeatedly “the night before,” with Dace saying “tomorrow” and Brom saying the same. The bout was already fixed for Tuesday. This is a verified continuity error, not merely plan drift.
++2. **Two line-level read-aloud defects occur in ch51.** Dace's paragraph ending “Go away. You're one more body, and I'm counting you.” lacks its closing quotation mark. The final Wind inventory has malformed emphasis in “The lock, two* ands*”; it should render as “two *ands*.” Both are small, but the edition is audio-first and the first can make Dace's speech appear to continue into narration.
++3. **No other canon contradiction was found.** Reydan remains twenty-two, Iron-tier Rank 8, burst-compression Pressure; the scout remains unnamed and does not approach; the pre-bout fragment count is correct; Lira remains provisional; Cael is fifteen; the Ironyard remains stone-floored, low-ceilinged, and lamp-lit. Knowledge boundaries are intact.
++
++### Power limits and reserved disclosures
++
++- The knock progresses from roughly half reliability to four in five through staged conditions, while its range and timing-only limitation stay explicit. It never grants direction for Reydan's burst.
++- Redirects remain capped at three clean uses per session and are paid through shoulder, ribs, hip, and breastbone. The movement does not smuggle in free durability.
++- Session nine occurs once: the thirteenth simulated burst of the ninth session. It cannot be reproduced in seven attempts, has no found cost, and is not relied on for the bout. Brom's “Tide-adjacent” is carefully limited to a secondhand comparison, explicitly “description, not diagnosis.”
++- The anomaly is kept distinct from the Brom-bout absence: “that was nobody; this was somebody.” No still place appears, Compression-adjacent does not yet exist, and nobody theorizes that Cael can take abilities by watching or contact. The three hypotheses stop at the exact Book 2 boundary and end with insufficient evidence.
++- The scout's credential is visible, but her academy and name remain withheld. Reydan can judge what he observes but never learns what Cael is.
++
++## Reader Standard
++
++**Pass.** The movement contains no profanity, obscenity, crude slang, blasphemy, sexual material, or innuendo. Violence is non-gory and consistently carries fear, bruising, fatigue, lost status, memory, and obligation. Moral goodness is active rather than decorative: permission is asked even when a floor would permit intrusion; Ansel's shame is treated with care; Brom returns the two coppers; Lira and Brom spend themselves to prepare Cael; Cael refuses to exploit openings in a spar. Cruelty is not rewarded, and power without consent is explicitly named as wrong.
++
++For a fluent thirteen-year-old, vocabulary is exceptionally accessible. The harder demand is conceptual rather than lexical: the reader must track the knock, gaze, Wind, taking face, redirect, lock, Shape/Habit distinction, and several failure ratios. The prose usually supports this with action and concrete analogy. Selective removal of repeated explanation would improve confidence without simplifying the system.
++
++## Protected wording audit
++
++Every protected line required inside this movement is present verbatim in substance and punctuation, with normal sentence-initial capitalization where applicable:
++
++| Protected wording | Location | Result |
++|---|---|---|
++| *Iron-equivalent. Cael. No Path designation.* | Ch44, Reydan reads the keeper's copied line | Exact |
++| “I'd like it to stay that kind of fight.” | Ch44, Reydan to Dace; repeated by Dace in ch45 | Exact |
++| “Survive first. Think second.” | Ch46, Ansel; recopied in the Log | Exact |
++| “It compresses inward before it fires outward.” | Ch47, Brom's simulation | Exact |
++| *Session nine. Could not reproduce. Still don't know what that was.* | Ch51, anomaly Note field | Exact |
++| “three integrated fragments, one anomaly” | Ch51, pre-bout count | Exact apart from required sentence-initial capital `Three` |
++| *If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.* | Ch51, final plan | Exact |
++
++The packet's supporting anomaly wording—*Evidence insufficient* and *Filed as anomaly. Monitor.*—also appears exactly in ch50. “You can win this” / “I mean win” / “I know” lands in ch51 with the intended changed meaning.
++
++## Originality / source reuse
++
++**Pass on the supplied overlap result:** 0 unprotected shared runs of eight or more words; 5 protected runs, allowed. No source-reuse finding is raised. The referenced `source-overlap.tsv` is currently zero bytes, so the supplied summary can be accepted but the five allowed rows cannot be independently re-audited from that artifact; this is a reproducibility note, not a manuscript repair.
++
++## Numerical formula alignment
++
++### Method and coverage
++
++The supplied measurements cover all eight chapters and were produced by `editions/monroe-1.3/tools/formula_metrics.py`. Its sentence tokenizer splits on terminal punctuation followed by whitespace and an opening quote/capital (or paragraph end), protects common abbreviations and ellipses, and does not split em-dash interruptions. Its syllable estimator is a vowel-group heuristic with silent-e and `-le` adjustments; proper nouns and system terms are treated like ordinary words and may bias readability slightly. Paragraphs are non-empty manuscript lines; marked breaks are exact `---`/equivalents. Words per scene uses marked breaks plus chapter starts. Written paragraphs therefore are not the same thing as the formula source's ASR pause segments.
++
++| Measure | Target / accepted movement range | Observed | Assessment |
++|---|---:|---:|---|
++| Chapters / prose words | Coverage | 8 / 37,869 | Complete movement; 0 system-notice words |
++| Sentence mean | 14.6 / 13–15.5 | 13.19 | Passes working range, low against raw target |
++| Sentence median | 11 | 9 | Below target |
++| Population SD | ~26 | 11.2 | Materially narrower than requested wide spread |
++| Sentences ≤5 words | 27.7% / up to ~34% | 30.3% | Passes working range |
++| Sentences ≥40 words | 3.3% / 2.5–4.5% | 3.5% | Passes primary working range |
++| Paragraph mean | ~26.8, directional ASR proxy | 44.92 | High; the long-paragraph tail is material |
++| Paragraph median | ~18 / up to ~30 | 29 | Passes working range at its upper edge |
++| Marked scene breaks | ~8.7 per 10k | 32 / 8.45 per 10k | Close |
++| Words per scene | ~950 / 850–1,050 | 946.7 | Excellent primary alignment |
++| Flesch Reading Ease | 72.3 | 91.4 | Much easier than target |
++| Flesch-Kincaid grade | 6.8 / 3.5–6 | 3.79 | Passes accepted range, low against raw target |
++
++The three measures designated as primary for repair decisions all pass their accepted working ranges: sentence mean 13.19, ≥40-word share 3.5%, and 946.7 words per scene. The movement should not be broadly rewritten to chase decimals. The meaningful secondary drift is a median sentence two words short, a much narrower sentence spread, very high Reading Ease, and a paragraph mean well above the directional proxy. Together these match the reading experience: simple words and many compact declarations live inside some long explanatory paragraphs. A selective human prose pass can address that pattern; scripted sentence or paragraph surgery is not appropriate.
++
++### POV, progression, and development
++
++- **POV share:** manual scene classification finds 4,521 Reydan words—ch44 after the first break and ch51's “Reydan had come for the room” cutaway—out of 37,869 prose words, or **11.94% Reydan / 88.06% Cael**. This is strong movement-level alignment with the book target of roughly 87/13. It remains a movement observation, not proof of the full-book allocation.
++- **Progression-vocabulary density and book-third ratio:** **UNMEASURED.** No project-specific lexicon count or cumulative equal-word-third report was supplied. Qualitatively, this last-third movement keeps system language at earned turning points—the drills, session nine, and the final inventory—but only a cumulative book run can confirm the requested ~1.7× front-loading.
++- **Development cadence:** no reproducible regex or manually coded event count was supplied, so the numerical rate is **UNMEASURED**. The manually observed beats are well distributed: Cael reclassifies his right foot, recognizes the dock partner's unseen history, treats the knock as trainable, learns to wait, files the anomaly without claiming it, and permits himself to imagine winning; Ansel, Lira, Brom, Reydan, and Dace receive independent choices or realizations. This supports plan adherence but is not a measured 4.5-per-10k claim.
++- **Secondary signals** (`-ly` suffixes, reporting verbs, combat terms, fillers, repeated phrases): **UNMEASURED** because no counts or lexicons were supplied. They are secondary/use-to-taste signals and are not converted into hidden targets here.
++- **Cumulative book drift:** **UNMEASURED.** Movement-only metrics cannot certify the whole-book POV share, character distribution, or word-third progression shape.
++
++## Repair brief
++
++1. **Location:** ch45 “Tuesday fortnight”; ch46 first training morning; ch51 “eleventh / twelfth / thirteenth day” and repeated “tomorrow.” **Observed issue:** the numbered training days place the night-before scenes on Tuesday even though the bout is fixed for Tuesday. **Effect on the reader:** the countdown ceases to be trustworthy at the point of maximum anticipation, and the shoulder-rest arithmetic becomes harder to place. **Proposed scope:** reconcile the ordinals or one schedule reference in the smallest possible set of lines; do not move or recast scenes. **Strength to preserve:** the accumulating two-week discipline and the precise sense that every day has been spent.
++
++2. **Location:** ch51, Dace's waiting-list paragraph ending “I'm counting you”; ch51 final Wind inventory, “two* ands*.” **Observed issue:** one missing closing quotation mark and one malformed emphasis boundary. **Effect on the reader:** Dace's speech can spill into narration, and the inventory can render or sound incorrectly in the audio-first edition. **Proposed scope:** two line fixes only—close Dace's dialogue and restore the space before `*ands*`. **Strength to preserve:** Dace's dry crowd-management voice and the compact, exact pre-bout accounting.
++
++3. **Location:** ch47–48 drill/account passages and ch50's session-nine explanation; movement-wide formula result. **Observed issue:** median sentence 9 versus 11, SD 11.2 versus ~26, Reading Ease 91.4 versus 72.3, and paragraph mean 44.92 versus the 26.8 directional proxy, despite all three primary working-range measures passing. **Effect on the reader:** some instructional stretches feel more repetitive and syntactically flatter than the otherwise sophisticated tactical thinking; long visual paragraphs can tire a thirteen-year-old even while individual sentences are easy. **Proposed scope:** a restrained, sentence-by-sentence pass only—join a small number of adjacent explanatory statements that express one thought, remove restatement after a scene has already proved the point, and split only the longest paragraphs at genuine turns. Preserve short dialogue, landing beats, all tallies that establish progression, and all protected wording. **Strength to preserve:** the lucid physical analogies, the deliberate-practice texture, Ansel's complete spar, session nine's full space, and the near-perfect scene rhythm.
+
+codex
+Completed the editorial review at [review-editorial.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md).
+
+It follows the O’Connor rubric, includes canon, Reader Standard, protected wording, originality, numerical alignment, both reader lenses, and a three-priority repair brief. No manuscript or other repository files were modified.
+diff --git a/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md b/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..2b972e67a4ccb21c5b5b19d6f48f56611b01fc93
+--- /dev/null
++++ b/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md
+@@ -0,0 +1,137 @@
++# Editorial review — Movement 007, chapters 44–51
++
++## Review status and coverage
++
++**Disposition: targeted repair, then recheck.** The movement is structurally strong, canon-faithful, age-appropriate, and ready to hand forward after one countdown correction and two line-level read-aloud fixes. The numerical primary working-range gates pass; the remaining formula drift is secondary but worth a restrained sentence-level pass if the author is already reopening the movement.
++
++This is a **fresh-context simulated reader review in an informed editorial context**. It is not self-review and not a real human read; it is also not a blind cold read because the canon, movement brief, formula, Reader Standard, and measured metrics were supplied. Coverage is exactly eight complete files, chapters 44–51, totaling 37,869 prose words. No claim is made about unread chapters or a full-book response.
++
++## Unscored reader response
++
++Interest catches when Reydan pays in coppers, studies the Ironyard rather than announcing himself, and reads the losing Blade's feet. That makes him dangerous without making him cruel, and his pleasure at finally not knowing what he will face creates an unusually clean antagonist hook. The strongest sustained sequence is the chain from Ansel's painful account through his voluntary sparring round, where “declining to be interesting” becomes a usable tactic and gives Ansel a modest, humane recovery of dignity. Session nine then changes the nature of the pressure without pretending to solve it.
++
++Interest slips slightly through parts of chapters 47–48. Several drill explanations, tallies, and the written account restate information the reader already has before delivering the next change. The repetition is functional—the movement is about deliberate practice—but the prose sometimes explains the lesson after the scene has already made it clear.
++
++Cael matters most because his growth is ethical as well as tactical: he asks permission, learns to treat his own habits as evidence, notices what his need has cost Ansel, and accepts fear without turning it into spectacle. Ansel is the supporting character who gains the most in the least space. I expect the next event to be the Reydan bout, with the promised timing-versus-direction problem, three redirects, the scout watching, and session nine unavailable. I would continue immediately.
++
++## Reader lenses
++
++Scores are editorial judgments, not demographic research or release gates. They are not averaged.
++
++### Fluent thirteen-year-old lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8 | Ch44, opening lamp scene through “Two streets away… the Ironyard's door was taking money” | The bruised hands and misfiled right foot create an immediate personal problem; the cut to an unknown visitor turns it into threat. The opening is quiet rather than explosive, but concrete. | High |
++| Keep reading | 9 | Ch45, Dace's “Tuesday fortnight”; ch51, Brom's “I mean win” | The countdown is explicit, and each training success pays locally while leaving the main contest unresolved. | High |
++| Interest / freshness | 9 | Ch44, Reydan watches feet between exchanges; ch48, the opponent who “declined to be interesting” | The conflict is built from competing methods of attention rather than a stronger-versus-weaker contest alone. | High |
++| Clarity / flow | 7 | Ch47, the knock gives “when and not the where”; ch51, “eleventh / twelfth / thirteenth day” sequence | The mechanics are explained with good physical analogies, but repeated restatement slows some stretches, and the final countdown contains a one-day inconsistency. | High |
++| Character attachment | 9 | Ch46, Ansel's untouched stew and two coppers; ch48, Lira's hand on Cael's shoulder | Care is expressed through choices and restraint. Ansel, Lira, Brom, and Cael remain distinct and emotionally legible. | High |
++| Humor / warmth | 8 | Ch45, the household “bill”; ch47, the hen-marked `EAT. L. SAYS.` plate; ch50, Dace allowing stew | The humor is grounded in household and district character and never breaks the danger. | High |
++| Action / suspense | 8 | Ch49, Ansel's three exchanges | Position, choice, correction, and cost are trackable. The main bout is deferred by design, but the spar gives the movement a satisfying physical test. | High |
++| Progression payoff | 9 | Ch48, the right-foot drop enters Cael's legs; ch51, the four-in-five inventory | Practice becomes visible capability, with failure rates and bodily costs carried forward rather than erased. | High |
++| Connection | 8 | Ch44, Habit/Shape columns; ch50, comparison with the Brom-bout third exchange; ch51, resource inventory | Earlier plants and costs are integrated exceptionally well. The countdown slip is the only material connection defect found. | High |
++| Read-aloud quality | 7 | Ch51, Dace's “I'm counting you” paragraph; ch51 inventory, “two* ands*” | Dialogue voices and cadence are strong, but the missing closing quotation mark and malformed emphasis are audible/formatting defects; several explanatory paragraphs run long. | High |
++
++### Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 9 | Ch44, Reydan's standing-room arrival and appraisal of Vell's room | The opponent is characterized through professional attention, social manners, and hunger, not exposition alone. | High |
++| Keep reading | 9 | Ch50, the thirteenth simulated burst; ch51, the shut Log and waiting lamps | The anomaly deepens the series question while the pre-bout inventory keeps the immediate promise sharply bounded. | High |
++| Interest / freshness | 9 | Ch49, Ansel realizes “I beat me”; ch51, Cael and Reydan reading each other's managed stillness | Mirrored observers create tension without making the opponent secretly malicious or foolish. | High |
++| Clarity / flow | 8 | Ch47–48, simulation, redirect, clerk's account, and waiting tactic | Complex mechanics remain comprehensible, though a few explanations repeat their scene's conclusion and the day count needs correction. | High |
++| Character attachment | 9 | Ch46, Brom respects Ansel's refusal; ch49, Ansel says Reydan's name publicly | Relationships change through costly acts. Ansel's small resolution is especially effective. | High |
++| Humor / warmth | 8 | Ch45, the paper-stall creditor; ch47, Brom's “three people's worth of worse days”; ch50, pennants and Dace's stew rule | The district feels inhabited and affectionate without becoming cute. | High |
++| Action / suspense | 9 | Ch49, Ansel's round; ch50, session-nine drill | The action is tactical, embodied, and consequential; even the anomaly is staged as a physical event rather than abstract lore. | High |
++| Progression payoff | 9 | Ch46–51, knock stages from rest to tired; ch48, Shape-to-Habit reclassification | The movement provides one of the book's clearest effort-to-capability arcs and keeps the failure case visible. | High |
++| Connection | 8 | Ch50, “not the third exchange”; ch51, “three integrated fragments, one anomaly” | The movement distinguishes two strange events, preserves prior costs, and hands clean pressure into the climax. The calendar defect prevents a 9. | High |
++| Read-aloud quality | 8 | Ch44, Reydan's controlled repetitions; ch46, Ansel's four-word advice; ch51 line defects | The recurring syntax often has strong oral authority. Two mechanical defects and some long expository paragraphs need correction. | High |
++
++## Story, continuity, and canon
++
++### What works
++
++- The cause-and-effect chain is rigorous: no file on Reydan creates hesitation; Lira trains movement without a warning beat; Brom isolates the knock's failure conditions; Ansel tests speed and patience; the clerk's account supplies one narrow tactical door; session nine complicates rather than replaces the earned plan.
++- The movement preserves reciprocity. Lira gives up her night work and eventually grants limited permission to read her; Brom teaches while naming uncertainty; Ansel chooses the terms on which his old loss becomes useful; Cael asks before entering another person's signal. This directly honors the established consent boundary.
++- Reydan is formidable but morally legible. His cash at the door, refusal to scout Cael's alcove, care about “that kind of fight,” and willingness to accept losing as a payable price make him interesting rather than merely ominous.
++- Physical state is carried honestly: Lira's Maud bruises fade but still “talk”; Cael's left knee, forearms, ribs, and redirect shoulder accumulate costs; the final inventory accounts for rest and remaining capacity.
++
++### Findings
++
++1. **The last-day countdown is one day late.** Ch45 establishes the announcement at first light Wednesday and the bout as “two weeks from yesterday. Tuesday fortnight.” The common-room plan occurs Wednesday evening; ch46 is therefore the first training morning on Thursday, and ch47 explicitly calls the following session “the second morning.” Counting from that first training morning makes ch51's eleventh, twelfth, and thirteenth days Sunday, Monday, and Tuesday. Yet the thirteenth day is repeatedly “the night before,” with Dace saying “tomorrow” and Brom saying the same. The bout was already fixed for Tuesday. This is a verified continuity error, not merely plan drift.
++2. **Two line-level read-aloud defects occur in ch51.** Dace's paragraph ending “Go away. You're one more body, and I'm counting you.” lacks its closing quotation mark. The final Wind inventory has malformed emphasis in “The lock, two* ands*”; it should render as “two *ands*.” Both are small, but the edition is audio-first and the first can make Dace's speech appear to continue into narration.
++3. **No other canon contradiction was found.** Reydan remains twenty-two, Iron-tier Rank 8, burst-compression Pressure; the scout remains unnamed and does not approach; the pre-bout fragment count is correct; Lira remains provisional; Cael is fifteen; the Ironyard remains stone-floored, low-ceilinged, and lamp-lit. Knowledge boundaries are intact.
++
++### Power limits and reserved disclosures
++
++- The knock progresses from roughly half reliability to four in five through staged conditions, while its range and timing-only limitation stay explicit. It never grants direction for Reydan's burst.
++- Redirects remain capped at three clean uses per session and are paid through shoulder, ribs, hip, and breastbone. The movement does not smuggle in free durability.
++- Session nine occurs once: the thirteenth simulated burst of the ninth session. It cannot be reproduced in seven attempts, has no found cost, and is not relied on for the bout. Brom's “Tide-adjacent” is carefully limited to a secondhand comparison, explicitly “description, not diagnosis.”
++- The anomaly is kept distinct from the Brom-bout absence: “that was nobody; this was somebody.” No still place appears, Compression-adjacent does not yet exist, and nobody theorizes that Cael can take abilities by watching or contact. The three hypotheses stop at the exact Book 2 boundary and end with insufficient evidence.
++- The scout's credential is visible, but her academy and name remain withheld. Reydan can judge what he observes but never learns what Cael is.
++
++## Reader Standard
++
++**Pass.** The movement contains no profanity, obscenity, crude slang, blasphemy, sexual material, or innuendo. Violence is non-gory and consistently carries fear, bruising, fatigue, lost status, memory, and obligation. Moral goodness is active rather than decorative: permission is asked even when a floor would permit intrusion; Ansel's shame is treated with care; Brom returns the two coppers; Lira and Brom spend themselves to prepare Cael; Cael refuses to exploit openings in a spar. Cruelty is not rewarded, and power without consent is explicitly named as wrong.
++
++For a fluent thirteen-year-old, vocabulary is exceptionally accessible. The harder demand is conceptual rather than lexical: the reader must track the knock, gaze, Wind, taking face, redirect, lock, Shape/Habit distinction, and several failure ratios. The prose usually supports this with action and concrete analogy. Selective removal of repeated explanation would improve confidence without simplifying the system.
++
++## Protected wording audit
++
++Every protected line required inside this movement is present verbatim in substance and punctuation, with normal sentence-initial capitalization where applicable:
++
++| Protected wording | Location | Result |
++|---|---|---|
++| *Iron-equivalent. Cael. No Path designation.* | Ch44, Reydan reads the keeper's copied line | Exact |
++| “I'd like it to stay that kind of fight.” | Ch44, Reydan to Dace; repeated by Dace in ch45 | Exact |
++| “Survive first. Think second.” | Ch46, Ansel; recopied in the Log | Exact |
++| “It compresses inward before it fires outward.” | Ch47, Brom's simulation | Exact |
++| *Session nine. Could not reproduce. Still don't know what that was.* | Ch51, anomaly Note field | Exact |
++| “three integrated fragments, one anomaly” | Ch51, pre-bout count | Exact apart from required sentence-initial capital `Three` |
++| *If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.* | Ch51, final plan | Exact |
++
++The packet's supporting anomaly wording—*Evidence insufficient* and *Filed as anomaly. Monitor.*—also appears exactly in ch50. “You can win this” / “I mean win” / “I know” lands in ch51 with the intended changed meaning.
++
++## Originality / source reuse
++
++**Pass on the supplied overlap result:** 0 unprotected shared runs of eight or more words; 5 protected runs, allowed. No source-reuse finding is raised. The referenced `source-overlap.tsv` is currently zero bytes, so the supplied summary can be accepted but the five allowed rows cannot be independently re-audited from that artifact; this is a reproducibility note, not a manuscript repair.
++
++## Numerical formula alignment
++
++### Method and coverage
++
++The supplied measurements cover all eight chapters and were produced by `editions/monroe-1.3/tools/formula_metrics.py`. Its sentence tokenizer splits on terminal punctuation followed by whitespace and an opening quote/capital (or paragraph end), protects common abbreviations and ellipses, and does not split em-dash interruptions. Its syllable estimator is a vowel-group heuristic with silent-e and `-le` adjustments; proper nouns and system terms are treated like ordinary words and may bias readability slightly. Paragraphs are non-empty manuscript lines; marked breaks are exact `---`/equivalents. Words per scene uses marked breaks plus chapter starts. Written paragraphs therefore are not the same thing as the formula source's ASR pause segments.
++
++| Measure | Target / accepted movement range | Observed | Assessment |
++|---|---:|---:|---|
++| Chapters / prose words | Coverage | 8 / 37,869 | Complete movement; 0 system-notice words |
++| Sentence mean | 14.6 / 13–15.5 | 13.19 | Passes working range, low against raw target |
++| Sentence median | 11 | 9 | Below target |
++| Population SD | ~26 | 11.2 | Materially narrower than requested wide spread |
++| Sentences ≤5 words | 27.7% / up to ~34% | 30.3% | Passes working range |
++| Sentences ≥40 words | 3.3% / 2.5–4.5% | 3.5% | Passes primary working range |
++| Paragraph mean | ~26.8, directional ASR proxy | 44.92 | High; the long-paragraph tail is material |
++| Paragraph median | ~18 / up to ~30 | 29 | Passes working range at its upper edge |
++| Marked scene breaks | ~8.7 per 10k | 32 / 8.45 per 10k | Close |
++| Words per scene | ~950 / 850–1,050 | 946.7 | Excellent primary alignment |
++| Flesch Reading Ease | 72.3 | 91.4 | Much easier than target |
++| Flesch-Kincaid grade | 6.8 / 3.5–6 | 3.79 | Passes accepted range, low against raw target |
++
++The three measures designated as primary for repair decisions all pass their accepted working ranges: sentence mean 13.19, ≥40-word share 3.5%, and 946.7 words per scene. The movement should not be broadly rewritten to chase decimals. The meaningful secondary drift is a median sentence two words short, a much narrower sentence spread, very high Reading Ease, and a paragraph mean well above the directional proxy. Together these match the reading experience: simple words and many compact declarations live inside some long explanatory paragraphs. A selective human prose pass can address that pattern; scripted sentence or paragraph surgery is not appropriate.
++
++### POV, progression, and development
++
++- **POV share:** manual scene classification finds 4,521 Reydan words—ch44 after the first break and ch51's “Reydan had come for the room” cutaway—out of 37,869 prose words, or **11.94% Reydan / 88.06% Cael**. This is strong movement-level alignment with the book target of roughly 87/13. It remains a movement observation, not proof of the full-book allocation.
++- **Progression-vocabulary density and book-third ratio:** **UNMEASURED.** No project-specific lexicon count or cumulative equal-word-third report was supplied. Qualitatively, this last-third movement keeps system language at earned turning points—the drills, session nine, and the final inventory—but only a cumulative book run can confirm the requested ~1.7× front-loading.
++- **Development cadence:** no reproducible regex or manually coded event count was supplied, so the numerical rate is **UNMEASURED**. The manually observed beats are well distributed: Cael reclassifies his right foot, recognizes the dock partner's unseen history, treats the knock as trainable, learns to wait, files the anomaly without claiming it, and permits himself to imagine winning; Ansel, Lira, Brom, Reydan, and Dace receive independent choices or realizations. This supports plan adherence but is not a measured 4.5-per-10k claim.
++- **Secondary signals** (`-ly` suffixes, reporting verbs, combat terms, fillers, repeated phrases): **UNMEASURED** because no counts or lexicons were supplied. They are secondary/use-to-taste signals and are not converted into hidden targets here.
++- **Cumulative book drift:** **UNMEASURED.** Movement-only metrics cannot certify the whole-book POV share, character distribution, or word-third progression shape.
++
++## Repair brief
++
++1. **Location:** ch45 “Tuesday fortnight”; ch46 first training morning; ch51 “eleventh / twelfth / thirteenth day” and repeated “tomorrow.” **Observed issue:** the numbered training days place the night-before scenes on Tuesday even though the bout is fixed for Tuesday. **Effect on the reader:** the countdown ceases to be trustworthy at the point of maximum anticipation, and the shoulder-rest arithmetic becomes harder to place. **Proposed scope:** reconcile the ordinals or one schedule reference in the smallest possible set of lines; do not move or recast scenes. **Strength to preserve:** the accumulating two-week discipline and the precise sense that every day has been spent.
++
++2. **Location:** ch51, Dace's waiting-list paragraph ending “I'm counting you”; ch51 final Wind inventory, “two* ands*.” **Observed issue:** one missing closing quotation mark and one malformed emphasis boundary. **Effect on the reader:** Dace's speech can spill into narration, and the inventory can render or sound incorrectly in the audio-first edition. **Proposed scope:** two line fixes only—close Dace's dialogue and restore the space before `*ands*`. **Strength to preserve:** Dace's dry crowd-management voice and the compact, exact pre-bout accounting.
++
++3. **Location:** ch47–48 drill/account passages and ch50's session-nine explanation; movement-wide formula result. **Observed issue:** median sentence 9 versus 11, SD 11.2 versus ~26, Reading Ease 91.4 versus 72.3, and paragraph mean 44.92 versus the 26.8 directional proxy, despite all three primary working-range measures passing. **Effect on the reader:** some instructional stretches feel more repetitive and syntactically flatter than the otherwise sophisticated tactical thinking; long visual paragraphs can tire a thirteen-year-old even while individual sentences are easy. **Proposed scope:** a restrained, sentence-by-sentence pass only—join a small number of adjacent explanatory statements that express one thought, remove restatement after a scene has already proved the point, and split only the longest paragraphs at genuine turns. Preserve short dialogue, landing beats, all tallies that establish progression, and all protected wording. **Strength to preserve:** the lucid physical analogies, the deliberate-practice texture, Ansel's complete spar, session nine's full space, and the near-perfect scene rhythm.
+
+tokens used
+186,141
+Completed the editorial review at [review-editorial.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-02-iron-circuit/state/movement-007/review-editorial.md).
+
+It follows the O’Connor rubric, includes canon, Reader Standard, protected wording, originality, numerical alignment, both reader lenses, and a three-priority repair brief. No manuscript or other repository files were modified.

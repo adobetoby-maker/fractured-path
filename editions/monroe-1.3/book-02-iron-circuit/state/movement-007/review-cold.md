@@ -1,0 +1,81 @@
+# Movement 007 cold-read review
+
+**Read type:** Fresh-context **simulated cold read**, manuscript only. This is an editorial simulation, not a real audience measurement or demographic test.
+
+**Coverage:** All eight supplied chapters, 44–51, in declared order. The movement is complete as supplied, though it deliberately ends the night before the promised fight.
+
+## Unscored reader response
+
+Interest caught in Chapter 44 when Reydan began reading the Ironyard by its feet, record-keeping, and silences rather than by spectacle. His request to fight Cael turns a quiet room inspection into a clean story engine. The opening image of Lira testing her injured hands and Cael questioning whether his rightward slowness is shape or habit also pays off unusually well: the movement's external threat and internal problem are established before either is called a plot.
+
+Interest slipped most in the middle of Chapters 45–48. The danger of an academy-trained opponent, Cael's dependence on prior observation, and Reydan's refusal to repeat himself are each explained several times by Dace, Cael, Brom, Ansel, and the clerk's report. The training remains concrete, but some of the interpretive paragraphs after each tally repeat a conclusion the drill has already made legible. This produces a brief sense of circling before Ansel's round restores forward force.
+
+Cael matters most because the movement makes his habits of mind—not just his abilities—the thing at risk. Ansel is the strongest secondary emotional turn: his choice to return to a watched floor changes the training scene into an act of recovery without taking the movement away from Cael. Lira and Brom matter as distinct forms of care: Lira teaches through embodied insistence; Brom through classification, limits, and consent.
+
+The event I expect next is the Cael–Reydan fight, with Reydan breaking successive reads while Cael attempts to survive long enough to force the fourth, pattern-broken response. I also expect the academy observer to turn the bout into a second kind of test, whether or not Cael yet understands it, and I expect the unreproducible Tide-adjacent anomaly to remain unavailable rather than rescue him.
+
+I would continue without hesitation. The movement withholds the fight, but it earns that withholding by delivering local payoffs: the right foot becomes trained habit, the knock reaches four-in-five under varied conditions, Cael proves he can wait against Ansel, and his goal changes from learning through a good loss to intending to win.
+
+## Fluent thirteen-year-old lens
+
+This is a simulated interpretive lens, not evidence about actual thirteen-year-old readers.
+
+| Dimension | Score | Exact passage location | Reason | Confidence |
+|---|---:|---|---|---|
+| Opening pull | 7/10 | Ch. 44, opening kitchen scene, from “The bars Maud had laid across the backs of them” through the pencil question mark beside “The right is only ever my feet.” | Hurt hands, a mysterious training book, and the possibility that a limitation can be changed give a concrete hook. References to Maud, Bede, the Log, Shape, Habit, and the Wind arrive before a cold reader knows their weight, so the hook is more intriguing than immediately gripping. | Medium |
+| Keep reading | 9/10 | Ch. 44, Reydan to Dace: “I want to fight the unranked one”; Ch. 51, Cael's plan beginning “If I can force him to abandon three consecutive reads.” | The challenge is clear, the opponent feels genuinely dangerous, and each chapter answers one preparation question while opening a harder one. Ending before the bout increases pressure rather than feeling empty because the training produces real local victories. | High |
+| Interest / freshness | 9/10 | Ch. 48, clerk's report: the opponent “declined to be interesting”; Ch. 49, Cael refuses to offer Ansel new information. | Winning by patience and by denying an adaptive opponent useful data is a fresh, understandable tactical problem. The movement makes observation itself into combat rather than relying on a larger attack. | High |
+| Clarity / flow | 7/10 | Ch. 45, Cael's notebook list from Feryn through Talis; Ch. 46, first full explanation of the knock beginning “It was not like looking”; Ch. 51, final inventory of Wind-, Iron-, and Pressure-adjacent abilities. | Individual drills and exchanges are easy to picture, but a cold reader must retain many prior opponents, rank labels, ability names, costs, and metaphors. The same ideas are sometimes restated at length, which slows the line from threat to preparation. | High |
+| Character attachment | 9/10 | Ch. 49, Ansel's three exchanges and his statement to the bench beginning “Ansel… I was Bronze, on the coast”; ending with the returned two coppers. | Cael chooses restraint, asks consent, and lets another person keep ownership of his pain. Ansel's return to public fighting and Lira's sacrifice of her lamp make the surrounding care feel active rather than sentimental. | High |
+| Humor / warmth | 8/10 | Ch. 45, Lira adds an “E” to every square and the sister draws a hen under “EAT. L. SAYS.”; Ch. 50, Dace's outrage over stew inside his doors. | The humor comes from recognizable people and household habits. It relieves pressure without mocking injuries or fear, and the food, bills, hen, and rule-bound Dace make the district feel affectionate and lived in. | High |
+| Action / suspense | 9/10 | Ch. 49, all three exchanges of “Ansel's Round,” especially the second exchange from “So he stopped bringing things” to the held strike at Ansel's ribs. | Positions, choices, feints, reads, failures, and costs stay trackable. The bout changes both fighters and pays off the training. Long preparation still carries suspense because every drill is testing a specific failure likely to matter Tuesday. | High |
+| Progression payoff | 9/10 | Ch. 47, the first involuntary successful drop: “And he was not there”; Ch. 51, tally from “At rest: 12, 14, 16” through “Tired: 12, 16.” | Improvement is visible in body, numbers, and changed decisions. Cael does not merely receive a stronger power: he corrects a foot, trains reliability under worsening conditions, and learns when not to use an ability. | High |
+| Connection | 9/10 | Ch. 44, question mark beside the right-foot entry; Ch. 48, the entry is moved from Shape to Habit; Ch. 51, “Right foot: mine.” | Plants recur with altered meaning. Lira's hands, Ansel's defeat, Brom's reading method, the keeper's records, the two coppers, and the right foot all carry forward into choices and consequences. | High |
+| Read-aloud quality | 8/10 | Ch. 50, the thirteenth simulated burst from “And he did not need to” through Brom's hands arriving empty; Ch. 51, the final quiet alcove scene. | Repetition and short landing sentences give the discoveries strong oral rhythm. Some long technical sentences stack several temporal steps and pronouns, requiring extra concentration, but speaker attribution and emotional cadence are consistently controlled. | Medium-high |
+
+## Adult genre-reader lens
+
+This is also a simulated editorial lens, not a sales forecast or measured preference.
+
+| Dimension | Score | Exact passage location | Reason | Confidence |
+|---|---:|---|---|---|
+| Opening pull | 8/10 | Ch. 44, Lira reclassifies the right foot as Habit rather than Shape; transition to “Two streets away… the Ironyard's door was taking money.” | The quiet domestic opening establishes injury, method, and intimacy, then the cut to Reydan widens the threat elegantly. A mid-book cold reader lacks the emotional history behind Maud and Bede, but the scene's immediate physical facts still carry it. | High |
+| Keep reading | 9/10 | Ch. 44, Reydan accepts the fight two weeks out; Ch. 51, Brom says “You can win this,” followed by Cael's changed “I know.” | The movement sustains a single promise while varying its pressures: reputation, tactics, community, institutional attention, and self-conception. The closing change in Cael's answer is a satisfying internal climax and a strong bridge to the bout. | High |
+| Interest / freshness | 9/10 | Ch. 48, the lone recorded loss caused by giving Reydan nothing to solve; Ch. 49, Ansel deliberately recreates the problem. | The antagonist is threatening because he learns, not merely because he hits hard. “Information denial” becomes character conflict, tactical method, and thematic contrast between paid training and improvised learning. | High |
+| Clarity / flow | 8/10 | Ch. 47, Brom derives “It compresses inward before it fires outward”; Ch. 50, Brom distinguishes the anomaly from the earlier “nobody” reading. | The mechanics are carefully reasoned and most distinctions are explicit. Flow softens where several characters independently restate Reydan's academy polish and Cael's observation problem, and the accumulated system lexicon assumes familiarity from prior chapters. | High |
+| Character attachment | 9/10 | Ch. 46, Ansel's cookshop account and the untouched stew; Ch. 49, Ansel says Reydan's name publicly and accepts the returned coppers. | Vulnerability is dramatized through manners and objects instead of announced emotion. Cael, Lira, Brom, Dace, and Ansel have distinct ethics and voices; their care changes what they do and what they risk. | High |
+| Humor / warmth | 8/10 | Ch. 45, the household's training bill and food interventions; Ch. 50, the mending-stall pennants and Dace permitting stew once in twenty years. | Warmth is distributed through practical action and dry timing. The movement is serious, but never airless, and the district's investment expands the stakes beyond Cael's private ambition. | High |
+| Action / suspense | 9/10 | Ch. 46–48, progressive drills of no-warning movement, knock, and redirect; Ch. 49, Ansel's round; Ch. 50, the thirteenth burst. | Training scenes behave like contests: conditions change, results fall, adaptations follow, and cost accumulates. Ansel's round is substantial enough to pay off the preparation, while the anomaly supplies awe without replacing the planned fight solution. | High |
+| Progression payoff | 9/10 | Ch. 48, moving the right foot from Shape to Habit; Ch. 49, the trained drop and knock working at Ansel's speed; Ch. 51, stable four-in-five performance while tired. | Capability changes are earned, tested, bounded, and converted into strategy. The best payoff is psychological: Cael learns that waiting and declining to act are trainable combat skills too. | High |
+| Connection | 9/10 | Ch. 44's bruised hands, question mark, keeper's line, and Reydan's room-reading; recurring payoffs through Chs. 48–51. | Objects and phrases return with development rather than simple repetition. The movement braids body state, community economics, records, consent, and tactical knowledge into the coming bout with very few dropped threads. | High |
+| Read-aloud quality | 9/10 | Ch. 46, “Survive first. Think second”; Ch. 50, the costless anomaly; Ch. 51, “Fear came and sat with him.” | The prose uses clean dialogue, controlled refrain, and strong sentence landings. A few explanatory paragraphs run one thought beyond the point already landed, but punctuation and referents are generally reliable even in technical action. | High |
+
+## Continuity and boundary check
+
+No editorial canon evidence was supplied. Therefore I cannot identify any **verified canon violation**; the findings below are manuscript-internal observations only.
+
+- **Physical state:** Apparently consistent. Lira's left second knuckle continues to “talk,” her late-night lamp work stops for Cael's fortnight, and the choice remains emotionally and physically present. Cael's forearm bruises, left-knee stiffness, rib impacts, and shoulder groove accumulate, are rested, and constrain later work. The twelve practice redirects plausibly leave only three usable attempts for the bout because the shoulder, not a replenishing counter, is the limit.
+- **Power limits:** Apparently consistent and unusually well policed. Wind goes left and carries a two-*and* lock; the trained feet are slower but have no fixed doorway; the knock gives “when” rather than “where,” works only at useful range, fails about one in five, and conflicts with movement at the instant of asking; redirects are costly and few. The Tide-adjacent event occurs once, cannot be reproduced in seven attempts, is filed as an anomaly, and is explicitly excluded from Tuesday's plan. It does not solve a decisive problem in this movement.
+- **Knowledge boundaries:** Apparently consistent. Reydan knows Cael through rumor, a keeper's copied line, and observation of the room; he does not know Cael's mechanics. Cael learns Reydan through Dace, Ansel, and the borrowed clerk's report; he refuses to pretend the file is firsthand knowledge. Cael asks before using the knock on Brom, Ansel, and Lira, does not use it across the crowded floor without leave, and keeps inference separate from evidence. Brom clearly limits his Tide comparison to a secondhand story.
+- **Reserved disclosures:** No supplied canon identifies what must remain reserved. Within the manuscript, the unknown academy observer remains unidentified, the anomaly remains undiagnosed, and Cael's underlying architecture is posed as one of three possibilities rather than disclosed as fact. That restraint preserves future revelation space.
+- **Chronology and connection:** The thirteen-day preparation tracks cleanly from the Wednesday after Reydan's Tuesday visit through the Monday night before the Tuesday bout. Session counts, rest days, knock tallies, and redirect totals remain intelligible. I found no apparent internal contradiction requiring repair.
+
+## Repair brief
+
+1. **Location:** Chapters 45–48, especially Cael's notebook assessment after Dace's challenge, Brom's supper explanation of paid improvement, Ansel's cookshop account, and the clerk's nine-page report.  
+   **Observed issue:** Reydan's academy polish, refusal to repeat, and advantage over Cael's bench-built method are independently explained several times.  
+   **Effect on the reader:** The threat is clear early, so repeated full explanations briefly flatten escalation and make the middle feel longer than the new information warrants.  
+   **Proposed scope:** A focused line-level compression pass on repeated interpretation only; retain every scene, the developed drills, Ansel's account, and the clerk's crucial “declined to be interesting” evidence.  
+   **Strength to preserve:** The opponent's danger is intellectual, specific, and credible rather than inflated by rank alone.
+
+2. **Location:** Chapters 44–46, first mentions of Maud, Bede, Keth, the Log's Shape/Habit columns, Path types, and the knock; most concentrated in Chapter 45's list from Feryn through Talis.  
+   **Observed issue:** A manuscript-only cold reader meets several prior opponents, ranks, system categories, and inherited costs before knowing which distinctions must be retained.  
+   **Effect on the reader:** Local meaning remains recoverable, but early working memory is taxed and Cael's immediate emotional problem can momentarily disappear behind unfamiliar labels.  
+   **Proposed scope:** Add or sharpen only brief contextual appositives at the first necessary recurrence, or remove a nonessential prior name where the tier/function alone carries the point; do not add a glossary paragraph or re-teach the system.  
+   **Strength to preserve:** The narrative trusts the reader and embeds rules in decisions, bodies, and consequences.
+
+3. **Location:** Chapter 51, from “He began with his own body” through the full capability inventory and the final Reydan plan.  
+   **Observed issue:** The ledger summary is satisfying, but it repeats several limits just established in the preceding chapters before arriving at the new three-read plan.  
+   **Effect on the reader:** At the point of maximum anticipatory pressure, momentum cools slightly and the clean emotional turn—Cael now intends to win—has to carry a second recap.  
+   **Proposed scope:** Modest compression of duplicated explanatory clauses, preserving the body-state audit, exact remaining costs, anomaly exclusion, three-read strategy, and the final quiet with fear.  
+   **Strength to preserve:** The preparation feels earned because Cael can name precisely what he owns, what it costs, and what will not save him.
