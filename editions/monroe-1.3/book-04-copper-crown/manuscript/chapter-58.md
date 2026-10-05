@@ -1,22 +1,30 @@
 # Chapter 58 — Null Report
 
-The afternoon paper reached the assessment wing on the twenty-fourth a little after the fourth bell, and the delegation's file was in it.
+The afternoon paper reached the assessment wing on the twenty-fourth a little after the fourth bell, and the delegation's closing docket was in it.
 
-Seln knew it from across the room by its wrapper: brown paper, the delegation's return seal in green wax, a receipt slip pinned at one corner with a brass pin that had been bent and straightened at least once before. The paper-boy dropped it with the others at the counter's end and went off whistling. The desk clerk was four feet away with the term's floor ledger open in front of him, adding a column under his breath and losing his place every time the whistling reached the stair.
+It was a single sheet under the delegation's green seal, with a slip pinned at one corner by a brass pin that had been bent and straightened at least once before. The paper-boy dropped it with the others at the counter's end and went off whistling. The desk clerk was four feet away with the term's floor ledger open in front of him, adding a column under his breath and losing his place every time the whistling reached the stair. So it was Seln who signed for the docket, because signing was the counter's work, and Seln who read it.
 
-So it was Seln who signed the slip, because the slip was the counter's, and Seln who cut the wax, because cutting the wax was the counter's too.
+It discharged the loan. The wing's compilation of six filings, requisitioned on the evening of the twelfth, had been received, examined, and returned under the delegation's stamp. Below that, in a clerk's round hand, came the line the form required and nobody ever read: *No extract or copy retained.* And under that, a signature he knew from the wing's own ledger, the list clerk's, on the delegation's behalf.
 
-He did it at the copying table with the paper knife the wing kept for it, and then he checked the contents against his own covering index, sheet by sheet, the way the book said a returned file should be checked. Anyone watching would have seen that and nothing more, and the wall clock gave it four minutes.
+He filed it in the requisitions book, in its place, and blotted the entry. Anyone watching would have seen that and nothing more.
 
-In those four minutes he went over every sheet with his eyes and every edge with the side of his thumb.
+The file itself had come home ten days before.
+
+It had come at the sixth bell of the fourteenth, carried in by the delegation's list clerk with *Returned with thanks* and a receipt on its face. The desk clerk had signed for it. Seln had risen from the copying table and taken the case in both hands and set it on the shelf behind him among the wing's other sealed things, with a boy from the provision standing at the counter for his floor sheet, and he had not looked at it again while the room had people in it.
+
+From the evening of the twelfth, when the stack went across to the guest floor, until that sixth bell of the fourteenth, he had waited for four minutes alone with it. He had made no arrangement of any kind to be the one who handled it when it came; he had not needed to, since it was his table.
+
+When the counter was clear, and the boy gone, and the desk clerk gone down to his supper, he took the case down to the copying table and untied the knot.
+
+In four minutes he went over every sheet with his eyes and every edge with the side of his thumb.
 
 A paper that has been read carries the reading on it, if you know where to feel. Corners go soft where a thumb has held them back. A pin worked loose and pushed home again leaves the hole a fraction rounder. A stack that has lain open under a lamp for an evening comes back faintly warm-smelling, of tallow and of the room it lay in. He had spent two years of his youth learning to feel those things in the dark, and he felt for all of them now with the face of a man checking a count.
 
-He had waited since the twelfth for those four minutes, and he had made no arrangement of any kind to be the one standing at the table when the paper came; he had not needed to, since it was his table.
+Six filings, in their order, each with its appendix pinned behind it. On top, his own index, in his fourth hand. And on none of it a single mark. No pencil, faint or otherwise. No turned corner. No pin moved from the hole it had been put through. No slip tucked in, and none taken out, and no fold that had not been there when the stack went across. An evaluation seat had held it for two days, with every right in the charter to write in its margins, and had handed it back as clean as a sheet still in the ream.
 
-Six filings, in their order, each with its appendix pinned behind it. On top, his own index, in his fourth hand. And on none of it a single mark. No pencil, faint or otherwise. No turned corner. No pin moved from the hole it had been put through. No slip tucked in, and none taken out, and no fold that had not been there when the stack went across to the guest floor. An evaluation seat had held it for eleven days, with every right in the charter to write in its margins, and had handed it back as clean as a sheet still in the ream.
+Then he had tied the knot again exactly as it had been, and shelved the case, and gone down to his own supper at the pace a clerk keeps when nothing has happened.
 
-Then he tied the tape, shut the cabinet on it, and took up the floor allocations where he had left them, at the pace a clerk keeps when nothing has happened.
+And now the docket said *No extract or copy retained*. A reader who kept no copy, and wrote nothing on the original, had kept whatever he thought somewhere else.
 
 His first master, at the long table up the coast, had chalked a thing on the board for new auditors once, and Seln had copied it into the back of a book at twenty-two and never needed the book since. *A clean return is one of three. Not read. Read and passed. Read by a man who keeps his notes in his head.* The first was common and the second was commoner. The third, the old man had said, rubbing it out again with his sleeve, you would meet perhaps twice in a career, and only ever at one height.
 
@@ -52,7 +60,7 @@ Signature, extracts, seal. The packet went to stand against the door frame, read
 
 There remained the day's page, folded in his inside pocket.
 
-Four lines, in the fifth hand, sloping downhill to the right. The date the carriages left. The serial of the reserve frame, copied from the wing's maintenance book. The date the file came back. And one line under them that was not a fact at all, of the kind he let himself write perhaps twice a year.
+Four lines, in the fifth hand, sloping downhill to the right. The date the carriages left. The serial of the reserve frame, copied from the wing's maintenance book. The date the file had come back, the fourteenth, and the docket's date beside it. And one line under them that was not a fact at all, of the kind he let himself write perhaps twice a year.
 
 *unmarked file. one of three. probably the third.*
 
@@ -152,7 +160,7 @@ Nobody said anything.
 
 Lira spoke first. She had been stretched on the settle with her eyes shut, and now she opened them.
 
-"The law range," she said. "He didn't say the carrels. He said the law range."
+"The law range. He didn't say the carrels. He said the law range."
 
 "He named the range," said Karis.
 
@@ -170,7 +178,7 @@ Brom had taken his iced knee off the stool and put both feet on the floor, as he
 
 Karis stopped. She put both palms on the table, and when she spoke again it was slower.
 
-"He knew where the notebooks were since the third week of term. Carrels go through the wing's floor and space book. He keeps the book. He's known where my papers sleep since the day my key was cut." Her eyes went down to the wood between her hands. "What's written in them he's known for however long. A week. A month. Since the first day. That's the one thing I'll never find out."
+"He knew where the notebooks were since the third week of term. Carrels go through the wing's floor and space book. He keeps the book. He's known where my papers sleep since the day he first opened that book." Her eyes went down to the wood between her hands. "What's written in them he's known for however long. A week. A month. Since the first day. That's the one thing I'll never find out."
 
 Cael was at the window, where he had drifted while she read. He went there when he wanted his face out of the room; not one of them had ever said so.
 
@@ -178,7 +186,7 @@ Cael was at the window, where he had drifted while she read. He went there when 
 
 He did not answer at once, but came back from the window instead, and held out his hand to Karis, and she understood and gave him the marbled book from her satchel without a word. He opened it on the table where all three could see.
 
-"The day after the pin," he said. "Read it."
+"The day after the pin. Read it."
 
 Karis found it with one finger. "Two at the landing. Two at the road's foot. Change on the bell."
 
@@ -238,7 +246,7 @@ Brom thought about it, slowly, the way he thought about a guard he did not like.
 
 "Like a post," he said at last. "You don't thank a post for holding. You stop leaning on it where people can see."
 
-"Yes," said Cael. "Like that."
+"Yes. Like that."
 
 At the ceiling Lira gave the single nod she kept for a sum that came out. Her arm came up across her face.
 
@@ -256,7 +264,7 @@ Nobody argued.
 
 Karis had said nothing for some time. Now she took her hands off the table and put them in her lap, which Cael could not remember ever seeing her do. She sat like that, looking at the place on the wood where they had been.
 
-"There's a line for the minute," said Karis. "Hear it first. It's a finding, and I'd rather it weren't."
+"There's a line for the minute. Hear it first. It's a finding, and I'd rather it weren't."
 
 "Go on."
 
@@ -276,4 +284,4 @@ Cael brought out the Log, laid it open in front of her, and uncapped Hesk's pen.
 
 Karis read it twice.
 
-"Yes," she said. "That's what the page is for."
+"Yes. That's what the page is for."

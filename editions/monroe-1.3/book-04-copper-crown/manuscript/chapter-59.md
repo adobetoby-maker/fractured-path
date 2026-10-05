@@ -54,9 +54,9 @@ That night he wrote it, as briefly as he could make himself.
 
 ---
 
-Where the registry road left the river and began to climb into the hills, there was a posting-house with a slate roof and a yard behind it, and the delegation's carriages pulled into the yard on the second evening, on the hour the clerks had set for them on the coast. The clerks who built a delegation's road knew their work. They put a spare hour into every stage for the things that go wrong, and on this road nothing had.
+Eight days before that last session, on the evening of the twenty-fourth of Reaping, the delegation was still on the road home. Where the registry road left the river and began to climb into the hills, there was a posting-house with a slate roof and a yard behind it, and the delegation's carriages pulled into the yard on the second evening out from Halcenvane, on the hour the clerks had set for them on the coast. The clerks who built a delegation's road knew their work. They put a spare hour into every stage for the things that go wrong, and on this road nothing had.
 
-Three rooms had been kept upstairs for the senior officers. The counsel looked into all three before she chose. Vastin tried a single door, the furthest at the back. A table stood under its window. That settled it. Neither of the others had a table.
+Three rooms had been kept upstairs for the senior officers. The counsel looked into all three before she chose. The Archmarshal, Vastin, who had led the inspection at Halcenvane, tried a single door, the furthest at the back. A table stood under its window. That settled it. Neither of the others had a table.
 
 A narrow bed under the slope of the roof; a washstand with a cracked jug; one chair; and the table, scrubbed nearly white, standing a little out of true, so that a pencil set down on it began after a while to travel toward the wall. A folded card, pushed under the short leg, cured it. From the window he could see the length of the yard: the stable lamps coming on one after another, a boy sluicing the cobbles, an ostler walking a lame grey up and down to watch which foot it favoured.
 
@@ -188,7 +188,7 @@ He had kept his hands at his sides, and he would go on keeping them there. On th
 
 It was not this day. It might never be.
 
-The wing's six filings he did not untie again. He had read them on the first morning, before the first bell, and put them where they belonged, a good way under the record: a capable officer's honest account of the chair he had been given and the list he had been handed. There was nothing in them he needed twice. He let the pink tape lie.
+The wing's six filings were not in the folder. He had read them on his first morning on the bluff, the thirteenth, before the first bell, and put them where they belonged, a good way under the record: a capable officer's honest account of the chair he had been given and the list he had been handed. There had been nothing in them he needed twice. He had tied the pink tape again knot over knot, as it had come, and set the case by the door for the clerk to carry home to the wing, and he did not think of it now.
 
 Last, before the note, he went through the enrollment file one more time, with his finger running down Bracken's numbered index.
 
@@ -238,7 +238,7 @@ He did not write that. He had no evidence for it. It lay a very long way outside
 
 He could set down the finding his own eyes had earned, and stop at the edge of it.
 
-The line went down in his plain upright clerk's hand, the hand he had written in since his cuffs were inky, and under it went his name: all of it, as on everything he signed. He had never in forty years found a reason good enough for an officer to hide his name on a paper that might ruin someone.
+The line went down in his plain upright clerk's hand, the hand he had written in since his cuffs were inky, and under it went his name: all of it, as on everything he signed. He had never once found a reason good enough for an officer to hide his name on a paper that might ruin someone.
 
 *Classification error is unlikely. Continue observation.*
 

@@ -96,12 +96,12 @@ He did it the way he had done it at Ardenmere and at Greyvane, as a ledger and n
 *No column for that. Bill to the shoulder, same as ever, four blows a sitting.*
 
 *Three. Iron-adjacent. From Brom.*
-*This year: eleven clear of twelve at the fourth weight, called aloud, on its thinnest setting. First month, third weight: seven clear of eight. Reserve frame, after the fault: eight of nine. The last two were the hip's, and I told them so unasked. Cold, at the end of three hours: twelve of twelve.*
+*This year: eleven clear of twelve at the fourth weight, called aloud, on its thinnest setting. Second month, third weight: seven clear of eight. Reserve frame, after the fault: eight of nine. The last two were the hip's, and I told them so unasked. Cold, at the end of three hours: twelve of twelve.*
 *It tells me weight and direction, early, and nothing else. It has never lied to me. Because of it, a clerk's brown shoes never met the fifth weight. Cheapest thing I own.*
 
 *Four. Compression-adjacent. From Reydan.*
 *This year: nowhere on any record, because no record ever had it. Nine of eleven at the middle bag after a bad night, eleven of eleven rested, on three sandbags Brom sewed, in a wash-house, before the first bell. Nobody official has ever seen it.*
-*It's the one thing I own whose whole use is to stop the hurt reaching somebody else. Third inventory running I've written that line. Three years now, and no official eye has seen it work.*
+*It's the one thing I own whose whole use is to stop the hurt reaching somebody else. Third inventory running I've written that line. Two years now, and no official eye has seen it work.*
 
 *Five. Ember-adjacent. From Karis, with her consent, given in writing at Greyvane and asked for again on the night before I spent it.*
 *This year: four instants on the wing's copper pot, read off its glass straw in front of four Compact chairs. Gault's word: better than the Greyvane exhibit supports.*
@@ -117,7 +117,7 @@ He did it the way he had done it at Ardenmere and at Greyvane, as a ledger and n
 He sat back. The window was black, and the lamp made a second room in the glass with a second boy in it, writing. Boy and reflection considered each other. Then he bent to the page again. Under the six went the entry that had stood in that spot two years running.
 
 *Anomaly. Session nine. Tide-adjacent.*
-*Tonight I tried it again, as I try it every year: can I call it back, and can I say why it came at all? I can't do either. Three years and not a Tide practitioner within a day's ride. No long exposure. Nothing at stake. Every condition this book swears by was absent. It came all the same.*
+*Tonight I tried it again, as I try it every year: can I call it back, and can I say why it came at all? I can't do either. Two years and not a Tide practitioner within a day's ride. No long exposure. Nothing at stake. Every condition this book swears by was absent. It came all the same.*
 *Six and an anomaly. It isn't a seventh anything. I've kept that sum honest for two years and I'll keep it honest now. The day I count it, I've decided a thing I don't know.*
 *Still open. Still real. Patience.*
 
@@ -125,7 +125,7 @@ He let the ink dry. Under it all went the last working line of the year.
 
 *The system isn't confused about me. Call it the year's finding. A man asked me eleven questions in a twelve-by-fourteen room and left the twelfth where it lay, and that's how I know.*
 
-*Here is what I hold toward the next question, all of it. A gap on Prynn's shelf where a volume never came back. One retired word, copied into two notebooks, that neither of us can read. A designation on my file that nobody I've ever asked can trace to a desk or a hand. And, somewhere over all of it, one note in one file, in a hand that signs its whole name.*
+*Here is what I hold toward the next question, all of it. A gap on Prynn's shelf where a volume never came back. One retired word, copied into two notebooks, that neither of us can read. A designation on my file that nobody I've ever asked can trace to a desk or a hand. And, somewhere over all of it, one note in one file, in a hand I'd wager signs its whole name.*
 
 *Whatever it believes it has settled about me, and the reason it was built to settle such things. That's next year's question. I came up the bluff road with a smaller question than this. This one I came by honestly, and I've paid for all of it.*
 
@@ -225,7 +225,9 @@ Lira did not even turn round.
 
 "Good," she said.
 
-They let that be for a while. Out on the water the barge made the bend. The sun went down behind the far hills and the river took the colour of it, first gold and then pewter, and the bluff's long shadow went out across the water toward the ferry lamp. It was the kind of light such evenings end in, at the end of such years: years that had asked more of each of them than any of them had known to expect.
+They let that be for a while. Out on the water the barge made the bend, and somebody on its deck gave two short notes on a horn, *heard you*, to nobody any of them could see; a moment later, from the far bank, somebody answered. The sun went down behind the far hills and the river took the colour of it, first gold and then pewter, and the bluff's long shadow went out across the water toward the ferry lamp. It was the kind of light such evenings end in, at the end of such years: years that had asked more of each of them than any of them had known to expect.
+
+Sixty feet along the coping the teaching assistant straightened, his eyes still on the water, and walked on along the wall into the dusk at the pace of a man with work waiting for him in the morning, and every working morning after it, all through the recess. Nobody watched him go.
 
 Then Cael said, to nobody, to the valley, "I have six things that aren't a Path."
 
@@ -235,7 +237,7 @@ It came the way his best lines came in the Log, unplanned, at the moment they ha
 
 It held when he tested it, so he left it there.
 
-There was one thing more. He knew what kind of thing it was before he said it. He had never seen the note and he never would. No one here had read it. No one would read it to him. What he had instead was a stamp that said *renewed*; and two coats at the ferry landing changing on the bell exactly as they had changed every day since the carriages went down the hill, not one man added; and a careful man's single look across the brass; and a twelfth question left lying where it lay. Out of those he had made a belief. He knew it was a belief and not a finding, and he would have written it in the Log as one. He said it anyway, the way you say a true thing you cannot prove, to the only three people in the world he would ever say it to.
+There was one thing more. He knew what kind of thing it was before he said it. He had never seen the note and he never would. No one here had read it. No one would read it to him. What he had instead was a stamp that said *renewed*; and two coats at the ferry landing changing on the bell exactly as they had changed every day since the carriages went down the hill, not one man added; and a careful man who looked once at a failing frame and never once, after, at him; and a twelfth question left lying where it lay. Out of those he had made a belief. He knew it was a belief and not a finding, and he would have written it in the Log as one. He said it anyway, the way you say a true thing you cannot prove, to the only three people in the world he would ever say it to.
 
 He said, "And somewhere in a file, the most careful man I've ever met wrote that I'm not an error."
 
@@ -245,8 +247,4 @@ He said, "And somewhere in a file, the most careful man I've ever met wrote that
 
 Karis's pencil was already moving in the little notebook that went everywhere with her. She did not raise her eyes. "Noted," she said.
 
-The teaching assistant's eyes stayed on the water; he offered nothing. After a while he straightened and walked on along the wall in the dusk, at the pace of a man who had work waiting for him in the morning, and every working morning after it, all through the recess.
-
 The bluff held. The stamp was real.
-
-Below them, in the dark coming up off the water, the barge gave two short notes on its horn, *heard you*, to nobody any of them could see. A moment later, from somewhere on the far bank, somebody answered.

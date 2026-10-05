@@ -20,7 +20,7 @@ Beside him Lira, kit bag on one shoulder, gave the building a long, unfriendly s
 
 Nobody had asked who would come. At first light all four of them had simply been at the residence door with their coats on, and nobody had said anything about it, and they had gone down the bluff road together in the grey. At the road's foot the two men in grey coats had been changing on the bell. One of them had looked at Lira's kit bag for just as long as a man looks at a bag, and then at the river. In the town Karis had bought four hot rolls from a baker's hatch and handed them round without asking who wanted one, and they had eaten them walking, and Brom had paid the bridge toll for all of them, as he always did, before anybody else could get a coin out.
 
-Bracken had come too. He wore his own plain coat instead of the registrar's gown, and he carried a leather satchel with Halcenvane's sponsorship file in it: the certified season record, the witnessed final, Gault's filing on the registry's long form with Ilsev's line under it, and three hundred sheets behind them in his numbered order. He had carried it down the hill himself and would not let Brom take it.
+Bracken had come too. He wore his own plain coat instead of the registrar's gown, and he carried a leather satchel with Halcenvane's sponsorship file in it: the certified season record, the witnessed final, Gault's filing on the registry's long form with Ilsev's line under it, and the season's sheets behind them in his numbered order. He had carried it down the hill himself and would not let Brom take it.
 
 "Ninety seconds," he said at the curb. "That's my part. I put the file on a desk and say what it is. Then I'm furniture with a bag. The rest is hers and the frame's, and I'd thank you all to remember whose it is."
 
@@ -198,7 +198,7 @@ The certificate was printed. Somebody had filled in the blanks in ink.
 
 Nobody said anything.
 
-Brom was the first to move. "Huh," he said, and got up, and put out his right hand, the one that had been strapped a fortnight ago. Lira regarded the hand like an object she had never met before. Then she shifted the sheet to her left and shook it, once, hard.
+Brom was the first to move. "Huh." He got up and put out his right hand, the one that had been strapped a fortnight ago. Lira regarded the hand like an object she had never met before. Then she shifted the sheet to her left and shook it, once, hard.
 
 "Say it," said Karis.
 
@@ -216,11 +216,11 @@ On the way down to the river she and Cael drew ahead of the others. He had asked
 
 She did not tell him much. She told him about the sequence, and the hook she had read as a turn, and the three plain steps that had felt like walking through water. She told him about the grain smell. She told him about the empty bracket where the weighbeam had hung, and he nodded and did not say anything, because he knew what a weighbeam was to her.
 
-"And the frame," he said.
+"And the frame?"
 
 For most of a street she said nothing.
 
-"It takes four seconds," she said. "Nobody tells you that. You think it's like a lamp, on or off. It isn't. It goes into you and reads. Slowly. All the way down. Four seconds of nothing in the world but a thing making up its mind about you. And you can't do anything. Not one thing. You stand there with your palm on it and you let it."
+"It takes four seconds. Nobody tells you that. You think it's like a lamp, on or off. It isn't. It goes into you and reads. Slowly. All the way down. Four seconds of nothing in the world but a thing making up its mind about you. And you can't do anything. Not one thing. You stand there with your palm on it and you let it."
 
 "I know," said Cael.
 

@@ -276,3 +276,83 @@ ch58 runs short (the council is dialogue-dense); ch59 (Vastin's interiority) run
 11. **Withrow's tournament sentence** split after "qualifying season" (B5 Ch1 recalls a longer form).
 12. **Words 29,550 (wc)**, about 450 under the 30,000 aim and inside 28,500–31,500. Cutaways are within about 120 words of each target.
 13. **Gwen** (placeholder, #11) used in two scenes; Abbot not used.
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place and by reading, against `REPAIR-BRIEF.md` (all eleven flags accepted; "since the pin" now in BOOK_MAP §10). Each change was written by hand. Whole rewritten passages were applied as exact before→after strings that failed on any miss. Only ch57–62 and this report were edited. The source chapters were not reopened. **No git commands were run.**
+
+### Changelist by chapter
+
+**ch57**
+- P2.1: "the baseline from his first month" → "second month". The scene now agrees with "the baseline of the second month" two paragraphs above.
+
+**ch58**
+- **P1, the compilation's return.** Scene 1 is rebuilt. The 24th's afternoon paper now brings the delegation's **closing docket**: a signed return slip that discharges the requisition loan and says *No extract or copy retained*, with the list clerk's signature. That sends Seln back to the **fourteenth**:
+  - The case came home at the sixth bell, *Returned with thanks*, as ch48 has it, with the boy at the counter.
+  - Seln shelved it without looking.
+  - When the counter was clear and the desk clerk had gone to supper, he took it down to the copying table for his **four minutes of eyes and thumb**.
+- Kept whole: the soft corners, the pin-hole "a fraction rounder", and "as clean as a sheet still in the ream".
+- The evaluation seat now held the compilation "for two days", not eleven.
+- "Waited since the twelfth" now reads "From the evening of the twelfth … until that sixth bell of the fourteenth".
+- The docket's *No extract or copy retained* now feeds the chalked rule. "one of three. probably the third." still lands.
+- The cipher page's date line now reads "The date the file had come back, the fourteenth, and the docket's date beside it."
+- P2.2: "since the day my key was cut" → "since the day he first opened that book".
+- P3 tags: five "said" tags thinned in the council and Karis's finding, where the speaker was already clear.
+
+**ch59**
+- **P1:** "He let the pink tape lie" is now a memory. Vastin read the filings on his first morning, the thirteenth, retied the tape knot over knot, and set the case by the door for the clerk to carry home to the wing.
+- **P3 anchor:** the posting-house opens "Eight days before that last session, on the evening of the twenty-fourth of Reaping, the delegation was still on the road home", and the yard is reached "on the second evening out from Halcenvane".
+- **P3 role phrase:** "The Archmarshal, Vastin, who had led the inspection at Halcenvane".
+- To taste: the second "forty years" (on officers hiding their names) is gone. The packet line "in forty years he had never once found the two to be identical" stays.
+
+**ch60**
+- P2.4: "three hundred sheets behind them" → "the season's sheets behind them in his numbered order".
+- P3 tags:
+  - "Huh," he said, and got up → "Huh." He got up
+  - "And the frame," he said → "And the frame?"
+  - the "she said" on "It takes four seconds" is dropped.
+
+**ch61**
+- P2.5: "The wing's frame had been rebuilt" → "was being rebuilt". The new notch is still to be fitted in ch62.
+- Consistency, same family as P2.1:
+  - Ephram's public deferral (day 49) now happens "In the second month".
+  - The Fiske page dates "since early in the term".
+
+**ch62**
+- P2.1: the inventory reads "Second month, third weight: seven clear of eight."
+- P2.3: "Three years now" → "Two years now" (Compression unseen), and "Three years and not a Tide practitioner" → "Two years". The Wind landing beat keeps its canon "Three years" (ch56: "Three years it's stayed that length").
+- **P3 C7:** "in a hand I'd wager signs its whole name".
+- **P3 one look:** "a careful man's single look across the brass" → "a careful man who looked once at a failing frame and never once, after, at him". This now matches ch55 (one look, at the frame) and ch59 (no second look).
+- **P3 the ending ends once:**
+  - The barge horn ("*heard you*", answered from the far bank) moves up into the light paragraph after "Good."
+  - The teaching assistant's exit moves before Cael speaks: he walks on along the wall toward a recess of working mornings, and "Nobody watched him go."
+  - The closing exchange is unchanged.
+  - **"The bluff held. The stamp was real." is now the last line of the book.**
+
+### Day table (changes only)
+
+| Day | Date | Was | Now |
+|---|---|---|---|
+| d178 | the 14th of Reaping | (M7) the case returned unmarked at the sixth bell | Same, plus Seln's four minutes of eyes and thumb at the copying table once the counter is clear (ch58) |
+| d188 | the 24th | the compiled file returns by the afternoon paper | The delegation's **closing docket** (signed return slip; *No extract or copy retained*) arrives by the afternoon paper. Evening: Vastin at the posting-house, "eight days before" the last unit session (d196) |
+
+Everything else in the book-end table above stands.
+
+### Before / after (formula_metrics.py, ch57–62)
+
+| Measure | Before r1 | After r1 |
+|---|---|---|
+| Words (formula / wc) | 29,488 / 29,550 | 29,754 / 29,816 |
+| Sentence mean | 13.50 | 13.54 |
+| ≥40-word share | 3.9% | 3.9% |
+| ≤5-word share | 28.8% | 28.9% |
+| Paragraph median | 26 | 26 |
+| Words per scene | 893.6 | 901.6 |
+| FRE / FK | 86.8 / 4.5 | 86.7 / 4.53 |
+
+### Checks after r1
+
+- `ed.sh overlap book-04-copper-crown 9`: **0 unprotected**, 32 protected. The M9 packet patterns are now in `protected-patterns.txt`.
+- `ed.sh gates book-04-copper-crown 9`: reader_standard=0, metadata=0, modern=0 on all six chapters.
+- `sweep_probe.sh book-04-copper-crown 9 9`: **skeleton 2%, close 9%** on 1,277 sentences (ch57 1/5 · ch58 3/8 · ch59 3/9 · ch60 1/10 · ch61 3/9 · ch62 4/11).
+- Length: 29,816 (wc), inside 28,500–31,000.

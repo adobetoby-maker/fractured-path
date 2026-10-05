@@ -46,7 +46,7 @@ That night the Log got her words exactly as she had said them. Then Cael's pen w
 
 *It was a plan. It took a whole engine of parts: a season on a public board, a final in front of witnesses, a registrar willing to certify the record before the result was known, an officer of record willing to file, an assessor at his elbow to witness the filing, and a Compact evaluation seat sitting in the second row of the north tier while it all happened. Six pieces. Fiske had drawn all six for her in four sentences at a standings board. She had been two years in the same box. And she handed the plan to the one fighter she thought could use it.*
 
-*I've had a page headed* Fiske *since the first month. I looked at it tonight. It's all footwork: where she plants, how long she collects, which side she places her first declaration. There isn't a single line on it about her.*
+*I've had a page headed* Fiske *since early in the term. I looked at it tonight. It's all footwork: where she plants, how long she collects, which side she places her first declaration. There isn't a single line on it about her.*
 
 *Fix that.*
 
@@ -98,7 +98,7 @@ It was not what Cael had expected; he had expected nothing at all from Ephram un
 
 "Why?"
 
-"Two reasons. The first's about me, and it's the one I'd rather not say, so I'll say it first." Ephram gave the blade in his hand a sour look. "In the first month I stood up there," he tipped his head at the top of the yard, "in front of sixty people and said I'd wait for your evaluation before I made up my mind. Then on the lecture stair, with thirty more listening, I changed my terms in your favour and thought well of myself for doing it in the open. Both times I was announcing a feint. *Watch me, I'm going to judge this.* And what I'd appointed myself to judge was a closed panel that would never have let me through its door. Everybody on this hill knew that but me."
+"Two reasons. The first's about me, and it's the one I'd rather not say, so I'll say it first." Ephram gave the blade in his hand a sour look. "In the second month I stood up there," he tipped his head at the top of the yard, "in front of sixty people and said I'd wait for your evaluation before I made up my mind. Then on the lecture stair, with thirty more listening, I changed my terms in your favour and thought well of myself for doing it in the open. Both times I was announcing a feint. *Watch me, I'm going to judge this.* And what I'd appointed myself to judge was a closed panel that would never have let me through its door. Everybody on this hill knew that but me."
 
 "Plenty of people make promises they can't keep."
 
@@ -164,7 +164,7 @@ On the twelfth Withrow closed the year.
 
 She did it in the great hall of the lecture range with the whole house in front of her: the faculty along the front benches, the cohorts behind them by Path, and the clerks and porters standing along the back wall where they always stood. The clock over the door was two minutes slow, and Cael had begun to suspect that it would stay two minutes slow until she retired, and that somebody would mend it the week after and feel very bold.
 
-The first part of it was the ordinary business of shutting a house for the recess, and she gave it the attention of a woman counting linen. The roof over the north hall was poor and would be seen to. The wing's frame had been rebuilt, and the man who built frames had been written to, at length. The porters were thanked one by one, by name, and the porter of the Crown yard went very red. Brom shifted on the bench. Lira, beside Cael, sat with one hand inside her coat, resting flat over the pocket where the folded certificate lived, as though it might otherwise get up and leave.
+The first part of it was the ordinary business of shutting a house for the recess, and she gave it the attention of a woman counting linen. The roof over the north hall was poor and would be seen to. The wing's frame was being rebuilt, and the man who built frames had been written to, at length. The porters were thanked one by one, by name, and the porter of the Crown yard went very red. Brom shifted on the bench. Lira, beside Cael, sat with one hand inside her coat, resting flat over the pocket where the folded certificate lived, as though it might otherwise get up and leave.
 
 Then Withrow took a single sheet from under the others and held it up, so that the hall could see it was a real paper and not a speech.
 

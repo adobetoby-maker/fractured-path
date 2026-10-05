@@ -914,3 +914,94 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 
 **Movement 8 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — applied (ch55 Log 'and it stayed in.'; ch53 '*eleven of eleven*'; plus the recheck's supplied ch13 erratum for the frame weights numbered one to five). Flag for the completion read: the baseline's 'first month' (ch49 Gault, followed by M8) vs 'second month' (ch48 Cael) — inherited, unresolved. Overlap 0/13, gates 0, probe 2%/7%.
+
+## After Movement 9 — BOOK END (chapters 57–62; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- THE COMPILATION: Vastin sent the six-filing compilation back on the thirteenth (ch45/ch59 memory); it came home unmarked at the wing's counter at the sixth bell of the FOURTEENTH (ch48); Seln's four minutes of eyes and thumb that evening at the copying table, the counter clear; the cipher page records the fourteenth. The afternoon paper of the twenty-fourth brings only the delegation's CLOSING DOCKET (a signed return slip discharging the loan; 'No extract or copy retained') → the first master's chalked rule; 'one of three. probably the third.'
+- CALENDAR: the delegation leaves the twenty-third; the corridor the twenty-seventh; the posting-house 'Eight days before that last session, on the evening of the twenty-fourth of Reaping'; new-month dates (the 5th, 10th, 12th, 14th) with no month named; no season named for the recess (#35); no English weekdays. The BASELINE is the forty-eighth day = the SECOND month (ch57, ch61, ch62); Ephram's public deferral 'in the second month' (day 49). Book-wide 'first month' uses (ch43, ch49, M8) queued for the completion sweep.
+- Book 2 events are 'two years' ago (Compression unseen; the Tide anomaly); the Wind landing beat keeps its canon 'three years'. 'Since the pin' (BOOK_MAP §10 amended from 'since midwinter').
+- THE ENDING (BOOK_MAP §1 and the Book 5 hand-off verified): six confirmed fragments + one anomaly; Shadow 'useful where: nowhere yet. Second year of that answer begins now'; Wind six free, landing beat unshortened; the record keeps five; Lira Iron Rank One by the Ostrand registry station's evaluation, the Copper crown retired; Fiske Copper Rank 8; Brom Copper on paper, third in Rooke's cohort; Bracken certifies every season record; Gault's calendar sets next term's evaluation against the baseline and the note of the twentieth; Seln's name on the recess counter sheet every working day; 'Gratitude is the leak' / 'thank you for the form' weekly; watchers two and two; the tournament clause (sixth part, subsection four) banked, *Interesting.*; Withrow's sentence ends at 'qualifying season'. The wall: Seln walks off before Cael speaks ('Nobody watched him go.'); the barge horn after 'Good.'; the closing exchange as set, C7-framed ('in a hand I'd wager signs its whole name'); the LAST LINE: 'The bluff held. The stamp was real.'
+- Vastin: no stated age; 'forty years' career (#17); 'The Archmarshal, Vastin, who had led the inspection at Halcenvane' at the ch59 opening; he struck the line at the close and wrote the amendment that night; he looked once at a failing frame and never, after, at Cael; does not detect Seln's nulls. Hesk's 'keep looking' is his guess (C7). Vell's letter 'five short sentences'. Law range (carrel eleven). Gwen placeholder.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end — BOOK END (for the ledger)
+
+**Calendar.** Weekday anchor: d176 = Fourth-day, the twelfth of Reaping; seven-day weeks. Only Reaping dates and "the new month" are named. No English weekday names. No month order and no Sowing→Reaping day count is stated (#35). No season is named for the recess, or anywhere in the movement.
+
+| Day | Weekday | Date | Event |
+|---|---|---|---|
+| d186 | Seventh-day | the 22nd of Reaping | Third morning of ice. Bracken enters the renewal in the enrollment book. Third bell: Rooke's remark to Brom at the cohort board. Eighth bell: Withrow's counsel predicts the finding to nine people |
+| d187 | First-day | the 23rd | Departure in light rain; Ilsev at the steps; Havel's sixteen seals; Bracken countersigns. Lira's four days off the hip end (fourth bell); Cael's three days end that night. The Log ("Confused systems ask. This one checks.") |
+| d188 | Second-day | the 24th | Afternoon paper: the compiled file returns to the wing, **unmarked**. Evening: the delegation at the posting-house at the turn of the registry road (Vastin's note) |
+| d189 | Third-day | the 25th | Ordinary unit session; Gwen |
+| d190 | Fourth-day | the 26th | Cael writes to Hesk; coursework at the counter. Evening: Seln writes and seals the quarterly |
+| d191 | Fifth-day | the 27th | Hesk letter posted in the morning. Fifth bell: the corridor. Evening: the hand-cart, four loads, the named room (Bracken, ninety seconds). Night: the council |
+| d196 | Third-day | (date unnamed) | The unit's last session; the second Log entry |
+| — | — | the 5th of the new month | Lira's Arbiter evaluation at the Ostrand registry station: **Wind, Iron, Rank One**; fifty-one minutes; the crown retired that evening |
+| — | — | the 6th | The porter changes the word and moves her name; the certificate pinned; Fiske reads it |
+| — | — | the 8th | Ephram in the empty yard |
+| — | — | the 10th | The archive sweep; carrel eleven *nil* |
+| — | — | the 12th | Withrow's end-of-year address; Karis reads the tournament charter that afternoon; Hesk's reply by the evening coach |
+| — | — | the 13th (last full day) | Vell's letter; the recess counter sheet; Gault's calendar; the inventory that night |
+| — | — | the 14th (last day of term) | Standings certified under the north arch; Fiske and Lira; the wall at dusk |
+
+(The 5th is chosen so that it follows d196 for any month length of 28 or more; no length is stated.)
+
+**Checked line by line against BOOK_MAP §1 (ending) and the B5 Ch1 hand-off.**
+
+| BOOK_MAP §1 / hand-off item | On the page | Status |
+|---|---|---|
+| Cael sixteen | "Sixteen years old" (Vastin, ch59); Hesk's "Sixteen suits you" (ch62) | ✓ |
+| Six confirmed fragments + one anomaly | Inventory, ch62 ("Six confirmed"; "Six and an anomaly. It isn't a seventh anything.") | ✓ |
+| Sixth = Shadow-adjacent, Bronze, directed, non-combat, from Seln, unknowing | Inventory ("From a man who doesn't know, in the third hour of a bad night, on a stair") | ✓ |
+| Shadow deployment none; idle state continuous; components mutually exclusive | Inventory (deployment none; rent from waking; the two halves won't sit together) | ✓ |
+| Wind ceiling six (up from four at the baseline); landing beat unshortened | Inventory, Wind entry | ✓ |
+| Enrollment renewed; Gault's note: growth in five, one flat (plate) | Bracken's enrollment-book line (ch57); inventory (flat line at the plate) | ✓ |
+| Lira: Wind, Iron, Rank One, formal, by Arbiter evaluation at the Ostrand station | ch60 (certification exact); the porter's board (ch61) | ✓ |
+| The Copper Crown retired on the residence shelf | ch61 | ✓ |
+| Brom: Copper formal; seam repaired; third in Rooke's cohort; lost the final by one beat | ch61 steps; ch62 certification and the wall | ✓ |
+| Karis: Iron R3; notebooks moved to a named upper-floor room before the sweep; the clause banked with "Interesting." | ch58 (hand-cart, named room); ch61 (sweep *nil*; clause; *Interesting.*; "It's banked.") | ✓ (Iron R3 unchanged, not restated) |
+| Seln: still at his desk; null reports only; quarterly closes "Continuation of embedded coverage recommended."; private file in the locked case; no knowledge of the mechanism or acquisition; no confession or declaration | ch58; the recess roster (ch62); the wall | ✓ |
+| Vastin: one direct conversation only; file note signed with his own name | ch59 | ✓ |
+| Ilsev: second referral filed (M7); Havel: four entries | Havel's window (ch57): her referral in her case; "four lines in his notebook" | ✓ |
+| Inspection finding filed: full compliance, basis sound, documentary practice complete, one fire-watch remark | Counsel's prediction (ch57); Withrow reads the four lines (ch61) | ✓ |
+| Halcenvane will contest next year's qualifying season | Withrow's address (ch61) | ✓ |
+| Watchers: two at the ferry landing, two at the road's foot, every four hours, unchanged | ch57 (marbled log), ch58 (read back), ch60 (road's foot), ch62 ("not one man added") | ✓ |
+| Unresolved by design: Jessup's client; Fiske Copper R8; Vell's session unclaimed; Reydan's find-me-later; the Iron Skin watcher; the market stranger; Hesk's history; Coss's grade | Vell, Reydan named as open offers; Fiske "the same six letters"; the rest untouched | ✓ |
+| **B5 Ch1:** Seln at his desk all recess | The recess counter sheet, *S. Seln* every working day; the wall's last line | ✓ |
+| **B5 Ch1:** Wind ceiling six; landing beat unshortened | Inventory | ✓ |
+| **B5 Ch1:** six fragments + the anomaly | Inventory | ✓ |
+| **B5 Ch1:** Lira Iron | ch60–62 | ✓ |
+| **B5 Ch1:** Bracken certifying records | Season sheets to certify across the recess (ch61); every column certified at the green table (ch62); the tournament charter to be posted before selection (Withrow) | ✓ |
+| **B5 Ch1:** Gault's evaluation machinery | Next term's half-yearly evaluation on Gault's calendar; panel of record; measured against baseline and the note of the twentieth | ✓ |
+| **B5 Ch1:** "Gratitude is the leak" governs; "thank you for the form" every week | ch58; ch62 | ✓ |
+
+**Cael — body.** Hip: three days from the evaluation, ended the night of the 23rd. Shoulder: dull by the 22nd ("to the week's end"). Fit at book end. Idle-state rent continues from waking.
+
+**Fragments and capabilities.** Six confirmed plus the Tide anomaly; the record keeps five. No change in this movement. Shadow zero deployment. No Wind, Compression, Pressure or Ember used.
+
+**Knowledge.**
+- The four know the corridor happened and what it means; nothing is said to Seln; nobody institutional knows anything new.
+- The slip: kept back by Cael and Karis, unspoken.
+- Seln knows the file came back unmarked and guesses "the third" reading. He does not know the mechanism or the acquisition.
+- Vastin's note exists; nobody on the bluff has seen it. Cael's closing line is framed as his belief (C7). Hesk's "keep looking" is Hesk's guess from Cael's letter (C7).
+- Lira knows the station from the inside; Cael has her account of the four seconds.
+
+**Documents and objects.**
+- The enrollment book's renewal line (Bracken); the folder marked *94 min.*
+- Seln's quarterly (sealed for the fish steps); his cipher page in the small case.
+- Vastin's file note; his private letter to Bracken (four sentences, sent by the morning post).
+- Karis's corridor page; the named reading room (card in a brass frame; stands through the recess); the grey notebook with the clause and *Interesting.*
+- Lira's certification; the Copper Crown on the shelf over the settle.
+- Hesk's reply (behind the notebook's front board with the birthday note); Vell's letter (stamped as a ledger item).
+- The recess counter sheet; Gault's calendar; the certified season sheets (three hundred, across the recess).
+- The inventory and the Log.
+
+**Companions.**
+- Lira: Wind, Iron-tier, Rank One, formal; hip knitting a month, quiet at book end; plans a letter to Fiske.
+- Brom: Copper formal; third in Rooke's cohort; recess sheet (nineteen, round three, four a week).
+- Karis: Iron R3; named room; the clause banked.
+
+**Watchers.** Two and two, on the bell, unchanged through the last evening of term.
+
