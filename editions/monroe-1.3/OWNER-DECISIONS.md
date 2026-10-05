@@ -99,7 +99,7 @@ The owner may choose a different scale. Whatever scale is chosen must let Gold b
 
 ## #39 — Book 5 bout formats and the mill-town Iron split (coordinator default, 2026-10-05; B5 M2 review)
 These are defaults, and none blocks drafting:
-- **Exhibition bouts** (the demonstration provision): at most five exchanges. Two touches ends the bout; short of two, the fighter with more touches wins; if touches are level, the figure decides.
+- **Exhibition bouts** (the demonstration provision): at most five exchanges; a clean throw counts as a touch (B5 M3). Two touches ends the bout; short of two, the fighter with more touches wins; if touches are level, the figure decides.
 - **Regional bracket bouts:** two touches inside four exchanges. Level after four, the figures decide.
 - **Continental (Norhold) bracket bouts:** a different regime. Points are scored per exchange across up to five exchanges. The rule is stated ONCE on the page at Norhold (M5), and it carries Brom's "round-two five-exchange bout" and the Lira–Zerin arithmetic in BOOK_MAP §8 ("naught-three, two-one, one-two, one-three").
 - **The Iron split at the fifth rank** is a HOST OPTION the charter allows. It is not custom. The mill town exercised it; the confluence (M4) runs one Iron draw. The ledger records which meets split.
