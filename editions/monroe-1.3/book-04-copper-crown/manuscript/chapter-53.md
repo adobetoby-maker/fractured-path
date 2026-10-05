@@ -38,9 +38,9 @@ Brom did not pretend not to know what she meant. "You'd have known if I hadn't."
 
 "I'd have known by the first step. And then I'd have had to be kind to you for a week, and I'm very bad at it." She shifted in the chair and her mouth went tight for a moment. "It was the right line. I'd have thrown it myself."
 
-"I know. That's why I threw it." He looked over at the crown on the long table. "Third one someday."
+"I know. That's why I threw it." He looked over at the crown on the long table. "What I said on the floor still stands," he said. "Third one someday."
 
-"You said that on the floor."
+"You said it once. Once was plenty."
 
 "I'm saying it again so it's written down somewhere." He glanced at Karis. "Is it written down?"
 
@@ -76,7 +76,7 @@ Brom said, "Like somebody with something in his pocket."
 
 Karis took up the chalk again and drew six lines down the slate.
 
-"The wing posts its order for a semester sitting beside the Magister's door, under the calibration card, and I'm fairly sure I'm the only person who has ever read it from top to bottom, the Magister included." She wrote as she spoke. "One, the board. Two, the frame, read only, with your back to the rail. Three, read and move together. Four, the plate. The last two are the first two over again, with an hour of oak in your legs. That's what you did at the baseline. This time the read stops being a trial of its own and gets carried inside the third and the cold runs. The fifth slot is new: the heaviest weight on the rail, your square brought in close, and a tray of chalk dust beside it so that the clerk can read your feet from the dust instead of from your account of them."
+"The wing posts its order for a semester sitting beside the Magister's door, under the calibration card, and I'm fairly sure I'm the only person who has ever read it from top to bottom, the Magister included." She wrote as she spoke. "One, the board. Two, the frame, read only, with your back to the rail. Three, read and move together. Four, the plate. The last two are the first two over again, with an hour of oak in your legs. That's what you did at the baseline. This time the read stops being a trial of its own and gets carried inside the third and the cold runs, which leaves the second slot empty, and the posted sheet says so in so many words: *Two, at the enrollee's placing.* Anything already on your record that you choose to show goes there, or nowhere." She chalked a short dash beside the figure two. "The fifth slot is new: the heaviest weight on the rail, your square brought in close, and a tray of chalk dust beside it so that the clerk can read your feet from the dust instead of from your account of them."
 
 "The weight I took on the plate."
 
@@ -144,7 +144,7 @@ For a moment the word meant nothing to him.
 
 Brom rubbed his fist. "You weren't reading me at the skin," he said slowly. "You were reading me further in. Like at the post, before the delegation came."
 
-The nearest chair-back took his grip.
+Cael took hold of the nearest chair-back.
 
 He understood it about twenty seconds before he could say it, and those were the worst twenty seconds of the evening. Then he said it, because things of that kind were exactly what this room existed for.
 
@@ -198,7 +198,7 @@ Karis was chalking *11/11* on the slate before Lira had finished. "That isn't ba
 
 Cael didn't move. The pieces were joining.
 
-"Weeks ago, in hall three, Brom found it," he said slowly. "I wrote it the wrong way up. I thought the danger was being busy, with all of me taken up at once. It isn't. Busy is the safest thing there is. It never goes while I'm working, not on a drill or at the rail or through four minutes of watching you two without blinking. Leave me standing with nothing asked of me, and it goes. An idle rope is the one that runs out through your fingers."
+"Eight days ago, in hall three, Brom found it," he said slowly. "I wrote it the wrong way up. I thought the danger was being busy, with all of me taken up at once. It isn't. Busy is the safest thing there is. It never goes while I'm working, not on a drill or at the rail or through four minutes of watching you two without blinking. Leave me standing with nothing asked of me, and it goes. An idle rope is the one that runs out through your fingers."
 
 "Then don't stand there with nothing being asked," said Lira.
 
@@ -228,7 +228,7 @@ Her eyes stayed on him, and when she spoke again her voice had dropped, and he u
 
 ---
 
-By the first hour after the last bell Brom had gone up, a tread at a time, with the ice in his hand. Lira was asleep sideways in the good chair with her cheek against its wing, which she would deny in the morning, and Karis was kneeling at the stove with the poker, banking it for the night. On the mantel the slate still had its six lines and two brackets and *ON THE NUMBER* across the foot.
+By the first hour after the last bell Brom had gone up, a tread at a time, with the ice in his hand and his right knuckles strapped to the second joint in Karis's clean linen; they had taken Lira's forearms all afternoon and the hall-rules book all evening, and at last they had split. Lira was asleep sideways in the good chair with her cheek against its wing, which she would deny in the morning, and Karis was kneeling at the stove with the poker, banking it for the night. On the mantel the slate still had its six lines and two brackets and *ON THE NUMBER* across the foot.
 
 Cael opened the grey folder then, because the wing's marks on his coursework were wing marks and might belong on Karis's slate.
 

@@ -66,7 +66,7 @@ The first step told Cael everything, because it went backward.
 
 Lira did not step backward. Three years of watching, and never once by choice. Backward was where you went when you had been beaten to a place, and she was never beaten to places. She went sideways, or through, or round, or she was simply already elsewhere.
 
-Every page he had on her said so, eleven pages of it, in a hundred different ways. The Wind did not make her fast. It made her early. She lived in the sliver of time other fighters spent deciding, and she spent it in tiny coins, and every coin bought her a square of floor that her opponent had not finished thinking about.
+Every page he had on her said so, nine pages of it, in a hundred different ways. The Wind did not make her fast. It made her early. She lived in the sliver of time other fighters spent deciding, and she spent it in tiny coins, and every coin bought her a square of floor that her opponent had not finished thinking about.
 
 Now she stepped back off her chalk on her own two feet, and waited.
 
@@ -142,7 +142,7 @@ That beat was the Wind's one fixed price, half a breath of being locked upright 
 
 By rights that was the end of it. It wasn't, for two reasons, and Cael saw both together.
 
-The first belonged to Brom: four minutes of iron and eleven seconds more had put his turn on the fifth count instead of the fourth, a hair late.
+The first belonged to Brom. The third exchange had held him on the iron for four minutes and eleven seconds, and the turn of the glass had not given that back; eleven seconds into the fourth, his turn came on the fifth count instead of the fourth, a hair late.
 
 The other was Lira's.
 

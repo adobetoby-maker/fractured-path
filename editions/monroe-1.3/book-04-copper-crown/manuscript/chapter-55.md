@@ -26,7 +26,7 @@ Gault wrote, and the last two came clean.
 
 "Eleven of twelve at the fourth weight," said Gault, "against seven of eight at the third in your first month." For a while his eyes went between the two columns. "Better. Not much better. As a term should be."
 
-Chest heaving in the chalk, Cael felt a thing his ledger had no column for: relief, so plain it was nearly comic. *On the number.* Weight four, clear eleven times in twelve, with his best instrument turned down to almost nothing: it was inside Karis's brackets, sitting on the floor of them as near as made no difference, which was exactly where it was supposed to sit.
+Chest heaving in the chalk, Cael felt a thing his ledger had no column for: relief, so plain it was nearly comic. *On the number.* Weight four, clear eleven times in twelve, with his best instrument turned down to almost nothing: it was inside Karis's brackets, a call above the floor of them, which was exactly where a term should put it.
 
 In the gap after, while the panel conferred, he chose the Mire instructor, who was easier than the clerk and more interesting. Rhythm: quick and impatient, the rhythm of a woman who did a thing and was done with it. Weight: forward, always forward, the shoulders inside her coat leaning toward the frame like a dog's toward a door it doesn't trust. Breath: short. Hands: in the pockets again, but the right one moving inside the cloth, working something over and over, a coin perhaps, or a key. Did it agree? It did. All of her was pointed at her apparatus, and it was the apparatus that worried her, not the boy; she had not forgotten a sticking notch from the first month. Throughout, the corner kept its place with hardly a thought from him.
 
@@ -64,7 +64,7 @@ Two sheets went down side by side under Gault's hands, the first month's plate a
 
 The pen went down on the table, which between trials it seldom did.
 
-"I'll say the useful thing about that before somebody else in this building says the other," he said, to the room at large. "A man who comes back after a single term better at every instrument I own is either a wonder or a man whose evaluator should go and look at his instruments, and I look at mine on Fourth-days, and they were looked at yesterday. This wing measures six things. Five of them have moved and one hasn't. That," said Gault, "is what a real semester looks like."
+"I'll say the useful thing about that before somebody else in this building says the other," he said, to the room at large. "A man who comes back after a single term better at every instrument I own is either a wonder or a man whose evaluator should go and look at his instruments, and I look at mine on Fourth-days, and they were looked at yesterday. So far this morning I've measured four things, and one of them hasn't moved. That is what a real semester looks like," said Gault.
 
 He picked the pen up again. "Anything to add, Enrollee?"
 
@@ -88,19 +88,19 @@ Before she hung the weight, the Mire instructor tested the release. She worked i
 
 The drum went round.
 
-Afterward Cael could put the next second in order, a piece at a time, and that night he did, on paper. There were four pieces.
+Afterward Cael could put the next second in order, a piece at a time, and that night he did, on paper. There were four pieces, and the order of them turned out to matter.
 
-The first was a sound. The pawl went, and under it, a hair before it should have, came another: a small dry catch and drag like a key that will not quite turn in a cold lock, and then a release. Something had snagged on the way through, the second notch, and held, and given all at once, from a rack higher than the clerk had chosen.
+The first was his forearms. The weight was already moving before anything in the room had made a sound. Even on its stub the read still did the one thing it had ever done, which was to lay weight and direction on his skin a fraction before they reached anything else, and what it laid there now was all wrong: too early, too heavy, too much of it from too high, into a square with no room to spare.
 
-The second was his forearms. Even on its stub the read still did the one thing it had ever done, which was to lay weight and direction on his skin a fraction before they reached anything else. What it laid there now was all wrong: too early, too heavy, too much of it from too high, into a square with no room to spare.
+The second was the answer, which was already in his legs. He had given it a score of times that morning and it had been clean every time, the burst out and sideways and gone, and his hips had begun to drop for it before he had thought anything at all.
 
-The third was the answer, which was already in his legs. He had given it eleven times that morning and it had been clean every time, the burst out and sideways and gone, and his hips had begun to drop for it before he had thought anything at all.
-
-The fourth was a pair of shoes. They were the clerk's, brown, at the far end of the chalk tray, a pace and a half from where a burst would set him down; and a burst did not set you down anywhere you could steer. It ended in the landing beat, half a breath of being bolted to the spot, so that whatever he came down on he would come down on, and stay on, unable to turn aside, until the beat let go of him.
+The third was a pair of shoes. They were the clerk's, brown, at the far end of the chalk tray, a pace and a half from where a burst would set him down; and a burst did not set you down anywhere you could steer. It ended in the landing beat, half a breath of being bolted to the spot, so that whatever he came down on he would come down on, and stay on, unable to turn aside, until the beat let go of him.
 
 He did not finish the burst.
 
 He had begun it, because he could not have helped beginning it: the hips had gone and the held breath had started and the door the Wind came through was already open. He shut it. Halfway, with the breath half paid, he shut it. Three years of practice hours had never once let him do that, and he did it badly now. He went out of the square perhaps a quarter of the way he had gone all morning, crabwise, short of the tray, and the rest of the burst he simply refused. All the force that should have carried him across the oak went down through his leading hip instead, at once, from the crest of the bone to the inside of the knee, and stopped there.
+
+Only then came the fourth piece, which was a sound. It reached him after he had already shut the door: a small dry catch and drag, like a key that will not quite turn in a cold lock, and then the late clack of a release. The second notch had snagged on the way through and given all at once, from a rack higher than the clerk had chosen, and it had let the weight go before it made its proper noise.
 
 Behind his shoulder the weight struck the boards, and the whole floor jumped under his feet.
 
@@ -156,7 +156,7 @@ After that, nothing. The man in grey had gone on looking round the room at his o
 
 Sitting there with his hip roaring, Cael understood. Nothing that year chilled him more.
 
-You look twice at a thing you did not expect. That isn't manners or temper or training; it's what eyes are for. The first look tells you that something has happened and the second tells you what, and seven people in that room had needed the second look. The fourth chair had not. One look had given him the whole of what happened on the oak. He had weighed it on the spot and filed it, and Cael held nothing further that another look could fetch.
+You look twice at a thing you did not expect. That isn't manners or temper or training; it's what eyes are for. The first look tells you that something has happened and the second tells you what, and six people in that room had needed the second look. The fourth chair had not. One look had given him the whole of what happened on the oak. He had weighed it on the spot and filed it, and Cael held nothing further that another look could fetch.
 
 At the end of the row, while the porters were still tightening the reserve frame's last bolt, the man reached into his coat and took out the small notebook from the north tier, opened it on his knee, and wrote something short. The book shut and vanished into the grey coat, and Cael's tally gave it a mark of its own. *One.*
 
@@ -232,23 +232,23 @@ She shut her eyes again, briefly. "Say all of it."
 
 She nodded once, as though a sum had come out, and pushed herself off the post onto the stick.
 
-They went back across the quadrangle at the slowest pace the bluff had ever seen, two people with one good leg between them, and took the residence stair a tread at a time. Brom was waiting on the landing with a bag of ice already in his strapped hand, and he held it out to Cael without a word.
+They went back across the quadrangle at the slowest pace the bluff had ever seen, two people with two good legs between them, one each, and took the residence stair a tread at a time. Brom was waiting on the landing with a bag of ice already in his strapped hand, and he held it out to Cael without a word.
 
-They arranged themselves in the common room like the survivors of a coach accident. Lira had the good chair and the cushion. Brom had the floor by the stove, with his iced knee out straight and his strapped hand resting on top of it. Cael took the settle and lay along it with the ice on his hip and his right arm folded on his chest, because the shoulder did not like it anywhere else. Karis, who was the only one of them still in one piece, looked round at the three of them for a long moment.
-
-"A champion, a finalist and a renewed enrollee," she said. "Between you, you have four working legs and three working arms. I'm going to fetch supper, because nobody else in this room can carry a tray."
-
-"I can carry a tray," said Brom.
-
-"You can't carry a tune," said Lira, with her eyes shut, and Brom considered this, and decided it was fair, and stayed where he was.
-
-In the common room Karis sat with a book on her knee, open at the page it had shown since the second bell. She shut it.
+Karis was in the common room with a book open on her knee at the page it had shown since the second bell. She shut it as they came in.
 
 "Well?"
 
 He told her, and at *renewed* her eyes closed for a moment, which from Karis was as good as a shout.
 
-"And the column?" she said, opening them. "You said you'd tell me."
+They arranged themselves in the common room like the survivors of a coach accident. Lira had the good chair and the cushion. Brom had the floor by the stove, with his iced knee out straight and his strapped hand resting on top of it. Cael took the settle and lay along it with the ice on his hip and his right arm folded on his chest, because the shoulder did not like it anywhere else. Karis, who was the only one of them still in one piece, looked round at the three of them for a long moment.
+
+"A champion, a finalist and a renewed enrollee," she said, and counted on her fingers. "Between the three of you, three working legs and four working arms. I'll fetch supper presently, because nobody else in this room can carry a tray."
+
+"I can carry a tray," said Brom.
+
+"You can't carry a tune," said Lira, with her eyes shut, and Brom considered this, and decided it was fair, and stayed where he was.
+
+Karis turned to Cael on the settle. "And the glass? The thread in the straw. You said you'd tell me what it did."
 
 So he told her about the copper pot and the glass straw and the four moments, and then he told her the word he had found for it, kneeling on the oak with his palm on the copper.
 
@@ -276,7 +276,7 @@ A boy from the registrar's office came up the stair before supper with a half-sh
 
 *Answer, on the twentieth of Reaping: yes.*
 
-*Thirty-five days since the stair. It wakes when I do. Three hours under the Compact's four best chairs, and it never flickered. Cost: one interval and one headache. The Pressure stayed in my arm. Gault wrote "no change" about the plate and then stood up for me over it, which I didn't earn and can't put right.*
+*Thirty-five days since the stair. It wakes when I do. Three hours under the Compact's four best chairs, and it never went. Cost: one interval and one headache. The Pressure stayed in my arm. Gault wrote "no change" about the plate and then stood up for me over it, which I didn't earn and can't put right.*
 
 *I've been keeping things back since before I had a word for it. Today the keeping went under instruments for three hours, and it held. I'm going to stop calling it a habit.*
 
@@ -284,7 +284,7 @@ A boy from the registrar's office came up the stair before supper with a half-sh
 
 *He didn't look twice.*
 
-*Seven people needed a second look at me. He needed one. One look gave him the lot. He weighed it sitting down, and the rail had nothing more for him.*
+*Six people needed a second look at me. He needed one. One look gave him the lot. He weighed it sitting down, and the rail had nothing more for him.*
 
 *Net: I've known rooms of people who wished me hurt, and many more rooms of people who wished only to write me up and shut the book. Today, for once, the man across the room had finished with me before I'd even climbed down off the rail. Safest thing that's ever happened to me, or the reverse: I can't yet tell.*
 

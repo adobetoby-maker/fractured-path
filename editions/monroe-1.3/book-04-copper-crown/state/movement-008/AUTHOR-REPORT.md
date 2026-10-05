@@ -281,3 +281,93 @@ ch53 and ch56 are dialogue-dense (the rehearsal and the prep and interview), so 
 10. **Small new canon** is listed under New canon: the Mire instructor "not a magister", Bracken measuring the room, Lira not crying until outside at Fenmark, Fiske clapping from the tier, and Ephram's nod instead of his source remark.
 11. **Brom says "Third one someday" twice:** on the floor (protected) and again at calibration night, "so it's written down".
 12. **Unnamed by design:** the adjudicating instructor, the safety seats, the duty practitioner, Gault's clerk ("a thin man of about thirty"), Bracken's inky-knuckled clerk, both counsels, the porters.
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place and by reading, against `REPAIR-BRIEF.md`. Each change was written by hand and applied as an exact before→after string that failed on any miss. Only ch51–56 and this report were edited. The source chapters were not reopened, and no git commands were run.
+
+### Clock decision (P2.7)
+
+**Brom's clock runs per exchange.** It counts four minutes, near enough, of hard contact inside a single exchange. The turn of the glass between exchanges gives some of it back, never all, so it restarts a little shorter each time. Lira's three bursts never come back.
+
+- ch51: "they did not run the same way". After exchange 1: "His clock had started. It would start again with every exchange, a little shorter each time."
+- ch52, exchange 3: he slows at four minutes into that exchange.
+- ch52, exchange 4: "The third exchange had held him on the iron for four minutes and eleven seconds, and the turn of the glass had not given that back; eleven seconds into the fourth…"
+
+### Elevens changed (P2.10)
+
+Only purely incidental counts were changed:
+
+| Chapter | Before | After |
+|---|---|---|
+| ch51 | seam-hunters "eleven of them" | "nine of them" |
+| ch52 | "eleven pages" on Lira | "nine pages" |
+| ch55 | the burst given "eleven times that morning" (it was eight board runs plus twelve combined) | "a score of times" |
+| ch56 | "Three mentions in eleven years of print" | "ten years and more of print" |
+
+These were kept as canon, protected or packet counts:
+- Lira's eleven bouts;
+- "eleven of twelve" and the baseline's "eleven calls in twelve";
+- the eleven drifts and Lira's eleven marks;
+- "eleven questions" and "subsection eleven";
+- Gault's "in eleven years";
+- Ilsev's eleven-minute referral;
+- carrel eleven;
+- Karis's eleven weeks;
+- "Lira has done it eleven times";
+- the eleven-second fourth exchange and its 4:11;
+- the eleven minutes for the reserve frame.
+
+### Changelist by chapter
+
+- **ch51**
+  - Brom's clock made per-exchange (above).
+  - The second "Two gone" is attributed: "Two gone," Cael said.
+  - The seam-hunters' eleven became nine.
+- **ch52**
+  - Exchange 4's clock sentence restated per-exchange.
+  - "nine pages".
+- **ch53**
+  - Slot two is now explicit on the slate. The posted sheet reads *Two, at the enrollee's placing*, and Karis chalks a dash beside the figure two, so Gault's "the six stand as posted otherwise" and the Ember placed second now count to six on the page.
+  - Brom's "Third one someday" is now plainly an echo: "What I said on the floor still stands… Third one someday." / "You said it once. Once was plenty." The eighth-bell floor line in ch52 stands as the original.
+  - "Weeks ago" became "Eight days ago" (the hall-three slip, d175 → d183).
+  - "Cael took hold of the nearest chair-back."
+  - Brom's strapped knuckles now have their cause: Karis straps them at the night's end, after Lira's forearms all afternoon and the hall-rules book all evening.
+- **ch54**
+  - The vessel line is rejoined whole: "That is a better instrument reading than the Greyvane exhibit supports," he said.
+  - He said, "Magister. I need an interval."
+- **ch55**
+  - **Homecoming merged into one scene.**
+    - Karis is in the common room as they arrive; "Well?"; *renewed* is heard once.
+    - Then the coach-accident tableau. The joke is corrected and counted on her fingers: three working legs and four working arms.
+    - Then "And the glass? The thread in the straw. You said you'd tell me what it did."
+    - The third word goes under *a spark* and *a letting-go*, with the line drawn under all three and "That's the last one. I can feel that it is."
+    - The second opening is cut.
+    - The walk home: "two people with two good legs between them, one each".
+  - **Fault second reordered** so that the correction precedes the audible release. The four pieces are now forearms (the weight moving before any sound), the answer in his legs, the clerk's shoes, and the burst shut. The sound (the catch, the drag and the late clack) comes "only then", "after he had already shut the door". The M9 line "Correction preceded the audible release" now holds.
+  - Gault's line at the plate: "So far this morning I've measured four things, and one of them hasn't moved. That is what a real semester looks like," said Gault. It is rejoined whole, and the count is true at that point in the sitting.
+  - 11/12 now sits "a call above the floor of them".
+  - The glance tally says six people, in the narration and in the Log.
+  - Log: "it never went" (two drifts are logged).
+  - "a score of times".
+- **ch56**
+  - Rejoined whole: "…a cage built for people who did not exist." and Gault said, "That is the most competent half-hour I have sat through in eleven years, and I did not say one word in it."
+  - "ten years and more of print".
+
+### Before / after (formula_metrics.py, ch51–56)
+
+| Measure | Before r1 | After r1 | Range / aim |
+|---|---|---|---|
+| Words (formula / wc) | 30,404 / 30,469 | 30,607 / 30,672 | 29,500–31,500 |
+| Sentence mean | 13.21 | 13.26 | 13–15.5 |
+| ≥40-word share | 3.2% | 3.4% | 2.5–4.5% (≤4.0) |
+| ≤5-word share | 27.3% | 27.3% | ≤ ~34% |
+| Paragraph median | 25 | 25 | ≤ ~30 |
+| Words per scene | 894 | 900 | 850–1,050 |
+| FK grade | 4.25 | 4.27 | 3.5–6 |
+
+### Checks after r1
+
+- `ed.sh overlap … 8`: **0 unprotected**. The protected count is 13; the five rejoined lines now match `protected-patterns.txt`.
+- `ed.sh gates … 8`: 0 / 0 / 0 on all six chapters.
+- `sweep_probe.sh … 8 8`: **skeleton 2%, close 7%** on 1,356 sentences. By chapter: ch51 0/4, ch52 2/9, ch53 1/3, ch54 1/8, ch55 3/11, ch56 3/7.

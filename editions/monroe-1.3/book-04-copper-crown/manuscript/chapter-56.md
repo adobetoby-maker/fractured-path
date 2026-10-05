@@ -54,7 +54,7 @@ At last a laugh got out of Cael; nothing else was left to try. "I can't. There's
 
 "Then that's your page," said Lira. "Write it down. *Nothing there to get hold of.*"
 
-Karis had the library's list open beside her bread, a single sheet in her own hand that she had brought up from carrel eleven at the first bell. "Three mentions in eleven years of print," she said, running her finger down it: "a dedication, a dinner for a retiring magistrate, and a swearing-in. He was at all three, and said nothing at any of them that anybody thought worth writing down." She turned it face down. "I can't help you either. I've never been asked to read a man who leaves no paper."
+Karis had the library's list open beside her bread, a single sheet in her own hand that she had brought up from carrel eleven at the first bell. "Three mentions in ten years and more of print," she said, running her finger down it: "a dedication, a dinner for a retiring magistrate, and a swearing-in. He was at all three, and said nothing at any of them that anybody thought worth writing down." She turned it face down. "I can't help you either. I've never been asked to read a man who leaves no paper."
 
 "Then I won't read him." Cael pushed his bowl away. "I'll settle what I'm going to be in there and be it, whatever comes across the table."
 
@@ -246,7 +246,7 @@ The eighth was about the ladder.
 
 "Your two friends fought on the house's ladder this season, and the registry hasn't looked at either of their certificates in two years. Did the brackets measure them?"
 
-"No." Cael did not soften it. "The ladder sorts people by their paper. It was built for practitioners who'd be exactly what their certificates say on the morning they're seeded, and stay so till the season ends. My friends spent the whole year in a cage built for people," he said, "who did not exist. One of them took the whole cage outright. That's how you know it was one."
+"No." Cael did not soften it. "The ladder sorts people by their paper. It was built for practitioners who'd be exactly what their certificates say on the morning they're seeded, and stay so till the season ends. My friends spent the whole year in a cage built for people who did not exist. One of them took the whole cage outright. That's how you know it was one."
 
 The man wrote nothing. The table in front of him had been bare all along.
 
@@ -304,6 +304,6 @@ River light fell past the empty chair into the little whitewashed room, and Cael
 
 At last Gault pulled the grey folder over and lifted its cover. His eyes rested on nothing in particular inside. The cover went down again.
 
-"That is the most competent half-hour," said Gault, "that I have sat through in eleven years. I did not," he said, "say one word in it."
+Gault said, "That is the most competent half-hour I have sat through in eleven years, and I did not say one word in it."
 
 Cael went down the stair some while after with one sentence in him that he did not write down yet, because he wanted to carry it for a time first and see whether it kept its shape. Every system that had ever had his name in its books had been muddled about him, and so it had asked, and the asking was where he had always found room to answer. This one had not asked. Muddled, it was not.

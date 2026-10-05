@@ -214,7 +214,7 @@ Four times he chose the instant, with the clerk calling the gaps from the pendul
 
 That went down too. Gault's voice kept its level for one more line.
 
-"That is a better instrument reading," he said, "than the Greyvane exhibit supports. The exhibit calls it marginal."
+"That is a better instrument reading than the Greyvane exhibit supports," he said. "The exhibit calls it marginal."
 
 "The exhibit's from my first weeks with it, Magister. Nearly a year back."
 
@@ -244,7 +244,7 @@ The room's weather changed. He had no better way of putting it. Eight people's w
 
 He came up out of the answer faster than he had ever come up out of anything.
 
-"Magister," he said. "I need an interval."
+He said, "Magister. I need an interval."
 
 Gault's pen stopped. "Why?"
 

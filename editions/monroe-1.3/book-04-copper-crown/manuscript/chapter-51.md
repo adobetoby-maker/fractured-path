@@ -256,13 +256,13 @@ That was the bout entire. He had seen it in week three of the season, doing the 
 
 Fiske had nearly been that somebody. Nobody else had come close.
 
-There were two clocks on the oak, and both had started the moment the two of them walked out.
+There were two clocks on the oak, and they did not run the same way.
 
-The first was Brom's, and it ran four minutes, near enough. Brom had told him so one cold Greyvane winter, and Cael had written it down then and there, and every bout since had kept to it.
+The first was Brom's: four minutes, near enough, of hard contact inside a single exchange. The turn of the glass between exchanges gave some of it back, and never all. Brom had told him so one cold Greyvane winter, and Cael had written it down then and there, and every bout since had kept to it.
 
 Four minutes didn't break the iron, nothing so kind; it simply got dear. Keeping the skin hard began to take more out of him with every blow, and everything else he did had to stand in line behind it and wait to be paid for.
 
-The second was Lira's: three bursts, on that leg, today.
+The second was Lira's, and nothing gave any of it back: three bursts, on that leg, today.
 
 There was a fourth in her, there always was, and she had told Brom about it herself years ago on a wet bench at Ardenmere: the fourth was bought on credit, paid back out of the next day's legs. Today the hip had no tomorrow to borrow from.
 
@@ -274,7 +274,7 @@ She turned the glass over, and the sand began to run.
 
 For most of two minutes Lira asked Brom one question, in three different voices.
 
-The question was the seam, whose address was common knowledge; eleven of them had gone looking for it this season.
+The question was the seam, whose address was common knowledge; nine of them had gone looking for it this season.
 
 When Brom took a blow on hardened skin, he took it superbly, and then there was a pause, short as a hiccup, while the taking finished and before the answer began. For that sliver of time there was nobody home behind the iron.
 
@@ -322,7 +322,7 @@ Lira did not care for much in the way of luxuries, but she had one, and she had 
 
 Brom, at the far chalk, worked one shoulder round in its socket. No grin came back; it never did. Once, his fists closed and opened.
 
-His four minutes had begun.
+His clock had started. It would start again with every exchange, a little shorter each time.
 
 ---
 
@@ -362,7 +362,7 @@ Karis had gone very upright on the stone beside him.
 
 "Two gone," she said. Her voice had gone small. Cael knew that voice. Karis used it when fear had arrived and she had chosen to have a job instead.
 
-"Two gone."
+"Two gone," Cael said.
 
 "How much does she have?"
 

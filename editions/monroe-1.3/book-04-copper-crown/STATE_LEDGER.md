@@ -808,3 +808,107 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 
 **Movement 7 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — three applied (ch45 doubled 'Karis had ruled'; ch49 the form's path to the tray; the ch49 Cael beat's breath-count clause). All brief items resolved; overlap 0/9, gates 0, probe 1%/11%; mean 13.88, ≥40w 3.5%, 933 w/scene.
+
+## After Movement 8 (chapters 51–56; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CALENDAR: the Copper final the nineteenth of Reaping (d183); the semester evaluation the twentieth (d184); the interview the twenty-first (d185). Lira's hip ten days old at the final. No English weekdays; no month order.
+- THE FINAL: Lira over Brom, four exchanges, more touches: exchange one even on her guard, then 0–1, 1–1, 2–1; she takes it in the fourth. Brom's hardening clock is PER EXCHANGE (about four minutes of hard contact within one exchange; the turn of the glass gives some back, never all). LIRA'S RECORD: eleven bouts unbeaten, none lost (nine through session fifteen + the semifinal + the final) — Bracken reads ten from the sheet certified that morning, writes the final at its foot in public and reads 'eleven'. Fiske applauds first, from the north tier. Gault files for advancement with Ilsev witnessing (Fiske's 'one signature that isn't mine' paid). 'Third one someday' — the eighth-bell floor line is the original; on calibration night Brom echoes it ('What I said on the floor still stands…') and Lira: 'You said it once. Once was plenty.'
+- CALIBRATION NIGHT: Karis's slate posts six trials, slot two 'at the enrollee's placing' (where Cael asks for Ember); frame weights 1–5; the baseline combined trial at weight 3; trial 5 new (heaviest weight, the square brought close, a chalk-dust tray). Karis straps Brom's knuckles at the end of the night.
+- THE EVALUATION (C10 mirror of the baseline; Ember second): displacement eight times, ceiling restated at six; the thermal vessel, four instants, 'a better instrument reading than the Greyvane exhibit supports' — 'DECISION POINT' used here, once (Ember's third rewording, after 'a spark' and 'a letting-go'); the drift at ninety minutes ('Magister. I need an interval.'); the combined trial eleven of twelve, 'a call above the floor'; the plate FLAT, Pressure withheld (C9); the fault second — Cael's CORRECTION PRECEDED THE AUDIBLE RELEASE (protected M9 notebook line depends on it). Gault: 'So far this morning I've measured four things, and one of them hasn't moved.' Renewed. Two drifts logged that day; the Log: 'it never went'. Shadow zero deployment. The glance tally: six.
+- THE INTERVIEW: subsection eleven; the twelve-by-fourteen room (Bracken measured it; his clerk keeps the door shut); eleven questions in about twenty-nine minutes; the twelfth not asked; 'a cage built for people who did not exist'; Gault's 'most competent half-hour… in eleven years'. Vastin no age, no warning; his notebook lines unseen (until M9).
+- Incidental elevens changed (seam-hunters nine; Lira's notebook pages nine; 'a score of times'; 'ten years and more'); canon/protected elevens kept. Lira names Cael in writing to hear the filing; the Mire instructor 'not a magister'. Five packet lines rejoined (pattern-protected).
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Weekday anchor: d176 = Fourth-day, the twelfth; seven-day weeks. Only Reaping dates are named. No English weekday names and no "weekend"; the shoulder aches "to the week's end". No month order and no Sowing→Reaping count is stated (#35).
+
+| Day | Weekday | Date | Event |
+|---|---|---|---|
+| d173 | First-day | the ninth | (M6) Lira–Fiske semifinal, 2–1; the hip |
+| **d183** | **Fourth-day** | **the nineteenth** | Ledger day 21, holding from waking. Tiers full from the back by the second bell; Bracken's sealed records under the glass. Delegation in the north tier's second row; Vastin seated, notebook shut. **The Copper final** at the fourth bell, Lira 2–1 in the fourth exchange. The ceremony; Fiske claps first. **Gault files** for advancement at the seventh bell, Ilsev witnessing, Cael as Lira's named hearer. The floor at the eighth bell; Vastin writes one line. **Calibration night** after the eighth bell (the stair took about twenty minutes). **The slip** burned in the first hour after the last bell |
+| **d184** | **Fifth-day** | **the twentieth** | Stake set at the fourth hour; ledger day 22, thirty-five days since the stair. Brom on the stair; Lira at the wing gate. **Semester evaluation**: about three hours; the drift at about ninety minutes; the interval; the fault and the void; eleven minutes; the thin second; **renewed**; notebook out twice. The Mire instructor on the notch. Home; Bracken's half-sheet before supper. The Log |
+| **d185** | **Sixth-day** | **the twenty-first** | Bracken at the counter at the first bell; the locked room; prep at breakfast. **The interview** at the fourth bell in the east room, 12 × 14 ft, twenty-nine minutes |
+| d186 | Seventh-day | the twenty-second | Cael's shoulder easing ("to the week's end") |
+| d187 | First-day | the twenty-third | Lira's four days off the hip end; Cael's three days for the hip end. Departure (M9) |
+
+**Lira's record at the ceremony (C6).** Notation: bouts unbeaten / bouts lost.
+- 1: the opening-session bout, drawn by lot, won 3–0 against Nyle (counts, moves nobody).
+- 2–6: the climbs at sessions 4, 6, 7, 9 (Mire) and 10, to the second line ("six and nothing", ch25).
+- 7–8: the defences at session 11 (Shield fifth-year) and session 13 (Current fourth-year).
+- 9: the top-line challenge against Fiske at session 15 ("Nine and nothing", ch29).
+- No Lira bout is on the page between session 15 and the semifinal.
+- 10: the top-line semifinal against Fiske on the ninth of Reaping, 2–1 (ch42).
+- 11: the final against Brom on the nineteenth, 2–1.
+
+**9 + 1 + 1 = 11.** Bracken reads the sheet as certified at the first bell, "Ten bouts unbeaten. None lost." Then he writes the final at its foot in public and reads "Eleven bouts unbeaten. None lost." The record stays certified before the result, and the true count is read.
+
+**The final's scoring.**
+- Exchange 1 was called *even*: Brom's forearm landed on her set guard, which under the ladder rule is not clean.
+- Exchange 2 went to Iron Skin: both touched, and the table judged his the cleaner.
+- Exchange 3 went to Wind, 4:11.
+- Exchange 4 went to Wind, eleven seconds.
+- Lira wins two touches to one.
+
+**Bodies.**
+- **Lira:** deep strain along the crest of the hip, nothing torn; four days off it, ice tonight, heat in the morning, a stick. She held three bursts and paid the fourth on the wound. Her forearms and shoulders took Brom's guard-strikes in exchange 3.
+- **Brom:** knee iced (her palm to the outside of the knee), knuckles of the right hand strapped (a long afternoon of her forearms), the shoulder sore.
+- **Cael:** the quarter-burst's load went into the leading hip, crest to inner knee, for three days. The plate left the right shoulder aching to the week's end, with the forearm numb on the day. A headache came after the ninety-minute drift.
+
+**Fragments and capabilities.** Six confirmed plus the Tide anomaly (not mentioned); the record keeps five.
+- **Wind:** the ceiling is restated at **six** free on sprung oak (the seventh billed to tomorrow, the eighth to the day after); the landing beat is unshortened. The **aborted burst** was shut mid-payment once and cannot be repeated ("one point isn't a line"). It is a Wind event, not a fragment and not a technique.
+- **Iron read:** on its stub all evaluation day (weight four, 11/12). It came open in the yard on the 19th when he let it up; Karis measured run three of the rehearsal as "a five".
+- **Ember:** shown on the thermal vessel, four instants, Gault's reading. "Decision point" appears once (ch54) as Ember's third word; Karis wrote it in the grey notebook under "a spark" and "a letting-go" (the phrase is not repeated there).
+- **Pressure-adjacent:** withheld at the plate (C9); the flat line is filed under the plate. It sits on the Ardenmere circuit record (Vell's copy), not on the wing's.
+- **Compression:** unused and unmentioned on the day.
+- **Shadow-adjacent:** zero deployment, never a flicker.
+  - 19th: held from waking; eleven rehearsal drifts by Lira's count (four caught by Cael), all in gaps.
+  - 20th: two drifts. The first came at about ninety minutes inside an honest answer, and the interval was asked for. The second was the thin second after the fault, unseen.
+  - Lira's mechanism, now in use: the gaze on one person in every gap. The gaze and the hiding are exclusive.
+
+**Knowledge.**
+- The slip: Cael has it (learned, burned); Karis saw a slip burned and asked nothing. Lira and Brom do not know. Nobody named its writer. Seln is not named anywhere in the movement and never learns.
+- The renewal and the note are public in the wing's book. The delegation saw two capabilities shown again plus the Ember.
+- The advancement filing for Lira is in Gault's hands with Ilsev's witness line, Bracken's two sheets pinned, and the adjudicating instructor's account countersigned by both safety seats.
+- Vastin's notebook: one line at the final, out once during the eleven minutes, once at the end. Cael has a tally of "two" for the evaluation. Content unseen (M9).
+
+**Documents and objects.**
+- Bracken's two certified season records: Lira's with the final written at its foot; Brom's sealed and unread.
+- The advancement application (registry long form, blue rule), witnessed.
+- Lira's three-line nomination of Cael, in capitals, on bandage paper.
+- The wing's note (protected lines, my middle); the Mire instructor's four lines on the second notch; the old frame to be stripped; the reserve frame in use.
+- The slate on the mantel: six lines, two brackets, *ON THE NUMBER*.
+- Karis's grey notebook: the third word; the minute *Refusal in the open. Reason: good. Also convenient.*
+- Bracken's half-sheet: *Records hall, the counter, at the first bell tomorrow. Bring nothing. — B.*
+- The Copper Crown on the common-room table.
+- The batons, returned and untied.
+
+**Watchers.** Two and two at the ferry landing, changing on the bell, seen at dawn on the 20th, unchanged.
+
+## New canon minted (flag where marked)
+
+- **The final's scoring (flag):** exchange 1 called *even* on the guard, then 0–1, 1–1, 2–1. This makes "Lira over Brom in the fourth exchange" fit the final's terms (more touches after four).
+- **Bracken's sealed records (flag):** laid under the glass's stand before the yard filled; the final written at the foot of Lira's in public at the ceremony; Brom's left sealed and unread.
+- **Lira's written nomination (flag):** Lira named Cael, in writing, to hear the filing in her place. This explains why he stands at the back of Gault's office.
+- **The evaluation's posted order (flag, C10):**
+  - Trial 1: board.
+  - Trial 2: Ember (inserted by the enrollee's choice).
+  - Trial 3: combined, with the read called aloud, at weight four.
+  - Trial 4: plate.
+  - Trial 5: new, the heaviest weight with the square brought in to a pace and a half and a chalk-dust tray read standing.
+  - Trial 6: cold board and read.
+  - The read is folded into 3 and 6, as allowed.
+- **Weights (flag):** the wing numbers its frame weights one to five; the baseline combined trial was at weight three, 7/8 (ch13 left it unstated).
+- **Karis's band:** five or six free on the board; weight four at five in six, or weight three clean. The arithmetic was checked by Bracken without his being told what it was for.
+- **The thermal vessel:** a squat copper pot on three legs with a calibrated glass straw; Ember and Ash cohorts sit it quarterly.
+- **The Mire instructor (flag, minor):** the notch was serviced after the first month and has been checked clean at every sitting since; she says she is "not a magister".
+- **The glance tally** reappears as Cael's counting instrument (M3's stair tally).
+- **The interview's questions 7–9:** the provision's cost to the house; the ladder's brackets; whether the officer of record favours him.
+- **Bracken (flag, minor):** measured the east room himself; his written objection ran to both sides of a sheet; his inky-knuckled clerk kept the door shut to all parties before the bell.
+- **Rehearsal texture:** the furniture stands in for the wing; Lira's eleven thumbnail marks in the chair's wax; the hall-rules book used as the plate.
+- **Lira (flag, minor):** at her Kindling at Fenmark she "had not cried until she was outside". Fourteen is the source's age.
+- **Fiske** claps from the north tier's front row (Lira told her to sit north, M6), not from the floor rail.
+- **Ephram** nods to Cael on the tier (the source's stair remark is not used).
+- **Havel** asked the counsel at breakfast whether attending was a matter for the schedule ("It's a fight").
+
