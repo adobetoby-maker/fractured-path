@@ -797,3 +797,131 @@ Open threads now:
 - Ch23–29, 36,457 words. Mean 13.63, ≥40w 4.3%, 866 w/scene; overlap 0 (7 protected); probe 1% / 12%; gates 0.
 - Verified: spoken "Shattered" follows the edition convention; no reserved disclosure in the ch29 comparison; the bout fails BY the M3 mechanics.
 - Authorship: claude-opus-5-5. Published to the PWA: Book 2 edition ch1–29, "in progress".
+
+## After Movement 5 (chapters 30–36; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CONSENT BOUNDARY (canon from ch32 on): what a person gives off to a room — that they are there, where, whether they move — belongs to the room; going INTO one person on purpose to learn what's in them belongs to that person and needs their leave. Brom states it at supper (ch32); Cael logs it that night and names the supper read wrong. ch33: Cael goes into the old man at the dray unasked, catches himself, says so ("I just went into him. The old man. I didn't ask."); Brom owns setting the test; Carrying entry *The old man at the dray. Did. Didn't ask. Stopped.*; the kindled/working tests are redone only with people who said yes (Lira, the dock partner, the heavyset man "If it's for the book", the girl with sacking in her hair). ch34 sweeps take only what a room gives off; the watcher's hardness felt "like a stone under a blanket" without going in; at the market Cael chooses not to go in. ch35 vigil planned under the same rule.
+- ch31 NOTEBOOK: every fighter's name (ledgered fighters included) comes out of the grey book as a private habit-mark only Cael has seen (Keth = *the finger*, the Shield = *the drop*); the key stays in his head; no fact destroyed (records belong partly to the people in them). ch36 uses *the finger* for Keth's page.
+- VIGIL COST: the day after, the read won't open at all; Cael paces his range at FOURTEEN paces (six in the first week) — the movement's range benchmark.
+- ch35 Coss: no re-quoted query / Section Twelve recap / re-quoted reply; record window goes shelved file → the named line → index entry → the date earlier than the file.
+- ch30 opens on Cael's name asked for three times and his unease at being watched; Keth's empty square before the (condensed) season money.
+- Vell (ch36): "I had a year of that. Not even two." (was "a few years"); her ages unchanged.
+- Accepted flags: sub-layer line in a registry marker index dated before the file; Coss signs his upward note + first log entry; Havel's quarterly review sheet; [UNBOUND] copied small, untold, one unlabelled stroke in Carrying, Vell knows "perhaps half" the margin words (full reading still owed); the pulse as Cael's own "knock" ~1 in 3 (M6 must earn ~half); Keth seed without "declaration"; Lira provisional "One of two"; the dull-coat watcher unlinked.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** About seven weeks; cold, frost, the trough iced. No months are named.
+- The season posts on the Monday after the M4 teaching day. The *Carrying* line is shown to Lira that Tuesday.
+- Range by stillness, that week (six paces on the fourth morning).
+- The Shield, in the season's first fortnight. Three days later: the flood, the dispute and Dace, all one morning. The salt-end letter and the correction come the same week.
+- The dinner on a Thursday; the first footwork dawn on the Friday.
+- The walking channel in the season's second week.
+- Lira's question on a Wednesday; her confirming bout on the Thursday main-floor card.
+- Havel's quarterly review on a Monday (the reply that afternoon). Coss's note goes in the pouch on the Wednesday. **His month of silence runs past the movement's end.**
+- The false positive (the sweep's fourth night).
+- Watcher sightings:
+  1. the back wall, eight nights later;
+  2. the market, ten days after that;
+  3. the hired yard, a week after that.
+  Brom is told the next morning; the read-back is on the next main-floor night.
+- The pulse: about a week of mornings after that.
+- The archives, in the week the cards begin to thin.
+- The Keth reread, a week later.
+
+**Bodies.**
+- Cael:
+  - knees recovered (stairs only, early in the movement);
+  - forearm struck by the Shield's rim;
+  - a thin hip line from the one read burst;
+  - headache bands after every opening (a day lost to the market minute; the read-back's full ring; stacked bands after twenty pulses).
+- Lira: her own staff into her shoulder in the Stone bout, dark by evening; otherwise sound.
+- Others:
+  - Orvet's Shield: ribs, both knees down.
+  - The Stone: a held-back tap on the neck.
+  - Brom: sound.
+
+**Fragments and progression.**
+- **Three fragments**, all partial. **No notice** this movement.
+- **Iron-adjacent, as logged** (only new lines were written; see the quotable list below):
+  - range is bought with stillness, and reaching shortens it (six paces sitting; the far west side of the main floor at full stillness during the read-back);
+  - crowds give one weight with nobody in it: *cannot yet count past one*;
+  - quiet and seated, eight breaths on Brom at an arm and a half; it opened easily;
+  - walking gives yes/no only, thirty paces once (a dog reads as nothing, with a question mark);
+  - kindled or not, and working or resting, close and standing still;
+  - the false positive, a sleeper's idle;
+  - the watcher's texture: level, held on purpose, with a hardness in reserve, "a cousin" to Brom's;
+  - **the pulse**: one knock, *there?*; survives motion for the length of the knock; a forearm good, a pace worse, two paces nothing; one in three answers clean (where, and which way the weight is going); small stacking bands, about twenty a session. Brom: "It's yours, I think. The knocking."
+- **Exclusivity is unchanged** (not retested).
+- **Wind**: one read burst against the Shield (front-left, the fan). **Pressure**: unused.
+- **Brom's read**: it never shuts at rest since the boat shed; when he moves it "knocks"; it gives a stranger's Path and rough rank.
+
+**Power Log / grey book — quotable.**
+- *Carrying*, Tuesday's page:
+  - *L., through the wall. Didn't.*
+  - *B., across the table. Did. Didn't ask. Will.*
+  - an unlabelled stroke at the foot of the column (the [UNBOUND] note, unnamed).
+- Iron-adjacent additions:
+  - *Range: bought with stillness, not effort. Reaching shortens it…*
+  - *Every other thing I have, I learned by pushing. This one I'll have to learn by stopping.*
+  - *Thirty in a room: one weight, no one in it… The fragment cannot yet count past one.*
+  - *Eight breaths… B. at rest is not at rest: his read never shuts… like a banked fire.*
+  - *A thing I can do to people without their knowing is a thing I have to ask before I do.*
+  - *Kindled or not… Working or resting… Walking: yes or no only… That's the whole of the vocabulary.*
+  - *False reading… The read gave me* kindled, low, still. *I gave it* hiding. *That part was mine.* / *The read reports presence, not intent. The intent is something I add…*
+  - the market: *…Right now they can wait much longer than I can listen. Watch whether that gets better or worse.*
+  - the read-back: *…Learned about them: nothing.* / *Learned about me: I can sit still longer than I knew. Not as long as they can. Yet.*
+  - *Pulse. Not a held door: one hard knock…* / *Mostly noise. But it's the first version of this thing that could ever stand on a floor with me.*
+- Grey book:
+  - the Shield's page (*Drop, then rush. Two of two. Wait for three.*; the academy-coat man's coin);
+  - *Fixing a tell can cost more than the tell.*;
+  - the dispute tally (*money 9, gyms 3, rules 1*);
+  - non-ledger names turned to private marks;
+  - **the smallest-hand copy: *Assessed per pre-registry terminology as UNBOUND.***;
+  - Keth: *Between the second and the third. The same every time. Look again.*
+- Hesk's notebook, loose page: *Last winter I came over the hills with a bag and a direction… Tonight I forgot it was there.*
+
+**Ratings and ledger lines.**
+- Cael: assessed-Copper. *Cael. Win. Third exchange. Atypical movement pattern.* (Vell: "Clean.")
+- Lira: *Lira. Win. Fifth exchange.* / *Provisional Iron-equivalent. One of two.*
+- **The chain correction (main-floor book, red rules, *t.f.*)**:
+  - the brickworks Shield is moved to Copper-equivalent, high range;
+  - four lines beneath him are corrected: a Blade, a north-gate Stone woman (to be told next morning), a young Wind from Keth's ring, and a Force man who loses a Thursday slot.
+  - Neither Cael's rating nor Lira's moves; Wendel "hangs off a different nail".
+- Dace's tick against the betting man: eleven to four.
+
+**Money / home.** The Shield purse is twelve marks, eight of them Cael's; he paid his rent a week early. Lira's dinner was cooked in the house kitchen and eaten at the landing table in her room. Lira pays the dock partner his mark.
+
+**Knowledge.**
+- **Lira**: both *Carrying* lines; all three watcher sightings (each the same day); the read-back; Brom's honest read of her hands. She does not know the [UNBOUND] note or Keth's seam.
+- **Brom**: the watcher (does not recognize the technique); the pulse; that Cael read him at dinner. He does not know the note or the seam.
+- **Vell**: Cael has handled the oldest books and read "a page with a hole in it". She did not see the copy, and does not know the word's meaning ("perhaps half").
+- **Dace**: the dispute; his own story told.
+- **Havel**: the long form; Section Twelve; the table; Coss's reply. His private notebook holds two questions. He has not seen the index.
+- **Coss**: the line's name and weight; his signed note; the month's silence; nothing found elsewhere. He has not seen the index.
+- **Nobody but Cael** knows the [UNBOUND] copy or the Keth seam.
+
+**Relationships.**
+- **Lira and Brom**: friends in their own right. Dawn footwork lessons; "I like him"; she leans on his arm once; he goes red.
+- **Cael and Brom**: an unwritten sixth term, *ask first* ("I'll mostly say yes").
+- **Cael and Lira**: "the same day" kept for every sighting. One thing kept back by reasoning (the note), and one held "until I've looked again" (Keth).
+- **Cael and Vell**: the handling taught; the reading still owed; "let me ask for it"; "The Compact does falsify things." / "I know."
+- **Cael and Dace**: "whose hands it's for".
+- **Havel and Coss**: one corridor nod; nothing said.
+
+**Compact / watchers.**
+- **The watcher**: never identified or approached, and never linked to the Book 1 stranger, the file or the Compact. Their description is a dull coat, collar up, hat low, ordinary build, "they". Three sightings in three weeks, then the read-back.
+- **The file**: queried and answered (Havel); a signed upward note met with silence (Coss); the record window as above.
+- No contact with Cael.
+
+**Open threads now.**
+- The watcher.
+- Keth's seam (M6).
+- The [UNBOUND] copy and the stroke in *Carrying*.
+- Vell's proper reading (owed).
+- Lira's second confirming bout (her hands).
+- Coss's silence, which still runs; Havel's two questions.
+- The pulse's one-in-three.
+- Plus every earlier thread: Keth's empty box on the wall; the third-exchange absence (untouched); *sustained*; the unasked right step; the concurrent use; Hesk's history; the Book 1 stranger.
+
