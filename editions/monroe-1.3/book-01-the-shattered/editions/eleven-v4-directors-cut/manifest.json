@@ -6,8 +6,8 @@
   "edition": "Eleven v4 Director's Cut",
   "target_model": "eleven_v4",
   "format": "full-book long-form upload",
-  "canonical_commit": "247259d562624033cab5bdfbefcbacfb2bb4abb9",
-  "generated_at": "2026-10-05T05:15:35.839744+00:00",
+  "canonical_commit": "64c37d45b2a0c961338051b9d59a83a0c78e90e4",
+  "generated_at": "2026-10-05T05:18:43+00:00",
   "chapter_count": 60,
   "spoken_word_count": 305987,
   "spoken_character_count": 1570805,
@@ -19,8 +19,8 @@
   "outputs": {
     "epub": {
       "file": "The-Shattered-Eleven-v4-Directors-Cut.epub",
-      "sha256": "728d2b83eab7233993cfe372924f27240699a9d510726d7cecc565ceb00db877",
-      "bytes": 2620462
+      "sha256": "f4b6173246409bcb1020e16650461e62d2449d9f1a67d320a6c400ed118cb5ea",
+      "bytes": 1301864
     },
     "plain_text": {
       "file": "The-Shattered-Eleven-v4-Directors-Cut.txt",

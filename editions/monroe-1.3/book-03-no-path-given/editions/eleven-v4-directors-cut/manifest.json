@@ -6,8 +6,8 @@
   "edition": "Eleven v4 Director's Cut",
   "target_model": "eleven_v4",
   "format": "full-book long-form upload",
-  "canonical_commit": "247259d562624033cab5bdfbefcbacfb2bb4abb9",
-  "generated_at": "2026-10-05T05:15:36.190317+00:00",
+  "canonical_commit": "64c37d45b2a0c961338051b9d59a83a0c78e90e4",
+  "generated_at": "2026-10-05T05:18:43+00:00",
   "chapter_count": 61,
   "spoken_word_count": 287219,
   "spoken_character_count": 1513266,
@@ -19,8 +19,8 @@
   "outputs": {
     "epub": {
       "file": "No-Path-Given-Eleven-v4-Directors-Cut.epub",
-      "sha256": "f514940fe811ac97638bbf5fbac63fffd20ec8dd9fe4c325bc6dffe53e4ba112",
-      "bytes": 2551740
+      "sha256": "1d318cd1a304a5ab7d821762526580044410b94edab0ae407ebf136b9dcb08cb",
+      "bytes": 1301270
     },
     "plain_text": {
       "file": "No-Path-Given-Eleven-v4-Directors-Cut.txt",
