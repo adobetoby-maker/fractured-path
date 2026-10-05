@@ -50,7 +50,7 @@ Gault turned his head an inch toward the clerk, whose pen was already lifted. "P
 
 ---
 
-The drop-frame was the Mire instructor's. She cranked the rail to a setting nobody named aloud, racked the second of the four weights, and checked the pawl with her thumb, all without hurry, and with the faint air of a woman doing a job she suspected had been done badly by somebody else the last time.
+The drop-frame was the Mire instructor's. She cranked the rail to a setting nobody named aloud, racked the second of the five weights, and checked the pawl with her thumb, all without hurry, and with the faint air of a woman doing a job she suspected had been done badly by somebody else the last time.
 
 "Four places it can come down," said Gault. "High or low. Near or far. Stand in the chalk with your back to the rail, and tell us which, when it falls."
 

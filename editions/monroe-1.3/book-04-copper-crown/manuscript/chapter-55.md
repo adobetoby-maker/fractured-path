@@ -276,7 +276,7 @@ A boy from the registrar's office came up the stair before supper with a half-sh
 
 *Answer, on the twentieth of Reaping: yes.*
 
-*Thirty-five days since the stair. It wakes when I do. Three hours under the Compact's four best chairs, and it never went. Cost: one interval and one headache. The Pressure stayed in my arm. Gault wrote "no change" about the plate and then stood up for me over it, which I didn't earn and can't put right.*
+*Thirty-five days since the stair. It wakes when I do. Three hours under the Compact's four best chairs, and it stayed in. Cost: one interval and one headache. The Pressure stayed in my arm. Gault wrote "no change" about the plate and then stood up for me over it, which I didn't earn and can't put right.*
 
 *I've been keeping things back since before I had a word for it. Today the keeping went under instruments for three hours, and it held. I'm going to stop calling it a habit.*
 
