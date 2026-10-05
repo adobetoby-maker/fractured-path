@@ -182,5 +182,50 @@ Brom ended the second exchange the way a man finishes a job he has nearly finish
 
 Her pen did not stop when she said it. It went on for a while after, longer than a result needed, and he heard it from where he lay, very faintly, under the noise of the room, the scratch of a woman writing something down.
 
+He lay there for the length of three breaths, because nobody had told him he could not, and looked up at the lamps.
+
+They were very bright, and there were a great many of them, and from the floor they made the low ceiling into a field of small flames with the dark beams running across it like furrows. He had never seen the main floor from here. He thought that most of the people who had seen it from here had not been in a state to notice the lamps, and that he would like to be able to say afterward that he had.
+
+Then he rolled onto his side and got his hands under him and stood, and the room made a sound for that, which he did not listen to.
+
+His knees chose the size of his steps back to the mark. He let them. They chose short ones, and he took short ones, and found that if he kept his weight low and close and let his feet do only what his knees would sign for, the knees stopped arguing and only grumbled. He had not walked like that since his first winter. He had walked like that across the Cinder House yard to the canvas post, every morning for three months, with no hip in it at all, because there had been nothing in his hip to use. He had been slow, and careful, and he had looked at everything, because looking was all he had.
+
+*He's in there somewhere,* Lira had said, standing on her heels in the alcove with her face gone pink. *I've seen him.*
+
+At the rope she had not moved. He did not look for her fingers.
+
+He stood on the north mark and waited for his breath to come back into its count, and while it came he found that the arithmetic had become very simple. The Pressure was locked, by him, in ink. The Wind was shut, by his legs. The plan was dead and the second door had been bolted by some fast stranger in another city before Cael had ever heard of it. What was left was the boy who had walked to the canvas post. He had two hands, one of them still coming back from numb, and two eyes, and knees that would give him perhaps two more exchanges of short steps if he spent them carefully, and one if he did not. That boy had not had a plan either. He had not known what a read was. He had only known where his next foot was going, and what the man in front of him was doing with his.
+
+"Begin," said Vell.
+
 ---
 
+He walked out to meet Brom, and he did not try to win anything.
+
+He found, a little to his surprise, that he could not have tried if he had wanted to; there was nothing left in him to try with. So he did the only thing his knees allowed. He went in a half-step at a time, never more, and touched, and came away. He touched the forearm, lightly, not enough to be worth a breath. He touched the shoulder. He went round to the left, two short steps, and touched the hip, and went back. None of it was anything. Brom let all of it land soft and spent nothing on any of it. Twice the big man stepped in to take the space, and twice Cael gave it to him, a half-step back, on knees that told him exactly how much a half-step cost.
+
+He was not watching for the breath any more. He had stopped listening for it somewhere in the walk back from the floor, without deciding to, the way a man stops listening for a cart that has gone round the corner. He was not watching the purse, or the read, or the lead seam, or anything that had a page. There was only the next thing. Where Brom's lead shoulder was. Where his own left foot would go when it went. How much stone there was between them, and whether it was getting more or less.
+
+It was very quiet in there. The room was roaring, he supposed. He could not have said.
+
+He looked at Brom's eyes, for no reason, because they were the next thing.
+
+And Brom's eyes went wide.
+
+It was not much. A big man's calm face, and for one instant the look in it of somebody in a lit room when every lamp goes out at once: not fear, not yet, only the blank start of a person whose world has just gone missing round him. Brom's guard was aimed at the stone a little to Cael's left. His weight had begun to go there to meet something, and it hung, half gone, stopped. Cael had seen the big man stand still for twelve days. He had never once seen him stuck.
+
+There was nothing in Cael that had done it. He knew that then and he would know it afterward, whatever else he did not know. Nothing had leaned toward a door. Nothing had gone out of him. He had not reached for anything; he had been looking at the next half-second, and the next half-second had turned out to have a man in it whose read was pointed at an empty piece of floor.
+
+He was one short step away, in plain sight, with lamplight on him.
+
+He took the step, and put his left hand under Brom's lifted arm into the ribs, the short straight strike from the hip with nothing in it but a boy.
+
+It went in.
+
+It went into a body. That was the whole of it, and it was enormous. No knock, no stillness, no turn; only the soft-and-solid give of muscle over bone under his knuckles, as Ulric's ribs had given, and every man's before. Brom's breath went out of him in a grunt that had no plan in it. He gave a step. It was a short step back, off his heels, and it was the very step Cael had watched him give the dock partner's fourth blow in the alcove, the only one he had ever given.
+
+Then Brom's hand came down on Cael's arm.
+
+It came late, and it came by sight. Cael could feel the difference through his sleeve the way you can hear the difference between a man reading aloud and a man making it up. It was a fighter's hand, fast and trained and very strong, landing where his eyes had sent it. The turn it gave Cael's arm was real, and still more than he could stand against, and it moved him a step. But it was rough. It had been made on the spot, out of nothing, by a man who had not known it would be needed until it was. For the first time all night, Brom was building his answer in front of him.
+
+And then it was over, the way the start of it had been: without any edge he could find. Half a breath later the low breath was going in again, and the hardness was there again under Cael's hand, and whatever in Brom read people had him again, as though it had never let go.

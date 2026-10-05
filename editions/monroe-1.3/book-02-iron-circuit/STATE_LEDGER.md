@@ -538,3 +538,9 @@ Open threads now:
 - Keth's request.
 - The letter to Hesk, which arrives after Tuesday.
 - Whether Brom knows about the shin.
+
+### Movement 3 — CLOSED (2026-10-05, after repair r1; Sol recheck: CLOSE WITH LINE FIXES — 5 applied)
+- Ch16–22, ~35,530 words. Mean 13.95, ≥40w 4.3%, 867 w/scene; overlap 0 (2 protected); probe 0% skeleton / 8% close; gates 0.
+- Recheck fixes: ch19 "one bout in the fortnight besides Brom" (not two); ledger abbreviations spelled for the narrator ("Iron-equivalent", "exchange two") in ch17, ch20, ch22.
+- Verified: Coss's grey slip consistent with B1 ch60 (senior-floor slip, unknown code, "The day after"; no entry; empty log page); no Cael-POV use of cutaway-only facts; the hold is about one beat everywhere.
+- Authorship: claude-opus-5-5. Published to the PWA: Book 2 edition ch1–22, "in progress".

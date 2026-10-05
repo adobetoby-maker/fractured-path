@@ -110,7 +110,7 @@ Cael read the seven twice. They told him what Corrin's knuckles had told him, an
 
 Then he came to the eighth line, which was the first.
 
-It was a loss. It had been Brom's first bout on that stone, two months back, against a Shield from the river end whom Cael knew slightly, a careful heavy fighter who did nothing quickly. *B. to the Shield (Iron-equiv.). Seventh exchange. Hand up.* And under it, in Vell's hand, three words.
+It was a loss. It had been Brom's first bout on that stone, two months back, against a Shield from the river end whom Cael knew slightly, a careful heavy fighter who did nothing quickly. *B. to the Shield (Iron-equivalent). Seventh exchange. Hand up.* And under it, in Vell's hand, three words.
 
 *Did not know the floor.*
 

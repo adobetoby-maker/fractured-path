@@ -28,7 +28,7 @@ She showed it to Cael afterward, outside, on the cold step of the side door, wit
 
 It was under Wendel's name, on Thursday's page. It was longer than anything Cael had ever seen Vell write under a single bout. The first part was the bout, plainly, in the narrow upright hand.
 
-*L. over Wendel (Iron-equiv., Wind, guild-trained). Called in the sixth. Took his right side in the first exchange and held it; made every sequence of his begin from the slow side; when he changed his feet in the third she changed back inside the same exchange. Long exchanges throughout. Her answers were to the man in front of her, not to the man of a minute ago.*
+*L. over Wendel (Iron-equivalent, Wind, guild-trained). Called in the sixth. Took his right side in the first exchange and held it; made every sequence of his begin from the slow side; when he changed his feet in the third she changed back inside the same exchange. Long exchanges throughout. Her answers were to the man in front of her, not to the man of a minute ago.*
 
 Under that, a line by itself:
 
@@ -70,7 +70,7 @@ The bill was on the outside of the plank door by the middle of the morning, and 
 
 Dace had written it on a board in chalk, in the same square capitals he used for the slate, and hung it on the nail where the notices about lost dogs and cheap lodgings usually went. It said very little. It said the day, and *MAIN FLOOR*, and the hour the lamps would be lit, and two names one above the other with a line between them.
 
-*BROM. IRON SKIN. IRON-EQUIV.*
+*BROM. IRON SKIN. IRON-EQUIVALENT.*
 
 *CAEL. ASSESSED.*
 

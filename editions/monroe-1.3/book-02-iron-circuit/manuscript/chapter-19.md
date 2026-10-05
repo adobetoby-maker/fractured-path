@@ -116,7 +116,7 @@ Then he folded it and put it with the other, unfinished one on the shelf, and la
 
 ---
 
-He had two bouts in the fortnight besides Brom, small ones, booked before the main floor was chalked. He went into the first of them with his attention somewhere else and knew it.
+He had one bout in the fortnight besides Brom, a small one booked before the main floor was chalked. He went into it with his attention somewhere else and knew it.
 
 The man was a Blade from Orvet's gym in the tannery lanes, a square quick fighter with a red neckcloth in Orvet's colours. Cael had watched him one evening, which was one evening less than he liked. *What it's made of*, the page said, short. *Orvet's school. Taught to shout and go. Goes at the word, every time. Doesn't build long; doesn't need to. Primed to committed in about a beat. Hates being made to wait.*
 

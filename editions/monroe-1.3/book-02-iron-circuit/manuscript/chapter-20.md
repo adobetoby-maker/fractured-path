@@ -38,7 +38,7 @@ Lira looked at the six crosses on the floor.
 
 He wrote it while she watched, slowly, under the Wind entry's *Costs*, Claim and Evidence and Ruling as he always did.
 
-*Claim: the cost of a burst isn't fixed. Depends on how ready I was when I asked, not only on how many I've done. Evidence: the Blade from Orvet's, ex 2 and ex 3; this morning, six marks, twenty and twenty, L. calling the late ones. Read first: thin line, breath back in four. Called late: wide line, breath back in eight or nine, knee twice, one short. Ruling: yes.*
+*Claim: the cost of a burst isn't fixed. Depends on how ready I was when I asked, not only on how many I've done. Evidence: the Blade from Orvet's, exchange two and exchange three; this morning, six marks, twenty and twenty, L. calling the late ones. Read first: thin line, breath back in four. Called late: wide line, breath back in eight or nine, knee twice, one short. Ruling: yes.*
 
 He stopped, and then added, under the ruling, what he had begun to think in the lock against the Blade and had not let himself write.
 
