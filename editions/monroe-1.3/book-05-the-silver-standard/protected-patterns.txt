@@ -1,0 +1,3 @@
+# Book 5 protected wording matched by pattern (see BOOK_MAP §10, packets, OWNER-DECISIONS)
+# M1 packet-quoted lines (kept whole)
+a trap catches you moving a mirror just stands there
