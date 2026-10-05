@@ -2,7 +2,7 @@
 
 Karis wrote notes, and everybody on the bluff who had dealings with her learned it inside a fortnight; most of them learned to be grateful for it.
 
-They came under the door folded in three, in a small upright hand, with the date at the top left and a subject line under it, ruled once. *Prynn's index, shelf-marks 40–60: two wrong.* *Your Lira page: she leads with the left foot on stairs. Did you know?* *Brom has my good pencil. Please recover.*
+They came under the door folded in three, in a small upright hand, with the date at the top left and a subject line under it, ruled once. *Prynn's index, shelf-marks 40 to 60: two wrong.* *Your Lira page: she leads with the left foot on stairs. Did you know?* *Brom has my good pencil. Please recover.*
 
 Cael kept them in a biscuit tin under his bed, the lid held down with a strap because the hinge had gone. By the sixth week of the season there were thirty-four, and he had read every one of them at least twice. They were the only letters anyone had ever sent him that said exactly what they meant and then stopped.
 

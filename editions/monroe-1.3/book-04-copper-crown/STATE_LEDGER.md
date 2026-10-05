@@ -1034,3 +1034,12 @@ Canon elevens kept:
 - Gault's "in eleven years";
 - the delegation's eleven names;
 - the committee charter's eleven clauses.
+
+## BOOK 4 LOCKED (2026-10-05)
+Completion pass done:
+- Step 1: not needed; all movements ≤2% skeleton.
+- Step 2: Fable whole-arc read; 68 fixes applied, including the baseline as the second month throughout and the weekday and season fixes.
+- Step 3: Opus texture lanes A and B, about −4,000 words. Similes ≤3 per chapter; the non-canon elevens taken out; ch15–18 and ch47/49 tightened; the ch45 stake line added.
+- Step 4: Fable listening proof; 11 fixes applied (abbreviations, the figure 0 → "nought", the board's "6/0" → "six and nothing", middle dots → dashes).
+
+Final: 62 chapters, 290074 words; overlap 0 in all 9 movements; gates 0; mean 13.42, ≥40w 3.7%, 910 w/scene. Book hash bd2ca5fe153a1e1afab0bdbf2456cb4ed9d6dba2bbfb38864041a9827f8b15fa; tag `monroe13-book04-text-locked`; DIRECTOR_CUT_READY.md issued. The pronunciation lexicon, homograph table and the strikethrough renderer note are in state/completion/listening-proof.md.

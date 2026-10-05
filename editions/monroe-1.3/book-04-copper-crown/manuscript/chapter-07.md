@@ -78,7 +78,7 @@ Cael ran the weight layer on Rooke for as long as the session lasted. Rooke's ha
 
 Afterward, on the way out, Cael stopped at the board by the theater door where the clerk had already pinned the session's minute. He read down to the item.
 
-*Instr. Rooke: the provision may be sound; objects to the attention it draws; asks that his objection stand dated before any notice of inspection. Chancellor: so minuted.*
+*Instructor Rooke: the provision may be sound; objects to the attention it draws; asks that his objection stand dated before any notice of inspection. Chancellor: so minuted.*
 
 He stood reading it for longer than it needed.
 

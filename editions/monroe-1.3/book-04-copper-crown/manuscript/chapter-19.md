@@ -154,7 +154,7 @@ If the issue stayed wrong until Sixth-day, then the office did not read Cael's p
 
 He wrote the decision down that evening before he did anything else, because a decision he had not written down had a way of turning into an instinct he could not afterward examine.
 
-*Floor issue, Sixth-day the 80th: hall one for hall three. The trade carried forward. Leaving it. I'll say nothing to the office, the board, or anybody. If it stays wrong, I walk across on the day and lose a quarter of an hour. If it comes right on its own, I'll know who reads my paper.*
+*Floor issue, Sixth-day the eightieth: hall one for hall three. The trade carried forward. Leaving it. I'll say nothing to the office, the board, or anybody. If it stays wrong, I walk across on the day and lose a quarter of an hour. If it comes right on its own, I'll know who reads my paper.*
 
 He looked at that, and then wrote a line under it, because Lira had a claim on the subject.
 

@@ -118,7 +118,7 @@ He set the ladder down at the arch and stood there with his shoulder aching, and
 
 Since the stair he had been trying to make himself less, to turn the hand down on purpose, and it had come to nothing. Here, without trying anything at all, forty people had looked past him, because he had been carrying something more interesting than himself. Nothing at his edges had stirred the whole way across; the fragment had done nothing, and this was only the plain trick every porter on the bluff lived by, ordinary attention going to the more interesting thing. That was not a Path. It was a ladder. But it was the same shape, he thought, standing in the arch with the yard going on round him. You did not have to be nothing. You only had to give the eyes somewhere better to go.
 
-Up at the window, Gwen was waving her count at him: a large, plain *0*.
+Up at the window, Gwen was waving her count at him: a large, plain *nought*.
 
 "Nought," said Seln at the slate, when they had all come back in. "Correct. Next week we find out why that's harder without a ladder." He wrote it up and underlined it once, and the round copying hand was as level as it always was.
 

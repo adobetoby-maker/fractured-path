@@ -110,7 +110,7 @@ He took his time; she meant it.
 
 "No. He doesn't."
 
-"So I've looked for his. Nineteen days. Through glass, in the lamp, in the brass on the lecture stair, from the side of my eye while I write down other people's bouts." He shook his head. "Nothing begins. There's never a moment. He's the same at the first bell as he is at the fifth."
+"So I've looked for his," said Cael. "Nineteen days. Through glass, in the lamp, in the brass on the lecture stair, from the side of my eye while I write down other people's bouts." He shook his head. "Nothing begins. There's never a moment. He's the same at the first bell as he is at the fifth."
 
 "So you've written *none*."
 

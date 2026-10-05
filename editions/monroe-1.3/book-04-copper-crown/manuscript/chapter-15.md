@@ -18,7 +18,7 @@ That was all the tally was for. It measured the fame. It had no other job.
 
 On the fifty-eighth morning he came down the stair and wrote *29 of 91* in the margin, and stood a moment on the landing while the stream split round him like water round a post, and found that his pencil had gone on moving by itself, further down the page, and written a second line.
 
-*TA, assessment office: 0 of 7.*
+*TA, assessment office: nought of seven.*
 
 He looked at it for some time.
 
@@ -74,7 +74,7 @@ By the evening of the sixty-sixth day the columns read like this, on a page he w
 
 *Porters to the panel, together: 7 of 19.*
 
-*TA: 0 of 31.*
+*TA: nought of thirty-one.*
 
 He sat on the end of his bed with the binder across his knees and the lamp turned up, and he looked at the four lines without writing anything under them.
 
@@ -110,11 +110,11 @@ On the stair that afternoon, still hot about the ears, he gave it up. He was don
 
 What came of that did not look like the rest of the binder. It had no columns for confirmed, probable and discarded. It was a shorthand, pared down so he could write it walking, in a few strokes:
 
-*Day sixty-one · second bell · hall three gallery · west end by the turned post · all floor, both doors.*
+*Day sixty-one — second bell — hall three gallery — west end by the turned post — all floor, both doors.*
 
-*Day sixty-two · fifth bell · yard · high west, middle of five · rings lengthwise, north stair, wing gate.*
+*Day sixty-two — fifth bell — yard — high west, middle of five — rings lengthwise, north stair, wing gate.*
 
-*Day sixty-three · third bell · lecture stair · second landing, wall side · whole stair, top to foot.*
+*Day sixty-three — third bell — lecture stair — second landing, wall side — whole stair, top to foot.*
 
 Day, bell, where the man had stood, what could be seen from there. Nothing about the man at all.
 
