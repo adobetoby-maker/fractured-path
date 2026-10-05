@@ -67,3 +67,13 @@ The closed, hash-locked edition Book 3 says some things the Book 2 plan contradi
 5. **Log format.** B3 uses four headings per fragment. B2 M8 begins that format with the Compression entry, and Cael means to redo the older three on the road. Accepted.
 
 **#36 update (coordinator, 2026-10-05, after the B2 M8 Fable reviews).** The redirect side is confirmed RIGHT. Book 3 says so consistently (ch1:45, ch1:111, ch6:91, ch6:201), so Book 2 conforms: the M7 side-words become right, and so do the M8 bout redirects and the Compression channel. The Book 3 erratum queue (v1.1 re-lock after Book 2 locks) is now: ch22 and ch35:227 "third exchange" → "fourth exchange", and the notice "had come" during the bout → the arrival of the thing itself (the notice comes after the final bout). Book 3 ch1's loose "weeks" stands.
+
+## #37 — Book 5 reconciliation to the edition's Book 4 (coordinator, 2026-10-05)
+The Book 5 plan was reconciled to the closed edition Book 4 (`book-05-the-silver-standard/state/B4-RECONCILIATION-APPLIED.md`). Seven items carry defaults in force, and none blocks drafting:
+- **O1 Season names.** The series calendar is season-blind in Book 5: weather words only, and no month order (#35, #36.4).
+- **O2 Cael's birthday.** It stays "the eleventh of Sowing" and is never set beside a season word. The owner may still choose "the third of Reaping" (#35).
+- **O3 "Three years" (C3).** The protected log items 21 and 29 keep "three years", read as dating from the Ardenmere circuit. Alternative wording is proposed inline in the Book 5 BOOK_MAP.
+- **O4 Weekday names.** House scheme: Halcenvane uses First-day … Seventh-day. "Tuesday" appears only in Daeva's window (Norhold/Auremont).
+- **O5 Brom's line.** "Summer's problem." becomes "The recess's problem."
+- **O6 Bracken's tenure.** Book 5 says twelve years, or nothing. Book 6 ch1's "thirty years" is flagged for the Book 6 planner.
+- **O7 The source's market-day third watcher.** It is allowed only as the recess's one dated change, in a single log line.

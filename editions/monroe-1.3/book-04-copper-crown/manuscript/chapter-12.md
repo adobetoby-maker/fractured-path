@@ -16,7 +16,7 @@ He leaned over her shoulder. It was Halcenvane's own copy of the founding clause
 
 He walked back to the second quadrangle in the dusk with that sentence turning in his head, and for three nights afterward he slept badly.
 
-It was not the room he feared; he had stood before two hundred people with the Compact's warden at the other table and read a schedule back to them page by page, and no room of instruments could be worse than that. It was the arithmetic: every practitioner on every board had been set down by an Arbiter at fourteen and handed a number. He was being handed a pen, and whatever he drew with it on the day would go into a folder in Gault's cabinet and stay there. One day an inspector would take it out, with a grudge or only with a schedule, and read it on a table, or aloud in a hearing room. *Choose with that in mind,* Bracken had said, holding out the tag on its cord. Cael had nodded at the time as if he understood. He was only now beginning to.
+It was not the room he feared; he had stood before two hundred people with the Compact's warden at the other table and read a schedule back to them page by page, and no room of instruments could be worse than that. It was the arithmetic: every practitioner on every board had been set down by an Arbiter at fourteen and handed a number. He was being handed a pen, and whatever he drew with it on the day would go into a folder in Gault's cabinet and stay there. One day an inspector would take it out, with a grudge or only with a schedule, and read it on a table, or aloud in a hearing room. *Choose with that in mind,* Bracken had said, holding out the tag on its cord. Cael had nodded at the time. He was only now beginning to.
 
 By the third night he could see the two ways to cheat it, one low and one high, and he could see neither was right, and he could not yet see what was.
 
@@ -28,7 +28,7 @@ He gave them the low line first, since it was the one he was ashamed of wanting,
 
 "It's comfortable," he said. "That's the trouble with it. Comfortable for years, and then one day not, and all at once." He held up a finger. "Three costs. One: the line's a document. It goes into the file in Gault's hand, and one day an inspector opens the file. Bracken's warned me twice, and Withrow wrote *sooner* on her sheet with her own pen. Find a feeble line in there and you've found proof the provision lets feeble people in. Somebody uses that against the provision, and I've lost the only floor I stand on."
 
-"Two," said Karis, not looking up.
+"Two," said Karis, still in her pencil.
 
 "Two, it runs out." Another finger. "What I've held back is a fixed sum. Spend it as growth, a bit each semester, and one day I'll need to grow for real and find the purse empty. The requirement never stops. Every semester, no exceptions; that's the record I signed."
 
@@ -50,7 +50,7 @@ The high line took less time, because everybody in the room already knew why it 
 
 They all looked round. She had not moved from the window seat.
 
-"Low or honest, you keep saying. Those aren't the two." She said it calmly, as if pointing out a step he had missed on a stair. "Three years you've kept things in your pocket on every floor we've stood on. Choosing what goes out and what stays in. I was there for all of it. I never once thought of it as lying, and neither did you."
+"Low or honest, you keep saying. Those aren't the two." She said it calmly. "Three years you've kept things in your pocket on every floor we've stood on. Choosing what goes out and what stays in. I was there for all of it. I never once thought of it as lying, and neither did you."
 
 "That was leaving things unsaid. This is writing a figure against my own name and putting my signature under it."
 
@@ -86,13 +86,13 @@ That night it went into the binder under *method*. Lira, he thought, would accep
 
 He slept, after that, for the first time in four nights, and woke at the fifth bell with his mind quite clear and one thing still sitting in it.
 
-*Every bit you've got, in those two.* He lay looking at the words in his head for a long while, and found he did not know how much that was. He knew his ceiling: four free bursts on timber now, and the fifth to pay. He knew the read's distance and its limits, and one new limit he had found in the low hall. But he had spent three years learning to show three-quarters of everything, on every floor, as a habit, the way a man who has been poor a long time goes on eating half his bread and saving the rest even after he has money. No panel had ever seen the whole of anything from him, and he was no longer sure he knew how to show it.
+*Every bit you've got, in those two.* He lay looking at the words in his head, and found he did not know how much that was. He knew his ceiling: four free bursts on timber now, and the fifth to pay. He knew the read's distance and its limits, and one new limit he had found in the low hall. But he had spent three years learning to show three-quarters of everything, on every floor, as a habit, the way a man who has been poor a long time goes on eating half his bread and saving the rest even after he has money. No panel had ever seen the whole of anything from him, and he was no longer sure he knew how to show it.
 
 He told Karis about the Ember the next morning, in carrel eleven, because it was hers before it was his and he did not want her to hear it from the table.
 
 "I'm leaving it out," he said. "The exhibit's thin. If I show it, it's news, not confirmation."
 
-Karis did not look up from the page she was copying for a moment. Then she put her pen down and laid both hands flat on the desk, the way she did when she had decided something.
+Karis went on copying for a moment. Then she put her pen down and laid both hands flat on the desk, the way she did when she had decided something.
 
 "Good," she said.
 
@@ -102,9 +102,9 @@ Karis did not look up from the page she was copying for a moment. Then she put h
 
 He had two supervised sessions left before the day, if the day came when he thought it would. He used them both.
 
-In the first, under a Shield instructor who crossed over at the eleventh minute, he ran the framework at its full pace against nobody, alone on the east hall's timber, and made himself go all the way through every burst instead of easing off at the end, and found he had been easing off at the end for so long it felt like falling. In the second, under a Mire Path instructor who had never supervised him and plainly resented the hour, he stood at the edge of the floor with his eyes shut while two second-years threw practice weights at the boards in front of him, and called the weight and the line of each before it landed. He was right about all of them. It was harder than it had any right to be, because he was trying, for the first time in years, to let the read be as good as it was.
+In the first, under a Shield instructor who crossed over at the twelfth minute, he ran the framework at its full pace against nobody, alone on the east hall's timber, and made himself go all the way through every burst instead of easing off at the end, and found he had been easing off at the end for so long it felt like falling. In the second, under a Mire Path instructor who had never supervised him and plainly resented the hour, he stood at the edge of the floor with his eyes shut while two second-years threw practice weights at the boards in front of him, and called the weight and the line of each before it landed. He was right about all of them. It was harder than it had any right to be, because he was trying, for the first time in years, to let the read be as good as it was.
 
-The Mire instructor watched the whole of the second session with her arms folded and her mouth turned down, and crossed over, like everybody, at about the fourteenth minute. But she did one thing none of the others had done. At the end, signing his sheet, she asked the second-years which weights they had thrown, and checked his calls against their answers, one by one, with her pen. They all matched, and she let that pass without a word. She only signed, and gave him the sheet, and went out. He wrote her into the margin of the eleven with a small mark beside her name: *checks.*
+The Mire instructor watched the whole of the second session with her arms folded and her mouth turned down, and crossed over, like everybody, at about the fourteenth minute. But she did one thing none of the others had done. At the end, signing his sheet, she asked the second-years which weights they had thrown, and checked his calls against their answers, one by one, with her pen. They all matched, and she let that pass unremarked. She only signed, and gave him the sheet, and went out. He wrote her into the margin of the eleven with a small mark beside her name: *checks.*
 
 The notice came on the forty-sixth morning, in his pigeonhole, two days before the day, as the first one had said it would.
 
@@ -124,7 +124,7 @@ They walked it through together, slowly, in the starlight. The stone was uneven,
 
 He waited. She had told him about Fenmark once, on a road, in the dark, and never again.
 
-"The Arbiter took about a minute and a half." Her eyes were on the wall's dark bulk, not on him. "It came, and I saw it, and it looked at me, and then the station clerk wrote *Copper* on a sheet and *Rank One*, and that was me. A minute and a half. Two years now I've been trying to get somebody to look longer than that." She was quiet a moment. "That man tomorrow has a room built for nothing but looking. Eleven instruments. He's got a clerk to time your blinks."
+"The Arbiter took about a minute and a half." Her eyes were on the wall's dark bulk, not on him. "It came, and I saw it, and it looked at me, and then the station clerk wrote *Copper* on a sheet and *Rank One*, and that was me. A minute and a half. Two years now I've been trying to get somebody to look longer than that." She was quiet a moment. "That man tomorrow has a room built for nothing but looking. A dozen instruments. He's got a clerk to time your blinks."
 
 "I know."
 
@@ -156,7 +156,7 @@ The wash-house door creaked behind him, and Karis came out with his coat over he
 
 "Four pages."
 
-Karis nodded slowly, as if that were about what she had expected and somewhat worse.
+Karis nodded slowly.
 
 "It'll be four and a line tomorrow," she said. "That's all it'll be. One line. Everybody's lived through worse lines than one." She got up. "Go to bed. Lira will have told you that already. I'm only saying it so it's from two of us."
 
@@ -164,7 +164,7 @@ He slept, more or less.
 
 In the morning Brom was waiting at the bottom of the quadrangle stair with two pieces of bread wrapped in a cloth, one for each of them.
 
-He walked Cael across the bluff in the early light without saying anything at all, which was exactly what Cael wanted. They went by the long way, round the rim of the Crown yard, where the porter was already out with his pail chalking the practice rings, and past the north hall, where somebody was running a drill alone on the big stone floor, the same somebody perhaps who had been running one there on Cael's first morning. Brom ate his bread. Cael carried his and did not eat it, and Brom noticed and said nothing about that either. The assessment wing's low wall came up ahead of them, pale and new, with its single gate standing open and nobody in it.
+He walked Cael across the bluff in the early light without saying anything at all, which was what Cael wanted. They went by the long way, round the rim of the Crown yard, where the porter was already out with his pail chalking the practice rings, and past the north hall, where somebody was running a drill alone on the big stone floor, the same somebody perhaps who had been running one there on Cael's first morning. Brom ate his bread. Cael carried his and did not eat it, and Brom noticed and said nothing about that either. The assessment wing's low wall came up ahead of them, pale and new, with its single gate standing open and nobody in it.
 
 At the gate Brom stopped, and put one heavy hand on his shoulder, briefly, and took it away.
 
@@ -180,11 +180,11 @@ Fifty feet by thirty, the room was floored in oak laid on bearers like the east 
 
 Along the north wall stood the apparatus, and it was making its small noises.
 
-Two weeks of asking had got him the names of nine pieces out of the eleven. First a drop-frame: a trigger, a rail, a weight to run down it, and four more weights racked underneath; someone at the far end tested the pawl, and it gave one soft click. A pendulum escapement in a glass case, ticking a steady interval that he found himself breathing in time with before he noticed and stopped. Nine shutters in a board, opened in an order a drum behind them decided; the drum's ratchet made the noise of a thumbnail going slowly down the teeth of a comb. Three spring plates on braces, each with a date of calibration painted on its housing. For footprints, a shallow tray of chalk dust. And at the very end, a thing like a tall brass funnel over a cup, which dripped into the cup with a small bright sound every few seconds, and which he could not name at all.
+Two weeks of asking had got him the names of nine pieces out of the twelve. First a drop-frame: a trigger, a rail, a weight to run down it, and four more weights racked underneath; someone at the far end tested the pawl, and it gave one soft click. A pendulum escapement in a glass case, ticking a steady interval that he found himself breathing in time with before he noticed and stopped. Nine shutters in a board, opened in an order a drum behind them decided; the drum's ratchet made the noise of a thumbnail going slowly down the teeth of a comb. Three spring plates on braces, each with a date of calibration painted on its housing. For footprints, a shallow tray of chalk dust. And at the very end, a thing like a tall brass funnel over a cup, which dripped into the cup with a small bright sound every few seconds, and which he could not name at all.
 
 Facing all of it across the grid, against the south wall, stood a long table with three chairs, and at its end, a little way off, a stool and a sloped desk for the clerk.
 
-Magister Gault was already in the middle chair. He was a heavy man in his fifties, Silver-tier, with a stillness about him that Cael read at once as trained and not natural, the stillness of somebody who had decided long ago that moving was a thing to be done on purpose. He did not stand. On his right sat the Ash Path instructor from the lecture range, the fourth name on Cael's standing list, with her book against her chest. On his left sat the Mire instructor who had resented his last session, and who did not look as though she had grown to like the hour since. The clerk, a young man with a ledger and three pens laid in a row, had already written something.
+Magister Gault was already in the middle chair. He was a heavy man in his fifties, Silver-tier, with a stillness about him that Cael read at once as trained and not natural, the stillness of somebody who had decided long ago that moving was a thing to be done on purpose. He did not stand. On his right sat the Ash Path instructor from the lecture range, the fourth name on Cael's standing list, with her book against her chest. On his left sat the Mire instructor who had resented his last session, and who had plainly not grown to like the hour since. The clerk, a young man with a ledger and three pens laid in a row, had already written something.
 
 "Enrollee." Gault did not offer a hand. "Sit. I will tell you how the morning goes, once. You will have it every half-year from now on, and I would rather not repeat myself."
 

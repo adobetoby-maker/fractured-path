@@ -24,7 +24,7 @@ He looked at her properly: there was ink on the heel of her right hand, and a sm
 
 "You've been over it more than once," he said.
 
-"Six times." The corner of her mouth moved, not quite a smile. "When a result annoys me, I go back to the beginning and walk through it again. If it's still on its feet after the sixth walk, I lose the right to be annoyed. I have to sign it."
+"Six times." Her mouth moved, not quite a smile. "When a result annoys me, I go back to the beginning and walk through it again. If it's still on its feet after the sixth walk, I lose the right to be annoyed. I have to sign it."
 
 "And it's still standing."
 
@@ -64,7 +64,7 @@ Four bouts and none lost, the first of them her opening bout, drawn by lot, whic
 
 "I don't know."
 
-She looked up at him from the rug for a moment, and then away, and he knew she had heard the lie in it and had decided to let it pass, the way she let a feed pass that she could have punished. He did not know what was in the ledger. He knew exactly what was in it. Both were true, and only one of them was honest.
+She looked up at him from the rug for a moment, and then away, and he knew she had heard the lie in it and had decided to let it pass. He did not know what was in the ledger. He knew exactly what was in it. Both were true, and only one of them was honest.
 
 Karis had the table. She had laid out her ledger and, beside it, a second notebook Cael had never seen, thin and grey-covered, and three pencils in a row with their points all lying the same way. When Cael came in last and pushed the door to, she looked at the door, and then at him, and he went back and turned the key.
 
@@ -92,7 +92,7 @@ She began, as she always did, a long way back from where she meant to arrive.
 
 "It was a long session."
 
-"It was a quarter of an hour." A strip of blue paper marked her place. She opened to it and then let the page lie, as if the numbers on it were ones she had long ago stopped needing to see. "Twenty-two of them, in the end. Every one a Path declaration at demonstration intensity, every one with my consent said out loud and the hour written beside it. Nine paces, five, three. A quarter-hour, three hours. Cael reaching every way he could think of: attention, invitation, irritation, once." She glanced at Lira. "You took his pen for that one."
+"It was a quarter of an hour." A strip of blue paper marked her place. She opened to it and then let the page lie. "Twenty-two of them, in the end. Every one a Path declaration at demonstration intensity, every one with my consent said out loud and the hour written beside it. Nine paces, five, three. A quarter-hour, three hours. Cael reaching every way he could think of: attention, invitation, irritation, once." She glanced at Lira. "You took his pen for that one."
 
 "I remember," said Lira. "It didn't work."
 
@@ -108,7 +108,7 @@ She began, as she always did, a long way back from where she meant to arrive.
 
 Brom had opened his eyes.
 
-"That's the condition," said Karis. "I spent a month afterward getting it wrong, so I'll say it carefully. It isn't danger. People hear *stakes* and they think of a fist, or a blade, or somebody bleeding on chalk. I didn't hurt him in that yard; I don't think I could have hurt him if I'd tried. What I did was mean it. I set the whole of myself against him for something real, and he had spent six weeks learning exactly what the whole of me looked like when I worked."
+"That's the condition," said Karis. "I spent a month afterward getting it wrong, so I'll say it carefully. It isn't danger. People hear *stakes* and they think of a fist, or a blade, or somebody bleeding on chalk. I didn't hurt him in that yard; I don't think I could have hurt him if I'd tried. What I did was mean it. I set the whole of myself against him for something real, and he had spent six weeks learning what the whole of me looked like when I worked."
 
 "So it isn't about hitting," said Brom slowly.
 
@@ -122,7 +122,7 @@ She let that sit.
 
 "For forty days Cael has been studying a man in the assessment wing. He asked me to hold the second pencil, because he said a thing watched by one pair of eyes is a hobby and not a study, and he was right. So I've held it. Every page." Karis drew the thin grey notebook a finger's width nearer to her. "Tonight I'm going to put that study beside the model, one column at a time, and show you what I see. Stop me if a number's wrong. Don't stop me at the end."
 
-Cael felt the room go still round him, the way a yard goes still just before an adjudicator reads the terms. He found that he had folded his hands on the table, and he left them folded.
+Cael felt the room go still round him. He found that he had folded his hands on the table, and he left them folded.
 
 ---
 
@@ -134,13 +134,13 @@ She drew a line down the middle of a fresh page and wrote *Greyvane* on the left
 
 She made a mark.
 
-"Second column. How near." She wrote it. "In the whitewashed room I stood nine paces off, then five, then three, and three was close enough to frighten me a little. In this notebook I have eleven occasions when this man has stood inside two paces of Cael. Six of them across the office counter, with a form between them and a date being argued over. Two in the wing passage. One on the lecture stair, the same step, passing. Two at the residence board." She looked up. "Once he stood three places behind you in the board queue for nearly a quarter of an hour. You told me you could hear him turning his notices over."
+"Second column. How near." She wrote it. "In the whitewashed room I stood nine paces off, then five, then three, and three was close enough to frighten me a little. In this notebook I have ten occasions when this man has stood inside two paces of Cael. Six of them across the office counter, with a form between them and a date being argued over. Two in the wing passage. One on the lecture stair, the same step, passing. One at the residence board." She looked up. "Once he stood three places behind you in the board queue for nearly a quarter of an hour. You told me you could hear him turning his notices over."
 
 "I could," said Cael.
 
-"Eleven times inside two paces," said Brom to the ceiling. "Merrick was nearer than that to me four times tonight, and he only wanted the touch."
+"Ten times inside two paces," said Brom to the ceiling. "Merrick was nearer than that to me four times tonight, and he only wanted the touch."
 
-"Merrick isn't the comparison," said Karis, without looking up from her mark. "I am. That's the point of the column."
+"Merrick isn't the comparison," said Karis, still making her mark. "I am. That's the point of the column."
 
 "Third column. How deep." She turned the ledger round on the table and pushed it across to him. He looked down at his own work in her handwriting: the stair tally and its control column, the fifth map with its brown dots laid over the black, the toll at the covered-walk rail, the curve that bent at four hours, the facing page headed *cannot reach*.
 
@@ -168,7 +168,7 @@ He had known it was coming since the reading room. He had known, if he was hones
 
 There had been a loose sheet at the back of the Shadow section a fortnight ago with a single word on it, *conditions*, and a line after the word that went nowhere. He had looked at it for some time one night. Then he had told himself the curve was more urgent, and gone on with the curve, and some days later he had moved the sheet into the third column, among the dead ideas, where it sat between the clock map and the list of the man's acquaintances. Nothing had killed it; he had simply put it there.
 
-The third column was the oldest rule in the binder, older than Ardenmere. When the evidence killed an idea, the idea went in there with its date, so that it could not come back at two in the morning wearing a new coat. That was all the column was for. It was not a cupboard to keep an idea in while the evidence was still busy proving it, and for a fortnight he had kept one there exactly like that, with the door shut.
+The third column was the oldest rule in the binder, older than Ardenmere. When the evidence killed an idea, the idea went in there with its date, so that it could not come back at two in the morning wearing a new coat. That was all the column was for. It was not a cupboard to keep an idea in while the evidence was still busy proving it, and for a fortnight he had kept one there like that, with the door shut.
 
 It was the worst misuse of his own method he had ever caught himself in. And he had not even caught himself. Karis had done it for him, because Karis did not own any such cupboard; she wrote down what she found whether she liked it or not, and then went back six times to make sure.
 

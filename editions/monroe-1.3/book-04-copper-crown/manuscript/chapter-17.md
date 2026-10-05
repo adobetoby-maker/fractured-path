@@ -2,13 +2,13 @@
 
 It rained on Sixth-day, a steady grey rain off the river that ran down the common room's windows in ropes and made the fire sulk.
 
-Brom came in first, wet to the shoulders from the post, with the kettle he had begged from the kitchen gate held against his chest like a rescued cat. Karis came next, with four books from carrel eleven in an oilcloth and a smear of lamp black on her cheek that nobody told her about. Lira was already there. She had been there since before supper, standing at the window with her arms folded, watching the rain as if it had been sent to annoy her personally. When the other two were in, she crossed the room without a word and shut the door, and turned the key, and put the key in her pocket.
+Brom came in first, wet to the shoulders from the post, with the kettle he had begged from the kitchen gate held against his chest like a rescued cat. Karis came next, with four books from carrel eleven in an oilcloth and a smear of lamp black on her cheek that nobody told her about. Lira was already there. She had been there since before supper, standing at the window with her arms folded, watching the rain as if it had been sent to annoy her personally. When the other two were in, she crossed the room and shut the door, and turned the key, and put the key in her pocket.
 
 "Well," said Brom, setting the kettle on the hob. "That's friendly."
 
 "Cael's got something." Lira went back to the window. "I said I'd get you all here and shut the door. I've done both."
 
-Cael had cleared the long table and laid the binder's loose pages out on it in a row, in the order he wanted them read, weighted at the corners with whatever had come to hand: an inkwell, a boot-brush, Karis's spare spectacles, a heel of bread. He had thought for most of the afternoon about how to begin, and had decided in the end to begin as he always began with the three of them now. Evidence first, meaning last. Then if they quarrelled with what he thought, they could quarrel with it straight, and not have to wade through what he had seen to get there.
+Cael had cleared the long table and laid the binder's loose pages out on it in a row, in the order he wanted them read, weighted at the corners with whatever had come to hand: an inkwell, a boot-brush, Karis's spare spectacles, a heel of bread. He had thought for most of the afternoon about how to begin, and had settled on the way he always began with the three of them now.
 
 "I'm going to tell you some numbers," he said. "Then I'm going to tell you what I think they mean. Stop me at the numbers if they're wrong. Don't stop me at the meaning until I've finished."
 
@@ -16,19 +16,17 @@ Cael had cleared the long table and laid the binder's loose pages out on it in a
 
 "That's why I'm saying it." Cael put his finger on the first page. "This is the stair."
 
-He took them through it page by page, in the rain. The fame tally, and what it was for, and its column of falling fractions. The second line, written before he meant to. The two days of not doing anything. The wider count, and the control column beside it, with the desk clerk's nine of fourteen and the oil-and-brass woman's five of eleven and the panel porters' seven of nineteen. And at the bottom, by itself, the fourth line.
+He took them through it page by page, in the rain: the fame tally and its column of falling fractions; the second line, written before he meant to; the wider count, with the control column beside it, the desk clerk's nine of fourteen and the oil-and-brass woman's five of eleven and the panel porters' seven of nineteen. And at the bottom, by itself, the fourth line.
 
 Karis leaned over it. "Thirty-one."
 
 "Thirty-one."
 
-"And none." She did not sound surprised. She sounded as if somebody had handed her a document with a clause missing and she had found the gap before reading the rest. "Go on."
+"And none." She did not sound surprised. "Go on."
 
-He went on. The copying-table man and the four flat readings. The counter, and the four minutes, which made Brom laugh out loud and then apologise and then laugh again behind his hand. The four failed maps, each with its failure written across it in his own capitals. Karis picked up the second, the one marked *KILLED, NO SIGNAL*, and turned it over to see whether he had written anything on the back. He had: the date, and *do not revive*. She nodded at that as if at an old friend.
+He did not walk them through the four dead maps. He went straight to the fifth, the spider, and laid the brown ink over the black.
 
-Then the fifth map. The spider. And the brown ink laid over the black.
-
-Somewhere around the fifth map Karis stopped writing. She had had her notebook out since the stair, copying figures in her small fast hand, and at the fifth map the pen simply stopped, and she sat back with her hands in her lap. Cael knew what that meant. Karis was already at the end. He knew it from the way the pen had stopped: she had reached the conclusion by her own road, and was sitting there now, waiting to see whether he would arrive at the same place by his.
+Karis had been copying figures in her small fast hand since the stair, and at the fifth map her pen stopped, and she sat back with her hands in her lap. Cael knew what that meant. She had reached the end by her own road, and was waiting to see whether he would arrive at the same place by his.
 
 Brom had picked up the overlay and was holding it to the fire, squinting through the two inks.
 
@@ -36,11 +34,11 @@ Brom had picked up the overlay and was holding it to the fire, squinting through
 
 "Nineteen of nineteen," said Cael. "And four holes, all at hours the counter needs him at his desk."
 
-He told them the gallery. The cold hall, the open door's glass, the clerk's pace, the turned post he did not slow at. The four words in the margin. He told them the lamp, twice, and the crack of the Force throw that turned every head in the yard but one, and the porter on the steps with his red paste and his waxed laces, which made even Lira's mouth move.
+He told them the gallery, and the four words in the margin, and the lamp, twice, and the crack of the Force throw that turned every head in the yard but one.
 
 Then he took his hand off the table and gave them the meaning.
 
-"The assistant in Gault's office is a watcher. He's good. He's very good. Shadow Path, Bronze tier, by the classification on his own card, and I believe the card. He's been on the bluff about four weeks. He has never once looked at me, because looking is the one thing that would give him away, and he stands every day exactly where he can see everything I do without being seen to see it." He paused. "I can't prove whose he is. I don't know of anybody on this continent who'd pay a Bronze to copy forms in an assessment wing, except the people who already pay for those coats at the ferry."
+"The assistant in Gault's office is a watcher. He's good. He's very good. Shadow Path, Bronze tier, by the classification on his own card, and I believe the card. He's been on the bluff about four weeks. He has never once looked at me, because looking is the one thing that would give him away, and he stands every day where he can see everything I do without being seen to see it." He paused. "I can't prove whose he is. I don't know of anybody on this continent who'd pay a Bronze to copy forms in an assessment wing, except the people who already pay for those coats at the ferry."
 
 Karis was the first to speak, and she did not argue with the meaning. She tested it.
 
@@ -80,7 +78,7 @@ Brom answered it. He did not sit up to do it. He lay back on the settle with the
 
 "We know where their eyes are. First time ever. Why would we give that back?"
 
-Lira looked at him as if he had kicked her chair.
+Lira turned on him.
 
 "Because they're on Cael."
 
@@ -92,7 +90,7 @@ Lira looked at him as if he had kicked her chair.
 
 Lira opened her mouth, and shut it, and turned to Karis, because Karis was the one who would have the figures, and Lira had always been honest enough to go to the person who would have the figures even when she expected them to go against her.
 
-Karis had shut her notebook. She sat with both palms flat on its cover, as if keeping something in it from getting out.
+Karis had shut her notebook. She sat with both palms flat on its cover.
 
 "I'll give you the sum," she said, "and you can tell me where it's wrong. I'd like it to be wrong." She lifted one hand and set it on the overlay beside Brom's knee. "Today we've found a man. We know his places to the stair-head. We know the one thing that makes him walk away, because Cael found it in an empty hall. We know he's never looked straight at any of us."
 
@@ -104,13 +102,13 @@ She took her hand back. "Tell Withrow, and by the end of the week he's gone. And
 
 The rain had eased. In the quiet it left, the fire settled and spat.
 
-Lira stood a long moment with her back to the window and her thumbnail still on the lead. Then she crossed the room and sat down on the end of the settle by Brom's feet, hard, and Brom moved his feet without being asked.
+Lira stood with her back to the window and her thumbnail still on the lead. Then she crossed the room and sat down on the end of the settle by Brom's feet, hard, and Brom moved his feet without being asked.
 
 "Then it's decided," said Cael.
 
 "It's not settled, it's *outvoted*." Lira said it to the fire. "Put that in. My words. Not yours made nicer."
 
-"Your words." He wrote them in the margin of the overlay, in ink, while she watched, and turned the page round so she could read them. She read them twice and nodded, once, the nod of somebody signing a paper she disagrees with because the vote went the other way and she believes in votes.
+"Your words." He wrote them in the margin of the overlay, in ink, while she watched, and turned the page round so she could read them. She read them twice and nodded: the nod of somebody signing a paper she disagrees with because the vote went the other way and she believes in votes.
 
 ---
 
@@ -192,7 +190,7 @@ She went. Lira was waiting at the foot of the stair. She had heard every word; t
 
 "The read. Late on cords is nothing. Late against somebody who means it is a broken arm." She did not say it unkindly; she said it the way she would have named the angle of a strike. "You'll keep counting. I know you will. So I'm going to tell you the price of my vote, since I didn't win it." She held up one finger. "If he touches your paper wrong, ever, once, a date, a hall, one line in that ledger, that's the morning I go to Withrow myself. Outvoted or not. I won't ask you first."
 
-He studied her face. She was entirely serious, and entirely calm, and he understood that this was not a threat. It was Lira telling him, as she had told him on a hundred floors, exactly where she would be standing when the exchange began.
+He studied her face. She was entirely serious, and entirely calm, and he understood that this was not a threat. It was Lira telling him, as she had told him on a hundred floors, where she would be standing when the exchange began.
 
 "That's fair," he said. "I'll write it under the other three."
 
@@ -234,7 +232,7 @@ The man belonged in the notebook. But the counting was not the man's. It was Cae
 
 *I'm going to keep counting anyway.*
 
-He looked at that line for a long time, and then wrote under it why, because a decision with no reason beside it would turn into a habit the moment his back was turned.
+He looked at that line, and then wrote under it why, because a decision with no reason beside it would turn into a habit the moment his back was turned.
 
 *I can name the post on a gallery where the Compact's eyes rest in the east hall, and the tier they favour in the yard. No one I've ever met has known that much about the people watching them. That's worth a slow read for a season. It's not worth telling myself the read isn't slow, not with a semester evaluation coming that will lay every reading against the baseline. So: price paid with my eyes open, on the page tonight, before the morning it comes due, so that on that morning I can't say I didn't know.*
 

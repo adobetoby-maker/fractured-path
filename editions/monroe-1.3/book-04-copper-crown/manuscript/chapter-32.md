@@ -2,7 +2,7 @@
 
 The fire-watch boy made his fours with a little flat foot on them, like a table leg, and on the second morning that he made one beside the records hall, Cael stopped walking.
 
-He had read the boy's slate every morning since his second week on the bluff. It hung by the covered walk's north arch, too high for its keeper, and at the first bell the boy climbed onto an upturned bucket and chalked up the night's reckoning with the tip of his tongue showing at the corner of his mouth. He was perhaps eleven. He belonged to the fire-watch, two men who walked the bluff all night with a lantern on a pole, out from the residence quadrangles along the administration range to the assessment wing and back again, noting the hour at which each building put its lamps out. The boy kept their count. At noon a bursar's clerk copied it onto a quarter-sheet and took it away, and at the month's end the bursar and the chandler sat down with the quarter-sheets between them and fought over the oil.
+He had read the boy's slate every morning since his second week on the bluff. It hung by the covered walk's north arch, too high for its keeper, and at the first bell the boy climbed onto an upturned bucket and chalked up the night's reckoning with the tip of his tongue showing at the corner of his mouth. He was perhaps ten. He belonged to the fire-watch, two men who walked the bluff all night with a lantern on a pole, out from the residence quadrangles along the administration range to the assessment wing and back again, noting the hour at which each building put its lamps out. The boy kept their count. At noon a bursar's clerk copied it onto a quarter-sheet and took it away, and at the month's end the bursar and the chandler sat down with the quarter-sheets between them and fought over the oil.
 
 Nobody else on the bluff had ever, as far as Cael could see, stopped to read it.
 
@@ -46,7 +46,7 @@ In carrel eleven she swept a pile of founding-era copies to one side with her fo
 
 "Mine."
 
-"Yours. It's the provision drawer. There are eleven provision files in the whole place, back nineteen years. Nine are closed: people who finished, or left, or died. One belongs to a fourth-year woman, Silver, who's here on a medical provision. And yours." She put the pencil down. "Bracken looked yesterday as well, after the first slate. It sat proud yesterday, too. He'd pushed it home himself. It came out again in the night."
+"Yours. It's the provision drawer. There aren't a dozen provision files in the whole place, back nineteen years. Nine are closed: people who finished, or left, or died. One belongs to a fourth-year woman, Silver, who's here on a medical provision. And yours." She put the pencil down. "Bracken looked yesterday as well, after the first slate. It sat proud yesterday, too. He'd pushed it home himself. It came out again in the night."
 
 Cael sat down on the carrel's spare stool, which was covered in Karis's coat, and did not notice he had sat on the coat until much later.
 
@@ -74,7 +74,7 @@ Karis had gone a little pink along the cheekbones, which on her was fury.
 
 "It's a little ridiculous," said Karis, and pressed her lips together, and was quiet.
 
-For a moment Cael did not say anything at all. He was seeing a counter with a chained pen on it, and a man at that counter turning a sheet face down, and the same man the evening before with a copy from the registrar in front of him, reading it at the ninth bell, flatly, the way he read everything.
+Cael did not say anything at all. He was seeing a counter with a chained pen on it, and a man at that counter turning a sheet face down, and the same man the evening before with a copy from the registrar in front of him, reading it at the ninth bell, flatly, the way he read everything.
 
 "Right," said Cael.
 
@@ -84,7 +84,7 @@ He walked the ground in daylight that same morning, before the unit, because he 
 
 The records hall closed off the far end of the administration range like a full stop: a square stone block, two storeys, small barred windows below and tall plain ones above. The ground floor was the enrollment section, where the drawers were. Upstairs was the charter archive, which Karis had been working through since her first week.
 
-There were three ways in, and he walked past each of them once, at a walk, with a book under his arm, as though he were going somewhere else.
+There were three ways in, and he walked past each of them once, at a walk, with a book under his arm and his face turned toward somewhere else.
 
 The main door faced the courtyard, under a stone hood, with the courtyard's lamp across from it. The fire-watch passed it four times a night on their round, Karis had found from the oil-slates. Beside it, set back into the range's wall a step or two along, was a shallow doorway no deeper than a man's arm, with a stone bench built into it. The bench had moss on its seat. Nobody had sat on it, he guessed, in years.
 
@@ -134,7 +134,7 @@ They stood up.
 
 "Go and stand somewhere in this room. Anywhere. Choose the place where a person opening that door would look last." He picked up the ledger. "You have a minute. Then I'm going out, and coming in, and I'm going to tell you where my eyes went, in order."
 
-There was a short confused scramble. The third-year who had been yawning went and stood by the slate, on the grounds, he said, that nobody ever looked at a slate. The Stone girl went to the far corner by the windows. Two of the second-years went and stood against the painted drawers, side by side, as if the two of them together would somehow be less noticeable than either alone.
+There was a short confused scramble. The third-year who had been yawning went and stood by the slate, on the grounds, he said, that nobody ever looked at a slate. The Stone girl went to the far corner by the windows. Two of the second-years went and stood against the painted drawers, side by side, on the theory that two together would be less noticeable than either alone.
 
 Cael stood for a few seconds by his chair and looked at the room.
 
@@ -166,7 +166,7 @@ They sat down and wrote. Gwen wrote it in capitals and underlined it twice and t
 
 "I've never argued with a door before," she whispered. "I think I won."
 
-At the end of the hour Seln set the written exercise without looking up from the ledger, in the same voice he used for everything: *what each position argued, and where the argument failed, one page.* Then he said, "Next week, a crowd," and was gone before the scrape of chairs had finished, so that nobody saw him leave either.
+At the end of the hour Seln set the written exercise from the ledger, in the same voice he used for everything: *what each position argued, and where the argument failed, one page.* Then he said, "Next week, a crowd," and was gone before the scrape of chairs had finished, so that nobody saw him leave either.
 
 Gwen walked out with Cael as far as the covered walk, talking the whole way. Her aunt at Fenmark had said assessors were born, not made, but her aunt had also said that about pastry, and her aunt's pastry was terrible. She had wanted to be an assessor since she was seven. Was it true that the assay provision meant he could never lose a bout? Somebody in the Current hall had said so.
 
@@ -228,6 +228,6 @@ Lira looked at the coat, and at Brom, and then at Cael.
 
 She went out and did not lock the door behind her, which was its own kind of answer.
 
-He slept for two hours before the last bell, straight after supper, because Karis made him, lying on top of his blankets in his clothes with Brom's coat folded over the chair. He had not thought he would sleep at all, and went under at once, the way a stone goes into a pond, and woke without being called as the last bell was ringing, with the river loud and the building ticking round him as it cooled. He put on his own coat and then Brom's over it, the sheepskin collar up round his ears. It smelled of the post and the wash-house and, faintly, of the kettles Brom had been swearing by. In the right-hand pocket there was half an apple that had not been there at supper.
+He slept for two hours before the last bell, straight after supper, because Karis made him, lying on top of his blankets in his clothes with Brom's coat folded over the chair. He had not thought he would sleep at all, and went under at once, and woke without being called as the last bell was ringing, with the river loud and the building ticking round him as it cooled. He put on his own coat and then Brom's over it, the sheepskin collar up round his ears. It smelled of the post and the wash-house and, faintly, of the kettles Brom had been swearing by. In the right-hand pocket there was half an apple that had not been there at supper.
 
 He left it where it was. Brom's condition had been that nothing should be in the pockets that was not there before, and the apple had been there before Cael put the coat on. That was the kind of argument Karis would have accepted. He went quietly along the passage past three shut doors, one of them with a line of lamplight under it that went out as he passed, and down the stair, stepping over the third step, and out into the cold.

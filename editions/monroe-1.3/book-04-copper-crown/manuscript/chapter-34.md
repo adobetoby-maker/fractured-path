@@ -1,6 +1,6 @@
 # Chapter 34 — Already Arrived
 
-He slept three hours of the afternoon, as Lira had told him to, and woke at dusk with the shape of the stair still in his body, the way the sea stays in a sailor's legs.
+He slept three hours of the afternoon, as Lira had told him to, and woke at dusk with the shape of the stair still in his legs.
 
 For a while he lay without moving and took stock, as he always did before anything that mattered. Hip, quiet. Forearm, quiet. The read, when he let it come up along his arms, was there and cheap and on time. Behind his eyes was a dull weight that he knew well and that had nothing to do with any fragment: seven hours of sleep in two nights and a day, and the long cold attention of the gallery and the stair, drawn out of the same purse as everything else he paid for with his eyes. He noted it. He did not like it. It would have to do.
 
@@ -14,13 +14,13 @@ He read it twice, and then he turned to the page headed *READ FIRST* in his own 
 
 Then he put the Log away, and went down to supper, and ate everything Brom put in front of him, which was a great deal.
 
-Before supper there had been a series of slow thumps on the far side of his door, at long even intervals, as if somebody were trying very patiently to push the residence over. He opened it and found Brom in the passage with both forearms braced against the door frame opposite, sweating, his left heel rising and being forced down again.
+Before supper there had been a series of slow thumps on the far side of his door, at long even intervals: somebody, very patiently, pushing at the residence. He opened it and found Brom in the passage with both forearms braced against the door frame opposite, sweating, his left heel rising and being forced down again.
 
 "Thirteen," said Brom, without turning his head. "Rooke calls it the frame. I call it something else. Karis is in her room with the notebook, waiting to hear the number through the wall." He set the heel down and shifted. "Thirty-one. Go back to bed. You look like a man somebody's drawn in chalk."
 
 Cael lay down again and did not sleep, but listened to somebody leaning on a building, and found it the most restful sound in the world.
 
-Nobody at the table asked whether he was going. Karis talked about the transitional article of a directive nobody else had read. Brom described exercise thirteen, which involved a door frame and was, he said, the worst so far by a distance he could not express in feet. Lira ate with her eyes on her plate and said almost nothing. When they got up she walked beside him as far as the foot of the residence stair, and stopped there, and looked at him for a moment as if she were reading the standings.
+Nobody at the table asked whether he was going. Karis talked about the transitional article of a directive nobody else had read. Brom described exercise thirteen, which involved a door frame and was, he said, the worst so far by a distance he could not express in feet. Lira ate with her eyes on her plate and said almost nothing. When they got up she walked beside him as far as the foot of the residence stair, and stopped there, and looked him over once, top to bottom, as she looked over the standings.
 
 "Hand up," she said.
 
@@ -40,15 +40,15 @@ He folded it into the back of the Log, beside the minute and the plan and the fo
 
 The second hour found him folded into the landing's corner again, Brom's coat round him like a tent, palms down on his knees.
 
-He had come up the lower flight by the count, stepping over the ninth without thinking, and found the corner by touch, as if he had been coming to it all his life. That frightened him a little. Three nights, and the stair had gone into him the way the bluff road had, one more place his feet knew without asking him.
+He had come up the lower flight by the count, stepping over the ninth without thinking, and found the corner by touch without having to look for it. That frightened him a little. Three nights, and the stair had gone into him like the bluff road, one more place his feet knew without asking him.
 
 Tonight he did not need to argue anything. He only had to be where he had said he would be.
 
 So he sat, and let the cold come up into him through the stone, and took his mind for a walk round the things he could not see. The bench in the courtyard, with its moss. The drawer, a hair proud, that Bracken would have pushed home again before supper. The shuttered windows of the archive above him, and the long dark rooms behind them where Karis's founding-era copies had come from, and where, for all he knew, nobody had stood after dark in a hundred years. He did not let his mind go up the upper flight. He kept it on the landing, with him, where it had been told to stay.
 
-The building made its night noises round him, and on the third night he knew them all. The stone ticked as it gave up the day's last warmth, a small dry sound somewhere in the wall at his back, like a clock that had lost interest in keeping time. High up in the archive a shutter that had not been properly fastened knocked against its frame whenever the wind came round to the east, three or four soft knocks and then silence for a long while. Once, far off across the bluff, a dog barked twice and was told to be quiet. And under all of it, the whole time, came the river, never stopping, so steady that he only heard it when he listened for it, the way you only hear your own heart when you put your hand flat on your chest.
+The building made its night noises round him, and on the third night he knew them all. The stone ticked as it gave up the day's last warmth, a small dry sound somewhere in the wall at his back, like a clock that had lost interest in keeping time. High up in the archive a shutter that had not been properly fastened knocked against its frame whenever the wind came round to the east, three or four soft knocks and then silence for a long while. Once, far off across the bluff, a dog barked twice and was told to be quiet. And under all of it, the whole time, came the river, never stopping, so steady that he only heard it when he listened for it.
 
-The window changed as the cloud moved. For a while it was nearly black. Then the cloud thinned over the moon, and the grey came up in the glass until he could see the shapes of the lead between the panes, and a faint pale wash of it lay across the edge of the landing two feet from his boots, and stopped there, as if it had been told about the corner. Then the cloud thickened again, and the grey went down.
+The window changed as the cloud moved. For a while it was nearly black. Then the cloud thinned over the moon, and the grey came up in the glass until he could see the shapes of the lead between the panes, and a faint pale wash of it lay across the edge of the landing two feet from his boots, and stopped there, short of the corner. Then the cloud thickened again, and the grey went down.
 
 He thought of Lira at her window, with the low lamp, awake. He thought of Brom asleep with his latch up. He thought of Karis's *before*, folded in the back of the Log, *taken while nothing was wrong*, and of how odd it was to have a sheet of paper that said what you were on a particular evening, so that later you could hold it up against yourself, like a coat you had grown out of, and see where it no longer reached.
 
@@ -62,11 +62,11 @@ A man stepped inside and stood still.
 
 Cael counted to twenty, slowly, before the man moved again. That was right. You came into a dark place and stood, and let it tell you whether it was empty, before you went through it.
 
-His climb, when it came, was even: no hurry, no creeping, a man who had taken this flight before and knew how many steps were in it. On the ninth step the slab rocked and knocked, loud as a knuckle on wood. The man stopped dead with his weight still on it, and Cael held his breath. For a long moment the man stood listening to the building, and the building told him nothing. Then he lifted his weight off the ninth step so slowly that it settled without a second knock, and came on up onto the landing.
+His climb, when it came, was even: no hurry, no creeping, a man who had taken this flight before and knew how many steps were in it. On the ninth step the slab rocked and knocked, loud as a knuckle on wood. The man stopped dead with his weight still on it, and Cael held his breath. The man stood listening to the building, and the building told him nothing. Then he lifted his weight off the ninth step so slowly that it settled without a second knock, and came on up onto the landing.
 
 He went by on the window side, four feet from Cael's knees, looking up the next flight.
 
-He never saw him. The grey from the window stopped a yard short of the corner, and a man come to read a drawer has no interest in landings; his eyes are already at the top of the stair, where the drawer is. Four feet was enough. Cael took him in all at once, the way lightning hands you a whole room. Not big. Neither young nor old, somewhere in the middle of his years. A dark coat. Gloves. His bag rode on his chest, not his hip, its strap cinched short: the way a man carries a bag he may need to run with. And as he passed, a smell of lamp oil, and behind it something sharper, the spirit smell of the little bottles Karis cleaned her nibs in.
+He never saw him. The grey from the window stopped a yard short of the corner, and a man come to read a drawer has no interest in landings; his eyes are already at the top of the stair, where the drawer is. Four feet was enough. Cael took him in all at once, in the one look he would get. Not big. Neither young nor old, somewhere in the middle of his years. A dark coat. Gloves. His bag rode on his chest, not his hip, its strap cinched short, for running. And as he passed, a smell of lamp oil, and behind it something sharper, the spirit smell of the little bottles Karis cleaned her nibs in.
 
 Ink, and spirit to dry it fast. A copying kit.
 
@@ -108,31 +108,31 @@ The glove came back out into the light with nothing in it.
 
 The man with the bag sat down where he had been told, slowly, with his empty hands on his knees.
 
-"The registrar is crossing the courtyard," Seln went on, in the same voice, as if reading the next line of the same form. "Counsel is with him, and two fire-watch men. They came out four minutes ago. A man listening to the house, and not the keyhole, would have heard them."
+"The registrar is crossing the courtyard," Seln went on, in the same voice, reading the next line of the same form. "Counsel is with him, and two fire-watch men. They came out four minutes ago. A man listening to the house, and not the keyhole, would have heard them."
 
-And eleven feet down, in the black of the corner, the reach began.
+And a flight below, in the black of the corner, the reach began.
 
 ---
 
 He counted the rule on his fingers against his knee, because his mind would not hold a sentence just then and his hand could hold five things.
 
-*Earnest*, the thumb: a man in a doorway spending his name and his post and every careful year he had ever worked, in the light, meaning every word. *His*, the first finger: begun by him, on his own account, before Cael had known there was anything to begin. *Close*: eleven feet. *His work*: a records office being read in the dark, and the officer of the wing that kept the records, doing what he was there to do. *Awake*: the little finger, and Cael was more awake than he had ever been in his life.
+*Earnest*, the thumb: a man in a doorway spending his name and his post and every careful year he had ever worked, in the light, meaning every word. *His*, the first finger: begun by him, on his own account, before Cael had known there was anything to begin. *Close*: one flight of stairs. *His work*: a records office being read in the dark, and the officer of the wing that kept the records, doing what he was there to do. *Awake*: the little finger, and Cael was more awake than he had ever been in his life.
 
 Five fingers down flat on the cloth of Brom's coat. Cael had not led the man here, or nudged him, or made the night. He had sat on a stair.
 
 So he did not do it the way he did a burst, all at once, before thinking could catch up. He did it slowly, on purpose, on cold stone, in a building where being found would end the one true sentence ever written about him, knowing exactly what he did and to whom. The knowing was the price. He had written that down before he came out.
 
-The formal yard at Greyvane had been the only other time: Karis's little fires springing out of the frozen ground, and his own hand groping in the middle of a fight for something he did not yet know was there. Now it was like putting his hand into a basin of dark water for something he had dropped, knowing exactly where it lay on the bottom.
+The formal yard at Greyvane had been the only other time: Karis's little fires springing out of the frozen ground, and his own hand groping in the middle of a fight for something he did not yet know was there. Now it was like putting his hand into a basin of dark water for something he had dropped, knowing where it lay on the bottom.
 
 Then the quiet came.
 
-Five times before he had felt it, and it was the same now: a hush starting in the middle of him and going out to his edges, as if a heavy door had swung shut on the night. The stair's sounds went. The yellow light above went flat and colourless, light in a painting. At the head of the flight Seln's mouth was moving, and the man on the step was answering, and Cael heard none of it.
+Five times before he had felt it, and it was the same now: a hush starting in the middle of him and going out to his edges, a heavy door swung shut on the night. The stair's sounds went. The yellow light above went flat and colourless, light in a painting. At the head of the flight Seln's mouth was moving, and the man on the step was answering, and Cael heard none of it.
 
-When the sound came back, the man on the step had a different set to his shoulders, and Seln had moved half a pace further into the light, and between those two pictures was a gap Cael would never get back. Three seconds of it, four, perhaps more: the thing he had sat three nights in the cold to see, going on eleven feet above him without him. He knew while it happened that this was what it cost, and that he would be furious about it later, and that there was nothing at all to be done.
+When the sound came back, the man on the step had a different set to his shoulders, and Seln had moved half a pace further into the light, and between those two pictures was a gap Cael would never get back. Three seconds of it, four, perhaps more: the thing he had sat three nights in the cold to see, going on a flight above him without him. He knew while it happened that this was what it cost, and that he would be furious about it later, and that there was nothing at all to be done.
 
 Then it settled.
 
-Every other thing he carried had come to live somewhere inside him: the hip, the ribs, the bones of the forearms, the breastbone, and the read lying over his skin. This one did not come in at all. It stopped short of him. It came to rest in the air round him: the half-yard or so that everybody wears like an invisible coat and never notices, out to the line where a person ends and a room starts. For one long moment that margin had a setting to it, a wick he could have turned up or down. And through it he felt the whole stair as a field of attention, with directions running through it like currents in a slow river. The intruder's was pinned to the doorway, as tight and narrow as a moth on a card. Seln's lay spread out flat over the landing and the flights and the whole building in a way Cael had no word for. Down in the courtyard there was a loose thin scatter of four more, none of it pointed anywhere near a boy in a corner.
+Every other thing he carried had come to live somewhere inside him: the hip, the ribs, the bones of the forearms, the breastbone, and the read lying over his skin. This one did not come in at all. It stopped short of him. It came to rest in the air round him: the half-yard or so that everybody wears like an invisible coat and never notices, out to the line where a person ends and a room starts. While it lasted, that margin had a setting to it, a wick he could have turned up or down. And through it he felt the whole stair as a field of attention, with directions running through it like currents in a slow river. The intruder's was pinned to the doorway, as tight and narrow as a moth on a card. Seln's lay spread out flat over the landing and the flights and the whole building in a way Cael had no word for. Down in the courtyard there was a loose thin scatter of four more, none of it pointed anywhere near a boy in a corner.
 
 Then it let go, all at once, like a held breath. Cold stone under him. His heart going like a drum. Both hands trembling where they lay. Then the notice.
 
@@ -149,7 +149,7 @@ Twice through. After that, for a while, reading it was all he could do.
 
 Three things on that page had never been on any page before.
 
-*Bronze.* Every other time, in that place, it had said *unknown*, and he had built a whole small private theory on the word: that whatever wrote these lines could tell what kind of thing it had given him but could not weigh it, and that weighing was some other instrument's business, in some registry, in somebody else's hand. Tonight it had weighed. It had set down a tier as plainly as Bracken's sheet set down *Copper*, as if it had been able to all along and had only now decided he was owed a number.
+*Bronze.* Every other time, in that place, it had said *unknown*, and he had built a whole small private theory on the word: that whatever wrote these lines could tell what kind of thing it had given him but could not weigh it, and that weighing was some other instrument's business, in some registry, in somebody else's hand. Tonight it had weighed. It had set down a tier as plainly as Bracken's sheet set down *Copper*. Perhaps it had always been able to, and had only now decided he was owed a number.
 
 *Presence-suppression component; movement-masking component.* Two parts. Every note before had named one. This one had two, a semicolon holding them apart, and they stood in the very order he had found them on this stair: the eye-half on the first night, the ear-half on the second. He could not tell yet whether that was nothing, or the thing he would still be turning over in ten years.
 
@@ -169,7 +169,7 @@ Above him the light grew and swung. A lantern was coming up through the archive 
 
 Nobody came down the stair.
 
-Long afterward, it was not the notice that Cael kept coming back to. It was this. The man in the doorway had stood there in the light through all of it, and in the dark for however long before. The doorway looked straight down the upper flight. At its foot was a half-landing he had given to a second man two nights running. He knew exactly who sat in its corner. He had known for three nights.
+Long afterward, it was not the notice that Cael kept coming back to. It was this. The man in the doorway had stood there in the light through all of it, and in the dark for however long before. The doorway looked straight down the upper flight. At its foot was a half-landing he had given to a second man two nights running. He knew who sat in its corner. He had known for three nights.
 
 In all that time, he never once turned his eyes down the flight.
 
@@ -201,7 +201,7 @@ He wrote it against the wall of the covered walk under its one night lamp, stand
 
 *I aimed it. I felt myself aim. Brom told me the first week I had the read that it would never come if I went hunting for it. I took that as a fact about the read. Tonight says it was a fact about me.*
 
-*A guess, an hour old, which I expect to throw away: perhaps this one needs me not to be the watcher. All the others are things I point. This may only work when I'm pointing at nothing at all. And if so, the two halves are going to quarrel in my hands. Moving inside a building's noise means listening to the building, and listening is pointing, and pointing is exactly what the other half needs me to stop.*
+*A guess, an hour old, which I expect to throw away: perhaps this one needs me not to be the watcher. All the others are things I point. This may only work when I'm pointing at nothing at all. And if so, the two halves are going to quarrel in my hands. Moving inside a building's noise means listening to the building, and listening is pointing, and pointing is what the other half needs me to stop.*
 
 *Then it's a year's work.*
 

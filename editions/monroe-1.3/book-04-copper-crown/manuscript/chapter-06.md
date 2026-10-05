@@ -10,7 +10,7 @@ He walked the north edge first, where the three long halls stood with their high
 
 He did not try the key. He wrote that down too.
 
-The assessment wing had its own wall and its own gate, and through an open door on the ground floor he counted pieces of apparatus standing along a wall under cloths. There were eleven, and he could guess the purpose of four. The library was the heavy-roofed building he had picked out from the bridge, and an accession board inside its door claimed forty-one thousand volumes in brass numerals. Karis, when he told her that night, said that accession boards counted everything a library had ever been given, including the things it had since burned for being damp, and that she would believe thirty-five.
+The assessment wing had its own wall and its own gate, and through an open door on the ground floor he counted pieces of apparatus standing along a wall under cloths. There were a dozen, and he could guess the purpose of four. The library was the heavy-roofed building he had picked out from the bridge, and an accession board inside its door claimed forty-one thousand volumes in brass numerals. Karis, when he told her that night, said that accession boards counted everything a library had ever been given, including the things it had since burned for being damp, and that she would believe thirty-five.
 
 The residence was three quadrangles, and it was the residence that gave him the first true line.
 
@@ -22,7 +22,7 @@ The first quadrangle was the oldest and had the best rooms, with deep windows an
 
 "Didn't enter," said the porter, and shrugged. "Never do, those two. Good lads."
 
-Cael wrote that down in the notebook, and then sat on the steps of the second quadrangle for a long time looking at it.
+Cael wrote that down in the notebook, and then sat on the steps of the second quadrangle looking at it.
 
 Lira found him there a little after the second bell. She had been up before him, which was usual, and she had already walked the whole of the Crown yard's rim once, slowly, and stood a long while at the registrar's table at its side, where the ladder list lay open for names. She had not written hers.
 
@@ -126,7 +126,7 @@ Karis leaned over and read the three names upside down.
 
 "I'm going to listen to him tell me things he thinks are dull. It's not the same." He capped his pen. "People tell you the most when they think it doesn't matter."
 
-Karis looked at him for a moment with an odd expression, half amused and half something else.
+Karis gave him an odd look, half amused and half something else.
 
 "You know that's what you do too," she said. "Every time you write in that book in front of us. You think it's the dull parts we don't notice."
 
@@ -200,7 +200,7 @@ The porter stopped wiping.
 
 He took Brom down to Ostrand on the ninth evening, because Brom needed new wraps before his first cohort hour. He had been assessed that morning in the east hall and placed in the Blade instructor's cohort, and the first hour was set for the following week. About the assessment he had said only that the cohort was fast, and Cael had decided not to ask him for more.
 
-They crossed the bridge on foot, and Brom paid, and said very little on the way over. He walked a little faster than usual, and twice Cael caught him turning his right hand over and looking at the back of it, the way he looked at a joint after a fall to see whether it had swollen, though he had not fallen and nothing on him was swollen. Cael watched him do it the second time and did not ask. Brom had a face on him that was not ready yet, and Brom always came out with things in his own time and never before.
+They crossed the bridge on foot, and Brom paid, and said very little on the way over. He walked a little faster than usual, and twice Cael caught him turning his right hand over and looking at the back of it. Nothing on it was swollen. Cael watched him do it the second time and did not ask. Brom had a face on him that was not ready yet, and Brom always came out with things in his own time and never before.
 
 On the river street, in the long light, they walked past what Cael had come down to see. Every second shop near the bridge foot sold the same things, wraps and soft-soled shoes and quilted jackets hung in the windows like washing, and nobody kept a row of shops like that alive on passing trade: somebody up the hill was buying all of it, every season, by the cartload. Along the river road the lodging houses had boards out by their doors, freshly painted over older paint that said the same: *Term lets. Rooms by the term. Academy families welcome.*
 

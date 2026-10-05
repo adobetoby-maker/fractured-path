@@ -30,7 +30,7 @@ She signed, in her quick slanting hand, in the sixty-fifth line, and blotted it 
 
 Then she asked to see last season's closing order, and the clerk, who had plainly decided by now she was the most alarming person he would meet that week, brought it out from under the table without argument.
 
-Cael watched her read it. She went down the Copper column slowly, lips moving, and he knew what she was doing because he was doing it himself beside her. Last season's order stood at the top of the column; the new names would be added beneath it in the order of the book; the bottom was the sixty-fifth line, and the sixty-fifth line was hers. Between a session's paired bouts a practitioner could call out anybody above her in her own column, four names up and no further, and if she won, the place was hers and everybody she had passed slipped down one. Four rungs at a time, then, on a ladder of better than two hundred. Fewer than that, once the column settled, because a great many of the names below the seeded few would never climb at all. But even if she won every challenge she was allowed, in every window the board marked in red, she would need most of the season simply to arrive among the people she meant to beat.
+Cael watched her read it. She went down the Copper column slowly, lips moving, and he knew what she was doing because he was doing it himself beside her. Last season's order stood at the top of the column; the new names would be added beneath it in the order of the book; the bottom was the sixty-fifth line, and the sixty-fifth line was hers. Between a session's paired bouts a practitioner could call out anybody above her in her own column, four names up and no further, and if she won, the place was hers and everybody she had passed slipped down one. Four rungs at a time, then, up a column that already ran to sixty-five lines and would run longer before the brackets posted. But even if she won every challenge she was allowed, in every window the board marked in red, she would need most of the season simply to arrive among the people she meant to beat.
 
 "Sixteen," said Lira, under her breath. "If I win every one. If they let me call out every window." She handed the book back. "Thank you."
 
@@ -52,9 +52,9 @@ It was a good way to fight. Against anybody who came straight at him, it was ver
 
 Lira came straight at him.
 
-She came fast and low with the Wind at her heels and her weight forward, exactly as she had come at Cael on cracked stone behind the residence wing all term, and the Stone fourth-year set his feet. Cael felt it from the third tier as a kind of change in the air of the floor, like a door shutting somewhere in a big house. The anchor took. Lira hit the space in front of it, and his answering strike came off the planted feet with his shoulders behind it, and it took her on the upper arm and turned her half round.
+She came fast and low with the Wind at her heels and her weight forward, as she had come at Cael on cracked stone behind the residence wing all term, and the Stone fourth-year set his feet. Cael felt it from the third tier as a kind of change in the air of the floor, like a door shutting somewhere in a big house. The anchor took. Lira hit the space in front of it, and his answering strike came off the planted feet with his shoulders behind it, and it took her on the upper arm and turned her half round.
 
-"Touch," said the instructor at the table, without looking up from the register. "Stone. One."
+"Touch," said the instructor at the table, without lifting his eyes from the register. "Stone. One."
 
 The tiers stirred. Somebody near Cael said, not quietly, "That's the transfer?"
 
@@ -174,7 +174,7 @@ Lira did not look after her. But on the walk back to the quadrangle she asked Ca
 
 "A minute and a half," said Cael. "Near enough. Both her bad openings fell inside it."
 
-Lira nodded, and said nothing else. Cael wrote it down that night on two pages, Fiske's and Lira's, with the same date, and drew a small line from one to the other in the margin. He did not know yet what the line meant, and he was not going to guess.
+Lira nodded, and said nothing else. That night it went onto two pages of the notebook, Fiske's and Lira's, with the same date and a small line drawn from one to the other in the margin. He did not know yet what the line meant, and he was not going to guess.
 
 ---
 

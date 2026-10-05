@@ -40,7 +40,8 @@ Development: about 18 Cael beats (the peak of the middle third). Supporting: Lir
 - Zerin was Kindled at fourteen and has been in the program since twelve. Marek's rank "came late" (registration, not Kindling). See BOOK_MAP §12 C1.
 - Karis does not rehearse the improvisation privately beforehand; "it wasn't decided" must stand. Earlier movements planted only her charting of other people's configurations.
 - No meta reference: "Third book of my life" becomes "my line, from Greyvane, said about the registry, in triumph" (C10).
-- Brom's review stays notice-only. The Velmere letter's text is verbatim; nothing is added from his sister.
+- Brom's review stays notice-only. The Velmere letter's text is verbatim; nothing is added from his sister. Any board, plaque or certified record quoted uses B4's notation, "bouts unbeaten / bouts lost" [B4-reconciled 2026-10-05: audit C8].
+- Lira's Zerin "burst shoulder" is sided and kept distinct from Cael's right (plate) shoulder and his left (grappler) seam [B4-reconciled 2026-10-05: audit C5].
 - The chair stays empty all movement.
 - Six fragments; Cael does not fight in this movement.
 - Reader Standard; injuries carry cost without gore.

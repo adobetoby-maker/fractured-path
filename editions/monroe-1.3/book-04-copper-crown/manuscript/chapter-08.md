@@ -34,7 +34,7 @@ Lira was looking at him with an expression Cael could not read at all.
 
 The east hall's gallery ran along its north wall at the height of a man's head, a narrow timber walk with a rail and a bench, reached by a stair so steep it was nearly a ladder. Cael climbed it a little before the fourth bell and sat at the far end, where he could see the whole floor without leaning.
 
-From above, the floor looked like a pale lake. The boards ran the long way of the hall, oak, close-laid and polished by feet to a dull shine, and when the cohort came in and began to warm up he could feel it through the bench: a faint give, a faint return, as if the whole hall were breathing very slowly under them. He had written that down on his first morning on the bluff without knowing why it mattered. He wrote it again now, beside the date, with a line under it.
+From above, the floor looked like a pale lake. The boards ran the long way of the hall, oak, close-laid and polished by feet to a dull shine, and when the cohort came in and began to warm up he could feel it through the bench: a faint give, a faint return. He had written that down on his first morning on the bluff without knowing why it mattered. He wrote it again now, beside the date, with a line under it.
 
 There were fourteen in Rooke's cohort, and Rooke himself stood at the west end of the floor and did nothing.
 
@@ -72,7 +72,7 @@ He could see Brom counting, his lips moving after each touch.
 
 Somewhere around the twentieth minute the lips stopped moving.
 
-Cael wrote that down, because he knew exactly what it meant. Brom had counted everything for as long as Cael had known him: tallies in the pocket book, days of the clause, coppers on toll ledges. He had stopped counting because the count had begun to take some of the attention he needed for the next touch, and he had chosen the next touch. It was the first time Cael had known a count lose.
+Cael wrote that down, because he knew what it meant. Brom had counted everything for as long as Cael had known him: tallies in the pocket book, days of the clause, coppers on toll ledges. He had stopped counting because the count had begun to take some of the attention he needed for the next touch, and he had chosen the next touch. It was the first time Cael had known a count lose.
 
 By the end of the hour Cael's own tally, kept in the margin in groups of five, stood at forty-three. Brom had touched somebody back perhaps six times, all of them against the tall one, and all of them the same way, and the tall one had stopped letting him after the sixth.
 
@@ -90,7 +90,7 @@ At the fifth bell Brom came into the second-quadrangle common room, ignored ever
 
 He did not say anything. At the table Lira had spent most of the afternoon not filling in a ladder form; she raised her eyes to Cael, and he gave the smallest shake of his head. Karis put her pen down; the room's other occupants, two Iron girls arguing about a lecture, went on arguing about it. Brom sat with his hands on his knees and his eyes shut and his breathing slow and even, and the clock on the mantel ticked through most of a minute and a half.
 
-Then he got up, without a word, went to the cold-store at the end of the passage, came back with an ice wrap, sat down again on the floor, and laid it across his left shoulder.
+Then he got up, went to the cold-store at the end of the passage, came back with an ice wrap, sat down again on the floor, and laid it across his left shoulder.
 
 Nobody had told him to. In two years Cael had never once seen Brom fetch ice for himself without being nagged, and it said more than the tallies in the margin.
 
@@ -104,7 +104,7 @@ Nobody had told him to. In two years Cael had never once seen Brom fetch ice for
 
 Brom opened his eyes.
 
-"Was it forty-three?" Brom sounded interested, as if it were somebody else's figure. "I lost the count. The whole of last year, the Ironyard and Greyvane together, I don't believe anybody got through to me forty-three times." He shifted the ice. "And nobody was out to hurt me. That's what I keep coming back to. Not one of the four wanted me hurt. They were all just right. Over and over again."
+"Was it forty-three?" Brom sounded only interested. "I lost the count. The whole of last year, the Ironyard and Greyvane together, I don't believe anybody got through to me forty-three times." He shifted the ice. "And nobody was out to hurt me. That's what I keep coming back to. Not one of the four wanted me hurt. They were all just right. Over and over again."
 
 "You're Iron-equivalent," said Lira. She said it a little sharply, the way she said things she was going to defend. "Two years of circuit ratings. Greyvane's defensive cohort in a term."
 
@@ -170,7 +170,7 @@ Ephram came off the wall with his weight forward and stopped two paces out. He s
 
 Three sales and a delivery, in perhaps four breaths. Ephram had spent a little balance three times and recovered it each time in the same step. Brom had spent the whole length of his gap three times over, and on the fourth time had nothing left in it.
 
-Brom tried, on the eighth day, simply not to read. He stood under the feeds with his weight dead and let them go by, which was the obvious answer, and Ephram watched him do it for one exchange and then stopped feeding and struck. No read meant no turn, and without the turn there was nothing left of Brom but size. He accepted the touch with a slow nod, as though he had seen it coming, and went back to reading. He did not know another way to stand.
+Brom tried, on the eighth day, simply not to read. He stood under the feeds with his weight dead and let them go by, which was the obvious answer, and Ephram watched him do it for one exchange and then stopped feeding and struck. No read meant no turn, and without the turn there was nothing left of Brom but size. He accepted the touch with a slow nod and went back to reading. He did not know another way to stand.
 
 Across that week Cael watched it get worse instead of better, which he had not expected.
 
@@ -214,7 +214,7 @@ He wound the wrap back on.
 
 Cael looked at him.
 
-"Not because I don't want it." Brom said it slowly, choosing each word as if it might bear weight. "Because I do. If you show me, I'll learn your answer to him, and I'll use it, and it'll work for a week. Then he'll see it, the way they all see everything, and I'll be back on the floor with my old turn and your patch over the top of it." He looked down at his wrist. "Rooke didn't say he'd patch it. He said he'd take it apart. I want to find out what's under it."
+"Not because I don't want it." Brom said it slowly, choosing each word. "Because I do. If you show me, I'll learn your answer to him, and I'll use it, and it'll work for a week. Then he'll see it, the way they all see everything, and I'll be back on the floor with my old turn and your patch over the top of it." He looked down at his wrist. "Rooke didn't say he'd patch it. He said he'd take it apart. I want to find out what's under it."
 
 "That could take the whole season."
 
@@ -230,6 +230,8 @@ He was thinking of Wray on the last morning, standing on her stone with her slat
 
 He looked at Brom's wrapped wrist on the coping, at the ink he could no longer see, and was surprised by how sharply he envied it.
 
-*Brom has a man who'll make him worse on purpose and tell him so in advance,* he wrote that night. *I have a provision, a panel, and a man with instruments. Nobody here is going to make me worse for a season so I can be better after it. That's mine to do, if it's done.*
+That night the binder got it plainly.
+
+*Brom has a man who'll make him worse on purpose and tell him so in advance. I have a provision, a panel, and a man with instruments. Nobody here is going to make me worse for a season so I can be better after it. That's mine to do, if it's done.*
 
 *Write that down before it turns into self-pity. It isn't, yet.*

@@ -56,11 +56,11 @@ He had not known it had looked any different. He believed her.
 
 "It happened," he said. "It said Bronze. It's never said anything in that place before."
 
-Lira looked at his face, and at his hands, which had not stopped shaking, and at Brom's coat. Then she reached out very quickly and put two fingers on the coat's sleeve at his wrist, and took them away again, as if making sure he was there.
+Lira looked at his face, and at his hands, which had not stopped shaking, and at Brom's coat. Then she reached out very quickly and put two fingers on the coat's sleeve at his wrist, and took them away again.
 
 "Go and wake Brom," she said. "If you leave it till breakfast he'll never forgive you. He's been sleeping with his latch up since the first night. And then go to bed. Under the blankets, not on the floor."
 
-Brom woke the moment the door opened, the way a soldier wakes, and lay on his back in the dark looking at the shape in the doorway.
+Brom woke the moment the door opened, and lay on his back in the dark looking at the shape in the doorway.
 
 "Well?"
 
@@ -90,9 +90,9 @@ It was true, and it was not enough. So he set the cost out under it piece by pie
 
 *I don't know what that means. Filed.*
 
-He sat with the pen lifted after that for a long time, and wrote nothing more, and the window went slowly from black to the colour of slate.
+He sat with the pen lifted after that, and wrote nothing more, and the window went slowly from black to the colour of slate.
 
-At the fourth bell the deferral went into the wing in his own hand, on the wing's own form: *training deferral requested, eight days, on grounds of accumulated fatigue.* It was true: seven hours' sleep in three nights, and anybody could have signed for it from his face. The desk clerk read it, and looked at him over the top of it with real kindness, and told him he looked dreadful and should go to bed. Then she initialled it, and stamped it, and dropped it in Gault's tray. By noon it was back on the residence board with Gault's initial and the purple ring of the stamp, approved without a word, as the wing approved four such forms a week. It was the only mark the whole business would ever leave in any office on the bluff, and it said, correctly, that a boy was tired.
+At the fourth bell the deferral went into the wing in his own hand, on the wing's own form: *training deferral requested, eight days, on grounds of accumulated fatigue.* It was true: seven hours' sleep in three nights, and anybody could have signed for it from his face. The desk clerk read it, and looked at him over the top of it with real kindness, and told him he looked dreadful and should go to bed. Then she initialled it, and stamped it, and dropped it in Gault's tray. By noon it was back on the residence board with Gault's initial and the purple ring of the stamp, approved, as the wing approved four such forms a week. It was the only mark the whole business would ever leave in any office on the bluff, and it said, correctly, that a boy was tired.
 
 The copying table was empty that morning. The desk clerk mentioned, to the room at large, that the assistant had been up all night over a bother in the records hall and had been sent to sleep it off. Cael pinned his copy of the form into the back of the Log and did not look at the chair.
 
@@ -102,13 +102,13 @@ He kept the covenant, and did not train on the first day or the second. He sat i
 
 "Yes."
 
-"Good." She shifted the book. "In thirty years I've signed off a great many people who should have asked for eight days and didn't, because they thought asking was the same as being weak. Most of them I signed off for a good deal longer than eight days, afterward, with a splint." She nodded at him, once, briskly, as if he had answered a question correctly in a lecture. "Sleep. Eat. Come back on the ninth day and show me your feet."
+"Good." She shifted the book. "In thirty years I've signed off a great many people who should have asked for eight days and didn't, because they thought asking was the same as being weak. Most of them I signed off for a good deal longer than eight days, afterward, with a splint." She gave him a brisk nod, the nod she kept for a right answer in a lecture. "Sleep. Eat. Come back on the ninth day and show me your feet."
 
 She went on along the walk. He stood looking after her, and found that he was very nearly smiling, which on that particular afternoon he had not expected to do.
 
 On the second evening Lira walked him the length of the river street and back at a stroll, because, she said, three nights sitting in the cold made a body forget it was a body, and walking reminded it.
 
-On both mornings he went out to the coping at first light, and on both mornings it was two and two at the ferry landing, on the bell, and two and two at the road's foot. The man with the stiff knee came on at the fourth hour of the second day, exactly as he had come on the morning after the pin, and stood under the lamp with his hands in his pockets, and looked at the river. Whatever the wing had written about a records-broker on a stair, it had not had a boy in it. Cael wrote *two and two* in the margin both mornings, and under the second, very small: *still*.
+On both mornings he went out to the coping at first light, and on both mornings it was two and two at the ferry landing, on the bell, and two and two at the road's foot. The man with the stiff knee came on at the fourth hour of the second day, as he had come on the morning after the pin, and stood under the lamp with his hands in his pockets, and looked at the river. Whatever the wing had written about a records-broker on a stair, it had not had a boy in it. Cael wrote *two and two* in the margin both mornings, and under the second, very small: *still*.
 
 Under all of it, all the time, was the sixth fragment.
 
@@ -124,11 +124,11 @@ He told her about the lamp on one cheek, and that he had not touched it, and she
 
 The Wind went on the fourth morning, a little over ninety-six hours after the stair.
 
-Until then the integration had gone well, by every number Karis had. The second quadrangle before the first bell was empty except for the two of them, and so cold that their breath hung in the grey light coming down over the roofs onto the flagstones. Nobody signed for flagstones, and nothing done on them went into any wing's book. They had agreed on a third of Lira's pace; she had said yes to the number as if it were a bad price at a market. Eight sequences went by clean. On the ninth she came in from the right, slow, and he dropped his hips for the lateral and went to the place where the Wind lived, and asked.
+Until then the integration had gone well, by every number Karis had. The second quadrangle before the first bell was empty except for the two of them, and so cold that their breath hung in the grey light coming down over the roofs onto the flagstones. Nobody signed for flagstones, and nothing done on them went into any wing's book. They had agreed on a third of Lira's pace; she had agreed to the number with the face she kept for a bad price at a market. Eight sequences went by clean. On the ninth she came in from the right, slow, and he dropped his hips for the lateral and went to the place where the Wind lived, and asked.
 
 There was nothing there.
 
-It lasted one held half-breath, and it was not a slow burst or a weak one. It was a gap with a burst's exact shape, the way a missing stair has the exact shape of a stair, and he knew it at once because he had stepped into that same gap once before, in a yard at Greyvane, the morning after Karis.
+It lasted one held half-breath, and it was not a slow burst or a weak one. It was a gap with a burst's exact shape, and he knew it at once because he had stepped into that same gap once before, in a yard at Greyvane, the morning after Karis.
 
 Lira's forearm, coming at a third, took him across the collarbone, and he sat down hard on the stone.
 
@@ -144,7 +144,7 @@ He knew what she meant. Karis's line, under part four, in her small hand: *one m
 
 "Ask me again," he said. "The ninth. From the right."
 
-Lira looked at him for a moment longer. Then she went back to her mark and came in from the right, at a third, and he dropped his hips and asked, and the Wind came. On time, whole, exactly where it should have been, as if it had never once been anywhere else. She ran the ninth at him four more times, and the tenth, and the eleventh, and every one of them answered.
+Lira looked at him. Then she went back to her mark and came in from the right, at a third, and he dropped his hips and asked, and the Wind came. On time, whole, where it should have been. She ran the ninth at him four more times, and the tenth, and the eleventh, and every one of them answered.
 
 When they had finished she sat down on the stone beside him, carefully, the bad leg out straight, and they sat there together in the cold with their backs to the wall like two people waiting for a coach.
 
@@ -166,7 +166,7 @@ He thought about it.
 
 "There'll be another one some day, I don't know when, and I won't go looking for it. Tell myself this was the last and I'll quit getting ready, and then the next one won't be something I planned for. It'll just be a thing that happens to me." He looked at his hands on his knees, which were steady. "Better I say it to you here, with my teeth chattering, than learn one day I meant it."
 
-Lira nodded slowly, once, as if he had passed something.
+Lira nodded slowly.
 
 "Mine, then," she said. "Write it in. Nothing at full until there've been three clean days in a row. Not with me, not with Brom, and not for any office on this bluff, whatever they write on a form."
 
@@ -194,13 +194,13 @@ They went to the windows. Below them, across the yard, a session of the Stone fi
 
 "The porter," said Seln. "Count the people in that crowd who look at him, between the steps and the arch. You have until he reaches the arch."
 
-They counted. The Stone girl got fourteen. One of the third-years got six and was sure of it. Gwen got twenty-two, which nobody believed, and then explained that she had counted a dog. Cael got eleven, and wrote eleven, and knew it was nine, and did not change it. A boy who watched things moderately well got eleven. A boy who got nine, at a glance, across a yard, in a crowd of fifty, was a boy somebody would one day want to write a paragraph about, and the record held a boy who watched things moderately well.
+They counted. The Stone girl got fourteen. One of the third-years got six and was sure of it. Gwen got twenty-two, which nobody believed, and then explained that she had counted a dog. Cael got thirteen, and wrote thirteen, and knew it was nine, and did not change it. A boy who watched things moderately well got thirteen. A boy who got nine, at a glance, across a yard, in a crowd of fifty, was a boy somebody would one day want to write a paragraph about, and the record held a boy who watched things moderately well.
 
 Before the porter reached the arch Gwen, who had been counting with her lips, turned from the window with the face of somebody who could not hold a question in any longer.
 
 "Sir. Is it true about the records hall? That there was a man on the stair all night, and the registrar in his nightcap?"
 
-The whole room went still, the way a room goes still when somebody has said aloud what everybody wanted to know.
+The whole room went still.
 
 "There'll be a notice from the registrar's office," said Seln. "Read it. It'll be accurate." His eyes went to nobody: not Gwen, not the window, not the room. "The porter's at the arch. Pencils down."
 

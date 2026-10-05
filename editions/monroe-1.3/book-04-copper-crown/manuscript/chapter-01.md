@@ -2,7 +2,7 @@
 
 The pages stopped.
 
-Cael heard it before he understood what he had heard. All afternoon the archive had been full of one small sound, a page lifted and laid over and then the next page lifted and laid over, as steady as a clock in another room, because Karis turned pages the way Wray counted passes. An hour ago he had stopped hearing it, the way a person stops hearing rain. Now it was gone, and the quiet it left behind had a shape.
+Cael heard it before he understood what he had heard. All afternoon the archive had been full of one small sound, a page lifted and laid over and then the next page lifted and laid over, as steady as a clock in another room, because Karis turned pages the way Wray counted passes. An hour ago he had stopped hearing it. Now it was gone, and the quiet it left behind had a shape.
 
 He looked up from his own sheet, which was a letter to nobody yet. For most of a week he had been trying to write a second letter to Vell, one that did not sound like a boy asking whether his first had arrived, and every version he tried came out sounding exactly like that.
 
@@ -64,7 +64,7 @@ Nobody said anything for a moment. At the far end of the stable somebody was arg
 
 "Evaluate how?" said Cael.
 
-"By demonstration, before the academy's own assessors." Karis did not look up from the page. "You'd show them what you could do, and they'd write down what you showed them, and the academy would carry you on its rolls on the strength of what was written. It's a standing. It isn't an exception, and it isn't a loan of some category that was built for somebody else and stretched to fit. It's a standing of its own, with its own name."
+"By demonstration, before the academy's own assessors." Karis kept her eyes on the page. "You'd show them what you could do, and they'd write down what you showed them, and the academy would carry you on its rolls on the strength of what was written. It's a standing. It isn't an exception, and it isn't a loan of some category that was built for somebody else and stretched to fit. It's a standing of its own, with its own name."
 
 Lira had put her chin on her hand, and her eyes had gone very bright.
 
@@ -74,7 +74,7 @@ Lira had put her chin on her hand, and her eyes had gone very bright.
 
 Brom looked at her. "Why would you do that?"
 
-"Because the schedule was rewritten long after that compilation was printed. There was a standardization directive, a few hundred pages of it, and it swept out the old vocabulary on purpose, because that was what it was written to do. Clauses like this one were exactly what it was aimed at. If it repealed this clause by name anywhere, then the clause is dead, and it doesn't matter how pretty it is." Her eyes went from one of them to the next. "I don't want to find out it's dead in front of a magistrate. I want to find out here, at this table, in the dullest way there is. So I'm going to try to kill it every way I can think of, and if after all that it still won't die, then it's a door."
+"Because the schedule was rewritten long after that compilation was printed. There was a standardization directive, a few hundred pages of it, and it swept out the old vocabulary on purpose, because that was what it was written to do. Clauses like this one were what it was aimed at. If it repealed this clause by name anywhere, then the clause is dead, and it doesn't matter how pretty it is." Her eyes went from one of them to the next. "I don't want to find out it's dead in front of a magistrate. I want to find out here, at this table, in the dullest way there is. So I'm going to try to kill it every way I can think of, and if after all that it still won't die, then it's a door."
 
 Lira considered this. "And if the bricks don't take?"
 
@@ -102,7 +102,7 @@ Lira knocked her shoulder against his, and Brom took out his small pocket book a
 
 His own term ran on stone and on Wray's count, and it ran whether or not anybody had found a word.
 
-On the first morning back she had put him on the defensive floor with Hobb at the north mark and watched him run the framework at panel speed, four passes, without a word. On the second morning she broke the count on the third pass, as she always broke it, and said, "Pivot." On the third morning she did not say it. He had spent the whole of the recess on that pivot: on the frozen yard behind the residence wing, on the cold boards of his own room, in the dark before the first bell, turning on the ball of the foot again and again and feeling for the exact place where the weight came over late. A tenth of a beat was not much. It was the difference between a slip that took him out of a strike and a slip that took him half out.
+On the first morning back she had put him on the defensive floor with Hobb at the north mark and watched him run the framework at panel speed, four passes. On the second morning she broke the count on the third pass, as she always broke it, and said, "Pivot." On the third morning she did not say it. He had spent the whole of the recess on that pivot: on the frozen yard behind the residence wing, on the cold boards of his own room, in the dark before the first bell, turning on the ball of the foot again and again and feeling for the exact place where the weight came over late. A tenth of a beat was not much. It was the difference between a slip that took him out of a strike and a slip that took him half out.
 
 By week three it was gone, and Wray had written nothing about it, which was how he knew she had noticed.
 
@@ -132,7 +132,7 @@ He did not come over to talk. He came with a sheet of paper folded once and held
 
 He went back to his own chalk. Cael watched him settle into his stance at the far end of the hall and build a structure on his leading forearm, a hard pale shell like the first ice on a trough. It was the Glass stance Cael had learned at this rail in six days the autumn before, and beaten in the formal yard. It sat lower than it had then, by most of a hand, and the off arm rode forward a little, carried closer to the line of the body. He could see plainly that it was different. He could not yet see what the difference bought.
 
-Hobb came and leaned on the rail beside him and watched the same thing for a long time.
+Hobb came and leaned on the rail beside him and watched the same thing.
 
 "Lower," said Hobb.
 
@@ -140,7 +140,7 @@ Hobb came and leaned on the rail beside him and watched the same thing for a lon
 
 "He'll be slower to reach you," said Hobb, and then thought about it some more, while Edran built a second shell and let it go in a spray of pale glitter. "Or he won't. I don't know which."
 
-It was the most Cael had ever heard Hobb say about another fighter. He wrote it down that night under Edran's name, with the date, and drew a question mark in the margin beside it. Then he drew a second one, because one did not seem enough.
+It was the most Cael had ever heard Hobb say about another fighter. It went into the Log that night under Edran's name, with the date and a question mark in the margin beside it. Then he drew a second one, because one did not seem enough.
 
 ---
 
@@ -152,7 +152,7 @@ She did not use the word in the letters. She cited the clause by its compilation
 
 "If they want to know what it says," she said, "they can go and read it. Anybody who can't be bothered to read four lines isn't somebody whose answer I want."
 
-Prynn gave her the founding compilations without being asked twice. They came off the third shelf of the fifth case in their run of eleven, and Prynn laid them on the long table herself, one on top of the next, in order.
+Prynn gave her the founding compilations without being asked twice. They came off the third shelf of the fifth case in their run, and Prynn laid them on the long table herself, one on top of the next, in order.
 
 When Karis asked for the consolidations, Prynn did not move.
 
@@ -162,13 +162,13 @@ When Karis asked for the consolidations, Prynn did not move.
 
 "Then ask in writing," said Prynn, "so that I know which you mean."
 
-Karis wrote it. It took her most of an evening, because Prynn sent the first request back across the room with a single line drawn under the word *everything* and nothing else on it at all. The second request named eleven titles. Prynn read it, initialed it, and fetched seven of them. She came back to the table with a slip that accounted for the other four: two had never been bought, one had been lent to a provost in the year of the great flood and not returned, and one had gone to a binder in the regional town to be resewn and was not yet back.
+Karis wrote it. It took her most of an evening, because Prynn sent the first request back across the room with a single line drawn under the word *everything* and nothing else on it at all. The second request named a dozen titles. Prynn read it, initialed it, and fetched eight of them. She came back to the table with a slip that accounted for the other four: two had never been bought, one had been lent to a provost in the year of the great flood and not returned, and one had gone to a binder in the regional town to be resewn and was not yet back.
 
 Karis read the slip and looked up at Prynn, and Prynn looked back at her and said nothing whatever, and went back to her desk.
 
 After that the work was slow, and most of it was Karis's, and Cael did what he had promised, sitting across from her evening after evening and reading for the line that would end it.
 
-There were three places a repealed clause would have had to go. The first was the directive's own repeal schedule, the long numbered list at its back of everything it struck by name, and the second was the registry's consolidated list of repeals, which some patient clerk had drawn up twenty years later out of everything struck by anybody. The third was the guild digest, in which the member guilds had printed, with some bad temper, every clause they had ever lost. Karis gave him the guild digest because it was the worst printed of the three and the likeliest to hide something in small type. He read it with a ruler under each line, as Vell had once taught him to read a ledger, every entry in order and none of them softer than any other. It took him nine evenings.
+There were three places a repealed clause would have had to go. The first was the directive's own repeal schedule, the long numbered list at its back of everything it struck by name, and the second was the registry's consolidated list of repeals, which some patient clerk had drawn up twenty years later out of everything struck by anybody. The third was the guild digest, in which the member guilds had printed, with some bad temper, every clause they had ever lost. Karis gave him the guild digest because it was the worst printed of the three and the likeliest to hide something in small type. He read it with a ruler under each line, every entry in order and none of them softer than any other. It took him nine evenings.
 
 The clause was not in it.
 

@@ -4,7 +4,7 @@ The books were only half of those eleven weeks. All the while the consolidations
 
 Bracken's fourth letter came up the hill in week eleven, with three weeks of the comparison still to go, and Karis opened it at the long table and laughed out loud.
 
-Cael had never heard her laugh at a document before. She had laughed at Lira, and at Brom's pocket book, and once, helplessly, at the provost's secretary's letter that said nothing in such lovely sentences, but a document was work, and Karis did not laugh at work. She sat with the sheets fanned in her hand and laughed with her shoulders, silently, and then put the letter down on the table and smoothed it flat with both palms as if it might try to get away.
+Cael had never heard her laugh at a document before. She had laughed at Lira, and at Brom's pocket book, and once, helplessly, at the provost's secretary's letter that said nothing in such lovely sentences, but a document was work, and Karis did not laugh at work. She sat with the sheets fanned in her hand and laughed with her shoulders, silently, and then put the letter down on the table and smoothed it flat with both palms.
 
 "Forty-one," she said.
 
@@ -16,13 +16,13 @@ There were five groups. The first was about the founding text and Prynn's copies
 
 The first group sent Karis to Prynn's desk before she had finished reading it. Bracken wanted to know whether any of Greyvane's copies of the founding text had been corrected by hand, and if so, in what ink and by whom, and Karis did not know. She stood in front of the high desk with the letter in her hand and asked.
 
-Prynn did not look up from her ledger. "The third copy," she said. "Case five, the run of eleven, the one with the green tape on the spine. Two corrections in the margin, both in iron-gall ink, both in the hand of the archivist before the archivist before me. Neither of them touches your clause." She turned a page. "He's right to ask. Tell him I said so."
+Prynn did not look up from her ledger. "The third copy," she said. "Case five, the founding run, the one with the green tape on the spine. Two corrections in the margin, both in iron-gall ink, both in the hand of the archivist before the archivist before me. Neither of them touches your clause." She turned a page. "He's right to ask. Tell him I said so."
 
 Karis went back to the table and wrote it down word for word, including the last line, and Cael watched her decide whether to put it in the letter and decide that she would.
 
 Karis took the first three groups for herself and pushed the fourth across the table to Cael.
 
-"These are yours. He's asking about your papers. I can't answer for you, and I wouldn't if I could." She hesitated. "Answer them as if he were going to stand you up in front of a magistrate with them. Because one day somebody will."
+"These are yours. He's asking about your papers. I can't answer for you, and I wouldn't if I could." She hesitated. "Answer them for a magistrate. Because one day somebody will stand you up in front of one with them."
 
 He read the fourth group through twice before he picked up a pen.
 
@@ -42,7 +42,7 @@ He wrote *Yes.* Then he wrote the name of the category, *unclassified observer*,
 
 He read it back, and pushed the sheet across to Karis.
 
-She read it once, and looked at him over the top of it for a long moment without saying anything, and then folded it into her answers with the rest. When the bundle went down the hill on the Wednesday coach, that line was in it, in his own hand, on its way to a man he had never met, and he found he did not mind at all.
+She read it once, and looked at him over the top of it without saying anything, and then folded it into her answers with the rest. When the bundle went down the hill on the Wednesday coach, that line was in it, in his own hand, on its way to a man he had never met, and he found he did not mind at all.
 
 ---
 
@@ -64,7 +64,7 @@ Then she put it down and sat with her hands in her lap.
 
 "What does it mean?" said Brom.
 
-"I don't know." Karis said it as if it hurt. "I never read it properly. I skipped it, because it wasn't where a repeal would be." She laid the page down. "He's walked through a door in my own house that I walked past for eleven weeks. I'm going to read it tonight, every word, and I'm going to be cross the whole time."
+"I don't know." It cost Karis something to say it. "I never read it properly. I skipped it, because it wasn't where a repeal would be." She laid the page down. "He's walked through a door in my own house that I walked past for eleven weeks. I'm going to read it tonight, every word, and I'm going to be cross the whole time."
 
 She looked up at Cael.
 
@@ -76,7 +76,7 @@ She looked up at Cael.
 
 Cael looked at the three pages lying on the table between them.
 
-He thought about what Bracken had in front of him, in an office he had never seen: a stranger's name, and a stranger's number, and a line in a stranger's hand that said *Everyone who signed it knew that, including me.* With that on his desk, Bracken had gone and done six weeks of work that nobody had asked him to do, to find out whether that stranger was standing on anything real. He had done it as if the answer mattered, and done it carefully, and then written down where he had got to and posted it four days down the road.
+He thought about what Bracken had in front of him, in an office he had never seen: a stranger's name, and a stranger's number, and a line in a stranger's hand that said *Everyone who signed it knew that, including me.* With that on his desk, Bracken had gone and done six weeks of work that nobody had asked him to do, to find out whether that stranger was standing on anything real. He had done it carefully, and then written down where he had got to and posted it four days down the road.
 
 For two years everybody who had looked hard at Cael had been looking for the place where he would break. Coss had looked carefully, and the registry had looked carefully, but the careful looking had been aimed at him, the way a smith aims a hammer, and he had learned to stand still under it and say only true things. He realized, sitting at the long table, that he had never once until now been looked at that carefully on his own behalf.
 
@@ -118,7 +118,7 @@ Cael read it, and it was very short. He did not understand all of it, and what h
 
 He gave it back.
 
-Naveth picked it up and read it again from the beginning. He had read it before Cael came in, Cael was sure; the clerk had said so. He read it now with his spectacles pushed up onto his forehead and the paper held a little away, as a man reads a letter he already knows and wants to see once more. His face, which Cael had watched break once on a witness floor and then mend, did something small and complicated.
+Naveth picked it up and read it again from the beginning. He had read it before Cael came in, Cael was sure; the clerk had said so. He read it now with his spectacles pushed up onto his forehead and the paper held a little away. His face, which Cael had watched break once on a witness floor and then mend, did something small and complicated.
 
 Cael had seen that look on other faces, but never on Naveth's. It was the look of a man at a market stall, looking at a thing he had wanted all his life and could not afford, and finding he was glad somebody could.
 
@@ -144,7 +144,7 @@ He told them at the scarred table that night, and nobody was surprised, and that
 
 "Halcenvane," he said. "Next term. If you'll come."
 
-Lira looked at him as if he had said something very stupid.
+Lira gave him the look she kept for very stupid remarks.
 
 "We filed in week sixteen," she said. "Brom and Karis and me. Transfers. Did you think we'd let you walk four days to a new gate on your own and find out from a letter which of us had come?" She speared a piece of turnip. "Karis wrote to the registrar. He sent the forms in the fourteenth letter. He said he'd assumed."
 
@@ -158,7 +158,7 @@ Lira did not say what hers was. They all knew. Her papers would travel south ahe
 
 Lira had wanted, for as long as Cael had known her, one thing that nobody had ever been willing to give her. It was not a rank, though she would take the rank. It was not a crown or a purse or a better room. It was to stand in front of the instrument that had read her at fourteen and set her down as a Copper practitioner, and to make it look again. She had said so once, on a road, in the dark, and never again, and he had not forgotten it.
 
-"There's a ladder," said Lira, as if she had heard him think it. "Brom asked. A real one, with brackets, and boards up in a yard where everybody can read them, and a season." Her eyes went very bright and very hard. "Here they gave me two bouts in a closed yard and wrote me down as a flag. There, they'll have to watch me."
+"There's a ladder," said Lira, into the quiet. "Brom asked. A real one, with brackets, and boards up in a yard where everybody can read them, and a season." Her eyes went very bright and very hard. "Here they gave me two bouts in a closed yard and wrote me down as a flag. There, they'll have to watch me."
 
 Cael looked round the table.
 

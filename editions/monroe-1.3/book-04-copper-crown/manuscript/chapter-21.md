@@ -52,9 +52,9 @@ She read it with her finger under each line. She checked the calendar against th
 
 "It's yours. I made a copy."
 
-"Of course you did." She did not look up. "Is anybody going to tell her? The girl on the third ring?"
+"Of course you did." Her pen did not stop. "Is anybody going to tell her? The girl on the third ring?"
 
-Cael thought about it for a long time.
+Cael thought about it.
 
 "I don't know," he said. "If somebody told me there was no way through, I'd want to know. And then I'd go out and fight anyway, to see." He looked at the sum. "I think she already would. I think that's why she's out there."
 
@@ -68,11 +68,11 @@ The registrar looked up from the same bare desk in the same bare room with the e
 
 "No," said Bracken. He laid his pen down square to the desk's edge. "They are evidence. They are admissible. They are not a verdict. I would be grateful if nobody in your hearing confused those three words. Nor a standing with a rank. A standing is this season's chalk. A rank is what the registry has written on a certificate, and the registry does not read our wall." He folded his hands. "Next year this academy will contest the qualifying season for the Continental. The chancellor has said so in an open address; it is on the record, so I may repeat it. A squad will be chosen. The people choosing it will read this season's closing standings among a great deal else. A strong season will not put a name on that squad. A weak one will very probably keep a name off it." He picked his pen back up. "Your friend from the north stands near the foot of a column she plainly does not belong in. If she climbs, it will be noticed. If she does not, that will be noticed too. That is all I may tell you, and rather more than I ought."
 
-It explained the upper ends of the boards, which had puzzled Cael for a week. The Iron column and the thin Silver sheet fought every session with a kind of grim care, as if each afternoon were being written into a book that would be read aloud next year. That was exactly what each afternoon was. The names near their tops were not fighting for a circlet in a glass case. They were fighting to be read.
+It explained the upper ends of the boards, which had puzzled Cael for a week. The Iron column and the thin Silver sheet fought every session with a kind of grim care, as if each afternoon were being written into a book that would be read aloud next year. That was what each afternoon was. The names near their tops were not fighting for a circlet in a glass case. They were fighting to be read.
 
 And it threw a hard new light on Fiske.
 
-He watched her that week on a practice afternoon, fighting a nervous first-year as a courtesy, which the Copper holder did once a session by custom. She was not fighting him to win; she had won before the first exchange. She was fighting him to show him something. She let him come, and come again, and on the third time put her small flat push into the boards an inch in front of his lead foot, very slowly, so that he could feel exactly where it had gone and why he had stumbled. Then she told him in a few quiet words what she had done, and walked him back to his chalk, and did it again a little faster.
+He watched her that week on a practice afternoon, fighting a nervous first-year as a courtesy, which the Copper holder did once a session by custom. She was not fighting him to win; she had won before the first exchange. She was fighting him to show him something. She let him come, and come again, and on the third time put her small flat push into the boards an inch in front of his lead foot, very slowly, so that he could feel where it had gone and why he had stumbled. Then she told him in a few quiet words what she had done, and walked him back to his chalk, and did it again a little faster.
 
 She was the best Copper fighter Cael had ever seen. Her certificate said Copper Rank Eight, and had said Rank Eight for two years. Rank, like tier, was a word an Arbiter wrote on a certificate after an advancement evaluation; no bout on any ladder could add a number to it, and while her paper said Copper, the Copper bracket was the only bracket she could fight in. No registry had written a word about Fiske in two years, because nobody had asked one to. Lira had worked out in a wash-house, over a pair of ruined shirts, why nobody had asked.
 
@@ -82,7 +82,7 @@ Cael began her page that night as he began everybody's, with rhythm and weight a
 
 ---
 
-He went to every session after that, all of them, not only the ones his friends fought in. Copper and Iron afternoons, the Silver sheet's rare bouts, the practice rings in between. Eleven Paths fought somewhere on the three sheets, and by the fourth session every one of them had its page. He did not expect all eleven to be right by the end of the season, and he wrote that on the first page too.
+He went to every session after that, all of them, not only the ones his friends fought in. Copper and Iron afternoons, the Silver sheet's rare bouts, the practice rings in between. A dozen Paths fought somewhere on the three sheets, and by the fourth session every one of them had its page. He did not expect all of them to be right by the end of the season, and he wrote that on the first page too.
 
 The Iron afternoons had Ephram, and Ephram had a rail.
 
@@ -92,7 +92,7 @@ On the second of those afternoons, at the outer edge of the circle, Cael saw a s
 
 Cael listened when he could get near enough, which was seldom. Ephram never once turned his head. He had said his piece about Cael on the top tier in front of sixty people and was waiting now, as he had said he would, for the semester evaluation, and he waited the way he did everything, without fuss.
 
-The commentary was good. Cael would have liked it to be worse. On the second Iron afternoon of the season a Current fighter lost on a counter she should have seen coming. Ephram explained to his circle precisely why: she had read the other fighter's shoulder, and the shoulder had been sold to her, and the hips had told the truth the whole time. It was exactly what Cael had written on his knee a minute before. It was not always right. A week later Ephram took a feint for a commitment because it had been thrown by a fighter he admired, and Cael wrote that down too, with some satisfaction. But two days after that he heard Ephram say to a second-year, quietly, *I had that wrong on Fourth-day; here's why*, and then explain why, and Cael wrote that down underlined.
+The commentary was good. Cael would have liked it to be worse. On the second Iron afternoon of the season a Current fighter lost on a counter she should have seen coming. Ephram explained to his circle precisely why: she had read the other fighter's shoulder, and the shoulder had been sold to her, and the hips had told the truth the whole time. It was what Cael had written on his knee a minute before. It was not always right. A week later Ephram took a feint for a commitment because it had been thrown by a fighter he admired, and Cael wrote that down too, with some satisfaction. But two days after that he heard Ephram say to a second-year, quietly, *I had that wrong on Fourth-day; here's why*, and then explain why, and Cael wrote that down underlined.
 
 The chancellor came to some of the sessions, and that was a page in itself.
 
@@ -174,7 +174,7 @@ She did not say anything for a moment.
 
 "I've written down that it won't mean anything about what you are." He looked at the page. "It'll mean a great deal about what they are."
 
-Lira considered that for a long moment, the way she considered a feed she had decided to let go by.
+Lira considered that the way she considered a feed she had decided to let go by.
 
 "Brom's the other sentence," she said.
 

@@ -2,7 +2,7 @@
 
 The round Current lecturer hummed.
 
-He had hummed through the first eleven minutes of every session he had ever signed for Cael. He hummed now, on the bench under the east hall's gallery, with his hands folded on his stomach and his eyes half shut, a tune with no particular shape that went up and down like a man walking over hills. Cael had stopped hearing it after the first week. Today he heard every note, because it was First-day, the seventy-fifth, two days after the council, and Lira had asked for the slot.
+He had hummed through the first ten minutes of every session he had ever signed for Cael. He hummed now, on the bench under the east hall's gallery, with his hands folded on his stomach and his eyes half shut, a tune with no particular shape that went up and down like a man walking over hills. Cael had stopped hearing it after the first week. Today he heard every note, because it was First-day, the seventy-fifth, two days after the council, and Lira had asked for the slot.
 
 Brom had broken the agreement first, as Karis had promised he would, and he had come to breakfast that morning to confess it with the air of a man bringing a dead bird to the kitchen door.
 
@@ -20,9 +20,9 @@ There was a short silence round the table.
 
 "Then you kept the rule," said Karis, with great gentleness, "and broke a wall. That's allowed. Thank you for telling us." She picked up her spoon again. "Next time, look where you're going and not at him. Those are two different directions. It's easier than it sounds."
 
-"It's much harder than it sounds," said Brom, and ate his porridge with the dignity of a man who has done his duty and been laughed at by second-years for it. Cael wrote the break into the agreement page that evening under its date, with Brom's own words beside it, *went straight into the corner*, because that was the rule under the rule, and it had worked exactly as Karis had said it would.
+"It's much harder than it sounds," said Brom, and ate his porridge with the dignity of a man who has done his duty and been laughed at by second-years for it. Cael wrote the break into the agreement page that evening under its date, with Brom's own words beside it, *went straight into the corner*, because that was the rule under the rule, and it had worked as Karis had said it would.
 
-"Full pace," Lira had said at the same breakfast, not looking up from her bread, when Brom had finished. "First to three. I want to see something."
+"Full pace," Lira had said at the same breakfast, to her bread, when Brom had finished. "First to three. I want to see something."
 
 "See what?"
 
@@ -66,7 +66,7 @@ He knew what this one should be spent on. Lira's weight had gone past him on the
 
 Her recovery reached his skin only once the beat had him.
 
-That was the whole of it. The read came. It came true, as it always came: her weight swinging out and round to her right, fast, exactly where he had expected. But it came the way a letter comes that was posted late, with the event it describes already over. By the time it reached him his feet had set themselves square for the wrong thing, on their own, in the dark, and the locked beat had closed round them, and Lira was not where his feet had set for her. She had come round tighter than he had planned for, and low.
+That was the whole of it. The read came. It came true, as it always came: her weight swinging out and round to her right, fast, where he had expected. But it came the way a letter comes that was posted late, with the event it describes already over. By the time it reached him his feet had set themselves square for the wrong thing, on their own, in the dark, and the locked beat had closed round them, and Lira was not where his feet had set for her. She had come round tighter than he had planned for, and low.
 
 Her shoulder took him under the ribs.
 
@@ -124,9 +124,9 @@ Then she laughed. It came out of her short and surprised and completely real, an
 
 "Nobody ought to." She was still smiling, which she did not do often enough for him to be used to it. "That's what makes it so entirely you." She walked back to her chalk and turned round and planted her feet. "Again. And this time don't go on anything at all. Stand there and let me come the whole way, and call me as you feel me, and I'll tell you how late you are. If I'm going to knock you over for a whole season, I want to know exactly how hard I'm allowed."
 
-They went on until the bell. He did not fall again; he did not use the Wind again, either. He stood on his feet and let her come at him exchange after exchange while he called her weight aloud a half-second after he felt it, *left*, *round*, *low*, and she called back *late*, *late*, *on time*, *late*. The Current lecturer, who had begun humming again at the eleventh minute out of what Cael could only suppose was tact, stopped humming at the fourteenth and watched the rest of it with both eyes open.
+They went on until the bell. He did not fall again; he did not use the Wind again, either. He stood on his feet and let her come at him exchange after exchange while he called her weight aloud a half-second after he felt it, *left*, *round*, *low*, and she called back *late*, *late*, *on time*, *late*. The Current lecturer, who had begun humming again at the tenth minute out of what Cael could only suppose was tact, stopped humming at the fourteenth and watched the rest of it with both eyes open.
 
-At the end, signing the sheet, he looked from one of them to the other for a moment, as if a question had come all the way up to his mouth. Then he signed, and handed the sheet to Cael, and said only, "Ice for the ribs. Not heat. Heat makes it worse," and went out.
+At the end, signing the sheet, he looked from one of them to the other, and a question came all the way up to his mouth and stopped there. Then he signed, and handed the sheet to Cael, and said only, "Ice for the ribs. Not heat. Heat makes it worse," and went out.
 
 It was the first thing any of the eleven had ever said to him that was not about the hour.
 
@@ -186,7 +186,7 @@ A man who wanted to catch Cael out would have let it ride and been at the north 
 
 No touch either way. Called even. Both men back to their chalk.
 
-Cael folded the two sheets together and put them inside his coat, and went up to the rim of the Crown yard, where he knew he would find Lira reading the brackets for the tenth time with her arms folded. He gave her both sheets without a word and told her the rest.
+Cael folded the two sheets together and put them inside his coat, and went up to the rim of the Crown yard, where he knew he would find Lira reading the brackets for the tenth time with her arms folded. He gave her both sheets and told her the rest.
 
 She read them, and gave them back, and was quiet.
 
@@ -198,7 +198,7 @@ She read them, and gave them back, and was quiet.
 
 "No," said Cael. "Nor do I. I think that may be the point."
 
-He did not write anything that afternoon. He waited until night, until the window was dark and the river was loud, and then he opened the binder to the day's page and wrote two lines under everything else, and sat over them for a long time with the pen still in his hand.
+He did not write anything that afternoon. He waited until night, until the window was dark and the river was loud, and then he opened the binder to the day's page and wrote two lines under everything else, and sat over them with the pen still in his hand.
 
 *He fixed it. Sixth-day, hall three. Nobody asked him to.*
 
@@ -208,7 +208,7 @@ He did not write anything that afternoon. He waited until night, until the windo
 
 He eased off the counting for four days after that, on purpose, because he had promised the Log that he would, once, at a time of his choosing, and see whether the read came back.
 
-It was harder than he had expected. The shorthand had become a habit in a fortnight, the way a limp becomes a habit in a week. He caught his eyes going to the turned post and the brass lamp and the second landing of the lecture stair a dozen times a day, and each time took them away again. He did not count. He did not write a single dot. He let the man stand wherever he stood, and went to his sessions and his lectures with his attention on nothing but what was in front of him, and on the fourth evening he went out to the wall to find out what that had bought.
+It was harder than he had expected. The shorthand had become a habit in a fortnight. He caught his eyes going to the turned post and the brass lamp and the second landing of the lecture stair a dozen times a day, and each time took them away again. He did not count. He did not write a single dot. He let the man stand wherever he stood, and went to his sessions and his lectures with his attention on nothing but what was in front of him, and on the fourth evening he went out to the wall to find out what that had bought.
 
 Brom was at his post. Karis was feeding him, which was a sight Cael would have paid money to watch.
 
@@ -252,4 +252,4 @@ Brom, at the post, groaned. "Are you two going to feed me or not?"
 
 "Not," said Karis serenely. "We're going to sit here and be insufferable."
 
-And they did, the three of them, along the coping in the last of the light, while Brom turned on nothing at his post and laughed at himself, and down across the river the grey coats changed at their lamp, on the bell, two and two, as plainly as gateposts.
+And they did, the three of them, along the coping in the last of the light, while Brom turned on nothing at his post and laughed at himself, and down across the river the grey coats changed at their lamp, on the bell, two and two.

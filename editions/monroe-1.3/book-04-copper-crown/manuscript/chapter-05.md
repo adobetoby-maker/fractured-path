@@ -24,7 +24,7 @@ Below them the Ost went by wide and slow and brown. A barge was working up again
 
 Along the near bank the town went on as far as he could see each way, warehouses shouldering down to the water. He counted six long sheds with their doors open on the river and a seventh going up in raw yellow timber. A public wharf had a wooden crane on it with four men walking its wheel, and below that a second, smaller wharf stood behind a fence with a company's mark on its gate. Between the bridge foot and the public wharf, across the only street that ran down to the water, a building of good grey stone sat with its own steps and its own dock and a flag over its door. Nothing could come off a boat and into Ostrand, Cael saw, without passing under that flag.
 
-"Customs," said Karis, watching where he looked. "Above the bridge the river's too shallow for anything big. So everything coming down out of the hills gets broken out of carts here and loaded onto boats, and everything coming up gets the reverse. Whoever stands at the place where one kind of carrying turns into the other takes a share of both." She leaned her back on the parapet and recited it as if she were reading it off a page in her head. "About twenty thousand people. Fourteen guild lodges. And two registry offices on Weighbridge Street, a hundred yards apart from each other. One is a district office and one is a stations office."
+"Customs," said Karis, watching where he looked. "Above the bridge the river's too shallow for anything big. So everything coming down out of the hills gets broken out of carts here and loaded onto boats, and everything coming up gets the reverse. Whoever stands at the place where one kind of carrying turns into the other takes a share of both." She leaned her back on the parapet and recited it. "About twenty thousand people. Fourteen guild lodges. And two registry offices on Weighbridge Street, a hundred yards apart from each other. One is a district office and one is a stations office."
 
 "Why have two?" said Brom.
 
@@ -54,7 +54,7 @@ The road up the far side climbed the bluff in two long switchbacks, and it had p
 
 Cael noticed them at the first bend, because passing bays were a thing nobody bothered with on a road meant for people walking. These were wide enough to pull a loaded wagon into while another went past it, paved at the edge, with a stone post at each end for the wheels to keep off. The road had a gutter on its uphill side and a culvert at each turn. Somebody had spent money on this road, and kept on spending it, which meant that the money went up and down this hill every week in wagons and somebody needed it to arrive.
 
-At the foot of the road, where it left the river street, two men in grey coats were sitting on a low wall outside a chandler's. They were not the two from the bridge. They did not look up as the four of them turned onto the hill, and Cael added them to the count and did not look back.
+At the foot of the road, where it left the river street, two men in grey coats were sitting on a low wall outside a chandler's. They were not the two from the bridge. They did not so much as turn their heads as the four of them came onto the hill, and Cael added them to the count and did not look back.
 
 "Two at the ferry," said Lira, behind him. "Two here."
 
@@ -68,7 +68,7 @@ Halfway up they stepped into a passing bay to let a wagon come down, four casks 
 
 The wall at the top came up no higher than Cael's chest, pale and new and clean-jointed. Nobody could have defended it, and nobody had meant to. It only marked a line on the ground and said *here*. The gate stood open with both leaves folded back. Beside it was a lodge with a glass window, and in the window was a man with a ledger, and in front of the window was a queue: three carts, a woman with two boys and a trunk, a porter with a handbarrow, and a young man in a good coat arguing about something with nobody in particular.
 
-The man in the lodge was dealing with all of it at once and not enjoying any of it. They joined the end of the queue and waited for a quarter of an hour, and when they reached the window he did not look up.
+The man in the lodge was dealing with all of it at once and not enjoying any of it. They joined the end of the queue and waited for a quarter of an hour, and when they reached the window he kept his eyes on his ledger.
 
 "Names."
 
@@ -78,7 +78,7 @@ He found the page without hunting for it. He read it off fast and flat, in the v
 
 "Dellenmoor. Standard. Research standing pending; the library committee writes to you. Brom. Standard. Ninth day, first bell, east hall; the Blade cohort wants a look at you. Lira. Transfer, re-certification. Copper bracket. You register for the ladder by the fourteenth or you start the season on the bottom rung and climb from there." He licked a finger and turned the page. "Cael. Assay-provision enrollment. Straight to the registrar. Assessment wing, ground floor, the door with the brass plate. He's cleared the whole morning, which he does not do, so go now and look at the view later."
 
-Then he did look up, once, at all four of them, with the face of a man who had a cart horse breathing on the back of his neck.
+Then he did raise his eyes, once, at all four of them, with the face of a man who had a cart horse breathing on the back of his neck.
 
 "Rooms, second quadrangle. The porter's got your keys. The assessment wing has a wall of its own; you'll know it. Don't cross the Crown yard when there's a bout on; they'll shout at you, and I'll be glad they did." He was already reaching for the next carter's slip. "Welcome to Halcenvane. You there, with the casks."
 
@@ -92,7 +92,7 @@ It was very restful. He was not at all sure that it ought to be.
 
 There were twelve desks in the intake hall and four of them were working.
 
-The other eight stood under linen dust sheets down the far end of the room, in two rows, square and pale, like a second set of applicants who had come early and been told to wait. Cael stood in the line for the fourth desk and looked at them for a long time. The hall ran a hundred feet under a coffered ceiling, lit down its whole west wall by tall windows, on an oak floor laid for this room and no other. Somebody had sized it for an academy three times the one that was using it this morning. Somebody had looked at Halcenvane as it was, and built a room for Halcenvane as it meant to become, and paid for it, and then sat down to wait for the school to grow into its own furniture.
+The other eight stood under linen dust sheets down the far end of the room, in two rows, square and pale, like a second set of applicants who had come early and been told to wait. Cael stood in the line for the fourth desk and looked at them. The hall ran a hundred feet under a coffered ceiling, lit down its whole west wall by tall windows, on an oak floor laid for this room and no other. Somebody had sized it for an academy three times the one that was using it this morning. Somebody had looked at Halcenvane as it was, and built a room for Halcenvane as it meant to become, and paid for it, and then sat down to wait for the school to grow into its own furniture.
 
 Greyvane had built for the people it had. He had loved Greyvane for that. He did not know yet what to feel about a place that built for people it had not met.
 
@@ -108,7 +108,7 @@ Brom was done before Cael had counted ten. He came back across the oak with a ta
 
 Karis came back from her desk with three forms and a letter, and her face held the particular delight she kept for documents that had clauses.
 
-"There's a schedule of terms for the registry-law holdings," she said. "It's eleven clauses long. The ninth says what happens when the library committee and a reader disagree about access, and it gives the reader a right of appeal to the chancellor in writing." She sat down on Cael's other side and laid the forms on her knees as if they might take fright. "Greyvane had Prynn. Prynn was worth more than eleven clauses and a chancellor. But if Prynn said no, there was nowhere to go but the stove."
+"There's a schedule of terms for the registry-law holdings," she said. "It's eleven clauses long. The ninth says what happens when the library committee and a reader disagree about access, and it gives the reader a right of appeal to the chancellor in writing." She sat down on Cael's other side and laid the forms on her knees as if they might take fright. "Greyvane had Prynn. Prynn was worth more than a schedule and a chancellor. But if Prynn said no, there was nowhere to go but the stove."
 
 Lira was at the third desk for most of an hour.
 
@@ -170,7 +170,7 @@ On the second certified copy, Cael stopped.
 
 "The date on the clerk's certificate," he said. "It's a year after the date in the compilation's own colophon. But the shelf-mark is for the first printing."
 
-Bracken took the sheet back and looked at it for a long moment. Then he took the pen from behind his ear and made a small mark in the margin.
+Bracken took the sheet back and read it again. Then he took the pen from behind his ear and made a small mark in the margin.
 
 "The copying clerk's slip," he said. "He took the shelf-mark off the first printing and the certificate off the second, because they stand side by side. The text's the same in both. I checked that myself. But the sheet says two things at once, and anybody who wanted to could pull on that thread." He set the sheet aside on a pile of its own. "It'll be redone this week. That's what I asked you here for. Thank you."
 
@@ -214,7 +214,7 @@ Bracken had got up and gone into the cabinet room behind the desk. Cael heard a 
 
 When Bracken came back he had a tag on a cord and a folder, and he wrote on the folder's cover before he put it away: the date, and under it, *Ninety-four minutes.*
 
-"I'd allowed two hours," he said, as if he were confessing to a fault. "The assessment office will set the day for your entry demonstration. Magister Gault sits that panel. His face gives nothing away. That isn't a judgment of you; it's his face. Whatever you show him that day is your baseline, and the baseline doesn't move. Every semester's evaluation is measured against it, as long as you're here." He held out the tag. "Choose with that in mind."
+"I'd allowed two hours," he said, and seemed to count it against himself. "The assessment office will set the day for your entry demonstration. Magister Gault sits that panel. His face gives nothing away. That isn't a judgment of you; it's his face. Whatever you show him that day is your baseline, and the baseline doesn't move. Every semester's evaluation is measured against it, as long as you're here." He held out the tag. "Choose with that in mind."
 
 Cael took it. At the door he turned.
 

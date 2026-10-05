@@ -2,17 +2,17 @@
 
 On the thirteenth of Reaping, before he lit the lamp, Cael did nothing at all, and he did it on purpose.
 
-He lay on his back in the dark with the blanket to his chin and found the half-yard of air round his own body, and he gave one small hard corner of his attention to it and told it to stay there, as a man sets a stake in a field before he lets the horses out. Only when it was settled did he let the rest of him wake up and start thinking about the day. Below the window a barge on the river gave two short notes, *heard you*, and somebody on the far bank answered it.
+He lay on his back in the dark with the blanket to his chin and set the stake, and only when it was settled did he let the rest of him wake up and start thinking about the day.
 
-The ache came up behind his eyes as he sat, the dull one, the rent the sixth fragment charged for its idle state. It was cheap in the mornings. By evening it would have corners.
+The ache came up behind his eyes as he sat, the dull one, the rent. It was cheap in the mornings. By evening it would have corners.
 
 He lit the lamp low and opened the notebook at the delegation's pages.
 
-There were eleven names on the manifest and he had pages on nine of them. The library had given him three of the four escort riders out of eleven years of attendance lists, the counsel out of her published findings, and the three clerks out of a registry yearbook that nobody had borrowed in a decade. Havel had a page with a question of Lira's at the foot of it. Ilsev had the thickest page and the least use, because six findings told him what she would do with a document and nothing at all about what she did with a morning. The fourth rider was too new to be anywhere. And the eleventh name had one line on its page, and under the line, in his own hand, a single word: *Lira*.
+There were eleven names on the manifest and he had pages on nine of them. The library had given him three of the four escort riders out of a dozen years of attendance lists, the counsel out of her published findings, and the three clerks out of a registry yearbook that nobody had borrowed in a decade. Havel had a page with a question of Lira's at the foot of it. Ilsev had the thickest page and the least use, because six findings told him what she would do with a document and nothing at all about what she did with a morning. The fourth rider was too new to be anywhere. And the eleventh name had one line on its page, and under the line, in his own hand, a single word: *Lira*.
 
 He read the eleven through once and closed the book. Then he opened the plan instead, at the page with two words ruled off across its head, written on the eve of the twelfth in a hand that had not been quite steady: *Hold. First.*
 
-None of it was the first task any more. That had changed in a corridor two days ago, with Brom standing square across the flagstones like a post. Reading the delegation was the second task. The first was to stay exactly as thick as an ordinary boy for every hour of every day they were on the bluff, and the first task did not care how interesting the second one got.
+None of it was the first task any more. That had changed in a corridor two days ago, with Brom standing square across the flagstones like a post. Reading the delegation was the second task. The first was to stay as thick as an ordinary boy for every hour of every day they were on the bluff, and the first task did not care how interesting the second one got.
 
 Lira came down to breakfast without the stick.
 
@@ -42,7 +42,7 @@ Karis had the grey notebook open beside her bread, at a page Cael knew. Down its
 
 "I thought you'd like that."
 
-"What are you doing today?" Brom asked Lira. He asked it carefully, the way a man walks out onto ice.
+"What are you doing today?" Brom asked Lira. He asked it carefully.
 
 "Lectures. Then I'm going to walk the length of the Crown yard and back, twice, slowly, with nobody watching." She ate a spoonful of porridge. "Then I'm going to sit down and decide whether I liked it."
 
@@ -56,7 +56,7 @@ Brom thought about it, and nodded slowly, and went back to his bowl.
 
 "That," said Lira, "is the nicest thing anyone's said to me in four days."
 
-Cael ate and listened and minded his edges. Across the hall a table of Mire second-years were telling each other in low voices what the Archmarshal had eaten at supper, which none of them could possibly know. At the next table a Blade fourth-year was explaining to a first-year, at length and with diagrams drawn in spilt water, exactly how an inspection worked, and Cael listened to that for a while because the fourth-year was wrong in a very confident and orderly way. Then he stopped listening, because the stopping was also practice.
+Cael ate and listened and minded his edges. Across the hall a table of Mire second-years were telling each other in low voices what the Archmarshal had eaten at supper, which none of them could possibly know. At the next table a Blade fourth-year was explaining to a first-year, at length and with diagrams drawn in spilt water, how an inspection worked, and Cael listened to that for a while because the fourth-year was wrong in a very confident and orderly way. Then he stopped listening, because the stopping was also practice.
 
 "You've got your morning face on," said Lira, without turning her head.
 
@@ -64,11 +64,13 @@ Cael ate and listened and minded his edges. Across the hall a table of Mire seco
 
 "You've got a page with my name on it." She broke her bread in two. "Eat. If you go thin at breakfast I'll know, and I'm sitting on the side with the bad leg, so I'll have to tread on you with the good one, and it'll hurt us both."
 
+Cael ate. In seven days it would be his own turn on the oak, with an Archmarshal at the rail, and if the five came out no bigger than his baseline, the one true sentence anybody had ever written about him would stop being true.
+
 ---
 
 Through the wall of the guest floor, the counsel was talking to her clerk while she dressed.
 
-Vastin had heard her through walls for four nights of inns, and he no longer heard the words. He heard the shape. It went on low and level, about the water in the jug and the state of a collar and something a magistrate had once said to her on a stair. Then it stopped in the middle, and there was a silence about as long as a page, and then it went on again from the exact syllable where it had broken off, as if nothing at all had come between the two halves. She had been handed something to read. He had noticed the habit on the second day of the road and had not written it down, because he did not take notes on colleagues. He only noticed that he had noticed, and let it go.
+Vastin had heard her through walls for four nights of inns, and he no longer heard the words. He heard the shape. It went on low and level, about the water in the jug and the state of a collar and something a magistrate had once said to her on a stair. Then it stopped in the middle, and there was a silence about as long as a page, and then it went on again from the exact syllable where it had broken off. She had been handed something to read. He had noticed the habit on the second day of the road and had not written it down, because he did not take notes on colleagues. He only noticed that he had noticed, and let it go.
 
 He sat at a scrubbed table under the window with his coat on, because the guest floor was cold before the fires were lit, and his watch lay face-up beside his hand.
 
@@ -176,7 +178,7 @@ The notice that had sent him here was a true notice. It named an academy that ha
 
 He would walk the building. He would watch its rooms being used. Rooms told you what a house had decided to be, if you let them talk long enough.
 
-This house had answered the notice by changing nothing, and it had not troubled to hide that it was doing so. He had seen it in the courtyard yesterday. There was a gutter mended badly three times and left that way. The cobbles had not been swept for visitors. And the registrar had told the first man through his door exactly where the file stood and how many boxes it filled, instead of how hard it would be to find. A house that changed nothing for an inspector was either very sure of itself or very well advised. Either was worth knowing. Neither was a finding.
+This house had answered the notice by changing nothing, and it had not troubled to hide that it was doing so. He had seen it in the courtyard yesterday. There was a gutter mended badly three times and left that way. The cobbles had not been swept for visitors. And the registrar had told the first man through his door where the file stood and how many boxes it filled, instead of how hard it would be to find. A house that changed nothing for an inspector was either very sure of itself or very well advised. Either was worth knowing. Neither was a finding.
 
 A bell began somewhere below, the first of the day. He laid the grey bundle on top of the others, the right way up, and went down.
 
@@ -184,7 +186,7 @@ A bell began somewhere below, the first of the day. He laid the grey bundle on t
 
 An inspection, it turned out, was mostly doors.
 
-He had read the schedule a dozen times, and nothing in it had warned him how small the whole business would look from the floor. The hill did not stop for eleven people. It made room for them, the way a house makes room for a guest's trunk in the hall: everyone steps round it, and nobody mentions it, and by noon nobody quite sees it any more.
+He had read the schedule a dozen times, and nothing in it had warned him how small the whole business would look from the floor. The hill did not stop for eleven people. It made room for them, and everyone stepped round them, and by noon nobody quite saw them any more.
 
 But three doors that had stood open all season were shut now, from the second bell until the fourth. One was the records hall's back room, where Bracken had built the file. One was the long upper room over the lecture range, where the faculty argued on Fifth-days. The third was the wing's document store behind Gault's office. Cael had never before seen it closed. He had always known it by the instrument woman's oil can, standing on its sill.
 
@@ -202,7 +204,7 @@ Cael did not have to do anything to learn it. He only had to stand at the walk's
 
 The counsel he had in four minutes, on the same walk, before the first box had come back.
 
-She came along it with Havel a half-pace behind her, and she was talking. She was always talking, low and pleasant, to whoever was nearest, about anything at all. Then the young clerk came up beside her with a single sheet. She took it and stopped dead in the middle of the flagstones, so that the crowd in the walk had to part round her as water parts round a post, and read it to the bottom without a sound, while a first-year with an armful of books stood stranded behind her and did not dare go round. She handed it back. She walked on.
+She came along it with Havel a half-pace behind her, and she was talking. She was always talking, low and pleasant, to whoever was nearest, about anything at all. Then the young clerk came up beside her with a single sheet. She took it and stopped dead in the middle of the flagstones, so that the crowd in the walk had to part round her, and read it to the bottom without a sound, while a first-year with an armful of books stood stranded behind her and did not dare go round. She handed it back. She walked on.
 
 And she went on talking from the very word where she had stopped.
 
@@ -226,7 +228,7 @@ She looked at the lending rules for a while without reading them.
 
 "Bracken's right. Bracken's nearly always right. It's very tiring." She bit the apple. "Which boxes?"
 
-He told her the labels. She shut her eyes and said the index numbers back to him in order, and what each box held, and what in each of them a good counsel would go for first. She was right about all of it. He could see her being right, the way you can see somebody's hands itch.
+He told her the labels. She shut her eyes and said the index numbers back to him in order, and what each box held, and what in each of them a good counsel would go for first. She was right about all of it. He could see her being right.
 
 "I can't go in till the fifteenth," she said, with her eyes still shut.
 
@@ -236,13 +238,13 @@ He told her the labels. She shut her eyes and said the index numbers back to him
 
 "Noted," said Cael, and she threw the apple core at him, and missed on purpose.
 
-She was quiet for a moment after, turning her pen.
+She turned her pen.
 
 "And the eleventh?"
 
 "Nothing. I haven't tried."
 
-"Good." She said it at once, as if he had passed a small test he had not known was set. "Don't. Not from across a courtyard, not on your own. You read him with everything on the tier yesterday, and Lira says you stayed, and I believe her. But I'd rather you didn't find out how many times you can do that."
+"Good." She said it at once. "Don't. Not from across a courtyard, not on your own. You read him with everything on the tier yesterday, and Lira says you stayed, and I believe her. But I'd rather you didn't find out how many times you can do that."
 
 "I'm not going to look for him."
 
@@ -258,7 +260,7 @@ He had watched every step and got nothing that surprised him, and that was the f
 
 *Exactly the person the papers describe. She reads the text, goes where the text goes, and wants nothing out of it. Of the eleven, she's the only one who looks in the flesh just as she looks on paper. Nobody else on the manifest does. It's the rarest thing they brought.*
 
-The rest of the morning he spent being ordinary at exactly the rate of every other morning.
+The rest of the morning he spent being ordinary at the rate of every other morning.
 
 He sat his lectures in his usual seat. He did his supervised hour in his usual hall. At the end of the morning he gave his coursework to the Ash instructor, on the day it was due. He had thought about giving it in a day early, to be safe, and had seen the trap in the thought before it was finished. Early was a change. A change was a performance. And Withrow had stood in front of the whole school and told it that a performance was the one thing an inspection could really see.
 

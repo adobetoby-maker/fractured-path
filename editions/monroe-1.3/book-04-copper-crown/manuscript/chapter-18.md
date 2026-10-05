@@ -4,7 +4,7 @@ The bluff road came down to the river in four long bends, and at the foot of the
 
 Seln went by them with a satchel on his shoulder on his thirty-first day on post, a little after the fourth bell. Neither of them gave him a second look.
 
-He let the Path run as he came down the last bend, from habit, the way some men hum on stairs, and felt their attention come up to him, find nothing it cared to keep, and slide on to a carter behind him with a load of slates. It was nothing; any Bronze could have done it to two bored men at a toll board while thinking about supper. But he noted, because he noted everything, that the two coats were his own service's, that they had stood at this road's foot by fours for two months and more, and that they had not the least idea who had just walked past them with the month's one useful sheet of paper. They were there to be seen. He was there not to be. Put them together, he thought, and you would have very nearly one watcher.
+He let the Path run as he came down the last bend, from habit, and felt their attention come up to him, find nothing it cared to keep, and slide on to a carter behind him with a load of slates. It was nothing; any Bronze could have done it to two bored men at a toll board while thinking about supper. But he noted, because he noted everything, that the two coats were his own service's, that they had stood at this road's foot by fours for two months and more, and that they had not the least idea who had just walked past them with the month's one useful sheet of paper. They were there to be seen. He was there not to be. Put them together, he thought, and you would have very nearly one watcher.
 
 He crossed the bridge and paid his copper and went along the river street to the courier office by the fish steps.
 
@@ -28,9 +28,9 @@ He went back up the river street with the satchel light on his shoulder, and fou
 
 It had taken him in more easily than any office he could recall.
 
-Magister Gault had seen him on the first morning for about as long as it takes to mend a nib. He had put four questions. Could Seln read a hand not his own? Would he sign his initials to a copy and stand by them? Did he understand that nothing left the wing on one person's word, and that the first sheet he carried out with only his own initials on it would be the last sheet he carried anywhere? And would he mind being, for most of every day, the second pair of initials on other people's mistakes? Seln had answered all four with the plain truth, which had cost him nothing. Gault had nodded once and gone back to his room, and in a month had asked him nothing more.
+Magister Gault had seen him on the first morning for about as long as it takes to mend a nib. He had put four questions. Could Seln read a hand not his own? Would he sign his initials to a copy and stand by them? Did he understand that nothing left the wing on one person's word, and that the first sheet he carried out with only his own initials on it would be the last sheet he carried anywhere? And would he mind being, for most of every day, the second pair of initials on other people's mistakes? Seln had answered all four with the plain truth, which had cost him nothing. Gault had nodded and gone back to his room, and in a month had asked him nothing more.
 
-When Seln had copied a date wrong on his third day, Gault had laid the sheet back on the copying table with a pencil dot beside the error and walked away without a word, and it had been the only conversation they ever had about it.
+When Seln had copied a date wrong on his third day, Gault had laid the sheet back on the copying table with a pencil dot beside the error and walked away, and it had been the only conversation they ever had about it.
 
 The sum had settled the rest.
 
@@ -44,7 +44,7 @@ Almost certain. For three weeks it had looked like certainty.
 
 That evening, when the wing had emptied, he did something he had not done since his twenty-third day. He climbed the stair to the east hall gallery, alone, with a lamp, and walked out along it to the turned post at the west end, and looked down.
 
-The hall was dark. The lamp put a small warm ring round him on the boards of the walk and threw nothing on the floor below at all. He stood at the post a while, as a man might stand at a place where something had happened to him, and then he went along the gallery and down the stair, and crossed the dark floor to the near door, and sat on the bench inside it.
+The hall was dark. The lamp put a small warm ring round him on the boards of the walk and threw nothing on the floor below at all. He stood at the post a while, and then he went along the gallery and down the stair, and crossed the dark floor to the near door, and sat on the bench inside it.
 
 He set the lamp on the floor at his feet and looked up.
 
@@ -56,7 +56,7 @@ He sat on the bench and looked at it for some time.
 
 The boy had not looked up that morning. Seln had been sure of that, and had found it a comfort. The boy had not needed to. He had sat with his eyes on the floor in front of his boots like any bored student waiting for a session, and watched the gallery in the glass of a door, and seen a clerk come out of the far end of it and walk the whole length of it without slowing at the post, and without once glancing down at the only lit window in a dark street. And that had been the reading. Not that the clerk had passed. Clerks passed all day. The reading was the glance the clerk had not given, because not giving it was Seln's trade, and he had been too practised to remember that an ordinary man would have.
 
-Eleven seconds he had been pleased with himself, crossing the yard. He remembered the eleven seconds exactly, the way a man remembers the last step before a stair he did not know was there.
+He had been pleased with himself for the length of the yard afterward. He remembered that, the way a man remembers the last step before a stair he did not know was there.
 
 Twice in fifteen years someone had found him out. Both had worked for the other side; both had had ledgers and colleagues and half a year to do it in; and both had been the rare sort of watcher he had met only those two of in his life, who hunted for the gap where a man ought to be rather than for the man. He had thought well of them both. Neither had been a subject. Neither had been fifteen.
 
@@ -74,7 +74,7 @@ No word had gone to the chancellor; her minutes came through the wing, and Seln 
 
 And under that stillness the air of the bluff had changed for him in a way it had taken him the better part of a fortnight to put a word to.
 
-It was not being looked at. A stare he would have caught within the hour, the way a man feels a draught on his neck. This was more like the sense a man has in a house at night that one of the clocks has stopped: no sound, no movement, only a certainty that somewhere in the building a figure is being kept. He was being accounted for. His comings and goings had become a column in someone's book. He knew the feeling to its roots. He had made it in other men, deliberately, as his life's work, in more rooms than he could count. He had never once sat inside it.
+It was not being looked at. A stare he would have caught within the hour. This was more like the sense a man has in a house at night that one of the clocks has stopped: no sound, no movement, only a certainty that somewhere in the building a figure is being kept. He was being accounted for. His comings and goings had become a column in someone's book. He knew the feeling to its roots. He had made it in other men, deliberately, as his life's work, in more rooms than he could count. He had never once sat inside it.
 
 It had held eight days now. A frightened boy would have broken it on the second, by going stiff at the wing door, or by staying away from the gallery, or by telling a friend who told a friend. A clever boy might have held it three days, out of pride. Eight days of nothing, of walking past a found man four times a day and letting nothing show, was neither fright nor cleverness. It was a discipline. And disciplines did not grow wild. Somebody planted them.
 
@@ -120,7 +120,7 @@ Karis tapped her pen on the desk, twice.
 
 "A hole's got edges," she said. "You taught me that, about the clause. You measured the gap on the shelf and found the book that should have been in it. So don't tell me what isn't there. Tell me what shape the not-being-there has."
 
-He sat back in the carrel's one chair and looked at the ceiling for a long time.
+He sat back in the carrel's one chair and looked at the ceiling.
 
 Then he took the binder and turned to the page that said *none observed* and wrote under it, without crossing anything out, because the first version deserved to be kept as the thing he had believed before he knew better.
 
@@ -140,7 +140,7 @@ He turned the binder round so that Karis could read it. She read it twice, and t
 
 If he could not see the smear on the man, then he would have to find it on everybody else. A smear has to fall on something.
 
-He already had the means. He had been building it for six weeks for another purpose: the tally, with its strict rule for what counted as a look. It measured how often the eyes of a passing crowd came to rest on a person. He had only ever turned it on himself. Nothing said it had to stay turned that way.
+He already had the means: the tally, with its strict rule for what counted as a look, which for six weeks he had only ever turned on himself.
 
 The covered walk between the quadrangles ran along a low stone rail on its east side, elbow high, where people waited for friends or leaned out of the wind to talk. At the change from the fourth bell to the fifth, some sixty people went along the walk, and four or five were nearly always leaning at that rail. Cael came along it at that hour four days in seven, back from the north hall. And on most of those days, because Cael came along it, the man from the wing was one of the leaners, in the middle of them, forms against his chest.
 
@@ -150,7 +150,7 @@ Then he split the tally in two. Into one column went the days the man was at the
 
 He was strict with himself about what went in. Days of rain went out, because in rain people walked fast with their heads down and looked at nothing. So did the afternoon Fiske had stopped at the rail to talk to a friend, and half the walk had turned to look at the Copper champion; he wrote that day across the top of the page, *spoiled: Fiske*, and threw it away whole. So did any day he crossed late, or early, or with Brom beside him, because Brom drew eyes of his own, being the size of a door.
 
-What was left was a dull, steady sample, the same stretch of stone at the same bell on dry days, with nothing on it to look at except a few people leaning on a wall. Dull was what he wanted. Anything bright in a sample would only drown the faint thing he was hoping to see.
+What was left was a dull, steady sample, the same stretch of stone at the same bell on dry days, with nothing on it to look at except a few people leaning on a wall. Dull was what he wanted.
 
 The columns took a fortnight to fill far enough to be trusted. When they were full the difference between them was not large. It never once went the wrong way.
 
@@ -162,7 +162,7 @@ It was a number. Nobody had ever given him a number for a Shadow Path, at any ti
 
 That was not a wall round him. It was a toll on everybody near him.
 
-*If it's a rate,* he wrote, *he's spending. If he's spending, he can run short. If he can run short, the spending has a shape across the day, from a full purse at the first bell to whatever is left by the last. Find the shape.*
+*If it's a rate,* he wrote, *he's spending, and spending has a shape across a day. Find the shape.*
 
 ---
 
@@ -180,21 +180,17 @@ He wrote the hours down the left of the page and the places down the right, and 
 
 *It isn't free,* he wrote. *Underline that. Whatever it burns, he has less of it at the fifth bell than at the first, and by the next morning he has it all back. The bend comes at about four hours. Before that he buys the best places. After it he buys what he can afford. I know that bend; it's my own ceiling. It's the evening I stop using the Wind for the good escape and start using it for the cheap one, because the hip has already sent two bills that day.*
 
-He sat back. Something in him that had been tight since the gallery let go.
+He sat back, and something in him that had been tight since the gallery let go. He had been half afraid of the man because he had never seen him pay, and a thing that never paid had no edges. Now he had found one.
 
-He had been half afraid of the man, and he saw now why. He had never seen him pay. A thing that never paid was a thing with no edges, and a thing with no edges could be anywhere and do anything. Now he had found its edges.
-
-Then he turned to the facing page. Ever since Ardenmere he had made himself keep a third column for what he could not reach, and he had not once let it stand empty. A study that kept only its findings would end, sooner or later, by believing it had found everything.
+Then he turned to the facing page, the column he kept for what he could not reach.
 
 *Discarded / cannot reach.*
 
 *How far. I've only ever seen him at rest, in company. I don't know whether the toll reaches across a yard or only an arm's length, or whether it holds while he runs. I can't make him run.*
 
-*Touch and speech. People speak to him at the counter all day, and the toll seems to hold through it. But none of them is looking for him. What it does against someone who is, I can't say. The gallery suggests: not enough.*
+*Floors. He never sets foot on one except carrying paper, and his Path does one thing where I can see it. I'd give a good deal to see it do another. I don't suppose I will.*
 
-*Floors. He never sets foot on one except carrying paper. A Bronze-tier practitioner who never drills, never spars, never so much as stretches where people can see. I'd do the same in his place. Nobody learns what a Path can do except by watching it do things, and he lets his do exactly one. I'd give a good deal to see him put it to another. I don't suppose I will.*
-
-*And the gap under all of them, written large: all of it hangs from a single thread: the spot a man picks to stand on. Vell would call a judgment on one leg a guess wearing a ledger's coat. She'd be right, and I've no second leg to give it.*
+*And under all of it: every line hangs from a single thread, the spot a man picks to stand on. Vell would call a judgment on one leg a guess wearing a ledger's coat. She'd be right, and I've no second leg to give it.*
 
 He read the column through. Then, at the bottom, smaller, he added something that was not a finding and not a gap, because it had been sitting in him since the gallery and he wanted it on paper in his own hand.
 

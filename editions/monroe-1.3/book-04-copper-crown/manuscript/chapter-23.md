@@ -80,7 +80,7 @@ Lira let out a short breath through her nose, which from her was very nearly agr
 
 "I heard it."
 
-"It isn't an argument, Karis. It's just what's going on." But he said it again, slow and level, as he would have said a drill twice for a first-year, and she checked her line against him word by word and nodded once.
+"It isn't an argument, Karis. It's just what's going on." But he said it again, slow and level, as he would have said a drill twice for a first-year, and she checked her line against him word by word and nodded.
 
 ---
 
@@ -176,7 +176,7 @@ The wash-house behind the second quadrangle had a stone floor that sloped to a g
 
 He went down at first grey light with his coat over his shirt and the lamp unlit, because the high window was enough.
 
-The rig was where he kept it, rolled in a meal sack behind the copper. Three canvas bags of sand, stitched along every seam with the waxed thread Brom used on his boots, each with a loop of rope at the neck, marked in charcoal *light*, *middle*, *heavy*. A length of cord knotted at measured lengths. A wooden peg he could wedge into the crack between two flags to mark exactly where his heels belonged. Brom had sewn the bags in an evening without asking what they were for, and had asked only, when he handed them over, whether Cael wanted a fourth for luck.
+The rig was where he kept it, rolled in a meal sack behind the copper. Three canvas bags of sand, stitched along every seam with the waxed thread Brom used on his boots, each with a loop of rope at the neck, marked in charcoal *light*, *middle*, *heavy*. A length of cord knotted at measured lengths. A wooden peg he could wedge into the crack between two flags to mark where his heels belonged. Brom had sewn the bags in an evening without asking what they were for, and had asked only, when he handed them over, whether Cael wanted a fourth for luck.
 
 He hung the middle bag from the rack's crossbeam, ran the cord out to its third knot, and drew the bag back until the knot touched the chalk tick on the far wall. Then he went to the peg and set his feet.
 
@@ -186,13 +186,13 @@ He let the bag go.
 
 It came across the room on its arc, heavy and silent, and met his left forearm, and the forearm took it and the hum went down into the flags, and the bag swung back. He counted four breaths and let it go again.
 
-Eleven, four breaths apart. In his third week on the bluff, rested, he had taken all eleven clean.
+He took them four breaths apart, the full run. In his third week on the bluff, rested, he had taken every one of them clean.
 
-The first seven were nothing. On the eighth he felt the hum start a hair late, and on the ninth later still, like a second bell rung a fraction after the first, but both held. On the tenth the hum did not cover all of it. Most of the blow went down into the stone as it should, and a narrow strip of it stayed behind along the outer edge of the forearm and set there, flat and hard, a bar of impact lying on the bone; he knew before the bag had swung away from him that he would see it purple by noon. The eleventh was worse. He stepped off the peg afterward with his left hand hanging and his breath short, and sat down on the cold rim of the trough.
+The first seven were nothing. On the eighth he felt the hum start a hair late, and on the ninth later still, like a second bell rung a fraction after the first, but both held. On the tenth the hum did not cover all of it. Most of the blow went down into the stone as it should, and a narrow strip of it stayed behind along the outer edge of the forearm and set there, flat and hard, a bar of impact lying on the bone; he knew before the bag had swung away from him that he would see it purple by noon. The last was worse. He stepped off the peg afterward with his left hand hanging and his breath short, and sat down on the cold rim of the trough.
 
 He wrote on his knee, with a pencil that would not keep still in his fingers, and let it wander.
 
-*Middle bag, eleven swings: nine clean. The ceiling at that weight was eleven in the third week, rested. The fragment hasn't changed. The boy using it hasn't closed his eyes since the night before last, all on account of a grey notebook with one paragraph in it.*
+*Middle bag: nine clean before the hum gave. In the third week, rested, it held to the end of the run. The fragment hasn't changed. The boy using it hasn't closed his eyes since the night before last, all on account of a grey notebook with one paragraph in it.*
 
 *What each deployment costs: half a breath at the moment the bag lands, and nothing anybody could see. The ache comes up a minute later and stays two hours; the hand won't write properly for about as long. What it buys: the bag should have turned me half round. I didn't move.*
 

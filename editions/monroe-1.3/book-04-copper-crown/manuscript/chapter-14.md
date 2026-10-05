@@ -22,7 +22,7 @@ Lira brought the first two to supper.
 
 "That'll be the next one," said Lira. "Wait."
 
-Brom brought the next one. He sat down beside Cael with his tray, and did not say anything at first. Then he said, very carefully, as if it might go off, "There's a fourth-year in the cohort says you did something in there that made an instructor get up and walk out of the room."
+Brom brought the next one. He sat down beside Cael with his tray, and did not say anything at first. Then he said, very carefully, "There's a fourth-year in the cohort says you did something in there that made an instructor get up and walk out of the room."
 
 Cael put his spoon down.
 
@@ -52,7 +52,7 @@ The porter was wiping down the Copper board the next afternoon, and Cael was sit
 
 There were perhaps sixty people still in the yard. The session had broken up a few minutes before, and the stone seats were emptying in the slow, sociable way they always emptied, with knots of second-years arguing about a bout and somebody calling a name across the floor. Ephram came up through all of it without hurrying. His weight rode forward on the balls of his feet, as it always did, so that even climbing a stair he looked like a man about to step into something.
 
-For most of a month Cael had watched him from the east hall's gallery, and not once in all that time had Ephram lifted his eyes to it. It wasn't shyness; Cael had settled that early. He had seen Ephram leave four other people unlooked-at in exactly the same way, people who plainly wanted his notice. His notice was a coin he paid out only after he had weighed what it would buy.
+For most of a month Cael had watched him from the east hall's gallery, and not once in all that time had Ephram lifted his eyes to it. It wasn't shyness; Cael had settled that early. He had seen Ephram leave four other people unlooked-at in the same way, people who plainly wanted his notice. His notice was a coin he paid out only after he had weighed what it would buy.
 
 He had decided now, and Cael shut the notebook on one finger.
 
@@ -62,7 +62,7 @@ He came to a halt just outside arm's reach, his hands at his sides.
 
 "He sent five up the bluff this year," said Cael. "Three went to faculty. One's in the library. Karis asked him who had the fifth, and he wouldn't say."
 
-Ephram's eyebrows rose by the width of a hair. Cael wrote it down that night: the first thing he had ever learned from Ephram at arm's length.
+Ephram's eyebrows rose by the width of a hair. It went into the notebook that night: the first thing he had ever learned from Ephram at arm's length.
 
 "Mine," said Ephram. "So you know what I'm working from, and what I'm not." He moved his head an inch, taking in the yard, the boards, the sunk floor, all of it. "I'll give you where I stand myself, so you don't have to piece it together from the refectory. Half the people on this hill have made you into something remarkable. The other half have made you a fraud. Not one of either half has seen you do anything. What they've got is a law report. It tells me the Compact lost an argument about paper. It tells me nothing at all about whether you can stand up on a floor."
 
@@ -82,7 +82,7 @@ Cael sat where he was with the notebook shut on his finger and found his face wa
 
 Whether it was gold, he did not yet know. That was the trouble: nobody did.
 
-Brom came up the tiers a quarter of an hour later, having heard it twice on the east hall's steps inside ten minutes, and sat down on the stone beside Cael without a word.
+Brom came up the tiers a quarter of an hour later, having heard it twice on the east hall's steps inside ten minutes, and sat down on the stone beside Cael.
 
 "He's like that on the floor," he said at last. "That exact way. Looks at you as if you were a sum, and then does the sum out loud so the rest of the room can check his working." He picked at the strapping on his knuckles. "He's never once been unkind to me. He's never once been wrong about me, either. I can't decide which is harder to sit next to."
 
@@ -144,7 +144,7 @@ They always kept that line for near the end, and this officer was no different; 
 
 Agreement it was not, and hardly an answer either. He gathered the pages together and squared their edges on his palm, and the officer, who had perhaps expected to be asked something, watched him do it and then looked at the door.
 
-Seln had been standing the whole time, as he always did. A chair let a man settle, and a settled man began to wonder aloud, and in a room like this every wondering was a small admission of what the man had already made up his mind about. It was an old lesson. Those who handed out the work, he had found, were fondest of the officer who took his paper, read it once and left without a word, and he had let them be fond of him for it ever since. A man who never asked was the man they sent to places nobody wished to discuss. Those were the good places, mostly. They were also the ones nobody came to check.
+Seln had been standing the whole time, as he always did. A chair let a man settle, and a settled man began to wonder aloud, and in a room like this every wondering was a small admission of what the man had already made up his mind about. It was an old lesson. Those who handed out the work, he had found, were fondest of the officer who took his paper, read it once and left, and he had let them be fond of him for it ever since. A man who never asked was the man they sent to places nobody wished to discuss. Those were the good places, mostly. They were also the ones nobody came to check.
 
 The room had no window; they never did.
 
@@ -216,7 +216,7 @@ The satchel took him everywhere. A new assistant carries paper, and paper has bu
 
 On the fourth morning he was in the assessment wing's passage with an armful of forms when the door of the demonstration room opened at the change of bell.
 
-Two instructors came out first, and a clerk with a folder, into the stream of people going by. Then, after a little, the boy came out alone, unhurried, carrying nothing, favouring the leading leg a little and holding his right arm close against his side the way a man holds an arm that has been asked to take something it did not care for. Behind him the magister had turned back into the room. Seln was perhaps thirty feet away. He stepped out of the stream, as a clerk does, to let it go by.
+Two instructors came out first, and a clerk with a folder, into the stream of people going by. Then, after a little, the boy came out alone, unhurried, carrying nothing, favouring the leading leg a little and holding his right arm close against his side. Behind him the magister had turned back into the room. Seln was perhaps thirty feet away. He stepped out of the stream, as a clerk does, to let it go by.
 
 He did not look at the boy.
 
@@ -240,7 +240,7 @@ He had a filing to hand in on the way, so he went to the assessment wing first.
 
 It was his second floor-time allocation, and he walked it over himself, three days after the baseline, instead of leaving it for the residence clerk. He wanted to see the wing on a day when nobody was being measured in it. The demonstration room's door was shut. The passage smelled of lamp black and machine oil and the fine dry dust of the chalk trays, and on the records side every sheet he saw bore a pair of dates and a pair of initials, one for whoever had written it and one for whoever had checked, so that no paper could leave the wing with a single person's word on it. Vell had run her ledger like that from sheer temper; Halcenvane printed it into its forms.
 
-In the end office the regular clerk sat frowning over a tally. Under the window, at the copying table, sat somebody Cael had not seen before. He took Cael's sheet without a word and read it right through, which most clerks never did. He turned it over to look at the authorizations on the back, checked both sets of initials in the corner, laid it on the right heap without glancing at the heaps, and wrote it into the big ledger with the two dates side by side.
+In the end office the regular clerk sat frowning over a tally. Under the window, at the copying table, sat somebody Cael had not seen before. He took Cael's sheet and read it right through, which most clerks never did. He turned it over to look at the authorizations on the back, checked both sets of initials in the corner, laid it on the right heap without glancing at the heaps, and wrote it into the big ledger with the two dates side by side.
 
 "East and north halls. Four a week, supervised. Any change of hall reaches your residence board from this office, the evening before. Never from a hall. A notice from a hall is unauthorized; ignore it." He blotted the line. "That's been tried twice this term."
 

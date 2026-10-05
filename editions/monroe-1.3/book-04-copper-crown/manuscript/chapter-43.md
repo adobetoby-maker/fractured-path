@@ -26,11 +26,11 @@ The semifinal ran on the ladder's terms, not the final's, since neither of them 
 
 Merrick did not feed cheap strikes, and Brom had been right about that. He came off his chalk at the word with a real strike, honestly weighted, at the left shoulder, and Brom took it square on the forearm and the shoulder behind it without turning, as Rooke had built him to, and went forward through it at once, hard, driving while the struck side was still hard.
 
-He drove into nothing. Into less than nothing. A yard in front of his chest the air went flat and bright for an instant, like a sheet of glass catching the light, and Brom's drive hit it and stopped dead, as though he had run into a door. Merrick had set a pane. He had set it not between himself and Brom but in the line Brom's counter would take, a breath before the counter came, and Brom had driven his whole weight into it and bounced. In the half-beat while he was still finding his feet, Merrick's open hand came round the edge of the pane and touched him on the ribs.
+He drove into nothing. Into less than nothing. A yard in front of his chest the air went flat and bright for an instant, like a sheet of glass catching the light, and Brom's drive hit it and stopped dead. Merrick had set a pane. He had set it not between himself and Brom but in the line Brom's counter would take, a breath before the counter came, and Brom had driven his whole weight into it and bounced. In the half-beat while he was still finding his feet, Merrick's open hand came round the edge of the pane and touched him on the ribs.
 
 "Shield," said the table. "One."
 
-Brom went back to his chalk shaking his head like a man who has walked into a low beam.
+Brom went back to his chalk shaking his head.
 
 "Oh," said Karis softly. "Oh, that's clever."
 
@@ -62,7 +62,7 @@ The yard came up off its benches.
 
 "He's timing it," said Karis. She had stopped writing. "He's using the stall to time the pane."
 
-"He's using what's left of it," said Cael. "If Rooke hadn't made it short, it would be too long. If it were gone, he couldn't wait at all. It's exactly the right size today, and it's never going to be this size again."
+"He's using what's left of it," said Cael. "If Rooke hadn't made it short, it would be too long. If it were gone, he couldn't wait at all. It's the right size today, and it's never going to be this size again."
 
 The fifth exchange was short and ugly.
 
@@ -74,7 +74,7 @@ Brom drove through the place where it should have been and touched him on the br
 
 He took it in the fifth.
 
-He walked back to his chalk with his chest going up and down like a bellows, and his forearms red from wrist to elbow, and his face entirely blank. When he got there he turned round and looked up at the east tier, at the usual place, for a long moment. Then he looked down at Lira on the bottom step with her leg along the stone, and Cael saw something go between them that he had no column for.
+He walked back to his chalk with his chest going up and down like a bellows, and his forearms red from wrist to elbow, and his face entirely blank. When he got there he turned round and looked up at the east tier, at the usual place. Then he looked down at Lira on the bottom step with her leg along the stone, and Cael saw something go between them that he had no column for.
 
 Merrick crossed the boards and shook Brom's hand and said something short, and Brom said something shorter, and Merrick nodded, gravely, and went.
 
@@ -160,7 +160,7 @@ Lira held out the tied batons, but Brom did not take them. He nodded across the 
 
 "You keep them," said Lira. "Till the nineteenth. You keep things."
 
-Karis took the bundle in both hands, as if it were a document, and looked at the knot with professional disapproval, and did not retie it.
+Karis took the bundle in both hands, looked at the knot with professional disapproval, and did not retie it.
 
 "Receipt," she said, and wrote one line in the marbled book, and put the batons under her chair.
 
@@ -228,7 +228,7 @@ She wrote *FIVE* at the head of the third column, and under it, small, *and not 
 
 He looked at the slate.
 
-He had been braced for a week, he realised, for exactly this question. He had been expecting the three to pull against each other, growth against caution, caution against honesty, and he had been bracing himself to choose between them and to dislike whatever he chose. He looked for the place where they fought, and went on looking.
+He had been braced for a week, he realised, for this question. He had been expecting the three to pull against each other, growth against caution, caution against honesty, and he had been bracing himself to choose between them and to dislike whatever he chose. He looked for the place where they fought, and went on looking.
 
 There wasn't one.
 
@@ -266,11 +266,11 @@ Hall three had frightened him to the bone once before, on the day of the pin. Th
 
 It was an ordinary supervised hour. The wing sent somebody to watch two of his four hours each week, because the provision said that floor time bound to an evaluation had to be witnessed, and the somebody was nearly always the same quiet woman from the wing. She kept to the north rail with a board on her knee and a pencil, and in half a year Cael had never once seen her look surprised. Brom was his partner, as he usually was on Third-days. They were running a redirect sequence at half pace round the north bay on the new pins: Brom fed, Cael took the feed and turned it, Brom fed again from the new angle, round and round, a pattern they had worked so often that it had worn a faint pale track into the timber.
 
-It was the sort of work that wanted every part of a person. He had chosen it in the first month for exactly that reason, because the way to learn a sequence was to give it all of you. He had not thought about that choice since.
+It was the sort of work that wanted every part of a person. He had chosen it in the first month for that reason, because the way to learn a sequence was to give it all of you. He had not thought about that choice since.
 
 On the fourteenth turn the sequence took the last corner of him, and he did not feel it go.
 
-That was what frightened him afterward, more than anything. There was no lurch. There was no spike behind the eyes and no warning of any kind. There was only the sequence, which was going beautifully, better than it had gone all week. Brom's feeds were arriving exactly where he wanted them and his own turns were coming out clean and early, and the hold, for the first time in days, was costing him nothing. He noticed that, dimly, as a pleasant thing, the way you notice a room is warm.
+That was what frightened him afterward, more than anything. There was no lurch. There was no spike behind the eyes and no warning of any kind. There was only the sequence, which was going beautifully, better than it had gone all week. Brom's feeds were arriving where he wanted them and his own turns were coming out clean and early, and the hold, for the first time in days, was costing him nothing. He noticed that, dimly, as a pleasant thing, the way you notice a room is warm.
 
 Then Brom stopped.
 
@@ -282,7 +282,7 @@ Then they found him.
 
 Cael did not move.
 
-At the north rail the woman from the wing was writing on her board. She had been writing on it, Cael saw, with a cold that went down through him into his boots, for the whole of the last minute. Her head was bent over it, and she did not look up, but turned a page and wrote on.
+At the north rail the woman from the wing was writing on her board. She had been writing on it, Cael saw, with a cold that went down through him into his boots, for the whole of the last minute. Her head was bent over it, and stayed bent; she turned a page and wrote on.
 
 Two breaths, he thought. Three at most.
 

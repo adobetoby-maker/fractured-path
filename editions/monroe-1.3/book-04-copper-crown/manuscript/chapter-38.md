@@ -8,23 +8,23 @@ He had his own line for the day already, at the head of the page, under the date
 
 *Hold ordinary. Count the bumps.*
 
-It had been none yesterday, and none the day before that, and he meant it to be none again, because by now he knew the work's exact shape. He minded the edges of himself the way a ferryman minds the current, without staring at it, with the part of his attention that never quite went to sleep. He paid for the minding with a dull weight behind the eyes that arrived about the middle of the afternoon and stayed until he lay down. It was rent: Lira had named it, and the name had stuck because it was true. You paid it whether you used the room or not. If he stopped paying, he went thin: eyes slid off him as if he were not there, and sooner or later somebody whose trade was noticing would notice.
+It had been none yesterday, and none the day before that, and he meant it to be none again, because by now he knew the work's exact shape. He minded the edges of himself without staring at them, with the part of his attention that never quite went to sleep, and paid for it with a dull weight behind the eyes that arrived about the middle of the afternoon and stayed until he lay down. Rent, Lira had called it. If he stopped paying, he went thin, and sooner or later somebody whose trade was noticing would notice.
 
-After breakfast he went to the covered walk's east end, where the rail looked down over the last bend of the bluff road, and stood there through the change of the second bell with a lecture's notes open in his hands. It was a good place to be ordinary in. People streamed past behind him in both directions, going to the lecture range and coming from it, and none of them needed him for anything, and he gave every one of them exactly the ordinary amount of room.
+After breakfast he went to the covered walk's east end, where the rail looked down over the last bend of the bluff road, and stood there through the change of the second bell with a lecture's notes open in his hands. It was a good place to be ordinary in. People streamed past behind him in both directions, going to the lecture range and coming from it, and none of them needed him for anything, and he gave every one of them the ordinary amount of room.
 
 That was why he saw the courier.
 
-The man came round the last bend on foot, alone, walking fast, with a satchel strapped flat across his chest so that it could not swing. That alone was wrong for the hour. The bluff's morning traffic came up slowly and in company: carters with flour, a guild factor with a clerk, instructors back from the town with parcels under their arms, all of them climbing the way people climb a hill they know, stopping at the bend to look back at the river. This man did not look at anything, and he climbed like somebody whose day was measured from the moment he set off.
+The man came round the last bend on foot, alone, walking fast, with a satchel strapped flat across his chest so that it could not swing. That alone was wrong for the hour. The bluff's morning traffic came up slowly and in company: carters with flour, a guild factor with a clerk, instructors back from the town with parcels under their arms, all of them stopping at the bend to look back at the river. This man did not look at anything, and he climbed like somebody whose day was measured from the moment he set off.
 
 Then the coat.
 
 The watchers at the road's foot wore grey, and Cael had spent a season learning their grey: road grey, the grey of dust that has been rained on, a colour chosen so that nobody would remember it. This was the other grey: cold and faintly blue, like slate after rain, the grey of the registry. He had seen it on the clerks behind the long counter at the certification hall in Denvash, and once on a young assessor standing in front of a pump step, in boots too new to have creased. He had never once mistaken it for anything else.
 
-Cael noted as well that the two watchers at the road's foot had let the courier by without moving. They had looked at him for exactly as long as they would have looked at a cart.
+Cael noted as well that the two watchers at the road's foot had let the courier by without moving. They had looked at him for as long as they would have looked at a cart.
 
 He did not follow the man up to the gate. He wanted to, and he noticed himself wanting to, and stayed where he was at the rail with his notes open, because a boy who leaves his place to trail a courier has told every watcher on the bluff that couriers matter to him. Instead he watched the satchel go in under the arch, and counted twelve breaths. Then the porter came out of his lodge at a trot, which the porter never did, and went across the first quadrangle toward the chancellor's door with the man in grey a pace behind him.
 
-Then he looked down at his own edges, the way you glance at a pot on the fire. They were where they ought to be; whatever had come up the road, he had not gone thin at the sight of it.
+Then he checked his own edges. They were where they ought to be; whatever had come up the road, he had not gone thin at the sight of it.
 
 He wrote the bell in the margin of his notes, small, and went to his lecture.
 
@@ -62,7 +62,7 @@ So the counsel read it, in the dry, careful voice of somebody who has noticed ov
 
 After it came an appendix with a schedule in it, and a manifest of names, and the seal on its red ribbon, which she held up a moment for the table to see.
 
-*Provision-status evaluations.* Halcenvane had exactly one provision-status enrollee, and he was sitting in the last chair with his hands in his lap. His enrollment stood on that evaluation every term; if it went against him, he would be a boy with no school and no standing again.
+*Provision-status evaluations.* Halcenvane had one provision-status enrollee, and he was sitting in the last chair with his hands in his lap. His enrollment stood on that evaluation every term; if it went against him, he would be a boy with no school and no standing again.
 
 The Stone man let out a long breath. "Well. Inspection. They come round."
 
@@ -88,7 +88,7 @@ The counsel put the third finger down and read it.
 
 Cael always read the hands first. He watched the name travel round the table, and every pair of hands took it in its own way.
 
-Bracken laid his pen down. He laid it parallel to the edge of the table, very exactly, the way a man sets down a tool he does not trust himself to keep holding. Gault's big hand lay on his folder and did not move by a hair, and Cael had watched Gault long enough to know that this perfect stillness was Gault being startled. The Stone man laughed, one short sound like somebody hearing a sum come out absurd, and cut it off at once and looked down. The law lecturer leaned across and asked, very politely, if she might see the page, as if the counsel might have misread a plain word. Karis wrote the name in the grey notebook and ruled a line under it, and then a second line under the first.
+Bracken laid his pen down. He laid it parallel to the edge of the table, very exactly, the way a man sets down a tool he does not trust himself to keep holding. Gault's big hand lay on his folder and did not move by a hair, and Cael had watched Gault long enough to know that this perfect stillness was Gault being startled. The Stone man laughed, one short sound like somebody hearing a sum come out absurd, and cut it off at once and looked down. The law lecturer leaned across and asked, very politely, if she might see the page. Karis wrote the name in the grey notebook and ruled a line under it, and then a second line under the first.
 
 Rooke, at the fireplace, unfolded his arms and folded them again the other way.
 
@@ -96,7 +96,7 @@ The counsel turned to Withrow. "I can tell this table what the law says about ev
 
 "May I ask what one is?" said Karis. Her voice came out higher than she meant, and she cleared her throat. "An Archmarshal. Exactly. There are three mentions of the rank in our whole library, and every one of them is a list of who sat where."
 
-Withrow looked down the table at her for a moment, as though pleased to be asked by the person in the room least likely to need it explained twice.
+Withrow looked down the table at her, pleased, it seemed, to be asked by the person in the room least likely to need it explained twice.
 
 "I'll answer that. I sat at a registry desk for twenty years before I sat in this one, so I'm the least ignorant person here, and that's not saying a great deal."
 
@@ -114,7 +114,7 @@ Nobody at the table moved.
 
 "Nothing." Withrow did not hesitate. "I take the notice at its word. There isn't a line on that sheet that's his. No business with his seal on it, no request, no question. Only his name, heading a list that would otherwise bore you." She reached across and closed the counsel's case herself, with a small flat click. "The inspection is ordinary. His presence is the message. Somebody very high wants their own eyes on this, and they have sent the best pair they have."
 
-For a moment nobody said anything. Cael was aware of the dull weight behind his eyes, which had come early today, and of his own edges. He minded them hard and gave the room exactly the ordinary amount of himself, and it cost more than usual.
+For a moment nobody said anything. Cael was aware of the dull weight behind his eyes, which had come early today, and of his own edges. He minded them hard and gave the room the ordinary amount of himself, and it cost more than usual.
 
 "So we'll be inspected in the ordinary way," said Withrow. "Bracken, the documentary work begins this afternoon. I don't want it built to win an argument. I want it built to be filed and to sit in a cabinet and be true. Magister Gault—"
 
@@ -130,7 +130,7 @@ Gault shook his head, very slightly. "It is not good or bad. It is the mandate."
 
 ---
 
-Rooke was waiting at the foot of the records hall's steps when Cael came out, which was the first surprise. The second was that he fell in beside him without a word and walked him all the way across the second quadrangle toward the halls, as if they had arranged to go somewhere together.
+Rooke was waiting at the foot of the records hall's steps when Cael came out, which was the first surprise. The second was that he fell in beside him, saying nothing, and walked him all the way across the second quadrangle toward the halls.
 
 Cael had not prepared for this, and knew it at once.
 
@@ -144,7 +144,7 @@ Cael had not prepared for this, and knew it at once.
 
 "The first was a forecast, and it came true. The second wasn't a forecast. It was a job. It was mine, and I didn't do it." There was no heat in it. It was how he told a pupil a stance was wrong. "A great deal of what an inspector reads to judge whether a house can hold an enrollment like yours is supervision paper, and supervision paper is my cohort's. Mine has sat in drawers all season, because nobody asked me for it in a shape a stranger could read. I was too busy being right in the minutes to put it in that shape. That's poor work. You sat in the room when I made the objection, so you're owed the correction as well."
 
-When they came to the north arch, Rooke stopped under it, and the traffic of the change of bell went round them both like water round a post.
+When they came to the north arch, Rooke stopped under it, and the traffic of the change of bell parted round them both and closed again behind.
 
 On the page headed *Rooke*, in the first month, Cael had written six words: *Fights the institution, not the person.* And under them: *Evidence only.* He stood under the arch and felt that page go out of date inside his coat.
 
@@ -162,7 +162,7 @@ He sat over that for a time, and then put one more line beneath it, because it w
 
 ---
 
-The unit met in the yard at the sixth bell, as the sheet on the residence board had said it would, and Seln taught it exactly as if nothing whatever had come up the road that morning.
+The unit met in the yard at the sixth bell, as the sheet on the residence board had said it would, and Seln taught it with no sign that anything had come up the road that morning.
 
 Nine of them stood in a loose line under the lecture range's wall, in coats, and counted the people who looked up at the records hall's windows in the space of a quarter of an hour. Gwen counted forty-one and wrote a large *41* with an eye drawn in the loop of the four, and Cael counted thirty-eight and wrote thirty-eight. Seln took the slates and made a column of the figures in the round copying hand. Then he said, in his flat voice, that the yard had been looking at a building because it believed the building had news in it, and that this was the commonest error in the trade, since buildings rarely had news in them and people nearly always did. Then he dismissed them, and his eyes passed along the line and did not stop anywhere in particular, and Cael had stopped expecting them to.
 
@@ -188,7 +188,7 @@ Lira stopped the pin halfway up her leg.
 
 "I'll guess," she said. "I don't mind. They've sent the biggest thing they own to look at one boy and a clause. Which means somebody up there's stopped believing the reports." She looked at Cael. "Or never did."
 
-Nobody answered that, though down on the river a barge called its long note and another answered from the bend.
+Nobody answered that.
 
 "What did Gault's look mean?" said Lira. "Karis says he looked at you."
 
@@ -218,9 +218,9 @@ Brom put his mug down at last.
 
 "It doesn't matter which," he said, and looked round at them all. "I don't see what changes. We were always going to be looked at on the twentieth. Now we get looked at by somebody important. That's not worse. That's just more chairs."
 
-"It's eleven more chairs," said Karis.
+"It's nine more chairs," said Karis.
 
-"Eleven more chairs," Brom agreed, and picked his mug up again, and drank from it this time.
+"Nine more chairs," Brom agreed, and picked his mug up again, and drank from it this time.
 
 Cael went up early. He sat at the window with the lamp low and did not write anything for a long time, and the weight behind his eyes had grown into something with corners. He had not stopped minding his edges once all day, not even when the counsel read the name and every other part of him had wanted badly to go somewhere else.
 

@@ -42,7 +42,7 @@ Then he sat a while longer, and then he wrote the part that mattered.
 
 *At Greyvane the question of what I was had no answer, and so it stayed open. That was hard to live in, but an open door can still be walked through later, by somebody carrying proof.*
 
-*Here every door is already shut, and every one on the wrong room. Eleven wrong rooms. People here meet me already knowing, and knowing is the end of looking.*
+*Here every door is already shut, and every one on the wrong room. People here meet me already knowing, and knowing is the end of looking.*
 
 *It's easier to fill a bare room than to clear out a full one. People don't give up furniture they chose themselves. They'll defend the chair before they'll let you show them the floor.*
 
@@ -60,7 +60,7 @@ The item came up a little after the half-hour, and the clerk read its title off 
 
 Then Instructor Rooke spoke from his chair.
 
-Cael had already put him on the list. He had stood nine minutes at the door of the east hall on the fourteenth morning and watched Rooke take the Blade cohort through a drill. He had hardly looked at the cohort; he had watched Rooke not moving. The man was Silver-tier and past fifty, narrow and grey, and he held still between corrections like somebody who had learned long ago exactly what each movement cost him and would not pay for one he did not need.
+Cael had already put him on the list. He had stood nine minutes at the door of the east hall on the fourteenth morning and watched Rooke take the Blade cohort through a drill. He had hardly looked at the cohort; he had watched Rooke not moving. The man was Silver-tier and past fifty, narrow and grey, and he held still between corrections like somebody who had learned long ago what each movement cost him and would not pay for one he did not need.
 
 "The provision may be sound. The attention it buys us is not. I want it minuted that I said so before the inspection notice arrives, not after."
 
@@ -202,9 +202,9 @@ He passed the notice along the wall. Lira read it and gave it to Brom. Brom read
 
 "I know."
 
-"No, I mean it." She did not look up from her book. "Whatever you show first is where they measure growing from. Show too little and every semester after looks like a miracle, and somebody will want to know where miracles come from. Show too much and you've left yourself nowhere to go." She turned a page. "It's the only paper you'll ever sign that can't be amended."
+"No, I mean it." She kept her eyes on her book. "Whatever you show first is where they measure growing from. Show too little and every semester after looks like a miracle, and somebody will want to know where miracles come from. Show too much and you've left yourself nowhere to go." She turned a page. "It's the only paper you'll ever sign that can't be amended."
 
-Nobody said anything after that for a long while.
+Nobody said anything after that.
 
 Four of them sat on a wall above a river at the end of a day, as they had sat on a good many walls in a good many towns, and for the first time each of them had a road the other three were not on. Lira had a bracket and a queue and a date written on a sheet. Brom had a cohort he would not talk about yet. Karis had a carrel with a key and three floors of law below it. Cael had half a sheet of paper and a month. They had come through every gate together and would go on coming through them together. But past this one the roads ran four ways at once, and all of them could feel it.
 
@@ -218,7 +218,7 @@ He took the binder out and wrote the day while there was light enough.
 
 He read that back. Then he wrote the rest, because a binder that kept only the comfortable half was no use to him.
 
-*I don't believe it, not all the way. A reason holds until the day it costs more than it brings, and then it goes, quickly, with a ledger to show why. Belief is whatever is still in the chair after the sum has turned, and Quenna's turned against her in front of two hundred people while she stayed in her chair one row back, exactly where I'd asked her to sit.*
+*I don't believe it, not all the way. A reason holds until the day it costs more than it brings, and then it goes, quickly, with a ledger to show why. Belief is whatever is still in the chair after the sum has turned, and Quenna's turned against her in front of two hundred people while she stayed in her chair one row back, where I'd asked her to sit.*
 
 *The first kind of roof I can climb up and check. The second I can only live under. I have. It didn't fall in.*
 

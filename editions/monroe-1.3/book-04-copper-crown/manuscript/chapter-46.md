@@ -14,7 +14,7 @@ The records officer was in the westbound stream, coming toward him along the wal
 
 Cael let the compound gaze open, all the way, the way he would for anybody worth the price, and left the Iron-adjacent read running coarse and cheap along his forearms underneath it. The corner of him that held his edges stayed where he had put it at dawn, and he checked that it was there before he let anything else go out.
 
-Rhythm: even, unhurried, a step that had walked a great many corridors toward a great many tables. Weight: a little forward, onto the case, the way a man carries a thing he would be in trouble for dropping. Breath: easy. Attention: on the door, and then, once, on the clerk behind, and then on the door again. It was a clean reading of an officer on his way to a sitting. It had no edges in it anywhere, and nothing in it pointed at Cael.
+Rhythm: even, unhurried, a step that had walked a great many corridors toward a great many tables. Weight: a little forward, onto the case. Breath: easy. Attention: on the door, and then, once, on the clerk behind, and then on the door again. It was a clean reading of an officer on his way to a sitting. It had no edges in it anywhere, and nothing in it pointed at Cael.
 
 Twenty feet. Fifteen.
 
@@ -24,7 +24,7 @@ It did not come far. It came an inch, perhaps a little more, and it stayed there
 
 Then the man was behind him, and the shoulder was level again, and the stream closed up.
 
-Cael kept walking, without turning round and without changing his pace by a hair. He counted his steps to the end of the walk, because counting steps was a thing he often did and nobody would think twice about it, and he went in at the library door with the rain on his collar and the hold exactly where he had left it.
+Cael kept walking, without turning round and without changing his pace by a hair. He counted his steps to the end of the walk, because counting steps was a thing he often did and nobody would think twice about it, and he went in at the library door with the rain on his collar and the hold where he had left it.
 
 It was only at the long table under the north window, with the notebook open in front of him, that he let himself look at what he had been given.
 
@@ -32,7 +32,7 @@ It was only at the long table under the north window, with the notebook open in 
 
 Havel had seen the boy at thirty feet and had known him at twenty, by the walk.
 
-He would have known that walk anywhere. He had watched it come across a square at Ardenmere toward a pump step, on a cold bright morning two years ago, when he had worn a worse coat and been, he sometimes felt, a good deal younger than two years should account for. It had changed since, grown longer in the stride and lighter on the heel, and it had stopped hurrying. But it still took the middle of whatever space it had been given and no more than the middle, as if somebody had once explained to the boy exactly how much room he was allowed and he had believed them.
+He would have known that walk anywhere. He had watched it come across a square at Ardenmere toward a pump step, on a cold bright morning two years ago, when he had worn a worse coat and been, he sometimes felt, a good deal younger than two years should account for. It had changed since, grown longer in the stride and lighter on the heel, and it had stopped hurrying. But it still took the middle of whatever space it had been given and no more than the middle, as if somebody had once explained to the boy how much room he was allowed and he had believed them.
 
 The delegation's card was in Havel's inside pocket, beside the notebook. It was a small stiff card, printed, and every officer on the manifest had been handed one at the coast. Officers of the delegation did not converse with any party under review outside a sitting. They did not acknowledge any such party beyond ordinary courtesy. They did not carry messages, take papers, or accept anything offered.
 
@@ -48,7 +48,7 @@ Fifteen feet. The boy's eyes were on the walk ahead, not on him, as they should 
 
 Nine feet.
 
-He let the near shoulder come down and forward, and he did not decide it at the last moment. He had decided it at fifteen feet, when he had seen how the stream was packed against the wall, and he had measured it then. It was exactly the room a man gives a stranger in a doorway. It was the room he would have given a porter, or a girl with an armful of books, or a magistrate he did not like. It was the most the card allowed and he gave all of it, and not a hair more.
+He let the near shoulder come down and forward, and he did not decide it at the last moment. He had decided it at fifteen feet, when he had seen how the stream was packed against the wall, and he had measured it then. It was the room a man gives a stranger in a doorway. It was the room he would have given a porter, or a girl with an armful of books, or a magistrate he did not like. It was the most the card allowed and he gave all of it, and not a hair more.
 
 They passed. He did not feel the boy's sleeve. That was the point of the inch.
 
@@ -82,7 +82,7 @@ He sat with that for a while.
 
 He still did not know who kept moving the man up, or why every move seemed to set him down in some room Cael was standing in. There were things in Havel's work he was not allowed to say. Cael had always been able to see that much, because the man wore it in his face like a collar a size too small. The walk had told him nothing about any of it.
 
-What the walk had told him was smaller, and he had known it for two years and never quite let himself keep it. Whatever the man had been ordered, he had always done every scrap of kindness the orders left room for, and then stopped, exactly at the line, as if he had measured it beforehand with a rule. At the pump step it had been a fifth question asked in an ordinary voice. Today it had been an inch.
+What the walk had told him was smaller, and he had known it for two years and never quite let himself keep it. Whatever the man had been ordered, he had always done every scrap of kindness the orders left room for, and then stopped at the line. At the pump step it had been a fifth question asked in an ordinary voice. Today it had been an inch.
 
 Cael had gone back and forth for two years over whether that deserved thanks. A part of him had always said that thanking somebody for so little was a kind of foolishness. It said that a boy who was grateful for an inch was a boy who had got used to being given nothing.
 
@@ -116,7 +116,7 @@ So he went, and sat in his place, and Brom came up after a while and sat on his 
 
 About a hundred and forty people had come. That was a big crowd for a bout with no crown on it, and Cael knew why, and so did everybody else on the tiers. Some had come to see the boards, and most had come to see who else came. The north tier was fuller than it ought to have been, and people kept glancing at its stair.
 
-The fighters came out to their chalk. The Force girl was tall and narrow and very quick off the mark, and she had a habit Cael had logged in the first month. She drove her first strike of every exchange at the same height, chest-high, as if she wanted to find out at once whether the other fighter would give ground. The Stone fourth-year was square and slow, and he rooted. When he set his weight he went down into the oak like a post going into a hole, and for the length of a breath he could not be shifted by anything less than a cart.
+The fighters came out to their chalk. The Force girl was tall and narrow and very quick off the mark, and she had a habit Cael had logged in the first month. She drove her first strike of every exchange at the same height, chest-high, to find out at once whether the other fighter would give ground. The Stone fourth-year was square and slow, and he rooted. When he set his weight he went down into the oak like a post going into a hole, and for the length of a breath he could not be shifted by anything less than a cart.
 
 The table called the first exchange.
 
@@ -128,7 +128,7 @@ On the tiers somebody muttered. Cael wrote nothing. He watched the three faculty
 
 And while the fighters were walking back to their chalk, on the north tier, a man came up the stair.
 
-He came up it at an ordinary pace and found a place at the rail among thirty or so others, at the end nearest the stair. He stood there with his hands at his sides, in his plain grey, looking at the boards. Nobody near him moved away, and nobody moved closer. The people on either side of him simply went very still, the way people go still beside a dog they have not been introduced to.
+He came up it at an ordinary pace and found a place at the rail among thirty or so others, at the end nearest the stair. He stood there with his hands at his sides, in his plain grey, looking at the boards. Nobody near him moved away, and nobody moved closer. The people on either side of him simply went very still.
 
 Cael did not look at him. He looked at the boards, and let the man sit at the very edge of his eye, where a thing is known but not watched, and he felt the corner of himself that was holding his edges go tight, like a hand on a rope.
 
@@ -156,7 +156,7 @@ And on the north tier, the man in grey turned from the rail and went down the fa
 
 The exchange was still running, the table had not lifted a hand, and nobody on the boards had touched anybody. Nothing that the bout was for had happened yet, and the man was gone.
 
-A breath later the Force girl slid off low and touched the Stone boy on the knee again, very lightly, and the table called it hers. Two each. The bout went to a fifth, which the Stone boy won by rooting on the word and simply refusing to be moved until the girl ran out of ideas, and the tiers cheered him as if he had done something clever, which in a way he had. He would hold the fifth line into next year.
+A breath later the Force girl slid off low and touched the Stone boy on the knee again, very lightly, and the table called it hers. Two each. The bout went to a fifth, which the Stone boy won by rooting on the word and simply refusing to be moved until the girl ran out of ideas, and the tiers cheered him for it, which was fair; it had been clever. He would hold the fifth line into next year.
 
 "Dull," said Brom happily, standing up. "Told you."
 
@@ -198,7 +198,7 @@ Brom considered it, and swallowed. "No. Then he was bored."
 
 Brom stopped chewing.
 
-He looked at Cael across the end of the long table for a moment. Then he put his spoon down in the bowl, carefully, the way he put down a thing he meant to come back to.
+He looked at Cael across the end of the long table. Then he put his spoon down in the bowl, carefully.
 
 "You do that," he said.
 
@@ -230,7 +230,7 @@ He laid it out for Brom, slowly, as it came.
 
 "It's exactly what I'd have done," said Cael.
 
-Brom looked at him for a long moment over the bowl.
+Brom looked at him over the bowl.
 
 "I know," he said. "That's the part I don't like."
 

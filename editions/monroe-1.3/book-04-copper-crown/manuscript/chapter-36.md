@@ -2,13 +2,13 @@
 
 It began with a tray, and he almost left it out of the notebook.
 
-It was the ninth morning after the stair, and the deferral had run out the evening before, and the three clean days Lira had demanded had come and gone without a flicker. He was in the refectory queue at the second bell with a bowl in his hand, waiting behind two Stone girls who were arguing about a boy, when a Mire second-year came down the line from the kitchen hatch with a tray loaded to the edges with somebody else's breakfast as well as his own. The second-year was looking for a space at the end of the long table. He found one. He set the tray down on it, briskly, the way you set down a tray you have carried too far, and the corner of the tray came down on Cael's forearm.
+It was the ninth morning after the stair, and the deferral had run out the evening before, and the three clean days Lira had demanded had come and gone without a flicker. He was in the refectory queue at the second bell with a bowl in his hand, waiting behind two Stone girls who were arguing about a boy, when a Mire second-year came down the line from the kitchen hatch with a tray loaded to the edges with somebody else's breakfast as well as his own. The second-year was looking for a space at the end of the long table. He found one. He set the tray down on it, briskly, and the corner of the tray came down on Cael's forearm.
 
 Cael was standing in the space. He had been standing in it for half a minute.
 
 The second-year jumped as if the arm had bitten him. He snatched the tray back so fast that a cup went over, and stared at Cael, and then at the arm, and then at Cael again, with the round-eyed face of somebody who has just walked into a door he would have sworn was open.
 
-"Sorry. I'm sorry. I didn't—" He looked at the spilt cup as if it might explain. "I didn't see you there."
+"Sorry. I'm sorry. I didn't—" He looked at the spilt cup. "I didn't see you there."
 
 "It's all right," said Cael.
 
@@ -20,7 +20,7 @@ He was going up and a Blade instructor was coming down, a big quick man with a s
 
 They both stopped. The instructor's papers went down three steps in a fan.
 
-"Sorry," said the instructor. He said it in the voice in which a man says *where did you come from*, and he looked at Cael for a long moment while they gathered the papers between them, with a small frown, as though trying to remember whether the stair had always had a boy on it. Then he thanked him, and went on down, more slowly than Cael had ever seen him take that stair.
+"Sorry," said the instructor. He said it in the voice in which a man says *where did you come from*, and he looked at Cael while they gathered the papers between them, with a small frown, as though trying to remember whether the stair had always had a boy on it. Then he thanked him, and went on down, more slowly than Cael had ever seen him take that stair.
 
 Cael went on up. Halfway to the top he stopped, with his hand on the rail, and stood there.
 
@@ -38,7 +38,7 @@ The senior clerk finished his column. He ruled it off. He blotted it. He reached
 
 "A few minutes," said Cael.
 
-The senior clerk looked at him over the cup with the same small frown the Blade instructor had worn. Then he put the cup down and took the form, and read it, and stamped it, and said that the box would come up by the fourth bell. He said nothing else. His eyes went back to Cael twice more while he wrote the receipt, quickly, the way you check a thing on a shelf that you could have sworn was not there a moment before.
+The senior clerk looked at him over the cup with the same small frown the Blade instructor had worn. Then he put the cup down and took the form, and read it, and stamped it, and said that the box would come up by the fourth bell. He said nothing else. His eyes went back to Cael twice more while he wrote the receipt.
 
 Back in his room he sat on the edge of the bed in his coat, and the cold came up into him the way it had come up through the gallery boards.
 
@@ -112,7 +112,7 @@ He did not try anything. He did not think of the Shadow-adjacent fragment at all
 
 And nobody looked at him.
 
-People looked at the ladder. He could feel it, the way you feel the sun: eyes coming up to the long swinging shape and following it, judging whether it would clip a head, making sure its foot was clear of their own. A Current boy stepped aside for it with a little bow. Two girls ducked under its end and laughed. Not one of them, as far as he could tell, so much as glanced at the face of the person underneath it. He walked forty paces across the busiest yard on the bluff in full afternoon light, and for the first time since the bridge he was not being looked at.
+People looked at the ladder. He could feel it: eyes coming up to the long swinging shape and following it, judging whether it would clip a head, making sure its foot was clear of their own. A Current boy stepped aside for it with a little bow. Two girls ducked under its end and laughed. Not one of them, as far as he could tell, so much as glanced at the face of the person underneath it. He walked forty paces across the busiest yard on the bluff in full afternoon light, and for the first time since the bridge he was not being looked at.
 
 He set the ladder down at the arch and stood there with his shoulder aching, and understood something.
 
@@ -120,7 +120,7 @@ Since the stair he had been trying to make himself less, to turn the hand down o
 
 Up at the window, Gwen was waving her count at him: a large, plain *0*.
 
-"Nought," said Seln at the slate, when they had all come back in. "Correct. Next week we find out why that's harder without a ladder." He wrote it up and underlined it once, and the round copying hand was exactly as level as it always was.
+"Nought," said Seln at the slate, when they had all come back in. "Correct. Next week we find out why that's harder without a ladder." He wrote it up and underlined it once, and the round copying hand was as level as it always was.
 
 Cael wrote in the margin of his exercise, *the eyes have to go somewhere: give them somewhere*. Then he sat looking at it for so long that Gwen leaned over and read it, and wrote it down too, in capitals, under her nought.
 
@@ -144,7 +144,7 @@ Karis chalked two columns on the wash-house's whitewashed wall, *AIMED* and *NOT
 
 "Here," said Brom, at once, and pointed straight at him.
 
-Six times. Six times Brom pointed, without hesitation, and six times the thing did nothing at all, and each time the spike came behind Cael's eyes, a little worse. Karis made six strokes under *AIMED*, and drew a line through them, and wrote a nought. Cael knew by the third that he was doing the stair over again. He did three more anyway, because he could not believe that wanting it harder did not help, and afterward he wrote those three down exactly as they were: *stubbornness, not method.*
+Six times. Six times Brom pointed, without hesitation, and six times the thing did nothing at all, and each time the spike came behind Cael's eyes, a little worse. Karis made six strokes under *AIMED*, and drew a line through them, and wrote a nought. Cael knew by the third that he was doing the stair over again. He did three more anyway, because he could not believe that wanting it harder did not help, and afterward he wrote those three down as they were: *stubbornness, not method.*
 
 "You're making the face," said Lira.
 
@@ -156,7 +156,7 @@ The seventh time, he gave up aiming.
 
 He sat down on the upturned tub. He let his breath go down slow and low, as the read liked it, and put his hands flat on his knees as he had on the stair, and stopped trying. He thought about nothing in particular. He thought about the smell of the wash-house, soap and wet stone. He thought about Brom's knot.
 
-And something happened. Out at his edges, in the half-yard of air, there was a thinning, the same as the refectory queue. It came without being asked for and without any aim at all, the way a cat comes to sit by you only when you have stopped calling it.
+And something happened. Out at his edges, in the half-yard of air, there was a thinning, the same as the refectory queue. It came without being asked for and without any aim at all.
 
 Brom's blind face turned, slowly, searching.
 
@@ -166,13 +166,13 @@ Brom's blind face turned, slowly, searching.
 
 It went. It went the instant Cael leaned toward it to make sure, like a reflection on water that breaks when you bend to look. Karis made a mark under *NOT*, and a second little mark beside it that meant *lost on noticing*.
 
-It came back four times more before the hour was up. Four more times it went the moment he reached to check. By the end of the hour Karis had five marks under *NOT* and five little marks beside them, and the sameness of the rows on the wall had stopped being maddening and started being a kind of answer, the way a wall of identical bricks is an answer about the brick.
+It came back four times more before the hour was up. Four more times it went the moment he reached to check. By the end of the hour Karis had five marks under *NOT* and five little marks beside them, and the sameness of the rows on the wall had stopped being maddening and started being a kind of answer.
 
 Brom pulled the wrap down off his eyes, blinking at the lamp, and lay down flat on his back on the wet floor of the wash-house, as he lay after the worst of Rooke's exercises, and spoke to the ceiling.
 
 "You've spent two years learning to be the most awake person in every room. Now you own a thing that only works when you're furniture. You're going to hate this for about a year and then you're going to be very good at it."
 
-For a while nobody spoke. Karis wrote it under the columns on the wall, in chalk, word for word, and then copied it into the grey notebook, and then, after a moment, wrote it a third time in small letters in the margin of Cael's observation notebook without asking, so that he would have it in his own coat.
+For a while nobody spoke. Karis wrote it under the columns on the wall, in chalk, word for word, and then copied it into the grey notebook, and then wrote it a third time in small letters in the margin of Cael's observation notebook without asking, so that he would have it in his own coat.
 
 ---
 

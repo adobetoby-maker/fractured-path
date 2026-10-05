@@ -12,7 +12,7 @@ Nothing had happened at all.
 
 That was what nobody ever told you about watching, he thought. Not the cold, which you expected, but the size of the nothing.
 
-For an hour and three-quarters the courtyard had done exactly what an empty courtyard does at night. The lamp had swung. Something small had gone along the foot of the range, a rat or a cat, and he had not been able to tell which. Somewhere in the second quadrangle a window had opened and a voice had said something sleepy and cross, and the window had shut. The river had gone on being loud. Every few minutes the wind dropped, and in the gap he could hear his own breath going in and out of Brom's collar, and he had begun to count it, the way Karis had counted it in the wash-house, because counting kept him awake.
+For an hour and three-quarters the courtyard had done what an empty courtyard does at night. The lamp had swung. Something small had gone along the foot of the range, a rat or a cat, and he had not been able to tell which. Somewhere in the second quadrangle a window had opened and a voice had said something sleepy and cross, and the window had shut. The river had gone on being loud. Every few minutes the wind dropped, and in the gap he could hear his own breath going in and out of Brom's collar, and he had begun to count it, the way Karis had counted it in the wash-house, because counting kept him awake.
 
 Somewhere in the second hour, with nothing to watch, he made himself look at what he was doing instead.
 
@@ -42,7 +42,7 @@ They came on toward the courtyard. The lantern's light reached the records hall'
 
 The boy's head turned toward it. So did the older man's.
 
-Cael saw it clearly, in the swinging light: the older man, who had not turned his head for anything along the whole length of the range, turned it now, and looked into the shallow doorway at the bench. Both of them looked. The light lay full across the bench for a moment.
+Cael saw it clearly, in the swinging light: the older man, who had not turned his head for anything along the whole length of the range, turned it now, and looked into the shallow doorway at the bench. Both of them looked. The light lay full across the bench.
 
 Neither of them stopped.
 
@@ -52,7 +52,7 @@ Cael sat very still against the wall with his hands inside Brom's cuffs.
 
 He had not seen anything in the doorway. Not a shape, not an edge, not a movement.
 
-He had seen two men look into it, one of whom had not looked into anything else for the whole length of the range. And he had seen them both look away again as if they had found exactly what they expected there, which was a mossy bench and nothing on it. The doorway had someone in it, and two men had looked straight in and gone by.
+He had seen two men look into it, one of whom had not looked into anything else for the whole length of the range. And he had seen them both look away again as if they had found what they expected there, which was a mossy bench and nothing on it. The doorway had someone in it, and two men had looked straight in and gone by.
 
 His eyes stayed off the doorway now. He looked at the lamp. But something in the back of his head that had been counting breaths since the first hour had stopped counting, and was doing a different sum entirely.
 
@@ -76,7 +76,7 @@ He was nearly sure which it would be. He wanted it in the boy's chalk anyway.
 
 In the second quadrangle he stopped under Lira's window and put his hand up, once.
 
-There was a lamp lit in the window, very low. After a moment a hand came up against the glass, flat, and stayed there, and then took itself away, and the lamp went out.
+There was a lamp lit in the window, very low. Then a hand came up against the glass, flat, and stayed there, and then took itself away, and the lamp went out.
 
 He slept for two hours and woke at the first bell with his whole body as stiff as the gallery boards. He went down to the arch before he did anything else and read the slate over the boy's shoulder while the chalk was still wet. *Records hall, last bell.* Nobody had come. Whoever was paying for the drawer had paid for two nights' reading and was taking a night to think about the third. He wrote it up sitting on his bed with his blankets round his shoulders before he had even washed, because by breakfast he would have begun to make it tidier than it was.
 
@@ -96,7 +96,7 @@ The pen went down, and came back up; the next part was the one that counted.
 
 *I don't know yet what that is. It isn't an accident. That man doesn't do accidents, not at that hour.*
 
-At breakfast he read it to the other three over the porridge, in a low voice, because the procedure said within the day and it was within the day. Lira listened with her spoon still. Brom pushed half his own bread across the table without a word and went on eating, and Cael ate it, and found he was very hungry.
+At breakfast he read it to the other three over the porridge, in a low voice, because the procedure said within the day and it was within the day. Lira listened with her spoon still. Brom pushed half his own bread across the table and went on eating, and Cael ate it, and found he was very hungry.
 
 "You saw nothing," said Lira, when he had finished.
 
@@ -128,7 +128,7 @@ Then he sat back and looked at it, and thought about the unit, and a slate in a 
 
 Last night he had sat in the second-best place and argued nothing at all. He had been a boy on a gallery, being allowed to stay there. If he went to the stair tonight, the argument would be a different one, and he would be the one making it. *I know the hour. I know the door. I'm sitting on the step to prove it.*
 
-Who was the argument for? He pretended for a moment not to know, and could not keep it up. He knew exactly who he meant it for, and he wrote the sentence in the margin and then struck it through, because it was the kind of sentence that sounded better than it was.
+Who was the argument for? He pretended for a moment not to know, and could not keep it up. He knew who he meant it for, and he wrote the sentence in the margin and then struck it through, because it was the kind of sentence that sounded better than it was.
 
 Halfway through the morning Gwen arrived at the next desk with her decorated notebook and the unit's first written exercise, which was due at the next session and which she had already written out three times.
 
@@ -136,9 +136,9 @@ Halfway through the morning Gwen arrived at the next desk with her decorated not
 
 "I think so," said Cael.
 
-"Then I've been arguing my whole life." She considered this. "My aunt will be thrilled." She bent to her page, and wrote for a while, and then said, without looking up, "You chose second-best on purpose, didn't you. Because I was in the best one. That was decent of you."
+"Then I've been arguing my whole life." She considered this. "My aunt will be thrilled." She bent to her page, and wrote for a while, and then said, still writing, "You chose second-best on purpose, didn't you. Because I was in the best one. That was decent of you."
 
-He did not know what to say to that, so he said nothing, and after a moment she seemed to decide that nothing was an answer, and wrote it down.
+He did not know what to say to that, so he said nothing, and she seemed to decide that nothing was an answer, and wrote it down.
 
 Lira found him there at noon, as she had known she would, and sat down across the desk with her bad leg out into the aisle where a librarian immediately had to step over it.
 
@@ -154,7 +154,7 @@ She considered him. "You're going again."
 
 "Because it's the only door he can use at that hour without being seen, whoever he is." He swung the page round to her. "And because last night I sat where I was let sit. Tonight I'd like to sit somewhere because I chose it."
 
-Lira looked at the drawing for a long time: the yard door, the flight, the landing, the window.
+Lira looked at the drawing: the yard door, the flight, the landing, the window.
 
 "Put your hand up," she said, and got up, and went.
 

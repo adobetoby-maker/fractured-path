@@ -14,7 +14,7 @@ Fiske was there.
 
 She stood square in front of the long board with her hands clasped behind her back, the way she had stood at her chalk before the fifteenth session, and she was looking not at her own name but at the top line, where Lira's was. The brass stud sat a line below it, beside *Fiske*, polished that morning; the porter did it on Fourth-days, and today was not a Fourth-day, so somebody else had done it. The date of the final was chalked very small in the corner. Sixteen days to the final, and the semester evaluation the day after it.
 
-She heard him and turned her head, and looked at him for a moment with the level, unhurried attention she gave the boards before a bout. Then she nodded, once, as one person on the bluff who got up too early nods to another, and turned back to the board. He nodded back, and went on to breakfast, and did not write it down, because there are things a person does at a board at dawn that are nobody else's business.
+She heard him and turned her head, and looked at him with the level, unhurried attention she gave the boards before a bout. Then she nodded, once, as one person on the bluff who got up too early nods to another, and turned back to the board. He nodded back, and went on to breakfast, and did not write it down, because there are things a person does at a board at dawn that are nobody else's business.
 
 He held ordinary all day.
 
@@ -30,7 +30,7 @@ It cost. He had known it would. By the middle of the afternoon there was a dull 
 
 On this day of the year, the bluff had two lectures and a coursework deadline and nothing else at all. Nobody had marked this date in front of him since he left Fen Street, and somewhere along the road he had stopped being the kind of person who noticed. On the morning of his fifteenth he had written the date at the top of a page and gone on to the next line, and it had seemed to him then the right and grown-up thing to do.
 
-At home, on this morning, Hesk had made the tea the careful way, with the brass spoon, steeped the full time. He had brought the plum preserves down off the high shelf, where they lived for birthdays and first frosts, and set them on the table between the two of them. Why, neither of them ever once said. Crossing the second quadrangle in the dusk with his notebook under his arm, Cael thought about the plum jar for a moment, and then put the thought away, because it was the kind that did you no good on a cold evening a long way from home.
+At home, on this morning, Hesk had made the tea the careful way, with the brass spoon, steeped the full time. He had brought the plum preserves down off the high shelf, where they lived for birthdays and first frosts, and set them on the table between the two of them. Why, neither of them ever once said. Crossing the second quadrangle in the dusk with his notebook under his arm, Cael thought about the plum jar, and then put the thought away, because it was the kind that did you no good on a cold evening a long way from home.
 
 ---
 
@@ -38,7 +38,7 @@ After the last bell he went down to the common room to fetch his other pen, and 
 
 The long table had been cleared to the wood. Four places were laid at the far end of it, close together, with the residence's chipped blue plates and four cups that very nearly matched. And in the middle of the table, lit, its glass chimney polished until it shone, stood the good lamp.
 
-The residence owned exactly one lamp that did not smoke. It lived in the linen cupboard at the foot of the stair, behind a lock whose key hung on the housekeeper's belt, and all season Cael had seen it lit only once, for a visiting governor. How it had come to be burning on the common room table was a question he decided, standing on the threshold, that he did not want answered.
+The residence owned one lamp that did not smoke. It lived in the linen cupboard at the foot of the stair, behind a lock whose key hung on the housekeeper's belt, and all season Cael had seen it lit only once, for a visiting governor. How it had come to be burning on the common room table was a question he decided, standing on the threshold, that he did not want answered.
 
 Lira sat at the head of the table with her bad leg up on the next chair. Behind him in the passage there were footsteps, and he turned and found Brom coming along with a covered basket held out in front of him in both arms, very carefully, like a man carrying a sleeping child across a ford.
 
@@ -48,7 +48,7 @@ Lira sat at the head of the table with her bad leg up on the next chair. Behind 
 
 "It's the eleventh of Sowing. Sit down," said Lira.
 
-He did not sit down. He stood where he was with his coat hanging off one shoulder, and found that for a moment he could not think of anything to do with his hands.
+He did not sit down. He stood where he was with his coat hanging off one shoulder, and found that he could not think of anything to do with his hands.
 
 "How do you know that?"
 
@@ -60,7 +60,7 @@ He did not sit down. He stood where he was with his coat hanging off one shoulde
 
 He sat.
 
-He sat at the end of the table with his coat still half on and his hands flat on the wood either side of an empty blue plate, and found that he could not say anything at all. It was not that he had nothing to say. It was that everything he had to say had arrived at once, at the door of his mouth, and stuck there, the way a crowd sticks in a narrow gate when the bell goes.
+He sat at the end of the table with his coat still half on and his hands flat on the wood either side of an empty blue plate, and found that he could not say anything at all. It was not that he had nothing to say. It was that everything he had to say had arrived at once, at the door of his mouth, and stuck there.
 
 Lira watched him not say it, with her chin on her fist.
 
@@ -74,7 +74,7 @@ Lira watched him not say it, with her chin on her fist.
 
 "I won't cry," said Brom, "I'm busy."
 
-Brom set the basket on the table and took the cloth off it with a little flourish, the way a man takes the sheet off a statue at a fair, and began to lay out what was inside on the blue plates, one thing at a time.
+Brom set the basket on the table and took the cloth off it with a little flourish and began to lay out what was inside on the blue plates, one thing at a time.
 
 A round loaf came first, its crust still faintly warm, from no oven Cael had ever seen on the bluff. Then a crock of butter, and a wedge of hard pale cheese with a black rind, and a cold game pie whose glazed lid somebody had decorated with a single pastry leaf. Then a jar of pickled walnuts. Karis, coming in at that moment with her grey notebook under her arm, looked at the jar and said that pickled walnuts tasted exactly like ink, and then sat down beside it and ate four. Last, from the very bottom of the basket, wrapped one by one in paper, came six pears, golden and freckled, of a kind Cael had not seen anywhere on the bluff since the bridge.
 
@@ -142,7 +142,7 @@ Lira laughed out loud, suddenly and helplessly, with her own pear halfway to her
 
 "Nothing, for a long time. Then she took up her own pear, in her hand, and bit it, and said *so it does*. And then everybody did, all twenty-two, the guild people and all, sitting there in their good coats with the juice running down their wrists." Brom bit his pear. "That was the night I found out other people ate pears with their hands. The next year there were no forks. Nobody ever said a word. My sister's in a guild house by the sea now. She writes about once a season, and she's never once mentioned it, and I don't think she even remembers. It's still the bravest thing I ever saw anybody do at that table."
 
-He ate his pear. After a moment Cael took one from its paper and ate it too, with his hands, and it tasted exactly the same.
+He ate his pear. Cael took one from its paper and ate it too, with his hands, and it tasted exactly the same.
 
 ---
 
@@ -194,7 +194,7 @@ He thought about where he had been at the start of this half-year: across a desk
 
 None of that needed writing. It was all in the Log already, in its place, dated. What the inventory was for was the other thing: what he had, tonight, and what it cost. So he began.
 
-It ran better than any pen he had ever held, and he set that down first, since it was true, and Hesk would want to hear it. *Balance forward of the middle. The hand doesn't have to hold it; it holds itself. I could write till morning.* He looked at that for a moment. Then he thought of Hesk at the bench, with a file and a lamp and a scrap of steel, setting the balance for a hand he had not seen in a long while, from memory, and getting it exactly right. He wrote that down too: *He set it for my hand without my hand there.*
+It ran better than any pen he had ever held, and he set that down first, since it was true, and Hesk would want to hear it. *Balance forward of the middle. The hand doesn't have to hold it; it holds itself. I could write till morning.* Then he thought of Hesk at the bench, with a file and a lamp and a scrap of steel, setting the balance for a hand he had not seen in a long while, from memory, and getting it right. He wrote that down too: *He set it for my hand without my hand there.*
 
 Then the inventory, laid out as the Log had always laid it out: what, and from whom, and at what price.
 

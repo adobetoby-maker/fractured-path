@@ -66,7 +66,7 @@ She went back up the rail and out by the side door, and that was all the goodbye
 
 He packed on the Wednesday. It did not take long, because there was not much. Two shirts and his good coat. The wraps. The observation notebook, with Greyvane's section full and closed and a blank page already headed for the next place. Hesk's letter, in the inside pocket where Brom's page had once been. The binder last of all, a third full now, with Lira's slip in the back pocket behind Karis's consent and the term's count on the last written page.
 
-Karis packed in an hour, and most of the hour was books. She had a coat with a deep inside pocket that buttoned, and she had worn it every day since the autumn. On the Wednesday night, while Cael watched from the door of her room, she checked the pocket the way he checked the knots on his wraps, without seeming to think about it. She put two fingers in, felt the folded paper there, took them out, and did up the button. She did not look at him. He did not ask. There was a copy of something in that pocket that both of them had written out by hand from a register that had not come back up the hill, and neither of them had understood it, and they had agreed without a word to keep it buttoned until they did.
+Karis packed in an hour, and most of the hour was books. She had a coat with a deep inside pocket that buttoned, and she had worn it every day since the autumn. On the Wednesday night, while Cael watched from the door of her room, she checked the pocket without seeming to think about it. She put two fingers in, felt the folded paper there, took them out, and did up the button. She did not look at him. He did not ask. There was a copy of something in that pocket that both of them had written out by hand from a register that had not come back up the hill, and neither of them had understood it, and they had agreed, without ever saying so, to keep it buttoned until they did.
 
 "Ready?" said Karis.
 
@@ -114,7 +114,7 @@ Karis had come up at his shoulder and was looking down at the open sheaf with an
 
 "I'll copy it," said Karis. "On the road. Every evening. You can read it while I copy." She looked up the cart road after Prynn's black coat. "I'm not borrowing the only one of those that exists. She'd know. From four days off, she'd know."
 
-Brom had picked up all four bags while they were talking and was standing by the cart holding them, two in each hand, as if they weighed nothing, waiting for somebody to tell him where to put them.
+Brom had picked up all four bags while they were talking and was standing by the cart holding them, two in each hand, waiting for somebody to tell him where to put them.
 
 He put the index in his bag, on top of the binder, and buttoned the flap.
 
@@ -174,7 +174,7 @@ The coach rocked down off the ridge into a valley of orchards, and the grey coat
 
 *Day four. Two. One is the white sock from day three. The other is the coach man from day two, riding now, on a brown horse that isn't his. He doesn't look at us. He looked at us for a whole day yesterday from three feet away and now he doesn't.*
 
-The fourth night they slept a half-day short of the river, at an inn with a low room under the eaves, and there he laid the observation notebook flat under the lamp. He added it up the way he would have added up a column in Vell's ledger.
+The fourth night they slept a half-day short of the river, at an inn with a low room under the eaves, and there he laid the observation notebook flat under the lamp and added it up.
 
 *Four days. Distinct faces: seven. Distinct changes of watch: five. Never fewer than two on us at any time. Three at junctions and at the inn stops, where the roads split and they couldn't be sure which way we'd take. Nobody spoke to us. Nobody needed to.*
 
@@ -196,7 +196,7 @@ Brom drank some of his mug.
 
 "Or that they got better."
 
-Brom looked at him over the rim of the mug for a while. Then he nodded slowly, once, as if he had been handed a weight and found it heavier than it looked, and drank the rest without saying anything.
+Brom looked at him over the rim of the mug. Then he nodded slowly, once, as if he had been handed a weight and found it heavier than it looked, and drank the rest without saying anything.
 
 Karis put her head round the door a little later with her narrow brown notebook in her hand.
 
@@ -210,7 +210,7 @@ Karis put her head round the door a little later with her narrow brown notebook 
 
 "Then that's two of us who'll be counting at the other end." She got up. "Goodnight. Don't sit up writing."
 
-She went out. Lira was asleep already in the next room, and now Karis was writing by her own lamp next door; he could hear the pencil through the wall. Cael turned back a few pages in the binder to the last entry he had made at Greyvane. It was the term's count, written at the long table on the last night, before the gate and Prynn and the index. Under it there was half a page left. He looked at it for a while, and then wrote two lines at the foot of it, in the square hand.
+She went out. Lira was asleep already in the next room, and now Karis was writing by her own lamp next door; he could hear the pencil through the wall. Cael turned back a few pages in the binder to the last entry he had made at Greyvane. It was the term's count, written at the long table on the last night, before the gate and Prynn and the index. Under it there was half a page left. He looked at it, and then wrote two lines at the foot of it, in the square hand.
 
 *Greyvane. Twenty-two weeks. A word found and not killed. A bout won by one exchange, perhaps none. A sentence from Quenna and a book from Prynn, and both of them meant more than they said.*
 

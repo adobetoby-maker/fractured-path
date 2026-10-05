@@ -38,10 +38,11 @@ Development: about 14 Cael beats. Supporting: Lira (2), Brom (2), Karis (2–3),
 
 ## What must remain true / withheld
 
-- The public suite only, at documented rates. Compression is never shown. Wind runs to its documented working rate and no further in public.
+- The public suite only, at documented rates. Compression stays banked — not on any scored floor since the Reydan bout at Ardenmere [B4-reconciled 2026-10-05: "never shown" replaced; B4 ch43]. Pressure held back (flat), the right shoulder its private cost. Wind runs to its documented working rate (six bursts free on sprung oak) and no further in public.
 - The ratings land in "a tidy band just above the middle of Iron."
-- This mill-town session is the term's semester evaluation (BOOK_MAP §12 C8). It is routine and renewed.
-- No meta references (C10). No "four years" (C3).
+- This mill-town session is the term's semester evaluation (BOOK_MAP §12 C8): the provision's SECOND (B4 held one, the twentieth of Reaping, against the baseline). Per Gault's calendar (B4 ch62): "Panel of record: Gault, with two", "Measured against: baseline (entry), and the note of the twentieth of Reaping"; Pressure flat at the plate again; Shadow zero deployment [B4-reconciled 2026-10-05]. It is routine and renewed. No season word for it.
+- No meta references (C10). No "four years" (C3). The first pole's "three years" (protected item 21) is read as since the Ardenmere circuit (Book 2); do not restate B4's "three years" for Lira or the Wind, which are four now, or for Brom, which is three [B4-reconciled 2026-10-05: OWNER item, BOOK_MAP §10].
+- Any board or certified record quoted uses B4's standings notation: "bouts unbeaten / bouts lost" [B4-reconciled 2026-10-05: audit C8].
 - Seln's cutaway infers *management*, never mechanism. No sentence gives his reason for helping.
 - Reader Standard.
 
@@ -51,4 +52,4 @@ How much of each bout to stage and which to compress; the meet towns' texture (s
 
 ## Where we leave pressure
 
-Six bouts, six wins, and a band so tidy that a statistician and a coach both caught it. Cael has written "I can beat anyone at my tier … Not this season's problem," and the book knows he is wrong. The variance program begins next meet. Somewhere a market is already pricing him.
+Six bouts unbeaten, none lost [B4-reconciled 2026-10-05: B4's notation], and a band so tidy that a statistician and a coach both caught it. Cael has written "I can beat anyone at my tier … Not this season's problem," and the book knows he is wrong. The variance program begins next meet. Somewhere a market is already pricing him.

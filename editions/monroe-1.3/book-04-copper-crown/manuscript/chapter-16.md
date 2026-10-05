@@ -2,7 +2,7 @@
 
 The east hall was cold at the second bell, with nobody in it.
 
-Cael had never seen it empty. In his mind it was always full: Rooke at the west end not moving, fourteen of the cohort along the walls, Brom in the middle of the boards being found out by four people at once. Without them it was a long pale room with the light coming in low through the south windows and lying across the oak in bars, and the floor seemed larger, the way a floor does when there is nothing on it to give it a size. When he sat down on the bench inside the near door the boards gave their faint answer even to that, a breath down and a breath back, as if the hall had noticed him and gone back to sleep.
+Cael had never seen it empty. In his mind it was always full: Rooke at the west end not moving, fourteen of the cohort along the walls, Brom in the middle of the boards being found out by four people at once. Without them it was a long pale room with the light coming in low through the south windows and lying across the oak in bars, and the floor seemed larger. When he sat down on the bench inside the near door the boards gave their faint answer even to that, a breath down and a breath back.
 
 His supervised session was at the third bell. He was forty minutes early, and he had told nobody he would be. That was the whole of the test.
 
@@ -20,11 +20,11 @@ There were always people to stay among. Cael had never once trained in the east 
 
 Today there was nobody to climb for. The floor below the gallery was empty, except for a boy on a bench by the door, and the boy was not due for forty minutes.
 
-The light moved a hand's width across the boards. Somewhere outside a porter was rolling a barrel over cobbles, a long hollow grumble that rose and fell and stopped. The cold came up off the floor into his feet. He sat with his hands loose between his knees and thought about nothing in particular, on purpose, the way a man stands at a river trying not to think about the fish.
+The light moved a hand's width across the boards. Somewhere outside a porter was rolling a barrel over cobbles, a long hollow grumble that rose and fell and stopped. The cold came up off the floor into his feet. He sat with his hands loose between his knees and thought about nothing in particular, on purpose.
 
 At about the twenty-third minute the low door at the west end of the gallery opened.
 
-Cael did not look up. He had placed himself so he would not need to. Across the hall, the near door's glass, propped open against the wall to air the room, held the gallery in it like a picture in a dark frame, small and a little bent. He could see the whole walk in it without lifting his head from the floor in front of his boots.
+Cael kept his eyes on the floor. He had placed himself so he would not need to lift them. Across the hall, the near door's glass, propped open against the wall to air the room, held the gallery in it like a picture in a dark frame, small and a little bent. He could see the whole walk in it without lifting his head from the floor in front of his boots.
 
 A man came out onto the gallery with an armful of forms.
 
@@ -48,17 +48,17 @@ So the man was not incidentally anywhere. He was at work, all day, every day, an
 
 It was not, Cael discovered within a quarter of an hour, a thing he could turn over under a supervised session and still train well.
 
-The supervisor that morning was the Shield instructor from the north hall, the one who wrote letters on his knee for the first stretch of every session and then folded them and sat on them. He had a dry, tired voice and a very good eye once it opened. He had set a drill Cael had done before: two second-years, one at each end of the floor, sending practice weights across the boards on short cords at no particular rhythm. Cael stood in the middle, calling the line of each and stepping off it, without the framework, on his feet alone. It was a read drill. It asked nothing of the Wind. He had done it eleven times in his first month and been clean every time.
+The supervisor that morning was the Shield instructor from the north hall, the one who wrote letters on his knee for the first stretch of every session and then folded them and sat on them. He had a dry, tired voice and a very good eye once it opened. He had set a drill Cael had done before: two second-years, one at each end of the floor, sending practice weights across the boards on short cords at no particular rhythm. Cael stood in the middle, calling the line of each and stepping off it, without the framework, on his feet alone. It was a read drill. It asked nothing of the Wind. He had done it a dozen times in his first month and been clean every time.
 
 On the fourth weight he called it late.
 
-Not wrong; late. The press came along his forearm as it always did, the small push on the air before the weight, telling him how heavy and which way, but it arrived as if it had been sent by a slower post. He stepped off the line a hair after he should have, and the cord's weight brushed the back of his calf going past.
+Not wrong; late. The press came along his forearm as it always did, the small push on the air before the weight, telling him how heavy and which way, but it arrived late. He stepped off the line a hair after he should have, and the cord's weight brushed the back of his calf going past.
 
-"Again," said the Shield man, not looking up from his letter.
+"Again," said the Shield man, over his letter.
 
 On the seventh, the same. On the ninth, the same, worse. Each time the read came in, it came in true, and each time it came after he needed it.
 
-He tried to cheat it, which was a mistake, and knew it was a mistake while he did it. If the read was slow, he thought, he could start moving on the first faint touch of it instead of waiting for the whole press, and make up the time that way. On the tenth weight he went early, on half a signal, and the half had been wrong: the second-year had checked her throw at the last instant, the way a good feeder does to keep a drill honest. The weight came in a foot lower than its first push had promised.
+He tried to cheat it, which was a mistake, and knew it was a mistake while he did it. If the read was slow, he thought, he could start moving on the first faint touch of it instead of waiting for the whole press, and make up the time that way. On the tenth weight he went early, on half a signal, and the half had been wrong: the second-year had checked her throw at the last instant to keep the drill honest. The weight came in a foot lower than its first push had promised.
 
 It took him across the shin. It did not hurt much. It told him a great deal. A slow instrument was a nuisance. A slow instrument he had started guessing ahead of was a danger, because a guess felt exactly like a reading from the inside, right up until it was wrong.
 
@@ -66,7 +66,7 @@ He stood in the middle of the floor while the second-years wound in their cords 
 
 He did not know what. He knew better than to guess on one morning.
 
-At the thirteenth minute the Shield man folded his letter, sat on it, and watched the rest of the drill with both eyes. He did not say anything about the late calls. At the end, signing the sheet, he looked at Cael for a moment over the pen as if about to ask, and then did not ask, as none of them ever asked, and handed the sheet back.
+At the thirteenth minute the Shield man folded his letter, sat on it, and watched the rest of the drill with both eyes. He did not say anything about the late calls. At the end, signing the sheet, he looked at Cael over the pen, about to ask, and then did not ask, as none of them ever asked, and handed the sheet back.
 
 Up on the gallery, as the session broke, Cael let himself look up once, the way everybody looked up at a gallery when they came off a floor, at nothing and everyone. Six people were coming down the stair. Four more were still at the rail. At the west end, by the turned post, in the middle of a knot of three second-years arguing about the drill, stood a man with an armful of forms, reading the top one.
 
@@ -88,7 +88,7 @@ The yard had a lamp for evening sessions, a tall brass thing on a post at the no
 
 He could watch them without facing them.
 
-He had found it by accident three days before and had felt, at the time, a shameful little leap of pleasure, as if he had found a coin in a coat he had stopped wearing. Now he set his weight against the rail, folded his arms on it, and looked at the rings.
+He had found it by accident three days before and had felt, at the time, a shameful little leap of pleasure. Now he set his weight against the rail, folded his arms on it, and looked at the rings.
 
 The yard on a practice afternoon had its own smell, of chalk and of the oil the porter rubbed into the rail, and its own noise, which was not the roar of a ladder session but a low steady murmur, like a market an hour before closing. People came to practice to learn, or to be seen learning, or to sit in the sun on stone with a friend and argue about a fight neither of them was in. Two Iron girls behind him were quarrelling in whispers about whether a Mire practitioner could stick a Wind fighter's feet before she left the ground. A lecturer from the law range was asleep on the fourth tier with his hat over his face.
 
@@ -98,7 +98,7 @@ In the brass, high on the west side, in a knot of five people, a small brown fig
 
 Cael watched the Force fourth-year.
 
-The Force boy gathered and threw, and the throw went off the floor like a door slammed in a stairwell, a flat crack of air that turned every head in the yard. The Current girl had been there. She was not there now; she had gone along the line of the force on its own current, the way that Path went, and come off it two paces to the side with her hand reaching. The whole yard looked round at it, as a yard will at a door banging.
+The Force boy gathered and threw, and the throw went off the floor like a door slammed in a stairwell, a flat crack of air that turned every head in the yard. The Current girl had been there. She was not there now; she had gone along the line of the force on its own current, the way that Path went, and come off it two paces to the side with her hand reaching. The whole yard looked round at it.
 
 In the curve of the lamp, the small figure did not turn.
 
@@ -118,7 +118,7 @@ He needed another angle, because one reading off one lamp from one rail was only
 
 Middle of a knot of four, high on the west side. Pale forms against the chest.
 
-He laced his boot. He unlaced it and laced it again. He took out his binder and wrote the practice pairings in it, all three rings, with the exact care of a boy whose friend was on the ladder and who wanted the record, which was true. Eleven minutes. Two touches on the second ring, one fall, a Mire practitioner making the boards so sticky under a Blade boy's feet that the Blade boy laughed out loud and appealed to the table. Through all of it, in the bottom of the brass, the figure stood among its four and looked at the floor's far end, or at the tiers opposite, or at its forms, at everywhere in the whole bowl of the yard except the steps where Cael sat.
+He laced his boot. He unlaced it and laced it again. He took out his binder and wrote the practice pairings in it, all three rings, with the exact care of a boy whose friend was on the ladder and who wanted the record, which was true. Twelve minutes. Two touches on the second ring, one fall, a Mire practitioner making the boards so sticky under a Blade boy's feet that the Blade boy laughed out loud and appealed to the table. Through all of it, in the bottom of the brass, the figure stood among its four and looked at the floor's far end, or at the tiers opposite, or at its forms, at everywhere in the whole bowl of the yard except the steps where Cael sat.
 
 He was lacing the boot for the third time when the porter came down the steps behind him with his pail, and stopped, and stood looking where Cael's eye had last been.
 
@@ -134,7 +134,7 @@ Cael's heart did something unpleasant.
 
 The porter picked up his pail. "You'll want a new lace," he said. "That one's done for. There's a man in Ostrand by the fish steps does them in waxed linen, two for a copper." And he went off along the bottom tier to chalk the third ring, and never looked at the lamp again, and had never in his life, Cael was nearly sure, considered what else the bright brass gave back to anybody who sat on the south steps fiddling with a boot.
 
-That night, at the desk by the window, he did not write the shorthand first. He did not write anything for a long time. He sat with the binder open at a clean page and the pen in his hand and the river sliding by in the dark under the bluff. The sentence came to him from wherever such sentences waited, and came out whole, on the first try, without one word crossed through, which almost never happened.
+That night, at the desk by the window, he did not write the shorthand first. He did not write anything at first. He sat with the binder open at a clean page and the pen in his hand and the river sliding by in the dark under the bluff. The sentence came to him from wherever such sentences waited, and came out whole, on the first try, without one word crossed through, which almost never happened.
 
 *Nobody avoids me that consistently by accident. Avoidance at that precision is aim.*
 
@@ -146,7 +146,7 @@ He read the list twice. Every line on it was weaker than the sentence above it.
 
 He let the sentence stand.
 
-Then he sat a while longer with the lamp, and found that something in him had gone quiet and cold, and he made himself look at what it was, the way he would have made himself look at a bruise.
+Then he sat a while longer with the lamp, and found that something in him had gone quiet and cold, and he made himself look at what it was.
 
 It was not fear, exactly. He had been watched for two years and had grown used to it, as a man grows used to rain. But the coats at the ferry landing had never aimed at anything. They stood where they were put and looked at what came by. This was different.
 
@@ -196,7 +196,7 @@ He opened the binder on the coping in the last of the light and wrote what he ha
 
 He read it, and then wrote the next part, because he had promised the binder years ago that true lines went in whether he liked them or not.
 
-*For the record: he is better at this than I am. I've been at it nine days with a pencil and a lamp. He has been at it every hour he has spent on this hill, and for years before that, I'd guess, and in all that time I have found him put a foot wrong exactly once, on a morning I built for the purpose.*
+*For the record: he is better at this than I am. I've been at it nine days with a pencil and a lamp. He has been at it every hour he has spent on this hill, and for years before that, I'd guess, and in all that time I have found him put a foot wrong once, on a morning I built for the purpose.*
 
 "You've got that face again," said Lira. "Only worse."
 

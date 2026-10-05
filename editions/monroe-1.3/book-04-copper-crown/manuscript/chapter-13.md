@@ -16,7 +16,7 @@ He did not decide anything; he had stopped deciding the first part years ago. Hi
 
 He had braced for stone without meaning to. What met him was give: the boards taking him a finger's width down and handing him gently back, so that the old blow up the leading side arrived as a long low push instead. Then the fixed beat at the back, the moment when he was only something that had landed, unable yet to turn or reach or do anything but finish arriving. Three years of trying had not taken a hair off it.
 
-The clerk did not look up. "Three brass left of the crossing. One forward. Interval—" and a number off the pendulum.
+The clerk kept his eyes on the pendulum. "Three brass left of the crossing. One forward. Interval—" and a number off the pendulum.
 
 Gault wrote. "Again. The same."
 
@@ -60,7 +60,7 @@ He had never known how to describe the read to anybody who did not have it. The 
 
 And a fortnight ago, in a room with a key outside its door, it had told him a lie by saying nothing.
 
-He let himself remember that for exactly one breath. Then he set it down, because a frame was not a weight. What fell here would be a weight, and weights the read had found every single time.
+He let himself remember that for one breath. Then he set it down, because a frame was not a weight. What fell here would be a weight, and weights the read had found every single time.
 
 "Ready," said the Mire instructor.
 
@@ -104,7 +104,7 @@ Eight runs, and seven times he was clear. On the eighth the press came to him a 
 
 Somewhere around the fifth, it came to him that he was enjoying this. The realization arrived with a little cold prick behind it, like a draught under a door.
 
-It was the room's doing; every other floor he had ever stood on had wanted something out of him, a purse or a place or a noise from a crowd or a verdict. This one wanted only to know where he went, and asked so plainly and so patiently that he could feel himself easing under it, the way a man who has carried a load a long way eases when somebody finally takes the other end. Easy men talked. He tightened up again, on purpose, between the sixth run and the seventh, and was aware of the Ash instructor watching him do it, and kept his eyes on the wall.
+It was the room's doing; every other floor he had ever stood on had wanted something out of him, a purse or a place or a noise from a crowd or a verdict. This one wanted only to know where he went, and asked so plainly and so patiently that he could feel himself easing under it. Easy men talked. He tightened up again, on purpose, between the sixth run and the seventh, and was aware of the Ash instructor watching him do it, and kept his eyes on the wall.
 
 Of the six, the fourth cost most, and what it asked of him was to leave something undone.
 
@@ -116,7 +116,7 @@ The clerk brought the plate across on its brace and put it into Cael's hands: a 
 
 Feryn's fragment woke up in his right arm and reached for it.
 
-He felt it the way a hand in the dark goes to a tool it has used before, already shaping to the grip. Since a bout he had lost fairly three years ago it had lived in him, used seldom, but always close under the skin. It did not keep a blow; it gathered it, turned it, and passed it on somewhere else. It was made for exactly this. If anybody in the room had been marking answers right and wrong, it was the right answer to the question in his hands, and the little dial would have swung round to a figure nobody at that table had seen in their lives.
+He felt it the way a hand in the dark goes to a tool it has used before, already shaping to the grip. Since a bout he had lost fairly three years ago it had lived in him, used seldom, but always close under the skin. It did not keep a blow; it gathered it, turned it, and passed it on somewhere else. It was made for this. If anybody in the room had been marking answers right and wrong, it was the right answer to the question in his hands, and the little dial would have swung round to a figure nobody at that table had seen in their lives.
 
 It was not on the record.
 
@@ -156,15 +156,13 @@ Then he lifted the top sheet. By charter the note had to be read in the enrollee
 
 "Assessment of entry demonstration, assay-provision enrollee. Non-standard architecture. Execution consistent across trials. Baseline established; semester evaluation to measure against it."
 
-That was the whole of it.
-
 Four short sentences, against three bad nights and an hour of held breath and a shoulder that would complain until the week was out. He waited to be let down by them, and was not. There was nothing wrong in any of them. *Consistent across trials* was the only good word the instrument knew how to say, and it had said it.
 
 The Ash instructor signed. The Mire instructor's name came next, and under it a note on the sticking notch, initialled twice. The clerk pressed the stamp down, blotted, and closed the folder.
 
 Dull. Exact. Stamped. Cael could not remember the last time he had been so glad of anything.
 
-He thought of the four pages of Karis's list, every line anybody had ever written about him: the station's word in brackets, the registry's forms, the observer track, the ruling, Bracken's record with its two signatures. Most of them had been written by people deciding what he was. A few by people taking great care not to. This one had been written by a man who had not tried at all, because deciding was no part of his work, and it was the plainest line on the list, and the only one, he thought, that would read exactly as true a year from now.
+He thought of the four pages of Karis's list, every line anybody had ever written about him: the station's word in brackets, the registry's forms, the observer track, the ruling, Bracken's record with its two signatures. Most of them had been written by people deciding what he was. A few by people taking great care not to. This one had been written by a man who had not tried at all, because deciding was no part of his work, and it was the plainest line on the list, and the only one, he thought, that would read as true a year from now.
 
 He wrote the plate up that evening at the desk by the window, with his arm on a folded shirt because it did not like to hang.
 
@@ -192,7 +190,7 @@ The instructors and the clerk were already out in the passage when Gault, folder
 
 "I don't need to know what you are, Enrollee. I need my instruments and your consistency. Give me the second; the first is not my mandate."
 
-Cael did not move from the doorway. He held the sentence the way a man holds something that might spill. He had the sense that it was the most useful thing the bluff had handed him yet, and that it could be taken two ways, and he did not want to walk off with the wrong one.
+Cael did not move from the doorway. He held the sentence carefully. He had the sense that it was the most useful thing the bluff had handed him yet, and that it could be taken two ways, and he did not want to walk off with the wrong one.
 
 "Do you mean that kindly?" he said. "Or is it where you stop?"
 
@@ -206,11 +204,13 @@ He pushed the door open. The passage's noise came in, feet and voices.
 
 Cael went out past him into the passage, and Gault did not follow at once; he had turned back into the room to say something to the clerk, who had come back for his pens, and the door swung half to between them.
 
-The passage was full, as it always was at the change of bell, and Cael went along it slowly, because his hip had sent its bill and his right arm would not swing. Heads turned as he went by. Two second-years stopped talking outside the records room. A girl with an armful of practice smocks flattened herself against the wall to let him pass and stared at his arm as if she thought it might drop off. Somewhere behind him a man carrying a stack of forms stepped out of the stream, as clerks do, to let the passage go past; Cael did not look at him, because there was nothing in a clerk with forms to look at, and because by then his whole attention had turned inward, to the conversation at the door.
+The passage was full, as it always was at the change of bell, and Cael went along it slowly, because his hip had sent its bill and his right arm would not swing. Heads turned as he went by. Two second-years stopped talking outside the records room. A girl with an armful of practice smocks flattened herself against the wall to let him pass and stared at his arm. Somewhere behind him a man carrying a stack of forms stepped out of the stream, as clerks do, to let the passage go past; Cael did not look at him, because there was nothing in a clerk with forms to look at, and because by then his whole attention had turned inward, to the conversation at the door.
 
-He was thinking about a man who would not decide. On a hill where everybody had already made up their minds about him, eleven ways at once, he had found one man who had made not deciding his trade.
+He was thinking about a man who would not decide. On a hill where everybody had already made up their minds about him, he had found one man who had made not deciding his trade.
 
-*He doesn't want to know what I am,* he wrote that night, under the plate. *He wants me to be the same twice running. That's harder than being anything. It's also the first thing anybody's asked of me in a long while that I can actually give.*
+Under the plate that night he added the rest.
+
+*He doesn't want to know what I am. He wants me to be the same twice running. That's harder than being anything. It's also the first thing anybody's asked of me in a long while that I can actually give.*
 
 *About the man he spoke of. Instruments agree with whoever wants them to: that isn't a story about instruments. It's a story about me, if I let it be. Every column I keep, every third entry I've been hoping for since the first. I've been the one holding the instrument all my life. I'd better be Gault's kind and not the other.*
 

@@ -48,17 +48,17 @@ That evening he went up to the east hall gallery for the cohort's hour. Brom had
 
 The gallery was half full. On most evenings it drew a few second-years from the Blade floor and a scatter of people who simply liked watching somebody else be corrected. Cael took the bench at the east end, nearest the stair, and did not look toward the turned post at the far end of the walk. In the propped door's glass across the hall, small and a little bent, he could see that a man with an armful of forms stood there in a knot of three. He wrote nothing down; he noticed that he had noticed, and wrote that down instead.
 
-Below him on the oak, Rooke stood at the west end of the floor as he always stood, narrow and grey in his dark coat, his weight even on both feet and his hands loose at his sides. When Brom had first come to this hall, Rooke had sat him on the bench for twelve days without a word and without a bout, as he sat every newcomer, until he could see the boy watching properly. Brom had hated every hour of the twelve days, and come out of them, Cael thought, better at watching than he had ever been. Rooke did not raise his voice once in the hour, and did not need to, because fourteen people round the walls had learned to hear him the way Cael heard the read.
+Below him on the oak, Rooke stood at the west end of the floor as he always stood, narrow and grey in his dark coat, his weight even on both feet and his hands loose at his sides. When Brom had first come to this hall, Rooke had sat him on the bench for twelve days without a bout, as he sat every newcomer, until he could see the boy watching properly. Brom had hated every hour of the twelve days, and come out of them, Cael thought, better at watching than he had ever been. Rooke did not raise his voice once in the hour, and did not need to, because fourteen people round the walls had learned to hear him the way Cael heard the read.
 
 "Tarn," said Rooke.
 
 Tarn came off the wall, a Blade third-year with Copper Rank Seven on his card, shorter than Brom and far lighter, narrow in the face and very quick in the hands. Cael had given him half a page since the first week because of the way he fed: short and flat and committed only as far as the wrist, so that a strike looked real until the instant it was not there. Brom had described him to Cael with a sort of rueful admiration. *He feeds like a man dropping coppers in a cup. Small ones. You can't help reaching.*
 
-Tarn fed. Brom held. Tarn fed again, shorter, and again Brom held, the Iron Skin coming up hard under the strike so that it met a forearm like a stick meeting a fencepost, with none of his weight going out to turn it. Twice more. Each time Brom's breath came a little harder and his guard came back a little slower, and each time he did not turn. On the gallery a second-year murmured to her neighbour that the big one was being *stubborn*, as though it were a fault in him.
+Tarn fed. Brom held. Tarn fed again, shorter, and again Brom held, the Iron Skin coming up hard under the strike so that it met a forearm like a stick meeting a fencepost, with none of his weight going out to turn it. Twice more. Each time Brom's breath came a little harder and his guard came back a little slower, and each time he did not turn. On the gallery a second-year murmured to her neighbour that the big one was being *stubborn*.
 
 On the fifth feed, Brom turned.
 
-There was no decision in it; Cael was watching his face and saw none cross it. Tarn's fifth came in exactly like the four before, and Brom's body went out to meet it as it had gone out to meet feeds for years, the hardening letting go on the near side while the drive was still coming up on the far. For a quarter of a second nothing at all held him up.
+There was no decision in it; Cael was watching his face and saw none cross it. Tarn's fifth came in just like the four before, and Brom's body went out to meet it as it had gone out to meet feeds for years, the hardening letting go on the near side while the drive was still coming up on the far. For a quarter of a second nothing at all held him up.
 
 Tarn stepped into it and laid his palm on Brom's ribs.
 
@@ -102,7 +102,7 @@ He found Lira at the rail before the card began, with her towel round her neck a
 
 "I know who asked it. They're behind you again." She tugged the towel off and handed it to him. "I'll answer it for them."
 
-The Iron girls were indeed two rows behind him, on the same stone, as if they had never left, and as Cael climbed back to his place one of them said to the other, low and fierce, *watch her feet, just watch*, and the other said *I am watching her feet*.
+The Iron girls were indeed two rows behind him, on the same stone as before, and as Cael climbed back to his place one of them said to the other, low and fierce, *watch her feet, just watch*, and the other said *I am watching her feet*.
 
 Mire was an odd Path to watch, because most of what it did happened in the floor. The fourth-year declared without any show at all: a slight settling at the knees, nothing more. From his boots outward the boards changed. To a careless eye they did not change. To a careful one they took on a faint dull sheen, as though somebody had wiped them over with a wet cloth and they had not yet dried, and the chalk dust lying on them went from white to grey. The sheen spread slowly, perhaps an arm's length for every breath he spent, and it gripped. Cael had seen a Blade boy's foot come off it with a sound like a boot pulled out of a ditch.
 
@@ -172,19 +172,19 @@ Down on the floor, Lira was walking back to the steps with her face showing noth
 
 The Iron afternoon followed the Copper card, and Ephram fought third on it. He took a Stone fourth-year apart in three exchanges without once appearing to hurry, and afterward went to the lower rail on the west side, where five or six of Rooke's cohort were already waiting for him, and began to go through the bout for them in his low even voice. Cael could not hear the words from the east tier. He could see the hands: the left one showing the Stone boy's weight going down, the right one showing where it had gone a breath too early. Every so often Ephram stopped and pointed at one of the cohort and asked a question, and waited for the answer, and either nodded or shook his head and asked it again a different way. The circle at the rail had grown by two since the second session. One of the two was the small first-year in the Current smock, standing on her toes at the back.
 
-Below them, at the long board, Fiske stood reading the standings with her hands clasped at the small of her back. She did not watch the floor once while Cael watched her. She read the column from the top down, every line, as if it were an inventory she had been asked to check. When she reached the foot she started again at the top.
+Below them, at the long board, Fiske stood reading the standings with her hands clasped at the small of her back. She did not watch the floor once while Cael watched her. She read the column from the top down, every line. When she reached the foot she started again at the top.
 
 At the seventh bell the sun cleared the roof of the lecture range and laid a bar of hard gold across the upper west tiers, and the people standing up there began, one by one, to mind it.
 
 Cael was not watching for it, or so he had told himself. He was writing the last Iron bout of the day, two Shield fourth-years walking their panes at each other like men carrying doors through a crowd, when the knot of six that had stood on the upper west tier for an hour came apart.
 
-It did not come apart all at once. Two of them shaded their eyes, and one turned his back on the sun. A girl stepped down a row to get out of the glare and her friend followed her, and the rest drifted along the tier toward the end that still lay in shadow, the way cattle drift toward the wall of a field when it begins to rain. Nothing could have been more natural.
+It did not come apart all at once. Two of them shaded their eyes, and one turned his back on the sun. A girl stepped down a row to get out of the glare and her friend followed her, and the rest drifted along the tier toward the end that still lay in shadow. Nothing could have been more natural.
 
 Among them went somebody carrying forms.
 
 He did not hurry, and he did not choose anything Cael could see. He was part of the drift for a few steps, as anybody would have been, and when the drift stopped, he stopped, four bodies further along, in shade, third in a knot of five.
 
-Cael did not turn his head; it had been weeks since he had last looked at the man straight on. In the brass hood of the lamp, at the edge of his eye, he worked out the new place without wanting to. He did it the way his fingers would have counted out change, because it was what his attention did now whenever he left it alone for a moment.
+Cael did not turn his head; it had been weeks since he had last looked at the man straight on. In the brass hood of the lamp, at the edge of his eye, he worked out the new place without wanting to, because it was what his attention did now whenever he left it alone for a moment.
 
 The man had given up a fifth part of the floor. For it he had gained both stair heads, north and south, and the whole approach from the assessment wing's gate, which from the old place had been hidden behind a pillar. It was the better place. It was the best place on the tier for the last hour of a session, when people began to leave, and it mattered more who went down the stairs than who stood on the floor. He had reached it inside a dozen seconds, inside a crowd that moved for reasons of its own, and the crowd had folded round him so completely that nobody in it could have said afterward that he had moved at all.
 

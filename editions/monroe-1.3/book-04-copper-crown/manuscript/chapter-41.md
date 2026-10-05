@@ -54,9 +54,9 @@ Cael went to the east hall's gallery at the fifth bell, as he did most days, to 
 
 All season the cohort hour had run the same way: Rooke set pairs at the four marks on the timber and walked between them. Once in an hour he called a pair out into the middle and took one of them apart in front of the rest, slowly, with a few words, so that everybody could learn from the taking-apart. Brom had been taken apart in the middle of that floor perhaps thirty times since the first week, and Merrick had done a fair share of the taking.
 
-Today there were only three marks in use, and Merrick was not at any of them. He was at the far end of the hall, at the wall bars, with a junior Shield fighter for a partner, working panes. Brom was at the near mark with a Blade second-year. Between the two ends of the hall there was perhaps forty feet of empty timber, and every few minutes Rooke walked slowly down the middle of it, as if he were checking that it stayed empty.
+Today there were only three marks in use, and Merrick was not at any of them. He was at the far end of the hall, at the wall bars, with a junior Shield fighter for a partner, working panes. Brom was at the near mark with a Blade second-year. Between the two ends of the hall there was perhaps forty feet of empty timber, and every few minutes Rooke walked slowly down the middle of it, checking that it stayed empty.
 
-Halfway through the hour Merrick turned his head to look down the hall at Brom. He did it once, briefly, the way you glance at a clock.
+Halfway through the hour Merrick turned his head to look down the hall at Brom. He did it once, briefly.
 
 "Back to the bars, Merrick," said Rooke, without raising his voice and without seeming to have looked. "You'll see him on the tenth. Neither of you learns the other on my floor this week. If you want to study him, you've had a season." He stopped at the empty middle of the floor. "So has he."
 
@@ -118,7 +118,7 @@ He waited.
 
 "No. That's what everybody thinks, and it's wrong." She turned her head and looked at him at last. "If I go in carrying your pages, I'm carrying more than I can use. I'll be watching for the things you saw, and while I'm watching for them I'll be slow. She'll be ready for everything I brought last time. Good. I'm not bringing it. I'm going in with less than she thinks I've got, and I'll find out what's left when I'm standing on the boards. That's the only way to beat somebody who knows you completely. You stop being the person she knows."
 
-He sat with his hand on the notebook for a moment.
+He sat with his hand on the notebook.
 
 The old want came up in him, strong and familiar, the want that had built every page in the book: to give her everything, every pattern and tell and number, and send her into the yard armoured in it. He felt it come up and recognised it, and saw clearly, perhaps for the first time, that it was his want and not hers, and that giving her what he wanted to give would be a way of fighting the bout himself from the tier.
 
@@ -126,7 +126,7 @@ He took his hand off the notebook.
 
 "All right," he said.
 
-Lira looked at him for a long moment, surprised.
+Lira looked at him, surprised.
 
 "That's it? All right?"
 
@@ -150,13 +150,13 @@ Lira lay looking at the ceiling for a while.
 
 "Yes."
 
-"Fiske told me to make them look." She said it slowly, as if laying the words out on a table one at a time to see how they sat together. "Win the crown, she said, and then make them look at you. The crown's only how you force it. I've been thinking about that for a month. I thought she meant the registry. Somebody at a desk in Fenmark with my flag in a queue under forty other flags." She turned her head on the floor and looked at him. "And now the most senior pair of eyes in the whole Compact is coming up our road on its own feet, and it's going to be sitting in the gallery on the nineteenth whether I like it or not, and it isn't coming for me at all. It's coming for you. I'm what happens to be on the boards while it's here."
+"Fiske told me to make them look." She said it slowly, laying the words out one at a time to see how they sat together. "Win the crown, she said, and then make them look at you. The crown's only how you force it. I've been thinking about that for a month. I thought she meant the registry. Somebody at a desk in Fenmark with my flag in a queue under forty other flags." She turned her head on the floor and looked at him. "And now the most senior pair of eyes in the whole Compact is coming up our road on its own feet, and it's going to be sitting in the gallery on the nineteenth whether I like it or not, and it isn't coming for me at all. It's coming for you. I'm what happens to be on the boards while it's here."
 
 "Does that make it worse?"
 
 "It makes it funnier," said Lira. She did not laugh. "All my life I've wanted the people with the stamps to look at me properly, just once, instead of at a number on a card. And when they finally send the biggest stamp they've got, it's to look at somebody else, and I'm the fight it watches while it waits." She closed her eyes again. "I'm going to give it a very good fight. That's all. I'm not going to think about whether it sees me. If it's any good at its job, it will."
 
-They sat for a while without talking, while a barge went past below, low in the water, and gave its long note and its two short ones to nobody in particular.
+They sat for a while without talking, while a barge went past below, low in the water.
 
 "She'll be good tomorrow," said Lira, with her eyes shut. "She'll be better than last time. I want her to be. If I'm going to beat her, I don't want to beat a tired one." She was quiet. "She's the only person on this hill who's ever told me the truth without wanting anything for it. I'd like to give her the best bout she's ever had. Then I'd like to win it."
 
@@ -210,8 +210,8 @@ Then, at the foot, smaller:
 
 *Bumps: none. Holding cost the usual. I notice it's cheaper on days when I'm thinking about somebody else.*
 
-He blotted it, and sat for a moment longer, and then wrote one more line under that, because it had just occurred to him and he did not trust it to keep until morning.
+He blotted it, and then wrote one more line under that, because it had just occurred to him and he did not trust it to keep until morning.
 
-*Check that. It might be the opposite. Thinking about somebody else is exactly when I stop minding my edges. If it feels cheap, maybe I'm not paying it.*
+*Check that. It might be the opposite. Thinking about somebody else is when I stop minding my edges. If it feels cheap, maybe I'm not paying it.*
 
 He put a small cross beside the two lines, which in his shorthand meant *unresolved: test*, and put the lamp out.

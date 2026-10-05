@@ -6,7 +6,7 @@ Karis had asked him to be at the registrar's counter at the second bell, and had
 
 The boxes were plain grey pasteboard, the kind the stationer in Ostrand sold by the dozen, with brass corners and a cloth hinge. Three of them were already closed and tied with white tape, and on each lid in Bracken's hand was a single line: a number, and the words *Enrollment basis*, and the number of the box. The fourth stood open. Bracken was laying the last sheets into it from a stack at his elbow, one at a time, squaring each against the one below with the side of his hand.
 
-Karis stood at the far end of the counter. She had her grey notebook clasped against her chest with both arms, the way a person holds a cat that might jump, and her knuckles were still faintly blue from four days of ink.
+Karis stood at the far end of the counter. She had her grey notebook clasped against her chest with both arms, and her knuckles were still faintly blue from four days of ink.
 
 Nobody spoke, and the senior clerk at his high desk had stopped writing and sat with his pen lifted.
 
@@ -22,7 +22,7 @@ Cael stayed where he was.
 
 "Tell him the rest," said Karis, from the end of the counter. Her voice was not quite steady, and she was cross with it. "The part you told me."
 
-Bracken looked at her, and then at Cael, for a long moment, as though deciding whether the rest was a thing a registrar said aloud in his own outer office in front of his own senior clerk. Then he decided.
+Bracken looked at her, and then at Cael. Whether the rest was a thing a registrar said aloud in his own outer office, in front of his own senior clerk, took him a little while to decide. Then he decided.
 
 "The rest," he said, "is that neither of us is needed now. Miss Karis found the clause. I filed it. Neither of those things carries any weight now. The shelf carries it." He straightened the four boxes again, though they had not moved. "That's what a defense is, Enrollee, when it's finished. It isn't a speech. It's a thing that goes on being true in a room where nobody who built it is standing."
 
@@ -64,13 +64,13 @@ The safety instructor stood at the table beside the sand-glass, and Withrow sat 
 
 At the word, Fiske did not give ground.
 
-That was the first thing, and the whole yard saw it and made a sound, a low surprised breath, as a crowd does when a familiar piece of music goes wrong in the second bar. All season Fiske had opened every bout the same way, stepping back off her line to buy herself a minute of learning, but she had nothing to learn today. She took one step forward instead, and put her first declaration into the boards at once, a yard to the left of Lira's chalk, flat and fast, and the patch of oak there went slick.
+That was the first thing, and the whole yard saw it and made a sound, a low surprised breath, the sound of a familiar tune going wrong in the second bar. All season Fiske had opened every bout the same way, stepping back off her line to buy herself a minute of learning, but she had nothing to learn today. She took one step forward instead, and put her first declaration into the boards at once, a yard to the left of Lira's chalk, flat and fast, and the patch of oak there went slick.
 
 Then a second, a yard to the right.
 
 Lira did not burst. She walked. She went forward between the two slick patches on her own feet, at an ordinary pace, straight down the one lane Fiske had left open. Cael saw instantly that the lane was a lie. It ran straight at Fiske, and it got narrower as it went, and the third declaration was already going down across the far end of it.
 
-Lira saw it too, a step later than he did. She stopped. She stood in a narrowing strip of honest wood with Fiske's slick on both sides of her and across her front, and every inch of the strip had been drawn, in eleven seconds, by a woman who knew exactly where Lira's feet liked to go and had simply removed all of those places before Lira got there.
+Lira saw it too, a step later than he did. She stopped. She stood in a narrowing strip of honest wood with Fiske's slick on both sides of her and across her front, and every inch of the strip had been drawn, in eleven seconds, by a woman who knew where Lira's feet liked to go and had simply removed all of those places before Lira got there.
 
 "Burst," said Brom, very low. "Burst, burst."
 
@@ -96,7 +96,7 @@ At the word, Lira burst.
 
 She did not burst away from anything. There was nothing yet to burst away from; the boards between them were clean, because Fiske had not had time to put anything on them. She burst straight forward from the chalk at the word itself, one half-breath of Wind, and the landing beat set her down two strides from Fiske, on clean oak, before Fiske's first declaration had finished gathering.
 
-Fiske had seen it coming, of course; she had seen everything coming all season. But seeing a thing coming and having somewhere to put a slick floor in front of it are not the same. Lira had come in before there was any floor to close. Fiske turned the half-built declaration into a plain short delivery instead, the way a carpenter turns a half-cut joint into a different joint, and it caught Lira on the outside of the left arm, hard, and Lira's right hand was already flat on Fiske's ribs.
+Fiske had seen it coming, of course; she had seen everything coming all season. But seeing a thing coming and having somewhere to put a slick floor in front of it are not the same. Lira had come in before there was any floor to close. Fiske turned the half-built declaration into a plain short delivery instead, and it caught Lira on the outside of the left arm, hard, and Lira's right hand was already flat on Fiske's ribs.
 
 "Wind," said the table. "One each."
 
@@ -104,7 +104,7 @@ The yard came up off the benches and sat down again.
 
 "There," said Brom, with his fists against his mouth. "There, there."
 
-Cael was not looking at the touch. He was looking at Lira's leading hip as she walked back to her chalk, and at the way she put her weight down through it, carefully, as if testing a stair in the dark.
+Cael was not looking at the touch. He was looking at Lira's leading hip as she walked back to her chalk, and at the way she put her weight down through it, carefully, testing it.
 
 One burst gone. She had come in at the word with the cheapest burst there was, the one with no evasion in it, and it had bought her a touch. But Fiske had seen it, and Fiske would not let it work twice.
 
@@ -158,7 +158,7 @@ So let her come. Don't burst. Don't run anything. Make the floor hers and stand 
 
 At the word, Fiske made the floor hers.
 
-She did it quickly and completely, with a kind of terrible patience. A patch, and a patch, and a patch, closer each time, round Lira in a slow spiral, until Lira stood on a square of clean oak about the size of a table, with Fiske's slick on every side of it, gleaming faintly in the afternoon light like ice on a pond. There was no way off it on foot. A burst would take her off it, and Fiske knew exactly how many bursts the hip had left, because Fiske could count as well as anybody, and the answer was one, perhaps, and a bad one.
+She did it quickly and completely, with a kind of terrible patience. A patch, and a patch, and a patch, closer each time, round Lira in a slow spiral, until Lira stood on a square of clean oak about the size of a table, with Fiske's slick on every side of it, gleaming faintly in the afternoon light like ice on a pond. There was no way off it on foot. A burst would take her off it, and Fiske knew how many bursts the hip had left, because Fiske could count as well as anybody, and the answer was one, perhaps, and a bad one.
 
 Then Fiske stopped.
 
@@ -182,7 +182,7 @@ That's your tell, Lira thought, with a strange clear calm. You've never had to w
 
 With perhaps ten breaths left in the glass, Fiske came.
 
-She came straight, as she had come at the end of their first bout: one plain heavy delivery, built and committed, the Force that every other fighter on the sheet used, coming across her own slick on feet that knew exactly where the oil lay. There was nowhere to go from it. Lira could not step back; behind her was slick. She could not step aside; slick. She could burst, and land, and stand still in front of the one woman on the bluff who hit still things best.
+She came straight, as she had come at the end of their first bout: one plain heavy delivery, built and committed, the Force that every other fighter on the sheet used, coming across her own slick on feet that knew where the oil lay. There was nowhere to go from it. Lira could not step back; behind her was slick. She could not step aside; slick. She could burst, and land, and stand still in front of the one woman on the bluff who hit still things best.
 
 She went forward, onto the oil.
 
@@ -198,9 +198,9 @@ The stop went through the leading hip like a nail.
 
 It did something in there she had never felt it do. Something gave, deep and sideways, with a small sound she heard inside her own head rather than with her ears. Her right hand was already moving. It landed flat on Fiske's ribs, under the arm, inside the recovery, as Fiske's weight was still going forward over the place where Lira had been.
 
-"Wind," said the table, into a silence like a held breath. "Two to one. Bout."
+"Wind," said the table, into the silence. "Two to one. Bout."
 
-She did not hear the yard come up. She heard it afterward, the way you hear thunder after the flash, a wall of noise from every tier at once that hit the lecture range and came back. In the moment she heard nothing but her own breath, and felt nothing but the floor under her right hand, because she had gone down on one knee on the oak at the edge of Fiske's patch and could not, for the moment, get up.
+She did not hear the yard come up. She heard it afterward, a wall of noise from every tier at once that hit the lecture range and came back. In the moment she heard nothing but her own breath, and felt nothing but the floor under her right hand, because she had gone down on one knee on the oak at the edge of Fiske's patch and could not, for the moment, get up.
 
 Fiske was standing over her, and her face had changed.
 
@@ -238,7 +238,7 @@ It took Cael most of a quarter-hour to get down to the floor. When he got there 
 
 "Does it click?"
 
-"No," said Lira. Then, after a moment, honestly: "Once. On the oil."
+"No," said Lira. Then, honestly: "Once. On the oil."
 
 The instructor sat back on his heels and looked at her with the face of a man who has spent a working lifetime being lied to by fighters and has come to prefer it when they stop.
 
@@ -246,7 +246,7 @@ The instructor sat back on his heels and looked at her with the face of a man wh
 
 "I know," said Lira.
 
-He went. Brom had arrived, and was standing a pace away with his hands opening and closing at his sides, looking at the hip exactly the way Lira had said he would look at it, like a man looking at a sick dog. Karis was beside him with the notebook shut.
+He went. Brom had arrived, and was standing a pace away with his hands opening and closing at his sides, looking at the hip the way Lira had said he would look at it, like a man looking at a sick dog. Karis was beside him with the notebook shut.
 
 Lira looked up at the three of them.
 

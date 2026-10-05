@@ -10,15 +10,15 @@ Then he leaned on the rail of the north stair, a little above the board, and wat
 
 They came in ones and twos at first, and then in a steady stream, between the bells. Every one of them did the same thing first. He saw ninety-odd people do it that morning and not one failed to: they found their own name before they looked at anything else, with a small fierce hunt of the eyes, as if somebody might have left them off. Then, having found it, they did one of three things, and the three things told him more about the bluff than a month of corridors.
 
-Most read upward. Their eyes went from their own name to the names above it, slowly, one at a time, and their lips moved. He could see them counting: four places up, the most the rules allowed a challenge to reach, and who was standing in those four places, and how they had looked on a practice afternoon. Those had come to climb. Some read downward instead, from their own name to the names below it, and their shoulders went very slightly up as they did it, the way a man's shoulders go up when he hears a dog behind him. Those had come to hold what they had. Cael noted, with real interest, that nearly all of the downward readers stood in the top third of a column, and that most of them were older, fourth-years and fifth-years. Holding was a thing people learned to want late.
+Most read upward. Their eyes went from their own name to the names above it, slowly, one at a time, and their lips moved. He could see them counting: four places up, the most the rules allowed a challenge to reach, and who was standing in those four places, and how they had looked on a practice afternoon. Those had come to climb. Some read downward instead, from their own name to the names below it, and their shoulders went very slightly up as they did it. Those had come to hold what they had. Cael noted, with real interest, that nearly all of the downward readers stood in the top third of a column, and that most of them were older, fourth-years and fifth-years. Holding was a thing people learned to want late.
 
-And a few, a very few, did neither. They read the whole column at once, top to bottom, the way you read a page and not a line. Then they turned and walked away without a word to anybody.
+And a few, a very few, did neither. They read the whole column at once, top to bottom, the way you read a page and not a line. Then they turned and walked away.
 
 In the Copper column he counted five of those all morning.
 
 One was Lira. She came at the second bell with her hair still wet from the wash-house and read the ninety-one names in the time it would have taken him to read nine, and walked off toward the north hall without looking round, and he knew better than to follow her yet.
 
-Another had been there before him, at the board's left end, quite still, her hands clasped at the small of her back. She went down the Copper names slowly, line by line, the way a quartermaster goes down a list of stores, as though each name had to be found on a shelf in her head and ticked. Force Path. Copper Rank Eight. Fiske. Her own name stood at the very top of the column, with two seasons of results behind it in Bracken's files, and beside it, alone among the hundred and seventy-three names on all three sheets, a small brass stud pressed into the sheet like a button.
+Another had been there before him, at the board's left end, quite still, her hands clasped at the small of her back. She went down the Copper names slowly, line by line, the way a quartermaster goes down a list of stores. Force Path. Copper Rank Eight. Fiske. Her own name stood at the very top of the column, with two seasons of results behind it in Bracken's files, and beside it, alone among the hundred and seventy-three names on all three sheets, a small brass stud pressed into the sheet like a button.
 
 Cael had asked Bracken about that stud in his second week. Every other mark on the bluff's paper explained itself; that one said nothing, and he had not liked not knowing what it said.
 
@@ -56,13 +56,13 @@ Lira came to the end of the sequence and stood still, and looked at the floor fo
 
 "I read that too." Lira picked up her towel. "I've drawn a Stone Path. Ninth. Nyle."
 
-Cael had Nyle already. Everybody on the ladder was in the binder by now, one page each, and Nyle's was one of the fuller ones because Cael had watched him twice on practice afternoons out of pure liking. He was a third-year, Copper Rank Five, broad through the shoulders with a settled, comfortable stance, eleven wins across two seasons in Bracken's files.
+Cael had Nyle already. Everybody on the ladder was in the binder by now, one page each, and Nyle's was one of the fuller ones because Cael had watched him twice on practice afternoons out of pure liking. He was a third-year, Copper Rank Five, broad through the shoulders with a settled, comfortable stance, a dozen wins across two seasons in Bracken's files.
 
 Stone was a slow Path to gather, and Nyle had learned, the way the best Stone fighters did, to make the slowness look like patience, so that an opponent waited for him when he ought to have been moving. A Stone fighter's weight could not bluff. It was the working itself, so whatever it promised, it meant, and the craft of the Path lay entirely in timing: bring it down at the instant that hurt most, and never mind who saw it coming. He breathed out through the gather, low, so that you could hear it from the tiers.
 
 *He's good,* Cael had written the night the draw went up. *He'll be gone in under two minutes. I don't think anyone has told him.*
 
-He did not say so to Lira. She did not need anything said to her. She had read Nyle's page over his shoulder at breakfast without asking, which she did with every page in the binder that had her name near it, and had handed it back without a word, and gone on with her bread.
+He did not say so to Lira. She did not need anything said to her. She had read Nyle's page over his shoulder at breakfast without asking, which she did with every page in the binder that had her name near it, and had handed it back and gone on with her bread.
 
 ---
 
@@ -74,7 +74,7 @@ Lira and Nyle went down into the sunk floor and to their chalk. The adjudicating
 
 Nyle began his gather.
 
-It was correct. It was what every Stone fighter on the bluff would have done against a smaller, quicker opponent: start the weight moving early, slow and heavy, and make her choose a side before he had to. Whichever side she chose, he would land on it. The yard had seen that gather beat the Copper column eleven times.
+It was correct. It was what every Stone fighter on the bluff would have done against a smaller, quicker opponent: start the weight moving early, slow and heavy, and make her choose a side before he had to. Whichever side she chose, he would land on it. The yard had seen that gather beat the Copper column a dozen times.
 
 Lira chose a side.
 
@@ -96,11 +96,11 @@ On the third exchange Nyle did not gather at all. He stood with his weight down 
 
 She committed. She showed him left on her feet alone, a half-step with no Wind in it, and his weight leaned after it. Then the third burst took her right, and the instant its landing beat let go of her the fourth began, with no gap at all between the end of one and the start of the next, which Cael had never seen anybody do and could not have done himself. The third had put her inside his reach. The fourth was a short one, a burst no longer than a stride, that left her standing at his back on the side of his front shoulder, with every part of his stance facing the place she had been.
 
-Then she touched the back of his front knee, just as all his weight arrived on that leg. It was hardly a strike at all. The knee simply folded, the way a knee folds when the floor is taken out from under it, and Nyle went down heavily and well, onto his hip and shoulder as he had been taught. The safety instructor's hand was up before he landed.
+Then she touched the back of his front knee, just as all his weight arrived on that leg. It was hardly a strike at all. The knee simply folded, and Nyle went down heavily and well, onto his hip and shoulder as he had been taught. The safety instructor's hand was up before he landed.
 
 "Wind," said the table. "Three. Bout."
 
-Eleven seconds. Cael had counted them in his own breath without meaning to, from the table's first word to its last, the walks back to chalk left out. Three exchanges. Four bursts. And his own hip, forty feet up and three years away from where it had first learned this, ached with each of them in turn, as if it had been asked to pay too. It knew the whole bill: toll at the front, jolt at the back, and the hot line from crest to inner thigh that would be written out on her by suppertime and still legible at breakfast. She had known that price at breakfast. She had read Nyle's page over his shoulder and decided, between two mouthfuls of bread, what the bout was worth to her, and it had been eleven seconds, and she had spent precisely that and kept the rest.
+Eleven seconds. Cael had counted them in his own breath without meaning to, from the table's first word to its last, the walks back to chalk left out. Three exchanges. Four bursts. And his own hip, forty feet up and three years away from where it had first learned this, ached with each of them in turn. It knew the whole bill: toll at the front, jolt at the back, and the hot line from crest to inner thigh that would be written out on her by suppertime and still legible at breakfast. She had known that price at breakfast. She had read Nyle's page over his shoulder and decided, between two mouthfuls of bread, what the bout was worth to her, and she had spent precisely that and kept the rest.
 
 Then the yard did something he had not expected.
 
@@ -116,7 +116,7 @@ Then somebody high on the north side began to clap, and the rest took it up a be
 
 Nyle sat up on the floor, and shook his head, and laughed, and let Lira give him a hand up. By the sheet he was the ninth-best Copper practitioner on the hill, and Cael did not doubt it; he had watched him earn it. By the sheet Lira was the twenty-second. Both figures were honest. Neither of them had been watching.
 
-Down below the long board, where the results clerk was already reaching up with his chalk, Fiske had not moved. She had not moved for the whole eleven seconds, and she did not clap now. She stood with her hands at the small of her back and looked across the floor at Lira, who was standing alone in the middle of it with one palm pressed flat to her own thigh and her face showing nothing at all. And Fiske dipped her chin, once, a very small movement, made to nobody. It was the nod you give a guest you have been laying a place for, year after year, without ever knowing whose face would be in the doorway.
+Down below the long board, where the results clerk was already reaching up with his chalk, Fiske had not moved. She had not moved for the whole of it, and she did not clap now. She stood with her hands at the small of her back and looked across the floor at Lira, who was standing alone in the middle of it with one palm pressed flat to her own thigh and her face showing nothing at all. And Fiske dipped her chin, once, a very small movement, made to nobody. It was the nod you give a guest you have been laying a place for, year after year, without ever knowing whose face would be in the doorway.
 
 Then she turned and went back to the sheet, as if to make sure nothing on it had changed. Nothing had. That, Cael thought, was rather the trouble.
 
@@ -156,7 +156,7 @@ Brom went back to his chalk slowly. He stood on it with his hands at his sides a
 
 On the fourth exchange Brom stopped turning.
 
-He did not announce it. Nobody but Cael, and perhaps three people in the whole yard, would have known what they were looking at. Merrick came in with his cheap feed exactly as before, and Brom did not turn on it. He did not turn on anything. He simply stood and took it, square, on the forearm, with Iron Skin hardening under the blow as it always had and not one ounce of his weight going out to send it anywhere.
+He did not announce it. Nobody but Cael, and perhaps three people in the whole yard, would have known what they were looking at. Merrick came in with his cheap feed just as before, and Brom did not turn on it. He did not turn on anything. He simply stood and took it, square, on the forearm, with Iron Skin hardening under the blow as it always had and not one ounce of his weight going out to send it anywhere.
 
 There was a dull flat sound, like a mallet on a wet post.
 
@@ -172,7 +172,7 @@ So Merrick did what a clever man does when his trick stops working. He assumed i
 
 The turn did not come. The gap did not open. Merrick, all his weight committed, arrived at a shoulder that ought by every rule he knew to be swinging out of his way, and found it standing where it was, set and hard as a gatepost.
 
-He bounced. That was the only word for it. He came off Brom like a man walking into a doorpost in the dark, and while he was still finding his feet Brom's open hand came down on the side of his neck.
+He bounced. That was the only word for it. While he was still finding his feet Brom's open hand came down on the side of his neck.
 
 "Iron Skin. Two each."
 
@@ -182,7 +182,7 @@ The fifth exchange was ugly and short. Merrick did not feed; he had nothing left
 
 The yard applauded, warmly, the way it applauded things it had not followed but liked the look of. Most of it would have forgotten the bout by supper. Cael had a page and a half on his knee before Brom was off the floor, and at the top of it, underlined twice, the only three words he was sure of: *ugly, expensive, intelligent.* The yard had seen the first two. The third was the whole of it. It had been an ugly, expensive, entirely intelligent win, made by a man who had stood in the middle of a bout he was losing and put down the best thing he owned because it had become the thing they were beating him with.
 
-Brom came up the steps out of the sunk floor slowly, carrying his left arm as if it belonged to somebody else, with a dark line coming up along his jaw where the second touch had caught him. He sat down on the bench at the floor's edge and put his head back against the stone and shut his eyes.
+Brom came up the steps out of the sunk floor slowly, carrying his left arm close, with a dark line coming up along his jaw where the second touch had caught him. He sat down on the bench at the floor's edge and put his head back against the stone and shut his eyes.
 
 Rooke was in front of him.
 

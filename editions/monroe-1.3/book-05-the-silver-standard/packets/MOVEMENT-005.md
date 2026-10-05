@@ -10,7 +10,7 @@
 
 ## Where we enter
 
-The delegation is in its first week on the seventeen-day road to Norhold, two wagons running downhill with the spring melt. Rooke, Gault, Seln and the reserves travel; Withrow and Bracken will catch up. Cael charts the road as an education. The draw has not posted. Nobody at Halcenvane has seen Daeva closer than a woodcut.
+The delegation is in its first week on the seventeen-day road to Norhold, two wagons running downhill with the melt [B4-reconciled 2026-10-05: "spring" dropped, #35]. Rooke, Gault, Seln and the reserves travel; Withrow and Bracken will catch up. Cael charts the road as an education. The draw has not posted. Nobody at Halcenvane has seen Daeva closer than a woodcut.
 
 ## What this movement is for
 
@@ -42,7 +42,8 @@ Development: about 16 Cael beats. Supporting: Withrow (1–2), Lira (2), Ephram 
 
 - Daeva stays at distance: no conversation and no window yet. The first read is all he gets.
 - Umber's cutaway: no hint of the bout to come and no system theory.
-- Vastin: he notes the held seat. He infers nothing about makers, and nothing about Seln.
+- Vastin (the Archmarshal; no age; "forty years", OWNER #17) [B4-reconciled 2026-10-05]: he notes the held seat. He infers nothing about makers, and nothing about Seln.
+- No season name anywhere (#35); the opening falls on "the first day of the new month", unnamed.
 - Karis's "door somebody built on purpose" means the charter's drafters only. [UNBOUND] appears nowhere, and the note stays closed.
 - The Copper bracket runs in the second week and finishes before the rest day (C14).
 - No "four years" (C3). No system age figure (C4).

@@ -32,13 +32,13 @@ None of that was odd, taken alone. Clerks attend to their forms. He could have n
 
 He shut the binder and went in to his lecture.
 
-But the line was written now, under the fame tally, and for the next two days, every time he opened the binder, his eye snagged on it the way a sleeve snags on a nail.
+But the line was written now, under the fame tally, and for the next two days, every time he opened the binder, his eye snagged on it.
 
 ---
 
 For two days he left it alone, and he was quietly pleased with himself for the two days, though he would not have admitted it to Lira for a purse of silver.
 
-The difficulty was his own rule. One was an accident, two a coincidence, three a structure; he had carried it since Denvash. He had broken it exactly once, at Ardenmere, building a whole plan on a single sighting, and the plan had come down in front of people who mattered, and he had underlined the cost in the binder in two colours so that he would remember it on mornings like this one. By the rule, seven was plenty. Seven was a structure twice over.
+The difficulty was his own rule. One was an accident, two a coincidence, three a structure; he had carried it since Denvash. He had broken it once, at Ardenmere, building a whole plan on a single sighting, and the plan had come down in front of people who mattered, and he had underlined the cost in the binder in two colours so that he would remember it on mornings like this one. By the rule, seven was plenty. Seven was a structure twice over.
 
 Except that the rule had been cut for tells, for a shoulder that dipped the same way in four bouts or a breath that caught before a strike every time. It was a rule about things bodies did. Here he had a thing a body had not done, seven times, and he had never once tried to stand anything on top of an absence. He could not say whether three nothings made a pattern or only a bigger nothing. The honest answer, he suspected, was that it turned on how much of something he ought to have expected, and he had no idea.
 
@@ -76,13 +76,13 @@ By the evening of the sixty-sixth day the columns read like this, on a page he w
 
 *TA: 0 of 31.*
 
-He sat on the end of his bed with the binder across his knees and the lamp turned up, and he looked at the four lines for a long while without writing anything under them.
+He sat on the end of his bed with the binder across his knees and the lamp turned up, and he looked at the four lines without writing anything under them.
 
 The first thing to do with a number that looks impossible is to find out whether it is, so he set out the sum the slow way, distrusting every step, the way Karis set out a clause. A grown man on the staff, who had seen a thousand enrollees come and go, would care about him less than a first-year on a stair; put his chance of a look at one in six. Thirty-one tries at that should have earned about five looks. None at all was a long shot. Long shots came in somewhere every day, though, and a man who forgot it would end up reading omens in clouds.
 
 Then he laid the control column beside it, and the sum stopped being about strangers at all.
 
-The other four in the wing were not strangers. They had read the same hearing and they worked in the room where its result was kept, and between them they had looked at him more than half the time. The desk clerk had looked nine times in fourteen. Two of the four plainly found him interesting, the way people find a puzzle interesting when it walks in off the street and asks for a form. And the fifth man in that office sat closer to Cael's paper than any of them. He had copied Cael's floor times into the ledger in his own hand. He had turned the sheet over to read the authorizations on its back, the only clerk Cael had ever watched do that. He was a Bronze-tier man at a copying table, and he had more reason to be curious than any of them.
+The other four in the wing were not strangers. They had read the same hearing and they worked in the room where its result was kept, and between them they had looked at him more than half the time. The desk clerk had looked nine times in fourteen. Two of the four plainly found him interesting: a puzzle that had walked in off the street and asked for a form. And the fifth man in that office sat closer to Cael's paper than any of them. He had copied Cael's floor times into the ledger in his own hand. He had turned the sheet over to read the authorizations on its back, the only clerk Cael had ever watched do that. He was a Bronze-tier man at a copying table, and he had more reason to be curious than any of them.
 
 Thirty-one chances, and nothing.
 
@@ -120,11 +120,9 @@ Day, bell, where the man had stood, what could be seen from there. Nothing about
 
 He needed something to hang the shorthand on, and it took him four tries to make it. He kept every one of them, each with its failure written across it, because a dead method left lying about unlabelled had a habit of coming back to life at two in the morning dressed as a new idea.
 
-The first map was a clock. He drew his week as a wheel of hours and marked where the man had been at each, hoping some hour would stand out. None did. At every hour the man had been somewhere a clerk might plausibly be, which was everywhere. *Time is the wrong axis*, he wrote across it.
+The first map was a clock, a wheel of hours with the man marked at each, and no hour stood out, because at every hour he had been somewhere a clerk might plausibly be: *Time is the wrong axis*.
 
-The second followed the paper. He tried to note which forms the man was carrying at each sighting, on the idea that a clerk's errands would explain his routes and anything left over would be the interesting part. He could not read forms at twenty paces, and at five paces he could not stare at them without staring at the man. After three days he had a page of guesses. He struck it through and wrote at the top, in capitals, *KILLED, NO SIGNAL*, with the date, so that it would stay buried.
-
-The third listed whom the man spoke to. It came out as the desk clerk, a porter, two instructors asking after forms, and once a first-year who had lost her timetable. *Ordinary. Nobody repeats. Killed.*
+The second followed the forms the man carried, and died in three days, because nobody can read a form at twenty paces or stare at one at five without staring at the man; he wrote *KILLED, NO SIGNAL* across it in capitals. The third, a list of whom the man spoke to, came out as the desk clerk, a porter, two instructors and a first-year who had lost her timetable: *Ordinary. Nobody repeats. Killed.*
 
 The fourth was the first one with the right idea in it. It gave up the man altogether and drew the bluff, every hall and passage and stair as a box with a letter in it, so that each sighting could be filed under its room. It took him two evenings. And it was wrong in a way he could not see until he had poured three days of shorthand into the boxes and found the shorthand would not go in. The man was never in a room. He was always on the edge of one. Rails, landings, the top of a stair, the middle of a knot of five people on a tier: the seams between one space and the next, where a person can stand still for a long time without anybody feeling that he has stopped.
 
@@ -134,7 +132,7 @@ Across the fourth map, smaller than the rest, he wrote: *Not boxes. Seams. Draw 
 
 He drew the fifth map on the night of the sixty-sixth day, after the sum, with the lamp turned so low that Brom put his head round the door to ask whether he had gone blind or simply mad.
 
-"Neither," said Cael, not looking up. "Go to bed."
+"Neither," said Cael, to the page. "Go to bed."
 
 "I am in bed. I'm just in it standing up in your doorway." Brom peered at the page. "Is that a spider?"
 
@@ -164,9 +162,9 @@ Then he lifted the page to the lamp so that the two layers showed through each o
 
 They were one layer.
 
-He went over them with the point of the pencil, slowly, as if the dots might shuffle when he blinked. He had nineteen positions logged across five days. In nineteen cases out of nineteen the man from Gault's office had been standing exactly where Cael would have stood if it had been Cael's work to watch Cael.
+He went over them with the point of the pencil, slowly. He had nineteen positions logged across five days. In nineteen cases out of nineteen the man from Gault's office had been standing exactly where Cael would have stood if it had been Cael's work to watch Cael.
 
-He set the pencil down with care, the way a man sets down a cup filled to the brim.
+He set the pencil down with care.
 
 Then, because a match that good deserved to be argued with, he went looking for the hours that did not match. There were some. On four of the hours in his week, the shorthand had no dot at all: the man had simply not been anywhere Cael could see.
 
@@ -216,7 +214,7 @@ Brom thought about this, winding a wrap round two fingers and unwinding it.
 
 "Not much." Cael got up. "Keep the trade. Have my hour on the timber. You'll make more of it than I will this week."
 
-Brom nodded, as though that settled some private question, and bent to his wraps. Then, without looking up, he said, "Is it why you've stopped looking at the wing door?"
+Brom nodded and bent to his wraps. Then, still bent over them, he said, "Is it why you've stopped looking at the wing door?"
 
 Cael, half turned to go, stopped.
 

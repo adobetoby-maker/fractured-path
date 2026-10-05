@@ -52,7 +52,7 @@ He went where the shell would burst. That was the old answer, and it had been a 
 
 The arm was not bare.
 
-A second shell had come up on the off arm, which had been carried forward and close in exactly so that it could, and it was already set across the space Cael had moved into. He felt it on the read a breath too late to stop. He turned his shoulder and took the shell on the outside of his forearm, where it burst and stung, and Edran's lead hand came round inside it with the edge of the forearm turned out and laid itself along his ribs. It barely touched, but it was clean.
+A second shell had come up on the off arm, which had been carried forward and close in so that it could, and it was already set across the space Cael had moved into. He felt it on the read a breath too late to stop. He turned his shoulder and took the shell on the outside of his forearm, where it burst and stung, and Edran's lead hand came round inside it with the edge of the forearm turned out and laid itself along his ribs. It barely touched, but it was clean.
 
 "Touch," said Wray. "Edran. One."
 
@@ -106,7 +106,7 @@ Edran came on as before, and Cael waited for the shift, and the read gave it to 
 
 The off arm did not move.
 
-Edran had put the weight into the shoulder and held it there and built his next shell on the lead instead, the old way, and Cael came out of his slip into exactly the place the lead shell was waiting. He got his forearm up. The shell burst on it with a crack like a branch breaking under snow, and the off arm, which had been loaded and still, came across now, late on purpose, and laid its edge along his flank.
+Edran had put the weight into the shoulder and held it there and built his next shell on the lead instead, the old way, and Cael came out of his slip into the place the lead shell was waiting. He got his forearm up. The shell burst on it with a crack like a branch breaking under snow, and the off arm, which had been loaded and still, came across now, late on purpose, and laid its edge along his flank.
 
 "Touch. Edran. Two to one."
 
@@ -124,7 +124,7 @@ The second burst was short and almost easy. He had his palm on Edran's breastbon
 
 "Touch. Cael. Two each."
 
-Behind the narrow table, Wray made a mark on her own slate. She did not look up. Cael understood, from the fact that she did not look up, that she had seen exactly which figure the pivot had come from.
+Behind the narrow table, Wray made a mark on her own slate and kept her eyes on it. Cael understood, from the fact that she did not lift them, that she had seen which figure the pivot had come from.
 
 ---
 
@@ -150,7 +150,7 @@ Cael stepped back. He looked at the shell on Edran's off arm, still whole, and a
 
 Edran let the shell go. It broke outward in pale glitter, and he went back to his mark without looking at the table.
 
-Quenna wrote something on her pad and did not look up.
+Quenna wrote something on her pad.
 
 He had spent three bursts, and he had two exchanges left.
 
@@ -162,7 +162,7 @@ His hip had begun to speak at the end of the sixth, a warmth low on the leading 
 
 He tried to win it without the Wind.
 
-He went to the read and the gaze and the framework, slipping on his own feet and taking shells on his forearms. He waited for the shift, and on the second true one he went in on foot, without a burst, using the pivot, aiming to arrive on the open side by turning instead of flying. It was slower. It was half a beat slower, which was exactly the half-beat Edran had bought with his reach. He arrived on the open side, and Edran's third structure of the sequence was standing there on the off arm, whole, thick and clean from the elbow to the wrist, without any thin place or cold sliver on its edge.
+He went to the read and the gaze and the framework, slipping on his own feet and taking shells on his forearms. He waited for the shift, and on the second true one he went in on foot, without a burst, using the pivot, aiming to arrive on the open side by turning instead of flying. It was slower. It was half a beat slower, and half a beat was what Edran had bought with his reach. He arrived on the open side, and Edran's third structure of the sequence was standing there on the off arm, whole, thick and clean from the elbow to the wrist, without any thin place or cold sliver on its edge.
 
 Cael looked at it for the space of a single heartbeat, with real admiration. He could not help it. It was a beautiful piece of work, a whole term of somebody's life, finished.
 
@@ -178,7 +178,7 @@ He did not pretend otherwise to himself. He had written the rule. He was breakin
 
 "Eighth exchange," said Wray. "Last. Begin."
 
-Edran came on. He knew it as well as Cael did. He came on low and patient and let the shells come up and shed, lead and off, lead and off, and waited for the fourth burst to come. If Cael had been in his place, he would have been doing exactly the same.
+Edran came on. He knew it as well as Cael did. He came on low and patient and let the shells come up and shed, lead and off, lead and off, and waited for the fourth burst to come. If Cael had been in his place, he would have been doing the same.
 
 Cael waited for a true shift.
 
@@ -200,7 +200,7 @@ Cael stood in the middle of the boards and let it go past him. His hip had stopp
 
 Edran was in front of him.
 
-He had let the last of his structures go, and his forearms were bare and red where the shells had sat all morning. He was breathing hard and trying not to show it. He looked at Cael for a long moment, the way he had looked at Cael through the whole bout, without anything in his face but attention.
+He had let the last of his structures go, and his forearms were bare and red where the shells had sat all morning. He was breathing hard and trying not to show it. He looked at Cael the way he had looked at him through the whole bout, without anything in his face but attention.
 
 Then he put out his hand.
 
@@ -212,13 +212,13 @@ Cael saw it in Edran's shoulders before he heard it in the words. It was not a c
 
 "Someday," said Cael.
 
-Edran let go and went to his corner without another word, and Hobb came off the rail and handed him a towel, and Edran took it without looking.
+Edran let go and went to his corner, and Hobb came off the rail and handed him a towel, and Edran took it without looking.
 
 Wray was standing behind the table. She looked down the length of the floor at Cael, and he waited for her to say something about the sixth, or the fourth burst, or the landing that had run long in front of the whole school. She did not.
 
 "Pivot," said Wray. "On time. Second figure." She sat down. "That's all."
 
-He bowed to the table. Quenna's pen was still moving. She did not look up, and he did not expect her to.
+He bowed to the table. Quenna's pen was still moving, and he did not expect it to stop for him.
 
 ---
 
@@ -248,7 +248,7 @@ He read it back once. It was not flattering. He found he did not mind.
 
 Lira knocked and came in without waiting, as she did. She had a cloth folded in her hand, wet from the pump and cold enough that he could feel it across the room. She held it out. When he took it, she leaned over his shoulder and read the page in the binder without asking, all the way down to the last line, and straightened up.
 
-She did not say anything about the sixth exchange or the fourth burst. She did not say *well fought*. She put her hand on top of his head for a moment, briefly and rather hard, as if she were testing whether it was attached.
+She did not say anything about the sixth exchange or the fourth burst. She did not say *well fought*. She put her hand on top of his head, briefly and rather hard, as if she were testing whether it was attached.
 
 "Three days," she said. "I'll hold you to it. No floor, no yard, no bursts. If I catch you on the stair taking it two at a time, I'll make it four."
 

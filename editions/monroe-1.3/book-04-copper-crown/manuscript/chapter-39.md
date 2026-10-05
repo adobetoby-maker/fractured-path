@@ -40,7 +40,7 @@ Her chain of proof ran through thirty-odd volumes, from the founding schedule th
 
 The second decision was harder, and he would not have thought of it himself. It protected against the next thing a hostile reader would say: that Karis had found what she wanted to find.
 
-At Greyvane, Karis had spent eleven weeks proving a negative: that the clause had never been repealed, by searching every place a repeal could have been recorded and finding nothing in any of them. She could have done the search again with her eyes shut, which was exactly why she was not allowed to. Bracken took a clerk from his own office who had been away on leave for most of the term and had never seen a page of her notes. He gave him the list of places a repeal would have to be recorded, and put him in a separate room on the floor above with the door shut. He worked alone up there for four days. On the evening of the fourth he came downstairs with his findings tied in string, and Bracken laid them on the long table beside Karis's, and the two searches by two people who had never compared a word reached the same nothing in the same places.
+At Greyvane, Karis had spent eleven weeks proving a negative: that the clause had never been repealed, by searching every place a repeal could have been recorded and finding nothing in any of them. She could have done the search again with her eyes shut, which was why she was not allowed to. Bracken took a clerk from his own office who had been away on leave for most of the term and had never seen a page of her notes. He gave him the list of places a repeal would have to be recorded, and put him in a separate room on the floor above with the door shut. He worked alone up there for four days. On the evening of the fourth he came downstairs with his findings tied in string, and Bracken laid them on the long table beside Karis's, and the two searches by two people who had never compared a word reached the same nothing in the same places.
 
 Cael was at the counter when the clerk came down. He was a thin young man with spectacles and a bad cold, and he carried his bundle in front of him with both hands, like a dish he expected to be blamed for. Karis was at the long table, forbidden to speak to him about anything but the weather, and she kept to it with a kind of ferocious exactness.
 
@@ -58,7 +58,7 @@ It was a numbered list of every sheet in the file. Beside each number stood one 
 
 On the fifth afternoon Karis tested it. She did not ask anyone's leave. She simply took the clerk with the cold, who had never seen the file's contents and had only searched for the absence of one thing, and sat him down at the long table in front of the first box with the index on top. Then she turned over the little sand-glass she used for timing her own reading. "The question," she said, "is whether this enrollment rests on a clause that has been repealed. Find me the sheet that answers it." The clerk ran his finger down the index, stopped, turned to the number, lifted out a sealed copy of a schedule with a white slip pinned to its margin, and laid it in front of her. Karis looked at the glass. A little under half of it had run. She turned it back over and wrote the figure in her notebook, and did not say anything at all, and Cael, from the doorway with his hands in his pockets, thought it was the most satisfied silence he had ever heard.
 
-He wrote it that night, with Hesk's pen, under a heading of its own.
+That night it went into the Log, with Hesk's pen, under a heading of its own.
 
 *How the registrar fights: he takes everybody who built the file out of it, me included, and builds for whoever walks in tired.*
 
@@ -102,7 +102,7 @@ The lamp-man came at the ninth bell, and stood in the doorway with his pole, loo
 
 What he had found in the library, by then, was nine names out of eleven.
 
-It was quicker work than he had feared. The Compact printed its findings, every chartered house was bound to keep a set, and every finding named its panel at the foot. Halcenvane kept them in a long bay on the library's second floor, bound by the year in brown cloth, with an index at the back of every volume that nobody had touched since it was printed. He went through eleven years of indexes in two afternoons, writing names on a slip as he went, and then went back to each name and read whatever it led to.
+It was quicker work than he had feared. The Compact printed its findings, every chartered house was bound to keep a set, and every finding named its panel at the foot. Halcenvane kept them in a long bay on the library's second floor, bound by the year in brown cloth, with an index at the back of every volume that nobody had touched since it was printed. He went through a dozen years of indexes in two afternoons, writing names on a slip as he went, and then went back to each name and read whatever it led to.
 
 Delegation counsel had a long run of findings on enrollment basis behind her, and a habit, plain once he had read six of them in a row, of attacking where a document came from before she ever asked what it said. He wrote that on her page and underlined it, and thought of Bracken's librarians and their brass seals, and felt better than he had all week.
 
@@ -112,7 +112,7 @@ Then the records officer.
 
 *Havel.*
 
-For a long moment he did nothing at all but look at it.
+He did nothing at all but look at it.
 
 He had met Havel twice. The first time was at Ardenmere, in the Unranked District, on a cold bright morning at the pump step, when a young assessor in a well-fitted grey coat and boots too new to have creased had come across the square with a credentials case held close against his side. He had read his questions off a form in a careful level voice. At the end he had asked one more question that was on no form, about why Cael had stayed at one address, and he had written the answer down at a slant across the page, in a hand that had suddenly stopped filling in a form. When Cael offered him a pear, something had crossed the young man's face that looked like wanting one, and he had not taken it.
 
@@ -148,7 +148,7 @@ At Greyvane the text had gone in his favour, and she had followed it there in fr
 
 That left one name.
 
-He went looking for it on the third afternoon with the slip in his hand and the whole of the long bay to himself. He went through the indexes for eleven years, carefully, the way he would have counted a crowd, and then he went through them again. Then he went down to the main floor and asked the duty librarian for the general catalogue, which covered the whole library and not just the findings, and went through that.
+He went looking for it on the third afternoon with the slip in his hand and the whole of the long bay to himself. He went through all twelve years of indexes, carefully, the way he would have counted a crowd, and then he went through them again. Then he went down to the main floor and asked the duty librarian for the general catalogue, which covered the whole library and not just the findings, and went through that.
 
 There was nothing.
 
@@ -158,7 +158,7 @@ In the end he went and found Karis, because Karis read faster than he did and wa
 
 She came up to the long bay with ink still faint on her knuckles and went through every index he had been through, and the general catalogue after them. Then, without being asked, she went through the visitors' books for the last forty years, which were kept in a press in the corner and smelled of mice. It took her most of the evening, and she came back to his table with three slips.
 
-"Three," she said. "In the whole library. A list of the officers present at a dedication, eleven years ago, down the coast. A list of seats at a dinner given for a retiring magistrate. And a list of those who stood witness at a swearing-in." She laid them in a row. "Every one of them is his name in a list. Not one of them is a word he said."
+"Three," she said. "In the whole library. A list of the officers present at a dedication, eight years ago, down the coast. A list of seats at a dinner given for a retiring magistrate. And a list of those who stood witness at a swearing-in." She laid them in a row. "Every one of them is his name in a list. Not one of them is a word he said."
 
 "So he doesn't write."
 
@@ -166,7 +166,7 @@ She came up to the long bay with ink still faint on her knuckles and went throug
 
 "Then I can't build a page."
 
-"No," said Karis, after a moment. "You can't build a page."
+"No," said Karis. "You can't build a page."
 
 He took a fresh sheet out of the observation notebook and wrote the name at the top of it, and sat looking at it for a long time with the library going dark round them. Karis did not hurry him, and somewhere below the duty librarian was walking the floors with her keys, closing the presses one by one.
 

@@ -16,7 +16,7 @@ The clerk with ink on his thumbs looked up from the practice register and saw hi
 
 "I can't."
 
-"Everybody can." The clerk reached for the sheet. "Path, tier, rank, and I'll find you a—" He stopped, because he had looked properly at the face in front of him, and Cael watched him place it. The clerk's eyes went to the book, and back, and to the book again, as if a column might have grown there while he was not looking. "Oh," he said. "The provision."
+"Everybody can." The clerk reached for the sheet. "Path, tier, rank, and I'll find you a—" He stopped, because he had looked properly at the face in front of him, and Cael watched him place it. The clerk's eyes went to the book, and back, and to the book again. "Oh," he said. "The provision."
 
 "The provision."
 
@@ -74,7 +74,7 @@ The first burst carried him left and back.
 
 He went to the slate while she counted.
 
-He was braced for the usual landing. A thousand times on stone he had paid it: the half-breath locked shut as each burst ended, and the jolt driving up from his heels into the leading hip, and he had braced for that without thinking, the way a man braces for a step he knows is there. The landing beat was the same length. Three years of trying had never trimmed it by a hair. But it did not come home the same way. It came down through his heels into the oak, and the oak took it, gave under it by what felt like the width of a finger, and gave it back, so what reached his hip was not a blow but a kind of push, spread out and softened, like a wave arriving on a long flat beach instead of a wall.
+He was braced for the usual landing. A thousand times on stone he had paid it: the half-breath locked shut as each burst ended, and the jolt driving up from his heels into the leading hip, and he had braced for that without thinking. The landing beat was the same length. Three years of trying had never trimmed it by a hair. But it did not come home the same way. It came down through his heels into the oak, and the oak took it, gave under it by what felt like the width of a finger, and gave it back, so what reached his hip was not a blow but a kind of push, spread out and softened, like a wave arriving on a long flat beach instead of a wall.
 
 *Burst one, east hall timber,* he wrote, while she counted. *Landing beat: same length. Consequence: softer. Hip: a push, not a hit.*
 
@@ -124,7 +124,7 @@ He was not simply pleased. He sat at the desk by the window with the binder open
 
 *And if the Wind was partly the floor, I can't vouch for a single other page in here.*
 
-He turned back through the binder. Every price in it had been measured somewhere: the read on the Ironyard's planks, Compression on a stone floor in a cold hall, Ember on a training floor with Karis counting. Every one of them had been written down as though it were a fact about him, and every one had been taken in one place, under one set of conditions, and never taken again anywhere else, because he had never had anywhere else to take it.
+He turned back through the binder. Every price in it had been measured somewhere: the read on the Ironyard's planks, Compression on a stone floor in a cold hall, Ember on a training floor with Karis counting. Every one of them had been written down as a fact about him, and every one had been taken in one place, under one set of conditions, and never taken again anywhere else, because he had never had anywhere else to take it.
 
 *Every limit in this binder may be partly made of the room I measured it in. I don't know how much, or which. I'm going back through all of it, line by line, asking.*
 
@@ -136,7 +136,7 @@ He did not know where it would go when it came back. Into him, or out of him, or
 
 He put a ring round that and moved on to the next page, and then the next, and found every one of them asking him the same quiet question in a slightly different voice.
 
-He started that night. Brom found him at the desk after the last bell with the lamp trimmed low and four of the oldest pages laid out side by side, and stood in the doorway reading upside down for a while.
+He started that night. Brom found him at the desk after the last bell with the lamp trimmed low and four of the oldest pages laid out side by side, and stood in the doorway reading upside down.
 
 "How long's that going to take?"
 
@@ -152,17 +152,17 @@ The rest he learned from the supervisors, one lesson to a name, in whatever orde
 
 No instructor came back to him inside two weeks of the last time. By the third week he could see the reason: a supervisor who saw him often would start to hold an opinion, and opinions were the thing the office least wanted its faculty to have. He was passed from hand to hand like a paper going round for initials. Eleven of them signed for him in his first month on the floors, and none signed more than twice.
 
-All eleven watched him alike. For the opening stretch of a session he got the easy, half-spent attention a teacher gives somebody else's pupil, one eye on the boards and the other on a book or a letter. Then, in the later stretch, every one of the eleven changed.
+They all watched him alike. For the opening stretch of a session he got the easy, half-spent attention a teacher gives somebody else's pupil, one eye on the boards and the other on a book or a letter. Then, in the later stretch, every one of them changed.
 
-From the second week, he timed it. Somewhere between the tenth minute and the nineteenth it happened, and he could tie it to one thing only: the first time the Wind framework moved him faster than a walk. Their attention went over into a different state then, the way water goes over when it boils, and it stayed there. Books went down, and nobody glanced at the door again. They watched his feet, and the boards where his feet were going, until the bell.
+From the second week, he timed it. Somewhere between the tenth minute and the nineteenth it happened, and he could tie it to one thing only: the first time the Wind framework moved him faster than a walk. Their attention went over into a different state then, all at once, and it stayed there. Books went down, and nobody glanced at the door again. They watched his feet, and the boards where his feet were going, until the bell.
 
-Each had a way of doing it, and he learned them apart by their ways. The Current lecturer, round and cheerful, hummed through the first eleven minutes and never hummed again after. A Shield man from the north hall wrote letters on his knee until the thirteenth, then folded the page and sat on it, as if he feared it might watch in his place. An old Stone master arrived with his eyes half closed and every sign of meaning to sleep; at the nineteenth minute both eyes came wide, and he leaned forward on his stick and stayed leaning, still as a post, to the end. Cael kept a line for each: the Path, the minute, the burst just before.
+Each had a way of doing it, and he learned them apart by their ways. The Current lecturer, round and cheerful, hummed through the first ten minutes and never hummed again after. A Shield man from the north hall wrote letters on his knee until the thirteenth, then folded the page and sat on it, as if he feared it might watch in his place. An old Stone master arrived with his eyes half closed and every sign of meaning to sleep; at the nineteenth minute both eyes came wide, and he leaned forward on his stick and stayed leaning, still as a post, to the end. Cael kept a line for each: the Path, the minute, the burst just before.
 
 *Eleven supervisors, eleven crossovers, no exceptions. Ten minutes at the earliest, nineteen at the latest. Fourteen on average.*
 
-*A month, and not one of the eleven has put a question to me.*
+*A month, and not one of them has put a question to me.*
 
-*At Greyvane people asked. All day, every day, badly, in corridors and at meals and through doors. Here eleven people have each seen something worth a question, and each has kept it to themselves, separately, and they've all kept it in the same way.*
+*At Greyvane people asked. All day, every day, badly, in corridors and at meals and through doors. Here every one of them has seen something worth a question, and each has kept it to themselves, separately, and they've all kept it in the same way.*
 
 *Eleven polite people would not look so alike. This is organized. Either it's a faculty discipline I've never met, or somebody gave an order.*
 
@@ -212,7 +212,7 @@ Cael read the third term again. He thought about a delegation's boxes coming bac
 
 "Go on."
 
-"The law range isn't a section of a library. It's a seam." She spread her hands flat on the table. "Greyvane's old books were luck. It was a road-house once, and whoever kept it left a shelf behind. This place went out and bought its law, deliberately, every decade since it was chartered, meaning to have the lot. The compilations from before the standardization. The directive itself, with its drafting papers. Forty years of consolidations. Every commentary anybody ever wrote about any of it." She took a breath. "I've spent six months on four lines of one clause. Those two floors hold eleven bays. Four hold the very decades my clause comes from."
+"The law range isn't a section of a library. It's a seam." She spread her hands flat on the table. "Greyvane's old books were luck. It was a road-house once, and whoever kept it left a shelf behind. This place went out and bought its law, deliberately, every decade since it was chartered, meaning to have the lot. The compilations from before the standardization. The directive itself, with its drafting papers. Forty years of consolidations. Every commentary anybody ever wrote about any of it." She took a breath. "I've spent six months on four lines of one clause. Those two floors hold bay after bay. Four of them hold the very decades my clause comes from."
 
 "How long to read them?"
 
