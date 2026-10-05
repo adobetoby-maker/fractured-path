@@ -5369,3 +5369,267 @@ editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-26.md:109:"You've be
 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-23.md:63:"That's not a demonstration you're stealing. That's a weapon you're learning."
        0 editions/monroe-1.3/book-04-copper-crown/state/movement-004/source-overlap.tsv
 
+exec
+/bin/zsh -lc "rg -n '"'^---$|''^# '"' editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md && nl -ba editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md | sed -n '1,130p' && nl -ba editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md | sed -n '1,110p'" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md:1:# Chapter 28 — Exception
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md:25:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md:53:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md:75:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md:129:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md:205:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md:1:# Chapter 25 — Six and Nothing
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md:63:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md:113:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md:157:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md:197:---
+editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md:259:---
+     1	# Chapter 25 — Six and Nothing
+     2	
+     3	The tenth session fell four days after the ninth, and Lira climbed the ladder again.
+     4	
+     5	It was not a bout anybody would remember. The name four places above her belonged to a Stone fifth-year who had stood near the top of the Copper sheet for two seasons by being very hard to move. He was not hard to move for long. Lira took him in three exchanges and three bursts, each touch arriving from a side his weight had just left, and the yard, which a fortnight ago had gone silent at eleven seconds, clapped politely and went back to its bread and its arguments. That was a measurement too, and Cael wrote it down: a thing that had been impossible on the second session had become, by the tenth, merely expected.
+     6	
+     7	He did not count the man at the edge of the lamp. He did not look for him in the brass. It was the fourth day without, and every hour of the four had cost something, a small steady tug at the corner of his eye like a loose thread he kept wanting to pull. He let it be.
+     8	
+     9	That evening Brom fed him at the post.
+    10	
+    11	The post stood in the angle of the wall behind the second quadrangle, an old oak upright as thick as a man's thigh, polished pale at chest height by two seasons of Brom's forearms. Karis sat on the coping with her notebook on her knee and a lamp beside her, because it was her number as much as his, and because she had said, flatly, that a result with only the subject watching it was a rumour.
+    12	
+    13	"Twelve," said Brom. "Mixed. I'll not tell you which."
+    14	
+    15	"Don't."
+    16	
+    17	Brom fed. The first came in true from the left, heavy, and the press arrived along Cael's forearm a pace and a half before it, unhurried and in good time, the old familiar margin. He called it. The second was empty, sold hard with the shoulder, and the read told him at once that nothing behind the shoulder was coming, and he did not move. The third, the fourth. He stopped thinking about the count and simply called, *left*, *nothing*, *low*, *round*, and somewhere past the eighth he realized he was enjoying it, the way he had enjoyed it at Greyvane when he was fourteen and the read was new and every feed was a small clean puzzle with its answer arriving exactly when it should.
+    18	
+    19	"Twelve," said Brom, and stepped back.
+    20	
+    21	"Twelve on time," said Karis from the coping. She had marked each one. "Not one late. Not one early."
+    22	
+    23	Cael stood by the post with his hands at his sides and found that they were not quite steady, as they had not been the first time.
+    24	
+    25	"Three," he said.
+    26	
+    27	"Three what?" said Brom.
+    28	
+    29	"Three times I've stopped counting him for four days. Three times it's come back, on the fourth evening, whole." He took the Log out of his coat and wrote it on his knee, standing. *Iron-adjacent read. Four days off the counting. On time, Brom feeding, twelve of twelve. Third instance.*
+    30	
+    31	Karis leaned over to read it upside down, as she always did.
+    32	
+    33	"One's an accident," she said. "Two's a coincidence."
+    34	
+    35	"Three's a structure." He looked at the line. "It goes in *probable* tonight. It goes in *confirmed* the first time it holds under something that isn't a post. A post is a friend. I want it to hold against something that doesn't care about me."
+    36	
+    37	Brom wiped his forearms on his shirt and frowned at the post as if it had said something.
+    38	
+    39	"Explain it to me like I'm a carter," he said. "Not like I'm Karis."
+    40	
+    41	"I'm sitting right here," said Karis.
+    42	
+    43	"I know. That's why I said it."
+    44	
+    45	Cael thought about how to put it. "You know how your Iron Skin runs out. You harden and harden and there's a point where there's less to harden with, and you have to rest before it comes back."
+    46	
+    47	"I know it better than I know my own name."
+    48	
+    49	"The read's like that. It's your fragment, Brom, living in me, only I never knew it. I thought it was free. It isn't. It drinks from the same well I watch people with. When I spend all day counting where somebody stands, the read gets what's left in the bottom of the bucket, and what's left comes up slow." He tapped his forearm, where the press always arrived. "Stop counting, and in four days the bucket's full again. Three times now, four days each time. I've only got the one well, Brom. I've been pouring it on stairs."
+    50	
+    51	Brom considered this with great seriousness.
+    52	
+    53	"So you were late on me last week because you were looking at a man on a gallery," he said.
+    54	
+    55	"Yes."
+    56	
+    57	"That's the most insulting thing anybody's ever told me," said Brom happily. "I'm going to tell Merrick."
+    58	
+    59	"That's a very high standard," said Brom, when he had finished laughing at himself, "for a thing that's been right three times."
+    60	
+    61	"It's the standard I'd hold anybody else's read to." He closed the Log. "And the next time I need it, I don't think it'll be at a post."
+    62	
+    63	---
+    64	
+    65	Lira went down at the fifth bell because her hip woke her at the fourth.
+    66	
+    67	It had been doing that since the Mire boy. Not pain, exactly: a heat, a line drawn from the crest of the bone down the inside of the thigh, faint and bright, as if somebody had laid a warm wire under the skin and forgotten to take it out. It woke her before the bell and would not let her lie on that side again. So she got up and dressed in the dark, quietly, because the residence walls were thin and Cael, two doors along, slept like a man waiting to be called. Then she went down through the sleeping residence and out into the grey.
+    68	
+    69	The first morning, three weeks ago, she had only meant to walk the hip loose along the covered walk. She had found the standings clerk already at the board under the north stair with his chalk and his ladder, chalking yesterday's results in a silence so complete it seemed to be part of his work. Nobody else was there, and nobody else, it turned out, ever was. Forty people would stand in front of that board by the seventh bell. At the fifth there was the clerk and the chalk and the cold, and now there was Lira.
+    70	
+    71	She had told nobody. It was not a secret; it was simply hers.
+    72	
+    73	The clerk was finishing the Copper column when she came round the corner of the stair. He nodded to her, as he nodded every morning now, the nod of one early riser to another, and went on chalking. She took her usual place, an arm and a half back from the board, and let her hands hang.
+    74	
+    75	Fiske's name stood on the first line, as it had for two seasons, and beside it the small brass stud the porter polished.
+    76	
+    77	Her own name stood on the second.
+    78	
+    79	*Lira — Wind — Copper 2 — 6/0.*
+    80	
+    81	She read it once, slowly. Six bouts and six wins, one of them the drawn bout that had moved her nowhere, five of them four places up at a time, every one of them to the highest line the rule allowed. Twenty-second to second in ten sessions. She had worked out at the start of the season, on the back of the seeding half-sheet, exactly how few afternoons it could be done in. She had done it in exactly that few. Not one wasted.
+    82	
+    83	The clerk reached up and chalked the last column, the tier column, which he always chalked last because it never changed, and stepped back to look at his work, and nodded to himself, and folded his ladder.
+    84	
+    85	*Copper.*
+    86	
+    87	She watched him chalk it, as she always did.
+    88	
+    89	There had been a hall at Fenmark with a long table and a woman behind it who had spent about a minute and a half on her, and at the end of the minute and a half had written a word and a number: Copper, Rank One. That was three years ago. Since then Lira had fought on a foundry floor and on the Ironyard's planks and in a formal yard at Greyvane, and in front of eight hundred people here, and she had beaten fighters whose paper said Iron. She had a flag on her own file, put there by somebody who had once looked at her properly, and the flag had gone into a queue, and the queue was where it still was. And every morning at the fifth bell the clerk chalked the same word beside her name as he had chalked the morning she arrived.
+    90	
+    91	The morning after the final, the same hand would chalk the same six letters. No bout on any floor could reach it. Only an advancement evaluation could, and nobody had ever sent for one. It was not a thing bouts were for. She had known that on the road down to Ostrand, and she had come anyway, and climbed anyway, and here she was, at the top of a column that could not move the one word she wanted moved.
+    92	
+    93	She noticed, after a while, that she was standing with her weight square on both feet.
+    94	
+    95	She never stood like that. Most days she lived on the ball of one foot, poised to be somewhere else. She noticed her breath too: slow, even, a little too even, the breath of somebody holding a thing level in both hands so it would not spill. She knew exactly what she looked like. She had seen Cael read it off strangers in the Ironyard and write it in his book. *Managed breath. Expensive. Costing her something.*
+    96	
+    97	Behind her, on the north stair, somebody stopped.
+    98	
+    99	She did not turn round. She did not need to. The third step from the top of that stair had a board that complained under any weight, and every person on the bluff trod on it and made it complain, except one. He stepped over it. He had stepped over it since his first week, without thinking, the way he stepped over everything he had once noticed, and so she had heard the second step and the fourth step and no third. Then nothing at all.
+   100	
+   101	He was standing at the top of the north stair, looking at her looking at the board.
+   102	
+   103	She kept her eyes on the chalk and her breath where it was, and she could feel him reading her. She could feel him knowing, from forty feet, everything she had not said, everything she did not want said at the fifth bell in a cold covered walk with a stranger's chalk-dust in the air. If he came down the stair now she would have to turn round and have a face. She did not have one ready, and she did not want to build one.
+   104	
+   105	The stair was quiet for a long time. Then, very softly, she heard him go back down it. The fourth step, the second, nothing on the third, and then the flags of the lower walk, going away round the long side of the lecture quadrangle, where nobody went at that hour because it was the long way to anywhere.
+   106	
+   107	Lira let her breath go.
+   108	
+   109	She stood a little longer in front of her name. Then she shifted her weight onto the ball of her right foot, where it belonged, and went in to breakfast by the short way, so that she would be there first.
+   110	
+   111	She was grateful. She knew she would not say so. She knew he would not ask, and that he would write it down tonight, probably, and be unsure whether he had done right, and that the not-being-sure would bother him for days. She thought that she might, one day, tell him. Not soon.
+   112	
+   113	---
+   114	
+   115	He came into the refectory four minutes after her, by the far door, with his hair damp, as if he had walked a long way round in the mist.
+   116	
+   117	"Boards up?" said Lira.
+   118	
+   119	"Six and nothing."
+   120	
+   121	"Huh," said Lira, and ate.
+   122	
+   123	Brom looked from one of them to the other across the table, and opened his mouth, and then, with the air of a man stepping carefully over a third stair, shut it again and passed Cael the bread.
+   124	
+   125	The challenge was posted on the residence board by noon. Cael read it with his coat still on.
+   126	
+   127	A name four places down had sent its challenge up to her for the eleventh session, and the name was one he knew well, because he had been writing it down for most of the season. A Shield Path fifth-year, Copper Rank Six on his card. Bracken's files gave him forty-one wins across five seasons on the Copper sheet. Nobody on the bluff could remember him losing a bout that mattered, and nobody could remember him winning one beautifully either.
+   128	
+   129	Cael had seen him fight six times. He went back to his room and took out the page and read it again, slowly, the way he would have read it the night before a bout of his own.
+   130	
+     1	# Chapter 28 — Exception
+     2	
+     3	Of his four hands, the fourth was the one Seln used least and trusted most. The card on his door said Shadow, Bronze-tier, and the card was true; the hands were the part of him no card recorded.
+     4	
+     5	The round clerk's script belonged to the copying table, and everybody in the wing had seen it. The quick cramped one was for his own notes, and nobody had. The third, a merchant's sloping hand with a flourish on its capitals, was for wrappers addressed to a cloth house up the coast that had never sold a yard of cloth. The fourth was upright and plain and a little old-fashioned, the hand of a man who had been taught to write by somebody strict, and it was for the product alone. He took it out that night a little after the ninth bell, in his room on the staff corridor, with the shutter fastened and the lamp turned down to a bead.
+     6	
+     7	On the table in front of him lay what the afternoon had left. The warden's draft, which he had copied himself at the wing's long table not two hours since, in the round hand, every word of it, because the wing copied everything. The duty clerk's entry, four lines long: *Hall three, N. bay, 6th bell. Apparatus failure, resistance post. No evaluable content. Warden attending.* And the thing that was not on the table, because it was in him: eleven paces of open boards, and what had happened at the far end of them.
+     8	
+     9	A clean sheet. The heading, *Exception report: floor incident*, because any afternoon outside the routine went up under that heading, whatever it was found to contain. The date. His brief's number. Then, before he wrote a word of the body, he did what he always did before a report that mattered, and called up the auditor.
+    10	
+    11	The auditor was himself, at twenty-two. Two years of his life he had spent at a long table in a records house up the coast, with a red pencil and a stack of other officers' product, reading for the places where it lied. He had been very good at it. He had been, he thought now, rather a cold young man, and quite right about most things, and he kept that young man in the back of his head the way some people keep a dead teacher, to be consulted. So he sat the young man down at the table, in his mind, and gave him the boy's baseline to hold in his left hand, and waited for the report to be put into his right.
+    12	
+    13	He knew what the report had to carry. He had known it since the forearm came up.
+    14	
+    15	He had stood with the dial sheets against his chest and watched a post lock at the seventh setting and send the third-year's whole delivery back off the pad. He had watched a boy who had been six feet away arrive between the third-year and the pad in less time than the delivery took to come back. Seln's whole craft was being where nobody looked for him. In fifteen years he had never seen anybody get anywhere that fast, at that size, in that direction, toward the danger and not away. And then the boy's arm had taken the return the way a stone quay takes a barge coming in too fast: it had not given, and it had not broken, and the force had gone on down through the boy into the boards. Two things, at the least, and the file's classification had a name for neither.
+    16	
+    17	His brief had categories, as every brief did. The second of them was the one the whole posting existed to fill, if it ever needed filling: *observed capability materially in excess of the subject's documented baseline.* Seln had filed under it eleven times in fifteen years. Eleven times he had been right. Eleven people had gone, afterward, into files further up the coast that he had never been shown and had never asked to see.
+    18	
+    19	He dipped his pen and wrote.
+    20	
+    21	*Hall three (east), north bay, sixth bell, Third-day. Apparatus failure during a supervised floor hour: the retaining pin of a resistance post sheared under load at the seventh setting, locking the core during a Force Path third-year's fourth declaration of his third set and returning the delivery off the pad. Subject was at the bay's edge on an adjoining footwork drill, signed for by the Ash Path instructor, and intervened. The third-year was not struck. No injury requiring the infirmary. The academy's floor warden attended within the quarter-hour, withdrew all four posts on the bluff from use, and has recommended inspection and replacement of every retaining pin in the academy's apparatus; her draft and the wing's log are enclosed. Response consistent with documented baseline.*
+    22	
+    23	He blotted it, and handed it across the table to the young man with the red pencil.
+    24	
+    25	---
+    26	
+    27	The young man read it the way he had read everything, with the baseline in his left hand, looking first for a quarrel.
+    28	
+    29	That was always the first thing: whether two papers about the same man disagreed, and Seln watched him look. Gault's office had filed the baseline in the boy's first weeks, and it had been copied into the product soon after. It gave a practitioner of non-standard architecture who executed consistently. It gave a displacement framework, measured to a working ceiling on sprung timber. And it gave a plate trial at the frame's heaviest weight, in which the enrollee had taken the blow on a braced arm and kept his feet. So the young man found, on record, a boy who could move suddenly and could take a blow on his arm. In the report he found a boy who had moved suddenly and taken a blow on his arm, and a closing sentence saying the two agreed. Nothing quarrelled, and the red pencil did not move.
+    30	
+    31	Next he weighed it. He had a habit, Seln remembered, of lifting a report in his palm before he read it closely, as though he could feel its heft through the paper. He had learned in his first month that frightened officers wrote thin. A man with something to hide wanted to give the machine as little as he could, and so on the days that most needed a full account he sent up three lines and a signature. Seln had caught two men that way himself, at that long table, by nothing more than the thinness of what they sent on a busy day. So this report was not thin. Apparatus, cause, setting, the drill, the instructor's signature, the outcome, the warden, the posts, the pins, the enclosures. The young man hefted it in his imagined hand and set it down satisfied. It weighed what a day like that ought to weigh.
+    32	
+    33	Last, and slowest, he read for warmth.
+    34	
+    35	That was the hardest test, and the one Seln had been proudest of passing other men's product through, long ago. A man's attention could not be hidden, because it was not a thing he chose; it pooled of its own accord wherever he was interested, and the sentences there grew longer and fuller and a little warm, like a hearthstone. Find where a report grew warm and you knew where its writer's mind had been. Find a cold place where warmth should have been, and you had found the hole.
+    36	
+    37	This report was warm about the pin.
+    38	
+    39	It lingered on the shear and the setting, the core and the collar, the warden coming within the quarter-hour, every post on the bluff withdrawn, every pin in the academy to be inspected and replaced. It was warm about the institution, and the young man would have nodded at that. Naturally the writer cared about the institution. It was what a man in an assessment wing was best placed to see. And an academy finding a flaw in nine years of its own apparatus was exactly the weather the analysts liked best.
+    40	
+    41	And it was true. That was the whole of the art, and the young man with the red pencil had never understood it, because he had only ever been on the reading side of the table. A gap in a report did not survive because it was well hidden. It survived because every word around it was real. Seln was interested in the pin. On the walk back from the hall it had filled his head. A tired pin in a nine-year collar, found in a term when an inspection might come at any time, with the posts chained and the warden's draft already on its way to faculty, was the best weather he had recorded since the posting began.
+    42	
+    43	The young man finished, and put the report down, and found nothing. He had been very good, and he found nothing, because there was nothing on the page to find.
+    44	
+    45	Seln sat looking at it after the young man had gone.
+    46	
+    47	The boy's crossing was not in it. The boy's arm was not in it, except as *intervened*. No sentence formed about it. He saw it the way a man coming into his own room in the dark knows, without lighting a lamp, that one chair has been moved a hand's breadth from where it stood. The room was a different shape, and he stood in the shape for a while and looked at it.
+    48	
+    49	He found it would bear weight.
+    50	
+    51	He folded the sheet, and sealed it, and wrote the wrapper in the merchant's sloping hand.
+    52	
+    53	---
+    54	
+    55	He walked it down, as he always did. The academy's own bag went to Ostrand twice a day for nothing, and that was precisely why nothing of his ever went in it.
+    56	
+    57	Out by the wing's side door, with his own key. The dark length of the north quadrangle. A nod to the night porter at the lodge, returned without the porter's eyes leaving his newspaper. Then the four long bends of the bluff road, down toward the lamps of the river.
+    58	
+    59	At the foot of the last bend, by the toll board, two grey coats stamped under their lamp. He let the Path run on that stretch from long habit and felt their attention lift toward him and touch him and slide off like water off oilcloth. Neither of them would ever know that the one paper in a month worth carrying had gone by them in a satchel at arm's length.
+    60	
+    61	Halfway along the river street it began to rain. It was a fine cold rain that did not so much fall as gather on him, on his shoulders and the brim of his hat and the backs of his hands. It was still gathering when he paid the courier's clerk by the fish steps from his own purse and watched the packet go into the canvas sack. It was still gathering an hour and ten minutes after he had left, on the last bend going up. He had made that walk five times this term and never once minded it, and he did not mind it now.
+    62	
+    63	It was past the eleventh bell when the duty key turned in the wing's side door. There was a week's ledger of floor hours waiting, to be added up and set against the instructors' sheets before morning.
+    64	
+    65	He added it up, four long columns, and got it right.
+    66	
+    67	He got such sums right four times in five, and took care never to be right oftener, because a man who never slipped at figures was a man people eventually began to watch. Last week, in front of the desk clerk, he had carried a ten into the wrong column and been put right very kindly, and had thanked her, and coloured a little. Tonight there was nobody in front of whom to be wrong, so he was not wrong.
+    68	
+    69	Then he pulled out the cabinet drawer where the term's carbons were kept. It held a carbon of everything that had gone down the coast since the term began: calendar extracts, floor issues, the list of the boy's associates, the first product with its line about a private notation habit, and each month after it. The drawer ran out on its runners without a whisper, because he had waxed them his first week.
+    70	
+    71	The whole wing was silent. Far below the bluff, the river was going about its business.
+    72	
+    73	He filed the report. Then he sat for a while with the file drawer open, not filing anything else.
+    74	
+    75	---
+    76	
+    77	Cael told Lira and Brom that night in Brom's room with the door shut. He sat on the end of the bed; Brom sat on the floor against the wall with his knees up; Lira stood at the window.
+    78	
+    79	He told them all of it, plainly, in order: the grind that did not come, the read on time and the wrong shape, the Wind sent forward, Reydan's fragment on contact, the floor giving a third of it back, the landing beat in front of the jammed post. Then Jask, and the true short answer. Then the drawing, and the nine dots, and the ninth.
+    80	
+    81	Nobody said anything for a while when he had finished.
+    82	
+    83	"Your arm," said Lira at last, with her back still to the room.
+    84	
+    85	"It hums."
+    86	
+    87	"Hums."
+    88	
+    89	"Like a bell after somebody's stopped ringing it. It hasn't stopped." He moved the fingers of his left hand to show her they moved. "It's not the ordinary ache. I don't know what it is yet. I've written it down."
+    90	
+    91	Lira turned round then and looked at the arm, and then at him, for a long time, and he watched her decide not to say any of the first four things she wanted to say.
+    92	
+    93	"Jask's walking about," she said instead.
+    94	
+    95	"Jask's walking about."
+    96	
+    97	"Good." She sat down on the window ledge with her bad leg out. "Then it was right. Whatever comes next."
+    98	
+    99	Brom had his chin on his knees. "What comes next?"
+   100	
+   101	"Something goes up the coast. It has to." Cael told them the rest of the page: another officer, perhaps; more coats at the road; a letter to Withrow. "It isn't him being wicked. It's what he was sent for. Lira, I don't think it's your terms. He hasn't touched my paper wrong. He'll write it down right."
+   102	
+   103	"I know what my terms were," said Lira. "I said *wrong*. I'm not a child." Her eyes went past the glass to the dark where the ferry landing lay. "That's what makes it worse. Every time this man has a chance to be easy to hate, he does his work properly instead."
+   104	
+   105	"So we wait," said Brom.
+   106	
+   107	"We get ready," said Cael. "And then we wait."
+   108	
+   109	Karis, when he found her in carrel eleven the next morning, did not wait for him to finish, and by noon she had a box: a plain pasteboard document box from the stationer's in Ostrand. Into it, in order, went every sheet the provision had ever produced about him: the enrollment record, Gault's baseline note, every drill sheet he had built and every countersignature on each, every floor issue, wrong and revised, every supervised hour since his first week on the bluff. Each was copied in her small hand where the original could not leave the wing, and each copy was dated and initialled and cross-referenced to the original's place in the wing's own files.
+   110	
+
+exec
+/bin/zsh -lc "perl -CS -ne 'if ("'$.>=65 && $.<=111) { while (/[A-Za-z0-9][A-Za-z0-9'"\\x{2019}\\x27-]*/g) {"'$n++} } END { print "$n'"\\n\" }' editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-25.md
+perl -CS -ne 'if ("'$.>=3 && $.<=73) { while (/[A-Za-z0-9][A-Za-z0-9'"\\x{2019}\\x27-]*/g) {"'$n++} } END { print "$n'"\\n\" }' editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-28.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+1134
+2094
+
+2026-10-05T12:00:49.972367Z ERROR codex_models_manager::manager: failed to refresh available models: timeout waiting for child process to exit

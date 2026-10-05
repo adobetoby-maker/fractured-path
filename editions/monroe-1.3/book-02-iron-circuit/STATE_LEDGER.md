@@ -798,7 +798,7 @@ Open threads now:
 - Verified: spoken "Shattered" follows the edition convention; no reserved disclosure in the ch29 comparison; the bout fails BY the M3 mechanics.
 - Authorship: claude-opus-5-5. Published to the PWA: Book 2 edition ch1–29, "in progress".
 
-## After Movement 5 (chapters 30–36; repair r1 applied 2026-10-05; recheck pending)
+## After Movement 5 (chapters 30–36; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Sol recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - CONSENT BOUNDARY (canon from ch32 on): what a person gives off to a room — that they are there, where, whether they move — belongs to the room; going INTO one person on purpose to learn what's in them belongs to that person and needs their leave. Brom states it at supper (ch32); Cael logs it that night and names the supper read wrong. ch33: Cael goes into the old man at the dray unasked, catches himself, says so ("I just went into him. The old man. I didn't ask."); Brom owns setting the test; Carrying entry *The old man at the dray. Did. Didn't ask. Stopped.*; the kindled/working tests are redone only with people who said yes (Lira, the dock partner, the heavyset man "If it's for the book", the girl with sacking in her hair). ch34 sweeps take only what a room gives off; the watcher's hardness felt "like a stone under a blanket" without going in; at the market Cael chooses not to go in. ch35 vigil planned under the same rule.
@@ -925,3 +925,5 @@ Open threads now:
 - The pulse's one-in-three.
 - Plus every earlier thread: Keth's empty box on the wall; the third-exchange absence (untouched); *sustained*; the unasked right step; the concurrent use; Hesk's history; the Book 1 stranger.
 
+
+**Movement 5 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — three applied: ch33 Roman numerals expanded for narration ("volumes two and three"); ch35 the reply is THREE short sentences (not four); ch35 the Monday-to-Wednesday interval is two days. All brief items resolved; overlap 0, gates 0, probe 0%/5%.

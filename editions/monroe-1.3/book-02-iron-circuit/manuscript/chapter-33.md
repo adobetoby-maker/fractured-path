@@ -132,7 +132,7 @@ He put the pencil down and went to the supervisor's shelf.
 
 The supervisor was at his desk by the window with the morning's returns, and did not look up when Havel stood beside him and asked for the back sections of the manual against a quarter's review. He only held out his hand for the review sheet, read the sixth box, and gave it back, and then pushed the loans book across the desk with one finger and went back to his returns.
 
-Havel signed the loans book. *Manual, back sections, vols. ii and iii. Quarterly review, river side. H.* The date.
+Havel signed the loans book. *Manual, back sections, volumes two and three. Quarterly review, river side. H.* The date.
 
 The back sections of the manual lived on the top shelf behind the supervisor's chair, in two thick books bound in the same grey board as the files, with their corners worn white. He had held them once, in his training year, when an instructor had passed them round the table so that each new assessor could feel the weight of everything he would never need to read. Nobody had opened them then. He carried them back to his desk now as carefully as a full tray. He was aware of the man by the door who hummed, and of the two assessors he shared the rota with, and of the fact that none of them looked round. A man carrying the manual to his desk on a review day was a man doing his job.
 

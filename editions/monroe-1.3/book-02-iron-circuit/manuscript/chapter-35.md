@@ -12,7 +12,7 @@ He thought, for a moment, of a table in the district a year and more ago, and a 
 
 But it was not the line that frightened him. It was that the question had been asked at all, by a careful junior with four years in, sent to the manual by a half-page of printed boxes the registry handed out by the hundred. Coss had kept it shut in his own head for over a year and told himself it was buried. It had never been buried. The registry's own paperwork had walked a young man straight up to it. If a review sheet could do that once, it would do it again; and some quarter, at some desk, a man with more rank than Havel, or less sense, would go to the shelf and write not *I am unable to confirm* but *who*.
 
-He knew what he would write before he picked up his pen, and he did not let himself think about it any longer than it took, because thinking about it was the thing he was most afraid of. Four short sentences, an initial, the envelope. It answered nothing, and he had meant it to answer nothing. He told himself, folding it, that he was doing it for Havel, and it was true: a junior who asked *who* about a Level 4 would be known on every floor of the building by the end of the season.
+He knew what he would write before he picked up his pen, and he did not let himself think about it any longer than it took, because thinking about it was the thing he was most afraid of. Three short sentences, an initial, the envelope. It answered nothing, and he had meant it to answer nothing. He told himself, folding it, that he was doing it for Havel, and it was true: a junior who asked *who* about a Level 4 would be known on every floor of the building by the end of the season.
 
 It was not the whole truth, and he knew that too. He sealed it and put it in the out-tray for the last round, and sat looking at the empty tray after it had gone.
 
@@ -66,7 +66,7 @@ The young man was at the duty board, reading the week's rota with his case in hi
 
 Coss stopped in the corridor.
 
-He did not know what he had meant to say. *It wasn't you.* *I'd have asked it too, at your age.* *Don't ask it again.* All of them were true, and not one of them could be said in a corridor, on that floor, by a senior officer to a junior he had answered in writing the day before, without the saying of it becoming a thing that had happened, and that somebody might remember.
+He did not know what he had meant to say. *It wasn't you.* *I'd have asked it too, at your age.* *Don't ask it again.* All of them were true, and not one of them could be said in a corridor, on that floor, by a senior officer to a junior he had answered in writing two days before, without the saying of it becoming a thing that had happened, and that somebody might remember.
 
 Havel finished reading the rota, and turned, and saw him.
 
