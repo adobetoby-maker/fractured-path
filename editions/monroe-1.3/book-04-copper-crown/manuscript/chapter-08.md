@@ -6,13 +6,13 @@ He woke on the twenty-second morning with the sentence already in his mouth, as 
 
 The notice lay on the desk where he had left it, folded on its crease, and he did not unfold it. He knew what it said. Somewhere inside the next month, on a day he did not choose, a man he had never met would watch him in a room full of instruments and write down what he saw, and every half-year after that somebody would lay the new figures beside the old and look for the difference. It was the only paper he would ever sign that could not be amended, Karis had said, and she had been right, and he had lain awake a good part of the night turning that over without getting anywhere at all.
 
-He went down to breakfast meaning to think about it properly. He did not get the chance, because Brom spoke first.
+He went down to breakfast meaning to think about it properly, and Brom spoke first.
 
 "Fourth bell," said Brom, into his porridge. "East hall. There's a gallery. Come and sit in it."
 
 The other three stopped eating.
 
-It was the first thing Brom had said about the east hall in twelve days. He had gone there every afternoon since the ninth, with his new wraps rolled under his arm, and he had come back every evening with nothing to show for it: no bruise, no ice, no story. He was not hurt and he was not sulking. He had simply closed a door on that part of his day and sat with his back against it, cheerful about everything else. Lira had asked twice and stopped. Karis had not asked at all, which for Karis was a feat of strength.
+It was the first thing Brom had said about the east hall in twelve days. He had gone there every afternoon since the ninth with his new wraps rolled under his arm, and come back every evening with no bruise, no ice and no story. He had simply closed a door on that part of his day and sat with his back against it, cheerful about everything else. Lira had asked twice and stopped. Karis had not asked at all, which for Karis was a feat of strength.
 
 "What's at the fourth bell?" said Cael.
 
@@ -164,11 +164,19 @@ Brom's turn needed a read. That was its nature and its strength: he let a strike
 
 *I think I could answer the trade. I'm not at all sure I could answer the man.*
 
-He watched it work on Brom for twelve more days, and he watched it get worse instead of better, which he had not expected.
+On the sixth day he tried to chart a single exchange from start to finish, stroke by stroke, the way he would have charted it for himself before a bout, and it took him a page and a half.
 
-On the first of those days, Brom fell for perhaps half the false feeds. On the fourth day, more than half. By the tenth, Ephram had stopped bothering to sell them very hard, because he no longer needed to, and Brom was turning on strikes that were barely a quarter committed, with his weight going out to meet a force that had already gone home. Cael sat on the gallery and watched his friend's best thing being used against him, a little more each afternoon, by a seventeen-year-old who never once looked pleased about it.
+Ephram came off the wall with his weight forward and stopped two paces out. He sold a strike at the left shoulder, hips turning, the back foot pushing honestly into the oak, and Brom's read took it; Cael saw Brom's shoulders begin to settle into the turn. Ephram was already gone from it. He had pulled the strike back into his own centre before it reached the halfway mark, and stepped a hand to the right, and sold another at the same shoulder from the new angle. Brom's read took that too, because it was honest weight again, and Brom was a man who believed honest weight. On the third sale Brom did not turn. He held, and held, and the strike did not come, and in the instant he let himself believe it would not come at all, it came: full, clean, a flat hand laid along his ribs on the side he had just stopped guarding.
 
-Rooke stood at the west end of the floor and let it happen. He did not stop it and did not correct it. Only once, on the eighth day, when Brom had turned on nothing three times in one exchange and stood afterward with his big hands open at his sides, did Rooke say anything at all, and then it was a single word, to Ephram.
+Three sales and a delivery. Perhaps four breaths. Ephram had spent a little balance three times and recovered it each time in the same step. Brom had spent the whole length of his gap three times over, and on the fourth time had nothing left in it.
+
+Brom tried, on the eighth day, simply not to read. He stood under the feeds with his weight dead and let them go by, which was the obvious answer, and Ephram watched him do it for one exchange and then stopped feeding and struck. A man who would not read could not turn, and a man who could not turn was only large. Brom took the touch, and nodded slowly, as if he had expected it, and went back to reading, because it was the only way he knew how to stand.
+
+Over the fortnight he watched it get worse instead of better, which he had not expected.
+
+In the first sessions Brom fell for perhaps half the false feeds. A few days later it was more than half. By the tenth day, Ephram had stopped bothering to sell them very hard, because he no longer needed to, and Brom was turning on strikes that were barely a quarter committed, with his weight going out to meet a force that had already gone home. Cael sat on the gallery and watched his friend's best thing being used against him, a little more each afternoon, by a boy of seventeen or eighteen who never once looked pleased about it.
+
+Rooke stood at the west end of the floor and let it happen. He did not stop it and did not correct it. Only once, on the ninth day, when Brom had turned on nothing three times in one exchange and stood afterward with his big hands open at his sides, did Rooke say anything at all, and then it was a single word, to Ephram.
 
 "Again."
 
@@ -199,6 +207,22 @@ He wound the wrap back on.
 "And you said?"
 
 "I said all right." Brom looked out at the water. "Nobody's ever offered to make me worse before. Every man I ever trained under wanted me to win on Tuesday. Wray too, a bit, though she'd never have said so." He flexed his wrist inside the cloth. "He's the first one who's ever told me the price ahead of time and asked me to pay it anyway."
+
+"I've got the sixth day charted," said Cael. "One exchange, from his first step to the touch. Three sales and a delivery. If you want it—"
+
+"No."
+
+Cael looked at him.
+
+"Not because I don't want it." Brom said it slowly, choosing each word as if it might bear weight. "Because I do. If you show me, I'll learn your answer to him, and I'll use it, and it'll work for a week. Then he'll see it, the way they all see everything, and I'll be back on the floor with my old turn and your patch over the top of it." He looked down at his wrist. "Rooke didn't say he'd patch it. He said he'd take it apart. I want to find out what's under it."
+
+"That could take the whole season."
+
+"He said so." Brom smiled faintly at the river. "He said I'd be worse for a season. I didn't think he meant it as a figure of speech." He straightened up off the coping, and stretched, and his shoulder cracked loudly in the dusk. "Keep your page, though. In a year I'd like to read it and see how stupid I looked."
+
+"You didn't look stupid."
+
+"I looked like a big man turning round on the spot for nothing." Brom was grinning now. "Forty-three times. You've got it in groups of five. Don't pretend you haven't."
 
 Cael did not answer at once.
 

@@ -100,7 +100,7 @@ Karis had pinned four printed sheets to the wall of carrel eleven at the height 
 
 "Appeals," she said. "The chancellor writes one every year to the academy's old students and friends, asking for money. These are the last four. Read the second paragraph of each, left to right."
 
-He read them. The first second paragraph talked about the school's place among its peers. The next talked about that place and added a hope. The third gave the hope a name. The fourth named it twice, once at the top of the paragraph and once again in the last line of the letter, in capitals.
+He read them. In the first appeal, its second paragraph talked about the school's place among its peers. The next talked about that place and added a hope. The third gave the hope a name. The fourth named it twice, once at the top of the paragraph and once again in the last line of the letter, in capitals.
 
 *The Continental Academy Tournament.*
 

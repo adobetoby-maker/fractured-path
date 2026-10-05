@@ -104,7 +104,7 @@ He did not believe her for one instant, and she knew he did not, and she did not
 
 Then she walked on up the cart road, slowly, without a stick, and did not look back.
 
-He watched her go with the sheaf in his hands, and saw he had had the gap the wrong way round all term. Prynn was not failing to close it. She was keeping it.
+He watched her go with the sheaf in his hands, and realized he had understood the gap the wrong way round all term. Prynn was not failing to close it. She was keeping it.
 
 Karis had come up at his shoulder and was looking down at the open sheaf with an expression he had last seen on her face in the intake room at Greyvane, when she first heard the word *archive*.
 

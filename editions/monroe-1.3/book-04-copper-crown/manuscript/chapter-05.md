@@ -212,7 +212,7 @@ Cael signed twice, in the square hand he kept for the binder. He watched the sec
 
 Bracken had got up and gone into the cabinet room behind the desk. Cael heard a drawer open and stay open for a long time.
 
-When Bracken came back he had a tag on a cord and a folder, and he wrote on the folder's cover before he put it away: the date, and under it, *94 min.*
+When Bracken came back he had a tag on a cord and a folder, and he wrote on the folder's cover before he put it away: the date, and under it, *Ninety-four minutes.*
 
 "I'd allowed two hours," he said, as if he were confessing to a fault. "The assessment office will set the day for your entry demonstration. Magister Gault sits that panel. His face gives nothing away. That isn't a judgment of you; it's his face. Whatever you show him that day is your baseline, and the baseline doesn't move. Every semester's evaluation is measured against it, as long as you're here." He held out the tag. "Choose with that in mind."
 

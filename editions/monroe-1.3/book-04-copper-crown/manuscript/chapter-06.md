@@ -202,7 +202,7 @@ He took Brom down to Ostrand on the ninth evening, because Brom needed new wraps
 
 They crossed the bridge on foot, and Brom paid, and said very little on the way over. He walked a little faster than usual, and twice Cael caught him turning his right hand over and looking at the back of it, the way he looked at a joint after a fall to see whether it had swollen, though he had not fallen and nothing on him was swollen. Cael watched him do it the second time and did not ask. Brom had a face on him that was not ready yet, and Brom always came out with things in his own time and never before.
 
-On the river street, in the long light, they walked past what Cael had come down to see. Every second shop near the bridge foot sold the same things, wraps and soft-soled shoes and quilted jackets hung in the windows like washing, and nobody kept a row of shops like that alive on passing trade: somebody up the hill was buying all of it, every season, by the cartload. Along the river road the lodging houses had boards out by their doors, *Term lets. Rooms by the term. Academy families welcome.*, freshly painted over older paint that said the same.
+On the river street, in the long light, they walked past what Cael had come down to see. Every second shop near the bridge foot sold the same things, wraps and soft-soled shoes and quilted jackets hung in the windows like washing, and nobody kept a row of shops like that alive on passing trade: somebody up the hill was buying all of it, every season, by the cartload. Along the river road the lodging houses had boards out by their doors, freshly painted over older paint that said the same: *Term lets. Rooms by the term. Academy families welcome.*
 
 "The whole town leans uphill," said Brom, reading the boards.
 

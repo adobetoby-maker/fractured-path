@@ -184,3 +184,7 @@ Open threads opened / advanced / closed:
 - **Withrow:** past sixty, white hair cropped short; her want ("I mean to have done something with this chair before I hand it on"); "forty years" of ambition and belief in one coat (rounding, no age stated).
 - **The eleven rumours** (author's own list; the source's list is not reused) and the worst one: that his people gave him up to the registry.
 - **Brom:** "You always answer a carter."
+
+### Movement 1 — CLOSED (2026-10-04, after repair r1; Sol recheck: CLOSE WITH LINE FIXES — 4 applied)
+- Ch1–7, ~31,870 words. Mean 13.14, ≥40w 3.3%, 909 w/scene; overlap 0 (8 protected); probe 1%; gates 0. Recheck fixes: one r1 join's punctuation (ch4) and three listening/clarity lines (ch5, ch6, ch7).
+- Authorship: claude-opus-5-5 (state/movement-001/AUTHORSHIP.md). Published to the PWA: Book 4 Monroe 1.3 edition, ch1–7, "in progress".
