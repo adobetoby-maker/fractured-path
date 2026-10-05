@@ -107,7 +107,7 @@ In the alcove the night before, under the plan, he had written three guesses in 
 
 His body was the purse tonight. He went through it coin by coin.
 
-The left forearm was a guard and nothing more. Both hands were bright and stupid from the knuckles to the wrists, and the grip was going. The hollow under his breastbone sat full and tight, like a breath he could not let out. The hip line was lit from crest to knee, three asked bursts on the night. And there were his legs, the best thing he still had, because Lira had put them there one cold morning at a time. But they were fraying now. The last fan had come down a hand short of the place he had sent it. A burst that fell short by a hand was a door that would not quite shut.
+The left forearm was a guard and nothing more. Both hands were bright and stupid from the knuckles to the wrists, and the grip was going. The hollow under his breastbone sat full and tight, like a breath he could not let out. The hip line was lit from crest to knee: six asked bursts on the night, three of them in that one exchange, which was the most it would ever give. And there were his legs, the best thing he still had, because Lira had put them there one cold morning at a time. But they were fraying now. The last fan had come down a hand short of the place he had sent it. A burst that fell short by a hand was a door that would not quite shut.
 
 Across the stone, Reydan did something Cael had not seen him do all night.
 
@@ -207,7 +207,7 @@ He always began at the top: the hip, then the hands, then down. Tonight his atte
 
 So he made himself go back to the top and count the things he knew.
 
-The hip line, lit, three asked bursts. The left forearm, a long dark seam from the wrist to the elbow, which tomorrow would be every colour Lira had a word for. Both hands, which would not close all the way. The hollow under the breastbone, full and aching. The left shoulder, two redirects deep, the groove alight. His legs, shaking now that he had let them. His knees, which he had locked, and which would send him their bill in the morning, itemised.
+The hip line, lit, six asked bursts. The left forearm, a long dark seam from the wrist to the elbow, which tomorrow would be every colour Lira had a word for. Both hands, which would not close all the way. The hollow under the breastbone, full and aching. The left shoulder, two redirects deep, the groove alight. His legs, shaking now that he had let them. His knees, which he had locked, and which would send him their bill in the morning, itemised.
 
 Then, again, the right shoulder.
 

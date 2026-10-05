@@ -13,7 +13,7 @@
 
 ## Where we enter
 
-The nineteenth of Reaping. Lira's leading hip is nine days old from the semifinal. Brom's hands open and close: the plan is long contact. Cael has known since week three that the pairing could not be otherwise. The idle state is held from waking. Bracken certifies both season records *before* the bout. The delegation sits in the north tier's second row; Vastin is seated, with a small notebook closed on one knee.
+The nineteenth of Reaping. Lira's leading hip is ten days old from the semifinal (coordinator 2026-10-05: semifinal on the ninth). Brom's hands open and close: the plan is long contact. Cael has known since week three that the pairing could not be otherwise. The idle state is held from waking. Bracken certifies both season records *before* the bout. The delegation sits in the north tier's second row; Vastin is seated, with a small notebook closed on one knee.
 
 ## What this movement is for
 
