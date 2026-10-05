@@ -575,7 +575,7 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 **Movement 5 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — two scene-break spacing fixes applied (ch32, ch33). All brief items resolved; listening proof passes; overlap 0, gates 0, probe 1%/12%. Calendar per the prose (governs the author table above): d143 Seln's private file; d144 counter and council; d147 first unit and night one; d148 night two; the reach in the third hour of the d149 night (early d150); d154 Wind misfire; idle-state LEAKS d159, d160, d161 ("the ninth morning after the stair", then the next afternoon and morning), the Third-day unit d161; moving trials d163; coursework d164; birthday d167.
 
-## After Movement 6 (chapters 38–44; repair r1 applied 2026-10-05; recheck pending)
+## After Movement 6 (chapters 38–44; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - CALENDAR: d168 the courier and the notice read; d169–d173 the documentary defense (done fast; 'eleven days' not binding); d173 = the NINTH of Reaping: Bracken closes the file (four boxes, 311 documents) and Lira beats Fiske 2–1 in the top-line semifinal (four exchanges; the top line fights the earlier day); d174 = the tenth: Brom beats Merrick 3–2 in the fifth, 'Nine days' (no sparring); d175 the hall-three idle-state slip; d176 = the twelfth: the delegation arrives. Final the nineteenth (d183), evaluation the twentieth (d184). LIRA'S HIP will be TEN days old at the final.
@@ -714,3 +714,5 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
   - he decides not to look at the tier.
 - **Lira climbs the tier against orders** ("a stair a friend asks you to climb"). Karis asked her to watch Cael.
 
+
+**Movement 6 CLOSED (2026-10-05).** Recheck r1 on the Claude Fable review seat (Sol out of quota): CLOSE WITH LINE FIXES — three applied (ch40 Log 'inside a day'; ch39 '41 pages'; ch44 'two different pages numbered eleven'). All brief items resolved; overlap 0/9, gates 0, probe 1%/10%; mean 13.61, ≥40w 3.7%, 1,018 w/scene.

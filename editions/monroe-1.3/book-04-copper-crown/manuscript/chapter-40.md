@@ -52,7 +52,7 @@ That night, at the window, the board went into the Log. One part of the entry ha
 
 He let that stand for a while, and then went on underneath, more slowly.
 
-*Three men told me the same thing on the same day, in three different rooms, and none of them asked the others first. Gault at the long table: my wing changes nothing. Rooke under the north arch: keep doing it, it's as boring as it sounds. Bracken over his counter the next morning: give me a dull month. Not one of the three is fond of the other two. One instruction between them. Hold the ordinary. Stand still while they come.*
+*Three men told me the same thing inside a day, in three different rooms, and none of them asked the others first. Gault at the long table: my wing changes nothing. Rooke under the north arch: keep doing it, it's as boring as it sounds. Bracken over his counter the next morning: give me a dull month. Not one of the three is fond of the other two. One instruction between them. Hold the ordinary. Stand still while they come.*
 
 *All my life, people with seals have told me to take up less room. These three told me to stay exactly the size I am. They meant it. I think they're right.*
 

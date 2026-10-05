@@ -22,7 +22,7 @@ Bracken considered this with the full seriousness he gave every request at that 
 
 "Then give me fifteen dull days," said Bracken, "and I'll write them up as a month."
 
-He said it without a flicker, and it took Cael a moment to understand that the registrar had made a joke, and another moment to understand that he had made it on purpose, for Cael's sake, because the boy at the counter looked as if he needed one. Cael nearly laughed. Through the open door, Karis took the card out of her teeth and propped it against a box, and he saw that it read, in her small hand, *41 pp. — tabbed — DO NOT RE-SORT*.
+He said it without a flicker, and it took Cael a moment to understand that the registrar had made a joke, and another moment to understand that he had made it on purpose, for Cael's sake, because the boy at the counter looked as if he needed one. Cael nearly laughed. Through the open door, Karis took the card out of her teeth and propped it against a box, and he saw that it read, in her small hand, *41 pages — tabbed — DO NOT RE-SORT*.
 
 "The argument's already won, though," he said. "Karis won it at Greyvane. Your counsel sealed it before I ever came up the road. What's left to build?"
 
