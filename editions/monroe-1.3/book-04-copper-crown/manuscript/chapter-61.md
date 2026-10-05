@@ -208,7 +208,7 @@ The hall emptied in a roar that went out through both doors at once and broke up
 
 Lira shook her head. "It goes in as a final. Against the champion. Lost by one beat in the fourth exchange on a mended seam." Her palm settled over the certificate in her coat. "If I were a stranger reading it, I'd want to know who you were."
 
-Brom looked at her for a while, and then at his boots, and said nothing at all.
+Brom looked at her for a while, and then down at his boots, and kept whatever he thought to himself.
 
 ---
 

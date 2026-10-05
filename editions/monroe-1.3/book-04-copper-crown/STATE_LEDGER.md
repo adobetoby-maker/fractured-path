@@ -1007,3 +1007,30 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 
 **Movement 9 CLOSED (2026-10-05) → BOOK 4 DRAFT COMPLETE (ch1–62).** Fable recheck r1: CLOSE WITH LINE FIXES — four applied (ch62 Vastin's not-looking bounded to 'that whole morning' (he did look at Cael in the ch56 interview); ch59 'a good way under the record' made a judgment; '*Ninety-four minutes.*'; a ch59 'never once found' echo). Overlap 0/32, gates 0, probe 2%/9%.
+
+## Completion pass — figure changes (2026-10-05; the manuscript governs over any earlier ledger line)
+The texture lanes A and B changed these incidental figures. Earlier ledger lines that give the old figures are superseded:
+- Withrow's end-of-year address now runs twelve minutes (was eleven).
+- The wing woman's crosses: seven.
+- The porters' wait: a quarter of an hour.
+- Lira's thumbnail marks: ten; ch53 now reads `*ten of ten*`.
+- The counsel's questions: fourteen.
+- Bracken's comparing sheet: document fourteen.
+- The supersession clerk: ten minutes.
+- The middle-bag swing count in ch23 is unnumbered; it stays eleven in ch34–35.
+- The ladder book's column holds sixty-five lines.
+- Lira's hip: "By Third-day".
+- Ephram's deferral falls in the second month (ch40).
+- Seln's cipher hand matches ch30, not the sloping wrapper hand.
+- ch49 now has six sections instead of eight. This is the one scene-break change the pass allowed.
+
+Canon elevens kept:
+- carrel eleven;
+- eleven weeks, seconds, questions and days;
+- Ilsev's eleven minutes and eleven months;
+- Lira's eleven bouts unbeaten;
+- eleven of twelve;
+- subsection eleven;
+- Gault's "in eleven years";
+- the delegation's eleven names;
+- the committee charter's eleven clauses.

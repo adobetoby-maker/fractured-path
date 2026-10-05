@@ -252,7 +252,7 @@ Cael got down to the floor a quarter of an hour later, through a crowd that did 
 
 "Seventh bell," Lira said, before he could ask anything. "Gault's office. He's filing for me, and Bracken's to bring the papers, and somebody from the delegation's been asked to witness." She winced as the practitioner pressed somewhere she did not like. "I can't do his stair. She won't let me try."
 
-"I won't," said the practitioner, to the hip.
+"I won't," the practitioner told the hip.
 
 "So you go." Lira looked at him. "Somebody has to hear it read who knows what it cost. You'll remember every word of it, and you won't turn it into anything it isn't. Tell Gault I named you. He'll want it in writing, so write it."
 

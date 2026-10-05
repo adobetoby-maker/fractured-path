@@ -154,7 +154,7 @@ Tomorrow morning, she thought, the porter would climb his ladder at the fifth be
 
 At the end of the ten minutes the woman handed her a single folded sheet, and stood, and so Lira stood too.
 
-"Practitioner," said the man with the slate, and nodded.
+"Practitioner," said the man with the slate, with a nod.
 
 She did not unfold the sheet. She knew what was on it; she had heard it read off a frame. She stood in the little passage between the two rooms with her bag over her shoulder and the sheet in her hand, and took a moment there that nobody could see her take.
 

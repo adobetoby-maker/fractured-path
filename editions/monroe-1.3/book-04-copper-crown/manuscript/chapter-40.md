@@ -126,7 +126,7 @@ She looked surprised, and then pleased.
 
 "I'll draw you an eye," said Gwen kindly, and went away.
 
-On the third evening the space round him at the refectory's long table was wider than it had been since the first week, though nobody had decided to leave it. A boy had sat a seat further along than he might have, and then a girl a seat further than that, and the gap had made itself, the way a gap does.
+On the third evening the space round him at the refectory's long table was wider than it had been since the first week, though nobody had decided to leave it. A boy had sat a seat further along than he might have, and then a girl a seat further than that, and the gap had made itself.
 
 Jask sat down in it.
 
@@ -158,7 +158,7 @@ Withrow walked out to the front without anybody announcing her and stood there w
 
 A ripple went along the tiers, not quite a laugh.
 
-She gave them the three differences first. She gave them as her counsel had given them round the long table, in the same order and with the same plainness: early, and nobody had said why; large, eleven where two would do; and at the head of it, an officer of a rank that did not come to academies. She did not dress any of it, and she did not soften it either. She laid the three things out in front of five hundred people like three stones on a table and let them look.
+She gave them the three differences first. They came in the order her counsel had used round the long table, and no more dressed than they had been there: early, and nobody had said why; large, eleven where two would do; and at the head of it, an officer of a rank that did not come to academies. She did not dress any of it, and she did not soften it either. She laid the three things out in front of five hundred people like three stones on a table and let them look.
 
 "Now," she said. "What follows from that? For you, nothing new. I have no instruction to give you that I haven't given every week this term. Go to your lectures. Sit your assessments on the days they fall. Fight your bouts when your names are posted. That's all." She let it settle. "If any of you is tempted to put on a show for our visitors, a cleaner floor, a quieter refectory, a better face, don't. They will see it. They're made to see it. A house pretending to be itself is the commonest thing an inspection finds, and the easiest. A performance is the one thing an inspection can truly see. Give them nothing to see but Halcenvane."
 

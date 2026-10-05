@@ -74,7 +74,7 @@ Brom drove through the place where it should have been and touched him on the br
 
 He took it in the fifth.
 
-He walked back to his chalk with his chest going up and down like a bellows, and his forearms red from wrist to elbow, and his face entirely blank. When he got there he turned round and looked up at the east tier, at the usual place. Then he looked down at Lira on the bottom step with her leg along the stone, and Cael saw something go between them that he had no column for.
+He walked back to his chalk with his chest going up and down like a bellows, and his forearms red from wrist to elbow, and his face entirely blank. At the chalk he turned and lifted his eyes to the usual place on the east tier. Then he looked down at Lira on the bottom step with her leg along the stone, and Cael saw something go between them that he had no column for.
 
 Merrick crossed the boards and shook Brom's hand and said something short, and Brom said something shorter, and Merrick nodded, gravely, and went.
 

@@ -22,11 +22,11 @@ It was in a hand he knew from a circuit rating card at Ardenmere, small and squa
 
 *Read your account three times. Filed it with your record, where it belongs. The offer of a proper session stands whenever the road runs through Ardenmere again. The ledger doesn't forget. Neither do I.*
 
-That was all of it. Five short sentences.
+Five short sentences, and nothing else.
 
 Under them, instead of a signature, was Vell's mark, and beside the mark the circuit ledger's own stamp, inked and pressed. The stamp held his eye. So the letter had gone into the ledger as an item before it ever went into the post. Somewhere in Ardenmere, in a bound book on a shelf behind a counter, there was now a numbered line that recorded that Vell had written to him, and when, and what about.
 
-He wrote it down that night.
+That night it went into the Log.
 
 *Vell's session. The oldest shelves of the Ardenmere archive, offered two years back, never taken, because the road took us south. Through two academies, a hearing and a year when I sent her nothing, it stayed open; now it's in ink, under her stamp, in a book that can't lose it.*
 
@@ -48,7 +48,7 @@ The desk clerk waved him at the tray. The teaching assistant got up from the cop
 
 Seln answered with his one sound, "Mm," and was back at the copying table with the pen in his hand before Cael had turned.
 
-That was all. Every week it went so, by design.
+Every week it went so, by design.
 
 On the wall beside Gault's door, where the wing pinned its notices, a new sheet had gone up that morning. It was headed *Assessment office: recess counter*, and under the heading ran the working days of the recess in a column, and beside every day in the column, in the same round copying hand, stood the same name. *S. Seln.* Not one day had been given to anybody else.
 
@@ -66,7 +66,7 @@ Cael went to the door.
 
 "Go and rest the hip," said Gault, and went back to his straightedge, and the conversation was over.
 
-Cael went out past the counter. Seln was writing. He did not look up, and Cael did not look at him, and the door of the wing swung shut behind him on its weight.
+Cael went out past the counter. Seln was writing, and kept writing, and Cael did not look at him, and the door of the wing swung shut behind him on its weight.
 
 He told the others at supper about the recess sheet, in one sentence, as a fact about the wing's rota. Lira put her spoon down for a moment and picked it up again. Brom looked at his bowl. Karis wrote nothing at all.
 
@@ -213,7 +213,7 @@ Sixty feet along, where the coping dipped and a man might lean his elbows on it 
 
 Nobody waved him over.
 
-The other three, Cael saw, did not. Brom had seen the coat at the far end of the quadrangle, long before it reached the wall; his pebble had paused in his fingers for exactly one turn and then gone on. Karis's head never came up from her page; so she, Cael knew, had spotted him earliest. Lira had turned her head, once, the length of the wall, the way anyone turns at a footstep; then she had turned it back to the river and kept it there. Of the four of them, she had spent the year wanting most to haul things into the open where she could hit them, and she let this one stand where it stood.
+The other three, Cael saw, did not. Brom had seen the coat at the far end of the quadrangle, long before it reached the wall; his pebble had paused in his fingers for one turn and then gone on. Karis's head never came up from her page; so she, Cael knew, had spotted him earliest. Lira had turned her head, once, the length of the wall, the way anyone turns at a footstep; then she had turned it back to the river and kept it there. Of the four of them, she had spent the year wanting most to haul things into the open where she could hit them, and she let this one stand where it stood.
 
 Nobody had agreed on it. Since the hand-cart night not one word of it had been spoken. Each of the three had come to the same discipline by a separate road, and sitting there in the last of the sun Cael thought it might be the largest thing that had happened to the four of them all week. The man along the wall belonged to the evening as the river did. Everybody knew it. Nobody would ever say so.
 
@@ -237,7 +237,7 @@ It came the way his best lines came in the Log, unplanned, at the moment they ha
 
 It held when he tested it, so he left it there.
 
-There was one thing more. He knew what kind of thing it was before he said it. He had never seen the note and he never would. No one here had read it. No one would read it to him. What he had instead was a stamp that said *renewed*; and two coats at the ferry landing changing on the bell exactly as they had changed every day since the carriages went down the hill, not one man added; and a careful man who looked once at a failing frame and not again, that whole morning, at him; and a twelfth question left lying where it lay. Out of those he had made a belief. He knew it was a belief and not a finding, and he would have written it in the Log as one. He said it anyway, the way you say a true thing you cannot prove, to the only three people in the world he would ever say it to.
+There was one thing more. He knew what kind of thing it was before he said it. He had never seen the note and he never would. No one here had read it. No one would read it to him. What he had instead was a stamp that said *renewed*; and two coats at the ferry landing changing on the bell as they had changed every day since the carriages went down the hill, not one man added; and a careful man who looked once at a failing frame and not again, that whole morning, at him; and a twelfth question left lying where it lay. Out of those he had made a belief. He knew it was a belief and not a finding, and he would have written it in the Log as one. He said it anyway, the way you say a true thing you cannot prove, to the only three people in the world he would ever say it to.
 
 He said, "And somewhere in a file, the most careful man I've ever met wrote that I'm not an error."
 

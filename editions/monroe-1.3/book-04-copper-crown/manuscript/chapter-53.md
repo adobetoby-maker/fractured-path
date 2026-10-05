@@ -194,7 +194,7 @@ He looked round. She lay sideways across the good chair, the bad hip propped on 
 
 "That's the thing." She lifted her thumb. "Never while Brom was hitting you, and never while Karis was asking you something. Every one came while she had her back turned and you were standing on that crack waiting for her to finish. You were waiting, all ten times."
 
-Karis was chalking *ten of ten* on the slate before Lira had finished. "That isn't bad luck," she said, half to herself. "That's how it works."
+Before Lira had finished, Karis had *ten of ten* on the slate. "That isn't bad luck," she said, half to herself. "That's how it works."
 
 Cael didn't move. The pieces were joining.
 

@@ -92,7 +92,7 @@ He climbed to his own place anyway. East tier, a third of the way up, on the sam
 
 He had turned the question over before he slept, whether to sit somewhere else, and kept coming back to the same answer. A new seat would say that today was not like other days, and the whole hill knew that already without his seat saying it too.
 
-It was ledger day twenty-one, and he had been holding since before he opened his eyes. The hold lay where he had set it in the dark.
+It was ledger day twenty-one, and he had been holding since before he opened his eyes. The hold was where he had put it before dawn.
 
 It weighed a little more this morning than yesterday. Every morning it did, and every evening a little more again.
 
@@ -176,7 +176,7 @@ He looked at the north door instead, where the girl would come out.
 
 He knew her only from paper, and from corridors. On paper she was Wind, Copper, Rank Two, on a certificate three years old that nobody had looked at since.
 
-In the corridors this week she had been a girl walking very carefully on a bad leg and refusing, with her whole body, to be seen doing it. He had stepped aside for her once in the covered walk. She had thanked him without looking at him.
+In the corridors this week she had been a girl walking very carefully on a bad leg and refusing, with her whole body, to be seen doing it. He had stepped aside for her once in the covered walk. She had thanked him with her eyes on the far end of the walk.
 
 Now she was the top line of the Copper column, and the whole bluff had come to see her fight.
 

@@ -198,7 +198,7 @@ Brom considered it, and swallowed. "No. Then he was bored."
 
 Brom stopped chewing.
 
-He looked at Cael across the end of the long table. Then he put his spoon down in the bowl, carefully.
+His eyes came up to Cael's across the end of the long table. Then he put his spoon down in the bowl, carefully.
 
 "You do that," he said.
 

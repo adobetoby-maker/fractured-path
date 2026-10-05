@@ -154,7 +154,7 @@ She considered him. "You're going again."
 
 "Because it's the only door he can use at that hour without being seen, whoever he is." He swung the page round to her. "And because last night I sat where I was let sit. Tonight I'd like to sit somewhere because I chose it."
 
-Lira looked at the drawing: the yard door, the flight, the landing, the window.
+Lira went over the drawing piece by piece: door, flight, landing, window.
 
 "Put your hand up," she said, and got up, and went.
 

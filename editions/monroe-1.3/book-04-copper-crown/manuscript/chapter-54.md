@@ -160,7 +160,7 @@ Then a page turned.
 
 Along the east wall the counsel wrote, and Havel wrote because writing was what he had been sent to do, but Ilsev's freshly sharpened pencil had not touched her paper. Cael caught at the very edge of his eye that she had spent the whole trial watching the drum behind the louvres and not him. In the fourth chair nothing had moved.
 
-Then came the first gap, and he had been waiting for it.
+Then came the first gap, which was the part of the morning Lira's thumbnail had taught him to fear.
 
 Gault leaned toward the Mire instructor and the two of them bent their heads over the sheet and talked low, with the Ash instructor leaning in to listen, and after that the clerk would be sent to the north wall and would take his time over it. A minute and a half, perhaps two, with nothing for anybody on the brass to do.
 

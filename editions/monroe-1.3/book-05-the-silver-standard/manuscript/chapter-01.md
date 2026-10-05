@@ -1,0 +1,245 @@
+# Chapter 1 — Closed
+
+On the last night of the recess Cael sat at his window with Hesk's pen and shut the twelve weeks in ink.
+
+The lamp stood at his left elbow. Below the window the residence court lay dark, and in the middle of it the fountain ran on in its stone basin, louder than it had any right to be. All term it had been a sound under other sounds, under boots on the stair and doors and somebody's argument about a bout three rooms away. For twelve weeks, with three parts in four of the house gone down the bluff to their families, it had been the loudest thing on the hill, and he had come to keep time by it the way a sailor keeps time by a bell.
+
+He wrote the way he closed anything: a line for each fact, and a price beside the fact.
+
+*Recess. Twelve weeks and four days. Closed tonight.*
+
+*Floor: sixty-one sessions. The figures live in the working ledger, not here.*
+
+*Letters: nine from Hesk. That isn't a correspondence; that's a campaign. He has decided that a house going out to be measured by a whole continent deserves letters on a war footing, and he has sent them, each in the large exact hand, each one shorter than the last. The ninth came up on the morning coach four days ago. The shop roof has been seen to. A customer has brought the same clock back three times and been told to stop winding it. And the last line reads: "Sleep now. You won't later."*
+
+*I have taken half of that advice.*
+
+He looked at the line and let it stand. Hesk would have liked it. Hesk had always liked a man to write down what he had not done, provided he wrote it in the same hand as everything else.
+
+*The coats: two at the ferry landing and two at the road's foot, changing on the bell every four hours, every day of the recess. Karis's marbled book has a line for each day, and every line is the line above it but one. On a market day in the ninth week a third coat stood at the landing for a single change, and was gone at the next bell, and has not come back. One man, four hours, in twelve weeks. Nobody decides anything about them now. They have become a line in somebody's budget, and a line in a budget outlives the man who wrote it.*
+
+*The wing: the counter sheet hung beside Gault's door the whole recess, every working day with the same name against it. The counter opened on every one of those days, for floor allocations, in a house with hardly anybody on its floors. Twice, by arrangement with Gault, I took coursework down. Twice I said thank you for the form, and twice I heard the one sound I always hear. Nobody on this bluff has said a word about that sheet. Everybody I live with has stood in front of it and read it to the bottom.*
+
+*Karis: ten weeks in the room with her name on the door, building the argument round the clause, and two on the charter's back matter, the annexes and schedules, because a thing she has not read is a thing that can surprise her. She tells me now that the argument will hold up under hostile questions. She never tells me that about anything until she has sat across a table from it herself, playing the other side, late, with the door locked, and lost.*
+
+He stopped there and capped the pen, because the next part of the page was the part that cost, and he wanted the day behind it first.
+
+---
+
+He had been on the sprung oak that morning before the light.
+
+The Crown yard at that hour belonged to nobody. The porter's boards stood bare along the long wall, wiped down for the recess, with the ghost of last season's chalk still grey in the grain of the wood. Mist lay on the tiers. At the far end, by the wash-house, Brom had his shirt off in the cold and was working through his sheet at the striking post, slowly, exactly as Rooke had written it for him: nineteen exercises, round three, four mornings in the week. He had not missed a morning since the recess began, and he would not have mentioned it if he had been paid to.
+
+Lira sat on the rail of the lowest tier with her wrists half strapped and the rest of the tape held in her teeth.
+
+"Six," she said round the tape, as Cael walked out onto the oak.
+
+"Six."
+
+"And then?"
+
+"And then I stop, and you write it down, and we go and eat."
+
+She took the tape out of her mouth to tell him what she thought of that, and then decided it could wait. All recess she had been running Rooke's speed line on her own, from his sheet, at the hour he would have run it if the cohort had been on the hill. On the mornings when Cael worked the oak she ran it after him so that she could watch first, and she had never once said that this was why.
+
+He set his feet at the chalk.
+
+The first burst was nothing. It never was anything: the gather low in the belly, the leading hip loading like a drawn bow, the shove of air at his back like a door slammed by a draught, and then the floor coming up under him twenty feet on. He landed. The landing beat held him where he stood, the same short, locked pause it had held him in since the first burst he ever paid for, and then he was his own again and walked back.
+
+The second was nothing. The third was a little less than nothing; he felt it arrive in the hip as a thin line drawn from the crest of the bone toward the inside of the knee, and he gave it its name in his head and kept going.
+
+The fourth and fifth cost what they always cost.
+
+That was the recess's finding, and it had taken him most of the recess to find it. He had come into the twelve weeks meaning to turn six into seven, and for a month of mornings he had gone at the seventh as if it were a wall with a soft course somewhere in it that he only had to find and hit. Every one of those mornings the seventh had been paid for the next day, in a hip that would not take the residence stair without arguing about it, and the eighth had been paid for the day after that. Somewhere in the fifth week he had stopped trying to climb the number and started reading the bill. Six was not a limit at all. Six was what the architecture would sell him at the price it was charging now, and if he wanted a seventh he would not get it by asking harder. He would get it, if he got it, by finding out where the money went.
+
+So he ran the sixth, and felt it go into the hip and the long muscle at the front of the thigh, and stood in the landing beat with his breath gone short. Then he walked back to the chalk and did not run the seventh.
+
+"Bill?" said Lira.
+
+"Hip, crest to knee, the same line. A little less in the thigh than last week, because I put more of the push through the back foot." He bent and pressed his thumb into the place where the line ran, the way a man presses a bruise to learn whether it is still there. "It costs me in the landing. The beat's no shorter. It might be a hair longer."
+
+"Then it isn't cheaper."
+
+"It's cheaper tomorrow and dearer now." He straightened. "Write it as a trial. Not a gain."
+
+She wrote it on the back of her hand, which was where she wrote things, and would copy it into his ledger at breakfast in her terrible capitals. He sat down on the rail beside her to let the hip settle.
+
+And in the gap, it came.
+
+He did not feel it begin; he never did, and that was the whole trouble with it. One moment he was a boy sitting on a rail in the mist. The next he was something slightly less than that: not gone, only less, a place the eye slid over on its way to somewhere more interesting. He knew it had happened only because Lira's head turned toward him and her eyes went straight past his shoulder to the empty tiers, and then came back, and narrowed.
+
+"One," she said.
+
+"I felt it." He had not, until she spoke. He had felt only the absence of something he could not name, like a stair that is not there in the dark.
+
+*Hold. First.*
+
+He did what he had trained himself to do in every gap of every day since the stair. He took one corner of his attention and gave it to somebody. Brom, at the post: the big shoulders turning, the forearm coming round, the leather taking it with that flat sound a sack makes when it is dropped onto a cart. Watching Brom was not hiding. That was all the trick there was. A boy who was awake to one person was visible to everybody, because the two halves of the thing in him would not run together; he could not be the most watchful creature in a place and the least noticed in it at the same time. Not yet. Not in his hands.
+
+Lira's eyes stayed on him for a breath longer. Then she nodded.
+
+"Back," she said.
+
+"How many this week?"
+
+"That's the one." She picked at the end of the tape with her thumbnail. "Two last week. After the sitting you had the chair-back half full." She meant the old chair in the common room, whose waxed back was scored with her thumbnail marks from the worst night of the year; nobody had sanded them off, and nobody would. "It's going down."
+
+"It's going down slowly."
+
+"Brom said a year."
+
+At the far end of the yard Brom finished his set, stood back from the post with his hands on his hips, and spoke across the whole width of the oak without turning his head.
+
+"I said you'd hate it for a year," he said, "and then be very good at it. The year's not quite up."
+
+"You can hear us from there?"
+
+"I can hear you sulking from there." He squared up to the post again. "Round three. Fourteen."
+
+Lira laughed once, short, and finished strapping her wrists.
+
+"I wrote to Fiske," she said to the tape. "Sixth week. I posted it."
+
+He waited, because she had more.
+
+"Nothing back yet." She stood and stepped down off the rail onto the oak. "She'll write or she won't. I'm not counting the days." She walked to her own chalk at the far end of the speed line, set her feet, and looked once at the bare board on the long wall, where her name would go back up in a few days in the porter's round hand under the Iron. Then she ran.
+
+He did not count her bursts, because she had asked him once not to. He counted the drifts instead, because she had asked him to do that, and there were none.
+
+---
+
+Now, at the window, with the fountain going on below and the lamp drawing a second room in the black glass, he uncapped the pen again and wrote the part that cost.
+
+*What I hold, at the year's open, since the year will want a list.*
+
+*Six confirmed.*
+
+*One. Wind-adjacent, from Lira. Ceiling: six bursts free on the sprung oak, fewer on stone, the seventh billed to the next morning and the eighth to the one after. Six all recess. That isn't a failure to climb. It's what the architecture sells at its present price, and the price is the work now, not the number. The landing beat is the length it has always been. Four years of trying to trim it.*
+
+*Two. Pressure-adjacent, from the Bronze at Ardenmere. Held back at every plate on this bluff, both times: flat lines on the baseline and on the note of the twentieth. Its only paper is Vell's circuit record. Private cap, the circle's rule, not the registry's: four blows a sitting, billed to the right shoulder.*
+
+*Three. Iron-adjacent, from Brom. The read: weight and direction, early, never what a man means by them. Eleven clear of twelve at the fourth weight, called aloud. To every floor that has ever watched me it looks like peculiar timing. Cheapest thing I own.*
+
+*Four. Compression-adjacent, from Reydan. Not on a scored floor or in front of a crowd since the bout at Ardenmere, and only in that circuit's ledger. No instrument here has measured it. Nobody official has ever seen it. Three years. I keep writing that line, and I keep meaning it as a fact and not a grievance.*
+
+*Five. Ember-adjacent, from Karis, by her leave, in her hand. One measurement on this bluff: four instants on the wing's copper pot. On a public floor, two contacts a bout. That's our rule, not the registry's.*
+
+*Six. Shadow-adjacent, Bronze, from a man who does not know. Deployment: none. Rent: from waking, every day, spent or not. Drifts in the gaps, never in the work; one this week. The two halves still will not sit together in my hands. Useful where: nowhere yet. This is the second year of that answer.*
+
+He read the six through, and found that each line was true and that no line was the whole truth, which was the most a ledger could ever do; he had stopped holding it against them.
+
+Under the six went the entry that had stood in the same place three years running.
+
+*Anomaly. Session nine. Tide-adjacent. Not called back. Not explained. Not counted, and it won't be counted until I know what it is I'd be counting.*
+
+*Still open. Still real. Patience.*
+
+He blotted it and sat back and looked at the boy in the glass, who looked back at him with the same doubtful face.
+
+The record kept five of the six. Two of those five were out in the light, on paper that anybody with a registry pass and an afternoon could read. A thin third had been shown once, on a copper pot, in front of the Compact's chairs. All five had a paper trail somewhere, if a man knew which ledger to ask for. The sixth had none, and never would, if he had anything to say about it. One semester stamp, renewed in the enrollment book in Bracken's small upright hand. One provision, alive because somebody kept writing it down.
+
+He bent to the page for the last of it.
+
+*I'm sixteen. I've said so out loud three times this recess, and each time it sounded less like a number somebody handed me and more like my own. I'm enrolled at a house that means to go out and be measured against the continent. Everybody else in it knows which box the season puts them in. Lira has a bracket. Brom has a bracket. Karis has a bracket. I have a provision and a clause.*
+
+*For the first time since Denvash I don't know what my part in a season is.*
+
+*Open the year and find out.*
+
+He capped the pen. When he put out the lamp he left the window standing open, because for twelve weeks the fountain had talked him to sleep, and it could have one more night of it.
+
+---
+
+Withrow had three numbers for the house, and she gave them in order, and she gave nothing else that morning that anybody remembered afterward.
+
+Cael had come up to the great hall of the lecture range early, before the second bell, with the observation notebook in his coat. His seat was the one he had kept all last year, four rows up on the north side, with a pillar at his shoulder that hid him from half the platform and showed him all of the faculty bench. He counted the hall as it filled. A room's numbers were the first thing it would tell you without being asked, and he had never yet found a room that lied about them. The new intake sat in a tight block near the back, close together and very upright. The house looked thirty or forty larger than a year ago. The porters along the back wall looked exactly the same, which was a comfort of a kind.
+
+The other three found him the way they always found him, without searching. Lira had come straight from the speed line with her hair tied back wet; Brom had a heel of new bread in each hand, of which one went to Lira; Karis arrived as the bell stopped, with the grey notebook already open and a pencil behind her ear.
+
+"Rooke's back," said Lira, low. "He was on the oak at first light with a board under his arm. He read my recess sheet all the way down and said, 'Yes.'"
+
+"Good."
+
+"It's one word." She tore the bread. "I'll take it."
+
+Withrow walked out onto the platform with no paper at all.
+
+She did the house's ordinary business first, in about the time it takes to boil an egg properly, and Cael wrote the headings without listening very hard: rooms, the north roof, a new instructor for the Mire cohort, and the fire-watch's oil book. That last drew a small knowing noise from everybody who had sat through the inspection. Withrow answered it with one eyebrow and went straight on, as though she had planned the noise and the eyebrow both, which Cael thought she very likely had.
+
+Then she put both hands flat on the lectern.
+
+"Three numbers," she said. "Write them down if you like.
+
+"Five. In five weeks this house opens its qualifying season at the first regional meet, and from that morning every bout a fighter of ours wins or loses goes into a book that strangers keep.
+
+"Four. There are four meets in this region. Every standing earned at any of the four is added to the house's total, and the houses whose totals cross the line go on to the finals. This cycle the finals are at Norhold, a crossroads city about four times the size of the town under this bluff, which once in every three years hosts the oldest contest between chartered houses on this continent.
+
+"Eighteen." She said it with no weight on it at all. "This house has not been there in eighteen years. I have read the file on the last side we sent. It was made of the people the house liked best, and the continent did not like them nearly as much. I don't intend to repeat the experiment."
+
+Half the hall laughed. Withrow let them, and waited for it to finish by itself.
+
+"Whoever goes out for this house goes because the tournament's own charter sends them, read off our own enrollment record, and for no other reason. The registrar will administer that charter as written. I have read that sentence over several times this recess, and I find I don't want to change a word of it." Her eyes stayed on the slow clock over the door while she said it. Cael wrote that down at once, because Withrow's refusals to look were aimed, and after a year he knew roughly where. "The standards, the meet schedule and the first travel roster will be on the covered walk's board when you leave this hall. Coach Rooke has the training calendar. During the inspection I asked you to be, with people watching, what the house had written down that it was. You did it. Do it again. The only difference is that this time the people watching will be everybody."
+
+She took her hands off the lectern.
+
+"Go to your assignments."
+
+The hall emptied with a long noise that went out of both doors at once and broke up on the quadrangle into a hundred smaller ones. Cael stayed in his seat and watched the platform. Withrow had stopped to say three words to Rooke, who nodded once. Gault was writing something on the back of his hand, which he did when he had lost his pencil, which was often. Bracken's chair at the end of the faculty bench was already empty.
+
+"Inside the week," said Karis, following his eyes. "He'll file inside the week. The regional office takes entries until the close of the next, and Bracken would sooner swallow his own pen than file on a closing day."
+
+"You've talked to him."
+
+"Four times this recess." She shut the notebook. "Each time about something else. None of them was about anything but this."
+
+---
+
+The board was up in the covered walk before the hall was empty, and half the house was standing in front of it by the time the porter had climbed down his ladder and carried it off.
+
+Cael read it from the back of the crowd, over heads. The selection standards took the left-hand sheet, in the hand of Bracken's inky-knuckled clerk. The meet schedule took the middle: four towns, four dates, the first of them five weeks out and two days' drive to the south. The travel roster for that first meet hung on the right, eleven lines long.
+
+Five competitors. Rooke. Gault. Two third-year reserves, the Shield reserve and the Stone. A wagoner. And, on the tenth line, *S. Seln, assessment office: records and floor scheduling.*
+
+Cael kept his face exactly as it was.
+
+It was a perfect line. Somebody had to keep a travelling delegation's records, and somebody had to book its floor hours in four strange halls, and the man who had kept the wing's counter through twelve empty weeks was the obvious clerk to send. It was true in every particular, and complete in form, and it told nobody anything whatever. He had grown used to admiring that sort of line from a distance, with his face still, and he admired this one now in the same way and moved his eyes on.
+
+The competitor lines stood above it.
+
+*Lira, Wind, Iron Rank One. Brom, Iron Skin, Copper. Karis, Ember, Iron Rank Three. Ephram, Blade, Iron Rank Six.*
+
+And under them, the fifth.
+
+*Cael. See demonstration provision, enrollment basis, filed.*
+
+The crowd read that one aloud, and it read it in four tones, one after another, as people do when a line on a board will not quite sit still. A second-year near the front said it slowly, like a word in a language he was learning. A Stone girl said it with a laugh in it, not unkind, as if the board had made a joke she had nearly understood. Somebody's older brother said it with relish, as though it were good news about a horse. And a quiet voice at the back said it carefully, as if it might break if he dropped it.
+
+"What's a demonstration provision?" asked the second-year, of the walk in general.
+
+"Assay hearing," said a third-year, as though that settled it.
+
+"It means he fights for the judges," said an older voice, very sure of itself. "Show bouts. They look at him and they don't count it."
+
+That was about half right. Cael let it stand exactly where it had been put. A rumour that was half right made a fence round him that he had not had to build or pay for, and it would keep a great many people from ever asking about the other half.
+
+The crowd shifted. Ephram came through it from the north arch with his kit on his shoulder and his hair still wet from the wash-house, and read the board once, from top to bottom, at the speed of a man reading the price of something he has already decided to buy. His name had stood at the head of the Iron column in the Crown yard for two years; by the only measure the hill used, he was the best fighter on it.
+
+Not by every measure. The hill had fourteen Silvers and one Gold, and none of them was on the sheet. Cael knew why, because he had read the standards first, all the way down. They were fellows of the teaching track, entered in the fellows' book and never on the enrollment record, and the charter asked a house for its enrolled and nobody else. So the yard's columns would go out to fight, and the fellows would stay home and teach them.
+
+Ephram reached the foot of the roster and turned round to the four of them.
+
+"Eleven names and a citation," he said. "Every academy on the circuit gets a roster. We get a roster and a reading assignment." He hitched the kit higher on his shoulder. "Good. Let the other side do the reading."
+
+He went off down the walk toward the yard without waiting for an answer. Lira watched him go with her head on one side.
+
+"He's in a good mood," she said.
+
+"That was a good mood?"
+
+"For Ephram, that was singing." She turned back to the board, and her eyes went to her own line, *Lira, Wind, Iron Rank One*, and stayed there a moment with her hand flat on her coat over the place where the certificate had lived since the anteroom. Then she looked away from it on purpose, the way a person turns from a mirror before anyone can catch her at it.
+
+"Five weeks," said Brom behind them. He said it the way he would have named the weight of a thing he meant to lift.
+
+Karis said nothing. She was reading the selection standards again from the top, and her pencil had stopped two-thirds of the way down. The line under it said that the registrar would file the house's entry, together with a certified copy of its enrollment record, complete and current, not later than the close of intake.
+
+She drew a line under *complete*. Then she looked at Cael over the top of the notebook, and he saw that she had already counted the days, and had found them to be more than enough.

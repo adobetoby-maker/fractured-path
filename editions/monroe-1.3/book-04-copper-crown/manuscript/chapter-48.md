@@ -24,7 +24,7 @@ Then the case was on the shelf with its back to the room, and the teaching assis
 
 Cael took his floor sheet from the desk clerk and said thank you, and did not move from the counter, because the inner door to the back of the wing had opened and Gault had come through it.
 
-He had a folder under one arm. He saw Cael, and stopped at the end of the counter, and stood there in the way he stood everywhere, heavy and still.
+He had a folder under one arm. He saw Cael, and stopped at the end of the counter, and stood there in the way he stood everywhere, heavy and still, a man who moved only on purpose.
 
 "Enrollee."
 
@@ -158,7 +158,7 @@ Up the table from Gault sat Karis, in her best collar, with the grey notebook al
 
 Across from them sat the delegation.
 
-Havel was at the foot nearest Cael, with the recording case open and the brass glass already turned, and a shallow wooden tray at his elbow for whatever paper came and went. Above him on that side sat Ilsev, quite still, with her own case on the table, closed, and her hands resting on it. The counsel had the head of that side to herself, with three black boxes stacked by her elbow and the list clerk hovering at her back.
+Havel was at the foot nearest Cael, with the recording case open and the brass glass already turned, and a shallow wooden tray at his elbow for whatever paper came and went. Ilsev, above him, sat so still she might have been part of the chair, the case under her hands unopened. The counsel had the head of that side to herself, with three black boxes stacked by her elbow and the list clerk hovering at her back.
 
 And with his back to the window, two places along from the counsel, sat the Archmarshal. He had a closed folder in front of him, and a pen lying on it crosswise.
 
@@ -240,7 +240,7 @@ Havel read it, in his flat recording voice, every word weighed the same.
 
 Cael knew it before the second sentence. He had seen it once before, at Greyvane, on the last page of Bracken's fifteenth letter, copied out with no comment and a line drawn under two of its sentences, in Prynn's archive. Karis had read straight past it, because she was hunting a repeal and not a conversion, and had been cross with herself about it for a day. Now it came out of Havel's mouth into the Compact's own record, and somewhere in Cael's head a thing he had been carrying loose for a year dropped into its slot with a small cold click.
 
-Nobody sits down to explain how to change a thing that has already died. The drafters had known there were assay enrollments; they had known there were practitioners standing on that clause in the very year they sat down to write, because they had sat down and written out what was to be done with them. They had not killed the practice. They had cut a door out of it, and posted a sign telling everyone to use the door, and left the clause standing where it was.
+Nobody sits down to explain how to change a thing that has already died. The drafters had known there were assay enrollments; they had known there were practitioners standing on that clause in the very year they sat down to write, because they had sat down and written out what was to be done with them. They had not killed the practice. They had cut a door in it and hung a sign telling everybody to go out that way, and then they had gone home and let the clause be.
 
 "They discouraged it," said Withrow. "They gave it new words. They built a way out of it. And they left it standing. Every one of those was a decision, made by people holding pens. The decision you need, counsel, is the one they didn't make. They had their list in front of them, and they stopped at eleven." She took her hand off the table. "Nobody drafts a conversion route for a dead letter."
 

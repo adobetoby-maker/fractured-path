@@ -84,7 +84,7 @@ Across the hall, against the far wall, the enrollee sat on his hard chair among 
 
 Cael had spent the recess on that hard chair, because a clerk would have, and because getting up to walk about was the kind of small change he had promised himself at dawn not to make. Of the whole delegation only two had kept their places: the Archmarshal, with his folder shut and his pen across it, and Ilsev, who had read something from a file and then written on a form for about eleven minutes, by Cael's count of his own breaths, and laid it in the records officer's tray, and drunk a cup of tea in four swallows. He did not know what it was. It was not his to know, and he did not write it on the back of his floor sheet. He only noticed that whatever she had read had not changed her face at all.
 
-He set the stake again. The counsel came back in, still talking, and the room filled up.
+He set the stake again. Then the counsel was back, talking as she came, and the chairs filled.
 
 ---
 
@@ -176,7 +176,7 @@ Gault gave her one paragraph. There was no warmth in it and no hesitation, and C
 
 "What the clause wants for an assay-provision enrollee is a demonstration, in front of a panel of this house, measured against a standard this house fixes and keeps on paper. My wing fixed the standard at this enrollee's baseline, in his second month, and posted it on the board in the same week. The apparatus has been calibrated since then on a posted schedule, by a keeper who initials a card for every check, and the card hangs on my wall. On the twentieth we'll lay him against that standard, in the order it sets out, whether or not anyone from this delegation is in the room to watch. The clause doesn't hand me a standard. It tells me to set one, to apply it, and to write it down."
 
-He stopped, the way a man stops at the end of a column. Then, in the same voice, he added one more line.
+He stopped. Then, without a change of voice, he gave them one more line.
 
 "I have. I do. I will."
 
@@ -256,7 +256,7 @@ It was Karis's foot. She had not turned round. Her pen had not stopped. She had 
 
 He was back inside his own edges before the breath was over. No method he had ever put in the ledger had ever done it half as fast.
 
-He sat very still and let the pressure behind his eyes come up and up until it reached its own top and stopped there, and he did not look down at Karis, and Karis did not look round at him. Her foot stayed where it was for one breath more. Then it slid away, back under her chair, and her pen went on writing.
+He sat very still and let the pressure behind his eyes come up and up until it reached its own top and stopped there, and he did not look down at Karis, and Karis did not look round at him. Her foot stayed where it was for one breath more. Then it was gone, back under her own chair, and the pen kept moving.
 
 He set the stake again and held it, hard, through the rest of the list. Some while later the inky-knuckled clerk took back his folder without the least surprise, and went on writing. The sitting closed at the seventh bell. People stood and stretched and talked. Within a minute the delegation's counsel had found Withrow's counsel and begun, very happily, to argue with her about the age of a binding.
 

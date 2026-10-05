@@ -118,7 +118,7 @@ He waited.
 
 "No. That's what everybody thinks, and it's wrong." She turned her head and looked at him at last. "If I go in carrying your pages, I'm carrying more than I can use. I'll be watching for the things you saw, and while I'm watching for them I'll be slow. She'll be ready for everything I brought last time. Good. I'm not bringing it. I'm going in with less than she thinks I've got, and I'll find out what's left when I'm standing on the boards. That's the only way to beat somebody who knows you completely. You stop being the person she knows."
 
-He sat with his hand on the notebook.
+His hand stayed on the notebook.
 
 The old want came up in him, strong and familiar, the want that had built every page in the book: to give her everything, every pattern and tell and number, and send her into the yard armoured in it. He felt it come up and recognised it, and saw clearly, perhaps for the first time, that it was his want and not hers, and that giving her what he wanted to give would be a way of fighting the bout himself from the tier.
 

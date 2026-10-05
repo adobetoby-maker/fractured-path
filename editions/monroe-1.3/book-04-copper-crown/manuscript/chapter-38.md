@@ -62,7 +62,7 @@ So the counsel read it, in the dry, careful voice of somebody who has noticed ov
 
 After it came an appendix with a schedule in it, and a manifest of names, and the seal on its red ribbon, which she held up a moment for the table to see.
 
-*Provision-status evaluations.* Halcenvane had one provision-status enrollee, and he was sitting in the last chair with his hands in his lap. His enrollment stood on that evaluation every term; if it went against him, he would be a boy with no school and no standing again.
+*Provision-status evaluations.* Halcenvane had a single provision-status enrollee, and he was the boy in the last chair with his hands in his lap. His enrollment stood on that evaluation every term; if it went against him, he would be a boy with no school and no standing again.
 
 The Stone man let out a long breath. "Well. Inspection. They come round."
 

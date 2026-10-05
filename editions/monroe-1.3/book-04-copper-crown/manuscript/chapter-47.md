@@ -186,7 +186,7 @@ He set his feet, and drove the last one in on the four-count, and Cael turned it
 
 At the bell the woman from the wing counted her marks and wrote a figure at the foot of the sheet and signed it. Fifty-four out of sixty, clean. On his worst week of the term he had made fifty-two, and on his best fifty-eight, and today's sat in the fat middle of his own numbers, where nobody reading a column of them would ever stop: a Copper-baseline redirect drill, done at Copper baseline, as the record expected.
 
-He had made every stroke of it with one hand tied behind his back, under seven people who had come up the bluff to see what he was. Not one of them would ever know, which was all he had wanted from the afternoon, and now that he had it, it felt strange in his hands.
+He had made every stroke of it with one hand tied behind his back, under seven people who had come all the way up the bluff to see what he was. Not one of them would ever know, which was all he had wanted from the afternoon, and now that he had it, it felt strange in his hands.
 
 He did not go back to the residence but went out through the side door of hall three into the yard behind it, where the porters stacked the spare bearers under a lean-to and nobody came. He sat down on the end of a bearer in the wind with the notebook on his knee.
 

@@ -8,7 +8,7 @@ Cael was standing in the space. He had been standing in it for half a minute.
 
 The second-year jumped as if the arm had bitten him. He snatched the tray back so fast that a cup went over, and stared at Cael, and then at the arm, and then at Cael again, with the round-eyed face of somebody who has just walked into a door he would have sworn was open.
 
-"Sorry. I'm sorry. I didn't—" He looked at the spilt cup. "I didn't see you there."
+"Sorry. I'm sorry. I didn't—" His eyes went to the spilt cup. "I didn't see you there."
 
 "It's all right," said Cael.
 

@@ -38,7 +38,7 @@ The heaviest weight, the fifth, went onto the rack under the Mire instructor's h
 
 Feryn's fragment stirred in his right arm, and reached.
 
-He had carried it for three years, ever since a bout he had lost honestly, and it had always lived close under his skin. It did not keep a blow. It gathered a blow, and turned it, and sent it on somewhere else. It had been made for the very thing in his hands. If anybody had been marking answers right and wrong, it was the right one, and the little dial in the plate's housing would have swung round to a figure that nobody in the room had ever seen it show.
+He had carried it for three years, ever since a bout he had lost honestly, and it had always lived close under his skin. It did not keep a blow. It gathered a blow, and turned it, and sent it on somewhere else. The thing in his hands was what it had been made for. If anybody had been marking answers right and wrong, it was the right one, and the little dial in the plate's housing would have swung round to a figure that nobody in the room had ever seen it show.
 
 It was not on this wing's record.
 
@@ -144,7 +144,7 @@ Gault wrote for some while before he spoke.
 
 The porters needed a quarter of an hour to fetch the reserve frame from the far store and bolt it up, and Cael spent them on the rail by the west wall with his palms on the wood and his weight off the bad leg. The hip had gone past aching into simple noise, and the pressure behind his eyes from the hour-and-a-half mark had come all the way in and taken a chair.
 
-And he had gone thin. He had not felt it go, only come back, with a lurch. For two or three breaths after the weight hit the oak, while the frame rang and the chairs scraped and the Mire instructor tore at the release, his corner had simply not been there. Every face had been turned to the frame; nobody had spared the boy a glance. That was luck, and he would write it down as luck, though he had no column for luck and did not mean to start one.
+And he had gone thin. He had felt it come back, with a lurch, and never felt it go. For two or three breaths after the weight hit the oak, while the frame rang and the chairs scraped and the Mire instructor tore at the release, his corner had simply not been there. Every face had been turned to the frame; nobody had spared the boy a glance. That was luck, and he would write it down as luck, though he had no column for luck and did not mean to start one.
 
 He kept his face turned from the east wall, but the oldest instrument he owned had started counting without being asked. It was the tally of glances he had built in the first weeks of term on the stairs of this very building, and it counted now.
 
@@ -232,7 +232,7 @@ She shut her eyes again, briefly. "Say all of it."
 
 She nodded, as though a sum had come out, and pushed herself off the post onto the stick.
 
-They went back across the quadrangle at the slowest pace the bluff had ever seen, two people with two good legs between them, one each, and took the residence stair a tread at a time. Brom was waiting on the landing with a bag of ice already in his strapped hand, and he held it out to Cael.
+They went back across the quadrangle at the slowest pace the bluff had ever seen, two people with two good legs between them, one each, and took the residence stair a tread at a time. Brom was on the landing, a bag of ice ready in his strapped hand, and he held it out to Cael.
 
 Karis was in the common room with a book open on her knee at the page it had shown since the second bell. She shut it as they came in.
 

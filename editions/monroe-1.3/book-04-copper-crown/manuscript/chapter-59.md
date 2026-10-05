@@ -216,7 +216,7 @@ On the other half went the second thing.
 
 *Subject warrants attention.*
 
-The second got shorter shrift. Within a month it would put a warden on the bluff road. And in a boy who had already sat through one adjudication, it would bring on the very behaviour that turns a monitoring file into a stage play, because a boy who knows why he is watched begins to perform for the watcher, and nothing true has ever been got out of a performance. He tore it across. The halves lay one on the other by the lamp.
+The second got shorter shrift. Within a month it would put a warden on the bluff road. And a boy who had already sat through one adjudication would answer it with just the behaviour that turns a monitoring file into a stage play, because a boy who knows why he is watched begins to perform for the watcher, and nothing true has ever been got out of a performance. He tore it across. The halves lay one on the other by the lamp.
 
 The third he never put to paper.
 

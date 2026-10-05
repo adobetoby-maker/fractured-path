@@ -164,7 +164,7 @@ And the count went wrong.
 
 It did not come back empty. He knew empty; empty was a number too. It came back arguing with itself. In two years of counting rooms, his method had given him too little and too much and once, at Ardenmere, nonsense. It had never before given him three answers at once that would not agree.
 
-*One.* The courtyard leaned. The two clerks from the first carriage were crossing toward the third before its door was fully open. The ranking rider of the escort moved four paces to his left without anyone telling him to. The counsel, at the records hall's door, stopped in the middle of a word about the gutter and stayed stopped. Everybody in that courtyard bent toward the third carriage. Cael had seen people do that round Withrow every day of the season, and he could have drawn it.
+*One.* The courtyard leaned. The two clerks from the first carriage were crossing toward the third before its door was fully open. The ranking rider of the escort moved four paces to his left without anyone telling him to. The counsel, at the records hall's door, stopped in the middle of a word about the gutter and stayed stopped. The whole courtyard leaned toward the third carriage. Cael had seen people do that round Withrow every day of the season, and he could have drawn it.
 
 *Two.* The man who stepped down gave the leaning nothing to lean on.
 
@@ -208,7 +208,7 @@ He did not answer at once.
 
 "That one crossed a courtyard," said Cael.
 
-Lira unhooked the stick from the rail and leaned on it, and looked at him sideways.
+Lira unhooked the stick from the rail, leaned on it, and gave him a sideways look.
 
 "You stayed," she said.
 

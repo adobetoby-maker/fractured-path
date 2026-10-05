@@ -90,7 +90,7 @@ He wrote that in the notebook afterward, on the page headed *Withrow*, in three 
 
 Brom told them about Rooke at supper, and he told it word for word.
 
-Brom did not often do that. He remembered exact words the way other people remembered faces, but he kept the gift in a drawer and took it out perhaps twice a year, when he thought a sentence had been made with care and ought not to be worn down by handling. He took it out now with his bowl in front of him and his strapped hand flat beside the bowl.
+Brom did not often do that. He remembered exact words better than most people remembered faces, but he kept the gift in a drawer and took it out perhaps twice a year, when he thought a sentence had been made with care and ought not to be worn down by handling. He took it out now with his bowl in front of him and his strapped hand flat beside the bowl.
 
 "The cohort's board, by the covered walk's end. Third bell, near enough. I was reading the cohort standings." He set down his spoon. "He came along the walk. He didn't stop to talk to me, he stopped to look at the board. Then he said it to the board."
 

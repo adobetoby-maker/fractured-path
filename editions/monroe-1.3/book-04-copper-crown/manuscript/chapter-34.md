@@ -62,7 +62,7 @@ A man stepped inside and stood still.
 
 Cael counted to twenty, slowly, before the man moved again. That was right. You came into a dark place and stood, and let it tell you whether it was empty, before you went through it.
 
-His climb, when it came, was even: no hurry, no creeping, a man who had taken this flight before and knew how many steps were in it. On the ninth step the slab rocked and knocked, loud as a knuckle on wood. The man stopped dead with his weight still on it, and Cael held his breath. The man stood listening to the building, and the building told him nothing. Then he lifted his weight off the ninth step so slowly that it settled without a second knock, and came on up onto the landing.
+His climb, when it came, was even: no hurry, no creeping, a man who had taken this flight before and knew how many steps were in it. On the ninth step the slab rocked and knocked, loud as a knuckle on wood. The man stopped dead with his weight still on it, and Cael held his breath. The man stood there and let the stair settle round him, and heard nothing he had not expected. Then he lifted his weight off the ninth step so slowly that it settled without a second knock, and came on up onto the landing.
 
 He went by on the window side, four feet from Cael's knees, looking up the next flight.
 
@@ -110,7 +110,7 @@ The man with the bag sat down where he had been told, slowly, with his empty han
 
 "The registrar is crossing the courtyard," Seln went on, in the same voice, reading the next line of the same form. "Counsel is with him, and two fire-watch men. They came out four minutes ago. A man listening to the house, and not the keyhole, would have heard them."
 
-And a flight below, in the black of the corner, the reach began.
+And on the half-landing, in the black of the corner, the reach began.
 
 ---
 
@@ -149,7 +149,7 @@ Twice through. After that, for a while, reading it was all he could do.
 
 Three things on that page had never been on any page before.
 
-*Bronze.* Every other time, in that place, it had said *unknown*, and he had built a whole small private theory on the word: that whatever wrote these lines could tell what kind of thing it had given him but could not weigh it, and that weighing was some other instrument's business, in some registry, in somebody else's hand. Tonight it had weighed. It had set down a tier as plainly as Bracken's sheet set down *Copper*. Perhaps it had always been able to, and had only now decided he was owed a number.
+*Bronze.* Every other time, in that place, it had said *unknown*, and he had built a whole small private theory on the word: that whatever wrote these lines could tell what kind of thing it had given him but could not weigh it, and that weighing was some other instrument's business, in some registry, in somebody else's hand. Tonight it had weighed. It had set down a tier as plainly as Bracken's sheet set down *Copper*. Whatever wrote these lines had held the scale all along, it seemed, and had only now decided he was owed a number.
 
 *Presence-suppression component; movement-masking component.* Two parts. Every note before had named one. This one had two, a semicolon holding them apart, and they stood in the very order he had found them on this stair: the eye-half on the first night, the ear-half on the second. He could not tell yet whether that was nothing, or the thing he would still be turning over in ten years.
 
