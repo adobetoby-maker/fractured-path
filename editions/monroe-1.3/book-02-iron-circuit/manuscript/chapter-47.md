@@ -44,7 +44,7 @@ What Brom had to show him was a thing Brom could not quite do, and said so befor
 
 "You know how I harden." Brom raised his right forearm across his body, the way he did against the post. "A low breath, held, while it comes. Then the hold, when it lands. Then I send, if I mean to. Most of the time you only see the send. You've felt the rest from the inside, with your knuckles." He lowered the arm again. "Ansel said there's nothing coming up through this man to watch. I believe him. But I've been lying awake on it, and there has to be something, because that's how a burst works. You can't throw a thing out of you that you haven't first got together. It's only that he does the getting-together so fast and so small that nobody sees it from outside."
 
-He set his feet. He breathed in, low, and Cael watched his whole frame tighten, not outward the way a man braces but inward, everything drawing toward the middle of him, as if he were trying to make himself smaller and heavier at the same time. It lasted perhaps half a beat. Then Brom let it go, all at once, forward, in a short flat push of both hands that stopped a hand's width from Cael's chest and moved the air against his shirt.
+He set his feet and breathed in, low, and Cael watched his whole frame tighten, not outward the way a man braces but inward, everything drawing toward the middle of him, as if he were trying to make himself smaller and heavier at the same time. It lasted perhaps half a beat. Then Brom let it go, all at once, forward, in a short flat push of both hands that stopped a hand's width from Cael's chest and moved the air against his shirt.
 
 "It compresses inward before it fires outward."
 
@@ -58,7 +58,7 @@ Cael understood him before he had finished. "The knock."
 
 "You may."
 
-So the second session was that: Brom standing a forearm off, gathering and sending, slowly at first and then less slowly, and Cael knocking at the moment he thought the gathering began, and saying what came back before the push arrived. *Inward. Nothing. Inward. Smear. Nothing. Inward.* The inward answer was like nothing the knock had brought back before. It was not *there*, and it was not *going forward*. It was a kind of drawing tight, as though the whole man had become a fist in the making, and it came and went so fast at the edges that he could not have said whether he felt it begin or only felt it already begun. Twice he knocked too late and got the push instead, the weight going outward, already spent. Once he knocked too early and got only Brom, large and still and thinking about nothing, and had to say *nothing* while the gathering began a heartbeat after under his hand.
+So the second session was that: Brom standing a forearm off, gathering and sending, slowly at first and then less slowly, and Cael knocking at the moment he thought the gathering began, and saying what came back before the push arrived. *Inward*, *nothing*, *inward*, *smear*, *nothing*, *inward*, on and on. The inward answer was like nothing the knock had brought back before. It was not *there*, and it was not *going forward*. It was a kind of drawing tight, as though the whole man had become a fist in the making, and it came and went so fast at the edges that he could not have said whether he felt it begin or only felt it already begun. Twice he knocked too late and got the push instead, the weight going outward, already spent. Once he knocked too early and got only Brom, large and still and thinking about nothing, and had to say *nothing* while the gathering began a heartbeat after under his hand.
 
 At twenty he held his hand to the light.
 
@@ -142,7 +142,7 @@ Cael straightened up slowly and thought about it honestly, because Brom had aske
 
 He wrote it that evening, in ink, in a new entry under the Pressure fields, in his smallest hand. It was a kind of fact that would matter most at the moment when it was hardest to remember.
 
-*Redirect (taking face, passed, not gathered). Plant; take on the turned shoulder; let it run through and out at a slant; ride the push in. Works at Brom's speed. Cost: shoulder, ribs on that side, behind the breastbone. All at once, after. Three clean in a session; the fourth goes crooked. Every other day. Assume three in a fight, fewer if already hit.*
+*Redirect (taking face, passed, not gathered): plant; take it on the turned shoulder; let it run through and out at a slant; ride the push in. Works at Brom's speed. Cost: shoulder, the ribs on that side, and behind the breastbone, all at once and after, never during. Three clean in a session before the fourth goes crooked, and every other day at most. In a fight, three, or fewer if I've already been hit.*
 
 *This is not an evasion. It is a purchase.*
 
@@ -160,7 +160,9 @@ Brom read it over his shoulder in the kitchen, chewing.
 
 On the third morning Lira gave him the right again, and the drop, and the roll. He did it a hundred times and perhaps fifteen of them were the thing she meant. On the fourth morning it was twenty-five in a hundred, and his left knee, which took all the dropping, had begun to have opinions on the stairs.
 
-The bruises came up in layers. His forearms, which took her staff whenever the drop came late, went blue on the outsides and then green under the blue. His left ribs, where she had laid the first blow of the first morning, were joined by his right, where she found him every time he rolled too high. He did not mention any of it, and neither did she. Every morning she looked at him once as he came under the arch, a quick look up and down, the way a farrier looks at a horse led into the yard, and then came at him with nothing before it.
+The bruises came up in layers, and he began to read them the way he read a page, because he could not help it.
+
+They were a record, if he looked at them properly, and a better one than the Log. The fresh ones on the outside of the right forearm were the drop coming late, every one of them a moment when his knee had hitched and Lira's staff had arrived first. The yellowing ones on the left ribs were the first morning, before he had learned to move at all. There were fewer new ones each day, and they were higher on the arm, which meant the drop was arriving sooner and the staff was finding only the last of him on the way down. He could have charted the whole fortnight from them, if anybody had asked, and he was glad nobody did. His forearms, which took her staff whenever the drop came late, went blue on the outsides and then green under the blue. His left ribs, where she had laid the first blow of the first morning, were joined by his right, where she found him every time he rolled too high. He did not mention any of it, and neither did she. Every morning she looked at him once as he came under the arch, a quick look up and down, the way a farrier looks at a horse led into the yard, and then came at him with nothing before it.
 
 The heavyset man's wife began leaving a covered bowl on the range for him at night, without being asked and without saying so. He found it there after the evening hour with Lira, still warm, with a plate over it. On the second night the sister had written on the plate in chalk, *EAT. L. SAYS.*, and drawn a hen.
 

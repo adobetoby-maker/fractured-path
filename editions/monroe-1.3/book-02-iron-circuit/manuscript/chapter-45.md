@@ -70,6 +70,8 @@ There was nothing to watch, and there would be nothing. No bout of the man's had
 
 He had never walked into a fight owning nothing. He tried to imagine it, and could not, and that frightened him more than the rank.
 
+He tried, sitting there, to think how a file could be built on a man who threw away everything that had been seen of him, and the longer he tried the less sense the question made. A file was a record of what a fighter did again; that was all it had ever been. Keth chose his count fresh every cut, and even Keth had a join that opened at the end of his second every time, because a join was a shape and a shape could not be chosen away. Perhaps this man had shapes too, somewhere under all the masters' work, things he did because of how his Path was made in him and not because he had decided to. But there would be no bench to find them from. If they were there at all, they would have to be found on the floor, under the lamps, inside the exchange itself, by a boy with the man's hands already on him.
+
 The dock partner came in under the arch with his staff over his shoulder and his breath going up white. He looked at Cael's face and then at the empty floor.
 
 "She's not down?"
@@ -102,7 +104,7 @@ It happened again on the sixth. And on the ninth he felt it begin and caught it,
 
 He gave it a heading of its own in the Log before supper. A fault that showed itself against a blow he had only imagined was a fault that would show itself twice as plainly against a real one, and he had learned the hard way that the only thing worse than writing such a fault down was not writing it.
 
-*Hesitation. First time I've had to write the word. In my feet, not my head. Against the dock partner at speed, imagining a burst with no wind-up: the weight hangs back on the heels, a half-beat, as if waiting to be told. Three times in thirty minutes. Caught it once; stepped in too hard when I did. Is it fear or is it arithmetic? I don't know that they're different things at this distance. Watch it. Don't argue with it until I know what it's for.*
+*Hesitation, the first time I've had to write the word, and it's in my feet, not my head. Against the dock partner at speed, imagining a burst with no wind-up, the weight hangs back on the heels for a half-beat, as if waiting to be told something by somebody who isn't there; three times in thirty minutes; caught it once, and stepped in too hard when I did. Is it fear or is it arithmetic? At this distance I don't know that they're different things. Watch it, and don't argue with it until I know what it's for.*
 
 But that was later, at dusk. Before dusk came the market, and the market had heard by noon, exactly as Dace had said it would.
 
@@ -122,7 +124,7 @@ He laughed out loud in the street, which made a woman with a basket look round.
 
 It went on like that the whole length of the row. Nobody said the visitor's name to him, and nobody needed to. The chestnut man gave him two chestnuts for the price of one and would not take the other copper. The mending-stall woman looked at him over her iron spectacles as he passed, and said *lad* in a voice that meant several things at once, one of which was plainly *I hope you know what you're doing*. A boy he did not know ran past him on the market steps and shouted *up the river!* as if it were a game, and was gone before Cael could see his face. By the time he reached the baker's door he understood that the district had decided something about the fight before he had decided anything about it himself, and that what it had decided was that the fight was partly theirs.
 
-At the corner by the triangle boards the betting man had a fresh square of chalk on his slab, with the visitor's name across the top in capitals. He did not have Cael's name under it yet. He had a long line of figures down the side that he kept rubbing out with the heel of his hand and writing again.
+At the corner by the triangle boards the betting man had a fresh square of chalk on his slab, with the visitor's name across the top in capitals and no name of Cael's under it yet, only a long line of figures down the side that he kept rubbing out with the heel of his hand and writing again.
 
 "I can't price you," he said, when he saw Cael reading it. He sounded aggrieved. "Nobody's seen him. How'm I to price a man nobody's seen? I've got practitioners in here all morning telling me what Iron rank eight means, and I've got the whole row telling me you're ours. And none of them has laid eyes on him." He rubbed out another figure. "Give me a week. I'll have a line by Monday if it kills me."
 
@@ -190,7 +192,7 @@ He looked down the table at the household: the sister, the heavyset man's wife, 
 
 "Dace has given this to the main floor. An outside Iron, who came down the river on his own money to ask for you by name. Dace isn't lighting every lamp in the place to be kind." Brom spoke carefully, choosing each word as if it would cost him. "Everybody on this hill who cares about a fight will know about this one a week before it happens. They'll remember how it went for years after they've forgotten every other card this season. Win or lose, it'll be the night they think of when they hear your name." He looked at Cael. "So it's not only about winning. It's what people decide you are, after. You've been building that since you came down the hill without ever meaning to. Now it gets weighed in one night, in front of everybody, by a man who's never seen you." He picked up the spoon. "You knew that already. I'd rather it was said once, at the start, at this table, so that none of us needs to say it again."
 
-The kitchen was very quiet. The range ticked as it cooled.
+The kitchen was very quiet, and the range ticked as it cooled.
 
 "Well," said the heavyset man from behind his bill, after a while, "I'll be there," and turned the page.
 

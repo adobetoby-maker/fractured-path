@@ -50,7 +50,9 @@ He saw the second knuckle of the left. He saw her close it hard and her mouth go
 
 "It's talking. I told you it talks." She put the staff against the wall. "It'll talk for a week whether I use it or not, and I'd rather it talked doing something." She looked at him, and saw him looking, and something in her face went short. "Don't. I'm not made of glass because I lost to a Bronze. Same time tonight, after supper. Eat first."
 
-She went out under the arch. He sat on the bench and watched the place where she had been, and found that he had been holding the knock shut all hour without once thinking about it, the way he had held it shut through the whole of her bout with Maud. She had not given him leave. He had not asked.
+She went out under the arch. He sat on the bench and watched the place where she had been, and found that he had been holding the knock shut all hour without once thinking about it, the way he had held it shut through the whole of her bout with Maud. She had not given him leave, and he had not asked.
+
+He sat on a while longer with his ribs and forearms singing and thought about what she had said, *be moving when it comes*, and about Maud standing in the middle of her own footprints while Lira went round and round her. It was strange to be taught a thing by somebody who had only learned it a fortnight ago, on the wrong end of it, with the backs of her hands. It was stranger still to see that she was giving it to him before she had properly finished learning it herself, while it still hurt. He did not know whether that was generous or only Lira, and he suspected that with her there was not much difference.
 
 ---
 
@@ -67,6 +69,8 @@ Cael stood very still.
 "I'll not take you," said the dock partner. "I'll tell the big one where the cooper's is. Your friend can go and ask him himself. If he says no, that's his to say." He took the staff off his shoulder. "I'd say no. I want you to know that. I'd say no and I'd mean it, and I'd still think about it all night after."
 
 He went past Cael down into the alcove, and Cael heard him begin on the post alone, slowly, a man working at something with nobody to hit him back.
+
+Cael stood on the step a while longer with the cold coming up off the stone. He had known the dock partner for a year as a broad back and a broken nose and a mark an hour, a man who came at first light and hit Lira for exactly as long as he had been paid to and went home. He had never once wondered where the man had been sent before the docks, or why he had come down the hill, or what it cost him to stand at the arch every morning in front of a girl who was going somewhere he had not been allowed to go. Now he knew a little of it, and only because somebody he was fond of needed something. He did not much like what that said about the way he had been looking at people.
 
 ---
 
@@ -113,7 +117,7 @@ Twelve rings.
 
 "Three in five." Brom nodded. "Better than half. That's the stillness buying it, and the closeness. It'll go down when we take those away." He sat on the bench. "Tomorrow, again, the same. The day after, the same, till it's four in five. Then I'll start moving."
 
-Cael sat beside him with the band coming up behind his eyes, thin and familiar. He looked at the back of his hand.
+Cael sat beside him with the band coming up behind his eyes, thin and familiar, and looked at the back of his hand.
 
 "It tells me something's coming," he said. "When it answers. That you mean it, and that it's going forward. It doesn't tell me much more than that."
 
@@ -149,7 +153,7 @@ The man looked at them both for a while before he answered. He was perhaps twent
 
 "Ansel," he said at last. "I've not eaten. There's a cookshop by the eel market does a stew. If you're buying, I'll tell you once, and then I'd like you not to ask me again."
 
-They sat at the end of the cookshop's long board, the three of them, with the stew in front of them and the steam going up. Ansel ate two spoonfuls and then sat with the spoon in his hand and did not eat any more. Brom, who never left food, ate nothing either, and after a while Cael understood that this was manners and put his own spoon down.
+The cookshop was full of dockers and carters at that hour, loud and warm, with the windows running wet and the long board crowded at one end, and the cookshop man gave them the far end without being asked because he had seen Ansel's face. They sat there, the three of them, with the stew in front of them and the steam going up. Ansel ate two spoonfuls and then sat with the spoon in his hand and did not eat any more. Brom, who never left food, ate nothing either, and after a while Cael understood that this was manners and put his own spoon down.
 
 "Three years ago," said Ansel. "Up the river, at the autumn invitational. I was at a house on the coast then. Bronze. They sent me up because I was quick, and because I'd beaten everything they'd put in front of me that year, and they thought I'd do them credit." He turned the spoon over. "I was a better fighter that autumn than I've been any day since. I want you to know that, so you know what it means."
 
@@ -191,13 +195,13 @@ Brom sat looking at the two coppers for a long time. Then he picked up Ansel's b
 
 ---
 
-Cael sat at the crate desk that night a long time with the Log open and the stub of the knock tally still grey on the back of his hand.
+Cael sat at the crate desk that night a long time with the Log open and the stub of the knock tally still grey on the back of his hand, listening to the house settle round him, the sister's hen shifting in the coal box below and the heavyset man's slow tread on the stair, and did not write anything at all until the house was quiet.
 
 He wrote the twelve in twenty first, because it was a number and numbers were easy. Then he wrote Ansel's words, exactly, on a line by themselves near the top of the new page. He looked at them for a long time. They were four words, and he had spent a year building a method, a notebook, a whole way of being in a room, and the four words said most of it, plainly, and said it backwards.
 
 *Survive first. Think second.*
 
-He had always thought first. That was the method. He sat on a bench and thought for four months, and then stood up and survived on what he had thought. But against a man he could not watch, the bench would have to happen on the floor, under the man's hands, and the only way to get the time to think at all was to be alive and standing at the end of each exchange. Survival was not the opposite of the method. It was what would buy the method its time.
+He had always thought first; that was the method. He sat on a bench and thought for four months, and then stood up and survived on what he had thought. But against a man he could not watch, the bench would have to happen on the floor, under the man's hands, and the only way to get the time to think at all was to be alive and standing at the end of each exchange. Survival was not the opposite of the method. It was what would buy the method its time.
 
 Lira knocked on his door frame on her way to bed, still in her shirt with her staff over her shoulder, and he showed her the line.
 
