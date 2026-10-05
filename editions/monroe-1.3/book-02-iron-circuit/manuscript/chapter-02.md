@@ -18,7 +18,7 @@ She weighed them. She put her thumb on nothing, which was her way of being frien
 
 "Don't try too hard." She had already looked away, back up the row, where a woman was haggling with the bearded fish cousin over something that had clearly been a good fish yesterday. "A boy that never limps isn't learning anything."
 
-He went up the row eating a pear and thinking about that. It was the kind of thing people in the district said to him more and more, as if word had gone round that the Hesk-ward boy collected sayings and would write them down, which was true. Hesk had said much the same in his own way in the workshop at home, with a cracked housing in his hands: *a thing that's never failed has never been loaded*. Lira said it every morning in the alcove with her staff, in one word, which was *again*. Here was the fruit woman saying it over a basket of pears. He had begun to suspect the whole of Valdris was saying it, in a thousand different accents, and that most people simply did not stop to hear it.
+He went up the row eating a pear and thinking about that. People in the district said that kind of thing to him more and more. Word had gone round that the Hesk-ward boy collected sayings and would write them down, which was true. Hesk had said much the same in his own way in the workshop at home, with a cracked housing in his hands: *a thing that's never failed has never been loaded*. Lira said it every morning in the alcove with her staff, in one word, which was *again*. Here was the fruit woman saying it over a basket of pears. He had begun to suspect the whole of Valdris was saying it, in a thousand different accents, and that most people simply did not stop to hear it.
 
 At the top of the row Red Cap was selling chalk.
 
@@ -32,11 +32,11 @@ He was selling it out of a cloth bag at a copper a stick. He sold it to the figh
 
 "I'll tell them less," said Red Cap, satisfied, and went off up the lane shouting *chalk*.
 
-Cael turned the stick over in his fingers as he walked, and turned something else over with it. It was a question he had carried for months without spending, the way he carried most of his questions now. He had learned that a question asked before he had done his own looking bought a worse answer than the same question asked after. The person answering could tell how much work you had done and pitched the answer to match.
+Cael turned the stick over in his fingers as he walked, and turned something else over with it. It was a question he had carried for months without spending, as he carried most of his questions now. He had learned that a question asked before he had done his own looking bought a worse answer than the same question asked after. The person answering could tell how much work you had done and pitched the answer to match.
 
 He had done the looking. He could have drawn the ladder from memory on a slate. A newcomer went into Vell's book as *unrated*, with nothing after it, though they came with a cart full of honours. After two bouts under her eye they became *Assessed*, and she put a metal beside the word, and never after one bout, in all the year he had watched. Above that came the rungs proper, and the rungs wore the Compact's own names with a tail tied on, *Copper-equivalent* and *Iron-equivalent* and *Bronze-equivalent*, and stopped there, because anyone who could climb past Bronze-equivalent was being paid better by somebody with a roof that did not leak.
 
-The joint he could not see was the one between the two systems. Her rungs said *Copper* and *Iron* as though those words were hers to use, and the whole building treated them as though they were. Somewhere there had to be a place where her word was fastened to the Compact's, or it was all only a woman with a book, saying things.
+The joint he could not see was the one between the two systems. Her rungs used the words *Copper* and *Iron* freely, and the whole building took them at her word. Somewhere there had to be a place where her word was fastened to the Compact's, or it was all only a woman with a book, saying things.
 
 ---
 
@@ -76,7 +76,7 @@ He did the sum standing there, because he could not stop himself. Thirty years o
 
 ---
 
-He did not have to ask about the rule. She told him, while she put the book back, as though it had been next on a list.
+He did not have to ask about the rule. She told him while she put the book back; it seemed to be next on her list.
 
 "You know what we say before a bout. Nobody dies in the circle." She slid the volume into its gap with her palm flat on the spine. "People think that's me being kind. It isn't. Or it isn't only. The day somebody dies on Dace's floor, the Compact gets something it's never had from us, which is a reason it can write down. A body is a reason. And once they've a reason, they'll come in with seals and take the ledger for evidence, and that's this room gone. The circuit will start again somewhere, under a new name, with a new keeper and a new book that knows nobody." She turned. "So I stop bouts. Three, in thirty years. Three times I've walked into the circle and put my hand up and said *done*, and three times the person I did it for walked out of the building on their own feet."
 
@@ -84,7 +84,7 @@ He did not have to ask about the rule. She told him, while she put the book back
 
 She took a while over that, and he waited for her.
 
-"You watch where they mean to fall," she said at last. "A fighter who's losing still has a plan for the floor. You can see it. When the blow comes they're already choosing which shoulder, which hand, how to come up. They're bargaining. And then there's the other one, who's stopped bargaining. Their body isn't arranging anything any more. It's only standing there, quite still, waiting for something it already knows about, the way a dog waits at a door." She shook her head. "It's quiet. That's the thing nobody tells you. The one about to be hurt is the quiet one."
+"You watch where they mean to fall," she said at last. "A fighter who's losing still has a plan for the floor. You can see it. When the blow comes they're already choosing which shoulder, which hand, how to come up. They're bargaining. And then there's the other one, who's stopped bargaining. Their body isn't arranging anything any more. It's only standing there, quite still, waiting for something it already knows about." She shook her head. "It's quiet. That's the thing nobody tells you. The one about to be hurt is the quiet one."
 
 He thought of the yard in the spring, and of her standing over a man in the raked groove, counting aloud at the pace she had counted at all her life, and three hundred people going still to hear her.
 
@@ -94,13 +94,13 @@ He thought of the yard in the spring, and of her standing over a man in the rake
 
 He did not know what to say to that, and she did not seem to need him to say anything. She drank the last of her tea, which must have been cold for a quarter of an hour, and made a face at it.
 
-He kept that word for word. That evening he wrote it on a page near the back of the observation book that had no heading yet, a page for things that lived underneath technique and underneath Path, in the plain animal of the body. There were three things on it already: the hum of a planted foot in the ground, a held breath before a feint, and the way his own neck nodded before he struck. Now there was a fourth, and it had come out of thirty years of watching he could never have done himself, handed to him across a desk as if it were nothing.
+He kept that word for word. That evening he wrote it on a page near the back of the observation book that had no heading yet, a page for things that lived underneath technique and underneath Path, in the plain animal of the body. There were three things on it already: the hum of a planted foot in the ground, a held breath before a feint, and the way his own neck nodded before he struck. Now there was a fourth, and it had come out of thirty years of watching he could never have done himself, handed to him across a desk for nothing.
 
 There was one more thing he wanted, and he was not sure he had the right to it, and he asked it anyway, because she had brought him in here and shut the door.
 
 "Ulric's guild has him on paper as six years trained, Copper formal, a credit to his station. Your book has him on its back on your floor with his hand up. If somebody from his guild came in here and said your book was wrong about him, that their paper was the real thing and yours was a story, what would you say?"
 
-Vell looked at him for a long time without any weighing in it.
+Vell looked at him, and there was no weighing in it.
 
 "The Compact's Registry is a lie about who people are," said Vell. "My ledger is the truth. These fights happened. These results are real. Nobody gets to say otherwise."
 
@@ -194,4 +194,4 @@ Then, under it all, he wrote something that was not a fact, and boxed it, so tha
 
 *Nobody made them build it honest. People the registry wouldn't let in built this out of nothing but a book and a slate, and they could have built it to sell. Every day somebody in that building chooses not to, and that's all that holds it up. The record is only as straight as the hand that keeps it.*
 
-He looked at it for a while, and then put a small star beside the box, the first star in the new book, and sat with the lamp until the oil began to smell.
+He looked at it, and then put a small star beside the box, the first star in the new book, and sat with the lamp until the oil began to smell.

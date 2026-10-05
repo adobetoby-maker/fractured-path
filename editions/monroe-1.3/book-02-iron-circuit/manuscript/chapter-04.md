@@ -18,7 +18,7 @@ The benches filled toward the hour, as they did. By the time Vell came out of th
 
 The man stood up, put the paper in his inside pocket, and crossed the floor.
 
-He did it well. He had clearly practised the walk: shoulders back, chin level, not fast, not slow. He stopped in front of Vell's table at exactly the distance a man stops at who wishes to be overheard.
+He did it well. He had clearly practised the walk: shoulders back, chin level, not fast, not slow. He stopped in front of Vell's table at the distance a man chooses when he wishes to be overheard.
 
 "Last night's result," he said, "was corrupted."
 
@@ -54,9 +54,9 @@ It was Dessa, the Stone fighter Cael had met twice in his first months and beate
 
 "One question, and loud enough for the room. Who was Orvet shouting at?"
 
-Dessa thought about it honestly, which with her always took a moment, and then she said, in a voice that carried to the bookmakers' corner, "Both of them. He told the girl to keep her weight back. Then he told this one to stop dropping his elbow, which was good advice, and he didn't take it."
+Dessa thought about it, which with her always took a moment, and then she said, in a voice that carried to the bookmakers' corner, "Both of them. He told the girl to keep her weight back. Then he told this one to stop dropping his elbow, which was good advice, and he didn't take it."
 
-Somebody near the back laughed, and then several people did, and the man in the academy coat went a slow dark red from the collar up.
+Somebody near the back laughed, and then several people did, and the man in the academy coat went a slow dark red.
 
 Vell set her pen down.
 
@@ -92,7 +92,7 @@ He did not go to her table until the card was done and the benches were emptying
 
 "Near enough. Thirty years is a lot of practice at a small number of arguments." She blotted. "There aren't many ways for a man to tell you he lost unfairly. When you've heard them all, you stop needing to think. You only need to do it in front of people, so they can see it's the book deciding and not me."
 
-He had written it as four steps, on the page, with a box round them. First, strip the claim down to a question about a fact, so that it could not stand up on its adjectives. Second, go to the record, with your hands, where people can see you do it, even when you know the answer, because the going is what makes it the record's answer and not yours. Third, if it is needed, call one witness by name and ask one question that anybody can hear. Fourth, put the pen down and say it plainly, once, and pick the pen up again.
+He had written it as four steps, on the page, with a box round them. First, strip the claim down to a question about a fact, so that it could not stand up on its adjectives. Second, go to the record, with your hands, where people can see you do it, even when you know the answer, because the going is what makes it the record's answer and not yours. Third, if it is needed, call one witness by name and ask one question that anybody can hear. Fourth, put the pen down and say it once, in as few words as it takes, and pick the pen up again.
 
 He showed it to her. She read it, and pushed it back.
 
@@ -172,7 +172,7 @@ She cooked the way she fought, all at once and with total commitment, in a singl
 
 "I knew she didn't. She never has to. That's what makes it frightening." She stirred. "Renn's telling everybody about the elbow. He wasn't even there. He's very pleased with the elbow."
 
-He sat down at the end of the table in the back kitchen with the grey book, and did not open it, and watched her cook. Then, because it had been sitting in him all evening, under the dispute and the cupboard and the sweep, the way a stone sits in a boot, he said it.
+He sat down at the end of the table in the back kitchen with the grey book, and did not open it, and watched her cook. Then, because it had been sitting in him all evening, under the dispute and the cupboard and the sweep, he said it.
 
 "I want to run the landing."
 
@@ -208,7 +208,7 @@ She took the pan off the heat and turned round and leaned against the stove with
 
 "Hit what you'd hit. If I only get hit where it's polite, I'll learn what's polite."
 
-She looked at him for a while with the spoon in her hand. Somewhere in the front of the house the heavyset man said something to somebody about onions, loudly, in the voice of a man who has opened a window and wants it known.
+She looked at him with the spoon in her hand. Somewhere in the front of the house the heavyset man said something to somebody about onions, loudly, in the voice of a man who has opened a window and wants it known.
 
 "All right," said Lira. "The collarbone, mostly. You'll be sorry."
 

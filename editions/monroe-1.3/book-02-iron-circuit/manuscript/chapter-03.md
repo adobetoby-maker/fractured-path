@@ -6,7 +6,7 @@ He had started it in the old Log, in his first autumn, after a man in a grey coa
 
 There was the pin man, and the dark coat off the west cart who had asked for him by his whole name. There was Coss, who had sat across a pie from him and told him about a daughter. There was the woman Ilsev, at a table, with a little black book with a strap. And under them, as the months went on, there were the sweeps.
 
-They had come through the district a few times a season when he first arrived, and nobody had paid them much mind. Then, half a year ago, they had begun to come more often, and nobody in the district could say why, and everybody in the district had an opinion. He had written down the dates. Some months there were three. One month there had been five. He had looked at the column of dates for a long time one evening and then made himself stop looking. There was a thing he wanted to write beside it and he had no evidence for it at all, and a thing with no evidence did not go on the page, however loud it was in his head.
+They had come through the district a few times a season when he first arrived, and nobody had paid them much mind. Then, half a year ago, they had begun to come more often, and nobody in the district could say why, and everybody in the district had an opinion. He had written down the dates. Some months there were three. One month there had been five. One evening he had looked at the column of dates until he had to make himself stop. There was a thing he wanted to write beside it and he had no evidence for it at all, and a thing with no evidence did not go on the page, however loud it was in his head.
 
 What did go on the page was how they moved. *Always two. One of them writes. Better boots on the one who doesn't. Mid-morning, never early, never late.* He had seen four sweeps whole, from start to finish, and parts of several more, and each one had walked the district as if it were following a line painted on the cobbles that only the officers could see.
 
@@ -48,9 +48,9 @@ And the children had gone.
 
 He noticed it the way you notice a clock has stopped: not at the moment, but a while after, when the silence has been going on long enough to have a shape. On an ordinary morning there were children everywhere in the market, under the stalls and on the steps and darting between legs with messages and stolen apricots. Now there were none. The lane at the top of the row, which he could see from the step, was as empty as a church on a Monday.
 
-Then the two coats came round the corner by the well, and he saw why. Half a street behind them, peering out from the mouth of an alley they had just passed, were three of the smallest boys from the east lanes, who had vanished in front of the officers and reappeared, as if by magic, the moment they had gone by.
+Then the two coats came round the corner by the well, and he saw why. Half a street behind them, peering out from the mouth of an alley they had just passed, were three of the smallest boys from the east lanes, who had vanished in front of the officers and reappeared the moment they had gone by.
 
-The officers walked side by side, at the same steady pace, as if they were measuring the street. Both wore the long grey coat with the collar pin, a little silver mark that caught the light. The one on the left was younger and thinner and carried a flat leather case in his left hand and a pencil in his right. The one on the right was older and walked half a pace slower and carried nothing at all, and his boots were better. Cael looked at the boots first, because the boots told you which of two officials you had to watch; the one with good boots did not take notes, because somebody took them for him.
+The officers walked side by side, at the same steady pace. Both wore the long grey coat with the collar pin, a little silver mark that caught the light. The one on the left was younger and thinner and carried a flat leather case in his left hand and a pencil in his right. The one on the right was older and walked half a pace slower and carried nothing at all, and his boots were better. Cael looked at the boots first, because the boots told you which of two officials you had to watch; the one with good boots did not take notes, because somebody took them for him.
 
 They came down the row. The left-hand one looked at each stall as they passed it, and sometimes wrote, and once asked the bearded cousin a question Cael could not hear. The bearded cousin answered it with his whole face, shaking his head and pointing back at the river as if it were the river's fault. The right-hand one looked at nothing in particular, and therefore at everything.
 
@@ -74,7 +74,7 @@ That was the strangest thing on the officials page, and the most useful. Every s
 
 So he went home by the back lanes and got there first, and went up the narrow stairs to the two back rooms, and did not go to the window at the back. He went to the small window on the landing at the front, which looked down the length of the row from the end. He had found it in his first week in the house and had sat there with his book a hundred evenings since. If anybody looked up from the row, they would see what they always saw, which was a boy on a landing with a book.
 
-The heavyset man was on his front step, as he always was. He had his arms folded on his chest and his hat pushed back. He was watching the end of the row with exactly the face he used for weather.
+The heavyset man was on his front step, as he always was. He had his arms folded on his chest and his hat pushed back. He was watching the end of the row with the face he used for weather.
 
 The coats came round the corner a quarter of an hour later.
 
@@ -92,7 +92,7 @@ The one with good boots said something to the heavyset man. The heavyset man ans
 
 Cael sat on the landing with the book open on his knee and found he had read the same line eleven times.
 
-He had not hidden. That was the thing he kept turning over. He had been exactly where the lodgers' book said he lived, on the morning the procedure came to read the lodgers' book, and the procedure had read it and gone away satisfied, because everything was where a procedure would expect it to be. Suppose he had been anywhere else: on the cooper's roof, or by the river, or at the far end of the district. Then there would have been an empty room behind a name in a book, and an empty room was a question. A boy on a landing with a book was not a question. A boy on a landing with a book was nothing at all.
+He had not hidden. That was the thing he kept turning over. He had been where the lodgers' book said he lived, on the morning the procedure came to read the lodgers' book, and the procedure had read it and gone away satisfied, because everything was where a procedure would expect it to be. Suppose he had been anywhere else: on the cooper's roof, or by the river, or at the far end of the district. Then there would have been an empty room behind a name in a book, and an empty room was a question. A boy on a landing with a book was not a question. A boy on a landing with a book was nothing at all.
 
 ---
 
@@ -124,7 +124,7 @@ He looked at the name in his book, bare. He looked at the ring on the wall.
 
 "How do you hold it?" said Cael. "All of it. I copied the whole wall two days ago, sitting down, with a pencil, and I still didn't have the mangle."
 
-Dace looked at him sidelong, as if deciding whether the question was worth the breath, and seemed to decide that it was.
+Dace looked at him sidelong, weighing whether the question was worth the breath, and seemed to decide that it was.
 
 "Faces," he said. "I can't keep a list in my head any better than you can. Nobody can. But I can keep a room." He nodded at the benches, empty now in the grey light from the high windows. "The Shield boy told me about his mother's mangle sitting on the third bench from the barrel, with his elbows on his knees, looking at the floor because he was ashamed of it. So I put the ring on the wall, and I put the ring on him, on that bench, in my head. When I want it back, I go and look at the bench." He shrugged. "The whole wall's in this room somewhere, if you know where people sat when they told you things. I've been sitting people down on those benches for twelve years."
 
@@ -158,7 +158,7 @@ Lira stopped chewing.
 
 "You didn't cross the street this morning."
 
-"No," said Lira, and looked surprised, as if she had only just noticed. "No, I hit the post."
+"No," said Lira, and looked surprised. "No, I hit the post."
 
 He wrote the last part slowly, because it was the part that mattered, and he wanted to get it right in case he needed it some morning when he was frightened.
 

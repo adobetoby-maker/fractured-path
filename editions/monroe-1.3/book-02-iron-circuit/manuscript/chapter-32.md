@@ -14,7 +14,7 @@ There was a small silence, and the sister put down her cup, and the heavyset man
 
 "The big one," said the sister. "The one who did the legs."
 
-"The one who did the legs," Lira agreed. She went on eating. "He's coming to supper. I've asked him. I asked him yesterday at the corner and he said yes as if I'd asked him the time, and I'm cooking, and that's all."
+"The one who did the legs," Lira agreed. She went on eating. "He's coming to supper. I've asked him. I asked him yesterday at the corner and he said yes before I'd finished asking, and I'm cooking, and that's all."
 
 Cael, who had not known any of this, looked at her across the table, and she did not look back; she had the face she wore on a mark before *begin*, the one that had decided a thing and did not wish to discuss it.
 
@@ -22,7 +22,7 @@ He asked her about it that evening on the landing, quietly, so that the sister w
 
 "You asked him."
 
-"I asked him." Lira was mending a strap and did not look up. "He's eaten yesterday's bread on that wall every day for a month, and he's paid a week ahead at the carters' inn, and he's never once in your hearing said anything about anybody feeding him." She bit off the thread. "And you sit with him every morning and come home with your arms blue and you've stopped telling me what he says unless I ask. So I'm going to sit across a table from him and find out for myself."
+"I asked him." Lira was mending a strap and kept her eyes on it. "He's eaten yesterday's bread on that wall every day for a month, and he's paid a week ahead at the carters' inn, and he's never once in your hearing said anything about anybody feeding him." She bit off the thread. "And you sit with him every morning and come home with your arms blue and you've stopped telling me what he says unless I ask. So I'm going to sit across a table from him and find out for myself."
 
 "You said you'd find out what he was on your own time."
 
@@ -38,7 +38,7 @@ He could smell it from the corner of the row: onions, and something under the on
 
 "She's burning it down," said the sister, and flapped the door.
 
-In the kitchen the heavyset man's wife was standing back from the range with her arms folded, as a farmer watches a neighbour plough a field crooked and has decided not to say anything until the furrow is finished. Lira was at the range with her single iron pan, the one she would not let anybody else in the house touch, and her sleeves pushed to the elbow, and her face red from the heat and from something else. The pan held barley and mutton and a great many onions, some of them very dark.
+In the kitchen the heavyset man's wife was standing back from the range with her arms folded, saying nothing, and meaning to go on saying nothing until it was finished. Lira was at the range with her single iron pan, the one she would not let anybody else in the house touch, and her sleeves pushed to the elbow, and her face red from the heat and from something else. The pan held barley and mutton and a great many onions, some of them very dark.
 
 "It's meant to be like that," said Lira, before he could say anything.
 
@@ -52,9 +52,9 @@ In the kitchen the heavyset man's wife was standing back from the range with her
 
 So he laid the little table from the landing, in Lira's room, with the two plates and the two bowls the house would lend and a third plate of his own that did not match. He put the three cups where they would go and moved the lamp twice, and found he was more nervous about it than he had been about the Shield, and could not have said why.
 
-Brom came at the hour exactly, with frost on his coat and a jar under his arm.
+Brom came on the hour, with frost on his coat and a jar under his arm.
 
-He stood in the doorway of Lira's room and looked at it: the narrow bed, the little table with its three odd plates, the staff in the corner and the spare one behind it, the window with the alcove lamp a small far light below. He looked at all of it the way he had looked at Vell's book on his first day, from the front, as if he meant to read it to the end.
+He stood in the doorway of Lira's room and looked at it: the narrow bed, the little table with its three odd plates, the staff in the corner and the spare one behind it, the window with the alcove lamp a small far light below. He looked at all of it from the front, as he had looked at Vell's book on his first day.
 
 Then he held out the jar.
 
@@ -68,13 +68,13 @@ It was a big stone jar with a wooden lid tied down with string, and something mo
 
 "Pickled what?"
 
-Brom considered the jar as though he had not, himself, entirely settled the question. "A trade," he said.
+Brom considered the jar. He did not seem to have settled the question himself. "A trade," he said.
 
 "A trade for what?"
 
 "For a thing I did for a carter." He untied the string. "He said they were the best he'd ever had. He's from the north. I've found they mean something different by *best* up there."
 
-Lira took the lid off and looked into the jar for a long time.
+Lira took the lid off and looked into the jar.
 
 "Some of those are eggs," she said.
 
@@ -86,7 +86,7 @@ Lira took the lid off and looked into the jar for a long time.
 
 She did not know, but she took one out with a fork and turned it in the lamplight, and then another, and set them on the edge of a plate in two small rows according to some private judgement of her own. Then she went down for the pan.
 
-It was a good supper; Cael would think so afterward, and he thought so at the time, which was rarer. The barley was soft and the mutton was not, quite, and the dark onions tasted, as Lira had promised, of something, though it was not clear what. Brom ate two bowls of it without a word and then a third with several, all of them in praise. He said it was the first hot meal he had eaten sitting at a table since he left the river city, and he said it plainly, as a fact, without asking anybody to be sorry. Lira went pink and said that it was mostly onions. They balanced the bowls on their knees because the little table would not take the bowls and the pan and the jar at once, and the jar would not leave.
+It was a good supper; Cael would think so afterward, and he thought so at the time, which was rarer. The barley was soft and the mutton was not, quite, and the dark onions tasted, as Lira had promised, of something, though it was not clear what. Brom ate two bowls of it without a word and then a third with several, all of them in praise. He said it was the first hot meal he had eaten sitting at a table since he left the river city, and he said it as a fact, without asking anybody to be sorry. Lira went pink and said that it was mostly onions. They balanced the bowls on their knees because the little table would not take the bowls and the pan and the jar at once, and the jar would not leave.
 
 After the second bowl Brom sat back on the trunk Lira had given him to sit on, with his cup in his hands, and looked round the room again.
 
@@ -100,9 +100,9 @@ After the second bowl Brom sat back on the trunk Lira had given him to sit on, w
 
 "Maybe." Brom looked into his cup. "Or nowhere ever made me want to leave a coat on a chair."
 
-He said it the way he said everything, flat, as if it were the price of bread. But it sat in the room for a moment afterward, and Cael saw Lira see it. She did not say anything, but got up and took the jug off the floor and filled Brom's cup, which was not empty, and sat down again. Brom looked at the cup and then at her, and nodded once, and that was all.
+He said it flat, as he said everything. But it sat in the room for a moment afterward, and Cael saw Lira see it. She did not say anything, but got up and took the jug off the floor and filled Brom's cup, which was not empty, and sat down again. Brom looked at the cup and then at her, and nodded once, and that was all.
 
-They talked about nothing for a while after that, which was the best part. Brom told them about the carter and the thing he had done for him, which turned out to be lifting the back of a loaded cart out of a ditch on the north road on his own while the carter held the horse. Lira told them about the sister's hen, which had laid an egg on the coal-box lid that morning in full view of the kitchen, as if to make a point. Cael told them about Dace's tick and the betting man's prices, eleven to four, and Brom laughed his short laugh through his nose, and Lira wanted to know why Cael had never told her, and he said he had only just finished counting. Through the floor they could hear the sister telling somebody about the smoke.
+They talked about nothing after that, which was the best part. Brom told them about the carter and the thing he had done for him, which turned out to be lifting the back of a loaded cart out of a ditch on the north road on his own while the carter held the horse. Lira told them about the sister's hen, which had laid an egg on the coal-box lid that morning in full view of the kitchen, to make a point. Cael told them about Dace's tick and the betting man's prices, eleven to four, and Brom laughed his short laugh through his nose, and Lira wanted to know why Cael had never told her, and he said he had only just finished counting. Through the floor they could hear the sister telling somebody about the smoke.
 
 It was in the lull after that, while Lira was sorting the jar a second time, that Cael tried it.
 
@@ -112,7 +112,7 @@ He had not planned to, and he would think about that afterward, and be honest wi
 
 But the room was very quiet. He was sitting still, with a full stomach and his cup in his hands and his back against the wall, and there was nothing on earth he wanted to aim at. Across the little table, an arm and a half away, sat the one strong signature he had spent a fortnight learning. It was the exact opposite of the morning in the Ironyard: one man instead of thirty, a quiet room instead of a crowd, sitting instead of standing, and nothing riding on it. He thought, *this is the other end of the scale*, and that was the last thing he thought before the door came open.
 
-It came open easily, which surprised him. He had sat for half an hour on the alcove floor some mornings to get it, and here it simply opened, the way a door opens that was not quite latched, and Brom was there, a great warm weight on the front of him across the table.
+It came open easily, which surprised him. He had sat for half an hour on the alcove floor some mornings to get it, and here it simply opened, a door that was not quite latched, and Brom was there, a great warm weight on the front of him across the table.
 
 And Brom was not resting.
 
@@ -130,7 +130,7 @@ At eight Brom lifted his eyes from his cup and looked straight at him across the
 
 Cael let it go. The door shut. "Yes."
 
-"I can feel it." Brom did not sound angry. He sounded the way he had sounded about the bruise, interested, and a little pleased, and something else. "Not much. Like somebody standing too close behind me in a queue." He drank. "Your range is terrible."
+"I can feel it." Brom did not sound angry. It was the voice he had used about the bruise: interested, and a little pleased, and something else. "Not much. Like somebody standing too close behind me in a queue." He drank. "Your range is terrible."
 
 "I know. An arm and a half. Sitting. In a quiet room." The band was arriving; he felt it gather behind his eyes and closed them. "That's all of it there is."
 
@@ -148,7 +148,7 @@ The band was bad, and he sat through the worst of it with his eyes shut and his 
 
 Brom turned his cup on his knee.
 
-"No," he said, after a while. "Not since the boat shed. Before that I could shut it, if I went somewhere quiet and tried. Somewhere that winter it stopped needing me to do anything, and then I couldn't stop it either." He seemed to look at the thing he was describing, somewhere a little in front of his face. "I don't notice it. It's like breathing. I only notice it when it finds something." He looked at Cael. "Nobody's ever known it was there. Two years of rooms full of people, and not one of them could tell. You're the first."
+"No," he said. "Not since the boat shed. Before that I could shut it, if I went somewhere quiet and tried. Somewhere that winter it stopped needing me to do anything, and then I couldn't stop it either." He seemed to look at the thing he was describing, somewhere a little in front of his face. "I don't notice it. It's like breathing. I only notice it when it finds something." He looked at Cael. "Nobody's ever known it was there. Two years of rooms full of people, and not one of them could tell. You're the first."
 
 "I should have asked."
 
@@ -164,7 +164,7 @@ Brom was quiet for a while.
 
 "You went into me." Brom did not make it heavier than it was. "Ask, then. Next time. I'll mostly say yes." The corner of his mouth went in. "It turns out I don't mind. I thought I would." He drank. "Being noticed. It's company, a bit."
 
-Lira had finished with the jar, and had two rows on the plate now and a third, very small, set apart from the others on the very edge, which she did not explain. She sat back on the bed with her cup, and Cael saw her look at Brom for a long moment in the lamplight, with no expression, as she had looked at him across the main floor on the night of the bout. Then something in her face settled.
+Lira had finished with the jar, and had two rows on the plate now and a third, very small, set apart from the others on the very edge, which she did not explain. She sat back on the bed with her cup, and Cael saw her look at Brom in the lamplight with no expression, the look she had given him across the main floor on the night of the bout. Then something in her face settled.
 
 "You talk like a farmer," she said to Brom. "Not like an estate."
 
@@ -176,7 +176,7 @@ Brom set down his cup on the little table, carefully, among the plates, and look
 
 "Your Wind," he said. "The one you fight with. It's not the Wind in the manuals."
 
-Lira went still. Cael saw her shoulders come up a finger's width, and saw her not let them go further, and knew what she was hearing. It was every instructor at Fenmark who had ever told her that a step was wrong because it was not the step in the book.
+Lira went still. Cael saw her shoulders start to come up, and saw her not let them, and knew what she was hearing. It was every instructor at Fenmark who had ever told her that a step was wrong because it was not the step in the book.
 
 "I changed it," she said. Her voice was flat. "It's better."
 
@@ -186,7 +186,7 @@ Lira went still. Cael saw her shoulders come up a finger's width, and saw her no
 
 "Not provisionally." Brom shrugged. "I read people for my living. You can tell me I'm wrong if you like. I won't be any less right."
 
-Lira stared at him. She looked, Cael thought, the way she had looked on the night of the clock, when Vell wrote *Matched pace* under her name: a person checking a gift for the catch in it. There was no catch; Brom had already gone back to his cup.
+Lira stared at him. She had the look, Cael thought, that she had worn on the night of the clock, when Vell wrote *Matched pace* under her name: a person checking a gift for the catch in it. There was no catch; Brom had already gone back to his cup.
 
 She turned her head and looked at Cael. There was something in her face he had not seen there since the winter on the straw, the morning a step had first come right for him and she had been gladder of it than he was.
 
@@ -280,7 +280,7 @@ Brom laughed his short laugh through his nose, and set his feet, and said, "Agai
 
 Cael watched them for most of a quarter-hour from the dark of the arch, and neither of them saw him; or, he thought, Lira had not, and Brom must have felt him come up on the read and had said nothing, because it was not his morning to be watched. Lira was hard on him, harder than she had ever been on Cael in the first winter, and she explained less. She would show it once at the speed she meant and once slowly and then not again, and when he got it wrong she told him exactly how, and when he got it right she said nothing at all and came round him faster.
 
-And Brom took it. That was what Cael kept watching. The man who had put him on the stone four times on the main floor stood on a chalk line in the lamplight and was told he had shown his whole back to a girl with a staff, and took it the way he took a light hit on the shoulder, without minding. Every time she said *again* he set his feet. Twice he asked a question, short and exact, the kind Cael would have asked. Once he got it so nearly right that Lira stopped halfway round him and stood still and looked at his feet for a long moment, and then said, "There. That. Do that a thousand times."
+And Brom took it. That was what Cael kept watching. The man who had put him on the stone four times on the main floor stood on a chalk line in the lamplight and was told he had shown his whole back to a girl with a staff, and took it the way he took a light hit on the shoulder, without minding. Every time she said *again* he set his feet. Twice he asked a question, short and exact, the kind Cael would have asked. Once he got it so nearly right that Lira stopped halfway round him and stood still and looked at his feet, and then said, "There. That. Do that a thousand times."
 
 "A thousand."
 
@@ -300,4 +300,4 @@ When the dock partner came in at the side door, broad and broken-nosed, with his
 
 "I know that now." Brom looked at his own boots. "My feet are terrible."
 
-"They're terrible," Cael agreed, "and so were mine," and Brom looked at him sideways, and the corner of his mouth went in, and they sat a while longer in the cold and watched Lira begin with the dock partner as if the last hour had been nothing at all.
+"They're terrible," Cael agreed, "and so were mine," and Brom looked at him sideways, and the corner of his mouth went in, and they sat a while longer in the cold and watched Lira begin with the dock partner without a pause.

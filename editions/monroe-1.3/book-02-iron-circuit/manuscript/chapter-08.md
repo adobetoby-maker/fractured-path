@@ -2,13 +2,13 @@
 
 He wrote it up that night, at the crate desk, with the door between the rooms open and Lira asleep on the other side of it, or pretending to be.
 
-He did not write it at once. He sat for a long time first with the Power Log open at the Wind entry and the lamp turned low. He looked at the line at the head of the page where he had copied the notice's fields three nights before. *Duration: undetermined.* His own hand, his best hand, careful and square. It was not wrong. It had been true when he wrote it. It had been true, as far as he knew, until about the middle of the morning, and then it had stopped being true, and nothing on the page had any way of saying so.
+He did not write it at once. He sat first with the Power Log open at the Wind entry and the lamp turned low. He looked at the line at the head of the page where he had copied the notice's fields three nights before. *Duration: undetermined.* His own hand, his best hand, careful and square. It was not wrong. It had been true when he wrote it. It had been true, as far as he knew, until about the middle of the morning, and then it had stopped being true, and nothing on the page had any way of saying so.
 
 That was the first thing he had to mend, and it was not a thing about the burst at all. It was a thing about the book.
 
 He had built the Power Log to hold what he knew. Six fields, three columns, an *h* for anything heard, the open questions given the most room. He had built it so that it would never say more than he had seen. What he had not built it for was the thing he had seen today: a fact that was true on one page and then, without his doing anything to it, not true on the next. He had built a book for a world that held still while he looked at it.
 
-So he did not cross out *undetermined*. He left it where it was, and drew a short line under the whole of the notice's fields, and under the line he wrote a new heading, small, the way Vell wrote *t.f.* in her margins:
+So he did not cross out *undetermined*. He left it where it was, and drew a short line under the whole of the notice's fields, and under the line he wrote a new heading, small, as Vell wrote *t.f.* in her margins:
 
 *REVISIONS.*
 
@@ -36,7 +36,7 @@ He stopped there, because the next part was the part that mattered, and he wante
 
 *I can't tell which. It matters which. If they change by themselves, whether I'm watching or not, then I am keeping a record of something that moves, and the record has to be built to catch it moving. If it's only my seeing that gets better, then the notices are only catching up with me, and that's a different thing, and it changes what I ought to be watching. Today, I can't tell. One revision doesn't tell me. Filed under open questions, at the front of the queue.*
 
-He read that back, and wrote the conditions under it, plainly, as he had written them on the wall by the dyers' steps. There was the new format three nights before; the five right-hip tries and their tolls; the nine more with Lira; the fan in chalk; an hour and a half of the closest attention he had ever paid to where the burst would go and where it would not. *Should a second revision come, set what led up to it beside this, line for line. If pressing at the edges is what does it, that's the most useful fact this book will ever hold. One morning doesn't entitle me to believe it.*
+He read that back, and wrote the conditions under it, as he had written them on the wall by the dyers' steps. There was the new format three nights before; the five right-hip tries and their tolls; the nine more with Lira; the fan in chalk; an hour and a half of the closest attention he had ever paid to where the burst would go and where it would not. *Should a second revision come, set what led up to it beside this, line for line. If pressing at the edges is what does it, that's the most useful fact this book will ever hold. One morning doesn't entitle me to believe it.*
 
 Then, last, he wrote the thing he had been thinking since Lira sat down on the bench and laughed about her farmer.
 
@@ -66,7 +66,7 @@ Then he told him the rest.
 
 *And I found out why the one from Lira only goes one way. It's because she only goes one way. And she only goes one way because the man who first taught her did. I'm carrying her habits, and his. I didn't know you could carry somebody's habits without ever meeting them.*
 
-He stopped there with the pen over the page for a while, because he could feel a question coming up under the last line that he did not want to write, and he did not want to not write it either. He sat with it until he was sure what it was.
+He stopped there with the pen over the page, because he could feel a question coming up under the last line that he did not want to write, and he did not want to not write it either. He sat with it until he was sure what it was.
 
 *I've been thinking about you and your bench,* he wrote. *About how I set my feet before a bout the way you set a housing on the bench, square, before you load it. I've always thought I learned that from watching you. I think now I didn't learn it so much as take it. I think everybody's carrying somebody. It's only that with me it shows up in a notice.*
 
@@ -76,11 +76,11 @@ He stopped there with the pen over the page for a while, because he could feel a
 
 He signed it, and folded it, and took it down to the carriers' hut at the fish steps himself in the morning, and paid the east bag. He stood a moment watching the clerk drop it in among the others, where it would go over the hills for days in the dark with somebody's rent and somebody's love letter and somebody's complaint about a horse.
 
-On the way back up from the fish steps he found he was counting, the way he counted the purse after a bout. It was not money he was counting. It was the things he had told Hesk, set against the things he had not.
+On the way back up from the fish steps he found he was counting, as he counted the purse after a bout. It was not money he was counting. It was the things he had told Hesk, set against the things he had not.
 
-A year ago, in his first months, the column of things not told had been five long. It had sat in him like a stone in a boot all winter, until, in the spring, he had put all five in one letter and sent it over the hills. He had promised then to tell the next thing as it came. He went through the letter now in his head, line by line, as he went through the exchanges of a bout, and looked for anything he had left out because it was easier left out. The trials: told. The rule: told. The notice changing its story: told, and told plainly, with the part he did not understand left in as not understood. The fan and its empty quarter: told. The farmer: told.
+A year ago, in his first months, the column of things not told had been five long. It had sat in him like a stone in a boot all winter, until, in the spring, he had put all five in one letter and sent it over the hills. He had promised then to tell the next thing as it came. He went through the letter now in his head, line by line, as he went through the exchanges of a bout, and looked for anything he had left out because it was easier left out. The trials: told. The rule: told. The notice changing its story: told, and told straight, with the part he did not understand left in as not understood. The fan and its empty quarter: told. The farmer: told.
 
-There was only one thing he had not put in, and he stopped on the dyers' steps with his hand on the cold rail and made himself say what it was. He had not told Hesk that Lira was in the alcove until the middle of the night, working at something she would not name. But that was not his to tell. It was hers. He turned it over twice to be sure that he was not using that as an excuse, and decided that he was not. He went on up the steps with the column of things not told standing at nothing, for the first time he could remember. It was a strange, light feeling, like setting down a bucket you had forgotten you were carrying.
+There was only one thing he had not put in, and he stopped on the dyers' steps with his hand on the cold rail and made himself say what it was. He had not told Hesk that Lira was in the alcove until the middle of the night, working at something she would not name. But that was not his to tell. It was hers. He turned it over twice to be sure that he was not using that as an excuse, and decided that he was not. He went on up the steps with the column of things not told standing at nothing, for the first time he could remember. It was a strange, light feeling.
 
 ---
 
@@ -98,7 +98,7 @@ He burst. The floor went short, and he went left, of course, half his body's wid
 
 "Half a body," she said. "Same as yesterday. Same as last week."
 
-He did it again. Half a body. Two *ands*. He did it a third time, from a run, and it was the same, and his hip gave him the same small fee for it, crest to knee, no more and no less. He stood on the cross and felt inside himself, carefully, for anything that was not as it had been. He looked for a longer burst, or a lighter one, a change in the way the floor went short, something he could point to and say *there, that is what sustained means*. There was nothing. The burst was the burst. It felt exactly as it had felt for months, and if somebody had told him the notice had never come, he could not have argued.
+He did it again. Half a body. Two *ands*. He did it a third time, from a run, and it was the same, and his hip gave him the same small fee for it, crest to knee, no more and no less. He stood on the cross and felt inside himself, carefully, for anything that was not as it had been. He looked for a longer burst, or a lighter one, a change in the way the floor went short, something he could point to and say *there, that is what sustained means*. There was nothing. The burst was the burst. It felt as it had felt for months, and if somebody had told him the notice had never come, he could not have argued.
 
 "Nothing," said Lira, sitting back on her heels. "Not that I can see."
 
@@ -106,7 +106,7 @@ He did it again. Half a body. Two *ands*. He did it a third time, from a run, an
 
 "So what's it for, then? The word?"
 
-"I don't know." He wrote it down: *Three bursts, measured. Half a body, two* ands*, the same hip. Nothing measurable changed. The field changed; the thing didn't, that I can find. Yet.* He underlined *yet*, and then, because he did not entirely trust himself, he put a small *?* beside it, so that later he would remember that it had been a hope and not a finding. "Maybe it's for something I haven't done. Maybe it means it'll keep going, if I ever ask it to keep going. Maybe it means it's settled in me and won't fade if I stop using it, the way a thing you only half know fades." He shook his head. "I can make up ten meanings. I can't test any of them this morning, and the ones I can't test don't go in the book."
+"I don't know." He wrote it down: *Three bursts, measured. Half a body, two* ands*, the same hip. Nothing measurable changed. The field changed; the thing didn't, that I can find. Yet.* He underlined *yet*, and then, because he did not entirely trust himself, he put a small *?* beside it, so that later he would remember that it had been a hope and not a finding. "Maybe it's for something I haven't done. Maybe it means it'll keep going, if I ever ask it to keep going. Maybe it means it's settled in me and won't fade if I stop using it." He shook his head. "I can make up ten meanings. I can't test any of them this morning, and the ones I can't test don't go in the book."
 
 "You could test one," said Lira.
 
@@ -118,7 +118,7 @@ He thought about it, and found that the thought made the back of his neck cold, 
 
 "Not today," he said. "Not on purpose, with you three paces off with a staff, the morning after it changed. I don't know what keeping on would do. I don't know where it would put me, or what the lock would be like at the end of it, or whether there'd be one." He turned the pencil over. "That's a thing I'd want to have priced before I paid. And I can't price it. I've got one word and nothing under it."
 
-Lira looked at him a moment, and then nodded, slowly, and laid the stick down along the chalk line, square, the way he laid the straightedge on a page.
+Lira looked at him a moment, and then nodded, slowly, and laid the stick down along the chalk line, square, as he laid the straightedge on a page.
 
 "That's your rule," she said. "The one from the trials."
 
@@ -126,13 +126,13 @@ Lira looked at him a moment, and then nodded, slowly, and laid the stick down al
 
 "You'll want to, though."
 
-"I want to now," said Cael honestly. "That's why I wrote down that I didn't."
+"I want to now," said Cael. "That's why I wrote down that I didn't."
 
 Lira watched him write.
 
 "You're not frightened of it," she said. "Are you. I thought you might be."
 
-He thought about that honestly.
+He thought about that.
 
 "A bit," he said. "Not of the word. Of the thing doing something when I'm not looking." He closed the book. "But I'd rather it did it where I could write it down than somewhere I couldn't. A notice is a witness. Even if it's a witness that changes its story." He looked at the book in his hands, the thin board cover, the pencilled name inside. "At least now the book can say so when it does."
 
@@ -150,7 +150,7 @@ Cael looked at the wall. The name was already there, in white, on next week's ca
 
 Cael remembered him then. The third bench back from the east wall, a river-academy coat, both hands flat on his knees, and his eyes on the stone where the landing had been, not on the man who had fallen. He had seen it and filed it nowhere.
 
-He stood in front of the wall for a while.
+He stood in front of the wall.
 
 He thought about the half-breath at the end of every burst, and Lira's sentence, and the people on the benches who were not there for the fun of it. Somebody was going to wait for the landing. He had known it since the spring. He had spent ten trials and two days of a hollow chest finding out what the landing was worth, and he had a rule now, and a half-breath that was no longer only a wound. He had not yet once spent it on purpose against anybody but Lira. He did not know what it was worth with a stranger's strike in it.
 
@@ -158,7 +158,7 @@ He thought about the half-breath at the end of every burst, and Lira's sentence,
 
 "Third slot. Next week." Dace wrote *Hesk-ward* in the space, in white, and drew a small mark beside it that Cael had never seen on the wall before, a short line with a dot under it. "That's for me," said Dace, before Cael could ask. "It means *watch this one*. Not you. Him." He put the chalk in his pocket. "Vell's got something for you, too. She was asking where you were."
 
-Vell was at her table with the day's book shut and a letter open on top of it. She did not hand it to him. She turned it a little toward him, the way she turned the ledger, so that he could see it was a letter. He could see the hand, a slanting brown hand he did not know, and the place it came from, which was a river town two days downstream.
+Vell was at her table with the day's book shut and a letter open on top of it. She did not hand it to him. She turned it a little toward him, as she turned the ledger, so that he could see it was a letter. He could see the hand, a slanting brown hand he did not know, and the place it came from, which was a river town two days downstream.
 
 "A keeper," said Vell. "Down at the salt end. I've never met her. She keeps a small book at a bad yard." She tapped the letter. "She's had three fighters through in a month who'd been up here, and all three of them told her about a boy in my book with *atypical* written beside his name more often than anybody's she's ever heard of. She wants to know what I mean by it." Vell folded the letter in three. "She's not the first. She's the first who's written. Keepers talk, as I told that guild boy, and they don't only talk about complaints."
 
@@ -172,7 +172,7 @@ It was a single word, *Atypical*, with a row of small upright strokes beside it,
 
 "I've kept that for thirty years," said Vell. "Every time I write that word against a name, I put a stroke there. Eleven, in all the years before you walked down the hill." She took her hand off the page and let him count, and did not wait for him to finish. "You can see what's happened since."
 
-He could. The strokes went on past the eleven in a steady row, and then in a second row under the first, in five-bar gates, the way Hesk counted bearings.
+He could. The strokes went on past the eleven in a steady row, and then in a second row under the first, in five-bar gates, as Hesk counted bearings.
 
 "I didn't write it against you, the day after Darrow," she said. "It looked too small. But I've written it every time since, because it's the only word I've got that's true and doesn't pretend to know more than I do." She closed the book. "If a keeper at the salt end wants to know what I mean by it, the only honest answer is that I don't know either, and I'd like somebody to. So, come and see." She looked at him with her flat thorough look. "I don't suppose you'll tell her."
 
@@ -220,7 +220,7 @@ There was a longer pause then, long enough that he thought she might not answer 
 
 "Not yet," said Lira. "Nearly. I'll show you when it's nearly enough." And then, more quietly, so that he only just heard it: "Thank you for not coming in."
 
-He sat with that in the dark for a while after she had gone quiet. Then he lit the lamp after all, very low, and opened the grey book, not the Power Log, because this was not about him. He turned to the back, where he kept the page of things that lived underneath technique, in the plain body.
+He sat with that in the dark after she had gone quiet. Then he lit the lamp after all, very low, and opened the grey book, not the Power Log, because this was not about him. He turned to the back, where he kept the page of things that lived underneath technique, in the plain body.
 
 He did not write her name. He wrote only the date, and under it: *A step that doesn't stop.* And beside that, after a moment, a small *h*, because he had heard it and not seen it, and because he would not write down what he had not seen.
 

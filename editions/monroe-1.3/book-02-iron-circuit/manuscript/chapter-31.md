@@ -14,7 +14,7 @@ He did not know what else to do with it, so he held it, and counted his own brea
 
 At twenty-two a man's voice went up at Vell's table, sharp and loud, and the whole room turned toward it, and so did Cael, and the door slammed.
 
-The band came round his head before he had even found the man with his eyes. It came harder than it had in the alcove, as if twenty-two breaths of a crowd had cost what an hour of Brom cost. He sat with his thumb and finger pressed into the corners of his eyes and let it settle. The voice at the table went on, louder.
+The band came round his head before he had even found the man with his eyes. It came harder than it had in the alcove; twenty-two breaths of a crowd had cost what an hour of Brom cost. He sat with his thumb and finger pressed into the corners of his eyes and let it settle. The voice at the table went on, louder.
 
 He wrote it down with the band still on, small, in the corner of a page, so that he would not lose it.
 
@@ -44,7 +44,7 @@ Vell did not look up for a moment, and when she did, Cael saw her know the man, 
 
 The room changed.
 
-It did not go quiet; it went still, the way it had gone still the last time, as people go still at a table when somebody has picked up a knife. Two of Keth's newcomers stopped arguing, and the old man under the hat lifted the brim with one finger. And Cael felt something he did not like, which was every face in the near benches turning, one after another, from the man at the table to him.
+It did not go quiet; it went still, as it had the last time, like a table when somebody has picked up a knife. Two of Keth's newcomers stopped arguing, and the old man under the hat lifted the brim with one finger. And Cael felt something he did not like, which was every face in the near benches turning, one after another, from the man at the table to him.
 
 Vell said nothing for a moment, and when she spoke it was without heat.
 
@@ -64,7 +64,7 @@ Every face that had turned to him turned again. He did not stand up; his knees d
 
 ---
 
-Vell looked at him for a long moment over her spectacles, and he could not read what was in it.
+Vell looked at him over her spectacles, and he could not read what was in it.
 
 Then she held out her hand.
 
@@ -88,7 +88,7 @@ Vell's finger went down her own line. *Second exchange. North rope. Shield to on
 
 Cael turned back a page, to the two entries above Tuesday's, and put his own finger under them. "His lead shoulder. Before the rush. It goes down a finger's width and the rim goes with it." He moved the finger to the first line. "I saw it the first time three weeks before. That's the date. I wasn't sure." He moved it to the second. "Eleven days after, against the tannery boy. That's the date. Then I was."
 
-Vell looked at the two lines for a long time, not at Cael, or at the man, or at the room. She looked at the dates, and at the ink, and turned the book a little toward the window to see the second date better, and then turned it back.
+Vell looked at the two lines, not at Cael, or at the man, or at the room. She looked at the dates, and at the ink, and turned the book a little toward the window to see the second date better, and then turned it back.
 
 "This was on your page," she said, to the book, but loud enough that the benches heard, "before Dace ever put the two of you on his wall. Two entries. Dated."
 
@@ -124,7 +124,7 @@ He understood that, and was ashamed for a moment that he had not thought of it, 
 
 Dace found him at the end of the morning, at the back of the floor by the door to the locked room where Vell kept her shelves.
 
-Cael was not doing anything there; he had gone because it was the quietest place in the building, and because the band still had one hand round his head, and because there was a stretch of plain wall beside the door that nobody ever leaned on but him. Dace came along the wall from the slate, chalk on his cuffs, and leaned on it beside him, the way he arrived at most things, from the side, so that you saw him before he said anything.
+Cael was not doing anything there; he had gone because it was the quietest place in the building, and because the band still had one hand round his head, and because there was a stretch of plain wall beside the door that nobody ever leaned on but him. Dace came along the wall from the slate, chalk on his cuffs, and leaned on it beside him. He arrived at most things from the side, so that you saw him before he said anything.
 
 "I've had fighters through that door since before you were born," said Dace, "and not one of them could tell me what happened in his own last bout without a quarrel. You read yours out like a carter reading a bill of lading."
 
@@ -134,7 +134,7 @@ Cael was not doing anything there; he had gone because it was the quietest place
 
 Cael did not answer, because he could feel that Dace had not come to tell him that.
 
-Dace was quiet for a while, and when he spoke again his voice was the same, flat and easy, but he had dropped it a little.
+Dace was quiet, and when he spoke again his voice was the same, flat and easy, but he had dropped it a little.
 
 "You know what the Compact would give for a book like yours?"
 
@@ -170,7 +170,7 @@ Cael felt the cold of the wall through his coat.
 
 He went off down the wall, rubbing chalk off his fingers. Cael stood where he was a while longer with the grey book against his chest.
 
-He had thought of the book, for a year, as the most private thing he owned, after the Log, and he had never once thought of it as dangerous. He thought now of the Shield's page, and the river-academy man's, and Keth's, with all its small notes about a finger off a grip. He thought of the two entries, dated, that had just ended a man's complaint in front of forty people. The same two lines in the wrong hands would tell a stranger exactly how to beat a Shield from Orvet's gym, and exactly when Cael had learned it, and from where. A record did not care whose hands it was in; it said the same thing to everybody.
+He had thought of the book, for a year, as the most private thing he owned, after the Log, and he had never once thought of it as dangerous. He thought now of the Shield's page, and the river-academy man's, and Keth's, with all its small notes about a finger off a grip. He thought of the two entries, dated, that had just ended a man's complaint in front of forty people. The same two lines in the wrong hands would tell a stranger how to beat a Shield from Orvet's gym, and exactly when Cael had learned it, and from where. A record did not care whose hands it was in; it said the same thing to everybody.
 
 That evening he went through the grey book from the front, and wherever he had written a fighter's name, he took it out. He did not stop at the strangers. Keth's name went, and the Shield's, and Dessa's, and Ulric's, and the river-academy man's; a name in Vell's ledger was the easiest name in the district to find, and a page beside it on how to beat him was the very thing Dace had described. In its place he gave each of them a mark drawn from something only he had seen. Keth became *the finger*. The Shield became *the drop*. The key to the marks went nowhere but into his own head.
 
@@ -180,13 +180,13 @@ He did not cross out a single fact. The facts were true, and some of them belong
 
 The letter from the salt end came to Vell that same week, and Cael was at the table when she opened it.
 
-He was there because she had asked him to carry the main-floor book in from the back room before the evening card; she had come to trust his hands with it the way she trusted them with her lamp. He set the red-taped book down beside the day book and stood back. She was slitting a letter with the end of her pen, a keeper's letter, folded in three and sealed with a thumbprint of candle wax, in a hand he had seen once before on the back-room table.
+He was there because she had asked him to carry the main-floor book in from the back room before the evening card; she trusted his hands with it now, as well as with her lamp. He set the red-taped book down beside the day book and stood back. She was slitting a letter with the end of her pen, a keeper's letter, folded in three and sealed with a thumbprint of candle wax, in a hand he had seen once before on the back-room table.
 
 She read it once, quickly, and then again slowly, and then she put it down flat and laid her hand on it and sat very still.
 
 "Fetch me the third shelf," she said. "The second book from the left. The one with the green tape."
 
-He fetched it. She opened it to a page near the back without looking for it, as if her fingers had known the page all along, and ran down it to a line, and stopped.
+He fetched it. She opened it to a page near the back without looking for it, and ran down it to a line, and stopped.
 
 He read the line upside down. It was a bout of two years ago, on the main floor, on a season night: a Shield, an Iron formal from a house up the river, against a man Cael knew. Everybody in the district knew him: a Shield too, broad and quiet, from the brickworks end, about thirty, who taught Shield work to newcomers in a hired yard for a copper a lesson and was on Dace's wall most weeks in good slots. The line said he had beaten the Iron formal in the second exchange. Under the result, in Vell's hand: *Iron formal guarded left throughout.*
 
@@ -224,7 +224,7 @@ She did not do it at her table, and she did not do it from her book. She closed 
 
 He watched, because she had not told him not to, from the east bench, with the grey book shut on his knee.
 
-She went to the brickworks Shield first. He was at the water barrel with two of his newcomers, a towel round his neck, laughing at something. When he saw her coming with the books under her arm he stopped laughing, though he could not have known why. She stood in front of him and said it, and Cael could not hear the words from the bench, but he could see the man's face, which went still, and then red, and then still again. He saw him look at the floor for a long time. Then he said something short, and Vell said something shorter, and the man nodded twice and turned back to the barrel. His newcomers looked at each other.
+She went to the brickworks Shield first. He was at the water barrel with two of his newcomers, a towel round his neck, laughing at something. When he saw her coming with the books under her arm he stopped laughing, though he could not have known why. She stood in front of him and said it, and Cael could not hear the words from the bench, but he could see the man's face, which went still, and then red, and then still again. He saw him look at the floor. Then he said something short, and Vell said something shorter, and the man nodded twice and turned back to the barrel. His newcomers looked at each other.
 
 The Force man took it worst. He had a slot on Thursday's evening card on the strength of the line, and he knew before she had finished that he would not have it now, and he said so, loudly, so that half the room heard. *Two years.* *Two years and you've only now seen it.* Vell stood in front of him while he said it all and did not move or answer until he had stopped. Then she said one thing, and he turned away from her, and kicked the leg of the bench, and sat down on it with his head in his hands.
 
@@ -234,7 +234,7 @@ The Stone woman from the north gate was not there. Vell asked Dace where she lod
 
 The brickworks Shield came to the east bench afterward, while Vell was writing at her table, and sat down at the other end of it from Cael with the towel still round his neck. He did not seem to want anything. He only sat.
 
-"She said it was her fault," he said, after a while. Cael did not think he was talking to him particularly. "She said *I wrote it down and didn't ask, and that's a keeper's fault and not yours.* Stood there and said it in front of my lads." He wiped his face with the towel. "I've been charging them a copper a lesson on that line. *Iron-equivalent.* I've had it painted on the board at the yard."
+"She said it was her fault," he said at last. Cael did not think he was talking to him particularly. "She said *I wrote it down and didn't ask, and that's a keeper's fault and not yours.* Stood there and said it in front of my lads." He wiped his face with the towel. "I've been charging them a copper a lesson on that line. *Iron-equivalent.* I've had it painted on the board at the yard."
 
 "Will you take it down?"
 

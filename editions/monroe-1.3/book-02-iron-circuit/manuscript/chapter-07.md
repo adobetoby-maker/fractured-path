@@ -10,9 +10,9 @@ On the third morning he went down to the alcove early, before Lira, and stood on
 
 He set himself square, and thought *right*, and dropped his right hip.
 
-Nothing happened. The plainest part was that. He dropped his hip and his body went sideways the way any boy's body goes sideways when he steps, on his feet, at the speed of feet, and that was all. There was no loosening. The floor did not go short. He took one ordinary step to the right and stood there feeling foolish, like a man who has walked confidently into a room to fetch something and forgotten what.
+Nothing happened. The plainest part was that. He dropped his hip and his body went sideways on its feet, at the speed of feet, and that was all. There was no loosening. The floor did not go short. He took one ordinary step to the right and stood there feeling foolish.
 
-But something had gone out of him all the same. He stood on the stone and felt for it, the way he felt for the cost after every burst, and it was there. There was a small catch in the breath, as if it had begun to stop and then thought better of it, and a faint warmth along the line of the left hip, the wrong hip, the hip he had not used. It was the burst's toll, or a shadow of it, as though he had been charged a little for knocking on a door that was never going to open.
+But something had gone out of him all the same. He stood on the stone and felt for it, as he felt for the cost after every burst, and it was there. There was a small catch in the breath, the start of a stop, and a faint warmth along the line of the left hip, the wrong hip, the hip he had not used. It was the burst's toll, or a shadow of it, as though he had been charged a little for knocking on a door that was never going to open.
 
 He tried again. And again. On the fifth try he stopped, because the shadow tolls were adding up and the hip was beginning to take an interest. He sat down on the bench at the back of the alcove and took out the Power Log and wrote it before he could start explaining it to himself.
 
@@ -38,7 +38,7 @@ She took the bread out of her mouth.
 
 It turned out that she had known for nearly a month.
 
-"Not known," said Lira. "I had a feeling, and then I had a guess, and then I had a lot of mornings." She sat down beside him on the bench and finished the bread. "You never go right. You never go straight back, either. Not once, not even when right's closer. I've watched you do it from three paces for half a year and I didn't see it for five months, because when you've seen something do one thing five hundred times you stop seeing that it never does the other." She brushed the crumbs off her knees. "Then one morning I came at you from the left on purpose, the way you'd want to burst, and you went left anyway, straight into me. You paid extra to go the long way round. And I thought, that's odd. And then I did it again the next morning, and the next."
+"Not known," said Lira. "I had a feeling, and then I had a guess, and then I had a lot of mornings." She sat down beside him on the bench and finished the bread. "You never go right. You never go straight back, either. Not once, not even when right's closer. I've watched you do it from three paces for half a year and I didn't see it for five months, because when you've seen something do one thing five hundred times you stop seeing that it never does the other." She brushed the crumbs off her knees. "Then one morning I came at you from the left on purpose, so the sensible burst was right, and you went left anyway, straight into me. You paid extra to go the long way round. And I thought, that's odd. And then I did it again the next morning, and the next."
 
 "Why didn't you say?"
 
@@ -56,7 +56,7 @@ She showed him with the staff, slowly at first. She did not try to hit him. She 
 
 And she came at him.
 
-He reached for the burst out of plain habit, and the burst looked at where it would have to go and would not go there. It was the same as on the chalk cross: nothing came, and a little toll went out. He stepped on his feet, slow and mortal, into the right-rear corner, and the end of her staff tapped him on the ribs as he went, not hard, the way you tap a door to show you could have knocked it down.
+He reached for the burst out of plain habit, and the burst looked at where it would have to go and would not go there. It was the same as on the chalk cross: nothing came, and a little toll went out. He stepped on his feet, slow and mortal, into the right-rear corner, and the end of her staff tapped him on the ribs as he went, not hard.
 
 "That," said Lira, "is a broom."
 
@@ -64,19 +64,19 @@ He stood with his back against the post.
 
 "Where does it go?" she said. "Your burst. Draw it for me."
 
-He crouched and drew it on the stone with Red Cap's chalk. A dot for himself. Then the lines the burst had taken in a thousand mornings: left, front-left, back-left, and every angle in between, a spray of lines like the ribs of a fan, all of them on one side. He drew the fan as wide as he honestly could. It covered the whole of the left of the circle, and a little of the front, and a little of the back. And it left a quarter of the circle untouched, behind him and to the right, where there was nothing at all.
+He crouched and drew it on the stone with Red Cap's chalk. A dot for himself. Then the lines the burst had taken in a thousand mornings: left, front-left, back-left, and every angle in between, a spray of lines like the ribs of a fan, all of them on one side. He drew the fan as wide as it went, and no wider. It covered the whole of the left of the circle, and a little of the front, and a little of the back. And it left a quarter of the circle untouched, behind him and to the right, where there was nothing at all.
 
 They both looked at it.
 
 "Two-thirds," said Cael. "Near enough. The rest it won't go."
 
-"The rest you have to walk." Lira squatted beside him on her heels and looked at the empty quarter as if it were a hole in a fence. "Most people won't find it. Most people don't come at you from the same side six times running; they don't know you well enough. But a Wind fighter would. Anybody who's fought a lot of Wind would. They'd feel it the way I felt it, because we know how a step's supposed to go, and yours goes funny." She stood. "I wanted you to know about it before somebody across a rope did. Somebody who wouldn't stop at a tap."
+"The rest you have to walk." Lira squatted beside him on her heels and looked at the empty quarter. "Most people won't find it. Most people don't come at you from the same side six times running; they don't know you well enough. But a Wind fighter would. Anybody who's fought a lot of Wind would. They'd feel it as I did, because we know how a step's supposed to go, and yours goes funny." She stood. "I wanted you to know about it before somebody across a rope did. Somebody who wouldn't stop at a tap."
 
 ---
 
 He spent the next hour trying to make the burst go right, because he could not stop himself, and because there was a thing he did not understand and could not leave alone.
 
-He tried it slowly and quickly. He tried it standing and from a run. He tried it with Lira coming at him from the left, so that right was the only sensible way to go, in case the burst only needed a reason. He tried it from his right foot, in case it was the foot and not the hip. Every time, the drop of the right hip summoned nothing but a step, and every time the step was charged, a little, as if it had been the real thing. After the ninth try his breath was short in a way nine ordinary steps could never have made it, and his left hip, the one he had not been using, was warm and sore from the crest to the knee.
+He tried it slowly and quickly. He tried it standing and from a run. He tried it with Lira coming at him from the left, so that right was the only sensible way to go, in case the burst only needed a reason. He tried it from his right foot, in case it was the foot and not the hip. Every time, the drop of the right hip summoned nothing but a step, and every time the step was charged a little, real thing or not. After the ninth try his breath was short in a way nine ordinary steps could never have made it, and his left hip, the one he had not been using, was warm and sore from the crest to the knee.
 
 "Stop," said Lira, at the tenth, and he stopped.
 
@@ -92,7 +92,7 @@ He stood in the middle of the alcove and thought about it, and as he thought abo
 
 "Do your step for me," he said. "The real one. Ten times. From the post to the chalk."
 
-She looked at him oddly, and did it. She went from the post to the chalk ten times, and each time the floor went short under her, quick and clean and as easy as breathing, much easier than it had ever been for him; and each time, before she went, her left hip dropped. Not her right. Never her right. It dropped the width of a fingernail and loosened, and she was across.
+She looked at him oddly, and did it. She went from the post to the chalk ten times, and each time the floor went short under her, quick and clean and as easy as breathing, much easier than it had ever been for him; and each time, before she went, her left hip dropped. Not her right. Never her right. It dropped, very slightly, and loosened, and she was across.
 
 "Left," said Cael. "Every time."
 
@@ -102,7 +102,7 @@ Lira stopped on the chalk.
 
 "You drop the left hip. Every step. I'd bet the Log on it. I don't think you've gone off the right once in all the mornings I've been watching you."
 
-She stood very still. He watched her go inside herself and look, the way you look for a thing in your own coat pocket, and find it, and not believe it, and find it again. She did the step once more, slowly, with her eyes on her own hip. She stopped.
+She stood very still. He watched her go inside herself and look, and find it, and not believe it, and find it again. She did the step once more, slowly, with her eyes on her own hip. She stopped.
 
 "Huh," said Lira.
 
@@ -116,7 +116,7 @@ It was a very small word to come out of her. He had heard her say a great many t
 
 He sat down beside her. They looked at the fan on the stone, with its empty quarter.
 
-He had known, since the night the first notice came, that the burst was hers, or had come out of her. He had written it in the Power Log under *Source* three nights ago. But he had thought of it as a kind of shape, a thing that had been copied the way you copy a drawing, clean, with the useful lines in it. He had not thought that it would bring her habits with it, or that her habits would have had a man in a barn before her, with his own habits, tying his left hand behind his back and forgetting.
+He had known, since the night the first notice came, that the burst was hers, or had come out of her. He had written it in the Power Log under *Source* three nights ago. But he had thought of it as a kind of shape, a thing copied clean, like a drawing, with only the useful lines in it. He had not thought that it would bring her habits with it, or that her habits would have had a man in a barn before her, with his own habits, tying his left hand behind his back and forgetting.
 
 It was not a drawing, then. It was a real person's way of moving, taken from a real person on real mornings, with everything that had been in it. Even the parts nobody had ever meant to teach.
 
@@ -124,7 +124,7 @@ It was not a drawing, then. It was a real person's way of moving, taken from a r
 
 "Right," said Lira.
 
-She stood up off the bench as though she had made her mind up about something, and picked up her staff. Whatever had gone through her about the man in the barn, she had put it somewhere for later. He could see her do it, and he knew the look, because it was the one she wore at the rope before a bout of her own.
+She stood up off the bench with her mind made up about something, and picked up her staff. Whatever had gone through her about the man in the barn, she had put it somewhere for later. He could see her do it, and he knew the look, because it was the one she wore at the rope before a bout of her own.
 
 "You can't mend it," she said. "Fine. Nobody can mend everything. So we don't mend it. We make sure nobody ever gets you into that corner. That's footwork, and it's boring, and it doesn't come from anybody's farmer, and you can have as much of it as you like." She set herself. "I'm going to broom you. You're going to not be broomed."
 
@@ -138,7 +138,7 @@ By the second quarter of an hour she was brooming him into the post twice in a d
 
 It was in the middle of the third quarter of an hour, with Lira coming round his left side on her fifth stroke and his feet already moving to deny her the sixth, that the quiet came.
 
-He knew it before he knew what it was. He stopped in the middle of a step, with his weight half moved, and his body was aware of it the way a body is aware of a change in the weather, before the head has noticed the clouds. It was not pain. It was not tiredness. It was the hush that came before a whole thought arrived, and he had felt it only three times in his life, and every time something had been written afterward in the dark place behind his breastbone.
+He knew it before he knew what it was. He stopped in the middle of a step, with his weight half moved, and his body knew it before his head did. It was not pain. It was not tiredness. It was the hush that came before a whole thought arrived, and he had felt it only three times in his life, and every time something had been written afterward in the dark place behind his breastbone.
 
 Lira stopped too. She had seen him stop like that before. She grounded her staff and stood quite still, three paces off, and did not say a word.
 
@@ -156,7 +156,7 @@ It was not new. That was the first thing he understood, and the strangest. Every
 
 Three nights ago he had copied *Duration: undetermined* into the Power Log in his best hand, word for word, as the notice's own testimony, the one witness he had besides himself. And now the witness had changed its story.
 
-He did not know how long he stood. When he looked up, Lira was still standing three paces off with her staff grounded, exactly where she had been, and she had not moved, and she had not asked.
+He did not know how long he stood. When he looked up, Lira was still standing three paces off with her staff grounded, where she had been, and she had not moved, and she had not asked.
 
 "I need a moment," he said.
 
@@ -166,13 +166,13 @@ She nodded, and stayed where she was. She did not come closer and she did not go
 
 "Sustained," said Lira slowly. "Is that better?"
 
-"I don't know. I don't know what it means. I don't know what *undetermined* meant, either." He looked at his own hands, as though they might have something written on them. "It's never done that. It's never gone back and changed one."
+"I don't know. I don't know what it means. I don't know what *undetermined* meant, either." He looked at his own hands. "It's never done that. It's never gone back and changed one."
 
 "Did you do anything?"
 
 "I don't know that either."
 
-Lira looked at him for a while. Then she looked at the fan on the stone, and the empty quarter, and the chalk cross, and back at him.
+Lira looked at him. Then she looked at the fan on the stone, and the empty quarter, and the chalk cross, and back at him.
 
 "Well," she said, "I'm not stopping. You've got two more strokes of broom to not be broomed by, and then you can have a sit-down and think about it as hard as you like." She lifted the staff. "If it's changed, it's changed. It'll still be changed in five minutes."
 
@@ -220,9 +220,9 @@ Lira finished his pie and brushed her hands.
 
 He wrote it down, exactly, and put *L., seen* beside it, in his own hand this time.
 
-Then he sat with the Power Log open on his knee and the cold pie forgotten on the wall beside him, and watched a barge come in under the lower bridge, low in the water, heavy with something, its crew leaning on their poles and its wake spreading out behind it in long lines toward both banks. He thought about the word *sustained*, and what it might mean for a burst that had only ever lasted the time it takes a strike to fall. He thought about the old word, and about having written it down so carefully only three nights ago, as if it were fixed.
+Then he sat with the Power Log open on his knee and the cold pie forgotten on the wall beside him, and watched a barge come in under the lower bridge, low in the water, heavy with something, its crew leaning on their poles and its wake spreading out behind it in long lines toward both banks. He thought about the word *sustained*, and what it might mean for a burst that had only ever lasted the time it takes a strike to fall. He thought about the old word, and how carefully he had written it down only three nights ago, sure that it was fixed.
 
-He had thought, without ever quite saying so to himself, that the fragments were things that were done. Fixed things that had arrived and stayed the shape they had arrived in, and that he was only slowly learning to see them properly, the way you learn the shape of a room in the dark. Everything that had changed in the Power Log until today had been him changing: his reading getting better, his measurements getting closer. The thing itself had sat still while he walked round it.
+He had thought, without ever quite saying so to himself, that the fragments were things that were done. Fixed things that had arrived and stayed the shape they had arrived in, and that he was only slowly learning to see them properly. Everything that had changed in the Power Log until today had been him changing: his reading getting better, his measurements getting closer. The thing itself had sat still while he walked round it.
 
 It had not sat still.
 
