@@ -1,0 +1,1798 @@
+Reading additional input from stdin...
+2026-10-05T01:54:57.666299Z ERROR codex_skills_extension::host_service: failed to install system skills: io error while remove existing system skills dir: Directory not empty (os error 66)
+OpenAI Codex v0.153.0
+--------
+workdir: /Users/drive/fractured-path-monroe13
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: high
+reasoning summaries: none
+session id: 01a109c5-77d6-7aa2-bbd4-d937c8c8b013
+--------
+user
+You are the review seat for a Monroe Jackson 1.3 / O'Connor 1.3 movement of The Fractured Path.
+Do not modify any repository file. Read the compiled review prompt below in full and follow it exactly.
+This is the EDITORIAL pass (continuity/story + numerical formula alignment). Canon evidence is supplied.
+Measured formula metrics for these chapters (tools/formula_metrics.py; method in its docstring) are below — use them; do not re-estimate:
+```
+chapters                     7
+words_total                  35432
+words_prose                  35432
+words_in_system_notices      0
+sentences                    2872
+sentence_mean                12.34   (target 14.6)
+sentence_median              9.0   (target 11)
+sentence_sd_pop              9.84
+share_le5_words              0.311
+share_ge40_words             0.015
+paragraphs                   857
+paragraph_mean               41.34
+paragraph_median             26
+scene_breaks_marked          30
+scene_breaks_per_10k         8.47
+words_per_scene              957.6   (target 950)
+flesch_reading_ease          92.6   (target 72.3)
+flesch_kincaid_grade         3.4   (target 6.8)
+method                       editions/monroe-1.3/tools/formula_metrics.py (see module docstring)
+```
+Also check the Reader Standard (thirteen-year-old reader; see EDITION_BRIEF) and every protected-wording line in BOOK_MAP that falls inside this movement.
+Source reuse (tools/source_overlap.py; runs of 8+ words shared with the current edition, protected wording excluded) — # summary: 0 unprotected shared runs of >= 8 words; 4 protected runs (allowed). Full list: /Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-02-iron-circuit/state/movement-002/source-overlap.tsv. Any unprotected reuse is a finding; the edition's prose must be new.
+Write your complete review as markdown to: /Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-02-iron-circuit/state/movement-002/review-editorial.md (create that one file; nothing else).
+End it with a section '## Repair brief' giving at most three priorities, each with location, observed issue, effect on the reader, proposed scope, and a strength to preserve.
+
+--- COMPILED REVIEW PROMPT FILE: /Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-02-iron-circuit/state/movement-002/review-editorial-prompt.md (read it in full) ---
+warning: Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest.
+codex
+I’m using the O’Connor skill because this is explicitly a Monroe/O’Connor editorial review. I’ll read its instructions and the compiled prompt in full, inspect only the evidence it routes me to, then create exactly the requested review file.
+exec
+/bin/zsh -lc "wc -l /Users/drive/.codex/skills/oconnor/SKILL.md && sed -n '1,240p' /Users/drive/.codex/skills/oconnor/SKILL.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+      57 /Users/drive/.codex/skills/oconnor/SKILL.md
+---
+name: oconnor
+description: Plan and orchestrate the Monroe 1.3.0 O'Connor progression-adventure seat, using Iron Prince structural research, Opus or Fable authorship, open-range movements and focused editorial loops.
+---
+
+# O'Connor 1.3.0 — Monroe Jackson author seat
+
+Canonical package: `/Users/drive/penname/pennamecodexv3`.
+Read `pen-names/oconnor/PIPELINE.md`, `VOICE.md` and `FORMULA.md` in that package.
+Read `/Users/drive/penname/research/ironprince-craft-formula.md` for its exact
+numerical targets. The compiler embeds craft sections 2–6 and 8–9 verbatim in both
+planning and drafting prompts. These are the owner's selected design targets,
+not optional research notes; do not soften them into generic craft advice.
+Codex maintains/orchestrates; Opus or Fable writes and repairs. Opus 5.5 is the default author;
+Fable (or another model) runs only when the owner names it. Never substitute the
+current Codex model silently. The public
+byline is Monroe Jackson; O'Connor is an internal seat name.
+
+Use six or more contiguous chapters per creative run (default 8, no upper cap). One compact
+movement brief replaces compulsory chapter cards. No chapter-by-chapter editorial
+gates. Output limits can require continuation of the same run; they must not cause
+shortened chapters or premature claims of completion.
+
+The owner names the characters. Use role placeholders during planning and resolve
+the needed names before prose drafting. A request to build/activate the seat is
+not permission to start a novel. Preserve canon and exact owner-protected text.
+
+Compile locally with `/Users/drive/penname/harness/oconnor.sh`:
+
+- `plan --root PROJECT --author opus --idea 'idea'` (or `--idea-file FILE`).
+- `formula --output FILE` exports the standalone numerical formula prompt.
+- `movement --root BOOK --author fable --packet packets/MOVEMENT-001.md --count 8`
+  with `--start N`, repeated `--context FILE`, optional `--previous FILE`, and
+  optional scene-specific `--action 'scene=stack'`.
+- `review --root BOOK --author fable --chapter manuscript/chapter-01.md`, repeating
+  `--chapter` for the complete movement in reading order. Add `--context FILE`
+  for editorial canon evidence; omit for manuscript-only cold reading.
+  Use `--formula-check` for editorial target/observed comparisons; omit it for a
+  blind cold read. Read `pen-names/oconnor/FORMULA_REVIEW.md` for measurement rules.
+
+The compiler prints a prompt; `--output FILE` saves without overwrite. It makes
+no model call. For authorized drafting, verify the locally installed author CLI's
+available model and subscription login, then supply the selected model and saved
+prompt. Do not switch to a paid API or alternate author on failure. Record the
+actual reported model separately from the seat version and requested alias.
+No new model invocation is authorized merely to validate this skill.
+
+After the completed movement: continuity/story pass, reader/clarity pass, one
+consolidated same-author repair, targeted recheck. Read `REVIEW.md` for the rubric.
+Label self-review vs fresh-context simulated cold read honestly. Use approved owner
+voice/examples; only accepted owner evidence updates the trainer.
+
+Read `PROVENANCE.md` when discussing research validity. Do not claim a full-book
+read or verified percentages from partial inspection. The transcript and quoted
+source-character study are private research, not drafting inputs. Read
+`references/combined-path-adapter.md` only for the owner's selected 600-year Kindling
+proposal; it is not a default premise for new books.
+
+codex
+The skill adds six required references for this pass: the seat pipeline, voice, formula, numerical research, review rubric, and formula-review method. I’m loading those plus the compiled prompt before judging any chapter.
+exec
+/bin/zsh -lc 'wc -l /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md /Users/drive/penname/research/ironprince-craft-formula.md /Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-02-iron-circuit/state/movement-002/review-editorial-prompt.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     131 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md
+     120 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md
+      38 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md
+      44 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md
+      34 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md
+     179 /Users/drive/penname/research/ironprince-craft-formula.md
+    3371 /Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-02-iron-circuit/state/movement-002/review-editorial-prompt.md
+    3917 total
+
+exec
+/bin/zsh -lc "sed -n '1,240p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md
+sed -n '1,220p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md
+sed -n '1,160p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md
+sed -n '1,160p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md
+sed -n '1,160p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# O'Connor 1.3.0 — Monroe movement loops
+
+Foundation: Monroe Jackson 1.3.0's living maps, Light author, owner voice,
+movement review and same-author repair. As of the owner's 2026-09-29 update, Monroe
+1.3 Light also uses open-range movements of six or more chapters and optional chapter cards.
+O'Connor retains its own formula and author-selection rules.
+The repository still has mixed legacy version labels; this is a seat-level version,
+not a claim that the whole repository has been upgraded.
+
+## Roles and identity
+
+Codex builds and maintains the seat, prepares context and coordinates reviews.
+Claude Opus 5.5 writes and repairs the manuscript by default; Fable runs only when
+the owner names it for that run. Retain the same author for repairs. No silent
+author substitution. Sonnet can
+maintain maps if requested; it is not a required extra model call.
+
+Record public byline Monroe Jackson, seat `oconnor`, seat version `1.3.0`,
+foundation `Monroe Jackson 1.3.0`, requested author, actual model identifier when
+reported, packet path and manuscript edition in `AUTHORSHIP.md`. An unverified
+model identifier stays unknown. Prompts do not train model weights.
+
+The owner supplies character names. Plan with role placeholders such as [LEAD]
+and [FRIEND] until names are supplied; never turn placeholder names into canon.
+Do not draft the new book until its premise and necessary cast names are approved.
+
+## Series and book planning
+
+Read the owner's premise and existing canon. Apply `FORMULA.md` to build a
+progression-led series with original people, mechanisms and events. The compiler
+includes sections 2–6 and 8–9 of `research/ironprince-craft-formula.md` verbatim:
+sentence distributions, readability, paragraph/scene rhythm, progression density,
+development cadence and POV allocation are active design targets. Preserve the
+source's distinction between primary targets, directional proxies and optional
+secondary signals. Do not replace the formula with generic advice. Reuse existing
+project files rather than proliferating paperwork:
+
+- `SERIES_MAP.md`: NOW, NEXT, HORIZON; recurring pleasure, trajectories, connections.
+- `BOOK_MAP.md`: movement pressures, important promises/payoffs, intended ending.
+- `CHARACTERS.md`: owner names, private wants, relationships, distinct voices.
+- `UNIVERSE_BIBLE.md`: rules, limits, chronology, reserved truths.
+- `STATE_LEDGER.md`: current bodies, knowledge, resources and unresolved threads.
+
+Keep possible ideas distinct from planned events and established canon. Preserve
+owner decisions; manuscript discoveries can revise plans, not quietly overwrite
+canon. The optional 600-year Kindling proposal is used only when chosen; then read
+`references/combined-path-adapter.md` and its source proposal in full.
+
+## One movement: six or more chapters
+
+Six is the floor, eight the compiler default, and there is no upper cap: give the
+author the length the arc needs, up to the whole book when the owner asks. Choose
+the batch before drafting. One compact brief gives entry state, movement goal/pressure, a few
+consequential turns or promises, boundaries on reserved revelations, and room to
+invent. List output paths and relevant canon references. Individual chapter cards,
+dialogue beats and blow-by-blow choreography are not required. See `MOVEMENT_BRIEF.md`.
+
+The author owns scene selection, chapter boundaries, tactics, conversation,
+discoveries, humor and the route through the movement. Plans describe intended
+change, not every action. Protect spacious, developed fights; do not compress real
+chapters into summaries to fit a response. Load optional fight layers only for a
+specified scene/problem; do not stack every available layer by default.
+
+Read the previous ending and relevant canon before drafting. Load approved owner
+voice and a few relevant examples; preserve all applicable owner protections.
+Write forward in one author session through the full movement. Between chapters,
+only carry state and correct a contradiction that would invalidate what follows.
+Do not stop for scoring, stylistic editing, frequency checks or approval per chapter.
+
+A movement of any length is one creative run, not necessarily one API response. When
+output/context limits intervene, save complete chapters and a precise continuation
+checkpoint; resume the same author and movement without triggering editing. Record
+any session restart. Never label a partial movement complete or truncate scenes
+to claim that the entire batch fitted.
+
+## A few passes after the whole run
+
+1. **Continuity and story pass:** read all chapters together; check state, rules,
+   knowledge, names, seams, cause/effect, progression and relationships. Read the
+   preceding/following join when available. Separate canon errors from plan changes.
+   Include numerical formula alignment here with `review --formula-check`; read
+   `FORMULA_REVIEW.md`. Report target vs observed results and cumulative drift.
+   Do not invent measurements or silently change the requested target values.
+2. **Reader and clarity pass:** read for pull, humor, action experience, attachment,
+   punctuation and one-pass comprehension. Use `REVIEW.md` for 13-year-old/adult
+   lenses. Label self-review and simulated readers honestly. A fresh-context cold
+   read gets manuscript only; it is not a real audience measurement.
+3. **One consolidated author repair:** combine at most three high-leverage
+   priorities, preserving named strengths. The same Opus/Fable repairs in reading
+   order. Recheck only the findings and changed joins. A second repair is for an
+   unresolved concrete defect, not an improved average score. Escalate a structural
+   choice to the owner instead of looping indefinitely.
+
+Freeze a recoverable edition before repairs. Owner-protected text remains exact;
+ask before altering it. Punctuation-only edits are word-locked and validated;
+meaning changes are explicit manuscript revisions. Untouched AI text and automated
+repairs do not become owner-voice training evidence. Accepted owner edits use the
+existing Monroe trainer. Update maps/ledger from surviving prose, then move on.
+
+At book completion read the whole arc, progression, relationships and payoffs;
+repair in movement-sized units, then line/listening proof. At series turns check
+power inflation, repeated plots and cross-series consequences. Narration markup
+belongs to the manuscript edition and does not certify editorial quality.
+
+## Invocation
+
+Use `$oconnor` in Codex, giving the project, task and Opus or Fable.
+An activation or seat-build request does not initiate a novel or spend model credits.
+
+Compile prompts locally (no model call):
+
+```bash
+/Users/drive/penname/harness/oconnor.sh plan --root /path/to/series \
+  --idea 'My premise; I will supply the names'   # --author defaults to opus
+/Users/drive/penname/harness/oconnor.sh movement --root /path/to/book \
+  --author fable --packet packets/MOVEMENT-001.md --start 1 --count 8 \
+  --context CHARACTERS.md --context STATE_LEDGER.md
+/Users/drive/penname/harness/oconnor.sh review --root /path/to/book --author fable \
+  --chapter manuscript/chapter-01.md --chapter manuscript/chapter-02.md
+```
+
+For review, repeat `--chapter` for EVERY chapter in the completed movement in order;
+two paths above only demonstrate argument syntax. Include canon through `--context`
+for an editorial pass; omit it for a manuscript-only cold-reader context.
+Add `--formula-check` to the editorial review, not to the blind cold read.
+Export the standalone numerical author prompt with
+`/Users/drive/penname/harness/oconnor.sh formula --output /path/to/new.prompt.md`.
+`--output FILE` creates a new prompt without overwriting. The compiler does not
+launch the author. On an authorized writing request, use the existing authenticated
+author CLI with the explicit model and compiled prompt; verify model availability
+and report an unavailable author instead of substituting Codex.
+# O'Connor seat 1.3.0 — Monroe Jackson
+
+Internal seat ID: `oconnor`. Public byline: Monroe Jackson unless the owner chooses
+another. Foundation: Monroe Jackson 1.3.0 living-map/Light architecture. Codex
+maintains the seat and orchestrates; the explicitly selected Opus or Fable writes.
+Neither model is established as universally best by this research. This is an
+original progression-adventure voice. The internal name identifies the research
+project; it is not a claim of authorship by, or an instruction to imitate, another
+author. Seat version and underlying model are recorded separately.
+
+## The reader promise
+
+Use `FORMULA.md` alongside this profile. It carries the Iron Prince research's
+numerical craft targets as well as the structural progression engine. They are
+active author instructions, not optional background. Write six or more connected
+chapters per movement (no upper cap), without chapter-by-chapter editing gates.
+The owner names the cast; retain role placeholders until names are supplied.
+
+A person worth caring about learns something difficult, tests it against capable
+opposition, and changes their place among people who matter to them. Let the reader
+enjoy getting better with them. Friendship, rivalry, wonder, danger, and humor give
+the effort meaning. Each book delivers a satisfying change while opening a larger
+problem for the series.
+
+## What this author notices
+
+Notice the practical detail that changes a choice: a grip failing, a friend making
+room, an opponent protecting the wrong side, a familiar tool behaving differently.
+Close third person is the default. Let the viewpoint's knowledge, temperament,
+hopes, embarrassment, and blind spots color what gets noticed. A lead may be funny,
+frightened, emotionally open, proud, or guarded according to their own life.
+Give companions private wants and independent decisions; friendship requires
+reciprocity. A mentor's competence and investment should be observable. A rival
+needs a credible objective and the ability to adapt.
+
+Use the selected formula's approximately 87% protagonist / 13% secondary POV
+allocation, with brief purposeful cutaways rather than alternating coequal leads.
+Plan supporting-character development across the formula's 8–10-person cast.
+Do not change these allocations without the owner's direction.
+
+## Sentences people can read once
+
+Use clear sentences with varied weight. Let a brief sentence land an important
+recognition; let a longer one carry an intelligible action or thought. Put the
+subject and action where a listener can follow them. Periods, commas, semicolons,
+and paragraph turns should expose the intended meaning. Repair comma splices and
+ambiguous attachments during writing. Preserve a purposeful long sentence when
+its hierarchy is clear. Do not ration punctuation or add breathing commas between
+a subject and its verb.
+
+A paragraph contains a coherent action, speaker, observation, or turn of thought.
+End it when the thought turns. Avoid both walls of exposition and an entire book
+of isolated one-line statements. Apply the supplied sentence-length distribution,
+paragraph targets and reading level while writing; assess the completed movement
+and cumulative book against them afterward. The paragraph/scene targets are
+explicitly ASR-inferred proxies, adopted here as design targets rather than proven
+print measurements. Keep their directional status as described in the source.
+
+## Progression that earns attention
+
+Show what the character can do, what they cannot yet do, and why it matters today.
+Introduce rules through attempts, consequences, demonstrations, and disagreements.
+The reader should understand enough to anticipate a possibility before its payoff.
+Let mastery change behavior, relationships, work, or danger. Numbers and interface
+messages belong only where the original story's system calls for them.
+
+Give a first encounter with a power room to unfold: intention, physical action,
+perceived manifestation, consequence, cost, and the observer's specific reaction.
+As the reader learns it, compress familiar steps and expand the new complication.
+A spectacular manifestation needs a comprehensible limitation. An unexplained
+ability cannot quietly resolve the decisive problem.
+
+## Sustained action and learning fights
+
+The owner wants more substantial action and longer developed scenes. During
+planning, give every movement a physical challenge, learning encounter, or set piece
+unless a deliberate quiet movement serves the book. State the reason for that quiet
+movement. Preserve the space promised to major fights when drafting and repairing.
+
+For a major fight, privately establish terrain, starting positions, reach, objectives,
+available techniques, injuries, and limits. Render the contest as changing decisions:
+test an approach, meet resistance, interpret evidence, adjust, pay a cost. The opponent
+also learns. Reversals follow from planted information, choices, or constraints.
+Use precise physical detail and technical terms when the viewpoint would know them;
+make their effect understandable through the action.
+
+A substantial fight may occupy 1,500–2,500 words or more when its changing problem
+earns that space. This is a planning allowance, not a compulsory word count. Let
+smaller encounters be smaller. A long fight should develop tactics, relationship,
+knowledge, or stakes throughout; repeated exchanges cannot substitute for development.
+Track position and body mechanics without slowing every strike equally. Expand the
+decisive exchange, allow recovery and observation, then accelerate again.
+
+A learning fight leaves a visible correction the character can attempt again. A
+high-stakes fight tests a learned capability under changed conditions. A loss may
+purchase knowledge without becoming a disguised victory. Carry injuries, fatigue,
+equipment damage, reputation, and obligations into the following chapters.
+
+## Humor, intimacy, and emotional range
+
+Let humor arise from perspective, affection, friction, and inconvenient reality.
+Give different people different comic habits. Make room for warm exchanges within
+a movement; do not require jokes per chapter. An established deflecting character
+may joke under pressure, but another person's pain must still register. Sometimes
+the funniest or most intimate beat is the one where someone finally stops performing.
+Physical behavior can reveal emotion; direct emotional language is also available
+when it is the truthful, clear choice.
+
+## Discovery inside a coherent series
+
+Maps remember facts and promises; scenes discover how people act. Give the author
+space to invent tactics, conversation, local texture, and earned relationship changes.
+Carry important discoveries into the map after the movement. Epigraphs, institutions,
+devices, ceremonies, and hidden lineages are options for a particular book. None is
+required by this seat. Do not import another novel's cast, quotations, signature
+phrasing, or scene sequence into an original story.
+
+Explicit owner direction, protected owner wording, and approved owner voice take
+priority over aesthetic preferences in this profile. The project's canon governs
+story facts. Research cannot create canon.
+# Applying the owner's numerical craft formula
+
+The owner explicitly selected
+`/Users/drive/penname/research/ironprince-craft-formula.md` to govern this book.
+Use its craft instructions more or less exactly, including the numbers. These
+are active design targets for the planning model and Opus/Fable author, not merely
+editorial observations. The compiler embeds sections 2–6 and 8–9 verbatim below
+these instructions and records the source hash so runs can be compared.
+
+Let the sentence-length distribution, short/long sentence shares, paragraph
+rhythm and Flesch reading targets influence the actual prose. Let the POV shares,
+front-loaded progression vocabulary and distributed character-development rates
+influence how the book is built. Preserve section 8's secondary/use-to-taste
+status; do not turn its explicitly excluded filler/repetition tics into quotas.
+
+Write original scenes in open-range movements of six or more chapters. The formula constrains the intended
+shape and cadence; the author still chooses conversations, tactics, discoveries
+and how events unfold. Do not reduce this brief to “clear writing with progression.”
+The owner names the cast. No source novel quotations, character substitutions or
+scene-by-scene replication belong in the manuscript.
+
+Aim at the supplied distributions across a movement and the cumulative book.
+Book-third teaching proportions and book-level POV proportions need not be met
+independently by each chapter. Do not stop after each sentence or chapter to run a
+gate. Write the full movement, then compare target versus observed results in the
+existing editorial pass and make a focused same-author repair for material drift.
+Do not silently broaden tolerances or drop inconvenient targets.
+
+Keep the source's own caveats: pause-derived paragraph/scene measures are
+directional proxies, and development counts are heuristic. Their adoption as
+design targets does not establish that they accurately measure the printed book.
+The full source-book audit remains unfinished. Keep source values such as ~1.7x
+and ~950 words unchanged; the known arithmetic/denominator questions belong in
+the audit, not a silent rewrite of the owner's chosen prompt. If competing targets
+cannot be reconciled, report the conflict rather than fabricating a passing score.
+
+This prompt guides output; it does not train model weights or guarantee exact
+statistical compliance. Compliance must be measured after prose exists.
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+# Numerical formula alignment — after the movement
+
+This is an informed editorial pass, not a blind cold read. Read the supplied
+formula and full movement, then report target, observed result, method, coverage
+and uncertainty. Keep numerical alignment separate from reader scores.
+
+- Sentence mean, median, population standard deviation; shares ≤5 and ≥40 words.
+- Written paragraph mean/median and actual scene/section boundaries. Compare with
+  the requested targets, but do not equate typography with ASR pause segmentation.
+- Flesch Reading Ease and Flesch-Kincaid grade. Identify the sentence tokenizer and
+  syllable estimator; proper names/system terms can affect estimates.
+- Progression vocabulary hits per 10,000 words, and placement by equal word-count
+  book thirds once available. Define a project-specific lexicon before counting;
+  do not borrow the source novel's names. An incomplete book cannot confirm the
+  full front-loading ratio. Report provisional cumulative coverage instead.
+- Lead development moments and supporting-cast distribution: cite actual choices
+  or realizations and distinguish manually identified beats from regex proxies.
+- POV word share: identify viewpoint segments, not the most frequently mentioned
+  name. Track the lead and secondary viewpoints against the book-level allocation.
+- Secondary signals: -ly words, reporting verbs, combat terms, fillers and repeated
+  phrases. Publish lexicons and counting definitions. A suffix count is not proof
+  that every matched word is an adverb. Preserve optional/non-target distinctions.
+
+Use reproducible counts when tooling exists. Otherwise mark a metric UNMEASURED;
+never estimate a precise score by intuition. Save the method or command with the
+report so later runs use the same definitions. Inspect ASR reference limitations
+without discarding the owner's chosen drafting targets.
+
+Locate meaningful departures, especially uniform sentence lengths, missing short
+beats, reading level drift, dense paragraphs, late teaching or a coequal second
+lead replacing the requested POV shape. Consolidate the most important repairs
+with continuity findings into the existing bounded author repair. Protect exact
+owner text and successful scenes. Do not iterate indefinitely to hit decimals or
+hide irreconcilable targets. Bring consequential formula conflicts to the owner.
+
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/drive/penname/research/ironprince-craft-formula.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Iron Prince Craft Formula — Mechanism, Not Expression
+
+Purpose: a prose-generation target for an author agent (Opus or otherwise) writing an
+**original story, original world, original characters** that reads in the structural
+tradition of Bryce O'Connor & Luke Chmilenko's *Iron Prince* (Warformed: Stormweaver,
+Book 1), without reusing any of that book's protected expression.
+
+Derived from a direct statistical pass over a Whisper transcript of the owner's own
+purchased audiobook (61 files, ~326,000 words, mlx-community/whisper-large-v3-turbo-asr-fp16).
+Full methodology and raw numbers: `research/ironprince-craft-stats.json`. The transcript
+itself lives at `research/iron-prince-book1-transcript.md` — **local reference only, never
+to be copied into generated prose, never pushed to a shared repo.**
+
+---
+
+## 1. Why this is a legitimate craft extraction, not a copyright problem
+
+**The governing rule is 17 U.S.C. §102(b):** copyright "in no case" extends to "any idea,
+procedure, process, system, method of operation, concept, principle, or discovery." Every
+number in this document describes a *pattern* — a distribution, a rate, a placement
+tendency — not a string of his words.
+
+**Nichols v. Universal Pictures** (Learned Hand, 2d Cir. 1930) is the operative test: a
+work can be described at any level of abstraction from bare theme down to verbatim text,
+and protection attaches only at the concrete end. "Underdog with a device that grows
+through combat losses, at a competitive academy" is exactly the kind of abstract pattern
+Hand's opinion places outside protection — same tier as "star-crossed lovers whose families
+feud." The specific words O'Connor used to render any one scene are protected; the
+narrative-engineering pattern behind a hundred scenes is not, and never was his to own.
+
+**Scènes à faire** — tournament brackets, academy hierarchies, training-montage beats,
+mentor-pep-talk scenes — are standard furniture of progression fantasy. Unprotectable
+because they are not original to any one author; using them is not "borrowing from Iron
+Prince," it's writing in a genre.
+
+**Style is one of the most settled unprotected categories in the caselaw.** Sentence-length
+distribution, paragraph rhythm, dialogue-tag frequency, where a chapter chooses to land its
+progression beat — these are *how* he writes, not *what* he wrote. No court has ever let an
+author own a cadence.
+
+**What this document is careful never to hand over:** his invented terminology as *his*
+naming choices (CAD, Growth/Offense/Defense as exact labels, "Galens Institute," any
+character or place name from this book), the specific sequence of his actual scenes, or
+any sentence-level phrasing. Section 7 makes this an explicit checklist, not an assumption.
+
+**One adjacent, non-copyright flag:** if this project is ever *marketed* as "feels just like
+Iron Prince," that's a Lanham Act false-designation-of-origin question — a labeling risk,
+separate from whether the craft extraction itself is sound. It is sound. Don't advertise
+affiliation that doesn't exist.
+
+---
+
+## 2. Sentence rhythm
+
+| Metric | Target |
+|---|---|
+| Mean sentence length | 14.6 words |
+| Median sentence length | 11 words |
+| Spread (population stdev) | ~26 words — wide, meaning short declaratives sit right next to long compound-complex sentences, not clustered near the mean |
+| Share of very short sentences (≤5 words) | 27.7% |
+| Share of very long sentences (≥40 words) | 3.3% |
+
+**Read:** roughly 1 sentence in 4 is a hard, short beat (often a single clause landing a
+punch after a longer setup) — this is the "short sentence for impact" technique, not
+uniform mid-length prose. Target this ratio, not just the mean; a manuscript that hits mean
+14.6 but has no short-sentence spikes will not read the same.
+
+## 3. Paragraph and scene rhythm (ASR-inferred proxy)
+
+Whisper transcripts carry no typographic paragraph marks — this section is inferred from
+pause gaps between narrated speech segments, not a count of the print manuscript's actual
+paragraph breaks. Treat as directional, not exact.
+
+| Metric | Target |
+|---|---|
+| Inferred paragraph length (pause ≥0.6s) | median 18 words, mean 26.8 words — short, frequent beats |
+| Inferred scene/section length (pause ≥1.6s) | mean ~950 words between scene-level breaks, ~8.7 scene breaks per 10k words |
+
+**Read:** short paragraphs are the default texture, with scenes running roughly 900–1000
+words before a beat change (POV settle, location change, or time-skip). Avoid long
+unbroken expository blocks; break early and often.
+
+## 4. Progression-mechanic ("change frequency") callout rate
+
+| Metric | Target |
+|---|---|
+| Progression/stat-vocabulary density | ~58 hits per 10k words (rank, growth-analog, spec, level-up, stat-block language) |
+| Placement | front-loaded — the opening third of the book carries roughly 1.7x the progression-callout density of the middle and closing thirds (900 vs. 471 vs. 514 hits, by third) |
+
+**Read:** the system gets *established* early and hard, then recedes into the background
+as character and plot take over — it does not stay evenly dense through the whole book.
+Build your own progression system's vocabulary (do not reuse his axis names — see §7), but
+match this front-loaded shape: teach the mechanic aggressively in the first third, then let
+it surface only at genuine turning points afterward.
+
+## 5. Character-development beat cadence
+
+Methodology: named-character mention within ~120 characters of a reflection/interiority
+marker ("realized," "decided," "for the first time," "swore," "no longer," etc.) — a
+heuristic count, not a scene-by-scene read.
+
+| Metric | Target |
+|---|---|
+| Protagonist development-moment rate | 4.5 per 10k words |
+| Protagonist distribution across thirds | roughly even (41 / 56 / 50 — a slight middle-third bump, not backloaded) |
+| Supporting-cast development-moment rate | an order of magnitude lower per character (0.1–0.7 per 10k words each), spread across 8–10 named characters rather than concentrated in one deuteragonist |
+
+**Read:** growth beats for the lead land steadily throughout, not saved up for a finale —
+and the supporting cast gets *many* small beats each rather than one character getting a
+big secondary arc. If your story gives one best-friend character 80% of the secondary
+development budget, that's a different shape than this book's.
+
+## 6. POV structure
+
+| Metric | Target |
+|---|---|
+| Protagonist POV share | ~87% of chapter-word-volume (combining his given-name and surname references) |
+| Secondary-character POV/focus share | ~13%, spread across 4–5 named characters at 2.5–3.7% each — brief cutaways, not sustained alternating-POV chapters |
+
+**Read:** this is single-POV-dominant with occasional short cutaway scenes to a handful of
+other named characters, not a true multi-POV structure. If you want to signal "feels like
+Iron Prince," don't build alternating-chapter dual POV — keep the lead's POV overwhelming
+and let other characters get glimpses, not chapters.
+
+## 7. What to build yourself — do not reuse
+
+This is the wall between mechanism (above, safe to target) and expression (below, never
+copy). Invent your own equivalents for every line:
+
+- **His device's name and axis labels** — do not use "CAD," "Growth," "Offense," "Defense"
+  as your system's exact terms. A multi-axis, letter-graded progression system is an
+  unprotectable *method* (§102(b) again — "system" is explicitly excluded); his specific
+  naming of it is his expression. Name your own axes.
+- **Character names** — protagonist, cast, mentors, antagonists: all original. Do not use
+  near-homophones of his names as a wink (no "Raden Word," no "Vivi").
+- **Place and institution names** — invent your own academy, city, system names.
+- **Scene sequence and content** — the *pattern* "open on the protagonist demonstrably
+  worst-in-room in a public setting" is fair game; the specific scene he wrote to do that
+  is not. Write your own scene from scratch to hit the same structural beat.
+- **Any sentence-level phrasing** — nothing lifted, nothing paraphrased closely enough that
+  a side-by-side read would show matching word order. Style-match at the level of *rhythm*
+  (§2–3), never at the level of *wording*.
+
+## 8. Supporting craft signals (secondary, use to taste)
+
+- **Filler-word discipline:** "that" runs hot (92.1 per 10k words) — a known, common genre
+  tic, not a target to imitate; if anything, tighten below this. Other fillers ("just,"
+  "almost," "felt," "seemed") sit in the 5–25-per-10k band — moderate, not aggressively
+  self-edited, not sloppy either.
+- **Adverb density:** ~161 -ly adverbs per 10k words — fairly high; this is a book that
+  lets adverbs carry tone rather than insisting on pure show-don't-tell. Not a craft flaw
+  to correct, a genre-register signal to optionally match.
+- **Dialogue-tag (reporting-verb) density:** ~41 per 10k words — moderate dialogue presence,
+  consistent with an action/interiority-forward book rather than a dialogue-driven one.
+- **Combat-vocabulary density:** ~22 per 10k words (strike/block/dodge/blade/impact/etc.) —
+  present throughout, not just in set-piece fight chapters.
+- **Readability:** Flesch Reading Ease 72.3, Flesch-Kincaid grade 6.8 — accessible YA/adult
+  crossover register, short-to-medium sentence construction, low jargon-density outside the
+  progression-vocabulary spikes.
+- **Repetition discipline:** common connective 3-grams ("out of the," "one of the," "for a
+  moment") sit at 2–4 per 10k words — normal English-prose background rate, not a
+  distinctive tic to replicate. Don't chase these; they're noise, not signature.
+
+---
+
+## 9. One-paragraph brief for the drafting agent
+
+> Write single-POV-dominant (~85–90% lead-character screen time), short-paragraph,
+> pause-heavy prose (median paragraph ~18 words, scenes breaking roughly every 900–1000
+> words). Mix short punch sentences (~28% of all sentences ≤5 words) against longer
+> compound-complex ones (mean 14.6 words, wide spread) rather than settling into uniform
+> mid-length sentences. Establish your progression system hard and often in the first
+> third of the book, then let it recede to occasional high-stakes surfacing afterward. Land
+> a protagonist growth/realization beat roughly every 2,200 words, spread evenly across the
+> book rather than saved for the climax, and give 8–10 supporting characters small
+> development beats each rather than concentrating growth in one deuteragonist. Moderate
+> dialogue-tag and adverb use; accessible ~7th-grade reading level; combat vocabulary
+> present in the background throughout, not confined to fight scenes. Every name, every
+> system-label, every scene: yours, invented, original.
+
+exec
+/bin/zsh -lc "sed -n '1,500p' editions/monroe-1.3/book-02-iron-circuit/state/movement-002/review-editorial-prompt.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Manuscript movement review
+
+Project root: /Users/drive/fractured-path-monroe13
+This is a compiled prompt, not evidence that a model ran or chapters were written.
+
+---
+
+## REVIEW
+
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+
+---
+
+## REVIEW COVERAGE
+
+7 files supplied in declared order. Only claim this coverage. If the movement is incomplete, say so. Editorial canon evidence is present only when supplied below. Without it, report apparent inconsistency, not verified canon violations.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-09.md
+
+# Chapter 9 — Priced
+
+Vell kept the river-academy man on six lines, and Cael read all six of them standing up.
+
+He had come to her table in the grey part of the morning, before the benches filled, with the excuse of a question about the purse. She had looked at him over the top of the day's book and not believed the excuse for a moment. Then she had turned back through the year without being asked, licking her thumb at every tenth page, and stopped, and laid the book open on the table between them with her hand flat beside the place.
+
+*Copper formal. Blade. River academy, two years out.* Then the six bouts, one under another in her narrow upright hand. Four wins and two losses. Under every win she had written the exchange it ended in, as she always did. Second, third, second, fourth. Under the losses she had written nothing at all except the other fighter's name.
+
+He read them twice. Then he read them a third time with his finger beside the lines, because something in the numbers was standing up and he wanted to see it plainly before he let himself believe it.
+
+"Every win ends one exchange after the other man does something."
+
+Vell waited.
+
+"The first one. You've got a note: *opp. tried the spinning cut, second.* He won in the third. This one: *opp. pressed hard from the word.* He won in the second, and the pressing was all in the first." He moved his finger down. "This one went to the fourth. Your note says the other man was a Shield and didn't do anything showy until the third. He never wins first. He waits for somebody to spend something, and then he takes what they spent it on."
+
+"And the losses?"
+
+"Nobody spent anything." He looked at the two bare lines. "He waited, and they waited, and somebody bored the judges, and it wasn't him."
+
+Vell drew the book back toward her and closed it on her thumb.
+
+"I don't know what you mean by spent. I'm only the woman who writes down who fell over. But I'll tell you one thing I do know, since you're standing there with that face." She tapped the cover. "He's never once asked me who he's fighting. Most of them ask. They come and lean on this table the week before and ask what's in the book about so-and-so, and I tell them, because it's a public book. He's never asked about anybody." She looked at Cael with her flat, thorough look. "I suppose he doesn't need the book. He's got the benches."
+
+Cael went out to the slate wall afterward and stood in front of the third slot of next week's card, where his name was chalked beside the other one with Dace's small mark between them, the line with the dot under it.
+
+He had four bouts of the river-academy man on Vell's six lines, and not one of them in his own eyes. The man had sat in the same seat for every one of Cael's nights for a month. He had seen the Ulric bout. He had seen the bout before it, and the one before that, from the third bench back with his hands flat on his knees. Whatever three columns Cael would have made of him, the man had already made of Cael, and kept them where nobody could read them, in his own head.
+
+Not once in a year had Cael gone into a week knowing less about the other fighter than the other fighter knew about him.
+
+He found he did not mind it as much as he would have expected. Part of that was plain fairness. He had done exactly this to Ulric, and to eleven others before Ulric, and he had never once thought about how it felt from the other side of the rope. Part of it was something else. A man who would spend a month of evenings on a hard bench to win one assessed bout was a man who had decided something about Cael, and had decided it carefully, and that was a kind of information too. It told him the man was patient. It told him the man was thorough. And it told him the man believed there was one thing worth waiting for, and only one.
+
+He stood in front of the wall with the chalk dust from somebody's sleeve drifting down in the light from the high windows and turned it over. A man who waited for something to be spent, and had watched for a month the one thing Cael spent every time. A man who had sat very still in the fifth exchange of the Ulric bout with his eyes on the stone where the landing had been. There was no mystery left in it, if he was honest.
+
+The river-academy man was waiting for the lock.
+
+So Cael would give him the lock. That much he had decided before he left the wall. What he did not yet know was how to give it to him at a price Cael had set himself, rather than one the other man had set while he waited.
+
+---
+
+"You want me to hit you," said Lira.
+
+"I want you to be him. And then hit me where he'd hit me."
+
+She looked at him across the alcove with her staff grounded and a strip of cloth wound round her right wrist that had not been there a week ago. There were faint blue marks under her eyes, too, the kind that came from lamps and late hours. He did not mention either. She had been short with the heavyset man on the stairs that morning and short with a pigeon on the window ledge, and he had decided on the way down the hill to be as easy to talk to as he could manage and to ask her nothing she had not offered.
+
+"He's a waiter," Cael went on. "He'll stand off. He'll give me nothing to read for two exchanges, maybe three. What he wants is for me to burst. When I do, he wants to be where I land, a half-breath before I've finished landing." He crouched and laid his hand on the stone a little in front of the chalk cross, and a little to the left of it. "So I'll pick where I land. And I'll pick what he can reach when I get there."
+
+He drew it for her with Red Cap's chalk. There was the fan, the old fan from the week of the seam, all its lines on the left side of the circle. He put a ring at the front-left of it, near the edge.
+
+"If I land there, facing the way I'll be facing, with my left guard already high before I go, the guard's the nearest thing to him. He's a Blade. A Blade wants the head or the ribs. To get to my ribs from where he'll be, he has to come round the guard, and that's a long way round in half a breath. To get to my head he has to go through the forearm." He tapped the ring. "So he hits the forearm. That's the hit. I can't move in the lock, but I can choose where my arm is before I go into it."
+
+Lira squatted on her heels and looked at the ring for a long moment.
+
+"You're going to let him hit you on the arm. So you can stand there for two *ands* and watch him do it."
+
+"Yes."
+
+"On purpose."
+
+"It's the rule. The one from the trials. The burst stays in my hip if anybody close enough to hit me has a hit I haven't priced." He sat back. "I'm not breaking it. I'm pricing it. The forearm's the price. I've paid more than that for less."
+
+She thought about it, and the stubborn set went out of her jaw a little as she thought, the way it always did when she was given something to work on instead of something to push against.
+
+"All right. Get up. I'll be a river-academy coat."
+
+She was a very good one. She stood off and gave him nothing, her staff loose and low, her weight even, and her eyes not on his face but on the floor at his left front, where the ring was. He found it unnerving to be waited for so well. He shuffled and feinted and she did not move. When at last he dropped his hip and let the floor go short, half a body to the front-left with his guard already high, he was not even all the way down before her staff was coming. He locked. It hit the outside of his left forearm exactly where he had said it would, not hard, a third of what she could have put into it.
+
+And for two *ands* he could do nothing but look.
+
+He had been in the lock a thousand times. It had always been a strange still place where the world went slow and clear and he could not touch any of it. But he had never before been in it with a strike coming toward him that he had chosen to let come. Every other time he had been looking at the open door in the other fighter, the way out of the trouble. This time he was looking at the trouble itself, all of it, from its beginning to its end. He saw her back foot finish its push. He saw the staff come round with her whole shoulder behind it and nothing held back for a second blow. He saw her wrist begin to turn at the end, to bring the staff back, and saw that for that one turn of the wrist her right side had nobody minding it.
+
+Then the lock let go, and he was moving into her right side with his short strike before he had told himself to.
+
+He pulled it a finger's width from her ribs. She looked down at his fist and then up at him.
+
+"Well. That's bought."
+
+They did it twice more, because he would not believe a thing he had done once, and then he stopped. Three bursts in a morning was a fair toll; the hip would tell him about it by noon. His forearm had a pink stripe across it that would be blue by evening. He wrote it all down on the bench with the arm resting on his knee.
+
+Lira put her staff on her shoulder.
+
+"I'm going to the docks. He said he'd come early today." She went to the arch of the alcove and stopped there with her back to him. "It's a good plan. It's the first plan of yours I've ever seen where you meant to get hit." Then she was gone up the hill, and he heard her feet break into a run once she thought he could no longer hear them.
+
+---
+
+The card that week was a big one, for the middle of the week. Dace had put a Stone pair at the top that the tannery lanes had been arguing about for a month, and half the lanes had come to settle it. By the time the third slot was called the benches were full to the walls, and the warm smell of lamp oil and wet wool sat over everything like a lid.
+
+Cael stood at his mark and let his eyes go where he had trained them to go.
+
+The river-academy man stood at his. Up close he was older than Cael had thought from the benches, nineteen or twenty. He had a long neat face and a long neat body, and the coat was off now and folded square on the end of a bench, with the river academy's grey braid along its cuffs. He held his practice blade low and loose in his right hand and looked at nothing in particular. He did not look at Cael's face, or at Cael's hands. He looked at a place on the stone a little in front of Cael and to the left.
+
+Cael felt something cold go down the back of his neck, and then go away again, because there was nothing new in it. The man was where the page said he would be.
+
+"Begin," said Vell.
+
+Nothing happened. That was the first exchange, and it was very nearly the whole of it.
+
+The man came forward a step and stopped. Cael moved off to his right, slowly, with his feet, and the man turned to follow him and no more. He offered his blade once, a short lazy lift of the point that meant nothing and was not meant to. Cael let it go by. He tried a feint of his own, a half step in with his left shoulder dipping, the step he would have used to bring an ordinary Blade forward, and the man did not come forward. He did not even shift his weight. His eyes went down once to Cael's left hip, as quick as a bird drinking, and came back up.
+
+The benches did not like it. Somebody near the betting corner groaned. Somebody else called out to the river-academy coat to wake up, and was told to be quiet by a woman behind him who had money on the boy.
+
+"End of the exchange."
+
+In the second it was the same, and worse. The man did not come forward at all. He stood a step off his mark with his blade low and turned on his heels as Cael moved round him, the way a door turns on its hinges. When Cael closed, he gave ground with his feet, neatly, never more than he had to. When Cael stopped closing, he stopped. Once, in the middle of the exchange, Cael threw his short straight strike at the man's guard, honestly, to see what came back. What came back was a tidy parry and a step away, and those eyes going down to the hip again.
+
+He was not going to commit. He was not going to give Cael a thing to read until Cael had paid him first.
+
+Cael had known that. It was on Vell's six lines. Knowing it on a page and standing inside it with a hundred and eighty people breathing on him were different things, though, and he felt the difference in his stomach. The groaning on the benches had become a kind of muttering, the sound a crowd made when it began to suspect it was not going to get what it came for. He felt the pull of it. He felt, under his breastbone, the plain animal wish to do something, anything, to make the muttering stop.
+
+He let the wish go past the top of his picture, with the hands and the roof beams.
+
+"End of the exchange."
+
+At the rope Lira did not move her hands at all. She stood with her arms folded on the top strand and looked at him, and he could see that she was counting, the way she counted the lock, under her breath.
+
+In the third exchange he showed the man his hip.
+
+He did not burst. He only let it drop, the width of a fingernail, the first beginning of the thing, the way he had let it drop a thousand mornings on the straw. Then he stopped it, and stepped with his feet instead, slow and mortal, to the left. The man's eyes went to the floor at Cael's front-left, to the exact place where the ring had been on the alcove stone. His back foot came up onto its toes. Then, when there was nobody there, it went down again, and his eyes came back.
+
+That was all. Nobody on the benches could have seen it. But Cael had seen it, and now he knew two things he had only guessed. The man knew the fan. And he had been told it, or had worked it out, so well that his body went to the landing before his mind had decided whether there would be one.
+
+"End of the exchange."
+
+Cael walked back to his mark. His mouth was dry and his hands were steady, and his left forearm, which had a blue stripe across it under the sleeve from three mornings ago, ached a little in the warm air, as though it knew what was coming for it.
+
+---
+
+"Begin."
+
+He made the man wait a little longer. He owed the plan that much. He went round to his right, and the man turned. He feinted the half step, and the man let it go by. He let the muttering on the benches climb to the edge of a jeer, and then, in the middle of a breath when nothing at all was happening, he lifted his left guard high and tight across the side of his face. He let the man see it lift, and dropped his left hip.
+
+The floor went short.
+
+He went half a body to the front-left, as he always went, and the breath stopped in him, and he landed on the place he had chosen with his weight crashing down into his heels. He locked.
+
+The man was already coming.
+
+He had started before Cael was halfway across. Cael saw that in the first instant of the lock and understood, with a cold small shock, how fast the man was when he finally let himself be. All the waiting had been stored up somewhere, like water behind a gate, and the gate was open now. His back foot had driven off the stone. His blade was coming round in a long flat cut at the height of Cael's head, with every ounce of a tall man's reach in it, and nothing held back for anything else, because there was nothing else to hold it back for. The boy on the cross could not move. Everybody on the benches who had been waiting knew it, and the room drew in its breath.
+
+The cut came down onto the guard.
+
+It hit the outside of his left forearm, a hand's width below the elbow, on top of the stripe Lira had put there. It hit hard. This was not a third of anybody's strength. A white bright pain went up the arm into the shoulder and down into the fingers, and the fingers went numb, and the forearm folded an inch against the side of his head and held there, because there was nowhere else for it to go.
+
+He did not look at the pain. He had priced it. He looked at the man.
+
+He had two *ands*, and he spent both of them looking, as he had spent them on the straw with Lira. He saw the man's back foot, all its push spent, its heel just coming down. He saw the long reach of the right arm at the end of the cut, the elbow locked straight, the blade lying across Cael's guard with all its weight gone out of it. He saw the man's shoulder, the right one, rolled forward past the line of his hip, so far forward that there was nothing left in it to bring back quickly. And he saw the man's wrist begin to turn over, to draw the blade back and up for a second cut. It was the trained turn, the river academy's tidy recovery. For the length of that turn, the man's right side, from the armpit to the hip, belonged to nobody.
+
+It was the clearest thing he had ever seen in a fight. He could see the whole cut, not as a flash and a pain but as a thing with a beginning and a middle and an end, laid out in the slow bright air like a drawing on a table. He could see where it had come from. He could see where it was going next.
+
+And he could see the beat of it. That was what surprised him most, afterward. The man's whole body had a rhythm, waiting or striking, and in the lock Cael could hear it the way you hear a clock in a quiet room. The turn of the wrist was on it. The next breath would be on it. The second cut, if it ever came, would come on it.
+
+The lock let go.
+
+He was already moving. There was no deciding left to do; it had all been done in the slow air. He came out of the lock and into the man's right side on the man's own beat, with his short straight strike coming up from the hip. As it went, something in the middle of him went *with* it, out along his right arm, the giving face of the Pressure. He had not been sure it would come with the left arm numb and his breath still catching up. It came because the beat was exact.
+
+The strike landed under the man's turned arm at the bottom of the ribs, twice as heavy as Cael's arm alone could have made it.
+
+The man folded round it. His blade, halfway through its tidy turn, went on turning without him and dropped point-first onto the stone and rang. He went down to one knee, and put a hand on the floor, and stayed there breathing in short hard pulls with his long neat face gone the colour of tallow. After a moment he lifted the other hand.
+
+"Called," said Vell. "Hand up. Fourth exchange."
+
+The room let its breath out all at once, and then made a great deal of noise.
+
+Cael stood where he was. His left arm hung at his side, and he could not feel his fingers, and under his ribs there was a cold hollow where the giving face had drawn on him. His hip had begun its long familiar complaint from the crest of the bone to the knee. He did not mind any of it. He stood on the stone a step from where he had landed and found that he was shaking very slightly, not from the hit or the cost, but from what he had seen in the lock. He had seen a whole committed strike from start to finish, as plainly as print.
+
+He had not known, until this minute, how much he wanted to see that again.
+
+---
+
+The river-academy man got up by himself.
+
+He did it carefully, one knee and then the other, with his hand pressed flat to his side. When he was up he stood a moment with his eyes shut, getting his breath back into some kind of order. Then he picked up his blade from the stone and came across the circle to where Cael stood, and held out his left hand, because his right was busy holding his ribs together.
+
+Cael took it with his right. His left was no use to anybody.
+
+"You landed where you meant to," said the river-academy man. His voice was quiet and level, an educated voice. There was no anger in it at all, only a kind of careful surprise, like a man checking a sum he had been sure of and finding it wrong.
+
+"Yes."
+
+"I've watched you land eleven times this month. Every one of them was where the fight put you." He looked down at Cael's left arm, at the blue coming up already through the sleeve. "This one was where you put it. And you put your arm there first." He let go of Cael's hand. "So I've been watching the wrong thing for a month."
+
+Cael said nothing. There was nothing he could say that would not be a gift, and he had given enough tonight.
+
+The man nodded slowly, as if Cael had answered anyway. He went back to his corner and put his coat on over the hurt side with great care, braid and all, and sat down on the end of the bench with his hands flat on his knees. He stayed there to watch the rest of the card, as he always had.
+
+Vell had the book open when Cael reached her table. She turned it toward the lamp for him, as she did, but she kept her thumb along the front of the new line, over the other fighter's name, so that he saw only the end of it.
+
+*…Fourth exchange. Atypical movement pattern.*
+
+"Thirteen," said Vell. "Copper formals this year." She took her thumb away and blotted the line before he could read the rest. "I've stopped telling you it's an insult. You don't listen." She looked at his arm. "That's going to be the colour of a plum by morning."
+
+"I know. I chose it."
+
+Vell looked at him a moment longer. Then she wrote something very small in the margin, beside the line, that he could not see, and closed the book.
+
+He went to the east bench and sat down on the plank with the Power Log open on his knee and the useless arm laid along his thigh like a parcel. He wrote with his right hand, slowly, in the twenty minutes before the bout became a story.
+
+*WIND-ADJACENT. Costs (add): the landing spent on purpose, first time against a stranger. Hit chosen before the burst: outside of the left forearm, guard high. Taken as priced. Arm numb to the fingers for the rest of the card (seen). Bought: one whole committed strike, start to end, and the man's beat. Answer came out of the lock already moving, on his beat, with the giving face on it. Hollow under the ribs after. Ruling: the trade holds against somebody who means it.*
+
+He looked at that, and it was right, and he let it stand. Then he sat with the pencil over the page for a long time without writing anything else, because the thing that was really on his mind did not belong in any of the six fields.
+
+In the lock, he had seen a commitment whole. He had seen the push of the foot and the reach of the arm and the shoulder that had nothing left, and the wrist beginning its tidy turn. He had seen all of it because, for half a breath, there had been nothing else he could do but see. And he thought that every fighter he had ever faced must have done that, the whole of it, every time they meant a strike. Ulric had done it. Dessa had done it, twice, across a rope from him in his first months. They had done it in front of him a thousand times at full speed, with all its parts there to be read, and he had caught only the edges: a heel, a shoulder, a breath. He had caught them because the edges were all that speed had let him have.
+
+Was there some way to see the middle without being locked in front of it? Could he see it from a bench, with a pencil, and no arm to pay?
+
+He did not know. He wrote it in the grey book, not the Power Log, because it was about other people: *In the lock: a whole strike, beginning to end. Want that without the lock. Don't know how. Look.*
+
+When he lifted his head the card was nearly done, and the benches had begun to empty from the back. He saw the river-academy man still sitting with his hands on his knees. He saw Lira at the rope, already turned toward him, already coming. And past her, at the very back by the water barrel, where the lamplight hardly reached, he saw a big man still sitting while everybody round him stood, broad as a door and quite still, looking toward the east wall.
+
+Then Lira was in front of him, reaching for his arm, and he forgot the man by the barrel entirely.
+
+She did not say anything at first. She took his left wrist in both hands, very gently, and turned the arm over in the lamplight, and pushed the sleeve back. The bruise was already coming up across the old stripe, darker, wider, the shape of a long flat cut. She looked at it the way she looked at a fighter's feet.
+
+"Can you feel your fingers?"
+
+"Some of them."
+
+"Which?"
+
+He thought about it. "The thumb."
+
+"The thumb." She laid his arm back along his thigh as if it were something she had borrowed and was returning. "You stood there for two *ands* with that in your arm and looked at him."
+
+"That was the plan."
+
+"I know it was the plan. I helped you make the plan." She sat down on the plank beside him, close, so that her shoulder was against his good one. "I didn't know what it would look like from the rope. You looked like you were reading. In the middle of it. Like somebody had handed you a letter." She was quiet a moment. "He saw it too, you know. The river-academy man. When you came out of the lock. His face did a thing."
+
+"What thing?"
+
+"The thing yours does when the Power Log's wrong." She leaned her head back against the brick. "I'm not going to the alcove tonight," she said, as if somebody had asked her. "I'm going to sit here till you've finished writing, and then I'm going to walk you home, and then I'm going to put that arm in cold water whether you like it or not."
+
+He did not argue. He went back to his writing, and she sat beside him with her eyes shut, and the benches emptied round them until there was nobody left in the Ironyard but the sweepers and the two of them and the lamp on its hook above the plank.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-10.md
+
+# Chapter 10 — Ceiling
+
+The arm was the colour of a plum by midnight, as Vell had promised, and Lira came home late enough to see it.
+
+He was sitting up on the end of his bed with the sleeve rolled back and a cloth wrung out in the cold water from the jug laid over the bruise. He had been doing it every half hour since the card, because the heavyset man's wife had once told him it was the only cure for a bruise that cost nothing. He heard the street door and the low word on the step and her feet on the stairs, slower than usual, one at a time. Then she was in the door between the rooms, with her staff still on her shoulder and the practice-lamp smell of hot tin and smoke still on her coat.
+
+She looked at the arm.
+
+"That's mine. Three mornings of mine, and then his on top."
+
+"Mostly his."
+
+"Mostly his." She came in and sat down on the floor with her back against the wall under his window, which was where she sat when she was too tired for a chair and too awake for bed. She leaned the staff beside her. For a while she said nothing at all, and he went on with the cloth, and the house made its night noises round them.
+
+"You want to know what I'm doing out there."
+
+He wrung the cloth out over the basin and laid it back on the arm before he answered, because he wanted to get the answer right.
+
+"I want to know when you want to tell me. Not before."
+
+She looked up at him from the floor. Something in her face eased, a very little, the way a knot eases when you stop pulling on both ends of it.
+
+"I'm not going to tell you what. Not yet. It isn't anything yet, and if I say it out loud before it's anything, it'll go. Things do that." She drew her knees up and put her arms round them. "But I'll tell you why. You might as well know why. You've been walking round it for a week like it's a hole in the stairs."
+
+He waited.
+
+"You know how it goes. The ladder. Ten ranks to a tier, and the Arbiter gives you the next one when you've used yourself enough to earn it, and a new declaration with it, a little wider than the last. You've read Joren's. You've got it copied in your old book." She did not wait for him to nod. "And at the top of Copper, at ten, it stops. Not because you've stopped. Because that's where the door is. To go through it you have to be looked at again, properly, by a registered station, the way you were looked at when you were Kindled. And a station won't look at you unless somebody with a name asks it to."
+
+"A guild."
+
+"A guild. A sponsor's letter, with a seal on it, saying *this one's ours, see what she's become*." She rested her chin on her knees. "No guild in Valdris is going to put its seal on a letter for a girl Fenmark sent home. I know. I asked six of them, the year after. I walked to two of them. One let me into the hall and one didn't."
+
+He thought of her crossing the street from collar pins for a whole winter, and said nothing.
+
+"So the registry says *Wind, Copper*, and it'll say *Wind, Copper* when I'm ninety, whatever I do. It doesn't matter how many ranks I climb. Ten's the top, and the top's a wall with a door in it, and the door's locked from the other side." She lifted her head. "Copper's the outer districts, Cael. Limited market. That's what it says on the board by the inner gate. Iron's anywhere in the city with your credentials in your hand. I've walked up to that gate four times this year, just to look through it, and I've walked back down."
+
+"And Vell's book?"
+
+"Vell's book is the truest thing in this city." She said it without any doubt at all. "And Vell's book can write *Iron-equivalent* beside my name tomorrow, if I give her reasons, and it still won't open that gate. It's a different door. It opens onto the Ironyard and that's all it opens onto." She was quiet a moment. "I'm grateful for it. Don't think I'm not. But it's not the same door."
+
+The lamp ticked. He took the cloth off the arm and looked at it, and put it back.
+
+"So you're trying to get through without the letter. The thing at night."
+
+"I'm trying to get as near to the other side as I can from this side." She looked at the floor between her boots. "An Iron Wind gets declarations I'll never be given. I watch them fight. I watch what their steps do that mine don't, and I try to work out from the outside what it is the Arbiter told them on the inside, and then I try to do it without being told." Her mouth turned down at one corner. "Some of it works. Not enough. I can get closer. I can't get there. Every time I get closer I can see better how far it still is."
+
+He sat very still on the end of the bed.
+
+It was his own method she was describing. It was the thing he did every week of his life: watch from the outside, find the shape of the thing from what it did, and build what nobody had handed him. She did it better than he did, in some ways. She knew what she was looking at. She had been taught the names. And at the end of his watching, for no reason either of them understood, a thing sometimes came, and was his, with somebody's habits still in it. At the end of hers nothing came. She could watch forever and only ever approach.
+
+He did not say any of that. There was nothing in it she could use, and tonight there was a good deal in it that could cut.
+
+---
+
+He asked her something else instead. "What do you want? Not here. Not the gate. If you could have it."
+
+She looked up at him sharply, as if he had come at her from a side she did not usually guard.
+
+"Nobody's asked me that since Fenmark."
+
+"I'm asking."
+
+"I know you are." She was quiet for so long that he thought she would not answer, and he did not mind; he had asked, and that was the part that was his to do. Then she let go of her knees and sat up straight against the wall, and put both her hands flat on the floor on either side of her, as if she meant to push off from it.
+
+"I want to be the best Wind practitioner alive."
+
+She said it plainly, the way she would have told him the price of bread. She did not look away from him when she said it.
+
+"Not good. Not one of a few names people argue about. I want it to be the kind of thing nobody bothers to argue about, because they've seen me." She stopped, and her hands pressed down on the stone. "And I want it to go back. To the room. To the man at the desk with the slate who watched me do it better than the form and wrote down that I'd failed. I don't want him sorry. I don't want to stand in front of him and say anything. I've never once imagined saying anything to him." She shook her head. "I want him to hear about me in a way he can't get out of. Years from now, from somebody else, in some corridor. I want there to be so much of me that he can't go on thinking he was right."
+
+Cael did not try to answer it. There was nothing in it to answer. It was the shape of a thing, laid out on the floor between them, and she had not asked him to mend it.
+
+But he had a thing of his own he had been carrying for weeks, and he had not known until this minute what it was for.
+
+"Then you're fighting the wrong people."
+
+"I fight Iron-equivalents. Twice a week."
+
+"In practice. And in Vell's book you fight Coppers, and you beat them." He took the cloth off his arm and put it in the basin. "Lira. You've been holding back."
+
+Her head came up.
+
+"I have not."
+
+"You have." He kept his voice level. He had learned that from Vell: a thing said level was harder to throw back than a thing said hard. "I've watched you fight five times since the summer. Not the mornings. The real ones, at the rope, with the book open. Every one of them had a place in it where you could see two lines. One was fast and close and might have gone wrong. The other was slower, and safe, and won." He held up his good hand and counted on it. "The Shield girl from the salt end, third exchange. You had the inside and you took the outside. The Blade with the long arms, second exchange, same. Every time. I counted. You see both lines, Lira. You always see both. And every time you take the one that keeps the win."
+
+"Because it wins."
+
+"It does win. Every time. And what do you know at the end of it that you didn't know at the start?"
+
+She opened her mouth and shut it.
+
+"You've never once meant to get hit. Not since I've known you."
+
+Lira sat against the wall with her hands flat on the floor and looked at him. He watched the argument go across her face, the whole of it, all its exchanges, the way he watched a bout. First came the flare, and then the reasons, and then a long hard look at the reasons, turning them over to see whether they were made of anything. He saw her find the Shield girl from the salt end in her own memory, and the third exchange, and the inside line she had not taken. He saw her find the next one.
+
+"I've been winning cleanly."
+
+"Yes."
+
+"I've been winning cleanly for months." She said it slowly, as if somebody else had said it and she were checking it over. "Winning cleanly and learning aren't the same thing."
+
+"No."
+
+She stopped.
+
+He saw her stop. It was not only the argument. It was something underneath it that had been going a long time without her noticing, the way a wheel goes round in the dark. It stopped, and for a moment she sat quite still against the wall, with nothing going round at all.
+
+"Next bout I take the other line. The fast one. Every time I see it." She looked at the bruise on his arm. "And when it goes wrong I'll let it go wrong where everybody can see."
+
+"That's going to cost."
+
+"I know what it costs. I've been not paying it for a year." She got up off the floor, and picked up her staff, and stood in the door between the rooms looking back at him. "I hate it when you're right about me. It's so much worse than when you're right about strangers."
+
+"I'm sorry."
+
+"No, you're not. Good night." And she went into her own room and shut the door, which she had not done in a year.
+
+He sat looking at it. After a minute it opened again, a hand's width, and stayed that way.
+
+---
+
+She was at Dace's wall before the sweepers had finished the floor in the morning.
+
+Cael came down the hill late, with the arm in a sling made of his old grey scarf because she had told him to, and found her standing in front of the slate with her staff grounded and Dace beside her with a stick of chalk in each hand and no expression at all. It was the face he wore when somebody had asked him for a thing he did not want to give and could not see a fair way to refuse.
+
+"An Iron-equivalent," Dace said. "Wind."
+
+"Wind," said Lira. "Formally trained, if you've got one. Somebody who learned it properly from people who were paid to teach him." She did not look round at Cael. "Somebody who'll beat me if I let him."
+
+"I've got Dravin." Dace said the name the way you set down a heavy thing, carefully, in case it marked the floor. "Guild line. Twelve years of it. He's been Iron-equivalent in Vell's book longer than you've been in this district, and he's never been anything else, and he's not about to be anything less." He looked at her sidelong. "He doesn't lose to Coppers, Lira. He doesn't lose to people who beat Coppers. Your line's the best-looking line on this wall. I can book you clean wins till midwinter."
+
+"I don't want clean wins."
+
+Dace studied her for a long moment. Then he looked past her at Cael, and at the sling, and back at her, as if a sum had come out at last.
+
+"Tuesday week," he said, and wrote it, and drew a small ring beside her name, not a hurt ring, a different shape. "That's for me. It means *ask her afterward if she meant it*."
+
+Lira laughed, and went off to the alcove, and Dace stood looking at the wall.
+
+"She asked me for him by what he is," said Dace to the slate. "Not by his name. I've had people ask me for the man who beat them, and the man who beat their brother. I've never had anybody ask me for the man most likely to beat them." He put the chalk in his pocket. "If that's your doing, I'll want to know what you said."
+
+"I told her the truth."
+
+"That's never cheap." Dace went off to unlock the side door.
+
+At the far end of the floor somebody was teaching.
+
+Cael had noticed it as he came in and set it aside. Now he looked properly. There were seven of them in a loose ring on the bare stone where the big bouts went: newcomers, by the look of them, Coppers in borrowed boots, two of them barely older than he was. In the middle of the ring a long-armed man nearer thirty than twenty was showing them how to fall. He fell himself, first, flat onto his back on the stone, with a slap of his arms that took the whole of it, and got up again as if the floor had politely handed him back. Then he watched them try. He did not shout. When one of the young ones landed wrong and lay there with the wind knocked out of him, the long-armed man crouched down beside him and waited until he could breathe.
+
+"You're in your educational period," Cael heard him say. "Everybody gets one. Mine lasted two years." He helped the boy up. "Again."
+
+"Keth," said Dace, who had come back for his slate cloth. "Blade. He's the line at Iron. When Vell wants to know whether somebody's Iron-equivalent, she asks herself what they'd do with Keth, and the book follows." He nodded toward the ring. "Comes in at dawn twice a week and teaches them that for nothing. Nobody asked him to. Nobody pays him."
+
+"Why?"
+
+"You'd have to ask him. I never have." Dace went off with his cloth.
+
+Cael stood a while longer. He had no reason to watch the man and no plan for him at all. But his eyes did what they did now without asking him, and before he had decided anything he had noticed that Keth held a practice blade with his little finger off the grip, loose, like a man holding a cup. He had noticed that when he demonstrated a cut he finished it a long way past where it needed to finish, the way people do who learned on bigger blades than the ones they carry now. He noticed that he watched the newcomers' feet and not their hands.
+
+He found he had taken out the grey book. He wrote two lines on a clean page, with the man's name at the head of it.
+
+*Keth. Blade. Iron line. Little finger off the grip; cuts finish long (bigger blade once?). Watches feet. Teaches for nothing, twice a week, at dawn.*
+
+*No reason for this page.*
+
+Then he put the book away and went to the alcove, feeling slightly foolish, like a man who has caught himself counting the stairs.
+
+---
+
+Hesk's reply came that same week, which was quick for the east bag, and the carriers' boy brought it up to the boarding house himself because the heavyset man had told the whole hut that the Hesk-ward boy paid a copper to have his letters run.
+
+It was short. Hesk's letters always were. He wrote the way he cut metal, once, and did not go back over it.
+
+*The wheel freezes at midwinter most years. Not the wheel. The race. I go down at first light with the long bar and break it at the sluice, and some mornings it has to be broken twice before breakfast. The dog comes and watches and is no help.*
+
+*You say you think you took the way you set your feet from me. I expect you did. I'll tell you something. I took it from the man who had the bench before me. I laughed at him for it the whole first year. Then one day I looked down and I was doing it. I never knew who he took it from.*
+
+*We're all carrying somebody, lad. Most of us never get a notice to tell us who.*
+
+*Mind the hip. Eat what the girl doesn't.*
+
+*H.*
+
+He read it twice at the crate desk, and then he read the line about the notice a third time and sat with it.
+
+He thought about the man who had the bench before Hesk, whom Hesk had laughed at, and who had laughed, no doubt, at somebody before him. He thought about the farmer in the barn with his left hand tied behind his back, and Lira copying him for a year without knowing she was taking anything but the lesson. A long line of people went back from his own two feet into the dark, each one setting a housing square or dropping a left hip because the one before had done it. None of them had been told. Hesk had found out by looking down one day. Lira had found out because a boy who could not make his step go right had asked her to walk from a post to a chalk cross ten times.
+
+And he had found out because something wrote it down for him in a box with fields. He did not know whether that made him luckier than the others or only noisier.
+
+He folded the letter along its old creases and put it into the back of Hesk's leather notebook, where the others were, and went down to the kitchen, where Lira was making pies.
+
+She made them on the evenings she did not go to the docks, in the single iron pan the household let her use, at the end of the big table. She made far too many, because she had learned to cook for a farmhouse and had never learned to cook for anything less. The heavyset man's wife sat at the other end of the table pretending not to watch, and there was flour on Lira's sleeve to the elbow.
+
+He put the grey book down beside her, open at the page with Dravin's name at the head of it.
+
+"I've seen him twice. Last spring. Both times against Wind. There are some things on there you could use."
+
+
+exec
+/bin/zsh -lc "sed -n '1,200p' editions/monroe-1.3/book-02-iron-circuit/state/movement-002/review-editorial-prompt.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Manuscript movement review
+
+Project root: /Users/drive/fractured-path-monroe13
+This is a compiled prompt, not evidence that a model ran or chapters were written.
+
+---
+
+## REVIEW
+
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+
+---
+
+## REVIEW COVERAGE
+
+7 files supplied in declared order. Only claim this coverage. If the movement is incomplete, say so. Editorial canon evidence is present only when supplied below. Without it, report apparent inconsistency, not verified canon violations.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-09.md
+
+# Chapter 9 — Priced
+
+Vell kept the river-academy man on six lines, and Cael read all six of them standing up.
+
+He had come to her table in the grey part of the morning, before the benches filled, with the excuse of a question about the purse. She had looked at him over the top of the day's book and not believed the excuse for a moment. Then she had turned back through the year without being asked, licking her thumb at every tenth page, and stopped, and laid the book open on the table between them with her hand flat beside the place.
+
+*Copper formal. Blade. River academy, two years out.* Then the six bouts, one under another in her narrow upright hand. Four wins and two losses. Under every win she had written the exchange it ended in, as she always did. Second, third, second, fourth. Under the losses she had written nothing at all except the other fighter's name.
+
+He read them twice. Then he read them a third time with his finger beside the lines, because something in the numbers was standing up and he wanted to see it plainly before he let himself believe it.
+
+"Every win ends one exchange after the other man does something."
+
+Vell waited.
+
+"The first one. You've got a note: *opp. tried the spinning cut, second.* He won in the third. This one: *opp. pressed hard from the word.* He won in the second, and the pressing was all in the first." He moved his finger down. "This one went to the fourth. Your note says the other man was a Shield and didn't do anything showy until the third. He never wins first. He waits for somebody to spend something, and then he takes what they spent it on."
+
+"And the losses?"
+
+"Nobody spent anything." He looked at the two bare lines. "He waited, and they waited, and somebody bored the judges, and it wasn't him."
+
+Vell drew the book back toward her and closed it on her thumb.
+
+"I don't know what you mean by spent. I'm only the woman who writes down who fell over. But I'll tell you one thing I do know, since you're standing there with that face." She tapped the cover. "He's never once asked me who he's fighting. Most of them ask. They come and lean on this table the week before and ask what's in the book about so-and-so, and I tell them, because it's a public book. He's never asked about anybody." She looked at Cael with her flat, thorough look. "I suppose he doesn't need the book. He's got the benches."
+
+Cael went out to the slate wall afterward and stood in front of the third slot of next week's card, where his name was chalked beside the other one with Dace's small mark between them, the line with the dot under it.
+
+He had four bouts of the river-academy man on Vell's six lines, and not one of them in his own eyes. The man had sat in the same seat for every one of Cael's nights for a month. He had seen the Ulric bout. He had seen the bout before it, and the one before that, from the third bench back with his hands flat on his knees. Whatever three columns Cael would have made of him, the man had already made of Cael, and kept them where nobody could read them, in his own head.
+
+Not once in a year had Cael gone into a week knowing less about the other fighter than the other fighter knew about him.
+
+He found he did not mind it as much as he would have expected. Part of that was plain fairness. He had done exactly this to Ulric, and to eleven others before Ulric, and he had never once thought about how it felt from the other side of the rope. Part of it was something else. A man who would spend a month of evenings on a hard bench to win one assessed bout was a man who had decided something about Cael, and had decided it carefully, and that was a kind of information too. It told him the man was patient. It told him the man was thorough. And it told him the man believed there was one thing worth waiting for, and only one.
+
+He stood in front of the wall with the chalk dust from somebody's sleeve drifting down in the light from the high windows and turned it over. A man who waited for something to be spent, and had watched for a month the one thing Cael spent every time. A man who had sat very still in the fifth exchange of the Ulric bout with his eyes on the stone where the landing had been. There was no mystery left in it, if he was honest.
+
+The river-academy man was waiting for the lock.
+
+So Cael would give him the lock. That much he had decided before he left the wall. What he did not yet know was how to give it to him at a price Cael had set himself, rather than one the other man had set while he waited.
+
+---
+
+"You want me to hit you," said Lira.
+
+"I want you to be him. And then hit me where he'd hit me."
+
+She looked at him across the alcove with her staff grounded and a strip of cloth wound round her right wrist that had not been there a week ago. There were faint blue marks under her eyes, too, the kind that came from lamps and late hours. He did not mention either. She had been short with the heavyset man on the stairs that morning and short with a pigeon on the window ledge, and he had decided on the way down the hill to be as easy to talk to as he could manage and to ask her nothing she had not offered.
+
+"He's a waiter," Cael went on. "He'll stand off. He'll give me nothing to read for two exchanges, maybe three. What he wants is for me to burst. When I do, he wants to be where I land, a half-breath before I've finished landing." He crouched and laid his hand on the stone a little in front of the chalk cross, and a little to the left of it. "So I'll pick where I land. And I'll pick what he can reach when I get there."
+
+He drew it for her with Red Cap's chalk. There was the fan, the old fan from the week of the seam, all its lines on the left side of the circle. He put a ring at the front-left of it, near the edge.
+
+"If I land there, facing the way I'll be facing, with my left guard already high before I go, the guard's the nearest thing to him. He's a Blade. A Blade wants the head or the ribs. To get to my ribs from where he'll be, he has to come round the guard, and that's a long way round in half a breath. To get to my head he has to go through the forearm." He tapped the ring. "So he hits the forearm. That's the hit. I can't move in the lock, but I can choose where my arm is before I go into it."
+
+Lira squatted on her heels and looked at the ring for a long moment.
+
+"You're going to let him hit you on the arm. So you can stand there for two *ands* and watch him do it."
+
+"Yes."
+
+"On purpose."
+
+"It's the rule. The one from the trials. The burst stays in my hip if anybody close enough to hit me has a hit I haven't priced." He sat back. "I'm not breaking it. I'm pricing it. The forearm's the price. I've paid more than that for less."
+
+She thought about it, and the stubborn set went out of her jaw a little as she thought, the way it always did when she was given something to work on instead of something to push against.
+
+"All right. Get up. I'll be a river-academy coat."
+
+She was a very good one. She stood off and gave him nothing, her staff loose and low, her weight even, and her eyes not on his face but on the floor at his left front, where the ring was. He found it unnerving to be waited for so well. He shuffled and feinted and she did not move. When at last he dropped his hip and let the floor go short, half a body to the front-left with his guard already high, he was not even all the way down before her staff was coming. He locked. It hit the outside of his left forearm exactly where he had said it would, not hard, a third of what she could have put into it.
+
+And for two *ands* he could do nothing but look.
+
+He had been in the lock a thousand times. It had always been a strange still place where the world went slow and clear and he could not touch any of it. But he had never before been in it with a strike coming toward him that he had chosen to let come. Every other time he had been looking at the open door in the other fighter, the way out of the trouble. This time he was looking at the trouble itself, all of it, from its beginning to its end. He saw her back foot finish its push. He saw the staff come round with her whole shoulder behind it and nothing held back for a second blow. He saw her wrist begin to turn at the end, to bring the staff back, and saw that for that one turn of the wrist her right side had nobody minding it.
+
+Then the lock let go, and he was moving into her right side with his short strike before he had told himself to.
+
+He pulled it a finger's width from her ribs. She looked down at his fist and then up at him.
+
+"Well. That's bought."
+
+They did it twice more, because he would not believe a thing he had done once, and then he stopped. Three bursts in a morning was a fair toll; the hip would tell him about it by noon. His forearm had a pink stripe across it that would be blue by evening. He wrote it all down on the bench with the arm resting on his knee.
+
+Lira put her staff on her shoulder.
+
+"I'm going to the docks. He said he'd come early today." She went to the arch of the alcove and stopped there with her back to him. "It's a good plan. It's the first plan of yours I've ever seen where you meant to get hit." Then she was gone up the hill, and he heard her feet break into a run once she thought he could no longer hear them.
+
+---
+
+The card that week was a big one, for the middle of the week. Dace had put a Stone pair at the top that the tannery lanes had been arguing about for a month, and half the lanes had come to settle it. By the time the third slot was called the benches were full to the walls, and the warm smell of lamp oil and wet wool sat over everything like a lid.
+
+Cael stood at his mark and let his eyes go where he had trained them to go.
+
+The river-academy man stood at his. Up close he was older than Cael had thought from the benches, nineteen or twenty. He had a long neat face and a long neat body, and the coat was off now and folded square on the end of a bench, with the river academy's grey braid along its cuffs. He held his practice blade low and loose in his right hand and looked at nothing in particular. He did not look at Cael's face, or at Cael's hands. He looked at a place on the stone a little in front of Cael and to the left.
+
+Cael felt something cold go down the back of his neck, and then go away again, because there was nothing new in it. The man was where the page said he would be.
+
+"Begin," said Vell.
+
+Nothing happened. That was the first exchange, and it was very nearly the whole of it.
+
+The man came forward a step and stopped. Cael moved off to his right, slowly, with his feet, and the man turned to follow him and no more. He offered his blade once, a short lazy lift of the point that meant nothing and was not meant to. Cael let it go by. He tried a feint of his own, a half step in with his left shoulder dipping, the step he would have used to bring an ordinary Blade forward, and the man did not come forward. He did not even shift his weight. His eyes went down once to Cael's left hip, as quick as a bird drinking, and came back up.
+
+The benches did not like it. Somebody near the betting corner groaned. Somebody else called out to the river-academy coat to wake up, and was told to be quiet by a woman behind him who had money on the boy.
+
+"End of the exchange."
+
+In the second it was the same, and worse. The man did not come forward at all. He stood a step off his mark with his blade low and turned on his heels as Cael moved round him, the way a door turns on its hinges. When Cael closed, he gave ground with his feet, neatly, never more than he had to. When Cael stopped closing, he stopped. Once, in the middle of the exchange, Cael threw his short straight strike at the man's guard, honestly, to see what came back. What came back was a tidy parry and a step away, and those eyes going down to the hip again.
+
+He was not going to commit. He was not going to give Cael a thing to read until Cael had paid him first.
+
+Cael had known that. It was on Vell's six lines. Knowing it on a page and standing inside it with a hundred and eighty people breathing on him were different things, though, and he felt the difference in his stomach. The groaning on the benches had become a kind of muttering, the sound a crowd made when it began to suspect it was not going to get what it came for. He felt the pull of it. He felt, under his breastbone, the plain animal wish to do something, anything, to make the muttering stop.
+
+He let the wish go past the top of his picture, with the hands and the roof beams.
+
+"End of the exchange."
+
+At the rope Lira did not move her hands at all. She stood with her arms folded on the top strand and looked at him, and he could see that she was counting, the way she counted the lock, under her breath.
+
+In the third exchange he showed the man his hip.
+
+He did not burst. He only let it drop, the width of a fingernail, the first beginning of the thing, the way he had let it drop a thousand mornings on the straw. Then he stopped it, and stepped with his feet instead, slow and mortal, to the left. The man's eyes went to the floor at Cael's front-left, to the exact place where the ring had been on the alcove stone. His back foot came up onto its toes. Then, when there was nobody there, it went down again, and his eyes came back.
+
+That was all. Nobody on the benches could have seen it. But Cael had seen it, and now he knew two things he had only guessed. The man knew the fan. And he had been told it, or had worked it out, so well that his body went to the landing before his mind had decided whether there would be one.
+
+"End of the exchange."
+
+Cael walked back to his mark. His mouth was dry and his hands were steady, and his left forearm, which had a blue stripe across it under the sleeve from three mornings ago, ached a little in the warm air, as though it knew what was coming for it.
+
+---
+
+"Begin."
+
+He made the man wait a little longer. He owed the plan that much. He went round to his right, and the man turned. He feinted the half step, and the man let it go by. He let the muttering on the benches climb to the edge of a jeer, and then, in the middle of a breath when nothing at all was happening, he lifted his left guard high and tight across the side of his face. He let the man see it lift, and dropped his left hip.
+
+The floor went short.
+
+He went half a body to the front-left, as he always went, and the breath stopped in him, and he landed on the place he had chosen with his weight crashing down into his heels. He locked.
+
+
+exec
+/bin/zsh -lc "sed -n '201,400p' editions/monroe-1.3/book-02-iron-circuit/state/movement-002/review-editorial-prompt.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+The man was already coming.
+
+He had started before Cael was halfway across. Cael saw that in the first instant of the lock and understood, with a cold small shock, how fast the man was when he finally let himself be. All the waiting had been stored up somewhere, like water behind a gate, and the gate was open now. His back foot had driven off the stone. His blade was coming round in a long flat cut at the height of Cael's head, with every ounce of a tall man's reach in it, and nothing held back for anything else, because there was nothing else to hold it back for. The boy on the cross could not move. Everybody on the benches who had been waiting knew it, and the room drew in its breath.
+
+The cut came down onto the guard.
+
+It hit the outside of his left forearm, a hand's width below the elbow, on top of the stripe Lira had put there. It hit hard. This was not a third of anybody's strength. A white bright pain went up the arm into the shoulder and down into the fingers, and the fingers went numb, and the forearm folded an inch against the side of his head and held there, because there was nowhere else for it to go.
+
+He did not look at the pain. He had priced it. He looked at the man.
+
+He had two *ands*, and he spent both of them looking, as he had spent them on the straw with Lira. He saw the man's back foot, all its push spent, its heel just coming down. He saw the long reach of the right arm at the end of the cut, the elbow locked straight, the blade lying across Cael's guard with all its weight gone out of it. He saw the man's shoulder, the right one, rolled forward past the line of his hip, so far forward that there was nothing left in it to bring back quickly. And he saw the man's wrist begin to turn over, to draw the blade back and up for a second cut. It was the trained turn, the river academy's tidy recovery. For the length of that turn, the man's right side, from the armpit to the hip, belonged to nobody.
+
+It was the clearest thing he had ever seen in a fight. He could see the whole cut, not as a flash and a pain but as a thing with a beginning and a middle and an end, laid out in the slow bright air like a drawing on a table. He could see where it had come from. He could see where it was going next.
+
+And he could see the beat of it. That was what surprised him most, afterward. The man's whole body had a rhythm, waiting or striking, and in the lock Cael could hear it the way you hear a clock in a quiet room. The turn of the wrist was on it. The next breath would be on it. The second cut, if it ever came, would come on it.
+
+The lock let go.
+
+He was already moving. There was no deciding left to do; it had all been done in the slow air. He came out of the lock and into the man's right side on the man's own beat, with his short straight strike coming up from the hip. As it went, something in the middle of him went *with* it, out along his right arm, the giving face of the Pressure. He had not been sure it would come with the left arm numb and his breath still catching up. It came because the beat was exact.
+
+The strike landed under the man's turned arm at the bottom of the ribs, twice as heavy as Cael's arm alone could have made it.
+
+The man folded round it. His blade, halfway through its tidy turn, went on turning without him and dropped point-first onto the stone and rang. He went down to one knee, and put a hand on the floor, and stayed there breathing in short hard pulls with his long neat face gone the colour of tallow. After a moment he lifted the other hand.
+
+"Called," said Vell. "Hand up. Fourth exchange."
+
+The room let its breath out all at once, and then made a great deal of noise.
+
+Cael stood where he was. His left arm hung at his side, and he could not feel his fingers, and under his ribs there was a cold hollow where the giving face had drawn on him. His hip had begun its long familiar complaint from the crest of the bone to the knee. He did not mind any of it. He stood on the stone a step from where he had landed and found that he was shaking very slightly, not from the hit or the cost, but from what he had seen in the lock. He had seen a whole committed strike from start to finish, as plainly as print.
+
+He had not known, until this minute, how much he wanted to see that again.
+
+---
+
+The river-academy man got up by himself.
+
+He did it carefully, one knee and then the other, with his hand pressed flat to his side. When he was up he stood a moment with his eyes shut, getting his breath back into some kind of order. Then he picked up his blade from the stone and came across the circle to where Cael stood, and held out his left hand, because his right was busy holding his ribs together.
+
+Cael took it with his right. His left was no use to anybody.
+
+"You landed where you meant to," said the river-academy man. His voice was quiet and level, an educated voice. There was no anger in it at all, only a kind of careful surprise, like a man checking a sum he had been sure of and finding it wrong.
+
+"Yes."
+
+"I've watched you land eleven times this month. Every one of them was where the fight put you." He looked down at Cael's left arm, at the blue coming up already through the sleeve. "This one was where you put it. And you put your arm there first." He let go of Cael's hand. "So I've been watching the wrong thing for a month."
+
+Cael said nothing. There was nothing he could say that would not be a gift, and he had given enough tonight.
+
+The man nodded slowly, as if Cael had answered anyway. He went back to his corner and put his coat on over the hurt side with great care, braid and all, and sat down on the end of the bench with his hands flat on his knees. He stayed there to watch the rest of the card, as he always had.
+
+Vell had the book open when Cael reached her table. She turned it toward the lamp for him, as she did, but she kept her thumb along the front of the new line, over the other fighter's name, so that he saw only the end of it.
+
+*…Fourth exchange. Atypical movement pattern.*
+
+"Thirteen," said Vell. "Copper formals this year." She took her thumb away and blotted the line before he could read the rest. "I've stopped telling you it's an insult. You don't listen." She looked at his arm. "That's going to be the colour of a plum by morning."
+
+"I know. I chose it."
+
+Vell looked at him a moment longer. Then she wrote something very small in the margin, beside the line, that he could not see, and closed the book.
+
+He went to the east bench and sat down on the plank with the Power Log open on his knee and the useless arm laid along his thigh like a parcel. He wrote with his right hand, slowly, in the twenty minutes before the bout became a story.
+
+*WIND-ADJACENT. Costs (add): the landing spent on purpose, first time against a stranger. Hit chosen before the burst: outside of the left forearm, guard high. Taken as priced. Arm numb to the fingers for the rest of the card (seen). Bought: one whole committed strike, start to end, and the man's beat. Answer came out of the lock already moving, on his beat, with the giving face on it. Hollow under the ribs after. Ruling: the trade holds against somebody who means it.*
+
+He looked at that, and it was right, and he let it stand. Then he sat with the pencil over the page for a long time without writing anything else, because the thing that was really on his mind did not belong in any of the six fields.
+
+In the lock, he had seen a commitment whole. He had seen the push of the foot and the reach of the arm and the shoulder that had nothing left, and the wrist beginning its tidy turn. He had seen all of it because, for half a breath, there had been nothing else he could do but see. And he thought that every fighter he had ever faced must have done that, the whole of it, every time they meant a strike. Ulric had done it. Dessa had done it, twice, across a rope from him in his first months. They had done it in front of him a thousand times at full speed, with all its parts there to be read, and he had caught only the edges: a heel, a shoulder, a breath. He had caught them because the edges were all that speed had let him have.
+
+Was there some way to see the middle without being locked in front of it? Could he see it from a bench, with a pencil, and no arm to pay?
+
+He did not know. He wrote it in the grey book, not the Power Log, because it was about other people: *In the lock: a whole strike, beginning to end. Want that without the lock. Don't know how. Look.*
+
+When he lifted his head the card was nearly done, and the benches had begun to empty from the back. He saw the river-academy man still sitting with his hands on his knees. He saw Lira at the rope, already turned toward him, already coming. And past her, at the very back by the water barrel, where the lamplight hardly reached, he saw a big man still sitting while everybody round him stood, broad as a door and quite still, looking toward the east wall.
+
+Then Lira was in front of him, reaching for his arm, and he forgot the man by the barrel entirely.
+
+She did not say anything at first. She took his left wrist in both hands, very gently, and turned the arm over in the lamplight, and pushed the sleeve back. The bruise was already coming up across the old stripe, darker, wider, the shape of a long flat cut. She looked at it the way she looked at a fighter's feet.
+
+"Can you feel your fingers?"
+
+"Some of them."
+
+"Which?"
+
+He thought about it. "The thumb."
+
+"The thumb." She laid his arm back along his thigh as if it were something she had borrowed and was returning. "You stood there for two *ands* with that in your arm and looked at him."
+
+"That was the plan."
+
+"I know it was the plan. I helped you make the plan." She sat down on the plank beside him, close, so that her shoulder was against his good one. "I didn't know what it would look like from the rope. You looked like you were reading. In the middle of it. Like somebody had handed you a letter." She was quiet a moment. "He saw it too, you know. The river-academy man. When you came out of the lock. His face did a thing."
+
+"What thing?"
+
+"The thing yours does when the Power Log's wrong." She leaned her head back against the brick. "I'm not going to the alcove tonight," she said, as if somebody had asked her. "I'm going to sit here till you've finished writing, and then I'm going to walk you home, and then I'm going to put that arm in cold water whether you like it or not."
+
+He did not argue. He went back to his writing, and she sat beside him with her eyes shut, and the benches emptied round them until there was nobody left in the Ironyard but the sweepers and the two of them and the lamp on its hook above the plank.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-10.md
+
+# Chapter 10 — Ceiling
+
+The arm was the colour of a plum by midnight, as Vell had promised, and Lira came home late enough to see it.
+
+He was sitting up on the end of his bed with the sleeve rolled back and a cloth wrung out in the cold water from the jug laid over the bruise. He had been doing it every half hour since the card, because the heavyset man's wife had once told him it was the only cure for a bruise that cost nothing. He heard the street door and the low word on the step and her feet on the stairs, slower than usual, one at a time. Then she was in the door between the rooms, with her staff still on her shoulder and the practice-lamp smell of hot tin and smoke still on her coat.
+
+She looked at the arm.
+
+"That's mine. Three mornings of mine, and then his on top."
+
+"Mostly his."
+
+"Mostly his." She came in and sat down on the floor with her back against the wall under his window, which was where she sat when she was too tired for a chair and too awake for bed. She leaned the staff beside her. For a while she said nothing at all, and he went on with the cloth, and the house made its night noises round them.
+
+"You want to know what I'm doing out there."
+
+He wrung the cloth out over the basin and laid it back on the arm before he answered, because he wanted to get the answer right.
+
+"I want to know when you want to tell me. Not before."
+
+She looked up at him from the floor. Something in her face eased, a very little, the way a knot eases when you stop pulling on both ends of it.
+
+"I'm not going to tell you what. Not yet. It isn't anything yet, and if I say it out loud before it's anything, it'll go. Things do that." She drew her knees up and put her arms round them. "But I'll tell you why. You might as well know why. You've been walking round it for a week like it's a hole in the stairs."
+
+He waited.
+
+"You know how it goes. The ladder. Ten ranks to a tier, and the Arbiter gives you the next one when you've used yourself enough to earn it, and a new declaration with it, a little wider than the last. You've read Joren's. You've got it copied in your old book." She did not wait for him to nod. "And at the top of Copper, at ten, it stops. Not because you've stopped. Because that's where the door is. To go through it you have to be looked at again, properly, by a registered station, the way you were looked at when you were Kindled. And a station won't look at you unless somebody with a name asks it to."
+
+"A guild."
+
+"A guild. A sponsor's letter, with a seal on it, saying *this one's ours, see what she's become*." She rested her chin on her knees. "No guild in Valdris is going to put its seal on a letter for a girl Fenmark sent home. I know. I asked six of them, the year after. I walked to two of them. One let me into the hall and one didn't."
+
+He thought of her crossing the street from collar pins for a whole winter, and said nothing.
+
+"So the registry says *Wind, Copper*, and it'll say *Wind, Copper* when I'm ninety, whatever I do. It doesn't matter how many ranks I climb. Ten's the top, and the top's a wall with a door in it, and the door's locked from the other side." She lifted her head. "Copper's the outer districts, Cael. Limited market. That's what it says on the board by the inner gate. Iron's anywhere in the city with your credentials in your hand. I've walked up to that gate four times this year, just to look through it, and I've walked back down."
+
+"And Vell's book?"
+
+"Vell's book is the truest thing in this city." She said it without any doubt at all. "And Vell's book can write *Iron-equivalent* beside my name tomorrow, if I give her reasons, and it still won't open that gate. It's a different door. It opens onto the Ironyard and that's all it opens onto." She was quiet a moment. "I'm grateful for it. Don't think I'm not. But it's not the same door."
+
+The lamp ticked. He took the cloth off the arm and looked at it, and put it back.
+
+"So you're trying to get through without the letter. The thing at night."
+
+"I'm trying to get as near to the other side as I can from this side." She looked at the floor between her boots. "An Iron Wind gets declarations I'll never be given. I watch them fight. I watch what their steps do that mine don't, and I try to work out from the outside what it is the Arbiter told them on the inside, and then I try to do it without being told." Her mouth turned down at one corner. "Some of it works. Not enough. I can get closer. I can't get there. Every time I get closer I can see better how far it still is."
+
+He sat very still on the end of the bed.
+
+It was his own method she was describing. It was the thing he did every week of his life: watch from the outside, find the shape of the thing from what it did, and build what nobody had handed him. She did it better than he did, in some ways. She knew what she was looking at. She had been taught the names. And at the end of his watching, for no reason either of them understood, a thing sometimes came, and was his, with somebody's habits still in it. At the end of hers nothing came. She could watch forever and only ever approach.
+
+He did not say any of that. There was nothing in it she could use, and tonight there was a good deal in it that could cut.
+
+---
+
+He asked her something else instead. "What do you want? Not here. Not the gate. If you could have it."
+
+She looked up at him sharply, as if he had come at her from a side she did not usually guard.
+
+"Nobody's asked me that since Fenmark."
+
+"I'm asking."
+
+"I know you are." She was quiet for so long that he thought she would not answer, and he did not mind; he had asked, and that was the part that was his to do. Then she let go of her knees and sat up straight against the wall, and put both her hands flat on the floor on either side of her, as if she meant to push off from it.
+
+"I want to be the best Wind practitioner alive."
+
+She said it plainly, the way she would have told him the price of bread. She did not look away from him when she said it.
+
+"Not good. Not one of a few names people argue about. I want it to be the kind of thing nobody bothers to argue about, because they've seen me." She stopped, and her hands pressed down on the stone. "And I want it to go back. To the room. To the man at the desk with the slate who watched me do it better than the form and wrote down that I'd failed. I don't want him sorry. I don't want to stand in front of him and say anything. I've never once imagined saying anything to him." She shook her head. "I want him to hear about me in a way he can't get out of. Years from now, from somebody else, in some corridor. I want there to be so much of me that he can't go on thinking he was right."
+
+Cael did not try to answer it. There was nothing in it to answer. It was the shape of a thing, laid out on the floor between them, and she had not asked him to mend it.
+
+But he had a thing of his own he had been carrying for weeks, and he had not known until this minute what it was for.
+
+"Then you're fighting the wrong people."
+
+"I fight Iron-equivalents. Twice a week."
+
+"In practice. And in Vell's book you fight Coppers, and you beat them." He took the cloth off his arm and put it in the basin. "Lira. You've been holding back."
+
+Her head came up.
+
+"I have not."
+
+"You have." He kept his voice level. He had learned that from Vell: a thing said level was harder to throw back than a thing said hard. "I've watched you fight five times since the summer. Not the mornings. The real ones, at the rope, with the book open. Every one of them had a place in it where you could see two lines. One was fast and close and might have gone wrong. The other was slower, and safe, and won." He held up his good hand and counted on it. "The Shield girl from the salt end, third exchange. You had the inside and you took the outside. The Blade with the long arms, second exchange, same. Every time. I counted. You see both lines, Lira. You always see both. And every time you take the one that keeps the win."
+
+"Because it wins."
+
+"It does win. Every time. And what do you know at the end of it that you didn't know at the start?"
+
+She opened her mouth and shut it.
+
+"You've never once meant to get hit. Not since I've known you."
+
+Lira sat against the wall with her hands flat on the floor and looked at him. He watched the argument go across her face, the whole of it, all its exchanges, the way he watched a bout. First came the flare, and then the reasons, and then a long hard look at the reasons, turning them over to see whether they were made of anything. He saw her find the Shield girl from the salt end in her own memory, and the third exchange, and the inside line she had not taken. He saw her find the next one.
+
+"I've been winning cleanly."
+
+
+exec
+/bin/zsh -lc "sed -n '401,600p' editions/monroe-1.3/book-02-iron-circuit/state/movement-002/review-editorial-prompt.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+"Yes."
+
+"I've been winning cleanly for months." She said it slowly, as if somebody else had said it and she were checking it over. "Winning cleanly and learning aren't the same thing."
+
+"No."
+
+She stopped.
+
+He saw her stop. It was not only the argument. It was something underneath it that had been going a long time without her noticing, the way a wheel goes round in the dark. It stopped, and for a moment she sat quite still against the wall, with nothing going round at all.
+
+"Next bout I take the other line. The fast one. Every time I see it." She looked at the bruise on his arm. "And when it goes wrong I'll let it go wrong where everybody can see."
+
+"That's going to cost."
+
+"I know what it costs. I've been not paying it for a year." She got up off the floor, and picked up her staff, and stood in the door between the rooms looking back at him. "I hate it when you're right about me. It's so much worse than when you're right about strangers."
+
+"I'm sorry."
+
+"No, you're not. Good night." And she went into her own room and shut the door, which she had not done in a year.
+
+He sat looking at it. After a minute it opened again, a hand's width, and stayed that way.
+
+---
+
+She was at Dace's wall before the sweepers had finished the floor in the morning.
+
+Cael came down the hill late, with the arm in a sling made of his old grey scarf because she had told him to, and found her standing in front of the slate with her staff grounded and Dace beside her with a stick of chalk in each hand and no expression at all. It was the face he wore when somebody had asked him for a thing he did not want to give and could not see a fair way to refuse.
+
+"An Iron-equivalent," Dace said. "Wind."
+
+"Wind," said Lira. "Formally trained, if you've got one. Somebody who learned it properly from people who were paid to teach him." She did not look round at Cael. "Somebody who'll beat me if I let him."
+
+"I've got Dravin." Dace said the name the way you set down a heavy thing, carefully, in case it marked the floor. "Guild line. Twelve years of it. He's been Iron-equivalent in Vell's book longer than you've been in this district, and he's never been anything else, and he's not about to be anything less." He looked at her sidelong. "He doesn't lose to Coppers, Lira. He doesn't lose to people who beat Coppers. Your line's the best-looking line on this wall. I can book you clean wins till midwinter."
+
+"I don't want clean wins."
+
+Dace studied her for a long moment. Then he looked past her at Cael, and at the sling, and back at her, as if a sum had come out at last.
+
+"Tuesday week," he said, and wrote it, and drew a small ring beside her name, not a hurt ring, a different shape. "That's for me. It means *ask her afterward if she meant it*."
+
+Lira laughed, and went off to the alcove, and Dace stood looking at the wall.
+
+"She asked me for him by what he is," said Dace to the slate. "Not by his name. I've had people ask me for the man who beat them, and the man who beat their brother. I've never had anybody ask me for the man most likely to beat them." He put the chalk in his pocket. "If that's your doing, I'll want to know what you said."
+
+"I told her the truth."
+
+"That's never cheap." Dace went off to unlock the side door.
+
+At the far end of the floor somebody was teaching.
+
+Cael had noticed it as he came in and set it aside. Now he looked properly. There were seven of them in a loose ring on the bare stone where the big bouts went: newcomers, by the look of them, Coppers in borrowed boots, two of them barely older than he was. In the middle of the ring a long-armed man nearer thirty than twenty was showing them how to fall. He fell himself, first, flat onto his back on the stone, with a slap of his arms that took the whole of it, and got up again as if the floor had politely handed him back. Then he watched them try. He did not shout. When one of the young ones landed wrong and lay there with the wind knocked out of him, the long-armed man crouched down beside him and waited until he could breathe.
+
+"You're in your educational period," Cael heard him say. "Everybody gets one. Mine lasted two years." He helped the boy up. "Again."
+
+"Keth," said Dace, who had come back for his slate cloth. "Blade. He's the line at Iron. When Vell wants to know whether somebody's Iron-equivalent, she asks herself what they'd do with Keth, and the book follows." He nodded toward the ring. "Comes in at dawn twice a week and teaches them that for nothing. Nobody asked him to. Nobody pays him."
+
+"Why?"
+
+"You'd have to ask him. I never have." Dace went off with his cloth.
+
+Cael stood a while longer. He had no reason to watch the man and no plan for him at all. But his eyes did what they did now without asking him, and before he had decided anything he had noticed that Keth held a practice blade with his little finger off the grip, loose, like a man holding a cup. He had noticed that when he demonstrated a cut he finished it a long way past where it needed to finish, the way people do who learned on bigger blades than the ones they carry now. He noticed that he watched the newcomers' feet and not their hands.
+
+He found he had taken out the grey book. He wrote two lines on a clean page, with the man's name at the head of it.
+
+*Keth. Blade. Iron line. Little finger off the grip; cuts finish long (bigger blade once?). Watches feet. Teaches for nothing, twice a week, at dawn.*
+
+*No reason for this page.*
+
+Then he put the book away and went to the alcove, feeling slightly foolish, like a man who has caught himself counting the stairs.
+
+---
+
+Hesk's reply came that same week, which was quick for the east bag, and the carriers' boy brought it up to the boarding house himself because the heavyset man had told the whole hut that the Hesk-ward boy paid a copper to have his letters run.
+
+It was short. Hesk's letters always were. He wrote the way he cut metal, once, and did not go back over it.
+
+*The wheel freezes at midwinter most years. Not the wheel. The race. I go down at first light with the long bar and break it at the sluice, and some mornings it has to be broken twice before breakfast. The dog comes and watches and is no help.*
+
+*You say you think you took the way you set your feet from me. I expect you did. I'll tell you something. I took it from the man who had the bench before me. I laughed at him for it the whole first year. Then one day I looked down and I was doing it. I never knew who he took it from.*
+
+*We're all carrying somebody, lad. Most of us never get a notice to tell us who.*
+
+*Mind the hip. Eat what the girl doesn't.*
+
+*H.*
+
+He read it twice at the crate desk, and then he read the line about the notice a third time and sat with it.
+
+He thought about the man who had the bench before Hesk, whom Hesk had laughed at, and who had laughed, no doubt, at somebody before him. He thought about the farmer in the barn with his left hand tied behind his back, and Lira copying him for a year without knowing she was taking anything but the lesson. A long line of people went back from his own two feet into the dark, each one setting a housing square or dropping a left hip because the one before had done it. None of them had been told. Hesk had found out by looking down one day. Lira had found out because a boy who could not make his step go right had asked her to walk from a post to a chalk cross ten times.
+
+And he had found out because something wrote it down for him in a box with fields. He did not know whether that made him luckier than the others or only noisier.
+
+He folded the letter along its old creases and put it into the back of Hesk's leather notebook, where the others were, and went down to the kitchen, where Lira was making pies.
+
+She made them on the evenings she did not go to the docks, in the single iron pan the household let her use, at the end of the big table. She made far too many, because she had learned to cook for a farmhouse and had never learned to cook for anything less. The heavyset man's wife sat at the other end of the table pretending not to watch, and there was flour on Lira's sleeve to the elbow.
+
+He put the grey book down beside her, open at the page with Dravin's name at the head of it.
+
+"I've seen him twice. Last spring. Both times against Wind. There are some things on there you could use."
+
+Lira looked at the page. She did not touch it. She looked at it the way you look at a dish of something you would very much like to eat and have decided not to, and then she put a pie lid over it, flour and all.
+
+"No."
+
+"It's only what I saw."
+
+"I know what it is. That's why." She took the lid off again and shook the flour off his page, carefully, onto the floor. "If I read your page I'll fight your page. I'll stand there waiting for the things you saw, and I'll see them, because you're always right about that kind of thing, and I'll take the line that beats them, and it'll be the safe one again. I'll win it the way you'd win it." She closed the book and pushed it back to him. "I don't want to know what he does. I want to find out. In the middle, with him doing it."
+
+He looked at the closed book.
+
+"That's going to make it worse. The cost."
+
+"That's the point of it." She crimped the edge of a pie with a fork, fiercely. "You told me. I've been buying wins with everything I could have known. I'm going to stop paying for them." She slid the pan toward the fire. "And you can stop looking at me like that and eat a pie. You've got a bruise to feed."
+
+The heavyset man's wife, at the far end of the table, made a small noise that might have been a laugh, and turned it into a cough, and got up to see to the kettle.
+
+He ate the pie. It was very good, and too hot, and he burned his mouth on it and did not say so. Then he sat with the grey book shut on the table under his hand and thought about what she had done.
+
+He had offered her the best thing he had. It was what he would have wanted, in her place, more than anything: somebody who had watched the man twice from a bench and written down what he saw. She had looked at it and put a pie lid on it. And she had been right to. He could see that she was right, and it unsettled him. All year he had thought of the pages as a thing that only ever helped. It had not crossed his mind that a page could also get between a fighter and the fight, and do her finding for her, so that she never found anything herself.
+
+"I won't tell you. Not with my face, either. I'll stand at the rope and not know anything."
+
+"You'll try." Lira slid the second pan in after the first. "You'll be terrible at it. You'll do your still face, and I'll know exactly which bits of him you're waiting for, because your still face has bits." She wiped her hands on her sleeve, which made the flour worse. "Stand behind somebody tall."
+
+---
+
+There were three hundred on the benches for the card that had Dravin on it, which was a big crowd for anybody who was not a Stone pair. The betting man had come early and set up on his upturned crate at the corner by the barrel, and when Cael went past him to the rope he heard what the prices were.
+
+They were good prices for Lira. They were too good. The betting man had been taking money on her for a year, and every fight she had ever had in front of him she had won cleanly, from a distance, and he priced her as a girl who did not lose and could not be hurried. Dravin's price was long, for an Iron-equivalent against a Copper. Somebody in the queue in front of the crate said, quite loudly, that the old man was past it.
+
+Dravin did not look past it. He stood at his mark in a plain grey practice coat with the cuffs turned back twice, a lean man of perhaps thirty-five with grey in his close-cut hair. He stood exactly as the books said a Wind should stand, his weight a little forward, his knees soft, his hands open and easy at his sides. Everything about him was correct. Cael had written that on the page Lira had not read: *Correct. Every step from the same load. Never once does a thing his teacher didn't.* He had meant it, last spring, as praise.
+
+Lira stood at hers with her staff and her face doing nothing at all.
+
+On the second bench from the front, near the water barrel, four girls sat in a row with their knees together. Cael knew them by sight: the girls from the wall, whom Lira taught to fall for a copper each on the mornings he was at the market. They had their eyes on her as if she were the only lamp in the building. One of them had brought a twist of sugared nuts and had forgotten to eat any.
+
+He had not known they were coming. He wondered whether Lira had. Then he looked at the back of her neck, and at the very straight line of it, and knew that she had.
+
+Cael had taken his place at the rope by the iron post nearest the lamps, where she always stood for him. In a year he had never once stood there for her, and he found it was a worse place to stand than he had known. When he fought, there was always something to do with whatever was in his chest; he could spend it on his feet. At the rope there was nothing to spend it on. There was only the strand under his good hand and her back in front of him, straight as a post.
+
+A little way along the rope a broad man with a broken nose had folded his arms on the strand. Cael knew him by sight: the dock partner, the Bronze washout who sparred her for a mark an hour and went home when the hour was done. He had come on his own time to watch. He caught Cael's eye, and nodded once, the way men nod at each other at a bedside, and looked back at the floor.
+
+Cael did not take out the grey book. He had thought, coming down the hill, that he might. Now he found he could not. Whatever happened on the stone tonight, he did not want to be the boy writing it down.
+
+"Begin," said Vell.
+
+She went straight at him.
+
+Not fast and careful, the way she went at everybody, testing, looking for the shape before she touched it. She closed the distance in two long steps from the word, quicker than there was any need to, with her staff already coming. The room made a sound of surprise. Dravin made none. He gave back one correct step, and turned her staff off his forearm with the flat of his hand, and stepped round her, and she turned with him and came again. She was inside his reach before he had finished stepping. It was the wrong place to be against a Wind; it was the place you could not get out of if he chose to come back at you. She was there on purpose. Cael could see that it was on purpose, because he could see her face, and her face was frightened, and she was there anyway.
+
+"End of the exchange."
+
+In the second she did it again, and Dravin had seen it once now. He let her come in. He let her get very close, closer than before. Then his weight dropped, the width of a fingernail, and the floor went short under him, a long clean step of a full body's width, far longer than anything Cael had ever managed, and he was not where she was hitting. He was beside her, and his open hand came across in a short flat blow that took her on the point of the right shoulder.
+
+It was a glancing blow. It turned her half round. She could have stepped it. Cael had seen her step a hundred blows like it from three paces off on a cold morning without even taking her eyes off him. She had seen it coming; he had watched her see it. And she had stayed inside, where she had decided to be, and let it come.
+
+On the benches somebody laughed. At the corner by the barrel the betting man looked up from his slate.
+
+At her table, for the first time Cael could remember, Vell's pen stopped moving and stayed stopped.
+
+Lira came back to her mark rolling the shoulder. Her face was white along the jaw. Then she looked at the rope, at Cael, and he saw that under the white she was something very like glad.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-11.md
+
+# Chapter 11 — Pressed
+
+The shoulder was nothing. Lira had been hit harder by a gate in the wind.
+
+What was not nothing was the sound the room had made when it happened. It had been a small sound, a laugh from somewhere on the left benches and a kind of interested murmur under it. She had heard it with the back of her neck while she was still turning, and it had gone into her like cold water down a collar. She stood at her mark and rolled the shoulder and did not look at the benches. She looked at Cael, at the rope, because she had promised herself coming down the hill that she would look at him and nowhere else between exchanges. He was not writing. He had his good hand on the strand and the other in his grey scarf, and his face was doing the thing she had seen it do over his own bad news: going very still so as to leave her room.
+
+She looked away from him then, because she could not afford him either.
+
+The trouble was not Dravin. She had known that by the end of the first exchange. Dravin was exactly what she had asked Dace for: a correct man, very good, who would beat her if she let him. The trouble was the three hundred people breathing round the rope, and the betting man's slate, and Vell's pen, which had stopped.
+
+She knew why the pen had stopped. Vell had never once in a year had to wait to see what Lira would do.
+
+And on the second bench from the front, near the water barrel, sat four girls from the wall. Lira taught them to fall for a copper each on the mornings Cael was at the market. She had told them they could come. She had told them, the week before, without thinking about it, that she never lost to Winds. They had nodded as if she had told them the river was wet.
+
+*So lose,* she thought. *Lose where they can see. That's the whole of it. That's what you said you would do.*
+
+Her body did not believe her. That was the thing nobody told you. You could decide a thing on a stone floor at midnight with your back to a wall, decide it all the way down. And then you stood at a mark with a room round you, and your knees and your hands and the long muscles of your back had not been at that conversation. They had been at Fenmark. They remembered the examination hall, and three examiners, and a slate, and the long walk out with her face giving them nothing. They remembered the back stairs where the coal went up, and the third step from the bottom, and coming apart there in the dark where nobody could see.
+
+Nobody had seen. That had been the one thing she had saved out of it. For years she had been proud of that.
+
+And now she was going to come apart in the middle of the Ironyard with the lamps on, on purpose, a little at a time, in front of four girls who thought she never lost.
+
+"Begin," said Vell.
+
+---
+
+She went in again.
+
+Her body wanted the outside. She felt it want the outside the way you feel a horse want the stable at the end of the day, all of it leaning one way at once. The outside was safe. She could stand off at the edge of Dravin's reach and make him come to her, and step him, and step him, and wait for the moment a correct man always gave you sooner or later. She had won most of a year that way. She could win this one that way, very probably, by the sixth or seventh exchange. And she would know, walking off, exactly as much about Dravin as she knew now, which was that he was correct.
+
+She went in.
+
+He was ready for it this time. She had known he would be. He gave back a step to draw her, and she came, and he set himself to step again. It was then, as she came in close, that she saw the first thing.
+
+

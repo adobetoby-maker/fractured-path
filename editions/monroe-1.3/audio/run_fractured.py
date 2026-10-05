@@ -24,6 +24,9 @@ def log(msg):
 
 
 def busy():
+    import shutil
+    if shutil.disk_usage("/Users/drive").free < 5 * 1024**3:  # pause, never fail mid-render, when under 5 GB free
+        return True
     for pat in ("run_meridian.py", "breeze_render_track.py"):
         if subprocess.run(["pgrep", "-f", pat], capture_output=True).returncode == 0:
             return True

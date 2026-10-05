@@ -6,10 +6,7 @@ for m in $(seq $2 $3); do
   P=$E/packets/MOVEMENT-$(printf %03d $m).md
   r=$(grep -m1 -oE 'Chapters: [0-9]+–[0-9]+' $P | grep -oE '[0-9]+' | tr '\n' ' ')
   set -- $r; lo=$1; hi=$2
-  src=$(grep -m1 'Read before drafting' $P | grep -oE 'chapter-[0-9]+\.md' | sort -u | sed "s#^#books/$B/chapters/#")
-  if [ -z "$src" ]; then  # Book 3 style: "Source chapters to read first, in full: 1, 2, 3 (and ...)"
-    src=$(grep -m1 'Source chapters to read first' $P | sed 's/.*in full://; s/(.*//' | grep -oE '[0-9]+' | while read n; do printf "books/$B/chapters/chapter-%02d.md\n" $n; done)
-  fi
+  src=$(python3 editions/monroe-1.3/tools/probe_sources.py "$P" "$B")
   [ -z "$src" ] && { echo "== $B M$m: NO SOURCE CHAPTERS FOUND in packet"; continue; }
   ms=$(for c in $(seq $lo $hi); do printf "$E/manuscript/chapter-%02d.md " $c; done)
   echo "== $B M$m (ch$lo–$hi)"
