@@ -574,3 +574,143 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 
 **Movement 5 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — two scene-break spacing fixes applied (ch32, ch33). All brief items resolved; listening proof passes; overlap 0, gates 0, probe 1%/12%. Calendar per the prose (governs the author table above): d143 Seln's private file; d144 counter and council; d147 first unit and night one; d148 night two; the reach in the third hour of the d149 night (early d150); d154 Wind misfire; idle-state LEAKS d159, d160, d161 ("the ninth morning after the stair", then the next afternoon and morning), the Third-day unit d161; moving trials d163; coursework d164; birthday d167.
+
+## After Movement 6 (chapters 38–44; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CALENDAR: d168 the courier and the notice read; d169–d173 the documentary defense (done fast; 'eleven days' not binding); d173 = the NINTH of Reaping: Bracken closes the file (four boxes, 311 documents) and Lira beats Fiske 2–1 in the top-line semifinal (four exchanges; the top line fights the earlier day); d174 = the tenth: Brom beats Merrick 3–2 in the fifth, 'Nine days' (no sparring); d175 the hall-three idle-state slip; d176 = the twelfth: the delegation arrives. Final the nineteenth (d183), evaluation the twentieth (d184). LIRA'S HIP will be TEN days old at the final.
+- INSPECTION SCHEDULE (on the page; M7 must match): records sittings the 12th–15th; facility review the 14th; observation reserved for the 20th.
+- THE RECORD OF FIVE (canon, ch43): TWO capabilities are PUBLIC — the hearing transcript holds the Wind framework and the Iron read, plus one late, thin Ember exhibit. Gault's filed baseline at Halcenvane (M2, day 48) holds the Wind numbers, the Iron read, the plate (Pressure held back → that line flat) and a ringed, untested Compression line. The circuit record Vell copied at Ardenmere holds his Book 2 bouts, including the public Pressure-adjacent delivery and the Compression that finished Reydan. All five have a paper trail; only the sixth (Shadow) is new to every record. The evaluation can honestly show growth in five; hiding and honesty are one job.
+- Lira's deep hip strain from the slide onto Fiske's slick (her foundry tallow-floor skill, new canon); four days off the hip; she fights the final on it. Vastin named at the reading ('Archmarshal Vastin'); NO stated age. Karis's slate draws the three columns (the insight and Log are Cael's). The hall-three slip is known only to Brom and Cael; the wing observer at the rail read nothing. Withrow's grain-store story (one Archmarshal-attended inspection in her twenty years). Gwen's aunt's dinner story (Gwen = placeholder, #11). Bracken 'he'.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Weekday anchor: d167 = Second-day; seven-day weeks. No Sowing date appears; only Reaping dates are named. No month order and no Sowing→Reaping count is stated (#35).
+
+| Day | Date named | Event |
+|---|---|---|
+| d168 (Third-day) | — | Coats at breakfast. **Courier** at the change of the second bell. Summons; **the reading** in the records hall. Rooke at the steps. Defense begins that afternoon. Unit in the yard at the sixth bell. Rooke's stacks cross the quadrangle that night (four trips) |
+| d169 (Fourth-day) | — | Bracken: "fifteen dull days". Rumour starts in the Iron bracket. Library pages begin |
+| d170 (Fifth-day) | — | **Schedule pinned beside the final**; the Log (Coss line; three men). Rumour gets a name. Law second-years at the counter. Gwen in the library. Ilsev's six findings |
+| d171 (Sixth-day) | — | Mire first-year. Jask at supper. The eleventh name: nothing (Karis's three lists; "Take Lira"). Clerk's repeal search returns. Karis on the floor |
+| d172 (Seventh-day) | — | **Withrow's address** (eleven minutes); Ephram on the stair. Karis's ninety-second test. **Seln compiles** (sealed at the fourth bell). Rooke separates Merrick and Brom; Merrick on the stair. Lira refuses the pages. Brom at the post (round two, exercise 7). The cross in the Log |
+| d173 (First-day) | **the ninth of Reaping** | **Bracken closes the file** (second bell). **Lira–Fiske semifinal** (the earlier session), Lira 2–1; deep hip strain |
+| d174 (Second-day) | the tenth | **Brom–Merrick**, Brom 3–2 in the fifth. Bracket painted. "It's the nineteenth." Batons tied and given to Karis. **Nine days.** Karis's slate: the three columns |
+| d175 (Third-day) | the eleventh | **The hall-three slip** (supervised hour, wing observer). The corridor. Plan rebuilt with *Hold. First.* The eve Log. The institution's three still days end (d173–d175) |
+| **d176 (Fourth-day)** | **the twelfth of Reaping** | **Arrival** at the fourth bell: three carriages, four riders. Havel window. The tier. "New opponent. No tells. Begin." |
+| d177 | — | Lira's four days off the hip end |
+| d183 | the nineteenth | Copper final, Lira–Brom (**seven days**) |
+| d184 | the twentieth | Semester evaluation, observation reserved (**eight days**) |
+
+**Cael — body.** Fit and uninjured. The idle-state rent is a dull ache behind the eyes, heavier on the day of the reading and through the slip. No Wind or Compression used.
+
+**Fragments.** **Six confirmed + the Tide anomaly**; the record keeps five. No change in count or ceilings; Wind four free on timber, as before.
+- **Shadow-adjacent:** no deployment.
+- **Idle state:**
+  - "bumps: none" every day except **one slip**: d175, hall three, north bay, the fourteenth turn of a half-pace redirect sequence with Brom, two or three breaths. The wing observer was writing and did not see it. Brom's read found him "searching".
+  - The lesson: absorption feels free because he has stopped paying, and nothing in him signals it.
+  - The protocol: **Hold. First.** A corner of attention is set before any reading. It held on the tier on d176 while he read Vastin with everything else; Lira watched and confirmed it.
+- The Tide anomaly is not mentioned.
+
+**Knowledge.**
+- Mechanism and acquisition: unchanged (Lira, Brom, Karis).
+- The hall-three slip: seen by Brom and known to Cael. Not told on the page to Lira or Karis, though Karis's warning predates it and Lira's tier watch follows it.
+- Nobody institutional knows anything new.
+- Seln does not know the mechanism or the acquisition.
+- The bluff knows the delegation's composition and the Archmarshal's name. Vastin's manifest entry: rank and name only; the library holds three list references.
+
+**Documents and objects.**
+- The notice, appendix schedule and manifest (Withrow's).
+- The enrollment-basis file: four grey boxes, **311** sheets, two independent repeal searches, the directive (41 pp., green tabs, white slips), the numbered index. On the shelf of the registrar's outer office.
+- Rooke's cohort supervision signatures, at the registrar's.
+- Seln's pre-inspection compilation: six filings with appendices, an unannotated covering index, sealed in the wing's holding cabinet from d172.
+- Cael's pages:
+  - *Rooke* revised;
+  - board Log;
+  - *How the registrar fights*;
+  - *Havel* (with Lira's question);
+  - *Ilsev*;
+  - the counsel;
+  - the eleventh: one line and *Lira*;
+  - *Jask*;
+  - *Ephram*.
+- Plans: Karis's slate (wiped); the rebuilt plan headed *Hold. First.*; the eve Log; "New opponent. No tells. Begin."
+- Lira and Brom's practice batons, tied with Lira's hip bandage, in Karis's keeping until the nineteenth ("Receipt" in the marbled book).
+- The safety instructor's stick (Lira).
+
+**Companions and cast.**
+- **Lira:**
+  - Copper R2 formal; top line; beat Fiske 2–1 in the semifinal, using two bursts. Finalist.
+  - **Deep leading-hip strain** ("clicked once, on the oil"): ice, nothing on it for four days (to d177), on a stick, "won't mend by the nineteenth; you'll fight on it". She climbed the tier against orders on d176.
+  - No season total stated (C6). Her sparring record against Brom stated as 9–11 over two years.
+- **Brom:** beat Merrick 3–2 in the fifth (d174). Finalist. Forearms red, right shoulder sore. Round two of the nineteen, at about seven by d172. No sparring with Lira until the nineteenth.
+- **Karis:** Iron R3. Holds the batons and the watcher log (coats unchanged through d176).
+- **Fiske:** reigning champion until the final; will watch it from the north tier. "One signature" not mentioned.
+- **Merrick:** out in the semifinal; still in Rooke's cohort.
+- **Ephram:** has publicly altered his deferral in Cael's favour.
+- **Rooke:** corrected himself to Cael; his signatures are filed.
+- **Bracken:** file closed; greeted Havel with it.
+- **Withrow:** address given; holding still.
+- **Gault:** wing unchanged; evaluation on the twentieth before the panel of record against the baseline.
+- **Seln:** compilation sealed; no motive stated; small case untouched.
+- **Havel:** records officer, two rises; did not look up at the tier; notebook (three entries) not opened.
+- **Ilsev:** carried her own case in.
+- **Vastin:** arrived in the third carriage. His gaze crossed Cael at the speed of an empty bench. No age stated.
+- **Gwen:** frightened column.
+- **Jask:** dial fixed, up two lines.
+
+**Watchers.** Two and two at the ferry landing and the road's foot, on the bell, unchanged through d176 (Karis's marbled log). The courier passed them without a change.
+
+## New canon minted (flag where marked)
+
+- **Notice body** in the author's words around the protected scope. **Manifest:** Archmarshal Vastin; senior evaluation seat (Ilsev); records officer (Havel); counsel of the magistrates' grade; three clerks; an escort of four. Eleven in all.
+- **Counsel's first delta:** a five-year round; the last visit "a little over two years ago", two officers, three days, full compliance, one remark about the fire-watch's oil book.
+- **Withrow's explanation (flag):** three roads with one gate and one desk. In her twenty registry years she knew of one Archmarshal sitting an inspection in person, and that house "is a grain store now".
+- **Calendar (flag):** semifinals on **the ninth** (Lira–Fiske, the top line's earlier session) **and the tenth** (Brom–Merrick).
+  - This keeps M4's "earlier day / a day's more rest" and the coordinator's "nine days" from the tenth.
+  - The coordinator's sketch had both semifinals on the tenth. Bracken closes the file the morning of the ninth.
+- **Schedule text (flag for M7):** arrival the twelfth; records sittings the twelfth through the fifteenth; facility review the fourteenth; faculty interviews as the delegation directs; observation of the provision-status evaluation reserved, the twentieth. The season margin: semifinals the ninth and tenth; final the nineteenth, panel of three, witnessed.
+- **The defense (d168–d173):**
+  - librarian-sealed copies, with dated request letters for volumes held elsewhere;
+  - the second repeal search by a registrar's clerk back from leave (thin, spectacled, with a cold; unnamed), kept in a room upstairs, with Karis limited to the weather;
+  - the directive tabbed in green, with white slips where a repeal would stand;
+  - Karis's ninety-second test (under half her glass);
+  - four grey pasteboard boxes with brass corners, *4 of 4*, *311*.
+- **Bracken** jokes once ("fifteen dull days… a month"). He answers the counter's frightened question with an ordinary stamped slip.
+- **The library:**
+  - the findings bay, eleven years of indexes;
+  - three of the four escort riders in attendance lists; the fourth too new;
+  - Vastin's three list references: a dedication, a retiring magistrate's dinner, a swearing-in.
+- **Gwen's aunt (flag; placeholder #11):** met an Archmarshal once at a dinner ("pass the salt").
+- **The address:** the lecture range's great hall, about five hundred present, the clock "two minutes slow".
+- **Seln:** the requisition's wording; Gault's *Proceed*; "six filings" taken as the product proper, with appendices behind; pink tape.
+- **Rooke** keeps semifinal opponents apart for the week.
+- **Merrick's feint:** "sit somewhere else". Brom checks the tier for Cael before every bout.
+- **Brom–Merrick:** Merrick's panes set in the line of the drive. Brom times what remains of the stall to the Shield tell (breath, plant, pane).
+- **Lira–Fiske:**
+  - Fiske opens forward, places pre-emptively, and lays a line;
+  - Lira uses two bursts (at the word; backward out of a ring);
+  - the long minute on a table of oak;
+  - Fiske's tell is a glance at the glass;
+  - **Lira goes onto the slick on purpose, a foundry casting-floor skill, tallow-greased at each shift change (flag: new Fenmark/foundry detail).**
+  - The hip clicks once. The safety instructor gives his four-day ruling.
+- **Fiske** will watch the final from the north tier ("Sit north").
+- **Lira–Brom sparring record** 9–11 ("the one in the rain at Ardenmere counts"). The batons are tied with the hip bandage and given to Karis.
+- **The three columns are drawn out by Karis on her slate (flag):** the source has Cael alone. The insight and wording are Cael's.
+- **The wing observer** is the same quiet woman, two of his four weekly hours (unnamed, as M7 requires).
+- **The hall-three slip:** d175, redirect sequence, fourteenth turn.
+- **The three still days:** the wing's instrument woman and her posted-day card; the broom; "posted day"; Withrow's daily walk and the gutter.
+- **Arrival:**
+  - three carriages and four riders; four iron-banded chests signed in by Bracken's clerk;
+  - the counsel on the gutter, "mended three times";
+  - the third carriage is the oldest, its door device painted out;
+  - Vastin's collar mark is a narrow plain bar on a plain ground, known to Cael from a regulation book's appendix (flag: the source's insignia, re-described).
+  - Bracken greets Havel at the records hall door with where the file is.
+- **Havel:**
+  - first rise to recorder not long after Ardenmere; second to records officer after Greyvane;
+  - hand ache from years of pens;
+  - "correct vs careful", consistent with edition B2;
+  - he decides not to look at the tier.
+- **Lira climbs the tier against orders** ("a stair a friend asks you to climb"). Karis asked her to watch Cael.
+

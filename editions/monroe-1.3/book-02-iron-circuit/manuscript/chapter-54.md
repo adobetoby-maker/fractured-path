@@ -58,7 +58,7 @@ He walked home by the river road because it was the longer way, and because he d
 
 The night was very cold and very clear. The lamps of the district went down the hill behind him and the river went along beside him, black and quick and talking to itself, and he walked slowly with his coat buttoned to the throat and one hand inside it, against his ribs. Two or three people passed him going the other way and looked at him, and one of them looked twice and opened his mouth, and Reydan looked back at him pleasantly until he shut it again.
 
-He had not been beaten in front of so many people since he was nineteen, at the invitational, when a boy from the other house had taken him to the fifth exchange and made him think, for an exchange and a half, that he might not win. He had won. But he remembered the faces in the hall turning toward the other boy as the fifth began, the way a field of barley turns when the wind changes, and the cold feeling of being, for an exchange and a half, not the thing everyone had come to watch. He had felt that cold again tonight, on the stone, and it was not as bad as he remembered. It was, if anything, rather clean.
+He had been beaten once before, in the river halls in his second season, by a man who would not come out and play. There had been perhaps two hundred in that hall. He remembered the faces turning toward the other man as the fifth exchange began, the way a field of barley turns when the wind changes, and the cold feeling of being, all at once, not the thing everyone had come to watch. He had felt that cold again tonight, on the stone, and it was not as bad as he remembered. It was, if anything, rather clean.
 
 The saddler's was dark. He let himself in at the side door with the key the saddler's wife had given him, and climbed the narrow stairs one at a time, and lit the lamp in his room and sat down on the edge of the bed to take off his boots. It took a long time. The right leg did not want to bend, and the right side did not want him to lean.
 
@@ -84,7 +84,7 @@ He went back to it three times, sitting on the edge of the bed with his boots on
 
 There were two ways to carry a thing like that home.
 
-He had seen the first. The other house's boy at the invitational had carried his loss home and let it go bad in him. He had come back the next year with a grievance instead of a plan, and then not come back at all. Reydan had seen men in the river halls do the same with a single bout, keep it like a stone in a shoe for years. They walked a little crooked all their lives and blamed the road.
+He had seen the first. One autumn the other house had withdrawn its boy before the final of the invitational, over a wrist that was perfectly well, and the boy had never forgiven Reydan for a bout that never happened. He had let it go bad in him. He had come back the next year with a grievance instead of a plan, and then not come back at all. Reydan had seen men in the river halls do the same with a single bout, keep it like a stone in a shoe for years. They walked a little crooked all their lives and blamed the road.
 
 The second way was harder, and he had only ever seen it done once or twice, by masters. It was to be more interested than you were hurt.
 
@@ -118,7 +118,7 @@ Brom had come round by the north rope. He stood a little way off, not crowding, 
 
 Cael thought about it. He thought about it honestly, because Brom had asked honestly, and because it was the first question anybody had asked him since the end that he could answer. He went back through the fourth exchange: the mill, and the count, and the left shoulder full, and the right shoulder turning; the moment at the fork, and his knees, and the half second afterward when he had not known whether they would hold.
 
-"Like I had enough," he said.
+"Like I had enough."
 
 It was true. He knew it the moment it was out of his mouth. It was not that he had won. It was that for once, at the very bottom of everything he had, there had been enough.
 

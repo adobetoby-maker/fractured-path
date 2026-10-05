@@ -6,7 +6,7 @@ Four knocks in the second exchange, three answered, one smeared. One burst of th
 
 The forearm had settled into a long hot seam from wrist to elbow. The fingers worked if he asked them twice. His legs had paid for every step of the second exchange, and they let him know it now that he was standing still: a shake low in the thighs, a heaviness at the bottom of each breath.
 
-Then he let himself think, and the thought was very simple.
+Then Cael let himself think, and found that the thought was very simple.
 
 *The knock doesn't care where.*
 
@@ -58,7 +58,7 @@ The burst went off beside his ear. It was so close that he did not hear it as a 
 
 He hit Reydan in the ribs.
 
-It was like punching a door set solid in its frame. Twelve years of somebody else's money had gone into hardening that side of him, and it showed. But the giving face did not stop at the outside of things. He felt the strike go in, past the hard layer, into the structure underneath. In the same instant the cost came back up his own arm, the knuckles first and then the wrist, bright and sharp, and the hollow under his breastbone opened by a third.
+It was like punching a door set solid in its frame. Twelve years of somebody else's money had gone into hardening that side of him, and it showed. But the giving face did not stop at the outside of things. He felt the strike go in, past the hard layer, into the structure underneath. In the same instant the cost came back up his own arm, the knuckles first and then the wrist, bright and sharp, and the hollow under his ribs opened by a third.
 
 *One.*
 
@@ -80,7 +80,7 @@ He did not wait for the release, as he had the first two times. He went on the p
 
 *Three.* The hollow was full. He had nothing left on that side and he knew it.
 
-He went out. He went out the way he had come in, two steps on his feet and the last on the hip, left, until he was out of reach. There he stood, with his hands throbbing in time with his heart and the left forearm a noise he had stopped attending to.
+He went out the way he had come in, two steps on his feet and the last on the hip, left, until he was out of reach. There he stood, with his hands throbbing in time with his heart and the left forearm a noise he had stopped attending to.
 
 Reydan let him go.
 
@@ -101,13 +101,13 @@ Reydan had a hand pressed flat against his right side. He took it away as soon a
 
 He had the plan by heart, and under the plan, in his mind, he had kept a short list all night, three lines long. He went down it now and struck each line through. *Where I land*: struck through in the second, paid for with a forearm. *The rope*: struck through in the second, paid for with a shoulder. *A boy who only stands off*: struck through just now, with three strikes he would feel in his knuckles for a week. Three ways the man had made sense of him, and every one of them made worthless in front of six hundred people.
 
-That was the plan's promise: the fourth answer would come with no shape to it, and in the shapelessness he would move. A boy had written the plan in a quiet alcove, and he had been honest enough to leave the fourth answer blank.
+Then came the plan's promise: the fourth answer would come with no shape to it, and in the shapelessness he would move. A boy had written the plan in a quiet alcove, and he had been honest enough to leave the fourth answer blank.
 
 In the alcove the night before, under the plan, he had written three guesses in the margin and drawn a box round them. *Everything in one.* That was a single burst at full weight, the man's whole store on a line nobody could read. *Hands.* That was the man giving up his Path altogether, closing and gripping and fighting with whatever his body had learned in his father's yard before any academy took hold of him. And *many*: no reading at all, only bursts, cheap and steady, poured onto a boy whose legs had been paying since the first exchange. He had an answer to one of the three. It was the answer he had built for a fortnight in the alcove with Brom's slow push, and it lived in a shoulder that had just been spent, or nearly.
 
 His body was the purse tonight. He went through it coin by coin.
 
-The left forearm was a guard and nothing more. Both hands were bright and stupid from the knuckles to the wrists, and the grip was going. The hollow under his breastbone sat full and tight, like a breath he could not let out. The hip line was lit from crest to knee: six asked bursts on the night, three of them in that one exchange, which was the most it would ever give. And there were his legs, the best thing he still had, because Lira had put them there one cold morning at a time. But they were fraying now. The last fan had come down a hand short of the place he had sent it. A burst that fell short by a hand was a door that would not quite shut.
+The left forearm was a guard and nothing more. Both hands were bright and stupid from the knuckles to the wrists, and the grip was going. The hollow under his ribs sat full and tight, like a breath he could not let out. The hip line was lit from crest to knee: six asked bursts on the night, three of them in that one exchange, which was the most it would ever give. And there were his legs, the best thing he still had, because Lira had put them there one cold morning at a time. But they were fraying now. The last fan had come down a hand short of the place he had sent it. A burst that fell short by a hand was a door that would not quite shut.
 
 Across the stone, Reydan did something Cael had not seen him do all night.
 
@@ -207,7 +207,7 @@ He always began at the top: the hip, then the hands, then down. Tonight his atte
 
 So he made himself go back to the top and count the things he knew.
 
-The hip line, lit, six asked bursts. The left forearm, a long dark seam from the wrist to the elbow, which tomorrow would be every colour Lira had a word for. Both hands, which would not close all the way. The hollow under the breastbone, full and aching. The left shoulder, two redirects deep, the groove alight. His legs, shaking now that he had let them. His knees, which he had locked, and which would send him their bill in the morning, itemised.
+The hip line, lit, six asked bursts. The left forearm, a long dark seam from the wrist to the elbow, which tomorrow would be every colour Lira had a word for. Both hands, which would not close all the way. The hollow under the ribs, full and aching. The left shoulder, two redirects deep, the groove alight. His legs, shaking now that he had let them. His knees, which he had locked, and which would send him their bill in the morning, itemised.
 
 Then, again, the right shoulder.
 

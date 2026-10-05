@@ -4,7 +4,7 @@ Cael thought about Merrick's advice all morning, and in the end he sat where he 
 
 It had taken him most of breakfast to see it properly. Merrick had stood on the gallery stair two days ago with his grave courteous face and told him that Brom looked for him on the tier before every bout, and found him, and only then began. Then Merrick had advised him to sit somewhere else, somewhere Brom would have to look for him.
 
-It had sounded like kindness, and Cael had carried it about for two days as kindness. It was only at breakfast, watching Brom eat porridge with the steady attention of a man stoking an engine, that he turned it the other way up and saw the shape underneath. If Cael sat somewhere else, Brom would look up at the usual place before the word and not find him there. Then he would look for him. He would look for perhaps two breaths, perhaps four, and every one of those breaths would be a breath in which Brom was thinking about the tier instead of the boards. Merrick had not offered advice. Merrick had offered a feint, and offered it to the one person on the bluff who would carry it straight to Brom without knowing.
+It had sounded like kindness, and Cael had carried it about for two days as kindness. It was only at breakfast, watching Brom eat porridge with the steady attention of a man stoking an engine, that he turned it the other way up and saw the shape underneath. If Cael sat somewhere else, Brom would look up at the usual place before the word and not find him there, and then he would look for him. He would look for perhaps two breaths, perhaps four, and every one of those breaths would be a breath in which Brom was thinking about the tier instead of the boards. Merrick had not offered advice. Merrick had offered a feint, and offered it to the one person on the bluff who would carry it straight to Brom without knowing.
 
 "He's very good," Cael said to Karis, on the way to the yard.
 
@@ -20,7 +20,7 @@ So he sat where he always sat, a third of the way up the east tier, with Karis o
 
 Brom came out and walked to his chalk at the south end. Before he crouched, he lifted his head and looked up at the east tier, straight at the usual place, and found Cael there in about the time it takes to blink. Something in his shoulders settled. Then he crouched and laid his wrapped right hand on the oak and stood, and was looking at Merrick, and nothing else.
 
-Merrick, at the north chalk, saw it. Cael watched him see it: a small grave nod, to nobody, like a man noting that a door he had tried was locked.
+Merrick, at the north chalk, saw it, and Cael watched him see it: a small grave nod, to nobody, like a man noting that a door he had tried was locked.
 
 The semifinal ran on the ladder's terms, not the final's, since neither of them held the top line: first to three clean touches, as many exchanges as it took.
 
@@ -44,7 +44,7 @@ The second exchange Brom took. He absorbed Merrick's strike and drove, and drove
 
 "Iron Skin. One each."
 
-The third went back to Merrick. He set two panes this time, one at either angle, a narrow corridor of bright air with only the straight road open between them. Brom drove straight because straight was all there was, and Merrick was waiting at the end of the corridor with his weight already back and his hand already up, and the touch came off Brom's shoulder clean.
+The third went back to Merrick, who set two panes this time, one at either angle, a narrow corridor of bright air with only the straight road open between them. Brom drove straight because straight was all there was, and Merrick was waiting at the end of the corridor with his weight already back and his hand already up, and the touch came off Brom's shoulder clean.
 
 "Shield. Two to one."
 
@@ -76,7 +76,7 @@ He took it in the fifth.
 
 He walked back to his chalk with his chest going up and down like a bellows, and his forearms red from wrist to elbow, and his face entirely blank. When he got there he turned round and looked up at the east tier, at the usual place, for a long moment. Then he looked down at Lira on the bottom step with her leg along the stone, and Cael saw something go between them that he had no column for.
 
-Merrick crossed the boards and shook Brom's hand and said something short, and Brom said something shorter. Merrick nodded, gravely, and went.
+Merrick crossed the boards and shook Brom's hand and said something short, and Brom said something shorter, and Merrick nodded, gravely, and went.
 
 "What did he say?" said Karis, when Brom came up the tier at last with a towel round his neck.
 
@@ -172,7 +172,7 @@ Cael had said nothing all this time; he was down by the cold grate, cross-legged
 
 "Two years you've been putting the pair of us in that book. On the nineteenth you'll be sitting up there knowing more about what's happening on those boards than anybody in the yard, the panel included." She shifted the leg on the settle. "You've earned a sentence. Say it."
 
-He thought about which sentence. There were a great many in the notebook, and nearly all of them were about feet.
+He thought about which sentence, since there were a great many in the notebook, and nearly all of them were about feet.
 
 "On the nineteenth," he said slowly, "every person up on those tiers is going to watch a Copper final, because that's what the board says it is. And it isn't one. It's two Iron-equivalent practitioners nobody has ever let fight anyone their own size, getting to do it at last, in a bracket that was never built with either of you in mind." He turned the notebook over on his knee. "I've tried to write that down all season. It always comes out sounding like a letter home. It isn't. It's just what it is."
 
@@ -216,7 +216,11 @@ He thought about it.
 
 "And what does the record let you show?"
 
-"Five." He said them as she wrote. "The Wind. The Pressure. The Iron read. The Compression. The Ember. They're all on paper somewhere already. Vell has them in her ledger. Greyvane's panel noted them. The transcript has them. And none of the sixth. Not a flicker. If the gallery sees a thing on that floor, it has to have seen it on paper first."
+"Five." He said them as she wrote. "The Wind. The Pressure. The Iron read. The Compression. The Ember. Not all on the same paper, though." He made himself go through it sheet by sheet, the way she would have. "The transcript anybody can buy holds two of them, the Wind and the read, and that one thin Ember exhibit at the back that nobody ever reads. Gault's baseline holds the Wind numbers and the read, and the plate, where I held the Pressure back, so that line's flat, and a Compression line he ringed because the floor never gave him a fair test of it. And Vell copied the circuit record at Ardenmere. Every bout I fought is in it, the Pressure I used in public and the Compression that finished Reydan."
+
+"So two are public," said Karis.
+
+"Two are public. All five are on paper somewhere, and not one of them would be news to a panel that read everything." He looked at the slate. "And none of the sixth. Not a flicker. The sixth is new to every record there is."
 
 She wrote *FIVE* at the head of the third column, and under it, small, *and not one more*. Then she turned the slate round on the table so that it faced him, and put the chalk down, and folded her hands.
 
@@ -234,7 +238,7 @@ There wasn't one.
 
 He sat with the slate in front of him for a long time.
 
-The banking doctrine had ridden in him for two years like a flinch. *Show only what the record already holds.* It had started as one, at fourteen, in a Denvash hall, and for two years it had felt like one every time he used it: shoulders up, a little ashamed, a thing done in defence. And here it was on Karis's slate in three words of chalk, and it was not a flinch at all but a plan. The panel would get a real term of growth, honestly measured, in five things that were already on paper, done better than anyone in that room expected him to do them. Every bit of it would be true.
+The banking doctrine had ridden in him for two years like a flinch. *Show only what the record already holds.* It had started as one, at fourteen, in a Denvash hall, and for two years it had felt like one every time he used it: shoulders up, a little ashamed, a thing done in defence. And here it was on Karis's slate in three words of chalk, and it was not a flinch at all but a plan. The panel would get a real term of growth, honestly measured, in five things that already had a trail of paper behind them somewhere, done better than anyone in that room expected him to do them. Every bit of it would be true.
 
 "I'm not hiding anything they're entitled to," he said slowly. "And I'm not showing anything that isn't real. It's the same thing. It's the same job."
 
@@ -278,7 +282,7 @@ Then they found him.
 
 Cael did not move.
 
-At the north rail the woman from the wing was writing on her board. She had been writing on it, Cael saw, with a cold that went down through him into his boots, for the whole of the last minute. Her head was bent over it, and she did not look up. She turned a page and wrote on.
+At the north rail the woman from the wing was writing on her board. She had been writing on it, Cael saw, with a cold that went down through him into his boots, for the whole of the last minute. Her head was bent over it, and she did not look up, but turned a page and wrote on.
 
 Two breaths, he thought. Three at most.
 
@@ -292,7 +296,7 @@ In the corridor Brom stopped dead in the middle of the flagstones, square across
 
 "Down *today*." Brom's voice stayed low. Shouting would have been easier to bear. "Nine days from now you're going to be on a floor for three hours. Gault, and the panel, and an Archmarshal, and whoever else they've brought with them. And somewhere in that gallery there'll be a person whose whole trade is noticing when a thing isn't where it should be. And you've just shown me that the one thing you can't steer goes thin when all of you is busy." He did not move out of the way. "What do you call a three-hour evaluation, then?"
 
-Cael took all of it standing. Every word was true, and in two years Brom had never once said a hard thing that did not need saying.
+Cael took all of it standing, because every word was true, and in two years Brom had never once said a hard thing that did not need saying.
 
 "All of me, busy," he said.
 

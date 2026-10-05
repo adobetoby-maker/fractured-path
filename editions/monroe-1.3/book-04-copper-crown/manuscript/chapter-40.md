@@ -2,7 +2,7 @@
 
 Lira found it first, which was fitting, since half of it was hers.
 
-She was standing in front of the main board under the covered walk's north arch when Cael came through at the change of the second bell on Fifth-day, with her weight on the good hip and her hands in her coat pockets, quite still among the people going past. She was not reading, because Lira never read a thing twice; she read it once and had it. She was doing sums.
+She was standing in front of the main board under the covered walk's north arch when Cael came through at the change of the second bell on Fifth-day, with her weight on the good hip and her hands in her coat pockets, quite still among the people going past. She was not reading, because Lira never read a thing twice; she read it once and had it; she was doing sums.
 
 "Look," she said, without turning round. "They've put us next to each other."
 
@@ -16,7 +16,7 @@ Then the printed sheet.
 
 "*Delegation of the Guilds Compact. Arrival: the twelfth. Sittings on the records: from the twelfth through the fifteenth. Review of facilities: the fourteenth. Faculty interviews: as the delegation directs. Observation of provision-status evaluation: reserved. The twentieth of Reaping.*"
 
-She stopped. They both looked at the two columns.
+She stopped, and they both looked at the two columns.
 
 "They overlap," said Lira. "A whole week. They'll be here for my semifinal's aftermath, and Brom's, and the final, and you." She took one hand out of her pocket and laid a fingertip on the printed sheet, lightly, on the word *reserved*. "That's you."
 
@@ -26,11 +26,11 @@ She stopped. They both looked at the two columns.
 
 "It doesn't need to," said Cael. "There's only one."
 
-The last time a pinned sheet on a board had carried a date that was about him, it had been at Greyvane, in a narrow passage with a draught in it, and the date had been a hearing, and his name had been printed out in full above it in the registry's square type. He had been fifteen. He had stood in front of it and understood that a system had written him into its calendar without asking, and he had thought at the time that nothing a board could say would ever be worse.
+The last time a pinned sheet on a board had carried a date that was about him, it had been at Greyvane, in a narrow passage with a draught in it, and the date had been a hearing. His name had been printed out in full above it in the registry's square type, and he had been fifteen. He had stood in front of it and understood that a system had written him into its calendar without asking, and he had thought at the time that nothing a board could say would ever be worse.
 
 He looked for that feeling now, honestly, the way you press a bruise to see whether it is still there. It was not there.
 
-Neither date on this board was aimed at anybody. The final's had been chalked into the margin since the brackets went up, by a registrar who had never heard of a notice. The evaluation's had been on the wing's wall since the first week of term. The delegation's clerks had drawn up their own dates in some office far down the river, out of a register of charter visits, without the least idea that a foundry girl and a boy who had been taken apart on purpose were going to fight for a crown in the middle of their stay. Ordinary people at ordinary desks had done their ordinary work, and the dates had fallen where they fell.
+Neither date on this board was aimed at anybody. The final's had been chalked into the margin since the brackets went up, by a registrar who had never heard of a notice. The evaluation's had been on the wing's wall since the first week of term. The delegation's clerks had drawn up their own dates in some office far down the river, out of a register of charter visits. They had not had the least idea that a foundry girl and a boy who had been taken apart on purpose were going to fight for a crown in the middle of their stay. Ordinary people at ordinary desks had done their ordinary work, and the dates had fallen where they fell.
 
 And his own line on the printed sheet was not a summons. It was the procedure he had signed for on the day he enrolled, on its posted day, before its panel, against his own baseline. The only thing the delegation had added to it was a chair at the rail.
 
@@ -84,7 +84,7 @@ Bracken did not wait for it, but looked past the two second-years, down the queu
 
 "Enrollee," he said. "Miss Karis's request. Box nine of the founding-era copies, up from the store by the fourth bell." He held the stamped slip out across the counter in exactly the voice he used for every slip he had ever handed anyone, a voice with nothing in it at all. "Initial it, please."
 
-Cael stepped up and initialled it. The two second-years stood aside to let him, and looked at him, and looked at Bracken, who had already gone back to his ledger. Then they went out together without saying anything more, and Cael understood that he had just watched the registrar answer the question under the question, and answer it with a stamped slip about a box of old copies.
+When Cael stepped up and initialled it, the two second-years stood aside to let him, and looked at him, and looked at Bracken, who had already gone back to his ledger. Then they went out together without saying anything more, and Cael understood that he had just watched the registrar answer the question under the question, and answer it with a stamped slip about a box of old copies.
 
 The third sign was a first-year.
 
@@ -94,9 +94,7 @@ It was the fame problem again, come back in a new coat.
 
 Cael had lived with it since the bridge. Every person on the bluff had come up the road already carrying some version of him: the boy from the transcript, the boy who had beaten the registry, the boy whose people had given him up. Not one of those versions had ever been tested against anything that mattered. Now something that mattered was coming up the road in carriages, and all over the bluff the versions were being taken out and turned over in people's hands, to see whether they would hold.
 
-He found that it changed nothing in the work.
-
-That surprised him, and he wrote it down. The looks came back, nearly as many as in the first month: in the refectory queue, on the lecture stair, at the board. People watched him cross the second quadrangle as though he might do something unusual in the middle of it. And none of that touched his edges at all. Their eyes were their business; the hold was his. He minded the half-metre of air round himself exactly as he had on the quietest morning of the season, and gave every room its ordinary share of him, and the bumps column said *none* on all three days. The rent was what it always was, a dull weight in the afternoon. Being stared at did not make it heavier. It only made it lonelier.
+The looks came back, nearly as many as in the first month, in the refectory queue and on the lecture stair, and people watched him cross the second quadrangle as though he might do something unusual in the middle of it. None of that touched his edges; their eyes were their business, and the hold was his. Being stared at did not make the rent any heavier. It only made it lonelier.
 
 Gwen, alone of everybody on the bluff, took it at face value.
 
@@ -128,7 +126,7 @@ She looked surprised, and then pleased, as though he had handed her something sh
 
 "I'll draw you an eye," said Gwen kindly, and went away.
 
-On the third evening the space round him at the refectory's long table was wider than it had been since the first week. Nobody had decided to leave it. A boy had sat a seat further along than he might have, and then a girl a seat further than that, and the gap had made itself, the way a gap does.
+On the third evening the space round him at the refectory's long table was wider than it had been since the first week, though nobody had decided to leave it. A boy had sat a seat further along than he might have, and then a girl a seat further than that, and the gap had made itself, the way a gap does.
 
 Jask sat down in it.
 
@@ -152,7 +150,7 @@ Cael wrote one line about it that night, on the page with Jask's name, which unt
 
 On the fourth morning Withrow spoke to the whole of Halcenvane in the lecture range's great hall. Karis timed it by the clock over the east door, and it took eleven minutes.
 
-The hall had benches for six hundred, and Cael guessed five hundred in it: faculty in the front rows, then every year of enrollee in rising tiers behind them, more people than he had ever seen in one room on the bluff. He stood at the back by the east door with Lira and Brom, where the latecomers stood. He had decided beforehand not to read the room. A hall of five hundred was exactly the kind of crowd that pulled all of him outward into the reading of it, and he had a hold to keep. So he gave himself one thing to watch, and chose the clock.
+The hall had benches for six hundred, and Cael guessed five hundred in it: faculty in the front rows, then every year of enrollee in rising tiers behind them, more people than he had ever seen in one room on the bluff. He stood at the back by the east door with Lira and Brom, where the latecomers stood, and he had decided beforehand not to read the room. A hall of five hundred was exactly the kind of crowd that pulled all of him outward into the reading of it, and he had a hold to keep. So he gave himself one thing to watch, and chose the clock.
 
 Withrow walked out to the front without anybody announcing her and stood there with nothing in her hands.
 
@@ -170,7 +168,7 @@ Cael did not look at the tiers, and did not have to. Even with his eyes on the c
 
 She went out by the side door, the way she had come in.
 
-The clock over the east door had moved eleven minutes. For a moment the hall did not move at all. Then it did, all at once and in the ordinary way, with the scrape of benches and the rising noise of five hundred people deciding where to go next.
+The clock over the east door had moved eleven minutes, and for a moment the hall did not move at all. Then it did, all at once and in the ordinary way, with the scrape of benches and the rising noise of five hundred people deciding where to go next.
 
 In the faculty rows Rooke stood up with the others. He did not clap, because nobody was clapping, and he did not frown, and not once on his way to the side door did he turn his head toward the back of the hall. Cael watched him go the whole length of the aisle. He was fairly sure, by the end of it, that the not-turning had been decided in advance, as the kindest thing a narrow grey man could do for a boy in front of five hundred people.
 
@@ -198,7 +196,7 @@ Somebody above them laughed, briefly, and stopped.
 
 "You'll be watched by the most senior person any of us is ever likely to stand under the same roof with," said Ephram. "If you are what that transcript says, all of us will see it, in daylight, with the best witness in the Compact sitting at the rail, and no one will ever be able to say it was arranged. If you're not, we'll see that instead. I'd sooner see. Whichever it is."
 
-There was no warmth in it and no malice. It was the voice of a fighter reading out a rule he happened to approve of.
+There was no warmth in it and no malice; it was the voice of a fighter reading out a rule he happened to approve of.
 
 "So would I," said Cael.
 

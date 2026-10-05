@@ -4,7 +4,7 @@ Quenna took the coach on the Tuesday morning, and by the Tuesday evening the hil
 
 That was the way of the place, Cael had learned. It took a thing in, and talked about it for three days at every stall in the market row, and then it put the thing away somewhere and went back to the price of eels. By the Monday the talk at the pump was all about a carter who had put his wagon into the river at the ford and come out with the horse and lost the wagon. By the Tuesday a few people still nodded to Cael in the street a little longer than they used to. Most did not.
 
-He found he was grateful for it.
+Cael found he was grateful for it.
 
 His body had spent the week mending in the order it chose, which was not the order he would have chosen. The knees came back first. On the Wednesday he had gone up the market steps one at a time with a hand on the rail. By the Saturday he went up them like anybody, and by the Monday he had forgotten, for most of a morning, that they had ever been locked. The hands came next. The stupid brightness went out of the knuckles a day at a time until he could close both fists on the Sunday, though not hard, and not without telling himself to. The left forearm went through every colour Lira had a word for, plum and then slate and then a green she called *pond*, and finished the week the yellow of an old bruise. It was sore to press and no longer hot.
 
@@ -136,7 +136,7 @@ The notice came late, after the bout, while he was still awake at the desk.
 
 He was at the crate desk with the binder open in front of him and the lamp turned low, writing Ulric's line in the back pages in a hand that was nearly his own again. *Ulric. Main floor. Won, third exchange. Forfeit by the rope. Wind: two, both left. Feet. Eyes. Nothing else.* He had just written *Nothing else* and was looking at it, thinking that it was a pleasant thing to be able to write, when the room went quiet round him in the way he knew.
 
-It was not the lamp, or the street. It was the particular quiet that had come three times before, in an alcove, at a post, on a winter morning. A held breath of the whole world, and then, in the middle of the quiet, in front of him and in no place at all, the words.
+It was not the lamp, or the street. It was the particular quiet that had come three times before, and never once when he was waiting for it. A held breath of the whole world, and then, in the middle of the quiet, in front of him and in no place at all, the words.
 
 ```
 FRAGMENT ACQUIRED
@@ -199,7 +199,7 @@ Under it, outside the heads, smaller:
 
 *Found in me afterward, the same as the others. Not taken. Not called. I went in on it once because it was already pointing, and that's all I did.*
 
-He read it back. Then he turned to the very first leaf of the binder, where, on the night more than a year ago when he split the slim book off from the grey one, he had made a count with one finger on each entry. He counted again, the same way, with a finger on each.
+He read it back. Then he turned to the very first leaf of the binder, where a year ago he had first counted what he had, one finger on each entry. He counted again, the same way, with a finger on each.
 
 Wind. Pressure. Iron. Compression.
 

@@ -10,7 +10,7 @@ He could not see her. He did not need to. He had heard her at that lamp a hundre
 
 She was not training. She was asking her feet questions, one at a time, and waiting for them to answer.
 
-After a while the pauses got shorter. Then there were no pauses at all, only a long unbroken run of sound from the north stair: step and turn and step, the staff end, the heel, the step that did not stop. He sat on the bench and listened to her feet remember where they lived. He found that he was smiling in the dark like an idiot, alone in an alcove with his arm in a scarf.
+After a while the pauses got shorter. Then there were no pauses at all, only a long unbroken run of sound from the north stair: step and turn and step, the staff end, the heel, the step that did not stop. He sat on the bench and listened to her feet remember where they lived. Cael found that he was smiling in the dark like an idiot, alone in an alcove with his arm in a scarf.
 
 Brom came in at the side passage when the hour was nearly over. He had a covered pot in one hand, held out in front of him as if it might go off, and a loaf under the other arm.
 
@@ -27,6 +27,8 @@ The sound on the stair stopped. They heard the lamp go out, and her feet come do
 ---
 
 Her table was the landing table, in her room at the boarding house, the one with a short leg that she had wedged with a folded bill from the paper stall. They sat round it with the pot in the middle and the lamp beside it and the door to the landing propped open, because three people and a lamp in Lira's room was too warm for anybody with their coat on. The heavyset man's wife came up the stair while they were spooning out the stew and put a fourth bowl on the landing without a word, as if a fourth bowl were simply what happened now. She went down again.
+
+It was a small room and it held a great deal of Lira. Her staff leaned in the corner by the window with its grip half mended. Her single iron pan hung from a nail by the door, scoured bright, because she cooked for four on the house's fire and would not let anybody else touch the pan. Her measuring stick lay along the top of the press, notched in pencil from the winter, when she had measured every one of his bursts against it and written the numbers in his book in her own hand. Over the bed, on a string, hung the wrist cloths she had worn through, washed and dried and kept, for no reason she had ever been able to give him.
 
 Cael could not hold a spoon in either hand. Lira held it for him, as she had the night before, without any comment at all this time, between her own mouthfuls.
 
@@ -112,7 +114,7 @@ Quenna's inn stood at the top of the market row, where the row turned into the r
 
 "Sit down," she said. "Before you fall down. Everybody in this town seems to say that to you."
 
-He sat. He gave her the page. Lira had written Brom's questions out in her own fast slanting hand, every one, in the order he had asked them, and at the bottom, underlined, *DOES THE FORM ASK FOR HIS FAMILY*.
+He sat. The front room of the inn was the kind of room a carter with money would think of as fine: a carpet worn through to the threads in a path from the door to the hearth, a clock on the mantel that ran a quarter of an hour fast and that everybody in the house allowed for, and a bow window full of the market row going about its morning, barrows and baskets and breath going up in the cold. Quenna had her back to the room and her face to the window, so that she could see the whole row without being seen from it, and Cael noticed that, and filed it, and then gave her the page. Lira had written Brom's questions out in her own fast slanting hand, every one, in the order he had asked them, and at the bottom, underlined, *DOES THE FORM ASK FOR HIS FAMILY*.
 
 Quenna read the page through once, and then again, more slowly. Then she laid it flat on the table and put her cup on the corner of it, as if to keep it from blowing away.
 
@@ -152,7 +154,7 @@ He said it to the chalk cross. Then he lifted his head and looked at Cael, and C
 
 "You're not done being interesting, and I haven't solved the problem yet."
 
-"The problem being me," said Cael.
+"The problem being me."
 
 "The problem being you."
 

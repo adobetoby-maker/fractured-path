@@ -1,5 +1,61 @@
 # Chapter 59 — The Leavings
 
+Brom's leaving was quieter than anybody's, which was like him.
+
+He had very little to leave behind him: a room at the carters' inn, paid a week ahead, a bag, a coat, and an oilskin wrapper he had bought for whatever Vell would give him. On the Wednesday he went round the hill and paid what he owed. It was not much. He had always paid as he went, a copper a round to the newcomers who hit him and a mark an hour to the dock partner and a week ahead at the inn. But there were a few small things outstanding, and Brom was not a man to leave a hill with a copper owing on it.
+
+Cael went with him that morning, straight from the bench outside the carters' inn, with the binder still under his arm, because he could not do anything else and did not want to sit still.
+
+They went to the cookshop by the eel market, where Brom had a slate of four suppers he had not yet paid, and Brom paid it. They went to the newcomers at the ring in the tannery lanes, the tall lad and the girl with sacking in her hair and three others, and Brom gave each of them a copper and did not explain what it was for. The girl with sacking in her hair looked at the coin and then at him.
+
+"What's this for? You didn't let us hit you."
+
+"It's for all the times I'm not going to," said Brom.
+
+She thought about that, frowning, as if it were a sum she had been set. Then she put the copper in her shoe.
+
+They went to the dock partner's lodging at the river end, a room over a net store that smelled of tar and fish. The dock partner stood in the doorway with his broken nose and his great arms folded, and Brom held out a mark, and the dock partner looked at it and did not take it.
+
+"I owe you for the last morning," said Brom. "Before the bout."
+
+"You don't."
+
+"I do. You came. It was cold."
+
+The dock partner looked at the mark a while longer. Then he unfolded one arm and took it and put it in his pocket, and put the same hand on Brom's shoulder, once, heavily, the way he had put it on the rail post above Cael's head on the night of the bout, and took it away again.
+
+"Go on, then," said the dock partner. That was all he said, and he went back in and shut the door.
+
+They walked back up the hill by the river road, slowly, with the frost going off the cobbles in the first sun.
+
+"You never said goodbye," said Cael. "Not to one of them. You paid them and went."
+
+"I said it to the ones it was worth saying to." Brom looked at the river. "I said it to you, a week ago, in an alcove, with my ears pulled. I said it to her. I said it to Dace at his wall on the way down, because he was standing there, and I'll say it to the old woman at Vell's table this afternoon, when I go and ask her for my line, because I'd be rude not to." He shrugged, a big slow movement. "I don't go round collecting goodbyes from people who'll have forgotten my face by the spring. They'll not miss it. It's not unkind. It's only counting right."
+
+"The dock partner won't forget your face."
+
+"No," said Brom, after a while. "No, I don't suppose he will." He walked on a little. "That one I'll count again."
+
+At the top of the river road, where it came up into the market row, somebody was standing by the pump in the thin early sun, waiting. It was a lean man in an ordinary coat, with his little finger crooked off the handle of the bucket he was not filling.
+
+"I heard," said Keth.
+
+"Everybody's heard."
+
+"Everybody's heard you're going. I heard where." Keth set the bucket down. "Greyvane. That's a long way from a floor where a man can watch you from a bench." He looked at Cael's arms, the yellow forearm and the stiff right shoulder, with the plain professional interest of somebody who had once put a straw's width of cut above that same left elbow. "I said, after, that I'd rather buy the rest than fight it."
+
+"I remember."
+
+"I still would. That hasn't changed for an academy." Keth picked the bucket up again. "Wherever you end up. Whenever you're near a floor I'm on. Come and find me, and I'll buy you a supper and you'll tell me the rest of what you saw, and I'll tell you what I've done about it since." He gave Cael a small bow of the head, and after a moment gave Brom one as well, the same bow he gave Vell's table at the end of every bout he fought. "Go well."
+
+He went off toward the pump with his bucket. He did not look back.
+
+"He means it," said Brom.
+
+"He always means it." Cael watched the lean back go away into the market crowd. "That's the trouble with him."
+
+---
+
 The junior keeper who wrote the afternoon cards came to the boarding house on the Wednesday at noon, which nobody from Vell's table had ever done, and stood on the step with his hat in his hands and asked for Cael by name. The heavyset man looked him up and down as if he were a sweep officer and fetched Cael from the kitchen.
 
 "She says would you come to the back room," said the junior keeper. "This evening. After the card." He turned his hat round once. "She said to say *please*. I've worked for her four years and I've never once been told to say *please* to anybody."
@@ -36,7 +92,7 @@ He tied the tape again, carefully, with his left hand and his teeth, and held th
 
 "Thank you," he said. It was too small, and he knew it was too small, and he could see from her face that it was exactly the size she wanted.
 
-"Don't." She put her spectacles back on. "You earned every line of it. All I did was hold the pen." She reached down beside her chair and brought up a second sheaf, much thinner, perhaps six leaves, already tied. "And that's your friend's. Iron Skin. He came and asked me this morning for his line, for the gate, and stood at the end of my table with his hat in his hands like a boy sent to the master." She set it on top of Cael's. "That one's only his results, stamped, which any keeper will do for any fighter going to an academy that asks. I've done it eleven times in thirty years. His is the twelfth. Yours is the first of the other kind." She looked at him over the spectacles. "Don't tell him that. He'll think I like you better."
+"Don't." She put her spectacles back on. "You earned every line of it. All I did was hold the pen." She reached down beside her chair and brought up a second sheaf, much thinner, perhaps six leaves, already tied. "And that's your friend's. Iron Skin. He came and asked me this afternoon for his line, for the gate, and stood at the end of my table with his hat in his hands like a boy sent to the master." She set it on top of Cael's. "That one's only his results, stamped, which any keeper will do for any fighter going to an academy that asks. I've done it eleven times in thirty years. His is the twelfth. Yours is the first of the other kind." She looked at him over the spectacles. "Don't tell him that. He'll think I like you better."
 
 "Do you?"
 
@@ -64,65 +120,9 @@ Then he went home, up the hill in the dark, with one hand flat over the pocket w
 
 ---
 
-Brom's leaving was quieter than anybody's, which was like him.
-
-He had very little to leave behind him: a room at the carters' inn, paid a week ahead, a bag, a coat, and the six leaves from Vell in an oilskin wrapper. On the Wednesday he went round the hill and paid what he owed. It was not much. He had always paid as he went, a copper a round to the newcomers who hit him and a mark an hour to the dock partner and a week ahead at the inn. But there were a few small things outstanding, and Brom was not a man to leave a hill with a copper owing on it.
-
-Cael went with him, in the afternoon, because he could not do anything else and did not want to sit still.
-
-They went to the cookshop by the eel market, where Brom had a slate of four suppers he had not yet paid, and Brom paid it. They went to the newcomers at the ring in the tannery lanes, the tall lad and the girl with sacking in her hair and three others, and Brom gave each of them a copper and did not explain what it was for. The girl with sacking in her hair looked at the coin and then at him.
-
-"What's this for? You didn't let us hit you."
-
-"It's for all the times I'm not going to," said Brom.
-
-She thought about that, frowning, as if it were a sum she had been set. Then she put the copper in her shoe.
-
-They went to the dock partner's lodging at the river end, a room over a net store that smelled of tar and fish. The dock partner stood in the doorway with his broken nose and his great arms folded, and Brom held out a mark, and the dock partner looked at it and did not take it.
-
-"I owe you for the last morning," said Brom. "Before the bout."
-
-"You don't."
-
-"I do. You came. It was cold."
-
-The dock partner looked at the mark a while longer. Then he unfolded one arm and took it and put it in his pocket, and put the same hand on Brom's shoulder, once, heavily, the way he had put it on the rail post above Cael's head on the night of the bout, and took it away again.
-
-"Go on, then," said the dock partner. That was all he said, and he went back in and shut the door.
-
-They walked back up the hill by the river road, slowly, with the light going.
-
-"You never said goodbye," said Cael. "Not to one of them. You paid them and went."
-
-"I said it to the ones it was worth saying to." Brom looked at the river. "I said it to you, a week ago, in an alcove, with my ears pulled. I said it to her. I said it to Dace this morning at his wall, because he was standing there, and to the old woman at Vell's table, because she was writing my line and I'd have been rude not to." He shrugged, a big slow movement. "I don't go round collecting goodbyes from people who'll have forgotten my face by the spring. They'll not miss it. It's not unkind. It's only counting right."
-
-"The dock partner won't forget your face."
-
-"No," said Brom, after a while. "No, I don't suppose he will." He walked on a little. "That one I'll count again."
-
-At the top of the river road, where it came up into the market row, somebody was standing by the pump in the dusk, waiting. It was a lean man in an ordinary coat, with his little finger crooked off the handle of the bucket he was not filling.
-
-"I heard," said Keth.
-
-"Everybody's heard."
-
-"Everybody's heard you're going. I heard where." Keth set the bucket down. "Greyvane. That's a long way from a floor where a man can watch you from a bench." He looked at Cael's arms, the yellow forearm and the stiff right shoulder, with the plain professional interest of somebody who had once put a straw's width of cut above that same left elbow. "I said, after, that I'd rather buy the rest than fight it."
-
-"I remember."
-
-"I still would. That hasn't changed for an academy." Keth picked the bucket up again. "Wherever you end up. Whenever you're near a floor I'm on. Come and find me, and I'll buy you a supper and you'll tell me the rest of what you saw, and I'll tell you what I've done about it since." He gave Cael a small bow of the head, and after a moment gave Brom one as well, the same bow he gave Vell's table at the end of every bout he fought. "Go well."
-
-He went off toward the pump with his bucket. He did not look back.
-
-"He means it," said Brom.
-
-"He always means it." Cael watched the lean back go away into the dusk. "That's the trouble with him."
-
----
-
 Ansel bought the stew.
 
-He had said he would, a fortnight ago, at the cookshop, when Cael had paid for his and he had not been able to look at him across the table. *I'll buy the next one.* And on the Wednesday night he came to the boarding house and stood on the step with his coat buttoned to the throat, as he always wore it, and said that he had a pot at the cookshop with Cael's name on it and Lira's and Brom's. He would not hear a word against it. He walked them down the hill himself, so that none of them could slip off and pay first.
+He had said he would, a fortnight ago, to Brom at the arch, when Brom held out the two coppers Ansel had left on the cookshop board the night Brom was buying. *I'll buy the next one.* And on the Wednesday night he came to the boarding house and stood on the step with his coat buttoned to the throat, as he always wore it, and said that he had a pot at the cookshop with Cael's name on it and Lira's and Brom's. He would not hear a word against it. He walked them down the hill himself, so that none of them could slip off and pay first.
 
 The cookshop man had put two tables together at the back, under the window. The stew was the good one, the one with the barley and the bacon, and there was bread that was that day's and not the day before's. They sat four round two tables, and for a long time nobody said anything that mattered. Ansel was not a talker. He ate carefully and listened, and when Lira told the story of Brom's ear he laughed. It was the first time Cael had ever heard him laugh, a short surprised sound like a door coming open that had been painted shut.
 
@@ -140,7 +140,7 @@ Nobody needed to ask who.
 
 Nobody said anything.
 
-"Three years," said Ansel, "I've not been able to say his name aloud without my throat shutting." He looked up at Cael. "I can now. You did that, in the alcove, with your patience, and he did the rest in a doorway. I wanted you to know before you went." He picked up the bill the cookshop man had laid on the table, and held it so that nobody else could reach it. "We're even. I said I'd buy the next one, and I have."
+"I said his name on your floor at the end of our round," said Ansel. "You heard me. It was the first time in three years I'd said it aloud and not wanted the stone to open under me. But it still stuck, after. It caught on the way out, every time." He looked up at Cael. "It doesn't now. You started that, with your patience, on a cold floor at first light, and he finished it in a doorway. I wanted you to know before you went." He picked up the bill the cookshop man had laid on the table, and held it so that nobody else could reach it. "We're even. I said I'd buy the next one, and I have."
 
 Lira went to see the four girls from the wall that night, on her own. She came back late and would not say what had been said, only that she had given the youngest her old wrist cloths, and that the youngest had cried, and so had she, and that it had been a good thing to do and she would not do it again for a hundred marks. She sat on the stairs a long time afterward with her staff across her knees. Cael sat on the stair below her, and neither of them talked.
 

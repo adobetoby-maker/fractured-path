@@ -114,7 +114,7 @@ That was all. There was no name.
 
 He read it standing still, and then walking, and then standing still again at the top of the rise with the wind coming over it. He tried to think who it could have been, a man who had come to his bouts since the spring and never fought him and never would. He went through the benches in his head, the east bench and the back wall and the steps of the side door, all the faces he had sorted and filed over a year. There were a hundred of them, two hundred. He did not know which. He didn't know the man's name. He never would.
 
-He found that he did not mind not knowing. A stranger had sat on a bench for a season, watching, and had decided something about him, and had taken the trouble to write it down and the further trouble to keep his own name out of it. That seemed to Cael, standing on the rise, about as honest a thing as anybody had ever done for him. He put the note inside his coat, with the sheaf and the binder, among the papers he meant to keep.
+Cael found that he did not mind not knowing. A stranger had sat on a bench for a season, watching, and had decided something about him, and had taken the trouble to write it down and the further trouble to keep his own name out of it. That seemed to Cael, standing on the rise, about as honest a thing as anybody had ever done for him. He put the note inside his coat, with the sheaf and the binder, among the papers he meant to keep.
 
 Lira had read it over his shoulder. She had not asked; she never asked, and he had long ago stopped minding. She put her chin on his good shoulder for a moment, looking at the paper, and then took it away.
 
@@ -210,7 +210,7 @@ It came up through the right shoulder and across the breastbone all at once, in 
 
 He did it twice more before Brom stopped him, and caught a quarter once and nothing the other time, and the quarter cost exactly what the first had cost, no more and no less. He was bad at it. There was no kinder way to put it, so he did not look for one. He was clumsier than he had been at anything in a year and a half. It was expensive, and slow, and it came perhaps one time in four, and when it came it brought back a quarter of what Brom put in.
 
-He found, sitting on the wall afterward with his shoulder humming and Lira handing him the last of the fowl, that he was not in the least troubled by it. He wrote it down at once, before they walked on, the old way, in the binder on his knees.
+Cael found, sitting on the wall afterward with his shoulder humming and Lira handing him the last of the fowl, that he was not in the least troubled by it. He wrote it down at once, before they walked on, the old way, in the binder on his knees.
 
 *Compression-adjacent, first tries on purpose. Road, first day. Nothing when I reach early. Once into the left knee when I caught it with nowhere to send it. Once a quarter, sent back along the line, when I waited till it was in me and chose the road first. Cost: shoulder and breastbone, two breaths, and my teeth. Clumsy, dear, weak.*
 

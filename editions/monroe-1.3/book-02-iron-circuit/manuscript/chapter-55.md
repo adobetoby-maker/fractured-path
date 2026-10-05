@@ -6,6 +6,8 @@ Lira had made a sling for the left arm out of her scarf before they left the bui
 
 Plenty of people were watching. The street outside the Ironyard was still full, and it did not empty as they passed through it; it opened, and then closed again behind them, and went on talking. Somebody shouted his name from an upstairs window and then, embarrassed, shut the window. A man selling hot chestnuts at the corner held one out to him as he went by and, when Cael could not take it, gave it to Lira instead, and then gave her a second one for herself.
 
+All the way up, the street talked about him as he went through it. It did not talk to him; nobody stopped him or touched his arm. But he heard the bout going up the hill ahead of them and behind them in pieces, a man telling the third exchange to a woman in a doorway with his hands, two boys arguing on a step about whether it had been the shoulder or the knees, somebody at an upstairs window saying *six hundred* to somebody inside as if the number were the whole story. He found that he did not mind it, and was too tired to wonder why.
+
 "I'm going to get fat off you," said Lira.
 
 "You can have mine as well."
@@ -50,7 +52,7 @@ The hand was so bad that he could hardly read it himself. He wrote slowly, three
 
 *Reydan. Main floor. Won, fourth exchange. Forced incapacitation. Vell's words.*
 
-*Knocks: fourteen. Answered twelve. Smeared two (first, second). Of the twelve: five on bursts that came, two on the count in the fourth, the rest on gatherings I went on. One answered clean and still put me on the floor: the second exchange's first. It gave me when. It was the right when. I went where I always go.*
+*Knocks: fourteen. Answered twelve. Smeared two (first, second). Of the twelve: nine on bursts I got out of the way of, or tried to; two on the count in the fourth; one on a gathering I hit before it fired. One answered clean and still put me on the floor: the second exchange's first. It gave me when. It was the right when. I went where I always go.*
 
 *Wind: six, all asked, all left. Two in the first, one in the second (the one he fired into), three in the third (in, in, out). None in the fourth. Nothing left.*
 
@@ -84,11 +86,11 @@ The lamp hissed. The sentence sat on the page and would not get any longer.
 
 Then he turned to the back of the book, past the two columns and *Carrying*, to the page headed *Anomalies*.
 
-The session-nine entry was there, in his ordinary hand, written nine days ago at this same desk. He read it through slowly, all of it, the three possibilities and *Evidence insufficient* and *Filed as anomaly. Monitor.* And under it, in the small field at the foot that he had kept for the things that would not go anywhere else, the line he had written the night before the bout: *Session nine. Could not reproduce. Still don't know what that was.*
+The session-nine entry was there, in his ordinary hand, written four days ago at this same desk. He read it through slowly, all of it, the three possibilities and *Evidence insufficient* and *Filed as anomaly. Monitor.* And under it, in the small field at the foot that he had kept for the things that would not go anywhere else, the line he had written the night before the bout: *Session nine. Could not reproduce. Still don't know what that was.*
 
 He wanted very badly for the two to be the same thing.
 
-He noticed himself wanting it, and that was how he knew he had to be careful. It would have been so tidy. Two strange things in nine days, both in the same alcove's work, both arriving from nowhere, both with no notice and no name; put them together and there would be one strange thing instead of two, and one was easier to carry. He made himself lay them side by side on the page, in his head, the way he would have laid two fighters' bouts side by side on a bench, and look at where they were not alike.
+He noticed himself wanting it, and that was how he knew he had to be careful. It would have been so tidy. Two strange things in four days, both in the same alcove's work, both arriving from nowhere, both with no notice and no name; put them together and there would be one strange thing instead of two, and one was easier to carry. He made himself lay them side by side on the page, in his head, the way he would have laid two fighters' bouts side by side on a bench, and look at where they were not alike.
 
 In session nine there had been no space at all between knowing Brom was gathering and meeting it; the knowing and the meeting had been one movement. This had not. Tonight there had been the knock, and the count, and the plant, and the turned shoulder, every step of it his own and in its order; whatever had happened had happened after all of that, inside a thing he already had.
 
@@ -156,7 +158,7 @@ He walked the district that afternoon by himself, because he could not do anythi
 
 He went with no direction at all, which he had not done since the first month after he came down the hill, and he let his feet take him wherever they liked. The left arm was in the scarf and the right hung, and people looked at both and then at his face, and some of them nodded and some of them looked away quickly, the way people look away from a man they have been talking about. The news had gone round the hill in the night, and not only the news of the bout. The doorkeeper with the thick ear had heard a woman give the name of an academy at the door, and had told the eel-market men, and the eel-market men had told everybody they sold a bowl to. By noon the whole of the market row knew that a woman from Greyvane had sat on the stone with the boy after the floor cleared. Half of them had already decided what he would do.
 
-He found that he knew the place.
+Cael found that he knew the place.
 
 It surprised him, how well. He had come down that hill a year and a half ago with a bag and a direction and nobody's name, and now he could not walk a street of it without his eyes sorting it the way they sorted a bench. The paper-stall man had moved his slate line again, this morning, without being asked; it now stood further out than anybody's in the row, and the man said, as Cael passed, "Feeling well?" in the voice of a man asking after the weather on a day he can see out of his own window. The pie woman's new boy had a black eye that was certainly not from a pie. The dried-fruit woman had put her prices up a copper on everything, because of the crowds. When she saw him she put them down again on the figs only, and only for him, and would not take his money for those either.
 
@@ -178,7 +180,7 @@ At the corner by the Ironyard's side door, where the wall was low enough to sit 
 
 "You'll tell them where you learned it," she said.
 
-It was not a question either. He understood it the way he understood a line in Vell's book: a whole judgment, closed and witnessed, in the fewest words that would hold it.
+It was not a question either. Cael understood it the way he understood a line in Vell's book: a whole judgment, closed and witnessed, in the fewest words that would hold it.
 
 "I will," he said.
 
@@ -190,4 +192,4 @@ He had thought, when he came down the hill, that the Unranked District was where
 
 If he went, that was what he would be walking out of.
 
-At the top of the tannery lane he stopped, with the river's cold coming up the slope at him, and found there was nothing left to decide. It had been decided some time ago, without his noticing, somewhere between the stone and the woman on the wall. All that was left to find out was the price of going.
+At the top of the tannery lane he stopped, with the river's cold coming up the slope at him, and found there was nothing left to decide. Cael had decided it some time ago, without noticing, somewhere between the stone and the woman on the wall. All that was left to find out was the price of going.

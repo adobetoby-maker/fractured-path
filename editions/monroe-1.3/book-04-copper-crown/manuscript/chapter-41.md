@@ -12,7 +12,7 @@ He had laid it in Gault's tray between a query from the bursar and a letter abou
 
 The compiling was an afternoon's work at most, since every sheet was his own. He did it at the copying table in full view, with the desk clerk at her ledger six feet off, because nothing in it wanted a closed door.
 
-Most of what he had sent down the river that term was carpentry: calendar extracts, floor issues, lists of associates. That went at the back, as appendices. In front of it went the product proper, which came to six filings. He laid the six side by side along the edge of the wood, squared each to the last, so that the whole term lay under his hand at once.
+Most of what he had sent down the river that term was carpentry: calendar extracts, floor issues, lists of associates, and that went at the back, as appendices. In front of it went the product proper, which came to six filings. He laid the six side by side along the edge of the wood, squared each to the last, so that the whole term lay under his hand at once.
 
 Then he read them, as Ilsev would, from the first word to the last, with a finger moving under each line, and no hope in the reading at all.
 
@@ -30,7 +30,7 @@ Then he read them, as Ilsev would, from the first word to the last, with a finge
 
 Every sentence in the six was true, and every filing was whole in its form, with its appendices in order and its date and initial and its walk down the hill to the fish steps.
 
-He thought of it as a ledger, because he had been trained on ledgers. On one side stood the subject. In a single year the boy had produced an adjudication, a transcript that half the continent had paid six silver marks to read, and a designation on his file graded well above that of the man sent to watch him. On the other side stood a full term of embedded coverage by an officer with a clean record. And at the foot, where the total went, there was nothing at all.
+He thought of it as a ledger, because he had been trained on ledgers, and on one side stood the subject. In a single year the boy had produced an adjudication, a transcript that half the continent had paid six silver marks to read, and a designation on his file graded well above that of the man sent to watch him. On the other side stood a full term of embedded coverage by an officer with a clean record. And at the foot, where the total went, there was nothing at all.
 
 He knew the words a reader would write under that. He had written them himself, once, at a long table up the coast, under a colleague's stack that had looked very like this one, and the colleague had been brought home inside the month.
 
@@ -38,11 +38,11 @@ He knew the words a reader would write under that. He had written them himself, 
 
 Nobody needed to suspect anything to write that. The sum wrote it.
 
-He looked at the six for the space of a few breaths, while the desk clerk murmured *forty-one* and wrote it down. Then he made up the file.
+He looked at the six for the space of a few breaths, while the desk clerk murmured *forty-one* and wrote it down, and then he made up the file.
 
-He tied each filing to its own appendices with pink tape, oldest first. He wrote the covering index in the upright, plain hand that he kept for product and used for nothing else: each sheet by its heading and its date, one line apiece. He put no note on it anywhere. A note is the start of an argument, and an argument is something a reader can take the other side of.
+He tied each filing to its own appendices with pink tape, oldest first. He wrote the covering index in the upright, plain hand that he kept for product and used for nothing else: each sheet by its heading and its date, one line apiece. He put no note on it anywhere, because a note is the start of an argument, and an argument is something a reader can take the other side of.
 
-He added nothing, and he took nothing out. The exception report stayed shut. Near its end stood a word he had once weighed for four seconds, and he did not open the report to weigh it again. Nothing in the bundle was false. Nothing in it was the whole of anything. At the fourth bell Gault's clerk took it from him across the counter with the rest of the day's paper and pressed the wing's seal into the wax over the tape, and locked it in the holding cabinet, where it would wait four days for the delegation.
+He added nothing, took nothing out, and left the exception report shut. Near its end stood a word he had once weighed for four seconds, and he did not open the report to weigh it again. Nothing in the bundle was false. Nothing in it was the whole of anything. At the fourth bell Gault's clerk took it from him across the counter with the rest of the day's paper and pressed the wing's seal into the wax over the tape, and locked it in the holding cabinet, where it would wait four days for the delegation.
 
 After supper he read the floor allocations on the covered walk's board, which he had written himself, as if they were news, and went up the staff stair at the pace of a man going to bed. There was nothing for the small case tonight. He sat on the bed's edge for a while, listening to the river under the bluff, and then he put the lamp out.
 
@@ -52,7 +52,7 @@ What he kept, he kept.
 
 Cael went to the east hall's gallery at the fifth bell, as he did most days, to watch Rooke's cohort, and found that Rooke had rearranged the floor.
 
-All season the cohort hour had run the same way. Rooke set pairs at the four marks on the timber and walked between them, and once in an hour he called a pair out into the middle and took one of them apart in front of the rest, slowly, with a few words, so that everybody could watch the taking-apart and learn from it. Brom had been taken apart in the middle of that floor perhaps thirty times since the first week. Merrick had done a fair share of the taking.
+All season the cohort hour had run the same way: Rooke set pairs at the four marks on the timber and walked between them. Once in an hour he called a pair out into the middle and took one of them apart in front of the rest, slowly, with a few words, so that everybody could learn from the taking-apart. Brom had been taken apart in the middle of that floor perhaps thirty times since the first week, and Merrick had done a fair share of the taking.
 
 Today there were only three marks in use, and Merrick was not at any of them. He was at the far end of the hall, at the wall bars, with a junior Shield fighter for a partner, working panes. Brom was at the near mark with a Blade second-year. Between the two ends of the hall there was perhaps forty feet of empty timber, and every few minutes Rooke walked slowly down the middle of it, as if he were checking that it stayed empty.
 
@@ -90,7 +90,7 @@ Merrick passed him on the gallery stair afterward, coming up toward the north do
 
 "I'd sit somewhere else on the tenth, if I were his friend," said Merrick. "Somewhere he has to look for." He went on up the stair and through the north door without waiting to see how that was taken.
 
-Cael stood on the stair for some time. Then he wrote a fourth line under the other three, and did not like it any better for having written it.
+Cael stood on the stair for some time before he wrote a fourth line under the other three, and did not like it any better for having written it.
 
 *Merrick: has been reading Brom by reading where Brom looks. Has he been reading me too?*
 
@@ -156,7 +156,7 @@ Lira lay looking at the ceiling for a while.
 
 "It makes it funnier," said Lira. She did not laugh. "All my life I've wanted the people with the stamps to look at me properly, just once, instead of at a number on a card. And when they finally send the biggest stamp they've got, it's to look at somebody else, and I'm the fight it watches while it waits." She closed her eyes again. "I'm going to give it a very good fight. That's all. I'm not going to think about whether it sees me. If it's any good at its job, it will."
 
-They sat for a while without talking. A barge went past below, low in the water, and gave its long note and its two short ones to nobody in particular.
+They sat for a while without talking, while a barge went past below, low in the water, and gave its long note and its two short ones to nobody in particular.
 
 "She'll be good tomorrow," said Lira, with her eyes shut. "She'll be better than last time. I want her to be. If I'm going to beat her, I don't want to beat a tired one." She was quiet. "She's the only person on this hill who's ever told me the truth without wanting anything for it. I'd like to give her the best bout she's ever had. Then I'd like to win it."
 

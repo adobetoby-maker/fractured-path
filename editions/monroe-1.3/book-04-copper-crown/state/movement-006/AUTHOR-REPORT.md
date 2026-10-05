@@ -300,3 +300,90 @@ The M5 review asked for more architecture in abstract explanation. It is placed 
 10. **Gwen** (#11): placeholder; her aunt's dinner anecdote is new.
 11. **The hall-three slip is known on the page only to Brom and Cael.** Lira and Karis are not told in scene. BOOK_MAP's Lira-window limit ("the slip, only Cael and Karis") concerns the different, protected Ch20 slip, which is untouched.
 12. **Unnamed by design:** the courier, the counsel, Withrow's counsel, the two faculty ("the Stone man", "the law lecturer"), the clerks, the escort, the wing observer, the instrument woman, the clerk with the cold, the Mire first-year.
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place and by reading, against `REPAIR-BRIEF.md`, `review-editorial.md` and `review-cold.md`. Every change was chosen and worded by hand. Scripts only applied exact before→after strings written by hand, and failed on any miss. The source chapters were not reopened. Only ch38–44 and this report were edited, and `source-overlap.tsv` / `.summary` were regenerated (see Checks). No git commands were run.
+
+### Priority 1: the record of five (ch43), now true paper by paper
+
+At Karis's slate ("And what does the record let you show?"), Cael now goes through it sheet by sheet:
+- **The public transcript** (the one anybody can buy) holds two: the Wind and the Iron read, plus "that one thin Ember exhibit at the back that nobody ever reads".
+- **Gault's baseline**, the academy's own filed baseline from day 48, holds the Wind numbers, the read, and the plate. At the plate he held the Pressure back, "so that line's flat". It also holds a Compression line Gault ringed "because the floor never gave him a fair test of it".
+  - The brief's ruling reads "the academy's filed baseline", while the coordinator's message said "Greyvane's filed baseline". The edition's baseline is Halcenvane's (Gault, M2), so it is written as Gault's.
+- **The circuit record Vell copied at Ardenmere**: "every bout I fought… the Pressure I used in public and the Compression that finished Reydan". Cael knows it exists and does not quote it.
+- Karis: "So two are public." Cael: "Two are public. All five are on paper somewhere, and not one of them would be news to a panel that read everything… The sixth is new to every record there is."
+- The narration echo now reads "five things that already had a trail of paper behind them somewhere". The turn is kept: hiding and honesty become one job.
+- ch42–44 contain no other echo. The CONTROL answer ("the next ordinary step from something already on paper") is true under the corrected inventory and was kept.
+- Nothing contradicts M8's plan: growth measured in five against the baseline file, the plate flat, Ember the early surprise.
+
+### Priority 2: clarity and saying it once
+
+**ch38, two anchors, and nothing more:**
+- After the rent: *If he stopped paying, he went thin: eyes slid off him as if he were not there, and sooner or later somebody whose trade was noticing would notice.*
+- At the scope: *His enrollment stood on that evaluation every term; if it went against him, he would be a boy with no school and no standing again.*
+
+**"Hold ordinary", said once per voice:**
+- In ch38, Brom's "Rooke said keep doing it, and Gault said… the registrar's going to say…" is cut to its new beat ("more chairs").
+- ch38's window paragraph that recounted the day's holding is cut to one sentence before the Log.
+- In ch40, the fame paragraph's restatement ("changed nothing in the work… the bumps column said *none*…") is cut to the looks, the edges and "lonelier".
+- Kept: Gault, Rooke, Bracken, Withrow's ownership, the protected Log, Jask, both semifinals.
+
+**ch39, one purpose sentence per file step:**
+- Copies: against "the whole chain rested on one girl's handwriting".
+- The independent search: against "Karis had found what she wanted to find".
+- The whole directive: against "a reader who knew only the four pages everybody quoted".
+- The index: against "a reader too tired or too hurried to find the one sheet that mattered".
+- The third explanation of the principle (the "hundred bouts… built for an opponent" paragraph and the long Log sentence) is cut. The Log is now one line plus "the same weapon, held the other way round". Karis's satisfaction carries the rest.
+
+**ch44, the countdown made exact:**
+- "On the tenth of Reaping, the morning after the file was closed…"
+- "from the closing of the file on the ninth to the eve of the twelfth"
+- "three days without performing, the ninth and the tenth and the eleventh"
+- "on the evening of the eleventh"
+
+### Priority 3: cadence (by hand)
+
+- **Eighteen narration sentences of 45 words or more were split at their natural turn**, each where it carried two thoughts:
+  - ch38: the satchel and porter; the rumours; Karis reading the morning.
+  - ch39: the request letter; the clerk; the tabs; the visitors' books; Ilsev.
+  - ch40: the Greyvane board; the delegation's clerks.
+  - ch41: Rooke's pairs.
+  - ch42: the file's history; the Denvash clerk; the safety instructor.
+  - ch44: the instrument card; the bursar's clerks; the counsel on the cobbles; the chests.
+- **Seventy joins of related short narration** into 18–30-word sentences, in narration only: ch38 12, ch39 12, ch40 8, ch41 9, ch42 9, ch43 7, ch44 13.
+- Not touched: dialogue, Log lines, fight landing beats (the long minute, the exchanges), and protected text.
+
+### Before / after (formula_metrics.py, ch38–44)
+
+| Measure | Before r1 | After r1 | Range / aim |
+|---|---|---|---|
+| Words (prose) | 31,521 | 31,551 | 30,500–33,000 (wc 31,621) |
+| Sentences | 2,383 | 2,319 | — |
+| Sentence mean | 13.23 | **13.61** | aim ≈13.6 |
+| ≥40-word share | 4.4% | **3.7%** | ≤4.0% |
+| ≤5-word share | 30.0% | 29.7% | ≤ ~34% |
+| Words per scene | 1,016.8 | 1,017.8 | 850–1,050 |
+| Paragraph median | 24 | 24 | ≤ ~30 |
+| FK grade | 4.43 | 4.59 | 3.5–6 |
+| FRE | 86.8 | 86.4 | reported |
+
+**Words (wc):** ch38 4,487 · ch39 4,071 · ch40 3,923 · ch41 3,704 · ch42 4,696 · ch43 4,960 · ch44 5,780 · **total 31,621**.
+
+### Checks after repair
+
+- `ed.sh overlap book-04-copper-crown 6`: **0 unprotected, 9 protected**.
+  - `source-overlap.tsv` and `source-overlap.summary` were regenerated with the review's own command line.
+  - The tsv is 0 bytes by design: `source_overlap.py` writes only unprotected REUSE rows to stdout, and the protected-run count goes to the summary on stderr. With zero unprotected runs the full list is empty, so the empty file is the correct artifact and not a failed write.
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- `sweep_probe.sh book-04-copper-crown 6 6`: **skeleton 1%, close 10%** on 1,367 sentences. By chapter: ch38 1/10 · ch39 2/11 · ch40 2/12 · ch41 1/9 · ch42 1/7 · ch43 2/9 · ch44 0/13.
+
+### Changelist by chapter
+
+- **ch38:** two anchors; Brom's restatement cut; the window paragraph cut; 3 splits; 12 joins.
+- **ch39:** four purpose sentences; the third principle explanation cut and the Log shortened; the index paragraph made plain; 5 splits; 12 joins.
+- **ch40:** the fame paragraph trimmed; 2 splits; 8 joins.
+- **ch41:** 1 split; 9 joins.
+- **ch42:** 3 splits; 9 joins (none inside the Lira window's long minute).
+- **ch43:** the record of five rewritten (Priority 1); 7 joins.
+- **ch44:** the countdown dated; 4 splits; 13 joins.

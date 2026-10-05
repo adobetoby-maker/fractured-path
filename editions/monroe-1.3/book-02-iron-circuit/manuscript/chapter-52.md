@@ -88,7 +88,7 @@ The fourth was quick. It came short and early, while he had only half finished l
 
 And twice, in among the four, the floor had opened in front of him.
 
-After the third, Reydan's weight sat back on his left heel for the length of a breath, with the ribs on his right side turned toward Cael and nothing in front of them. After the fourth he stood too square and too near for half a beat. Both times Cael saw it with the gaze, as plainly as a gate left open in a wall, and both times he let it close. His right hand stayed where it was. The giving face waited in the hollow under his breastbone, three strikes deep, and he kept it asleep. *Not yet.* The room was full of eyes, and every pair of them would go home and write down whatever he showed. He did not mean to show anything until he had to.
+After the third, Reydan's weight sat back on his left heel for the length of a breath, with the ribs on his right side turned toward Cael and nothing in front of them. After the fourth he stood too square and too near for half a beat. Both times Cael saw it with the gaze, as plainly as a gate left open in a wall, and both times he let it close. His right hand stayed where it was. The giving face waited in the hollow under his ribs, three strikes deep, and he kept it asleep. *Not yet.* The room was full of eyes, and every pair of them would go home and write down whatever he showed. He did not mean to show anything until he had to.
 
 He threw nothing back. He stood off and moved, and that was all.
 
