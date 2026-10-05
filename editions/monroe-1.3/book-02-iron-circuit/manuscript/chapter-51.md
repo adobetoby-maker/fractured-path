@@ -1,6 +1,6 @@
 # Chapter 51 — The Night Before
 
-The tired stage began on the eleventh day, and Lira made sure he was tired for it.
+The tired stage began on the eleventh day, the Saturday, and Lira made sure he was tired for it.
 
 She did not cut the morning short. She gave him the whole hour and then another half on top of it, at full speed, from the right and the left and the front with nothing before any of it. She sent him to the stone with the drop and up again with the roll until his left knee was shaking at the bottom of every drop and his breath was coming in pieces. At the end she stood back and looked at him the way she looked at a horse, and said, "That'll do. Go and give him what's left," and went up the steps without another word.
 
@@ -44,7 +44,7 @@ He held the back of his hand to the light from the arch and looked at the rings 
 
 *Tired: 12, 16.*
 
-He looked at it for a while. Every column ended in the same place, or near enough: sixteen in twenty, standing or moving or being struck or spent. Four in five. Against Keth, with his feet planted and the man inside a forearm, it had been nine knocked and five answered, a little more than half, a coin he had been careful never to lean on. Now it was four in five in every condition Brom could put him in, and the band that came after each knock arrived later than it had in the autumn and went away sooner. He could feel the difference: twenty knocks used to leave him stacked to the top of his head by the end, and now they left him with a stripe behind the eyes that was gone by supper.
+He looked at it for a while. Every column ended in the same place, or near enough, sixteen in twenty, where against Keth it had been nine knocked and five answered, a coin he had never dared lean on. And the band after each knock came later now and left sooner; twenty knocks that used to stack him to the top of his head left a stripe behind the eyes that was gone by supper.
 
 *About one in five fails,* he wrote, under the columns. *At worst. At a forearm good; at a pace still fair; at two paces still nothing. It answers use. It deepens where it's worked. Brom built the steps; I only climbed them.*
 
@@ -66,11 +66,11 @@ Brom read it over his shoulder, slowly, from the front.
 
 ---
 
-On the thirteenth day the Ironyard was full before the afternoon card, and it was not even the night.
+On the thirteenth day, the Monday, the Ironyard was full before the afternoon card, and it was not even the night.
 
 Dace had a ledger now, a little dog-eared book of his own that he kept in his coat and took out every half hour and wrote in and crossed out again. It was not Vell's book, and he would not let anybody call it that. It was a list of the people he had promised a place to stand, and it had been growing for a week. Cael passed him at the wall at midday and found him with the little book open against the chalk, running his pencil down a column and moving his lips.
 
-"Here's my trouble," said Dace, without looking round, as if Cael had asked. "The stone holds what it holds. Fill it to the rope and you've the floor full and the benches full and every man able to see over the one in front. Past that, they stand on each other's feet and somebody's child gets lost." He tapped the book. "I've given my word to more than that already. And then there's the street, which never asked anybody's leave in its life." He crossed a name out, and wrote it again lower down, and crossed out another. "So tomorrow, at that door, I'll be telling grown men to their faces that they're not coming in, one by one, while two men from the eel market sell stew in my corner." He shut the book. "Go away. You're one more body, and I'm counting you.
+"Here's my trouble," said Dace, without looking round, as if Cael had asked. "The stone holds what it holds. Fill it to the rope and you've the floor full and the benches full and every man able to see over the one in front. Past that, they stand on each other's feet and somebody's child gets lost." He tapped the book. "I've given my word to more than that already. And then there's the street, which never asked anybody's leave in its life." He crossed a name out, and wrote it again lower down, and crossed out another. "So tomorrow, at that door, I'll be telling grown men to their faces that they're not coming in, one by one, while two men from the eel market sell stew in my corner." He shut the book. "Go away. You're one more body, and I'm counting you."
 
 The stew had come in that morning on a handcart, in two great black pots, and the eel-market men had set up in the corner by the slate exactly where Dace had said they could, and were sweeping their own patch of stone already with a kind of pride. Somebody had hung three of the mending-stall pennants over the side door. Dace had seen them and said nothing, which Cael understood to mean he had decided not to see them.
 
@@ -218,17 +218,15 @@ He began with his own body, because his body was the purse he would be paying ou
 
 *Forearms: yellow mostly, the left still blue where Ansel hooked it. Ribs: quiet unless pressed. Left knee: stiff in the morning, sound by noon; it took all the dropping. Right foot: mine. Shoulder: spent twelve, rested two days, will give three. Lira halved the last two mornings and kept the speed. Legs lighter than they've ever been. Tired underneath, the good kind.*
 
-Then the things he had, one under another, short, so that he could carry the whole list in his head onto the floor and never need to open the book.
+Then the things he had, short, so that he could carry the list onto the floor in his head and never need to open the book.
 
-*Wind-adjacent. Left only; the fan. Half a body. The lock, two* ands*, and he'll count two; a man paid for since ten counts two. Three an exchange at the most. Read bursts cheap, a thin line; reactive bursts full price and a lock to stand in. Chain of two needs the fill, and the fill shows. Rule: the hip only when I know. When I don't know, the feet.*
+*Wind: three an exchange at most, and the lock is two *ands* he'll count. The hip only when I know; when I don't, the feet, which have no doorway.*
 
-*The feet. The drop and roll, right, low. No doorway. Slower than the hip; quicker than they were. In my legs since the sixth evening.*
+*The knock: on the pulling in and nothing else.*
 
-*Iron-adjacent. The knock. Four in five, at a forearm, in every condition Brom could make. One in five lies. Gives me when; doesn't give me where. Spend it on the pulling in and nothing else.*
+*Pressure: three redirects, each paid for in the side and the breastbone I'll need for the next exchange, so buy only a place I mean to stand in. The giving face, three on the beat, if he has a beat to ride.*
 
-*Pressure-adjacent. Three redirects in the shoulder, and no more. Every one is paid for in the side and the breastbone, and I'll need those for the next exchange. Only buy a place I mean to stand in. The giving face: three on the beat, if he has a beat to ride. He may not.*
-
-*The gaze. Runs the whole fight. No ration tomorrow. Blind past ten degrees at full depth; he'll find that or he won't.*
+*The gaze: no ration tomorrow.*
 
 He looked at the list for a long time. Then he turned to the front of the book, where the fragments were, and counted them the way he had counted them on the first page a year ago, one finger on each.
 
@@ -248,7 +246,7 @@ Then he turned to a clean page and wrote the man's name at the top of it, and th
 
 *If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.*
 
-He read it back once; it was true, as far as he could see, and it was more than he had had on the first morning, which had been four lines and a number.
+He read it back once; it was true, as far as he could see, and it was more than he had had on the first night, which had been four lines and a number.
 
 He closed the book.
 

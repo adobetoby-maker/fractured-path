@@ -1,52 +1,78 @@
 # Chapter 40 — Temperature
 
-The wing's runner pinned the delegation's schedule to the main board on Fifth-day morning, in the first clear space she found, and went away without looking at what she had put it next to.
+Lira found it first, which was fitting, since half of it was hers.
 
-The main board stood under the covered walk's north arch, where everybody passed it twice a day whether they meant to or not. All season its left half had belonged to the Copper column: the long sheet of ninety-one names in the porter's chalk-white paint, with the brass stud beside Fiske's line and Lira's name above it, and the season's dates in a narrow strip down the margin. The right half was where notices went to be ignored. Lectures moved, a lost glove, the bursar's warning about lamp oil. That morning the runner had cleared two old notices off it and pinned the schedule in their place, so that the delegation's dates hung exactly level with the season's, a hand's breadth apart.
+She was standing in front of the main board under the covered walk's north arch when Cael came through at the change of the second bell on Fifth-day, with her weight on the good hip and her hands in her coat pockets, quite still among the people going past. She was not reading. Lira never read a thing twice; she read it once and had it. She was doing sums.
 
-Cael found it at the change of the second bell, with half the bluff going past behind him, and read both columns from the top to the foot.
+"Look," she said, without turning round. "They've put us next to each other."
 
-On the left, in the margin of the season sheet, in the registrar's own hand: *Copper column. Semifinals, the ninth and tenth of Reaping. Final, the nineteenth of Reaping, the Crown yard, before a faculty panel of three, witnessed.*
+All season the left half of the main board had belonged to the Copper column, ninety-one names long in the porter's white paint, with Lira on the top line and the brass stud on the line below it, beside Fiske. The right half was where notices went to be ignored. That morning somebody from the wing had taken down a warning about lamp oil and a lost glove and pinned up a single printed sheet in their place, so that it hung level with the season's dates, a hand's breadth away.
 
-On the right, in a clerk's print: *Charter inspection. Delegation of the Guilds Compact. Arrival, the twelfth. Records sessions, the twelfth to the fifteenth. Facility review, the fourteenth. Interviews of faculty, as the delegation shall direct. Provision-status evaluation: the twentieth of Reaping; right of observation reserved.*
+Lira read the left margin aloud for him in a low voice, as though he could not read it himself, which was her way of saying it mattered.
 
-He stood and looked at the two of them side by side, and found that the thing he could not stop noticing was how ordinary they were.
+"*Copper column. Semifinals: the ninth and the tenth of Reaping. Final: the Crown yard, the nineteenth. Panel: three faculty. Witnessed.*"
 
-Nobody had planned them together. Withrow had set the final in the third week of term, long before anybody on the bluff had heard of a notice. Gault had published the evaluation calendar in the first week. The delegation's clerks had drawn up their schedule in some office far down the river, from a register of charter dates, without the faintest idea that a girl from a foundry and a boy who had been taken apart on purpose were going to fight for a crown on the nineteenth. Ordinary people had done ordinary jobs at their own desks, and the two columns had come out overlapping by a week, with the arrival on one side of the final and the evaluation on the other.
+Then the printed sheet.
 
-He had stood in front of a board like this before. At Greyvane, in a narrower passage, in a colder light, there had been a notice with his name printed on it and a hearing date beside his name, and he had read it at fifteen and understood, for the first time, that somewhere a system had written him into its calendar. He had thought then that this was the worst thing a board could do to a person.
+"*Delegation of the Guilds Compact. Arrival: the twelfth. Sittings on the records: from the twelfth through the fifteenth. Review of facilities: the fourteenth. Faculty interviews: as the delegation directs. Observation of provision-status evaluation: reserved. The twentieth of Reaping.*"
 
-This board had two dates on it, and neither of them was a threat. One was a bout his two closest friends might very well fight against each other. The other was the procedure he had signed up for on the day he was enrolled, falling on the day it had always been going to fall, before the panel it had always been going to stand before, against his own baseline. The only new thing on the whole board was a line that said somebody would be watching. That was all a right of observation was. It was a chair.
+She stopped. They both looked at the two columns.
 
-A Stone first-year with a satchel bumped Cael's elbow, reading over his shoulder, and said sorry, and went on. Cael noted that she had seen him. He noted that he had not gone thin. Then he went to his lecture.
+"They overlap," said Lira. "A whole week. They'll be here for my semifinal's aftermath, and Brom's, and the final, and you." She took one hand out of her pocket and laid a fingertip on the printed sheet, lightly, on the word *reserved*. "That's you."
 
-He wrote it at the window that night, with the steel pen, and found when he came to it that one part of the entry had been waiting for him all day, ready-made, and only needed setting down.
+"That's me."
+
+"It doesn't say your name."
+
+"It doesn't need to," said Cael. "There's only one."
+
+The last time a pinned sheet on a board had carried a date that was about him, it had been at Greyvane, in a narrow passage with a draught in it, and the date had been a hearing, and his name had been printed out in full above it in the registry's square type. He had been fifteen. He had stood in front of it and understood that a system had written him into its calendar without asking, and he had thought at the time that nothing a board could say would ever be worse.
+
+He looked for that feeling now, honestly, the way you press a bruise to see whether it is still there. It was not there.
+
+Neither date on this board was aimed at anybody. The final's had been chalked into the margin since the brackets went up, by a registrar who had never heard of a notice. The evaluation's had been on the wing's wall since the first week of term. The delegation's clerks had drawn up their own dates in some office far down the river, out of a register of charter visits, without the least idea that a foundry girl and a boy who had been taken apart on purpose were going to fight for a crown in the middle of their stay. Ordinary people at ordinary desks had done their ordinary work, and the dates had fallen where they fell.
+
+And his own line on the printed sheet was not a summons. It was the procedure he had signed for on the day he enrolled, on its posted day, before its panel, against his own baseline. The only thing the delegation had added to it was a chair at the rail.
+
+"You've gone quiet," said Lira.
+
+"I was checking whether I mind."
+
+"And?"
+
+"I don't," said Cael, a little surprised. "Last time a board did this, it was a summons. This is a calendar."
+
+Lira looked at him sideways for a moment, then nodded once, and took her finger off the sheet.
+
+"Good," she said. "Then I'll mind for both of us. Mine's on the ninth."
+
+That night, at the window, the board went into the Log. One part of the entry had been waiting for him all day, ready-made, and only needed setting down.
 
 *Last time the Compact came to an academy for me, they sent a warden with a challenge. This time they're sending an Archmarshal with no stated business at all. Coss I could read in a week. I don't know what reads an Archmarshal.*
 
-He let it stand for a while. Then he went on underneath, more slowly.
+He let that stand for a while. Then he went on underneath, more slowly.
 
-*Three men gave me the same instruction on the same afternoon, in three different rooms, without asking each other. Gault, at the table: my wing changes nothing. Rooke, under the north arch: keep doing it, it's as boring as it sounds. Bracken, over the counter, the next morning: give me a dull month. Three men who don't much like each other. One instruction. Hold the ordinary. Don't move because they're coming.*
+*Three men told me the same thing on the same day, in three different rooms, and none of them asked the others first. Gault at the long table: my wing changes nothing. Rooke under the north arch: keep doing it, it's as boring as it sounds. Bracken over his counter the next morning: give me a dull month. Not one of the three is fond of the other two. One instruction between them. Hold the ordinary. Stand still while they come.*
 
-*All my life, people with seals have told me to take up less room. This is the first time anyone's told me to stay exactly the size I am. They meant it. I think they're right.*
+*All my life, people with seals have told me to take up less room. These three told me to stay exactly the size I am. They meant it. I think they're right.*
 
 ---
 
 The bluff's temperature went up for three days, and it went up in small ugly ways, as the temperature of a place does when it is frightened and cannot say so.
 
-The first sign was a rumour. It started in the Iron bracket the day after the reading and had worked its way down to the Copper benches by supper: the inspection had been asked for. Another academy, jealous of Halcenvane's season, had written to the Compact and complained about the provision enrollment, and this was the answer. By the second morning the rumour had grown a name. It was a river academy two days downstream, which had lost three good Stone students to Halcenvane the year before and had never forgiven it. By the third morning there were people in the refectory who could tell you who had signed the letter.
+The first sign was a rumour. It started in the Iron bracket the day after the reading and had worked its way down to the Copper benches by supper: the inspection had been asked for. Another academy, jealous of Halcenvane's season, had written to the Compact to complain about the provision enrollment, and this was the answer. By the second morning the rumour had grown a name. It was a river academy two days downstream, which had lost three good Stone students to Halcenvane the year before and had never forgiven it. By the third morning there were people in the refectory who could tell you who had signed the letter, and what colour the wax was.
 
-"There isn't any letter," said Karis, at breakfast, with her book open beside her bowl. "A complaint from another house goes to the regional office and comes back as an ordinary visit with two officers. You don't get eleven names and an Archmarshal for a complaint about a Stone student. Nobody who knows anything believes it."
+"There isn't any letter," said Karis, at breakfast, with the marbled book open beside her bowl. "A complaint from one house about another goes to the regional office and comes back as an ordinary visit with two officers and a ledger. You don't get eleven names and an Archmarshal for a quarrel about Stone students. Nobody who knows anything believes it."
 
 "Nobody who knows anything is spreading it," said Lira.
 
-"That's the trouble with rumours," said Brom. "They're never told by the people who'd know."
+"That's the trouble with rumours," said Brom, through bread. "The people telling them never know anything. That's how you can tell they're rumours."
 
 The second sign came at Bracken's counter, on the afternoon of the second day.
 
-Cael was in the queue for his floor sheet. Ahead of him stood two second-years from the law range, a tall one and a short one, who had plainly come together so that neither would have to ask alone. When the short one reached the counter he laid both hands on it.
+Cael was in the queue for his floor sheet. Ahead of him stood two second-years from the law range, a tall one and a short one, who had plainly come together so that neither would have to ask alone. When the short one reached the counter he laid both hands flat on it.
 
-"Registrar," he said, "we wanted to ask. If the delegation found against an enrollment, say, a provision enrollment. Would the enrollment be suspended? While they decided? Before a finding?" He went a little pink. "We're asking about the law."
+"Registrar," he said, "we wanted to ask. If the delegation found against an enrollment, say a provision enrollment, would the enrollment be suspended? While they decided? Before there was a finding?" He went a little pink. "We're asking about the law."
 
 Bracken looked at him for a moment over the top of the counter.
 
@@ -58,29 +84,27 @@ Bracken did not wait for it. He looked past the two second-years, down the queue
 
 "Enrollee," he said. "Your floor sheet. Hall three, sixth bell, as posted." He held it out across the counter in exactly the voice he used for every floor sheet he had ever handed anyone, a voice with nothing in it at all. "Sign for it, please."
 
-Cael stepped up and signed for it. The two second-years stood aside to let him, and looked at him, and looked at Bracken, who had already gone back to his ledger. Then they went out together without saying anything more, and Cael understood that he had just watched the registrar answer the question under the question, and answer it with a floor sheet.
+Cael stepped up and signed. The two second-years stood aside to let him, and looked at him, and looked at Bracken, who had already gone back to his ledger. Then they went out together without saying anything more, and Cael understood that he had just watched the registrar answer the question under the question, and answer it with a floor sheet.
 
 The third sign was a first-year.
 
-He was a Mire boy, young even for a first-year, with ink on his collar, and Cael met him in the covered walk on the morning of the third day. The boy stopped dead in front of him. He looked at Cael's face for a little too long, as if he had been told a great deal about it and was checking the description against the original. Then his eyes went down and up once, quickly, the way a person's eyes go when he is adding a column, and he walked on with a small frown. He had worked something out, and Cael would never know what the sum was.
+He was a Mire boy, young even for a first-year, with ink on his collar, and Cael met him in the covered walk on the morning of the third day. The boy stopped dead in front of him. He looked at Cael's face for a little too long, as if he had been told a great deal about it and was checking the description against the original. Then his eyes went down and up once, quickly, the way a person's eyes go when he is adding a column, and he walked on with a small frown. He had worked something out, and Cael would never know what the sum was, or what it had come to.
 
----
+It was the fame problem again, come back in a new coat.
 
-It was the fame problem again, coming back in a new coat.
-
-Cael had lived with it since the bridge. Every person on the bluff had come up the road already carrying some version of him, the boy from the transcript, the boy who had beaten the registry, the boy whose people had given him up. None of the versions had ever had to survive a real consequence. Now a consequence was coming up the road in three carriages, and the versions were being taken out, all over the bluff, and turned over in people's hands to see whether they would hold.
+Cael had lived with it since the bridge. Every person on the bluff had come up the road already carrying some version of him: the boy from the transcript, the boy who had beaten the registry, the boy whose people had given him up. Not one of those versions had ever been tested against anything that mattered. Now something that mattered was coming up the road in carriages, and all over the bluff the versions were being taken out and turned over in people's hands, to see whether they would hold.
 
 He found that it changed nothing in the work.
 
-That surprised him, and he wrote it down. The looks came back, nearly as many as there had been in the first month: in the refectory queue, on the lecture stair, at the board. People watched him cross the second quadrangle as if he might do something in the middle of it. And none of that touched his edges at all. Their eyes were their business. The hold was his. He minded the half-metre of air round himself exactly as he had minded it on the quietest morning of the season, and gave every room exactly its ordinary share of him, and the bumps column said *none* on all three days. The rent was what it always was, a dull weight in the afternoon. Being stared at did not make it heavier. It only made it lonelier.
+That surprised him, and he wrote it down. The looks came back, nearly as many as in the first month: in the refectory queue, on the lecture stair, at the board. People watched him cross the second quadrangle as though he might do something unusual in the middle of it. And none of that touched his edges at all. Their eyes were their business; the hold was his. He minded the half-metre of air round himself exactly as he had on the quietest morning of the season, and gave every room its ordinary share of him, and the bumps column said *none* on all three days. The rent was what it always was, a dull weight in the afternoon. Being stared at did not make it heavier. It only made it lonelier.
 
-On the third evening the space round him at the long table in the refectory was wider than it had been since the first week. Nobody had decided to leave it. A boy had sat a seat further along than he might have, and then a girl a seat further than that, and the gap had made itself, as a gap does.
+On the third evening the space round him at the refectory's long table was wider than it had been since the first week. Nobody had decided to leave it. A boy had sat a seat further along than he might have, and then a girl a seat further than that, and the gap had made itself, the way a gap does.
 
 Jask sat down in it.
 
-He did it on purpose, with his tray, without asking, and he did not look at Cael while he did it. He was the third-year from hall three, the one who had stood under a locked core with a jammed pin while Cael came across eleven paces of open boards toward him. Since then he had been careful, in the way of a person who does not want to be the story, never to be seen with Cael more than anybody else was.
+He did it on purpose, with his tray, without asking, and without looking at Cael while he did it. He was the third-year from hall three who had stood under a locked core with a jammed pin while Cael came across eleven paces of open boards toward him. Since then he had been careful, in the way of a person who does not want to be the story, never to be seen with Cael more than anybody else was.
 
-"They've put my dial back," said Jask, to his soup. "The one on the post. The warden's new pins came. It turns smooth now. You can feel the stops."
+"They've put my dial back," said Jask, to his soup. "The one on the post. The warden's new pins came. It turns smooth now. You can feel every stop."
 
 "That's good," said Cael.
 
@@ -88,68 +112,78 @@ He did it on purpose, with his tray, without asking, and he did not look at Cael
 
 "Understood."
 
-"Good," said Jask, and ate his bread, and talked for the rest of the meal about nothing at all, about dials and stops and the price of boot leather in Ostrand. When he had finished he took his tray and went. He did not look back, and he did not need to. The gap at the long table had closed behind him by the time he reached the hatch, because a boy who had been sitting a seat too far along had moved up into it to get at the bread.
+"Good," said Jask, and ate his bread, and talked for the rest of the meal about nothing at all, about dials and stops and the price of boot leather in Ostrand, in a steady unremarkable voice that carried exactly as far as the people on either side of them and not one seat further. When he had finished he took his tray and went. He did not look back. By the time he reached the hatch the gap at the long table had closed behind him, because a boy who had been sitting a seat too far along had moved up into it to get at the bread.
+
+Cael wrote one line about it that night, on the page with Jask's name, which until then had held only the pin.
+
+*Sat in the gap at supper on purpose and said it wasn't on purpose. Doesn't want to be the story. Was a better friend for ten minutes than most people manage in a year.*
 
 ---
 
-On the fourth morning Withrow spoke to the whole of Halcenvane, in the lecture range's great hall, and it took her eleven minutes by the clock above the door.
+On the fourth morning Withrow spoke to the whole of Halcenvane in the lecture range's great hall. Karis timed it by the clock over the east door. It took eleven minutes.
 
-The hall had benches for six hundred and Cael guessed at five hundred in it, faculty in the front rows and every year of enrollee behind them in rising tiers, more people than he had ever seen in one room on the bluff. He stood at the back by the east door with Lira and Brom, where the late-comers stood. Karis had gone forward to sit with the library committee, because she had been told to, and could be seen in the fourth row with her notebook already open on her knee.
+The hall had benches for six hundred, and Cael guessed five hundred in it: faculty in the front rows, then every year of enrollee in rising tiers behind them, more people than he had ever seen in one room on the bluff. He stood at the back by the east door with Lira and Brom, where the latecomers stood. He had decided beforehand not to read the room. A hall of five hundred was exactly the kind of crowd that pulled all of him outward into the reading of it, and he had a hold to keep. So he gave himself one thing to watch, and chose the clock.
 
 Withrow walked out to the front without anybody announcing her and stood there with nothing in her hands.
 
-She did not reassure anybody. That was the first thing Cael noticed, and he went on noticing it, and afterward it was the thing he wrote about at length. She gave them the three differences. They were the same three her counsel had given round the records hall's table, in the same order, and she gave them in the same flat way, without an adjective anywhere in them: the visit was early, and the notice did not say why; the delegation was large, eleven where two would be usual; and at the head of it stood an officer of a rank that did not ordinarily come to academies at all.
+"I'm told that clock runs two minutes slow," she said. "I'll be done before it notices."
 
-The hall listened in a silence so deep that Cael could hear the clock above the door.
+A ripple went along the tiers, not quite a laugh.
 
-"You will all have heard," said Withrow, "that somebody of unusual rank is coming. It's true. I have told you exactly how true. Now I'll tell you what follows from it." She waited a moment. "Nothing does. I have no instruction for you that I haven't given you every week of this term. Go to your lectures. Sit your assessments. Fight your bouts on the days they're posted. Let the delegation see this academy doing precisely what it does when nobody is looking at it. I will not have Halcenvane put on a performance. A performance is the one thing an inspection is truly able to detect."
+She gave them the three differences first. She gave them exactly as her counsel had given them round the long table, in the same order and with the same plainness: early, and nobody had said why; large, eleven where two would do; and at the head of it, an officer of a rank that did not come to academies. She did not dress any of it. She did not soften it either. She laid the three things out in front of five hundred people like three stones on a table and let them look.
 
-Cael had spent a season counting where four hundred pairs of eyes went in a day. He felt this hall settle. It went down by something he could almost have measured, the way a crowded room settles when the last latecomer has found his seat. Shoulders came down along the tiers. A boy in front of him who had been sitting forward on the bench sat back.
+"Now," she said. "What follows from that? For you, nothing new. I have no instruction to give you that I haven't given every week this term. Go to your lectures. Sit your assessments on the days they fall. Fight your bouts when your names are posted. That's all." She let it settle. "If any of you is tempted to put on a show for our visitors, a cleaner floor, a quieter refectory, a better face, don't. They will see it. They're made to see it. A house pretending to be itself is the commonest thing an inspection finds, and the easiest. A performance is the one thing an inspection can truly see. Give them nothing to see but Halcenvane."
 
-"One thing more," said Withrow. "I'd sooner say it myself than have it said for me in a passage. This academy took a provision enrollment into its books with its eyes open. It took advice. It looked at the law, and it found the basis sound, and it still believes so. If the delegation finds against that basis, the finding will be against me. The consequence of it will be mine. I'll be standing here in front of you when it comes." She looked along the tiers, from one side of the hall to the other. "Nobody in this room is carrying my decision for me. Least of all a sixteen-year-old."
+Cael did not look at the tiers. He did not have to. Even with his eyes on the clock he felt the hall go down. Down along the benches shoulders came off ears and backs found the backs of benches, with a long low rustle like a field after the wind drops. A boy in front of him who had been perched on the edge of his seat for six minutes sat back with an audible breath.
 
-Then she walked out by the side door, as she had come in, without waiting for anything.
+"One thing more," said Withrow, "and I'd sooner it came from me than from a passage. I took a provision enrollment into this academy. I took advice before I did it, and I read the law myself, twice, and I think the basis is sound. I still think so. If the delegation rules otherwise, it's my ruling they're overturning, not anybody else's, and I'll stand at the front of this hall and tell you so with my own mouth." She looked once along the tiers, slowly, from one side to the other. "Nobody else here carries my decision. Least of all a sixteen-year-old."
 
-For a moment the hall did not move. Then it began to, all at once, in the ordinary way, with the scrape of benches and the rising noise of five hundred people deciding where to go next.
+She went out by the side door, the way she had come in.
 
-In the faculty rows Rooke stood up with the others and did not clap, because nobody was clapping, and did not frown. He did not look toward the back of the hall once. Cael watched him the whole way to the side door and understood that this not-looking was the kindest thing the man could do for him in front of five hundred people, and that Rooke knew it, and had decided it in advance.
+The clock over the east door had moved eleven minutes. For a moment the hall did not move at all. Then it did, all at once and in the ordinary way, with the scrape of benches and the rising noise of five hundred people deciding where to go next.
+
+In the faculty rows Rooke stood up with the others. He did not clap, because nobody was clapping, and he did not frown, and not once on his way to the side door did he turn his head toward the back of the hall. Cael watched him go the whole length of the aisle. He was fairly sure, by the end of it, that the not-turning had been decided in advance, as the kindest thing a narrow grey man could do for a boy in front of five hundred people.
 
 Lira had her arms folded and her weight on the good hip.
 
-"She said it to everybody," she said, low. "So nobody could say it to you."
+"She said it to everybody," said Lira, low. "So nobody can say it to you."
 
 "Yes."
 
-"I think I'd fight for her," said Lira, a little surprised at herself, and pushed off the wall.
+"I think I'd fight for her," said Lira, with faint surprise, as though she had found something unexpected in a pocket, and pushed herself off the wall.
 
 ---
 
-Ephram caught him on the lecture range stair on the way out, on the second landing, in front of about thirty people. That was how Ephram did everything.
+Ephram met him on the lecture range stair on the way out. He came up it, against the crowd that was going down, and stopped one step above Cael on the second landing, so that people had to go round them both on either side, and slowed, and listened. That was how Ephram did everything, and Cael had stopped holding it against him.
 
-He stood at the top of the Iron column, a Blade fighter, lean, with a kit bag over one shoulder, and he had a way of standing at the exact centre of whatever space he was in, as if he had measured it first. All season he had kept to what he said in the Crown yard in the first month, in front of half the bluff: that Greyvane had needed Cael to be real, that Halcenvane did not, and that he would wait for the semester evaluation before he made up his mind.
+He was the top of the Iron column, a lean Blade fighter with a kit bag over one shoulder. All season he had kept to what he had said in the Crown yard in the first month, aloud, with half the bluff hearing it: that Greyvane had needed the assay boy to be real, that Halcenvane did not, and that he would make up his mind at the semester evaluation and not one day sooner.
 
-"Cael," he said. People on the stair slowed down. "A word. It won't take long."
+"Cael," he said. "A minute. I'll be quick."
 
 "Go on."
 
-"In the first month I said I'd wait for your evaluation. I meant it, and I've kept to it, and I've had people try to make me take it back both ways all season." Ephram shifted the kit bag. "But when I said it, the evaluation was a panel of three in a gallery with nobody at the rail. Now there's going to be an Archmarshal at the rail. So the terms have changed. I want it said out loud, in front of people, that they've changed in your favour. Anybody looks good in an empty room."
+"In the first month I told this yard I'd hold my opinion till your evaluation. I've held it. People have tried to talk me out of it in both directions all season, and I've held it." He shifted the kit bag. "But I said it about a panel of three and an empty gallery. That's not what it is now. Now there'll be an Archmarshal in the gallery. So I'm altering my terms, here, out loud, where people can hear me do it, because that's where I made them. And the alteration's in your favour." He looked round at the stair, at the thirty or so faces slowing on it. "Anybody looks good in an empty room."
 
-Somebody on the stair above them laughed, and stopped.
+Somebody above them laughed, briefly, and stopped.
 
-"You're going to be watched by the highest-ranked person any of us will ever stand in a building with," said Ephram. "If you're what the transcript says, every one of us will know it on the twentieth, and nobody will be able to say afterward that it was done in the dark. If you're not, we'll know that too. And I'd rather know. Either way."
+"You'll be watched by the most senior person any of us is ever likely to stand under the same roof with," said Ephram. "If you are what that transcript says, all of us will see it, in daylight, with the best witness in the Compact sitting at the rail, and no one will ever be able to say it was arranged. If you're not, we'll see that instead. I'd sooner see. Whichever it is."
 
-He said it without warmth and without hostility, as a man reads out a rule he happens to agree with.
+There was no warmth in it and no malice. It was the voice of a fighter reading out a rule he happened to approve of.
 
 "So would I," said Cael.
 
-He meant it, and it showed, and Ephram looked briefly and visibly annoyed to have been agreed with in front of thirty people. He opened his mouth as though to add something, shut it again, gave a short nod, and went off down the stair with his kit bag.
+He meant it, and it showed, and Ephram looked briefly and visibly put out to have been agreed with in front of thirty people. He opened his mouth as though to add a condition, found he had none, gave a short nod, and went on up the stair with his kit bag, against the stream, to wherever he had been going in the first place.
 
-Brom watched him go.
+Brom watched him out of sight.
 
 "He changed his mind out loud," Brom said. "In public. On a stair."
 
 "He didn't change his mind. He changed his terms."
 
-"Same thing, for that one," said Brom. "I've watched him in the cohort hour all season. He's never once said a thing he couldn't stand behind in front of a crowd. It's the most annoying thing about him and I think it might be the best." He looked thoughtful. "I'm going to tell Rooke he did it. Rooke'll say *noted*."
+"Same thing, for him." Brom rubbed his jaw. "I've watched him in the cohort hour all season. He's never once said a thing he couldn't stand behind with a crowd looking at him. It's the most annoying thing about him. I think it might also be the best." He considered. "I'm going to tell Rooke. Rooke'll say *noted*."
 
-That night Cael opened the page headed *Ephram* and wrote under the last entry: *Revised his own terms in public, on the stair, and said the revision was in my favour. Owns his opinions like tools, and puts them down where people can see him do it.* Then, after a moment: *I'd like to be able to do that. I'm not there yet. I still revise mine in this notebook, where nobody can watch.*
+That night Cael opened the page headed *Ephram* and wrote under the last entry: *Altered his own terms in public, on the stair where he could be heard doing it, and said the alteration was in my favour. Owns his opinions like tools, and puts them down where people can see.*
+
+Then, after a moment, because it was true:
+
+*I'd like to be able to do that. I'm not there yet. I still alter mine in this notebook, where nobody has to watch me be wrong.*

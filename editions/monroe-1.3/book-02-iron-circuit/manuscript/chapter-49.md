@@ -1,6 +1,6 @@
 # Chapter 49 — Ansel's Round
 
-Ansel came to the arch on the eighth morning, before Lira, with the frost still white on the steps behind him and his coat buttoned to the throat, and stood there with his big quick hands in his pockets as if he had not yet decided whether he had arrived.
+Ansel came to the arch on the morning of the eighth day, before Lira, with the frost still white on the steps behind him and his coat buttoned to the throat, and stood there with his big quick hands in his pockets as if he had not yet decided whether he had arrived.
 
 Cael was alone, working the drop against the straw post with his eyes half shut. He felt the light change at the arch and turned, and saw who it was, and stood still.
 
@@ -40,7 +40,7 @@ They fought at the end of the side floor, under the east benches, an hour after 
 
 It was not a bout. Vell's table was empty and her books were locked away in the back room, and nobody would write a line about it anywhere. But word had gone round the alcoves the way word went round everything in the Ironyard. By the time Ansel took his coat off and folded it on the end of the bench, there were six of Keth's newcomers on the second bench, and the tall lad and the girl who kept her eyes open, and two stall-keepers who had come in for warmth. The dock partner stood at the west post with his arms folded on his chest. Lira had come down under the arch to find the alcove empty and followed the noise. She stood at the rope beside Brom with her staff upright against her shoulder, and did not say anything, and her face was very still.
 
-Ansel stood at the north mark in his shirt with his sleeves rolled, rolling his shoulders, slowly, one and then the other. He looked smaller with his coat off. He also looked like somebody Cael had not met before.
+Ansel stood at the north mark in his shirt with his sleeves rolled, rolling his shoulders, slowly, one and then the other. He looked smaller with his coat off, and like somebody Cael had not met before.
 
 "Begin when you like," said Brom, from the rope. Nobody else had any right to say it.
 
@@ -60,7 +60,7 @@ The second combination caught him. It was the straight, at the face, which he sl
 
 The third combination he felt coming before it came.
 
-He had planted his left foot at the end of a step, and arrived, and let the knock go out in the space before the next step began, the way he had been learning to do for six days with a man circling him. Ansel was a pace and a little more away. At that distance the knock had always been poor. But Ansel was coming forward, closing the pace as Cael knocked, and the answer came back clean through the closing: *there, coming, heavy on the right*. Cael went left before the right hand had started, and the hook went by in the air, and he was out on Ansel's side with the open ribs in front of him.
+He had planted his left foot at the end of a step, and arrived, and let the knock go out in the space before the next step began, the way he had been learning to do for six days with a man circling him. Ansel was a pace and a little more away, a distance at which the knock had always been poor. But Ansel was coming forward, closing the pace as Cael knocked, and the answer came back clean through the closing: *there, coming, heavy on the right*. Cael went left before the right hand had started, and the hook went by in the air, and he was out on Ansel's side with the open ribs in front of him.
 
 He did not hit them; he had thought about it all night, and decided, and he stood off.
 
@@ -72,7 +72,7 @@ In the second Ansel did what Cael had been waiting for him to do.
 
 He did not rush, but came out from his mark slowly, on his toes, and stood at a pace with his hands up and loose, and let Cael come to him. When Cael came, with a short straight at the shoulder to see what it would bring back, Ansel moved enough to let it miss and no more, and watched what Cael did. Cael tried a second thing, a feint at the ribs and a step to the left. Ansel moved again, exactly enough, and watched.
 
-Cael felt it then, in his stomach, and knew what it was. Ansel was doing what had been done to him. He was standing in front of Cael and reading him, the way he had been read in a hall up the river three years ago, letting Cael bring his things one by one so that he could look at each and put it away. He had been lying awake six nights, and he had spent them on this: on what it had been like to be on the wrong side of it, and on what it would be like to be on the right side, once, with somebody else.
+Cael felt it then, in his stomach, and knew what it was: Ansel was doing what had been done to him. He was standing in front of Cael and reading him, the way he had been read in a hall up the river three years ago, letting Cael bring his things one by one so that he could look at each and put it away. He had been lying awake six nights, and he had spent them on this: on what it had been like to be on the wrong side of it, and on what it would be like to be on the right side, once, with somebody else.
 
 And Cael understood that this was the thing he had to learn, the thing in the clerk's fourth page, and that Ansel had brought it to him on purpose.
 
@@ -80,7 +80,7 @@ So he stopped bringing things.
 
 He stood off at a pace and a half and moved. He went round on his short steps, left and right and back, with his hands up and his weight never settling, and he did not throw anything. He did not feint, or try the hip, or step in, or do any of the dozen things a year of watching had taught him to do to find out what a man was. He only stayed alive, and stayed out of reach, and gave Ansel nothing new to look at.
 
-It went on for a long time. It was the longest he had ever stood on a floor without trying to win.
+It went on for a long time, the longest he had ever stood on a floor without trying to win.
 
 It was terrible. Every heartbeat of it his body was telling him to go and find out. Twice he caught his own weight beginning to go forward of its own accord, toward a gap he had seen in Ansel's guard, and stopped it, and felt the stopping in his whole frame like a cart dragged up short. The benches did not understand it. He heard somebody on the second bench say *what's he doing*, and somebody else say *nothing*, and the first say *well that's no good*.
 
@@ -168,7 +168,7 @@ He wrote it before he iced the arm, sitting on the bench in the alcove with the 
 
 The defending stage began that afternoon, and the knock fell to pieces again, exactly as Brom had said it would.
 
-It was not Brom's slow burst that did it. It was the other things. Brom circled, and gathered, and sent the slow push the way he had all week, but now between the pushes he struck as well. They were plain blows from his big forearm, slow and heavy, at Cael's head and ribs and shoulder, and Cael had to meet them or get out of their way while he knocked. Every blow that came at him pulled the whole of his attention to it, for the length of the blow, and the knock in that moment went out thin or not at all. Twice he knocked at the very moment he was blocking, and the answer that came back was only his own arm.
+It was not Brom's slow burst that did it but the other things. Brom circled, and gathered, and sent the slow push the way he had all week, but now between the pushes he struck as well. They were plain blows from his big forearm, slow and heavy, at Cael's head and ribs and shoulder, and Cael had to meet them or get out of their way while he knocked. Every blow that came at him pulled the whole of his attention to it, for the length of the blow, and the knock in that moment went out thin or not at all. Twice he knocked at the very moment he was blocking, and the answer that came back was only his own arm.
 
 Ten in twenty.
 
@@ -184,7 +184,7 @@ Cael sat with the band stacking behind his eyes and the forearm Ansel had hooked
 
 ---
 
-Lira came under the arch on the ninth morning and did not begin at once.
+Lira came under the arch on the morning of the ninth day and did not begin at once.
 
 She stood just inside the alcove with the staff in her hand and looked at him, and he waited, because he had learned that look and it meant she was going to say something she had decided on the way down the hill.
 
@@ -206,7 +206,7 @@ He stood very still.
 
 He was not ready, and she came anyway, from the right with nothing before it, and he dropped and rolled and was gone under the staff before he had decided to.
 
-He knocked on the next one. He planted his left foot at the end of a short step and let the knock go out toward her as she began. It came back cleaner than anything Brom had ever given him: *there, coming, all of her, left*. It was quick and small and alive, like a bird going off a sill.
+He knocked on the next one. He planted his left foot at the end of a short step and let the knock go out toward her as she began. It came back cleaner than anything Brom had ever given him, *there, coming, all of her, left*, quick and small and alive, like a bird going off a sill.
 
 "Left," he said, and was already gone right.
 

@@ -20,7 +20,7 @@ By the twentieth time she had hit him eleven times, and he had stopped counting.
 
 "Anywhere. Round. Off the line. It doesn't matter at first." She was quiet a moment, and then said it more slowly, looking at her own hands on the staff. "Maud taught me that, with the backs of these. I stood still to catch her, every time, and every time she was waiting in the middle of my standing. When I met her moving there was no middle to wait in." She looked up at him. "It's the same thing. A man who fires with nothing before it has to fire at where you are. If where you are keeps changing, he has to choose. Make him choose."
 
-So he moved. He stood in front of her the way he had never stood in front of anybody, not still, not watching from a fixed place, but going round on short steps, left and right and back, with his weight never set long enough to be a target. It felt like trying to stand up in a rowing boat. His eyes, which were used to settling on one place before he did anything, had nowhere to settle. She hit him less, but not much less, and twice when he went right she was there before him, because his right foot was still a beat slow and she knew it.
+So he moved. He stood in front of her the way he had never stood in front of anybody, not still, not watching from a fixed place, but going round on short steps, left and right and back, with his weight never set long enough to be a target. It felt like trying to stand up in a rowing boat, and his eyes, which were used to settling on one place before he did anything, had nowhere to settle. She hit him less, but not much less, and twice when he went right she was there before him, because his right foot was still a beat slow and she knew it.
 
 "Right foot," she said, the second time. "That's tomorrow."
 
@@ -50,7 +50,7 @@ He saw the second knuckle of the left. He saw her close it hard and her mouth go
 
 "It's talking. I told you it talks." She put the staff against the wall. "It'll talk for a week whether I use it or not, and I'd rather it talked doing something." She looked at him, and saw him looking, and something in her face went short. "Don't. I'm not made of glass because I lost to a Bronze. Same time tonight, after supper. Eat first."
 
-She went out under the arch. He sat on the bench and watched the place where she had been, and found that he had been holding the knock shut all hour without once thinking about it, the way he had held it shut through the whole of her bout with Maud. She had not given him leave, and he had not asked.
+She went out under the arch. He sat on the bench and watched the place where she had been, and found that he had been holding the knock shut all hour, the close read he could have sent into her from a forearm away, without once thinking about it, the way he had held it shut through the whole of her bout with Maud. She had not given him leave, and he had not asked.
 
 He sat on a while longer with his ribs and forearms singing and thought about what she had said, *be moving when it comes*, and about Maud standing in the middle of her own footprints while Lira went round and round her. It was strange to be taught a thing by somebody who had only learned it a fortnight ago, on the wrong end of it, with the backs of her hands. It was stranger still to see that she was giving it to him before she had properly finished learning it herself, while it still hurt. He did not know whether that was generous or only Lira, and he suspected that with her there was not much difference.
 
@@ -100,7 +100,7 @@ It was quiet work, and it was slow, and nobody watching from the arch would have
 
 He kept the tally on the back of his hand in charcoal, as he had in the autumn, a stroke for every knock and a ring round the ones that answered.
 
-It was not like looking, and it never had been, which was why it was so hard to teach. Looking went out from him along a line, and came back with whatever was at the end of the line. The knock did not go anywhere. It was more like rapping once on a door he was already standing against and feeling, through his own knuckles and his own skin, which way the house on the other side was leaning. When it answered clean, the answer arrived all at once and without words, and he had to put the words to it afterward: *there; heavy; going forward*. When it smeared, there were no words to put. And every knock, answered or not, cost him a little behind the eyes, a thin stripe of ache that came a moment after and did not quite leave before the next.
+It was not like looking, and it never had been, which was why it was so hard to teach. Looking went out from him along a line, and came back with whatever was at the end of the line. The knock did not go anywhere; it was more like rapping once on a door he was already standing against and feeling, through his own knuckles and his own skin, which way the house on the other side was leaning. When it answered clean, the answer arrived all at once and without words, and he had to put the words to it afterward: *there; heavy; going forward*; when it smeared, there were no words to put. And every knock, answered or not, cost him a little behind the eyes, a thin stripe of ache that came a moment after and did not quite leave before the next.
 
 "Don't reach," said Brom, at the ninth. "You leaned. I felt you lean. It went to smear because you went after it."
 
@@ -201,7 +201,7 @@ He wrote the twelve in twenty first, because it was a number and numbers were ea
 
 *Survive first. Think second.*
 
-He had always thought first; that was the method. He sat on a bench and thought for four months, and then stood up and survived on what he had thought. But against a man he could not watch, the bench would have to happen on the floor, under the man's hands, and the only way to get the time to think at all was to be alive and standing at the end of each exchange. Survival was not the opposite of the method. It was what would buy the method its time.
+He had always thought first and survived afterward on what he had thought. Against this man the thinking would have to happen on the floor, and the only thing that could buy it any time at all was being alive and standing at the end of each exchange; survival was not the opposite of the method, but its purse.
 
 Lira knocked on his door frame on her way to bed, still in her shirt with her staff over her shoulder, and he showed her the line.
 

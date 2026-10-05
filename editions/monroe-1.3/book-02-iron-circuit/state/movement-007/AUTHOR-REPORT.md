@@ -390,3 +390,135 @@ Per chapter (mean / ≥40 / words per scene):
 6. **"declined to be interesting"** is used as the clerk's phrase, and Lira links it to Maud. That gives M8 a planted patience option without pre-empting the bout's actual tactics.
 7. **Mean 13.19** is in range but low. If the review wants more margin, 46, 47 and 50 are the candidates for a narration-weight repair; their dialogue was kept as spoken.
 8. **Bede and Maud** are used as they stand (owner decision #3 pending).
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, done by reading. Every change was composed by hand and applied as an exact-string replacement of that one passage; no rule-based splitting or joining. Only ch44–51 and this report were edited, and no git commands were run. The coordinator's rulings on the M7 flags are taken as given (courier link accepted, with the growing story still reaching Reydan first, as ch44 already has it).
+
+### 1. Countdown: weekday-by-weekday table
+
+The manuscript counts the fortnight's **days** from Dace's Wednesday visit (Wednesday = day 1, so the bout is day 14, "Tuesday fortnight"). It counted **Lira's mornings** from her first drill on Thursday ("her first morning" = Thursday). That is why the editorial and cold reviews disagreed. The numbered days in ch48–51 were already correct on the day-1 = Wednesday count. Only ch47's "second / third / fourth morning" and ch48's "sixth / seventh morning" mixed in the Lira count. The fix tags each ordinal with its count or weekday. No scene was moved.
+
+| Day | Weekday | Lira's morning | Brom session | Redirects (cumulative) | On the page |
+|---|---|---|---|---|---|
+| 0 | Tue | — | — | — | Reydan at the door; Dace "two weeks… main floor" (ch44) |
+| 1 | Wed | — | — | — | Dace at the alcove arch; dock-partner hesitation; market; supper and Lira's grid; Cael's *Thirteen days.* (ch45) |
+| 2 | Thu | 1 | S1 rest 12/20 | — | no warning beat; Ansel at the cookshop (ch46) |
+| 3 | Fri | 2 ("her second morning, the Friday") | S2 rest 14/20 | 3 | the drop and roll begins; the lamp goes dark; "when, not where"; the redirect is found (ch47) |
+| 4 | Sat | 3 | S3 rest 16/20 | 3 (rest) | Vell "on the Saturday afternoon" (ch47) |
+| 5 | Sun | 4 | S4 moving 9/20 | 6 | "Six redirects done, six to go" (ch47) |
+| 6 | Mon | 5 | S5 moving 13/20 | 6 (rest) | "the sixth day, the Monday": the betting split, the clerk's account (ch48) |
+| 7 | Tue | 6 (and her sixth evening) | S6 moving 16/20 | 9 | "the seventh day"; the drop goes into his legs that evening (ch48) |
+| 8 | Wed | — (Ansel) | S7 defending 10/20 | 9 | "the morning of the eighth day": Ansel's round; "Six days" (ch49) |
+| 9 | Thu | 7 (leave given) | S8 defending 15/20 | 9 | "the morning of the ninth day"; "Tomorrow's the ninth session" (ch49) |
+| 10 | Fri | 8 | **S9** (ten of twelve, then the thirteenth) | 9 | "the morning of the tenth day, the Friday"; session nine; "Four days" (ch50) |
+| 11 | Sat | 9 (full plus half) | S10 tired 12/20 | 12 | "the eleventh day, the Saturday"; "The shoulder's done till Tuesday" (ch51) |
+| 12 | Sun (chapel day) | 10 (halved) | S11 tired 16/20 | 12 | the tally; Brom: "tomorrow I'll not be in here" (no session on Monday) (ch51) |
+| 13 | Mon | 11 (halved) | — | 12 | "the thirteenth day, the Monday"; Dace: "So tomorrow, at that door"; the night before (ch51) |
+| 14 | Tue | — | — | — | the bout (Movement 8) |
+
+Checks against the table:
+- the shoulder's rest days are Saturday, Monday, and Wednesday to Friday;
+- "Six days" on the Wednesday and "Four days" on the Friday night both land on the Tuesday;
+- "her sixth evening" (the inventory) is Tuesday, Thursday to Tuesday being six evenings;
+- Lira's "That's Friday" at supper and "Right foot… That's tomorrow" on the Thursday both point to Friday;
+- the closing "thirteen days since Dace's shadow" runs Wednesday to Monday inclusive.
+
+Ordinal lines changed:
+- ch45: Lira's "That's the second morning" became "That's Friday", and the Log's "*Second morning.*" became "*Friday.*"
+- ch47: "the second morning" became "her second morning, the Friday", "third / fourth morning" became "her third / her fourth", and "the third afternoon" became "the Saturday afternoon".
+- ch48: "the sixth morning / sixth afternoon" became "the sixth day, the Monday / That afternoon", and "the seventh morning … seventh afternoon" became "the seventh day … in the morning … in the afternoon".
+- ch49: "the eighth / ninth morning" became "the morning of the eighth / ninth day".
+- ch50: "the tenth morning" became "the morning of the tenth day, the Friday".
+- ch51: "the eleventh day" became "the eleventh day, the Saturday", "the thirteenth day" became "the thirteenth day, the Monday", "since the sixth evening" became "since her sixth evening", and "the first morning, which had been four lines" became "the first night" (the Wednesday page).
+
+### 1b. Line defects
+- ch51: the closing quotation mark after Dace's "…and I'm counting you." is added.
+- ch51: "two* ands*" now reads "two *ands*".
+- Scan of all eight chapters (odd counts of `"` or `*` per paragraph, and `word* word*` patterns): no other defects.
+
+### 2. Say it once
+- **ch45, Cael's notebook:**
+  - the names now carry brief appositives (Feryn, "the Bronze from his first year whose Pressure he carried now"; Darrow Innes, "the win in the Cinder House yard"; Keth, "the Blade whose seam had won him his rating");
+  - Talis is dropped;
+  - the rank's limit is one sentence, and the paid-yard "every gap closed" idea is left to Brom, who brings his own Velmere yard;
+  - the method problem is stated once.
+- **ch45, supper:** Cael's answer to Lira is cut to what is new ("I won't have it till I'm standing in front of him… his tempo, not mine").
+- **ch46:** Cael's after-Ansel reflection is compressed to its new point (survival is the method's purse). Ansel's account keeps his memory and cost.
+- **ch47:**
+  - Brom's "seven in ten… the stillness buying it" restatement of 14/20 is cut;
+  - Brom's "three things changed" gloss on 9/20 is cut;
+  - the end-of-day paragraph that re-explained ch46's discovery is reduced to one sentence;
+  - the bruise passage's duplicated forearm and rib sentences are cut.
+- **ch48:**
+  - the clerk's report is reduced to one paragraph of what is new in it (the start seen twice in two seasons, "stays gathered", four rematches as different fighters, the conclusion), framed as "most of it they already knew";
+  - Lira's restating summary is cut to her new line ("You bring a whole book… more to put away");
+  - "declined to be interesting" and the Maud link are untouched;
+  - the restatements after 13/20 and 16/20 are compressed. All tallies are kept.
+- **ch44 and ch46, orientation:**
+  - Maud, at first recurrence, is "Lira's bout with Maud" with "waiting each time in the middle of Lira's catch";
+  - Bede is "the night Bede beat him";
+  - *Habit* and *Shape* get one clause each;
+  - "the middle" is glossed in Lira's line;
+  - the dock partner, at his first M7 appearance (ch45), is "the broken-nosed Bronze washout Lira paid a mark an hour";
+  - the knock, at its first M7 mention (ch46), is "the close read he could have sent into her from a forearm away".
+  - No glossary paragraph was added.
+- **ch51, the inventory:** compressed to Wind (three an exchange, the counted lock, hip only when he knows, else the feet), the knock (on the pulling in only), Pressure (three redirects with their exact cost; the giving face) and the gaze (no ration). The tally reflection above it is cut to one sentence. Kept unchanged: the body audit, the count, the anomaly exclusion and the *Note* line, the plan page, the exact plan line, and the final quiet with fear.
+
+### 3. Sentence weight
+About sixty hand joins of adjacent narration that is one thought, in ch45, 46, 47, 48, 49 and 50. Examples:
+- "He did not know; he had thought for a year…"
+- "Lira laughed, the short laugh she almost never let out…"
+- "It was not the knock, or the turned shoulder of the redirect…"
+- "It would not be there on Tuesday; Brom was right, and he would not walk out there hoping for it."
+
+Log fragments were restyled in Cael's voice (*EAT, L SAYS*; *Six redirects done, six to go*). Dialogue, landing beats ("Ten in twelve…", "Not anywhere.", "He was thinking about winning it.") and protected wording were not touched.
+
+Paragraph splits: ch47's bruise paragraph (at "He did not mention any of it") and ch47's drop paragraph (at "He had felt like this once before"). Five other trial splits were reverted, because they raised the paragraph median from 29 to 30.
+
+### Before and after
+
+| Measure | Working range | Pre-repair | Post-repair |
+|---|---|---|---|
+| Words (`wc`) | 36,500–38,500 | 37,950 | **36,928** |
+| Words (metrics) | — | 37,868 | 36,841 |
+| Sentence mean | 13–15.5 (aim ≥13.5) | 13.19 | **13.57** |
+| Sentence median | — | 9 | 9 |
+| ≥40-word share | ≤4.5% | 3.5% | **3.8%** |
+| Words per scene | 850–1,050 | 946.7 | **921.0** |
+| ≤5-word share | ≤~34% | 30.3% | 30.6% |
+| Paragraph median | not raised | 29 | **29** |
+| Paragraph mean | — | 44.9 | 44.1 |
+| FK grade | 3.5–6 | 3.79 | 3.94 |
+| SD | — | 11.2 | 11.56 |
+
+Per chapter after the repair:
+
+| Ch | Words | Mean | ≥40 | Words per scene |
+|---|---|---|---|---|
+| 44 | 4,519 | 15.88 | 5.6% | 902 |
+| 45 | 4,395 | 13.20 | 3.0% | 877 |
+| 46 | 4,786 | 12.09 | 3.5% | 955 |
+| 47 | 4,044 | 12.65 | 3.1% | 1,009 |
+| 48 | 3,687 | 13.66 | 5.2% | 919 |
+| 49 | 4,559 | 13.22 | 3.8% | 910 |
+| 50 | 5,072 | 13.29 | 2.9% | 1,012 |
+| 51 | 5,866 | 14.97 | 4.1% | 836 |
+
+ch46 and ch47 stay under 13 on their own. Both are mostly three-way dialogue (Lira's drills, Brom's sessions, Ansel's account), which was kept as spoken. The movement figure is the working-range measure.
+
+### Checks after the repair
+- `ed.sh overlap book-02-iron-circuit 7`: **0 unprotected**, 5 protected.
+- `ed.sh gates book-02-iron-circuit 7`: **0** on all eight chapters.
+- `sweep_probe.sh book-02-iron-circuit 7 7`: **1% skeleton, 6% close**. Per chapter: 1/7, 1/8, 0/4, 1/5, 2/7, 0/6, 0/6, 1/6.
+- `formula_metrics.py` on chapters 44–51: as tabled above.
+
+### Changelist by chapter
+- **44:** Maud and Bede appositives at first recurrence; *Habit* and *Shape* glossed in a clause each; "the middle" glossed in Lira's line; two narration joins.
+- **45:** notebook scene compressed, with appositives and Talis dropped; Cael's supper answer cut to the new point; "That's Friday" and the *Friday* Log line; dock-partner appositive; the dusk walk unchanged; about eight narration joins.
+- **46:** after-Ansel reflection compressed; knock appositive; three joins.
+- **47:** ordinals tagged ("her second morning, the Friday"; "her third / her fourth"; "the Saturday afternoon"); two tally restatements and the end-of-day re-explanation cut; the duplicated bruise sentences cut; two paragraph splits; about twelve joins; Log restyles.
+- **48:** "the sixth day, the Monday" and "the seventh day"; the clerk's report compressed to its new evidence; Lira's summary cut to one line; tally restatements compressed; about twelve joins.
+- **49:** "the morning of the eighth / ninth day"; about six joins.
+- **50:** "the morning of the tenth day, the Friday"; about eighteen joins.
+- **51:** Dace's closing quote; "two *ands*"; "the eleventh day, the Saturday" and "the thirteenth day, the Monday"; "her sixth evening"; "the first night"; inventory and tally reflection compressed.

@@ -1,6 +1,6 @@
 # Chapter 47 — It Compresses Inward
 
-On the second morning Lira gave him his right foot, as she had promised at the kitchen table, and he did not like it, as she had promised too.
+On her second morning, the Friday, Lira gave him his right foot, as she had promised at the kitchen table, and he did not like it, as she had promised too.
 
 She began by making him stand on a chalk cross in the middle of the alcove floor with his weight even. Then she came at him from his left with nothing before it, and from his front, and from his right. Every time she came from the right she watched his feet and not his face, and every time she said the same thing in the same flat voice: "Late."
 
@@ -8,7 +8,7 @@ She began by making him stand on a chalk cross in the middle of the alcove floor
 
 "Then why is it late?"
 
-He did not know. He had thought for a year that his right foot was slow because he was made that way, the way the hip went left because the Wind had been made in him that way. But Lira had taken that from him at the kitchen table, and he had nothing to put in its place.
+He did not know; he had thought for a year that his right foot was slow because he was made that way, the way the hip went left because the Wind had been made in him that way. But Lira had taken that from him at the kitchen table, and he had nothing to put in its place.
 
 "Because you step with it," she said, after the tenth. "You pick it up and put it down somewhere else, like a man crossing a stream on stones. Your left doesn't do that. Your left never steps; the hip takes it. You've been going left on the Wind so long that you've forgotten how a body goes anywhere without one." She came round behind him and put the end of her staff against the back of his left knee, lightly. "When it comes from the right, don't step. Drop."
 
@@ -16,11 +16,13 @@ He did not know. He had thought for a year that his right foot was slow because 
 
 "Into this knee. All of you, at once, as if somebody had cut a string." She pressed the staff a little. "And as you go down, roll the weight across. Off the left and onto the right, like a barrel rolled off a cart. Your right foot doesn't have to go anywhere. It's already there. You just arrive on it, lower than you were, and a body's width to the right." She stood back. "Low and right, all in one piece. A man who fires at where your head was finds your head has gone down and over. Show me."
 
-He showed her, and it was terrible. He dropped and forgot to roll, and sat down on the stone. He rolled and forgot to drop, and went sideways at the height of a man standing up, a perfect target, and she tapped him on the ear with the staff to show him how perfect. He dropped and rolled both at once and arrived on his right foot so low and so far over that he could not get up again in time for anything, and she stood over him and waited, and said nothing, which was worse than anything she could have said.
+He showed her, and it was terrible: he dropped and forgot to roll, and sat down on the stone. He rolled and forgot to drop, and went sideways at the height of a man standing up, a perfect target, and she tapped him on the ear with the staff to show him how perfect. He dropped and rolled both at once and arrived on his right foot so low and so far over that he could not get up again in time for anything, and she stood over him and waited, and said nothing, which was worse than anything she could have said.
 
 By the end of the hour he had done it perhaps sixty times, and perhaps four of them had looked like the thing she meant.
 
-What made it hard was not the knee, though the knee would have its say later, and not the roll. It was that his body had never in its life been asked to do this and did not believe it could. Going left, it had a year of the hip behind it, a year of a borrowed thing that knew the way already, so that his own legs had only ever had to follow where the Wind took them. Going right, there was nothing to follow. Every part of the drop had to be put together from the beginning by a body that was already sure it was bad at it, and every time it began, some old part of him would try to call the hip instead, and find the hip would only go left, and stall. He had felt like this once before, in Lira's angle-denial footwork a season ago, standing in the alcove with his feet in the wrong places while she counted. He had forgotten how much he had hated it, and how much it had given him.
+What made it hard was not the knee, though the knee would have its say later, and not the roll. It was that his body had never in its life been asked to do this and did not believe it could. Going left, it had a year of the hip behind it, a year of a borrowed thing that knew the way already, so that his own legs had only ever had to follow where the Wind took them. Going right, there was nothing to follow. Every part of the drop had to be put together from the beginning by a body that was already sure it was bad at it, and every time it began, some old part of him would try to call the hip instead, and find the hip would only go left, and stall.
+
+He had felt like this once before, in Lira's angle-denial footwork a season ago, standing in the alcove with his feet in the wrong places while she counted. He had forgotten how much he had hated it, and how much it had given him.
 
 "That's four," said Lira. She was breathing hard too; she had been coming at him from the right the whole hour, and her left knuckle was talking, he could see it in her mouth. "Four in an hour. It'll be four hundred before it's yours, and it isn't yours till you do it without asking. Tonight, after supper, again."
 
@@ -44,7 +46,7 @@ What Brom had to show him was a thing Brom could not quite do, and said so befor
 
 "You know how I harden." Brom raised his right forearm across his body, the way he did against the post. "A low breath, held, while it comes. Then the hold, when it lands. Then I send, if I mean to. Most of the time you only see the send. You've felt the rest from the inside, with your knuckles." He lowered the arm again. "Ansel said there's nothing coming up through this man to watch. I believe him. But I've been lying awake on it, and there has to be something, because that's how a burst works. You can't throw a thing out of you that you haven't first got together. It's only that he does the getting-together so fast and so small that nobody sees it from outside."
 
-He set his feet and breathed in, low, and Cael watched his whole frame tighten, not outward the way a man braces but inward, everything drawing toward the middle of him, as if he were trying to make himself smaller and heavier at the same time. It lasted perhaps half a beat. Then Brom let it go, all at once, forward, in a short flat push of both hands that stopped a hand's width from Cael's chest and moved the air against his shirt.
+He set his feet and breathed in, low, and Cael watched his whole frame tighten, not outward the way a man braces but inward, everything drawing toward the middle of him, as if he were trying to make himself smaller and heavier at the same time. It lasted perhaps half a beat, and then Brom let it go, all at once, forward, in a short flat push of both hands that stopped a hand's width from Cael's chest and moved the air against his shirt.
 
 "It compresses inward before it fires outward."
 
@@ -58,13 +60,13 @@ Cael understood him before he had finished. "The knock."
 
 "You may."
 
-So the second session was that: Brom standing a forearm off, gathering and sending, slowly at first and then less slowly, and Cael knocking at the moment he thought the gathering began, and saying what came back before the push arrived. *Inward*, *nothing*, *inward*, *smear*, *nothing*, *inward*, on and on. The inward answer was like nothing the knock had brought back before. It was not *there*, and it was not *going forward*. It was a kind of drawing tight, as though the whole man had become a fist in the making, and it came and went so fast at the edges that he could not have said whether he felt it begin or only felt it already begun. Twice he knocked too late and got the push instead, the weight going outward, already spent. Once he knocked too early and got only Brom, large and still and thinking about nothing, and had to say *nothing* while the gathering began a heartbeat after under his hand.
+So the second session was that: Brom standing a forearm off, gathering and sending, slowly at first and then less slowly, and Cael knocking at the moment he thought the gathering began, and saying what came back before the push arrived. *Inward*, *nothing*, *inward*, *smear*, *nothing*, *inward*, on and on. The inward answer was like nothing the knock had brought back before, neither *there* nor *going forward*. It was a kind of drawing tight, as though the whole man had become a fist in the making, and it came and went so fast at the edges that he could not have said whether he felt it begin or only felt it already begun. Twice he knocked too late and got the push instead, the weight going outward, already spent. Once he knocked too early and got only Brom, large and still and thinking about nothing, and had to say *nothing* while the gathering began a heartbeat after under his hand.
 
 At twenty he held his hand to the light.
 
 "Fourteen," he said.
 
-"Better than yesterday." Brom shook his arms out. "Seven in ten, standing still, against a gathering you've never felt before. That's the stillness buying it still. We'll see what it does when I'm not standing like a gatepost."
+"Better than yesterday." Brom shook his arms out. "We'll see what it does when I'm not standing like a gatepost."
 
 Cael sat down on the bench with the band coming up and looked at the back of his hand for a long time. Something was bothering him, and it took him a while to find where it was.
 
@@ -96,7 +98,7 @@ Brom thought about it with his big face still.
 
 "Then what?"
 
-Brom did not answer at once. He went and stood by the straw post, and put his hand on it, and swung it a little on its rope.
+Brom did not answer at once, but went and stood by the straw post, and put his hand on it, and swung it a little on its rope.
 
 "You know how I found my redirect," he said. "In the boat shed, by accident. I hardened at the exact moment, at the exact place, and the man went back along a line he'd never sent his fist on. A hardness laid down at the right instant doesn't only stop a thing; it turns it." He let the post go. "You can't do that. You've no wall. There's nothing in you hard enough to turn a burst back on him. But you've got the other thing, the soft one, the taking. And I think you've been using it wrong."
 
@@ -112,7 +114,7 @@ Cael stood very still in the middle of the alcove.
 
 They found out.
 
-Brom came at him with the slow burst, the gathering and the push, but heavier now, with his weight behind it, and Cael planted and turned his left shoulder to it and let it in. The first time he gathered from habit, and the push sat him down on the stone as it always had, with his shoulder full of sand. The second time he did not gather. He took it on the turned shoulder and let it go, through, down through his ribs and his hip, and out through his back foot into the floor at a slant. For the length of a breath he felt the whole weight of Brom's push run through him like water through a pipe. Then it was gone past him, and it had turned him, and he was half a step closer to Brom than he had been, without having stepped.
+Brom came at him with the slow burst, the gathering and the push, but heavier now, with his weight behind it, and Cael planted and turned his left shoulder to it and let it in. The first time he gathered from habit, and the push sat him down on the stone as it always had, with his shoulder full of sand. The second time he did not gather, but took it on the turned shoulder and let it go, through, down through his ribs and his hip, and out through his back foot into the floor at a slant. For the length of a breath he felt the whole weight of Brom's push run through him like water through a pipe. Then it was gone past him, and it had turned him, and he was half a step closer to Brom than he had been, without having stepped.
 
 He stood there with his mouth open.
 
@@ -128,7 +130,7 @@ It was not like the Wind's price, which came as a thin bright line in one place,
 
 "I'll tell you after the third."
 
-He did the third. It worked again, a little less cleanly, the push going through him at a slightly wrong angle that he felt in the hip. After it he stood bent over with his hands on his knees for a long time, breathing, while the place behind his breastbone told him things.
+He did the third, and it worked again, a little less cleanly, the push going through him at a slightly wrong angle that he felt in the hip. After it he stood bent over with his hands on his knees for a long time, breathing, while the place behind his breastbone told him things.
 
 "Again," said Brom, but quietly, to see what he would say.
 
@@ -158,15 +160,17 @@ Brom read it over his shoulder in the kitchen, chewing.
 
 ---
 
-On the third morning Lira gave him the right again, and the drop, and the roll. He did it a hundred times and perhaps fifteen of them were the thing she meant. On the fourth morning it was twenty-five in a hundred, and his left knee, which took all the dropping, had begun to have opinions on the stairs.
+On her third morning Lira gave him the right again, and the drop, and the roll. He did it a hundred times and perhaps fifteen of them were the thing she meant. On her fourth it was twenty-five in a hundred, and his left knee, which took all the dropping, had begun to have opinions on the stairs.
 
 The bruises came up in layers, and he began to read them the way he read a page, because he could not help it.
 
-They were a record, if he looked at them properly, and a better one than the Log. The fresh ones on the outside of the right forearm were the drop coming late, every one of them a moment when his knee had hitched and Lira's staff had arrived first. The yellowing ones on the left ribs were the first morning, before he had learned to move at all. There were fewer new ones each day, and they were higher on the arm, which meant the drop was arriving sooner and the staff was finding only the last of him on the way down. He could have charted the whole fortnight from them, if anybody had asked, and he was glad nobody did. His forearms, which took her staff whenever the drop came late, went blue on the outsides and then green under the blue. His left ribs, where she had laid the first blow of the first morning, were joined by his right, where she found him every time he rolled too high. He did not mention any of it, and neither did she. Every morning she looked at him once as he came under the arch, a quick look up and down, the way a farrier looks at a horse led into the yard, and then came at him with nothing before it.
+They were a record, if he looked at them properly, and a better one than the Log. The fresh ones on the outside of the right forearm were the drop coming late, every one of them a moment when his knee had hitched and Lira's staff had arrived first. The yellowing ones on the left ribs were the first morning, before he had learned to move at all. There were fewer new ones each day, and they were higher on the arm, which meant the drop was arriving sooner and the staff was finding only the last of him on the way down. He could have charted the whole fortnight from them, if anybody had asked, and he was glad nobody did.
 
-The heavyset man's wife began leaving a covered bowl on the range for him at night, without being asked and without saying so. He found it there after the evening hour with Lira, still warm, with a plate over it. On the second night the sister had written on the plate in chalk, *EAT. L. SAYS.*, and drawn a hen.
+He did not mention any of it, and neither did she. Every morning she looked at him once as he came under the arch, a quick look up and down, the way a farrier looks at a horse led into the yard, and then came at him with nothing before it.
 
-Vell stopped him on the third afternoon, as he came up from the alcove past her table with the band behind his eyes and Brom a step behind. She did not look up from the book. She only lifted her pen a finger's width off the page, which was how Vell said a person's name across a room, and waited until he had stopped.
+The heavyset man's wife began leaving a covered bowl on the range for him at night, without being asked and without saying so. He found it there after the evening hour with Lira, still warm, with a plate over it. On the second night the sister had written on the plate in chalk, *EAT, L SAYS*, and drawn a hen.
+
+Vell stopped him on the Saturday afternoon, as he came up from the alcove past her table with the band behind his eyes and Brom a step behind. She did not look up from the book, but only lifted her pen a finger's width off the page, which was how Vell said a person's name across a room, and waited until he had stopped.
 
 "Dace tells me you've a clear card," she said.
 
@@ -198,16 +202,14 @@ He stood in the middle of the alcove after the twentieth with the band stacking 
 
 "It's gone back past where it started," he said.
 
-"It's gone back to where it is when you move." Brom was not even breathing hard. "It was always there. You only hadn't asked it. Now you know." He sat on the bench. "Three things changed. You're moving. I'm moving. And the distance between us keeps changing by a little. Any one of them would cost you. You've had all three at once." He thought. "Plant harder. Don't knock on the way to planting; knock when you've arrived. Half your knocks went out with your foot still coming down."
+"It's gone back to where it is when you move." Brom was not even breathing hard. He sat on the bench and thought. "Plant harder. Don't knock on the way to planting; knock when you've arrived. Half your knocks went out with your foot still coming down."
 
 "I didn't feel them go early."
 
 "I did. You're very loud." Brom stood again. "Tomorrow."
 
-That evening, after Lira's hour, he did the redirect three more times against Brom's slow burst, in the lamplight, with the shoulder still remembering the first three. Then he sat on the bench with his eyes shut and the place behind his breastbone aching, and thought about the number on his hand.
-
-He had believed, for the whole of the autumn, that the knock was a thing that answered about half the time, the way a well gives so many buckets a day. He had believed it because it was true. But it had been true only in the places he had happened to use it, under the conditions he had happened to be in, and he had never once made the conditions change on purpose to see where it broke. Brom had made them change, one at a time, and it had broken exactly where he said it would. And now he could see the break, he could work there. It was the same thing he did to everybody else, and he had never thought to do it to himself.
+That evening, after Lira's hour, he did the redirect three more times against Brom's slow burst, in the lamplight, with the shoulder still remembering the first three. Then he sat on the bench with his eyes shut and the place behind his breastbone aching, and thought about the number on his hand, and saw that Brom was doing to the knock exactly what Cael did to everybody else on a bench: changing one condition at a time to see where it broke. He had never once thought to do it to himself.
 
 *Nine in twenty, moving,* he wrote that night. *Of the eleven that didn't answer, six went out with my foot still coming down. The read isn't bad in motion. My knocking is. Plant, arrive, then ask.*
 
-Under it, smaller, he wrote: *Six redirects done. Six to go.*
+Under it, smaller, he wrote: *Six redirects done, six to go.*

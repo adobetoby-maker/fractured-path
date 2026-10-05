@@ -30,7 +30,7 @@ The sweeper's broom went by the arch and on. Cael found that he was standing ver
 
 "It might. It went because I sent it." Dace let that stand; he did not seem to want it taken off him. "He said to tell you something. I'll give it you the way he said it, near enough. He said he's not here to embarrass you, or anybody. He came because yours was the first story in three years worth the road. And then he said, *I'd like it to stay that kind of fight.*"
 
-Cael turned that over. It was an odd thing to send ahead of you. It was not a threat, and it was not quite manners.
+Cael turned that over. It was an odd thing to send ahead of you, not a threat, and not quite manners.
 
 "What did you say?"
 
@@ -56,23 +56,17 @@ His shadow went off the floor, and the broom came back along the main room, and 
 
 He did not go back to the steps at once. He sat down on the bench against the back wall instead and opened the observation notebook on his knee, at the front, where the first volume's names had been copied over in his smallest hand. He read down them the way another person might have counted coins.
 
-Feryn, Bronze, rank two, a Pressure of the long kind, who had built his weight so slowly you could watch it come. Darrow Innes, Bronze, rank one, the win that had put his name in Vell's book. Sarel, Bronze, rank one, the worst loss he had ever had, underlined twice. Talis, Copper, rank four, and his ground that shook. He had stood across a floor from every one of them. Iron rank eight sat under all of the Bronzes, on paper. It was a step below the line where the guilds began to write *Bronze*, and if he had been a clerk with a ledger he would have said that this man was less than Feryn, and less than Sarel, and that Cael had beaten worse.
+Feryn, the Bronze from his first year whose Pressure he carried now, a rank two of the long kind who built his weight so slowly you could watch it come. Darrow Innes, Bronze, rank one, the win in the Cinder House yard that had put his name in Vell's book. Sarel, Bronze, rank one, the worst loss he had ever had, underlined twice. On paper, Iron rank eight sat a step below every one of them, under the line where the guilds began to write *Bronze*, and a clerk with a ledger would have said that Cael had beaten worse.
 
-He sat with the notebook open and did not believe a word of it.
+He sat with the notebook open and did not believe a word of it. A rank was what an examiner could see in a hall on a given day, and he knew exactly what that was worth: an Arbiter had once looked at him for eleven seconds and written down a single word.
 
-The rank was a measure of what an examiner could see in a hall on a given day. He knew exactly how much that was worth; he had been looked at by an Arbiter for eleven seconds once, and written down as a single word. Feryn and Sarel had come up on circuits and in yards, the hard way, with gifts and gaps both. He had beaten the ones he had beaten by finding the gap their gift had grown round. A man who had been in a paid yard at ten and an academy at eleven did not have gaps like that. Every gap he had ever had, somebody had been paid to find and close. What was left would be very small, and very well hidden, and the man would know where it was better than anyone.
-
-And the second thing was worse.
-
-He turned to the back of the notebook, to his own method written out in its first form, the year before. It was the bench, and the hooks, and the three layers, and the four months he had watched Keth. Every fight he had ever won above his weight, he had won on a bench first, watching. That was what the grey book was for. That was what *he* was for, if he was honest about it.
-
-There was nothing to watch, and there would be nothing. No bout of the man's had been fought on any floor within three hundred miles, and nobody in the district had seen him so much as plant a foot. Even if some carter had stood at the back of a shed in some town on the road and seen everything, it would not have mattered, because the man threw away whatever had been seen and came at the next one new.
+And the rank was not the worst of it. He turned to the back of the notebook, to his own method in its first form, the bench and the hooks and the three layers and the four months he had watched Keth, the Blade whose seam had won him his rating. Every fight he had ever won above his weight he had won on a bench first, watching; that was what the grey book was for, and what *he* was for, if he was honest. This time there was nothing to watch and never would be. No bout of the man's had been fought within three hundred miles, and if some carter had seen one in some town on the road it would not have mattered, because the man threw away whatever had been seen.
 
 He had never walked into a fight owning nothing. He tried to imagine it, and could not, and that frightened him more than the rank.
 
-He tried, sitting there, to think how a file could be built on a man who threw away everything that had been seen of him, and the longer he tried the less sense the question made. A file was a record of what a fighter did again; that was all it had ever been. Keth chose his count fresh every cut, and even Keth had a join that opened at the end of his second every time, because a join was a shape and a shape could not be chosen away. Perhaps this man had shapes too, somewhere under all the masters' work, things he did because of how his Path was made in him and not because he had decided to. But there would be no bench to find them from. If they were there at all, they would have to be found on the floor, under the lamps, inside the exchange itself, by a boy with the man's hands already on him.
+A file was a record of what a fighter did again; that was all it had ever been. Even Keth, who chose his count fresh every cut, had a join that opened at the end of his second every time, because a join was a shape and a shape could not be chosen away. Perhaps this man had shapes too, somewhere under all the masters' work, things he did because of how his Path was made in him and not because he had decided to. If so, they would have to be found on the floor, under the lamps, by a boy with the man's hands already on him.
 
-The dock partner came in under the arch with his staff over his shoulder and his breath going up white. He looked at Cael's face and then at the empty floor.
+The dock partner, the broken-nosed Bronze washout Lira paid a mark an hour to hit her at first light, came in under the arch with his staff over his shoulder and his breath going up white. He looked at Cael's face and then at the empty floor.
 
 "She's not down?"
 
@@ -118,11 +112,11 @@ Cael looked at him.
 
 "Good. Good." The man squared a stack of paper that was already square. "Only a man likes to know. That's all."
 
-Cael was most of the way to the baker's before he understood it. The man had nearly a mark of his on the slate, and nothing to show for it but a name and a face, and a fortnight from now the face might not be worth what it had been worth yesterday. It was not a question about his health. It was a wager, put to him politely, by a man asking whether to keep extending the credit.
+Cael was most of the way to the baker's before he understood it. The man had nearly a mark of his on the slate, and nothing to show for it but a name and a face, and a fortnight from now the face might not be worth what it had been worth yesterday. It was not a question about his health but a wager, put to him politely, by a man asking whether to keep extending the credit.
 
 He laughed out loud in the street, which made a woman with a basket look round.
 
-It went on like that the whole length of the row. Nobody said the visitor's name to him, and nobody needed to. The chestnut man gave him two chestnuts for the price of one and would not take the other copper. The mending-stall woman looked at him over her iron spectacles as he passed, and said *lad* in a voice that meant several things at once, one of which was plainly *I hope you know what you're doing*. A boy he did not know ran past him on the market steps and shouted *up the river!* as if it were a game, and was gone before Cael could see his face. By the time he reached the baker's door he understood that the district had decided something about the fight before he had decided anything about it himself, and that what it had decided was that the fight was partly theirs.
+It went on like that the whole length of the row, though nobody said the visitor's name to him, or needed to. The chestnut man gave him two chestnuts for the price of one and would not take the other copper. The mending-stall woman looked at him over her iron spectacles as he passed, and said *lad* in a voice that meant several things at once, one of which was plainly *I hope you know what you're doing*. A boy he did not know ran past him on the market steps and shouted *up the river!* as if it were a game, and was gone before Cael could see his face. By the time he reached the baker's door he understood that the district had decided something about the fight before he had decided anything about it himself, and that what it had decided was that the fight was partly theirs.
 
 At the corner by the triangle boards the betting man had a fresh square of chalk on his slab, with the visitor's name across the top in capitals and no name of Cael's under it yet, only a long line of figures down the side that he kept rubbing out with the heel of his hand and writing again.
 
@@ -134,7 +128,7 @@ He walked home at dusk by the long way, round by the river gate and up past the 
 
 Lira had heard before he got home, because the dock partner had gone up the hill at noon and told her that the boy's heels had been stuck to the floor all morning, and why.
 
-She was sitting at the kitchen table when Cael came in at dusk, with a carter's bill turned face down in front of her and a stub of charcoal in her fingers. On the back of the bill she had ruled fourteen squares in two rows of seven, the way Dace ruled a week on his wall. Most of them already had something in them. She did not look up when he sat down across from her. She turned the bill round so that it faced him and pushed it over the boards.
+She was sitting at the kitchen table when Cael came in at dusk, with a carter's bill turned face down in front of her and a stub of charcoal in her fingers. On the back of the bill she had ruled fourteen squares in two rows of seven, the way Dace ruled a week on his wall. Most of them already had something in them, and she did not look up when he sat down across from her. She turned the bill round so that it faced him and pushed it over the boards.
 
 Every square had an *L* in the top corner and another *L* at the foot, small, for after supper. Most had a *B* in the middle, with a question mark beside it. The last square was empty except for a short line drawn across it, like the mark Bede had used for a name.
 
@@ -150,11 +144,11 @@ The heavyset man's wife put the pot of barley on the table between them and the 
 
 He had been carrying it since dawn, and it came out more easily than he expected.
 
-"I've never fought anybody I couldn't watch first," he said. "Not once since I came down the hill. Everybody I've beaten above me, I beat on a bench before I beat them on the floor, and I can't do that this time. There's nothing to sit and watch. There's no bout of his on any floor in three hundred miles." He turned his spoon over. "And even if there were, the carters say he'd throw it away. Whatever's been seen, he doesn't do again. So the one thing I'm good at, I can't use until I'm standing in front of him, and by then it'll be his tempo, not mine."
+"I've never fought anybody I couldn't watch first," he said. He turned his spoon over. "The one thing I'm good at, I won't have till I'm standing in front of him. And by then it'll be his tempo, not mine."
 
 Lira listened with her chin on her fist. Then she took up the charcoal again and wrote, in the square for the morning after next, very small, *right foot*.
 
-"That's the second morning," she said. "You'll not like it."
+"That's Friday," she said. "You'll not like it."
 
 "I told you about my heels."
 
@@ -170,7 +164,7 @@ Lira looked at the bowl.
 
 "You sat down so suddenly the post swung." She wrote a small *E* in every square along the bottom row, one after another, with great firmness. "There. Now it's on the bill."
 
-Brom came in late, with rain on the shoulders of his coat and the cold coming off him, and the fourth bowl was on the table before he had the coat on its nail. He sat down and looked at the bill. He read it slowly, from the front, the way he read everything, and stopped at the question marks.
+Brom came in late, with rain on the shoulders of his coat and the cold coming off him, and the fourth bowl was on the table before he had the coat on its nail. He sat down and read the bill slowly, from the front, the way he read everything, and stopped at the question marks.
 
 "I'll have the middles," he said. "All of them. Take those off." He began to eat, steadily, and spoke between spoonfuls. "I've been round the washouts' benches since three. The tannery yard, the sailmakers', the place behind the chandler's where the dockers go. Nobody's fought him. Two had heard the name. One had heard it in a guild hall, years ago, in a city up the river, and wouldn't say more, and went red when I asked." He ate. "So there's somebody. Washouts know washouts. I'll find him tomorrow, or I'll find the man who knows him."
 
@@ -203,11 +197,11 @@ Lira picked up the charcoal and rubbed out the question marks beside every *B*, 
 
 He sat at the crate desk late with the Log open at the back, under the lamp, and did not write for a long while.
 
-The hesitation was already in the book, under its heading, where he had put it before supper. He turned past it to the two columns. The question mark was still there in the margin, in pencil, beside *The right is only ever my feet*. He looked at it for a long time.
+The hesitation was already in the book, under its heading, where he had put it before supper. He turned past it to the two columns, where the question mark was still there in the margin, in pencil, beside *The right is only ever my feet*. He looked at it for a long time.
 
 If Lira was right, if the slowness on the right was a habit and not a shape, then it could be trained, at a price. And a man who threw bursts with nothing before them would not care which side Cael had been born slow on. He would only find it, in the first exchange, if it was there to be found.
 
-He did not move the line. Not yet. But under the question mark he wrote, small, *L. has the right foot. Second morning.*
+He did not move the line. Not yet. But under the question mark he wrote, small, *L. has the right foot. Friday.*
 
 Then he turned to a clean page and wrote the man's name at the top of it, the only name he had, and the tier and the Path and the age. And under it he wrote everything he knew, which took four lines, because that was all there was. *Paid for since ten; academy at eleven; never the same way twice; asks for that kind of fight.*
 

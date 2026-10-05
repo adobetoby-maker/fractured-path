@@ -1154,3 +1154,174 @@ Open threads now:
 
 
 **Movement 6 CLOSED (2026-10-05).** Sol recheck r1: CLOSE, no manuscript line fixes. Ledger end-state normalized to r1 (barge lad 3/8; alcove 8/17; the scout gave no name). Grey-book / Log wordings quoted above predate r1's compression — the manuscript governs.
+
+## After Movement 7 (chapters 44–51; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CALENDAR: the fortnight is counted from Dace's Wednesday visit (day 1) to the bout on Tuesday (day 14); Lira's training mornings run from Thursday; ordinals in ch47–51 now carry their weekday (e.g. 'the thirteenth day, the Monday' = the night before). Day-by-day table in AUTHOR-REPORT 'Repair r1'.
+- REYDAN: 22, Iron-tier Rank 8, burst-compression Pressure Path; his father's paid training yard from ten, academy from eleven ('twelve years'). A growing version of the story reached him first; THEN the up-river keeper asked Dace for Cael's rating line at Reydan's request, and in return lent Dace an old written report on Reydan, which must be sent back ('declined to be interesting').
+- ANSEL: about 27, former Bronze from a coast house, Path unstated; lost to Reydan three years ago in two exchanges; the dock partner was in that hall; one voluntary sparring round on his own terms.
+- Brom at eleven was sent by his father to question a man his uncle had beaten (consistent with 'trained his body from twelve', decision #4). Hesk memory: Cael at nine in the workshop — things that charge nothing at the counter bill later.
+- CROWD kept soft: Dace has 'room for four hundred' plus the street; M8 reaches about six hundred with the street.
+- PRE-BOUT STATE: three integrated fragments + one anomaly (session nine: once, the thirteenth simulated burst of the ninth session; Brom's 'Tide-adjacent' a description with stated limits; three hypotheses, Evidence insufficient, Filed as anomaly. Monitor.; the anomaly Note line written in ch51). The knock fails about one in five at close range and gives WHEN not WHERE; redirects: three clean uses a session, twelve practice redirects in all, the shoulder is the limit (three for the bout). The plan line is exact.
+- Training reads on Brom, Ansel and Lira were asked and granted on the page; on the night before Cael read only what Reydan gave off, and found he manages it. Lira stays provisional; Greyvane not yet mentioned; the scout unnamed, credentialed academy pass visible, does not approach.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Fourteen days, cold, frost; no months named.
+- **Day 0 (Tuesday):** Reydan arrives on the evening card, nearly three weeks after Maud (about fifteen days after the up-river courier Dace reported).
+- **Day 1 (Wednesday):** Dace at the alcove arch at first light; the dock-partner hesitation; the market; supper.
+- **Days 2–12:** Brom's sessions one to eleven (session *n* on day *n*+1).
+- **Day 2:** Lira's first morning; the cooper's and the cookshop (Ansel).
+- **Day 3:** the drop and roll; session two; the first three redirects; the lamp goes dark.
+- **Day 5:** session four (moving), redirects four to six.
+- **Day 6 (Monday):** the betting split; session five; the clerk's account arrives.
+- **Day 7:** session six; redirects seven to nine; the sixth evening, when the drop goes into his legs.
+- **Day 8:** Ansel's round at first light; session seven (defending).
+- **Day 9:** Lira's leave; session eight.
+- **Day 10 (Friday):** pennants; Dace's stew decision; **session nine**.
+- **Day 11:** session ten (tired); redirects ten to twelve.
+- **Day 12 (chapel day):** session eleven; the tally.
+- **Day 13 (Monday):** the night before.
+- **The bout:** Tuesday, day 14, main floor.
+
+**Bodies.**
+- **Cael:**
+  - forearms yellow, the left still blue where Ansel's hook went in;
+  - ribs quiet unless pressed (Lira's first morning on the left, the high rolls on the right, Ansel's hook on the left);
+  - left knee stiff in the mornings from the dropping, sound by noon;
+  - the **left** shoulder carries a "groove" from twelve full-force redirects; rested two days, it "will give three";
+  - behind the breastbone, an ache after each redirect session (none now);
+  - knock bands come later and go sooner than in the autumn;
+  - legs lighter and quicker; tired underneath, "the good kind". Reydan saw him favour the left shoulder by a hair.
+- **Lira:** the left second knuckle nearly quiet. Her lamp has been dark since day 3, by her choice, "till the night after the floor".
+- **Brom:** sound. The carried-breath gathering "costs me" (ugly, used briefly).
+- **Ansel:** sound; a held strike at the ribs; a fist rested at the ear.
+- **Reydan:** unhurt; in a room over a saddler's; walks the river road in the mornings and has kept away from the Ironyard.
+
+**Fragments and progression.**
+- **Three fragments**, all partial. **No notice** this movement. **One anomaly** (session nine).
+- **Iron-adjacent (the knock):**
+  - session tallies, 20 knocks a session:
+    - rest 12, 14, 16;
+    - moving 9, 13, 16;
+    - defending 10, 15, and session nine ten of the first twelve;
+    - tired 12, 16;
+  - **about one in five fails, at worst**, at a forearm. A pace is still fair; two paces still nothing;
+  - the cost thins: the band comes later and leaves sooner;
+  - rules learned: plant and *arrive*, then ask (half the moving misses were early knocks); don't reach ("It doesn't like being wanted"); spend knocks only on the gathering;
+  - **it gives when, not where**: the inward pull is the same whichever way the burst will go;
+  - the drop and the knock won't share any more than the hip and the knock;
+  - with leave: Ansel 6 knocked / 4 answered (one smear, one late); Lira day 9, 13 / 11; day 10, 13 / 12, called aloud.
+- **Pressure-adjacent:** the **redirect** is the taking face passed, not gathered. Plant, take it on the turned (left) shoulder, let it run through and out at a slant, ride the push in. Cost all at once afterward (shoulder, ribs on that side, behind the breastbone). Three clean a session, a fourth goes crooked; every other day. **Twelve full-force reps in all** (days 3, 5, 7, 11). In a fight: three, fewer if already hit. Giving face unused (inventory: three on the beat "if he has a beat to ride").
+- **Wind-adjacent:** unchanged in shape: left only, the lock, three an exchange, the fill. The rule is now *the hip only when I know; when I don't know, the feet*. Used once in earnest, a read burst in Ansel's second exchange. Lira's staff met it in the lock ("Bede counted two").
+- **Footwork:** the **drop and roll** (low, right, with no doorway) went into his legs on the sixth evening (day 7). *Going right* has moved from the Log's *Shape* column to *Habit*, with its cost.
+- **Session nine:** see the Log lines below. No cost found; not reproduced in seven tries; Brom's read is Tide-adjacent, a description with stated limits. It is distinguished from the third-exchange absence (left where it fell).
+
+**Power Log / grey book — quotable.**
+- Log, under its own heading (ch45): *Hesitation, the first time I've had to write the word, and it's in my feet, not my head… Is it fear or is it arithmetic?… Watch it, and don't argue with it until I know what it's for.*
+- Grey book, Reydan's page: *Paid for since ten; academy at eleven; never the same way twice; asks for that kind of fight.* / *Thirteen days.* / *Lost once. To a man who gave him nothing and waited… — L.: Maud did it to me…* / *I don't wait any more. I used to. Find out whether I still can.*
+- Log, the knock: *Nine in twenty, moving… Plant, arrive, then ask.* / *Knock, shut, then go: still true. The drop is a go… Choose.* / the fortnight's columns, then *About one in five fails, at worst… It answers use. It deepens where it's worked. Brom built the steps; I only climbed them.* / *It gives me when. It doesn't give me where. Brom's push only ever comes at me. His won't have to.*
+- Log, the Pressure entry: *Redirect (taking face, passed, not gathered)…* / ***This is not an evasion. It is a purchase.*** / *Know what I'm buying before I pay for it.*
+- Log, *Habit*: *Going right. Trained it. The drop and the roll. Seven days, both knees, one shoulder, most of my ribs, and Lira's lamp for a fortnight. Not quick. Quicker than it was. And no doorway at the end of it.*
+- Ansel's round (ch49): *…He ran out of waiting before I did. I didn't know I still could.*
+- Ansel's sentence alone on a line: *Survive first. Think second.*
+- **Log, new back section *Anomalies*:**
+  - *Session nine, the thirteenth simulated burst…*;
+  - *Brom's read: Tide-adjacent…*;
+  - the three possibilities, ending *…the architecture itself showing a glimpse of its own shape. Whatever holds the pieces, for half a second, instead of the pieces.*;
+  - *Can't choose. Not enough to choose with. Evidence insufficient.* / *Filed as anomaly. Monitor.*;
+  - **under *Note* (written the night before): *Session nine. Could not reproduce. Still don't know what that was.*** (BOOK_MAP §8.5, satisfied now).
+- **The inventory** (ch51):
+  - body, Wind, the feet, Iron-adjacent, Pressure (*Three redirects in the shoulder, and no more… Only buy a place I mean to stand in.*), the gaze (*No ration tomorrow*);
+  - the count: ***Three integrated fragments, one anomaly.***;
+  - plan page: *Reydan. Iron-tier, rank eight. Pressure, burst. What I can feel: the pulling in, at a forearm, four times in five…*;
+  - then the protected line: *If I can force him to abandon three consecutive reads, his fourth response will be pattern-broken. That's when I move.*
+- Grey book, the scout (ch51): *The woman with the book. Academy pass tonight; Dace honoured it; whose, it doesn't say. Writes when I do something new. Won't be looked at back.* / *Tomorrow is a bout. It may turn into something else before it's finished. I don't know what.*
+
+**Ratings and ledger lines.**
+- No change. Cael *Iron-equivalent. Cael. No Path designation.*; Lira *Provisional Iron-equivalent* (no third bout).
+- Reydan on a guild card: Iron-tier, rank eight.
+- Betting board (two columns): *practitioners* heavily for Reydan (three and four to one against Cael at first); *the row* near even.
+
+**Money / home.**
+- A pennant from the mending stall (two coppers; three for five).
+- The paper-stall slate stands. The chestnut man gave two for one.
+- The heavyset man's wife leaves a covered bowl nightly.
+- Ansel's two coppers went back to him through Brom. Dace's clerk's account is lent and owed back up the river.
+- Reydan offered to put his purse in Dace's box.
+
+**Knowledge.**
+- **Cael:** Reydan's name, tier, Path, age, academy, the carters' "yard at ten, academy at eleven", "never the same way twice"; Ansel's account; the clerk's nine pages; that Dace's line brought him; the scout's pass. He has never seen Reydan fight.
+- **Lira and Brom:** everything on the page, session nine the same day. Brom keeps session nine "in the alcove", under term five.
+- **Ansel:** that Cael has "a thing… close in" that reads a man's weight and meaning, with leave. Nothing of fragments or the Log.
+- **Dace:** the carters' account; the trade with the up-river keeper; the scout's credential, honoured. The keeper's book he lent must be returned.
+- **Vell:** the visitor keeps away; she is going down her chains.
+- **Reydan:** the line; the room; the boy seen once, on a bench, a boy who watches as he does. He does not know what the boy is, and won't guess.
+- **Nobody but Cael** knows the [UNBOUND] copy.
+
+**Relationships.**
+- **Cael–Lira:** her lamp given up for him; leave granted and bounded; "That's Maud"; the hand on the shoulder once; "Your legs knew before you did."
+- **Cael–Brom:** "May I?" / "You may" both ways; "Win."; "I'll be at the north rope. She'll be at the south."
+- **Cael–Ansel:** even; Ansel will "buy the next one".
+- **Ansel–the dock partner:** the dock man was in the hall that day and never told; gratitude implied.
+- **Dace–Reydan:** a test set and passed.
+- **Reydan–Cael:** an hour across a lit floor, each giving the other nothing.
+
+**Compact / watchers.**
+- No contact with Cael. No Compact presence on the page. The dull-coat watcher does not appear.
+- **The scout:** unnamed and unidentified; first credentialed academy pass, honoured; writes when Cael does something new or looks at her; does not approach. Reydan recognizes the *kind* of book and makes nothing of it.
+
+**Open threads now.**
+- The bout: four exchanges ahead, with when-not-where, three redirects and the feet.
+- The clerk's account to be returned up the river.
+- Ansel's next stew.
+- The scout.
+- Lira's lamp, back "the night after the floor".
+- Session nine (open; *Note* written).
+- Earlier threads: Keth's "come find me"; Bede's page swap; the [UNBOUND] copy and the stroke in *Carrying*; Vell's proper reading (owed); the watcher; the third-exchange absence; *sustained*; the unasked right step; the concurrent use; Hesk's history; the Book 1 stranger; Coss's silence.
+
+## New canon minted
+
+1. **Reydan:**
+   - a hired man in his father's (a middling guild officer's) training yard at ten, Kindled at eleven and taken by the academy;
+   - an academy master turned his head "from the blades to the feet" at fourteen;
+   - the city's two academies redrew the autumn invitational three years running, and the other house withdrew its boy before the final over a well wrist;
+   - the trips (a salt-town Copper, a river-port Blade);
+   - came down on a wool wagon, three days; a room over a saddler's; walks the river road mornings;
+   - pays at doors in coppers;
+   - managed stillness, a habit since examinations at fourteen. *Flag: "twelve years" = yard at ten plus academy at eleven, at twenty-two.*
+2. **The lamp-oil keeper** in Reydan's city, who keeps that city's unsanctioned book, wrote down the river at Reydan's request. **The M6 up-river courier is therefore the cause of the trip**, and Dace knows it. *Flag.*
+3. **Dace's trade:** the keeper lends a five-year-old clerk's report (nine pages, written for a house, initials and an unknown guild mark), to be returned. It is the first thing Dace has owed another keeper in twenty years. *Flag.*
+4. **The clerk's account:**
+   - no visible wind-up ("gathered already");
+   - an approach never twice;
+   - four rematches, each a different fighter;
+   - one loss in the river halls, in the spring of the second season, to an opponent who "declined to be interesting" for four exchanges; Reydan overcommitted in the fifth; won the rematch three months later in the second exchange.
+   *Flag: the source's dating differs; no later book found dating it.*
+5. **Ansel** (canon name):
+   - about twenty-seven; coast voice; a coast-house Bronze;
+   - lost to Reydan at nineteen at the autumn invitational up the river, in two exchanges, before three hundred people and his house's master;
+   - not kept that winter; on the hill about two years;
+   - works the tannery yard and trains at night in the back of the cooper's, two streets from the boarding house;
+   - his Path is not stated (fast close hand-work);
+   - the dock partner was in the same hall and saw it.
+   *Flag.*
+6. **The dock partner** was once in a coast hall with Ansel. "The rule" among washouts: you don't talk about where you were sent. *Flag (backstory).*
+7. **Brom:** at eleven his father sent him to ask a man who had lost to Brom's uncle what the uncle did. *Flag (family detail).*
+8. **The drop and roll** (Lira): drop into the left knee, roll the weight across onto the right foot, low and a body's width over, with no step. It went into his legs on the sixth evening.
+9. **The redirect as built:** the taking face passed rather than gathered; the left shoulder; three a session; twelve reps in all.
+10. **The knock's limit:** the gathering ("inward") is felt; the direction isn't there to feel until release. *Flag: sets M8's "timing, not direction".*
+11. **Lira:** lamp dark for the fortnight; knock leave (mornings, alcove, till the floor, each answer called aloud).
+12. **The Log's *Anomalies* section**, and the *Note* field in it.
+13. **Texture:**
+    - the mending stall's red pennants (two coppers);
+    - two eel-market men selling stew inside the doors (a copper a bowl, sweep after), Dace's first broken rule, "once";
+    - the betting board's two columns;
+    - Vell's "Don't make me sit down";
+    - the sister's *EAT. L. SAYS.* plate;
+    - the old doorkeeper with one thick ear and a tin box;
+    - the Monday card moved to the lit main floor.
+14. **Hesk memory:** Cael at nine in Hesk's workshop; a credit seller sent away; *anything that charges you nothing at the counter means to send the bill later. And it'll send it in a coin you never said you'd pay in.* *Flag.*
+

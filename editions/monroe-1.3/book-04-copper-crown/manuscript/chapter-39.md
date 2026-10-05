@@ -146,8 +146,6 @@ At Greyvane the text had gone in his favour, and she had followed it there in fr
 
 *Probably both,* he wrote. *Probably those aren't different.*
 
----
-
 That left one name.
 
 He went looking for it on the third afternoon with the slip in his hand and the whole of the long bay to himself. He went through the indexes for eleven years, carefully, the way he would have counted a crowd. Then he went through them again. Then he went down to the main floor and asked the duty librarian for the general catalogue, which covered the whole library and not just the findings, and went through that.

@@ -1,8 +1,8 @@
 # Chapter 44 — Standing Room
 
-On the Tuesday nearly three weeks after Maud, Cael did not go down to the Ironyard at all, because there was nobody on the evening card he needed to see and because Lira had asked him to hold a lamp.
+On the Tuesday nearly three weeks after Lira's bout with Maud, Cael did not go down to the Ironyard at all, because there was nobody on the evening card he needed to see and because Lira had asked him to hold a lamp.
 
-She was at the kitchen table with her sleeves pushed up and her hands flat on the boards, under the light, and she wanted to look at them properly. The bars Maud had laid across the backs of them had gone from black to plum, and from plum to a green like pond water, and were now a yellow that only showed when the lamp came close. She turned them over and back. She made two fists and opened them, slowly, and watched the knuckles as if they belonged to somebody she was thinking of hiring.
+She was at the kitchen table with her sleeves pushed up and her hands flat on the boards, under the light, and she wanted to look at them properly. The bars Maud had laid across the backs of them, waiting each time in the middle of Lira's catch, had gone from black to plum, and from plum to a green like pond water, and were now a yellow that only showed when the lamp came close. She turned them over and back, and made two fists and opened them, slowly, and watched the knuckles as if they belonged to somebody she was thinking of hiring.
 
 "Closer," she said.
 
@@ -12,9 +12,9 @@ He brought the lamp closer.
 
 "You've been using them every night."
 
-"I've been using them every night because that's where the middle lives." She did not look up. "Maud said a year. I'd like it to be less than a year. So I'm not resting them, I'm teaching them, and they can complain while they learn like everybody else." She took her hands off the table and put them in her lap, out of the light. "Put that down before you burn the cloth. What are you doing in that book?"
+"I've been using them every night because that's where the middle lives, the half-beat where my catch turns into a throw." She did not look up. "Maud said a year. I'd like it to be less than a year. So I'm not resting them, I'm teaching them, and they can complain while they learn like everybody else." She took her hands off the table and put them in her lap, out of the light. "Put that down before you burn the cloth. What are you doing in that book?"
 
-He had the Log open at the back, at the two columns from the night of Bede. The *Habit* column had five lines in it now, and a cost against each. The *Shape* column had five lines and no costs, because shapes could not be bought out, and under each he had been trying for a fortnight to write how he would stand so that nobody was ever in the place it left open. Four of the five had something under them. The fifth did not.
+He had the Log open at the back, at the two columns he had ruled on the night Bede beat him. The *Habit* column, for things he did and could train out at a price, had five lines in it now, and a cost against each. The *Shape* column, for the way the borrowed things had been built in him, had five lines and no costs, because shapes could not be bought out, and under each he had been trying for a fortnight to write how he would stand so that nobody was ever in the place it left open. Four of the five had something under them; the fifth did not.
 
 *The right is only ever my feet,* it said, and under it there was nothing at all.
 
