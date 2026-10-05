@@ -56,7 +56,9 @@ The side floor by the north wall was thin at that hour, as it always was: fifty 
 
 "Begin," said the junior keeper.
 
-The first exchange Cael spent standing off and watching the join.
+The lad came at once, which Cael had expected; he came at everybody at once. He crossed the chalk in three long strides with the blade already lifting, and the mutter went with him, *one and two and*, and the first chain arrived before Cael had properly set his feet.
+
+Cael gave him the whole first exchange. He gave ground on short steps round the edge of the chalk and let the long arms go by him, high and across and back, high and across and back, and did not strike once. On the benches somebody laughed at him, not unkindly; the barge lad's chains looked like a man beating a carpet, and Cael looked like the carpet. He did not mind. He had not come to win the first exchange. He had come to stand off and watch the join.
 
 It was there. He saw it on the first chain the lad threw, at the end of the second cut, a gap where the angle was set and the feet had not come yet. But it was not Keth's gap. The barge lad's second cut did not finish long; it stopped short, almost at the stick, the way a man stops a cut who has been told all his life not to waste it. So the angle set early and the feet were nearly with it, and the place between was so thin that Cael could barely see it, a hair's breadth of stillness and then the third already coming.
 
@@ -200,7 +202,17 @@ On the Friday he went down at first light to the ring, and stood at the edge of 
 
 Keth looked at him for a moment, at his face, and Cael had the feeling he had had once or twice in Vell's back room, that he was being read from the front like a page.
 
-"Good," said Keth. "Thank you for coming down to say it." He turned back to the tall lad. "Wider. No. Wider than that."
+"You tested it," said Keth. "Whatever it is. The barge lad on Thursday and Orvet's woman on Tuesday." He did not make it a question. "I watched the Tuesday from the door. She came off the floor looking at her hand."
+
+Cael said nothing. There was nothing to say that would not be the thing itself.
+
+"That's all right," said Keth. "I'd have done the same, if I'd had something. I'd have wanted to see it twice before I put my name to it." His little finger came off the grip, and went back. "It means you think it's real. That's worth knowing, for me. I'll spend the fortnight wondering what it is, and I won't find it, and that's worth knowing too."
+
+"You might find it."
+
+"If I could find it, I'd have found it already," said Keth, quite cheerfully. "I've been looking at myself on this floor for ten years. A man gets used to his own face." He nodded. "Thank you for coming down to say it first."
+
+He turned back to the tall lad. "Wider. No. Wider than that."
 
 Cael went across the floor to the wall. Dace was there already, with his slate cloth, as if he had known which morning it would be and had come in early for it. He did not ask. He took the chalk from the ledge and wrote in the empty square under Keth's name, in his small square hand, one word.
 
@@ -211,3 +223,11 @@ Then he stood back and looked at it, and wiped a little dust off the edge of the
 "The whole card?"
 
 "There's nothing on it that wants to be on after that," said Dace. "Nobody would watch it." He put the chalk back on its ledge. "And there's a man come up from the coast with a letter wanting two seats for a Thursday, he doesn't mind which. I'll tell him which."
+
+"Seats?"
+
+"Places at the rope. Somebody at Saltmarsh has read my season card and wants to see a name on it with their own eyes." Dace looked at the one word in the square. "You'll be a long way from the coast on a Thursday night, and you'll have people from it watching you. That's what a card's for, I suppose. I never used to think about where it went after it left my hand."
+
+Cael looked at the square too. His own name looked odd in it, small and square and chalked, under Keth's: two names on a wall, which was all a bout ever was until it was fought.
+
+"Go and tell Vell," said Dace. "She'll want to know which book. And Cael." He was rubbing chalk off his fingers with the slate cloth, and did not look up. "Eat something before Thursday week. All of you lot go grey when you're thinking. I don't like it on my main floor."

@@ -12,7 +12,9 @@ The auditor was himself, at twenty-two. Two years of his life he had spent at a 
 
 He knew what the report had to carry. He had known it since the forearm came up.
 
-He had stood with the dial sheets against his chest and watched a post lock at the seventh setting and send the third-year's whole delivery back off the pad. He had watched a boy who had been six feet away arrive between the third-year and the pad in less time than the delivery took to come back. Seln's whole craft was being where nobody looked for him. In fifteen years he had never seen anybody get anywhere that fast, at that size, in that direction, toward the danger and not away. And then the boy's arm had taken the return the way a stone quay takes a barge coming in too fast: it had not given, and it had not broken, and the force had gone on down through the boy into the boards. Two things, at the least, and the file's classification had a name for neither.
+He had stood with the dial sheets against his chest and watched a post lock at the seventh setting and send the third-year's whole delivery back off the pad. He had watched a boy who had been six feet away arrive between the third-year and the pad in less time than the delivery took to come back. Seln's whole craft was being where nobody looked for him.
+
+In fifteen years he had never seen anybody get anywhere that fast, at that size, in that direction, toward the danger and not away. And then the boy's arm had taken the return the way a stone quay takes a barge coming in too fast: it had not given, and it had not broken, and the force had gone on down through the boy into the boards. Two things, at the least, and the file's classification had a name for neither.
 
 His brief had categories, as every brief did. The second of them was the one the whole posting existed to fill, if it ever needed filling: *observed capability materially in excess of the subject's documented baseline.* Seln had filed under it eleven times in fifteen years. Eleven times he had been right. Eleven people had gone, afterward, into files further up the coast that he had never been shown and had never asked to see.
 
@@ -26,9 +28,15 @@ He blotted it, and handed it across the table to the young man with the red penc
 
 The young man read it the way he had read everything, with the baseline in his left hand, looking first for a quarrel.
 
-That was always the first thing: whether two papers about the same man disagreed, and Seln watched him look. Gault's office had filed the baseline in the boy's first weeks, and it had been copied into the product soon after. It gave a practitioner of non-standard architecture who executed consistently. It gave a displacement framework, measured to a working ceiling on sprung timber. And it gave a plate trial at the frame's heaviest weight, in which the enrollee had taken the blow on a braced arm and kept his feet. So the young man found, on record, a boy who could move suddenly and could take a blow on his arm. In the report he found a boy who had moved suddenly and taken a blow on his arm, and a closing sentence saying the two agreed. Nothing quarrelled, and the red pencil did not move.
+That was always the first thing: whether two papers about the same man disagreed, and Seln watched him look.
 
-Next he weighed it. He had a habit, Seln remembered, of lifting a report in his palm before he read it closely, as though he could feel its heft through the paper. He had learned in his first month that frightened officers wrote thin. A man with something to hide wanted to give the machine as little as he could, and so on the days that most needed a full account he sent up three lines and a signature. Seln had caught two men that way himself, at that long table, by nothing more than the thinness of what they sent on a busy day. So this report was not thin. Apparatus, cause, setting, the drill, the instructor's signature, the outcome, the warden, the posts, the pins, the enclosures. The young man hefted it in his imagined hand and set it down satisfied. It weighed what a day like that ought to weigh.
+Gault's office had filed the baseline in the boy's first weeks, and it had been copied into the product soon after. It gave a practitioner of non-standard architecture who executed consistently. It gave a displacement framework, measured to a working ceiling on sprung timber. And it gave a plate trial at the frame's heaviest weight, in which the enrollee had taken the blow on a braced arm and kept his feet.
+
+So the young man found, on record, a boy who could move suddenly and could take a blow on his arm. In the report he found a boy who had moved suddenly and taken a blow on his arm, and a closing sentence saying the two agreed. Nothing quarrelled, and the red pencil did not move.
+
+Next he weighed it. He had a habit, Seln remembered, of lifting a report in his palm before he read it closely, as though he could feel its heft through the paper. He had learned in his first month that frightened officers wrote thin. A man with something to hide wanted to give the machine as little as he could, and so on the days that most needed a full account he sent up three lines and a signature. Seln had caught two men that way himself, at that long table, by nothing more than the thinness of what they sent on a busy day.
+
+So this report was not thin. Apparatus, cause, setting, the drill, the instructor's signature, the outcome, the warden, the posts, the pins, the enclosures. The young man hefted it in his imagined hand and set it down satisfied. It weighed what a day like that ought to weigh.
 
 Last, and slowest, he read for warmth.
 
@@ -38,7 +46,9 @@ This report was warm about the pin.
 
 It lingered on the shear and the setting, the core and the collar, the warden coming within the quarter-hour, every post on the bluff withdrawn, every pin in the academy to be inspected and replaced. It was warm about the institution, and the young man would have nodded at that. Naturally the writer cared about the institution. It was what a man in an assessment wing was best placed to see. And an academy finding a flaw in nine years of its own apparatus was exactly the weather the analysts liked best.
 
-And it was true. That was the whole of the art, and the young man with the red pencil had never understood it, because he had only ever been on the reading side of the table. A gap in a report did not survive because it was well hidden. It survived because every word around it was real. Seln was interested in the pin. On the walk back from the hall it had filled his head. A tired pin in a nine-year collar, found in a term when an inspection might come at any time, with the posts chained and the warden's draft already on its way to faculty, was the best weather he had recorded since the posting began.
+And it was true. That was the whole of the art, and the young man with the red pencil had never understood it, because he had only ever been on the reading side of the table. A gap in a report did not survive because it was well hidden. It survived because every word around it was real.
+
+Seln was interested in the pin. On the walk back from the hall it had filled his head. A tired pin in a nine-year collar, found in a term when an inspection might come at any time, with the posts chained and the warden's draft already on its way to faculty, was the best weather he had recorded since the posting began.
 
 The young man finished, and put the report down, and found nothing. He had been very good, and he found nothing, because there was nothing on the page to find.
 

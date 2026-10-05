@@ -78,7 +78,7 @@ Her own name stood on the second.
 
 *Lira — Wind — Copper 2 — 6/0.*
 
-She read it once, slowly. Six bouts and six wins, one of them the drawn bout that had moved her nowhere, five of them four places up at a time, every one of them to the highest line the rule allowed. Twenty-second to second in ten sessions. She had worked out at the start of the season, on the back of the seeding half-sheet, exactly how few afternoons it could be done in. She had done it in exactly that few. Not one wasted.
+She read it once, slowly. Six and nothing: six bouts unbeaten, none lost, which was all the clerk's figures ever counted. The first had been her bout in the opening sessions, drawn by lot, which went into the record and moved her nowhere. The other five had each taken her four places up, every one to the highest line the rule allowed. Twenty-second to second in ten sessions. She had worked out at the start of the season, on the back of the seeding half-sheet, exactly how few afternoons it could be done in. She had done it in exactly that few. Not one wasted.
 
 The clerk reached up and chalked the last column, the tier column, which he always chalked last because it never changed, and stepped back to look at his work, and nodded to himself, and folded his ladder.
 

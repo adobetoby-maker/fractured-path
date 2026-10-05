@@ -321,3 +321,113 @@ Lira's price, in her words: "If he touches your paper wrong… that's the mornin
 - Ch15–21, ~32,560 words. Mean 13.86, ≥40w 4.1%, 902 w/scene; overlap 0 (8 protected); probe 1% / 13%; gates 0.
 - Recheck fixes: three narration-safe expansions of Cael's map shorthand (ch15); an explicit referent (ch18); a narration-safe bracket entry (ch20); a residual permanence overstatement removed from Fiske's classification passage (ch21).
 - Authorship: claude-opus-5-5. Published to the PWA: Book 4 edition ch1–21, "in progress".
+
+## After Movement 4 (chapters 22–29; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- STANDINGS NOTATION (canon): the board figure is bouts unbeaten / bouts lost. Lira's first bout was her opening-session bout, DRAWN BY LOT (she won it 3–0 against Nyle in M3); it went into the record and moved her nowhere. ch25: 'six bouts unbeaten, none lost'; ch29 'Nine and nothing' in the same terms.
+- TOP-LINE CHALLENGES are fought on the final's terms: four exchanges on glass, the winner is whoever holds more touches, a draw keeps the holder. M6 and M8 must honour this.
+- Lira was on the second line at 6–0; the Fiske bout (session fifteen) was her challenge for the top line, and she took it. Fiske remains reigning champion until the final ('Six weeks. I'll see you in the final.').
+- Fiske's advancement evaluation needs 'one signature that isn't mine' (canon; planted for M8, where 'decision point' stays reserved). Do not explain the mechanism before M8.
+- ABBOT (placeholder, OWNER-DECISIONS #11): the Mire Path fourth-year, named once at first meeting in ch24, otherwise 'the Mire boy'.
+- Brom: Rooke's nineteen exercises, FOUR a week (Karis rules four boxes per week); ch29 he does his fourth of the week by lamplight.
+- ch27 map: eight dots plus Cael's cross; Seln is the ninth dot.
+- The ethics are said once: ch22 finds and admits; ch23 argues and signs (Cael's three numbered rules); ch24's Log adds the want in his own hand and the insight that he can win either side of an argument with himself. The dawn Compression drill uses a private wash-house sandbag rig.
+- No sixth fragment yet; five confirmed. The Seln window (ch28) stands at about 2,080 words; his report omits the capability data.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Weekday anchor from M3: day 73 = Sixth-day.
+
+| Day | Event |
+|---|---|
+| d113 (Fourth-day) | The finding and the two hours |
+| d114 | Dawn drill; the Log |
+| d115 | Breakfast reading; the taking-apart |
+| **d116 (Seventh-day)** | **Ninth session**: Mire round; counting stopped at the seventh bell |
+| d120 | Tenth session (Lira to the second line); the third instance at the post that evening |
+| d121 | The fifth-bell board (Lira window) |
+| s11 (≈d124) | Round 7 |
+| s12 (≈d128) | Brom–Tarn; the nineteen begin |
+| s13 (≈d132) | Round 8 |
+| **d133 (Third-day)** | **The pin**; Seln's report walked down the same evening |
+| d136 | Incident report copy |
+| d137 | Hum gone |
+| d138 | Faculty minutes |
+| **d141 (Fourth-day) = s15** | Jask in the morning; **the Fiske bout** |
+
+The final is about six weeks out (≈d183).
+
+**Cael — body.**
+- Left forearm: the post's return. A bone hum, not the ordinary ache, gone on the fourth morning, with a bruise along the outer bone.
+- Shins and the base of the back took the oak's returned third; transient.
+- The dawn drill: a bar bruise on the outer forearm (10th and 11th swings).
+- Hip: one Wind burst only (at the pin).
+
+**Fragments & progression.** Five confirmed; no change (logged). The Tide anomaly is not mentioned.
+- **Wind:** has no directional preference (forward use into a live hazard; the landing beat sets him inside the line). Ceiling unchanged: four free on timber, three on stone.
+- **Compression:** ceiling at the middle bag is nine of eleven sleepless, eleven in week three rested (the private wash-house rig). On sprung oak the floor returns about a third; stone is better, anything softer worse. A heavier load produced a bone hum that recovers on day four.
+- **Iron-adjacent read:** back to full after four days off the counting, three instances, and held under load at the pin, seventeen days rested. Moved to **confirmed** (ch29). Counting stopped from d116 "until further notice".
+- Pressure and Ember unused.
+
+**Agreements and procedure.** The minute of d113 is signed by all four:
+1. Conditions are not to be manufactured; six methods refused, in Cael's hand.
+2. A directed acquisition is permitted only within earnest engagement Seln himself begins, close, in the ordinary course of his assignment; awake and directed.
+3. Full cost written beforehand, including the wish.
+
+Karis's line: *Researcher notes: prediction untested at one instance.* Brom's position is minuted. The procedure is that decisions are read to the three before acting (the Log at breakfast).
+
+**Knowledge.**
+- Lira, Brom and Karis know everything about the pin, including the forward Wind and Compression.
+- Nobody institutional knows more than the eleven words. Jask has "quick off a read".
+- Seln saw two components and filed a report without them (category two not used). Cael **does not know** what the report said and is watching the coats: unchanged two and two through d141.
+
+**Documents.**
+- Karis's minute (pinned in the Log's back board).
+- The Log entry One–Four.
+- The wash-house rig (three sandbags, a knotted cord, a peg).
+- Bracken's top-line half-sheet.
+- Rooke's nineteen-exercise sheet, dated the final; Karis's count page in the grey notebook.
+- The nine-dot map of hall three.
+- The warden's four-page report, with Cael's eleven words, and its pin-replacement recommendation; Rooke's motion carried; the registrar's office funding it from reserve.
+- Karis's pasteboard box of the provision's records, in order.
+- Karis's watcher log, kept since the bridge.
+- Seln's exception report, walked to the Ostrand courier as the cloth merchant; carbon filed.
+- Karis's four lines on the bout.
+
+**Companions.**
+- Lira: Copper R2 formal; **top line** after s15; record **nine and nothing** (drawn Nyle; climbs at s4, s6, s7, s9 [Mire], s10; defences at s11 [Shield fifth-year] and s13 [Current R4]; s15 Fiske). Hip billed after s11 and s15; left shoulder bruised from a Force edge (s15).
+- Brom: lost to Tarn 2–3 (s12); the nineteen exercises begun, count kept by Karis, on schedule through s15; red mark on the ribs.
+- Karis: unchanged standing; holds the box, the count and the watcher log.
+
+**Watchers.** The rotations are unchanged, two and two on the bell, through d141, with one four-minute late change (a pie). Seln remains embedded; his place on the tiers is noted in the lamp but not counted.
+
+## New canon minted (flag where marked)
+
+- **Top-line challenge (flag).** A challenge upon the holder's line is fought on the final's terms:
+  - four exchanges on the table's glass, each to the cleaner touch or called even;
+  - more touches wins; a draw keeps the holder;
+  - the top line fights its semifinal on the earlier day, and so gets a day's more rest.
+
+  It is posted on Bracken's half-sheet. This fits BOOK_MAP M8's "four exchanges with timed clocks", and makes "four exchanges" possible under M3's first-to-three ladder rule.
+- **Lira's climb (flag).** At 6/0 she is on the *second* line under Fiske's brass, not the top: the source put her first, but M3's drawn bout counts in the record and moves nobody. Rounds 7 and 8 are defences from below. The Fiske bout is her challenge to the top line, which brings her to 9/0.
+- **The wash-house Compression rig (flag).** Three sandbags Brom sewed, used since week three. This replaces the source's hall-one drop-frame, because M2 ch12 says nobody has ever seen Compression and Seln's product says Cael trains only under supervision.
+- **Lira's fifth-bell visits** (for about three weeks) and the creaking third step of the north stair that Cael always steps over.
+- **The Shield fifth-year** keeps Copper Rank Six from the source and stays unnamed. His tell is the breath-plant-pane before the pane is set. Juniors use him as an anvil.
+- **Round 8's opponent** is a Current fourth-year, Copper Rank Four, on Rooke's floor by arrangement (unnamed). **Tarn** is Copper Rank Seven (source).
+- **Brom's repair** is named as stopping finishing the absorption: drive while still hard on the struck side. This is consistent with BOOK_MAP's end-state. Rooke's reason: "the continent reads this school's closing sheets".
+- **Rooke at the pin:** "You went toward it."
+- **The Ash instructor's check:** squeeze, follow the finger, the date.
+- **The floor warden** is a woman in a leather apron. All four posts are chained, the north hall's two included.
+- **The pin's nine years** and honestly passed inspections (source fact; season words avoided).
+- **Seln:**
+  - four hands;
+  - two years as an auditor at a records house up the coast at twenty-two (no age stated now);
+  - the imagined young auditor;
+  - the walk made five times this term;
+  - the ledger right four times in five, "and never oftener".
+- **Fiske:** an advancement evaluation needs "one signature that isn't mine", and nobody ever picked up the pen. **(Flag:** this states how a request is made; it is compatible with Lira's flag being in a registry queue.)
+- **Karis's watcher log** has marbled boards and covers four late changes in a month, each with a reason.
+- **Jask** turns his dial to the wall and moves up two lines on his term ledger (a forward glance into the following week).
+

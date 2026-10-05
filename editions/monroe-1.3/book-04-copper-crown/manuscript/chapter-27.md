@@ -176,13 +176,13 @@ That night he could not write properly. His left hand would not keep the paper s
 
 He drew the east hall from memory, the long box of it, the gallery along the north wall, the bays, the near door, the wall table at the west end. Then he put people in it, one dot each, where they had been at the moment the grind did not come. He was very careful, and closed his eyes for each one.
 
-The Ash instructor, far end, turned toward her climbers. Her two climbers, halfway up the ropes, turned toward her. The pair at falls in the south bays, and the girl at her wall drill. The porter in the doorway, gazing up the passage. Jask, at the post, bent to read his needle. And himself, at the bay's edge, a small cross instead of a dot.
+The Ash instructor, far end, turned toward her climbers. Her two climbers, halfway up the ropes, turned toward her. The pair at falls in the south bays, and the girl at her wall drill. The porter in the doorway, gazing up the passage. Jask, at the post, bent to read his needle. That made eight dots. Last, himself, at the bay's edge: not a dot but a small cross, because he had been watching nobody and did not count.
 
 From each dot he ruled a short line to show which way its face had been turned.
 
 Seven lines ran anywhere but toward the post. One pointed at a needle.
 
-Then he put the ninth dot at the wall table by the west end, and ruled its line, and the line ran eleven or twelve paces across open boards, with nothing in the way, straight into the bay.
+Then he put in the ninth dot, the one he had been leaving till last, at the wall table by the west end, and ruled its line, and the line ran eleven or twelve paces across open boards, with nothing in the way, straight into the bay.
 
 For a long while he only looked. Then he wrote, slowly, under the drawing.
 

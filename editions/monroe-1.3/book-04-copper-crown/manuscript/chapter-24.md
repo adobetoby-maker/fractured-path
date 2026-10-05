@@ -2,19 +2,15 @@
 
 That night the rain stopped at last, and he folded back the shutter and sat down to the Log. His left forearm lay on the blotter beside the page like something borrowed that he would have to return in the morning.
 
-No entry since Greyvane had gone on so long, and he let this one go on. Whenever his pen slowed over a sentence and he felt the old wish to make it neater, he let the sentence stand as it had come. Neatening was what he had done to the Greyvane entry, and he had only just found out what it cost.
+He did not write the argument out again. It was in Karis's minute, signed by four people, and the minute was pinned inside the back board where anyone reading the Log would find it first. He gave the rules one line each, the way he would have listed a fighter's three habits at the top of a page.
 
-*Karis's minute is pinned inside the back board. Her six checks are all in it, with the doubts she raised against herself. Anyone reading this should read that first.*
+*One: I won't make the conditions. Two: if his own work brings it to me, close and in earnest, I'll reach, awake. Three: the cost is his and I'm the one choosing it for him, which is what every assessor who ever signed a sheet about me did. Those words stay, so I can't make it kinder later.*
 
-*Here is where I've come out, one thing at a time.*
+Then the two things the minute did not hold.
 
-*One. I won't make the conditions. Six ways to make them are in the minute in my hand, and all six are refused. They are on paper so that none of them can walk back in some night pretending to be new.*
+*Four. I want it. Since my Kindling there hasn't been one day when somebody wasn't looking, and I would like, just once, to stand in a room and go unseen.*
 
-*Two. If his own work brings it to me, close and in earnest, on his initiative and nobody else's, I'll reach. Directed. Awake. Not carried along.*
-
-*Three. He can't agree to it and he will never know it happened. There's no coin I could pay him in that wouldn't end him to accept. So the cost is his, and I'm choosing it on his behalf. Every assessor who ever signed a sheet about me did exactly that: decided what I'd pay, and never asked. Now I'm the one with the pen. I'm putting it in those words so I can't make it sound kinder later.*
-
-*Four. I want it. Not a sixth fragment on the inventory. The thing itself. Since my Kindling there hasn't been one day when somebody wasn't looking, and I would like, just once, to stand in a room and go unseen. That sentence is why this entry exists. The rest is argument, and argument I can make come out wherever I like.*
+*And from last night: I can build either side of an argument with myself and win it. That's why the rules are a procedure and not a sum.*
 
 He sat back. The river was loud below the window, high with two days of rain. A barge went down it with its lamps swinging, giving the long note and the two short, and somewhere under the bluff another horn answered *heard you*.
 
@@ -88,7 +84,7 @@ That night the Log got one line, with no comment beside it. *Read: four late in 
 
 The ninth session came round on a clearing Seventh-day. The night had taken the rain away with it, and the boards in the Crown yard were still dark at their edges where the water had got under the chalk.
 
-Lira's bout was third on the Copper card. She had sent the challenge four places up, as she had every time, to the highest name the rule would let her reach, and the name belonged to a Mire Path fourth-year whose card said Copper Rank Six. Cael had begun a page on him in the second week and added to it twice. The Mire Path sixth-ranker was long in the leg and slow of speech, with a farmer's way of standing, as if he were waiting to see what the weather meant to do. On the second practice ring a month ago, Cael had watched him make the boards so treacherous under a Blade boy's feet that the Blade boy had laughed aloud and appealed to the table.
+Lira's bout was third on the Copper card. She had sent the challenge four places up, as she had every time, to the highest name the rule would let her reach, and the name belonged to Abbot, a Mire Path fourth-year whose card said Copper Rank Six. Cael had begun a page on him in the second week and added to it twice. He was long in the leg and slow of speech, with a farmer's way of standing, as if he were waiting to see what the weather meant to do. On the second practice ring a month ago, Cael had watched him make the boards so treacherous under a Blade boy's feet that the Blade boy had laughed aloud and appealed to the table.
 
 And that same afternoon, two rows behind Cael, a pair of Iron girls had argued in fierce whispers for a quarter of an hour over whether a Mire fighter could stick a Wind fighter's feet before she ever left the ground. Neither had won, and Cael had written the question in the margin of the Mire boy's page and put a small mark beside it that meant *wait*.
 

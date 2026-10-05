@@ -104,8 +104,6 @@ Lira's hand was on Fiske's ribs before the sound had finished.
 
 *Four. F. stops placing. L. walks in. L. two to one.*
 
----
-
 Neither of them had anything left to stand behind, and both of them knew it.
 
 Fiske could not read the girl any more. Whatever she had been reading had stopped meaning what it said, and she knew it. Cael watched the knowledge settle into the line of her mouth as she walked back to her chalk. So at the word she did the only thing left to a champion whose instrument has been broken over her head in front of her whole hill. She stopped placing. She built, and committed, and came straight at Lira with a plain heavy delivery, the Force that every other Force fighter on the sheet had always used.
@@ -178,7 +176,7 @@ Lira stayed on the step a while longer. Then she put a hand flat on the stone an
 
 ---
 
-That night Brom did his fifth exercise of the week at the post behind the second quadrangle, by lamplight, because Karis had found him at supper and said the date aloud.
+That night Brom did his fourth exercise of the week at the post behind the second quadrangle, by lamplight, because Karis had found him at supper and said the date aloud.
 
 Cael fed him. Karis had the coping, the lamp and the grey notebook. And Lira, who should have been in bed with her leg up, sat on the coping beside Karis with her leg out straight along the stone and a wet cloth folded over the hip, and watched Brom hold and shift and hold and shift, forty times, with his heel trying to lift on every one and being set down again by main force.
 
@@ -248,7 +246,7 @@ Then one line he had been carrying in the second column for most of three weeks,
 
 Then the bout. He found he did not want to write it as he usually wrote a bout, exchange by exchange, because Karis had already done that in four lines and done it better. He wrote what it had been instead.
 
-*Fifteenth session. Two to one on the final's terms; second line to first on the standings. Nine and nothing on the season now, the drawn bout counted.*
+*Fifteenth session. Two to one on the final's terms; second line to first on the standings. Nine and nothing on the season now: nine bouts unbeaten, none lost, the opening bout drawn by lot among them.*
 
 *Every exchange took one more pretence off. In the first, Lira showed Fiske the truth about herself and nothing else. In the second, Fiske believed it and was right to. In the third, Lira used the same truth to go somewhere it couldn't have told anybody. By the fourth there was nothing left to show or believe, only two people, and Lira's feet had been made on a foundry floor.*
 
@@ -256,11 +254,7 @@ Then the bout. He found he did not want to write it as he usually wrote a bout, 
 
 *What it bought. The top line and the earlier semifinal, so a day's more rest before the final. And a woman who's held the crown two years walking across the floor to give her the one honest thing anybody on this hill has said aloud since we came up the road.*
 
-*Now the other column, because a page with only the good column in it is how this whole place keeps its books.*
-
-*She'll win the crown. I've thought so since the first week. And the morning after, Bracken's sheet will still say Copper, Rank Two, in the tier column beside her name, the same as this morning. All of today goes into a ring of beaten metal in a glass case, and a new line of brass riveted under the old ones.*
-
-*Fiske's had two years at the top of that sheet to find out what it's for. She told Lira. "It's the looking that matters." So the crown was never the thing. The crown is a lever. Put a result up in front of a whole hill, a result nobody can argue with, in front of a place that's never once needed to think about you, and you've handed them the reason they never had. That's what this season is. It has been since the morning at the board.*
+*And the other column. On the morning after the final, Bracken's sheet will still say Copper, Rank Two, in the tier column beside her name. Fiske has already said what the crown is for, better than I could. I'll only write down the word for it. The crown is a lever.*
 
 He read it through. One thing had lain under all the rest of the day, waiting. He gave it the foot of the page, in a smaller hand.
 

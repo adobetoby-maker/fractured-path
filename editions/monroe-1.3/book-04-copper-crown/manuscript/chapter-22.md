@@ -58,7 +58,7 @@ Six weeks now Brom had belonged, every evening, to what the residence called Roo
 
 Lira had not taken the window seat. She was on the hearth rug with her back against the settle and her knees up, close enough to the fire that the heat lay along her left side, which she only did when the hip had been asked for something. She had climbed again at the seventh session, from fourteenth to tenth in a little over two minutes, and come off the floor with her face showing nothing and her left hand pressed flat to her thigh.
 
-Four bouts, four wins, the first of them the drawn bout that had moved nobody. The yard had begun to argue about her in the refectory queue, over the bread, in the hushed and slightly offended tone people use for a thing they cannot fit anywhere, and Cael had written that down as a measurement in its own right.
+Four bouts and none lost, the first of them her opening bout, drawn by lot, which had moved nobody. The yard had begun to argue about her in the refectory queue, over the bread, in the hushed and slightly offended tone people use for a thing they cannot fit anywhere, and Cael had written that down as a measurement in its own right.
 
 "What's in the ledger?" Lira said to him, low, as he came past the settle.
 

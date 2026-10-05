@@ -12,7 +12,7 @@ She looked down at the grey notebook.
 
 "So he can't know," said Lira from the rug.
 
-"Careful." Karis lifted a finger, the same finger she had lifted at Greyvane whenever a witness said something nearly right. "There's no version in which he knows *and survives knowing*. That's not your sentence. It's longer, and the extra words carry the weight. I want them kept." She looked from Lira to Cael. "I've read a great many letters by clerks who began by writing *he can't be told*, and by the fourth letter meant *we've agreed not to tell him*, and never noticed the week it changed. It's like keeping two sets of books. Nobody opens the second ledger on purpose. One day you simply find you've been writing in it for a month."
+"Careful." Karis lifted a finger, the same finger she had lifted at Greyvane whenever a witness said something nearly right. "There's no version in which he knows *and survives knowing*. That's not your sentence. It's longer, and the extra words carry the weight. I want them kept." She looked from Lira to Cael. "Lose them and you end up keeping two sets of books. You start by saying *he can't be told*, and by the fourth time you say it you mean *we've agreed not to tell him*, and you never notice the week you opened the second ledger. You just find one day that you've been writing in it for a month."
 
 She sat back.
 
@@ -52,11 +52,11 @@ He sat with his stocking feet on the hearthstone and his forearms on his knees, 
 
 "Has he," said Karis.
 
-"He showed me. He's proud of it." Brom let the strap fall still. "And the second time, I didn't turn. I held. And I learned what his feed feels like in the instant before it isn't one, which I didn't know at supper. So I took something off him while he was taking something off me. Nobody asked anybody. That's a floor. You stand on it to have things taken."
+"He showed me. He's proud of it." Brom let the strap fall still. "And the second time, I didn't turn. I held. And I learned what his feed feels like in the instant before it isn't one, which I didn't know at supper. So I took something off him while he was taking something off me, and nobody asked anybody."
 
 He looked at Karis, then at Lira, and then at the fire.
 
-"You've been talking all night about Karis's yard. That was a gift. She put her Path out on the chalk where he could reach it, and meant him to. So every question tonight has been the kind you ask about a present, whether the giver understood, whether it can be returned." He shook his head slowly. "Nobody's giving Cael anything here. That man is spending his Path declaration on Cael every hour of every day, a little at a time. The toll on the eyes. The posts. The walking past the empty hall without looking down. He's spent it on Cael more times than any of us could count, and he spent it to fill a file."
+"You've been talking all night about Karis's yard, where she put her Path out on the chalk and meant him to have it." He shook his head slowly. "Nobody's giving Cael anything here. That man is spending his Path declaration on Cael every hour of every day, a little at a time. The toll on the eyes. The posts. The walking past the empty hall without looking down. He's spent it on Cael more times than any of us could count, and he spent it to fill a file."
 
 He shrugged, and the shrug said more than most people's paragraphs.
 
@@ -64,19 +64,17 @@ He shrugged, and the shrug said more than most people's paragraphs.
 
 On the sill the drip fell, and after a while fell again. Nobody said anything for long enough that Cael heard Lira breathe out.
 
-"He knows what he's doing," said Brom, more quietly. "That's the part I keep coming back to. He chose to stand two paces off a boy who learns people for a living. Nobody on this hill knows better what being near does to a watcher. If being learned frightened him, he picked a very strange place to stand."
+"He knows what he's doing," said Brom, more quietly. "He chose to stand two paces off a boy who learns people for a living. Nobody on this hill knows better what being near does to a watcher."
 
-Karis was writing fast. "In his words. Exactly his, not tidied. Say the weapon again."
-
-Karis's pencil hovered. "One thing, and then I'll write it. He didn't choose to be learned. He chose to learn Cael. Those aren't the same choice, and you know it, because you're the one who taught me the difference between a man who steps onto a floor and a man who's pushed."
+Karis's pencil hovered. "One thing, and then I'll write it. He didn't choose to be learned. He chose to learn Cael. Those aren't the same choice, and you know it, because you're the one who taught me the difference between a man who chooses a fight and a man who's pushed into one."
 
 Brom considered that with every appearance of enjoying it.
 
-"No," he said at last. "They're not the same. But he knows they come together. Nobody stands close to a fighter for nine weeks and learns him without the fighter learning him back. Every Path on this hill knows that. Rooke says it to the cohort about once a week. *You can't watch a man without showing him where you're standing.*" He nodded at the window, at the dark, at the wing somewhere beyond it. "That man has known it longer than any of us. He came anyway. I'm not saying that makes it right. I'm saying it's the floor he chose."
+"No," he said at last. "They're not the same. But he knows they come together. Nobody stands close to a fighter for nine weeks and learns him without the fighter learning him back. Every Path on this hill knows that. Rooke says it to the cohort about once a week. *You can't watch a man without showing him where you're standing.*" He nodded at the window, at the dark, at the wing somewhere beyond it. "That man has known it longer than any of us. He came anyway. I'm not saying that makes it right. I'm saying he came."
 
 Lira let out a short breath through her nose, which from her was very nearly agreement, and said nothing.
 
-"Now say the weapon again," said Karis. "Exactly. I want to be sure of the order."
+"Now say the weapon again," said Karis. "Exactly, in your words, not tidied. I want to be sure of the order."
 
 "You heard it."
 
@@ -88,7 +86,7 @@ Lira let out a short breath through her nose, which from her was very nearly agr
 
 The last of the two hours was Cael's, and he found he hardly needed it.
 
-Somewhere around Brom's floor the thing he meant to say had come clear all at once, as the read comes clear at a pace and a half, and after that it was only a matter of laying it down in order. He found the order by starting with what he would not do. That was the oldest habit he had. Before any bout, he wrote down the three things he would not let himself try, so that the bout could not talk him into them.
+Somewhere around Brom's weapon the thing he meant to say had come clear all at once, as the read comes clear at a pace and a half, and after that it was only a matter of laying it down in order. He found the order by starting with what he would not do. That was the oldest habit he had. Before any bout, he wrote down the three things he would not let himself try, so that the bout could not talk him into them.
 
 "Fence first," he said. "Then what's inside it."
 
@@ -106,7 +104,7 @@ Lira was back on the rug, chin on her knees, watching him. He had seen her give 
 
 Karis's pencil had stopped. "There's a third," she said. "It's in your face."
 
-"The third is the one I like least. None of this is clean, and I'm not allowed to talk as if it were." He turned in his chair to face her. "He can't agree. He'll never know. I can't ask, and there's nothing I could ever hand him for it that he could take without it ending him. So there's a bill. Most of it is his, and I'll never see it, which means I have to write it out for him. Some of it is mine, and that part I can at least read. I'll write all of it in the Log beforehand. Not afterward. With the wanting in it."
+"The third is the one I like least. None of this is clean, and I'm not allowed to talk as if it were." He turned in his chair to face her. "He can't agree. He'll never know. I can't ask, and there's nothing I could ever hand him for it that he could take without it ending him. Most of that cost is his, and I'll never see it. Some of it is mine. I'll write all of it in the Log beforehand, not afterward, with the wanting in it."
 
 He slid the Log across the table, open at an older page.
 
@@ -114,7 +112,7 @@ He slid the Log across the table, open at an older page.
 
 He had written it at Greyvane, at dawn, the day after the yard. *The fragment completed under conditions I had not been able to reproduce,* Karis read aloud, *in a moment of genuine engagement, without warning.* She stopped, and read it again to herself, and he watched her hear it.
 
-"I checked every word of that when I wrote it," said Cael. "Every word's true. Now listen to who does anything in it. The fragment completes. The conditions occur. The moment arrives. I'm not in it, except as the place where it all happened." He took the Log back. "I didn't hear it till three nights ago. So this time the bill goes in first, in my hand, with me in the sentences."
+"I checked every word of that when I wrote it," said Cael. "Every word's true. Now listen to who does anything in it. The fragment completes. The conditions occur. The moment arrives. I'm not in it, except as the place where it all happened." He took the Log back. "I didn't hear it till three nights ago. So this time the cost goes in first, in my hand, with me in the sentences."
 
 Karis wrote for a long time, and when she was done the minute voice came back.
 
@@ -126,7 +124,7 @@ Karis wrote for a long time, and when she was done the minute voice came back.
 
 "I did. The one about the weapon." He stretched until his back made a noise like a chair pushed under a table. "And put that I'd have done it the first week and slept like a stone. And that Cael won't, and won't sleep. Somebody ought to have it written down before it happens, so nobody can say afterward we didn't know which of us was which."
 
-Karis wrote that too. Then she turned the minute round on the table and laid a pencil across it, and one at a time they signed: Karis small and upright; Lira in three hard strokes; Brom slowly, with the tip of his tongue at the corner of his mouth; and Cael last, below the rest, where the bill would begin.
+Karis wrote that too. Then she turned the minute round on the table and laid a pencil across it, and one at a time they signed: Karis small and upright; Lira in three hard strokes; Brom slowly, with the tip of his tongue at the corner of his mouth; and Cael last, below the rest, where his own account would begin.
 
 ---
 

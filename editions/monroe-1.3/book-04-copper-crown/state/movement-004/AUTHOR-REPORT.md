@@ -267,3 +267,81 @@ The shortest are the bout's exchange scenes in ch29 (≈460–660), which are de
 4. **The wash-house Compression rig** replaces the source's unsupervised hall-one drop-frame, for M2/M3 consistency.
 5. **The Seln window runs ≈2,080 words**, against the packet's ≈1,800.
 6. **The Fiske form-and-signature detail** about how advancement is requested.
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place and by reading, against `REPAIR-BRIEF.md`, `review-editorial.md` and `review-cold.md`. Every change was chosen and worded by hand. A script applied only the exact before→after strings and failed on any miss. Source chapters were not reopened. Only ch22–29 and this report were edited. No git commands were run.
+
+**Coordinator rulings applied.**
+- Abbot: named once in ch24 (see the Abbot section below).
+- Top-line terms, Lira's second line at 6–0, the wash-house rig and Fiske's signature are canon as written.
+- The Seln window is unchanged in length.
+
+### Priority 1: continuity and clarity
+
+- **ch29, Brom's count.** "his fifth exercise of the week" → "his fourth exercise of the week". This matches Rooke's four a week and Karis's four boxes. The box was the empty one, which is why Karis said the date at supper.
+- **ch25, the board figure defined.**
+  - New gloss: "Six and nothing: six bouts unbeaten, none lost, which was all the clerk's figures ever counted. The first had been her bout in the opening sessions, drawn by lot, which went into the record and moved her nowhere. The other five had each taken her four places up…"
+  - Note: in Movement 3 the opening sessions are *drawn by lot*, and Lira beat Nyle 3–0 in hers. So the clarifying phrase is "drawn by lot", which removes the "draw = tie" misreading. The figure is defined as bouts unbeaten over bouts lost, as ruled.
+  - The same terms are used in **ch22** ("Four bouts and none lost, the first of them her opening bout, drawn by lot…") and in **ch29**'s Log ("nine bouts unbeaten, none lost, the opening bout drawn by lot among them").
+- **ch27, the map count.** After the seven listed observers: "That made eight dots. Last, himself, at the bay's edge: not a dot but a small cross, because he had been watching nobody and did not count." Then "he put in the ninth dot, the one he had been leaving till last". Seln can no longer be read as a tenth person.
+
+### Priority 2: the ethics said once
+
+- **ch22**, find and admit: unchanged apart from the standings phrase.
+- **ch23**, argue and sign. Each voice keeps one governing image.
+  - Karis: two sets of books. The separate "letters by clerks" image was folded into it.
+  - Lira: the argument that shrinks. Unchanged.
+  - Brom: the weapon. The gift/present paragraph is cut to one clause ("where she put her Path out on the chalk and meant him to have it"). "That's a floor…" and "the floor he chose" are cut; Karis's objection now reads "a man who chooses a fight and a man who's pushed into one".
+  - Cael: the fence and the hats. The "bill" metaphor is replaced throughout by plain cost: "Most of that cost is his… I'll write all of it in the Log beforehand"; "this time the cost goes in first"; "where his own account would begin".
+  - A misplaced duplicate request ("Say the weapon again" before Karis's objection) is removed; the request now comes once, after it.
+  - Kept: the three numbered rules, "church, with sums", the horse, the hats list, and every protected line.
+- **ch24**, the opening Log carries only what is new.
+  - The One–Four restatement is replaced. The narration says the argument stays in the signed minute pinned in the back board.
+  - The rules are given one line each, with Rule Three's self-indictment kept in a single sentence, so Lira's "Three's ugly" still lands.
+  - Then **Four**, the want in his own hand, which the minute holds only as one word.
+  - Then the new insight: "I can build either side of an argument with myself and win it. That's why the rules are a procedure and not a sum."
+  - The protected "Last year's me…" and Karis's instrument line stand.
+- **ch28**, Seln's audit. The five longest paragraphs were broken where the claim turns:
+  - after "being where nobody looked for him";
+  - after "Seln watched him look";
+  - after the baseline's three items;
+  - after the two thin reports;
+  - after "every word around it was real".
+
+  Nothing was removed from the four scripts or the file-drawer close.
+
+### Priority 3: the ending lands once
+
+- **ch29**, closing Log. The two paragraphs re-arguing crown against recognition (the beaten-metal ring, and "the crown was never the thing… That's what this season is") are replaced by one short paragraph: Bracken's sheet will still say Copper, Rank Two; "Fiske has already said what the crown is for, better than I could. I'll only write down the word for it. The crown is a lever."
+- Kept: the full Fiske exchange, Brom's forty, the stair uncertainty, and the sleeping laugh.
+
+### Priority 4: rhythm
+
+- No global lengthening and no added vocabulary.
+- One scene break was merged in ch29, between exchanges three and four. They are one continuous movement of the bout, and Karis's "Four" line now sits inside the scene. This holds words per scene above 850 after the trims.
+
+### Abbot
+
+**ch24.** Named once at first meeting: "the name belonged to Abbot, a Mire Path fourth-year whose card said Copper Rank Six." The next sentence, which used "The Mire Path sixth-ranker", now opens with "He". After that he is "the Mire boy" or "the Mire fourth-year". Abbot is the placeholder under OWNER-DECISIONS #11, so one find-and-replace applies the owner's choice.
+
+### Checks after repair
+
+- `ed.sh overlap book-04-copper-crown 4`: **0 unprotected, 12 protected**.
+- `ed.sh gates`: 0 / 0 / 0 on all eight chapters.
+- `sweep_probe.sh book-04-copper-crown 4 4`: **skeleton 1%, close 13%** (1,618 sentences). By chapter: ch22 2/15, ch23 1/12, ch24 2/12, ch25 0/13, ch26 2/15, ch27 0/13, ch28 1/13, ch29 1/11.
+
+**Words (wc):** ch22 4,238 · ch23 4,295 · ch24 4,609 · ch25 5,252 · ch26 4,605 · ch27 4,669 · ch28 5,325 · ch29 4,571 · **total 37,564**, inside 36,500–38,500.
+
+**Metrics** (`formula_metrics.py`, ch22–29):
+
+| Measure | Before r1 (review run) | After r1 | Working range |
+|---|---|---|---|
+| Words (prose) | 37,765 | 37,483 | 36,500–38,500 |
+| Sentence mean | 13.56 | 13.65 | 13–15.5 |
+| ≥40-word share | 4.3% | 4.4% | 2.5–4.5% (held ≤4.5) |
+| ≤5-word share | 29.7% | 29.4% | up to ~34% |
+| Words per scene | 858 | 872 | ≥850 |
+| Paragraph median / mean | 28.5 / 40.4 | 29 / 40.1 | median up to ~30 |
+| FK grade | 4.33 | 4.37 | 3.5–6 |
+| FRE | 88.2 | 88.1 | target 72.3 (reported) |
