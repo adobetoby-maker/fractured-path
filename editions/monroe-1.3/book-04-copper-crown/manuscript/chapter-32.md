@@ -105,6 +105,7 @@ Then he went on round the end of the range and back along the covered walk to th
 He put a small mark on the covered walk's gallery, where he meant to sit that night.
 
 Then, after a moment, a second mark on the stair.
+
 ---
 
 The long room off the assessment wing had been a map store once. It still had the wide shallow drawers along one wall, painted over, and on the opposite wall three tall windows that looked out across the yard toward the lecture range. Somebody had put a table down the middle of it and twelve chairs round the table, and at the far end, on an easel, a slate.

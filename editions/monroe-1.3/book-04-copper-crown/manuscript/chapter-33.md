@@ -197,6 +197,7 @@ The ninth step had kept silent.
 He sat in the corner with his hands flat on his knees and his heart going hard and quick against the inside of Brom's coat, and slowly, from the top of his head downward, the stairwell went back to being an ordinary dark stair, with a boy on its landing and nobody else that he could feel.
 
 ---
+
 At the half of the fourth hour, when the stair had been an ordinary dark stair for a long time, he decided he had his evidence and need not wait for the fifth. Whatever had gone up had gone up to stay. He felt his way down the lower flight, stepping over the ninth step without needing to count, out through the gap of the yard door, and the long way round to the second quadrangle. Lira's lamp was lit, low. He put his hand up, and her hand came flat against the glass.
 
 In his room the chair was too much. He put his back to the bed frame on the floorboards, the notebook on his knees, and found that the night would not go onto the page in the order it had happened. It wanted to go on backward, from the thing he understood least to the thing he understood best. So he let it.

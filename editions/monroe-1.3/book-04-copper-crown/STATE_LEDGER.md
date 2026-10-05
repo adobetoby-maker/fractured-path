@@ -434,7 +434,7 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 **Movement 4 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied: ch28 the incident line expanded for narration ("Hall three, north bay, sixth bell."). All brief items resolved; listening proof on all eight chapters; overlap 0, gates 0, probe 1%/13%; mean 13.64, ≥40w 4.4%, 872 w/scene.
 
-## After Movement 5 (chapters 30–37; repair r1 applied 2026-10-05; recheck pending)
+## After Movement 5 (chapters 30–37; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Sol recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - CALENDAR: entry d143 (ten days after the pin); the reach on the night of d149; the birthday, the eleventh of Sowing, d167. The ch37 board: 'Sixteen days to the final, and the semester evaluation the day after it.' Closing Log (protected, amended): 'Semester evaluation in seventeen days.' Final = the nineteenth of Reaping (≈d183); evaluation = the twentieth (≈d184). NEVER state month order or a Sowing→Reaping day count (OWNER-DECISIONS #35). M6 must fit: semifinal ≈ the tenth of Reaping (nine days before the final); delegation the twelfth/thirteenth; M6 ends 'The final is in seven days, the evaluation in eight.'
@@ -572,3 +572,5 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
   - the training note chalked for new auditors;
   - his knees.
 
+
+**Movement 5 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — two scene-break spacing fixes applied (ch32, ch33). All brief items resolved; listening proof passes; overlap 0, gates 0, probe 1%/12%. Calendar per the prose (governs the author table above): d143 Seln's private file; d144 counter and council; d147 first unit and night one; d148 night two; the reach in the third hour of the d149 night (early d150); d154 Wind misfire; idle-state LEAKS d159, d160, d161 ("the ninth morning after the stair", then the next afternoon and morning), the Third-day unit d161; moving trials d163; coursework d164; birthday d167.
