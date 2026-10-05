@@ -106,13 +106,13 @@ Maud had not moved from the middle of the chalk. Lira had gone round her eleven 
 
 In the second exchange Maud began to make the floor small.
 
-She did not chase. Lira had known she would not. She simply took one step, a short heavy one, toward wherever Lira was going, every time Lira went. It was not a step to hit; it was only a step to stand somewhere. Each step took a little of the floor away on that side, the way a tide takes sand, and by the middle of the exchange Lira was going round in a circle that was getting smaller. She could feel the rope behind her before she could see it, the way you feel a wall in a dark room.
+She did not chase, as Lira had known she would not; she simply took one step, a short heavy one, toward wherever Lira was going, every time Lira went. It was not a step to hit; it was only a step to stand somewhere. Each step took a little of the floor away on that side, the way a tide takes sand, and by the middle of the exchange Lira was going round in a circle that was getting smaller. She could feel the rope behind her before she could see it, the way you feel a wall in a dark room.
 
 And then she had the rope at her back and nowhere to go round to, and Maud sent.
 
-It was the first thing Maud had sent all night. It came low and slow, from a long way back, a long build Lira could see coming from the bottom of the woman's feet. Lira could see it and could not get out of it, because the rope was there. So she caught it.
+It was the first thing Maud had sent all night, and it came low and slow, from a long way back, a long build that Lira could see coming up from the bottom of the woman's feet. Lira could see it and could not get out of it, because the rope was there. So she caught it.
 
-She caught it as she caught everything, with her staff and her two hands. She felt the weight arrive. It was far more weight than the arm behind it, the Force weight, and it came into her hands like a cart into a gatepost. Her hands closed on it and began to turn, to take that weight and send it back round the other way, which was what her hands were for.
+She caught it as she caught everything, with her staff and her two hands, and felt the weight arrive: far more weight than the arm behind it, the Force weight, coming into her hands like a cart into a gatepost. Her hands closed on it and began to turn, to take that weight and send it back round the other way, which was what her hands were for.
 
 And in the middle, in the place where catching turned into sending, Maud was already there.
 
@@ -132,15 +132,15 @@ Cael was beside him, with his hands on the rope and the grey book nowhere at all
 
 So it was the place, she thought, exactly where Brom had said. Maud had found it in the first touch, as he had said she would, and had gone in there.
 
-She had known it would happen. That was the strange part. She had walked down the hill knowing it would happen, and it had happened, and she still did not know what to do about it. Knowing where a thing was did not tell you how to be somewhere else when it came for you.
+She had known it would happen, which was the strange part; she had walked down the hill knowing it, and it had happened, and she still did not know what to do about it. Knowing where a thing was did not tell you how to be somewhere else when it came for you.
 
-The feet would not do it. She had tried the feet, eleven times, and the feet had only walked her round in a circle to the rope. Maud did not need to come off her heels, the way the Stone had; Maud could make the floor small and wait at the end of it. Sooner or later every circle met the rope, and at the rope Lira had to catch, and when Lira caught, Maud was waiting in the middle of the catch.
+The feet would not do it, because she had tried the feet eleven times and they had only walked her round in a circle to the rope. Maud did not need to come off her heels, the way the Stone had; Maud could make the floor small and wait at the end of it. Sooner or later every circle met the rope, and at the rope Lira had to catch, and when Lira caught, Maud was waiting in the middle of the catch.
 
 So she had to catch, and she had to catch so that there was no middle.
 
 She stood there with her burning hands, and the room going on round her, and thought about the step that did not stop.
 
-She had found it months ago, in the alcove, at night, by the lamp in the north window, with nobody watching. It was a step that did not land and stand and go again, but went on, through, turning, so that her weight was never still anywhere long enough to be a target. Brom had told her that her feet were past Copper. It was the step he meant. She had never once used it to catch anything. She caught with her hands, standing, the way the barn master had taught her when she was fourteen, and then she stepped. The catch first, then the step.
+She had found it months ago, in the alcove, at night, by the lamp in the north window, with nobody watching. It was a step that did not land and stand and go again, but went on, through, turning, so that her weight was never still anywhere long enough to be a target. Brom had told her that her feet were past Copper. It was the step he meant. She had never once used it to catch anything; she caught with her hands, standing, the way the barn master had taught her when she was fourteen, and then she stepped. The catch first, then the step.
 
 But if the step did not stop, then perhaps the catch did not have to either.
 
@@ -158,7 +158,7 @@ Maud went down on one knee.
 
 The room came up off its seats. The four girls from the wall screamed something that was not words. And Lira was standing outside Maud's reach with her staff up and her hands not hurting at all, because they had not had to hold anything, and she did not know, for a moment, what she had done.
 
-Maud got up. She did it slowly, with the bar across her knee, and stood, and looked at Lira, and something in the mild patient face changed for the first time all night. It was not anger. It was the look of a woman who has been handed a knot and has just found that one of its ends goes somewhere she had not seen.
+Maud got up slowly, with the bar across her knee, and stood, and looked at Lira, and something in the mild patient face changed for the first time all night. It was not anger. It was the look of a woman who has been handed a knot and has just found that one of its ends goes somewhere she had not seen.
 
 Lira did it once more before the exchange was out. Maud made the floor small and the rope came and Maud sent, and Lira met the blow moving and let it go round and through her and out into Maud. It landed on the shoulder this time, not as clean, but it landed, and Maud gave a step.
 
@@ -210,7 +210,11 @@ Vell did not write anything more. She looked at Lira over her spectacles for a l
 
 "I know."
 
-"I'll tell you why. You've a right to that, and I'd rather you heard it from me than read it." Vell held the book on her arm. "It's not because you lost. A Copper doesn't put a Bronze on her knee and take her to five. You fought her like an Iron, and better than some Irons I've had on this floor this year, and anybody in this room who says different can come and say it to me." She did not raise her voice; she never needed to. "But a confirming bout's a question. The question was: when somebody who knows where to look comes for you, does the line hold? And she knew where to look, and she looked, and in the fifth your hands went back to where they used to be, and she was waiting there." She looked at the page. "Twice you didn't let them. Once you did. That's provisional. That's exactly what the word means."
+"I'll tell you why. You've a right to that, and I'd rather you heard it from me than read it." Vell held the book on her arm. "It's not because you lost. A Copper doesn't put a Bronze on her knee and take her to five. You fought her like an Iron, and better than some Irons I've had on this floor this year, and anybody in this room who says different can come and say it to me."
+
+She did not raise her voice; she never needed to. She let the room hear that much, and then she lowered the book a little and spoke to Lira alone.
+
+"But a confirming bout's a question. The question was: when somebody who knows where to look comes for you, does the line hold? And she knew where to look, and she looked, and in the fifth your hands went back to where they used to be, and she was waiting there." She looked at the page. "Twice you didn't let them. Once you did. That's provisional. That's exactly what the word means."
 
 Lira stood with her hands at her sides. They hurt a great deal now.
 
@@ -236,7 +240,7 @@ She sat a long while with that.
 
 Then she found she was thinking about the step, and about the weight going round through her and out the other side like water on a wheel. And she thought that the measure had told her one more thing, which was where to go next. It was not the inner gate, or a guild that did not answer letters. It was the middle of her own hands, where her hands remembered where they used to live. That was a place, and Maud had said it took a year, and Maud had said *Took me two*, and she was the oldest Bronze on Dace's wall.
 
-The card would say what it said. Fenmark would think what it thought. Lira had been waiting a year for one of them to change, and neither of them was ever going to; but her hands could.
+The card would say what it said, and Fenmark would think what it thought. She still wanted them to think otherwise. She had wanted it too long to stop wanting it on one cold floor, and she did not pretend to herself that she had. But wanting a thing and walking to a gate to beg for it were not the same, and the one thing in all of it that would change because she worked at it was her hands.
 
 She would not ask Dace for a third bout. She would not ask anybody for anything. She would light the lamp in the north window every night until the middle of her hands was gone, and when it was gone Vell would see it, and write the word, because Vell wrote what was true. If anybody across the river ever wanted to know what Lira of the Ironyard was, they could come and read it. She would not walk to their gate again to tell them.
 
@@ -258,7 +262,7 @@ She came up the stairs a little after one. He heard her stop on the landing outs
 
 "All right."
 
-"I'm going to tell you one thing, so it's said." There was a pause. "I'm not asking Dace for another. Not till the middle's gone. Vell's right, and I'd rather be provisional and true than the other thing on a lucky night." Another pause. "And I'm done walking to their gate. The guilds. Fenmark. If they want to know, they can come and read the book."
+"I'm going to tell you one thing, so it's said." There was a pause. "I'm not asking Dace for another. Not till the middle's gone. Vell's right, and I'd rather be provisional and true than the other thing on a lucky night." Another pause. "And I'm done walking to their gate. The guilds. Fenmark. I still want what's behind it; I'm only done asking. If they want to know, they can come and read the book."
 
 He sat on the edge of his bed in the dark.
 
@@ -271,10 +275,6 @@ He heard her laugh, very short, on the other side of the door. "It's one thing. 
 "He always knows. It's unbearable." Her door shut.
 
 He lay awake a long time after that, in the dark, with the lamp in the north window going out at last somewhere after two.
-
-He had learned something about himself on a floor this week, from a man with a clerk's book. He was a page anybody with patience could read. Some of the page he could change, and some of it was the shape of the thing he carried, and could only be guarded. Lira had learned something tonight from a woman with a short iron-shod staff, and it was not the same thing, but it was its cousin. The circuit could weigh her to the width of a finger, and tell her the truth about it, and could not lift the ceiling over her by a single inch. Only an Arbiter could do that, at a hall that did not answer her letters. And she had decided, sitting on a cold floor, to stop asking it to.
-
-He thought that between them, in one week, they had found out exactly where the circuit's power over each of them began and where it ended. It was not a comfortable thing to know. He did not think either of them would have given it back.
 
 Hesk's answer to the short letter had come a fortnight before and gone under a carter's bill on the hall table, where the sister found it on the Saturday, a little greasy at one corner. It was shorter than his.
 

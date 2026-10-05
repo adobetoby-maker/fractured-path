@@ -2,7 +2,7 @@
 
 "Bracken's clerk came and banged on my door at the third hour," said Karis, before she had quite reached him, "in his nightcap, which I shall never be able to stop seeing. That file is half mine. I built every sheet in it. So I've been in the records hall for most of an hour with my coat over my nightgown and my bare feet in my shoes, and I'd be grateful if you walked me home, because I can no longer feel them."
 
-She fell into step beside him without waiting for an answer, and she did not ask what he was doing in the covered walk at the third hour of the night, in Brom's coat, with the observation notebook in his hand. She did not ask then. She never asked afterward. He noticed, and put it away to be grateful for at a better time.
+She took his arm without waiting for an answer. Why he was standing in the covered walk at the third hour, in Brom's coat, with his notebook open against a wall, she did not ask, not that night and not in all the years after. He saw her choose not to, and laid it by, for thanking in some year when thanking would be safe.
 
 "His name is Jessup," she said. "He reads papers for money. There's a whole little trade of them in Ostrand, half a dozen men in rooms above the fish market, and the strange part is that most of what they do is perfectly lawful. They don't steal. They get themselves into places where papers are kept, and read, and go home, and write out what they read for whoever's paying." She pulled the coat tighter at her throat. "He had a little book in his bag, half full, in a beautiful hand. He'd come back tonight for the rest."
 
@@ -14,7 +14,7 @@ They walked ten paces with that between them.
 
 "Who?"
 
-"He doesn't know, and for what it's worth I believe him. The job came on paper, unsigned, paid in advance, through a letter box by the river that some factor had taken for a single month and then given up. No name anywhere. He says he never has a name, and never wants one, and that's what people pay him for." She glanced sideways at him. "And there's one more thing, and I'd rather you had it from me than pieced it together at breakfast. Before counsel took the folder away, the wing had already put a note in the incident record. I read it over Bracken's elbow."
+"He doesn't know, and for what it's worth I believe him. The job came on paper, unsigned, paid in advance, through a letter box by the river that some factor had taken for a single month and then given up. No name anywhere. He says he never has a name, and never wants one, and that's what people pay him for." She glanced sideways at him. "One more thing. Better from me now than from your own head over the porridge. The wing got two lines into the incident book before counsel carried it off. I read them over Bracken's elbow."
 
 "The wing."
 
@@ -30,7 +30,7 @@ Cael stopped walking.
 
 "It's the best note I've seen since we came up the bridge." Karis had stopped too, under the walk's one lamp, with her breath going up white. "He could have handed them a page of guesses about who and why. He'd have looked very clever. He gave them two lines of what he could prove and then put the pen down. I've spent my whole life wishing people would write like that."
 
-The rest of the way they kept quiet. Under the stair lamp she swung round to face him, one hand still on the rail, and took her first real look at him since the walk, and whatever she saw made her mouth go thin.
+After that neither of them spoke. At the stair foot she turned under the lamp with her hand on the rail and studied him, for the first time that night, and what she found drew her mouth into a line.
 
 "It happened," she said.
 
@@ -40,7 +40,7 @@ The rest of the way they kept quiet. Under the stair lamp she swung round to fac
 
 "Half an hour ago. A little more."
 
-Karis shut her eyes for a moment. When she opened them she had the look she wore before reading a clause aloud to a room that would rather not hear it.
+Karis shut her eyes for a moment, and when she opened them she had the look she wore before reading a clause aloud to a room that would rather not hear it.
 
 "Then tomorrow you don't train. The day after, you don't train. On the third day I take every number off you I can think of, and you answer me straight even when straight makes you look a fool." She let go of the rail. "And that's the whole of it. Three sentences, start to finish. A year it's taken us to make it that short, and I'm very proud of it."
 
@@ -48,7 +48,7 @@ Karis shut her eyes for a moment. When she opened them she had the look she wore
 
 "Rule two," she said. "Within the hour. Go and tell them. I'm going to put my feet in hot water and think about nothing whatever until the second bell."
 
-He did not have to knock on Lira's door. It opened as he came along the passage, and she stood in it with a shawl round her shoulders and the low lamp behind her.
+Lira's door opened before he reached it, and she stood in it with a shawl round her shoulders and the low lamp behind her.
 
 "Your hand went up," she said. "But not the way it went up the other two nights."
 
@@ -66,9 +66,7 @@ Brom woke the moment the door opened, the way a soldier wakes, and lay on his ba
 
 "It happened. On the stair. Bronze."
 
-There was a long silence from the bed.
-
-"Was he all right?" said Brom.
+There was a long silence from the bed, and then Brom said, "Was he all right?"
 
 It was not the question Cael had been ready for. He found, standing there, that he had only the true answer.
 
@@ -104,13 +102,13 @@ On both mornings he went out to the coping at first light, and on both mornings 
 
 Under all of it, all the time, was the new thing.
 
-It did not live inside him as the others did. He could not find it by turning toward his hip, or his ribs, or his arms. It was out at the edge of him, in the half-metre of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek. Sometimes it seemed turned a little up and sometimes a little down, and he did not touch it. Nobody had said he could, and he did not mean to learn what touching it cost before Karis had her numbers.
+It did not live inside him as the others did, and he could not find it by turning toward his hip, or his ribs, or his arms. It was out at the edge of him, in the half-metre of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek. Sometimes it seemed turned a little up and sometimes a little down, and he did not touch it. Nobody had said he could, and he did not mean to learn what touching it cost before Karis had her numbers.
 
 On the third day she had them, in the wash-house, with the same rule and the same lamp and the three sandbags hanging in their row. Rule caught at eight and three-quarter inches, a hair slower than before. Breath at rest, fifteen. Middle bag: guessed ten, got eleven. The read at the post with Brom feeding, twelve of twelve, though the last two came a shade late, which Brom swore to and Cael felt. Ember, by his own account, as it had been.
 
 "The Wind waits for the fourth morning, and Lira," said Karis. "That's in the plan. And the new one?"
 
-He told her: the lamp on one cheek, the wick that moved without being asked, and the fact that he had not touched it. She wrote it all in a separate column she had ruled that morning, and headed, after some thought, with a single word. *Six.*
+He told her about the lamp on one cheek and the wick that moved without being asked, and that he had not touched it, and she wrote it all in a separate column she had ruled that morning, and headed, after some thought, with a single word. *Six.*
 
 ---
 
@@ -156,7 +154,7 @@ He thought about it.
 
 "Say it properly."
 
-"There'll be another one some day, I don't know when, and I won't go looking for it. But if I tell myself this was the last, I'll stop getting ready for it, and then when it comes it won't be a thing I've planned for. It'll just be a thing that happens to me." He looked at his hands on his knees, which were steady. "Better I say it to you here, with my teeth chattering, than learn one day I meant it."
+"There'll be another one some day, I don't know when, and I won't go looking for it. Tell myself this was the last and I'll quit getting ready, and then the next one won't be something I planned for. It'll just be a thing that happens to me." He looked at his hands on his knees, which were steady. "Better I say it to you here, with my teeth chattering, than learn one day I meant it."
 
 Lira nodded slowly, once, as if he had passed something.
 
@@ -208,7 +206,7 @@ Cael sat very still and felt the new thing at his edges turn, of its own accord,
 
 ---
 
-Karis had the two columns ready on the seventh day, at carrel eleven, with her sleeves shoved above her elbows and four sheets held flat under inkpots. She did not explain them. She turned the sheets to face him and said, "Read them to me. Aloud. All of both."
+By the seventh day Karis was ready for him. Carrel eleven had been cleared down to the wood, four sheets lay pinned flat under inkpots, and her sleeves were above her elbows. She did not explain them. She turned the sheets to face him and said, "Read them to me. Aloud. All of both."
 
 So he read them aloud, and she stopped him twice to correct his own figures, because twice he had rounded in his own favour without noticing. Both times she said only "No," and waited until he said the real number, and then nodded at him to go on.
 
@@ -236,7 +234,7 @@ The columns held his eyes a long while. Then he took out the observation noteboo
 
 None of it went anywhere else.
 
-The chart stayed in carrel eleven, under an inkpot. The notebook stayed in his coat. The Log stayed where the Log had always lived. Gault's instruments would go on measuring exactly what they were shown, and be honest about it. The assay file's three words, *evaluation by demonstration*, would stand as they stood. Nobody's coursework, no supervision note, no reason written on a deferral would ever carry so much as a hint of a sixth thing. When the semester came to be measured, he would stand in front of the panel with five things, on the record, as the record already held them, and show them every one.
+The chart stayed in carrel eleven, under an inkpot. The notebook stayed in his coat. The Log stayed where the Log had always lived. Gault's brass and dials would read what was put before them and report it honestly. The assay file's three words, *evaluation by demonstration*, would stand as they stood. Nobody's coursework, no supervision note, no reason written on a deferral would ever carry so much as a hint of a sixth thing. At the semester's measuring he meant to stand before the panel and show five things, the five the record already knew, and every one of them true.
 
 Six was his. The record could keep the other five.
 
@@ -244,6 +242,6 @@ Karis rolled her sleeves down and buttoned the cuffs, which was how she ended an
 
 *K. is glad it was smaller. This is not a finding. It's allowed in the margin.*
 
-"There," she said. "Now it's on the record too. My record." She stood. "Brom's waiting at the post. Box twenty-two, if I've counted right, which I have. Come and feed him. You look as if you'd like to hit something soft and be told the number."
+"There," she said. "Now it's on the record too. My record." She stood. "Brom's waiting at the post. Number nineteen tonight, if I've counted right, which I have. The last of them. Tomorrow he starts again at one, and Rooke says that's the whole point. Come and feed him. You look as if you'd like to hit something soft and be told the number."
 
 He went and fed Brom, at a third, under the lamp, and was told the number.

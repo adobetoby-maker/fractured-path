@@ -74,15 +74,15 @@ It leaned. He felt it lean, the old pull on the crest of the bone, and it did no
 
 "End of the exchange," said the junior keeper.
 
-Cael went back to his mark and stood there breathing, with his forearm ringing, and saw it. Knock, then shut, then go. It was three things, not one. He could not knock and burst in the same breath, not now and perhaps not ever. He could only knock, take what it gave, and then spend it, and the spending had to wait for the shutting. On a slow man that was nothing. On a fast one it was a cut on the forearm.
+Cael went back to his mark with his forearm ringing and saw what it had cost him: he could not knock and burst in the same breath, and whatever the knock gave him had to wait for it to shut before he could spend it. On a slow man that was nothing. On a fast one it was a cut on the forearm.
 
-In the third exchange he did not burst at all. He knocked when the lad committed and his own foot was down, and stepped on his eyes, and twice the knock gave him the lean before the cut came. Both times he stepped a little earlier than his eyes would have let him, to the side the lean was not going, and the long arms went by him. On the second of those he went in under the third cut of the chain, which came out of that hair's breadth late, and put his short strike into the lad's ribs. It was not into the join; the join was too thin to stand in. It was only into a man who had been told where Cael would be by his own weight a moment before his blade got there.
+In the third exchange he did not burst at all. He knocked six times, each when the lad committed and his own foot was down, and four of the six gave him smear, which he let alone while he stepped on his eyes. Twice the knock gave him the lean before the cut came. Both times he stepped a little earlier than his eyes would have let him, to the side the lean was not going, and the long arms went by him. On the second of those he went in under the third cut of the chain, which came out of that hair's breadth late, and put his short strike into the lad's ribs. It was not into the join; the join was too thin to stand in. It was only into a man who had been told where Cael would be by his own weight a moment before his blade got there.
 
 The lad sat down on the stone and stopped muttering.
 
 "Called," said the junior keeper, when the hand came up. "Hand up. Third exchange."
 
-Cael added it up on the bench afterward, on the back of his hand, while the band went round. He had knocked five times and had two answers. The knock and the hip would not share. The join was in the chain, and its width went with how long the second cut finished. The barge lad's was no use to anybody, and Keth's was a doorway.
+Cael added it up on the bench afterward, on the back of his hand, while the band went round: eight knocks and three answers, worse than he managed in the alcove, and a join so thin that it was no use to anybody, where Keth's was a doorway.
 
 The barge lad came and found him on the bench while the next pair was going on, which Cael had not expected. He sat down at the other end with his long arms hanging between his knees and his blade across them, and did not mutter, for once.
 
@@ -138,7 +138,7 @@ Cael asked him. The dock partner, a broad man with a broken nose who had been a 
 
 The dock partner shrugged. "I've had worse on me than a boy's eyes."
 
-They did it the rest of that week, an hour each morning, at the end of the dock partner's hour with Lira. The dock partner swung, slowly, a great flat sweep of the staff, and Cael stood with his fingers on his wrist and watched the hooks go by, and at the meaning, at the place where the man stopped thinking about the swing and began to make it, he knocked. On the first morning it answered six in fifteen. On the second it answered eight. On the third the dock partner began swinging faster without being asked, out of what Cael suspected was boredom, and it answered nine in eighteen, and he went home with a band like a barrel hoop and lay on his bed with a wet cloth over his eyes.
+They did it the rest of that week, an hour each morning, at the end of the dock partner's hour with Lira. The dock partner swung, slowly, a great flat sweep of the staff, and Cael stood with his fingers on his wrist and watched the hooks go by, and at the meaning, at the place where the man stopped thinking about the swing and began to make it, he knocked. On the first morning it answered six in fifteen, and on the second eight in seventeen. On the third the dock partner began swinging faster without being asked, out of what Cael suspected was boredom, and it answered nine in eighteen, and he went home with a band like a barrel hoop and lay on his bed with a wet cloth over his eyes.
 
 On the fourth morning it answered eleven in twenty.
 
@@ -168,11 +168,11 @@ He did not go in. He stepped off it on his feet and let the exchange run out.
 
 In the second he made himself see it twice more, from two different places, once standing square to her and once off her left side. It was there both times. He knocked on the second time, at her meaning, from a planted foot, and the knock answered: the weight going hard forward and to its right, into the long finish, set. He had the answer and was shut before her blade had got to the end of the second cut. When it got there, he was already standing where the third cut would have to come from.
 
-That was what the knock was for. It did not see the join; his eyes saw the join. The knock told him, at the very start of the chain, which way her weight had already gone, so that he was in the right place to look.
+That was what the knock was for, and he understood it whole for the first time, standing there with his foot down and her blade still travelling. His eyes saw the join; the knock never could. What the knock gave him was the start of the chain, which way her weight had already gone while her blade was still on its way, and so it had to go out early, at the meaning, and be shut again before he needed the hip, because the two would never share a moment. The knock put him in the right place to look, and then his eyes did the looking.
 
-She caught him once in the second, a short backhand off the end of a broken chain that he had not seen coming at all, across the top of the shoulder. Orvet roared. Cael went back to his mark with the shoulder hot and filed it with the forearm from Thursday, and stood, and breathed.
+He knocked twice more before the exchange was out and got smear both times, and stood still on both. She caught him once anyway, a short backhand off the end of a broken chain that he had not seen coming at all, across the top of the shoulder. Orvet roared. Cael went back to his mark with the shoulder hot and filed it with the forearm from Thursday, and stood, and breathed.
 
-In the third exchange he waited for her chain, and it came, and he knocked at the meaning and got the smear. He got nothing, a blur, so he did not move on it. He let the first two cuts go by him on his eyes alone, a long way back, and did not go into the join, because he did not have it. That was the rule he had made walking down: if the knock did not answer, he would not go.
+In the third exchange she chained twice. On the first he knocked at the meaning and it answered, and he did nothing with the answer but step early, to see that he could. On the second he got the smear, nothing but a blur, so he did not move on it. He let the first two cuts go by him on his eyes alone, a long way back, and did not go into the join, because he did not have it. That was the rule he had made walking down: if the knock did not answer, he would not go.
 
 In the fourth she chained again, harder, because Orvet was telling her to, and Cael knocked at the meaning from a planted foot and it answered, clean. Her weight was going hard into the second, forward and right, set. He let the second cut come and finish long, a hand past him, and in the place after it, the place where she had nothing she could choose, he went in.
 
@@ -194,7 +194,7 @@ She thought about it. Her face did not change much; it was not a face that chang
 
 "The chain." She nodded once, and went off to Orvet, who was still shouting, and Cael watched her go and thought that he had just told a stranger the thing he had not yet told Keth. It was not the whole thing, and not about Keth, but it was close enough that he did not like it.
 
-He added up on the bench. He had knocked six times and had three answers, half, on a floor, against a woman who had not stood still for him once. The join was as wide as the finish was long. He had not gone into it once without the knock telling him where her weight already was, and when the knock did not answer, he had stayed out, and that had held.
+He added up on the bench: six knocks and three answers, half, on a floor, against a woman who had not stood still for him once, and not one step into the join without an answer behind it.
 
 He sat with the numbers on his hand for a long time, while the next pair went on.
 
@@ -202,13 +202,13 @@ He sat with the numbers on his hand for a long time, while the next pair went on
 
 That night he wrote both bouts in the Log, under the pulse, in the plainest words he had.
 
-*Pulse, on a floor, twice. First (Thursday): five knocks, two answers. Knock and hip won't share. Knock, shut, then go: three things. Second (Tuesday): six knocks, three answers. Knock at the meaning, the fourth hook, from a planted foot, not when the cut's already coming. Answer comes back while his blade's still on the way; shut before I need the hip. Alcove, by the same rule: eleven in twenty. The band thinner by the fourth morning.*
+*Pulse, on a floor, twice. Thursday: eight knocks, three answers; knock and hip won't share. Tuesday: six knocks, three answers, knocking at the meaning (the fourth hook) from a planted foot. Alcove, by the same rule: eleven in twenty. The band thinner by the fourth morning.*
 
 *Ruling: about half, close, on a floor. A forearm good, a pace fair. Two paces: still nothing. Don't ask it to be more than it is.*
 
 Then, in the grey book, on the page with *the finger* at its head, he wrote one more line under the morning in the ring. He did not turn back the page with the three words on it.
 
-*The join is the chain's, and as wide as the finish is long. Two others, both there. His is the widest I've seen. Don't go in on the eyes alone; go in on the knock. If it doesn't answer, don't go.*
+*Two others, both there. His is the widest I've seen. Go in on the knock, never on the eyes alone.*
 
 He read that back twice. Then he shut the book and blew out the lamp and lay down, and did not sleep for a long time.
 

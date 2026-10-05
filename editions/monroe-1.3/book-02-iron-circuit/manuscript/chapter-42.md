@@ -59,11 +59,11 @@ She listened with her hands still in the basin. When he had finished she took th
 
 He did it properly that evening, at the crate desk, on a clean page at the back of the grey book, with the lamp turned up.
 
-He wrote a mark at the top for a fighter he had never written a page on. He thought about it for some time. In the end he wrote only *the hip*, because that was where most of it started.
+He wrote a mark at the top for a fighter he had never written a page on, and thought about it for some time, and in the end wrote only *the hip*, because that was where most of it started.
 
 Then he sat for a long time, and tried to be the man on the east bench with the tally-book.
 
-It was harder than he had expected. He had sat on that bench a hundred nights and watched other people, and he knew exactly how to do it; but he had never once sat on it and watched himself, and every time he tried, his own reasons got in the way. He knew why he did each thing. The man on the bench did not know why, and did not care. He only saw what was done, and how often, and what came after. Cael had to keep crossing out the *because* and leaving the *what*.
+It was harder than he had expected. He had sat on that bench a hundred nights and watched other people, and he knew exactly how to do it; but he had never once sat on it and watched himself, and every time he tried, his own reasons got in the way. He knew why he did each thing, and the man on the bench neither knew nor cared; he only saw what was done, and how often, and what came after. Cael had to keep crossing out the *because* and leaving the *what*.
 
 By the time the lamp had burned down an inch he had this.
 
@@ -83,7 +83,7 @@ By the time the lamp had burned down an inch he had this.
 
 *Doesn't use the other thing. (The bench has never seen it.)*
 
-He looked at the list for a long while. It was a good page. It was the kind of page he would have been pleased with on anybody else, and it frightened him a little. It was eight lines long, and any one of them was enough to lose a bout on, against a man who knew what he was looking at.
+He looked at the list for a long while. It was a good page, the kind he would have been pleased with on anybody else, and it frightened him a little, because it was eight lines long and any one of them was enough to lose a bout on against a man who knew what he was looking at.
 
 He took it to the alcove in the morning and showed it to them both, Lira first, as he had promised himself, and then Brom.
 
@@ -93,7 +93,7 @@ Lira read it standing, with her staff against the wall. She read it twice, and t
 
 He looked at it. He had not known; he tried to remember breathing out through his nose at a mark, and could not, which was the whole point.
 
-Brom read it sitting on the bench, slowly, from the front, the way he read everything. Then he gave it back without adding anything.
+Brom read it sitting on the bench, slowly, from the front, the way he read everything, and gave it back without adding anything.
 
 "Nothing?" said Cael.
 
@@ -107,13 +107,13 @@ Brom looked at him for a moment with his big patient face.
 
 So Cael spent the next week trying.
 
-He worked on the first exchange: he made himself go first, in the alcove, against the dock partner, again and again, before he had seen anything at all. It felt like stepping off a roof in the dark, and it cost him a bruise on the hip the first morning that he had not had to take in months. But by the third morning he could do it without his stomach turning over. He worked on the eyes: he made himself not look at the shoulder, and watched the middle of the chest instead, where nothing happened, and knocked from a planted foot for the rest. The knock answered as often as it had against Orvet's woman, about half, and no bench in the world could see it. He worked on the strike: the ribs, always the ribs, so he made himself put it into a forearm, a hip, the top of a shoulder, anywhere else, and every one was a little weaker than the ribs, because the ribs were where he had put a thousand of them.
+He worked on the first exchange: he made himself go first, in the alcove, against the dock partner, again and again, before he had seen anything at all. It felt like stepping off a roof in the dark, and it cost him a bruise on the hip the first morning that he had not had to take in months, but by the third morning he could do it without his stomach turning over. He worked on the eyes: he made himself not look at the shoulder, and watched the middle of the chest instead, where nothing happened, and knocked from a planted foot for the rest. The knock answered as often as it had against Orvet's woman, about half, and no bench in the world could see it. He worked on the strike: the ribs, always the ribs, so he made himself put it into a forearm, a hip, the top of a shoulder, anywhere else, and every one was a little weaker than the ribs, because the ribs were where he had put a thousand of them.
 
 And he worked on going right.
 
 He could not burst right. He had known that since the first season, and he knew it better than he knew anything; the asked burst went only left, off the left hip, Lira's hip and her barn master's before her. So he went right on his feet, two short steps, as fast as he could make them go. They were slow, a whole beat slower than the hip, and the dock partner's staff found him on that side every time it looked.
 
-On the fifth morning he tried the chest. He filled early, in the reset, before he had decided anything, so that the fill would not be a signal. Then he held it, full, for the length of a whole exchange, and found that holding a full breath for that long made him stiff from the collarbone to the waist and slow in everything. When he finally let the two bursts go off it, the second came out a quarter-beat late.
+On the fifth morning he tried the chest, filling early, in the reset, before he had decided anything, so that the fill would not be a signal. Then he held it, full, for the length of a whole exchange, and found that holding a full breath for that long made him stiff from the collarbone to the waist and slow in everything. When he finally let the two bursts go off it, the second came out a quarter-beat late.
 
 "You can't hide that," said Lira, from the bench.
 
@@ -269,7 +269,7 @@ Dace did not look round at the back of the room. "She's been here before."
 
 "What sort of thing?"
 
-"Your sort of thing," said Dace. "Something you've not done before." He turned to go. "I don't know who she is. I've asked at the door. She gives a name nobody's heard of and pays in good silver. If I find out, you'll hear." He stopped. "And Cael. Bede asked for you nine days after Keth. That's quick. There'll be more like him."
+"Your sort of thing," said Dace. "Something you've not done before." He turned to go. "I don't know who she is. I had the door ask her once. She wouldn't give a name. Smiled, and paid in good silver, and went and sat down. If I find out, you'll hear." He stopped. "And Cael. Bede asked for you nine days after Keth. That's quick. There'll be more like him."
 
 When Cael looked again at the back of the room, the place by the side door was empty.
 

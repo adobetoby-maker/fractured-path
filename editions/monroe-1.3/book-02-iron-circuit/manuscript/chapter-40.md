@@ -2,11 +2,11 @@
 
 In the third exchange Keth began to give things away.
 
-It was very well done, and Cael did not see it for what it was until the second time. Keth came forward at a walk, as he had in the first, and chained a two from the end of his reach, and at the end of the second cut he was slow bringing the blade back. It was not much, a hand's width of lag, a line left open across his body for a moment longer than a man as quick as Keth should ever have left it. It looked like a tired arm. Two exchanges at his own speed against a boy who would not stand still might have tired anybody's arm.
+It was very well done, and Cael did not see it for what it was until the second time. Keth came forward at a walk, as he had in the first, and chained a two from the end of his reach, and at the end of the second cut he was slow bringing the blade back. It was not much, a hand's width of lag, a line left open across his body for a moment longer than a man as quick as Keth should ever have left it. It looked like a tired arm, and two exchanges at his own speed against a boy who would not stand still might have tired anybody's.
 
 Cael did not go into it. He did not go into anything he had not knocked on, and the line was two paces off, where the knock gave nothing.
 
-Keth came round and did it again, a little closer. This time it was his feet. He came out of a two with his weight a half-step too wide, the stance spread like a man who has overreached on ice, and for a breath the whole of his left side was open, ribs and hip and the back of the knee. On the benches a man stood up and shouted at Cael to go. Two or three others took it up.
+Keth came round and did it again, a little closer, and this time it was his feet. He came out of a two with his weight a half-step too wide, the stance spread like a man who has overreached on ice, and for a breath the whole of his left side was open, ribs and hip and the back of the knee. On the benches a man stood up and shouted at Cael to go, and two or three others took it up.
 
 Cael looked at the heel.
 
@@ -14,13 +14,15 @@ It was the countersign. He had found it a season ago, from a north-bench Blade w
 
 Keth's heel came up quickly. It came up as fast as a cat's.
 
+He was a pace off, close enough for once, and Cael's own foot was down, so he knocked. It answered clean, and it said what the heel had said. Keth's weight was not spread on ice at all; it was sitting back on the far foot, gathered, held like a drawn bow.
+
 So Cael stayed where he was and let the open side close, and a breath later the real cut came out of the place where Keth's hand had been resting, fast and flat, across the space Cael would have filled if he had gone. It found nothing. The man on the bench who had been shouting sat down.
 
-Keth looked at him across the end of it. It was a long look, and Cael had seen it before, on the faces of the men in his own book when they came off a floor going back over a sum. He was writing a new line on his short page.
+Keth looked at him across the end of it, a long look that Cael had seen before on the faces of the men in his own book when they came off a floor going back over a sum. He was writing a new line on his short page.
 
 Then Keth did it again, and again, for the rest of the exchange, with a different gift each time. There was a guard dropped as if from a cramp in the hand, and a step back that looked like a stumble, and once a cut so short of its mark that the crowd groaned for him. Every time Cael looked at the heel, and every time he stayed out, and every time the real thing came a breath after the false one into the place he had not gone.
 
-It was costing him. The gaze had been at full depth since the start of the exchange, because the countersign was a thing only the full depth could see, and he could feel the edges of the room going. It was not dark, but narrow, as if he were looking down a well. The ache behind his brow had decided at last what it wanted to be, and it was a bar of iron laid across his eyes from temple to temple. He knew what that meant. He had measured it once in Lira's chalk, seven times over. At this depth, for this long, he was blind past ten degrees on either side, and if Keth went round him wide enough, Keth would vanish.
+It was costing him, because the gaze had been at full depth since the start of the exchange, because the countersign was a thing only the full depth could see, and he could feel the edges of the room going. It was not dark, but narrow, as if he were looking down a well. The ache behind his brow had decided at last what it wanted to be, and it was a bar of iron laid across his eyes from temple to temple. He knew what that meant. He had measured it once in Lira's chalk, seven times over. At this depth, for this long, he was blind past ten degrees on either side, and if Keth went round him wide enough, Keth would vanish.
 
 Keth did not know that, and he was not going round. He was standing in front of Cael and offering him presents.
 
@@ -34,7 +36,7 @@ Cael saw the whole of the way in, in the time it took the join to open. It was t
 
 He felt the hollow under his ribs stir, as it had not stirred all night.
 
-The giving face would do it. It would take a short arm and a bad angle and put the whole of a strike's weight behind them, enough to put a man down from almost no room at all. But it only rode on the beat, his own beat, the step and the strike and the breath in one. He would be coming off two long strides with no beat in him at all, and the old wrist, the left, the one that ached in cold weather, knew exactly what the giving face did when it went off the beat. It went back up the arm.
+The giving face would do it, taking a short arm and a bad angle and putting the whole of a strike's weight behind them, enough to put a man down from almost no room at all. But it only rode on the beat, his own beat, the step and the strike and the breath in one. He would be coming off two long strides with no beat in him at all, and the old wrist, the left, the one that ached in cold weather, knew exactly what the giving face did when it went off the beat. It went back up the arm.
 
 And the knock would not reach. At two paces it gave nothing, not even smear. He would be going in on the eyes alone, at the wrong range, off the beat, with a thing he had locked away for the whole of the night and had not meant to show anybody.
 
@@ -54,7 +56,7 @@ It carried to the back wall. Cael heard it go.
 
 "Yes," said Cael.
 
-Keth looked at him a moment longer. Then he nodded, slowly, as a man nods at a sum that has come out the way he had begun to think it might. He did not ask what for. Cael had known he would not, and was grateful, because he would not have lied and could not have answered.
+Keth looked at him a moment longer. Then he nodded, slowly, as a man nods at a sum that has come out the way he had begun to think it might. He did not ask what for, and Cael, who had known he would not, was grateful, because he would not have lied and could not have answered.
 
 "End of the exchange," said Vell, after him, as if the exchange had been waiting for her to say so.
 
@@ -62,13 +64,13 @@ Keth looked at him a moment longer. Then he nodded, slowly, as a man nods at a s
 
 Keth meant the fourth to be the last.
 
-Cael saw him decide. He saw it at the mark, while the gaze was still slack and the room still wide: Keth's weight going forward onto the balls of his feet and staying there, his left hand opening and closing once at his side. A long bout was a reader's bout. Keth had given the boy three exchanges to read in, and every one had told him more, and the line at Iron was not going to give him a fourth to read in at leisure.
+Cael saw him decide it at the mark, while the gaze was still slack and the room still wide: Keth's weight going forward onto the balls of his feet and staying there, his left hand opening and closing once at his side. A long bout was a reader's bout. Keth had given the boy three exchanges to read in, and every one had told him more, and the line at Iron was not going to give him a fourth to read in at leisure.
 
 "Fourth exchange," said Vell.
 
 Keth came in at once and did not stop.
 
-Cael had never seen him fight like it. He had watched the man for three months, at dawn and on the side floors and on the main floor from the east bench, and he had never seen this. It was chains of three thrown from a pace instead of two, one on the end of the next, with no gifts in them and no gaps between them, and the cuts came from angles Cael had on his pages only as rare things, once a month. The dulled blade was everywhere. It was high and low and across, at the knee and the ribs and the side of the head, and every cut finished long, and every chain went through its join and into its third and out the other side before Cael's eyes could get there.
+Cael had never seen him fight like it, not once in three months of watching him at dawn and on the side floors and on the main floor from the east bench. It was chains of three thrown from a pace instead of two, one on the end of the next, with no gifts in them and no gaps between them, and the cuts came from angles Cael had on his pages only as rare things, once a month. The dulled blade was everywhere, high and low and across, at the knee and the ribs and the side of the head, and every cut finished long, and every chain went through its join and into its third and out the other side before Cael's eyes could get there.
 
 He did not try to read it. There was no time to read it. He gave ground.
 
@@ -80,7 +82,7 @@ And Cael began to see a thing he had not dared to hope for.
 
 The faster Keth went, the less he chose. In the first exchange, at a walk, he had picked his count fresh on every cut, and his body had given nothing away. Now, flat out, chaining from a pace with no gifts and no gaps, there was no time to choose anything. He was throwing what his body knew, as fast as it knew it, and what his body knew was ten years of mornings: the lift, the cut, the long finish, the join. He was like a man running down a steep hill, who cannot pick where his feet go and can only go where the hill sends him. On every chain now the second cut finished long. On every chain the join opened. Keth was fighting better than Cael had ever seen him fight, and the better he fought, the more of himself he showed.
 
-He had the gaze at full depth through all of it, though there was nothing yet to strike at, because there would be. The bar across his eyes had become a band of fire, and the edges of the room had gone, and he was seeing Keth down a long bright pipe with nothing on either side of it. He knocked twice at a forearm, from planted feet, at the meaning. The first came back as smear, and he did nothing with it; he had learned that in the second exchange. The second came back clean: the whole of Keth's weight driving forward and to his right, set, going.
+He had the gaze at full depth through all of it, though there was nothing yet to strike at, because there would be. The bar across his eyes had become a band of fire, and the edges of the room had gone, and he was seeing Keth down a long bright pipe with nothing on either side of it. He knocked once at a forearm, from a planted foot, at the meaning of a run, and it came back as smear, and he did nothing with it; he had learned that in the second exchange.
 
 Keth chained.
 
@@ -90,11 +92,11 @@ He saw the second come across, and it finished long, a hand past his shoulder, a
 
 At a pace.
 
-Afterward he would sit at the crate desk with the Log open and try to take the next moment apart, and he would never quite get it back together, and in the end he would write down only what he was sure of. He was sure that the join was a pace away, in front of him, a little to his left, at a range he could reach. He was sure he had been knocking at the meaning of the chain, from a planted foot, as he had promised himself he would.
+Afterward he would sit at the crate desk with the Log open and try to take the next moment apart, and he would never quite get it back together, and in the end he would write down only what he was sure of. He was sure that the join was a pace away, in front of him, a little to his left, at a range he could reach. He was sure he had knocked at the meaning of that chain, from a planted foot, as he had promised himself he would, the second knock of the exchange.
 
 And he was sure that his weight was already going through the entry step before the knock came back.
 
-His body had gone ahead of him. It had gone on the eyes, and on three months of mornings, and on eleven pages and two strangers and a stick in a ring. It had decided before the rest of him had finished checking, and the watching part of him was still in the middle of asking *is it there?* when the rest of him was already inside the answer. Then the knock came back, late, into a body that had already moved. It said what he had known it would say: *set*. The angle was fixed, the feet were behind, and there was nothing in that hand that could be chosen.
+His body had gone ahead of him. It had gone on the eyes, and on three months of mornings, and on eleven pages and two strangers and a stick in a ring. It had decided before the rest of him had finished checking, and the watching part of him was still in the middle of asking *is it there?* when the rest of him was already inside the answer. Then the knock came back, late, into a body that had already moved. It said what he had known it would say: the whole of Keth's weight driven forward and to his right, *set*. The angle was fixed, the feet were behind, and there was nothing in that hand that could be chosen.
 
 The knock shut, and the hip was free, and the hip went.
 

@@ -206,7 +206,7 @@ He wrote Hesk a letter before he slept. It was short, because the things in it w
 
 ---
 
-The word came to Coss secondhand, at a table, over a cup of the registry's bad tea, and nobody who said it had the least idea it had anything to do with him.
+The word came to Coss secondhand, at a table, over a cup of the registry's bad tea. Coss had been the officer of record on the boy's thin file for over a year, and two months ago had sent one signed note upward about the line in it, into a silence that had not ended; and nobody at the table who said the word had the least idea it had anything to do with him.
 
 It was the Thursday officers' table, the weekly one, in the long cold room on the second floor where the river-side and the Ranked-side officers sat for an hour together and read each other the week. Coss had sat at it every Thursday for eleven years and said, by his own count, about four things worth saying at it in all that time. He was there to be seen to be there. Most of the men round it were.
 
@@ -218,7 +218,7 @@ There was some laughter, of the tired Thursday kind.
 
 Coss did not laugh, and he did not do anything else either. He sat with his hands round his cup and his face exactly as it had been, and he felt the cold go through him again, the slow cold of stepping off a bank into deeper water than he had thought.
 
-He knew the file. He knew it before the man had finished the sentence. There was only one unranked boy in the river-side district whose file sat on a shelf in the long room with a line in its classification block that had no name beside it, and a note above Coss's own name in the routing that had gone up into the floors and never come down. He knew the boy's face. He had sat across a pie from it, a year and more ago, at a table in the district, and been asked whether he knew what a flag was.
+He knew the file. He knew it before the man had finished the sentence. There was only one unranked boy in the river-side district whose file sat on a shelf in the long room with a line in its classification block that had no name beside it. He knew the boy's face. He had sat across a pie from it, a year and more ago, at a table in the district, and been asked whether he knew what a flag was.
 
 *In front of half the district.* That was the part that went through him. The boy had been findable on purpose, the whole time Coss had been watching his file from across the river; Havel's return had said so, in its neat level hand. *Calm, correct, likes it here.* Now the boy had stood up in the brightest room in his district and done a thing that people walked up from the coast to see, and it had come all the way across the bridge and up two flights of stairs, to a table where men laughed at it.
 

@@ -450,3 +450,104 @@ Per-chapter probe against source ch17, run after each chapter as instructed:
     - Per-chapter probes were run with the official `skeleton_probe.py` on each chapter as it was finished.
     - ch40's first draft exceeded the 5% bar (8% / 14%) and was rebuilt before ch41 was begun.
     - A stray `metrics.txt` was written to and deleted from `state/movement-006/`.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, done by reading in place against `REPAIR-BRIEF.md`. No sentence was split or joined by script. Only ch37–43 and this report were edited, and no git commands were run.
+
+### Rulings applied
+- **Bede and Maud:** no change (placeholder policy).
+- **"Three months":** kept everywhere, consistent with ch36.
+- **Accepted flags:** no change.
+- **Lira (boundary):** ch43 now says plainly that she still wants what lies behind the gate and is only done *asking* for it:
+  - her reckoning: "She still wanted them to think otherwise… she did not pretend to herself that she had";
+  - at the door: "I still want what's behind it; I'm only done asking."
+  Nothing mentions Greyvane or implies she no longer needs Fenmark's admission.
+- **The scout:** the name-at-the-door line is cut (ch42). Dace now says "I had the door ask her once. She wouldn't give a name." She gives no name in Ardenmere.
+
+### Priority 1 — Tallies reconciled
+
+**Keth bout: 9 knocked, 5 answered** (ch41 Log unchanged: *nine knocked, five answered. All inside a pace and a half.*)
+
+| Exchange | Knocks | Answered | Detail |
+|---|---|---|---|
+| One | 0 | 0 | |
+| Two | 6 | 3 | Smear at a pace and a half; answer; hope-painted smear (the cut); smear; answer; answer. Unchanged. |
+| Three | 1 | 1 | **NEW:** one knock at a pace on a false gift. It answers clean and confirms the heel's countersign: Keth's weight is "sitting back on the far foot, gathered, held like a drawn bow." It adds no turning beat; Cael still stays out. |
+| Four | 2 | 1 | One smear at the meaning of a run. Then the knock at the meaning of the final chain, now named "the second knock of the exchange", answers late (*set*) into a body already moving. |
+
+The old ex4 "second came back clean" was the ambiguous double-count, so it was rewritten so that the late entry answer is that knock.
+
+**Other running tallies checked and fixed:**
+- **ch37 opening:** "nine and twenty-two" was 41%, which contradicted "a little worse than two in five". It is now **eight and twenty-two** (36%), between one in three and two in five as stated. Alcove 7/15 is unchanged.
+- **ch38 barge lad:** the narration had more answers than the summary (two knocks and one answer in ex2, plus "twice" in ex3, against "five knocks, two answers"). Ex3 now states six knocks, four smear and two answers. **Total 8 knocked, 3 answered** in narration, summary and Log.
+- **ch38 Orvet's woman:** the narration had shown only three knocks against "six, three". Now:
+  - ex2: 3 knocks, 1 answer (two smears added, "stood still on both");
+  - ex3: 2 knocks, 1 answer (an answered knock he only steps early on, then smear);
+  - ex4: 1 knock, 1 answer.
+  **Total 6 knocked, 3 answered.**
+- **ch38 alcove:** "the second it answered eight" is now "eight in seventeen". Series 6/15, 8/17, 9/18, 11/20.
+- **Supersedes the original report:** its barge-lad figure "2/5" is now **3/8**.
+
+### Priority 2 — Say it once
+- **ch38:** the join/knock mechanism is stated once, at Orvet's woman's second exchange: "That was what the knock was for… The knock put him in the right place to look, and then his eyes did the looking." That statement now carries knock-at-the-meaning and knock-won't-share-with-the-hip.
+  - Each test keeps its event and result.
+  - The barge-lad aftermath is reduced to the cost.
+  - Both bench summaries are reduced to numbers plus one clause.
+  - The Log entry and the grey-book line are reduced to tallies and the rule.
+- **ch41:** an orienting sentence at "The word came to Coss secondhand": he has been officer of record on the boy's thin file for over a year, and two months ago sent one signed note upward into a silence that has not ended. The later duplicate clause about the note is cut. The officers'-table choice is unchanged.
+- **ch43:** Cael's restatement of Lira's conclusion after "He lay awake…" is cut (two paragraphs). Kept: Lira's own realization, the lamp, Hesk's coat, the courier and *I didn't send it. It went.*
+
+### Priority 3 — Sentence weight, by hand, in the named passages
+- **ch39** (the plan through the short cut):
+  - 16 joins of clipped narration into subordinated sentences;
+  - the plan paragraph split at the turn from gaze to knock and Pressure;
+  - unchanged: landing beats ("He did nothing." / "And Cael was not there." / "He had not asked."), speech and fight length.
+- **ch40** (the false gifts through the strike): 10 joins. Unchanged: "It was enough. It was exactly enough.", "The lock let go." and "On every chain…".
+- **ch42** (Cael's own page): 6 joins.
+- **ch43** (Lira's catch through Vell's ruling):
+  - 7 joins;
+  - Vell's ~160-word speech paragraph split at its turn (to the room, then to Lira alone) with one narration beat;
+  - unchanged: "Maud stood still.", "There was no middle at all." and the hand landings.
+
+### Before / after (`ed.sh metrics book-02-iron-circuit 6`)
+
+| Measure | Working range | Before | After |
+|---|---|---|---|
+| Words | 35,000–37,500 | 36,171 | **36,097** (wc 36,174) |
+| Sentence mean | 13–15.5 | 13.55 | **13.87** |
+| Sentence median | — | 9 | 9 |
+| SD (population) | — | 11.59 | 11.92 |
+| ≤5-word share | up to ~34% | 30.8% | 31.0% |
+| ≥40-word share | ≤4.5% | 3.6% | **4.0%** |
+| Paragraph mean / median | median ≤30 | 40.96 / 26 | 40.79 / 26 |
+| Words per scene | 850–1,050 | 1,033.5 | **1,031.3** |
+| Scene breaks / 10k | — | 7.74 | 7.76 |
+| Flesch Reading Ease | — | 93.3 | 92.9 |
+| Flesch–Kincaid grade | 3.5–6 | 3.62 | **3.75** |
+
+### Checks after repair
+- `ed.sh overlap book-02-iron-circuit 6`: **0 unprotected**, 2 protected.
+- `ed.sh gates book-02-iron-circuit 6`: **0** on all seven chapters.
+- `sweep_probe.sh book-02-iron-circuit 6 6`: **0% skeleton, 5% close**. Per chapter: 0/6, 0/5, 0/4, 1/7, 0/5, 0/4, 0/4.
+
+### Changelist by chapter
+- **ch37:** opening tally 9 → 8 answered of 22.
+- **ch38:**
+  - barge-lad ex3 now six knocks, 4 smear and 2 answers; aftermath and summary compressed to 8/3;
+  - alcove "eight in seventeen";
+  - mechanism stated once at Orvet's ex2;
+  - Orvet's ex2 gets two smear knocks, and ex3 is now two chains (an answered knock, then smear);
+  - bench summary, Log and grey-book line compressed.
+- **ch39:** 16 sentence joins; the plan paragraph split.
+- **ch40:**
+  - ex3 gains one answered knock on a gift;
+  - ex4 is clarified to two knocks (smear, then the late answer at the final chain, carrying the "forward and to his right, *set*" read);
+  - 10 sentence joins.
+- **ch41:** Coss orienting sentence added; the duplicate note clause cut.
+- **ch42:** the scout's name line cut; 6 sentence joins on Cael's self-page.
+- **ch43:**
+  - Lira's boundary lines (still wants it; only done asking);
+  - Vell's speech split with a narration beat;
+  - 7 sentence joins;
+  - Cael's two-paragraph recap cut.

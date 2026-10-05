@@ -1,8 +1,8 @@
 # Chapter 37 — An Educational Period
 
-The ink on the back of his hand said nine and twenty-two, and he did not like either number.
+The ink on the back of his hand said eight and twenty-two, and he did not like either number.
 
-Nine was the knocks that had answered. Twenty-two was the knocks he had thrown since the bell at the brickworks had gone for the first shift, and the band behind his eyes had begun to count with him somewhere about the fourteenth. He sat back on his heels on the alcove floor and looked at the two numbers with the ache going round his head like a slow cart wheel, and did the sum he had done every morning for a week, and it came out the same: a little better than one in three, a little worse than two in five.
+Eight was the knocks that had answered. Twenty-two was the knocks he had thrown since the bell at the brickworks had gone for the first shift, and the band behind his eyes had begun to count with him somewhere about the fourteenth. He sat back on his heels on the alcove floor and looked at the two numbers with the ache going round his head like a slow cart wheel, and did the sum he had done every morning for a week, and it came out the same: a little better than one in three, a little worse than two in five.
 
 "Again?" said Brom.
 
