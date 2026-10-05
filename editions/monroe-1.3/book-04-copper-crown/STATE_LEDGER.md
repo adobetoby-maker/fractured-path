@@ -193,7 +193,7 @@ Open threads opened / advanced / closed:
 ## After Movement 2 (chapters 8–14; repair r1 applied 2026-10-05; recheck pending)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
-- Calendar: the false-feed discovery runs day 22 → "the week of sessions after"; Brom's wall scene the evening of day 31 (after the tenth session); the Lattice low hall day 33; the baseline day 48. Ch13 "a fortnight ago" (low hall → baseline), "four bad nights"; ch14 "most of a month" watching Ephram.
+- Calendar: the false-feed discovery runs day 22 → "the week of sessions after"; Brom's wall scene the evening of day 31 (after the tenth session); the Lattice low hall day 33; the baseline day 48. Ch13 "a fortnight ago" (low hall → baseline), "three bad nights"; ch14 "most of a month" watching Ephram.
 - Crown-yard practice rule: FIRST TO THREE CLEAN TOUCHES (Lira's first bout: four exchanges, 3–1).
 - Timber vs stone: four bursts on timber cost what three did on stone — a third more work, or about a quarter less per burst. "Four free" at the baseline.
 - Lira's record: three wins on day 28, eight by day 32 ("eight and nil"), nine by day 34.
@@ -233,3 +233,8 @@ Open threads opened / advanced / closed:
 - Ephram once corrected himself publicly in the cohort.
 - Brom's wrap carries Rooke's words in ink (BOOK_MAP §6).
 - The TA fumbles 4 × 19 in front of the office clerk (the packet's manufactured incompetence, seen by Cael).
+
+### Movement 2 — CLOSED (2026-10-05, after repair r1; Sol recheck: CLOSE WITH LINE FIXES — 1 applied)
+- Ch8–14, ~32,440 words. Mean 13.18, ≥40w 4.2%, 925 w/scene; overlap 0 (8 protected); probe 1% skeleton / 6% close; gates 0.
+- Recheck fix: ch13 "three bad nights" (not four) — ledger synchronized above.
+- Authorship: claude-opus-5-5. Published to the PWA: Book 4 edition ch1–14, "in progress".

@@ -158,7 +158,7 @@ Then he lifted the top sheet. By charter the note had to be read in the enrollee
 
 That was the whole of it.
 
-Four short sentences, against four bad nights and an hour of held breath and a shoulder that would complain until the week was out. He waited to be let down by them, and was not. There was nothing wrong in any of them. *Consistent across trials* was the only good word the instrument knew how to say, and it had said it.
+Four short sentences, against three bad nights and an hour of held breath and a shoulder that would complain until the week was out. He waited to be let down by them, and was not. There was nothing wrong in any of them. *Consistent across trials* was the only good word the instrument knew how to say, and it had said it.
 
 The Ash instructor signed. The Mire instructor's name came next, and under it a note on the sticking notch, initialled twice. The clerk pressed the stamp down, blotted, and closed the folder.
 

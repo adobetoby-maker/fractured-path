@@ -1,0 +1,225 @@
+# Chapter 15 — The Tally
+
+The stair outside the lecture range had fourteen steps, a landing, and fourteen more, and at the change from the second bell to the third about ninety people went down it in the time it takes to boil an egg.
+
+Cael went down it with them four mornings a week, the binder under his arm, and on each of those mornings he kept a tally in the margin with the stub of a pencil. It was not a game. It had rules, and he kept them: same stair, same hour, the same test for what went in. A head that turned to follow him went in. So did a step that checked, or an elbow in a neighbour's ribs, or a mouth that stopped talking as he came level and started again a little louder once he had gone by. Somebody who merely happened to be facing his way did not count. What counted was whether a person had decided to look, and after three years of crowds he could read that decision off the back of a neck.
+
+He had begun it in his second week on the bluff, for a reason that embarrassed him slightly and which he had written down anyway. He wanted to know when the staring would stop.
+
+At Greyvane it had stopped. Of that much he was sure. It had gone on for a month or so after the first sitting, then thinned, and then one morning he had walked the whole length of the long corridor without anybody nudging anybody, and had noticed only because it felt like taking off a wet coat. He had never put a figure on how long it took. He had been too relieved to count. Then he had come here, where the staring was worse and every story about him was finished before he arrived, and he had wanted a figure badly and had none.
+
+So he settled on a tally, about as rough a tool as a pencil could make. But a rough tool used the same way every time will still draw you a line, and this one had begun drawing. In his second week it stood at well over a third. By his sixth it had slipped a little under. Down the inside margin there was a column of fractions now, each with its date, falling the way a fever falls, slowly and with bad days in it. Another month and he would have a curve. With a curve he could say how long a name took to cool on a hill like this, which seemed worth knowing, since he expected to be carrying his for a while.
+
+The tally had taught him other things on the way, as tallies do. First-years stared hardest and longest and did not care who saw them do it. Fifth-years almost never turned their heads; they looked at him sideways, in the polished brass of the stair's handrail, and thought nobody noticed. Two girls in Current smocks had nudged each other every single morning for five weeks, as reliably as a clock, and he had begun to feel a sort of fondness for them. Iron students looked once and decided something. Copper students looked twice and could not decide. None of that went into the fraction. It went into the margin beside it, in smaller writing, because a count that recorded only the number had thrown away most of what it saw.
+
+That was all the tally was for. It measured the fame. It had no other job.
+
+On the fifty-eighth morning he came down the stair and wrote *29 of 91* in the margin, and stood a moment on the landing while the stream split round him like water round a post, and found that his pencil had gone on moving by itself, further down the page, and written a second line.
+
+*TA, assessment office: 0 of 7.*
+
+He looked at it for some time.
+
+He had not meant to write it, and that was the part he made himself take seriously. The binder had one habit older than any of its rules. When he caught himself noticing a thing, the thing went down before he had settled whether it mattered. If he waited to settle it, he would nearly always settle that it did not, and the thing would be gone, and he would never learn what he had thrown away.
+
+So it was down, and dated. He went back over it on the landing while the third bell rang across the roofs. There had been the copying table on the fifty-first day, when he had run all four layers over a quiet man with a pen and priced him at one line. Twice since, the wing's passage at a change of bell. Once the covered walk. Once the east hall's stair. Twice the office counter, with forms going over it. Seven times within a few paces of the man who sat beside the calendar on which Cael's evaluations were written, and not once had the man lifted his eyes. There had been no glance, and none of the small twitch of attention a person spends on a door when it opens, and none of the half-turn of the head that every second student on the bluff gave him without thinking.
+
+None of that was odd, taken alone. Clerks attend to their forms. He could have named a hundred people on a hundred roads who would never have looked at him seven times running.
+
+He shut the binder and went in to his lecture.
+
+But the line was written now, under the fame tally, and for the next two days, every time he opened the binder, his eye snagged on it the way a sleeve snags on a nail.
+
+---
+
+For two days he left it alone, and he was quietly pleased with himself for the two days, though he would not have admitted it to Lira for a purse of silver.
+
+The difficulty was his own rule. One was an accident, two a coincidence, three a structure; he had carried it since Denvash. He had broken it exactly once, at Ardenmere, building a whole plan on a single sighting, and the plan had come down in front of people who mattered, and he had underlined the cost in the binder in two colours so that he would remember it on mornings like this one. By the rule, seven was plenty. Seven was a structure twice over.
+
+Except that the rule had been cut for tells, for a shoulder that dipped the same way in four bouts or a breath that caught before a strike every time. It was a rule about things bodies did. Here he had a thing a body had not done, seven times, and he had never once tried to stand anything on top of an absence. He could not say whether three nothings made a pattern or only a bigger nothing. The honest answer, he suspected, was that it turned on how much of something he ought to have expected, and he had no idea.
+
+So he went to find out how much. It was the dull answer and the right one, and he knew it before he had finished trying to talk himself into a cleverer one. More data first. The idea could wait.
+
+Lira noticed, of course. She noticed on the first evening, on the wall behind the second quadrangle, where she was counting the grey coats at the ferry landing and he was supposed to be reading.
+
+"You've got your number face on," she said, without turning her head.
+
+"I haven't got a number."
+
+"You've got the face you make before you've got one. It's worse." She watched the coats a moment longer. "Is it me?"
+
+"No."
+
+"Is it Brom?"
+
+"No. It isn't anybody yet. It's a line in a margin." He shut the binder on his thumb. "When it's more than a line, I'll put it on the table. All of it, at once."
+
+Lira considered that, and him, and nodded once, the nod she gave a feed she had decided to let go by. "Data first," she said. "I know. I've met you." Then she went back to the coats, and did not ask again, which from Lira was a kind of gift.
+
+From the sixtieth day he counted the man wherever they crossed. Every time they shared a space at the same moment and a look would have cost the man nothing, it went in the margin with the place and the bell. The wing's passage, the office counter, the covered walk. The east hall, where the gallery ran along the north wall above the floor while Cael trained. The tiers of the Crown yard on practice afternoons. The queue at the residence board one morning, with the man three places behind him holding a sheaf of notices to pin.
+
+And this time he did something he had not done at the start. He kept a second column beside the first, for the wing's other staff.
+
+It was Karis's trick, really, though she did not know he had borrowed it. A figure on its own told you nothing; you needed another figure from the same place to stand it against. So whenever the regular clerk, or the woman who kept the apparatus oiled, or either of the two who fetched and carried for the panels was in reach at the same moment, he tallied them too.
+
+By the evening of the sixty-sixth day the columns read like this, on a page he would keep for the rest of his life.
+
+*Desk clerk: 9 of 14.*
+
+*Oil and brass: 5 of 11.*
+
+*Porters to the panel, together: 7 of 19.*
+
+*TA: 0 of 31.*
+
+He sat on the end of his bed with the binder across his knees and the lamp turned up, and he looked at the four lines for a long while without writing anything under them.
+
+The first thing to do with a number that looks impossible is to find out whether it is, so he set out the sum the slow way, distrusting every step, the way Karis set out a clause. A grown man on the staff, who had seen a thousand enrollees come and go, would care about him less than a first-year on a stair; put his chance of a look at one in six. Thirty-one tries at that should have earned about five looks. None at all was a long shot. Long shots came in somewhere every day, though, and a man who forgot it would end up reading omens in clouds.
+
+Then he laid the control column beside it, and the sum stopped being about strangers at all.
+
+The other four in the wing were not strangers. They had read the same hearing and they worked in the room where its result was kept, and between them they had looked at him more than half the time. The desk clerk had looked nine times in fourteen. Two of the four plainly found him interesting, the way people find a puzzle interesting when it walks in off the street and asks for a form. And the fifth man in that office sat closer to Cael's paper than any of them. He had copied Cael's floor times into the ledger in his own hand. He had turned the sheet over to read the authorizations on its back, the only clerk Cael had ever watched do that. He was the one person in the wing with the most reason to be curious.
+
+Thirty-one chances, and nothing.
+
+Nothing unlikely about it, then. That was a man doing something.
+
+He did not write that down. He wrote the four columns and the sum, and under them a single word, *what?*, and turned the lamp out, and lay listening to the barges calling to one another on the river until long after the second watch.
+
+---
+
+His method, he discovered over the next days, had a hole in the middle of it that he had never had cause to find.
+
+Everything he knew how to read in a person was something the person let slip. The rhythm of a body under load, where its weight went before it committed, how the breath behaved under strain, where it stood when it was allowed to choose, and best of all the moments when those four contradicted one another: every one of them was a leak. He had spent three years learning to catch drips. He had never needed the method to work on somebody who did not drip.
+
+He tried anyway, more than he liked to remember afterward. He went over the man four more times, each time harder, and each time the layers came back flat and in perfect agreement and said what they had said on the first afternoon. The pen kept one pace. The breath was ordinary. The weight sat like the weight of somebody who has stood at desks all his life.
+
+The fourth attempt was the one he would sooner have forgotten.
+
+He went to the office counter with a question about the filing date of his own next floor sheet. He knew the date perfectly well; he could have recited it in his sleep. And he made the question last. Was it the evening before the session, he asked, or the morning of? Did a notice pinned on the residence board count as delivered, or only one put into his hand? If a sheet went up after the last bell, was it posted that day or the following one? He heard himself ask that third question and wanted to sink through the floor, and asked it anyway, because he had come for four minutes and meant to have them. The desk clerk answered every word with the kindly patience of a man explaining stairs to a puppy. Two paces off, the man at the copying table went on copying, line after line, and never raised his head.
+
+Cael came out into the passage with his ears on fire and nothing in his notebook but the date he had known when he went in.
+
+On the stair that afternoon, still hot about the ears, he gave it up. He was done with the man. If the man would not leak, then Cael would stop holding a cup under him and look at the room instead.
+
+What came of that did not look like the rest of the binder. It had no columns for confirmed, probable and discarded. It was a shorthand, pared down so he could write it walking, in a few strokes:
+
+*61 · 2b · hall 3 gall · W end by the turned post · all floor, both doors.*
+
+*62 · 5b · yard · high W, mid of 5 · rings lengthwise, N stair, wing gate.*
+
+*63 · 3b · lect. stair · 2nd landing, wall side · whole stair, top to foot.*
+
+Day, bell, where the man had stood, what could be seen from there. Nothing about the man at all.
+
+He needed something to hang the shorthand on, and it took him four tries to make it. He kept every one of them, each with its failure written across it, because a dead method left lying about unlabelled had a habit of coming back to life at two in the morning dressed as a new idea.
+
+The first map was a clock. He drew his week as a wheel of hours and marked where the man had been at each, hoping some hour would stand out. None did. At every hour the man had been somewhere a clerk might plausibly be, which was everywhere. *Time is the wrong axis*, he wrote across it.
+
+The second followed the paper. He tried to note which forms the man was carrying at each sighting, on the idea that a clerk's errands would explain his routes and anything left over would be the interesting part. He could not read forms at twenty paces, and at five paces he could not stare at them without staring at the man. After three days he had a page of guesses. He struck it through and wrote at the top, in capitals, *KILLED, NO SIGNAL*, with the date, so that it would stay buried.
+
+The third listed whom the man spoke to. It came out as the desk clerk, a porter, two instructors asking after forms, and once a first-year who had lost her timetable. *Ordinary. Nobody repeats. Killed.*
+
+The fourth was the first one with the right idea in it. It gave up the man altogether and drew the bluff, every hall and passage and stair as a box with a letter in it, so that each sighting could be filed under its room. It took him two evenings. And it was wrong in a way he could not see until he had poured three days of shorthand into the boxes and found the shorthand would not go in. The man was never in a room. He was always on the edge of one. Rails, landings, the top of a stair, the middle of a knot of five people on a tier: the seams between one space and the next, where a person can stand still for a long time without anybody feeling that he has stopped.
+
+Across the fourth map, smaller than the rest, he wrote: *Not boxes. Seams. Draw what can be seen.*
+
+---
+
+He drew the fifth map on the night of the sixty-sixth day, after the sum, with the lamp turned so low that Brom put his head round the door to ask whether he had gone blind or simply mad.
+
+"Neither," said Cael, not looking up. "Go to bed."
+
+"I am in bed. I'm just in it standing up in your doorway." Brom peered at the page. "Is that a spider?"
+
+"It's the bluff."
+
+"It's a very bad bluff," said Brom kindly, and withdrew.
+
+It did look like a spider. He had drawn it in sight, not in stone. From every rail and landing and tier he had ruled thin pencil lines showing what could be seen from there, fanning out across the paper, until the hill looked less like a hill than a torn net. Then he set the shorthand onto it, a small ink dot for every position the man had held since the sixty-first day.
+
+The dots did not fall on the lines at random. Each one sat on a knot, where many lines crossed.
+
+He was looking at that, and turning it, when the floor of the whole thing seemed to tilt under him, and the hair on his arms stood up.
+
+For a week he had been asking where the man was. And for a week the bluff had given him the same answer: somewhere sensible, on an errand. A teaching assistant carried paper, and paper had business in every passage on the hill. There was nowhere on the bluff that a man with an armful of forms would look out of place, so there was nowhere that finding him proved anything. It was beautifully done, Cael thought, and he had been staring at it for a week like a fool at a conjurer's empty hand.
+
+He had the right question already. He had carried it onto every floor for three years, against every opponent he had never met, before a single exchange. He had simply never thought to carry it into a building.
+
+*Where would I stand?*
+
+He turned to a clean page and started again, and this time he left the man out entirely. He took each hour of his own week, every session and lecture and meal and practice afternoon, and worked out the one place on the bluff from which a watcher would see the most of it. It was a sum he could do. In the Ironyard he had done harder ones under fourteen lamps with a crowd shoving at his back, hunting the angle from which a fighter's off hand could not hide behind his own shoulder.
+
+Take the east hall at the second bell. The gallery's stair came down at the east end and its rail screened the floor nearest it, so a watcher wanted the far end, the west, just past the post where the rail turned, where the whole floor and both doors lay open below. The Crown yard on a practice afternoon wanted the high west tiers, where the eye ran down the length of the rings and not across them, with the north stair and the wing's gate at the edge of sight. The stair outside the lecture range wanted the second landing, on the wall side, where the crowd going up and down made a moving screen between the watcher and anybody who might think to look at him.
+
+He marked those in a second ink, brown over the black, one dot for every hour.
+
+Then he lifted the page to the lamp so that the two layers showed through each other.
+
+They were one layer.
+
+He went over them with the point of the pencil, slowly, as if the dots might shuffle when he blinked. He had nineteen positions logged across five days. In nineteen cases out of nineteen the man from Gault's office had been standing exactly where Cael would have stood if it had been Cael's work to watch Cael.
+
+He set the pencil down with care, the way a man sets down a cup filled to the brim.
+
+Then, because a match that good deserved to be argued with, he went looking for the hours that did not match. There were some. On four of the hours in his week, the shorthand had no dot at all: the man had simply not been anywhere Cael could see. He turned to the wing's posted hours, which hung in the passage for anybody to read and which he had copied into the binder in his first week out of pure habit. On all four of those hours the office kept its counter open with a full staff. The man had not been on any landing because he had been at his desk, where an assistant was bound to be. Even his absences were in order. Even the holes in the net had a clerk's reason sitting in them.
+
+Down on the river a barge called its long note and its two short ones, and another answered from upstream. Along the passage Brom's bed creaked as he turned over. Cael sat in the little light with the two inks in front of him and did not feel clever in the least. He felt the way he had felt as a boy at Hesk's bench, when Hesk had held a new casting to the window and shown him a crack running under the polish. It had been there all along. Until you knew where to look it was invisible, and after that you could never again not see it.
+
+---
+
+He tested it the next morning. He had believed patterns before because he liked the look of them, and this one he liked a great deal too much; he meant to try breaking it before it was allowed anywhere near a conclusion.
+
+He began with the bluntest test he could devise, and expected little of it. At breakfast he asked Brom whether he would trade floor times for the coming Sixth-day: Cael's supervised hour in the east hall for the later one Brom had booked in the north hall to work at his post.
+
+Brom looked at him over a spoon.
+
+Long ago, at Ardenmere, Cael had worked out that Brom sorted his requests into two boxes. In one went the requests whose reason Cael would give at once. In the other went the requests whose reason would come later, when Cael had finished being sure. In three years Brom had never asked which box a thing belonged in, and Cael had never caught him putting anything in the wrong one.
+
+"All right," said Brom, and returned to his porridge.
+
+Floor times on the bluff moved by paper and by nothing else, so the trade went to the assessment office before noon on a half-sheet in Cael's hand, countersigned for Brom's cohort. Cael took it there himself. The desk clerk read it, initialled the corner, and passed it across to the copying table. There the man with the steady pen read the front, turned it, read the back, wrote both changes into the ledger, and laid the sheet on its pile, without a glance at either the paper's owner or the paper's subject.
+
+Cael was a dozen steps up the passage before he understood what he had done.
+
+He stopped dead. A girl carrying an armful of practice smocks nearly walked into his back, said something short, and went round him.
+
+He had given the man the answer. Floor times went through the office; the office was the whole of the arrangement. He had taken the one change he wanted the man to fail to foresee, written it out in ink, and carried it to the very desk he meant to catch napping. Then he had stood there and watched it copied into the ledger. Whatever Sixth-day showed, it could show nothing at all about whether the man knew where Cael would be, because Cael had told him.
+
+He found Brom an hour later in the second quadrangle, sitting on the edge of the trough with his wraps across his knees.
+
+"The trade," said Cael. "Undo it if you like. It's no good to me."
+
+Brom raised his eyebrows. "That was quick."
+
+"I built a trap and then walked across and handed the man the drawings." He sat down on the cold stone beside Brom, and it was easier to say aloud than he had expected. "I wanted to see whether he'd be in the wrong place. He can't be in the wrong place. Everything I do crosses his desk before I do it. Any test I write down, he's read before it happens."
+
+Brom thought about this, winding a wrap round two fingers and unwinding it.
+
+"So don't write it down."
+
+"No." Cael was looking across the quadrangle at nothing in particular. "No. I won't."
+
+"This is one of the later ones, is it?"
+
+"Yes."
+
+"How much later?"
+
+"Not much." Cael got up. "Keep the trade. Have my hour on the timber. You'll make more of it than I will this week."
+
+Brom nodded, as though that settled some private question, and bent to his wraps. Then, without looking up, he said, "Is it why you've stopped looking at the wing door?"
+
+Cael, half turned to go, stopped.
+
+"We pass it twice a day," said Brom to the wrap. "You used to look at every door on this hill as if it owed you money. That one, you've gone past for a week like it's a wall." He tied off the end. "Only asking."
+
+"Later," said Cael, after a moment. "But yes."
+
+"Thought so." Brom held the finished wrap up to the light, frowned at it, and began unwinding it again to do it better. With Brom, the slower he wound a wrap, the faster he was thinking; Cael had learned that the first winter at the Ironyard, and had seen nobody else on any floor learn it since.
+
+Upstairs, before anything else, Cael opened the binder at the fifth map and wrote the trade down under it as a failure, in plain words, with the date.
+
+*Floor trade, through the office. Useless; I put it in his hands. A test he can read first proves nothing. The next one goes nowhere near the counter.*
+
+He read it over. It was the fourth thing in a week he had written down as wrong instead of letting it quietly drop, and he found, to his mild surprise, that he had stopped minding. The failures were the part of the work that kept the rest of it honest. A page of nothing but successes, he thought, would have been the page to distrust.
