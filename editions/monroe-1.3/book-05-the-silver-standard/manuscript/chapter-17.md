@@ -4,7 +4,7 @@ Seln settled the inn's account first, because it needed settling.
 
 He found the landlord where the landlady said he would be, in the alehouse at the far end of the quay, at a table by the fire with two bargemen and a game of dominoes.
 
-He waited until the hand was finished. Then he laid the delegation's tally on the table and went through it line by line in the light of the fire: beds for the whole delegation, five nights, supper and breakfast, the stabling, the wagon yard, a charge for coal that was too high and was brought down without unpleasantness.
+He waited until the hand was finished. Then he laid the delegation's tally on the table and went through it line by line in the light of the fire: beds for the whole delegation, six nights, supper and breakfast, the stabling, the wagon yard, a charge for coal that was too high and was brought down without unpleasantness.
 
 The landlord signed. The figure went into the travel file in Seln's small, square hand.
 
@@ -54,7 +54,7 @@ By the time the alehouse put its lamps out, Seln knew that there was a file in t
 
 He knew roughly where the one copy in the quarry town was kept, and what kind of person kept it.
 
-What he did over the next three evenings, and with whom, and at what price, nobody would ever be able to write down. Nothing of it was ever written anywhere. He had arranged it that way, as he arranged most things, so that there would be nothing to find.
+What he did over the two evenings after that, and with whom, and at what price, nobody would ever be able to write down. Nothing of it was ever written anywhere. He had arranged it that way, as he arranged most things, so that there would be nothing to find.
 
 ---
 

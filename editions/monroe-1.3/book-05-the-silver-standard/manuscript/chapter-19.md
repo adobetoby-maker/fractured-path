@@ -398,7 +398,7 @@ Cael said nothing for a while. She had earned a while. Then, because she had bro
 
 "She's the one who brought my things out to me," Lira said. "At the end. They'd shut the wing to me by then. She'd folded everything and put it in my bag, and carried it down to the gate herself, and she didn't say anything, because there wasn't anything anybody was allowed to say."
 
-She drank the last of her mug. "So she nodded this morning, and I nodded back. One each. That's the whole estate. Institution's bankrupt; the person gets paid."
+She drank the last of her mug. "So she nodded at the coat-rack, and I nodded back. One each. That's the whole estate. Institution's bankrupt; the person gets paid."
 
 She set the empty mug on the step between them. Then she put her hand on her coat, over the folded page, and was quiet for a while.
 

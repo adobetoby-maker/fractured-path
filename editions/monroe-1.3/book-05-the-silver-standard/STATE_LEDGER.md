@@ -461,7 +461,7 @@ Bracket formats as now on the page:
 
 **Movement 2 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied in ch12 (the Bronze's 'twenty feet' made hearsay — meet records are figure-only; 'when they posted' for the academy Irons' figures). Where the author end-state above predates r1 (Seln's comparison figures, Rooke's 'bad mornings', the Bronze 'not counted'), the manuscript governs. Overlap 0/14, gates 0, probe 1%/6%.
 
-## AFTER MOVEMENT 3 — chapters 14–19 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 3 — chapters 14–19 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - THE MARKET is at the QUARRY TOWN (the third meet): the three coats (Auremont's two scouts, handicappers, compilers), the board-man, Brom's dossier returned 'like a dropped glove', Karis's information audit, Seln's cutaway and the table — all here, not at the mill town. The records-broker thread CLOSES BENIGN ('the market, not the Compact'); the dossier circulates permanently. 'Shop' is the word for the commercial compiler.
@@ -669,3 +669,5 @@ Bracket formats as now on the page:
 - **Rooke's file line:** *Takes a loss like freight. Ready.*
 - **Seln's policy sheet:** *Delegation: correspondence and floor discipline.*
 
+
+**Movement 3 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — three applied (ch19 'So she nodded' the missed two-day quay line; ch17 the six-night stay; ch17 the evenings count against the third-night read). The grey-wool woman's 'a little less tidy' was cut in r1 — the manuscript governs. Overlap 0/11, gates 0, probe 1%/6%.
