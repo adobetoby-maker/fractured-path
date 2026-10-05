@@ -1,6 +1,6 @@
 # Chapter 26 — Nineteen
 
-Brom sent his challenge up to Tarn for the twelfth session, and told nobody until it was on the board.
+Brom sent his challenge up the Copper ladder to Tarn for the twelfth session, and told nobody until it was on the board.
 
 Cael found it there on the morning of the posting, in the clerk's square hand among two dozen others: the Iron Skin's name, an arrow, and four lines higher on the Copper sheet a Blade third-year's. He stood in front of it for a while. Brom had beaten Merrick by refusing to turn, and the whole cohort had been feeding him short ever since to find out whether the refusal would hold, and it had held, mostly, for three weeks. Tarn was the best short feeder in the cohort. He was the one who had found the left heel.
 
@@ -12,7 +12,7 @@ Cael found it there on the morning of the posting, in the clerk's square hand am
 
 "I might." Brom tore the bread in half with some care. "Rooke says nobody knows what they'll be in until the brackets close. Rooke says a lot of things. I'd like one of them to be true about me."
 
-The twelfth session came up grey and windless, and the tiers were thinner than they had been for Lira. Cael took his place on the east side early. He did not look at the brass lamp. He did not look at the upper west tier. It was the thirteenth day without counting, and the urge to look had worn down from a tug to a habit, and the habit to something he only noticed when he was tired. Lira came up the tier a little after him and sat down on his left, slowly, with the stiff leg out along the stone in front of her, and Karis came behind her with the grey notebook under her arm and sat on his right, which she had begun to do at Brom's bouts without anybody asking her to. None of them said anything. Brom's bouts were not the sort of thing they talked through. They were the sort of thing they sat through, side by side, the way people sit in a waiting room while somebody they love is having a tooth drawn.
+The twelfth session came up grey and windless, and the tiers were thinner than they had been for Lira. Cael took his place on the east side early. He did not look at the brass lamp. He did not look at the upper west tier. It was the thirteenth day without counting, and the urge to look had worn down from a tug to a habit, and the habit to something he only noticed when he was tired. Lira came up the tier a little after him and sat down on his left, slowly, with the stiff leg out along the stone in front of her, and Karis came behind her with the grey notebook under her arm and sat on his right, which she had begun to do at Brom's bouts without anybody asking her to. None of them said anything, because Brom's bouts were not the sort of thing they talked through. They were the sort of thing they sat through, side by side, the way people sit in a waiting room while somebody they love is having a tooth drawn.
 
 He opened the binder at Tarn's page and read it again, though he knew it by heart.
 
@@ -26,7 +26,7 @@ Tarn fed.
 
 It was exactly what Cael had seen on the oak, only quicker. The strike came short and flat at Brom's left forearm, and it looked committed right up until the wrist, and behind the wrist there was nothing. Brom did not turn. The Iron Skin came up under the blow with a sound like a mallet on a post, and his weight stayed where it was, square, and the feed died on him as if he had been a wall.
 
-Tarn fed again, shorter. Brom held. A third, a fourth, so quick together that the tiers heard them as one rattle. Brom held all four, flat, at full price, and Cael could see the price from forty feet: the guard coming back a hair slower after each, the breath going short and hard.
+Tarn fed again, shorter, and Brom held. A third, a fourth, so quick together that the tiers heard them as one rattle. Brom held all four, flat, at full price, and Cael could see the price from forty feet: the guard coming back a hair slower after each, the breath going short and hard.
 
 Then Brom stepped forward through the space the fourth feed had left, and put his open hand on Tarn's collarbone.
 
@@ -34,7 +34,7 @@ Then Brom stepped forward through the space the fourth feed had left, and put hi
 
 The cohort, sitting together in a dark knot on the lower south tier, made a low sound, half approval and half surprise. Cael wrote the first exchange in four lines. *Held four. Paid for four. Took the touch through the gap the feeding left. The door, again.*
 
-On the second exchange Tarn changed nothing except the speed, and the speed was enough. Six feeds now, faster than any Cael had seen on the oak, and Brom held six, and the sixth he held a fraction late, so that the strike reached his ribs before the hardening was all the way up. It was not a clean touch; a strike taken on a set guard was not clean. But it rocked him. Tarn slipped round the rocking and touched him behind the shoulder.
+On the second exchange Tarn changed nothing except the speed, and the speed was enough. Six feeds now, faster than any Cael had seen on the oak, and Brom held six, and the sixth he held a fraction late, so that the strike reached his ribs before the hardening was all the way up. It was not a clean touch; a strike taken on a set guard was not clean. But it rocked him, and Tarn slipped round the rocking and touched him behind the shoulder.
 
 "Blade. One each."
 
@@ -46,19 +46,19 @@ The third went to Brom, ugly and short. He took three feeds flat on the forearm,
 
 "Nearly." Lira's hand had closed on the edge of the stone tier beside her. "Look at his guard. It's coming back half a beat after he tells it to."
 
-Cael had stopped writing. He was watching Brom's left heel.
+Cael had stopped writing; he was watching Brom's left heel.
 
 ---
 
 The fifth exchange began with four short ones.
 
-He did not hurry them this time. He spaced them, a breath apart, each one exactly like the one before, the same height, the same weight, the same nothing behind the wrist, so that by the fourth they were less like strikes than like a drip falling on a sill. Brom held the first. He held the second. On the third his guard came up so slowly that Cael felt his own forearm tighten in sympathy. He held the fourth, and stood there with his breath going in and out of him like a bellows with a split in it, and Tarn stepped back half a pace and let him stand, and the yard went quiet without knowing why.
+He did not hurry them this time. He spaced them, a breath apart, each one exactly like the one before, the same height, the same weight, the same nothing behind the wrist, so that by the fourth they were less like strikes than like a drip falling on a sill. Brom held the first, and the second. On the third his guard came up so slowly that Cael felt his own forearm tighten in sympathy. He held the fourth, and stood there with his breath going in and out of him like a bellows with a split in it, and Tarn stepped back half a pace and let him stand, and the yard went quiet without knowing why.
 
 The fifth feed came in exactly like the four before it.
 
 And Brom's left heel came up off the boards.
 
-It was a hair. Cael saw it because he had seen it three times on the oak with fourteen people watching and Rooke's voice saying *watch the heel*, and nobody else in the yard could have seen it at all. Brom did not decide anything. His face did not change. His body, with nothing left in it to argue with, went out to meet the fifth feed the way it had gone out to meet feeds since he was twelve years old: the hardening letting go along the near side, the drive still on its way up through the far side, and between the two, for a quarter of a second, nobody holding him up.
+It was a hair. Cael saw it because he had seen it three times on the oak with fourteen people watching and Rooke's voice saying *watch the heel*, and nobody else in the yard could have seen it at all. Brom did not decide anything, and his face did not change. His body, with nothing left in it to argue with, went out to meet the fifth feed the way it had gone out to meet feeds since he was twelve years old: the hardening letting go along the near side, the drive still on its way up through the far side, and between the two, for a quarter of a second, nobody holding him up.
 
 Tarn had been waiting four feeds for that quarter of a second. Tarn's hands went into it twice, ribs and then hip, and a third time into the place where Brom's balance had been a moment before, and Brom went back one step and another, with his arms coming round too late, until his heel was on the chalk line of the boundary and there was no floor behind him.
 
@@ -70,7 +70,7 @@ There was a bench at the floor's edge for fighters waiting their turn. He sat on
 
 Cael came down from the tiers. He had nothing to tell Brom that Brom's body had not told him already, more plainly than any words could, so he told him nothing. He sat on the same bench, at its other end, leaving a good arm's length of empty plank between them. It was the old Ardenmere arrangement: the one who had lost sat where he fell, and the one who had not sat a little way off, near enough to be there and far enough not to crowd. In three years neither of them had ever once needed to say so.
 
-They sat. The next bout's terms were read out. On the north tier somebody laughed at something that had nothing to do with either of them.
+They sat while the next bout's terms were read out. On the north tier somebody laughed at something that had nothing to do with either of them.
 
 After a while Brom said, to his boots, "Fifth."
 
@@ -86,7 +86,7 @@ Somebody's shadow fell across both their boots.
 
 ---
 
-Rooke had come along the bottom tier without either of them hearing him, as he came along the east hall's wall every evening, and now he stood in front of the bench with his hands loose and his weight even and looked down at Brom. Brom looked up. Neither said anything for the space of three breaths.
+Rooke had come along the bottom tier without either of them hearing him, as he came along the east hall's wall every evening, and now he stood in front of the bench with his hands loose and his weight even and looked down at Brom. Brom looked up, and neither said anything for the space of three breaths.
 
 "Which feed?" said Rooke.
 
@@ -104,13 +104,13 @@ Rooke had come along the bottom tier without either of them hearing him, as he c
 
 Brom sat very still.
 
-"Six years you've been turning," said Rooke. "On any floor that would have you, with nobody to tell you the order was wrong. Six weeks you've been learning to hold. Four feeds in, against a good feeder, your body will pick the six years over the six weeks, and the body won't be wrong. That's the whole use of practice. It's meant to win when you're too tired to argue with it. You held four today. The fourth was the best hold I've seen from you, and I've watched every one." He let that settle. "And it doesn't matter. Holding is a decision. The fifth will always come."
+"You've been turning since you were a boy of twelve," said Rooke. "On any floor that would have you, with nobody to tell you the order was wrong. Six weeks you've been learning to hold. Four feeds in, against a good feeder, your body will pick the years over the weeks, and the body won't be wrong. That's the whole use of practice. It's meant to win when you're too tired to argue with it. You held four today. The fourth was the best hold I've seen from you, and I've watched every one." He let that settle. "And it doesn't matter. Holding is a decision. The fifth will always come."
 
 "So what do I do," said Brom, and it came out rougher than he meant.
 
 "Stop fighting the turn. Mend it." Rooke held out a folded sheet, and Brom, after a moment, took it from his hand. "There is one fault in it, and I can tell you the fault. You finish the absorption before you start the drive. Somebody taught you to let the hardening go all at once on the side that's struck, cleanly, like a door closing, and only then load the other side. For that instant nothing holds you up. That's the heel. That's the seam. So you'll stop finishing it. You'll learn to start the drive while you're still hard on the struck side, and let the one bleed into the other. It's slower to learn and it will feel wrong in your legs for a month."
 
-Brom had opened the sheet. Cael, from his end of the bench, could see close columns in Rooke's narrow writing and a list of numbers down the left side, and at the bottom, alone, a date. He knew the date. Everybody on the bluff knew the date.
+Brom had opened the sheet. Cael, from his end of the bench, could see close columns in Rooke's narrow writing and a list of numbers down the left side, and at the bottom, alone, a date. He knew the date, as everybody on the bluff knew the date.
 
 Brom read the date and did not say anything at all. His face did something Cael had seen it do only once before, in the Greyvane yard, the day a stranger had looked at his redirect and told him it was good work.
 
@@ -118,7 +118,7 @@ Brom read the date and did not say anything at all. His face did something Cael 
 
 "That's the final," said Brom quietly, of the date.
 
-"That's the final." Rooke did not look at the sheet. "Not for your sake, before you start thinking well of me. Next year the continent reads this school's closing sheets when it picks a squad. If your paper keeps you at Copper another year, I'd rather Copper had nobody on it with a hole a whole cohort can draw on a slate." He was already turning away. "Four a week. Bring me the number, not your opinion of how they went. Whether they were any good is mine to say."
+"That's the final." Rooke did not look at the sheet. "Not for your sake, before you start thinking well of me. Next year the continent reads this school's closing sheets when it picks a squad. If your classification keeps you at Copper another year, I'd rather Copper had nobody on it with a hole a whole cohort can draw on a slate." He was already turning away. "Four a week. Bring me the number, not your opinion of how they went. Whether they were any good is mine to say."
 
 He went off along the bottom tier, unhurried, and did not look back.
 
@@ -136,7 +136,7 @@ Brom sat holding the sheet open on his knees until the next bout had finished.
 
 ---
 
-Karis did not just keep the count. She ruled it.
+Karis did not just keep the count; she ruled it.
 
 By the ninth bell that night there was a page in her grey notebook, the same notebook that held the finding, with nineteen columns across the top, one for each exercise, numbered in her small hand. Down the left ran the dates from the twelfth session to the final, a line for each week, with four boxes on every line. At the foot of the page, ruled off twice, was the date Rooke had written on his sheet.
 
@@ -190,11 +190,11 @@ He sent his challenge up to the second line, and the yard settled in to see whet
 
 She could not be made to wait. But it took nine minutes, every one of them hard, and Cael's pencil did not stop moving once.
 
-The plan showed in the first exchange, and it showed most clearly in what the Current fighter would not do. Every fighter Lira had met that season had tried to meet her somewhere, at her landing, at her side, at the place where the burst would leave her, because a Wind fighter's whole danger lay in where she arrived and everybody had been taught to be waiting there. This one did not meet her anywhere. The Current fourth-year did not chase her. When she burst, he did not try to be where she would land. He gave ground, and turned, and kept his hands quiet, and refused to commit to anything at all, so that every burst she spent went into empty air and came down a pace from a man who had already moved on. He was waiting. Cael saw it before the first exchange was half done, and his stomach went cold. The man was counting.
+The plan showed in the first exchange, and it showed most clearly in what the Current fighter would not do. Every fighter Lira had met that season had tried to meet her somewhere, at her landing, at her side, at the place where the burst would leave her, because a Wind fighter's whole danger lay in where she arrived and everybody had been taught to be waiting there. This one did not meet her anywhere. The Current fourth-year did not chase her. When she burst, he did not try to be where she would land. He gave ground, and turned, and kept his hands quiet, and refused to commit to anything at all, so that every burst she spent went into empty air and came down a pace from a man who had already moved on. He was waiting. Cael saw it before the first exchange was half done, and his stomach went cold: the man was counting.
 
 *They've built for her,* he wrote on his knee, fast. *Rooke's cohort has a plan. Don't chase. Don't try to be where she lands. Give her nothing to hit till she's spent three. Then the fourth landing is yours. On the fourth, she's out of breath and out of hip and locked for half a breath in front of a fresh man.*
 
-It was a good plan. It was the plan Cael would have made himself, with his own hip, if he had wanted to beat her.
+It was a good plan, the one Cael would have made himself, with his own hip, if he had wanted to beat her.
 
 It did not work. She spent two.
 
@@ -202,7 +202,7 @@ Cael could not tell, in the first exchange, whether she had seen it. She burst o
 
 "Wind. One."
 
-On the second exchange the Current fighter waited longer. She waited too. The tiers fidgeted. Cael watched the two of them circle like people at a dance neither wanted to begin, for three minutes, until the table called the exchange even and the yard groaned. On the third he committed, at last, to something, a long smooth ride off a feed she had sold him, and she burst once and was at his back. Two bursts in two touches.
+On the second exchange the Current fighter waited longer, and she waited too, and the tiers fidgeted. Cael watched the two of them circle like people at a dance neither wanted to begin, for three minutes, until the table called the exchange even and the yard groaned. On the third he committed, at last, to something, a long smooth ride off a feed she had sold him, and she burst once and was at his back. Two bursts in two touches.
 
 "Wind. Two."
 
@@ -220,9 +220,9 @@ Two bursts in nine minutes, and one more at the finish. The cohort sat on the lo
 
 He gave it to her that night on the wall, written out clean, on a fresh page torn from the binder.
 
-*The cohort has a plan. Don't chase. Make her spend. Wait for the fourth landing beat. Today it broke on one fact: you only spent two. It will not fail against somebody who makes you spend four. If you go up at the fifteenth, she will make you spend four. She's watched every burst you've taken this season and so have I.*
+*The cohort has a plan. Don't chase. Make her spend. Wait for the fourth landing beat. Today it broke on one fact: you only spent two. It will not fail against somebody who makes you spend four. If you go up at the fifteenth, she will make you spend four, your whole ceiling. She's watched every burst you've taken this season and so have I.*
 
-Lira read it in the last of the light, her knees up on the coping and her face doing nothing at all. Then she read it again. Then she folded it in half and in half again, very precisely, and put it inside her coat, and looked out at the ferry landing for a long time.
+Lira read it in the last of the light, her knees up on the coping and her face doing nothing at all, and then she read it again. Then she folded it in half and in half again, very precisely, and put it inside her coat, and looked out at the ferry landing for a long time.
 
 "I knew they were counting," she said.
 

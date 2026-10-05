@@ -1,6 +1,6 @@
 # Chapter 22 — Minuted
 
-Karis wrote notes. Everybody on the bluff who had dealings with her learned it inside a fortnight, and most of them learned to be grateful for it.
+Karis wrote notes, and everybody on the bluff who had dealings with her learned it inside a fortnight; most of them learned to be grateful for it.
 
 They came under the door folded in three, in a small upright hand, with the date at the top left and a subject line under it, ruled once. *Prynn's index, shelf-marks 40–60: two wrong.* *Your Lira page: she leads with the left foot on stairs. Did you know?* *Brom has my good pencil. Please recover.*
 
@@ -20,7 +20,7 @@ Cael had Lira's page open in front of him, the one he rewrote every few days now
 
 "About what I've been writing down about him." She moved the ledger a little higher on her chest. "I want you to hear it from me, in order, with the evidence first. Before you've had time to hear it from yourself. You're quicker than I am at some things. I'd rather you weren't quicker at this."
 
-He looked at her properly. There was ink on the heel of her right hand, and a small crease between her brows that had not been there at breakfast. Her mouth had the set it took over a clause she had decided to read aloud although she disliked every word of it.
+He looked at her properly: there was ink on the heel of her right hand, and a small crease between her brows that had not been there at breakfast. Her mouth had the set it took over a clause she had decided to read aloud although she disliked every word of it.
 
 "You've been over it more than once," he said.
 
@@ -76,6 +76,14 @@ Karis wrote the day and the bell at the head of a clean page, and the four names
 
 "I'll give you the finding," she said. "Then I'll stop. After that it isn't research any more, and I won't pretend I know more about the rest than any of you. I don't. I've tried."
 
+She set out the rules of the minute before anything else, as she had set them out at Greyvane on the first evening of the whitewashed room: every speaker named, and words written as spoken, not as the writer would have liked them. Nothing struck out; a correction went in beside the thing corrected, with the hour. And at the end every person in the room signed, under whatever had been said, whether they agreed with it or not, so that afterward nobody could say they had not been there.
+
+"Even Brom," she said.
+
+"Even me," Brom agreed, from the depths of the chair. "I'll sign anything. I signed for a horse once. Never saw the horse."
+
+"That," said Karis, "is exactly why the minute has rules."
+
 ---
 
 She began, as she always did, a long way back from where she meant to arrive.
@@ -84,7 +92,7 @@ She began, as she always did, a long way back from where she meant to arrive.
 
 "It was a long session."
 
-"It was a quarter of an hour." A strip of blue paper marked her place. She opened to it and then let the page lie, as if the numbers on it were ones she had long ago stopped needing to see. "Twenty-two of them, in the end. Every one at demonstration intensity, every one with my consent said out loud and the hour written beside it. Nine paces, five, three. A quarter-hour, three hours. Cael reaching every way he could think of: attention, invitation, irritation, once." She glanced at Lira. "You took his pen for that one."
+"It was a quarter of an hour." A strip of blue paper marked her place. She opened to it and then let the page lie, as if the numbers on it were ones she had long ago stopped needing to see. "Twenty-two of them, in the end. Every one a Path declaration at demonstration intensity, every one with my consent said out loud and the hour written beside it. Nine paces, five, three. A quarter-hour, three hours. Cael reaching every way he could think of: attention, invitation, irritation, once." She glanced at Lira. "You took his pen for that one."
 
 "I remember," said Lira. "It didn't work."
 
@@ -136,19 +144,19 @@ She made a mark.
 
 "Third column. How deep." She turned the ledger round on the table and pushed it across to him. He looked down at his own work in her handwriting: the stair tally and its control column, the fifth map with its brown dots laid over the black, the toll at the covered-walk rail, the curve that bent at four hours, the facing page headed *cannot reach*.
 
-"I want this in the minute in plain words. I have never read anything like this about any Path. Not in the founding-era surveys. Not in anything my instructors kept. Not in anything Quenna ever showed me, and she showed me most things in the end. You have written down how a Shadow Path pays for itself, at what rate, on what curve through a day, and three of the places where it can't reach. From outside. In forty days. Off a man who has never once let you see him use it." She took the ledger back. "When I did the same to you, it took me the better part of a year, and I had your permission in writing."
+"I want this in the minute in plain words. I have never read anything like this about any Path. Not in the founding-era surveys. Not in anything my instructors kept. Not in anything Quenna ever showed me, and she showed me most things in the end. You have written down how a Bronze-tier Shadow Path pays for its declaration, at what rate, on what curve through a day, and three of the places where it can't reach. From outside. In forty days. Off a man who has never once let you see him use it." She took the ledger back. "When I did the same to you, it took me the better part of a year, and I had your permission in writing."
 
 On the rug, Lira lifted her chin from her knees. "That's three," she said. "There's a fourth."
 
 "There's a fourth." Karis closed the ledger and kept her hand flat on it. "The fourth is the one I went over six times. It's the one I stopped on."
 
-She was silent for a moment. Her lips moved once without sound. Cael had seen her do it in the Greyvane hearing, in the moment before she read a clause into the record: a last silent rehearsal of words she had already fixed at her own table, so that nobody in the room could jostle a better or a worse one out of her.
+She was silent for a moment, and her lips moved once without sound. Cael had seen her do it in the Greyvane hearing, in the moment before she read a clause into the record: a last silent rehearsal of words she had already fixed at her own table, so that nobody in the room could jostle a better or a worse one out of her.
 
-"Edran wanted a bout," she said. "I wanted a match. Neither of us wanted anything worse than an afternoon. This man doesn't want an afternoon. He has been sent to settle what Cael is, for people who have spent two years trying to find a reason to take the provision away, and everything he does, every form and every post he leans on and every hour of that curve, is aimed at that. The enrollment. The standing. The paper this whole school has signed its name to. And he is doing it with everything he has. He's the best I have ever seen at anything, and he gets up every morning and spends all of it against Cael." She lifted her hand from the ledger. "Nothing on this hill is more in earnest than that. Nothing in Cael's life is."
+"Edran wanted a bout," she said. "I wanted a match. Neither of us wanted anything worse than an afternoon. This man doesn't want an afternoon. He has been sent to settle what Cael is, for people who have spent two years trying to find a reason to take the provision away, and everything he does, every form and every post he leans on and every hour of that curve, is aimed at that. The enrollment. The assay provision. The standing. The paper this whole school has signed its name to. And he is doing it with everything he has. He's the best I have ever seen at anything, and he gets up every morning and spends all of it against Cael." She lifted her hand from the ledger. "Nothing on this hill is more in earnest than that. Nothing in Cael's life is."
 
 Nobody said anything. Somewhere above the window the rain had found a gap in the leading, and a drop came down the inside of the frame and fell onto the sill, and after a while another, slow and regular, like a clock that had grown bored with keeping time.
 
-Karis opened the grey notebook. One short paragraph stood on the first page, and every page after it was white.
+Karis opened the grey notebook, where one short paragraph stood on the first page and every page after it was white.
 
 She did not read it. She said it.
 
@@ -158,19 +166,19 @@ She did not read it. She said it.
 
 He had known it was coming since the reading room. He had known, if he was honest, for longer than that. It made no difference at all.
 
-There had been a loose sheet at the back of the Shadow section a fortnight ago with a single word on it, *conditions*, and a line after the word that went nowhere. He had looked at it for some time one night. Then he had told himself the curve was more urgent, and gone on with the curve, and some days later he had moved the sheet into the third column, among the dead ideas, where it sat between the clock map and the list of the man's acquaintances. Nothing had killed it. He had simply put it there.
+There had been a loose sheet at the back of the Shadow section a fortnight ago with a single word on it, *conditions*, and a line after the word that went nowhere. He had looked at it for some time one night. Then he had told himself the curve was more urgent, and gone on with the curve, and some days later he had moved the sheet into the third column, among the dead ideas, where it sat between the clock map and the list of the man's acquaintances. Nothing had killed it; he had simply put it there.
 
 The third column was the oldest rule in the binder, older than Ardenmere. When the evidence killed an idea, the idea went in there with its date, so that it could not come back at two in the morning wearing a new coat. That was all the column was for. It was not a cupboard to keep an idea in while the evidence was still busy proving it, and for a fortnight he had kept one there exactly like that, with the door shut.
 
 It was the worst misuse of his own method he had ever caught himself in. And he had not even caught himself. Karis had done it for him, because Karis did not own any such cupboard; she wrote down what she found whether she liked it or not, and then went back six times to make sure.
 
-That was the error. Underneath the error was the want, and the want was worse, because there was nothing wrong with it except that it was his.
+That was the error, and underneath the error was the want, and the want was worse, because there was nothing wrong with it except that it was his.
 
-A sixth fragment. Not another way to move, or brace, or feel weight on the air a pace and a half out. He had five of those already, and he could have priced any of them to the half-breath in his sleep. This would be something he had no shape for anywhere in him. The toll on every passing eye. The thing that let a man stand in a crowded yard and not be what the yard was looking at.
+A sixth fragment. Not another way to move, or brace, or feel weight on the air a pace and a half out. He had five of those already, and he could have priced any of them to the half-breath in his sleep. This would be a fragment of a Path he had no shape for anywhere in him: the toll on every passing eye, the thing that let a man stand in a crowded yard and not be what the yard was looking at.
 
 He thought, of all things, of the two girls in Current smocks on the lecture stair, who had nudged each other every morning for five weeks as he came down, as regular as the bell. He had grown fond of them. He had put them in the margin of the tally, and their nudging was the warmest thing on the page, and it was still a record of two people deciding to look at him.
 
-Since his Kindling he had not had one day without somebody writing him down. Assessors, a panel, an Arbiter, a warden with a challenge in his pocket; grey coats at every gate and ferry on two roads; and now a whole hill that had bought his transcript at six silver marks a copy and read it before he walked through the gate. He had grown so used to it that he only noticed it now in the way a man notices his own coat when somebody else asks him to take it off.
+Since his Kindling he had not had one day without somebody writing him down. Assessors, a panel, an Arbiter with a classification, a warden with a challenge in his pocket, and a semester evaluation waiting at the end of this one; grey coats at every gate and ferry on two roads; and now a whole hill that had bought his transcript at six silver marks a copy and read it before he walked through the gate. He had grown so used to it that he only noticed it now in the way a man notices his own coat when somebody else asks him to take it off.
 
 He sat with his hands folded on the table and let the want go through him from end to end, clean and entire, and he did not let it reach his face.
 
@@ -182,7 +190,7 @@ She said it to the fire, without lifting her head.
 
 "Good." Now she looked round at him. "Say that again in an hour, out loud, when we're all being clever. I want to hear whether it's still the same size."
 
-Brom laughed, one short breath through the nose, and stopped. Karis had already written it. Cael watched the words go down in her small hand, *L.: "You want it." C.: "Yes."*, with no line beneath either of them.
+Brom laughed, one short breath through the nose, and stopped, and Karis had already written it. Cael watched the words go down in her small hand, *L.: "You want it." C.: "Yes."*, with no line beneath either of them.
 
 "That's in the minute now," said Karis. "For good. I'm sorry."
 

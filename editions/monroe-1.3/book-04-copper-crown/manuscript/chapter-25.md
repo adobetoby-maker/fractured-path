@@ -1,8 +1,8 @@
 # Chapter 25 — Six and Nothing
 
-The tenth session fell four days after the ninth, and Lira climbed again.
+The tenth session fell four days after the ninth, and Lira climbed the ladder again.
 
-It was not a bout anybody would remember. The name four places above her belonged to a Stone fifth-year who had stood near the top of the Copper sheet for two seasons by being very hard to move. He was not hard to move for long. Lira took him in three exchanges and three bursts, each touch arriving from a side his weight had just left, and the yard, which a fortnight ago had gone silent at eleven seconds, clapped politely and went back to its bread and its arguments. That was a measurement too. Cael wrote it down. A thing that had been impossible on the second session had become, by the tenth, merely expected.
+It was not a bout anybody would remember. The name four places above her belonged to a Stone fifth-year who had stood near the top of the Copper sheet for two seasons by being very hard to move. He was not hard to move for long. Lira took him in three exchanges and three bursts, each touch arriving from a side his weight had just left, and the yard, which a fortnight ago had gone silent at eleven seconds, clapped politely and went back to its bread and its arguments. That was a measurement too, and Cael wrote it down: a thing that had been impossible on the second session had become, by the tenth, merely expected.
 
 He did not count the man at the edge of the lamp. He did not look for him in the brass. It was the fourth day without, and every hour of the four had cost something, a small steady tug at the corner of his eye like a loose thread he kept wanting to pull. He let it be.
 
@@ -26,7 +26,7 @@ Cael stood by the post with his hands at his sides and found that they were not 
 
 "Three what?" said Brom.
 
-"Three times I've stopped counting him for four days. Three times it's come back, on the fourth evening, whole." He took the Log out of his coat and wrote it on his knee, standing. *Four days off. Read on time, Brom feeding, twelve of twelve. Third instance.*
+"Three times I've stopped counting him for four days. Three times it's come back, on the fourth evening, whole." He took the Log out of his coat and wrote it on his knee, standing. *Iron-adjacent read. Four days off the counting. On time, Brom feeding, twelve of twelve. Third instance.*
 
 Karis leaned over to read it upside down, as she always did.
 
@@ -46,7 +46,7 @@ Cael thought about how to put it. "You know how your Iron Skin runs out. You har
 
 "I know it better than I know my own name."
 
-"The read's like that, only I never knew it. I thought it was free. It isn't. It drinks from the same well I watch people with. When I spend all day counting where somebody stands, the read gets what's left in the bottom of the bucket, and what's left comes up slow." He tapped his forearm, where the press always arrived. "Stop counting, and in four days the bucket's full again. Three times now, four days each time. I've only got the one well, Brom. I've been pouring it on stairs."
+"The read's like that. It's your fragment, Brom, living in me, only I never knew it. I thought it was free. It isn't. It drinks from the same well I watch people with. When I spend all day counting where somebody stands, the read gets what's left in the bottom of the bucket, and what's left comes up slow." He tapped his forearm, where the press always arrived. "Stop counting, and in four days the bucket's full again. Three times now, four days each time. I've only got the one well, Brom. I've been pouring it on stairs."
 
 Brom considered this with great seriousness.
 
@@ -66,9 +66,9 @@ Lira went down at the fifth bell because her hip woke her at the fourth.
 
 It had been doing that since the Mire boy. Not pain, exactly: a heat, a line drawn from the crest of the bone down the inside of the thigh, faint and bright, as if somebody had laid a warm wire under the skin and forgotten to take it out. It woke her before the bell and would not let her lie on that side again. So she got up and dressed in the dark, quietly, because the residence walls were thin and Cael, two doors along, slept like a man waiting to be called. Then she went down through the sleeping residence and out into the grey.
 
-The first morning, three weeks ago, she had only meant to walk the hip loose along the covered walk. She had found the standings clerk already at the board under the north stair with his chalk and his ladder, chalking yesterday's results in a silence so complete it seemed to be part of his work. Nobody else was there. Nobody else, it turned out, ever was. Forty people would stand in front of that board by the seventh bell. At the fifth there was the clerk and the chalk and the cold, and now there was Lira.
+The first morning, three weeks ago, she had only meant to walk the hip loose along the covered walk. She had found the standings clerk already at the board under the north stair with his chalk and his ladder, chalking yesterday's results in a silence so complete it seemed to be part of his work. Nobody else was there, and nobody else, it turned out, ever was. Forty people would stand in front of that board by the seventh bell. At the fifth there was the clerk and the chalk and the cold, and now there was Lira.
 
-She had told nobody. It was not a secret. It was simply hers.
+She had told nobody. It was not a secret; it was simply hers.
 
 The clerk was finishing the Copper column when she came round the corner of the stair. He nodded to her, as he nodded every morning now, the nod of one early riser to another, and went on chalking. She took her usual place, an arm and a half back from the board, and let her hands hang.
 
@@ -80,15 +80,15 @@ Her own name stood on the second.
 
 She read it once, slowly. Six bouts and six wins, one of them the drawn bout that had moved her nowhere, five of them four places up at a time, every one of them to the highest line the rule allowed. Twenty-second to second in ten sessions. She had worked out at the start of the season, on the back of the seeding half-sheet, exactly how few afternoons it could be done in. She had done it in exactly that few. Not one wasted.
 
-The clerk reached up and chalked the last column, the one he always chalked last because it was the one that never changed, and stepped back to look at his work, and nodded to himself, and folded his ladder.
+The clerk reached up and chalked the last column, the tier column, which he always chalked last because it never changed, and stepped back to look at his work, and nodded to himself, and folded his ladder.
 
 *Copper.*
 
-She watched him chalk it. She always watched him chalk it.
+She watched him chalk it, as she always did.
 
-There had been a hall at Fenmark with a long table and a woman behind it who had spent about a minute and a half on her, and at the end of the minute and a half had written a word. That was three years ago. Since then Lira had fought on a foundry floor and on the Ironyard's planks and in a formal yard at Greyvane, and in front of eight hundred people here, and she had beaten fighters whose paper said Iron. She had a flag on her own file, sent up by a registrar who had looked at her properly once, and the flag had gone into a queue, and the queue was where it still was. And every morning at the fifth bell the clerk chalked the same word beside her name as he had chalked the morning she arrived.
+There had been a hall at Fenmark with a long table and a woman behind it who had spent about a minute and a half on her, and at the end of the minute and a half had written a word and a number: Copper, Rank One. That was three years ago. Since then Lira had fought on a foundry floor and on the Ironyard's planks and in a formal yard at Greyvane, and in front of eight hundred people here, and she had beaten fighters whose paper said Iron. She had a flag on her own file, put there by somebody who had once looked at her properly, and the flag had gone into a queue, and the queue was where it still was. And every morning at the fifth bell the clerk chalked the same word beside her name as he had chalked the morning she arrived.
 
-The morning after the final, the same hand would chalk the same six letters. No bout on any floor could reach it. It was not a thing bouts were for. She had known that on the road down to Ostrand, and she had come anyway, and climbed anyway, and here she was, at the top of a column that could not move the one word she wanted moved.
+The morning after the final, the same hand would chalk the same six letters. No bout on any floor could reach it. Only an advancement evaluation could, and nobody had ever sent for one. It was not a thing bouts were for. She had known that on the road down to Ostrand, and she had come anyway, and climbed anyway, and here she was, at the top of a column that could not move the one word she wanted moved.
 
 She noticed, after a while, that she was standing with her weight square on both feet.
 
@@ -100,7 +100,7 @@ She did not turn round. She did not need to. The third step from the top of that
 
 He was standing at the top of the north stair, looking at her looking at the board.
 
-She kept her eyes on the chalk and her breath where it was. She could feel him reading her. She could feel him knowing, from forty feet, everything she had not said, everything she did not want said at the fifth bell in a cold covered walk with a stranger's chalk-dust in the air. If he came down the stair now she would have to turn round and have a face. She did not have one ready. She did not want to build one.
+She kept her eyes on the chalk and her breath where it was, and she could feel him reading her. She could feel him knowing, from forty feet, everything she had not said, everything she did not want said at the fifth bell in a cold covered walk with a stranger's chalk-dust in the air. If he came down the stair now she would have to turn round and have a face. She did not have one ready, and she did not want to build one.
 
 The stair was quiet for a long time. Then, very softly, she heard him go back down it. The fourth step, the second, nothing on the third, and then the flags of the lower walk, going away round the long side of the lecture quadrangle, where nobody went at that hour because it was the long way to anywhere.
 
@@ -124,23 +124,23 @@ Brom looked from one of them to the other across the table, and opened his mouth
 
 The challenge was posted on the residence board by noon. Cael read it with his coat still on.
 
-A name four places down had sent its challenge up to her for the eleventh session, and the name was one he knew well, because he had been writing it down for most of the season. A Shield Path fifth-year. Bracken's files gave him forty-one wins across five seasons on the Copper sheet. Nobody on the bluff could remember him losing a bout that mattered, and nobody could remember him winning one beautifully either.
+A name four places down had sent its challenge up to her for the eleventh session, and the name was one he knew well, because he had been writing it down for most of the season. A Shield Path fifth-year, Copper Rank Six on his card. Bracken's files gave him forty-one wins across five seasons on the Copper sheet. Nobody on the bluff could remember him losing a bout that mattered, and nobody could remember him winning one beautifully either.
 
 Cael had seen him fight six times. He went back to his room and took out the page and read it again, slowly, the way he would have read it the night before a bout of his own.
 
-*He does not attack. He edits. He sets his pane a hand's breadth off the forearm, wider than his shoulders, and plants his feet, and then he waits, and the floor gets smaller every second he waits. He doesn't win bouts. He stands there while you lose them. Forty-one wins and I can't find one where he struck first.*
+*He does not attack. He edits. His Path declaration is the pane. He sets it a hand's breadth off the forearm, wider than his shoulders, and plants his feet, and then he waits, and the floor gets smaller every second he waits. He doesn't win bouts. He stands there while you lose them. Forty-one wins and I can't find one where he struck first.*
 
 *Cost: setting the pane costs him, and every time it has to move, he has to set it again. That's where he pays. That's the only place.*
 
 *How to beat him: make the floor big. Go wide. Make him turn the pane, and turn it again, and turn it again, and take the hand's breadth he gives up every time it moves. It'll be slow. It'll look dull from the tiers. It's the only way through.*
 
-He read it twice. It was a good page. It had six bouts' worth of evidence under it and he could not find a hole in it anywhere.
+He read it twice. It was a good page, with six bouts' worth of evidence under it and he could not find a hole in it anywhere.
 
 All the same, he went down to the practice rings the next afternoon to look at the man once more, because a page was a promise and he liked to see a promise kept before he handed it to anybody.
 
 The Shield fifth-year was on the second ring with a Current second-year who had asked him for a bout, which happened, Cael gathered, rather often. The older students sent their juniors to him the way a smith sends an apprentice to the oldest anvil in the shop, to learn what it is to strike something that does not move. He fought the second-year exactly as he fought the ladder. At the instructor's word he took a long breath, and planted his feet one after the other, and the pane came up glassy and wide off his left forearm, and then he waited. The Current girl waited too, for a while, politely. Then she tried to ride round the pane's edge on her own current, and he turned it a hand's breadth, no more, and she went round it into nothing and sat down on the boards.
 
-He helped her up. He said something to her, quietly, and pointed at her feet. She nodded and went back to her chalk and tried again, and sat down again, and laughed.
+He helped her up and said something to her, quietly, and pointed at her feet. She nodded and went back to her chalk and tried again, and sat down again, and laughed.
 
 Cael wrote the bout in the margin of the page. *Same as the six. Breath, plant, pane, wait. She waited too.* He underlined *wait*, because it was the heart of the man, and closed the binder. He had been looking for a hole in the pane. He did not think to look anywhere else, and he would think about that for some time afterward.
 
@@ -152,17 +152,17 @@ That evening he gave it to Lira on the wall behind the second quadrangle. She re
 
 "No but. It's a good page." She looked out at the ferry landing, where two grey coats stood under their lamp exactly where two grey coats always stood. "I'll think about it."
 
-From Lira, that was not agreement. He knew it was not, and he did not press. It was her bout.
+From Lira, that was not agreement. He knew it was not, and he did not press, because it was her bout.
 
 ---
 
 The eleventh session drew a good crowd for a Copper card. The yard had decided Lira was worth climbing the tiers for, and it had also decided, in the refectory queue and on the lecture stair, that this was the afternoon she would finally be made to wait. Everybody knew the Shield fifth-year. Everybody had lost money, or a bet of honour, on somebody being certain they would get through his pane.
 
-He came onto the floor as he always did, without hurry. He was a broad man, older than most of the Copper column, with a quiet weathered face and a habit of looking at the floor before his opponent, the way Fiske looked at a door frame before the door. He took his chalk. He waited for the terms.
+He came onto the floor as he always did, without hurry. He was a broad man, older than most of the Copper column, with a quiet weathered face and a habit of looking at the floor before his opponent, the way Fiske looked at a door frame before the door. He took his chalk and waited for the terms.
 
 Cael was watching him, and so he saw what he had seen six times before and never once thought to write down.
 
-When the table said *begin*, the Shield fifth-year took a breath. A long one. On the out-breath he planted his feet, first the left and then the right, settling his weight down into the boards. And then the pane came up, a hand's breadth off his left forearm, faint and glassy in the afternoon light, the width of a door. Planting, setting, angling: a breath and a half, perhaps a little more. In six bouts Cael had never seen anybody use it, because nobody used it. It was the moment a wall was being built, and nobody attacks a wall while it is going up; they wait for it to be finished, and then they look for the way round.
+When the table said *begin*, the Shield fifth-year took a long breath. On the out-breath he planted his feet, first the left and then the right, settling his weight down into the boards. And then the pane came up, a hand's breadth off his left forearm, faint and glassy in the afternoon light, the width of a door. Planting, setting, angling: a breath and a half, perhaps a little more. In six bouts Cael had never seen anybody use it, because nobody used it. It was the moment a wall was being built, and nobody attacks a wall while it is going up; they wait for it to be finished, and then they look for the way round.
 
 "Begin," said the table.
 
@@ -186,7 +186,7 @@ He felt every one in his own leading hip, forty feet up. By the third he was fee
 
 The Shield fifth-year went back to his chalk slowly, and stood there looking at the floor, not at her.
 
-He did not change. Cael saw him try. On the second exchange he started the breath before the table had finished the word, and planted his left foot early, and got the pane half a breath sooner, and it was still not soon enough, because his body did not know how to be quicker than it had been for five years. It knew one rhythm. It had won forty-one bouts on that rhythm. Lira went down the middle on her feet this time, no Wind at all, and was at the pane before it had an angle, and simply walked round its unset edge while he was still deciding which way to point it.
+He did not change, though Cael saw him try. On the second exchange he started the breath before the table had finished the word, and planted his left foot early, and got the pane half a breath sooner, and it was still not soon enough, because his body did not know how to be quicker than it had been for five years. It knew one rhythm, and it had won forty-one bouts on that rhythm. Lira went down the middle on her feet this time, no Wind at all, and was at the pane before it had an angle, and simply walked round its unset edge while he was still deciding which way to point it.
 
 "Wind. Two."
 
@@ -196,7 +196,7 @@ The third took about as long as a held breath. She did not need a burst. She did
 
 ---
 
-She walked off the floor as though she had done nothing harder than climb a stair. She shook the Shield fifth-year's hand. She took her towel from the rail. She walked along the bottom tier past forty people who were all looking at her, past the long board, past the clerk already reaching up with his chalk, and through the north arch, and out of sight.
+She walked off the floor as though she had done nothing harder than climb a stair. She shook the Shield fifth-year's hand and took her towel from the rail. She walked along the bottom tier past forty people who were all looking at her, past the long board, past the clerk already reaching up with his chalk, and through the north arch, and out of sight.
 
 Cael was on his feet before he knew he had stood.
 
@@ -214,7 +214,7 @@ When she could stand she stood, and went up the stair one step at a time with he
 
 It took him three days to see where the page had gone wrong.
 
-It was not wrong about the pane. Every word about the pane was true. The pane did cost him to set. It did cost him to move. Going wide would have worked, slowly, dully, over most of an afternoon. That was the trouble. He had studied a pane of glass. Lira had studied the man holding it up.
+It was not wrong about the pane. Every word about the pane was true. The pane did cost him to set, and it did cost him to move. Going wide would have worked, slowly, dully, over most of an afternoon. That was the trouble: he had studied a pane of glass. Lira had studied the man holding it up.
 
 Forty-one wins, he wrote at last, on the third night, built by a man who had never once been the better fighter on the floor. You did not win forty-one bouts that way by being good. You won them by being patient while the other fighter was not. Every opponent in five seasons had stood off the pane, and tested it, and waited, and grown restless, and finally done something hasty against a wall that was ready for haste. His whole career was other people's impatience.
 
@@ -270,7 +270,7 @@ A challenge upon the holder's line, it said, in Bracken's small upright hand, wa
 
 Cael read it twice and went to find Lira.
 
-She was in the north hall on the stone, alone, at a walk, running her evasion sequence with no Wind in it at all, slowly, the way she worked when the hip would allow nothing else. He told her what the sheet said. She did not stop walking.
+She was in the north hall on the stone, alone, at a walk, running her evasion sequence with no Wind in it at all, slowly, the way she worked when the hip would allow nothing else. He told her what the sheet said, and she did not stop walking.
 
 "I've read it," she said. "Twice. Brom read it to me once more, in a voice."
 

@@ -26,7 +26,7 @@ The fire shifted behind her.
 
 "I hate how good that felt, saying it," said Lira.
 
-Cael waited. He had known her three years, and she had the look of somebody stopped halfway down a dark stair.
+Cael waited; he had known her three years, and she had the look of somebody stopped halfway down a dark stair.
 
 "It's too tidy." She was frowning at the table's edge. "Since Seventh-day I've had it going round in my head, round and round, and it shrinks a little on every lap. When I'm right about a fighter the page gets longer every time I look at it; I keep finding more. This keeps shrinking. Something drops out of it every time, and I can't see what." She rolled one shoulder against the warmth. "Write that down. Not the Fenmark part. The shrinking part."
 
@@ -56,7 +56,7 @@ He sat with his stocking feet on the hearthstone and his forearms on his knees, 
 
 He looked at Karis, then at Lira, and then at the fire.
 
-"You've been talking all night about Karis's yard. That was a gift. She put her Path out on the chalk where he could reach it, and meant him to. So every question tonight has been the kind you ask about a present, whether the giver understood, whether it can be returned." He shook his head slowly. "Nobody's giving Cael anything here. That man is spending his Path on Cael every hour of every day. The toll on the eyes. The posts. The walking past the empty hall without looking down. He's spent it on Cael more times than any of us could count, and he spent it to fill a file."
+"You've been talking all night about Karis's yard. That was a gift. She put her Path out on the chalk where he could reach it, and meant him to. So every question tonight has been the kind you ask about a present, whether the giver understood, whether it can be returned." He shook his head slowly. "Nobody's giving Cael anything here. That man is spending his Path declaration on Cael every hour of every day, a little at a time. The toll on the eyes. The posts. The walking past the empty hall without looking down. He's spent it on Cael more times than any of us could count, and he spent it to fill a file."
 
 He shrugged, and the shrug said more than most people's paragraphs.
 
@@ -102,7 +102,7 @@ He shut the Log on his finger.
 
 Lira was back on the rug, chin on her knees, watching him. He had seen her give that look across a floor to a fighter who had just refused a cheap touch.
 
-"Then the other side of the fence," said Cael. "If he brings it to me himself, for his own reasons, doing the work he was sent to do, close, and meaning it against me, then I won't step back from what's offered. I'll reach. On purpose. Awake. Not caught by surprise, and not telling myself afterward that it simply happened to me."
+"Then the other side of the fence," said Cael. "If he brings it to me himself, for his own reasons, doing the work he was sent to do, close, and meaning it against me, then I won't step back from what's offered. I'll reach. Directed, the way the notice put it at Greyvane. On purpose. Awake. Not caught by surprise, and not telling myself afterward that it simply happened to me."
 
 Karis's pencil had stopped. "There's a third," she said. "It's in your face."
 
@@ -116,9 +116,9 @@ He had written it at Greyvane, at dawn, the day after the yard. *The fragment co
 
 "I checked every word of that when I wrote it," said Cael. "Every word's true. Now listen to who does anything in it. The fragment completes. The conditions occur. The moment arrives. I'm not in it, except as the place where it all happened." He took the Log back. "I didn't hear it till three nights ago. So this time the bill goes in first, in my hand, with me in the sentences."
 
-Karis wrote for a long time. The minute voice came back when she was done.
+Karis wrote for a long time, and when she was done the minute voice came back.
 
-"*Minuted. One: conditions not to be manufactured; six methods named by C. and refused; list attached in his hand. Two: a reach permitted only within earnest engagement the subject begins himself, close, in the ordinary course of his assignment; any reach to be awake and directed. Three: the full cost to be written beforehand, including C.'s stated wish for the fragment.*" She looked up. "And one line of my own. I can't promise you it would complete. The model predicts; it doesn't swear. You could stand in every condition I know of and still get nothing, and if you did, I'd have no way to find out why. There's no second Seln to test the first one against." She wrote it as she spoke. "*Researcher notes: prediction untested at one instance.*"
+"*Minuted. One: conditions not to be manufactured; six methods named by C. and refused; list attached in his hand. Two: a directed acquisition permitted only within earnest engagement the subject begins himself, close, in the ordinary course of his assignment; any reach to be awake and directed. Three: the full cost to be written beforehand, including C.'s stated wish for the fragment.*" She looked up. "And one line of my own. I can't promise you the acquisition would complete. The model predicts; it doesn't swear. You could stand in every condition I know of and still get nothing, and if you did, I'd have no way to find out why. There's no second Seln to test the first one against." She wrote it as she spoke. "*Researcher notes: prediction untested at one instance.*"
 
 "Put mine down," said Brom.
 
@@ -152,15 +152,15 @@ On it went, exchange after exchange, for most of an hour, and every exchange wen
 
 He had never lost a single exchange.
 
-Not one. Not a touch. Not even a stumble. He had fought a hundred and forty opponents across three years and lost to a great many of them, on floors and in yards and in his own head the night before, because the ones in his head had always been built from his pages, and his pages were honest about what the other fighter could do. This one had no page. It had nothing in it he had not put there, a minute before, to be answered. It fed exactly as hard as he could stand and no harder. It came in where he was already waiting. He was playing both sides, and one side was always going to win.
+Not one. Not a touch. Not even a stumble. He had fought a hundred and forty opponents across three years and lost to a great many of them, on floors and in yards and in his own head the night before, because the ones in his head had always been built from his pages, and his pages were honest about what the other fighter could do. This one had no page, and nothing in it he had not put there a minute before, to be answered. It fed exactly as hard as he could stand and no harder. It came in where he was already waiting. He was playing both sides, and one side was always going to win.
 
-So he tried it the other way about. He shut his eyes again and put himself across the chalk as the question, and set Seln's side to defend: *he chose the work*, *he came close*, *I'll keep his account*. He came in hard, as hard as he knew how. He took every exchange. The fighter defending had no more chance than the fighter attacking had had an hour earlier, because the fighter defending was also him, and he had built it a little slower than himself without ever meaning to.
+So he tried it the other way about. He shut his eyes again and put himself across the chalk as the question, and set Seln's side to defend: *he chose the work*, *he came close*, *I'll keep his account*. He came in hard, as hard as he knew how, and took every exchange. The fighter defending had no more chance than the fighter attacking had had an hour earlier, because the fighter defending was also him, and he had built it a little slower than himself without ever meaning to.
 
 He opened his eyes on the bead of lamp-flame.
 
-Nobody stood across the chalk from him. That was all it came to. Every reading he had ever trusted had come from somebody else's body, from a breath that caught or a hip that went before the shoulder, things he had not made and could not have made. The method had never been clever. It had only been careful, and careful worked because the other person pushed back with something real. But a debt cannot feint. It could only stand across a chalk line he had drawn himself and lose to him politely, all night, for as long as he liked.
+Nobody stood across the chalk from him. That was all it came to. Every reading he had ever trusted had come from somebody else's body, from a breath that caught or a hip that went before the shoulder, things he had not made and could not have made. The method had never been clever, only careful, and careful worked because the other person pushed back with something real. But a debt cannot feint. It could only stand across a chalk line he had drawn himself and lose to him politely, all night, for as long as he liked.
 
-He reached for the binder. The page he wrote next had nothing to do with Seln, and it was perhaps the most useful page in the book.
+He reached for the binder, and the page he wrote next had nothing to do with Seln, and it was perhaps the most useful page in the book.
 
 *Tried to fight the question tonight, the way I fight a bout the night before. Won every exchange. That's the finding. I've never won every exchange against anything real.*
 
@@ -168,7 +168,7 @@ He reached for the binder. The page he wrote next had nothing to do with Seln, a
 
 *So no sum settles this. What's left is a procedure. Say it before, out loud, in front of Lira and Brom and Karis, and let them be the other side of the chalk. They're the only part of this I didn't build.*
 
-He read it over. Under it, smaller, went a line he would have preferred to leave off. Leaving it off would have been the binder's first lie.
+He read it over, and under it, smaller, went a line he would have preferred to leave off. Leaving it off would have been the binder's first lie.
 
 *Two hours, three people, and at the end every one of them stood where I stood. Either they're right, or I've got very good at building rooms.*
 
@@ -176,27 +176,27 @@ He read it over. Under it, smaller, went a line he would have preferred to leave
 
 The wash-house behind the second quadrangle had a stone floor that sloped to a gutter by the door, a copper in the corner, a long trough under the window, and a drying rack slung from the beams on two ropes and a pulley. Nobody came into it before the fourth bell, when the laundry woman arrived to light the copper. Cael had known that since his third week on the bluff, because in his third week on the bluff he had needed somewhere to drill a thing nobody had ever seen.
 
-He went down at first grey light with his coat over his shirt and the lamp unlit. The high window was enough.
+He went down at first grey light with his coat over his shirt and the lamp unlit, because the high window was enough.
 
 The rig was where he kept it, rolled in a meal sack behind the copper. Three canvas bags of sand, stitched along every seam with the waxed thread Brom used on his boots, each with a loop of rope at the neck, marked in charcoal *light*, *middle*, *heavy*. A length of cord knotted at measured lengths. A wooden peg he could wedge into the crack between two flags to mark exactly where his heels belonged. Brom had sewn the bags in an evening without asking what they were for, and had asked only, when he handed them over, whether Cael wanted a fourth for luck.
 
 He hung the middle bag from the rack's crossbeam, ran the cord out to its third knot, and drew the bag back until the knot touched the chalk tick on the far wall. Then he went to the peg and set his feet.
 
-Of everything he carried, Reydan's fragment was the one he understood least and used most. The others announced themselves. Feryn's took most of a breath to come, and sank him, and widened his stance, so that anybody watching knew something was being built. Lira's folded him at the hips. Even the read had a feel to it, a pressure on the skin a pace and a half before a blow. This one had nothing at all until the moment of impact. Then the blow went into him like a hammer into a bell, and instead of ringing he hummed, and the hum ran down through him into the stone and was gone. He had never found a better way to say it. A body watching him would have seen a boy struck hard on the arm who did not rock.
+Of everything he carried, Reydan's fragment, the Compression-adjacent, was the one he understood least and used most. The others announced themselves. Feryn's took most of a breath to come, and sank him, and widened his stance, so that anybody watching knew something was being built. Lira's folded him at the hips. Even the read had a feel to it, a pressure on the skin a pace and a half before a blow. This one had nothing at all until the moment of impact. Then the blow went into him like a hammer into a bell, and instead of ringing he hummed, and the hum ran down through him into the stone and was gone. He had never found a better way to say it. A body watching him would have seen a boy struck hard on the arm who did not rock.
 
 He let the bag go.
 
-It came across the room on its arc, heavy and silent, and met his left forearm, and the forearm took it and the hum went down into the flags, and the bag swung back. He counted four breaths. He let it go again.
+It came across the room on its arc, heavy and silent, and met his left forearm, and the forearm took it and the hum went down into the flags, and the bag swung back. He counted four breaths and let it go again.
 
 Eleven, four breaths apart. In his third week on the bluff, rested, he had taken all eleven clean.
 
-The first six were nothing. The seventh was nothing. On the eighth he felt the hum start a hair late, and on the ninth later still, like a second bell rung a fraction after the first, but both held. On the tenth the hum did not cover all of it. Most of the blow went down into the stone as it should, and a narrow strip of it stayed behind along the outer edge of the forearm and set there, flat and hard, a bar of impact lying on the bone; he knew before the bag had swung away from him that he would see it purple by noon. The eleventh was worse. He stepped off the peg afterward with his left hand hanging and his breath short, and sat down on the cold rim of the trough.
+The first seven were nothing. On the eighth he felt the hum start a hair late, and on the ninth later still, like a second bell rung a fraction after the first, but both held. On the tenth the hum did not cover all of it. Most of the blow went down into the stone as it should, and a narrow strip of it stayed behind along the outer edge of the forearm and set there, flat and hard, a bar of impact lying on the bone; he knew before the bag had swung away from him that he would see it purple by noon. The eleventh was worse. He stepped off the peg afterward with his left hand hanging and his breath short, and sat down on the cold rim of the trough.
 
-He wrote on his knee. The pencil would not keep still in his fingers, and he let it wander.
+He wrote on his knee, with a pencil that would not keep still in his fingers, and let it wander.
 
-*Middle bag, eleven swings: nine. Eleven in the third week, rested. The fragment hasn't changed. The boy using it hasn't closed his eyes since the night before last, all on account of a grey notebook with one paragraph in it.*
+*Middle bag, eleven swings: nine clean. The ceiling at that weight was eleven in the third week, rested. The fragment hasn't changed. The boy using it hasn't closed his eyes since the night before last, all on account of a grey notebook with one paragraph in it.*
 
-*What it costs: half a breath at the moment the bag lands, and nothing anybody could see. The ache comes up a minute later and stays two hours; the hand won't write properly for about as long. What it buys: the bag should have turned me half round. I didn't move.*
+*What each deployment costs: half a breath at the moment the bag lands, and nothing anybody could see. The ache comes up a minute later and stays two hours; the hand won't write properly for about as long. What it buys: the bag should have turned me half round. I didn't move.*
 
 *Worth: all of it. Cheap and quiet and all of it, which is why my body picks it up before I've decided anything. Watch that. The tool I pick up without choosing is the one I'll pick up one day in the one room where picking it up is wrong.*
 
