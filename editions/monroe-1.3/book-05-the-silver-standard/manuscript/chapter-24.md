@@ -34,17 +34,17 @@ Gault did not answer at once. He looked into the fire for a little while, turnin
 
 The table went quiet.
 
-"In the continental Copper," said Gault. "Fourth, out of all of them." He drank. "I lost the bout for third to a girl from the coast who was very much better than me. She went on to be a great deal better than everybody. I was glad to have been on the same floor."
+"In the continental Copper," said Gault. "Fourth on the figures, out of all of them." He drank. "There was no bout for third. They stood the two of us who'd lost our semifinals side by side on the sheet, and the panel's figures put a girl from the coast above me, and they were right to. She was very much better than me, and she went on to be a great deal better than everybody. I was glad to have been on the same floor."
 
 "You never said," said Ephram. He sounded almost hurt. "All year, at every meet, all those brackets, and you never once said."
 
-"No," said Gault. "A man who measures other people should not carry a number of his own about with him. It gets onto the scale."
+"No. A man who measures other people should not carry a number of his own about with him. It gets onto the scale."
 
 He set his cup down. "And besides, the compilers' index that year had me down as *plodding*. Fourth on the continent, and *plodding*, in print, for a mark a copy." He looked down the table at Ephram over the rims of his spectacles, quite kindly. "I have been mispriced by professionals, young man. That's why I check my work twice."
 
 "Fourth," said Brom, slowly, as a man says a thing he means to keep.
 
-"Fourth," said Gault, and for a moment looked very pleased with himself, and then put the look away again.
+"Fourth." Gault for a moment looked very pleased with himself, and then put the look away again.
 
 Cael took out the observation notebook under the table and wrote it on Gault's page. That page was the longest in the book now.
 
@@ -188,7 +188,7 @@ Item two wanted to know if the watch already in place could bear a *containment 
 
 Item three wanted the subject's *exposure trajectory* set out through the finals, with the public's interest in mind.
 
-He read it once and turned it face down on the table. Then he turned it up again and read it slowly, a word at a time, with one finger under the line, as he had been taught to read a charter when he was very young and had not read one since.
+He read it once and turned it face down on the table. Then he turned it up again and read it slowly, a word at a time, with one finger under the line, as he had been taught to read a charter when he was very young and had not read one that way since.
 
 They were not his words. In forty years he had never once used any of them of a person.
 

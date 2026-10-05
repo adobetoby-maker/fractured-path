@@ -306,3 +306,87 @@ Supporting beats: Lira 3 (the builder; the frame; the wall) · Ephram 2 (the fin
 10. **Havel's notebook's two homes** reconcile B4 ch44's pocket with the ledger's "locked in a drawer". He packs it in the kit for the first time; no fifth entry.
 11. **The fourteenth delegation** is a lake house that qualified at the year's turn on a recount (Karis's map).
 12. **The squad's fifth place:** Rooke drills Cael there "until a clerk at Norhold tells me otherwise", with the Shield reserve as alternate. Norhold sends trial rules only at the orientation, which keeps M5's "Again." intact.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same seat, 2026-10-05, against `REPAIR-BRIEF.md` and the two Fable reviews. Rulings applied: OWNER-DECISIONS #40 (three capabilities shown on public floors: Wind, the read, and Ember at its two-contact rate, with the record of five unchanged and the inventory hedge kept; Norhold has no individual bout for third). Every change was made by reading, as a hand-written exact replacement in reading order. No script split or joined text. Only ch20–26 and this report were edited. No git commands were run.
+
+**The confluence day, as the page now has it (d108, Fourth-day; d109, Fifth-day).**
+
+| When | Main hall (sprung oak, six) | Salt store (planks on stone, five) |
+|---|---|---|
+| d108 morning | Iron R16 (Lira over the coastal Mire, the second seed; Ephram over the eighth seed; Karis on the figures; the builder through). Copper QF and SF (Brom) | First light: the queue. First bell onward: Cael vs the confluence Blade (item two), 2–1 in four |
+| d108 to noon | Iron QFs, all four finished by noon: Lira over a valley Blade 2–1; Ephram over the top seed on the figures 25–24; Karis on the figures; the builder 2–0 in four, a few minutes before Cael comes in | — |
+| d108 after noon | No Iron bouts. Lira sits in the back row until the hall empties, drawing the builder's two bouts on her knee | Cael vs the caravan captain, 2–1 in five; Lira arrives *after her bouts* for the last two exchanges. Then the eastern Stone, 2–0 in three |
+| d108 dusk | Lamps lit over the clerk chalking tomorrow's card to empty benches | Crowd turned away at the door |
+| d109 morning | Iron SF: Lira vs the builder (level after four, 27–25). Karis vs Ephram, an hour later (24–22). Copper F: Brom over the veteran (23–20) | — |
+| d109 third bell | — | Cael vs the coastal Wind, 2–0 in three |
+| d109 afternoon | Iron F: Lira over Ephram, 2–1 in four (26–25), the main hall's last bout | — |
+| d109 dusk | — | Cael vs the barge-master, 2–1 in four, the meet's last bout |
+
+**Changelist by chapter.**
+- **ch20.**
+  - Karis's arithmetic is cut to "The region would send three north, and there was no longer a way through." Her four sums and the straight pencil are kept.
+  - "Cael wrote it that night" fixes the referent after Brom.
+  - The Mire stands below the top seed "only by the registry's dates" (F5).
+  - Four "said" tags are thinned.
+- **ch21.**
+  - The top seed "had gone up to Rank Eight at the year's last sitting" (F5).
+  - Lira comes "after her bouts".
+  - At dusk, the lamps are lit over the clerk chalking tomorrow's card for empty benches.
+  - Lira draws "the builder's two bouts on her knee until the hall emptied".
+  - "Both boys who fought him today".
+  - She runs back "across the square", not to her own floor.
+  - Three tags are thinned.
+- **ch22.**
+  - "I watched both of his yesterday, and then I watched them again in my head till the lamp went out. Both boys…"
+  - Karis's charted pair is now "the two old houses' best Irons, who'll both be at Norhold" (F11).
+  - Four tags are thinned.
+- **ch23.**
+  - **Exchange break for the barge-master's second touch:** the circle walked with the forearm against his side, the steward calls the fourth, "Exchange.", and he plants "somewhere new". "Late in the exchange" now refers to a real fourth.
+  - The band sentence now reads: the twenty-one "at the very top of the Iron band, and the other four had climbed into the strong-Iron band above it".
+  - The season column "had never once settled into a line" (F6).
+  - Two tags are thinned.
+- **ch24.**
+  - **Gault is "Fourth on the figures"**: "There was no bout for third. They stood the two of us who'd lost our semifinals side by side on the sheet, and the panel's figures put a girl from the coast above me…" (#40).
+  - Vastin "had not read one that way since" (F8).
+  - Two tags are thinned.
+- **ch25.**
+  - **The Shield-reserve section is compressed by about a third** (≈1,050 → ≈750).
+  - The restatement paragraphs are folded into one.
+  - "That's not fair" is kept as a scene, and the Log "I think Shield is solved" moves to the sixth week.
+  - **The reserve's smaller plant is now the section's last development and is left unsolved:** he finds it himself in the eighth week, the read catches it two times in three, the untaxed pane lets him touch Cael ("Oh"), Rooke says "Good… One reserve", and the block runs out before Cael works it out.
+  - **P3:** "he had never been taught to set a pane without the floor under it, and perhaps nobody at Iron had" (the reserve's limit, not a law).
+  - Five tags are thinned.
+- **ch26.**
+  - **The inventory is cut to its new lines.** One summary sentence carries the oak's six, the right shoulder "unasked for anything since the mill town's plate", Compression nowhere, and Shadow's rent with one drift. Then the Ember line ("on a seat's report now as well") and "Six… The doctrine holds".
+  - Seln's section is untouched except the one P3 phrase, "and now the confluence seat's report".
+  - One tag is thinned.
+
+**Not changed:** F10 (Seln's stated method; the editorial recommends keeping it); Brom heading the Copper draw (noted, not a finding).
+
+**Before → after (formula_metrics, ch20–26).**
+
+| Measure | Before r1 | After r1 |
+|---|---|---|
+| Prose words | 33,718 | **33,384** (32,500–34,500) |
+| Sentence mean | 13.88 | **13.92** |
+| ≥40-word share | 2.6% | **2.8%** |
+| ≤5-word share | 24.8% | 25.1% |
+| Paragraph median | 28.5 | **28** |
+| Words per scene | 887 | 879 |
+| FRE / FK | 87.5 / 4.5 | 87.4 / 4.5 |
+| "said" tags | ≈250 (≈74 / 10k) | 229 (≈69 / 10k) |
+
+Per chapter after r1 (words / mean / ≥40 / paragraph median / words per scene): ch20 4,597 / 13.2 / 2.3% / 28 / 919 · ch21 5,109 / 14.2 / 3.3% / 28 / 852 · ch22 4,947 / 13.6 / 2.7% / 19.5 / 989 · ch23 4,881 / 14.5 / 2.7% / 26 / 814 · ch24 4,331 / 14.8 / 2.7% / 31.5 / 866 · ch25 5,143 / 13.8 / 3.0% / 23.5 / 857 · ch26 4,376 / 13.6 / 2.5% / 33.5 / 875.
+
+**Checks after r1.**
+- `ed.sh overlap book-05-the-silver-standard 4`: **0 unprotected**, 7 protected (the four M4 packet lines are now in `protected-patterns.txt`).
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- `sweep_probe.sh book-05-the-silver-standard 4 4`: **skeleton 0%, close 5%** (ch20 0/4 · ch21 0/5 · ch22 0/4 · ch23 1/7 · ch24 0/10 · ch25 0/4 · ch26 0/3).
+
+**Ledger notes for r1.**
+- The fourth exchange of the barge-master bout is now explicit (E1 even, E2 his, E3 and E4 Cael's).
+- The Shield reserve ends the block with a smaller plant that Cael has **not** solved. Cael's belief that "Shield is solved" stands in the sixth-week Log and in his last Log on the road ("a Shield I think I have").
+- Gault's continental fourth was on the figures, with no bout for third.
+- The confluence's top seed is a Rank Eight by the year's last sitting.

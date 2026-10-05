@@ -671,3 +671,167 @@ Bracket formats as now on the page:
 
 
 **Movement 3 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — three applied (ch19 'So she nodded' the missed two-day quay line; ch17 the six-night stay; ch17 the evenings count against the third-night read). The grey-wool woman's 'a little less tidy' was cut in r1 — the manuscript governs. Overlap 0/11, gates 0, probe 1%/6%.
+
+## AFTER MOVEMENT 4 — chapters 20–26 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- QUALIFIED at the waystation; first in the region. The CONFLUENCE: ONE Iron draw; both top seeds Rank Eight, ordered by registry date; Ephram beats the top seed in the quarterfinal; Lira's SEMIFINAL vs the Rank 7 builder won on the figures 27–25 ('the title in all but the paperwork'); the FINAL Lira over Ephram 2–1 (26–25) — Lira's regional title, Ephram second; NO bout for third (regional custom): Karis shares third with the builder. Brom's flat Copper season (the review machinery begins; not staged).
+- PUBLIC CAPABILITIES (OWNER-DECISIONS #40): from M4, three SHOWN ON PUBLIC FLOORS — Wind, the Iron read, and Ember at its documented two-contact rate (spent as tax on the caravan captain's renewal, contact only); the record of five unchanged; Pressure flat; Compression on no scored floor since the Reydan bout; Shadow never. Cael's inventory: 'the record holds two of them public… shown a third at its documented rate'.
+- SHIELD MECHANICS (new canon): panes; 'breath, plant, pane'; renewal oldest-first on a clock; Ember cracks a pane as it forms. The floor-under-it rule is the Shield RESERVE'S limit, not a law — M7's Rhagen weave keeps layers and ageing and denies rhythm, order and the plant. Cael ends M4 believing 'I think Shield is solved'; the reserve's smaller plant is unsolved when the block ends.
+- The barge-master: current with a bed; one touch per exchange (break before his second touch); the RIGHT forearm bruised; the record 'now breathes' — the season's figures 'never once settled into a line'. Gault's continental FOURTH 'on the figures' — Norhold has NO individual third-place bouts (#40; the third place is the TEAM trial, M8). Meet records are figure-only ('a seat's report'). The right shoulder unasked 'since the mill town's plate'. Withrow's toast (nine words). Vastin: the query (*mitigation options*, *containment framing*, *exposure trajectory*) answered as evaluation, 'acknowledged and not engaged'; he orders the Norhold observation files to his own desk (no routing slip; the initials unresolved). Havel four entries. Departure on the melt; no season named.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane weekdays (day N falls on weekday (N mod 7)+1; d84 a First-day). No season names, no month names, no month order.
+
+| Day | Weekday | Event |
+|---|---|---|
+| d84 | First-day | Wagons leave the quarry town (M3) |
+| d86 | Third-day | Waystation at the foot of the hills. Morning: Rooke clears the left seam; the floor talk; "one ordinary result". Noon: the circular; Rooke's breath; Seln's four hours. Night: the Log |
+| d93 | Third-day | Home up the bluff at evening; Bracken files the circular |
+| d94 | Fourth-day | *Qualified* on the cohort board, the chalk star; Withrow will travel |
+| d95 | Fifth-day | Coursework at the counter ("Thank you for the form." / "Mm.") |
+| d97 | — | Cael gives the Stone reserve the first exchange walking ("Better") |
+| d101 | Fourth-day | Five of six on the oak, on the speed line with Lira |
+| d106 | Second-day | Wagons north; Withrow and Bracken in the hired carriage |
+| d107 | Third-day | The confluence at dusk; the innkeeper's frame; the draw at the eighth bell |
+| d108 | Fourth-day | Iron R16 and QF; Copper QF and SF. Salt store: the Blade (item two), **the caravan captain**, the eastern Stone. Crowd turned away at dusk |
+| d109 | Fifth-day | **Lira vs the builder** (SF); Karis vs Ephram (SF); Brom's Copper final; the coastal Wind (third bell); **Lira vs Ephram** (F); **the barge-master** at dusk |
+| d110 | Sixth-day | Record posts at the first bell; the steward's report at breakfast; the strata Log; the convenor at the fourth bell; Withrow's sentence; the table (Gault; "To the paper") |
+| d111 | Seventh-day | Wagons home |
+| d112 | First-day | The bluff in lamplight; the frame |
+| d119 | First-day | The cold term opens: A BRACKET OF CEILINGS; Brom pins the notations; Shield-reserve sessions begin (every second day) |
+| d119–d125 | week 1 | Vastin: the digest and query (a few days in), the answers, the reply "inside the week", the files ordered next morning. Havel's rotation sheet on the Fourth-day (d122) |
+| week 2 | d126–d132 | Lira's Zerin build (no gather); Ephram's bench floor built at the week's end |
+| week 3 | d133–d139 | Rooke shuffles the Shield reserve's clock |
+| week 4 | — | Ephram's "North." (fourth day of the trial drills); the Stone reserve stops getting through Brom's door |
+| d149 | Third-day (wk 5) | Karis's map; the slip unopened; the watchers on the sixth bell |
+| week 6 | d154–d160 | Hesk's letter; the block's inventory in the Log; Rooke's stick stops getting through Brom's door |
+| week 8 | d168–d174 | Brom's door (*Sound*); the Shield Log ("I think Shield is solved") |
+| d186 | Fifth-day | Seln's null report; the roster written and pinned at dusk |
+| d187 | Sixth-day | Roster and provisional seedings on the board; Lira's night on the wall (d187–188) |
+| d188–189 | — | The melt (the night after the wall); the road a stream, then mud |
+| d190 | Second-day | Departure; Ostrand on the bridge; the watchers stay; the first waystation on the north road |
+
+**Every rating figure in the movement** (#38: five judges; per-axis strike; marks to fifteen; ten = par; ratings to forty-five; par thirty. Bands: Copper 12–17; Iron 18–21; strong Iron to Silver-touched 22–27; Silver 28–34; Gold 35+).
+
+| Bout | Result | Figure(s) | Band |
+|---|---|---|---|
+| Cael vs the confluence Blade (item two), exhibition, d108 | 2–1 in four | **21.33 → 21** | Iron (top) |
+| Cael vs the caravan captain (Bronze Shield), exhibition, d108 | 2–1 in five | **24.00 → 24** | strong Iron |
+| Cael vs the eastern academy Stone, exhibition, d108 | 2–0 in three | **22.67 → 23** | strong Iron |
+| Cael vs the coastal academy Wind, exhibition, d109 | 2–0 in three | **25.33 → 25** | strong Iron |
+| Cael vs the barge-master (Iron R9 Force), exhibition, d109 | 2–1 in four | **22.33 → 22** (the fall) | strong Iron |
+| **Cael's season, thirteen exhibitions** | thirteen bouts unbeaten, none lost | 23, 22, 24, 22, 21, 23, 26, 20, **21, 24, 23, 25, 22**; spread 20.33–26.00 | the record "breathes" |
+| Lira vs the coastal Mire (Iron R8, second seed), R16 | 2–0 in three | not stated | |
+| Lira vs a valley Blade, QF | 2–1 in four | not stated | |
+| **Lira vs the builder (Iron R7 Force), SF** | 1–1 after four, figures | **Lira 27, the builder 25** | strong Iron / Silver-touched |
+| **Lira vs Ephram, F** | 2–1 in four | **Lira 26, Ephram 25** | Lira's fourth title |
+| Ephram vs the eighth seed, R16 | won | not stated | |
+| Ephram vs the top seed (the river academy's first entry, a Stone), QF | 1–1 after four, figures | **Ephram 25, the Stone 24** | |
+| Ephram vs Karis, SF | 2–1 in four | **Ephram 24, Karis 22** | |
+| Karis, R16 and QF | each 1–1 after four, won on the figures "by a point" | not stated | |
+| Brom, Copper QF and SF | won | not stated | |
+| **Brom vs the hill-country veteran, Copper F** | 2–0 in four | **Brom 23, the veteran 20** | Brom's fourth title |
+
+**Standings.**
+- The confluence: Lira the Iron title (fourth of the year, no bout lost); Ephram second; Karis third (shared with the builder; no bout for third); Brom the Copper (fourth of the year, "Four meets, four titles, no bout lost").
+- The region: **Halcenvane first on the final count**; qualified (the circular, d86, "a meet to spare"); read last of the three by the convenor in the registry's order.
+- Exhibitions: thirteen, unbeaten.
+
+**Burst ledger by day (Cael; the free budget is per day on a floor).**
+
+| Day | Floor (free price) | Use | Bursts | Note |
+|---|---|---|---|---|
+| d86 | road | — | 0 | |
+| d101 | sprung oak (six) | speed line with Lira | 5 of 6 | the hip's usual bill, gone by morning |
+| d108 | salt store: deal planks on stone (five) | Blade 1 (E4); caravan captain 2 (E1 behind the man; E3 round to the left); eastern Stone 1 | **4 of 5** | Ember 2 (captain E3, E4) |
+| d109 | salt store (five) | coastal Wind 1; barge-master 2 (E3 along the grain; E4 along the new grain) | **3 of 5** | the fall on the right forearm (E1) |
+| cold term | sprung oak (six) | Shield reserve sessions ≤3; the rest on the speed line | — | Ember two a round on the reserve, by choice |
+
+- Lira (her own rate; Rooke's rule): against the builder one burst in E1 and almost none after; one burst to take E2 of the final.
+
+**Bodies.**
+- **Cael:** left shoulder-seam **cleared d86** (Rooke: "Tomorrow it's yours again"; full load from about d97). **Right forearm** bruised wrist to elbow on the outer side, d109 (the barge-master's E1 fall), strapped by Gault, "a week"; **cleared** (week-6 inventory). Hip: the usual after bursts. **Right shoulder** (Pressure): untouched all movement. Shadow: rent from waking; drifts in the gaps (one on the road, one on the stair in week 6), none in the work; deployment none.
+- **Lira, Brom, Karis, Ephram:** fit. Lira spent at the end of d109 (fatigue only).
+
+**Fragments and progression.**
+- Six confirmed plus the anomaly (not touched). No new capability.
+- **Public record:** Wind and the read remain the public suite. **Ember was spent on a public floor for the first time this book**, at the circle's two-contact rate, on the caravan captain; it was already on paper (the Greyvane exhibit; the wing vessel), and the inventory counts it as "a third shown at its documented rate" (owner flag 4).
+- Compression shown on no floor; Pressure flat; Shadow none.
+- New technique, not a fragment: **timing and taxing Shield renewal** (watch the plant, find the oldest pane, ignite the pane coming up; the lost beat runs down the clock). **Riding a current along its bed** (read the back foot; burst with the push). Cael believes Shield "solved"; the narration never confirms it.
+- The variance program: item two run (the Blade, the crowd); the barge-master's fall is the first undesigned cost and is welcomed. The band is broken for good.
+
+**Knowledge.**
+- **Cael:** qualified; Halcenvane first in the region; the Shield clock; the current's bed; that the strata keep holding him up; Zerin's numbers have no room for a gather; that Ephram can call a floor; that Gault was fourth on the continent; Hesk's clock advice; his own "clock with four hands". He knows nothing of Vastin's query.
+- **Karis:** Norhold by provinces (thirteen of fourteen houses; the fourteenth a lake house on a recount); the founding-articles slip unopened again; the watcher log unchanged all term ("Whoever pays them must pay them by the year").
+- **Lira:** Zerin's distances and intervals by heart; no gather found; the expected semifinal line.
+- **Brom:** his left-side door; *Sound*.
+- **Ephram:** trial caller; "You need to be told where the floor is."
+- **Rooke:** has not asked. He chose Shield for Cael because "doctrine houses put Shields at the front of everything".
+- **Seln:** the block was true; two ignitions a round where nobody counted; he did not ask why. No reason stated.
+- **Vastin:** the digest; the query and its three nouns; his own answers; the reply; the files on his chair, unread. No knowledge of fragments or of Seln.
+- **Havel:** the file and the mark; the changed pattern; no fifth entry.
+
+**Resources.**
+- The waystation circular, framed by the woodwork students, under the chalk on the cohort board (lent from the archive).
+- Rooke's training sheet with the cold-floor line and one more line (unread) after the captain; the A BRACKET OF CEILINGS sheet.
+- The steward's closing report (Karis's copy); the confluence meet record (Seln's file).
+- Marek's notations over Brom's bed (until the night before leaving); Zerin's extract (Lira); Karis's map in the reading room.
+- Hesk's letter, behind the observation notebook's front board.
+- The Norhold travel roster (eleven) and the continental index's provisional Iron seedings.
+- Brom's snowdrops.
+
+**Relationships.**
+- **Rooke:** one breath; "harder than brilliant"; fills Gault's cup; makes Ephram caller ("I'd like you to have practised first").
+- **Lira:** charges the builder rent; gives Ephram his entry on purpose; "It's the best frame I've ever seen"; "Not glad tonight. Morning."
+- **Ephram:** "That was the best I had"; carries trestles; finds his one-word voice.
+- **Brom:** "Dull wins"; the strongest door in the house.
+- **Karis:** the pool; the provinces; "After the season."
+- **Gault:** "I have been mispriced by professionals, young man"; "It's a pleasant change."
+- **Withrow:** stillness at the reading; one sentence; looks back at the frame; shakes Seln's hand.
+- **Seln:** "Approximately four hours ago"; the roster in his hand.
+
+**Open threads.**
+- Opened: Vastin's query and its reply; the Norhold files on his chair (unread); the Shield doctrine Cael believes solved; Zerin's missing gather; Ephram as caller; the fifth place in the squad (pending Norhold's trial rules); the provisional seeding (Zerin on Lira's semifinal line).
+- Advanced: Havel (pattern changed, four entries); the strata plant (one Log line); Brom's flat line ("Paper notices"; the review not staged); the watchers (they do not follow).
+- Closed: the threshold (qualified); the qualifying season (first in the region); Rooke's talk about the floor; the left shoulder-seam.
+
+**Prose vs plan differences.**
+- (a) **Lira vs the builder is the semifinal, not the final**; the final is Lira vs Ephram. This is the only order in one draw that gives Lira first, Ephram second and Karis third (owner flag 1).
+- (b) Rooke's breath and Seln's line come at a waystation midday meal, and Gault passes the circular unread; Rooke clears the shoulder that morning and pays his "talk about the floor".
+- (c) The packet's "Withrow … says eight words": her line is nine words; the prose states no count (owner flag 3).
+- (d) The confluence's exhibitions are five, all fought, across two days in the salt store; the barge-master is the meet's last bout, which lets Withrow watch it.
+- (e) Vastin does not read the files (M5's seat-twelve beat is left intact).
+
+## New canon minted (flag where marked)
+
+- **The waystation** at the foot of the hill country; the circular's arithmetic (the region sends three; the line under the third; the coast meet's split points; the lake house's bad meet).
+- **Rooke's sheet line:** *Slow on a cold floor: walk the slow. Feet moving inside the wait. If the floor won't let you walk, don't run the item.*
+- **The circular's path:** Gault → Rooke → Bracken's archive → the woodwork shop (lent "unmarked") → the crooked frame on the cohort board.
+- **The confluence (flag):** a tongue of land where the bluff's river meets a bigger one from the east; an unfrozen seam; barges three deep. The **main hall** is the river guild's own, new that year: a sprung pale-oak floor (six free), seating six or seven hundred, the panel's dais on the east rail. The **second hall** is the old salt store on the north quay: deal planks laid on stone without joists (**five free a day**), a hundred and forty places, river doors with a draught.
+- **The innkeeper** (round, red): the wool-town ruling framed behind his counter, bought off a carter for a mark.
+- **The draw (flag):** sixteen; a host-house R1 at the foot; Lira at the second seed's line (a coastal Mire, R8); the builder (the hill-river house, Force, R7) at the third seed, with a chalked square; the top seed the river academy's first entry (a tall heavy Stone), beaten by Ephram on the figures in the QF. **The confluence fights no bout for third** (both beaten semifinalists stand third). Brom heads a Copper draw of eight.
+- **The five filings:** two academy Irons with no reason; the confluence-house Blade, *the town asked me*; the caravan captain, *Bronze. Shield. Convoy guard on the salt road. I have never lost a wagon. I'd like to know whether I'd lose one to you.*; the barge-master, *Iron Rank Nine. Force. Barges.* / *I have read this river all my life. Let's see.*
+- **Shield mechanics (flag, M7-sensitive):** coverage as discrete **panes**, each a declaration (*breath, plant, pane*); panes thin and are renewed **oldest first** on a clock; a renewal outruns a step or a burst; **Ember at contact on a forming pane cracks it**, the re-declaration costs a beat, and the beat runs down the whole clock. A shortened count buys freshness with slack. The caravan captain's saying: "a convoy's only as fresh as its oldest guard." Nothing continuous is shown.
+- **The builder's Force:** held pushes set at planted corners ("three corners and a door"); the settle before each plant; pushes laid on the move are thinner and dearer.
+- **The barge-master:** Iron R9 Force; works the two rivers' barges; fights at the confluence every year in the deep cold; twice second seed in its Iron before he stopped entering; his current is one sweeping push whose bed runs from his planted back foot; the river hail "What are you carrying?"
+- **The steward's report:** obtained by Karis for a corrected copy of the Copper results; Bracken on *it must be admitted*.
+- **The convenor** reads the qualifiers in the registry's unexplained order; Halcenvane last.
+- **Gault (flag):** his qualifying year in two farm carts lent by the chancellor's brother; a wheel lost mid-ford with his only boots; the brother's boots packed with straw; **fourth in the continental Copper**, losing the bout for third to a coast girl; the index called him *plodding*.
+- **Ephram** keeps the table's toasts ("To the paper… Mostly downward… May it keep on trying.").
+- **The bluff in lamplight:** first-years chant *Copper!*; the dinner bell; the careful hand under the frame never identified; Fenmark's man with a brass level.
+- **Vastin (flag):** the digest bound in grey board; the query pinned under the higher office's seal with no routing slip and no initials; the last letter from that height was eleven years ago, about the drains; the word *resettlement*; his three answers (verbatim in ch24, each "Read as … Evaluation …"); the reply *Acknowledged. The submission of the evaluating office is entered.*; the walk home by the river road; the Norhold files in two boxes on the chair beside his table, unread.
+- **Havel (flag):** rooms over a chandler's; *Continental finals, Norhold. Observation support. Seat two of six.*; three manuals; the notebook's two homes (the locked desk drawer between postings, the inside pocket on postings, reconciling B4 ch44 with the ledger) and now the kit, between the second and third manuals.
+- **A BRACKET OF CEILINGS** (the five lines verbatim in ch25). Norhold's trial rules come only at the orientation. **The squad of five:** Cael in the fifth place "until a clerk at Norhold tells me otherwise"; the Shield reserve as alternate and travelling.
+- **The bench floor** (three benches, a cushion for high ground, chairs with two gaps, two flags); Ephram's one-word calls ("North." "Gap. Second.").
+- **Lira's Zerin:** the reserves as gateposts; Brom's spoon; no gather fits Zerin's interval; Lira quietly shortening her own intervals.
+- **Brom's left-side door:** the guard changing hands on a left turn; worked with the Stone reserve, Rooke's stick and Cael's read; Rooke's word *Sound*.
+- **The Shield reserve:** a third-year from a farming family in the river country; a five-beat clock, then a shuffled one (four, six, five, four); keeps a note.
+- **Karis's map** in the named reading room; the **fourteenth delegation** is a lake house qualified at the year's turn on a recount (flag, minor).
+- **Hesk's letter (verbatim; flag):** *Your circular came down the coast road on the same coach as a new belt for my lathe, and I am not sure which of them I was gladder to see. The belt runs true. So, I gather, do you.* / *It is very cold here. I have had three barometers brought in this month by men who swear they are broken, and none of them is. A glass read in a cold room reads short. Warm it, and wait, and it comes right. I tell every man this. Most of them look at me as though I had picked their pockets.* / *You will be going to a big city. In a big city every clock disagrees with every other clock, and every one of them is certain. Do not set yours by the loudest bell. Pick one clock you have reason to trust, and keep to it, and let the rest argue among themselves. The travelling clock I gave you will be no help at all. It never has been. Set it an hour fast as you always do and you will be right by accident, which is how that clock has always been right.* / *Tell the Wind girl the workshop is still open. Tell the big one I have heard about his line in the Copper and that a flat line is the hardest thing in my trade to make. — H.* No birthday, no history.
+- **Seln's block report (verbatim):** *Subject in residence for the term. Training per house schedule, in preparation for the continental finals. Capabilities exercised in training consistent with those on record. No undisclosed capability observed. Travel per the attached roster. Schedule continues. Routine.* He writes the roster himself; pins it under the crooked frame.
+- **The provisional seedings** from the continental index (Rooke's early copy); the draw itself is made at the orientation.
+- **Departure:** Withrow shakes every hand, Seln's last; Withrow and Bracken follow in a week by the faster road; Ostrand on the bridge on a market day; snowdrops in Brom's buttonhole; Karis's new log line ("We've been published").
+

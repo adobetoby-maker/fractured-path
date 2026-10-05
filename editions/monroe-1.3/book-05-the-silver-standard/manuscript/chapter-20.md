@@ -4,7 +4,7 @@ Rooke looked at the shoulder in the stable doorway, because the stable was the o
 
 The waystation sat at the foot of the hill country, where the road came down off the last of the slate and ran out level across a country of hedges and frozen ditches. Behind it the hills stood up grey in the first light. They had been two days coming down out of them. Ahead, by Rooke's reckoning, lay another week of flat road and then the bluff.
 
-"Arm up," said Rooke. "Slowly. Stop when it tells you."
+"Arm up. Slowly. Stop when it tells you."
 
 Cael lifted the left arm out to the side. It went to the height of his shoulder before the front of the joint said anything, and what it said was small and sulky, not the hot pull of the slate.
 
@@ -16,7 +16,7 @@ He brought the arm forward, and across his body, and back. Rooke stood with two 
 
 Cael pushed. Rooke's hand did not move, and neither did the seam.
 
-"That's four days," said Rooke, and took his fingers away. "This is the last half of the fourth. You'll carry nothing heavy before noon, and after noon you'll carry your own kit and nobody else's. Tomorrow it's yours again." He wiped his hands on his coat, though there was nothing on them. "Now the floor."
+"That's four days." Rooke took his fingers away. "This is the last half of the fourth. You'll carry nothing heavy before noon, and after noon you'll carry your own kit and nobody else's. Tomorrow it's yours again." He wiped his hands on his coat, though there was nothing on them. "Now the floor."
 
 He had said *We'll talk about the floor* in the quarry town, and he had not said it since. Cael had begun to think that he never would. That was Rooke's way with most things: to put a correction on a sheet and leave the cause where he had found it.
 
@@ -44,7 +44,7 @@ They stood a moment longer in the doorway. In the yard the wagoner had got the f
 
 "Where are we?" said Cael. He meant the season, and Rooke knew he meant it.
 
-"Second," said Rooke. "Still second, by less. One meet left on the card, and the line close enough to see." He pulled his coat closer. "What this house needs at the confluence is one ordinary result. Not a brilliant one. Nobody has to be brilliant. Five fighters do what they do on a decent floor, and we come home with our points, and the arithmetic does the rest." He looked at Cael sidelong. "You'll find that harder than brilliant. Most good fighters do."
+"Second. Still second, by less. One meet left on the card, and the line close enough to see." He pulled his coat closer. "What this house needs at the confluence is one ordinary result. Not a brilliant one. Nobody has to be brilliant. Five fighters do what they do on a decent floor, and we come home with our points, and the arithmetic does the rest." He looked at Cael sidelong. "You'll find that harder than brilliant. Most good fighters do."
 
 ---
 
@@ -70,7 +70,7 @@ Nobody at the table said anything. The reserves had stopped arguing, and Brom ha
 
 Lira reached it first. She read it with her lips moving, which she did only with figures she cared about.
 
-Karis took it from her and went down it with a pencil, touching each figure with the point and not marking any of them. The region would send three houses north at the year's turn, and for Halcenvane to miss, three houses would have to pass it at the confluence, and two of the three that might have done it had spent the same week on the coast taking points off each other, so that whatever sum you tried, there was no longer a way through. Karis tried four sums. Then she laid the pencil down beside the sheet, very straight.
+Karis took it from her and went down it with a pencil, touching each figure with the point and not marking any of them. The region would send three north, and there was no longer a way through. Karis tried four sums anyway, one after another, in case the sheet had made a mistake that only a fourth sum would catch. Then she laid the pencil down beside the sheet, very straight.
 
 "Does that mean—" said Ephram.
 
@@ -144,7 +144,7 @@ Brom woke as she climbed past him. He opened one eye and looked at the hedges, a
 
 "Good," said Brom, and shut the eye again.
 
-He wrote it that night at the waystation's window, on the long table under a lamp, with the left arm free on the board for the first time in four days.
+Cael wrote it that night at the waystation's window, on the long table under a lamp, with the left arm free on the board for the first time in four days.
 
 *Qualified. Rooke read it at a waystation table with the bread going stale beside it, and shut his eyes for one breath, and then told us not to get careless. Seln had known since breakfast. Gault filed it in his case and then thought better of it and gave it to Rooke.*
 
@@ -192,7 +192,7 @@ On the Fifth-day Cael took his coursework to the wing's counter, as he did every
 
 "Thank you for the form," said Cael.
 
-"Mm," said Seln, and took the next folder. Nothing in his face said that he had poured tea at a waystation the week before and told a table something none of them could have known. That was the arrangement, too, Cael thought, going back out into the cold. It was the one the office did not keep.
+"Mm." Seln took the next folder. Nothing in his face said that he had poured tea at a waystation the week before and told a table something none of them could have known. That was the arrangement, too, Cael thought, going back out into the cold. It was the one the office did not keep.
 
 Brom read the circular's figures once, at the common-room table, with Cael at his shoulder. He went down his own house's column with his finger, stopping at each meet, and said "Same line again," with the deep content of a man finding his tools where he had left them.
 
@@ -230,7 +230,7 @@ The draw went up in the hall at the eighth bell, by lamplight.
 
 There was one Iron draw this time, sixteen strong, with no split at any rank. It was seeded by formal rank, as the circuit seeded everything, with the foot of the list set against its head. Lira was not at the foot. A host-house Rank One, advanced at the last sitting before the year's turn, had been registered after her, and so stood below her. He drew the top seed.
 
-Lira drew the second seed's line, a coastal Mire Path, Rank Eight.
+Lira drew the second seed's line, a coastal Mire Path, Rank Eight, who stood below the top seed only by the registry's dates.
 
 She stood in front of the board with her hands in her pockets and read down her half of it slowly: the Mire in the first round, then whoever came through the second pairing, and in the semifinal, if the seeds held, the third seed.
 

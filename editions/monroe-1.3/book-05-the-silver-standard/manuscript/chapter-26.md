@@ -90,21 +90,9 @@ The letter went behind the observation notebook's front board, with the others.
 
 He thought about the clocks for a while afterward, sitting by the fire with the notebook on his knee. Hesk had never once in his life given advice that was only about the thing it seemed to be about. In a big city every clock is certain, and you keep to one you have reason to trust. Cael knew which one he had. It had four hands, Lira's and Brom's and Karis's and the Log's, and between them they had kept better time this year than any bell on the continent.
 
-He wrote the Log that night, the long inventory he wrote once a block, at the window of his room. Below the window the ferry landing lay white and empty except for its two coats.
+He wrote the block's inventory that night at the window of his room, with the ferry landing white and empty below except for its two coats. Most of it said what it always said, so he wrote those lines short: the oak's six free a day and the landing beat no shorter; the right shoulder unasked for anything since the mill town's plate; Compression shown nowhere, not even for the barge-master's fall; Shadow's rent from waking, and one drift on the stair. Then he wrote the two lines that were new.
 
-*Inventory, the sixth week of the cold term.*
-
-*Wind: six free a day on the sprung oak, as ever; the landing beat no shorter. Three spent on most Shield mornings, the rest on the speed line with Lira. The hip after, as ever.*
-
-*Iron read: in use all day, on everything. Zerin's numbers have taught it nothing, because there's nothing in them to read but numbers.*
-
-*Pressure: flat. The right shoulder hasn't been asked for anything since the recess, and says so with some satisfaction.*
-
-*Compression: shown nowhere. Not at the confluence, not on the oak. The barge-master's floor wanted it once, for the fall, and I gave it the forearm instead. The forearm cleared in a week.*
-
-*Ember: two contacts, the circle's rate, on the caravan captain at the confluence, in front of a hundred and forty people. It was on paper already, at the back of the Greyvane transcript, and it's on a meet record now as well. Two a round on the Shield reserve since, on a floor with no crowd, because a habit kept only in public is a costume.*
-
-*Shadow: rent from waking, every day, spent or not. One drift this week, in a gap, on the stair. None in the work. Deployment: none. Still nowhere.*
+*Ember: two contacts, the circle's rate, on the caravan captain at the confluence, in front of a hundred and forty people. It was on paper already, at the back of the Greyvane transcript, and it's on a seat's report now as well. Two a round on the Shield reserve since, on a floor with no crowd, because a habit kept only in public is a costume.*
 
 *Six. The record holds two of them public, and has been shown a third at its documented rate. Nothing on any floor this year has been news to any paper. The doctrine holds.*
 
@@ -126,7 +114,7 @@ He read the second. The subject had trained per the house's schedule. The schedu
 
 He read the third. The capabilities exercised were consistent with those on record. The subject had spent two ignitions a round against the Shield reserve on the oak, every second day.
 
-The record held the ignition: a thin exhibit at the back of a public transcript, a reading on the wing's own vessel, and now a meet record from the confluence. Consistent.
+The record held the ignition: a thin exhibit at the back of a public transcript, a reading on the wing's own vessel, and now the confluence seat's report. Consistent.
 
 He had watched one of those sessions from the rail of the oak, on his way to somewhere else, and counted. Two a round. Every round. With nobody there to count but a third-year reserve and a clerk on his way to somewhere else.
 
@@ -250,7 +238,7 @@ At the ferry landing, the other two coats were still standing on the bell.
 
 "They're not coming," said Karis, behind him. She had the marbled log open on her knee, and she had written the time, and the number, and then, under it, a line she had never written before.
 
-"No," said Cael.
+"No."
 
 "They don't need to." She closed the log. "Norhold prints a program. We'll be in it every day, with the hour and the hall. Anybody who wants to know where we are can buy it for a copper." She put the log away in her satchel. "We don't need watching any more. We've been published."
 

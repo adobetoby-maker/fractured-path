@@ -64,13 +64,13 @@ Nobody said anything for a moment. Then Ephram, who had read the fourth line thr
 
 "Trial caller," he said.
 
-"Trial caller," said Rooke. "The team trial at Norhold is squads of five, on a scenario floor, against objectives. Somebody has to call it. It's you."
+"Trial caller. The team trial at Norhold is squads of five, on a scenario floor, against objectives. Somebody has to call it. It's you."
 
 "Why me?"
 
 Rooke looked at him. Behind him the frost on the windows caught the lamplight and glittered.
 
-"Because you write everything down," said Rooke. "Because you know where everybody on this floor is weakest, and you've never once used it against them outside a ring. Because you lost the final at the confluence by a quarter of a beat and came off the floor and carried trestles." He turned back to the board. "And because one day somebody is going to make you captain of something, and I'd like you to have practised first."
+"Because you write everything down. Because you know where everybody on this floor is weakest, and you've never once used it against them outside a ring. Because you lost the final at the confluence by a quarter of a beat and came off the floor and carried trestles." He turned back to the board. "And because one day somebody is going to make you captain of something, and I'd like you to have practised first."
 
 Ephram stood very still. His ears went slowly red, all the way round.
 
@@ -88,7 +88,7 @@ Karis had been reading the third line all this time with her lips pressed togeth
 
 "That's a great deal of reading," said Karis.
 
-"Yes," said Rooke. "You'd be insulted by less."
+"Yes. You'd be insulted by less."
 
 She did not deny it.
 
@@ -96,7 +96,7 @@ Cael read his own line again. *Learn his clock until you could keep it for him.*
 
 "Why Shield?" he said.
 
-"Because whoever volunteers for you at Norhold won't be a quarry foreman," said Rooke. "He'll be sent. He'll come from a house that wants to survey you, and survey is what doctrine houses do, and doctrine houses put Shields at the front of everything." He turned to go. "You had a good bout with a Bronze at the confluence. I watched it. Find out if it was the Bronze or you."
+"Because whoever volunteers for you at Norhold won't be a quarry foreman. He'll be sent. He'll come from a house that wants to survey you, and survey is what doctrine houses do, and doctrine houses put Shields at the front of everything." He turned to go. "You had a good bout with a Bronze at the confluence. I watched it. Find out if it was the Bronze or you."
 
 He went down the stair, and the squad stood in front of the board for some time afterward in their coats, each reading his own line and then, when he thought nobody was looking, everybody else's.
 
@@ -104,7 +104,7 @@ He went down the stair, and the squad stood in front of the board for some time 
 
 "He said it at the coaches' supper," said Lira.
 
-"He said it," said Brom. "Now he's built it."
+"He said it. Now he's built it."
 
 Karis was still looking at the third line. "He's never given me a whole city before," she said, to nobody in particular. She did not sound displeased.
 
@@ -252,13 +252,7 @@ The Shield reserve was a third-year from a farming family in the river country, 
 
 "Keep it," said Rooke. "Show it to me."
 
-On the first morning Cael found his clock in four renewals.
-
-It was an honest clock and a slow one, the clock of a young man who had been taught to count and had never been asked to stop. Breath, plant, pane; then the same again on the next pane, at a steady five beats, round and round. He renewed the oldest first, as the caravan captain had. Every Shield on the circuit seemed to have been taught that, and Cael supposed it was simply true, as it was true that you led with your strong side.
-
-By the end of the first morning Cael could stand off and say the reserve's next breath aloud, a beat before he drew it.
-
-"Now," he said, on the second morning, and lit the first contact into the pane that was coming up.
+The reserve's clock was an honest five beats, oldest pane first, and Cael had it in four renewals. On the second morning he lit the first contact into the pane that was coming up.
 
 The pane came up cracked, as the captain's had. The reserve felt it go wrong under his hands and drew breath again to set it, and lost the beat, and the next pane along stood a beat too long and went thin. Cael walked into the thin place and put his palm on the reserve's shoulder.
 
@@ -266,32 +260,28 @@ The reserve looked at the shoulder, and then at Cael, and then at his own hands.
 
 "That's not fair," he said, after some thought. "I didn't do anything wrong."
 
-"You didn't," said Cael. "That's why it works."
+"You didn't. That's why it works."
 
-He kept to two contacts a round, every round, though there was no crowd on the oak and no panel and nobody to count them but the Shield reserve. It was the circle's rule for public floors and had nothing to say about private ones. But a habit kept only where people were watching was not a habit. It was a performance. He had spent a year learning the difference, and he did not mean to forget it in a warm room at home.
+He kept to two contacts a round, every round, though there was nobody on the oak to count them but the Shield reserve.
 
-In the third week Rooke took the reserve aside and spoke to him for some minutes at the far end of the oak. When the reserve came back, his clock had changed.
+In the third week Rooke took the reserve aside and spoke to him for some minutes at the far end of the oak, and when the reserve came back his clock had been shuffled: four beats, then six, then five, then four again, in no order Cael could find. For two sessions the reserve held his coverage against Cael for whole rounds, and went off the floor afterward looking quietly astonished at himself, and wrote a great deal in his note.
 
-He no longer renewed on five beats. He renewed on four, then six, then five, then four again, in no order that Cael could find on the first morning. It was a clock with its numbers shuffled. For two sessions the reserve held his coverage against Cael for whole rounds, and went off the floor afterward looking quietly astonished at himself, and wrote a great deal in his note.
+On the third session Cael stopped listening for the beat and watched the foot instead. Whatever the count, the reserve still planted before a pane came up, because he had never been taught to set a pane without the floor under it, and perhaps nobody at Iron had. He still renewed the oldest first, too. The plant told Cael when, and the order told him which, and the cracked pane cost its beat as it always had.
 
-On the third session Cael found what had not changed.
-
-The numbers had changed. The plant had not. Whatever the count, the reserve still had to plant his back foot before a pane came up, because a pane was a declaration and a declaration needed the floor under it. The read could see a planting foot through any shuffle of numbers. Cael stopped listening for the beat and started watching the foot. Every time it went down he knew a pane was coming up a breath after, and which pane, because the reserve still renewed the oldest first. Rooke had shuffled his count. He had not shuffled his order, and perhaps no Shield could.
-
-Cael lit the first contact on the next plant, and the cracked pane cost its beat, and the beat came out of the next pane's life, the same as ever.
-
-"He's found it again," said the reserve, to Rooke, from the floor. He did not sound upset. He sounded as if he had been shown a new road home.
+"He's found it again," said the reserve, to Rooke, from the floor. He did not sound upset. He sounded like a man who had been shown a new road home.
 
 "He has," said Rooke. "Write down how."
 
-By the sixth week the reserve could not keep a pane on Cael for a whole round, whatever he did with his numbers. By the eighth he had stopped trying to hide the plant and had started trying to make it smaller. That was a better idea, and it made the work harder, and Cael enjoyed it more than anything he had done on the oak all term.
+Cael wrote it in the Log at the end of the sixth week, and found that he was smiling while he wrote it.
 
-He spent his bursts on it, too, when the work needed them. The oak gave its six a day, as it always had, and on the Shield reserve's mornings he seldom used more than three. The rest of the day's price he kept for the speed line with Lira in the afternoons.
+*The Shield reserve, six weeks. One clock, then a shuffled one, and both come down to the same two things: a plant before every pane, and the oldest going first. Watch the foot, find the change of guard, tax the pane that's coming up.*
 
-He wrote it in the Log at the end of the eighth week, and found that he was smiling while he wrote it.
+*I think Shield is solved. Not easy, but solved, like a lock once you've found where the pins are. I'd like to meet a Shield at Norhold now, and see whether the doctrine houses keep their clocks any better than the salt road does.*
 
-*The Shield reserve, eight weeks. He started with one clock and Rooke gave him a shuffled one, and both of them come down to the same thing: before a pane there's a plant, and the oldest goes first. Shuffle the numbers and the plant still shows; change the numbers and the order still holds. Watch the foot, find the change of guard, tax the pane that's coming up. Two contacts a round, and the beat it costs runs down the whole clock.*
+In the eighth week the reserve stopped trying to hide the plant and began trying to make it smaller.
 
-*I think Shield is solved. Not easy, but solved, like a lock once you've found where the pins are. I'd like to meet a Shield at Norhold now. I'd like to see whether the doctrine houses keep their clocks any better than the salt road does.*
+It was a better idea than the shuffle, and it was his own; Rooke had not given it to him. He planted with less of his foot and less of his weight, a little less each session, until on the last morning of the block the plant was a flicker in the ankle that the read caught perhaps two times in three. On the third time the pane came up untaxed, and the reserve's palm found Cael's ribs, and the reserve said "Oh," in a voice of great surprise, and wrote it down.
 
-*Rooke watched the last session from the rail and said "Good" once, and then "One reserve", and went away. I think he meant it as praise. I've written it down in case he didn't.*
+Rooke watched that session from the rail. He said "Good" once, and then "One reserve," and went away.
+
+Cael did not write that one in the Log. He meant to work it out first, and the block ran out before he had.

@@ -6,7 +6,7 @@ She did not do her bursts; she did the speed line on foot, up and down the flags
 
 When the steward called the first semifinal she straightened up, shook out her hands, and came past him into the hall.
 
-"I'm not going to fight his bout," she said as she went by. She did not stop. "I watched three of them yesterday. Every boy who went in there fought inside it. I'm going to fight mine and let him visit."
+"I'm not going to fight his bout," she said as she went by. She did not stop. "I watched both of his yesterday, and then I watched them again in my head till the lamp went out. Both boys who went in there fought inside it. I'm going to fight mine and let him visit."
 
 The hall was fuller than it had been the day before. The salt store's exhibitions did not start until after noon, and some of the crowd that had been turned away at its door the night before had come across the square instead, to see the provision boy's people. They filled the north side and spilled round into the west. Withrow and Bracken were in the front row of the east side again, under the panel's dais, with the rug across their knees.
 
@@ -58,7 +58,7 @@ At the rope Lira took a mouthful of warm water from Gault, spat it into the buck
 
 "Yes," said Rooke.
 
-"That's all," said Lira, and went back to her mark.
+"That's all." She went back to her mark.
 
 ---
 
@@ -162,7 +162,7 @@ The builder crossed the square and shook Lira's hand. He held it a moment longer
 
 "I couldn't find you," he said. He sounded more puzzled than anything. "I built all morning and I couldn't find you in any of it."
 
-"You built very well," said Lira. "I'd have lost to the first one, a year ago. I'd have gone in and lived in it." She let go of his hand. "I'm sorry. It was good work."
+"You built very well. I'd have lost to the first one, a year ago. I'd have gone in and lived in it." She let go of his hand. "I'm sorry. It was good work."
 
 Cael wrote the bout down that night, and found the sentence harder to write than any he had written about her before.
 
@@ -180,7 +180,7 @@ In the fourth Ephram took his second off the late half-turn, the move that had w
 
 Karis shook his hand at the centre and said something that made him laugh. Then she came back to the bench and sat down and opened her notebook.
 
-"Third," she said, before anybody could say anything. The confluence fought no bout for third. It stood both beaten semifinalists third together, as it had always done, so Karis and the builder would share the place. "It's a very good third. The pool was worth more than the placing." She turned the pages over one by one, so they could see. "Two panels, from the rope and from the floor. The best Iron in the region, from four feet away, all morning. Two people I'll meet again at Norhold, charted. And Ephram's late half-turn, which I couldn't stop, and now know why." She closed the book. "I'd pay a quarterfinal for any one of those. I paid a semifinal for all of them."
+"Third," she said, before anybody could say anything. The confluence fought no bout for third. It stood both beaten semifinalists third together, as it had always done, so Karis and the builder would share the place. "It's a very good third. The pool was worth more than the placing." She turned the pages over one by one, so they could see. "Two panels, from the rope and from the floor. The best Iron in the region, from four feet away, all morning. The two old houses' best Irons, who'll both be at Norhold, charted. And Ephram's late half-turn, which I couldn't stop, and now know why." She closed the book. "I'd pay a quarterfinal for any one of those. I paid a semifinal for all of them."
 
 Brom's Copper final came between the semifinals and the Iron final, because the Copper draw was smaller and finished early.
 
@@ -202,7 +202,7 @@ Karis wrote the line in her notebook while the clerk was chalking it.
 
 "Four meets, four titles, no bout lost," she said. "In the Copper." She tapped the line with her pencil. "That's very flat, Brom."
 
-"It's my line," said Brom. "I like it flat."
+"It's my line. I like it flat."
 
 "So do I. I'm only saying that somewhere there's a clerk whose whole work is to keep a list of lines like that." She did not say what the list was for, and Brom did not ask. "Copper isn't supposed to be that flat for a whole year. Paper notices."
 
@@ -286,7 +286,7 @@ Ephram stood very still in the middle of the floor, with his arm still half out,
 
 "It's a cold hall," said Ephram. He held out his own hand, and she took it. "That was the best I had."
 
-"I know," said Lira. "I'd have been very angry if it wasn't."
+"I know. I'd have been very angry if it wasn't."
 
 The figures went up a few minutes later: Lira twenty-six, Ephram twenty-five. It was her fourth title of the year, and she had not lost a bout. Ephram stood second in the region's Iron.
 

@@ -12,7 +12,7 @@ Gault came in with the coat over his arm and looked out of the window beside him
 
 "Of the crowd?"
 
-"Of the regulations," said Gault. "Stewards always are."
+"Of the regulations. Stewards always are."
 
 By the first bell the line had doubled. When Cael came along the quay with Gault and Rooke, people turned to look at him as he passed, and some of them called out to him cheerfully, by name.
 
@@ -90,7 +90,7 @@ Brom had taken his Copper quarterfinal and his semifinal in a morning, without a
 
 Ephram had beaten the eighth seed in the first round.
 
-Then in the quarterfinal he had drawn the top seed, the river academy's first entry, a tall heavy Stone who had headed the confluence's Iron list since the seeding went up.
+Then in the quarterfinal he had drawn the top seed, the river academy's first entry, a tall heavy Stone who had gone up to Rank Eight at the year's last sitting and had headed the confluence's Iron list since the seeding went up.
 
 They had been level after four exchanges, a touch apiece, and the figures had decided it. Ephram had twenty-five and the Stone twenty-four.
 
@@ -120,7 +120,7 @@ Every step he took was modest and every one of them was sound, and by the time t
 
 "And you?"
 
-"I saw it shut," said Lira. "That's not the same as seeing it." She looked away from the builder at last. "Ask me tomorrow."
+"I saw it shut. That's not the same as seeing it." She looked away from the builder at last. "Ask me tomorrow."
 
 ---
 
@@ -302,7 +302,7 @@ He came across to the centre and took Cael's hand, and held it, and looked him i
 
 "You found the change of guard," he said. "Most never hear it. You heard it and then you charged me toll on it." He turned Cael's right hand over in his own and looked at the heel of it, where the ignition had been. "That's a hot hand for a Bronze to meet on a cold day."
 
-"It's on my record," said Cael.
+"It's on my record."
 
 "I don't doubt it. Everything about you's on a record somewhere, they tell me." The captain let go. "We say on the salt road that a convoy's only as fresh as its oldest guard. I've said it to young guards for most of my life." He reached for his coat on the rope. "Never had it said back to me before. Well. I've lost a wagon after all."
 
@@ -310,13 +310,13 @@ He went off through the crowd with the sheepskin over his shoulders, and people 
 
 Several of them clapped him on the back as he passed, as though he had won, and Cael thought that in the way the salt road counted such things he very nearly had.
 
-Lira was at the rope when Cael came round. She had come across from the main hall between her bouts, still in her wraps, and had got in at the back by telling the steward she was his sister.
+Lira was at the rope when Cael came round. She had come across from the main hall after her bouts, still in her wraps, and had got in at the back by telling the steward she was his sister.
 
 "I saw the last two," she said. "The cracked one, and then the walk." She looked at him with her head on one side. "You charged him at the edge while it was still going up. That's mine. I did that to the pillar at the mill town."
 
 "I know. I thought of you."
 
-"Good," said Lira. "Now give it back. I've a builder tomorrow." She went off to her own floor at a run, with her coat flapping.
+"Good. Now give it back. I've a builder tomorrow." She went off back across the square at a run, with her coat flapping.
 
 Rooke said nothing at all when Cael came off. He held out the coat, and when Cael had his arms in it he took the training sheet out of his own coat and wrote one line under the line about walking the slow, and put it away again without showing it to anybody.
 
@@ -338,7 +338,7 @@ The steward kept saying *a hundred and forty places* and *the regulations of the
 
 In the end Gault went and stood beside the steward, said nothing whatever, and simply held his case in front of him by its handle. The crowd seemed to find this official enough, and drifted away up the lane in twos and threes, looking back.
 
-Across the square, through the main hall's high windows, Cael could see the Iron quarterfinal still running in the lamplight, to a gallery with whole rows of empty benches in it.
+Across the square, through the main hall's high windows, Cael could see the lamps lit over the board, and the clerk on his ladder chalking up tomorrow's card for a gallery with whole rows of empty benches in it.
 
 "That," said Karis beside him quietly, "has never happened at a regional meet. Not once. I'd have found it."
 
@@ -346,13 +346,13 @@ Across the square, through the main hall's high windows, Cael could see the Iron
 
 "A steward turning people away from an exhibition." She was writing as they walked. "While the seeded brackets play to empty seats next door. It isn't supposed to be possible. An exhibition counts for nothing." She closed the book. "Somebody's going to have to put that in a report. I'd give a great deal to read how they phrase it."
 
-Lira did not come down to supper until it was nearly over. She had spent the end of the afternoon in the main hall's gallery after her quarterfinal, alone, watching the builder fight his last bout of the day from the back row, and she came to the table with her hands cold and her eyes far away and ate what Brom put in front of her without looking at it.
+Lira did not come down to supper until it was nearly over. She had spent the end of the afternoon alone in the back row of the main hall's gallery, long after the last bout, drawing the builder's two bouts on her knee until the hall emptied round her, and she came to the table with her hands cold and her eyes far away and ate what Brom put in front of her without looking at it.
 
 "Well?" said Ephram.
 
 "He's very good," said Lira. "He's the best one this year that isn't on a sheet in Rooke's coat."
 
-She put down her spoon. "Every boy who fought him today fought inside his shapes. They tried to get out of them, and they tried to break them, and they were clever about it, and it didn't matter, because the shapes were his and the boys were only living in them." She looked round the table. "I'm going to find out tomorrow whether I have to."
+She put down her spoon. "Both boys who fought him today fought inside his shapes. They tried to get out of them, and they tried to break them, and they were clever about it, and it didn't matter, because the shapes were his and the boys were only living in them." She looked round the table. "I'm going to find out tomorrow whether I have to."
 
 He wrote the day that night at the inn, with the river loud under the window.
 

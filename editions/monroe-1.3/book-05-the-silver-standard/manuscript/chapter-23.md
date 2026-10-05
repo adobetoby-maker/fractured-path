@@ -112,7 +112,13 @@ He touched him on the ribs.
 
 *Two of five*, he counted, standing in the landing beat with the barn coming down round him.
 
-The barge-master stepped back. He looked at the floor between them for a moment like a pilot who has run aground where there was deep water yesterday. Then he planted his back foot again, somewhere new, and started a fresh sweep along a new line, because he was an old hand and an old hand does not wait to be beaten twice the same way.
+The barge-master stepped back. He looked at the floor between them for a moment like a pilot who has run aground where there was deep water yesterday.
+
+Cael walked his circle with the forearm held against his side. The steward let them both get their breath, and then called the fourth.
+
+"Exchange."
+
+The barge-master planted his back foot somewhere new and started a fresh sweep along a new line, because he was an old hand and an old hand does not wait to be beaten twice the same way.
 
 Cael watched the back foot plant. He saw the new line a fraction before the floor did.
 
@@ -138,7 +144,7 @@ It started somewhere low in his chest and came up slowly, like his current acros
 
 "You found the bed," he said. "You found the bed in two exchanges, lad. I've known bargemen thirty years on these rivers who never found it, and drowned." He came across and took Cael's right hand carefully, by the fingers, because he had seen the forearm. "Rode it too. Rode my own water into my own back. That's a thing I'll be telling at the quays till they bury me."
 
-"I fell off it first," said Cael.
+"I fell off it first."
 
 "Everybody falls off it first. That's how you learn there's something to fall off." The barge-master held his hand a moment longer and looked down at him with his head on one side, as he might have looked down into a strange barge that had come alongside his own in the dark. "On the river we hail a craft we don't know. *What are you carrying?* It's only manners. It's how you know whether to give her room." He paused. "So. What are you carrying?"
 
@@ -154,7 +160,7 @@ Gault strapped the forearm in the corner by the river doors while the barn empti
 
 "A week," said Gault. "It'll look worse than it is for most of it." He tied off the strapping and sat back. "The figure will remember the fall."
 
-"It ought to," said Cael. "It was a real fall."
+"It ought to. It was a real fall."
 
 "Yes," said Gault. He looked at Cael over the top of the case for a moment, as he had looked at him across a panel table at the mill town, and something in his face was nearly amused. "It's a pleasant change."
 
@@ -180,7 +186,7 @@ He wrote the bout that night at the inn with his left hand, slowly, because the 
 
 ---
 
-The meet record went up on the main hall's board at the first bell the next morning, while the wagoner was greasing the axles in the yard. Cael read the exhibition leaf with his strapped arm held against his coat. There were five figures by his name, in the clerk's square chalk, with the unrounded composites beside them. Twenty-one for the merry Blade and his roaring town. Twenty-four for the caravan captain. Twenty-three for the eastern Stone, twenty-five for the coastal Wind, and twenty-two for the barge-master, with the fall in it. One sat at the top of Iron, and four were in the band above it, nowhere near each other, wandering about like the figures of any fighter on five different afternoons. Down the whole season, from the wool town to here, they ran from twenty to twenty-six, and no two mornings agreed.
+The meet record went up on the main hall's board at the first bell the next morning, while the wagoner was greasing the axles in the yard. Cael read the exhibition leaf with his strapped arm held against his coat. There were five figures by his name, in the clerk's square chalk, with the unrounded composites beside them. Twenty-one for the merry Blade and his roaring town. Twenty-four for the caravan captain. Twenty-three for the eastern Stone, twenty-five for the coastal Wind, and twenty-two for the barge-master, with the fall in it. The twenty-one sat at the very top of the Iron band, and the other four had climbed into the strong-Iron band above it, nowhere near each other, wandering about like the figures of any fighter on five different afternoons. Down the whole season, from the wool town to here, the column ran from twenty to twenty-six, and it had never once settled into a line.
 
 He looked at them for a while and found nothing in them that he had to explain to anybody.
 
