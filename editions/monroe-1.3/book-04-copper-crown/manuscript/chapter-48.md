@@ -1,0 +1,265 @@
+# Chapter 48 — The Ruler
+
+At the sixth bell Cael went to the wing's counter for a floor sheet, because it was the evening he always went for one.
+
+The counter was the plainest place on the bluff. It was a long scrubbed board with a brass rail along the front, a chained pen, a pot of sand, and a slot for slips. Behind it the desk clerk sat on his high stool with the wing's ledger open. Behind him, at the copying table under the window, the teaching assistant was writing out somebody's timetable in a small cramped hand. He did not look up when the door opened. He never looked up when the door opened. Cael had a whole term of his not looking up, on a page that said almost nothing, and the page had not needed changing all week.
+
+"Sixteenth," said Cael. "Hall three, the fourth bell, supervised."
+
+"Sixteenth." The desk clerk took the slip, checked the line against the ledger, and began to write. "Same as ever."
+
+"Same as ever."
+
+The door behind him opened again while the clerk was blotting. It was the delegation's list clerk, the one who walked beside the young man and never carried anything heavier than a sheet, and he was carrying something now. It was a flat case in grey board, tied with pink tape, with an index card slid into a brass frame on its face. Cael knew it, though he had never seen it before, the way a person knows the shape of a parcel they have been told about. The wing's compilation had gone across to the guest floor two evenings ago, and now it was coming home.
+
+"Returned with thanks," said the list clerk to the desk clerk. "Receipt on the face."
+
+The desk clerk signed for it in the ledger, without hurry. Then the teaching assistant got up from the copying table, took the case from the list clerk with both hands and turned to set it on the shelf behind him, among the wing's other sealed things.
+
+For about a second, as he turned, the case's face was toward the counter, upside down, four feet from Cael's hand.
+
+Cael read it in that second because he could not have helped reading it. The wing's index card was in its frame. Under the card, across the bottom of the face, the delegation's receiving stamp had been pressed in blue, square and clear, with the date of the twelfth and a set of initials beside it. The pink tape was tied in the wing's own flat knot, the knot he had seen on every sealed thing that ever left that office, tied back exactly as it had come. And on the whole of the face there was nothing else. There was no slip pinned to it. There was no pencilled query in a margin and no second stamp. Nothing anywhere said *see me* or *noted* or *refer*.
+
+Then the case was on the shelf with its back to the room, and the teaching assistant was at his copying table again, writing out the timetable in the small cramped hand, and the second was over.
+
+Cael took his floor sheet from the desk clerk and said thank you, and did not move from the counter, because the inner door to the back of the wing had opened and Gault had come through it.
+
+He had a folder under one arm. He saw Cael, and stopped at the end of the counter, and stood there in the way he stood everywhere, heavy and still, as if moving were a thing he did only on purpose.
+
+"Enrollee."
+
+"Magister."
+
+"I'll tell you this once, so that you don't have it some other way." Gault's voice had not gone up or down by a hair since the first morning of term, and it did not now. "The Archmarshal put three questions to me in the wing this morning. All three were about the resistance posts. How often they're calibrated. Who does it. What it's checked against." He shifted the folder under his arm. "He did not mention you."
+
+He was out through the far door before Cael had an answer ready. Gault said what he had come to say and then left, and somewhere in the second month Cael had learned to hear the leaving as the last word of the sentence.
+
+---
+
+Lira was on the settle when he came in, with her leg up along the cushions and the safety instructor's leather strap looped round her foot. She was easing the hip into a stretch a hair's width at a time, with her jaw set, and she did not stop when she saw his face.
+
+"Sit," she said. "You look like you've been handed a bill."
+
+He sat on the floor by the cold grate, where he could see her without her having to turn. He told her about the posts first, because the posts were simpler: three questions, all about how often the resistance posts were calibrated, who did it, and against what. Not one word about him.
+
+Lira let the strap go slack. She looked at the ceiling for a while.
+
+"He's checking the beam," she said.
+
+"The what?"
+
+"The weighbeam." She pulled the strap again, gently. "At the foundry, before every pour, the master had them prove the beam. There was a set of brass weights in a box with a lock on it, and only he had the key, and before anybody put a single ingot on the beam he'd hang the brass on it and see what it said. My second year there, a beam had been filed. Just a little, on the pivot. Some man had been selling us short for months, and nobody knew, because everybody trusted the beam." She shifted the leg and winced and went on. "After that the master wouldn't believe any number at all until he'd watched the beam proved. Not even his own."
+
+Cael sat very still on the hearthstones.
+
+He thought of every hour he had worked under the wing that term, and of every figure the quiet woman had sent across to the registrar in her neat hand on the same afternoon, and each one of those figures had been made on some post at some setting. He thought of the baseline in the second month, taken against plates with their dates of calibration painted on the housings. He thought of the twentieth, when Gault's panel would lay his new numbers beside his old ones and say whether he had grown. And he thought of the posts in hall three, every one of them re-pinned this term after a pin had sheared in the north bay at the seventh setting, with Cael's own forearm the first thing it hit. Was a post with a new pin the same post? Did it read the same? Who said so?
+
+The instrument woman said so. A woman with an oil can, who came on the posted day of every month and initialled a yellowed card by Gault's door that nobody had ever told her to keep. And this morning she had stood outside her own shut store, not on her posted day, to make sure.
+
+"He's not weighing me," Cael said slowly. "Not yet. He's weighing the thing that weighs me."
+
+"That's what I said."
+
+"By the twentieth he'll know what a number out of that wing is worth. Before I've done a thing. The price will be on it before I'm on the floor."
+
+"Good," said Lira. "Then it'll be the right price." She let the strap go and lay back against the arm of the settle, breathing out slowly through her teeth. "What's the other thing? There's another thing. You've got two faces on."
+
+So he told her about the case.
+
+He told her how it had turned on the shelf for a second, upside down, four feet from his hand. He described the blue receiving stamp, the date of the twelfth, the initials, and the wing's own flat knot tied back exactly as it had gone out. There had not been a pencilled mark on it anywhere, not a slip, not a query. The whole term's filings from the copying table had been read at the very top of the delegation, and handed back with nothing written on them at all.
+
+Lira understood it faster than he had.
+
+"So your man at the copying table writes things about you that don't hurt you," she said. "That's what we've thought, all term."
+
+"Yes."
+
+"And the big one reads every word of it and puts no mark on it either."
+
+"Yes."
+
+"And the day the big one does write something—" She stopped, and looked at him, and he watched her see the rest of it. "Then it doesn't matter what the small one wrote. Does it."
+
+"No."
+
+The fire was not lit. The common room was cold, and quiet, and somewhere above them Brom was doing his exercise for the night by lamplight, slowly, with the floorboards giving now and then under his weight.
+
+"Everything sits on one man," said Cael. "And he's the one I can't read."
+
+Lira was quiet for a long moment.
+
+"Then don't read him," she said at last. "You've tried. You've told me what you got. Nothing." She looked at the ceiling again, where Brom's board creaked. "Read what he does. You've already started. A stair, a rail, three questions. That's not nothing. That's a page."
+
+He wrote it at the window when she had gone up, in fewer words than he had said it.
+
+*Gault: three questions, all about the posts. Lira says he's proving the beam before the pour. She's right. Every measurer I've ever had began with the boy. Not him. This one started with the ruler.*
+
+*The case came back to the wing with his stamp on it and nothing else. Seln writes true lines about me that can't hurt me. Then the Archmarshal takes them, reads every line, and hands them back clean. That holds exactly as long as he goes on not marking them, and not one day longer.*
+
+*Everything sits on one man, and he's the one I can't read. So, as Lira says, I'll read what he does.*
+
+---
+
+The other entry, the one he had been circling for days, he would not write at the window at all.
+
+After supper he went up to the Crown yard and climbed to the top tier, where the benches were narrowest and nobody ever sat except on final days. The yard was empty. The porter and his boy were down on the boards with a broom and a pail of damp sawdust, scattering the sawdust in an arc, sweeping it up again with the day's dust in it, and moving along a yard to do it again, so that they worked their way slowly from the north chalk toward the south.
+
+Cael sat at the east end of the top tier with the notebook on his knee.
+
+He had been circling it for three days. It was not a fact. It was a way of sorting facts, and he had been afraid that if he set it down too soon it would set hard in the wrong shape. Now he had a rail, a stair, a case and three questions, and the shape had stopped moving.
+
+*Four of them, now. I've been watched by four kinds of people since my Kindling. I think I can name the kinds.*
+
+*Coss enforced. His reports were arguments, and he'd chosen how every one of them ended before he picked up the pen. I could beat him, in the end, because I could always see the ending coming at me from the first page.*
+
+*Havel complied. He writes down what's said, all of it, exactly, and nothing more. His pages are honest because they're small. Whatever he thinks about any of it, he doesn't put it on the paper they gave him.*
+
+*Seln operates. His pages are built to be read by somebody else, in a particular way, and every line of them is true and placed. I've watched him place people for a whole term. I'd be a fool to think he doesn't place sentences.*
+
+*This one evaluates.*
+
+He stopped there for a long time. Below, the porter's boy had got sawdust in his shoe and was hopping on one leg on the boards while the porter waited, leaning on the broom.
+
+*He doesn't write to win, like Coss. He doesn't write what he's told, like Havel. He doesn't arrange, like Seln. He writes questions. He takes a thing apart to see whether it was built true. He looked at a yard and wanted to know if the table held its line. He looked at a wing and wanted to know who checks the posts. He looked at a term of filings and wanted to know nothing at all, because he already knew what they were.*
+
+*He'll get to me. He's started with the building I'm standing in. I know the method because it's mine. I've never seen anybody else use it. I've never once had it used on me.*
+
+*The Compact finally sent someone who takes notes the way I take notes.*
+
+He did not write anything under it. He sat on the narrow bench and watched the porter and the boy finish the boards and start on the bottom tier, until the porter looked up and saw him there against the sky.
+
+"Locking at the eighth, Enrollee," the porter called up. "Unless you mean to sleep there."
+
+"Coming," said Cael, and closed the book, and went down past the sawdust.
+
+---
+
+Withrow's note had come the evening before, in her own hand, one line on a half-sheet: *You are named in the scope; you will be in the room. Wall seat, our side. W.*
+
+So when the enrollment-basis sitting began at the second bell of the fifteenth of Reaping, Cael was already in the records hall. He was on a hard chair against the long wall, in a row of four chairs set a little behind the academy's side of the table.
+
+The other three chairs were Bracken's clerks: the young one who had signed for the chests, the clerk with the cold, who had got over his cold, and a third Cael knew only by his knuckles, which were always inky to the second joint. They had pens and trays of blank sheets on their knees. Cael had the notebook shut in his lap. From where he sat he could see the whole table. And from nearly any chair at it, he would be one more head in a row of clerks' heads, half behind somebody's shoulder, where no eye would stop.
+
+He saw that the moment he sat down, and approved of it. Then he felt a small sour amusement. Withrow had come to exactly the seat he had been choosing for himself in every room for two years, and she had come to it without any help from him at all.
+
+He took the table in from the door end, because that was where it was nearest.
+
+Gault sat in the very last chair on the academy's side, by the door, and he had brought nothing. There was no folder in front of him, no sheet, not so much as a pencil. Cael read that at once. It was a man saying with his chair what he would not trouble to say aloud: that the wing had nothing riding on the argument about paper, and would answer for its instruments and nothing else.
+
+Up the table from Gault sat Karis, in her best collar, with the grey notebook already open and her pen already going. Then Bracken, with one pen in his hand and its twin behind his ear. Then Withrow's counsel, with her leather case. Then Withrow herself, with her spectacles up in her white hair.
+
+Across from them sat the delegation.
+
+Havel was at the foot nearest Cael, with the recording case open and the brass glass already turned, and a shallow wooden tray at his elbow for whatever paper came and went. Above him on that side sat Ilsev, quite still, with her own case on the table, closed, and her hands resting on it the way another person's hands might rest in their lap. The counsel had the head of that side to herself, with three black boxes stacked by her elbow and the list clerk hovering at her back.
+
+And with his back to the window, two places along from the counsel, sat the Archmarshal. He had a closed folder in front of him, and a pen lying on it crosswise.
+
+Cael let himself look, properly, for a few minutes. A man who sits at a table for nine hours has to give a reader more than a man crossing a courtyard. That was what Cael told himself, anyway.
+
+The man gave nothing. He did not move, so there was no rhythm. His weight was settled low in the chair and did not shift onto his arms. His breath was too quiet to see across a table. His eyes went to the counsel's papers as she laid them out, then to the window, then to Bracken's hands, then to the clerk behind the counsel, all at the same steady pace, a finger going down a page.
+
+Cael stopped. He took the reaching parts of himself back across the table one at a time. He checked that the corner holding his edges was still where he had set it at dawn, and it was. Then he gave all of his attention to the woman at the head of the delegation's side, who was about to try to take Bracken's four boxes apart, and who would give him something.
+
+---
+
+She opened, as six of her published findings had promised she would, on where the paper had been.
+
+"Chancellor, I'm told this enrollment rests on one clause," said the delegation's counsel. "Before I ask what the clause means, or whether it's still alive, I'd like to see the page it's written on. The page itself. And then I'd like to be told every pair of hands it passed through on its way to this table."
+
+"Registrar," said Withrow.
+
+Bracken stood. He did not have to; nobody else had stood to speak. Cael thought he did it because the day deserved it. He went to the end wall, where his four grey boxes stood in a row on the shelf with their brass corners catching the window, and brought the first one back in both arms.
+
+What followed took forty minutes. Cael had come braced to endure it, and found instead, to his own surprise, that he was enjoying himself.
+
+Karis had found the clause a year ago, at Greyvane, not in any academy's charter but further down. It was in the old schedule of powers that sat underneath every chartered academy like a foundation under a house, carried up into each academy's charter by a single standard line. So Bracken began at the top and went down. First he laid out Halcenvane's own charter, open at that line, with a tab in it, and read the line's number aloud for the record. He had done it before the counsel had finished turning to ask for it.
+
+Then the schedule itself went down beside the charter. Then a second schedule went down beside the first, as like it to look at as a twin.
+
+"Two copies, certified," said Bracken. "One taken from this library's own holding. The other came up from a house on the coast, four hundred miles off, under that house's seal, in answer to a letter from this office. The letter's dated, and it's in the box. The two librarians who certified them have never written to each other in their lives. Then I gave both copies to a clerk who had never read either, and had him go through them side by side, line against line. What he found is on his sheet, which is document eleven. Three places where they differ. All three are spelling. None of the three is in the clause."
+
+The counsel took the clerk's sheet.
+
+She had been talking easily while Bracken laid things out, about the charter's binding and the age of the tab. Now she stopped in the middle of a word and read. She read the sheet, and then the two copies at each place the sheet pointed to, and then the sheet again, while Cael, on his hard chair against the wall, counted her breaths without moving his lips, the way he counted feeds.
+
+It came to about ninety breaths. He thought of Bracken tying the fourth box on the ninth with the pen behind his ear. A reader who wished them well, Bracken had said, would find what she needed in about forty breaths. A reader who wished them ill would take ninety, because she would check everything twice.
+
+When the counsel spoke again, she did not take up the word she had dropped. She began from somewhere new.
+
+"Your index," she said. "Whose work is it?"
+
+"Mine."
+
+"It's good." She said it the way one tradesman hands another the right tool across a bench, without fuss. "I set aside the whole morning to get lost in your boxes, Registrar, and I didn't. I'd like that written down before I begin disagreeing with you. I want nobody to think afterward that my quarrel was with your filing."
+
+"Recorded," said Havel, from the foot, and his pen moved.
+
+And across the table, two places along from the counsel, the Archmarshal's pen moved too. He lifted it off the folder, opened the folder, made one short mark on the top sheet, closed it again, and laid the pen back down crosswise.
+
+That was the second time. The first had been ten minutes before, while Bracken described how the two copies had been compared: by a clerk who had read neither, line against line. Not when the second certified copy came out of the box, which was the stronger point. Not at the long silence while the counsel read. Only at how the comparing was done. And now, only at the counsel saying the index was sound.
+
+Cael kept the count under the hold, the way he would have kept a count of feeds. *Two.*
+
+---
+
+Then came repeal, and that was the fight the room had come for.
+
+The counsel did not try to say the clause had been repealed by name. Box two held two searches proving it had not. One was Karis's, from their last term at Greyvane, and the other was the clerk with the cold's, made from the bare directive without sight of a single note of hers, and the two had come by two roads to the same empty place.
+
+She argued something better.
+
+"The standardization directive didn't touch practitioner classification here and there," said the delegation's counsel. "It took the whole of it. It moved in, end to end, on purpose, and built a new house on the ground where the old one stood. When a later law takes over a whole field like that, an old clause left standing in the middle of the field isn't alive just because nobody remembered to pull it up. It's a stump. It has the shape of a law and none of the life. And an enrollment on a stump is an enrollment on nothing."
+
+It was a very good argument. It was better than very good. Cael had spent two years reading registry law because he had to, and he felt this one come down on the table with real weight. He felt it reach the academy's side. Bracken's pen stopped. Withrow's counsel drew a long breath and put her hand on her leather case. Karis had stopped writing altogether, and on the next chair along, the inky-knuckled clerk sat up very straight.
+
+Withrow laid one hand flat on the table, and her counsel took her hand off the case.
+
+"Let me take that one, counsel, if you'll allow it," said Withrow. "I've argued it myself. For twenty years at the registry I argued it whenever a case let me, because it's a fine argument, and it usually wins. So I know the exact place where it stops working, and I'd like to put my finger on it for the record."
+
+She did not raise her voice. The hall was quiet enough without that.
+
+"It works when the later law is silent about what it's sweeping away. Then a reader has to guess what the drafters meant to clear, and he may fairly guess they meant to clear everything. It does not work when the drafters wrote down what they meant to clear. If they've given you a list, the list is their answer, and you don't get to add to it after they've put their pens down." Bracken was already lifting the lid of the third box, and he found the green tab without looking. "The directive has such a list. Article forty-one. Eleven clauses, every one named, every one pinned to its book and its place. The men who wrote it had the founding schedule open in front of them and went down it clause by clause, choosing. You won't find ours among the eleven."
+
+"An omission—" said the delegation's counsel.
+
+"Is a possibility," said Withrow. "Which is why the file answers it. Document sixty-two, please."
+
+The young clerk on the chair beside Cael had it out of the box and on the table in front of the chancellor almost before she had finished the number. Across the table the Archmarshal's pen lifted, and marked, and was laid down.
+
+*Three,* thought Cael. *A clerk who can find a sheet in a breath.*
+
+"This is the directive's own transitional article," said Withrow. "It tells every academy how to convert *existing assay enrollments* into the new terms. I'd like it read aloud into the record, the whole of it. It's short, and when you've heard it, you'll have heard the answer."
+
+Havel read it, in his flat recording voice, every word weighed the same.
+
+Cael knew it before the second sentence. He had seen it a year ago on the last page of Bracken's fifteenth letter, copied out with no comment and a line drawn under two of its sentences, in an archive at Greyvane. Karis had read straight past it, because she was hunting a repeal and not a conversion, and had been cross with herself about it for a day. Now it came out of Havel's mouth into the Compact's own record, and somewhere in Cael's head a thing he had been carrying loose for a year dropped into its slot with a small cold click.
+
+Nobody sits down to explain how to change a thing that has already died. The drafters had known there were assay enrollments. They had known there were practitioners standing on that clause in the very year they sat down to write, because they had sat down and written out what was to be done with them. They had not killed the practice. They had cut a door out of it, and posted a sign telling everyone to use the door, and left the clause standing exactly where it was.
+
+"They discouraged it," said Withrow. "They gave it new words. They built a way out of it. And they left it standing. Every one of those was a decision, made by people holding pens. The decision you need, counsel, is the one they didn't make. They had their list in front of them, and they stopped at eleven." She took her hand off the table. "Nobody drafts a conversion route for a dead letter."
+
+At the end of the academy's side, Karis's pen had begun to move again. From behind her shoulder Cael could see her page. Her handwriting was the most level thing he knew. At the transitional article it had gone off at a slant, as if the page had tilted under it, and it had not come back.
+
+---
+
+The counsel came at it again three times over the next twenty minutes, from three new sides, and each time she found the door shut.
+
+Cael watched every attempt with the gaze opened as far as he dared to open it. After three days of the Archmarshal giving him nothing, she gave him everything, and it was like drinking water. Under pressure her rhythm did not break; it tightened, like a rope taking a load. And before every new attack, every time, without fail, her weight came forward onto her forearms on the table a half-beat before she spoke. She did it before the attempt through the directive's preamble, and before the one through custom, and again before the one through the plain meaning of the word *existing*, which Withrow's counsel answered in two sentences without once looking up. By the fourth he could have leaned forward and whispered to the back of Bracken's head which of the three arguments left to her was coming next.
+
+He kept still. Nobody had asked him, and the chair he had been given was against a wall for a reason.
+
+The last attack broke. The counsel sat back and said, "Nothing further on repeal, Chancellor," in exactly the tone she had used to praise the index, and Withrow inclined her head. Then came a long flat stretch of procedure about the comparing clerk's attestation. Did a clerk's signature stand without a second signature beside it? Did the registrar's seal cover the clerk, or only the registrar? Bracken had a sheet in a box for every one of these questions. It was slow, and it was necessary, and there was nothing in it anybody could watch.
+
+And it was in the slack of that stretch, between one sheet and the next, that the hold went thin.
+
+He did not feel it go. That was the whole trouble with it, and he knew it, and it still caught him. One moment he was listening to a clerk explain a seal. The next, with no seam between them, the clerk was saying something else, and there was a short piece of the sitting he could not account for, as if somebody had turned a page in his head while he was not looking. He took the corner back at once. Nobody had looked his way. The inky-knuckled clerk on the next chair was writing.
+
+A little later, during a question about the date on the comparing clerk's sheet, it happened again. It was shorter this time, two breaths, perhaps three, and again he only caught it from the far side, after it was over.
+
+A floor had never done this to him. On a floor his attention was either all in the drill, or held back from it by main force, and he had learned in a corridor how to hold it back. A sitting was different. A sitting took his attention in long slow pulls and then let it go, and in the slack between the pulls there was nothing to brace against. That was where he went, in the gaps, the way a sleeper goes under in the pause between one breath and the next.
+
+He sat very straight on the hard chair and set the stake again. He wrote nothing, because there was nowhere he could write that would not be seen.
+
+At the end of the attestation the delegation's counsel looked up at the clock over the door.
+
+"Chancellor, with your leave," she said. "A recess."

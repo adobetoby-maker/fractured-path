@@ -102,7 +102,7 @@ They were not alike. They were not alike in any way he could put his finger on e
 
 He wrote it in, under its own line, as carefully as the hand would let him.
 
-*The half-second, fourth exchange, Reydan. A redirect on the right shoulder (never drilled) that stopped passing the burst and gathered it, turned it, and sent it back along its own line. Not called; went in on it. Cost: the whole right shoulder, and still costing.*
+*The half-second, fourth exchange, Reydan. A redirect on the right shoulder, the third and last, that stopped passing the burst and gathered it, turned it, and sent it back along its own line. Not called; went in on it. Cost: the whole right shoulder, and still costing.*
 
 *Not session nine. Laid them side by side. Session nine: no gap between read and answer, met the gathering before the push, the push came apart, cost nothing. Tonight: every step mine and in order, the burst arrived whole, went back whole, cost everything the shoulder had. Different in every place I can look. The only thing they share is that I don't understand them, and that's not a thing that makes two things one.*
 

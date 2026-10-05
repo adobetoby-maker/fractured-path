@@ -138,7 +138,7 @@ Cael sat on the wall with the binder open on his knees.
 
 "The thing where you sit on a wall a mile out of a town and write down the whole of your life in it before anybody's even had any breakfast." She held out a leg of the fowl to him. "Go on. You'll be no use to anybody till it's written. Eat that first."
 
-He ate it first. Then he turned to the back of the binder, behind the four entries and behind session nine alone on its leaf, to the clean pages that the paper-stall man had told him to bring back full, and wrote.
+He ate it first. Then he turned to the back of the binder, behind the four entries and session nine's leaf, to the clean pages that the paper-stall man had told him to bring back full, and wrote.
 
 *Ardenmere, behind. Greyvane, three days east.*
 

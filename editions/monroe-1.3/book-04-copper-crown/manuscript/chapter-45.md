@@ -206,7 +206,7 @@ And she went on talking from the very word where she had stopped.
 
 Not the start of the sentence. Not some new sentence. The word. Cael had heard the first half of it from the rail before the sheet came. He heard the second half after it went, fitted on as neatly as if nothing at all had come between.
 
-He took that to carrel eleven at noon, where Karis was eating an apple over a sheet of the archive's lending rules. She had been forbidden the records hall for the whole of the inspection, by Bracken, in writing, and was being very good about it in a way that made her bite apples hard.
+He took that to carrel eleven at noon, where Karis was eating an apple over a sheet of the archive's lending rules. Bracken had forbidden her the records hall until the fifteenth, in writing, when she was to sit at the table for the enrollment basis and not one day before. She was being very good about it, in a way that made her bite apples hard.
 
 "Her talking and her reading keep to different rooms in her head," he said. "She can argue with you and read your file at the same time, and she won't lose her place in either."
 
@@ -226,11 +226,11 @@ She looked at the lending rules for a while without reading them.
 
 He told her the labels. She shut her eyes and said the index numbers back to him in order, and what each box held, and what in each of them a good counsel would go for first. She was right about all of it. He could see her being right, the way you can see somebody's hands itch.
 
-"I can't go in," she said, with her eyes still shut.
+"I can't go in till the fifteenth," she said, with her eyes still shut.
 
 "I know."
 
-"I built it, and I can't go in." She opened her eyes. "That's the whole point of it, of course. I understand that. I'd just like it noted that I mind."
+"I built it, and I have to wait outside like a parcel." She opened her eyes. "That's the whole point of it, of course. I understand that. I'd just like it noted that I mind."
 
 "Noted," said Cael, and she threw the apple core at him, and missed on purpose.
 

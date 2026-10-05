@@ -1191,7 +1191,7 @@ Open threads now:
   - forearms yellow, the left still blue where Ansel's hook went in;
   - ribs quiet unless pressed (Lira's first morning on the left, the high rolls on the right, Ansel's hook on the left);
   - left knee stiff in the mornings from the dropping, sound by noon;
-  - the **left** shoulder carries a "groove" from twelve full-force redirects; rested two days, it "will give three";
+  - the **left** [superseded 2026-10-05 by #36: RIGHT] shoulder carries a "groove" from twelve full-force redirects; rested two days, it "will give three";
   - behind the breastbone, an ache after each redirect session (none now);
   - knock bands come later and go sooner than in the autumn;
   - legs lighter and quicker; tired underneath, "the good kind". Reydan saw him favour the left shoulder by a hair.
@@ -1214,7 +1214,7 @@ Open threads now:
   - **it gives when, not where**: the inward pull is the same whichever way the burst will go;
   - the drop and the knock won't share any more than the hip and the knock;
   - with leave: Ansel 6 knocked / 4 answered (one smear, one late); Lira day 9, 13 / 11; day 10, 13 / 12, called aloud.
-- **Pressure-adjacent:** the **redirect** is the taking face passed, not gathered. Plant, take it on the turned (left) shoulder, let it run through and out at a slant, ride the push in. Cost all at once afterward (shoulder, ribs on that side, behind the breastbone). Three clean a session, a fourth goes crooked; every other day. **Twelve full-force reps in all** (days 3, 5, 7, 11). In a fight: three, fewer if already hit. Giving face unused (inventory: three on the beat "if he has a beat to ride").
+- **Pressure-adjacent:** the **redirect** is the taking face passed, not gathered. Plant, take it on the turned (left [superseded by #36: RIGHT]) shoulder, let it run through and out at a slant, ride the push in. Cost all at once afterward (shoulder, ribs on that side, behind the breastbone). Three clean a session, a fourth goes crooked; every other day. **Twelve full-force reps in all** (days 3, 5, 7, 11). In a fight: three, fewer if already hit. Giving face unused (inventory: three on the beat "if he has a beat to ride").
 - **Wind-adjacent:** unchanged in shape: left only, the lock, three an exchange, the fill. The rule is now *the hip only when I know; when I don't know, the feet*. Used once in earnest, a read burst in Ansel's second exchange. Lira's staff met it in the lock ("Bede counted two").
 - **Footwork:** the **drop and roll** (low, right, with no doorway) went into his legs on the sixth evening (day 7). *Going right* has moved from the Log's *Shape* column to *Habit*, with its cost.
 - **Session nine:** see the Log lines below. No cost found; not reproduced in seven tries; Brom's read is Tide-adjacent, a description with stated limits. It is distinguished from the third-exchange absence (left where it fell).
@@ -1327,3 +1327,166 @@ Open threads now:
 
 
 **Movement 7 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch45 scene-separator spacing). All brief items resolved; overlap 0, gates 0, probe 1%/6%; mean 13.57, ≥40w 3.8%, 921 w/scene. Where the author end-state above predates r1 (ordinals, recaps), the manuscript governs.
+
+## After Movement 8 — BOOK END (chapters 52–60; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Fable recheck r1)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- REDIRECT SHOULDER = RIGHT (OWNER-DECISIONS #36; Book 3 ch1/ch6 govern). Closed M7 side-words changed (ch47:117, ch51:159); every 'left' redirect reference in earlier ledger blocks is superseded. The bout: three redirects, all right — (1) off the rope, crooked, legs shaky from the knockdown; (2) clean in the fourth exchange; (3) the last the count allowed, where the Compression gathered and turned. The forearm hit of exchange two is the LEFT forearm. ch55 Log tally: 14 knocked / 12 answered / 2 smear; 6 Wind; 3 strikes; 3 redirects.
+- COMPRESSION-ADJACENT: involuntary in the bout (fourth exchange; he decided only to drive forward); the notice verbatim the night after the final low-stakes bout (Ulric, Wind only, won when Ulric stepped back over the rope). Four confirmed fragments + session nine (its leaf alone; Note line exact). The binder: four headings per fragment, begun with Compression; Cael means to redo the older three on the road.
+- THE ROAD: no season named; no frost or snow on the departure days or the road (Quenna: 'before the weather turns on the hill road'). Roadside tests: inert; into the left knee; early reaches get nothing; the sixth try, waited for, a quarter sent home; cost in the right shoulder, breastbone, teeth. Imagery deliberately raw — Book 3 ch1's images are the matured versions (8-gram overlap with B3 ch1 = 0).
+- TRACK: Quenna names both, once, at the ch57 signing — the demonstration-provision track / 'the observer track' (B3's gate list).
+- Ansel was twenty-four when Reydan beat him (ch46/ch59). Quenna on Brom: nine bouts, eight won (no 'main floor'). Hesk's letter by night coach (a day and a half each way): posted Thursday, reply Sunday; Quenna waits for it before Cael signs. Dace: six nights. The anonymous regular 'never would' is Cael's belief. Brom at the notice: 'That's my trick… only you did it soft.' 'The quiet that came with every notice.'
+- Ending state = BOOK_MAP §1: Cael fifteen; Iron-equivalent; Lira provisional (decided Greyvane; no longer needs Fenmark's admission); Brom standard enrollment; the three on the road east, three abreast at one pace. Open: Reydan's question, Keth's offer, Vell's proper reading, the [UNBOUND] note; no Compact contact.
+- Book 3-side errata queued (#36): B3 ch22 and ch35:227 'third exchange' → fourth; the notice 'had come' in the bout → the thing itself (notice after the final bout). Series calendar (B2 'before hard winter' vs B3 'early autumn') remains the owner's.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger) — BOOK END
+
+Checked line by line against BOOK_MAP §1 (ending state) and the closed edition Book 3 ch1. "✓ §1" marks a binding item met; "→ B3" marks a hand-off fact.
+
+**Calendar.** No months named; cold, frost in Ardenmere; the road weather left neutral (cold wind, then sun).
+- Day 0 (Tuesday): the bout; Quenna; Reydan's night.
+- Day 1 (Wednesday): Brom reads the shoulder at dawn; the district walk; the lamp; Lira's table; the letter to Hesk dictated.
+- Day 2 (Thursday): the letter posted; the inn with Brom's questions; Brom decides in the alcove.
+- Day 3 (Friday): at the inn, Quenna agrees to wait for Hesk; Dace's wall and the Ulric slot.
+- Day 5 (Sunday): Hesk's letter in the second post; the reply; acceptance signed at the inn; the binder.
+- Day 6 (Monday): Cael watches Ulric.
+- Day 7 (Tuesday): Quenna's coach in the morning; the Ulric bout; the notice that night.
+- Day 8 (Wednesday): Brom told at first light; Brom's rounds and Keth in the morning; Vell's back room in the evening; Ansel's stew at night.
+- Day 9 (Thursday): departure at dawn; Reydan leaves on the wool wagon the same morning; road day one (first rest, midday tests).
+- → B3 ch1 is "the third morning out of Ardenmere" (day 11), arriving that afternoon; B3 ch2 "three days of walking". ✓
+
+**Cael.** Fifteen; no birthday on the page. ✓ §1
+- On the road east to Greyvane with Lira and Brom, three days' walk; the district gate (the east arch) behind them. ✓ §1
+- Signed on the demonstration-provision track (left-handed), with three names at the gate. → B3 ch1: "the clerk had a list"; she calls it "observer track" (see flags).
+
+**Rating.** Unchanged: *Iron-equivalent. Cael. No Path designation.* (Vell's book). ✓ §1
+- The Reydan win is anchored in Vell's book: *Iron-equivalent, Cael. Win. Method: forced incapacitation, fourth exchange.*
+- The final bout: *Cael. Win. Third exchange. Forfeit by the rope.* (Ulric, Copper formal).
+
+**Fragments: four confirmed, one anomaly.** ✓ §1
+- Wind-adjacent, Pressure-adjacent, Iron-adjacent, Compression-adjacent; all partial.
+- Compression notice verbatim (§8 item 8), received the night of the final bout, at the desk. ✓ ruling 3
+- Involuntary in the bout: he did not call or aim it; he decided only to go in. ✓ ruling 3
+- Entry first line *Compression-adjacent. Reydan.*, with *Found in me afterward… Not taken. Not called.* No claim that he took it from Reydan, and no rule about taking abilities. ✓ §7
+- Anomaly two (the half-second) is closed, verbatim: *Compression-adjacent, incomplete expression preceding integration.*; its leaf is moved behind the Compression entry. ✓ §1
+- Session nine is untouched and alone on its leaf, with its *Note* line exact. Explicitly not explained by the new notice. ✓ §1 / §7 → B3 ch1 "a fifth page… a single line underneath" ✓
+- The Compression came in the fourth exchange of a bout he was losing, on legs with "one more stand in them, perhaps, and not two"; this supports B3's "at very nearly the last moment it could have arrived and still saved him". ✓
+
+**Bout tallies (exact on the page and in the Log).**
+- Knocks: 14 knocked, 12 answered, 2 smeared (ex1 5/4; ex2 4/3; ex3 3/3; ex4 2/2). Of the twelve: nine on bursts he got out of the way of, two on the count, one on a gathering hit before it fired.
+- Wind: 6 asked, all left (2 / 1 / 3 / 0). Feet: the drop once, plus the second exchange on feet.
+- Giving face: 3, in the third exchange (ribs; the front of the right shoulder; the thigh on a gathering).
+- Redirects: 3, the cap. One left and crooked, off the rope; one left and clean in the fourth; one right and undrilled in the fourth, which completed.
+- Consent: he read only what Reydan gave off at the surface; the knock gives when, not where; he went into no one. ✓ ruling 4
+
+**Body (carried into Book 3).**
+- Left forearm bruised from wrist to elbow (yellow by day 7).
+- Both hands shocked from the knuckles; closing by day 5.
+- Left shoulder groove from two redirects.
+- **Right shoulder** scoured and "quiet", lifting to shoulder height by day 7; the Compression's channel. → B3 ch1: "his own right shoulder, the one the Reydan bout had already used hard"; "the old complaint… on certain angles" ✓
+- Knees locked and recovered by day 6; hip line thin.
+- Road day one: a dull inside ache in the **left knee** from the second test. → B3 ch1 "Knee on day one", "the faint ache… since the first day" ✓
+- Compression deliberately tested: inert; then into the knee; then four early reaches with nothing; then a quarter of a slow push on the seventh try (once more in two further tries). Cost: right shoulder and breastbone, two breaths, felt in the teeth. *Exactly like Wind at the start.* ✓ §1 → B3 ch1 (Brom kneeling, a hardened palm, the braced left forearm, "reaching early gets nothing", choose the road first, the same band of cost) ✓
+
+**Records.**
+- The **Power Log is now a binder** (paper stall, three iron rings, "Bring it back full"): the four entries at the front with their notices, then the fields, revisions, *Habit*/*Shape*, *Carrying*, and *Anomalies* (session nine alone).
+- The Compression entry is written under **four heads** (Function / Benefit / Cost / Integration). Cael intends to bring the other three over to match on the road. → B3 ch1 "every section used the same four headings" (see flags)
+- Book 1's line, inside the old cover, carries *Still true. More parts. Same one thing.*
+- **Vell's sheaf**: about thirty leaves, his whole record in her hand with margins, stamped with her keeper's seal, carried in his coat.
+- **Dace's sealed note**, from the never-named regular.
+- Both are among "the papers he meant to keep". → B3 ch5 "Vell's ledger folded into his pack"; B3 ch12 "the stranger's note and Vell's sheaf" in the binder's back pocket ✓
+- Grey books: four retired volumes and the current one, all carried. Hesk's notebook carried.
+
+**Lira.** ✓ §1
+- Wind Path, Copper (formal); circuit rating *provisional* Iron-equivalent, unchanged ("Vell wrote *provisional* and kept it there").
+- Greyvane re-certification candidate.
+- **Turn one** (ch56): "I'm going", because she wants to be made to prove it monthly by strangers.
+- **Turn two** (ch60): she no longer needs Fenmark's letter, though she still wants to be the best Wind alive. ✓ ruling 5
+- Gave the four girls her wrist cloths; Maud asked her to "write when the middle's gone".
+
+**Brom.** ✓ §1
+- Iron Skin Path, Copper (formal); Iron-equivalent circuit rating.
+- **Standard enrollment** on demonstrated performance, with Vell's stamped results extract and no family letters ("a drawer" for anything from Velmere). ✓ ruling 5 → B3 ch2 (record with Vell's stamp) ✓
+- Has read the whole Log, including the new entry; walking with them; his debts paid.
+
+**Knowledge.**
+- Lira and Brom know everything about the fragments, including the Compression notice (told the same night and the next dawn). ✓ §1
+- Nobody but Cael knows the [UNBOUND] copy; the cupboard is mentioned, not explained. ✓ §1
+- Hesk knows of the offer and wrote *Go.* ✓ §1
+- Quenna knows the file exists and has the classification boxes struck through, not his fragments.
+- Reydan knows nothing of Cael's Path or the mechanism.
+- Ansel knows of a close-in "thing" with leave (M7), nothing more.
+
+**Relationships.**
+- **Reydan**: "Find me later…" open; the market nod; he carries the keeper's account home; he visited Ansel. ✓ ruling 6
+- **Keth**: offer of a supper and the rest, open. ✓
+- **Vell**: the cupboard reading offered again for "next time you're through", never held. ✓ ruling 6 / E12
+- **Dace**: "Go and be somewhere else first."
+- **Ansel**: even.
+- **Ulric**: shown what Cael watches.
+- **Hesk**: reply posted (*I'll write from the gate*).
+- **The heavyset man's house**: *Gone east. Paid. Good lodgers.*
+
+**Compact / watchers.**
+- No contact. ✓ §1 / ruling 5
+- The file is mentioned once by Cael to Quenna.
+- The dull-coat watcher is not glimpsed.
+- Level 4, Havel and Coss are untouched (as M5–M7).
+
+**Open threads now (book end)** ✓ §1: the watcher; Reydan's question; Keth's supper; Vell's cupboard; [UNBOUND]; session nine; Hesk's history; Coss's grade; the Book 1 stranger; the third-exchange absence (Brom bout); *sustained*; the unasked right step; the concurrent use.
+
+## New canon minted
+
+1. **The redirect sides:** two drilled redirects on the left shoulder in the bout (crooked off the rope; clean in the fourth), and the third, **undrilled, on the right**, which completed as the Compression. *Flag: matches B3 ch1's right shoulder "used hard"; see owner flag 1.*
+2. **Quenna** (canon name; not before ch54):
+   - six nights in Ardenmere, two general and four on Cael;
+   - a drawer of eleven years' notes;
+   - the three candidates (a bee-keeper, two stayed, one teaches);
+   - "two masters and an afternoon, every month";
+   - withheld an offer from Brom on purpose;
+   - waited for Hesk's letter;
+   - left on the Tuesday coach; "before the first snow on the hill road";
+   - a room at the inn with the bow window at the top of the market row (unnamed).
+3. **Vell:**
+   - a keeper's seal (a straight line in a ring, brown wax);
+   - stamped results extracts, "eleven times in thirty years" (Brom's the twelfth);
+   - Cael's whole-record copy is the first ever to leave the room;
+   - "I'm not young, so don't be too long about it."
+4. **Ulric:**
+   - requested a return a month before Reydan;
+   - has partly fixed the shoulder drop; keeps the middle by turning, and the turn walks;
+   - lost the rematch "forfeit by the rope", third exchange.
+   *Flag: an established canon name used for the final bout; no new name.*
+5. **The binder:** brown board with three iron rings, from the paper stall, free. The Log's stitches were cut and every page moved; the four-head format was begun with the Compression entry.
+6. **Hesk:** the three-sentence letter signed *H.*; the memory of the drawer joint and the pins at ten; Cael's reply text.
+7. **Reydan:**
+   - the master with a bad hip ("a clerk before you are a fighter");
+   - about twenty knockdowns in eleven years;
+   - the withdrawn boy's grievance;
+   - visited Ansel at the cooper's and watched his post work;
+   - carries the lamp-oil keeper's account back; the wool wagon to the first ferry.
+8. **Dace:**
+   - the door count of 504 inside, plus about a hundred in the street;
+   - the "watch this one" mark drawn and rubbed out;
+   - "Go and be somewhere else first. Then come back and tell me about it."
+9. **The note's writer**: came to every bout of Cael's since the spring; gave Dace the note "last week"; "that wasn't the kind of thing he did". Never named.
+10. **Lira:**
+    - the lamp relit on day 1;
+    - her room (the pan on its nail, the stick, the wrist cloths on a string);
+    - the cloths given to the youngest of the four girls;
+    - Maud's "Write when the middle's gone."
+11. **Brom:** the chin-dip that means "the number's right"; the newcomers' last coppers; the dock partner's hand.
+12. **Ansel:** buys the stew; the name no longer sticks.
+13. **Texture:**
+    - the betting man's *C. — gone east. No price.*;
+    - *Gone east. Paid. Good lodgers.*;
+    - the sister's plate *EAT. BOTH. ALL THE WAY THERE.* (kept for the next lodgers);
+    - the Stone woman from the tannery lanes who says "You'll tell them where you learned it";
+    - the east arch with a gate on one hinge;
+    - the chestnut man's daughter;
+    - the dried-fruit woman's figs;
+    - the paper-stall slate paid in full from the main-floor purse.
+
+
+**Movement 8 CLOSED (2026-10-05) → BOOK 2 DRAFT COMPLETE (ch1–60).** Fable recheck r1: CLOSE WITH LINE FIXES — six applied (ch55 anomaly entry 'the third and last'; ch60 leaf say-once; two double-blank spacings ch53/ch54; two italics ch53). Overlap M8 0/14, M7 0/5; gates 0; probe 1%/10%; mean 13.72, ≥40w 3.4%, 909 w/scene.

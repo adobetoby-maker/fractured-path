@@ -136,7 +136,6 @@ People came up to the rope and looked at him and went away again. Some of them s
 
 Lira sat beside him on the stone with her shoulder almost against his and did not talk. Brom stood. Brom watched the doors.
 
-
 "You looked at me," said Brom, after a while, to the doors. "In the third. Before you went."
 
 "I did."

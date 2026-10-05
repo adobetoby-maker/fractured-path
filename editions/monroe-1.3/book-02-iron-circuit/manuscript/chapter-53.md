@@ -84,7 +84,6 @@ He went out the way he had come in, two steps on his feet and the last on the hi
 
 Reydan let him go.
 
-
 ---
 
 "End of the exchange," said Vell.
@@ -129,7 +128,7 @@ That was the thought that saved him, though he did not know it yet.
 
 He was counting. He had counted the landing beat so many times in the alcove, *and one, and two*, that the count went on in him now by itself, under everything, like a clock in another room. And the bursts were landing on it. Each one came down on the *three*. Not near it, but exactly on it, to the grain, every time. A man who had stopped reading had gone back to the oldest thing he owned. And the oldest thing Reydan owned, from a paid yard at ten and an academy at eleven, was a drill, and a drill was regular, and a regular thing could be read without the knock at all.
 
-He planted on the *two*, in the gap, and knocked. *Inward.* On the three. He went. He planted on the next *two* and knocked again. *Inward.* On the three.
+He planted on the *two*, in the gap, and knocked. *Inward.* On the *three*. He went. He planted on the next *two* and knocked again. *Inward.* On the *three*.
 
 Two knocks, both clean, and both exactly where the count had promised.
 
