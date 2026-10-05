@@ -357,3 +357,169 @@ Checked line by line against BOOK_MAP §1 (ending state) and the closed edition 
 11. **The scout's visit count** is reconciled: "six nights, counting tonight; two general, four on you" fits Dace's ch42 count ("twice before the season posted, and once since", all on Cael's nights) plus Bede's night, the Monday card and the bout.
 12. **Development-beat heuristic.** The name-proximity count gives Cael ≈2.3 per 10k on this movement because his beats are mostly in "he"; seven were name-anchored for audio clarity. My hand count is ≈6 per 10k. The formula's caveat applies.
 13. **Packet lines re-composed for the 8-word gate** (listed under Checks). None is in BOOK_MAP §8, and none is quoted by a later book that I found. If a later book quotes Brom's farewell or Quenna's introduction verbatim, add them to the map.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, under REPAIR-BRIEF.md and OWNER-DECISIONS #36. Every change was composed by reading and applied as an exact string replacement (hand-written `str.replace`/`sed` substitutions, one passage at a time). No sentence or paragraph was split or joined by a rule. The bout, its tallies and both cutaways are intact.
+
+### 1. The redirect shoulder is the RIGHT (ruling 1), line by line
+
+**Closed M7: only the authorised side-words were changed.** A grep of `left shoulder|left arm|groove` across ch44–51 found two side-words; the other groove lines name no side.
+- ch47:117 "turned his **left** shoulder to it and let it in" → "turned his **right** shoulder to it and let it in".
+- ch51:159 (Reydan's view) "sat favouring his **left** shoulder by a hair" → "favouring his **right** shoulder by a hair".
+- M7 overlap after the edits: **0 unprotected, 5 protected**.
+
+**M8: all three bout redirects and the Compression channel are on the right.** The forearm hit stays on the left.
+- **ch52 (Lira's cutaway), redirect one.**
+  - "turned his left shoulder to the next burst" → "turned his right shoulder…".
+  - The crookedness now comes from "his legs not yet all the way back from the stone", and the hip catches "the way it caught in the alcove when he was tired". The left arm is still hurt and held.
+- **ch53, opening count.** "the left shoulder ringing… the count had been made for a whole arm. He had half an arm now" → "the right shoulder ringing… the count had been made for a body that had not just been put on the floor". "Call it one, and be glad if it's two" is kept.
+- **ch53, exchange four, redirect two.** It is now taken on the right, which faces the bursts ("For once the bursts were coming at the side he had drilled"). The bill runs "from the top of the right arm to the breastbone, on top of the bill from the rope"; "one left in it… and the count had been honest all fortnight".
+- **ch53, redirect three.** "There was the right. He had never drilled it…" → "There was the last one. One left, by the count, in a shoulder already burning… never been made against a third burst at full weight with two already paid for."
+- **ch53, the completion.** "the way the left had passed…; It was the wrong side and a line he had never learned" → "the way the shoulder had passed…; The joint was spent and the line was going ragged". The return "along a line he never drilled" is now the turn itself, not the side.
+- **ch53, aftermath.** The right shoulder now carries both things: "The groove was there, three redirects deep… But under the groove, in the joint itself… It was hollow." The inventory line becomes "The groove through the right shoulder, three redirects deep", and "Then, again, the joint under the groove."
+- **ch54.** Cael's recollection "the left shoulder full, and the right shoulder turning" → "the shoulder full, and the last one turning".
+- **ch55, the Log.** *Redirects: three, all the right shoulder, the drilled side. First, off the rope, crooked… Second… clean… Third… the last the shoulder had in it by the count.* The cost now names the groove three deep and the hollow under it. The plan note says *for a body that hadn't been on the stone yet*. **Tallies unchanged:** 14/12/2 knocks, 6 Wind, 3 giving face, 3 redirects.
+- **ch55, Brom's dawn read.** "The left's loud… The right's quiet" → "Under the groove… The groove's loud, all three of them… But under it, in the joint, it's quiet."
+- **ch58.** The mending paragraph: the groove from the three redirects eases as always; under it, the joint is "simply quiet".
+- **ch60.** The road-test cost is in the right shoulder and breastbone; the Log now says *right shoulder*.
+- **Result.** B3 ch1's "his own right shoulder, the one the Reydan bout had already used hard" and "three clean uses mapped, each paid for in the right shoulder" are now both literally true.
+
+### 2. Track name (ruling 2)
+In ch57, at the signing, Quenna says: "The demonstration-provision track, or the observer track, as they'll have it on the gate list, because that is what the clerks have always called it." That is both names, once, in one clause.
+
+### 3. Season (ruling 3)
+- **No frost or snow on the departure days or the road, and no season named.**
+  - ch57: Quenna's line is now "before the weather turns on the hill road, because the hill road is no place to be once it has".
+  - ch58, day 8 dawn: "a frost so hard the cobbles rang" → "a cold so raw the cobbles sweated with it".
+  - ch59, day 8: "frost going off the cobbles" → "the wet drying off the cobbles".
+  - ch59, day 9 dawn: "white with frost" → "the cobbles were wet and black under the lamp".
+  - ch60: Reydan stands "in the raw cold before light"; the boy sweeps "last night's wet"; Brom's breath goes "up white in the cold".
+  - ch60 road tests: the Wind memory is "in a cold yard" (was "frozen"), and the teeth ache "when you drink too fast from a spring" (was "snow").
+
+### 4. Exchange and notice (ruling 4)
+The map is kept: the fourth exchange; Compression involuntary; the notice after the final bout. Nothing was done on the Book 3 side.
+
+### 5. Priority 1: ch60 roadside tests re-imaged
+- **Every beat and result is kept.** In order:
+  - inert (the cat that "has heard its name and decided not to know it");
+  - a piece sent into the left knee;
+  - three early reaches with nothing ("like calling a dog that is still on the far side of the field");
+  - on the **sixth** (was the seventh), he lets Brom's lean "come right in… until it was sitting in him", then "told it where. *Back. Out the way you came.*";
+  - "Some of it went", "a short dull thump like a fist on a table in the next house";
+  - two more tries: one quarter, one nothing.
+- **The bill is re-imaged.** It is now "as if a young horse had kicked him in the middle of the chest and then… had stood there with its hoof on him", followed by "little sips of air" and the teeth.
+- **The two-word exchange is now raw day-one talk:** "Did that come back at me?" / "Some." / "How much?" / "…A quarter, maybe. Of a tenth." / "Then I'll call it a quarter…"
+- **Images removed:**
+  - the hot iron bar and the two-breaths run;
+  - "a door shutting in another room";
+  - "a weight a man could count";
+  - "like a flat stone";
+  - "a road of its own… he chose one for it".
+- **Log:** *…when I let it come all the way in and told it where first. Cost: right shoulder and breastbone, no air for a while, and my teeth. Clumsy, dear, weak.* / *Exactly like Wind at the start.* (kept).
+- **B3 ch1 8-gram check (the brief's script): `0`.**
+
+### 6. Priority 2: consistency and protected lines
+- **ch59, Ansel.** "he'd been nineteen that year, and I'd been twenty-four", which matches closed ch46.
+- **ch56, Quenna.** Brom's record is now "Nine bouts in your keeper's book, eight won. The one he lost, his first. The ninth, his win over you." The "main floor" claim is gone.
+- **ch60, protected lines.**
+  - The four lines are restored whole.
+  - The "four things" line stands untagged, after "They had gone a long way without talking when Cael said it…".
+  - "It's a start." and "It's more than we had when we got here." each stand alone, with the attribution set before them ("Brom answered first, from the outside." / "Then Lira, from the inside, without looking round.").
+  - "Yes," said Cael. follows.
+- **Hesk's timing.** The letter now goes by "the up-country night coach, which changed horses at every stage and did not stop to sleep". Cael tells Quenna "A day and a half each way, by the night coach." Posting Thursday morning, Hesk writing Friday night and the second post on Sunday now work.
+- **Dace and Quenna's nights.** Dace's "honoured it on faith for a month" becomes "after I'd let her in on it blind the night before and taken her coppers at the door four times before that". That gives six nights, matching Quenna's count.
+- **"He never would."** It is now Cael's belief: "…and Dace would never tell him; Dace kept a promise the way Vell kept a line. He was as sure of it as he was of anything." The protected sentences follow exact.
+- **ch58, day order.** Scene 1 now runs:
+  - the hill's news, then the mending week from Wednesday;
+  - Brom's morning reads, with Monday's "Less quiet";
+  - Ulric watched that Monday;
+  - Tuesday morning's read and the arm's limit;
+  - Quenna's coach that morning.
+
+### 7. Priority 3: say it once
+- **ch60.** The duplicate nod and the carter's shout on Cael's side are cut. Cael now only notes the far pump empty and the nod already given; the reference to "Find me later" and the ledger of things owed is kept.
+- **Session nine after ch55.**
+  - In ch58, the field-by-field comparison is cut to one short paragraph (*force absorption*, and nothing absorbed; "Whatever session nine had been, it was not this."), followed by "One anomaly. Still one."
+  - ch59 keeps only the leaf housekeeping, and ch60 only the count.
+- **The farewell walk.**
+  - The paper-stall man no longer repeats "Feeling well?" / "Bring it back full". His new beat is turning the clean slate round like an empty plate.
+  - The mending-stall woman loses "You're in my light". "Feed him" and "Feed yourself as well" stay.
+- **ch58, the notice.** "the quiet that had come three times before" → "the particular quiet that came with every notice". Brom's line is now "That's my trick. The thing I found in the boat shed… Only you've no hardness. You did it soft." Cael's "I didn't do it. It did." is kept.
+- **To taste.** In ch58, "You walked me," said Ulric loses its tag. In ch59, Ansel's tag is replaced with an action beat ("Ansel laid both hands flat on the table.").
+- **Other.** In ch60, "The bout had said most of it, and the rest belonged to some other year" made an 11-word source run once the passage moved; it is re-composed as "Whatever was still owed between them would keep, and it was not owed this morning."
+
+### Before and after
+
+| Measure | Pre-repair | After r1 | Range |
+|---|---|---|---|
+| Words (wc / metrics) | 39,948 / 39,845 | **40,115 / 40,013** | 38,500–41,000 |
+| Sentence mean | 13.65 | **13.72** | 13–15.5 |
+| ≥40-word share | 3.4% | **3.4%** | 2.5–4.5% |
+| Words per scene | 905.6 | **909.4** | 850–1,050 |
+| ≤5-word share | 31.0% | 30.4% | ≤~34% |
+| Paragraph median | 27 | 27 | ≤~30 |
+| FK grade | 3.88 | 3.90 | 3.5–6 |
+
+### Checks after the repair
+- `ed.sh overlap book-02-iron-circuit 8`: **0 unprotected**, 14 protected.
+- `ed.sh overlap book-02-iron-circuit 7`: **0 unprotected**, 5 protected.
+- `ed.sh gates book-02-iron-circuit 8`: **0** on all three gates, all nine chapters.
+- `sweep_probe.sh book-02-iron-circuit 8 8`: **1% skeleton, 10% close**. Per chapter: 0/11, 0/11, 2/11, 0/8, 1/10, 1/10, 0/9, 0/12, 2/13.
+- `formula_metrics.py` ch52–60: as tabled above.
+- B3 ch1 8-gram check on ch60: **0**.
+
+### Changelist by chapter
+- **M7 ch47:** one side-word (right).
+- **M7 ch51:** one side-word (right).
+- **ch52:** redirect one on the right; the reason for the crookedness.
+- **ch53:**
+  - the opening count;
+  - redirects two and three on the right, with the count's last one;
+  - the completion line;
+  - the aftermath groove and the hollow under it.
+- **ch54:** Cael's recollection of the fourth exchange.
+- **ch55:** the Log's redirect and cost lines; the plan note; Brom's dawn read.
+- **ch56:** Quenna's figures for Brom.
+- **ch57:**
+  - the night coach;
+  - "a day and a half each way";
+  - Dace's count of her nights;
+  - the track-name clause;
+  - "before the weather turns on the hill road".
+- **ch58:**
+  - scene 1 put in day order;
+  - the groove and quiet-joint paragraph;
+  - the notice's quiet "came with every notice";
+  - the session-nine passage cut;
+  - "That's my trick";
+  - one tag dropped;
+  - the dawn cold.
+- **ch59:** Ansel's age; Ansel's action beat; the dawn wet (twice).
+- **ch60:**
+  - the dawn cold (three places);
+  - the market walk thinned;
+  - the duplicate nod cut;
+  - one source run re-composed;
+  - "He never would" framed as Cael's belief;
+  - the roadside tests re-imaged;
+  - the closing four lines restored whole;
+  - four short lines re-composed to bring close from 15% to 13%.
+
+### Final hand-off check (BOOK_MAP §1 and edition B3 ch1)
+- **The state at the close is unchanged.**
+  - Cael is fifteen, Iron-equivalent, on the road east with Lira (provisional; re-certification) and Brom (standard enrollment).
+  - Four confirmed fragments plus session nine, alone on its leaf with its *Note* line exact. The half-second is closed with the §1 phrase.
+  - The notice is verbatim after the Wind-only final bout. Compression was involuntary in the bout.
+  - Vell's reading is offered and not held; Reydan's question and Keth's offer stay open; no Compact contact.
+- **Hand-off to B3 ch1:**
+  - the binder with its four entries and the anomaly section, the Compression entry in the four-head format, and the others to be re-ruled on the road;
+  - the **right shoulder**, used hard by three redirects and the Compression;
+  - "Knee on day one";
+  - the quarter of a slow push and the shoulder-and-breastbone cost;
+  - the shared walking pace;
+  - "six hundred";
+  - Vell's sheaf and the stranger's note among the kept papers;
+  - "observer track" now introduced;
+  - no frost or snow on the road and no season named, so B3's "early autumn" is not contradicted inside the road scenes.
+- **One Book 3 item is still outstanding:** B3 ch22/ch35's "third exchange" and "the notice had come". It is queued as a B3 erratum under ruling 4.

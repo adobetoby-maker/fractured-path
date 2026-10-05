@@ -18,7 +18,7 @@ He thought about it, honestly.
 
 Lira looked at him a while longer. Then she turned back to the desk and wrote a last line he had not told her to write, and showed it to him: *L. wrote this. His hands are no good. He's eating. — L.*
 
-He let it stand. He signed the bottom with his left hand, a scrawl that looked like a dropped piece of string, and she folded it and sealed it, and in the morning, on his way up the market row with Brom's questions, he put it in the post at the paper stall for the up-country coach.
+He let it stand. He signed the bottom with his left hand, a scrawl that looked like a dropped piece of string, and she folded it and sealed it, and in the morning, on his way up the market row with Brom's questions, he put it in the post at the paper stall for the up-country night coach, which changed horses at every stage and did not stop to sleep.
 
 On the Friday, the third day, he went back up the row to the inn with the bow window.
 
@@ -28,7 +28,7 @@ He had thought she might be impatient. She was not. She looked at him over the c
 
 "How far is he?"
 
-"Denvash. Days, by the coach. Two each way, three if the roads are bad."
+"Denvash. A day and a half each way, by the night coach. Longer if the roads are bad."
 
 "Then I'll wait for your grandfather," said Quenna. She said it the way somebody else might have said *pass the salt*. "I'd thought to take the coach on Monday. I'll take a later one." She turned a page of her small book and wrote something short in it; he could not see what. "Most of the people I've sat across this table from wanted me to tell them what to do. It's a rest to meet one who already knows and wants to hear it from the right person first."
 
@@ -46,7 +46,7 @@ He did not turn round when Cael came up beside him. He had a piece of white chal
 
 "You knew?"
 
-"I knew Tuesday night at the door. She showed me her pass properly, finally, after I'd honoured it on faith for a month. She said she thought I'd earned that." He wrote a name, rubbed it out with the side of his hand, and wrote it again an inch lower. "I've known since Wednesday morning you were going. So has everybody on this hill with a pair of ears. The doorkeeper's told the eel men, and the eel men have told the river." He blew the chalk off his fingers. "When?"
+"I knew Tuesday night at the door. She showed me her pass properly, finally, after I'd let her in on it blind the night before and taken her coppers at the door four times before that. She said she thought I'd earned that." He wrote a name, rubbed it out with the side of his hand, and wrote it again an inch lower. "I've known since Wednesday morning you were going. So has everybody on this hill with a pair of ears. The doorkeeper's told the eel men, and the eel men have told the river." He blew the chalk off his fingers. "When?"
 
 "I don't know yet. After I hear from Hesk." Cael looked at the bottom of the card, where Dace's hand had been. "There's a thing on Tuesday."
 
@@ -150,7 +150,7 @@ She had the papers ready. He had known she would. They lay on the small table by
 
 There were four sheets. She went through them with him one at a time, slowly, turning each so that it faced him. The first was the academy's acceptance. The second was the provision itself, copied out, so that he could read it in its own words: the old sentence about children whose ability came before their reading, and then the other sentence, the one she had been carrying for years, *any practitioner without a standard Arbiter-issued classification*. The third was a form that asked for his Path and tier and rank, on which every box had been struck through with a single neat line and initialled in the margin, *Q.* The fourth was blank except for a line at the bottom and the words *demonstration-provision track* printed above it.
 
-"That one's yours," said Quenna.
+"That one's yours," said Quenna. "The demonstration-provision track, or the observer track, as they'll have it on the gate list, because that is what the clerks have always called it."
 
 He signed it with his left hand. The signature looked like a dropped piece of string again, worse than the first, and he looked at it with something like shame. Quenna looked at it with no expression at all.
 
@@ -158,7 +158,7 @@ He signed it with his left hand. The signature looked like a dropped piece of st
 
 Cael had not thought of that. He thought of it now, sitting at the small table with the tea going cold, and found that she was right. The certification office had written a word about him without asking. The registry had written another without asking. Vell's ledger had written *No Path designation*, and that was true, but it had been written about him and not by him. This was the first sheet in his life that named the road he was on, with his own mark at the bottom of it, however badly made.
 
-"I'll take the coach on Tuesday," said Quenna, gathering the papers. "The gate will have your three names on it by the time you get there. Come within the fortnight, if you can, and before the first snow on the hill road, because the hill road is no place to be after the first snow." She paused with the papers in her hands. "And mind the shoulder on the way. I'd like to see what it does when it's mended."
+"I'll take the coach on Tuesday," said Quenna, gathering the papers. "The gate will have your three names on it by the time you get there. Come within the fortnight, if you can, and before the weather turns on the hill road, because the hill road is no place to be once it has." She paused with the papers in her hands. "And mind the shoulder on the way. I'd like to see what it does when it's mended."
 
 He went down the market row afterward toward the boarding house, slowly, and stopped at the paper stall without quite meaning to.
 

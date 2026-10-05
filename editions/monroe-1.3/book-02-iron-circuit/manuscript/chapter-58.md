@@ -1,8 +1,6 @@
 # Chapter 58 — Wind Only
 
-Quenna took the coach on the Tuesday morning, and by the Tuesday evening the hill had already begun to behave as if she had never been there.
-
-That was the way of the place, Cael had learned. It took a thing in, and talked about it for three days at every stall in the market row, and then it put the thing away somewhere and went back to the price of eels. By the Monday the talk at the pump was all about a carter who had put his wagon into the river at the ford and come out with the horse and lost the wagon. By the Tuesday a few people still nodded to Cael in the street a little longer than they used to. Most did not.
+The hill had a way with news, Cael had learned, and the news of the woman from Greyvane went the way of all the rest. It took a thing in, and talked about it for three days at every stall in the market row, and then it put the thing away somewhere and went back to the price of eels. By the Monday the talk at the pump was all about a carter who had put his wagon into the river at the ford and come out with the horse and lost the wagon. A few people still nodded to Cael in the street a little longer than they used to. Most did not.
 
 Cael found he was grateful for it.
 
@@ -10,23 +8,23 @@ His body had spent the week mending in the order it chose, which was not the ord
 
 The right shoulder was the slowest, and the strangest.
 
-It did not hurt the way the left hurt, with that long bright groove from the top of the arm to the breastbone. It did not hurt very much at all. It was simply quiet. Each morning Brom came early, before Lira's hour, and stood in the doorway of Cael's room and said, "May I?" and Cael said, "You may." Brom laid his big hand flat on the joint and read it, a whole palm's slow listening, and each morning he said the same thing.
+The groove from the three redirects hurt the way it always had, a long bright line from the top of the arm to the breastbone, and it eased by the day the way it always did. Under the groove, in the joint itself, nothing hurt very much at all. It was simply quiet. Each morning Brom came early, before Lira's hour, and stood in the doorway of Cael's room and said, "May I?" and Cael said, "You may." Brom laid his big hand flat on the joint and read it, a whole palm's slow listening, and each morning he said the same thing.
 
 "Still quiet."
 
-On the Monday he added, "Less quiet than it was." And on the Tuesday, the morning of the bout, he stood with his hand on the shoulder a long time and said, "It's like a room after people have gone out of it, and somebody's begun to sweep."
+On the Monday he added, "Less quiet than it was."
 
-By then the arm would lift to the height of the shoulder and no higher. That was enough to guard with. It was not enough to strike with, and it was certainly not enough to put through a redirect, and Cael had no intention of asking it to.
-
-He watched Ulric on the Monday.
-
-He did it out of habit as much as anything, the way he would have watched anybody whose name was on a slate opposite his. He sat on the east bench with the grey book on his knee through two of Ulric's side-floor bouts, a Copper Shield in the afternoon and a young Wind from the salt end after supper. He had not watched him properly since the night he beat him, months ago, before Brom had ever come down the river. Ulric had been a Copper Blade with a heavy slash and a tell: the right shoulder dropped a finger's width before the big cut, every time. Cael had found it in the second of four watched bouts and beaten him with it in the fifth exchange, and Ulric had come up to him afterward, still holding his side, and said, *What were you watching?* And Cael had told him.
+That day Cael watched Ulric. He did it out of habit as much as anything, the way he would have watched anybody whose name was on a slate opposite his. He sat on the east bench with the grey book on his knee through two of Ulric's side-floor bouts, a Copper Shield in the afternoon and a young Wind from the salt end after supper. He had not watched him properly since the night he beat him, months ago, before Brom had ever come down the river. Ulric had been a Copper Blade with a heavy slash and a tell: the right shoulder dropped a finger's width before the big cut, every time. Cael had found it in the second of four watched bouts and beaten him with it in the fifth exchange, and Ulric had come up to him afterward, still holding his side, and said, *What were you watching?* And Cael had told him.
 
 Ulric had fixed it.
 
 Not all of it. You could not fix a thing that deep in a season; it had gone into him at the post too young. But the drop was smaller now, and it came later, and twice in the Shield bout it did not come at all. Cael watched him find his feet against the young Wind, who was quick and silly and kept trying to go round him. Ulric did not chase. He stood and let the boy come, and turned on the spot, and every turn kept him in the middle of the floor while the boy ran round the outside. He had learned something since the autumn. He had been watching people too.
 
 *Shoulder: smaller, later, sometimes gone,* Cael wrote under the old mark. *Doesn't chase. Keeps the middle. Turns on the spot. He's been somewhere and come back better.* And then, because it was true: *Good.*
+
+On the Tuesday, the morning of the bout, Brom stood with his hand on the shoulder a long time and said, "It's like a room after people have gone out of it, and somebody's begun to sweep." By then the arm would lift to the height of the shoulder and no higher. That was enough to guard with. It was not enough to strike with, and it was certainly not enough to put through a redirect, and Cael had no intention of asking it to.
+
+Quenna took the coach that morning. He did not go to see her off; she had not asked him to, and he thought she would rather he spent the morning on his shoulder. By the evening the hill had already begun to behave as if she had never been there.
 
 ---
 
@@ -108,7 +106,7 @@ Vell's pen moved.
 
 The room made a sound that was half a cheer and half a laugh, the sound a crowd makes when it has watched a thing it did not expect and liked it. Cael went to the rope and held out his left hand, and Ulric took it, and Cael pulled, gently, because the left would not pull hard. Ulric came up and over and stood on the stone, still laughing, rubbing the back of his calf.
 
-"You walked me," said Ulric.
+"You walked me."
 
 "You walked yourself. I only went round."
 
@@ -136,7 +134,7 @@ The notice came late, after the bout, while he was still awake at the desk.
 
 He was at the crate desk with the binder open in front of him and the lamp turned low, writing Ulric's line in the back pages in a hand that was nearly his own again. *Ulric. Main floor. Won, third exchange. Forfeit by the rope. Wind: two, both left. Feet. Eyes. Nothing else.* He had just written *Nothing else* and was looking at it, thinking that it was a pleasant thing to be able to write, when the room went quiet round him in the way he knew.
 
-It was not the lamp, or the street. It was the particular quiet that had come three times before, and never once when he was waiting for it. A held breath of the whole world, and then, in the middle of the quiet, in front of him and in no place at all, the words.
+It was not the lamp, or the street. It was the particular quiet that came with every notice, and never once when he was waiting for it. A held breath of the whole world, and then, in the middle of the quiet, in front of him and in no place at all, the words.
 
 ```
 FRAGMENT ACQUIRED
@@ -173,11 +171,7 @@ The column balanced. He felt it the way a clerk must feel a long sum come right 
 
 Then he turned back one leaf, to session nine.
 
-He read it all again. The thirteenth burst, the gathering met before it was sent, the push come apart in Brom's hands, the seven tries after with nothing. Brom's *Tide-adjacent*, and its limits. The three possibilities. *Evidence insufficient. Filed as anomaly. Monitor.* And under it, at the foot, in the field he kept for what would not go anywhere else: *Session nine. Could not reproduce. Still don't know what that was.*
-
-The new notice did not touch it. He held the two side by side in his mind, as he had on the bout night, and they were no closer now than they had been then. The notice said *force absorption*, and in session nine there had been no force to absorb, because the push had come apart before it was ever sent. The notice said *contact range*, and in session nine Brom's hands had arrived on his chest with nothing behind them. The notice said *damage redirect*, and in session nine nothing had been redirected and nothing had been damaged and nothing at all had been paid. Whatever session nine had been, it was not this.
-
-He added nothing to it, not a word, and kept the pen away from it altogether, so that the page stood as it had stood since the night before the bout.
+He did not read it through again. He had laid it beside the half-second on the bout night, field by field, and found them different everywhere he could look, and the notice in front of him changed none of that. It said *force absorption*, and in session nine nothing had been absorbed; the push had come apart before it was ever sent. Whatever session nine had been, it was not this. He added nothing to its leaf, and kept the pen away from it altogether, so that the page stood as it had stood since the night before the bout, with its one line at the foot.
 
 One anomaly. Still one.
 
@@ -243,9 +237,9 @@ She set the candle down on the desk, carefully, and put her waxy fingers flat on
 
 "That's a strange thing to think about," said Lira, and went through, and he heard her bed take her weight on the other side of the wall.
 
-He went down to the carters' inn at first light, through a frost so hard the cobbles rang, and Brom was already up, sitting on the bench outside the stable door with his breath going up in the cold, as if he had been expecting somebody. Cael gave him the binder open at the new page. Brom read it from the front, every word, the notice and the four heads and the line underneath, and then went back to the notice and read that again.
+He went down to the carters' inn at first light, through a cold so raw the cobbles sweated with it, and Brom was already up, sitting on the bench outside the stable door with his breath going up in the cold, as if he had been expecting somebody. Cael gave him the binder open at the new page. Brom read it from the front, every word, the notice and the four heads and the line underneath, and then went back to the notice and read that again.
 
-"*Contact range*," said Brom. "*Damage redirect*." He looked up. "It's mine. It's the thing I found in the boat shed. Hardened at the right instant, and the man went back along his own line." He shook his head slowly. "Only you've no hardness. You did it soft. You did it with the taking face, gathered and turned, where I'd have done it with a wall."
+"*Contact range*," said Brom. "*Damage redirect*." He looked up. "That's my trick. The thing I found in the boat shed. Hardened at the right instant, and the man went back along his own line." He shook his head slowly. "Only you've no hardness. You did it soft. You did it with the taking face, gathered and turned, where I'd have done it with a wall."
 
 "I didn't do it. It did."
 

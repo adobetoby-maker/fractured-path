@@ -26,7 +26,7 @@ The dock partner looked at the mark a while longer. Then he unfolded one arm and
 
 "Go on, then," said the dock partner. That was all he said, and he went back in and shut the door.
 
-They walked back up the hill by the river road, slowly, with the frost going off the cobbles in the first sun.
+They walked back up the hill by the river road, slowly, with the wet drying off the cobbles in the first sun.
 
 "You never said goodbye," said Cael. "Not to one of them. You paid them and went."
 
@@ -136,11 +136,11 @@ Nobody needed to ask who.
 
 "What did you say?" said Lira.
 
-"I said yes." Ansel looked at his cup. "And he said he'd been nineteen that year and so had I, and he'd not known then what it was to go down in front of a hall full of people who'd come to see you go down. He said he knew now." He set the cup down. "That was all. He didn't say sorry. There was nothing to be sorry for; it was a fair bout and he won it fair. He just stood in the doorway and said he knew now. And then he asked me if I'd show him what I did at the post, and I showed him, and he watched for a while, and went."
+"I said yes." Ansel looked at his cup. "And he said he'd been nineteen that year, and I'd been twenty-four, and he'd not known then what it was to go down in front of a hall full of people who'd come to see you go down. He said he knew now." He set the cup down. "That was all. He didn't say sorry. There was nothing to be sorry for; it was a fair bout and he won it fair. He just stood in the doorway and said he knew now. And then he asked me if I'd show him what I did at the post, and I showed him, and he watched for a while, and went."
 
 Nobody said anything.
 
-"I said his name on your floor at the end of our round," said Ansel. "You heard me. It was the first time in three years I'd said it aloud and not wanted the stone to open under me. But it still stuck, after. It caught on the way out, every time." He looked up at Cael. "It doesn't now. You started that, with your patience, on a cold floor at first light, and he finished it in a doorway. I wanted you to know before you went." He picked up the bill the cookshop man had laid on the table, and held it so that nobody else could reach it. "We're even. I said I'd buy the next one, and I have."
+Ansel laid both hands flat on the table. "I said his name on your floor at the end of our round. You heard me. It was the first time in three years I'd said it aloud and not wanted the stone to open under me. But it still stuck, after. It caught on the way out, every time." He looked up at Cael. "It doesn't now. You started that, with your patience, on a cold floor at first light, and he finished it in a doorway. I wanted you to know before you went." He picked up the bill the cookshop man had laid on the table, and held it so that nobody else could reach it. "We're even. I said I'd buy the next one, and I have."
 
 Lira went to see the four girls from the wall that night, on her own. She came back late and would not say what had been said, only that she had given the youngest her old wrist cloths, and that the youngest had cried, and so had she, and that it had been a good thing to do and she would not do it again for a hundred marks. She sat on the stairs a long time afterward with her staff across her knees. Cael sat on the stair below her, and neither of them talked.
 
@@ -196,7 +196,7 @@ Now, in the hall, in the cold before light, the heavyset man held the street doo
 
 "I always do," said Lira.
 
-The door shut behind them. They stood on the step in the dark with their packs on, and the street was white with frost, and somewhere at the bottom of the hill the first of the market barrows was coming up the cobbles with its iron wheels ringing.
+The door shut behind them. They stood on the step in the dark with their packs on, and the cobbles were wet and black under the lamp, and somewhere at the bottom of the hill the first of the market barrows was coming up the cobbles with its iron wheels ringing.
 
 "Market," said Lira. "Brom said the market. At the pump."
 

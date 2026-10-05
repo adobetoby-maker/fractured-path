@@ -24,5 +24,6 @@ N. \`manuscript/chapter-NN.md\`
    old: \`...\`
    new: \`...\`
 P
+if [ "${PROMPT_ONLY:-0}" = 1 ]; then echo "recheck prompt written: $S/recheck-prompt.md (PROMPT_ONLY=1; launch it with an Agent review seat)"; exit 0; fi
 cd $ROOT && env -u OPENAI_API_KEY -u OPENAI_BASE_URL nohup codex exec --cd $ROOT --skip-git-repo-check -o $S/recheck-r1.lastmsg.md "$(cat $S/recheck-prompt.md)" < /dev/null > $S/recheck-r1.stdout.log 2>&1 &
 echo $! > $ROOT/$S/recheck-r1.pid; echo "launched Sol recheck $B M$N pid $(cat $ROOT/$S/recheck-r1.pid)"

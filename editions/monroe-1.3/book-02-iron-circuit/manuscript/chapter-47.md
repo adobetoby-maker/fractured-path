@@ -114,7 +114,7 @@ Cael stood very still in the middle of the alcove.
 
 They found out.
 
-Brom came at him with the slow burst, the gathering and the push, but heavier now, with his weight behind it, and Cael planted and turned his left shoulder to it and let it in. The first time he gathered from habit, and the push sat him down on the stone as it always had, with his shoulder full of sand. The second time he did not gather, but took it on the turned shoulder and let it go, through, down through his ribs and his hip, and out through his back foot into the floor at a slant. For the length of a breath he felt the whole weight of Brom's push run through him like water through a pipe. Then it was gone past him, and it had turned him, and he was half a step closer to Brom than he had been, without having stepped.
+Brom came at him with the slow burst, the gathering and the push, but heavier now, with his weight behind it, and Cael planted and turned his right shoulder to it and let it in. The first time he gathered from habit, and the push sat him down on the stone as it always had, with his shoulder full of sand. The second time he did not gather, but took it on the turned shoulder and let it go, through, down through his ribs and his hip, and out through his back foot into the floor at a slant. For the length of a breath he felt the whole weight of Brom's push run through him like water through a pipe. Then it was gone past him, and it had turned him, and he was half a step closer to Brom than he had been, without having stepped.
 
 He stood there with his mouth open.
 

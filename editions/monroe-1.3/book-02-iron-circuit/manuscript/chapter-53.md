@@ -2,7 +2,7 @@
 
 He stood on the north mark with his left arm held against his ribs and made himself count before he let himself think.
 
-Four knocks in the second exchange, three answered, one smeared. One burst of the Wind, the one that had carried him into the man's aim. After that, nothing but feet. One redirect, crooked, bought off the rope with an arm already hurt, and the left shoulder ringing from it along the whole of the groove. That left two in the shoulder by the count he had made in the alcove, and the count had been made for a whole arm. He had half an arm now. *Call it one,* he thought. *Call it one, and be glad if it's two.*
+Four knocks in the second exchange, three answered, one smeared. One burst of the Wind, the one that had carried him into the man's aim. After that, nothing but feet. One redirect, crooked, bought off the rope on legs still shaking from the stone, and the right shoulder ringing from it along the whole of the groove. That left two in the shoulder by the count he had made in the alcove, and the count had been made for a body that had not just been put on the floor. *Call it one,* he thought. *Call it one, and be glad if it's two.*
 
 The forearm had settled into a long hot seam from wrist to elbow. The fingers worked if he asked them twice. His legs had paid for every step of the second exchange, and they let him know it now that he was standing still: a shake low in the thighs, a heaviness at the bottom of each breath.
 
@@ -139,15 +139,15 @@ He could not outrun a mill. Nobody could; it had been built that way. But a mill
 
 He took the next one on the redirect.
 
-To turn his left shoulder to it he had to turn half his back to the man, and he did, and planted, and let it in. It went through him at the slant the way Brom had taught him in the alcove: shoulder and side and hip, and out through the back heel into the stone. It was clean. It was the cleanest he had ever made, and the push of it going past shoved him a full step inward along a line he had chosen. Then the bill came, all of it, from the top of the left arm to the breastbone. The groove was full. The left shoulder told him there was nothing more in it tonight, in a voice he did not try to argue with.
+For once the bursts were coming at the side he had drilled. He had only to plant and turn the right shoulder a little further into the beat, and let it in. It went through him at the slant the way Brom had taught him in the alcove: shoulder and side and hip, and out through the back heel into the stone. It was clean. It was the cleanest he had ever made, and the push of it going past shoved him a full step inward along a line he had chosen. Then the bill came, all of it, from the top of the right arm to the breastbone, on top of the bill from the rope. The groove was alight from end to end. By the count he had made in the alcove there was one left in it, and the count had been honest all fortnight.
 
 He was a step closer. It was not enough. On the count, at his right shoulder, the next was gathering.
 
-There was no time to turn the left to it again, and nothing in the left if there had been.
+There was no time to go round it, and no legs to go round it with.
 
-There was the right.
+There was the last one.
 
-He had never drilled it. Not once in the alcove. Every redirect had gone through the left, because Brom's push only ever came at him straight on and the left was the side he turned. He did not know the line through the right side of his own body. Its price was a blank page. The only true thing he knew was that his legs had one more stand in them, perhaps, and not two. If he spent this burst getting out of the way, there would be nothing left to stand on against the one after it.
+One left, by the count, in a shoulder already burning from the top of the arm to the breastbone. The count had been made fresh, in an alcove, against Brom's slow push. It had never been made against a third burst at full weight with two already paid for. What the last one would cost tonight was a blank page. The only true thing he knew was that his legs had one more stand in them, perhaps, and not two. If he spent this burst getting out of the way, there would be nothing left to stand on against the one after it.
 
 *Now,* he thought, *while I can still plant.* And the deciding made the whole room go quiet inside him.
 
@@ -157,7 +157,7 @@ He planted on the *two*. On the *three*, he turned his right shoulder into it.
 
 For the first instant it was the drill.
 
-The burst came into the turned shoulder at the angle he gave it and began to run down through him, toward the ribs and the hip and the stone, the way the left had passed a dozen pushes in the alcove. *Let it through,* he thought. *Let it go.* It was the wrong side and a line he had never learned, but it was going, it was going down—
+The burst came into the turned shoulder at the angle he gave it and began to run down through him, toward the ribs and the hip and the stone, the way the shoulder had passed a dozen pushes in the alcove. *Let it through,* he thought. *Let it go.* The joint was spent and the line was going ragged, but it was going, it was going down—
 
 It stopped going down.
 
@@ -203,13 +203,13 @@ Cael did not hear his name in it. He heard it, but it did not land. What landed 
 
 He tried to count, and found he could not start where he always started.
 
-He always began at the top: the hip, then the hands, then down. Tonight his attention went to the right shoulder and stayed there, and he could not make it go anywhere else, because he did not know what he was looking at. It did not hurt like a bruise, or like the groove in the left, or like anything with a name. It was hollow. It felt like the flue of a chimney the morning after a chimney fire, when the stone is still warm all the way up and blackened by something that went through it faster and hotter than it was built to carry.
+He always began at the top: the hip, then the hands, then down. Tonight his attention went to the right shoulder and stayed there, and he could not make it go anywhere else, because he did not know what he was looking at. The groove was there, three redirects deep, loud and familiar, the drill's old bill. But under the groove, in the joint itself, there was something that did not hurt like a bruise, or like the groove, or like anything with a name. It was hollow. It felt like the flue of a chimney the morning after a chimney fire, when the stone is still warm all the way up and blackened by something that went through it faster and hotter than it was built to carry.
 
 So he made himself go back to the top and count the things he knew.
 
-The hip line, lit, six asked bursts. The left forearm, a long dark seam from the wrist to the elbow, which tomorrow would be every colour Lira had a word for. Both hands, which would not close all the way. The hollow under the ribs, full and aching. The left shoulder, two redirects deep, the groove alight. His legs, shaking now that he had let them. His knees, which he had locked, and which would send him their bill in the morning, itemised.
+The hip line, lit, six asked bursts. The left forearm, a long dark seam from the wrist to the elbow, which tomorrow would be every colour Lira had a word for. Both hands, which would not close all the way. The hollow under the ribs, full and aching. The groove through the right shoulder, three redirects deep, alight from the arm to the breastbone. His legs, shaking now that he had let them. His knees, which he had locked, and which would send him their bill in the morning, itemised.
 
-Then, again, the right shoulder.
+Then, again, the joint under the groove.
 
 There was no entry for it. He had not called it. He had not aimed it or wanted it; he had not known there was anything there to want. He had only gone where it was already pointing. That was the whole of what he had done, and he held on to that, because it was true and he could stand on it. Everything else about the last half second was a door he did not mean to open in the middle of the Ironyard with six hundred people watching.
 

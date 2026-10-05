@@ -122,7 +122,7 @@ Quenna read the page through once, and then again, more slowly. Then she laid it
 
 "You know."
 
-"I know his line. It's on the wall of your Circuit Master's building and in your keeper's book, for anybody who stands there long enough, and I have stood there six nights." She turned the cup a quarter-turn on the page. "Eight bouts on the main floor, seven won. The one he lost, his first. His win over you. A season of side floors before that, up the river, which I wrote to ask about. And his name in a stable book at Velmere, which I did not write to ask about, because I didn't need to."
+"I know his line. It's on the wall of your Circuit Master's building and in your keeper's book, for anybody who stands there long enough, and I have stood there six nights." She turned the cup a quarter-turn on the page. "Nine bouts in your keeper's book, eight won. The one he lost, his first. The ninth, his win over you. A season of floors before any of that, up the river, which I wrote to ask about. And his name in a stable book at Velmere, which I did not write to ask about, because I didn't need to."
 
 "Then why didn't you speak to him? Last night?"
 

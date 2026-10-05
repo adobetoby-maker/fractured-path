@@ -60,7 +60,7 @@ The hand was so bad that he could hardly read it himself. He wrote slowly, three
 
 *Giving face: three, third exchange, all on his beat. Ribs, front of the right shoulder, thigh above the knee, the last on a gathering, which broke it. Hollow full. Both hands paid.*
 
-*Redirects: three. First, off the rope, left shoulder, crooked: the forearm was already hit. Second, fourth exchange, left, clean, the cleanest I've made; it bought a step and the left was done. Third, fourth exchange, right shoulder. Never drilled on the right. Not once.*
+*Redirects: three, all the right shoulder, the drilled side. First, off the rope, crooked: I'd just come off the stone and my legs weren't under me. Second, fourth exchange, clean, the cleanest I've made; it bought a step. Third, fourth exchange, the last the shoulder had in it by the count.*
 
 There the pen stopped, lifted, while the lamp hissed.
 
@@ -68,7 +68,7 @@ Then, because the Log did not get to keep only the comfortable things, he wrote 
 
 *The third did not stay a redirect. It started as one, going down through me toward the floor, and then it stopped going. It gathered in the right shoulder and turned and went back out along the line it came in by, into him, and I went in behind it. I didn't call it. I didn't aim it. I didn't know it was there to call. I had a moment when I could have let it go, and I went in instead. That's all I did. The going in was mine. The rest wasn't.*
 
-*Cost: the right shoulder, all of it. Arm dead to the fingers for the length of the bout and after. Now: hollow in the joint, like a flue after a fire. Not a bruise. Not the groove. Not anything I have a word for.*
+*Cost: the right shoulder, all of it. Arm dead to the fingers for the length of the bout and after. Now: the groove, three deep, the way the drill always leaves it; and under the groove, in the joint, a hollow, like a flue after a fire. Not a bruise. Not anything I have a word for.*
 
 *Knees: locked, on purpose, so I'd be the one standing. They'll send their bill tomorrow.*
 
@@ -76,7 +76,7 @@ He read it back. Then he turned the page and wrote the other part, the part that
 
 *The plan held. Three reads, and he dropped every one: where I land; the rope; a boy who only stands off. The fourth came with no read in it, and it was the one of my three guesses I had an answer for. Volume, on a count. The count was the thing I could read. Hesk's mill wheel, every paddle in the same place every turn.*
 
-*But the answer I'd built wasn't enough. I'd built three redirects for a shoulder that had already been hit. If the third had only gone through me at the slant, the way the drill goes, I'd have been a step closer with nothing left in either arm and nothing left in my legs, and the next paddle was already coming. I'd have lost. Slowly, properly, with the plan right and me wrong.*
+*But the answer I'd built wasn't enough. I'd built three redirects for a body that hadn't been on the stone yet. If the third had only gone through me at the slant, the way the drill goes, I'd have been a step closer with nothing left in either arm and nothing left in my legs, and the next paddle was already coming. I'd have lost. Slowly, properly, with the plan right and me wrong.*
 
 *Something else finished it. I don't know what.*
 
@@ -132,7 +132,7 @@ Brom came and put one big hand flat on the right shoulder, over the joint, very 
 
 His hand stayed there through twenty of Cael's breaths.
 
-"It's quiet," he said at last. "That's all I can tell you. The left's loud: it's all bruise and groove, I can feel it from here, it's like standing next to a smithy. The right's quiet." He took his hand away and looked at it, as he had looked at his hands in the alcove after session nine. "Not dead. I'd know dead. Quiet the way a room's quiet after a lot of people have just gone out of it."
+"It's quiet," he said at last. "Under the groove. That's all I can tell you. The groove's loud, all three of them, I can feel it from here, it's like standing next to a smithy. But under it, in the joint, it's quiet." He took his hand away and looked at it, as he had looked at his hands in the alcove after session nine. "Not dead. I'd know dead. Quiet the way a room's quiet after a lot of people have just gone out of it."
 
 "Is that bad?"
 

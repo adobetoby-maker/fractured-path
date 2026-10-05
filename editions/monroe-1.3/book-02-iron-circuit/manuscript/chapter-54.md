@@ -116,7 +116,7 @@ Brom had come round by the north rope. He stood a little way off, not crowding, 
 
 "What did it feel like?" said Brom.
 
-Cael thought about it. He thought about it honestly, because Brom had asked honestly, and because it was the first question anybody had asked him since the end that he could answer. He went back through the fourth exchange: the mill, and the count, and the left shoulder full, and the right shoulder turning; the moment at the fork, and his knees, and the half second afterward when he had not known whether they would hold.
+Cael thought about it. He thought about it honestly, because Brom had asked honestly, and because it was the first question anybody had asked him since the end that he could answer. He went back through the fourth exchange: the mill, and the count, and the shoulder full, and the last one turning; the moment at the fork, and his knees, and the half second afterward when he had not known whether they would hold.
 
 "Like I had enough."
 
